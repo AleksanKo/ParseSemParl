@@ -1,0 +1,636 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM3004.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 35/2017 vp
+
+Täysistunto
+
+Keskiviikko 5.4.2017 klo 14.00—15.42
+
+5. Hallituksen esitys eduskunnalle laeiksi vankeuslain, tutkintavankeuslain ja yhdyskunta-
+seuraamusten täytäntöönpanosta annetun lain muuttamisesta 
+
+Hallituksen esitys HE 263/2016 vp
+Valiokunnan mietintö LaVM 4/2017 vp
+
+Ensimmäinen käsittely
+
+Puhemies Maria Lohela: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 5. asia.
+Käsittelyn pohjana on lakivaliokunnan mietintö LaVM 4/2017 vp. Nyt päätetään lakiehdo-
+tusten sisällöstä.
+
+Keskustelu
+
+14.53 Antero Laukkanen kd: Arvoisa rouva puhemies! Tässä esityksessä, josta on val-
+mistunut mielestäni varsin laadukas mietintö, jossa teimme paljon yhteistyötä, kuuntelim-
+me paljon asiantuntijoita ja keskustelimme, keskeiset muutoksethan liittyvät vangeille
+maksettavaan käyttörahaan, toimintarahaan ja palkkaan, siihen, miten vanki voisi vanki-
+lassaoloaikansa aikana ansaita pientä käyttörahaa ja miten tämä järjestelmä olisi tätä van-
+gin toimeliaisuutta tukeva ja vahvistava.
+
+Vankien taloudellisia etuuksia koskeva järjestelmä on nykyisin varsin monimutkainen,
+sillä se perustuu useisiin palkka- ja toimintarahaluokkiin, joiden perusteet eivät ole yksise-
+litteiset ja selkeät, ja sen takia tässä esityksessä niitä nyt selkeytetään.
+
+Oikeastaan kaksi asiaa nostan täältä keskusteluun.
+Tämä käyttörahan pienuus huomioon ottaen valiokuntaa puhuttivat todella paljon nämä
+
+puheluiden kalliit hinnat, joita näissä suljetuissa laitoksissa peritään. Kuulemisessa kävi il-
+mi, että tämä johtuu erityisesti siitä, että vankipuhelinjärjestelmä uudistettiin vuonna 2014.
+Kun se otettiin käyttöön, niin tähän järjestelmäuudistukseen liittyi se, että nämä puhelujen
+hinnat nousivat todella paljon. Tämä on sillä tavalla vähän ongelmallista, että jos vankilaa
+uudistetaan, niin maksajaksi joutuu vanki, ja tämä oli meistä mielenkiintoinen ajatus. Jos
+tämän aivan käytännönläheisesti rautalangasta selkokielelle vääntää, ei voi olla niin, että
+jos vankilan keittiössä kokin palkka nousee, niin vangin ateria pienenee. Ja tässä on vähän
+sama tilanne, että tämä on erittäin hassua ja omituista, ja sen takia valiokunta tästä kirjasi
+hyvin selkeästi, että tämä asia pitäisi muuttaa, kun seuraavan kerran kilpailutetaan nämä
+puhelimien käyttömaksut.
+
+Sitten toinen, josta käytiin keskustelua, oli vankien sitominen. Perustuslakivaliokunta
+antoi siitä lausunnon, ja kävi ilmi, että sellaisena kuin hallitus oli sitä esittänyt, se ei toimi-
+nut, ja sen takia ne pykälät sieltä poistettiin. En käy tässä niitä kertaamaan ja lukemaan tätä
+sisältöä, ehkä varapuheenjohtaja Biaudet tulee enemmän puhumaan tästä. Totean vain sen,
+että tämä meidän ihmisoikeusperustainen lainsäädäntömme toimii tässä hyvin. Vaikka aja-
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+tellaan, että tämä vankien sitominen olisi ollut tietyllä tavalla kuljetusten aikana hyvä yh-
+tenäistää ja tehdä yksinkertaiseksi, niin kuitenkin siellä tulevat sitten nämä yksilön oikeu-
+det, että ketä voidaan missäkin tilanteessa ja millä perusteella sitoa. Kävi ilmi, että perus-
+tuslain näkökulmasta jokaisen kohdalla pitää erikseen ratkaista, mitä sen kuljetuksen aika-
+na tehdään. Minusta tämä, että ihmisoikeudet tässä tulivat nyt selkeästi näkyviin, ne toimi-
+vat, niitä valvotaan ja niistä pidetään huolta, on prosessina tärkeä.
+
+14.57 Ben Zyskowicz kok: Arvoisa puhemies! Arvoisat kansanedustajat! On helppo jat-
+kaa siitä, mihin edustaja Laukkanen lopetti. Hän nimittäin totesi, että tämä ihmisoikeusval-
+vonta esimerkiksi tässä tapauksessa osoitti, miten järjestelmämme toimii hyvin. Minulle se
+nimittäin osoitti, että järjestelmämme toimii hyvin huonosti.
+
+Mistä tässä asiassa on kyse? Eduskunta hyväksyi yksimielisesti lakivaliokunnan ehdot-
+taman lausuman ja lausui seuraavaa: "Eduskunta edellyttää, että hallitus ryhtyy kiireelli-
+sesti valmistelemaan lainsäädäntömuutoksia, joilla vankikuljetusten turvallisuus voidaan
+taata nykyistä paremmin." Ja asiasta antamassaan mietinnössä, 17/2014, lakivaliokunta piti
+ongelmallisena sitä, ettei lainsäädäntö mahdollista kuljetettavien vankien sitomisesta päät-
+tämistä kuljetuskohtaisesti. Lakivaliokunta piti välttämättömänä, että hallitus jatkaa sellai-
+sen säännöksen valmistelua, jonka avulla vankikuljetusten turvallisuus voitaisiin nykyistä
+paremmin taata. Valiokunnan mukaan relevantteja näkökohtia säännöksessä voisivat olla
+muun muassa kuljetettavien vankien määrä ja kuljetusolosuhteet. Kaupunkialueella kulje-
+tuksessa käytettyjen autojen nopeus on alhainen ja autot joutuvat pysähtelemään, mikä kas-
+vattaa vangin karkaamisvaaraa, joka saattaa siten aiheuttaa vaaraa turvallisuudelle. Eli la-
+kivaliokunta käsitteli vankeuslainsäädäntöä, totesi epäkohdan tietyissä tilanteissa, ja vaik-
+ka se olisi muiden vankien turvallisuuden ja henkilökunnan turvallisuuden kannalta välttä-
+mätöntä, niin ei voida laittaa edes lyhytaikaisesti kaikille siinä samassa vankikuljetuksessa
+oleville vangeille käsirautoja. Lakivaliokunta ja eduskunta edellyttivät, että hallitus tuo tä-
+hän liittyvän korjausehdotuksen.
+
+No, hallitus sitten näin menetteli, ja hallituksen esityksen sivulta 50 löytyi sitten tämän
+mukainen momentti, joka kuului näin — tai sanotaan ensin, että 1 momentissa oli tuotu
+esiin nämä perusedellytykset yksittäisen harkinnan kohdalla eli karkaamisen estäminen ja
+väkivaltainen käyttäytyminen, mutta sitten esitettiin lisättäväksi 2 momentti, joka kuuluisi
+näin: 
+
+"Sen estämättä, mitä 1 momentissa säädetään, lyhytaikaisen kuljetuksen ajaksi kaikki
+samassa ajoneuvossa kuljetettavat vangit voidaan sitoa" — ja sitten tarkkana — "jos se on
+välttämätöntä vangin tai muun henkilön turvallisuuden suojelemiseksi tai kuljetuksen tur-
+vallisuuden säilyttämiseksi kuljetettavien suuren määrän, poikkeuksellisten liikenneolo-
+suhteiden tai muun näihin rinnastettavan syyn vuoksi. Sitomista ei saa jatkaa pitempään
+kuin on välttämätöntä."
+
+No, tämä ainakin minulle kuulostaa hyvin järkeenkäyvältä. Eduskunta toivoi ja hallitus
+esitti, että jotta voidaan suojella kuljetuksen turvallisuutta, henkilöiden turvallisuutta, niin
+voidaan poikkeuksellisesti tämän säädöksen nojalla lyhytaikaisesti laittaa kaikille kuljetet-
+taville vangeille käsiraudat.
+
+Sen jälkeen tämä esitys lähti lausunnolle eduskunnan perustuslakivaliokuntaan ja perus-
+tuslakivaliokunta katsoi, että tämä säädös on Suomen perustuslain vastainen. Voi hellan-
+lettas sentään, että mennään niille vangeille laittamaan käsiraudat, jos se on välttämätöntä
+sen kuljetuksen turvaamiseksi, vankien turvaamiseksi, henkilökunnan turvaamiseksi — ei
+2
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+tällaista saa tehdä, Suomen perustuslaki kieltää tällaisen. Näin päätyi eduskunnan perus-
+tuslakivaliokunta ajattelemaan, ja niin kuin edustaja Laukkasen puheenvuoro äsken osoit-
+ti, me kansanedustajat ajattelemme, että no, kai siellä perustuslaissa sitten on sellainen py-
+kälä, joka tämän kieltää, tai kai tämä tulkinta sitten on se ainoa mahdollinen oikeudellisesti
+perusteltu tulkinta tässä tulkintatilanteessa.
+
+No, näinhän ei tietystikään ole. Kun minä katson, keitä lakivaliokunnassa on ollut kuul-
+tavana näistä asiantuntijoista, ja tunnistan nämä vanhat ystäväni erittäin tiukoiksi perustus-
+lain tulkitsijoiksi ja varsinkin syytettyjen vankien, rikollisten oikeuksien ylimitoittajiksi,
+niin en ollenkaan ihmettele, että yksimielinen perustuslakivaliokunta on päätynyt siihen,
+että ei sitä nyt saa mennä laittamaan käsirautoja, jos se on välttämätöntä vankien turvalli-
+suuden takaamiseksi, sen kuljetuksen turvallisuuden takaamiseksi väliaikaisesti, lyhytai-
+kaisesti ja sitomisesta pitää välittömästi luopua — miten täällä sanottiin — kun se ei ole
+enää välttämätöntä. Luen uudestaan: "Sitomista ei saa jatkaa pitempään kuin on välttämä-
+töntä." Tässä sitä nyt ollaan.
+
+Minä haluan nyt kuulla perustuslakivaliokunnan jäseniltä, millä te perustelette tätä. Jos
+täällä ei ole ketään perustuslakivaliokunnan jäsentä tätä vastausta antamaan, niin esitän,
+että asia laitetaan pöydälle johonkin lähiaikojen istuntoon, jotta kuulemme jonkun perus-
+tuslakivaliokunnan jäsenen kertovan, miksi se on vastoin perustuslakia, että meillä vanki-
+kuljetuksessa, jossa on useita vankeja — on vaarallisempia vankeja ja vähemmän vaaral-
+lisia vankeja, niitä on samassa kuljetuksessa monia, ja heitä viedään esimerkiksi oikeuden-
+käyntiin — vangeille ei saa laittaa käsirautoja tämän esityksen mukaisesti poikkeukselli-
+sesti kaikille, jos se on välttämätöntä turvallisuuden varmistamiseksi.
+
+Luen vielä tämän hallituksen esittämän momentin: [Eva Biaudet’n välihuuto] "Sen es-
+tämättä, mitä 1 momentissa säädetään, lyhytaikaisen" — siis lyhytaikaisen — "kuljetuk-
+sen ajaksi kaikki samassa ajoneuvossa kuljetettavat vangit voidaan sitoa, jos se on välttä-
+mätöntä vangin tai muun henkilön" — siis vangin tai muun henkilön, esimerkiksi vangin-
+vartijan — "turvallisuuden suojelemiseksi tai kuljetuksen turvallisuuden säilyttämiseksi
+kuljetettavien suuren määrän" — siis pitää olla tämmöinen edellytys — "poikkeuksellisten
+liikenneolosuhteiden tai muun näihin rinnastettavan syyn vuoksi."
+
+Minä olen aikaisemminkin, niin kuin ilmeisesti edustaja Biaudet’n välihuudosta, josta
+en saanut selvää, voi päätellä, arvostellut näitä perustuslakiasiantuntijoita ja heidän johdol-
+laan tehtyjä ylitiukkoja perustuslakivaliokunnan tulkintoja. Mutta onhan tämä nyt järjetön-
+tä. Tämä on järjetöntä. On Suomen perustuslain vastaista heidän mukaansa, siis perustus-
+lakivaliokunnan mukaan, laittaa vangeille käsiraudat, jos se on — ja luen tämän pykälän
+vielä kerran, kunhan löydän sen täältä, sivu 50: "... jos se on välttämätöntä" — siis välttä-
+mätöntä, ei tarpeellista, vaan välttämätöntä — "vangin tai muun henkilön turvallisuuden
+suojelemiseksi tai kuljetuksen turvallisuuden säilyttämiseksi kuljetettavien suuren mää-
+rän, poikkeuksellisten liikenneolosuhteiden tai muun näihin rinnastettavan syyn vuoksi.
+Sitomista ei saa jatkaa pitempään kuin on välttämätöntä." Minä en käsitä ollenkaan enää.
+Minkä maan parlamentissa minä olen? Ja kuka täällä säätää lait? Eduskunnan perustusla-
+kivaliokunnan kuulemat muutamat ylikiihkeiden, tiukkojen tulkintojen kannattajaprofes-
+sorit vai Suomen eduskunta? [Eva Biaudet: Kuka puhuu?] Todellakaan en käsitä ollen-
+kaan.
+
+En ole sitä mieltä, että se, että ihminen on joutunut vankilaan tai tutkintavankeuteen, vei-
+si häneltä kaikki oikeudet, [Eva Biaudet: Aijaa!] ei tietystikään. — Edustaja Biaudet, kun
+jatkatte oikeustieteen opintojanne, niin tulette huomaamaan, että nykyinen oikeustiede läh-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+tee siitä, että se, että ihminen joutuu vankilaan, ei tarkoita, että hänen oikeutensa, normaa-
+lit oikeutensa, perusoikeutensa loppuisivat. [Eva Biaudet: Olen lukenut kaikki rikosoikeu-
+det!] — Olette suorittanut? No hyvä! [Eva Biaudet: Ja prosessin myös!] — Ja prosessin, no
+sitten tiedättekin, että se ei tarkoita sitä. [Eva Biaudet: Puuttuu vain gradu!]
+
+Sellainen ajattelu, että me voimme ottaa kaverin telkien taakse, pitää häntä vangittuna
+— hän on vankilassa, hänen oikeuksiaan on rajoitettu, hän on vanki — mutta sitten kun
+häntä kuljetetaan esimerkiksi oikeudenkäyntiin, niin jopa tilanteessa, jossa on välttämätön-
+tä muiden vankien turvallisuuden vuoksi, vanginvartijoiden turvallisuuden vuoksi laittaa
+hänelle käsiraudat lyhytaikaisesti kuljetuksen ajaksi, se on vastoin meidän perustuslakiam-
+me — hei, haloo, tämä on aivan järjetöntä. On perustuslain mukaista laittaa kaveri koppiin
+ja pitää hänet siellä. On perustuslain mukaista, että hänet on tuomittu vankeuteen tai hän on
+tutkintavankeudessa. Mutta on perustuslain vastaista laittaa hänelle käsiraudat lyhytaikai-
+sen kuljetuksen ajaksi, jos se on välttämätöntä muiden ihmisten turvallisuuden takaamisek-
+si. Tätä mieltä on Suomen eduskunnan perustuslakivaliokunta armon vuonna 2017.
+
+Esitän, että asia pannaan pöydälle.
+
+Toinen varapuhemies Arto Satonen: Pyydän vielä, että edustaja tekee täsmällisemmän
+esityksen, mihin istuntoon haluatte pistää tämän pöydälle.
+
+Herra puhemies! Riittääkö, että seuraavaan puhemiesneuvoston sopivana pitämään is-
+tuntoon, joka lähiaikoina pidetään?
+
+Toinen varapuhemies Arto Satonen: Tulkitaan, että seuraavaan täysistuntoon. — Seu-
+raavaksi edustaja Biaudet.
+
+[Zyskowicz pyytää edustaja Biaudet’lta anteeksi tätä koskevia puheitaan.]
+
+15.08 Eva Biaudet r: Arvoisa puhemies! Hän ei saa anteeksi. — Tässä menee pasmat ai-
+van sekaisin, kun edustaja Zyskowicz veti tuollaisen kiihkopuheen täällä. Mielestäni hän
+teki juuri sitä, mitä hän yrittää usein tehdä. Hän itse asiassa puhuu asian vierestä täysin. Ky-
+symyshän ei ole siitä, että ei voisi koskaan sitoa, vaan kysymys on siitä, että ei voi päättää
+joukkokuljetuskohtaisesti vaan on päätettävä jokaisen vangin kohdalta yksilöllisesti. Tämä
+on se suuri ero. Ja jos hän olisi vaivautunut eikä haluaisi käyttää muiden aikaa turhaan ja
+vielä eduskunnan voimavaroja turhaan ja vielä ehkä eri valiokuntien aikaa turhaan, hän nä-
+kisi, että kyse on yhden vankilan käytännön haasteesta. Heillä on vanhanaikainen kalusto,
+he tarvitsevat yhden auton lisää. [Sari Essayah: Mikä vankila?] — Vantaan vankila. — Sii-
+nä mielessä ehkä tämä asia nyt on hiukan liioiteltu, edustaja Zyskowicz, teidän näkökul-
+mastanne, koska teillä on niin oma agendanne tässä perustuslakivaliokuntaa vastaan koh-
+distuvassa hyökkäyksessä, mutta kysymyksessä oikeasti ei ole tämänkaltainen asia. Itse
+asiassa hallitushan olisi hyvin voinut tietää tämän jo etukäteen. Perustuslakivaliokunta on
+jo ennen sanonut, että on ihan selkeä asia, että tällaisia päätöksiä ei voi tehdä joukkokoh-
+taisesti, ryhmäkohtaisesti, vaan ne täytyy päättää jokaisen henkilön, jokaisen vangin koh-
+dalla erikseen. Silloin se on mahdollista, ja siinä mielessä turvallisuuteen vetoaminen johti
+hiukan harhaan. Myöskin perustuslakivaliokunta on lausunnossaan selvästi sanonut, että se
+sitominenkin voi olla terveysriski. Joutuu joskus miettimään hiukan eri intressejä ja pun-
+nitsemaan niitä ja miettimään, mikä on iso asia, mikä ei ole ja niin edelleen. Tässä kohdas-
+sa minun mielestäni, edustaja Zyskowicz, menette kyllä nyt hiukan väärään suuntaan.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+Minun oikean puheeni ei itse asiassa pitänyt olla ollenkaan tästä asiasta, koska ajattelin,
+että tämä on niin itsestään selvää. Ajattelin hiukan samoin kuin edustaja Laukkanen ottaa
+esille vankien tilanteen ja puhua siitä, että tämä hallituksen esitys on sinänsä varmasti erit-
+täin hyvä ja me olemme yhdessäkin käsitelleet sitä sovussa mutta valiokunta on silti päät-
+tänyt korostaa ja nostaa esille sen todellisuuden ja sen tosiasian, että vankien käyttörahan
+suuruus on erittäin niukka. Sitä ei ole nostettu tai siihen ei ole tehty muutoksia kymmeneen
+vuoteen. Siinä mielessä jos on niin, että tämän peruskäyttörahan lisäksi pystyy saamaan sit-
+ten toimintarahaa, niin se hiukan suurenee. Tämä käyttöraha on noin 40—50 euroa kuu-
+kaudessa, ja sitten tällainen toimintaraha voi olla 100—200 euroa kuukaudessa, jolloin se
+tilanne on ehkä aika toinen. Mutta ei ole aina vangista kiinni, voiko hän olla toiminnassa
+mukana. Voi olla, ettei ole löytynyt sellaista toimintaa, johon voi osallistua. Siinä mielessä
+tähän pitää kiinnittää huomiota tulevaisuudessa, ja on kohtuullista, että heillä on mahdol-
+lisuus saada esimerkiksi hygieniatarvikkeita ja muuta riittävästi.
+
+Tämä korostuu vielä, kuten edustaja Laukkanen nosti esille, kun jostain syystä on tehty
+tällaisia puhelinjärjestelmäsopimuksia puhelimen käyttöön, joka on niin sanottu vanhanai-
+kainen lankapuhelin, ja ne ovat erittäin kalliita. Siis ne puhelut ovat moninkertaisia hinnal-
+taan verrattuna meidän kaikkien muiden puheluihin, ja vangit joutuvat tämän maksamaan.
+Jos puhuu 10 minuuttia päivässä, niin koko tämä käyttöraha voi mennä ihan hyvin vain näi-
+hin puheluihin. Mitkään tavoitteet eivät tue sitä, että vankien yhteydet omaisiinsa ja muu-
+hun siviiliyhteiskuntaan pienenevät, vaan on tärkeää, että he pystyvät olemaan yhteydessä
+sukulaisiin, ystäviin ja jopa hoitamaan jotain asioita. Siinä mielessä olen erittäin iloinen,
+että valiokunta aika tiukasti sanoo, että viimeistään seuraavassa puhelinjärjestelmää kos-
+kevassa kilpailutuksessa — sekin on siis aika pitkä aika, koska se sopimus loppuu vasta tä-
+män vuoden lopussa — tulee varmistua siitä, että puhelujen hinnat vangeille eivät poikkea
+merkittävästi yleisten puhelujen hintatasosta. Kaiken lisäksi myöskin herättää minussa
+hämmästystä, että tähän asiaan ei ole saatu korjausta, vaikka oikeusasiamies jo vuonna
+2015 on kiinnittänyt tähän vakavaa huomiota.
+
+Muuten mielestäni asia on ihan kannatettava, ja en katso, että edustaja Zyskowiczin esit-
+tämä asia on sen arvoinen, että me käyttäisimme tähän yhtään tätä enempää aikaa.
+
+15.13 Hannu Hoskonen kesk: Arvoisa herra puhemies! Käsittelyssä oleva valiokunnan
+mietintö koskien lakia vankeuslain, tutkintavankeuslain ja yhdyskuntaseuraamusten täy-
+täntöönpanosta annetun lain muuttamisesta on toki ajankohtainen ja varmaan tunteita he-
+rättävä mutta minun mielestäni ei nyt ehkä kuitenkaan mikään myrsky, [Eva Biaudet: Ei!]
+jos nyt myrsky kuitenkin, niin vesilasissa sitten. Mutta joka tapauksessa nämä vankien
+asiat ovat Suomessa kyllä mielestäni ja ihan oikeastikin sen kuulemisen perusteella, mitä
+perustuslakivaliokunta kävi, vähintään hyvällä tasolla.
+
+Se, mistä keskusteltiin, totta kai, ja mihin edustaja Zyskowicz kiinnitti ansiokkaasti huo-
+miota, on se, onko vankien sitominen tai käytännössä siis käsirautojen käyttäminen kulje-
+tusten aikana mahdollista. Oikeastaan tästä pykälästä kuultiin asiantuntijoita ja käytiin pit-
+kä keskustelu, ja oikeastaan tämähän koskee vain niitä niin sanottuja tutkintavankiloita,
+kun vanki, joka on vangittu rikoksesta epäiltynä, sitten viedään tuomioistuimeen. Vantaan
+vankilaa, aivan kuten edustaja Biaudet puheessaan mainitsi, tämä lähinnä koskee, totta kai
+muitakin vankiloita mutta Vantaan vankilaa lähinnä, ja sieltä kuljetetaan sitten vangittu
+henkilö tuomioistuimeen tuomiolle rikoksestaan.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+Tässä yhteydessä nykyinen tekniikka on jo tämän lakiesityksen ohi tavallaan ajanut,
+koska ennenhän oli sellaisia vanginkuljetusautoja, tämmöisiä amerikkalaisen tyyppisiä
+busseja, isoja henkilöautoja tai pikkubusseja, joissa henkilöt istuivat ikään kuin normaalis-
+ti penkeillä, mutta nyt on saatu kuulemma käyttöön jo sellaiset autot, joissa jokaiselle van-
+gille on oma loosinsa, tämmöinen eräänlainen häkki, jossa hän istuu omalla penkillään tur-
+vavöihin köytettynä tai hän käyttää turvavyötä, niin kuin liikenteessä olevan pitääkin käyt-
+tää tieliikennelain mukaan. Tällaista ongelmaa, että hänet tarvitsisi sitoa tiukasti käsirau-
+toihin, jotta ei aiheudu vaaraa joko itselle tai sitten siinä samassa autossa olijoille tai mah-
+dollisesti karkaamistilanteessa ulkopuolisille, ei enää käytännössä ole. Ainakin näissä ny-
+kyaikaisissa autoissa jokainen istuu omassa pienessä aidatussa kopissaan, josta ei pääse
+ulos ennen kuin vanginvartija on avannut lukon ja päästänyt henkilön ulos. Periaatteessa
+tämä ongelma on pitkälti poistunut, mutta on aivan erinomaista, että edustaja Zyskowicz
+kiinnittää huomiota siihen, että pystymme lainsäädännöllä edistämään asioiden nopeaa toi-
+mintaa mutta myös ihmisoikeuksia. Molemmat pitää toki ottaa huomioon.
+
+Suomessahan oikeusasiamies valvoo vankiloiden ja vankien asemaa niin, että vankien
+asema ja heidän olosuhteensa vankilassa ovat inhimilliset eikä rikota ihmisoikeussopimuk-
+sia. Esimerkiksi Euroopan ihmisoikeustuomioistuimen sopimukset ja muut kansainväliset
+säännöthän oikeuttavat siihen, että vanki voidaan esimerkiksi käsirautoihin laittaa kulje-
+tuksen ajaksi. Se ei ole mitään outoa, ja siitä on ihan ennakkopäätökset Euroopan ihmisoi-
+keustuomioistuimesta, niin että ei tässä Suomikaan ole rikkomassa mitään lakeja eikä var-
+sinkaan kansainvälisiä sopimuksia, joten tässä voisin todeta, että kun nykyiset määrärahat
+on käytetty järkevästi, niin näitä vankienkuljetusautoja, osastoituja autoja, täälläkin on jo
+olemassa ja tämä ongelma on käytännössä poistunut. Henkilö istuu siellä mennessä, kun
+häntä viedään tuomioistuimeen tai sieltä pois, omassa yksiössään siinä autossa ja lukon ta-
+kana, ja sitten kun kuljetus päättyy, niin lukko avataan ja henkilö pääsee taas joko sinne
+tuomioistuimeen tai vankilaan takaisin, elikkä tätä ongelmaa ei käytännössä enää ole. Var-
+maan jossakin puolella Suomea pieni ongelma on vielä, mutta en yhden tai kahden tapauk-
+sen takia lähtisi kyllä isoja johtopäätöksiä tekemään, koska kuitenkin parempaan suuntaan
+ollaan menossa.
+
+15.17 Sari Essayah kd: Arvoisa puhemies! On mielenkiintoista kuunnella tätä lakivalio-
+kunnan mietinnön ja myöskin sitten perustuslakivaliokunnan lausunnon pohjalta käytyä
+keskustelua.
+
+Kuitenkin näyttää olevan niin, että edustaja Laukkanen tuossa aloituspuheenvuorossaan
+aika hyvin summasi nämä keskeisimmät kohdat. Elikkä ensinnäkin on todella tärkeää huo-
+lehtia siitä, että tosiaankaan nämä vankiloitten puhelinjärjestelmien uudistamiset eivät voi
+johtaa siihen, että esimerkiksi nämä puhelujen hinnat olisivat huomattavan paljon suurem-
+mat kuin niin sanotusti vapaudessa eläville henkilöille. Ja toinen tärkeä asia on myöskin
+sitten näitten erilaisten niin sanottujen työrahojen ja vastaavien tasojen selvittäminen ja tie-
+tynlainen synkronisointi, niin että se ei johda esimerkiksi siihen, että henkilö vaikkapa työ-
+toiminnan valitsee sillä perusteella, mistä ikään kuin saa parhainta palkkaa, vaikka se ei
+edesauttaisi sitten sitä hänen vapautumisen jälkeistä elämäänsä.
+
+No, sitten ehkä tästä sitomispykälästä: Edustaja Hoskonen perustuslakivaliokunnan jä-
+senenä minun mielestäni hyvin ansiokkaasti selvitti sitä, että Suomessa nyt on muutamia
+harvoja tällaisia vankiloita ja että nämä säännökset liittyvät nimenomaan näihin yksittäis-
+tapauksiin harkinnan perusteella, mikä tässä perustuslakivaliokunnan lausunnossa tuli sit-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+ten selkeästi esille. Täytyy luottaa tässä tietenkin siihen, että valiokunnassa on kuultu run-
+saasti asiantuntijoita ja että tämä asia on käyty perusteellisesti läpi ja että tämä ei toisaalta
+estä myöskään tätä muitten vankien ja myöskään sitten muitten kuljetukseen osallistuvien
+turvallisuusnäkökohtien huomioimista, ja se on minun mielestäni kaikkein tärkeintä. Edus-
+taja Hoskonen tuossa kertoi, että myöskin nämä turvallisuusnäkökohdat nykyisillä, uudis-
+tetuilla kuljetusvälineillä on pystytty huomioimaan, ja tämä on minun mielestäni kaiken tä-
+män kuljetustoiminnan lähtökohta.
+
+15.19 Ben Zyskowicz kok: Arvoisa herra puhemies! Aivan alkuun haluan edustaja Biau-
+det’lta pyytää anteeksi sitä, että naljailin hänen tutkinnostaan. Pidän edustaja Biaudet’ta
+paitsi erittäin pätevänä kansanedustaja myös erittäin pätevänä juristina ja pahoittelen sitä,
+että kiihdyksissäni tulin naljailleeksi asiasta. Se ei ollut asianmukaista, ja sitä, kuten sanot-
+tu, pyydän anteeksi.
+
+Mutta mitä itse asiaan tulee, niin argumentti on nyt ollut sellainen sekä edustaja Biau-
+det’n että edustaja Hoskosen puolelta, että kun käytännössä on olemassa Vantaan vankila
+ja siellä on ollut joitain ongelmia ja nyt kun ne ongelmat on kuljetuskaluston kehittymisen
+myötä ja ehkä muutoinkin pystytty pitkälle ratkaisemaan, niin tämä ei ole ongelma. No,
+itse asiassa minä en kiinnittänyt niinkään huomiota näihin käytännön ongelmiin, vaan
+minä kiinnitin huomiota nimenomaan tähän asian periaatteelliseen puoleen. Ei perustusla-
+kivaliokunta arvioidessaan perustuslainmukaisuutta tietystikään miettinyt, onko se Suo-
+messa Vantaan vankila vai onko Sukevan vankila vai onko joku muu vankila, vaan perus-
+tuslakivaliokunta mietti ja sen asiantuntijat opastivat valiokuntaa miettimisessään, onko
+tällainen momentti, mikä tänne pykälään esitettiin lisättäväksi, Suomen perustuslain mu-
+kainen. Nyt me tiedämme, että Suomen perustuslain mukaista ei ole, että laitettaisiin sa-
+maan kuljetukseen osallistuvista vangeista kaikille käsiraudat, vaikka "se on välttämätöntä
+[Eva Biaudet: Yhden kohdalla!] vangin tai muun henkilön turvallisuuden suojelemiseksi
+tai kuljetuksen turvallisuuden säilyttämiseksi kuljetettavien suuren määrän, poikkeuksel-
+listen liikenneolosuhteiden tai muun näihin rinnastettavan syyn vuoksi" ja vaikka "sitomis-
+ta ei saa jatkaa pitempään kuin on välttämätöntä". Tämä on se kysymys, ei Sukevan van-
+kila eikä Vantaan vankila eivätkä bussit eivätkä muut, vaan tämä on periaatteellinen kysy-
+mys: Suomen eduskunnan perustuslakivaliokunta perustuslain ylimpänä tulkitsijana on
+käyttänyt harkintaansa ja todennut, että yksittäisen vangin, vartijan ja muun turvallisuus
+painaa sen verran vähän tässä pohdiskelussa, että vaikka olisi välttämätöntä näiden turval-
+lisuuden varmistamiseksi ja säilyttämiseksi laittaa kaikille samaan kuljetukseen tuleville
+vangeille käsiraudat, on perustuslain vastaista säätää, että näin voitaisiin tehdä.
+
+Edustaja Eva Biaudet on ihan oikeassa, tässähän on juuri kyse siitä, tuleeko jokaisen
+vangin kohdalla erikseen todeta siinä oleva riski esimerkiksi karkaamisesta tai väkivaltai-
+suudesta vai voiko olla niin, että jos on välttämätöntä vangin, vartijan tai jonkun muun pai-
+kalla olevan henkilön turvallisuuden takaamiseksi, niin voitaisiin laittaa kaikille poikkeuk-
+sellisesti lyhytaikaisesti käsiraudat. Minä kauhistelen sitä, että Suomen eduskunnan perus-
+tuslakivaliokunta on päätynyt siihen, että näiden muiden vankien ja vanginvartijoiden tur-
+vallisuus ei paina riittävästi, jotta tämä voitaisiin katsoa perustuslain mukaiseksi. Minusta
+se on kauhistuttavaa. Onko tärkeämpää se, että se yksittäinen vanki, jonka kohdalla yksi-
+löllinen harkinta ei johtaisi käsirautoihin, välttyy näiltä käsiraudoilta, kuin se, että otettai-
+siin huomioon välitön uhka tai katsottaisiin, että se on välttämätöntä sen uhan poistamisek-
+si, joka kohdistuu samassa kuljetuksessa oleviin vankeihin ja vartijoihin? Siis tämä tulkin-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+ta ja harkinta ja punninta on nyt perustuslakivaliokunnassa tehty, ei koskien Vantaan van-
+kilaa, ei sitä, onko se bussi vai kuorma-auto vai pakettiauto tai onko se Sukevan vankila. Ei
+sitä harkintaa ole tehty, se on käytännön asia, vaan on harkittu periaatteellisesti, painaako
+näiden vankien turvallisuusriski ja vartijoiden turvallisuusriski, ja jos se koetaan välttämät-
+tömäksi sen riskin pienentämiseksi, niin painaako se niin paljon, että jollekin konnalle,
+joka joko istuu vankilassa tai sitten on tutkintavankeudessa epäiltynä rikoksesta, voidaan
+laittaa käsiraudat. Ja nyt me olemme sitä mieltä, että ei paina, heidän turvallisuutensa ei
+paina niin paljon, että Suomen perustuslaki perustuslakivaliokunnan tulkinnan mukaan
+sallisi käsirautojen laittamisen kaikille samaan kuljetukseen osallistuville vangeille.
+
+Tästä on kyse, ei Vantaan vankilan bussista. No, sitten jos mennään tähän puoleen, niin
+menee vielä vaikeammaksi. Perustuslakivaliokunnan jäsen Hoskonen kertoi, että se on
+kyllä ihan yksilönvapauksien kunnioittamista ja kaikin puolin sopivaa, että laitetaan johon-
+kin lukittuun häkkiin — niin kuin hän sanoi. Se mies tai nainen saadaan laittaa sinne lukit-
+tuun häkkiin kuljetuksen ajaksi, ja se on teidän mielestänne hyvä juttu, mutta se, että hä-
+nelle voitaisiin laittaa käsiraudat, on perustuslain vastaista. Käsittämätöntä!
+
+Sitten pitää sanoa tästä pöydällepanosta, että kun edustaja Hoskonen nyt kuitenkin rita-
+rillisesti yritti puolustaa ainoana perustuslakivaliokunnan paikalla olevana jäsenenä tätä
+perustuslakivaliokunnan kantaa, joka olisi ollut kyllä parempi kuulla esimerkiksi valiokun-
+nan puheenjohtaja Lapintieltä, niin vaikka edustaja Hoskosen yritys olisi oikeustieteen ter-
+mein niin sanottu kelvoton yritys — eli yritys oli hyvä, mutta lopputulos ei ollut kovin va-
+kuuttava [Naurua] eikä toteuttanut oikeasti asian perustelemista tyydyttävällä tavalla —
+niin katson, että edustaja Hoskosen ritarillinen yritys on riittävä syy siihen, että perun tä-
+män pöydällepanoesityksen. Ja ehkä asiaan on jonkun verran vaikuttanut sekin, että sitä ei
+kukaan näytä kannattavan. [Vastauspuheenvuoropyyntöjä]
+
+Toinen varapuhemies Arto Satonen:  No niin, otetaan tässä lyhyt vastauspuheenvuoro-
+kierros.
+
+15.26 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Lakitie-
+teelliset opintoni ovat kovin vaatimattomat: toki metsäpuolen ja kiinteistöpuolen lakeja
+olen jonkun verran lukenut, mutta tätä prosessioikeutta tai rikosoikeutta en ole lukenut. 
+
+Tärkeätä tässä on minun mielestäni huomata se, että kun niitä nykyaikaisia kuljetusau-
+toja on jo olemassa ja siellä jokaiselle vangille tai tutkintavankina olevalle henkilölle on
+oma varattu tilansa, joka on hänelle turvallinen — turvallisuushan on myös sitä, että jos
+joku siellä rupeaa riehumaan, hän ei riehumalla pääse aiheuttamaan vahinkoa toisille ihmi-
+sille, sehän siinä on se idea — jos auto ajaa vaikka metsään, niin ei kukaan pääse karkaa-
+maan, kaikki istuvat kuitenkin turvallisesti turvavöissä ja niin edelleen. Eli tässä on kyllä
+myrsky vesilasissa kysymyksessä.
+
+Kolmas asia: Kun esimerkiksi Sukevalla tai jossakin muussa vankilassa näitä hienoja
+autoja ei ehkä ole, niin murheellistahan siinä on se, että poliisi joutuu kuljettamaan heitä
+sitten mustanmaijan takapenkillä suljetussa tilassa, joka on myös turvallinen. Ei tässä ole
+ongelmaa. Ymmärrän tämän ihmisoikeusasian, ja edustaja Zyskowicz on siinä asiassa hy-
+vin ansioitunut.
+
+15.27 Eva Biaudet r (vastauspuheenvuoro): Arvoisa puhemies! Eihän ole niin, että tur-
+vallisuutta halutaan vähentää, vaan kysymys on siitä, miten se turvallisuus voidaan turvata
+8
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+ja miten se voidaan taata. Pitääkö se tehdä niin, että kajotaan oikeuksiin kuten yksilönva-
+pauteen ja niin edelleen, vai voidaanko se tehdä muulla tavoin, jolloin ei tarvitse tehdä näin
+rankkoja toimenpiteitä — siitähän perustuslakiarvioinnissa on kysymys, ei siitä, että tei-
+dän mielestänne se olisi ollut parempi tapa tai pitääkö jostain tavasta enemmän.
+
+Kysymys on siitä, että kun yksi henkilö aiheuttaa tämän vaaran, riittääkö, että häneen
+kohdistuu se, vai kohdistetaanko silloin vapauteen puuttuminen myös niihin, joilla ei ole
+mitään osallisuutta siihen. Mutta toki kysymys on siitä, että pitää turvata, ja on tietenkin vi-
+ranomaisten, valtion ja meidän asia turvata se turvallisuus. Se on mahdollista tehdä ilman,
+että rikotaan näin perustavanlaatuisia oikeuksia. Eikö se nyt ole ihanteellinen ratkaisu?
+
+Toinen varapuhemies Arto Satonen: Sitten puhujalistaan.
+
+15.28 Sari Essayah kd: Arvoisa puhemies! Lakivaliokunnan mietintö ja nyt tämä keskus-
+telu kyllä kirvoittavat sen ajatuksen, että tätä mietintöä kannattaa ehdottomasti käyttää pe-
+rusteluna toiseen asiaan, joka siellä lakivaliokunnassa on kesken, elikkä tämä käräjäoike-
+usverkoston harventaminen.
+
+Sukevan vankila on nimittäin se vankila, jossa myös näitä tutkintavankeja on, ja Iisal-
+men käräjäoikeuden kanslian lakkautushan on tässä esityksessä sisällä. Monta kertaa täällä
+salissa on sanottu, että se on nimenomaan näistä kaikista käräjäoikeuden kanslioista se,
+jonka lakkauttaminen ei näilläkään näkymin ole tuomassa mitään säästöjä, johtuen siitä,
+että tällä hetkellä Kuopiossa ei ole tarpeeksi tiloja siihen, että sekä Varkaudesta että Iisal-
+mesta ollaan siirtämässä jutut sinne Kuopioon ja joudutaan rakentamaan lisää, plus että Ii-
+salmen käräjäoikeuden kanslian asiakaskunnasta valtaosa tulee Sukevalta. Tämähän tar-
+koittaa nyt sitä, mitä edustaja Hoskonenkin totesi. Itse en tunne asiaa tarkasti, onko Suke-
+valla sitten minkälaisia kuljetusautoja, mutta olen kuullut, että kun siellä aiemmin kulje-
+tusmatkoille riitti pienempi poliisimiehitys, kun lähdettiin käymään Iisalmessa, mikä
+yleensä vei korkeintaan puoli päivää, niin nyt kun lähdetään ajamaan sieltä Kuopioon, joka
+tulee jo lähestulkoon 90 kilometrin päähän Iisalmesta ja yli 100 kilometrin päähän Suke-
+valta, tarvitaan koko päivä tähän kuljetukseen, tarvitaan useampi poliisimies, jolloinka
+nämä kustannukset entisestäänkin kasvavat.
+
+Elikkä nytten, kun me toteamme, että esimerkiksi tällaisissa kuljetuksissa ei voida käyt-
+tää sitä, että useampi vanki olisi yhtä aikaa tällaisessa niin sanotussa mustassamaijassa ja
+kun ei voida perustella sitä muuten kuin yksittäistapauksen harkinnan perusteella, että näil-
+lä henkilöillä voisi olla käsiraudat, niin silloinhan tämä entisestäänkin on lisäämässä näitä
+kustannuksia, joita valtiolle on tulossa tästä Iisalmen käräjäoikeuden kanslian lakkauttami-
+sesta. Näin ollen toivon, että jos täällä on vielä lakivaliokunnan henkilöitä paikalla, niin
+tämä mietintö otettaisiin vakavana perusteena sille, että [Puhemies koputtaa] Iisalmen kä-
+räjäoikeuden kansliaa ei lakkauteta.
+
+15.30 Jari Myllykoski vas: Arvoisa herra puhemies! Täytyy sanoa, että oikeudelliset
+opinnot ovat kyllä jokseenkin vähissä, mutta enemmänkin tuolta työoikeuden puolelta on
+jonkinnäköistä tuntemusta.
+
+Tämä keskustelu kirvoitti kyllä minut kysymään, olenko ymmärtänyt oikein — ja toi-
+vottavasti edustaja Hoskonen voisi sitten vahvistaa tai olla vahvistamatta näkemystäni —
+että tässä on kuitenkin kysymys siitä, että on ryhmä, jonka yhteinen nimittäjä on tässä koh-
+taa vanki, ja sillä yhteisellä nimittäjällä ei voida tehdä koko joukolle yhtenäistä päätöstä il-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+man, että rikotaan ihmisen perusoikeuksia. Eli jokaisen kohdalla voidaan tehdä tämä pe-
+rusoikeudellinen arviointi, jos hän on uhka, mutta mielestäni sellaisen vangin sitominen,
+josta asiantuntemuksella siellä vankeinhoitolaitoksessa on hänen taustansa perusteella ar-
+vioitu, että hän ei ole uhka muille vangeille, on kyllä perusteetonta — se, että hänet sido-
+taan sen vuoksi, että hänen yhteinen nimittäjänsä näiden muiden kanssa on vanki. Tämä
+antaa semmoisen mielikuvan minulle, että meillä joiltakin ihmisryhmiltä oman kulttuuri-
+perimänsä tai vaikkapa meillä täällä kotimaassa olevaan vähemmistöön kuulumisen vuok-
+si voidaan yksilönvapautta rajoittaa ilman, että sitä perustellaan sen yksittäisen yksilön
+osalta. Minun mielestäni, jos olen ymmärtänyt oikein, tästä on nyt kysymys, että perustus-
+laki ei mahdollista jonkun yhtenäisen ja yhden nimikkeen perusteella tehtäviä ratkaisuja,
+jotka menevät yksilön oikeuden edelle.
+
+15.32 Ben Zyskowicz kok: Arvoisa puhemies! Kun täällä on viitattu kansainvälisiin ih-
+misoikeussopimuksiin, niin tässä perustuslakivaliokunnan mietinnössä viitataan moniin
+kansainvälisiin ihmisoikeussopimuksiin ja -suosituksiin, mutta se lienee selvää, että tämä
+hallituksen esittämä momentti, joka nyt perustuslakivaliokunnan tulkinnan mukaan on
+vastoin Suomen perustuslakia, ei olisi ollut vastoin mitään Suomea sitovaa ihmisoikeus-
+velvoitetta.
+
+Toiseksi: Tässä edustaja Biaudet kertoi, että näin rankoilla toimilla puututaan yksilön-
+vapauteen. No, en ole ihan varma, etteikö se olisi aika rankka toimenpide, että suljettuun
+häkkiin, lukittuun häkkiin, laitetaan sen kuljetuksen ajaksi. Kyllä sekin kuulostaa aika ran-
+kalta toimenpiteeltä, mutta ehkä se sitten perustuslakiasiantuntijoiden tietämän mukaan —
+he ovat varmasti asiantuntijoita — on yksilölle vähemmän rankka toimenpide kuin se, että
+hänelle laitetaan käsiraudat.
+
+Mutta, edustaja Myllykoski, ei ole niin, että jollakin yleisellä perusteella — sillä perus-
+teella, että olet vanki, tai sillä perusteella, että kuulut vaikkapa johonkin etniseen ryhmään,
+tai sillä perusteella, että olet samassa kuljetuksessa kuin joku paloittelumurhaaja tai muu-
+ten vaarallinen raiskaaja — myös sinut voitaisiin laittaa käsirautoihin. Ei ole niin, vaan täs-
+sä hallituksen esityksessä oli monta edellytystä: ensinnäkin, että se on lyhytaikainen kulje-
+tus, toiseksi, että se on samassa ajoneuvossa, mutta kolmanneksi, ja oleellisimmin, että se
+on välttämätöntä — siis välttämätöntä, välttämätöntä — vangin tai muun henkilön turval-
+lisuuden takaamiseksi. Ja vielä edellytyksenä on, että tämä tilanne johtuu suuresta määräs-
+tä, poikkeuksellisista liikenneolosuhteista tai muusta näihin rinnastettavasta syystä. Ja
+edelleen säädettiin, että sitä ei voi jatkaa pitempään. Ymmärrän, edustaja Myllykoski, että
+yritätte ymmärtää parhain päin, ja se on hienoa, mutta ei ole niin, että pelkästään jollakin
+yleisellä perusteella [Puhemies koputtaa] voitaisiin toimia.
+
+15.34 Hannu Hoskonen kesk: Arvoisa herra puhemies! Vielä lopuksi tästä asiasta omal-
+ta kohdaltani se, että perustuslakivaliokuntahan kuuli monia asiantuntijoita, kuten muun
+muassa apulaisoikeusasiamies Jussi Pajuojaa. Oikeusasiamieshän valvoo vankiloiden olo-
+suhteita, että siellä vankeja kohdellaan niin kuin ihmisoikeussopimus edellyttää ja ihmis-
+arvo yleensä edellyttää. Kuultiin myös professori Olli Mäenpäätä ja professori Kimmo
+Nuotiota, ja sitten professori Lavapuro antoi lausuntonsa ja professori Martin Scheinin an-
+toi myös lausuntonsa kirjallisesti. Viime mainittu asiantuntijahan on kansainvälisesti ar-
+vostettu ihmisoikeusjuristi. Kyllä minun mielestäni tämä ihmisoikeuspuoli tässä tuli aika
+hyvin käsiteltyä ja myös se puoli, että kun vankia tai tutkintavankeudessa olevaa lähdetään
+10
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+viemään jonnekin tuomioistuimen käsittelyä varten, niin kyllä hänen oikeuksistaan pide-
+tään huoli ja otetaan huomioon myös se, että kuljetuksessa on tietenkin muitakin vankeja
+monessa tapauksessa, että heidänkin turvallisuudestaan huolehditaan.
+
+Pitää muistaa, että kun se kuljetus lähtee, niin eivät tietenkään ovet ole siinä autossa au-
+ki, se on jo lukittu sillä hetkellä, kun se lähtee. Siis ulko-ovet on lukittu, siitä ei pääse ulos
+millään. Onko sitten yhden lukon takana vai kahden lukon takana, se ei minusta ole tässä
+asiassa oleellista, koska kuitenkin on pidettävä huoli siitä, että ihminen viedään sinne tuo-
+mioistuimeen turvallisesti ja palautetaan sieltä omaan paikkaansa turvallisesti ja niin, että
+ei kenenkään muun, ulkopuolisen ihmisen turvallisuutta vaaranneta. Sehän tässä on se teh-
+tävä. Ja kun kerran ihmisoikeustuomioistuimen ja Euroopan neuvoston ohjeet antavat tä-
+män mahdollisuuden ja tämä pitää tehdä näin, niin minun mielestäni se on aivan oikein.
+
+Siitä voidaan toki juridista semantiikkaa viljellä kovasti, menikö tämä nyt ihan kaikkien
+tyylipisteiden mukaan, mutta kun ihminen on tehnyt rikoksen ja hänet on vangittu, niin
+kyllä hänen jonkun verran pitää sietää tietysti sitä epämukavuuttakin, koska onhan vanki-
+lassa oleminen vapaana olemiseen verrattuna erittäin, erittäin erilainen olosuhde kuin mi-
+hin me olemme täällä ulkopuolella tottuneet.
+
+15.36 Ben Zyskowicz kok: Arvoisa puhemies! Ehkä tätä keskustelua ei todellakaan kan-
+nata nyt pitkään jatkaa, kaikilla meillä on kiire vaalikentille. Mutta pitkään keskustelua
+voitaisiin käydä siitä, että perustuslakivaliokunnan jäsenen Hoskosen mielestä vangin, jota
+kuljetetaan vaikka sairaalaan tai oikeudenkäyntiin tai muualle, pitää sietää se, että hänet
+pannaan lukittuun autoon, eikä se riitä, vaan siellä lukitussa autossa hänet pannaan, niin
+kuin edustaja Hoskonen käytti ilmaisua, lukittuun häkkiin. Se hänen pitää sietää.
+
+Mutta jos hänen pitäisi sietää se, että hänelle pannaan käsiraudat, koska se on välttämä-
+töntä muiden vankien tai muun henkilön turvallisuuden takaamiseksi, niin se on perustus-
+lain vastaista. Sitä ei tämän vangin enää pidä sietää.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 263/2016 vp sisältyvien 1.-3. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+11
+
+

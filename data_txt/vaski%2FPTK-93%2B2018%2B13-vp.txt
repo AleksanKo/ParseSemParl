@@ -1,0 +1,278 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMC35.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 93/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 93/2018 vp
+
+Täysistunto
+
+Tiistai 2.10.2018 klo 14.05—22.06
+
+13. Hallituksen esitys eduskunnalle yleissopimukseen tavaran kansainvälisessä tiekuljetuk-
+sessa käytettävästä rahtisopimuksesta tehdyn sähköistä rahtikirjaa koskevan lisäpöytäkir-
+jan hyväksymiseksi ja voimaansaattamiseksi sekä laiksi tiekuljetussopimuslain muuttami-
+sesta
+
+Hallituksen esitys HE 156/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 13. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävaliokuntaan.
+
+Lähetekeskustelua varten varataan tässäkin 30 minuuttia. Mikäli puhujalistaa ei ehditä
+annetussa ajassa käydä loppuun, asiakohdan käsittely keskeytetään ja sitä jatketaan tämän
+päivän istunnossa muiden asiakohtien tultua käsitellyiksi. Jos keskustelu asiasta puoles-
+taan päättyy ennen sille varatun määräajan päättymistä, siirrytään päiväjärjestyksen seu-
+raavaan, 14. asiakohtaan. — Ministeri Berner, olkaa hyvä.
+
+Keskustelu
+
+20.13 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa rou-
+va puhemies! Liikennepalvelulakihankkeen keskeisenä tavoitteena on sujuvoittaa liiken-
+nealan sääntelyä. Haluamme Suomeen modernia ja mahdollistavaa sääntelyä. Lainsäädän-
+nön tulee tukea digitalisaation hyödyntämistä, ei estää sitä. Tämän tavoitteen saavuttami-
+seksi on tärkeää, että hyödynnämme täysimääräisesti kansainvälisen sääntelyn meille tar-
+joamat mahdollisuudet.
+
+Nyt annetulla esityksellä ehdotetaan Suomen liittymistä YK:ssa tehtyyn lisäpöytäkir-
+jaan, joka täydentää sopimusta tiekuljetuksessa käytettävästä rahtisopimuksesta. Lisäpöy-
+täkirja sallii sähköisten rahtikirjojen käyttämisen kansainvälisissä tiekuljetuksissa sopi-
+musvaltioiden välisessä kuljetuksessa, kun tähän asti sopimus on kattanut vain paperiset
+asiakirjat. Samalla tiekuljetussopimuslakia muutettaisiin ottamaan huomioon nämä lisä-
+pöytäkirjan tuomat uudet mahdollisuudet.
+
+Esityksellä edistetään logistiikkasektorin digitalisaatiota. Tietojen saaminen paperilta
+sähköiseen muotoon on edellytys logistiikkasektorin laajemmalle digitalisaatiolle. Se on
+ensimmäinen askel tietojen parempaan hyödyntämiseen kuljetusketjussa. Kun tiedot ovat
+jatkossa entistä enemmän sähköisessä muodossa, voi se tulevaisuudessa helpottaa tietojen
+käyttämistä entistä joustavampien palveluiden luomiseksi tai nopeuttaa viranomaisvalvon-
+taa.
+
+Arvoisa rouva puhemies! Suomen liittyminen lisäpöytäkirjaan on toimialan kovasti
+odottamaa. Toivonkin, että asia voidaan joutuisasti käsitellä ja liittyminen pikaisesti vah-
+vistaa. Näin voimme tarjota suomalaisille toimijoille ympäristön, joka tukee heidän digita-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 93/2018 vp
+lisaatiotoimenpiteitään ja siten vahvistaa heidän asemaansa kansainvälisessä kilpailussa.
+— Kiitos. 
+
+Puhemies Paula Risikko: Sitten puhujalistaan, edustaja Kulmala. 
+
+20.14 Kari Kulmala sin: Arvoisa puhemies! Esityksellä saatettaisiin voimaan sähköistä
+rahtikirjaa koskeva lisäpöytäkirja yleissopimukseen tavaran kansainvälisessä tiekuljetuk-
+sessa käytettävästä rahtisopimuksesta. Tiekuljetussopimuslakia sovelletaan kansainvälis-
+ten kuljetusten lisäksi myös kotimaisiin kuljetuksiin.
+
+Tämän esityksen tavoitteena on saattaa Suomessa voimaan eCMR-lisäpöytäkirja. Lisäk-
+si tavoitteena on edistää logistiikan digitalisaatiota kotimaisissa kuljetuksissa sallimalla
+lain tasolla sähköisten rahtikirjojen käyttäminen.
+
+Pidän sähköisten rahtikirjojen mahdollistamista hyvänä uudistuksena, vaikka erityisesti
+vaarallisten aineiden kuljetuksessa olisi hyvä olla myös paperiversio mukana kuljetukses-
+sa voimassa olevan lain mukaisin vaatimuksin. Perustelen tätä sillä, että kun tällainen ajo-
+neuvo joutuu onnettomuuteen, monesti vaaralliset aineet huomataan ensin ajoneuvon mer-
+kinnöistä. Mikäli merkintänä on vain ajoneuvon edessä ja takana oranssi suorakaiteenmuo-
+toinen tunniste ilman numerointia, ei se sisällä muuta tietoa kuljetettavasta aineesta. Kun
+pelastushenkilöstö tulee paikalle, on tärkeää saada mahdollisimman nopeasti tieto kuljetet-
+tavasta aineesta. Tämä löytyy helpoiten yritykseltä, mikäli he ehtivät vastaamaan puheli-
+meen. Tämän jälkeen tieto löytyy nykysäännösten mukaan ajoneuvon sisältä paperiversio-
+na.
+
+Arvoisa puhemies! Mielestäni vaarallisen aineen kuljetuksessa olisi hyvä, että tiedot
+rahdista löytyisivät jatkossakin sähköisen version lisäksi myös paperiversiona, mutta nämä
+ADR-määräykset ovat kansainvälisiä määräyksiä, eivät pelkästään kansallisia.
+
+20.16 Ari Torniainen kesk: Arvoisa rouva puhemies! Tätä hallituksen esitystä on nimen-
+omaan kauan odotettu ja toivottu, ja kiitos, että se on nyt meillä täällä käsittelyssä. Vihdoin
+myöskin kuljetusala saa näin toivomiansa asioita eteenpäin. Ja voin sanoa, kun olen vuo-
+sien saatossa ollut liikenne- ja viestintävaliokunnassa, että useissa kokouksissa on tähän
+asiaan viitattu ja toivottu, että myös Suomessa sähköinen rahtikirja otettaisiin käyttöön.
+Tätä on toivottu muun muassa, kun keskusteltiin kabotaasilainsäädännöstä ja siihen liitty-
+vistä asioista. Tätä asiaa on toivottu, kun ollaan puhuttu harmaan talouden torjunnasta. Täl-
+lä hallituksen esityksellä torjutaan myös harmaata taloutta. 
+
+Hallituksen esityksen tavoitteena on edistää logistiikkasektorin digitalisaatiota. Omasta
+mielestäni on erittäin hyvä, että tiedot ovat tämän jälkeen sähköisessä muodossa. Ne ovat
+silloin ajan tasalla, ja niitä pystytään seuraamaan myöskin jatkossa. Kaiken kaikkiaan tämä
+hallituksen esitys on erittäin toivottu ja toivottavasti saa myös valiokunnassa yksimielisen
+käsittelyn ja voidaan viedä ripeästi asiaa eteenpäin.
+
+20.18 Markku Pakkanen kesk: Arvoisa rouva puhemies! CMR-sopimus on vanha ja
+kansainvälinen sopimus, jota on vuosien saatossa päivitetty. Taitaa olla niin, että 1956 on
+ensimmäiset sopimukset jo tehty, ja tämähän on tätä kansainvälistä rahtikirjaa. Sähköistä
+rahtikirjaa on todellakin toivottu jo useamman vuoden ajan, ja on hienoa, että se nyt vii-
+mein saadaan Suomessakin ajan tasalle. Se helpottaa kansainvälisiä kuljetuksia ja seuran-
+taa. Harmaata taloutta, niin kuin täällä on tullut esille, sillä pystytään torjumaan. Ja yleises-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 93/2018 vp
+tikin ottaen, jos tämä digitalisaation tuleminen jossain työtä helpottaa, niin tämän tyyppi-
+sissä asioissa raskaassa liikenteessä. Kotimaisessa liikenteessä tätä asiaa varmaan vielä ke-
+hitellään ja tiellä paperiset rahtikirjat taitavat säilyä edelleen, mutta kansainvälisissä rahti-
+kirjakäytännöissä tämä eCMR-rahtikirja saadaan toivottavasti mahdollisimman pikaisesti
+voimaan. 
+
+20.19 Katja Taimela sd: Arvoisa rouva puhemies! Nyt keskustellaan todellakin tavaran
+kansainvälisessä tiekuljetuksessa käytettävästä rahtisopimuksesta tehdyn sähköistä rahti-
+kirjaa koskevan lisäpöytäkirjan hyväksymisestä ja voimaan saattamisesta sekä ehdotukses-
+ta laiksi tiekuljetussopimuslain muuttamisesta. Käytännössä tämä tarkoittaa siis sitä, että
+mahdollistetaan sähköisen rahtikirjan käyttöönotto kansainvälisessä tavaraliikenteessä hy-
+väksymällä kansainvälisen sopimuksen lisäpöytäkirja. Tämä sähköisen rahtikirjan käyttö
+ei tule pakolliseksi, vaan yritykset voivat itse sopia keskenään sen käytöstä. Ja sen käsityk-
+sen mukaan, minkä itse olen tästä saanut myös eri kuljetusyrittäjiltä, suuremmilla yrityk-
+sillä on pääsääntöisesti halua investoida rahtikirjojen sähköistämiseen kustannuksista huo-
+limatta, koska tämä sähköinen rahtikirja tulee kuitenkin aina vähentämään niitä virheitä ja
+tuo myös tehokkuutta siihen työhön. Toinen juttu on sitten se, että palaute on ollut myös
+sen kaltaista, että ehkä lähtökohtaisesti pienemmillä yrityksillä on vähemmän halukkuutta
+tähän investointiin. Sähköistä rahtikirjaa voidaan käyttää tietysti myös sovittaessa koti-
+maan liikenteessä, niin kuin tässä keskustelussa on myös jo tullut esiin. 
+
+Sitten mitä tulee tähän harmaaseen talouteen ja harmaan talouden kitkemiseen — koska
+kaikessa lainsäädännössä, jossa me voimme harmaata taloutta kitkeä, niin meidän yksin-
+kertaisesti pitää se tehdä — tätä sähköistä rahtikirjaa on ajettu yhtenä tavaraliikennealan
+harmaata taloutta torjuvana keinona aiempina vuosina eri työryhmissä ja eri verkostoissa.
+Ja toive on todellakin kuljetusalalla itsellään myös, että nyt sitten tämä sähköinen rahtikir-
+ja tulee toteutumaan. Me olemme tätä sähköistä rahtikirjaa pitäneet myös oman puolueeni
+osalla esillä kabotaasilainsäädännön kansallisten säädösten purkamisen aikana. Ja näin ly-
+hyesti voisin loppuun todeta, että kun kabotaasia pystytään valvomaan paremmin, kun saa-
+daan parempaa tietoa rajanylitystilanteista, kun saadaan onnettomuustilanteista rahtitietoa
+ja kun verojen ja muiden liikenteen maksujen valvonta paranee, se on yksinkertaisesti Suo-
+men etu ja se on eduskunnan etu, ja tässä asiassa pitää edetä todella nopeasti valiokunta-
+työssä.
+
+20.21 Jukka Kopra kok: Arvoisa rouva puhemies! Tämä sähköisen rahtikirjan käyttöön-
+otto on tervetullut hanke, jolla edistetään hallitusohjelman julkisten palvelujen digitalisoi-
+mispyrkimyksiä. Kyseessä on hyvä edistysaskel. Se edistää kuljetussektorin toimintaa ja
+parantaa mahdollisesti sen kilpailukykyä. Sähköistä rahtikirjaa on kuljetusalalla toivottu
+pitkään, kuten olemme täällä kuulleet, ja hyödyt ovat ilmeiset muun muassa toimintojen te-
+hostamisessa ja harmaan talouden torjunnassa. Lisäpöytäkirjaan liittyminen ja sähköisen
+rahtikirjan mahdollistaminen on hyvä hanke, ja toivon sen ripeää etenemistä täällä edus-
+kunnan lainsäädäntöprosessissa.
+
+20.22 Leena Meri ps: Arvoisa puhemies! Kun ministeri esitteli tätä, niin minulle tuli ihan
+nuoruus mieleen. Olin 90-luvulla huolintaliikkeessä liikenneapulaisena Finnexpress
+Oy:ssä ja ASG Oy:ssä. Niitä ei enää ole. Muistan elävästi, kuinka käsin kirjoitin rahtikir-
+joja ja passeja myös täällä Pohjoismaiden liikenteestä. Niitä passejahan ei enää tarvita. Mo-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 93/2018 vp
+nesti kuljettajat odottivat sitten jonossa siinä, että saivat rahtikirjat ja passit, kun kuorma oli
+lastattu, ja siinä oli muuten todella kiire ja se oli tosi kiireistä työtä. He meinasivat ehtiä sit-
+ten Eteläsatamaan laivoihin, ja siinä kyllä oli sitten liikenneapulaisella kiire, kun niitä kir-
+joitin. Tämä on hienoa, että edistytään, mutta tuntuu, että tämä on 90-luvun alussa jo ollut
+ja vieläkin ollaan vasta tässä. Kun tuossa äsken muistelin, niin muistan vieläkin, että kun
+Kone vei hissiä, niin tullikoodi oli 8510 30 30 ja hissin osat olivat sitten loppuosa 33. En
+tiedä, miten muistan tämän vieläkin, mutta ne tullikoodit ovat hyvin jääneet mieleen.
+
+Tuossa edustaja Kulmala otti esille sen, että olisi hyvä löytyä näistä vaarallisista kulje-
+tuksista myös mahdollisesti jotain paperilla. No, ainakin sen pitäisi tietysti jossakin sel-
+keästi näkyä, että esimerkiksi se kuljetus ei nyt ole sitten siellä jossakin rekan tietokonees-
+sa, että se olisi sitten jossakin erillisenä sähköisesti löydettävissä. Ja tietysti, jos se on kul-
+jettajan kännykässä, niin kukas sen koodin sinne sitten tietää, eli siinä mielessä ihan hyvä.
+Mietin vain sitä, että näissä asioissa kestää niin kauan, että ihminen on mennyt avaruuteen-
+kin, mutta välillä me emme saa näitä järjestelmiä toimimaan.
+
+Toinen muisto, joka tulee mieleen: olen ollut maistraatissa pitkään ja siellä on vissiin
+kymmenen vuotta sitä sähköistä arkistoa valmisteltu, eikä se ikinä tunnu valmistuvan. Taas
+on aloitettu uusi yritys, ja toivottavasti tämä toimii.
+
+Tuossa tuli myös esille tuo valvonta. Pystyykö tätä käyttämään esimerkiksi toiveeseen,
+joka liittyy siihen, mitä olen kuullut, että kun kotimaisilta liikennöitsijöiltä valvotaan ajo-
+päivät ja lepotunnit, niin sitten siitä tulee vähän vääristymää kilpailutilanteessa muiden
+maiden kuljetusyrittäjien kanssa? Pystyisikö tällä tavalla auttamaan sitä, että pystyisi val-
+vomaan, että ollaan samassa kilpailutilanteessa? Silloin on helpompi ehkä tälläkin myös
+valvoa sitä liikennettä. Mutta hyvä, että nyt ollaan 90-luvulta vähän edistytty.
+
+20.25 Mikko Alatalo kesk: Arvoisa rouva puhemies! Todellakin sen 15 vuotta, mitä olen
+liikennevaliokunnassa ollut, niin nimenomaan kuljetusala on toivonut tätä sähköistä rahti-
+kirjaa jo pelkästään tämän kilpailutilanteen vuoksi, koska on hyvin epäselviä rahtikirjoja ja
+siellä on ajeltu vähän miten sun sattuu, varsinkin mitä tuolta Itä-Euroopan puolelta on tul-
+lut noita rekkoja tänne. Siinä mielessä tämä on erittäin tärkeä, että sähköistä rahtikirjaa
+koskeva lisäpöytäkirja tulee tähän sopimukseen ja tosiaan muutetaan tiekuljetussopimus-
+lakia. Ja todellakin tämä on tärkeä myös siinä mielessä, että me voimme valvoa myös, mil-
+laista tavaraa liikkuu tuolla tien päällä. 
+
+Totta kai tällä on myös kustannusvaikutus. Tämähän aiheuttaa sen, että täytyy investoi-
+da näihin sähköisiin järjestelmiin, mutta uskon, että pitkällä tähtäimellä tämä kuitenkin tu-
+lee olemaan esimerkiksi erityisesti suomalaiselle rekkaliikenteelle erittäin hyvä asia ja kil-
+pailu tältä puolen muuttuu rehdimmäksi ja rehellisemmäksi. Sähköisen rahtikirjan käyttä-
+minen ei ole tosiaan pakollista, vaan osapuolet voivat sopia sen käyttämisestä paperisen
+asiakirjan sijasta. Tämän ehkä jatkossa pitäisi olla niin, että sähköinen rahtiasiakirja olisi
+standardi.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan.
+4
+
+
+	13
+	20.13
+	20.14
+	20.16
+	20.18
+	20.19
+	20.21
+	20.22
+	20.25
+
+

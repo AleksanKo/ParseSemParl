@@ -1,0 +1,606 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM17ED.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 63/2019 vp
+
+Täysistunto
+
+Keskiviikko 13.11.2019 klo 14.01—19.40
+
+7. Hallituksen esitys eduskunnalle laiksi elinkeinotulon verottamisesta annetun lain muut-
+tamisesta ja eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 76/2019 vp
+
+Lähetekeskustelu
+
+Puhemies Matti Vanhanen: Lähetekeskustelua varten esitellään päiväjärjestyksen 7.
+asia. Puhemiesneuvosto ehdottaa, että asia lähetetään valtiovarainvaliokuntaan.
+
+Lähetekeskusteluun varataan enintään 45 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja. 
+
+Keskustelu
+
+15.17 Valtiovarainministeri Mika Lintilä (esittelypuheenvuoro): Arvoisa puhemies!
+Kyseessä on hallituksen esitys eduskunnalle laiksi elinkeinotulon verottamisesta annetun
+lain muuttamisesta ja eräiksi siihen liittyviksi laeiksi. Eli esitys perustuu vuonna 2016 hy-
+väksyttyyn veronkiertodirektiiviin. Sen viimeiset implementoitavat toimet ovat tämä yri-
+tysten varojen arvonnousua maastapoistumistilanteissa koskeva verotus sekä viime viikol-
+la esittelyssä ollut niin sanottuja hybriditilanteita koskeva sääntely.
+
+Veronkiertodirektiivin maastapoistumisverotusta koskevien säännösten tavoitteena on
+turvata jäsenvaltioiden verotusvaltaa tilanteessa, jossa verotuksellinen kotipaikka tai varo-
+ja siirtyy pois jäsenvaltion verotusvallasta ilman, että tapahtuu varsinaista verotuksen rea-
+lisoivaa luovutusta. Varojen omistus on koko ajan samalla verovelvollisella, mutta varat
+siirtyvät toisen valtion verotusvallan alle.
+
+Maastapoistumisverotuksessa ei ole kyse erillisestä verosta, vaan kyse on tuloverotuk-
+sesta. Verovelvollisen tuloon lisätään maastapoistumisverotuksen kohteena olevien varo-
+jen arvo vähennettynä poistamatta olevilla hankintamenoilla.
+
+Verotus tulisi kyseeseen muun muassa seuraavissa tilanteissa: varoja tai liiketoimintaa
+siirretään ulkomaisen yhteisön Suomessa olevasta kiinteästä toimipaikasta, varoja siirre-
+tään kotimaisesta yhteisöstä toisessa valtiossa sijaitsevaan kiinteään toimipaikkaan, jossa
+Suomella ei ole enää siirron johdosta verotusoikeutta kyseisiin varoihin, tai Suomessa ylei-
+sesti verovelvollisen yhteisön verotuksellinen kotipaikka siirtyy Suomen lainsäädännön
+mukaan tai kaksinkertaisen verotuksen välttämistä koskevan sopimuksen nojalla toiseen
+valtioon.
+
+Veronalaiseksi tuloksi katsottaisiin laissa määritettävä maastapoistumisarvo. Nykyiset
+rajat ylittäviin yritysjärjestelyihin liittyviä maastapoistumisverotussäännöksiä ehdotetaan
+muutettavaksi siten, että verovelvolliselle annettaisiin mahdollisuus maksunlykkäykseen.
+
+Lakien on tarkoitus tulla voimaan 1. päivänä tammikuuta 2020, ja lakeja sovellettaisiin
+ensimmäisen kerran vuodelta 2020 toimitettavassa verotuksessa.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+15.20 Jussi Saramo vas: Arvoisa puhemies! Olemme todella ison asian äärellä. Veropa-
+ratiisit varastavat hyvinvointivaltiosta riippuvaisilta lapsilta, sairailta, vanhuksilta ja ihan
+kaikilta meiltä, jotka käytämme julkisia palveluita ja haluamme elää turvallisessa oikeus-
+valtiossa, täällä Suomessa. Tutkimukset osoittavat, että Suomen valtio menettää yritysten
+verovälttelyn takia vähintään satoja miljoonia euroja jokainen vuosi. Veroparatiiseja käyt-
+tävät yritykset ja ihmiset varastavat myös rehellisesti toimivilta yrityksiltä ja erityisesti kai-
+kilta pienimmiltä yrityksiltä, joilla ei ole mahdollisuutta palkata verosuunnittelun asiantun-
+tijoita verotusta minimoimaan. Veroparatiisit siis vääristävät markkinoita ja ovat yksi kes-
+keisimpiä syitä markkinatalouden kehittymisessä demokratiaa estäväksi finanssikapitalis-
+miksi. Markkinoiden pitäisi olla demokraattisen yhteiskunnan renki, mutta nyt ne ovat
+isäntä, joka toimii veroparatiisien salaisuuksien hämäristä.
+
+Arvoisa puhemies! Valmistelin joitain vuosia sitten vasemmistolle veroparatiisien vas-
+taista toimenpideohjelmaa. Yksi esityksistämme oli maastapoistumisvero, joka nyt vih-
+doin on yhdeltä osaltaan käsittelyssä. Silloin oikeistolaiset kolumnistit pillastuivat. Maas-
+tapoistumisvero oli heidän mukaansa toteuttamiskelvoton aprillipila, joka tekisi ihmisistä
+ja yrityksistä Suomen valtion panttivankeja. Käytännössä kyse on kuitenkin siitä, että ve-
+rot on maksettava siihen maahan, jossa tuotto on tehty. Jos veroja ei makseta heti, on ne
+hoidettava viimeistään maasta poistuttaessa.
+
+Arvoisa puhemies! Valtionvarainministeriön työryhmä totesi raportissaan vuonna 2017:
+”Maastapoistumisverotuksessa on työryhmän käsityksen mukaan ennemminkin kyse sään-
+telystä, joka on olennainen ja tärkeä osa nykyaikaista rajat ylittävien tilanteiden verosään-
+telyä, jolla turvataan valtion verotusvaltaa.” Suomi on aiemmin tullut veroparatiisien vas-
+taisessa taistelussa jälkijunassa. Pahimmillaan on jopa jarrutettu järjestelmän korjaamista.
+Virallisesti on kyllä puhuttu veroparatiiseja vastaan, mutta todellisuudessa kotimaassakin
+on toimittu vasta, kun EU on siihen pakottanut. Suomi on lisäksi EU:ssa aiemmin liittou-
+tunut Hollannin kanssa, joka on pahimpia veroparatiiseja. Heidän vastuuton politiikkansa
+on vienyt muilta jäsenmailta miljardien verotulot. Suomikin on keskittynyt vaatimaan jä-
+senmailta menoleikkauksia sen sijaan, että olisi varmistettu jokaiselle jäsenmaalle niille
+kuuluvat verotulot. Siksi onkin nyt tärkeää, että tämä hallitus torjuu aggressiivista vero-
+välttelyä, veronkiertoa ja haitallista verokilpailua sekä kansallisesti että Euroopan unionis-
+sa.
+
+Arvoisa puhemies! Arvonnousuverolla eli maastapoistumisverolla varmistetaan, että
+varallisuuden siirto maasta toiseen verotetaan. Ilman maastapoistumisveroa on voitu vält-
+tää verotus maassa, jossa arvonnousu on syntynyt. Suomessa yritysten arvonnousua on ve-
+rotettu suppeasti. Esitys korjaa merkittävän osan Suomen nykyisen yritysten arvonnousu-
+sääntelyn ongelmista. On kuitenkin huomioitava, että lakiesityksen ensimmäinen luonnos
+oli käsittelyyn tulevaa parempi, koska se koski myös kommandiittiyhtiöitä. Käsittelyssä
+olevan esityksen suurin ongelma koskee ehkä silti tilanteita, joissa osana yritysvarallisuut-
+ta Suomesta siirtyy niin sanottua liikearvoa. Esityksen ulkopuolelle rajattu liikearvo on ai-
+neetonta omaisuutta, ja se voi olla esimerkiksi kasvuyrityksille kaikkein tärkein varallisuu-
+serä. Tältä osin lakiesitys johtaa paitsi epävarmaan oikeudelliseen tilanteeseen myös mer-
+kittävään riskiin veropohjan vuodosta. Koska valmistelu on ohittanut osan yrityskokonai-
+suudesta eikä veropohjan vuodon riskiä tai oikeudellisesti epävarmaa tilannetta ehditä rat-
+kaisemaan ennen vuodenvaihdetta, jolloin laki on saatettava voimaan, on välittömästi aloi-
+tettava uusi lakivalmistelu riskien poistamiseksi.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+Arvoisa puhemies! On erinomaista, että maastapoistumisvero vihdoin säädetään yrityk-
+sille. Hallitusohjelmaan sisältyvä yksityishenkilöiden arvonnousuvero on myös valmistel-
+tava pikaisesti. Yksityishenkilöiden arvonnousuvero on käytössä useimmissa länsimaissa,
+ja hallituksen on tässäkin asiassa ajettava laajasti kaikkien suomalaisten etua, ei harvojen
+rikkaimpien, jotka vievät täällä tehdyt rikkaudet veroitta maasta pois. Tämä on erityisen
+tärkeää, kun hallitus ei ole ohjelmassaan alkanut toimiin vakuutuskuorten tai muiden ky-
+seenalaisten verotuksen siirtämiseen käytettävien järjestelyiden purkamiseksi. Ainoastaan
+korjaamalla rikkinäinen verojärjestelmä ja varmistamalla oikeudenmukainen ja kestävä
+verotus voimme turvata meille kaikille tärkeät hyvinvointipalvelut myös tulevaisuudessa.
+
+15.25 Iiris Suomela vihr: Arvoisa puhemies! Tämän maan menestys nojaa pitkälti vah-
+vaan hyvinvointivaltioon — siihen, että meillä on tarjolla laadukasta, maksutonta koulu-
+tusta, terveydenhoitoa ja muuta arjen turvaa jokaiselle. Tähän turvaan ja tähän julkisrahoit-
+teiseen järjestelmään nojaa myös monen kotimaisen yrityksen menestys. Esimerkkejä ei
+tarvitse etsiä Nokiaa kauempaa, kun huomataan, että todella hyvinvointivaltio ja sen tuo-
+ma yhteiskuntarauha ja vakaus ovat myös paras yritysten turva. Hyvinvointivaltiota ei voi
+olla olemassa ilman tiivistä ja vakaata, ennustettavaa veropohjaa, ja sen tähden tällä vuo-
+situhannella on noussut erityisen merkitykselliseksi kiinnittää huomiota niihin reikiin, joi-
+ta tähän veropohjaan pikkuhiljaa nakerretaan.
+
+Arvioiden mukaan pelkästään laittoman verovälttelyn ja veronkierron tuloksena ollaan
+viimeisen kymmenen vuoden aikana menetetty jopa yli miljardi euroa verotuloja. Tämän
+lisäksi tapahtuu iso liuta harmaalla alueella liikkuvaa aggressiivista verosuunnittelua, jo-
+hon edustaja Saramokin puheessaan viittasi. Todennäköisesti hyvinvointivaltio menettää
+siis satoja miljoonia joka vuosi erinäisten verotuksen järjestelyjen tähden, jotka eivät hy-
+vinvointivaltion tai verotusjärjestelmämme henkeen kuulu.
+
+Tähän puuttuminen vaatii ennen kaikkea vahvaa kansainvälistä yhteistyötä, johon EU
+onkin ryhtynyt etunenässä ja jonka osa tämäkin hallituksen esitys on. Ja tämä on todella oi-
+kea toimintatapa, sillä yhä suurempi osa näistä järjestelyistä tehdään kansainvälisesti ja ni-
+menomaan maiden välinen tietojenvaihtojärjestelmien yhtenäisyys ja muu kansainvälinen
+yhteistyö ovat veropohjan tiivistämisen ytimessä. Sen tähden on tärkeää, että Suomi poh-
+joismaisena hyvinvointivaltiona ensinnäkin osallistuu tähän EU-yhteistyöhön, vaatii siltä
+entistäkin enemmän kunnianhimoa ja on sitä kautta mukana myös puskemassa koko maa-
+ilmaa entistä laajempaan vastuullisuuteen verotuksen osalta. Näin todella paitsi vahviste-
+taan olemassa olevien hyvinvointivaltioiden tulevaisuuden olemassaolon edellytyksiä
+myös edistetään kehittyvien maiden kehitystä, sillä me tiedämme, että ilman vakaata ja
+luotettavaa veropohjaa ei voida synnyttää laadukasta ja toimivaa julkista sektoria, joka
+huolehtii kansalaisten hyvinvoinnista ja osaamisesta.
+
+Sen tähden onkin tärkeää, että näitä asioita käsitellään laajana kokonaisuutena, johon
+Suomi suhtautuu todella kunnianhimoisesti. Sen tähden on tärkeää, että osana tätä koko-
+naisuutta lähdetään nopeasti toimeenpanemaan kansallisia toimia ja pidetään jatkuvasti
+kiinni ennen kaikkea yhdestä tärkeimmistä asioista, läpinäkyvyydestä, jossa Suomi on to-
+della yksi edelläkävijöistä. Tuoreeltaan täällä vietettiin niin kutsuttua veropäivää, ja tämä
+on todella hyvä käytäntö, sillä niissä kohdissa, joissa tietoja lähdetään salaamaan tai varoja
+piilottamaan, tai näitä kansainvälisiä järjestöjä piilottamaan, aukeaa ensinnäkin mahdolli-
+suus aggressiiviseen verojen välttelyyn ja jopa vakavaan rikollisuuteen. Tätä on käyty läpi
+esimerkiksi Panaman paperien yhteydessä, kun huomattiin, että nämä veronkierron mah-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+dollisuudet eivät mahdollista ainoastaan verojen välttelyä vaan myös todella vakavaa ri-
+kollisuutta, rahanpesua ja muita pahoja ongelmia.
+
+Vastuullisuuden ja rehellisyyden pitääkin kannattaa aina, ja järjestelmän läpinäkyvyys
+ja avoimuus on kaikkien etu. On hyvä muistaa, kuten edustaja Saramokin korosti, että täl-
+lainen laajamittainen verosuunnittelu ja optimointi vaatii sellaista osaamista, jota aika har-
+valla pienemmällä yrityksellä tai varsinkaan tavallisella palkansaajalla on. Sen tähden täs-
+tä oikeudenmukaisuudesta ja tiiviistä veropohjasta huolehtiminen on ennen kaikkea niiden
+pienten, rehellisten, vastuullisten yritysten ja jokaisen tavallisen palkansaajan etu. Mitä
+enemmän suuret yritykset ja kansainväliset sijoittajat pystyvät omaa verotustansa optimoi-
+maan ja välttelemään, sitä raskaammaksi koituu tavallisten suomalaisten — tavallisten
+pienten, rehellisten suomalaisten — yritysten verotaakka, ja se ei ole oikein. Se ei ole oi-
+kein hyvinvointivaltion ylläpitämistä kohtaan, se ei ole oikein tässä maassa kasvavia lap-
+sia kohtaan, eikä se ole oikein niitä tavallisia palkansaajia ja veronmaksajia kohtaan. Siksi
+on huolehdittava siitä, että jokainen kantaa osansa hyvinvointivaltion rahoituksesta.
+
+Kuten sanottua, jokainen tässä maassa toimiva yritys, jokainen tässä maassa toimiva si-
+joittaja hyötyy siitä, että tämä on rauhallinen, vakaa, hyvinvoiva, korkean osaamistason
+maa, ja sen tähden on oikein, että jokainen tässä maassa toimiva myös oman osansa veron-
+maksusta kantaa, koska ilman sitä ei ole hyvinvointivaltiota, ei ole yhteiskuntarauhaa eikä
+ole niitä palveluita, joilla tätä kaikkea pidetään yllä. Jatkossa on tosiaan syytä kiinnittää
+huomiota siihen, että tämä on vasta alku ja että näiden uudistusten kautta edetään kohti en-
+tistä tiiviimpää veropohjaa ja myös yksityishenkilöiden ja henkilöyhtiöiden verotuksen tii-
+vistämistä. — Kiitos.
+
+15.31 Pia Viitanen sd: Arvoisa puhemies! Kuten tässä on kuultu, kyseessä on tärkeä esi-
+tys. Tämä on osaltaan veronkiertodirektiivin täytäntöönpanoa. Ensi vuoden alkuun men-
+nessä nämä säädökset on meillä oltava, ja hyvä, että etenemme viimeistään nyt näissä tär-
+keissä asioissa.
+
+Eli tässä maastapoistumisverossahan on kyse nimenomaan siitä, että yrityksen varalli-
+suuden siirrot maasta toiseen tulevat verotetuiksi. Se on meidän kaikkien etu, ja tietenkin
+ne hyvät yleiset periaatteet veropohjan tiivistämisestä ja aggressiivisen verosuunnittelun
+torjunnasta ovat mitä tärkeimpiä. Me jokainen tiedämme ne mittasuhteet, missä liikutaan
+niin kotimaassa kuin maailmallakin siinä, että veroja jollakin tavalla vältellään ja pahim-
+massa tapauksessa tietenkin kierretään, mutta ylipäätään tällaista aggressiivistyylistä ve-
+rosuunnitteluakin on syytä kitkeä.
+
+On hyvä, että Suomi on tässä nyt ottanut tällaisen, sanotaanko, toimeliaan linjan. On tär-
+keää, että hallitusohjelma kiinnittää vakavaa huomiota näihin kysymyksiin. Tämä ei var-
+masti sinänsä jää ainoaksi esitykseksi, vaan näistä on nyt paljon kirjauksia ja varmasti
+myös jatkotoimia kaiken kaikkiaan seuraa. Mutta kun täälläkin viitattiin näihin hyvinvoin-
+tiyhteiskuntamme rakenteisiin ja siihen asiaan, että me ihan oikeasti tarvitsemme rahaa
+vanhustenhoivaan, lasten koulutukseen, varhaiskasvatukseen, köyhien ihmisten toimeen-
+tuloon, kaikkeen tähän, niin juuri siksi on täysin oikein, että teemme täysillä työtä sen
+eteen, että nimenomaisesti yhteiskunta saa ne verorahat, mitkä kaiken oikeudenmukaisuu-
+den nimissä on sen saatavakin.
+
+Tässä esityksessähän — kysymys on myös ikään kuin ennaltaehkäisystä — ei ole varsi-
+naisia verotuottoja voitu arvioida, mutta kyllähän niitä näistä varmasti pystymme arvioi-
+maan niin, että joka tapauksessa myönteiseen suuntaan mennään. Täällä mainittiin jo aiem-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+min nämä pari kyseistä asiaa tämän esityksen sisällöstä, muun muassa se, että tämä ei kos-
+ke henkilöyhtiöitä eikä sitten myöskään tässä vaiheessa tätä liikearvon siirtymistä, ja nämä
+ovat varmasti sellaisia asioita, joista olemme ehkä jo tänään verojaostossa jotain kuulleet,
+ja jatkamme siellä käsittelyä. Katsomme näitä yksityiskohtia läpi tarkemmin.
+
+Puhemies! Myös minä haluan tässä puheenvuorossani muistuttaa, että hallitusohjelmas-
+sahan on kirjaus siitä, että tämän lisäksi selvitetään arvonnousuveron mahdollisuus myös
+yksityishenkilöille. Eli tämä on kirjattuna hallitusohjelmassa, ja huomaan ministerin nyök-
+käävän siellä aitiossa, joten varmasti myös tämän selvittely on ministeriössä käynnissä,
+mikä on sinänsä tärkeää. Sen verran ehkä voin sanoa, että meille demareillehan tämä ag-
+gressiivisen verosuunnittelun torjunta on ollut jo vuosikausia hyvin tärkeä kysymys. Muis-
+tan, kuinka jo aikanaan olin siitä tyytyväinen, että Jutta Urpilaisen aikaan myös Euroopan
+unionissa [Puhemies koputtaa] otimme hyvin merkittäviä askeleita edelläkävijänä siinä,
+että nostimme tätä verovälttely-, veroparatiisi- ja kaikkea tätä keskustelua esiin.
+
+15.34 Matti Semi vas: Arvoisa puhemies! Tämä hallituksen esitys veronvälttelylaiksi on
+ihan hyvä asia.
+
+Tutkin tuota meidän hallitusohjelmaa ja katselin listausta meidän veropoliittisesta linja-
+uksestamme, sitä mitenkä harmaata taloutta ruvetaan kitkemään poikkeen. Siinä on kaksi-
+kymmentä eri kohtaa. Tämä on yksi niistä kohdista, ja siksi minä jäin miettimään, että
+meillähän menetetään hirmu paljon rahaa verotuloina harmaan talouden kautta, on arvioitu
+jopa miljardeissa sen menevän — niin paljon menetetään rahoja. Tämmöistä harmaata ta-
+loutta harrastetaan aika paljon työmailla, mitä on koetettu lähteä kitkemään. Esimerkiksi
+metalliteollisuudesta puhutaan paljon, että sieltä on löydetty semmoisia, jotka jättävät ve-
+roja maksamatta ja kiertävät veroja. Alipalkkausta on ravintola- ja kuljetusalalla. Kuljetus-
+alalla kabotaasiliikenne on tuonut omia veronkiertomahdollisuuksia, se, mitenkä siellä toi-
+mitaan. Eli nämä hommat vaativat meiltä tietenkin viranomaissatsauksia.
+
+Mutta se asia, mistä itse ajattelin käyttää tilaisuutta hyväkseni, kun veroista kerran pu-
+hutaan: ajattelin kysyä ministeriltä siitä, kun sinne oli kirjattu, että myös laajennetaan tätä
+veronumeron käyttöä. Missä vaiheessa aloitetaan tämän veronumeron käytön laajenta-
+misoperaatiota järjestelemään?
+
+15.36 Sari Essayah kd: Arvoisa puhemies! Tämä EU:n veronkierron estämistä koskeva
+direktiivi on sinällänsä jatkumoa sille työlle, mitä esimerkiksi OECD:ssä on tehty tämän
+BEPS-hankkeen yhteydessä, ja on äärimmäisen tärkeää, että kansainvälisesti pyritään tä-
+hän veronkierron ja verovälttelyn estämiseen, ja ilman kansainvälistä yhteistyötä, muun
+muassa hyvää tietojenvaihtoa, näissä hankkeissa ei kovin helposti päästä eteenpäin. Vielä
+on tietysti aika vaikea arvioida, millä tavalla tämä veronkierron estämiseen liittyvä direk-
+tiivi tulee Euroopan tasolla vaikuttamaan, koska monissa maissa ollaan siinä samassa ti-
+lanteessa kuin Suomessa, että aika viime tipassa ollaan direktiiviä laittamassa käytäntöön.
+
+Mutta ehkä muutamia sellaisia ajatuksia, mitä tästä nopealla lukemisella nousi esille.
+Kuitenkaan tässä esimerkiksi näihin konsernien sisäisiin siirtoihin ei käsittääkseni varsi-
+naisesti olla puuttumassa muuten kuin sellaisissa tilanteissa, jolloin tämän siirron johdosta
+Suomella ei ole enää verotusoikeutta tässä uudessa sijoittautumisvaltiossa. Meillä on
+myöskin ollut paljon keskustelua tästä korkojen vähennysoikeudesta nimenomaan konser-
+nin sisäisissä lainoissa sekä myöskin näissä sisäisissä laskutuksissa, jotka käsittääkseni
+ovat kuitenkin tällä hetkellä tällaisessa verosuunnittelussa — ja jopa verovälttelyssä — nii-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+tä kaikkein tehokkaimpia keinoja, joilla pystytään siirtämään verotettavaa tuloa konsernin
+sisällä joko sellaiseen maahan, jossa on hyvin vähäistä verotusta, tai kenties jopa sitten näi-
+hin niin sanottuihin veroparatiisimaihin. Olisinkin ministeriltä halunnut kysyä vielä siitä,
+pystytäänkö tällä nyt tosiasiallisesti näihin konsernien sisäisiin järjestelyihin puuttumaan
+vai onko tämä sitten ainoastaan niissä tilanteissa, joissa Suomen verotusoikeus ei näihin
+kyseisiin varoihin tule ulottumaan.
+
+Ja todellakin täytyy toivoa, että nimenomaan kansainvälisesti tässä saadaan nyt ryhtilii-
+kettä aikaiseksi, koska kyllähän tämä on, jos ajatellaan vaikka EU:n sisälläkin, valtavan
+suuri verokilpailutilanne EU-maitten välillä, mutta myöskin, kun ajatellaan EU:ta alueena,
+jossa kuitenkin pyritään monissa maissa verotuksellisesti hyvinvointivaltiota ylläpitä-
+mään, tämä aiheuttaa sen, että menetämme jatkuvasti niitä verotuloja, jotka kuuluisivat ky-
+seisille jäsenvaltioille.
+
+15.38 Pauli Kiuru kok: Arvoisa herra puhemies! Harmaa talous ja veronkierto pienentä-
+vät yhteiskunnan saamia verotuottoja ja aiheuttavat epäreilun kilpailutilanteen yritysten
+välille. Harmaan talouden ja veronkierron vastustaminen kaikilla mahdollisilla keinoilla
+on lähellä sydäntäni. Verot pitää maksaa, välistävetoja en mielelläni katsele.
+
+Ministerille esitin viime viikolla kysymyksen, ja positiivisen asenteen otitte siihen, po-
+sitiivisesti vastasitte. YTJ-järjestelmässä on kehittämiskohteita. Avaamalla sitä enemmän
+voitaisiin tarttua vielä tiukemmin harmaaseen talouteen, ja kun hallitusohjelmassakin on
+parikymmentä miljoona euroa harmaan talouden torjuntaan, niin kertaan vielä: olihan niin,
+että tämä YTJ-järjestelmän päivittäminen ja laajentaminen on agendallanne, on ohjelmas-
+sanne? Ymmärtääkseni 3—4 miljoonaa euroa riittää valmiin hankkeen toteuttamiseen, ja
+se raha voitaisiin ymmärtääkseni ottaa siitä 20 miljoonasta, mikä hallitusohjelmassa on
+merkattu harmaan talouden vastaiseen työhön.
+
+Toinen kysymys koskee — kun tässä veroista puhutaan — yhteisöveron tuottoa. Kun ta-
+lousarviokirjaa katsoo, niin se on ollut jatkuvassa kasvussa, ja sitähän 2013 taidettiin vii-
+meksi laskea — sitä on useamman kerran laskettu. Kun veroa on laskettu, niin yllätys yl-
+lätys, verotuotto on kasvanut. Miten ministeri näkee sen, voisiko tässä olla joitain tulevia
+askeleita eteenpäin ja voisiko sillä olla kannustavia tekijöitä yritysten haluun pysyä Suo-
+messa, työllistää ja kasvaa, jotta saavutettaisiin se 75 prosenttia työllisyydessä?
+
+15.41 Esko Kiviranta kesk: Arvoisa puhemies! Minusta tämä nyt esillä oleva hallituksen
+esitys on erinomainen ja täyttää direktiivin vaatimukset tässä vaiheessa. Minusta oli turha
+ottaa mukaan tätä liikearvoa, erittäin vaikeasti määriteltävää asiaa, samoin kuin henkilöyh-
+tiöitä. Olen tyytyväinen tähän hallituksen esitykseen.
+
+Pyysin tätä puheenvuoroa sen vuoksi, että täällä on esitetty parissa puheenvuorossa aja-
+tuksia siitä, että otettaisiin käyttöön tuollainen luonnollisen henkilön exit-vero. Siitähän on
+hallitusohjelman liitteessä 5 maininta, jonka mukaan selvitetään, onko mahdollista ottaa
+käyttöön veromallia, joka estää ulkomailla asuvien Suomessa verovelvollisina olleiden
+myynteihin, lahjoihin ja perintöihin liittyvien verojen välttämisen. Mielestäni voidaan pe-
+rustellusti poliittiselta kannalta kysyä, onko asianmukaista, että Suomella olisi jokin ehdo-
+ton oikeus kohdistaa veroja henkilön omaisuuteen sen jälkeen, kun hän on muuttanut pois
+Suomesta. Uskon itse enemmän filosofiaan, jossa lähdetään siitä, että Suomen tulee olla
+verotuksen osalta ja muutoinkin valtio, josta ihmiset eivät halua muuttaa pois. Mielestäni
+6
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+arvonnousuverossa on vääjäämättä Suomesta poismuuton rankaisemisen sävy, eikä tämä
+sovi yhteiskuntamalliimme, jonka lähtökohtana on yksilön vapaus toteuttaa itseään.
+
+Arvonnousuveroon liittyy poliittisen aspektin ohella monia käytännön ongelmia. Käy-
+tännössähän vero tarkoittaisi sitä, että jos henkilö muuttaa pois Suomesta, hänelle lasket-
+taisiin vero esimerkiksi Suomessa asumisen aikana ostettujen osakkeiden arvonnousun pe-
+rusteella, vaikka henkilö ei ole myynyt osakkeita. Tällaisen arvonnousun euromäärän mää-
+rittäminen ei ole välttämättä kaikkien omaisuuserien kohdalla yksinkertaista. Helppoa se
+on lähinnä pörssiosakkeiden kohdalla, koska niillä on selvä markkinahinta.
+
+EU-tuomioistuimen oikeuskäytännön mukaan arvonnousuveroa ei saa periä ennen kuin
+arvonnousu on realisoitu omaisuus myymällä. Suomesta poismuuton ja arvonnousun rea-
+lisoitumisen eli omaisuuden myynnin välinen aika voi olla vaikkapa kymmeniä vuosia.
+Poismuuton ja myynnin välisenä aikana omaisuuden arvo on voinut laskea, ja EU-tuomio-
+istuimen mukaan tämä arvonlasku tulee huomioida veron lopullista määrää laskettaessa.
+Normaalisti Suomen solmimissa verosopimuksissa myyntivoittoja saa verottaa vain hen-
+kilön asuinvaltio. Kun henkilö siis muuttaa pois Suomesta, Suomen oikeus verottaa hänen
+omaisuudestaan saamiaan myyntivoittoja katkeaa. On kyseenalaista, sallisivatko muut val-
+tiot sen, että Suomi verottaisi esimerkiksi vuosikymmeniä poismuuton jälkeen omaisuu-
+den myynnin yhteydessä realisoituneen arvonnousun. Uusi asuinvaltio [Puhemies koput-
+taa] ei välttämättä huomioisi tätä Suomeen maksettavaa veroa periessään oman lainsäädän-
+tönsä mukaista myyntivoittoveroa, mikä johtaisi ankaraan kaksinkertaiseen verotukseen.
+
+15.44 Paavo Arhinmäki vas: Arvoisa puhemies! Tässä salissa puhutaan paljon veroista,
+erityisesti silloin, kun veroja joudutaan korottomaan, jotta pystytään huolehtimaan meidän
+hyvinvointivaltiosta, koulutuksesta, palveluista, sosiaaliturvasta. Kukaan meistä ei var-
+maan mielellään veroja korota. Liian usein niissä keskusteluissa jää vähälle se, että itse
+asiassa meidän ei tarvitsisi korottaa yhtään veroja, pikemminkin voisimme keventää esi-
+merkiksi pieni- ja keskituloisten verotusta entistä enemmän ja huolehtia nykyistä parem-
+min yhteiskunnallisista palveluista, jos kaikki maksaisivat oikein ja reilusti verot sen mu-
+kaan kuin pitää maksaa.
+
+Harmaa talous on syöpä, joka syö suomalaista yhteiskuntaa — se, että rikollisesti jäte-
+tään veroja maksamatta. Mutta paljon veroja jätetään myös maksamatta laillisesti tai sel-
+laisella harmaalla alueella, jolla veroja vältellään nimenomaan laillisesti, käytetään erilai-
+sia verojuristeja, -osaajia, isoja rahoja siihen, että ei tarvitse maksaa veroja. Pienituloinen
+tai keskituloinen työssäkäyvä ihminen tai eläkeläinen maksaa joka eurostaan ja sentistään
+veroa, aivan oikein, niin kuin pitääkin. Siksi tuntuu hullulta, että monissa tilanteissa ne,
+joilla on kaikkein eniten, maksavat suhteessa kaikkein vähiten juuri sen vuoksi, että heillä
+on varaa ja mahdollisuus käyttää erilaisia eksperttejä, jotka etsivät verotuksesta porsaan-
+reikiä. Tähän puuttumisen luulisi olevan ja varmasti onkin lähes koko tämän salin tavoit-
+teena. Näissä asioissa monesti olemme vähän perässähiihtäjiä siinä mielessä, että kun yksi
+porsaanreikä tukitaan, niin seuraava jo keksitään.
+
+Suurimmasta osasta asioita pitää päättää kansallisesti. Me tiedämme lähellä parhaiten,
+mistä asioista pitää päättää, mutta sitten on asioita, ongelmia, jotka ylittävät rajan, ja niihin
+tarvitaan rajat ylittäviä ratkaisuja. Tällainen verokilpailu kohti pohjaa, se että kikkaillaan
+eri maiden eri verotasoilla, siirretään tuloja, näytetään niitä niissä maissa, joissa veroja pe-
+ritään huomattavasti vähemmin tai ei lainkaan, käytetään veroparatiiseja hyväksi — siihen
+tarvitaan yhteisiä toimia.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+Tästä exit-verosta, jota nyt direktiivin kautta tuodaan, olemme puhuneet vuosikausia.
+Vasemmisto on nostanut sitä esille, ja muistan, miten uusliberaalipiireissä sille naureskel-
+tiin ja sanottiin, että haluamme estää yrityksiä poistumasta Suomesta. Ei siitä ole kysymys.
+Kysymys on siitä, että verot pitää reilusti maksaa siellä, missä tulos tehdään. Samasta pu-
+humme monien yritysten kohdalla, jotka ottavat konsernin sisäisiä lainoja eivätkä näytä tu-
+lostaan Suomessa, esimerkiksi terveydenhoidon, [Puhemies koputtaa] sosiaalipalveluiden
+puolella, vaan verot maksetaan matalamman verotuksen maihin. On hyvä, että tämä asia
+etenee, ja tämä on työ, jota meidän pitää jatkuvasti tehdä, kerätä verot oikein, jotta me pys-
+tymme huolehtimaan tämän yhteiskunnan palveluista.
+
+15.47 Jussi Saramo vas: Arvoisa puheenjohtaja! Edustaja Essayah nosti esiin konsernien
+sisäiset siirrot, ja todellakin siinä on yksi pahimpia aggressiivisen verosuunnittelun ja ve-
+ronkierron elementtejä. Arvonnousuvero kuitenkin koskee vain oikeushenkilön sisäisiä va-
+rallisuuden siirtoja, ja sen takia konsernin sisäiset siirrot esimerkiksi tytäryhtiöiden välillä
+ovat jo verotuksen piirissä ja niihin pitäisi soveltaa markkinaehtoperiaatteen mukaista hin-
+noittelua. Valitettavasti näin ei ole, ja siksi olenkin todella tyytyväinen, että hallitusohjel-
+massa on sitouduttu sekä kansallisesti että EU-tasolla tukkimaan verovuodot. Se ei todella
+ole tämän arvonnousuveron asia, mutta luotan ministeriin, että myös konsernin sisäiset ve-
+ronkiertoporsaanreiät tukitaan.
+
+Edustaja Kivirannan filosofinen puheenvuoro voisi olla perusteltu, mikäli veroja mak-
+settaisiin vuosittain ilman erilaisia verosuunnittelun keinoja, esimerkiksi vakuutuskuoria.
+On kohtuutonta ajatella, että muuttamalla maasta toiseen voisi osa porukkaa jättää koko-
+naan verot maksamatta. Tavallinen eläkeläinen ja tavallinen työntekijä kyllä maksavat ve-
+ronsa — miksi perijät ja muut omistuksillaan elävät voisivat välttää verotuksen vain muut-
+tamalla maasta toiseen? Kyllä heidänkin pitää maksaa oma osuutensa meidän yhteiskun-
+nallemme. Kuten puheenvuorossani nostin esiin, länsimaissa kyllä laajasti nämä yksityis-
+henkilöiden maastapoistumisverot ovat käytössä. Kyllä Suomessa on minusta vähän epäi-
+sänmaallinen verojärjestelmä, kun meillä tämmöinen veronkierto on mahdollistettu.
+
+Puhemies Matti Vanhanen: Asialle varatun ajan puitteissa myönnän vielä pyydetyt pu-
+heenvuorot, edustajat Viitanen ja Essayah, ja sitten ministerille, jos hän haluaa lopussa
+käyttää puheenvuoron.
+
+15.49 Pia Viitanen sd: Arvoisa herra puhemies! Tähän samaan aihealueeseen tietenkin
+kuuluvat juuri nämä, mitä äsken täällä salissa on esiin noussut. Eli meillähän on monia ta-
+poja, millä pystytään veroja suunnittelemaan ja järjestelemään, tekemään sellaisia käytän-
+töjä, millä joko veroprosentit minimalisoituvat tai vältetään tietyissä tapauksissa kokonaan
+veronmaksu. Vaikka on hyvä, että viime kaudella saatiin esimerkiksi vakuutuskuoriin tiet-
+tyä tiukkuutta lisää, niin sinnehän vieläkin jäi aukkoja, jotka koskevat esimerkiksi tilantei-
+ta, joilla veronmaksulta voidaan välttyä, jos muutetaan ulkomaille ja niin poispäin. Eli kyl-
+lähän tässä perkaamisen varaa on kovin laajastikin.
+
+Mielestäni, puhemies, oli hyvä, kun vietimme viime viikolla veroviikkoa maanantain
+veropäivän seurauksena, että mediassahan aika laajasti keskusteltiin näistä ongelmista. Mi-
+nusta on jopa tarpeellista se, että kansalaisyhteiskunnassa ja mediassa käydään laajaa kes-
+kustelua esimerkiksi juuri tämänkaltaisista verojärjestelyistä ja siitä, kuinka paljon niiden
+8
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+kautta jää itse asiassa paljon sellaista omaisuutta, tuloa verottamatta, joka ei sitten näy esi-
+merkiksi veronmaksutilastoissa, koska niistä ei ylipäätään makseta veroa.
+
+Puhemies! Tästä sain ehkä sellaisen pienen tilaisuuden kysyä, kun täällä on ministerille
+muutamia kysymyksiä esitetty: Veropäivänähän suuri keskustelu tuli myös verotietojen
+julkisuudesta. Mielestäni ei ollut hyvä asia, että Verohallinto oli ottanut sen tulkinnan, ve-
+doten näihin tietosuojamääräyksiin, että yli 100 000:n tulot voisi sitten jättää pois medialle
+annettavista listoista. Seurasin asiaa hyvin tiiviisti ja huomasin, että nyt oikeuskansleri sit-
+ten ei tätä asiaa ottanut tutkittavakseen sinänsä. Mutta tässä on se vaara, että jos tämä nyt
+oikeuskäytänteiden kautta alkaa vasta ratketa, se venyy, ja nythän kävi niin, että esimer-
+kiksi kun julkisuudessa yleistyi tämä tieto, että nyt voi pyytää, että yli 100 000:n verotet-
+tavat tulot eivät olisi julkisessa listauksessa, niin kahdessa päivässä näiden vaatimusten
+määrä listalta poistamisesta nousi 100:sta 231:een, minkä seurauksena on hyvin ennalta ar-
+vattavaa, että sitten ensi vuonna vastaavassa tilanteessa, vastaavalla tulkinnalla, puhutaan
+jo tuhansista. Silloinhan voimme puhua perustellusti tilanteesta, että aidosti meidän vero-
+tietomme eivät — kuten vanhan käytännön mukaan — olekaan enää julkisia ja avoimia.
+Tämä ei ole nyt tämän päivän puheenaiheena, mutta herätän tämän kysymyksen, jotta mi-
+nisteri ehkä voi sitten omalta osaltaan kommentoida.
+
+15.52 Sari Essayah kd: Arvoisa puhemies! Edustaja Saramo tässä komppasi puheenvuo-
+roani ja todellakin nosti esille myöskin nämä sisäisen hinnoittelun ongelmat ja konsernin
+sisällä tapahtuvan verosuunnittelun. Muistelen, että kun aikoinaan luin tuon Aarresaaret-
+kirjan — en sitä lapsuuteni seikkailukirjaa vaan tämän verovälttelyyn liittyvän Aarresaa-
+ret-kirjan — niin siinä oli yritysesimerkkejä: siis tällainen tavallinen kuulakärkikynä oli
+yrityksen sisäisesti hinnoiteltu 3 000 eurolla. Voitte kuvitella, minkälaisia omaisuudensiir-
+toja voidaan ikään kuin ”laillisesti” tehdä siellä yrityksen sisällä silloin, kun halutaan väl-
+tellä veroja ja saada niitä mahdollisimman pieniksi. Sen tähden myöskin tämä konsernin si-
+säisiin laskutushintoihin, niitten läpinäkyvyyteen, puuttuminen olisi äärimmäisen tärkeää,
+ja sitten on tämä korkovähennysoikeus, jota Suomessa tosin on jo jonkun verran pyritty ra-
+jaamaan mutta ei kaikilta osin. Nämä ovat ehkä niitä kaikkein suurimpia tapoja, millä voi-
+daan tätä verovälttelyä tehdä.
+
+Myöskin valtion tukisäännösten perkaaminen EU-tasolla on sellainen, joka vaikuttaa
+siihen verotettavaan tuloon. Se on mielestäni kanssa tärkeää silloin, kun mietitään EU:n si-
+sällä esimerkiksi oikeudenmukaisuutta ja sitä, mikä mahdollisesti vaikuttaa esimerkiksi
+vaikkapa yritysverotuksen tasoon. Tässä kyllä tietyt EU-jäsenmaat ihan selkeästi kiertävät
+näitä säännöksiä. Toisille nämä valtiontukisäännökset tuntuvat olevan tiukempia kuin toi-
+sille.
+
+Ihan tässä viimeisenä vielä nostan esille, että kristillisdemokraattien vaihtoehtobudjetis-
+sa haluttaisiin valtion tulopuolta olla sitä kautta lisäämässä, että 50 miljoonaa tästä kauppa-
+alusten viihdemerenkulkuun suunnatusta tuesta joutaisi pois, koska se on sitten sitä taval-
+lisen kansalaisen verovälttelyä. Kun sitä viinarallia harrastetaan tuosta Itämeren poikki,
+niin kyllähän se on omanlaistansa verovälttelyä myöskin. Siinä mielessä — vaikka nämä
+muut ovat totta kai niitä suuruusluokaltaan merkittäviä ja tärkeitä — ymmärrämme, että jo-
+kainen siellä omassa arkipäivässään saattaa myös tehdä niitä ratkaisuja, joilla pyrkii tietyn-
+laiseen verovälttelyyn.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 63/2019 vp
+15.54 Valtiovarainministeri Mika Lintilä: Arvoisa puhemies! Muutamia nopeasti. —
+Ensinnäkin edustaja Essayahille: Onnea ja menestystä miehistötuen poisvetämiselle. Se on
+nimittäin TESeihin sidottu, ja veikkaan, että jokainen Suomen satama pysähtyisi sen jäl-
+keen.
+
+Ensinnäkin tähän yleiskeskusteluun ihan muutama huomio: Ensinnäkin pitää muistaa
+se, että meillä on oikeuskäytänteissä jo tällä hetkellä olemassa kansallisia keinoja ottaa ve-
+ronkierto kiinni — ettemme me olleet ihan tyhjillä merillä. Ja sitten se, että tässä on aika
+sujuvasti puhuttu harmaasta taloudesta ja veronkierrosta. Tämä itse asiassa on verosuun-
+nittelua koskeva, koska nythän ei puhuta tuoton verotuksesta vaan arvon verotuksesta, ja
+tämä on verosuunnitteluun liittyvä. Sitten saman tien kannattaa muistaa se, että kansainvä-
+lisesti vertailtuna meidän verovaje on erittäin pieni. Tässä keskustelussa nyt pikkuisen tuli
+se kuva, että on oltu ihan hunningolla, mutta emme me nyt ihan hunningolla ole olleet, kyl-
+lä me aika hyvin olemme vielä tätä hoitaneet, mutta petrattavaa on, ja sen takia me olemme
+nimenomaan sitoutuneet näihin kansainvälisiin toimiin ja siihen, mikä tässäkin tulee. Eli
+tämä ihan muistutuksena vain. On arvioitu, että näitä on muutamia tapauksia vuodessa, eli
+ei puhuta mistään massaverotuksesta, joka lähtee täällä liikkeelle.
+
+Sitten niihin kysymyksiin, mitä oli.
+Täällä oli kysymys veronumeroista telakoille. Selvitys on ensi vuoden aikana. Eli se tu-
+
+lee.
+Sitten konsernien osalta korot tiukentuvat ensi vuoden alusta, eli siellä tulee tiukempaa,
+
+ja sitten katsotaan tietysti nyt tämä, mitä tässä tapahtuu, ja arvioidaan, onko näissä riittä-
+västi, arvioidaan tilanne. Ja itse asiassa konserniverotuksen osalta minulla on työryhmä
+lähtemässä liikkeelle. Eli kyllä minä arvioin tuota kokonaisuutta.
+
+No, YTJ:n osalta: Se on hallitusohjelmassa, mutta se ei sinällänsä VM:ää sillä lailla kos-
+ke, koska meillä ne verotustiedot ovat siellä jo olemassa.
+
+Se, mitä edustaja Kiuru sanoi liittyen näihin verotuksellisiin keinoihin: meillä on tulos-
+sa tuplapoistot, joilla nimenomaan haetaan nyt sitä dynaamisuutta verotukseen.
+
+Sitten se, mikä täällä tuli oikeastaan useampaan kertaan, tämä henkilöiden arvonnousun
+verotus: Se selvitetään vuonna 2020 eli ensi vuonna. Se olisi mahdollista sitten 2021 tuoda.
+
+Sitten verojen julkisuuteen. Nämä tapaukset, mitä on ollut, ovat ihan puhtaasti viran-
+omaisratkaisuja. En ole sitä oikeuskanslerin päätöstä nähnyt enkä ole kerennyt perehtyä
+siihen. Olin viime viikonlopun Brysselissä euro- ja Ecofin-kokouksessa.
+
+Keskustelu päättyi.
+
+Asia lähetettiin valtiovarainvaliokuntaan.
+10
+
+
+	7
+	15.17
+	15.20
+	15.25
+	15.31
+	15.34
+	15.36
+	15.38
+	15.41
+	15.44
+	15.47
+	15.49
+	15.52
+	15.54
+
+

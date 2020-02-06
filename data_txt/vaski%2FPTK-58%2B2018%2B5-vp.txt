@@ -1,0 +1,1207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM2ED1.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 58/2018 vp
+
+Täysistunto
+
+Keskiviikko 30.5.2018 klo 14.00—17.08
+
+5. Eduskunnan pankkivaltuuston kertomus 2017
+Kertomus K 18/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 5. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokuntaan.
+
+Keskustelu
+
+15.03 Matti Vanhanen kesk (esittelypuheenvuoro): Arvoisa puhemies! Eduskunnalla on
+nyt käytettävissä pankkivaltuuston kertomus vuodelta 17. Kertomus sisältää tuttuun ta-
+paan nyt kuvaukset Suomen Pankin ja Finanssivalvonnan toiminnasta ja hallinnosta kerto-
+musvuoden aikana, ja siinä on sisällä myös kuusi ajankohtaisiin erityisteemoihin keskitty-
+vää kirjoitusta. Näistä ensimmäiset käsittelevät EKP:n hintavakaustavoitetta ja sen toteu-
+tumista euroalueella, Kiinan velkaantumista ja siitä koituvia riskejä sekä pankkiunionin
+nykytilaa ja kehitystä jatkossa. Mukana on myös kaksi Nordean kotipaikan muutosta kä-
+sittelevää kirjoitusta. Näistä ensimmäinen pohtii muutoksen merkitystä rahoitusjärjestel-
+män makrovakauden näkökulmasta ja toinen sitä, mitä muutos merkitsee pankkivalvonnal-
+le. Viimeisin erityisteemakirjoitus käsittelee digitalisaatiota rahoitusmarkkinoilla.
+
+Arvoisa puhemies! Totean euroalueen talouskehityksestä ja EKP:n rahapolitiikasta ly-
+hyesti vain kaksi asiaa:
+
+Ensinnäkin, vuosi 17 oli euroalueella neljäs perättäinen talouskasvun vuosi. Kasvu oli
+varsin laaja-alaista euroalueen maiden joukossa.
+
+Toiseksi, inflaatio nopeutui edellisestä vuodesta mutta oli EKP:n tavoitetta hitaampaa
+edelleen. Myös inflaatioennusteet säilyivät kertomusvuonna maltillisina. Rahapolitiikka
+jatkuikin näin ollen elvyttävänä koko kertomusvuoden.
+
+Arvoisa puhemies! Suomen Pankin osalta nostaisin kaksi asiaa:
+Ensinnäkin, Suomen Pankin johtokunta nyt, kun tämä vuosi lasketaan mukaan, vaihtuu
+
+kokonaan tämän vaalikauden aikana. Kertomusvuoden helmikuussa Suomen Pankin joh-
+tokunnan jäseninä aloittivat Marja Nykänen ja Olli Rehn, ja nyt tänä kesänä pääjohtaja
+vaihtuu pääjohtaja Erkki Liikasen eläköitymisen vuoksi, ja uudeksi pääjohtajaksi on ni-
+metty Olli Rehn. Parhaillaan on haussa sitten kolmas johtokunnan jäsenen paikka. Pankki-
+valtuusto katsoo, että johtokunta on toiminut hyvin nykymuodossaan eli kolmijäsenisenä,
+joka on lain määrittämä minimi.
+
+Toiseksi, keskuspankin tehtävien hoitaminen ja oman rahoitusvarallisuuden sijoittami-
+nen tuottaa Suomen Pankille tuloja mutta toisaalta aiheuttaa sille myös erilaisia riskejä.
+Pankkivaltuusto on osaltaan seurannut säännöllisesti niiden kehitystä, ja voimme todeta,
+että Suomen Pankin riskiprofiilissa ei ole tapahtunut merkittäviä muutoksia. Pankilla on
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+noin 14,1 miljardin euron suuruinen rahoitusvarallisuus. Sijoittaessaan tätä varallisuutta
+Suomen Pankki altistuu sekä luotto- ja likviditeettiriskeille että markkinariskeille. Markki-
+nariskejä ovat muun muassa valuuttakurssiriski ja korkoriski. Rahoitusvarallisuuden ja ra-
+hapolitiikan vuositason yhteenlasketut riskit olivat vuoden 17 lopussa 1,9 miljardia euroa
+pois lukien kultaan liittyvä riski. Laskettu riskiluku pysyi lähes ennallaan edellisvuotiseen
+verrattuna. Edellä mainittu pankin kokonaisarvio sisältää Suomen Pankin rahoitusvaralli-
+suuden ja eurojärjestelmän rahapoliittisen ohjelman riskit. Tämä riskiarvio sisältää Suo-
+men Pankin omalla riskillä olevat rahapoliittiset operaatiot sekä Suomen Pankin pääoma-
+avaimen mukaisen osuuden eurojärjestelmän riskistä. Vuoden 17 lopussa Suomen Pankin
+koko oman pääoman määrä oli 8,8 miljardia euroa, ja pankkivaltuuston näkemys on, että
+Suomen Pankin vakavaraisuus oli kertomusvuoden lopulla riittävä kattamaan pankin teh-
+tävien hoitamisesta johtuvat riskit.
+
+Arvoisa puhemies! Finanssivalvonnan osalta: 
+Se ensinnäkin toimii hallinnollisesti Suomen Pankin yhteydessä mutta on päätöksente-
+
+ossaan riippumaton siitä. Pankkivaltuusto vastaa Finanssivalvonnan toiminnan yleisen tar-
+koituksenmukaisuuden ja tehokkuuden valvonnasta, ja valtuuston tehtävänä on nimittää
+Finanssivalvonnan johtokunta ja johtokunnan esityksestä johtaja. Finanssivalvonnan toi-
+minnasta voitaneen nostaa esiin seuraavat neljä asiaa:
+
+Ensinnäkin, vaikka kyse on kertomusvuoden jälkeen keväällä 18 tapahtuneesta, todetta-
+koon, että valtuusto nimitti Marja Nykäsen Finanssivalvonnan johtokunnan jäseneksi 1.4.
+tänä vuonna ja määräsi hänet samalla sen puheenjohtajaksi.
+
+Toiseksi, Finanssivalvonnan johtokunta on antanut pankkivaltuustolle kertomuksen Fi-
+nanssivalvonnan toiminnasta kertomusvuodelta 17 sekä julkaissut Finanssivalvonnan toi-
+mintakertomuksen. Näiden kertomusten, pankkivaltuuston kokouksessa käytyjen keskus-
+teluiden ja muiden saamiensa tietojen pohjalta pankkivaltuusto arvioi, että Finanssivalvon-
+nan toiminnalle laissa säädetty tavoite on toteutunut. Finanssivalvonnan toiminnan yleisen
+tehokkuuden näkökulmasta pankkivaltuusto arvioi, että Finanssivalvonta on hoitanut val-
+vonnan jatkuvasti muuttuvaa tehtäväkenttää tehokkaasti ja kustannuskehityksen kannalta
+tarkoituksenmukaisella tavalla.
+
+Kolmas huomio: Rahoitussektori on muuttunut ja muuttuu jatkuvasti. Suomen kannalta
+on iso asia, että Nordean yhtiökokous päätti maaliskuussa 18 siirtää pääkonttorinsa Suo-
+meen. Tämän muutoksen seurauksena pankkisektorin koko Suomessa kasvaa noin kolmin-
+kertaiseksi suhteessa bruttokansantuotteeseen ja Nordean muutto tuo Finanssivalvonnalle
+uusia tehtäviä ja edellyttää valvonnan lisäresursointia. Kuten alussa totesin, Nordean muu-
+ton merkitystä pohditaan tarkemmin kahdessa erityisteemakirjoituksessa. Niistä löytyy tie-
+toa siitä, mitä muutto tarkoittaa makrovakaus- ja pankkivalvonnan kannalta.
+
+Neljäntenä ja viimeisenä huomiona Finanssivalvontaan liittyen nostan esiin kotitalouk-
+sien velkaantumisen ja sen aiheuttamat riskit rahoitussektorilla ja laajemmin kansantalou-
+dessa:
+
+Sekä Suomen Pankki että Finanssivalvonta ovat varoittaneet kotitalouksien velkaantu-
+neisuudesta ja sen kasvusta Suomessa. Tämä kehitys eli velkaantuneisuuden kasvu on jat-
+kunut jo noin 20 vuoden ajan. Finanssivalvonta on todennut muun muassa, että kotitalouk-
+sien velkaantuneisuus on Suomen rahoitusjärjestelmän merkittävin haavoittuvuus. Kor-
+kealla velkaantuneisuudella voi olla myös epäsuoria makrotaloudellisia seurauksia, koska
+Suomessa kotimainen kulutuskysyntä vaikuttaa merkittävällä tavalla talouskehitykseen.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+Korkea velkaantuneisuus lisää riskejä kulutuskysynnän vaihtelusta, jos talouden kehitys
+heikkenee.
+
+Suomalaisten kotitalouksien velkaantuneisuusasteen kasvuun ovat kiinnittäneet huo-
+miota myös kansainväliset organisaatiot, kuten Euroopan järjestelmäriskikomitea ja Kan-
+sainvälinen valuuttarahasto IMF. Myös pankkivaltuusto on käsitellyt aihetta säännöllisesti
+koko tämän kolmen vuoden jaksonsa ajan.
+
+Velkaantuneisuusasteen nousuun ovat vaikuttaneet sekä asuntolainakannan kasvu,
+asuntoyhteisölainojen kasvu että kulutusluottokannan kasvu. Yhtenä esimerkkinä Finans-
+sivalvonnan toimista asiassa voidaan mainita se, että Finanssivalvonta kiristi hiljattain,
+maaliskuussa, niin sanottua enimmäisluottosuhdetta muiden kuin ensiasunnon hankintaa
+varten otettavien luottojen osalta. Kiristys nosti suhdetta 5 prosenttiyksiköllä 85 prosent-
+tiin. Tällä toimella pyrittiin osaltaan hillitsemään velkaantuneisuuden kasvua. Finanssival-
+vonta on myös useaan otteeseen kehottanut pankkeja välttämään tavanomaista pidempiä
+takaisinmaksuaikoja sekä pitkiä lyhennysvapaita, ellei niille ole erityisiä syitä, ja myös
+muita toimia on tehty.
+
+Huolet kotitalouksien velkaantumisen kasvusta yleensä ja erityisesti asuntoyhteisölai-
+nojen määrän kasvusta ovat perusteltuja. Saattaa esimerkiksi olla, että asuntoyhteisöjen
+velkaantumiseen liittyviä riskejä ei vielä kaikilta osin ymmärretä. Toistaiseksi ko. laina-
+kannan nopeaan kasvuun ei kuitenkaan voida suoraan tai helposti viranomaistoimin puut-
+tua. Finanssivalvonta julkaisi juuri hiljattain selvityksen, jossa se oli arvioinut luottolaitos-
+ten rakennusaikaiseen rahoitukseen ja taloyhtiölainoihin liittyviä luotonmyöntökriteereitä
+ja riskejä. Finanssivalvonta antoi tässä yhteydessä lisäohjeistusta luotonmyöntökriteerei-
+hin ja riskiarviointiin liittyen. Finanssivalvonta myös ilmoitti, että se kiinnittää jatkossa
+tarkastuksissaan yhä enemmän huomiota siihen, että luottolaitokset huomioivat asianmu-
+kaisella tavalla myös taloyhtiölainat asiakkaan maksukykyä selvitettäessä.
+
+Kotitalouksien velkaantuneisuusasteen kasvu ja siihen liittyvät riskit ovat jälleen esi-
+merkki siitä, että rahoitussektorin mahdollisiin haavoittuvuuksiin ja niiden syntymiseen tu-
+lee voida puuttua. Sääntelykeinojen tulee olla ajan tasalla, tarkoituksenmukaisia ja toimi-
+via. Pankkivaltuustolla itsellään ei ole valtuuksia näiden rajojen säätämiseen ja toimenpi-
+teisiin, vaan Finanssivalvonta tekee ne itsenäisesti, mutta haluan sanoa ja korostaa erityi-
+sesti pankeille sitä, että Finanssivalvonnalla on pankkivaltuuston täysi tuki. Olemme koko
+tämän kauden rohkaisseet Finanssivalvontaa toimissaan, ja poliittisella puolella toiminta-
+valmius lisätoimille on olemassa. Uskallan tulkita näin niiden keskustelujen perusteella,
+joita valtuuston piirissä kolmen vuoden ajan on käyty. Lyhyellä ajalla rakennusketju ja no-
+pean kasvun kaupungit kokevat varmasti hyötyvänsä vauhdikkaasta lainoituksesta, mutta
+historia on tässä suhteessa armoton. Makrovakaudesta on huolehdittava ajoissa.
+
+Arvoisa puhemies! Lopuksi totean, että Suomen Pankin taseen loppusumma kertomus-
+vuoden 17 lopulla oli 111 miljardia euroa ja että tilikauden tulos kertomusvuodelta oli 156
+miljoonaa euroa ja että pankkivaltuusto päätti, että kertomusvuoden voitosta 52 miljoonaa
+euroa käytetään pankista annetun lain perusteella vararahaston kartuttamiseen ja muu osa
+eli 104 miljoonaa euroa siirretään valtion tarpeisiin.
+
+15.14 Toimi Kankaanniemi ps: Arvoisa rouva puhemies! Euroopan keskuspankin pää-
+johtaja Mario Draghi lausui 26. heinäkuuta 2012 seuraavasti: ”EKP käyttää kaikki keinon-
+sa euron pelastamiseksi.” [Olavi Ala-Nissilän välihuuto] Jos hän ei meidän piikkiimme oli-
+si tuota lupausta antanut, euro olisi jäänyt historiaan jo viisi vuotta sitten. EKP:n piikki on
+3
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+ollut ja on yhä auki. Jos hän ei olisi tuota lupausta antanut, EKP:llä ei olisi nyt noin 2 300
+miljardin euron vastuita roskalainojen osto-ohjelman kautta eikä Suomen Pankilla olisi
+noin 56 miljardin euron osuutta tuosta määrästä. Suomella olisi mennyt viime vuosina pa-
+remmin kuin on mennyt yhteisön osana.
+
+Draghin lupaus on pitänyt siis euron pystyssä. Ongelmia se ei ole poistanut, päinvas-
+toin. Niin sanottujen kriisimaiden velkaantuminen on jatkunut, rakenneuudistuksia ei ole
+juurikaan tehty, korruptio jatkuu ja niin edelleen. Vastuita vain on siirtynyt EKP:n kautta
+asiansa hoitaneiden euromaiden veronmaksajille — myös suomalaisille. 
+
+Draghin lupauksesta lähtien euroalue kitui vielä muutaman vuoden matalan kasvun ai-
+kaa, vaikka korot olivat poikkeuksellisen alhaisella tasolla. Vasta viime vuosina maail-
+mantalouden kasvu on nostanut myös euroaluetta ja Suomea kasvuun. Tämän päivän sy-
+vimmät ongelmat ovat raskaasti velkaantuneessa Italiassa, jossa on myös poliittinen kriisi,
+kun kansa äänesti, ainakin Brysselin näkökulmasta, niin sanotusti väärin. [Olavi Ala-Nis-
+silä: Eikö teidän veljespuolue ole siellä vallassa?] Siellä edessä on vain huonoja vaihtoeh-
+toja. Viimeistään nyt on kysyttävä, olisiko sittenkin pitänyt antaa euron hajota vuonna
+2012. En vastaa tähän kysymykseen itse, kukin miettii. Euron luominen sen sijaan, ja var-
+sinkin Suomen liittäminen siihen, oli suuri virhe. Siitä kantaa vastuun Lipposen ensimmäi-
+nen hallitus, erityisesti sosiaalidemokraatit ja kokoomus, oli siellä mukana vihreät ja va-
+semmistoliittokin. [Pia Viitanen: Kankaanniemi vain rakensi Soini ykkösiä tällä kaudella!]
+
+Arvoisa puhemies! Suomessa EKP:n rahapolitiikka on merkinnyt korkotason epätervet-
+tä alhaisuutta. Rahan hinta ei ole useaan vuoteen ollut oikealla tasolla. Niin mukavia kuin
+matalat korot ovatkin, ovat ne osaltaan johtaneet erityisesti kotitalouksien rajuun velkaan-
+tumiseen. Kun vuonna 2003 Vanhasen ensimmäisen hallituksen aloittaessa kotitalouksien
+velkaantumisaste oli noin 73, se on nyt lähellä 130:tä, siis 15 vuodessa kasvanut liki kak-
+sinkertaiseksi ja kasvaa yhä. Kotitalouksien suurin velkataakka on luonnollisesti nuorilla
+perheillä, joilla on sekä asuntolainaa että opinto- ja kulutusluottoja. Uutena ilmiönä ovat ta-
+loyhtiöiden lainat, joiden aiheuttama riski on kasvanut jo erittäin vaaralliseksi. Tästä Suo-
+men Pankin tilintarkastajatkin kantoivat vakavaa huolta tarkastuksen yhteydessä, ja halli-
+tuksenkin pitää ottaa se huomioon. Yhdyn tältä osin siis puheenjohtaja Vanhasen esittä-
+mään huoleen.
+
+Arvoisa puhemies! EKP on siis ostanut roskalainoja noin 2 300 miljardilla eurolla.
+Osto-ohjelma jatkuu yhä 30 miljardin euron kuukausivauhdilla. Italian kriisi näyttää edel-
+lyttävän sen jatkamista ja jopa kasvattamista tai jopa vielä pidemmälle menevää kriisi-
+rahoitusmenettelyä.
+
+Suomen Pankin laskennalliset vastuut kertomuksen mukaan ovat yhteensä laskien noin
+56 miljardia euroa eli enemmän kuin vuosibudjettimme. Tämä ilmenee kertomuksen si-
+vuilta 26—27. Lisäksi muun muassa LTRO-vastuut painavat kymmenien miljardien mää-
+räisinä. EKP:n on kuitenkin lähiaikoina lopetettava ostot. Mitä sen jälkeen tapahtuu, sitä ei
+kukaan tiedä tarkkaan. Todennäköistä on, että korkotaso nousee. Se johtaisi kriisiin, josta
+suomalaiset kotitaloudet ja Italian kaltaiset raskaasti velkaantuneet valtiot eivät selviäisi.
+[Matti Vanhasen välihuuto] Myös yrityksiä ja kuntia ja monia muita tahoja vaikeudet raas-
+taisivat ja uhkaisivat kaataa. Euro on siis suurten vaikeuksien edessä juuri nyt, kun se on
+kehittämisen ja yhteisvastuun syventämisen kohteena.
+
+Arvoisa puhemies! Pankkivaltuuston kertomuksen sivulla 50 kuvataan pankkiunionin
+täydentämistä. Siellä todetaan muun muassa: ”Yhteiseen talletussuojaan tulee kuitenkin
+siirtyä vasta, kun lähtöasetelmat ovat tasapuoliset koko pankkiunionin alueella. Tämä edel-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+lyttää, että pankkien järjestämättömien luottojen ongelmaan on löydetty ratkaisu ja että tal-
+letussuojaan liittyvien pankkien riskiasema on arvioitu riittävän yhdenmukaisin kriteerein
+ja varmistuttu pankkien vakavaraisuudesta.”
+
+Komission ehdotus siirtyä täydelliseen talletussuojaan ja kriisirahaston perustamiseen
+asteittain vuoteen 24 mennessä on sekä EKP:n osto-ohjelman että erityisesti Italian ja eräi-
+den muiden maiden tilanteen takia täysin mahdoton ajatus. Olemme tilanteessa, jossa jou-
+dumme toteamaan rehellisesti, että euro ei kestä seuraavaa kriisiä, joka tulee esimerkiksi
+valtiovarainvaliokunnan kuulemien asiantuntijoidenkin mukaan jo ennen vuotta 24, ehkä
+jo parin vuoden sisällä. Italian tilanne huomioon ottaen kriisi on itse asiassa jo päällä.
+
+Euro siis kaatuu seuraavaan taantumaan. Onko Suomen hallitus todella valmis viemään
+meidät yhteisvastuuseen tässä tilanteessa, jossa euro nyt on? Tätä perussuomalaiset eivät
+kannata. Löytyykö tästä salista joku, joka on valmis ottamaan yhä suuremmat vastuut
+muun muassa italialaisten veloista?
+
+Arvoisa puhemies! Suomen tulee varautua euron hajoamiseen. On syytä viipymättä teh-
+dä suunnitelma tältä varalta. Sillä voidaan ehkä pelastaa jotakin, vaikka vastuistaan Suomi
+ei enää pääse. [Eduskunnasta: Minulla on markkoja vielä!]
+
+Arvoisa puhemies! Erityishuoli meillä on kotitalouksista, joiden velkataakka on ylisuu-
+ri ja kasvaa. Hallituksen toimenpiteitä tarvitaan, jotta 80-luvun lopun — 90-luvun alun ka-
+tastrofi ei toistu. Toivon, että valiokunta paneutuu hyvin syvällisesti ja vakavasti pankki-
+valtuuston kertomukseen ja tilanteeseen, jossa nyt olemme, ja tekee oikeat johtopäätökset.
+
+15.23 Kari Uotila vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Ottamatta kantaa
+euron hajoamisspekulaatioihin tai puhumattakaan siitä, että tavoiteltaisiin euroalueen ha-
+joamista, silti yhdyn kyllä edustaja Kankaanniemen puheenvuoroon siinä, että kovin on ol-
+lut hiljaista sen analysoinnin osalta, mikä on koskenut EKP:n poikkeuksellisia rahapoliit-
+tisia toimia, tätä edustaja Kankaanniemen mainitsemaa 2 300:aa miljardia euroa, joka tällä
+päätöksellä markkinoille on työnnetty. Miten se purkautuu, minkälaisen markkinahäiriön
+se on aiheuttanut korkotasoon, markkinoihin, myöskin pörssikursseihin, koska osa rahoi-
+tuksesta on myöskin pörssikursseissa, ja niin edelleen? En tiedä, minkälaista keskustelua
+pankkivaltuustossa — kun ryhmällämme ei ole siellä edustusta — on käyty, mutta mielen-
+kiintoista on, että se on eräällä tavalla sellainen vaiettu aihe, että ei oikeastaan virallisesti
+käydä mitään keskustelua tästä valtavasta rahoitusoperaatiosta, jolla oli paljon positiivista,
+paljon vakauttavaa vaikutusta mutta jolla on myös omat ongelmansa.
+
+15.24 Ville Vähämäki ps (vastauspuheenvuoro): Puhemies! Kyllähän Italian tilanne on
+huolestuttava. Mistä on lähdetty liikkeelle? On lähdetty liikkeelle siitä, että on tehty kat-
+teettomia vaalilupauksia, ja siitä on syntynyt tilanne, että on huomattava vaikeus muodos-
+taa hallitus, ja se taas heijastuu valtionlainojen hinnoitteluun: kaksivuotiset bondit ovat hy-
+pänneet yhtäkkiä vuoden 2013 hintatasolle. Samaan aikaan sitten tehdään ehdotuksia yh-
+teisvastuun lisäämisestä EU-tasollakin — monentyyppisiä ehdotelmia, mitä täälläkin edus-
+kunnassa on käsitelty — mutta sitten taas Italiassa pohditaan sitä, voitaisiinko näitä val-
+tionlainoja jollain tapaa antaa anteeksi. Nyt sitten on myöskin nämä EKP:n poikkeukselli-
+set toimenpiteet ja yhtä lailla sitten se, mitä edustaja Uotila hyvin tässä pohti: kuinka nämä
+poikkeustoimenpiteet ajetaan alas.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+Loppujen lopuksi kysymys on minun mielestäni vastuuttomista vaalilupauksista, ovat
+ne sitten eläkeläisille annettavia lisäeläkkeitä tai vastuutonta valinnanvapautta. Vastuutto-
+muus on vastuuttomuutta.
+
+15.25 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa puhemies! Otan kantaa tähän Itali-
+asta lähtevään keskusteluun, koska se on hyvin ajankohtainen.
+
+Pistin merkille mielestäni aika yllättävän lausunnon sunnuntaina Helsingin Sanomissa.
+Komissaari Katainen otti kantaa yhteisvastuun suhteen. Hän vähän pahoitteli puheitaan,
+jotka ovat olleet kriittisiä sitä kohtaan, ja ymmärrettävästi tämä puheenvuoro herätti paljon
+keskustelua. Tänään hämmästyin vielä enemmän, kun hän otti kantaa seuraavassa artikke-
+lissa ja vertasi näitä yhteysvastuupuheita Yhteisvastuukeräykseen. Täytyy nyt kyllä sanoa,
+että Yhteisvastuukeräys perustuu vapaaehtoiseen auttamiseen kristinuskon hengessä ja eu-
+rooppalainen yhteisvastuu ei todellakaan tulisi perustumaan vapaaehtoisuuteen eikä kai-
+kessa mielessä varmasti kristilliseen henkeenkään.
+
+Tässä suhteessa täytyy sanoa, että olen täsmälleen eri mieltä Kataisen näkemyksistä, ja
+täytyy antaa hatunnosto nyt tällä kertaa edustaja Olavi Ala-Nissilälle, jonka huomasin suh-
+tautuneen hyvin penseästi näihin lausuntoihin. [Olavi Ala-Nissilän välihuuto] Täytyy sa-
+noa, kun hänet hississä eräänä päivänä kohtasin, että olin muuten tällä kertaa täysin samaa
+mieltä kanssanne.
+
+15.26 Olavi Ala-Nissilä kesk (vastauspuheenvuoro): Arvoisa puhemies! Ei tarvitse käyt-
+tää tällä kertaa edustaja Viitasen puheenvuoroon vastauspuheenvuoroa, koska se oli aivan
+erinomainen.
+
+Aluksi haluan todeta sen, että on hyvä asia, että Suomen Pankkia on johdettu hyvin am-
+mattitaitoisesti edellisen pääjohtajan aikana, ja nyt Olli Rehnin aikana varmasti on näin. On
+hyvä, että pankkivaltuuston puheenjohtaja hyvin vakaalla kädellä johtaa pankkivaltuustoa,
+joka valvoo Suomen Pankkia, ja tässä mielessä voimme olla tyytyväisiä.
+
+Todellakin, mitä tulee näihin elefanttilupauksiin, mitä annetaan, niin sitähän on liikkeel-
+lä. Eikö, edustaja Kankaanniemi, se Viiden tähden liike ole vähän niin kuin teidän veljes-
+puolue? Vai onko se edustaja Harkimon veljespuolue? [Toimi Kankaanniemi: Taitaa olla
+Rinteen!] Hänhän kävi siellä myöskin opintomatkalla.
+
+Todellakin on erittäin huolestuttavaa — ja se on euron riski, edustaja Kankaanniemi —
+että jäsenmaat eivät hoida omaa talouttaan kunnolla. Parasta yhteisvastuuta on se, että nou-
+datetaan yhteisesti sovittuja pelisääntöjä myöskin euroalueella, [Puhemies koputtaa] ja sii-
+nä mielessä [Puhemies: Aika!] minäkin olen todella hämmästellyt varapuheenjohtaja Ka-
+taisen löysiä puheita yhteisvastuun osalta.
+
+Puhemies Paula Risikko: Sitten vielä kolme vastauspuheenvuoroa: Hoskonen, Eestilä,
+Kankaanniemi.
+
+15.28 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Todella-
+kin tämä Euroopan keskuspankin lainojen osto-ohjelma on huolestuttava sinänsä, koska
+sillähän avattiin niin sanotusti piikki Suomen hallituksen ohjelmaan tällä kaudella. Lisä-
+vastuita ei tule, mutta se on varmaa, että seuraava hallitus, olkoon se minkä tahansa näköi-
+nen tai minkä tahansa värinen, joutuu siihen asiaan kantaa ottamaan. Mutta se iso juttu täs-
+sä kuitenkin on se, että kaikissa Euroopan maissa on syytä nyt pikkuhiljaa ottaa vakavasti
+6
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+se, että tällainen hurlumhei-elämä ja velaksi eläminen pitää saada pikkuhiljaa loppumaan.
+Se koskee myös Suomea. Sitä vartenhan muun muassa tehdään näitä uudistuksia, joita ih-
+meekseni olen huomannut tässäkin salissa vastustettavan.
+
+Mutta se toinen juttu, mihin edustaja Matti Vanhanen pankkivaltuuston puheenjohtaja-
+na otti aivan oivallisesti kantaa, on tämä kotitalouksien velkaantuminen, ja sillä puolella on
+erittäin huolestuttavaa. Taloyhtiölainojen kautta kotitalouksille tulevat vastuut tällä hetkel-
+lä pienen koron aikana ovat pienet, mutta sitten kun paukahtaa, se on todella vakava juttu.
+
+15.29 Markku Eestilä kok (vastauspuheenvuoro):  Arvoisa puhemies! Tänä aamuna
+saimme lukea aika kattavan artikkelin Italian tilanteesta Helsingin Sanomista, ja siellähän
+lainat taitavat olla yli 2 200 miljardia ja 136 prosenttia bruttokansantuotteesta. Kyllähän
+sillä tavalla kriittinen tämä tilanne on, olematta suinkaan pessimisti, sen takia, että jos tämä
+lähtee kaatumaan kriisin päälle, niin silloinhan korot lähtevät nousemaan, ja mitä näille
+asuntovelallisille silloin käy ja miten Suomen taloudelle käy, niin sitä ikävä kyllä en lähde
+arvioimaan, koska se on aika rankkaa sen jälkeen, mutta sitähän tietenkin on pelätty. 
+
+Liika pessimismi ei ole hyvästä, mutta kun täällä arvostellaan tätä EKP:n omaisuuserien
+osto-ohjelmaa, joka tällä hetkellä on 30 miljardia, ja EKP:n neuvosto on todennut, että he
+voivat laajentaa ja suurentaa osto-ohjelmaa, niin mitä te olette sitten mieltä, olisiko tämä
+pitänyt jättää tekemättä ja olla ottamatta talouskasvu vastaan, koska sehän on se kääntö-
+puoli? Tämähän on elvyttävää politiikkaa, mitä monet tässäkin salissa ovat aina toivoneet.
+Jos joku täällä arvioi ja arvostelee sitä, niin esittäkää oma vaihtoehtonne, [Puhemies: Ai-
+ka!] mitä olisi pitänyt tehdä, että talouskasvu olisi jäänyt toteutumatta.
+
+15.30 Toimi Kankaanniemi ps (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Ala-
+Nissilä, minä totesin ne ongelmat, mitkä on, eli näissä kriisimaissa ei ole tehty riittävästi
+korruption vastaista työtä, ei rakenneuudistuksia ja niin edelleen, ja siksi tilanne on yhä
+erittäin huono, ja EKP ei ole asettanut oikeastaan mitään ehtoja näille. Kreikkaa kuritettiin,
+mutta ei enää Italiaa.
+
+Mitä tulee tähän keskusteluun yleensä, valtiovarainvaliokunnassa marraskuulla ja sitten
+nyt kevätkaudella kuultiin asiantuntijoita Emun syventämisestä ja näitä uudistuksia teh-
+tiin, lausuntoja tehtiin, teimme eriävän mielipiteen ja se meni suureen valiokuntaan, mutta
+tänne isoon saliin emme ole tätä valtavan isoa, erittäin tärkeää asiakokonaisuutta saaneet
+ollenkaan. Oikeastaan tässä vetoankin, jos sallitaan, arvoisaan rouva puhemieheen, voisit-
+teko te tehdä kaiken mahdollisen, että tässä salissa voitaisiin käydä Emu-politiikasta ja
+Suomen linjasta oikein syvä keskustelu.
+
+Puhemies Paula Risikko:  Sitten mennään puhujalistalle.
+
+15.31 Kari Kulmala sin: Arvoisa rouva puhemies! Näiden hyvien puheiden jälkeen kes-
+kityn hieman yksinkertaisempiin asioihin. 
+
+Kertomuksen sivulla 19 kerrotaan kolikoista ja seteleistä, jotka minua numismaatikko-
+na kiinnostavat, ja meistä varmasti kaikki toivoisivat, että meillä olisi vähintään niitä sete-
+leitä hieman enemmän kuin mitä tällä hetkellä on. Suomen Pankki huolehtii siitä, että suo-
+malaisilla on käytettävissään eurokäteistä: seteleitä ja kolikoita. Samoin kuin muissakin
+euromaissa, valtaosa eurosetelistöstä jaetaan Suomessa yleisön käyttöön koko ajan harve-
+nevan automaattiverkoston kautta. Suomen Pankin tehtävänä on tarkistaa kierrosta palau-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+tuvien euroseteleiden aitous ja kunto sekä poistaa samalla huonokuntoiset setelit kierrosta
+ja vaihtaa ne uusiin.
+
+Käteinen on edelleen kilpailukykyinen maksuväline, vaikka erilaiset sähköiset maksu-
+tavat ovat jo todellisuutta. Käteisen käyttö edellyttää, että sitä on saatavilla jakeluverkon
+kautta ja että maksun vastaanottaja hyväksyy käteisen maksuvälineenä. Suomen Pankin
+tehtävänä on seurata käteisen jakeluverkoston muutoksia sekä käteisen hyväksyttävyyttä
+erilaisissa maksutapahtumissa. Suomen Pankki mittaa myös kuluttajakyselyillä tyytyväi-
+syyttä käteisen saatavuuteen, on tehnyt sitä itse asiassa jo 10 vuoden ajan. Viime vuoden
+lokakuussa tehdyn kyselyn perusteella kuluttajien tyytyväisyys käteisen saatavuuteen on
+pysynyt edelleen hyvänä. Kyselyyn vastaajista 84 prosenttia oli edelleen tyytyväisiä kätei-
+sen saatavuuteen. Ilmeisesti kyselyyn ei vastattu Kesälahdella tai Tohmajärvellä, joissa ra-
+haa ei pankin päätöksellä ole enää käteisautomaatista saatavilla.
+
+Numismaatikkoja kiinnostaa ehkä eniten päätös, että euroseteleissä ollaan vähitellen
+siirtymässä uudistettuun Europa-setelisarjaan. Viime vuonna seteleissä vaihtovuorossa oli
+50 euron seteli, joka on Suomessa 20 euron setelin rinnalla keskeinen automaattijakelussa
+oleva seteli. Uuden setelin ulkoasu on hieman muuttunut turvatekijöiden parantamisen
+vuoksi. Rahaa väärennetään edelleen, kuten aikaisemminkin. Euroseteliväärennösten mää-
+rä normalisoitui viime vuoden aikana kertomuksen mukaan edellisvuoden poikkeusluvus-
+ta 769 kappaleeseen. Kolikkoväärennöksiä löytyi 957 kappaletta. 
+
+Arvoisa rouva puhemies! Suomen Pankki on vastannut käyttörahojen riittävyydestä val-
+tiovarainministeriön toimeksiannosta Suomessa ja antanut Suomen Rahapajalle tehtäväksi
+eri asetuksilla valmistaa käyttörahoja 1860-luvulta lähtien Suomen Pankille. Suomen
+Pankki on vastaavasti kansalaisille jakelussaan käyttänyt liikepankkeja ja pankkeja vuo-
+teen 2013 asti. Suomessa ei ole ollut vuoden 2013 jälkeen nimellishintaisia normaaleja
+käyttörahoja 1 sentistä 2 euroon, vaikka niitä on valmistettu ja jaettu samanlaisissa raha-
+rullissa. Vastaavasti 2 euron niin sanotut erikoiskakkoset kuuluivat vielä arvonlisäverolain
+59 §:n piiriin, kuten kaikki ennen vuotta 2013 olleet käyttörahat. Mutta vuoden 2016 alus-
+ta ne ovat olleet verollisia, eli käytännössä nimellishintainen ja käyttöarvoltaan oleva 2 eu-
+ron kolikko onkin Suomessa 2 euroa 48 senttiä plus toimitus- ja postikulut. Vastaavasti
+muissa EU-alueiden euroa käyttävissä maissa 2 euron erikoiskakkosta saa ostaa keskus-
+pankeilta nimellishintaan raharullittain. Kuulostaa varmaan erikoiselta, vaikka meitä pitäi-
+si käsitellä Suomessa samalla tavoin kuin muuallakin EU-maissa. 
+
+Suomen Rahapajan perustelu alv-verolle on, että arvonlisävelvolliselle kauppiaalle eli
+ostajalle vero on vähennyskelpoista. Edellä mainittujen rahojen nettohinta säilyy ennal-
+laan, ja tämän lisäksi Suomen Rahapaja lisää reilun toimitusmaksun verraten edelliseen ja-
+keluun eli liikepankkien kustannukseen. Tämän alv-veromäärittelyn tekee vielä ihmeelli-
+semmäksi se, että lähes samaan aikaan rahahuollon kautta lasketaan samaa rahaa kiertoon
+samoissa raharullissa nimellishintaan. 
+
+Suomessa ja EU-alueella on paljon nuoria keräilijöitä, jotka haluavat kerätä eri maiden
+erikoiseuroja talteen. Tällainen lisävero näiden rahojen hankintaan on tarpeeton eikä mil-
+lään tavoin tasapuolinen tai oikeudenmukainen, ja tähän tulisi puuttua vähintäänkin valtio-
+varainministeriön osalta.
+
+15.37 Olavi Ala-Nissilä kesk: Arvoisa rouva puhemies! Aivan lyhyesti käsittelen tätä ra-
+hamaailmaa ja moraalikatoilmiötä. Kuitenkin haluan ensin todella todeta, minkä jo tuossa
+vastauspuheenvuorossa totesinkin, että Suomessa, joka on osa Euroopan keskuspankkijär-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+jestelmää, Suomen Pankkia on johdettu hyvin ja sekä pankin johdon että myöskin pankki-
+valtuuston toiminta on ollut hyvin johdonmukaista viime aikoina, ja sille haluan antaa kyl-
+lä tunnustukseni. Siitä kertoo myöskin pankkivaltuuston kertomus.
+
+Todella eletään Euroopassa taas hieman levottomampia aikoja Italian tilanteen johdos-
+ta. Siellä, kuten todettua, kaksi suurinta vaalivoittajaa antoivat niin sanottuja elefanttilu-
+pauksia eli suuria lupauksia menojen lisäyksistä ja verojen kevennyksistä, jopa myöskin
+velkojen anteeksiannosta muiden eurooppalaisten piikkiin. Tämähän on erittäin huolestut-
+tava ilmiö silloin kun ollaan yhteisessä pankkijärjestelmässä.
+
+Tämä moraalikatohan tarkoittaa sitä, että otetaan riskejä toisten piikkiin tai laitetaan me-
+noja toisten piikkiin. Se kai ilmiönä syntyi Yhdysvalloissa 1800-luvulla, kun havaittiin,
+että huonon talouskehityksen oloissa sellaisia taloja alkoi palaa, joiden vakuusarvo oli pu-
+donnut alle velka-arvon, ja vakuutusyhtiöt tietysti huolestuivat tästä. Siinä laitettiin riskejä
+toisten piikkiin. No, Suomessa on sanottu, että laman ollessa sahapalot yleistyvät. Siinäkin
+on ehkä moraalikatoilmiö. Se on paljon laajempikin: Finanssikriisin oloissahan me näim-
+me tätä ilmiötä hyvin paljon. Irlannin keskuspankki ilmoitti, että se takaa kaikki lainat,
+mitä on olemassa. Sen jälkeen rahaa hakeutui hyvin paljon Italian pankkeihin, ja lupauk-
+sista tuli todella kalliita silloin, kun nähtiin, että voidaan riskejä siirtää Italian keskuspan-
+kin piikkiin, ja sinne riskilainat myöskin siirtyivät. Oli monia muitakin ilmiöitä finanssi-
+kriisin aikana.
+
+Kuten sanoin, yhteisvastuu on tärkeätä ja sitäkin tarvitaan, ja sitähän on Euroopan kes-
+kuspankkijärjestelmässä. Teoriassa parasta yhteisvastuuta on se, että jokainen vastaa oman
+taloutensa kunnosta, jokainen vastaa yhteisesti sovituista sitoumuksista. Sehän on parasta
+yhteisvastuuta. 
+
+On tärkeätä, että markkinapaine säilyy. Jos ajattelemme Kreikkaa, joka nyt on hyvällä
+tiellä, sielläkin vasta tämä markkinapaine kuitenkin sitten sai aikaan tervehtymisen. Kun ei
+enää tullut rahaa pankin seinästä, ei kerta kaikkiaan tullut rahaa pankin seinästä, niin ihmi-
+set havaitsivat, että eihän tämä tällainen elämä voi jatkua, vaan kyllä julkisen taloudenkin
+täytyy olla terve ja sitä pitää yrittää tervehdyttää. Nyt kreikkalaiset tästä toivottavasti op-
+pivat, vaikka heidän historiansa ei ole kovin hyvä. Eli on tärkeätä, niin kuin Suomen halli-
+tuksen linja on Euroopan unionin ja Euroopan rahaliiton oloissa, että säilytetään markki-
+napaine, että jokainen jäsenvaltio itse ensisijaisesti laittaa omaa talouttaan kuntoon. 
+
+Komission varapuheenjohtaja Katainen puhui vähän arvoituksellisella tavalla yhteisvas-
+tuun lisäämisestä. Hän sanoi, että hän katuu niitä puheitaan, mitä silloin oli, kun hän oli
+pääministerinä ja valtiovarainministerinä oli Jutta Urpilainen. Ehkä silloin meillä vähän
+mentiin ylikin siinä yhteisvastuun kritisoimisessa, mutta nyt tämä menee toiseen suuntaan
+ilmiselvästi, ja ajoitus on erittäin huono. Tässä Italian kriisin vaiheissa ei pitäisi komissios-
+ta tulla sellaista viestiä, että tässä aletaan jotenkin löysäilemään, vaikka sitten puhe olisikin
+vähän monimutkaisten sanankäänteiden takana. Eli tätä ihmettelen. Huomasin edustaja
+Viitasenkin sitä ihmettelevän, [Pia Viitanen: Kyllä!] miksi nyt on tässä juuri tällaisia löy-
+siä puheita, kun olisi erittäin tärkeätä, että Italiassa on hallitus, joka hoitaa vastuullisesti po-
+litiikkaa ja laittaa taloutta kuntoon, ja että siellä myöskin markkinapaine toimii. 
+
+Me näemme, että markkinapaine siellä jo toimii: korot ovat jo reagoineet hyvin nopeas-
+ti. Ja onneksi se näin toimii, koska se on sittenkin se, mikä laittaa italialaisia poliitikkoja
+järjestykseen. Se on kaikkein huonointa köyhän asiaa, jos me romutamme julkisen talou-
+den tavalla, jota nähtiin Kreikassa. Se oli vähävaraisten ihmisten kannalta aivan vastuuton-
+ta politiikkaa. Se tulee olemaan sitä myöskin Italiassa, mikäli sitten ei politiikan sisältö pa-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+rane. Onneksi Italian presidentti on ottanut hyvin vastuullisen linjan ja torpannut kaikkein
+eurokriittisimmän valtiovarainministeriehdokkaan. Valitettavasti kuitenkin varmaan tul-
+laan elämään levottomia aikoja.
+
+Vielä lopuksi, puhemies, mehän olemme uudistamassa pankkiunionia. Se on tärkeätä, ja
+siinä yksi hyvin keskeinen asia on se, että erotetaan valtion vastuut yritysten vastuista, että
+se kytkös, mikä on hyvin voimakas, katkaistaan. Italiassa tämä kytkös on vielä olemassa ja
+sitä ei ole katkaistu, ja tämä on iso riski, ja se herättää juuri huolta, koska Italian pankeissa
+on paljon valtion sitoumuksia.
+
+Puhemies! Näillä ajatuksilla saattelen tätä pankkivaltuuston kertomusta talousvaliokun-
+taan, ja kun täällä toivottiin — muistaakseni edustaja Kankaanniemi ja ehkä edustaja Vii-
+tanenkin toivoivat — enemmän keskustelua näistä Euroopan unionin ja euroalueen haas-
+teista, niin sitä todella kannatan. Se on tämän suuren salin asia myöskin.
+
+15.44 Pia Viitanen sd: Arvoisa rouva puhemies! Oikeastaan on mukava aloittaa siitä to-
+teamuksesta, että aika usein muuten näissä Suomen Pankkia koskevissa keskusteluissa ja
+silloin, kun puhumme esimerkiksi euroalueen tämänhetkisestä tilanteesta, löydän kyllä yh-
+teistä säveltä edustaja Ala-Nissilän kanssa. Hän tuossa päätti puheenvuoronsa hyvin puhu-
+malla tästä, että yhtyy siihen tarpeeseen, että olisi syytä myös tässä isossa salissa käydä en-
+tistä enemmän keskustelua Emun tulevaisuudesta ja haasteista, ja minä kannatan sitä aja-
+tusta myös lämpimästi. Me olemme sitä usein toivoneet myös sosiaalidemokraatteina ja
+käyttäneet siitä paljon puheenvuoroja tässä salissa. Toivoisin, että näinä aikoina toden tot-
+ta sitä keskustelua käytäisiin aika vahvastikin tässä talossa ja nimenomaan tässä suuressa
+salissa. Suomessa on hieno systeemi, että Eurooppa-asiat käsitellään ennakoivasti jo suu-
+ressa valiokunnassa. Se poikkeaa monien parlamenttien tilanteesta. Me olemme tässä edel-
+läkävijöitä, mutta se ei poista sitä, että siitä huolimatta täällä isossa salissa käydyn keskus-
+telun tulisi olla vielä vahvemmin läsnä.
+
+Puhemies! Tähän alkuun ihan myös minulta tämä erityishuomio, että mielestäni tämä
+kertomus on kaiken kaikkiaan hyvin mielenkiintoista luettavaa ja hyvä talouspoliittinen
+julkaisu siinä mielessä, että tässä on esimerkiksi nyt koottu tänne kertomuksen yhteyteen
+näitä hyvin kiinnostavia erityisteemoja EKP:n hintavakaudesta, Kiinasta, pankkiunionista,
+Nordean tilanteesta sekä digitalisaatiosta rahoitusmarkkinoilla. Varmasti tämä kaikki on
+äärimmäisen mielenkiintoista luettavaa jokaiselle meistä.
+
+Haluaisin myös omalta osaltani tässä puheenvuorossa ottaa kantaa lyhyesti siihen, että
+mielestäni on ollut kuitenkin tärkeää, että EKP:n oma rahapolitiikka on ollut kevyttä, kos-
+ka se on kuitenkin mahdollistanut talouskasvun, -nousun, työllisyyslukujen parantumisen
+ja siinä mielessä nämä suotuisat tuulet maailmalta ovat myös osittain mahdollistaneet meil-
+lä myönteisiä tuulia nimenomaan EKP:n rahapolitiikan kautta, ja siksi pidän asiaa sinänsä
+merkittävänä.
+
+Tässä myös muun muassa puheenjohtaja Vanhanen — kiitos hänelle hyvästä esittelystä
+— kertoi siitä, että niin Suomen Pankki kuin Finanssivalvonta ovat kiinnittäneet huomiota
+kotitalouksien velkaantumiseen. Se on toinen hyvin ajankohtainen ilmiö. Itsekin olen usein
+pohtinut sitä, kun katselen uutisia näistä lisääntyneistä yhtiölainoista ja muista, että kyllä
+varmasti näinä aikoina saa käydä myös tätä keskustelua siitä näkökulmasta, että ikuisesti
+maailma ehkä ei olekaan tällainen, että korot ovat tällä tasolla. Siksi näitä riskejä tulee ih-
+misten tiedostaa hyvin tänä päivänä, että mitä sitten voi seurata, jos korkotilanne tai muu
+muuttuu kaiken kaikkiaan.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+No, sitten oikeastaan, puhemies, haluaisin vielä palata tähän ajankohtaiseen Italian tilan-
+teeseen, mistä edustaja Ala-Nissilä edellä käytti hyvän puheenvuoron.
+
+Siihen nähden juuri, kun tiedämme sen tilanteen, mikä siellä on, tiedämme epävakau-
+den, taloudellisen epävarmuuden koko ajan vain lisääntyvän, puhumattakaan sitten näistä
+kaikista isoista lupauksista, mitä heiteltiin ilmaan, mitkä eivät ole vieläkään varmasti unoh-
+dettavissa, kyllä tilanne näyttää erityisen huolestuttavalta. Siksi minusta oli, kuten sanoin
+tuossa debatissa, hieman outo ajankohta enkä sitä ymmärtänyt, miksi komission varapu-
+heenjohtaja Jyrki Katainen käytti tämän puheenvuoron, jossa hän pahoitteli omia aiempia
+lausuntojaan yhteisvastuun lisäämisen vaaroista. Se tuli outoon aikaan, ja mielestäni se oli
+sinänsä aika yllättäväkin puheenvuoro. Siitä huolimatta, että hän sitä hieman sitten jatko-
+keskusteli itsensä kanssa, tosiasia kuitenkin oli, että Katainen on nyt pahoitellut puheitaan
+yhteisvastuusta, mikä mielestäni ei ole ongelmaton asia.
+
+Palaan siihen aikaan, kun todella oli Kataisen oma hallitus ja meillä valtiovarainminis-
+terinä Jutta Urpilainen. Mielestäni se linja oli täysin oikea, mitä silloin Euroopan unionissa
+harjoitimme: emme halunneet lisätä yhteisvastuuta ja olimme tiukalla linjalla muun muas-
+sa näiden Kreikan tukipakettien suhteen. Muistamme kaikki sen, kuinka ministeri Urpilai-
+nen kävi — samoin kuin lupasi ennen vaaleja — taistelemassa aika vaikeankin taistelun
+siitä, että Suomi sai nämä vakuudet omille rahoitusosuuksilleen sekä edisti niin EVM:n ke-
+hityksessä kuin muutenkin esimerkiksi sijoittajavastuuta, joka sitten tulikin mukaan tähän
+Euroopan vakausmekanismiin, ja monta hyvää asiaa tapahtui nimenomaan tiukan linjan
+pohjalta. Minusta se on aivan oikea linja isolta kuvaltaan ja sitä ei pitäisi nyt lähteä niillä
+puheilla höllentämään, että yhtäkkiä kadummekin sitä, että olemme sanoneet, että yhteis-
+vastuuta ei tule lisätä.
+
+Eli tässä suhteessa olen edustaja Ala-Nissilän linjoilla mitä vahvimmassa määrin ja
+muistutan todella siitä, että kyllä luulisi tänä päivänä, että Italian tilanne laittaisi meidät
+kaikki miettimään. Kuka haluaa tässä tilanteessa lähteä rakentamaan yhteistä taloutta Ita-
+lian kanssa? Harvapa varmasti voi. Ja voisi todeta tähän loppuun, että eikö Kreikasta ole
+opittu mitään.
+
+15.50 Markku Eestilä kok: Arvoisa puhemies! Täällä oli äsken hyvä keskustelu, ja minä
+haluaisin vielä palata tähän Euroopan keskuspankin omaisuuserien osto-ohjelmaan. Se
+kuitenkin on ollut yksi ruiske koko tähän talouden elvyttämiseen, eihän sitä voi kieltää, ja
+jos nyt lähdettäisiin spekuloimaan, että ei olisi ollut hyvä sitä osto-ohjelmaa ollenkaan
+käynnistää, niin se olisi kyllä ehkäissyt käsittääkseni talouskasvua aika paljon. Me Suo-
+messakin saamme tällä hetkellä nauttia osittain juuri sen takia, että työllisyys on parantu-
+nut ja meidän julkisen talouden alijäämä pienenee. Se on hyvä asia ja positiivinen asia,
+mutta sen varjopuolena väistämättä ovat nämä vastuut. Ehkä se piirre, mihinkä nyt puhees-
+sani haluan kiinnittää huomiota, on se, miksi tämä on tehty, eli sen takia on setelipaino pan-
+tu laulamaan, että saisimme inflaation hieman korkeammalle tasolle kuin se nyt on. 
+
+Sehän se ongelma minun käsittääkseni on, että me emme pääse eikä Euroopan keskus-
+pankki pääse siihen tavoitteeseen, että inflaatio olisi hieman alle 2 prosenttia, vaan sen pai-
+neen vuoksi, mikä deflaation muodossa maailmalta tulee, inflaatio ei edes elvyttävällä ra-
+hapolitiikalla tahdo mennä päälle. Me emme kukaan tiedä, mitä Italiassa tapahtuu, mutta
+ainakin oma näkemykseni on se, että luottamus poliittisiin päätöksentekijöihin on valuut-
+ta, millä pelataan, ja niin kuin Italiassa nähdään, kun luottamusta ei ole, niin korot nouse-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+vat saman tien. Jos se lähtee leviämään muualle euroalueeseen, niin sitten saattaa tapahtua
+mitä tahansa.
+
+Mutta se toinen puoli, mihin viittasin, kun tätä rahaa on markkinoille pantu, liittyy Suo-
+meen. Kyllä minä samalla tavalla kuin puheenjohtaja Vanhanen nostan esille tämän, että
+kun kotitaloudet velkaantuvat, niin lainaraha ja elvyttävä raha ovat menneet kiinteistöihin
+ja asuntomarkkinoille, ja siellä on nyt selvä riskikertymä, johon ainakin kansanedustajien
+eduskunnassa pitää puheissaan puuttua, olkoon finanssivalvonta kenen tahansa tehtävä, ja
+niitä toimenpiteitä säätää, että tätä jollakin tavalla lähdetään suitsimaan, koska tämä liittyy
+myös siihen, että kulutusluotot ovat kasvaneet osittain kyseenalaisella tavalla, nämä pika-
+vippi- ja muut hommat. Tällä hetkellä kotitalouksien koko velka on 147 miljardia, josta
+asunto- ja taloyhtiölainojen osuus on 77 prosenttia, eli se on erittäin paljon, ja tänne se raha
+on mennyt, ja se on kuumentanut ainakin tietyissä kasvukeskuksissa asuntomarkkinoita.
+
+Mutta yksi tämmöinen erikoisuus, mistä on syytä puhua täältä pöntöstä käsin, on talo-
+yhtiölainojen lisääntyminen, sillä ne ovat tällä vuosikymmenellä lisääntyneet noin 10 mil-
+jardia. Kun tänä päivänä ostaja, sijoittaja voi päästä käsiksi asuntoon 20 prosentin osuudel-
+la asunnon todellisesta hinnasta ja loppu on sitten taloyhtiölainaa eikä kukaan ei oikein
+kontrolloi, mitkä ovat ostajan todelliset mahdollisuudet talouden muuttuessa hoitaa tämä
+taloyhtiölaina, jolloin se kaatuu sitten muitten osakkaitten syliin ja taloyhtiön syliin, niin
+tähän liittyy semmoinen omituisuus, jota minun talousmatematiikkani ei oikein ymmärrä.
+Kun täällä on hoitovastike ja rahoitusvastike, niin missähän laissa on sellainen pykälä, että
+yhtäkkiä tämä velan lyhennys muuttuu vähennyskelpoiseksi eräksi vuokrasta? Näinhän
+käy silloin, kun taloyhtiö tulouttaa nämä rahoitusvastikkeet kirjanpitoonsa. Silloin sijoitta-
+ja, asunnon omistaja voi vähentää velan lyhennyksen eli rahoitusvastikkeen ja hoitovastik-
+keen vuokrasta. Silloinhan veronmaksajat käytännössä tukevat asunnon ostamista. Minä
+en tiedä, mitenkä hyvin se sopii tähän tilanteeseen, että tuetaan veroeuroilla semmoista
+asuntorakentamista ja -sijoittamista, joka aiheuttaa selvän ylikuumenemisriskin ja ylivel-
+kaantumisriskin. 
+
+Tällä tavalla haluan vielä Itä-Suomesta tulevana kansanedustajana kiinnittää huomiota
+ainakin siihen, onko se kuinka oikeudenmukaista, jos veronmaksaja jossakin tuolla Itä-
+Suomessa, missä oman omaisuuden arvo koko ajan laskee ja kiinteistöjen verotusarvot las-
+ketaan ihan muun kuin asunnon todellisen hinnan perusteella, menettää koko ajan omai-
+suuttaan, mutta silti joutuu veroeuroissa ikään kuin pakolla tukemaan sijoitustoimintaa
+siellä, missä asuntotuotanto on aika vilkasta ja sijoitustoiminta on vilkasta. Kyllä pitäisi
+jollakin tavalla puuttua tähän, onko tässä joku oikeudenmukaisuusongelma. Ainakin itse
+keksisin lääkkeeksi sen, mitä eduskunta voisi säätää, että kiinteistöveron verotusarvot on
+laskettu sillä tavalla, että ne ovat mahdollisimman lähellä kiinteistön todellista arvoa. Se on
+jo oikeudenmukaisuutta.
+
+Sitten tähän samaan problematiikkaan sisältyy asia — täällä eräänä iltana puhuin samas-
+ta asiasta — jonka toistan vielä: Kun tämän rahoitusvastikkeen saa sitten vähentää vuok-
+rasta, jos taloyhtiö tulouttaa sen kirjanpidossa, niin tämä on johtanut ensimmäisiin oikeus-
+murhatapahtumiin. Eli korkein hallinto-oikeus vuosikirjassaan totesi, että sellainen henki-
+lö, joka oli ostanut tällaisen asunnon, oli maksanut tämän asuntovelan pois mutta ei ollut
+vähentänyt rahoitusvastiketta euroakaan mistään vuokrasta, ei saanut laskea velanmaksua
+hyödyksi asunnon ostohintaa määriteltäessä vaan sai verottajalta verolapun, että hän jou-
+tuu luovutusvoittoverolle käytännössä sellaisesta luovutusvoitosta, mitä hänellä ei todelli-
+suudessa koskaan olisi ollut. Tämä on korkeimman hallinto-oikeuden vuosikirjapäätös. Eli
+12
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+tähän meidän kyllä pitäisi jollakin tavalla puuttua, kun ihmiset ovat kokeneet tämmöisen
+epäoikeudenmukaisuuden, että jatkossa tämmöistä käytäntöä ei olisi. Sitä minä en tiedä,
+mitä lakia pitäisi muuttaa, onko se kirjanpitolaki vai mikä, mutta jonkunlainen muutos la-
+kiin pitäisi tehdä. 
+
+15.56 Arto Satonen kok: Arvoisa puhemies! Täällä on käytetty erittäin hyviä puheenvuo-
+roja, äsken muun muassa Eestilä tästä kiinteistöverosta. Mutta palaan kuitenkin tähän Ita-
+lian problematiikkaan, jota täällä on myöskin käyty jo ansiokkaasti läpi. 
+
+Italia on ikään kuin ajautunut sellaiseen tilanteeseen, että vuosia ja vuosikymmeniä val-
+tionvelka on vain kasvanut, ja aina on totuttu siihen, että vaalit voitetaan sillä, että anne-
+taan lisää lupauksia. Renzin hallitus ansaitsee pisteet siitä, että se yritti tähän asiaan saada
+jonkinlaista järkeä. Seurauksena oli se, että vaalit voittivat ne, jotka lupasivat vielä kovem-
+pia lupauksia kuin kukaan oli aikaisemmin luvannut. Ja tämä on kyllä sellainen oppi, joka
+meidänkin on otettava vakavasti pitää maltti säilyä näissä vaalilupauksissa. Ja viime kädes-
+sähän tässä on nyt käynyt Italiassa niin, että kun siellä on koko ajan syöty lasten pöydästä,
+niin nyt siellä sitten monet kokevat jo nuorison tilanteen ikään kuin niin vaikeaksi, että mi-
+hin tahansa koukkuun, jonka joku heittää, ollaan valmiita tarttumaan, ja sitä kautta sitten
+riski on, että mennään vielä paljon syvemmälle. Aivan kuten edustaja Ala-Nissilä täällä sa-
+noi ja Viitanenkin siihen viittasi, tämä markkinan paine kyllä tässä asiassa toimii. Mutta
+kyllähän se Italian tilanne on erittäin haasteellinen: se, että se kansa ikään kuin oppisi hy-
+väksymään sen, että kilpailukyvyn parantaminen pitää tehdä rakenteita muuttamalla ja
+myöskin työmarkkinarakenteita ja taloudellisia rakenteita muuttamalla eikä sillä, että help-
+poheikkimäisesti luvataan matalaa tasaveroa ja kansalaispalkkaa, puhumattakaan nyt siitä,
+että vaaditaan muita maita olemaan mukana velkojen alentamisessa. Kyllähän nämä ihan
+mahdottomia puheita ovat.
+
+Arvoisa puhemies! Ehkä hiukan vielä tästä kotimaisestakin ongelmasta. Tämä velkaan-
+tumisen kasvu kotitalouksissa on kyllä todella paha asia, kun ajatellaan, että me olemme
+nyt kuitenkin sellaisessa taloustilanteessa, että talous kasvaa, työllisyys kasvaa, yli 90 000
+ihmistä enemmän on töissä kuin tämän vaalikauden alkaessa, pienyrittäjien tulot ovat kas-
+vaneet, aika monella alalla menee selvästi paremmin kuin mitä meni aikaisemmin ja siitä
+huolimatta kotitalouksien velka on ennätyslukemissa, joten kyllä tähän asiaan on pakko
+puuttua. Yksi keino on se, että tämä velan saaminen esimerkiksi kulutusluottojen osalta on
+ollut liian helppoa. Onneksi tämä asia on nyt jo käyty hallituksessa ja lisää vielä tehdään,
+mutta tämä on oikeasti kyllä yksi ongelma, joka meitä vastaan tulee hyvin pian, jos siihen
+ei ratkaisua löydetä.
+
+15.59 Kari Uotila vas: Arvoisa puhemies! Ettei jää väärää käsitystä siitä, että olisin joten-
+kin pahoillani, että EKP aloitti nämä massiiviset rahapoliittiset toimet ja sillä tavalla va-
+kautti tämän kriisin: en ole siitä eri mieltä, mutta olen sitä mieltä, että seurannaisvaikutuk-
+set pitää kuitenkin pystyä analysoimaan. Onko tällä ehkä joku yhteys, kun samaan aikaan
+valitellaan vaikka meidän kotitalouksiemme tai yritystemme korkeaa velkaantumisastet-
+ta? Samalla tavalla kuin me voimme palata historiaan siinä, niin me voimme kyllä muis-
+tella niitä aikoja, kun käytiin keskustelua siitä, pitääkö yrittää pelastaa Portugal ja pitääkö
+yrittää pelastaa Espanja, pitääkö yrittää pelastaa Kreikka. Näin jälkeenpäin ajatellen var-
+maan oli ihan hyvä, että yritettiin ja homma pysyi kasassa, mutta kyllä nekin seuraukset pi-
+tää pystyä analysoimaan.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+Tämä Italia: Täällä on viitattu tämän päivän Hesarin uutisointiin Italiasta, mutta sekä sii-
+hen Italia-uutisointiin että samassa lehdessä olevaan Unkari-uutisointiin liittyi yhteenliit-
+tymä. Minkä takia esimerkiksi italialaiset nuoret ovat niin katkeroituneita, vihaisia, eivät
+luota Euroopan unioniin? Yksi syy on se, että yhteisvastuuta ei löydy niissä asioissa, jotka
+italialaiset ovat kokeneet hyvin tärkeiksi, ja se on tämä maahanmuuttopolitiikka ja yhteis-
+vastuu siitä. Unkarissa Euroopan unionin jäsenmaa tekee lakeja, joissa aiotaan kriminali-
+soida turvapaikanhakijoiden, maahanmuuttajien auttaminen, kaikenlainen auttaminen, ja
+tulee yhä hurjempia lakiehdotuksia jopa perustuslakiin viitaten. Kyllä tämäkin on yhteis-
+vastuuta, että kun kannetaan yhteisvastuuta taloudesta, niin pitäisi kantaa yhteisvastuuta
+Euroopan unionissa ja euroalueella myöskin laajemmin. Muuten näitä paineita tulee, ja
+minä ainakin ymmärrän sen kritiikin, joka tältä osin italialaisen nuorison osalta tulee, kun
+he kokevat sen paineen, mikä Välimeren yli jatkuvasti heihin kohdistuu. 
+
+En tiedä sitten — nyt kun Italian tilanne on vaikea, niin nyt kun tämä EKP:n operaatio on
+jo tehty, on eräällä tavalla tietysti yhdet pelimerkit on käytetty, ne keinot, joita on käytet-
+tävissä, enkä tässä kaipaa nyt sitä, että suomalaisten veronmaksajien pitäisi mennä ryntää-
+mään pelastamaan italialaisia pankkeja. Kyllä Italian pitää itse pystyä poliittinen järjestel-
+mänsä ja hallituksensa ja päättäjänsä ja politiikkansa muuttamaan niin, että he vastaavat
+itse omista vastuistaan, mutta näitä eri ulottuvuuksia tähän liittyy. Ja kun täällä joku viitta-
+si vielä Kreikkaan — taisi olla edustaja Ala-Nissilä ja ehkä joku muukin — niin täytyy
+muistaa, että Kreikassa julkisen talouden ongelmaksi tämä tuli vasta sen jälkeen, kun tämä
+USA:sta lähtenyt kansainvälinen finanssikriisi johti siihen, että piti pelastaa Kreikkaa hol-
+tittomasti rahoittaneet saksalaiset ja ranskalaiset pankit. Julkinen sektori joutui vaikeuk-
+siin vasta viiveellä. Täytyy nyt sitten tästä eteenpäin kaikissa olosuhteissa näissä toimen-
+piteissä kiinnittää huomiota siihen, että keskitytään ihmisten auttamiseen ja pankkien pe-
+lastaminen jätetään vähemmälle.
+
+16.03 Timo Harakka sd: Arvoisa puhemies! Edustaja Satonen kiinnitti huomiota sinänsä
+aivan oikeaan huoleen eli siihen, että kotitalouksien velka on noussut korkeaksi. Mutta hän
+ei ehkä huomioinut sitä, että velkaantuminen ja taloudellinen suhdanne eivät kulje synkro-
+nissa, vaan velka on kumuloitunut nimenomaan näinä taantumavuosina, jolloin ainoa va-
+lopilkku Suomen taloudessa on ollut nimenomaan yksityinen kuluttaminen taantumassa,
+joka on ollut syvempi kuin missään muualla Euroopassa ja pidempi ja bkt:lla laskettuna va-
+kavampi kuin 90-luvun alun taantuma, jolloin normaalisti voitaneen olettaa, että jos tämä
+kasvu jatkuu jonkun aikaa, niin tämä velkakuorma vielä kotitalouksienkin osalta supistuu.
+Mutta meillähän ei ole mitään takeita siitä, että kasvu on kestävällä pohjalla. Uskon, että se
+on tämän talon kaikkien puolueiden tärkein päämäärä nyt seuraavallakin vaalikaudella,
+varmistua siitä, että kasvu ja työllisyys ovat kestävällä pohjalla.
+
+Mitä tulee sitten tähän Italian tilanteeseen, niin kyllähän se suuri tragedia on se, että se
+hidastaa Euroopan rahaliiton yhteisiä toimia, joilla voitaisiin esimerkiksi finanssikriisin ja
+velkakriisin kaltaisia ilmiöitä lievittää jatkossa. Nyt on selvää, että suhtautuminen tämmöi-
+seen minkäänlaiseen yhteistoimintaan on melko lailla kriittistä. On vain hirvittävän sääli
+sekin, että kun Italiassa oli uudistushenkinen keskusta-vasemmistolainen hallitus, joka
+esitti ihan sinänsä järkeviä vaihtoehtoisia linjauksia yhdessä tuolloin ministerin tehtävässä
+Ranskassa olleen Emmanuel Macronin kanssa vaihtoehdoksi Saksan johtamalle talousku-
+rimallille, niin se ei kelvannut, vaan Saksan malli jyrättiin läpi Suomenkin suosiollisella
+avustuksella. Silloin lopputulos oli se, että italialaisille ei jäänyt sitä mahdollisuutta, että
+14
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+tämmöisen järkevän reformin kautta asiat voisivat edetä, vaan mennään laidasta laitaan,
+joko niin, että EU nimittää jonkunlaisen kasvottoman teknokraatin, jota ei ole valittu vaa-
+leilla johtamaan tällaista protektoraattia, tai sitten niin, että toisessa laidassa tällaiset vas-
+tuuttomat populistit ottavat vallan. Ja ei voi kuin ihmetellä Italian presidentin ajatuksen-
+juoksua tässä: jos todellakin se syy, miksi populistit ovat saaneet katteettomille lupauksille
+niin paljon suosiota, on se, että on asetettu ulkoapäin kansainvälisten rahoituslaitosten hy-
+väksymä byrokraatti johtamaan demokraattisesti valittujen johtajien sijasta tätä valtiota, ja
+jos se on se kritiikin lähde, niin on outo johtopäätös, että juuri sellainen henkilö nimitetään
+pääministeriksi edes väliaikaisesti. [Puhemies koputtaa] Näyttää siltä, että Eurooppa ei opi
+virheistään.
+
+16.06 Ville Vähämäki ps: Puhemies! Ihan lyhyesti totean ja annan kiitokset pankkival-
+tuuston puheenjohtajalle, joka on taas vuoden meitä pankkivaltuutettuja siellä hyvin luot-
+sannut.
+
+Tässä keskustelussa on keskitytty aivan täysin niihin olennaisimpiin asioihin eli siis ko-
+titalouksien velkaantumiseen ja siihen, miten se oikein voidaan ottaa haltuun. Tässä edus-
+taja Eestilä oikein hyvän pohdinnan teki, ja näitä täytyy kyllä huolella miettiä, voitaisiinko
+todellakin sinne taloyhtiölainapuolelle miettiä jotakin toimenpiteitä, jotka mahdollisesti
+sitten estäisivät sitä taloyhtiölainan tulouttamista, tai ainakin joitakin lievennyksiä sinne
+puolelle.
+
+Mitä taas tulee EKP:n osto-ohjelmien alasajoon ja siihen, ovatko ne EKP:n toimenpiteet
+olleet oikeita, mitä siellä on tehty, tällä hetkellä kai voi ihan hyvin todeta, että ne ovat ol-
+leet oikeita ja oikeansuuntaisia, mutta ovatko ne olleet sitten ylimitoitettuja, onko tässä jou-
+duttu kuitenkin sellaiseen tilanteeseen, että itse asiassa se osto-ohjelman alasajo on sitten
+vaikeata? Kaiken lisäksi sillä ei ihan olla sitä saatu aikaan, mitä oikeasti lähdettiin tavoit-
+telemaan, eli sitä pankkien ja valtioitten välisen kohtalonyhteyden katkaisua. 
+
+Mitä taas tulee Italiaan, kyllähän se Italian tilanne näyttää meille hyvin sen, että niitten
+ylimitoitettujen ja katteettomien vaalilupausten tekeminen on hyvin vahingollista. Sitä ei
+pidä mennä tekemään täällä.
+
+Sitten nostan esille tästä vielä tämän hyvän teema 6:n , joka on digitalisaatio pankkitoi-
+minnassa. Täällä on sivuttu sitä kaikkea digitalisaatiota, mitä tapahtuu fintech-puolella:
+maksamisen muutoksia sekä bitcoineja ja muita lohkoketjuvaluuttoja, lohkoketjuteknolo-
+giaan pohjautuvia maksamisen välineitä. 
+
+Tässä on hyvin mielenkiintoinen ilmiö sinänsä, koska itse asiassa nämä lohkoketjuva-
+luutat ovat yksi älykkään talouden osakomponentti, jonka avulla voidaan tehdä älysopi-
+muksia, ja emme me voi oikeastaan estää enää niitten syntymistä. Kuten emme me voi es-
+tää myöskään vaikkapa osakkeita, emme me voi myöskään estää lohkoketjuvaluuttoja tu-
+levaisuudessa. Itse asiassa nämä lohkoketjut luovat meille uuden web 3.0:n. Se maailma,
+missä me olemme nyt, on web 2.0:aa, ja me hyppäämme siitä täysin uuteen maailmaan,
+missä kaikki se hyvä, mitä meille netti tuo, jaetaan uudestaan vähän toisella lailla.
+
+16.09 Kaj Turunen kok: Arvoisa puhemies! Kuuntelin tuolla työhuoneessa tätä keskus-
+telua ja päätin, että täytyy tulla tänne muutama sananen sanomaan, kun puhuttiin Italiasta. 
+
+Kyllähän Euroopan keskuspankille ja euromaillekin on äärimmäisen tärkeää se, että
+pankkiunionin kolmas vaihe saadaan toteutettua, ja tähän kolmanteen vaiheeseen kuuluu
+olennaisena osana tietysti talletussuojarahasto. Tästä sopiminen ei ole edennyt ihan perus-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+tellusta syystä: sen vuoksi, että eurooppalainen pankkijärjestelmä on erilaisessa tilassa eri
+euromaissa. On selvää, että Italiassa pankkijärjestelmässä on järjestelemättömiä luottoja
+erittäin paljon, toisin kuin esimerkiksi — kun nyt puhutaan Suomesta — Suomessa, jossa
+on aika hyvässä kunnossa oleva pankkijärjestelmä.
+
+No, tässä tullaan tietysti siihen, mikä hiukan huolestuttaa tässä, että kun täällä aikaisem-
+min keskustelussa sanottiin Italiasta, että italialaisten on syytä itse hoitaa tämä oma pank-
+kijärjestelmänsä kuntoon, niin tokihan se näin on, mutta se ei käy käden käänteessä italia-
+laisilta, eikä ilmeisesti ole hirveästi siihen motivaatiota tai halukkuuttakaan, ja niinpä sit-
+ten komissio on ruvennut tässä toimimaan. Tämä on nyt oikeastaan se huolenaihe, että näi-
+tä järjestelemättömiä luottoja aiotaan sitten hoitaa arvopaperimarkkinoilla. Tässä on pel-
+kona tietysti se, että nämä järjestelemättömät luotot arvopaperimarkkinoitten kautta tule-
+vat sitten reaalitalouden maksettavaksi, ja tämä on ehkä se huoli, koska tähän liittyvät
+sitten kiinteiden vakuuksien realisointimuutokset, lainsäädäntömuutokset, jotka direktii-
+vin muodossa sitten komissiolta tulevat. 
+
+Tällä hetkellä neuvotellaan siitä, minkä muodon se saa, mutta huolestuttavaa tietysti on
+se, jos tuomioistuinkäsittely realisoinneissa ohitetaan järin kokonaan. Tietysti sitten, jos ei
+tämmöistä kansallista liikkumavaraa tähän anneta — Suomessa tältä osin on hyvä järjes-
+telmä olemassa — jos komissio vaatii tämmöisen harmonisoidun järjestelmän, joka on
+pakko ottaa käyttöön kaikissa euromaissa, niin se toki nopeuttaa tämän [Puhemies koput-
+taa] pankkijärjestelmän kuntoon laittoa Italiassa, mutta toisaalta se itse asiassa... [Puhe-
+mies koputtaa] — Voinko siirtyä pönttöön sitten?
+
+Varapuhemies Mauri Pekkarinen:  Edustaja Turunen voi siirtyä pönttöön. [Puhuja siir-
+tyy puhujakorokkeelle]
+
+Arvoisa puhemies! Tämä harmonisoitu järjestelmä toki sopii muun muassa Italialle ja
+muutamalle muullekin Etelä-Euroopan maalle, joissa esimerkiksi näitten kiinteistöjen, jot-
+ka ovat lainojen vakuutena tai pantteina, oikeuskäsittelyt voivat kestää jo vuosia. Näin ol-
+len tämä realisointi ja näitten asioitten kuntoon laittaminen eli pankkien taseen putsaami-
+nen kestää liian kauan. Tämän vuoksi sitten komissio tekee tällaista direktiiviehdotusta,
+joka on harmonisoitu, mutta toisaalta, niin kuin ollaan monessa muussakin asiassa nähty,
+tämä harmonisointi, joka istuu Etelä-Eurooppaan, ei välttämättä oikein istu Suomeen.
+Meillä ovat Suomessa tältä osin säännöt ja lainsäädäntö oikein hyvällä mallilla, ja tämä
+voisi tehdä heikennyksiä, ja itse asiassa siinä muodossa, mistä nyt keskustellaan — se ei
+tietenkään ole lopullista muotoa vielä saanut — Suomi on kuitenkin jo ottanut kantaa ja
+kertonut, mitkä nämä ongelmakohdat ovat. Mutta jos näistä ei pystytä sopimaan tai se ei
+muutu, niin tämä tuo Suomeen kyllä sellaisia ongelmia, jos tuomioistuinmenettely ohite-
+taan, että käytännössä se tarkoittaa sitä, että velkoja voi velallisen kiinteän omaisuuden rea-
+lisoida ilman tuomioistuimen päätöstä, jos velka on 90 päivää eli 3 kuukautta myöhässä. Ja
+tämä ei koske tietysti asuinrakennuksia eikä kuluttaja-asiakkaita vaan yritysasiakkaita
+mutta ei yrittäjien asuntoja, todennäköisesti, mutta kaikkia muita kiinteistöjä tai reaaliva-
+kuutta tämä tulee koskemaan. Tämä on selkeä heikennys ja minun mielestäni jo oikeustur-
+vakysymyskin yrittäjien kiinteälle omaisuudelle, jos tämä tulee. Toisaalta tämä on muitten
+direktiivien kanssa ristiriidassa, ja ongelma on tässä esityksessä myöskin se, että jos yritys
+on velkajärjestelyssä tai maksukyvyttömyysmenettelyssä, niin nämäkään eivät vaikuta sii-
+hen, etteikö velkoja voisi realisoida yrityksen kiinteätä omaisuutta. 
+16
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+Niin kuin sanoin, tässä nyt on ongelma lähinnä se harmonisointi, joka on laajamittaisesti
+ottaen minun mielestäni vähän niin kuin EU:n ongelma, että kun harmonisoinnilla ratkais-
+taan jotain tiettyä ongelmaa, niin se aiheuttaa taas toisella puolella toisen tyyppisiä ongel-
+mia. Mutta niin kuin sanottu, toivossa on hyvä elää. Tästä vielä neuvotellaan ja keskustel-
+laan ja toivottavasti päästään hyvään ratkaisuun tässä.
+
+16.16 Markku Eestilä kok: Arvoisa puhemies! Kun edustaja Vähämäki pohti täällä hy-
+vässä puheenvuorossaan, onko tämä EKP:n omaisuuserien arvopapereitten osto-ohjelma
+ollut ylimitoitettu, niin ainakin jos sitä vertaa tavoitteeseen — EKP:n tavoite on ollut, että
+on vähän alle 2 prosentin inflaatio — niin jos ei negatiivisilla koroilla eikä setelirahoituk-
+sella päästä inflaatioon, niin kyllähän sitä joutuu silloin kysymään, että mahtaakohan se
+olla ainakaan ylimitoitettu. Ainakin tämän perusteella voisi ajatella, että se on jopa alimi-
+toitettu. Ja mikä tässä on huomioitava, on, että kun kaikki tämä finanssipolitiikka ja rahan
+liikkeet ja korot ja tämä, mitä sitten seurataan haukan silmin ja mistä katsotaan johtavien
+poliitikkojen lausuntoja, on psykologiaa ja luottamusta, niin tuskin nämä puheenvuorot
+tässä salissa kovin paljon korkopolitiikkaa heiluttavat. [Pia Viitanen: Ei sitä tiedä!] EKP:n
+neuvosto on nyt jo todennut, että kun tämän 30 miljardin osto-ohjelman pitäisi loppua
+syyskuussa, niin he ovat valmiita pidentämään ja laajentamaan sitä, eli on annettu jo sig-
+naali, että jos tämä ei riitä siihen, että talous ja inflaatio saadaan käyntiin, niin pannaan vie-
+lä lisää seteleitä liikkeelle. Vastuuthan siitä vain lisääntyvät itse kullekin, niin kuin Suo-
+melle, mutta se on sitten toinen juttu, että kun on vähän pakko pitää talouden pyöriä pyö-
+rimässä ja jos sitä inflaatiota ei saada aikaan, niin se taas aiheuttaa omat ongelmansa ja se
+vie sitten rahan liikkeet muualle.
+
+Mutta mitä tässä pitäisi meidän huomioida, on se, että kun tämän osto-ohjelman tarkoi-
+tus lienee — jos minä olen oikein käsittänyt — että sillä investointeja kiihdytetään ja ni-
+menomaan niin, että se raha menee tuotannollisiin investointeihin ja elinkeinoelämän tar-
+peisiin, niin nyt se on Suomessa varsinkin valunut tuonne kiinteistömarkkinoille. Minun
+mielestäni se ei ole ollut kovin järkevää, sillä meillä ovat nyt 2 miljardia asumistuet, ja ne
+omalla tavallaan kiihdyttävät asumista jonnekin. Sitten meillä 300 miljoonaa tulee toi-
+meentulotuen kautta käytännössä vuokriin. Silloin ollaan 2,3 miljardissa. Meillä oli pari
+viikkoa sitten täällä hallituksen esitys korkotuesta, että asumisoikeus- ja vuokra-asuntojen
+tukemista kiihdytetään, ja nyt on vielä tämmöinen, että rahoitusvastikkeen voi vähentää
+tietyillä elementeillä vuokrasta. Tässä on niin monta elementtiä, hanat ovat kaikki kaakos-
+sa, että se raha varmasti menee näihin kiinteistöihin. Sen takia käytetään nyt täällä salissa
+puheenvuoroja, jos joskus joku Finanssivalvonnan ihminen sattuisi vaikka lukemaan näitä
+tai kuuntelemaan. 
+
+Jotakinhan tälle pitää tehdä, eihän se voi loputtomiin jatkua, sillä kyllä joku päivä saat-
+taa vielä semmoinenkin hetki tulla, että korot nousevat syystä tai toisesta. Minä vain luu-
+len, että aika moni ihminen joutuu silloin todella ongelmiin, koska samalla yleensä lähtee
+sitten talouden aktiviteetti heikkenemään ja työttömyys lisääntymään, ja moni joutuu sit-
+ten oikeisiin ongelmiin, varsinkin kun se taloyhtiön velka on erittäin suuri. Tämä on kyllä
+semmoinen asia, mistä pitäisi tässäkin salissa enemmän jutella silloin, kun täällä on paljon
+edustajia paikalla.
+
+16.19 Pia Viitanen sd: Arvoisa puhemies! On muuten ihan totta, että nämä ovat niin mie-
+lenkiintoisia, päivänpolttavia kysymyksiä, että soisi tietenkin, että voisi olla runsaslukui-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+semminkin väkeä paikalla. Mutta kyllä minä muuten uskon, että näitä keskusteluja seura-
+taan Finanssivalvonnassa ja Suomen Pankin päässä varmasti tarkkaan — sitä, mitä edus-
+kunta linjaa, minkälaista palautetta tulee valiokuntien mietintöihin, ja myöskin sitä, min-
+kälaista keskustelua täällä salissa käydään. Mielestäni se on tärkeää, tämä on tärkeä kes-
+kustelufoorumi, ja siksi on arvostettava, hyvä asia, että edustajat näihin asioihin kantaa
+täällä salissa ottavat.
+
+Mitä tulee EKP:n politiikkaan, kyllä myös minä näen niin, että juuri se, että EKP:ssä teh-
+tiin nämä linjaukset tästä keveästä rahapolitiikasta ja talouden elvyttämisestä, osaltaan kyl-
+lä, ja hyvinkin isolta osaltaan, selittää myös sitä, puhemies, että tänään Suomen talous on
+ollut myötätuulissa ja me olemme saaneet talouskasvua käyntiin. Se on ihan olennainen
+osa tässä yhtälössä, ja siksi sitä täytyy mielestäni tarkastella Suomen näkövinkkelistä juuri
+tältä kannalta.
+
+Puhemies! Myös se on tietenkin tärkeää, että kaiken kaikkiaan erilaisia vastuita, mitä
+syntyy Euroopan unionin kautta — oli se sitten keskuspankin politiikka tai sitten nämä ra-
+hoitusohjelmat tai mitä vain — eduskunta pystyy seuraamaan, pystyy seuraamaan riskejä,
+vastuuta kaikkiaan. Esimerkiksi Suomen Pankin pankkivaltuuston kertomuksessa on pe-
+rinteisesti nämä riskit aika hyvin käyty läpi, mitä on. Esimerkiksi sivulla 29 on mielestäni
+aika tärkeä ja kuvaava taulukko siitä, miten sitten voisimme vastata tähän, jos kävisi se
+kaikkein epätodennäköisin ja ikävin asia, että tämä riski alkaisi jollakin tavalla realisoitua.
+Tässä on analyysi siitä, että tämä olisi kuitenkin hallittavissa ja kestettävissä. Ja aivan ku-
+ten puheenjohtaja Vanhanen omassa esittelypuheenvuorossaan kävi läpi, toki pankkival-
+tuusto tätä asiaa seuraa.
+
+16.21 Kaj Turunen kok: Arvoisa puhemies! Varmaan Finanssivalvonnassa ja Suomen
+Pankissakin seurataan, mitä tässä salissa keskustellaan, mutta kyllä nämä aiheet, mistä nyt
+keskustellaan, esimerkiksi taloyhtiön velkojen kasvu ja yksityisten kansalaisten velkaantu-
+misen lisääntyminen, ainakin minun tietojeni mukaan ovat tulleet nimenomaan varoituk-
+sena Suomen Pankista ja Finanssivalvonnasta, ja mekin olemme innostuneet sitten näistä
+keskustelemaan. [Pia Viitasen välihuuto] — Edustaja Viitaselle sanoisin, että kyllä nämä
+EKP:n toimet ilman muuta ovat vaikuttaneet Euroopan taloudelliseen kehitykseen ja Eu-
+roopan mahdollisuuksiin pysyä maailmanlaajuisessa taloudessa mukana ja taisteluna la-
+maa vastaan. 
+
+Mutta mitä Suomeen tulee, sen verran ottaisin vähän tarkemman näkökulman tähän, että
+Euroopan talous oli pitkän aikaa kasvussa jo ennen kuin Suomi pääsi mukaan talouskas-
+vuun. Miten sitten Suomi jäi yleensä ulkopuolelle? Se johtui siitä, että meillä ei ollut riit-
+tävästi kansainvälistä kilpailukykyä. Se, että maailmantalous vetää, on siellä taustalla, ja se
+on hyvä asia, mutta se, että pääsee mukaan talouskasvuun, edellyttää sitä, että Suomella on
+kansainvälistä kilpailukykyä päästä kansainvälisille markkinoille, ja tässä pitää nostaa hat-
+tua hallitukselle. Hallitus on tehnyt sellaisia toimia yhdessä työmarkkinajärjestöjen kans-
+sa, muun muassa kiky-sopimuksen, joka on tärkeä osa tätä kilpailukyvyn parantumista,
+että Suomi pääsi kuitenkin viiveellä — kiitos näille hallituksen päätöksille — mukaan tä-
+hän talouskehitykseen.
+
+Se täytyy myöntää, että Suomen talous ei olisi noussut, mikäli ei olisi ollut sitä kansain-
+välistä talouden kehitystä, joka auttaa Suomen vientiteollisuutta. Mutta jos ei mitään Suo-
+messa paikallisesti olisi tehty, niin ei Suomi olisi tässä talouden kehityksessä mukana.
+18
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+16.23 Pia Viitanen sd: Arvoisa puhemies! Tämä pikkuisen näyttää siltä, että olisi merk-
+kejä ilmassa, että palaamme tähän kotimaiseen talouspoliittiseen keskusteluun. Siihen näh-
+den haluan kyllä osaltani todeta, että mielestäni kuitenkin on syytä hieman myös katsoa
+peiliin hallituksen siinä suhteessa, että muistan muutaman talousoppineen todenneen, että
+Suomen talous on lähtenyt kasvuun lähinnä tuurilla, millä viitataan juuri siihen, että maa-
+ilmantalouden tuulet ovat olleet myönteiset ja EKP on tehnyt tällaista kevyttä rahapolitiik-
+kaa. Mutta kuten sanottu, me olemme kaikki iloisia siitä, että talous kasvaa, ja on turha
+ehkä minuutteja kuluttaa siihen, että kinaamme siitä, kenen hyöty se on.
+
+Mehän olemme täällä Suomessa sitten sosiaalidemokraatteina nostaneet sen huolen
+esiin, että nyt kun on hyvä, että talous kasvaa, ja se on oikein, niin sen vuoksi on entistä tär-
+keämpää myös talouspoliittisessa merkityksessä kysyä, kuuluuko kasvu kaikille, ja kiinnit-
+tää huomiota siihen, kuinka paljon myös taloudellisesti teemme hallaa, mikäli me annam-
+me eriarvoisuuskehityksen jatkua. Siinä suhteessa olisi hyvä ja tärkeää nähdä, että jos ih-
+misten ostovoimaa koko ajan leikataan, pienituloisia kuritetaan, tehdään erittäin rajuja
+koulutusleikkauksia, joista kaikki talousoppineet varoittavat, niin sitten me ajamme itsem-
+me kyllä ojasta allikkoon. Siksi olisi nyt tärkeää, että hallituskin tekisi niitä omia poliittisia
+arvovalintojaan hieman toisenlaiselta pohjalta paitsi oikeudenmukaisuusmielessä myös ta-
+louden kasvun mielessä. 
+
+Mutta, puhemies, mielestäni on tärkeää ja hyvä, että ollaan käyty tätä keskustelua täällä
+tänään, ja keskustelu varmaan jatkuu.
+
+16.25 Ville Vähämäki ps: Puhemies! Loppujen lopuksi kysymys on taseista. Kysymys on
+siitä, kuinka hyvin yhteiskunta kestää sokkeja. Nyt kun on saatu valtion tase ja velkaantu-
+minen jollain lailla hallintaan ja velkasuhde kohta taittuu, on saatu myöskin yhtiöitten ja
+henkilöyhtiöitten tasetta oikeaan suuntaan. Myöskin kuntatalous on kääntynyt hyvään
+suuntaan. Mutta sitten kun nähdään se, että yksityisten kotitalouksien tase muuttuu elikkä
+velkaantuneisuus kasvaa huomattavasti, voidaan tehdä se toteamus, että tämä talouskasvu
+on hyvinkin paljon sillä yksityisellä velkaantumisella aiheutettua. Tämä on se pohdinta
+siis, mitä pankkivaltuuston jäsenetkin ovat tehneet aika laajasti. Täytyy kotitalouksia huo-
+mauttaa asiasta, että ei voida toimia siten, jos halutaan yhteiskuntaan enemmän sokinsie-
+tokykyä. Jos meillä on taseet kunnossa, niin eihän meitä kauheasti mikään ulkopuolinen
+sokki uhkaa.
+
+16.26 Kaj Turunen kok: Arvoisa puhemies! Edustaja Viitaselle voisin todeta, että itse
+olen sitä mieltä, että taloudessa ei tuurilla tapahdu mitään. Tuurilla taloudessa tapahtuu, jos
+sattuu saamaan veikkausvoiton tai tämäntyyppisen asian, mutta jos puhutaan valtakunnan
+tasolla, eurooppalaisella tasolla, globaalilla tasolla, niin ei tuurilla tapahdu. Kyllä taloudes-
+sa on paljon lainalaisuuksia, jotka vaikuttavat toisiinsa. Pelkkä onni tai tuuri ei näitä talous-
+asioita ohjaa.
+
+Tästä kotimaisesta taloudesta sen verran, että meillähän oli sellainen tilanne ennen kuin
+vienti lähti vetämään — muistan, että tässäkin salissa moni puhe aloitettiin sillä, että todet-
+tiin, että menee huonosti ja vienti ei vedä — että meillä kuitenkin kotimarkkinat pelasivat
+ja meillä oli kotimaista kysyntää olemassa. Mutta Suomen kansantalous on rakentunut sil-
+lä tavalla, että pitkällä aikavälillä tai edes keskipitkällä aikavälillä kotimainen kysyntä ei
+riitä pitämään talouttamme yllä, vaan me olemme kyllä vientivetoinen kansantalous, ja
+tämä on tarkoittanut sitä, että on äärimmäisen tärkeätä laman aikana saada katkaistua se
+19
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+lama silleen, että saadaan taas vienti vetämään. Tämän saavuttamiseksi tarvitaan se kan-
+sainvälinen kilpailukyky, jota Suomessa ei ole ollut. Siellä voidaan hymähdellä, mutta jos
+meillä on tilanne sellainen, että vaikkakin maailmalla on kysyntää, niin meidän kilpailija-
+maat ovat kilpailukykyisempiä kuin me, niin se on vaan niin, että silloin ei vienti vedä. 
+
+Tämä kansainvälinen kilpailukyky: on äärimmäisen tärkeätä, että Suomi pystyy kilpai-
+lemaan teknologian laadulla mutta myöskin hinnalla. Emme me ole niin ainutlaatuinen
+kansakunta, Suomi, että meillä olisi jotain sellaista tarjota kansainvälisille markkinoille,
+mitä ei kukaan muu pysty tekemään. Tämä on semmoinen asia, että se, että Suomi pääsi tä-
+hän mukaan, edellytti kyllä sitä, että on imua, mutta se edellytti myöskin sitä, että me saam-
+me kansainvälisen kilpailukyvyn sille tasolle, että kauppaa syntyy. Tämän vuoksi nämä
+kotimaiset ratkaisut ovat olleet äärimmäisen tärkeitä, mutta kaiken pohjana on kuitenkin
+ollut se, että on kansainvälistä kysyntää, [Puhemies koputtaa] ja siihen, että sitä on ollut
+esimerkiksi Euroopan tasolla, on EKP omilla toimillaan positiivisesti vaikuttanut.
+
+16.30 Pia Viitanen sd: Arvoisa herra puhemies! Mikäli nyt edustaja Turunen ei minua us-
+ko, niin tietenkin suosittelisin hänelle erinomaista artikkelia Suomen Kuvalehdessä nume-
+ro 16/2018, ”Kasvun aiheuttajaa etsimässä”: ”Johtopäätös väkisinkin on, että talous kään-
+tyy kasvuun tuurilla.” Tämä on näkökulmakirjoitus Roope Uusitalolta. Tietääkseni hänel-
+lä on joitakin talouspoliittisia avuja, ja 20.4. hän on tämän kirjoittanut. Luin tämän artik-
+kelin silloin kun se ilmestyi, ja mielestäni se oli ihan hyvä ja analyyttinen, ja siinä mielessä
+siihen kannattaa tutustua.
+
+Mutta mitä tulee sitten näihin kotimaisiin toimiin, puhemies, niin kyllä minä nyt ihan to-
+sissani näen, että... Miettikäähän, kuinka paljon nyt tämä kilpailukykysopimus, minkä hal-
+litus runnoi tässä mallissaan läpi pakkolakiuhilla ja muilla, on itse asiassa tätä talouskään-
+nettä ollut tekemässä — sitäpä on vaikea sanoa. Nimittäin kyllähän esimerkiksi siellä val-
+tiovarainvaliokunnassa hyvin useat asiantuntijat, joita olemme tässä parin vuoden aikana
+kuulleet, ovat ilmoittaneet lähinnä samaa varmuutta kuin soten suhteen sen eteen, ettei pys-
+tytä kovinkaan tarkkaan sanomaan, että niin hirveän massiivisia vaikutuksia tällä itse so-
+pimuksella olisi. Se on tietenkin hyvä, että sovitaan ja sopimalla joku tulos syntyy, mutta
+kyllä esimerkiksi nyt tässä tilanteessa me olemme peräänkuuluttaneet sitä, että kun kerran
+sitä kasvua saatiin aikaan — mikä on hyvä asia — silloin sen täytyy kuulua kaikille ja että
+silloin kun on hyvä tilanne, ei ole mitään järkeä siinä, että jatketaan esimerkiksi julkisen
+sektorin lomarahojen leikkauksia ahkerien työntekijöiden suhteen. Luin juuri artikkelin,
+missä perheet kertoivat, kuinka paljosta vaikka lapsiperheet joutuvat sitten luopumaan sen
+seurauksena, että lomarahat leikataan, ja en minä tiedä, kuinka... Se ei ole kovinkaan mu-
+kavaa näiden perheiden kannalta. Se on väärin, ja sen lisäksi myös talouspoliittisesti mie-
+lestäni voisi olla järkevämpää, että perheellä olisi mahdollisuus kuluttaa näitä lomarahoja
+esimerkiksi yhteiseen ajankäyttöön ja muuhun. Eli myös sillä pistetään tähän talouteen,
+jonka näkökulmasta tänään puhumme, kaiken kaikkiaan vetoa. 
+
+Puhemies! Haluan sanoa myös sen, että näinä aikoina, kun kysymme, kuuluuko kasvu
+kaikille, niin en minä nyt usko, että se, että työttömiä kuritetaan näillä oikeudentajua vas-
+taan sotivilla aktiivimalleilla, yhtään mitään talouskasvua edistää. Ei se edistä sitä, että ih-
+minen työllistyy. Pitäisi näitä asioita tässä kotimaan politiikassa, edustaja Turunen, miettiä
+hyvinkin paljon laajemmalla skaalalla ja syvällisemmin eikä vain iskeä aina leikkuriveistä
+sinne, missä ihminen heikoimmillaan on. Ja samaan aikaan tietenkin talouspolitiikassa
+ovat herättäneet kysymyksiä ne arvovalinnat, että ollaan tehty varsin anteliaita veronke-
+20
+
+
+
+Pöytäkirjan asiakohta PTK 58/2018 vp
+vennyksiä miljoonaperintöihin ja kaikkeen tähän, mikä hyväosaisimmille menee. Siksi
+tämä kysymys eriarvoistumiskehityksen pysäyttämisestä on aivan olennainen, puhemies.
+
+16.33 Kari Uotila vas: Arvoisa puhemies! On ihan pakko todeta se, että Suomen talous on
+investointitavarapainotteinen ja tämä johtaa siihen, että Suomi yleensä pikkasen viiveellä
+putoaa lamaan mutta se myöskin lamoista ja taantumista, jotka ovat kansainvälisestä kau-
+pasta ja vientikysynnästä kiinni, myöskin viiveellä nousee tämän investointitavarapainot-
+teisen tuotantonsa takia. Siitä voi johtua osittain se, että vähän niin kuin viiveellä pääsim-
+me kiinni tähän taloudelliseen kasvuun meidän vientialueellamme. 
+
+Jos joku ihan oikeasti väittää, että meidän kansainvälinen kilpailukykymme korjaantui
+sillä, että väkipakolla laitettiin duunarit tekemään 6 minuuttia pitempää päivää tai sairaan-
+hoitajilta, lähihoitajilta ja muilta vietiin lomarahat, niin minä olen eri mieltä. [Pia Viitanen:
+Samat sanat!] Päinvastoin minä olen erittäin huolissani siitä, että meidän kansainvälinen
+kilpailukykymme ja myöskin vientiteollisuutemme kilpailukyky pitemmällä aikavälillä on
+vakavasti vaarantunut koulutukseen, tutkimukseen ja tuotekehitykseen liittyvien leikkaus-
+ten vuoksi.
+
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan.
+21
+
+
+	5
+	15.03
+	15.14
+	15.23
+	15.24
+	15.25
+	15.26
+	15.28
+	15.29
+	15.30
+	15.31
+	15.37
+	15.44
+	15.50
+	15.56
+	15.59
+	16.03
+	16.06
+	16.09
+	16.16
+	16.19
+	16.21
+	16.23
+	16.25
+	16.26
+	16.30
+	16.33
+
+

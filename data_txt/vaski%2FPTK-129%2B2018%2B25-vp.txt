@@ -1,0 +1,126 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEME563.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 129/2018 vp
+
+Täysistunto
+
+Keskiviikko 12.12.2018 klo 14.02—21.40
+
+25. Hallituksen esitys eduskunnalle laeiksi sähköisen viestinnän palveluista annetun lain ja 
+julkisen hallinnon turvallisuusverkkotoiminnasta annetun lain muuttamisesta
+
+Hallituksen esitys HE 226/2018 vp
+Valiokunnan mietintö LiVM 34/2018 vp
+
+Ensimmäinen käsittely
+
+Puhemies Paula Risikko: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 25. asia.
+Käsittelyn pohjana on liikenne- ja viestintävaliokunnan mietintö LiVM 34/2018 vp. Nyt
+päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+20.22 Ari Jalonen sin (esittelypuheenvuoro): Arvoisa puhemies! Tässäkin on hyvin yksi-
+mielinen asia kyseessä. Nimenomaan tämmöisen viranomaisverkon laadusta ja toimivuu-
+desta ja sen parantamisesta on kyse, eli myös nykyaikaiset viranomaistehtävät voivat vaa-
+tia toimenpiteitä, joissa tarvitaan laajakaistainen viranomaisviestintäpalvelu esimerkiksi
+elävän kuvan lähettämiseen. Tässä siis parannetaan viranomaisten toimintamahdollisuuk-
+sia.
+
+Valiokunta on ollut huolissaan siitä — ja myös itse henkilökohtaisesti paloesimiehenä
+korostin sitä — että tällä ei voi olla katvealueita, eli sen verkon, missä tämä toimii, on kuu-
+luttava niin kaupungeissa, missä on paljon ihmisiä ja paljon laajakaistatoimintaa, kuin
+myös haja-asutusalueilla, missä ei sitten välttämättä linkkejä niin kauheasti ole, ja myös
+erinäköisissä rakennuksissa, elikkä myös sisätilakuuluvuuteen on kiinnitetty huomiota.
+
+Tietenkin, kun on kyse viranomaistehtävien hoitamisesta, sen pitää toimia myös niissä
+tilanteissa, kun on joku iso massatapahtuma ja verkossa on ruuhkaa. Tämän viranomaiska-
+navan tulee päästä toimimaan siinäkin tilanteessa, ja sille on asetettu tavallaan etuajo-oi-
+keus, millä se pystyy toimimaan myös siinä tilanteessa, että verkossa ei normaalisti olisi ti-
+laa vaikkapa nettivideoitten katseluun.
+
+20.24 Jani Mäkelä ps: Arvoisa puhemies! Tässä valiokunnan mietinnössä on aika hyvin
+mielestäni huomioitu tähän asiaan liittyviä ongelmakohtia ja huomionarvoisia asioita.
+Nostan pari näitä esille itse:
+
+Kyllähän dataverkoista puhuttaessa mobiilidatassa on katveita taajama-alueillakin. En
+tiedä, onko välttämättä ihan puheen kulkemisen tasolla katveita taajama-alueilla, eli sinän-
+sä viranomaisverkko varmaankin niilläkin alueilla toimii, ei ehkä datan osalta mutta pu-
+heen osalta.
+
+Tässä on mielestäni syytä huomioida se, että sekä kyberturvallisuuden että fyysisen tur-
+vallisuuden kannalta nyt mennään siihen, että nämä tukiasemat, joissa tämäkin verkko tu-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+lisi toimimaan, ovat julkista tietoa, ja niiden toimivuus myöskin kriisitilanteissa pitäisi pys-
+tyä turvaamaan. 
+
+Näistä priorisoiduista, etusijalle asetettavista liittymistä tuli mieleeni sellainen asia, että
+kun operaattorit ovat aiemmin väittäneet, ettei sellaisia olisi, niin nyt niitä kuitenkin sitten
+löytyy tällaiseen viranomaiskäyttöön. Ihan hyvä, että löytyi, mutta täytyy korostaa sitä, että
+näitä liittymiä tulee priorisoinnin kautta käyttää ainoastaan viranomaistehtäviin ja virantoi-
+mitukseen eikä mihinkään muuhun. Sekin on valiokunnan mietinnössä kyllä huomioitu.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 226/2018 vp sisältyvien 1.—2. lakiehdo-
+tuksen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+2
+
+

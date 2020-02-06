@@ -1,0 +1,1786 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMEB85.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 127/2016 vp
+
+Täysistunto
+
+Torstai 8.12.2016 klo 15.59—0.33
+
+7. Hallituksen esitys eduskunnalle hankintamenettelyä koskevaksi lainsäädännöksi
+Hallituksen esitys HE 108/2016 vp
+Valiokunnan mietintö TaVM 31/2016 vp
+
+Ensimmäinen käsittely
+
+Puhemies Maria Lohela: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 7. asia.
+Käsittelyn pohjana on talousvaliokunnan mietintö TaVM 31/2016 vp. Nyt päätetään la-
+kiehdotusten sisällöstä.
+
+Keskustelu
+
+19.58 Kaj Turunen ps (esittelypuheenvuoro): Arvoisa puhemies! Tässä on kysymykses-
+sä hallituksen esitys eduskunnalle hankintamenettelyä koskevaksi lainsäädännöksi. Esi-
+tyksessä ehdotetaan säädettäväksi uusi laki julkisista hankinnoista ja käyttöoikeussopi-
+muksista, joka korvaisi vuodelta 2007 olevan julkisista hankinnoista annetun lain ja vuo-
+delta 2011 olevan sähköisestä huutokaupasta ja dynaamisesta hankintajärjestelmästä anne-
+tun lain. Esitetyssä laissa säädettäisiin edelleen julkisten viranomaisten ja muiden lain so-
+veltamisalaan kuuluvien yksiköiden hankintojen kilpailuttamismenettelyistä ja niihin liit-
+tyvistä oikeusturvakeinoista. Samassa yhteydessä hallitus esittää säädettäväksi vastaavat
+kilpailuttamismenettelyt kattavan lain vesi- ja energiahuollon sekä liikenteen ja postipal-
+velujen alalla toimivien yksiköiden hankinnoista ja käyttöoikeussopimuksista, joka korvai-
+si vuodelta 2007 olevan vesi- ja energiahuollon sekä liikenteen ja postipalvelujen alalla toi-
+mivien yksiköiden hankinnoista annetun lain.
+
+Ehdotettujen lakien sisältö vastaa hankintamenettelyn, soveltamisalan ja oikeussuoja-
+keinojen osalta pääosin voimassa olevaa hankintalainsäädäntöä. Direktiiveistä johtuvat
+keskeisimmät muutokset koskevat uusia kilpailuttamismenettelyjä, hankintojen jakamista
+osiin, hankintojen laadullisten näkökohtien huomioimista, ympäristö- ja sosiaalisten näkö-
+kohtien huomioonottamismahdollisuuksia, hankintamenettelyihin liittyviä sähköisiä vies-
+tintävälineitä, kansainvälisiä yhteishankintoja sekä sosiaali- ja terveyspalveluiden sekä
+muiden erityisten palveluiden hankintamenettelyjä.
+
+Hallituksen esityksessä ehdotetaan muutettavaksi myös rikosrekisterilakia siten, että eh-
+dokkaan tai tarjoajan johto- tai vastuuhenkilöä koskeva ote rikosrekisteristä voitaisiin luo-
+vuttaa hankintayksikölle käytettäväksi sen arvioimiseksi, koskeeko ehdokasta tai tarjoajaa
+laissa tarkoitettu pakollinen poissulkemisperuste. Lisäksi hallituksen esityksessä muutet-
+taisiin myös viranomaisten toiminnan julkisuudesta annettua lakia siten, että asianosaisel-
+la ei olisi enää salassapitosäännösten estämättä oikeutta saada tietoa sellaisesta tekijästä,
+jota on käytetty tarjousten vertailussa. Hallituksen esityksessä ehdotetaan myös hankinta-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+lainsäädännön uudistuksesta johtuvia vähäisiä tarkistuksia 13 muuhun lakiin. Esitys liittyy
+valtion vuoden 2017 talousarvioesitykseen.
+
+Talousvaliokunta esittää, että eduskunta hyväksyy muuttamattomana hallituksen esityk-
+seen sisältyvät 3., 5.—13., 15. ja 16. lakiehdotuksen. Talousvaliokunta esittää myös, että
+eduskunta hyväksyy muutettuna hallituksen esitykseen sisältyvät 1., 2., 4., 14. ja 17. la-
+kiehdotuksen.
+
+Valiokunnan lausuntoon sisältyy kolme vastalausetta, joissa on pykälämuutosehdotuk-
+sia ja lausumaehdotuksia.
+
+Talousvaliokunta toteaa mietinnössään, että hallituksen esityksessä ehdotetaan säädet-
+täväksi uusi laki julkisista hankinnoista ja käyttöoikeussopimuksista sekä laki vesi- ja ener-
+giahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista ja käyt-
+töoikeussopimuksista. Lisäksi eräitä keskeisimpiä hankintamenettelyihin liittyviä lakeja
+ehdotetaan muutettavaksi. Hallituksen esityksen tavoitteena on tehostaa julkisten varojen
+käyttöä ja läpinäkyvyyttä painottaen samalla hankintojen laatua ja ympäristö- ja sosiaalis-
+ten näkökohtien huomioimista aikaisempaa selkeämmällä ja täsmällisemmällä sääntelyllä.
+
+Valiokunta toteaa, että hallituksen esitys perustuu valtaosin EU:n julkisia hankintoja
+koskevaan sääntelyyn. Vaikka jäsenvaltiot voivat saattaa yhteisösääntelyn voimaan halua-
+mallaan tavalla, tosiasiallinen kansallinen liikkumavara on tässä vähäinen. Talousvalio-
+kunta toteaa myös sääntelyn olevan selkeyttämispyrkimyksistä huolimatta kaiken kaik-
+kiaan varsin vaikeaselkoinen kokonaisuus.
+
+Talousvaliokunta pitää ehdotettua sääntelyä kuitenkin tarpeellisena ja tarkoituksenmu-
+kaisena, eikä sillä ole huomauttamista valittuun säädöstekniseen ratkaisuun, jonka mu-
+kaan hankintamenettelyjä koskevat, EU-sääntelystä johtuvat määritelmät on otettu yleisla-
+kiin, kun taas toimialakohtaisista poikkeuksista säädetään sektorikohtaisessa lainsäädän-
+nössä. Talousvaliokunta muistuttaa myös, että julkisten hankintojen sisältöä ohjataan jo
+useilla muilla laeilla. Hankintalainsäädännön ja erityislakien valmistelun ja voimaantulon
+eritahtisuuden vuoksi erityislakien sisältämien, hankintaliitynnäisten säännösten yhteenso-
+vittamiseen nyt käsillä olevaan lainsäädäntöön tulee kuitenkin kiinnittää erityistä huomio-
+ta.
+
+Talousvaliokunta on omassa mietinnössään keskittynyt sellaisiin teemoihin, jotka ovat
+sen asiantuntijakuulemisessa nousseet esille huolta herättävinä tai joihin on kohdistunut
+ristiriitaisia muutospaineita.
+
+Talousvaliokunta huomauttaa mietinnössään, että hallituksen esityksen yksityiskohtai-
+sissa perusteluissa on kehitysyhteistyöhankinnoissa kaksi virheellistä toteamaa, jotka ei-
+vät kuitenkaan edellytä muutoksia lakiehdotuksen pykäliin. Perusteluissa todetaan: "Vaik-
+ka tällaiset kehitysyhteistyösopimuksiin perustuvat hankinnat voitaisiin tällöin jättää han-
+kintalain soveltamisalan ulkopuolelle, kuten voimassa olevassa hankintalaissa on tehty,
+ehdotetaan 8 §:n 2 momentissa, että myös näihin ulkoasiainhallinnon hankintoihin sovel-
+letaan ehdotettua lakia." Talousvaliokunta toteaa, että voimassa olevassa laissa kehitysyh-
+teistyösopimuksiin perustuvat hankinnat ovat hankintalain soveltamisalassa eivätkä sen ul-
+kopuolella.
+
+Hallituksen esityksen 1. lakiehdotuksen 8 §:ää koskevissa yksityiskohtaisissa peruste-
+luissa todetaan lisäksi, että ulkoasiainhallinnon kehitysyhteistyösopimuksiin perustuviin
+hankintoihin ei kuitenkaan sovellettaisi 8 §:n 2 momentin mukaan ehdotettua lakia koko-
+naisuudessaan, vaan hankinnan arvosta riippumatta lakia sovellettaisiin 105 §:ssä tarkoite-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+tulla tavalla. Kyseinen viittaus 105 §:ään on virheellinen. Oikea viittaus olisi 1. lakiehdo-
+tuksen 99 §:ään.
+
+Valiokunta mietinnössään toteaa, että hankinnat ovat edelleen haastavia kokonaisuuk-
+sia, joissa onnistuminen edellyttää sekä oikeudellista että kunkin hankinnan kohteena ole-
+van sektorin substanssiosaamista. Talousvaliokunta katsoo, että sääntelyn selkeyttämisen
+ohella konkreettinen ja käytännönläheinen ohjeistus edesauttaisi hankintojen lainmukaista
+läpivientiä, mikä puolestaan jouduttaisi kokonaisprosesseja: kun päätösten perusteet ovat
+avoimesti nähtävillä, vältytään sellaisilta muutoksenhakuprosesseilta, joiden syynä on ol-
+lut virheellinen käsitys päätöksen perusteista tai hankintamenettelyn kulusta.
+
+Talousvaliokunta yhtyy mietinnössään hallitusohjelman tavoitteisiin päästövähennyk-
+sistä, hiilettömän, puhtaan ja uusiutuvan energian lisäämisestä sekä bio- ja kiertotalouden
+edistämisestä. Nämä edellyttävät julkisen sektorin selvää signaalia energiatehokkuuden
+sekä ympäristöystävällisten ja innovatiivisten hankintojen suosimisesta. Talousvaliokunta
+ei kuitenkaan pidä perusteltuna ympäristönäkökohtien huomioon ottamisen säätämistä vel-
+voittavaksi ympäristövaliokunnan lausunnossa ehdotetulla tavalla. Hankintalainsäädäntö
+on menettelytapasääntelyä, jonka tarkoitus ei ole määritellä hankinnan sisältöä vaan me-
+nettelyn syrjimättömyyttä ja avoimuutta.
+
+Sidosyksikkösääntelystä talousvaliokunta toteaa, että hallituksen esityksessä esitetään
+julkisyhteisöjen omistuksessa tai määräysvallassa olevien yhtiöiden — eli puhutaan si-
+dosyksiköistä — toimintaan kohdistuvia rajoituksia. Talousvaliokunnan, kuten myös usei-
+den lausuntovaliokuntien, asiantuntijakuulemisessa on esitetty ristiriitaisiakin näkemyksiä
+perustellusta ulosmyynnin prosenttiosuudesta, erityisesti sen valossa, että direktiivi sallii
+jäsenvaltioiden säätää enintään 20 prosentin ulosmyyntirajasta. Talousvaliokunta toteaa,
+että prosentti- ja euromääräinen ehdotettu ulosmyyntiraja saattaa aiheuttaa useille sidosyk-
+sikköyhtiöille tarvetta sopeuttamistoimiin ja mahdollisesti myös paineita asiakasmaksujen
+korotuksiin. Lisäksi ehdotetun sääntelyn edellyttämä jousto ei liene toteutettavissa täysin
+ongelmitta. Talousvaliokunta pitää tärkeänä, ettei direktiivien mahdollistamaa kansallista
+harkintavaltaa käytetä tavalla, joka voisi vaarantaa EU:n hankerahoitusmahdollisuuksien
+hyödyntämisen, ja muistuttaa, että sidosyksiköiden on aina mahdollista eriyttää markki-
+noilla oleva toimintansa eri oikeushenkilöön, esimerkiksi toiseen yhtiöön, jolloin varsinai-
+nen sidosyksikkö pysyy ainoastaan hankintayksiköitä palvelevana yksikkönä. Sidosyksi-
+köstä eriytetty oikeushenkilö voi harjoittaa kansainvälistäkin yhteistyötä varsinaisen si-
+dosyksikön aseman vaarantumatta.
+
+Talousvaliokunnan mukaan hallituksen ehdottama sääntely on tarpeellista joustomeka-
+nismina ottaen huomioon sidosyksiköiden voimassa olevat sopimus- ja muut sitoumukset.
+Talousvaliokunta katsoo, että esitettyä säännöstä on tulkittava siten, että ulosmyyntirajan
+jouston esteeksi katsotaan vain sellainen vastaus, joka on alustavissa sopimusneuvotteluis-
+sa todettu sisällöllisesti ja muilta ehdoiltaan sidosyksikön kanssa tehtäväksi aiottua sopi-
+musta vastaavaksi ja jonka toteuttamiseen vastaaja on sitoutunut. Talousvaliokunta muis-
+tuttaa myös, että keskeisenä perusteluna valitulle sidosyksikkösääntelylle ovat hallitusoh-
+jelman tavoitteet yrittäjyyden ja kilpailullisuuden edistämisestä sekä kilpailuneutraliteetis-
+ta.
+
+Valmisteilla olevassa sosiaali- ja terveydenhuollon rakenneuudistuksessa lähtökohtana
+on maakuntien vastuu sosiaali- ja terveyspalveluista. Maakunnat pystyvät hankintayhteis-
+työtä käyttämällä hyödyntämään hankintalainsäädännön tarjoamia mahdollisuuksia. On
+huomattava, että valinnanvapauspalveluja tuottavat maakuntien yhtiöt, jotka kilpailevat
+3
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+markkinoilla, eivät todennäköisesti täytä hankintayksikön tunnusmerkistöä ja ne saavat
+myydä palvelujaan vapaasti myös yrityksille.
+
+Talousvaliokunta on nostanut mietinnössään esille myös sidosyksikkösääntelyn vaiku-
+tukset jätehuollon järjestämiseen. Voimassa olevassa hankintalaissa kunnan jätelaitoksen
+sidosyksikköaseman yhtenä edellytyksenä on, että pääosa laitoksen toiminnasta muodos-
+tuu omistajakunnille tuotetuista palveluista. Voimassa olevan jätelain 33 § velvoittaa kun-
+nan järjestämään myös muun kuin asumisessa syntyvän yhdyskuntajätteen jätehuollon, jos
+jätteen haltija sitä palvelutarjonnan puutteen vuoksi pyytää ja jäte on laadultaan ja määräl-
+tään soveliasta kuljetettavaksi ja käsiteltäväksi kunnan jätehuoltojärjestelmässä. Kysymys
+on siis TSV-palvelusta. Jätelain soveltamisen lähtökohtana on ollut, että edellä mainitut
+velvoitteet ovat lakisääteisiä ja siten toiminta ei vaaranna kunnallisen jäteyhtiön sidosyk-
+sikköasemaa. Talousvaliokunnan alustavan arvion mukaan ehdotettu hankintalain si-
+dosyksikkösääntely ei estäisi kuntia järjestämästä lakisääteisiin velvollisuuksiinsa kuulu-
+via jätehuollon palveluja ja TSV-palvelua määräysvallassaan olevien kunnallisten jätelai-
+tosten toimesta.
+
+Talousvaliokunta tähdentää ehdotetun hankintasääntelyn pohjautumista direktiiviin,
+jonka määräykset vaikuttavat kansallisen lainsäädännön tulkintaan myös sidosyksikön toi-
+minnan arvioinnissa. Säädöksen sanamuodon onkin yhtäältä annettava riittävä kuva EU:n
+lainsäätäjän tahdosta ja toisaalta tehtävä säännöksen soveltaminen mahdollisimman ym-
+märrettäväksi Suomen kontekstissa kaikilla sidosyksikkösäännön soveltamissektoreilla.
+Talousvaliokunta katsoo, ettei hallituksen ehdottamaa sidosyksikkösääntelyä ole syytä
+muuttaa lukuun ottamatta 15 §:n 3 momentin teknistä lisäystä, joka on kuvattu jäljempänä
+yksityiskohtaisissa perusteluissa, sekä jätetoimialan siirtymäsäännökseen tehtävää ulos-
+myynnin prosenttiosuuden porrastamista.
+
+Hankinta voidaan ehdotetun sääntelyn mukaan toteuttaa osina siten, että hankintayksik-
+kö määrittelee itse kokonaisuuteen kuuluvien osien koon ja kohteen. Valiokunta pitää eri-
+tyisesti pienten yritysten kannalta myönteisenä, että hankinnat voidaan ehdotetun uuden
+sääntelyn perusteella nykyistä selkeämmin jakaa osiin ja kokonaan erillisiksi kilpailutuk-
+siksi. Valiokunta toteaa, että myös tältä osin lainsäädännön sujuva toimeenpano edellyttää
+selkeitä ohjeita ja riittävää koulutusta. Talousvaliokunta on mietinnössään kiinnittänyt
+huomiota myös siihen, että esityksen mukaan hankintayksikkö voi sulkea tarjouskilpailus-
+ta ehdokkaan tai tarjoajan, joka on laiminlyönyt lakisääteisiä velvoitteitaan.
+
+Talousvaliokunnan näkemyksen mukaan EU:n hankintadirektiivin 57 artiklan 2 kohdan
+säännöksen sanamuoto ei mahdollista lakiehdotuksen muuttamista siten, että hankintayk-
+sikkö voisi sulkea tarjoajan tai ehdokkaan tarjouskilpailusta ehdotetun 81 §:n 1 momentin
+4 kohdan mukaan siitä huolimatta, että tarjoaja on sopinut sitovasta järjestelystä verojen tai
+sosiaaliturvamaksujen maksamisesta. Direktiivin 57 artiklan 2 kohdan kolmannen alakoh-
+dan mukaan verojen tai sosiaaliturvamaksujen laiminlyönnistä johtuvaa poissulkemisvel-
+voitetta tai -mahdollisuutta koskevaa kohtaa ei enää sovelleta, kun talouden toimija on
+täyttänyt velvollisuutensa maksamalla asiaankuuluvat verot tai sosiaaliturvamaksut taikka
+sopinut sitovasta järjestelystä niiden maksamista varten, tapauksen mukaan kaikki kerty-
+neet korot ja sakot mukaan lukien. (Puhemies koputtaa)
+
+Talousvaliokunta on mietinnössään käsitellyt myös rikosrekisteriotteiden pyytämisvel-
+voitteen poistamista. Talousvaliokunnan mukaan tämä ei ole mahdollista, sillä lakiehdo-
+tuksen taustalla olevassa EU:n hankintadirektiivissä hyväksytään ainoastaan viranomais-
+todistukset tältä osin. Yrityksen itsensä antama lausunto ei direktiivin mukaan ole riittävä.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+Arvoisa puhemies! Nyt jäi muutama sana ehkä sanomatta, mutta kiteytän tähän lop-
+puun: Eli miten talousvaliokunta on nyt muuttanut hallituksen esitystä? Kyllä on niin, että
+jätehuollon alalla on tehty siirtymäsäännös, jossa tämä in-house-prosentti on ensimmäisen
+vuoden aikana eli vuoden 2017 loppuun asti 15 prosenttia, sitten vuoden 2018 loppuun asti
+10 prosenttia ja sen jälkeen eli vuoden 2019 alusta 5 prosenttia ja 500 000.
+
+Lisäksi täällä on neljä lausumaehdotusta, mutta voi olla, että näihin palataan sitten kes-
+kustelun yhteydessä. — Kiitos, puhemies.
+
+20.15 Hanna Sarkkinen vas: Arvoisa puhemies! Julkishankintojen suuren volyymin
+vuoksi niissä noudatettavat periaatteet vaikuttavat markkinoiden, talouden ja toimintakäy-
+täntöjen kehitykseen laajasti. Julkinen sektori näyttää esimerkkiä, luo kysyntää ja antaa
+tuotteille taloudellisia kannustimia kehittää tuotantoaan esimerkiksi vastuullisuutta ja in-
+novaatioita painottavaan suuntaan. Käsittelyssä oleva hankintalaki on tärkeä julkishankin-
+toja ohjaava puitelaki.
+
+Hallituksen esityksessä hankintalainsäädännön uudistamiseksi on selkeitä parannuksia
+nykytilaan. Muutokset pohjautuvat paljolti Euroopan unionin uusiin julkisia hankintoja
+koskeviin direktiiveihin. Hyvää hankintalaissa on erityisesti innovatiivisuuden ja laadun
+korostaminen julkisissa hankinnoissa sekä pienten ja keskisuurten yritysten osallistumise-
+dellytysten parantaminen. Oikeaan suuntaan menemisestä huolimatta hallituksen esitys
+uudeksi hankintalaiksi on joiltain osin riittämätön ja joiltain osin virheellinen. SDP ja va-
+semmistoliitto jättivätkin yhteisen vastalauseen mietintöön.
+
+Erityisen suuri ongelma hankintalaissa on kunnallisten yhtiöiden toimintamahdollisuuk-
+sien merkittävä kaventaminen. On käsittämätöntä, että hallitus haluaa rajoittaa kunnallis-
+ten ja muiden julkisten yhtiöiden toimintaa asettamalla sidosyksiköiden ulosmyyntirajaksi
+5 prosenttia tai 500 000 euroa, vaikka EU mahdollistaa ulosmyyntirajaksi 20 prosenttia.
+Suomi siis päättää tehdä kansallista ylisääntelyä, joka tulee aiheuttamaan suuria ongelmia
+julkisomisteisille osakeyhtiöille ja uhkaa tulla kalliiksi veronmaksajille.
+
+Erityisesti ongelmia tulee kunnallisille jäteyhtiöille sekä esimerkiksi julkisomisteisille
+työterveys- ja laboratorioyhtiöille. Laki tulee aiheuttamaan sen, että jäteyhtiöiden tekemät
+investoinnit ja rakennettu kapasiteetti jäävät osittain vajaakäytölle, mikä aiheuttaa painetta
+nostaa kansalaisten jätemaksuja. Jätelain mukaiset kierrätystavoitteet myös uhkaavat jää-
+dä osin toteutumatta.
+
+Laki tulee aiheuttamaan sen, että kunnalliset työterveysyhtiöt joutuvat sulkemaan oven-
+sa yksityisyrittäjiltä, vaikkei alueella olisi juuri yksityistä palvelutarjontaa kohtuuhintaan,
+ja kunnallisen työpaikkaruokalan pitää estää ulkopuolisten syöminen ruokaloissa, vaikka
+lähistöllä ei olisi paljoa muuta ateriatarjontaa. Laki tulee johtamaan siihen, etteivät julki-
+somisteiset osakeyhtiömuotoiset kehitysorganisaatiot voi enää jatkossa joustavasti osallis-
+tua kaikkiin yhteiskehityshankkeisiin. Laki tarkoittaa sitä, että kuntien laboratoriopalvelui-
+ta ei enää jatkossa voi tarjota yritysten käyttöön joustavasti ja monilla alueilla yritysten
+saatavilla olevat palvelut siten heikkenevät.
+
+Kuntayhtiöiden toimintamahdollisuuksien rajoittamista perustellaan sillä, että kuntayh-
+tiöt ovat kuulemma markkinahäirikköjä. En osta tätä argumenttia, sillä kuntayhtiöiden pi-
+tää nykyiselläänkin hinnoitella markkinoilla myytävät palvelut markkinaehtoisesti eikä
+julkisomisteisilla yhtiöillä ole intressiä tehdä polkuhintakauppaa. Onkohan tässä enem-
+mänkin kyse ideologisista syistä, halusta ajaa kuntaomisteisia yhtiöitä alas, rajoittaa niiden
+toimintamahdollisuuksia ja poistaa kilpailijoita markkinoilta? Tämä rajaushan tulee tar-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+koittamaan sitä, että julkisomisteiset sidosyksikköasemassa olevat yhtiöt eivät voi enää jat-
+kossa tarjota palveluita yhtä vapaasti kuin nyt ja olla mukana kilpailussa ja markkinoilla.
+
+Hallitus on antanut ymmärtää, että jätetoimialan osalta sidosyksikön ulosmyyntirajaa
+saatetaan nostaa jätelain muutoksella. Hyvä, jos näin on, ja toivottavasti asia etenee, mutta
+ongelma ei rajoitu vain jätetoimialalle. On myös hyvä, että hallitus on ottanut lusikan kau-
+niiseen käteen ja säätänyt nyt tässä laissa jätetoimialalle siirtymäsäännöksiä.
+
+SDP:n ja vasemmistoliiton yhteisessä vastalauseessa esitetään, että hankintalaissa olisi
+mentävä direktiivin mukaisella 20 prosentin rajalla ja vältettävä kansallinen ylisääntely ja
+omaan jalkaan ampuminen.
+
+Sosiaali- ja terveyspalveluiden kohdalla kilpailuttamisen kynnysarvoa nostetaan lakiesi-
+tyksessä nykyisestä, mikä on hyvä, mutta sitä ei nosteta kuitenkaan riittävästi. EU:n han-
+kintadirektiivi mahdollistaisi kansallisen kynnysarvon nostamisen 750 000 euroon, ja se
+liikkumavara tulisi käyttää kokonaisuudessaan. Valiokunnissa kuullut sosiaali- ja terveys-
+alan julkisen tai kolmannen sektorit toimijat ovat kannattaneet mahdollisimman korkeaa
+kynnysalaa. Se toisi enemmän liikkumavaraa sote-puolen hankintoihin ja palveluiden jär-
+jestämiseen.
+
+Lakiesityksen mukaan myös sosiaali- ja terveyspalveluiden kilpailutuksessa kokonais-
+taloudellisuus voidaan ratkaista joko pelkän halvimman hinnan, pienimpien kokonaiskus-
+tannusten tai parhaan hinta—laatu-suhteen perusteella. Esitettyä ratkaisua ei voi pitää riit-
+tävänä ja perusteltuna sosiaali- ja terveyspalveluissa, joissa laadun tärkeys korostuu. Esi-
+tystä pitäisikin muuttaa niin, että halvinta hintaa voidaan käyttää kokonaistaloudellisuu-
+den ainoana kriteerinä vain hankinnan luonteeseen liittyvästä erityisen painavasta syystä
+johtuen, sillä sote-palveluissa laadun tulisi ensisijaisesti aina ratkaista.
+
+Sosiaali- ja terveysalan erityisiin henkilöpalveluihin, kuten vammaisten elinikäisiin pal-
+veluihin, liittyvien erityispiirteiden vuoksi ja niiden kilpailuttamisesta käytännössä seuraa-
+vien inhimillisten kohtuuttomuuksien vuoksi tulisi nämä palvelut lähtökohtaisesti järjestää
+muulla tavoin kuin hankintalain mukaisella kilpailuttamismenettelyllä. Olemmekin esittä-
+neet vastalauseessa lausuman, jonka mukaan hallituksen tulee ryhtyä valmistelutyöhön tä-
+män tavoitteen edistämiseksi, sillä tämän modernin huutolaisuuden pitäisi jo loppua.
+
+Arvoisa puhemies! Jotta hankinnoille asetettavat tavoitteet muun muassa sosiaalisesta ja
+ekologisesta vastuullisuudesta sekä innovaatioiden edistämisestä voisivat toteutua, pitäisi
+pelkän hankintahinnan olla poikkeuksellinen hankintakriteeri ja enemmän kiinnittää huo-
+miota hinta—laatu-suhteeseen ja kokonaiskustannuksiin. Siksi muiden kuin tavarahankin-
+tojen osalta halvin hinta pitäisi asettaa kilpailutuksissa selkeästi toissijaiseksi valintaperus-
+teeksi, niin että hankintayksiköitä ohjattaisiin lainsäädännöllä huomioimaan tarjousten
+muutkin tekijät. Pelkkää hintaa pitäisi voida käyttää kilpailutuksen ainoana kriteerinä vain
+hankinnan luonteeseen liittyvästä perustellusta syystä.
+
+Lakiesityksen mukaan hankintayksikkö voi käyttää hankinnan kustannusten arvioimi-
+sen perusteena elinkaarikustannuksia. Sanamuoto pitäisi muuttaa vahvemmin ohjaavaksi
+siten, että hankintayksikön tulee pyrkiä käyttämään kustannusten arvioimisessa elinkaari-
+kustannuksia aina silloin, kun ne ovat selkeästi määriteltävissä.
+
+Arvoisa puhemies! EU:n hankintadirektiiviin sisältyy valtioiden velvollisuus toimenpi-
+teisiin sen varmistamiseksi, että toimijat noudattavat hankintasopimuksia toteuttaessaan
+ympäristö-, sosiaali- ja työoikeudellisia velvoitteita. Mielestämme yritysvastuunäkökul-
+ma pitäisi huomioida hankinnoissa esitettyä vahvemmin. Lain tarkoitussäännöksessä ym-
+päristö- ja sosiaalisen vastuullisuuden käsitettä tulee avata tarkentamalla, että se sisältää
+6
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+myös yritysvastuunäkökohdat sekä verovastuullisuuden. Näin selvennettäisiin sitä, että
+hankintakriteereihin on mahdollista ottaa myös toimijoiden eettisyyteen sekä esimerkiksi
+asianmukaiseen verojen maksuun liittyviä kriteereitä.
+
+Direktiivi mahdollistaa ja edellyttää minimityöehtojen noudattamista koskevan si-
+toumuksen ottamista hankintasopimuksiin, mutta sitä ei kuitenkaan selvästi laissa ole esil-
+lä. Siksi vastalauseessa esitetään laajennettavaksi velvollisuutta ottaa minimityöehtojen
+noudattamista koskeva ehto hankintasopimukseen koskemaan kaikkia hankintayksiköitä,
+eli Suomesta tehdystä työstä on maksettava suomalaisten työehtosopimusten mukainen
+palkka. 
+
+Laadullisten näkökohtien huomioimisen korostamisen lisäksi ympäristö- ja sosiaalisten
+näkökohtien huomioimista voidaan tehostaa säätämällä vahvemmin tarjoajien poissulke-
+misperusteista. Pakolliseksi poissulkemisperusteeksi tulisi lisätä se, että tarjoaja on rikko-
+nut Suomen tai Euroopan unionin lainsäädännön, työehtosopimusten taikka kansainvälis-
+ten sopimusten ympäristö-, sosiaali- ja työoikeudellisia velvoitteita muuten kuin vähäise-
+nä pidettävällä tavalla ja rikkomus voidaan näyttää toteen. 
+
+Poissulkemislistasta puuttuu myös useita harmaan talouden kannalta keskeisiä rikosni-
+mikkeitä, jotka siihen olisi hankintadirektiivin puitteissa mahdollista ja perusteltua sisäl-
+lyttää. Hankintayksiköllä tulee olla mahdollisuus ja velvollisuus poissulkea epäeettisesti ja
+rikollisesti toimivat yrittäjät hankinnoissa.
+
+Arvoisa puhemies! Lakiesitys on ainakin 95-prosenttisesti hyvä, mutta nämä muutamat
+yksityiskohdat ja erityisesti sidosyksikkösääntely kaipaisivat muutosta. 
+
+Puhemies Maria Lohela: Otetaan vielä muutama puhuja tästä listalta ennen kuin käydään
+sitten debattia.
+
+20.24 Satu Hassi vihr: Arvoisa puhemies! Julkiset hankinnat ovat merkittävä osa kansan-
+tuotteesta, suuruusluokaltaan jotain viidesosan ja kuudesosan välillä, ja niiden kautta voi-
+daan merkittävästi vaikuttaa moniin asioihin, kuten teknologiseen kehitykseen, ympäris-
+tönsuojeluun, ilmastonsuojeluun, kiertotalouteen. Esimerkkinä siitä, miten itse asiassa jo
+aika kauan sitten, parikymmentä vuotta sitten, on ymmärretty tämä, on se, että presidentti
+Clintonin kaudella päätettiin, että Yhdysvaltain liittovaltio hankkii vain sellaisia tietoko-
+neita, jotka täyttävät tietyt energiatehokkuuskriteerit. Yhdysvaltain liittovaltio on niin suu-
+ri asiakas, että tämä johti koko alan energiatehokkuuden parantamiseen. Tämäntyyppiseen
+politiikkaan tulisi meidänkin julkisissa hankinnoissa pyrkiä.
+
+Suomen julkinen sektori on ollut kohtalaisen passiivinen tässä suhteessa, monissa muis-
+sa maissa ollaan oltu aktiivisempia. Tästä ympäristöteknologian kasvavasta merkityksestä
+myös Suomen elinkeinoelämässä tässä edellisen asiakohdan yhteydessä oli puhetta, ja mo-
+net suomalaiset ympäristöteknologian alan firmat sanovat, että on aika noloa viedä ulko-
+maisia asiakkaita Ruotsiin katsomaan, miten suomalainen teknologia toimii, kun Suomes-
+ta ei ole löytynyt sitten asiakkaita, joilla olisi ollut rohkeutta ja kaukonäköisyyttä investoi-
+da näihin ratkaisuihin.
+
+Lakiesitys jossain määrin selventää sitä, että muun muassa ympäristönäkökohdat voi ot-
+taa hankinnoissa huomioon. Tämä on myöskin uudistetun EU-direktiivin tarkoitus. Minä-
+hän olin itse Euroopan parlamentissa silloin, kun hankintadirektiiviä uudistettiin, ja siellä
+keskusteluissa oikeastaan päällimmäinen asia oli, että miten kirjoitetaan mahdollisimman
+7
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+rautalangasta se, että sosiaalisten näkökohtien ja ympäristönäkökohtien huomioon ottami-
+nen julkisissa hankinnoissa on ei vain sallittua vaan myöskin toivottavaa.
+
+Ympäristövaliokunnan lausunnossa kiinnitetään huomiota siihen, että tässä hankinta-
+osaamisessa on Suomessa puutteita. Kolme vuotta sitten valtioneuvosto teki periaatepää-
+töksen kestävien ympäristö- ja energiaratkaisujen edistämisestä julkisissa hankinnoissa.
+Tämä periaatepäätös on sitova valtion hankintayksiköille, mutta muulle julkiselle sektoril-
+le, kuten kunnille, tämä on vain suositusluontoinen. Jotta tällaiset periaatepäätökset toteu-
+tuisivat tosielämässä, tarvittaisiin paljon nykyistä parempaa strategista johtamista, jossa
+asetetaan tarkempia tavoitteita ja myöskin seurataan, miten ne toteutuvat, mutta tarvittai-
+siin myöskin parempaa neuvontaa. Tällä hetkellähän Kuntaliitto järjestää tätä neuvontaa
+osittain yhteistyössä Motivan kanssa, mutta sen vaikutelman ympäristövaliokunnassa
+saimme asiantuntijakuulemisessa, että tämä neuvonta paljolti on tällaista ikään kuin kilpai-
+luneutraalisuuteen liittyvää, että siinä ei niinkään painoteta sitä, miten laadullisia tavoittei-
+ta voidaan julkisten hankintojen kautta edesauttaa, ja tätä puolta pitäisi vahvistaa. Tätä ym-
+päristövaliokunta lausunnossaan korostaa.
+
+Ympäristövaliokunta tuo esille myöskin sen, että on hyvin tarpeellista ottaa käyttöön
+tämä uusi säännös elinkaarikustannusten huomioon ottamisesta, ja tämä on yksi niistä
+asioista, joilla voidaan nykyistä paremmin julkisissa hankinnoissa edistää sitä, että se, mitä
+verorahoilla hankitaan, myöskin tukee suomalaisen cleantechin kehitystä ja referenssien
+saamista kotimaassa. Ympäristövaliokuntahan myöskin esitti semmoisen toivomuksen,
+että talousvaliokunta harkitsisi sitä, että ympäristönäkökohtien huomioon ottamisesta teh-
+täisiin velvoittavampaa, mutta tätä toivetta talousvaliokunta ei valitettavasti nyt sitten nou-
+dattanut.
+
+Yksi esimerkki siitä, miten hankinnoissa laadullinen osaaminen on tärkeää ja sen puut-
+tuminen on kallista, ovat rakennus- ja remonttihankkeet. Mehän tiedämme, että meillä on
+iso ongelma sisäilman laadussa, kosteusongelmia, homekouluja, sisäilmaongelmaisia sai-
+raaloita ja niin poispäin. Osittain tämä johtuu siitä, että niillä kunnallisilla hankintayksi-
+köillä, jotka tekevät päätöksiä tästä rakennushankkeiden ja remonttien kilpailuttamisesta,
+ei ole tarpeeksi hyvää laadullista osaamista, ja tässä tosiaan pätee se vanha sanonta, että
+kolmen markan suutari tekee kuuden markan vahingon.
+
+Ympäristövaliokunta myöskin tuo esille sen, että hiilijalanjälki olisi yksi sellainen käyt-
+tökelpoinen ympäristökriteeri, mitä julkisissa hankinnoissa pitäisi aktiivisesti käyttää.
+
+Erityisesti ympäristövaliokunta nosti esille sen, mitä hankintalaki tekee jätehuollolle.
+On hyvä ja kiitoksia talousvaliokunnalle siitä, että siirtymäsäännösten ja 3. ponnen kautta
+talousvaliokunta otti huomioon tämän ympäristövaliokunnan huolen, joka liittyy siihen,
+mitä tapahtuu jätehuollolle.
+
+Lopuksi, arvoisa puhemies, toteaisin, että vihreiden vastalauseessa tuodaan esille myös-
+kin se, että pitäisi olla jämäkämpi niiden yritysten, joilta tuotteita ja palveluita ostetaan, ve-
+rovastuullisuudesta. Mehän emme voi edellyttää sitä, että verot maksetaan Suomeen, mut-
+ta me voimme edellyttää sitä, että yritykset, jotka valitaan toteuttajiksi, julkistavat, mihin
+maihin ja paljonko ne maksavat veroja. Siinä ei ole mitään tällaista kiellettyä kansallisuus-
+syrjintää, että maakohtaisesti julkistetaan nämä tiedot näiden voittaneiden yritysten osalta.
+Tällä olisi ennalta ehkäisevä vaikutus siihen mielestäni varsin todelliseen uhkaan, että kun
+yhä enemmän ja enemmän asioita yksityistetään ja kilpailutetaan — ei vähiten sote-uudis-
+tuksen yhteydessä — me maksamme verorahoilla sellaisille yrityksille, jotka sitten itse eri-
+laisten veroparatiisien ja vippaskonstien kautta kiertävät veroja.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+Toisena asiana vihreiden vastalauseesta nostaisin esille sen, että olisi pitänyt rajata vam-
+maisten henkilöiden elämänikäiset palvelut yksiselitteisesti hankintalain ulkopuolelle. Nyt
+talousvaliokunnan kanta jättää tässä liikaa tällaista kunnallista harkinnanvaraa. 
+
+Puhemies Maria Lohela: Otetaan edustaja Pirttilahti, ja sitten voidaan käydä debattia, jos
+siihen on tarvetta.
+
+20.33 Arto Pirttilahti kesk: Arvoisa rouva puhemies! Kuten tuossa edustaja Hassi mai-
+nitsi, julkiset hankinnat ovat iso osa meidän kansantaloutta, eli 34 miljardin asiasta puhu-
+taan tällä hetkellä ja siitä, millä tavalla saataisiin tähän lisää vauhtia ja potkua.
+
+Olen yhtä mieltä myös siitä, että me tarvitsemme lisää referenssikohteita, ja katsoisin-
+kin heti tuohon hiilikasaan, mikä tässä Helsinginkin ympäristössä on. Jos haetaan tämmöi-
+siä cleantech-energiakohteita, niin meidän on siinäkin lähdettävä Tukholmaan. Olisi erin-
+omainen asia, jos Helsingin kaupunkikin ottaisi julkisissa hankinnoissa nyt sellaisen suun-
+tauksen, että ottaisimme kotimaisen energian ja myös uusiutuvan energian. Ehkä siellä jo-
+tain henkeä tähän suuntaan on tulossakin.
+
+Arvoisa puhemies! Itse tämä hankintalaki on pääosin erinomainen. Voisin miettiä näin
+kuten edustaja Sarkkinen: 95 prosenttia ihan hyvää ja 5 prosenttia sitten vähän heikompaa
+ainesta tässä.
+
+Erinomainen asia on nämä innovatiiviset hankinnat: se, että hankinnoista pitäisi 5 pro-
+senttia olla innovatiivisia, ja myös innovatiivisia kumppanuuksia haetaan. Sillä on julkisel-
+le sektorille ihan piristävä vaikutus, että lähdetään vanhoista hankintatavoista ja -rakenteis-
+ta liikkeelle ja katsotaan innovatiivisuuden puolelta. Myös laatu on vahvasti mukana. Ym-
+päristö, sosiaalinen näkökohta, myös työllisyys voidaan huomioida. Tämä tuo tällä hetkel-
+lä enemmän erilaisia elementtejä kuin pelkästään hinta.
+
+Tämä myös antaa paljon pk-yrityksiä tukevia ratkaisuja: muun muassa tämä neuvottelu-
+menettely ennen hankintaa ja hankinnan aikanakin osittain. Pk-sektorin osalta on hyvä asia
+vielä tämä hankintojen jakaminen pienempiin osiin ja tätä kautta myös hallinnollisen taa-
+kan pienentyminen. Osatarjouksen tekeminen ja nämä pienemmät hankintaerät ovat tärkeä
+asia. Omasta kaupungistani kysyin, että mites meidän ruokahankinnat tehdään, ja siellä
+vastattiin hankinnasta: "Me kilpailutamme tukut." Miksi jo edellisen lainsäädännön aikana
+emme olisi voineet hyvin koota meidän alueen elintarviketuottajat yhteen ja siellä esimer-
+kiksi sesonkituotteista alueen yrittäjät olisivat voineet tehdä tarjouksia?
+
+Yhdyn myös siihen näkemykseen, todellakin, meidän nykyisen lainsäädännön toteutta-
+misesta, millä tavalla hankintayksiköt ovat osanneet hyödyntää jo nykyistä lainsäädäntöä,
+ja nyt kun me annamme vielä enemmän mahdollisuuksia, niin kyllä tässä luuppi menee sii-
+hen suuntaan, miten kunnat ja erilaiset hankintarenkaat pystyvät näitä hyviä mahdollisuuk-
+sia hyödyntämään ja enemmän vielä käyttämään hyväksi meidän pk-sektorin osaamista ja
+hyviä tuotteita. Myös kilpailutusrajat nousevat pääosin hyvälle tasolle.
+
+Tässä varmaankin tämä sidosyksikköasia on vähän semmoinen hankalampi asia keskus-
+talle. Me olisimme katsoneet tämän EU:n salliman 20 prosenttia mieluisammaksi kuin nyt
+sitten tämän 5 prosenttia ja 500 000. Me teemme tässä nyt Euroopan kireintä lainsäädäntöä
+tällä hetkellä näitten tietojen mukaan. On erilaisia tapahtumia varmaan ollut tämän vanhan
+hankintalain aikana. Tässä esimerkiksi jätehuoltosektori on hyvin riitainen. Sieltä on nous-
+sut tämmöisiä ylilyöntejä, joissa julkinen sektori on jyrännyt markkinoilla varmaan näitä
+yksityisiä toimijoita. Uskoisin, että tämä on yksi peruste sille, että yrittäjäjärjestöt ja muut
+9
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+ovat olleet hyvinkin ärhäköitä tässä. Mutta tämähän on ollut vain lain toteuttamisessa ja sen
+valvonnassa olevia ongelmia.
+
+Tässä uudessa lakipaketissahan meille annetaan nyt enemmän budjettivarojakin, muun
+muassa Kilpailu- ja kuluttajavirastolle, jonka tulisi valvoa juurikin näitten eri asioitten to-
+teutumista ja varsinkin sidosryhmien ulosmyynnin osalta. Eli huolestuttaa sidosryhmien
+ulosmyynnin osalta se, että tuli tiukat rajat, mutta toisaalta tämä jätehuoltohan on iso osa
+sitä ja olemme tyytyväisiä siihen, että saatiin sinne siirtymäsäännöstä ja lausumaa mukaan.
+Eli jätehuollon osalta vuoden 2017 ajan tämä on vielä 15 prosenttia. Koska tässä lainsää-
+dännössä katsotaan kolme vuotta vielä taannehtivasti, niin se, että taannehtivalla toimin-
+nalla pitäisi lähteä mukaan, merkitsisi sitä, että nykyisiä julkisia yhtiöitä jouduttaisiin ran-
+kaisemaan. Se tarvitsee määrätyn siirtymäajan.
+
+Toinen asia tämän jätehuollon osalta: jätelaissa tullaan varmaan nyt käsittelemään tämä
+TSV-toiminta, mutta myös nämä rajat. Eli tämähän on yleislaki niin sanotusti, ja sen alle
+kun tulee erikoislainsäädäntö, niin sen alla voidaan nyt sitten miettiä, ovatko ne sidos-
+myynnit oikeassa suhteessa. Esimerkkinä on juuri jätehuolto.
+
+Tähän ponsiesitykseen saimme mukaan nyt sitten myös sosiaali- ja terveystoimen alan
+plus tämän jätealan ja sen, että eduskunta edellyttää, että valtioneuvosto ryhtyy tarvittaessa
+toimialakohtaisiin lainsäädäntöä täsmentäviin toimiin. Eli tämä on hyvä ponsi.
+
+Tässä on neljä hyvää pontta, mitkä ovat tässä mukana. Tämä nyt näyttää sen, kuinka
+isosta asiasta on kyse, kuinka säikeisestä asiasta on kyse. Näillä ponsilla on myös oma ta-
+voitteensa: se, että saadaan asiaa niin sanotusti maalaisjärkisesti eteenpäin ja riittävillä jä-
+sentelyillä.
+
+"Eduskunta edellyttää, että valtioneuvosto varmistaa julkisyhteisöjen omistuksessa tai
+määräysvallassa olevien sidosyksiköiden mahdollisuudet täyttää velvoitteensa hankinta-
+lainsäädännön tavoitteiden mukaisella tavalla." Tämä on tämä ensimmäinen ponsi.
+
+Toinen: "Eduskunta edellyttää, että valtioneuvosto seuraa sääntelyn vaikutuksia ja ryh-
+tyy tarvittaessa valmistelemaan lainsäädännön muutoksia, joilla parannetaan pienten ja
+keskisuurten yritysten tasapuolisia mahdollisuuksia osallistua julkisiin hankintoihin."
+Erinomainen ponsi.
+
+Kolmas ponsi: "Eduskunta edellyttää, että valtioneuvosto ryhtyy tarvittaessa toimiala-
+kohtaisiin lainsäädäntöä täsmentäviin toimiin, pitäen erityisesti silmällä jätetoimialan ja
+sosiaali- ja terveydenhuollon palveluiden toimintaedellytyksiä." Tähänkin on tullut sitten,
+että "tarvittaessa", mutta missä tämä arvioidaan? Toivotaan, että heti uuden jätelainsäädän-
+nön yhteydessä.
+
+Neljäs ponsi: "Eduskunta edellyttää, että hallitus huomioi sosiaali- ja terveyspalvelujen
+lainsäädännössä vammaisten ja vanhusten asumispalvelujen järjestämisen inhimillisellä ja
+asiakaslähtöisellä tavalla." Tämä on erinomainen ponsi.
+
+Huomasin tässä lainsäädännössä, kun käytiin näitä kuulemisia, että sieltä aina pulpahte-
+lee uusia asioita, missä tämä tiukka sidosryhmäasetus tulee esille. Viimeisimpänä tuli ihan
+tänä päivänä, kun nyt tehdään tosiaan uutta maakuntia ja sosiaali- ja terveydenhuollon pal-
+veluja koskevaa lainsäädäntöä, että siellä yhtiöitetään paljon asioita. Tämä raja tulee myös
+siellä vastaan meillä tulevassa.
+
+Arvoisa puhemies! Näillä sanoilla.
+
+Puhemies Maria Lohela: Avataankin tuo debatti, niin ei ainakaan unohdu kukaan, kun oli
+useampia vastauspuheenvuoron pyytäjiä.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+20.41 Kaj Turunen ps (vastauspuheenvuoro): Arvoisa puhemies! Ihan lyhyesti näin: kun
+tämän keskustelun perusteella vaikuttaa siltä, että jotenkin rajattaisiin kunnallisten yhtiöit-
+ten toimintaa, niin tosiasiassa kunnan omistama yhtiö voi aivan rajoituksetta toimia mark-
+kinoilla silloin, kun se toimii markkinaehtoisesti, mutta silloin jos se pitää tämän suljetun
+markkinan itsellään, on tärkeätä, että se on myös rajattu.
+
+Haluan nostaa esille tämän 4. ponnen, joka on perussuomalaisten ehdottama. Kun nämä
+vastalauseen tekijät ovat kiinnittäneet tähän huomiota, niin direktiivi ei salli sote-hankin-
+tojen irrottamista hankintalaista, ja siksi perussuomalaiset ehdottivat tätä 4. pontta: "Edus-
+kunta edellyttää, että hallitus huomioi sosiaali- ja terveyspalvelujen lainsäädännössä vam-
+maisten ja vanhusten asumispalvelujen järjestämisen inhimillisellä ja asiakaslähtöisellä ta-
+valla." Ja sosiaali- ja terveysministeriöstä olen jo saanut viestiä siitä, että se tullaan otta-
+maan sitten sote-lainsäädännössä huomioon.
+
+20.42 Hanna Sarkkinen vas (vastauspuheenvuoro): Arvoisa puhemies! Tämä 4. ponsi on
+hyvä, koska olisi tärkeätä, että ylipäätään näitä vammaisten tai vanhusten asumispalveluita
+ei järjestettäisi kilpailuttamismenettelyllä vaan ne hankittaisiin muilla keinoin. Tämä pon-
+si on hyvä, mutta tässä meidän vastalauseessamme esitetään sitovaa pontta siitä, että halli-
+tus aloittaa valmistelutyön sen edistämiseksi — eli samansuuntainen mutta sitova. Valio-
+kunnan kuulemisten aikana kävi selväksi, että direktiivi ei mahdollista näitten rajaamista
+hankintalain soveltamisalan ulkopuolelle, mikäli kilpailutetaan. Eli pääasia on, että mene-
+tellään sillä tavalla, että näitä elinikäisiä asumispalveluita ei lainkaan kilpailuteta vaan ne
+järjestetään muilla menetelmillä, joilla päästään sitten eroon tästä modernista huutolaisuu-
+desta, minkä kyllä toivon olevan meidän kaikkien yhteinen tavoite, ja uskon näin olevan-
+kin.
+
+20.43 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Pirttilahti tä-
+nään jo toiseen kertaan toi esille Helsingin hiilikasat. Haluaisin nyt kerrata sen, mitä viime
+viikolla hallituksen energiastrategiaesityskeskustelussa todettiin, kun myös ministeri Rehn
+otti nämä hiilikasat esille. Helsinkihän on hiljattain tehnyt päätöksen sulkea Hanasaaren
+hiilivoimala. Tämä aloite tuli vihreiltä, ja nimenomaan vihreät sen Helsingissä ajoivat läpi.
+(Jari Myllykoski: Eivät yksin! — Tuula Haataisen välihuuto) Itse totesin energiastrategia-
+keskustelussa, että pidän tätä hallituksen linjausta kivihiilen kieltämisestä tervetulleena,
+koska se antaa selkänojan sille, että suljetaan loputkin hiilivoimalat Helsingistä ja muualta.
+Emma Kari, joka on myös Helsingin kaupunginvaltuutettu ja keskeinen tekijä tässä Hana-
+saari-päätöksessä, heti tarttui tähän ja esitti, että Helsinki tekee päätöksen siitä, että loppu-
+kin kivihiilivoima Helsingissä lopetetaan. Tämä on esimerkki siitä, (Puhemies koputtaa)
+miten julkinen sektori voi toimia edelläkävijänä.
+
+20.44 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! On hyvä,
+että hankintalaki sai mietinnössä nyt sellaisen muodon, mikä on mielestäni kohtuullisen
+hyvä. Jäihän sinne toki vielä ongelmia, mutta iso asia siinä on esimerkiksi se, että nyt voi-
+daan hankintoja pilkkoa pienemmiksi, niin että pienemmätkin tarjoajat pääsevät tähän kil-
+pailuun mukaan. On selvää, että kun isoja hankintoja tehdään, niin pienet toimijat ovat ar-
+motta kilpailusta ulkona, koska kokonaisuudet ovat niin suuria, että pienellä liikevaihdolla
+toimiva yhtiö ei pysty edes osallistumaan tarjouksen tekoon. Nyt voi toimija, joka julkista
+hankintaa tekee, pilkkoa pienempiin osiin tämän tekemänsä tarjouspyynnön, jolloin pysty-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+tään ottamaan pienempiä yhtiöitä ja toimijoita kilpailuun mukaan. Ja totta kai siinäkin pi-
+tää kiinnittää huomiota nimenomaan siihen laatuun, kun tarjouspyyntöä tehdään.
+
+On tärkeää huomata se, että tämä hankintalaki mahdollistaa paljon, mutta ennen kuin se
+on kaiken mahdollistava laki, niin se tarkoittaa sitä, että meidän pitää tarjouspyyntöön kiin-
+nittää erittäin suurta huomiota.
+
+20.45 Sirpa Paatero sd (vastauspuheenvuoro): Arvoisa puhemies! Juuri tuossa sain teks-
+tiviestin, että tänne jätepuolelle on kirjoitettu, että tarvittaessa tehdään toimialakohtaisesti
+muutoksia, niin että viesti on nyt jo se, että siellä jotkut järjestöt ovat tuhoamassa tämän
+kauniin ajatuksen, eli työryhmä, jossa näin piti pohtia, ei ole siis näin oletettavasti tekemäs-
+sä. Elikkä se siitä kauniista toivomuksesta.
+
+Minä vieläkin hämmästelen sitä, että kun meillä Euroopan unioni antaa tämän 20 pro-
+sentin sidosyksiköitten ulosmyynnille olevan rajan, niin miksi meillä halutaan vetää se 5
+prosenttiin. En vielä ymmärrä, miksi suomalaiset yritykset ovat jotenkin erilaisia koko Eu-
+roopan kaikkien muiden maiden yrityksiin verrattuna ja miksi Suomessa pitää olla tiukem-
+mat rajat, etenkin kun tämä työryhmä, joka oli asetettu ja joka pääsi hyvään yhteisymmär-
+rykseen, rajasi sen 10 prosenttiin, joka on ollut käytännössä tällä hetkellä se sopiva raja, ja
+siitäkin piti mennä vielä alemmaksi, 5 prosenttiin, ja keksiä vielä erikseen 500 000 (Puhe-
+mies koputtaa) euron raja, jota ei ole missään muussa maassa — ei missään muussa maas-
+sa.
+
+20.46 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa puhemies! Kyllä ennustami-
+nen tietysti on vaikeata, mutta nyt tuntuu kyllä siltä, että keskusta on tässäkin asiassa ollut
+hallituksen kuoripoika ja on joutunut nielemään sitten katkeran kalkin. Toivotaan, että ne
+ponnet, joita tänne on saatu mukaan, voivat jotakin sitten jatkossa pelastaa. Mutta kyllähän
+tässä perussuomalaisten 4. ponsi on omantunnon puhtaaksi pesemistä sillä tavoin, että nyt
+ollaan valmistelemassa sote-lakia, johonka tulee yhtiöittäminen muodoksi. Kyllä täytyy
+sanoa, että aika rohkeaa on luottaa ponteen tässä kohtaa, eli voisi sanoa, että tämä kyllä
+näyttää nyt tässä vaiheessa kokoomuksen märän unen toteutumiselta. (Kaj Turunen: Oh-
+hoh!)
+
+20.47 Kaj Turunen ps (vastauspuheenvuoro): Arvoisa puhemies! Todellakin toivon, että
+eduskunta hyväksyy tämän mietinnön näine ponsineen. Tämä on ollut perussuomalaisille
+tärkeä asia, että tämä 4. ponsi tänne saatiin.
+
+Edustaja Sarkkiselle vastaisin siitä, kun hän kysyi konkretiaa, että sote-lakeja valmistel-
+laan ja olen ministeriöstä saanut siitä viestin, että sote-lainsäädäntöä valmistellaan myös-
+kin tältä osin, että vammaisten ja vanhusten asumispalvelujen järjestäminen tapahtuu inhi-
+millisesti ja asiakaslähtöisesti. Eli käytännössä se tulee tarkoittamaan sitä, että se toteute-
+taan niin, että hankintalaki ei koske sitä, henkilökohtaisen budjetoinnin kautta, maksusi-
+toumuksen tai palvelusetelin kautta. Tämä ei ole kokoomuksen märkä uni. Itse asiassa, kun
+vammaisten ja vanhusten asumispalvelut järjestetään kunnolla, se on perussuomalaisten
+märkä uni.
+
+20.48 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Puutun minäkin
+näihin vanhusten ja vammaisten asumispalveluihin ja myöskin vaikeavammaisten palve-
+luasumiseen ja henkilökohtaiseen apuun, josta varmasti tämän salin huoli on yhteinen.
+12
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+Elikkä jos mahdollista, niin näitä asioita välttämättä ei ole pakko kilpailuttaa silloin, kun ne
+järjestetään joko suoraan julkisen vallan toimesta taikka sitten esimerkiksi tällä henkilö-
+kohtaisella budjetoinnilla.
+
+Mutta ongelma on koko ajan tämän lainsäädännön kanssa ollut se, että kun soten valin-
+nanvapauslainsäädäntö on ilmassa — tästähän ei ole vieläkään sitä poliittista päätöstä teh-
+ty — niin miten me voimme luottaa siihen, että tämä henkilökohtainen budjetointi on siel-
+tä todellakin tulossa, ja entäs jos käykin niin, että sitä ei sinne saada. Toisaalta sitten jää il-
+maan tämä, että tänä päivänä Tuomas Pöysti ilmoitti, että viidessä — viidessä — maakun-
+nassa tulee tapahtumaan valinnanvapaus. Millä tavalla on tarkoitus tämä valinnanvapaus
+toteuttaa eri puolilla Suomea? Siinä mielessä esimerkiksi kristillisdemokraattien ponsi nu-
+mero 2 on varmasti erittäin kannatettava sen suhteen, koska emme voi tietää, mitä aiotte tä-
+män sote-valinnanvapauden (Puhemies koputtaa) suhteen tehdä.
+
+20.50 Arto Pirttilahti kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Todellakin
+tässä maakuntauudistuksessa ja sitten vielä soteen liittyen meille tulee paljon yhtiöitä.
+Muun muassa kävin ely-keskuksessa, eli elyjenkin toimintaa niin sanotulta service-puolel-
+ta eli neuvontapuolelta tullaan yhtiöittämään. Se on sitten joko julkinen yhtiö tai yksityi-
+nen yritystoiminta tai joku konsulttiyhtiö, mikä näitä tekee. Meillä on parvi yhtiöitä, osa on
+julkisia ja osa on kuntien toimijoita, ja siinä kuvassa olen huolissani tämän tiukan rajan
+kanssa, missä mennään, että milloin ne yhtiöt ovat markkina-alueella ja milloin eivät, kun
+pelataan näin laajalla toimialalla. Varsinkin tämän uudistuksen myötä, mitä ollaan teke-
+mässä, tässä lyödään vähän ehkä poskelle sillä tiukalla sääntelyllä mutta toisaalta kuntien
+palvelujen toimivuudenkin osalta.
+
+20.51 Tuula Haatainen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Puuttuisin
+myös tähän sote-uudistukseen ja tähän hankintalakiin. Olen tässä hankintalakiprosessissa
+ollut monessa käänteessä mukana, kun tätä on valmisteltu, ja ihmettelen tätä sidosyksikön
+rajaa nyt kyllä. Se pitää myös muistaa, että kun sote-uudistus on tulossa ja sinne suunnitel-
+laan nyt sitten tätä yhtiömaailmaa, niin tämä tulee koskettamaan myös sitä maastoa mitä
+suurimmassa määrin, ja jo tällä hetkellä suuri huoli on noussut Kuntaliiton lausunnoista ja
+kunnista työterveyshuollon osalta. Eli semmoinen järkevä toiminta, jossa voidaan ulos-
+myyntiä tietyissä rajoissa tehdä, jotta pystytään joustavasti asiat järjestämään, on tämän si-
+dosyksikköhomman keskeinen juttu tällä sote-puolella.
+
+Mutta sitten näihin elinikäisiin palveluihin. En kyllä paljon pistäisi sen varaan, että kai-
+kille vaikeasti vammaisille ja muille ikääntyneille ihmisille tämä henkilökohtainen budje-
+tointi olisi se kaikille tuleva ratkaisu. Se sopii sellaisille ihmisille, jotka pystyvät itse sitä
+hallitsemaan ja joilla on omaisia ja riittävästi tukea siihen. Mutta semmoinen laajamittai-
+nen, iso ratkaisu (Puhemies koputtaa) se ei varmasti tule olemaan. Tässä suhteessa nämä
+vastalauseet, mitä täällä on tehty, ovat kyllä ihan oikeaan osuneita.
+
+20.52 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Todellakin näi-
+hin sidosyksiköihin täytyy kiinnittää huomiota, että on aika kummallista, että me olemme
+täällä itse taas tekemässä ihan saman asian kuin viime kerralla, kun säädimme hankintala-
+kia. Elikkä teemme näistä rajoista matalampia kuin mitä EU-direktiivi sallisi. Tietysti it-
+selleni erityisesti tuntuu kummalliselta, kun olen Euroopan parlamentissa taistellut sen 20
+prosentin puolesta, että saataisiin sinne nämä sidosryhmähankintoihin liittyvät prosentit, ja
+13
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+sitten toisaalta täällä Suomessa ollaan menty tähän 5 prosenttiin ja käsittämättömään
+500 000:n ylärajaan. Ei missään Euroopassa ole jotakin tällaista euromääräistä ylärajaa lai-
+tettu. Tämä tuntuu aivan kummalliselta.
+
+Siinä mielessä toivon, että tässäkin kiinnitetään huomiota kristillisdemokraattien pon-
+teen numero 1, jossa todetaan, että on varmaan syytä harkita, että näitä voidaan sitten nos-
+taa myöhemmin näihin direktiivin mahdollistamiin ylärajoihin. Meillä on myöskin pykä-
+lämuutosesityksiä, joissa esitämme, että näiden täytyisi olla ehdottomasti korkeampia kuin
+mitä on hallituksen esityksessä tällä hetkellä.
+
+20.53 Krista Mikkonen vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Nykyi-
+nenkin hankintalaki on toki mahdollistanut sen, että esimerkiksi muitakin kriteereitä kuin
+hintaa voidaan käyttää, mutta käytännössä hankintoja tehtäessä on kyllä vallinnut semmoi-
+nen melkoinen pelko, että osataanko sitä hankintaa tehdä oikein, ja siksi näitä muita kritee-
+reitä ei ole juurikaan käytetty. On hyvä, että tässä ne nostetaan esille, mutta olisi ollut kyllä
+parempi, että tänne olisi selkeästi kirjattu se, että pelkkä hinta ei voi olla kriteeri vaan että
+näillä muilla kriteereillä on suurempi painoarvo. Ja jotta jatkossa tätä pystytään käyttä-
+mään niin, että huomioidaan paremmin muutakin kuin hinta, niin tarvitaan kyllä ehdotto-
+masti neuvontaa, koulutusta ja kehittämistä entistä enemmän. Vihreät ovatkin esittäneet,
+että tämmöinen oma kehittämis-, neuvonta- ja seurantayksikkö perustettaisiin, jotta pys-
+tymme hyödyntämään näitä julkisia hankintoja siinä, että saadaan myös aluetaloutta vah-
+vistettua.
+
+20.54 Jani Mäkelä ps (vastauspuheenvuoro): Arvoisa puhemies! Olen itsekin hieman
+huolissani näitten tiukkojen ulosmyynnin rajojen käytännön vaikutuksista kunnallisiin lii-
+kelaitoksiin. Periaatehan niissä voi olla hyväkin eli se, jos ne mahdollistaisivat pienten pai-
+kallisten yritysten kilpailumahdollisuudet. Mutta jos ne käytännössä johtaisivat muutaman
+ketjun valtakunnalliseen monopoliin, niin sitten ne olisivat huono asia. Näitä toivoisikin
+hallituksen seuraavan ja tarvittaessa reagoivan muutoksin. Tähän problematiikkaan tulee-
+kin osittain jo vastauksia valiokunnan lausumista, joihin täytyy sinänsä olla tyytyväinen.
+
+20.55 Joona Räsänen sd (vastauspuheenvuoro): Arvoisa puhemies! Täytyy aluksi tode-
+ta, että kyllä monilta osin tämä hankintalaki menee parempaan suuntaan ja siitä on paikal-
+laan antaa kiitosta. Mutta on kyllä nyt itsekin puututtava tähän sidosyksiköiden ulosmyyn-
+tirajaan, kun nyt Suomessa halutaan jälleen olla paavillisempia kuin paavi itse. Kun mis-
+sään muualla ei näin tiukkaa sääntelyä olla tekemässä ja EU mahdollistaa 20 prosenttiin
+asti tämän ulosmyynnin, niin sitten vielä sellaisen hallituksen aikana, jossa esimerkiksi pe-
+russuomalaiset ovat mukana, Suomi haluaa olla tässä nyt EU:n mallioppilas ja viedä ihan
+maksimaalisen tiukaksi nämä rajaukset. Kyllähän sitä nyt täytyy ihmetellä, mistä ihmeestä
+tässä on kysymys.
+
+Sitten kun täällä todetaan, että Suomessa nämä kunnalliset yhtiöt ovat olleet markkina-
+häirikköjä, niin onko todella nyt niin, että Suomessa kunnalliset yhtiöt ovat aivan poikke-
+uksellisia verrattuna kaikkiin muihin EU-maihin, että täällä jotenkin ollaan todellisesti
+markkinahäirikköjä ja kaikkialla muualla pystytään kyllä toimimaan ihan tämän direktii-
+vin puitteessa? Kyllä sitä täytyy kysyä.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+20.56 Hanna Sarkkinen vas (vastauspuheenvuoro): Arvoisa puhemies! Kyllä tässä nyt
+iso pelko on, että tämä tiukka sidosyksikkösääntely tulee hankaloittamaan meidän omaa
+elämäämme tuolla kunnissa ja tulevaisuuden maakunnissa erittäin monella ja hankalalla
+tavalla. Erityisesti tämä on nyt vaikea tilanne — on muutenkin — kun tämä maakunta-sote-
+uudistus on tulossa ja muutenkin on isoja kysymysmerkkejä sen suhteen, miten kunnat ja
+tulevaisuuden maakunnat voivat keskenään järjestellä esimerkiksi tukipalveluita ja voiko
+esimerkiksi maakunta ostaa sidosyksikköasemassa näitä kuntien yhtiöitä. Ja näyttää siltä,
+että todennäköisesti sitä in-house-mahdollisuutta ei tule kuntien ja maakuntien välille, ja
+sitten jos on erittäin tiukka sidosyksikkösääntely, niin ei voida myöskään sen puitteissa
+myydä ristiin. Kyllä tämä tulee erittäin byrokraattiseksi, jos joka ikisessä julkisessa yhtiös-
+sä täytyisi tehdä tytäryhtiö, joka sitten erikseen myy markkinoille ja muille julkisille toi-
+mijoille niitä palveluita — hirvittävää byrokratiaa.
+
+20.57 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Tämä si-
+dosyksikkösääntely on kieltämättä monimutkainen, ja uskallan tunnustaa senkin, että tämä
+ratkaisu, mikä nyt syntyy, ei varmaan allekirjoittaneen ihan kaikkia toiveita vastaa, mutta
+politiikassa joutuu joskus nielemään niin sanottuja katkeriakin kalkkeja.
+
+Kuitenkin on syytä muistaa se, että ponsissa on sitten tarkemmin esitetty ne tavoitteet,
+joihin ollaan pyrkimässä. Toki ymmärrän sen, että se Euroopan unionin direktiivi olisi
+mahdollistanut sen 20 prosentin rajankin. Minusta se olisi ollut — allekirjoittaneen mieles-
+tä, henkilökohtaisesti ajatellen — se suotavampi vaihtoehto, mutta niin kuin sanoin, kaik-
+kea ei saa, mitä ikinä haluaa. 
+
+Se, mihin pitää kuitenkin kiinnittää huomiota tulevaisuudessa, varsinkin sote-puolella,
+— olen sen myös julkisesti sanonut — on se, että kun on esimerkiksi vanhuspalveluja, jot-
+ka ovat meille kaikille tärkeitä, koska joka päivähän me vanhenemme, toivon mukaan
+myös huomenna, niin olemme joskus itsekin vanhoja, ja sivistysvaltion ensimmäinen mit-
+tapuu mielestäni on se, miten me pidämme huolta heikommista, meidän vanhemmistam-
+me. Se on ihan ehdotonta, ja tässä asiassa toivon, että tämä asia menee (Puhemies koput-
+taa) hyvään lopputulokseen.
+
+20.58 Sirpa Paatero sd (vastauspuheenvuoro): Arvoisa puhemies! Soteen liittyen yksi
+iso huoli, minkä hallintovaliokunta kirjoitti tähän omaan lausuntoonsa, liittyy myöskin en-
+sihoitoon: nyt jos yhtäkkiä todetaan, että ensihoito on myöskin sidosyksikkökriteereiden
+piirissä eikä sitä voida irrottaa tästä, niin minä en tiedä, mitenkä meidän pelastuslaitosten ja
+sairaaloiden ensihoito tulevaisuudessa pystytään järjestämään, jos on kaikki pakko pistää
+kilpailutukseen ja erillisiksi yhtiöiksi sieltä nykyisen pelastuslaitoksen yhteydestä. (Kaj
+Turunen: Ei, ei pidä paikkaansa!) — Tältähän tämä nyt, anteeksi, Turunen, kuulostaa. —
+Samalla te sanotte, että ei saa olla enää monialayhtiöitä vaan kaikkien yhtiön eri toiminto-
+jen pitää olla erillisissä pikkuyksiköissä. Yli sata kunnallista yhtiötä joutuu välittömästi —
+välittömästi — rukkaamaan oman toimintansa. Ja ne eivät ole pelkästään jäteyhtiöitä, vaan
+siellä on laboratorioita, kuvantamista, ruokahuoltoa, tukipalvelua, kunnossapitoa, puhtaa-
+napitoa, kaikkia yhtiöitä, saman tien. Haluan nähdä teidät kaikki kuntapäättäjinä tämän te-
+kemässä.
+
+20.59 Kaj Turunen ps (vastauspuheenvuoro): Arvoisa puhemies! Minä toisaalta ymmär-
+rän tämmöisen muutosvastarinnan, että kaikki uusi pelottaa. (Naurua) Kysymys on siitä,
+15
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+että ei kunnan omistamalla tai valtion omistamalla yhtiöllä ole mitään rajoitteita, kun se
+toimii markkinaehtoisesti sillä markkinalla, mutta jos haluaa pitää sen suljetun markkinan,
+on täysin ymmärrettävää, että kun sitä käytännössä kuitenkin kompensoidaan sitä kautta,
+(Sirpa Paatero: Ei kompensoida! — Tuula Haatainen: Ei, ei!) niin verovaroilla ei kilpailu-
+neutraliteettia loukata.
+
+Täällä edustaja Essayah kysyi, miten voidaan luottaa, että perussuomalaisten 4. ponsi to-
+teutuu. Arvoisa puhemies, eduskunta on tämän maan ylin päättävä elin, ja jos eduskunta
+edellyttää, että hallitus huomioi sosiaali- ja terveyspalvelujen lainsäädännössä vammais-
+ten ja vanhusten asumispalvelujen järjestämisen inhimillisellä, asiakaslähtöisellä tavalla,
+niin se toteutuu. Ja tässä on vain seurattava, että nämä ponnet ja erityisesti tämä 4. ponsi tu-
+levat hoidetuksi, ja on varmaankin (Puhemies koputtaa) talousvaliokunnan tehtävä seurata
+tätä asiaa.
+
+21.01 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Todellakin tä-
+hän sidosyksikköasiaan on kyllä palattava, koska jotenkin se tuntuu todella niin kummal-
+liselta, että kun Euroopassa muualla katsotaan, että se 20 prosentin raja on ihan riittävän
+hyvä tähän ulosmyyntiin, niin minkä ihmeen takia meillä Suomessa, jossa on pitkät väli-
+matkat ja harva asutus, meidän pitää lähteä 5 prosentista tai 500 000 eurosta. Ajatellaan nyt
+vaikka työterveyshuoltoa, joka pienellä paikkakunnalla kaukana kasvukeskuksesta myy
+sitä työterveyshuoltoa esimerkiksi paikkakunnan maatalousyrittäjille tai pk-yrittäjille. Sit-
+ten kun raja tulee vastaan, niin ei muuta kuin lähdet satoja kilometrejä ajamaan sinne lä-
+himpään yksityiseen lääkärifirmaan, joka on jossakin siellä kasvukeskuksessa, koska et voi
+ostaa sieltä paikalliselta terveysasemalta tai terveyskeskukselta niitä työterveyshuollon
+palveluita. Minusta tämä on kummallista, että miksi ammutaan nilkkaan ja nimenomaan
+vielä niitä pk-yrityksiä ja maatalousyrittäjiä tässä — tämä on minusta aivan käsittämätön-
+tä. Ne, jotka ovat laatineet näitä rajoja, ovat kuvitelleet olleensa yrittäjien asialla (Puhe-
+mies koputtaa) mutta ovat itse asiassa yrittäjiä vastaan.
+
+21.02 Tuula Haatainen sd (vastauspuheenvuoro): Arvoisa puhemies! Kun tässä on ky-
+seessä se, että kunnilla on työterveyshuoltolain perusteella velvollisuus järjestää työterve-
+yshuolto alueen työpaikoille ja siellä on juuri pienyrittäjiä paljon, niin nyt jos tätä sidosyk-
+sikköä koskevaa säätelyä näin muutetaan, niin kuin hallitus nyt esittää, eli kiristetään, niin
+se tarkoittaa käytännössä sitä, että nämä eivät voi myydä tätä vapaaehtoisuuteen perustu-
+vaa sairaanhoitopalvelua sitten enää, niin kuin on järkevän työterveyshuoltokäytännön ni-
+missä tehty. Eli tavallaan kunnat, sairaanhoitopiirit, kuntayhtymät tulevat huijatuiksi, kos-
+ka ne ovat perustaneet nämä yhtiöt siksi, että kuntalaki ja kilpailulainsäädäntö edellyttivät,
+että tämä toiminta pitää yhtiöittää, ja se yhtiömalli ja toiminta rakennettiin sen varaan, että
+se on about 10 prosenttia, jota voi myydä ulos, ja kun nyt sitten kiristetään tämä 5 prosent-
+tiin, niin tässä tulee raja vastaan ja sitä toimintaa ei voida enää siellä jatkaa. Eli totisesti:
+tämä laki lyö korville (Puhemies koputtaa) työterveyshuoltoa.
+
+21.03 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Kyllä tämä
+tosi ongelmalliseksi tekee tämän koko toteuttamisen. Kun nyt tällä kilpailulainsäädännöllä
+tätä viedään 5 prosenttiin, niin kyllähän tämä mahdollistaa niitten kartellien syntymisen
+sinne kunnalliselle sektorille, missä ennen on ollut kunnallisia osakeyhtiöitä. Nyt kun sitä
+rajaa viedään keinotekoisesti niin pieneksi, niin se tarkoittaa, että yksityinen toimija voi
+16
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+muodostaa sillä alueella kartellin ja hinnoitella ne palvelut tähtitieteellisiin summiin siihen
+nähden, että meillä olisi ollut kunnallinen yritys siellä toimijana. En vain käsitä sitä, miksi
+tässä on sorruttu nielemään tällainen Lex Savonlinna -ajattelutapa, että jos joinakin vuosi-
+na jossakin kohtaa on joku kunnallinen organisaatio toiminut vastoin periaatteita, mitä yri-
+tyspuolella on, niin nyt me sitten maksamme siitä tämmöisen hinnan.
+
+21.04 Krista Mikkonen vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! On kyllä
+itsekin ihmeteltävä tätä 5 prosentin sidosyksikkörajaa, mikä tähän halutaan nyt. Sehän on
+tässä keskustelussa nyt tullut selväksi, että keskusta ja perussuomalaiset eivät ole tätä ha-
+lunneet vaan se on tullut nyt selvästi kokoomuksen taholta.
+
+On ihmeteltävä, miksi emme mene tällä EU:n hankintadirektiivin 20 prosentilla. Aivan
+kuten täällä on moneen kertaan kerrottu, kyllähän Suomi harvaan asuttuna maana on ni-
+menomaan se, missä tämä 20 prosenttia ei ole ollenkaan liikaa. Ja kun me tiedämme, että
+paljon näitä kuntien yhtiöiden järjestämiä palveluita on pitänyt tehdä juuri sen takia, että
+alueella ei ole kilpailua eikä markkinoita, niin nyt, jos se mahdollisuus tässä poistuu, ol-
+laan kyllä tilanteessa, jossa palveluita ei ole saatavilla eri puolilla Suomea ja siellä ei tule
+syntymään yksityisiä toimijoita, jotka voivat vastata kysyntään, kun kysyntä on niin pien-
+tä. Kyllä tämän rajan ehdottomasti (Puhemies koputtaa) pitäisi olla 20 prosentissa.
+
+21.05 Arto Pirttilahti kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Juurikin
+tuosta Myllykosken esille nostamasta kartelliasiasta on se ponsi, missä viitataan tähän pk-
+sektoriin, että pyrittäisiin sitä liennyttämään, mutta pelko on juuri näinkin, että on isoja yri-
+tyksiä, mitkä sitten vievät ne pienet toimijat.
+
+No, kuitenkin hankintalain keskusta on sitten hallituksessa ollut hyväksymässä ja on hy-
+väksynyt tämän pohjan näin, niin kuin tuossa edustaja Hoskonenkin sanoi. Toinen asia on,
+että tämä on yleislaki, ja kun nyt sitten joudumme jokaisen lain osalta miettimään ne sido-
+syksiköt todennäköisesti erikseen, jätelain kanssa ja sosiaali- ja terveydenhuoltolaissa, niin
+todennäköisesti tässä salissa tämä keskustelu sidosyksikköprosentista jatkuu vielä näitten
+eri lakien puitteissa.
+
+Puhemies Maria Lohela: Nyt käydään takaisin puhujalistan pariin.
+
+21.06 Katri Kulmuni kesk: Arvoisa rouva puhemies! Tässä hankintalaissa on paljon hy-
+viä asioita. Siellä on selkeitä parannuksia liittyen innovatiivisiin hankintoihin, liittyen pa-
+rempiin laatu-, ympäristö- ja sosiaalisten näkökohtien huomioimiseen. Siellä on paljon rat-
+kaisuja, jotka auttavat pk-yrityksiä: neuvottelumenettelyjä, hankintojen jakamista, hallin-
+nollisen taakan pienentämistä, ostotarjousten tekemistä ja pienempiä hankintaeriä. Kilpai-
+lutusrajat nousevat aivan hyvälle tasolle.
+
+Sitten tietenkin on tämä kysymys tästä sidosryhmien ulosmyynnistä. Kieltämättä se on
+ollut pitkä prosessi myös meillä valiokunnassa, ja olemme sitä kovasti pohtineet eri näkö-
+kulmilta. Kipukysymyksiksi nousivat jätehuoltoon liittyvät seikat ja tässä keskustelussa
+tulleet sosiaali- ja terveydenhuollon palveluihin liittyvät seikat, ja voin kyllä tunnustaa, että
+kyllä keskustan toiveena oli norminpurkuhengessä ja ylipäänsä sillä linjauksella, että
+emme koeta ottaa EU:lta lisävelvoitteita tai -taakkaa vaan suoritamme sen minimin mu-
+kaan, mitä on mahdollista tehdä. Tässä asiassa sikäli tämä 5 prosenttia tuntuu kyllä hieman
+17
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+haastavalta, kun mahdollisuus olisi ollut nelinkertaistaa se asia. Mutta tietenkin nämä ovat
+aina kompromisseja, ja ei kaikkea pysty aina saamaan.
+
+On erittäin tärkeää, että sitten nyt jatkovalmistelussa esimerkiksi jätelain osalta ja myös
+jatkossa sosiaali- ja terveyspalvelujen osalta huomioidaan nämä valiokunnan lausumaeh-
+dotukset. Täällä on kuitenkin tunnustettu ja tunnistettu, että on mahdollista, että joiltain
+osin tässä syntyy haasteita, ja etenkin alueilla, joilla välimatkat ovat pitkiä, huolta tämä laki
+tietyssä määrin herättää. Mutta olen vakuuttunut, että tämä hallitus kerkeää myös (Puhe-
+mies koputtaa) nämä asiat jatkovalmistelussa hoitamaan kuntoon.
+
+21.08 Jani Mäkelä ps: Arvoisa puhemies! Nyt kun puhutaan yleisesti ottaen tästä laista
+isossa kuvassa eikä nyt näistä muutamista ehkä hieman ongelmallisista kohdista, niin kyllä
+tämä kokonaisuudessaan on ihan hyvää lainsäädäntöä. Hallituksen tavoitteena oli tehostaa
+julkisten varojen käyttöä ja yksinkertaistaa hankintamenettelyä, selkeyttää lain keskeisiä
+käsitteitä, parantaa pienten ja keskisuurten yritysten osallistumismahdollisuuksia tarjous-
+kilpailuissa ja parantaa mahdollisuuksia huomioida ympäristö- ja sosiaalisia näkökohtia
+sekä turvata tarjoajille tasapuolinen ja syrjimätön kohtelu julkisissa hankinnoissa. Totta kai
+näitä tavoitteita on helppo kannattaa, ja näitä tämä lakiesitys myös palvelee.
+
+Varmaankin myös talousvaliokunta on kuullut erittäin runsaasti asiantuntijoita ja pereh-
+tynyt asiaan perusteellisesti. Perustelut ovat pitkät ja täynnä painavaa asiaa. Valiokunnan
+muutosesityksiin on helppo yhtyä. Tämä käsittely on ollut hyvin laaja myöskin lausunto-
+valiokunnassa, hyvin työläs. Itse osallistuin siihen liikenne- ja viestintävaliokunnan puo-
+lella, ja mekin siellä jotain tähän lausuimme.
+
+21.09 Sari Essayah kd: Arvoisa rouva puhemies! On todellakin yhdyttävä niihin näke-
+myksiin, että kuitenkin — vaikka tuossa debatissakin kriittisiä puheenvuoroja käytin —
+valtaosaltaanhan tässä hankintalainsäädännössä ollaan menossa ihan oikeaan suuntaan.
+Syyhän on se, että tämä meidän edellinen hankintalaki ja se, mihin se on perustunut, elikkä
+tämä julkisten hankintojen direktiivi ovat olleet sellaisia, että niissä on ollut päivittämistar-
+peita ja korjaamistarpeita. Todellakin, ei ainoastaan Suomessa näitten julkisten hankinto-
+jen ja kilpailutusten kanssa ole epäonnistuttu, kyllä sitä on tapahtunut muuallakin päin Eu-
+rooppaa.
+
+Kuitenkin jo viime kerralla, kun sitä kansallista hankintalakia teimme, teimme sen vir-
+heen, että vedimme ne kansalliset raja-arvot paljon tiukemmiksi kuin mitä direktiivi olisi
+sallinut. Meillähän kävi sillä tavalla, että Suomesta tuli Euroopan unionin eniten kilpailut-
+tava jäsenmaa ja markkinaoikeus meni tukkoon erilaisista valituksista. Siinä mielessä voi
+sanoa, että erityisesti tänne Suomeen on todella tervetullutta, että me nyt tekisimme sitten
+hyvän kansallisen hankintalain ja käyttäisimme kaikki ne joustomahdollisuudet, mitä tässä
+julkisten hankintojen direktiivin uudistuksessa on käytettävissä.
+
+Siinä mielessä valtaosaltaan voi sanoa, että tässä on tehty hyvää työtä, mutta sitten nos-
+taisin nämä muutamat asiat esille.
+
+Elikkä ensinnäkin nämä sidosyksiköt. Tosiaankin, niin kuin totesin, niiden ulosmyynti-
+prosentit olisivat olleet Euroopan unionin julkisten hankintojen direktiivissä 20 prosenttia
+liikevaihdosta, ja myöskään tällaisia euromääräisiä ylärajoja, mitä me kansallisessa han-
+kintalaissa nyt olemme hallituksen toimesta lähteneet tekemään, siellä ei ole ollut. Toisaal-
+ta sitten nämä hallituksen asettamat rajat varmasti tulevat aiheuttamaan merkittäviä ongel-
+mia kunnallisille yhtiöille useilla toimialoilla ja myöskin vaikeuttaisivat ja nostaisivat kus-
+18
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+tannuksia pk-yrityksille ja myöskin näille maatalousyrittäjille, niin kuin tuossa edellä tote-
+sin. — Huomaan, että haluan vielä jatkaa puhetta, joten siirryn sinne puhujapönttöön. (Pu-
+huja siirtyi puhujakorokkeelle)
+
+Kiitoksia, arvoisa rouva puhemies! Tosiaankin tätä asiaa tästä direktiivistä ja tästä kan-
+sallisesta hankintalaista kyllä riittää yli tuon 2 minuutin. — Toinen asia, mihin sitten myös-
+kin omassa KD:n vastalauseessa tein muutosesityksen, liittyi sosiaali- ja terveyspalveluit-
+ten kohdalla olevaan kansalliseen kynnysarvoon. Elikkä nythän meillä on tämä 100 000 ja
+hallituksen esitys lähtee 400 000:sta, mutta tässäkin on muistettava, että direktiivi mahdol-
+listaa sen 750 000 euroa. Ja kuulin näin, että sosiaali- ja terveysvaliokunnassa kuullut so-
+siaali- ja terveysalan kaikki asiantuntijat olivat sanoneet, että tämä 750 000 olisi se hyvä
+kansallinen kynnysarvo. Erityisesti tässä yhteydessä nyt on kiinnitettävä huomiota niin tä-
+män sidosyksikön kohdalla kuin myöskin sitten näitten sosiaali- ja terveyspalveluitten kan-
+sallisen kynnysarvon kohdalla siihen, että meillä on tämä sote-valmistelu tällä hetkellä
+kesken. Siinä mielessä, kun emme tiedä, millä tavalla tullaan sitten tämä valinnanvapaus
+lopullisesti toteuttamaan, on ollut hivenen hankalaa myöskin sitten pohtia sitä, millä taval-
+la tätä hankintalakia tullaan tekemään, jotta voidaan varmistaa, miten esimerkiksi nämä so-
+siaali- ja terveyspalvelut — siltä osin kuin ne koskevat vanhusten ja vammaisten asumis-
+palveluita, vaikeavammaisten palveluasumista ja henkilökohtaista apua — tullaan lopulli-
+sesti toteuttamaan. Niin kuin totesin debatissa, uskon, että tämän salin yhteinen tahtotila
+on, että nämä palvelut ovat niin erityisiä palveluita — nämä ovat näille ihmisille elämän
+mittaisia palveluita — että me emme tosiaankaan halua, että ne joutuvat jonkinlaisen huu-
+tolaiskilpailutuksen kohteeksi, että kuka halvimmalla hoitaa, niin sille sitten nämä palvelut
+annetaan hoidettavaksi. Nämä erityispiirteet pitää pystyä huomioimaan. Toki olen ihan
+tyytyväinen siitä, että valiokunnan mietinnössä on tämä ponsi numero 4, mutta olemme
+tehneet tähän KD:n omaan vastalauseeseen vielä ponnen, jossa haluamme muistuttaa siitä,
+että ei todellakaan ole pakko kilpailuttaa tämäntyyppisiä palveluita vaan ne voidaan järjes-
+tää julkisella puolella. Julkinen puoli voi järjestää ne itse, taikka sitten tosiaankin on näitä
+eri tapoja: suorahankintoja tai henkilökohtaista budjetointia ja vastaavaa.
+
+Sitten vielä olisin nostanut esille lausuman numero 3 tässä vastalauseessa. Siinä näitä
+sääntelyvaikutuksia toivotaan seurattavan, ja myöskin sitten erityisesti siltä osin, millä ta-
+valla tämä hankintalaki tulee mahdollistamaan nämä innovatiiviset hankinnat. Elikkä sil-
+loin kun on esitetty jokin ongelma ja siihen haetaan ratkaisua, niin millä tavalla tämä han-
+kintalaki pystyy vastaamaan siihen, että me voisimme hakea ja kilpailuttaa ratkaisua sii-
+hen ongelmaan sen sijaan, että me määrittelemme teknisesti ja täsmällisesti, mitä me ha-
+luamme? Luulen, että tämä innovatiivisten hankintojen mahdollisuus on juuri se, mikä eri-
+tyisesti auttaisi pieniä ja keskisuuria yrityksiä tasapuolisesti olemaan mukana markkinoil-
+la. Toivon, että tämä 3. ponsi olisi myös sentyyppinen, jossa näkisin, että tähän aivan hyvin
+koko eduskunta voisi yhtyä.
+
+Valiokunnan mietinnössä on myöskin haluttu alleviivata sitä, että koko tässä hankinta-
+laissa on äärimmäisen tärkeää se, että pienillä ja keskisuurilla yrityksillä olisi tasapuoliset
+mahdollisuudet osallistua julkisiin hankintoihin. Tässäkin on todettava, että kun emme tie-
+dä, minkälaiseksi tämä sote- ja aluehallintoratkaisu nyt tulee, emme tiedä, minkä kokoisia
+hankintayksiköitä on tulossa ja kuinka suurelta alueelta lähdetään hakemaan näitä yrityk-
+siä, jotka osallistuvat näihin kilpailutuksiin, niin siinä mielessä huoli on, pystymmekö var-
+mistamaan pienten paikallisten yritysten mukana olemisen näissä hankinnoissa.
+19
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+Kaiken kaikkiaan, niin kuin totesin, ylipäätään on sanottava, että hankintalaista on vä-
+hintäänkin se 90 prosenttia ihan kelvollista, mutta sitten näiden muutaman kohdan osalta
+olisimme toivoneet, että hallituksen sisällä tässä asiassa olisi... Ainakin täällä pidetyistä
+puheenvuoroista sen voin tulkita, että tämä sidosyksikkökohta ei ole ollut ilmeisesti aina-
+kaan keskustalle ja perussuomalaisille mieluinen, ja olisi ollut kyllä hyvä, jos heidän tah-
+totilansa olisi tämän suhteen toteutunut.
+
+21.16 Hannu Hoskonen kesk: Arvoisa herra puhemies! Hallituksen esitys hankintame-
+nettelyä koskevaksi lainsäädännöksi on nyt saanut pitkän väännön ja valiokuntakierrosten
+jälkeen mietinnön muodon. Voi sanoa, että tämä on paljon paljon suurempi laki kuin moni
+ehkä hahmottaakaan. Tämä on valtava mötikkä: julkisten hankintojen arvo on yhteensä 34
+miljardia euroa vuositasolla. Tämä on kyllä sellainen paketti, joka mielestäni vaatisi vielä-
+kin perusteellisemman käsittelyn, mutta kaikella on tietenkin tässäkin talossa aikansa ja ra-
+jansa. Loputtomiin aikaa ei ole tässäkään talossa käytettävissä.
+
+Lain tarkoituksena on tehostaa julkisten varojen käyttöä ja helpottaa hankintamenette-
+lyä. Tavoitteet ovat erittäin hyviä ja kannatettavia, ja pitää muistaa, että niitä, mitkä vielä
+nyt parhaillaan voimassa olevassa hankintalaissa ovat olleet ongelmia, on pyritty nyt sitten
+parantamaan tässä uudessa esityksessä. Kohtuullisen hyvin siinä on kyllä onnistuttukin,
+toki ei mielestäni täydellisesti.
+
+Hankintalaki perustuu useaan Euroopan unionin direktiiviin, joita tietenkin Suomen tu-
+lee noudattaa. Joskus olen kyllä itse esittänyt kainoja toivomuksia siihen suuntaan, että
+suomalaiset yleensä kaikissa direktiivien implementoinneissa olisivat hieman enemmän
+Suomeen päin kallellaan. Jos jonnekin haluaisi tehdä opintomatkan, niin kannattaa käydä
+Ruotsissa. Siellä tämä taito osataan viimeisen päälle. Toivon, että jos tässä asiassa joskus
+opintomatka tehdään, niin käydään vaikka Ruotsissa sitten.
+
+Talousvaliokunta pitää ehdotettua lakia tarpeellisena. Tämä laki on selkeästi yleislaki,
+jota sitten toimialakohtaisilla sektorilainsäädännöillä täsmennetään. Sieltä otetaan sitten
+tarkempia syöttöjä tähän, miten hankintalakia toteutetaan käytännössä. Tähänhän viittaa-
+vat muun muassa ne neljä pontta, jotka valiokunta hyväksyi mietinnön käsittelyn yhteydes-
+sä.
+
+Tämän lain soveltamisala on todella laaja. Voi sanoa, että jos joku tämän hankintame-
+nettelyn osaa täydellisesti, kumarruksen kanssa häntä kyllä kiitän. Se nimittäin on sen ver-
+ran valtava paketti, että ihmetellä täytyy, että joku sen hyvin hallitsee.
+
+Uudenkin hankintalain olosuhteissa hankintaosaaminen nousee entistä korkeampaan ja
+tärkeämpään asemaan. On aivan ensiarvoisen tärkeää, että jokainen julkiseen hankintaan
+valmistautuva julkisyhteisö suorittaa tarjouspyynnön äärimmäisen tarkasti ja huolellisesti,
+koska siinä yhteydessähän sitten oikeastaan ratkeaa se, mitä sillä tilauksella saa. Tulee mie-
+leen muuan suomalainen iskelmä: sitä saa, mitä tilaa. Jos saa huonoa tuotetta ja huonoa pal-
+velua sillä tarjouspyynnöllä, niin ainoa tapa tarkistaa, missä se vika on, on käydä peilistä
+katsomassa.
+
+Se, että uusi hankintalaki sallii hankinnan jakamisen pienempiin osiin, on minun mie-
+lestäni tämän hankintalain parasta antia, ja tämä lainkohta on erittäin hyvin perusteltu.
+Hankinnan saa pilkkoa pienempiin osiin, kunhan ei vain kierrä näin sitten hankintalain
+säännöksiä, että mennään hankintarajojen minimin alitse. On tärkeää huomata, että tämä
+mahdollisuus pitää käyttää. Voimassa olevan hankintalain mukaan tätä mahdollisuutta on
+kovin heikosti käytetty, mutta nyt tässä hankintalaissa ja mietinnössä tätä nimenomaan ko-
+20
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+rostetaan ja sitä suorastaan yllytetään käyttämään. Pienet yhtiöt ja toimijat saavat näin ol-
+len aidon mahdollisuuden olla mukana julkisissa hankinnoissa. Ja tämä on äärimmäisen
+tärkeä asia.
+
+Talousvaliokunta kiinnittää huomiota siihen, että tarjouskilpailuissa ei saa laittaa sellai-
+sia ehtoja, kuten liikevaihtominimi, jotka sulkisivat pois pienempiä kilpailijoita tai muuten
+jonkun kilpailijan pois tarjousta tekemästä. Tämä on äärimmäisen tärkeä kohta, koska mo-
+nestihan olen nähnyt semmoisiakin tarjouspyyntöjä, joissa nimenomaan tällä liikevaihdon
+minimillä on suljettu pois joitakin tarjouksen tekijöitä. On syytä muistaa, että suomalainen
+yrityskenttä on todella monipuolinen ja korkeatasoinen, että ei missään nimessä pidä tar-
+jouspyynnöllä sulkea ketään pois siitä tarjouskilpailusta. Kyllä tässä maassa osataan mo-
+nia asioita, se potentiaalinen mahdollisuus pitää ottaa vain paljon paljon paremmin käyt-
+töön kuin tänä päivänä.
+
+Sitten, arvoisa puhemies, lopuksi tästä sidosyksikkösääntelystä. Se, että nämä direktii-
+vin asettamat minimit, 5 prosenttia ja 500 000 euroa, tulevat siirtymäajan jälkeen voimaan,
+ei mielestäni ollut se optimaalinen tilanne, johon olisin itse halunnut päästä. Mutta politiik-
+ka on aina kompromissien tekoa, ja kaikkea ei saa, mitä haluaa.
+
+Kuitenkin nämä neljä pontta, mitkä valiokunta mietinnössään on nostanut vahvasti esil-
+le, tulee ottaa tarkasti käyttöön. Näistä jätelainsäädännön ongelmista on puhuttu paljon,
+mutta jätelainsäädännössä kyllä toki tarkemmin säädetään näistä asioista sitten, kun jätela-
+kia ollaan uusimassa.
+
+Mutta se, mikä minua huolestuttaa ihan aidosti, on tämä sote-ympäristö. Valinnanva-
+paus on tulossa tänne sote-puolelle. Miten sen sitten käy? Olen ne huolet kyllä reilusti
+omilla kirjoituksillani ja julkituloillani tuonut esille ja edelleen olen samaa mieltä. Kyllä
+minun mielestäni tähän asiaan pitää kiinnittää erityistä huomiota. On aivan selvää, että
+Helsingin kokoisessa kaupungissa tai vaikka Turussa taikka Tampereella kilpailu varmasti
+pelaa. Siellä on toimijoita, ja siellä on tapahtumia. Mutta miten se pelaa Ilomantsissa, Ut-
+sjoella ja vaikkapa Muoniossa? Veikkaan, että ei niin hyvin sitä kilpailua ole siellä. Suomi
+on niin erilainen maa, että näiden erilaisten asioiden huomioiminen yhdellä lainsäädännön
+pykälällä on täysin mahdotonta. Se on meidän syytä tunnustaa.
+
+Mutta emmehän me vielä tiedä näitä valinnanvapauden mahdollisuuksia ja sitä, miten se
+suhtautuu tähän nyt esillä olevaan uuteen hankintalakiin. Sen me näemme sitten, kun sen
+aika on. Mutta tärkeää on siinä muistaa se, että kaikesta huolimatta, olkoon niitä uusia la-
+keja niin tämä hankintalaki kuin se seuraava sote-lainsäädäntökin, laeissa pitää huomioi-
+da, että ihminen saa hyvää palvelua kotiseudullaan ja palvelut ovat kaikkialla tarjolla. Sil-
+loin ollaan oikeilla jäljillä. (Timo Heinonen: Se on sote-uudistuksen lähtökohta!)
+
+21.23 Eeva-Johanna Eloranta sd: Arvoisa puhemies! Hallituksen esitys sisältää kiistat-
+ta paljon oikeansuuntaisia muutoksia: julkisiin hankintoihin liittyviä muodollisuuksia ke-
+vennetään, pk-yritysten osallistumismahdollisuuksia parannetaan ja innovaatioiden tuke-
+minen hankinnoilla mahdollistetaan sekä laadullisten, sosiaalisten ja ekologisten kritee-
+rien huomioimisen mahdollisuuksia myöskin vahvistetaan jonkin verran.
+
+Ottaen kuitenkin huomioon hankintadirektiivien tarjoamat mahdollisuudet ja julkisten
+hankintojen suuren merkityksen näitä muutoksia olisi ollut perusteltua viedä kyllä huomat-
+tavasti pidemmälle. Laatuun ja kokonaiskustannuksiin liittyvät kriteerit olisi kilpailutuk-
+sissa tullut asettaa selkeästi ensisijaisiksi pelkkään hankintahintaan nähden. Myöskin inno-
+vaatioiden edistämiselle olisi pitänyt asettaa kunnianhimoisempia ja konkreettisempia ta-
+21
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+voitteita, ja sosiaalisiin tekijöihin ja työntekijöiden oikeuksiin liittyvät säännökset jäävät
+heikoiksi. Sosiaali- ja terveyspalveluiden hankintoja koskevassa sääntelyssä ei riittävästi
+puututtu niihin ongelmiin, joita nykyisen hankintalain aikana on ilmennyt.
+
+Suurin ongelmakohta kuitenkin liittyy sidosyksiköiden toiminnan voimakkaaseen ra-
+joittamiseen, josta täällä on ollutkin paljon jo keskustelua. En lähde sitä toistamaan mutta
+ihmettelen vain, kun hallitus muuten korostaa aina EU:n minimisääntelyn mukaan mene-
+mistä, minkä takia tässä asiassa sitten on haluttu säädellä huomattavasti EU:ta tiukemmin
+ja rajaksi asetettiin in-house-yhtiölle tosiaankin tuo 5 prosenttia, vaikka 20 prosenttia olisi
+sitten EU-direktiivin mukaan ollut ihan sallittava.
+
+Syytä on kuitenkin kiinnittää huomio siihen, että hankintalailla on vaikutuksia sosiaali-
+ja terveyspalveluiden ja erityisesti vammaisten elinikäisten palveluiden järjestämiseen, ja
+sote-palveluiden kilpailuttamisvelvollisuuden alarajaa tulisikin nostaa sinne direktiivin
+sallimaan enimmäismäärään ja palveluiden laatu ja asiakkaan oikeuksien toteutuminen tu-
+lisi vahvemmin huomioida kilpailutuksissa. Olisi myös syytä aloittaa valmistelemaan so-
+siaali- ja terveysalan erityisten henkilöpalveluiden, kuten vammaisten elinikäisten palve-
+luiden, järjestämistä pääsääntöisesti muilla tavoilla kuin hankintalain mukaisella kilpailut-
+tamismenettelyllä näihin palveluihin liittyvien erityispiirteiden vuoksi.
+
+21.25 Joona Räsänen sd: Arvoisa puhemies! Niin kuin täällä on monesti tullut jo ilmi,
+julkiset hankinnat ovat euromääräisesti erittäin merkittävä kokonaisuus kansantaloudes-
+samme. On kiistatonta, että nyt tämä hankintalakiesitys tuo parannuksia nykytilaan, kuten
+esimerkiksi nämä innovatiiviset hankinnat, kynnysarvojen nostamiset ja myös tämä han-
+kintojen pilkkominen. Mutta on varmaan syytä todeta, että joiltain osin oltaisiin voitu olla
+vieläkin kunnianhimoisempia ja tuoda vielä vahvemmin näitä laadullisia perusteita ja
+myös todella erilaisia muita toimenpiteitä, joilla oltaisiin lisätty tässä laissa myös sosiaa-
+lista ja ekologista oikeudenmukaisuutta, enemmän.
+
+Mutta sitten vielä puutun tähän sidosyksikkösääntelyyn. Niin kuin täällä on monesti to-
+dettu, tässähän todella nyt Suomessa tehdään tiukempaa kansallista sääntelyä kuin mis-
+sään muussa EU-maassa tämän asian osalta. On vaikea kuvitella, että jotenkin tämä tilanne
+olisi niin erilainen muissa Euroopan maissa, että siellä kyllä tämmöinen julkinen sidosyk-
+sikkö voi toimia myös markkinoilla 20 prosentin ulosmyyntiosuudella mutta Suomessa
+olisi jotenkin niin kummallisia julkisia liikelaitoksia tai osakeyhtiöitä, että ne aiheuttaisi-
+vat markkinahäiriköintiä paljon enemmän kuin muissa Euroopan maissa. On hyvä myös
+todeta, mitä Suomessa nämä sidosyksiköt ovat tehneet, että kun he ovat myös pystyneet
+ulosmyynnillään helpottamaan nimenomaan alueiden pk-yrityksiä ja esim. maataloustuot-
+tajia, niin he ovat myös käyttäneet sen ansaitun voiton hintojen alentamiseen, joka on sit-
+ten hyödyttänyt niin kuntalaisia sillä alueella kuin myös muita toimijoita, ja on sääli, että
+nyt tämän lakiesityksen osalta ollaan vaikeuttamassa näiden sidosyksiköiden toimintaa.
+
+21.27 Sirpa Paatero sd: Arvoisa herra puhemies! Hankintalaki on laki, joka tuntuu ole-
+van tässä eduskunnassa joka hallituskausi, koska muistan, että olen saanut itse olla sitä
+muokkaamassa jo muutaman kerran. Joka kerta on myös uusia parannuksia tullut, ja aloi-
+tan niistä, joista kilpailutusrajojen nostot erityisesti sosiaali- ja terveydenhuollon palveluis-
+sa ovat hyvä uudistus. Siinä olisi vieläkin ollut varaa nostaa se sinne 750 000 euroon asti.
+En tiedä, miksi siihen ei nyt menty, vaikka kaikki kuultavat ymmärtääkseni sosiaali- ja ter-
+veysvaliokunnassa olivat olleet tämän kannalla, että oltaisiin menty siihen Euroopan uni-
+22
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+onin sallimaan rajaan asti. Myöskin ostojen osalta tuli korotuksia, ja siksi hämmästelinkin
+hieman, miksi rakennusurakoissa jäätiin siihen 150 000 euroon, mikä on ollut tässä Suo-
+men lainsäädännössä jo pidempään. Miksi, kun tiedetään, että rakennusurakat ovat usein
+varsin mittavia, ei haluttu sitten nostaa sitä rajaa eteenpäin? En vielä ymmärtänyt näitä,
+vaikka kuinka yritin lukea noita lausuntoja.
+
+Se on hyvä myöskin, että innovatiivisuutta lisätään ja joustavuutta sekä hankintojen ja-
+kamista, joskin sekin on ollut tälläkin hetkellä mahdollista, että pienemmät yritykset ovat
+yhdessä voineet tarjota ja osallistua näin kilpailutukseen. Meillä on noissa lausunnoissa —
+sekä hallintovaliokunnan, jossa olen ollut mukana, että myös talousvaliokunnan lausuntoa
+kun katsoo — myöskin eriäviä mielipiteitä, ja yksi niistä liittyy laatuun. Olisimme halun-
+neet, että missään tapauksessa, etenkään palveluissa, laatu ei olisi ainoa kriteeri, ja nythän
+sitä ei ole rajattu pois, vaan se voi yhä edelleen olla. Täällä lukee, että "poikkeustapauksis-
+sa". Miksi se pitää aina määritellä erikseen, milloin sitten laatu ei ole siellä mukana tai mil-
+loin se on mukana? Sen pitäisi olla siellä aina mukana ja erityisesti, kun mietitään palve-
+luita.
+
+Pointti siihen, että meillä näiden täälläkin mainittujen kehitysvammaisten ja ikäihmis-
+ten asuinpalveluiden ei pitäisi olla joka toinen vuosi kilpailutuksen piirissä. Ei ole kohtuul-
+lista, että ihmisten asunto, koti, sänky ja se hoitaja vaihtuvat muutaman vuoden välein. Se
+ei ole mitenkään inhimillistä, ja se pitäisi tästä saada pois hoidettua niin, että sitä kilpailu-
+tusta ei tarvitse tehdä.
+
+Hyvin hämmentynyt olin siitä, kun hallintovaliokunta yksimielisesti, kaikki puolueet
+yhdessä, teki oman lausuntonsa ja siellä on tämä kohta, harmaan talouden kitkeminen, niin,
+että tässä hankintalaissa olisi poissulkemislistaukseen laitettu lisää kriteereitä elikkä rikok-
+sia, jotka automaattisesti sulkisivat yritykset pois niin, että kunnan ei erikseen aina tarvitse
+määritellä, että okei, jos yritys on tehnyt ympäristörikoksia, jos heillä on vakuutuspetok-
+sia, jos heillä on törkeitä petoksia, jos he ovat liiketoimintakiellossa — esimerkkinä nämä,
+siellä oli lisää — miksi nämä pitää joka kerta uudelleen aina määritellä. Miksi ne eivät ole
+automaattisesti poissulkevia, että jos yritys on liiketoimintakiellossa, niin se ei saa ja se ei
+voi osallistua kilpailutukseen? Tämä on harmaan talouden osalta yksi hyvin olennainen li-
+säkeino, ja nyt sitä ei haluttu käyttää. Edustaja Turunen, puheenjohtaja talousvaliokunnas-
+ta, sanoi, että kunnat sitten voivat, jos ne haluavat, käyttää tämän keinon. Me olisimme
+koko hallintovaliokuntana halunneet sen toisin.
+
+Tämä Kilpailu- ja kuluttajaviraston valvonta on varmaan perusteltua, joskin olisin toi-
+vonut, että neuvontaan kiinnitettäisiin enemmän huomiota, sillä siihen puoleen olisi tarvet-
+ta, varmaan valvontaankin on tarvetta. Muun muassa siellä valvonnassa on yksi ongelmal-
+linen kohta: se, että nyt, kun meillä on se määräaika, milloin yritykset voivat haastaa toiset
+yritykset, että kilpailutus on toteutettu huonosti tai että heillä olisi ollut parempi mahdolli-
+suus, tähän on sitten tullut tämmöinen puolen vuoden aika, jolloin kuka tahansa saa kiistää
+tämän hankintapäätöksen. Puoli vuotta on, tiedättekö, aika pitkä aika sille kunnalle tai
+muulle julkisyhteisölle tai sille yritykselle odottaa, kiistääkö joku tämän päätöksen. Voi ol-
+la, että palvelut on aika pitkälle jo valmisteltu, ja voi olla, että ne joudutaan sitten yhtäkkiä
+peruuttamaan, vaikkapa nämä asuinpalvelutkin, jos joku keksii sen puolen vuoden aikana
+tämmöisen valituksen ruveta pistämään eteenpäin. Tämmöinen ongelma siellä on.
+
+Nämä pelastuslaitokset ovat yksi ongelma, joka tulee nyt tässä soten yhteydessä niin,
+että siellä on riski siihen, että ensihoitoa yhtäkkiä ei olekaan tai ensihoito joudutaan kilpai-
+luttamaan markkinoilla eikä sitä saa edes tehdä sidosyksikköön. Jos tämä toteutuu, niin
+23
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+meillä tuhoutuu iso osa suomalaista terveydenhuollon palaa, joka on ollut todella tärkeä ja
+merkittävä ihmisten turvallisuuden kannalta, että meillä on pelastustoimi, jonka yhteydes-
+sä on ensihoito ja siellä ne ensivasteesta vastaavat lääkärit ja hoitajat. Jos tätä ei saa tällä ta-
+valla toteuttaa, niin kuin nyt on riski siinä soten yhteydessä, niin me olemme ongelmissa
+monilla paikkakunnilla, missä se sairaala ja lääkäri ovat kaukana.
+
+Tämä moneen kertaan mainittu ongelmallinen 5 prosentin tai 500 000 euron raja on kä-
+sittämätön, sillä semmoista ei ymmärretä eikä todella tarvita missään muussa maassa kuin
+Suomessa — ei missään muussa maassa kuin Suomessa. Se koskee todellakin niin labora-
+torioita kuin vanhusten ruokahuoltoa, tukipalvelua, puhtaanapitoa, kunnossapitoa, työter-
+veyshuoltoa, jätettä ja monia muita yhtiöitä, kunnallisia ja kuntayhtymien omistamia yhti-
+öitä. Nämä eivät ole markkinahäirikköjä, sillä tuottaessaan ja myydessään ne toimivat
+kaikki markkinaehtoisilla hinnoilla. Sitä valvovat sekä nämä virastot että markkinatuomio-
+istuimet ja toiset yritykset. Että semmoinen väite, mitä edustaja Turunen täällä esitti, että
+sitä subventoidaan jotenkin kunnan muilla toiminnoilla, ei ole mahdollinen, se on lailla
+kielletty. Se on markkinaehtoista.
+
+Meillä ongelma tulee olemaan siinä, että meille tulee suuria yhtiöitä, jotka alihinnoitte-
+levat omat ensimmäisten vuosien palvelunsa tullakseen sisälle niihin kuntiin ja kuntien
+palveluihin, ja kun monilla paikkakunnilla on olemassa vain se kunta tai kuntayhtymä ja
+ehkä yksi toinen toimija, niin nyt me avaamme yksityisen monopolimahdollisuuden, kun
+kuntapuolen toimijat eivät saa enää olla osallisina näissä kilpailutuksissa. Se on minun
+mielestäni ihan käsittämätöntä, ja kuten toistin jo äsken, on jo tällä hetkellä tiedossa yli sata
+yhtiötä, jotka joutuvat tästä ongelmiin.
+
+Ja vielä kolmas asia edustaja Turusen kommenteissa, mitä en ymmärrä: Miksi meillä hy-
+vät yhtiöt, jotka toimivat monialaisesti, vaikkapa kunnostusta ja puhtaanapitoa ja muuta,
+nyt pitäisi pilkkoa? Minä en käsitä, mitä ihmeen järkeä siinä on — vain siksi, että saadaan
+parempi kilpailutusmahdollisuus joillekin muille yrityksille, niin että se tehokkuus, mikä
+on voitu vaikkapa palkanlaskennassa tai missä tahansa muussa näin järjestää — kaikki se
+hyöty — häviää, kun pitäisi pilkkoa pienempiin osiin nämä yhtiöt, joissa saattaa olla kui-
+tenkin julkisella puolella vain muutama työntekijä. Että nyt me pakkoyhtiöitämme soten li-
+säksi myöskin tämän julkisen puolen kaiken muun ja pilkomme sen samalla tavalla yksit-
+täisiin toimintoihin. Ei kuulosta hyvältä.
+
+21.36 Jari Myllykoski vas: Arvoisa herra puhemies! Täytyy nyt ensi alkuun sanoa, että ei
+tätä hallituksen esitystä kannata ruveta tykillä ampumaan, mutta kyllä semmoisen Lahti-
+konepistoolin verran tästäkin löytyy moitteen sijaa.
+
+Ollaan todella ison kokonaisuuden äärellä, kun puhutaan kuitenkin julkisten hankinto-
+jen noin 34 miljardin kokonaispotista ja siitä, kuinka sitä voidaan jatkossa tehokkaammin
+ja paremmin meidän pk-sektorin yritysten ja sitä kautta myös työllistyvien suomalaisten,
+toivottavasti, työntekijöiden eduksi tulkita. Eli on pakko nostaa esille se, että tämä liike-
+vaihtoproblematiikka on estänyt tällä hetkellä esimerkiksi paikallisten pk-sektorin raken-
+nusyritysten kilpailuasetelman vaikkapa pienen koulun rakentamisessa: on tullut esteelli-
+seksi, kun on edellytetty niin isoja, kolminkertaisia, liikevaihdon määriä kuin mitä on se
+urakkatarjous. Kyllä siinä kohtaa ollaan suljettu pois paikalliset elinkeinotoimen harjoitta-
+jat ja sitä kautta ollaan viety työpaikkoja myös niiltä paikallisilta työntekijöiltä.
+
+Erityisen tärkeäksi nostan kuitenkin työntekijöiden aseman ja sen, että tässä hallituksen
+esityksessä ei oteta toimeliaasti kantaa siihen, että me estämme tämänkin lakiesityksen yh-
+24
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+teydessä sen, että meillä ei harmaata taloutta harjoiteta tässä maassa. Ja siihen olisi kyllä
+toivonut tältä hallitukselta huomattavasti ponnekkaampaa otetta. Voi sanoa, että sosialide-
+mokraattien ja vasemmistoliiton vastalauseessa on tämä asia onneksi nostettu esille, ja toi-
+votaan, että tässä salikeskustelussa sille tulee tarpeeksi painoarvoa, niin että voitaisiin saa-
+da vaikka joku tätäkin koskeva lausuma vielä sitten loppuvaiheessa mukaan.
+
+On käsittämätöntä, että nämä poissulkemisperusteet, joita edustaja Paatero hyvin tuossa
+edellä kuvasi, eivät ole siellä mukana. Miksi väärintekijän poissulkemista ei pidetä auto-
+maattisesti mukana? Minun mielestäni oli hyvä se puheenvuoro, jossa tuotiin esille se, että
+olisi ollut hyvä — oliko edustaja Essayah tai edustaja Hassi, jompikumpi, korjatkaa — juu-
+ri nimenomaan se, että tämä veroseuraamus olisi tehty avoimeksi eli näitten yhtiöitten
+maksamat verot tulisivat esille. Se on itseltäni jäänyt tässä huomaamatta, ja oli todella kiva
+ottaa se tähän omaan puheenvuoroon esille, että näin todellakin pitäisi olla. Silloin meillä
+voisi kuitenkin moraalikeskustelua säilyä siitä, ja yhdessä harmaan talouden torjunnan
+kanssa tämä olisi ollut erityisen hyvä työväline, että näin voitaisiin jatkossa menetellä.
+
+Ollaan paljon puhuttu tämän innovatiivisuusaspektista, ja se on hyvä. Mutta kuultavana
+olleet asiantuntijat, jotka kävivät maa- ja metsätalousvaliokunnassa, eivät monenkaan ky-
+symyksen jälkeen pystyneet sanomaan ja vakuuttamaan, että kun tätä innovatiivisuutta ko-
+rostetaan, niin se tarkoittaa itse asiassa sitä, että se voi luoda referenssiä suomalaisille yri-
+tyksille. Näin varmasti tulee pääosin käymään, mutta itse itselleni annoin ymmärtää, että
+tämä innovatiivisuus täytyy kilpailuttaa.
+
+Jos me haluamme jotakin sellaista, mitä ei ole vielä olemassa — vaikkapa jossain kun-
+nallisessa kaukolämpöyhtiössä halutaan suitsia päästöjä ja halutaan ostaa ja tilata jotakin
+— niin se tarvitsee kilpailuttaa. Ja se on todella huono, että meillä ei voi olla semmoista jär-
+jestelmää innovatiivisuuden osalta, että voisimme mahdollistaa sen, että jos valtio antaa in-
+novaatiotukea, niin silloin ei tarvitsisi tätä hankintaa kilpailuttaa, koska sehän on alkuvai-
+heessa: silloin ei vielä tiedetä, mitä on tulossa. Siihen projektiin ja hankintaan valtio antaa
+tavallaan vaikkapa sen 30 prosenttia innovaatiotukea ajatelluista kustannuksista. Tämän
+mahdollisuuden jääminen niin, että se kaikki on kuitenkin kilpailutettava, jättää minulle
+sen pelon, että joudumme tekemään useamminkin Ruotsin-matkoja katsomaan sitä, kuin-
+ka lämpölaitoksiin, jotka on tehty suomalaisella osaamisella, niitä referenssejä löytyykin
+sitten Ruotsista, mutta vielä murheellisempaa on, että se ei olekaan suomalainen toimija,
+joka sen on tehnyt.
+
+On ollut hyvä huomata, että keskustapuolue on kuitenkin pyrkinyt hallituksessa kovasti
+olemaan kansan asialla ja pyrkinyt omalla osallaan vaikuttamaan siihen, että nämä alueel-
+liset haja-asutusalueella olevat sidosyhtiöt tavallaan tässä jätehuollossa ja kaikessa muus-
+sakin olisivat edelleen mukana, sillä pelkään kyllä todella, ja minä sanoisin, että tämä on
+vielä realistista.
+
+Arvoisa puhemies! On nimittäin niin, että jos meille tulee toimija, joka vaikkapa pesee
+niitä Hoskosen paljon mainostamia toistemme paitoja kunnallisena toimijana, ja tälle luo-
+daan vain 5 prosentin mahdollisuus tuottaa niitä palveluja, niin tulee joku ulkopuolinen
+taho, joka tarjoaa halvemmalla, ja sitten joku kolmas. Eli tässä vaiheessa tietysti on se iso
+toimija, ja sitten tulee joku toimija, joka on tavallaan tilattu siihen kilpailutilanteeseen ja
+tarjoaa vähän kalliimmalla, jotta tämä iso, jopa koko Suomen käsittävä yritys saa sen
+omakseen ja sitä kautta voi ruveta hintoja nostamaan, ja tässä kohtaa tämä hankintalain 5
+prosenttia on kyllä suoraan sanoen kuntalaisia ja suomalaisia nilkkaan ampuva.
+25
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+Mutta lopuksi, arvoisa puhemies, täytyy sanoa, että tämä on mahdollisuus kotimaiselle
+ruualle mutta erityisesti lähiruualle. Nytkin meillä on mahdollisuus tämänkin hankintalain
+voimassa ollessa, kun osaamista olisi, käyttää sitä enemmän hyödyksemme, mutta nyt lain
+sisällä on kuitenkin tätä ohjausta ja ohjaavuutta tähän, kuinka hankintalakia voidaan käyt-
+tää. Se on yksi tämän esityksen pluspuolia ja erittäin vahvoja, niin että hankintaosaamista
+viedään kuntiin, jotta meillä kotimainen lähiruoka ja kotimainen ruoka voivat olla parem-
+min siellä kilpailutettavana. Minun mielestäni on tärkeätä, että kilpailutustilanteessa voi-
+daan edellyttää, että pitää olla meillä olevien kriteerien mukaista, niin että sillä possulla on
+se saparo taikka broilerilla on se nokka. Eli jos meillä itsellä on lainsäädäntö, mitä me ha-
+luamme noudattaa, niin kyllä meidän tässä tilanteessa ruokahankinnoissa pitää pystyä jul-
+kisella puolella määrittelemään, että näiden kriteerien pitää olla kestäviä. Minä ainakin jat-
+kossa haluan tietää, mitä lapseni syö koulussa, mitä meidän vanhukset saavat palvelukes-
+kuksissa. Sen pitää olla kotimaista, mielellään lähiruokaa.
+
+21.45 Lauri Ihalainen sd: Arvoisa puhemies! Täytyy olla todella sitkeitä hankintalain ys-
+täviä, jotka jaksavat täällä vielä tähän aikaan istua, mutta olen iloinen siitä, että näin on.
+
+Tämähän pohjautuu tietysti siihen EU-direktiiviin, josta täällä on paljon mainittu, ja se
+direktiivi oli varsin hyvä selkänoja myös kansallisen lainsäädännön uudistamiselle. Tämä
+kaari on ollut aika pitkä tämän valmistelun suhteen. Minullakin on ollut tilaisuus nyt
+useamman vuoden aikana tätä seurata ja viime hallituskaudella tästä aiheesta vastaavana
+ministerinä jopa ottaa vastaan se mietintö, jonka pohjalta tätä lainsäädäntöä ollaan nyt tääl-
+lä valmistelemassa. Ja todella, tässä on merkittävistä asioista kysymys. Väittäisin, että
+eduskunnan tämän syksyn yksi tärkeimpiä lakihankkeita on nyt käsitteillä, koska sen mer-
+kitys taloudellisesti on niin suuri, 34 miljardin hankinnoista on kysymys. Jos ne osataan
+tehdä fiksusti, ne hankinnat ovat myöskin kuntalaisten ja kuntien verovarojen hyvää käyt-
+töä ja palvelevat monella tavalla. On niin, että tässä hankintalaissa on paljon hyviä asioita:
+hankinnan jakaminen, joustavat järjestelmät, neuvottelumenettelyn selkeyttäminen ja yk-
+sinkertaistaminen, jopa tämä innovatiivisuuden tuominen — joskin siinä me olisimme toi-
+voneet vieläkin rohkeampaa etunojaa näitten innovatiivisten hankintojen kirjaamiseen,
+joka olisi tuonut tämmöistä uutta, luovaa.
+
+Edustaja Sarkkinen kuvasi hyvin sitä vastalausetta, jonka me olemme talousvaliokun-
+nassa joutuneet jättämään — valitettavasti jättämään — enkä kaikkea lähde tässä tieten-
+kään toistamaan tältä osin. Niin kuin tässä on käynyt ilmi niin Pirttilahden kuin Hoskosen-
+kin puheenvuoroista, sydän taitaa sykkiä niille ajatuksille, joita me edustamme hankinta-
+lain eräissä kohdissa, jotka liittyvät ulosmyyntiin, mutta ratkaisut nyt kuitenkin menivät
+valitettavasti toisella tavalla.
+
+Ensimmäinen asia, johon kiinnitän huomiota, on hinta—laatu-suhde. Tästä on puhuttu
+paljon, ja pelkän hinnan perusteella ei pitäisi tehdä ratkaisuja vaan kokonaisarvio ja laatu
+edellä. Varsinkin palveluissa, jotka eivät ole materiaalisia tai ovat tavarapalveluja, hinnan
+pitäisi olla toissijainen. Tästä periaatteesta olemme täällä paljon puhuneet, ja se on tässä
+meidän vastalauseessa voimakkaasti, kuten elinkaarihankintojen merkittävyyttä on haluttu
+korostaa, niin että se ei ole vain mahdollista vaan siinä olisi tukevammat kirjaukset sen
+suhteen.
+
+Sitten kysymys siitä, millä sosiaalisilla ja ekologisilla pelisäännöillä hankintoja teh-
+dään. Haluan korostaa sitä, että viime hallituskaudella sovittiin, että keskushallintoviran-
+omaisten hankintasopimuksiin ja rakennusalan hankintasopimuksiin täytyy ottaa ehto työ-
+26
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+suhteiden minimiehdoista. Nyt tässä esityksessä ei ole lähdetty tätä laajentamaan muille
+aloille, mistä siinä valmistelussa puhuttiin, että kun hankintalaki uudistetaan, niin palataan
+sitten näihin muihin ehtoihin, ja meidän mielestämme tämän minimiehtojen noudattami-
+sen velvoitteen pitäisi koskea kaikkia hankintayksiköitä. Se liittyy myös harmaan talouden
+torjuntaan. Tässä on iso puute tässä esityksessä.
+
+Pakollisesta poissulkemisesta hankinnoissa on täällä puhuttu aika paljon, enkä halua sii-
+tä puhua sen enempää nyt tässä yhteydessä, mutta se on erittäin tärkeä asia. On mielestäni
+käsittämätöntä, että kun me teimme tähän omaan esitykseemme luettelon niistä harmaan
+talouden kannalta tärkeistä laeista, joiden pitäisi olla itsestäänselvänä poissulkemisperus-
+teena, niitä ei voitu tänne ottaa. Tämä on kyllä tosi huono juttu, alkaen myös liiketoimin-
+takiellosta.
+
+No, eniten täällä on puhuttu tästä ulosmyynnistä ja siihen liittyvistä pulmista ja... Miten
+minä nyt sanoisin? Tällä hallituksella alkaa olla vähän semmoinen tavaramerkki, että tämä
+on tämmöinen yhtiöittämishallitus. (Jari Myllykoski: Kyllä!) Sotet yhtiöitetään, hankinta-
+laki tulee yhtiöittämiseen, työvoimapalvelut yhtiöitetään — vastaus kaikkiin yhteiskunnal-
+lisiin rakenneuudistuksiin on yhtiöittäminen. Kun me olemme aina vähän kritisoineet sitä,
+että EU säätää määräyksiä ja ahdistaa meitä ja niitä pitää noudattaa, niin nyt kun EU sallii
+20 prosentin rajan, ei ole mitään euromääräistä rajaa, niin me itse teemme paljon ahtaam-
+mat rajat näille säädöksille, 5 prosenttia, ja vielä pöhkömpi esitys on tämä 500 000 euroa,
+joka tekee todella suuria vaikeuksia käytännössä toteuttaa näitä asioita. Ja sitten me yritäm-
+me hallituksen esityksen mukaan ratkoa näitä eräitä kohtia tämmöisellä erillislainsäädän-
+nöllä jätehuollon osalta ja monien muiden osalta, ja ei se nyt oikein tähän norminpurkutal-
+kooseenkaan sovellu. Ja muutenkaan näin ei pitäisi tehdä. Kuntien muodostamat jätehuol-
+toyhtiöt itse asiassa ovat ennen kaikkea pienten yritysten työllistäjiä ja kumppaneita, myös
+omassa palvelutarjonnassaan. Tässä mielessä tämä argumentaatio, josta täällä on nyt pu-
+huttu, on kyllä käsittämätöntä, että tähän ei lähdetty ottamaan sitä 20 prosentin rajaa, kos-
+ka tämä ei koske pelkästään jäteyhtiöitä, niin kuin on puhuttu, vaan tämä koskee laborato-
+riopalveluita, työterveyshuoltoa, monia muita asioita. Jos tämä poliittinen liike on seuraa-
+vassa hallituksessa, niin kyllä näihin rajoihin pitää palata uudestaan.
+
+Sitten sote ja muut erityispalvelut. Uudistustahan on siis se, että nykytilaan nähden tämä
+400 000 euron kansallinen kynnysarvo on parempi kuin nykyinen, mutta mekin olemme
+sitä mieltä, että tämä 750 000 euroa olisi perusteltu, ja sitä kaikki sosiaali- ja terveysalan
+julkisen sektorin tahot ovat edustaneet. Tämä on ehkä semmoinen asia, johon olisi voinut
+ja pitänyt palata.
+
+Yhdyn niihin näkemyksiin, jotka liittyvät vammaisten ja vanhusten palveluihin, siihen,
+että niiden sopimusten, joita tehdään, pitää olla pidempikestoisia näiden ihmisten elämän-
+turvan näkökulmasta katsottuna.
+
+Tämäntyyppisiä arvioita meilläkin on, ja siltä pohjalta tietysti jouduimme jättämään täl-
+laisen oman esityksen, joka poikkeaa nyt hallituksen esityksestä. Vaikka tässä on pääosin
+hyviä asioita, niin nämä ovat meidän mielestämme epäkohtia, joihin täytyy palata.
+
+21.53 Krista Mikkonen vihr: Arvoisa puhemies! Niin kuin tässä on monta kertaa jo to-
+dettu, kyllähän tämä hallituksen esitys hankintalaiksi on pääosin hyvä ja tervetullut muu-
+tos julkisten hankintojen sääntelyyn. Tämän muutoksen tavoitteena on tehostaa julkisten
+varojen käyttöä, yksinkertaistaa hankintamenettelyjä, selkeyttää lain keskeisiä käsitteitä,
+parantaa pienten ja keskisuurten yritysten osallistumismahdollisuuksia tarjouskilpailuissa,
+27
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+parantaa mahdollisuuksia huomioida ympäristö- ja sosiaalisia näkökohtia sekä turvata kai-
+kille tarjoajille tasapuolinen ja syrjimätön kohtelu julkisissa hankinnoissa — kaikki erit-
+täin hyviä tavoitteita sinänsä, ja pääosin nämä lain tavoitteet toteutuvat esityksessä ihan hy-
+vin. Hankintamenettelyn yksinkertaistaminen sekä esimerkiksi innovatiivisten hankinto-
+jen helpottaminen tuovat semmoista kaivattua joustavuutta hankintayksiköiden toimin-
+taan, ja pienten ja keskisuurten yritysten osallistumismahdollisuuksia parannetaan helpot-
+tamalla hankintojen pilkkomista pienemmiksi kokonaisuuksiksi.
+
+Hallituksen esitys vie hankintalainsäädäntöä oikeaan suuntaan, mutta joiltakin osin se
+on kyllä riittämätön. Erityisesti olisimme toivoneet, että ympäristö- sekä sosiaaliseen ja
+yritysten yhteiskuntavastuuseen liittyvien kriteerien käyttöä tässä olisi otettu tiukemmin ja
+velvoittavammin, aivan kuten EU:n hankintadirektiivi sen mahdollistaa. Toisaalta myös
+täällä on paljon jo tänään puhuttu siitä, että tässä esityksessä on asetettu tarpeettoman tiu-
+kat rajat näiden sidosyksiköiden ulosmyynnille.
+
+Me vihreät olemme jättäneet tästä oman vastalauseemme ja näissä olemme nostaneet
+esiin näitä muutamia ongelmakohtia, joita tähän esitykseen on jäänyt. Todellakin yksi on
+tämä sidosyksikkösääntely ja tämä 20 prosentin raja. Meidän mielestämme siis sen rajan
+olisi pitänyt olla siinä 20 prosentissa, minkä EU:n hankintadirektiivi sallii, ja ilman mitään
+euromääräistä rajaa. On kummallista, että me täällä Suomessa, harvaan asutussa maassa,
+katsomme, että meillä olisi kaikkialla ympäri Suomen niin hyvä tilanne, että aidosti mark-
+kinaehtoista kilpailua syntyisi — näinhän ei ole. Suurissa kaupungeissa, tiheästi asutulla
+alueella näin varmasti on, mutta meillä on paljon alueita, missä aitoa kilpailua ei synny, ja
+siksi näillä kuntien omistamilla yhtiöillä on erityisen tärkeä rooli.
+
+Liian alhainen ulosmyyntioikeus aiheuttaa vaikeuksia erityisesti terveydenhuollossa,
+kun tiedetään, että terveydenhuollon tarvitsemia tukipalveluja on keskitetty esimerkiksi
+alueellisiin liikelaitoksiin ja näin on pystytty turvaamaan laboratoriotoimintaa tai kuvanta-
+mistutkimuksia haja-asutusalueella ja saavutettu merkittäviä kustannussäästöjä. Nyt jos
+tämä ei jatkossa enää ole mahdollista, niin se vaikeuttaa kyllä erityisesti myös niitä alueen
+pieniä ja keskisuuria yrityksiä, jotka ovat käyttäneet näitä tukipalveluita.
+
+No, sitten yksi huoli, minkä me olemme nostaneet esiin, on hankintoja koskeva neuvon-
+ta, ohjaus ja seuranta. Me tiedämme, että vastuullisten hankintojen edistämisessä ongelma
+ei ole niinkään se, etteikö lainsäädäntö jo nyt olisi mahdollistanut muunkin kuin hinnan
+käyttämistä kriteerinä, vaan iso ongelma on ollut se, että hankintayksiköillä ei ole ollut riit-
+tävää osaamista. Siksi me olemme ehdottaneet, että tähän lakiin sisällytettäisiin neuvonta-
+velvoite, joka varmistaisi, että laadukasta neuvontaa järjestetään joka puolella Suomea ja
+että neuvonnassa korostetaan sosiaalisten, ympäristö- ja hallinnollisten kriteerien asettami-
+sen mahdollisuutta.
+
+Vihreät esittääkin erillisen neuvontapykälän ottamista lakiin, joka velvoittaisi valtion vi-
+ranomaisia huolehtimaan siitä, että riittävästi neuvontaa erityisesti muiden kuin hinnan
+käyttämisestä kriteerinä on saatavilla, ja sitä, että hallitus ryhtyy toimiin neuvonta-, ohja-
+us- ja seurantayksikön perustamiseksi. Me tiedämme kaikki, miten merkittävä rooli julki-
+silla hankinnoilla Suomessa on. Niitä tehdään vuosittain noin 30 miljardin euron arvosta,
+mikä on noin viidennes bruttokansantuotteesta, ja siksi julkisella sektorilla on merkittävä
+rooli ostajana ympäristönsuojelun, sosiaalisen vastuullisuuden ja yritysten yhteiskuntavas-
+tuun edistämisessä.
+
+Näistä erilaisista muista kriteereistä puhutaan paljon, esimerkiksi sosiaalisesta vastuul-
+lisuudesta julkisissa hankinnoissa puhutaan paljon, mutta tekoja kuitenkin on käytännössä
+28
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+melko vähän. Siksi olisi tärkeää, että lainsäädännön tasolla selkeästi lähetettäisiin viesti sii-
+tä, että pelkkä halvin hinta on toissijainen valintaperuste hankinnan kokonaisuuteen näh-
+den ja että muilla kriteereillä, kuten laadulla, elinkaarikustannuksilla ja vastuullisuudella,
+on suurempi painoarvo. Koska tällaisten yhteiskuntavastuukriteereiden käytön edistämi-
+nen vapaaehtoisuuden pohjalta ei ole tuottanut tulosta, niin olisi ihan suoraan laissa mää-
+riteltävä se, että hankintaviranomaiset eivät saa käyttää hintaa tai kustannuksia hankinta-
+sopimuksen ainoana tekoperusteena.
+
+No, sitten tämä yritysten yhteiskuntavastuu ja verovastuullisuus. Tässä hallituksen esi-
+tyksessä ei ole huomioitu yritysvastuuta ja yritysten veronmaksuun liittyviä kriteereitä, ja
+niinpä me esitämme, että nämä otettaisiin siihen mukaan. Yritysten verojalanjäljen huomi-
+oiminen olisi yksi hyvä keino, ja esitämmekin, että tähän lakiin lisätään säännös siitä, että
+kilpailutuksen voittaneen yrityksen on julkistettava verotietonsa maakohtaisesti kilpailu-
+tuksen aiheena olleen hankinnan toteuttamisen ajalta. Tämä lisäisi läpinäkyvyyttä ja var-
+mistaisi sen, että emme ole tilanteessa, jossa hankinnoista valtaosa menee monikansallisil-
+le yhtiöille, jotka sitten aggressiivisen verosuunnittelun keinoin siirtävät hankinnan koh-
+teena olevasta liiketoiminnastaan saamansa voitot pois Suomen verotuksen piiristä.
+
+Sitten nämä vammaisten henkilöiden elämänmittaiset palvelut. Aivan kuten täällä on jo
+moneen kertaan nämä otettu esille ja todettu se mahdollisuus, että nämä olisi voitu jättää tä-
+män kilpailutuksen ulkopuolelle, me kannatamme myös sitä. Luulemme, että se pelkkä
+ponsi ei siellä riitä, vaikka sinänsä on hyvä, että tämä ponsi on siinä mietinnössä mukana,
+mutta olisi ollut selkeämpää, että ne olisi rajattu ihan kokonaan pois tästä hankintalain ul-
+kopuolelle, koska se on aivan mahdollista. Silloin estämme sen, että tämmöisiä elämänmit-
+taisia palveluja tarvitsevat joutuvat tietyn vuosimäärän jälkeen aina siirtymään paikasta
+toiseen, uuteen kotiin ja uusien hoitajien hoidettaviksi. Se ei ole ihmisarvoista.
+
+22.01 Petri Honkonen kesk: Arvoisa herra puhemies! Tosiaankin tämä hankintalakipro-
+sessi on päätymässä lopputulokseen, ja tästä lopputuloksesta totean sen, että se on pääosin
+kiitettävä. Tässä on monia hyviä puolia, jotka kehittävät meidän julkisen sektorin hankin-
+toja hyvään suuntaan. Erityisen hyvä on tämä hankintojen jakamisen ja osittamisen mah-
+dollisuus. Itse olen huomannut paljon eri kunnissa kuntapäättäjien kanssa keskustellessa-
+ni, että olisi halua pieniä näitä hankintoja ja suosia näin paikallisia pieniä yrityksiä erityi-
+sesti elintarvikehankintojen osalta. Uskon, että tällä on positiivisia vaikutuksia. Samaten
+nämä innovatiiviset hankinnat ovat hyvä avaus.
+
+Itse olen osallistunut tämän asian käsittelyyn ympäristövaliokunnassa, jossa annoimme
+lausunnon talousvaliokunnalle tämän asian käsittelyyn. Siellä tietenkin kiinnitimme huo-
+miota erityisesti tähän jätehuoltoon ja tähän jätehuollon sidosyksikkösääntelyyn. Toivoim-
+me siinä lausunnossa, että talousvaliokunta ottaisi huomioon tämän ulosmyynnin rajan, ja
+on siihen peilaten erittäin hyvä, että tähän on nyt nämä siirtymäsäännökset saatu, mikä an-
+taa alalle tietyllä tapaa aikaa tähän sopeutua. Myöskin olen siitä erittäin iloinen, että se on
+tänne lausuman muotoon sitten muotoiltu. Toivomme siinä, että erillislainsäädännöllä oli-
+si mahdollista sitten jätelain tarkastelun yhteydessä tätä katsoa, ja uskon, että tähän siinä
+yhteydessä sitten joudutaan palaamaan.
+
+22.03 Timo Heinonen kok: Arvoisa herra puhemies! Hyvät edustajakollegat, myös oppo-
+sition edustajat! (Oppositiosta: Ohhoh, kiitos!) Julkisten hallintojen tulee olla avoimia ja
+läpinäkyviä. Niiden tulee myös mahdollistaa paikallisten toimijoiden huomioiminen entis-
+29
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+tä paremmin. Niin kuin edustaja Ihalainen edellä toi esille, tässä on kyse erittäin merkittä-
+västä rahamäärästä, joka tässä liikkuu, ja silloin se on meidän kaikkien etu, että nämä toi-
+mivat avoimesti ja läpinäkyvästi.
+
+Kilpailutusosaaminen on aika usein se, mistä keskusteluja käydään ja mihin usein on-
+gelmatkin kilpistyvät, toisaalta sitten ne kilpailutuksessa käytettävät kriteerit. Aika usein
+olen itse tässä vuosien aikana törmännyt siihen, että on lopulta todettu, että "olisihan se ol-
+lut jo mahdollista, mutta". Ja toisaalta hinta on ollut niin kovin helppo kilpailuttamisen tie,
+eli on menty niin sanotusti sen helpoimman tien kautta. Tai sitten sellaisia kilpailutuksia
+olen nähnyt, että kun kuntapäättäjät ovat vaatineet, että laatukriteerien pitää mukana olla,
+niin laatukriteerit on tehty sellaisiksi, että kaikki ovat ne käytännössä ruksittaneet ja täyt-
+täneet, ja sen jälkeen todellinen kilpailu on käytykin enää hinnalla. Tällaisiakin esimerk-
+kejä valitettavasti löytyy. Eli tätä hankintaosaamista pitää ehdottomasti parantaa kaikkial-
+la, ja sitä myös tässä lainsäädännössä tuodaan mukaan.
+
+Tämä hankintalain uudistaminen jatkaa siis normien purkua, sääntelyn yksinkertaista-
+mista, ja tällä pyritään myös kilpailuhäiriöiden vähentämiseen, hankintojen keskittymi-
+seen puututaan ja myös hankittavana olevia kokonaisuuksia pienennetään, niin kuin tässä
+aiemmissakin puheenvuoroissa, niin hallituksen kuin oppositionkin puheenvuoroissa, on
+esille tuotu.
+
+Tämä uudistus osaltaan jatkaa mielestäni myös hyviä toimia yritysten ja sitä kautta myös
+työllisyyden vahvistamiseksi. Aiempia päätöksiähän ovat olleet yrittäjävähennys, maksu-
+perusteinen arvonlisävero, vanhemmuuden kustannusten tasaaminen ja nyt myös hankin-
+talain uudistaminen. Sekin tulee omalta osaltaan tukemaan pienten ja keskisuurten yritys-
+ten kasvua ja mahdollisuuksia kasvuun ja niiden elinvoimaa myös siellä palveluiden lähel-
+lä. Tämän lain myötä pienemmätkin yritykset pääsevät mukaan kilpailutuksiin, eli laajuus
+ja suuret kilpailukokonaisuudet eivät enää blokkaa niitä niin usein ulos kuin tähän asti on
+tapahtunut.
+
+Yrittäjyyden ja sitä kautta uusien työpaikkojen synnyn takia tärkeä uudistus on kansal-
+listen hankintojen sääntelyn merkittävä keventäminen. Uutena tulee myös lisää neuvontaa
+näille tarjoaville yrityksille. Lisäksi laki kannustaa myös tietynlaiseen markkinavuoropu-
+heluun näiden hankintojen tekijöiden välillä, niin myyjien kuin ostajienkin välillä. Tämä
+varmasti tulee osaltaan parantamaan myös hankintaosaamista.
+
+Uudistuksessa myös kilpailutusten kynnysarvot nousevat. Tavara- ja palveluhankinto-
+jen kilpailutuksen raja nousee 60 000:een nykyisestä 30 000 eurosta. Tämä on myös hyvä
+uudistus paikallisten yritysten tulevaisuudelle. Eli pitää olla keinoja myös tehdä niitä han-
+kintoja sieltä läheltä, ja tämä on varsin perusteltua siihen.
+
+Jäteasiassa, mistä tässäkin on käyty keskustelua, meillä olisi mielestäni paljonkin tehtä-
+vää. Meillä on ollut kummallinen jätteiden sosialisointi tässä maassa käynnissä. Meillä on
+ajettu hyviä, toimivia jätejärjestelmiä alas, haluttu viedä suurempiin yksiköihin, ja sitä
+kautta paikalliset palvelut ja paikalliset toimijat on ajettu erittäin ahtaalle ja myös palvelut
+ovat heikentyneet. Itse asiassa tämäntyyppinen malli, joka meillä on käytössä, ei kyllä ole
+ohjannut myöskään jätteiden määrän vähentämiseen. Olen itse käyttänyt joskus esimerk-
+kinä sitä, miten kerrostalossa, kun taloon hankitaan huoneistokohtaiset vesimittarit, veden-
+kulutus laskee noin 30 prosenttia, kun joutuu siis itse vastaamaan siitä, mitä kuluttaa. Ja nyt
+jätehuollossa Suomessa on menty täysin toiseen suuntaan eli yhteisvastuullisuuteen. Ih-
+mettelen, että sitä täällä salissa on myös tuettu tämänkin illan keskustelussa. Paljon järke-
+30
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+vämpää olisi se, että jokainen maksaisi itse aiheuttamansa jätteet, ja se kannustaisi jättei-
+den vähentämiseen aiempaa paremmin. Eli jätepuolella meillä kyllä tehtävää riittää.
+
+Sidosyksikköhankintoihin tulevat tiukat edellytykset ovat täällä myös tulleet esille, ja
+tämä jäteyhtiökysymys on sellainen, että itsekin pidän sitä valitettavana enkä ymmärrä,
+millä tavalla se tulee tilannetta parantamaan.
+
+Kilpailu- ja kuluttajavirasto saa myös tämän lainsäädännön myötä uudeksi tehtäväkseen
+valvoa julkisten hankintojen laillisuutta. Tämä on myös hyvä uudistus. Tällä hetkellähän
+meillä usein on tilanne ollut se, että käytännössä toiset yrittäjät, toiset kilpailutukseen osal-
+listuneet, ovat joutuneet tätä valvontaa tekemään. Se on johtanut erilaisiin valituksiin eri
+instansseihin ja myös riitatilanteisiin. On paljon selkeämpää, että siinä on joku toinen taho,
+joka tätä valvontaa tekee. Eli tämä Kilpailu- ja kuluttajaviraston mukaantulo tähän hankin-
+tojen laillisuusvalvontaan on erittäin myönteinen asia.
+
+22.10 Jari Leppä kesk: Herra puhemies! Hankintalain uudistus tällaisena on nähtävä erit-
+täin vahvasti myös puitelakina. Tämä jättää erityisesti tarpeita erillislainsäädännöllä tar-
+kentaa tämän lain pykäliä ja henkeä siltä osin, että ei pääse muodostumaan mihinkään päin
+monopoleja tai siihen verrattavia määrääviä markkina-asemia, jotka väistämättä johtavat
+asiakasmaksujen korottamiseen. Tämä vaara on kaikkialla markkinoilla. Tässä mielessä
+erillislainsäädäntöä täytyy tarkastella hyvinkin voimakkaasti.
+
+Tämä vaara on aivan erityisesti niillä alueilla, joilla markkinat ovat ohuet, ja nehän ovat
+useimmiten ohuet haja-asutusalueella. Siksi on oleellisen tärkeää, että talousvaliokunta on
+mietintönsä ponsiin kirjannut tämänkaltaiset asiat, näiden seuraamisen, ja painottanut sitä,
+mikä merkitys erillislainsäädännöllä tällä kohtaa on, jotta näitä äsken mainitsemiani asioi-
+ta ei pääse muodostumaan. Hankintalaissa on monia hyviä kohtia, se on ihan selvä, mutta
+tältä osin tämä on tarkan työn paikka jatkovalmistelussa.
+
+Puutun myöskin tuohon valvonta-asiaan, jossa kilpailu- ja kuluttajaviranomaiselle anne-
+taan jälleen uusi tehtävä. Kilpailu- ja kuluttajaviraston tehtäväthän kaiken kaikkiaan ovat
+erittäinkin ristiriitaiset. Sen pitää yhtä aikaa huolehtia kilpailusta, terveestä kilpailusta, ja
+kuluttajan edusta. Ne menevät väkisinkin ristikkäin. Tässäkin mielessä meidän on syytä
+myöskin harkita, onko tämä nykyinen työnjako hyvä vai olisiko mahdollisesti joitain mui-
+ta ratkaisuja, jotka tähän tilanteeseen ja tähän markkinatilanteeseen sopisivat paremmin
+kuin nykyisenkaltainen valvontajärjestelmä.
+
+22.12 Ilkka Kantola sd: Arvoisa puhemies! Täällä on laajalti kehuttu myös tätä hallituk-
+sen esitystä uudeksi hankintalaiksi, ja toden totta päästään eteenpäin. Tällä uudella lainsää-
+dännöllä on monia etuja, mutta myös puutteita, niin kuin täällä on tullut puheenvuoroissa
+esiin. Ehkä tämä on niin suuri kokonaisuus ja niin pitkä historia myös tällä uudistuksella,
+että pitää olla useampi vaalikausi, ennen kuin se saadaan täydelliseen malliin. Nyt se jää
+joiltakin osin keskeneräiseksi.
+
+Minusta on tärkeätä se, mitä edustaja Ihalainen sanoi, että tähän voidaan palata seuraa-
+villa vaalikausilla. Tämähän on poliittinen päätös, että rajataan tämä ulosmyyntioikeus 5
+prosenttiin eikä siihen 20:een, jonka EU-direktiivi sallisi. Minkälainen kompromissi tämä
+on, valiokunnassa tiedetään paremmin, minkälaisen keskustelun jälkeen tämä päätös 5 pro-
+sentista syntyi, mutta se on poliittinen linjaus, ja se voidaan muuttaa silloin, jos eduskun-
+nassa on toisenlainen poliittinen kokoonpano. Tähän voidaan palata, niin kuin edustaja
+Ihalainen sanoi.
+31
+
+
+
+Pöytäkirjan asiakohta PTK 127/2016 vp
+Sinänsä ei ole erityistä se, että Suomessa tulkitaan direktiivejä kovin tiukasti. Jo nykyi-
+sen direktiivin aikana Suomessa on tulkittu kilpailutusmääräyksiä tiukemmin kuin olisi ol-
+lut välttämätöntä.
+
+Arvoisa puhemies! Kiinnitän huomiota siihen nelosponteen, joka valiokunnan mietin-
+nössä on, joka on ihan positiivinen ja jossa korostetaan vanhusten asumispalvelujen järjes-
+tämistä inhimillisellä ja asiakaslähtöisellä tavalla. Tämä on ponnessa ihan hyvin kirjattu,
+mutta asia on myös pykälätasolla vastalauseessa numero 1 esimerkiksi tässä 101 §:ssä,
+Suorahankinta erityistilanteissa. Meidän vastalauseessamme käy ilmi, että tällainen suora-
+hankinta ei vain ainoastaan hyvin poikkeuksellisissa tilanteissa vaan vähän lievemminkin
+indikaatioin voisi tulla kysymykseen silloin, kun on kysymys tällaisesta vanhusten, vam-
+maisten oikeuksien turvaamisesta. Tärkeä perustuslakinäkökohta myös tässä kohdassa.
+
+Yleiskeskustelu päättyi ja asian käsittely keskeytettiin.
+32
+
+

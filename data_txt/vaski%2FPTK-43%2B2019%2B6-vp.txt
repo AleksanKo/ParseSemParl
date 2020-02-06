@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM8662.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 43/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 43/2019 vp
+
+Täysistunto
+
+Torstai 3.10.2019 klo 16.01—18.14
+
+6. Hallituksen esitys eduskunnalle laiksi varhaiskasvatuslain 70 ja 76 §:n muuttamisesta
+Hallituksen esitys HE 9/2019 vp
+Valiokunnan mietintö SiVM 3/2019 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Juho Eerola: Ensimmäiseen käsittelyyn esitellään päiväjärjestyk-
+sen 6. asia. Käsittelyn pohjana on sivistysvaliokunnan mietintö SiVM 3/2019 vp. Nyt pää-
+tetään lakiehdotuksen sisällöstä.
+
+Keskustelu
+
+17.57 Paula Risikko kok (esittelypuheenvuoro): Arvoisa puhemies! Sivistysvaliokun-
+nan tuoreena puheenjohtajana ilolla esittelen teille tätä mietintöä. Kysymyksessä on siis
+hallituksen esitys eduskunnalle laiksi varhaiskasvatuslain 70 ja 76 §:n muuttamisesta. Täs-
+sä esityksessä ehdotetaan muutettavaksi varhaiskasvatuksen tietovarannon käyttöönottoa
+säätelevää siirtymäsäännöstä. Tietovarannon henkilöstötietokokonaisuuden käyttöönot-
+toon valmistautuminen ei ole edennyt suunnitellusti määrittelyjen ja järjestelmäintegraati-
+oiden ja kuntien tiedonsiirron valmiustason osalta. Käyttöönottoa ei voida varhaiskasva-
+tuksen henkilöstötietojen osalta toteuttaa laissa säädetyssä aikataulussa, ja siitä syystä on
+meillä ollut käsitteillä hallituksen esitys, jolla tätä siirtymäsäännöstä sitten muutettaisiin. 
+
+Nyt kerron teille valiokunnan kannat tästä asiasta. Ensiksi yleisperustelut:
+Hallituksen esityksestä ilmenevistä syistä ja saamansa selvityksen perusteella valiokun-
+
+ta pitää tarpeellisena ja tarkoituksenmukaisena muuttaa varhaiskasvatuslain 540/2018 tie-
+tovarannon käyttöönottoa koskevaa siirtymäsäännöstä siten, että kunnan ja kuntayhtymän
+varhaiskasvatuksen henkilöstöä koskevien tietojen tallentamisvelvollisuuden alkamisajan-
+kohtaa myöhennetään yhdellä vuodella. Näin ollen se alkaa 1.9.2020, kun se voimassa ole-
+van lain mukaan alkoi 1.9.2019. Siirtymäsäännöksen muut kuntia ja kuntayhtymiä sekä
+yksityisiä palveluntuottajia koskevat siirtymäajat säilyvät voimassa olevan lain mukaisina.
+
+Työ tietojen keräämiseksi ja tallentamiseksi varhaiskasvatuksen tietovarantoon on
+käynnistynyt siirtymäsäännösten mukaisesti kuntien ja kuntayhtymien osalta. Tietovaran-
+toon on kerätty tietoa varhaiskasvatuksen järjestäjistä ja niiden toimipaikoista sekä var-
+haiskasvatukseen osallistuvista lapsista ja heidän huoltajistaan. Tavoitteena oli aloittaa
+kuntien ja kuntayhtymien varhaiskasvatuksen henkilöstöä koskevien tietojen tallentami-
+nen syksyllä 2019, mutta se osoittautui ennakoitua vaikeammaksi huomattavien tietotek-
+nisten haasteiden vuoksi. Tieto kunnallisilla varhaiskasvatuksen järjestäjillä on pirstalei-
+sempaa ja eri tavoin järjestettyä kuin asiaa koskevaa lainsäädäntöä valmisteltaessa oli tie-
+dossa. Siirtymäsäännöksen mukainen aika tietovarantointegraatioiden tekemiseen, tes-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 43/2019 vp
+taukseen ja tietosisältöjen yhteensopivuuden toteuttamiseen tietoturva varmistaen osoit-
+tautui kunnissa, kuntayhtymissä ja näiden järjestelmätoimittajilla liian vähäiseksi. 
+
+Valiokunta pitää tarpeellisena ehdotusta poistaa varhaiskasvatuslaista säännös kunnan
+velvollisuudesta erikseen tallentaa tiedot hankkimansa ja palvelusetelillä järjestämänsä
+varhaiskasvatuksen varhaiskasvatuspaikkojen määrästä ja palveluntuottajista. Hallituksen
+esityksen mukaan nämä tiedot ilmenevät varhaiskasvatuksen tietovarannosta ilman erillis-
+tä tallentamista, joten niiden tallentaminen erikseen ei ole tarpeen. 
+
+Valiokunta puoltaa hallituksen esitykseen sisältyvän lakiehdotuksen hyväksymistä seu-
+raavin huomautuksin ja muutosehdotuksin. Ihan ensiksi perustuslakivaliokunnan kannan-
+otot asetuksenantovaltuutuksesta: 
+
+Hallituksen esityksessä ehdotetaan muutettavan varhaiskasvatuslaissa olevaa siirtymä-
+säännöstä eli 76 §:ää siten, että varhaiskasvatuksen tietovarantoa koskevasta tietojen tal-
+lentamisvelvollisuuden alkamisesta säädetään lain sijasta valtioneuvoston asetuksella lu-
+kuun ottamatta 76 §:n 1 momentin mukaista tallentamisvelvollisuutta.
+
+Perustuslakivaliokunta toteaa lausunnossaan 3/2019, että asetuksenantovaltuudesta sää-
+täminen on merkityksellinen perustuslain 79 §:n 3 momentin kannalta. Sen mukaan laista
+tulee käydä ilmi, milloin se tulee voimaan. Erityisestä syystä laissa voidaan säätää, että sen
+voimaantuloajankohdasta säädetään asetuksella. Tästä voi olla kysymys esimerkiksi sil-
+loin, kun suuren lainsäädäntökokonaisuuden eri osien on tultava voimaan samana ajankoh-
+tana eikä tuota ajankohtaa ole lakia säädettäessä tarkoituksenmukaista tai mahdollista vie-
+lä vahvistaa. Perustuslakivaliokunnan käytännössä erityisenä syynä on pidetty myös lain
+voimaantuloajankohdan sidonnaisuutta Suomen kansainvälisten velvoitteiden tai esimer-
+kiksi Euroopan unionin lainsäädännön voimaantuloon.
+
+Hallituksen esityksessä varhaiskasvatuslain 76 §:ään ehdotettua muutosta perustellaan
+sillä, että tietovarannon käyttöönottoa ei voida varhaiskasvatuksen henkilöstötietoja koski-
+en toteuttaa laissa säädetyssä aikataulussa. Tietovarannon käyttöönottoon valmistautumi-
+nen ei ole edennyt suunnitellusti tietojärjestelmäintegraatioiden ja kuntien tiedonsiirron
+valmiustason osalta. Hallituksen esityksen mukaan asetus on lakia joustavampi tapa ottaa
+huomioon mahdolliset ennakoimattomissa olevat tekijät, jotka saattavat vaikuttaa tietojär-
+jestelmäintegraation ja koko tietovarannon toteuttamiseen. Perustuslakivaliokunta toteaa
+lausunnossaan, että se ei ole katsonut tämänkaltaisten hallinnollisten toimenpiteiden aika-
+tauluun liittyvien syiden täyttävän perustuslain 79 §:n 3 momentissa tarkoitetun erityisen
+syyn vaatimusta. Tällaiset toimet ovat tavanomaisia lainsäädännössä, ja tarvittava aika
+niille voidaan varata päätettäessä lain voimaantuloajankohdasta lakia vahvistettaessa. Pe-
+rustuslakivaliokunnan mielestä merkitystä arviossa ei ole sillä, että nyt tarkasteltavana on
+lisäajan myöntäminen jo voimassa olevan sääntelyn toimeenpanoon. Perustuslakivalio-
+kunta siten katsoo lausunnossaan, että lakiehdotuksen 76 §:n 2 momenttia on muutettava,
+jotta lakiehdotus voidaan näiltä osin käsitellä tavallisen lain säätämisjärjestyksessä.
+
+Sivistysvaliokunta ehdottaa perustuslakivaliokunnan lausunnon johdosta muutoksia la-
+kiehdotukseen siten, että asetuksenantovaltuutuksen sijasta tietojen tallentamisvelvolli-
+suuden alkamista koskevat säännökset sisällytetään lakiin.
+
+Ja lopuksi, arvoisa puhemies: Valiokunta kiinnittää huomiota varhaiskasvatuksen tieto-
+varannon kokoamista koskevan tallennustyön toteuttamiseen säädetyssä aikataulussa ja sa-
+malla tunnistaa mahdolliset aikatauluun liittyvät haasteet erityisesti yksityisten varhaiskas-
+vatustoimijoiden henkilöstöä koskevan tietokokonaisuuden käyttöönottoa koskien. Valio-
+kunta korostaa huolehtimista siitä, että varhaiskasvatustoimijat saavat riittävän ohjeistuk-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 43/2019 vp
+sen ja opastuksen velvollisuuksistaan tietovarannon käyttöön ottamiseksi säädetyssä aika-
+taulussa.
+
+Tämä mietintö oli täysin yksimielinen. — Kiitos.
+
+Perustuslakivaliokunta toteaa lausunnossaan 3/2019, että asetuksenantovaltuudesta säätä-
+minen on merkityksellinen perustuslain 79 §:n 3 momentin kannalta. Sen mukaan laista tu-
+lee käydä ilmi, milloin se tulee voimaan. Erityisestä syystä laissa voidaan säätää, että sen
+voimaantuloajankohdasta säädetään asetuksella. Tästä voi olla kysymys esimerkiksi sil-
+loin, kun suuren lainsäädäntökokonaisuuden eri osien on tultava voimaan samana ajankoh-
+tana eikä tuota ajankohtaa ole lakia säädettäessä tarkoituksenmukaista tai mahdollista vie-
+lä vahvistaa. Perustuslakivaliokunnan käytännössä erityisenä syynä on pidetty myös lain
+voimaantuloajankohdan sidonnaisuutta Suomen kansainvälisten velvoitteiden tai esimer-
+kiksi Euroopan unionin lainsäädännön voimaantuloon.
+
+Hallituksen esityksessä varhaiskasvatuslain 76 §:ään ehdotettua muutosta perustellaan
+sillä, että tietovarannon käyttöönottoa ei voida varhaiskasvatuksen henkilöstötietoja koski-
+en toteuttaa laissa säädetyssä aikataulussa. Tietovarannon käyttöönottoon valmistautumi-
+nen ei ole edennyt suunnitellusti tietojärjestelmäintegraatioiden ja kuntien tiedonsiirron
+valmiustason osalta. Hallituksen esityksen mukaan asetus on lakia joustavampi tapa ottaa
+huomioon mahdolliset ennakoimattomissa olevat tekijät, jotka saattavat vaikuttaa tietojär-
+jestelmäintegraation ja koko tietovarannon toteuttamiseen. Perustuslakivaliokunta toteaa
+lausunnossaan, että se ei ole katsonut tämänkaltaisten hallinnollisten toimenpiteiden aika-
+tauluun liittyvien syiden täyttävän perustuslain 79 §:n 3 momentissa tarkoitetun erityisen
+syyn vaatimusta. Tällaiset toimet ovat tavanomaisia lainsäädännössä, ja tarvittava aika
+niille voidaan varata päätettäessä lain voimaantuloajankohdasta lakia vahvistettaessa. Pe-
+rustuslakivaliokunnan mielestä merkitystä arviossa ei ole sillä, että nyt tarkasteltavana on
+lisäajan myöntäminen jo voimassa olevan sääntelyn toimeenpanoon. Perustuslakivalio-
+kunta siten katsoo lausunnossaan, että lakiehdotuksen 76 §:n 2 momenttia on muutettava,
+jotta lakiehdotus voidaan näiltä osin käsitellä tavallisen lain säätämisjärjestyksessä.
+
+Sivistysvaliokunta ehdottaa perustuslakivaliokunnan lausunnon johdosta muutoksia la-
+kiehdotukseen siten, että asetuksenantovaltuutuksen sijasta tietojen tallentamisvelvolli-
+suuden alkamista koskevat säännökset sisällytetään lakiin.
+
+Ja lopuksi, arvoisa puhemies: Valiokunta kiinnittää huomiota varhaiskasvatuksen tieto-
+varannon kokoamista koskevan tallennustyön toteuttamiseen säädetyssä aikataulussa ja sa-
+malla tunnistaa mahdolliset aikatauluun liittyvät haasteet erityisesti yksityisten varhaiskas-
+vatustoimijoiden henkilöstöä koskevan tietokokonaisuuden käyttöönottoa koskien. Valio-
+kunta korostaa huolehtimista siitä, että varhaiskasvatustoimijat saavat riittävän ohjeistuk-
+sen ja opastuksen velvollisuuksistaan tietovarannon käyttöön ottamiseksi säädetyssä aika-
+taulussa.
+
+Tämä mietintö oli täysin yksimielinen. — Kiitos.
+
+18.05 Heikki Autto kok: Arvoisa rouva puhemies! Tässä sivistysvaliokunta on tehnyt hy-
+vää työtä mietinnön laatimisessa puheenjohtajansa, edustaja Risikon johdolla, ja varmasti-
+kaan nyt ensimmäisessä käsittelyssä tähän mietinnön sisältöön ei kenelläkään ole huomau-
+tettavaa.
+
+Mutta tämä teema siitä, miksi esimerkiksi tässä nyt joudutaan sitten tätä siirtymää vuo-
+della pidentämään, kertoo ehkä suomalaista yhteiskuntaa tällä hetkellä kaikkein eniten vai-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 43/2019 vp
+vaavasta käytännön ongelmasta eli siitä, että meidän tietojärjestelmämme ja arkistoitu tie-
+to ovat niin pirstaloituneita, että näistä on hyvin vaikea saada suunnitellussa aikataulussa
+sellaisia toimivia kokonaisuuksia, joissa tietojärjestelmät sitten tukisivat muuten organi-
+saatioitten uudistamisaikataulua.
+
+Tässä mielessä kunnissa — ehkä tulevaisuudessa perustettavissa maakunnissakin — on
+tulossa eteen tilanteita, joissa tosiaan tämä ict-puoli prakaa, kun sitten muuten pitäisi tätä
+toimintaa jo asetella uusiin uomiin, ja tässä mielessä tietysti tällä salilla on suuri vastuu sii-
+tä — kun vuosittain miljardeja käytetään näihin asioihin, mitkä liittyvät tietohallintoon, on
+se sitten sitä ohjelmistopuolta tai sitten varsinaisia järjestelmiä ja toisaalta niitä laitteistoja
+sitten, joita tarvitaan — että kaikki investoinnit, mitä tästä eteenpäin tehdään, olisivat sel-
+laisia, että ne tukevat tämmöistä isoa kokonaisuutta, jossa tieto on aina käytettävissä, ja —
+kun me olemme pieni kansakunta, pieni maa — että se ei todella pirstaloituisi sitten taval-
+la, joka nyt konkretisoituu vaikkapa tässä varhaiskasvatuksen toimijoiden osalta.
+
+18.07 Paula Risikko kok: Arvoisa puhemies! Edustaja Autto tuossa totesikin, että tällai-
+sia hankaluuksia siellä kentällä on. Mielestäni tämä hallituksen esitys oli erinomaisen hyvä
+esimerkki siitä, että on kuunneltu sitä kenttää. Siellä on ollut hankaluuksia, ja niin kuin to-
+tesimme tuossa mietinnössämme, ne johtuvat hyvin monesta asiasta. Yksi syy olivat nämä
+tietotekniset ongelmat, mutta myös tämä tieto, mitä sinne on pitänyt tallentaa, on ollut hy-
+vin pirstaleista.
+
+Mielestäni tämä kokemus nyt, että annetaan lisäaikaa, on hyvä esimerkki siitä, että rea-
+goidaan, mutta se myöskin opettaa tietysti tulevaisuudessa tekemään sellaista lainsäädän-
+töä, että huomioidaan jo hyvissä ajoin näitä tällaisia kentän tarpeita, ja siksi onkin tärkeää
+kiinnittää siihen huomiota. Sen lisäksi kannattaa kiinnittää huomiota myöskin siihen, että
+emme esittäisi esimerkiksi asetuksenantovaltuuksia sellaisissa tilanteissa, jotka ovat perus-
+tuslain vastaisia.
+
+On hienoa, että meillä täällä eduskunnassa on perustuslakivaliokunta, jota voidaan sit-
+ten aina konsultoida ja pyytää lausuntoja. Tässäkin tilanteessa perustuslakivaliokunta oli
+kanssamme samaa mieltä ja saimme sieltä tukea. Mutta tämä hallituksen esitys opettaa tie-
+tysti monella tavalla. Kysymys oli suhteellisen pienestä mutta kuitenkin hyvin, hyvin tär-
+keästä asiasta, ja sieltäkin löytyi sitten tällainen perustuslakiin liittyvä muutostarve. Hyvä,
+että tämä saatiin korjattua, ja meillä oli erinomaisen hyvä keskustelu tästäkin asiasta. —
+Kiitos.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 9/2019 vp sisältyvän lakiehdotuksen sisäl-
+lön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+4
+
+
+	6
+	17.57
+	18.05
+	18.07
+
+

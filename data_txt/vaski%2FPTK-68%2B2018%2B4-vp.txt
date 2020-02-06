@@ -1,0 +1,601 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM84B3.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 68/2018 vp
+
+Täysistunto
+
+Maanantai 18.6.2018 klo 13.59—15.30
+
+4. Hallituksen esitys eduskunnalle laiksi ajoneuvojen katsastustoiminnasta annetun lain 
+muuttamisesta ja eräiksi muiksi laeiksi
+
+Hallituksen esitys HE 86/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 4. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävaliokuntaan.
+
+Keskustelu
+
+14.03 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa rou-
+va puhemies! Käsiteltävänä on hallituksen esitys eduskunnalle ajoneuvojen katsastustoi-
+minnasta annetun lain muuttamisesta ja eräiksi muiksi laeiksi. Esitys liittyy hallitusohjel-
+maan sisältyvään säädösten sujuvoittamisen kärkihankkeeseen. Nyt käsillä oleva esitys on
+jälkimmäinen osa kahdessa vaiheessa toteutettavasta katsastuslainsäädännön uudistamis-
+hankkeesta. Ensimmäisen vaiheen kevennykset näkyvätkin kansalaisille jo konkreettisella
+tavalla, esimerkiksi siten, ettei alle kymmenenvuotiaita autoja enää tarvitse katsastaa vuo-
+sittain. Ensimmäisessä vaiheessa päätettiin myös, ettei moottoripyörille säädetä jatkossa-
+kaan katsastusvelvoitetta. Myös toisessa vaiheessa on jatkettu asetustasoisen sääntelyn lä-
+pikäyntiä muun muassa museoautojen katsastusvelvoitteen osalta, johon on tarkoitus esit-
+tää helpotuksia. 
+
+Hallitus esittää katsastustoiminnan lupasääntelyn yksinkertaistamista ja keventämistä.
+Nyt katsastustoiminnassa siirryttäisiin toimipaikkakohtaisista luvista toimijakohtaisiin lu-
+piin. Katsastuslupa oikeuttaisi harjoittamaan toimintaa usealla toimipaikalla, ja yhdellä lu-
+valla saisi tarjota kaikkia katsastuspalveluja. Nykyinen jaottelu kevyiden ja raskaiden ajo-
+neuvojen katsastuksiin sekä määräaikais- ja erikoiskatsastuksiin poistuisi. Samalla luovut-
+taisiin kaikkien katsastuspalvelujen tarjoamisvelvollisuudesta. Toimija saisi siis itse päät-
+tää, missä ja millaisia palveluja tarjoaisi, kunhan tekee tästä ilmoituksen Liikenteen turval-
+lisuusvirastolle. Lupasääntelyn yksinkertaistaminen helpottaa uusien katsastusasemien pe-
+rustamista ja mahdollistaa räätälöityjen palvelukonseptien kehittämisen. Mahdollisuus
+valita katsastettavat ajoneuvoluokat johtaisi siihen, että yhä useammanlaiset tilat soveltui-
+sivat katsastusasemiksi. 
+
+Samalla esitetään myös muutoksia katsastustoiminnan valvontaan. Muutosten myötä
+valvonnan painopiste siirtyisi ennakollisesta valvonnasta jälkikäteiseen valvontaan, kun
+nykyisin toimipaikkakohtaisten lupien myöntämisen yhteydessä tehtävät aloitustarkastuk-
+set poistuisivat. Tämä vapauttaa viranomaisresursseja jälkikäteiseen, riskiperustaisesti
+kohdennettuun valvontaan. 
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+Samassa yhteydessä hallitus esittää myös teknisiä täsmennyksiä taksamittarisääntelyyn.
+Liikenne- ja viestintäministeriö on käynyt runsaasti keskusteluja aiheesta työ- ja elinkein-
+oministeriön, Liikenteen turvallisuusviraston ja Turvallisuus- ja kemikaaliviraston kanssa,
+ja näissä keskusteluissa on tultu siihen tulokseen, ettei vahvistettu laki ole riittävän yksise-
+litteinen suhteessa sen tavoitteisiin eikä se siten takaa toimijoille riittävästi oikeusvarmuut-
+ta. Tästä syystä katsottiin tarkoituksenmukaiseksi selventää sääntelyä, jotta sitä tulkittai-
+siin ja sovellettaisiin lainsäätäjän tarkoittamalla tavalla. Asia oli syytä saattaa vireille jo en-
+nen lain voimaantuloa heinäkuussa, jotta toimijat saavat varmuuden siitä, että asiaan ol-
+laan hakemassa kestävää ratkaisua. Asia saatettiin vireille nopealla aikataululla ja liitettiin
+osaksi katsastusasioihin liittyvää hallituksen esitystä ilman erillistä lausuntokierrosta juuri
+vallitsevan epävarmuuden vuoksi. Menettelytavoista ja prosessista käytiin erillinen kes-
+kustelu oikeuskanslerin kanssa, ja tästä johtopäätöksenä oli, että näin voitiin toimia, eten-
+kin kun asia oli teknisluontoinen ja siinä oli kuultu relevantteja viranomaistahoja. 
+
+Taksamittarin sääntelyn osalta tavoitteena on edelleen teknologianeutraalisuus ja sovel-
+luspohjaisten ratkaisujen mahdollistaminen. Jo liikennepalvelulain ensimmäisen vaiheen
+yhteydessä tehtyjen muutosten tavoitteena oli hyödyntää EU:n mittauslaitedirektiivin mu-
+kainen ja monissa maissa käytössä oleva mahdollisuus sallia muita mittaustapoja erilaisis-
+sa kuljetuksissa. Nyt esitetään, että ajoneuvolain taksamittarisäännöstä täsmennettäisiin si-
+ten, että siitä käy selkeästi ilmi EU:n mittauslaitedirektiivin mukainen lakisääteinen mit-
+taustehtävä. Taksamittaria olisi siis käytettävä, jos matkan hinta perustuu matkan ja ajan
+mittaamiseen ja kyytiä ei ole tilattu ja maksettu teknisen käyttöyhteyden avulla. Teknisen
+käyttöyhteyden avulla tilatuissa ja maksetuissa kyydeissä järjestelmiltä edellytetään riittä-
+vää mittaustiedon luotettavuutta ja tiedon suojauksen tasoa, kuten jo vahvistetussa ajoneu-
+volain muutoksessakin on. 
+
+Kyseessä ei siis ole asiallinen muutos vaan lain sanamuodon täsmentäminen. Täsmen-
+nyksillä ei olisi vaikutusta Kelan hankintoihin, vaan julkisesti tuetuissa kuljetuksissa voi-
+daan jatkossakin edellyttää taksamittarin käyttöä, kuten esimerkiksi Kela on nyt tehnyt. Ai-
+noa asiallinen muutos taksamittarin osalta olisi se, että niiden valvonta siirrettäisiin koko-
+naisuudessaan Liikenteen turvallisuusvirastolle. Tällä selkeytettäisiin viranomaisten välis-
+tä työnjakoa. On tarkoituksenmukaista ja oikeusvarmuutta vahvistavaa, että taksamittarei-
+den valvonta keskittyy yhdelle viranomaiselle. 
+
+Laki ajoneuvojen katsastustoiminnasta annetun lain muuttamisesta on tarkoitettu tule-
+maan voimaan marraskuussa 2019. Muut lait on tarkoitettu tulemaan voimaan, kun ne on
+hyväksytty ja vahvistettu. — Kiitos.
+
+14.09 Katja Taimela sd: Arvoisa rouva puhemies! Tässä esityksessä ehdotetaan siis
+muutettavaksi ajoneuvojen katsastustoiminnasta annettua lakia. Esityksen mukaan ajoneu-
+vojen katsastustoiminta säilyisi edelleen luvanvaraisena mutta nykyistä toimilupasäänte-
+lyä muutettaisiin siten, että katsastusluvat myönnettäisiin jatkossa toimijakohtaisina eikä
+toimipaikkakohtaisina kuten nykyisin. Lisäksi nykyinen lupajaottelu eri katsastuslajien
+sekä kevyiden ja raskaiden ajoneuvojen katsastusten välillä poistuisi.
+
+Toimijakohtainen lupa on sikäli perusteltu, että useimmat katsastusasemat toimivat ket-
+juina, jolloin laitteistot, vaatimukset ja toimintakulttuurit periytyvät toimipaikkojen välil-
+lä. Lupajaottelun poistoa ei voi täysin varauksetta kannattaa. Vaikka suurin osa katsastus-
+paikoista toimii ketjuissa, pitää pystyä varmistamaan lainsäädännössä riittävä osaaminen
+kevyestä kalustosta voimakkaasti poikkeavan raskaan kaluston katsastuksiin.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+Esityksen mukaan velvollisuus suorittaa kaikkia luvanmukaisia katsastuksia poistuisi.
+Velvollisuuden poisto suorittaa kaikkia katsastuksia lisännee kevyen kaluston määräai-
+kaiskatsastusten palveluja. Toisaalta vaativia teknisiä muutos- ja tyyppikatsastuksia tarjo-
+avien asemien määrä laskee ja mahdollisesti myös hinta nousee. Tämä todennäköisesti kyl-
+lä keskittää erikoiskatsastuksia tietyille asemille, jolloin osaaminen sitten taas kehittyy.
+
+Myös vaatimuksia katsastajien jatkokoulutukseen pääsyyn kevennettäisiin tällä esityk-
+sellä. Valiokunnan on työssään arvioitava, että eri koulutus- ja kokemustasojen vaikutuk-
+set tehtäväkelpoisuuksissa ovat tasapainossa tämän esityksen jälkeen.
+
+Arvoisa rouva puhemies! Samassa yhteydessä muutettaisiin myös ajoneuvolakia ja mit-
+tauslaitelakia taksamittarisääntelyä koskevilta osilta. Muutoksella selkiytettäisiin edus-
+kunnan aiemmin hyväksymällä tavalla sitä, missä tilanteissa taksamittaria olisi käytettävä.
+Samalla siirrettäisiin mittauslaitelain ja eräiden tuotteiden markkinavalvonnasta annetun
+lain noudattamisen valvonta taksamittareiden osalta Turvallisuus- ja kemikaalivirastolta
+Liikenteen turvallisuusvirastolle eli Trafille.
+
+Liikennepalvelulain ykkösvaiheen kohdalla moni meistä saattaa muistaa, että LVM:n
+tulkinnat mittausdirektiivistä, taksamittari tai vastaava, joutuivat kovan arvostelun alle. Ja
+nyt tulee väistämättä mieleen, että etsitään sopivampaa määräysten tulkitsijaa. Tukesilla on
+halu noudattaa direktiivejä ja mittauslaitelakia. Tuleekin mieleen, kun arvoisa rouva minis-
+teri on tässä salissa esittelemässä tätä asiaa ja edelleen aitiossa läsnä, että tarkoittaako, rou-
+va ministeri, tämä sitä, että ainoastaan ministeriönne alainen Trafi osaa valvoa lakia teidän
+elikkä LVM:n tarkoittamalla tavalla. Tukesilla on vahva kokemus teknisten mittalaittei-
+den valvonnasta eri aloilla. Eikö LVM:n tehtävä ole edistää lainsäädäntöä siihen kuntoon,
+että itsenäinen valvontavirasto voi sitä tulkita ilman riskejä, eikä esittää valvojan vaihta-
+mista?
+
+On myös syytä todeta erikseen, että ajoneuvolain, mittauslaitelain ja markkinavalvonta-
+lain muutosta koskevat lakiehdotukset siis lisättiin esitykseen lausuntokierroksen ja lain-
+säädännön arviointineuvoston käsittelyn jälkeen. Kyseessä on teknisluontoinen muutos,
+jolla pyritään selkiyttämään säädöstekstiä siten, että sitä tulkittaisiin lainsäätäjän tarkoitta-
+malla tavalla. Tästä syystä erillistä lausuntokierrosta ei nähty tarpeelliseksi. Ja on varsin
+ymmärrettävää, että muun muassa Taksiliitto on todella kummissaan siitä, että heitä ei ole
+tämän lisäysmuutoksen jälkeen kuultu asiasta, ja sitä kautta he eivät myöskään ole saaneet
+tähän nyt sitten lausua. Siinä mielessä tämä jälkimmäinen muutos, joka liittyy näihin tak-
+sa- ja taksipuolen asioihin, aiheuttaa varmasti liikenne- ja viestintävaliokunnassa vielä työ-
+tä ja mietittävää.
+
+14.14 Suna Kymäläinen sd: Arvoisa rouva puheenjohtaja! Edustaja Taimela käytti hy-
+vän puheenvuoron edellä. Totean nyt ensin alkuun sen, että tästä katsastustoiminnastahan
+esitetään nyt tämmöistä periaatteellista muutosta, jossa siirryttäisiin ennakkovalvonnasta
+jälkikäteisvalvontaan. Tästä esityksestä nousee monia kysymyksiä, ja niistä kyllä merkit-
+tävin on, miksi katsastustoiminta ja mittauslaitteet kytketään yhteen. Katsastuslain olisi
+tarkoitus tulla voimaan marraskuun alusta kuluvaa vuotta, joten sen valmisteluun olisi vie-
+lä tässä vaiheessa ollut hyvä aika eikä sitä olisi tarvinnut tällaisessa kiireellisyysaikataulus-
+sa valmistella, mitä sitten edellyttää tämä mittauslaitteitten tilanne.
+
+Sitä tikulla silmään, kuka vanhoja muistelee, mutta en nyt malta olla muistelematta niitä
+keskusteluja tässä salissa ja niitä pykälämuutosehdotuksia, joita muun muassa näihin mit-
+tauslaitteisiin esitimme tässä salissa silloin, kun päätimme liikennepalvelulaki ykkösestä.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+Meille oli silloin oppositiossa ja SDP:ssä täysin selvää, että me olemme menossa tämmöi-
+seen epävarmaan tilanteeseen, juuri kuten ministeri aiemmin pöntössä vahvisti, että tämä
+vahvistettu laki ei ole riittävä oikeusvaikutuksiltaan, ja laki astuu voimaan jo juhannuksen
+jälkeen. Ymmärrän siis huolen ja ymmärrän sen, että meidän täytyy kiireellisesti muuttaa
+tuota mittauslaitelakia, mutta sitä, mitä näihin toimintatapoihin tulee, en pysty ymmärtä-
+mään.
+
+Meillä esittelytekstissä annetaan ymmärtää, että Taksiliittoa on kuultu. Kyllä, Taksiliit-
+toa on kuultu tämän katsastusosion osalta mutta ei näitten mittauslaitteitten osalta. Sieltä
+on selkeää viestiä tullut siitä, että tämä taksamittari on kiistanalainen ja entistä epäselvem-
+pi ja eriarvoistava, eri tavoin toimivia yrittäjiä eri tavoin kohteleva. Olisi välttämätöntä, jos
+te haluatte nyt tässä kiireisessä aikataulussa tämän mittauslaitelain viedä eteenpäin, että
+tästä kytkettäisiin ulkopuolelle nämä katsastuslakiin viittaavat osiot. Meillä olisi jo niin
+täysi työ saada tämä laki lainvoimaiseksi heti, kun olemme sen täällä vahvistaneet. Tosin
+hyvää valmistelua siltäkään osin emme pystyisi tekemään.
+
+Kysymys vielä: Arvoisa ministeri Berner, tässä esityksessä on esitetty, että taksamitta-
+reiden valvonta siirtyisi liikenteen turvallisuusvirastolle, mutta hups sentään, kun meillä-
+hän ei ole sellaista liikenteen turvallisuusvirastoa vielä. Meillä on vasta käsittelyssä oleva
+esitys liikenteen turvallisuusvirastosta. Tekisimmekö tässä nyt lain, jossa annetaan tehtä-
+viä sellaiselle taholle, jota ei vielä ole olemassakaan? Eikö tästäkin tule [Puhemies koput-
+taa] oikeudellisesti relevanttia huolta?
+
+14.17 Antero Laukkanen kd: Arvoisa rouva puhemies! Tämä uudistus on kauan odotet-
+tu uudistus ja tuo katsastustoimen tälle vuosituhannelle. Lupasääntely kevenee, ja turhien
+katsastusten määrä vähenee. Pidän tätä kokonaisuutena hyvänä esityksenä. Täällä on jo
+nostettu esiin näitä puutteita, ja uskon, että valiokuntakäsittelyssä näitä tullaan sitten eri-
+tyisellä tavalla huomioimaan. En näe sitä esteenä, vaikka täällä on näitä keskeisiä asioita
+vielä hieman auki, etteikö tätä esitystä olisi voitu tehdä, joten on hyvä, että saamme tämän
+täällä käsittelyyn ja eteenpäin.
+
+14.18 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Edustaja
+Kymäläinen nosti esille tästä hallituksen esityksestä nimenomaan tämän taksamittariasian.
+Itse olen sitä mieltä, että on erittäin hyvä, että ministeri ja ministeriö ovat tuoneet nimen-
+omaan nyt tässä hallituksen esityksessä kiireellisenä myöskin tämän taksamittariasian, sen
+asian, jota jo silloin, kun lakia liikenteen palveluista käsiteltiin, niin täällä salissa kuin
+myöskin liikenne- ja viestintävaliokunnassa käytiin läpi. Taksamittariasia keskustelutti jo
+silloin myöskin kaikkia liikenne- ja viestintävaliokunnan jäseniä hyvin paljon, ja oltiin sitä
+mieltä, että tätä asiaa tulee myöskin seurata, miten tämä toteutuu. Olen edelleen sitä miel-
+tä, että on hyvä, että nyt myöskin tähän asiaan puututaan, koska tämä on keskusteluttanut
+viime päivinä hyvin paljon ja uusi niin sanottu taksilaki, laki [Puhemies koputtaa] liiken-
+teen palveluista, astuu voimaan 1.7. [Puhemies: Aika!] On erittäin hyvä, että mittaustehtä-
+vä saadaan tarkasti selville.
+
+Puhemies Paula Risikko:  Puhujalistaan.
+
+14.19 Markku Pakkanen kesk: Arvoisa rouva puhemies! Tämä hallituksen esitys on to-
+della tärkeä. Katsastusasiassa on hyvä tuoda lisää vaihtoehtoja tuonne maakuntiin, ja eri-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+tyisesti sääntely siitä, että kaikkea ei tarvitse samassa katsastuspaikassa katsastaa, antaa
+mahdollisuuden yrittäjille tehdä erilaisia katsastuspisteitä. Hallituksen esitykset, jotka ovat
+jo toteutuneet — elikkä se, ettei tarvitse moottoripyöriä katsastaa, ja museoautojen katsas-
+tuksien helpottaminen — ovat myös hyvä pohja tälle asialle. Katsastustoiminta on Suo-
+messa ollut vahvasti säädelty asia vuosien saatossa, ja nyt kun mennään tähän, että erityyp-
+pisiä katsastusasemia syntyy Suomeen, niin pidän tätä sillä lailla hyvänä uudistuksena, ja
+tästä on hyvä mennä eteenpäin.
+
+No, mitä tulee sitten tähän taksamittariasiaan, niin tämä on tärkeä asia selkeyttää tässä
+vaiheessa, koska 1.7. uusi laki astuu voimaan, niin että sitten mennään samoilla säännöillä
+taas siltäkin osin eteenpäin. Täällä on tuotu esiin taksamittarisääntelystä keskustelu silloin,
+kun lakia valmisteltiin — toki siitä käytiin valiokunnassa kovasti keskustelua, mutta tämä
+on hyvä, selkeyttävä esitys. Tässä hallituksen esityksessä annetaan yksiselitteiset pelisään-
+nöt asialle, tulee oikeusvarmuus, ja erityisesti kun hinta määräytyy matkan ja ajan perus-
+teella, niin tämä taksamittarin tärkeys korostuu siinä asiassa, ja minusta tämä on tarpeelli-
+nen uudistus.
+
+Ja miksi tämä pitää tehdä nyt nopealla aikataululla? Se on toki välttämätöntä, koska uusi
+laki lähtee 1.7. voimaan ja pitää tietää, millä pelisäännöillä asiaa viedään eteenpäin.
+
+14.21 Jari Myllykoski vas: Arvoisa rouva puhemies! Lähdenkin nyt takaperoisesti kom-
+mentoimaan, ettei vain unohdu.
+
+Ei pidä nyt tässä salissa luulla, että tämä asia tuo jotenkin matkojen hinnoitteluun jota-
+kin sellaista uutta. Jokaisessa autossa on mittari, ja kyllä se yrittäjä itse määrittelee sen hin-
+nan, paljonko se mittari raksuttaa. Ei tämä siihen tuo nyt mitään autuutta. Minun mielestä-
+ni tämä on positiivinen asia, että tähän mittariasiaan palattiin jo näinkin nopeasti. En katso
+sitä ollenkaan pahana — jos toiveena on myös se, että me voisimme käydä keskustelua sii-
+tä, mitenkä ja millä tavoin vaikkapa tiettyinä kellonaikoina tiettyjä matkoja sitten hinnoi-
+tellaan, mutta se tuskin on tässä yhteydessä mahdollista.
+
+Jos lähden täältä negatiiviselta puolelta — vaikka positiivisiakin on — niin kun ajatte-
+len Trafin lausuntoja liittyen lakiin liikenteen palveluista ja sitä kommentointia, jossa ei
+katsottu ollenkaan huolenaiheena sitä, ettei nyt ole mittareita ja sääntelyä, niin hieman se
+puistatti niissä kommenteissa. Se tarkoittaa sitä, että tämä villi ja vapaa toiminta, kun mit-
+tareitten ja mittalaitteistojen valvonta siirrettäisiin Tukesilta, joka on sitoutunut direktii-
+viin niin, että mittalaitteet ovat säännösten mukaisia, olisi jotenkin tässä kohtaa uudistusta
+luotettavampi etenemispolku ja sitä kautta se, että toimintoja siirretään toisaalle, ei välttä-
+mättä anna ainakaan näin asiakkaan näkökulmasta luotettavuutta sille, että edettäisiin jär-
+kevästi nyt tässä tilanteessa, missä ollaan.
+
+Mutta täytyy sanoa, että kyllä tämä katsastustoiminta Suomessa on kaivannut uudistuk-
+sia. Niitä on tehty. Kun muistaa pikkupoikana, kun katsastusmiehet siellä kylien toripai-
+koilla niitä autoja katsastelivat, niin olemmehan me menneet aimo askeleen eteenpäin. On
+hyvä myös, että me pystymme normeja ja joustavuutta lisäämään katsastustoimintaan, ja
+siinä mielessä tervehdin kyllä tätä positiivisella mielellä.
+
+Mutta tämä mittalaitteitten siirto poliittiseen ohjaukseen tässä kohtaa, varsinkin sellai-
+selle taholle, joka on erittäin, voisiko sanoa, myötämielisesti suhtautunut siihen, että täm-
+möinen villi ja vapaa toiminta kyllä tulee tasoittumaan — toivotaan, että tässä keskustelus-
+sa voitaisiin, kun tämä valiokuntaan tulee, kun tätä avataan, palata vielä siihen hinnoitte-
+luun näitten mittareitten kautta.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+14.24 Eero Lehti kok: Arvoisa rouva puhemies! Sodan jälkeen, kun seurasin 50-luvulla
+autojen katsastusta, melkein kaikki autot olivat loppuun ajettuja ja turvalaitteet vähän niin
+ja näin, eivät pelkästään ohjausnivelet vaan usein jarrut ja renkaatkin.
+
+Sen jälkeen autoteknologia on mennyt huikeita askeleita eteenpäin, ja on esitetty kysy-
+mys, kannattaako ylipäätänsä käyttää kansakunnan voimavaroja autojen katsastamiseen —
+nyt puhun henkilöautoista, kevyestä liikenteestä. Ilmeisesti se, että moottoripyöriä ei tar-
+vitse katsastaa, viittaa siihen, että on ymmärretty, että tämä kokonaisuus ei tule kansanta-
+louden kannalta järkevään käyttöön, mitä näihin autojen katsastuksiin menee henkilötyö-
+aikaa ynnä muita.
+
+Muistaakseni Yhdysvalloissa ei tarvitse katsastaa autoja. Silloin, kun Suomessa suolat-
+tiin teitä, oli tietysti syytä katsoa keskeisiä rakenteellisia osia, ovatko ne läpiruostuneita,
+mutta nyt nämä ongelmat on saatu pääosin korjattua.
+
+Norjan liikenneministeriö selvitti, kannattaako katsastukseen käyttää näin paljon resurs-
+seja verrattuna siihen, että vastaavat resurssit siirretään tien päällä oleviin tarkastuksiin.
+Nimittäin kuolemaan johtaneista onnettomuuksista suuri osa on tietysti, ikävä kyllä, itse-
+murhia, mutta se, mikä jää jäljelle, johtuu useimmiten siitä, mitä on ratin ja penkin välissä
+— tai renkaissa.
+
+Epäilen, että olisi syytä viedä tätä uudistusta eteenpäin ja katsoa, missä vaiheessa esi-
+merkiksi uusimman kaluston osalta voitaisiin tästä luopua kokonaan tai siirtyä siihen, että
+jos autoa huolletaan, niin siinä yhteydessä huoltajan velvollisuuksiin tulee kiinnittää huo-
+miota niihin paikkoihin, joihin sisältyy riskiä.
+
+Sitten tämä taksin mittariasia. Kun torikaupassa vaaditaan aika yksilöityjä mittavälineis-
+töjä, jotta voidaan nippu porkkanoita myydä tai kappa perunoita, niin kyllä tässä, sanoisin-
+ko, dokumentoituvassa maailmassa pitäisi olla mahdollista, että kaikissa autoissa olisi sel-
+lainen mittaristo, josta sekä asiakas että verottaja voisivat luotettavasti päätellä, että mitään
+ohikirjaamista ynnä muuta ei tapahdu.
+
+14.26 Anne Kalmari kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Edustaja
+Lehti käytti hyvän puheenvuoron, joskin tietysti meidän täytyy muistaa, että autokantaa on
+hyvin monenlaista. Esimerkiksi itse tulen pitäjästä, jonka bensamittarissa lukee teksti ”ysi-
+vitonen poistettu vähäisen käytön vuoksi”, ja siellä on tarjolla vain ysikasia, ja tämä kuvas-
+taa sitä, minkälaista autokantaa siellä kotipitäjässäni on. Mutta siitä huolimatta nimen-
+omaan tämä katsastuksen eteneminen asteittain voisi olla järkevää. Uusien autojen suhteen
+voisi miettiä, kuinka paljon sitä katsastusväliä vielä voisi turvallisesti pidentää ja voisiko
+siellä tulla välivuosia sitten myöhemminkin.
+
+Kun taksiuudistus nyt sitten astuu voimaan, siellä on paljon pelkotiloja, mutta toivon
+myöskin sitä, että kun tasavertaisesti vaaditaan [Puhemies koputtaa] verokirjanpidot ja ta-
+savertaisesti mittarit, niin toisaalta se voisi avata uusia mahdollisuuksia niin kuluttajille
+kuin muille toimijoille.
+
+Puhemies Paula Risikko: Sitten puhujalistaan.
+
+14.28 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Tämä katsastustoimintaa koske-
+van lainsäädännön uudistaminen on äärimmäisen hyvä hanke. On syytä muistaa kuitenkin
+se tosiasia, että maailma on mennyt eteenpäin niistä ajoista, jolloin katsastustoimintaa alet-
+tiin Suomessa harjoittaa. Muistan, kun muuan rekkamies totesi aikoinaan silloin vanhan
+6
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+lain aikaan, entisen menettelyn aikaan, että kun sitten tähän uuteen tultiin ja katsastustoi-
+minta vapautui, niin hän kun puutavararekkaansa oli käynyt katsastamassa, tuumasi ja to-
+tesi vain rauhallisesti, että ensimmäistä kertaa hän huomasi olevansa asiakas, joka on tär-
+keä sille katsastustoimistolle. Se aikaisempi vähän ehkä kylmäkiskoisempi kohtelu muut-
+tui ystävälliseksi palveluksi. Tällä linjallahan meidän pitää jatkaa. 
+
+Ja pitää muistaa se tosiasia, niin kuin edustaja Lehti omassa puheenvuorossaan hyvin
+kuvasi, että tämän päivän autojen huoltaminenhan on muuttunut aika pitkälti uudempien
+autojen osalta silläkin keinoin, että kun takuuvaatimukset vaativat, että asiakas käyttää
+määrävälein auton huollossa, jotta takuu säilyy voimassa, niin siinä samassa yhteydessä
+huoltomies varmasti katsoo kaikki kohdat, että auto on kunnossa. Ja myös vanhempien au-
+tojen kanssa pitää muistaa se, että tämän päivän huoltoasemilla työskentelevät ammattilai-
+set ovat erittäin vastuullisia miehiä ja naisia, ja kun he huoltavat autoa, niin jos he huomaa-
+vat vaikka, että joku raidetangon pää taikka jotkut jarrulevyt tai jotkut muut ovat kuluneet,
+kyllä varmasti siitä huomauttavat ja keskustelevat autonomistajan kanssa, että kannattaisi-
+ko nuo vaihtaa, jotta matka olisi turvallinen. Elikkä me olemme muuttuneet aikaan, joka on
+äärimmäisen hyvä ja nykyajan mukainen.
+
+On syytä muistaa toisena esimerkkinä nykyajan hyvyydestä tämä digitaalitekniikka. Ny-
+kyisistä autoistahan pystytään viat paikallistamaan jo pelkän tietokoneyhteyden kautta, se,
+mitä siellä autossa on vikana, elikkä todellakaan auton katsastamiseen ei enää niin paljon
+virhemahdollisuuksia jää, ja kun katsastuskerrat harvenevat jo aikaisemmin hyväksyttyjen
+lakien myötä, niin tässäkin yhteydessä saavutetaan järkevää hyötyä. 
+
+Minun mielestäni näihin mittalaitteisiin tässä laissa kosketaan aivan oikein. Tälläkin
+puolella on tapahtunut valtavaa kehitystä, [Puhemies koputtaa] ja verottaja varmasti saa
+aina oman osansa, sille kuuluvan osan, mikä sille kuuluukin. Ja pitää muistaa, että nämä
+yrittäjät ovat tietenkin kirjanpitovelvollisia eli ei ole mitään sellaista maailmaa, että nämä
+voisivat niin sanotusti pimeästi näitä töitä tehdä. Maailmassa tietysti aina siihen mahdolli-
+suuksia löytyy, mutta uskon vakaasti, että suomalaiset yrittäjät, alalla toimivat henkilöt,
+ovat varmasti vastuullisia ja tekevät työnsä hyvin ja kunniallisesti.
+
+14.30 Eeva-Maria Maijala kesk: Arvoisa puhemies! Auton katsastaminen — sydän hak-
+kaa, hermostuttaa. Mietit, miten tässä nytten taas tällä kertaa tulee käymään. No, onneksi
+meillä on todella asiantuntevaa ja osaavaa porukkaa sitä autoa katsomassa, mikä sen auton
+tilanne tällä hetkellä sitten onkaan. Koko lakiuudistuksen tavoitteena on vähentää byrokra-
+tiaa ja lisätä turvallisuutta kaikissa näissä asioissa. On todella hyvä, että nyt tässä katsas-
+tuslakiuudistuksessakin kiinnitetään huomiota siihen, että tärkeintä on se, että autot ovat
+hyvät ja kunnossa.
+
+Byrokratiahan tässä ehdottomasti kevenee, ja sen kannattaa keventyäkin, sillä autojen
+tekniikka on kehittynyt todella paljon. Meillä liikenteessä olevat autot ovat koko ajan pa-
+rempia ja parempia ja varmempia liikkumaan kuin aikaisemmin. 
+
+Siitä, miten autojen kanssa nyt sitten toimitaan: Tekniikka on kehittynyt, ja niitä ei to-
+dellakaan enää tarvitse katsastaa niin paljoa kuin aikaisemmin. Kun digitalisaatio on koko-
+naisuudessaan lisääntynyt, niin se auttaa myöskin tätä autojen katsastuskokonaisuutta. On
+hyvä, että me voimme viedä auton katsastettavaksi eri paikkoihin, kulkea eri paikoissa.
+Varsinkin, kun minulla on kuitenkin pitkä matka lähimpään katsastuspaikkaan, se hermos-
+tuttaa. 
+7
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+No, eihän se auto viimeksikään läpi mennyt ensimmäisellä kerralla, mutta se oli help-
+poa, kun minä tiesin, että on muitakin paikkoja, missä minä voin käyttää sitten, kun minä
+kerkeän, näyttämässä, olenko minä korjannut sen oikealla lailla.
+
+Laki liikenteen palveluista on valtavan iso lakikokonaisuus, sen kanssa on tehty meillä
+liikenne- ja viestintävaliokunnassa mahdottomasti töitä. Oli todella rohkea veto lähteä ra-
+kentamaan kerralla näin isoa uudistuspakettia. Eihän siitä kerralla ihan täydellistä tullut.
+Ykkösvaiheessa tehtiin asiaa, sitten oli kakkosvaiheessa ja saatiin jo paljon asioita aikaan.
+Ehkä tämä katsastuskokonaisuuskin olisi pitänyt jo vähän aikaisemmin olla, mutta kun ot-
+taa huomioon, kuinka mahdottomasti meidän ministeriömme on jo valmistellut ja tehnyt
+töitä tämän kokonaisuuden eteen, niin hyvin tässä on kyllä, todella hyvin, saatu asia mene-
+mään eteenpäin. Voi olla, että meille tulee lähiaikoina vielä joitakin muitakin pikkuisen
+korjattavia asioita tässä laissa liikenteen palveluista, mutta ehdottomasti eteenpäin men-
+nään.
+
+Täytyy sanoa kyllä ministerille kiitos siitä, että näitä asioita on näin hyvin viety eteen-
+päin.
+
+14.33 Suna Kymäläinen sd: Arvoisa rouva puhemies! Ihan alkuun kaksi huomiota. 
+Ensinnäkin, kun todetaan lainsäädännössä jotain puutteita tai aukkoja, jopa ihan suora-
+
+naisia virheitä, on erittäin hyvää ja tarpeenmukaistakin, että niitä paikataan ja korjataan.
+Lähtökohta on, että tarvitaan katsastusalalle uudistamista, mutta me haluaisimme valio-
+kunnassa tehdä tuon työn kunnolla, sillä sillä tulee olemaan ihmisten arkeen ja elämään
+myöskin suuria vaikutuksia. Haluaisimme tehdä siis sellaisen lain, jossa ei olisi näitä vir-
+heitä ja puutteita, joihin joutuisimme palaamaan, varsinkin kun tässä ei ole mitään kiireel-
+lisyyspakotetta. Tämän lain on arvioitu tulevan voimaan vielä 2019. 
+
+Mutta tähän mittariasiaan, joka todellakin edellyttää tarkennusta, jotta tuolla tien päällä
+on selvyyttä niin toimijoilla kuin erityisesti asiakkailla ja palvelun käyttäjillä, tarvitaan
+muutosta. Siksi edelleenkin toistan kysymyksen ja ihmettelen, miksi katsastuslaki yhdis-
+tettiin taksamittarien käsittelyyn, kun tällä taksamittariasialla on kiire ja tällä katsastuslail-
+la ei ole kiire. Ja edelleenkin kysyn sitä perustetta, miten me voisimme tehdä täällä lainsää-
+däntöä, jossa valvonta ohjattaisiin liikenteen turvallisuusvirastoon, jota ei vielä ole olemas-
+sakaan. Me emme tiedä, minkämuotoisena tuo virasto tulee tapahtumaan.
+
+En tiedä, olenko vainoharhainen, jonkun mielestä ehkä olenkin, mutta tulee sellainen
+tuntuma, että tätä liikennevirastoa pyritään nyt näiden muiden lakiesitysten myötä ikään
+kuin väkisin ajamaan voimaan. Sitten seuraavaksi perusteluihin tulee, että meillä on jo teh-
+ty tämä valvontalaki näitten mittareitten osalta, jossa tehtävät ovat liikennevirastolla ja niin
+pois päin. Mutta että tänä ajankohtana — elämme nyt juhannusviikkoa, ja ainakin toistai-
+seksi tiedossa on, että me työskentelemme täällä vielä yhden viikon juhannuksen jälkeen
+— tämän laajan paketin saisimme käsiteltyä liikennevaliokunnassa, jossa meillä on luke-
+mattomia muitakin isoja tehtäviä, kuten vaikka tieliikennelaki, se on kyllä aika hokkuspok-
+kusta edellyttävä. Tai sitten me olemme tilanteessa, että me emme käy asiantuntijakuule-
+misia. Tämäkään ei ole tässä talossa nykyisin enää mitenkään erikoista, mutta toivoisin,
+että tämä toimintatapa ei laajene kaikkiin valiokuntiin. 
+
+Minä siis olen aidosti huolissani siitä, että emme me tämän juhannusviikon ja juhannuk-
+sen jälkeisen viikon aikana koko tätä isoa pakettia [Puhemies koputtaa] pysty käsittele-
+mään. Toivoisin, että saisimme näihin mittareihin jotain selkeytystä.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+14.36 Markku Pakkanen kesk: Arvoisa rouva puhemies! Täällä on käyty hyvää keskus-
+telua katsastuksesta ja sen tarpeellisuudesta. 
+
+Itse haluaisin muistuttaa, miksi Suomessa autoja katsastetaan: Kyllä se tärkein periaate
+on tietenkin oma turvallisuus, jotta katsastettu auto, millä ihmiset liikkuvat, on turvallinen.
+Se oma turvallisuus on siinä se ensimmäinen tulokulma ja sitten vasta kaikki muut. 
+
+Edustaja Lehti ansiokkaasti kyllä vertasi muuhun maailmaan. Siinä mielessä se, että
+moottoripyöriä ei tarvitse katsastaa, on tärkeä asia. Tieliikenteessä on sitten poliisin resurs-
+sit ja valvonta se, millä moottoripyörien katsastus maantiellä suoritetaan. 
+
+Tähän mittauslaitedirektiiviasiaan: Haluaisin muistuttaa myös, että tätä mittaustehtä-
+väähän nyt ei sinällänsä määritellä siinä direktiivissä, vaan ne jäävät meille kansallisiksi
+päätöksiksi, ja se on tärkeä huomioida. Siksi pidän tärkeänä, että se asia on nytten meillä
+käsittelyssä, ja se on meidän päätäntävallassamme nyt, että tilattuihin olisi käytettävissä
+taksamittarit, mistä tilataan kyydit. Kun matkan hinta perustuu aikaan ja on matkaan sidot-
+tu, niin siinä on hyvä olla taksamittari. Niin ei sitten syntyisi tämä tällainen torikauppail-
+miö, vaan taksamittarista saat myös kuitin, ja kuluttaja pystyisi sitten arvioimaan jälkikä-
+teenkin matkan hinnan ja sen, miten se hinta on määräytynyt, ja sen, miten se muodostuu.
+Toisaalta varmaan yhteiskunta ja muutkin sitä kuittia sitten aina joskus tarvitsevat ja kyse-
+levät, ja toki siitä sitten verottajallekin jää jälki vastaisuudessa. Mutta erityisesti kuitin-
+saanti- ja kuitinantovelvollisuus paranee.
+
+14.38 Eero Lehti kok: Arvoisa rouva puhemies! Kun edustaja Pakkanen täällä otti moot-
+toripyörät vielä kertaalleen esiin: Nyt on syntynyt sellainen ilmiö — kun liikkuva poliisi
+vähensi olennaisesti tievalvontaa ja siirryttiin peltipoliiseihin — että kun moottoripyörissä
+ei ole etupäässä lainkaan rekisterinumeroa, niin ne jäävät täysin katveeseen. Sitä voi ajaa
+vaikka kuinka lujaa ja väärällä kaistalla tai mitä tahansa, eikä poliisi pysty jäljittämään.
+
+Tässä on se vaara, että myös niin sanotut kevytmoottoripyörät — joissa sanotaan olevan
+vähemmän tehoa, mutta niissä on aivan riittävästi tehoa, jotta pyörän nopeus voi ylittää 200
+kilometriä tunnissa — voivat ajaa peltipoliisin ohi, eikä mitään siitä seuraa.
+
+Sama koskee ehkä sitä, että myös ajokortitta ajaminen on yleistynyt, kun ei ole liikku-
+valla poliisilla resursseja. Nuoret lähtevät siitä, että siihen, jos jää kiinni, on niin pieni mah-
+dollisuus ja aina voi selittää, että oli satunnainen. Ja käytännössä aika monet jättävät ajo-
+kortin hankkimatta juuri tästä syystä, että poliisi on siirtynyt peltipoliiseihin. En ole nähnyt
+ensimmäisenkään peltipoliisin kysyvän ajokorttia sen paremmin kuin sitä, että ajatteko
+huumeiden tai alkoholin vaikutuksen alaisena. Siinä, että näin on menetelty, on kyllä aika
+paljon huolestuttavia piirteitä. 
+
+Liikenneturvallisuuden kannalta tietysti voisi sanoa, että kun Suomessa sallittiin niin sa-
+notut mopoautot, niin se tarkoittaa sitä, että loukkaantumisriski niiden kanssa on monin-
+kertainen, kun paljon huokeammilla kustannuksilla nopeudeltaan rajoitetuilla autoilla olisi
+voitu antaa nuorille ihmisille mahdollisuus liikkua turvallisemmassa ajoneuvossa.
+
+14.40 Ritva Elomaa ps: Arvoisa puhemies! Katsastuksen järkeistämisestä täytyy antaa
+kyllä hallitukselle ihan positiivinen peukku. Se on ihan hyvä asia.
+
+Mutta täällä ovat nyt tulleet esille nämä taksimittarit, ja haluan nyt suoraa palautetta an-
+taa taksiautoilijoilta Varsinais-Suomesta ja myös Satakunnasta. He ovat tosiaan huolis-
+saan tuloistaan. He ovat laskeneet, että jos tulot ovat olleet vuodessa 40 000, niin näitten
+uudistusten jälkeen tulot laskevat noin 32 000:een, ja tämä laitteisto on yksi sellainen han-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 68/2018 vp
+kinta, mihin menee varoja, joten pitäisi vielä kyllä ministerinkin harkita, mitäs tämän asian
+kanssa tehdään, koska varsinkin näistä maaseudun taksiautoilijoista on osa jo ehkä lopet-
+tamassa koko ammattinsa. Se on hankala asia maaseudun ihmisille, niitä tuttuja takseja ei
+sitten enää kuljekaan. 
+
+Tässä Taxidatassa, mikä nyt ohjeistaa koko aluetta Varsinais-Suomessakin, vaatimuk-
+set ovat aika kovia. Nämä yksittäiset taksiautoilijat ovat helisemässä.
+
+Puhemies Paula Risikko:  Ministeri Berner, voitte puhua siitä paikalta, 3 minuuttia, olkaa
+hyvä.
+
+14.41 Liikenne- ja viestintäministeri Anne Berner: Arvoisa rouva puhemies! Kiitoksia
+edustajille keskustelusta. Muutama näkökulma tähän katsastuslakiin.
+
+Katsastajien vaatimukset eivät tässä yhteydessä muutu, ja katsastuslaista on järjestetty
+myöskin laajat kuulemiset ja esitystä on tältä osin pidetty hyvinkin tasapainoisena. Koko-
+naan katsastustoiminnasta ei voida luopua. Kysymyksessä on EU-direktiivi, joka tuo
+myöskin meille tiettyjä vähimmäisvaatimuksia, joita nyt tämän lain mukaan myöskin toi-
+meenpannaan.
+
+Laki liikenteen palveluista on todellakin erittäin iso muutos liikennejärjestelmään, josta
+myöskin on täällä salissa todettu. On selvää ja ymmärrän erittäin hyvin, että tämä tuo
+myöskin paljon huolenaiheita, paljon keskustelua. Senkin osalta on tärkeää, että silloin,
+kun meillä syntyy epävarmuustekijöitä, pystytään niihin myöskin nopeasti tarttumaan ja
+viemään näitä eteenpäin.
+
+Taksamittarin osalta lakimuutos on valmisteltu erittäin hyvässä yhteishengessä työ- ja
+elinkeinoministeriön, Tukesin ja Trafin kanssa. Esityksestä on ollut yhteisymmärrys, ja
+toimijoiden kannalta on selkeämpää, että on yksi viranomainen, joka valvoo mittareita,
+eikä ole laitekohtaista, mikä viranomainen mitäkin laitetta valvoo. Samalla olemme halun-
+neet huolehtia sanamuodoilla nimenomaan siitä, että käy selkeästi ilmi EU-mittauslaitedi-
+rektiivin mukainen lakisääteinen mittaustehtävä ja että siinä olisi luottamusta ja selkeyttä
+toimijoiden piirissä, kuten edustaja Pakkanen täällä myöskin totesi.
+
+Tämän lisäksi, kun on viitattu siihen, että olemme asiaamme edellä, olemme täällä to-
+denneet, että toimijoiden tulisi tehdä ilmoitukset Liikenteen turvallisuusvirastolle, joka siis
+on meidän nykyinen Trafi, nykyinen olemassa oleva viranomainen, tai sitten myöhemmin
+liikenne- ja viestintävirastolle, jos eduskunta kyseisen virastouudistuskokonaisuuden mah-
+dollisesti aikanaan hyväksyy. Tältä osin olemme pyytämässä nimenomaan tätä näkökul-
+maa ja pidämme tämän myöskin huomiossa. — Kiitos.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan.
+10
+
+

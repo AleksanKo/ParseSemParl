@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMC4F.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 26/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 26/2016 vp
+
+Täysistunto
+
+Torstai 17.3.2016 klo 15.59—17.46
+
+4. Hallituksen esitys eduskunnalle laeiksi opiskelijavalintarekisteristä, korkeakoulujen val-
+takunnallisesta tietovarannosta ja ylioppilastutkintorekisteristä annetun lain 8 ja 9 §:n sekä 
+ylioppilastutkinnon järjestämisestä annetun lain 1 §:n muuttamisesta
+
+Hallituksen esitys HE 12/2016 vp
+Valiokunnan mietintö SiVM 3/2016 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 4. asia. Käsittelyn pohjana on  sivistysvaliokunnan mietintö  SiVM
+3/2016 vp. Nyt päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+17.15 Sanna Lauslahti kok (esittelypuheenvuoro): Arvoisa puhemies! Hallituksen esitys
+eduskunnalle laeiksi opiskelijavalintarekisteristä ja korkeakoulujen valtakunnallisesta tie-
+tovarannosta ja ylioppilastutkintorekisterin järjestämisestä olevan lain muuttamisesta —
+voisi sanoa, että on muuten samassa hengessä kuin äsken käytiin keskustelua, eli voi sa-
+noa, että sama tähtäin: digitaalisuus ja verkkojen yllä tapahtuvat uudet toiminnot. Sivistys-
+valiokunnassa asia oli yksimielinen, ja muutamia kohtia nostaisin esityksestä esille.
+
+Ensinnäkin hallituksen esityksen tavoite on varmistaa se, että päästään siirtymään säh-
+köiseen ylioppilastutkintoon ongelmattomasti lainsäädännön näkökulmasta, ja samalla
+ajantasaistaa voimassa olevaa käytäntöä ja sähköisen ylioppilastutkinnon aiheuttamia
+muutoksia sekä myös selkiyttää tiettyjä tulkinnallisia lain kohtia. Hallituksen esityksellä ei
+ollut sinänsä minkäänlaisia taloudellisia vaikutuksia.
+
+Muutamia poimintoja:
+Koesuoritusten tallentamisesta. Ylioppilastutkinnon koesuoritukset muodostavat laajan
+
+henkilötietoja ja salassa pidettäviä tietoja sisältävän tietoaineiston, jonka säilymistä ei voi-
+massa olevassa ylioppilastutkintoa koskevassa lainsäädännössä säännellä. Tältä osin tämä
+asia saadaan korjattua.
+
+Muutama näkökulma nousi oppilaan näkökulmasta: Tänä päivänä, kun halutaan saada
+koesuorituksesta kopio, se maksaa 32 euroa. Asiantuntijakuulemisessa nousi esille, että
+voisiko jotain asian puitteissa tehdä, koska usein saattaa käydä niin, että se kopiosta pyy-
+detty maksu heikentää kokelaan mahdollisuutta tutustua sitten jälkikäteen koesuorituk-
+seensa.
+
+Hallinnonalan tietoinfrastruktuurin kehittäminen oli myöskin valiokunnassa yhtenä tar-
+kastelukohteena. Opetus- ja kulttuuriministeriö ja Opetushallitus valmistelevat tällä het-
+kellä yhdessä hallinnonalan valtakunnallisten rekisterien ja rekisterilainsäädännön uudis-
+tusta, ja tavoite on, että syntyisi tämmöinen yhteinen keskitetty integraatiopalvelu, niin sa-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 26/2016 vp
+notusti Koski, johon on tarkoitus kerätä tietoa olemassa olevista rekistereistä, opiskelijava-
+lintarekisteristä, ylioppilastutkintorekisteristä, korkeakoulujen valtakunnallisesta tietova-
+rannosta ja uusista perustettavista rekistereistä. Näin ollen me saamme tulevaisuudessa yh-
+den tietokannan alle kaikki oppilaita koskevat tiedot. Voi sanoa, että tämä on iso askel
+oppilaidenkin näkökulmasta.
+
+Se, mikä pohditutti, on se, että on erityisen tärkeätä, että meillä myöskin näiden tietoinf-
+rastruktuurien johtaminen on selkeästi yksissä käsissä, ja valiokunta halusi korostaa ope-
+tus- ja kulttuuriministeriön vastuuta hallinnonalansa tietoinfrastruktuurin kehittämisessä.
+
+17.18 Tytti Tuppurainen sd: Arvoisa puhemies! Tällä lakiesityksellä on tarkoitus huo-
+lehtia siirtymisestä sähköiseen ylioppilastutkintoon, eli käsittelyssä on eräänlainen yliop-
+pilastutkinnon digiloikka, joka on hieno asia, ja voimme olla siitä ylpeitä, ja tämä on jo
+maailmalla herättänyt huomiota. Siis keväästä 2019 lähtien ylioppilastutkinto tulee suorit-
+taa kokonaisuudessaan sähköisin päätelaittein. Se liittyy tässä aiemmin keskusteltuun säh-
+köverkkojen toimintaan, nimittäin sähköinen ylioppilastutkinto edellyttää luonnollisesti
+toimintavarmaa tiedonsiirtoa ja se edellyttää myös varmaa tietosuojaa.
+
+Tässäkin yhteydessä on, puhemies, syytä huomauttaa, että myös tämä sähköinen yliop-
+pilastutkinto, siihen liittyvä tiedonsiirto, täytyy turvata maan kaikissa osissa, myös kaik-
+kein pohjoisimmilla ja itäisimmillä alueilla.
+
+Sivistysvaliokunnan tavoin haluan vielä kiinnittää huomiota koesuoritukseen tutustumi-
+seen jälkikäteen. Valiokunta kiinnitti huomiota maksuihin. Tällä hetkellä kopio omasta
+koesuorituksesta maksaa 32 euroa, ja se saattaa monelle olla liian korkea kynnys hankkia
+tuo oma koesuoritus myöhemmin nähtäväksi, ja nyt kun tämä ylioppilastutkinto muuttuu
+sähköiseksi, niin olisi paikallaan arvioida vielä kerran nämä tiedonsaantiin liittyvät mak-
+sut.
+
+17.19 Timo Heinonen kok: Arvoisa puhemies! Itse melkein toteaisin mieluummin, että
+vihdoinkin — minun mielestäni tässä ei kauheasti voida Suomessa ylpeillä tällä digiloikal-
+la. Vielä tänä keväänä ja ensi keväänä, elikkä vielä kahtena keväänä, ylioppilaskirjoituk-
+sissa digiaikaan tottuneet nuoret ottavat lyijykynäloikan ja loikkaavat tekemään niitä yli-
+oppilaskirjoituksia käsipelillä tällaisessa maassa, missä olemme olleet kyllä edelläkävijöi-
+tä tällä sektorilla oikeastaan kaikessa muussa. Itse entisenä opettajana muistan hyvin, mi-
+ten tietokoneet tulivat kouluun. He, ketkä nyt pääsevät ensimmäistä kertaa kokonaan säh-
+köisen ylioppilaskirjoituksen pariin, ovat syntyneet 2000-luvulla, ja heitä ennen jo ehkä 10
+vuotta vanhemmat ovat jo eläneet läpi elämänsä puhelimien aikana, valtaosa älypuheli-
+mien aikana, tablettien aikana,  ja tänä päivänä aika usein saa törmätä siihen,  miten oma
+3-vuotias lapsi käyttää kyllä tablettia hienosti sormen kanssa mutta lehdessä tuleekin ih-
+meitä, kun ei kuva vaihdukaan kuvaa koskettamalla. Kyllä melkein voisi sanoa, että tämä
+digiloikka ei ole meidän lukiolaisille mikään loikka vaan arkipäivää, ja itse totean, (Puhe-
+mies koputtaa) että parempi lopulta kuin ei milloinkaan. Eli täysi tuki tälle, että asiassa nyt
+lopulta edetään, mutta kovin verkkaisesti.
+
+17.21 Sanna Lauslahti kok: Arvoisa puhemies! Edustaja Heinonen on täysin oikeassa,
+että vuonna 2000 syntynyt nuori alkaa kyllä olla ihan sitä meidän digisukupolvea, jolle ko-
+neet ovat, voi sanoa, osa arkea ja arkista kommunikointia, ja siltä osin heillä on ihan uu-
+denlaiset toimintatavat, jotka tulee huomioida myös meidän opetuksessa. Ei ole pelkästään
+2
+
+
+
+Pöytäkirjan asiakohta PTK 26/2016 vp
+se, että me pääsemme sähköiseen ylioppilaskirjoitukseen, vaan yhtä lailla on kysymys sii-
+tä, millä tavalla meidän opetus muuttuu sitä edeltävinä vuosina, millä tavalla siellä hyödyn-
+netään osana opetusta digitaalisia välineitä. Tässä kohdin se jopa tarkoittaa sitä, että meillä
+voi olla tulevaisuudessa lukioissa yhä enemmän massaopintokurssejakin, joita tarjotaan
+valtakunnallisesti. Niitä pystyisi missä tahansa meidän maamme kolkassa opiskelemaan, ja
+sitten olisivat lähiopetusjaksot siellä yhdessä muiden kanssa tehtävänä. Ollaan kyllä aika
+ison uudistuksen edessä, ja on hyvä, että hallitus on tunnistanut tämän ja meillä on siltä
+osin kärkihankekin paikallaan.
+
+17.22 Sami Savio ps: Arvoisa puhemies! Tässä on kyseessä hyvä esimerkki digitalisaa-
+tiosta, joka on myös yksi hallituksen kärkihankkeista, joten tärkeä uudistus. Eli tätä yliop-
+pilastutkintoon liittyvää säädöstä muutettaisiin siten, että kokeet voidaan jatkossa suorittaa
+myös sähköisin menetelmin ja vuodesta 2019 alkaen kokonaan sähköisesti. Tämän uudis-
+tuksen yhteydessä nyt sitten tulkintavirheiden mahdollisuus käsittääkseni pienenee olen-
+naisesti, ja todennäköisesti myös kokeiden korjaamiseen käytettävä aika lyhenee ainakin
+pitkällä tähtäimellä näiden suunniteltujen muutosten myötä. Pidänkin tätä esitettyä laki-
+muutosta tärkeänä askeleena kohti nykyaikaista toimintamallia ylioppilastutkintojen suo-
+rittamisessa ja korjaamisessa. Siihen on mielestäni jo korkea aikakin ryhtyä, kuten myös
+edustaja Heinonen äsken puheenvuorossaan viittasi. Tästä asiastahan on käyty julkista kes-
+kustelua jo varsin kauan ja nyt asiassa päästään onneksi eteenpäin.
+
+17.24 Marisanna Jarva kesk: Arvoisa puhemies! Tässä on nyt hyvä esimerkki siitä, että
+monia pitkäänkin puhuttaneita ja valmisteltuja asioita saadaan nyt eteenpäin, ja tämä asia
+esimerkiksi ei ole puhuttanut mitenkään erityisesti opposition ja hallituksen välissä, vaan
+tämä on semmoinen kannatettava esitys, jota halutaan viedä eteenpäin.
+
+Digitalisaatioon liittyen erityisesti on muistettava, että tämä on vasta yksi askel, aika
+pieni asia siinä. Kuitenkin sitten yleensä opetuksessa, jos mennään myös muihin opetus-
+muotoihin, varsinkin peruskoulupuolella, on muistettava se, että kuitenkaan koulut ympäri
+Suomen eivät ole edelleenkään tasavertaisessa tilanteessa siinä, että laitteita tai osaamista
+opettajilla olisi riittävästi. Sieltä tämä tarve myös tulee, ja opettajat odottavat erityisesti si-
+tä, että heidän osaamistaan tässä asiassa parannetaan. Sen takia hallitus haluaa panostaa
+erityisesti digitalisaatioon ja erityisesti opettajien osaamiseen tässä asiassa.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 12/2016 vp sisältyvien 1. ja 2. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+3
+
+

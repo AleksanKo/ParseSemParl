@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM37AA.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 111/2017 vp
+
+Täysistunto
+
+Torstai 26.10.2017 klo 16.00—20.49
+
+3. Hallituksen esitys eduskunnalle laiksi maankäyttö- ja rakennuslain muuttamisesta
+Hallituksen esitys HE 85/2017 vp
+Valiokunnan mietintö YmVM 13/2017 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Arto Satonen: Ensimmäiseen käsittelyyn esitellään päiväjärjes-
+tyksen 3. asia. Käsittelyn pohjana on ympäristövaliokunnan mietintö YmVM 13/2017 vp.
+Nyt päätetään lakiehdotuksen sisällöstä.
+
+Yleiskeskustelu alkaa. — Edustaja, valiokunnan puheenjohtaja Hassi.
+
+Keskustelu
+
+17.02 Satu Hassi vihr (esittelypuheenvuoro):  Arvoisa puhemies! Tämä maankäyttö- ja
+rakennuslain muutos osittain sisältää nykyisiä määräyksiä ja ohjeita, jotka vain siirretään
+asetustasolta lain tasolle, ja lisäksi siinä on useita asetuksenantovaltuuksia. Sisällöllisesti
+olennaisimmat asiat koskevat sitä, millä tavalla matkapuhelinten kuuluvuus taataan raken-
+nuksissa, jotka ovat aikaisempaa energiatehokkaampia. Toiseksi, hallitus esittää rakennus-
+ten kerrosalan laskentaan eräitä muutoksia, jotka käytännössä lisäävät rakennusoikeutta.
+
+Näistä ensimmäinen kokonaisuus eli matkapuhelinten kuuluvuuteen liittyvä asia: Siltä
+osin valiokunta on yksimielinen. Käydyssä keskustelussa on jonkun verran käyty köyden-
+vetoa siitä, pitäisikö lainsäädännössä selkeästi asettaa vastuu siitä, että matkapuhelimet
+kuuluvat myös energiatehokkaammissa rakennuksissa, joissa on paksummat lämpöeris-
+teet ja energiatehokkaat ikkunat sisältävät metallia eivätkä samalla tavalla päästä kenttiä
+läpi kuin perinteiset ikkunat — pitäisikö vastuu asettaa yksiselitteisesti joko rakentajille tai
+teleyhtiöille? Valiokunta kannattaa hallituksen esittämää muotoilua, joka tarkoittaa sitä,
+että nämä asiat käytännössä ratkaistaan yhteistyössä kaikkien osapuolten kanssa. Valio-
+kunta myöskin pitää välttämättömänä, että ympäristöministeriö yhteistyössä rakennutta-
+jien, asukkaiden ja teleoperaattoreiden kanssa alkaa mahdollisimman pian valmistella ase-
+tusta, jossa annetaan tarkempia säännöksiä tarvittavista teknisistä ratkaisuista. Jos sitten
+tässä selvitystyössä ilmenee tarvetta säätää tarkemmin kustannusvastuun kohdentamises-
+ta, niin tehdään se sitten siinä yhteydessä.
+
+Rakennusoikeuden laskennan osalta hallitus esittää sitä, että sallitun kerrosalan saa ylit-
+tää erinäköisten taloteknisten järjestelmien vaatimien hormien ja myöskin huoneistoja
+erottavien väliseinien paksuuden osalta siltä osin kuin ne ylittävät 20 senttiä. Tällä kannus-
+tetaan mitoittamaan kuilut ja seinät siten, että lämpö- ja äänieristävyys voidaan toteuttaa
+terveellisyyttä ja viihtyisyyttä edistävällä tavalla. Tämä hallituksen esitys tarkoittaa sitä,
+että jo päätettyjen mutta vielä rakentamattomien tonttien osalta kerrosalan tulkinta muut-
+tuu siten, että kerrosala käytännössä suurenee. Tämän asian osalta valiokunnassa on ollut
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+pieni erimielisyys. Näiden talotekniikkajärjestelmien, hormien ja seinäpaksuuksien osalta
+valiokunta on yksimielinen muun muassa siksi, että hallituksen esitys osaltaan edistää puu-
+rakentamista, mutta väestönsuojien osalta valiokunta on erimielinen. Jo tälläkin hetkellä
+monissa kunnissa myönnetään rakennushankkeissa ylitysoikeus väestönsuojan vaatiman
+kerrosalan verran, mutta tällöin harkinta on kunnilla. Vastalauseen jättäneet valiokunnan
+jäsenet ovat sitä mieltä, että väestönsuojan osalta muutoksen pitäisi koskea vain niitä kaa-
+voja, jotka hyväksytään tämän lain voimaantulon jälkeen, ja vanhojen kaavojen osalta
+väestönsuojan osalta tulkintaa rakennusoikeuden laskemisesta ei muutettaisi.
+
+17.06 Pauli Kiuru kok:  Arvoisa herra puhemies! Kiitos valiokuntamme puheenjohtaja
+Hassille esittelystä.
+
+Ensinnäkin tästä sisätilakuuluvuudesta: Se siirrettiin eteenpäin jatkoselvittelyyn. Tässä
+on vähän tilanne, että sitä nyt sitten haluttiin pallotella, kuuluuko se verkkoyhtiölle vai ra-
+kentajalle. Tämä nyt vaatii sitten yhteistyötä ja lisäselvittelyä, ja tutustumme tietysti huo-
+lella liikenne- ja viestintävaliokunnan lausuntoon mutta näin katsomme, että on viisainta
+edetä.
+
+Sitten näistä hormeista ja väestönsuojista ja näin: Se herätti keskustelua. Itseänikin tie-
+tysti huolestutti, kuinka paljon se vaikuttaa tähän julkisivuun, mutta kun tässä toteamme
+myös, että ei vaikuta kerroskorkeuteen ja julkisivumääräyksiin ja nämä muutokset ovat
+ihan prosentin kahden luokkaa, niin hallituksen esitys on kyllä tältä osin oikein hyvä ja
+puolustettava.
+
+17.08 Ari Torniainen kesk:  Arvoisa puhemies! Tällä hallituksen esityksellä nimen-
+omaan halutaan lisätä asuntojen rakentamista, energiatehokkaita rakennuksia nimen-
+omaan ja siten, että esimerkiksi taloteknisten järjestelmien vaatimat rakenteet tai väestön-
+suojat eivät olisi esteenä rakentamiselle.
+
+Toinen osa, johon hallituksen esityksessä puututaan, on matkaviestinten kuuluvuuden
+varmistaminen rakennuksissa. Rakennuksen kerrosalaa koskevaa pykälää ehdotetaan
+muutettavaksi siten, että rakennusoikeuden saa ylittää väestönsuojan tai taloteknisten jär-
+jestelmien edellyttämän kuilun, hormin tai yleisiin tiloihin avautuvan teknisen tilan raken-
+tamiseen tarvittavan pinta-alan verran ja myöskin väliseinien osalta siltä osin, kun ne ylit-
+tävät 20 senttiä. Omasta mielestäni tämä hallituksen esitys on todella hyvä ja saa myöskin
+rakennuksia, nimenomaan asuinrakennuksia, liikkeelle. Se on hyvä asia. Matkaviestinten
+kuuluvuus on ongelmallinen tällä hetkellä, ja tämä tulee myöskin esille varmaan siinä vai-
+heessa, kun lähdetään lähes nollaenergiarakennuksia rakentamaan tai energiatehokkaita ra-
+kennuksia rakentamaan. Se, että se kuuluu koko talon alueella, on tärkeä asia huomioida.
+Kuten tässä jo edellisissä puheenvuoroissa on tullut esille, niin sitten tätä asiaa jatkoval-
+mistellaan ympäristöministeriössä, ja siinä, että saadaan kuuluvuus siellä uusissa raken-
+nuksissa, tulee olla yhteistyössä nimenomaan matkapuhelinoperaattoreiden, rakentajien,
+suunnittelijoiden kanssa ja heidän kesken käytävissä keskusteluissa.
+
+17.10 Hannu Hoskonen kesk: Arvoisa puhemies! Maankäyttö- ja rakennuslain muutos-
+esitys, mikä nyt on saanut mietinnön muodon ympäristövaliokunnassa, on hyvä ja kanna-
+tettava. Kannattaa muistaa se, että tällaisten rakentamista helpottavien ja lisäneliöitä tuo-
+vien ratkaisujen hyväksyminen eduskunnassa on mielestäni tärkeä asia, koska tällä saa-
+daan varmistettua se, että kun rakennusmääräykset antavat vähän joustoa, niin se mahdol-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+listaa sitten muutamien lisäneliöiden rakentamisen, joka kuitenkin sille asujalle on äärim-
+mäisen tärkeää.
+
+Kiinnittäisin kuitenkin huomiota näihin monen edustajan mainitsemiin jopa nollaener-
+giataloihin, joissa seinämäpaksuudet, eristepaksuudet alkavat olla aivan todella paksuja.
+Niissä taloissa kannattaa kuitenkin pitää se järki mielessä, että helposti syntyy tilanne, jos-
+sa valtavilla eristepaksuuksilla synnytetään se ongelma, jolloin on mahdollista, että kos-
+teutta kertyy sinne rakenteisiin. Kun näitä valtavan paksuja eristepaksuuksia ruvetaan nyt
+tästä eteenpäin näköjään rakentamaan, niin toivoisin kuitenkin tässä asiassa, että ympäris-
+tövaliokunta tekisi tässä jonkunasteista tutkimustyötä tai paremminkin ottaisi vaikka oma-
+na asiana käsiteltäväksi, mikä oikeasti on tällaisen nollaenergiatalon pitkäikäisyys. Jos sin-
+ne rakenteisiin alkaa kertyä kosteutta, niin se tarkoittaa, että se on hometalo hyvin äkkiä.
+Silloin menetetään koko se valtava pääoma, mikä siihen taloon on sijoitettu. Vaikka me
+näitä hienoja systeemejä kehittelemme, niin kannattaa kuitenkin muistaa se, että rakentei-
+den hengittävyys on se tärkeä asia. Jos rakenteet eivät hengitä, niin ne homehtuvat.
+
+17.11 Hanna Kosonen kesk: Arvoisa herra puhemies! Tällä hetkellä on ennennäkemätön
+rakennusbuumi tietyillä seuduilla menossa, ja tämä maankäyttö- ja rakennuslain muutos on
+erinomainen siinä mielessä, että tällä pienesti voidaan rakentamisen kustannuksia tiputtaa
+ja samalla sitten asuntojen hintoja. Toisaalta tämä myös joustavoittaa, kun muun muassa
+toimistotiloja voidaan muuttaa asunnoiksi, ja juuri joustavoittamista tarvitaan rakennus-
+alalla myös.
+
+Toinen näkökohta on se, että tässä parannetaan mahdollisuuksiamme vaikuttaa ilmas-
+tonmuutoksen torjuntaan, niin kuin tässä jo aikaisemminkin on sanottu, sillä tämä mahdol-
+listaa painovoimaista ilmanvaihtoa paremmin ja sitä kautta puurakentamista. Lisäksi tämä
+mahdollistaa sen, että kuiluja saadaan väljemmiksi, jolloin sitten taas laadukkaat talotek-
+niset järjestelmät voidaan rakentaa paljon helpommin, ja tämä parantaa rakennusten ener-
+giatehokkuutta.
+
+Eli kaikin puolin kannatettava lakimuutos, ihan asuntojen hintojen ja ilmaston kannalta.
+
+17.13 Mari-Leena Talvitie kok: Arvoisa puhemies! Hallituksen esitys maankäyttö- ja ra-
+kennuslain muuttamisesta on tosiaan kannatettava, ja erityisesti muutaman asian nostan
+tässä esiin:
+
+Tästä sisätilakuuluvuudesta: On hyvä, että valiokunta on nimenomaan korostanut sitä,
+että se asiakokonaisuus on moniulotteinen ja sen takia on välttämätöntä, että näitä kustan-
+nustehokkaita ratkaisuja ja kuuluvuuden arviointimenetelmiä erilaisiin tilanteisiin pohdi-
+taan nimenomaan yhteistyössä kaikkien osapuolten kanssa, koska sisätilakuuluvuus riip-
+puu monesta asiasta ja tekijästä ja ne ovat myöskin hyvin monitahoisia, ne eivät ole yksi-
+selitteisiä. Itse asiassa tässäkin uudessa talossa, hienossa, upeassa, peruskorjatussa Edus-
+kuntatalossa olen törmännyt muutamiin paikkoihin, joissa sisätilakuuluvuuden kanssa on
+haasteita, ja varmasti tiedetään, että kun rakennusta on peruskorjattu ja asioita on suunni-
+teltu ja tarpeet on otettu mahdollisimman hyvin huomioon, niin tavoite ei ole ollut senkal-
+tainen. Sitten lakiin lisätään nyt myöskin mainittu säännös, että saadaan ympäristöministe-
+riön hallinnonalalla säädettyä lakitasoinen perusvelvoite sisätilakuuluvuuden huomioon
+ottamisesta rakennuksen teknisissä ratkaisuissa.
+
+Arvoisa puhemies! Nämä kirjaukset eivät tietenkään yksin riitä, vaan ihan samalla taval-
+la kuin nollaenergiaan ja parempiin ja tiiviimpiin rakennuksiin siirryttäessä — jotka eivät
+3
+
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+välttämättä aina ole parempia — niihin teknisiin ratkaisuihin liittyen testaus ja siihen liit-
+tyvät asiat ovat erityisen tärkeitä. Siksi onkin oleellista, että myös sitten kun tulevaisuudes-
+sa tullaan siirtymään 5G-verkkoon — jossa oma kotikaupunkini Oulu on tällä hetkellä itse
+asiassa laitteitten puolella ihan maailman edelläkävijä — tehdään näitä testauksia ja vasta
+niitten myötä tehdään sitten [Puhemies koputtaa] velvoittavia lainsäädäntömuutoksia.
+
+17.15 Satu Hassi vihr: Arvoisa puhemies! Ensinnäkin tästä eristepaksuuden kasvattami-
+sesta ja sen tuomista kosteusriskeistä: Ympäristövaliokunta on käsitellyt hyvin monipuoli-
+sesti oman vastuualueensa osalta sisäilmaongelmia ja kaikkea sitä, mitä rakentamisessa pi-
+täisi parantaa, jotta jatkossa saisimme sekä uudisrakentamisen että remonttien jäljiltä sel-
+laisia rakennuksia, joissa ihmiset pysyvät terveinä. Ja valiokunta tulee myös jatkamaan tätä
+työtä. Esimerkiksi tällä viikolla kuulimme asiantuntijaa rakennusten ilmanvaihdon uusis-
+ta, valmisteilla olevista määräyksistä.
+
+Sitten vielä tästä matkaviestinnän sisätilakuuluvuudesta toteaisin sen, että tekniikka ke-
+hittyy kovaa vauhtia, kuten edustaja Talvitie muun muassa totesi, ja nyt pystymme näke-
+mään seuraavia tekniikan kehitysaskeleita, mutta emme kovin pitkälle eteenpäin pysty en-
+nakoimaan, miten tekniikka tulee kehittymään. Paikoissa, joihin rakennukset rakennetaan,
+näiden verkkojen voimakkuudet vaihtelevat hyvin voimakkaasti, joten se, että nämä asiat
+käytännössä ratkaistaan yhteistyönä, on tärkeätä.
+
+Sitten vielä viimeiseksi haluaisin todeta tästä vastalauseesta, jonka allekirjoittajista olen
+yksi, että keskeinen syy siihen, miksi opposition edustajat valiokunnassa jättivät vastalau-
+seen, on se, että erityisesti väestönsuojien kerrosalan laskennan osalta hallituksen esittämä
+muutos tarkoittaa takautuvaa muutosta kuntien kaavoihin, ja tällaista puuttumista kuntien
+[Puhemies koputtaa] itsehallintoon emme halua hyväksyä.
+
+17.17 Antero Laukkanen kd:  Arvoisa herra puhemies! Edustaja Hassi nosti tärkeän
+asian tässä esille, mutta olen hänen kanssaan kyllä aivan täysin eri mieltä, sillä pidän tätä
+erittäin hyvänä, että moniin näihin kaavoihin, jotka on jo kauan aikaa sitten tehty, nyt tällä
+uudistuksella päästään rakentamaan tehokkaammin ja saadaan ne käyttöön ilman, että täy-
+tyy käynnistää uusi kaavaprosessi.
+
+Pidän hyvänä erityisesti sitä, että kun tämä väestönsuojavaatimus saattaa tulla monelle
+varsinkin koulurakennuksissa hyvin merkittäväksi lisäkustannukseksi ja aiheuttaa viiveitä
+hankkeen eteenpäinviemisessä, niin nyt sallitaan sitten nämä ylitykset tähän kaavaan tä-
+män osalta. Sanoisin, että tämä on yksi näistä erittäin hyvistä hallituksen esityksistä, mitä
+tällä kaudella on nähty, ja todella sujuvoittaa montaa asiaa.
+
+17.18 Ari Torniainen kesk: Arvoisa puhemies! Kun tätä asiaa käsiteltiin ympäristövalio-
+kunnassa, niin siellä valiokunta-asiantuntijoiden kuulemisissa tuli esille, että väestönsuo-
+jia koskeva soveltamiskäytäntö — joka nyt siis tällä lakiesityksellä otetaan lakiin — raken-
+nusoikeuden ylittämisen sallimisesta vaihtelee eri kunnissa, eri puolilla Suomea, ja nyt
+tämä hallituksen esitys sitten aikaansaa sen, että tämä vaihteleva käytäntö poistuu ja saa-
+daan sama selkeä käytäntö koko Suomeen. Omasta mielestäni se on erittäin hyvä asia. Täl-
+lä hallituksen esityksellä nimenomaan lisätään asuntorakentamista ja myös hillitään asun-
+torakentamisen kustannuksia siltä osin kuin väestönsuojan osuuden saa käyttää rakennus-
+oikeuden ylittämiseen, elikkä saadaan todennäköisesti 1—2 asuntoa tai useampia lisää sii-
+hen rakennukseen. Se on hyvä asia. Näin saadaan rakentamista toteutettua.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+Sitten se, mistä valiokunnassa vastalauseen jättäjät olivat huolissaan, että tätä sovelle-
+taan vanhoihin kaavoihin ja niissä oleviin rakentamattomiin tontteihin: Omasta mielestäni
+se on erittäin hyvä asia taas tässä lakiesityksessä, että nimenomaan rakentamattomia tont-
+teja saadaan asianmukaiseen käyttöön, että niille tulee myöskin asuinrakennuksia. Se on
+ollut myöskin iso huolenaihe eri kaupungeissa, että on rakentamattomia tontteja. Meillä on
+joissain asuntopulaa, ja näin saadaan lisää asuntoja sinne, missä niitä on jo kaavoitettu. Se
+on hyvä asia vain.
+
+17.20 Arja Juvonen ps:  Arvoisa herra puhemies! Tässä hallituksen esityksessä ehdote-
+taan säädettäväksi uusi pykälä, jonka mukaan rakennushankkeeseen ryhtyvän on huoleh-
+dittava siitä, että asumiseen, majoitukseen tai työskentelyyn tarkoitetut tilat suunnitellaan
+ja rakennetaan turvallisiksi, toimiviksi, viihtyisiksi ja käyttötarkoitukseensa soveltuviksi.
+Tämä on hyvä esitettynä paperilla, mutta loppukädessä se on kuitenkin sen rakentajan kä-
+dessä, minkälaista rakennusta syntyy. Osaavat rakentajat ja hyvät rakennustarvikkeet ovat
+se a ja o, kun me rakennamme hyvää ja kestävää rakennusta, ilman että edessä on homeon-
+gelma ja kosteusvauriot, jotka täällä ovat tänään nousseet myös kiitettävästi esille keskus-
+telussa.
+
+Meillä on arviolta noin 63 000 asuntoa perusparannustarpeessa tällä hetkellä Suomessa,
+ja kun siihen lasketaan mukaan liiketiloja, niin tämä määrä kasvaa. Meillä on Suomessa
+paljon teollisuutta liittyen rakentamiseen, ja Suomi kehittää muun muassa uusia eristerat-
+kaisuja ja on edelläkävijä niin puurakentamisen kuin erilaisten eristeratkaisujen ja pienem-
+pien talomoduulien kehittämisessä ja kanssa, ja on erittäin tärkeää, että tätä osaamista tue-
+taan ja myös kannustetaan. Me voimme olla suunnannäyttäjiä hyvissä rakennusteknisissä
+vaihtoehdoissa, ja osaamista Suomesta löytyy.
+
+Koulutusta tulee painottaa erityisesti, ja kun näitä entisajan rakennusmestareita nyt kou-
+lutetaan sitten uudestaan ja lisää, niin kyllä heille on ollut tarpeensa ja tarvetta on myös tu-
+levaisuudessa. Vanhat hyvät ajat takaisin ja hyvä rakentaminen kunniaan.
+
+17.22 Satu Hassi vihr: Arvoisa puhemies! Väestönsuojista ja kerrosalan laskennasta: Esi-
+merkiksi Helsingin kaupungin edustaja totesi, että Helsingin kaupunki hyvin monissa ta-
+pauksissa on jo myöntänyt poikkeuksen eli käytännössä kerrosalan ylityksen oikeuden ra-
+kentajille väestönsuojan osalta, mutta tämä on tapauskohtaista harkintaa. Sama mahdolli-
+suus on ollut olemassa kaikissa kunnissa. Osa kunnista on sitä käyttänyt, osa kunnista ei
+ole, mutta mikään korkeampi voima, jolle kunnat eivät mitään mahtaisi, ei ole kuntia estä-
+nyt tätä käyttämästä tähänkään asti.
+
+Se, että hallituksen esityksen mukaisesti tämä laskentatavan muutos tulee voimaan ta-
+kautuvasti, tarkoittaa kunnallisen itsehallinnon kaventamista tältä osin. Tämä lisäkerros-
+alalahjahan koskee vain tontteja, jotka on kaavoitettu mutta ei vielä rakennettu, koska uu-
+sien kaavojen osaltahan kunnat sitten ottavat automaattisesti huomioon määritellessään sen
+sallitun kerrosalan, että se tarkoittaa uusissa kaavoissa eri asiaa kuin mitä se tähänastisen
+lain pohjalta on tarkoittanut. Muun muassa Kuntaliitto toi tämän esille, että tavallaan tämä
+lahja, mistä rakennusfirmat tietenkin ovat iloisia, ei koske tulevia kaavoja, koska sitten
+tämä laskentatavan muutos otetaan kunnissa kaavapäätöksenteossa huomioon.
+
+17.24 Hannu Hoskonen kesk: Arvoisa puhemies! On aivan oikein, että byrokratiaa pure-
+taan, kuten Juha Sipilän hallituksen yksi pääviesti on. Rakentamisen ympäriltä sitä on pu-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+rettu, ja tätä tietä pitää jatkaa —  ihan niin kuin meillä tässäkin ympäristövaliokunnan mie-
+tinnössä ja hallituksen esityksessä on käyty läpi näitä yhden lajin byrokratianpurkutalkoi-
+ta, joissa rakentamista helpotetaan ja annetaan muutamia neliöitä lisää. Kunnilla todella-
+kin on se 10 prosentin harkintavara useimmissa tapauksissa antaa lisärakennusoikeutta,
+mikäli siihen hyvä peruste löytyy.
+
+Mutta kiinnittäisin huomiota yhteen asiaan, joka on mielestäni se kaikkein tärkein. Kat-
+sokaapa tämän hetken rakentamisen tasoa. Pari viikkoa sitten tässä talossa käytiin keskus-
+telua ja lehdissäkin siitä kirjoiteltiin, että Jätkäsaaressa uusissa, muutaman kuukauden van-
+hoissa taloissa vesi sataa sisälle ja vesi valuu pitkin seiniä. Missä on suomalaisen rakenta-
+misen taso? Eihän se näin voi mennä, hyvänen aika, että uudet talot happanevat pystyyn ja
+vesi valuu sisälle, että ensimmäinen peruskorjaus alkaa kaksi kuukautta asukkaiden muut-
+tamisen jälkeen.
+
+Jossakin on pahasti vikaa tässä systeemissä, kun tällaista sutta ja sekundaa tulee ja kal-
+lista työaikaa, isot määrät rahaa hukataan ja kalliita materiaaleja tuhotaan. Kyllä tähän pi-
+tää nyt pikkuhiljaa ruveta kiinnittämään huomiota. Eivät ne hometalot synny itsestään, kyl-
+lä ne ovat ihmisen virheistä. Se on vähän niin kuin lento-onnettomuuksissa, että suurin vika
+niissä tapahtumissa on aina se ihmisen tekemä virhe. Ja tässä rakentamisessa uskaltaa sa-
+noa ihan sataprosenttisella varmuudella, että jos kaksi kuukautta vanha talo rupeaa vuota-
+maan sisälle vettä kuin seula, niin kyllä silloin on jossakin pahasti asioita vialla.
+
+Näihin asioihin meidän pitää kiinnittää huomiota. Rakennetaanko yksi neliö liikaa tai
+liian vähän — se on ihan sivuseikka. Tärkeä asia on, että rakennetaan sellaisia taloja, joissa
+ihmiset viihtyvät ja joissa on terveellistä elää.
+
+17.25 Mari-Leena Talvitie kok: Arvoisa puhemies! Tosiaan vielä sisätilakuuluvuuden li-
+säksi väestönsuojien laskemisesta rakennusten kerrosneliöihin: On kannatettavaa, että nyt
+tämä hallituksen esitys purkaa sen epäkohdan. Toisaalta varsinkin niissä rakennuksissa,
+joissa on neliöitten osalta tiukka rajaus — tai siis ollaan tavallaan rajapinnalla, tarvitseeko
+väestönsuoja rakentaa vai ei — siinä tilanteessa ne kustannukset ovat olleet aika kohtuut-
+tomia sille rakennuttajalle. Elikkä ymmärrän kyllä, mitä edustaja Hassi, valiokunnan pu-
+heenjohtaja, otti esiin tuosta kunnallisen itsehallinnon kaventamisesta, koska tosiaan halli-
+tuksen esitys lähtee siitä, että tämä laki koskisi myös niitä kaavoja, jotka on hyväksytty.
+Toisaalta kunnissa on ollut jo nyt aika kirjavaa käytäntöä ja toisaalta tämä sitten myöskin
+mahdollistaa sen, ettei tarvitse uudestaan sitä kaavaprosessia laittaa eteenpäin. On meillä
+myöskin kaavoja, joissa on siis kaava hyväksytty mutta ei ole rakennuslupaa haettu elikkä
+on rakentamattomia tontteja. Näin ollen sitten siinä tilanteessa, kun se rakennuslupa hae-
+taan, pystytään arvioimaan se, hakeeko hakija myöskin nämä väestönsuojan kerrosneliöt
+lisänä tähän rakentamiseen.
+
+17.27 Ari Torniainen kesk: Arvoisa puhemies! Haluan vielä kiinnittää siihen huomiota,
+että tällä hallituksen esityksellä myöskin puretaan normeja siltä osin, että nyt ei tarvitse
+enää hakea niitä poikkeuksia siihen väestönsuojan korjaavaan rakentamiseen, että saadaan
+lisää asuntoja. Kuten jo tässä on tullut esille, niin meillä eri puolilla Suomea on erilaisia
+käytäntöjä. Nyt saadaan yksi laki, joka mahdollistaa sitten tämän toiminnan koko Suomes-
+sa. Se on se hyvä asia.
+
+Väestönsuojien rakentamisessa kaiken kaikkiaan itse kyllä kannattaisin, että kaavoituk-
+sessa huomioitaisiin väestönsuojien rakentaminen siten, että tulisi keskitettyjä väestönsuo-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+jia pikemminkin kuin monia yksittäisiä pieniä väestönsuojia erillisiin rakennuksiin. Se oli-
+si omasta mielestäni hyvä asia.
+
+Edustaja Hassi, sanoitte, että tämä on tavallaan lahja. Omasta mielestäni tämä ei ole lah-
+ja vaan tämä lisää asuntorakentamisen mahdollisuuksia myöskin ja saadaan myöskin jo
+kaavoitetuilla alueilla, sellaisilla, joilla on rakentamattomia tontteja, niitä asuntorakenta-
+misen piirin. Se on hyvä asia.
+
+Mutta sitten ihan tähän sisätilakuuluvuuteen vielä. Omasta mielestäni on hyvä, että va-
+liokunta nyt tänne kirjasi, että valtioneuvoston tulee seurata jatkossa matkaviestinverkko-
+jen kuuluvuutta sekä rakentamista koskevan sääntelyn ja sen toimeenpanon vaikutuksia
+matkaviestinverkkojen sisätilakuuluvuuteen ja tarvittaessa ryhtyä toimenpiteisiin kuulu-
+vuuden varmistamiseksi, jos ei sitä ole. Tämä on omasta mielestäni paitsi matkaviestin-
+verkkojen kuuluvuuden kannalta myös esimerkiksi ikäihmisten turvapuhelinten toimivuu-
+den kannalta äärimmäisen tärkeä asia, koska halutaan lisätä ikäihmisten kotona asumista.
+[Puhemies koputtaa]
+
+Sitten mitä täällä on tullut tähän terveellisen rakentamisen puolesta puhumiseen, niin
+olen itse kyllä samalla kannalla.
+
+17.29 Arja Juvonen ps: Arvoisa herra puhemies! Edustaja Hoskonen, nostitte esille len-
+toturvallisuuden ja siihen vertasitte tätä rakentamista. Lentoturvallisuutta käytetään mo-
+nessa muussakin asiakohtana. Muun muassa potilasturvallisuutta aina verrataan siihen, että
+otettaisiinpa mallia sieltä lentoturvallisuudesta.
+
+Kiire, suunnittelun puute, pitkät alihankintaketjut ja ulkomaalainen työvoima muun
+muassa ovat niitä syitä, minkä takia meillä on tämä hometalo-ongelma, myös kertakäyt-
+töyritykset mutta toki myös isot toimijat, jotka toimivat niin, että rakentaminen ei ole laa-
+dukasta. Me tarvitsemme takaisin vanhan ajan mestarit ehdottomasti rakentamaan, kerto-
+maan, näyttämään, mitä on hyvä rakentaminen.
+
+Arvoisa puhemies! Lukuisilla ihmisillä, jotka kärsivät allergioista ja kosteusvaurioiden
+aiheuttamista sairauksista, koko elämä on käytännöllisesti katsottuna yhtä sairautta ja elä-
+mä on pilalla, kun mistään ei tule apua. Tänä päivänä tulee jo ymmärrystä sille, että on sai-
+rastunut homevaurion takia. Mutta nämä ihmiset kaipaavat tukea, nämä ihmiset ovat hä-
+dässä, ja he miettivät, mistä he löytävät turvallisen kodin. Viime aikoina on puhuttu siitä,
+että me tarvitsemme Suomessa tällaista asuntorakentamista näille ihmisille, jotka ovat sai-
+rastuneet homeesta. Missähän vaiheessa tällainen rakentaminen ja osaaminen Suomessa
+tällä hetkellä on? Varmasti tulevaisuudessa entistä enemmän heitä tarvitaan.
+
+Vielä sitten tämä matkaviestimien sisätilakuuluvuus: Se on äärettömän tärkeä asia. Tääl-
+lä nousivat jo esille muun muassa ikäihmiset ja heidän turvapuhelimensa ja turvarannek-
+keensa ja se, että varmasti viesti menee perille ja apu tulee silloin, kun sitä tarvitaan. Nä-
+mäkin ovat monesti juuri sille asukkaalle sitten kustannuksia aiheuttavia tekijöitä, kun ru-
+vetaan miettimään, minkä takia kuuluvuus on huono, ja jos menet sitten sinne firmaan sa-
+nomaan, niin sanotaan, että osta joku uusi laite.
+
+17.31 Satu Hassi vihr: Arvoisa puhemies! Olen kaikkien niiden kollegojen kanssa samaa
+mieltä, jotka ovat korostaneet sitä, että rakennukset pitää rakentaa kunnolla, sellaisiksi, että
+niihin ei tule heti saman tien, eikä minun mielestäni edes kymmenien vuosien jälkeenkään,
+sellaisia vuotoja ja muita seikkoja, jotka luovat otolliset olot mikrobikasvustoille, joiden
+johdosta sitten ihmiset sairastuvat.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+Kuten jo edellä sanoin, ympäristövaliokunta on tehnyt tällä kaudella paljon työtä tämän
+asian suhteen ja jatkaa sitä. Viime kaudellahan tarkastusvaliokunta teki tästä asiasta perus-
+teellisen mietinnön ja eduskunta hyväksyi aika pitkän listan lausumia, joiden toimeenpano
+hallituksen puolelta ei mielestäni ole ollenkaan riittävällä tasolla. Viime syksynä ympäris-
+tövaliokunta ja sosiaali- ja terveysvaliokunta järjestivät aiheesta yhteisen asiantuntijakuu-
+lemisen. Tarkastusvaliokunnalla ja ympäristövaliokunnalla oli julkinen asiantuntijakuule-
+minen tämän vuoden kesällä tästä asiasta. Sen lisäksi ympäristövaliokunta on tämän aihe-
+piirin tiimoilta kuullut omissa ei-julkisissa kokouksissaan useita asiantuntijoita useina ker-
+toina. Ympäristövaliokunnan jäsenistä aika moni on mukana myöskin kansanedustajien si-
+säilmaryhmässä, joka 10. tätä kuuta yhdessä Tutkaksen, Tutkijoiden ja kansanedustajien
+seuran, kanssa järjesti tilaisuuden, jossa kuulimme hyvinkin järkyttäviä kertomuksia sisäil-
+masta sairastuneiden elämänkohtaloista, ja olen samaa mieltä kaikkien niiden kanssa, jot-
+ka ovat todenneet, että heidän tilanteensa ja sairastumisensa pitää ottaa vakavasti.
+
+17.33 Leena Meri ps:  Arvoisa puhemies! Tässä tuli puheeksi eduskunnan sisäilmatyö-
+ryhmä, ja olen siinä perussuomalaisten jäsenenä. Meillä tosiaan oli tämä tapaaminen, ja
+siellä oli monenlaista tarinaa ja varmasti ovat joutuneet taistelemaan hyvinkin paljon asioi-
+den eteen.
+
+Katselin tämmöistä Kuntaliiton muistiota ja selvitystä tässä sisäilmatyöryhmän työn yh-
+teydessä, ja Suomen Kuntaliittokin on ollut kovin huolissaan tästä, ja heidän mukaansa
+merkittävä osa kuntien rakennuskannasta, joka on yli 40 vuotta vanhaa, nämä 60—70-lu-
+vulla rakennetut rakenteet, on nykypäivänä riskirakenteita, ja tästä usein aiheutuu kosteus-
+ja homeongelmia. Kuntaliitto on ollut huolissaan valtion ja kuntien tiukasta taloudellisesta
+tilanteesta ja mahdollisuudesta puuttua näihin, ja tämä korjausvelka vain kasvaa. Kaikki
+me kuntapäättäjät tietysti tiedämme, minkälaista mietintää se on, kun se rakennus pitäisi
+ehkä purkaa ja sitten pitäisi rakentaa uutta, on sairastuneita ja koulunkäyntivaikeuksia ja
+monta muuta. Kuntaliitto suosittaa myös tämmöisiä monialaisia asiantuntijaryhmiä. Yh-
+dessä pohdittaisiin semmoisten ihmisten kanssa, joilla on kokemusta ja osaamista sisäilma-
+asioissa, he olisivat mukana suunnittelemassa, niin että me emme sitten uudestaan raken-
+taisi sutta.
+
+Tuossa muutaman pykälän päästä onkin näitä talousarvioaloitteita, ja meillä perussuo-
+malaisten eduskuntaryhmällä onkin talousarvioaloite sisäilmasta sairastuneiden auttami-
+sesta, että mitä kuitenkin voitaisiin tehdä niiden ihmisten hyväksi, jotka ovat joko rakenta-
+misen huonon laadun tai muun syyn vuoksi sairastuneet vakavasti. Heitähän on noin
+800 000 Suomessa. Se on merkittävä määrä.
+
+17.35 Ari Torniainen kesk: Arvoisa puhemies! Tässä keskustelussa on tullut nyt se vai-
+he, että puhutaan terveellisestä rakentamisesta ja terveellisistä rakennuksista. Myöskin
+tämä hallituksen esitys mahdollistaa terveellisen rakentamisen. Tässä on nimenomaan va-
+rauduttu siihen, että taloteknisten kuilujen vaatimukset eivät ole enää esteenä esimerkiksi
+ilmanvaihdon vaatimille putkistojen vedoille, eli tämä hallituksen esitys myös edesauttaa
+painovoimaisen ilmanvaihdon rakentamista rakennuksiin. Se on hyvä asia omasta mieles-
+täni.
+
+Kaiken kaikkiaan sisäilmaongelmat rakennuksissa ovat aivan liian suuret Suomessa, ja
+niihin pitää paneutua todella paljon. Olen erittäin tyytyväinen siitä, että etenkin tällä edus-
+kuntakaudella eduskunta on ottanut asian huomioon. Ennen kaikkea hallitus on ottanut sen
+8
+
+
+
+Pöytäkirjan asiakohta PTK 111/2017 vp
+huomioon, ja tietääkseni tulevaisuudessa myöskin pääministeri on tuomassa keskustelun
+tänne eduskuntasaliin tästä kyseisestä asiasta. Samoin myöskin tarkastusvaliokunta on pa-
+neutunut asiaan. Ja kuten edustaja, ympäristövaliokunnan puheenjohtaja Hassi sanoi, ym-
+päristövaliokunta on useassa kokouksessaan paneutunut tähän asiaan, myöskin rakentami-
+sen laadun osalta, myöskin sisäilmaongelmien osalta ja myöskin niiden ihmisten osalta,
+jotka ovat jo sairastuneet sisäilmaongelmien aiheuttamiin sairauksiin. Näiden ihmisten tu-
+levaisuus ja heidän toimeentulonsa on iso asia, miten he selviytyvät näistä sairauksista. Sii-
+hen tulee myöskin kiinnittää huomiota.
+
+Omasta mielestäni tämä hallituksen esitys on hyvä, ja toivon, että tämä menee eteenpäin.
+
+17.37 Arja Juvonen ps: Arvoisa herra puhemies! Perussuomalaiset ovat pitäneet kovin
+tärkeänä, että sisäilmaongelmat nousevat esiin ja niiden eteen tehdään toimia. Uskallan
+väittää, että se, missä tilassa tällä hetkellä meillä asuntoja on, ja nämä homepesät, sisäil-
+maongelmat, estävät ja hidastavat asuntokauppaa Suomessa. Kiinteistöt eivät liiku, asun-
+not eivät myy. Yhtenä syynä on myös kuluttajan, kansalaisen, asukkaan, pelko siitä, voiko
+ostaa kodin, ettei siitä tule minkäänlaista homepommia ja ettei se kummittele elämässä
+seuraavat vuodet ja vie kaikkea sitä, mitä on ansainnut. Eli se koko elämän tienesti, se koko
+elämän hankinta, oma asunto, voikin paljastua todella pahaksi paikaksi.
+
+Toki ilman kuntotarkastusta mitään ei tietenkään tänä päivänä myydä, mutta ne ovat mo-
+nesti hintavia myös ne kuntokartoitukset. Tietysti laaduissa on varmasti eroa ja sielläkin
+mietitään, voiko siihenkään luottaa, kun asuntoa ostetaan, että voiko ostaa vanhaa taloa,
+joka monta kertaa, jos se on tehty hyvin ja jos siellä on perustukset kunnossa, onkin oiva ja
+hyvä ratkaisu ja josta ehkä pienellä remontoinnilla saisi vielä entistäkin ehomman. Mutta
+se, mitä on tapahtunut nyt nousukauden aikaan ja menneinä vuosina, eli on tehty sutta liian
+paljon, rakennettu kiireellä ja myös huonoista materiaaleista, on vaikuttanut siihen, että
+suomalaiset eivät uskalla enää ostaa taloa ja asunnot eivät myy. Tämä on varsinkin maa-
+kunnissa ja pienemmillä paikkakunnilla suuri ongelma. Kyllä meidän pitäisi saada kiinteis-
+töjä myös kaupaksi, eikä niin että asuntojen hinnat vain laskevat koko ajan ja kiinteistöt ei-
+vät liiku kuin vain suurissa kaupungeissa ylihintaan.
+
+Yleiskeskustelu päättyi ja asian käsittely keskeytettiin.
+9
+
+

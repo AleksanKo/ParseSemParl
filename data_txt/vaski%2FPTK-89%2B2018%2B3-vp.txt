@@ -1,0 +1,989 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM7046.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 89/2018 vp
+
+Täysistunto
+
+Tiistai 25.9.2018 klo 14.00—17.09
+
+3. Hallituksen esitys eduskunnalle Tuomioistuinvirastoa koskevaksi lainsäädännöksi
+Hallituksen esitys HE 136/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 3. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään lakivaliokuntaan, jolle perustuslakivalio-
+kunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään tunti. Mikäli puhujalistaa ei ehditä annetussa
+ajassa käydä loppuun, asiakohdan käsittely keskeytetään ja sitä jatketaan tämän päivän is-
+tunnossa muiden asiakohtien tultua käsitellyiksi. Jos keskustelu asiasta puolestaan päättyy
+ennen sille varatun määräajan päättymistä, siirrytään päiväjärjestyksen seuraavaan eli 4.
+asiakohtaan.
+
+Keskustelu
+
+14.01 Oikeusministeri Antti Häkkänen (esittelypuheenvuoro): Arvoisa puhemies! Hal-
+litus on siis antanut eduskunnalle nyt käsittelyssä olevan esityksen tuomioistuinvirastoa
+koskevaksi lainsäädännöksi. Esityksen mukaan Suomeen perustettaisiin tuomioistuinvi-
+rasto huolehtimaan tuomioistuinlaitoksen keskushallintotehtävistä. Tehtäviä hoidetaan ny-
+kyisin oikeusministeriössä. Keskushallinnon erottaminen ministeriöstä ja tehtävien siirtä-
+minen itsenäiselle tuomioistuinvirastolle korostaisi tuomioistuinten rakenteellista riippu-
+mattomuutta poliittisesta ministeriöstä sekä edistäisi tuomioistuinten hallintotehtävien te-
+hokasta ja tuloksellista hoitamista. Samalla oikeusministeriö pystyisi nykyistä tehokkaam-
+min ja vahvemmin keskittymään sen valtioneuvostotason tehtäviin eli tuomioistuinlaitok-
+sen strategiseen ohjaukseen ja säädösvalmisteluun.
+
+Tuomioistuinlaitos on oikeusvaltion kivijalka. Nyt perustettavaksi ehdotettu tuomiois-
+tuinvirasto huolehtisi tuomioistuinlaitoksen toimintaedellytyksistä sekä tuomioistuinten
+toiminnan kehittämisestä, suunnittelusta ja tukemisesta. Virasto vastaisi muun muassa tuo-
+mioistuinten tulosohjauksesta ja tuomioistuinten henkilöstön koulutuksen järjestämisestä.
+Viraston perustaminen mahdollistaisi tuomioistuimissa nykyisin hoidettavien hallinnollis-
+ten tehtävien keskittämisen viraston hoidettavaksi, jos perustettava tuomioistuinvirasto ai-
+kanaan niin päättää.
+
+Arvoisa puhemies! Tuomioistuinviraston perustaminen tulisi lisäämään tuomioistuin-
+ten keskushallinnosta aiheutuvia kustannuksia jonkin verran. Viraston vuosittaiset toimin-
+tamenot olisivat noin 4 miljoonaa euroa. Hallituksen tavoite on, että panostus johtaisi oi-
+keusturvan laadun parantumiseen ja tuomioistuinten toiminnan tehostumiseen.
+
+Arvoisa puhemies! Haluan vielä lopuksi korostaa, että tuomioistuinlaitoksen keskushal-
+lintotehtävät on Suomen kaltaisessa maailman kärkioikeusvaltiossa järjestettävä tavalla,
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+joka osaltaan korostaa tuomioistuinten rakenteellista riippumattomuutta, ja siten, että riip-
+pumattomuus on myös kenen tahansa ulkopuolisen selkeästi havaittavissa. Tuomioistuin-
+viraston perustaminen vahvistaa juurikin tätä asetelmaa. Tavoitteena on, että lainmuutok-
+set tulisivat voimaan ja tuomioistuinvirasto aloittaisi toimintansa vuoden 2020 alusta läh-
+tien.
+
+Puhemies Paula Risikko: Halutaanko debattiin tässä aluksi, onko kiinnostusta, vai halu-
+taanko ihan suoraan puheenvuoroihin? — Sitten mennään suoraan puheenvuoroihin.
+
+14.04 Leena Meri ps: Arvoisa puhemies! Tuomioistuimien uudistaminen kiinnostaa hen-
+kilökohtaisesti minua hyvin paljon. Olen myös työskennellyt itse tuomioistuimissa — kä-
+räjäoikeudessa, hovioikeudessa ja vakuutusoikeudessa — ja nämä asiat ovat minulle tuttu-
+ja, ja paljon tuttavapiirissä on edelleen ihmisiä, joiden kanssa päivittäin käyn näitä asioita
+läpi.
+
+Haluan ensiksi tuoda esille sen, että Tuomariliitto on ilahtunut syyskuisessa tiedottees-
+saan siitä, että tuomioistuinvirasto tulee, ja tästä on ilmeisesti eduskunnassakin laaja yksi-
+mielisyys. Tuomariliitto oli huolestunut siitä, minne tämä viraston sijainti tulee, ja ilmei-
+sesti se on nyt sitten Vantaa — ilmeisesti siitä on nyt päästy yhteisymmärrykseen. Kansain-
+välisesti on tutkittu, että on hyvä, että se on hyvien kulkuyhteyksien lähellä. Itse katson,
+että se on hyvä paikka. Helsinki on jo kovin ruuhkainen, elikkä tänne liikenneyhteydet oli-
+sivat hankalat.
+
+Sitten toisaalta katsoin oikeusministeriön tiedotetta, jossa todettiin, että tuomioistuinvi-
+rastolla rakennetaan vahvempi palomuuri poliitikkojen ja tuomioistuimien väliin — tämä
+on ministeri Häkkäsen sitaatti sivuilta. Tietysti on tärkeätä, että tuomioistuimet toimivat
+riippumattomasti, mutta ehkä jotenkin jäin nyt miettimään, että onko nyt ollut ministerin
+mielestä jotain epäasiallista vaikuttamista, jota tässä nyt erityisesti täytyisi suojata. Minis-
+teri varmaan kertoo täällä, kun pääsee itse puheisiin, mitä hän tarkoittaa. Joka tapauksessa
+meidän kansanedustajien tehtävä on myös säätää lakeja ja vaikuttaa sitä kautta tietysti tuo-
+mioistuinkäytäntöön — ei tietenkään vireillä olevaan asiaan, vaan tulevaisuuteen — ja on
+tärkeää käydä yhteiskunnallista keskustelua. Esimerkiksi alaikäisten seksuaalisesta hyväk-
+sikäytöstä on paljon käyty keskustelua, ja ainoa keino vaikuttaa siihen, että rangaistukset
+kovenevat, on tällä hetkellä se, että on jo olemassa vakiintunut tulkinta hyvin pitkälle, että
+rangaistusten alarajaa nostetaan, ja se on lainsäätäjän tehtävä. Hieman jää epäselväksi, mitä
+tämä palomuuri tuossa tarkoittaa, että onko nyt olemassa joitain hälytysmerkkejä ministe-
+riössä.
+
+Ehkä tähän aiheeseen liittyy myös se, että katsoin lakiehdotuksen 5—8 §:iä tuomiois-
+tuinviraston johtamisesta. Siellä johdosta huolehtivat johtokunta ja ylijohtaja, ja tähän joh-
+tokuntaan, joka kuitenkaan ei puutu yksittäisiin ratkaisuihin eikä yksittäisten päätösten si-
+sältöihin, ei voida valita sellaista käräjätuomaria — vaikka on ammatiltaan käräjätuomari
+tai sitten tuomioistuinlaitoksen jäsen — joka kuuluu esimerkiksi kunnanvaltuustoon tai
+kunnanhallitukseen. Ehkä vähän mietin sitä, että kun perustuslaissa on turvattu yhdisty-
+misvapaus sekä on turvattu yhdenvertaisuus lain edessä, niin mikä tämä tämmöinen este
+on, että jos olet aktiivinen yhteiskunnallinen osallistuja ja kuulut kunnanvaltuustoon, niin
+jos olet ammattisi puolesta käräjäoikeudessa töissä ja muuten pääsisit tähän johtokuntaan,
+niin onkos tässä nyt niin kuin ajatuksena, että henkilö, joka on politiikassa mukana, ei saa
+sitten olla tämäntyyppisissä asioissa mukana, että onko hän heti jollain lailla epäilyttävä.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+Tähän toivon myös ministeriltä vastausta, miksi tämmöinen lisäys on. Ymmärrän sen, että
+kansanedustaja ei siellä voi olla, mutta kun kansanedustaja on täällä päivätöissä, niin ei hän
+voisi olla samaan aikaan muutenkaan käräjäoikeudessa töissä. Silloinhan tulee automaat-
+tisesti lain mukaan virkavapaa.
+
+Yksi asia, mihin toivoisin vielä vastausta ministeriltä: Tässä jatkuvasti tulee tuomiois-
+tuimille lisää tehtäviä, ja tästä oli jo viime viikolla lähetekeskustelussa puhetta, itse aina-
+kin nostin esille huolestuneisuuden tuomareiden määrästä. Tässä katsoin, että vuosina
+2017—2019 trendi on tällä hetkellä henkilötyövuosissa hieman laskeva, asiamäärät lisään-
+tyvät, asiat vaikeutuvat, myös tuomiostuinhenkilöstön sairauspoissaolot ovat nousussa, ja
+on myös ollut tutkimuksia tuomareiden jaksamisesta. Haluaisinkin kuulla ministeriltä, mi-
+ten tätä on ajateltu edistää. On ollut hyviä hankkeita: muun muassa poliiseihin on panos-
+tettu lisäresursointeja, syyttäjien asemaa on pohdittu, tällä hetkellä on myös laki syyttäjistä
+vireillä täällä eduskunnassa. [Puhemies koputtaa] Mutta olisin nyt kiinnostunut tietämään,
+koska puutumme siihen, että tuomioistuin on se viimeinen pullonkaula, minne nämä asiat
+menevät ja missä ne ruuhkautuvat ja missä se oikeusturva toteutuu, tai jää toteutumatta. —
+Kiitos.
+
+Puhemies Paula Risikko: Nyt oli pyyntöjä muutamalle debattipuheenvuorolle.
+
+14.09 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Edustaja
+Meri kiinnitti aivan oikein huomiota tuomioistuinten ruuhkautumiseen ja sen seurauksena
+myös juttujen venymiseen, mistä olemme saaneet jopa Euroopan ihmisoikeustuomioistui-
+melta pyyhkeitä. Edustaja Meren ratkaisu on se, että pitää nimittää lisää tuomareita, ja var-
+masti sitäkin tarvitaan, mutta itse koen, että vielä tärkeämpää on prosessien kehittäminen
+siten, että kaikista mitättömistä jutuista ei loppuun saakka riidellä. Tehdään sovintoja, jä-
+tetään asioita osin rangaistusmääräysmenettelyn piiriin ja niin edelleen. Ja kuten edustaja
+Merikin viittasi, nyt eduskunnassa on syyttäjälaitosta ja hallintotuomioistuinta koskeva uu-
+distus, jolla pyritään sujuvoittamaan prosesseja.
+
+Eli kysyisin oikeusministeriltä tästä prosessien sujuvoittamisesta, niin että oikeusturvaa
+saadaan mutta mitättömissä asioissa ei vuosikausia riideltäisi: miten on edistytty näissä
+prosessien sujuvoittamispyrkimyksissä?
+
+14.11 Riitta Myller sd (vastauspuheenvuoro): Arvoisa puhemies! Täällä tuli puheeksi tä-
+män tuomioistuinviraston sijaintipaikka. Tästähän käytiin pitkä keskustelu. Aika monet
+kaupungit, joissa on oikeustieteellistä koulutusta ja muuta laajaa oikeustieteellistä osaa-
+mista, olisivat tietysti mielellään nähneet, että tämä virasto olisi sijoittunut muualle kuin
+tänne pääkaupunkiseudulle. Täällä jo sanottiin, että täällä on ruuhkaa kovin. Ja sitten toi-
+nen asia on tietysti se, että kun puhutaan alueellistamisesta, niin parhaat tulokset on saatu
+sillä, kun uusia virastoja on alueellistettu. Tässä olisi ollut aivan mainio mahdollisuus har-
+rastaa järkevää ja toiminnallista aluepolitiikkaa. Kysynkin, miksi näin ei tehty.
+
+14.12 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Yhdyn edustaja
+Myllerin esille nostamaan kysymykseen tästä tuomioistuinviraston sijaintipaikasta. Täy-
+tyy sanoa, että tämä on kyllä itäsuomalaisille tärkeä kysymys ja tärkeä myöskin sen suh-
+teen, minkälaista linjanvetoa hallitus tekee aluepolitiikan suhteen.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+Joensuussa oikeustieteellinen tiedekunta toimii, ja sinne on pyritty saamaan alan opis-
+kelijoita. Kun katsotaan, että tuolla alueella erityisesti käräjäoikeusuudistuksessa sekä Ii-
+salmen että Varkauden käräjäoikeuksien kanslioitten lopettaminen kirpaisi, niin jollakin
+tavalla se odotusarvo siihen, että tämä tuomioistuinvirasto voisi olla tuolle alueelle sijoi-
+tettava, on tällä hetkellä varsin korkea. Olisin myös halunnut tästä asiasta kysyä ministe-
+riltä niitä perusteluita, kun tämä Vantaa nyt on ollut esillä näissä keskusteluissa, että miksi
+näin.
+
+14.13 Antti Rantakangas kesk (vastauspuheenvuoro): Arvoisa puhemies! Tämä tuo-
+mioistuinviraston perustaminenhan on hyvä asia, ja esimerkiksi lakivaliokunnassa oli pal-
+jon myönteistä työntöä, että tällainen tulisi, ja on siinä mielessä hieno asia, että oikeusmi-
+nisteriö ja hallitus ovat päätyneet tähän ratkaisuun. Mutta samoin kuin edellä puhuttiin,
+niin itsekin olisin odottanut, että hallitus ja oikeusministeriö olisivat käyttäneet tilaisuuden
+toteuttaa käytännön tasolla tätä alueellistamista.
+
+Tietojeni mukaan tätä asiaa ei käsitelty alueellistamisen koordinaatiotyöryhmässä — en
+tiedä, pitääkö tämä paikkansa — joka on pelisääntöjen mukaan se paikka, jossa katsotaan
+sitten vähän laajemmalla joukkueella, mikä on paras ratkaisu sen viraston osalta. Kyllä
+Pohjois- ja Itä-Suomesta olisi hyviä kohteita löytynyt, jotka olisivat täyttäneet nämä kritee-
+rit. Kyllä tämä valitettavasti tukee vääränsuuntaista keskittämispolitiikkaa, josta kuitenkin
+jokaisen ministerin pitäisi kantaa huolta, kun se on tietyllä tavalla hallituksen linjan mu-
+kaista, että koko maata halutaan kehittää ja pitää toiminnassa.
+
+14.14 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Tätä
+tuomioistuinvirastoa on todellakin kannatettu, ja se oli esillä myös käräjäoikeusuudistuk-
+sen aikana, kun ihmeteltiin, miksi mennään karsimaan käräjäoikeuksia ennen kuin on otet-
+tu tätä askelta. Toisaalta lakivaliokunnan on syytä huolellisesti käsitellä nämä pykälät ja
+myös pohtia, ovatko valitut ratkaisut juuri oikeita, jotka turvaisivat parhaalla tavalla tuo-
+mioistuinten riippumattomuutta.
+
+Oikeusministeri Häkkänen on tosiaan tehnyt tämän päätöksen, että virasto sijoittuisi
+Vantaalle. Minusta se kuulostaa järkevältä ja tasapainoiselta ratkaisulta jo liikenneyhteyk-
+sienkin perusteella, ja kotimaisten kielten ja kielikysymysten huomioon ottaminenkin on
+hyvä perustelu sille, että tämä virasto on Vantaalla. Minusta tämä on hyvä päätös, ja mie-
+lelläni kuulen myös ministerin perusteluita sijoituspaikalle.
+
+14.15 Simon Elo sin (vastauspuheenvuoro): Arvoisa rouva puhemies! Uusimaalaisena
+kansanedustajana ja espoolaisena minun olisi helppo vain tässä kiittää ministeriä siitä, että
+virasto tulee Vantaalle, mutta totta kai tässä pitää katsoa kokonaisuutta. Sininen eduskun-
+taryhmäkin kannattaa sinänsä alueellistamista ja sitä, että valtion toimintoja sitä kautta sit-
+ten on kaikkialla maassa. Yksi paikkakunta, joka nousee esille ja johon on muita toiminto-
+ja laitettu, on tietysti Kuopio, jossa itsekin joskus olen asunut.
+
+Tässä kaikkein tärkeintä on tietysti se, että tuomioistuinvirasto toimii tehokkaasti ja pys-
+tyy myös tekemään päätöksiä tehokkaasti ja mahdollisimman oikeudenmukaisesti. Kun
+käsittääkseni olette ministeriössä sinänsä tehneet ihan syvällisen selvityksen tästä paikka-
+kysymyksestä, niin mielelläni itsekin kuulen tarkemmin teiltä siitä, miksi nimenomaan
+Vantaa valikoitui, mitä muita vaihtoehtoja oli ja miksi kuitenkin lopulta sitten päädyttiin
+Vantaaseen.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+Puhemies Paula Risikko: Näyttää, että kaikilla, jotka ovat pyytäneet vastauspuheenvuo-
+ron, on kuitenkin myöskin varsinainen puheenvuoropyyntö täällä. Ovatko ne kuitenkin eri
+asiaa, mitä te haluatte tässä debatissa käydä? — Elikkä mennään nopsasti sitten nämä de-
+battipuheenvuorot.
+
+14.16 Pia Kauma kok (vastauspuheenvuoro): Arvoisa puhemies! Tuomioistuinviraston
+perustaminen Vantaalle, pääkaupunkiseudulle, on mielestäni perusteltua, koska nämä vi-
+rastot pitää perustaa sinne, missä ihmisetkin ovat, ja siellä on myöskin suurin osa tapauk-
+sista, [Välihuutoja] jotka pitää käsitellä, ja hyvät liikenneyhteydet.
+
+Arvoisa puhemies! Edustaja Zyskowicz nosti esiin prosessien pitkittymisen ongelman ja
+sen, millä tavalla tätä on pystytty taklaamaan, että saataisiin nopeammin ihmisille oikeu-
+den päätöksiä. Tämä minuakin kiinnostaa, erityisesti siitä syystä, että pitkiin prosesseihin-
+han sitoutuu aina rahaa ja silloin ihmisten on vaikeampaa sitten käydä oikeutta. Erityisesti
+minua huolestuttaa keskiluokka, koska köyhillä ihmisillä on mahdollisuus saada oikeus-
+apua ja rikkailla on rahaa, mutta sitten ovat ne kaikki väliinputoajat siinä välissä, jotka jou-
+tuvat miettimään, että kannattaako sitä oikeutta edes ryhtyä hakemaan.
+
+14.17 Markus Lohi kesk (vastauspuheenvuoro): Arvoisa puhemies! Täytyy ensinnä an-
+taa kiitokset ministerille: Tuomioistuinviraston perustaminen on erittäin hyvä päätös. Tätä
+jo hallitusohjelmaneuvotteluissa pyrittiin saamaan kirjattua sinne, siellä se ei vielä ole,
+mutta on erinomaista, että päätös on syntynyt.
+
+Täällä on arvosteltu tätä sijoituspaikkaa, ja minusta kyllä ihan aiheestakin. Silloin kun
+meillä on mahdollisuus sijoittaa ja löytyy muitakin järkeviä sijoituspaikkoja kuin pääkau-
+punkiseutu, niin kannattaisi kyllä tilaisuuteen tarttua. Täällä edustaja Kauma totesi, että pi-
+täisi sijoittaa tuomioistuinvirasto sinne, missä ovat ihmiset ja missä ovat nämä oikeusta-
+paukset, mutta silloin on ehkä ymmärtänyt tuomioistuinviraston tehtävän hieman väärin,
+koska se ei tule käsittelemään tuomioistuimena mitään oikeustapauksia — ei valituksia
+eikä mitään rikos- tai riitajuttuja, hallintojutuista puhumattakaan — vaan sen tehtävä on
+kehittää tuomioistuinlaitosta ja varmistaa sen toimivuus [Puhemies koputtaa] tulevaisuu-
+dessa entistä paremmin.
+
+14.18 Antti Kurvinen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Täällä kes-
+kustelussa on ollut esillä, että alueellistamisen koordinaatioryhmä ei olisi käsitellyt tätä nyt
+puheena olevan yksikön perustamista. Mutta se on käsitellyt 29. päivä kesäkuuta 2018 tätä
+tuomioistuinviraston perustamista ja on esittänyt suosituksen siitä, että tämän viraston si-
+jaintipaikka ja tämän viraston perustamista koskeva sijainti tulisi viedä valtioneuvoston
+yleisistunnon käsiteltäväksi. Ilmeisesti oikeusministeri Häkkänen on päätynyt siihen, että
+sitä ei viedä valtioneuvostoon koko hallituksen käsiteltäväksi. Voitteko vähän perustella
+tätä ratkaisua?
+
+Täällä on kuultu, voisinko sanoa, siltarumpupoliittisia puheenvuoroja Uudenmaan vaa-
+lipiirin kansanedustajilta siitä, että ihmisiä ei ole muualla ja elämää ja järkeä ei ole muualla
+kuin täällä ihan Etelä-Suomessa. [Ben Zyskowicz: No ei nyt sentään!] Kun uusia yksiköitä
+perustetaan, niin silloinhan alueellistaminen pitäisi käydä läpi. Haluaisin itsekin kuulla oi-
+keusministeri Häkkäseltä: miksi ette halua alueellistaa tätä tuomioistuinvirastoa? Meillä on
+juristikoulutusta esimerkiksi Turussa, Vaasassa, [Puhemies koputtaa] Rovaniemellä, Joen-
+suussa. Eikö sinne olisi helpompi saada vaikka edullisemmat toimitilat?
+5
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+14.19 Mika Niikko ps (vastauspuheenvuoro): Arvoisa puhemies! Tässä on selkeästi nyt-
+ten tämmöinen aluejakoinen mielipide tästä tuomioistuinviraston paikasta. Tässä täytyy
+nyt sen verran edustaja Kaumaa kompata, koska tuomioistuinvirasto kuitenkin vastaisi tuo-
+mareiden ja muun henkilöstön koulutuksesta ja tulisi tällöin niin sanotusti myös tämmöi-
+seksi riippumattomaksi virastoksi tänne poliitikkojen ja muiden väliin, ja siinä mielessä-
+hän Vantaa on erinomainen sijaintipaikka. [Välihuutoja] Täällähän suurin osa tuomareista
+töitä tekee, täällä Helsingin seudun alueella, joten säästetään paljon matkakuluissa ja kai-
+kessa muussa, kun majoitutaan Vantaalla ja käydään koulussa siellä ja niinpäin pois. [Vä-
+lihuutoja] Siinä mielessä, arvoisa ministeri, olisin kysynyt: Mitkä olivat ne painavimmat
+kriteerit, että Vantaa valittiin? Tietysti se, että siellä on Korso, mutta onko lisäksi muita kri-
+teereitä?
+
+14.20 Katja Hänninen vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Kyllä mi-
+nuakin kiinnostaa, niin kuin monia muitakin edustajia tässä salissa, ne perustelut, että min-
+kä takia, ministeri, päädyitte esittämään tuomioistuinvirastoa Vantaalle ettekä jonnekin
+muualle. Käsittääkseni kuitenkaan ei voida sanoa, etteivätkö muutkin sijoituspaikat, jotka
+olivat tässä vertailussa mukana, olisi täyttäneet niitä kriteereitä, jotka tälle tuomioistuinvi-
+raston sijainnille ja tälle virastolle on asetettu, vaan tämä vaikuttaisi olevan poliittinen pää-
+tös, että tätä on nytten tänne Vantaalle esitetty. Mutta ei se sulje pois minusta sitä, että olisi
+ollut myös jokin toinen vaihtoehto yhtä hyvä, ja sen takia nämä perusteluiden vaateet ovat
+ihan paikallaan. Toinen asia, minkä edustaja Karimäkikin nosti esille, on, että lakivalio-
+kunta olisi halunnut ratkaista tämän yhdessä käräjäoikeusverkoston uudistuksen kanssa.
+
+Ja edelleen pitää kysyä ministeriltä: olisitteko valmis harkitsemaan, että erittäin tehok-
+kaat, kustannustehokkaat, laadukkaat ratkaisut omaavat istuntopaikat ja kansliat säilytet-
+täisiin, kuten Iisalmessa, Raahessa ja Varkaudessa?
+
+14.22 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Siltarum-
+pua minäkin täällä hakkaan mutta tällä kertaa rummutan Rovaniemen puolesta. Pohdin si-
+tä, että kyllä tämä nyt olisi ollut oikeusministeriöltä aivan oikea suunta lähteä miettimään,
+missä nämä koulutukset ovat. Niitä ei ole vain yhdessä suunnassa. Vaikka olen Espoosta,
+silti näen tämän aluepoliittisesti merkittävänä. Erityisesti se rohkaisisi maakuntiakin näke-
+mään ja ymmärtämään, että todella täällä eduskunnassa on muutakin kuin suurten kaupun-
+kien politiikkaa.
+
+Sitten pohdin sitä, että tämä tuomioviraston perustaminen tulee vasta nyt, vaikka kärä-
+jäoikeusuudistus hetki sitten päätettiin. Olisin kysynyt oikeusministeriltä kahta asiaa: Mik-
+si tämä päätettiin sijoittaa Vantaalle, miksi ei jonnekin muualle? Ja toiseksi, miksi tämä jär-
+jestys oli näinpäin, kun ne ovat kuitenkin ihan lähekkäin? Miksi ensin käräjäoikeusuudis-
+tus [Puhemies koputtaa] ja sitten vasta tuomarivirasto?
+
+14.23 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! On hyvä jat-
+kaa Laukkasen puheenvuorosta.
+
+Kysynkin ministeriltä, onko jotain erityistä syytä, minkä takia tämä tuomioistuinvirasto
+tulisi sijoittaa justiinsa Vantaalle. Eikö meidän näissä päätöksissä pidä miettiä ensisijaises-
+ti valtion etua, koko valtion etua, siis Suomen, jossa me kaikki asumme?
+
+Meillä on myös muualla hyvin paljon osaajia, meillä on hyviä yhteyksiä ympäri Suo-
+mea, siitä me olemme tunnettuja, yhteydet sekä liikenteessä että muussakin, digitaalisessa
+6
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+toiminnassa ja kaikissa näissä. Monessa muussa paikassa, esimerkiksi Rovaniemellä, on
+edullisempaa asua, siellä on pysyvämpää henkilökuntaa, ja siellä on myöskin pätevää osaa-
+jaa. On oikeustieteitten tiedekunta, elikkä osaajia on. Minäkin olen siellä koulun käynyt,
+oikeustieteellisen, ja tullut siihen tulokseen, että pätevää henkilökuntaa näyttää olevan saa-
+tavissa kyllä ihan tarpeen mukaan. 
+
+Puhemies Paula Risikko: Myönnän viisi vastauspuheenvuoroa, sen jälkeen saa ministeri
+vastata. Nämä henkilöt ovat Kivelä, Hoskonen, Raatikainen, Jarva ja Kulmala.
+
+14.24 Kimmo Kivelä sin (vastauspuheenvuoro): Puhemies! On varmasti monia rationaa-
+lisia perusteita oikeusviraston perustamiseksi, mutta on myös kriittisiä ääniä, jotka on syy-
+tä ottaa vakavasti. Puhutaan, että tämän viraston perustamisen resurssit, käyttökulut ovat
+sitten pois varsinaisesta oikeuslaitoksen toiminnasta. Historian varrella kokemukset kes-
+kusvirastoista eivät ole pelkästään positiivisia.
+
+Toki itse uskon, että tämä merkittävästi lisää oikeuslaitoksen prosessien sujuvuutta, kan-
+salaisten oikeusturvaa ja ylipäätänsä jäntevöittää oikeuslaitosta, ja juuri se, että tuomareil-
+le annetaan täydennys- ja ajankohtaiskoulutusta.
+
+Liityn kyllä myös, oikeusministeri, niihin, jotka kyseenalaistavat tämän sijaintipaikan.
+
+14.25 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Todella-
+kin, kun uusia virastoja perustetaan, kyllä siinä yhteydessä pitäisi ihan aidosti käydä se kes-
+kustelu, niin kuin nyt on julkisuudessa käytykin, mutta käydä se korkeimmalla poliittisella
+tasolla, siitä, että tässähän on nyt juuri se tilaisuus tehdä sitä oikeaa, koko Suomen huomi-
+oivaa politiikkaa.
+
+Väite siitä, että jossakin on enemmän ihmisiä tai vähemmän ihmisiä: Meillä kuitenkin
+Suomi on kokonaisuus, ja katsokaapa nyt esimerkiksi Suomen metsävaroja. Lähes kaikki
+metsälliset toiminnot on keskitetty tänne Helsinkiin, mutta itse metsävarannot ovat jossa-
+kin ihan muualla. Siinäkään asiassa ei ole huomioitu tätä todellisuutta. 
+
+Tässä nyt käsittelyssä olevassa asiassa toivoisin, että oikeusministeri ottaisi nyt niin sa-
+notusti lusikan kauniiseen käteensä ja huomioisi, missä oikeustiedettä opetetaan. Esimer-
+kiksi edustaja Antti Kurvinen kertoi omassa puheenvuorossaan nämä paikkakunnat. Ni-
+menomaan näen, että tässä on se mahdollisuus tehdä oikeudenmukaista politiikkaa, ja ha-
+jauttaminen sinänsä on viisautta eikä resurssien tuhlausta. Se on aina viisautta, koska kes-
+kittäminen on se suuri riski.
+
+14.26 Mika Raatikainen ps (vastauspuheenvuoro): Arvoisa rouva puhemies! Käytän ti-
+laisuutta hyväkseni enkä nyt puutu tähän. Sijoitetaan nyt, minne sijoitetaan. Tämä ei näin
+helsinkiläisenä hirveästi aiheuta parran pärinää. Siltarummuista puhutaan, mutta minä en
+niihin ole perehtynyt.
+
+Käytän tilaisuutta hyväkseni. On hienoa, että tuomioistuinlaitos uudistuu, ja kysyisin-
+kin oikeusministeriltä, aikooko tässä tilanteessa hallitus kenties ryhtyä joihinkin toimiin
+varmistaakseen sen, että tuomareiden riippumattomuus ja erottamattomuus turvataan tilan-
+teessa, jossa merkittävä osa tuomareista toimii määräaikaisissa viroissa. Meillähän on aika
+paljon tuomareita käsittääkseni tällä hetkelläkin määräaikaisina, ja kun työpaineet aiheut-
+tavat sen, että yritetään olla tehokkaita, niin siinä on pieni riski, että tuomioiden laatu ehkä
+vaihtelee, jos yritetään olla ylitehokkaita. Sen vuoksi kysymys. — Kiitos.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+14.27 Marisanna Jarva kesk (vastauspuheenvuoro): Arvoisa puhemies! Ihan asiallista
+keskustelua käydään näistä sijoittumispaikoista näitten valtion toimintojen osalta. Kuiten-
+kin näissä kyselyissä, joita on tehty medioitten toimesta, valtaosa suomalaisista tukee ni-
+menomaan valtion vahvaa roolia valtion toimintojen sijoittamisessa, ja näkisin, että oi-
+keusministeriö myös tässä noudattaa linjaa, jota on tämänkin hallituksen aikana haluttu
+viedä eteenpäin, että alueitten vahvuuksiin perustuen näitä toimintoja viedään eteenpäin ja
+kehitetään.
+
+Toinen asia, johon haluaisin kiinnittää huomiota, on näitten käräjäoikeuksien osalta, kun
+tätä rakennemuutosta tehdään ja näiden jäljelle jäävien käräjäoikeuksien osalta on haluttu,
+että niitten toimintaa kehitetään ja vahvistetaan. Onko tarkoitus, ajatus ja toimintalinja se,
+että näitä toimintoja — esimerkiksi näitä summaarisia riita-asioita, joista on ollut keskus-
+telua — keskitetään nyt sitten esimerkiksi näihin pienempiin käräjäoikeuksiin, jotta siellä
+nykyisten hyvien sähköisten menettelytapojen kautta, jotka ovat myös oikeusturvan kan-
+nalta [Puhemies koputtaa] ihan tasavertaisia kansalaisille, pystytään näitä toimintoja vah-
+vistamaan?
+
+Puhemies Paula Risikko: Vielä edustaja Kulmala, ja sen jälkeen ministerin vastaus.
+
+14.28 Kari Kulmala sin (vastauspuheenvuoro): Arvoisa rouva puhemies! Tuomioistuin-
+virasto on ehdottomasti perustettava, ja siitä ovat kaikki tässä salissa samaa mieltä. Kerron
+vielä noista tuomioistuinviraston tehtävistä, koska niistä näyttää olevan hieman epätietoi-
+suutta. Elikkä lainaan suoraan tästä esityksestä: ”Tuomioistuinviraston tehtävänä olisi huo-
+lehtia tuomioistuinlaitoksen toimintaedellytyksistä, tuomioistuinten toiminnan kehittämi-
+sestä, suunnittelusta ja tukemisesta. Virasto toimisi oikeusministeriön hallinnonalalla,
+mutta olisi toiminnallisesti itsenäinen keskusvirasto. Se palvelisi koko tuomioistuinlaitos-
+ta.”
+
+Arvoisa ministeri, kysyn tässä vaiheessa kuten niin moni muukin: minkä takia tällaista
+virastoa ei voida suunnitella minnekään muualle kuin pääkaupunkiseudulle? Meillä on ole-
+massa esimerkiksi Rovaniemi, Kouvola, Joensuu, jotka ovat sellaisia alueita, minnekä tä-
+män hyvin voisi sijoittaa.
+
+Puhemies Paula Risikko: Ja sitten ministeri vastaa. — 3 minuuttia, olkaa hyvä.
+
+14.29 Oikeusministeri Antti Häkkänen: Arvoisa puhemies! Kun katsotaan ripauksen
+verran Suomen rajojen ulkopuolelle, niin tällä hetkellä kaikista huolestuttavin kehitys — ei
+pelkästään kauppasuhteiden jäätyminen tai muut — on monissa länsimaissa tapahtuva oi-
+keusvaltion horjuttaminen. Sitä tapahtuu USA:ssa, sitä tapahtuu monissa Euroopan mais-
+sa. Tuomioistuinlaitos on oikeusvaltion ydinkulmakivi. Sen luottamusta, sen toimintaky-
+kyä täytyy vaalia Suomessa kuin kultajyvää. Siihen en soisi sekoitettavan mitään muuta
+kuin tuomioistuimen parhaan toimintakyvyn turvaavia perusteita. Se on ollut minulla tässä
+kaiken päätöksenteon perustana.
+
+Tuomioistuinviraston tehtävät tulevat olemaan nykyisiä tehtäviä, eivät siis uusia tehtä-
+viä. Niitä pääosin hoidetaan tällä hetkellä oikeusministeriössä. Ne eivät ole tilivirastoteh-
+täviä, ne eivät ole palkanlaskentatehtäviä. Ne ovat erittäin keskeisiä tuomioistuinlaitoksen
+toimintakykyyn, kehittämiseen ja ohjaamiseen liittyviä tehtäviä, siis tehtäviä, joiden varas-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+sa tuomioistuinlaitoksen luotettavuus, uskottavuus, toimintakyky, kustannustehokkuus —
+kokonaisuus — tulee joko menestymään tai epäonnistumaan.
+
+Sen takia tämän viraston paras mahdollinen toimintakyky on ainoa kriteeri, joka oli
+myös sijaintipaikan valinnassa. Asiantuntijatoimikunta perusteellisesti ruoti eri paikka-
+kuntia, niiden positiivisia ja negatiivisia piirteitä. Halusin vielä teetättää uuden selvityksen
+ministerikauteni aluksi, mikä paikkakunta parhaiten kykenee turvaamaan tuomioistuinlai-
+toksen toimintakyvyn niukkojen resurssien aikakautena. Sijainnin, saavutettavuuden, toi-
+mintakyvyn kannalta pääkaupunkiseutu oli paras, ja pääkaupunkiseudun kunnista Helsin-
+ki ei ollut paras, vaan nimenomaan Vantaa, koska se on helpoiten saavutettavissa ympäri
+Suomea niin idästä kuin lännestä, pohjoisesta ja etelästä. Etelä-Suomen alueella sijaitsee
+ylivoimaisesti suurin osa tuomioistuinlaitoksen henkilökunnasta. Se on kustannuksiltaan
+tehokas. Tätä on selvitetty, ja tätä analyysiä on itse asiassa useampi sata sivua. Tätä ei ole
+tehty minään hetken mielijohteena. Uskon, että puhujakaartia kun katsoo, niin minä olen
+itse asiassa varmaan ainoa, joka on oikein kunnon maaseutupitäjästä kotoisin. [Eduskun-
+nasta: No, no!] Eli voin sanoa, että kyllä myös minä olisin nähnyt, että tämä virasto voisi si-
+jaita jossain muualla, mutta kun katsotaan puhtaasti asiantuntijaselvityksiä, niin selvästi
+paras sijaintipaikka on Vantaalla.
+
+Mitä tulee näihin muihin kysymyksiin, niin palaan vielä debatin jatkuessa ja keskuste-
+lun jatkuessa näihin muihin.
+
+14.32 Maria Tolppanen sd (vastauspuheenvuoro): Arvoisa puhemies! Kun ministeri sa-
+noi nämä viimeiset sanansa, nousin heti ylös. Eli kun kehitetään tuomioistuinlaitosta, niin
+se on todellakin se asia, mihin haluaisin puuttua ja mistä haluaisin, että uskallettaisiin nos-
+taa asioita esille. Vaikka me kaikki tiedämme, että jokainen asia, joka tuomioistuimeen tu-
+lee, on omalaisensa ja erilainen, niin siitä huolimatta vaikuttaa siltä, että hyvin samankal-
+taisia asioita käsitellään eri tuomioistuimissa eri tavalla, ja muun muassa rangaistukset ei-
+vät aina näytä olevan yhteisverrannollisia. Tullaanko tässä puuttumaan sitten tällaisiin
+asioihin?
+
+Ja toinen asia, se, kun nämä pienet, varsinkin sosiaali- ja terveyspuolen, laskutyöt jäävät
+maksamatta: Kun niitä sitten kierrätetään perintäfirmojen kautta ja sitten ne aikanaan me-
+nevät ulosottoon ja sen jälkeen sitten tulevat nämä perintäfirmojen kulut, jotka menevät oi-
+keuteen, ja siellä myöskin määrätään niistä hinnat, niin se nostaa näiden köyhien ihmisten
+velkatasoa ja he eivät pääse koskaan siitä velastaan pois. Tullaanko tässä jonkinnäköistä
+oikotietä tekemään, niin että kaikkiin ei tarvittaisi sitä tuomarin kopautusta?
+
+Puhemies Paula Risikko: Sitten taitaa olla puhujalistan aika. Ensimmäisen puheenvuo-
+ron tässä vaiheessa käyttää edustaja Kurvinen.
+
+14.34 Antti Kurvinen kesk: Arvoisa rouva puhemies! Tämä käsittelyssä oleva tuomiois-
+tuinviraston perustaminen on erittäin myönteinen asia, ja haluan kiittää siitä Sipilän halli-
+tusta.
+
+Tämä on ollut pitkäaikainen tavoite, jota muun muassa Suomen Lakimiesliitto on hyvin
+voimakkaasti ajanut. Kyllähän se tämän esityksen suurin pihvi on kuitenkin se, että tällä
+vahvistetaan suomalaisten tuomioistuinten riippumattomuutta ja vahvistetaan sitä vallan
+kolmijako-oppia, jossa me täällä säädämme lait, virkamiehet käyttävät toimeenpanovaltaa
+ja sitten riippumattomat, erottamattomat tuomarit soveltavat lakeja. Tämä on sillä lailla po-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+sitiivinen asia ja lisää ainakin riippumattomuutta. Toivon, että myös tuomioistuinlaitoksen
+laatua tämä esitys tulisi parantamaan.
+
+Minusta edustaja Raatikainen käytti täällä debatissa erinomaisen puheenvuoron siitä,
+että meillä on erittäin paljon määräaikaisessa virassa olevia tuomareita — ja itsekin tunnen
+henkilökohtaisesti monia nuoria tuomareita, jotka ovat tässä tilanteessa — ja pelkäänpä,
+että se on omiaan heikentämään meillä esimerkiksi laadukkaan, hyvän, parhaan henkilös-
+tön saamista tuomareiksi. Muutenkin se riippumattomuus on kyseenalaista, jos sinun tuo-
+marinvirkasi on muutaman kuukauden pätkissä. Siihen tarvittaisiin varmasti uusia ideoita.
+
+Puhemies! En voi olla vielä palaamatta tähän sijaintipaikka-asiaan. Toivoisin, että oi-
+keusministeri kertoisi, miksi hän ei noudattanut alueellistamisen koordinaatioryhmän suo-
+situsta, että asia ratkaistaisiin koko valtioneuvoston istunnossa. Lisäksi tuntuu hassulta se,
+kun täällä kerrotaan, että laadukasta oikeudellista osaajakuntaa ei saada mistään muualta
+kuin pääkaupunkiseudulta. Mitä oikein sitten vaikkapa Rovaniemen tai Vaasan oikeustie-
+teelliset tekevät? Ovatko ne aivan laaduttomia yksiköitä? Meillähän on juristeja pitkin
+Suomea, meillä on hovioikeuksia useammalla paikkakunnalla. Voisi sanoa, että tämä olisi
+helppo alueellistettava kohde. Ja en voi olla mainitsematta tästä asiantuntijaselvityksestä,
+että aika heikolla tasolla vielä näyttää olevan oikeusministeriössä digitalisaatio, jos matka-
+kustannusten, matkustelun fyysisten kokousten, vuoksi perustettiin tämä sijaintipaikka
+pääkaupunkiseudulle, koska vaikkapa pörssiyhtiöt käyttävät todella paljon sähköisiä ko-
+kouksia.
+
+Puhemies! Lisään vielä loppuun sen, että muissa Pohjoismaissa on katsottu tarpeellisek-
+si alueellistaa tämäntyyppiset virastot, tällaiset tuomioistuinvirastot. Alueellistaminen on
+pohjoismainen malli.
+
+14.36 Markus Lohi kesk: Arvoisa puhemies! Vielä haluan tähän alkuun kiittää oikeusmi-
+nisteriä siitä, että tämä tuomioistuinvirasto ollaan vihdoin perustamassa Suomeen. Se on
+erittäin tarpeellinen hanke ja korostaa nimenomaan, että halutaan pitää vallan kolmijako-
+opinkin mukaan nämä eri regiimit erillään Suomessa. Tuomioistuinviraston tehtävähän
+olisi huolehtia tuomioistuinlaitoksen toimintaedellytyksistä, kuten ministeri tuossa edellä
+totesi, tuomioistuinten toiminnan kehittämisestä ja suunnittelusta ja niiden tukemisesta ja
+niin edelleen. Tämä on siis erittäin tärkeä laki, mitä nyt ollaan täällä lähetekeskustelussa
+käsittelemässä.
+
+Täällä on luonnollisesti noussut esille tämän uuden viraston sijoituspaikka, ja minusta
+on ihan aiheellista käydä keskustelua siitä vielä. Haluan ihan alkuun varmuuden vuoksi sa-
+noa, että eihän minulla Vantaata vastaan mitään ole, se on hieno paikkaunta, siellä varmas-
+ti tehdään hyvää työtä. Mutta kun puhutaan koko Suomen kehittämisestä, niin kyllä se tänä
+päivänä on sitä, että ei niinkään yritetä hajottaa vähän joka puolelle kaikkea, vaan se on si-
+tä, että pyritään vahvistamaan kunkin alueen ja paikkakunnan luontaisia vahvuuksia. Sil-
+loin kun siihen on järkevät perusteet, niin varsinkin uusien virastojen osalta katsotaan,
+mikä olisi semmoinen järkevä sijoituspaikka, jossa on jo olemassa osaamiskeskittymä, pu-
+hutaan klustereista, ja meillä on olemassa Suomessakin useita paikkakuntia, joissa on oi-
+keudellisen osaamisen keskittymiä. Siellä on hovioikeutta, siellä on oikeustieteellistä kou-
+lutusta ja niin edelleen.
+
+Kun katsotaan muita Pohjoismaita, kuten edustaja Kurvinen edellä hyvin totesi, Ruotsi
+ja Norja ovat tehneet ratkaisun, että heidän tuomioistuinvirastonsa on sijoitettu noin tunnin
+lentomatkan päähän pääkaupungista. Ja kyllä hekin varmasti sitä ratkaisua tehdessään ovat
+10
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+lähteneet ihan samasta tavoitteesta kuin edellä ministerin kuulimme toteavan, että tuomio-
+istuinten parhaan toimintakyvyn turvaaminen ja tuomioistuinviraston toimintakyvyn tur-
+vaaminen on se ohjaava tekijä. Mutta he ovat päätyneet tähän, ja heillä näyttää olevan voi-
+makkaamminkin se suunta, että katsotaan vähän, että koko maata kehitetään.
+
+On tunnustettava se, että vaikka Vantaa on hieno paikkakunta, niin eihän tämmöinen
+muutaman kymmenen hengen sinänsä tärkeä virasto, mutta ei kovin iso virasto, Vantaalle
+ole valtavan tärkeä työllistymismielessäkään. Mutta jos se olisi sijoitettu jollekin toiselle
+paikkakunnalle Suomessa, niin se olisi ollut tietyllä tavalla kruununjalokivi, josta se paik-
+kakunta olisi varmasti pitänyt erittäin hyvää huolta ja hakenut sille parhaat mahdolliset toi-
+mintaedellytykset sillä kyseisellä paikkakunnalla. Kun meillä jo luontainen väestökehitys
+näyttää olevan sitä, että väestö pakkautuu pikkuhiljaa tänne pääkaupunkiseudulle ja suu-
+riin keskuksiin, niin sitä kannattaisi myös poliittisesti katsoa, voitaisiinko vähän vastavir-
+taan tässä kysymyksessä mennä ja rakentaa eheää Suomea tältäkin kannalta.
+
+Kuten täällä edellä on todettu, tämä sijoituspäätöshän kävi alueellistamisen koordinaa-
+tiotyöryhmässä ja koordinaatiotyöryhmä lausunnossaan edellytti, että tämä sijoittamispää-
+tös olisi syytä viedä valtioneuvoston päätettäväksi. Sen takia olen kyllä hieman pahoillani,
+että näin ei toimittu, ja on tunnustettava sekin, että kyllä tässä meidän monipuoluejärjestel-
+mässä hallituspuolueiden välilläkin on näkemyseroja ja keskustan ryhmä tästä antoi kyllä
+selvän ja hyvin yksimielisen viestin, että tämä olisi syytä alueellistaa. Ja myös Itä- ja Poh-
+jois-Suomen maakunnat yhdessä yksimielisesti ottivat kantaa alueellistamisen puolesta.
+
+Nyt olemme kuitenkin tässä, ja eteenpäin on katsottava. Kokonaisuutena hankehan on
+hyvä, vaikka tähän vähän kyllä jääkin tämmöistä ikävää sivumakua, kun hienot mahdolli-
+suudet jätetään nyt käyttämättä.
+
+14.41 Kari Tolvanen kok: Arvoisa rouva puhemies! Tästä tuomioistuinvirastosta, tai tuo-
+miohallinnosta, millä nimellä sitä nyt kutsutaankaan, on puhuttu jo vuosikausia ja monta
+hallituskautta, ja nyt meillä on semmoinen oikeusministeri, joka on toteuttanut tämän. Eli
+kiitos oikeusministerille. Te ette pelkästään puhu, vaan te toimitte, tässäkin asiassa, niin
+kuin monessa muussa.
+
+On todella tärkeää, että tämä tuomioistuinvirasto vihdoinkin perustetaan. Se hoitaa erit-
+täin tärkeitä tehtäviä: se huolehtii tuomioistuinten toimintaedellytyksistä, toiminnan kehit-
+tämisestä, suunnittelusta ja tukemisesta. Niin kuin sanoitte, nämä eivät ole mitään tämmöi-
+siä palkanlaskentatehtäviä, vaan tänne tarvitaan erityisosaajia, sekä juridisen osaamisen
+alueelta että myös kehittämisen, koulutuksen alueelta — huippuosaajia. En väitä, etteikö
+niitä olisi joka puolella Suomea, mutta näitä tähän virastoon tarvitaan.
+
+On tärkeätä, että tämä on itsenäinen keskusvirasto. On tärkeää, että tuomioistuimet
+myös ulkoisesti näyttävät riippumattomilta, että ne eivät näytä olevan poliittisessa ohjauk-
+sessa. En väitä, että näin olisi, mutta se saattaa näyttää siltä, ja nyt tällainen itsenäinen vi-
+rasto poistaa tämän ulkoisesti hankalan tilanteen.
+
+Se on ihan selvää, että tämän viraston henkilöstön, joka valitaan, pitää olla sellaista ko-
+kenutta, arvostettua henkilökuntaa, joka saa tuen täältä niin sanotulta operatiiviselta tasol-
+ta elikkä tuomareilta, jotka siellä arjessa, kädet savessa, niitä tuomioita jakavat. Minun
+mielestäni tämän henkilöstön, joka valikoituu, pitää olla todella kokenutta, niin että heillä
+on näkemyksiä. Tätä taustaa vasten kysyisinkin — varmaan selvitysraporteissa onkin —
+onko tämä yksi peruste, miksi tänne Etelä-Suomen suunnalle tämä virasto nyt päätettiin si-
+joittaa. En väitä, etteikö muualla Suomessa olisi ammattitaitoista henkilöstöä, mutta uskoi-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+sin, että tänne Etelä-Suomeen heitä on helpommin saatavilla. Oliko tämä se peruste, eräs
+niistä?
+
+14.43 Eeva-Maria Maijala kesk: Arvoisa puhemies! Tuomioistuinviraston perustami-
+seen liittyy tuomioistuinlaitoksen keskushallintotehtävien siirtäminen pois oikeusministe-
+riöstä. Vanhan vallan kolmijako-opin mukaan ajateltuna päätös onkin perusteltu. Sen voi-
+daan katsoa edistävän tuomioistuinten riippumattomuuden periaatetta, ja se näyttää parem-
+malta myös kansainvälisessä vertailussa. Toisaalta, oikeusministeriö lienee tähänkin asti
+hoitanut näitä tehtäviä tuomioistuinten riippumattomuutta kunnioittaen, eli eihän meillä
+mitään isompaa ongelmaa ole kyllä ollut tähänkään mennessä.
+
+Julkisuudessa keskustelu tuomioistuinvirastosta on keskittynyt lähinnä tuomioistuinvi-
+raston sijoituspaikkaan. Tämä on sinänsä ymmärrettävää. Muun muassa monissa Pohjois-
+maissa valtion virastoja siirretään pääkaupungista maakuntiin tasapuolisen aluekehityksen
+edistämiseksi. Meillä kuitenkin oikeusministeri on päättänyt sijoittaa tuomioistuinviraston
+Vantaalle, vaikka yhdeksän muutakin kaupunkia olivat valmiina ja kelvollisia sijoituspai-
+kaksi. Kun ministeri äsken kertoi perusteluja, niin en minä ainakaan löytänyt niistä perus-
+teluista syytä, että minkä takia se piti siirtää juuri Vantaalle. Kun joka tapauksessahan sen
+tulee siirtyä Helsingistä jonnekin, niin minkä takia sen pitää sitten siirtyä Vantaalle, johon
+pitää kaikki alkaa rakentamaan alusta alkaen?
+
+Tässä kokonaisuudessa on kyse myös oikeudenmukaisuudesta. Julkista keskushallintoa
+ylläpidetään koko Suomesta kerättävillä verovaroilla. Kuitenkin niiden työntekijät asuvat
+pääasiassa pääkaupunkiseudulla, maksavat veronsa pääkaupunkiseudun kunnille ja käyttä-
+vät lähinnä näiden alueiden palveluita. Kyse on suuresta tulonsiirrosta maakuntien Suo-
+mesta ruuhka-alueelle. Me, muun Suomen asukkaat, siis elätämme hyvin pitkälle pääkau-
+punkiseudun asukkaita. Pitääkö meidän kaikessa jatkaa tätä elättämistä? Kannustankin
+valtionhallintoa, että se ottaisi mallia muun muassa Kansaneläkelaitoksesta, joka on me-
+nestyksellisesti alueellistanut toimintojaan eri puolelle Suomea. Myös säästöjä syntyy, kun
+toimitilat otetaan edullisten neliöhintojen perusteella. Alueellistaminen toimisi myös oi-
+keuslaitoksen puolella, jos vain hyvää tahtoa riittää.
+
+Yhtään ei pidä antaa periksi, vaan tuomioistuinvirastossa täytyy olla pätevää, osaavaa
+henkilöstöä, laadusta me emme saa tinkiä ollenkaan. Meidän täytyy lähteä siitä, että sijoit-
+tumisen pitää olla koko valtion etu. Ja koko valtion etuhan on, että se on ensinnäkin kus-
+tannustehokas ja toimiva kokonaisuus.
+
+Tuossa jo aikaisemmin sanoin esimerkkinä Rovaniemen, jonka tunnen kaikkein parhai-
+ten: Siellähän minun tietojeni mukaan on paljon osaajia, on hyvä osaamiskeskittymä, se on
+kiinnostava paikka. Lappiin tulee mielellään asukkaita pysyvästi asumaan ja olemaan. Se
+on turvallinen ympäristö, varma ympäristö. Siellä on todellakin hyvä yliopisto. Sinne ym-
+päristöön on saatu hyvin päteviä opettajia ja osaajia. Siellä on olemassa hyvät yhteydet,
+erittäin hyvät kulkuyhteydet, hyvät nettiyhteydet ja kaikki muut. Eihän asiakkaan välttä-
+mättä tarvitse niin hirveän paljon kulkeakaan sinne Rovaniemelle. Tosin Suomihan on kul-
+kuyhteyksien osalta hyvin nopea ja pieni maa. Minä itse asun 1 000 kilometrin päässä tääl-
+tä Helsingistä. Jos oikein pitää vauhtia, ei minullakaan kestä kuin neljä tuntia, niin minä
+olen täällä. Kun ensin ajan sen 200 kilometriä Rovaniemen lentokentälle ja sitten sieltä tu-
+len tänne, niin minä olen jopa neljässä tunnissa täällä eduskunnassa. [Timo Heinonen: Ja
+Vantaalle nopeammin! — Naurua] — Vantaa on yksi vaihtoehto. Mutta niin kuin minä sa-
+noin, sinne pitää kaikki rakentaa uusiksi. Meillä on Rovaniemi, Rovaniemi olisi minulle
+12
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+paljon lähempänä, mutta Rovaniemi on muualtakin Suomesta hyvin nopean yhteyden
+päässä. — Pääkaupunkiseudun etu on ehdottomasti se, että koko Suomessa menee hyvin.
+
+Vielä sen verran käräjäoikeusverkostosta, että kun itse aikoinaan auskultoin Kemijär-
+ven käräjäoikeudessa ja sain sitä kautta varatuomarinkin paperit, niin sielläkin oli aina pä-
+tevä tuomari, siellä oli pätevä laamanni ja oli henkilökuntaa hyvin käytössä. Mutta viime
+vuosina koko Suomen käräjäoikeusverkosto on ajettu todella pahalla kädellä alas. Ja nyt se,
+että tämä tuomioistuinvirastokin aiottaisiin sijoittaa Vantaalle, on sitten kyllä keskittämi-
+sen piste koko tämän laitoksen alasajossa. [Timo Heinonen: Mihin me tarvitaan oppositio-
+ta?]
+
+14.49 Antero Laukkanen kd: Arvoisa rouva puhemies! Tämä tuomioistuinviraston pe-
+rustaminenhan perustuu oikeudenhoidon uudistamisohjelmaan, joka vuonna 2013 julkais-
+tiin. Suomalaista oikeuslaitosta uudistetaan nyt vahvalla kädellä tuon ohjelman pohjalta, ja
+myös paljon hyviä asioita siellä tapahtuu. Täytyy tietysti todeta, että on vielä liian aikaista
+arvioida, mitä nämä kaikki uudistukset sitten yhdessä tuottavat. Kaikista eniten olen huo-
+lissani kansalaisten oikeusturvan toteutumisesta, erityisesti pienituloisten ihmisten ja nii-
+den, joiden on muutenkin vaikea saada asiaansa käsiteltäväksi.
+
+Tuomioistuinten ja käräjäoikeuksien määrä harvenee voimakkaasti. Erilaisista kielelli-
+sistä oikeuksista jatkuvasti tingitään. Ne tuottavat nyt erilaista tuskaa monella paikkakun-
+nalla. Henkilökuntaa on vaikea saada muuttamaan uusiin pisteisiin kielitaitonsa kanssa.
+Tästä meillä vielä tulevaisuudessa varmasti saadaan paljon raportteja.
+
+Tuomioistuinviraston perustaminen on erittäin tervetullut kokonaisuudistus, ja siitä täy-
+tyy todeta, että se on erittäin laajaa luottamusta ja toivettakin toteuttava esitys. Vastustajia
+on ollut kovin vähän, ja koko tuomarikunta sekä asianajajakunta tätä uudistusta tukevat.
+
+Tämä sijaintipaikka täällä tietysti herättää kipua, ja toivoisinkin, että valtioneuvosto vie-
+lä keskenänsä kävisi tästä paikasta avoimen keskustelun, joka vastaisi sitä prosessia, kuten
+oli luvattu meille kansanedustajille, että näin tätä asiaa hoidetaan. Jos sellainen keskustelu
+on käyty — minähän en voi tietää kaikkea, mitä on käyty — niin sitten olisi hyvä saada sii-
+täkin selvitys, miksi hallituspuolueet ovat tällaiseen ratkaisuun päätyneet, että tätä alueel-
+lista sijoittamista ei tässä harrasteta, vaikka sellainen mahdollisuus olisi ja se tukisi koko
+maata paremmin kuin se, että kaupunkiseudut vain vahvistuvat. Pääkaupunkiseudulta ole-
+vana poliitikkona laitan tässä tulevan eduskuntavaalipaikkanikin vaakalaudalle, mutta silti
+olen sitä mieltä, että Suomi kyllä ansaitsee sellaisen kokonaisvaltaisen kohtelun näissä
+isoissa päätöksissä. 
+
+14.51 Hanna-Leena Mattila kesk: Arvoisa rouva puhemies! Tuomioistuinhallinnossa on
+tapahtunut paljon keskittämistä, joka on suurelta osin perusteltavissa kehittämis- ja säästö-
+syillä mutta ei kaikilta osin.
+
+Marraskuussa 2017 Raahen seutukunta sai vahvistuksen pitkään velloneelle keskuste-
+lulle Raahen käräjäoikeuden lakkauttamisesta. Eduskunta oli tehnyt päätöksen yhdistää
+Ylivieska-Raahen käräjäoikeus Oulun käräjäoikeuteen. Vaikka kyse oli osasesta laajassa
+käräjäoikeusverkoston kehittämishankkeessa, tuntui lopullinen päätös musertavalta. Ol-
+koonkin, ettei suurin osa seutukunnan ihmisistä koskaan käyttäisi käräjäoikeuden palvelui-
+ta, on se yksi kaupungin ja seutukunnan elinvoimasta viestivä osatekijä. Jatkossa Raahessa
+ei saisi käräjäoikeuden palveluja laisinkaan, vaan Raahen alueen käräjäistunnot järjestet-
+täisiin pääsääntöisesti Oulun oikeustalolla.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+Uudistusta ja siihen kuuluvaa käräjäoikeusverkoston karsimista on perusteltu pitkälti
+säästösyillä. Lähivuosina käräjäoikeuksissa on tiedossa merkittäviä digitaalisia ja turvalli-
+suuteen liittyviä uudistuksia, jotka vaativat satsauksia. Uudistusta on perusteltu myös sillä,
+että se parantaa lainkäytön laatua, kun tuomarit voivat kehittää syvempää erityisosaamista.
+
+Rouva puhemies! Haluan kysyä oikeusministeri Häkkäseltä nyt, kun uudistus näyttää
+siis tulevan ja sen myötä Raahesta käräjäoikeus poistuu: Onko Oulun käräjäoikeus itse val-
+mis uudistukseen? Onko siellä tarvittavat toimitilat käytössä, kun uudistuksen on määrä as-
+tua voimaan vuoden 2019 alusta? Tiedossa on, että nykyisiä toimitiloja piinaavat sisäil-
+maongelmat. Tuleeko uudistuksesta tältä osin lopulta säästöä, jos Oulun käräjäoikeudelle
+pitää hankkia uudet, terveelliset toimitilat, vaikka Raahessa olisi varta vasten oikeustalok-
+si rakennetussa kiinteistössä terveelliset toimitilat vain 75 kilometrin päässä Oulusta edel-
+leen käytettävissä?
+
+14.54 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Semmoinen asia unohtui, arvoi-
+sa puhemies, sanoa, että tämä tuomioistuimen riippumattomuuden turvaaminen on totta
+kai se ykkösasia, niin kuin ministeri itse hyvin puheenvuorossaan korosti. Mutta sen jäl-
+keen, kun katsotaan näitä riippumattomuustilanteita, mitä tuomioistuimella pitää välttä-
+mättä olla — se on itsestäänselvyys, siitä ei kannata edes keskustella — niin sitten kun on
+tämä uusi hallintovirasto, missä se sitten aloittaakaan, sen tehtäväthän tietysti ovat tällä
+hetkellä oikeusministeriön tehtäviä ja ne siirretään tälle uudelle virastolle, mikä sinänsä on
+järkevää, että voidaan ne keskittää yhteen paikkaan ja katsoa kokonaisuutta. Ne hallinto-
+tehtävät, jotka siirtyvät, totta kai helpottavat sitten oikeusministeriön omaa työtä, ja sitten
+se oma työ, mikä helpottuu, toivon mukaan näkyy myös esimerkiksi eriasteisen lainsää-
+dännön kehittämisessä niin, että pystytään turvaamaan tässäkin maassa paljon kritiikkiä
+saanut erilaisten uusien lakien ja niihin liittyvien ongelmakohtien kohentaminen, niin että
+yhä parempaa lainsäädäntöä Suomeen saataisiin aikaiseksi. Nythän on paljon keskusteltu
+julkisuudessa, että meidän lainsäädännön ja varsinkin uusien lakiesitysten taso on kovin
+heikkoa ollut ja siellä on ollut virheitä. Toivon mukaan tässäkin asiassa päästään eteenpäin.
+
+Se, että uusi virasto huolehtii oikeuslaitoksen toimintaedellytysten parantamisesta koko
+maassa, on myös erittäin hyvä ja tavoiteltava asia, ja tässä yhteydessä nostan kyllä esille tä-
+män toimipaikan, missä tämä uusi virasto sitten aloittaakin. Alueellinen koordinaatioryh-
+mä on tämän käsitellyt viime kesänä ja lausunut siitä painavan sanan, että sen pitäisi olla
+valtioneuvoston yleisistunnossa ratkaistava asia. On aivan luonnollista, että tällaisessa
+asiassa, kun uusia virastoja perustetaan, siitä käytäisiin kokonaisvaltainen poliittinen kes-
+kustelu, ettei sorruttaisi sellaiseen menoon, kuten on huomattu esimerkiksi lääketutkimus-
+keskus Fimean tapauksessa, jossa sitä alueellistettiin Kuopioon ja siitä nousi sitten aivan
+valtava meteli, vaikka Kuopiossa on maailman huippulääketiedettä ja myös lääkeosaamis-
+ta. Elikkä kyllä sitä osaamista muuallakin on.
+
+Minä en halua kenenkään arvostelukykyä tai harkintakykyä tässä asettaa kyseenalaisek-
+si, vaan kysymys on siitä, että meidän pitäisi tunnustaa, että tässä maassa on osaamista hy-
+vin monella puolella Suomea. Esimerkiksi oikeustieteen alalla hyvin monessa yliopistossa
+opetetaan korkeatasoista oikeustiedettä tässä maassa tuloksellisesti, ja ne ovat saaneet erit-
+täin hyvää jälkeä maassa aikaan, ja tämänkin joskus pitäisi näkyä. Eihän se, hyvänen aika,
+voi niin olla, että kaikissa tapauksissa ikään kuin peruslähtökohta on, että kaikki pääkau-
+punkiseudulle ja sitten muutamasta pienestä rippeestä loput tappelevat. Niinhän se ei voi
+olla.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+Toivon, arvoisa rouva puhemies, ja toivon myös, arvoisa ministeri, kun te olette paikal-
+la, että vielä kerran harkitsisitte tätä, vaikka mikäli oikein ymmärsin teidän puheenne par-
+ren, sitä harkintaa tuskin enää tulee. Toivon kuitenkin, että se tulisi.
+
+Puhemies Paula Risikko: Otetaan nämä kolme puheenvuoroa tästä reippaasti.
+
+14.57 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Kyllä hyvinkin reippaasti. — Tässä on
+hyvä käydä keskustelua oikeusministeriön hallinnon kehittämisestä, sen palvelujen saata-
+vuudesta ja myöskin alueellisista vaikutuksista. Suomessa valmistui viime vuonna seutu-
+kaupunkiohjelma, jossa myöskin siinä yhteydessä katsottiin julkisten työpaikkojen vaikut-
+tavuutta ja palvelujen saatavuutta. Osin se perustui tarkastusvaliokunnan lausuntoon kos-
+kien Savonlinnan tilannetta, kun sieltä opettajakorkeakoulutus lakkasi. Minusta tässä ei ole
+yksin kysymys työpaikoista vaan myöskin palvelujen saatavuudesta ja vaikuttavuudesta,
+joita pitäisi näissä kakkoskaupungeissa, seutukaupungeissa, joita on 55 kappaletta Suo-
+messa, katsoa.
+
+Tässä tulen vähän asiasta sivuun, tähän ulosottotoimeen, josta siitäkin tässä voin san-
+asen sanoa. Minusta digitalisaatio etenee ja ne palvelut on hyvä pitää kuitenkin lähellä seu-
+tukaupunkeja silloin, kun on tarvetta. Eli Varsinais-Suomessa Turussa ei edes ole tiloja
+keskittää näitä palveluja, kuitenkin sellainen suunnitelma on olemassa. Minusta, jos me
+viemme seutukaupunkiohjelmaa eteenpäin, pitää nyt kerta kaikkiaan ottaa huomioon
+myöskin tämä alueellinen vaikuttavuus, palvelujen saatavuus ja näiden alueiden kehittymi-
+nen, joista monet ovat todella vahvoja vientikaupunkeja ja pitävät Suomen taloutta yllä.
+
+14.58 Sanna Marin sd: Arvoisa puhemies! Tuomioistuinvirasto itsessään on varsin pe-
+rusteltu, pitkään odotettu. Esimerkiksi lakivaliokunta on pitkään peräänkuuluttanut sitä,
+että tuomioistuinvirasto Suomeen saadaan. Sinänsä esitykseen itsessään ei ole huomautta-
+mista.
+
+Mutta hieman hämmentyneenä olen kyllä seurannut tätä keskustelua ja sen takia tämän
+puheenvuoron halusinkin pitää ja oikeastaan kysyä, onko tässä nyt joku riski, että tämä tuo-
+mioistuinviraston eteenpäinmeneminen ei olekaan niin itsestäänselvää kuin vielä aikai-
+semmin ajattelin. Täällä keskustan ja kokoomuksen kansanedustajat ovat oikeastaan aika
+lailla tukkanuottasilla. Kokoomuksen kansanedustaja Heinonen on täällä muutaman ker-
+ran jo huutanut omalta paikaltansa, että mihin tässä oppositiota oikein tarvitaan. Olen häm-
+mentynyt. Keskustan ja kokoomuksen välillä selvästi on tässä asiassa syvä juopa, iso risti-
+riita. Oikeusministeri on tässä salissa saanut aika kovaakin arvostelua tämän paikkakun-
+nan osalta, ja nyt oikeastaan haluan kysyä oikeusministeri Häkkäseltä ja hallituspuoluei-
+den edustajilta: onko nyt riski, että tämä asia ei mene eteenpäin? Tässä selvästi on hallitus-
+puolueiden välillä nyt aikamoinen ristiriita ja ristiveto.
+
+Puhemies Paula Risikko:  Täällä oli yksi puheenvuoropyyntö vielä, edustaja Heinonen, ja
+sen jälkeen 2 minuutin vastaus ministerille.
+
+14.59 Timo Heinonen kok: Arvoisa rouva puhemies! Täytyy todeta, että tämä pääminis-
+teri Juha Sipilän hallituksen esitys on minun mielestäni hyvä. Niin kuin tässä keskustelus-
+sa on esille tullut useamman kerran, tuomioistuinvirastosta on pitkän aikaa puhuttu, mutta
+nyt oikeusministeri Häkkäsen johdolla tämä toteen laitetaan ja toimeen pannaan. Itse asias-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+sa tämä hallituksen esitys ymmärtääkseni on ollut valtioneuvostossa ja mennyt valtioneu-
+voston käsittelyssä yksimielisenä eteenpäin. Se tästä keskustelusta.
+
+Arvoisa puhemies! Eli vuoden 2020 alussa perustetaan siis tuomioistuinvirasto, ja tällä
+halutaan vahvistaa ennen muuta oikeusvaltion kulmakiviin kuuluvaa tuomioistuinten riip-
+pumattomuutta, mikä on tullut tässä keskustelussa useissa puheenvuoroissa esille. Tuo-
+mioistuinvirasto toimisi keskusviranomaisena ministeriötä luontevammin ja vastaisi siis
+tuomioistuinten keskushallintotehtävistä. On varmasti järkevää, että näitä yhdistetään, ja
+näin saadaan tehokkuutta tällekin puolelle. Virastolle tulee siis pääosa niistä keskushallin-
+totehtävistä, joita tähän asti ja vuoteen 2020 asti hoidetaan oikeusministeriössä, ja tämän
+jälkeen oikeusministeriö huolehtisi sitten tuomioistuinlaitokseen liittyvistä valtioneuvos-
+totason tehtävistä, kuten strategisesta ja taloudellisesta ohjauksesta ja säädösvalmistelusta.
+
+Arvoisa puhemies! On hyvä, että tämä asia nyt etenee, ja toivotaan, että myös eduskun-
+takäsittely menee hyvässä hengessä eteenpäin.
+
+Puhemies Paula Risikko: Ja vielä edustaja Kurvinen, vastauspuheenvuoro.
+
+15.01 Antti Kurvinen kesk (vastauspuheenvuoro): Kiitos, rouva puhemies! Täytyy sillä
+tavalla oikaista Timo Heinosen hyvää puheenvuoroa, että tietysti tämä tuomioistuinvirasto
+on lähtenyt valtioneuvostosta yksimielisenä, mutta sijaintipaikka-asia on sellainen, jota ei
+ole koko valtioneuvoston käsittelyyn tuotu. Tämä on syytä varmasti oikaista, ja voidaan to-
+deta, kun täällä on myös kaksikielisestä henkilöstöstä puhuttu, että vaikka olemme edusta-
+ja Maijalan kanssa opiskelleet Lapissa, niin esimerkiksi Vaasassa olisi ollut helppoa hovi-
+oikeus- ja hallinto-oikeuspaikkakunnalle saada kaksikielistä henkilöstöä. [Timo Heino-
+nen: Ei ollut tarpeen oikaista, kun en puhunut sijoituspaikasta!]
+
+Puhemies Paula Risikko: Sitten ministeri, 2 minuuttia. Mikäli joku haluaa varata nyt vie-
+lä puheenvuoroja, niin ne siirtyvät kyllä sitten iltaan, koska nyt on pakko siirtyä toiseen
+asiaan, aivan niin kuin oli suunnitelmissa.
+
+15.02 Oikeusministeri Antti Häkkänen: Arvoisa puhemies! Tässä on tosiaan kaksi
+asiaa: hallituksen esitys tuomioistuinvirastoksi ja sijaintipaikka. Sijaintipaikka on puhtaas-
+ti ministerin omassa toimivallassa, kuten se on ollut perinteisesti ja on ollut aiemminkin.
+Ne ovat teknisiä ja hallinnon järjestämiseen liittyviä kysymyksiä. Lainsäädäntökysymyk-
+set kuuluvat tämän salin asioihin.
+
+Kiitos siitä hyvästä palautteesta, joka tästä hankkeesta tulee. Kaikista tärkeintä on nyt se,
+että tuomioistuinvirasto saadaan hyvässä hengessä täältä eteenpäin ja kyetään kehittämään
+tuomioistuinjärjestelmää niin, että kansalaisten oikeusturva jopa paranee Suomessa, eli
+saadaan järjestelmä niukkojen resurssien aikana toimimaan niin, että laadukasta oikeustur-
+vaa saa jokainen kansalainen riippumatta lompakon paksuudesta. Tuomioistuimen ratkai-
+sujen luotettavuus on ensisijaista, ei se, missä sijaitsee vaikkapa nyt tuomioistuinvirasto.
+Sekin täytyy ottaa huomioon, mutta se ei ole ensisijainen peruste.
+
+Tarvitaanko Suomessa tällainen palomuuri? Olen pitänyt tärkeänä, vaikka me olemme
+maailman kärkipäässä oikeusvaltiomittareissa, että me silti vahvistamme Suomessa puo-
+luepoliitikkojen ja tuomioistuinratkaisujen ja tuomioistuinten välistä palomuuria. Ja vaik-
+ka Suomessa ei ole ongelmia ollut, niin tässä on tietty korjattava asia siinä, että poliittisesti
+johdettu ministeriö on hyvin tiiviisti tuomioistuinhallinnossa kiinni edelleen. Oikeusvalti-
+16
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+on periaatteena on vallan kolmijako-oppi, jossa lainsäädäntövalta, hallintovalta ja tuomio-
+valta erotetaan selvästi, ja tämä vahvistaa nyt sitä periaatetta. Euroopassa monet maat kul-
+kevat tällä hetkellä oikeusvaltioasioissa toiseen suuntaan, erittäin huolestuttavaan suun-
+taan. Suomi ottaa tällä tuomioistuinvirastoasialla selvän askeleen vielä vahvemman oike-
+usvaltion suuntaan.
+
+Tässä kysyttiin näistä johtokunnan jäsenistä, voivatko kunnanvaltuutetut olla tuomiois-
+tuinviraston johtokunnan jäseninä. Sen takia en ole pitänyt perusteltuna sitä, että siellä voi-
+sivat kunnanvaltuutetut olla, että he ovat poliitikkoja. He eivät kuulu sinne tuomioistuinvi-
+raston johtokuntaan. Toivottavasti löytyy muita tehtäviä.
+
+Alueellistamisen kehittämisryhmä [Puhemies koputtaa] on pohtinut tätä asiaa, ja sieltä
+tuli viesti, että voisiko oikeusministeriö harkita tämän viemistä valtioneuvostoon, mutta
+koska se kuuluu juridisesti minun toimivaltuuksiini, käytin toimivaltuuksiani ja tein ratkai-
+sun. Valitsin viraston sijaintipaikaksi parhaan mahdollisen. Salissa on esitetty taas lukuisia
+eri näkemyksiä kaupungeista. [Puhemies koputtaa] Kaikissa on omat hyvät puolensa, mut-
+ta miksi ei valita parasta, jos semmoinen on vaihtoehtona?
+
+Keskustelu päättyi.
+
+Asia lähetettiin lakivaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+17
+
+
+	3
+	14.01
+	14.04
+	14.09
+	14.11
+	14.12
+	14.13
+	14.14
+	14.15
+	14.16
+	14.17
+	14.18
+	14.19
+	14.20
+	14.22
+	14.23
+	14.24
+	14.25
+	14.26
+	14.27
+	14.28
+	14.29
+	14.32
+	14.34
+	14.36
+	14.41
+	14.43
+	14.49
+	14.51
+	14.54
+	14.57
+	14.58
+	14.59
+	15.01
+	15.02
+
+

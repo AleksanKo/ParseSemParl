@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM1920.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 135/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 135/2017 vp
+
+Täysistunto
+
+Maanantai 11.12.2017 klo 14.00—23.18
+
+10. Hallituksen esitys eduskunnalle laiksi Suomen metsäkeskuksen metsätietojärjestelmäs-
+tä annetun lain muuttamisesta
+
+Hallituksen esitys HE 170/2017 vp
+Valiokunnan mietintö MmVM 11/2017 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 10. asia. Käsittelyn pohjana on maa- ja metsätalousvaliokunnan mietin-
+tö MmVM 11/2017 vp. Nyt päätetään lakiehdotuksen sisällöstä.
+
+Yleiskeskustelu — valiokunnan puheenjohtaja Kalmari ensimmäisenä.
+
+Keskustelu
+
+22.56 Anne Kalmari kesk (esittelypuheenvuoro): Arvoisa herra puhemies! Käsittelem-
+me tässä Metsäkeskuksen metsätietojärjestelmästä annetun lain muuttamista. Tämä lain-
+säädäntö pohjautuu hallitusohjelman kirjaukseen meidän kärkihankkeestamme "Puu liik-
+keelle ja uusia tuotteita metsästä". Hallitusneuvotteluissa jo halusimme lisätä metsätiedon
+käyttöä ja sähköisiä palveluita, ja tätä hanketta on sitten määrätietoisesti eteenpäin viety.
+
+Toinen perustelu tälle lainsäädännölle on se, että Euroopan ympäristötiedon julkisesta
+saatavuudesta annetun direktiivin mukaan ympäristötiedon pitää olla avointa kaikille. Suo-
+mi sai tästä virallisen huomautuksen vuonna 2015, ja komissio lisäksi antoi Suomelle 2016
+lausunnon samasta asiasta. Jatkossa olisi ollut mahdollista, että komissio olisi nostanut
+kanteen Suomea vastaan, jos tätä asiaa ei olisi viety direktiivin mukaiseen lainsäädäntöön.
+
+Näinpä siis lainsäädäntö on nyt viety eteenpäin. Helpottamalla metsätiedon käyttöä
+voimme lisätä julkisesti tuotetun tiedon arvoa, luoda mahdollisuuksia uudelle liiketoimin-
+nalle, kehittää parempia palveluita ja parantaa metsiin liittyvää päätöksentekoa sekä lisätä
+hallinnon läpinäkyvyyttä. Voimme näin tehostaa metsätaloutta ja parantaa kestävän met-
+sätalouden hyväksyttävyyttä. Itse asiassa tällä voidaan myös ottaa paremmin huomioon
+korjuukohteitten monimuotoisuutta ja ympäristöasioita sekä vähentää korjuuvaurioita ja
+metsätalouden vesistövaikutuksia.
+
+Tuossa edustaja Hakkarainen jutteli ennen istunnon alkua. Oli tarkoitus varmasti jäädä
+tähän, mutta ei enää jäänytkään. Kyse on juuri sen tyyppisistä asioista, että kun tänä vuon-
+na korjuuolosuhteet ovat olleet erittäin heikot, jatkossa olisi helpompi yhdistää kaikkea sitä
+metsävaratietoa niin, että juuri oikeantyyppisiä kesäleimikoita sitten entistä paremmin löy-
+tyisi tarpeeseen, ja tämä tietysti on koko metsäsektorin etu aina sieltä omistajasta sinne
+teollisuuteen asti. Valiokunta pitää tärkeänä, että jakamalla nykyistä avoimemmin ympä-
+ristötiedoksi katsottavaa metsätietoa tehdään samalla mahdolliseksi metsätalouden kor-
+juun ja kuljetuksen sekä hallinnon nykyistä laaja-alaisempi digitalisoituminen.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 135/2017 vp
+Valiokunta kävi oikeastaan aika napakan käsittelyn. Tämä lainsäädäntö oli kohtuullisen
+helppo tehdä siksi, että koko metsäsektori oli yhdessä tämän asian takana, ja jatkossakin
+toivoisin sitä, että mikäli metsälainsäädäntöön muutoksia tarvitaan, sektori voisi yhdessä
+pohtia sen viisaimman väylän viedä asiaa eteenpäin, niin että se sitten helpommin täällä
+lainsäädännössä toteutuu.
+
+Meillä oli kuitenkin joitakin huolia, joita erityisesti tietosuojavaltuutettu meidän valio-
+kunnassamme nosti, vaikka tämä esitys oli muuten hyvin yksimielinen asiantuntijakuule-
+misten perusteella. Niinpä nostimme niitä tähän mietintöömme, ja meillä on myös lausu-
+maehdotus.
+
+Halusimme välttää henkilötietojen väärän käytön, ja kun käytännössä metsätiedot ilman
+niihin liittyviä luonnollisen henkilön yksilöiviä henkilötietoja ovat nyt sitten kaikkien saa-
+tavilla nimenomaan näitten ympäristötietojen osalta, toteutimme tämän niin, että niitä ei
+ole kytkettävissä henkilötietoihin.
+
+Uudet säännökset eivät vapauta maanomistajan nimi-, osoite- ja muita henkilötietoja
+yleiseen käyttöön. Niiden saaminen edellyttää jatkossakin henkilötietolaissa tai muussa
+laissa säädettyä perustetta sekä kirjallista tietopyyntöä ja Metsäkeskuksen sen perusteella
+tekemää päätöstä. Esimerkiksi Metsäkeskuksen metsään.fi-palvelussa, jossa on kyse luo-
+vutustavasta, joka muuttuu nyt, esimerkiksi sopimuksen täytäntöönpano tai toimeksian-
+non hoitaminen, vaikkapa valtakirjakauppa, voisi olla tällainen peruste, johon tietoja hen-
+kilötietojen perusteella jatkossa voisi saada. Kuitenkin jokainen metsänomistaja jatkossa-
+kin pystyy kieltämään tietojen käytön esimerkiksi suoramarkkinointiin, mutta jos sitä suo-
+ramarkkinointimahdollisuutta on, niin sitä voidaan hyödyntää entistä tarkemmin esimer-
+kiksi tilan tai muun alueen pinta-alan, sijainnin, pääpuulajin tai puuston keskitilavuutta
+hyödyntämällä.
+
+Sitten meillä käytiin keskustelua tiedon keruusta. Jatkossa mahdollisuus kerätä tietoa
+muidenkin kuin Metsäkeskuksen henkilöstön avulla on mahdollista, ja tämä on ihan viisas-
+ta, koska nykypäivänä tällainen avoimuus ja läpinäkyvyys sekä joukkoistaminen ovat sitä,
+millä asioita saadaan vietyä eteenpäin. Kuitenkin Metsäkeskuksen tulee vastata tämän tie-
+don oikeellisuudesta, ja Metsäkeskus sitten tallettaa tämän tiedon ja sekä tiedon lähteen
+että tietojenkeruumenetelmän ja tiedon ajankohdan. Voidaan ajatella, että esimerkiksi
+myrskytietojen oikea kattavuus ja vaikkapa sen jälkeen lahopuun määrä tai metsään kaatu-
+neitten puitten määrä ovat paljon helpommin arvioitavissa, kun sitä voivat tehdä muutkin
+kuin Metsäkeskuksen palkkaamat henkilöt. Esimerkiksi metsäkoneissa pystytään kerää-
+mään valtavasti dataa, jota ei ole vielä tänä päivänä hyödynnetty.
+
+Laadunvarmistus on kuitenkin erittäin merkityksellinen asia. Meidän pitää pystyä luot-
+tamaan jatkossakin siihen tietoon, mitä Metsäkeskus sitten julkisuuteen antaa. Metsäkes-
+kus tulee päivittämään kuviokohtaisia metsävaratietoja vain luotettavaksi arvioidulla tie-
+dolla.
+
+Koska meillä oli huolta siitä, että tämä tieto varmasti on oikeaa, teimme pieniä muutok-
+sia vielä lakipykäliinkin, ja samoin koska meillä oli huoli siitä, ettei tietoja väärinkäytetä,
+niin näiden kahden asian perusteella teimme sitten lausuman, joka kuuluu seuraavasti:
+"Eduskunta edellyttää, että maa- ja metsätalousvaliokunnalle toimitetaan vuoden 2020 lop-
+puun mennessä selvitys nyt säädettävän lainsäädännön vaikutuksista."
+
+23.04 Kari Kulmala sin: Arvoisa puhemies! Esityksessä ehdotetaan muutettavaksi Suo-
+men metsäkeskuksen metsätietojärjestelmästä annettua lakia. Tarkoitus on muuttaa lakia
+2
+
+
+
+Pöytäkirjan asiakohta PTK 135/2017 vp
+siten, että julkisten ympäristötiedoiksi katsottavien metsätietojärjestelmien tietojen luovut-
+taminen olisi mahdollista ilman nykyisiä tietojenluovutusmenettelyjä. Metsätieto ja säh-
+köiset palvelut -hanke on osa hallituksen hallitusohjelman "Puu liikkeelle ja uusia tuotteita
+metsästä" -kärkihanketta. Tämän hankkeen tavoitteena on tehostaa metsävaratiedon hyö-
+dyntämistä parantamalla tiedon laatua ja liikkuvuutta sekä kehittämällä sähköisiä palvelui-
+ta.
+
+Koska metsien käyttö kasvaa, on tärkeää, että parannetaan myös toiminnan ohjauksessa
+ja seurannassa tarvittavan tiedon saatavuutta. Tämän avulla voidaan sekä tehostaa metsä-
+taloutta että parantaa kestävän metsätalouden hyväksyttävyyttä.
+
+Pidän tärkeänä, että myös satelliittiseuranta on mukana metsienkäytön valvonnassa. Ku-
+via voidaan hyödyntää laittomien hakkuiden selvittämiseksi. Esimerkiksi Pohjois-Karja-
+lassa on jo ollut pilottikokeilu, missä oli mukana alueita useista kunnista. Metsäkeskus ver-
+tasi satelliittikuvausaineistoa metsänkäyttöilmoituksiin, ja neljältä pilottialueelta Suomes-
+ta löytyi yhteensä 73 hakattua metsikkökuviota, joista ei ollut toimitettu metsänkäyttöil-
+moitusta. Tämä laiminlyöntimäärä on noin 0,3 prosenttia satelliitin kuvaamille alueille
+vuosittain saapuvista metsänkäyttöilmoituksista.
+
+Uusilla menetelmillä pystytään osoittamaan entistä paremmin, kuinka hyvin asiat ovat
+metsäpuolella hoidossa. Tällöin neuvonnalla, koulutuksella ja riittävällä tiedotuksella voi-
+daan vastata tarpeisiin aiempaa nopeammin.
+
+Metsätietojen hyödyntäminen ja jalostaminen elinkeinon ja metsänomistajien hyödyksi
+on jo nyt Suomessa maailmanlaajuisesti katsottuna edistyksellistä. Näkisin myös hyvänä,
+että metsätalous olisi oppiaineena lukiotasoisessa koulutuksessa. Suomi on metsien maa, ja
+metsäalan osaamisen pitäisi olla perusasioita lukiosta valmistuttaessa. Tämä lakiehdotus,
+mitä nyt käsitellään, vahvistaa kotimaisen metsätalouden asemaa kestävän metsätalouden
+osaajana.
+
+Nykyisin pääsääntönä on, että henkilötietojen luovuttaminen metsään.fi-palvelussa
+edellyttää suostumusta. Jatkossa tällaisen luovutuksen perusteena voisi olla muukin henki-
+lötietolaissa tai muussa laissa säädetty peruste, esimerkiksi sopimuksen täytäntöönpano tai
+toimeksiannon hoitaminen. Luovutuksen edellytyksenä on se, että luovutuksensaajalla on
+henkilötietoja koskevien säännösten mukaan oikeus tallettaa ja käyttää tällaisia henkilötie-
+toja. Henkilötiedot luovutettaisiin vain siinä laajuudessa kuin on tarpeen ilmoitettua käyt-
+tötarkoitusta varten, ja juuri tässä tulee ollakin tarkka. Henkilötietoja ei saa luovuttaa esi-
+merkiksi suoramarkkinointia varten, mikäli maanomistaja on sen kieltänyt. Luvan myötä
+tietojen luovuttaminen on sallittua vain siltä osin kuin tiedot ovat tarpeellisia ilmoitettuun
+markkinointitarkoitukseen.
+
+Arvoisa puhemies! Pidän lakiesitystä varsin hyvänä ja myös sitä, että valiokunta teki
+mietintöön lausumaehdotuksen, että maa- ja metsätalousvaliokunnalle toimitetaan vuoden
+2020 loppuun mennessä selvitys nyt säädettävän lainsäädännön vaikutuksista. Toivotta-
+vasti tämä lausumaehdotus ei jää vain korulauseeksi.
+
+23.08 Anne Kalmari kesk: Arvoisa herra puhemies! Kuten edustaja Kulmalan puheen-
+vuorosta välittyi, meillä oli erittäin hyvähenkinen keskustelu valiokunnassa. Se, mitä to-
+dellakin keskeisesti nostimme, oli se, että henkilötiedoista ei saa tehdä rekisteriä. Sitähän ei
+synny, kun käytämme tätä hilamuotoista tietoa, 16 x 16 neliön alueita, jotka eivät ole kyt-
+kettyjä henkilötietorekisteriin, eivätkä metsäsuunnitelmat avaudu, vaan tällä saadaan se
+puustotieto ja ympäristötieto hyvään yhteiseen käyttöön.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 135/2017 vp
+Meillähän on metsäsektoria edistetty muutenkin erittäin paljon, esimerkiksi metsäpuo-
+len sukupolvenvaihdoksia on helpotettu, ja yrittäjävähennys auttaa siinä, että puukauppoja
+syntyy ja metsänomistajalle jää sitten viivan alle vähän enemmän rahaa. Kemera saatiin
+käyntiin pitkien vaikeuksien jälkeen ja sitä tullaan sitten pitkässä juoksussa uudistamaan.
+Tämä lainsäädäntö oli jatkumo siinä ketjussa, millä metsätaloutta halutaan viedä eteen-
+päin. Kaikkein tärkeintä tietysti ovat investoinnit, joita toivomme eri puolille Suomea syn-
+tyvän.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 170/2017 vp sisältyvän lakiehdotuksen si-
+sällön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+4
+
+

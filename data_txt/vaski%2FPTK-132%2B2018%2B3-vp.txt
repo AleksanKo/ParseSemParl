@@ -1,0 +1,997 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMEB58.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 132/2018 vp
+
+Täysistunto
+
+Maanantai 17.12.2018 klo 13.00—2.20
+
+3. Hallituksen esitys eduskunnalle laiksi tiedustelutoiminnan valvonnasta ja laiksi valtion 
+virkamieslain 7 §:n muuttamisesta
+
+Hallituksen esitys HE 199/2017 vp
+Valiokunnan mietintö PeVM 9/2018 vp
+
+Ensimmäinen käsittely
+
+Puhemies Paula Risikko: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 3. asia.
+Käsittelyn pohjana on perustuslakivaliokunnan mietintö PeVM 9/2018 vp. Nyt päätetään
+lakiehdotusten sisällöstä.
+
+Tämän asian yhteydessä sallitaan keskustelu myös päiväjärjestyksen 4. asiasta. Esitte-
+lyn tekee valiokunnan puheenjohtaja, edustaja Lapintie, olkaa hyvä.
+
+Keskustelu
+
+13.02 Annika Lapintie vas (esittelypuheenvuoro): Kiitos, rouva puhemies! Perustuslaki-
+valiokunta on saanut valmiiksi tiedustelun valvontaa koskevat mietinnöt, kaksi mietintöä,
+ja nämä molemmat liittyvät tähän laajaan tiedustelulainsäädännön [Hälinää — Puhemies
+koputtaa] kokonaisuuteen eli siviilitiedusteluesitykseen ja sotilastiedusteluesitykseen. 
+
+Sen lisäksi eduskunta on hyväksynyt muutoksen Suomen perustuslain 10 §:n muuttami-
+sesta, ja tämän uuden 10 §:n 4 momentin mukaan lailla voidaan säätää välttämättömistä ra-
+joituksista viestin salaisuuteen yksilön tai yhteiskunnan turvallisuutta taikka kotirauhaa
+vaarantavien rikosten tutkinnassa, oikeudenkäynnissä, turvallisuustarkastuksessa ja va-
+paudenmenetyksen aikana sekä tiedon hankkimiseksi sotilaallisesta toiminnasta taikka
+[Puhemies koputtaa] sellaisesta muusta toiminnasta, [Hälinää — Puhemies koputtaa] joka
+vakavasti uhkaa kansallista turvallisuutta.
+
+Tämän perustuslain muutoksen yhteydessä perustuslakivaliokunta piti erityisen olennai-
+sena, että tiedustelun toimintaympäristössä huolehditaan riittävistä oikeusturva- ja valvon-
+tajärjestelyistä, ja nyt nämä kaksi mietintöä käsittelevät juuri tätä valvontajärjestelmää,
+laillisuusvalvontaa ja parlamentaarista valvontaa. Tätä pidetään hyvin tärkeänä ehdotettu-
+jen siviili- ja sotilastiedustelun toimivaltuuksien kannalta.
+
+Sen lisäksi oikeuskäytännössä Euroopan ihmisoikeustuomioistuimessa ja Euroopan uni-
+onin tuomioistuimen käytännöissä on korostettu valvontatoimielinten riippumattomuutta
+ja valvonnan tehokkuutta, ja myös nämä ovat olleet taustalla tässä perustuslakivaliokun-
+nan mietintöjen valmistelussa.
+
+Tiedustelun laillisuusvalvonta, jota tämä hallituksen esitys käsittelee, on osa tiedustelu-
+toiminnan valvontakokonaisuutta, johon kuuluvat sen lisäksi viranomaisten sisäinen val-
+vonta, tiedustelutoimivaltuuksien tuomioistuinkäsittely ja nyt ehdotettu parlamentaarinen
+valvonta, jota esittelen tuossa hetken kuluttua.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+Perustuslakivaliokunnan käsityksen mukaan ilman tehokasta valvontaa ei viranomaisil-
+le voida antaa niin pitkälle perusoikeuksiin puuttuvia toimivaltuuksia kuin siviili- ja soti-
+lastiedustelua koskevissa hallituksen esityksissä ehdotetaan. Valiokunnan mukaan ehdote-
+tusta tiedustelutoiminnasta säätäminen tavallisella lailla edellyttää, että myös valvontaa ja
+parlamentaarista valvontaa koskevat riittävät säännökset on jo hyväksytty siinä vaiheessa,
+kun päätetään lopullisesti siviili- ja sotilastiedustelua koskevien lakien hyväksymisestä
+eduskunnan täysistunnossa, ja nyt nämä kaksi asiaa ovat tässä eduskunnan käsittelyssä, ja
+näin ne voidaan hyväksyä.
+
+Tästä tiedusteluvalvontavaltuutetusta: 
+Valiokunta on muuttanut viranomaisen nimikettä, nimeä, sillä tavoin, että se vastaa tän-
+
+ne perustettavaa parlamentaarista valvontaa, muutoin tiedusteluvalvontavaltuutettua kos-
+keva lakiehdotus ehdotetaan hyväksyttäväksi pääosin hallituksen esityksen mukaisena.
+Kuitenkin valiokunta ehdottaa, että valtuutetun valvontatehtävä laajennetaan koskemaan
+suojelupoliisin toimintaa kokonaisuudessaan. Lisäksi valiokunnan mielestä tiedusteluval-
+vontavaltuutetun riippumatonta asemaa tulee vielä vahvistaa. Sen vuoksi ehdotetaan, että
+tiedusteluvalvontavaltuutetuksi voidaan nimittää vain henkilö, jolla ei ole sellaisia sidon-
+naisuuksia, jotka ovat omiaan vaarantamaan valvontatehtävän asianmukaista ja riippuma-
+tonta hoitamista. Tämän lisäksi tiedusteluvalvontavaliokunnalle tulee antaa oikeus lausua
+mielipiteensä tiedusteluvalvontavaltuutetun virantäytöstä, ja tämä uusi valiokunta voi si-
+ten haastatella hakijoita niin halutessaan. 
+
+Sen lisäksi perustuslakivaliokunta kiinnittää huomiota tiedusteluvalvontavaltuutetun re-
+sursseihin. Tiedusteluvalvontavaltuutetun käytettävissä olevilla resursseilla on konkreetti-
+nen vaikutus salassa tehtävän tiedustelutoiminnan valtiosääntöiseen hyväksyttävyyteen.
+Uuden valtuutetun valvonnan tulee olla tosiasiallisesti tehokasta, eivätkä puutteelliset re-
+surssit saa muodostaa käytännön toiminnassa estettä tehokkaalle valvonnalle. Hallituksen
+esityksen johdannossa todetaan, että tiedusteluvalvontavaltuutetulla olisi tarpeellinen mää-
+rä henkilöstöä, ja silloin on kaavailtu kahta päätoimista asiantuntijavirkamiestä ja yhtä pää-
+toimista assistenttia. Perustuslakivaliokunnan käsityksen mukaan on ilmeistä, että ehdote-
+tun laajuisella organisaatiolla ei ole mahdollista turvata kattavaa valvontaa asianmukaises-
+ti ja tehokkaasti, ja valiokunta haluaakin valtioneuvoston kiinnittävän vakavaa huomiota
+asiaan ja pitää välttämättömänä valvontaan osoitettavien resurssien mitoittamista peruste-
+luissa kaavailtuun nähden huomattavasti suuremmiksi valvonnan riittävyyden, kattavuu-
+den ja tehokkuuden turvaamiseksi. Valiokunta pitää saamansa selvityksen perusteella il-
+meisenä, että tiedustelutoiminnan valvonnan vaatimat resurssit voivat olla tiedustelutoi-
+minnan täytäntöönpanon edetessä jopa moninkertaiset.
+
+Parlamentaarisen valvonnan osalta perustuslakivaliokunta ehdottaa muutoksia:
+Ensinnäkin tiedusteluvalvontavaliokunnan valvontatehtävää laajennetaan koskemaan
+
+suojelupoliisin toimintaa kokonaisuudessaan. 
+Alkuperäisen puhemiesneuvoston ehdotuksen mukaan eduskunnan puhemies olisi en-
+
+nen tiedusteluvalvontavaliokunnan asettamista hankkinut valiokunnan jäseniksi ehdote-
+tuista edustajista laajan turvallisuusselvityksen. Tämän osalta perustuslakivaliokunta tote-
+aa, että sinänsä tiedusteluvalvontavaliokunnan erityistehtävät sekä tiedonsaantioikeuden
+kohteen erityispiirteet ja laajuus huomioon ottaen valiokunnan jäsenten luotettavuuteen ja
+integriteettiin saattaa käytännössä kohdistua erityisiä vaatimuksia. Ehdotettu henkilötur-
+vallisuusselvityksen hakemiseen perustuva menettely ei kuitenkaan sovi hyvin eduskun-
+nan asemaan kansan valitsemana ylimpänä valtioelimenä eikä myöskään kansanedustajan
+2
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+riippumattomuuteen. Riippumattomuutta korostaa myös kansanedustajan koskematto-
+muus, joka muun ohella sisältää kiellon estää kansanedustajaa hoitamasta edustajantoin-
+taan. 
+
+Tämän alkuperäisen esityksen mukaisen turvallisuusselvityksen laatisi turvallisuussel-
+vityslain nojalla suojelupoliisi, mikä olisi merkinnyt, että tiedusteluvalvonnan kohteena
+oleva viranomainen itsenäisesti selvittäisi ennakoivasti valvovan toimielimen jäsenten luo-
+tettavuuteen vaikuttavia tietoja. Tällaista asetelmaa ei perustuslakivaliokunnan mielestä
+voida pitää täysin ongelmattomana eduskunnan päätöksenteon itsenäisyyden ja valvonta-
+toiminnan riippumattomuuden kannalta, vaikka selvitys ei olisikaan sitonut eduskuntaa.
+Tämän vuoksi perustuslakivaliokunta katsoo, että ehdotuksen tavoitteet voidaan saavuttaa
+turvallisuusselvityksen sijasta eduskunnan toimintaan paremmin soveltuvalla mekanismil-
+la, joka ei rakennu suojelupoliisin tekemän selvityksen varaan. 
+
+Tiedusteluvalvontavaliokunnan jäseneksi aiotusta kansanedustajasta tehtävä laaja tur-
+vallisuusselvitys korvataan valiokunnan esityksessä menettelyllä, joka perustuu tietosuo-
+javaltuutetun tarkastusoikeuden ja eduskunnan pääsihteerin, asianomaisen kansanedusta-
+jan sekä hänen edustamansa eduskuntaryhmän puheenjohtajan rajattuun tiedonsaantiin
+sekä tämän jälkeen mahdollisesti käytävään keskusteluun. Kyseessä olisi tietosuojavaltuu-
+tetun tarkastusoikeuteen nähden erityinen menettely. Tarkastusoikeus kohdistuu suojelu-
+poliisin toiminnallisen tietojärjestelmän tietoihin. Tämä suojelupoliisin toiminnallinen tie-
+tojärjestelmä on suojelupoliisin käyttöön tarkoitettu pysyvä, automaattisen tietojenkäsitte-
+lyn avulla ylläpidettävä henkilörekisteri, johon tallennetaan tietoja, joita on tarpeen käsi-
+tellä kansallisen turvallisuuden suojaamiseksi taikka oikeus- ja yhteiskuntajärjestystä tai
+valtion turvallisuutta vaarantavien hankkeiden tai rikosten estämiseksi, paljastamiseksi tai
+selvittämiseksi. Eli tällaisia tietoja tietosuojavaltuutettu sitten tutkii.
+
+Valiokuntien asiakirjojen julkisuutta ja salassapitoa koskeviin säännöksiin ehdotetaan
+myös muutoksia tiedusteluvalvontavaliokunnan perustamisen vuoksi. Uuden valiokunnan
+pöytäkirjan liitteet ja valiokunnan muut tehtävää koskevat asiakirjat ovat salassa pidettä-
+viä, jollei ole ilmeistä, että tiedon antaminen niistä ei aiheuta merkittävää vahinkoa Suo-
+men kansainvälisille suhteille tai vaaranna kansallista turvallisuutta.
+
+Eduskunnan työjärjestykseen lisätään myös viittaus salassapitorikosta koskevaan rikos-
+lain säännökseen. Sinänsä viittaus ei kuitenkaan muuta oikeustilaa, eikä sillä laajenneta
+rangaistavuutta kattamaan esimerkiksi tiedon oikeudetonta antamista sellaisista asiakir-
+joista, jotka eivät vielä ole julkisia. Perustuslakivaliokunta pitää myös tarpeellisena todeta,
+ettei esimerkiksi yhteiskuntapoliittinen keskustelu tai keskustelu eduskuntaryhmän piiris-
+sä muutu sääntelyn johdosta periaatteellisesti nykyisestään. 
+
+Lopputuloksena perustuslakivaliokunta esittää, että hallituksen esitykseen sisältyvät 1.
+ja 2. lakiehdotus hyväksytään muutettuina, ja tästä toisesta asiasta, että puhemiesneuvos-
+ton esitys ja siihen sisältyvä lakiehdotus hyväksytään muutettuna. Perustuslakivaliokunta
+esittää uutta, 3. lakiehdotusta, jossa täsmennetään tietosuojavaltuutetun tekemää tarkastus-
+ta uuden tiedusteluvalvontavaliokunnan jäseneksi aiotusta kansanedustajasta. — Kiitos. 
+
+Puhemies Paula Risikko: Meillä on aikaa kello 14:ään tässä asiassa, ja otetaan puhujalis-
+talta edustaja Kantola. 
+
+13.14 Ilkka Kantola sd: Arvoisa puhemies! Eduskunta on 3.10. tekemällään päätöksellä
+lisännyt viranomaisten valtuuksia rajoittaa luottamuksellisen viestin suojaa. Tuo päätös si-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+sälsi perustuslain 10 §:n muuttamisen siten, että tiedusteluviranomaisten salainen tiedon-
+hankinta voi tapahtua myös ilman yksilöityä rikosepäilyä. Perusteena voi olla tiedustelun
+kohdistuminen sotilaalliseen toimintaan tai muuhun sellaiseen toimintaan, joka vakavasti
+uhkaa kansallista turvallisuutta. Tuo muutos oli merkittävä.
+
+Kansalaisten oikeusturvan ja demokraattisen yhteiskuntajärjestyksen suojaamiseksi on
+perusteltua, että uusien tiedusteluvaltuuksien vastapainoksi säädetään samalla vahvasta ja
+uskottavasta viranomaistoiminnan valvonnasta. Nyt käsittelyssä olevat perustuslakivalio-
+kunnan mietinnöt sisältävät valiokunnan yksimielisen ehdotuksen siitä, miten tuo valvonta
+on järjestettävä. Pohjana ovat hallituksen esitys tiedustelun laillisuusvalvonnasta ja puhe-
+miesneuvoston ehdotus tiedustelun parlamentaarisesta valvonnasta.
+
+Valiokunta esittää, että uuden valvovan viranomaisen, tiedusteluvalvontavaltuutetun,
+toimivaltuuksia vahvistetaan siihen nähden, mitä ne olivat esityksessä. Kun Helsingin kä-
+räjäoikeus käsittelee tiedustelulupa-anomuksia, tiedusteluvalvontavaltuutetulla on käräjä-
+oikeuden istunnossa paitsi läsnäolo-oikeus myös puheoikeus. Tiedustelutoimintaa valvo-
+van viranomaisen puheoikeus on omiaan vahvistamaan tiedusteluviranomaisten paneutu-
+mista lupa-anomusten perustelemiseen.
+
+Perustuslakivaliokunta esittää, että eduskunta osallistuisi tiedusteluvalvontavaltuutetun
+valintaan. Tiedusteluvalvontavaliokunnan tulisi saada lausua ehdokkaista ennen kuin val-
+tioneuvosto päättää nimityksestä. Siirtymäsäännöksellä mahdollistettaisiin se, että ensim-
+mäisen tiedusteluvalvontavaltuutetun rekrytointi voidaan aloittaa jo ennen valvontavalio-
+kunnan asettamista. Eduskunnan puolelta valintaan osallistuisi ensimmäisen kerran perus-
+tuslakivaliokunta.
+
+Parlamentaarinen valvonta toteutettaisiin perustamalla eduskuntaan uusi valiokunta.
+Valiokunnan tehtävä olisi esitettyä laajempi. Valiokunta valvoisi supon toimintaa kokonai-
+suudessaan, ei vain tiedustelutoimintaa. Uuden valiokunnan toiminnassa korostuu valio-
+kunnan ja sen jäsenten salassapito- ja vaitiolovelvollisuus. Valvontatehtäväänsä hoitaak-
+seen valiokunnalla on poikkeuksellisen laajat tiedonsaantioikeudet suojelupoliisin toimin-
+taan.
+
+Vaikein kysymys asian käsittelyssä on ollut se, onko tarpeen ja voidaanko kansanedus-
+tajien sopivuutta valiokunnan jäseniksi tässä tapauksessa arvioida syvällisemmin kuin
+mikä on vallitseva käytäntö. Perustuslakivaliokunta torjui puhemiesneuvoston ehdotukses-
+sa olleen mallin, jossa eduskunnan puhemies olisi pyytänyt supolta laajan turvallisuussel-
+vityksen valiokuntaan aikovista kansanedustajista. Tätä ei pidetty hyvänä ottaen huo-
+mioon puhemiehen poliittinen rooli ja se, että tässä mallissa valvonnan kohdetta, supoa,
+olisi pyydetty arvioimaan henkilöitä, joita ollaan asettamassa supoa valvovan valiokunnan
+jäseniksi. Perustuslakivaliokunta, pitkän valmistelun ja koordinaatiotyöryhmän ja parla-
+mentaarisen seurantaryhmänkin ahkeran työskentelyn pohjalta, päätyi esittämään mallia,
+jossa tietosuojavaltuutettu tarkistaa tiedusteluvalvontavaliokuntaan aikovan kansanedusta-
+jan pyynnöstä häntä koskevat tiedot supon rekisteristä. Tietosuojavaltuutettu informoi tar-
+kastuksen tuloksesta kansanedustajaa, ja tarvittaessa käydään arvioiva keskustelu kansan-
+edustajan, hänen eduskuntaryhmänsä puheenjohtajan ja eduskunnan pääsihteerin kesken.
+Lopullinen päätös edustajan valitsemisesta valiokuntaan tehdään eduskunnan täysistun-
+nossa jatkossa kuten muidenkin valiokuntien osalta, niin kuin nytkin tehdään. Eduskunta
+päättää siis valiokuntaan valinnasta. Tämän menettelyn voi katsoa ohjaavan edustajia ja
+eduskuntaryhmiä harkitsemaan omia ratkaisujaan siltä kannalta, miten voidaan parhaiten
+4
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+edistää tiedusteluvalvontavaliokunnan toimintakykyä sen käsitellessä maan turvallisuu-
+den kannalta äärimmäisen herkkiä ja tiukasti salassa pidettäviä tietoja.
+
+Tietosuojavaltuutetun tiedonsaantiin nojaava kansanedustajan eräänlainen ennakkoarvi-
+ointi, siihen liittyvä keskustelu, on uutuus eduskunnan käytännössä. Sen takia sitä työstet-
+tiin pitkään. Tähän on kuitenkin päädytty, koska itse tiedusteluvalvontavaliokuntakin on
+tehtävänsä puolesta uutuus eduskunnassa. Millään muulla valiokunnalla ei tule olemaan,
+eikä ole, samanlaisia tiedonsaantioikeuksia kuin tällä uudella valiokunnalla. On siis varjel-
+tu uuden valiokunnan toimintakykyä. Arvokasta on, että nyt esitetyllä ratkaisulla on edus-
+kunnassa laaja parlamentaarinen tuki, josta pitää kiittää erityisesti perustuslakivaliokun-
+nan varapuheenjohtajaa Tapani Tölliä, joka on vetänyt sitkeästi koordinaatioryhmää ja sitä
+ennen parlamentaarista valmisteluryhmää, seurantaryhmää, jossa näitä erilaisia käsityksiä
+on yhteensovitettu. Kiitos siitä työstä, jota on tehty.
+
+13.19 Päivi Räsänen kd: Arvoisa rouva puhemies! Tämän esityksen kohdalla täytyy an-
+taa kyllä suuri kiitos tälle eduskunnalle, joka on hienosti kyennyt nyt tähän pisteeseen tä-
+män saattamaan. Mielestäni koko tämä prosessi osoittaa ensinnäkin sen, että parlamentaa-
+risella valmistelulla on ollut valtavan tärkeä ja arvokas rooli tässä, ja myös sen, että turval-
+lisuuspolitiikka on koko eduskunnan yhteinen asia. Tämän asian käsittelyssä ei ole miten-
+kään tarpeettomalla tavalla noussut hallitus—oppositio-välinen politiikka vaan ymmärre-
+tään, että tämä on meidän kaikkien yhteinen asia ja tässä ollaan nimenomaan kansallisen
+turvallisuuden asialla, mikä ei ole lyhytnäköisen poliittisen pelin paikka.
+
+Tämän lakipaketin valmisteluhan on ollut varsin huolellista ja perusteellista. Valmistelu
+käynnistettiin jo viime vaalikaudella itse asiassa nimenomaan sisäministeriön ja puolustus-
+ministeriön yhteisestä esityksestä ja sitten UTVAn päätöksellä vuonna 2013, jolloin ase-
+tettiin tiedonhankintalakityöryhmä — sen vuoksi itsekin tätä valmistelua ihan alkuvaihees-
+ta lähtien tiiviisti seurasin. Tämä sai esitykset valmiiksi tiedustelulainsäädännön suuntavii-
+voiksi, mutta sitten siltä pohjalta Sipilän hallitus jatkoi valmistelua. Esityksiähän on käsi-
+telty tiiviisti edustaja Töllin todellakin hienosti ja ansiokkaasti johtamassa parlamentaari-
+sessa seurantaryhmässä. 
+
+Haluan edustaja Töllille antaa kiitoksen siitä, että hän kykeni niin sovinnollisesti vie-
+mään tätä eteenpäin ja huomioimaan kaikki näkemykset, niin että olemme nyt tässä pis-
+teessä. Haluan tässä nyt vielä mainita erityisesti tuon parlamentaarisen seurantaryhmän
+edustaja Kasvin, joka on ollut kyllä aivan todellinen asiantuntija tämän asian käsittelyssä.
+Uskon, että teidän panoksellanne, edustaja Kasvi, oli kyllä aika ratkaiseva merkitys siihen,
+että ymmärrettiin, mistä on kysymys, ja että ollaan nyt tässä.
+
+Itse olen hyvin vakuuttunut siitä, että tätä lakipakettia todellakin tarvitaan. Me elämme
+tilanteessa, jossa terrorismiuhka on lisääntynyt. Vakava terrori-isku, kansallista turvalli-
+suutta uhkaava kyberhyökkäys on milloin tahansa mahdollista, ja olemme valitettavasti
+joutuneet todistamaan viime vuosina sitä, että myös sotilaallisten uhkien luonne on muut-
+tunut, mikä konkretisoitui Krimin valtauksessa. Kun Puolustusvoimien perinteiset tiedus-
+teluvaltuudet ovat perustuneet analogiseen tiedusteluun, niin todellakaan se ei enää riitä.
+Organisaatioiden viestintä on siirtynyt digitaaliseen muotoon, ja sekin tätä lainsäädännön
+edistämistä vauhdittaa. 
+
+Tässä on, voisin sanoa, mielestäni jopa menty eteenpäin siitä esityksestä, joka annettiin.
+Itse pidän kyllä aika nerokkaana sitä tapaa, jolla ratkaistiin kysymys tiedusteluvalvontava-
+liokunnan jäsenistä hankittavasta selvityksestä. On kyllä tunnustettava, että kansanedusta-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+jien aseman riippumattomuus on tärkeä periaate, ja kun ministereistäkään ei näitä laajoja
+turvallisuusselvityksiä tehdä, niin pidän kyllä aika hyvänä ja suorastaan nerokkaana tätä
+ratkaisua, että nyt sitten tietosuojavaltuutetulta voi tämän selvityksen tilata ja pyytää, en-
+nen kuin on edes tullut valituksi tähän tehtävään, ja samalla sitten saa tarkastettua nämä tie-
+dot — kuitenkin pystytään turvaamaan se, että sopivat henkilöt tähän tehtävään valitaan.
+
+Oikeastaan yksi huolenaihe, joka tähän edelleenkin jää ja jonka edustaja Lapintie, valio-
+kunnan puheenjohtaja, nosti tuossa hyvässä puheenvuorossaan esiin, liittyy nimenomaan
+tiedusteluvalvontavaltuutetun resursseihin. Kyllä perustuslakivaliokunta aika vahvasti to-
+teaa sen, että käytännössä vaadittavat resurssit voivat olla jopa moninkertaiset nyt ehdotet-
+tuun verrattuna, ja olisin itse asiassa toivonut, että täällä olisi ministeri ollut arvioimassa ja
+kommentoimassa, millä tavoin hallitus näkee, että nämä resurssit tulisi tulevaisuudessa
+turvata. Tämä perustuslakivaliokunnan huomio joka tapauksessa täytyy ottaa vakavasti. 
+
+Arvoisa puhemies! Tähän kiitospuheen lopuksi haluan kyllä erityisen kiitoksen vielä an-
+taa perustuslakivaliokunnan puheenjohtaja Annika Lapintielle, joka on osoittanut niin täs-
+sä kuin monessa muussakin yhteydessä erittäin ansiokasta työskentelyä: kiitos siitä, että
+olemme nyt tässä pisteessä.
+
+13.26 Pauli Kiuru kok: Arvoisa rouva puhemies! Todellakin hyvää työtä valiokunta on
+tehnyt. Täytyy muistaa, mistä tässä lähdetään liikkeelle: kansainvälisestä tilanteesta ja
+Suomen tarpeista.
+
+Tässä kyseisessä laissa ja mietinnössä nyt sitten lähdetään liikkeelle siitä, että valvon-
+nan pitää olla tehokasta, mutta sen pitää olla myös riippumatonta. Myös tämän parlamen-
+taarisen valvonnan pitää toteutua, ja se tässä toteutuu, ja tämä mietintö vie sitä eteenpäin.
+
+Perus- ja ihmisoikeuksien pitää toteutua. Ne toteutuvat. Valtuutettu toimii Tietosuoja-
+valtuutetun toimiston yhteydessä, ja niin kuin tässä mietinnössä korostetaan, aseman pitää
+olla itsenäinen ja riippumaton. Ihan aiheellisesti korostetaan myös sitä, ettei saa olla sidok-
+sia valvottavaan organisaatioon esimerkiksi niin, että on virkavapaalla kyseisestä organi-
+saatiosta ja sitten on ikään kuin valvomassa ystäviään tai kavereitaan.
+
+Tässä tuli esille myös tämä, että tiedusteluvalvontavaliokunnalla on tilaisuus esittää
+mielipide tiedusteluvalvontavaltuutetusta, eli tämäkin on sitä parlamentaarisuutta, ja tämä
+on ihan oikein.
+
+Resursseista: juuri näin, pitää olla riittävät resurssit, jotta myös käytännössä pystytään
+tekemään sitä työtä, mitä tässä pitää tehdä.
+
+Valiokunnan koko, sehän tässä tuli myös esille: 11 jäsentä, 2 varalla, ja se on se pienin,
+mikä valiokunnan koko perustuslain mukaan voi olla. Koko tietysti lähtee siitä, että kun on
+salassa pidettäviä tietoja, niin ne helpommin pysyvät salassa, kun ryhmän koko on pieni.
+
+Tähän proseduuriin vielä: Menettely on nyt sitten kehittynyt siitä, mitä hallituksen esi-
+tyksessä on. Lisää vastuuta tulee myös eduskuntaryhmille, ja olen kyllä varma, että tämä
+vastuu ryhmissä ymmärretään ja myös kannetaan.
+
+13.28 Simon Elo sin: Arvoisa rouva puhemies! Sininen eduskuntaryhmä kannatti yksi-
+mielisesti tiedustelulakien kiireellistä uudistamista. Niin kuin tässä edustaja Kiuru toi esil-
+le, niin täytyy sanoa, että tällä hetkellä jokainen päivä ilman tätä uudistettua lainsäädäntöä
+vaarantaa meidän kansallisen turvallisuutemme.
+
+Kun ajattelee sitä tilannetta, mikä pakolaiskriisin seurauksena — osittain sen seuraukse-
+na — Eurooppaa on kohdannut, niin on tullut paljon henkilöitä, jotka ovat radikalisoitu-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+neet, tekevät täällä erilaisia terrori-iskuja tai muuten epävakauttavat eurooppalaisia yhteis-
+kuntia. Sitten tietysti itänaapurimme valitettava toiminta Ukrainassa ja Krimin laiton mie-
+hitys ovat vaikuttaneet niin, että sekä siviili- että sotilaspuolella tarvitaan uutta lainsäädän-
+töä — muistaen, että me olemme monia muita maita jäljessä.
+
+Eduskunnan ulkoasiainvaliokunnan kanssa vierailimme Kanadassa, ja siellä tapasimme
+heidän tiedusteluvaliokuntansa jäsenen. Heillä oli jopa niin pitkälle mennyt lainsäädäntö,
+että he saavat operatiivisetkin tiedot. Kysyimme heiltä, mikä on oikeudellinen rangaistus,
+jos tietoja vuotaa ja se pystytään oikeudessa toteen näyttämään. Vähintään 15 vuotta van-
+keutta. Eli kyllä muihin maihin on yhtymäkohtaa, vertailukohtaa, jota me voimme tässä sit-
+ten tarkastella, kun valiokunnan työ lähtee käyntiin.
+
+Olen samaa mieltä edustaja Räsäsen kanssa siitä, että nyt löydettiin hyvä parlamentaa-
+rinen yksimielisyys sille mallille, miten katsotaan, että näillä henkilöillä, jotka tähän valio-
+kuntaan hakevat, on taustat kunnossa. Tässä täytyy tietysti myös muistaa tämä tiedustelu-
+valtuutetun rooli, joka tulee olemaan hyvin merkittävä, ja on tärkeää, että tässä siirtymä-
+ajan aikana voidaan ruveta jo sitäkin puolta katsomaan.
+
+Tässä on otettu esille myös nämä resurssit. Olikin hyvin tärkeää, että perustuslakivalio-
+kunta lisäsi tähän esitykseen vaatimuksen siitä, että Tiedusteluvalvontavaltuutetun toimis-
+toon on saatava riittävät resurssit heti, kun se toimisto laitetaan pystyyn, samoin Helsingin
+käräjäoikeuteen, kun käynnistetään se osasto, joka käsittelee tiedustelulakeihin perustuvia
+asioita.
+
+Meillä on nyt pohja, miten me voimme lähteä tätä uutta lainsäädäntöä toteuttamaan,
+mutta täytyy myös korostaa niitden henkilöiden merkitystä, jotka tullaan tähän tiedustelu-
+valiokuntaan asettamaan, he ovat paljon vartijoina.
+
+13.30 Ilkka Kanerva kok: Arvoisa puhemies! Kyllä kai se vähän niin on, että tästä pro-
+seduraalisesta puolesta ilman muuta kiitos kuuluu edustajille Tölli, Lapintie et cetera, ja
+näin muodoin pyydänkin heitä vielä kerran fundeeraamaan sitä, olisikohan tuo ilmoitus jät-
+täytyä pois seuraavista vaaleista aihetta uudelleen arvioida. Esimerkkejä löytyy. [Naurua]
+
+Arvoisa puhemies! Minulla on ollut tilaisuus pariinkin otteeseen tässä viime aikoina
+käydä tutustumassa siihen ajattelutapaan, jota Yhdysvalloissa tänä päivänä on poliittisesti
+pinnalla koskien ennen muuta ulko-, turvallisuus- ja puolustuspolitiikkaa, eikä ole kovin
+mieluisa asia tulla sanomaan julkisesti, etten ehkä muista nyt ainakaan lähivuosikymmen-
+ten ajalta vaihetta, jolloin olisin siinä mitassa ollut huolestunut kansainvälisen tilanteen ke-
+hityksen suunnasta kuin mitä tällä hetkellä on asianlaita. Tämä havainto ei perustu tietys-
+tikään yksinomaisesti siihen, mitä oli konkreettisesti luettavissa, kuultavissa, keskustelta-
+vissa yhtä lailla Washingtonissa ja New Yorkissa kuin hieman aiemmin myöskin Ottawas-
+sa, on vaan valitettavasti niin, että kansainvälisen tilanteen kehityksen suunta on huolestut-
+tava myöskin muualla, ja tällöin tietysti tarkoitan kansainvälisen kehityksen luonnetta mo-
+nikansallisuuden näkökulmasta, kansainvälisen sopimusjärjestelmän pitävyyden kannalta
+siinä, miten moninapaisuuden vaihtelut heijastuvat mannerlaatoissa ja niin edelleen, ja niin
+edelleen. Valitettavaa on se, että monella tapaa Euroopan manner saattaa pahimmoisim-
+millaan olla se, joka joutuu maksamaan koko tämän laskun. Viittaan erityisesti INF-sopi-
+muksen mahdollisiin seurauksiin.
+
+Kun asiaintila on tämänkaltainen, niin se ei tarkoita sitä, että tässä oltaisiin ajautumassa
+perinteiseen aseelliseen konfliktiin, sitäkään riskiä ei valitettavasti voida meidänkään tur-
+vallisuusympäristössämme sulkea kokonaisuudessaan pois, vaan kysymys on siitä, että
+7
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+maailmankuva on muuttunut tavalla, jossa sodan ja rauhan välissä on laaja harmaa vyöhy-
+ke, jonka puitteissa aktiivisuus monella tapaa kukoistaa erittäin kiusallisella ja valitettaval-
+la tavalla — tavalla, jota emme ole edes kovin kauaa osanneet nähdä. Joudumme elämään
+maailmassa, jossa kohtaamme muun ohella terrorismin kaapuun pukeutuneita varsin ko-
+viakin asenteita, jotka motivoivat toimijoita, jotka ovat meidän kulttuurillemme vieraita —
+erittäin vieraita ja vastenmielisiä.
+
+Vastustaja on älykäs, se on innovatiivinen, se osaa käyttää modernia teknologiaa taita-
+vasti ja tehokkaasti hyväkseen. Sen keinot ovat moninaiset, ja se kykenee iskemään taval-
+la, jota emme osaa ennakoida. Meillä on käytössämme diplomatia, meillä on käytössämme
+pelotevaikutukset. Luonnollisesti tehostamme puolustustamme ja koetamme ylläpitää re-
+silienssiämme, oman yhteiskuntamme sisäistä sietokykyä. Mutta se ei riitä tässä tilantees-
+sa vaan on kyettävä myöskin olemaan valppaana ja kyettävä näkemään ehkä myöskin en-
+nakoivasti, mitä uhkia mekin saatamme kansakuntana joutua kokemaan ja näkemään. Tä-
+män vuoksi minusta on loistava asia, että eduskunta voi tänä päivänä nähdä tämän tilan-
+teen tässä vaiheessa lainsäädäntöprosessia, jota täällä on tässä vaiheessa käsitelty. 
+
+Avoin yhteiskunta on aina haavoittuva kyberiä, hybridiä, perinteistäkin vakoilua tekno-
+logialla toteutettuna kohtaan. Me emme tiedä, mitä meissä vakoillaan. Emme me tienneet
+sitä, että syksyllä 2013 julki tulleella tavalla ulkoministeriö oli pitkäaikaisen, vakavan va-
+koilun kohteena. Sen takia puolustan tässä puheenvuorossani suomalaista mallia toimia
+mahdollisimman tehokkaasti oman kansakuntamme hyvinvoinnin ja turvallisuuden hy-
+väksi ja sitä, että monin kerroin monissa yhteyksissä paheksuttu konsensus suomalaisessa
+yhteiskunnassa ei toivottavasti raskaan sarjan asioissa ole kirosana vaan suomalaisen yh-
+teiskunnan vahvuus.
+
+Puhemies Paula Risikko:  Meidän tosiaan pitää kello 14:ään mennessä tämä lopettaa,
+mutta sitten jatketaan illalla myöhemmin keskustelua.
+
+13.36 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Nyt käsittelyssä oleva tieduste-
+luvalvontaa koskeva perustuslakivaliokunnan mietintö on mielestäni yksi tärkeimpiä pape-
+reita, mitä vähäisen poliittisen urani aikana olen päässyt käsittelemään. Suomalaisen tur-
+vallisuuden kannalta on aivan välttämätöntä, että saamme omaan sotilastiedusteluun ja si-
+viilitiedusteluun liittyvän lainsäädännön muun Euroopan ja muun maailman tasolle. Aivan
+kuten edustaja Kanerva erinomaisessa puheenvuorossaan kuvasi tilannetta, maailma ei ole
+tänä päivänä hyvä ja turvallinen paikka. Tulee mieleen väkisin se erään viisaan Ehrensvär-
+din sana, että kansakunnan kannattaa seisoa omalla pohjallaan eikä luottaa vieraan apuun.
+Ystäviä totta kai pitää hakea, mutta omien tietojen ja tiedonhankinnan pitää olla ajan tasal-
+la.
+
+Tässä yhteydessä haluan kiittää perustuslakivaliokunnan puheenjohtaja Annika Lapin-
+tietä ja varapuheenjohtaja Tapani Tölliä ja koko valiokuntaa aivan erinomaisen hyvästä
+työstä. Puheenjohtaja Lapintie on pitänyt kyllä asiat hyvin hallinnassa, ja asiat ovat eden-
+neet ihailtavan kiitettävällä tavalla. Siitä lämmin kiitos.
+
+Se, että nyt olemme pääsemässä sille tasolle tiedustelutoiminnassa ja tiedusteluvalvon-
+nassa, mitä maailma vaatii, on suuren ilon aihe. Ei tarvinne teille, arvoisat edustajakolle-
+gat, luennoida siitä, mitä maailmassa on tapahtunut viimeisen kolmen vuoden aikana.
+Maailma ei ole enää niin turvallinen paikka kuin se aikanaan oli, ja niin kuin tiedämme, tie-
+dustelumenetelmien, erilaisten vakoilumenetelmien kehittyminen maailmassa on niin hur-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+jaa ja niin nopeaa, että tietoverkkoihin mukaan meneminen ja valvonnan ulottaminen sin-
+ne on Suomen kannalta aivan välttämätöntä. Onhan kummallista, että tähän saakka vierai-
+den valtioiden tiedustelijat ovat päässeet Suomen tietoverkkoihin vapaasti mutta meidän
+viranomaisemme eivät ole sinne voineet mennä. 
+
+Kaiken julkisen toiminnanhan tulee perustua lakiin, ja lakia on tarkoin noudatettava, ku-
+ten perustuslakimme toteaa. Tämän takia on välttämätöntä, että tämä laki ja koko tieduste-
+lulakipaketti saadaan läpi ja ennen kaikkea voimaan mahdollisimman nopeasti. Perustus-
+lakivaliokunta on antanut mielestäni erinomaiset mietinnöt ja lausunnot eri lakeja koskien
+tähän asiaan liittyen, ja ne ovat todella hyvää ja vahvaa luettavaa. Eduskunta on jo hyväk-
+synyt lainsäädännön, jonka mukaan luottamuksellisen viestin suojaan, perustuslain
+10 §:ään, voidaan kajota silloin, kun kansallinen turvallisuus on vakavasti uhattuna. Ei niin
+mitään toimintaa ole olemassa, ettei sille pitäisi olla järkevää ja hyvää kontrollia, ja tässä
+mietinnössä tämä kontrolli on nyt saavutettu. Se on kirjoitettu siihen muotoon, missä sen
+olla pitää.
+
+Joka tapauksessa tarvitaan tätä tiedusteluvalvontavaliokuntaa, joka perustetaan, ja tie-
+dusteluvalvontavaltuutettua, joka aloittaa työnsä tietosuojavaltuutetun kanssa yhteistyös-
+sä, molempia instansseja tarvitaan, ja niille pitää antaa riittävät resurssit toimiakseen ja en-
+nen kaikkea niin, että valvonta ulotetaan koko tiedustelutoimintaan. Tässähän nämä pelin
+kehykset ovat kaikilta puolin: valvonta on olemassa, tiedustelu toimii, ja näiden toimijoi-
+den tehtäviä ja heidän päätöksiään valvotaan kattavasti. Tämän takia tämä mietintöpaketti,
+mikä nyt on eduskunnan käsiteltävänä, on erittäin hyvä, ja täällä on muutamia semmoisia
+kohtia, jotka kannattaa painaa mieleen:
+
+”Perustuslakivaliokunnan mielestä tiedustelutoiminnan valvonnan kannalta on tärkeää,
+että tiedustelutoiminnan laillisuusvalvonta on kattavasti järjestetty”, sanotaan mietinnössä
+Valvonnan kattavuus -kohdassa. Tämä on juuri se iso asia, joka pitää nyt painaa terävästi
+mieleen ja joka linjaa, miten tiedustelua toimitetaan tässä maassa.
+
+Ja sitten toinen kohta: ”Valiokunnan mielestä valvonnan kattavuus edellyttää myös sitä,
+että riittävät valvontajärjestelyt ulotetaan suojelupoliisin toimintaan kokonaisuudessaan.”
+
+Näitä muutamia lauseita hienosta mietinnöstä siteeraten voi sanoa, että me olemme saa-
+vuttamassa tiedustelussa tason, joka on tälle kansakunnalle vain hyvästä. On selvää, että
+kun luottamuksellisen viestin suojaan kajotaan, niin siihen pitää olla vahvat perusteet.
+Nämä perusteet tähän mietintöön kirjattuna ovat aivan erinomaisia.
+
+Vielä lopuksi, arvoisa puhemies: Kun katsotaan tiedustelutoimintaa, on myös niin, että
+se koskee, totta kai, meidän viranomaisiamme — poliiseja ja muita viranomaisia, Rajavar-
+tiolaitosta ja niin edelleen — mutta se koskee tietenkin myös sotilastiedustelua, josta saa-
+tava tieto on kansakunnan turvallisuuden kannalta ensiarvoisen tärkeää. Mutta siinäkin
+asiassa pitää olla huolellinen, että saavutamme sellaisen tiedon tason, ja Suomessahan tie-
+tokoneen käyttötaito ja tietotekniikka osataan, elikkä ei se meillä osaamisesta ole kiinni.
+Nyt vain, kun tämä laki tulee, me saamme tälle toiminnalle selkeät rajat, mikä helpottaa
+myös viranomaisten toimintaa, ja asiaan saadaan selvä kehikko ympärille. Tiedustelutoi-
+mintahan palvelee myös meidän yritystoimintaamme. Meidän tietoverkoissammehan totta
+kai koko ajan liikkuu sotilastoimintaa ja muuta siviilitiedustelutoimintaa koskevia haitta-
+ohjelmia, joihin ei ole tähän asti päässyt millään käsiksi, mutta nyt me pääsemme niin lai-
+tetekniikkamme, tietotaito-osaamisemme kuin myös lainsäädäntömme kannalta sille tasol-
+le, millä olla pitää.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+Moni suomalainen yritys on tänä päivänä menettänyt valtavia omaisuuksia sen takia,
+että erilaisilla vakoiluohjelmilla on viety tietoa, niin että yritys on menettänyt valtavia ta-
+loudellisia arvoja, ja ne ovat peruuttamattomia vahinkoja. Tänä päivänä toisen omaisuu-
+den haltuun ottaminenhan ei tapahdu enää missään markkinatorilla niin, että viedään tas-
+kusta kukkaro tai jotain muuta, vaan se tapahtuu hyvin pitkälti tietoverkoissa. Ajatelkaapa
+nyt vaikka pankeissa liikkuvia tietoja — jos joku pääsee peukaloimaan tilitietoja tai jopa
+tekemään tilisiirtoja — tai yrityksiä, joilla on hallussaan esimerkiksi erittäin tärkeitä pa-
+tentteja: niihin murtautuminenhan tietää sitä, että yhtiö menettää, yritys menettää, ihmiset
+menettävät valtavia omaisuusarvoja sen tautta, että meillä ei tiedustelulainsäädäntö ole ol-
+lut ajan tasalla. Sen takia pidän tätä lakipakettia, mikä nyt on käsittelyssä, erittäin tärkeänä.
+
+Vielä lopuksi, arvoisa puhemies: kiitoksia valiokunnan puheenjohtajalle ja varapuheen-
+johtajalle erinomaisesti tehdystä työstä.
+
+Puhemies Paula Risikko: Edustaja Tölli. — Otetaan sitten sen jälkeen debatti tähän lop-
+puvaiheeseen, niin saadaan purettua hieman puhetta.
+
+13.42 Tapani Tölli kesk: Arvoisa puhemies! Nyt käsiteltävänä olevat esitykset tieduste-
+luvalvonnasta ovat tärkeä osa kokonaisuutta — voi sanoa, että keskeinen edellytys sille,
+että varsinaiset tiedustelulait eli siviilitiedustelulaki ja laki sotilastiedustelusta voidaan hy-
+väksyä. Tässä kokonaisuudessa lisätään merkittävästi tiedustelutoimivaltuuksia, ja tulem-
+me lähemmäksi meidän verrokkimaidemme tasoa ja tilannetta. Pystymme paremmin vas-
+taamaan kansallisesta turvallisuudestamme. Mutta se edellyttää, että meidän valvontajär-
+jestelmämme on hyvä, ja rohkenen arvioida, että tämä valvontakokonaisuus on pitävämpi
+ja tiukempi kuin monessa muussa maassa. Ja se on hyvin tärkeää.
+
+Tämä työ, mitä tässä on tehty, osoittaa mielestäni sen, että parlamentaarinen valmistelu
+yhteisissä tärkeissä asioissa kannattaa. Haluan kiittää kaikkia teitä, jotka olette mukana ol-
+leet tässä työssä parlamentaarisessa seurantaryhmässä, koordinaatioryhmässä ja
+asianomaisissa valiokunnissa. Mielestäni tämä osoittaa sen, että oma onnistuminen tulee
+vain yhteisen onnistumisen kautta. Tämä osoittaa, että tarvittaessa kyetään yhteiseen vas-
+tuunkantoon. Ja kun on vaikeita tilanteita ja on tietyllä tavalla ratkaisupakko, niin ratkai-
+suja myös löytyy. Se on tässä mielessä ollut tärkeää.
+
+No, sitten tämän työn kannalta on yksi mielenkiintoinen havainto — en tiedä, onko so-
+pivaa, että totean, mutta totean sen kuitenkin: olen havainnut, että esimerkiksi puolustus-
+hallinnon ja sisäministeriön eli sisäisen turvallisuuden ja ulkoisen turvallisuuden välinen,
+voisiko sanoa, raja-aita on häipynyt, eli tämä turvallisuus nähdään entistä yhtenäisemmin
+ja puhutaan samaa kieltä, ja se ei ole vähäinen asia.
+
+En mene yksityiskohtiin tässä valvonnassa mutta joiltakin osin mainitsen siitä. Tämän
+laillisuusvalvojan eli tiedusteluvalvontavaltuutetun valitseminen, rooli ja valtuudet tulevat
+olemaan merkittäviä — on uusi laillisuusvalvoja. Tässä on kiinnitetty huomiota laillisuus-
+valvojan resursseihin. Kuitenkin tässä valmistelun kuluessa on koko ajan ollut se selkeä
+linja, että resurssit tulee turvata sen mukaisesti kuin on tarve. On vain niin, että täsmällistä
+arviota siitä, minkä kokoiset ne ovat, on vaikea sanoa, mutta lähtökohta on juuri niin kuin
+perustuslakivaliokuntakin linjasi, että resurssien tulee olla riittävät.
+
+Sitten tästä valvontavaliokunnasta. Tämähän on uusi, monessa mielessä uusi, ja sen teh-
+tävä on rajattu. Se poikkeaa melkoisella tavalla eduskunnan muista valiokunnista, ja tämän
+valiokunnan jäsenten tehtävä on vastuullinen. Eli kun ryhmissä valitaan edustaja tähän,
+10
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+niin kyllä silloin pitää tuntea vastuuta, että tämä henkilö sen vastuun kantaa. Oleellinen
+sana tähän mielestäni on ”luottamus”, se, että tähän henkilöön voi luottaa, mutta myöskin
+se, että on keskinäinen luottamus, eikä olisi haitaksi, jos — niin kuin monessa muussakin
+asiassa — hiljaa kysyy itseltään, että voiko minuun luottaa. Se järjestelmä edellyttää sitä,
+että tämä näin toimii, ja siksi myöskin kansanedustajan taustan ennakollinen tarkastus on
+perusteltua, ja se tässä perustuslakivaliokunnan esityksessä on nyt hoidettu sillä tavalla,
+että tietosuojavaltuutettu on tässä se taho, joka sen hoitaa. Tässä ei ole mielestäni mitään
+kummallista, se on luonnollinen asia.
+
+Sitten ajan myötä — koska tämä on uusi valiokunta — osoittautuu, mitkä ovat toimin-
+takäytännöt ja työrytmi ja niin edelleen, miten usein valiokunta kokoontuu, mutta yhteis-
+työ tulee olemaan tiivis tämän laillisuusvalvojan kanssa. Se on tiivis yhteistyökumppani, ja
+tieto kulkee sitä kautta. Ja tietysti valiokunta kuulee tarvittaessa niitä tahoja, joita on tar-
+peen kuulla. Keskeinen tehtävä tällä valiokunnalla on myös kiinnittää huomiota siihen, että
+toteutuu se, mitä lainsäätäjä lakia säätäessään on tarkoittanut, ja silloin, kun tarvitsee läh-
+teä muuttamaan, lähdetään muuttamaan.
+
+Tämä on valtavan kokoinen paketti, sisältää valtavasti yksityiskohtia. On luonnollista,
+että pitää seurata myös, onko tähän tehtävä päivityksiä, mutta tässä on hyvät edellytykset,
+kun on suuri yhteisymmärrys siitä, että tätä pakettia tarvitaan. Ja tämähän ei ole vain tätä
+hetkeä varten, ei tätä hallitusta eikä seuraavaa eikä sitä seuraavaa, vaan se on pidemmän ai-
+kavälin asia. Tämän järjestelmän tulee kestää myös murrosajat ja kriisiajat. Se ei saa olla
+poliittisille suhdanteille altis.
+
+Mielestäni tältä pohjalta on hyvä jatkaa.
+
+Puhemies Paula Risikko:  Kiitoksia. — Myönnän seuraavaksi vastauspuheenvuoroja,
+mutta nyt me emme kerkeä ottaa näistä kuin muutaman. En luettele, koska täällä tuli niin
+paljon näitä nimiä. Otan siinä järjestyksessä kuin on varattu. — Edustaja Kasvi aloittaa.
+
+13.49 Jyrki Kasvi vihr (vastauspuheenvuoro): Arvoisa puhemies! On tosiaan mainiota,
+että näistä tiedustelulakien viimeisistäkin yksityiskohdista on löytynyt yksimielisyys. Näin
+tärkeä asia ei saa jäädä politikoinnin jalkoihin. Erityisen tyytyväinen olen tosiaan siitä, että
+tiedusteluvalvonnan merkitys on ymmärretty ja tämä naiivi usko viranomaisiin, joka meil-
+lä on joskus ollut, ei ole enää sokaissut meitä. Jos jotain hyvää tapaus Aarniosta ja ylim-
+män poliisijohdon oikeudenkäynnistä on löydettävissä, niin se on ehkä sitten tämä, että me
+ymmärrämme, että luottamus hyvä, valvonta tarpeen.
+
+Tiedustelua valvomaan luotuja rakenteita voitaisiinkin minun mielestäni käyttää hyväk-
+si myös muualla, missä on vastaavaa toimintaa. Esimerkiksi kun ajatellaan poliisin salaisia
+pakkokeinoja, joiden lainmukaisuutta on vähän kyseenalaistettu välillä, niin siellä voisi
+olla vastaavalle pakkokeinovaltuutetulle tarvetta.
+
+13.50 Markus Mustajärvi vas (vastauspuheenvuoro): Arvoisa puhemies! Omaa maa-
+taan pitää puolustaa kaikin mahdollisin keinoin, ja siihen kuuluu myös parlamentarismi ja
+kansalaisten perusoikeuksien puolustaminen. Nyt löydetty ratkaisu siihen, kuinka mahdol-
+lisesti tiedusteluvalvontavaliokuntaan valittavan kansanedustajan edellytykset toimia teh-
+tävässään tarkistetaan ennen valintaa, on perusteltu. Yhteen väliin näytti siltä, että näitä
+parlamentarismin puolustajia on aika lailla vähän. Valintaprosessi, jossa suojelupoliisi oli-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+si ollut mukana, vaikkakaan ei päättämässä tai lausumassa tulevasta valvojastaan, olisi ol-
+lut perin outo, ja sen on kyllä todennut perustuslakivaliokuntakin. 
+
+Tulevina vuosina näkyy sitten, kuinka tämä valiokunta löytää roolinsa, tehtävärajansa.
+Sillähän on valtavan laaja tiedonsaantioikeus mutta tiukka, ankara salassapitovelvollisuus,
+tiivis yhteistyö tiedusteluvaltuutetun, suojelupoliisin ja sotilastiedustelun kanssa, ja jo se
+asettaa kovat vaatimukset yhteistyölle. 
+
+13.51 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä on valmis-
+tumassa erittäin jyhkeä lakipaketti. Se varmasti vastaa ajan haasteisiin, niin kuin täällä on
+todettu. Samalla on selvää, että tässä annetaan viranomaiselle poikkeuksellisen laajoja val-
+tuuksia puuttua kansalaisten viestin lähettämiseen. Näin ollen, kun näitä kovia valtuuksia
+annetaan, on välttämätöntä, että siihen liittyy myös viranomaistoiminnan valvonta. 
+
+Olen iloinen siitä, että suojelupoliisin osalta on päästy yhteiseen ratkaisuun, jossa koko
+suojelupoliisi tulee normaaliin parlamentaariseen valvontaan. Sitä kautta voidaan luottaa
+siihen, että laitos tekee työnsä tasapuolisesti ja objektiivisesti ja kaikki yhteiskuntapiirit
+voivat olla sen työhön tyytyväisiä. 
+
+Olen hyvin iloinen siitä, että hallituspuolueiden keskuudessa on osoitettu huomattavaa
+kompromissihalua tämän lainsäädäntökokonaisuuden eteenpäin viemisessä. Pyydän yhtyä
+niihin kiitoksiin, joita täällä on lausuttu sekä perustuslakivaliokunnan puheenjohtajalle,
+edustaja Lapintielle että varapuheenjohtaja Töllille, jotka ovat tehneet suuren työn, niin
+että tämä voi olla yksimielisen päätöksenteon kohteena tänään. Se on kunniaksi suomalai-
+selle kansanvallalle.
+
+13.52 Johanna Ojala-Niemelä sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Kä-
+sittelemme tärkeää lakipakettia. Kuten tiedämme, olemme olleet muiden maiden tieduste-
+lutiedon varassa, ja on hyvä, että nyt asia korjaantuu tämän lakiesityksen mukaan. 
+
+Täällä on käyty hyvää analyysiä turvallisuustilanteen heikentymisestä kansainvälisesti.
+Meille on myös ilmennyt tarve varautua Suomen kansallista turvallisuutta uhkaavaan toi-
+mintaan, samoin kuin viestiteknologian nopea kehitys helpottaa niiden tahojen verkostoi-
+tumista ja yhteydenpitoa, jotka muodostavat Suomelle uhan, ja on myös hyvä päästä tähän
+kiinni aikaisempaa paremmin. Myös monenlaisia uusia ilmiöitä on pinnalla: hybridivaikut-
+tamista, kybertoimintaympäristön merkitys kasvaa, terrorismi. 
+
+Valvonta on elimellinen osa tätä lakipakettia, ja on totta, että ilman tehokasta valvontaa
+ei voi lisätä toimivaltuuksia. Kannan huolta myös tiedustelutoiminnan valvonnan vaati-
+mista resursseista. Ne on turvattava sekä laillisuusvalvonnan että parlamentaarisen valvon-
+nan osalta.
+
+13.53 Kimmo Kivelä sin (vastauspuheenvuoro): Puhemies! Minä myös yhdyn niihin kii-
+toksiin, mitä tulee edustajiin Lapintie ja Tölli, ei ainoastaan hoksnokan, vaan myös sellais-
+ten persoonallisten ominaisuuksien vuoksi, mitä heillä, kunnioittamillani edustajilla, on. 
+
+Tämä asia meni hienosti maaliin. Tämä asia on ollut perustuslakivaliokunnalle kypsyys-
+koe, josta se on suoriutunut erinomaisesti. On jaksettu viipyä ajan kanssa tämän asian ää-
+rellä ja saatiin aikaiseksi yksimielinen mietintöluonnos. Yhteiskunnan kannalta fundamen-
+taalien asioiden äärellä ei ole syytä leikkimiseen ja sooloiluun, ja siihen ei perustuslakiva-
+liokunta todellakaan millään muotoa syyllistynyt, päinvastoin. Keskustelimme todellakin
+näistä resurssikysymyksistä. Asiantuntijavaiheessa oli osittain epäselvää, miten esimerkik-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+si sijaisuusjärjestelyt hoidetaan, mutta tämäkin asia tuli selväksi: se tulee sitten aikanaan
+määritellyksi valtuutetun viran johtosäännössä.
+
+13.55 Peter Östman kd (vastauspuheenvuoro): Arvoisa rouva puhemies! KD:n eduskun-
+taryhmä on useampaan otteeseen ilmaissut tukensa lakiesityksen viemiseksi maaliin mah-
+dollisimman nopeasti, koska olemme pitkään olleet, niin kuin olemme kuulleet, muita län-
+simaita jäljessä nimenomaan tiedustelulainsäädännön osalta.
+
+Suomalaisen turvallisuuden takaamiseksi on viranomaisilla oltava käytössään työkalu-
+pakki, jonka avulla ei jouduta hapuilemaan pimeässä. Nyt viranomaiset ovat saaneet tar-
+vittavat työkalut. 
+
+Olen iloinen myös siitä, että kaikki eduskuntaryhmät — kiitos vielä kerran edustaja Töl-
+lille hänen neuvottelutaidoistaan — pääsivät yhteisymmärrykseen ja vielä niin, että myös
+perustuslakivaliokunta muutamien korjauksien jälkeen sai mietintönsä nopeasti valmiiksi. 
+
+Tämä laki on tarkoitettu toimimaan kaikkien suomalaisten puolesta, ei ketään suoma-
+laista vastaan.
+
+13.56 Kaj Turunen kok (vastauspuheenvuoro): Arvoisa puhemies! Menettelytapa tie-
+dusteluvalvontavaliokunnan jäseneksi hakeutuvan edustajan kohdalla on vielä kuitenkin
+pikkuisen epäselvä tässä uudessa systeemissä, jonka perustuslakivaliokunta muotoili. Käy-
+tännössähän tämä menee niin, että edustaja, joka haluaa jäseneksi valiokuntaan, ottaa itse
+yhteyttä tietosuojavaltuutettuun ja tietosuojavaltuutettu sitten katsoo toiminnallisen tieto-
+rekisterin suposta. Tämän jälkeen edustaja sitten keskustelee tietosuojavaltuutetun kanssa,
+ja edustajalla on mahdollisuus tässä yhteydessä tehdä myöskin omat johtopäätöksensä sii-
+tä, jatkaako hakeutumistaan. Minun mielestäni menettelytapa on oikein hyvä, ja tässä kan-
+nattaa muistaa se, että joka tapauksessa eduskuntaryhmät valitsevat ehdokkaat tähän tie-
+dusteluvalvontavaliokuntaan ja loppupelissä sitten täysistunto vahvistaa nämä jäsenyydet.
+Tämä menettelytapa on hyvä.
+
+13.57 Leena Meri ps (vastauspuheenvuoro): Arvoisa puhemies! Perustuslakivaliokun-
+nan jäsenenä kiitän tässä nyt ihan kaikkia, ketkä ovat olleet tässä työssä mukana. Kaikkien
+panos on ollut merkittävää. 
+
+On hyvä huomata täällä — tämä kiinnosti erityisesti mediaa ja kansalaisia — miten tämä
+kansanedustajien turvallisuusselvitys tulee menemään, ja nyt se on tosiaan tämmöinen tar-
+kastus. Ja on hyvä huomata täältä perusteluista, että ensin se tieto annetaan kansanedusta-
+jalle itselleen elikkä siinä voi sitten vielä pysähtyä miettimään omaa luottamustansa. Mut-
+ta luottamus on hyvä. 
+
+Täällä oli vertauskuva myös rangaistustarpeeseen: Elikkä niiden muutaman ihmisen,
+jotka sitten saavat tietää niistä asioista, on hyvä huomata, että rikoslaissa on tieto- ja vies-
+tintärikoksena tuomittava tämä salassapidon rikkominen. Tiedämme, että poliitikoilla on
+välillä tapana vuotaa, elikkä myös heitä voi sitten odottaa rangaistussäännös, jos menee toi-
+sista tämmöisiä kertomaan. 
+
+Tämän ohella me emme kuitenkaan saa unohtaa hallittua maahanmuuttopolitiikkaa ja
+rajavalvontaa, niin että tiedämme, keitä kansalaisia täällä on. Meillä on nyt yksi lisätyöka-
+lu valvontaan, mutta emme saa unohtaa sitäkään.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+13.58 Anna-Maja Henriksson r (vastauspuheenvuoro): Värderade talman, arvoisa puhe-
+mies! För det första vill jag säga att det är ett oerhört gott betyg för riksdagen att vi tillsam-
+mans nu har kunnat komma så här långt, och det ska vi vara glada över. Men jag skulle ock-
+så vilja påpeka att det skulle vara skäl att läsa grundlagsutskottets utlåtande mycket noga
+både när det gäller resurserna till den nya tjänsten, det vill säga till underrättelsetillsynsom-
+budsmannen och hans byrå, och också till domstolarna.
+
+Arvoisa puhemies! Tässä on paljon hyvää työtä tehty, ja varmasti kaikki tässä salissa ovat
+omalla tavallaan myötävaikuttaneet siihen, että me nyt luomme historiaa ja pystymme saa-
+maan aikaiseksi lainsäädännön, joka on ajan tasalla myös mitä tulee tiedusteluvalvontaan
+ja valvonnan valvontaan. Se on erittäin tärkeätä demokratiassa.
+
+Arvoisa puhemies! Kiinnittäisin vielä huomiota näihin resurssitarpeisiin sekä tieduste-
+luvalvontavaltuutetun toimistolle että myös tuomioistuimille, ja toivon, että nyt [Puhemies
+koputtaa] jatkokäsittelyssä luetaan tarkasti, mitä mieltä perustuslakivaliokunta on ollut
+näissä kaikissa asioissa.
+
+Ja sitten viimeisenä asiana huomautan myös, että perustuslakivaliokunta on pitänyt erit-
+täin tarpeellisena [Puhemies koputtaa] sitä, että eduskuntaryhmät ovat laajasti edustettuina
+tiedusteluvalvontavaliokunnassa.
+
+Puhemies Paula Risikko: Otetaan vielä kolme vastauspuheenvuoroa: edustajat Lohi, Par-
+viainen Olli-Poika ja lopuksi valiokunnan puheenjohtaja, edustaja Lapintie.
+
+14.00 Markus Lohi kesk (vastauspuheenvuoro): Arvoisa puhemies! Tässä on käytetty
+erinomaisia puheenvuoroja ja kiitetty aiheestakin paitsi parlamentaarista työtä myös niitä,
+jotka ovat vastuuta kantaneet, niin että kompromissit syntyvät. Haluan itsekin lausua kyllä
+kiitoksen heille.
+
+Kun puhutaan näistä asioista, ei pelkästään nyt käsittelyssä olevasta valvontalaista tai
+eduskunnan työjärjestyksen muuttamisesta vaan tästä koko tiedustelulakikokonaisuudes-
+ta, on valtavan tärkeää se, että täällä eduskunnassa on ensinnäkin löytynyt laaja yksimieli-
+syys siitä, että nämä ovat tarpeellisia, mutta varsinkin siitä, minkä sisältöisinä nämä voi-
+daan hyväksyä. Minusta tämä on erinomainen esimerkki siitä, että silloin kun ollaan kan-
+sakuntaamme koskevissa perusasioissa liikkeellä, niin kyllä tästä talosta voi löytyä myös
+yksituumaisuutta. Nyt meillä on siitä erinomainen esimerkki, ja toivon, että varmasti jat-
+kossakin näin olisi.
+
+14.01 Olli-Poika Parviainen vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Tie-
+dustelun valvonnan asianmukainen ja laaja järjestäminen on välttämätöntä, ja nyt niin ol-
+laan tekemässä, hyvä niin. 
+
+Tiedusteluvalvontavaltuutetun rooli tulee korostumaan jatkossa, ja meille vihreille on
+erityisen tärkeää, että valtuutettua valittaessa kiinnitetään huomiota esimerkiksi ihmisoi-
+keus- ja perusoikeusosaamiseen, koska valtuutetun työssä ja tiedustelutoiminnassa ylipää-
+tään korostuu esimerkiksi kansainvälinen tietojenvaihto ja sen valvonta. 
+
+On myös tärkeää, että suojelupoliisi saadaan kokonaan parlamentaarisen valvonnan pii-
+riin. 
+14
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+Tämä on erittäin tervetullut uudistus, ja vihreät ovat tyytyväisiä siihen, että tähän kes-
+kusteluun laajasta turvallisuusselvityksestä on nyt löydetty sellainen ratkaisu, johon kaikki
+eduskuntaryhmät ilmeisesti voivat sitoutua.
+
+14.02 Annika Lapintie vas (vastauspuheenvuoro): Rouva puhemies! Ehkä tämän debat-
+tiosuuden lopuksi voisin todeta, että on hyvä muistaa, että tämä liittyy laajaan tiedustelu-
+lainsäädäntökokonaisuuteen, jonka valmisteluun ovat ottaneet osaa lukuisat virkamiehet ja
+myös lukuisat kansanedustajat, niin kuin tässä on puhuttu. Sen jälkeen, kun täysistunto
+suurella enemmistöllä totesi, että perustuslain muuttaminen on kiireellinen, perustuslaki-
+valiokunta ja myös muut valiokunnat sekä virkamiehistö ovat tätä kiireellisenä valmistel-
+leet, ja jotta tämä siviili- ja sotilastiedustelulainsäädännön sisältö voi edetä, niin perustus-
+lakivaliokunta silloin totesi, että sen edellytyksenä on, että valvonta on kunnossa. Nyt näi-
+den kahden mietinnön osalta laillisuusvalvonta ja parlamentaarinen valvonta tulevat kun-
+toon, jotta asia voi edetä vielä tämän vaalikauden aikana.
+
+Puhemies Paula Risikko: Nyt ovat kaikki ryhmät saaneet vastauspuheenvuoron, ja jou-
+dumme tässä vaiheessa keskeyttämään, eli keskustelu ja asian käsittely keskeytetään.
+Asian käsittelyä jatketaan tässä istunnossa pääluokan 23 yleiskeskustelun päätyttyä.
+
+Keskustelu keskeytettiin kello 14.03.
+
+————
+
+Keskustelua jatkettiin kello 00.02.
+
+Toinen varapuhemies Tuula Haatainen: Nyt jatketaan aiemmin tässä täysistunnossa
+keskeytetyn asiakohdan 3 käsittelyä.
+
+0.03 Eerikki Viljanen kesk: Arvoisa puhemies! Tässä ehdotetaan säädettäväksi laki tie-
+dustelutoiminnan valvonnasta. Uudella lailla järjestetään siviili- ja sotilastiedustelun lailli-
+suusvalvonta sekä säädetään eräistä parlamentaarisen valvonnan yksityiskohdista.
+
+Arvoisa puhemies! Yksikään meistä ei varmasti väheksy tehtäväämme kansalaisten tur-
+vallisuuden puolustajina ja turvaajina. Tämän lakipaketin valmistelu ja käsittely on osoit-
+tanut sen, että kansallisen turvallisuuden asioissa on löydettävissä yksimielisyys, vaikka
+erilaisia painotuksia asioissa eri puolueilla onkin. Näiden painotusten huomioimisesta,
+huomioon ottamisesta ja ehdotusten muotoilemisesta niin, että niiden taakse on saatu mah-
+dollisimman laaja kattavuus, yksimielisyys, haluan kiittää vastuullisia niin valmistelun
+kuin eduskuntatyönkin osalta: sekä parlamentaarista työryhmää että eduskunnan valiokun-
+nassa tätä käsitelleitä.
+
+Kuten monet täällä jo aiemmin tänään totesivat ja kiittivät, minäkin haluan lausua eri-
+tyiskiitokset edustaja Töllille ja edustaja Lapintielle erittäin merkittävästä konsensushakui-
+sesta työstä, jonka he tämän eteen ovat tehneet. Tämän kokonaisuuden eteneminen, yksi-
+mielisen päätöksen aikaansaaminen hankalasta asiakokonaisuudesta, osoittaa, että tässä ta-
+lossa kyllä kyetään yhteistyöhön kansalaisten parhaaksi.
+15
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+0.05 Pertti Hakanen kesk: Arvoisa rouva puhemies! Liittyen tähän tiedustelutoiminnan
+valvonnan lainsäädäntöön, jota parlamentaarisesti on valmisteltu, myöskin minä haluan
+heti alussa kiittää edustaja Tölliä ja edustaja Lapintietä siitä johtajuudesta, siitä arvokkuu-
+desta, siitä neuvottelutaitoisuudesta, millä tavalla tämä on viety eteenpäin. Kuten edustaja
+Viljanen äsken totesi, se on myös hyvä osoitus siitä, että tällaisen ison, laajan, herkänkin
+asian äärelle löytyy täältä talosta Suomen kansan puolelle yksimielisyys, hyvä järjestel-
+mällisyys ja myöskin oikealla tavalla painopistettä siihen, jotta me voimme myöskin läh-
+teä tätä toimintaa harjoittamaan.
+
+Ehkä yksi sellainen asia, joka siinä pitkäänkin puhututti — ja varmaan se täällä kaikilla
+meilläkin vielä mielessä on — oli tämä edustajan valinta tähän kyseiseen valiokuntaan.
+Minä toivon, että tämä ratkaisu, mihin tässä nyt päädyttiin, on sellainen, että me voimme
+oikeasti myöskin sitten tämän valiokunnan työskentelyä riittävän laajasti hoitaa, niin ettei
+tämä millään tavalla tule sitten rajoittamaan sen valiokunnan tiedonsaantia. Me jokainen
+kuitenkin ymmärrämme sen, mitä me tällä tavoittelemme, mihin me tällä pyrimme. Me py-
+rimme siihen, että Suomen kansan turvallisuustilanne entisestään parantuu ja voimme tur-
+vata sen, että me olemme aina askeleen edellä, kun jotakin sellaista tiedustelutietoa meille
+on saatavilla, joka sitten myöskin rajoittaa meidän turvallisuutta. Elikkä minä toivon, että
+tämä menettely, missä nyt päädyttiin edustajat nimeämään tähän valiokuntaan, ei tiedon-
+saantia millään tavalla rajoita.
+
+0.07 Toimi Kankaanniemi ps: Arvoisa rouva puhemies! Valiokuntien työ ansaitsee kii-
+toksen. Sisällön osalta ei ole minulla huomauttamista, ja minä myös yhdyn niihin kiitok-
+siin, mitä täällä on esitetty näille edustajille, jotka ovat hyvän työpanoksen tehneet.
+
+Haluan tässä yhteydessä nostaa esille tämän valmistelutavan ja pidän sitä erittäin hyvä-
+nä. Tällaisissa laadultaan vaikeissa tai laajuudeltaan suurissa asioissa tämä parlamentaari-
+nen valmistelu, on se sitten komitea tai tällainen työryhmätyyppinen, on kyllä paikallaan,
+ja saattaa olla, että tämäkin hanke sai yksimielisen ratkaisun sen tähden, että tässä oli par-
+lamentaarinen valmistelu, jolloin kaikki eduskuntapuolueet ovat siinä olleet mukana.
+Kaikki ovat saaneet oikeat perustiedot asiasta, kaikki ovat päässeet vaikuttamaan asiaan.
+Keskustelun taso vaikeassa asiassa on näin noussut sekä täällä eduskunnassa, julkisuudes-
+sa että kansalaistenkin keskuudessa, ja kansan luottamus tällä tavalla koko meidän lainsää-
+däntöjärjestelmäämme on, uskoisin, vahvistunut, kun nähdään, että näin voidaan vaikeita
+asioita viedä eteenpäin sovussa ja hyvän lopputuloksen etsimisen hengessä. Nyt voidaan
+todeta, että tämä lopputulos on varsin hyvä. Siitä siis lämmin kiitos. Nyt onkin aika vedota
+siihen, että seuraava hallitus nykyistä ja edellisiä tehokkaammin ja määrätietoisemmin
+käyttää tällaista parlamentaarista valmistelua näissä laajoissa asioissa. Jospa sotekin olisi
+valmisteltu tällä tavalla, niin meillä olisi se jo varmasti pitkällä. Nyt kun edessä on sotu,
+niin sen valmistelu olisi viisasta tehdä tällä tavalla eli ottaa kaikki mukaan ja hankkia kai-
+kille vaikuttamis- ja tiedonsaantimahdollisuudet sellaisessa työryhmässä tai komiteassa,
+jossa asiantuntijoita kuullaan ja voidaan asioista perusteellisesti keskustella.
+
+Arvoisa puhemies! Kun tiedustelulainsäädäntö osiltaan koskettaa myös nykyistä kyber-
+toiminnan, datan ja muun tällaisen toiminnan käsittelyä yhteiskunnassa, niin uudistan sen
+ajatuksen, minkä olen jo kyllä vuosia sitten täällä sanonut, että olisi hyvä, jos meillä olisi
+hallituksessa tietoyhteiskuntaministeri, jolla olisi koko tämä sektori hallussa poliittisesti,
+vastuullisesti ja näin poikkihallinnollisesti. Niin valtio kuin kunnatkin ovat satoja miljoo-
+nia hukanneet — voi sanoa, että hukanneet — rahaa, kun ovat näitä tietoyhteiskuntahank-
+16
+
+
+
+Pöytäkirjan asiakohta PTK 132/2018 vp
+keita vieneet eteenpäin, ja nyt olisi viimeinen aika ottaa se tilanne haltuun ja hoitaa tällä ta-
+valla vastuullisesti. Ehkäpä, jos vihreät nousevat hallitukseen, edustaja Kasvi olisi tälle mi-
+nisterin paikalle mitä parhain henkilö. [Naurua — Vasemmalta: No niin!]
+
+0.11 Sirpa Paatero sd: Arvoisa rouva puhemies! On todellakin hyvä, että ollaan tässä vai-
+heessa. Nyt ollaan hieman yli puolenvälin tässä koko tiedustelulakipaketissa. Tämä alkoi
+siitä 10 §:n muutoksesta, elikkä hyvin poikkeuksellisella tavalla koko eduskunta, tai siis
+viisi kuudesosaa eduskunnasta, oli sitä mieltä, että turvallisuustilanne on muuttunut niin
+paljon, että joudumme tekemään, tai saamme tehdä, tämän muutoksen myöskin hieman pe-
+rusoikeuksia muuttaen, [Eva Biaudet: Pakottava tarve edellytettiin!] ihmisten yksityisyy-
+densuojaan kajoten. Se on kyllä mielestäni se tämän koko paketin suurin muutos, että läh-
+detään muuttamaan perustuslakia tältä osin.
+
+Nyt sitten on nämä kaksi lakia, joissa on kyseessä siis valvonta, sekä parlamentaarinen
+valvonta että laillisuusvalvonta. Vielä pitkälle ensi vuoteen menee varsinaisten lakien elik-
+kä sotilas- sekä siviilitiedustelulain käsittely täällä eduskuntasalissa. Mutta kuten tässä
+edellisissä puheenvuoroissa on todettu, minä myöskin toivon, että ne menevät samalla ta-
+valla yhteisessä ymmärryksessä ja pystymme ne muutokset, jotka sinne mahdollisesti vie-
+lä tarvitaan, sitten tekemään tämän seurantaryhmän avustuksella.
+
+Laillisuusvalvonnassahan tiedusteluvaltuutettu muutettiin tiedusteluvalvontavaltuutet-
+tu-nimikkeeksi ja myöskin valiokunnan nimi muutettiin, elikkä haluttiin painottaa sitä val-
+vontaa siinä. Ja hyvä muutos oli tässä vaiheessa se, että myöskin saatiin tälle valtuutetulle
+puhe- ja läsnäolo-oikeus oikeudessa, kun käsitellään sitä, saako tämän maksimissaan puo-
+len vuoden mahdollisuuden tähän teletiedusteluun tehdä.
+
+Toinen hyvä muutos oli siinä kohtaa, kun siirryttiin parlamentaarisen valvonnan puolel-
+le, jossa supo tuli kokonaan tämän parlamentaarisen valvonnan piiriin, ei pelkästään siltä
+osin, milloin se tekee tiedustelutoimintaa, vaan kokonaisuudessaan. Monessa valiokunnas-
+sa on todettu, että esimerkiksi varsinainen pakkokeinolakeihin lukeutuva telekuuntelu ja
+tämä tiedustelun kautta tehtävä telekuuntelu menevät joskus aika lailla limittäin, ja voi ol-
+la, että siirrytään toisesta toiseen, jomminkummin päin. Sen takia on todella hyvä, että
+tämä parlamentaarinen valvonta toteutuu koko supon toimintaan.
+
+Sitten viimeisenä oli tämä kiistanalainen asia, laaja turvallisuusselvitys. Todellakin laa-
+jasti Euroopan maissa on olemassa samalla tavalla tämmöinen parlamentaarinen valvonta
+elikkä oma valiokunta, mutta vain kahdessa näistä yli kymmenestä on tämmöisiä laajoja
+turvallisuusselvityksiä, minkä takia minun mielestäni oli erittäin hyvä myöskin, että se toi-
+mija, jota tämä valiokunta valvoo, ei tee sitä kriteeristöä, millä sinne sisään päästään. Täs-
+sä on erittäin hyvä ja luova vaihtoehto tullut tästä tietosuojavaltuutetusta, joka jo nykyisin-
+kin pääsee niihin rekistereihin valvoessaan kaikkia rekistereitä.
+
+Yksi asia vielä, arvoisa puhemies: Vahva seuranta on kirjoitettava näihin kaikkiin lakei-
+hin. [Puhemies: Aika!] Koska tehdään täysin uutta lainsäädäntöä, tarvitaan vahva ja laaja
+seuranta.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 199/2017 vp sisältyvien 1.—2. lakiehdo-
+tuksen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+17
+
+

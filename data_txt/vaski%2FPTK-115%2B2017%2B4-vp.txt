@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM2F24.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 115/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 115/2017 vp
+
+Täysistunto
+
+Torstai 9.11.2017 klo 16.00—18.49
+
+4. Hallituksen esitys eduskunnalle laeiksi sijoituspalvelulain muuttamisesta ja kaupan-
+käynnistä rahoitusvälineillä sekä eräiksi niihin liittyviksi laeiksi
+
+Hallituksen esitys HE 151/2017 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 4. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokun-
+taan.
+
+Keskustelu
+
+17.46 Valtiovarainministeri Petteri Orpo (esittelypuheenvuoro): Arvoisa herra puhe-
+mies! Tämä on tärkeä asia, ja siksi käytän tästä hieman pidemmän esittelypuheenvuoron eli
+esittelen eduskunnan käsiteltäväksi hallituksen esityksen laeiksi sijoituspalvelulain muut-
+tamisesta ja kaupankäynnistä rahoitusvälineillä sekä eräiksi niihin liittyviksi laeiksi.
+
+Tässä on taustalla rahoitusvälineiden markkinoita koskeva EU-direktiivi ja -asetus.
+Tämä on nimeltään MiFID II, jolla sen monet tuntevat. Tätä on valmisteltu ministeriössä jo
+usean vuoden ajan, ja tässä on taustalla laaja lausuntokierros. Se on hyvin herkkä asia, ja
+siksi tämä on vaatinut perusteellisen valmistelun. Tavoitteena on vahvistaa sijoituspalve-
+luiden tarjoamiseen liittyvää sijoittajansuojaa, lisätä markkinoiden läpinäkyvyyttä ja kiris-
+tää sijoituspalvelurikkomusten seuraamuksia. Eli sääntely kiristyy tällä toimialalla monin
+osin hyvinkin merkittävällä tavalla.
+
+Direktiiviin sisältyy kansallisena optiona myös mahdollisuus olla soveltamatta direktii-
+vin säännöksiä täysimääräisesti tiettyjä sijoituspalveluita tarjoaviin toimijoihin. Kyseinen
+mahdollisuus koskee muun muassa sellaisia toimijoita, jotka tarjoavat ainoastaan toimek-
+siantojen vastaanottamista ja välittämistä siirtokelpoisilla arvopapereilla tai tarjoavat ky-
+seisiin rahoitusvälineisiin liittyvää sijoitusneuvontaa. On tärkeää korostaa, että tämä ehdo-
+tettu kevyempi toimilupa rajaa hyvin tarkasti toimijalle sallitun toiminnan. Toimijalla on
+oltava kaikessa toiminnassaan Finanssivalvonnan toimilupa, eikä toimija saa pitää hallus-
+saan asiakasvaroja. Nämä rajoitteet, joita toimijalle asetetaan, ovat hyvin vankkoja, ja mei-
+dän arviomme mukaan se käytännössä vähentää monen toimijan halukkuutta siirtyä tähän
+kevyempään toimilupaan, ja haluan korostaa vielä sitä, että näidenkin toimijoiden on nou-
+datettava useita keskeisiä sijoittajansuoja- ja menettelytapatavoitteita mutta ilman direktii-
+vin säännösten täysimääräistä soveltamista.
+
+Tämä kevennetty sääntelymalli ja sen mukainen jäsenvaltio-optio on esityksessä haluttu
+ottaa kansallisesti täysimääräisesti käyttöön. Eli tämän ehdotuksen tarkoitus on näin edis-
+tää sitä, että pienemmät toimijat pääsisivät mahdollisimman hyvin markkinoille, eli mata-
+lampi kynnys, ja tämä olisi samalla omiaan lisäämään kilpailua rahoitusmarkkinoilla esi-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 115/2017 vp
+merkiksi sijoitusneuvonnan tarjoamisessa, mikä on varmasti kuluttajan ja sijoittajan etu.
+Kuitenkin tämä toimilupavaatimus, joka asetetaan, ja tiettyjen keskeisten sijoittajansuoja-
+säännösten soveltaminen turvaavat sen, että kyseistä toimintaa kyetään riittävän tehok-
+kaasti valvomaan. Eli esimerkiksi viranomaisten mahdollisesti määräämät seuraamusmak-
+sut mahdollisista puutteista ovat yhtä ankarat toimijalle riippumatta siitä, millaisella toimi-
+luvalla toimintaa harjoittaa, eli jos on kevyemmän piirissä, niin samat sanktiot, seuraamuk-
+set, kuin sillä varsinaisella toimiluvalla toimiville. Tämä on erittäin tärkeä huomio niille,
+jotka ovat huolissaan tästä valvonnasta ja toiminnasta.
+
+Eli tätä kevennettyä mallia voivat edelleen hyödyntää myös sijoitusmuotoisen joukko-
+rahoituksen välittäjät, joilla ei vielä ole sijoituspalveluyrityksen tai luottolaitoksen toimi-
+lupaa. Nykyisessä joukkorahoituslaissa tarkoitettuja rekisteröityjä sijoitusmuotoisen jouk-
+korahoituksen välittäjiä ei ole vielä tullut Suomen markkinoille. Rekisteröitymistäkin on
+hakenut ainoastaan muutama toimija, ja tämä taas on johtanut siihen, että sijoitusmuotoista
+joukkorahoitusta välittävät näin oikeastaan nykyisin vain toimiluvalliset pankit ja sijoitus-
+palveluyritykset. Tämä nykyinen olotila eli nykyinen joukkorahoituslaki on aiheuttanut
+markkinaosapuolille ja Finanssivalvonnalle epäselvyyksiä ja soveltamisongelmia, eli siksi
+myös Finanssivalvonta on ollut hyvin aktiivinen siinä, että tämä lainsäädäntö pitää selkeyt-
+tää, ja tällä selkeyttämisellä pyritäänkin nyt parantamaan markkinoiden toimivuutta ja li-
+säämään toimijoiden ja osapuolten oikeusvarmuutta ja samalla taataan se, että meidän lain-
+säädäntö on tältäkin osin EU-oikeuden ja -lainsäädännön mukainen.
+
+Tällä, että meillä on luotettava joukkorahoitusmarkkina, pyritään tietysti edistämään
+myös ulkomaisten sijoitusten ohjautumista suomalaisille joukkorahoitusmarkkinoille ja
+näin edistämään erityisesti kotimaisten pk-yritysten rahoituksen saantia. Tässä on ollut
+erittäin vaikea tehtävä, koska on pitänyt löytää tässä herkässä tilanteessa tasapaino vahvan
+sijoittajansuojan ja sitten taas markkinoiden toimivuuden kanssa, eli mitä enemmän regu-
+laatiota, sitä enemmän on huolta markkinoilla, mutta sitten taas toisaalta halutaan turvata
+toimijoiden suoja, sijoittajansuoja. Erityisesti pienten ja keskisuurten yritysten osalta tämä
+markkinoiden toimivuus ja regulaation vahvuus ovat oleellinen kysymys, koska meidän ta-
+voite on saada markkinoille yhä enemmän myös pieniä toimijoita, esimerkiksi riippumat-
+toman sijoitusneuvonnan tarjoajia, tai toisaalta ehkäistä myös kasvuvaiheessa olevien
+nuorten joukkorahoitusmarkkinoiden tyrehtymistä ylisääntelyn vuoksi. Tämä on siis näh-
+ty pk-yritysten kannalta, ja tästä olen käynyt useiden edustajien kanssa keskusteluja ja us-
+kon, että huolet joukkorahoitusmarkkinoiden tyrehtymisestä tai kehittymisen pysähtymi-
+sestä on nyt onneksi varmasti pyyhitty pois.
+
+Mutta sitten se toinen huoli eli kevyempään sääntelymalliin tai sen sallimiseen sisälty-
+vät haasteet, niin siinä pidän merkittävänä, että lainsäädäntö tuo nyt tiukemmat pelisään-
+nöt toimijoille ja valvovalle viranomaiselle hyvät edellytykset tämän valvontatehtävän hoi-
+tamiseen. Ja haluan korostaa sitä, että koska tämä herättää jo paljon erilaisia ajatuksia, nä-
+kökulmia, niin valtiovarainministeriö seuraa tarkkaan tämän lain toteutumista ja myöskin
+joukkorahoitusmarkkinoiden kehittymistä, ja mikäli toiminnassa huomataan tarpeita muu-
+toksille, niin ne ilman muuta sitten tehdään.
+
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan.
+2
+
+

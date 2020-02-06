@@ -1,0 +1,1290 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM10C1.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 138/2018 vp
+
+Täysistunto
+
+Keskiviikko 9.1.2019 klo 14.06—19.54
+
+8. Hallituksen esitys eduskunnalle laiksi terveydenhuoltolain muuttamisesta
+Hallituksen esitys HE 312/2018 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 8. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään sosiaali- ja ter-
+veysvaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+16.54 Perhe- ja peruspalveluministeri Annika Saarikko (esittelypuheenvuoro): Arvoi-
+sa puhemies! Nyt siirrymme kolmanteen merkittävään esityskokonaisuuteen, ja olen iloi-
+nen siitä, että tämä lähetekeskustelu mahdollistaa nyt ehkä hieman pidemmän avaamisen
+siitä, mistä esityksessä on kysymys, koska olen havainnut, että julkisuudessa tämä on eh-
+ditty jo tuomita monilta tahoilta moneen otteeseen.
+
+Tämä esitys liittyy vuonna 2017 eduskunnassa hyväksyttyyn sosiaali- ja terveydenhuol-
+lon päivystystoiminnan uudistukseen ja siihen isoon kokonaisuuteen, jossa erikoissairaan-
+hoidon työnjako Suomessa on muutettu siten, että oikeastaan voi todeta, että yksikään sai-
+raala ei ole roolinsa ja tehtäviensä osalta ennallaan, ei pienin aluesairaala eikä suurin sai-
+raanhoitopiiri, HUS, sairaaloineen.
+
+Tämä esitys mahdollistaa sen, että anestesia- ja leikkaussaliolosuhteita edellyttävää kii-
+reetöntä leikkaustoimintaa — siis sellaista, jossa potilas nukutetaan — tai yleisanestesiaa
+edellyttäviä muita kiireettömiä toimenpiteitä voidaan tehdä myös sellaisessa toimintayksi-
+kössä, jossa ei ole ympärivuorokautista yhteispäivystystä, tietyin, tarkoin reunaehdoin.
+Osana päivystystoiminnan ja erikoissairaanhoidon työnjaon uudistusta säädettiin tervey-
+denhuoltolakiin velvoite, jonka mukaan leikkaustoiminta, joka edellyttää leikkaussaliolo-
+suhteita ja anestesiaa, tulee koota sellaisiin sairaaloihin, joissa on ympärivuorokautinen
+päivystys sekä perusterveydenhuollosta että erikoissairaanhoidosta. Nyt tällä muutoksella
+tehdään tähän tietynlainen väljennys, mutta toisaalta tässä esityksessä säädetään myös niis-
+tä edellytyksistä, joiden tulee ehdottomasti täyttyä.
+
+Tämän esityksen keskeisin motivaatiotekijä liittyy siihen, että 2017 voimaan tulleen
+säännöksen myötä muodostui epäselvä tulkintatilanne siitä, miten säännökset koskevat jul-
+kisella rahalla yksityiseltä palvelutuotannolta ostettuja leikkausoperaatioita, joissa ihmi-
+nen nukutetaan. Näiden volyymi ja määrä ei ole erityisen suuri, mutta ne toimivat tietyissä
+sairaanhoitopiireissä tällä hetkellä esimerkiksi merkittävänä ruuhkan purkuna tai tietyn
+leikkausoperaatiotyypin ostamisena palveluseteleillä tai muilla keinoin ulkopuoliselta, yk-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+sityiseltä toimijalta. Osaltaan epäselvään tilanteeseen ovat eri puolilla Suomea ajautuneet
+myös sellaiset kokonaan yksityiselle terveydenhuollolle annetut sairaalayksiköt, joissa sai-
+raanhoitopiiri on siirtänyt tehtävien käytännön toteutuksen yksityiselle, mutta edelleen on
+toimittu julkisella rahalla.
+
+Siksi tämän säännöksen on nyt tarkoitus tuoda selvennys siitä, että yksityinen ja julki-
+nen palveluntuottaja on lähtökohtaisesti velvoitettu samanlaisiin kriteereihin, samanlai-
+seen toiminnan laatuvelvoitteeseen, ja lähtökohtana on jatkossakin, tämän uudistuksen jäl-
+keenkin, pitää kiinni siitä isosta tavoitteesta, että Suomessa leikkaustoiminta, sittenkin hy-
+vin pienenä, mutta toki tärkeänä osana terveydenhuoltoa ja erikoissairaanhoitoa, on sään-
+neltyä ja lailla rajataan, missä kaikkialla minkäkinlaisia leikkauksia voidaan tehdä. Tämä
+keskustelu rajautuu nyt siis sellaisiin operaatioihin, jotka ovat leikkausoperaatioita nuku-
+tuksella, ei koko erikoissairaanhoitoon, ei kaikkiin sairaaloihin, saati koko soten äärellä
+oleviin ratkaisuihin.
+
+Arvoisa puhemies! Tämän kokonaisuuden tavoitteena on varmistaa potilasturvallisuu-
+den ja laadun säilyminen leikkaavissa yksiköissä niin, että potilaan kannalta riippumatta
+siitä, osoittaako sairaanhoitopiiri tai tulevaisuudessa maakunta hänelle leikkauspaikaksi
+yksityisen vai julkisen sairaalan, hän voi tietää, että niitä kohdellaan laadun kriteerien osal-
+ta samalla tavalla.
+
+Mitä tulee sitten tähän paljon keskustelua herättäneeseen huomioon siitä, onko tämän
+esityksen myötä hallitus luomassa erilliskaistan tai helpotetun aseman yksityiselle tervey-
+denhuollolle. Tämän käsityksen haluan ehdottomasti oikoa. Tämän esityksen myötä sellai-
+nen sairaala, jonka maantieteellinen matka yksikköön, käytännössä julkiseen keskussaira-
+laan, jossa on tehohoito- ja päivystysyksikkö, on alle 30 minuuttia, voi toteuttaa leikka-
+usoperaatioita, koska potilasturvallisuuden nimissä on arvioitu, että se on matka, joka voi-
+daan säilyttää riittävän inhimillisenä esimerkiksi ihmishengen pelastamisen näkökulmas-
+ta. Mutta jos tuo yksikkö on yksityinen, sen ei siis tarvitse perustaa omaa päivystyspalve-
+lua ja teho-osastoa, sellaiseen eivät resurssit riittäisi, eivät myöskään lääkäriosaajat. Mutta
+myöskin julkinen yksikkö, joka on erillinen — vaikkapa Helsingissä tai Tampereella —
+siitä sairaalan kuumimmasta teho-osastoyksiköstä, on tämän jälkeen varmasti lainmukai-
+nen, eikä erillisyksikkö, joka tietyllä tavalla nyt on sääntelyn osalta eriskummallisessa ti-
+lanteessa, kun laki toteaa, että samoissa tiloissa sairaalassa on oltava yhteispäivystys ja te-
+hohoito, vaikkakin leikkausoperaatioita siellä toteutettaisiin.
+
+Arvoisa puhemies! Tämän esityksen tarkoituksena on nyt siis varmistaa se, että yksityi-
+sen leikkaustoiminnan mahdollisuuksia siinä tilanteessa, jos sairaanhoitopiiri itse niin
+päättää, kuten tällä hetkellä moni sairaanhoitopiiri on pienivolyymillisesti päättänyt, voi
+jatkossakin hyödyntää, jos sairaanhoitopiiri itse niin katsoo tarpeelliseksi. Silloin tästä
+ikään kuin tietynlaisesta puskurista ja lisäkapasiteetista ja sen järjestelmästä kantaa talou-
+dellisesti vastuun yksityinen palvelutuottaja, joka nojaa julkisesti järjestetyn palvelun luot-
+tamushenkilöiden päätökseen siitä, halutaanko yksityiseltä ostaa palveluita vai ei. Pääidea
+on joka tapauksessa se, että sääntely esimerkiksi siitä, kuinka paljon tiettyjä leikkauksia tu-
+lee toteuttaa, on molemmille yhtäläinen oikeutus.
+
+Myöhemmin asetuksella tullaan, arvoisa puhemies, määrittämään tarkemmin leikkaus-
+toiminnan edellytyksistä, kuten vaikkapa tuosta minuuttimäärärajasta, josta tässä totesin.
+Lain tasolle tämä ei tietenkään kuulu, kuten eivät myöskään ne asetuksen volyymivaati-
+mukset tietyille leikkauksille julkiseltakaan puolelta, jotka aiemmin on asetuksella säädet-
+ty. Asetuksella tullaan siis säätämään sekä näistä aikamääristä että volyymimääristä, ja yti-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+messä on potilasturvallisuus ja potilaan oikeus tietää siitä, että yhtäläinen laatuvaatimus
+koskee julkisella rahalla toteutettuja leikkauksia eri yksiköissä riippumatta niiden yksityi-
+sen tai julkisen statuksesta.
+
+Arvoisa puhemies! Lopuksi myönnän, että tämä esitys ei ole ollut erityisen helppo val-
+misteltava erityisesti siksi, että suomalainen terveydenhuollon kenttä ei ole aivan yksituu-
+mainen tämän kysymyksen äärellä. Esitys on kohdannut valtavaa vastustusta sekä julkisel-
+ta puolelta että valtavaa vastustusta yksityiseltä puolelta. Tähän on liittynyt myös se tosi-
+seikka, että suomalainen sairaalaverkko on hajanainen ja keskenään hyvin erilainen ja etsii
+hyvin erilaisia rooleja ja tarpeita.
+
+Itse toivoisin, että tässä keskustelussa aina kuitenkin palautettaisiin mieleen kaksi seik-
+kaa: Ensinnäkin se, että ydin on aina sairaanhoitopiirin ja tulevan maakunnan päätöksissä:
+haluavatko ne hyödyntää yksityistä palvelutuotantoa, tarvitsevatko ne sitä puskuriksi ja
+tueksi vaikkapa hoitotakuun täyttymiseen leikkaustoiminnoissa. Ja toisekseen, me puhum-
+me vain nukutusta vaativista leikkauksista, emme koko erikoissairaanhoidosta, emme laa-
+jamittaisesta markkinan avaamisesta, vaan pienivolyymillisesta toiminnasta, koska tällä
+hetkellä yksityisellä toteutettavat leikkaukset ovat valtaosaltaan silloin, kun puhutaan jul-
+kisesta rahasta, joitakin muita kuin nukutusta vaativia vaativia leikkausoperaatioita.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Arvoisat edustajat, tämä antaa aiheen
+varmaan debattiin. Myönnän debatin ensimmäisen vastauspuheenvuoron edustaja Keräsel-
+le. Hän oli ainoa, joka oli varsinaista puheenvuoroa jonottamassa ennen istunnon alkua. —
+Edustaja Keränen, teillä vastauspuheenvuoro.
+
+17.03 Niilo Keränen kesk (vastauspuheenvuoro): Kiitoksia, arvoisa puhemies! Hallitus-
+puolueitten edustajilla on yleensä tapana kehua hallituksen esityksiä, mutta minun täytyy
+myöntää, että minun on vaikeaa tätä kehua. [Antti Lindtman: No niin, siinä se tuli!] Nimit-
+täin tämä sinänsä uusi lakipykälä, sen 1 momentti on minusta oikein hyvä. Se antaa mah-
+dollisuuden päivystyssairaalalle tehdä sopimuksia muiden sairaaloiden kanssa anestesias-
+sa hoidettavista leikkauksistakin, kunhan asetuksella määriteltävät kriteerit täyttyvät. 
+
+Arvoisa puhemies! Se kompa onkin juuri tuossa asetussuunnitelmassa. Lakiehdotuksen
+perusteluissa kaavaillaan, että asetuksen yksi kriteeri on 30 minuutin siirtomatka. Meillä
+on käytännössä tällaisia aluesairaaloita laajoissa maakunnissa, joissa yksityinen toimija
+hoitaa, tai sitten on myöskin julkisia toimintoja, julkisia sairaaloita, joiden leikkaustoimin-
+nalle tämä merkitsee loppua.
+
+Arvoisa puhemies! Jokaisessa leikkauksia hoitavassa yksikössä pystytään kyllä arvioi-
+maan, kuinka korkeariskiselle potilaalle juuri tämä sairaala pystyy leikkaustoimenpiteen
+tekemään. [Vasemmalta: Näin on! Hyvä puheenvuoro!]
+
+17.04 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Se on ollut tiedossa
+koko tämän vaalikauden ajan, että hallituksen arvojärjestyksessä markkinat menevät ohi
+ihmisen ja ohi hyvän hoidon. 
+
+Arvoisa puhemies! Ei ole mikään ihme, että edes hallituspuolueiden omat kansanedus-
+tajat eivät tässä hallituksen markkinakiimassa enää pysy mukana, koska siis tässähän on
+luotu aivan loistava bisnesmalli. Ensin te olette ajaneet kymmeniltä paikkakunnilta julki-
+sen leikkaustoiminnan alas. Nämä potilaat siirretään keskussairaaloihin ja yliopistosairaa-
+loihin. Ja nyt tällä lailla te räätälöitte mahdollisuuden siirtää nämä potilaat yksityisille ja
+3
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+voitot sinne, ja jos jokin menee pieleen, niin ei muuta kuin potilas takaisin julkiselle ja kus-
+tannukset sinne. Tämä on kaverikapitalismin huipentuma. Tämä on tämän hallituksen sote-
+bisnes, kaverikapitalismin huipentuma. 
+
+Käsi sydämelle, ministeri Saarikko: toivotteko te todella, että eduskunta hyväksyy tä-
+män teidän esityksenne?
+
+17.05 Aino-Kaisa Pekonen vas (vastauspuheenvuoro): Arvoisa puhemies! Me käsitte-
+lemme täällä äärimmäisen tärkeitä, äärimmäisen isoja asioita erittäin kiireisellä aikataulul-
+la illan hämärtyessä. Nyt täytyy todella ihmetellä hallitusta: mitä te oikein olette ajatelleet,
+kun te olette tällaisen esityksen tänne tuoneet? Ensin te olette keskittämisasetuksella lopet-
+taneet monesta aluesairaalasta leikkaustoiminnan, ja nyt te todella mahdollistatte leikkaus-
+toiminnan yksityisille terveyspalveluyrityksille, ja kaiken lisäksi tämä esitys ei ole mis-
+sään yhteydessä sosiaali- ja terveysuudistukseen. 
+
+Nyt puretaan lehmänkaupat. Vaikka sote-uudistus kaatuisi, vaikka maakuntauudistus
+kaatuisi syystä tai toisesta täällä eduskunnassa, niin kokoomus voi taputtaa käsiään yhteen.
+Sen tavoite sote-palveluiden yksityistämisestä tulee toteutumaan tämän esityksen myötä.
+[Maria Guzenina: Teidän vahtivuorolla!]
+
+17.06 Outi Alanko-Kahiluoto vihr (vastauspuheenvuoro): Arvoisa puhemies! Kyllä se
+niin on, että kokoomuksen johdolla tässä näemme silmiemme alla sen, kuinka suomalaista
+julkista terveydenhuoltoa yksityistetään kovaa vauhtia. Ei ole julkisesta terveydenhuollos-
+ta mitään jäljellä tämän hallituksen vaalikauden jälkeen, jos sote menee läpi. 
+
+Kyllä minua kiinnostaisi tämä edellä esitetty kysymys, kuinka on mahdollista, että te en-
+sin kiellätte leikkaustoiminnan näiltä julkisilta aluesairaaloilta ja sen jälkeen annatte sen
+yksityisille toimijoille ja vielä ilman mitään ehtoja. Jos yksityinen tekee virheen, tulee
+komplikaatioita, niin sitten julkinen hoitaa, veronmaksaja hoitaa. Eikö tämä ole tätä rusi-
+nat pullasta -politiikkaa, jota täällä nyt sitten kokoomuksen ehdoilla tehdään? Näköjään
+keskusta tekee, mitä kokoomus käskee. Ei jää teille mitään jäljelle. Jos sote kaatuu, ette saa
+maakuntia, mutta suomalainen terveydenhoito on yksityistetty tämän lain myötä. [Puhe-
+mies koputtaa] Sitäkö te haluatte? Tämä on teidän perintönne ilmeisesti.
+
+17.07 Veronica Rehn-Kivi r (vastauspuheenvuoro): Arvoisa puhemies, värderade tal-
+man! Yhdyn edellä pidettyihin puheenvuoroihin. Varsinkin edustaja Keränen piti hyvän
+puheenvuoron. Myöskin minä ihmettelen, miksi tällainen muutos tähän nyt yhtäkkiä tuo-
+daan. Terveydenhuoltolaissa poistettiin mahdollisuus leikkaustoimintaan aluesairaaloilta
+— muun muassa Pietarsaaren sairaalalta, joka on toiminut todella hyvin — ja perustelut
+olivat silloin, että pitää keskittää sekä resursseja että osaamista ja lisätä potilasturvallisuut-
+ta. Minkä takia sitten tällainen yhtäkkiä? Nyt yksityiset saisivat hoitaa näitä anestesiaa vaa-
+tivia leikkauksia mutta eivät aluesairaalat. En todellakaan ymmärrä.
+
+Nu har man fråntagit kretssjukhusen rätten, men de privata sjukhusen skulle fortsättnings-
+vis få operera i fall där man behöver anestesi.
+
+Sitten myöskin: miten julkiset toimijat pystyvät jatkossa sitten saamaan riittävästi resurs-
+seja [Puhemies koputtaa] ja osaamista, jos nämä kaikki siirtyvät yksityiselle puolelle?
+4
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+17.09 Peter Östman kd (vastauspuheenvuoro): Arvoisa puhemies! Täytyy kyllä sanoa,
+että se on harvoin, kun haluaisin kritisoida nykyhallitusta niin kuin aion kritisoida tässä
+asiassa. Pyytäisin kyllä, että hallituksen edustajat lukisivat, mitä esimerkiksi Vastaukset.fi
+sanoo kermankuorinnasta: ”Mitä on kermankuorinta? Markkinointitermi, joka liittyy hin-
+noitteluun.” Tämä ei ole pelkästään rusinat pullasta, vaan tämä on nimenomaan sitä ker-
+mankuorintaa, mitä yksityinen sektori tulee tekemään ja toteuttamaan ja toteuttaa jo tässä
+vaiheessa.
+
+Ihmettelen myös — oliko se edustaja Alanko-Kahiluoto, joka viittasi tähän keskittämis-
+ja päivystysasetukseen, jonka kanssa oli niin kiire — miksi ei voitu odottaa sen asian kans-
+sa, kunnes koko tämä sote-uudistus oltaisiin tehty yhtenä uudistuksena. Haluaisin vastauk-
+sen tähän. Minkä takia on ollut niin kiire? Nimittäin nyt ei jää pienemmillä paikkakunnilla
+mitään valinnanvapautta. [Puhemies koputtaa] Kun tämä toteutuu, sitten on vain yksityi-
+nen sektori jäljellä, ja silloin ei ole kunnon valinnanvapautta.
+
+17.10 Tytti Tuppurainen sd (vastauspuheenvuoro): Arvoisa puhemies! Kyllä tässä on
+kysymyksessä kaikkien aikojen vedätys suomalaisen terveyspolitiikan historiassa. Ensin
+tuodaan keskittämisasetus, jolla julkisista aluesairaaloista leikkaustoiminta lopetetaan, ja
+nyt tuodaan tällainen poikkeuspykälä, joka luo aivan ennennäkemättömät markkinat yksi-
+tyiselle terveysbisnekselle ja keskittää palvelut.
+
+Julkisissa sairaaloissa ollaan kyllä aivan ymmällään, että ensin yhteispäivystysvelvoite
+poistetaan kaikilta ja mahdollistetaan yksityiselle leikkaustoiminnalle bisneksen tekemi-
+nen ja sitten luodaan tämmöinen 30 minuutin täysin keinotekoinen aikarajoite, joka tar-
+koittaa sitä, että palveluita tarjotaan vain isoimmissa kaupungeissa. Esimerkiksi Raahen
+aluesairaalasta leikkaustoiminta loppuu, ja tällä on dramaattiset vaikutukset koko maakun-
+nan elinvoimalle. Eikö tätä aluetaloudellista näkökulmaa edes keskusta ole harkinnut? Sa-
+manlaiset vaikutukset ovat koko maassa: leikkaukset keskittyvät isoimpiin kaupunkeihin,
+julkinen sairaalaverkko ajetaan alas, yksityinen terveysbisnes rehottaa, kukoistaa. Miten
+te, keskusta, voitte tämän hyväksyä?
+
+17.11 Touko Aalto vihr (vastauspuheenvuoro): Arvoisa herra puhemies! Ymmärrän, että
+ministerin on hankala kuunnella näitä puheenvuoroja, eikä varmasti ole mieluisaa kuunnel-
+tavaa, ja uskon, että olette monella tapaa samaa mieltä opposition kanssa tässä asiassa.
+
+Itse olen ollut kaiken aikaa sitä mieltä ja siinä ymmärryksessä, että keskittämisasetuk-
+sen tavoite oli vahvistaa keskussairaaloiden toimintaa ja lisätä täten potilasturvallisuutta.
+Nyt tältä ajatukselta uhkaa hävitä pohja, jos yksityiselle palveluntuottajalle annetaan mah-
+dollisuus siihen kiireettömään leikkaustoimintaan mutta aluesairaaloilta se on kielletty.
+Tuntuu nurinkuriselta, että erikoissairaanhoitoa ulkoistetaan mutta ongelmatilanteissa kes-
+kussairaalat hoitavat mahdolliset ongelmat. Yksityisen sektorin ei tarvitse kantaa vastuuta
+päivystyksestä tai ongelmatilanteista. Se voi pelkästään kuoria kerman päältä, kuten edus-
+taja Östman toi esiin. Kysyisin, hyvä ministeri: miten ja miksi tällainen ehdotus voi olla osa
+esitystänne? Keskusta varmaan ei sitä itse kannata.
+
+17.12 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! On hyvä ensinnäkin
+kiittää ministeriä siitä rehellisyydestä, että totesitte, että kyllä suomalaisessa kiireettömäs-
+sä leikkaushoidossa pitäisi olla sekä julkinen että yksityinen samalla viivalla. Sitähän tääl-
+lä peräänkuulutetaan nimenomaan, sitä, että kun nimenomaan täällä on hallituksen johdol-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+la tehty vuoden 2016 lopulla vaikeita päätöksiä, joissa ympäri Suomea lopetettiin kymme-
+nien sairaaloiden toimintaedellytykset nukutusta vaativassa leikkaushoidossa, niin miksi
+se ei koske sitten koko porukkaa. Nyt kun oli pelkona, että se rupeaisikin koskemaan myös
+yksityistä leikkaustoimintaa, vedettiin liinat kiinni ja nopeasti saatiin eduskuntaan sotesta
+riippumatta, tehdyistä päätöksistä riippumatta esitys, että räätälöidäänkin yksityiselle sek-
+torille aivan toisenlaiset edellytykset jatkaa toimintaa. Ei tämä ole, kuulkaa, mitään muuta
+kuin ryöstökapitalismia. Tämähän on järkyttävää, että näin voidaan tehdä. Sama hallitus
+ensin ajoi julkisen toiminnan eri puolilla Suomea alas ja nyt esittää, että eri kriteereillä, eri
+viivalla oltaisiin kuitenkin niin, että yksityinen sektori saisikin nyt kevyemmällä toteuttaa
+leikkaustoimintaa, joten samat säännöt tulisivat [Puhemies koputtaa] nyt jälkikäteen myös
+julkiselle sektorille. Ja sitä oli pyydetty, että eikö tätä olisi voinut korjata alun perin oikein
+päin.
+
+17.14 Katja Hänninen vas (vastauspuheenvuoro): Arvoisa puhemies! Minunkin täytyy
+kyllä yhtyä siihen kritiikkiin, mitä tässä salissa useat edustajat ovat tuoneet esille, ja tote-
+an, että ministeri Saarikon kanssa olemme kyllä käyneet keskustelua sekä tästä 30 minuu-
+tin keinotekoisesta aikarajasta että leikkaavien sairaaloiden tilanteesta. Ja olen kyllä todel-
+la surullinen siitä, että Raahessa hyvin toimiva leikkaustoiminta näyttää nyt olevan sinetöi-
+ty, tuhoon tuomittu ja alas ajettu, ja siinä ei tämä 30 minuutin aikaraja ole se asia, vaan ter-
+veydenhuoltolain 45 §:n 3 momentti, niin kuin hyvin tiedetään, ja tässä salissa siitä vuoden
+2016 lopulla äänestettiin.
+
+Ja edustaja Keräsen kunniaksi todettakoon, että hän kyllä varmasti omassa ryhmässään
+teki sen, mitä tehtävissä oli, mutta se ei riittänyt. Ja keskustapuolueelle täytyy sanoa näin
+vaalien alla mutta myös varmasti tulevien vaalien jälkeenkin, että kyllä täytyy ihmetellä,
+miten te menitte myymään omat periaatteenne. Miksi [Puhemies koputtaa] te lähditte kes-
+kittämään ja yksityistämään [Puhemies koputtaa] julkista perusterveydenhuoltoa ja eri-
+koissairaanhoitoa?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Myönnän vielä debatin tässä vaihees-
+sa vastauspuheenvuorot edustajille Essayah ja Tuomioja ja heidän jälkeensä ministerille
+2—3 minuuttia.
+
+17.15 Sari Essayah kd (vastauspuheenvuoro): Arvoisa puhemies! Keskittämisasetus teh-
+tiin aikanaan potilasturvallisuuden takia. Sitä pidettiin perusteluna, ja lähdettiin Suomesta
+ajamaan näitä hyvin toimivia, tehokkaita aluesairaaloita alas kiireettömän leikkaushoidon
+kohdalta. Siellä meni Iisalmea, Forssaa, Raahea [Eduskunnasta: Pietarsaari!] — Pietar-
+saarta — monta hyvää, toimivaa aluesairaalaa, ja saatiin aikaiseksi myöskin valtavasti
+ruuhkia sitten näihin 24/7 päivystäviin sairaaloihin.
+
+Täällä salissa käsiteltiin Anna-Maja Henrikssonin ensimmäisenä allekirjoittamaa lakia-
+loitetta, jolla tätä tilannetta oltaisiin voitu korjata: että annettaisiin alueellisesti se päätän-
+tävalta, miten nämä asiat halutaan järjestellä. Sen sijaan nyt sitten hallitus tuo tämän esi-
+tyksen, jossa todellakin tämä 30 minuutin sääntö tuo täydellisen kermankuorinnan näille
+yksityisille yrityksille. Minusta oli hienoa, että oli useita keskustalaisia edustajia silloin al-
+lekirjoittamassa tätä Anna-Maja Henrikssonin ensimmäisenä allekirjoittamaa lakialoitetta
+ja täällä salissa käytiin silloin hyvät perustelevat keskustelut tämän asian suhteen, mutta
+6
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+tämä esitys on todellakin täydellinen kermankuorintaesitys yksityisille toimijoille. [Puhe-
+mies koputtaa] Samat säännöt eivät Suomessa enää koske kaikkia.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Arvoisat edustajat, täällä on aika
+monta vastauspuheenvuoroa. Pidän ne täällä nyt tallessa, mutta sitä ennen ministeri Saa-
+rikko, 3 minuuttia puhujapöntöstä. [Välihuuto] — Anteeksi, nyt pyydän anteeksi, edustaja
+Tuomioja jäi tästä välistä pois. Hän on niin pieni ja tuossa edessä, etten oikein nähnyt. —
+Edustaja Tuomioja, nyt on teillä puheenvuoro, anteeksi.
+
+17.17 Erkki Tuomioja sd (vastauspuheenvuoro): Kiitoksia, herra puhemies! Lainaan täs-
+sä yhteydessä nyt tämänpäiväistä päivitystä, jonka tunnettu terveydenhuoltoalan ammatti-
+lainen on tehnyt omalla nimellään: ”Tämä on hävytön temppu ministeri Saarikolta. Ensin
+hän antoi hoitojen keskittämisasetuksen, joka lopetti monen aluesairaalan leikkaustoimin-
+nan, vaikka sairaalassa oli henkilökunta ja osaaminen. Nyt tulee uusi lakimuutos, joka siir-
+tää juuri nämä elektiiviset leikkaukset yrityksille. Jos siellä tulee komplikaatio, siirretään
+potilas julkiselle puolelle, jonka veronmaksaja maksaa uudelleen. Tätä lakimuutosta, jota
+kutsutaan nimellä Lex Terveystalo, ei pidä hyväksyä. Sipilän hallitus on ajamassa Suomen
+terveydenhuollon vaaralliseen tilanteeseen.”
+
+Kyseessä ei todellakaan ole sosiaalidemokraatti eikä muutenkaan mikään vihervasem-
+mistolainen vaan terveydenhuoltoalan ammattilainen, ja oma havaintoni on, että kaikki ne
+terveydenhuoltoalan ammattilaiset, joilla ei ole joko omaa yrityslehmää ojassa tai sidon-
+naisuuksia hallitusvallan ylläpitämiseen [Puhemies koputtaa] ovat tämän kritiikin jaka-
+neet. [Maria Guzenina: Hyvä, Sirpa Asko-Seljavaara!]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ja nyt ministeri Saarikko, 3 minuuttia
+puhujapöntöstä.
+
+17.18 Perhe- ja peruspalveluministeri Annika Saarikko: Arvoisa puhemies! Vastaan,
+jos vain suinkin osaan, esitettyihin kritiikkeihin ja kysymyksiin tämän esityksen osalta,
+mutta palaan ensiksi siihen, mitä sairaalatoiminta on. Kerron myös sen, että tulen itse maa-
+kunnasta, jossa on ollut monta aluesairaalaa ja niin on edelleenkin näiden kaikkien muu-
+tosten jälkeen. Meillä Varsinais-Suomessa niitä on itse asiassa edelleen useampia: Uusi-
+kaupunki, Loimaa, Salo. Oikeastaan olen paljon sen äärellä pohdiskellut sitä, menetimme-
+kö me aluesairaalat, kun lähdimme siitä linjauksesta, että siellä ei toteuteta nukutusta vaa-
+tivaa leikkaustoimintaa ja että edellytämme ikään kuin leikkaustoiminnan ja päivystyksen
+kytkemistä toisiinsa. Kaikissa näissä aluesairaaloissa palaa yhä valot. Kaikkialla näissä
+hoidetaan potilaita.
+
+Minusta me tarvitsemme kaikki — siitä huolimatta, että on aivan varmasti oikeutettua
+kritisoida tätä niin kuin muitakin esityksiä erikoissairaanhoidon työnjaon äärellä — yhteis-
+tä parempaa ymmärrystä siitä, mitä erikoissairaanhoito tänä päivänä on. Minulle oli yllätys
+esimerkiksi se, kun ymmärsin, että paljon kritiikkiä ja toisaalta myös joidenkin ihailua he-
+rättänyt syöpäsairaala Docrates, joka sinällään ei ole tämän esityksen ytimessä, on sairaa-
+la, jossa itse asiassa ei toteuteta yhtään leikkausta, vaan siellä tehdään ihan kaikkia muita
+asioita, jotka ovat erikoissairaanhoidon ydinkysymyksiä. Eli erikoissairaanhoito on paljon
+muutakin kuin nukutusta vaativat leikkausoperaatiot.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Arvoisa puhemies! Kun täällä voimakkainkin sanakääntein kuvataan tätä esitystä — ei
+tarvitse ehkä käydä niitä kaikkia teidän sanakäänteitänne edes toistamaan, ne olivat ihas-
+tuttavan värikkäitä ja oppositiolle oikeutettuja — [Antti Lindtman: Ja oikeutettuja!] on
+syytä huomioida mittakaava: Suomalainen erikoissairaanhoito on 6 miljardin euron talou-
+dellinen kokonaisuus. Tämä yksityinen leikkaustoiminta on arviolta noin 170 miljoonan
+euron kokonaisuus näiden pykälien osalta, joita tässä säädettäisiin. Oleellista on havaita,
+että tänä päivänä monet sairaanhoitopiirit ostavat yksityisiltä sairaaloilta leikkaustoiminto-
+ja — ostivat jo silloin, kun aluesairaaloissakin leikattiin. [Suna Kymäläinen: Kohta oste-
+taan vielä lisää!] Tänä päivänäkin, kun tämä esitys ei ole voimassa, yksityisten sairaaloi-
+den on — niin kuin niiden aluesairaaloidenkin silloin oli — turvauduttava vaativimmissa
+tilanteissa tehohoidon osalta julkisiin, paremmin varusteltuihin, isompiin keskussairaaloi-
+hin. Eli lähtökohta on se sama kuin tänä päivänäkin. Itse asiassa se vain selkiytyy ja vel-
+voittaa yksityistä enemmän tämän esityksen myötä. Yksityiselle tulee velvoite tehdä ikään
+kuin sopimuksellinen toimintaympäristö siihen, miten toimitaan silloin, jos komplikaatio
+tapahtuu. Ja jos ajattelemme tätä leikkausvolyymia, joka on verrattain pieni, ja siinä tapah-
+tuvia komplikaatioita, puhumme onneksi, onneksi, vain harvoin tapahtuvista tilanteista.
+Siitä huolimatta niitä tilanteita varten on oltava [Puhemies koputtaa] ikään kuin kuvio ra-
+kennettuna kuntoon. [Puhemies koputtaa]
+
+Arvoisa puhemies! Jos saan todeta lyhyesti vielä kaksi asiaa: Mitään velvoitetta yksityi-
+seltä ostamiseen maakunnille ei tule tältä osin erikoissairaanhoidon leikkauspalveluihin.
+Eri asia on se, jos maakunta, kuten tänäkin päivänä, ei pysty lainpykälien mukaan täyttä-
+mään hoitotakuutaan eli kansalaisten parasta päästä leikkaukseen mahdollisimman no-
+peasti. [Puhemies koputtaa] Ja mitä tulee Raaheen, joka on täällä erikseen nimeltä mainit-
+tu, tämän esityksenkin jälkeen te sairaanhoitopiirin päättäjinä, joita on useampia paikalla,
+siellä voitte resursoida [Puhemies koputtaa] päivystyspalvelut Raahessa niin, että leikka-
+ustoiminta voi jatkua. Tämä ei ole sitä millään tavalla [Puhemies koputtaa] estämässä, ar-
+voisa puhemies.
+
+17.22 Johanna Ojala-Niemelä sd (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä
+ei kyllä selittelemällä tässä muuksi muutu. Valitettavasti tämä on tosiasia. Sosiaali- ja ter-
+veydenhuollon uudistamisen osalta te lähditte keskittämisen tielle kokoamalla vaativan
+erikoisalojen päivystyksen 12 sairaalaan Suomessa, ja tässä kyllä putosi sitten junasta
+moni paikka. Leikkaukset loppuivat paitsi sieltä Raahesta, myös Forssasta, Iisalmesta,
+Kouvolasta ja Raumalta, ja jopa meillä Kemissä tämä varmasti vauhditti erinäisiä ratkai-
+suja, jotka eivät ole niin mieluisia. Mutta aluesairaaloissa ajettiin alas julkinen leikkaustoi-
+minta. Esitimme tuolloin, että esitys hylättäisiin. Sairaalaverkostosta olisi tullut päättää ko-
+konaisuudessaan tämän soten yhteydessä. Nyt se jäi täysin erilliseksi ja irralliseksi asiaksi,
+ja kuten täällä on muissa puheenvuoroissa todettu, tätä kokonaisuutta on palasteltu niin
+paljon, että tästä on vaikea saada kunnollista selkoa.
+
+Mutta nyt annetaan yksityisille toimijoille leikkaustoiminta. Voi sanoa, että tämä on
+ihan puhtaasti yksityisille toimijoille räätälöity esitys, ja tämä ei tästä selittelemällä kum-
+memmaksi muutu.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Myönnän vielä tässä debattivaiheessa
+vastauspuheenvuorot edustajille Andersson, Anttila ja valiokunnan puheenjohtaja Kiuru.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+17.23 Li Andersson vas (vastauspuheenvuoro): Arvoisa puhemies! Entinen sotesta vas-
+taava ministeri Juha Rehula totesi äskettäin julkisuudessa, että ministerinä ollessaan hän
+koki olevansa vain pelinappula markkinavoimien ohjaamassa pelissä, ja viittasi silloin siis
+tähän sote-uudistukseen. Oikeastaan tämän keskustelun seurauksena tekisi mieli kysyä mi-
+nisteri Saarikolta: onko teillä samankaltainen tunne kuin Juha Rehulalla ministerinä olles-
+saan oli?
+
+Tässä on puhuttu potilasturvallisuudesta, mutta kyllähän syy siihen, että hallitus lähti
+keskittämään näitä anestesiaa edellyttäviä leikkauksia, liittyi säästöihin. Tavoitteena oli ja
+tavoitteena edelleen on saada aikaiseksi 350 miljoonan euron säästöt erikoissairaanhoidos-
+ta. Eli tämä oli se syy, minkä takia keskittämistä lähdettiin tekemään.
+
+Nyt hallitus on luomassa poikkeuksen omiin keskittämissääntöihinsä ja on tekemässä
+sitä tavalla, joka hyödyttää nimenomaan näitä voittoa tavoittelevia suuria terveyskonser-
+neita, eli ensin luodaan tilanne, [Puhemies koputtaa] jossa sairaanhoitopiiriin keskitetään
+leikkauksia, sitten sairaanhoitopiireillä on tarvetta purkaa jonoja, ja tehdään lainsäädäntö
+sellaiseksi, että ainoa keino tehdä se [Puhemies koputtaa] on ostaa palveluita näiltä voittoa
+tavoittelevilta yrityksiltä.
+
+17.24 Sirkka-Liisa Anttila kesk (vastauspuheenvuoro): Arvoisa puhemies! 2016 loppu-
+vuodesta terveydenhuoltolain muutoksella tehtiin juuri niitä päätöksiä, joista täällä on pu-
+huttu liittyen erikoissairaanhoidon keskittämiseen, ja silloin yhtenä perusteena oli säästö-
+jen lisäksi se, että potilasturvallisuus tätä kautta paranee. Nyt me olemme nähneet, että
+aluesairaaloissa anestesiassa tapahtuva leikkaustoiminta on siirtynyt pois, ja totta kai se on
+elinvoiman menetystä siltä seutukunnalta — siitä varmaan olemme kaikki yhtä mieltä. Ja
+se, mitä siellä nyt tehdään, on pääosin erikoissairaanhoidon poliklinikkatoimintaa, mutta
+sekin sillä ehdolla, että me saamme lääkäreitä keskussairaalasta, koska lääkäreitä ei ole
+helppo saada.
+
+Minun kysymykseni tähän uudistukseen liittyen on erittäin vakava huoli siitä, mikä kato
+käy julkisen sektorin lääkäreissä, kun yksityisellä sektorilla ei tarvitse edes päivystää. [Va-
+semmalta: Aivan! Juuri näin!] Siis tämä on tässä ehkä suurimpia virheitä, että luovutaan
+päivystysvelvollisuudesta, mikä saattaa nämä edullisempaan asemaan. Minä todella toi-
+von, että tätä asiaa ja sen vaikutuksia lääkärimääriin tämän lain valmistelussa täällä vaka-
+vasti käsitellään. [Sari Essayah: Loistavaa, edustaja Anttila!]
+
+17.26 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Tämä juuri esiin nos-
+tettu näkökulma on minusta yksi keskeisimpiä, joka eduskunnassa on huolenaiheena nyt.
+Osaajakato on merkittävä tulevaisuuden haaste sosiaali- ja terveydenhuollossa. Jos me ku-
+vittelemme, että tällä uudella esityksellä ei olisi mitään vaikutusta siihen, kuka jatkossa on
+töissä sairaanhoitopiireissä, mahdollisesti tulevissa maakunnissa, niin nyt viimeistään pi-
+tää herätä. On niin vakava juttu, että tällainen esitys tuodaan. Oppositio- ja myös hallitus-
+puolueissa oli kaikuja 2016 siitä, olisiko järkevää tehdä tätä asiakohtaa, niin leikkaustoi-
+mintaa kuin päivystystäkin, koskien ratkaisut sote-uudistuksen yhteydessä. Tiedättekö,
+sote-uudistuksen ensimmäinen versio on sosiaali- ja terveysvaliokunnasta jo perustuslaki-
+valiokunnassa, mutta siellä on aivan toisenlainen pohjaratkaisu, ja nyt yritetään välttää se,
+että yksityisiä eivät koskisi ne ehdot, jotka tässä sote-uudistuksessa ovat jo perustuslakiva-
+liokunnan käsiteltävänä. Kyllä tässä on käsittämättömästä pohjatilanteesta kysymys. [Pu-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+hemies koputtaa] Vielä vetoan teihin, että ei viedä tätä uudistusta täällä eduskunnassa läpi.
+Ei viedä. Ei viedä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat! Puhemiesneuvos-
+ton esitys tämänkin keskustelun läpikäymiseen kuuluu: ”Lähetekeskusteluun varataan
+enintään 30 minuuttia.” [Välihuutoja vasemmalta] Asian tiiviyden ja kiihkeyden vuoksi
+myönnän vielä vastauspuheenvuorot oppositioryhmistä ryhmänjohtaja Lindtmanille ja
+myöskin edustaja Tanukselle, ja heidän puheenvuorojensa jälkeen minuutti vielä ministe-
+rille. Sitten aikaikkuna on ummessa.
+
+17.27 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä on nyt täysin
+poikkeuksellinen tilanne käynnissä eduskunnassa. Tässä on esitys, ministerin esitys, joka
+ei kuulu enää edes markkinatalouteen: siis voitot yksityisille, potilaat yksityisille, mutta jos
+jotain sattuu, niin kustannukset julkiselle. 
+
+Haluan kiinnittää huomiota, arvoisa puhemies, siihen, että yksikään tämän salin hallitus-
+puolueen kansanedustaja ei tässä keskustelussa ole puolustanut tätä ministerin esitystä.
+[Välihuutoja] Yksikään edustaja ei ole puolustanut tätä esitystä [Ilkka Kanerva: Onhan
+Saarikko kansanedustaja!] — ministerin lisäksi. Hallituspuolueista keskustalaiset ovat kri-
+tisoineet tätä voimakkaasti. Näyttää siltä, jää vaikutelma siitä, että ministeri on laitettu
+tämä esittelemään ja he, jotka tämän todella ovat päättäneet, ovat jossain muualla. 
+
+Arvoisa ministeri, ette vastannut kysymykseen. Te tuotte tämän siis sen määräajan jäl-
+keen, kun on sovittu, mitkä kaikki esitykset tuodaan eduskuntaan, jotta ne ehditään käsit-
+telemään. Kysyn vielä kerran: [Puhemies koputtaa] toivotteko te todella, että eduskunta
+hyväksyy [Puhemies koputtaa] tämän teidän esityksenne?
+
+17.29 Sari Tanus kd (vastauspuheenvuoro): Arvoisa puhemies! Vastustimme kiivaasti
+keskittämisasetusta hiljakkoin, koska katsoimme, että anestesiaa ja leikkaussalia vaativia
+toimenpiteitä voidaan tehdä turvallisesti myös niissä yksiköissä, joissa ei ole ympärivuo-
+rokautista päivystystä, niin kuin on ollut vuosien ja vuosikymmenten ajan. 
+
+No sitten, kun tämä esitys tuli, niin ajattelin, että no, nyt sitten ollaan havahduttu tilan-
+teeseen ja korjataan tätä epäkohtaa, mutta tässä esityksessä kyllä lukee, että kunnan eri-
+koissairaanhoidossa ei voisi tehdä anestesiaa ja leikkaussaliolosuhteita edellyttäviä leikka-
+ustoimintoja tai muita toimenpiteitä. Ja sen lisäksi, aivan niin kuin edustaja Keränen toi
+esiin, kyllä terveydenhuollossa osataan arvioida riskit, niin että 30 minuutin matka tai täm-
+möiset rajoitteet, joita tässä esitetään, eivät kyllä ole tätä päivää. 
+
+Siinä mielessä kyllä tämä tuntuu nyt jotenkin epäoikeudenmukaiselta ja epätasaiselta.
+Toivoisin, että tätä todella [Puhemies koputtaa] tarkasteltaisiin uudelleen ja kriittisemmin.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ministeri, paikalta 1 minuutti.
+
+17.30 Perhe- ja peruspalveluministeri Annika Saarikko (vastauspuheenvuoro): Arvoi-
+sa puhemies! Edustaja Andersson arveli, että tämän erikoissairaanhoidon laajan työnjaon
+lakipaketin taustalla tämän vaalikauden aikana ovat olleet säästöt. Se on totta, se on yksi
+keskeinen osa tätä kokonaisuutta, aivan samoin kuin näkemyksemme siitä, että painote-
+taan perusterveydenhuoltoa, huolehditaan osaajien riittävyydestä. 
+10
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Painotan vielä myös sitä, että tämä esitys on tapa selkiyttää sitä roolia, joka yksityisellä
+on jo olemassa, sitä palveluiden vapaaehtoista ostamista, mitä sairaanhoitopiirit toteutta-
+vat tiettyjen leikkaustoimintojen osalta esimerkiksi hoitotakuun ehdot täyttäessään ja niitä
+tavoitellessaan.
+
+Arvoisa puhemies! Minulta on tiedusteltu, toivonko, että eduskunta käsittelee [Antti
+Lindtman: Hyväksyy!] tämän esityksen läpi. Minä toivon, että eduskunta käsittelee tämän
+esityksen erittäin huolella läpi. Ennen kaikkea myös siksi, että tunnistan, että koko erikois-
+sairaanhoidon työnjako voimakkaana alueellisena elinvoimakysymyksenä mutta ennen
+kaikkea terveydenhuollon sisältökysymyksenä on herättänyt pitkin vaalikautta paljon
+huolta, tunteita mutta myös uudenlaista lainsäädäntöä, ja tämä on iso osa sitä. Toivon, että
+eduskunta käsittelee esityksen huolella oman aikataulunsa puitteissa. [Vasemmalta: Mutta
+ei hyväksy!]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Keskustelu ja asian käsittely keskey-
+tetään. Asian käsittelyä jatketaan tässä istunnossa päiväjärjestyksen muiden asiakohtien
+tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 17.31.
+
+————
+
+Keskustelua jatkettiin kello 18.58.
+
+Toinen varapuhemies Tuula Haatainen: Nyt jatketaan aiemmin tässä täysistunnossa
+keskeytetyn asiakohdan 8 käsittelyä.
+
+18.58 Niilo Keränen kesk: Arvoisa rouva puhemies! Nykyisin yliopistosairaanhoitopiirit
+ovat voineet sopimuksin järjestää anestesiaa vaativaa leikkaustoimintaa muuallekin kuin
+keskussairaalaan, mikäli päivystysjärjestelyt ovat kunnossa. Tämä lakiesitys on siltä osin
+hyvä, että uuden 45 a §:n 1 momentti antaa saman mahdollisuuden myös muille sairaan-
+hoitopiireille kuin yo-sairaanhoitopiireille. Tämä on muodollisesti hyvä juttu ja tasapuolis-
+taa kaikkien sairaanhoitopiirien toimintaa. 
+
+Mutta, arvoisa puhemies, tämän lakiesityksen kompa on juuri tuossa asetussuunnitel-
+massa. Nimittäin asianomaisen pykälän 2 momentti sanoo, että tämän lakiehdotuksen pe-
+rusteluissa on kaavailtu asetusta, jossa yksi kriteeri tämmöiselle sopimusleikkaussairaalal-
+le tulisi olemaan, että sopimussairaalasta on enintään 30 minuutin siirtomatka siihen kes-
+kussairaalaan, tukisairaalaan. Käytännössä meillä on tänäkin päivänä entisiä aluesairaaloi-
+ta, joissa yksityinen toimija hoitaa leikkaustoimintaa sairaanhoitopiirin lukuun. Niin ikään
+yo-sairaanhoitopiireissä on sairaaloita, joissa anestesiaa vaativia leikkaustoimintoja teh-
+dään nykylainsäädännön mukaisesti. 
+
+Tämä esitys näyttää unohtaneen, että tässä maassa on laajoja maakuntia, joissa on myös
+sellaisia väkirikkaita alueita, joissa saavutettavuuden, hyvien, valmiiden tilojen, henkilö-
+kunnan perheolojen ja vieläpä alueiden elinvoiman vuoksi olisi järkevää, taloudellista ja
+turvallista järjestää myöskin anestesiaa vaativaa leikkaussalitoimintaa. Nyt esitetty uusi la-
+kipykälä keskittää kaikki leikkaustoiminnot keskuskaupunkeihin. 
+11
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Tämä esitys kurittaa niitä yksityisiä toimijoita, jotka vielä sinnittelevät siellä syrjempä-
+nä olevien asukkaiden turvana eri paikkakunnilla. Muodollisesti esityksellä halutaan saat-
+taa nämä yksityiset toimijat samalle viivalle julkisen toimijan kanssa, siis käytännössä pa-
+nemaan leikkaussalin ovelle lapun luukulle. Suomessa erikoissairaanhoidon etiikka on
+kyllä yhtä korkealla tasolla niin yksityisellä kuin julkisellakin puolella, joten ainakaan tä-
+män takia lakiesitystä ei tarvittaisi.
+
+Arvoisa puhemies! Jokaisessa leikkauksia suorittavassa yksikössä kyllä pystytään arvi-
+oimaan, kuinka korkeariskisille potilaille juuri tämä sairaala pystyy leikkaustoimenpiteen
+tekemään. Totta kai silti voi tulla odottamattomia komplikaatioita, mutta sellaisessa ta-
+pauksessa ei ole käytännön merkitystä sillä, onko siirtoaika tukisairaalaan 30 vai 60 mi-
+nuuttia.
+
+Arvoisa puhemies! Fiksuinta olisi, jos eduskunta pystyisi muuttamaan tätä niin, [Puhe-
+mies koputtaa] että annettava asetus antaa sen 60 minuutin rajan siirtorajaksi.
+
+19.01 Tytti Tuppurainen sd: Arvoisa rouva puhemies! Tässä on kyseessä kaikkien aiko-
+jen terveyspoliittinen vedätys suomalaisessa historiassa. Hallitus esittää terveydenhuolto-
+lain poikkeuspykälää, jolla yhteiskunnan tukemaa leikkaustoimintaa voidaan tarjota sai-
+raaloissa, joissa, toisin kuin keskittämisasetus edellyttää, ei ole kuntalaisille avointa ympä-
+rivuorokautista yhteispäivystystä. Esitys on esimerkki hallituspuolueiden kaupankäynnis-
+tä, jonka tuloksena on terveydenhuoltojärjestelmän muokkaaminen terveysalan yritysten
+edun mukaiseksi.
+
+Terveydenhuoltolain mukaan julkinen sektori, siis kunnat ja sairaanhoitopiirin kuntayh-
+tymät, vastaavat terveydenhuollon perusrakenteesta. Niille kuuluvat myös kallis päivys-
+tysvelvollisuus ja varautuminen hengenvaarassa tai muuten vakavasti sairastuneiden poti-
+laiden hoitamiseen viipymättä ja kustannuksia säästämättä. Periaate on totta kai hyvä, sillä
+potilasturvallisuudesta pitää huolehtia kaikissa oloissa.
+
+Edellä sanottu potilasturvallisuuden vaatimus on ollut perusteluna, kun leikkaustoimin-
+taa on keskitetty. Toki myös taustalla ovat olleet julki sanomatta Sipilän hallituksen kovat
+säästötavoitteet, siis Sipilän hallituksen leikkaukset, mutta siis potilasturvallisuudella pe-
+rusteltiin. Koska tämän perustelun soveltaminen käytäntöön ei ole herättänyt luottamusta,
+on eri puolilla Suomea ryhdytty äkkinäisiin toimiin sairaaloiden säilyttämiseksi. Sopimuk-
+sia on tehty pakon edessä yksityisten terveysyritysten kanssa, jotta palvelut eivät karkaisi
+keskittämisen myötä.
+
+Mutta hallituksen nyt tekemä esitys ei suinkaan rauhoita tilannetta. Päinvastoin, esityk-
+sen toteutuessa tuloksena ei ole yksityisten ja julkisten sairaaloiden tasapuolinen kohtelu
+vaan lain räätälöinti terveysyritysten mittojen mukaiseksi. Alan yritystoiminta on markki-
+noiden logiikan mukaisesti keskittynyt suurten päivystysvelvollisten sairaaloiden lähei-
+syyteen. Esimerkiksi Oulussa, kotikaupungissani, on kymmenen yksityistä leikkaussalia.
+Nämä kaikki täyttävät nyt tämän hallituksen poikkeuspykälän vaatimukset. Yhteispäivys-
+tykseen ehtii 30 minuutin kuluessa, siis julkinen sektori tarvittaessa ottaa vastaan tilanteen,
+mikäli tarve niin vaatii. Jos jotakin erityisen vakavaa sattuu, vastuu siirtyy aina Oulun yli-
+opistosairaalalle.
+
+Julkiselle terveydenhuollolle uusi sääntely, tämä poikkeuspykälä, ei kerta kaikkiaan so-
+vi. Keskittämisasetuksesta tavallaan luovutaan, ehtoja väljennetään, aivan kuten sosiaali-
+demokraatit ovat edellyttäneet, mutta tämä räätälöinti ei sovi. Esimerkki löytyy kotoa Poh-
+jois-Pohjanmaalta: Raahessa oleva kuntayhtymäjohtaja Hannu Kallunki on seikkaperäisel-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+lä selvityksellään osoittanut, että Raahen sairaala ei pysty toimittamaan kiirepotilasta Ou-
+luun 30 minuutissa, joten leikkaussalitoiminta, anestesiaa vaativa leikkaustoiminta loppuu
+siellä. Palvelut karkaavat, ja ainakin 50 terveysalan osaajaa, työntekijää menettää työpaik-
+kansa alueella, jolla työpaikat ovat arvokkaita ja tarpeen. Vastaavasti Oulun sairaala Ou-
+lun päässä ruuhkautuu entisestään, eikä ole mitenkään sanottu, että sen suunnittelema pe-
+ruskorjaushanke, Tulevaisuuden sairaala, riittää näiden uusien vuodepaikkojen tarjontaan.
+Kulut kasvavat ja veronmaksaja maksaa.
+
+Arvoisa puhemies! Terveydenhuoltolain mukaan julkisen vallan on huolehdittava vas-
+tuullaan olevien asukkaiden palvelujen järjestämisestä ja saatavuudesta yhdenvertaisesti
+koko alueellaan. Nyt tämä yhdenvertaisuuden ja alueellisen tasapuolisuuden periaate on
+uhattuna. Tämä hallitus on pakkokeskittämässä ihmisten peruspalveluita. Se on murenta-
+massa alueiden elinvoimaa ja lisäämässä turvattomuutta. On pakko kysyä, miten tämä on
+mahdollista Suomen keskustapuolueen vahtivuorolla. Hallituksen keskittämispolitiikan
+voittajia eivät ole myöskään keskuskaupungit eivätkä niiden sairaaloissa työtaakan alle uu-
+puvat työntekijät. Tämän voittajia ovat yksiselitteisesti yritykset, jotka ovat päättäneet si-
+jaintinsa ja palveluvalikoimansa mahdollisimman hyvän taloudellisen tuloksen saavutta-
+miseksi.
+
+Puhemies! Terveydenhuoltolaki kaipaa uudistusta, joka painottaa palveluiden järkevää
+taloudellista ja tasapuolista kehittämistä. Tämä hallituksen esitys on hyvien päämäärien
+vastakohta. Tämä on Lex Terveystalo. Se on hylättävä, ja on säädettävä sen sijaan Lex Kal-
+lunki, jolla turvataan palveluiden alueellinen tasapuolisuus. Itse olen valmis tällaisen esi-
+tyksen muotoiluun.
+
+Arvoisa puhemies! On vielä palattava tähän aiemmin salissa käytyyn lähetekeskuste-
+luun. Oli kyllä paljonpuhuvaa, että tuossa lähetekeskustelussa ministeri Saarikko sai puo-
+lustaa hallituksen esitystä käytännössä yksin. Ei löytynyt kokoomuksesta, ei juuri keskus-
+tasta saati muista tälle esitykselle puolustajia. Herää väistämättä, puhemies, kysymys,
+onko hallituksen tarkoituskaan viedä tätä esitystä läpi. Millaisen pelin, kaupankäynnin
+kohde ihmisten terveys tässä maassa tämän hallituksen johdolla voikaan olla? On myös
+muistutettava mieliin, että tämä poikkeuspykälä syntyi siitä havainnosta, että keskittämis-
+asetuksen vaatimat kriteerit saattoivatkin koskea myös yksityistä leikkaustoimintaa, min-
+kä vuoksi täytyy nopeasti säätää nämä poikkeamat leikkaustoimintaan irti yhteispäivystys-
+velvoitteesta, koska tietysti olisi liikaa odottaa yksityiseltä toimijalta päivystysvelvolli-
+suutta, koska se maksaa. Me kaikki tiedämme, että vain yhteiskunta pystyy järjestämään
+vaativaa päivystystä. Sen takia päivystysvelvoitteesta luovuttiin, tehtiin tämä räätälöinti
+puhtaasti yksityisten yritysten hyväksi. Siitä tässä esityksessä on kysymys. Katsotaan,
+kuka tästä hyötyy: yritykset siitä hyötyvät. Ja täysin selvää on, että tällä keinotekoisella 30
+minuutin aikarajoitteella ne julkiset sairaalat, jotka saattaisivat päästä mukaan nyt näissä
+uusissa olosuhteissa leikkaustoimintaan kiinni, kuten Raahen sairaala Oulussa, eivät pysty
+tätä 30 minuutin kriteeriä täyttämään. Siksi tämä esitys on susi. Tämä esitys on syytä, ar-
+voisa puhemies, hylätä.
+
+19.08 Li Andersson vas: Arvoisa puhemies! Tässä kokonaisuudessa yhdistyvät ne kaksi
+tavoitetta, jotka vaikuttaisivat ohjaavan kaikkea sitä sosiaali- ja terveyspolitiikkaa, mitä
+tämä hallitus tekee: julkisiin palveluihin kohdistuvat säästöpaineet ja leikkaukset sekä joh-
+donmukainen pyrkimys avata julkista palvelutuotantoa markkinoiden hoidettavaksi eli
+palveluiden markkinaehtoistaminen. Sote-markkinoiden avaaminen on ollut hallituksen
+13
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+koko sote-projektin ohjenuorana alusta alkaen. Sama kaupallisen soten linja jatkuu edel-
+leen ja käy hyvin ilmi tästä hallituksen esityksestä.
+
+Hallituksen aikaisemmin päättämillä 350 miljoonan euron erikoissairaanhoitoon koh-
+distuvilla säästötavoitteilla ja siitä seuraavalla keskittämisellä on ollut erittäin suuria vai-
+kutuksia aluesairaaloiden ja keskussairaaloiden toimintaan koko Suomessa, kun aneste-
+siaa vaativat leikkaukset on keskitetty näihin suuriin päivystäviin sairaaloihin. Keskittämi-
+sen seurauksena moniin aluesairaaloihin on jäänyt leikkaussalikapasiteettia, jota ei tällä
+hetkellä ole mahdollista hyödyntää, ja päivystävillä keskussairaaloilla taas ei välttämättä
+ole riittävästi lisäkapasiteettia, minkä seurauksena ne joko joutuvat siihen investoimaan tai
+hankkimaan sitä ostamalla palveluita yksityisiltä palveluntuottajilta.
+
+Hallitus on nyt herännyt epäkohtaan oman keskittämisensä seurauksena eli siihen, että
+sairaanhoitopiirien anestesiaa vaativien leikkausten osto yksityiseltä, siis näiden yksityis-
+ten palveluntuottajien toiminta, ei täytä voimassa olevia terveydenhuoltolain ja sen nojalla
+annettujen asetusten velvoitteita. Hallituksen ratkaisu on tietenkin säätää omaan keskittä-
+mislakiinsa poikkeus, joka hyödyttää näitä voittoa tavoittelevia yrityksiä. Tämä puolen
+tunnin poikkeussääntö tarkoittaa, että ne yksityiset voittoa tavoittelevat terveysyritykset,
+jotka ovat laittaneet paljon rahaa tiloihin isoissa kaupungeissa ja joilla ei ole mitään intres-
+siä itse järjestää hyvin kallista ja vaativaa päivystystä, voivat jatkossa jatkaa leikkaustoi-
+mintaansa sekä palveluiden myyntiä sairaanhoitopiireille ja ongelmien ja komplikaatioi-
+den sattuessa lähettää potilaat päivystystä ylläpitäville julkisille keskus- ja yliopistollisille
+sairaaloille. Lakiesityksessä tämä todetaan aivan suoraan seuraavalla tavalla: ”Uudet sää-
+dökset antaisivat yksityisille toimijoille laajat mahdollisuudet tarjota leikkauspalveluita
+sairaanhoitopiirien keskussairaaloiden sijaintikaupungeissa ilman merkittävää kustannus-
+ten lisääntymistä, koska omaa päivystystä ei vaadittaisi. Ne voisivat tukeutua keskussai-
+raaloihin tukisairaaloina, jolloin niillä ei tarvittaisi merkittävää varautumista leikkaustoi-
+minnan poikkeustilanteisiin.”
+
+Erikoissairaanhoidon tilanteen osalta siis konkretisoituu hyvin tämän hallituksen arvo-
+maailma. Säästöjen varjolla keskitetään ja ajetaan alas julkisia palveluita samalla, kun ava-
+taan mahdollisuus yksityisille voittoa tavoitteleville yrityksille tuottaa näitä samoja palve-
+luita. Kuten todettua, mikäli keskussairaaloilla ei ole riittävästi omaa kapasiteettia, jää heil-
+le ainoaksi mahdollisuudeksi hankkia näitä palveluita lähellä sijaitsevalta yksityiseltä pal-
+veluntuottajalta, kun esimerkiksi 45 minuutin matkan päässä oleva aluesairaala ei enää täl-
+le hallitukselle kelpaa. Hallitusta ohjaa kaupallisuuden ihannointi ja terveysbisnes eikä
+suomalaisten oikeus terveyteen ja hyvään hoitoon.
+
+19.12 Hanna-Leena Mattila kesk: Arvoisa puhemies! Hallituksen esitys 312 terveyden-
+huoltolain muuttamiseksi on koettu pääosin myönteiseksi edistysaskeleeksi maakunnis-
+samme. Sen sijaan ankaraa arvostelua on aiheuttanut päivystysasetukseen sisällytetty 30
+minuutin aikarajavaade leikkaavan ja tehohoitoa antavan yksikön välissä. 
+
+Hallitus asetti hallituskautensa tavoitteeksi sosiaali- ja terveydenhuollon kustannusten
+kasvun hillitsemisen. Kun väestön ikärakenne ja huoltosuhde ovat muuttuneet, ei nykyisen
+kaltainen järjestelmä toimi terveen taloudenpidon säännöillä, vaan kasvavien sosiaali- ja
+terveydenhuollon menot on pitänyt rahoittaa velkarahalla. Tämä on pitemmän päälle kes-
+tämätöntä taloudenpitoa, jolle on täytynyt tehdä jotain, ja tästä ovat olleet kaikki poliittiset
+ryhmittymät samaa mieltä. 
+14
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Sosiaali- ja terveydenhuollon uudistusta on lähdetty tekemään paljolti ajatuksella, että
+terveyden edistämisen tulee olla kuntien ensisijainen tehtävä ja sairaanhoidon leveämpien
+hartioiden eli tulevien maakuntien tehtävänä. Erikoissairaanhoidon keskittäminen yliopis-
+tosairaaloihin on monella tapaa järkevää: sinne keskittyvät osaaminen ja tarvittava laitteis-
+to, joiden resurssit ovat rajalliset väestöpohjallisesti pienehkössä maassamme. Ihminen tar-
+vitsee erikoissairaanhoidon palveluita toivottavasti harvoin elämässään, joten hoitoa var-
+ten voi kyllä matkata matkankin päähän. Ja on toki erityisesti potilaan etu, että häntä hoi-
+tavalla lääkärillä on viimeisin osaaminen ja rutiiniluontoinen tuntemus kyseisestä lääketie-
+teen alasta. 
+
+Kaiken kaikkiaan tämä isoihin yksiköihin keskittäminen on varsin järkevä ajatus, erityi-
+sesti Etelä-Suomen väkirikkailla alueilla. Matkat eivät ole mihinkään kilometreissä mitat-
+tuna pitkiä. Sen sijaan Pohjois- ja Itä-Suomen pitkien etäisyyksien alueilla keskittämisyh-
+tälö ei enää olekaan yhtä perusteltua. Käsillä olevaan terveydenhuoltolain muutokseen on
+tarkoitus lisätä säädös, jonka mukaan sairaanhoitopiiri voisi järjestää leikkaustoimintaa
+yksikössä, jossa on varmistettu riittävä päivystysvalmius ja potilasturvallisuus, vaikka yk-
+sikössä ei ole kuntalaisille avointa ympärivuorokautista perusterveydenhuollon ja erikois-
+sairaanhoidon yhteispäivystystä. Muutoksen tarkoituksena on saattaa julkinen ja yksityi-
+nen leikkaustoiminta samanarvoiseen asemaan. Perusteluissa toiminnan ehdoiksi asete-
+taan, että leikkaavalla sairaalalla täytyy olla käytössään niin sanottu tukisairaala, jossa on
+tehohoitovalmius, ja tämän pitää olla saavutettavissa 30 minuutin sisällä. 
+
+Arvoisa puhemies! 30 minuutin aikarajavaade tulee lopettamaan kaiken nukutusta vaa-
+tivan leikkaustoiminnan keskussairaalakaupunkien ulkopuolella. Tämä koskee sekä julki-
+sia että yksityisiä toimijoita. Pohjois-Pohjanmaan sairaanhoitopiirin alueella tämä merkit-
+see leikkaustoiminnan loppumista Raahen sairaalasta ja jollakin aikajänteellä myös Oulas-
+kankaan sairaalasta. Työtä päivystysasetuksen muuttamiseksi 30 minuutin aikarajavaa-
+teen osalta on tehty, mutta yritykset ovat karahtaneet pahasti kiville. Täytyy aidosti ihme-
+tellä, miksi kyseinen minuuttimäärä halutaan sisällytettäväksi päivystysasetukseen, vaik-
+ka lääkäreiden ja asiasta muuten ymmärtävien mielestä siihen ei ole lääketieteellisiä
+perusteita. 
+
+Ainoastaan yliopistosairaaloiden lääkärit ja ministeriön virkamiehet ovat puoltaneet tätä
+yksisilmäistä leikkaustoiminnan keskittämistä yliopistosairaaloihin. Kun erikoissairaan-
+hoidon työnjakoa ja päivystystä koskevilla uudistuksilla haluttiin tavoitella 350 miljoonan
+euron säästöjä, niin tiedossa on jo nyt, ettei niitä tällä uudistuksella saavuteta. Miksi tällä
+minuuttimäärällä halutaan romuttaa Pohjois-Pohjanmaan sairaanhoitopiirin ja alueen alue-
+sairaaloiden toimiva työnjako, joka on ollut kustannustehokasta? Miksi pelkän päivystyk-
+sen omaavalta leikkausyksiköltä vaaditaan valmiutta siirtää potilas tarvittaessa tukisairaa-
+laan 30 minuutissa, mutta sairaanhoitopiirin yhteispäivystyksen omaavassa leikkausyksi-
+kössä ei? Voihan sielläkin sattua tehohoitoa vaativa komplikaatio. 
+
+Me Raahen ja Oulaskankaan sairaaloiden vaikutuspiirissä asuvat ihmiset olemme mur-
+heellisia ja järkyttyneitä siitä, ettei aikarajavaatimuksen kokonaisseuraamuksia ole haluttu
+huomioida. Jos muutos tulee voimaan, merkitsee se Raahessa noin 50 ihmisen työpaikan
+vähenemistä ja työn siirtymistä Ouluun. Oulaskankaalla vaikutukset tulevat olemaan vie-
+läkin dramaattisemmat työpaikkoihin ja muuhun terveydenhuollon palveluihin. 
+
+Toivon ja vetoan Raahen ja Oulaisten seutukunnan ihmisten puolesta, että järki tulisi
+vielä asiasta päättävien käteen ja sellainen ihme tapahtuisi, että kyseinen laki astuisi voi-
+maan ilman tarkkaa minuuttimäärää leikkaavan ja tehohoitoa antavan yksikön välillä. Täs-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+sä tilanteessa olisi myös suurta viisautta jättää muutenkin tulevien maakuntien tehtäväksi
+järjestää alueen sairaanhoito sen parhaaksi katsomalla tavalla.
+
+19.18 Katja Hänninen vas: Arvoisa rouva puhemies! Tässä salissa on käyty tänään tästä
+aiheesta erittäin hyvää keskustelua ja erittäin tärkeää keskustelua. Ensin täytyy kyllä sanoa
+kritiikkiä siitä, että oli varattu vain 30 minuuttia aikaa sille keskustelulle, jossa päätetään ja
+jossa käydään keskustelua eräästä kaikkein tärkeimmistä lakiesityksistä, mitä tässä salissa
+tällä vaalikaudella on annettu, ja siinä mielessä kyllä ihmettelen tätä käsittelymenettelyä.
+Nyt sitten tietysti pääsemme puhujapöntössä tästä aiheesta puhumaan ja kertomaan näke-
+myksemme, mutta olisin toivonut, että olisi varattu huomattavasti enemmän aikaa tuossa
+päivällä käydyssä keskustelussa.
+
+Arvoisa puhemies! Täytyy kyllä ihmetellä myös sitä, että kun keskustaministerit ajavat
+tällaisia lakiesityksiä, niin heidän edustajansa täällä salissa sitten toteavat, että eivät voi
+tätä kannattaa. Niin ei tietenkään pidäkään tehdä, elikkä ei missään tapauksessa tämmöistä
+keskittämislakia eikä tätä yksityistämislakia pidä kannattaa, mutta toivoisin, että silloin
+kun tässä salissa äänestetään elikkä päätetään näistä lakiehdotuksista, myös nämä edusta-
+jat muistavat, mitä nappia painavat. Elikkä aikanaan tämäkin esitys tulee tässä salissa pää-
+tettäväksi, ja silloin jokainen voi sitten osoittaa käytännön tasolla puheensa todeksi elikkä
+äänestää sitten tätä lakipakettia vastaan eikä hyväksyä sellaista esitystä, joka avaa markki-
+nat yksityisille toimijoille ja ajaa julkiset, tähän asti hyvin toimineet sairaalat alas. Tämä on
+Sipilän hallituksen logiikka terveydenhuollon kehittämisessä — ensin keskitetään ja sitten
+yksityistetään.
+
+Säästösyistä tehdyt muutokset terveydenhuoltolakiin ja päivystysasetuksen kovat kri-
+teerit ovat ajaneet aluesairaaloita alas kovalla tahdilla, ja meno vain kiihtyy. Eilen uutisoi-
+tiin tosiaan kotikaupunkini Raahen sairaalan leikkaustoiminnan loppumisesta. Raahessa
+on tehty alueellisiin sopimuksiin perustuen muun muassa pehmytkudoskirurgisia toimen-
+piteitä, mikä on helpottanut jonotilannetta alueen keskuskaupungissa Oulussa. Nämä ovat
+olleet siis kustannustehokkaita toimenpiteitä, elikkä ei ole mitään syitä eikä perusteluita
+kyllä ajaa tätä toimintaa alas. Raahen sairaala ei kuitenkaan pysty täyttämään päivystysase-
+tuksessa määriteltyjä tiukkoja laatukriteereitä, ja tästä syystä tämä toiminta, turvallinen
+leikkaustoiminta, on ajettu alas. Nyt käsittelyssä oleva terveydenhuoltolain muutos ei kui-
+tenkaan auta esimerkiksi Raahen tilannetta, sillä matkaa laajan päivystyksen sairaalaan on
+yli puoli tuntia. Näin taitaa olla kaikkialla muuallakin paitsi Uudellamaalla.
+
+Hallituksen esitys terveydenhuoltolain muutoksesta on röyhkeä esimerkki siitä, miten
+lakia on valmisteltu yksityisten yritysten ensisijaisen edun näkökulmasta. Tällä esityksellä
+hallitus käytännössä poistaa yksityisiltä yrityksiltä samat vaatimukset leikkaustoiminnalle
+kuin mitkä koskevat julkisia aluesairaaloita. Nyt keskuskaupungeissa sijaitsevat terveys-
+yritykset pääsevät keräämään voitot, ja julkinen taho toimii maksajana. Tämä esitys ei kor-
+jaa sitä virhettä, joka tässä salissa tehtiin vuonna 2016, kun terveydenhuoltolain muutok-
+sista äänestettiin. Tämän esityksen hyväksyessään eduskunta avaa terveydenhuoltolain
+markkinat yksityiselle terveysbisnekselle huolimatta siitä, meneekö sote läpi vai ei. Pää-
+tösvalta toimenpiteiden tarkoituksenmukaisesta suorituspaikasta pitäisi jättää yleisten laa-
+tuvaatimusten puitteissa sovittavaksi kunkin erityisvastuualueen sairaaloiden kesken val-
+tiovallan tiukan ohjauksen ja pakkokeskittämisen sijaan. Toivon todella, että tämä lakiesi-
+tys ja asetuksessa määritellyt tiukat kriteerit eivät tule menemään läpi.
+16
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+19.22 Kristiina Salonen sd: Arvoisa puhemies! Maan hallituksen tekemä keskittämispää-
+tös lakkautti aluesairaaloista leikkaustoiminnan ja ympärivuorokautisen päivystyksen vuo-
+den 2018 alussa ympäri Suomen. Näin tapahtui myös Raumalla. Hallitus perusteli tuolloin
+keskittämistä kahdella syyllä: säästöillä ja potilasturvallisuuden vaarantumisella pienissä
+aluesairaalan yksiköissä.
+
+Nyt tiedetään, ettei säästöjä syntynyt — siis niitä säästöjä, joista edustaja Mattilakin
+tuossa aikaisemmin puheenvuorossaan puhui. Tavoitteeksi asetettiin 260 miljoonan euron
+säästö, mutta uusimmat kyselyt kertovat, että näin ei tule tapahtumaan. Itse asiassa Kunta-
+liiton teettämän kyselytutkimuksen mukaan realistisempi säästötoteuma olisi korkeintaan
+10 miljoonassa eurossa. Siis 260 miljoonan euron sijaan, jota lähdettiin tavoittelemaan, nyt
+näyttää siltä, että toteuma olisi korkeintaan 10 miljoonassa eurossa. Eli säästöjä ei tullut.
+
+No, entä sitten turvallisuus, se toinen seikka, jolla tätä keskittämistä silloin aikaisemmin
+perusteltiin? Ensinnäkin tämä keskittämispykälä tuotiin eduskuntaan kiireellisenä budjet-
+tilakina, joka vietiin läpi vuoden 2017 valtion budjetin yhteydessä. Eduskunnassa häm-
+mästeltiin tuolloin kiirettä, ja sitä on hämmästelty myöskin tänään täällä keskustelussa.
+Sairaalaverkosta päättäminen yksittäisen pykälän muutoksella tuntui vähintäänkin huonol-
+ta lainsäädäntöjärjestykseltä tilanteessa, jossa koko sote-uudistus ja valinnanvapauden lin-
+jaukset olivat päättämättä. Nyt me olemme siinä tilanteessa, että ne ovat edelleen päättä-
+mättä ja olemme jo tuomassa korjauksen tähän aikaisempaan keskittämispykälään, joka
+tehtiin. Ennenkuulumatonta. Ennenkuulumatonta.
+
+No, reilu vuosi tuon kaiken jälkeen me siis käsittelemme täällä nyt sitten tarkennusta.
+Lähinnä yksityisen toiminnan mahdollistamiseksi on haluttu tehdä tällainen tarkennus la-
+kiin. Terveydenhuoltolakiin esitetään poikkeussäännöstä kiireettömästä leikkaustoimin-
+nasta. Jatkossa sairaanhoitopiiri voisi järjestää kiireetöntä leikkaussaliolosuhteita ja anes-
+tesiaa vaativaa leikkaustoimintaa myös toimintayksiköissä — alleviivaan: ”myös toimin-
+tayksiköissä” — joissa ei ole ympärivuorokautista yhteispäivystystä. Siis mitä? Onko nyt
+kuitenkin niin, että on juridisesti mahdollista nykyistä laajempi leikkaustoiminta esimer-
+kiksi Rauman aluesairaalassa, siis sellainen toiminta, joka ajettiin alas? No, valitettavasti
+ei. Ei, koska tämä lakimuutos on kädenojennus lähinnä yliopistosairaalakaupungeissa toi-
+miville yksityisille leikkausta tekeville yrityksille. Niitä vartenhan tämä lakiesitys on rää-
+tälöity. Siinä missä esimerkiksi julkisia aluesairaaloita vaadittiin potilasturvallisuuteen ve-
+doten lakkauttamaan leikkaustoimintansa, halutaan nyt vastaavanlainen leikkaustoiminta
+mahdollistaa isoissa kaupungeissa ja niiden lähistöllä. Se ei ole tasapuolista.
+
+Aluesairaalassa hyvä potilasturvallisuus perustui pienen riskin leikkauksiin, tarkkaan
+ennakkokartoitukseen ja suunnitteluun sekä seurantaan. Ja juuri tätä — juuri tätä — vaadi-
+taan nyt myös uudessa asetuksessa. Siis noinko vain katosivat väitetyt potilasturvallisuus-
+riskit? Nyt riskit uskotaan leikkausten määrän lisäksi minimoitavan uudella luvulla, siis
+tällä vastaavalla luvulla, jota edustaja Mattila juuri täällä myöskin kritisoi: kiireettömiä
+leikkauksia saa tehdä vain sellaisella etäisyydellä laajasta ympärivuorokautisesta päivys-
+tyksestä, jossa potilas pystytään siirtämään ensihoitopalvelun yksiköllä 30 minuutissa jat-
+kohoitoon.
+
+No, jos luette näitä lausuntopalautteita — itse asiassa on mielenkiintoista sekin, kuinka
+pitkään tätä kierrosta on tehty, lausuntopalautteethan pyydettiin jo aikoja sitten, ja tämä
+esitys jostain syystä on jäänyt sen jälkeen tuonne matkan varrelle, ja sekin kertoo siitä, mis-
+tä tässä on kysymys — niin lausuntopalautteessa on 30 minuutin rajasta sanottu muun
+muassa, että se on ”läpinäkyvästi tarkoituksenhakuinen eikä perustu faktatietoon”. Kysees-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+sä taitaakin siis olla taas uusi esitys, jossa lain todelliset tarkoitukset verhotaan potilastur-
+vallisuuden ja säästöjen taakse, aivan niin kuin aikaisemmassa keskittämisasetuksessakin
+oli.
+
+Leikkaustoimintaa tarvitaan niin julkisella kuin yksityiselläkin sektorilla. Kuitenkin
+juuri aluesairaalaverkolla on Suomessa merkitystä alueiden asukkaiden ja elinvoiman kan-
+nalta, niin kuin useampi puhuja on täällä aikaisemmin jo todennut.
+
+Mitä tulee aikaisempaan keskusteluun, niin totean, että edustaja Anttila kysyi täällä, mi-
+ten jatkossa tullaan turvaamaan osaajat näissä laajaa ympärivuorokautista päivystystä te-
+kevissä yksiköissä, ja juuri siitähän tässä onkin kysymys. Kun ei leikkauksia voida tehdä
+enää näissä keskussairaaloissakaan osaamispulan takia, ainoaksi vaihtoehdoksi jää ostaa
+palveluita yksityisiltä. Näin ollen juuri tällä kyseisellä lakiesityksellä päästään toteutta-
+maan se tahtotila, jota on ajettu kuin käärmettä pyssyyn tämän viimeisen vuoden aikana,
+jonka tämä hallituksen esitys on tuolla valmistelussa ollut, eli lisää leikkaustoimintaa yk-
+sityisille yrityksille meidän kattavan aluesairaalaverkkomme ja julkisen toiminnan kustan-
+nuksella.
+
+19.29 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Tämän lakiesityksen kohdalla
+30 minuutin keskustelu ministerin läsnä ollessa oli kyllä aivan liian lyhytaikainen, niin että
+tätä kyllä soisi mietittävän, että jos on merkittävä lakiesitys, niin pitäisikö tätä käytäntöä
+muuttaa, koska olisi erittäin tärkeää, että ministeri olisi mukana tämänkaltaisissa keskuste-
+luissa. Toki me voimme täällä tätä keskustelua käydä kuinka hyvin tahansa, mutta täällä on
+ministerin lähtemisen jälkeen tullut niin monta sellaista kysymystä, joihin olisi toivonut
+ministerin olevan paikan päällä vastaamassa, että sinällään tämä oli minusta tässä kohdas-
+sa huono asia, vaikka monessa muussa kohdassa 30 minuutin keskustelu on toiminut ihan
+suhteellisen hyvin.
+
+Arvoisa puhemies! Nyt tähän varsinaiseen lakiesitykseen. Tämä lakiesitys kertoo pal-
+jon hallituksen ideologiasta ja toimintatavoista. Kun tarkastellaan prosessin näkökulmasta
+asian etenemistä, niin kovin korkeita laatupisteitä ei voi hallitukselle antaa. Ihmettelen to-
+della, miten keskusta on tähän suostunut. Lienee kysymys jälleen jostakin lehmänkaupas-
+ta, kenties. Kritiikki tätä lakiesitystä kohtaan ei ole kuitenkaan tullut ainoastaan oppositiol-
+ta, vaan myöskin muun muassa keskustan kansanedustajat ovat olleet samaa mieltä siitä,
+että tämä lakiesitys olisi kyllä saanut jäädä tekemättä. Edes täällä käydyssä debattikeskus-
+telussa ministeriä lukuun ottamatta lakiesitykselle ei kyllä tainnut löytyä puolustajia.
+
+Kerrataan vielä vähän tätä prosessia. Vuoden 2017 alusta kiirehdittiin voimaan tervey-
+denhuoltolain muutos, jolla ajettiin alas julkinen leikkaustoiminta muualla kuin keskussai-
+raaloissa. Asialla tuntui olevan kova kiire silloin, ja sitä perusteltiin muun muassa potilas-
+turvallisuudella. Ja nyt tämä sama hallitus haluaa, jälleen potilasturvallisuuteenkin vedo-
+ten, mahdollistaa yksityisten toimijoiden julkisella rahalla tekemät leikkaukset keskussai-
+raalan ulkopuolella. Toteutuessaan tämä lakiesitys betonoi yksityisten toimijoiden mah-
+dollisuudet jatkaa ja laajentaa leikkaustoimintaa, vaikka ministeri omassa puheenvuoros-
+saan kielsikin tämän näkökulman. 
+
+Julkiselta puolelta nämä mahdollisuudet on viety, kun aluesairaaloiden leikkaustoimin-
+ta on lakkautettu ja osaajat ovat kaikonneet. Mikä järki tässä kaikessa on? Miksi aluesai-
+raaloiden leikkaustoiminnan lopettamisella oli vuonna 2017 niin kiire? Silloin SDP vastus-
+ti asiaa ja totesi, että asiassa ei kannata kiirehtiä, koska ilman tarkempaa tietoa soten ja va-
+18
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+linnanvapauden sisällöstä ei näin tärkeistä asioista saisi päättää. Nyt nähdään, miten käy,
+kun lainsäädäntötyötä tehdään liian kiireellä ilman kunnollista vaikutusten arviointia.
+
+Yksityisen leikkaustoiminnan pönkittäminen vaarantaa myös julkisen sektorin päivys-
+tyksen, koska on todellakin aiheellista kysyä, mistä lopulta löytyvät osaajat, kun lääkärei-
+den määrä on kuitenkin maassamme rajallinen — etenkin, kun yksityinen sektori saattaa
+olla nyt monelle ammattilaiselle houkuttelevampi vaihtoehto, kun siellä ei ole sitä ympäri-
+vuorokautista päivystystä. Kaiken lisäksi julkisen puolen pitää tässäkin asiassa sitten kan-
+taa se viimeinen vastuu, sillä potilas pitää saada tarvittaessa siirrettyä nopeasti jatkohoi-
+toon sairaalaan, jossa on ympärivuorokautista toimintaa. Tämä vaikuttaa kermankuorin-
+nalta tässäkin suhteessa.
+
+Hallituksen sote-esityksen markkinamalli mahdollistaa yksityiselle sektorille yli 5 mil-
+jardin euron markkinat. Hallitus tekee kauppaa ihmisten terveydellä ja maksattaa laskun
+veronmaksajilla. Kuka hyötyy? Yksityiset terveysmarkkinat.
+
+Toivottavasti tämä lakiesitys ei toteudu ikinä. Toisaalta, lieneekö hallituksellakaan mi-
+tään tarkoitusta viedä tätä lakiesitystä eteenpäin?
+
+19.33 Hanna Sarkkinen vas: Arvoisa puhemies! Keskustavetoinen hallitus ja sen sote-
+ministerit jäävät historiaan erikoissairaanhoidon keskittämisestä ja suomalaisen terveyden-
+huollon markkinaehtoistamisesta. Anestesiaa vaativien leikkausten keskittäminen ja siitä
+seuraava aluesairaaloiden alasajo on ollut yksi hallituksen terveydenhuollon muutoshank-
+keista. Leikkausten keskittämistä keskuskaupunkien päivystäviin sairaaloihin on perustel-
+tu potilasturvallisuudella ja laadun parantumisella, mutta taustalla vaikuttavat tosiasiassa
+hallituksen säästötavoitteet. Tosin nyt näyttää siltä, ettei näitä säästöjä tulla edes saavutta-
+maan, vaikka keskittyminen toteutuu. Leikkausten keskittämiset on pakotettu sairaanhoi-
+topiireihin terveydenhuoltolain muutoksella ja lakiin perustuvilla asetuksilla. Eduskunnas-
+sa äänestettiin keskittämistä koskevista terveydenhuoltolain muutoksista vuonna 2016, ja
+keskittämistä ajavat asetukset on annettu niin ikään tällä kaudella keskustan ministerien
+toimesta. 
+
+Arvoisa puhemies! Nyt olisi pelastettava se, mikä pelastettavissa on, ja muutettava
+vuonna 2016 terveydenhuoltolakiin säädetty pakkokeskittäminen ja keskittämisasetukset.
+Tänään eduskunnassa käsittelyssä oleva hallituksen esitys terveydenhuoltolain muuttami-
+sesta ei kuitenkaan pelasta Raahen sairaalaa tai muita aluesairaaloita. Hallitus esittää la-
+kiin muutosta, joka sallisi yleisanestesiaa vaativat leikkaukset myös muissa kuin laajan
+päivystyksen sairaaloissa, mutta vain jos potilas on siirrettävissä laajan päivystyksen yk-
+sikköön 30 minuutissa. Esitys ei mahdollista leikkaustoiminnan jatkoa useimmissa alue-
+sairaaloissa, sillä ne sijaitsevat yleensä kauempana alueen laajan päivystyksen sairaalasta.
+On muistettava, että leikkaustoiminnan alasajo näivettää aluesairaaloita laajemminkin, sil-
+lä mielekkäiden työkokonaisuuksien järjestäminen vaikeutuu ja osaavia lääkäreitä on leik-
+kausten loputtua entistä vaikeampi saada pysymään alueella. 
+
+Arvoisa puhemies! Tämä esitys onkin yksityisiä terveysyrityksiä suosiva, etten sanoisi
+niille räätälöity. Keskuskaupungeissa sijaitseville terveysyrityksille avautuvat auvoisat
+apajat, kun hallitus ajaa aluesairaaloiden toiminnan ja niissä tehtävät leikkaukset alas mut-
+ta mahdollistaa palveluiden oston keskuskaupunkien yksityisistä sairaaloista. Lakia voi oi-
+keutetusti kutsua Lex Terveystaloksi. Nimi on osuva, sillä lain myötä rutiinileikkauksia
+siirretään aluesairaaloiden alasajon myötä ruuhkautuneista keskussairaaloista yksityisille
+sairaaloille ja samalla osaavat lääkärit siirtyvät sinne. Kuitenkin julkiselle puolelle jäisi
+19
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+kallis päivystys ja komplikaatioiden hoito. Tämä vääristäisi kilpailua yksityisten ja julkis-
+ten toimijoiden välillä yksityisten terveysjättien eduksi. Kyse on puhdasoppisesta kerman-
+kuorinnasta.
+
+Arvoisa puhemies! Ministeri sanoi täällä, ettei sairaanhoitopiireillä ole pakkoa ostaa
+leikkauksia yksityisiltä jatkossakaan. No, ei teoriassa ole pakkoa, mutta käytännössä voi
+olla pakko, kun keskussairaala on ensin ruuhkautettu aluesairaaloiden leikkaustoiminnan
+alasajon vuoksi. Tämä muutos voi johtaa myös keskussairaaloiden toiminnan ja päivystyk-
+sen vaarantumiseen, sillä osaava henkilökunta voi entistä laajemmin hakeutua töihin yksi-
+tyisiin sairaaloihin kevyempien työtehtävien ääreen pois päivystysvelvollisuuden piiristä.
+
+Arvoisa puhemies! Tämän Lex Terveystalon sijaan terveydenhuoltolakia ja asetuksia
+tulisi muuttaa siten, että sairaanhoitopiireille ja erityisvastuualueille palautetaan mahdolli-
+suus järjestää leikkaustoiminnan ja sairaaloiden välinen työnjako parhaaksi katsomallaan
+tavalla siten, että myös aluesairaaloissa voitaisiin leikata potilasturvallisuudesta huolehti-
+en. Helsingistä saneltu pakkokeskittäminen ei ole oikea toimintatapa. Kysymys kuuluu:
+miksi hallitus haluaa perustaa sote-maakunnat mutta ei sitten luota niiden osaavan tehdä
+itse päätöksiä sairaaloiden välisestä työnjaosta yleisten laatuvaatimusten puitteissa?
+
+19.38 Mari-Leena Talvitie kok: Arvoisa puhemies! Tämän lain keskustelu kulminoituu
+ainakin henkilökohtaiselta tasolta aika lailla siihen puoleen tuntiin eli 30 minuuttiin. Jos-
+kus se on riittävä aika, joskus se ei riitä. Tänään täällä salissa debattia käytiin ministerin
+läsnäollessa noin se puoli tuntia, 30 minuuttia. Siitä jäi varmasti monelle kollegalle se tun-
+ne, että se ei ollut riittävä. Olisi tarvittu pidempi aika. Palaan vielä puheen loppuvaiheessa
+tähän puoleen tuntiin tarkemmin.
+
+Lähetekeskustelussa olevassa terveydenhuoltolain muutoksessa on kyse siitä, että lakiin
+lisättäisiin uusi säännös, jonka mukaan sairaanhoitopiiri voisi järjestää leikkaustoimintaa
+toimintayksikössä, jossa on varmistettu riittävä päivystysvalmius ja potilasturvallisuus il-
+man, että yksikössä on ympärivuorokautinen yhteispäivystys. Säännöksessä määriteltäi-
+siin siis tällaisen toiminnan kriteerit. Kaiken kaikkiaan tämä lakiesitys siis mahdollistaa
+anestesiaa ja leikkaussaliolosuhteita edellyttävän kiireettömän leikkaustoiminnan tai ylei-
+sanestesiaa edellyttävien muiden kiireettömien toimenpiteiden tekemisen myös sellaisissa
+toimintayksiköissä, joissa ei ole ympärivuorokautista yhteispäivystystä.
+
+Näen kuitenkin toisin kuin tässä salissa on sanottu, eli että tämä esitys nimenomaan syn-
+nyttäisi yksityispuolen leikkaustoiminnan. Sitä vaikutusta sillä ei ole, koska sitä yksityisen
+puolen leikkaustoimintaa on ollut jo ennen tätä vuotta ja ennen tätä hallituskautta, eikä
+tämä esitys kosketa kymmeniä julkisia sairaaloita mutta koskettaa kuitenkin muutamia, ja
+muutos olisi täysin ymmärrettävästi varsin iso niissä aluesairaaloissa, joita tämä koskettaa.
+
+Mitkä edellytykset ovat aiheuttaneet kaikkein eniten ihmetystä? Vaikka nyt on kyse siis
+lähetekeskustelusta, jonka jälkeen sosiaali- ja terveysvaliokunta vasta aloittaa hallituksen
+esityksen käsittelyn, niin valmistelun aikana on ihmetystä aiheuttanut eniten esitys, että po-
+tilas tulisi pystyä siirtämään tukisairaalaan 30 minuutissa. Tämä merkitsee joidenkin yksi-
+tyisten leikkaustoimintaa tekevien yksiköiden osalta merkittävää muutosta tai jopa lak-
+kauttamista. Valmistelun aikana eri tahot ovat esittäneet myös pidempiä aikarajoja, 45:tä
+minuuttia tai 60:ta minuuttia. Mutta potilasturvallisuuden varmistamiseksi STM, sosiaali-
+ja terveysministeriö, on pitäytynyt valmistelussa 30 minuutin aikarajassa. Myös aikarajo-
+jen poistamista ja niiden korvaamista muilla laatukriteereillä on ehdotettu. Kattavien leik-
+20
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+kaustoimien laatukriteerien valmistelu olisi iso työ, ja näköjään tällä aikataululla se ei ole
+ollut mahdollista.
+
+Tämä 30 minuutin aikaraja tuntuu kuitenkin suhteettoman pieneltä siinä mielessä, että
+jos ajatellaan esimerkiksi kotikaupunkiani Oulua, se 30 minuuttia saattaa siellä, kuten mo-
+nissa muissakin kasvukeskuksissa, mennä jo ruuhkassa, ja näin ollen nyt tämä 30 minuutin
+aikaraja, jos siihen ei sosiaali- ja terveysvaliokunta tule poikkeusta tai joustavuutta teke-
+mään, olisi painava kriteeri joidenkin sairaaloiden osalta. Esimerkiksi Pohjois-Pohjan-
+maalla eli Oulun yliopiston sairaalan alueella tämä 30 minuutin aikaraja koskettaa nimen-
+omaan Raahen sairaalaa. Raahen sairaala toimii kiinteässä yhteistyössä sairaanhoitopiirin
+kanssa, ja leikkaustoiminta perustuu sairaanhoitopiirin sisällä sovittuun toimivaan työnja-
+koon. Raahen sairaalasta on matkaa Ouluun noin 60 minuuttia henkilöautolla. Tietenkin
+hälytysajoneuvolla sinne pääsee nopeammin, mutta ei kuitenkaan missään tapauksessa 30
+minuutin aikarajassa. Raahen sairaalassa leikkaustoiminta on myös taloudellisesti tehokas-
+ta, ja mikäli leikkaustoiminta lopetettaisiin, on vastaava kapasiteetti löydettävä jostain
+muualta. Oulun yliopiston sairaalassa Tulevaisuuden sairaala -hanketta ja investointeja
+tehdään tulevien 4—5 vuoden aikana, ja siinä mielessä leikkaustoiminnan vastaavan kapa-
+siteetin hankkiminen esimerkiksi sieltä olisi kriittistä. Leikkaustoiminnan lopettaminen ve-
+doten siihen 30 minuutin aikarajaan ei siis ole toiminnallisesti eikä taloudellisesti tässä vai-
+heessa perusteltua.
+
+Raahen kuntayhtymän johtaja Hannu Kallunki onkin esittänyt, että tästä käsittelyssä
+olevasta terveydenhuoltolain muutoksesta tulisi poistaa tuo 45 §:n kolmas momentti, joka
+siis kuuluu: ”Leikkaustoiminta, joka edellyttää leikkaussaliolosuhteita ja anestesiaa, tulee
+kokonaisuudessaan koota niihin sairaaloihin, joissa on ympärivuorokautinen perustervey-
+denhuollon ja erikoissairaanhoidon yhteispäivystys.” Näin ollen jätettäisiin aluesairaalan
+leikkaustoiminta ja siihen liittyvä työnjako tulevien maakuntien ratkaistavaksi. Tämä muu-
+tos ei sinänsä vaarantaisi tämän lain muutoksella muutoin tavoiteltua keskussairaaloiden
+välistä työjakoa.
+
+Kun sosiaali- ja terveysvaliokunta aloittaa lain käsittelyn, toivonkin, että erityisesti tä-
+hän aikarajaan, josta siis valmistelun yhteydessä on ollut ainakin 30:tä minuuttia, 45:tä mi-
+nuuttia ja 60:tä minuuttia esillä, sosiaali- ja terveysvaliokunta tulee paneutumaan.
+
+19.44 Kristiina Salonen sd: Arvoisa puhemies! On oikeastaan aika surullista, että tänään-
+kin on kuultu, kuinka vahva tahto eduskunnassa on yli hallitus—oppositio-rajojen muuttaa
+tätä lainsäädäntöä ja kuinka vahvasti on käytetty puheenvuoroja sen puolesta, että myös-
+kin julkisten aluesairaaloiden toimintaa olisi pitänyt arvostaa aivan yhtä lailla. Kuka tätä
+lakia puolustaa? Missä ovat ne ihmiset, jotka ovat sitä mieltä, että tämä laki tai tämä kes-
+kittäminen on ollut hyvä ratkaisu? Niidenkin hallituspuolueiden edustajien puheenvuorois-
+sa, joissa on ikään kuin yritetty ymmärtää, mitä tällä lailla haetaan, on kuitenkin nähty ai-
+van samanlaisia riskejä kuin opposition puheenvuoroissakin.
+
+Miksi alueet eivät ole saaneet päättää työnjaosta? Se on keskeinen, tärkeä kysymys. Alu-
+eilla on osaamista ja tietämystä siitä, miten voitaisiin päättää keskenään esimerkiksi työn-
+jaosta leikkaustoiminnassa niin, että koko alueen paras toteutuisi. Ja miten keskusta on voi-
+nut tähän suostua? Tässä on kysymys myöskin alueiden elinvoimasta ja alueiden elinvoi-
+mapolitiikasta. Olen kuvitellut, että kaikenlainen tällainen pakkokeskittäminen ei ole ai-
+kaisemmin käynyt, mutta nyt tällaisiin päätöksiin suostutaan. 
+21
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Syksyllä 2017 eduskunnassa edustaja Henriksson teki lakialoitteen, jolla pyrittiin kor-
+jaamaan tätä ongelmaa. Tämä siis tiedettiin ja nähtiin. Itse asiassa useissa, lukuisissa pala-
+vereissa, joissa on ollut kansanedustajia yli hallitus—oppositio-rajojen — ja minäkin olen
+päässyt olemaan tällaisissa keskusteluissa mukana — on tavattu ministeriä, pyritty kerto-
+maan alueelta se viesti, mitä on tapahtunut jo aikaisemmalla keskittämispäätöksellä mutta
+myöskin mitä tulisi tapahtumaan alueilla siitä jälkeen jääneillä osioilla. Sitä vielä yritettiin
+tämän lakialoitteenkin kautta lopulta korjata ja muuttaa vielä suuntaa, kun nähtiin, että ol-
+laan tekemässä virheratkaisuja aluesairaaloiden toiminnan lakkauttamisen osalta. Mutta ei
+mitään: pysyttiin tiukasti kiinni päätöksessä, joka oli tehty, jossa vedottiin säästöihin ja po-
+tilasturvallisuuteen. 
+
+Kuten me tiedämme, säästöt eivät ole toteutuneet. Potilasturvallisuuden osalta ei ole ol-
+lut ongelmia, sellaisia ongelmia, joihin syihin vedoten olisi voitu näitä muutoksia tehdä. Ja
+nyt sitten tuodaan tällainen esitys eduskuntaan, jossa itse asiassa todetaan, että se potilas-
+turvallisuus ja ne toimenpiteet, joita aluesairaaloissa tehtiin, ovatkin nyt sallittuja näitten
+yksityisten osalta, kun on 30 minuutin aikarajan päässä.
+
+19.47 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Minulle jäi kovin epäselväksi
+kuunnellessani ministeriä tänä päivänä, miksi hallitus halusi tuoda tämän esityksen tänne
+eduskuntaan. Minun mielestäni ministeri ei pystynyt perustelemaan uskottavalla tavalla tä-
+män lakiesityksen hyötyjä ainakaan palveluja tarvitsevien kansalaisten näkökulmasta. Mi-
+nun on erityisen vaikea ymmärtää keskustan toimintaa tässä asiassa. Kokoomus kyllä sai,
+mitä halusi, mutta mitä ihmettä keskusta saa? Keskusta on puhunut aina alueiden puolesta
+ja alueellistamisesta, mutta nyt ollaan kyllä keskittämässä terveyspalveluja ihan viimeisen
+päälle. Tosin keskusta on tainnut luopua alueiden puolustamisesta jo tämän hallituskauden
+alusta alkaen. Tämä on näkynyt monissa muissakin asioissa kuin tässä asiassa. 
+
+Tämänkin lakiesityksen kohdalla jää kysymään, miksi vaikutusten arviointia ei ole teh-
+ty kunnolla. Esimerkiksi alueelliset vaikutukset puuttuvat lähes kokonaan tästä lakiesityk-
+sestä, ja muutenkin kovin köykäinen on tuo vaikutusten arviointi, kun katsoin tuota esitys-
+tä. Minä luulen, että jos hallitus olisi tehnyt perusteellisen hyöty—haitta-analyysin, niin
+tämä esitys olisi jäänyt tekemättä, sillä tästä esityksestä eivät hyödy muut kuin yksityiset
+terveysyritykset.
+
+19.49 Mari-Leena Talvitie kok: Arvoisa puhemies! Täällä aiemmin keskustelussa osa
+kollegoista nosti esiin, että tämä lainsäädäntö aloittaa yksityisen leikkaustoiminnan ja ta-
+vallaan suurentaa sitä leikkaustoimintaa. Sattui juuri silmään sosiaali- ja terveysministeri-
+ön ylijohtajan Kirsi Varhilan uusin blogi, ja lainaan nyt siitä blogista näitä määriä. Eli Hy-
+vinvointialan liitto on arvioinut, että julkinen ostaa leikkauksia yksityiseltä vuositasolla
+noin 300 miljoonalla eurolla. Näistä nukutuksessa tehtävien leikkausten volyymi on sosi-
+aali- ja terveysministeriön arvion mukaan noin 170 miljoonaa euroa. Uusien kriteerien
+myötä 80 prosenttia yksityisten nykyisestä volyymista olisi jatkossa lain mukaista, joten
+yksityisten volyymi vähentynee nykyisestä ja samalla selkiytyy, missä ja millaisissa yksi-
+köissä voidaan tehdä leikkauksia julkisella rahalla. Käsittelyssä oleva hallituksen esitys
+edistää osittain myöskin sitä integraation puolta, mutta varmasti on myöskin kritiikkiä.
+
+Lopuksi kuitenkin vielä sanon, että puolustan ministeri Saarikkoa, vaikka en aivan koko
+aikaa kuullutkaan debattia, siinä mielessä, että tämä laki laittaa yksityisen ja julkisen puo-
+22
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+len samalle tasolle, vaikkakin toivon, että tähän aikamääreeseen sosiaali- ja terveysvalio-
+kunta vielä palaa.
+
+19.51 Kristiina Salonen sd: Arvoisa puhemies! On vielä todettava tästä 30 minuutin ai-
+karajasta ja sen keinotekoisuudesta: Minusta on jotenkin nurinkurista, että esimerkiksi Sa-
+takunnassa potilas voi ajaa Raumalta autollaan Poriin leikattavaksi, olla siellä päiväkirur-
+gisessa operaatiossa päivän ajan ja tulla iltapäivällä palautetuksi takaisin kotiinsa Raumal-
+le, ja jos sitten sattuu jotain sen jälkeen, hän on pidemmän kuin tämän 30 minuutin aikara-
+jan päässä, ja se ei ole potilasturvallisuusriski, mutta jos asia tehtäisiin toisinpäin, niin että
+tämä Raumalla asuva henkilö ajaisi aamulla autollaan siihen Rauman aluesairaalaan ja
+siellä olisi tehty leikkaus ja hän olisi lyhyemmän matkan päässä ollut päiväkirurgisen toi-
+menpiteen jälkeen kotonaan toipumassa, niin se on potilasturvallisuusriski. Tässä on jotain
+kovin kummallista ja nurinkurista, mitä ainakaan minä en ymmärrä, enkä ole ainut. Esi-
+merkiksi HUSin Lasse Lehtonen on nostanut aivan vastaavan asian esille todeten, että tämä
+30 minuutin aikaraja ei toimi esimerkiksi päiväkirurgiassa juuri siitä syystä, että potilas voi
+olla sadan kilometrin päässä sairaalasta kotonaan, kun komplikaatiot alkavat. ”Jos kiireet-
+tömiä leikkauksia tehdään päiväsaikaan ja siellä on sekä leikkaava lääkäri että anestesia-
+lääkäri paikalla, niin en tiedä, onko tämä aikaraja nyt sitten oleellinen turvallisuuslisä”, to-
+teaa Lehtonen.
+
+Lisäksi esityksessä on ristiriitaisuuksia siltäkin osin, että esityksen tavoitteissa todetaan,
+että erikoissairaanhoidon työnjakoa ja päivystystä koskevilla uudistuksilla tavoiteltiin
+säästöjä ja nyt esitettävät muutokset on tarkoitus toteuttaa siten, että säästötavoitteet voi-
+daan toteuttaa. Tämä todetaan siis esityksen tavoitteissa. Kuitenkin kun myöhemmin lues-
+kelen taloudellisia vaikutuksia, niin siellä todetaan, että esityksellä ei arvioida olevan mer-
+kittäviä taloudellisia vaikutuksia. Kuinka siis nyt on? Onko tämän esityksen tarkoitus olla
+osa säästövaikutuksia ja säästöleikkaustoimenpiteitä, vai onko niin, että tällä esityksellä ei
+ole taloudellisia vaikutuksia?
+
+No, en tiedä, mitä vaikutuksia tällä sitten lopulta on, koska tässä tietenkin alkaa aikakin
+tulla vastaan siinä, ehtiikö tämä lakiesitys enää eduskunnassa menemään läpi ennen kau-
+den loppumista. Siitä seuraakin, että jos tämä ei ehdi enää toteutua ennen eduskuntakau-
+den päättymistä, niin toiminta siis nykyisellään lienee laitonta ja avit ilmeisesti ovat puut-
+tumassa silloin nykyiseen toimintaan, ja iso kysymys onkin, mitä tapahtuu sitten, jos tämä
+esitys ei läpi mene.
+
+Keskustelu päättyi.
+
+Asia lähetettiin sosiaali- ja terveysvaliokuntaan, jolle perustuslakivaliokunnan on annetta-
+va lausunto.
+23
+
+

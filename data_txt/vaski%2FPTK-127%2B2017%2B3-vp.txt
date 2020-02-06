@@ -1,0 +1,1808 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM6415.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 127/2017 vp
+
+Täysistunto
+
+Torstai 30.11.2017 klo 16.02—22.05
+
+3. Hallituksen esitys eduskunnalle tieliikennelaiksi ja eräiksi siihen liittyviksi laeiksi
+Hallituksen esitys HE 180/2017 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Arto Satonen: Lähetekeskustelua varten esitellään päiväjärjestyk-
+sen 3. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävaliokun-
+taan, jolle perustuslakivaliokunnan ja lakivaliokunnan on annettava lausunto.
+
+Keskustelua tästä asiakohdasta käydään kello 19 asti, ja keskustelua jatketaan tarvittaes-
+sa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi. Mikäli keskustelu päättyy en-
+nen kello 19, siirrytään päiväjärjestyksen seuraavaan, 4. kohtaan.
+
+Keskustelu
+
+17.02 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa pu-
+hemies! Käsillämme on hallituksen esitys uudeksi tieliikennelaiksi ja eräiksi siihen liitty-
+viksi laeiksi. Tämä on kolmas kerta, kun tieliikennelainsäädännön kokonaisuutta uudiste-
+taan 100-vuotiaassa itsenäisessä Suomessa. Uudella tieliikennelailla pantaisiin osin täytän-
+töön valtioneuvoston 15. joulukuuta 2016 tekemä periaatepäätös liikenneturvallisuuden
+parantamisesta.
+
+Tieliikennelaki on koko kansan laki. Se koskee tavalla tai toisella meitä kaikkia. Se on
+myös yksi luetuimpia lakeja. Sitä käytetään liikennekasvatuksessa ja liikenneopetuksessa,
+autokouluissa, peruskouluissa ja päiväkodeissa. Liikenne- ja viestintäministeriöön saapu-
+vien kansalaisviestien perusteella lakia luetaan runsaasti kodeissa ja työpaikoilla. 
+
+Turvallisuudentunne syntyy arjessamme. Kyse on siitä, millä tavalla aistimme ja koem-
+me lähiympäristöämme. Turvallisuus on henkilökohtainen asia, jokaiselle jotakin hieman
+erilaista. Selvää on, että liikkumisen turvallisuus on tämän tunteen kannalta hyvin tärkeäl-
+lä paikalla. Erityisen tärkeää se on heikommassa asemassa oleville, lapsille, vammaisille ja
+ikääntyneille. Liikenteen sääntöjärjestelmä on muodostettu heikoimpien ehdoilla. Tästä
+periaatteesta on pidetty tiukasti kiinni myös uutta tieliikennelainsäädäntöä valmisteltaes-
+sa. Uusi tieliikennelaki on valmisteltu laajasti eri tienkäyttäjäryhmien tarpeita huomioon
+ottaen. Valmistelussa on ollut mukana eri ministeriöiden ja viranomaisten lisäksi liiken-
+nealan kansalaisjärjestöjä ja yhdistyksiä, yhteensä yli 70 alan asiantuntijaa. Lapsilla ja nuo-
+rilla on ollut valmistelussa erityinen rooli Nuorten ääni liikenneturvallisuudelle -hankkeen
+myötä. Hankkeeseen osallistui 13 kummikoulua ympäri Suomen. Hallituksen esitysluon-
+nos oli viime keväänä laajalla lausuntokierroksella, jonka päätteeksi saatiin lausunto 170
+taholta.
+
+Uusi tieliikennelaki kokoaa yhteen liikenteessä käyttäytymistä koskevan lainsäädän-
+nön. Laissa säädettäisiin yleisistä periaatteista, liikennesäännöistä, liikenteen ohjauksesta
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+mukaan lukien liikennevalot ja liikennemerkit, ajoneuvojen käytöstä sekä liikennevirhe-
+maksusta ja sen järjestelmästä. Lainsäädännöstä poistettaisiin tulkinnanvaraisuutta ja puut-
+teellisuuksia ja se saatettaisiin johdonmukaiseksi kokonaisuudeksi perustuslakimme, EU-
+lainsäädäntö ja kansainväliset tieliikenteen velvoitteet huomioon ottaen.
+
+Uudessa tieliikennelaissa erottuu perussääntelyn joukosta kaksi trendiä. Yhtäältä esityk-
+sellä halutaan lisätä jokaisen tienkäyttäjän omaa vastuuta liikenneturvallisuudesta, liiken-
+teen sujuvuudesta ja ympäristöstä. Toisaalta esityksessä varaudutaan liikenteen teknologi-
+seen kehitykseen, kuten automaatioon ja tiedon hyödyntämisen tarpeisiin. Tieliikennelain-
+säädäntöä onkin uudistettu 2020-luvun hengessä tulevaisuuden tarpeet huomion ottaen.
+Tehtävä ei ole lainsäädäntötasolla yksinkertainen, koska tulevaisuutta on hankala ennus-
+taa. Laki voi kuitenkin mahdollistaa. Tärkeää on se, että kehitystä jarruttavaa lainsäädän-
+töä puretaan eikä uutta kehitystä jarruttavaa lainsäädäntöä luoda tilalle.
+
+Esitys sisältää merkittävän kriminaalipoliittisen ehdotuksen, joka on valmisteltu perus-
+teellisesti yhteistoiminnassa oikeusministeriön ja sisäministeriön kanssa. Tieliikenteen vä-
+häisten rikkomusten kontrollissa luovuttaisiin rikosoikeuden käyttämisestä. Se tarkoittaisi
+käytännössä, että Suomessa tehtäisiin vuosittain satojatuhansia rikoksia vähemmän kuin
+nykyisin. Rikkomukset siirtyisivät käsiteltäväksi hallinnollisen sanktiojärjestelmän piiris-
+sä. Hallituksen näkemys on, että rikosoikeus tulee jättää vakavampia oikeudenloukkauk-
+sia varten. Esityksen tavoitteena on parantaa liikenneturvallisuutta säätämällä tienkäyttä-
+jille selkeät liikennesäännöt, joiden noudattamista varmistaa lain tehokas valvonta ja sii-
+hen pohjautuva kiinnijäämisriski.
+
+Tämä laki ei tuo nollatoleranssia ylinopeuksiin, koska kaikki ylinopeudet ovat jo tänä
+päivänä rangaistavia rikoslain tai rikesakkorikkomuksista annetun lain mukaan. Laki ei ota
+kantaa siihen, miten poliisi lakia valvoo ja millaisia teknisiä toleransseja nopeusvalvonnas-
+saan käyttää. Ne ratkaistaan poliisin sisäisissä ohjeissa. Tällä lailla ei ylinopeusvalvonnas-
+ta tehdä rahastusautomaattia. Hallitus päinvastoin esittää kaikkein pienimpien ylinopeuk-
+sien osalta virhemaksua pienennettäväksi. Pienin ylinopeussakko putoaisi nykyisestä 140
+eurosta 50 euroon. Hallitus myös pyrkii kohtuullistamaan kaikkia pienimmistä ylinopeuk-
+sista ja vähäisimmistä rikkeistä koituvia seuraamuksia siten, ettei kolmesta tai neljästä lie-
+västä ylinopeudesta enää seuraisi ajokieltoa. Ajokieltoon kuitenkin määrättäisiin kuten en-
+nenkin, jos liikennerikkeellä on vaarannettu liikenneturvallisuutta.
+
+Esitetyllä lailla varmistetaan myös riittävät oikeusturvakeinot. Tienkäyttäjän oikeustur-
+va ei heikkene, päinvastoin. Uudessa menettelyssä muutoksenhaku yksinkertaistuu ja no-
+peutuu. Poliisia voi vaatia oikaisemaan väärin määrätyn virhemaksun, ja poliisin kieltei-
+sestä päätöksestä voi valittaa hallinto-oikeuteen, jos ajoneuvon omistaja tai haltija kiistää
+ajaneensa ajoneuvolla rikkomuksentekohetkellä. Vastaava menettely on käytössä esimer-
+kiksi pysäköintivirhemaksuissa. Asiat voi jatkossa hoitaa kirjeellä tai sähköpostilla, eikä
+kenenkään tarvitsisi enää lähteä hoitamaan asiaansa kymmenien kilometrien päähän kärä-
+jille. Siksi ehdotettava muutos tienkäyttäjän todistustaakkaan ei ole käytännössä merkittä-
+vä, koska tänä päivänä rikesakkomääräyksen saaneen tulee kiistää asiansa käräjäoikeuteen.
+
+Virhemaksumenettely ja siihen liittyvät oikeussuojakeinot on varmistettu hyvässä yh-
+teistyössä oikeusministeriön ja sisäministeriön sekä eri ministeriöiden virkamiesten kans-
+sa. Myös oikeudellisten asiantuntijoiden esille ottamat seikat, esimerkiksi esityksen perus-
+tuslainmukaisuus, on tarkasti otettu huomioon esityksen valmistelun aikana.
+
+Esitettävä uusi tieliikennelaki sisältää hyvin paljon muutakin tärkeää kuin sääntöjen val-
+vonnan ja rikkomuksista määrättäviä sanktioita. Uuden lainsäädännön tavoitteena on saa-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+da tienkäyttäjät toimimaan mahdollisimman yhdenmukaisesti ja ennakoitavasti. Turvalli-
+nen, sujuva ja sen myötä ekologinen liikenne edellyttävät, että tienkäyttäjät tuntevat riittä-
+vässä määrin tieliikenteen pelisäännöt ja ymmärtävät niiden tarkoituksen. Kun tienkäyttä-
+jä ymmärtää ja mieltää säännöt oikein, on helpompi niitä noudattaa.
+
+Esitys uudeksi tieliikennelaiksi sisältää uudet tieliikenteen periaatteet. Kaikkia tienkäyt-
+täjiä koskeva ennakointi- ja varovaisuusvelvollisuus nostettaisiin lain tasolle. Kyse on täl-
+löin muun muassa siitä, että heikompaa tienkäyttäjää lähestyttäessä on ennakoitava ja nou-
+datettava varovaisuutta. Erityinen huomio on kiinnitettävä lapseen, vanhukseen, vammai-
+seen tai muuhun henkilöön, jolla on ilmeisiä vaikeuksia selviytyä turvallisesti liikenteessä.
+
+Jalan kulkemista koskevista uusista säännöksistä voi mainita tässä esimerkiksi sen, että
+jalankulkijan olisi tulevaisuudessa käytettävä tien ylitykseen ali- tai ylikulkua, jos sellai-
+nen olisi lähellä. Jalankulkijan heijastimenkäyttösuositus sisällytettäisiin edelleen lakiin.
+
+Esityksessä on monia toimia, joilla polkupyöräilyn turvallisuutta ja sujuvuutta voidaan
+kunnissa edistää. Esimerkiksi liikennemerkeillä olisi mahdollista jatkossa osoittaa erityi-
+nen pyöräkatu, jolla autoilijan tulisi antaa esteetön kulku pyöräilijälle ja sovittaa nopeuten-
+sa pyöräilyliikenteen mukaiseksi. Uusilla liikennemerkeillä ja tiemerkinnöillä voitaisiin
+jatkossa myös selkeyttää esimerkiksi väistämisvelvollisuutta pyörätien ylityspaikassa ja
+mahdollistaa pyöräilijälle turvallisempi etuajo-oikeutettu tien ylittäminen. Uutta liikenne-
+merkkiä käyttämällä voitaisiin sallia myös kaksisuuntainen pyöräily joillakin yksittäisillä
+yksisuuntaisilla kaduilla. Pyöräilijöitä suojeltaisiin tarkennetulla säännöllä, jonka mukaan
+jalkakäytävän tai pyörätien ylittävän ajoneuvon olisi väistettävä pyöräilijää sekä jalkakäy-
+tävän tai pyörätien takana olevan ajoradan liikennettä. Laissa lievennettäisiin pyöräilijän
+velvoitetta käyttää tien vasemmalla puolella olevaa pyörätietä, mikä joustavoittaisi reitti-
+suunnittelua ja mahdollistaisi lyhyemmät pyöräilyreitit. Tieliikennelaki jättää kunnille
+myös erittäin hyvät mahdollisuudet sovittaa kaduilleen sallitut ajonopeudet siten, että alu-
+eelliset liikenneolosuhteet voidaan huomioida liikenteen sujuvuuden ja turvallisuuden
+kannalta järkevästi.
+
+Ajoneuvolla ajamisen uusista säännöistä mainitsen esimerkkinä mahdollisuuden pois-
+tua risteyksestä sopivinta ajokaistaa käyttäen muuta liikennettä vaarantamatta ja haittaa-
+matta, jos risteävällä ajoradalla on kaksi tai useampia kaistoja. Kaupunkien keskustassa
+pysäköintiä helpotettaisiin siten, että ajoneuvon saisi pysäköidä taajamassa kulkusuunnas-
+sa myös vasemmalle puolelle tietä, jos se tapahtuisi muita tienkäyttäjiä vaarantamatta ja
+haittaamatta.
+
+Liikenteen ohjauslaitteiden asettamiseen liittyvää päätöksentekoa täsmennettäisiin.
+Tämä tarkoittaa muun muassa sitä, että kaikki liikennevaloja, liikennemerkkejä ja tiemer-
+kintöjä koskevat säännöt nostettaisiin lain tasolle. Uusia liikennemerkkejä olisi reilu 20.
+Keltainen sulkuviiva muuttuisi meillä viimeisenä EU-valtiona valkoiseksi. Valkoisen vä-
+rin heijastavuus ja näkyvyys on parempi, etenkin märkänä. Keltaista väriä on myös vaikea
+tunnistaa keltaiseksi pimeällä. Automaation edistymisen kannalta tärkeä uudistus on se,
+että liikennemerkkien ja muiden liikenteen ohjauslaitteiden asettamista koskeva päätös
+velvoitettaisiin toimittamaan Liikennevirastolle. Tämä varmistaa sen, että ohjauslaitteita
+koskevaa paikkatietoa on mahdollista hyödyntää automaattisessa ajamisessa ja automaat-
+tisen liikenteen turvallisuuden varmistamisessa.
+
+Myös ajoneuvon käyttöä koskevat säännöt nostettaisiin asetuksista lain tasolle. Tämä
+tarkoittaisi muun muassa, että taksinkuljettajalle säädettäisiin turvavyön käyttövelvolli-
+suus. Myös traktorinkuljettajalle säädettäisiin velvoite käyttää turvavyötä, jos sellainen oli-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+si traktoriin asennettu eikä vyön käyttö haittaisi traktorilla tapahtuvaa työskentelyä. Vies-
+tintävälineiden käyttöä ajon aikana tarkennettaisiin.
+
+Marraskuusta maaliskuuhun olisi käytettävä talvirenkaita silloin, kun sää tai keli sitä
+edellyttäisi. Tällaisella säällä tai kelillä tarkoitettaisiin tieolosuhteita, joissa alueen tiever-
+kolla olisi tarve käyttää talvirenkaita olemassa olevan tai mahdollisen liukkauden vuoksi.
+Liikenteenvalvoja määrittelisi yksittäistapauksessa, olisiko olosuhde sellainen, että talvi-
+rengasta olisi käytettävä. Uuden sääntelyn tarkoituksena olisi kohdentaa talvirengasvaati-
+mus olosuhteisiin, jossa talvirenkaiden käytöstä on hyötyä. Uudella sääntelymallilla vältet-
+täisiin tilanteet, joissa esimerkiksi Etelä-Suomessa joulukuussa voisi olosuhteiden perus-
+teella käyttää kesärenkaita mutta voimassa oleva säännös kieltäisi niiden käytön. Muutos
+voisi parantaa liikenneturvallisuutta tilanteissa, joissa maalis- tai marraskuussa keli edel-
+lyttäisi talvirenkaiden käyttöä mutta joissa nykysäännösten mukaan voisi käyttää kesären-
+kaita. Esitettävän muutoksen ei arvioida johtavan merkittäviin muutoksiin suomalaisten
+autoilijoiden talvirenkaiden käytössä, ja tällainen sääntely on käytössä useassa eurooppa-
+laisessa maassa, jossa koetaan talvikelejä.
+
+Pakettiauton ja matkailuauton ajoneuvokohtaisista nopeusrajoituksista luovuttaisiin.
+Nykyisin rajoitus on ajoneuvotyypistä riippuen 80—100 kilometriä tunnissa. Alle 750 ki-
+lon keskiakseliperävaunun vetonopeus nostettaisiin 100 kilometriin tunnissa.
+
+Lakiin sisältyy useita siirtymäsäännöksiä, joilla varmistettaisiin se, että uudet liikenne-
+merkit ja tiemerkit olisi mahdollista asentaa ilman kohtuuttomia kustannuksia tienpitäjille.
+Siirtymäajat vaihtelisivat 2 vuodesta 10 vuoteen.
+
+Arvoisa puhemies! Edellä kuvatut ovat esimerkkejä erittäin suuresta ja tärkeästä lakiuu-
+distuksesta. Nyt on mahdollisuus keskustella liikenneturvallisuudesta, liikennesäännöistä,
+liikenteen sujuvuudesta, ajoneuvoliikenteen automaatiosta ja liikenteen vaikutuksesta il-
+mastonmuutokseen sekä joukkoliikenteen ja pyöräilyn houkuttelevuuden ja turvallisuu-
+den lisäämisestä. Hallituksen lähtökohtana tieliikennelain uudistuksessa on liikenneturval-
+lisuuden, liikenteen sujuvuuden ja ympäristön kannalta paras mahdollinen kestävä liiken-
+ne tulevaisuutta varten.
+
+Arvoisa puhemies! Toivon, että hallituksen esitys saa myönteisen vastaanoton täällä
+eduskunnassa. — Kiitos.
+
+Toinen varapuhemies Arto Satonen: Ja nyt on mahdollisuus pyytää vastauspuheenvuo-
+roja.
+
+17.17 Mikko Alatalo kesk (vastauspuheenvuoro): Arvoisa puhemies! Totta kai liiken-
+teen sääntöjä on hyvä noudattaa ja liikenneturvallisuutta edistää, mutta on erittäin hyvä,
+että pienimpiä ylinopeussakkoja joustetaan alaspäin, se on hyvä asia ja myös se, että vält-
+tämättä ajokieltoa ei seuraa kolmesta neljästä pienestä rikkeestä. Tämä on erityisesti am-
+mattikuljettajille ollut ikävä asia, on voinut menettää jopa elinkeinonsa tämän takia. Mo-
+nestihan saattaa olla hyvinkin pienestä rikkeestä kyse. Eli tässä on minusta ihan hyvä asia
+se, että on annettu joustoa, mutta toki ammatti-ihmistenkin täytyy sääntöjä noudattaa. Po-
+liisihallitus vahvisti tänään, ettei poliisi jatkossakaan puutu ylinopeuteen, jota on 1 kilo-
+metriä tunnissa — hyvä, että tämä eräiden lehtien uutisankka ammuttiin alas — ja näin ei
+vain tuijoteta mittariin vaan keskitytään siihen ajamiseen ja liikenteeseen, ja nimenomaan
+silloin ei tule pelko monista alinopeuksista, koska liikenteen sujuvuus olisi tärkeää. 
+4
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Se on myös hyvä, että nämä eräät autoryhmät pääsevät nyt sitten tähän, että voivat myös
+ajaa nopeusrajoitusten mukaan, jolloin ei tule ohituspakkoa, [Puhemies koputtaa] koska ne
+ovat vaaratilanteita.
+
+17.18 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tätä esitystä on
+valmisteltu pitkään ja on myös pitkään odotettu tänne eduskuntaan, ja on hyvä, että se vih-
+doin on tänne annettu. Lain tarkoitus on nykyaikaistaa ja sujuvoittaa tätä säädöskokoelmaa
+ja varautua myös liikenteen kehitykseen, automaatioon ja digitalisaatioon.
+
+Täällä on paljon puhetta ollut siirtymisestä rikesakkojärjestelmästä liikennevirhemak-
+suun, ja pidän esitystä tältä osin erittäin hyvänä. Pienistä rikkeistä rangaistus olisi pienem-
+pi, ihminen ei menettäisi ajokorttia niin helposti ja niin edelleen. Kuten edustaja Alatalo-
+kin toi esiin, tässä on ehdottomasti pidettävä huoli siitä, että poliisin harkinta siellä liiken-
+teessä säilyy, ettei 1, 2, 3, 4, muutaman kilometrin ylinopeuksista sakkoa anneta, vaan sil-
+loin mennään joko huomautuksella tai muulla menettelyllä ja sitten rahalliset sanktiot tu-
+levat rankemmista ylinopeuksista. [Puhemies koputtaa] Tältä osin tätä esitystä voi kyllä
+hyvin kannattaa. Se täytyy tietysti täällä läpikotaisin perata valiokuntakäsittelyssä ja sitten
+viedä eteenpäin.
+
+17.19 Katja Taimela sd (vastauspuheenvuoro): Arvoisa herra puhemies! Itseäni hiukan
+huolestuttaa tässä lakiesityksessä se, että siirrytään niin vahvasti tähän automaattiseen lii-
+kenteenvalvontaan ja sitä kautta ehkä unohdetaan poliisityövoima ja valvonta, jota joka ta-
+pauksessa tuolla liikenteessä täytyy myös näkyä, koska sillä on merkittävä vaikutus mei-
+dän liikennekäyttäytymiseemme, ja toisaalta edelleenkään nämä automaattiset kamerat ei-
+vät näe sitä, mitä tapahtuu ajoneuvon kunnon kohdalla tai onko ajoneuvon kuljettaja päih-
+teiden vaikutuksen alaisena tai millainen on kuljettajan ajoterveys, muun muassa. Elikkä
+sinänsä liikenteenvalvonnan lisääntyminen, automaattinen sellainen, on tervetullutta siinä
+kohtaa, jos se tapahtuu sellaisissa paikoissa, joissa on tämmöisiä erityispiirteitä — on kou-
+luja, päiväkoteja, taajama-alueita — mutta jos siitä on syntymässä sellainen, että sitä käy-
+tetään tarkoituksenhakuisina sakkorysinä paikoissa, joissa hyvin pienillä liikennerikko-
+muksilla sitten taas on vähäiset vaikutukset liikenneturvallisuuteen, niin silloin ollaan ta-
+vallaan [Puhemies koputtaa] liikenneturvallisuuden nimissä minun melestäni hakoteillä.
+
+17.21 Jyrki Kasvi vihr (vastauspuheenvuoro): Arvoisa puhemies! Tämä on laaja ja tär-
+keä esitys, mutta haluaisin silti kiinnittää huomiota kysymykseen, jonka se pääasiassa si-
+vuuttaa. Hallituksen esityksessä pyörätien jatketta koskevat väistämissäännöt pysyvät pää-
+asiassa ennallaan. Väistämissääntöjä on vaikea hahmottaa, ja Liikenneturvan mukaan vain
+kolmasosa suomalaisista hallitsee nykyiset säännökset. Niitä tulisikin ehdottomasti sel-
+keyttää. Erilaisia pyöräilijän risteystilanteita on tällä hetkellä peräti 123 kappaletta — kuka
+tässä salissa voi väittää tuntevansa edes puolet niistä? Tilanne on sekava ja vaarallinen.
+Vaikka pääsääntönä on, että pyöräilijä väistää, käytännössä useimmissa risteyksissä väis-
+tämisvelvollisuus onkin autoilijalla. Itse väistän varmuuden vuoksi aina pyöräilijää, jos
+vain huomaan hänet, koska haluan olla varma. Aivan liian moni pyöräilijä on kuitenkin
+vaikea huomata, koska tämä ajaa hämärässäkin ilman valoja.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+17.22 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä on
+todellakin kaivattu uudistus, mitä hallitus tähän tekee, ja jo pelkästään tämä paksu nippu
+osoittaa, että tehdään erittäin merkittävää uudistusta. 
+
+Haluaisin itsekin kiinnittää huomiota tässä alkukeskustelussa tähän ajokieltojärjestel-
+mään, mikä on viime päivinä noussut uutisissa. Siinähän ministeri ansiokkaasti kertoi
+meille, mitä on tapahtumassa, ja toivonkin, että poliisi ei muuta tätä nykykäytäntöä vaan
+jatketaan tällä hyvällä poliisin käytännöllä.
+
+Ajokorttiuudistus on toinen asia, mikä tässä nousee myös keskusteluun, ja siinä tämä
+opetuslupien helppous ja niiden saatavuus on tietenkin tärkeä asia. On syytä kuitenkin kiin-
+nittää huomiota siihen, että saataisiin hyvätasoisia kuljettajia liikenteeseen, jotta liikenteen
+turvallisuus ja tämmöiset asiat nousevat niille kuuluvaan asemaan, koska liikenneturvalli-
+suuden pitää lähtökohtaisesti olla kaikkein tärkein asia tämän uudistuksen taustalla.
+
+17.23 Jari Ronkainen ps (vastauspuheenvuoro): Arvoisa puhemies! Hallituksen esityk-
+sessä on hyviäkin elementtejä, mutta huolta esityksessä kuitenkin herättää julkisuudessa-
+kin paljon puhuttu liikennevirhemaksu erityisesti ylinopeustilanteissa. Kansalaisten kes-
+kuudessa keskustellaan vilkkaasti siitä, että jo 1—5 kilometrin ylinopeus voisi johtaa
+50:n... [Välihuutoja — Eduskunnasta: Ei pidä paikkaansa!] — No, saanko minä jatkaa? —
+Ministeri Berner, olette useaan kertaan ottanut kantaa tähän asiaan, ja laki kieltää ylinopeu-
+den jo nyt, mutta puuttumiskynnyksestä päättää Poliisihallitus sisäisellä ohjeistuksellaan.
+Ollaan varsin eriskummallisessa tilanteessa, jos me lainsäätäjät eduskunnassa säädämme
+lakeja ja samaan hengenvetoon toivomme, ettei poliisi puuttuisi niiden rikkomiseen. Eri-
+koista on myös se, että lain toimenpideviranomaisella, lähinnä siis poliisilla, on harkinta-
+valta lakiin nähden. Eikö lakien tulisi olla velvoittavia, jotta niitä noudatettaisiin?
+
+17.24 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Edelliseen pu-
+heenvuoroon liittyen on erittäin hyvä todeta se, että Poliisihallitus on tänään kirjelmöinyt,
+että poliisi ei puutu jatkossakaan 1 kilometrin ylinopeuksiin. Pannaan merkille tämä asia.
+
+Mutta kaiken kaikkiaan tämä tieliikennelain uudistus, lakiuudistus, on erittäin iso asia,
+ja sen osoittaa jo tuo iso, paksu kirja, mikä meillä on esissä. Sen tavoitteena on sujuvoittaa
+säädöksiä ja purkaa vanhentuneita normeja, turvata liikenteen sujuvuus ja turvallisuus sekä
+koota liikenteessä käyttäytymistä koskeva lainsäädäntö selkeäksi kokonaisuudeksi. Vuo-
+delta 1981 olevaa lakia on aikanaan paikattu monella tavoin, ja nyt saadaan kokonaisuus
+selkeäksi.
+
+Itsestäni on hyvä, että polkupyöräilyssä kypäräsuositus säilyy ja samoin myöskin heijas-
+timien käyttö säilyy. Itseäni hieman askarruttaa vielä, täytyy todeta, tuo keltaisten sulku-
+viivojen muuttuminen valkoisiksi. [Puhemies koputtaa] Sitä täytyy myös valiokunnassa
+kysellä.
+
+17.25 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa puhemies! Hyvää tässä on
+juuri se, että nyt poliisilla on harkinta puuttumiskynnyksessä. Toivottavasti tämä on kä-
+denojennus ammattiautoilijoille ja myös ammatikseen autoa ajaville kuljettajille, sillä tällä
+hetkellä olemme siinä kohtuuttomassa tilanteessa, että ammatikseen autoa kuljettava hen-
+kilö, joka tuomitaan ajokieltoon, menettää työnsä joksikin aikaa eli sen ajokiellon ajaksi, ja
+tällä hetkellä häntä rankaistaan vielä toisella konstilla, eli kun hän ei ole töissä, hän ei ole
+myöskään oikeutettu ansiopäivärahaan. Eli tässä lainvalmistelun yhteydessä tulisi erityi-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+sesti kiinnittää siihen huomiota, että mahdollistamme myös ammattilaisten autolla ajami-
+sen ja yrittäjille ansion säilyttämisen.
+
+17.26 Mats Löfström r (vastauspuheenvuoro): Värderade herr talman! Tack till minis-
+tern för den goda presentationen. Svenska riksdagsgruppen och jag ser fram emot att arbe-
+ta med lagförslaget. 
+
+Det är ett stort paket som reglerar också bland annat maximala längder för lastbilskom-
+binationer. Enligt lagförslaget ska fordonskombinationer längre än 25,25 meter, som inte
+klassas som specialtransport, fortsättningsvis vara olagliga för fritt bruk i Finland. Denna
+bestämmelse är oförändrad från tidigare lagstiftning. För tillfället beviljar dock Trafiksä-
+kerhetsverket Trafi individuella undantagstillstånd i specialfall på förutbestämda rutter.
+Enligt min information har utfallen från dessa undantagstillstånd varit mycket positiva, och
+det är bra för både miljön och konkurrenskraften att man kan transportera större mängder
+varor med samma lastbilar. Jag vill därför fråga ministern här, när hon är på plats: har man
+resonerat kring dessa saker — att tillåta längre lastbilskombinationer på vägarna — när
+man har berett lagförslaget?
+
+17.28 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa puhemies! Lakia kun sääde-
+tään, niin oikeuden ja kohtuuden pitäisi aina olla se perimmäinen syy, minkä takia laki sää-
+detään. Kyllä minä olen itse kuusi ja puoli vuotta nyt odottanut, ja tämä on kyllä, arvoisa
+ministeri, ilon päivä, että vihdoin tämä oikeus ja kohtuus voittaa, sillä onhan tämä ollut
+suuri vääryys, että ihmiset, jotka ovat olemattomista pienistä rikkeistä saaneet kolme tai
+neljä huomautusta, rikesakkoa, vuoden tai kahden aikana, ovat menettäneet korttinsa, ja
+kuten edustaja Myllykoski sanoi, ihmiset, jotka ovat sitten vielä työssään kärsineet monel-
+la eri tavalla. Tämä on erinomainen asia, ja itse haluan myös korostaa sitä, että koska au-
+tolla ajetaan ja liikenteessä pitää aina olla pienet joustot ja tilannenopeus, niin on todella
+epäoikeudenmukaista, jos joku edes esittää, että 1—6 kilometrin ylityksistä annetaan ra-
+hallinen sanktio. Minun mielestäni eduskunnan pitää pitää huoli siitä, että tämä vääryys ei
+toteudu, koska nimenomaan ajamista ei voi panna niin, että on just sama kilometri, on ylä-
+ja alamäkiä, erilaisia liukkauksia ja muita. Toivon, että tästä pidetään lainsäädännöllä huo-
+li, vaikka se poliisin toimivaltaan kuuluukin. 
+
+17.29 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Tähän jat-
+koksi: Nythän tuossa lakiesityksessä on nimenomaan kirjattu nämä 1—6 kilometriäkin.
+Ehkä valiokuntatyöskentelyssä sitten jatkovalmistelussa pystymme tämän epäkohdan
+poistamaan. 
+
+Paljon hyvää tässä esityksessä on, varmasti kiittämisen aihetta, mutta erityisesti kiinnit-
+täisin itse huomiota tähän kriminaalipoliittiseen muutokseen. Meillä Suomessa lainsäädän-
+tö lähtee ajatuksesta, että olet syytön, kunnes toisin todistetaan. Nyt tämä käänteinen todis-
+tustaakka osoittaa, että olet syyllinen, ennen kuin toisin näytät. Tämä on asia, mikä varmas-
+ti täytyy erittäin tarkoin perätä tuossa valmistelussa liikenne- ja viestintävaliokunnassa,
+mutta varmasti tämä tulee myös lakivaliokuntaan lausunnolle. 
+
+Liikennevirhemaksujen osalta ajatukset nousevat myöskin tähän ehkäisyarviointiin tai
+ehkäisyvaatimukseen: ovatko nämä liikennevirhemaksut riittävän ehkäiseviä ihmisten tu-
+loeroihin liittyen. [Puhemies koputtaa] Isotuloisille voi kysymys olla yhden päivän palkas-
+ta. 
+7
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+17.31 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä on
+hieno päivä. Kun on Anteron päivä ja sitten tulee vielä tämä hieno esitys, [Naurua] niin ei-
+hän tämä paremmin voi mennä. 
+
+Kaikesta huolimatta hieman olisin toivonut rohkeutta erityisesti näiden yleisnopeusra-
+joitusten osalta, että olisimme rohjenneet nostaa nopeusrajoitukset 80:stä 90:een ja 100:sta
+110:een nyt, kun tietkin ovat paremmassa kunnossa, kun hallitus on antanut niihin lisära-
+haa. [Eduskunnasta: Hyvä!] Mikään ei ole niin rasittavaa kuin se, että hyvällä tiellä lähes
+yksin ajaa useita satoja kilometrejä vain peltipoliisit seuranaan kahdeksaakymppiä. Autol-
+la ei pysty edes ylintä vaihdetta käyttämään, ettei moottori hajoa. 
+
+Toinen asia on sitten, että tämä poliisin fyysinen läsnäolo vähenee todella paljon. Poh-
+din sitä, onko tämä hyvä suunta. Kovasti tykkäämme näistä peltipoliiseista, kun olemme
+luonteeltamme yksin viihtyviä, mutta kyllä se poliisikin siellä paikalla [Puhemies koput-
+taa] välillä olisi hyvä. 
+
+17.32 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Tieliikenne-
+laki koskettaa lähes jokaista suomalaista joka päivä. Tätä onkin nyt valmisteltu monta
+vuotta, ja olen todella tyytyväinen, että tämä nyt saatiin, sillä tuli todella tarpeeseen tämä
+laki. Olemme myöskin tämän alan kansanedustajina varsinkin keskustan ryhmässä hioneet
+tätä aika monta kertaa, ja kyllä me olemme tänne kätemme jäljet saaneet, elikkä niitä vies-
+tejä, joita on kentältä tullut, on kyllä saatu tähän lakiin hyvin matkaan. Kiitoksia kaikille,
+jotka ovat osallistuneet tähän valmisteluun. 
+
+Yksi asia, mikä ei vielä ole tullut vahvasti esille, on tuo talvirengaspakkoasia. Se kes-
+kustelutti todella paljon, ja ainakin minulla nousi niskavillat pystyyn: eikö se olisi muka
+pakko. Mutta nyt sitten on ehdottomasti parempi, että siihen tuli se, että se on olosuhteiden
+mukaisesti, sillä nykyään se on ainoastaan joulu-helmikuu. Nyt Lapissa on loka- ja marras-
+kuussa tapahtunut todella paljon ulkomaisten rekkojen ulosajoja syynä se, että niiden ei ole
+tarvinnut vielä käyttää talvirenkaita. Jatkossa niiden pitää käyttää talvirenkaita, koska on
+pysyvä talvi. 
+
+17.33 Jani Mäkelä ps (vastauspuheenvuoro): Arvoisa puhemies! Minäkin haluan nostaa
+esiin tämän liikennevirhemaksun, joka on herättänyt laajalti huolta kansalaisissa. Huolen
+ymmärtää siinä mielessä, että autoilija on valtion lypsylehmä: 8 miljardia otetaan ja teihin
+laitetaan 2 miljardia takaisin. Nyt hallitus ja ministeriöt väittävät, ettei sakotuskynnys muu-
+tu pienten ylinopeuksien osalta. Kuinka te voitte taata, että näin todella on? Todellako
+vaikkapa peltipoliisin keräämät pienet ylinopeudet eivät muutu virhemaksuiksi huomau-
+tuksen sijaan? Tämä on tärkeää, koska nämä pienet ylitykset voivat johtua mittarivirheistä,
+vahingoista tai ajotilanteista eikä näiden kyttääminen suinkaan paranna liikenneturvalli-
+suutta vaan lähinnä huonontaa sitä.
+
+17.34 Mika Kari sd (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä tieliikenne-
+lain uudistus lähtee ensi lehdiltään siitä, että lisätään liikenneturvallisuutta ja joustavuutta
+ja vähennetään liikenteen ympäristölle tuottamaa taakkaa. Hienoja tavoitteita, mutta voi
+kysyä, toteutuvatko ne tavoitteet liikenteen joustavuuden lisäämisen kautta, ja uskaltaisin
+sanoa, että eivät kaikilta osin. Myös Liikenneturva omassa lausunnossaan toteaa saman, eli
+paljon hallituksen esityksessä jää nyt valiokunnan vastuulle, ja toivottavasti valiokunta esi-
+tystä viisaammaksi tekee.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Haluan nostaa esiin yhden asian. Se on automaattinen liikenteen valvonta. Hallintova-
+liokunnan jäsenenä olen jo seitsemän vuoden ajan seurannut tätä huolestuttavaa kehitystä,
+että maamme tiet täytetään näillä kameravalvonnoilla: tolpilla, kylmillä peltipoliiseilla.
+Ajatus on varmasti hieno, jos yritetään nopeuksia laskea, mutta yksikään tolppa ei seuraa
+sitä liikennevirtaa, ei puhalluta, ei katso ajokuntoa, ei tarkasta ajoneuvojen kuntoa eikä
+myöskään kuljettajan kuntoa. [Puhemies koputtaa] Pitäisikö, ministeri, vihdoin ja viimein
+tehdä näistä tolpista näkyvät? Maalata ne kunnollisilla väreillä, että ihmiset tietäisivät, mis-
+sä ne vaaran paikat tieliikenteessä ovat?
+
+17.35 Kari Kulmala sin (vastauspuheenvuoro): Arvoisa puhemies! Näistä pienistä ylino-
+peuksista hieman haluan kommentoida. On selvää, että ylinopeutta ei saa ajaa, mutta meil-
+lä on kolmiportainen oikeuslaitos. Näkisin hyvänä, että jos esimerkiksi pienestä ylinopeu-
+desta, esimerkiksi 6 kilometrin ylinopeudesta, henkilö valittaisi oikeuteen, niin sieltä sit-
+ten saisi aikanaan lainvoimaisen tuomion, ja oikeushan sen lopulta katsoo, mikä teko tulee
+tuomita sakolla ja mikä menee huomautuksella.
+
+17.36 Olli-Poika Parviainen vihr (vastauspuheenvuoro): Arvoisa herra puhemies! Laki-
+esityksessä on paljon hyvää, mutta on myöskin sellaisia asioita, joita me vihreät jäämme
+kaipaamaan, ja yksi tällainen asia on se, että me olisimme mielellämme kyllä nähneet taa-
+jamien yleisrajoituksen laskemisen nykyisestä. Esimerkiksi kävelevien ja pyöräilevien las-
+ten onnettomuusriski on neljänkympin ja viidenkympin rajoitusalueella 3—5-kertainen
+verrattuna kolmenkympin rajoitusalueisiin. Muutos, jossa vähentäisimme nopeuksia taaja-
+missa, vaikuttaisi siis liikennekäyttäytymiseen ja ajatukseen sopivasta nopeudesta kotika-
+dulla. Esimerkiksi Helsingin kaupungin mukaan tällainen muutos vähentäisi myös päästö-
+jä neljänneksen verran tasaisemman ajotavan vuoksi.
+
+On myös hyvä muistaa, että jos taajamien yleisrajoitusta laskettaisiin, niin voisi suun-
+nittelija edelleen tehdä yli 30 kilometriä tunnissa olevia nopeusrajoituksia väylille, kunhan
+ne perusteltaisiin tarkemmin. Tämä ei tarkoittaisi sitä, että kaikilta väyliltä pitäisi pudottaa
+nopeudet kolmeenkymppiin, mutta se muuttaisi liikennekulttuuria kaupungissa. Kysyisin
+ministeriltä: onko tällaista harkittu?
+
+17.37 Lasse Hautala kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä tielii-
+kennelakiuudistus on pitkään odotettu, iso kokonaisuus. Olin tietysti harmissani alkuvii-
+kosta, kun tiedotusvälineet uutisoivat tästä vain ja ainoastaan sen, että heti 1 kilometrin jäl-
+keen tulee liikennevirhemaksu. Tämähän ei sinänsä poista nykyistäkään käytäntöä: nykyi-
+senkin lain mukaan yli 1 kilometrin ylinopeudesta voi saada rangaistuksen. Mutta kuten
+poliisi on tänään vahvistanut, niin jatkuu se käytäntö, mikä tälläkin hetkellä näissä on.
+
+Itsekin kiinnittäisin huomiota näitten sulkuviivojen väriin, elikkä nyt kun on lähdetty sii-
+tä, että ne muuttuisivat valkoisiksi, niin kyllä tämä talvikausi on semmoinen aika, jolloinka
+keltainen viiva sieltä paljon paremmin erottuu.
+
+Hyvin myönteistä on myös se, että kevyitä perävaunuja voidaan sitten kesäaikana vetää
+100 kilometrin tuntinopeudella, koska se sujuvoittaa entisestään liikennettä ja koska kesä-
+aikana usein kevyitä peräkärryjä on liikenteessä paljon enemmän.
+
+17.38 Teuvo Hakkarainen ps (vastauspuheenvuoro): Arvoisa puhemies! Ensimmäisenä
+tuohon voi sanoa, että sakko. Se nimittäin tulee aika herkästi liikenteessä olemattomista
+9
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+rikkeistä, niin kuin Eestilä ja Myllykoski ovat sanoneet. Käytännön esimerkkejä: Talvella
+meillä on metri routaa tien päällä. Silloin tulee poliisi ja lyö nappulat puuauton alle ja var-
+ma sakko. Yksi tukki etuvaunussa ylikuormaa, niin lappu käteen ja vielä kaksoisrangaistus
+siitä tulee auton omistajallekin. [Kari Kulmala: Hallinnollinen toimenpide!] Tämä on EU-
+lainsäädännön vastaista. Sitten vielä ohituskaistoilla ainakin Keski-Suomessa on semmoi-
+nen tapa, että kun tulee ohituskaista, niin siinä on se nopeudenvalvonta, missä pitäisi pääs-
+tä ohitse ja liikenteen sujua. Siellä ollaan rahaa keräämässä. Eikö sen sakon voisi laittaa
+niin, että se, joka 100 000 ajaa vuodessa, laittaa postiin sen sakon suoraan, niin ei tarvitse
+poliisia häiritä?
+
+17.39 Pertti Hakanen kesk (vastauspuheenvuoro): Herra puhemies! Tämä tieliikennela-
+ki on todella iso kokonaisuus, ja tätä on odotettu pitkään. Tässä on äärimmäisen paljon hy-
+viä, joustavuutta ja ennen kaikkea liikenteen turvallisuutta lisääviä asioita. Muutama kysy-
+mys ja ajatus kuitenkin on herännyt siitä, kun ministerikin otti äsken ansiokkaasti esille nii-
+tä yksityiskohtia ja puhuttiin myös ajoneuvokohtaisten nopeuksien poistamisesta. 
+
+Kysynkin ministeriltä, nyt kun koulukyytejä ajetaan paljon myöskin niin sanotuilla eri-
+koisajoneuvoilla ja niillä on ajoneuvokohtainen nopeusrajoitus: koskeeko tämä ajoneuvo-
+kohtaisen nopeusrajoituksen poistaminen myöskin koulukyydissä olevia ajoneuvoja? Li-
+säksi askarruttaa hieman tuo kahdensuuntaisen ajoradan vasemmalle puolelle pysäköinti
+kaupungissa. Ajattelen vain sen sillä tavalla, että miten huolehditaan siitä pysäköintiliiken-
+nemerkkien näkyvyydestä sitten. Ovatko ne liikennemerkit molemmin puolin katua, kah-
+denpuoleisia, jotta voidaan varmuudella sitten myöskin säästää siinä, että on oikealla taval-
+la pysäköity? Tuo sulkuviivan väri kyllä myöskin askarruttaa varsinkin talviolosuhteissa,
+[Puhemies koputtaa] kun meillä vielä talvellakin täällä ajellaan.
+
+17.40 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! Tuen sitä, mitä edusta-
+ja Parviainen sanoi tästä taajamanopeusrajoituksesta. Meillähän on niissä kaupungeissa,
+joissa on alennettu nopeusrajoituksia, saatu erittäin merkittäviä parannuksia liikennetur-
+vallisuudessa. Liikennekuolemat ja myös liikenteessä vammautumiset ovat dramaattisesti
+alentuneet.
+
+Mutta haluaisin kommentoida edustaja Laukkasen puheenvuoroa siitä, että yleinen no-
+peusrajoitus pitäisi nostaa kahdeksastakympistä yhdeksäänkymppiin. Tämmöinen insi-
+nöörin näkökulma siihen: Kovin monilta ihmisiltä puuttuu ymmärrys siitä, että ajoneuvon
+liike-energia ja samalla jarrutusmatka kasvaa suhteessa nopeuden toiseen potenssiin. Jos
+esimerkiksi auton nopeus kasvaa kahdeksastakympistä yhdeksäänkymppiin, sen liike-
+energia ja samalla jarrutusmatka kasvaa 26 prosenttia eli vähän yli neljänneksen. Tämän
+takia nopeuksien nostaminen on liikenteen turvallisuuden kannalta [Puhemies koputtaa]
+paljon vaarallisempi asia kuin moni luulee. [Mika Kari: Ei pidä paikkaansa!] — Se on ihan
+fysiikkaa.
+
+Toinen varapuhemies Arto Satonen:  Myönnän vielä tähän debattiin puheenvuorot edus-
+tajille Pylväs ja Elomaa, ja sen jälkeen ministerin vastauspuheenvuoro. Sen jälkeen jat-
+kamme debattia.
+
+17.42 Juha Pylväs kesk (vastauspuheenvuoro): Arvoisa puhemies! Kun laki on vuodelta
+1981, niin on sitä aikakin jo uudistaa paljon johdonmukaisemmaksi, ja vähennetään samal-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+la tulkinnanvaraisuutta ja puutteellisuuksia. Näin saadaan lainsäädäntö johdonmukaisem-
+maksi kokonaisuudeksi. Puuttuisin itsekin näihin ylinopeuksiin, joista tässä on jo useam-
+massa puheenvuorossa ollut puhetta. Tänä päivänä Poliisihallitus on tosiaan tiedotteen pu-
+kannut julkisuuteen, jossa on linjattu tästä sillä lailla, että aivan vähäisimpiin ei puututa
+lainkaan, hieman suuremmista tulee huomautus, tätä suuremmista ylinopeuksista rikesak-
+ko ja vielä korkeammista määrätään päiväsakko. Kysyisinkin ministeriltä: onko poliisi tul-
+kinnut lainvalmistelun tavoitteita oikein?
+
+17.42 Ritva Elomaa ps (vastauspuheenvuoro): Arvoisa puhemies! Monet edustajat ovat
+tuoneet julki huolen ammattikuskeista ja niistä ihmisistä, jotka paljon ajavat autoa. Hyvin
+herkästi käy niin, että vuoden aikana voi se pömpeli elikkä peltipoliisi vilahtaa hyvin pie-
+nistä ylityksistä monta kertaa ja sitten kortti lähtee kuivumaan. Kohtuutta pitäisi olla tässä
+tapauksessa.
+
+Sitten minä sanon vielä toisenkin asian. Nimittäin asun pienellä tienpätkällä, lähistöllä
+siellä Maskussa, ja meidän pikkutiellä kävi nyt niin, että vajaa viikko sitten linja-auto ajoi
+kaksi kertaa peräkkäin ojaan ja lapsia joutui sairaalaankin. Elikkä ne pienet tienpätkät siel-
+lä maaseudulla ovat todella huonossa kunnossa. Se on valitettavaa. Tulevaisuudessa pitää
+kyllä hoitaa asiat niin, että teitä hoidettaisiin paremmin maaseudullakin.
+
+Toinen varapuhemies Arto Satonen: Ja nyt ministeri Berner, 5 minuuttia.
+
+17.44 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Kiitoksia näistä
+näkemyksistä, kommenteista ja huomioista.
+
+Kuten monessa puheenvuorossa on tullut esille, poliisi on toimeenpaneva viranomainen
+ja poliisi vastaa tältä osin myöskin tämän lain valvonnasta ja siihen liittyvästä toimeenpa-
+nosta.
+
+Siitä näkökulmasta, että monessa puheenvuorossa on noussut myöskin automaattisen
+valvonnan määrä: Tässä toki kysymys on poliisin ratkaisuista, resursoinnista ja myöskin
+siitä, miltä osin automaattivalvontaa käytetään. Se lisää kiinnijäämisriskiä ja sitä kautta
+nostaa liikenneturvallisuuden näkökulmaa — sitä voidaan käyttää siellä, missä se on mah-
+dollista — ja vapauttaa myöskin poliisin resursseja valvontaan enemmänkin kuin sitten
+seuraamusjärjestelmästä huolehtimiseen. Mutta tämä on myöskin sisäministeriön ja sitä
+kautta poliisin kokonaisosuutta.
+
+Edustaja Kasvi nosti täällä esille väistämisvelvollisuuksia ja niiden kokonaisuutta. Niitä
+on pyritty täällä kokoamaan yhteen ja myöskin katsomaan, että niiltä osin syntyisi paljon
+enemmän selkeyttä. Pyörätien jatketta määritetään vain, jos autolla on väistämisvelvolli-
+suus, ja tämän pitäisi myöskin selkiinnyttää pyöräilijöille kokonaisuutta.
+
+Edustaja Ronkaiselle haluaisin todeta, että rankaisemiseen liittyy aina harkinta lainsää-
+dännössä. On kyse sitten varkaudesta tai ylinopeudesta, niin poliisilla on aina mahdolli-
+suus katsoa ja tuomioistuin sitten viime kädessä ottaa asiaan kantaa. Lainsäätäjinä tämä ei
+ole sitä meidän tehtäväämme: me määrittelemme lain, ja sitten valvova viranomainen sitä
+toimeenpanee, ja tuomioistuin sitten on käytännössä se osapuoli, joka tätä arvioi.
+
+Tähän keltaiseen sulkuviivaan, jota edustaja Torniainen nosti esille: Me olemme arvioi-
+neet tätä nyt moneen kertaan ja todenneet, että valkoinen maali näkyy märällä paremmin,
+ja se näkyy myöskin pimeällä paremmin. Naapurimaamme Ruotsi, muun muassa, on jo pi-
+dempään käyttänyt pelkästään valkoista maalia. Lumen alta kumpikaan ei merkittävästi
+11
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+näy, mutta suurin osa maastamme kuitenkin on usein märän kelin alla. Tässä on ihan sel-
+keästi se kokonaisuus, minkä vuoksi olemme tähän myöskin päätyneet.
+
+Edustaja Myllykoski, tässä pyritään nimenomaan huomioimaan sitä, että ammattiliiken-
+teeseen ei kohdistuisi kohtuutonta rankaisua, vaan pyritään tässä lainsäädännössä oikeu-
+denmukaisuuteen ja siihen, että siirrämme painopistettä kohti liikenneturvallisuutta ja että
+ajo-oikeutta ei voida menettää silloin, jos on pieniä rikesakkoja useampia.
+
+HCT-rekat ovat oma kokonaisuutensa, jonka edustaja Löfström nosti esille. Kokeilusta
+on hyviä tuloksia, ja siitä tulee oma lainsäädäntönsä sitten keväällä.
+
+Tähän kriminaalipoliittiseen kokonaisuuteen, jota edustaja Kymäläinen nosti esille:
+Meillä on Suomessa tällä hetkelläkin useita hallinnollisia sanktioita, ja ne ovat olleet käy-
+tössäkin useita vuosia. Niissä on äärimmäisen tärkeää, että ne ovat pieniä, ja tässäkin on
+katsottu, että yli 200 euron sakkoja ei voida katsoa tässä hallinnollisessa seuraamusjärjes-
+telmässä, mutta se sujuvoittaa ja sitä kautta lisää myöskin oikeusturvaa monesta näkökul-
+masta.
+
+Tienpitäjällä on aina mahdollisuus määritellä itse nopeutta. Tässä kohdassa yleistä
+tienopeutta on määritelty näihin 80:een ja 50:een, mutta tienpitäjällä on oikeus mahdollis-
+taa esimerkiksi 90 kilometrin nopeus, jos hän niin katsoo sen parhaaksi. Ja tässä edustaja
+Parviainen nosti esille sen, olemmeko arvioineet sitä, että taajamissa olisi enemmänkin
+määritelty yleiseksi nopeudeksi 40 tai 30. Olemme itse asiassa tehneet siitä hyvin laajan-
+kin selvityksen, ja Suomessa tällä hetkellä on jo vähemmän niitä alueita, joissa on 50, mut-
+ta toisaalta ne ovat sitten haja-asutusalueita. Olemme lähteneet siitä, että kunnilla on nyt
+erittäin hyvät mahdollisuudet tässä laissa itse määritellä tätä kokonaisuutta, ja ne määritte-
+levät nopeuden helpommin alaspäin kuin ylöspäin, ja siksi olemme säilyttäneet tämän täs-
+sä kohdassa.
+
+Edustaja Kari, liikennetolpat voidaan nyt maalata, jos niin halutaan. Laki ei estä — ei
+mitenkään pakota, muttei myöskään estä. Voidaan nyt jo näin toimia.
+
+Mikä liittyy edustaja Kulmalan esille nostamaan, niin liikennevalvoja ratkaisee lainkon-
+kurrenssin elikkä sen tilanteen, missä rikkomusten ja rikosten yhdentämistilanne syntyy.
+Elikkä se ei tule määritellyksi tässä lain kokonaisuudessa.
+
+Koulukyydeissä ajoneuvot ajavat samaa nopeutta kuin muutkin mutta ovat tietysti edel-
+leenkin hyvin tärkeässä roolissa.
+
+Ja edustaja Pylväs: kyllä, poliisi on tulkinnut aivan oikein.
+
+Toinen varapuhemies Arto Satonen: Ja nyt on mahdollisuus pyytää lisää vastauspuheen-
+vuoroja.
+
+17.49 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Omasta mie-
+lestäni on erittäin hyvää tässä lakiuudistuksessa se, että nyt liikennesäännöt kootaan järke-
+viksi kokonaisuuksiksi ja siellä on nytten muun muassa jalankulkijoille, ajoneuvoille ja
+pyöräilijöille selkeät säännöt, miten käyttäytyä. Myöskin se on hyvä, että hajallaan olevat
+väistämissäännöt kootaan nyt yhteen ja selkeytetään niitä. Myöskin kaistanvaihtoa koske-
+vat säännöt täsmennetään. Niissä on ollut semmoista häilyväisyyttä tietotasossa varmasti
+aika monellakin.
+
+Sitten mitä on tullut tähän ylinopeudet ajoneuvoilla -asiaan, tosiasia on, että lait eivät nyt
+eivätkä myöskään jatkossa salli ylinopeuksia. Tämä uusi tieliikennelaki ei tuo tähän muu-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+tosta. Hieman ihmettelen, kun SDP:n puolelta halutaan sallia ylinopeudet. [Suna Kymäläi-
+nen: Täh?] En itse ymmärrä sitä.
+
+Sakotuksista täytyy todeta, [Puhemies koputtaa] että poliisin sakotuskäytäntö on polii-
+sihallinnon ja sisäministeriön vastuualuetta, ei liikenne- ja viestintäministeriön.
+
+17.50 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Palaisin vielä
+näihin kameroihin ja automaattivalvontaan, jotka edustaja Karikin otti esille. Hän kiinnitti
+mielestäni huomiota kyllä tärkeään asiaan. Täytyy muistaa, että se kamera ei kuitenkaan
+oikeasti valvo ja se ei korvaa siellä tiellä poliisia. Siihen kehityskulkuun, sille tielle, että
+ikään kuin korvattaisiin kameroilla poliiseja, ei mielestäni pidä mennä. Edelleen se, että
+kameroiden määrää kasvatetaan, antaa ymmärtää tai antaa sen signaalin, että kaahaaminen
+olisi ikään kuin se meidän suurin ongelmamme tuolla tiellä, mutta ei se näin ole, kun tilas-
+toja katsoo. Suurin yksittäinen ongelma maanteillä on kuljettajan ajokunto, alkoholi, huu-
+meet, asenne, mielenterveys ja niin edelleen, [Kokoomuksen ryhmästä: Väsymys!] ja nii-
+hin meidän tulisi kasvattaa resurssejamme ja puuttua niihin voimakkaammin.
+
+Edelleen ilolla totean, että tässä esityksessä säilyy pyöräilykypäräsuositus tai -pakko ja
+edelleen myöskin se, että pakotetaan tai suositellaan heijastimen käyttöä jatkossa. Ne ovat
+hyviä turvavarusteita, [Puhemies koputtaa] ja on hyvä, että lainsäätäjä antaa indikaation,
+että näitä jatkossakin tulee käyttää, [Puhemies koputtaa] vaikkei sitä sanktioidakaan.
+
+17.51 Mika Kari sd (vastauspuheenvuoro): Arvoisa herra puhemies! Oli ilahduttavaa
+kuulla, että ministeri sanoi, että voidaan maalata kameratolpat. Ajatuksenihan on ollut se
+— ja myös lakialoitteeni, jonka viime keväänä tein — että tuodaan nämä tolpat kunnolla
+näkyviksi kansalaisille, että kansalaiset tietäisivät, missä ne vaaran paikat ovat. [Satu Has-
+sin välihuuto] Nythän tolpat on piilotettu mitä tiheimpään pusikkoon tai tavalla tai toisella
+heikosti näkyviksi. Jos tehtäisiin niin kuin esimerkiksi Ruotsissa tehdään, että maalataan
+kunnolla näkyviksi, niin silloin näillä tolpilla olisi myös ennalta ehkäisevä vaikutus. Ilah-
+duttavaa kuulla. Olen kyllä ministerin kanssa siltä osin hieman eri mieltä, että minun mie-
+lestäni — ja oma lakialoitteenikin lähti siitä — tämä voitaisiin kirjata lakiin. Silloin se ei
+jäisi vain yhden paikallisen poliisipiirin itsensä päätettäväksi.
+
+Mutta sitten haluan myös edustaja Hassin ja muutaman muun puheenvuoroon sanoa sen,
+että tämä nopeuteen tuijottaminen on yksi liikennepolitiikkamme suuri virhe. [Mikko Ala-
+talo: Kyllä!] Siellä ajoterveys, ajokuntoon liittyvät asiat, mielenterveys, itsemurha-alttius,
+tämän tyyppiset asiat [Puhemies koputtaa] usein unohdetaan ja sanotaan, että vain nopeuk-
+sia säätelemällä lisäisimme [Puhemies koputtaa] liikenneturvallisuutta. Näin asia ei ole.
+
+17.53 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! Nopeusrajoitushan tar-
+koittaa sitä, että se on arvioitu turvalliseksi nopeudeksi silloin, kun terve ihminen ajaa. Tie-
+tysti, jos ihminen on huonossa kunnossa, edes tämä nopeus ei ole turvallinen. Mutta se,
+mitä äsken totesin liikennefysiikasta, on ihan alkeisfysiikkaa, jonka peruskoulussa tai vii-
+meistään lukiossa fysiikkaa opiskellessaan oppii.
+
+Ihmettelen tätä näkemystä, että kameratolpat olisivat se vaara liikenteessä. Ne vaarat-
+han ovat ihan muita asioita. Itselläni ei koskaan autoa ajaessani ole ollut mitään vaikeuksia
+nähdä kameratolppaa. Ihmettelen, millainen näkökyky ylipäätänsä sellaisella ihmisellä on,
+joka ei nykyisiä tolppia näe, vaikka en sinänsä mitenkään vastusta niiden maalaamista eri-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+värisiksi. Voiko semmoinen ihminen ylipäätänsä turvallisesti ajaa autoa, joka ei erota ka-
+meratolppaa?
+
+17.54 Mikko Alatalo kesk (vastauspuheenvuoro): Arvoisa puhemies! Olen ajanut autoa
+Suomessa yli 3 miljoonaa kilometriä, ja minua samalla tavalla kuin edustaja Laukkasta är-
+syttää se, että kun hyvällä talvikelillä, kuivalla kelillä, ajat, niin talvinopeusrajoitusta kö-
+röttelet menemään ja kuitenkin pitäisi työkin tehdä. Mutta se ei ole tämän lain piirissä, se
+on tienpitäjä, joka nämä nopeusrajoitukset määrittelee.
+
+Itse olisin toivonut saksalaistyyppistä virhepistejärjestelmää, ja tässähän mennään nyt
+vähän siihen suuntaan elikkä rikos ja rangaistus vastaavat toisiansa. Nimenomaan ammat-
+tikuskien osalta kohtuullisuus tässä nyt toteutuu erittäin hyvin. Jo tähän saakka poliisi on
+laskenut 3 kilometrin virhetoleranssin ihan jo pelkästään sen takia, että voi olla mittarivir-
+heitä tai tutkassa virhettä. Siinä mielessä poliisilla on mahdollisuus käyttää kohtuullisuut-
+ta. Mikäli rikos on vähäinen, silloinhan esimerkiksi puhutaan vain varoituksesta, jos se on
+suurempi, silloin tulee rikesakko, ja silloin jos todella oikein vaarannetaan liikennettä, sil-
+loinhan tulee päiväsakkoja. 
+
+Olen tyytyväinen siihen, että nämä ajoneuvokohtaiset nopeusrajoitukset nyt muuttuvat
+ja liikenne muuttuu [Puhemies koputtaa] joustavammaksi. Mutta yksi asia epäilyttää: kun
+maksusta voi oman asiansa selvittää, [Puhemies koputtaa] vapautua, niin kuinka paljon
+tämä tulee aiheuttamaan sitä riskiä, että ihmiset eivät lähde valittamaan itse?
+
+17.55 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa herra puhemies! Naapuri-
+maamme Ruotsi on hyvin esimerkillinen, mitä tulee tähän liikenteessä olemiseen ja käy-
+täntöihin. Täällä on jo moneen kertaan mainittu Ruotsi esimerkkinä ja ministerikin mainit-
+si Ruotsin hyvän esimerkin näissä tiemerkinnöissä. 
+
+Tässä sain uutta oppia, sen, että tienpitäjä määrittelee näitä nopeusrajoituksia. Se on hy-
+vä, mutta sitten tulenkin vielä innokkaammaksi ja ajattelen, että eikö tässä laissa olisi voi-
+nut sitten antaa myös jonkinlaista osviittaa ja suositusta siihen suuntaan, kun kypäräkin on
+hyvä, että olisi ehkä hyvä nostaa näitä nopeusrajoituksia niin kuin Ruotsissa?
+
+17.56 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Kari
+käytti täällä hyvän puheenvuoron siitä, että automaattinen liikennetolppa pitäisi maalata. 
+
+Ensinnäkin olen vähän surullinen siitä, että Suomen liikenneturvallisuuskeskustelu on
+synonyymi ylinopeudelle. Eihän se todella niin ole. Itse asiassa vain 5 prosenttia johtuu
+semmoisesta ylinopeudesta, jota ajaa normaalikuntoinen autoilija, joka on tottunut aja-
+maan autolla. Sitten ovat rattijuopot ja muut mömmöissä ajavat ja väsyneenä ajavat ja sai-
+raat ja lääkehouruissa ajavat, ja he ovat todellinen riski, ja sitähän ei tietenkään kamera
+pysty näkemään.
+
+Mutta tämä automaattinen liikennevalvonta on pikkuisen överiksi mennyt. Minä en mal-
+ta olla tuomatta tätä budjettikirjaa esille. Täällä on budjettitavoitteet, ja siinä saa hirveän
+hyvän tuoton pääomalle, kun rakentaa liikennetolpan ja automaattisen liikennevalvonnan
+— valtionkassa kilisee. [Puhemies koputtaa] Mutta olen sitä mieltä — ja vien vähän pitem-
+mälle — että ottakaa valiokunnassa tosissaan se, että kun ihmiset eivät tiedä kameratolpas-
+ta, mikä on nopeus, niin kameratolppaan pitää lain perusteella panna liikennemerkki, mis-
+tä nopeudesta on kysymys, [Puhemies koputtaa] ja silloin ihmiset tietävät eivätkä jarrutte-
+le turhaan.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+17.57 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa herra puhemies! On pakko sa-
+noa edustaja Hassille, että tässä puhutaan juuri siitä, että nämä kameratolpat olisivat näky-
+viä, kun niitä koetetaan sijoitella sellaisiin liikenteelle vaarallisiin paikkoihin, ja on siitä
+kysymys eikä siitä, että ne tolpat olisivat vaaraksi kenellekään.
+
+Arvoisa ministeri, oli hienoa kuulla tässä, että usein olivat myös koululaiset mukana täs-
+sä. Kun meidän liikenneturvallisuutemme varmasti pitäisi lähteä siitä, että kaikilla tien-
+käyttäjillä ja liikenteeseen osallistuvilla olisi tietty osaamisen taso, käytiinkö lain valmis-
+telun vaiheessa missään kohtaa keskustelua siitä, että meidän koululaisillamme kuuluisi
+olla tietty liikenneosaaminen ja että tämä laki olisi voinut vaikka edellyttää jo päiväkotei-
+hin tai kouluihin tuotavan liikennekulttuurikasvatusta?
+
+17.58 Jari Ronkainen ps (vastauspuheenvuoro): Puhemies! Tämä 1—5 kilometrin sak-
+korangaistuksen mahdollisuus näköjään herättää täälläkin vilkasta keskustelua. Poliisihal-
+litus on tosiaan tänään ilmoittanut, että käytäntö ei tule muuttumaan. Ehkä näin, mutta mi-
+tenkäs vuoden päästä? Poliisihallituksen päätös voi olla toinen, ja tämä laki antaa mahdol-
+lisuuden sakottaa jopa 1 kilometristä tunnissa ylinopeutta. Peltipoliisi ei armoa tunne, ja lii-
+kenteenvalvontaan ei poliiseja enää juurikaan riitä. Liikkuva poliisi on lakkautettu, ja mo-
+nessa poliisipiirissä liikennevalvontasektorikin on liitetty osaksi valvonta- ja hälytyssekto-
+ria. Jos siis nykyjärjestelmää ei haluta muuttaa, minun mielestäni se tulisi kirjoittaa auki
+tähän esitykseen.
+
+17.59 Reijo Hongisto sin (vastauspuheenvuoro): Arvoisa puhemies! Tuossa useampikin
+edustaja on kiinnittänyt huomiota siihen, että tämä laki antaa nyt mahdollisuuden sakottaa
+1 kilometrin ylinopeudesta, ja monta kertaa on todettu se, että nykyinenkin laki toteaa, että
+missään ei ole oikeutta ajaa rajoitusta suurempaa nopeutta, elikkä nykyisenkin lain voimas-
+sa ollen voidaan kirjoittaa rangaistusmääräys, rikesakkomääräys tai antaa huomautus, jos
+ylitetään ajonopeus kilometrillä tunnissa. Mutta en yhtäkkiä muista tapausta, missä tällais-
+ta menettelyä olisi tehty. Tietenkään sitten nopeusrajoitus ei tarkoita sitä, että sitä rajoitus-
+vauhtia pitää ajaa, vaan se on suurin sallittu nopeus sillä tieosuudella. Ajoneuvon kuljetta-
+jan täytyy sovittaa ajoneuvonsa nopeus niin, että se on turvallinen ajo- ja keliolosuhteet
+huomioon ottaen. Joskus on satasen rajoitusalueella niin liukasta, että ei ole turvallista ajaa
+kuin kahdeksaakymppiä tai vielä hiljempaa. Kuljettaja vastaa siitä, että ajetaan turvallisel-
+la ajonopeudella.
+
+18.00 Kari Tolvanen kok (vastauspuheenvuoro): Arvoisa herra puhemies! Liikennetur-
+vallisuus on tosiaan laaja-alainen asia, ja minua huolestuttavat eniten päihteiden käyttäjät
+liikenteessä. Olen jo pitkään koettanut alkolukkoa saada vakiovarusteeksi, tämmöistä help-
+pokäyttöistä alkolukkoa, joka aistii uloshengitysilmaa, ja ihmettelen, että EU-tasolla tähän
+ei ole lähdetty. Olen saanut siihen vastauksen, että Etelä-Euroopassa ei liikkuisi yksikään
+auto, jos niissä olisi vakiovarusteena alkolukko, eli se on tyssähtänyt siihen. Mitä ministeri
+aikoo täällä Suomessa asialle tehdä?
+
+Toinen asia: Koko ajan puhutaan tästä nopeusvalvonnasta. Se on vain pieni osa tätä ko-
+konaiskulttuuria. Minun mielestäni ne kameratolpat saa maalata vaikka vaaleanpunaisek-
+si, jos siltä tuntuu, tai olla maalaamatta. Eniten minua kiinnostaisi se, että niitä sijoitettai-
+siin paikkoihin, joissa niillä olisi eniten merkitystä: päiväkotien, koulujen läheisyyteen,
+15
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+isoille risteysalueille. Elikkä aikooko ministeri tätä asiaa edistää, kameroita oikeille pai-
+koille?
+
+18.01 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa puhemies! Edelliseen pu-
+heenvuoroon on hyvä jatkaa. Kameratolpat ovat minun mielestäni puolustettavia siinä nä-
+kökulmassa, että poliisilta vapautuu merkittävä määrä resurssia juuri siihen tärkeämpään
+tehtävään, liikennevalvontaan, rattijuoppojen ja tämäntyyppisten henkilöiden valvontaan.
+Minullekaan ylinopeudet eivät ole se ykkösprioriteetti, mikä poliisille kuuluu. Kamerat
+voivat sen hoitaa, ja me tiedämme, missä ne kamerat ovat, ja näemme jokainen. Joka siinä
+kohtaa ylinopeutta ajaa, silloin tekee virheen, ja se on armoton se kamera ja se on reilu
+meille kaikille, se on oikeudenmukainen sillä lailla. Poliisilla on paljon tärkeämpää tehtä-
+vää kuin pelkkä nopeudenvalvonta. 
+
+Täällä on tämä nopeuden nosto ollut esimerkkinä. Se olisi monelle autolle ympäristöys-
+tävällistä, jos se nopeus nousisi siitä kahdeksastakympistä yhdeksäänkymppiin, koska au-
+tot ovat tänä päivänä aika lailla tehokkaita ja on taloudellisesti ja ympäristönäkökulmasta
+paljon järkevämpää ajella pikkusen kovempaa sillä autolla kuin kahdeksaakymppiä. [Pu-
+hemies koputtaa] Se ei ole kaikille autoille hyvä nopeus.
+
+18.02 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Liikenne-
+turvallisuuden parantaminen on yksi tämän lain lähtökohtia, ja myös minä yhtyisin näihin
+kysymyksiin näitten kameratolppien sijoittelun osalta. Nythän ne ovat usein paikoissa,
+joissa on mutka tai nopeus yllättäen laskee pieneksi hetkeksi, ja tämä aiheuttaa äkkijarru-
+tuksia ja siten onnettomuusriskien kasvamista.
+
+Huoli on tästä tulkinnanvaraisuudesta talvirenkaiden käytön osalta. Itse ihmettelin tässä
+edustaja Maijalan esille ottamaa esimerkkiä, että nyt ulkomaalaisille rekoille tulisi sitten
+tämmöinen talvirengaspakko. Olenko väärässä, kun mielestäni tämä lakiesitys ei määrää
+talvirengaspakkoa raskaalle liikenteelle? 
+
+Kysyisin myös ministeriltä, kun tuon Onnettomuustietoinstituutin mukaan joka toinen
+jalankulkijakuolema tapahtuu suojateillä: mitkä ovat esitykset tämän osalta?
+
+18.03 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Eikö meillä
+tullut jo tämä talvirengaspakko voimaan?
+
+Mutta nyt sitten toinen asia on tämä keltainen viiva. Minä vastustin ehdottomasti sen
+poistamista aluksi, mutta sitten minulle tässä syksyllä kävi ajellessa semmoinen homma,
+että kun minä yhtenä yönä märällä kelillä olin ajamassa, niin minun piti pysäyttää auto yh-
+tenä yönä, mennä ulos ja katsoa, joko se viiva on vaihdettu valkoiseksi. Mutta ei, kyllä sii-
+nä keltainen viiva sitten kuitenkin oli. Ei sitä edes huomannut todellisuudessa, kumman vä-
+rinen viiva siinä oli olemassa. Nyt sitten tästä keltaisesta viivasta minä esitänkin kysymyk-
+sen: kuinka pian nyt sitten siitä tullaan käytännössä luopumaan, ettei sitä enää ole ollen-
+kaan käytössä?
+
+Vielä haluaisin kysyä sitten kännyköittenkäyttöasiasta: miten sitä jatkossa saadaan ra-
+joitettua enemmän, etteivät tien päällä muun muassa ammattiautoilijat käytä kännykkää lii-
+kenteessä?
+
+18.04 Olli-Poika Parviainen vihr (vastauspuheenvuoro): Arvoisa herra puhemies! Minä-
+kin tuen edustaja Myllykosken ajatusta siitä, että kouluissa ja ylipäätään lapsille ja nuorille
+16
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+liikennekasvatusta laajennettaisiin nykyisestä. Joskus on ollut enemmänkin ymmärtääkse-
+ni sitä olemassa.
+
+Nostaisin esiin aivan toisena asiana pysäyttämiskiellon jalkakäytävälle ja pyörätielle,
+josta tulee paljon palautetta kuntien luottamushenkilöiltä. Mielestäni sitä kannattaisi tehdä
+selkeämmäksi, ja hallituksen esityksessä nykytila kuitenkin käytännössä jatkuu. Auto jal-
+kakäytävällä tai pyörätiellä aiheuttaa kuitenkin helposti vaaraa ja estää esimerkiksi liikun-
+tarajoitteisten liikkumista ja haittaa tietenkin jalankulun ja pyöräliikenteen sujuvuutta. Li-
+säksi tämä nykyinen muotoilu ehkä vähentää osaltaan kestävien liikennemuotojen houkut-
+televuutta, osa ei ole ehkä kauhean suuri mutta kuitenkin, ja jarruttaa näiltä osin ilmastota-
+voitteiden saavuttamista. Lukuisat poikkeukset tekevät säädöksestä kovin vaikean valvoa.
+Facebookissahan on suoranaista kansanhuvia laskea, kuinka monta autoa päivässä omalla
+työmatkareitillä pysäköi pyörätielle. Toivoisin, että tähän puututtaisiin tehokkaammin.
+
+18.05 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa herra puhemies! Olen itse saanut
+seurata liikennettä pyöräilijän näkökulmasta: muutaman kerran olen maapallon ympäri
+pyörällä ajanut, siis kilometreissä laskettuna. Lähinnä siinä roolissa eteen on tullut joitakin
+kertoja tämä liikennekunnon kysymys lähinnä siinä näkökulmassa, onko autonkuljettaja
+kyvykäs kuljettamaan autoaan ja onko hänen henkinen tilansa sellainen, että hänen pitäisi
+ollenkaan olla siellä liikenteessä mukana. Kysymyksessä on liikenneraivo, siis sellainen il-
+miö, jossa ihminen käyttäytyy impulsiivisesti, ei hallitse omaa tunnetilaansa ja tekemi-
+siään ja on suoranaisia taponyrityksiä, voisi sanoa. Onko tässä hallituksen esityksessä mi-
+tään mahdollisuuksia tunnistaa tällaista luonnehäiriötä, mitään mahdollisuuksia tarjota
+jonkinlaista vihanhallintakoulutusta, niin kuin ainakin [Puhemies koputtaa] USA:ssa on?
+
+18.07 Pertti Hakanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä on pu-
+huttu nyt kameratolpista jonkun verran, ja todellakin täytyy muistaa se, että aikanaan kun
+liikennevalot tulivat, niin yksi syy oli nimenomaan myös se, että saatiin poliiseille resurs-
+seja muuhun työhön — minun mielestäni ainakin on ihan ymmärrettävää. Silloin oli var-
+maan harkittava tarkkaan, missä ylinopeuksia ajettiin, mihin ne kamerat piti sijoittaa. Niin
+kuin tässä on useampi edustaja sanonut, niin totta kai, kun virhe tapahtuu, niin kamera vä-
+lähtää, se on tasavertainen meille kaikille.
+
+Kyllä minä vähän kyseenalaistan nyt myöskin sitä, jos ne väritetään hirveän kirkkaalla
+värillä, että ne näkyvät, niin kuin täällä edustaja Kari toi esille. Minulle sopii maalaami-
+nenkin, mutta miettikääpä sitä, että kun ne rupeavat näkymään tuolla entistä paremmin,
+niin sitten tulee niitä äkkijarrutuksia ja peräänajoriskin mahdollisuus lisääntyy taas siinä ti-
+lanteessa, elikkä ei ole välttämättä ihan selkeä turvallisuuskysymys kuitenkaan sekään.
+Meillä on aika paljon liikennevalvontaa myöskin poliisiautosta, joka on merkattu liiken-
+teessä aika hyvin, ja kun ne ajavat meitä vastaan, niin ne saattavat meitä myöskin pysäyt-
+tää.
+
+Kysyn ministeriltä vielä, kun henkilöauton peräkärryjen osalta nostettiin nopeus 100 ki-
+lometriin: oliko harkittu myös sitä, että katsastettaisiin [Puhemies koputtaa] peräkärryt,
+jotta saataisiin oikeasti käyttökuntoisiakin peräkärryjä liikenteeseen?
+
+18.08 Teuvo Hakkarainen ps (vastauspuheenvuoro): Arvoisa puhemies! Muutama käy-
+tännön esimerkki vielä.
+17
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Poliisilla on nyt valta niin sanotusti sakottaa. Otetaanpa esimerkki: nykyaikainen huip-
+pumoottoripyörä, jossa on epsit, lepsit, kipsit, kapsit ja kupsit, ja vanha Jawa, jossa ei ole
+kuin rumpujarrut — samat säännöt, ja varmasti tulee lappu käteen kummallakin, kun ajaa
+ylinopeutta. Tässä pitäisi pystyä käyttämään harkintaa.
+
+Sitten vielä semmoinen, että kun täällä kaupungissa jonkin verran joutuu väkisin aja-
+maan autolla, niin eikö näille polkupyöräilijöille saa semmoista sääntöä, että kun on suo-
+jatie, ne taluttaisivat sen pyörän yli sieltä? Eihän tämä mikään kuntoilualue ole, että aje-
+taan hampaat irvessä tuolla ja joutuu väistelemään, kaukaa katsomaan, että tuleeko se pääl-
+le. Eihän kaupungissa ajeta rallia autollakaan. Samat säännöt sille polkupyöräilijälle kuin
+jalankulkijalle, että työnnetään se [Puhemies koputtaa] pyörä siitä yli.
+
+18.09 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tieliikenne-
+lakipaketti on todella iso, ja tietysti tässä keskustelussa on pidetty jo monet puheenvuorot
+tässä pienten ylinopeuksien asiassa. Tosiasia on, että ei tule sallia ylinopeuksia, mutta kyl-
+lä liikenteessä ne todella isot ylinopeudet ovat isompi asia omasta mielestäni. Samoin
+myöskin, kuten edustaja Tolvanen toi esille, rattijuoppousasiat ja muut päihteiden käyttä-
+jät ovat se ongelma-asia. Ja kyllä itsekin kannatan sitä, että tulevaisuudessa meillä olisi au-
+tossa vakiona alkolukko, joka sitten varmistaisi näitä asioita.
+
+Sitten edustaja Laukkanen omassa puheenvuorossaan on ottanut esille nämä tiekohtai-
+set nopeudet. Itse kyllä kannatan sitä, että tienpitäjät pyrkisivät menemään vaihtuviin no-
+peusrajoituksiin. Se on tulevaisuutta myöskin.
+
+Arvoisa ministeri, kun olette vielä paikalla, niin haluaisin kysyä vielä talvirengasasias-
+ta: miten on näiden talvirenkaiden kohdalla, kun se on niin, että voi laittaa kelin mukaan
+marras-, joulu-, tammi-, helmi- ja maaliskuun aikana? Ja toivon, että Trafilta tulee tarkem-
+pia ohjeita tähän. [Puhemies: Ja nyt on aika reilusti yli!] — Kyllä.
+
+18.10 Mika Kari sd (vastauspuheenvuoro): Arvoisa herra puhemies! Oli lievä pettymys,
+että edustaja Tolvanen suhtautui noin vähättelevästi tähän kameratolppien maalaamiseh-
+dotukseen. Se pitää sisällään sen — jo aikaisemmissa puheenvuoroissa asiasta olen puhu-
+nut — että tuotaisiin nämä tolpat sinne aidosti oikeisiin vaaranpaikkoihin; mainitsitte kou-
+lut, päiväkodit ja niin edelleen. Tämä maalaaminen — siis kunnolliset värit tolppiin — on
+Ruotsissa ollut käytössä jo vuosia, ja kokemus siitä on ilmeisenkin niiden tietojen mukaan,
+mitä itsellä on, päinvastainen kuin mitä edustaja Hakanen tuossa ajatteli, että se lisäisi hai-
+tari-ilmiötä. Päinvastoin se vähentää haitari-ilmiötä. Nyt haitari-ilmiö tapahtuu siinä, kun
+autoilija huomaa sen tolpan 10—15 metriä aikaisemmin, painaa jarrun pohjaan, ja haitari
+on valmis. Aamuruuhkassa se tarkoittaa mahdollisesti jopa kymmenien minuuttien jatku-
+vaa haitariliikennettä, joka ei ole varmasti tämän lakiesityksen ympäristötavoitteiden mu-
+kaista. Liikenteen turvallisuus on liikenteen joustavuutta.
+
+18.11 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Olem-
+me puhuneet tosiaan ylinopeuksista ja rikesakoista ynnä muusta. Itse haluaisin vielä nos-
+taa ainakin tämän tieliikenneverkon ja sen tilan. Se on kuitenkin kokonaisuudessaan liiken-
+neturvallisuuden kannalta suurin ongelmakohta. Meillä on pitkä tieverkko, se on 450 000
+kilometriä kaiken kaikkiaan, ja siitä on valtion maanteitä 78 000 kilometriä. Tämän koko-
+naisuuden hallitseminen ja saaminen siihen kuntoon, että meillä olisi turvallista liikkua
+teillä, saataisiin nämä ajanmukaiset nopeudet, vaihtuvat nopeudet, niin kuin täällä on tul-
+18
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+lut, ja myös tämä talvinopeus — se olisi sellainen iso asia, mistä toivoisin, että tämä parla-
+mentaarinen työryhmä pääsisi järkevään ratkaisuun ja päästäisiin tässä isossa kuvassa koh-
+ti sitä hyvää tavoitetta, mikä tällä hallituksella on.
+
+18.12 Mikko Alatalo kesk (vastauspuheenvuoro): Arvoisa puhemies! Täällä tuotiin esil-
+le, että tuo parkkeeraaminen tulee samanlaiseksi kuin mannermaissakin, että voi pysäköi-
+dä myös kulkusuunnan vasemmalle puolelle tietä. Tämä joustavoittaa parkkeeraamista.
+Ainakin minulla itselläni on ihan hyvät kokemukset siitä — totta kai se täytyy tehdä muuta
+liikennettä vaarantamatta — ja tässä mielessä se on hyvä asia.
+
+Mutta vielä palaisin tuohon asiaan tästä käännetystä todistustaakasta ja siihen, että rik-
+komukseen syyllistyneelle asetetaan velvollisuus myötävaikuttaa omaan asiansa selvittä-
+miseen maksusta vapautuakseen. Onhan nytkin jo pitänyt kertoa, jos joku muu henkilö on
+ajanut sinun autoasi. Miten tämä nyt muuttaa sitä käytäntöä? Tuleeko sitten käymään niin,
+että ei näe vaivaa valittaakseen, jos tämä prosessi tosiaan muuttuu käänteiseksi?
+
+Mitä tulee tosiaan itse näihin nopeusrajoituksiin, niin totta kai, sehän on selvä, että no-
+peusrajoituksia on pitänyt noudattaa nyt ja pitää tulevaisuudessakin. Mutta tosiaan tästä to-
+leranssista ja puuttumiskynnyksestä poliisi on sanonut, että käytäntö jatkuu entisellään,
+[Puhemies koputtaa] että 1 kilometrin ylinopeuksiin ei kiinnitettä huomiota.
+
+18.14 Kari Tolvanen kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tärkeintä on,
+että tämä kameravalvonta on oikeassa paikassa, ja se on toissijaista minun mielestäni, mikä
+se väri on. Siitä varmaan edustaja Karin kanssa olemme samaa mieltä, että paikka ratkai-
+see. [Mika Kari: Kyllä!] Käsittääkseni poliisi on entistä enemmän siirtymässä tämmöiseen
+liikuteltavaan kamerakalustoon eli niin sanottuihin pakettiautoihin, joissa on se kamera. En
+tiedä, pitäisikö nämäkin sitten maalata jollain huomiovärillä, että ne huomattaisiin — se-
+kin on taas toinen asia. [Eduskunnasta: Kuten Ruotsissa!] En tiedä, se on makuasia. Mutta
+tärkeintä kuitenkin on, että sitä nopeusvalvontaa olisi, ja mielellään niin, että sitä tekisivät
+elävät poliisit, jotka voisivat sitten ihan [Mikko Alatalo: Kyllä!] tarkistaa sen kuljettajan
+ajokunnon, [Mika Kari: Tästä olemme samaa mieltä!] koska, kuten alussa kerroin, jos
+kuuntelitte, olen huolestunut päihteiden käyttäjistä. He aiheuttavat suurimman riskin lii-
+kenteessä, ja he useimmiten ajavat hyvin huomattavaa ylinopeutta ja aiheuttavat sen todel-
+lisen riskin. Tämä kameravalvonta on ihan hyvä lisä tähän, mutta se ei korvaa elävää po-
+liisia, joka osaa sitten tarvittaessa myydäkin sen sakon sille asiakkaalle ja kertoa, miksi
+sakko [Puhemies koputtaa] annetaan.
+
+18.15 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! Olen samaa mieltä
+kaikkien niiden edustajien kanssa, jotka ovat korostaneet nopeuden lisäksi muitakin liiken-
+neturvallisuuteen vaikuttavia tekijöitä, mutta haluaisin nyt vielä muistuttaa nopeuteen liit-
+tyvästä fysiikasta. Jos meillä on kolme autoa — samanlaisia, samoissa oloissa, samanlai-
+sella tiellä ja kelillä — joiden jarrutus alkaa kahdeksastakympistä, yhdeksästäkympistä tai
+satasesta, niin siinä vaiheessa, kun se kahdeksastakympistä jarruttamisen aloittanut auto on
+pysähtynyt, yhdeksästäkympistä jarruttamaan aloittanut ajaa vielä neljääkymppiä ja sata-
+sesta jarruttamaan aloittanut ajaa kuuttakymppiä. Tämä havainnollistanee sitä, että vaikka
+nopeus ei useinkaan ole se onnettomuuden syy, onnettomuuden seurauksien vakavuus riip-
+puu hyvin voimakkaasti nopeuksista. Se on yksi syy siihen, miksi lämpimästi edelleen tuen
+sitä, mitä edustaja Parviainen totesi siitä, että taajamien yleinen nopeusrajoitus pitäisi las-
+19
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+kea [Puhemies koputtaa] kolmeenkymppiin ja vain erityisillä perusteilla saisi sitten säätää
+ylemmän nopeuden.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, olen merkinnyt
+tänne puheenvuorot vielä seuraaville edustajille: edustajat Hoskonen, Kymäläinen, Maija-
+la, Myllykoski, Hongisto ja Kari. Näiden puheenvuorojen jälkeen ministerille sitten 3 mi-
+nuutin puheenvuoro.
+
+18.16 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Huoma-
+sin tässä uudessa lakiesityksessä erittäin kannatettavan pykälän, ajokorttilain 65 §:n muut-
+tamisen, niin että nämä pienet ylinopeussakot jäävät pois siitä perusteesta, minkä mukaan
+ihmisen ajokortti voidaan laittaa hyllylle kuivumaan tai lepäämään. Hyvä näin, mutta tuli
+mieleen raskas liikenne: esimerkiksi puutavarankuljetuspuolellahan meillä on sellainen
+ongelma, että kun talvella ajetaan puuta rekalla, niin siinä ajon aikana tulee helposti
+1 000—2 000 kiloa lisää painoa, kun lumi pölisee, ja kun rekkakuski saa kolme ylipai-
+nomaksua, niin sehän toimii samalla keinoin kuin lievä ylinopeus, kolmen ylikuormamak-
+sun jälkeen lähtee kortti kuivumaan, ja sen jälkeen ammatti on siinä. Tuleeko tähän muu-
+tosta? 
+
+Sitten tämä toinen hyvä asia, mikä täällä lakiesityksessä on, huolellisuusvelvollisuus:
+olisin muutamalla sanalla halunnut kuulla ministerin luonnehdinnan siitä, mitä tämä hieno
+uusi kohta täällä niin kuin syvimmillään pitää sisällään.
+
+18.17 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Tähän esil-
+le nostettuun asiaan: on erittäin hyvä, että tuosta kolmesta ylinopeussakosta ei enää menetä
+korttia ja erityisesti [Kari Kulmala: Pienestä!] — pienestä, todella hyvä lisäys — ettei tämä
+vaikuta ammattiliikenteen kuljettajiin. 
+
+Täällä nousi keskustelussa esille tienvarsiin pysäköiminen. Sen osalta kysyisin tästä
+tienkäyttäjän ennakointivelvollisuudesta, joka tähän lakiin on kirjoitettu. Nimenomaan tie-
+nvarteen pysäköinnin kohdallahan tässä voi tulla tulkinnanvaraisuuksia. Edelleen kysyn
+pyörätiellä tapahtuvien jalankulkijakuolemien osuudesta: millä tavoin tällä esityksellä py-
+ritään tätä ehkäisemään? Nythän siellä on hyviä lisäyksiä polkupyöräkypärien pakosta ja
+heijastimen käyttämisestä ja niin pois päin, mutta täällä on myös ollut esillä nopeusrajoi-
+tusten [Puhemies koputtaa] alentaminen taajamien kohdalla. 
+
+18.19 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Olen ollut
+tien päällä varmaan sen miljoona kilometriä, ja siellä on tullut nähtyä ja koettua kaikennä-
+köistä. Viime vuosina olen useamman kerran säikähtänyt sitä, kun joillakin jalankulkijoil-
+la tai sitten joissakin paikoissa on ollut aivan ylimitoitettu heijastinmäärä. Esimerkiksi po-
+liisi on saattanut pysähtyä yhtäkkiä pimeässä valtavalla valaistuksella tai sitten on joku
+semmoinen ylimääräinen liikennemerkki laitettu, tai jotkut tämmöiset, mitkä ovat olleet ai-
+van ehdottomasti ylireagointia siihen tilanteeseen nähden, ja se on kuskit enemmänkin säi-
+käyttänyt siinä tilanteessa. Nyt sitten kysyn, onko tässä laissa huomioitu se, että ylimää-
+räistä häirintää ei saa tapahtua tämmöisellä toiminnalla. Tuossa oli muun muassa äsken jo
+keskustelua näistä eri tolpista ja tämmöisistä näin, siitä, kuinka paljon niitä voidaan sitten
+merkitä, ettei tule ongelmia tässä liikenteessä.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Kokonaisuudessaan uskon, että me valiokuntakäsittelyssä pääsemme hiomaan tätä esi-
+tystä vielä aika paljonkin, [Puhemies koputtaa] mutta kiitoksia tähän asti. 
+
+18.20 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa herra puhemies! On pakko
+käydä nyt Ruotsin puolella tässä kamera-asiassa. Minun mielestäni siellä tehdään turvalli-
+suuden nimissä tämä kaikki. Ensin kaukana ennen risteystä on jo ilmoitustaulu siitä, että on
+kohta kameravalvonta, vähän ennen risteystä on vielä nopeudennäyttötaulu, ja vasta sen
+risteyksen jälkeen on se kamera. Jos siihen ajat ja sakot saat, niin kyllä täytyykin saada. Eli
+tavallaan se ruotsalainen turvallisuuslähtökohta on jo erilaisempi kuin meillä täällä on ol-
+lut tähän asti. [Mika Kari: Absolut!] Eli kyllä ne kamerat on todellakin sijoiteltu juuri sitä
+varten, että mahdollisimman hankalissa paikoissa autoilijan kannalta varmasti on syytä no-
+peutta valvoa. 
+
+Mutta nyt jos palataan tähän tolppien maalaamiseen: sijoitellaan ne kamerat sinne, mis-
+sä niitä tarvitaan, ja kerrotaan niistä autoilijoille, jotta se [Puhemies koputtaa] kaksinker-
+tainen turvallisuusajattelu tulee koulun läheisyydessä. 
+
+18.21 Reijo Hongisto sin (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä on käy-
+ty erinomaisen hyvää keskustelua, ja olen tulkinnut asian niin, että jokainen puheenvuoron
+käyttänyt henkilö haluaa omalta osaltaan olla parantamassa liikenneturvallisuutta — hyvä
+näin. 
+
+Haluaisin muutamalla sanalla nostaa esille vielä itsetuhoiset kuljettajat. Meillä on vali-
+tettavan monta esimerkkiä siitä, että itsetuhoinen henkilö syystä taikka toisesta päättää to-
+teuttaa tämän tuhoisan turman, ja monta kertaa käy niin, että siinä vastapuolella sitten tulee
+uhreja myöskin. Kysynkin — olen lukenut tämän lakiesityksen mutta en muista suoraan —
+onko tässä lakiesityksessä mainittu sitä ja otetaanko kantaa siihen, millä tavalla voitaisiin
+itsetuhoisten kuljettajien määrää liikenteessä vähentää. Uskon näin, että lääkäreiden oi-
+keus ja velvollisuus ilmoittaa itsetuhoiseksi havaitsemastaan potilaasta poliisille on ole-
+massa, mutta tiedän myöskin sen, että erilaiset salassapitomääräykset monta [Puhemies
+koputtaa] kertaa rajoittavat tätä ilmoitusoikeutta. 
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja vielä edustaja Kari, vastauspuheen-
+vuoro, ja sitten ministeri. 
+
+18.22 Mika Kari sd (vastauspuheenvuoro): Arvoisa herra puhemies! Voisi ehkä yksin-
+kertaistaa tätä puheeni taustaa ja huolta siitä, että meidän liikennevalvonta kohdistuu liian
+paljon tällä hetkellä näihin tolppiin, sähköiseen liikenteenvalvontaan. Se tausta minun mie-
+lestäni lähtee siitä, että poliisin resurssien vähentyessä painetta liikennevalvonnasta on siir-
+retty tänne automaattiselle puolelle. Näin ollen tolpat eivät ole tulleet laadullisesti lisää-
+mään meidän liikenneturvallisuutta ja liikennevalvontaa, ainoastaan ikään kuin pakon sa-
+nelemana poliisin tehtäviä on siirretty tällaisien kylmien poliisien, peltipoliisien hoidetta-
+vaksi, ja tämä kehitys on negatiivinen.
+
+Toivon, että samalla kun poliisin määrärahoja ja poliisin resursseja pystytään pitkällä ai-
+kajänteellä tarkistelemaan, liikenneministeri ja sisäministeri yhdessä kävisivät näissä
+asioissa valtiovarainministerin puheilla, jotta saisimme ne poliisit tekemään sitä liikenne-
+valvontaa, sen ammattilaisten joukon, joka sillä kentällä osaava joukko on, ja samalla saa-
+taisiin nämä tolpat, liikenteen karimerkit — jos vaikka näin sanon — maalattua kunnolla
+21
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+näkyviksi. Kun se kuopan paikka siellä tiessä on, niin ei tulisi suotta ylimääräisiä jarrutte-
+luja vaan saataisiin joustava, turvallinen liikenne.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Olen havaitsevinani, että juuri tähän
+saumaan vielä ennen ministerin puheenvuoroa edustajat Pakkanen ja Kiuru ilmeisesti ha-
+luaisivat aivan välttämättä käyttää vastuspuheenvuoron, ja siihen haasteeseen on vastatta-
+va.
+
+18.23 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Juuri tä-
+hän edustaja Karin esittämään, etteikö tolpilla olisi liikenneturvallisuuden kannalta merki-
+tystä: Olen itse elävä esimerkki siitä, kuinka ajokäyttäytyminen muuttuu, kun tulee riittä-
+vän monta kertaa tolpasta valokuvan perusteella se kuvamaksu. Minulla oli ennen aina tapa
+ajaa sellainen 10—12 kilometriä ylinopeutta, ja kun riittävän monta kertaa tulee sakko, niin
+kyllä vain käyttäytyminen muuttuu. Nyt ajan vain 6 kilometriä yli, ja jos se menisi vielä
+tarkemmin, niin se olisi todennäköisesti siihen tasan. Olen siis elävä esimerkki siitä, että
+kyllä se vain muuttuu sillä tolpalla. Siihen ei ole tarvittu yhtään poliisia, ja minusta se on
+ihan järkevää. Silloin tällöin Hämeenlinnan poliisilaitokselta aina tulee kirje, että voitteko
+kertoa, kuka on ollut autoa ajamassa. Kun mamman autolla ajaa, niin useasti siinä kuukau-
+den saa ylimääräistä maksuaikaa, kun sinne laittaa kirjeen, että kyllä se olin jälleen kerran
+minä, joka sillä rouvan autolla ajeli sen ylinopeuden, ja ajotapa muuttui ja turvallisuus li-
+sääntyi. [Eeva-Maria Maijala: Hyviä neuvoja!]
+
+18.24 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Hongisto pu-
+hui hyvin itsetuhoisista henkilöistä. Vielä haluan nostaa esiin, kun jäi äsken hieman kes-
+ken, henkilöt, joilla on impulsiivinen luonne, taipumus liikenneraivoon ja aggressiiviseen
+käyttäytymiseen. Minun käsitykseni mukaan liikennevirhemaksut, päiväsakot eivät vie
+heille perille sitä koulutusta tai oppia siitä, mistä tässä on kysymys. Totta kai heille tulee se
+viesti, että he ovat tehneet jotain ikään kuin väärin, mutta vaikuttaako se heidän käyttäyty-
+miseensä jatkossa? Uskallan epäillä. Tämä oppi pitäisi saada vähän niin kuin Pavlovin koi-
+rille jotenkin sinne, ja tässä kannustan tällaisiin vihanhallintakursseihin ja -koulutuksiin
+henkilöitä, joilla on vaikeuksia hallita omia tunteitaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ministeri, noin 3 minuuttia tarpeen
+mukaan.
+
+18.26 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Ajokunto on to-
+dellakin erittäin tärkeä osa liikenneturvallisuutta, ja tämän uuden lain mukaan poliisin toi-
+mesta voidaan keskeyttää sellainen ajo, josta poliisi epäilee, että kuljettaja ei ole kunnossa.
+Tämä on iso ja tärkeä uudistus tässä kokonaisuudessa. Päihteet eivät kuulu liikenteeseen, ja
+myöskin valtioneuvoston liikenneturvallisuusperiaatepäätöksessä on tämä otettu huo-
+mioon.
+
+Liikenneosaaminen on toinen asiakokonaisuus, jota muun muassa edustaja Myllykoski
+nosti tässä esille. Sekin on tärkeä osa tätä kokonaisuutta.
+
+Opetusasioiden osalta toivottavasti saamme yhteisymmärrystä opetusministerin kanssa,
+mutta järjestöt tekevät jo nyt erittäin tärkeää työtä osana tätä kokonaisuutta ja ovat siinä yh-
+teydessä meille hyvin merkittäviä.
+22
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Tässä on verrattu sitä, mikä on Ruotsin nopeusjärjestelmä. Se vastaa suurin piirtein Suo-
+men talvinopeusjärjestelmää. Ruotsissa yli 80 kilometriä tunnissa sallitaan pääsääntöisesti
+ja vain, jos ajosuunnat on erotettu toisistaan rakenteellisesti, voidaan nostaa nopeutta.
+
+Automaattivalvonta on kasvanut meillä Suomessa, mutta se ei ole kuitenkaan niin suur-
+ta kuin monessa muussa verrokkimaassa. Meillä on 130 kameraa ja 3 000 valvontakame-
+raa, 450 000 kilometriä teitä, mutta on selvää, että me tarvitsemme enemmän poliisin re-
+sursseja liikenteen valvomiseksi. Ja juuri niin kuin esititte, edustaja Kari, tämä on sisämi-
+nisterin ja liikenneministerin yhteistä asiaa, ja varmasti myöskin yhteisesti sitä viemme
+eteenpäin.
+
+Edustaja Ronkainen, nykyinen laki mahdollistaa jo nyt 1 kilometrin ylityksestä sakotta-
+misen. Tässähän ei sinänsä mikään muutu, mutta niin kuin on edellä todettu, poliisin puut-
+tumiskynnys on tässä ratkaiseva.
+
+Edustaja Tolvanen, nostitte esille alkolukkokokonaisuuden. Alkolukkolain kokonaisuu-
+distus astui voimaan vuoden 2016 lopussa. Tavoitteena on saada lisää alkolukkoja, mutta
+emme tiedä vielä, miten laki on vaikuttanut, ja sitä vielä pitäisi katsoa.
+
+Kameratolppien sijainnista vastaa lähinnä poliisi ja toiseksi kunta. Elikkä tässä heillä on
+hyvin paljon harkintaa käytettävissä, mutta tämä laki mahdollistaa nyt sen, että tolppia voi-
+daan asettaa lähemmäs suojateitä, ja siinä on iso muutos ja parannus.
+
+Pysäköinti jalkakäytävälle ja pyörätielle on lähtökohtaisesti kielletty, mutta se sallitaan
+silloin, kun halutaan mahdollistaa tavaran purku, joka on tietysti meidän kivijalkamyymä-
+löillemme erittäin tärkeä. Me pyrimme tässä lainsäädännössä mahdollistamaan se niin, että
+nämä lastaus- ja kuormauspaikat on selkeämmin merkitty, ei niin, että härdelli on vähän
+niin kuin joka paikassa, mutta pääsääntö on, että pysähtyä ei saa.
+
+Tienpitäjä on se, joka määrittelee sopivat nopeusrajoitukset tielleen, mutta tässä on sit-
+ten huomioitava tien kunto ja myöskin esimerkiksi meluhaitta, joka syntyy nopeuden nos-
+tamisesta.
+
+Edustaja Kiuru, nostitte esille sen, voiko liikenneraivon tunnistaa. Liikenneturva antaa
+tässä mahdollisuuden asennekasvatukseen, mutta esimerkiksi tässä laissa on sellainen koh-
+ta, että jos on vilkku päällä ja haluaa vaihtaa kaistaa, niin sitä ei saa estää esimerkiksi nos-
+tamalla nopeutta. Pienillä asioilla pystytään tässä laissa jotenkin vaikuttamaan, mutta edel-
+leenkin tämä on hyvin pitkälti myöskin, jälleen kerran, järjestöjen kanssa yhteisesti tehtä-
+vä asia.
+
+Pakettiautojen nopeusrajoitukset: ajoneuvokohtaisia nopeuksia nostetaan, koska se li-
+sää liikenteen sujuvuutta ja vähentää ohitustarvetta ja sitä kautta nostaa liikenneturvalli-
+suuden kokonaisuutta.
+
+Nopeusrajoitusten alentaminen taajamissa on yksi aivan keskeinen mahdollisuus paran-
+taa suojateiden turvallisuutta, jonka edustaja Kymäläinen nosti esille, ja se myöskin sitten
+mahdollistaa sen, että niihin voidaan asentaa paremmin kamerat, ja juuri siten voidaan täs-
+sä järjestelmässä siihen alempaan rikesakkoon liittyen mahdollistaa myöskin valvonta, jos-
+sa pystytään kuvaamaan läheltä vain rekisteritunnus. Tämä on siihen kohtaan tietysti tär-
+keä.
+
+Edustaja Torniainen, jos keli edellyttää talvirengasta, niin sitä on käytettävä marras-
+maaliskuun välisenä aikana. Laissa on sitten se valtuutussääntö, jonka mukaan Trafi mää-
+rittelee sen, millä tavalla se rengas määritellään.
+
+On erittäin tärkeää, mitä edustaja Hassi on nostanut monta kertaa esille, että nopeuden li-
+säksi puhutaan muista aspekteista. Tässä yksi hyvin keskeinen on se, kuinka hyvin tunnem-
+23
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+me liikennesäännöt. Tässäkin toivon, että tämän uuden tieliikennelain myötä syntyy lisää
+tietoa ja ymmärrystä ylipäätään siitä, mitkä meidän sääntömme ovat.
+
+Tässä on noussut esille myöskin se, miten rikesakkoasiassa sakkomääräyksen saanut voi
+sakosta vapautua, eli käänteinen todistustaakka. Jo nyt me olemme tilanteessa, että jos on
+saanut rikesakon, niin joutuu siitä valittaakseen esittämään esitutkinnassa tai tuomioistuin-
+käsittelyssä vastanäyttöä syyttömyyden tueksi. Poliisin päätöksestä voi hakea oikaisua, ja
+kielteisestä päätöksestä voi valittaa hallinto-oikeuteen edelleenkin.
+
+Itsetuhoisten kuljettajien osalta on edelleen varmasti näin, että tietojenvaihdossa saattaa
+olla asioita, joita en tunne, mutta tähän ei siis ole meidän hallinnonalallamme mahdolli-
+suuksia vaikuttaa vaan tässä tarvitaan yhteistyötä muiden ministeriöiden osalta.
+
+Edustaja Kymäläinen, ennakointivelvollisuus tarkoittaa sitä, että jokaisen tienkäyttäjän
+on oltava valppaana ja varauduttava toisen tienkäyttäjän toimintaan [Puhemies koputtaa] ja
+toimittava niin, että vaara voidaan välttää. — Kiitoksia.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Kiitoksia, siinä oli todellakin 3 mi-
+nuutin puheenvuoro, mutta niitä nyt oli tasan tarkkaan kaksi peräkkäin elikkä 6 minuuttia.
+Mutta se oli tarpeen, niin paljon kysymyksiä ministerille tuli. Minä huomaan, että vielä on
+vastauspuheenvuoron tarvetta, eli aivan lyhyesti vielä. — Havaitsen edustaja Hassin pyy-
+täneen vastauspuheenvuoroa.
+
+18.32 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! Tätä pyöräteille ja jal-
+kakäytävälle pysäköimistä haluaisin kommentoida nyt. Olen seurannut Facebookissa täm-
+möistä Minä pysäköin pyörätielle -sivua, jossa on järkyttävän paljon esimerkkejä hyvin
+törkeistä pyöräteille pysäköimisistä pitkäksi aikaa, jopa sellaisia, että tietty auto aivan
+säännöllisesti pysäköi pitkäksi aikaa samaan kohtaan. Tämä on sellainen asia, jossa liiken-
+nevalvonnalta toivoisi paljon jämerämpää otetta. Lisäksi toivoisin myöskin sitä, että mää-
+riteltäisiin jonkinlaiset kriteerit siitä, milloin saa pysäköidä pyörätielle. Esimerkiksi itse
+ajan hyvin usein Tampereen Puutarhakadulla kotoa rautatieasemalle sellaista pyörätietä
+myöten, jonne on usein pysäköity autoja, vaikka siinä kadun toisella puolen on ihan lailli-
+sia paikkoja. Ei nyt voi olla tavaran lastaus johonkin lähikauppaan mahdottomampaa ka-
+dun toiselta puolelta kuin pyörätieltä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, olen vielä merkin-
+nyt tänne vastauspuheenvuorot edustajille Torniainen, Myllykoski ja Hakanen. Näillä
+mennään ja sitten siirrytään puhujalistaan.
+
+18.33 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Iso kiitos ministe-
+rille ensinnäkin tämän lakipaketin esittelystä ja myöskin näistä vastauksista, mitä me olem-
+me saaneet. Varmaankin tähän koko lakiin, joka on todella laaja, on tullut paljon aikanaan
+lausuntoja, ja sen eteenpäinvieminen ja tänne saliin saaminen on vaatinut paljon työtä ja
+vaivannäköä, ja uskon, että paljon pohdintaa myöskin, kun olen katsonut noita lausuntoja.
+Tässä lakipaketissa on huomioitu hyvin autoilijat ja autoilijoiden käyttäytyminen ja liiken-
+nöinti ja muut moottoriajoneuvoilla liikkuvat. Siinä on huomioitu pyöräilijät, siinä on huo-
+mioitu myöskin jalankulkijat. Itseäni lämmittää erityisesti se, että polkupyöräilijän ja pol-
+kupyörämatkustajan ajon aikana yleensä on käytettävä suojakypärää, että se on myöskin
+24
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+saatu pysymään nytten laissa. Se on varmasti aiheuttanut paljon keskustelua puolesta ja
+vastaan.
+
+18.34 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä kuul-
+tiin edustaja Maijalalta tämmöinen liikenteen me too -kampanjan avaus. [Eeva-Maria Mai-
+jala pyytää vastauspuheenvuoroa] Minä kyllä olen sitä mieltä, että lakiin olisi ollut hyvä
+kirjoittaa jo, että pimeällä on jalankulkijan käytettävä heijastinta. Täällä kaupungissa satei-
+silla ilmoilla erityinen tarve olisi jalankulkijoitten käyttää heijastinta. Minun mielestäni
+varmasti on hyvä ruveta harkitsemaan valiokunnassa, voidaanko kirjausta jollakin tavoin
+vahvistaa.
+
+Sitten olisin kysynyt ministeriltä: onko se tiemestari, joka määrittelee, koska sitten on
+käytettävä talvirengasta, vai kuka se on? Jos tämä jää yksinomaan sitten kansalaisen omaan
+harkintaan katsoa, onko nyt se talvirengaskeli vai ei, niin siitä seuraa katastrofi.
+
+18.36 Pertti Hakanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Todella
+tämä laki on laaja, ja täällä on aika pitkälti keskitytty nyt tähän liikenteen nopeudenvalvon-
+taan, mikä on tietysti äärimmäisen tärkeä asia, ja sen resurssien käyttöön ja jopa tosiaan
+näiden kameratolppien väriin. Edustaja Kari täällä toi hyvin tämän Ruotsin esimerkin kyl-
+lä esille, ja kyllä nyt, kun minä tätä hetken olen miettinyt, totta kai tietysti, jos aikaisem-
+paan se kameratolppa näkyy värillisenä, ehkä se heiluriliike loppuu taikka ainakin vähe-
+nee.
+
+Mutta sitten minä vielä ministerille teen kysymyksen noista peräkärryistä, joista äsken-
+kin kysyin: kun meillä on tosiaan nyt niitä henkilöauton peräkärryjä liikenteessä, niin sa-
+nottuja omavalmisteita ja aika iäkkäitä vaunuja, ja nyt niiden nopeus nostetaan 100 kilo-
+metriin tunnissa, niin olisiko syytä harkita sitä katsastuksen tarvetta niille? Totta kai poliisi
+valvoo niitten kuntoa lähtökohtaisesti, mutta jos ne olisi katsastettu esimerkiksi kerran kol-
+messa vuodessa, me voisimme sillä tavalla saada myöskin liikenneturvallisuutta siltä osin,
+koska nopeudet kasvavat.
+
+18.37 Mika Kari sd (vastauspuheenvuoro): Arvoisa herra puhemies! Kaupunkilaisena
+tervehdin ilolla sitä, että ministeri omassa puheenvuorossaan sanoi, että pyöräteille pysäh-
+tymiseen etsitään keinoja, jotta kaupungeissa kivijaloissa toimivat yritykset ja asukkaat
+pystyvät lastaamaan ja purkamaan joustavasti. On hyvä, että etsitään tällaista vaihtoehtoa.
+Muussa tapauksessa oltaisiin tilanteessa, joka vaikeuttaisi kyllä ihmisten elämistä kaupun-
+geissa.
+
+Mutta yksi asia, joka vaikeuttaa kaupunkilaisten elämistä, ovat kyllä toisaalta pyörätiet,
+jotka tuovat hyvää ja mukavaa vaihtelua liikkumiselle — pyörälläkin kaupungissa voi liik-
+kua — mutta usein törmää kyllä siihen, että jalankulkija tarvitsi kypärää melkeinpä enem-
+män kuin polkupyöräilijä. Ministeri, miten itse arvioitte, pitäisikö meidän enemmänkin
+keskustella siitä, että myös kaupunkiliikenteessä, kaupunkiympäristössä polkupyöräilevät
+ihmiset noudattaisivat kohtuutta omassa nopeudessaan liikkuessaan polkupyörällä? Täällä
+Helsingissä usein tulee ainakin itselleni tilanne, [Puhemies koputtaa] että kypärä pitäisi
+olla minulla eikä pyöräilijällä.
+
+18.38 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Olen erittäin
+tyytyväinen siihen, että tähän lakiin tuli merkintä siitä, että suositellaan heijastimen käyt-
+25
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+töä, sillä muutenhan lähtökohta olisi ollut se, että tämä heijastinasia olisi pitänyt jättää pois
+laista sen takia, että hyvä lainsäädäntö vaatii sen, että jos määrätään heijastimen käyttö,
+niin sitä pitäisi pystyä silloin myöskin valvomaan, sanktioimaan se asia, ja tämmöistä sank-
+tiointiasiaa ei pysty käytännössä tekemään. Mutta olen erittäin tyytyväinen, että me saim-
+me laitettua sinne eteen sen sanan "suositellaan", jotta pystytään sitten myöskin lukemaan
+ja sen mukaisesti toimimaan. Ja minä omalta osaltani haluan kannustaa kaikkia heijasti-
+men käyttöön. Se, mitä minä otin äsken esille, kun kysyin, miten reagoidaan siihen, että
+jotkut laittavat liikaa, oikein säikähdyttävän määrän, heijastinpintaa näkyville, mikä oi-
+keasti häiritsee liikennettä, on kokonaan eri asia kuin semmoinen asianmukainen, huomio-
+ta herättävä, sopiva heijastinmäärä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Vielä vastauspuheenvuoro, edustaja
+Juvonen, ja sitten siirrytään puhujalistaan. Jos ministeri haluaa minuutin käyttää edustaja
+Juvosen jälkeen, niin sen suon hänelle.
+
+18.39 Arja Juvonen ps (vastauspuheenvuoro): Arvoisa herra puhemies! Minäkin nostan
+heijastinasian tässä esille. Se on erittäin tärkeää, että siitä mainitaan, ja ei riitä ainoastaan se
+maininta vaan sitä pitää myös käyttää ja pitää. Monet onnettomuudet jalankulkijoille ja
+myös pyöräilijöille olisivat ehkäistävissä. Minä olen sitä mieltä, että mieluummin parempi
+näkyvyys ja useampi heijastin kuin täysin pimeänä siellä tieliikenteessä liikkuminen. Mi-
+nun mielestäni heijastinpakko kyllä olisi voinut olla ihan niin, että se sisällytetään lakiin,
+että se on laissa, että käytä heijastinta ja suojaa itsesi. Mitä mieltä te, ministeri, olette tästä
+asiasta?
+
+Kyllä tuo pyöräilykypäränkin käyttö — se pääkoppa on aika pehmoinen, kun sieltä pyö-
+rästä lentää, ja ne ovat kuitenkin vakavia vammoja, tapaturmia, mitä siitä aiheutuu, niin
+että on sitten vähän näennäistä puhua turvallisuuden [Puhemies koputtaa] parantamisesta,
+jos ei tarvitse kypärääkään.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja nyt ministerille vielä minuutin vas-
+tauspuheenvuoro. Minä huomaan, että osin tulee samoja kysymyksiä, joihinka ministeri on
+jo vastannutkin. Sitä keskustelua me emme kovin pitkään jatka. Siirrytään varsinaisiin pu-
+hujalistoihin.
+
+18.40 Liikenne- ja viestintäministeri  Anne  Berner  (vastauspuheenvuoro):  Kiitoksia,
+puhemies! Laissa on kriteerit sille, miten jalkakäytävälle pysäyttämistä tilapäisesti voi-
+daan tehdä, ja on syytä katsoa, että siitä voidaan pitää kiinni. Heijastimista ja pyöräilyky-
+pärän käytöstä on tässä laitettu suositus johtuen myöskin siitä, että meillä ei oikeastaan ole
+käytännössä mitään mahdollisuuksia sanktioida näitä. Sen takia emme ole määritelleet sin-
+ne pakkoa. Jos olisi pakko, pitäisi pystyä sanktioimaan, sitten pitäisi pystyä valvomaan, ja
+tätä resurssia ei valitettavasti myöskään ole. Toivomme, että tämä suositus, kun se on lais-
+sa, kannustaisi sekä pyöräilykypärän käyttöön että heijastimien käyttöön, ja tämä on nyt
+meidän näkemyksemme mukaan vahvin, mitä tähän tilanteeseen voidaan lain puolella vie-
+dä.
+
+Niin kuin puhemies totesi, moniin näistä kysymyksistä olen jo aikaisemmissa puheen-
+vuoroissani vastannut. Kysymys katsastuksesta, jota edustaja Hakanen nosti esille, tulee
+26
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+valmisteluun kevään aikana, ja siinä kohdassa voidaan tätä asiaa tarkastella vielä uudes-
+taan. — Kiitos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Puhujalistaan.
+
+18.42 Kari Kulmala sin: Arvoisa puhemies! Meillä on täällä Suomessa ja eduskunnassa
+mielenkiintoinen järjestelmä. Jos haluaa puheensa puhujalistan kärkeen, niin silloin kan-
+nattaa mennä tuonne eduskunnan kansliaan ja varata se puhe. Minä kävin varaamassa kol-
+me tuntia ennen täysistunnon alkua, ja nyt minä tämän puheen sitten pidän. Elikkä siitä,
+kun tätä asiaa on alettu käsittelemään, on 1 tunti 40 minuuttia. Olen listan kärjessä, minis-
+terin jälkeen. Kiitoksia tästä.
+
+Esityksessä ehdotetaan säädettäväksi muun muassa uusi tieliikennelaki. Nyt olemmekin
+mielenkiintoisen asian keskellä. Tuon tässä puheessani esiin useamman liikennettä valvo-
+van konstaapelin mielipiteitä, eli nämä eivät ole pelkästään omiani, vaikka seison näiden
+takana.
+
+Säädämmekö turvallisuutta parantavan lain vai säädämmekö vähemmän byrokratiaa
+tuovan lain? Molempia emme voi säätää. Kompromissia emme myöskään tarvitse. Voi-
+massa oleva laki on vuodelta 1981, ja se sisältää liikenteen periaatteet, liikennesäännöt, lii-
+kenteenohjauslaitteet ja liikennemerkit, ajoneuvojen käyttösäännöt sekä liikennerikko-
+musten seuraamukset. On selvää, että näitä tulee ajanmukaistaa, mutta vain liikenneturval-
+lisuus edellä. 
+
+Esityksen myötä otetaan hyvin huomioon haavoittuvimmassa asemassa olevat, kuten ja-
+lankulkijat ja pyöräilijät, joita on noin 28 prosenttia kaikista liikenteen käyttäjistä. Onkin
+hyvä, että heijastin ja polkupyörän kypäräsäännökset pysyvät tulevassa laissa. Toisaalta
+laki ilman sanktiota on torso, ja sanktion puuttuminen vähentää sen merkitystä. Jatkossa
+jalkakäytävän tai pyörätien ylittävän ajoneuvon olisi väistettävä jalankulkijaa, pyöräilijää
+sekä jalkakäytävän tai pyörätien takana olevan ajoradan liikennettä. Tällä hetkellähän väis-
+tämisvelvollisuus on vain jalankulkijaa kohtaan, ellei liikennemerkki jotain muuta osoita.
+Mielestäni tämä on hyvä muutos.
+
+Niin sanottua jokamiehen peräkärryä eli alle 750 kilon keskiakseliperävaunua voisi ve-
+tää 100 kilometriä tunnissa nykyisen 80 kilometrin sijaan. Nämä muutokset voisivat esi-
+tyksen mukaan vähentää ohitustarvetta ja siten vaikuttaa myönteisesti liikenneturvallisuu-
+teen. Olen asiasta hieman eri mieltä. Ohitustarve saattaa vähentyä, mutta väärin kuormattu
+peräkärry on erittäin vaarallinen jo 80 kilometrin nopeudessa. Tätä kohtaa kannattaa vielä
+asiantuntijakuulemisessa tarkentaa, ja nimenomaan liikenneturvallisuus edellä.
+
+Esityksen mukaan talvirenkaita olisi käytettävä talviaikaan silloin, kun sää tai keli sitä
+edellyttää. Annetaanko siis kuljettajalle itselleen mahdollisuus arvioida, onko keli ja sää
+hänelle sopiva ja voisiko hän ajaa kesä- vaiko talvirenkailla? Annan esimerkin: Syksyllä ja
+varsinkin talvella voi keli vaihtua hyvinkin nopeasti. Kun illalla menen nukkumaan, yöllä
+on satanut lunta, mutta aamulla on kuitenkin mentävä töihin eikä julkisia kulkuvälineitä
+ole. Tie on liukas ja jäinen — mitä teen? Tuskin alan aamuhämärissä vaihtamaan talviren-
+kaita, koska silloin myöhästyn töistä, joten lähdenkin liukastelemaan muun liikenteen se-
+kaan luottaen hyvään onneeni ja ajotaitooni. Poliisi valvojana voi olla siellä toisessa pääs-
+sä minua odottamassa: hänellä on erilainen näkemys tästä kelistä, ja hän kirjoittaa minulle
+rangaistuksen. No, tämän esityksen myötä tietenkin kitkarenkaiden myynti saattaa lisään-
+tyä, mutta ne eivät ole hyviä kesä- eivätkä talvirenkaita, vaan ne ovat kompromissi molem-
+27
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+mista. Muussa tapauksessahan ne olisivat myös jokaisessa hälytysajoneuvossa kaupun-
+kien ulkopuolellakin. 
+
+Uudet liikennemerkit ovat myös tervetulleita uudistuksia, vaikka entisiäkään ei vielä
+osata. Uusia olisi tulossa 20—30 kappaletta. Nastarenkaiden käyttöä kieltävä liikenne-
+merkki tuntuu hieman kaukaa haetulta. Kohta varmaankin joudumme laittamaan autoon-
+kin tarran, kun autossa on nastarenkaat, kuten Venäjällä. Sakko tästä tarran puuttumisesta
+on heillä 500 ruplaa. Venäjällähän ei ole nastarengaspakkoa, mutta kuljettajasta saatetaan
+tehdä syyllinen, jos joku ajaa auton perään, kun autossa on nastarenkaat. Liikennemerkki-
+uudistuksessa symboliikkaa yksinkertaistetaan. Ne ovat sukupuolineutraaleja, eli jatkossa
+ei aikuinen, mieheltä näyttävä henkilö voi enää taluttaa pikkutyttöä, koska sehän on joiden-
+kin mielestä maaseudulla muutenkin hieman arveluttavaa.
+
+Sulkuviiva olisi jatkossa valkoinen, ei enää keltainen. Toivottavasti saadaan jatkossa
+valkoinen sulkuviiva näkymään yhtä hyvin kuin keltainen lumen ja ohuen jään alta, koska
+vielä pitkään ajamme itse autoa emmekä istu vain itsestään kulkevan auton kyydissä. Kel-
+tainen sulkuviiva on mielestäni selvästi liikenneturvallisuutta ajatellen parempi väri.
+
+Tienkäyttäjien automaattivalvonta lisääntyy merkittävästi uuden tieliikennelain myötä.
+Mikäli hyväksymme tämän esityksen, liikennevalvontakamerat voivat valvoa automaatti-
+sesti ajonopeuksien lisäksi kymmenien liikennesääntöjen noudattamista. Meidän järjestel-
+mämme erikoisuutena on ollut se, että on pitänyt kuvata sekä ajoneuvon rekisterikilpi että
+kuljettajan kasvot, koska kuljettaja on vastuussa liikennerikkomuksista. Vaatimus liittyy
+rikosoikeusjärjestelmäämme ja valtion todistustaakkaan. Uusi laki mahdollistaisi sen, että
+kamera voi kuvata vain pelkkää rekisterikilpeä myös ajoneuvon takaa eli rangaistuksia voi-
+si jatkossa lähettää enemmän ajoneuvojen kuljettajille. Pidän tätä vaarallisena seurauksena
+jo oikeusturvan kannalta ajateltuna. Pidän tärkeänä, että rangaistus teosta kohdistuu aina
+oikeaan henkilöön, mitä se ei tosin tälläkään hetkellä Suomessa tee. Väkivaltaisessa per-
+heessä toinen aviopuolisoista voi ajaa autolla ja saada rangaistuksia, ja kolmen rangaistuk-
+sen jälkeen vuodessa auton omistajalta lähtee ajo-oikeus, vaikka hän ei olisi ajanut autolla
+metriäkään. Tämänhän voi väkivaltainen aviopuoliso päättää. Tällaista toimintaa meidän
+ei pitäisi mahdollistaa.
+
+Lievemmissä liikennerikkeissä luovuttaisiin rikesakkoihin ja sakkomenettelyyn perus-
+tuvasta järjestelmästä ja säädettäisiin uusi laaja-alainen liikennevirhemaksu järjestelmi-
+neen. Lopullisessa lakiesityksessä ylinopeuksien rikesakkoraja eli liikennevirhemaksuraja
+on pudotettu takaisin 20 kilometriin tunnissa alun perin ehdotetun 30 kilometrin tunnissa
+sijasta. Onkohan valtiovarainministeriö puuttunut peliin ja laskenut, kuinka paljon sakko-
+tulot tippuvat, jos hallinnollinen maksu yltää 30 kilometrin tunnissa nopeusylityksiin, vai
+miksi tämä muutos on tehty?
+
+Jatkossa automaattisen liikennevalvonnan kamerat voivat valvoa turvavyön käyttöä, pu-
+naista päin ajoa ynnä muuta. Uusien valvontakohteiden määrä on jatkossa niin suuri, että
+poliisin nykyiset kamerat eivät niitä vielä osaa tehdä. Turvavyön käytön valvonnan osalta
+se on hankalaa, koska käräjäoikeudessa pitää pystyä todistamaan, että turvavyö ei ole ollut
+kiinnitettynä. Käytännössä tämä tapahtuu siten, että kiinnityssolki on ollut näkyvissä val-
+vonnan aikana.
+
+Mikäli lakiesitys menee läpi, se on iso askel kohti keskinopeusvalvontaa, joka on oikeu-
+denmukaisempi tienkäyttäjälle kuin pistekohtainen valvonta. Tällä hetkellä Euroopassa
+valvotaan jo keskinopeuksia mutta Suomessa ei vieläkään. Keskinopeusvalvontaan riittäi-
+si, että ensimmäinen kameratolppa rekisteröi ohi ajaneen auton rekisterikilven ja ohitus-
+28
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+ajan, toinen kamera toistaa tämän ja näin auton matka-aika ja sitä kautta keskinopeus saa-
+daan laskettua. Ei se tämän vaikeampaa ole.
+
+Esityksessä on mainittu liikennevirhemaksuja euromääräisesti. Niissä on monessa vielä
+tarkistamisen paikka. Otan muutaman esimerkiksi: Kun autoilija ajaa päin punaisia, olisi
+tulossa 100 euron liikennevirhemaksu. Nykyisin tästä joutuu maksamaan päiväsakkoja,
+muistaakseni 8 päiväsakkoa, ja törkeimmissä tapauksissa kuljettajalta on mahdollisuus ot-
+taa jopa ajo-oikeus pois. Onko teko siis lievenemässä 100 euroon? Toivottavasti ei. Kun
+autoilija tai matkustaja ei käytä turvavyötä, hänelle määrätään 70 euron liikennevirhemak-
+su. Tämähän on sellainen asia, että mikäli jokainen käyttäisi turvavöitä, säästyisi noin vii-
+dennes kolareissa menehtyneistä, loukkaantuneista puhumattakaan. Tämähän vaikuttaa
+osaltaan meidän kaikkien liikennevakuutuksen euromäärään. Autoilija, joka ajaa ylinope-
+utta 1—5 kilometriä tunnissa tiellä, kun nopeusrajoitus on yli 60 kilometriä tunnissa, jou-
+tuisi maksamaan 50 euroa. Tämä on sellainen seikka, josta tulee yksiselitteisesti luopua.
+On selvää, että ylinopeutta ei saa ajaa, mutta kaikesta ei tarvitse rangaista, vaikka valtio ra-
+haa tarvitseekin. Se, mikä ei ole oikeus eikä kohtuus, ei voi olla lakikaan.
+
+Arvoisa puhemies! Uusi tieliikennelaki tarvitsee vielä paljon muutoksia valiokuntakier-
+roksella, että sen voisi tavallinen liikennevalvoja hyväksyä. Uudistuksella tulee parantaa
+liikenneturvallisuutta, ja sen tulee olla myös sen lopullinen tarkoitus, ei rikkeillä rahasta-
+misen.
+
+18.51 Katja Taimela sd: Arvoisa herra puhemies! Noin 2 tunnin puheiden aikana on var-
+masti käynyt jo ilmi, että keskustelemme siis uudesta tieliikennelaista, jonka yhtenä sisäl-
+tönä on hallituksen linjausten mukaan säädösten sujuvoittaminen ja digitaalisen kasvuym-
+päristön laaja rakentaminen. Tällä ehdotetulla lailla on myös tarkoitus toimeenpanna val-
+tioneuvoston tekemää periaatepäätöstä liittyen tieliikenteen turvallisuuteen. Tarkoitus on
+purkaa byrokratiaa ja sitä kautta lisätä kaikkien meidän tienkäyttäjien omaa vastuuta lii-
+kenteen sujuvuudesta ja turvallisuudesta. Tätä hyvin laajaa esitystä lukiessa on kuitenkin
+helposti havaittavissa, että varsinaisesti suoraan liikenneturvallisuutta parantavia esityksiä
+tästä löytyy loppujen lopuksi rajallisesti.
+
+Mitä esityksestä nousee vahvasti silmiin? Ne ovat hallinnolliset virhemaksut, poliisien
+työmäärän vähentäminen ja sitä kautta mahdollisuus käyttää tieliikenteessä jatkossa entis-
+tä enemmän pelkästään automaattista valvontaa. Siirtyminen tähän hallinnolliseen mak-
+suun perustuu poliisia työllistävän byrokratian purkamiseen. Onkin erityinen syy valio-
+kuntatyössä vielä painottaa ja pohtia muun muassa sitä, onko hallinnollinen maksu hyväk-
+syttävä perustuslain ja rikosoikeuden periaatteiden kannalta. Säännösten purkaminen kun
+ei koskaan saa polkea kansalaisten oikeusturvaa eikä tietenkään perustuslaillisia oikeuksia.
+
+Arvoisa puhemies! Mitä tulee sitten taas tähän automaattisen liikennevalvonnan lisään-
+tymiseen, niin kuten debatissa jo totesin, näen, että se koituu kaikkien liikenteessä liikku-
+vien eduksi, jos sitä käytetään ennaltaehkäisevästi vaarallisiksi määritellyissä paikoissa,
+koulujen ja päiväkotien läheisyydessä sekä taajama-alueilla. Mutta jos automaattista val-
+vontaa käytetään tarkoitushakuisina sakkorysinä paikoissa, joissa pienillä rikkomuksilla
+on liikenneturvallisuuteen vähäiset vaikutukset, ollaan hakoteillä nimenomaan liikennetur-
+vallisuuden näkökulmasta. Täytyy muistaa, että mikään automaattivalvonta ei hurjasti laa-
+jennettunakaan korvaa poliisin läsnäoloa liikenteessä. Valvontakamerat eivät toistaiseksi
+näe muun muassa päihteiden käyttöä, ajoneuvon kuntoa tai kuljettajan ajoterveyttä — täs-
+tä oli loistavia puheenvuoroja debatissa useampiakin.
+29
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Mitä tulee debatissa myös paljon puhuttaneeseen rikesakon korvaavan virhemaksun
+määräytymiseen, tästähän on ollut viime päivinä useampi lehtijuttu, enkä pitäisi tätä puhet-
+ta pelkästään uutisankkana, joksi sitä tässä debatissa myös kutsuttiin. Uutena laissa ovat
+siis tulossa 1—5 ja 5—10 kilometrin tunnissa ylinopeudesta annetut uudet alemmat mak-
+suluokat, ja eniten keskustelua julkisuudessa on ollut siitä, miten tämä toteutuu käytännös-
+sä. Tehdäänkö lakeja noudatettavaksi vai ei? Milloin lakeja tulkitaan Poliisihallituksen tul-
+kintojen mukaan? Yksi yhteydenottaja jopa kysyi, tulkitaanko niitä sitten välillä vastuumi-
+nisteri Bernerin mukaan.
+
+Niin kuin debatissa kuulimme, Poliisihallitus on tänään kirjelmöinyt, ettei se reagoi
+marginaalisiin ylinopeuksiin, mutta hallituksen esitys pitää tämän tahtotilan kyllä vahvasti
+sisällään. Rohkenen epäillä, että liikenneturvallisuutta tämä maksutason ja puuttumisrajan
+kanssa poukkoilu tuskin edistää — minä väitän, että me olemme kaikki tässä salissa siitä
+samaa mieltä. Jos pääpaino liikennekäyttäytymisen huomioinnissa kiinnittyy entistä enem-
+män nopeusmittarin havainnointiin, se on jostain muusta pois. Liikennevirtojen jousta-
+vuus heikkenee, ympäristötavoitteet romuttuvat ja ohitustilanteiden määrät tulevat kasva-
+maan.
+
+Kaiken kaikkiaan pitää kiittää tästä käsittelystä, ministeriä laajasta esittelypuheenvuo-
+rosta. Mutta niin kuin on kuultu tämän 2 tunnin keskustelun aikana, varmasti tämä vaatii
+hyvin tasokkaan, laadukkaan, pitkän valiokuntakäsittelyn, jonka jälkeen sitten katsotaan,
+ollaanko tämän saman lakiesityksen kanssa lopullisessa käsittelyssä tässä salissa.
+
+18.56 Reijo Hongisto sin: Arvoisa herra puhemies! Lähetekeskustelussa on jo paljon kes-
+kustelua herättänyt lakiuudistus, joka on tarpeen. Kuten ministeri Berner sanoi esittelypu-
+heenvuorossaan, tieliikennelaki on koko kansan laki, näinhän se on.
+
+Lakiesitys kokoaa yhteen liikenteessä käyttäytymistä koskevan lainsäädännön. Tavoit-
+teena on poistaa tulkinnanvaraisuuksia ja puutteellisuuksia. Kokonaistavoitteena on liiken-
+neturvallisuuden laaja-alainen edistäminen. "Esitys tukee hallitusohjelman mukaista sää-
+dösten sujuvoittamisen kärkihanketta ja norminpurkua: useita asetuksia ja päätöksiä ku-
+mottaisiin. Muutokset selkeyttäisivät sääntelyä ja käytäntöjä sekä vähentäisivät jossain
+määrin myös hallinnollista taakkaa." Hyvältä kuulostaa.
+
+Esityksessä on valtava määrä uutta asiaa, jopa uusia liikennemerkkejä. En käy niitä täs-
+sä erikseen esittelemään, vaan tässä vaiheessa lain käsittelyä haluan korostaa sitä, että tä-
+män uuden lain jalkauttaminen jalankulkijasta superrekan kuljettajaan vaatii onnistuvaa
+valistusohjelmaa. Ministeri Bernerin tarmokkuuden tuntien minä uskon, että valistusohjel-
+man valmistelut ovat ministeriössä ja ministeriön yhteistyökumppaneilla jo pitkällä. Esi-
+tys muuttaa käytäntöjä, jotka voivat olla monelle liikkujalle hyvin sisäänrakentuneita,
+ikään kuin menneet selkäytimeen. Näin ollen uuden oppiminen voi olla heille vaikeaa. Eri-
+tyisesti iäkkäämmät liikkujat tulee ottaa huomioon valistustyössä painopistemäisesti, jotta
+liikenneturvallisuus edelleen paranee.
+
+Arvoisa puhemies! Ihan tässä lopuksi painotan vielä tätä, kun monta kertaa debatissa pu-
+huttiin liikenteen valvonnasta, että otetaanko puuttumisrajaksi kilometri ylinopeutta vai jo-
+takin muuta — sanon nyt vielä kerran sen — että nykyisenkin lain voimassa ollessa jopa 1
+kilometrin ylitys mahdollistaa sen, että poliisi voi kirjoittaa siitä rikesakkomääräyksen, ja
+jos on ylitystä enemmän, niin sitten voi kirjoittaa rangaistusmääräyksen. Tämänkin lain
+voimassa ollessa voidaan tämä rikesakkomääräys kirjoittaa. Poliisi ei sitä kirjoita, kysy-
+mys on puuttumiskynnyksestä, ja silloin kun partio sitä liikenteenvalvontaa tekee, katso-
+30
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+taan, tapahtuuko se ylitys jossakin 40 tai 50 kilometrin nopeusrajoitusalueella, päiväkodin
+vieressä, jolloinka se puuttumiskynnys on huomattavasti alhaisempi, vai tapahtuuko se
+muutaman kilometrin ylitys 100 kilometrin nopeusrajoitusalueella jossakin korpitaipaleel-
+la. Siellä korpitaipaleella se liukuma saattaa olla vähän suurempi kuin siinä päiväkodin vie-
+ressä. Uskon ja luotan, että tällä tavalla poliisi myöskin tulevaisuudessa valvoo liikennettä.
+
+Arvoisa puhemies! Minä kannatan tätä lakiesitystä. — Kiitos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Myönnän vielä puheenvuoron edus-
+taja Maijalalle.
+
+18.59 Eeva-Maria Maijala kesk: Arvoisa puhemies! Tällä vaalikaudella on tieliikenne-
+puolella pantu tuulemaan. Sieltä on tullut todella paljon lakeja, ja moni asia on meillä lii-
+kenne- ja viestintävaliokunnassa nytten myöskin työn alla. Näyttää siltä, että on tekemisen
+meininki ja on halu todellakin saada jotakin tuloksia aikaiseksi, ja olen erittäin tyytyväi-
+nen, että on tapahtunut. On todella tarpeellisia muutoksia saatu aikaiseksi ja tällä hetkellä
+liikkeellä.
+
+Nyt olennaista ja tärkeää on se, että me saamme tästä laista, mikä tämä tieliikennelaki
+on, kentälle oikeanlaisen tiedottamisen aikaiseksi, että ihmiset tietävät, mitä kaikkea muu-
+toksia on tulossa. Nämä muutokset, mitä nyt esitetään, ovat minun mielestäni kaikki todel-
+la järkeviä. Niistä on keskusteltu paljon, niitä on työstetty paljon, ja nyt näyttää siltä, että
+olemme pääsemässä hyvään lopulliseen ratkaisuun. Tosin valiokunnassa varmasti tulem-
+me vielä käsittelemään tätä lakia hyvin paljon ja joudumme hiomaan ja katsomaan jokaista
+kohtaa vielä, että mitä siellä tarkasti on, jotta me löydämme porsaanreiätkin, mitä siellä on
+olemassa. Tämän takia varmasti kuuntelemme aika monta asiantuntijaa tämän osalta ja toi-
+vottavasti saamme sitten nämä loputkin ongelmat sieltä poistettua.
+
+Erityisen kiitollinen olen siitä, että tämä ajokieltoasia nytten parani, niin että pienistä ri-
+kesakoista, pienistä virheistä ei mene sitten työpaikka ihmisiltä alta pois, näitten pienten
+rikkeiden vuoksi.
+
+Talvirengasasiaa jo aikaisemmin toin esille, mutta vielä sanon siitä sen, että tämän vuo-
+den alusta on tullut voimaan raskaalla liikenteellä talvirenkaitten pakko elikkä lakisäätei-
+nen velvoite. Ja nyt tämän jälkeen, Suomi kun on laaja maa, niitä laitetaan sen mukaisesti,
+mikä on olennainen ja tärkeä ajankohta niiden laittamiselle. Todellakin Kilpisjärventiellä
+on nyt viimeisen viikon aikana mennyt useampi rekka taas kerran ojaan, ja sehän ei ole vie-
+lä ollut edes talvirengaspakkoaikaa, mutta meillä Lapissa on todellakin talvi ollut nyt jo pit-
+kästi toista kuukautta, niin että siellä olisivat kyllä kaikilla saaneet talvirenkaat olla alla.
+No, minulla onneksi on ollut, kun pakkohan on ollut olla jo talvirenkaat alla.
+
+Heijastin- ja kypäräasiat — on todella hyvä, että ne saatiin tähän matkaan suosituksena,
+mutta meidän kaikkien tehtävä on myöskin auttaa ihmisiä ymmärtämään, että pidetään nii-
+tä nyt sitten yllämme.
+
+Turvavyöasia oli tässä myöskin esillä. Turvavyön käyttämisestä on monesti ihmisellä —
+ja jatkossakin on kuitenkin näissä tietyissä ääritilanteissa — oma mielipide, laittaako sen
+näissä ääritilanteissa päälle vai ei. Itse ruukaan taksiinkin istuessa aina sanoa, että rakastan
+itseäni niin paljon, että laitan turvavyön kiinni. Toivon mukaan kaikki muutkin liikentees-
+sä olijat rakastavat itseänsä niin paljon, että laittavat turvavyön kiinni, sillä suurin kärsijä
+on aina se henkilö, joka ei itse laita turvavyötä kiinni.
+31
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Sitten vielä ajoneuvokohtaisista nopeusrajoituksista: Siitä minä olen tyytyväinen, että
+jatkossa on sama nopeus kaikilla ajoneuvoilla, sillä se on selvästi vaikeuttanut ja hidasta-
+nut liikennettä, että siellä on joukossa ajoneuvoja, jotka eivät saa ajaa kuin kahdeksaa-
+kymppiä, vaikka niillä ajoneuvoilla kuitenkin aivan jouhevasti pystyy satasta ajamaan. Eli
+tämmöisiä hidasteita saadaan pois liikenteestä.
+
+Näillä eväillä nyt sitten jatkamme tämän talven. Me saamme varmasti aika monta kuu-
+kautta tätä työstää, että saamme tämän lopulliseen muotoon. — Kiitos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat! Puhemiesneuvos-
+ton päätöksen mukaan keskustelu keskeytetään tässä vaiheessa ja keskustelua jatketaan
+tässä istunnossa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 19.04.
+
+————
+
+Keskustelua jatkettiin kello 22.01.
+
+Toinen varapuhemies Arto Satonen: Nyt jatketaan aiemmin tässä täysistunnossa kes-
+keytetyn asiakohdan 3. käsittelyä.
+
+22.01 Satu Hassi vihr: Arvoisa puhemies! Muutama täydennys siihen, mitä aikaisem-
+massa keskustelussa jo vastauspuheenvuoroissa totesin: 
+
+Hallituksen esityksessä on monia hyviä asioita. Esimerkiksi se, että erikseen liikenne-
+merkeillä merkitsemällä voidaan yksisuuntaisella kadulla sallia myös vastakkaiseen
+ajosuuntaan pyöräily. Tämähän on käytäntö hyvin monessa Euroopan maassa. Esimerkik-
+si sinä aikana kun olin EU-parlamentin jäsen, totesin, että Brysselissä ja Strasbourgissa täl-
+lainen käytäntö on. On myös hyvä asia, että laki mainitsee uutena mahdollisuutena erilli-
+sen pyöräkadun, jolla autot voivat ajaa, mutta autoilijan tulee antaa pyöräkadulla esteetön
+kulku pyöräilijöille ja näin sovittaa nopeutensa pyörien nopeuden mukaiseksi.
+
+Mutta vielä haluaisin esittää lisäksi muutaman perustelun asialle, jonka edustaja Parvi-
+ainen ja minä nostimme replikoinnissa aikaisemmin tänään esille, eli perusteluja sille, että
+taajamien pääsääntöinen nopeus laskettaisiin 30 kilometriin tunnissa ja että vain silloin, jos
+suunnittelussa osoitetaan erityiset perustelut sille, että kadun nopeusrajoitus on tätä suu-
+rempi, suuremmat nopeudet olisivat sallittuja. Jos ajatellaan pyöräilyä, tämä tarkoittaisi si-
+tä, että pyöräilyn turvallisuus yleisesti paranisi huomattavasti. Tarvittaisiin vähemmän eril-
+lisiä pyöräväyliä. Mutta vielä tärkeämpää on se, että kävelevien ja pyöräilevien lasten on-
+nettomuusriski niillä kaduilla, joiden nopeusrajoitus on neljäkymppiä tai viisikymppiä, on
+3—5-kertainen verrattuna alueisiin, joiden nopeusrajoitus on 30 kilometriä tunnissa. Tämä
+myös vähentäisi päästöjä, koska ajotapa muuttuisi tasaisemmaksi. Tarve liikennevalo-oh-
+jauksiin [Puhemies koputtaa] näillä alueilla vähenisi, ja kaiken kaikkiaan se vaikuttaisi pa-
+rantavasti liikennekäyttäytymiseen ja sen myötä turvallisuuteen yleisesti.
+
+Keskustelu päättyi.
+32
+
+
+
+Pöytäkirjan asiakohta PTK 127/2017 vp
+Asia lähetettiin liikenne- ja viestintävaliokuntaan, jolle perustuslakivaliokunnan ja lakiva-
+liokunnan on annettava lausunto.
+33
+
+

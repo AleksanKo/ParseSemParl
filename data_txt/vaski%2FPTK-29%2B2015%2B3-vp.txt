@@ -1,0 +1,1757 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMB2E1.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+Pöytäkirjan asiakohta 
+
+PTK 29/2015 vp
+
+Täysistunto
+
+Tiistai 8.9.2015 klo 14.03—16.20
+
+3. Hallituksen esitys eduskunnalle työeläkejärjestelmää koskevan lainsäädännön muutta-
+miseksi ja eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 16/2015 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 3. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään sosiaali- ja terveysvaliokuntaan, jolle pe-
+rustuslakivaliokunnan on annettava lausunto.
+
+Keskustelu
+
+14.06 Sosiaali- ja terveysministeri Hanna Mäntylä (esittelypuheenvuoro): Arvoisa pu-
+hemies! Tässä hallituksen esityksessä ehdotetaan toteutettavaksi työeläkeuudistusta koske-
+vat lainmuutokset. Hallituksen esityksen keskeisenä tavoitteena on pidentää suomalaisten
+työuria. Samalla tavoitteena on vähentää julkisen talouden kestävyysvajetta. Työurien pi-
+dentymisen kautta edistetään työllisyyttä ja kasvatetaan talouden yhteenlaskettuja työtulo-
+ja. Kestävyysvajetta supistaa myös eläkkeiden maksuun tarvittavien menojen pienentämi-
+nen. 
+
+Esityksen tavoitteena on myös turvata työeläkejärjestelmän rahoituksellinen kestävyys.
+Työurien pidentyessä työtulosumma kasvaa, mikä tukee myös eläkkeiden rahoituspohjaa.
+Rahoituspohjan kasvaminen hillitsee työeläkemaksun nousupaineita. Ehdotettujen muu-
+tosten johdosta työeläkemaksun taso voidaan vakiinnuttaa seuraaviksi vuosikymmeniksi.
+
+Esityksessä ehdotetaan eläkeiän nostamista asteittain. Vanhuuseläkeiän alarajaa ehdote-
+taan nostettavaksi vuonna 1955 syntyneistä alkaen 3 kuukautta jokaista ikäluokkaa kohti
+65 vuoteen asti. Myöhemmin vanhuuseläkeikä työeläkejärjestelmässä sekä kansaneläke-
+järjestelmässä ehdotetaan sidottavaksi eliniänodotteeseen. Tarkoituksena on, että osa odo-
+tettavissa olevasta eliniän pitenemisestä käytettäisiin jatkossa työssäoloon. Eläkeikä nou-
+sisi kaikilla työssä olevilla työskentelyalasta riippumatta.
+
+Eläkkeen karttuminen muutettaisiin kaikenikäisille samanlaiseksi. Eläkkeen karttumi-
+nen alkaisi nykyistä aikaisemmin, jo 17 vuoden iässä, ja karttuma olisi 1,5 prosenttia
+työansioista. Vanhemmille ikäluokille muutosta kuitenkin pehmennettäisiin erityisellä
+siirtymäajan karttumalla.
+
+Uusina eläkemuotoina otettaisiin käyttöön osittainen varhennettu vanhuuseläke ja työ-
+uraeläke. Osittainen varhennettu vanhuuseläke korvaisi nykyisen osa-aikaeläkkeen. Työ-
+uraeläke mahdollistaisi eläkkeelle siirtymisen hieman alinta vanhuuseläkeikää aikaisem-
+massa vaiheessa niille, jotka ovat tehneet pitkän työuran rasittuneisuutta ja kuluneisuutta
+aiheuttavassa työssä ja joiden mahdollisuudet jatkaa työssä ovat heikentyneet. Se, minkä-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+laista työtä pidettäisiin eläkkeeseen edellyttävällä tavalla rasittavana ja kuluttavana, on tar-
+koin määritelty lakiehdotuksessa.
+
+Uudistuksella pyritään turvaamaan kaikille ikäluokille riittävät eläketasot ja varmista-
+maan sukupolvien välinen oikeudenmukaisuus. Nykyistä pidemmät työurat johtaisivat pa-
+rempiin eläkkeisiin, koska eläkettä ehtii karttua pidemmältä ajalta. Ehdotettu muutos eläk-
+keen karttumisen alarajan laskemisesta sekä se, että luovutaan työeläkevakuutusmaksun
+vähentämisestä eläkkeen perusteena olevista työansioista, parantaa eläketasoa erityisesti
+nuorten osalta. Nuorten kannalta olennaista on myös, että eläkemaksun nostopaineita voi-
+taisiin hillitä nyt ehdotettavilla muutoksilla. Sukupolvien ja eri sosioekonomisten ryhmien
+välistä oikeudenmukaisuutta tukisi karttumissäännösten yhdenmukaistaminen. Jo eläk-
+keellä olevia nyt ehdotettavat muutokset eivät koske.
+
+Ehdotettavien muutosten pohjana on työmarkkinakeskusjärjestöjen viime syksynä teke-
+mä sopimus ehdotuksesta työeläkeuudistukseksi. Valmistelua on jatkettu tämän jälkeen
+sosiaali- ja terveysministeriössä yhteistyössä työmarkkinakeskusjärjestöjen ja eläkelain-
+säädännön toimeenpanijoiden kanssa. 
+
+Eläkejärjestelmän muutokset ovat yksi niistä rakenteellisista uudistuksista, joita Suomi
+tarvitsee tässä vaativassa taloudellisessa tilanteessa. Eläkeuudistus myös merkittävällä ta-
+valla hillitsee työnantajamaksujen nousua. Ilman nyt ehdotettavia muutoksia työntekijän
+eläkelain mukaista maksua olisi nostettava yli prosenttiyksiköllä vuoteen 2025 mennessä. 
+
+Vuonna 2009 silloinen hallitus ja työmarkkinakeskusjärjestöt asettivat tavoitteeksi, että
+25 vuotta täyttäneen eläkkeellesiirtymisiän odote nousisi vähintään 62 vuoteen ja 4 kuu-
+kauteen vuoteen 2025 mennessä. Nyt ehdotettavien muutosten on valmisteluvaiheessa ar-
+vioitu johtavan tavoiteltuun lopputulokseen jo hieman tätä aiemmin.
+
+14.11 Tuula Haatainen sd:  Arvoisa rouva puhemies! Käsittelyssä on nyt yksi tämän
+eduskuntakauden tärkeimmistä uudistuksista. Tämän valmisteluhan tapahtui jo viime kau-
+della, kun työmarkkinaosapuolet pääsivät noin vuosi sitten sopimukseen työeläkejärjestel-
+män uudistamisesta.
+
+Työeläkkeet kertyvät työstä, ja siksi työllisyyspolitiikka on rahoituksen kestävyyden
+kannalta aivan keskeistä. Yksilön työssäjaksamisen kannalta taas olennaista on vahvistaa
+nimenomaan työelämän laatua ja työssä jaksamista. Tähän toivonkin hallitukselta kiristys-
+ten sijaan aktiivisempaa otetta. Valtiovalta voi monin keinoin tukea ja edistää työurien pi-
+dentämistä. Tästä maassamme on hyviä kokemuksia muun muassa 2000-luvun alusta.
+
+Työelämän murros on todellista. Entistä useampi työntekijä vaihtaa työpaikkaa moneen
+otteeseen uransa aikana, pätkä- ja silpputyöt ovat todellisuutta, ja vain harva työntekijä saa-
+vuttaa parhaat ansionsa työuran loppuvuosina. Tämä esitys on pyrkinyt ottamaan nämä
+muutokset huomioon. Eläkekarttumat paranevat kaikilla työntekijöillä, eikä sillä ole mer-
+kitystä, missä elämänvaiheessa työ on tehty. Lisäksi työuraa pitkään jatkavilla säilyy mer-
+kittävä kannuste lykkäyskorotuksen avulla.
+
+Tämä työmarkkinaosapuolten saavuttama sopu tavoittelee riittävää eläketurvaa jokai-
+selle, sukupolvien välisen oikeudenmukaisuuden varmistamista sekä koko työeläkejärjes-
+telmän rahoituspohjan turvaamista. Esityksen arvioidaan vähentävän eläkemenoja ja lisää-
+vän työllisyyttä niin, että kestävyysvaje pienenisi 1 prosenttiyksiköllä. Myös eläkevarojen
+sijoitussääntöjä muutetaan, jotta sijoitustuotot paranevat. Näillä esitetyillä muutoksilla
+voidaan vahvistaa rahoituksen kestävyyttä niin, että maksutasoksi riittäisi 24,4 prosenttia
+jatkossa.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+Arvoisa puhemies! Suomen talouden tilanne on vakava. Eläkeuudistus onkin ainoa
+konkreettinen uudistus, jolla on todellista vaikutusta kestävyysvajeeseen ja joka on aidosti
+yhdessä sopien saatu aikaan. Tällaista sopimisen kulttuuria tarvitaan jatkossakin, ja halli-
+tuksella on siinä nyt näytön paikka.
+
+Nykyistä pidemmät työurat tuottavat paremman eläketason. Tämä edellyttää kuitenkin,
+että työtä on tarjolla ja työtä voi jatkaa eläkeikään saakka. Siksi sekä työllisyyden vahvis-
+taminen että työelämän kehittäminen ovat aivan olennaisia.
+
+Tässä uudistuksessa eläkkeiden karttumissääntöjen muutokset lisäävät myös järjestel-
+män oikeudenmukaisuutta. Jatkossahan eläke karttuu jo 17-vuotiaasta alkaen ja koko palk-
+ka on eläkekarttuman perustana, ja on hyvä asia, että niin sanottu piiloleikkuri nyt sitten
+poistettiin. Lisäksi kertymä pysyy samansuuruisena koko työuran ajan. Nämä muutokset
+parantavat erityisesti nuorten ihmisten tulevaa eläkettä.
+
+Lisäksi käyttöön otetaan uusi työuraeläke ja osittainen varhennettu vanhuuseläke, jotka
+lisäävät työntekijän ja yrittäjän mahdollisuuksia joustavaan eläköitymiseen. Suunnitelmal-
+lista eläkkeelle siirtymistä tukee myös tavoite-eläkeikä, jonka työntekijä saa tietoonsa 5
+vuotta ennen alinta eläkeikäänsä ja näin voi sitten arvioida tulevaa tasoa eläkkeessään. Sik-
+si onkin hyvin tärkeää, että työntekijät ja yrittäjät saavat ajoissa informaatiota siitä, mitä
+eläkeuudistus tarkoittaa ja miten se omalla kohdalla vaikuttaa.
+
+Arvoisa puhemies! Vielä muutama sana tasa-arvosta: Naisten eläkkeet ovat keskimää-
+rin miesten eläkkeitä matalampia, ja erothan johtuvat matalammasta palkkatasosta sekä ly-
+hyemmistä työurista. Näihin ei suoraan voida eläkejärjestelmän kautta vaikuttaa, mutta
+hallitus voi omilla toimillaan parantaa naisten asemaa työelämässä. Eläkkeiden tasoon vai-
+kuttavat myös perhevapaat, joita naisilla on enemmän kuin miehillä. Voimassa olevan lain-
+säädännön mukaanhan eläkettä karttuu myös vanhempainraha-ajoilta sekä alle 3-vuotiaan
+lapsen hoitamisesta kotona, kuten myös opiskelustakin. Tässä laskennallinen pohjapalkka
+on nyt 707 euroa. Tämä periaate tulee säilymään jatkossakin, ja se on hyvä asia.
+
+Haluan kuitenkin, arvoisa puhemies, kirittää hallitusta helpottamaan työn ja perheen yh-
+teensovittamista ja parantamaan naisten työllisyysastetta. Nimittäin naisten vahva työ-
+markkina-asema näkyy sitten palkoissa, työurassa ja sitä kautta myöhemmin eläkkeissä.
+
+14.16 Anna Kontula vas: Arvoisa rouva puhemies! Esitys työeläkejärjestelmää koske-
+van lainsäädännön muuttamiseksi on puhdas esimerkki tilanteesta, jossa muodollisesti yh-
+täläinen säännös johtaa tosiasialliseen eriarvoisuuteen. Tällä viittaan etenkin eläkeiän sito-
+miseen elinajanodotteeseen. 
+
+Esityksen mukaan eläkeikää nostettaisiin asteittain 65 vuoteen, minkä jälkeen se sidot-
+taisiin keskimääräiseen elinajanodotteeseen. Tarkoituksena on säilyttää saavutettu eläke-
+ajan ja työssäoloajan välinen suhde myös siinä tapauksessa, että ihmiset tulevaisuudessa
+eläisivät entistä vanhemmiksi. Uudistus ei huomioi, että erot väestöryhmien elinajanodot-
+teissa ovat hyvin suuria. Tällä hetkellä hyvätuloinen 35-vuotias mies voi odottaa elävänsä
+82-vuotiaaksi, kun taas pienituloisen miehen elinajanodote on 69,5 vuotta.
+
+Tuloluokkien väliset erot ovat kasvaneet yhtä jalkaa tuloerojen kasvun kanssa 1990-lu-
+vun taitteesta lähtien. Koska tuloerot jatkavat kasvuaan, ei ole mitään syytä olettaa elinai-
+kaerojen tasaantuvan lähitulevaisuudessa. Käytännössä tämä tarkoittaa, että varsinkin duu-
+narimiehet saavat heittää hyvästit eläkepäiville. Otan tässä esimerkiksi rakennusalan, jolta
+nykyisinkin eläköidytään varhain, keskimäärin noin 58-vuotiaana. Harva yli kuusikymp-
+pinen jaksaa kiipeillä telineillä sateessa tai päällystää moottoritietä helteessä. Rakentajat
+3
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+myös kuolevat varhain, sillä alalla on paljon juuri niitä pienituloisia miehiä, joiden keski-
+määräinen elinajanodote jää uudistuksen laskukaavalla alle vanhuuseläkkeen alarajan.
+
+Arvoisa rouva puhemies! Vaikka tulevaisuudessa hyvin harva rakentaja ehtii vanhuus-
+eläkkeelle, maksajiksi he kyllä kelpaavat. Koska rakentajien työurat usein alkavat viimeis-
+tään parikymppisenä, saattaa eläkemaksuvuosia kertyä hyvinkin saman verran kuin kor-
+keakoulutetulla, joka jaksaa töissä vanhuuseläkeikään saakka tai ylikin. Niin sanotun työn-
+sankarieläkkeen tuominen lakiin ei muuta tätä kokonaiskuvaa, sillä sen tiukkoihin ehtoi-
+hin mahtuvat äärimmäisen harvat, joidenkin arvioiden mukaan noin parituhatta henkilöä
+kustakin ikäluokasta, raksoilta tuskin kukaan. Työuraeläkkeen saamiseen vaaditaan kuta-
+kuinkin yhtäjaksoista virallisista rekistereistä todennettavaa työuraa, jollaista kausi- ja suh-
+danneherkällä rakennusalalla on tuskin kenelläkään.
+
+Rouva puhemies! Kyllä minä tiedän, että kolmikannassa sovittu on tässä maassa niin py-
+hää ja koskematonta, että sitä ei järkipuheilla kaadeta. Aina kannattaa silti yrittää. Mekaa-
+nisen elinajanodotekytköksen ongelmia olisi nimittäin varsin helppo lieventää esimerkiksi
+huomioimalla alakohtaisia eroja. Jos näin ei tehdä, se on sitten puhtaasti ideologinen valin-
+ta. Itse en aio kannattaa uudistusta, jossa eläkemaksut kuuluvat kaikille mutta eläkkeet vain
+valituille. 
+
+Arvoisa puhemies! Aikasuosituksen vuoksi käsittelen eläkeuudistuksen taustaoletuk-
+siin liittyviä yleisempiä haasteita myöhemmin toisessa puheenvuorossa.
+
+14.20 Jari Myllykoski vas: Arvoisa rouva puhemies! Käsiteltävänä oleva esitys on esi-
+merkki siitä, kuinka nykyhallituksen pitäisi myös rakentaa yhteiskunnassa tekemistä ja so-
+pimista. Edellisen hallituksen aikana liikkeelle laitettu eläkeuudistus on juuri se esimerkki,
+kuinka kolmikannassa voidaan sopia isoista, meitä eteenpäin vievistä asioista. Yhdessä
+harmonisesti työmarkkinajärjestöjen kanssa tehty ratkaisu on nyt täällä käsittelyssä, ja
+kaikki taputtavat. Nykyhallituksen pääministerikin antaa tälle aplodit, koska toteaa, että
+tämä on erinomaista ja hyvin valmisteltua työtä. (Toimi Kankaanniemi: Kontula ei!) Työ-
+markkinajärjestöt antavat sille aplodeita. — On säröjä, joita edustaja Kontula tässä aiem-
+min toi esille. Sopimus on aina sopimus, tavoitteita paremmasta on toki meillä työnantaja-
+ja työntekijäpuolten edustajilla jokaisella. Mutta kun tehdään yhteinen ratkaisu, se tarkoit-
+taa sitä, että kaikki olemme kutakuinkin tyytyväisiä.
+
+On pakko sanoa — vaikka ei tähän aivan liity, mutta signaalina siihen, kuinka tästä sit-
+ten tiedotetaan jatkossa — että olen hirvittävän pettynyt siihen, että esimerkiksi Telan osal-
+ta on eläketiedottamisessa tehty radikaaleja muutoksia. Tämä uudistus ei tule läpäisemään
+omalta sisällöltään niin, että eläkkeensaajat tämän ehdotuksen perusteella saisivat sen kai-
+ken tiedon, mitä kuuluisi saada. Meillä jää puutteelliseksi yrittäjätahojen, meillä jää puut-
+teelliseksi myös työntekijätahojen saama tieto, mitenkä tämä vaikuttaa siihen, mitä me
+voimme itsessämme tehdä.
+
+Olisin toki toivonut, että tässä uudistuksessa oltaisiin voitu käsitellä meillä viime edus-
+kuntakaudella ollutta eläkkeiden katto -keskustelua ehkä vähän toisella tavoin kuin että
+leikkaamme vain sitä, mitä työllä on ansaittu. Kun meidän järjestelmä kuitenkin tarjoaa
+mahdollisuuden noin 60 prosentin ansioon siitä, mitä on oman työhistoriansa aikana an-
+sainnut, niin olisiko ollut hyvä avata tämä keskustelu niin, että se keskimääräinen palkka-
+tulo, josta eläke muodostuu, olisi se 60 prosenttia, etteivät ne ihmiset, jotka jatkavat eläk-
+keelle siirryttyään työuraansa, olisi välttämättä olleet oikeutettuja kartuttamaan sen 60 pro-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+sentin päälle enää eläkettä? Oltaisiin otettu sellainen asetelma, että voit ottaa eläkettä ja
+työhistoriasi voi jatkua. Olisi kunnioitettavaa, että työllä voidaan tulla edelleen toimeen.
+
+Uudistus kuitenkin sisältää mielestäni sellaisia elementtejä, jotka paitsi sukupolvien
+myös sukupuolten välistä tasa-arvoa edistävät. Alle 3-vuotiaitten lasten vanhempien osal-
+ta, näiden jäädessä kotiin hoitamaan lapsia, tässä on uudistus, joka edesauttaa tätä tasa-ar-
+von toteutumista.
+
+Mutta en voi olla viittaamatta edustaja Kontulan käyttämään puheenvuoroon — kuinka
+niin onkin? Maksajiksi me kyllä kelpaamme, mutta nauttijoita emme pysty olemaan. On
+todellakin varteen otettava ja nähtävä asia, kun näitä tietyissä työurissa, tietyissä työkoko-
+naisuuksissa olevia hankkeita lähdetään arvioimaan — että koska ja mikä on se raskas työ
+— että hallitus lähtee työmarkkinaosapuolten kanssa valmistelemaan jo nyt tässä vaihees-
+sa sitä, mitkä ovat ne alat, mitkä ovat ne ammatit, jolloin kun ruvetaan pohtimaan sitä, onko
+tällä henkilöllä täyttynyt se pitkän työuran ja raskaan työn tekemisen raja, niin ei kävisi
+niin kuin tällä hetkellä käy aina ensimmäisenä niin sanotun työkyvyttömyyseläkkeen osal-
+ta, että tulee se kielteinen päätös ja sen jälkeen vasta ruvetaan käsittelemään tosissaan, vaan
+nyt luotaisiin jo se pohja. Ruvetaan jo nyt pohtimaan niitä aloja, että kun se vakuutusyh-
+tiön, työeläkeyhtiön lääkäri saa ne paperit käteensä, niin tietää, että täällä on se pohja jo
+saavutettu, sitä kohden meidän pitää edetä.
+
+Lopuksi haluan sanoa, arvoisa puhemies, vielä kerran: tästä on hyvä tämänkin hallituk-
+sen ottaa mallia, kuinka työmarkkinajärjestöjen kanssa asioita hoidetaan.
+
+14.25 Sari Sarkomaa kok: Arvoisa puhemies! On ryhdikästä aloittaa syysistuntokausi
+mittavalla rakenneuudistuksella, joka toivottavasti saa koko eduskunnan tuen.
+
+Käsittelyssä olevan eläkeuudistuksen keskeinen tavoite on todellakin pidentää työuria
+vanhuuseläkeikää asteittain nostamalla. Uudistuksella parannetaan julkisen talouden kes-
+tävyyttä noin prosenttiyksiköllä ja turvataan eläkejärjestelmämme rahoituksellista kestä-
+vyyttä. Tämä esitys on välttämätön osoitus siitä, että me Suomessa kannamme vastuuta ja
+kykenemme tekemään rakenteellisia uudistuksia emmekä anna Suomen ajautua Kreikan
+tielle. Mikä olennaista, uudistuksella halutaan myös turvata kaikille ikäluokille riittävät
+eläketasot ja varmistaa sukupolvien välinen oikeudenmukaisuus. 
+
+On hyvin tärkeää, että eläkeuudistuksesta keskustellaan laajasti. Eduskunta käy tämän
+esityksen läpi, ja on tärkeää sanoa ääneen, mihin tällä eläkeuudistuksella pyritään. Todel-
+lakin pyritään turvaamaan riittävät eläkkeet: eläkkeet pienenisivät voimakkaasti elinaika-
+kertoimen takia, elleivät työurat pitenisi. Siksi tarvitsemme eläkeuudistuksen. Toinen tär-
+keä asia on kestävä rahoitus: kun me elämme pidempään, pitäisi eläkemaksuja nostaa, kun
+eläkemenot nousevat, ja kestävämpi ratkaisu on todellakin se, että lisäämme työntekoa.
+Kolmantena: Työurien pidentäminen. Eläkejärjestelmältä odotetaan ja saadaan tukea myös
+työllisyyden parantamiseen ja julkisen talouden ongelmien ratkaisemiseen. Siksi eläkeuu-
+distus.
+
+Täällä on todettu, että tämä esitys perustuu työmarkkinakeskusjärjestöjen kompromis-
+sisopimukseen, joka todellakin täyttää edellisen hallituksen rakennepaketin tavoitteet. Ko-
+koomuksen eduskuntaryhmä on tälle eläkeratkaisulle antanut tukensa, mutta nostan esille
+muutamia asioita, joita valiokuntakäsittelyssä on hyvä käydä läpi, joita on arvioitava ja tar-
+kasteltava.
+
+On todettava, että eläkeuudistus ei ole työurauudistus, koska se ei sisällä työelämän ke-
+hittämiselementtejä tai ennen kaikkea työnantajalle taloudellisia insentiivejä pidentää
+5
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+työuria, ja siksi työelämää pitää kehittää, niin kuin täällä erityisesti sosiaali- ja terveysva-
+liokunnan puheenjohtaja totesi.
+
+On myös todettava, että kannusteet jatkaa työuraa vanhuuseläkeikää lähestyttäessä jää-
+vät tässä ratkaisussa laihoiksi, kun korotettu karttuma poistuu. Ja on tärkeää myöskin kat-
+soa, millä tavalla tämä uudistus kannustaa korkeaan koulutukseen ja työurien jatkamiseen.
+
+Esitykseen sisältyvä niin kutsuttu työuraeläke luo uusia valinnanmahdollisuuksia eläk-
+keelle jäämisen ja työssä jatkamisen välille, mutta se ei täysimääräisesti toteuta eläkeuu-
+distuksen perustavoitetta eläkkeellejäämisiän myöhentämisestä.
+
+Mutta nämä ovat asioita, joita valiokuntakäsittelyssä on katsottava.
+Arvoisa puhemies! Esitys turvannee 10—20 vuodeksi työeläkkeiden rahoituksen, ja se
+
+on erittäin tärkeää. Mutta todellakin totean, että eduskuntaryhmämme antaa tuen tälle laki-
+esitykselle. Ja on aivan erinomaista, että tässä esityksessä on joustavia elementtejä, eli työ-
+eläketurvassa on jatkossakin joustavia elementtejä: joustava vanhuuseläkeikä säilyy, osit-
+tainen varhennettu vanhuuseläke osa-aikaeläkkeen sijaan. Ja juuri nämä joustavat elemen-
+tit ovat työntekijöille tärkeitä asioita, ne lisäävät työelämän laatua.
+
+On sukupolvinäkökulmasta oikeudenmukaista, että vanhuuseläkeikä alkaa nousta jo
+1955 syntyneillä. On myös tärkeää alleviivata ja sanoa ääneen, kun tämä lakiesitys on lä-
+hetekeskustelussa, että työkyvyttömyyseläkkeen tason korottaminen lieventää eläkeläis-
+köyhyyttä ja työeläkemaksun eläkevähenteisyyden poistaminen parantaa eläkkeiden tasoa.
+
+On selvää, että kun lakia käsitellään, niin saamme myöskin pohtia ja vastata kysymyk-
+siin ammatillisesta eläkeikäasiasta.
+
+Aivan lopuksi haluan nostaa vielä tasa-arvonäkökulman, joka tässä on tullutkin jo esil-
+le. Eli me tiedämme, että miesten korkeammat eläkkeet naisiin verrattuna johtuvat keski-
+määrin kaksi vuotta pidemmistä työurista ja korkeammasta palkkatasosta. Lähetän tässä
+kyllä hallitukselle terveiset siitä, että todella tärkeää on, että tasa-arvotoimia tehdään. On
+hyvin tärkeää myöskin, että naisten työmarkkina-asemaa ja epätasa-arvoon johtavia raken-
+teita poistetaan, ja yksi on vanhemmuudesta työnantajalle aiheutuvat kustannukset. On tär-
+keää, että tässä asiassa edetään niin, että tuo työelämän häpeätahra ja yrittäjyyden jarru saa-
+taisiin poistettua. Että budjettiriiheen tästä lähetän vielä terveiset.
+
+Mutta aivan lopuksi, arvoisa puhemies, totean, että lakiesitys on kannatettava. Uudistus
+perustuu viisauteen. Kun saamme lisää vuosia elämään, on elämää ja aktiivisuutta saatava
+noihin vuosiin. Eli kun ihmisen elinikä pidentyy, niin osa noista lisävuosista tulee käyttää
+työntekoon. Sille viisaalle ajatukselle tämä lakiesitys perustuu.
+
+14.31 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä esityksessä on
+paljon hyviä elementtejä: Kestävyysvaje pienenee yli prosenttiyksiköllä. Karttumaratkai-
+susta on saatu oikeudenmukainen myös niille duunareille, jotka tekevät pitkän työuran ta-
+saisella palkalla. Karttuma alkaa jo 17 vuodesta, ja pitkän työuran raskaissa töissä tehneil-
+le mahdollistetaan työuraeläke.
+
+Mutta ehkä merkittävintä nyt kuitenkin, kun tämä eläkeratkaisu on nyt tullut eduskun-
+taan, on kiinnittää huomiota siihen, miten tämä prosessi syntyi, miten tämä ratkaisu saatiin
+aikaan. On semmoinen sanonta, että siellä missä voima ei riitä, tarvitaan viisautta. Ja täs-
+sähän on taustalla aikoinaan 2007—2011 Vanhasen porvarihallituksen yritys sanella —
+siitä ei tullut mitään. Edellinen hallitus teki hyvää yhteistyötä työmarkkinajärjestöjen kans-
+sa — päästiin ratkaisuun, joka on julkisen talouden kannalta ja myös työntekijöiden kan-
+nalta oikeudenmukainen. Ja nyt näyttää siltä, että jälleen kerran ollaan palaamassa sanelun
+6
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+aikaan. Kysyn: onko mitään järkeä heittää sopimusyhteiskunta roskakoriin? Sopimusyh-
+teiskunnan kautta, sen tuloksena me olemme nyt saaneet tämän lakiesityksen tänne edus-
+kuntaan, jossa se voidaan viedä läpi.
+
+Puhemies Maria Lohela: Debattimahdollisuus on nyt avattu. Pyydän ilmoittautumaan.
+
+14.32 Eero Heinäluoma sd (vastauspuheenvuoro):  Arvoisa puhemies! Tämä on, niin
+kuin täällä on tullut ilmi, todella kannatettava uudistus ja miljardiluokan reformi, joka on
+tapahtunut hyvän valmistelun jälkeen, ja on syytä kiinnittää huomio siihen, että tämä rat-
+kaisuhan perusteiltaan syntyi edellisen hallituksen aikana, että kun Kataisen hallitusta on
+niin monesta moitittu ja usein vielä oikeutetustikin, niin täytyy sanoa, että tässä on esi-
+merkki Kataisen hallituksen hyvästä kylvöstä, joka nyt tuottaa tulosta tälle eduskunnalle.
+
+Kun nyt kolmelta on alkamassa tiedotustilaisuus, jossa hallitus kertoo omasta yhteiskun-
+tasopimusmallistaan, niin on aihetta kiinnittää huomiota tähän menettelytapaan, johon
+edustaja Lindtman tuossa edellä jo puuttui. Se, että meillä on täällä erittäin laaja uudistus,
+on tulos siitä, että on halu käydä vuoropuhelua ja kuunnella yhteiskunnan muita osapuolia
+ja ottaa myös työmarkkinaosapuolten mielipide vakavasti. Ainahan se on kompromissi
+eikä täydellinen, mutta tämä on hyvä sellainen.
+
+Huolestunut olen vasemmistoliiton linjasta: jos vasemmistoliitto todella irrottautuu kol-
+mikannasta, niin kuin edustaja Kontula sanoi, niin on aikoihin eletty.
+
+14.34 Matti Vanhanen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Joo, tämä tie on
+ollut pitkä, mutta tärkeintä on lopputulos. Tämähän lähti liikkeelle siitä, että hallitus työ-
+markkinajärjestöjen kanssa oli laatimassa niin sanottua sosiaalitupoa työurien pidentämi-
+seksi. Näytti siltä, että sen ehdotukset eivät tule olemaan riittäviä, ja hallitus moneen ker-
+taan vetosi, että näitä pitää terästää, mutta siinä ei silloin onnistuttu, ja sen jälkeen sitten
+hallitus katsoi, että pitää asettaa seuraava rima. Määritimme tavoitteeksi 63:sta 65 vuoteen
+ja niin, että se toteutetaan siirtymäajalla siten että 2 kuukautta vuodessa. Nyt lopputulos on
+tismalleen sama. Vain sen takia, että tämä lykkääntyi, tämä siirtymäaika tulee olemaan no-
+peampi: 3 kuukautta vuodessa. 
+
+Mutta niin kuin sanoin: hyvä, että tämä tulee, ja erinomaista, että tämä toivottavasti yk-
+simielisesti hyväksytään, tunnustetaan tämän positiivinen vaikutus kestävyysvajeen ka-
+ventamiseen.
+
+14.35 Hannakaisa Heikkinen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Työurat
+eivät pitene kestävästi tällä eläkeuudistuksellakaan, vaan sillä, että ihmiset pysyvät tervei-
+nä, työkykyisinä ja työhaluisina mahdollisimman pitkään. No, tämä eläkeuudistus on val-
+tiontaloudellisesti ennen kaikkea todella tärkeä, mutta on paljon uudistuksia ja kehittämis-
+kohteita, joilla on paljon merkitystä tuleville työurille. Näitä uudistuksia ovat muun muas-
+sa tämä sosiaali- ja terveydenhuollon suuri uudistus sote, panostukset nuorten ja lasten liik-
+kumiseen ja ylipäätänsä elintapoihin ja ennen kaikkea panostukset siihen, että ihmiset viih-
+tyvät ja jaksavat työssä.
+
+Arvoisa puhemies! Edustaja Myllykoski peräsi näitä aloja, joilla pitäisi olla jo ennalta
+määrättynä mahdollisuus työuraeläkkeeseen kaikille. Tämä keskustelu on tärkeää ja hy-
+vää, meillä on eriarvoisuutta työelämässä, raskautta löytyy toisilla aloilla enemmän kuin
+7
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+toisilla, mutta yksilölliset erot ovat suuria ihmisten ja tehtävien välillä, ja sen takia minä nä-
+kisin tässä, että paljon tärkeämpää on se, että katsotaan sitä yksilöä eikä järjestelmää.
+
+14.36 Kalle Jokinen kok (vastauspuheenvuoro): Arvoisa puhemies! On tärkeää, että täs-
+sä työeläkejärjestelmää koskevassa asiassa nyt on saatu esitys aikaiseksi, ja nimenomaan
+se, että se on tehty yhteistyössä ja sopimalla, on erittäin hyvä, ja onnittelen siitä hallitusta.
+
+Mutta nostan tässä esille erään toisen asian tähän liittyen: Ammatillisesta eläkeiästä so-
+vittiin, että siitä luovutaan vuonna 89 heinäkuussa, ja tuolloin tehtävissä toimineet saivat
+valita tietyin ehdoin, käyttävätkö ammatillista eläkeikää aikanaan. Nuo ehdot olivat esi-
+merkiksi, että menetti oikeuden varhaiseläkkeen käyttöön ja sitoutui olemaan työnantajan
+palveluksessa vuodesta 89 eläkeikäänsä asti. Nämä ihmiset ovat nyt 26 vuotta täyttäneet tä-
+män oman osuutensa tästä sopimuksesta, ja nyt kuitenkin kuuluu sosiaali- ja terveysminis-
+teriöstä, että siellä valmistellaan lakiesitystä, jolla valtio irtisanoutuisi tästä sopimuksesta,
+ja haluankin ministeriltä nyt kysyä: voitteko vahvistaa näille poliiseille, pelastusalalla toi-
+miville, hoitajille, opettajille, jotka ovat aikoinaan tehneet sen sopimuksen ja oman osuu-
+tensa täyttäneet, että valtio pitää kiinni tästä ammatillisen eläkeiän sopimuksesta ja tästä
+valinnasta?
+
+14.37 Outi Alanko-Kahiluoto vihr (vastauspuheenvuoro): Arvoisa puhemies! On hyvä,
+että tämä eläkepaketti on nyt tässä. Me kaikki tiedämme, miten hankalaa isoista asioista so-
+piminen oli viime eduskuntakaudella. Keskustelu kolmikannan tulevaisuudesta on kyllä
+hyvin aiheellinen tästäkin näkökulmasta. 
+
+Sipilän hallitusohjelmaa on kritisoitu siitä, että siitä puuttuu monia sellaisia tasa-arvota-
+voitteita, joita perinteisesti on edistetty tämmöisissä kolmikantaisissa pöydissä, esimerkik-
+si samapalkkaisuustavoite, tasa-arvosuunnitelma ja niin edelleen. Edustaja Sarkomaa toi
+esille sen tosiasian, että eläkkeellä olevien naisten köyhyys on yleisempää kuin eläkkeellä
+olevien miesten köyhyys. Taustalla on nimenomaan työelämän epätasa-arvo ja vanhem-
+painvapaiden jakamisen epätasa-arvo. Tänään saimme kuulla STM:n tasa-arvoseminaaris-
+sa, että hallitus ei ole tekemässä sukupuolivaikutusten arviointia budjettiin, josta se antaa
+esityksen tällä viikolla. (Puhemies koputtaa) Olisin kysynyt ministeri Mäntylältä: miten te
+suhtaudutte siihen, että hallitus nyt mitä ilmeisimmin edelleen syventää (Puhemies koput-
+taa) eläkkeellä olevien naisten köyhyyttä niillä toimenpiteillä, jotka budjetissa kohdistuvat
+nimenomaan naisiin ja erityisesti eläkkeensaajiin? 
+
+14.39 Aino-Kaisa Pekonen vas (vastauspuheenvuoro):  Arvoisa puhemies! Todellakin
+tässä on nyt yhdessä sopimalla päästy eteenpäin vaikeassa asiassa, ja pidän erittäin tärkeä-
+nä, että yhdessä sovimme myös jatkossa kolmikannassa näistä asioista. 
+
+Tätä eläkeuudistusta on syytä arvioida isona kokonaisuutena. Erityisen hyvää on se, että
+tämän uudistuksen myötä voidaan turvata työntekijöiden eläkkeet myös tulevaisuudessa,
+ja nuorten kannalta se, että eläkkeet turvataan ylipäätänsä ja eläketasotkin nousevat. Elä-
+keikä ei kuitenkaan ole sama kuin eläköitymisikä. Itse asiassa viime vuonna keskimääräi-
+nen eläköitymisikä oli 61,2 vuotta. Suuri ongelma onkin se, että fyysisesti raskaissa amma-
+teissa työskentelevät eivät saavuta koskaan eläkeikää, kuten edustaja Kontula totesi. Van-
+huuseläkeikärajoja nostettaessa onkin välttämätöntä huolehtia työntekijöiden työkyvystä
+entistä paremmin.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+14.40 Anna-Maja Henriksson r (vastauspuheenvuoro): Arvoisa puhemies! Tämä uudis-
+tus on yksi niitä tärkeimpiä uudistuksia, mitä nyt tehdään työurien pidentämisen kannalta
+ja siten myös kestävyysvajeen umpeen kuromisessa. On sinänsä hyvä, että saatiin tulos ai-
+kaan, mutta näen kuitenkin ongelmallisena sen, että Akava, joka edustaa 600 000:ta kor-
+keakoulutettua henkilöä, ei voinut asettua tämän eläkesopimuksen taakse. Varsinkin uudis-
+tuksen suurimpia häviäjiä ovat hyvin koulutetut naiset. Esitetyssä mallissa naiset eivät uran
+loppupäässä voi nykymallin tavoin nostaa eläkettään ja siten kompensoida vuosia työelä-
+män ulkopuolella, jotka usein syntyvät äitiyslomien ja vanhempainvapaiden myötä, ja us-
+kaltaisin melkein sanoa, että tässä on nyt kyse tietystä tulonsiirrosta myös, jossa maksajina
+ovat erityisesti nuoret, koulutetut naiset ja saajapuolella ovat sitten miehet.
+
+Juuri sen takia, kun me tiedämme, että meillä on tietty epätasa-arvo edelleen meidän työ-
+elämässä, haluaisin myös peräänkuuluttaa: miten asiasta vastaava ministeri näkee tilan-
+teen (Puhemies koputtaa) perhevapaitten osalta, onko hallitus nyt tekemässä sille asialle jo-
+tain, niin että perhevapaat uudistettaisiin tasa-arvoisempaan suuntaan?
+
+14.41 Maria Tolppanen ps (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tämä nyt
+saavutettu asia on tietysti kompromissitulos. On harmittavaa vain, että sinne jäi joitakin
+kauneusvirheitä: 
+
+Esimerkiksi se, että työuraeläkkeen myöntämisen edellytyksenä on 38 vuotta työtä ra-
+sittuneisuutta ja kuluneisuutta aiheuttavassa työssä. Tämä on liian pitkä aika silloin, jos työ
+on sellaista, mistä tulevat kulumat ja rasitukset. Ne tulevat kyllä näkyviin aikaisemmin.
+Esimerkiksi savusukeltajat, sukeltajat, hoitajat etenkin vanhustyössä ovat niitä, joilla näitä
+kulumia tulee, koska he joutuvat nostelemaan ihmisiä eivät vain päivittäin vaan ihan tun-
+neittain, kun ovat työelämässä. Heidän kohdallaan vaade 38 vuodesta raskaassa ja kulutta-
+vassa työssä on liikaa.
+
+Toinen, mikä tähän jäi, on se, että tällä pakkonostetaan työuria, kun pitäisi ennemmin-
+kin kannustaa ihmisiä tekemään työtä. Onneksi tässä on se, että jos itse vapaaehtoisesti te-
+kee (Puhemies koputtaa) lisäkuukausia, niin silloin se kompensoidaan siinä tulevassa eläk-
+keessä.
+
+14.42 Sari Essayah kd (vastauspuheenvuoro):  Arvoisa puhemies! Työeläkejärjestelmän
+kestävyys ja toisaalta maksukorotuspaineen hillitseminen ovat tämän työeläkejärjestel-
+män uudistuksen keskeiset tavoitteet, ja sinällään tämä on rakenneuudistuksena tarpeelli-
+nen. 
+
+Kuitenkin, niin kuin täällä puheenvuoroissa on tullut ilmi, tämänkin rakenneuudistuk-
+sen onnistuminen riippuu siitä, miten työkykyyn ja työssäjaksamiseen pystytään panosta-
+maan ja toisaalta onko kaikilla mahdollisuus osallistua työelämään. 
+
+Osatyökykyisten työllistymismahdollisuuksien parantaminen on keskeinen keino pi-
+dentää työuria, ja porras työelämään on edelleenkin aivan liian korkea heidän kohdallaan.
+Lisäksi joka arkipäivä keskimäärin kymmenen alle 30-vuotiasta jää työkyvyttömyyseläk-
+keelle, kolme neljäsosaa heistä mielenterveysongelmien takia. Verotulojen menetyksenä
+tämä tarkoittaa noin 1,2 miljardia euroa vuodessa. Mitä hallitus aikoo tehdä nuorten ikä-
+luokkien työkyvyn lisäämiseksi?
+
+14.44 Anneli Kiljunen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Työurien pi-
+dentäminen on varmasti kaikkien meidän yhteinen tavoite. Se ei kuitenkaan onnistu me-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+kaanisella eläkeiän nostamisella eikä pakottamisella. Tavoitteena on oltava koko elämän-
+uraan liittyvä parannus, ja siltä osin tilanne näyttää huolestuttavalta, koska työttömyys ja
+varsinkin nuorten ja ikääntyneiden sekä pitkäaikaistyöttömien määrä kasvaa eikä hallitus
+ole puuttunut tähän. Työura ei pitene vaan päinvastoin.
+
+On myös ehdottoman tärkeää, että varmistamme, että ihmisillä on todellinen mahdolli-
+suus saada omaan hyvinvointiinsa ja terveytensä parantamiseen sekä osaamiseen riittävät
+palvelut. Tällä hetkellä työttömille tämä tilanne on vaikea. Hallituksen toimet ovat siltä
+osin hyvin ristiriitaisia. Kysyisinkin ministeri Mäntylältä: miten hallitus aikoo todellisuu-
+dessa nostaa eläkeikää ja parantaa työuraa, koska samalla te leikkaatte koulutus- ja työlli-
+syysmäärärahoja, (Puhemies koputtaa) nostatte terveyspalveluiden asiakasmaksuja sekä
+lääkkeiden (Puhemies koputtaa) omavastuuta, ja kuntoutuksenkin tulevaisuus näyttää ole-
+van vielä hyvin epäselvä? Arvoisa ministeri, miten parannatte ihmisten työuraa, jotta hei-
+dän eläketasonsa olisi nykyistä parempi?
+
+14.45 Heli Järvinen vihr (vastauspuheenvuoro): Arvoisa puhemies! On helppo ymmär-
+tää, että kun elämään tulee lisää vuosia, siihen tulee tulla lisää myöskin työtä. Yhtä helppo
+on ymmärtää, että todellista eläköitymisikää ei alarajan nostolla saada nostettua. Kolmi-
+vuorotyötä tekevän sairaanhoitajan tai raskaita savusukelluksia tekevän palomiehen työ-
+ura ei pitene siitä, mikä on se toivelukema, millä hän eläkkeelle pääsee, jos työ on vain liian
+raskasta.
+
+Toivoisin, että ministeriössä mietittäisiin nyt aktiivisesti, miten työuria voitaisiin piden-
+tää muulla tavalla. Tästä muutamia faktoja: Sosiaali- ja terveysministeriön mukaan työura
+pitenisi 6 kuukaudella, jos mielenterveydestä aiheutuvat työkyvyttömyyseläkkeet puolit-
+tuisivat nykyisestä. Työura pitenisi peräti kahdella kolmella vuodella, jos sairauspoissa-
+olot vähenisivät 11:stä 4 päivään. Ja ihan pienistä summista ei ole puhe, kun mietitään kus-
+tannusvaikutuksia, sillä esimerkiksi (Puhemies koputtaa) sairauspoissaoloista aiheutuu
+vuosittain Suomelle 3,4 miljardin euron lasku. Mitä toimia ministeriössä aiotaan tehdä?
+
+14.46 Sari Sarkomaa kok (vastauspuheenvuoro): Arvoisa puhemies! Todellakin työelä-
+keuudistus on vain yksi osa siinä työssä, mitä teemme työurien pidentämisessä. Työtä on
+jatkettava hallituksen, työmarkkinajärjestöjen, yritysten ja julkisen sektorin, ja mielestäni
+on erinomaista, että hallituksen kärkihankkeissa on aivan keskeisiä toimia: on osatyöky-
+kyisten hanke, on Kansanterveys 2.0 -kärkihanke, jossa erityisesti mielenterveysasioihin
+kiinnitetään huomioita ja tehdään mielenterveysohjelma. Eli täällä on tulossa toimenpitei-
+tä. Nämä eivät tietenkään ole riittäviä, mutta niiden kanssa täytyy työtä tehdä.
+
+Hyvä tässä on sanoa ääneen, että todellakin, kun sitä lakisääteistä alaikärajaa nostetaan,
+sehän ei tietenkään tarkoita sitä, että se automaattisesti nostaisi, mutta se on yksi osa tätä
+kokonaisuutta, ja on hyvä, että kun me elämme pidempään, kehitämme hyvinvointiyhteis-
+kuntaa, niin osa niistä lisätyövuosista käytetään aktiivisesti työelämässä. Se on myöntei-
+nen asia.
+
+14.47 Kari Uotila vas (vastauspuheenvuoro): Arvoisa puhemies! On tietysti vähän risti-
+riitaista, kun täällä kovasti kehutaan kolmikantaista valmistelua siinä vaiheessa, kun halli-
+tuspuolueiden taholta, pikkasen mediankin, luodaan sellaista kuvaa, että työmarkkinaosa-
+puolet liikaa sotkeutuvat politiikan tekoon ja pitäisi olla puhtaampaa parlamentarismia,
+mutta silti kannatan kovasti tätä kolmikantaista valmistelua.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+Oikeudenmukainen eläkejärjestelmähän olisi niin, että työtehtävästä, ammatista, työ-
+urasta riippumatta kaikilla olisi yhtä monta vuotta oikeutta nauttia terveitä eläkepäiviä, ja
+nyt tämä oikeudenmukaisuus ei toteudu. Raskaissa töissä olevat, niin kuin edustaja Kontu-
+la totesi, maksavat kyllä koko ikänsä työeläkemaksuja, mutta moni uupuu jo ennen eläke-
+ikää tai välittömästi eläkkeelle siirtymisen jälkeen. Voin sanoa, että jos olisin jatkanut run-
+kolevyseppänä telakalla nämä vuosikymmenet enkä olisi päässyt tänne "herrojen hom-
+miin", niin en ainakaan tässä kunnossa olisi tässä puhumassa.
+
+Elikkä kyllä esimerkiksi tämä työuraeläke ja sen problematiikka on haastava, ja sitä pi-
+tää valiokunnassa tarkoin pohdiskella, että oikeudenmukaisuus eläkkeelle pääsyssä ja
+eläkkeen maksamisessa toteutuisi paremmin.
+
+14.49 Annika Saarikko kesk (vastauspuheenvuoro): Arvoisa puhemies! Minusta on hy-
+vä, että täällä on yli puoluerajojen koettu ja käsitelty huolta niistä ihmisistä, joiden työura
+on fyysisesti raskaampaa.
+
+Kuitenkin tätä järjestelmää on pohdittu monin tavoin ja päädytty tällaiseen yhteisym-
+märryksessä toteutettuun kokonaisuudistukseen. Se tarkoittaa, että paljon vastuuta jää nyt
+myös työpaikoille, parempaan johtamiseen, töiden uudelleenorganisointiin siinä vaihees-
+sa, kun työura häämöttää loppusuoralla.
+
+On myös hyvä huomioida, että tässä yt-neuvottelujen Suomessa yli 55-vuotiaiden työ-
+markkina-asema, erityisesti naisten, on varsin kehno, ja tässä kaivattaisiin isoa asennemuu-
+tosta.
+
+Ei tee heikkoakaan sanoa kiitokset viime kauden hallitukselle, että tämä esitys on nyt
+eduskunnassa käsittelyssä. Se on sisältänyt hyvää valmistelua. Sen sijaan en aivan ymmär-
+rä sitä, että sosialidemokraatit täällä maalailevat jo harmeja seinille tänään esiteltävästä
+työelämäkokonaisuudesta. Maltetaan nyt odottaa sen sisältö kuitenkin ensin.
+
+Puhemies Maria Lohela: Ministeri Mäntylä, 3 minuuttia sieltä paikalta.
+
+14.50 Sosiaali- ja terveysministeri Hanna Mäntylä:  Arvoisa puhemies! On oikeastaan
+ollut ihan ilahduttavaa tätä keskustelua tässä kuunnella ja sitä, miten tässä tuodaan esiin
+niitä epäkohtia, joita meillä on edelleenkin paljon ratkaistavana. Ja tosiaan tästä täytyy an-
+taa itsekin kiitosta, totta kai, edelliselle hallitukselle ja kaikille osapuolille, jotka ovat tätä
+olleet edistämässä viime kaudella, siitä, että tämä esitys nyt täällä eduskunnassa on käsi-
+teltävänä. Tämä on yksi iso osa isoa kokonaisuutta.
+
+Mutta se on aivan totta, mitä tässä on tuotu nyt esiin, että meillä työmarkkinat ovat isos-
+sa murroksessa ja meillä on monenlaisia haasteita siellä ratkaistavana. Ja tässä nyt useam-
+massakin puheenvuorossa tuli esiin se yhteinen huoli työssäjaksamisesta ja työn hyvin-
+voinnista, miten me voimme sitä edistää. Se on meidän kaikkien yhteinen asia. Se ei ole
+tämmöinen hallitus—oppositio-asia, vaan se on meidän kaikkien. Se vaatii laajaa yhteis-
+kunnallista keskustelua eri toimijoiden välillä ja kanssa. Ja kyllä on juuri näin, että vaikka
+meillä on nyt tässä hyvä esitys, jota tietysti on ilo viedä eteenpäin — ja toivon totta kai, että
+siihen eduskunnan tuki tulee — meillä on paljon tilanteita, joissa ihmiset eivät yksinkertai-
+sesti työelämässä jaksa, he eivät siellä jaksa, ja silloin se eläkeikä, vaikka me sitä nyt tässä
+nostamme, on mekaaninen luku, silloin jos ihmiset eivät siihen saakka kykene työssä ole-
+maan. Tämä on mitä suurimmissa määrin nimenomaan sosiaali- ja terveyspoliittinen kysy-
+mys, mutta se on myöskin vahvasti talouspoliittinen kysymys. Tämä on tietysti semmoi-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+nen asia, mistä toivon, että eduskunnassakin voidaan käydä keskustelua, koska selkeästi tä-
+män asian ja huolen yhdessä jaamme.
+
+Tietysti toinen asia on tämä sukupuolten välinen tasa-arvo ja toisaalta myöskin tämä,
+miten työtä ja perhe-elämää voidaan paremmin yhteensovittaa. Kyllä, meillä on siinäkin
+vielä paljon tekemistä. Ja varmasti kaikki tiedämme, että eivät ne ole mitään yksinkertaisia
+ratkaisuja, vaan myöskin ne tarvitsevat niitä keskusteluja ja sitä, että niihin voimme sitten
+yhteisesti kaikki osapuolet sitoutua.
+
+Tästä tosiaan tuli erään edustajan puheenvuorossa, ja menen vielä esimerkiksi näihin
+sairauspoissaoloihin ja siihen, minkälainen lasku sieltä yhteiskunnalle tulee: Jos me läh-
+demme pohtimaan aidosti niitä syitä, mitkä johtavat siihen, että ihmiset eivät työelämässä
+jaksa, ja mikä aiheuttaa esimerkiksi sitä, että yhä useampi siirtyy mielenterveyssyistä sai-
+rauslomalle ja sieltä työkyvyttömyyseläkkeelle, niin ne ovat asioita, joihin me voimme teh-
+dä paljonkin parannuksia.
+
+Ja vielä oikeastaan pikaisesti — jos puhemies sallii — tähän, kun edustaja Essayah nosti
+tämän nuorten ikäluokan aseman tässä työelämässä: Se on erittäin tärkeää, koska meillä on
+tällä hetkellä käsissämme kasvava ongelma ja suorastaan todella iso aikapommi kytemäs-
+sä siinä, että meillä on nuorisotyöttömyys kasvanut aivan käsittämättömiin lukemiin. Meil-
+lä on paljon halukkaita nuoria, jotka haluaisivat työelämään — he eivät koskaan sinne pää-
+se ja mitä pidempään he joutuvat olemaan työelämän ulkopuolella, sitä suuremmaksi ne
+kaikki ongelmat kasvavat, ja siinä tulee väistämättä eteen myös se, että he eivät koe enää
+kohta mielekkäänä edes siirtyä sinne työelämään. Nämä ovat isoja kysymyksiä, ja tietysti
+näistä olemme varmasti kaikki yhtä huolissamme.
+
+14.54 Tytti Tuppurainen sd (vastauspuheenvuoro):  Arvoisa puhemies! Kysymyksessä
+on todella mittava huomenlahja, jonka nykyinen hallitus peri edelliseltä vaalikaudelta.
+Tämä eläkepaketti on aivan omassa mittaluokassaan niitten ratkaisujen joukossa, joilla me
+pyrimme tulevaa kestävyysvajetta umpeen kuromaan.
+
+Oleellista on myös se prosessi, mihin täällä on jo viitattu, miten tämä syntyi. Tämä syn-
+tyi yhdessä sopien, ei kenenkään tahon ulkopuolelta, ylhäältäpäin määräten, vaan työmark-
+kinajärjestöjen hyvässä yhteistyössä, jota hallitus itse omalla aktiivisella toiminnallaan
+edesauttoi. Minä haluan uskoa tähän sopimusyhteiskuntaan, ja haluan uskoa kolmikantai-
+seen kykyyn tehdä ne isot, mittavat ratkaisut, joilla hyvinvointiyhteiskunnan turvaamista
+tulevillekin sukupolville ylläpidetään.
+
+Hallituksella on tässä nyt iso, mittava vastuu harteillaan: miten te vaalitte tätä yhteistyö-
+tä ja sopimusyhteiskuntaa?
+
+14.55 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa puhemies! Uudistuksella ha-
+lutaan turvata kaikille ikäluokille riittävät eläketasot ja varmistaa sukupolvien välinen oi-
+keudenmukaisuus. Tämä on tärkeätä, mutta oleellista on ennen muuta pienentää työkyvyt-
+tömyyseläkkeelle joutuvien määrää. Toivon, että ministeri ja hallitus ovat tässä määrätie-
+toisia, nimenomaan työssäjaksamisessa ja siinä, että aidosti pystytään olemaan töissä en-
+tistä pidempään.
+
+Mikä kauneusvirhe tähän sitten sisältyy — ehkä se on se, että tämä ei välttämättä kan-
+nusta opiskelemaan, jatkamaan kouluttautumista. Tämä on ehkä se kauneusvirhe, mikä täs-
+sä on.
+12
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+Toinen, josta mielelläni ministeriltä kuulisin, on sotilaiden eläkeiän korottaminen. Se on
+ongelmainen, ei välttämättä työn raskauden näkökulmasta vaan ennen muuta järjestelmän
+näkökulmasta. Kuulisin mielelläni ministeri Mäntylältä, onko nämä vaikutukset arvioitu
+tätä uudistusta nyt eteenpäin vietäessä.
+
+14.56 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Yhdyn Heinosen
+esille ottamaan kysymykseen siitä, että on hyvä eduskunnalle selvittää tätä sotilaiden elä-
+köitymisikäasiaa. Sillä on myös maanpuolustuksellisia vaikutuksia ennen muuta sitä kaut-
+ta, kuinka iso reservi meillä on käytössä ja millä tavalla maata pystytään vaikeissa oloissa
+puolustamaan. Tässä joukossa, joka aktiivipalveluksen jälkeen jatkaa tärkeissä tehtävissä
+reservissä, kantajoukko tietenkin on upseerikoulutuksen saaneet henkilöt, ja olisi hyvä ker-
+toa tästä asiasta. Uskon, että myös puolustusvaliokunta on tästä kiinnostunut.
+
+Sitten toinen kommentti. Kyllä, ajattelen etensäkin niin, että ehkä tämän eläkejärjestel-
+män tehtävä nyt ei ole kannustaa erityisesti opiskelemiseen. Eikö eläkejärjestelmän tehtä-
+vä ole kannustaa siihen, että ihmiset mahdollisimman myöhään pystyisivät olemaan töis-
+sä? Se on sen varsinainen tehtävä, ja opiskelukannustimet tulevat sitten siitä, että saa hy-
+vän työn ja sitä kautta hyvän palkan ja sitä kautta hyvän eläkkeen.
+
+14.57 Jaana Pelkonen kok (vastauspuheenvuoro):  Arvoisa rouva puhemies! Edustajat
+Heinonen ja Heinäluoma kiinnittivät huomiota tärkeään asiaan eli sotilaseläkejärjestelmän
+erityispiirteisiin. Tuntuu, ettei lainvalmistelussa ole huomioitu sotilaseläkejärjestelmän
+puolustuspoliittisia perusteita lainkaan. Muun muassa puolustusministeriö, Pääesikunta ja
+Rajavartiolaitos ovat esittäneet vahvan, selkeän vastustuksensa ja huolensa tähän muutok-
+seen liittyen. Puolustusministeriön sosiaali- ja terveysministeriölle antaman lausunnon
+mukaan esitetty eläkeiän nosto kahdella vuodella pienentäisi ammattilaissotilasreserviä 40
+prosentilla ja tämä puolestaan vaikuttaisi merkittävästi muun muassa valmiuteen, jota mo-
+nissa muissa maissa tällä hetkellä kehitetään. Eli toivoisin itsekin, että tähän tärkeään
+asiaan kiinnitettäisiin huomiota, ja toivottavasti asia saataisiin puolustusvaliokuntaan lau-
+sunnolle.
+
+14.58 Annika Saarikko kesk (vastauspuheenvuoro): Arvoisa puhemies! Täällä virisi mi-
+nusta hyvä keskustelu siitä, mikä eläkejärjestelmän tarkoitus on. Minä näen, että yksi kes-
+keinen osa, että tämä saatiin nyt valmiiksi, on myös iso luottamuskysymys, että tulevilla
+sukupolvilla, niillä, jotka ovat astumassa tai juuri astuneet työelämään, on mahdollisuus
+tehdä työtä sillä samalla olettamalla ja luottamuksella, millä edeltävillä sukupolvilla on ol-
+lut mahdollista tehdä, siis sillä ajatuksella, että kun teen työni ja jaksan työssä, eläkeikä mi-
+nua odottaa.
+
+Tämän järjestelmän kestävyys tulevien sukupolvien oikeudenmukaisuuden nimissä,
+niin kuin ministeri Mäntyläkin esittelypuheenvuorossaan totesi, on tosi arvokas asia. Siksi
+haluan todeta, että kun täällä on kiitelty tätä prosessia — ja ilomielin niihin kiitoksiin yh-
+dyn — niin totean, että kuitenkin se hetki, jolloin tämä saatiin eduskuntaan, alkaa olla vii-
+meisiä hetkiä, jolloin tämän uudistuksen piti tulla, kun on sellainen onnellinen asia käsis-
+sämme, että eliniänodote Suomessa onneksi pitenee jatkuvasti, mikä on edellisten sukupol-
+vien hyvän yhteiskuntapolitiikan ansiota.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+14.59 Tuula Haatainen sd (vastauspuheenvuoro): Arvoisa puhemies! Ministeri puheen-
+vuorossaan jakoi hyvin laajasti tämän huolen, mitä esitettiin täällä siitä, että työssäjaksa-
+minen on aivan keskeistä ja olennaista ja työn tekeminen. Samoin jaoitte tämän huolen,
+jota nostimme esiin työn ja perheen yhteensovittamisen merkityksestä ja muusta. Mutta en
+kuullut mitään konkreettista esitystä siitä, mitä hallitus aikoo näille tehdä.
+
+Tämä esitys on ollut valmis jo edellisen hallituksen aikana, ja on ollut tiedossa hallitus-
+ohjelmaneuvotteluissa, että tämä on tulossa. Jos työeläkeikää nostetaan ja tavoitteena on
+työurien pidentäminen, niin olisin kaivannut siinä hallitusohjelmassa konkreettisia askel-
+merkkejä siitä, miten oikein aidosti työuria pidennetään siten, että myös se tosiasiallinen
+eläkkeellesiirtymisikä nousee. Siitä syystä minusta on viimeiset hetket, että hallitus tekee
+nämä linjaukset vielä. Budjettiriihi on huomenna alkamassa, ja toivoisin, että tähän kyl-
+keen rakennettaisiin nyt sellainen paketti, että se todella tukee sitä, että tämä eläkeuudistus
+toteutuu (Puhemies koputtaa) niin kuin sille on tavoitteet asetettu.
+
+15.00 Outi Alanko-Kahiluoto vihr (vastauspuheenvuoro):  Arvoisa puhemies! Edustaja
+Haataisen kysymys oli hyvin aiheellinen. On arvioitu, että itse asiassa tämän työeläkejär-
+jestelmän, jota tämä lakiesitys koskee, rahoitus ei ole pitkällä tähtäimellä kovin kestävällä
+pohjalla vaan edellyttää esimerkiksi työllisyysasteen roimaa kasvattamista. Jos niin ei ta-
+pahdu, niin maksuja joudutaan aika paljon korottamaan, elikkä ne nyt itse asiassa ovat liian
+alhaisella tasolla.
+
+Edustaja Saarikko puhui kauniisti luottamuksesta. Tosiasia on se, että Suomen kansa-
+laisten luottamus eläketurvaan on viime vuosina romahtanut ja vain 29 prosenttia suoma-
+laisista kokee, että järjestelmä on oikeudenmukainen. Esimerkiksi itsensätyöllistäjät, mik-
+royrittäjät, nuoret sukupolvet, jotka tekevät yhä enemmän silpputöitä, ovat esimerkkejä
+semmoisista ryhmistä, jotka kyllä maksavat näitä työeläkemaksuja erilaisissa työn pätkis-
+sä ja työllistäessään itsensä yrittäjän kaltaisesti, (Puhemies koputtaa) mutta heidän eläk-
+keensä ei kerry sillä tavalla, että he pääsisivät useinkaan edes takuueläkkeen tasolle. (Pu-
+hemies koputtaa) Kuitenkin he osallistuvat eläkkeenmaksuun. Toinen ongelma on se, että
+työkyvyttömyyseläkkeet (Puhemies: Aika on täynnä!) jäävät nyt alle EU:n määrittelemän
+köyhyysrajan. Mitä mieltä ministeri on siitä, että miten näihin epäkohtiin voitaisiin puut-
+tua?
+
+15.02 Kimmo Kivelä ps (vastauspuheenvuoro): Arvoisa puhemies! Usein puhutaan eläk-
+keestä myöhennettynä palkkana, mutta niin kuin tässä on jo eräissä puheenvuoroissa tullut
+ilmi, niin meillä on yhä kasvava joukko erilaisia ihmisryhmiä, joille sitä myöhennettyä
+palkkaa ei yksinkertaisesti kerry. On periytyvää työttömyyttä, on juuri pakkoyrittäjiä, eri-
+laisissa vapaissa ammateissa työskenteleviä ihmisiä ja niin edelleen, joilla yksinkertaisesti
+ei kerry sellaista summaa. Tämä pitkittyessään johtaa siihen, että tästä tulee tikittävä ai-
+kapommi, meillä kasvaa joukko, joka on entistä riippuvaisempi sosiaalihuollon toimeentu-
+lotuen palveluksista. Yhtä lailla puhutaan aivan oikein, että työhyvinvointiin pitää panos-
+taa lisää, mutta yhtä lailla on luotava mekanismeja, jotta työkyvyttömyyseläkkeeltä voitai-
+siin edes osa-aikaisesti (Puhemies koputtaa) palata työelämään.
+
+15.03 Anna Kontula vas (vastauspuheenvuoro): Rouva puhemies! Kansantalouden kan-
+naltahan merkitystä on eläköitymisiällä, ei virallisella eläkeiällä. Jos me katsomme todel-
+lista eläköitymisikää vuodesta 96 vuoteen 14, me olemme nousseet 57,2:sta 61,2:een. Sa-
+14
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+massa ajassa keskimääräinen elinajanodote on noussut 76,85:stä 80,86:een, eli keskimää-
+räinen elinajanodote on noussut vain 0,2 vuotta enemmän kuin tosiasiallinen eläköitymis-
+ikä.
+
+Meillä on aika paljon olemassa tutkimuksellista näyttöä siitä, että niin sanotuilla peh-
+meillä keinoilla meillä olisi vähintään yhtä hyvät ellei paremmatkin mahdollisuudet kuin
+virallista eläkeikää korottamalla nostaa tätä eläköitymisikää. Meillä ei myöskään näiden
+tietojen valossa ole merkittävää huolta siitä, että kestävyysvaje tulisi vastaan liian äkkiä.
+
+Tästä syystä minä en näe tätä uudistusta (Puhemies koputtaa) kaikkine haittavaikutuksi-
+neen mitenkään tärkeänä, niin kuin monet muut täällä, pikemminkin näen sen harmillisena.
+
+15.04 Sari Sarkomaa kok (vastauspuheenvuoro):  Arvoisa puhemies! Tämä esitys on
+osoitus siitä, että Sipilän hallitus tuo ripeästi esityksiä eduskuntaan. Se prosessi, millä tämä
+lakiesitys saatiin aikaiseksi, oli erinomainen, mutta erinomaista on myöskin, että tämä la-
+kiesitys tuli nyt eduskuntaan, ja toivon, että sama ripeä tahti jatkuu. Toivon, että koko edus-
+kunta antaa tälle lakiesitykselle tukensa, ja kysynkin: onko vasemmistoliiton eduskunta-
+ryhmä tämän lakiesityksen takana vai onko niin, että ette ole tässä sovussa mukana?
+
+15.05 Anna Kontula vas (vastauspuheenvuoro): Kommentoin tässä nyt vain omasta puo-
+lestani näissä puheenvuoroissa, joita olen tässä käyttänyt. Ryhmä ei ole tehnyt päätöstä sii-
+tä, mitä mieltä he tästä eläkeuudistuksesta ovat.
+
+15.05 Anna-Maja Henriksson r (vastauspuheenvuoro):  Arvoisa puhemies! Voimme
+varmasti kaikki olla yhtä mieltä siitä, että työelämässä jaksaminen on avainasemassa, kun
+puhutaan työurien pidentämisestä. Minäkin yhdyn niihin puheenvuoroihin, joissa perään-
+kuulutetaan nyt sitä konkretiaa hallitukselta, millä konkreettisilla toimenpiteillä pystytään
+parantamaan sitä jaksamista työelämässä. 
+
+Ainakaan minun ja ruotsalaisen eduskuntaryhmän tähän valikoimaan ei mahdu se, että
+lakkautetaan kuntoutusjärjestelmä, joka on toiminut hyvin. TYK- ja Aslak-kuntoutus oli
+tarkoitus vaihtaa ja muuttaa Aslak-kuntoutukseen, ja se, mitä hallitus nyt tekee, on, että
+hallitus vetää kaikki nämä määrärahat Aslak-kuntoutuksesta pois. Ainakaan sillä toimen-
+piteellä ei edistetä sitä työssäjaksamista, vai ajatteleeko tässä hallitus toisella tavalla? Ha-
+luaisin kuulla, mitä kuntoutusjärjestelmään nyt kuuluu ja minkälaisia ajatuksia ylipäänsä
+hallituksella on, kun on kyse (Puhemies koputtaa) työssä käyvien kuntoutuksesta tulevai-
+suudessa.
+
+15.06 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa rouva puhemies! On äärim-
+mäisen tärkeää, että suomalaiset voivat luottaa valtiovaltaan. Luottamuksen ylläpito vaatii
+muun muassa sitä, että pidetyistä sopimuksista pidetään kiinni. Tässä hallituksen esityk-
+sessä nyt työeläkejärjestelmää muutetaan siten, että ammatillista eläkeikää nostetaan as-
+teittain. Se on ongelmallista nimenomaan sen vuoksi, että nämä ihmiset ovat tehneet eri-
+tyisen yksilöllisen ja sitovan sopimuksen eläkeiästään. Näistä sopimuksista nyt ollaan kui-
+tenkin sanoutumassa irti. 
+
+Ammatillisen eläkeiän nosto koskisi sellaisia ammatteja ja aloja, joilla työssäjaksami-
+nen työuran loppuun asti on jo nyt vaikeaa. Palomiehet, poliisit, opettajat, kaikki nämä yh-
+dessä muodostavat ryhmän, joka on meille kaikille tärkeä. Käytännössä tämä johtaa sii-
+hen, että näihin raskastyöammatteihin (Puhemies koputtaa) ei hakeuduta enää riittävällä ta-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+valla, ja tämä on huonoa kehitystä. Kristillisdemokraatit toivovat, että valiokunnassa tähän
+asiaan kiinnitetään erityistä huomiota.
+
+15.08 Hannakaisa Heikkinen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Kuten
+täällä on monta kertaa todettu, todellinen eläköitymisikä on paljon tärkeämpi asia kaiken
+kaikkiaan meidän valtiontaloudenkin kannalta kuin tämä työeläkeuudistus sinänsä. Täällä
+on puhuttu myös työelämän hyvinvoinnista, johtamisen taidoista, ja olen samaa mieltä. Lä-
+hiesimiestaidoilla on ratkaiseva merkitys isolle joukolle meidän työelämässä olevia, mutta
+haluaisin korostaa myös kaiken kaikkiaan työelämätaitoja. Työelämässä ja työpaikoilla
+viihtyminen on kaikkien asia, myös työntekijöiden.
+
+Kaiken kaikkiaan suomalaisten eliniänodotteen nousu on tiedetty jo vuosikymmeniä.
+Kuitenkin me pystymme tähän työeläkeuudistukseen vasta nyt. Me olisimme voineet teh-
+dä tämän uudistuksen 15 vuotta sitten paljon paremmin ja paljon vähemmällä kivulla, ja
+sama tilanne taitaa olla tuon sote-uudistuksen kanssa. Olisiko tässä meillä jotakin opitta-
+vaa, ja voisimmeko miettiä, mikä (Puhemies koputtaa) tässä meillä yhteiskunnassa jarrut-
+taa oikea-aikaista päätöksentekoa näin isoissa ja tärkeissä asioissa?
+
+15.09 Eero Suutari kok (vastauspuheenvuoro): Arvoisa puhemies! Tämä on hyvä esitys,
+ja siitä kiitos työmarkkinajärjestöille, jotka valmistelivat tämän, ja voittajanahan tässä on
+suomalainen työ. Tämä osaltaan pienentää sitä aiemmin uhannutta työeläkkeitten maksu-
+jen korotusta, ja sen tuloksena yritykset uskovat paremmin tulevaisuuteen. Voisi sanoa,
+että vientiteollisuus varsinkin tarvitsee kaikkia prosentteja, mitkä vähentävät kustannuksia. 
+
+15.10 Jari Myllykoski vas (vastauspuheenvuoro):  Arvoisa rouva puhemies! Sosialide-
+mokraateille ja erityisesti edustaja Heinäluomalle tämmöisenä tiedotusluontoisena asiana,
+että vasemmistoliitto ei todellakaan ole tehnyt ennakolta mitään päätöstä, koska tämä on
+aivan itsestäänselvää, että olemme tässä takana. Näin ihan markkinamielessä täytyy sanoa,
+että jos eduskuntaryhmäni tekee jonkunlaisen toisenmoisen päätöksen, niin voisiko sanoa,
+että laitan sitten erokirjeen heilille.
+
+Edustaja Haatainen toi erittäin hyvin esille sen, että ministeri omassa puheenvuorossaan
+loi laveasti odotuksia siitä, että meillä yhteiskunta tavallaan edesauttaa tämän eläköitymis-
+iän osalta omilla toimillaan. Mutta olisinkin perännyt: mitä itse asiassa hallitus nyt haluaa
+tehdä, kun se pidentää työuria ja sitä kautta tuo erilaisia elementtejä niin, että eläkeikään
+pääseminen rapautuu ja tulee vähemmän mahdolliseksi?
+
+15.11 Touko Aalto vihr (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tänään tässä
+keskustelussa on aivan oikein kiinnitetty huomiota työuraeläkkeeseen. Kysynkin asian-
+omaiselta ministeriltä: Oletteko te tähän uuteen työnsankarieläkkeeseen, niin sanottuun
+Stahanov-eläkkeeseen, liittyvää juridista soppaa pohtineet ministeriössä? Sitä vaihetta —
+kun tähän työuraeläkkeeseen harvat ja valikoidut ihmiset pääsevät — kun yksi sen saa, ta-
+pahtuu ennakkotapaus, ja sen jälkeen mietitään, saako joku toinen ihminen tämän vastaa-
+van eläkkeen. Tähän liittyvät juridiset riidat ovat varmasti tuleva iso ongelma. Miten te
+olette tästä asiasta keskustelleet ministeriössä? Miten olette siihen valmistautuneet?
+
+15.11 Tarja Filatov sd (vastauspuheenvuoro):  Arvoisa puhemies! Tämä on kokonaisuu-
+dessansa hyvä paketti ja kannustaa ihmisiä jatkamaan työelämässä pidempään, ja se kertoo
+16
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+suomalaisen sopimisen mallista, varsinkin tuo pitkän työuran paketti. Viittaisin myös nii-
+hin käytännön ongelmiin, joita siitä varmasti seuraa, eli sen toimeenpanon kanssa pitää olla
+tarkkana.
+
+Mutta jos tätä katsoo työttömän näkökulmasta ja tässä rinnalla katsoo niitä ratkaisuita,
+joita hallitus on tehnyt muun muassa leikatessansa voimakkaasti työllistämismäärärahoja,
+kuntoutusrahoja ja monia sellaisia rahoja, jotka ovat auttamassa työtöntä takaisin työelä-
+mään, niin käy niin, että kauas pilvet karkaavat työttömän ihmisen elämässä. Siksi toivoi-
+sin, että hallitus pohtisi sitä, miten käytännössä esimerkiksi viime kaudella ikääntyneiden
+ihmisten pysyvän työllistämistuen käy tässä tilanteessa, kun työllistämisrahat vähenevät.
+Siitä tulee herkästi kuollut kirjain, ja kuitenkin se on monelle ikääntyneelle se ainoa keino,
+jolla pääsee mukaan työelämään. Eikö nyt olisi aika miettiä myös niin sanottua Taipaleen
+mallia, joka kertaluonteisesti päästäisi eläkkeelle hyvin pitkään työttömänä olleet ikäänty-
+neet ihmiset, koska näillä resursseilla, joita työhallinnossa on, he eivät saa palvelua eivätkä
+tukea.
+
+15.13 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Kyllähän tässä on
+kysymys nimenomaan sopimusyhteiskunnan voimasta, sen yhteiskunnan voimasta, jonka
+edellinen porvarihallitus heitti romukoppaan. Onneksi viime kaudella saatiin pohjaa tälle
+sopimukselle. Tietenkin täytyy sanoa, että aika hämmentävää on se, että nyt tämä tämän-
+hetkinen porvarihallitus näyttää jälleen kerran unohtaneen sopimusyhteiskunnan jalot pe-
+riaatteet, kun samaan aikaan tämä yhteiskuntasopimusyritys kompuroi näine yksipuolisine
+kiristysruuveineen.
+
+Mutta, arvoisa puhemies, kun tässä on puhuttu eläkkeensaajista ja heidän toimeentulos-
+taan tulevaisuudessa, haluan kyllä ajankohtaisen kysymyksen näin budjettiriihen kynnyk-
+sellä eläkkeensaajan toimeentulosta tässä ja nyt kysyä ministeriltä, kun hän on täällä pai-
+kalla. Nimittäin minulla on tässä kädessäni adressi, joka on tänään luovutettu, ja tässä to-
+detaan, että erilaiset eläkkeensaajiin kohdistuvat asumistuen leikkaukset, maksujen koro-
+tukset, indeksin jäädytykset aiheuttavat sen, että noin 100 000 pienituloiselta eläkkeensaa-
+jalta tulot tulevat tippumaan 50—200 euroa kuukaudessa. Tämähän on aivan kestämätön
+tilanne, ja kyllä minä tiedän monia tämän adressin allekirjoittajia, jotka ovat kertoneet ää-
+nestäneensä perussuomalaisia. Haluaisin nyt perussuomalaiselta ministeriltä ihan todella
+käsi sydämellä kysyä: eikö ole aika nyt tämä perua? Tämä ei vastaa niitä lupauksia, joita te
+annoitte ennen vaaleja kansalaisille, jotka ovat huolissaan toimeentulostaan.
+
+15.14 Kalle Jokinen kok (vastauspuheenvuoro):  Arvoisa rouva puhemies! Työelämän
+laatu ja työssäjaksaminen ja hyvä johtaminen vaikuttavat työurien pituuteen merkittäväs-
+tä, ja niihin on syytä kiinnittää huomiota nyt, kun työeläkeikää nostetaan.
+
+Aiemmin kysyin ministeriltä liittyen näihin vuonna 1989 tehtyihin valintoihin ammatil-
+lisesta eläkeiästä, ja sehän koskee muutamia tuhansia turvallisuus-, pelastus-, hoito- ja ope-
+tusalalla olevia ihmisiä edelleen. Se ei ole valtiolle niinkään fiskaalinen vaan tämmöinen
+periaatteellinen sopimuskysymys, ja voitteko nyt vastata tähän kysymykseen: aikooko val-
+tio pitää kiinni tästä sopimuksesta, jonka vuonna 89 nämä ihmiset ovat valtion kanssa teh-
+neet?
+
+Puhemies Maria Lohela: Puheenvuorot on vielä edustajille Kiljunen, Tuppurainen, Sar-
+komaa, Kopra, Meri, ja sitten siirrytään puhujalistaan.
+17
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+15.15 Anneli Kiljunen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Olisin uudis-
+tanut edellisen kysymyksen, koska ei ole vastausta tullut. 
+
+Mutta kysyn toisen kysymyksen, joka liittyy nimenomaan tähän työuraeläkkeeseen: Uu-
+dessa esityksessä on haluttu huomioida ihmisiä, jotka ovat tehneet pitkän työuran, vähin-
+tään 38 vuotta, ja lisäksi heidän osaltaan todetaan, että työ on ollut hyvin rasittavaa ja ku-
+luttavaa. He voivat jäädä eläkkeelle 63-vuotiaana. Nyt, arvoisa ministeri, miten te erotatte
+tämän työkyvyttömyyseläkkeestä, joka jää edelleen voimaan, koska nämä perustelut voi-
+vat olla hyvin samantyyppisiä? Tullaanko tähän tuomaan tarkat, selkeät kriteerit, missä ti-
+lanteessa niin sanotusti tämän rasittuneisuuden ja pitkän uran takia voi jäädä eläkkeelle ai-
+kaisemmin ja missä tilanteessa ihminen sitten jää työkyvyttömyyseläkkeelle? Mitkä ovat
+nämä kriteerierot, joilla nämä erotetaan toisistaan?
+
+15.16 Tytti Tuppurainen sd (vastauspuheenvuoro):  Arvoisa puhemies! Ensinnäkin ha-
+luan lämpimästi kannattaa edustaja Filatovin täällä esille nostamaa niin sanottua Taipale-
+mallia. Se olisi reilu teko päästää ne tosiasiallisesti työkykynsä menettäneet henkilöt eläk-
+keelle työttömyysturvan varassa roikkumisen sijaan. Tämä toimi pitäisi nyt määräaikaises-
+ti suorittaa ja päästää ne ihmiset kunniallisesti eläkkeelle. 
+
+Haluan kiinnittää, puhemies, huomiota vielä tähän sukupuolten tasa-arvoon: Naisten ja
+miesten eläketulo on erilainen. Naisten eläke jää huomattavasti miesten eläkettä pienem-
+mäksi, mikä johtuu tietysti työmarkkinoilla edelleen olevasta palkkaerosta ja naisten pie-
+nemmistä työurista. Te, ministeri Mäntylä, sanoitte tuossa äsken sinänsä rohkaisevasti, että
+meillä on tekemistä työmarkkinoitten tasa-arvossa, mutta mitä te aiotte tehdä? Me tiedäm-
+me, että katse pitäisi kohdistaa naisten työuriin, naisten työllisyysasteeseen, ja avainasia
+tässä on perhevapaitten uudistaminen, hoivavastuun jakaminen tasaisemmin sukupuolten
+kesken. Mitä te aiotte tehdä, mihin te viittaatte, kun te sanotte, että meillä on paljon teke-
+mistä?
+
+15.17 Sari Sarkomaa kok (vastauspuheenvuoro):  Arvoisa puhemies! Todellakin työelä-
+män kehittäminen on tärkeää. Hyvän työelämän pitää olla joka naisen, joka miehen oikeus
+ja kaikenikäisten oikeus, ja erityisen tärkeää tässä on vähentää työkyvyttömyyseläkkeelle
+jäävien määrää. Me tiedämme, että päivittäin noin 7—8 nuorta aikuista jää työkyvyttö-
+myyseläkkeelle. Tähän on pureuduttava aivan erityisesti. 
+
+On todella tärkeää, että Suomessa on sopimusyhteiskunta, ja sitä on modernisoitava,
+mutta viime kädessä parlamentarismissa aina hallitus kantaa päävastuun. Hivenen kum-
+mallista on se, että kun nyt työmarkkinajärjestöt ovat saaneet sovun ja eläkeuudistus on
+täällä hallituksen esityksenä, niin on epäselvää sitten, että onko vasemmisto tämän takana
+vai ei. Samaan aikaan te sitten moititte hallitusta kovin sanakääntein, kun ei tietyistä asiois-
+ta saatu sopimusta ja hallitus kantaa vastuunsa ja tekee esityksiä. Ei tässä nyt ole päätä eikä
+häntää. Olisi ihan hyvä vasemmistossa selkeyttää, että missä tässä mennään.
+
+15.18 Jari Myllykoski vas (vastauspuheenvuoro):  Arvoisa rouva puhemies! Täytyy nyt
+sitten selkeyttää, että kyllä me täällä vasemmistossa erityisesti kannatamme kolmikantayh-
+teistyötä ja siihen perustuvaa sopimista. Täytyy sanoa, että tässä hetkessä — jos nyt itseäni
+vähättelemättä, olenhan kansanedustaja täällä lainsäädäntöä tekemässä — nyt on kuiten-
+kin semmoinen tilanne, että hallituksen on nyt tehtävä nämä päätökset ja eduskunnan tämä
+laki siunattava, koska maksajat päättävät. Tässä on kaksi osapuolta, jotka kantavat vastuun
+18
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+tästä eläkejärjestelmästä juuri työeläkkeitten puolella yksityisellä puolella, ja on aivan
+luonnollista, että me täällä vasemmistossa ja vasemmistoliitossa kannatamme tätä sopi-
+musjärjestelmää, jossa työmarkkinaosapuolet sopivat, ja me tuemme sitä aivan varmasti.
+
+15.19 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Täällä on use-
+assa puheenvuorossa yli puoluerajojen nostettu esiin tämä sotilaiden eläkkeelle jääminen
+ja siihen liittyviin muutoksiin liittyvä huoli, ja osaltani yhdyn tähän huoleen. Eläkkeelle
+jäävät sotilaat muodostavat sodanajan johtamisjärjestelmän rungon ja toimivat johtamisre-
+servinä sodanajan joukoille ja ovat näin ollen elintärkeä osa maamme puolustusta. Näin ol-
+len lainsäätäjän on mielestäni syytä tiedostaa, että sen säätäessä tältä osin tätä uudistusta, ei
+kyse ole pelkästään sosiaalipolitiikasta vaan myös puolustuspoliittisesta linjauksesta, ja
+toivonkin, että eduskuntakäsittelyssä sotilaiden eläkkeellejääntijärjestelyihin liittyvä huoli
+huomioitaisiin ja pohdittaisiin, miten se tehtäisiin puolustuskykymme uskottavuutta vaa-
+rantamatta.
+
+15.20 Leena Meri ps (vastauspuheenvuoro): Arvoisa puhemies! Täällä on ollut hyviä pu-
+heenvuoroja työuran jatkamisesta ja muusta. Haluaisin tuoda muutaman seikan esille. 
+
+Täällä on ehkä aika vähän puhuttu työllisyydestä, ja ymmärrän, että hallitus onkin tällä
+hetkellä panostamassa siihen erityisesti, koska pitää olla työpaikka, josta jäädä eläkkeelle.
+Että se työssäjaksaminen ei ole se ainoa mutta kuitenkin erittäin tärkeä asia.
+
+Olisin muutamia kommentteja, kysymyksiäkin tuonut: 
+Onko hallitus kiinnittämässä huomiota esimerkiksi siihen, että tosiaan pääsee eläkkeel-
+
+le sitten kun haluaa? Nythän eläkelaitokset ja vakuutusoikeus hyvin pitkälle yhden lääkä-
+rin lausunnon periaatteella tekevät näitä ratkaisuja tapaamatta henkilöä. Tämä on ollut hy-
+vinkin pitkään erilaisissa sosiaalisissa medioissa keskustelussa, ja tähän olisi hyvä kiinnit-
+tää huomiota, ettei se ole sitten ikuisuustaistelu siellä paikan päällä.
+
+Sitten täällä puhuttiin naisten ja miesten välisestä tasa-arvosta, joka on minustakin huo-
+lestuttavaa. On totta, että esimerkiksi jos mies saa 1 500 euroa eläkettä, niin nainen saa rei-
+lut 400 euroa vähemmän. Mutta tähänhän voisi puuttua verotuksen avulla, ainakin pienem-
+missä tuloluokissa, koska nyt nämä tulevaisuuden toimet perheasioissa eivät kompensoi
+esimerkiksi minun ikäiseni naisen — minähän en enää lapsia tee — eläkettä. Minä en
+omastani huolehdi mutta vastaavassa iässä olevien naisten. 
+
+Nuorten osalta toteaisin vielä: Nyt koulutukseen pitäisi saada enemmän työssäoppimis-
+ta, jotta me saamme tekijöitä sinne työpaikoille, koska työssäoppimista on — ainakin olen
+kuullut — liian vähän monilla käsityöaloilla, esimerkiksi metallialalla. (Puhemies koput-
+taa) Tullaan koulusta eikä osata tehdä konkreettisesti sitä työtä ja siten ei työllistytä.
+
+Puhemies Maria Lohela: Puhujalistaan.
+
+15.22 Veera Ruoho ps:  Arvoisa puhemies! Hyvät edustajat! Ministeri! Eläkeiän nosto,
+toisin sanoen työurien pidentäminen, on tarpeen, jotta voidaan vastata yhteiskuntapoliitti-
+siin haasteisiin, joita muun muassa Suomen väestörakenne ja väestön elinajanodotteen pi-
+teneminen väistämättä aiheuttavat.
+
+Työurien pidentäminen edistää työllisyyttä ja talouden työtuloja. Tavoitteenammehan
+on pyrkiä julkisen talouden kestävyysvajeen poistamiseen, ja tämä on yksi tapa ja keino
+vaikuttaa siihen. Näen siis hallituksen esityksen nykytilanteeseen vastaavana.
+19
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+Nämä aikamme tosiasiat, eliniän piteneminen ja raskas huoltosuhde, ovat faktoja, joihin
+on vain pakko reagoida. Hallituksen esitys ottaa huomioon työn laatua, josta jo ministeri
+Mäntyläkin puhui. Esityksessä sanotaan: "Raskasta työtä tehneille eläkemuotona olisi
+työuraeläke, jossa tarjotaan mahdollisuus raskasta työtä tehneille ja yrittäjille siirtyä eläk-
+keelle ennen vanhuuseläkeikää tietyin edellytyksin."
+
+Poliisina olen huolissani kollegoideni kyvystä ja jaksamisesta pitempään eläkeikään.
+Kuten tuossa jo kollegani edustaja Jokinen kysyi ministeriltä ja kun kollegani edustaja Kul-
+mala jo valmistautuu puheenvuoroonsa ja viittaa myös monien kollegoidemme vuonna 89
+valtion kanssa tekemään sopimukseen, haluan myös kysyä ministeri Mäntylältä: pitääkö
+tämä sopimus edelleen paikkansa?
+
+Muutoin annan tukeni tälle lakiesitykselle. Aihehan on äärimmäisen tärkeä ja ajankoh-
+tainen. Olen tätä aihetta sivuaineena opiskellut tuolla Helsingin yliopistossa professori
+Antti Kariston johdolla vanhenemisen tutkimusta lukiessani. — Kiitos.
+
+15.25 Kari Kulmala ps: Arvoisa puhemies! Tässä on tänään kuultu varsin hyviä puheen-
+vuoroja, ja haluan vielä lisätä omani erityisesti poliisien ja sotilaiden eläkeikäuudistuk-
+seen, josta on jo tänään keskusteltu.
+
+Vuonna 1989 eläkeuudistus tehtiin muun muassa valtiolla. Tällöin työntekijällä, esimer-
+kiksi poliisilla, oli valintaoikeus, mikäli hän oli tiettynä päivänä eli 1.7.89 jatkuvassa pal-
+velussuhteessa ja työskenteli ammatissa, jolle oli määrätty alempi eläkeikä. Samalla hänel-
+le säädettiin siirtymäaika, jonka kuluessa ammatilliseen eläkeikään oikeutetun työntekijän
+tuli tehdä valinta ammatillisen eläkeiän ja varhennettujen eläkejärjestelmien välillä. Tä-
+män sopimuksen tekivät muun muassa hyvin monet poliisit, minä mukaan lukien. Mieles-
+täni tämä sopimus on minulla edelleen voimassa ja sillä on jopa perustuslaillinen suoja.
+Tämä eläkeuudistusesitys on siten perustuslain vastainen. Valinnan tehneet työntekijät
+luottavat edelleen tämän sopimuksen pysyvyyteen, ja näin tulee olla jatkossakin, sopimus-
+ta ei saa rikkoa. Mikäli muutosta ollaan nyt tekemässä yksipuolisesti, niin näen tärkeänä,
+että lakimuutos lähetetään vielä perustuslakivaliokunnan arvioitavaksi.
+
+Esityksen mukaan myös sotilaseläkejärjestelmään kuuluvien henkilöiden vanhuuselä-
+keiät nousisivat samassa suhteessa kuin muillakin palkansaajilla. Pidän ratkaisua huonona
+Suomen puolustuskyvylle sekä myös taloudelle. Nykyinen eroamisikäjärjestelmä on toi-
+mivin ja kustannustehokkain tapa ylläpitää uskottavaa puolustusjärjestelmää. Mikäli jär-
+jestelmää muutettaisiin, olisi myös puolustusjärjestelmän perusteita tarkasteltava uudel-
+leen. Nykymallissa sotilaan jäädessä eläkkeelle hänelle määrätään sijoituspaikka sodan-
+ajan operatiivisesta johtajistosta. Nämä tehtävät ovat sellaisia, joita ei voi muulla tavoin
+hoitaa kuin ammattireservillä. Osaaminen näihin tehtäviin ei tule hetkessä vaan vuosien
+kokemuksella, ja ammattisotilaiden korvaaminen olisi erittäin haastavaa.
+
+Mikäli eläkeikää nostetaan esityksen mukaisesti kahdella vuodella, tulisi perustaa arvi-
+on mukaan noin kuusisataa uutta virkaa. Tästä tulisi lisäkustannuksia noin 40 miljoonaa
+euroa joka vuosi, ja tähän meillä ei yksinkertaisesti ole varaa nykyaikana — varsinkaan
+juuri nyt, kun kaikesta pitäisi säästää.
+
+Esityksessä ei ole otettu riittävästi huomioon myöskään sitä työnantajien ja sotilasjärjes-
+töjen esittämää näkökohtaa, että esitetty eläkeiän nosto heikentää Suomen puolustuskykyä.
+
+Pidän eläkeuudistusta näillä perusteilla myös sotilaiden osalta huonosti valmisteltuna.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+15.28 Lea Mäkipää ps: Arvoisa puhemies! Näin syysistuntokauden alussa haluan varsin-
+kin antaa kiitokset puhemiehelle ja puhemiesneuvostolle, että tämä puhujapönttö on saa-
+tettu tähän asialliseen kohtaan, eli puhemiehistö näkee meidät edustajat ja päinvastoin.
+
+Mutta asiaan. Eläkepolitiikan tavoitteita mittareiden valossa ovat muun muassa työ-
+urien pituus, eläkkeiden taso ja eläkkeiden rahoitus. Täällä on hyvin jo pitkälti puhuttu täs-
+tä asiasta.
+
+Hallituksen esityksessä on tärkeimpänä työeläkejärjestelmää koskeva lakimuutos, mut-
+ta tässä samassa lakipaketissa on 37 lakia ja osin niihin vain tehdään niin sanottuja teknisiä
+muutoksia. Uudistuksella halutaan pidentää työuria ja vähentää julkisen talouden kestä-
+vyysvajetta. Kun ihmisten elinaika on koko ajan kasvanut ja ennustekin on samansuuntai-
+nen, osa lisävuosista tulisi käyttää työhön, silloin kun se on mahdollista. Ja toivottavasti
+sitä työtä löytyy jokaiselle. Vain näin voidaan turvata tulevillekin polville riittävä ja oikeu-
+denmukainen eläketaso.
+
+On ymmärrettävää, että eläkeiän nosto on kansalaisia kaikkein eniten huolestuttanut
+asia. Tässä esityksessä on joitakin tätä huolta helpottavia asioita, kuten työuraeläke, joka
+mahdollistaisi pitkän työuran rasittuneisuutta ja kuluneisuutta aiheuttavassa työssä teh-
+neelle henkilölle eläkkeelle jäämisen ennen alinta vanhuuseläkeikää. Esityksessä ehdote-
+taan myös, että osa-aikaeläke eläkemuotona lakkautettaisiin ja korvattaisiin osittaisella
+varhennetulla vanhuuseläkkeellä. Toivottavasti silloin, kun ihminen todella ei enää jaksa
+tai terveys ei kestä, hänen olisi nykyistä helpompi saada joko tätä osittaista eläkettä tai työ-
+kyvyttömyyseläkettä. Paljon kuulee sitä, että eläkeyhtiössä lääkäri toteaa ihmisen työkun-
+toiseksi vaikkei hän sitä olisikaan. Näin ei pitäisi olla.
+
+Yksi esitetty uudistus on eläkkeen karttumisen siirtymäaika, jolloin korkeampi karttu-
+ma on ikään kuin kannustimena työuran pidentämiseksi. On hyödyksi ihmiselle itselleen
+saada lisää terveitä työvuosia, mutta yhteiskunnan tulee näin edellyttäessään kantaa vas-
+tuuta myös työkyvyn ja hyvinvoinnin säilyttämisestä. Työsuhteessa olevien työhyvinvoin-
+nin lisäksi olisi tarpeen säätää myös yrittäjien työhyvinvoinnin mahdollisuuksista. Usein
+yksinyrittäjän ja maatalousyrittäjän jaksaminen on todella haasteellista.
+
+Arvoisa puhemies! Tässä esitetään myös työeläkelakien mukaista vakuuttamisvelvolli-
+suuden alaikärajaa laskettavaksi työntekijöillä 17 vuoden ikään. On hyvä saada eläkettä
+karttumaan jo aiemmin, ehkä se voisi karttua vieläkin aiemmin, kesätöissä ja opiskelun
+ohessa työskennellessä. Varsinkin naisilla karttuminen voi katketa pitkiksikin ajoiksi, kun
+aletaan suunnittelemaan perhettä, joten kaikki lyhyemmätkin jaksot varhemmin ovat tar-
+peen. On tärkeää, että nuorilla on luottamus eläkejärjestelmään ja siihen, että heidänkin tu-
+levaisuudessaan eläkkeiden maksutaso on turvattu, ja niin näitä viilaushommia varmaan
+tehdään sitten aikanaan valiokunnassa.
+
+15.33 Jari Ronkainen ps: Arvoisa rouva puhemies! On erinomaista, että työeläkejärjes-
+telmän kestävyyttä on tarkasteltu ja saatu aikaiseksi selkeitä muutoksia. Ymmärrettävä on,
+että vaikka kipukohtia saadaan paikattua, niin jotain voi aina jäädä jäljelle. Onkin tärkeää,
+että työeläkejärjestelmää tarkastellaan määräajoin ja huomioidaan muun muassa väestöra-
+kenteessa tapahtuvat muutokset.
+
+Tavallisen ihmisen kannalta katson erinomaiseksi, että esityksessä on huomioitu myös
+ne raskasta työtä tekevät kansalaisemme, ne, jotka puurtavat yhteiskuntamme eteen huoli-
+matta siitä, että jatkuva raskas työ vaikuttaa ajan myötä työkykyyn ja ennen kaikkea omaan
+terveyteen hyvin merkittävästi. On täysin ymmärrettävää, että työeläkejärjestelmämme on
+21
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+huomioitava tämä, sillä sama eläkeikä ei kaikille sovi. Aina voi pohtia, onko kompensaatio
+riittävä, mutta pääasia on, että tämä viimeinkin huomioidaan.
+
+Arvoisa rouva puhemies! Nykyinen eläkejärjestelmämme ei ole kestävällä pohjalla. Hy-
+vää kuitenkin on se, että keskimääräinen eläkkeellesiirtymisikä on siirtynyt oikealle kym-
+menluvulle, mutta matkaa vielä on. Nykytilanteessa järjestelmä ei yksiselitteisesti kestä tai
+ei ainakaan pysy sellaisena kuin sen on tarkoitettu olevan. Ei ole oikein, että nuoremmat
+sukupolvet joutuisivat liiallisen maksurasituksen alle, sillä on huomioitava, että nykyinen
+järjestelmä vaikuttaa myös moneen muuhun asiaan, kuten esimerkiksi talouden kasvuun ja
+työllisyyteen. Esimerkiksi TyEL-maksun prosenttiosuus ei nykyisessä järjestelmässä voi
+mitenkään pysyä nykyisellä tasolla vaan nousisi uhkaavasti, ja sillä on takuulla omat vai-
+kutuksensa työllisyyteen. Hallituksen esitys ottaa kuitenkin tämän huomioon. Hallituksen
+esityksessä todetaan, että eläkeuudistus parantaa erityisesti nuorempien sukupolvien elä-
+ketasoa. Aseman paraneminen ei johdu pelkästään työuran pidentymisestä vaan myös sii-
+tä, että elinaikakerroin lieventyy. Oikeudenmukaisuus näkyy myös nuorten kannalta, vaik-
+ka nuorille eläke onkin hyvin kaukainen asia.
+
+Vaikka kokonaisuus on hyvä, niin ei kuitenkaan ole selvää, että ihmiset jaksavat työs-
+sään eläkeikään saakka. Keskimääräinen eläkkeellesiirtymisikä tai keskimääräinen eliniän
+kasvu ei kerro koko totuutta. Eläkejärjestelmän uudistamisen lisäksi on tehtävä määrätie-
+toista työtä työssäjaksamisen parissa ja kannustamista tarvitaan. Uskon vahvasti, että tä-
+män hallituksen toimilla pystymme myös parantamaan edellytyksiä työssäjaksamiseen.
+Suunta on siis nyt oikea.
+
+Puhemies Maria Lohela: Sitten ministeri Mäntylä, 3 minuuttia.
+
+15.36 Sosiaali- ja terveysministeri Hanna Mäntylä: Arvoisa puhemies! Tosiaan pahoit-
+telen, jos tuli mielikuva, että en näihin debattikysymyksiin ole vastaamassa. Kyllä olen
+vastaamassa, ja todella kuvittelin ja ajattelin, että nämä kysyjät nyt sitten olisivat näitä pu-
+heenvuoroja jääneet kuuntelemaan. Mutta yritän tässä nyt niin moneen kysymykseen vas-
+tata kuin tässä lyhyessä ajassa ehdin.
+
+Tästä sotilaiden eläkeiästähän tässä tuli useampikin kysymys. Sotilaillahan tosiaan on
+oikeus eläkkeeseen pääsääntöisesti 55-vuotiaana, ja koska tämä ikä on ollut huomattavasti
+alempi kuin yleinen eläkeikä, niin nyt sitä on sitten tarkoitus nostaa samojen periaatteiden
+mukaisesti, ihan kuten muidenkin eläkeikää, ja siis enintään nyt kahdella vuodella tämä
+eläkeikä on nousemassa. Tosiaan tässä on se ajatus, että sitä nostetaan samassa suhteessa
+kuin nyt sitten muutenkin tässä eläkeuudistuksessa.
+
+Sitten oli kysymys näistä vuonna 89 tehdyistä päätöksistä. Tässä hallituksen eläkeuudis-
+tusesityksessä on nyt lähdetty siitä, että näitä samoja periaatteita nyt noudatetaan sitten
+koko tämän uudistuksen läpi.
+
+No sitten kysyttiin näitä konkreettisia toimenpiteitä siihen, miten tätä työssäjaksamista
+nyt hallitus aikoo sitten edistää. Itse olen käynyt nyt aika laajojakin keskusteluja tähän
+mennessä eri toimijoiden kanssa siitä, miten näihin jo tiedossa oleviin ongelmiin voidaan
+nyt sitten käytännössä lähteä puuttumaan. Kyllä tiedetään, minkälaisia syitä siellä työelä-
+mässä on siihen, että ihmiset eivät työelämässä meinaa jaksaa, mutta kun ne ovat valitetta-
+vasti aika usein jääneet puheiden tasolle, niin nyt nimenomaan on lähdetty tekemään sitten
+neuvotteluja ja pohdintoja eri toimijoiden kanssa siitä, mitä sitten ovat ne konkreettiset
+asiat, joiden kautta voidaan muun muassa työsuojelua eri muodoissa kehittää ja viedä
+22
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+eteenpäin ja nimenomaan esimerkiksi tähän työpaikkakiusaamiseen puuttua riittävällä vo-
+lyymilla, koska tiedetään hyvin, että se on yksi isoimmista syistä, minkä vuoksi ihmiset
+näille pitkille sairauslomille joutuvat, ja se sitten pahimmillaan aiheuttaa myöskin ennen-
+aikaista eläköitymistä ja kuormittaa meidän järjestelmää totta kai ja ennen kaikkea inhimil-
+lisellä tasolla ihmistä itseään.
+
+Sitten pyydän myöskin huomioimaan, että hallituksellahan on kärkihankkeena tämä
+osatyökykyisten aseman parantaminen. Kyllä minä näen, että siellä on nyt monia semmoi-
+sia asioita, joilla myöskin voidaan parantaa osatyökykyisten mahdollisuuksia olla osa täs-
+sä meidän työjärjestelmässä. Ja näen, että se on yksi niitä asioita, että osoitetaan myöskin
+se asenne, että vaikka ihmisen työkyky syystä tai toisesta heikentyy, niin yhteiskunta ei sil-
+ti pudota häntä pois tästä järjestelmästä, vaan päinvastoin tehdään aktiivisesti toimenpitei-
+tä, että hän kokee olevansa edelleenkin yhteiskunnan täysivaltainen jäsen.
+
+No, vielä yksi asia liittyen tähän kuntoutukseen: Tätä kuntoutuksen kokonaisuudistusta-
+han ollaan nyt tekemässä, ja varmasti siellä tullaan nyt tekemään hyvinkin tarkkaa ja täs-
+mällistä pohdintaa ja selvityksiä siitä, minkä tyyppisiä ne tämän päivän haasteet ovat, ni-
+menomaan myöskin siellä työelämässä, ja mitä ne kohdennetut yksilölliset toimenpiteet,
+jotka aidosti tuovat sitä tehokkuutta, voisivat olla. Eli omalla tavallaan meillähän on erit-
+täin hyvä ja vahva kuntoutusjärjestelmä ollut, mutta nyt me olemme myöskin hyvin uuden-
+laisessa tilanteessa, sillä myöskin ihmisten syyt, miksi he tarvitsevat erityyppistä kuntou-
+tusta, ovat työelämän muutosten takia muuttuneet. Ja myöskin nämä ovat niitä asioita, joi-
+hin meidän järjestelmän täytyy tulevaisuudessa pystyä vastaamaan.
+
+Puhemies Maria Lohela: Seuraavaksi sitten puhujalistaan.
+
+15.41 Jani Mäkelä ps: Arvoisa puhemies! Haluan kiinnittää huomiota eläkejärjestelmää
+kohtaan tunnettuun luottamukseen ja eläkejärjestelmän tasapuolisuuteen eri väestöryhmiä
+ja ikäluokkia kohtaan. Eläketurvakeskuksen tutkimuksen mukaan se ei ole kehuttava: vain
+noin puolet uskoo yleensäkään eläkkeen takaavan kohtuullisen toimeentulon erityistilan-
+teissa, kuten työkyvyttömyyden koittaessa — eläketurvan riittävyyteen uskoo vielä har-
+vempi. Luvut ovat olleet huomattavassa laskussa aivan viime vuosina, uskottavasti joh-
+tuen huonoista ajoista ja tulevaisuudennäkymien puutteesta. Osansa tässä on varmaankin
+elinkustannusten ja hintojen nousulla; eläkkeiden ei uskota nousevan suhteessa niihin riit-
+tävästi. Erityisen lohduttoman kuvan saa siitä, moniko yleisesti ottaen luottaa, että luvatut
+eläkkeet voidaan maksaa: alle kolmannes. Täytyy kysyä, johtuuko tämä luottamuspula sii-
+tä, että kansalaiset ovat ymmärtäneet eläkejärjestelmän tulevaisuuden väärin, vai siitä, että
+ovat ymmärtäneet oikein.
+
+Se on ainakin selvää, että pätkätöiden ja työttömyyden kanssa painivat nuoret ikäluokat
+kokevat oikeutetusti joutuvansa eläkejärjestelmän maksumiehiksi. Eläkemaksuja palkois-
+ta korotetaan ja tulossa olevaa, sitä luvattua, eläkettä leikataan yksipuolisesti elinaikaker-
+toimen kautta. Suuria ikäluokkia tämä ei koske, eikä eläkekattoa näy. Tätä ei kolmikanta
+katsonut tarpeelliseksi huomioida, eikä sitäkään — täällä monessa puheenvuorossa puhu-
+taan tasa-arvosta — että naiset elävät keskimäärin huomattavasti miehiä pidempään ja sitä
+kautta myös nostavat eläkettä pidempään.
+
+Arvoisa puhemies! Täytyy todeta, että meillä todellakin on töitä jatkossa eläkejärjestel-
+män oikeudenmukaisuuden turvaamisessa sekä sitä kohtaan tunnetun luottamuksen palaut-
+23
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+tamisessa. Nyt ehdotetut muutokset eläkkeen karttumiseen ovat hyvä alku. Tämä lainsää-
+däntö on vasta välietappi pitkässä ja vaikeassa urakassa.
+
+15.43 Anders Adlercreutz r: Värderade talman! En pensionsreform är ingen oviktig sak.
+Det är ingenting man kan ta lättvindigt eller något man kan utackordera åt någon annan att
+sköta. Det är i allra högsta grad en strategisk fråga som har ett stort inflytande på vårt ar-
+betsliv och vår konkurrenskraft. Därför måste man ta reformen på allvar, man måste våga
+leda. Den reform som nu presenteras för oss i fel riktning. Den stöder inte utbildning, den
+stöder inte jämställdhet, den stöder inte vår konkurrenskraft. 
+
+Eläkeuudistusta ei voi ulkoistaa, koska se on liian tärkeä asia. Se on tärkeä kilpailukyvyl-
+lemme ja tulevaisuuden työelämän rakenteelle. Se on jopa tasa-arvokysymys.
+
+Nyt esitetty uudistus helpottaa kestävyysvajetta ja pidentää työuria. Nämä ovat kiistatta
+hyviä asioita. Mutta siihen ne hyvät asiat loppuvatkin.
+
+Mitä tämä malli kertoo nuorelle, joka haluaa nostaa osaamistaan? Houkutteleeko se
+opiskelemaan? Mitä se kertoo vanhemmalle, joka päättää jäädä kotiin hoitamaan lastaan?
+Voiko hän luottaa siihen, että menetetty eläke on kurottavissa kiinni? Ei. Tämä uudistus ei
+tue osaamista, eikä se tue tasa-arvoa. Ellei tähän yhdistetä vanhempainvapaan uudistusta
+— ja jotenkin minusta tuntuu, että se uudistus ei ole tämän hallituksen agendalla — niin
+tämä muutos siirtää kelloa useita vuosikymmeniä taaksepäin.
+
+Arvoisa puhemies! Tämä uudistus rakentuu työelämämallille, joka ei ole tätä päivää. Se
+kehottaa menemään koulun penkiltä suoraan työelämään. Meidän ei tule sementoida van-
+hoja, väistyviä rakenteita vaan miettiä tulevaisuuden vaatimuksia, ja sitä tämä malli ei tee. 
+
+Vi ska inte cementera gamla strukturer utan våga tänka framåt. Pensionsreformen bör stö-
+da utbildning och jämställdhet, för de är basen för vår konkurrenskraft. Tänk om regering-
+en, tänk om.
+
+15.46 Anna-Maja Henriksson r: Värderade fru talman! Pensionsreformen som vi nu be-
+handlar är en av de viktigaste reformer för att förlänga arbetskarriärerna och därmed också
+för att minska hållbarhetsgapet. Det är i sig bra att man i förhandlingarna nådde resultat,
+men jag ser det ändå som problematiskt att Akava, som representerar 600 000 högt skolade
+personer i vårt land, inte kunde ställa sig bakom den här pensionsuppgörelsen. 
+
+Pensionsreformens bästa sida är att den tryggar finansieringen av arbetspensionsskyd-
+det, och det är också bra att de unga inte blir de som ska stå för kalaset, utan att de beaktas
+genast från början av sin arbetskarriär. Inte som när jag var ung, när det stod på papperet då
+jag började jobba att du får sedan pensionsrätt efter att du har fyllt 23, men det har ingen be-
+tydelse mera. 
+
+Men sedan så behöver det sägas högt att pensionsuppgörelsen hade kunnat vara betyd-
+ligt bättre. Den här reformens största problem är att den inte uppmuntrar till längre arbets-
+karriärer, den är problematisk ur en jämställdhetssynvinkel när det gäller män och kvinnor,
+och man har inte satsat tillräckligt på att befrämja orken i arbetslivet.
+
+Arvoisa puhemies! Tämä eläkeuudistus on yksi tärkeimpiä uudistuksia työurien pidentä-
+misen kannalta ja sitä kautta myös kestävyysvajeen umpeen kuromisessa. On sinänsä hy-
+vä, että tästä asiasta saatiin neuvoteltua ratkaisu, mutta näen sen ongelmallisena, että Aka-
+24
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+va, joka edustaa 600 000:ta korkeakoulutettua henkilöä, ei voinut asettua tämän eläkesopi-
+muksen taakse.
+
+On syytä sanoa ääneen, että tämä olisi voinut olla huomattavasti parempikin. Tämän uu-
+distuksen ongelmakohtia ovat se, että se ei kannusta pidempiin työuriin, se, että se on mies-
+ten ja naisten välisen tasa-arvon kannalta ongelmallinen, ja se, että uudistuksessa ei ole tar-
+peeksi panostettu työelämässä jaksamisen edistämiseen. Eli eläkeuudistus ei sisällä riittä-
+viä kannustimia jatkaa työelämässä vanhuuseläkeikään asti. Eläkettä ehdotetaan karttuvak-
+si koko työuran ajan 1,5 prosentilla vuodessa, ja tämä ehdotettu malli ei siksi kannusta pal-
+kansaajia pidentämään työuriaan niin kuin voimassa olevassa mallissa, jossa korotettu
+karttuma kannustaa ihmisiä jäämään työelämään. Sen takia tätä ei voida pitää onnistunee-
+na ratkaisuna, kun uudistuksen ideana juuri pitäisi olla kannustaa ihmisiä jatkamaan työ-
+elämässä pidempään. En myöskään näe hyvänä, että mahdollisuus niin sanottuun eläkeput-
+keen jätetään auki.
+
+Värderade fru talman! Man har också i den här reformen glömt jämställdhetsperspektivet,
+och de största förlorarna i reformen är faktiskt de välutbildade kvinnorna. I den här före-
+slagna modellen kan kvinnorna inte som i nuläget höja sin pension och den vägen kompen-
+sera de år de har varit utanför arbetsmarknaden, där ju ofta orsaken är att man är moder-
+skaps- eller föräldraledig. Det vill säga, kvinnorna bestraffas för att de har fött barn till värl-
+den och varit hemma under barnets första levnadsår. Och jag vågar nästan säga att det fak-
+tiskt handlar om en inkomstöverföring där betalarna är speciellt unga välutbildade kvinnor
+och på den vinnande sidan finns männen.
+
+Men det är också viktigt att komma ihåg att enbart en formell höjning av pensionsål-
+derns nedre gräns ju inte hjälper oss att höja den faktiska pensionsåldern, ifall arbetstaga-
+ren inte av orsak eller annan orkar jobba längre. Därför så borde den här uppgörelsen också
+ha innehållit åtgärder som uppmuntrar arbetsgivarna att vara måna om sina arbetstagare
+och deras välmående, och tyvärr lyser de här åtgärderna med sin frånvaro.
+
+Och det som bekymrar mig oerhört mycket är det att regeringen också i samma veva har
+tänkt avsluta den rehabilitering som personer i arbetsför ålder i dag har kunnat få och som
+har hjälpt människor att orka länge. Jag hoppas att regeringen i sin budgetria skulle ändra
+på det här beslutet.
+
+Ihan lopuksi, rouva puhemies, toivon, että hallitus vielä budjettiriihessä miettisi, onko oi-
+kea toimenpide lakkauttaa Aslak-kuntoutus tässä vaiheessa, kun tiedämme, että meidän pi-
+täisi panostaa työssäjaksamiseen. Meidän mielestämme, ruotsalaisessa eduskuntaryhmäs-
+sä, se ei ole oikea tapa toimia, kun pitäisi edistää työssäjaksamista, että kuntoutusta lakkau-
+tetaan. Mutta toivon, että ministeri Mäntylä ja ministeri Rehula tässä etsivät hyviä, konk-
+reettisia tapoja sitten korvata tämä Aslak-kuntoutusohjelma, että ihmiset eivät jää ihan tyh-
+jän päälle.
+
+15.51 Anneli Kiljunen sd: Arvoisa rouva puhemies! Olemme tilanteessa, jossa eläkejär-
+jestelmän uudistaminen on paitsi tarpeellista myös kiireellistä. Samalla kun Suomen väes-
+tö vanhenee ja eläkeläisten määrä kasvaa, suomalaiset myös elävät entistä pidempään. Nyt
+eläkeikää tullaan nostamaan portaittain ja elinaikakerroin tulee edelleen leikkaamaan kuu-
+kausieläkkeitä sitä mukaa kuin elinajanodote kasvaa. Näillä keinoilla on tarkoitus pidentää
+työuria, edistää työllisyyttä ja parantaa julkisen talouden ja eläkejärjestelmän kestävyyttä.
+25
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+Eläkeuudistuksesta neuvoteltiin viime vuonna hyvin perusteellisesti, ja sopimukseen
+päästiin työmarkkinakeskusjärjestöjen kesken viime syksynä. Sopimus onkin erinomainen
+esimerkki siitä, miten kolmikantaisella neuvottelulla voidaan edelleenkin saavuttaa yhteis-
+kunnallisesti merkittäviä tuloksia myös ja varsinkin sellaisissa asioissa, jotka heikentävät
+tiettyjen ryhmien asemaa aikaisempaan nähden. Eläkesopu syntyi ilman voimakasta val-
+tiovallan painostusta tai uhkailua. 
+
+Eläkeiän nostaminen on tarpeen työurien pidentämiseksi loppupäästä, mutta se ei yksi-
+nään tule riittämään. Liian moni ei nytkään jaksa työelämässä edes 63 vuoteen saakka. Vä-
+hintään yhtä tärkeää olisi saada työuria pidennettyä keskeltä. Tämä edellyttää investointeja
+esimerkiksi työelämän laatuun, työhyvinvointiin, koulutukseen, kuntoutukseen ja työ- ja
+perhe-elämän yhteensovittamiseen, ja hallituksen tulisikin arvioida työelämään ja ihmis-
+ten hyvinvointiin liittyvien leikkausten vaikuttavuus myös työelämäuraa silmällä pitäen.
+
+Nyt hallitus kuitenkin tuottavuuden parantamisen nimissä aikoo heikentää työntekijöi-
+den asemaa. Samalla kun hallitus pyrkii pidentämään työaikoja ja vähentämään lomapäi-
+viä, se haluaa säästää kuntoutuksesta ja tehdä ensimmäisestä sairauspäivästä palkattoman.
+Moni asiantuntija voi sairastuessaan tehdä töitä kotonakin, mutta kuka hyötyy siitä, että
+sairaanhoitajat, lastentarhanopettajat ja rakennustyöntekijät tulevat palkan menettämisen
+pelossa sairaana töihin? Oma lukunsa ovat ne 230 000 työtöntä, joilla ei ole mahdollisuut-
+ta työterveydenhuoltoon. Tiedämme, että mitä pidempään työttömyys kestää, sitä vai-
+keammaksi työllistyminen usein muuttuu. Jos haluamme parantaa työllisyyttä ja nostaa to-
+dellista eläkkeellejäämisikää, olisikin ensiarvoisen tärkeää pitää hyvää huolta tästä työvoi-
+mareservistä.
+
+Kuitenkin hallitus on systemaattisesti nyt heikentämässä pienituloisten ja työttömien
+mahdollisuutta pitää huolta omasta terveydestään ja hyvinvoinnistaan. Esimerkiksi sosiaa-
+li- ja terveyspalvelujen asiakasmaksuja ollaan nostamassa, lääke- ja matkakorvauksia tul-
+laan edelleen leikkaamaan, etuuksien indeksikorotuksia jäädytetään, ja työttömyysturvaan
+tullaan tekemään leikkauksia. Miten tässä tilanteessa voidaan turvata kaikkien kansalais-
+ten yhdenvertaisuus huolehtia omasta hyvinvoinnistaan ja terveydestään?
+
+Arvoisa rouva puhemies! Hallitukselta on perätty koko sen olemassaoloajan parempaa
+sopimisen tapaa ja sopimuskulttuuria. Tämä on pääsääntöisesti onnistunutkin nyt tässä
+laissa, mutta ei kaikilta osin. Kuten täällä on useaan otteeseen jo tänään aikaisemmin to-
+dettu, meillä on Suomessa reilut 10 000 työntekijää, jotka ovat aikoinaan tehneet valinnan
+ammatillisen eläkeiän ja uuden eläkejärjestelmän välillä. He ovat muun muassa sairaanhoi-
+tajia, peruskoulunopettajia, poliiseja, vartijoita, palomiehiä. He ovat ihmisiä, jotka ovat
+tänä päivänä meille monella tapaa erittäin tärkeä työvoima.
+
+Eläkeuudistuksen yhteydessä vuonna 1989 heille annettiin mahdollisuus valita, minkä
+eläkkeen he tulevaisuudessaan itselleen ottavat, ja sen mukaisesti jos he valitsisivat amma-
+tillisen eläkkeen, he joutuisivat luopumaan erilaisista oikeuksistaan, joita muille tarjottiin.
+Näin he myös toimivat: he luopuivat muun muassa oikeudesta osa-aikaeläkkeeseen. Nyt
+vuosien päästä hallitus yksipuolisesti muuttaa ja sanelee uudet ehdot arvostamatta aikai-
+semmin tehtyjä sopimuksia.
+
+Arvoisa rouva puhemies! Tämä on eettisesti suuri kysymys. Eivätkö kansalaiset voi
+enää luottaa valtion kanssa tehtyihin sopimuksiin? Miten hallitus perustelee toimintata-
+paansa? Miten hallitus hakee luottamusta kansalaisille? Miten hallitus selvittää tämän näil-
+le ihmisille, jotka ovat aikoinaan valinneet ammatillisen eläkejärjestelmän ja sitä kautta
+26
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+heikentäneet omaa elämäntilannettansa suhteessa muihin kollegoihin? Kysyn tätä ministe-
+ri Mäntylältä.
+
+15.57 Ilkka Kantola sd: Arvoisa rouva puhemies! Juha Sipilän hallitus on edennyt eläke-
+uudistusasiassa kiitettävällä vauhdilla. Esityksen valmistelua ministeriössä on helpottanut
+viime kaudella tehty laaja työ. Ratkaisevaa on tietysti työmarkkinajärjestöjen panos elä-
+kesopimuksen aikaansaamisessa. Jyrki Kataisen hallituksen viisas päätös oli antaa työrau-
+ha järjestöille.
+
+Kokemukset sitä edeltävältä hallituskaudelta osoittivat, että eläkekysymykset koskevat
+niin laajoja intressiryhmiä, ettei asiassa ole mielekästä yrittää edetä maan hallituksen yksi-
+puolisin toimin, vaikka talouslaskelmat sinänsä osoittaisivatkin uudistuksen tarpeen. Kan-
+salaiset, palkansaajat, työnantajat ja palkanmaksajat etujärjestöineen ovat kova realiteetti
+siinä, missä Excel-taulukkoon piirretyt numerotkin ovat kova realiteetti — numerot, jotka
+kertovat väestörakenteen kehityksen, työllisyysennusteet ja työuran laskennalliset pituus-
+arviot.
+
+Nyt palkitaan viime vaalikauden kärsivällinen työ, jota ratkaisun eteen tehtiin järjestöis-
+sä. Joku voi tuskailla aikaa, joka kului ratkaisua haettaessa. Tärkeätä on se oppi, joka tästä
+saadaan: Vaikeatkin asiat etenevät ratkaisuun, kun edetään avoimin kortein ja yhteisesti so-
+pien. Sanelemalla syntyy vain lukkoja, joiden avaamiseen kuluu paljon aikaa. Luottamuk-
+sen menettäminen käy helposti, mutta sen palauttaminen on vaivalloista ja aikaa vievää.
+
+Esitys työeläkejärjestelmän uudistamisesta on käsittelyssä nyt, kun on kulunut 10 vuot-
+ta edellisestä merkittävästä uudistuksesta. Vuoden 2005 eläkeuudistuksen tavoitteet ovat
+jossain määrin alkaneet toteutua, siitä on näyttöä. Valinnainen eläkeikä, 63—68 vuotta,
+karttumineen on alkanut nostaa eläkkeellesiirtymisikää. Panostukset työterveyshuollon ja
+työolojen kehittämiseen ovat vaikuttaneet siellä täällä samaan suuntaan.
+
+Muutos on kuitenkin arvioitu liian hitaaksi. Yleinen elintason nousu ja onnistuminen
+kansanterveystyössä ovat johtaneet keskimääräisen eliniän pidentymiseen. Eliniän kasvu
+tuo lisää vuosia eläkkeelläoloaikaan. Viimeaikaisilla eläkeuudistuksilla ja myös tällä uu-
+distuksella pyritäänkin siihen, että osa näistä lisävuosista, joita tavoittelemme, siirtyisi
+työssäolovuosiksi. Tämä parantaisi huoltosuhdetta ja vahvistaisi eläkkeiden rahoitusta ja
+eläkekertymää.
+
+Työurien pidentämisellä turvataan osaltaan työeläkkeiden rahoitusta. Tällä on vaikutuk-
+sensa eläkemaksujen suuruuteen, joka taasen on yksi osa palkkakustannuksien syntymises-
+sä. On helppo ymmärtää, että eläkeratkaisuilla on merkitystä paitsi kestävyysvajeen um-
+peenkuromisessa myös vientialojen kustannuksissa ja kansainvälisessä kilpailukyvyssä
+sitä kautta.
+
+Työeläkejärjestelmän muutosta voi liioittelematta pitää olennaisena kansantaloutemme
+näkökulmasta. Uudistus pidentää työuria ja lisää työllisyyttä. Se parantaa huoltosuhdetta ja
+kasvattaa bruttokansantuotetta. Se varmistaa työeläkejärjestelmän kestävyyden ja vähen-
+tää painetta eläkemaksujen korotuksiin. Se toteuttaa sukupolvien välistä oikeudenmukai-
+suutta.
+
+Vanhuuseläkeikä nousee asteittain niin, että tänä vuonna 60 vuotta täyttävien eläkeikä
+nousee 3 kuukaudella, ensi vuonna 60 täyttävien 6 kuukaudella ja sitä seuraavana vuonna
+60 täyttävien eläkeikä nousee 9 kuukaudella, minun eläkeikäni. Vuonna 1962 syntyneiden
+eläkeikä tulee olemaan 65 vuotta. Vuonna 1965 syntyneiden vanhuuseläkeikä sidotaan
+elinajanodotteen muutoksiin — joita emme tiedä vielä tietenkään — siten, että työssäolo-
+27
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+ajan ja eläkkeelläoloajan suhde pysyy samalla tasolla kuin se on vuonna 2025. Mekanis-
+milla toisin sanoen otetaan osa lisääntyvistä elinvuosista työelämäksi, toteutetaan sitä ta-
+voitetta, joka tässä on ollut pitkän aikaa pöydällä.
+
+Arvoisa puhemies! Uudistuksen toimeenpanossa tärkeätä on muistaa, ettei vanhuuselä-
+keiän alarajan nosto suoraviivaisesti näy eläkkeellesiirtymisiän nostona. Mitään sellaista
+automatiikkaa ei ole. Osa ihmisistä päätyy jatkossakin työkyvyttömyyseläkkeelle ennen
+eläkeikäänsä. Työurien pidentäminen vaatii myös muita toimia kuin tätä lakiuudistusta.
+Yleistä kansanterveystyötä, samoin kuin työsuojelua ja työterveyshuoltoa, on edelleen voi-
+maperäisesti kehitettävä. Kuntoutukseen on edelleen panostettava ja parannettava kuntou-
+tuksen vaikuttavuutta.
+
+Työssäjaksamista on edistettävä myös organisaatioita ja johtamiskulttuureja paranta-
+malla. Tiedämme, että aloilla, joilla työntekijöillä on suuret mahdollisuudet oman työnsä
+kehittämiseen, työssäviihtyvyys on korkealla tasolla ja työurat pitkiä. Uudistuksen tarkoi-
+tuksena ei ole lisätä työkyvyttömyyseläkeläisten määrää vaan nostaa keskimääräistä eläk-
+keellesiirtymisikää.
+
+16.02 Ritva Elomaa ps: Arvoisa puhemies! Menneinä vuosina töihin mentiin hyvin nuo-
+rina, eli työvuosia ehti kertyä useita ennen kuin eläke alkoi karttua. Työeläkejärjestelmän
+uudistus on tehty yhteisymmärryksessä kaikkien osapuolten kesken. Hienoa! On hyvä, että
+nyt jo 17-vuotiaana eläkettä alkaa kertyä. 
+
+Tämän eläkeuudistuksen hyviä puolia on myös joustavuus, mutta on tietysti myös on-
+gelmia eri ammattikunnissa, kuten edustajat Kulmala, Ruoho, Mäkipää ja Kiljunen ovat ot-
+taneet esille tänään. Ihmisen elinajan pitenemisen myötä työvuodet lisääntyvät. Joidenkin
+ammattien kohdalla fyysinen haaste on vaativampi, kun ikää tulee lisää. Hyvin moni tekee
+pitkän työuran ja eläkkeelle päästyään on väsynyt fyysisesti ja henkisesti. Tarkoitus on,
+että eläkkeelle siirryttäessä on mahdollisuus myös nauttia eläkevuosista, koska vihdoin on
+sitä aikaa. Siksi kokonaisvaltainen terveyshyvinvointi pitäisi olla mahdollista jokaisen
+kohdalla jo työikäisenä. Ennalta ehkäisevä toiminta terveyden edistämiseksi on tärkeäm-
+pää kuin koskaan automaation lisääntyessä, nyt kun on siirrytty digiaikaan. Riittävä liikun-
+ta ja terveellinen ravinto eivät ole vain kliseitä. Ne ovat lääkkeitä, joiden myötä elämänlaa-
+tu paranee.
+
+Muutamia huomioita debattipuheista tänään:
+Sairauspoissaolot nousivat debatissa keskusteluun. Yksi mahdollisuus poissaolojen vä-
+
+hentämiseen on esittämäni ennalta ehkäisevä toiminta.
+ Miesten ja naisten välinen tasa-arvo eläkkeissä sekä perheen ja työn yhteensovittami-
+
+nen ovat haasteellisia, ja sen eteen pitää tehdä töitä ja löytää hyväksyttävät ratkaisut. 
+Moni eläkkeellä oleva joutuu todella laskemaan tarkkaan, mihin rahat riittävät. Täytyy
+
+sanoa, että valtavasti on tullut yhteydenottoja eläkeläisten asumistuen leikkauksesta, ihan
+valtava määrä. Uskon, että hallituksemme löytää ratkaisun siihen, ettei kenenkään tarvitse
+muuttaa kotoaan pois tämän takia, kotoa, jossa on vuosikaudet asunut, sillä eläkeläisten on
+vaikea löytää enää lisää ansioita. Uskon, että ministeri Mäntylä myös tekee valtavasti tä-
+män asian eteen töitä.
+
+Toivoisin, ettei esimerkiksi vasemmistoliitto keräisi pisteitä nyt vaalipuheillaan täällä.
+Vaalit eivät ole tänä vuonna eivätkä ensi vuonnakaan. Nimittäin tämä talouskriisi ei ole
+syntynyt nyt sadan päivän aikana, kun hallitus on ollut. Se on syntynyt jo aikaisemmin, jol-
+28
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+loin myös vasemmistoliitto on hallituksessa ollut. Nyt me tarvitsemme ratkaisuja talous-
+kriisiin, emme vaalipuheita emmekä arvostelua pelkästään. — Kiitos.
+
+16.06 Anna Kontula vas: Rouva puhemies! Alkuun toteaisin edustaja Elomaalle, että va-
+semmistoliitto pyrkii puhumaan samalla tavalla vaalien alla ja vaalien välilläkin. Ajatus
+siitä, että vaalien alla sitten puhuttaisiin eri puheet, tuntuu meistä hassulta, vaikka ilmeises-
+ti perussuomalaiset ottavat sen itsestäänselvyytenä.
+
+Sitten itse asiaan. Eläketurvakeskuksen Luottamus eläketurvaan -aineistojen mukaan
+luottamus eläkejärjestelmään horjuu vakavasti. Alle puolet uskoo, että luvatut eläkkeet
+pystytään maksamaan. Alle neljännes katsoo, että päättäjät tekevät hänen etujensa mukai-
+sia päätöksiä. Vain joka kolmannen mielestä eläkejärjestelmä on oikeudenmukainen. Ei
+ole yllättävää, että myönteisimmin eläkeuudistuksen periaatteisiin suhtautuvat korkea-
+koulutetut hyvätuloiset johtajat ja asiantuntijat. Hehän tässä vetävät pisimmän korren, jäl-
+leen kerran. 
+
+Tässä eläkeuudistuksessa ikäluokat jakautuvat hyötyjiin, joita ovat lähinnä pian eläköi-
+tyvät, ja maksajiin, joita ovat 60- ja 70-luvuilla syntyneet, ynnä nuoriin, jotka jälleen hyö-
+tyvät eläkejärjestelmästä, jos me oletamme järjestelmän pysyvän muuttumattomana seu-
+raavat 40 vuotta, mikä tosin tähänastisen maailman eläkejärjestelmien historian varassa on
+täysin epärealistista.
+
+Hallituksen tavoitteena esityksen mukaan ja kolmikannan tavoitteena sitä valmistelles-
+saan on ollut työurien pidentäminen. Tähän tavoitteeseen pyritään pääsemään eläköitymis-
+iän myöhentämisellä 62,4 vuoteen. Onko tähän tavoitteeseen olemassa muita keinoja kuin
+yleinen eläkeiän nosto? On. Me tiedämme, että suomalaisten toimintakyky on sekä subjek-
+tiivisten että objektiivisten mittarien mukaan keskimäärin parantunut merkittävästi vii-
+meisten vuosien aikana. Itse asiassa, jos joku vielä jaksaa penkoa internetin kätköistä van-
+hoja kestävyyslaskelmia 10 vuoden takaa, niin meidän tämänhetkinen eläköitymisikämme
+on huomattavasti korkeampi kuin mitä noissa papereissa pidettiin tavoitteellisena eläköi-
+tymisikänä, jotta kestävyysvaje voitaisiin ratkaista. Näiden laskelmien valossa meillä ei pi-
+täisi olla erityisen suurta huolta, ja tästä syystä monet tutkijat ovatkin tämän eläkeratkaisun
+taustaoletuksia kritisoineet voimakkaasti.
+
+No, onko tavoite siitä, että työuria tulisi pidentää, ylipäätään järkevä, ja kannattaako se
+toteuttaa eläköitymisiän kautta? No ei. Ajatus työurien pidentymisestä on sellaista vanhaa
+ajattelua, jossa oletetaan, että meillä on selkeät kategoriat työssä käyvien ja sitten johonkin
+muuhun kuuluvien välillä ja että meillä on selkeä elämänkaari, jonka aikana ihminen on
+ensin lapsi, sitten opiskelija, sitten töissä ja sitten eläkeläinen. Todellisuudessahan me
+elämme jo nyt sellaisessa maailmassa, jossa näiden kategorioiden väliset rajat ovat merkit-
+tävästi hämärtyneet. Sekä se, mihinkä maailma näyttää olevan menossa, että minun mie-
+lestäni myös se, mihinkä sitä on järkevää poliittisilla päätöksillä johdatella, on pikemmin-
+kin suunta, jossa hämärtymistä jatketaan entisestään. Tarjotaan eläkeläisille mahdollisuuk-
+sia sivuansioihin ja osallistua työelämään vielä silloinkin, kun he ovat jo täysipäiväisen
+palkkatyön ulkopuolella. Tarjotaan ihmisille työuran aikana opiskelumahdollisuuksia, tas-
+kuja, joissa voi kehittää omaa osaamistaan. Näinhän tosiasiassa jo tapahtuu. Eihän tällaisia
+selkeitä työuria ole olemassa missään muualla kuin poliittisten päättäjien papereissa.
+
+Jos me ajattelemme niitä tulevaisuuden trendejä, joista meillä tällä hetkellä on tietoa,
+niin siellä on käynnissä ainakin merkittävä elinkeinorakenteen muutos, mikä tarkoittaa
+isoa siirtymää tyypillisistä teollisuuden työpaikoista tyypillisiin palvelusektorin työpaik-
+29
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+koihin, mikä puolestaan tarkoittaa työpaikkakoon pienentymistä, työsuhteiden pirstaloitu-
+mista, yrittäjyyden ja palkansaajuuden kategorioiden hämärtymistä ja ylipäätään ihan eri-
+laista liikkuvuutta työmarkkinoille kuin mitä vielä tässä lakiesityksessä oletetaan. Siellä
+odottaa meitä myös jakamistalous, robotisaatio ja monta muuta semmoista isoa trendiä,
+jotka tulevat jo seuraavien 20—40 vuoden aikana — eli aikana, jolloinka tämän järjestel-
+män pitäisi taata meidän eläkkeemme — merkittävällä tavalla muuttamaan sekä työmark-
+kinoita että laajemmin suomalaista yhteiskuntaa.
+
+Se, että tässä päätöksessä ei ole millään lailla huomioitu näitä työmarkkinoiden ja suo-
+malaisen yhteiskunnan muutostrendejä, osoittaa minusta hankalimman asian kolmikantai-
+sessa valmistelussa: Siellä istuvat ihmiset, jotka ovat ympäröineet itsensä kaikkein vanha-
+kantaisimmalla osalla tätä yhteiskuntaa ja jotka viimeisenä heräävät muutokseen, silloin
+kun muutos on jo ajat sitten tapahtunut. Tästä syystä, vaikka kolmikannassa on Suomessa
+tehty merkittäviä asioita, minun mielestäni semmoinen kolmikantaan ripustautuminen,
+jossa mikään järkipuhe, jossa mikään argumentaatio, mikään tutkimus, mikään yleisesti
+tunnustettu epäkohta ei riitä murtamaan kolmikantaa, on tuhoon tuomittua ja se on järje-
+töntä poliittista päätöksentekoa. — Kiitos.
+
+16.13 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Nyt käsillä oleva työeläkejärjes-
+telmän kokonaisuudistus on mielestäni erittäin tärkeä, ja omasta puolestani haluan kiittää
+niitä ihmisiä, jotka ovat tämän merkittävän lakipaketin eteen työtä tehneet. Valmistelu on
+ollut varmaan pitkää, ja se on sisältänyt erittäin vaikeitakin neuvotteluja, ja lopputulos,
+mikä on nyt käsillä, on mielestäni hyvä.
+
+Tämä eläkeuudistus ihan selkeästi ottaa ajan henkeen tiukan otteen. Meillä on maailma
+muuttunut viimeisten vuosikymmenten aikana todella valtavasti ja ihmisten elinikä jatku-
+nut meidän hyvän terveydenhuoltomme ansiosta hyvin merkittävästi. On huomioitava
+myös se, että eläkerahastojen riittävyys turvataan, koska ne rahastot, mitä me keräämme ja
+joista eläkkeet maksetaan, eivät ole mitään sampoja, joista rahaa riittää loputtomiin, vaan
+ne rahat on sinne kerättävä työnantajien ja työntekijöiden yhteisellä ponnistuksella ja yh-
+teisesti sovittujen sääntöjen puitteissa.
+
+Eläkeikä nousee siis nyt 65 vuoteen asteittain — on hyvä, että tämä on porrastettu, että
+muutos ei ole niin nopea vaan siihen voimme mukautua pikkuhiljaa — niin että vuonna 62
+syntyneet on ensimmäinen ikäluokka, jolla vanhuuseläkeikä on kokonaisuudessaan tuo
+mainittu 65 vuotta. Jo vuoden 1965 jälkeen syntyneille tämä eläkeikä kaiken lisäksi sopeu-
+tetaan elinikäodotteeseen, mikä sinänsä on tietenkin viisasta, koska pitää muistaa, että
+meillähän tänä päivänä on tilanne, jossa naisten keskimääräinen elinikä on suurin piirtein
+83 vuotta ja miehilläkin lähentelee 77:ää vuotta. Jos nyt oikein muistan erään tilaston, niin
+siinä sanottiin, että tänä päivänä, näinä aikoina, syntyvistä tyttölapsista lähes puolet näkee
+100-vuotissyntymäpäivänsä. Elikkä tämä saavutettu elinikä, mikä nyt meillä keskimäärin
+suomalaisilla on, ei ole mikään pysyvä olotila, vaan ihmiset elävät pitempään terveempää
+elämää, kun pitävät itsestään hyvän huolen.
+
+On tärkeää, että tämä eläkeuudistus nyt tehtiin ja saatiin aikaiseksi, ja on tärkeää, että
+suomalaisten hyvinvointi jatkuu tämänkin lainsäädännön ansiosta. Pidän erittäin arvokkaa-
+na asiana tämän lakipaketin kokonaisuudessa sitä, että koko työhistorian ajan tämä eläke-
+karttuma on 1,5 prosenttia ja sitä aletaan kasata 17 vuoden iässä aina sinne alimpaan elä-
+keikään asti. Aikanaan, kun itse aloitin työelämän, niin silloin muistamani mukaan vasta
+23-vuotiaana ensimmäiset eläkemarkat silloisen järjestelmän mukaan karttuivat, elikkä tuli
+30
+
+
+
+Pöytäkirjan asiakohta PTK 29/2015 vp
+tehtyä muutamia vuosia työtä yhteisen hyvän eteen ilman että siitä omaa eläketurvaa kart-
+tui. Mutta se oli sitä aikaa, ja nyt elämme tätä aikaa.
+
+Tämä lakiuudistus turvaa eläkejärjestelmän toimivuuden pitkälle tulevaisuuteen, kuten
+on moni puhuja jo tässä salissa sanonut. Alimman eläkeiän kytkeminen eliniänodotteeseen
+on minun mielestäni erittäin hyvä asia. Tähän kyseiseen totuuteen sisältyy myös se, että
+elinaikakerrointa lievennetään. Elinaikakerroinhan oli se kerroin, jolla eläkkeitä hieman
+leikattiin sen takia kun suomalaiset elävät pitempään. No, tämäkin asia on tässä lakiuudis-
+tuksessa huomioitu, hyvä näin.
+
+Työeläkejärjestelmän kannalta yhtä tärkeää asiaa ei koskaan ole liiaksi korostettu, ja se
+on se, että työllisyyden hyvä taso on meidän toimivan eläkejärjestelmän kannalta välttä-
+mättömyys. Esimerkiksi Juha Sipilän hallitus tekee sen eteen töitä, että työllisyys olisi täs-
+sä maassa vähintään 72 prosenttia. Meidän on pidettävä näillä eri lainsäädäntöuudistuksil-
+la tässä talossa huoli siitä, että tähän tavoitteeseen päästään. Jos meillä työllisyys ei toimi,
+eläkekarttumat eivät kerry ja koko järjestelmä on silloin uhattuna. Toivon, että Suomen
+eduskunta tässä asiassa kantaa yhteisen vastuun, että pystymme tätä työllisyysastetta nos-
+tamaan ja työttömyyttä alentamaan. Se on meidän kansantaloutemme yhteinen etu.
+
+Lopuksi, arvoisa rouva puhemies, yksi huomio vielä uudistuksesta. Toivon, että tämä
+tässäkin salissa keskusteluun noussut sotilaseläkejärjestelmää koskeva muutos saisi nyt
+hieman syvällisemmän käsittelyn ja se lähtisi lausunnolle ja kuultaisiin esimerkiksi puo-
+lustusvaliokuntaa, tietenkin, ja sitten Puolustusvoimia, Pääesikuntaa, Rajavartiolaitosta
+sekä puolustusministeriötä. Sotilaseläkejärjestelmään liittyy Suomen toimivan puolustuk-
+sen ja toimivan reservin kannalta niin monta tekijää, että se ansaitsee ehdottomasti erikoi-
+sen huomion tämän lain käsittelyssä ja niin, että nämä Suomen puolustuksen kannalta tär-
+keät asiat huomioidaan nyt tässä lakiuudistuksessa täysimääräisinä, ettemme ikään kuin
+vahingossa heikennä Puolustusvoimien ja koko Suomen kannalta erittäin tärkeän reservin
+toimivuutta.
+
+Keskustelu päättyi.
+
+Asia lähetettiin sosiaali- ja terveysvaliokuntaan, jolle perustuslakivaliokunnan on annetta-
+va lausunto.
+31
+
+

@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM534.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 21/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 21/2018 vp
+
+Täysistunto
+
+Tiistai 13.3.2018 klo 14.01—17.32
+
+6. Hallituksen esitys  eduskunnalle laiksi henkilötietojen käsittelystä Puolustusvoimissa se-
+kä eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 13/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 6. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään puolustusvaliokuntaan, jolle perustuslaki-
+valiokunnan on annettava lausunto.
+
+Keskustelu
+
+15.33 Puolustusministeri Jussi Niinistö (esittelypuheenvuoro):  Arvoisa rouva puhe-
+mies! Nyt käsittelyssä olevassa hallituksen esityksessä ehdotetaan säädettäväksi uusi laki
+henkilötietojen käsittelystä Puolustusvoimissa. Lakiin koottaisiin henkilötietojen käsitte-
+lyä koskevat säännökset Puolustusvoimien toimivaltuuksia koskevista laeista. Esitykseen
+sisältyvät ehdotukset tiettyjen liitännäislakien muuttamisesta, joissa olevat henkilötietojen
+käsittelyä koskevat säännökset siirrettäisiin uuteen lakiin. Lisäksi esitykseen sisältyvät eh-
+dotukset laeiksi vapaaehtoisesta maanpuolustuksesta annetun lain ja turvallisuusselvitys-
+lain muuttamisesta. Esitys liittyy tietosuojalainsäädännön kokonaisuudistukseen, jonka
+taustalla on Euroopan unionin tietosuojaa koskeva sääntely. EU:n tietosuoja-asetusta ja ri-
+kosasioiden tietosuojadirektiiviä sovelletaan toukokuusta 2018 alkaen ja niillä on tarkoi-
+tus korvata nykyään sovellettava yleinen henkilötietolaki.
+
+Puolustusvoimia koskevien tietosuojasäännösten kokoaminen yhteen lakiin mahdollis-
+taisi sen, että Puolustusvoimissa tapahtuvasta henkilötietojen käsittelystä säädetään nyky-
+aikaisesti ja kattavasti tietojenkäsittelyn elinkaarimallin mukaisesti. Yhdestä laista kävisi
+tällöin ilmi, mitä henkilörekistereitä Puolustusvoimilla on, mitä rekistereihin kerätään, mi-
+hin tarkoituksiin tietoja käytetään, kenelle tietoja voidaan luovuttaa ja kuinka kauan tietoja
+rekistereissä säilytetään. Erillisen henkilötietolain säätämisen myötä Puolustusvoimia kos-
+keva henkilötietosääntely saatettaisiin samalla vastaamaan rakenteeltaan muiden kansalli-
+sesta turvallisuudesta vastaavien viranomaisten sääntelyä. Muun muassa poliisin, Rajavar-
+tiolaitoksen ja Tullin suorittamasta henkilötietojen käsittelystä on jo vuosia säädetty erilli-
+sissä henkilötietolaeissa.
+
+Rekisterinpito keskitettäisiin Pääesikunnalle, joka vastaisi siitä, että henkilötietoja käsi-
+tellään lainmukaisesti. Pääesikunnassa toimisi itsenäinen tietosuojavastaava, jonka tehtä-
+vänä on neuvoa henkilötietojen käsittelyyn liittyvissä asioissa ja valvoa organisaation si-
+sällä käsittelyn lainmukaisuutta. Uuden lain myötä saataisiin myös joustavampi sääntely-
+tekniikka, joka sopeutuisi paremmin käsittelytarpeiden muutoksiin. Viranomaisten välistä
+tiedonvaihtoa koskevat pykälät päivitettäisiin kokonaisuudessaan, useita tiedonvaihto-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 21/2018 vp
+säännöksissä ilmenneitä aukkoja paikattaisiin, ja näin ylipäätään byrokratiaa pyritään kar-
+simaan. Esimerkiksi poliisi voisi saada passihakemusten yhteydessä tiedon asevelvolli-
+suuden suorittamisesta sähköisesti Puolustusvoimilta. Myös oppilaitokset voisivat saada
+sähköisesti tiedon varusmiespalveluksen suorittamisesta. Puolustusvoimat saisi varus-
+miespalvelukseen saapuvien terveydentilaa koskevat tiedot nykyistä aiemmin ja nykyistä
+kattavammin. Tehokkaalla ennakkoseulonnalla voidaan vähentää palveluksen keskeyttä-
+misten määrää ja siten myös saavuttaa säästöjä.
+
+Arvoisa puhemies! Ehdotetussa laissa säädettäisiin ensimmäistä kertaa sotilastieduste-
+luun liittyvästä henkilötietojen käsittelystä. Henkilötietolailla ei luoda minkäänlaisia tie-
+donhankinnan toimivaltuuksia, kyse on vain hankitun tiedon käsittelyä koskevista sään-
+nöistä. Tiedonhankinnalle on aina oltava muusta laista seuraava toimivaltuus. Sotilastie-
+dustelun henkilötiedot talletettaisiin sotilastiedustelurekisteriin. Lähtökohtana on, että vain
+tehtävien hoitamisen kannalta merkitykselliseksi todettua tietoa saa tallettaa rekisteriin.
+Tiedustelutehtävien yhteydessä saatua tietoa, jonka merkityksellisyyttä ei voida välittö-
+mästi määrittää, saisi kuitenkin tallettaa väliaikaisesti kuudeksi kuukaudeksi rekisteriin sen
+merkityksellisyyden selvittämiseksi.
+
+Tiedustelutietoa saisi luovuttaa ulkomaille vain tiukoin ehdoin. Edellytyksenä on, että
+luovuttaminen on välttämätöntä kansallisen turvallisuuden tai rikosten ennalta estämisen ja
+paljastamisen varmistamiseksi. Sotilastiedustelu on pitkäjänteistä toimintaa, minkä vuoksi
+henkilötietoja saisi säilyttää rekisterissä 50 vuoden ajan. Tietojen tarpeellisuutta olisi kui-
+tenkin arvioitava viiden vuoden välein ja tarpeettomat tiedot poistettava välittömästi. Re-
+kisteröity ei voisi itse tarkistaa, mitä tietoja sotilastiedustelu hänestä käsittelee, mutta kuka
+tahansa voi pyytää tietosuojavaltuutettua tarkistamaan, että hänen tietojaan käsitellään
+lainmukaisesti. Välillinen tietosuojavaltuutetun kautta tapahtuva tarkastusoikeus siten tur-
+vaa rekisteröityjen oikeuksien ja yksityisyydensuojan toteutumista.
+
+15.38 Kari Kulmala sin: Arvoisa puhemies! Puolustusvoimia koskien ei ole tällä hetkel-
+lä keskitettyä lainsäädäntöä henkilötietojen käsittelystä, vaan aihetta koskevat erityissään-
+nökset on hajautettu useisiin eri lakeihin. Tämä ei ole kovin järkevää, koska säännökset
+ovat osittain tarpeettoman hajanaisia ja epäyhtenäisiä. Lisäksi kaikkeen Puolustusvoimien
+suorittamaan henkilötietojen käsittelyyn sovelletaan tietenkin yleisen henkilötietolain
+säännöksiä. 
+
+Säännösten hajauttaminen useisiin eri lakeihin on johtanut myös siihen, että samoja tai
+lähes samoja säännöksiä on tarpeen toistaa eri henkilörekisterien osalta useissa eri laeissa.
+Puolustushallinnossa onkin jo pitkään harkittu säännösten keskittämistä yhteen lakiin vas-
+taavasti kuin muun muassa poliisin, Rajavartiolaitoksen, Tullin ja Rikosseuraamuslaitok-
+sen suorittaman henkilötietojen käsittelyn osalta on jo tehty. Hyvä, että tämä keskittämi-
+nen viimeinkin tehdään. Toivottavasti sääntelytapa on jatkossa joustava ja yksityiskohtais-
+ten luetteloiden pitäminen on ajan tasalla.
+
+Puolustusvoimien harjoittamasta sotilastiedustelusta sekä sen yhteydessä suoritettavas-
+ta henkilötietojen käsittelystä ei ole ymmärtääkseni tällä hetkellä lainkaan voimassa ole-
+vaa sääntelyä, ja mielestäni siitä olisi syytä säätää lailla.
+
+Arvoisa puhemies! Esityksen tavoitteena on muun muassa varmistaa, että henkilötieto-
+jen suojasta Puolustusvoimien toiminnassa säädetään asianmukaisesti ja perustuslain vaa-
+timukset täyttävällä tavalla tietosuojalainsäädäntöä koskevan kokonaisuudistuksen jäl-
+keen.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 21/2018 vp
+Mielestäni tämä esitys on ajankohtainen ja erittäin tarpeellinen. Lainsäädännön tulee
+olla toimivaa myös Puolustusvoimien mahdollisesti muuttuvien toimivaltuuksien, kuten
+ehdotettujen sotilastiedustelutehtävien, hoitamiseen.
+
+15.40 Lea Mäkipää sin: Arvoisa puhemies! Ihan vielä lyhyesti tästä esityksestä. Esityk-
+sen tarkoituksena on säätää uusi laki henkilötietojen käsittelystä Puolustusvoimissa, johon
+koottaisiin kaikki PV:n henkilötietojen käsittelyä koskevat säännökset. Lain tarkoituksena
+on varmistaa, että perustuslain 10 §:n 1 momentin vaatimus säätää henkilötietojen suojasta
+täyttyy asianmukaisesti myös Puolustusvoimien toiminnassa. Esitys liittyy Suomen tieto-
+suojalainsäädännön kokonaisuudistukseen.
+
+Esitykseen sisältyy ehdotus vapaaehtoista maanpuolustusta koskevan lain muuttamisek-
+si. Näin tehden yhdenmukaistettaisiin Maanpuolustuskoulutusyhdistystä velvoittava hen-
+kilötietosääntely Puolustusvoimia koskevan sääntelyn kanssa ja varmistettaisiin samalla
+sujuva tiedonvaihto Puolustusvoimien ja Maanpuolustuskoulutusyhdistyksen kesken.
+Maanpuolustuskoulutusyhdistyksen suorittamaan henkilötietojen käsittelyyn sovellettai-
+siin lisäksi yleistä tietosuoja-asetusta ja ehdotettua yleistä tietosuojalakia.
+
+Tällä hetkellä Puolustusvoimilla ei ole siis keskitettyä lainsäädäntöä henkilötietojen kä-
+sittelystä, vaan aihetta koskevat erityissäännökset on hajautettu useisiin eri lakeihin. Näin
+ollen väärin ymmärtäminen ja väärin soveltaminen on riskialtista. Sama koskee MPK-yh-
+distystä.
+
+Arvoisa puhemies! Poliisilla, Rajavartiolaitoksella ja Tullilla sekä Rikosseuraamusvi-
+rastolla on jo käytössä yksi henkilötietolaki. Samankaltaiseen lakiin pyritään tässä esityk-
+sessä, ja mielestäni tämä on tarpeellinen ja kannatan näin ollen hallituksen esitystä.
+
+Keskustelu päättyi.
+
+Asia lähetettiin puolustusvaliokuntaan, jolle perustuslakivaliokunnan on annettava lausun-
+to.
+3
+
+
+	6
+	15.33
+	15.38
+	15.40
+
+

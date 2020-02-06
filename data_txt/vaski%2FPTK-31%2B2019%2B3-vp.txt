@@ -1,0 +1,470 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM6B6B.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 31/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 31/2019 vp
+
+Täysistunto
+
+Perjantai 13.9.2019 klo 13.02—13.35
+
+3. Tietosuojavaltuutetun toimiston toimintakertomus 2018
+Kertomus K 15/2019 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päi-
+väjärjestyksen 3. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokun-
+taan.
+
+Keskustelu
+
+13.04 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Kiitos mielenkiintoisesta ker-
+tomuksesta tietosuojavaltuutetulle. Tämän kertomuksen alkulehdillä todetaan hyvin: ”Tie-
+tosuoja on Suomelle menestystekijä: yksityisille ihmisille se tarkoittaa henkilötietojen pa-
+rempaa suojaa ja mahdollisuutta omien tietojen hallitsemiseen, yrityksille kilpailuetua,
+joka syntyy vastuullisesta toiminnasta.” Lukiessani minulla tuli mieleen kaksi teemaa,
+joista olisin halunnut kuulla hiukan enemmän tietosuojavaltuutetulta, mutta koska hän ei
+ole täällä paikalla, niin toivon, että valiokuntakäsittelyssä näitä asioita kuitenkin selvite-
+tään.
+
+Ensinnäkin, tietosuoja-asetuksen voimaantulo viime keväänä oli iso muutos. Sen taus-
+talla on oikeat tavoitteet, mutta sen on koettu arjessa hankaloittavan eri viranomaisten vä-
+listä yhteistyötä, ja siitä johtuen jopa esimerkiksi apua tarvitsevien ihmisten kokonaisval-
+tainen auttaminen on estynyt, tai näin ainakin on koettu. Minulle on kerrottu, että tietoja ei
+voi antaa toiselle viranomaiselle, vaikka olisi asiakkaan lupa tietojen antamiseen, ja olisin
+halunnut kysyä tietosuojavaltuutetulta, onko hänelle tullut tällaista viestiä ja onko tätä tie-
+tosuoja-asetusta tulkittu liian tiukasti, jos ihmisten auttaminen sen takia estyy.
+
+Toiseksi, haluan sanoa muutaman sanan geenitiedon keräämisestä ja siihen liittyvistä
+tietosuojakysymyksistä. Meillä on Suomessa viime vuosina voimallisesti korostettu, että
+sosiaali- ja terveystiedon käyttöä tutkimuksessa ja innovaatiotoiminnassa tulee helpottaa.
+Suomella olisi tässä hieno mahdollisuus luoda uutta kasvua, koska meillä on korkealuok-
+kaiset tietovarannot, hyvät järjestelmät, mahdollisuus toimia tehokkaasti ja ihmiset luotta-
+vat tutkimukseen. Hyvänä lähtökohtana on nähty se, että Suomessa pienenä maana on saa-
+tavilla geeniperimältään erityisen suotuisa väestö. Samalla on ajateltu, että olisi tarpeen
+toimia nopeasti, koska muutkin maat ovat mukana kilpajuoksussa kansainvälisistä tutki-
+mus- ja innovaatiopanoksista. Käsittääkseni EU:n uusi tietosuojalainsäädäntö asettaa kui-
+tenkin esteitä laajalle tietojenkeruulle. Sen lähtöfilosofia lienee siinä, että kun tieto on ker-
+ran niin arvokasta, niin sitä olisi parempi kerätä varoen ja vähän kerrallaan, asioista sel-
+keästi tiedottaen ja käyttötarkoituksia etukäteen määrittäen. Samaan aikaan on lisääntynyt
+tietoisuus tietosuojan merkityksestä, kun maailmalla on paljastunut skandaaleita tietosuo-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 31/2019 vp
+jamurroista ja tietosuojan leväperäisestä tasosta. Erityisesti geenitiedon suhteen tuli lunta
+tupaan Islannissa konkurssin tehneen biopankin ja Skotlannissa esille tulleiden ongelmien
+myötä. Vakava huoli on herännyt siitä, voiko geenitietoa varmuudella anonymisoida eli
+taata, ettei näytteenantajia voida tunnistaa. Toisaalta on myös syytä kysyä, onko riskinä,
+että tämä tieto leviää sellaisille tahoille, joille sitä ei ole tarkoitettu. Geenitieto on arvokas-
+ta ja herkkää terveystietoa, joka kiinnostaa hyvin monenlaisia toimijoita, jopa rikollisia, ja
+siksi se ei saa joutua vääriin käsiin.
+
+Arvoisa puhemies! Leväperäisestä ajattelusta tietojen keräämistä kohtaan sosiaali- ja
+terveystoimessa oli mielestäni esimerkki viime kauden lopulla hyväksytty niin sanottu toi-
+siolaki, jonka tarkoitus oli jouhevoittaa sosiaali- ja terveystiedon keruuta ja ennen kaikkea
+sen välittämistä eteenpäin yhdeltä luukulta kansainväliseenkin käyttöön. [Hälinää]
+
+Ensimmäinen varapuhemies Tuula Haatainen:  Anteeksi, edustaja Mäkisalo-Roppo-
+nen. — Voidaanko sopia, että käydään nämä keskustelut aina tuolla käytävällä, niin kuul-
+laan, mitä täällä puhutaan? — Olkaa hyvä.
+
+Kiitos, arvoisa puhemies! — Siis tämän toisiolain tarkoituksena oli luoda ajanmukaiset
+ja yhdenmukaiset edellytykset sosiaali- ja terveydenhuollon palvelutoiminnassa syntyvien
+henkilötasoisten asiakastietojen sekä muiden terveyteen ja hyvinvointiin liittyvien henki-
+lötietojen käytölle tilastointiin, tutkimuksiin, kehittämis- ja innovaatiotoimintaan, opetuk-
+seen, tietojohtamiseen, viranomaisohjaukseen ja -valvontaan sekä suunnittelu- ja selvitys-
+tehtäviin. Kaikki erittäin hyviä tavoitteita, mutta hallituksen alkuperäinen esitys oli unoh-
+tanut lähes kokonaan tietosuoja-asiat, ja se oli jopa EU-tietosuoja-asetuksen vastainen. Iso-
+jen puutteiden ja virheiden takia lakiesitystä paikkailtiin ja korjailtiin niin paljon, että ky-
+symyksessä oli lopulta suurelta osin ihan eri esitys kuin mistä alun perin oli kysymys. Il-
+man sosiaali- ja terveysvaliokunnan puuttumista olisi ihmisten tietosuoja joutunut suuresti
+vaaraan. Toivottavasti tällä kaudella hallitukselta ei lähde niin huonosti valmisteltuja laki-
+esityksiä. Mutta koska toisiolakiin tehtiin niin paljon valiokuntakäsittelyn aikana muutok-
+sia ja lisäksi nopealla aikataululla, on riskinä, että lakiin jäi pahoja valuvikoja ja jopa vir-
+heitä, jotka voivat vaarantaa ihmisten tietosuojan. Paikkailun ja korjailujen takia lakiesitys
+jäi epäselväksi ja sekavaksikin joiltakin osin, ja kyllä itselleni ainakin jäi valtava huoli sii-
+tä, mitä ihmisten tiedoille voi tapahtua. Toivon, että kaikki menee hyvin, mutta minun mie-
+lestäni tällaista riskiä ei olisi pitänyt ottaa. Toivon hartaasti, ettei tällaista tapahdu toista
+kertaa. Onneksi yleinen tietoisuuskin näistä asioista on lisääntynyt, se tuli esille viime ke-
+sänä lausuntokierroksella olleen lakiesityksen genomikeskuksesta ja genomitietojen käsit-
+telyn edellytyksistä annetuista lausunnoista. Lausuntoja lukiessani huomasin sen saaneen
+paljon kriittistä palautetta muun muassa tietosuojaan liittyen.
+
+Arvoisa puhemies! Yhteenvetona haluan todeta, että kun lukee kertomuksia maailmal-
+ta, niin kyllä meillä alkaa olla runsaasti näyttöä siitä, että geenitiedonkin anonymiteetti on
+saatu puretuksi, ja toisaalta myös siitä, että tietoja on jaettu eteenpäin tahoille, joille hen-
+kilö itse ei ole antanut lupaa niitä jakaa. Mielestäni meidän tulisi suhtautua nykyistä vaka-
+vammin geeniteknologiaan liittyviin tietosuojauhkiin, ja tämän johdosta tulisi löytää taho,
+joka ottaisi tämän asian kokonaisvaltaisesti hoitaakseen. Epäilen, riittävätkö tietosuojaval-
+tuutetun resurssit tämän laajan asian haltuun ottamiseen.
+
+Arvoisa puhemies! Toivoisin, tai olisin toivonut todellakin, että tietosuojavaltuutettu
+olisi ollut paikalla ja pystynyt kommentoimaan näitä asioita, koska en löytänyt näistä
+2
+
+
+
+Pöytäkirjan asiakohta PTK 31/2019 vp
+asioista kuvausta tästä kertomuksesta. Mielestäni nämä ovat niitä tietosuojaan liittyviä
+asioita, joista pitäisi keskustella huomattavasti nykyistä enemmän. Teknologia — myös
+geeniteknologia — kehittyy hurjaa vauhtia, ja hyvä niin, mutta tietosuojan tulisi olla hyvin
+varmistettu näissä asioissa. — Kiitos. [Timo Heinonen: Erinomainen puheenvuoro!]
+
+13.11 Pekka Aittakumpu kesk: Arvoisa rouva puhemies! Hyvin mielenkiinnolla luin
+tuota Tietosuojavaltuutetun toimiston toimintakertomusta. Se on napakka ja selkeä. Siinä
+tulee monia ajankohtaisia, voisi sanoa, päivänpolttavia kysymyksiä esille, niin kuin äsken
+hyvin edustaja Mäkisalo-Ropponen kuvasikin näitä haasteita ja kehittämistarpeita.
+
+Meillähän kaikilla on se tiedossa, mitä digitalisoituminen on merkinnyt ja merkitsee, si-
+tä, että meidän kansalaisten ja yhteisöjen ja yritystenkin tietoja on mitä erilaisimmissa re-
+kistereissä, ja siksi tämä asia on jatkuvasti yhä ajankohtaisempi. Ja tämä kysymys tästä tie-
+don liikkuvuuden kehittämisestä esimerkiksi sosiaali- ja terveyspalveluissa on erityisen
+ajankohtainen ja tarpeellinen. Hallitusohjelmaan me sovimme kirjauksen siitä, että edis-
+tämme sote-datan joustavaa ja laajamittaista hyödyntämistä mutta kuitenkin samalla huo-
+lehdimme tietosuojan korkeasta tasosta. Tämä on toivottavaa, että saamme tämän mahdol-
+lisimman nopeasti toteutumaan.
+
+Kansalaisen näkökulmasta on erityisen olennaista se, että ihminen voi kokea, että ”mi-
+nun tietoni ovat turvassa ja voin luottaa siihen, että myöskin viranomaisilla on tarvittava
+tietotaito turvata minun tietoni”. Tietosuojavaltuutetun toimiston tehtävänä on turvata kan-
+salaisen oikeudet juuri henkilötietojen käsittelyssä, ja siksi on erityisen tärkeää, että toimis-
+tolla on tähän tärkeään työhön tarvittavat ja riittävät voimavarat. Tässä toimintakertomuk-
+sessa tulee esille se, että henkilöstömäärä on ollut liian vähäinen, mutta siihen on saatu nyt
+korjauksia, mikä on erittäin hyvä asia. Olimme liikenne- ja viestintävaliokunnan matkalla
+Berliinissä, ja sielläkin tuli esille se, että me Suomessa olemme paitsi digitaalisten palve-
+luiden kehittämisessä kärkimaita, niin meidän tulee olla myös erityisesti sen vuoksi tieto-
+suojan kehittämisessä ja parantamisessa kärkimaita, koska kuljemme monessa asiassa niin
+edellä, ja siksi on erityisen merkittävää, että meillä myös Tietosuojavaltuutetun toimiston
+resurssit ovat riittävät.
+
+Olisin itsekin mielelläni tietosuojavaltuutetulta joitakin kysymyksiä tässä kysynyt, esi-
+merkiksi tähän tiedottamiseen liittyen. Kävin tutustumassa toimiston uusiin internetsivui-
+hin ja totesin ne hyvin toimiviksi, ja toivon, että toimiston resurssit myös tiedottamisen
+osalta ovat riittävät, koska tarvitsemme tässä ajassa kansalaisille tietoa siitä, miten he
+myöskin itse voivat huolehtia oman tietosuojansa toteutumisesta.
+
+Ensimmäinen varapuhemies Tuula Haatainen: Täällä on puheenvuoroissa kysytty,
+miksi tietosuojavaltuutettu ei ole täällä. Vain rajatuissa tapauksissa, tietyissä asioissa voi
+olla ulkopuolinen istuntosalissa mukana. Tietosuojavaltuutettu ei kuulu näihin, eli hän ei
+voi olla täällä istunnon aikana, mutta häntä voidaan kuulla valiokunnassa.
+
+13.15 Arja Juvonen ps: Arvoisa rouva puhemies! Tietosuoja kiinnostaa enemmän kuin
+koskaan myös kansalaisia, ja ihmiset ottavat usein yhteyttä ja kysyvät, että onko henkilö-
+tietojani ja tietosuojaani kohdeltu oikein. On juuri niin kuin edustaja Mäkisalo-Ropponen
+tuossa puheenvuorossaan kertoi, että toisiolaki oli sosiaali- ja terveysvaliokunnassa hyvin
+haasteellinen. Olin myös itse valiokunnan jäsenenä viime kaudella kuin myös tällä kaudel-
+la, ja sote-valiokunta todella puuttui moniin kohtiin, ja laki parani valtavasti valiokuntakä-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 31/2019 vp
+sittelyssä. Täytyy sanoa, että hämmästelen kyllä sitä lainsäädännön laatua, mitä viime kau-
+della oli: me jouduimme niinkin paljon esitystä vielä korjaamaan. Mutta toivon tosiaan,
+että siellä ei olisi hirveästi niitä porsaanreikiä, mitä emme kenties huomanneet, eli puhum-
+me tärkeistä asioista.
+
+Arvoisa puhemies! Asiakas- ja potilastiedot ovat erityisen tärkeitä sosiaali- ja tervey-
+denhuollon palveluissa, ja kun meille on tulossa sote-uudistus ja paljon erilaista uutta lain-
+säädäntöä, niin pidän tärkeänä, että henkilötietojen kanssa ollaan tarkkana ja tietosuojaan
+kiinnitetään huomiota. Olin itse yhteydessä tietosuojavaltuutettuun sähköpostilla ja huo-
+masin, että se on hyvä keino lähestyä, sieltä tulee myös vastaus. Henkilö lähestyi ihan yk-
+sinkertaisella kysymyksellä: Minun piti peruuttaa lääkäriaika ja soitin lääkäriasemalle ja
+siellä olikin nauhoitus, johon pyydettiin sanelemaan henkilötiedot, henkilötunnukset, ni-
+met ja aihe, syy lääkäriin, miksi perutte sen ajan. Henkilö huolestui, että mitä ihmettä, minä
+sanelen sinne nauhalle tietoni, millä tavalla niitä käsitellään. Ja siitä sitten olin yhteydessä
+ja tiedustelin, voidaanko tällä tavalla toimia. No, kyllä voidaan. Mutta hyvin tärkeää on,
+että ihmiset tietävät, mihin heidän tietojaan käytetään ja kuka esimerkiksi ja kuinka kauan
+tällaista nauhaa mahdollisesti kuunnellaan. No, ajatus on se, että nauhoitus pitää tuhota hy-
+vin nopeasti ja sitä voi kuunnella vain tietty henkilö.
+
+Ihminen kun sairastaa, niin hän on yleensä heikoimmillaan eikä ymmärrä, mitä kaikkia
+tietoja kysytään ja missä niitä käsitellään. On hyvin tärkeää, että sairaalassa, terveysase-
+milla, apteekissa, siellä missä asioidaan ja ihminen kertoo asioitaan, tietosalaisuus ja tieto-
+turva säilyy ja myös henkilötiedot. Tämä on mielestäni edelleen, tämä on semmoista ruo-
+honjuuritason asiaa, johon pitää kiinnittää huomiota myös tulevissa lainsäädännöissä, eri-
+tyisesti sotessa. Meillä on myös Apotit sun muut täällä pääkaupunkiseudulla, niin on erit-
+täin tärkeää sähköisiä palveluja kehitettäessä, millä tavalla tieto siellä kulkee ja onko kaik-
+ki varmasti oikein turvattua.
+
+13.17 Timo Heinonen kok: Arvoisa rouva puhemies! Edustaja Mäkisalo-Ropponen piti
+erinomaisen hyvän ensimmäisen puheenvuoron ja kävi tämän asian hyviä puolia ja toisaal-
+ta myös huolia laajasti läpi, kiitos siitä.
+
+Tässä erinomaisessa toimintakertomuksessa on hyviä huomioita muun muassa positiivi-
+sesta luottorekisteristä ja muutamista muista asioista. Tiedonsaanti kaiken kaikkiaan on
+toisaalta sitten sellainen kysymys, minkä pitäisi taas monessa kohdassa toimia hyvin, ja
+toisaalta, niin kuin tietosuojavaltuutettu Reijo Aarnio on todennut, paljon on myös siitä
+kiinni, millä tavalla näitä asioita meidän kansalliseen lainsäädäntöön tuodaan ja minkälai-
+seksi lain tulkinta lopulta muotoutuu. Meillähän on Suomessa käyty keskustelua esimer-
+kiksi siitä, pitääkö kerrostalojen rappukäytävistä tämän myötä poistaa esimerkiksi ihmis-
+ten nimet. Tähän tietosuojavaltuutettu on todennut, että näin ei tarvitse toimia, mutta toi-
+saalta niinkin yksinkertaisesta asiasta kuin saunavuorolistoista hän on todennut, että se on
+tyypillinen tulkintakysymys, ja hänen mukaansa tätä pitää edelleen selvittää.
+
+Eli oikeastaan tämä oma puheenvuoroni on huoli siitä, että tämä sinänsä hyvä asia ei vei-
+si asiaa aivan älyttömiin tulkintoihin. Yhtenä esimerkkinä vaikkapa se, että meillä on ollut
+vuosikymmenten perinne, että kouluissa otetaan koulukuvia, ja nythän Ruotsissa tämän
+vastaavan EU:n tietosuojauudistuksen takia monet koulut ovat joutuneet lopettamaan
+nämä koulukuvaukset eli enää ei kouluissa oteta koulukuvauksia — ne ovat siis vapaaeh-
+toisia Suomessa. Itse toivon, että meillä ei vietäisi tätä tulkintaa aivan tällaiseen toiseen ää-
+ripäähän vaan käytettäisiin sitä kuuluisaa maalaisjärkeä tämäntyyppisissä tilanteissa. Vaik-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 31/2019 vp
+kapa siinä, kun oman lapseni koulussa kun oli yleisurheilukilpailut, niin enää ei kuulemma
+tuloksia saanutkaan laittaa näkyviin koulun seinälle vaan ne olivat mapissa ja sieltä piti
+käydä katsomassa. Elikkä se mappi oli kuitenkin jollain tavalla hyväksyttävämpi kuin se,
+että ne tulokset olisivat olleet vuosikymmenten perinteen mukaan siellä seinällä ja lapset
+olisivat voineet niitä katsoa — itse en koskaan niille listoille päässyt, olin niin huono lii-
+kunnassa ja urheilussa, eikä se minua silloin loukannut, ja en usko, että se tänäkään päivä-
+nä näin toimisi.
+
+Toivon, että tällainen maalaisjärjen käyttö olisi jatkossa kouluissa, päiväkodeissa ja
+muissa hyväksyttyä ja sallittua mutta että samaan aikaan huolehditaan näistä tietoturvaky-
+symyksistä, joihin omissa puheenvuoroissaan esimerkiksi edustaja Juvonen erinomaisella
+tavalla ja myös Mäkisalo-Ropponen huolta ottivat.
+
+13.20 Päivi Räsänen kd: Arvoisa puhemies! Yhä suurempi osa terveydenhuollon potilas-
+tiedoista tallennetaan valtakunnallisiin järjestelmiin, mikä on tietenkin käytännöllistä ja
+hyödyllistä monella tavoin. Tässä viime vuosina on nimenomaan terveysdataa koskevaa
+lainsäädäntöä kehitetty voimakkaasti ja pyritty huolehtimaan myös siitä, että tietoturvalli-
+suus säilyisi ja valvonta olisi riittävän tiukkaa.
+
+Nostan kuitenkin esiin sen huolen, että kokemus kertoo tietoturvan haavoittuvuudesta,
+eli voi myös vuotaa vahingossa, voi vuotaa inhimillisen virheen vuoksi, kuten olemme
+Suomessakin muun muassa eräässä THL:n tapauksessa nähneet. Myös ulkomailta tiede-
+tään, että esimerkiksi anonyymissä Tor-verkossa Yhdysvaltain länsirannikon sairaaloiden
+potilaskertomuksia on saattanut ostaa 20 000 dollarilla kappale. Pelkästään tällaisten tieto-
+jen arvo olisi jopa 20 miljardin dollarin paikkeilla. Professori Lasse Lehtonen on kiinnittä-
+nyt huomiota siihen ja todennut, että potilastietoihin kohdistuu rikollista kiinnostusta myös
+Suomessa, ja tämä on otettava vakavasti.
+
+Sitten nostan ihan toisenlaisen näkökulman esiin. Valtakunnallisen Omakanta-palvelun
+osalta noudatetaan kymmenen vuoden ikärajaa tietojen näyttämisessä vanhemmille. Tästä
+esimerkiksi itse sain yhteydenoton vanhemmalta, jonka lapsi sairastaa masennusta. Hän
+piti ongelmallisena sitä, että tällaisen kymmenen vuotta täyttäneen lapsen kohdalla van-
+hemmat eivät itse pääse Omakantaan esimerkiksi lääkitystietoja katsomaan. Kymmenen-
+vuotias ei kyllä vielä ole kypsä itse päättämään terveysasioistaan, eivätkä kaikki tämäni-
+käiset osaa edes varata lääkäriaikaa itselleen, joten ajattelen — tämä ei ole tietenkään tie-
+tosuojavaltuutetun päätöksenteon alaisuudessa vaan nimenomaan tämän talon päätöksen-
+teon — että mielestäni tässä suhteessa pitäisi kyllä jonkinlainen järkevä linja löytää.
+
+13.23 Outi Alanko-Kahiluoto vihr: Arvoisa puhemies! Täällä on käyty hyvää keskuste-
+lua tästä viime kaudella käsitellystä ja hyväksytystä toisiolaista, ja halusin itsekin osallis-
+tua tähän keskusteluun, kun viime kaudella tosiaankin sosiaali- ja terveysvaliokunnassa
+itse olin jäsenenä.
+
+Täytyy sanoa, että vaikka toisiolaki meni viime kaudella läpi, niin kyllä siihen jäi monia
+semmoisia tietosuojaan liittyviä ongelmia, jotka jäivät itseäni vaivaamaan, esimerkiksi se,
+että riskien hallinta oli käsitelty tämän lain valmistelun yhteydessä erittäin puutteellisesti.
+Samoin itseäni jäi vaivaamaan kysymys anonymisoimisesta; meillä ei ole mielestäni riittä-
+viä takeita siitä, etteikö näitä potilas- ja henkilötietoja voitaisi purkaa myöhemmin. Mie-
+lestäni tätä toisiolakia, nyt kun se kerran on tässä talossa hyväksytty, olisikin syytä seurata
+5
+
+
+
+Pöytäkirjan asiakohta PTK 31/2019 vp
+ja myöskin olla tietoinen siitä, riittävätkö valvovan viranomaisen resurssit tämän lain seu-
+raamiseen ja onko sitä mahdollisesti syytä täydentää tai muuttaa tulevina vuosina.
+
+Tosiaankin jäi mieleen se, että tämän lain valiokuntakäsittelyn aikana sitä toistuvasti
+vielä täydennettiin, ja itselleni kyllä jäi täydellisesti hämärän peittoon se, voiko tässä talos-
+sa itse asiassa kukaan luottaa siihen lakiin tai tietää, mitä siitä loppujen lopuksi seuraa. Se
+on ehkä minun kansanedustajaurani aikana ollut kaikkein vaikeaselkoisin laki, haasteelli-
+sin laki, jonka säätämistä itse olen ollut seuraamassa eduskunnassa. — Kiitos.
+
+13.25 Paula Risikko kok: Arvoisa puhemies! Tietosuojahan on meidän kaikkien par-
+haaksi tehty. Olen itse aina toiminut sellaisilla aloilla, joissa tietosuojalla on ollut suuri
+merkitys ja hyvin pilkuntarkasti on pitänyt sitä noudattaa. Kannatan ehdottomasti tietosuo-
+jaa ja toivonkin, että Suomi pysyy tällaisena mallimaana.
+
+Mutta on tapahtunut myöskin semmoista, juuri tulkinnasta johtuen, että on vääriä ym-
+märryksiä siitä, mikä on tietosuojan piirissä. Toisaalta taas, vaikka me aina sanomme, että
+mikään laki ei estä auttamasta, niin kun olen paljon keskustellut tietosuojavaltuutetun
+kanssa, niin on meillä myös vääriä ymmärryksiä siitä, mitä pitää noudattaa ja mitä ei. Otan
+nyt esimerkin, missä me tarvitsisimme sitä tietojenvälitystä: nuorten syrjäytyminen. Me
+tarvitsemme nimenomaan moniammatillista tiimiä nuoren parhaaksi, ja pahimmassa ta-
+pauksessa voidaan sanoa, että en voi antaa niitä tietoja, kun tietosuoja estää sen. Kun se tie-
+to ei kulje riittävästi näiden viranomaisten välillä, niin miten me voimme ajatella, että me
+pystymme auttamaan syrjäytyneitä nuoria tai pystymme estämään syrjäytymistä? Ja siitä
+syystä toivoisin, että me enemmän keskustelisimme. Silloin kun olin sisäministerinä, niin
+kävin ihan tietosuojavaltuutetun kanssa tällaisen keskustelun, kun meillä oli sellaisia hen-
+kilöitä, jotka olivat esimerkiksi pakkohoidossa, ja kun he sitten pääsivät sieltä pois: miten
+se tieto liikkui ja miten esimerkiksi terveydenhuoltohenkilöstö pystyisi antamaan poliisille
+tietoja joissain tilanteissa, jos ihminen on vaarallinen itselleen tai muille? Nämä ovat sel-
+laisia asioita, joita pitäisi pohtia vähän pidemmälle. Tietosuojavaltuutettu minulle sanoi,
+että tässä on vääriäkin tulkintoja. Ja toivon, että edelleen tällaista moniammatillisen yhteis-
+työn mahdollisuutta jatketaan, koska me tarvitsemme sitä.
+
+Sitten pari tällaista evästystä tähän loppuun itse asiassa eduskunnallekin, että näissä pe-
+rehdytysohjelmissa kannattaisi tästä tietosuojasta olla ihan oma luentonsa, koska täällä
+liikkuu paljon sellaista tietoa ja sinä voit vahingossa sanoa jotain sellaista, mikä onkin tie-
+tosuojan piirissä. Ja sitten kaikki nämä kansalaisyhteydenotot ja kaikki liittyen valtakirjoi-
+hin ja kaikkiin olisi hyvä käydä esimerkiksi avustajien ja edustajien kanssa läpi. Ja toinen
+toivomukseni on, että puhemiesneuvosto, jota itsekin edustan täällä, vielä kerran pohtisi,
+ketkä ovat täällä salissa, koska kun joka ikinen valiokunta kuulisi valtuutettua — kun se
+tietosuoja kuuluu kaikille valiokunnille — niin siinähän tämän yhden valtuutetun aika me-
+nee, eli voisiko ajatella, että hän sittenkin olisi täällä ja me saisimme vuorovaikutteisesti
+keskustella.
+
+13.28 Ari Torniainen kesk: Arvoisa rouva puhemies! Tässä on käyty hyvää keskustelua
+Tietosuojavaltuutetun toimiston toimintakertomuksesta. Kertomus on todellakin mielen-
+kiintoinen lukea, ja tässä on tullut hyviä näkemyksiä. Itsekin olisin kyllä toivonut, että tie-
+tosuojavaltuutettu olisi voinut olla tässä istunnossa läsnä ja hänelle olisi voinut esittää
+myöskin kysymyksiä. Se olisi hyvä. Toivottavasti näin voidaan jatkossa edetä.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 31/2019 vp
+Meistä kaikista on varmaankin hyvin paljon erilaista tietoa erilaisissa sähköisissä tiedos-
+toissa, ja kuka oikeastaan tietää, mitä kaikkea niissä tiedostoissa onkaan ja mihin niitä käy-
+tetään ja millä tavalla niiden erilaisten tiedostojen tietoturva on järjestetty. Se on suuri ky-
+symys. Uskon, että tästä asiasta tullaan myöskin jatkossa keskustelemaan erilaisissa ins-
+tansseissa yhä enemmän.
+
+Avoimet rajapinnat on semmoinen iso asia, josta myöskin viime kaudella ollaan keskus-
+teltu paljon. Kun uusia lakeja säädetään, niin niissähän halutaan avata rajapintoja avoi-
+memmaksi. Erilaiset järjestöt, erilaiset yhteydet, erilaiset hallintoelimet pystyvät tavallaan
+käyttämään samoja tiedostoja ja ottamaan ainoastaan osan niistä. Avoimissa rajapinnoissa
+on semmoinen iso kysymys, miten pystytään varmistamaan, että siellä käytetään oikeaa
+tietoa.
+
+Suomea pidetään todellakin digitalisaation ja tietoyhteiskunnan johtavana maana Eu-
+roopassa ja miksei koko maailmassa. Kuten edustaja Aittakumpu tuossa omassa puheen-
+vuorossaan toi esille, niin kun liikenne- ja viestintävaliokunta tällä viikolla vieraili Saksas-
+sa, niin siellä vastinvaliokunnan henkilöt kysyivät nimenomaan, että miten Suomessa on
+tietosuoja järjestetty erilaisissa laeissa. Se kiinnosti heitä ennen kaikkea.
+
+Myöskin tiedon liikkuvuus on meillä sähköisessä muodossa, ja tieto liikkuu erittäin no-
+peasti. Tietysti kännyköitä ja tietokoneita pystytään seuraamaan hyvinkin tarkkaan ja sitä,
+mitä tietoa niissä kaiken kaikkiaan on. Itse uskon, että me palaamme vielä monesti tähän, ja
+toivottavasti myöskin tietosuojavaltuutetun resursseja pystytään lisäämään, sillä uskon,
+että heidän työtaakkansa on todellakin iso myös tulevaisuudessa.
+
+Ensimmäinen varapuhemies Tuula Haatainen: Meillä on aikataulu: kello on 13.30, ja
+suuren valiokunnan kokouksen pitäisi päästä alkamaan. Täällä on nyt neljä puheenvuoroa,
+Purra, Niemi, Aittakumpu, Tanus, joten kysyn, haluatteko pitää ne minuutin mittaisina
+vastauspuheenvuoroina tässä istunnossa. Muussa tapauksessa me jatkamme ensi viikolla
+tätä keskustelua. Jos vaikka nousette seisomaan, jos haluatte pitää nyt minuutin mittaisen,
+nimenomaan Purra, Niemi, Aittakumpu, Tanus. [Purra, Niemi, Aittakumpu ja Tanus nou-
+sevat seisomaan] — Kaikki, eli mennään 1 minuutin puheenvuoroilla.
+
+13.31 Riikka Purra ps (vastauspuheenvuoro): Arvoisa puhemies! Kuten edustaja Heino-
+nen hyvin kuvasi, olemme kuulleet taloyhtiöistä, jotka eivät pane saunavuorolistoja rappu-
+käytäviin varaajien nimellä varustettuina, toisaalta urheilujoukkueista, jotka eivät uskalla
+asettaa printattuja pelaajalistoja esille. Toisaalta monet ruotsalaiskoulut ovat lopettaneet
+oppilaiden koulukuvaukset ja opettajilla on näihin liittyen liikaa hallinnollista työtä. Myös
+täällä Suomessa kaikki vanhemmat, joilla on lapsia kouluissa tai päiväkodeissa, täyttävät
+näitä lappuja vuosittain lukuisia. Toivon itse, että tiedot kirjaavan tietosuojavastaavan ei
+samaan aikaan tarvitse huolehtia opettamisesta, mutta pahoin pelkään. Irlannissa on kiin-
+teistövirasto määrännyt vieraskirjat poistettaviksi hallinnoimistaan turistikohteista. Näitä
+tällaisia ylilyöntejä on paljon. Samaten lukio sai tuntuvat sakot tietosuojan rikkomisesta,
+kun se alkoi seurata oppilaiden poissaoloa kasvojentunnistuksen avulla. Se sai isot sakot,
+vaikka tämä oli vanhempien hyväksymä toimintatapa ja sen piti helpottaa opettajien työtä.
+
+Mutta kiitoksia tästä tietosuojavaltuutetun toimintakertomuksesta. Nyt en ehtinyt puut-
+tua muihin asioihin. — Kiitos.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 31/2019 vp
+13.33 Veijo Niemi ps (vastauspuheenvuoro): Arvoisa puhemies! Poliisitaustaisena kan-
+sanedustajana haluan kiinnittää huomiota tänä päivänä siihen, että monilla vanhoilla polii-
+siasemilla — itsekin toimin lupapalveluissa päätöksentekijänä — on se tilanne, että on iso
+aukea lupapalveluaula, jossa ihmiset istuvat keskellä aulaa odottamassa vuoroaan. Ja tänä
+päivänä, kun kansalainen hakee henkilökorttia tai passia, häneltä kysytään hyvin perusteel-
+lisia tietoja: sukulaissuhteita, osoitteita, aikaisempia osoitteita, henkilötietoja. Halutessaan
+vuoroaan odottava henkilö voi aivan rauhassa kirjoittaa tämän toisen ihmisen tietoja ylös,
+elikkä kiireesti täytyisi saada näille vanhoille poliisiasemille tällaiset lupapalvelukopit,
+joista toisten tiedot eivät leviä näille muille ihmisille. Tämmöinen tiedoksi.
+
+13.33 Pekka Aittakumpu kesk (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Rä-
+sänen nosti tärkeän asian esille, lapsen tietojen saannin Omakanta-palvelusta, ja siitä asias-
+ta edustaja Ronkainen on vastikään tehnyt hyvän kirjallisen kysymyksen ja saanut minis-
+teriltä vastauksen, että asia tulee korjaantumaan ensi vuoden puolella. On hyvä, että tähän
+asiaan on tartuttu ja se tulee muuttumaan, jotta vanhemmat saavat alaikäisen lapsensa tie-
+dot tarvittaessa.
+
+13.34 Sari Tanus kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Tietosuoja on erit-
+täin tärkeä, mutta niin kuin tässä on monen kansanedustajan suulla tullut esiin, niin näitä
+ylilyöntejä ja ei vain hiusten halkomista vaan moneen osaan pilkkomista on todella. Toi-
+voisin, että tässä valtakunnassa niihin asioihin puututtaisiin, koska oikeasti se voi hanka-
+loittaa käytännön asioiden huolehtimista eikä suinkaan vähäisemmässä määrin siellä ter-
+veydenhuollossa. Ja aivan niin kuin tässä tuli esille edellisessä puheenvuorossa, niin onhan
+se edesvastuutonta, jos 10-vuotiaan tai sitä vanhemman lapsen tietoja eivät vanhemmat saa
+tietää. Minä näen, että siinä laiminlyödään lapsesta huolehtimista. Toivon mukaan siihen
+tulee pikaisesti muutos.
+
+Mutta yksi asia, mitä tässä ei ole nostettu vielä esiin: minulla on huoli siitä, että jos esi-
+merkiksi Kanta-palveluun kirjataan — esimerkiksi nuoret terveydenhuollon ammattilaiset
+— epäily jostakin diagnoosista tai tilasta ja se tuleekin sinne merkattuna ikään kuin diag-
+noosi olisi todistettu, tai joku muu asia jää sinne virheellisenä, niin tänä päivänä on erittäin
+vaikea potilaiden, asiakkaiden saada korjattua niitä tietoja. Toivoisin, että tähänkin kiinni-
+tetään huomiota.
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan.
+8
+
+

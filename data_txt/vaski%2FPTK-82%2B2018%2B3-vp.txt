@@ -1,0 +1,1407 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM60F.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 82/2018 vp
+
+Täysistunto
+
+Keskiviikko 12.9.2018 klo 14.00—15.57
+
+3. Hallituksen esitys eduskunnalle  raideliikennelaiksi ja laiksi liikenteen palveluista anne-
+tun lain muuttamisesta
+
+Hallituksen esitys HE 105/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 3. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävaliokuntaan.
+
+Keskustelu
+
+14.01 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa rou-
+va puhemies! Hallituksen esityksellä pannaan kansallisesti täytäntöön EU:n neljäs rauta-
+tiepaketti ja samalla toteutetaan raideliikennelainsäädännön kokonaisuudistus. EU:n nel-
+jäs rautatiepaketti koostuu kuudesta EU-säädöksestä, jotka Euroopan parlamentti ja neu-
+vosto hyväksyivät 2016. EU:n jäsenvaltioiden pitää panna kansallisesti täytäntöön EU-sää-
+dökset niin, että rautatiemarkkinoita koskevat vaatimukset tulevat voimaan viimeistään
+vuoden 2019 alusta alkaen ja tekniset vaatimukset viimeistään kesäkuussa 2019. Näistä
+syistä uuden raideliikennelain esitetään tulevan voimaan vuoden 2019 alusta alkaen.
+
+Hallituksen esityksen keskeisiä muutoksia voimassa olevaan sääntelyyn verrattuna: 
+Rataverkon haltijan on sisällytettävä joulukuussa 2019 julkistettavaan verkkoselostuk-
+
+seen ne järjestelyt, joita tarvitaan, että kaikille rautatieyrityksille olisi yhtäläiset edellytyk-
+set saada ratakapasiteettia ja rataverkon käyttöoikeus rautatieliikenteen henkilöliikenne-
+palvelujen tarjontaa varten joulukuussa 2020 alkavaa aikataulukautta varten. Toimivaltai-
+sen viranomaisen tulisi suorahankinnan sijasta kilpailuttaa rautateiden henkilöliikenteen
+julkisen palveluvelvoitteen sisältävät ja julkisista varoista tuettavat uudet rautateiden hen-
+kilöliikenteen sopimusjärjestelyt viimeistään joulukuusta 2023 lähtien. Ennen 3. joulukuu-
+ta 2019 tehdyt julkisen palveluvelvoitteen sisältävät sopimusjärjestelyt voisivat olla voi-
+massa siihen asti, kun niistä on sovittu.
+
+Rautatieliikenteen harjoittamisen ja rataverkon hallintaan liittyvät vastuut, tehtävät ja
+näiden valvonta on eriytettävä riittävällä tavalla, jotta kaikille rautatieyrityksille turvataan
+tasapuolinen pääsy rataverkolle. Rautatiealan sääntelyelimen roolia vahvistetaan rautatie-
+markkinoiden valvonnassa. Rautatieliikenteen harjoittajalta edellytettävää turvallisuusto-
+distusta ja markkinoillesaattamislupaa on jatkossa haettava EU:n rautatievirastolta aina
+useamman EU:n jäsenvaltion alueella tapahtuvaa liikennettä varten, ja vain yhden jäsen-
+valtion sisällä tapahtuvaa liikennettä varten lupa voidaan hakea joko EU-virastolta tai kan-
+salliselta turvallisuusviranomaiselta. Yksityisraiteen haltijoiden hallinnollista taakkaa ke-
+vennetään tarjoamalla mahdollisuus EU-vaatimuksia keveämpään kansalliseen ilmoitus-
+menettelyyn ja rataverkolla käytettävän kaluston käyttöönottolupamenettelyyn. 
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+Korostaisin, että rautatielainsäädäntö perustuu pääosin EU-lainsäädäntöön, jolloin eh-
+dotettu raideliikennelaki ei sisällä kansallisia lisiä, mutta kun on mahdollisuus kansallises-
+ti tarjota EU-lainsäädäntöä keveämpiä hallinnollisia ratkaisuja, silloin ne on hallituksen
+esityksessä käytetty hyväksi. Hallituksen esitykseen ei siten sisälly mitään sellaista, joka
+asettaisi lisävelvoitteita suhteessa EU-lainsäädäntöön taikka hallituksen aikaisemmin hy-
+väksymään ja esittelemään kansalliseen suunnitelmaan kotimaan rautateiden henkilölii-
+kennepalveluiden avaamisesta kilpailulle. Ehdotettu raideliikennelaki kumoaa voimaan
+tultuaan voimassa olevan rautatielain ja kaupunkiraideliikennelain. — Kiitoksia. 
+
+Puhemies Paula Risikko: Sitten mennään puhujalistalle.
+
+14.04 Jari Myllykoski vas: Arvoisa rouva puhemies! Tämä vaalikausi on liikenteen osal-
+ta ollut melkoista myllerrystä, voisi sanoa, ja uusien tuulien sisään tulemista. On tehty laki
+liikenteen palveluista, virastorakenne uudistetaan, toimintoja yhtiöitetään. Toiset muutok-
+set ovat olleet onnistuneempia ja toiset, voisin sanoa, hyvin huonoja. Ihan kaikki ideat ei-
+vät onneksi ole edenneet eduskuntaan saakka.
+
+Ministeri Berneriä haluan kiittää parlamentaarisen liikenneverkkoryhmän toiminnasta.
+Sellaista valmistelua saisi olla enemmänkin koko eduskuntatyöskentelyssä.
+
+Nyt aloitamme käsittelyn hallituksen esityksestä raideliikennelaiksi eli EU:n neljännen
+rautatiepaketin täytäntöönpanosta. Tämä on todella isoa asia, vaikka esitys aluksi näyttää-
+kin vain tekniseltä.
+
+Minua huolestuttaa tässä esityksessä muutama asia. Toivon, että saamme valiokunnassa
+työrauhan lain käsittelyyn, ja toivon myös, että hallituspuolueet ovat valmiita muokkaa-
+maan esitystä, mikäli asiantuntijakuulemisissa sille nähdään tarvetta. Suurin huoli liittyy
+henkilöliikenteen kilpailuttamiseen. Sipilän hallitus on toistuvasti käyttänyt EU:ta teko-
+syynä edistää omia ideologisia tavoitteitaan. Ensin yhtiöitettiin Metsähallitus, vaikka EU
+ei sitä vaatinut. Sitten luotiin hallintarekisteri, vaikka EU ei sitäkään vaatinut. Ja nyt Sipi-
+län hallitus haluaa tuoda pikavauhtia ulkomaalaiset junayhtiöt Suomen raiteille, vaikka EU
+ei sitä vaadi. Haluankin, että valiokunnassa käymme tarkasti läpi, mitä neljäs rautatiepa-
+ketti oikeasti vaatii.
+
+Tekniset kysymykset rautatieturvallisuudesta ja yhteentoimivuudesta laitettiin meillä
+kuntoon jo viime kaudella ministeri Kyllösen johdolla. Rautatiepaketti ei kuitenkaan vel-
+voita kilpailuttamaan kiireellä, vaan paketti sallii suoraharkinnan jatkamisen esimerkiksi
+palvelun kattavuuden ja laadun varmistuksiin liittyvistä syistä. Kattavuus ja laatu sopivat
+minun nähdäkseni erinomaisesti Suomen pitkiin etäisyyksiin eikä ole mitään syytä, miksi
+nykyisiä sopimuksia ei voitaisi pitää voimassa niiden loppuun saakka.
+
+Arvoisa rouva puhemies! Parlamentaarikko Kyllönen teki tänään kirjallisen kysymyk-
+sen komissaarille liittyen suoraharkinnasta luopumiseen. Toivottavasti komissaarin vas-
+taus saadaan myös valiokunnan käsittelyyn.
+
+Huolestuttavaa on myös se, että VR:n pilkkomista ja yhtiöittämistä valmistellaan täyttä
+häkää työryhmissä, vaikka asiaa ei ole käsitelty eduskunnassa lainkaan. VR:stä irrotettava
+kalustoyhtiön ansaintalogiikka on edelleen hämärän peitossa. Mitä vapaata kilpailua on
+sellainen, että raideliikenteen pörriäiset saavat tulla ilman kalustoriskiä ajamaan veron-
+maksajien kustantamilla raiteilla, veronmaksajien kustantamilla vetureilla ja vaunuilla?
+Kaiken kukkuraksi arvioiden mukaan liikenteen yksityistäminen ei edes laskisi lippujen
+hintoja kuin vain aivan suosituimmilla ratayhteyksillä. Suurin osa Suomesta saisi nauttia
+2
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+kohonneista lippujen hinnoista. Suomen raideliikenteen parantaminen ei ratkea ideologi-
+sella kilpailutuksella. Liikennöitsijällä ei ole mitään merkitystä, jos rataverkosto ei ole
+kunnossa. Sekä julkinen että yksityinen toimija voivat hoitaa liikennepalveluita hyvin tai
+huonosti, mutta se on varmaa, että ulkomaalainen junayhtiö ottaa omansa lippujen hinnois-
+ta ja vie voitot Suomen rajojen ulkopuolelle.
+
+Raideliikenteen yhteyksiä, nopeutta ja luotettavuutta pitää parantaa. Näitä ongelmia ei
+ratkaise se, onko liikennöitsijä yksityinen vai julkinen toimija. Selvityksen mukaan kilpai-
+lutus ei tuo hyötyjä ilman kunnollisia investointeja ratojen pullonkauloihin. Tämän takia
+on hyvä, että parlamentaarinen liikenneverkkotyöryhmä valmistelee yli vaalikausien ulot-
+tuvaa rahoitussuunnitelmaa ja sen laadintaa. On syytä ottaa rauhallisesti. Liikenteessä ei
+tarvitse olla ylinopeutta eikä tällä työllä kiirettä. Meidän pitää liikenne- ja viestintävalio-
+kunnassa käydä tämä lakiesitys läpi huolellisesti ja myös selvittää kunnolla EU-vaatimuk-
+set. Ja syvä toiveeni on, että hallituspuolueet ovat yhteistyökykyisiä, kun lähdemme tätä
+asiaa käsittelemään. Meillä oppositiossa ei ole käsijarru päällä. Me toivomme kuitenkin
+maltillista ja rakentavaa keskustelua.
+
+Puhemies Paula Risikko:  Otetaan tähän debatti. Ajattelen myöskin ministerin aikatau-
+lua, niin että nyt on varmasti hyvä saada kaikki evästykset liikkeelle. Ja nyt pyydän teitä,
+jotka haluatte osallistua tähän debattiin, painamaan V-painiketta ja nousemaan seisomaan.
+— Edustaja Rossi aloittaa.
+
+14.12 Markku Rossi kesk (vastauspuheenvuoro): Kiitos, arvoisa rouva puhemies! Kiitos
+edustajalle myös maltillisesta puheenvuorosta, vaikka se ansaitseekin kyllä muutaman
+kriittisen arvion. Koko tätä raideliikenteen kilpailun avaamista Suomessa on valmisteltu
+parisenkymmentä vuotta, eli ei tässä kovin kiireestä voi sanoa olevan millään lailla kysy-
+mys. Miten se sitten näkyy meillä ensi vuosikymmenellä? Totta kai Valtionrautateillä,
+VR:llä, on keskeinen rooli tulevaisuudessakin, mutta yhtä kaikki tällä avataan myös mah-
+dollisuus kotimaisille yrityksille, eikä ole ajatus, että tällä avataan nyt sitten rautatiet ulko-
+maisille yhtiöille.
+
+Jos ei ole kilpailua, niin kuluttajat siitä lopuksi näyttävät ainakin liikenteen puolella
+maksavan. Tämä näkyy muun muassa Finnairin lippuhinnoittelussa, tämä näkyy kauko-
+matkojen bussihinnoittelussa. Tietyt yhtiöt, jotka ovat tulleet kilpailemaan, ovat myös sit-
+ten aikaansaaneet selkeää laskua, ja tavallaan paradoksi on se, että VR:n kannattavuus on
+parantunut sen jälkeen, kun lippujen hinnat ovat laskeneet, eli junat [Puhemies koputtaa]
+ovat täynnä. Tässä suhteessa, [Puhemies: Aika!] arvoisa puhemies, kyllä tätä esitystä edus-
+kunnan pitää tutkia ja viedä eteenpäin.
+
+14.13 Ari Jalonen sin (vastauspuheenvuoro): Arvoisa puhemies! Tämä on tosiaan EU-di-
+rektiivien täytäntöönpanoa, ja siinä on jonkin verran liikkumavaraa, mutta ei kovin paljon.
+Voisitteko valottaa vähän sitä, missä voisi olla liikkumavaraa, missä ei, että saadaan poh-
+jalle semmoinen tukeva pohja?
+
+Toinen asia, mitä pohdin: Meillähän oma raideleveytemme on erilainen kuin mikä on
+muussa Manner-Euroopassa. Eihän tämä riskeeraa sitä poikkeusta, minkä me olemme saa-
+neet TEN-T-verkkoihin? Eihän tällä ole mitään riskitekijöitä tämmöiseen isoon asiaan,
+mikä täällä taustalla on?
+3
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+Ja vielä kolmanneksi: Meillä on kalustoyhtiö jo olemassa. Onko se kalustoyhtiö joten-
+kin mahdollistava tähän meidän omaan raideleveyteemme suhteessa nelosrautatiepaket-
+tiin?
+
+14.14 Jani Mäkelä ps (vastauspuheenvuoro):  Arvoisa puhemies! Tilasto näissä liiken-
+teen kilpailutuksissa ja vapautumisessa ei ole mitenkään hyvä. Taksiliikenteen vapautus,
+jota meidän siis ei olisi ollut pakko tehdä, on nyt siinä tilassa, ettei kukaan enää kysy, oliko
+siitä jotain hyötyä, vaan lähinnä kaikki pelkäävät siitä koituvia haittoja ja niitä korjataan.
+Bussiliikenteen vapautuskaan ei ole johtanut mihinkään erityisen hyvään. Se on aiheutta-
+nut saatavuusongelmia linja-autoliikenteeseen eri puolille maata. Kuitenkaan tämä rauta-
+tieliikenteen vapauttaminen ei ole yhteismitallinen bussiliikenteen kanssa johtuen siitä,
+että raidekapasiteetti on rajallinen ja tulee huoli siitä, kuka investoi jatkossa raideverk-
+koon, kenen toimesta ja kenen rahoilla sinne investoidaan ja kuka siitä odottaa saavansa
+voittoa. 
+
+Perussuomalaisten eduskuntaryhmä on jo vuosia sitten linjannut, ettei rautateiden hen-
+kilöliikennettä pidä Suomessa avata kilpailulle. Vaikka EU meidät nyt tähän pakottaisikin,
+niin mikään kiire tässä ei ole ja mahdollisimman vähän sitä pitää mielestäni avata. Pitää
+noudattaa Suomen kansallista etua tässä. 
+
+14.15 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Tässä laki-
+tekstissä on paljon perusteluita kilpailun avaamisesta ja yksityisten toimijoiden tuomista
+eduista Euroopassa. Näen aika ongelmalliseksi sen, että tässä verrataan suoraan harvalu-
+kuista Suomea, missä 90 prosenttia raiteista on yksiraiteisia. Miksi tässä lakitekstissä ei ole
+minkäännäköisiä esityksiä mahdollisista haittavaikutuksista, joita myös Euroopan alueella
+on esiintynyt?
+
+14.16 Sofia Vikman kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Kun puhutaan
+raideliikenteen toimivuudesta Suomessa, saati kilpailun avaamisesta raideliikenteessä tu-
+levaisuudessa, kaikista tärkein ja kiireellisin asia laittaa kuntoon on nyt pääradan riittävä
+raidekapasiteetti, erityisesti välillä Helsingistä Tampereelle. Pääradan ja samalla koko
+Suomen kannalta on aivan erityisen tärkeää, että tällä välillä on riittävästi kapasiteettia, sil-
+lä mitkään lait, säädökset, suunnitelmat paperilla, saati kilpailun avaaminen, eivät paranna
+palveluita, jos siellä raiteilla ei ole riittävästi tilaa ajaa korkeilla nopeuksilla pitkiä matkoja
+ja toisaalta palvella lähiliikenteessä tai lyhyemmillä matkoilla ja parantaa myös niitä pal-
+veluita. Hyvä, että hallitus on tehnyt kirjaukset tästä yhteyden kehittämisestä nopeammak-
+si ja riittävän kapasiteetin rakentamisesta. Kysyisin: miten hallitus nyt tällä kaudella vielä
+kiirehtii tätä niin, että suunnittelu saadaan valmiiksi, [Puhemies: Aika!] jotta seuraava hal-
+litus pääsee rakentamaan?
+
+14.17 Thomas Blomqvist r (vastauspuheenvuoro): Värderade fru talman! Det är säkert så
+här vi ska göra, att vi ska öppna spårtrafiken för konkurrens. Jag har ändå några frågor. Re-
+dan nu i dag vet vi att på kustbanan stannar alla tåg inte till exempel i Kyrkslätt, och då är
+min fråga: Hur ska vi i framtiden kunna trygga servicenivån när det blir flera konkurrenter?
+
+Haluan kysyä sitä, miten pystytään takaamaan se, että palvelutaso säilytetään ja sitä toivon
+mukaan myös parannetaan erityisesti vähemmän liikennöidyillä mutta silti yhteiskunnalli-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+sesti tärkeillä rataosuuksilla? Ja sitten toinen kysymys vielä, mikä minua askarruttaa, on
+tämä koordinointi sekä eri raideliikennetoimijoiden välillä että myös koko liikenneketjus-
+sa. Kuka sen koordinoinnin hoitaa? Miten on ajateltu?
+
+14.18 Katja Taimela sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Kyse on siis
+laajasta, lähes 200 pykälän hallituksen esityksestä, joka korvaisi paitsi nykyisen rautatie-
+lain myös 2016 annetun kaupunkiraideliikennelain.
+
+Uskallan ajatella tästä niin, että tässä on valiokunnassa arvioitavaksi useita teknisiä koh-
+tia lupa- ja valvontaviranomaisista ja eri lupien prosesseista. Mielenkiintoisimpia ovat rau-
+tatieliikenteen sääntelyelimen itsenäinen päätös- ja valvontavalta sekä ratakapasiteetin ja-
+kamisperiaatteet, niin kuin tässä salissa on jo esiin tullutkin.
+
+Raidekaluston osalta esityksessä ei ole muutoksia. LVM:n tiedustelu venäläisen puuta-
+varakaluston käytöstä Suomen sisäisessä liikenteessä ei näy laissa, vaan venäläinen kalus-
+to on rajattu vain rajan ylittävään liikenteeseen, kuten nytkin. Kiitän ministeriä erityisesti
+tästä harkinnasta. 
+
+Mutta niin kuin edustaja Kymäläinenkin täällä totesi, tähän esitykseen on kirjattu lukui-
+sa määrä perustelutekstiä kilpailun avaamisesta ja yksityisten toimijoiden eduista Euroo-
+passa. Miten ne ovat perusteltuja, kun me olemme Suomessa 90-prosenttisesti yksiraitei-
+sia? 
+
+14.19 Olavi Ala-Nissilä kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Voimme
+iloita siitä, että VR:n toiminta on tervehtynyt ja tehostunut tällä vaalikaudella ministeri
+Bernerin ollessa ministerinä — sehän ylihinnoitteli itseään ulos — ja samaten Finnairin,
+Finavian ja niin edelleen.
+
+Mutta eilen oli uutinen siitä, että Turku—Tampere—Helsinki-väylillä raideliikennettä
+halutaan tehostaa. Nähtiin se tärkeänä. Siis tunnin juna pääradalla on tärkeä, mutta kysyn-
+kin siitä, että jotta näistä saadaan hyötyä, niin seudullinen raideliikenne olisi hyvä saada
+toimimaan, myöskin se. Ei Turun tunnin junasta ole hyötyä, ellei seudullinen raideliikenne
+toimi. Onko mahdollista saada pilottihankkeita nyt tässä suhteessa, kokeiluja, miten kisko-
+bussit palaavat seutuliikenteeseen ja, kun työvoiman pitää liikkua, miten sillä tavalla saa-
+daan tehostettua toimintaa?
+
+14.20 Tom Packalén ps (vastauspuheenvuoro): Arvoisa rouva puhemies! Haluaisin ky-
+syä ministeriltä: onko pohdittu, että nämä kannattamattomat rataosuudet kilpailutettaisiin?
+Kannattaville rataosuuksille kyllä varmasti löytyy hakijoita, mutta kenen vastuulle jäävät
+kannattamattomat rataosuudet? Jäävätkö ne lopulta sitten veronmaksajien harteille?
+
+14.20 Harry Wallin sd (vastauspuheenvuoro):  Arvoisa puhemies! Tämä hallituksen esi-
+tys perustuu tähän neljänteen rautatiepakettiin, ja siinä on paljon teknisiä yksityiskohtia.
+Nyt tämä keskustelu on kääntynyt aika pitkälle taas siihen rautatiepoliittiseen keskuste-
+luun, mitä me kävimme jo viime keväänä, ja näin ollen voi todeta, että tavaraliikennehän
+on avattu kilpailulle jo vuonna 2007. Meillä on joitakin toimijoita, jotka palvelevat teolli-
+suutta, mutta mikä tulee olemaan henkilöliikenteen tulevaisuus? Siitähän on työryhmiä, ja
+sitä pohditaan, mutta voisiko ministeri tarkentaa, muistanko ihan väärin, että lähiliikenne-
+kalustosta on pääkaupunkiseudulla yhteisyhtiö HSL:n ja VR:n kanssa ja VR:llä on yksin-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+oikeus ajaa vuoteen 2023? En ole tästä ihan varma. Sen jälkeen tulevat nämä kunnat ja VR
+ja valtio pohtimaan, miten joukkoliikenne pääkaupunkiseudulla järjestetään.
+
+Se, mitä tapahtuu muualla maassa, on täysin auki, ja me kaikki tiedämme, että kannat-
+tava liikenne on täällä etelässä ja muualla se vaatii yhteiskunnan tukea, jolloin on ihan jär-
+kevää, että nyt rauhallisesti pohditaan, miten sen kanssa tehdään. Uskon, että VR hoitaa
+hyvin kaukoliikenteen, [Puhemies: Aika!] joka ei tällä hetkellä ole kannattavaa. 
+
+14.21 Simon Elo sin (vastauspuheenvuoro):  Arvoisa rouva puhemies! Puheenjohtamani
+VR:n hallintoneuvosto tyrmäsi selvin sanoin sen, mihin edustaja Taimela tässä aivan oi-
+kein viittasi, eli tämän venäläisen kaluston, tavaravaunujen käyttämisen Suomen sisäises-
+sä liikenteessä. Jatkossakin yhdysliikenteessä sitä totta kai käytetään, niin kuin Venäjän fe-
+deraation kanssa sopimus on. Mutta ei ole pelkoa siitä, että sitä sisäiseen liikenteeseen tu-
+lisi, ja tämä oli hyvä näkemys tähän esitykseen. 
+
+Mitä tulee sitten yleisesti tilanteeseen: Tässä edustaja Mäkelä esitti, että lippujen hinnat
+eivät olisi asiakkaille laskeneet esimerkiksi linja-autoliikenteen vapautuksesta. Olen tästä
+eri mieltä: lipunhinnat ovat laskeneet siitä huolimatta, että joitakin pelotti, että niin ei kä-
+visi. Tämä esityshän on varsin tekninen, mikä nyt on käsiteltävänä, mutta yleisesti ottaen
+voin todeta VR:n hallintoneuvoston puheenjohtajana, että olen tyytyväinen, että tämä kil-
+pailun vapauttaminen on tehty hyvässä yhteistyössä sekä VR:n että sen henkilöstön kans-
+sa, ja siinä mielessä on yhteinen näkemys siitä, että kun kilpailu avataan, niin se ei vaaran-
+na VR:n liikesalaisuuksia tai heikennä VR:n kilpailukykyä. Työntekijäosapuolikin on tä-
+hän ratkaisuun käsittääkseni varsin tyytyväinen. 
+
+14.23 Ilmari Nurminen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Itsekin suh-
+taudun vähän kriittisesti tähän kilpailun lisääntymiseen, koska me tiedämme, että meillä on
+hyvin paljon ostoliikennettä, eli miten se näillä harvaanasutuilla alueilla toimii? Ja kuten
+edustaja Kymäläinenkin toi esille, 90 prosenttia on yksiraiteista. 
+
+Mutta itse olisin kiinnostunut kuulemaan, ministeri, teidän näkemystänne nimenomaan
+pääradan kehittämisestä Helsinki—Tampere-välille. Meillähän on tavoitteena tunnin juna,
+ja tällä hetkellä meillä raidekapasiteetti on niin heikko, että nyt kun nopeuksia on pyritty li-
+säämään, juna periaatteessa menee jopa Hämeenlinnan ohi ja Akaan ja monen muun. Tämä
+ei ole kestävä ratkaisu tällä HHT-vyöhykkeellä. Eli millä aikavälillä ja millä toimenpiteillä
+nyt konkreettisesti me saamme nopeampia junayhteyksiä tälle välille, mutta kuitenkin niin,
+että se palvelee koko tämän väylän asukkaiden junaliikennetarvetta?
+
+14.24 Ari Torniainen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Tämän hallituk-
+sen esityksen tavoitteena on sääntelyn selkiyttäminen, hallinnollisten velvoitteiden keven-
+täminen ja myös markkinoiden toimivuuden parantaminen. Hallituksen esitys perustuu,
+niin kuin on tullut esille, pääosin EU-lainsäädäntöön. Tämä hallituksen esitys ei sisällä
+kansallisia lisiä, mutta missä on mahdollisuus kansallisesti tarjota EU-lainsäädäntöä ke-
+veämpiä hallinnollisia ratkaisuja, niin myöskin se on tässä hallituksen esityksessä otettu
+huomioon, ja toivotaan, että sitä myöskin noudatetaan ja otetaan esille.
+
+Mitä sitten on tullut täällä puheenvuoroissa esille raideverkostosta Suomessa, niin itse
+toivon, että tämän koko raideverkoston kehittämiseen paneudutaan, ja itse nostan esiin
+myöskin itäradan ja Kaakkois-, Itä- ja Pohjois-Suomeen suuntautuvan raideverkoston ke-
+hittämisen. Se on tärkeätä siellä myöskin elinkeinoelämälle. Ja tosiasia on, että rautatielii-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+kenteessä matkustajien määrä on lisääntynyt viime aikoina lippujen hintojen alenemisen
+takia ja junat ovat melko täysiä.
+
+14.25 Ville Tavio ps (vastauspuheenvuoro): Arvoisa puhemies! Se ei tässä sinänsä yllätä,
+että Suomen hallitus ottaa suoraan sen, mitä EU:lta saa, ja että Suomi hyväksyy kansalli-
+seen sääntelyyn puuttumisen EU:n toimin.
+
+Kuitenkin itsessään avoin kilpailu — ja reilu kilpailu — on kannatettava asia. Se on ai-
+van selvää. Mutta syy, minkä takia se on rataliikenteessä niin vaikeaa, on se, että ratainf-
+rastruktuurin, rataverkon ylläpidon maksaa valtio. Se ei ole koskaan kovin kannattavaa
+valtiollisen talouden näkökulmasta, ja tämä ongelma on tässä, että nyt VR:n pilkkominen
+on Sipilän hallituksen hyökkäys suomalaista raideliikennettä kohtaan. Hallintoneuvoston
+puheenjohtajana ollessani hallintoneuvostokin on sen todennut useasti, että Suomi on ver-
+tailussa laadultaan, täsmällisyydeltään ja kustannustehokkuudeltaan Euroopan huippu-
+luokkaa. On siksi hyvin surullista, että tämä tuhotaan ulkomaisten yritysten intressien
+vuoksi.
+
+14.26 Sanna Marin sd (vastauspuheenvuoro): Arvoisa puhemies! Raideliikenteen kehit-
+täminen on Suomen tulevaisuuden kannalta kriittinen kysymys. Sillä on iso merkitys niin
+meidän elinkeinojemme ja työllisyytemme kuin ilmastokysymystenkin näkökulmasta.
+Tämä nyt käsittelyssä oleva lakikokonaisuus on yksi osa tätä, mutta aivan kuten edustaja
+Nurminen aiemmin kysyi, myös minä olen erityisen huolissani siitä, miten me nyt varmis-
+tamme meidän pääverkkojemme kestävyyden ja toimintakyvyn tulevaisuudessa niin, että
+pääverkot, runkoverkot ovat toimivia.
+
+Haluaisinkin nyt tiedustella, miten te aiotte reagoida tähän tarpeeseen tämän pääradan
+osalta, erityisesti Helsinki—Tampere-välin osalta. Miljoonan rahoitus nyt tähän suunnitte-
+luun tuli, mutta sehän ei alkuunkaan riitä. Eli onko hallitus nyt jo valmis tekemään toimia
+sen eteen, että saadaan suunnitteluun se rahoitus, joka siihen tarvitaan? Tämähän hyödyt-
+tää ei vain Helsinki—Tampere-väliä vaan myös liikennettä Jyväskylään, Hämeenlinnaan,
+Vaasaan, Seinäjoelle ja pohjoiseen asti. Eli tämä on iso, iso kysymys.
+
+14.27 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Itsekin halusin tä-
+män puheenvuoron käyttää nimenomaan raidekapasiteettinäkökulmasta ja olisin myös ky-
+synyt pääradan kohtalosta. Siihenhän todella nyt on suunniteltu ensi vuoden budjettiin mil-
+joonan suunnitteluraha, mutta tietenkin tämä suunnittelu pitäisi saada hyvin joutuisasti
+käyntiin, ja siksi olisi hyvin perusteltua — koska tämä on kuitenkin vilkkain rataosuus
+koko Suomessa ja koko Suomi siitä hyötyy, laajasti eri maakunnat — tätä miljoonan suun-
+nittelurahaa aientaa jo tämän syksyn lisätalousarvioon, että päästäisiin nyt toimeen, ja sit-
+ten ensi vuoden talousarvioon varata jo hieman enemmän varsinaista suunnittelurahaa. Ja
+olisin myös tarkentanut ministerille: voisitteko tuoda esityksen siitä, että jo lisätalousarvi-
+ossa tämä suunnitteluraha otettaisiin tälle vuodelle käyttöön tässä erittäin merkittävässä,
+tärkeässä, koko Suomen pääratahankkeessa?
+
+14.28 Hannu Hoskonen kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! On ää-
+rimmäisen tärkeää huomata se, kun nyt pannaan tässä tätä Euroopan unionin direktiiviä
+täytäntöön — ei tässä sen kummemmasta asiasta ole kysymys, tämä salihan näitä hommia
+on tehnyt jo kaikki viime vuodet ihan aamusta iltaan, voisi sanoa — että tässä kuitenkin ol-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+laan lisäämässä liikennettä rautateille. Se on tietysti maantieliikenteen kannalta aina hyvä
+asia, kun raskas liikenne siirtyy rautapyörille. On pidettävä tietysti huoli myös, että... En
+näe siinä mitään riskiä, liiketaloudellista riskiä. Totta kai ne, jotka käyttävät rataa ja val-
+tion kalustoa, maksavat siitä vuokraa, se on itsestäänselvää. Eihän tämä ole mitään hyvän-
+tekeväisyyttä tai ilmaispalvelua, se kannattaa kaikkien kriitikkojen muistaa tässä asiassa, ja
+kun rautateillä liikenne lisääntyy, niin siitä kyllä Suomi hyötyy. Toivon hartaasti, että tässä
+valtiovalta tietenkin pitää sen kirkkaana mielessä, että varsinkin puukuljetusten kannalta
+nämä haja-asutusalueilla olevat yksittäiset radat siellä täällä pidetään liikenteessä, koska se
+säästää valtavasti maantieverkkoa.
+
+14.29 Leena Meri ps (vastauspuheenvuoro):  Arvoisa puhemies! Itse kuljen joka päivä
+päärataa tuolta Hyvinkäältä junan kanssa, ja olisin oikeastaan tästä keskustelusta innoittu-
+neena kysynyt, miten tämä voitaisiin mielekkäästi ajatella, jos ajatellaan, että pidettäisiin
+koko Suomi asuinkelpoisena, että tulisi vähän nopeampia junia myös sille välille, mitä pi-
+demmäksi mennään, koska sitten taas se lähiliikenteen turvaaminen edellyttää, että pysäh-
+dytään useilla asemilla, mutta se tietysti vie aikaa. Nyt kun suunnitellaan, on vasta suun-
+nittelurahaa, mutta onko valtiolla jo mietittynä, mistä itse suunnittelun jälkeiset rahat nii-
+hin raiteisiin saadaan, koska suunnitteluhan ei vielä ole tuonut yhtään lisäkapasiteettia. 
+
+Toinen kysymys, joka koskee myös asuinkuntaani Hyvinkäätä, on tämä Hanko—Hy-
+vinkää-radan sähköisyys. Hanko—Hyvinkää-tiellä on hyvin paljon rekkaliikennettä, ja sen
+tien ohituskaistat ja muut eivät ole tässä viime vuosina saaneet tuulta purjeisiinsa. Tämä
+olisi erittäin hyvä lisä teollisuudelle ja yrityksille. Miten tämä hanke etenee?
+
+Puhemies Paula Risikko:  Ja vielä mennään vähän toiselle kierrokselle. Vielä kolme pu-
+heenvuoroa ja sen jälkeen ministeri vastaa. Nämä kolme henkilöä ovat Rossi, Kymäläinen
+ja Elo.
+
+14.31 Markku Rossi kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Palaan vielä
+tuohon edustaja Myllykosken puheenvuoroon, kun hän sanoi, että hallitus ajaa ideologisis-
+ta syistä tätä. Minusta tuntuu, että teillä on ideologinen syy vastustaa tätä. Kaikilla muilla-
+kin väylillä meillä liikkuu muitakin kuin valtion autoja ja kulkuneuvoja, joten ei tämän tä-
+män kummempi kysymys sinällänsä pidä olla. Valtiolle toki kuuluu pitää huoli siitä, että
+nämä väylät ovat kunnossa. Itsekin haluan painottaa sitä, että kun Suomessa on tarve yli 60
+miljardin euron infrainvestoinnille, niin miten me tämän pystymme hoitamaan, jotta mei-
+dän kaikkien ratojen — rata Turkuun, Pohjanmaan rata, Savon rata, Karjalan rata Pietariin,
+uusi itärata, joka on tulossa — investoinnit pystytään aikaansaamaan. Ketä siellä sitten lii-
+kennöi, sen aika näyttää. Nythän me elämme tätä J. V. Snellmannin rataverkon pohjaa aika
+pitkälle. Siinä on hyvin vähän tapahtunut oikoratauudistuksia, ja tässä mielessä kyllä edus-
+kunnan pitää katsoa avoimella tavalla eteenpäin, ja viranomaisten tehtävä on sitten valvoa,
+että liikenne myös sujuu oikein.
+
+14.32 Suna Kymäläinen sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tässä to-
+siaan toimeenpannaan nyt EU:n ratapakettia. Haluaisin kysyä ministeriltä, miksi tässä teh-
+dään rautatieliikenteeseen säätelyelintä, joka tätä itsenäistä päätöstä ja valvontavaltaa käyt-
+tää. Jos olen oikein ymmärtänyt, niin tätä EU ei meiltä edellytä. 
+8
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+Mutta haluaisin vielä viedä tätä keskustelua pidemmälle siltä osin — me varmaan valio-
+kunnassa sitä pohdimme, mutta miten ministeri näkee asian — voisiko tätä ratakapasitee-
+tin hakuoikeutta liikennöitsijöistä laajentaa vielä. Se tarkoittaa esimerkiksi laivaa ja lastin-
+antajaa tai muuta rahdin lähettäjää, huolitsijaa, yhdistettyjen kuljetusten harjoittajaa tai
+rautatiealan koulutuksen järjestäjiä, jolla on erilaisia julkisen palvelun tarjoamisiin liitty-
+viä syitä tai kaupallisia syitä ja joka haluaisi tätä raidekapasiteettia hankkia käyttöönsä.
+
+Puhemies Paula Risikko:  Edustaja Elo, ja otetaan sitten vielä Myllykoski.
+
+14.33 Simon Elo sin (vastauspuheenvuoro): Arvoisa rouva puhemies! Tämä esitys lakina
+on tosiaan varsin tekninen. Se sinänsä tukee osaltaan tasa-arvoisen kilpailun edellytyksiä
+raiteilla ja varmistaa, että kaikilla toimijoilla on yhteiset pelisäännöt.
+
+Mutta tähän, mitä edustaja Tavio sanoi: ymmärrän, että hänellä on poliittiset tarpeensa
+esittää asia näin, mutta kyllä tässä lähdettiin aika lailla pois raiteilta. Eli VR:n hallintoneu-
+vostossa, jota nyt puheenjohdan ja jossa hän oli edeltäjänä, on totta kai edustettuna VR:n
+johto ja työntekijäosapuoli, ja minun käsitykseni mukaan vaikkapa toiminnanjohtaja Rolf
+Janssonin tai työntekijäosapuolen näkemys ei ole se, että he olisivat tähän tilanteeseen tyy-
+tymättömiä. He ovat nimenomaan sanoneet, että he ovat tyytyväisiä tähän ratkaisuun. Se,
+mikä tässä kysymyksessä aika väistämättä olisi tullut eteen, tämä kilpailun vapauttaminen
+jollain tavalla, se on nyt saatu. Tämä kunnioittaa kumpaakin osapuolta, sekä VR:ää, sen
+intressejä yhtiönä, että sitten työntekijäosapuolten tarpeita, jotka täysin ymmärrän ja joita
+siniset ovat tässä koko ajan prosessin edetessä tukeneet. Kysynkin arvoisalta ministeriltä:
+poikkeaako teidän näkemyksenne jotenkin omastani tässä suhteessa?
+
+Puhemies Paula Risikko:  Ja vielä edustaja Myllykoski.
+
+14.34 Jari Myllykoski vas (vastauspuheenvuoro):  Arvoisa rouva puhemies! Edustaja
+Rossille: Myönnän, täysin ideologisista syistä vastustan. Ja miksikö? Julkinen monopoli,
+jonka luonnollisesti pitää kuulua yhteiskunnan vastuulle, ei saa olla yksityisen ja ulkomaa-
+laisen omistuksen käytössä. Niin, me tiedämme sen, kuinka Carunan kanssa on käynyt. Me
+tiedämme, kuinka Digitan, Destian, muiden julkisten monipolien kanssa on käynyt, kun ne
+on luovutettu yksityiselle. Kuluttajahinnat ovat nousseet. Ja on aivan luonnollista, että
+minä vasemmistolaisena kansanedustajana vastustan tätä kehitystä, koska se on kansalais-
+ten kannalta epäarvoista ja tuottaa ongelmia. Kilpailu on hyvästä, en kiistä sitä tosiasiaa, et-
+teivätkö lippujen hinnat olisi laskeneet. Kysymys ei ole siitä. Nyt on kysymys vain siitä,
+että koko rataverkon luovuttaminen yksityiselle taholle olisi virheratkaisu, jolloin päätän-
+tävalta siirtyisi meiltä kansalaisilta yksityiselle liikkeenharjoittajalle.
+
+Puhemies Paula Risikko:  No niin, ja sitten ministeri vastaa. Riittääkö 3 minuuttia?
+
+14.35 Liikenne- ja viestintäministeri Anne Berner:  Arvoisa rouva puhemies! Haluan
+kiittää edustajia heidän palautteestaan ja evästyksistään tämän lain osalta.
+
+Kyseessä on todellakin tekninen EU-direktiivin toimeenpano. Edustaja Jalonen kysyi si-
+tä, kuinka paljon tässä on liikkumatilaa. Me olemme jättäneet tähän lakiesitykseen oikeas-
+taan kaiken liikkumatilan olemaan emmekä ole oikeastaan lainkaan käyttäneet hyväksi sitä
+mahdollisuutta, mikä meillä kansallisesti olisi voinut olla, tuottaa sinne tiettyjä kiristyksiä.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+Elikkä tässä jätetään myöskin seuraaville päättäjille kaikki mahdollisuudet auki ja ollaan
+oikeastaan ihan puhtaasti toimeenpantu tätä sellaisena kuin se on esitetty.
+
+Rautatieliikenteen kilpailun avaaminen, joka on paljon herättänyt keskusteluita: Haluai-
+sin myöskin muistuttaa siitä, että meidän päätöksemmehän on sellainen, että sitä on mah-
+dollisuus toimeenpanna aina vuoteen 2026 saakka. Elikkä pitkällä ja rauhallisella proses-
+silla ollaan menossa. Olemme myös sopineet hyvässä yhteishengessä yhtiön ja ammattiyh-
+distysjärjestöjen kanssa siitä, että tämä toimeenpano käynnistyy vaiheittain ja käynnistyy
+nimenomaan sellaisesta liikenteestä, jossa valtiolla on osto- ja velvoiteliikennettä, elikkä
+joka tapauksessa ostetaan se liikenne, ja siinä kohtaa on perusteltua myöskin se, että valtio
+silloin voi kilpailuttaa ostamansa palvelun. Tämä lienee myöskin veronmaksajan etu, elik-
+kä saadaan paras mahdollinen liikennemäärä siihen veronmaksajan käyttämään euroon.
+
+Kun aikanaan perustelimme tätä rautatieliikenteen kilpailun avaamista, niin perustelim-
+me sitä kolmella keskeisellä asialla: Ensimmäiseksi perustelimme sitä sillä, että valtiolla
+pitää olla mahdollisuus kilpailuttaa ostamansa liikenne. Toinen asia, jota myöskin käytim-
+me tässä perusteluna, on se, mistä edustaja Ala-Nissilä mainitsi, elikkä haluan myöskin
+mahdollistaa alueellisen ja seudullisen liikenteen käynnistämisen. Tästä on itse asiassa juu-
+ri tänä päivänä lähtenyt kaikkiin maakuntiin kysely siitä, millaisia tarpeita ja tahtotilaa täs-
+sä yhteydessä on. Kolmas tähän liittyen on se, että kun meillä on tarvetta tehdä merkittäviä
+investointeja raideinfraan, muun muassa pääradan kehittämiseen, Turun tunnin junaan tai
+itärataan, niin silloin on tärkeätä myöskin se, että siinä yhtälössä meillä on mahdollisuus
+myöskin kilpailuttaa se operointi, joka mahdollisesti voi vaikuttaa siihen, minkälaista ra-
+hoitusjärjestelmää ja rahoitusmallia pystytään näin isoihin investointeihin järjestämään.
+Siksikin on ollut tärkeää, että me olemme hyvissä ajoin liikkeellä raideliikenteen kilpailun
+avaamisen kanssa, jotta me sen kyljessä pystymme edistämään myöskin näitten suurten
+hankkeiden hankintamenettelyjä ja myöskin sitä, millä tavalla niitä tulevaisuudessa rahoi-
+tetaan. 
+
+HSL:n kilpailutus alkaa vuonna 2021, ja rautatiesääntelyelin meillä on jo olemassa Tra-
+fin sisäpuolella, ja itse asiassa EU tällaista meiltä edellyttää. Elikkä tämä vastauksena pää-
+radan osalta samoin kuin Turun tunnin junan ja itäradan osalta. Näiden kaikkien osalta
+meillä on menossa tällä hetkellä ministeriössä hyvin detaljoidut vaikuttavuusarviot, arviot
+siitä, millaisilla rahoituskeinoilla näitä hankkeita voitaisiin käynnistää, jotta näiden osalta
+myöskin päästäisiin aidosti liikkeelle. Toivon, että meillä todella olisi mahdollisuus tehdä
+aikaistettuja ratkaisuja näiden hankkeiden edistämiseksi. — Kiitos.
+
+Puhemies Paula Risikko:  Nytten mennään puhujalistalle. 
+
+14.39 Sanna Marin sd: Arvoisa puhemies! Raideliikenteen kehittäminen ja Suomen rata-
+verkon uudistaminen ovat kriittisiä kysymyksiä maamme elinvoimaisuuden, työvoiman
+liikkuvuuden ja ilmastotavoitteiden näkökulmasta. Tämä on syytä huomioida myös lähe-
+tekeskustelussa olevan raideliikennelain ja lain liikenteen palveluista annetun lain muutta-
+misesta käsittelyssä. 
+
+SDP kannattaa raiteilla avointa kilpailua,  jossa markkinaehtoisessa liikenteessä open
+access -periaatteella voidaan kilpailla rinnakkain matkustajista. Emme ole kannattaneet
+aiemmin esitettyjä malleja, joissa VR:n markkinalähtöinen matkustaja- ja rahtiliikenne oli-
+si laitettu valtio-omistajan toimesta huutokauppaan alueittain luoden alueellisia monopo-
+leja sekä käyttäen VR:n kalustoa. VR ja liikenne- ja viestintäministeriö pääsivät tästä ke-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+väällä sopimukseen, ja nyt on tarkoitus eriyttää VR:n nykyisestä monopolisopimuksesta
+vain velvoiteliikenteen osana hoidettava Etelä-Suomen HSL-alueen ulkopuolinen lähilii-
+kenne, jonka kilpailutusta varten tarvittava kalusto, huolto ja asemarakennukset eriyte-
+tään. Tällä katetaan EU:n neljännen rautatiepaketin vaatimus julkisesti tuetun liikenteen
+kilpailuneutraliteetista. 
+
+Arvoisa puhemies! Valtio rahoittaa omistamansa raideverkon rakennusta ja ylläpitoa sa-
+tojen miljoonien eurojen edestä vuosittain, esimerkiksi vuonna 2018 noin 600 miljoonan
+euron edestä. Junaliikenteen käyttömaksuina tästä palautuu noin 50 miljoonaa euroa. Rai-
+deliikenne on kaikissa tapauksissa vahvasti julkisesti tuettua toimintaa, jossa valtiolla on
+erinäisiä yhteiskunnallisia intressejä esimerkiksi joukkoliikenteen kehittämisen, ilmastota-
+voitteiden saavuttamisen, aluekehityksen ja työvoiman liikkuvuuden osalta. Kun suunni-
+tellaan raideliikenteen kokonaisuutta, on tämä pidettävä mielessä.
+
+Seuraavalla hallituskaudella raideliikenteen kehittämisen on oltava keskeinen ja yhtei-
+sesti jaettu tavoite. Tarvitsemme aidosti eteenpäin katsovaa politiikkaa ja kunnianhimoa
+myös raideinvestointeihin. Suomella ei ole varaa jättää raiteitansa ruostumaan. Tarvitsem-
+me tunnin junat niin Helsingistä Tampereelle kuin Turkuunkin ja raidekapasiteetin, jonka
+avulla tähän päästään. Esimerkiksi pohjoisen pääradan eli Suomi-radan kehittäminen toisi
+merkittävät taloudelliset hyödyt niin työllisyyden, elinkeinojen kuin ilmastotavoitteidem-
+me näkökulmasta. Henkilö- ja tavaraliikenteen pääreittimme kunnostamista onkin vauhdi-
+tettava. Kokonaisuus on sisällytettävä valmisteilla olevaan 12-vuotiseen valtakunnalliseen
+liikennejärjestelmäsuunnitelmaan, ja asia on otettava seuraavan hallituksen työlistalle.
+Suunnitteluun tarvittava rahoitus on varmistettava pikimmiten, mielellään jo tällä hallitus-
+kaudella. Toivottavasti pääradan kunnostaminen saa vahvan tuen yli puoluerajojen myös
+tästä salista.
+
+14.42 Paavo Väyrynen kp: Arvoisa puhemies! Kun seuraa Suomessa käytävää keskuste-
+lua rautatieliikenteen kehittämisestä, niin tulee mieleen kysymys, että kuvitellaanko, että
+meitä on 50 miljoonaa eikä reilut 5 miljoonaa ihmistä. Puhutaan erittäin kalliista rautatiein-
+vestoinneista. Esimerkiksi näihin tunnin rautatiehankkeisiin näköjään liittyy Pisara-rata.
+Se kerrottiin eilisissä uutisissa. Realismia tähän tarvittaisiin. Myös tämä ajatus, että rauta-
+tieliikenne avataan kilpailulle, edustaa samankaltaista mittakaavavirhettä. Totta kai Keski-
+Euroopan tiheästi asutuilla alueilla rautatieliikenteen kilpailuttaminen on tuottanut ja tuot-
+taa hyviä tuloksia, mutta meillä asukasmäärät ja matkustajamäärät ovat pieniä.
+
+Minulle tämä ei ole ideologinen kysymys, vaan terveen järjen kysymys. On mahdotonta
+ajatella, että tämän vähäisen rautateiden henkilöliikenteen jakaminen useamman yhtiön
+hoidettavaksi jollakin tavalla parantaisi tilannetta. Eihän kilpailua välttämättä tarvitse to-
+teuttaa raiteilla. Jo nyt bussiliikenteen tehostuminen on tuonut kilpailua rautateille ja rau-
+tatieliikenteen suorituskyky ja kannattavuus ovat selvästi parantuneet, kilpailu on toiminut
+hyvin. Eli kyllä kilpailu, mikä sinänsä on kannatettavaa, voi toteutua myöskin niin, että
+muut liikennemuodot kilpailevat rautatieliikenteen kanssa. Suoralta kädeltä olen sitä miel-
+tä, että tämä ajatus ei kerta kaikkiaan ole järkevä. No jos sitten pitää olla raiteilla kilpailua,
+niin miksei metroliikenteeseenkin pitäisi saada kilpailua? Kun siinä on raiteet, ja siinä on
+monopoli.
+
+Euroopan unioni ei edellytä tätä ratkaisua. Tämä ajatus, että sellaisenaan otetaan Euroo-
+pan unionin piirissä syntyneitä päätöksiä Suomessa toteutettaviksi, on tyypillistä suoma-
+laista nöyristelyä. Euroopan unionin päätöksiä täytyy aina soveltaa kansallisesti.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+Ministeri Berner on hyvin itsepäinen ja päättäväinen ministeri — siitä hänelle voi antaa
+tunnustusta — mutta tulokset tahtovat olla huonoja. Taksiuudistus, joka ajettiin aika lailla
+ruhjomalla läpi eduskunnassa, on ollut virhe. Kela-kyytien ongelmat eivät suoranaisesti
+siitä johdu, mutta kuitenkin siihen liittyvät. Sitten ministeri on sekoittanut autokaupan au-
+toveropuheillaan ja sähköpyöräkaupan sähköpyöräpuheillaan.
+
+Kaiken kaikkiaan minun mielestäni olisi aihetta, että eduskunnassa pohdittaisiin, naut-
+tiiko ministeri Berner eduskunnan luottamusta. Täällähän on kerätty kannatusta välikysy-
+mykselle, jolla pyritään saamaan ministeri Soini vastuuseen puheistaan. Jos jossakin vai-
+heessa opposition piirissä syntyy ajatus, että ministeri Bernerin luottamus tässä talossa
+punnitaan, niin tällaista epäluottamuspontta olen kyllä omalta osaltani valmis kannatta-
+maan. Olen tietysti seurannut sivusta, Euroopan parlamentista käsin, hänen työskente-
+lyään, mutta kaiken kaikkiaan siitä on syntynyt sellainen käsitys, että kansanedustajana en
+kyllä tunne luottamusta hänen toimintaansa kohtaan. Ehkä oppositio jossakin vaiheessa
+tällaisen epäluottamusponnen esittää.
+
+14.47 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Kuten mainitsin, esimerkiksi Valtion-
+rautatiet oli aika huonossa hapessa tämän vaalikauden alussa. Se oli hinnoitellut itseään
+ulos markkinoilta. Nyt se on ministeri Bernerin vaikutuksesta saatu toimimaan ja hinnat
+ovat pudonneet, junat ovat täynnä. Samaten Finnair on parantanut juoksuaan koko ajan,
+muuttunut tappiollisesta yhtiöstä hyvin toimivaksi. Samaten Finavia, aivan loistavassa
+kunnossa. Myöskin digitalisaatio etenee, liikenteen digitalisaatio ja liikennepalvelut etene-
+vät aivan uudella tavalla, eikä ole mitään kauppaa sekoitettu Suomessa. Mutta totta kai joi-
+tain uudistuksia niiden toteuttamisessa aina pitäisi tehdä, korjausliikkeitä, jos tehdään vir-
+heitä.
+
+ Puhemies! Yksi hyvin oleellinen kysymys tähän kokonaisuuteen liittyy: se, että valtio-
+varainministeriössä kyllä pitää löytää uusi asenne, mikäli me aiomme Suomessa liikenne-
+hankkeita viedä eteenpäin. Tarvitaan uusia välineitä. Tarvitaan myöskin budjettirahoitusta
+näihin. Muuten nämä eivät etene. Muuten me puhumme tässä tyhjille saleille, ellei valtio-
+varainministeriö liiku tässä asiassa Suomessa lähitulevaisuudessa.
+
+Todella, Turun tunnin junahanke on minusta hyvin tärkeä. Sehän tulee Helsinkiin ja jat-
+kuu Pietariin saakka. Se on eurooppalainen yhteys. Sen suunnittelu on jo menossa varsin
+hyvää vauhtia. Se on osa tätä Etelä-Suomen tunnin työssäkäyntialuetta. Tällä tarkoitan
+Turku—Salo—Helsinki, Helsinki—Hämeenlinna—Tampere, Tampere—Loimaa—Tur-
+ku. Näillä kahdella raiteella voitaisiin ainakin kokeilla pilottina seudullista liikennettä.
+Siellä on aikanaan ollut hyvin tehokas kiskobussiliikenne.
+
+Varmaan se tarvitsisi alkuunsa myöskin esimerkiksi maakuntien tukea työmatkaliiken-
+teeseen, joka on erittäin tärkeä. Se tietenkin pitää punnita, onko tukea mahdollista antaa,
+mutta minusta se voisi olla hyvinkin järkevää, jotta se taloudellinen pohja tälle pilotille ja
+tälle toiminnalle aukeaisi. Eli tämä lainsäädäntö, mikä meillä nyt on esillä, on mahdollis-
+tava lainsäädäntö. Me päätämme itse Suomessa, mitä me teemme, mutta minusta sellainen
+on tärkeä.
+
+14.49 Ville Tavio ps: Arvoisa puhemies! Kun vuonna 2015 VR:n hallintoneuvoston pu-
+heenjohtajana aloitin, silloin alettiin toteuttamaan hintojen alentamista ja hintamuunnosta.
+Tämä oli siis kommentti edustaja Ala-Nissilälle siitä, kun hän kehui tämän Bernerin toi-
+meksi. Olisi kyllä mielenkiintoista kuulla, millä perusteella tämä oli Bernerin toimi, koska
+12
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+ei hallintoneuvosto ainakaan koskaan kuullut, että Berner olisi mitenkään puuttunut siihen
+toimintaan, niin että kyllä hinnan alentaminen ja hintauudistus ymmärtääkseni olivat ihan
+VR:n oma toimi. Sitä vähän ihmettelin, että keskusta nyt ilmoitti, että se on heidän oman
+ministerinsä ansiota. Tämähän ei pidä paikkaansa.
+
+Jo kilpailutuksen lähtökohta on ollut aika omituinen, koska jos katsotaan Suomen raide-
+liikennettä, siis nimenomaan henkilöliikennettä — edustaja Väyryselle tiedoksi, että tava-
+raliikenne on ollut avointa jo aikaisemmin kyllä, [Paavo Väyrysen välihuuto] eli puhuitte
+koko liikenteestä, ja nyt puhutaan henkilöliikenteen kilpailutuksesta — niin se, mitä on
+maakuntien alueellisessa liikenteessä, Helsingin lähiliikenteessä ja tämän pääkaupunki-
+seudun lähiliikenteessä, yhdessä muodostaa jo 85 prosenttia Suomen junaliikenteestä. Ja
+juuri siitä lähtevänä ajatuksena, että ymmärretään, että näiden kilpailutus on jo oikeastaan
+hyvin ja järkevällä tavalla asettunut — siis maakunnissa ei ole vielä mutta Helsingin seu-
+dulla kuitenkin — oli alun alkaen, että katsotaan, miten nämä toteutuvat, ja sitten pohdi-
+taan maakuntien alueellista liikennettä ja maakuntien välistä liikennettä.
+
+Tämä on ollut jostain syystä jollain tapaa ihan periaatteellista keskustalle, jossa minis-
+teri Berner on siis ajanut aivan ihmeellistä mallia, ja siitä se ongelma on muodostunut, kos-
+ka julkisen talouden ei kannata valtakunnallisella tasolla ottaa vastuuta yksityisten yritys-
+ten kalustosta vaan sen sijaan yritysten tulisi investoida itse omaan kalustoonsa. Ja se yri-
+tyksen oma investointi ei toteudu tässä kalustoyhtiömallissa.
+
+Edustaja Elolle vielä toteaisin, että VR:n hallintoneuvosto kyllä johdon tuella totesi juu-
+ri viime kesänä, että muun muassa tämä pilkkominen ja kalustoyhtiön teko eivät ole lain-
+kaan tarpeellisia vaan myös se maakuntien välinen kilpailutus olisi saatu kyllä muilla jär-
+jestelyillä tehtyä. Tämä on hassu tilanne. Kun minä tavallaan haluaisin ehkä perustaa oman
+lentoyhtiön, niin ostaako ministeri Berner minulle lentokoneen? Siihen ei ole nyt ministeri
+vastaamassa, mutta tätä minä olen koettanut kysellä.
+
+14.52 Ari Torniainen kesk:  Arvoisa rouva puhemies! Tämä hallituksen esitys, mikä on
+nyt käsittelyssä, on rautatielainsäädännön kokonaisuudistus, ja tällä pannaan täytäntöön
+EU:n neljännen rautatiepaketin päätökset. Tällä pyritään myöskin keventämään erityisesti
+yksityisraiteen haltijoiden hallinnollista taakkaa tinkimättä kuitenkaan rautatieturvallisuu-
+desta, ja rautatieturvallisuus on äärimmäisen tärkeä asia. Siksi on hyvä, että ensi vuoden
+budjettiesityksessä on myöskin liikenneturvallisuuteen lisää rahaa osoitettavissa, nimen-
+omaan tasoristeysten poistamiseen. Rautatielainsäädäntö kuuluu hyvin pitkälle EU:n toi-
+mivaltaan, joten siinä kansallinen liikkumavara on melko vähäistä, ja tässä hallituksen esi-
+tyksessä on nyt otettu tämä huomioon.
+
+Tässä keskustelussa on käytetty hyvinkin paljon puheenvuoroja tästä avoimesta mark-
+kinoille pääsystä kotimaan henkilöliikenteeseen ja lupaedellytysten kehittämisestä. Mitä
+tähän asiaan tulee, on keskusteluissa herännyt tietysti suureen rooliin tämä kalustoyhtiö ja
+se, miten kaikilla kilpailutukseen osallistuvilla rautatieyrityksillä olisi tulevaisuudessa yh-
+täläiset mahdollisuudet saada kalustoa kilpailutuksen kohteena olevan liikenteen tarjontaa
+varten. Omasta mielestäni vaunukalustoyhtiö turvaa kuitenkin parhaiten kaikille tuleville
+mahdollisille rautatieyrityksille yhtäläiset mahdollisuudet saada kalustoa liikenteen har-
+joittamista varten. Pitää ottaa huomioon, että Suomessa ja muissa EU-maissa on poikkea-
+va raideleveys, ja on kallista, jos sinne uusia vaunuja rakennetaan. Suomen rataverkolle so-
+pivaa vaunukalustoa on erittäin vaikea saada muualta EU-maista, ja siksi kalustoyhtiö on
+oikeastaan omasta mielestäni ainoa vaihtoehto Suomessa. Ja kyllä myöskin saadaan tuloja
+13
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+sinne vaunuyhtiöön sitä kautta, kun sitten uudet mahdolliset toimijat vuokraavat kalustoa
+sieltä.
+
+Omasta mielestäni on erittäin tärkeää, että raideverkostoa kehitetään koko Suomessa.
+Nimenomaan myöskin itäraide on erittäin tärkeä. Tosiasia on, mitä edustaja Ala-Nissilä
+nosti esille, että normaalin budjettirahoituksen kautta meidän on erittäin vaikea, lähes mah-
+dotonta, saada kaikkea suuria raide- tai maantiehankkeita liikkeelle tulevina vuosina, niitä
+kaikkia, joita tarvittaisiin. Siksi on uusia rahoitusmalleja kehitettävä myöskin jatkossa.
+
+14.56 Simon Elo sin: Arvoisa rouva puhemies! Rautatielain uudistus on yksi niistä järke-
+vistä ja hyvistä uudistuksista, jotka ovat tämän hallituskauden aikana vihdoin menneet
+eteenpäin — tästä tietysti saa perustellusti olla myös eri mieltä. Uudistuksen myötä suoma-
+laiset saavat yhä parempaa palvelua junaliikenteessä ja useammalla yrityksellä on mahdol-
+lisuus toimia tasavertaisesti raiteilla henkilöliikennettä tarjoten. Näkemys on, että kilpailu
+lisää liikennettä raiteilla ja laskee lippujen hintoja asiakkaille. Niin kävi myös linja-auto-
+liikenteen vapautuksessa, josta siitäkin oikeastaan samat tahot pelottelivat, että niin ei kä-
+visi. Täytyy myös sanoa, että luulisi oppositiopuolue vihreille sopivan myös se, että uudis-
+tuksen myötä ympäristöystävällisen junaliikenteen osuus henkilöliikenteestä ennakoidusti
+kasvaa. 
+
+Nyt käsiteltävä hallituksen esityshän on varsin tekninen mutta tukee osaltaan tasa-arvoi-
+sen kilpailun edellytyksiä raiteilla ja nimenomaan varmistaa, että kaikilla raideliikenteen
+toimijoilla on yhteiset pelisäännöt. Tämä hallitus on toiminut siinä mielessä viisaasti, että
+EU:n lainsäädäntövaatimusten päälle ei ole luotu kansallista lisäsääntöä tai velvoitteita.
+Niin kuin ministeri Berner toi esille, tässä on pitkä siirtymäaika, joka kattaa myös seuraa-
+van hallituksen toimivaltaa, ja sille ei ole tosiaan tällaisia lisäesteitä laitettu. 
+
+Siniset uskovat siihen, että rautateiden monopolin purkaminen on suomalaisen junamat-
+kustajan etu. Etenkin se, että jatkossa maakunnat, niin kuin täällä on todettu, voivat vaikut-
+taa oman alueensa raideliikennetarjontaan, on pääkaupunkiseudun ulkopuolella asuvien
+suomalaisten hyväksi. Me haluamme uudistaa inhimillisesti ja turvallisesti. Siksi olemme
+pitäneet huolta siitä, että kilpailun vapauttaminen tapahtuu hallitusti ja siirtymäajalla. Ni-
+menomaan VR:n hallintoneuvoston puheenjohtajana olen ainakin tyytyväinen siihen, että
+kilpailun vapauttaminen VR:n ja sen työntekijöiden osalta huomioidaan hyvin reilusti. Kä-
+sitykseni on vahvasti se, että nimenomaan VR:n johto ja työntekijäosapuoli ovat tähän rat-
+kaisuun tyytyväisiä. Tätä ovat siniset painottaneet. Kilpailu avataan niin, että se ei vaaran-
+na VR:n liikennesalaisuuksia tai heikennä VR:n kilpailukykyä. Meillä on jatkossakin vah-
+va VR.
+
+Toinen kysymys, mihin haluan, arvoisa puhemies, ottaa hieman kantaa, on nyt julkisuu-
+dessa herännyt uutisointi liittyen venäläisten tavaravaunujen käyttöön Suomen sisäisessä
+liikenteessä. Tällä hetkellähän venäläisen kaluston käyttö on Suomen rataverkossa sallittu
+vain Suomen ja Venäjän federaation välisessä yhdysliikenteessä. Olen tyytyväinen siihen,
+että — toisin kuin jossain vaiheessa käsitykseni oli — liikenne- ja viestintäministeriö on
+mediaankin todennut, että tällaista esitystä, että muutettaisiin tilannetta ja päästettäisiin
+meidän sisäiseen liikenteeseen venäläiset tavaravaunut, ei liikenne- ja viestintäministeriöl-
+tä tule. Tämä on erittäin hyvä uutinen, johon VR:n hallintoneuvosto jo ennakoidusti otti
+kantaa, eli katsoimme, että on paljon perusteita sille, että tätä vapautusta tältä osin ei tule.
+Tässä on monia näkökohtia, arvoisa puhemies, muun muassa turvallisuusnäkökohdat. Sen
+lisäksi, että nämä vaunut, joita Venäjällä käytetään, ovat paljon halvempia kuin Suomessa
+14
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+— mihin tietysti metsäteollisuus on kiinnostuksensa osoittanut — niin niitten turvalli-
+suusstandardit eivät täytä niitä EU-standardeja, joita tietysti esimerkiksi Suomessa käyte-
+tään, ja ne kuluttavat tutkitusti raiteita enemmän kuin suomalaiset vaunut. Todennäköises-
+ti pitäisi käyttää raiteiden kunnossapitoon enemmän rahaa. Mutta olen tosiaan tyytyväinen
+siihen, että liikenne- ja viestintäministeriö tämän ajatuksen on kuitenkin lopulta tyrmännyt.
+
+Ymmärrän sen, että metsäteollisuus on toivonut mahdollisuutta käyttää venäläisiä puu-
+tavaravaunuja suorien kuljetusten lisäksi maan sisäisiin kuljetuksiin siksi, että ne nimen-
+omaan ovat halvempia, niin kuin mainitsin. Kyllä VR:llä on täysi mahdollisuus ja tahtotila
+tuottaa lisää vaunuja Suomessa ja suomalaisen VR:n käyttöön ja sitä kautta myös tukea
+suomalaista metsäteollisuutta ja sinänsä hyvää asiaa eli kasvanutta puun kuljetusta ja sitä
+kautta kasvanutta tarvetta näille vaunuille. Mutta kyllä oli vahva pelko erityisesti työnteki-
+jäosapuolella hallintoneuvostonkin kokouksessa siitä, että jos tällainen esitys olisi oikeasti
+viety eteenpäin ja jos siihen olisi jopa poliittinen tahto ollut, että sisäiseen tavaraliikentee-
+seen tulisivat nämä venäläiset vaunut, niin se olisi käytännössä tarkoittanut suomalaisen ta-
+varavaunutuotannon loppumista jollain aikavälillä. Eli pelko oli täysin aiheellinen, ja siksi
+hallintoneuvosto katsoi, että tähän täytyy ottaa vahvasti kantaa, ja julkisuudessa tämä nyt
+on käsitelty. Olemme ymmärtäneet hallintoneuvostossa käymiemme keskustelujen perus-
+teella, ettei minkäänlaista poliittista tahtoa ole tämän kysymyksen avaamiseen, vaan jat-
+kossakin yhdysliikenteessä Suomen ja Venäjän federaation välillä käytetään näitä vaunu-
+ja, mutta ei Suomen sisäisessä tavaraliikenteessä.
+
+15.01 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Aivan kuten edustaja Elo omas-
+sa erinomaisessa puheenvuorossaan äsken sanoi, tämä vaunuasia pitää hoitaa meidän niin,
+että Suomessa käytetään vain suomalaisia vaunuja. Ymmärrän sen, että Suomen ja Venä-
+jän välisessä tavaraliikenteessä totta kai Venäjältä esimerkiksi puutavara tulee venäläises-
+sä vaunussa ja ne puretaan jonnekin tehtaalle ja sitten vaunut lähtevät takaisin Venäjälle.
+Aivan normaalia toimintaa, joka perustuu pitkäaikaisiin sopimuksiin. 
+
+Mutta kannattaa kiinnittää huomio tässä junarataliikenteessä siihen, että Suomessahan
+on oma Transtechin Otanmäen firma, ulkomaisten omistama toki mutta myös suomalais-
+ten osaomistama, joka tuottaa erinomaista vaunukalustoa ympäri maailmaa myytäväksi,
+Eurooppaan ja myös Suomeen. VR on käyttänyt niitä vaunuja paljon ja toivon mukaan jat-
+kossakin käyttää. Eli meillä on silläkin puolella valtavasti osaamista, ja nyt voisi toivoa si-
+tä, ja ihan vakaasti toivon sitä, että tämänkin lain käsittelyn yhteydessä liikennevaliokunta
+keskustelee siitä, että rataverkon kehittämiseen aidosti tulevaisuudessa panostetaan lisää
+varoja, niin että etsitään uusia rahoituskeinoja, aivan niin kuin tieinfran isojen runko- ja
+kantateiden korjaamiseen tai uusien rakentamiseen, jotta saadaan vapautettua näitten ole-
+massa olevien ratojen ja teiden hoitoon sitten tätä muuta varallisuutta. Muutenhan me
+olemme siinä tilanteessa, että kun rataverkko rapistuu ja maantieverkko rapistuu, mene-
+tämme koko ajan sen hyödyn, mikä sillä mahdollisella lisääntyvällä liikenteellä yhteiskun-
+nan kannalta olisi. 
+
+Varsinkin kun ilmasto lämpenee ja ne talvet eivät ole enää pitkiä ja samana talvena voi
+olla kymmenen kappaletta vesisateita ja kymmenen kappaletta valtavia pakkasia, jolloin
+tiestön ja junaradan runko joutuu todella kovalle koetukselle, niin tämän takia me joudum-
+me tekemään korjaustöitä enemmän kuin aikaisempina vuosina. Tämä pitäisi liikenneva-
+liokunnassa huomioida nyt tätäkin lakia käsiteltäessä, ja kun seuraava hallitus ohjelmaan-
+sa kirjoittaa, siihenkin ohjelmaan soisi tulevan sellaisen tekstin, että kun tämä hallitus on
+15
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+käyttänyt lähes miljardin hoitovelan umpeen kuromiseen, niin se sama suunta jatkuisi ja
+jopa paranisi seuraavan nelivuotiskauden aikana, koska jos me haluamme tämän maan
+kansantaloutta pitää pystyssä, se tarkoittaa, että liikenneverkkojen pitää olla kunnossa. 
+
+Lopuksi, arvoisa puhemies, vielä se, että kun sähköistetään ratoja tässä maassa, niin kan-
+nattaisi siinäkin paneutua siihen, että jos nämä isomman liikenteen rataosuudet kaikki säh-
+köistettäisiin, niin onko se sitten ympäristöteko vai eikö ole. Tärkeää on huomata sekin,
+että kun dieselvetureilla vedetään joitakin junia vielä edelleen ja paljonkin junia Suomes-
+sa, niin ei sekään nyt mitään ympäristöä saastuttavaa ole. Ruvetaan käyttämään niissä sit-
+ten biopohjaista dieseliä. Ei siinä mitään sen kummempaa tapahdu. Meillä on hyvä diesel-
+veturikalusto olemassa, ja jos ei ole oikein hyvä, niin kehitetään sitäkin. Siihenkin meillä
+taito löytyy. Onhan näitä vetureita ennenkin tässä maassa tehty. 
+
+15.04 Pia Viitanen sd:  Arvoisa puhemies! Kaiken kaikkiaan tietenkin raideyhteyksien
+kehittäminen on tärkeää siksi, että ihmisillä olisi hyvät liikkumismahdollisuudet, mutta
+myös koko maan esimerkiksi asuntopoliittisten näkökulmien kannalta, työllisyysnäkökul-
+mien kannalta, kaiken tämän näkökannalta on hyvin tärkeää, että raideliikenne pelaa, sa-
+moin tietenkin nämä ympäristökysymykset.
+
+Puhemies! Haluan vielä palata tähän raide-, rataverkkokeskusteluun siinä suhteessa, että
+pidin merkittävänä sitä, että äsken ministeri Berner vastauksessaan kysymykseeni lisäta-
+lousarviosta ja siitä, voidaanko suunnittelurahaa aientaa jo tässä vaiheessa lisätalousarvio-
+vaiheeseen, totesi, että ministeri toivoo, että mahdollisia aiennuksia, aiennettuja ratkaisuja
+on mahdollisuus tehdä rahoituksen osalta. Minusta se oli tärkeä linjanveto, joka tavallaan
+kuvastaa nyt erityistä terveistä sinne hallitukselle päin. Kun käytte lisätalousarvioriiheen ja
+laaditte seuraavaa, niin olisi tärkeää, että tämä linjaus, minkä ministeri äsken toi esiin, että
+hän toivoo, että olisi mahdollista tehdä aiennettuja ratkaisuja rahoituksen suhteen, saatai-
+siin myös mukaan jo tähän lisätalousarvioon. Ja kuten sanottu, jotta se suunnittelu pääsisi
+kunnolla käyntiin, niin se edellyttäisi jo ensi vuoden talousarvioon näitä merkittävämpiä
+suunnittelurahoja — puhumme siinä kyllä useammasta miljoonasta eurosta, ehkä parista-
+kymmenestäkin — ja tietenkin myös pitkäjänteisen suunnitelman tästä eteen päin kaiken
+kaikkiaan.
+
+Tampere—Helsinki-välihän tällä pääradalla on se hyvin vilkkaasti liikennöity, ja siksi
+se alle tunnin juna tarvitsee kolmannen raiteen. Katsoin tuossa noita tunnuslukuja, vilk-
+kain ratayhteys 4,5—6,6 miljoonaa matkustajaa per vuosi, eli se on kyllä huikean iso sum-
+ma ja palvelee monen suomalaisen ihmisen elämää toteutuessaan jossain vaiheessa kaik-
+kinensa.
+
+Tähänhän, puhemies, liittyy sitten se tärkeä havainto Euroopan unionin suunnasta, eli ta-
+vallaan tämä Suomi-rata, päärata, tulisi saada kirjattua selkeästi sinne TEN-T-ydinverkko-
+käytävä-statukselle. Tämä olisi myös tärkeä, koska sitä kautta näin tapahtuessa olisi mah-
+dollista tähän saada myös rahoitusta.
+
+Tämän minä halusin tuoda esiin. Hanke on tärkeä, ja pidin erittäin myönteisenä nyt sitä
+vastausta, mikä tähän lisätalousarviota koskevaan kysymykseen tuli, eli oletan, että nyt sit-
+ten hallituksessa pohditaan sitä, että tätä suunnittelua vielä aiennettaisiin ensi vuodesta täl-
+le syksylle.
+
+15.07 Jari Myllykoski vas: Arvoisa rouva puhemies! Pakko sanoa, että tässä keskustelus-
+sa on erilaisia särmiä mutta kaikki haluavat ajaa nopeata junaa — se on ihan hyvä, mutta
+16
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+toivoisin, että voitaisiin keskustella muustakin kuin siitä, että vaan rakennetaan uusia rai-
+teita toisen raiteen viereen. Pitäisi kokonaisvaltaisesti pystyä katsomaan, kuinka me maan-
+tieteellisesti hyödynnämme niin itä- kuin länsiliikennettä. Otan nyt tässä satakuntalaisena
+esimerkiksi Pori—Haapamäki-radan, jonka investointi olisi noin 300 miljoonaa. Samalla
+se ratkaisisi esimerkiksi Tampereella koko asema-alueen ratapihan siirron kustannukset,
+jotka ovat 900 miljoonaa euroa. Se voisi poistaa jopa Seinäjoki—Vaasa-kaksoisraiteen ra-
+kentamisen, kun me saisimme tavaraliikenteen pois pääraiteelta. Meidän pitää avata tätä
+omaa katselukantaamme siten, että pohditaan uusia mahdollisuuksia, tehdään taloudellisia
+laskelmia siitä, mitenkä me voimme parhaiten hyödyntää sitä, että meidän elinkeinoelä-
+mällämme on mahdollisuudet kuljettaa tavaroita sieltä, missä niitä tehdään, satamiin, mis-
+tä ne viedään ulos — kuinka se tehdään järkevämmin. Ei ole järkevää pelkästään se, että
+meillä tavaraliikenne seikkailee henkilöliikenteen kanssa samalla raiteella. Silloin tulee
+helposti se johtopäätelmä, että me pääsemme tunnissa perille vain sillä tavoin, että raken-
+namme toisen raiteen, kun voitaisiin miettiä keinoja, joilla voidaan se tavaraliikenne saada
+sieltä toiselta raiteelta pois niin, että tämä palvelee henkilöliikennettä joko sitten Turusta
+Helsinkiin taikka pohjoisesta, kun EU suhtautuu positiivisesti ja valtiovalta on positiivises-
+ti lähtenyt ajamaan sitä asiaa, että me saamme TEN-T-verkkoa, joka ulottuu edemmäksi
+kuin vain Tampereelle, pystysuunnassa vielä pidemmälle. Pitää uskaltaa avata hyviä aja-
+tuksia eikä vain typertyä siihen omaan, alueen helpoimpaan ratkaisuun: rakennetaan yksi
+raide lisää tälle retkelle.
+
+Ja edustaja Hoskoselle: Hyvä avaus. Kannatan sitä, koska meillä on tässä maassa LNG-
+osaamista moottorivalmistajien osalta, huippua Vaasassa. Me voisimme koettaa, esimer-
+kiksi juuri tässä itä—länsi-liikenteessä, tuottaa rataverkon, jota ei sähköistettäisi, vaan se
+olisi LNG-vetureilla tehtävää liikennettä. Päästöt vähenisivät. 
+
+Mutta, edustaja Elo, täytyy sanoa vähäpäästöisestä henkilöliikenteestä, että olen pikkui-
+sen ollut pöyristyksissä siitä, että tällä hetkellä dieselvetureitten verotus on edullisempaa
+kuin sähköveturilla ajamisen. Se on jotenkin niin ristiriidassa Suomen liikennepolitiikan
+[Puhemies koputtaa] ja ympäristötavoitteitten kanssa. [Simon Elo: Ihan hyvä huomio!]
+
+15.10 Sanna Marin sd: Arvoisa puhemies! Itse pidän kyllä välttämättömänä sitä, että näi-
+den keskeisten isojen kaupunkien tärkeimmät raideyhteydet saadaan kuntoon. Ne ovat täl-
+lä hetkellä niin hävyttömän huonossa kunnossa, että esimerkiksi Tampere—Helsinki-vä-
+lin raideyhteyden kulkemiseen, joka vielä joitakin vuosia sitten sujui puolessatoista tunnis-
+sa, menee matka-aikaa tällä hetkellä noin kaksi tuntia. Tämä on häpeällistä. Kyllä meidän
+pitää saada nämä isot pääväylät kuntoon, niin tämä päärata, Helsinki—Tampere—pohjoi-
+nen, kuin sitten myös Helsinki—Turku-väli, eikä näitä missään nimessä myöskään pidä
+laittaa vastakkain, vaan molemmat hankkeet tarvitaan. 
+
+Nämä ovat kuitenkin ison mittaluokan isoja investointeja, siitä ei päästä yhtään mihin-
+kään, ja tässä salissa ovat tänäänkin tulleet esiin nämä erilaiset innovatiiviset rahoitusrat-
+kaisut, joilla näitä isoja investointeja sitten voidaan rahoittaa. Haluaisin kuitenkin sen ver-
+ran tuoda malttia näihin innovatiivisiin rahoitusratkaisuihin, että tietenkin meidän pitää tar-
+kastella kunkin hankkeen rahoitusmahdollisuuksia mutta kuitenkin sillä tavalla, että ne tu-
+levat kokonaistaloudellisesti mahdollisimman edulliseksi. Eli ei tehdä sellaisia ratkaisuja,
+jotka lyhyellä tähtäimellä näyttävät edullisemmilta — ehkä meillä poliitikoilla voi olla kiu-
+sausta niihin tarttua — mutta jotka sitten pitkällä aikavälillä maksavatkin moninkertaisesti
+siihen nähden, mitä ne julkisesti rahoitettuina olisivat olleet. Nyt peräänkuulutan malttia,
+17
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+toki kunnianhimoa, visionäärisyyttä — sitä tarvitaan. Nämä runkoverkot pitää laittaa kun-
+toon, mutta tehdään se myös rahoituksen osalta sillä tavalla järkevästi, että veronmaksajat
+eivät joudu maksamaan ainakaan liikaa näistä isoista investoinneista.
+
+15.12 Riitta Mäkinen sd: Arvoisa rouva puhemies! Puhun nyt lyhyesti. Nostan vielä ker-
+taalleen esille kaksi asiaa.
+
+Minä esitän ensinnäkin huolenaiheeni koskien tämän raideliikenteen kehittämistä kes-
+kittyen lähtökohtaisesti pääkaupunkiseudun tarpeiden huomioimiseen. Viitaten näihin
+edellisiin puheenvuoroihin en missään tapauksessa halua kiistää näiden tarpeiden merki-
+tystä, mutta samalla haluan myös tuoda esille, että etenkin tämän päärataverkoston tulee
+olla kattava valtakunnallisesti sen kokonaistarpeet huomioiden.
+
+Keski-Suomen kansanedustajat ovat laatineet yhteisen kannanoton koskien miljoonan
+euron suunnittelurahan kohdentamista. Me esitämme, että sen tulisi pitkäjänteisesti sisäl-
+tää myös Tampereen—Jyväskylän välisen kaksoisraiteen suunnittelu. Täällä tähän asiaan
+on viitattu aiemmissa puheenvuoroissa, kun olemme keskustelleet nimenomaan siitä, että
+myös näiden keskeisten kaupunkiseutujen saavutettavuus pitäisi turvata. Kannanottomme
+tullaan tämän tiimoilta toimittamaan myös hallitukselle. Olemme ilman muuta huomioi-
+neet näitä asioita pohtiessamme myös näitä esille nostettuja yleisiä raideliikenteen kehittä-
+miseen liittyviä periaatteita.
+
+Toiseksi esitän huoleni koskien nyt suunniteltua henkilöliikenteen kilpailutusta. Vaikka
+esitys perustuu EU-lainsäädännön ja sen direktiivien toimeenpanoon ja sisältää pääosin
+teknisiä muutoksia, kyse ei ole vain siitä. Meidän on kansallisesti pidettävä huoli, että
+myös niin sanotusti kannattamattomiksi yhteyksiksi nimettyjen henkilöliikennevuorojen
+määrä, niiden käyttäjähinta ja laatu eivät saa ainakaan heikentyä nykyisestä. Tämä on mer-
+kittävä asia myös muun maan elinkeinoelämän, työssäkäynnin ja henkilöliikenteen turvaa-
+misen kannalta.
+
+Olen vahvasti myös sitä mieltä, että tälle harkitsemattomalle kiirehtimiselle ei ole nyt
+perusteita eikä tarvetta. — Kiitos.
+
+15.14 Sami Savio ps: Arvoisa puhemies! Tänään käyty keskustelu raideliikenteen kehit-
+tämisestä on äärimmäisen tärkeä asia, ja sitä on hyvä jatkaa myös tulevaisuudessa. 
+
+Tällä hallituksen esityksellä pantaisiin kansallisesti täytäntöön Euroopan unionin neljäs
+rautatiepaketti kokonaisuudessaan, ja täytäntöönpano tehtäisiin säätämällä uusi raidelii-
+kennelaki, joka korvaa voimassa olevan rautatielain sekä kaupunkiraideliikennelain. Nyt
+täytyy kuitenkin muistaa, että tämä jälkimmäinen laki on käsitelty tällä vaalikaudella ja se
+on ehtinyt olla voimassa vasta kaksi ja puoli vuotta, joten näyttää siltä, että edes hallitus ei
+itse pidä omia aiempia esityksiään enää ajanmukaisina. Tämä kertoo mielestäni jotain Si-
+pilän hallituksen toimien pitkäjänteisyydestä myös yleisemmin. 
+
+Voimassa olevaa rautatielakia on muutettu neljä kertaa, ja jokainen annetuista muutos-
+laeista on liittynyt Euroopan unionin lainsäädännön täytäntöönpanoon, ja tämä on esimerk-
+ki siitä, kuinka Euroopan unioni vähitellen askel kerrallaan sälyttää jäsenmaille yhä uusia
+säädöksiä asioissa, jotka voitaisiin pitää kansallisessa päätösvallassa.
+
+Arvoisa puhemies! Rautatiealan lainsäädäntöä on kehitetty Euroopan unionissa asteit-
+tain, ja samalla erilaisten vaatimusten määrä on kasvanut. Esimerkiksi rautateiden kehittä-
+misestä annettu neuvoston direktiivi edellytti sitä, että rautatieliikenteen harjoittaminen ja
+rataverkon hallinnointi oli eriytettävä toisistaan. Tällä hetkellä tilanne on se, että rautatie-
+18
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+alan lainsäädäntö perustuu Suomessa ja muissakin EU-jäsenvaltioissa pääosin unionilain-
+säädäntöön.
+
+Arvoisa puhemies! Jäsenvaltioilla on nykyisin hyvin vähän puhtaasti kansallista lainsää-
+däntöä. Suomen rautatielaki on pääosin unionilainsäädännön täytäntöönpanolaki, kuten
+tässä hallituksen esityksessäkin myönnetään. Kansallisen edun toteutumista esityksessä ei
+liiemmälti huomioida. Eduskunnan tulee siksi varmistaa kansallisen etumme toteutumi-
+nen tätä lakia säädettäessä.
+
+Arvoisa puhemies! Yhdyn tässä täysistunnossa esitettyihin näkemyksiin siitä, että var-
+sinkin pääradan kuntoon ja kapasiteettiin tulee kiinnittää jatkossa aivan erityistä ja ripeää
+huomiota tietenkään unohtamatta myöskään maan poikittaisliikenteen sujuvuutta, kuten
+edustaja Myllykoski tässä edellä totesi. Varsinkin tiheä ja nopea junayhteys Helsingin ja
+Tampereen välillä edistäisi huomattavasti koko muun läntisen Suomen yhteyksiä pääkau-
+punkiseudulle, muun muassa Vaasasta, Seinäjoelta ja Jyväskylästä Helsinkiin.
+
+Kehotan ministeriä nopeuttamaan ja aikaistamaan pääradan kapasiteetin parantamista
+— asia, joka on jo aiemmissa puheenvuoroissa täällä tullut esille. Se palvelisi koko maan
+liikkumisen ja elinkeinoelämän tarpeita ja parantaisi siten Suomen työllisyyttä ja palvelisi
+koko maan kansallista etua.
+
+15.17 Paavo Väyrynen kp: Arvoisa puhemies! Valitettavasti edustaja Elo poistui salista.
+Olisin halunnut esittää hänelle kysymyksen — ehkä hän kuulee jossakin ja joskus vastaa.
+Hän sanoi, että VR ja henkilöstöjärjestöt ovat tyytyväisiä tähän ehdotukseen. Olen seuran-
+nut vain julkisuuden kautta asioita, mutta ymmärsin, että alusta alkaen VR:n johto vastusti
+tätä järjestelyä, erityisesti VR:n pilkkomista. Myöskin henkilöstöjärjestöt olivat samalla
+kannalla. Mutta kun Euroopan unioniin vedoten hallitus ryhtyi kovalla kädellä tätä aja-
+maan, niin siihen on tyydytty ja sitten jollakin lailla pidetään siedettävänä tätä suunnitel-
+maa, joka nyt on esillä. Olen kyllä tämän perusteella epäilevä sen suhteen, oliko tuo kan-
+sanedustaja Elon antama selvitys ihan oikea. Oletan, että VR pitäisi parempana, että tätä ei
+toteutettaisi, ja tuskinpa henkilöstöjärjestöt olisivat pahoillaan, jos tästä pilkkomisesta luo-
+vuttaisiin.
+
+Mitä tulee näihin ratahankkeisiin, niin minun mielestäni ei pidä nyt ollenkaan koplata
+toisiinsa Tampere—Helsinki-välin liikenteen parantamista, pääradan liikenteen kohenta-
+mista ja tätä Turun tunnin junayhteyttä. Turkuun on hyvä rautatieyhteys, rantarata, joka
+palvelee sen varrella asuvien ihmisten liikennetarpeita. Tämä tunnin rautatien rakentami-
+nen, uuden rautatien rakentaminen, on mielettömän kallista, ja siitä eilen apulaispormesta-
+ri Sinnemäki antoi televisiossa lausunnon, jonka mukaan tämän rakentaminen edellyttäisi
+Pisara-radan rakentamista, joka on erittäin kallis investointi. Nyt pitäisi olla realismia näis-
+sä investointisuunnitelmissa, eikä budjetin ulkopuolelta sellaista rahaa löydy, jolla näitä
+voitaisiin noin vain toteuttaa.
+
+15.19 Matti Semi vas: Arvoisa rouva puhemies! Olen tässä kuunnellut näitä puheenvuo-
+roja ja jäin miettimään näitä ratahankkeita tämmöisen itäsuomalaisen työntekijän ja elin-
+voimaisen kaupungin pohjalta, missä teollisuus tekee nousua ja ratayhteyksiä tarvitaan.
+Ensinnäkin nämä tunnin ratayhteydet täällä Etelä-Suomessa — edustaja Väyrynen tuossa
+ihan hyvin nosti esille — ovat kalliita ratahankkeita, ja silloin pitää muistaa, että ne rahat
+ovat pois sieltä muualta Suomesta, niitten ratakorjauksista ja niistä tarpeista, mitä elinkei-
+noelämä siellä tarvitsee niitä rahoja.
+19
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+Itse ajattelen, että me tarvitsemme semmoisia ratayhteyksiä, mitä ruvetaan hankkimaan,
+millä pääsee hyvin vientisatamiin, ja pitää miettiä, mikä on suora yhteys niihin myös itä—
+länsi-suunnassa. Meillä on lännessä hyviä satamakohteita, mistä pystyy lähtemään erittäin
+edullisesti ja minne viedään tavaroita ratojen kautta. Tällä hetkellähän niitä kuljetetaan lä-
+hinnä rekoilla, ja se näyttää siltä sitten sen jälkeen, että meidän ilmastopäästöissä ei päästä
+niihin tavoitteisiin, mitä on ajateltu liikenteen osalta, koska liikenteessä polttoaineena on
+edelleenkin dieselöljy ja se pysyy siellä. 
+
+Sitten jäin miettimään näitä meidän VR:n hankkeita, niin Pieksämäellä tehdään erittäin
+hyviä tavaravaunuja. Kuitenkin näiden kilpailuttamisten kautta on vaarana se, että tämä ta-
+varavaunujen rakentaminen jää pois meiltä tältä alueelta, ja se ei minun mielestäni vastaa
+semmoista ajatusta, jota ainakin keskustapuolue jossakin vaiheessa on viljellyt, sitä, että
+meidän pitää saada alueilla pidettyä työpaikkoja ja valtion pitää ohjata niin, että työpaikat
+säilyvät, jotta meidän koko Suomi kestäisi asuttuna. Tämä iskee tässä meille tietynlaisen
+vastaiskun siihen, että palvelut, joiden pitäisi toimia, ja kuljetukset, joiden pitää toimia, ei-
+vät olekaan alueellisesti hyvin valmisteltuja ollenkaan.
+
+15.21 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Aivan kuten edustaja Semi tote-
+si, niin kyllä valtiovallalla tässä on se vastuu pitää siitä huoli, että koko Suomessa liiken-
+nöidään tasapuolisesti. Se, kestääkö se matka jonnekin kaupunkiin tasan tunnin vain tun-
+nin ja vartin, nyt ei varmasti maailmaa kaatava tekijä ole. Kyllä siinäkin pitää huomioida
+valtakunnan koko liikennejärjestelmä, ja se on valtiovallan ja eduskunnan nimenomainen
+tehtävä, että nyt sijoitetaan ne panokset, valtion rahat sinne, mistä niistä paras hyöty saa-
+vutetaan, kun kuitenkin ne junayhteydet täällä eteläisessä Suomessa, vaikka nyt Tampe-
+reelta Helsinkiin päin, ovat kohtuullisen hyvät, samoin Turusta tänne. 
+
+Esimerkiksi tuon itäisen radan saamista siihen kuntoon, mitä runkoradalta vaaditaan, pi-
+dän äärimmäisen tärkeänä. Kun aikanaan nämä Suomen rajat muuttuivat silloin 40-luvul-
+la, niin Itä-Suomi on kärsinyt koko ajan siitä, että luontaiset yhteydet tuonne Viipurin
+suuntaan katkesivat. Me olemme siitä kärsineet siitä asti, kun ei ole se liikennejärjestelmä
+oikein pelittänyt täysin hyvin. Mutta sen kuntoon saattaminen on meidän asiamme, ja tulee
+laittaa riittävä määrä rahaa, että saadaan nopea itärata tehtyä, samoin Kuutostie kuntoon. 
+
+Sitten tästä liikenteestä, mitä edustaja Semi sanoi ja Myllykoskikin puheenvuorossaan
+on sanonut monta kertaa: meillä on rataosaamista myös vaununrakennuspuolella. Todella-
+kin Transtechin tehtaat, tai Skoda taitaa ne nykyisin omistaa, ja sitten tämä Pieksämäen va-
+rikko, jossa tehdään tavaravaunuja, nämä kaikki ovat sitä osaamista, joka Suomessa pitää
+säilyttää, totta kai. 
+
+Sitten tämä diesel-/sähköjuna-asia: Minusta on joskus pikkuisen hurskastelun makua
+siinä, että vedotaan aina siihen sähköveturin käyttöön. Se on äärimmäisen tärkeä ja hyvä,
+ympäristöystävällinen tapa vetää junia eteenpäin, mutta pitää muistaa sekin, että osa säh-
+köstä tehdään kivihiilellä, eli en tiedä, onko se nyt sitten niin kovin ympäristöystävällinen
+teko tehdä sähköä kivihiilellä ja käyttää sitä sitten sähkövetureissa voimanlähteenä. Mutta
+meillähän on kuitenkin, niin kuin sanoin, dieselvetureita edelleen olemassa. LNG-tekniik-
+kaa hyvin paljon laivoissa käytetään, ja dieselin muuttaminen LNG-käyttöiseksi, maa-
+kaasukäyttöiseksi tai luonnonkaasukäyttöiseksi, jos se on vaikka biokaasua, on kovin yk-
+sinkertainen teko. Muutetaanhan henkilöautojakin kaasukäyttöisiksi, ja sen osaa ihan ta-
+van insinööri tehdä ilman erikoisempaa osaamista. Uskoisin, että myös dieselveturin muut-
+20
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+taminen kaasukäyttöiseksi onnistuu kohtuullisen hyvin. Kuitenkin, kun tarvitaan painoa
+päälle, että se juna todellakin kulkee, niin en näe siinä mitään teknistä ongelmaa. 
+
+Tässä asiassa kannattaisi pikkasen ajatella myös kokonaistaloudellisuutta, kun vetureita
+uudistetaan. Ymmärrän sen, että koko Suomen junarataverkkoa ei voida kerta kaikkiaan
+sähköistää, mutta sitä rataverkkoa, jota dieselveturit tai kaasulla käyvät veturit tarvitsevat,
+käytettäköön sen aikaisilla, sen tekniikan suomilla mahdollisuuksilla, mitä meillä on, ja
+tämä kaasusysteemi, mistä on laivoissa hyviä kokemuksia, otettakoon käyttöön myös juna-
+radoilla. En pidä sitä huonona ratkaisuna.
+
+15.24 Jari Myllykoski vas:  Arvoisa rouva puhemies! Kyllä täytyy sanoa, että oli ilo
+kuunnella edellistä, edustaja Hoskosen puheenvuoroa. Juuri näin meidän pitää pystyä las-
+kemaan, mikä on kokonaistaloudellisesti kannattavaa. Tämä LNG on kuitenkin se ratkai-
+suvaihtoehto sille dieselveturille, että me pystymme liikennepäästöjä vähentämään myös
+raideliikenteessä, koska meillä on edelleen dieselvetureita.
+
+Kun tehdään näitä laskelmia siitä, mikä hanke on kannattava, otetaan esimerkkinä nyt
+vaikkapa Lahden oikorata, niin pitäisi muistaa, kuinka paljon se on vireyttänyt Lahden ja
+Helsingin välistä henkilöliikennettä ja paljonko se on tuonut radan varressa oleville taaja-
+mille asutusta juuri sen rataverkon vuoksi. Sen takia uskon, että alueellisilla hankerahoilla
+on mahdollista rahoittaa ratahankkeita. Pidän täysin mahdollisena, että Pori—Haapamäki-
+radan hankkeessa — käytän nyt sitä esimerkkinä, kun se on minulle kaikkein helpoin, kun
+olen siihen perehtynyt — kunnat ja yritykset voivat tulla hankkeen käynnistäjiksi ja rahoit-
+taa sen, kun meillä on elementti, jolla me voimme yritystoiminnalle tavallaan antaa takai-
+sinmaksua alentamalla vaikkapa 15 vuodeksi, 20 vuodeksi raidemaksuja. Eli siellä on se
+väline, jolla voimme saada houkuteltua yrityksiä mukaan siihen investointiin, joka on siinä
+radan varrella. Ihan yhtä lailla kunnat voivat nähdä, että heidän kannattaa lähteä mukaan.
+Jos tässä kulkee tavaraliikennettä, se mahdollistaa myös henkilöliikenteen, jolloin radan-
+varren kunnat näkevät maanhintojen nousun, asumisen keskittymisen sille alueelle, missä
+on hyvät liikkumisyhteydet. Eli kyllä meillä on paljon mahdollisuuksia edistää raideliiken-
+teen kautta koko yhteiskunnan hyvinvointia ja toimivuutta.
+
+Ja vaikka täältä vasemmalta olemme aina olleet sitä mieltä, että henkilöliikenteen kilpai-
+luttaminen on erittäin vastustettava asia, niin minun täytyy sanoa näin henkilökohtaisesti,
+että kyllä minä toivoisin, että vaikkapa Pori—Ulvila—Nakkila—Harjavalta—Kokemäki-
+välillä, jossa asemat ovat keskellä kylätaajamia, voisi olla vaikkapa seutukunnallinen yh-
+tiö, maakunnallinen liikenneyhtiö tai joku yksittäinen toimija, joka voisi paljon paremmin
+mahdollistaa sen alueen pendelöinnin elinkeinoelämää tuottavasti [Puhemies koputtaa] ja
+sitä kautta myös sitten nopean raideyhteyden Porista Tampereelle.
+
+15.28 Mikko Savola kesk: Arvoisa rouva puhemies! Tämä raideliikennelaki ja EU:n nel-
+jäs rautatiepaketti, joka tässä käsittelyssä on, on kirvoittanut täällä hyvän keskustelun näis-
+tä hankkeista laajemminkin. Minun mielestäni on sinänsä hyvä, että meillä ei ole jatkossa
+enää yhtä ainutta monopolia vaan mahdollistetaan myös muiden toimijoiden pääsy raiteil-
+le. Se ei välttämättä pelkästään tuo niitä uusia toimijoita, mutta jo pelkästään se mahdolli-
+suus, että niitä tulisi, pistää myös potkua huomattavasti lisää tähän meidän yhteiseen
+VR:äämme, joka tällä hetkellä toimijana on. Tästä on jo hyviä esimerkkejä nyt saatu esi-
+merkiksi omalla kotiseudullani, jonneka nyt on sitten tullut jo lisää junavuoroja, VR on oi-
+21
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+keasti ruvennut panostamaan ja myöskin markkinoinut näitä junavuoroja, mitä se ei aikai-
+semmin ole tehnyt. Mutta palaan tuohon asiaan aivan kohta.
+
+On sinänsä hienoa, että meillä mietitään nopeita yhteyksiä ja mietitään parempia mah-
+dollisuuksia, että elinkeinoelämää pystyy raideliikenne myöskin vauhdittamaan, mutta tu-
+lee kieltämättä se kuva, että niihin alueisiin, joilla menee nyt jo todella hyvin, panostettai-
+siin paljon lisää, että niillä menisi vielä paljon paremmin. Puhutaan tunnin yhteyksistä Tur-
+kuun tai erittäin nopeista yhteyksistä Tampereen ja Helsingin välillä — varmasti aivan hy-
+viä hankkeita, mutta haluaisin kyllä aivan perustellusti nostaa esiin sitä, että eikö näitä elin-
+keinomahdollisuuksia pitäisi raideliikenteen osalta taata enemmän myös muualle Suo-
+meen. Haluan nostaa esiin erityisesti nuo poikittaisliikenneyhteydet, kuten edustaja Mylly-
+koskikin täällä puheenvuoroissaan on tehnyt.
+
+Muutama vuosi sitten Keskipohjolan vihreä kuljetuskäytävä -hanke, yhteispohjoismai-
+nen hanke, jossa oli EU-rahaa mukana, selvitti näitä tärkeitä poikittaisyhteyksiä, mitä on.
+Yhtenä osana siinä oli Kaskisten satama ja Suupohjan rata sekä Haapamäen rata, ja nämä
+ovat aivan keskeisiä toimijoita poikittaisliikenteen suhteen. Ja nyt kun näitä panostuksia
+muun muassa VR on tehnyt junavuorojen suhteen Haapamäen radalle ja käyttäjille on an-
+nettu enemmän mahdollisuuksia pendelöintiin ja esimerkiksi turisteille kulkea esimerkiksi
+Ähtärin eläinpuistoon junalla, niin näitä on käytetty ja kävijämäärä tältäkin kesältä on
+noussut yli 60 prosenttia, mikä on äärimmäisen hyvä asia. Mutta satsauksiahan tuo vaatii
+jatkossakin, ja se, että uusia toimijoita mahdollistettaisiin raiteille, tarkoittaa sitä, että esi-
+merkiksi maakunnat tai kunnat, ja yksityistä rahaa siinä mukana, pystyisivät itse perusta-
+maan yhtiön, joka voisi esimerkiksi työmatkaliikennettä palvella paremmin ja tehdä sitä
+syöttöliikennettä sitten myöskin tuonne pääradalle.
+
+Mutta joka tapauksessa on hyvä, [Puhemies koputtaa] että lainsäädäntö etenee ja mah-
+dollistetaan näitä uusia toimijoita raiteille.
+
+15.31 Suna Kymäläinen sd:  Arvoisa rouva puhemies! Tämä edustaja Savolan puheen-
+vuoro tässä kilvoitti vielä itseänikin ottamaan puheenvuoron.
+
+Ihan ensimmäiseksi haluaisin todeta, että tämmöiseen sokeaan markkinoiden avaami-
+sen ja sen mukanaan tuoman pelastuksen uskoon en kykene yhtymään. Ihan pelkästään Ir-
+lannin ja Ison-Britannian tapaukset ovat esimerkkejä siitä, mitä kilpailun avaaminen raide-
+liikenteessä voi pahimmillaan eteen tuoda.
+
+Sen sijaan siitä keskustelusta, että ei myöskään ole järkevää kokonaan sulkea näitä kil-
+pailun avaamisen mahdollisuuksia, totean, että pelkästään kielteisestikään tähän asiaan ei
+ole järkevää suhtautua. Kuten toin tuossa aiemmassa puheenvuorossani esille, näen tär-
+keäksi, että meillä liikenne- ja viestintävaliokunnassa tarkastellaan tarkasti muun muassa
+sitä, voisiko tätä ratakapasiteetin hakuoikeutta laajentaa liikennöitsijöistä muihin toimijoi-
+hin, joilla olisi tällaisia julkisen palvelun tarjoamiseen liittyviä tai kaupallisista syistä joh-
+tuvia haluja hankkia ratakapasiteettia.
+
+15.32 Mikko Savola kesk:  Arvoisa rouva puhemies! Kyllä se vain niin on, että kun on
+yksi toimija ollut raiteilla eikä ole ollut kilpailua, ei ole myöskään tarvinnut hirveästi pa-
+nostaa ihan joka puolelle Suomea. On keskitytty vain muutamiin pääväyliin. Tiedän sen,
+että vuodesta 94 joka ikisenä eduskuntavaalikautena jonkin sortin karvalakkivaltuuskunta
+on hypännyt täällä ministeriöissä kertomassa siitä tärkeydestä, mikä esimerkiksi poikittais-
+radalla on, ja anomassa siihen rahaa, että voisiko tuo nyt toimia, sekä VR:ssä että liikenne-
+22
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+ministeriössä. Ja sitten on kitkutettu eteenpäin aina yksi vaalikausi, ja taas ollaan oltu vas-
+taavassa tilanteessa, joten tähän kyllä halutaan pysyvämpää muutosta.
+
+Nyt jo pelkästään se, että on lähdetty selvittämään uusia toimijoita — meidänkin alueel-
+la on mahdollisuus pilotti pyöräyttää käyntiin, missä saataisiin uusia toimijoita raiteille —
+on parantanut VR:n itsensä toimintaa. Se on lisännyt junavuoroja, se on lisännyt markki-
+nointia ja parantanut sitä. Minä näen kokonaisuudessaan, että se, että kilpailua tulee, on
+hyvä asia. Tästä on hyviä esimerkkejä länsinaapuri Ruotsissa, jossa maaseutualueilla on
+useita toimijoita ja junat kulkevat huomattavasti taajempaan kuin ne tekevät meillä.
+
+Minä toivoisin, että pääsisimme siihen tilanteeseen, että ei tarvitsisi karvalakkivaltuus-
+kuntien joka vuosi tai vaalikausi käydä vaan päästäisiin pysyvämpiin ratkaisuihin. Yksi
+vaihtoehto siinä voisi olla esimerkiksi maakunnallinen raideyhtiö, joka pystyisi lähimatka-
+liikennettä, työmatkaliikennettä palvelemaan sellaisilla junavuoroilla, joita ihmiset voivat
+käyttää myöskin töissä käymiseen.
+
+15.34 Suna Kymäläinen sd: Arvoisa rouva puhemies! Tosiaan Suomessa on 90 prosent-
+tia raiteista yksiraiteisia. Tuo tarve poikittaisraiteista on kiistaton. 
+
+Parhaillaan itse olen jäsenenä tässä ministeri Bernerin liikkenneverkkotyöryhmässä,
+jossa nimenomaan suunnittelemme pitkän tähtäimen investointeja ja mietimme, kuinka ra-
+hoituksia pystytään paremmin hankkimaan. VR:n toimintakykyyn ovat vaikuttaneet muun
+muassa hallituksen toimet silloin, kun puhutaan ostoliikenteestä tai muusta, ja tiedetään,
+että VR pystyy paremmin huolehtimaan myös niillä kannattamattomilla alueilla liikenteen
+järjestämisestä, kun siihen saadaan hallitukselta tukea. Se näkyi junavuorojen lisääntymi-
+senä välittömästi, kun hallitus antoi kädenojennuksen VR:lle aiempia leikkauksiaan korja-
+ten. 
+
+En itse usko, että kannattamattomille raideväleille syntyy suurta kilpailua. Yleensä se on
+niin, että yksityiset toimijat toimivat siellä, missä on mahdollisuus myöskin voittoihin. Sen
+takia VR:n myötä on pystytty mahdollistamaan, että niillä tiheästi liikennöidyillä alueilla
+ja niiden raideväleistä saaduilla voitoilla pystytään tasaamaan kustannuksia, niin että lii-
+kennettä on myöskin sellaisilla alueilla, joilla liikennettä on harvassa eikä se ole kannatta-
+vaa. Sen vuoksi en kannata sitä, että yksiraiteista, harvaan liikennöityjen alueiden liiken-
+nöintiä täysin alistetaan kilpailulle.
+
+15.36 Paavo Väyrynen kp: Arvoisa puhemies! Mielenkiintoista todeta, että tätä hanketta
+nyt perustellaan maakuntien paikallisilla tarpeilla, kun tietysti tämä koko hanke lähtee Eu-
+roopan unionin lainsäädännöstä, jolla halutaan avata kilpailu suurimpien kaupunkien välil-
+lä toteutettavaan rautatieliikenteeseen. Minun järkeeni ei mahdu se, että Suomen oloissa,
+missä ovat kuitenkin suhteellisen pieniä nämä suurimmatkin kaupungit, olisi järkevää pilk-
+koa sitä liikennettä useamman yrityksen hoidettavaksi. Onhan jo nykyjärjestelmässä mah-
+dollista toimia paikallisesti. Helsingin seudulla on HSL, joka toteuttaa raideliikennettä. VR
+hoitaa valtaosan Suomesta. Totta kai muuallakin voidaan nykyisen lainsäädännön puitteis-
+sa kehittää tällaisia alueellisia ja paikallisia järjestelyjä. Kyllä tämä hanke minun mielestä-
+ni on kerta kaikkiaan huonosti harkittu, ja toivon, että valiokunnassa tämä asia tarkkaan
+tutkitaan. Ei Euroopan unionin lainsäädäntö edellytä sitä, että me teemme tämän kilpailun
+avaamisen tavalla, joka nyt näyttää olevan tavoitteena. Nykyjärjestelmää voidaan aivan
+hyvin myöskin kehittää.
+23
+
+
+
+Pöytäkirjan asiakohta PTK 82/2018 vp
+Mitä tulee Suomen rautatieliikenteen kehittämiseen, niin siinähän on paljon tarpeita.
+Meillä on valtava määrä huonokuntoisia maanteitä. Nyt puhutaan miljardihankkeista kaik-
+kein suurimpien kaupunkien liikenteen edistämiseksi, ja siinä suhteessa on kyllä hyvin vai-
+kea ymmärtää, mitä esimerkiksi Turun oikorata oikein toisi tullessaan. Viidentoista minuu-
+tin matkustusajan lyhenemisen ehkä, ja rantarata jäisi vähälle käytölle, ja sen varrella asu-
+vat ihmiset menettäisivät palveluja. Eihän tämä oikorata, tunnin rautatie, tarkoita sitä, että
+Lohjalla ja Salossa pysähdyttäisiin, vaan se olisi sitten Turusta Helsinkiin ja Helsingistä
+Turkuun suoraan ilman pysähdyksiä.
+
+15.38 Jari Myllykoski vas:  Arvoisa rouva puhemies! Ihan semmoisena arkirealistisena
+toteamuksena on se, että kun valtion omistusta siirretään yksityiselle, niin emme sitten
+enää ole sen omistuksen päällekatsojia. Tänään ollaan yhden ketjun ja yhden näytelmän
+valitettavan päättymisen edessä, kun aiemmin valtionyhtiö Kemira, joka toimi pigmentin
+valmistajana Porissa, on tällä hetkellä muutaman yrityskaupan jälkeen tilanteessa, jossa
+omistaja Venator ilmoitti, että ”suljemme tehtaan”. Myös nämä pitäisi aina uskaltaa katsoa
+eli se, kuinka pitkälle olemme viemässä meidän omassa omistuksessamme olevaa pää-
+omaa, ja varsinkin infran suhteen toivoisin erittäin suurta harkintaa siihen, mihinkä antau-
+dumme, on se sitten EU-lainsäädännön tai tämän hallituksen erityisen sinnikäs tahtotila
+yksityistää kaikki. Varsinkin täällä liikennepuolelle ollaan menty, voisin sanoa, erittäin ko-
+valla tahdolla, niin kuin ensimmäisessä puheenvuorossani totesin. Vauhti on ollut päätä-
+huimaava, eikä välttämättä aina ole turvavyö ollut siinä asennossa kuin olisi pitänyt. 
+
+Kaiken kaikkiaan edustaja Väyrynen nosti esille sen, että onhan meillä se jo nyt mah-
+dollista, mutta tietysti olemme täällä olleet henkilöliikenteen kilpailutuksen vapauttami-
+sen jarrumiehinä. Mutta näkisin, että se, että meillä pääradalla ajatellaan kilpailuttaa hen-
+kilöliikennettä, olisi aika kummallinen näky. Menisikö niitä kolme vai neljä junaa sitten
+peräkkäin, eli sen, joka edullisemmin tarjoaa, sitten asiakkaat valitsevat? Eivät ne mahdu
+meidän kotimaisille ratapihoillemme, ei mahdu yhtään kalustoa enempää kuin tällä hetkel-
+lä.
+
+15.41 Matti Semi vas:  Arvoisa rouva puhemies! Jäin miettimään tätä, että VR:hän on
+meidän valtion oma yhtiö, elikkä me itse omistamme tämän koko hela hoidon ja mietimme
+sitä, mitenkä sitä toimintaa tulee kehittää. Totta kai toiminnan kehittämisen pitää olla pää-
+asiana. Mutta sitten kun luin täältä näitä viime vuoden tuloksia, niin VR Groupin liikevoit-
+to oli 35,6 miljoonaa euroa, ja se tulouttaa siitä vähän valtiolle, ja sitten valtio ostaa kui-
+tenkin ostopalveluna nämä heikommin tuottavat radat ja tämmöiset rataosuudet ja määrää
+sinne sen liikenteen järjestettäväksi. Tuntuu jotenkin hullunkuriselta, että tämmöinen val-
+tionyhtiö siirtelee rahaa edestakaisin, jotta isäntä sitten pääsee määräämään, että missä te
+ajatte ja mitenkä ajatte. Kyllähän meidän pitäisi linjata kokonaisuudessaan siitä, mitenkä
+näitä meidän ratahankkeita kehitetään ja viedään eteenpäin, jotta se palvelee meidän yh-
+teiskuntaa, meidän yhteiskunnan kilpailukykyä ja tämmöistä toimintaa, eikä siitä, että nyt
+ruvetaan näitä meidän omia yhtiöitä pilkkomaan ja jakamaan markkinoille, pois meidän
+omasta hallinnastamme.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan.
+24
+
+
+	3
+	14.01
+	14.04
+	14.12
+	14.13
+	14.14
+	14.15
+	14.16
+	14.17
+	14.18
+	14.19
+	14.20
+	14.20
+	14.21
+	14.23
+	14.24
+	14.25
+	14.26
+	14.27
+	14.28
+	14.29
+	14.31
+	14.32
+	14.33
+	14.34
+	14.35
+	14.39
+	14.42
+	14.47
+	14.49
+	14.52
+	14.56
+	15.01
+	15.04
+	15.07
+	15.10
+	15.12
+	15.14
+	15.17
+	15.19
+	15.21
+	15.24
+	15.28
+	15.31
+	15.32
+	15.34
+	15.36
+	15.38
+	15.41
+
+

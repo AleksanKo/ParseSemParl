@@ -1,0 +1,565 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM149D.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 7/2018 vp
+
+Täysistunto
+
+Torstai 15.2.2018 klo 16.03—17.54
+
+4. Hallituksen kertomus kielilainsäädännön soveltamisesta 2017
+Kertomus K 18/2017 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 4. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään perustuslakivaliokuntaan.
+
+Keskustelu alkaa, ministeri Häkkänen on esittelemässä. [Hälinää — Puhemies koput-
+taa] — Pyydän kaikkia edustajia, jotka haluavat pitää kokouksia, siirtymään salin ulkopuo-
+lelle.
+
+Keskustelu
+
+17.01 Oikeusministeri Antti Häkkänen (esittelypuheenvuoro):  Arvoisa puhemies, ära-
+de talman! Eduskunta saa nyt käsiteltäväkseen hallituksen kertomuksen kielilainsäädän-
+nön soveltamisesta 2017. Kertomus on kattava paketti tietoa, oikeuksien seurantaa ja myös
+käytännön hyviä esimerkkejä kielellisten oikeuksien toteutumisesta. Kielelliset oikeudet
+ovat perusoikeuksia, niillä on tärkeä tehtävä oikeusvaltiossa. Kielellisten oikeuksien toteu-
+tuminen on usein edellytys muiden perusoikeuksien toteutumiselle.
+
+Enligt lagen ska regeringen vart fjärde år lämna en språkberättelse till riksdagen. I den ska
+redogöras för tillämpningen av språklagstiftningen och hur de språkliga rättigheterna för-
+verkligas samt vid behov även om andra omständigheter som gäller språk. Förutom finska
+och svenska tas åtminstone samiska, romani och teckenspråk upp i berättelsen. I berättel-
+sen ska lyftas fram både positiva och negativa trender.
+
+Arvoisa puhemies! Kertomuksen valmistelu on hyvä esimerkki hallituksen yhteistyöstä
+kieliryhmien kanssa. Kertomusta varten on järjestetty runsaasti kuulemisia ja tapaamisia
+kieliryhmien ja viiteryhmien sekä asiantuntijoiden ja viranomaisten kanssa. Näin kieliryh-
+mien käsitys omasta tilastaan on otettu huomioon. Kertomuksen taustalla on myös kaksi
+oikeusministeriön teettämää tutkimusta: Kielibarometri 2016 ja saamebarometri, joka to-
+teutettiin ensimmäistä kertaa.
+
+Vuoden 2017 kertomuksessa syvennytään muutamaan keskeiseen teemaan. Teemojen
+valinta perustuu muun muassa perustuslakivaliokunnan vuoden 2013 kertomuksesta anta-
+maan mietintöön. Saamen ja viittomakielen seurantaa on kertomuksessa lisätty tuntuvasti.
+Kertomuksen keskeiset teemat ovat kielellisten oikeuksien toteutuminen sosiaali- ja ter-
+veydenhuollossa, kieliolot ja kieli-ilmapiiri, valtionyhtiöt sekä digitalisaatio ja kotouttami-
+nen.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+Suomen asukasluku kasvaa tasaisesti. Kieliryhmien väliset kielisuhteet ovat muuttuneet
+neljässä vuodessa. Suomen- ja ruotsinkielisten määrä on vähentynyt viime vuosien aikana,
+kun taas saamenkielisten määrä on ollut lievässä kasvussa. Vieraskielisten määrä ja osuus
+väestöstä on kasvanut myös. Suurimmat vieraskieliset ryhmät ovat tällä hetkellä venäjän-
+ja vironkieliset. Arabian kieli ohitti somalin kielen vuonna 2016. Myös yhä useampi suo-
+men- ja ruotsinkielinen muuttaa pois Suomesta, mutta suurin osa maastamuuttajista on kui-
+tenkin vieraskielisiä.
+
+Yleinen kieli-ilmapiiri näyttäisi jonkin verran koventuneen edellisen kertomuksen anta-
+misen jälkeen. Tämä tulee esiin Kielibarometri 2016- ja saamebarometriselvityksistä sekä
+oikeusministeriön saamista lausunnoista ja kyselyistä. Erittäin vakavaa on, että vähemmis-
+töryhmät kokevat valtaväestöä enemmän häirintää ja syrjintää ja he joutuvat useammin
+myös vihapuheen kohteeksi. Tämä koskee myös kotoperäisiä kieliryhmiämme, kuten ruot-
+sin- ja saamenkielisiä. Tämä ei ole hyväksyttävää. Kieli- ja väestöryhmien kokemaa häi-
+rintää ja syrjintää pitää torjua aktiivisesti ruohonjuuritasolta tänne eduskuntaan ja hallituk-
+seen asti. Kertomus sisältää keskeisiä huomioita siitä, miten kieli-ilmapiiriä voitaisiin edel-
+leen parantaa. Osa huomioista koskee viranomaisten omaa toimintaa.
+
+Vuoden 2006 kielikertomuksesta lähtien on seurattu, miten oman kielen käyttäminen to-
+teutuu sosiaali- ja terveydenhuollon asiakastilanteissa. Potilaan ja sosiaalihuollon asiak-
+kaan oikeus käyttää omaa kieltään koetaan erityisen tärkeäksi. Alueilla, joilla kieliryhmät
+ovat samansuuruisia tai joilla pienemmän kieliryhmän suhteellinen osuus on kohtalaisen
+suuri, kielelliset oikeudet toteutuvat pääsääntöisesti hyvin. Alueilla, joilla toista kansallis-
+kieltä puhuvien osuus on pieni, kielellisten oikeuksien toteutuminen taas vaatii erityistä
+suunnittelua.
+
+Kyselyjen perusteella viranomaisten ja palveluntarjoajien asenteet sekä tiedon puute
+saamen kielilain velvoitteista koetaan saamenkielisten oikeuksien toteutumisen esteeksi
+sote-palveluissa. Osa saamelaisista ei myöskään tunne oikeuksiaan kovin hyvin, ja tietoa
+tarjolla olevista saamenkielisistä palveluista koetaan olevan myös huonosti saatavilla. Saa-
+menkielisten sosiaali- ja terveyspalvelujen järjestämisessä erityisenä lisähaasteena on kui-
+tenkin puute saamen kielen taitoisesta ammattihenkilöstöstä etenkin julkisen sektorin pal-
+veluissa. Valtion taholta toimenpiteitä tilanteen parantamiseksi on tehty pitkään.
+
+Kertomusta valmisteltaessa on käynyt ilmi, että voimassa olevat sosiaalihuollon asia-
+kaslain ja potilaslain säädökset tulkitsemisesta ja tulkin hankkimisesta ovat ongelmallisia
+viittomakieltä käyttävien kannalta. Saatujen lausuntojen mukaan viranomaisten asenteet
+viittomakielisten kielellisiä tarpeita kohtaan ovat usein vähätteleviä tai jopa kielteisiä. Mei-
+dän kaikkien tulisi ymmärtää, että viittomakieliset ovat oma kieliryhmänsä.
+
+Arvoisa puhemies! Sosiaali- ja terveydenhuollossa on kertomuksen mukaan yhä enem-
+män kiinnitettävä huomiota henkilöstön kielitaitoon, kielellisten oikeuksien merkityksen
+tiedostamiseen ja palvelujen järjestämiseen siten, että samaa kieltä puhuva henkilökunta ja
+asiakkaat kohtaavat. Kertomuksessa on valtion omistamista yhtiöistä päädytty tarkastele-
+maan erityisesti Posti Group Oyj:n, Finavia Oyj:n ja VR:n kielellisiä palveluita. Suomen-
+kieliset ovat suunnilleen yhtä tyytyväisiä kaikkien kolmen valtionyhtiön kielellisiin palve-
+luihin. Ongelmia näyttäisi olevan ruotsinkielisten palvelujen tarjonnassa. Selvitysten pe-
+rusteella on voitu tehdä se johtopäätös, että suurin ongelma on henkilökunnan puutteelli-
+nen ruotsin kielen taito. Yhtiöissä on kuitenkin hyvin paikannettu ongelmat ja pitkään
+myös pyritty edesauttamaan tilannetta parempaan suuntaan.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+Kertomuksessa on pyritty tuomaan esiin digitalisaation tuomia mahdollisuuksia mutta
+myös haasteita. Esimerkiksi etätulkkaus ja puheentunnistus ovat mahdollisuuksia, etenkin
+kun kyse on pienistä kielistä. Digitalisaatiossa on kuitenkin kiinnitettävä erittäin paljon
+huomiota terminologiaan ja kielen laatuun. Tämä on haaste sekä suomen että ruotsin kie-
+lessä.
+
+Hallituksen kertomus kielilainsäädännön soveltamisesta 2017 sisältää useita keskeisiä
+huomioita kielellisten oikeuksien toteutumisesta ja kehittämismahdollisuuksista. Valtio-
+neuvoston seuraava askel on konkretisoida toimenpiteitä ja toteuttaa niitä. Niihin on hyvät
+mahdollisuudet. Kertomus paljastaa, miten syvällä rakenteissamme useamman kuin yhden
+kielen huomioiminen kuitenkin on. Tämä auttaa meitä yhä monikielisemmäksikin muuttu-
+vassa maailmassamme. Kielet ovat vuorovaikutusta, eivät vastakkainasettelua varten.
+
+17.09 Mikaela Nylander r: Arvoisa puhemies, värderade talman! Haluan aloittaa kiittä-
+mällä tästä hyvästä työstä, ja arvostan suuresti sitä työtä, mitä oikeusministeriö tekee, mitä
+tulee kielellisten oikeuksien seurantaan ja toteuttamiseen. 
+
+Haluaisin puhua vähän viittomakielten, molempien viittomakielten, asemasta. Tässä to-
+detaan minun mielestäni todella hyvin, miten vaikeata on esimerkiksi saada opetusta viit-
+tomakielellä. Tästä kärsivät lapset ja tietysti perheet. Jos emme tunnista tätä oikeutta saada
+opetusta viittomakielessä ja -kielellä, niin silloin teemme kyllä todella ison virheen, ja näin
+näyttää olevan. Minulla on nyt ruotsinkielinen versio tässä, mutta tässä todetaan, että
+”många myndigheters attityder speglar uppfattningen att teckenspråket bara är ett hjälpme-
+del”. Siis viranomaiskäsitys, ja nyt puhutaan laajasti viranomaisista, näyttäisi olevan, että
+viittomakieli on ainoastaan apuväline, väline kommunikoida, ja silloin ei kyllä tunnisteta
+sitä, että on kyse äidinkielestä ja että on kyse myös osasta identiteettiä, että viittomakieli äi-
+dinkielenä on osa sitä lasten identiteettiä ja myös perheiden. 
+
+Minun mielestäni me olemme yrittäneet edistää tätä, että lapsilla olisi oikeus saada ope-
+tusta viittomakielellä, mutta näköjään meillä on edelleen puutteita tässä, jos se on näin, ku-
+ten tässä todetaan, että edelleenkään viranomaiset eivät tunnista, että tässä on kyse äidin-
+kielestä, on kyse identiteetistä, kulttuurista. Tästä minun mielestäni meidän olisi syytä pu-
+hua, mitä voidaan tehdä, miten voidaan edistää lasten ja perheiden oikeutta saada tätä ope-
+tusta. 
+
+Värderade talman! En annan fråga som jag tror skulle vara jätteviktig att debattera just nu
+är hur vi ska trygga rätten att använda teckenspråk — och jag talar både om det finska och
+det finlandssvenska teckenspråket — när vi går in för de här stora reformerna, landskaps-
+reformen, vårdreformen. För i de utkast till lag, lagstiftning som vi har och behandlar finns
+det inte nämnt någonting om teckenspråkens status och rätt. Det här är någonting som re-
+geringen nu borde titta otroligt noggrant på, för annars riskerar vi att göra enormt stora fel.
+
+Arvoisa puhemies! Minun mielestäni juuri nyt, tällä hetkellä, meidän tulisi keskustella sii-
+tä, mitkä ovat viittomakielisten oikeudet, mitä tulee maakuntauudistukseen, sote-uudistuk-
+seen. Niissä luonnoksissa lainsäädännöksi, mitä minä olen nähnyt, missään ei mainita, että
+sinulla olisi oikeus käyttää viittomakieliä, ja nyt puhun sekä suomenkielisestä että suomen-
+ruotsalaisesta viittomakielestä. Tähän minun mielestäni hallituksen tulisi nyt puuttua, mi-
+ten voidaan taata nämä oikeudet, koska nyt puhutaan vähemmistöistä, ja ellei löydy lain-
+säädännössä näitä selkeitä oikeuksia, ellei niitä oteta pykäliin mukaan, niin on todella vai-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+keata, melkein mahdotonta, käytännössä toteuttaa nämä oikeudet käyttää viittomakieliä,
+molempia, tässä maassa. Joten tästä olisi varmasti syytä keskustella täällä nyt, mitä hallitus
+voi tehdä ja aikoo tehdä, jotta voidaan turvata viittomakielisten asema, mitä tulee näihin
+uudistuksiin. On kysymys kuitenkin sosiaali- ja terveydenhuoltoon liittyvistä palveluista,
+joten ihmiset tarvitsevat niitä ja heillä tulisi olla oikeus puhua omaa äidinkieltään.
+
+17.14 Thomas Blomqvist r: Värderade fru talman, arvoisa puhemies! I regeringens berät-
+telse om tillämpningen av språklagstiftningen — jag vill gärna säga det också till ministern
+— som jag tycker är väl arbetad och en mycket bra berättelse, finns många iakttagelser om
+tillgodoseendet av de språkliga rättigheterna, precis som det ska vara. 
+
+Några av de mest centrala iakttagelserna: Jag lyfter upp de utmaningar i språkförhållan-
+dena som många av oss svenskspråkiga möter i vardagen. Det går inte att bortse från att det
+finns en hel del att förbättra i språkklimatet. Det behövs en positivare attityd gentemot oli-
+ka språkgrupper inklusive dem som använder teckenspråk. Statsmakten med riksdagen och
+regeringen i spetsen bär i slutändan ansvaret för det här attitydklimatet i samhället, och vi
+måste alla ta på allvar att försöka främja ett positivare attitydklimat. En sak som kommer
+fram i berättelsen är att även myndigheternas medvetenhet om sin skyldighet att betjäna på
+båda nationalspråken bör förbättras. Det är endast på det sättet som den enskilda individen
+kan känna sig trygg i att verkligen kunna få de språkliga rättigheterna tillgodosedda.
+
+Arvoisa puhemies! Erilaisten yhteiskunnallisten palveluiden henkilökunta on avainase-
+massa kielellisten oikeuksien toteutumisessa, todetaan tässä kertomuksessa. Se on aivan
+totta. Henkilökunnan kielitaidot ovat ratkaisevia asiakkaan kokemuksen ja hänen saaman-
+sa palvelun kannalta. Henkilökunnan on pystyttävä palvelemaan kaikkia suomalaisia yh-
+denvertaisesti sekä suomeksi että ruotsiksi, mutta valitettavasti tämä ei kyllä toteudu arjes-
+sa. Etenkin sosiaali- ja terveyspalveluiden osalta ruotsinkielisten palveluiden yhdenvertai-
+nen saanti on todella iso haaste, johon törmätään jatkuvasti. Tärkeä huomio hallituksen
+kertomuksessa on, että palvelu asiakkaan omalla kielellä on osa hyvää ja laadukasta hoi-
+toa. Se ei ole mitään luksusta, vaan se on todella tärkeä osa sitä hoitoa.
+
+Kielellisten oikeuksien turvaaminen vaatii myös hallinnollisia erillisratkaisuja. Tämän
+hallituksen olisi hyvä huomata se myös omissa päätöksissään, ja haluankin kysyä ministe-
+riltä, miten aiotte ministerinä, ja myös hallitus aikoo, seuraavissa päätöksissä ja hankkeis-
+sa ottaa tämän huomioon. Teillä oli paljon hyviä kannanottoja omassa puheessanne, mutta
+tarvitaan myös sitä, että se tulee sitten näkyviin myös käytännössä.
+
+Esimerkiksi kun päätetään, missä palveluja tuotetaan, kieltä osaavan henkilökunnan
+saantia voidaan kyllä tehdä vaikeammaksi tai helpommaksi. Jos joku palvelua tuottava lai-
+tos siirretään pois kaksikieliseltä paikkakunnalta, niin todennäköistä on, että tämän kieli-
+taitoisen henkilökunnan rekrytointi kyllä vaikeutuu. Esimerkiksi täyden päivystyksen sai-
+raalan siirtäminen pois Vaasasta tai käräjäoikeuksien siirtäminen pois Porvoosta ja Raase-
+porista ovat hyviä huonoja esimerkkejä siitä, miten ei pitäisi toimia. Näin toimimalla suo-
+mea ja ruotsia, molempia kieliä, osaavan henkilökunnan rekrytointi kyllä vaikeutuu.
+
+Värderade talman! I berättelsen konstateras för de statligt ägda bolagens del att de får ett re-
+lativt dåligt betyg. Det konstaterade också ministern. Ministern sade att man har vidtagit en
+del åtgärder, men jag tycker att de här åtgärderna är otillräckliga. Också här är det språk-
+kunnig personal som det brister på. Man har inte tillräckligt språkkunnig personal. Det
+4
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+finns en hel del man kan göra för att underlätta den här situationen och som inte heller skul-
+le innebära högre kostnader. Jag hoppas att regeringen noggrant läser den här berättelsen
+och tar vara på de goda råd och de konstateranden som finns i den.
+
+17.19 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Kertomus on kattava ja si-
+sältää paljon tärkeää mutta myös huolestuttavaa informaatiota. Ei varmaan tule monelle-
+kaan meistä yllätyksenä, että Suomessa on kulttuuria, jossa erilaisuutta ei katsota hyvällä,
+ja tämä kulttuuri näyttää pesiytyneen myös suomalaiseen kielikeskusteluun. Surullisena
+luinkin sitä, että esimerkiksi alle 30-vuotiaat ruotsinkieliset kertovat pelkäävänsä jopa
+käyttää omaa äidinkieltään tietyissä tilanteissa, kuten esimerkiksi julkisissa kulkuneuvois-
+sa. Tällainen ilmapiiri meidän yhteiskunnassamme tällä hetkellä on. On myös huolestutta-
+vaa, että ihmiset arvioiden mukaan eivät usko tilanteen parantuvan tästä nykyisestä lähi-
+vuosina, mikä tietenkin kertoo pessimistisestä ilmapiiristä myös.
+
+On havaittavissa, että palveluissa olisi edelleen tarpeen huomioida kielten monimuotoi-
+suutta ja ylipäätään ehkä toteuttaa yhteiskunnassa sellaista puhdistavaa valistusta ja arvo-
+keskustelua, jolla me saisimme purettua näitä ennakkoluuloja, joita selvästi liittyy kieliky-
+symyksiin edelleen.
+
+On huomioitavaa myös se, että myös suomenkielisistä vastaajista varsin moni on huo-
+mannut tämän ilmiön ja kokee kielipoliittisen ilmapiirin kiristyneen tässä maassa. Toivoi-
+sin, että ministeri kiinnittäisi tähän asiaan huomiota, ja mietin, minkälaisia keinoja meillä
+sitten voisi olla, jotta me voisimme nykytilannetta parantaa, ja varmaan meidän kannattaa
+jo varhaiskasvatuksesta alkaen pyrkiä tutustuttamaan ihmisiä meidän kotimaisiin kieliim-
+me ja myös muihin kieliin ja purkamaan niitä ennakkoluuloja, joita ihmisillä on. Se on pit-
+käjänteistä työtä ja vaatii sukupolvien ajan vaikuttamista, mutta mielestäni tähän kannat-
+taa nyt kiinnittää erityistä huomiota.
+
+17.21 Simon Elo sin: Arvoisa puhemies! Ensisijaisesti pitää huomata myös se tilanne, mi-
+ten Suomen kieliolot ovat muuttuneet. Väkiluku kasvaa tasaisesti, mutta sekä suomen- että
+ruotsinkielisten osuus väestöstä on viime vuosina laskenut, eli on selvää, että monimuo-
+toistumme tältä osin kielipolitiikassa.
+
+Toisaalta sitten tietysti perustilanne on myös se, että perustuslain mukaisesti meillä on
+kaksi kansalliskieltä ja niillä on erityisasema ja sitä tulee kunnioittaa. Olen tästä samaa
+mieltä kuin edustaja Parviainen, että on erittäin huolestuttavaa, jos meillä on kielellisiä
+väestöryhmiä, jotka eivät uskalla käyttää omaa kieltään esimerkiksi julkisesti. Kyllähän se
+aiheuttaa suuria kysymyksiä siitä, miten tosiaan tällaista myönteistä asenneilmapiiriä pitää
+kehittää. Asioista pitää voida puhua niiden oikeilla nimillä ja käydä kriittistäkin keskuste-
+lua, olla erilaisia mielipiteitä, mutta minkäänlaiseen vihamielisyyteen se ei saa johtaa.
+
+Tässä tuli esille, että etenkin ruotsinkielistä henkilöstöä on ollut vaikea rekrytoida. Täs-
+sä tietysti herää sitten se kriittinen kysymys, että kun meillä kuitenkin on koko väestöä,
+kaikkia koulutusasteita koskeva ruotsin kielen opetus, niin miten voi sitten olla niin huono
+tilanne, että ei tosiaan saada osaavia ihmisiä, vaikka sitä massaa sinänsä pitäisi olla. Onko
+sitten opetuksessa jotain vikaa vai missä, mutta tätäkin on syytä pohtia.
+
+Toisaalta en pidä myöskään siitä ajatuksesta, mihin helposti sitten menisi ajatuksen-
+omaisesti, että vain äidinkielenään sitä kieltä puhuva olisi riittävän pätevä. Sekään ei voi
+olla sopiva määritelmä, vaan kyllä pitää pystyä käyttämään myös henkilöitä, jotka ovat
+opiskelleet sen kielen ja ovat riittävällä tasolla siinä.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+Toisaalta tässä ei käsitellä juurikaan suomen kielen asemaa, mikä sekin olisi tärkeä kä-
+sitellä siinä suhteessa, että esimerkiksi yliopistoissa voidaan päättää muun kielen kuin ope-
+tus- ja tutkintokielen opintosuorituksista eli esimerkiksi englannin kieli on vallannut hyvin
+paljon alaa tutkija- ja maisterikoulutuksessa ja suomen ja ruotsin kielen asema on tällä erää
+heikentynyt tässä kohdin. Tämä on huolestuttavaa näiden kielten elinvoimaisuuden kan-
+nalta. Meidän pitää edelleen pystyä tekemään myös tutkimusta ja tutkintosuorituksia suo-
+meksi ja ruotsiksi, meidän kansalliskielillämme.
+
+17.23 Merja Mäkisalo-Ropponen sd:  Arvoisa puhemies! Viittomakielen tilannetta on
+tässä hallituksen kertomuksessa käsitelty melko hyvin siinä mielessä, että kertomuksessa
+on kuvattu monia ongelmia viittomakielisten yhdenvertaisten oikeuksien toteutumisessa.
+Kuten ministerikin totesi, viittomakieliset ovat oma kieliryhmänsä, ja tätä ei aina edelleen-
+kään muisteta. On surullista, että on niin paljon asennetta, että jos ihminen kykenee luke-
+maan tai kirjoittamaan suomen kielellä, niin viittomakielen käyttöä voitaisiin vähentää tai
+sitä ei sitten tarvittaisikaan.
+
+Eihän se näin saa olla, koska suomi on kuurolle aina vieras kieli. Kieli luo myöskin kult-
+tuuria, ja siksi kaksikielisessä perheessä asuvalla lapsella pitäisi olla oikeus molempien äi-
+dinkielten opetukseen. Tällä hetkellä monissa kunnissa on sellainen tilanne, että kuurojen
+vanhempien kuulevat lapset eivät saa opetusta toisesta äidinkielestään eli siitä viittomakie-
+lestä. Onko ministeri tietoinen tästä asiasta, ja mitä tälle asialle voisi tehdä? Silloin lapsi ei
+pääse sisälle siihen kuurojen kulttuuriin, siihen viittomakielen kulttuurin, jos hän ei saa
+opetusta viittomakielestä, koska viittomakielikin koko ajan kehittyy ja siinäkin on tärkeä-
+tä, että siinä saadaan lisävalmiuksia sen puheen lisäksi tai viittomien lisäksi, mitä kotona
+on.
+
+Sitten nostan vielä toisen erityiskysymyksen esille tästä kertomuksesta eli muistisairai-
+den tilanteen. Muistisairaalle olisi hyötyä viittomakielestä ja erityisesti selkokielestä, mut-
+ta tätä asiaa ei esimerkiksi vanhuspalveluissa tällä hetkellä tunnisteta ja sitä hyödynnetään
+hyvin huonosti. Muistisairaat eivät yleensä saa tulkkauspalveluita. En ole varma, tiedoste-
+taanko tätä asiaa edes yleensä meidän yhteiskunnassamme ja saako esimerkiksi Kelasta
+[Puhemies: Aika!] tulkkauspalveluita muistisairaalle. — Saanko jatkaa vai tulenko?
+
+Puhemies Paula Risikko:  Jos on lyhyt, niin puhukaa sieltä.
+
+Kiitos, arvoisa puhemies! — Ihan loppuun haluan sanoa, että olen Muistiliiton puheen-
+johtaja ja haluan korjata yhden termin täältä sivulta 92. Minä tiedän, että se on suora lai-
+naus, ja toivon, että se ei ole raportin kirjoittajien käsite. Tässä suorassa lainauksessa sano-
+taan siellä yläosassa: ”mikäli ihminen sairastuu vaikkapa dementiaan”. Tämän minä ha-
+luan korjata. Sellaista sairautta kuin dementia ei ole olemassakaan. On useita muistisai-
+rauksia, jotka voivat johtaa dementiaan. Tämä on hyvin tarkka pitää mielessä, ettei käytetä
+vääriä käsitteitä.
+
+17.26 Matti Semi vas: Arvoisa rouva puhemies! Tuossa vähän aikaa sitten tapasin Kehi-
+tysvammaliiton edustajia ja kävimme keskusteluja tästä selkokielisyysasiasta ja siitä, mi-
+tenkä paljon sitä Suomessa tarvitaan. Sitä selkokielisyysapua tarvitsevat erityisesti vam-
+maiset, maahanmuuttajat ja ikäihmiset, ja näitä tarvitsijoita on noin 650 000 ihmistä. Sel-
+kokieltä tarvitaan erityisesti palvelujen järjestämisessä ja hakemusten täytössä, että esi-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+merkiksi ne tulevat oikealla tavalla täytettyä ja oikein tehtyä ja ymmärretään, mitä on ky-
+sytty. Tuosta luin, että Kela on kiinnittänyt asiaan huomiota, mutta heidän viestinsä oli, että
+tällä Selkokeskuksella on suuri resurssipula nimenomaan siitä, että he pystyisivät anta-
+maan riittävästi sitä selkokielistä selvitystä ja opettamaan ja katsomaan, että hakemukset
+on oikein tehty. Mietin, mitenkä tätä palvelua voitaisiin sitten kehittää ja viedä eteenpäin ja
+kuinka sinne saataisiin lisää henkilökuntaa tekemään valmistelua siihen, että pärjättäisiin
+tällä selkokielellä Suomessakin.
+
+17.27 Katri Kulmuni kesk: Arvoisa rouva puhemies! Ministeri kävikin läpi tuossa myös
+saamelaisten tilannetta. Saamen kielet ovat myös meidän kotimaisia kansalliskieliämme, ja
+tilannehan on varsin vaikea sen suhteen, että saamelaisväestöä kyllä lipuu saamelaisten ko-
+tiseutualueelta myös muualle ja lainsäädäntö koskee oikeastaan pääasiassa sitä kotiseu-
+tualuetta. On huolestuttava tilasto, että jopa 75 prosenttia alle kymmenvuotiaista saame-
+laislapsista asuu saamelaisalueen ulkopuolella, ja tämä asettaa tietenkin heidän äidinkielen
+oppimisensa haasteelliseen tilanteeseen. Siksi olisi ollut hienoa, että esimerkiksi opetusmi-
+nisteri olisi voinut olla myös paikalla täällä, koska kyllä saamen kielten turvaaminen on
+meille aivan äärimmäisen tärkeä kysymys alkuperäiskansan mahdollisuuksista ja selviämi-
+sestä ja ylipäänsä elämisen edellytyksistä. 
+
+Etenkin kaikki oppimateriaaleihin liittyvät asiat ovat vielä erittäin vaikeissa ja vanha-
+kantaisissa muoteissa. Meidän pitäisi paljon enemmän pystyä hyödyntämään sähköisiä op-
+pimisen menetelmiä, ja sitä kautta niitä pystyttäisiin myös tuomaan vahvemmin saamelais-
+alueen ulkopuolella asuville saamelaisille.
+
+Sitten on kuitenkin myös sellainen asia, että tuolla saamelaisalueella me käymme kan-
+sainvälisessä maailmassa kilpaa hyvistä osaajista, ja voitte vain arvata, miten saamenkie-
+lentaitoiset suomalaiset saamelaiset hakeutuvat Norjan puolelle töihin, kun palkat ovat ko-
+vempia ja parempia. Tälle meidän pitäisi kyllä pystyä tekemään jotain, että saamme säily-
+tettyä myös siellä saamelaisten kotiseutualueella ihmisiä ja osaajia. Se näkyy kyllä esimer-
+kiksi vaikka mielenterveyspalveluissa ja tietyissä spesifeissä palveluissa. On tärkeää, että
+SámiSosterin rahoitusta on tehty pitkään, mutta se ei vielä yksistään riitä, vaan keinot pitää
+olla suuremmat, ja siksi oli hienoa, että hallitus viime vuoden budjetissa [Puhemies: Ai-
+ka!] sai kaksi kielipesää lisää, Nuorgamiin ja Vuotsoon.
+
+17.29 Mikaela Nylander r: Arvoisa puhemies, värderade talman! Minun mielestäni edus-
+taja Elo tässä kiinnitti huomiota tärkeään asiaan: miksi suomenkieliset eivät opi ruotsia,
+vaikka saavat lukeakin sitä koulussa? Minun mielestäni hallitus on tehnyt hyvää työtä sii-
+nä mielessä, että hallitus on aikaistanut kieltenopetusta eri kunnissa, projektikunnissa.
+Minä luulen aidosti, että tämä on oikea tie edetä: aikaistetaan, tutustutaan eri kieliin laulun
+ja leikin kautta.
+
+Sitten minä olen myös erittäin tyytyväinen siihen, että ollaan otettu ensimmäisiä askelia
+kohti kansalliskielistrategiaa, ja tämä olisi äärimmäisen tärkeätä, koska siihen tulisi sisäl-
+lyttää kaikki nämä eri toimenpiteet, mitä voidaan tehdä, jotta uskalletaan puhua enemmän.
+
+Ja sitten haluaisin myös muistuttaa siitä, että suomenruotsalainen viittomakieli on uhan-
+alainen kieli YK:n standardien mukaan. Meillä ei ole ollut suomenruotsalaisille viittoma-
+kielisille lapsille koulua Suomessa 30 vuoteen. Elikkä jos haluat käydä viittomakielellä
+koulua, lapsi joutuu muuttamaan Ruotsiin, eikä suomenruotsalaisen viittomakielen tulkke-
+ja ole koulutettu 30 vuoteen. Nyt ollaan otettu ensimmäisiä askelia siihenkin suuntaan,
+7
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+mutta tässä on todella paljon tekemistä, jotta voidaan pelastaa suomenruotsalainen viitto-
+makieli.
+
+17.31 Simon Elo sin:  Arvoisa puhemies! Otan vielä esille englannin aseman hallinnon
+kielenä.
+
+Hypo, Palvelualojen ammattiliitto, Rakennusteollisuus, Rakennustietosäätiö, SAK ja
+Sitra ovat tehneet selvityksen Helsingin seudun kansainvälisen kilpailukyvyn vahvistami-
+sesta, ja siinä esitetään, että englannin kielestä tehtäisiin metropolialueella virallinen ja
+helppokäyttöinen hallintokieli. Kotikaupungissani Espoossa valtuusto tästä päättikin, ja it-
+sekin äänestin sen puolesta, että kaupungin strategiassa näin toimitaan. Meidän kaltaisessa
+kaupungissa se on hyvin ymmärrettävää, kun ajattelee, että on paljon kansainvälisiä asuk-
+kaita ja suuria yrityksiä, joilla on paljon kansainvälistä kauppaa ja vientiä. Mutta se, mikä
+tässä toisaalta minua huolestuttaa, on se, että tämä mahdollisuus käyttää englantia heiken-
+tää kyllä nähdäkseni pidemmällä tähtäimellä halua opetella näitä meidän kansalliskieliä. Ja
+sitten pitäisi pohtia myös sitä, missä ajassa henkilöstöltä, nimenomaan vieraskieliseltä hen-
+kilöstöltä, voisi toivoa sen suomen tai ruotsin kielen oppimista ja miten sitä voitaisiin tu-
+kea. Eli kyllä pidemmän päälle kuitenkin, jos tässä maassa asuu pidempään, pitäisi kansal-
+liskieliäkin oppia. Tässä on hyvät puolensa, mutta kun ajattelee tosiaan tätä kieliasemaa,
+meidän kansalliskieliä, niin olisin tässä suhteessa myös varovainen.
+
+Eli mennään kyllä eteenpäin, edistyksen jarruna ei tässä kannata olla. Englannin kielel-
+läkin on oma merkityksensä ja asemansa kansainvälisessä kaupassa ja kansainvälisyydes-
+sä, mutta pidetään myös huolta pienenä maana ja pienenä kansakuntana suomen ja ruotsin
+kielten, meidän kansalliskielten, vahvasta asemasta.
+
+17.33 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Toivoisin myös, että kiinnitet-
+täisiin enemmän huomiota digitaalisen ympäristön esteettömyyteen ja saavutettavuuteen.
+Siitä kyllä mainitaan täällä. Mutta digitaalisten palveluiden kehittämisessä tulee myöskin
+esille se sama asenne monessa paikassa, eli olen kuullut, että viittomakieltähän ei tarvita,
+kun siellä on se teksti suomeksi. Hyvin harvassa paikassa ovat edes tärkeimmät asiat niissä
+digitaalisissa ympäristöissä myöskin viittomakielisenä, vaikka se olisi kyllä sitä yhdenver-
+taisuutta. Meidän kaikki kuurot eivät esimerkiksi hallitse suomen kieltä kunnolla, ja se viit-
+tomakieli olisi heille aivan ehdoton.
+
+Digitaalisissa palveluissa tulisi entistä enemmän käyttää myöskin selkokieltä, koska se
+olisi kyllä hyvä meille kaikille. Kannattaisi jokaisen meidän käydä joskus lukemassa esi-
+merkiksi Kelan ohjeita tai mitä tahansa virallisia ohjeita. Minä väittäisin, että tässä salissa
+olevillekin voisi olla hiukan vaikea ymmärtää ensimmäisellä lukemalla kaikkea. 
+
+17.34 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Edustaja Mäkisalo-Roppo-
+nen vei sanat suustani. Kiinnittäisin myös huomiota siihen, että digitalisaation avullahan
+me voimme lisätä kielellisiä oikeuksia Suomessa varsin helposti ja kustannustehokkaasti,
+mutta työtä on tehtävänä aika paljon. Esimerkiksi tämän selvityksen mukaan ruotsinkieli-
+sistä ihmisistä vain 5 prosenttia koki, että he voivat asioida valtion verkkopalveluissa
+omalla äidinkielellään. Se kertoo jostakin, jos luku on näin häviävän pieni. 
+
+Ylipäätään, kun puhumme digitaalisten palveluiden tekemisestä, korostaisin myös sel-
+kokielisyyttä, joka palvelisi paitsi lukemaan opettelevia myös maahanmuuttajia, seniorivä-
+estöä ja koko väestöä niin, että me saisimme palvelumme mahdollisimman ytimekkäästi ja
+8
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+selkeästi ja tietoa olisi aidosti kaikkien saatavilla. Tähän edustaja Mäkisalo-Ropponenkin
+viittasi. Olisikin järkevää, että standardeja, joilla me standardoimme esimerkiksi julkisten
+verkkopalvelujen sisältöä, kehitettäisiin niin, että niiden esteettömyys laajasti ymmärtäen
+huomioitaisiin nykyistä paremmin. Esteettömyys ei ole pelkkää tekniikkaa ja teknologiaa,
+vaan se on myös sitä, että kieli, jota me tuotamme ja teemme, on mahdollisimman selkeää
+ja ymmärrettävää, ja tässä olisi mielestäni varsin paljon tehtävää. 
+
+Puhemies Paula Risikko: Ja ministeri Häkkänen vastaa, enintään 3 minuuttia, kiitos.
+
+17.35 Oikeusministeri Antti Häkkänen: Kiitos, puhemies! Kiitoksia hyvästä keskuste-
+lusta. Tässä tuli useita eri näkökulmia tähän kielikertomukseen, huomioita, joita varmasti
+täytyy vielä jatkojalostaa ja käydä valiokunnissa täsmällisemmin läpi. 
+
+Ensinnäkin tämä kieli-ilmapiiri isona kysymyksenä on varmasti sellainen, joka kosket-
+taa Suomea aika laaja-alaisestikin. Kun pyritään kansainvälistymään, ottamaan ihmisiä
+tänne töihin tai muilla perusteilla, niin täytyy saada positiivisemmaksi tämä ilmapiiri yli-
+päätään vieraita ihmisiä kohtaan.
+
+Yksi isoimpia huolenaiheita tietysti liittyy siihen, että Suomi kilpailee myös kansainvä-
+lisistä korkean luokan osaajista. Mitä enemmän talous muuttuu innovaatiovetoiseksi, sitä
+enemmän tarvitaan juuri niitä kovan luokan kärkiosaajia, ja heillä taas on hyvin korkeat
+standardit ja kriteerit, minkälaiseen ympäristöön he vaikkapa perheensä tuovat. Tämä on
+nyt ilmentynyt maailmalla erilaisissa foorumeissa pieneksi haasteeksi useissa maissa, ei
+pelkästään Suomessa, mutta meillä pitää olla houkutteleva ympäristö varsinkin pääkau-
+punkiseudulla siinä, että täällä suhtaudutaan vieraalta kielialueelta tuleviin ihmisiin mah-
+dollisimman lämpöisesti ja lämpimästi.
+
+Suomen kielen opetus ja tutkimus yliopistoissa. Seuraava kielikertomus muistaakseni
+käsittelee opetussektoria, ja tästä aiheesta ovat useat tutkijat lähestyneet minua, kun olen
+vieraillut yliopistoissa. Meidän täytyy tietysti kansainvälistää meidän tiedekenttäämme,
+mutta sitten pitää olla tarkkana myös siinä, ettei esimerkiksi teetetä turhaa lisätyötä niin,
+että tehdään asioita englanniksi pelkästään englannin kielen takia, koska pääfunktion pitää
+olla siinä tutkimuksen ja tieteen tekemisessä. Toisaalta on myös niitä piirteitä, joissa puh-
+taasti kansallista tutkimusta ja tiedettä, jolla ei ole voimakasta kansallista rajapintaa, myös
+tehdään englannin kielellä. Muun muassa oikeustieteessä on tällaista hyvin paljon meidän
+kansalliseen oikeusjärjestelmäämme liittyvää. 
+
+Täältä tuli hyviä huomioita selkokielisten palveluiden lisäämisestä. Tästä oikeusminis-
+teriö on samaa mieltä. Näitä täytyy jatkossa entistä enemmän, varmastikin kaikelle kansal-
+le, tarjota enemmän, myös varmasti kansanedustajille sellaista enemmän. 
+
+Kuurojen vanhempien, kuulevien lasten oikeus viittomakieleen: nyt täytyy sanoa, että
+ministerillä on tässä puutetta tietotaidossa, mutta toimitan tiedon siitä, mitkä ovat nykyti-
+lan ongelmat ja mikä on lainsäädännön tila, [Puhemies: Aika!] ja katsotaan sitä sitten myö-
+hemmin. Kiitos teille keskustelusta.
+
+Loppuun haluan vielä mainita sen, että tuomioistuinlaitoksen tuoreessa ratkaisussa, joka
+käsiteltiin tiistaina, keskitimme tosiaan hyvin pitkälti kielellisin perustein Turkuun myös
+Hämeenlinnan ja sen hovioikeuspiirin asiat juuri sen takia, että ruotsin kielen asema [Pu-
+hemies: Aika!] ei vaarannu niissä ratkaisuissa.
+
+Keskustelu päättyi.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 7/2018 vp
+Asia lähetettiin perustuslakivaliokuntaan.
+10
+
+
+	4
+	17.01
+	17.09
+	17.14
+	17.19
+	17.21
+	17.23
+	17.26
+	17.27
+	17.29
+	17.31
+	17.33
+	17.34
+	17.35
+
+

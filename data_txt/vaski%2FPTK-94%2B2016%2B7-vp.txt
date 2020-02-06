@@ -1,0 +1,2938 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM7361.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 94/2016 vp
+
+Täysistunto
+
+Tiistai 4.10.2016 klo 13.59—18.55
+
+7. Hallituksen esitys liikennekaareksi ja eräiksi siihen liittyviksi laeiksi
+Hallituksen esitys HE 161/2016 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 7. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja vies-
+tintävaliokuntaan, jolle perustuslakivaliokunnan ja talousvaliokunnan on annettava lau-
+sunto.
+
+Keskustelu
+
+14.03 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa pu-
+hemies! Käsiteltävänä on hallituksen esitys eduskunnalle liikennekaareksi ja eräiksi siihen
+liittyviksi laeiksi. Esityksessä ehdotetaan säädettäväksi uusi liikennekaari, jolla toteute-
+taan hallitusohjelman kärkihankkeita digitaalisen kasvuympäristön rakentamiseksi sekä
+säädösten sujuvoittamiseksi. Tavoitteena on luoda edellytykset uuden teknologian, digita-
+lisaation ja uusien liiketoimintamallien käyttöönotolle liikennesektorilla. Näin voidaan
+saavuttaa entistä paremmin käyttäjän tarpeisiin vastaavia liikennepalveluita ja mahdollis-
+taa uutta liiketoimintaa. Liikenteen palveluistuminen ja uudet palvelumallit ovat merkittä-
+viä tekijöitä vastattaessa myös ilmastonmuutoksen haasteisiin, kun kuljetuskalustoa jae-
+taan ja käytetään tehokkaammin.
+
+Transportbalken förenar och förnyar person- och varutrafiken och dess reglering. På det
+här sättet kan vi försäkra att kunderna och konsumenterna har tillgång till nya och kvalita-
+tivt bättre transporttjänster. Trafikbalkens utgångspunkt är den att olika modeller kan för-
+enas tillsammans och att vi kan utnyttja den potential som transportsektorn för med sig. På
+nationell nivå utgår vi ifrån att transporten har en marknadspotential på flera miljarder eu-
+ro.
+
+Liikennekaarella ehdotetaan avattavaksi liikkumispalveluja koskevat olennaiset tiedot ja
+säädettäväksi lippu- ja maksujärjestelmien yhteentoimivuudesta. Näin liikenteen palvelut
+ovat mahdollisimman hyvin kaikkien tavoitettavissa ja myös tarkoituksenmukaisella taval-
+la yhdisteltävissä. Liikennepalvelujen ostot ja muu julkinen tuki liikennejärjestelmälle
+ovat valtion- ja kuntataloudessa merkittävä menoerä. Kun palveluja voidaan tarjota, yhdis-
+tellä ja käyttää monipuolisemmin ja tehokkaammin, voidaan saavuttaa merkittäviä kustan-
+nussäästöjä. Esitys tukee myös hallitusohjelman tavoitetta kuntien kustannusten karsimi-
+sesta sekä kilpailukyvyn vahvistamisesta elinkeinoelämän ja yrittäjyyden edellytyksiä pa-
+rantamalla. Samalla edistetään liikennepalveluiden syntymistä asiakaslähtöisesti.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Hyvät kollegat, liikennekaaren lähtökohtana on luoda tasapuoliset toimintaedellytykset
+nykyisille ja uusille toimijoille markkinoilla. Tavoitteena on myös synnyttää uudenlaista
+alustatalouden yritystoimintaa sekä edistää liikenteen palveluntarjoajien kilpailukykyä.
+
+Liikennekaari helpottaa taksialalle tuloa ja lisää taksitoimijoiden vapautta kehittää omaa
+toimintaansa. Taksijärjestelmään ehdotetaankin olennaisia muutoksia. Tavoitteena on, että
+sääntelyä väljentämällä ja alalle tuloa helpottamalla alalle syntyy entistä monipuolisem-
+paa yritystoimintaa ja palveluita, alan työllisyys lisääntyy ja erityisesti maaseudulle syn-
+tyy nykyistä enemmän tarjontaa.
+
+Ammattimainen taksiliikenne säilyy edelleen luvanvaraisena. Taksiliikenneluvan saa-
+misen edellytyksenä on tosiasiallinen ja pysyvä toimipaikka Suomessa. Lupakiintiöistä
+luovutaan ja nykymuotoista asemapaikka- ja enimmäishintasääntelyä muutetaan. Taksin-
+kuljettajalta ei liikennekaaressa enää edellytetä koulutuksen ja kokeen suorittamista. Tak-
+siliikenneluvan haltija vastaa siitä, että kuljettaja osaa palvella asiakasta hyvin. Luvanhal-
+tija vastaa siitä, että kuljettaja on asianmukaisesti koulutettu ja perehdytetty tehtäväänsä.
+
+Liikennekaaressa ehdotetaan uusia säännöksiä taksimatkustajan turvallisuuden ja oi-
+keuksien varmistamiseksi. Taksiliikenteessä matkustajaturvallisuus on erityisen huomion
+kohteena, koska matkustaja on usein yksin ajoneuvossa vain kuljettajan kanssa. Taksinkul-
+jettajan soveltuvuutta koskeviin vaatimuksiin on sen vuoksi kiinnitetty esityksessä erityis-
+tä huomiota. Taksinkuljettajan on täytettävä tiukemmat vaatimukset kuin lasten kanssa
+työtä tekevän henkilön. Tämä on tiukennus siihen, mitä nyt voimassa olevassa taksiliiken-
+nelaissa vaaditaan. Lisäksi kuljettajalle asetetaan liikenneturvallisuuteen ja eri matkustaja-
+ryhmien huomioimiseen liittyviä lisävaatimuksia.
+
+Taksiliikennettä saa harjoittaa myös henkilö- ja tavaraliikenneluvan haltija. Toimijoi-
+den on ilmoitettava asemapaikkansa ja päivystysaikansa eli pääasiallinen toiminta-alueen-
+sa ja palveluaikansa. Liikenteen turvallisuusvirasto voi tarvittaessa antaa määräyksen tak-
+siliikenteen palveluiden hinnoista, jos hinnat nousevat kohtuuttomiksi. (Vasemmalta: Mitä
+on kohtuuton?)
+
+Joukko- ja tavaraliikenteen sääntelyyn ehdotetaan merkittäviä kevennyksiä. Pakollises-
+ta yrittäjäkoulutusvaatimuksesta ehdotetaan luovuttavan. Kansallisia lisävaatimuksia pois-
+tettaisiin hallitusohjelman tavoitteiden mukaisesti sieltä, missä toiminta perustuu EU-lain-
+säädäntöön. Henkilö- ja tavaraliikennelupaa ei edellytetä toimintaan traktoreilla, joiden
+suurin sallittu nopeus on enintään 60 kilometriä tunnissa. Ajoneuvojen tai ajoneuvoyhdis-
+telmien kokonaismassaan liittyvä tavaraliikenteen luvanvaraisuuden raja nostetaan 2 ton-
+nista 3,5 tonniin, mikä vaikuttaa erityisesti pakettiautoilla harjoitettavaan toimintaan. Kau-
+pallista tavaraliikennettä harjoittavien pakettiautojen, joiden kokonaismassa on yli 2 ton-
+nia, on rekisteröidyttävä Liikenteen turvallisuusvirastoon.
+
+Liikennekaari tukee harmaan talouden estämistä. Digitalisaation myötä harmaata ta-
+loutta torjutaan entistä tehokkaammin sähköisillä palveluilla ja maksuvälineillä. Liikenne-
+kaaren myötä myös välityspalvelun tarjoajalla on seurantailmoitusvelvollisuus maksamis-
+taan korvauksista. On tärkeää huomioida, että tämä velvollisuus koskee muun ohella myös
+palveluntarjoajia ja näin myös Uberia.
+
+Liikennekaaren lausunnoilla olleessa esitysluonnoksessa ehdotettiin, että pienimuotoi-
+nen, alle 10 000 euron vuosittainen kuljetustoiminta sallittaisiin ilman liikennelupaa. Täs-
+tä luovuttiin lausuntokierroksen jälkeen. Lupavaatimus koskee näin myös pienimuotoista
+tulonhankkimistarkoituksessa harjoitettua toimintaa.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Joukkoliikenteen harjoittajia koskenut kansallinen vaatimus erillisestä reitti- ja kutsulii-
+kenneluvasta poistetaan. Toimijan on kuitenkin ilmoitettava säännöllisesti tarjottavan pal-
+velun aloittamisesta, muutoksista ja lopettamisesta vähintään 60 päivää etukäteen. Kuor-
+ma-auton ja linja-auton kuljettajien ammattipätevyyttä kevennetään ja selkiytetään niin,
+että sääntely kohdistuu entistä täsmällisemmin ammattimaiseen toimintaan. Joukkoliiken-
+neviranomainen voi jatkossakin asettaa EU:n palvelusopimusasetuksen mukaisen yksinoi-
+keuden tietyille reiteille.
+
+Tulevaisuuden liikenteen kannalta olennaista on, että tiedot ja tietojärjestelmät ovat yh-
+teentoimivia ja rajapinnat avoimia. Liikennekaaressa esitetään, että liikkumispalveluja
+koskevat olennaiset tiedot avataan. Liikennekaaressa säädetään myös lippu- ja maksujär-
+jestelmien yhteentoimivuudesta. Näin liikenteen palvelut ovat mahdollisimman hyvin
+kaikkien tavoitettavissa ja myös tarkoituksenmukaisella tavalla yhdisteltävissä. Suomi voi
+tässäkin olla suunnannäyttäjä niin, että saamme toimivat matkaketjut myös rajojemme ul-
+kopuolelle.
+
+Arvoisa puhemies! Liikennekaari on valmisteltu poikkeuksellisen laajassa ja avoimessa
+yhteistyössä sidosryhmien kanssa. Esitys on myös ollut käsiteltävänä lainsäädännön arvi-
+ointineuvostossa, joka on antanut asiasta lausunnon. Lain on tarkoitus tulla voimaan 1. päi-
+vänä heinäkuuta 2018. Tämä mahdollistaa sen, että alan nykyisillä toimijoilla on riittävästi
+aikaa mukauttaa toimintansa uuden lainsäädännön mukaiseksi.
+
+Liikennekaari on Euroopassa ainutlaatuinen lainsäädäntöhanke. Se velvoittaa liikenne-
+sektorin ottamaan käyttöön kaikki digitalisaation mahdollisuudet avaamalla tietorajapinto-
+ja julkiselle ja yksityiselle palveluntuottajalle asettaen asiakkaan ja asiakkaan tarpeet pal-
+velun lähtökohdaksi.
+
+Arvoisa puhemies! Liikennekaari on erinomainen mahdollisuus Suomelle olla edelläkä-
+vijä digitalisaation ja teknologian kehityksessä. Toivon tästä hyvää keskustelua tälle päi-
+välle. — Kiitos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Tästä ministerin esityksestä ja halli-
+tuksen esityksestä on varmaan tarpeen käydä pieni debatti. Avaan mahdollisuuden siihen.
+Pyydän nyt niitä edustajia, jotka haluavat käyttää vastauspuheenvuoron debatissa, nouse-
+maan ylös ja painamaan V-painiketta. Tarkoitus on, että käymme maksimissaan noin puo-
+len tunnin mittaisen debatin tässä, ja sen jälkeen kuuntelemme ministeriä ja jatkamme
+eteenpäin.
+
+14.12 Ari Jalonen ps (vastauspuheenvuoro): Arvoisa puhemies! Joukkoliikenteen digita-
+lisaatio ja MaaSin synnyttäminen Suomeen on liikennekaaren ydinasia ja ydinkysymys ja
+siihen liittyen maksurajapintojen aukaisu. Tässä asiassa on minun mielestäni kiirehdittävä
+jo pikkasen etukäteen. Esimerkiksi valtionyhtiöt, kuten VR, voivat olla esimerkkeinä tässä
+ja kiihdyttää tätä toimintaa rajapintoja aukaisemalla.
+
+Toinen asia, mitä itse perussuomalaisena kansanedustajana huomioitsen tässä: Liiken-
+neketjujen luotettavuus on erittäin tärkeää sille, että MaaS ylipäätään säilyy, ja tervehdin
+ilolla sitä, että taksin lupaehtoisuus pysyy jatkossakin. 
+
+Ministerille nopea kysymys loppuun: (Puhemies koputtaa) Lakipaketti on iso, ja siinä on
+paljon korjattavaa. (Eduskunnasta: Oho!) Ovatko ministeriön virkamiehet valmistautuneet
+(Puhemies koputtaa) sitten näihin pieniin korjaustoimenpiteisiin?
+3
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+14.14 Katja Taimela sd (vastauspuheenvuoro): Arvoisa puhemies! Sinänsä tämä liiken-
+nekaaren perusidea digitalisaation ja avoimien rajapintojen hyödyntämisestä sisältää suu-
+ria mahdollisuuksia Suomelle ja toivottavasti myös uutta työtä tässä tilanteessa, jossa me
+kaikki työpaikat tarvitsemme. Mutta jos mietitään tätä taksialaa tässä liikennekaaressa,
+niin täytyy sanoa kyllä, että perussuomalaiset söivät jälleen kerran yhden lupauksistaan.
+Koko kevään ja koko kesän olemme kuulleet eri medioista, että perussuomalaiset eivät ole
+tämän laajan taksialan vapauttamisen kannalla, ja nyt se sitten on tässä liikennekaaren kyl-
+kiäisenä kylläkin tulossa.
+
+Mutta ministerille olisin esittänyt muutaman kysymyksen: Maaseudulla ollaan todella
+huolissaan siitä, miten käy päivystyksen kiireisimpien aikojen ulkopuolella. Samaten ol-
+laan todella huolestuneita taksipalveluiden ylihinnoittelusta jatkossa, ja tässä esityksessä
+ollaan kaavailtu, että Liikenteen turvallisuusvirasto voisi asettaa tarvittaessa näitä enim-
+mäishintoja, jos hinnat nousevat kohtuuttomiksi. (Puhemies koputtaa) Millaisia resursseja
+tähän on käytettävissä, jos ja kun tämä lakipaketti näin menee eteenpäin?
+
+14.15 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Kokonaisuute-
+na arvioiden tämä lakipaketti, liikennekaari ykkönen, on hyvä, ja hyvä, että se vihdoin saa-
+tiin eduskuntaan. Se esitys, joka keväällä julkiseen keskusteluun alistettiin, on jalostunut
+varsin mukiinmenevään muotoon nyt tänne tullessaan. Digitalisaatio saa ison loikan. MaaS
+eli liikkuvuus palveluna etenee. Matkajärjestelmät, matkaketjut mahdollistuvat ja yhdisty-
+vät toisiinsa, integroituvat, ja voidaan suunnitella ja ostaa matkalippuja paljon käteväm-
+min ja helpommin. 
+
+Monia hyviä piirteitä on matkan varrella tullut tähän esitykseen: Se kymppitonnin firaa-
+belikuskaussääntö poistui, tai ehdotus siitä poistui. Taksilupa tarvitaan edelleen, ajolupa
+tarvitaan edelleen takseissa. Taksien on oltava rekisteröity Suomeen, ja niin edelleen. 
+
+Kokonaisuutena arvioiden, herra puhemies, tämä esitys tulee varmasti viemään Suomen
+liikennejärjestelmän uuteen aikaan ja mullistamaan niitä tapoja, joilla tässä maassa jatkos-
+sa liikutaan.
+
+14.16 Jyrki Kasvi vihr (vastauspuheenvuoro): Arvoisa puhemies! Julkisuudessa on to-
+siaan puhuttu paljon siitä, että liikennekaari ei ole ottanut huomioon Uberia ja muita jaka-
+mistalouden liikennepalveluita. Kuitenkaan en löydä tästä liikennekaaresta sellaista koh-
+taa, joka itse asiassa edes haittaisi Uber-kuskien toimintaa, edellyttäen että he hankkivat
+taksiliikenneluvan, jonka saatavuutta ei siis rajoiteta. He voivat sen jälkeen ajaa laillisesti
+ja käyttää Uberin kyydin välitys- ja maksupalvelua, (Eduskunnasta: Juuri näin!) ajaa niitä
+kyytejä sitten yli tai alle kymppitonnin vuodessa. Olenko ymmärtänyt oikein? (Eduskun-
+nasta: Oikein!)
+
+14.17 Mirja Vehkaperä kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Suomi on
+harvaan asuttu pitkien etäisyyksien maa. Meidän tavaravirrat ovat aika ohkaisia. On hyvä,
+että liikennekaaressa nyt olemme pystyneet tuomaan liikennepalvelut 2020-luvulle ja val-
+mistamaan itsemme siihen, että logistiikka, palveluiden ja ihmisten ja tavaroiden liikku-
+vuus, voi olla ja sen pitää olla Suomelle kilpailuetu ja -valtti. Siksi on hyvä, että matkaket-
+juja mietitään niin, että kaikki kulkuvälineet ovat mukana. Toinen vaihehan on tulossa lii-
+kennekaaresta pian, että tämä on vasta alkusoittoa. On hyvä, että matkaketjuissa ovat mu-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+kana myöskin taksit, jotka säilyvät luvanvaraisena, ja se turvaa meillä palvelut niin maalla
+kuin kaupungeissakin.
+
+14.18 Katja Hänninen vas (vastauspuheenvuoro): Arvoisa herra puhemies! Liikenteen
+kokonaisvaltainen uudistaminen on todellakin tärkeää. On hienoa, että saamme nyt vih-
+doinkin ryhtyä käsittelemään monia ex-liikenneministeri Merja Kyllösen alulle panemia
+uudistuksia. (Välihuutoja) Kuitenkin tuntuu valitettavasti siltä, että ministeri Bernerin kä-
+sissä tämä liikenneuudistus on nyt supistunut ideologiseksi yksityistämiseksi ja sääntelyn
+purkamiseksi.
+
+Erityisen huolissani olen taksilupien hinta- ja määräsääntelystä luopumisesta. Sillä voi
+olla arvaamattomia vaikutuksia. Kaikella todennäköisyydellä suurissa kaupungeissa yri-
+tykset aloittavat hintakilpailun kohti pohjaa, samalla kun harvempaan asutulla alueella hin-
+nat nousevat. Kysyisinkin teiltä, ministeri Berner: voisitteko konkretisoida, mistä käytän-
+nössä saadaan säästöjä harvaan asutulla alueella, vai onko todellakin niin, että suurissa
+kaupungeissa hinnat laskevat ja maaseudun asukkaat joutuvat tässäkin uudistuksessa mak-
+sumiehiksi?
+
+14.19 Stefan Wallin r (vastauspuheenvuoro): Puhemies, talman! Trafikpolitiken är en
+mångdimensionell helhet där det lätt går så att det är de stora trafikformerna, de stora pro-
+jekten, som stjäl uppmärksamheten. Ändå är det så att det också finns mindre helheter som
+kanske i den stora helheten är små, men lokalt och regionalt livsviktiga. Hur ser ministern
+på skärgårdstrafikens framtid, denna landsväg över vatten?
+
+Arvoisa puhemies! Saaristoliikenne on ehkä kokonaisuutta ajatellen hyvinkin pieni osa
+tätä liikennekaarta, mutta paikallisesti ja alueellisesti aivan elintärkeä. Miten saaristolii-
+kennettä aiotaan kehittää tulevaisuudessa ja osana tätä liikennekaarta?
+
+14.19 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Tärkeä hanke, ja
+tässä esityksessä on paljon myönteistä. Myönteisenä pidän myös sitä, mitä siinä ei ole, eli
+on erinomaisen hyvä, että tästä jätettiin pois tämä ratojen ja teiden ja vesiteiden yhtiöittä-
+minen. Se herätti kyllä erittäin suurta huolta, mihin suuntaan Suomea ollaan viemässä, jos
+nämä yhtiöitetään ja sitä kautta ryhdytään sitten keräämään rahaa niille tuleville omistajil-
+le.
+
+No, sitten on tämä taksiliikenteen vapauttaminen, ja siinä olen kyllä vähän epäilevällä
+mielellä. Pelkään, mitä tämä tulee tarkoittamaan, enkä vähiten sen takia, että olen itse pääs-
+syt nauttimaan vapautetuista takseista sekä Tallinnassa että Tukholmassa ja kokemukset
+eivät luvalla sanottuna olleet ihan kauhean riemastuttavia.
+
+Kiinnitän myös huomiota siihen, että vaikka Timo Soini sanoi vielä hetki sitten, ennen
+kesälomia, että yksiselitteisesti hän ja perussuomalaiset tulevat vastustamaan taksiliiken-
+teen vapauttamista, (Puhemies koputtaa) niin tässä se nyt sitten on. Onko tämä nyt sitten
+kaksiselitteisesti vapautettu? (Naurua)
+
+14.21 Kaj Turunen ps (vastauspuheenvuoro): Arvoisa puhemies! Näyttää siltä, että so-
+sialidemokraattien ryhmäkansliasta taas ohjataan tätä porukkaa täällä salissa... (Eduskun-
+nasta: Kuinka niin?) — Ai miksi niin? Mistä minä sen tiedän. Joskus näyttää siltä, että
+kansliasta lähtee niitä viestejä koko eduskunnan kaikille kansanedustajille. (Välihuutoja)
+5
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Mutta mitä tulee tähän perussuomalaisten onnistumiseen tai epäonnistumiseen, niin kyl-
+lä hallitus on tässä onnistunut ja perussuomalaiset myöskin ovat pitäneet sanansa. Ei tak-
+siliikennettä ole vapautettu, vaan luvanvaraisuus jatkuu edelleenkin ja poistettiin se alku-
+peräinen esitys 10 000 euron ajeluista ilman lupaa. Se on nyt tässä mukana. Siis taksiluvat
+säilyvät. Mutta hinnoittelu vapautetaan, ja tästä kysyisinkin ministeriltä: jos tulee tämmöi-
+siä hinnoitteluylilyöntejä, niin onko välineitä puuttua sitten tämäntyyppisiin esimerkiksi
+Trafin kautta tai jonkun muun tahon kautta?
+
+14.22 Mikko Alatalo kesk (vastauspuheenvuoro): Arvoisa puhemies! Tämä liikennekaa-
+ri vastaa todella myös maaseudulla joukkoliikenteen näivettymiseen ja parantamiseen, että
+nimenomaan palvelut toimivat siellä ja nimenomaan taksit ovat myös mukana tässä, ja se
+on hyvä asia.
+
+Jos tulisi markkinahäiriö, että tulee liikaa takseja, niin kysyn ministeriltä: totta kai tätä
+myös seurataan varmasti? Ja totta kai kilpailun pitää olla rehtiä niin, ettei toinen voi ajaa
+verovapaalla polttoaineella ja toinen maksaa sitten veroja polttoaineesta. Ja sanoisin, että
+myös vakuutusten tulee olla kunnossa — Uber-takseissa ne eivät välttämättä ole kunnossa,
+ja jos sattuu joku onnettomuus, niin miten käy asiakkaalle? (Susanna Huovinen: Just näin!)
+Mitä hintoihin tulee, niin Ruotsissahan ne karkasivat käsistä, ja kai sitä seurataan kuiten-
+kin jonkun verran? Olen ymmärtänyt niin, että Trafi tulee myös toimimaan silloin, jos tu-
+lee tätä ylihinnoittelua.
+
+Se, että todellakin voidaan yhdistää kyytejä, on hyvä asia, ja saadaan yhtenäisiä matka-
+ketjuja, jopa samalla kortilla voi mennä sitten eteenpäin eri kulkuvälineillä. Mutta erityi-
+sen tärkeää on tietysti myös se, että asemapaikka, ainakin pääasiallisesti, säilyy, että siellä
+on myös päivystysvelvollisuutta. Olisin tästä kysynyt: näinhän on? (Eduskunnasta: Onko
+näin?)
+
+14.23 Sari Essayah kd (vastauspuheenvuoro): Arvoisa puhemies! Nyt tässä salissa tun-
+tuu olevan liikennekaaresta nimenomaan digitalisaation ja matkojen yhdistämisen kohdal-
+ta aika suurta tukea ministerin esitykselle. Mutta sitten tämä taksipalveluitten vapauttami-
+nen: Tuntuu, että taustalla on ajatus siitä, että siellä on se vahva helsinkiläiskuluttaja, joka
+älypuhelimella kilpailuttaa ja katsoo, minkä kyydin ottaa, ja unohdetaan se, että siellä on se
+mummo lumessa Kainuussa, joka on 20 kilometrin päässä kyläkeskuksesta ja ihmettelee,
+että millähän hinnalla, josko ollenkaan, löytää kyytiä sille illalle. Voi olla, että se ainut tar-
+jolla oleva kyyti on sitten loppujen lopuksi apostolinkyyti. Siinä mielessä olisin kyllä ha-
+lunnut nyt ministeriltä perätä: millä tavalla me todellakin pystymme varmistamaan sen
+maaseudun kuluttajan aseman? Että jos ei ole asemapaikkavelvoitetta, jos ei ole päivystys-
+velvoitetta, niin ne harvatkin yrittäjät varmasti karkaavat sinne kasvukeskukseen hake-
+maan kyytejä.
+
+14.24 Markus Mustajärvi vas (vastauspuheenvuoro): Arvoisa puhemies! Luen tässä
+pääkaupunkiseudun taksialan edunvalvonnan ja tilausvälitysyhtiöitten näkemyksiä tästä
+hallituksen esityksestä. Tämä on erittäin perusteltu paperi ja hyvin kriittinen hallituksen
+esityksen suhteen. Ihmettelen kyllä, miten on mahdollista, että pääkaupunkiseudun taksi-
+miehet, taksiyrittäjät ja tilausvälitysyhtiöitten edustajat huolehtivat maaseudusta paljon
+enemmän kuin maakuntien keskustalaiset ja perussuomalaiset kansanedustajat. Tässä koh-
+taa on kyllä syytä kiittää pääkaupunkiseudun toimijoita.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Mitä tulee sitten tähän hintasäännöstelyyn, niin mitenkä se oikein toimii? Jos on Trafille
+annettu tällainen tehtävä puuttua siihen, jos taksien taksat nousevat kohtuuttomasti eli nou-
+su poikkeaa indeksikehityksestä, ja jos on rakennettu sellainen mekanismi, että hinnat nou-
+sevat maaseudulla, niin kuinka te voitte sitten pakottaa taksin ottamaan sellaisen kyydin,
+(Puhemies koputtaa) mikä ei ole kannattava?
+
+14.25 Kalle Jokinen kok (vastauspuheenvuoro): Arvoisa herra puhemies! On erittäin tär-
+keää, että liikennekaari on nyt tässä vaiheessa ja siirrytään liikennesääntelyssä aivan uu-
+delle aikakaudelle, kun tuodaan digitalisaatio mukaan liikennemarkkinoiden kehittymi-
+seen.
+
+Kokoomukselle oli tärkeää, että samaan yritystoimintaan ei muodosteta kaksia sääntöjä,
+ja tuo kymppitonnin poistaminen oli tärkeä asia. Samoin se, että esimerkiksi taksien tulee
+olla rekisteröityjä Suomeen, kun liikenne aloitetaan. 
+
+On hienoa, että matkaketjuajattelu menee liikennekaaren myötä eteenpäin: Kärsämäeltä
+Korkeasaareen voi matkustaa samalla lipulla käyttäen eri liikennemuotoja, joita siinä mat-
+kan varrella tarvitaan. 
+
+Mutta lähetekeskustelua kun käydään, niin vielä täällä on tarkennettavaa. Esimerkiksi
+lain valvonta ei voi yksistään olla Trafin kontolla. Siihen täytyy vielä poliisi ja Tullikin li-
+sätä. Samoin tavaraliikennelain 29 ja 30 §:n nykyiset velvoitteet esittää liikennelupa tai
+muu todistus pyydettäessä valvontatilanteessa ja myös oikeus keskeyttää kuljetus, mikäli
+asiat eivät ole kunnossa, vaatisivat vielä tarkennusta mielestäni.
+
+14.26 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa puhemies! Heti kysyisin täs-
+tä edustaja Jokisen ja jo aiemmin edustaja Kopran viittaamasta, että nyt edellytetään rekis-
+teröintiä Suomeen: Miten tämä eroaa jo nyt käytössä olevasta autoverolainsäädännöstä,
+jossa vakituisessa käytössä olevalta autolta edellytetään tätä rekisteröintiä? Onko tämä
+tämmöinen tyhjä kupla, mitä uutta?
+
+Helsinkiläinen taksimies totesi kyydissä ollessani, että pienet kuolevat, hinnat nousevat,
+suuret kasvavat ja sitä saa, mitä tilaa. Eli uskon, että tähän viestiin oli kiteytettynä hyvin
+vahvasti ideologinen usko markkinavoimien vapauteen, mitä on nähty raskaan liikenteen
+kabotaasivapautuksena tai raideliikenteessä ja nyt taksien toimintamahdollisuuksien ka-
+ventamisena.
+
+14.27 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa puhemies! Tässä liiken-
+nekaaressa on paljon mahdollisuuksia liittyen juuri digitalisaatioon, matkaketjujen yhdis-
+tämiseen, ilmastonmuutoksen torjuntaan, mutta valiokunnassa on kyllä perattava huolelli-
+sesti läpi koko esitys. Esimerkiksi tähän taksiliikenteeseen liittyen pidän tärkeänä, että var-
+mistetaan, että taksiliikenne toimii haja-asutusalueella jatkossakin, ja myös harmaan talou-
+den torjunta on keskeinen asia. Taksimittariuudistushan on nyt juuri tehostanut sitä, että
+veronkiertäjät ovat jääneet kiinni, ja tässä ei ole varaa ottaa takapakkia.
+
+Joukkoliikenteen osalta pidän tärkeänä sitä, että kermankuorinta estetään ja varmiste-
+taan, että kunnallisen ja alueellisen liikenteen järjestäjällä on yksinoikeus. Tämä siksi, että
+on myös ajettava hajavuorot, ilta- ja viikonloppuvuorot sekä kaupunkien reuna-alueista
+huolehdittava.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Kysyn lopuksi vielä esteettömyydestä, sillä se on mitä keskeisin asia, kun yhdistetään
+matkaketjuja, että vammaiset henkilöt, liikuntarajoitteiset, vanhukset pääsevät kunnolla
+liikkumaan. Miten se on huomioitu tässä liikennekaariesityksessä?
+
+14.28 Markku Rossi kesk (vastauspuheenvuoro): Arvoisa puhemies! Liikennekaaressa-
+han on todella paljon hyvää, mutta jokaisessa hyvässä esityksessä varmasti on paljon kor-
+jattavaakin, ja toivon kyllä, että eduskunta käy hyvin tarkkaan tähän esitykseen liittyvät
+asiat. Ehkä pahin puute — päinvastoin kuin edustaja Heinäluoma katsoi sen hyväksi asiak-
+si — on se, että tästä puuttuu ainakin vielä toistaiseksi tämä niin sanottu Live tai Infra Oy,
+koska mehän tarvitsemme rahaa nimenomaan rakentamiseen, ei omistajille keräämiseen.
+Tämä on se ero, jonka näkökulmana näen.
+
+Siinä yhdyn taas samaan näkökulmaan, että kyllä Tukholmassa edelleenkin on villi jär-
+jestelmä taksien hinnoittelussa. Minä luulen, että ei meistä kukaan suomalainen halua ar-
+poa taksiasemalla tai -tolpalla, mitä se maksaa pöljälle tai jollekulle muulle. Kyllä tässä
+täytyy miettiä ihan tämä asia tarkkaan.
+
+Mitä tulee vielä ministeri Kyllösen aikaansaannoksiin, niin kyllä nykyinen ministeri
+joutuu ratkomaan näitä Waltti-kortin ja Matkahuollon ja liikenteen ongelmia, jotka ovat
+käsin kosketeltavissa.
+
+Lopuksi vielä, puhemies, en oikein ymmärrä tätä vihreiden logiikkaa, että veronkiertoa
+sallivaa Uber-järjestelmää ollaan näin innokkaasti tukemassa.
+
+14.29 Toimi Kankaanniemi ps (vastauspuheenvuoro):  Arvoisa puhemies! On hienoa,
+että hallitus on uudistusten tiellä ja pysähtyneisyyden aika eri aloilla on nyt jäämässä taak-
+se. Tämä uudistus on hallitusohjelman yksi keskeinen, ja sillä saadaan tehokkuutta. Esi-
+merkiksi, niin kuin täällä esityksessä todetaan, valtio, kunnat ja Kela maksavat tavattoman
+suuria summia joka vuosi näistä liikennepalveluista. On aika käydä ne läpi, uudistaa ne, ja
+tässä on siitä kysymys. Hallitus on panostanut nyt myös liikennehankkeisiin merkittävän
+paljon, ja se on tärkeä asia.
+
+Maaseudun näkökulmasta tämä taksiliikennekysymys on totta kai haasteellinen, ja sitä
+pitää valiokunnassa hyvin tarkkaan miettiä ja selvittää, miten se käytännössä toimii. Perus-
+suomalaiset saivat tähän ne vaatimukset läpi, (Puhemies koputtaa) jotka meillä olivat kyn-
+nyskysymyksinä.
+
+14.31 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä liikennekaa-
+ressa, niin kuin sanottiin, tavoitteet ovat hyviä. Tässähän erityisen hyvää on tietysti eri mat-
+kamuotojen yhdistäminen. Tässä on muuten esimerkki siitä, mihin tarvitaan sääntelyä:
+tämä on tehty uudella sääntelyllä, ja se on itse asiassa todella kovaa elinkeinovapauden tiet-
+tyä rajoittamista ja sääntelyä, että pakotetaan liikenneyrittäjät myymään lippuja niillekin,
+joita ne eivät haluaisi. Kun me olemme aina puhuneet tästä, onko sääntelyn purkaminen
+vain hyvä asia, niin tässä on esimerkki siitä, miten sääntelyä tarvitaan, vaikkakin ohi yksi-
+tyisen elinkeinovapauden, että kokonaisuus tulee. Tämmöinen huomio.
+
+Mutta, arvoisa puhemies, ei nyt oikein saa selvää tästä perussuomalaisten taksikannasta.
+Nimittäin, arvoisa puhemies, todella on niin, että tässähän nyt vapautetaan... Taksiliiken-
+nettäkin on hyvä arvioida aika ajoin, mutta kun katsoo, mitä perussuomalaiset puhuivat en-
+nen tätä liikennekaarta, niin yksiselitteisesti sanottiin, että taksilupien vapauttamista ei hy-
+väksytä, ja nyt vapautetaan hinnat, vapautetaan lupien määrä. Kyllä tässä nyt moni taksi-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+autoilija kysyy, meneekö tämä nyt sinne samaan Kreikan-puheiden ja (Puhemies koputtaa)
+pienituloisilta ei saa leikata -puheiden sarjaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Nyt valiokunnan puheenjohtaja, edus-
+taja Jalonen.
+
+14.32 Ari Jalonen ps (vastauspuheenvuoro): Arvoisa puhemies! Ensimmäisenä otan tä-
+män perussuomalaisten kansanedustajan roolin. Perussuomalaiset pitivät viimeiseen asti
+kiinni nimenomaan tästä nykymuotoisesta taksilainsäädännöstä. Jossakin kohti jouduttiin
+toki pikkasen joustamaan, että saatiin kompromissi, mutta ei siinä olennaisessa, eli taksi ei
+vapaudu. Lupa on edelleen oltava. Määrät nousevat, se on selvä. Kaikki vähänkin järkevät
+osaavat sen lukea sieltä esityksestä, ja myös hintasääntelyyn tulee muutoksia, joten tässä
+tulee iso mullistus, isoja muutoksia. Näihin isoihin kysymyksiin, kuten esimerkiksi tämä
+tavaraliikenneasia, miten hinnoittelu menee, miten maaseudun pääsääntöinen asemapaik-
+kavelvoite ja niin edespäin hoidetaan, tarvitaan vielä monia tunteja, että selvitetään, mitä
+me käytännössä tarvitsemme.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Myönnän vielä tässä debattivaiheessa
+puheenvuorot edustajille Torniainen, Myllykoski ja Vikman, ja sen jälkeen sitten on mi-
+nisterillä kommenttiaika.
+
+14.33 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Liikenteen mark-
+kinat ovat voimakkaasti säädellyt ja julkisin toimin ohjatut. Nyt liikennekaari tulee murta-
+maan raja-aitoja, ja sen kautta liikenne nähdään laajassa mittakaavassa palveluna, nimen-
+omaan palveluna tulevaisuudessa. Liikennekaari on iso kokonaisuus, ja se tulee nähdä
+myöskin isona mahdollisuutena kehittää nykyaikaisia liikennepalveluja koko Suomessa.
+Lakihankkeen valmisteluvaiheessa niin kuin täällä salissakin on käyty jo paljon keskuste-
+lua tästä taksiliikenteestä ja siitä, miten tämä liikennekaari vaikuttaa sitten taksiliikentee-
+seen tulevaisuudessa, ja on hyvä, että taksiliikenne on mukana tässä isossa liikennekaares-
+sa. Se on tärkeää, ettei se jäänyt ulkopuolelle. Se olisi heikentänyt taksin asemaa tulevai-
+suudessa, mikäli se olisi ollut ulkona tästä.
+
+Ministeri Berner on löytänyt hyvän esityksen, joka huomioi kaikkein kiperimmät koh-
+dat. Eli myös se kymppitonnin raja säilyy siellä edelleen, elikkä sehän on luvanvaraista toi-
+mintaa. Samoin myös tulevaisuudessa yritysten ja kuljetuskaluston on oltava rekisteröity
+Suomeen. Ja erityisen hyvää on se, että tässä on nyt riittävä siirtymäaika, jolloin yritykset
+ja toimijat pystyvät myöskin varautumaan tähän.
+
+14.34 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa herra puhemies! Täytyy sa-
+noa, että tämän vaatimattoman eduskuntakauteni aikana en ole kyllä koskaan nähnyt näin-
+kin rikkinäistä eduskuntaa — mikä on tietysti oikeinkin mukavaa, että hallituspuolueet
+ehkä arvostelevat kaikkein eniten tätä esitystä ja osoittavat kriittisiä kannanottoja siihen,
+kuinka keskeneräistä ja kuinka vähän ja huonosti valmisteltua tuodaan hallituksen toimes-
+ta tänne.
+
+Mutta täytyy sanoa, että liikennekaari todella antaa mahdollisuuksia, ja voi sanoa, että
+tässä on vähän samanlaista jatkumoa kuin edellisen hallituksen aikana, jolloin liikennemi-
+nisteri Kyllönen toi Kela-kyytien yhdistämisen, ja tällaisia meidän pitää tuoda, että meidän
+9
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+kantokyky sote-uudistuksessa voidaan huomioida. Liikennekaari ei saa tulla esteeksi sille,
+ettei meillä ihmisten hoivapalveluja pystyttäisi tehokkaammin ja kustannustehokkaasti
+hoitamaan. Positiivinen puoli on siinä. 
+
+Mutta nyt todellakin asemapaikka (Puhemies koputtaa) on taksinkuljettajille erityisen
+tärkeä kysymys, ja sitä toivoisin, että ministeri avaisi täsmällisemmin.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Vikman oli puhemieheltä
+väärä huomio, eli nyt myönnän puheenvuoron ministerille, 3 minuuttia tuosta puhujako-
+rokkeelta.
+
+14.36 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Liikennekaaren
+tavoitteena on mahdollistaa parempia palveluita asiakkaille, mahdollistaa myöskin parem-
+paa kykyä tuottaa palvelua yrittäjille sekä mahdollistaa henkilö-, tavara- ja postikuljetuk-
+sien yhdistäminen palveluita yhdistämällä. Resursseja Trafille ollaan siirtämässä ely-kes-
+kukselta ja sitä kautta halutaan huolehtia, että resursseja on riittävästi.
+
+Tähän Uber-kysymykseen liittyen: Kyllä näin on, elikkä jokainen, joka saa ja läpäisee
+tämän taksiluvan, pystyy silloin ajamaan eri kyytivälittäjien palveluita. Tavoitteena on toki
+myöskin se, että tähän välitykseen syntyy kilpailua ja monenlaista tarjontaa. Se, mitä tämä
+lainsäädäntö velvoittaa, on, että se velvoittaa kaikkia välittäjiä avaamaan tietorajapintansa,
+mikä on ainutlaatuinen lainsäädäntö maailmassa. Toinen on se, että tässä velvoitetaan
+myöskin Uberia ilmoittamaan kaikki suoritukset maksuista, joita se saa vuosittain, kerta-
+luontoisina summina Trafille. Tätäkin kautta saadaan seurantaa tälle harmaan talouden tor-
+junnalle.
+
+Se, millä tavalla mahdollistetaan säästöjä harvaan asutulla alueella, on ennen kaikkea
+sillä, että mahdollistetaan kyytien yhdistäminen, mahdollistetaan palveluiden tuottaminen
+siten, että se toisi yrittäjälle mahdollisuuden tuottaa mahdollisimman kannattavaa liiketoi-
+mintaa itselleen ja sitä kautta myöskin mahdollisimman hyvää palvelua asiakkaalleen.
+Tämä pyritään huolehtimaan sillä, että voidaan yhdistää samalla kalustolla kuljetettavaa ta-
+varaa, postia ja henkilöitä. Tämä on mahdollisuus, ja digitaalista alustaa hyödyntäen ja
+myöskin sitä kautta, että tämä lainsäädäntö on todellakin myöskin kaikkia toimijoita vel-
+voittava, se mahdollistaa sen, että paremmin saadaan kysyntä ja tarjonta toisiaan kohtaa-
+maan. Tavoitteenamme on huolehtia siitä, että meillä syntyy enemmän palveluita, ja lii-
+kennekaaren varaan on laskettu huomattavan paljon sen suhteen, että joukkoliikennepalve-
+luita, mukaan lukien taksipalveluita, käytettäisiin nykyistä merkittävästi enemmän tulevai-
+suudessa.
+
+Hinnoittelun ylilyönteihin: Trafilla on oikeus puuttua hinnoitteluun. Tällä on tarkoitus
+myöskin tuoda sellainen mekanismi, joka aidosti mahdollistaa sen, että hinnoitteluun on
+kontrolli. Nykyisin kontrollioikeus on valtioneuvostolla, jatkossa se olisi viranomaisella.
+Tavoitteenamme on myöskin huolehtia siitä, että aidosti mahdollistetaan matkaketjut ja
+että esteettömyyden suhteen velvoitetaan kuljettajia siihen, että he pystyvät aidosti huoleh-
+timaan avustamisesta kyydin tarjonnassa, mutta kysyntä on myöskin se, joka luo sitten tar-
+jonnan, ja palvelun ostaja, joka on pääsääntöisesti yhteiskunnallinen esteettömissä kyy-
+deissä, voi edellyttää oikeanlaisen kaluston ja osaamisen käyttöä.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, jatketaan vielä de-
+battia noin puolisen tuntia. Jos kuitenkin tässä sitä ennen jo tulee ministerille tulenpalavaa
+vastattavaa, hän saa toki tilaisuuden siihen.
+
+14.39 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa herra puhemies! Liikennekaa-
+ren suurin uudistus on siis täydellinen ajattelutavan muutos. Tähän päivään astihan kulje-
+tusta ja liikennettä on ajateltu lähinnä paikasta toiseen siirtymisenä, ja nyt sitten jatkossa
+liikenne ja liikkuminen muuttuvat yhä enemmän kokonaisvaltaiseksi palveluksi. Tässä on
+paljon hyviä puolia ja mahdollisuuksia, ja itse uskon siihen, että me pystymme tällä kehit-
+tämään ja tehostamaan niin ihmisten liikkumista kuin postin liikkumista, pakettien liikku-
+mista tulevaisuudessa.
+
+Kun tämän esityksen on valmistellut keskustalainen ministeri, niin olen vakuuttunut,
+että te kannatte huolta myös maaseudusta. Haluaisin kysyä siihen vielä vahvistusta, että
+kun päivystysvelvoitteesta luovutaan, niin millä tavalla Kihniössä, pienissä paikoissa ym-
+päri Suomen saadaan tiistaina kello 22 lokakuussa sadeiltana (Puhemies koputtaa) taksi
+liikkeelle, eli mikä on se varmistuselementti, että tämä taksipalvelu turvataan myös maa-
+seudulla?
+
+14.41 Antero Vartia vihr (vastauspuheenvuoro): Arvoisa puhemies! Liikennekaari on
+erinomainen uudistus, jonka hyödyt tullaan näkemään seuraavien vuosien ja vuosikym-
+menten aikana. Samalla tavalla kuin televerkkojen avaaminen mahdollisti koko telekluste-
+rin nousun, niin tässä ollaan mahdollistamassa liikenteen suhteen vastaavanlaista. Ihmis-
+kunta käyttää liikenteeseen kymmenen kertaa enemmän rahaa kuin teleliikenteeseen.
+
+Mitä tulee tähän taksiliikenteeseen, joka nyt on kaikista suurin kysymys, niin miten toi-
+mia Kihniössä tänä sadeiltana kello 22, kun se ainut alueen taksi on jo liikenteessä? Tar-
+jonnan lisääminen parantaa näiden harvaan asuttujen alueiden ihmisten asemaa. Meillä on
+nämä kapistukset taskussa, joiden avulla on mahdollisuus välittää tietoa, että tarvitsee kyy-
+din. Alueella on ihmisiä, joilla on auto, ajokortti ja aikaa ajaa. Olennaista on hyödyntää
+(Puhemies koputtaa) olemassa olevia resursseja huomattavasti nykyistä tehokkaammin, ja
+liikennekaari tekee sen mahdolliseksi. (Markku Rossi: On siellä useampi kuin yksi taksi!)
+
+14.42 Satu Taavitsainen sd (vastauspuheenvuoro): Arvoisa puhemies! Vanhaa lakia ku-
+mottaessa ja uutta luotaessa on tietenkin varmistettava se, että meillä kuljetusalalla säily-
+vät toimivat ja tasapuoliset markkinat, ja tätä asennetta tarvitaan kyllä eduskunnalta sekä
+taksi- että tavaraliikenteen osalta. Olen huolissani siitä, että jos tämä laki tulee tällaisenaan
+voimaan, on kuorma- ja pakettiauto- sekä traktoriliikenteen osalta lopputuloksena kulje-
+tusmarkkinoiden vinoutuminen nykyisten tavaraliikennelupien haltijoiden vahingoksi.
+Kysyisin ministeriltä: kun olette laittanut nyt tällaisen määräyksen, että ammattimaisen
+kuljetuksen määritelmässä on tällainen tulonhankkimistarkoitus, ja tämähän ei ole enää
+EU-asetuksen mukainen, koska EU-asetus lähtee siitä, että ammattimaisen liikenteen osal-
+ta liikennelupaa tarvitaan silloin kun täyttyy neljä (Puhemies koputtaa) ehtoa eli kuljetuk-
+sessa muu kuin oma tavara, tapahtuu tiellä kuljetus, saadaan korvaus ja se tapahtuu (Puhe-
+mies koputtaa) traktorilla tai autolla, niin miksi te olette tehnyt tällaisen muutoksen?
+
+14.43 Mats Löfström r (vastauspuheenvuoro): Värderade herr talman! Jag tycker att för-
+slaget till ny trafikbalk är balanserat och är positiv till förslaget. Digitaliseringen innebär
+11
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+stora möjligheter till effektivering och en bättre användarvänlighet. Det har redan föränd-
+rat trafiksektorn globalt på många platser. Jag hoppas att Finland med den nya trafikbalken
+kan bli ett land i framkant för företag som kan utveckla lösningar inte enbart för den finska
+marknaden utan också för export. Interoperabiliteten är i detta hänseende viktig för effek-
+tivering och användarvänlighet.
+
+Jag stöder också att man moderniserar vår taxilagstiftning så att den möjliggör en star-
+kare konkurrens, produktutveckling och effektivering, inte minst genom det digitala. Det är
+bra att se branscher som en helhet och möjliggöra det nya servicekonceptet. Unga konsu-
+menter i Helsingfors använder i dag Uber, trots att det inte är lagligt. Man använder det ef-
+tersom det är en bra produkt. Lagstiftningen måste därför vara modern och fungera för
+både unga och äldre konsumenter.
+
+Avslutningsvis en fråga. Slopandet av pristak har i Stockholm lett till en del lurendrejare
+som kör till ockerpriser. Det är någonting som också oroar finländare. Hur ska man garan-
+tera att den saken inte sker i praktiken här?
+
+14.46 Li Andersson vas (vastauspuheenvuoro): Arvoisa puhemies! Myönteistä tässä lii-
+kennekaariesityksessä ovat nämä tavoitteet digitalisaation lisäämisestä, tiedon avaamises-
+ta ja myöskin näiden matkustuspalvelujärjestelmien yhteensopivuuden lisäämisestä. Suu-
+rimmat ongelmat taas liittyvät näihin julkilausuttuihin tavoitteisiin liikenteen yksityistämi-
+sen lisäämisestä, josta nyt pahin esimerkki on tämä esitys liikenneverkkojen yhtiöittämi-
+sestä.
+
+Mitä tulee sääntelyn purkuun, niin kannattaa muistaa, että vaikka meillä tässä maassa
+varmasti on paljon turhaa byrokratiaa, meillä on myöskin hyvin paljon tarpeellista säänte-
+lyä, jonka purkaminen taas voi johtaa epätoivottuihin lopputuloksiin. Tämän esityksen
+suurin ongelma on juuri se, että taksiliikenteen osalta ei käy ilmi, millä tavalla näitä uhka-
+kuvia ja riskejä tullaan torjumaan. Eli miten huolehditaan taksipalveluista haja-asutusalu-
+eilla, miten huolehditaan taksipalvelujen laadusta asutuskeskuksissa, ja miten varmiste-
+taan, että tämä hintasääntelyn purku ei johda ylihinnoitteluun tai hintavedätyksiin?
+
+14.47 Mika Niikko ps (vastauspuheenvuoro): Arvoisa herra puhemies! Liikennekaariuu-
+distus tuo varmasti paljon uusia mahdollisuuksia, mutta totuuden nimissä on todettava se,
+että kun itse tunnen monta taksialan yrittäjää, niin he kyselevät sitä, arvoisa ministeri, tu-
+leeko kaikille taksiluvan saajille samat pelisäännöt ja missä ne pelisääntöjen reunat ovat.
+
+Esimerkiksi Suomen lentoasemahan on meidän suomalaisten kannalta erittäin hyvä
+käyntikortti juuri taksien ansiosta, koska kaikki taksit ovat samantasoisia ja kuljettajien ja
+kaikkien vaatimukset ovat samanlaisia. (Vasemmalta: Jatkossa ei ole!) Moni taksiyrittäjä
+on huolissaan siitä, miten esimerkiksi tämä jatkossa tulee toteutumaan. Voiko siellä taksi-
+tolpalla olla vaikka traktorilla ja sanoa, että tulkaa kyytiin tuonne lavalle, ja lähdetään vie-
+mään eteenpäin, vai tuleeko siellä olemaan vaatimus siitä, että kaikki autot ovat määrätyn
+ikäisiä esimerkiksi, ja mimmoinen asu niillä kuljettajilla on, haalari päällä vai puku päällä
+ja niin edespäin? 
+
+Tämä näin niin kuin vinkiksi nytten tuonne valiokuntaan, elikkä kun valmistellaan tätä
+lakia, niin tehdään sinne selkeät säännöt. Esimerkiksi taksiyrittäjä (Puhemies koputtaa)
+joutuu 4 000 euroa maksamaan pelkästään vakuutusmaksuja, jos hän meinaa näillä nykyi-
+sillä vakuutusmaksuilla ajaa taksia. Miten se jatkossa onnistuu?
+12
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat! En kernaasti kes-
+keyttäisi vastauspuheenvuoroa, mutta silloin, kun se menee hyvin reippaasti yli minuutin,
+minun on joko keskeytettävä tai nuijittava turhan kovaa tätä nuijaa pöytään. Pyydän, että
+pysytään mahdollisimman tarkasti siinä yhdessä minuutissa.
+
+14.48 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Tämän liikennekaa-
+ren valmistelusta, kun siinä ilmeisesti kesti aika pitkään se neuvottelu hallituksen sisällä ja
+sitä hierottiin aika pitkään, olisi voinut olettaa ja jäi mielikuva, että se tulee aika valmiina
+tänne. On kyllä erittäin poikkeuksellista, että kun ministeri tekee oman esityksensä, niin
+täällä siis lähes laidasta laitaan kaikki hallituspuolueet esittävät duubioita, viimeksi Mika
+Niikko kritisoi (Eero Heinäluoma: Ei Kankaanniemellä ole duubioita!) voimakkaasti tätä
+taksiliikenteen vapauttamista, mikä ei ole ihme, mutta onneksi edustaja Jalonen sen myön-
+si, että perussuomalaiset joutuivat tässä taipumaan. Että oikeastaan ainoat, jotka tässä ovat
+selvästi olleet puolesta, ovat olleet vihreät täällä.
+
+Arvoisa puhemies! Tämä hintasääntely on se, mikä herättää suurimmat kysymysmerkit.
+Ja kun on puhuttu tästä Timo Soininkin käyttämästä villistä lännestä, niin tämä on se suu-
+rin huoli, mihin nyt kansalaiset odottavat vastauksia, ja olen ymmärtänyt, että jopa (Puhe-
+mies koputtaa) hallituspuolue kokoomuksessakin odotetaan. Miten te olette ajatelleet tä-
+män ratkaista niin, että todella tähän voidaan puuttua?
+
+14.50 Antti Rantakangas kesk (vastauspuheenvuoro): Arvoisa puhemies! Ministeri Ber-
+nerin aikana liikennesektorista on tullut hallituksen yksi kärkihanke, jota kehitetään ja jo-
+hon panostetaan: miljardi euroa korjausvelan pienentämiseen ja mittavia uudistuksia. Oli
+erittäin hieno asia, että kaikki liikennemuodot saatiin mukaan tähän liikennekaareen, ja se
+osoittaa myöskin ministerin halua huomioida erilaista palautetta ja neuvotella ratkaisusta.
+
+Oli hivenen huvittavakin tuo edellinen puheenvuoro, kollega Lindtman, että muuta vi-
+kaa ette löytänyt kuin sen, että tätä valmisteltiin huolella ja otettiin palautetta huomioon.
+Sehän kertoo juuri siitä, että hallituksella on halua ottaa palaute huomioon, ja nyt syntyi
+hyvä kokonaisuus. (Eero Heinäluoma: Yksi tyytyväinen löytyi!) Se kertoo hallituksen hy-
+västä päätöksentekokyvystä. Se kertoo siitä, että tämän päivän hallitus on päivä ja edelli-
+nen hallitus oli yö, jolloin ei päätöksiä saatu aikaan. (Välihuutoja)
+
+Täällä ei ole myöskään tullut esille, mikä olisi ollut vaihtoehto, jos tätä uudistusta ei oli-
+si toteutettu. Meillä yhteiskunnan resurssit ovat rajalliset, ja sen takia tätä uudistusta tarvi-
+taan. Minä luotan siihen, että ne hyvät tavoitteet saadaan toteutumaan juuri sillä tavalla
+kuin ministeri on täällä kertonut. (Eero Heinäluoma: Ensimmäinen tyytyväinen!)
+
+14.51 Eero Suutari kok (vastauspuheenvuoro): Arvoisa herra puheenjohtaja! Liikenne-
+kaari tuo Suomen nykyaikaan. Se mahdollistaa uusia liiketoimintoja nimenomaan liiken-
+teen hallintapuolella ja tuotekehityksessä. Eräitten arvioitten mukaan tällä vapautuksella
+on mahdollista saada aikaan jopa 18 000 uutta työpaikkaa. Itse pidän hyvänä asiana sitä,
+että tässä vapautetaan esimerkiksi taksiyritysten lupa-asiat siten, että kun täyttää tietyt kri-
+teerit, niin pääsee yrittämään, ja sitten tämä kysynnän ja tarjonnan laki määrää siis siitä,
+että se hinta asettuu sille kohdalle, jossa liikenteen käyttäjällä on tietty euromäärä käytet-
+täväksi ja tarjoaja tarjoaa sillä hintaa, millä se menee kaupaksi, ja se ohjaa sitä liikennettä.
+Minun mielestäni täällä on aika lailla paljon käytetty aikaa siihen, että esimerkiksi Kai-
+nuussa olisi huono tarjonta sitten tämän jälkeen, mutta täytyy ottaa huomioon se, että Kai-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+nuun maaseudulla olevilla taksiyrittäjillä lähes kaikilla on sopimus jostakin, joko Kela-kul-
+jetuksista tai koulukuljetuksista (Puhemies koputtaa) tai muista, ja ne tarjoavat edelleen
+myös muille kuljetuksia jatkossa.
+
+14.52 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa puhemies! Kyllähän tämä
+hallituksen esitys on hyvä esitys hyvän hallintotavan vastaisesta valmistelusta, ei kyllä-
+kään ensimmäinen lajiaan. Siksi täällä on aukkoja, joista hallituksen jäsenetkin kilvan ker-
+tovat. Tämä kompromissiesitys — joka on muuten perussuomalaisille kabotaasin ohella jo
+toinen kompromissiesitys — ei käynyt lausuntokierroksella, vaan se tuotiin kiireellä, ja
+tätä muuten esittelytilaisuudessa hallituksen jäsenet liikuttavan yksimielisesti kehuivat.
+Tässä ei ole tehty vaikutusarvioita, miten käy kuluttajien tai alan toimijoiden, tai ei ole ar-
+vioita, miten tämä tulee vaikuttamaan Kelan tai kuntien kustannuksiin jatkossa.
+
+14.53 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Kun tätä salikes-
+kustelua on kuunnellut, niin liikennekaari, suuri uudistus nimenomaan palveluna, on ai-
+heuttanut tietysti kysymyksiä, ja aina suuri uudistus aiheuttaa kysymyksiä ja epäilyksiä.
+Mutta miksi liikennekaari on tärkeä? Se on sen takia tärkeä, että siinä asiakas asetetaan ni-
+menomaan keskiöön: kun tähän asti liikenteen kehittäminen on ollut pikemminkin järjes-
+telmäkeskeistä, niin nyt asiakas on nimenomaan keskiössä. Liikennekaari mahdollistaa uu-
+denlaisten liikennepalvelujen kehittymisen ja yritystoiminnan. Sillä saadaan maaseudulle
+parempaa ja monipuolisempaa palvelutarjontaa, sillä mahdollistetaan yrityksille tilaa ke-
+hittää uutta liikennetoimintaa, ja se mahdollistaa myöskin uusien työpaikkojen syntymi-
+sen. Siis palveluita pystytään parantamaan tämän lain kautta — tämä on nimenomaan mah-
+dollistava laki, ei rajoittava laki.
+
+14.54 Kari Uotila vas (vastauspuheenvuoro): Arvoisa puhemies! Täällä on viitattu sekä
+Ruotsin kokemuksiin että lentokentän taksiliikenteeseen. Kerron nopeasti esimerkin kesäl-
+tä 92. Olin Arlandan lentokentällä hakemassa taksia noin 2 kilometrin päässä olevaan len-
+tokenttähotelliin. Ei ollut puutetta tarjonnasta eikä ollut asiakas keskiössä, koska tarjontaa
+oli ainakin 50 taksia mutta kukaan ei suostunut ottamaan minua 2 kilometrin päähän kul-
+jettaakseen, koska kaikki odottivat kyytiä Tukholman keskustaan. Ainoastaan pitkän tin-
+kaamisen jälkeen ehkä kahdeskymmenes taksi siitä jonosta suostui siihen 2 kilometrin ly-
+hyeen kyytiin mutta laskutti siitä kyllä sitten varmaankin puolet siitä, mitä olisi laskuttanut
+Tukholman keskustaankin. Tällaista vääntöäkö taksitolpilla ja tilausta tehdessä tällä uudis-
+tuksella, kun hinnoittelu vapautetaan, halutaan myös Suomeen?
+
+14.55 Outi Mäkelä kok (vastauspuheenvuoro): Arvoisa puhemies! Olen todella iloinen,
+että Suomella on rohkeutta katsoa tulevaisuuteen ja ottaa tämä tärkeä askel digitaalisen tie-
+don hyödyntämiseen ja sääntelyn sujuvoittamiseen. Olen myös tosi tyytyväinen siihen, että
+lausuntokierroksen jälkeen esitykseen tehtiin näitä hyviä muutoksia, muun muassa se, että
+pelisäännöt ovat nyt kaikille samat ja että harmaata taloutta torjutaan entistä tehokkaam-
+min. Tärkeää on myös, että kuljettajalla pitää olla ajolupa ja että toimipaikan pitää olla
+Suomessa.
+
+Täällä on näitä uhkakuvia maalattu ja puhuttu muun muassa mummoista lumessa ja kan-
+nettu huolta erityisryhmien tarpeista ja niiden toteutumisesta. Olen kuitenkin ymmärtänyt,
+että muutoksesta huolimatta turvallisuudesta ja laadusta halutaan pitää huolta ja että kul-
+14
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+jettajalla muun muassa tulee jatkossakin olla riittävät vuorovaikutus- ja kielitaidot sekä
+kyky avustaa erityisryhmiä ja huolehtia matkustajan turvallinen tulo ajoneuvoon ja poistu-
+minen. Ja olisin vielä tarkistanut: eikö ole niin, että myös rikostaustat tarkistetaan tulevai-
+suudessa jopa nykyistä huolellisemmin?
+
+14.56 Riitta Myller sd (vastauspuheenvuoro): Arvoisa puhemies! Täällä on puhuttu, että
+maaseudulle saadaan parempia liikennepalveluja. Tätä kyllä sopii kyseenalaistaa, ja itse
+asiassa aika monet hallituspuolueitten edustajat ovat tämän saman asian nostaneet esille.
+
+Mielestäni erinomaisen hyvä on tavoite toimivista matkaketjuista. Mutta miten varmis-
+tetaan toimivat matkaketjut esimerkiksi sillä rautatieliikennepolitiikalla, jota nyt harraste-
+taan tuolla vähäliikenteisillä radoilla? Päätökset tehdään vuodeksi kerrallaan. On erittäin
+vaikea ajatella, miten tällaista sujuvaa liikennettä saadaan aikaiseksi sillä tavalla, että mei-
+dän päätöksenteko tapahtuu vuosittain.
+
+Samoin kysymys: silloin kun kysyntä ja tarjonta pyritään saamaan kohtaamaan toisen-
+sa, miten se aidosti kohtaa tuolla (Puhemies koputtaa) maaseutualueilla?
+
+14.57 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Tässä sali-
+keskustelussa on hyvin paljon oltu huolissaan maaseudusta. Kiitos teille, että maaseutu
+kiinnostaa teitä.
+
+Minä olen itse syrjäisimmän maaseudun edustaja tässä salissa, ja minun mielestäni tämä
+esitys on erittäin hyvä. Olen taustaltani maaseudun kehittäjä ammattitoiminnoissani, ja me
+olemme hakeneet koko ajan uusia mahdollisuuksia, millä tavalla me voisimme alkaa ke-
+hittämään maaseutua, miten me saisimme uusia toimintamalleja aikaiseksi. Tämä liiken-
+nekaari antaa mahdollisuuksia yhdistää eri palveluita ja se antaa mahdollisuuden myös pie-
+nimuotoiseen toimintaan — mutta kaikki on tietysti lupien mukaista. Tämä antaa todella
+paljon mahdollisuuksia meille syrjäseuduilla yhdistää digitalisaatiota, tavaraliikennettä,
+erilaisia palvelutoimintoja ja kaikkia näitä. Mutta onhan tosi se, että meidän pitää miettiä,
+miten näitä ohjauksia rakennetaan. Meillä valiokunnassa ja ministeriössä tullaan varmasti
+keskustelemaan (Puhemies koputtaa) asiasta.
+
+Ja lopuksi: Haittaako se, vaikka traktori tulee hakemaan teitä taksiliikenteessä? (Puhe-
+mies koputtaa) Nimittäin harva teistä nousisi sen taksin kyytiin kuitenkaan. Ei siihen ole
+pakko nousta.
+
+14.58 Leena Meri ps (vastauspuheenvuoro): Arvoisa puhemies! Tästä keskustelusta on
+nyt kokonaan myös unohtunut se ryhmä, ketä tämä koskee. Katselin erilaisia uutisvirtoja,
+ja siellä Taksiliitto on muun muassa todennut, että liikennekaari tuo uudistuksia ja Taksi-
+liitto on siihen pääosin tyytyväinen. Luulisi, että sieltä se kovin kritiikki tulee. Lisäksi Lin-
+ja-autoliitto on arvioinut, että markkinoiden avaaminen ja digitalisaation hyödyntäminen
+parantavat bussipalveluiden tarjontaa ja kiinnostavuutta ja tarkoittavat asiakkaiden kannal-
+ta parempia palveluita, todennäköisemmin alhaisempia hintoja ja laajempia palveluita.
+
+Erityisesti perussuomalaisille oli tärkeä tämä 10 000:n, miksikä sitä nyt sanoisi, alarajan
+poistaminen sieltä, että ei ole tämmöistä villiä länttä, johon täällä on viitattu. Se oli meille
+tärkeää, ja lisäksi se, että tämä toimipaikka on nyt Suomessa ja tämä edellytys on olemas-
+sa. Eli täällä perussuomalaisille merkittävimmät asiat saatiin säilytettyä, (Puhemies koput-
+taa) että me emme suinkaan ole kääntäneet takkiamme, tai mitä täällä nyt on haluttu esit-
+tää. (Välihuutoja vasemmalta)
+15
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+14.59 Sinuhe Wallinheimo kok (vastauspuheenvuoro): Arvoisa puhemies! Liikennekaa-
+rihan on pääsääntöisesti äärimmäisen hyvä uudistus. Toki tietenkin, kun mennään yksityis-
+kohtiin, niin piru piilee niissä yksityiskohdissa, ja itse haluaisin oikeastaan kysyä tällaista
+kysymystä: jos vaikka Jyväskylässä on joku suuri tapahtuma ja Hankasalmelle ei sitä tak-
+sikuskia välttämättä saada sitten, ja täällä kuitenkin lukee, että asemapaikkavelvoite pää-
+sääntöisesti säilyy, niin kuka on se taho, joka nyt sitten mahdollisesti jatkossa määrää tä-
+män tietyn taksikuskin sinne, joka tietenkin markkinaehtoisesti haluaisi olla siellä Jyväs-
+seudulla tekemässä sitä rahaa, ja kuka nämä viulut sitten maksaa? Kyllähän tälläkin var-
+masti on joku maksaja siinä vaiheessa, kun tämä taksikuski sitten, poloinen, siellä Hanka-
+salmella ilman kyytiä on. Että varmasti näihin haluaisin sitten jatkossa valiokuntatyössä
+panostaa paljonkin, koska tässä on aika suuria kysymyksiä.
+
+15.01 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Wal-
+linheimolle vastaan heti: kyllä se asiakas sen kyydin maksaa tulevaisuudessakin. 
+
+Suomalainen taksijärjestelmä on muutoksen edessä, ja tässä liikennekaaressa ehdote-
+taan olennaisia muutoksia taksijärjestelmään: lupakiintiöstä tullaan luopumaan ja nyky-
+muotoista asemapaikka- ja enimmäishintasääntelyä muutetaan. Tämähän on se oleellinen
+osa, missä suomalaisessa taksijärjestelmässä nyt tapahtuu muutoksia, mutta kyllä suoma-
+lainen taksi tämän kestää, tullaan pärjäämään edelleen tässäkin. Tässä nyt tärkeänä kysy-
+myksenä on tasapuolisten toimintaedellytysten turvaaminen nykyisille sekä uusille alan
+toimijoille kuljetusmuodosta riippumatta. 
+
+Hyvää tässä on tämä hintasääntelystä luopuminen, koska tämähän mahdollistaa muun
+muassa täällä pääkaupunkiseudulla kiireisellä ajalla hintojen nostamisen. Kuljettajan an-
+siotaso nousee merkittävällä tavalla, (Välihuutoja) ja tässäkin tapauksessa tämän talon
+käyttäjät ja asiakkaat tämän homman maksavat. Niin se on ollut tähänkin asti, ja niin se tu-
+lee olemaan tästä edessäkinpäin.
+
+15.02 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Kyllä minusta nyt
+kuitenkin on vähän hämmentävää kuunnella näitä perussuomalaisten selittelyjä täällä, kos-
+ka kuitenkin puheenjohtaja Soini sanoi vielä kesällä, että tämä on täysin yksiselitteistä, et-
+tei taksiliikennettä vapauteta, ja nyt ollaan sitten siirrytty, jälleen kerran, tähän kaksiselit-
+teisyyteen. Toisaalta tämä sinänsä ei minua yllätä, koska olen tottunut tässä salissa siihen,
+että perussuomalaiset puolustavat bensaveron nostoa ja pistävät autotallitkin energiatodis-
+tuksen piiriin. Ymmärrän, että tämä on nyt tätä nykyistä, mutta minä toivoisin, että kun an-
+netaan joku viesti yksiselitteisyydestä, niin sitten ei mentäisi tähän tai ainakin selitettäisiin,
+miksi jälleen kerran näin on tapahtunut. Kyllä minä toivon toisaalta, puhemies, että vielä
+taksikuskit edustaja Kankaanniemenkin kyytiin ottavat, mutta he saattavat kyllä kovasti ih-
+metellä näitä ristiriitaisia puheita. Toivon, että tähän lakiesitykseen liittyvät huolet, mitä
+täällä on esitetty, otetaan nyt kaiken kaikkiaan tosissaan. (Puhemies koputtaa) 
+
+Puhemies! Täällä sanottiin erään taksikuskin todenneen, että sitä saa mitä tilaa, ja aika
+moni kysyy tänä päivänä, että mistä sen tilauksen voisi perua.
+
+15.03 Kimmo Kivelä ps (vastauspuheenvuoro): Puhemies! Edelleen perussuomalaisten
+vaatimuksesta säilyy luvanvaraisuus. Lisäksi tämän lakiehdotuksen myötä mahdollistuvat
+uudistukset taksikentällä, mitä nimenomaan taksiyrittäjät itse ovat toivoneet. 
+16
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Mutta minua ihmetyttää niin tässä keskustelussa kuin lainsäädäntöesityksessä muuten-
+kin, että tässä digitalisaatiohuuman keskelläkään ei ole puhuttu liikenneturvallisuudesta
+mitään. Eletään mitä aikakautta tahansa, niin kaiken keskuksena tulee olla liikenneturval-
+lisuus. Viime kaudella uudistettiin lainsäädäntöä siten, että yli 70-vuotias voi toimia am-
+mattimaisessa liikenteessä. Onko ministerillä tietoa, missä määrin tätä mahdollisuutta käy-
+tetään ja onko sillä ollut liikenneturvallisuuteen kielteisiä vaikutuksia? Erityisesti pelä-
+tään, mitä tapahtuu raskaassa liikenteessä ja linja-autoliikenteessä.
+
+15.04 Silvia Modig vas (vastauspuheenvuoro): Arvoisa herra puhemies! Minister Ber-
+ner! Vaikka en tätä esitystä kaiken kaikkiaan kannata, niin pidän kyllä liikennekaarta itse
+asiassa välttämättömänä esityksenä. (Naurua) Se on juuri niin, me tarvitsemme kokonai-
+sen ajatuksen muutoksen siihen, miten me liikennettä järjestämme. Kysehän on nyt niistä
+pelisäännöistä. Erityisen hyvää tässä esityksessä on digitalisaatio, avoimet rajapinnat ja
+yhtenäiset matkaketjut. Digitalisaatio ei ole, edustaja Kivelä, mikään huuma, vaan se on to-
+siasia, niin kuin on myös jakamistalous. Sen takia pidin hyvänä linjausta siitä, että välitys-
+palveluiden on jatkossa ilmoitettava laskutetut kyytinsä, jos oikein ministeriä ymmärsin.
+Tämä on nimenomaan se tärkein, koska jakamistalous ei ole kenenkään mielipide vaan se
+on fakta, joka on täällä, ja nyt luodaan niitä pelisääntöjä, jotta ne markkinat ja se maailma
+syntyvät terveelle pohjalle. 
+
+Tätä pidän tervetulleena. Itse en suurena digitaalisten palveluiden ja sovellusten ystävä-
+nä ole voinut Uberia käyttää, koska vasemmistolaisena en hyväksy verojen maksamatta
+jättämistä. Mutta se päällimmäinen huoli, joka tässä keskustelussa on tullut ilmi, on haja-
+asutusseutujen taksiliikenteen turvaaminen. Täällä sanottiin, että mitenkäs sitten kun Kih-
+niössä (Puhemies koputtaa) torstai-iltana kello 22 ei saa kyytiä. Jos se on Kihniön ainoa
+taksipyyntö koko torstai-iltana, miten sinne syntyisi kilpailua, joka alentaisi hintoja ja toisi
+työtä taksikuskeille?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Äsken sovitusti nyt tämä menee tästä
+poikki, ja myönnän puheenvuoron seuraavana edustaja Ala-Nissilälle. 
+
+15.05 Olavi Ala-Nissilä kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä on
+todella suuri uudistus, historiallinen uudistus, ja keskustelusta huomaa, että tämän uudis-
+tuksen sisältö ei ihan avaudu taksin takapenkillä Demokraatti-lehteä luettaessa. (Naurua)
+Tässä on kuitenkin kysymys digitalisaation huimien mahdollisuuksien hyödyntämisestä,
+tässä on kysymys eri liikennevälineiden integraation hyödyntämisestä, tässä on kysymys
+tuhansista uusista työpaikoista, ja ennen kaikkea, puhemies, tässä on kysymys myöskin sii-
+tä, että turvataan suomalaisen liikenteen kehittämisinvestointien rahoitus pitkällä aikavä-
+lillä. Meillä ei ole rahaa enää kehittämiseen olemassa, ellemme löydä jotain uusia välinei-
+tä. Tämä liikenneverkkoyhtiö kokonaisuudessaan on sekin suuri, ennakkoluuloton uudis-
+tus, joka todella tarjoaa mahdollisuuksia siihen, että pystymme rahoituksen hoitamaan. Et-
+tei enää tarvitse verrata lapsilisiä ja kannattavia liikenneinvestointeja keskenään, vaan ne
+voidaan todella hoitaa oman yhtiön kautta ja silti turvata sille demokraattinen ulottuvuus.
+Eli kannatan uudistusta, ja tulkaa nyt sen eilispäivän Demokraatti-lehden päivityksistä vä-
+hän tähän tulevaisuusnäkökulmaan mukaan.
+17
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+15.07 Maria Tolppanen sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä taksiliiken-
+neasiassa on sanottu, että tässä on nyt mahdollisuus muun muassa siihen, että saadaan hin-
+toja alas. Kuitenkin tässä varmistetaan se, että Liikenteen turvallisuusvirasto voi puuttua
+asioihin, mikäli hinnat nousevatkin ylös. Kummasta tässä on kysymys? Siitä, että hinnat
+ovat menossa alas, vai siitä, että hinnat ovat menossa ylös?
+
+Sen lisäksi haluaisin, arvoisa ministeri, kiinnittää teidän huomiotanne siihen, että vaik-
+ka täällä edustaja Vartia sanoi, että meillä on älypuhelimet taskussa ja niillä voidaan tilata
+sitten ja niillä saadaan se taksi, niin ainakaan minun isoäitini ei saa sillä sitä taksia tilattua.
+Ensinnäkin näkö on niin huono, että hän ei näe. Toisekseen hän ei osaa käyttää älypuhelin-
+ta. Kolmanneksi hän ei edes omista älypuhelinta. Mutta tässähän on tietenkin meille kai-
+kille pikku vinkki: kaikille rakkaille vanhuksillemme älypuhelimet joululahjaksi. Pari
+vuotta on aikaa opettaa heidät käyttämään ja kilpailuttamaan sitten takseja. Missä on inhi-
+millisyys tässä asiassa? Ymmärrän, että helsinkiläiset tämän osaavat, jopa vaasalaiset,
+mutta vanhukset eivät.
+
+15.08 Mikko Alatalo kesk (vastauspuheenvuoro):  Arvoisa puhemies! Tässä yksi tärkeä
+tekijä on tietysti nämä Kela-kyydit, ja nythän taksit ovat tulleet vastaan jo niin, että yhdis-
+tellään näitä kyytejä. Tämä digitalisaatio tulee avaamaan sen, että voidaan kuljettaa yhdes-
+sä enemmän asiakkaita. Sanoisin, että tämä on eräänlainen liikenteen kiky-sopimus, siinä
+mielessä että tämä tulisi Kelalle halvemmaksi. Toinen asia on tietysti koulukyydit myös.
+Tällä digitalisaatiolla ja tällä palvelujärjestelmällä voidaan kyytejä yhdistää todellakin.
+
+Toinen asia on tietysti sitten se, että tämä asemapaikkahan — kysyinkin ministeriltä —
+on siis pääasiallinen asemapaikka mutta toki se taksi voi käydä muuallakin tekemässä kyy-
+tejä. Mutta miten voidaan siellä Juupajoella sitten — täällä käytettiin Kihniö-nimitystäkin
+— varmistaa se, että ihmiset voivat luottaa, että taksi on siellä paikalla? 
+
+Ja todellakin Liikenteen turvallisuusviraston on katsottava, missä vaiheessa ne hinnat
+sitten ovat, ettei meillä käy niin kuin Ruotsissa, että se on villi järjestelmä. Tämä on minus-
+ta tärkeä asia myös seurata, jotta asiakkaat voivat olla tyytyväisiä. (Puhemies koputtaa) 
+
+Ja vielä sanon yhden asian: Takseilla on suuret vakuutukset. He maksavat paljon, mel-
+kein kymppitonnin vakuutuksia vuodessa. Uber-taksit eivät maksa. (Puhemies: Nyt olisi
+aika lopussa!) (Eero Heinäluoma: Edustaja Alatalolta on jäänyt Demokraatti-lehti sinne
+taksin takapenkille!)
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Vielä myönnän puheenvuorot edusta-
+jille Henriksson ja Häkkänen, ja sen jälkeen ministerille puheenvuoro.
+
+15.09 Anna-Maja Henriksson r (vastauspuheenvuoro): Arvoisa puhemies! Tulin myö-
+hässä tähän istuntoon, koska tänään liikenneyhteydet eivät toimineet. Lennot Pietarsaares-
+ta ja Kokkolasta olivat peruttuja, ja sittemmin myös VR:n juna Seinäjoelta Helsinkiin oli
+tunnin myöhässä, joten me tarvitsemme kyllä uutta liikennekaarta ja me tarvitsemme sys-
+teemin, joka voi myös palvella meitä kansalaisia silloin, kun tämmöinen tilanne esimerkik-
+si tulee eteen. 
+
+Mutta, arvoisa puhemies, olisin mielelläni kuullut ministerin avaavan hiukan, mitä tämä
+digitalisaatio tulee käytännössä tarkoittamaan. Ollaanko jo löydetty joku konkreettinen
+sähköinen ratkaisu, vai onko se asia aivan auki? Nyt ainakin tähän pakettiin sisältyy taksi-
+kiintiöistä ja hintasääntelystä luopumista, ja sehän nyt ei ole digitaalista toimintaa, se on
+18
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+aika analogista toimintaa. Olisi hyvä, jos voisitte vielä avata tämän digitalisaation. (Puhe-
+mies koputtaa) — Och samma på svenska. 
+
+15.10 Antti Häkkänen kok (vastauspuheenvuoro): Arvoisa puhemies! On hyvä myös
+muistaa vähän isompi kuva, mihin tämä koko liikennekaari liittyy. Tänään IMF viimeksi
+muistutti siitä, että Suomen taloudellisen menestyksen ihan kohtalonkysymyksiä on tuot-
+tavuuden lisääminen yksityisellä ja julkisella sektorilla. Erityisesti taloustutkimuslaitokset
+ovat Suomea hoputtaneet monta vuotta jo siitä, että niillä isoilla menoeräalueilla, sote-puo-
+lella, asumisessa, vähittäiskaupassa ja myös täällä liikennesektorilla, pitää saada tuotta-
+vuutta ja kilpailua lisää. Tämä liikennekaari on tästä hyvä esimerkki, että kun kotitaloudet
+käyttävät noin 17 prosenttia liikkumiseen, yritykset noin 13 prosenttia ja vielä julkisesti
+tuettuja kyytejä on yli miljardilla, niin tämä liikennekaari on aivan välttämätön. Tässä on
+ensisijaisesti hyvää se, että nyt digitalisaation, uuden teknologian hyödyntämisen rajapin-
+nat avataan tähän täysimääräisesti. Tämä pitäisi tehdä monella muullakin toimialalla Suo-
+messa. Mutta ennen kaikkea tässä saadaan säästöjä aikaan, työllisyysvaikutuksia, ja mikä
+isoin, tässä saadaan käyttäjälähtöistä palvelua (Puhemies koputtaa) asiakkaille, ei pelkäs-
+tään ylhäältä alaspäin katsottuna vaan käyttäjälähtöistä palvelua. 
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Jo sanotusta poiketen vielä puheen-
+vuoro ryhmänjohtaja Lindtmanille, ja sitten ministeri vastaa. 
+
+15.12 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Innostuin tästä
+edustaja Alatalon kommentista, josta kyllä tuli mieleen, että hän oli nyt jättänyt sen Demo-
+kraatin sinne taksin penkille. Tämä vakuutusasia on yksi, mutta on toinen asia, mikä tässä
+keskustelussa ei ole tullut esiin. Kuten totesin aikaisemmin, niin tämän liikennekaaren ta-
+voitteet ovat hyviä, rajapintojen avaaminen on hyvä, se, että matkaketjuja voidaan yhdis-
+tää, on hyvä. Tästä taksiliikenteestä se tietysti olisi puuttunutkin vielä, että tämä kymppi-
+tonnin raja tänne olisi jäänyt. Mutta yksi asia on jäänyt käsittelemättä: Tämä taksiautoili-
+joiden auton hankinnan verovähennys 5 000 euroa. Ministeri, mitä sille käy? Saavatko sen
+jatkossakin kaikki taksiautoilijat, ja saako sen niin monta taksia kuin he haluavat vain pe-
+rustaa? Mitä tälle verovähennykselle käy, se on 5 000 euroa per taksi? Saavatko sen jatkos-
+sa kaikki, vai tuleeko siihen jokin rajoitus, vai poistetaanko se kokonaan? Tämä on erittäin
+tärkeä kysymys, mikä tuolla tulee vastaan. (Jari Myllykoski: Se on mopoautoon aika hy-
+vä!) 
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt ministerille puhujapöntöstä 4 mi-
+nuuttia, ja sen jälkeen vielä ryhmittäin ehkä yksi, maksimissaan kaksi vastauspuheenvuo-
+roa, ja sitten siirrytään normaaliin puhujalistaan.
+
+15.13 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies, ärade talman!
+Skärgårdstrafiken kommer att tas upp i nästa fas av beredandet av trafikbalken, och där
+kommer vi också att sträva till att säkra att erbjudandet kommer att kunna stärkas. Priset
+kommer att måsta ges på förhand i alla tjänster.
+19
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Liikennekaari on vain palveluita sääntelevä kokonaisuus. Sen tarkoitus on huolehtia ni-
+menomaan siitä, miten palveluista tulevaisuudessa liikenteen osalta säädellään. Se ei ota
+kantaa mihinkään muuhun.
+
+Taksin on ilmoitettava pääasiallinen toiminta-alue. Tällä halutaan varmistaa, että jokai-
+sella taksilla on sinänsä olemassa pääasiallinen toiminta-alue, mutta sillä halutaan myös-
+kin mahdollistaa taksille aina se mahdollisuus ajaa kyytiä kahteen suuntaan. Ja sillä halu-
+taan myös mahdollistaa, että se kyyti voidaan ottaa sieltä pääasemapaikan ulkopuolelta.
+Tällä halutaan huolehtia, että meidän autojen kapasiteetti ja käyttöaste nousee ja että se
+kannattavuus sille autolle saadaan paremmaksi.
+
+Laajasti on tehty vaikuttavuusarviointia. Meillä on ollut kahdeksan kuulemistilaisuutta,
+ja niitä on voitu seurata avoimesti verkossa. Myöskin lausuntokierroksella liikennekaari on
+ollut. Kelan kanssa on käyty laajasti keskusteluja, ja Kela on myöskin ottanut kantaa siihen
+säästöpotentiaaliin, joka Kela-kyydeissä on saatavissa liikennekaaren kautta.
+
+Haja-asutusalueiden näkökulmasta keskeistä on se, että me saamme haja-asutusalueille
+tarjontaa lisättyä. Liikennekaaren osalta kysymys ei ole vain siitä, että palveluita tuottaa
+jatkossa se, mitä me tänä päivänä tunnemme käsitteellä "taksi". Ajatus on liikennekaaressa
+se, että palveluita mahdollistetaan laajasti myös uudenlaisilla liiketoimintamalleilla ja sil-
+lä, että voidaan yhdistää olemassa olevan kaluston käyttöä useammalle palveluntuottajal-
+le. Ja tämä mahdollistaa silloin sen, että se tarjonta lisääntyy.
+
+Toinen asia, mitä se mahdollistaa, on asiakkaan päätösvalta. Asiakas voi päättää huo-
+mattavasti vapaammin verrattuna nykyiseen lainsäädäntöön siitä, mitä ja kenen palveluita
+hän käyttää, missä järjestyksessä ja kenen tuottamana. Tässäkin halutaan mahdollistaa, että
+syntyy kanta-asiakkuuksia, syntyy asiakassuhteita, ja uskon, että etenkin maaseudulla täs-
+tä on hyötyä. Uskon myöskin siihen, että hyvää asiakasta ei jätetä palvelematta, ja uskon
+myöskin siihen, että kun entistä enemmän voidaan kyytejä yhdistellä ja palveluita tuottaa
+yhdessä, niin sillä palvellaan nimenomaan haja-asutusalueita. Liikennekaari ei olisi tar-
+peen vain suurkaupunkialueille. Liikennekaarta tarvitaan nimenomaan turvataksemme
+palveluita haja-asutusalueilla, missä ne näivettyvät, jos me emme tämänpäiväiseen mitään
+muutosta tee.
+
+Tällä hetkellä taksilupia myönnetään sen markkinapotentiaalin mukaan, ja se tarkoittaa
+sitä, että joillakin alueilla on erittäin vähäisiä taksimääriä käytössä. Se tarkoittaa myöskin
+sitä, että usein se taksi on käytössä koulukyyteihin tai muihin ostopalveluihin liittyvän pal-
+velun tarjoamiseen. Nyt halutaan mahdollistaa tätä. Samalla on tärkeää pitää siitä kiinni,
+että yhteiskunnan ostamat palvelut säilyvät jatkossakin. Eivät nämä tästä häviä, mutta yh-
+teiskunnalla on mahdollisuus laajemmin toki kilpailuttaa ostamiaan palveluita, ja toivotta-
+vasti siitä myöskin Kela ja kunnat hyötyvät.
+
+Digitalisaatiossa on kyse siitä, että avataan tietorajapintoja, ja siitä, että se on velvoitta-
+vaa niin julkiselle kuin yksityiselle toimijalle. Se tarkoittaa myöskin sitä, että yhteiskunta
+ei voi jatkossa ostaa palveluita semmoiselta toimijalta, joka ei avaa tietorajapintojaan ja
+sitä kautta mahdollista yhtenäisiä matkaketjuja, reittien tietoja, hintatietoja etukäteen.
+Tämä on ainutlaatuinen mahdollisuus myöskin synnyttää parempaa palvelua jälleen ker-
+ran etenkin haja-asutusalueille.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Jos nyt vielä edustajilla on vastauspu-
+heenvuoroon tarvetta, pyydän nousemaan ylös ja painamaan V-painiketta.
+
+Myönnän tässä debattiosassa vain yhdestä kahteen puheenvuoroa ryhmää kohti.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+15.18 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa puhemies! Kuntaliitto on ol-
+lut hyvin huolissaan tästä, että hallituksen esityksessä tekstissä on mainittu, että markkina-
+ehtoinen liikenne on ensisijaista ja julkinen täydentävää. Tästä on kokemusta muun muas-
+sa ely-keskuksilla kilpailuttamisesta, jossa malli on näyttänyt kestämättömyytensä kalliina
+kilpailutuksina ja lyhyinä sopimuskausina.
+
+Toinen huomioni liittyy tähän, että keskustelussa mainittiin sanat harmaan talouden tor-
+junta. Poliisihallitus on nimenomaan huomioinut, ettei harmaan talouden torjunnasta ole
+arvioita tässä esityksessä lainkaan. Onko tähän mahdollisesti tulossa korjausta? Ja miten
+oli edustaja Lindtmanin esittämän kysymyksen osalta 5 000:n vähennyksestä taksiautojen
+hankintaan?
+
+15.18 Elsi Katainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Yksi liikennekaa-
+ren parhaita piirteitä on mahdollisuus tehostaa julkisen sektorin eli valtion, kuntien ja
+myöskin Kelan liikennerahan käyttöä. Jatkossa liikenteen palveluja voitaisiin yhdistellä ja
+käyttää monipuolisemmin ja tehokkaammin, ja se jos mikä olisi sitten omiaan merkittä-
+vään julkisten panosten säästämiseen. Minä kysyisin ministeriltä: onko tähän mennessä jo
+pystytty yksilöimään, minkälaisia tehostamisen tai ihan euromääräisiä säästämisen mah-
+dollisuuksia esimerkiksi kuntatasolla tai sitten ihan kansalaista kohden tässä olisi mahdol-
+lista saavuttaa?
+
+15.19 Matti Semi vas (vastauspuheenvuoro): Arvoisa puhemies! Liikennekaari sisältää
+semmoisia asioita, mitkä huolettavat ennen kaikkea lainkuuliaisuuden näkökulmasta. Lain
+ja kabotaasiliikenteen valvonta liikennekaaressa on suunnattu Trafin hoidettavaksi. Tämä
+herättää semmoisia kysymyksiä, että riittävätkö ensinnäkin Trafin voimavarat ja toiseksi
+onko sillä edes riittävät edellytykset valvoa kuljetuksien laillisuutta ja ottaa myös huo-
+mioon siinä tehtävässä liikenneturvallisuusasioita. Esitänkin kysymyksen: eikö tämän lain
+ja kabotaasiliikenteen ja liikenneturvallisuuden valvonnan pitäisi kuulua viranomaisille,
+poliisille ja Tullille, ja eikö pitäisi varata siihen riittävät resurssit ja huolehtia siitä, ettei
+harmaata taloutta synny liikenteen mukana ja ettei se lisäänny Suomessa ja että ammatti-
+taitoiset viranomaiset vahtivat ja katsovat meidän kuljetuksien laillisuutta?
+
+15.20 Ari Jalonen ps (vastauspuheenvuoro): Arvoisa puhemies! Liikennekaari on erit-
+täin iso askel tulevaisuuteen, ja uskon, että kaikki ovat siihen sinänsä tyytyväisiä. Tämä
+joukkoliikenteen tuleva iso kehitys, koko liikennesektorin kehitys on mahdollista, ja on
+hienoa, että siinä on taksi mukana. Sehän oli jossain vaiheessa myös jäämässä pois, ja sil-
+loin se olisi ollut kohtalaisen iso katastrofi. Tässä taksiliikenteessä on tosiaan olennaista se,
+että se lupa pysyy. Lupavaatimus tulee pysymään jatkossakin, ja se on se avainkysymys.
+Tässä, niin kuin aloitin ensimmäisessä puheenvuorossani, on monia yksityiskohtia, joita
+pitää vielä tarkentaa, ja yksi niistä on esimerkiksi tuo pääsääntöinen asemapaikka ja mitä se
+on.
+
+Vielä perään ihan täsmennys: Uber on laiton nyt, ja jos se muuttaa totaalisesti toiminta-
+malliaan, niin silloin se pääsee mukaan tähän toimintaan. Mutta se joutuu muuttamaan toi-
+mintaansa ihan (Puhemies koputtaa) täysin ja hankkimaan ne luvat.
+
+15.21 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Täällä jotkut
+edustajat, ainakin edustaja Kasvi ja nyt edustaja Jalonen, kiinnittivätkin huomiota näiden
+21
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+kyydinjakopalveluiden toimintaan. Tunnetuimpia niistähän ovat Lyft ja Uber, joista aina-
+kin toinen toimii laittomasti tällä hetkellä Suomessa. Nyt kannattaa kiinnittää huomiota sii-
+hen, että tämän sääntelyn myötä nämäkin toimijat voivat toimia Suomen markkinoilla,
+mutta samoin edellytyksin ja ehdoin kuin muutkin taksi- ja kyytipalvelutarjoajat. Edelleen
+kannattaa kiinnittää huomiota siihen, että regulaatio, jota nyt teemme näitä kyydinjakopal-
+veluita varten, on varsin liberaali verrattuna siihen, mitä maailmalta tällä hetkellä löytyy.
+Ihan esimerkkinä Kaliforniassa kyydinjakopalveluiden sääntely on huomattavasti tiukem-
+paa kuin mitä me nyt olemme säätämässä. Hyvää näissä uusissa keksinnöissä on tapa las-
+kuttaa ja valvoa kyytireittiä. Haluaisinkin kysyä ministeriltä: onko myös verottajan kanssa
+saatu jo sovittua rajapinnoista (Puhemies koputtaa) näiden yhtiöiden kanssa, että varmasti
+sitten valtiokin osansa näistä kyydeistä (Puhemies koputtaa) saa oikeudenmukaisella taval-
+la?
+
+15.23 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa puhemies! Liikennekaari
+on iso ja tärkeä hanke, mutta tässä keskustelussa on noussut esiin paljon tarpeita, jotka tu-
+lee valiokunnassa huomioida, varsinkin se, että jatkossa seurataan lain vaikutuksia ja ol-
+laan valmiita muutoksiin.
+
+Minä kiitän ministeriä, että nostitte esiin tämän esteettömyyskysymyksen ja piditte sitä
+tärkeänä. Toivonkin, että valiokunta paneutuu asiaan syvällisesti. Tällä hetkelläkään eivät
+läheskään kaikki joukkoliikennevälineet ole esteettömiä, ja nyt, kun yhdistetään erilaisia
+uusia vaihtoehtoja erilaisiksi matkapoluiksi, on entistä tärkeämpää kiinnittää tähän huo-
+miota, että varmasti kaikki pääsevät työhön, harrastuksiin, matkustelemaan, voivat olla
+osallisia tässä yhteiskunnassa. Sitä myös YK:n vammaisten oikeuksien sopimus meiltä
+edellyttää.
+
+15.24 Lasse Hautala kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Liikennekaa-
+ri tulee tarpeeseen, ja hyvänä esimerkkinä voidaan pitää linja-autoliikennettä, joka mennei-
+nä vuosina koki kovia, kun tuettu liikenne loppui, mutta linja-autoliikenne otti uuden suun-
+nan ja on kehittynyt merkittävästi siinä roolissaan.
+
+Täällä keskustelussa on paljon puhuttu näistä takseista ja siellä mahdollisesti tulevista
+ongelmista. Yksi tietysti on tämä turvallisuus. Ja kun nyt on ehkä enempi vitsin puolella
+puhuttu näitten mopoautojen käytöstä taksiliikenteessä, niin kysyisinkin ministeriltä siitä,
+onko mahdollista, että näihin turvallisuusmääräyksiin kiinnitetään myöskin huomiota. On
+tietysti selvää, että vammaiskuljetuksissa ja koulukyydityksissä olevat säädökset jo edel-
+lyttävät takseilta tietyntyyppistä varustelua, mutta kuinka sitten näiden muiden käytettävi-
+en ajoneuvojen osalta on?
+
+15.25 Merja Mäkisalo-Ropponen sd (vastauspuheenvuoro): Arvoisa puhemies! Minä
+olen Muistiliiton puheenjohtaja ja tästä roolistani käsin erittäin huolissani näiden ammat-
+tipätevyyksien heikentämisestä ja poistamisesta. Merkittävä osa esimerkiksi taksiasiak-
+kaista on toimintakyvyltään rajoittuneita, ja he tarvitsevat erityispalveluja ja apua. Esimer-
+kiksi muistisairautta sairastava tai moni muukaan haavoittuvassa asemassa oleva kansalai-
+nen ei pysty kilpailuttamaan ja arvioimaan palvelujen tuottajaa ja toiminnan laatua tai an-
+tamaan yrittäjälle palautetta, jos joku asia meni pieleen kuljetuksen aikana. Ja jälkikäteen
+tapahtuva valvonta ei auta, vaan jokaisella kuljettajalla pitäisi olla osaamista ja ammatti-
+taitoa, jotta tämä turvallinen matkustaminen toteutuisi. Kyllä minulla on tosi huoli tästä
+22
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+asiasta ja kysynkin ministeriltä: miten lakiesityksessä on huomioitu nämä erityisryhmien
+turvallisuusnäkökulmat, koska näiden henkilöiden kuljettamisessa on oltava erityistieto,
+erityistaito, erityisosaaminen?
+
+15.26 Veera Ruoho ps (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Semin kans-
+sa varmaan jaamme yhteisen toiveen siitä, että liikkuva poliisi takaisin.
+
+Kiitän ministeriä siitä, että liikennekaareen tuli mukaan meille perussuomalaisille olen-
+naisimmat kynnyskysymykset muun muassa taksien luvanvaraisuuden säilyttämisestä ja
+siitä, että yritysten tulee olla rekisteröityinä Suomeen. Myöskin otitte vakavasti huolemme
+siitä, ettei meillä toistettaisi Ruotsin virheitä. 
+
+Kysyisin vielä ministeriltä: varmistetaanhan se, ettei pienyrittäjyys kuole isompien jal-
+koihin?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Myönnän vielä puheenvuorot edusta-
+jille Eestilä ja Myllykoski, sen jälkeen ministerille, ja sen jälkeen siirrytään puhujalistaan.
+
+15.27 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa puhemies! Suomalainen taksi
+on tunnettu luotettavuudesta ja turvallisuudesta, ja yksi turvallisuuselementti tietenkin on
+se, että hinta on vakioitu ja ennalta määrätty. Kysynkin ministeriltä siitä, mitä tälle turval-
+lisuusseikalle tapahtuu, kun jatkossa asetuksella määrätään vain enimmäistaksa — tieten-
+kin nytkin, näinhän mittarit yleensä on säädetty. Mitä tälle kysymykselle tapahtuu tulevai-
+suudessa, kun asiakkaat saattavat olla monenlaisessa tilanteessa ja joutuvat sitten neuvot-
+telemaan siitä, millä taksalla viedään? Onko ollut puhetta, että on joku Taksiliiton tai muun
+suositustaksa, että voi suoraan kysyä, että ajatteko suositustaksalla, ja jos kuski sanoo, että
+ajan, niin ei tarvitse sen jälkeen enää neuvotella?
+
+15.27 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa herra puhemies! En lähde vas-
+taväittämään ministerin kanssa, mutta ei tämä valinnanvapautta ja asiakaskontakteja vält-
+tämättä luo. Nythän me olemme nähneet kehityksen, missä Kelan kautta ihmiset eivät enää
+saa tutun kuljettajan palveluita vaan ne ohjautuvat jostakin kolmannelta osapuolelta.
+
+Tässä edustaja Hautala toi erittäin tärkeän asian esille, ja se on tämä turvallisuus. Tämä
+on yksi julkisen palveluliikenteen muoto, jolla on tiettyjä turvallisuusedellytyksiä, ja va-
+kuutusten pitää olla kunnossa. 
+
+On tosi tärkeätä nähdä myös se, mitä edustaja Eestilä tuossa puheenvuorossaan toi esil-
+le: sadepäivänä Helsingissä käydään tolpilla huutokauppa, että kuka maksaa satasen, että
+pääsee kyytiin. Eli tuleeko tähän joitakin sellaisia säädöksiä, että kohtuuttomia lähtöhinto-
+ja ei voida tolpalla pyytää? 
+
+Ja kun tätä keskustelua on nyt tässä käyty, niin oman vaalipiirini perussuomalaiselle va-
+liokunnan puheenjohtajalle minun täytyy kyllä sanoa, että perussuomalaiset tässä kohtaa
+nyt teki minulle kyllä sen, että oli enemmän kuin kolme pyörää, nyt ajettiin kyllä kaksilla
+rattailla.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ministeri Berner, 3 minuuttia puhuja-
+pöntöstä.
+23
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+15.29 Liikenne- ja viestintäministeri Anne Berner:  Arvoisa puhemies! Kuntaliiton
+kanssa on käyty läpi liikennekaari, ja PSA-suoja säilyy EU-asetuksen mukaisena tässä esi-
+tyksessä. Se tarkoittaa myöskin sitä, että yksinoikeuden voi kunta edelleenkin myöntää
+niin halutessaan.
+
+Harmaan talouden torjunnasta on tehty arvio liikennekaaren osalta.
+Se, millaisia säästöjä liikennekaari voisi tuottaa: Varovaiset laskelmamme ovat arvioi-
+
+neet 70 miljoonaa euroa vuodessa. Kela on arvioinut säästöjä korkeammiksi, mutta en ha-
+lua tässä käyttää Kelan puolesta puheenvuoroa.
+
+Vakuutukset, turvallisuus ja erityispalvelut ovat edelleen erittäin keskeisiä liikennekaa-
+ren osia, ja pätevyysvaatimuksia on kaiken kaikkiaan kuitenkin kiristetty tämän osalta.
+Nythän liikennekaari edellyttää kuljettajalta ajolupaa, mutta se edellyttää myöskin liiken-
+nelupaa yrittäjältä. Se, mitä liikennekaaressa tavoitellaan, on se, että yrittäjällä olisi yrityk-
+sen mukainen vastuu asiakaspalvelusta ja myöskin henkilökunnastaan ja siitä, että kuljet-
+tajat vastaavat palvelusta ja pystyvät asianmukaiseen vuorovaikutukseen ja erityisryhmiä
+huomioivaan palveluun.
+
+Verotuksen osalta taksiliikenne on ollut tiukasti rajattua henkilöautoihin, jolloin vero-
+tuskysymystä on tyypillisesti tarkasteltu kalustokohtaisesti. Jatkossa on paljon enemmän
+väljyyttä siinä, millaisella kalustolla ajetaan, ja se tarkoittaa myöskin sitä, että tässäkin asi-
+akkaalla on paljon mahdollisuuksia vaikuttaa siihen, millaiseen kyytiin hän on valmis as-
+tumaan. Verotuskysymystä tullaan todennäköisesti entistä enemmän tulevaisuudessa kä-
+sittelemään päästövähennyksiin liittyvien tavoitteiden osalta kuin kalustokohtaisesti. Täs-
+sä yhteydessä taksien autoverohuojennukseen ei tule eikä ole tulossa muutoksia. 
+
+Tässä edustaja Myllykoski on aivan oikeassa, asiakaspalvelussa on paljon enemmän
+väljyyttä silloin, kun niin sanotusti omalla rahalla sitä kyytiä tehdään ja palvelua käyte-
+tään, kuin silloin, kun se on yhteiskunnan järjestämää, ja silloin on paljon suurempia vai-
+keuksia vaikuttaa siihen, kuka kuljettaja välttämättä siinä on mukana.
+
+Täällä on myöskin ollut keskustelua liittyen hinnoitteluun. Haluaisin todeta Ruotsin hin-
+noittelusta sen, että Ruotsin taksiliikenne on vapautettu 1996, ja paljon muutoksia on sen
+jälkeen tapahtunut myöskin Ruotsissa. Mobiiliosaaminen ja tiedonvälitys ovat parantu-
+neet, ja myöskin liikennekaaressa on huomioitu ne opit, joita Ruotsissa on aikanaan saatu.
+Me olemme käyneet keskustelua Ruotsin viranomaisten, oikeusministeriön ja kuluttajan-
+suojaviranomaisten kanssa, kun liikennekaarta on valmisteltu. Meillä on 20 vuotta myö-
+hemmin se etu, että me voimme hyödyntää aivan erilaisia digitaalisia palveluita ja voimme
+myöskin huolehtia siitä, että hinta on kuluttajalla aina ennakkoon tiedossa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Siirrytään puhujalistaan.
+
+15.32 Katja Taimela sd: Arvoisa herra puhemies! Olemme saaneet hallituksen 250-si-
+vuisen liikennekaariesityksen saliin lähetekeskusteluun, ja keskustelu on ollut debatissa
+aika rapsakkaa.
+
+Liikennekaaren perusidea digitalisaation ja avoimien rajapintojen hyödyntämisestä si-
+sältää suuria mahdollisuuksia Suomelle. Parhaimmillaan se mahdollistaa liikennepalvelui-
+den fiksumman ja tehokkaamman hyödyntämisen. Tämä kaikki laadukkaasti toimiessaan
+hyödyttää ihmisiä joustavampien ja parempien liikennepalvelukokonaisuuksien muodos-
+sa. Tietorajapintojen avaaminen uusien liikennepalveluiden ja matkaketjujen luomiseksi
+on pääpiirteissään tavoitteiltaan kannatettavaa ja digitalisaatiokehitystä tukevaa.
+24
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Mutta mitä tulee yksityiskohtiin, niin kuin jo debatissakin selvisi, hallituksen tuore esi-
+tys liikennekaareksi herättää erityisesti taksialalla suuria kysymysmerkkejä. Alkuperäinen
+liikennekaariesitys sisälsi alalle monia vakavia sudenkuoppia, jotka on nyt onnistuttu vält-
+tämään, vaikka taksitoimintaa vapautetaankin tämän hallituksen aikana ennenkuulumatto-
+malla tavalla.
+
+Kevään ja kesän aikana saimme lukea useista eri medioista perussuomalaisten puheen-
+johtajan puheista, miten perussuomalaiset eivät hyväksy taksiliikenteen vapauttamista mil-
+loinkaan. Ministeri Soini lähetti terveisiä ministeri Bernerille muun muassa Suomen Uuti-
+sissa 18.4.: "Perussuomalaiset ovat yksiselitteisesti taksilupien vapauttamista vastaan." Sa-
+mankaltaisia ulostuloja tuli hallituksen sisältä ainakin perussuomalaisten eduskuntaryh-
+män puheenjohtaja Sampo Terhon ja liikenne- ja viestintävaliokunnan puheenjohtaja Jalo-
+sen toimesta.
+
+Mutta miten kävikään? Taksiliikenne vapautuu, ja joku nykyinen ministeri saattaisi täs-
+sä kohdin todeta: miten te kehtaatte ja kyllähän te kehtaatte.
+
+Taksialalla toimijoiden näkökulmasta onneksi tässä lopullisessa esityksessä ei sentään
+ole aikaisemmin kaavailtua 10 000 euron villiä korttia, joka olisi mahdollistanut henkilö-
+ja tavaraliikennettä harjoitettavan ilman lupaa kyseisen summan edestä. 
+
+Arvoisa puhemies! Esitykseen liittyy edelleen kuitenkin myös ongelmia ja haasteita.
+Taksisääntelyn vapauttaminen haastaa nykyiset toimijat. Siksi esitykseen sisältyvä siirty-
+mäaika on täysin välttämätön, ja siitä kiitos.
+
+Kun on keskustellut alalla toimijoiden kanssa, heidän todellinen pelkonsa on se, että uu-
+distuksen myötä taksitoiminta tulee tulevaisuudessa keskittymään voimakkaasti muuta-
+mille suurille yrityksille, jotka voivat muun muassa hinnoittelulla ostaa pienemmät toimi-
+jat ulos markkinoilta. Alueellisten taksimonopolien syntyminen kääntäisi liikennekaaren
+perusajatuksen nurinpäin ja nostaisi hintoja merkittävästi. Siksi niiden syntyminen pitää
+pystyä estämään.
+
+Maaseudulla kiireisimpien aikojen ulkopuolella takseja päivystää tulevaisuudessa to-
+dennäköisesti huomattavasti nykyistä vähemmän ja taksin saaminen voi olla hankalaa.
+Muutenkin taksit hakeutuvat enemmän kuntakeskuksiin, joissa on enemmän asiakkaita.
+Täytyy muistaa, että myös palveluita on keskitetty voimakkaasti. Esimerkiksi synnytykset
+karkaavat yhä kauemmas ja kauemmas. Maaseudulta keskellä yötä synnyttämään pääsemi-
+nen saattaa jatkossa olla erittäin hankalaa, jos paikallista taksia ei ole saatavilla tai se yksi
+taksi on jo matkalla johonkin muualle.
+
+Tulevaisuuden taksipalveluita ajatellen koen, että meillä edustajilla on nyt suuri haaste
+määritellä liikennekaariesityksessä mainittu taksipalveluiden ylihinnoittelu. Enimmäishin-
+nasta poikkeaminen vaatisi erillistä sopimista, jonka todistaminen on palveluntarjoajan
+vastuulla. Jos joku niin tämä on yksi kohta taksialan kohdalla, joka pitää erityisellä huolel-
+la liikenne- ja viestintävaliokunnan pöydän ympärillä selvittää. Lailla Trafin on pystyttävä
+aidosti ja tehokkaasti puuttumaan kipurajan ylittäviin hintoihin. Tästä oli myös maininta
+oikeusministeriön lausunnossa.
+
+Itse en halua Suomeen samankaltaista tilannetta kuin esimerkiksi Ruotsissa on: ellet tar-
+kista hintapolitiikkaa etukäteen ja nappaat ensimmäisen taksin, voit huonoimmassa ta-
+pauksessa sanoa hyvästit koko lomabudjetille.
+
+Ajattelen niin, että hallituksen malli taksitoiminnasta voi loppujen lopuksi toimia käy-
+tännössä hyvin vain, mikäli alalle kyetään luomaan aito kilpailutilanne. Sinänsä on melkoi-
+sen yllättävää, että kokemukset hinnoittelun vapauttamisesta muissa Euroopan maissa ker-
+25
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+tovat taksihintojen rajusta kallistumisesta eikä päinvastoin. Nähtäväksi jää myös se, miten
+uudistus lopulta onnistuu Suomessa luomaan uusia tuloja yrittäjille, kun muun muassa tak-
+sien kustannusrakenne säilyy melko ennallaan.
+
+Arvoisa puhemies! Liikennekaaren lausuntokierroksella tuli myös huomioita kokonais-
+vaikutusarvioiden puutteellisuudesta. Markkinoissa ei ole huomioitu Suomen erilaisia olo-
+ja liittyen kaupunkiseutujen ja hiljaisempien maaseutualueiden palveluiden hinta- ja saata-
+vuustekijöihin. Normien ja sääntelyn purku on istuvan hallituksen yksi kärkihanke, (Puhe-
+mies koputtaa) ja mekin tavoittelemme monessa asiassa tätä normien ja sääntelyn purkua,
+mutta sitäkään ei pidä tehdä ihmisten tai ympäristön kustannuksella.
+
+Tavaraliikennelupavaatimuksen poistaminen pakettiautokuljetuksilta tulee lisäämään
+harmaata taloutta, mikäli myös pakettiautokuljetusten tarjoajilta ei vaadita hyvämainei-
+suutta, vakavaraisuutta ja tosiasiallista toimipaikkaa Suomessa. Pienempää kalustoa suosi-
+va säätely lisäisi liikenteessä olevien ajoneuvojen määrää sekä myös päästöjä. Tämän to-
+tesivat lausunnoissaan sekä AKT että SKAL.
+
+Arvoisa puhemies! Aivan tähän loppuun ja mitä tulee jatkotoimenpiteisiin: Hallituksen
+on kokonaisuutena pohdittava myös konkreettisia keinoja harmaan talouden torjuntaan lii-
+kennesektorilla, jotta sen tavoitteet aidosta kilpailusta ja liikenteen päästövähennyksistä
+olisivat edes mahdollista toteuttaa. Muun muassa edellä mainitsemani haasteet ja puutteet
+tulee valiokuntatyössä laajasti vielä selvittää. Valta on tässä talossa. Jos ymmärrys käsitte-
+lyn aikana kasvaa, sitä toivottavasti myös käytetään. Olin hämilläni debatissa mutta ilok-
+seni huomasin, että useampi hallituspuolueen edustaja kaipasi tähän lakiin täsmennyksiä jo
+tässä lähetekeskusteluvaiheessa, joten niitä muutoksia varmasti on myös helppo valiokun-
+takäsittelyssä saada lävitse.
+
+15.39 Markus Mustajärvi vas: Arvoisa puhemies! Ministeri Berner on varmaan ollut
+monesti taksin kyydissä, mutta nyt taksit ovat ministeri Bernerin kyydissä, vieläpä kylmäs-
+sä sellaisessa. Kovin paljon ei hallituksen esityksen valmistelussa ole kuultu varoittelevia
+puheita, vaikka ne olisivat olleet kuinka perusteltuja. Miksi lähteä näin radikaalilla tavalla
+muuttamaan toimivaa järjestelmää? Ruotsissa on maksettu kalliit oppirahat, niin kuin on
+moneen kertaan todettu, kun siellä onnistuttiin yhdistämään sääntelyn purkamisessa kaik-
+ki huonot puolet: kaluston heikkeneminen, harmaan talouden lisääntyminen ja hintojen
+nousu. 
+
+Ilokseni havaitsin, että pääkaupunkiseudun taksialan edunvalvonnan ja tilausvälitysyh-
+tiöitten kannanotossa kannetaan huolta maaseutualueesta paljon enemmän kuin mihin pys-
+tyvät maakuntien keskustalaiset kansanedustajat tai ainakin puheissaan pientä ihmistä puo-
+lustavat perussuomalaiset. Enpä olisi uskonut, että edustaja Maijalan kanssa me asumme
+samassa kunnassa, niin erilaista maailmaa hän tuntuu seuraavan. Pääkaupunkiseudun tak-
+sialan edunvalvojat kiinnittävät huomiota moniin sellaisiin kipukohtiin, jotka koskevat
+myös Lapissa. Taksialan edunvalvonta, mutta myös taksikuskit pohjoisesta etelään esittä-
+vät yhdenmukaista kritiikkiä hallituksen kaavailuista. Minäkin taksipalveluitten suurkulut-
+tajana yhdyn esitettyyn kritiikkiin.
+
+Arvoisa puhemies! Kyse ei ole ainoastaan taksinkuljettajista ja yrittäjistä, vaan myös
+palveluitten saatavuudesta ja asiakkaista, ennen kaikkea lapsista, vanhuksista ja niistä, jot-
+ka toimintarajoitteen vuoksi tarvitsevat erityistä apua. Siksi taksinkuljettajien koulutus- ja
+koevaatimuksista luopuminen on kiistatta riskipeliä. Jälkikäteinen valvonta tulee aina
+myöhään ja vasta silloin, kun ongelma on jo syntynyt. Samaan aikaan vapautetaan yrittä-
+26
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+jien palvelutasovaatimuksia ja lupakäytäntöjä, ja tästä seuraa, että entistä vapaammin va-
+likoituvat yrittäjät käyttävät entistä vapaammin valikoituja kuskeja ja lopputuloksena on,
+että syntyy uusi matalapalkkainen työmarkkina, ja se ei ainakaan palvelun laatua lisää. 
+
+Hallituksen esityksessä romutetaan nykyinen asemapaikkasääntely ja päivystysvelvoi-
+te. Niillä on kuitenkin turvattu taksipalveluitten saatavuus koko maassa. Ensimmäisenä
+uhan alle joutuvat harvaan asuttujen kuntien kauimmaisten kylien viimeisetkin palvelut.
+Siellä tuttu taksimies on vastannut paljon muustakin kuin auton ajamisesta, ja olen myös
+huomannut täällä kaupungissa, Helsingissä, sen, että monen vanhuksen ainoa läheisempi
+ihmiskontakti voi olla se tuttu taksimies. 
+
+Valvovalle viranomaiselle eli Trafille annetaan jatkossa mahdollisuus puuttua hinnoit-
+teluun, mikäli hinnat nousevat kuluttajahintoja nopeammin. Hallitus perustelee esitystään
+sillä, että kuluttajahinnat laskevat, mutta varautuu niiden nousuun. Se ei ole kovin uskot-
+tavaa eikä johdonmukaista. Tähän osittaissääntelyyn kuuluu kyllä se, että jos on asetettu
+tällaisia kattoja, niin toistepäin sen voi sanoa, että millä keinoin ministeri tai viranomainen
+pakottaa taksin ottamaan sen kannattamattoman kyydin vaikka kuinka kaukaa. 
+
+Arvoisa puhemies! Liikennekaaressa ollaan muutenkin perimmäisten kysymysten äärel-
+lä. Jokaisen kehittyvän seutukunnan ensimmäisenä ehtona on hyvät liikenneyhteydet. To-
+siasiallinen mahdollisuus liikkua palveluitten ja työpaikkojen perässä, kun ne hyvin usein
+ovat yhä kauempana, ratkaisee paljon. Jo nyt oman auton käyttö on monelle sellainen pak-
+ko, johon ei oikeastaan olisi varaa, ja autoilijoitten maksurasitus kokonaisuudessaan nou-
+see. Matalapalkka- tai osa-aikatyöntekijöillä, kokonaan työttömillä, paljon sairastavilla tai
+vaikkapa pienellä eläkkeellä kituuttavilla ei ole varaa vaihtaa sitä yli 20 vuotta vanhaa To-
+yotaansa hybridiautoon ihan vain siitä riemusta, että hallitus niin tahtoo. Pitäisi olla vaih-
+toehtoja, mutta kun niitä ei vain ole. 
+
+Kaikki entinen ei ole automaattisesti huonoa, mutta jos ideologia ohjaa suurta muutosta
+maksettavasta hinnasta välittämättä, jälki voi olla tuhoisaa. Hinnan maksavat rehelliset
+yrittäjät yhtä lailla taksiliikenteessä kuin kuljetusyrityksissä. Kannattaa muistaa, mitä on
+tapahtunut esimerkiksi kabotaasiliikenteessä. Mutta kaikista varmin laskun maksaja on se
+asiakas. 
+
+15.44 Jukka Kopra kok: Arvoisa herra puhemies! Käymme nyt lähetekeskustelua halli-
+tuksen esityksestä ensimmäiseksi liikennekaareksi. Kyseessä on laaja säädöskokonaisuus,
+ja tämän avulla on tarkoitus purkaa säätelyä, vapauttaa liikennealaa taksien sekä linja-au-
+to- ja pakettiautoliikenteen osalta kilpailulle ja edistää erilaisia digitalisaatioratkaisuja.
+Putkessa ovat sitten tulossa liikennekaari 2 ja 3, joista hallitus tekee esitykset eduskunnalle
+myöhemmin.
+
+Tämän liikennekaariesityksen valmistelussa on käyty vuoropuhelua hallituspuolueiden
+kesken ja luonnollisesti käyty laaja lausuntokierros. Näiden perusteella esitys ei vastaa al-
+kuperäistä keväällä esitettyä vedosta, vaan sitä on muokattu ja moni kohta kirjoitettu uu-
+siksi. Esimerkiksi alkuperäiseen esitykseen sisältynyt ehdotus taksi- ja kuljetusliiketoimin-
+nan sallimisesta 10 000 euroon asti ilman mitään lupia tai veronalaisuutta on nyt esitykses-
+tä poistettu.
+
+Arvoisa puhemies! Liikennekaaren perusajatukset ja -tavoitteet ovat hyviä ja kannatet-
+tavia. Tämän uuden lainsäädännön avaamien mahdollisuuksien myötä Suomenkin liiken-
+nöintimarkkinoilla on mahdollisuus kehittyä vastaamaan nykypäivän ja tulevaisuuden uu-
+den tyyppiseen kysyntään. Liikennekaaren tavoitteita on muun muuassa saada liikenne-
+27
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+markkinoiden tieto kauttaaltaan digitaaliseksi, avoimeksi ja yhteentoimivaksi. Tämän
+myötä asiakkaat saavat uusia palveluita ja yritykset uusia liiketoimintamahdollisuuksia.
+Lupajärjestelmää on tarkoitus keventää, jolloin markkinoille tulo helpottuu. Samalla saa-
+daan sääntely sellaiseksi, että myös uudet kyydinjakopalvelut voivat toimia osana liiken-
+nejärjestelmäämme. Hallituksen kantavana perusajatuksena on, että uudistustoimien myö-
+tä Suomi on maailman mittakaavassa liikennesektorin edelläkävijä. Todettakoon, että tällä
+hetkellä maailmalla ollaan monin paikoin meitä edellä. Pelkkä lainsäädäntö ei riitä, tarvi-
+taan myös tekijät, mutta nyt tekemiselle annetaan mahdollisuus. 
+
+Kun puhutaan matkaketjuista, digitalisaatiosta, rajapintojen avaamisesta ja MaaSista,
+niin mitä näillä sitten oikein tarkoitetaan? Esimerkiksi sitä, että henkilön halutessa matkus-
+taa vaikka kotoa Lappeenrannasta Poriin SuomiAreenalle ei tarvitse ostaa juna- tai lento-
+lippuja eri yhteysväleille erikseen, miettiä bussiaikataulua ja välillä heilutella taksia kadun-
+kulmasta. Kaikki matkaosuudet voi varata ja maksaa kertaheitolla ja tämän jälkeen vain
+nauttia matkustamisesta murehtimatta lipuista ynnä muusta, kun vaihtaa kulkuvälinettä
+matkan varrella. Ja kun homma tehdään oikein, myös verottaja saa näistä ostoista tiedon
+suoraan eikä yrittäjienkään tarvitse erityistä kirjanpitoa ja kuittirumbaa käydä läpi, kun tie-
+dot yhteiskunnalle antavat.
+
+Arvoisa puhemies! Ennen esityksen antoa merkittävä osa liikennekaaresta käydystä kes-
+kustelusta koski taksiliikenteen järjestämistä ja taksijärjestelmää kohtaavia muutoksia. On
+totta, että taksiala mullistuu. Kolme suurta muutosta taksiliikenteessä ovat taksilupien
+määräsääntelystä luopuminen, hinnoittelun vapauttaminen ja asemapaikkavelvoitteesta
+luopuminen. Nämä muutokset ovat suuria, ja niiden mahdollisia haitallisia vaikutuksia py-
+ritään rajaamaan erityyppisillä reunaehdoilla. Näitä reunaehtoja ovat muun muassa tak-
+siajoneuvojen rekisteröintivaatimus Suomeen, yrityksen toimipaikkavaatimus Suomessa,
+Trafin oikeus puuttua hinnoitteluun mikäli ongelmia ilmenee, kuljettajalla on edelleen ol-
+tava ajolupa, taksiyrityksellä tai yrittäjällä on edelleen oltava taksilupa, ja kuljettajaankin
+kohdistetaan tiettyjä vaatimuksia. Vaikka liikennemarkkinat uudistuvat, ei mattoa voi ve-
+tää nykyisten taksi- ja kuljetusyritysten alta. Siksi edellä kuvatuilla reunaehdoilla ja muil-
+lakin pyritään turvaamaan myös olemassa olevien yritysten toimintaedellytykset. Lainsää-
+dännön vaikutuksia tullaan seuraamaan, ja tarvittaessa puututaan epäkohtiin.
+
+Niin kutsutun pakettiautoliikenteen tai kevyen kuljetusliikenteen osalta on säätelyä
+myöskin tarkoitus purkaa. Jatkossa alle 3,5 tonnin autoilla kuljetuksia harjoittavan ei tar-
+vitse käydä pakollista yrittäjäkurssia. Erillistä luvanhakuprosessia ei ole, vaan luvan saa,
+kun rekisteröityy kevyen kuljetusliikenteen yrittäjäksi. Tähän rekisteröintiin tulisi liittää
+taustatarkistukset, jotta varmistetaan, että rekisteröityjen talous ja vastuullisuus ovat kun-
+nossa ja vaadittavalla tasolla. Vielä voitaisiin pohtia, tulisiko rekisteröitymistä kutsua lu-
+vaksi. Pakettiautotkin on jatkossa rekisteröitävä Suomeen.
+
+Erityisenä huomiona totean, että esityksen myötä poistuvat tavaraliikennelain 29, 30 ja
+32 §:t, jotka säätelevät poliisin valtuuksia valvoa kuljetuksia ja määrätä sanktioita. Tähän
+kuuluvat muun muassa kuljetusasiakirjojen ja muiden asiakirjojen esittämisvelvoite, polii-
+sin oikeus määrätä sakkoa kuljetuksiin liittyvistä puutteista ja niin edelleen. Esityksen mu-
+kaan Trafin olisi jatkossa määrä valvoa näitä asioita. Sillä ei ehkä kuitenkaan ole organi-
+saatioita tätä varten. Liikennekaariesityksen tämä kohta on siis haasteellinen. Harmaan ta-
+louden torjunnan kannalta asia on merkityksellinen, ja tähän tulee valiokuntakäsittelyssä
+kiinnittää huomiota.
+28
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Arvoisa puhemies! Suuret muutokset ja hyvät asiat harvemmin syntyvät itsekseen tai
+helpolla. Liikennekaariesitys on käytävä nyt eduskuntakäsittelyssä pieteetillä läpi, ja edus-
+kunnan on käytettävä toimivaltaansa sen eteen, että lopullinen hyväksyttävä lakipaketti
+vastaa tarkkaan niitä tavoitteita, jotka on asetettu, edellä esille nostetut asiat huomioiden ja
+aiheuttamatta turhaa haittaa tai hankaluutta kenellekään.
+
+15.50 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Kuten debatissa totesin, meillä
+on paljon kansalaisia, jotka eivät pysty kilpailuttamaan tai arvioimaan palveluntuottajaa tai
+toiminnan laatua, ja mainitsin esimerkkinä muistisairautta sairastavat. Pätevyys edellyttää
+koulutusta, ja esimerkiksi muistiyhdistykset ja muut järjestöt ovat kouluttaneet taksiautoi-
+lijoita näiden erityisryhmien kohtaamiseen ja auttamiseen jo taksikurssien aikana. Jos kou-
+lutus ja valvonta jää vain yrittäjän vastuulle, niin en ole aivan varma, miten ammattitaito
+varmistetaan. Toivon, että tämä asia katsotaan huolellisesti valiokunnassa, sillä en ole va-
+kuuttunut ministerin vastauksen perusteella vielä tässä vaiheessa, miten tämä on tarkoitus
+toteuttaa ja varmistaa. Erityistä apua ja tukea tarvitsevat henkilöt eivät voi myöskään mat-
+kustaa missä kulkuneuvossa tahansa, ja myös tämä näkökulma on varmistettava valiokun-
+nassa.
+
+Arvoisa puhemies! Kun erityisryhmien turvalliseen matkustamiseen on tietoisesti kiin-
+nitetty huomiota esimerkiksi näillä taksikursseilla, niin tilanteet, joissa muistisairautta sai-
+rastava on jätetty kadulle yksin seisomaan, ovat vähentyneet huomattavasti, ja olen vakuut-
+tunut, että tämä on osittain johtunut siitä, että näissä koulutuksissa on tähän asiaan myös-
+kin kiinnitetty huomiota. Taksiautoilijat ovat myös aktiivisesti ryhtyneet ilmoittamaan vi-
+ranomaisille, jos näkevät esimerkiksi yöllä kaupungilla harhailevan vanhuksen. He ovat
+erittäin tärkeä ammattiryhmä, joka voi näitä havaintoja tehdä. Kuten sanoin, nämä muutok-
+set ovat tapahtuneet ainakin osittain yhtenäisen koulutuksen ansiosta.
+
+Lopuksi, arvoisa puhemies, kyllä minulla on myös huoli koulukuljetusten laadusta, kos-
+ka lasten kuljetuksissa kuljettaja on aina tärkeä kasvattaja, eli hänellä on aina myös kasvat-
+tajan tehtävä mukana, ja riittävä ja tasalaatuinen koulutus on toiminut kyllä tärkeänä laatu-
+tekijänä myöskin näissä lasten kuljetuksissa.
+
+15.52 Li Andersson vas: Arvoisa puhemies! Aloitan siitä, mitä hyvää tässä hallituksen
+esityksessä liikennekaaren ensimmäiseksi osaksi on.
+
+Liikennetiedon digitalisointi ja digitaalisen tiedon avaaminen kaikkien käyttöön open
+data -periaatteen mukaisesti on kannatettavaa, ja elinkeinopoliittisesti voi jopa sanoa, että
+se edustaa radikaalia tasa-arvoajattelua. Tiedon saatavuus avaa digitaalisella aikakaudella
+loputtoman määrän mahdollisuuksia kehittää uusia liiketoimintamalleja ja sovelluksia.
+
+Kannatettavaa on myös tavoite yhtenäisistä lippu- ja muista matkustuspalvelujärjestel-
+mistä. Matkustajan kannalta siirtyminen yhdestä liikennemuodosta toiseen ja eri palvelun-
+tarjoajien välillä samalla lipulla on ehdottomasti elämää helpottavaa. Sama koskee tiedon
+saamista keskitetysti esimerkiksi aikatauluista ja eri matkustusvaihtoehdoista.
+
+Liikenteen digitalisointi voi myös tuoda uusia ratkaisuja esimerkiksi haja-asutusaluei-
+den palveluihin. Perinteisen reittiliikenteen sijaan on mahdollista luoda uusia malleja esi-
+merkiksi tilaus- ja kutsuliikenteeseen, jossa liikennepalvelut järjestetään tarvepohjaisesti.
+Se, millä tavalla tätä nyt tullaan edistämään esimerkiksi taksipalveluiden korvaamiseksi,
+jäi minulle epäselväksi.
+29
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Digitalisaation edistäminen pantiin alulle jo Merja Kyllösen ollessa liikenneministeri,
+jolloin digitaalisuuden hyödyntämiseen loi edellytyksiä muun muassa ministeriön raportti
+avoimesta datasta ja ministeri Kyllösen kaudella valmisteltu liikenteen älystrategia.
+
+Liikenneverkkoyhtiön osalta voi todeta, että vasemmistoliitto kannattaa pitkäjänteisyy-
+den lisäämistä liikennepolitiikassa sekä liikenneinfrainvestointien volyymin kasvattamis-
+ta. Yhtiömuoto ei kuitenkaan ole meidän mielestämme oikea tapa tätä tehdä.
+
+Arvoisa puhemies! Mitä sitten ovat liikennekaaren ykkösosan suurimmat ongelmat?
+Taksiliikenteen osalta on todennäköistä, että hinta- ja päivystysvelvoitteista luopuminen
+johtaa taksien hintojen nousuun erityisesti ruuhka-aikoina, kun on eniten käyttäjiä. Hinta-
+sääntelyn poistaminen johtaa myös siihen, että taksikuski ja asiakkaat jatkossa joutuvat so-
+pimaan keskenään hinnasta ennen matkaa. Se lisää kuskin työtä, saattaa aiheuttaa työtur-
+vallisuusriskejä sekä lisää myöskin riskiä erinäisille hintavedätyksille. Hiljaisimpina aikoi-
+na hintojen aleneminen uhkaa madaltaa kuskien tulotasoa, ja päivystysvelvoitteesta luopu-
+minen vaikeuttaa taksinsaantia haja-asutusalueilla. Liikennekaariesityksestä ei käy ilmi,
+miten näitä uhkakuvia aiotaan torjua.
+
+Taksiluvat ovat kuitenkin vain yksi osa kokonaisuutta liikennekaaressa. Ylivoimaisesti
+suurin ongelma hallituksen suunnitelmissa ovat nämä julkilausutut tavoitteet lisätä liiken-
+teen yksityistämistä. Yksi esimerkki pyrkimyksistä ovat suunnitelmat liikenneverkkojen
+yhtiöittämisestä. Se tarkoittaisi demokratian ja poliittisen ohjauksen merkittävää vähenty-
+mistä verrattuna nykytilanteeseen, ja yhtiömuoto helpottaisi myös liikenneverkkojen
+myyntiä tulevaisuudessa.
+
+Liikennepolitiikassa yleisesti tulee meidän mielestämme myös kiinnittää enemmän huo-
+miota päästöjen vähentämiseen ja liikenteen kokonaisuudistamiseen ekologisempaan
+suuntaan. Suomessa on mahdollista saada isoja päästövähennyksiä aikaiseksi liikennesek-
+torin kautta. Se edellyttää sekä autokannan uudistamista sähkö- ja biopolttoainepohjaisten
+ajoneuvojen suuntaan, liikenneinfrastruktuurin kehittämistä esimerkiksi sähköautojen la-
+tauspisteiden lisäämiseksi että joukkoliikenteen kehittämistä kaikissa isoissa asutuskes-
+kuksissa. Vasemmistoliitto on esittänyt, että pitäisi aloittaa liikenteen kokonaisverotuksen
+uudistaminen tavoitteena ohjata liikkumista ekologisempaan suuntaan.
+
+Arvoisa puhemies! Liikennepolitiikan osalta vasemmistoliiton mielestä pitäisi edetä
+edistämällä liikennekaaren tavoitteita liikenteen digitalisaation, palveluiden yhteensopi-
+vuuden lisäämisen ja tiedon avaamisen osalta. Kannatamme liikenneverkkojen ja väylien
+ylläpidon ja infrainvestointien rahoituksen volyymin kasvattamista, mutta emme liikenne-
+verkkojen yhtiöittämistä. Haluamme panostaa VR:n asemaan omistajapoliittisesti tarkista-
+malla tuloutusvaatimuksia sekä tekemällä pitkäaikaisia sopimuksia velvoite- ja ostoliiken-
+teen osalta.
+
+Taksisääntelyn osalta haluamme jatkossakin turvata taksipalveluiden alueellisen katta-
+vuuden sekä hintojen ennakoitavuuden ja kohtuullisuuden. (Puhemies koputtaa) Tämän li-
+säksi näemme äärimmäisen tärkeänä aloittaa valmistelut liikenteen kokonaisverotuksen
+uudistamiseksi ilmastopäästöjen vähentämiseksi.
+
+15.58 Katja Hänninen vas: Arvoisa puhemies! Tänään on käyty vilkasta keskustelua lii-
+kennekaaresta, ja uskon, että me tuonne valiokuntaan olemme saaneet hyviä evästyksiä
+täältä salista. Kiitos siitä kaikille teille edustajille, jotka osallistuitte aktiivisesti keskuste-
+luun.
+30
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Liikennepolitiikan uudistaminen on meistä kaikista varmasti todella tervetullutta ja tär-
+keää. Digitalisaation hyödyntäminen ja lippujärjestelmien yhteensovittaminen tulevat hel-
+pottamaan julkisen liikenteen käyttöä. Tällaisten todella suurten uudistusten yhteydessä on
+aina mietittävä, saavutetaanko niillä alkuperäiset tavoitteet, kohtelevatko ne ihmisiä yh-
+denvertaisesti ja mitä muita vaikutuksia päätöksillä on.
+
+Vasemmistoliitto haluaa kehittää julkista liikennettä raiteisiin panostaen ja siirtää tava-
+raliikennettä raiteille. Tieliikenteessä on edistettävä sähköllä ja biopolttoaineilla kulkevien
+autojen markkinoillepääsyä. Liikenneinfrastruktuurin kehittäminen on pitkäjänteistä työ-
+tä, ja se tapahtuu parhaiten julkisella omistuksella. Liikenneturvallisuus sekä ilmastopääs-
+töjen vähentäminen on kaiken a ja o.
+
+Arvoisa puhemies! Kuten jo debatissa totesin, olen erityisen huolissani taksilupien hin-
+ta- ja määräsääntelystä luopumisesta. Sillä voi olla todellakin arvaamattomia vaikutuksia.
+Kaikella todennäköisyydellä isot kaupungit tulevat hyötymään sillä tavalla, että asiakkai-
+den maksut sitten hintakilpailun seurauksena laskevat, kun on tarjontaa, mutta sitten har-
+vaan asutuilla seuduilla hintojen nousupaineet tulevat varmasti olemaan olennaiset. Tämä
+ei mielestäni kohtele eri puolilla Suomea asuvia ihmisiä tasavertaisesti. On vaikea uskoa,
+että keskustavetoinen hallitus tekee tällaista keskittämispolitiikkaa. Ollaanko nyt taksien
+osalta luomassa uutta rahastusautomaattia? Palveluita ollaan muutenkin koko ajan keskit-
+tämässä kasvukeskuksiin, mikä lisää taksikyytien tarvetta, kun esimerkiksi sairaalat ovat
+entistä kauempana ihmisistä.
+
+Ministeri Bernerin mukaan uudistuksella tavoitellaan säästöjä, mutta kenen säästöjä?
+Jääkö kallistuvien taksimatkojen hintalappu kuntien vai asiakkaiden maksettavaksi? Myös
+esimerkiksi koulukyytien osalta kuntien kulut uhkaavat nousta pilviin. Onneksi tämä
+10 000 euron keinotekoinen pienimuotoisen toiminnan raja poistettiin tästä lakiesityksestä
+lausuntokierroksen jälkeen. Se olisi ollut mielestäni todella haitallinen harmaan talouden
+torjunnalle. Nyt minua huolestuttaa kuitenkin, ollaanko pakettikuljetukseen luomassa uut-
+ta katvealuetta, kun pelkkä rekisteröityminen riittäisi. Harmaa talous on jo nyt merkittävä
+ongelma, ja nyt olisikin etsittävä kaikki keinot sen torjumiseen.
+
+Arvoisa puhemies! Kun sääntelyä nyt ollaan purkamassa rankalla kädellä, korostuu jäl-
+kikäteinen valvonta. Millaiseksi Trafin vastuu ja työmäärä muodostuvat? Miten hintaval-
+vonta tapahtuu? Entä pystyykö Trafi sen lisäksi valvomaan asiakasturvallisuutta ja tyyty-
+väisyyttä riittävästi? 
+
+Kuljettajien pätevyysvaatimusten keventäminen huolettaa, sillä liikenneturvallisuuden
+ja työntekijöiden osaamisen on oltava huippuluokkaa myös jatkossa. Erityisesti paljon tak-
+sia käyttävien erityisryhmien kohdalla on todella tärkeää, että kuljettaja on pätevä ja kalus-
+to asianmukaista, ihan kuten edustaja Mäkisalo-Ropponen omassa puheenvuorossaan toi
+esille.
+
+Arvoisa puhemies! Tämän liikennekaaren seuraavassa vaiheessa keskitytään todella
+olennaisiin kysymyksiin. Liikenneverkon mahdollinen yhtiöittäminen ja liikenneinves-
+tointien rahoitusmalli ratkaisevat paljolti uudistuksen onnistumisen. Jään siis mielenkiin-
+nolla odottamaan valmistelun etenemistä.
+
+16.02 Katri Kulmuni kesk: Arvoisa puhemies! Liikennekaari uudistaa Suomen liikenne-
+politiikkaa tulevaisuuden tarpeita varten. Moni on tässä salikeskustelussa pelännyt, että
+tämä uudistus vie maaseudun liikennepalvelut. No, tosiasiallisesti maaseudullahan ei juuri
+ole liikennepalveluita enää. Lapissakin on kuntia, joissa takseja ei saada edes täyteen. Niil-
+31
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+le luville, mitä siellä olisi, ei ole halukkaita. Jos me odotamme sitä, että ihmiset maaseu-
+dulla ajavat takseilla, niin en minä tiedä, kenellä siellä on varaa ajaa takseilla, ellei sitä kyy-
+tiä maksa joku muu. Mutta ei tavallinen ihminen voi maaseudulla tilata taksia tänä päivä-
+näkään. Se on kyllä rikkaiden ja etuoikeutettujen ihmisten liikennemuoto. Sen sijaan, mitä
+liikennekaarella tavoitellaan, on se, että maaseudulle tulisi niitä palveluita — niitä palve-
+luita, joita siellä ei valitettavasti nyt ole. Jatkuvasti me olemme olleet sellaisessa kiertees-
+sä, että maaseudun palveluja on vähennetty ja vähennetty, mutta nyt koetetaan ajatella toi-
+sella tavalla: miten sinne luodaan uusia palveluita.
+
+Arvoisa puhemies! Näinpä onkin aivan välttämätöntä, että kaikki ne mahdollisuudet,
+mitä teknologia meille tänä päivänä antaa, voidaan ottaa täysimääräisesti käyttöön. Ei ole
+matkalla olijan kannalta kovinkaan järkevää, että pitää katsoa bussiaikataulut ja juna-aika-
+taulut ja lentoliikenneaikataulut kaikki eri paikoista. On välttämätöntä, että ne saadaan sa-
+maan applikaatioon, saman toiminnon alle. Näitä matkaketjuja pyritään uudistamaan.
+Täällä on jo paljon puhuttu digitalisaatiosta, ja haluan kiittää oppositiota siitä, että myös te
+tunnustatte sen arvon, mitä digitalisoituva maailma meille tuo, ja miten meidän täytyy ot-
+taa siitä kaikki mahdollisuudet irti.
+
+Uskoakseni tulevaisuudessa liikennemuodot tulevat olemaan niin erilaiset, että me
+emme pysty ehkä tänä päivänä vielä aivan ajattelemaankaan sitä. Me puhumme tässäkin
+keskustelussa aika paljon vain takseista, mutta tälläkin uudistuksella pyritään muokkaa-
+maan sitä, että syntyisi myös uudenlaisia ja erilaisia kulkumuotoja, ei ainoastaan takseja.
+Niinpä onkin aika ottaa se asiakas keskiöön, palvelun käyttäjä keskiöön ja jättää järjestel-
+mä vähän sinne taustapuolelle. Mutta tämä ei tietenkään poista sitä, että edelleenkin julki-
+nen valta erittäin mittavasti kantaa huolta siitä, niin kuin pitääkin, että lapset pääsevät kou-
+luun, että vanhuksille on olemassa tuettuja palvelukyytejä, että Kela maksaa osuuden siitä.
+Eihän tämä ole kuitenkaan tarkoitus, että koetetaan sieltä hakea säästöjä, vaan nimen-
+omaan luoda uusia ratkaisuja.
+
+Arvoisa puhemies! Suomi elää erittäin vaikeaa taloustilannetta, ja ei minusta ole aivan
+vähäpätöinen asia, että tällä liikennekaarella tavoitellaan tuhansia uusia työpaikkoja. Arvi-
+oita on tietenkin vaikea esittää, mutta kuitenkin on laskelmoitu, että vuoteen 20 mennessä
+tällä voisi syntyä jopa 5 700 uutta työpaikkaa. Ei minun mielestäni meidän kannata jättää
+käyttämättä mitään sellaisia mahdollisuuksia, joissa uutta työtä voitaisiin tähän maahan
+tuoda.
+
+En ole kuitenkaan mitenkään sinisilmäinen sille, että totta kai isot uudistukset aina pe-
+lottavat ja niihin sisältyy monenlaisia duubioita. Toki itsekin mietin sitä taksikysymystä,
+jota tässä ollaan jo monelta näkökulmalta käyty läpi, että miten käy sitten niillä alueilla,
+joilla ei ole markkinaehtoisuutta automaattisesti. On siksi välttämätöntä, että Trafilla on
+mahdollisuus puuttua peliin, jos hinnat lähtevät nousemaan, etteivät ne karkaa käsistä. Ja
+on tärkeää, että edelleenkin sääntelyä on olemassa. Verot täytyy maksaa Suomeen, täytyy
+olla ammattimainen, kuskilla ei saa olla rikostaustaa, täytyy olla vakavarainen ja monia
+muita asioita. Edelleenkin taksit myös päivystävät, ja edelleenkin heillä on asemapaikka-
+velvoite, joka on pääasiallinen.
+
+Arvoisa puhemies! Tähän loppuun haluan vielä nostaa esille sellaisen asian, että aika
+harvoin Suomesta puhutaan kansainvälisessä mediassa. Liikennekaari oli kuitenkin yksi
+asia, joka herätti myös ehkä yhden arvostetuimmista kansainvälisistä talouslehdistä asian
+äärelle, nimittäin The Economist otti edellisessä numerossaan liikennekaaresta varsin mo-
+32
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+nipuolisen artikkelin esille, ja sieltä ainakin palaute oli positiivista. Tämä on historiallinen
+ja erittäin kunnianhimoinen hanke.
+
+16.08 Mikko Alatalo kesk: Arvoisa puhemies! Olen taksimiehen poika ja melkein sanka-
+ri siis itsekin. Isäni ajoi Kiiminkijokilaaksossa taksikyytejä tansseihin, hän ajoi Kela-kyy-
+tejä, koululaisia, hän jakoi postia, kuljetti tavaraa, eli täsmälleen sitä, mihin nyt pyritään.
+Isällä oli vain lankapuhelin, mutta nyt apuna on digitalisaatio, ja siinä mielessä kannatan
+kovasti tätä liikennekaariesitystä. Uskon, että moni muukin sitä kannattaa. 
+
+Suomi on laaja maa. Me haluamme pitää koko maan asuttuna. Valitettavasti vain edel-
+lisen hallituksen aikana meillä loppui Suomessa yli 200 bussivuoroa, koska PSA-asetus
+tehtiin sillä tavalla. Tuskin enää tulee sellaista aikaa, että meillä kulkisi bussi siellä puoli-
+tyhjänä, vain muutama asiakas. Sen takia me tarvitsemme digiloikkaa ja tilausliikennettä.
+On tärkeää, että ihmiset ja tavarat pääsevät kulkemaan nopeasti, edullisesti, turvallisesti ja
+kattavasti koko Suomessa. Ikäihmisten on päästävä kauppaan ja hyvinvointipalveluihin, ja
+niille, jotka eivät omista autoa, on tarjottava kulkemisen edellytykset.
+
+Kun valtio joutuu tekemään säästöpäätöksiä, on huomattu muun muassa Kela-kyytien
+suuri menoerä, ja toki kansalaisten palveluista ja yhdenvertaisuudesta on nyt kyse. Kun
+Kela-kyyteihin toivotaan jonkinlaista kiky-sopimusta, niin taksit ovat siihen olleet valmii-
+ta. Ainakin se vastaus on tullut tuolta taksikentältä, että yhdistetään niitä kyytejä ja sääste-
+tään myös yhteiskunnan kustannuksia.
+
+Kulkeminen on keskittämisen kolikon toinen puoli. Aikoinaan, jo edellisten hallitusten
+aikana, tätä keskittämistä tapahtui koulujen osalta — silloinhan aina kuljetuskustannukset
+nousevat — ja nyt varmasti myös kun keskitetään terveyspalveluja, kuljetuskustannukset
+jälleen nousevat. Se on siis poliittinen valinta. Me joudumme liikenteen puolella maksa-
+maan sen, mitä muualla sitten säästämme.
+
+Liikennekaariuudistuksen tavoitteena on lisätä valinnanmahdollisuuksia, ei vain liiken-
+nepalvelujen käyttäjien vaan myös alan yrittäjien mahdollisuuksia. Yrityksillä on vapaus
+valita toimintatapa, kilpailuvaltti ja kalusto. Digitalisaatio tosiaan mahdollistaa tilauslii-
+kenteen ja aivan uudenlaista yrittäjyyttä. Me voimme luoda uusia investointeja ja uusia
+työpaikkoja.
+
+Arvoisa puhemies! Liikennekaari helpottaa elämää, kun sääntely kevenee ja hallinnolli-
+nen taakka pienenee. Tämä vähentää myös yritysten kustannuksia. On kuitenkin selvää,
+että sääntelyä ja myös kattavia vakuutuksia tarvitaan varmistamaan liikenteen palvelujen
+ja asiakkaan turvallisuus. Oli myönteistä, että liikennekaaresta päästiin lausuntojen jäl-
+keen ehjään esitykseen taksien osalta: sääntelyä väljennetään ja monta taksiyrittäjiä kismit-
+tänyttä ehdotusta on korjattu. Taksilupien määräkiintiöstä luovutaan eli takseja voi tulevai-
+suudessa olla enemmän, mutta kilpailua ei vapauteta villiksi: edelleen lupaehtoisuus säi-
+lyy ja Trafi valvoo taksiyrityksiä ja kuljettajia. Niin sanotut kymppitonnin taksiautoilijat
+purettiin esityksestä pois, ja tämä on jo liikenneturvallisuudenkin kannalta tärkeää. Pääasi-
+allinen asemapaikka säilyy. Vaikkapa Juupajoella asemaansa pitävä taksi voi silti ajaa
+myös naapurikunnan puolella tämän uudistuksen myötä. Tärkeää on, että taksien kotipaik-
+ka on myös Suomessa.
+
+Arvoisa puhemies! Kilpailun kuitenkin tulee olla tasapuolista. Ei voi olla niin, että pik-
+kubussit ajavat verovapaalla polttoaineella ja taksit eivät. Esitys tulee todellakin siinä mie-
+lessä olemaan meillä kriittisessä tarkkailussa. Jos meille tulee liikaa takseja ja markkina-
+häiriötä, niin pitäisi olla mahdollisuus myös tätä asiaa kiristää. Täytyy myös huomata, että
+33
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+taksit maksavat tällä hetkellä, riippuen bonuksista, 6 000:sta 10 000 euroon vakuutuksia, ja
+niillä vakuutuksilla turvataan se, että jos onnettomuus tulee, silloin korvataan asiakkaan
+vahingot. Ja todellakin, näitä ei ainakaan minun tietääkseni Uber-takseilla ole.
+
+Liikennekaari on väline turvata myös postinjakelupalveluja maassa. Ja todellakin, me
+tarvitsemme rahaa myös uusiin tiehankkeisiin. Hyvä, että sekin asia on tulossa tämän lii-
+kennekaaren jatko-osassa. Vaikka hallitus onkin nyt antanut todella paljon rahaa teiden
+korjaamiseen, myös uusia tiehankkeita pitää edistää.
+
+Monet osapuolet ovat olleet tyytyväisiä jo tässä vaiheessa, Linja-autoliitto ja monet
+muut. SKALin näkemyksiä on kuultu, ja sen vaatimuksesta myös poistettiin nämä 10 000
+euron liikevaihdon yrittäjät ja näin. Mutta totta kai liikennekaari tulee olemaan liikenne- ja
+viestintävaliokunnassa tarkassa syynissä. Jotkut yksityiskohdat saattavat vielä hioutua.
+Taksiyrittäjät, ainakin liittonsa kautta, ovat kuitanneet, että tämän liikennekaaren kanssa
+voidaan elää. On myös hyvä, että siirtymäaikaa on lähes kaksi vuotta, niin että alan toimi-
+jat voivat muutokseen sopeutua.
+
+16.13 Sinuhe Wallinheimo kok: Arvoisa herra puhemies! Hallitus ja ministeri Berner to-
+dellakin ansaitsevat isot kiitokset tämän laajan ja Suomen tulevaisuuden kannalta tärkeän
+liikennekaarihankkeen saamisesta vihdoin tänne käsittelyyn. Siihen sisältyvä suurin muu-
+tos on ajattelutavan muutos. Siinä kuluttaja laitetaan aidosti keskiöön niin henkilö- kuin ta-
+varaliikenteessäkin. Tähän päivään asti liikennettä on ajateltu lähinnä välineenä paikasta
+toiseen siirtymiseksi. Samalla raja-aidat eri kuljetusmuotojen välillä ovat olleet vaikeita
+ylittää. Nyt tähän tulee, arvoisa puhemies, muutos. Jatkossa liikenne ja liikkuminen muut-
+tuvat yhä enemmän kokonaisvaltaiseksi palveluksi. Muutoksen mahdollistaja on erityises-
+ti matkojen hinta- ja aikataulurajapintojen avaaminen. Sen myötä jokaisen meistä valin-
+nanvara liikkumisen suhteen kasvaa. 
+
+Myös kuljetusalan yrittäjille uusi liikennekaari tarjoaa uudenlaisia mahdollisuuksia.
+Esimerkiksi haja-asutusalueilla nyt perinteisiä taksipalveluja tuottavat yrittäjät voivat jat-
+kossa tarjota niin halutessaan muitakin palveluja. Yrittämisen taloudellista kannattavuutta
+voisi kasvattaa esimerkiksi yhdistämällä taksikuljetuksiin postipalveluita, tavarakuljetuk-
+sia tai muita kotipalveluita. Vastaavasti kaupunkien pienelle henkilökuljetusyrittäjälle voi
+löytyä yllättävistäkin mahdollisuuksista uutta liiketoimintaa, kun hän yhdistää oman pal-
+velunsa laajempaan kokonaisuuteen. Myös erilaisia alennuksia liikennepalveluista on hel-
+pompi muotoilla, kun palvelut ovat yhden luukun alla.
+
+Arvoisa puhemies! Liikennekaarelle asetetut taloudelliset odotukset ovat korkeita. Lii-
+kenne- ja viestintäministeriö on arvioinut, että liikennekaari voisi luoda jopa 18 000 uutta
+työpaikkaa lähivuosien aikana. Saattaa olla, että pitkällä aikavälillä liikennekaaren mah-
+dollistama kehittyminen parantaa Suomen talouden tilannetta jopa paljon sovittua kilpai-
+lukykysopimusta enemmän. Toiveiden toteutuminen edellyttää ennen kaikkea sitä, että
+suomalaisissa liikenne- ja logistiikkapalveluissa otetaan käyttöön uuden teknologian, digi-
+talisaation ja liiketoimintamallien tarjoamat mahdollisuudet. Tässä myös saattaa olla uu-
+distuksen isoin haaste. Tuoreimmat tutkimukset nimittäin kertovat siitä, kuinka vähäistä
+digitalouden tarjoamien mahdollisuuksien hyödyntäminen on erityisesti eniten työllistä-
+vissä pk-yrityksissä. Hyvälläkään lainsäädäntöympäristöllä ei ole merkitystä uuden kas-
+vun luomisessa, jos sen tuomia mahdollisuuksia ei osata täysimääräisesti hyödyntää. Siksi
+toivonkin, että erityisesti kuljetusalan yrittäjät ottaisivat nyt koppia esimerkiksi parasta ai-
+kaa käynnistyvästä innovaatiosetelikokeilusta. Siinä yksi keihäänkärki on pk-yritysten di-
+34
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+givalmiuksien kehittäminen yhteistyössä yliopistojen ja ammattikorkeakoulujen digiosaa-
+jien kanssa. 
+
+Arvoisa puhemies! Liikennekaari on jälleen yksi erinomainen esimerkki hallituksen
+norminpurkutalkoiden edistämisestä. Niiden perimmäinen tarkoitus on helpottaa jokaisen
+meistä arkea, lisätä talouden dynamiikkaa ja luoda siten uutta kasvua ja työpaikkoja. Toi-
+sin sanoen markkinoille pääsyn esteitä poistamalla ja kilpailua lisäämällä voidaan mahdol-
+listaa uuden työn syntymistä ilman, että se maksaa valtiolle yhtään mitään. Tulokset puhu-
+vat puolestaan. Kauppojen aukiolon vapautus on luonut kaupan alalle 2 500—3 000 uutta
+työpaikkaa. Toteuttamista vaille valmis oleva alkoholilain uudistus luo puolestaan edelly-
+tyksiä työllisyyden parantamiselle ravintola-, panimo- ja elintarvikevientisektoreilla. Jo-
+kaista näitä tarvitaan, arvoisa puhemies, talouden suunnan muuttamiseksi. 
+
+16.18 Markku Pakkanen kesk: Arvoisa herra puhemies! Arvoisat edustajat! Tänään on
+aloitettu keskustelu liikennekaaresta, ja se on odotettu avaus hallituksen kärkihankkeeksi.
+
+Harmikseni totesin, että vain yksi liikennemuodoista nousi varsinaiseen keskusteluun.
+Olisin toivonut, että myös jo tänään olisi keskusteltu rautateistä, raskaasta liikenteestä, ve-
+sikuljetuksista, henkilöliikenteestä noin laajemmin, mutta vain taksiliikenne näyttää ole-
+van tällä hetkellä se, mikä asiassa puhuttaa. No, siinä varmaan on osana myös se, että siellä
+on 10—20 euron hintaisista kyydeistä kyse, ja sellaiset euromäärät ovat sellaisia helppoja
+kokonaisuuksia ymmärtää myös tälle porukalle.
+
+Itselleni liikennekaaren tärkein hanke on väyläyhtiön perustaminen, ja toivon, että sille
+täällä salissa annetaan paljon enemmän aikaa ja aikanaan myös valiokuntatyössä. Toivon,
+että väyläyhtiö Suomeen perustetaan ja saadaan toimiva valtionjohtoinen yhtiö aikaiseksi.
+
+Muutama kommentti, mitä taksiliikenne on tänään ja mikä muuttuu:
+Taksi tänään on Suomessa tarveharkintaan perustuva lupajärjestelmä, jossa kunnassa tai
+
+alueella on kiintiömäärä, jonka ely-keskus vuosittain vahvistaa. Kiintiömäärän mukaan lu-
+vat vapautuvat, ja tänä päivänä niitä saavat uudet yrittäjät ja olemassa olevat yrittäjät vuo-
+ron perään, miten ely-keskus omassa harkinnassaan niitä jakaa ja lupia vapautuu. Myös
+säännöittäin kunnilta kysellään, riittääkö kiintiömäärä ja onko tarvetta lisätä vai vähentää
+kiintiöitä. Taksit käyttävät vahvistettua taksaa, elikkä on säädelty ylähinta mutta alahintaa
+taksipalvelussa ei ole säädelty, joten niin sanotulla alennetulla ja halvemmalla hinnallahan
+voi ajaa lain mukaan myös tänä päivänä.
+
+Luvanhaltijalla on päivystysvelvoite, ja se on aina lupakohtainen. Tämä takaa tasaver-
+taiset taksipalvelut ympäri Suomea asemapaikalla, tai joillakin alueilla myös kotitaksi on
+se mahdollisuus, millä päivystysvelvoitetta hoitaa. Asemapaikka määritellään lupamääri-
+tyksessä. Samaten taksilupaan tulee maininta esteettömyydestä tai niin sanotusti henkilö-
+taksista. Esteettömyys takaa vammaisille ja liikuntarajoitteisille taksien saatavuuden, ja
+näin myös vammaispalvelulain vaatimukset tulee huomioida.
+
+Digitalisaatiosta puhutaan tänä päivänä paljon. Se kuuluu asiaan, ja se on tulevaisuutta,
+mutta suomalaiselle taksille digitalisaatio on jo viimevuosisatainen perinne ajovälitysjär-
+jestelmien myötä. Itse yli 2 miljoonaa kilometriä taksiautolla ajaneena olen jo 20 vuotta
+nauttinut digitalisaation eduista, muun muassa turvalaitteet taksissa ovat olleet jo kauan
+sitten digitalisoituja, kyydin välitys on tapahtunut kännykällä jo 15 vuotta ja aina tällainen
+seurattavuus on ollut mahdollista digitalisaation myötä. Mutta digitalisaatio kulkee eteen-
+päin, ja taksiala on siinä mukana ja haluaa olla kehityksessä mukana.
+35
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+No, mikä sitten muuttuu tässä uudessa esityksessä? Yksi asia, mikä ei muutu, on noin
+5,5 miljoonaa suomalaista asukasta. Sinällänsä markkinat eivät äkkiä muutu, mutta kiin-
+tiömäärä poistuu, ja taksilupien määrä vapautuu, mutta lupa pysyy onneksi mukana. Ase-
+mapaikka muuttuu pääsääntöiseksi, siinä tulee höllentämistä. Mutta hinnoittelun osalta
+hinnoittelu vapautuu. Kuljettajakoulutuksessa tulee vapautusta tai helpotusta. Tämä mah-
+dollistaa tietenkin enemmän kuljettajia alalle. Toisaalta siinä meidän lainsäätäjien pitää
+varmistaa, että laadukas ja turvallinen taksi Suomessa säilyy. Erilaiset yhdistetyt maksuvä-
+lineet tulevat tulevaisuudessa mahdollisiksi, eri liikennemuodot, ja tämä on hyvä ja kanna-
+tettava uudistus. Siinä täytyy varmistaa, että tämmöisiä Waltti-korttityyppisiä ongelmia ei
+Suomeen synny.
+
+Ajan puutteen vuoksi jatkan puhetta seuraavassa liikennekaarikeskustelussa. Mutta tä-
+män päivän osalta omalta osaltani jätetään liikennekaari tähän. — Kiitoksia, hyvää keskus-
+telua!
+
+16.23 Mirja Vehkaperä kesk: Arvoisa herra puhemies! Liikennekaarta on tänään sekä
+eduskunnan oikealta että vasemmalta puolelta kiitelty. Astutaan siis uuteen aikakauteen
+kaikkien liikennemuotojen osalta ja ennen kaikkea varmistetaan se, että Suomessa eri lii-
+kennemuodot seurustelevat toistensa kanssa.
+
+Liikennekaari on meille elintärkeä, koska Suomi on todellakin harvaan asuttu maa.
+Meillä on todella pitkät etäisyydet ja ohkaiset tavaravirrat. Mutta me haluamme nyt mei-
+dän logistiikastamme tehokkaampaa ja parempaa sekä henkilö- että tavaraliikenteeseen.
+On selvä, että digitaalisuus tuo meille mahdollisuuksia. Se jouduttaa, parantaa, nopeuttaa
+palveluiden saatavuutta, ja tämä avoin tietojen rajapinta on erittäin tärkeä silloin kun pu-
+humme eri liikennemuotojen, lippujärjestelmien, matkaketjujen yhdistämisestä. Se tuo su-
+juvuutta kaikkien liikkumisen arkeen.
+
+Logistiikasta voimme myös saada kilpailuvaltin Suomelle tulevaisuudessa. Tiedämme,
+että tavaravirrat muuttuvat maailmassa. Esimerkiksi Koillisväylä tulevaisuudessa voi mah-
+dollistaa sen, että Suomen läpi kulkee entistä enemmän maailman tavaravirroista, ja siitä
+haluamme saada oman liiketoimintamme kukoistukseen. Liikennesektorin markkinat ovat
+jo tällä hetkellä Suomessa noin 30 miljardia euroa vuodessa eri liikennemuodoissa. Pu-
+humme siis jo tällä hetkellä isosta potista rahaa, mitä liikkuu liikennesektorin alueella.
+
+Salissa on tänään keskusteltu todella vakavamielisestikin taksien tulevaisuudesta. Mut-
+ta toivon, että taksilupien vapautuminen parantaa taksiliikenteen mahdollisuuksia toteut-
+taa palvelumuotoista liikennettä tulevaisuudessa. On tärkeää muistaa, että taksien luvanva-
+raisuus säilyy edelleen, ja edustaja Pakkanen tässä kuvasi vallan hyvin ja yksityiskohtai-
+sesti, mitä se tarkoittaa. Taksinkuljettajalta vaaditaan edelleenkin ajolupa, itse taksiliiken-
+teen harjoittamiseen tarvitaan lupa, ajoneuvonkin tarvitsee täyttää vaatimukset, ja kaikkea
+tätä valvoo sitten Trafi, ja niin edelleen. Eli emme ole vapauttamassa taksiliikennettä aivan
+täysin villin lännen meiningiksi.
+
+Edustaja Mustajärvi puhui tästä puhujapöntöstäkin vilkkaasti siitä, miten tämä liikenne-
+kaari romuttaa nyt haja-asutusalueitten taksinkuljettamisen mahdollisuudet. Me luomme
+tällä hetkellä yrittäjille edellytyksiä sille, että tulevaisuudessakin haja-asutusalueilla on
+joukkoliikennettä, on taksipalveluita. On tärkeää muistaa se, että näitä palvelumuotoja yh-
+distetään toistensa kanssa ja myös yrittäjien mahdollisuuksia ansaita taksin kuljettamisesta
+parannetaan.
+36
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Eduskuntaan tulee myöhemmin postilaki, jossa on myöskin kyse siitä, että kotiin kan-
+nettavien palveluitten lisäksi yhdistetään eri muotoja. Ministeri Berner on tästä puhujapön-
+töstä vakuuttanut tänään useaan otteeseen, mistä on kyse: palveluiden yhdistämisestä.
+Henkilöliikennettä, koulukuljetuksia, tavaravirtojen kuljettamista, ruokaa, lääkkeitä, pos-
+tia — mitä vain keksimme, mitä voimme kuljettaa kumipyörien päällä. Eli tästä pitää miet-
+tiä ja ajatella, että liikennekaari mahdollistaa haja-asutusalueille myös taksipalvelut, kun se
+on liiketoiminnallisesti parempaa.
+
+16.28 Jyrki Kasvi vihr: Arvoisa puhemies! Liikennekaaresta käyty keskustelu on keskit-
+tynyt taksiliikennelupiin, mutta taksit ovat vain pieni osa tästä esityksestä. Jos en tietäisi,
+miten rakkaita taksit ovat meille suomalaisille, epäilisin hallitusta tahallisesta taksisumu-
+tustaktiikasta. Huomion keskittyminen taksiliikenteeseen on kuitenkin sikäli ymmärrettä-
+vää, että kyytipalvelut ovat liikenteen tekniikan ja liiketoimintamallien kehityksen edellä-
+kävijöitä. Uberista on tullut jakamistalouden synonyymi ja yksi robottiautojen ensimmäi-
+sistä käyttöönottajista maailmassa.
+
+Hallitusta on moitittu menneisyyteen jämähtämisestä, koska se ei vapauta taksiliiken-
+nettä kokonaan. Moni kommentoija on väittänyt hallituksen kieltävän Uberin ja muut vas-
+taavat palvelut. Mutta kuten liikenneministeri Berner aiemmin totesi, liikennekaari ei kiel-
+lä Uberia tai Lyftiä tai Didiä, se vain edellyttää kyytipalveluiden tarjoajalta liikenneluvan,
+joiden määrää ei rajoiteta. Mikään ei siis estä hankkimasta taksiliikennelupaa ja käyttämäs-
+tä esimerkiksi Uberia varausten ja maksujen välitykseen, jonka tiedot ovat tarvittaessa
+myös verottajan käytettävissä.
+
+Ratkaisevaa on se, kuinka kallista ja työlästä taksiliikenneluvan hankkiminen tulevai-
+suudessa on. Kannattaako sitä hankkia satunnaisia pikkujoulukauden keikkoja varten vai
+edellyttääkö se jatkuvaa, kokopäiväistä ajamista. Sen sijaan mainituista vakuutuksista en
+ole niin huolissani. Vakuutusyhtiöt kehittävät jo nyt uusia tuotteita uusille liikenteen tek-
+niikoille ja palveluille. Liikenteen digitalisaation ennakoidaankin muuttavan koko vakuu-
+tusalaa radikaalisti, ei vain taksien vakuutusten osalta.
+
+Joka tapauksessa murroksesta tulee raju, kun pitkään tiukasti säädelty ala vapautuu avoi-
+melle kilpailulle. Silti pidän taksialan avaamista kilpailulle perusteltuna. Suljettu sääntely-
+talous ei ole koskaan pidemmän päälle palvellut kuluttajan etuja, vaikka suljettuja markki-
+noita sääntelyn turvin hallitsevien yritysten etujärjestöt usein muuta väittäisivät.
+
+Ongelmia tulee varmasti vastaan, mutta voimme ottaa opiksi Ruotsin kokemuksista.
+Trafin tulee reagoida nopeasti, jos havaitaan esimerkiksi hintavedätyksiä tai jos osa Suo-
+mesta uhkaa jäädä täysin ilman taksipalveluita. Pienemmässä määrin sama on edessä kul-
+jetusalalla, kun pakettiautoliikenteessä siirrytään lupamenettelystä ilmoitusmenettelyyn.
+Pakettiautojen liikennelupien saatavuutta, hinnoittelua ja toimipaikkaa ei kuitenkaan ole
+aiemminkaan rajoitettu lainsäädännöllä.
+
+Arvoisa puhemies! Liikennekaaren painavimpana teemana on liikenteen digitaalisten
+liiketoimintamallien edistäminen. Esimerkiksi henkilöliikennettä harjoittavien yritysten
+lippu- ja maksujärjestelmien edellytetään olevan yhteentoimivia, ja niiden on avattava pal-
+veluaan koskevat olennaiset tiedot yleiseen käyttöön. Matkustajia uudistukset varmasti
+ilahduttavat, sillä heidän on aiempaa helpompi arvioida ja vertailla liikennepalveluita. Sen
+sijaan kaikki liikenneyrittäjät tuskin hurraavat. Käytännössä hallitus pakottaa ne yhteistoi-
+mintaan kilpailijoidensa kanssa.
+37
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Liikennekaari siis sekä purkaa vanhaa sääntelyä että luo uutta. Pääsääntöisesti sen ta-
+voitteet ovat kannatettavia, mutta paljon riippuu käytännön toteutuksesta. Esimerkiksi us-
+kallammeko velvoittaa viranomaiset ja yritykset tietojensa avaamisen lisäksi käyttämään
+standardoituja liikennetiedon esitysmuotoja ja määrittelemään tietovarantojensa käsitteet
+samalla tavalla. Tiedän, että tähän palataan liikennekaaren toisessa vaiheessa, ja toivotan
+liikenneministerille rohkeutta. Standardimuotoiset tietovarannot ja yhteiset sanastot ovat
+välttämättömiä liikennepalveluiden yhteensovittamiselle ja uusien palveluiden kehittämi-
+selle.
+
+Arvoisa puhemies! Liikennekaarta on moitittu myös pitkästä siirtymäajasta. Yrityksille
+annetaan heinäkuuhun 2018 asti aikaa päivittää tietojärjestelmänsä täyttämään kaaren vaa-
+timukset. Ajan katsotaan valuvan hukkaan, kun uusia palveluita ei päästä ottamaan no-
+peammin käyttöön. Ulkomaisten kuljetusyritysten pelätään sillä välin ehtivän valtaamaan
+Suomen markkinat. Tämä kritiikki kertoo paljon tästä ajasta. Perinteisen lainsäädännön nä-
+kökulmasta yli kahden vuoden siirtymäaika on poikkeuksellisen lyhyt, sen sijaan digitaa-
+listen palveluiden kehityksen näkökulmasta puolitoista vuotta on toivottoman pitkä aika.
+Onnibussin perustajan Pekka Mötön sanoin: "Pari vuotta on digimaailmassa melkein yksi
+sukupolvi." Ei ihme, että meidän lainsäädäntömme tuntuu niin usein olevan pari sukupol-
+vea ajastaan jäljessä.
+
+Arvoisa puhemies! Olen huolissani tämän iltaisen keskustelun painopisteestä. Me olem-
+me keskustelleet pääasiassa menneisyyden liikenteestä, emme tulevaisuudesta — tulevai-
+suudesta, jota tämän kaaren pitäisi palvella. Me olemme puhuneet muun muassa taksinkul-
+jettajista, ensi vuosikymmenellä katoavasta ammattikunnasta. Uber kuljetti viime kuussa
+robottivolvoilla ensimmäiset matkustajat Pittsburghissa. Japani ottaa robottitaksit käyt-
+töön Tokion olympialaisissa vuonna 2020. Japanissa kehitetään robottitakseja nimen-
+omaan Japanin autioituvan maaseudun tarpeisiin. Tarvetta taksipalveluille maaseudulla
+on, sillä monessa japanilaisessa metsäkylässä on jäljellä enää ikäihmisiä, joista moni ei
+pysty enää ajamaan omaa autoa eikä pääse siksi omin avuin kauppaan tai lääkäriin. Kuu-
+lostaako tutulta?
+
+16.33 Ari Torniainen kesk: Arvoisa puhemies! Liikennekaaren tavoitteena on luoda
+edellytyksiä uuden teknologian, digitalisaation ja uusien liiketoimintamallien käyttöön-
+otolle liikennesektorilla. Tätä kautta parannetaan palvelua ja mahdollistetaan uutta liiketoi-
+mintaa liikenteessä koko Suomessa. Tavoitteena on jakaa liikenteen kuljetuskalustoa ny-
+kyistä tarkemmin ja tehokkaammin. Tällä on merkitystä myös liikenteen päästöjä vähen-
+nettäessä ja ilmastonmuutosta torjuttaessa.
+
+Liikennekaari yhdistää sekä uudistaa henkilö- ja tavaraliikennettä koskevat säännökset.
+Liikennekaari edistää merkittävästi uuden teknologian, digitalisaation ja uusien liiketoi-
+mintamallien käyttöönottoa luomalla myös edellytykset avoimeen dataan ja tietovaranto-
+jen parempaan hyödyntämiseen perustuville uusille liiketoimintaideoille. Liikennekaarel-
+la säädetään lippu- ja maksujärjestelmien yhteentoimivuudesta. Liikenteen palvelut ovat
+sitä kautta mahdollisimman hyvin kaikkien tavoitettavissa ja yhdisteltävissä. Liikennekaa-
+rella uudistetaan julkisesti tuettuja henkilökuljetuksia. Uudistus henkilö- ja tavaraliiken-
+teessä toteutetaan digitalisaatiota hyödyntämällä ja mahdollistamalla uudenlaiset markki-
+naehtoiset ja innovatiiviset palvelukonseptit kehittämällä uutta lainsäädäntöä. Samalla
+edistetään liikennepalveluiden syntymistä asiakaslähtöisesti, nimenomaan palveluna,
+38
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+markkinaehtoisesti ja terveen kilpailun pohjalta. Palveluja yhdistelemällä voidaan saavut-
+taa merkittäviä kustannussäästöjäkin.
+
+Liikennekaari toteutetaan kaiken kaikkiaan kolmessa eri vaiheessa. Tässä nyt käsiteltä-
+vässä ensimmäisessä vaiheessa muutokset kohdistuvat pääosin tieliikenteen sääntelyyn.
+Ensimmäisen vaiheen esityksellä kevennetään merkittävällä tavalla tieliikenteen palvelui-
+den tarjoamista koskevaa sääntelyä ja vähennetään toimijoiden hallinnollista taakkaa. Esi-
+tyksellä luodaan tasapuoliset toimintaedellytykset nykyisille ja uusille toimijoille markki-
+noilla.
+
+Taksijärjestelmässä nykymuotoisista lupakiintiöistä luovutaan ja nykymuotoista asema-
+paikka- ja enimmäishintasääntelyä muutetaan. Toimijoiden pitää ilmoittaa asemapaikkan-
+sa ja päivystysaikansa eli pääasiallinen toiminta-alueensa ja palveluaikansa. Liikenteen
+turvallisuusvirasto Trafi voi tarvittaessa antaa määräyksen taksiliikenteen palvelujen hin-
+noista, jos hinnat tulevat nousemaan kohtuuttomiksi. Ammattimainen taksiliikenne jää
+edelleen luvanvaraiseksi, mutta autokohtainen taksilupa muutetaan toimijakohtaiseksi tak-
+siliikenneluvaksi. Joukko- ja tavaraliikenteen sääntelyyn ehdotetaan kevennyksiä, ja se on
+hyvä asia.
+
+Henkilöliikenteessä poistetaan joukkoliikenteen harjoittajia koskenut kansallinen vaati-
+mus erillisestä reitti- tai kutsuliikenneluvasta. Toimijan on kuitenkin ilmoitettava säännöl-
+lisesti tarjottavan palvelun aloittamisesta, muutoksista ja myös lopettamisesta vähintään 60
+päivää etukäteen. Kuorma-auton ja linja-auton kuljettajien ammattipätevyyksiä kevenne-
+tään, niin että sääntely kohdistuu entistä täsmällisemmin nimenomaan ammattimaiseen
+toimintaan. Liikennelupien myöntäminen keskitetään yhdelle valtakunnalliselle lupaviran-
+omaiselle, Trafille, josta tulisi myös jatkossa tieliikenteen luparekisteriviranomainen.
+
+Arvoisa puhemies! Täällä on tänään keskusteltu myöskin siitä, heikentääkö tämä liiken-
+nekaari, tämä esitys maaseudun joukkoliikennettä. Tosiasia kuitenkin on se, että vuosien
+kuluessa maaseudun haja-asutusalueilta on joukkoliikenne käytännössä jo hävinnyt. Siellä
+ei enää monia bussivuoroja kulje. Itse uskon, että tällä liikennekaarella on mahdollista, että
+maaseudulle syntyy monimuotoisia palveluita. Sillä mahdollistetaan esimerkiksi postin ja
+henkilöiden kuljetusten toteuttaminen samassa kyydissä, kun nykyään joudutaan ajamaan
+erillisiä kyytejä eri tarkoituksiin.
+
+Arvoisa puhemies! Kaiken kaikkiaan liikennekaari on todella iso lakikokonaisuus. Se
+on raja-aitoja murtava, suurten mahdollisuuksien uudistus. Siinä liikenne nähdään koko-
+naisuutena, eikä eri liikennemuotoja erillisinä osina.
+
+16.39 Hannu Hoskonen kesk: Arvoisa herra puhemies! Tämä liikennekaari on yksi hal-
+litusohjelman mukaisista uudistuksista, joka pannaan nyt täytäntöön. Digitalisaatiohan on
+tämän hallituksen yksi kärkihanke, ja olisihan vallan kummallinen tilanne, että nykyaikai-
+siin tietojenkäsittelyjärjestelmiin, joita kaikilla yhteiskunnan alueilla käytetään tänä päivä-
+nä jo kohtuullisen paljon — soisi niitä käytettävän enemmänkin — liikennepuolella ei tar-
+tuttaisi. Edustaja Kasvi omassa puheenvuorossaan äsken käsitteli tätä oikein hyvin. Hän
+tietojenkäsittelyn huippuasiantuntijana ymmärtää tästä asiasta meistä ehkä parhaiten.
+
+Kuten sanottu, hallitus on päättänyt määrätietoisesti uudistaa tiettyjä asioita, jotta saatai-
+siin maan talous kuntoon, ja tämä liikennekaari on juuri sellainen hanke. Tarkoitus on uu-
+distaa liikennettä koskevaa lainsäädäntöä. Tämä koskee sekä tavarakuljetuksia että henki-
+lökuljetuksia. Nyt käydyn lähetekeskustelun aikana en voi muuta kuin ihmetellä varsinkin
+sosialidemokraattien piiristä tullutta rankkaa arvostelua. Toki ymmärrän sen, että muutos-
+39
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+vastarintaa aina on, vaikka uudistettaisiin mitä tahansa, mutta sen ymmärrän, että kyllä
+meidän pitää tämän maailman menossa mukana pysyä. Jälkeen jääminen tietäisi sitä suu-
+rinta tappiota, mitä olla voi. Sen takia kaikkia vastustavia puheenvuoroja en ymmärrä. Tot-
+ta kai järkevää kritiikkiä ja epäilyä kaikissa uudistuksissa tulee olla, se kehittää yleensä
+hanketta parempaan suuntaan, mutta semmoista totaalista risukarhivastustamista on mi-
+nun vaikea ymmärtää.
+
+Liikkumiseen liittyvät palvelut tässä maassa ovat kieltämättä hajanaisia. Tässä muuta-
+ma viikko sitten törmäsin Joensuussa tilanteeseen, jossa muuan matkustaja epäili, että hän
+ei kerta kaikkiaan saanut tietää keinoa, millä menisi omalle kotipaikkakunnalleen, kun tar-
+jolla ei ollut yhteistä tietoportaalia, mistä hän olisi voinut katsoa, mikä on se paras liiken-
+nemuoto. Siinä tulikin mieleeni, olisikohan hyvä vihdoin näitäkin asioita tarkistella.
+
+Digitalisaatio todellakin kuuluu myös liikennealalle, ja tässä liikennekaaressa on tarkoi-
+tus pitää siitä huoli, että markkinoiden tasapuolisuus pidetään koko ajan mielessä, että ke-
+tään ei lähdetä suosimaan — jos ei lähdetä kyllä sorsimaankaan. Eli tasapuolisuus on hank-
+keen yksi tärkeimpiä lähtökohtia.
+
+Taksiasiasta on, arvoisa puhemies, tässä lähetekeskustelussa puhuttu todella paljon, ja
+onhan se meille kaikille suomalaisille tärkeä asia. Taksipalvelun pitää olla saatavilla tä-
+mänkin hankkeen toteutumisen jälkeen, silloin kun liikennekaari on jo käytännössä. Pal-
+jon on epäileviä puheita, niitäkin toki ymmärrän, mutta kyllähän olemme kuulleet tämän
+keskustelun aikana ministeri Bernerin suulla ja myös monen kansanedustajan suulla, että
+taksipalvelut tässä maassa säilyvät ja niitä kehitetään ja todellakin valvontaakin vielä on.
+Liikennevirasto voi todellakin asioihin puuttua, jos jotain hullua menee. Ei Suomessa ole
+sellaista tilannetta, että viranomaiset eivät liiketoimintaa valvoisi. Sellainenhan ei ole mah-
+dollista järjestäytyneessä yhteiskunnassa.
+
+Liikennelupa tarvitaan edelleen taksiliikennettä harjoittavilta, se on selvä asia. Yrittäjä
+vastaa jatkossa siitä, että ammattikuljettajat ovat ammattitaitoisia, ovat kurssinsa käyneet
+ja ovat kelpo kansalaisia tehtäväänsä hoitamaan. Pitää muistaa myös se, että kun toimitaan
+markkinoilla, niin siellä varmaan pärjäävät ne, jotka hyviä palveluita tarjoavat ja ovat jous-
+tavia, esimerkiksi taksiyrittäjä, jolta sen kyydin saa vaikka yölläkin. Laatuvaatimuksista-
+kin pidetään kiinni, ettei ihan mennä alta riman, kun palveluita on tarjolla. Elikkä sitäkin
+asiaa seurataan, ja markkinat yleensä ovat siinä asiassa parhaita seuraajia. On syytä muis-
+taa myös, että Taksiliitto on tälle uudistukselle näyttänyt vihreää valoa, niin että sitäkään
+duubiota nyt ehkä ei kannata kovin suurella metelillä nostaa esille.
+
+Lopuksi, arvoisa puhemies: Tämä liikennekaari toteutetaan kolmessa eri vaiheessa. En-
+simmäisenä otetaan tieliikenteen sääntelyn uudistaminen. Tavoitteena on hallintoa vähen-
+tämällä ja palveluiden tarjontaa lisäämällä luoda uudet olosuhteet suomalaisessa liiken-
+teessä, ja taksiuudistus on todellakin vain osa sitä.
+
+Toisessa vaiheessa sitten kosketaan tähän ammattipätevyysasiaan. Sen voin sanoa, että
+tuolla ammattipätevyyspuolella tämän päivän Suomessa on kyllä sellainen kirjo erilaisia
+lupia ja erilaisia sääntöjä, että on hyvä, että ne määrävälein käydään läpi ja saadaan turhaa
+byrokratiaa poistettua ja ennen kaikkea selkeytettyä tätä lupajärjestelmää, joka tässä maas-
+sa kieltämättä muistuttaa eräänlaista viidakkoa.
+
+Sitten kolmannessa liikennekaaren vaiheessa on tämä tarkasteluvaihe, elikkä varmistu-
+taan siitä, että liikennekaaren tavoite toteutuu. Mitään lainsäädäntöähän tässä maassa, edes
+perustuslakia, ei ole luotu pysyväksi, vaan sekin elää aina ajan mukaan, ja sitten uudiste-
+40
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+taan uutta liikennekaarta jo siinä vaiheessa, kun se on tullut voimaan. Jos on tarvetta joi-
+hinkin uudistuksiin ja huomataan joitakin epäkohtia, totta kai ne korjataan.
+
+16.44 Jari Ronkainen ps: Arvoisa puhemies! Hallituksen esitys liikennekaareksi on läh-
+tökohdiltaan hyvä. Se tähtää tulevaisuuteen ja pyrkii yhdistämään joukkoliikenteen sau-
+mattomaksi kokonaisuudeksi. Helppokäyttöisyys ja asiakaslähtöisyys ovat avainasemas-
+sa. Eri liikennemuotoja koskeva lainsäädäntö ja markkinoiden sääntely saadaan tällä koot-
+tua yhteen.
+
+Huomiota on kuitenkin kiinnitettävä maa- ja syrjäseudun palveluihin, erityisesti taksilii-
+kenteeseen, joka ei saa heikentyä liikennekaaren myötä. Taksien asemapaikkavelvoitteen
+ja päivystyssääntelyn poistamisen myötä emme toivottavasti joudu ihmettelemään, onko
+maaseudulla kohta enää taksejakaan. Liikenne palveluna eli MaaS-periaatteen mukainen
+liikenne ei välttämättä toimi syrjäseudulla. Se on hyvä ja toimiva ajatus pääkaupunkiseu-
+dulla ja isoissa kaupungeissa, joissa on järjestelmällinen joukkoliikenne ja liikkuvat mas-
+sat suurimuotoiseen toimintaan. Pienemmillä paikkakunnilla liikenteen ketjuttamisessa on
+haasteita. Olisi myös toivottavaa, että kuntien kokonaisvaltaisesti järjestämä joukkoliiken-
+ne olisi etusijalla markkinaehtoiseen nähden.
+
+Suomen Kuljetus ja Logistiikka ry on esittänyt huolensa liikennekaaren epäkohdista.
+Esimerkiksi se, että alle 60 kilometriä tunnissa kulkevat traktorit eivät tarvitse liikennelu-
+paa kuljetustehtäviin, vaikuttaa liikenteen sujuvuuteen ja turvallisuuteen. Lisäksi muutos
+vie työtä jo muutenkin vaikeuksien kanssa painivalta kuljetusalalta. Pienimuotoisen liiken-
+netoiminnan lisääntymisessä on myös harmaan talouden riski.
+
+Valiokunnassa on arvioitava tarkkaan nyt esitetyn liikennekaaren haittoja ja hyötyjä.
+Kilpailun ja hintojen vapauttaminen on toivottava muutos, joka antaa edellytyksiä uuden-
+kaltaiselle yrittäjyydelle, mutta kohtuuhintaisten palveluiden (Puhemies koputtaa) tavoit-
+telusta haja-asutusalueilla on pidettävä kiinni.
+
+16.46 Ari Jalonen ps: Arvoisa puhemies! Liikennekaari kokonaisuudessaan on hyvä.
+Moni debatissa ihmetteli, mihin ovat menneet kaikki ne puheet siitä. Eivät ne ole muuttu-
+neet mihinkään. Perussuomalaiset on koko ajan nähnyt sen erittäin tärkeänä osana, että tak-
+si pysyy lupasäänneltynä. Nimittäin luotettavuus on ehto liikennekaaren syvimmälle ole-
+mukselle, mitä me kaikki haluamme toteuttaa, MaaSille, joka on uudenlainen ajattelutapa
+ja tapa järjestää joukkoliikennettä. Se luotettavuus kiteytyy hyvinkin pitkälle siihen lu-
+paan, ja perussuomalaiset sai tämän läpi: lupaehtoisuus pysyy, mikään ei ole muuttunut pe-
+riaatteessa. Siellä on muutamia isoja kysymyksiä, joihin on selvitettävä vastaus, ja niitä on
+otettava kunnolla.
+
+Se on erittäin tärkeätä, että taksit ovat mukana tässä, koska se on olennainen osa tätä jär-
+jestelmää. Ja vaikka sekä perussuomalaisten että myöskin taksin mielestä nykyinen voi-
+massa oleva määräsäännelty järjestelmä olisi toiminut tässä liikennekaaren ytimessä, niin
+kompromisseja jouduttiin tekemään, ja nyt sitten tässä on lähestulkoon Taksiliiton B-vaih-
+toehto kirjoitettuna, mikä oli myös perussuomalaisten vaihtoehto. 
+
+Tämä on kuitenkin vain osa tätä isoa kokonaisuutta, eli tarvitsee ajatella isompaa kuvaa
+kuin pelkkää taksijärjestelmää. Siitä nyt on ollut suurimmat puheenvuorot ja suuret pu-
+heet, minäkin keskityn siihen kohtaan, mutta tässä on useita eri asioita, kuten esimerkiksi
+raskaan puolen liikennöinti ja esimerkiksi pakettiautot siinä kohtaa. Puhutaan samoista eh-
+41
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+doista, mutta sitten taas yhdessä kohtaa vähän luistetaan, niin että on pikkasen semmoinen
+tarkistamisen paikka. 
+
+MaaS etenee vain siinä tapauksessa, jos se toimii niin luotettavasti, että ihmiset luopu-
+vat omasta autostaan. Ihmiset luopuvat siitä kakkosautosta aluksi ja sitten myöhemmin
+omasta autosta. Se on vasta se kynnys, ja siinä on luotettavuus ja lupaehtoisuus kynnysky-
+symys. Näin ollen pidän perussuomalaisia kyllä suurimpina MaaSin eteenpäinviejinä. 
+
+Tasapuolisiin ehtoihin. Siinä on tosi paljon semmoista, mitä tarvitsee valiokunnassa tar-
+kistella. Seuraavassa liuta esimerkkejä: Mitä tapahtuu rekisteröinnille ammattiliikentee-
+seen, ja sitä kautta, mitä tapahtuu vakuutuksille? Mitä tapahtuu 9—16-paikkaiselle linja-
+autolle? Liikennekaaren mukaan nämä taksijärjestelmän osiot eivät koske sitä, joten siellä
+on epätasapuoliset tilanteet. Samoin veroissa on eroavuuksia, ja pakettiautot tosiaan ovat
+mahdollisesti ulkona koko jutusta sitä kautta, kun ei ole tuota lupaa. Entä taksamittari? Hu-
+huja liikkuu vaikka minkämoisia, mutta kyllä minun näkemykseni mukaan nykyinen tak-
+samittari on se, mikä siellä tulee olemaan tulevaisuudessakin henkilöliikenteessä, mitä
+henkilöautolla suoritetaan. Sitä ohjaa jo ystävämme EU direktiiveillään. Direktiivi muuten
+vaikuttaa sitten myös tuohon traktoriin ja 60 kilometriä suhteessa 40 kilometriin, että ei se-
+kään ole ihan loppuun asti vedetty.
+
+Mitä tarkoittaa pääsääntöinen asemapaikka? Tarkoittaako se sitä, että kuski aloittaa päi-
+vänsä siitä kyseisestä paikasta ja lähtee sitten pois, mikä tekee loven sinne maaseudun pal-
+veluun? Täällä puhuttiin paljon, debatissa jo käytettiin esimerkkinä Kihniötä, joka on Suo-
+men perussuomalaisin kunta. Kun kuski lähtee sieltä, saa sen ensimmäisen kyydin vaikka-
+pa Poriin, niin tämä mahdollistaa sen, että se Kihniön auto jää ajamaan Poriin, ja näin ollen
+tyhjiö on siellä Kihniössä. Nämä ovat niitä, mitä pitää selvittää etukäteen valiokunnassa. 
+
+Etukäteen pitää myös selvittää ja on selvitettävissä taksin hinta. Miten se tulee? Johtaa-
+ko tämä semmoiseen tinkaamiseen, mihin me kaikki olemme joutuneet tottumaan ulko-
+maanreissuilla? Ei kuulosta hyvältä. 
+
+Kuljettajan lupahan on tiukempi kuin nykyvaatimukset, mutta miten se kontrolloidaan?
+Minun näkemykseni mukaan luvan myöntäjän on kontrolloitava, että kuski on niiden lupa-
+ehtojen arvoinen. Eli siellä on myös se palvelupuoli testattu jollakin tasolla jo Trafin toi-
+mesta. Minun mielestäni se ei voi jäädä pelkästään yrittäjän vastuulle. Toki yrittäjän vas-
+tuulle tulee tässä isoa roolia. Isoin asia kuitenkin tässä on tosiaan se, että lupaehtoisuus py-
+syy. 
+
+Mutta johtuen noista edellä mainituista kysymysmerkeistä minä pelkään, että tulee käy-
+mään niin, että maaseutu tyhjenee takseista, palvelu heikkenee, siellä tulee hinnat nouse-
+maan, ja sitten kun kasvukeskuksiin tulee ylitarjontaa autoista, niin tulee olemaan aika pal-
+jon konkursseja. Tämä konkurssiaalto pitäisi jotenkin välttää. Mutta niin tai näin, veik-
+kaan, että se taksi tässä on kuitenkin selviytyjän roolissa, maaseudun asukas ei välttämättä
+ole. Nämä ovat niitä isoja kuvioita. Joten minun johtopäätökseni tästä on se, että tähän pi-
+tää rakentaa jonkinasteinen seurantajärjestelmä, ja jos seurantajärjestelmästä tulee ikäviä
+uutisia, esimerkiksi näitä konkursseja, nousevia hintoja ja saannin hankaloitumista, niin
+siitä pitää tehdä johtopäätökset. Johtopäätös voi olla vaikka se, että palataan nykyjärjestel-
+mään. 
+
+Mutta jos mennään tämänhetkiseen tilanteeseen, niin tämä liikennekaari on iso lakipa-
+ketti, ja siinä on siis vielä monia yksityiskohtia, mitä on hiottava. Tämä ei tule muuttumaan
+tämmöiseksi unelmaksi, mitä tässä nyt ajatellaan, ennen kuin esimerkiksi kaikki aukaise-
+vat ne maksurajapinnat, ja minun mielestäni valtionyhtiön, VR:n, on tehtävä se kiireen
+42
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+vilkkaa ensimmäisenä ja näytettävä mallia muille, jotta saadaan Suomesta joukkoliiken-
+teen kärkimaa ja MaaS toteutuu.
+
+16.55 Hanna Sarkkinen vas: Arvoisa puhemies! Perusajatus liikenteen kokonaisvaltai-
+sesta uudistamisesta ja liikennettä koskevan lainsäädännön yhteenkokoamisesta on hyvä.
+Digitalisaation hyödyntäminen on yksi Merja Kyllösen ministeriaikanaan aloittaman lii-
+kennekaarihankkeen punainen lanka. Digitalisaatio on suuri mahdollisuus tehostaa liiken-
+nepuolen resurssien käyttöä, parantaa matkaketjujen toimivuutta ja liikenneinformaation
+saatavuutta, luoda suomalaisyrityksille uusia liiketoiminta- ja vientimahdollisuuksia sekä
+parantaa liikennepalveluiden asiakaslähtöisyyttä. Parhaimmillaan liikennemuotojen ja lii-
+kenneketjujen saumattomampi yhteensovittaminen ja resurssien yhteenkäyttö voi paran-
+taa joukkoliikennepalveluita. Toiveena on, että uusien julkisen liikenteen palveluiden
+myötä seuraa henkilöautotarpeen vähentyminen ja joukkoliikennepalveluiden säilyminen
+ja jopa parantuminen myös isompien kaupunkien ulkopuolella. On kuitenkin selvää, että
+joukkoliikennepalvelut tarvitsevat jatkossakin julkista rahallista tukea, ja joukkoliikenteen
+tuki on viime vuosina ollut liian matalalla tasolla.
+
+EU on tänään allekirjoittanut Pariisin ilmastosopimuksen. Ilmastonmuutoksen torjumi-
+seksi tarvitaan toimia myös liikennesektorilla. Tarvitaan toimiva ja kattava joukkoliiken-
+nejärjestelmä, yksityisautoilun vähentämistä ja kuljetusten tehokkuuden parantamista sekä
+vaihtoehtoisten liikennepolttoaineiden lisäämistä. Fossiilisista polttoaineista on tulevai-
+suudessa siirryttävä sähköautoihin ja biopolttoaineisiin. Ympäristönäkökulma on tärkeä
+muistaa liikennepolitiikkaa uudistettaessa, ja liikennesektorin päästöjen vähentämisen tu-
+lee olla olennainen näkökulma liikennekaarta työstettäessä.
+
+Arvoisa puhemies! On hyvä, että jakamistalouden muotojen käyttöä mahdollistetaan ja
+olemassa olevat resurssit otetaan nykyistä paremmin hyötykäyttöön. Liikennekaaressa on
+kuitenkin äärimmäisen tärkeää varmistaa, että kaikki liikennetoimialalla toimivat pelaavat
+samoilla pelisäännöillä ja maksavat veronsa asianmukaisesti sekä maksavat palkkansa
+asianmukaisesti. On pidettävä huolta, ettei esimerkiksi pakettijakelun luvanvaraisuuden
+poistaminen johda harmaan talouden lisääntymiseen.
+
+Liikennekaaren ongelmakohta liittyy taksisääntelyyn, kuten täällä on tänään moneen
+kertaan todettu. Kysymys kuuluu, mihin olemassa olevaan ongelmaan tällä taksijärjestel-
+män sääntelyn muutoksella oikein vastataan. En oikein tiedä, mutta enimmäishintasäänte-
+lystä luopuminen tulee todennäköisesti synnyttämään uusia ongelmia. Uhkakuvana on,
+että asiakas joutuu joka kerta tinkaamaan erikseen hinnoista ja ne, jotka eivät osaa tingata,
+joutuvat maksamaan riistohintoja. Hintojen paisuminen erityisesti maaseudulla on varteen-
+otettava riski. Hintasääntelyn poistamisen kokemukset Ruotsista eivät ole ruusuisia, ja toi-
+vottavasti tätä asiaa voidaan valiokuntakäsittelyssä vielä harkita.
+
+Mutta, arvoisa puhemies, vaikka taksisääntelyssä onkin liikennekaaressa ongelmia, niin
+tässä esityksessä on paljon muitakin näkökulmia ja tässä on myös paljon hyvää, mikä on
+myös syytä muistaa.
+
+16.59 Satu Taavitsainen sd: Arvoisa puhemies! Vanhaa lakia kumottaessa ja uutta luo-
+taessa on varmistettava, että kuljetusalalla säilyvät toimivat ja tasapuoliset markkinat. Tätä
+asennetta tarvitaan valiokunnalta ja eduskunnalta sekä taksi- että tavaraliikenteen osalta.
+Tiedon avoin jakaminen sujuvien matkaketjujen aikaansaamiseksi on positiivinen ja kan-
+43
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+natettava tavoite. Liikennekaaren tulee saada aikaan ihmisten arkea helpottavia digitaali-
+sia ratkaisuja. 
+
+Haluan kuitenkin nostaa esille hallituksen esityksessä olevia ongelmia liittyen henkilö-
+ja tavarakuljetuksiin, joihin toivon valiokuntatyöskentelyssä haettavan korjauksia. Jos
+tämä laki tulee tällaisenaan voimaan, on kuorma- ja pakettiauto- sekä traktoriliikenteen
+osalta lopputuloksena kuljetusmarkkinoiden vinoutuminen nykyisten tavaraliikenneluvan
+haltijoiden vahingoksi. Ala on hyvin pääomavaltainen, ja yrittäjillä on kalustossaan kiinni
+miljoonia. Emme kai sellaista seurausta halua, että heidän elinvoimansa heikentyy?
+
+Nykytilaan nähden hallituksen esityksessä on puutteita ja poikkeamia. Poikkeamista osa
+on ilmeisesti tietoisia valintoja, ja jotkut puutteet lienevät jääneet ministereiltä tiedostamat-
+ta etenkin vaikutustensa osalta. 
+
+Ammattimaisen kuljettamisen määritelmä ei ole enää EU-asetuksen mukainen, kun sii-
+hen on lisätty tulonhankkimistarkoitus. EU-asetus lähtee siitä, että ammattimaisen liiken-
+teen osalta liikennelupa tarvitaan, kun täyttyy neljä ehtoa: kuljetuksessa on muuta kuin
+omaa tavaraa, kuljetus tapahtuu tiellä, siitä saadaan korvaus, ja kuljetus tapahtuu autolla tai
+traktorilla. Mikä on tämä tulonhankkimistarkoitus? Entä jos henkilö kuljettaa ilman lupaa
+ja sanoo, ettei hänellä ollut tarkoituksenaan hankkia tuloja? Jos taustalla on tahtotila va-
+pauttaa lupavelvollisuuden piiristä kimppakyydit, niin laissa voitaisiin erikseen määritellä
+vain kulut kattava toiminta.
+
+Liikennekaaressa esitetään myös vapautettavaksi traktoreilla tehtävä kaupallinen tava-
+raliikenne lupavaatimuksista tavalla, joka näyttää olevan vastoin EU:n liikenteenharjoitta-
+ja-asetusta. Liikennekaari edellyttäisi liikennelupaa vasta, kun traktorin rakennenopeus
+ylittää 60 kilometriä tunnissa, mutta EU-asetus asettaa lupavapautuksen rajaksi 40 kilo-
+metriä tunnissa. Ihmettelen suuresti, miksi arvoisa ministeri esittelee lain EU-asetusten
+vastaisesti. 
+
+Liikennekaaren tavoitteena on yhdistää henkilöiden ja tavaroiden kuljettaminen. Miksi
+tässä laissa pakettiautoille ei kuitenkaan sallita henkilökuljetusta samoilla edellytyksillä
+kuin takseille ja linja-autoille sallitaan tavaroiden kuljetus? 
+
+Arvoisa puhemies! On tullut esiin, että liikennekaari ei sisällä voimassa olevan lain mu-
+kaisia soveltamisalaa koskevia poikkeuksia. Tässä lakiesityksessä todetaan, että tavaralii-
+kennelain 7 §:n sisältämät poikkeukset lupavaatimuksista voitaisiin antaa erillisellä valtio-
+neuvoston asetuksella, mutta kun kyse on lain soveltamisalasta, niin tällainen menettely
+kyllä mielestäni loukkaa yksilöiden ja yhteisöjen oikeusturvaa. Eli liikennekaaren tulisi si-
+sältää myös nämä soveltamisalan poikkeukset, ja lähtökohtaisesti niiden tulisi olla sellai-
+set kuin ne ovat voimassa olevassa laissa.
+
+Liikennekaaren sekä sen nojalla annettujen säännösten ja määräysten valvonta ehdote-
+taan otettavaksi pois poliisilta ja Tullilta ja annettavaksi Trafille tehtäväksi. Epäilen kyllä
+Trafin voimavaroja ja osaamista, eikä Trafilla edes ole edellytyksiä tien päällä tapahtu-
+vaan valvontaan, joten kyllä tässä laissa tulee mainita myös poliisin ja tulliviranomaisen
+velvollisuus valvoa lain noudattamista, luvatonta liikennettä sekä kabotaasisäännösten
+noudattamista tien päällä sekä rajanylityspaikoissa.
+
+Arvoisa puhemies! Nykyinen laki sisältää muun muassa seuraavat liikenteessä käytettä-
+vää ajoneuvoa koskevat vaatimukset, joiden rikkomisesta laissa on säädetty rangaistus: On
+velvollisuus ilmoittaa ajoneuvo ammattimaiseen käyttöön ajoneuvoliikennerekisterissä.
+On vaatimus siitä, että ajoneuvo on luvanhaltijan yksinomaisessa hallinnassa, millä on es-
+tetty liikennelupien luovuttaminen toisten käyttöön. Nykyisessä laissa on myös vuokratun
+44
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+ajoneuvon käyttämistä koskevat säännökset ja liikenneluvan haltijan yhteystietoja koske-
+vat merkintävaatimukset. Nämä velvoitteet on liikennekaaresta poistettu. Miksi? Onko tar-
+koitus, että liikennelupaa voi lainata toiselle henkilölle? Ei kai. En ymmärrä, miksi näistä
+vanhoista määräyksistä luovuttaisiin kokonaan. Niiden tulisi olla siellä niin, että liikentees-
+sä käytettävää ajoneuvoa koskevat velvoitteet ja niiden sanktiot mainitaan.
+
+Liikennekaaresta on poistettu tavaraliikennelain 29 §:n velvollisuus esittää muun muas-
+sa ajoneuvossa mukana oleva liikennelupa, kuljetuslupa, kuljettajatodistus, EU-asetuksen
+edellyttämä todistus, vuokrasopimus tai rahtikirja joko paperisena tai sähköisenä osoitta-
+maan kuljetusten laillisuutta ja kabotaasisäännösten noudattamista. Mutta liikennekaares-
+ta on poistettu myös tavaraliikennelain 30 §:n oikeus keskeyttää laiton kuljetus sekä 32 §:n
+sanktiot, joten poliisi ei voi puuttua jatkossa pelkästään EU-asetuksen vastaiseen kuljetuk-
+seen eikä käynnistää rangaistusmenettelyä. Nykyinen kuljetusasiakirjojen esittämisvelvoi-
+te ja kuljetuksen keskeytysoikeus sekä niihin liittyvät sanktiot on oltava tässä liikennekaa-
+ressa. Toivottavasti nämä ovat vain vahingossa sieltä tippuneet.
+
+Liikennekaaressa esitetään, että henkilö, joka tahallaan tai törkeästä huolimattomuudes-
+ta kuljettaa ammattimaisesti henkilöitä tai tavaroita tiellä ilman lupaa, on tuomittava luvat-
+tomasta ammattiliikenteen harjoittamisesta sakkoon tai enintään kuuden kuukauden van-
+keusrangaistukseen. Tässä kohtaa luvattoman liikenteen rangaistuskynnys on esityksessä
+nostettu kyllä poikkeuksellisen korkeaksi, käytännössä tarkoittamaan vain tahallisia teko-
+ja. Tämä ei mielestäni ole oikea suunta, kun kyse on kuitenkin liikennealasta, joka on yksi
+aloista, joilla on ollut eniten ongelmia harmaassa taloudessa. Pelisääntöjen pitää olla reilut
+kaikille yrittäjille, ja ne yrittäjät, jotka eivät maksa verojaan ja työnantajavelvoitteitaan, pi-
+tää saada pois alalta. Tahallisuus on hankala tulkittava siellä tien päällä, mutta jos sanotaan
+yksinkertaisesti "se, joka kuljettaa ilman lupaa", on asia yksiselitteinen. Tällöin tuo ran-
+gaistavuus perustuu tekijän tuottamukseen kuten nykyisessäkin laissa.
+
+Liikennekaari asettaa liikenne- ja viestintävaliokunnalle erityisen velvollisuuden käydä
+huolella läpi esitetyt muutokset ja tehdä liikennekaarta koskevaan hallituksen esitykseen
+kaikki tarvittavat muutokset. Vaatimus korostuu, kun tarkoitus on tehdä useamman vuosi-
+kymmenen ajaksi eri kuljetusmuodot yhdistävä liikenteen markkinalaki, joka kohtelisi yh-
+denvertaisesti kaikkia kuljetusmarkkinoilla toimivia yrittäjiä ja yrityksiä.
+
+Pidän hyvänä nykyistä käytäntöä, että ammattimaiseen tavaraliikenteeseen pitää olla
+lupa ja luvan saa, kun käy neljän viikon kurssin, joka on siis neljä viikkoa viitenä päivänä
+viikossa kahdeksan tuntia päivässä, ja sen lopuksi on tentti. Kurssin suorittamisen lisäksi
+henkilön pitää olla vakavarainen, hyvämaineinen ja täysi-ikäinen. Ihmettelen, jos näistä
+vaatimuksista halutaan luopua. Nythän tämä kurssin käyminen on jäämässä pois ja vain
+tenttiminen jäisi jäljelle. Onko tässä kyse samanlaisesta koulutuksen aliarvioimisesta kuin
+on ollut hallituksen muissakin koulutusleikkauksissa? Itse pidän ammattipätevyyttä liiken-
+nealalla erittäin tärkeänä asiana.
+
+17.09 Jani Mäkelä ps: Arvoisa puhemies! Jo tässä vaiheessa on varsin selvää, että tästä
+liikennekaaren asiasta täytyy käydä aika laaja käsittely liikenne- ja viestintävaliokunnassa,
+eli kyllähän nämä huomiot ovat aivan oikeita, että tämä esitys on joiltain kohdin sanotaan
+nyt diplomaattisesti kysymyksiä herättävä. Mutta eihän tietenkään huono asia ole sekään,
+että eduskunnalle ja sen valiokunnille asiantuntijavaliokuntina tulee valtaa ja mahdolli-
+suuksia vaikuttaa lakiesityksiin. Päinvastoin se, että sitä päästään käsittelemään asiantun-
+tijoita kuullen, on ainakin minun mielestäni hyvä asia. Näin kevennyksenä voisi sanoa, että
+45
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+on ihan hyvä, että SDP:kin yrittää nyt olla edes jonkun yrittäjän puolella. Viime viikot eri-
+laisia yrittäjiä, kuten apteekkareita ja lakimiehiä, on haukuttu vain. Mutta se on hyvä alku,
+jos olette kuljetusyrittäjien puolella. Kenties tämä Suomi tästä nousuun saadaan.
+
+Tässä taksiliikenteen asiassa pitää kysyä: Mistä siinä oikeastaan on kysymys? Minkä ta-
+kia se herättää niin paljon epäluuloja? Miksi taksiliikenne koetaan niin tärkeäksi? Itse nä-
+kisin, että taksiliikenteestä on muodostunut sellainen, voisi sanoa, de facto peruspalvelu
+vähänkin syrjäisemmille seuduille, joilla ei oikeastaan mitään muuta liikennettä käytän-
+nössä nyt ole autottoman liikkua. Koska edelliset hallitukset ovat niin paljon karsineet jul-
+kista liikennettä, ei enää kulje busseja, ja terveyspalvelut ja muut palvelut on siirretty kes-
+kuksiin, keskitetty voimakkaasti, niin jollainhan niihin täytyy mennä, ja nyt sitten siihen
+taksiin takerrutaan, kun ei ole muitakaan keinoja.
+
+Nyt täällä ovat monet maakuntien edustajat pitäneet puheenvuoroja siitä, että he usko-
+vat, että kilpailun vapauttamisen myötä taksien tarjonta voisi jopa parantua maakunnissa.
+Itse uskoisin, että he tietävät, mistä he puhuvat, ja luottaisin aika pitkälle, että he voivat olla
+siinä oikeassakin. Mutta sitten taas jos näin ei olisi, vaan taksien määrä maaseudulla ro-
+mahtaisi tai hinnat nousisivat, niin kyllä meillä täytyy olla vastaukset, miten sellaiseen ti-
+lanteeseen sitten reagoidaan ja miten nämä ongelmat voitaisiin ratkaista. Tässä ei välttä-
+mättä puhuta edes niinkään syvästä maaseudusta, vaan ihan maakuntien, aluekeskusten vä-
+hänkin syrjäisemmistä kulmakunnista — ei siellä välttämättä taksin saatavuus ole itses-
+tään selvää tänäkään päivänä. Eli jotain korjausta siihen on ihan hyväkin tehdä.
+
+Mitä tulee liikenneturvallisuuden ja liikenteen laillisuuden valvontaan, niin kyllä itse
+olen sitä mieltä, että se kyllä kuuluisi poliisille noin viranomaisena ja siihen pitää olla en-
+sinnäkin valtuudet ja toisinnakin resurssit. Elikkä jos ei ole valtuuksia, mitään ei voi tehdä,
+ja jos ei ole resursseja, niin valtuudet eivät käytännössä tule toteutumaan. Ihmettelen itse-
+kin hieman tätä kuviota vastuun siirtämisestä Trafille. Onko siellä edes sellainen henkilö-
+kunta, joka pystyy tällaisen asian valvomaan ja hoitamaan? Tällaisiin täytyy saada vasta-
+ukset.
+
+Myös tämä kysymys siitä, onko jokaisella taskussaan älypuhelin, kun jollain helsinki-
+läisillä vihreillä sellainen on omien puheidensa mukaan tässä salissa: kyllä myöskin ne ih-
+miset, jotka ovat väliinputoajia digitalisaatiossa, joita väistämättä on, täytyy tässä esityk-
+sessä ja sen käsittelyssä huomioida.
+
+Arvoisa puhemies! Kuten aiemmin on todettu, piru asuu yksityiskohdissa, mutta onnek-
+si ainakin valiokunnan puheenjohtajalla, edustaja Jalosella kuulosti puheenvuorossaan ole-
+van hyvä lista näistä yksityiskohdista, joita meidän täytyy yhdessä hioa.
+
+Toinen varapuhemies Arto Satonen: Jatkamme puhujalistaa. P-painikkeella voi varata
+puheenvuoroja.
+
+17.13 Tytti Tuppurainen sd: Arvoisa puhemies! Esitys liikennekaaresta on mittava, kun-
+nianhimoinen ja tärkeä esitys. Liikennesektorilla on Suomen kansantaloudelle aivan erityi-
+nen merkitys: Päämarkkina-alueemme on merten takana. Hyödykkeiden vienti ja tuonti
+vaativat aina järjestelyitä ja aiheuttavat kustannuksia.
+
+Etäisyys ei ole tekijä vain Suomen ja ulkomaailman yhteyksissä. Se on merkittävä tekijä
+myös Suomen sisällä. Suomi on leimallisesti suurten etäisyyksien maa. Liikennesektorin
+kehittäminen, liikenteen tehostaminen, vaikuttaa koko Suomen talouden suorituskykyyn,
+talouden tuottavuuteen. Esityksen mukainen reformi on siksi epäilemättä tarpeellinen.
+46
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Liikennesektori on tärkeä myös muutoin kuin liike-elämälle. Kysymys on palveluiden
+saannista. Kysymys on hyvästä arjesta, lasten pääsystä harrastuksiin, ikäihmisten pääsystä
+hoitoon ja hoivaan, työstä ja vapaa-ajasta. Esityksen mukainen palvelujärjestelmä vaikut-
+taa, ainakin näin ensilukemalta, hyppäykseltä parempaan.
+
+Mutta, puhemies, esityksessä on tietysti myös paljon arvosteltavaa. Taksiliikenteen lu-
+pakäytännön muutos on puhuttanut eniten, mutta kokonaisuudessa on paljon muutakin sel-
+vitettävää. Erityistä huolta kannan Itä- ja Pohjois-Suomen harvaan asuttujen alueiden sel-
+viämisestä julkisen liikenteen tuen niukentuessa.
+
+17.14 Heli Järvinen vihr: Arvoisa puhemies! Pakko jatkaa siitä, mihin edustaja Tuppu-
+rainen jäi, eli nyt sieltä Itä-Suomesta. Kun sieltä maalta tulee pöpelikön perukoilta, niin
+aina tulee ajateltua asioita Savonrannan Rönkönvaaran mummon tai papan näkökulmasta,
+ja tietysti, kun tästä liikennekaaresta alettiin puhumaan aikanaan, ensimmäinen ajatus oli,
+että millä se ainoakin päivystävä taksi sille Rönkönvaaran mummolle kello kolme esimer-
+kiksi nyt vaikka jouluyönä saadaan.
+
+Mutta täytyy vilpittömästi antaa myös tunnustus sille ennakkoluulottomalle lähestymis-
+tavalle, mitä tässä liikennekaaressa on viety eteenpäin. Tässä ajassa ja paikassa tuntuu roh-
+kealta mutta myös todella hyvältä se, että on uskallettu ottaa isoja askelia ja pyritään avaa-
+maan niitä vaikeita rajapintoja niin, että kyytien yhdisteleminen onnistuisi hyvinkin va-
+paasti riippumatta siitä, puhutaanko takseista, busseista, junista vai ratikoista. Tämä avaa
+aivan varmasti uusia liiketoimintamahdollisuuksia toisaalta kuljetusyrittäjille ja toisaalta
+sovellusten kehittäjille. Ja uskon, että tästä vielä saadaan hyvä.
+
+Tilannetta eri puolilla Suomea oikeastaan kuvaa hyvin se, että siinä missä isoissa kau-
+pungeissa uskotaan erilaisten MaaS-palveluiden eli Mobility as a Service -palveluiden ke-
+hittymiseen ja sitä tietä liikennejärjestelmän tehokkuuteen, on se Rönkönvaaran mummo
+siellä hädissään siitä, onko mahdollisuus saada tarvittaessa taksia silloin yhden kerran elä-
+mässä, kun sitä saattaisi tarvita.
+
+Täällä on pidetty aivan loistokkaita puheenvuoroja. Edustaja Kasvi maalaili hienosti sitä
+tulevaisuutta, joka liikenteessä meitä varmastikin odottaa. Kuvaavaa on se, että olemme
+kollegoita samassa puolueessa ja hän joutui kädestä pitäen opastamaan minua, mitä tarkoit-
+taa Valopilkku-palvelu ja kuinka on mahdollisuus taksi tilata pelkällä napinpainalluksella
+ja vielä jopa seurata, miten taksi asiakastaan lähenee. No, oppia ikä kaikki.
+
+Jos pari asiaa saa ottaa tästä esiin, niin ilman muuta tuntuu helpottavalta se, että tässä
+kohtaa kuitenkin yhtiöittämisestä on luovuttu, kymppitonnin vapaista kuljetuksista on luo-
+vuttu, ja toisaalta se, että taksiluvista pidetään kiinni, vaikkakin siitä määräsääntelystä luo-
+vutaan. Olen kysellyt monelta taksilta siellä omalla alueellani siitä, miltä tämä liikennekaa-
+risuunnitelma tuntuu, ja yllätyksekseni vastaanotto on ollut positiivinen. Taksiliiton johto
+on suhtautunut rakentavasti ja myötämielisesti esitettyihin ehdotuksiin, mutta myöskin
+ihan paikalliset taksinkuljettajat ovat ottaneet tämän ikään kuin myönteisenä askeleena. He
+ymmärtävät, että jotain uudistusta ja muutosta pitää tapahtua, ja kokevat, että nyt siihen voi
+olla maltillinen vaihtoehto ja ratkaisu, joten tässä muutoksessa kannattaa olla mukana.
+Olen siitä huolimatta iloinen siitä, että liikennevaliokunnan puheenjohtaja Jalonen ottaa
+vakavissaan huolen siitä, mitä käy taksiyrittäjille etenkin pienillä paikkakunnilla, ja var-
+masti valiokunta antaa tälle arvonsa mukaisen käsittelyn.
+
+Edustaja Taavitsainen toi täällä vahvasti, jopa sanasta sanaan, esiin Suomen Kuljetus ja
+Logistiikka SKAL ry:n huolia. Niistäkin kannattaa valiokunnassa keskustella ja niihin kan-
+47
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+nattaa paneutua, etenkin mitä tulee pakettiautojen kohteluun henkilökuljetusten osalta, toi-
+saalta siihen, miten saadaan traktoriliikenne myöskin EU-asetuksen mukaiseksi, ja toisaal-
+ta sitten siihen, miten tätä lakia ja kabotaasiliikenteen valvontaa tulevaisuudessa jatketaan.
+Siinä on ollut paljon parantamisen varaa jo tähän asti, ja jos valvonta siirtyy poliisilta ja
+Tullilta Trafille, pelätään ongelmia vielä enemmän.
+
+Kun tätä kokonaista liikennekaarta pohtii ja katsoo, niin tulee mieleen, tarvittaisiinko tä-
+hän maahan myöskin työkaari, tarvittaisiinko terveyskaari, yrittäjyyskaari, joissa yhtä en-
+nakkoluulottomasti yhdistettäisiin erilaisia osa-alueita ja toimijoita. Ja jos olen soten oi-
+kein ymmärtänyt, niin tällaista terveyskaarta myös yritetään saada aikaan, jolloin asiakasta
+saataisiin palveltua mahdollisimman monialaisesti alusta loppuun.
+
+Ymmärrän hyvin, että meidän täytyy toisaalta pitää näkökulma vahvasti isoissa kaupun-
+geissa — siinä, miten saadaan järkeä suurten kaupunkien ruuhkiin — mutta toisaalta toi-
+von teidän kaikkien pitävän mielessä sen Savonrannan Rönkönvaaran mummon ja sen, mi-
+ten jonkinlainen palvelu saadaan turvattua jatkossa myös hänelle.
+
+17.20 Hannu Hoskonen kesk: Arvoisa herra puhemies! Vielä pari asiaa jäi mainitsemat-
+ta.
+
+Ensinnäkin tästä taksiasiasta: Todellakin haluttiin lähetekeskustelun alkuvaiheessa luo-
+da kuvaa, että taksiyrittäminen ja taksitoiminta tässä maassa menisi jotenkin holtittomaksi.
+Siitähän missään nimessä ei ole kysymys, ja tämän keskustelun aikana, kuten myös minis-
+teri Bernerin puheenvuorojen aikana, on tullut harvinaisen selväksi, että luvanvaraisuus
+säilyy, laatutason valvonta säilyy ja sitten normaalit viranomaiskontrollit ovat olemassa ja
+veronkierto ei ole mahdollista. Että nämä perusasiat ovat kunnossa, mutta siitä voimme tie-
+tysti kiistellä, onko tämä uudistus sitten oikean mittainen ja oikean suuntainen. Oikean
+suuntainen se on, onko se riittävä, sen aika näyttää. Kuten sanoin tuossa edellisessä pu-
+heenvuorossani, niin tässäkin liikennekaarilakiesityksessä on sitten se kolmas vaihe, jossa
+tarkastetaan niitä toteutettuja toimia, ovatko ne olleet riittävän tehokkaita ja päässeet tavoi-
+teltuun päämäärään.
+
+Yhteentoimivuus on nykyisen julkisen liikenteemme ja taksiliikenteemme ongelma,
+elikkä meidän tulee saattaa näiden eri liikennemuotojen yhteensopivuus ja yhteentoimi-
+vuus sille tasolle, että todellakin matkustaja pystyy esimerkiksi läppäristään taikka känny-
+kästään katsomaan vaihtoehtonsa vaikka esimerkiksi tulla Ilomantsista Joensuun kautta
+Kuopioon, koska se tietohan riittää. On todellakin tänä päivänä surullista, että monella
+matkustajalla lähtiessään vaikka nyt Kuopiosta tulemaan vaikka nyt kohti Kihniötä — joka
+äskeisessä puheenvuorossa mainittiin — todellakin menee sormi suuhun, että mitkä ovat
+ne keinot. Nämähän pitää laittaa kuntoon, että tieto liikkuu ja ihmisille tarjotaan vaihtoeh-
+toja. Siitä kaikki lähtee.
+
+Voin kertoa kuljetuspuolelta erään ystäväni, yrittäjän, tarinan. Hän kuljetti erästä koh-
+tuullisen painavaa esinettä, osti sen toiselta puolen Suomea ja sitten yritti järjestää sille kul-
+jetusta sinne liiketoimipaikkaansa. Se oli varsin merkillinen tarina. Monien monien vaihei-
+den jälkeen ja valtavien puheluruuhkien jälkeen se hinta putosi kolmasosaan ja palvelu no-
+peutui noin viikolla. Elikkä siinäkin tällaisten liikenteellisten digitalisaatiojärjestelmien
+kuntoonsaattaminen auttaa varmasti sen tavarankin ja erilaisten tuotteiden perille menoon.
+Elikkä ei tässä nyt kannata ihan vielä kirvestä kenenkään kaivoon heittää, kyllä tälläkin la-
+kiesityksellä on hyvä ja perusteltu syy, ja emme me voi jäädä tuleen makaamaan siinä, kun
+muu maailma menee ympärillämme. Ei se enää kävele, se paremminkin juoksee.
+48
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Se, että traktorit vapautetaan liikenneluvista, on aivan hyvin perusteltu asia, koska pitää
+muistaa, että maaseudulla moni maanviljelijä tai sitten ihan pelkästään traktoriyrittäjyyttä
+harjoittava yrittäjä tekee sitä työtään kovin pienessä piirissä, että hänen toimintasäteensä
+on kovin pieni. Hän todennäköisesti suorittaa tien lanausta, soran ajoa tai jotain muuta vas-
+taavaa työtä, joka tapahtuu kovin pienessä piirissä, eikä pysty kovin paljon rekka-autojen
+kanssa kilpailemaan. Tämä on ihan järkevää, että niille ihmisille, jotka tämmöistä pieni-
+muotoista yritystoimintaa harjoittavat, suodaan tämä mahdollisuus mahdollisimman pie-
+nellä byrokratialla. On tärkeämpää, että ihminen tekee töitä ja yrittää, kuin se, että odottaa
+byrokratian jonossa jotakin lupaa, mikä sitten johtaa siihen, että hänen elinkeinonsa kärsii
+ja hänen tulotasonsa heikkenee koko ajan.
+
+Demarien huoli on ollut tämän keskustelun aikana erittäin suurta, on siinä jotain perus-
+teltua, en sitä missään nimessä väheksy. Mutta se, mikä minun sydäntäni lämmittää maa-
+seudun ihmisenä, koska asun tuolla kotikunnassani Ilomantsissa edelleen ja voin siellä hy-
+vin, on se, että maaseudun ihmisistä kerrankin kannetaan suurta huolta. Tämän panen suu-
+resti merkille ja näitä sanoja tarkastelen tänä iltana vielä nukkumaan mennessäni sydämes-
+säni, että miten maaseudun ihmisistä kerrankin välitetään. Tämä on erittäin positiivinen
+asia, ja totean, että uskon, että edustaja Heinonenkin, joka saapui juuri saliin, siirtyy siihen
+kansanedustajien joukkoon, joka kantaa suurta huolta maaseudun ihmisten palveluista. To-
+siasiahan on se, että tänä päivänä (Timo Heinonen: Olen aina kuulunut siihen) — tiedän,
+että edustaja Heinonen toimii juuri mainitsemallaan tavalla — taksiliikenne maaseudulla
+toimii kyllä ihan hyvin, mutta se on ongelma, että tämän päivän taksin, joka tuo sen ihmi-
+sen kotiin vaikka nyt terveyskeskuksesta, toimet ovat niin kovin rajattuja, mitä hän siellä
+voi sitten tehdä. Kyllä tässä tarvitsemme tätä lupapolitiikan notkeuttamista ja joustavoitta-
+mista, niin että kyseinen henkilö, taksiyrittäjä, voi tehdä monta muuta asiaa ja siihen taksin
+kuljetukseen voidaan yhdistää monta muuta palvelua. Samoin niin kuin koulukyydissä,
+kun tuodaan vaikka siellä syrjäkylällä oleva lapsi kotiinsa koulusta, kyllä pitää olla mah-
+dollisuuksia, eikä vain sen koulukuljetuksen takia pidä estää sitä, että mitään muuta ei sillä
+reissulla saa ajaa. Kyllä tähän pitää tulla järki, että kun se koululainen on saatettu turvalli-
+sesti kotiin, niin kokonaistaloudellisesti paluukyydissä, jos siinä sattuu jotain muuta kulje-
+tettavaa olemaan, totta kai sen taksiyrittäjän pitää olla mahdollista hyödyntää sekin kulje-
+tuskerta, ettei se mene hukkaan. Siitähän hyötyvät veronmaksajat, koska sitten tätä yhteis-
+kunnan tilaamaa palvelua hoitava yrittäjä pystyy siinä samalla reissulla tekemään monta
+asiaa, jolloin syntyy kokonaissäästöä yhteiskunnalle, ja se nimenomaan näkyy verotuksen
+määrässä.
+
+17.26 Lea Mäkipää ps: Arvoisa puhemies! On hyvä, että täällä on Kihniön takseista kan-
+nettu huolta. Se on ihan paikallansa, että näihin maaseudun oloihinkin puututaan. Mutta me
+olemme jo alustavasti ajatelleet niin, että me olemme ketteriä pieniä kuntalaisia, että me
+emme hyväksykään muita kuin oman kunnan takseja. Päivystyskin on tähän saakka men-
+nyt, ja uskon, että se menee tästä eteenpäinkin, ja taksit eivät siellä omassa kunnassa ole
+suuria palkkoja nauttineet tähänkään mennessä. Että uskon, että tämä hoituu kyllä ihan ket-
+terästi.
+
+Täällä on sanottu, että varmaan valiokunnassa on paljon korjaamisen varaa, mutta alan
+yrittäjiltä on tullut kiitosta suunnitellun pienimuotoisen toiminnan poistumisesta esitykses-
+tä. Pienimuotoisen toiminnan mahdollistamisella olisi luotu alalle kahdet markkinat ja li-
+49
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+sätty varmaan harmaan talouden mahdollisuuksia. Jos kuka tahansa olisi voinut ajaa taksia
+10 000 euron ansaintatasoon asti, meille olisi saattanut muodostua aivan villit halpataksi-
+markkinat, mikä olisi ollut kilpailun vääristämisen lisäksi todellinen turvallisuusriski.
+
+Olemme myös vaatineet, että taksiyrittäjän kotipaikka voi olla vain Suomi. Yrityksellä
+pitää olla suomalainen Y-tunnus, ja auton pitää olla rekisteröitynä Suomeen. On tärkeää,
+että alan toimijat ovat jatkossakin kaikilta osin suomalaisen sääntelyn piirissä. Tästäkin
+ovat taksiyrittäjät kiittäneet, kuten myös siirtymäajan pidentämisestä, mikä tarjoaa mah-
+dollisuuden valmistautua muutoksiin. Liikennekaari tulisi voimaan 1. heinäkuuta 2018.
+Tämä mahdollistaa sen, että alan nykyisillä toimijoilla on riittävästi aikaa mukauttaa toi-
+mintansa uuden lainsäädännön mukaiseksi.
+
+Yksi tärkeimmistä kriteereistä on jatkossakin määritelty pääasiallinen asemapaikka. Nyt
+lakiehdotuksen mukaan toimijoiden olisi ilmoitettava pääasiallinen toiminta-alueensa ja
+palveluaikansa eli käytännössä asemapaikkansa ja päivystysaikansa. Taksi voisi kuitenkin
+uudistuksen myötä jäädä odottamaan kyytiläisiä myös ilmoittamansa asemapaikan ulko-
+puolelta, ja muilta paikkakunnilta voidaan tulla paikkaamaan kysyntää toiselle paikkakun-
+nalle. Asemapaikkasääntelyn ja päivystysvelvoitteen sääntelyn keventäminen on hiukan
+huolestuttanut taksiyrittäjiä, jotka ovat toivoneet tarkennuksia ja kirjauksia, jotta tavoite
+palvelujen turvaamisesta erityisesti haja-asutusalueilla tulisi turvatuksi.
+
+Hallituksen esityksessä on huomioitu taksiliikenteen asiakaskunnan erityisryhmät, jot-
+ka ovatkin suuri osa asiakkaista. Taksinkuljettajaan kohdistuvat poikkeuksellisen tiukat
+soveltuvuusvaatimukset ovat perusteltuja, koska suuri osa asiakkaista on toimintakyvyl-
+tään rajoittuneita ja asiakas on taksissa usein yksin kuljettajansa kanssa. Erityisen tärkeä
+seikka on vaatimus riittävästä vuorovaikutus- ja kielitaidosta. Koska osaamista ei jatkossa
+todenneta kokeilla tai tarkastuksilla eikä kouluttautumista vaadita, on kiinnitettävä huo-
+miota siihen, miten taataan riittävä osaaminen varsinkin erityisryhmien palveluun. Terve
+aikuinen pystyy arvioimaan saamansa palvelun tason ja antamaan palautetta, mutta esimer-
+kiksi lasten, vammaisten ja vanhusten osalta on oltava keinot valvoa kuljettajan soveltu-
+vuutta.
+
+Uusi teknologia ja digitalisaatio avaa monia uusia toimintatapoja ja mahdollisuuksia
+hyödynnettäväksi. Tulevaisuuden liikenteen kannalta olennaista on, että tiedot ja tietojär-
+jestelmät ovat yhteen toimivia ja rajapinnat avoimia. Liikennekaaressa esitetään, että liik-
+kumispalveluja koskevat olennaiset tiedot avataan ja myös lippu- ja maksujärjestelmien
+yhteentoimivuudesta säädetään. Liikennekaari yhdistäisi ja uudistaisi henkilö- ja tavarali-
+ikennettä koskevat säännökset.
+
+Joukko- ja tavaraliikenteen sääntelyyn ehdotetaan merkittäviä kevennyksiä. Pakollises-
+ta yrittäjäkoulutusvaatimuksesta ehdotetaan luovuttavan. Kansallisia lisävaatimuksia pois-
+tettaisiin sieltä, missä toiminta perustuu EU-lainsäädäntöön. Koko liikennejärjestelmän
+uudelleentarkastelu on mittava hanke. Nyt ehdotettavassa ensimmäisessä vaiheessa liiken-
+nekaareen mahdollisuuksien mukaan kootaan ja yhtenäistetään erityisesti tieliikenteen
+säännöksiä.
+
+Liikennepalvelujen ostot ja muu julkinen tuki liikennejärjestelmälle ovat valtion- ja
+kuntataloudessa merkittävä menoerä. Kun palveluja voitaisiin tarjota, yhdistellä ja käyttää
+monipuolisemmin ja tehokkaammin, voitaisiin saavuttaa merkittäviä kustannussäästöjä.
+Esitys tukee hallitusohjelman tavoitteita kuntien kustannusten karsimisesta sekä kilpailu-
+kyvyn vahvistamisesta elinkeinoelämän ja yrittäjyyden edellytyksiä parantamalla.
+50
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+Lopuksi: Niin kuin täällä on sanottu, varmaan on niin sanottu viilaamisen paikka, kun
+tämä esitys lähtee valiokuntaan ja saadaan siellä kuulla asiantuntijoita, ja missä sitten on
+parannettavaa, niitä parannusehdotuksia myös yhteisesti voitaisiin tehdä.
+
+17.32 Satu Taavitsainen sd: Arvoisa puhemies! On kyllä aika epäuskottavaa tämä perus-
+suomalaisten liikuttava taksien puolustaminen. Viime keväänä kun liikennekaarilakiesitys
+oli lausunnolla kunnissa, niin esimerkiksi meillä Mikkelissä annettiin lausuntoa tästä laki-
+paketista — siinähän oli silloin vielä ne kymppitonnin vapaamatkustajatkin — eivätkä
+meillä ainakaan tuolla kenttätasolla perussuomalaiset ollenkaan vastustaneet tätä vaan hy-
+väksyivät aivan mukisematta. Kun asiasta jopa äänestettiin, niin he äänestämällä osoittivat
+olevansa sen alkuperäisen esityksen kannalla. Tästä tämän päivän keskustelusta kun vetää
+yhteen, niin täytyy kyllä todeta, että tässäkin asiassa voidaan laittaa ruksi seinään niitten
+asioitten kohdalla, joissa perussuomalaiset ovat kääntäneet takkinsa. 
+
+Meiltä paikallistasolta on tullut viestiä, että taksien osalta tämän lain suurimpia ongel-
+mia on muun muassa viisi eri tapaa hoitaa taksiliikennettä, joista vain yhteen tarvitaan tak-
+silupa. Taksinkuljettajien ammatillisesta kokeesta ja paikallistuntemuksesta aiotaan luo-
+pua — tätä meidän paikalliset taksit eivät halua. Taksien ja pienten linja-autojen verotus on
+epätasa-arvoisessa asemassa — tätä ei hyväksytä. Taksamittariin liittyvät kysymykset —
+sen on mielestäni pakko olla pakollinen varuste, koska se vastaa muussa liiketoiminnassa
+kassajärjestelmää. Sekä hinnoittelun osalta — kuinka hinnoitellaan, mikä on kohtuutonta?
+Nimittäin 7 000 euroa kuukaudessa tienaavan kohtuus on erilainen kuin 1 200 euroa kuu-
+kaudessa saavan pienituloisen. 
+
+17.34 Timo Heinonen kok: Arvoisa herra puhemies! Hyvät edustajakollegat! Maailma
+muuttuu, ja sen takia on hyvä, että uudistuksia tehdään. Jollain tavalla hämmentyneenä tä-
+nään esimerkiksi luin uutista, että Postin pitää korkeimman hallinto-oikeuden mukaan ja-
+kaa tulevaisuudessakin viitenä päivänä viikossa postit saaristoon sellaiseenkin paikkaan,
+johon ei tällaista päivittäistä, säännöllistä yhteyttä ole olemassa. Tämä maksaa nyt 200—
+500 euroa per kirje, kun sinne se on toimitettava korkeimman hallinto-oikeuden mukaan.
+Tietysti tässä toimitaan lain mukaisesti, mutta ehkä voisi pohtia, olisiko silloin uudistami-
+sen paikka. Mistä tällaiset rahat tulevaisuudessa löytyvät, eli voimmeko me taata sen, että
+tulevaisuudessa esimerkiksi jokaiselle ihmiselle joka ainoa päivä pitää viedä posti, asuu
+hän sitten missä tahansa? Tämä on iso kysymys, ja sen takia on hyvä, että nyt liikennepuo-
+lella ollaan uudistamassa asioita. 
+
+Hallitus päätti siis nyt syyskuussa liikennekaaresta, joka on hanke, jossa puretaan sään-
+telyä ja yhdistetään taksi-, linja-auto- ja tavaraliikenteen lainsäädäntö yhtenäiseksi koko-
+naisuudeksi. Lakihanketta on kehuttu yhdeksi maailman edistyksellisimmistä liikennelain-
+säädännöistä, ja voi todeta, että ei suotta. Liikennekaaren suurin uudistus, niin kuin tuossa
+debatissa jo totesin, on täydellinen ajattelutavan muutos. Tähän päivään asti liikennettä on
+ajateltu, niin täällä kuin ehkä meidän kaikkien ajatuksissammekin, vain välineenä paikasta
+toiseen siirtymiseksi. Jatkossa tämän liikennekaariajattelun myötä liikenne ja liikkuminen
+muuttuvat yhä enemmän kokonaisvaltaiseksi palveluksi. Muutoksen mahdollistajana on
+erityisesti matkojen hinta- ja aikataulurajapintojen avaaminen. 
+
+Meidän kokoomuksen eduskuntaryhmän puheenjohtaja, edustaja Jokinen kuvasi hyvin
+sitä, että kun tämä saadaan toimimaan sillä tavalla kuin on tavoite, että se toimii, niin meil-
+lä on olemassa palvelu, jossa muutamalla klikkauksella ostat liput Kärsämäeltä Korkeasaa-
+51
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+reen, eli yhdellä sovelluksella pystytään tämä kokonaisuus hoitamaan ja saamaan yhtenäi-
+nen kuljettamisen ketju, on sitten kyse ihmisistä, paketeista, ehkä tulevaisuudessa siitä pos-
+tistakin, mihin tuossa edellä viittasin, ja monesta muusta. 
+
+Itse en ole Uberin puolustaja sen takia, että tiedän, että siihen sisältyy runsaasti veron-
+kiertoa ja tämän tyyppisiä kysymyksiä, mutta me tarvitsemme laillisen mallin, joka hyö-
+dyntää samalla tavalla tämän päivän teknologiaa kuin Uber hyödyntää, mutta niin, että sii-
+tä maksetaan verot Suomeen. Sekin tässä esityksessä on hyvää, että tässä on selkeät kir-
+jaukset näiden toimijoiden kuulumisesta suomalaisen verotuksen piiriin. 
+
+Pienelle henkilökuljetusyrittäjälle voi löytyä yllättävästikin uutta liiketoimintaa, kun
+hän yhdistää oman palvelunsa laajempaan kokonaisuuteen, ja itse uskon, että liikennekaari
+on hyvä, mahdollistava esimerkki uudistuksesta, joka ei ainoastaan kehitä nykyistä vaan
+luo valtavan potentiaalin aivan uudenlaiselle liiketoiminnalle. Liikenne- ja viestintäminis-
+teriö on arvioinut, että liikennekaari voisi luoda jopa 18 000 työpaikkaa, ja joissain arvi-
+oissa on puhuttu vielä suuremmista määristä, kun kokonaisuus lähtee toimimaan ja saam-
+me tämän kuljettamisen ja liikkumisen kokonaisuuden yhtenäiseksi. Tulevaisuuteen on
+varmasti parempi mennä mahdollisuuksien kuin vaikeuksien kautta, ja siksi liikenteen uu-
+distaminen on valtavan hieno mahdollisuus, johon on syytä ja järkeä tarttua. Siitä kiitos
+maamme hallitukselle. 
+
+Niin kuin debatissa totesin, kun itse maaseudulta tulen ja olen maaseudun puolta halun-
+nut pitää, niin olen vakuuttunut, kun tämä liikennekaari on nyt valmisteltu keskustajohtoi-
+sesti liikenneministeri Anne Bernerin johdolla, että tässä on näihin huoliin kiinnitetty huo-
+miota. Itse haluan yhtenä isona asiana esille nostaa tämän päivystysvelvoitteen. Voi olla,
+että se toimii niin hienosti kuin edustaja Vartia debat-osuudessa totesi, että kun se ainoa
+taksi siellä Kälviällä on käytössä, niin sieltä löytyykin sitten maatilalta toinen isäntä, jolla
+on myös tällainen lupa, ja hän lähtee ajamaan. Tämä on kaunis ajatus, ja voi olla, että se
+näin toimii tulevaisuudessa. Uskotaan siihen, mutta jos näin ei tapahdu, niin toivon, että tu-
+levaisuudessa on mahdollisuus harkita uudestaan, onko alueita, missä jonkinlaista päivys-
+tysvelvoitetta tarvitaan. 
+
+Maaseutu siis tässä on se, mihin minulla itselläni liittyy suurimmat pohdinnat, mutta niin
+kuin debatissa ja keskustelussa on esille tuotu, niin toki on mahdollisuuksiakin paljon juuri
+siinä, kun voimme yhdistää paketteja, voimme yhdistää ihmisten kuljetusta, koululaisia,
+ikäihmisiä ja kaikkea muuta, joten jos se saadaan hyvin toimimaan, niin uskon, että tässä
+on paljon mahdollisuuksia. 
+
+Iso asia ovat Kela-taksit, jotka tänä päivänä toimivat Suomessa eri tavalla kuin esimer-
+kiksi Ruotsissa, missä on tällaisia isompia sairaalabusseja käytössä, jotka keräävät ihmisiä
+isommalta alueelta. Se ei olekaan enää pelkästään kuljettamista, vaan kuljetetaan sinne lää-
+käriin tai sairaalaan mutta sen matkan varrella voidaan jo bussissa tehdä tiettyjä toimenpi-
+teitä, valmistautua esimerkiksi leikkaukseen taikka joitain kokeita ottaa etukäteen. 
+
+Kun tässä on kyse sähköisestä viestinnästä ja laitteista, niin avaan vielä tuon puhelime-
+ni. Tässä keskustelun aikana sain Oulusta sähköpostin, jossa tuodaan yksi huoli esille, ja
+haluan sen myös pöytäkirjaan kirjauttaa ja valiokunnan käsittelyyn nostaa. Tässä todetaan:
+"Keskustelette juuri liikennekaaresta, ja muun muassa taksit ovat lupineen paljon tapetil-
+la." Henkilö toteaa: "Minua umpisokkona vammaisena kiinnostaa, onko taksiluvan saajal-
+le miten asetettu tietotaitovaatimuksia, vähintään niille, jotka ajavat näitä vammaispalve-
+luajoja. Ainakaan vaikeimpien vammaisryhmien osalta ei ole oikein, että tulee kuljettaja,
+joka ei koskaan ole mahdollisesti kohdannut esimerkiksi vaikeasti liikuntavammaista, um-
+52
+
+
+
+Pöytäkirjan asiakohta PTK 94/2016 vp
+pisokeaa tai niin edespäin. Kai vammaisten turvalliset palvelut taataan jatkossakin? Siitä
+tässä olen huolissani." Tämä on hyvä, juuri tullut kansalaisen huoli, ja toivon, että valio-
+kuntakäsittelyssä näihinkin kysymyksiin vielä otetaan kantaa. 
+
+17.42 Ville Tavio ps: Arvoisa herra puhemies! Edustaja Taavitsainen piti tuossa varsin
+tarmokkaan puheenvuoron, mutta pyydän kuitenkin, edustaja Taavitsainen, voitteko tar-
+kentaa, kun en oikein puheenvuoronne perusteella ymmärtänyt, mistä te tarkalleen ottaen
+mollaatte perussuomalaisia. Siis siitäkö, että olemme puolustaneet taksien kotimaisuutta?
+
+17.42 Jani Mäkelä ps: Arvoisa puhemies! Vähän tähän samaan teemaan kuin edustaja
+Tavio: Täällä on taas käynnissä yksi niistä illoista, kun muut yrittävät hoitaa yhteisiä asioi-
+ta ja sosialidemokraatit toistavat ryhmäkansliansa keksimiä iskulauseita perussuomalais-
+ten haukkumiseksi. Täytyykin ihmetellä, missä on se sosialidemokraattien vaihtoehto. Se
+tuli jo selväksi, että kaikki muutokset ovat huonoja ja taksin nykytilanne pitää säilyttää.
+Mutta miten itse uudistaisitte tätä järjestelmää? Onko edustaja Taavitsaisen mielestä hyvä
+lähtökohta uudistuksille se, että kysytään yhden kaupungin nykyisiltä yrittäjiltä, mikä
+muutos heille ei käy heidän nykyiseen yritystoimintaansa, vai pitäisikö kuunnella myös
+palveluiden käyttäjiä? Onko tämä taas yksi "suklaata yrittäjille" -hanke?
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan, jolle perustuslakivaliokunnan ja talous-
+valiokunnan on annettava lausunto.
+53
+
+

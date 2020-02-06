@@ -1,0 +1,1033 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM68B3.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 130/2018 vp
+
+Täysistunto
+
+Torstai 13.12.2018 klo 16.01—20.35
+
+6. Valtioneuvoston selonteko tietopolitiikasta ja tekoälystä
+Valtioneuvoston selonteko VNS 7/2018 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 6. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään sivistysvalio-
+kuntaan, jolle liikenne- ja viestintävaliokunnan on annettava lausunto. 
+
+Valtioneuvoston esittelypuheenvuoron jälkeen keskustelu käydään etukäteen pyydetty-
+jen puheenvuorojen osalta nopeatahtisena. Ryhmäpuheenvuorojen pituus on enintään 3
+minuuttia, ja muiden etukäteen varattujen puheenvuorojen pituus enintään 5 minuuttia. Pu-
+hemiesneuvosto suosittaa, että myös nopeatahtisen keskusteluosuuden jälkeen pidettävät
+puheenvuorot kestävät enintään 5 minuuttia. Lisäksi myönnän harkitsemassani järjestyk-
+sessä vastauspuheenvuoroja 1 tai 2 minuutin mittaisina.
+
+Lähetekeskusteluun varataan enintään yksi tunti. Asian käsittelyssä noudatetaan aika-
+taulutettujen asioiden osalta sovittuja menettelytapoja. 
+
+Keskustelu
+
+17.11 Kunta- ja uudistusministeri Anu Vehviläinen (esittelypuheenvuoro): Arvoisa
+puhemies! Käsittelyssä on ensimmäinen selonteko tietopolitiikasta ja tekoälystä. Aihetta
+lähestytään selonteossa monipuolisesti etiikan, turvallisuuden, talouden ja yhteiskunnallis-
+ten vaikutusten kautta. Tarkastelu kattaa kansalaisen, julkisen hallinnon ja yksityisen sek-
+torin näkökulmat. Selonteko ja siitä käytävä yhteiskunnallinen keskustelu ovat alku uudel-
+le politiikka-alueelle, tietopolitiikalle.
+
+Aikanaan J. V. Snellman katsoi, että tietoa pitää käyttää isänmaan hyväksi. Jatkan tästä,
+että nyt tietoa tulee käyttää hyvinvoinnin, turvallisuuden ja kilpailukyvyn vuoksi. Tietopo-
+litiikan visiona on, että Suomessa tieto ja teknologia palvelevat ihmistä turvallisesti ja eet-
+tisesti kestävällä tavalla.
+
+Mitä tarkoitamme tietopolitiikalla? Tietopolitiikkaa ovat yhteisesti sovitut periaatteet ja
+linjaukset tietojen tuottamista, hankintaa, liikkumista, avaamista, jakamista, käyttöä, yllä-
+pitoa ja säilyttämistä koskevista toimintatavoista ja menettelyistä. Tietopolitiikalla selkey-
+tetään ne linjaukset ja periaatteet, joilla vahvistetaan kansalaisten hyvinvoinnin, turvalli-
+suuden, talouden, sosiaalisuuden, kulttuurin ja ympäristön kannalta kestävää ja osaavaa
+yhteiskuntaa.
+
+Tietopoliittiset toimet tähtäävät siihen, että suomalaiset uskaltavat omaksua, soveltaa ja
+hyödyntää teknologioita parantamaan elämänlaatua, helpottamaan palveluiden saatavuut-
+ta ja käyttöä sekä tehostamaan kilpailukykyä ja arvonlisäystä. Osaaminen, osallisuus ja
+luottamus ovat avaimia tekoälyn ja tiedon hyödyntämiseen. 
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Selonteko tukee pääministeri Sipilän hallituksen tavoitetta tehdä Suomesta johtava maa
+tekoälyn soveltamisessa ja tietopolitiikassa. Tekoäly tarvitsee laadukasta tietoa, jotta sen
+ratkaisuihin voidaan luottaa.
+
+Suomi on selonteollaan kansainvälisesti edelläkävijä eettisen tietopolitiikan painottami-
+sessa. Tietopolitiikan avulla rakennetaan myös kuvaa Suomesta houkuttelevana tietotalou-
+den toimintaympäristönä. Selonteon linjauksissa nostetaan esiin muun muassa kansalaisen
+oikeuksien vahvistaminen omien tietojen hallintaan ja hyödyntämiseen. Selonteossa ote-
+taan myös kantaa muun muassa robotteihin ja tekoälyjärjestelmiin, jotka tulisi rakentaa
+edistämään hyvinvointia, kunnioittamaan henkilön autonomiaa, yksilöiden perusoikeuk-
+sia ja oikeudenmukaisuuden vaatimuksia sekä välttämään kärsimyksen tuottamista.
+
+Vaikka tekoälyä voidaan edelleen kuvata tukiälyksi, avaa se aivan uusia mahdollisuuk-
+sia tiedon yhdistelyyn ja analyysiin. Voimme tehdä suurista tietomassoista aivan uusia ha-
+vaintoja. Tämä on suuri mahdollisuus, mutta samalla siihen sisältyy merkittäviä riskejä,
+kuten me kaikki tiedämme.
+
+Suomessa tulee arvioida tiedon käyttöön ja tekoälyn hyödyntämiseen liittyviä päätöksiä
+sekä yksityisellä että julkisella sektorilla vahvojen arvopohjasta nousevien eettisten peri-
+aatteiden pohjalta. Kehityksen nopeudesta johtuen emme voi asettaa yksiselitteisiä eettisiä
+sääntöjä, vaan meillä tulee olla käytössä eettinen viitekehys, joka myös kehittyy ja vahvis-
+tuu, kun saamme eri tilanteista käytännön tietoa.
+
+Selonteon myötä Suomeen muodostetaan kantaa, jonka pohjalta Suomi pyrkii myös vai-
+kuttamaan tiedon hyödyntämisen kansainväliseen toimintaympäristöön, sitoumuksiin ja
+sääntelyyn. Suomella on yhdessä muiden EU-maiden kanssa mahdollisuus rakentaa vah-
+voihin eettisiin periaatteisiin pohjaavan tietopolitiikan ja tekoälystrategian avulla kilpailu-
+kykyä.
+
+Selonteon valmistelussa on pyritty mahdollisimman avoimeen ja laajaan yhteistyöhön.
+Selonteon valmisteluun on osallistunut laaja, noin 200 henkilön asiantuntijaverkosto yh-
+teiskunnan eri alueilta. Lausunnot käsiteltiin kahdeksan ministeriön yhteistyönä. Odotuk-
+seni on, että selonteko saa aikaan täällä eduskunnassa sekä laajemmin yhteiskunnassa hy-
+vää keskustelua tiedon ja tekoälyn tulevaisuudesta Suomessa. Selonteon jälkeen tietopoli-
+tiikkatyötä jatketaan tekemällä tiekartta konkreettisista toimenpiteistä tietopolitiikan to-
+teuttamiseksi.
+
+17.16 Aila Paloniemi kesk (ryhmäpuheenvuoro): Arvoisa herra puhemies! Nyt lähete-
+keskustelussa oleva selonteko on konkreettinen askel siihen, miten toimimme datan kans-
+sa: miten tietoja hankimme, jaamme, käytämme ja säilytämme sekä Suomessa että yhteis-
+työssä muiden maiden kanssa. Tiedon, teknologian ja tekoälyn hyödyntämisellä on voima-
+kas vaikutus yhteiskuntaan, palveluihin, yritysten ansaintamalleihin ja meihin ihmisiin.
+Siksi onkin tervetullutta, että Suomi linjaa asiaa jo nyt kansainvälisenä edelläkävijänä. Eri-
+tyisen arvokas on selonteon näkökulma: tiedon hyödyntäminen ja tekoälyn käyttö eettiset
+kysymykset edellä. Selonteossa painotettava ihmislähtöisyys on toivottavasti signaali
+myös yhteistyömaillemme. Teknologian ja sen sovellusten käyttö ovat välineitä. Koneen
+tekemistä ratkaisuista ja datan hyödyntämisestä pitää vastuun säilyä aina ihmisellä.
+
+Arvoisa puhemies! Pari viikkoa sitten julkaistussa keskustan tietoyhteiskuntalinjaukses-
+sa todetaan jo otsikossa, että digi kuuluu kaikille. Tietoyhteiskunnan pitää olla kaikkien
+saatavilla iästä, sosiaalisesta asemasta tai asuinpaikasta riippumatta. Jo tähän mennessä on
+vahvistettu omia oikeuksiamme meitä koskeviin tietoihin. Tämä on omadata-ajattelua, jos-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+sa henkilötietojen hallintaa ja käsittelyä viedään organisaatiokeskeisyydestä ihmiskeskei-
+syyteen. Keskustalaisessa ajattelussa oikeus omaan dataan on digitaalisen ajan ihmisoi-
+keus. Tekoälyllä ja omadatalla saamme parhaimmillaan mahtavat mahdollisuudet oman
+elämänhallinnan, elämänlaadun, terveyden ja hyvinvoinnin parantamiseen.
+
+Arvoisa puhemies! Datan avoimuus, siirrettävyys ja yhteensopivuus vaikuttavat meidän
+kaikkien elämään. Tämä merkitsee meidän jokaisen vastuun lisääntymistä. Olennaista on,
+että kaikkien tietopoliittisista valmiuksista huolehditaan — myös meikäläisten, jotka eivät
+ehkä ole tai halua olla koko ajan teknologisten ratkaisujen aallonharjalla. Erityistä huomio-
+ta ja vaihtoehtoja tarvitaan, elleivät omat valmiudet ole parhaat mahdolliset. Eettisesti käy-
+tettynä tekoälyrobotiikka ja alustatalous luovat kivijalkaa monimuotoiselle, rajat ylittäväl-
+le yritystoiminnalle. Parhaimmillaan nämä mahdollisuudet kompensoivat erinomaisesti
+myös Suomen maantieteellistä sijaintia täällä Euroopan nurkassa. Yhteisistä pelisäännöis-
+tä pitää kuitenkin pystyä päättämään sekä kansallisesti että kansainvälisesti.
+
+Arvoisa puhemies! Vain vahvalla tietopolitiikalla pystymme olemaan myös vahvoja
+päättäjiä, tekemään kerätyn ja analysoidun datan pohjalta oikeita ja oikea-aikaisia päätök-
+siä. Kyse ei ole siitä, haluammeko tietopolitiikkaa, vaan siitä, miten haluamme ottaa sen
+haltuumme.
+
+17.19 Raija Vahasalo kok (ryhmäpuheenvuoro): Arvoisa puhemies! Suurta osaa meistä
+ohjaa joka päivä tekoäly, emmekä edes huomaa sitä. Tekoäly on läsnä, kun haemme tietoa
+Googlesta. Tulevaisuudessa tekoäly voi ajaa autoa puolestamme. Nopean muutoksen ja
+uusien keksintöjen johdosta valtioneuvoston tietopoliittinen selonteko on hyvin tärkeä ava-
+us. Olemme riippuvaisia uudesta teknologiasta. Juuri nyt on viimeinen hetki määrittää ne
+periaatteet, joilla meistä kerättyä tietoa voidaan käyttää. Käytetäänkö sitä meidän hyväk-
+semme vai meitä vastaan? Saammeko valeuutisia vai informaatiota? Suomella on poikke-
+uksellisia vahvuuksia, ja meidän tulee olla edelläkävijä. Onnistuneella tietopolitiikalla voi
+olla valtava taloudellinen arvo. Tekoälyä ja digitalisaation mahdollisuuksia on kuitenkin
+käytettävä kestävällä ja eettisellä tavalla. 
+
+Arvoisa puhemies! Tekoäly tulee, vaikka Suomella ei olisi tietopolitiikkaa. Parin vuo-
+den päästä kukaan ei enää räplää puhelintaan vaan puhuu sille. Jotta tekoäly ja digitalisaa-
+tio palvelevat ihmisten hyvinvointia ja menestystä, tarvitaan luottamusta herättävät peli-
+säännöt. Uhkien lisäksi tekoäly tuo mukanaan myös valtavia mahdollisuuksia. Tulevaisuu-
+dessa esimerkiksi sosiaaliturvajärjestelmän osalta tekoäly mahdollistaa sen, että etuudet
+voidaan maksaa reaaliaikaisesti ja automaattisesti muuttuvien elämäntilanteiden mukaan. 
+
+Joka hallitsee tiedon, hallitsee tulevaisuuden — uuden ajan slogan kertoo, että tietopo-
+litiikka on osa uuden ajan turvallisuuspolitiikkaa. Jokaisen suomalaisen on hallittava tie-
+donlukutaidot. Kyky toimia uuden ajan maailmassa vaatii osaamisen, osallisuuden ja luot-
+tamuksen kehittämistä. Nämä taidot pitää kehittää jo nuorena. Paras tae lasten ja nuorten
+taitojen kehittymiselle on panostaa varhaiskasvatukseen ja koulutien alkupäähän. Yksi-
+kään suomalainen nuori ei saa päästä peruskoulusta ilman riittäviä perustaitoja. Jos ei osaa
+lukea taitavasti, ei myöskään osaa lukea kriittisesti. Uuden oppimisen tarve ei pääty kou-
+lun päättymiseen. Jatkuvasta oppimisesta ja osaamisen päivittämisestä on tehtävä työelä-
+mään uusi normaali.
+
+Arvoisa puhemies! Vaikka tekniikka kehittyy, ihminen pysyy samana iloineen ja mur-
+heineen. Tulevaisuudessa haukumme edelleen huonosti toimivia järjestelmiä ja kiirettä
+töissä. Voimme kuitenkin siirtää rutiinityöt koneille ja keskittyä siihen, missä olemme vah-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+voja ja mitä tarvitaan ihmisyyteen, eettisyyteen ja empaattisuuteen, uusien ajatusten luo-
+miseen, sosiaalisiin suhteisiin ja möhläysten tekemiseen. Tekoäly ja tietotalous ovat hyviä
+renkejä ja vain työkaluja.
+
+Haluan kiittää hallitusta tärkeästä pohjatyöstä. Tekoäly ja digitalisaatio ovat jo osa maa-
+ilmaamme. Tarvitsemme sen kehittämiseen ja ohjaukseen hallintorajat ylittävää tietopoli-
+tiikkaa. Tämä selonteko antaa jatkotyölle tarvittavat lähtökohdat.
+
+17.22 Johanna Ojala-Niemelä sd (ryhmäpuheenvuoro): Arvoisa herra puhemies! Suomi
+ja maailma elävät suuren ja nopean muutoksen keskellä. Teknologinen kehitys ja tekoäly
+leikkaavat läpi yhteiskunnan ja muuttavat niin pankki- ja vakuutussektoria kuin kaupan-
+käyntiä. Tähän liittyy myös tiedon määrän kasvu, sen hallitseminen ja hyödyntäminen.
+
+Lääkäriliitto selvitti terveydenhuollon alan ammattilaisten näkemyksiä tekoälyyn liit-
+tyen. Suurin osa tunsi tekoälyn käsitteenä ja tiesi esimerkkejä sen hyödyntämisestä terve-
+ydenhuollossa. Esteeksi tekoälyn hyödyntämiselle nähtiin kustannukset ja osaamisen puu-
+te, ja sen pelättiin aiheuttavan virhediagnooseja. Tulevaisuudessa tekoälyn kuitenkin odo-
+tetaan tuovan helpotusta hoitopäätösten tekoon, nopeuttavan hoitoprosesseja, pelastavan
+terveydenhuollon ammattilaiset rutiinitöiltä ja vapauttavan aikaa potilaan kohtaamiselle.
+Tekoälyn ei koettu uhkaavan terveydenhuollon ammattilaisten työllistymistä lähivuosina,
+mutta sen nähtiin tuovan muutoksia työn sisältöön ja toimenkuviin. Tekoälyn, uuden työn
+ja alustatalouden maailmassa meidän on varmistettava, että työntekijöiden oikeudet eivät
+tule poljetuiksi. 
+
+Suomen on varmistettava jokaisen kansalaisen digiosaaminen. It-taidot ovat tämän päi-
+vän Suomessa yhtä tärkeitä taitoja kuin kirjoitus- ja lukutaito aikanaan. On arvioitu, että
+miljoona suomalaista on varustettu vajain digitaidoin. Meidän on panostettava mittavaan
+digiosaamisen nostamiskampanjaan ja varmistettava, että tukea on tarjolla. 
+
+Tekoäly on hyvä renki mutta huono isäntä. Tekoälyn kehittyessä keskiössä on aina pi-
+dettävä ihminen. Palveluiden tulee olla asiakaslähtöisiä ja riittävän helppokäyttöisiä. Te-
+koäly ei ole itseisarvo, vaan sen avulla pitää parantaa ihmisten elämää, arkea ja hyvinvoin-
+tia. Tekoälyä voikin kuvata tukiälyksi. Vastuun koneälyn päätöksistä tulee säilyä ihmisel-
+lä. Me ihmiset emme pärjää koneille olemalla enemmän koneita vaan olemalla enemmän
+ihmisiä. 
+
+Selonteossa Suomen uhaksi toimintaympäristössä on kirjattu mittavat koulutukseen ja
+tutkimukseen tehdyt leikkaukset. Näin ei voi jatkua. Jotta pääsemme aallonharjalle tieto-
+politiikan ja tekoälyn hyödyntämisessä, tarvitsemme panostuksia koulutukseen, tutkimuk-
+seen ja kehitykseen. 
+
+Tietopolitiikan lähtökohtana on se, että tieto on kauppatavaraa ja yksilöllä tulee olla ny-
+kyistä enemmän sananvaltaa hänestä kerättyyn tietoon ja sen käyttöön. Keskustelu siitä,
+mitä tiedoilla voi tehdä ja kuka ne viime kädessä omistaa, on tarpeen. Facebook ja Google
+tietävät meistä jo lähes kaiken, mutta sen lisäksi kerätään kansallisestikin tietovarantoja,
+joilla on paljon kaupallista potentiaalia. Oikeus henkilökohtaisiin tietoihin, kuten terveys-
+tietoihin, on aina säilytettävä henkilöllä itsellään. 
+
+Aivan lopuksi, arvoisa puhemies: Suomella pienenä ja ketteränä maana on oiva tilaisuus
+olla tietopolitiikan ja tekoälyn kärkimaita. Suomen EU-puheenjohtajuuskauden lähestyes-
+sä Suomella on tilaisuus ottaa asiassa johtajuus myös Euroopan unionin piirissä. Poliitik-
+kojen tehtävä [Puhemies koputtaa] on luoda sääntelyllä raamit ja vuoropuhelun avulla ar-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+vopohja sen käytölle. Kaikkein tärkeintä on luottamus siihen, että kehitys vie maailmaa
+aina parempaan suuntaan ja kehityksessä pidetään kaikki mukana.
+
+17.26 Matti Torvinen sin (ryhmäpuheenvuoro): Arvoisa herra puhemies! Olemme kuul-
+leet hyviä puheita, yritän pistää paremmaksi.
+
+Teknologia on kehittynyt harppauksin viime vuosikymmenten aikana. Tekoälyn pova-
+taan mullistavan elämämme ja yhteiskuntamme. Käsillä oleva selonteko pureutuu tähän
+ajankohtaiseen teemaan, jossa tieto on nimenomaan valtaa ja merkittävä perusta muun
+muassa liiketoiminnalle. Yhteiskuntamme on yhä enemmän riippuvainen tiedosta ja sen
+pohjalle rakennetuista palveluista. Korkeatasoisen osaamisen merkitys maamme menesty-
+miselle kasvaa.
+
+Me siniset pidämme tärkeänä, että suomalaiseen tieto- ja teknologiaosaamiseen sekä sii-
+hen liittyvään tutkimukseen panostetaan. On huolehdittava siitä, että maamme on houkut-
+televa alan osaajien silmissä ja yritysten on kannattavaa pysyä Suomessa tai tulla Suo-
+meen. Setelitukuilla ja pienillä veroasteilla meistä ei ole kilpailemaan, mutta me voimme
+tarjota turvallisuutta, vakautta ja pohjoismaista hyvinvointia. Jatkossa kestävän kehityk-
+sen rooli viennin ja työpaikkojen turvaamisessa tuleekin kasvamaan. Myös siinä tiedonhal-
+linnan ja koulutuksen merkitys korostuu.
+
+Arvoisa puhemies! Tietojen laajamittaiseen käyttöön liittyy aina hyötyjä, mutta tietysti
+myös riskejä. Tietovuodot ovat arkipäivää, ja ihmiset ovat huolissaan siitä, mihin heistä ke-
+rättyjä tietoja käytetään. Esimerkiksi matkapuhelimen käytön myötä meistä kertyy ja vä-
+littyy valtava määrä erilaista tietoa. Usein nämä tiedot päätyvät kouralliselle kansainväli-
+siä yrityksiä, jotka hallitsevat markkinoita ympäri maailman. Näiden yritysten liiketoimin-
+ta perustuu siis tiedon keräämiseen ja hallinnoimiseen suljetuilla alustoilla.
+
+Me siniset kannatamme selonteossa esitettyä linjausta siitä, että kansalaisten oikeuksia
+omien tietojen hallintaan ja hyödyntämiseen vahvistetaan yhä edelleen. Lisäksi tietoa täy-
+tyisi kerätä enemmän yhteiseen käyttöön, jotta kaikki valta ei valuisi suuryhtiöille. Näiden
+määräävää markkina-asemaa vastaan on vaikea pienen kotimaisen yrityksen kilpailla. Val-
+tion onkin edistettävä suomalaisten yritysten pärjäämistä kovassa kansainvälisessä kilpai-
+lussa. Meillä on hyviä kotimaisia palveluita, jotka täytyy saada laajamittaiseen käyttöön.
+
+Arvoisa puhemies! Muuttuva, digitalisoituva yhteiskunta herättää myös kysymyksiä sii-
+tä, kuinka pidämme jokaisen mukana kelkassa. Kuinka varmistamme, että jokainen oppii
+käyttämään uusia palveluita ja hyödyntämään niiden mahdollisuudet? [Puhemies koput-
+taa] Me siniset pidämme tärkeänä, että niiden kansalaisten toiminta yhteiskunnassa turva-
+taan, jotka eivät syystä tai toisesta pysty hyödyntämään näitä digitaalisia palveluita.
+
+17.29 Tom Packalén ps (ryhmäpuheenvuoro): Arvoisa puhemies! Nyt käsittelyssämme
+oleva selonteko tietopolitiikasta ja tekoälystä on huikea mahdollisuus maallemme. On hie-
+noa, että tämä on vihdoin huomioitu todellisena omana toimialanaan. Tämä on sektori, jo-
+hon tulee merkittävästi panostaa yli hallituskausien.
+
+Suomella on alalta pitkät perinteet ja vahva osaaminen. Esimerkiksi Aalto-yliopisto
+kuuluu maailmanlaajuisesti kymmenen parhaan koneoppimistutkimuslaitoksen joukkoon.
+Esimerkkeinä mainittakoon myös Business Finland, joka on tukenut yli sataa suomalaista
+hanketta, jossa käytetään koneoppimiseen perustuvaa tekoälyä. Jotta pystymme säilyttä-
+mään asemamme yhtenä alan johtavista maista, tietoteknisiin ja matemaattisiin taitoihin
+5
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+tulee panostaa merkittävästi enemmän jo peruskoulusta lähtien. Perussuomalaiset näkevät,
+että koulumaailmassa tulisi huomioida oppilaiden lahjakkuudet nykyistä voimallisemmin.
+
+Arvoisa puhemies! Tekoälyyn liittyy paljon pelkoja. Suuri osa peloista on kuitenkin ai-
+heettomia, sillä tekoäly on työkalu ja apuväline niin monille yrityksille ja alan toimijoille
+kuin kansalaisillekin. Käytännössä tämä tarkoittaa, että elämä on monin kohdin helpom-
+paa ja palvelut parempia ja yksilöllisempiä. Toki perussuomalaiset näkevät, että erilaisia
+haasteitakin on ja näihin haasteisiin tulee myös kiinnittää huomiota. Suurin haaste on sii-
+nä, että monessa rutiininomaisessa tehtävässä ihminen ei pysty kilpailemaan koneen kans-
+sa. Jatkossa valtava määrä siitä työstä, jota tähän asti on tehty ihmistyönä, tulee siirtymään
+koneiden tekemäksi. Tämän johdosta perussuomalaiset näkevät, että elinikäistä oppimista
+tulee tukea ja aikuiskoulutusta kehittää vastaamaan tulevaisuuden haasteita.
+
+Arvoisa puhemies! Tekoäly vaatii toimiakseen suuria määriä laadukasta dataa. Tällä
+hetkellä ongelma on se, että eri hallinnon alat ovat järjestelmiltään siiloutuneet ja datan laa-
+tu on heikkoa. Tehokas raportointi nykyisillä järjestelmillä on jokseenkin mahdotonta.
+Kun haluttaisiin kattava ja tosiasioihin nojaava raportti vaikkapa maahanmuuton todelli-
+sista kustannuksista, vaatisi tämäkin järjestelmien uudistamista. 
+
+Jotta tekoälyä pystytään hyödyntämään, tarvitaan kokonaan uudenlaista ajattelua ja tie-
+tojärjestelmien sekä tietokantojen uudelleen rakentamista. Se tulee vaatimaan myös jonkin
+verran lainsäädännöllisiä ja hallinnollisia muutoksia, joissa tulee ottaa huomioon myös
+anonymiteetti ja tietosuojavaatimukset. Tämä kaikki maksaa rahaa, mutta tähän kannattaa
+sijoittaa, sillä hanke on joka tapauksessa tehtävä. On siis kysyttävä, olemmeko me tässä en-
+simmäisessä aallossa mukana vai vasta jälkijunassa, jolloin ratkaisut tulevat maksamaan
+paljon enemmän.
+
+Arvoisa puhemies! Kuten alussa totesin, tämä on todellinen mahdollisuus. Tähän tulee
+tarttua jämäkästi. Tästä voi tulla maallemme uusi Nokia.
+
+17.33 Olli-Poika Parviainen vihr (ryhmäpuheenvuoro): Arvoisa puhemies! Tekoälyn
+vyöryä ja voittokulkua on ennustettu pitkään. Kun kehitys näyttää vääjäämättömältä, on
+esitettävä tärkeitä kysymyksiä. Tietopoliittisella selonteolla on pyritty vastaamaan moniin
+näistä.
+
+Suomen asema on toisaalta hyvä, toisaalta haastava. Eurooppa kokonaisuudessaan on
+jäämässä takamatkalle Kiinan ja Yhdysvaltojen vetäessä kehitystä. Toisaalta Suomessakin
+on paljon osaamista, josta voi olla vielä suuresti hyötyä.
+
+Kansalliset haasteemme ovat keskeisesti kahdenlaisia: yhtäältä se, pystymmekö kehittä-
+mään ja ylläpitämään tarvittavaa korkean tason osaamista ja tutkimusta, ja toisaalta moni-
+naiset eettiset kysymykset. 
+
+Suomen mahdollisuudet hyötyä tulevaisuuden tekoälykehityksestä nojaavat korkeaan
+osaamiseen, jota maastamme on löydyttävä tulevaisuudessakin. Tiedämme, että esimer-
+kiksi jatkuvalle oppimiselle ja uudelleenkoulutukselle on suuri tarve. Suomella ei ole va-
+raa säästää koulutuksesta ja tutkimuksesta, vaan niihin on satsattava entistä enemmän. Täl-
+läkin hetkellä meillä on osaavasta ja koulutetusta väestöstä huolimatta pulaa tiettyjen alo-
+jen osaajista, kuten koodareista. Meidän on kyettävä myös houkuttelemaan osaajia ulko-
+mailta.
+
+Satsaukset tutkimukseen ja koulutukseen ovat välttämättömiä myös siksi, että tulemme
+tarvitsemaan laajasti eri alojen osaamista teknologiamurroksessa. llmeisten matemaattis-
+ten, tilastollisten ja tietoteknisten taitojen lisäksi tekoälyn kehitykseen ja yhteiskunnan
+6
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+muutoksiin vastaaminen tarvitsee myös esimerkiksi historian, psykologian, kasvatustietei-
+den, kielten ja yhteiskunnan sekä etiikan tutkimusta ja osaamista.
+
+Tästä pääsemmekin toiseen keskeiseen haasteeseemme: koko tekoälyn kehityksen ja
+yhteiskunnan murroksen etiikkaan. Monesti tekoälyn ja teknologian kehityksestä puhut-
+taessa vallalla on yltiöoptimismi, eikä kehityksen riskejä aina huomioida. Hyvä esimerkki
+on se, miten naiivisti esimerkiksi kansalaisten tietojen käyttöön, tiedon yhdistelyyn ja pro-
+filointiin usein suhtaudutaan — viimeksi valitettavasti valtioneuvoston tulevaisuusselon-
+teossa. On hyvä, että tietopoliittisessa selonteossa on nyt huomioitu mahdollisena tulevai-
+suuden uhkana Suomelle yltiöpositiivinen ja luottavainen suhtautuminen teknologian ke-
+hitykseen. Meidän on huolehdittava parhaamme mukaan siitä, että teknologiamurros on
+Suomen ja koko ihmiskunnan kannalta mahdollisimman suopeaa ja hyödyllistä.
+
+Etenkin Kiinan heittämä haaste Suomelle ja Euroopalle on jättimäinen eikä vähiten sik-
+si, että Kiinassa vaikkapa yksityisyydensuoja tai kansalaisoikeudet eivät ole lainkaan sa-
+malla tasolla kuin meillä. Dataa hyödynnetään lupia kyselemättä. Suomen yhtenä vahvuu-
+tena monesti pidetään kansallista datavarantoamme. Samalla kun potentiaaliamme kannat-
+taa hyödyntää parhaalla mahdollisella tavalla, emme saa alkaa tinkiä ihmisoikeuksien ja
+yksityisyydensuojan kunnioittamisesta. Kansalaisella on oltava oikeus ja mahdollisuus
+päättää datansa käytöstä.
+
+Arvoisa puhemies! Tiedon avoimuus, tekoälysovellutusten laaja mutta eettinen hyödyn-
+täminen ja myös tärkeän tiedon ja infrastruktuurin suojaaminen on määritettävä digitaali-
+sen Suomen peruskiviksi. Samalla meillä on oltava rohkeutta kysyä ja arvioida myös sitä,
+miten nämä muutokset muokkaavat yhteiskuntaamme ja mitä me oikeastaan haluamme:
+miten teknologiamurroksen hyödyt jaetaan kaikille, miten järjestämme verotuksen, mikä
+on suhteemme työhön? Näistä vihreät toivovat keskustelua.
+
+17.36 Jari Myllykoski vas (ryhmäpuheenvuoro): Arvoisa herra puhemies! Keskustelua
+tekoälystä määrittää epävarmuus, joka koskee itse tekoälyn määritelmää. Jotta puurot ja
+vellit eivät mene sekaisin, on hyvä muistaa, että mitkä tahansa sovellukset ja ohjelmat ei-
+vät ole tekoälyä. Tekoälylle olennaista on autonomisuus eli se, että ohjelma toimii itsenäi-
+sesti ilman ihmisen ohjausta ja että se oppii koko ajan parantamaan suoritustaan. 
+
+Saamme jatkuvasti kuulla, että tekoäly tulee viemään valtavan määrän työpaikkoja. Tut-
+kijat eivät ole kuitenkaan varmoja siitä, millä aloilla tai minkälaisissa tehtävissä tämä mur-
+ros tapahtuu. Toisaalta automaatio ja robotisaatio ovat jo mullistaneet työmarkkinoitamme
+valtavasti, ja tätä on tapahtunut vuosikymmenien ajan. 
+
+Emme voi suhtautua tekoälyyn kuuluisana markkinoiden näkymättömänä kätenä, vaan
+meillä pitää olla yhteiskunnallinen visio siitä, mitä tekoäly ja siihen kytkeytyvä työn mur-
+ros tulee olemaan. Vasemmistoliiton visio tavoittelee ihmiselle mielekkäämpää elämää,
+esimerkiksi lyhyempää työaikaa, jota haluamme kokeilla jo ensi vaalikaudella. Koulutus
+on avainsana siinä, jos haluamme olla yhteiskuntana valmis teknologian murroksiin. Riit-
+tävät digitaidot, ohjelmoinnin perustaidot ja ymmärrys nykyteknologian vaikutuksista yh-
+teiskuntaan tulee nähdä osana yleissivistystä. Tähän kuuluu myös kriittinen medialukutai-
+to.
+
+Arvoisa puhemies! Sosiaalinen media on muuttanut maailmaamme enemmän kuin
+olemme osanneet ajatellakaan. Facebook on kerännyt miljardeista käyttäjistään käsittämät-
+tömän määrän tietoa ja myynyt ne kaupallisiin tarkoituksiin. Datan omistajuudesta on tul-
+lut poliittinen kysymys. Sosiaalinen media on valitettavasti myös voimistanut yhteiskun-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+nallisesta eriarvoistumisesta johtuvia jakolinjoja. Tuloksena on, että populistiset, ihmisvi-
+hamieliset liikkeet ovat saaneet merkittävää poliittista valtaa ympäri maailmaa. Ajatte-
+luumme vaikutetaan kanavia pitkin, joiden tarkoitus oli alun perin antaa jokaiselle kansa-
+laiselle ääni, joka yhdistää meitä.
+
+Arvoisa puhemies! Meidän tehtävämme on vaatia vastuuta suurta valtaa käyttäviltä tek-
+nologiajäteiltä ja tarvittaessa reguloida niiden toimintaa. Meidän on myös asetettava visio
+sille, minkälaista maailmaa tekoälyn ja teknologian avulla tavoittelemme. Vasemmistolii-
+tolle se tarkoittaa joustavampaa asiointia, osallisuutta, tehokkaampaa ja ekologisempaa re-
+surssien käyttöä sekä lisääntyvää vapaa-aikaa ja helpompaa arkea.
+
+17.39 Stefan Wallin r (ryhmäpuheenvuoro): Puhemies, talman! Artificiell intelligens, ro-
+botisering, automatisering, digitalisering, blockkedjor, delningsekonomi. Många är de be-
+grepp som illustrerar megatrenderna i det vi i riksdagens framtidsutskott har kallat för ra-
+dikala teknologier. Teknologier som inte bara är framtid utan de är redan här och nu.
+
+En viktig utgångspunkt för vår attityd till dessa trender är att bejaka dem. Förstås kan vi
+också tycka hjärtligt illa om att artificiell intelligens och dessa applikationer — som vi le-
+vande, tänkande människor trots allt själva har uppfunnit — börjat tänka och agera som vi
+människor, fast snabbare, och därför exempelvis stjäl våra jobb.
+
+Ett faktum är ändå är att dessa teknologier finns, och i högsta grad kommer att finnas
+också i fortsättningen. De kommer också att skapa massor med nya jobb. Alltså ska vi ac-
+ceptera det här, inte sticka huvudet i sanden.
+
+Teknologiutvecklingen är ändå ingen naturlag som lever sitt eget liv. Fortfarande hand-
+lar det om att människan nog kan behålla initiativet, styra eller avstyra utvecklingen i öns-
+kad riktning och se till att teknologin förblir dräng och inte blir herre. Men det här betyder
+att utvecklingen måste hanteras och definieras också med andra mätare än dem för effek-
+tivitet, produktivitet, snabbhet och inbesparingar. 
+
+Den redogörelse som vi i dag diskuterar anlägger det helt nödvändiga rastret på datasam-
+hället, nämligen det etiska. Vad allt vill vi att teknologin ska göra för oss och vad inte?
+
+Puhemies! Hallituksen selonteko keskittyy aihepiiriin, joka joskus ja ehkä useinkin jää kat-
+veeseen, kun hehkutamme teknologiakehityksen viimeisimpiä innovaatioita. Tämä katvea-
+lue on nimenomaan kehityksen ja eri sovellusten eettinen puoli, joka ei saa eikä voi elää
+omaa elämäänsä erillään ja irrallaan itse teknologiakehityksestä. Sen vaikutuksien arvioin-
+nin eettisestä näkökulmasta on oltava orgaaninen osa itse kehitystyötä. Näppärä diplomi-
+insinööri ei voi ulkoistaa tätä puolta pohdiskelevalle filosofille. Intressi on kuitenkin, tai ai-
+nakin pitäisi olla, yhteinen.
+
+Yhteisiä ovat myös kysymykset siitä, miten pitkälle haluamme kehittää tekoälyä. Onko
+päämääränä, että vempele tekee kautta linjan sellaisia viranomaispäätöksiä, joissa yksilön
+toimeentulo, maahantulo tai hoidontarve on päätöksen kohteena ilman, että ihmisäly, siis
+inhimillinen harkinta, on osallisena? Vai haluammeko, että pitkälle kehittynyt tekotunneä-
+ly, sanokaamme emotionaalinen keinoälykkyys, korvaisi sen puuttuvan inhimillisen teki-
+jän?
+
+Vapaakauppa ei ole säännöistä vapaata kauppaa, vaan kauppaa, jota käydään vapaasti
+sovittujen pelisääntöjen puitteissa. Vähän samalla tavalla valtavalla vauhdilla kehittyvää
+teknologiaa pitää osata käsitellä myös perus- ja ihmisoikeuksien näkökulmasta. Siksi on
+hyvä, että Euroopan neuvosto ja EU nyt valmistelevat eettistä kehikkoa tekoälyn kestäväl-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+le hyödyntämiselle, jossa kohteena ovat vaikutukset yksityisyyteen, ihmisarvoon, kulutta-
+jansuojaan ja syrjimättömyyteen.
+
+Arvoisa puhemies! Näiden huomioidenkin jälkeen on hyvä todeta, että tekoäly ja robo-
+tiikka ovat ehdottomasti [Puhemies koputtaa] Suomen ja suomalaisyritysten menestysteki-
+jöitä. Puhumme tulevaisuudesta, jossa nopeat edelleen syövät hitaat mutta jossa myös vah-
+vasti ihmisarvon [Puhemies koputtaa] jakamattomuuteen uskovat ja kehityksen eettiseen
+arviointiin kykenevät toivottavasti syövät ne, joiden suoraviivaisessa mutteriarvomaail-
+massa ei ole muuta kuin nollaa ja ykköstä.
+
+17.43 Peter Östman kd (ryhmäpuheenvuoro): Arvoisa puhemies, värderade talman! Au-
+tomatiseringen, robotiseringen, den artificiella intelligensen, de kommer att förändra vårt
+samhälle. Förändringen kan kallas för den fjärde industriella revolutionen och kommer på
+flera sätt att vara annorlunda än tidigare.
+
+Elämme jatkuvassa muutoksessa. Tämä käynnissä ja tulossa oleva muutos on jotain sel-
+laista, mitä emme ole ennen kokeneet, mitä tulee muutoksen laajuuteen ja siihen liittyviin
+haasteisiin. Jotta Suomi voisi olla selonteon tavoitteen mukaisesti edelläkävijä, pitää mei-
+dän uudistaa lainsäädäntöä. Emme voi jäädä muutoksen jalkoihin, vaan meidän pitää huo-
+mioida etupainotteisesti lainmuutoksien tarpeet. Lakimuutosten tavoitteena pitää olla yh-
+teiskunnallisen hyödyn varmistaminen. Teknologinen kehitys pitää hyödyntää ja saada sen
+avulla kasvua ja innovaatioita.
+
+Kristillisdemokraattinen eduskuntaryhmä pitää tärkeänä, että edelläkävijyys rakentuu
+ihmis- ja perusoikeuksien, ihmislähtöisyyden ja luottamuksen varaan, aivan kuten valtio-
+neuvosto selonteossaan linjaa. Samaan aikaan on tärkeä tunnistaa ja ratkaista haasteet, jot-
+ka liittyvät tekoälyyn ja digitalisaatioon. Vaikutukset työelämään ovat ehkä merkittävim-
+piä. Häviävätkö työpaikat, vai tuoko uusi tekniikka mukanaan uusia työtehtäviä, ja pysy-
+vätkö ihmiset muutoksen vauhdissa mukana? Sosiaaliturvaa pitää uudistaa ja tulonjakojär-
+jestelmää kehittää.
+
+Arvoisa puhemies! KD-eduskuntaryhmä haluaa tässä keskustelussa nostaa esiin eettiset
+näkökulmat. Se, mihin suuntaan tekoälyä halutaan kehittää ja mihin käyttää, on ihmisten
+käsissä. Teknologiasta ei saa tulla kahle tai toimeentulon viejä, vaan sitä tulee hyödyntää
+ihmisten avuksi. Kun tekoäly oppii tunnistamaan ja matkimaan ihmisten tunteita, tällä voi
+olla myös arvaamattomia vaikutuksia. Tekoäly ja keinoelämä saattavat muuttaa käyttäyty-
+mistämme, ihmiskäsitystämme ja arvojamme enemmän kuin toivoisimme. Tällaiset muu-
+tokset kulttuurissa ja ajattelussa tapahtuvat helposti vaivihkaa, ja niihin havahdutaan vas-
+ta, kun ongelmia alkaa esiintyä. 
+
+Lopuksi: Näinhän on tapahtunut esimerkiksi sosiaalisen median kanssa. Olemme vasta
+nyt ymmärtämässä sitä, miten älylaitteiden jatkuva käyttö vaikuttaa lasten ja nuorten mie-
+liin. Tekoälystä tulee myös merkittävä osa [Puhemies koputtaa] tulevaisuuden sodankäyn-
+tiä, ja nämä skenaariot ovat hyvin pelottavia. Siksi tätä keskustelua tarvitaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Arvoisat edustajat, tälle keskustelulle
+varatusta aikaikkunasta on jäljellä 14 minuuttia. Ehdotan, että tässä vaiheessa käydään ly-
+hyt debatti, tämän aikaikkunan puitteissa oleva, ja sen aluksi myönnän ensimmäisen pu-
+heenvuoron ministeri Grahn-Laasoselle. Josko hänellekin nyt hyvinkin riittäisi se 3 mi-
+nuuttia — varmasti riittää. — Olkaa hyvä.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+17.47 Opetusministeri Sanni Grahn-Laasonen: Kiitoksia, arvoisa puhemies! Riittää
+kyllä. — Ensinnäkin täytyy nostaa esiin se hyvin noussutkin tosiasia, että olemme edistyk-
+sellisten asioiden äärellä, kun tehdään ensimmäistä tietopolitiikkaa koskevaa selontekoa,
+joka kokoaa tätä isoa teemaa ja myöskin tekoälykehitystä, työn murrosta, teknologioita,
+osaamiseen liittyviä kysymyksiä yhteen. Ministeri Vehviläisen johdolla laajassa ministeri-
+kokoonpanossa on tehty tätä valmistelutyötä, ja minusta on hyvä, ottaen huomioon kaikki
+viimeaikaiset tapahtumat kotimaassa ja kansainvälisesti, että tähän teemaan pureudutaan
+nimenomaan poikkihallinnollisesti monista näkökulmista.
+
+Oman sektorini, opetuksen ja koulutuksen, maailmasta haluan nostaa muutaman huo-
+mion esiin.
+
+Ensinnäkin kaiken pohjana ja perustana on se, että meillä kansalaisilla on korkea pohja-
+koulutustaso, jotta voidaan tunnistaa myöskin esimerkiksi semmoiset vaikuttamisyrityk-
+set, valeuutiset, kaikki siihen liittyvä, ja rakentaa osallisuutta yhteiskuntaan ja laajaa luot-
+tamusta. Edellytyksenä on se, että tästä osaamis- ja sivistystasosta ja -pohjasta pidetään hy-
+vää huolta ja kehitetään nimenomaan semmoista kriittistä monilukutaitoa. Uuden opetus-
+suunnitelmankin mukainen uusi käsite, monilukutaito, pitää sisällään kaikenlaisen me-
+diakriittisen lukutaidon kehittymisen, uudenlaiset digitaaliset taidot ja uudenlaiset sisällöt,
+joita pitää kyetä tunnistamaan sosiaalisen median maailmoissa, argoritmeissa, ja myöskin
+sitten kaiken kaikkiaan tekoälykehityksen pohjalla olevat tietovirrat ja datan pohjalla ole-
+vat kaikki ilmiöt ja koko sen pohjan ja perustan, jolloin se ymmärrys ja laaja monilukutaito
+rakentuu koulutusjärjestelmän kautta.
+
+Samoin hallitus on kiinnittänyt huomiota siihen, että tähän uuteen digitaaliseen maail-
+maan myöskin opetetaan sekä koululaisia että aikuisia. Meillä PIAAC-tutkimuksessa, joka
+koskee aikuisten osaamista, on havaittu, että meillä on jopa 600 000 aikuista henkilöä, joil-
+la on heikot perustaidot — puhutaan digitaalisen aikakauden taidoista — ja siitä syystä vii-
+meisessä lisätalousarviossa hallitus lisäsi määrärahoja aikuisten digitaito-ohjelmaan, jota
+kansalaisopistojen kautta, matalan kynnyksen palvelujen kautta pyritään viemään eteen-
+päin, jotta kaikilla kansalaisilla voisi olla osallisuutta myös digitaalisissa palveluissa. Ak-
+tiivisesti tuetaan aktiivista kansalaisuutta tarjoamalla julkiset tiedot, toiminnot, palvelut
+kaikkien esteettömästi saataville, ja erityisesti heikommassa asemassa olevien osallisuu-
+den, kokemusten ja osallistumisen mahdollisuuksia tulee lisätä.
+
+Kaiken tämän päälle tietysti tässä on kysymys myös pitkälti paitsi siitä luotettavasta yh-
+teiskunnan rakentamisesta myös meidän kilpailukyvystä ja siitä, onko Suomi edelläkävi-
+jöiden joukossa. Voin sanoa, että jos yhtenä mittarina on se, miten eduskunnassa asiaa kä-
+sitellään, niin tämä selonteko antaa varmasti sille pohjaa, että voidaan rakentaa edelläkävi-
+jyyttä myös tällä osa-alueella.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja nyt vastauspuheenvuoroihin.
+
+17.50 Merja Mäkisalo-Ropponen sd (vastauspuheenvuoro): Arvoisa puhemies! Eettis-
+ten asioiden huomioiminen tässä selonteossa on erittäin hyvä asia, ja siitä annan kyllä suu-
+ret kiitokset. 
+
+Meidän kannattaa korostaa tätä asiaa myös EU-tasolla, sillä maailmalla on erilaisia int-
+ressejä tekoälyn hyödyntämisen suhteen tällä hetkellä. Kenties hiukan yleistäen voidaan
+sanoa, että USA:ssa sen toivotaan hyödyntävän markkinoita, Kiinassa taas korostuu kan-
+salaisten valvontamahdollisuudet. Tässä ristiriitaisessa tilanteessa on varmasti osittain vai-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+keakin korostaa, että teknologia, siis myös tekoäly, tulee saada palvelemaan ihmistä ja ih-
+misen tarpeita, ja jotta muistaisimme tämän, niin itsekin käytän mieluummin sanaa tukiä-
+ly, ja onneksi löysin sen sanan myöskin tästä selonteosta.
+
+Minun mielestäni Suomen tehtävä olisi muistuttaa näillä kansainvälisillä keskustelua-
+reenoilla, että kaikissa tekoälyä koskevissa toimenpiteissä ja tavoitteissa tulisi kuvata myös
+se, miten ne vaikuttavat ihmisen arkeen ja [Puhemies koputtaa] mitä mahdollisuuksia ja
+uhkia näihin toimenpiteisiin ja asetettuihin tavoitteisiin sisältyy.
+
+17.51 Martti Talja kesk (vastauspuheenvuoro): Arvoisa puhemies! Käsiteltävä asia on
+äärimmäisen tärkeä. Meillä tulee olla yhteinen käsitys siitä, miten esimerkiksi viranomais-
+hallinnossa tietoa voidaan jakaa, miten sitä voidaan levittää julkisille yhteistyökumppa-
+neille, miten edelleen yksityisille yhteistyökumppaneille.
+
+En malta olla ottamatta esille terveydenhuollon ratkaisua, jossa Kanta-tietoarkisto arkis-
+toratkaisuna mahdollistaa myös oman tiedon hallinnan ja katselun Omakanta-periaattei-
+den mukaisesti. Vastaavanlainen omadatan käyttö yhteensovitettuna kansainväliseen, ylei-
+seen tietosuoja-asetukseen mahdollistaa sen, että sillä tavalla meistä kansalaisista tulee
+myös itsemme kehittäjiä terveys- ja sosiaalitoimen osalta. Meitä voidaan tukea omassa sel-
+viytymisessämme omien sairauksiemme kanssa, ja minusta tämänkaltaiset sovellukset tu-
+levaisuudessa tuovat pikavoittoja.
+
+17.52 Sinuhe Wallinheimo kok (vastauspuheenvuoro): Arvoisa puhemies! Se, että Suo-
+mi ja Eurooppa ovat ottamassa tässä nyt ihmislähtöisen ja arvopohjaisen lähestymistavan
+tekoälyn suhteen, on tietenkin hyvin suomalainen ja eurooppalainen ratkaisu, mutta kuten
+edustaja Mäkisalo-Ropponenkin sanoi, välttämättä kaikki muut eivät sitä tee. USA:ssa
+mennään markkinaehtoisesti, Venäjällä, Kiinassa mennään hyvin pitkälle valtiovetoisesti.
+Ja tämähän on juuri se ongelma, että tässä se kehitys eriytyy: jos me teemme tämmöistä ar-
+vopohjaista järjestelmää tänne, niin välttämättä se teknologia ei täällä sitten kehity siihen
+malliin kuin muissa maissa. Mielestäni tämä pitäisi ottaa äärimmäisen suurella vakavuu-
+della huomioon, koska me tarvitsemme tässä globaaleja ratkaisuja, ja tällä hetkellä uskon,
+että globaalit ratkaisut ovat hyvin kaukana tekoälyn kehittymisestä.
+
+17.53 Joakim Strand r (vastauspuheenvuoro): Arvoisa puhemies! Suomen tulee ehdotto-
+masti olla edelläkävijä tekoälyn soveltamisessa.
+
+Finland bör absolut i olika former vara en aktiv tillämpare av artificiell intelligens.
+
+Emme tietenkään voi verrata resurssejamme Kiinaan tai Yhdysvaltoihin, mutta on selvä,
+että meidän on yleisesti lisättävä julkista tki-rahoitusta, erityisesti sellaisissa ekosystee-
+meissä, joissa myös yritykset itse vahvasti ja markkinaehtoisesti panostavat tutkimukseen
+ja kehitykseen. Tekoälyssä ja koneoppimisessa on pohjimmiltaan kyse datan yhdistämises-
+tä ja prosessoinnista, ja tämäkin osaltaan korostaa systeemiajattelun tärkeyttä myös kaikes-
+sa innovaatiopolitiikassa. Yksittäisten yritys- tai projektitukien sijaan tulisi fokusoida glo-
+baalisti pärjääviin klustereihin. Uskon, että se omalta osaltaan myös vie Suomea kohti te-
+koälyn edelläkävijyyttä ja samalla auttaa meitä saamaan Suomeen lisää korkean jalostus-
+asteen vientiteollisuuden investointeja, kuten esimerkiksi Wärtsilän julkistama 200 miljoo-
+nan euron investointi Vaasaan.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+17.55 Katja Taimela sd (vastauspuheenvuoro): Arvoisa herra puhemies! Yhteiskunnan
+teknologisen kehityksen vauhti on huimaa, ja tuo kehitys pohjaa monilta osin digitalisaa-
+tioon, joka mahdollistaa uudenlaisen yritystoiminnan ja uusia tapoja toimia — hyvä niin.
+Tavalliselle kansalaiselle tämä näkyy usein siinä, että tutut palvelut siirtyvät verkkoon. 
+
+Meidän pitää tunnustaa tässä salissa hyvin vahvasti myös digitaalinen osattomuus.
+Kaikki eivät yksinkertaisesti pysty käyttämään niitä kaikkia digitaalisia palveluita, mitä
+yhteiskunnassa täysivaltaisena kansalaisena toimiminen nykyään edellyttää. Se voi tarkoit-
+taa koulutuspalveluita, julkisia palveluita tai välttämättömiä yksityisiä palveluita, kuten
+verkkopankkia. 
+
+Digitalisaation eteneminen on siis sinänsä erittäin kannatettava ja hyvä asia, ja voidaan
+arvella, että kun nykyiset digimaailmassa kasvaneet nuoret polvet ovat eläkeiässä, he pär-
+jäävä ikäihmisinäkin digitaalisten palveluiden maailmassa. Sitä ennen meidän on kuiten-
+kin huolehdittava kaikista niistä ihmisistä ja heidän riittävästä tuesta ja palveluista, jotka
+eivät ole näiden digitaalisten härpäkkeiden ja tämän digitaalisen maailman kanssa sujut.
+Heitä [Puhemies koputtaa] ei ole kovin vähän — aikuisväestöstä on ajateltu olevan jopa
+miljoona.
+
+17.56 Simon Elo sin (vastauspuheenvuoro): Arvoisa puhemies! Kun ajattelee tietoliiken-
+nettä, niin keskeistä on huomioida se, että Suomesta on tulossa solmukohta Aasiaan, kun
+ajatellaan datakaapeleita. Manner-Euroopasta on datakaapeli Suomeen, ja Suomesta suun-
+nitellaan Koillisväylän kautta kaapelia Aasiaan. Tämä on varmasti myös yksi syy poliitti-
+sesti, miksi Kiina on Suomesta kiinnostunut — yksi niistä syistä. 
+
+Suomi on tietysti turvallinen maa, ja meillä on hyvä infrastruktuuri, mutta me emme ole
+ainoa maa, jolla on tällainen tilanne. Ruotsi on meille merkittävä kilpailija. Ruotsissa alen-
+nettiin sähköveroa määrätyille teollisuudenaloille vuonna 2017. Sen jälkeen Facebook on
+laajentanut toimintaansa, Google on varannut uutta tonttia Avestan kaupungista ja Ama-
+zon on ilmoittanut kolmen keskuksen rakentamisesta. Tämä on meille kilpailutekijä, joka
+pitää ottaa huomioon. Suurten keskuksien kohdalla Suomen vero on tällä hetkellä 14-ker-
+tainen ja pienempien keskusten kohdalla 45-kertainen. Toisin sanoen meidän pitäisi saada
+energiaverotus tässä kysymyksessä vähintään Ruotsin tasolle, [Puhemies koputtaa] koska
+se on tärkeä päätöksentekoperuste, kun nämä yritykset esimerkiksi datasaleja perustavat.
+
+17.57 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa herra puhemies! Hyviä vas-
+tauspuheenvuoroja salissa. Niihin on kaikkiin helppo yhtyä. 
+
+Vaikka selonteossa käsitellään tekoälyyn liittyvää eettistä pohdintaa, jää siitä kuva, että
+periaatteet eivät ole meille vielä aivan selvillä. Meidän täytyykin panostaa myös laajennet-
+tuun ymmärrykseen, mitä tulee tekoälyyn ja teknologian yhteiskunnallisiin vaikutuksiin.
+Jos tekoälyä hyödynnetään pääsääntöisesti — ja päätöksenteossa erityisesti — täytyy kan-
+salaisten oikeusturva ja hyvän hallinnon periaatteet asettaa aina etusijalle. Tämä on vasem-
+mistoliiton ehdoton vaatimus.
+
+17.58 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Tämä selonteko
+on erittäin tärkeä ja ajankohtainen. Digitalisaatio, robotisaatio, tietopolitiikka, tekoäly —
+muutos näissä kaikissa asioissa on valtavan nopeaa. Tärkeä kysymys onkin, miten Suomi
+kestää kehityksessä mukana ja miten Suomi voi olla kehityksen kärjessä tulevaisuudessa-
+kin. Se voi olla meille Suomessa myöskin iso mahdollisuus. Muutoksen ytimessä tulee olla
+12
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+ihmisyys ja myöskin sen ihmisyyden kehitystarpeet. Muutoksen keskiössä tulee olla myös-
+kin koulutus, perustaidot ja digitaalisten palveluiden saatavuus. Oikeastaan haluaisin men-
+nä myöskin sinne aivan ytimeen, miten ne digitaaliset palvelut ovat ihmisten saatavissa ja
+miten on mahdollisuus käyttää niitä. Laajakaistat, 5G ja tiedon turvallisuus ja tiedon oi-
+keellisuus — nämä ovat mielestäni tärkeitä tulevaisuudessa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Arvoisat edustajat! Tämä keskustelu
+alkoi itse asiassa vasta 17.11, eli meillä on vielä vähän tässä aikaa. Puhemies kohta vaihtuu
+täällä, mutta meillä on vielä merkityt vastauspuheenvuorot. Totean ne teille, jotka käytitte
+ryhmäpuheenvuorot, elikkä edustajille Paloniemi, Vahasalo, Ojala-Niemelä, Jalonen, Tor-
+vinen, Packalén, Parviainen Olli-Poika, edustaja Stefan Wallin ja edustaja Östman. Ja mi-
+nisteri on pyytänyt ja saanee myöskin vielä puheenvuoron, mutta aika näyttää.
+
+18.00 Aila Paloniemi kesk (vastauspuheenvuoro): Arvoisa puhemies! Aktiiviset digitu-
+kipalvelut voisi koota esimerkiksi Suomi.fi-palvelun alle kaikkien saataville. Vaihtoehtoi-
+nen palvelu on tarjottava niille, jotka eivät voi digipalvelua tuettunakaan käyttää. Erityises-
+ti digipalvelut tulee suunnitella helppokäyttöisiksi. Kolmannella sektorilla ja vapaalla si-
+vistystyöllä on merkittävä rooli digituen tarjoamisessa. Esimerkiksi monilla seniorikansa-
+laisilla on teknologista osaamista ja halua oppia uutta. Digitukea on oltava tarjolla kaik-
+kialla maassa, ja tähän on varmistettava riittävät resurssit. Olen erittäin tyytyväinen, että
+valtiovarainvaliokunnan sivistys- ja tiedejaostokin lisäsi rahaa kirjastoille nimenomaan di-
+gituen ja opastamisen tarpeisiin. Meillä on esityksessä tuolla mietinnössä 860 000 euroa tä-
+hän tarkoitukseen.
+
+18.01 Raija Vahasalo kok (vastauspuheenvuoro): Arvoisa puhemies! Teknologian kehi-
+tys ei saa tapahtua hinnalla millä hyvänsä, vaan meidän pitää huolehtia siitä, että ihmisoi-
+keudet, demokratia ja oikeusvaltio toteutuvat. Esimerkiksi Aasiassa kehitystä vauhdite-
+taan pelkästään talouskasvun ehdoilla ilman ihmisoikeusrajoitteita. Demokratia, ihmisoi-
+keudet ja oikeusvaltion periaatteet ovat osa yhteiskuntamme arvopohjaa, jonka emme saa
+antaa murentua.
+
+Nyt Suomen puheenjohtajuuskaudella Euroopan neuvostossa meillä on itse asiassa tu-
+hannen taalan paikka vahvistaa demokratian ja ihmisoikeuksien toteutumista kaikkialla
+Euroopassa. Meillä on tilaisuus osoittaa johtajuutta ja näyttää eurooppalaiseen malliin, mi-
+ten mahdollistetaan teknologiset innovaatiot ja samalla pidetään huolta ihmisoikeuksien
+toteutumisesta.
+
+18.02 Johanna Ojala-Niemelä sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Oli-
+sin jatkanut tuosta, minkä edustaja Torniainen jo vähän täällä keskustelussa aloitti, eli mi-
+ten Suomesta tehdään tekoälyn kärkimaa ja olemmeko oikeasti mukana tässä kehitykses-
+sä. Välillä tuntuu, että kaikki tekevät jotain, mutta syntyy vain vähän, että on liian laaja
+spektri eri toimijoita.
+
+Ministeri Lintilän asettaman ohjausryhmän ehdotus Suomen tekoälyohjelmaksi on hyvä
+asia, mutta samaan aikaan voi kysyä sitä, olemmeko tietoisia, kuinka Suomi on ulkona sii-
+tä liiketoiminnasta, jota kiinalainen Alibaba tai amerikkalainen Amazon nyt jo pyörittävät.
+Tarvitsemme koulutusohjelman, jotta Suomi pääsee kiinni miljardien eurojen kansainväli-
+siin tulevaisuuden liiketoimintoihin. Voi sanoa, että on syntymässä kyllä iso bisnes, johon
+13
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Suomi on kytkettävä mukaan. Alibaba myy jo Suomeen saman verran tavaraa kuin HOK-
+Elanto, eli tässä on tosi isot mittakaavat. Meillä on hyvät prosessit ja infra, joiden päälle on
+hyvä rakentaa.
+
+18.03 Ari Jalonen sin (vastauspuheenvuoro): Arvoisa puhemies! Yhteiskunnan digitali-
+soitumisen yhteydessä on erittäin tärkeää muistaa tietoturva ja siihen liittyen sitten myös
+yksilönsuoja. Kun me tosiaan tiedämme, että on maita, jotka panostavat huomattavia sum-
+mia tekoälyn kehittämiseen vailla sitä, että ihmisoikeuksista pidetään huolta, ja vastaavasti
+tiedämme, että tulevaisuudessa elämme maailmassa, jossa jääkaappi voi lähettää sinulle
+kauppaan ostoslistan, että sinun liikuntatottumuksillasi ja terveystiedoillasi sinun kannat-
+taisi nyt syödä tänään tämmöistä ruokaa ja tässä on siihen ostoslista, niin tähän liittyy suu-
+ria tietoturvariskejä. Kun olemme myös sen totuuden äärellä, että on valtioita, yrityksiä,
+erilaisia tahoja, jotka pyrkivät laittomasti hakemaan tietoa yhteiskunnan eri osista — tie-
+dustelua ja niin edespäin — niin tietoturvaan on kiinnitettävä erittäin suurta huomiota.
+
+18.04 Matti Torvinen sin (vastauspuheenvuoro): Arvoisa puhemies! Puolueemme aat-
+teen ydin on turvallisuus. Myös nyt käsiteltävässä tiedepoliittisessa selonteossa turvalli-
+suus on tärkeä poikkileikkaava teema. Kyberhyökkäykset, tiedon varastaminen ja infor-
+maatiovaikuttaminen ovat hyvin vakavia uhkia, joihin meidän tulee varautua. Turvalli-
+suus, yksityisyydensuoja ja eettisyys täytyy nostaa keskiöön tietopolitiikassa ja tekoälyn
+hyödyntämisessä. Meidän tulee luoda lainsäädännölliset ja eettiset puitteet, joiden myötä
+riskit saadaan minimoitua. 
+
+Puolustusministeriö nosti lausunnossaan esiin mahdollisuuden nostaa Suomi tunnetuksi
+tekoälyn turvallisuuteen liittyvästä osaamisesta. Tätä kannatamme erityisen lämpimästi.
+Tiedon parempi hyödyntäminen on mahdollisuus meille kaikille, kunhan meidän yhteises-
+tä turvallisuudestamme huolehditaan. 
+
+18.05 Tom Packalén ps (vastauspuheenvuoro): Arvoisa puhemies! Asia on äärimmäisen
+tärkeä, ja koska olen itsekin tekoäly-yrittäjä, tämä aihe on minulle erityisesti läheinen. Te-
+koälyn käytön suurin ongelma on heikko datan laatu monilla aloilla ja erityisesti julkisella
+sektorilla. 
+
+Olisi tärkeää, että yhteiskunta uudistaisi tietojärjestelmänsä ja yhdistäisi niiden tietokan-
+nat vastaamaan tekoälyn aikakautta. Tämä olisi sijoitus, joka maksaisi itsensä moninker-
+taisesti takaisin ja loisi loistavan ekosysteemin kotimaiselle tekoälyteollisuudelle. 
+
+18.06 Olli-Poika Parviainen vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Jat-
+kan hieman eettistä pohdintaa, jota ryhmäpuheessa sivusin. Tämä on myös hyvä selonte-
+ko. On tärkeää, että tällainen tietopoliittinen selonteko on tehty. Kiitos siitä hallitukselle. 
+
+Harva meistä tulee ajatelleeksi, että esimerkiksi Google tietää meistä enemmän kuin to-
+dennäköisesti kukaan läheisistämme tai me itse. Kyseessä on kuitenkin mainosyhtiö tai oi-
+keastaan -konserni, joka kerää meistä tietoa markkinointitarkoituksiin. Se on hyvä esi-
+merkki siitä, millä ehdoilla tekoäly- ja algoritmipolitiikka on edennyt, eli pitkälti kaupalli-
+sista lähtökohdista.
+
+Olisikin hyvä, että ilmeisten kaupallisten sovellutusten lisäksi miettisimme niitä rajan-
+vetoja, missä kaikessa julkisessa toiminnassa on eettistä ja perusteltua käyttää algoritmiik-
+kaa ja tekoälyjä. Hyvä esimerkki on vaikkapa se, että lastensuojelussa meillä tuskin on ti-
+14
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+lannetta, jossa inhimillinen tekijä voitaisiin sulkea pois, mutta toisaalta monia rutiiniasioi-
+ta voi olla. Esimerkiksi Yhdysvalloissa käydään paljon tätä keskustelua tällä hetkellä, ja
+meidän kannattaa ottaa siitä koppi. 
+
+18.06 Stefan Wallin r (vastauspuheenvuoro): Arvoisa puheenjohtaja! Euroopan virtuaa-
+lisesta tulevaisuudesta puhutaan nyt kaikissa EU-pöydissä. Digitaalinen Eurooppa -ohjel-
+ma vuosille 2021—27 ja sisämarkkinaohjelma puhuvat muun muassa digitaalisesta mur-
+roksesta, jossa olisi välttämätöntä investoida tulevaisuuden menestystekijöihin ja vahvaan
+digitalouteen. Puhutaan myöskin pullonkauloista ja todetaan, että EU on jäänyt globaalisti
+jälkeen muista alueista ja tarvitaan ylieurooppalainen strategisempi visio. Tämä ylieuroop-
+palaisuus on siis myöskin hyvin paljon esillä, kun puhutaan tekoälyn eettisestä puolesta. 
+
+Tiedossa on siis se, että Euroopan komissio on mukana valmistelemassa perus- ja ihmis-
+oikeuksiin nojaavaa eettistä kehikkoa tekoälyn kestävälle hyödyntämiselle, jossa tarkastel-
+laan vaikutukset yksityisyyteen, ihmisarvoon, kuluttajansuojaan, syrjimättömyyteen ja
+niin poispäin. Nämä ovat tärkeitä asioita, ja ne kulkevat käsi kädessä — digitalisaatiolla,
+tekoälyllä on valtavia mahdollisuuksia Suomen kaltaiselle maalle — mutta että samalla
+muistetaan se, että jokaisella innovaatiolla, ahaa-elämyksellä on myöskin eettisiä vaiku-
+tuksia, että nämä pysyvät tasapainossa suhteessa toisiinsa. 
+
+Puhemies Paula Risikko: Myönnän vielä kaksi vastauspuheenvuoroa, edustaja Östman ja
+edustaja Mäkisalo-Ropponen, ja sitten ministeri. 
+
+18.08 Peter Östman kd (vastauspuheenvuoro): Arvoisa rouva puhemies! On niin, että di-
+gitalisaatiosta ja tekoälyn käytöstä voi olla suuri hyöty yhteiskunnalle ja kansalaisille oi-
+kein käytettynä. Oli hyvä, että edustaja Wallin otti huomioon nämä eettiset näkökulmat.
+Nimittäin kun tekoäly — sanon ”kun”, en ”jos” — oppii tunnistamaan ja matkimaan ihmi-
+sen tunteita, tällä voi olla arvaamattomia vaikutuksia. Tekoäly saattaa muuttaa käyttäyty-
+mistämme, ihmiskäsitystämme ja arvojamme enemmän kuin me toivoisimme, niin kuin
+painotimme myöskin ryhmäpuheessa. Haluaisin kysyä hallitukselta: miten olette varautu-
+neet mahdollisesti tulevassa lainsäädännössä tähän eettiseen näkökulmaan?
+
+18.09 Merja Mäkisalo-Ropponen sd (vastauspuheenvuoro): Arvoisa puhemies! Tär-
+keää on myös muistaa, että meidän kaikkein keskeisin tavoite on kestävän kehityksen to-
+teutuminen ja ilmaston lämpenemisen ehkäisy. Tekoälyn kehittämisen pitäisi myöskin tu-
+kea Agenda 2030 -toimenpideohjelman tavoitteita, koska ilman politiikkajohdonmukai-
+suutta emme etene kestävän kehityksen tavoitteiden toteutumisessa. Tekoäly ja digitalisaa-
+tio eivät välttämättä edistä kestävää kehitystä, ellei siihen panosteta myöskin ihan tietoi-
+sesti. Eli meidän pitää tähän arvopäämäärään ja tavoitteeseen aktiivisesti pyrkiä ja huomi-
+oida se kaikessa päätöksenteossa yhtenä päätöksenteon kriteerinä, siis myös silloin kun me
+mietimme tekoälysovellusten käyttöä ja hyödyntämistä. Kysyisinkin ministeriltä: miten
+tämä kestävän kehityksen agenda on tässä selonteossa huomioitu?
+
+Puhemies Paula Risikko: Sitten ministerille puheenvuoro, olkaa hyvä. Riittääkö 3 mi-
+nuuttia vai tarvitaanko pidempi?
+15
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+18.10 Kunta- ja uudistusministeri Anu Vehviläinen: Arvoisa puhemies! Muutama
+kommentti:
+
+Ensinnäkin haluan todeta kaiken kaikkiaan, että uusiin teknologioihin — kun puhutaan
+digitalisaatiosta, robotiikasta tai tekoälystä — meillä on ollut liian paljon lähestymistapa-
+na tämmöinen teknologiakärki edellä, ja tätä pitää laajentaa, ja uskoisin, että tätä myös tar-
+koitti edustaja Mäkisalo-Ropponenkin, kun nosti esille tässä kestävän kehityksen. 
+
+Vastaan ensinnäkin tähän teknologia-asiaan, uusiin teknologioihin, että meidän vastuul-
+lamme tässä talossa on se, että me huolehdimme siitä, että me puhumme ja teemme sem-
+moista lainsäädäntöä, että myös kansalaiset ymmärtävät, mistä on kysymys. Että uudet tek-
+nologiat eivät saa olla eliitin harrastus ja elinkeinoelämän ymmärryksen varassa, vaan me
+saamme hyväksyttävyyttä kaikille meidän uusille teknologisille ratkaisuille, kun kansalai-
+set ymmärtävät, mistä näissä on kaiken kaikkiaan kysymys.
+
+Eettisyys on saanut täällä paljon kannatusta, ja täällä on viitattu muun muassa Euroopan
+neuvoston ja komission ajatteluun ja tähän tavallaan eettisen kehikon rakentamiseen. Luu-
+lisin niin, että jos katsotaan Eurooppaa Suomi mukaan lukien, nimenomaan eettiset kysy-
+mykset ovat tällaista länsimaista liberaalidemokraattista arvopohjaa, jotka sopivat meille
+hyvin, ja meiltä löytyvät ne vahvuudet nimenomaan sieltä. Me emme voi kilpailla tekoä-
+lyn tekemisessä Kiinan tai Yhdysvaltojen kanssa, vaan ne meidän vahvuutemme löytyvät
+tekoälyn soveltamisesta, ja tähän liittyvät juuri nämä eettiset kysymykset.
+
+Haluaisin todeta vielä ehkä sen, joka tuolla selonteossakin on sanottu, että eettisyyshän
+ei ole määriteltävissä luonnontieteellisesti, ja kannattaa muistaa, että etiikka on nouseva
+ala. Kun katson vaikka suomalaista valtionhallintoa, niin meillä on aika vähän semmoisia
+bodeja, joissa eettisyyttä tarkastellaan niin kuin erillisesti. Sosiaali- ja terveysalalla on
+ETENE eli eettinen neuvottelukunta, mutta uskoisin, että lähivuosina meille tulee tarvetta
+myös valtioneuvoston piirissä katsoa näitä eettisiä kysymyksiä laajemminkin.
+
+Haluan kiittää tästä keskustelusta. Minusta tämä keskustelu jo on osoittanut, että tälle se-
+lonteolle on eduskunnassa tilaus. Muistutan ehkä siitä, että omassa puheenvuorossani sa-
+noin, että tässä haetaan tällaisia yhteisiä periaatteita ja linjauksia, mutta tämän selonteon
+jälkeen alkaa kunnollinen tiekarttatyö, jossa tehdään sitten kunnon toimenpidelinjauksia
+siitä, miten mennään eteenpäin. Minusta on valtavan tärkeää, että Suomi on kansainvälisil-
+lä foorumeilla erittäin aktiivinen tässä etiikka—tekoäly-asiassa. — Kiitos teille.
+
+Puhemies Paula Risikko: No niin, tässä vaiheessa keskustelu ja asian käsittely keskeyte-
+tään aikataulusyistä. Asian käsittelyä jatketaan tässä istunnossa päiväjärjestyksen muiden
+asiakohtien tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 18.13.
+
+————
+
+Keskustelua jatkettiin kello 20.27.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt jatketaan aiemmin tässä täysistun-
+nossa keskeytetyn asiakohdan 6 käsittelyä.
+16
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+20.27 Kari Kulmala sin: Arvoisa puhemies! Tämä laajapohjaisesti valmisteltu selonteko
+keskittyy tietopolitiikkaan ja tekoälyyn. Hallituksen tavoitteena on, että Suomesta kehit-
+tyy edelläkävijä tekoälyn soveltamisessa ja tietopolitiikassa, ja mielestäni meillä on tähän
+erittäin hyvät mahdollisuudet. Turvallisuus, yksityisyydensuoja ja eettisyys täytyy nostaa
+keskiöön myös tietopolitiikassa ja tekoälyn hyödyntämisessä.
+
+Tietopolitiikka on politiikkatoimia, joilla tiedon hyvää hallintaa ja tehokasta hyödyntä-
+mistä edistetään. Digitalisaation myötä yhteiskuntamme on yhä enemmän riippuvainen da-
+tasta ja sen pohjalle rakennetuista palveluista. Datatalouteen, alustatalouteen ja tekoälyyn
+perustuva liiketoiminta kasvaa hurjaa vauhtia, halusimmepa sitä taikka sitten emme. Suo-
+men tulee ottaa vahva rooli kansainvälisten pelisääntöjen määrittämisessä datataloudelle ja
+tekoälylle. Johtaviin datamaihin, USA:han ja Kiinaan, verrattuna Suomen valtti on eetti-
+nen ja turvallinen tietopolitiikka ja tekoäly. Tekoälylle ei pidä antaa oikeuksia tehdä syrji-
+viä päätöksiä.
+
+Tietojen laajamittaiseen käyttöön liittyy aina myös riskejä. Tietovuodot ovat arkipäi-
+vää, ja olemme huolissamme siitä, mihin meistä kerättyjä tietoja käytetään. On selvää, että
+jatkossa jokaisen mahdollisuuksia päättää omien tietojensa käytöstä tulee lisätä.
+
+Selonteossa tunnistetaan hyvin eettisyyden merkitys, mutta empatia- ja tunnetaitoja sii-
+nä ei käsitellä. Kone ei voi koskaan täysin korvata ihmistä ja ihmisten välistä vuorovaiku-
+tusta, ja ainakin itse pidän tärkeänä, että tietopolitiikkaa linjattaessa huomioidaan paitsi
+eettisyys myös inhimillisyys. Tähän voisi lisätä vielä oikeudenmukaisuuden ja ehdotto-
+masti totuuden.
+
+Kun tekoäly valjastetaan meitä palvelemaan, on palveluita kehitettäessä otettava huo-
+mioon myös meidän tarpeemme. Fyysisen hyvinvoinnin lisäksi on huomioitava myös so-
+siaaliset ja tunne-elämän tarpeet. Tieto- ja teknologiaosaamisen rinnalla on huolehdittava
+myös empatia- ja tunnetaidoista. Näin edistetään ihmisten kokonaisvaltaista hyvinvointia
+teknologian hyödyntämisen lisääntyessä.
+
+Korkeatasoinen osaaminen on aina ollut edellytys maamme menestymiselle. Suomalai-
+seen tieto- ja teknologiaosaamiseen sekä siihen liittyvään tutkimukseen tulee panostaa. Li-
+säksi on huolehdittava siitä, että alan osaajien ja yritysten on kannattavaa pysyä edelleen
+Suomessa ja että maamme on houkutteleva myös ulkomaisten osaajien näkökulmasta.
+Näin ei tällä hetkellä välttämättä ole.
+
+Kaikessa emme pysty kilpailemaan kansainvälisten toimijoiden kesken. Voimme kui-
+tenkin tarjota ja markkinoida muun muassa turvallisuuttamme, vakauttamme ja hyvinvoin-
+tiamme. Korkeatasoinen ja julkisesti tuettu koulujärjestelmä ja terveydenhoito ovat maail-
+man mittakaavassa poikkeuksellisia, samoin se, että meillä lapset voivat kulkea yksin tur-
+vallisesti kouluun. Ei tarvitse mennä kovinkaan kauas Suomesta, kun tällainen ei ole mah-
+dollista.
+
+Kannatan pehmeiden arvojen vaalimista ja sitä, että tietopolitiikkaa laadittaessa linja-
+taan toimista, joiden avulla osaamisesta ja yritysten pysymisestä maassamme huolehdi-
+taan.
+
+20.31 Juha Pylväs kesk: Arvoisa herra puhemies! Tämä tietopoliittinen selonteko on var-
+sin hyvä keskustelunavaus tietopolitiikasta ja siitä, mitä siihen liittyy. Nostaisin keskeisinä
+pointteina tässä neljä eri asiakokonaisuutta.
+
+Ensinnäkin digipalvelut. On varsin tärkeää, että digipalvelut ovat saatavilla kattavasti
+koko maassa. Digipalvelujen ja digitalisaation myötä palveluja pitäisi entistä enempi siir-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+tää sinne, missä on vähempi ihmisiä ja enempi henkilökohtaisia palveluja käyttäviä, joille
+digitalisaation hyödyntäminen ja sähköiset palvelut ovat hivenen vaikeampia käyttää. Nyt-
+hän on linjaus ollut vähän toisen suuntainen, elikkä digitalisaation myötä on palveluita siir-
+retty kasvukeskuksiin ja niiden käyttäjille, jotka tutkimustenkin mukaan ovat ensisijaisesti
+siellä kasvukeskuksissa, on tarjolla niin henkilökohtainen palvelu kuin myös digitaalinen
+palvelu. Sen pitäisi olla toisinpäin.
+
+Digipalvelujen oleellisena asiana tulee olla helppokäyttöisyys. Vanhuksillekin pitää olla
+riittävän yksinkertaiset järjestelmät, että he pääsevät näiden palvelujen pariin myös siellä
+kauempana, missä sitä henkilökohtaista palvelua ei ole.
+
+Digi-infran osalta laajakaistaverkostot ovat erittäin tärkeitä myös siellä haja-asutusalu-
+eella. Langattomat verkot ja laajakaistaverkot eivät sulje toisiaan pois, vaan ne ovat toi-
+siaan täydentäviä, jotta järjestelmä saadaan riittävän kattavaksi, että katveita ja katkeami-
+sia ei ole ja yhteyden säilymistä pystytään turvaamaan.
+
+Jonkun aikaa sitten käsittelimme täällä myös paikkatietopoliittisen selonteon, ja nyt kun
+käsitellään tätä tietopoliittista, niin tässä yhteydessä tietenkin tulee se, kuka omistaa sen
+paikkaan kohdistuvan tiedon ja kuka sen tiedon pystyy hyödyntämään. Tätä ei tässä ole sel-
+västi kirjoitettu auki, että siinä on nyt sitten jatkoselvittelyn tarvetta, miten tämän lisäänty-
+neen tiedonkeruun myötä on sen tarkan tiedon omistus ja kuka sitä voi jatkossa hyödyntää.
+Se on aika oleellinen kysymys, miten se ratkaistaan.
+
+Kaiken a ja o on se, että yksilöllä pitää olla oikeus omiin henkilötietoihin ja omaan da-
+taan, mitä näillä eri järjestelmillä henkilöstä on kerätty.
+
+Keskustelu päättyi.
+
+Asia lähetettiin sivistysvaliokuntaan, jolle liikenne- ja viestintävaliokunnan on annettava
+lausunto.
+18
+
+

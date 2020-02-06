@@ -1,0 +1,353 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMC8C0.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 74/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 74/2019 vp
+
+Täysistunto
+
+Tiistai 3.12.2019 klo 14.01—15.37
+
+9. Hallituksen esitys eduskunnalle laiksi sosiaali- ja terveystietojen toissijaisesta käytöstä 
+annetun lain 50 §:n muuttamisesta
+
+Hallituksen esitys HE 95/2019 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Juho Eerola: Lähetekeskustelua varten esitellään päiväjärjestyk-
+sen 9. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään sosiaali- ja terveysvaliokun-
+taan.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja. 
+
+Keskustelu
+
+14.36 Aki Lindén sd: Arvoisa puhemies! Tämä liittyy niin sanottuun toisiolakiin, joka on
+erittäin merkittävä laki. Sehän on laki, joka säädettiin sitä varten, että kun sosiaali- ja ter-
+veydenhuollon varsinaisessa asiakastyössä kertyy potilas- ja henkilötietoja, niin pitää sää-
+tää tarkasti siitä, minkälaisiin muihin tarkoituksiin näitä tietoja voidaan käyttää — tilas-
+tointiin, seurantaan, viranomaistoimintaan mutta mahdollisesti myös tieteelliseen toimin-
+taan ja uuteen innovatiiviseen liiketoimintaan.
+
+Me puhuimme viime viikolla täällä erään asian yhteydessä, joka tänäänkin on esillä toi-
+sessa käsittelyssä, terveysteknologian merkityksestä. Se on tällä hetkellä vientiarvoltaan
+yli 2 miljardia euroa. Lääketieteelliselle toiminnalle toisiolailla on ollut erittäin suuri mer-
+kitys. Se mahdollistaa ihan uudentyyppisten suurten tietoryhmien käsittelyn ja sitä kautta
+sitten tärkeiden tieteellisten löydösten saamisen. Aikanaan kun tätä lakia valmisteltiin, pu-
+huttiin siitä, että tulisiko koko tästä terveysteknologiasta peräti uusi Nokia Suomelle.
+
+Nyt tässä lakiesityksessä kysymys on siitä, että näiden tietojen käsittely ja jatkojalosta-
+minen vaativat tietenkin resursseja ja sitä vastaavasti pitää voida periä maksuja niiltä tule-
+vilta tietojen käyttäjiltä, ja siitä säädetään tässä pykälässä. Kysymys on arviolta muutaman
+sadantuhannen euron tulosta tietolupaviranomaiselle ja siinä mielessä erittäin tärkeästä
+asiasta. Pidän tätä esitystä hyvin pohdittuna ja valmisteltuna.
+
+Sinänsähän tähän itse aihepiiriin on viime aikoina liittynyt tarpeellista eettistä keskuste-
+lua koskien muun muassa geenitietojen laajaa käyttöä. Siitä oli television ajankohtaiskes-
+kustelukin, viime viikolla muistaakseni, FinnGen-hankkeen yhteydessä.
+
+Tästä tässä on kysymys, ja itse toisiolaki on tärkeä, ja terveysteknologia ja siihen liitty-
+vä tieteellinen tutkimus ja liiketoiminta ovat erittäin tärkeätä.
+
+14.38 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Tässä lakiesityksessä on kysy-
+mys pelkästään teknisestä muutoksesta viime kaudella hyväksyttyyn lakiesitykseen, ja
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 74/2019 vp
+tämä on varmasti ihan hyvä ja tarpeellinen muutos, eikä minulla ole mitään huomauttamis-
+ta tähän asiaan.
+
+Mutta kuten edustaja Lindén tuossa omassa puheenvuorossaan toi esille, me kävimme
+täällä eduskunnassa viime viikolla keskustelua tietosuojavaltuutetun kertomuksesta, ja sil-
+loin käytin puheenvuoron, jossa toin tämän lain valmistelun esille esimerkkinä huonosta
+lainvalmistelusta eli siitä, miten huolimattomasti voidaan käsitellä tietosuojaan liittyviä
+asioita jopa ministeriössä. Eli tämä vain tarkoittaa sitä, että emme ole vielä ymmärtäneet,
+miten vakavasta ja isosta asiasta tietosuojassa on kysymys.
+
+Tämän lain tarkoituksenahan on luoda ajanmukaiset ja yhdenmukaiset edellytykset so-
+siaali- ja terveydenhuollon palvelutoiminnassa syntyvien henkilötasoisten asiakastietojen
+sekä muiden terveyteen ja hyvinvointiin liittyvien henkilötietojen käytölle tilastointiin, tut-
+kimuksiin, kehittämis- ja innovaatiotoimintaan, opetukseen, tietojohtamiseen, viranomai-
+sohjaukseen ja -valvontaan sekä suunnittelu- ja selvitystehtäviin. Siis nämähän ovat kaikki
+todella tärkeitä tavoitteita, ja sinällään ei mitään huomauttamista tähänkään. 
+
+Mutta jos palautamme mieleen sen viime kaudella, siis Sipilän hallituksessa, esillä ol-
+leen alkuperäisen lakiesityksen, niin siinä oli kokonaan unohtunut, tai lähes kokonaan
+unohtunut, nämä tietosuoja-asiat, ja se oli jopa EU:n tietosuoja-asetuksen vastainen. Näi-
+den isojen puutteiden ja virheiden takia lakiesitystä paikkailtiin ja korjailtiin niin paljon,
+että lopulta kysymyksessä oli suurelta osin ihan eri esitys kuin mistä alun perin oli kysy-
+mys. Ilman sosiaali- ja terveysvaliokunnan puuttumista viime kaudella olisi ihmisten tie-
+tosuoja kyllä joutunut ihan vakavaan vaaraan. Haluan vain tämän tuoda esille tässä yhtey-
+dessä, koska toivon, että tällainen toiminta ei toistu ja tietosuojaan liittyvät asiat huomioi-
+daan riittävällä vakavuudella lainsäädäntötyössä jo ennen kuin laki tulee valiokunnan kä-
+sittelyyn, koska siellä on sitten todella vaikeata lähteä näitä isoja muutosasioita viemään
+eteenpäin.
+
+Arvoisa puhemies! Ilmeisesti ja toivottavasti tässä tapauksessa valiokunnan tekemät
+korjaukset olivat sitten riittäviä ja ihmisten tietosuoja ei ole joutunut vaaraan. Jos ministeri
+olisi ollut paikalla esittelemässä tätä lakiesitystä, olisin kysynyt asiaa häneltä. Ymmärrän
+hyvin, että näin teknisluontoisessa lakiesityksessä ministeri ei välttämättä katso olevan ai-
+heellista olla täällä paikan päällä, mutta onneksi täällä on edustaja Lindén nyt paikalla.
+Elikkä toivon, että kenties voisitte viedä nämä terveiset ja keskustelun [Puhemies koput-
+taa] tästä asiasta myöskin sosiaali- ja terveysvaliokuntaan [Puhemies koputtaa] nimen-
+omaan siinä mielessä, että mitä voimme oppia.
+
+14.41 Sari Sarkomaa kok: Arvoisa puhemies! Kyseessähän on tekninen korjaus viime
+eduskuntakaudella hyväksyttyyn merkittävään lainsäädäntöön, jota kutsumme toisiolaik-
+si. Todellakin tämän lain tavoitteena on mahdollistaa koko sosiaali- ja terveydenhuollon
+toiminnassa sekä sosiaali- ja terveysalan ohjaus-, valvonta-, tutkimus- ja tilastotarkoituk-
+sessa tallennettujen henkilötietojen tehokas ja tietoturvallinen käsittely. Lain tavoitteena
+on turvata yksilön luottamuksensuoja sekä oikeudet ja vapaudet henkilötietoja käsiteltäes-
+sä. Laki toi EU:n tietosuoja-asetuksen määräykset myöskin suomalaiseen sosiaali- ja ter-
+veydenhuoltoon.
+
+Puhemies! Olen todella hämmästynyt siitä, että tämä on vain tekninen korjaus. Kun vii-
+me kaudella käsittelimme tätä lakiesitystä, saimme hartiavoimin tehdä työtä, koska oppo-
+sitio kaikin tavoin jarrutti lakiesityksen käsittelyä. Jätitte tähän vastalauseen ja piditte tätä
+lakiesitystä monin tavoin arveluttavana — todella kovin sanoin arvioitte tätä lakiesitystä.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 74/2019 vp
+Mutta kun lakiesitys oli hyväksytty, niin en muista montaa lakiesitystä, mistä sote-kentäl-
+tä, sote-järjestöistä olisin saanut näin paljon kiitosta.
+
+Puhemies! Totean sen, että ilman tätä lainsäädäntöä me emme esimerkiksi voisi raken-
+taa Suomeen terveydenhuollon laaturekistereitä. Toisin kuin muualla Pohjoismaissa, Suo-
+messa ei julkisen terveydenhuollon laatua seurata systemaattisesti. Esimerkiksi Ruotsissa
+on monta kansansairauden tilaa seuraavaa rekisteriä, esimerkiksi diabetesrekisteri, jolla on
+voitu saada esille, minkälaista diabeteksen hoito on, ja ollaan voitu lisätä hoidon yhdenver-
+taisuutta, parantaa esimerkiksi diabeteksen hoitotasapainoa. Siksi kyllä ihmettelen todella-
+kin, miten puheet ovat näin erilaisia. Aika vastuuttomasti nykyiset hallituspuolueet jarrut-
+tivat ja vastustivat tätä lakiesitystä, mutta nyt kun olette vastuussa, ilmeisesti annatte tälle
+tuen. Tuen tätä teknistä muutosta, joka tässä on, ja pidän todella hyvänä ansiona, että viime
+eduskuntakaudella saimme tämän toisiolain säädettyä.
+
+14.44 Mia Laiho kok: Arvoisa puhemies! Toisiolain tarkoituksenahan on tosiaan luoda
+ajanmukaiset ja yhdenmukaiset edellytykset sosiaali- ja terveydenhuollon palvelutoimin-
+nassa syntyvien henkilötasoisten asiakastietojen sekä muiden terveyteen ja hyvinvointiin
+liittyvien henkilötietojen käytölle tilastointiin, tutkimukseen, kehittämis- ja innovaatiotoi-
+mintaan, opetukseen, tietojohtamiseen, viranomaisohjaukseen ja -valvontaan sekä viran-
+omaisten suunnittelu- ja selvitystehtäviin. Laki mahdollistaa nykyistä laajemman sosiaali-
+ja terveydenhuollon asiakas- ja potilastiedon hyödyntämisen muussa kuin kyseisen tiedon
+alkuperäisessä käyttötarkoituksessa sosiaali- ja terveydenhuollon palvelujärjestelmässä.
+Eli on erittäin hyvä, että on saatu nyt kuvattua selkeästi myöskin nämä prosessit ja vastuut
+tietojen luovutuksessa. 
+
+Edustaja Sarkomaan esille nostama laaturekisterityö on todella tärkeätä, ja sitä meidän
+pitäisi edistää, jos me haluamme parantaa meidän sosiaali- ja terveydenhuollon kustannus-
+vaikuttavuutta, hoidon laatua, seurantaa, vertailua, avoimuutta, niin että voidaan hoitotu-
+loksia myös verrata toisiinsa yleisellä tasolla. Me tarvitsemme toisiolakia siihen, että voi-
+daan näitä tietoja käsitellä ja yhdistää eri rekistereitä. Se, mitä tässä laissa nytten käsitel-
+lään, liittyy teknisenä korjauksena edelliseen lakiin liittyen tietopyyntöjen korvattavuu-
+teen. Tietopyyntöjen käsittelystä totta kai syntyy myös kustannuksia, ja on järkevää ja pe-
+rusteltua myöskin, että toimijat saavat niistä asianmukaisen korvauksen. Sitten näiden kor-
+vausten tasoa määriteltäessä pitää huomioida myöskin siihen kohdistettu työaika. Samalla
+on kuitenkin tärkeää huomioida, että esimerkiksi tutkimustyötä tekevien nuorten tutkijoi-
+den osalta tutkimuksen teosta ei tehdä liian kallista, koska kaikkia tutkijoita ja motivaatio-
+ta tutkimukseen pitää ylläpitää. 
+
+14.46 Paula Risikko kok: Arvoisa puhemies! Tässä on tosiaan kysymyksessä ihan tekni-
+nen muutos ja hyvä niin, mutta haluan käydä tämän vain lyhyesti. 
+
+Täällä on tullut hyviä esimerkkejä siitä, miksi tämä laki tarvitaan. Todellakin viime kau-
+della hallitus teki suuren teon, kun saatiin toisiolaki eteenpäin. Se auttaa näiden tietojen kä-
+sittelyssä. Se, että siihen tehtiin viilauksia tietosuoja-asiaan, on täysin ymmärrettävää, kos-
+ka tämähän on Suomessa aivan uudentyyppistä tietoa, mitä nyt tarvitaan. Tämä on tärkeää
+esimerkiksi hoitojen kehittämisen kannalta, tämä on erittäin tärkeää yleensäkin palvelujen
+vaikuttavuuden edistämisen kannalta, tämä on tärkeää myöskin laaturekisterien ja laadun
+ja sen kehittämisen kannalta mutta myöskin terveysteknologian ja sen viennin edistämisen
+kannalta. Monet maathan todella, voi sanoa, kadehtivat sitä, miten Suomessa on tehty vii-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 74/2019 vp
+me vuosina hyvin paljon tällaista lainsäädännöllistä työtä sen eteen, että meillä terveystek-
+nologiaa ja sen vientiä pystytään viemään eteenpäin ja sillä on lainsäädännöllinen pohja. 
+
+Seurasin viime kaudella, vaikken valiokunnassa ollutkaan, miten tärkeää oli, että tässä
+laissa huomioitiin nimenomaan se ihminen, kenen tiedoista on kysymys. Kannatan lämpi-
+mästi, että tätä hyödynnetään myöskin siellä käytännössä.
+
+14.47 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Edustaja Sarkomaalle haluan
+vain todeta, kuten sanoin omasta mielestäni aika selkeästi, että tämä laki on tarpeellinen,
+enkä millään tavalla kyseenalaista tätä lakia, joka siis hyväksyttiin viime kaudella. Kanna-
+tan myös tätä teknistä muutosta, en suinkaan vastusta sitä. Mutta ilman edellisellä kaudella
+valiokunnassa tehtyjä isoja korjauksia lakiin olisi jäänyt vakavia virheitä ja puutteita. Sen
+takia minusta on tärkeätä, että keskustelemme myös siitä, koska valiokunta ei mielestäni
+ole se oikea paikka, jossa tehdään niin valtavan isoja korjauksia, [Jari Myllykosken väli-
+huuto] että ne olisi pitänyt tehdä jo lainvalmistelun aikana. Hyvä asiahan tässä on se, että
+virheistä aina voidaan oppia, ja kun on tämä käyty läpi kertaalleen, niin varmasti nyt jat-
+kossa tietosuoja huomioidaan paljon paremmin jo lakiesitysten alusta alkaen, kun niitä laa-
+ditaan.
+
+14.49 Anna-Kaisa Ikonen kok: Arvoisa puhemies! Me olemme oikeastaan viime vuosi-
+kymmenen puhuneet hyvin paljon tällaisista soten rakenteellisista uudistuksista, ja ajatte-
+len, että tämä laki on erityisen tervetullut siinä mielessä, että vähintään yhtä tärkeää on se,
+että me viemme eteenpäin soten tiedolla johtamista, haemme tiedon hyötykäyttöä laajem-
+min. Tässä mielessä tämä toisiolaki on hyvin keskeinen laki, vaikkakin tänään vain teknis-
+tä asiaa tässä käsitellään. Ajattelen, että se on otettava keskiöön tulevaisuudessakin. 
+
+Soten tietojen hyötykäyttö on tärkeää mahdollistaa niin tutkimus- kuin kehittämistoi-
+minnankin, innovaatiotoiminnan, edistämiseksi. Näen, että toisiolaki yhdessä täsmälääke-
+tieteen edistämisen ja osaamiskeskittymien kanssa — niin kuin kansallinen syöpäkeskus,
+kansallinen lääkekehityskeskus, genomikeskus, biopankkitoiminta — on sellainen iso ko-
+konaisuus, jolla tällaista terveysstrategiaa voidaan Suomessa viedä eteenpäin ja hakea
+myöskin kansainvälisesti edelläkävijäroolia. Siinä mielessä toivon, että tätä asiaa viedään
+rohkeasti eteenpäin. 
+
+Täällä ovat edustajat Sarkomaa ja Laiho toivoneet myöskin laaturekisterien eteenpäin-
+viemistä, ja ajattelen, että se olisi erittäin tervetullut jatkoaskel tähän.
+
+Mitä tulee tähän tekniseen muutokseen, mikä meillä nyt on tässä käsittelyssä, niin se
+osaltaan selkeyttää pelisääntöjä näiden korvausten jakautumisesta. Siihen ei sen suurem-
+min ole huomautettavaa, mutta toivon, että lainsäädännön kehittämiseen jatkossakin pa-
+nostetaan ja viedään rohkeasti tätä kokonaisuutta tiedolla johtamisessa eteenpäin.
+
+14.50 Sari Sarkomaa kok: Arvoisa puhemies! Laadukas lainsäädännön valmistelu on
+kaiken a ja o, ja siksi Sipilän hallituksessa perustettiin lainsäädännön arviointineuvosto.
+Sille jos jollekin on ollut kyllä työtä, kun on myös tämän hallituksen lakiesityksiä katsottu.
+Itse olin valiokunnan jäsenenä, ja täytyy nyt todeta Mäkisalo-Ropposelle, joka ei ole valio-
+kunnan jäsen: Varmasti kuulitte sen vahvan vastustuksen, joka tuli vihreiltä, sosiaalidemo-
+kraateilta, vasemmistoliitolta, jopa RKP:ltä. Periaatteellisesti vastustettiin tätä kaikille suo-
+malaisille tärkeää lakiesitystä. Ilman tätä ei esimerkiksi terveysalan kasvustrategiaa voitai-
+si viedä eteenpäin. Se on strategia, jolla parannetaan kansanterveyttä ja toisaalta kansanta-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 74/2019 vp
+loutta. Ehkä keskeisin muutos, joka tähän lakiesitykseen tuli, oli se, että tähän lisättiin lu-
+paviranomaisen tueksi asiantuntijatyöryhmä, jonka tehtävänä on laatia tietosuojaa, tieto-
+turvaa ja anonymisointia koskevat periaatelinjaukset. Muita isoja periaatteellisia
+muutoksia tähän ei tehty. Sehän on eduskunnan tehtävä: kuulla asiantuntijoita ja tehdä ne
+muutokset, mitkä eduskunnassa ja asiantuntijavaliokunnassa nähdään tarpeellisiksi.
+
+Suurempi kysymys on se, ja voisin kysyä hallituspuolueilta: Mitä teillä on sitä vastaan,
+että julkinen terveydenhuolto tehdään läpinäkyväksi? Mitä teillä on sitä vastaan, että esi-
+merkiksi diabeteksen hoitoa voitaisiin verrata valtakunnallisesti, niin että voitaisiin turvata
+yhdenvertainen hoito kaikille? Edellisen hallituksen, tai sanotaanko Sipilän hallituksen, ai-
+kaiset kansanedustajat eduskunnassa lisäsivät rahaa laaturekistereiden pilotointiin. Niitä
+on pilotoitu nyt kaksi vuotta. Kaikki kansanterveysjärjestöt ovat vedonneet hallitukseen ja
+toivoneet, että laaturekisterit saisivat jatkoa, mutta ensi vuoden talousarviosta puuttuvat ra-
+hat tähän. Toivon nyt, että täällä olevat edustajat voisivat luvata, mikä nyt hallitus tulee
+olemaankaan, että jos me olemme hallituksessa, niin varmasti tästä huolehdimme. On hal-
+lituspohja sitten mikä tahansa Rinteen hallituksen jälkeen, ei tätä arvokasta työtä, mitä
+THL on tehnyt, jossa ovat mukana potilasjärjestöt, siellä on koko terveydenhuolto, sosiaa-
+lipuoli ja kaikki kansanterveysjärjestöt... Vihdoinkin saataisiin vertailtavaa tietoa meidän
+terveydenhuollostamme — mitä teillä on sitä vastaan? Voitteko te luvata, että nyt ensi vuo-
+den budjettiin lisätään rahat? Laaturekistereitä voitaisiin jatkaa ensi vuonna noin 2 miljoo-
+nalla eurolla. Kun miljarditolkulla jaatte rahaa, niin miksi tähän ei rahaa riittänyt? Sitä ih-
+mettelen.
+
+14.53 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! En todellakaan ollut viime
+kaudella sosiaali- ja terveysvaliokunnassa eli en voi puhua siitä prosessista siellä, mutta
+olen tietosuojasta aina huolissani ja minusta tietosuojan kohdalla pitää aina olla liian varo-
+vainen kuin liian lepsu. Kun luin sitten sitä lakiesitystä, joka tuli tänne eduskuntaan käsit-
+telyyn sen valiokuntakäsittelyn jälkeen, niin kyllähän siinä oli niin paljon tehty korjauksia,
+että oli suuri riski, että sinne jäi joitain virheitä tai jotain tärkeää jäi epähuomiossa huomi-
+oimatta. Ja kun lakia korjaillaan valiokunnassa, on aina suuri riski, että silloin ei pystytä te-
+kemään niitä isoja korjausmuutoksia niin hyvin kuin pitäisi. Mutta ilmeisesti nyt on käynyt
+näin ja voimme todeta ilolla, että ne valiokunnan tekemät korjaukset olivat riittäviä eikä ih-
+misten tietosuoja ole joutunut tämän lakiesityksen takia vaaraan. Käytin tämän puheenvuo-
+ron ainoastaan sen takia, että tietosuoja-asioissa on oltava niin tiukka kuin ikinä voi olla, et-
+tei tapahdu mitään korvaamattomia ja korjaamattomia virheitä.
+
+14.54 Aki Lindén sd: Arvoisa puhemies! Jospa aivan lyhyesti puhuisin siitä, mistä nyt
+tässä lakiesityksessä on kysymys. Totta kai me voimme muistella menneitä ja käydä hy-
+vinkin poleemista keskustelua siitä, kuka teki mitä ja mitä aiotte tehdä. Miljardikaupalla —
+kovinkin vuolaasti tässä äsken tuli esille tämmöisiä hienoja sanoja, jotka eivät liity suora-
+naisesti ollenkaan nyt käsiteltävään asiaan, mistä arvoisa puhemies huomautti erään muun
+asian yhteydessä tässä vähän aikaisemmin.
+
+Tässä hallituksen esittelytekstissä todetaan hyvin selkeästi: ”Tietopyyntöjen käsittelyn
+maksullisuus tai maksuttomuus vaikuttaa tietoja tarvitsevien yritysten talouteen. Arvioitu
+keskimääräinen tietopyynnön aineistotoimituksen hinta asiakkaalle olisi 10 675 euroa. Mi-
+käli käsittelykuluja ei peritä, asiakas maksaa kiinteän 1 000 euron hinnan tietopyyntöä kos-
+kevasta päätöksestä.” Sitten tämä teksti jatkuu tässä. Eli tällä on erittäin suuri merkitys esi-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 74/2019 vp
+merkiksi startup-yrityksille ja monille muille sekä tietenkin tälle tietolupaviranomaiselle,
+joka saa tätä kautta tuloja, joilla se voi sitten kattaa tämän aineiston käsittelystä koituvat
+kustannukset. Eli itsessään tämä ei ole vain tekninen esitys, vaan tämä on todella sillä ta-
+valla merkittävä esitys, että tämä liittyy niihin asioihin, jotka edellä äsken totesin.
+
+Keskustelu päättyi.
+
+Asia lähetettiin sosiaali- ja terveysvaliokuntaan.
+6
+
+
+	9
+	14.36
+	14.38
+	14.41
+	14.44
+	14.46
+	14.47
+	14.49
+	14.50
+	14.53
+	14.54
+
+

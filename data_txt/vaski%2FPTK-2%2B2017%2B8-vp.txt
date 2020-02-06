@@ -1,0 +1,1409 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM1159.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 2/2017 vp
+
+Täysistunto
+
+Tiistai 7.2.2017 klo 14.04—17.46
+
+8. Hallituksen esitys eduskunnalle laeiksi tuomioistuinlain ja eräiden muiden lakien muut-
+tamisesta
+
+Hallituksen esitys HE 270/2016 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 8. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään lakivaliokuntaan, jolle perustuslakivalio-
+kunnan on annettava lausunto.
+
+Lähetekeskustelua tästä asiakohdasta käydään klo 15.45 saakka. Keskustelua jatketaan
+tarvittaessa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi. Mikäli keskustelu
+päättyy ennen klo 15.45, siirrytään päiväjärjestyksen seuraavaan eli 9. asiakohtaan.
+
+Keskustelu
+
+14.08 Oikeus- ja työministeri Jari Lindström (esittelypuheenvuoro): Arvoisa rouva pu-
+hemies! Käräjäoikeusverkostoa kehitetään kahdessa eri hankkeessa, joista laaditaan erilli-
+set hallituksen esitykset. Käräjäoikeusverkoston kehittämishankkeessa on arvioitu käräjä-
+oikeusverkostoa kokonaisuutena, ja tätä koskeva hallituksen esitys on nyt siis eduskunnan
+käsiteltävänä. Toisena on summaaristen riita-asioiden käsittelyn kehittämishanke, jota
+koskeva työryhmän mietintö julkaistaan lähipäivinä.
+
+Ehdotuksista:
+Nyt käsiteltävänä olevalla hallituksen esityksellä toteutettaisiin käräjäoikeuksien raken-
+
+neuudistus. Uudistuksella kehitettäisiin käräjäoikeusverkostoa siten, että sen jälkeen Suo-
+messa olisi 20 käräjäoikeutta nykyisten 27 oikeuden sijaan. Käräjäoikeuspaikkakunnat oli-
+sivat Espoo, Helsinki, Hämeenlinna, Joensuu, Jyväskylä, Kajaani, Kouvola, Kuopio, Lah-
+ti, Lappeenranta, Maarianhamina, Mikkeli, Oulu, Pori, Rovaniemi, Seinäjoki, Tampere,
+Turku, Vaasa ja Vantaa. Käräjäoikeuksia yhdistettäisiin seuraavasti: Espoon ja Länsi-Uu-
+denmaan käräjäoikeudet Länsi-Uudenmaan käräjäoikeudeksi; Hyvinkään käräjäoikeuden
+tuomiopiirin pohjoiset kunnat ja Kanta-Hämeen käräjäoikeus Kanta-Hämeen käräjäoikeu-
+deksi; Hyvinkään käräjäoikeuden tuomiopiirin eteläiset kunnat, Itä-Uudenmaan, Tuusulan
+ja Vantaan käräjäoikeudet Itä-Uudenmaan käräjäoikeudeksi; Kemi-Tornion ja Lapin kärä-
+jäoikeudet Lapin käräjäoikeudeksi; Keski-Pohjanmaan ja Pohjanmaan käräjäoikeudet
+Pohjanmaan käräjäoikeudeksi sekä Oulun ja Ylivieska-Raahen käräjäoikeudet Oulun kä-
+räjäoikeudeksi. Käräjäoikeuksien toimipaikkojen määrää vähennetään nykyisestä 57:stä
+36:een. Oikeuksien 20 hallinnollisen kanslian lisäksi erillisiä kanslioita jäisi neljälle ja is-
+tuntopaikkoja 12 paikkakunnalle.
+ Tarkistettu
+4.3
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+Uudistuksella tarkistettaisiin myös eräiden erityisasiaryhmien tuomiopiirijakoa. Asia-
+ryhmät edellyttävät erityistä asiantuntemusta, mikä puoltaa keskittämistä nykyistä harvem-
+piin käräjäoikeuksiin.
+
+Uudistuksen on tarkoitus tulla voimaan vuoden 2019 alusta.
+Uudistus perustuu oikeusministeriön vuonna 2013 laatimaan oikeudenhoidon uudista-
+
+misohjelmaan vuosille 13—25. Ohjelman toimeenpano on pääministeri Sipilän hallituk-
+sen toimintasuunnitelmassa yhtenä keskeisenä kivijalkahankkeena. Sitä toteutetaan oikeu-
+denhoidon kehittämisohjelman mukaisesti. Ohjelman mukaan toimintaympäristön muu-
+toksiin vastataan oikeusministeriön hallinnonalalla rakenneuudistuksilla, palveluiden ja
+prosessien sähköistämisellä sekä lainsäädännön ja menettelyjen sujuvoittamisella.
+
+Käräjäoikeuksien rakenneuudistuksen toteuttaminen on yksi ohjelman keskeisistä hank-
+keista. Taustalla on useita tekijöitä: 1) Oikeudellisen ympäristön monimutkaistuminen
+edellyttää tuomioistuinten henkilöstöltä vahvaa yleis- ja erityisosaamista sekä myös kielel-
+listä ja teknistä osaamista. 2) Meneillään oleva tuomioistuinlaitoksen henkilöstön ikära-
+kenteesta johtuva eläköityminen on osaltaan iso muutostekijä. 3) Vireillä on myös useita
+muita hankkeita, kuten jo mainittu summaaristen asioiden käsittelyn kehittäminen sekä
+sakkomenettelyn käyttöalan laajentaminen ja oikeudenkäyntiprosessien keventäminen,
+joilla on huomattava vaikutus käräjäoikeuksissa käsiteltävien asioiden määrään. 4) Myös
+asiointi käräjäoikeuksissa on muuttunut ja muuttuu edelleen. Sähköistä asiointia ja video-
+neuvottelun käyttöä kehittämällä voidaan luoda uudenlaisia tapoja palvella kansalaisia. 5)
+Digitalisaation mukanaan tuomat mahdollisuudet tulee hyödyntää täysimääräisesti. Vireil-
+lä olevalla syyttäjälaitoksen ja yleisten tuomioistuinten asian- ja dokumentinhallinnan ke-
+hittämishankkeella, niin sanotulla Aipa-hankkeella, sekä muilla sähköistä asiointia lisäävi-
+llä toimenpiteillä, kuten videoneuvottelujen käytön lisäämisellä, on suuri merkitys tuo-
+mioistuinlaitoksen työskentelytapojen muutokselle ja kehittämiselle. 6) Lainkäytön paino-
+pistettä on viime vuosina siirretty entistä enemmän käräjäoikeuksiin. Se asettaa entistä
+suurempia vaatimuksia lainkäytön laadulle. 7) Tuomioistuinten toiminnalle paineita aset-
+tavat myös vallitseva valtiontaloudellinen tilanne ja sen myötä niukkenevat resurssit. Tuo-
+mioistuinten toimintakyvyn ja lainkäytön laadun turvaaminen edellyttää uusia, tehok-
+kaampia keinoja järjestää tuomioistuinten toimintaa ja johtaa niitä.
+
+Uudistuksen toteuttaminen on välttämätöntä, jotta käräjäoikeuksien toimintakyky voi-
+daan toimintaympäristön muutoksista ja niukoista taloudellisista reunaehdoista huolimatta
+turvata. Näihin haasteisiin vastataan vahvistamalla käräjäoikeuksien rakennetta. Käräjäoi-
+keuksien toimipaikat sijoittuisivat väestökeskittymiin eli suurimpiin kaupunkeihin. Toi-
+saalta istuntopaikkoja olisi välimatkoista johtuen säilytettävä myös muualla. Kaikilla niil-
+lä paikkakunnilla, joilla olisi käräjäoikeuden toimipiste, olisi myös muiden viranomaisten
+toimipisteitä. Ehdotettu toimipaikkaverkko olisi käräjäoikeuksien yhdistämisestä huoli-
+matta varsin kattava.
+
+Kielellisten oikeuksien turvaamisesta huolehdittaisiin sijoittamalla kaksikielisiin kärä-
+jäoikeuksiin riittävä määrä kielituomarin virkoja. Myös ruotsinkielisen kansliahenkilöstön
+riittävyydestä on varmistuttava, jotta tuomioistuinpalveluja kyetään jatkossakin antamaan
+tasapuolisesti molemmilla kansalliskielillä. Suurempien hallinnollisten yksiköiden muo-
+dostaminen voi pidemmällä aikavälillä edesauttaa myös kielellisten oikeuksien toteutta-
+mista. Uudistuksella ei heikennetä myöskään saamelaisten kielellisiä oikeuksia.
+
+Uudistuksella saavutettaisiin yhteensä arviolta noin 3—3,5 miljoonan euron säästöt hen-
+kilöstö- ja toimitilakustannuksissa. Lisäksi verkoston supistumisen myötä turvajärjestely-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+jen ja Aipa-varustelun edellyttämä investointipaine pienenisi yhteensä noin 2 miljoonaa
+euroa ja vuosittaiset käyttökustannukset noin 2 miljoonaa euroa. — Kiitos.
+
+Puhemies Maria Lohela:  Nyt on mahdollista käydä debattia tästä aiheesta.
+
+14.15 Kari Tolvanen kok (vastauspuheenvuoro):  Arvoisa puhemies! Ministeri tuossa
+esittelikin hallituksen esityksen perinpohjaisesti ja hyvin. Tosiaan kaikissa esityksissä on
+ikäviä puolia ja hyviä puolia, ja tässä on kyllä näitä hyviä puolia paljon enemmän. Tosiasia
+on se, että käräjäoikeudessakin tarvitaan erikoisosaamista, ja se varmistetaan tällä, että kes-
+kitetään suurempiin yksiköihin tuomareita, ja silloin myös tämä käräjäoikeus ei ole niin
+haavoittuva kuin tällä hetkellä tietyt pienet yksiköt ovat.
+
+Mitä sitten tulee näihin kielellisiin oikeuksiin, niin se todella pystytään turvaamaan tällä
+järjestelyllä. Tosiasia on, että digitalisaatio helpottaa paljon oikeudenhoitoa. Se ei voi olla
+lähipalvelu, mutta sen pitää olla saatavissa oleva palvelu, ja sen saa esimerkiksi digitaali-
+sen yhteyden kautta suurin osa ihmisistä. Tämä uudistus on välttämätön, ei pelkästään
+säästöjen takia vaan myös oikeudenhoidon takia.
+
+14.16 Johanna Ojala-Niemelä sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Kä-
+räjäoikeuksien vähentäminen vaarantaa kansalaisten oikeusturvan, ja se johtaa siihen, että
+monilla kansalaisilla matka lähimpään käräjäoikeuteen voi muodostua kohtuuttoman pit-
+käksi. Nyt kustannuksia sälytetään asiakkaiden maksettavaksi ja kynnys turvautua oikeus-
+laitoksen tarjoamaan oikeusturvaan entisestään nousee.
+
+Tällainen muutos lisää kansalaisten alueellista eriarvoisuutta ja heikentää oikeudenhoi-
+toon liittyvien palveluiden saatavuutta. Lainkäyttö kuitenkin käräjäoikeuksissa perustuu
+suurelta osin asianosaisten henkilökohtaiseen läsnäoloon, ja oikeusturvan saatavuuden
+kannalta tuomioistuimen saavutettavuudella on suuri merkitys.
+
+Toivoisinkin ministeriöltä tarkempia laskelmia päätösten taustalla olevista asioista. Oli-
+sin kyllä nähnyt tärkeänä, että tuon vuoden 2010, edellisen uudistuksen, vaikutusarvioin-
+nit olisi tehty huolellisesti. Näin ei ole kuitenkaan menetelty. Ja on syytä kyllä kyseenalais-
+taa, syntyvätkö tässä ne säästöt, mitä nyt ministeriö tavoittelee.
+
+14.17 Emma Kari vihr (vastauspuheenvuoro):  Arvoisa rouva puhemies! Kiitos paljon
+ministerille kattavasta esittelystä. Meidän lähtökohtamme tähän koko uudistukseen on tot-
+ta kai se, että meidän kaikista tärkein tehtävämme on oikeusturvan toteutuminen — se ei
+voi olla riippuvainen siitä, mikä on valtiontalouden tilanne. Samaan aikaan lienee myös
+selvää, että ei käräjäoikeus ole semmoinen asia, joka on lähipalvelu, ja samaan aikaan mei-
+dän sähköiset palvelut antavat meille ihan erilaisen mahdollisuuden tarjota ihmisille mah-
+dollisuuksia saada näitä palveluita myös ilman, että käräjäoikeudessa täytyy käydä.
+
+Mutta kyllä aika vakavalla korvalla kuuntelen näitä puheenvuoroja siitä, kuinka syvä se
+huoli on siitä, heikentääkö tämä meidän oikeusturvaa, ja erityisesti tämä huoli kielellisten
+oikeuksien toteutumisesta on aito. Sen takia oli hienoa, että ministeri myös otti tämän pu-
+heenvuorossaan esille. Varmasti, kun lakivaliokunnassa tätä asiaa käsitellään, niin erityi-
+sesti nämä ovat ne asiat, joista lisää tietoa vielä toivotaan.
+
+14.18 Timo V. Korhonen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Epäilemättä
+kyseessä on monella tavalla aivan välttämätön muutos. Mutta on tietysti todettava, että kun
+3
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+käräjäoikeuksien toimipisteitten määrä vähenee, niin seurauksena saattaa olla asiakkaiden
+näkökulmasta hyvinkin pitkät etäisyydet sitten noihin toimipisteisiin, ja kysehän tässä on
+asiakkaan oikeusturvaydinsisällöstä ja oikeuden saatavuudesta.
+
+Kuulinko tai kuuntelinko oikein, kun ministeri arvioi, millä tavalla tämä asiakkaan oi-
+keusturva nyt sitten jatkossa turvattaisiin: Oliko niin, että ministeri ja ministeriö olisi myös
+hyvin aktiivinen siinä, että näihin kuntiin perustettaisiin yhteisiä palvelupisteitä, joista oli-
+si saatavissa joko henkilökohtaista tai etäpalvelua myös oikeudenhoitoon liittyvissä asiois-
+sa? Eli, onko näin, että oikeusministeriö haluaa näitä muun muassa valtiovarainministe-
+riön suunnittelemia asiakaspalvelupisteitä perustaa aktiivisesti?
+
+14.19 Katja Hänninen vas (vastauspuheenvuoro):  Arvoisa puhemies! Näin mittavien
+leikkausten yhteydessä on täysin perusteltua kantaa huolta kansalaisten oikeusturvasta.
+Riittävään oikeusturvaan kuuluu oikeudellisten palveluiden riittävä läheisyys, mikä edel-
+lyttää tarpeeksi tiheää käräjäoikeusverkostoa. Nyt etäisyydet kasvavat, mikä uhkaa piden-
+tää käräjäoikeuspäiviä ja ruuhkauttaa tuomioistuimia. Keskittämisen lisäksi oikeusturvaa
+uhkaa myös kielellisten oikeuksien mahdollinen heikkeneminen uudistuksen myötä.
+
+Kysyisinkin teiltä, arvoisa ministeri: miten kansalaisten oikeusturva varmistetaan, mi-
+käli nyt esitetyt käräjäoikeusverkoston leikkaukset toteutetaan ja istuntopaikkoja radikaa-
+listi vähennetään? Ja olisin myös peräänkuuluttanut edellisen käräjäoikeusverkoston supis-
+tamisen vaikutuksia: kustannusvaikutuksia ja asiointimatkojen pidentymisten vaikutuksia.
+
+14.20 Eva Biaudet r (vastauspuheenvuoro):  Arvoisa puhemies! Ministeri esitteli täällä
+hallituksen esityksen ja otti esille myös kielellisten oikeuksien toteutumisen. Uskon, että
+hän vilpittömästi ajattelee, että hän on parhaimpansa mukaan yrittänyt kirjoittaa näistä tä-
+hän hallituksen esitykseen.
+
+Det är tyvärr ändå så att det i praktiken finns en skyldighet att garantera på juridisk nivå,
+men också i praktiken garantera att människor får möjligheter att tala sitt eget språk inför
+domstol. Det är kanske ett av de tillfällen i livet där det faktiskt är väldigt avgörande för en
+människas grundläggande rättigheter, att man ska bli förstådd och att man kan få service på
+svenska. Vi vet redan i dag att i en stor tingsrätt i Helsingfors är det i praktiken väldigt svårt
+att få service på svenska utan att vara tvungen att vänta väldigt länge. Det finns inga prak-
+tiska åtgärder som regeringen föreslår för att trygga det här. Det är bara text på papper. Vil-
+ka åtgärder, finns det tilläggsresurser? [Puhemies koputtaa] Vilka åtgärder kommer reger-
+ingen att göra för att göra det här till verklighet?
+
+14.22 Kimmo Kivelä ps (vastauspuheenvuoro):  Puhemies! Tämä on todella vaikea asia,
+ja oletan, että tämän esityksen tekeminen on ollut sellainen, jonka kanssa ministeri on pit-
+kään joutunut kipuilemaan. Yhtäältä on pakko tehdä jotakin paineiden alla, ja toisaalta
+välttämättömät uudistukset on saatava liikkeelle.
+
+Huolet kansalaisten oikeusturvasta ja kohtuuttomien välimatkojen välttämisestä ovat ai-
+heellisia, kuten on myös aiheellinen se huoli esimerkiksi meillä siellä Iisalmen suunnalla,
+kun Sukevan vankila on lähellä, ettei siirretä resursseja taskusta toiseen, eli että sitten po-
+liisimiehet joutuvat monellakin tapaa toisarvoisiin tehtäviin, vankikuljetusten varmistami-
+seen, ja se on sitten taas poliisin resurssista toisaalta pois.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+14.23 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Kun lu-
+kee tätä esitystä, niin huoli on todella suuri. Nyt uudistetaan suomalaista oikeuslaitosta
+raha edellä, ei toimiva oikeuslaitos edellä. Resurssipulaa ja käsittelyaikoja ja niiden lyhen-
+tämistä ei voi hoitaa käräjäistuimia vähentämällä. Alueellinen yhdenvertaisuus ei tässä to-
+teudu. Suomeen on tulossa maan alueelliseen laajuuteen nähden Pohjoismaiden vähiten
+kattava käräjäoikeusverkosto. Muun muassa Tuomariliitto on ollut tästä erittäin huolis-
+saan, sekä tästä prosessista että siitä, kuinka heitä on kuultu, miten heidän havaintonsa on
+otettu huomioon. Heidän näkemyksensä on, että heitä ei ole ollenkaan tässä kuultu, ja tämä
+myös on todella huolestuttavaa.
+
+Sitten tämä keskeinen asia tässä: kun kerran ministeri itse on käynnistänyt tuomioistuin-
+viraston perustamistyöryhmän ja ajatus on, että se olisi jo 2018 voimassa, niin miksi nämä
+piti nyt erillisinä tuoda tällä tavalla? [Puhemies koputtaa] Eikö olisi ollut viisautta jättää se
+tälle uudelle virastolle tehtäväksi?
+
+14.24 Outi Mäkelä kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Todellakin kes-
+keinen tehtävä tässä esityksessä on ollut luoda yhä vahvempi käräjäoikeusverkosto, jossa
+kaikki yksiköt pystyisivät hoitamaan tehtävänsä mahdollisimman hyvin myös poikkeusti-
+lanteissa. Tätä ajatellen suurempi koko on mahdollistava sen, että myöskin laatu on parem-
+pi ja palvelu monipuolisempi. Eli tärkeää on turvata se, että jokaisella on jatkossakin mah-
+dollisuus saada asiansa tuomioistuimen käsiteltäväksi. Ja uskon, että tärkeämpää ihmisten
+kannalta on todellakin tuomioistuinten toimivuus, palveluiden saatavuus ja laatu kuin var-
+sinainen etäisyys, joskin, mikäli olen oikein ymmärtänyt, tässä esityksessä on kyllä huomi-
+oitu se, että matka ei ole kohtuuton vaan siedettävä kaikille.
+
+14.25 Suna Kymäläinen sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Aika roh-
+keasti alkoi tämä keskustelu, kun lakivaliokunnan puheenjohtaja, edustaja Tolvanen tote-
+si, että tämä esitys tulee parantamaan oikeudenhoidon laatua. Kyllä itse jaan päinvastoin
+tämän huolen, että onhan se huolestuttava kehityssuunta, jos käräjäoikeuden verkostoa vä-
+hennetään 27:stä 20:een. [Kimmo Kivelän välihuuto] Tilannetta vielä kärkevöittää, että
+myös toimipaikkojen määrää vähennetään tuntuvasti nykyisestä 57:stä 36:een. Tähän si-
+sältyy perusteltu huoli siitä, että oikeuksiin ja ihmisoikeuksiin kuuluvan oikeusturvan taso
+laskee. Mietityttää myös, kuinka käy lopullisten kustannusten.
+
+Arvoisa ministeri, miten estätte alueellisen eriarvoistumisen?
+
+14.26 Eeva-Maria Maijala kesk (vastauspuheenvuoro):  Arvoisa puhemies! Minulle
+tämä esitys on erittäin vaikea ja hankala. Olen itse auskultoinut Kemijärven käräjäoikeu-
+dessa. Varsinaisena käräjäoikeutena se lakkautettiin, mutta nytten Kemijärvi on pysynyt
+istuntopaikkana. Mutta nyt tämä istuntopaikkakin lopetetaan sieltä tämän mukaisesti.
+
+Kyllä kaksi kertaa mietin, mitä tämän kanssa nyt aletaan tekemään, mutta tällä hallitus-
+kaudella on tehty monia muitakin hyvin vaikeita päätöksiä. Tämä kertoo siitä, että me kan-
+namme vastuuta koko yhteiskunnan tulevasta tilanteesta. Viimeisten kymmenen vuoden
+aikana Suomi on velkaantunut monta kymmentä miljardia. Meidän on jotakin tehtävä, että
+me saisimme hommia kehittymään ja viedyksi eteenpäin. Tämä on yksi niistä vaikeista rat-
+kaisuista, jonka yhteydessä tämän toiminnan mukana kehitämme ja mietimme, miten me
+saisimme kuitenkin toimivia palveluita myös meille syrjäseudulle.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+14.27 Leena Meri ps (vastauspuheenvuoro): Arvoisa rouva puhemies! Olisin kysynyt mi-
+nisteriltä vähän noista kuulemisten ja videoinnin aikatauluista, koska mikäli olen ymmär-
+tänyt oikein — korjatkaa, ministeri — niin henkilökunnan määräähän, tuomareiden mää-
+rää, ei tässä ole tarkoitus vähentää vaan toimipisteitä yhdistellä ja lisäksi myös keskittää
+tiettyjä asioita tiettyihin tuomioistuimiin osaamisen varmistamiseksi.
+
+Kun täällä on huolena nimenomaan juuri tämä palvelun saatavuus, niin miten nämä kuu-
+lemiset ja sähköiset asioinnit etenevät ja semmoiset toimipisteet esimerkiksi kunnan kans-
+sa, missä voisi sitten rauhassa olla kuulemisessa videointilaitteen yhteydessä? Ymmärrän
+sen hyvin, että siitä on huoli.
+
+Olisin vielä kysynyt, kun minä olen Hyvinkäältä ja Hyvinkäällä kysytään kansalaisten
+riveissä, kun meille jää kanslia Hyvinkäälle — tästä on ollut uutisoinnissakin — eikö se
+tarkoita sitä, että jää myös istuntosalit eikä pelkästään kanslia. Meillä paikallislehtikin vä-
+hän siitä väärin jossain vaiheessa uutisoi. Jos ministeri nyt kertoisi kuulijoille, mitä tämä
+tarkoittaa, että jää kanslia.
+
+14.28 Matti Semi vas (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tämä oikeuslai-
+toksien keskittämisen vimma on ihan kauheata, kun rupeaa miettimään niitä alueita, mistä
+otetaan ne käräjäoikeudet poikkeen. Näillä valtion työpaikoilla ja näillä toimipisteillä on
+suuri vaikutus myös elinkeinoelämään ja siihen, miten elinkeinoelämä tulee sijoittumaan
+tuolla maakunnissa. Siksi kysynkin, arvoisa ministeri: onko tehty sellaista kokonaistalou-
+dellista yhteenvetoa, missä arvioidaan kaikkien oikeuskulujen lisäksi myös alueellisen oi-
+keuslaitoksen merkitystä harvaan asuttujen alueiden elinvoimaan, missä huomioidaan
+alueiden elinkeinoelämän tarpeet, ja siitä, kuinka paljon ne tuottavat rahaa sinne?
+
+14.29 Anna-Maja Henriksson r (vastauspuheenvuoro):  Värderade fru talman, arvoisa
+puhemies! Tämä ei ole reilu uudistus, se ei ole oikeudenmukainen uudistus, eikä se ole oi-
+keusturvaa vahvistava uudistuskaan. On aika merkillistä, että vasta kuusi vuotta sitten teh-
+tyä uudistusta ei olla riittävästi nyt käyty läpi, mitä silloin tapahtui, miten se on toiminut.
+Nyt halutaan taas vähentää käräjäoikeuksien määrää ja sanotaan, että tarvitaan suurempia
+yksiköitä. Samalla kyllä pidetään Etelä-Karjalan käräjäoikeudesta kiinni, Kainuussa saa
+säilyä käräjäoikeus ja Kanta-Hämeessä saa säilyä käräjäoikeus. Nämä kaikki ovat suurin
+piirtein samankokoisia kuin ne kaksikieliset käräjäoikeudet Porvoossa, Raaseporissa ja
+Kokkolassa, jotka nyt aiotaan lakkauttaa. Miksi, ministeri Lindström, juuri Länsi-Suomes-
+ta haluatte viedä käräjäoikeudet, ja millä tavalla aiotte turvata palvelut myös käytännössä
+ruotsin kielellä?
+
+Hur tänker ni se till att de språkliga rättigheterna på riktigt kan tryggas och varför försvin-
+ner notarieplatserna från Österbottens tingsrätt?
+
+14.30 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Tämä uu-
+distus kieltämättä on hieman ongelmallinen, mutta ymmärrän toki sen ajan hengen, missä
+tässä parhaillaan Suomessa elämme, säästötoimenpiteitten keskellä. Mutta tuli mieleen sel-
+lainen ongelma, onko tätä oikeusministeriö miettinyt, kun monelle ihmiselle, joka joutuu
+asioimaan esimerkiksi käräjäoikeudessa, vaikka nyt jonkun lupa-asian tiimoilta tai jonkun
+muun vastaavan asian kanssa, kunnalliset oikeusaputoimistothan ovat aivan henki ja elä-
+mä, koska he itse eivät todennäköisesti mene sinne käräjäoikeuteen asioimaan vaan hake-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+vat sen avun sieltä kunnallisesta oikeusaputoimistosta, joka sitten asiaa hoitaa eteenpäin
+valtakirjalla tai jotenkin muuten. Onko tätä oikeusapuhommaa kehitetty millä tavalla?
+
+ Toinen asia: Onko huomioitu se, kun meillähän monia monia käräjäoikeuden istuntoja
+istutaan ihan, sanon, rutiinijuttujen takia ja niihin menee paljon aikaa? Onko tätä prosessia
+nyt kehitetty niin paljon, että saataisiin nopeutettua ja tällaisia helppoja juttuja saataisiin
+vietyä nopeasti läpi, jolloin aikaa ja toimenpiteitä jäisi niille jutuille, jotka todella vaativat
+sitä istuntoaikaa enemmän?
+
+14.31 Jani Mäkelä ps (vastauspuheenvuoro): Arvoisa puhemies! Itseäni on jo vuosikau-
+sia huolestuttanut oikeastaan kaksi asiaa kansalaisten oikeusturvassa.
+
+Ensimmäinen ongelma on se, että jos ihmisellä on omaisuutta tai tuloja, niin oikeuteen
+meneminen on aina riski oikeudenkäynnin kalleuden johdosta. Tulottomalla ihmisellähän
+tätä ongelmaa ei samalla tavalla ole, kun yhteiskunta korvaa viime kädessä oikeudenkäyn-
+tikulut.
+
+Toinen huoleni koskee oikeusistuimien ruuhkaisuutta ja käsittelyjen kestoa. Jos oikeus-
+käsittelyt kestävät vuosikausia, se ei voi olla oikeusturvan mukaista. Nyt hallitus esitykses-
+sään on vähentämässä käräjäoikeuksien määrää, ja huolimattomasti asiaan perehtyen voisi
+ajatella, että tämä saattaisi jopa pahentaa näitä mainittuja ongelmia. Kuitenkin asia voi
+myös olla päinvastoin ja tällä uudistuksella voidaan turvata tuomioistuinten toimintaky-
+kyä. Kansalaisille ei ole niin oleellinen kysymys, onko oikeus 50:n vai 100 kilometrin
+päässä, kuin se, kestääkö käsittely vuoden vai viisi vuotta.
+
+Kysynkin ministeriltä, antaako tämä uudistus mielestänne mahdollisuuksia näiden kah-
+den epäkohdan korjaamiseen.
+
+14.32 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Näillä alu-
+eilla, mistä nämä käräjäoikeuden istuntopaikat tai kansliat loppuvat, ihmiset aika tarkkaan
+katsovat hallituksen esityksen ja lakiesityksen perusteet. Ihan ainakin Ylä-Savossa ja ehkä
+Varkaudessa — Pohjois-Savosta siis lakkautetaan, yhdestä maakunnasta, kaksi käräjäoi-
+keuden istuntopaikkaa — ihmetellään, mihin nämä laskelmat perustuvat. Ensinnäkin ta-
+louslaskelmia ei ole, ja sitten toinen juttu on, että nämä säilyvät paljon pienemmillä seutu-
+kunnilla ja alueilla, joilla on paremmat tieyhteydet. Että mitään punaista lankaa tai logiik-
+kaa ihmiset eivät ole tässä hallituksen esityksessä nähneet. Ja ainakin minä olen oikeuden-
+käytön näkökulmasta sitä mieltä, että kaikille ratkaisuille pitää olla järkevät perusteet ja
+sellaiset perusteet, jotka perustuvat lakiin ja oikeudenmukaisuuteen. Arvoisa ministeri,
+voisitteko te valistaa yläsavolaisia: miksi sieltä otetaan tämä istuntopaikka pois ja lisätään
+poliisin ja vankilahenkilökunnan kuljetuksia?
+
+14.33 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Eipä voisi enem-
+pää olla samaa mieltä edellisen puhujan, hallituspuolueen kansanedustaja Eestilän kanssa.
+Kyllä tämä tuntuu käsittämättömältä, että Pohjois-Savoa rankaistaan kahdella käräjäoikeu-
+den kanslian lakkauttamisella, erityisesti, kun esimerkiksi Iisalmen osalta on odotettavis-
+sa, että kustannukset päinvastoin kasvavat. Sukevan vankila muodostaa kohtuullisen asia-
+kaskannan tuohon Iisalmen käräjäoikeuden kanslialle, ja kun näitä ihmisiä lähdetään vie-
+mään sitten Kuopioon saakka, niin puhutaan jo aivan erilaisesta poliisiresurssien tarpeesta
+ja myöskin matkakustannuksista ja muista. Tietysti sekin hämmentää, että Kuopiosta on
+sanottu, että siellä ei ole edes tarpeeksi tiloja ja resursseja siihen, että kaksi käräjäoikeuden
+7
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+kansliaa, sekä Varkaus että myöskin Iisalmi, sinne sitten juttuineen siirtyy. Eli millä taval-
+la esimerkiksi Pohjois-Savon osalta voidaan edes puhua mistään säästöistä? Kaiken kaik-
+kiaankin voi sanoa, että on hyvin kummallista, että säästöt edellä tehdään tämäntyyppisiä
+ratkaisuja. Kyllähän tässä ihmisten oikeusturva ja myöskin alueellinen oikeudenmukai-
+suus ja kielelliset oikeudet pitäisi pitää etusijalla.
+
+14.34 Seppo Kääriäinen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Täällä ovat
+Pohjois-Savon edustajat jo ottaneet kantaa Iisalmen ja Varkauden osalta perustellusti ja
+maltillisesti. Haluan kiinnittää huomiota vielä yhteen näkökulmaan: Nämä lakkauttamiset,
+niin tämä kuin monet monet aiemmatkin, sattuvat aika paljon näihin seutukaupunkeihin,
+noin 50 seutukaupunkiin ympäri maata. Ja kun nämä lakkauttamiset kasautuvat, niillä on
+lamaannuttava vaikutus sen alueen elinvoimaisuuteen ja tulevaisuudennäkymiin, ehkä
+myös elinkeinoelämän toimintamahdollisuuksiin. Tässäkin päätöksessä, mitä nyt te tar-
+joatte, herra ministeri — olette kuunnellut kyllä meitä ihan kiitettävästi — tämä näkökul-
+ma on jäänyt kokonaan oikeastaan huomioon ottamatta. Minä toivon, että lakivaliokunta,
+joka tämän asian vielä tulee syynäämään ja perkaamaan perin juurin, katsoisi myös tästä
+näkökulmasta näitten käräjäoikeuksien uudelleensijoitteluja ja lakkauttamisia.
+
+14.35 Mats Löfström r (vastauspuheenvuoro): Värderade fru talman! Enligt lagförslaget
+blir Ålands tingsrätt den enda tingsrätten i hela landet som blir kvar med svenska som för-
+valtningsspråk. Det blir således den enda platsen i hela landet där man kan auskultera på
+svenska. Där här riskerar att på sikt undergräva tillgången av svenskspråkiga tjänstemän
+inom domstolsväsendet, något som är ytterst allvarligt. Svenskspråkiga blir också åtalade,
+men förändringen riskerar urgröpa rättssäkerheten för svenskspråkiga ifall man inte kan
+garantera att domarna förstår den anklagades eller målsägandes språk. Jag är mycket oroad
+över det.
+
+Haluan kysyä ministeri Lindströmiltä summaarisista riita-asioista: Summaariset riita-asiat
+ovat hyvin tärkeitä Ahvenanmaan käräjäoikeuden toiminnan kannalta. Tässä lakiehdotuk-
+sessa ei sanota, mitä niille tapahtuu tulevaisuudessa, mutta me tiedämme, että keskittämis-
+tä suunnitellaan. Miten hallitus aikoo tulevaisuudessa turvata summaaristen riita-asioiden
+käsittelyn ruotsin kielellä käytännössä?
+
+14.36 Mikko Kärnä kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Olemme var-
+masti kaikki tässä salissa samaa mieltä siitä, että käräjäoikeuksien saavutettavuus on tär-
+keää ja ihmisten oikeusturvasta on huolehdittava. Mutta samaan aikaan on tietysti selviö,
+että meidän tulee elää ajassa ja meidän tulee myös kehittää uusia tapoja asiointiin. Tästä
+meillä on Lapissa jo varsin pitkät kokemukset. Meillä ne etäisyydet niihin käräjäoikeuk-
+siin ovat tähänkin saakka olleet pitkiä, satoja kilometrejä, enkä ole kyllä tällaista huolta
+kuullut tästä salista lappilaisten oikeusturvan puolesta. Näitä oikeuspalveluitahan ei koko-
+naisuutena voida ajatella pelkkänä lähipalveluna.
+
+Nyt hivenen ihmettelen tätä edustaja Henrikssonin puheenvuoroa. En tiedä, muistanko
+oikein: ettekö te ministerinä ollessanne itse asiassa laittanut tämän uudistuksen alulle ja
+pyörimään? Näin olen ymmärtänyt.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+Oikeusministeri Lindströmiltä haluaisin kysyä tässä vaiheessa näin saamelaisten kansal-
+lispäivän jälkeisenä päivänä: miten saamelaisten kielelliset oikeudet, jotka ovat tärkeitä,
+toteutuvat tässä uudistuksessa?
+
+14.37 Anna-Maja Henriksson r (vastauspuheenvuoro): Arvoisa puhemies! On totta, että
+oikeudenhoidon uudistamisohjelma tehtiin viime kaudella. On myös niin, edustaja Kärnä,
+että itse sanoin hyvin selkeästi, kun virkamiestyöryhmä toi esityksensä käräjäoikeusuudis-
+tukseksi, että en seiso sen takana, ja siitä on näytteitä, on muun muassa myös lehdistötie-
+dotteita, jotka voisin lukea tässä. Elikkä silloin jo ministerinä näin, että tämä ei ole hyvä uu-
+distus ja että pitäisi selvittää muita keinoja mennä eteenpäin. Itse puhuin siitä, että pitäisi
+saada nykytekniikka meidän oikeussaleihimme, pitäisi saada videolaitteita, pitäisi mennä
+Ruotsin järjestelmään niin, että alioikeuksissa istunnot videoidaan ja sitä materiaalia voi-
+daan käyttää hovioikeudessa ja niin edelleen. Elikkä edelleen seison samalla tavalla sen ta-
+kana, missä olin silloin, ja katsoin edelleen, että tämä uudistus ei ole hyväksi oikeusturvan
+kehittämiselle tässä maassa.
+
+14.38 Maria Tolppanen sd (vastauspuheenvuoro): Arvoisa puhemies! Kun tätä lakia ru-
+vettiin viemään eteenpäin, olin todella iloinen sen takia, että siihen sisältyy myös yrityssa-
+neeraus- ja ulosottovalitusasiat. Mutta miten sitten kävikään? Täällä sanotaan näin, että kä-
+räjäoikeuksien tuomiopiirin määrittelyperusteen muuttuminen ulosottoviraston alueesta
+maakuntapohjaiseen käräjäoikeuden tuomiopiirijakoon ei aiheuta muutosta nykytilaan.
+Tästä kysyn: miten niin ei aiheuta, koska näitä asiakasryhmiä ei enää tämän jälkeen käsi-
+tellä Etelä-Karjalan, Keski-Suomen, Lapin eikä Satakunnan käräjäoikeuksissa? Lisäksi
+yrityssaneerausasioita ei enää käsitellä Pohjois-Karjalan käräjäoikeudessa ja ulosottovali-
+tusasioita ei käsitellä Itä-Uudenmaan käräjäoikeuksissa. Tämä siis selkeästi heikentää oi-
+keusturvaa näiltä osin.
+
+Sen lisäksi myös Pohjanmaalla oikeusturva heikkenee siinä, että sekä Kokkolan että Pie-
+tarsaaren osalta on punakynä käynyt.
+
+14.39 Elsi Katainen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Sähköinen asiointi
+on toki vastaus monien rakenteellisten uudistusten aiheuttamiin huoliin, ja digitalisaatio
+voi häivyttää ja poistaa etäisyyksien tuomia ongelmia. Kuitenkin, niin kuin aiemmin on
+tullut esille, Pohjois-Savon osalta, kun puhutaan Iisalmen ja Varkauden käräjäoikeuden
+kanslioista, toimijoille ei ole todellakaan vielä auennut tämän hankkeet tuomat hyödyt,
+säästöt tai myöskään toiminnalliselta kannalta se, mitä tässä oikeastaan on ajettu takaa ja
+miten tämä hyödyttää paikallisia toimijoita. Siksi minä kysyisinkin ministeriltä: onko mis-
+sään vaiheessa ollut harkinnassa jonkinlainen siirtymäaika? Paikalliset toimijat ovat esit-
+täneet esimerkiksi 5—10 vuoden siirtymäaikaa, jolloin saataisiin esimerkiksi nämä jo edel-
+lä mainitut rakennushankkeet eteenpäin ja myöskin henkilökunta ehtisi sopeutua tähän ti-
+lanteeseen — siellä on tapahtumassa muun muassa eläköitymisiä.
+
+14.40 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! On tärkeää,
+että hallinto ja rakenne ovat toimivat ja oikeudenkäynnit sujuvat. Tässä on videoinnit ja di-
+gitalisaation hyödyntäminen tullut esille, mutta itse veisin tätä keskustelua myös hivenen
+oikeusprosesseihin, siihen, että prosessit venyvät Suomessa usein liian pitkään. Ensin on
+tutkinta, sen jälkeen luvattoman pitkät oikeudenkäyntiprosessit. Kysyisin ministeriltä,
+9
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+minkälaisia toimia tähän on tulossa, että haavoja ei tarvitsisi repiä useita kertoja uudelleen
+auki esimerkiksi seksuaalirikosten ja muiden kohdalla.
+
+Olen varma, että enemmän kuin se, missä rikolliset tuomitaan, kansalaisia kiinnostaa se,
+että heidät tuomitaan ja hyvin. Kysyisin teiltä, arvoisa ministeri, kun te olette laittanut liik-
+keelle selvityksen oikeustajun mukaisista rangaistuksista: millä tavalla tämä on etenemäs-
+sä, ja koska me pääsemme siihen, että rikolliset saavat sen, mitä he ansaitsevat?
+
+14.41 Peter Östman kd (vastauspuheenvuoro):  Arvoisa puhemies! Oikeusministeri ker-
+toi meille esittelypuheenvuorossaan, että kyseessä on oikeusverkoston kehittämishanke ja
+rakenneuudistus, mutta kun lukee esitystä ja kun kuulee kollegojen puheenvuoroja tässä,
+jopa hallituspuolueitten kansanedustajien puheenvuoroja, niin en yhdy siihen, että kysees-
+sä olisi kehittämishanke. Kuultiin tässä myöskin edustaja Laukkaselta, mitä Suomen tuo-
+mariliitto on lausunut tästä: heidän mielestään Suomeen on tulossa maan alueelliseen laa-
+juuteen nähden Pohjoismaiden vähiten kattava käräjäoikeusverkosto, joten siinäkään suh-
+teessa tätä ei voi sanoa kehittämishankkeeksi.
+
+Toinen asia, tärkeä asia: mahdollisuudet saada palvelua ruotsiksi heikkenevät merkittä-
+västi, ja niin kuin on kuultu, käräjäoikeuksien työkieli muuttuu ruotsista suomeksi muun
+muassa Keski-Pohjanmaan ja Pohjanmaan käräjäoikeuden sekä Espoon ja Länsi-Uuden-
+maan käräjäoikeuden yhdistyessä. Sitä ei voi sanoa kehityshankkeeksi.
+
+14.42 Lea Mäkipää ps (vastauspuheenvuoro): Arvoisa puhemies! Haluan ensinnä kiittää
+ministeri Lindströmiä: hän esitti tämän asian ymmärrettävästi.
+
+Kun täällä on kritisoitu näitä käräjäoikeuksien pienentämisiä, niin tämä on tietysti osa
+säästöjä. Että hallituspuolueet kyllä ymmärtävät tämän asian. Mutta vuonna 2010 tehtiin
+radikaali rakenneuudistus, jolloin käräjäoikeuksia lopetettiin, 51:stä 27:ään, ja tämä on sitä
+osajatkoa. [Maria Tolppasen välihuuto] Ja ymmärtäisin näin, että onko tämä maakuntamal-
+lille tehty ja sitten lisäksi tulisi tänne Ruuhka-Suomeen pari käräjäoikeutta, koska tiede-
+tään, että varsinkin Ruuhka-Suomessa on ollut ruuhkaa asioiden käsittelyssä.
+
+Ja mitä tulee käräjäoikeuden kieleen, niin työkieli ei ole ratkaisevaa kansalaisten kielel-
+listen perusoikeuksien toteuttamisen kannalta, koska asian käsittelykieli määräytyy asiak-
+kaan kielen perusteella. Jokainen saa käyttää omaa kieltänsä, se on perustuslailla määrätty
+[Mikaela Nylanderin välihuuto — Eva Biaudet’n välihuuto] Kyllä näin on, ei kannata teh-
+dä tästäkään esityksestä aivan härkästä. [Puhemies koputtaa] Tämä on pieni osa säästöjä,
+niin kuin täällä on sanottu, ja tänne on otettu tämä digitalisointi [Puhemies: Ja aika täyn-
+nä!] ja videoita kehitetään. Meidän täytyy... [Puhemies keskeytti puheenvuoron puheajan
+ylityttyä.]
+
+14.44 Mikaela Nylander r (vastauspuheenvuoro):  Värderade talman! Tingsrätterna i
+Borgå och Raseborg föreslås bli enbart sammanträdesplatser. Exempelvis tingsrätterna i
+Kyrkslätt, Jakobstad och Kimito är nu sammanträdesplatser och föreslås läggas ner helt
+och hållet. Frågan lyder: Kommer de sammanträdesplatser som nu föreslås, det vill säga
+Borgå och Raseborg, att i framtiden läggas ner precis på samma sätt som man nu gör med
+Kyrkslätt, Jakobstad och Kimito? Är det här ett försök att sakta men säkert strypa alla två-
+språkiga tingsrätter vi har i det här landet?
+10
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+Onko hallituksen tavoitteena pikkuhiljaa ja vähin äänin lakkauttaa kaksikielisiä käräjäoi-
+keuksia? Ensin niistä tehdään istuntopaikkoja ja sitten niitä lakkautetaan, hiljaisesti ja vai-
+vattomasti ja kielellisistä oikeuksista viis veisaten.
+
+14.45 Katri Kulmuni kesk (vastauspuheenvuoro): Arvoisa puhemies! Pidän tätä esitystä
+kyllä kieltämättä hieman ongelmallisena syistä, jotka tässä keskustelussa ovat tulleet esiin,
+vaikkapa sen edellisen käräjäoikeusverkon uudistamisen jälkeen, jonka tuloksista ei ole
+ehkä aivan positiivista lopputulemaa olemassa.
+
+Lisäksi olisi voinut ajatella näitä yhtenä kokonaisuutena, kun niistä vankilasäästöistä
+luovuttiin: tämä käräjäoikeusverkosto olisi mielestäni kyllä ansainnut samanlaisen kohte-
+lun. Ettei tähän painetta olisi ollut.
+
+Olen samaa mieltä edustaja Kääriäisen kanssa siitä, että valitettavasti näistä nyt monet
+kertautuvat seutukaupungeille Pohjois-Savossa, Ylivieska-Raahessa, Kemi-Tornion alu-
+eella. Ja olisi kyllä erittäin tärkeää — kun vakuuteltu on, että tällä ei pitäisi olla ainakaan
+tuomarikuntaan henkilöstövaikutuksia — ettei myöskään muita henkilöstövaikutuksia
+kohdistuisi sitten säästöjen kautta näille seuduille, jotka muutenkin kantavat aikamoista
+taakkaa useista säästöistä. Onhan näin, ettei henkilöstövaikutuksia pitäisi olla.
+
+Puhemies Maria Lohela:  Vastauspuheenvuorolistalla on enää viisi puheenvuoroa, ote-
+taan ne, ja sitten ministerin vuoro.
+
+14.46 Thomas Blomqvist r (vastauspuheenvuoro):  Värderade fru talman! Här har flera
+ledamöter efterlyst en mer noggrann konsekvensanalys och också bakgrundsfakta till var-
+för man stänger vissa tingsrätter och andra inte. Till exempel ledamot Eestilä, jag håller
+helt med honom. Jag tänkte ändå koncentrera mig på den språkliga aspekten av det hela. I
+förslaget ingår att man stänger Borgå, Hyvinge, Karleby, Kemi, Raseborg, Träskända och
+Ylivieska. Och sammanträdesplatser som stänger är Kimitoön, Kyrkslätt, Kristinestad, Ja-
+kobstad och Nystad. Man behöver väl inte vara konspiratoriskt lagd för att se att här verkar
+de tvåspråkiga, och på svenska orter verkande vara proportionellt sett välrepresenterade —
+överrepresenterade.
+
+Kysynkin ministeriltä: miten pystytään esimerkiksi Espoossa turvaamaan käytännössä tätä
+ruotsinkielistä palvelua, kun Espoon käräjäoikeuden laamanni on jo nyt tällä hetkellä il-
+moittanut, että pätevien ruotsin kielen taitoisten henkilöiden löytäminen on ollut vaikeata
+ja satunnaista? [Puhemies koputtaa] Vaikka siellä palveluksessa olevat lisääntyvät muuta-
+malla kymmenellä, tämä tosiasia ei muuttune.
+
+14.48 Hannakaisa Heikkinen kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies!
+Pohjois-Savon kansanedustajat ovat jo puheenvuoroissaan laajasti tuoneet huolemme oi-
+keuspalvelujen tulevaisuudesta, jos Iisalmen ja Varkauden kansliat suljetaan. Ministeri pe-
+rusteli näitä muutoksia käräjäoikeusverkoston karsimiseen muun muassa käsittelyn laadul-
+la ja valtiontalouden tilanteella. Toivoisin, että valiokuntakäsittelyn aikana tuossa käsitte-
+lyn laadussa otettaisiin huomioon myös ylipäätänsä palvelun saavutettavuus — se, pääsee-
+kö ihminen käsittelypaikkakunnalle — ja myöskin valtiontalouden tilanne siltä kannalta,
+että tuleeko aidosti säästöjä. Esimerkiksi meillä on huolena, toteutuvatko säästöt, jos Kuo-
+pioon tarvitsee lisää käräjäoikeuskanslioita rakentaa. Elikkä terveiseni valiokuntakäsitte-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+lyyn ovat, että aluetaloudellinen tilanne otetaan myös huomioon ja sitten se, toteutuvatko
+nämä toivotut ja aiotut säästöt.
+
+14.49 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Uudistuksel-
+le on varmasti olemassa hyvät taloudelliset ja toiminnalliset perusteet. Itse olisin kiinnittä-
+nyt huomiota samaan kuin muun muassa edustaja Hoskonen, eli alioikeusprosessien kehit-
+tämiseen. Julkisessa keskustelussa monet korkeat juristit, muun muassa Pauliine Koskelo
+ollessaan korkeimman oikeuden presidentti, valtakunnansyyttäjä Nissinen ja monet muut,
+ovat kiinnittäneet huomiota siihen, että käräjäoikeuksissa menee aivan liikaa voimavaroja
+sellaisten asioiden käsittelemiseen, jotka pystyttäisiin oikeusturvaa vaarantamatta käsitte-
+lemään kevyemmässä menettelyssä käräjäoikeuksien ulkopuolella. Tiedän, että tätä asiaa
+on oikeusministeriön toimesta selvitetty, ja kysyisin oikeusministeriltä, mitä näille selvi-
+tyksille kuuluu.
+
+14.50 Anne Kalmari kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tuottavuu-
+den vuoksi on tehtävä joskus toimia, jotka tekevät vähän kipeää. Itselleni keskittämisasiat
+ovat vaikeita, mutta tässä asiassa oikeastaan meidän tulisi jokaisen miettiä, onko tämä kä-
+räjäoikeusasia lähipalvelu. Ei se ole. Itse asiassa hyvin harva sitä kovin monta kertaa elä-
+mässä tarvitsee, ei ainakaan päivittäin tai viikoittain, toivottavasti, kukaan. Siksi niiden pu-
+heenvuorojen kanssa, jotka perustelivat tätä sillä, että tärkeintä on laadukas ja nopea toi-
+minta, olen aivan samaa mieltä. Meillä on kokemuksia Keski-Suomesta, että maailma ei
+loppujen lopuksi siihen kaatunut, että tätä keskittämistä tehtiin. Tärkeää olisi se, että turhat
+käsittelyt sieltä käräjäoikeuksista esimerkiksi sovitteluteitse hoidettaisiin ja kaikki ne säh-
+köiset mahdollisuudet, mitä on olemassa, käytettäisiin hyväksi.
+
+14.51 Mari-Leena Talvitie kok (vastauspuheenvuoro): Arvoisa puhemies! Kiitos minis-
+terille hyvästä esittelypuheenvuorosta. Tietenkin, kun on kyse uudistuksista ja myöskin tii-
+vistetään verkkoa, uudet toimintatavat todellakin haastavat meidän kenttämme toimimaan
+eri lailla. Tärkeätä on, että edelleen jatkossakin on mahdollisuus saada asiansa tuomiois-
+tuimen käsiteltäväksi ja tietty asiantuntemus pystytään takaamaan, mikä on tässä myöskin
+sitten yhtenä näkökulmana.
+
+Tuon ministerille kuitenkin tietoon vielä Oulun ajankohtaisia kuulumisia siinä mieles-
+sä, että ministerin on syytä tietää, että tämä meidän monimutkaistunut ja pitkittynyt polii-
+sitalon kuntoremonttimme on heijastunut nyt myös käräjäoikeuden puolelle. Oulun kärä-
+jäoikeuden isoin sali muun muassa jouduttiin viime viikolla sulkemaan väliaikaisesti, sa-
+moin kuin koko poliisitalopuolen remontti.
+
+Puhemies Maria Lohela:  Vielä ennen ministeriä edustaja Ojala-Niemelä.
+
+14.52 Johanna Ojala-Niemelä sd (vastauspuheenvuoro):  Arvoisa puhemies! Edustaja
+Maijala kantoi tässä huolta Kemijärven osalta. Voi voi, kun tämä olisikin näin helppoa, että
+vain Kemijärven osalta. Tämä esitys on siis tyrmäävä Lapin osalta. Lapista nitistetään Ke-
+min käräjäoikeus, ja sinne jää vain välimatkat huomioiden yksi Lapin käräjäoikeus. Uudis-
+tuksen mukaan Kemiin jää vain sivukanslia. Lisäksi istuntopaikka lakkaa Torniosta ja Ke-
+mijärveltä sekä kanslia Sodankylästä. Kyllä minä sanon, että tässä pannaan ihmiset, asiak-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+kaat sekä henkilökunta, tien päälle. Mitä tämä tulee sitten maksamaan? Onko sitä arvioitu?
+Kysyn edelleen ministeriltä.
+
+Rovaniemen hallinto-oikeus lakkautettiin muutama vuosi sitten ja yhdistettiin Ouluun,
+ja nyt on jo osoittautunut, ettei säästöjä syntynyt ja että käsittelyajat päinvastoin pidentyi-
+vät. Tuleeko tässä käymään samalla tavalla?
+
+Lisäksi on huomattava tällaisten ratkaisujen välilliset vaikutukset paikkakunnilla, joilla
+käräjäoikeuksia esitetään lakkautettaviksi. Eli käräjäoikeuksien työpaikkojen lisäksi näiltä
+paikkakunnilta lähtisivät ainakin suurelta osin myös muut juridisen alan työpaikat [Puhe-
+mies koputtaa] kuten lakiasiaintoimistot.
+
+Puhemies Maria Lohela:  Nyt ministeri Lindström, 5 minuuttia, ja sen jälkeen mennään
+puhujalistaa eteenpäin.
+
+14.53 Oikeus- ja työministeri Jari Lindström:  Arvoisa puhemies! Kiitos asiallisesta
+keskustelusta. Tiedän, että kyseessä on kipeä asia. Edustaja Kivelä sanoi, että ei ole help-
+poa tuoda esitystä tänne, mutta olen ennenkin tuonut hankalia asioita ja sitten puolustelen
+niitä täällä parhaan kykyni mukaan.
+
+Kolme isoa juttua nousi minun mielestäni tästä palautteesta esille: oikeusturva, kielelli-
+set oikeudet ja prosessit.
+
+Oikeusturvan osalta on ihan selvää, että kun hallitusta on monesti moitittu siitä, että se
+on valmistellut muka hätäisesti asioita ja se ei ole kiinnittänyt huomiota muun muassa pe-
+rustuslainmukaisuuteen, niin hallitus katsoo, että tämä uudistus ei ole perustuslain vastai-
+nen eikä sillä heikennetä ruotsinkielisten perustuslaissa turvattuja kielellisiä oikeuksia eikä
+myöskään saamenkielisten oikeuksia. Kaikki kielelliset oikeudet pitää turvata. Tämä on
+sekä oikeusministeriön että käräjäoikeuksien johdon tehtävä. Ylipäätään tämä kansalais-
+ten oikeusturva on niin vahva perusoikeus, että se pitää tämänkin uudistuksen yhteydessä
+turvata.
+
+No, erilaisia keinoja on siinä HE:ssä, hallituksen esityksessä, näitten kielellisten oikeuk-
+sien turvaamiseksi mainittu, ja ne löytyvät kyllä sieltä. Itse asiassa tämä valiokuntakäsitte-
+ly on sitten se tärkeä paikka vaikuttaa näihin asioihin vielä, koska siellä sitten viimeistel-
+lään tämä asia. En lähde tässä ennakoimaan, mitä valiokunnassa tulee käymään, mutta sen
+tiedän, että se tulee saamaan kyllä perusteellisen käsittelyn, ja sen se totisesti tietysti an-
+saitsee.
+
+Näissä prosesseissa, joihin muun muassa edustaja Zyskowicz ja edustaja Heinonen kiin-
+nittivät huomiota, totta, on paljon kehittämistä, ja nimenomaan näitä toimenpiteitä on oi-
+keusministeriössä tehty ja ollaan tekemässä, että me saisimme tätä laatua nimenomaan tän-
+ne käräjäoikeuksien puolelle ja myös niin, että sinne ei tulisi sitten tavallaan turhaa sälää.
+Siitä esimerkkinä on muun muassa se, että jatkossa tämmöiset selkeät tapaukset, riidatto-
+mat tapaukset, voitaisiin ratkaista esimerkiksi tien päällä niin, että jos kyse on vaikka lii-
+kennerikkomuksesta, ne eivät tulisi sitten enää näihin oikeuksiin, että saataisiin kevennet-
+tyä sitä kuormaa sieltä oikeusasteesta, ja niin, että ne voisivat keskittyä siihen tehtävään,
+mitä varten ne ovat olemassa. Tätä työtä tehdään koko ajan.
+
+Oikeastaan näistä kieliasioista sen verran, että jos otetaan vaikka tämä Pohjanmaan kä-
+räjäoikeus, siellä siis työkieli vaihtuu ruotsista suomeksi. No, se käräjäoikeuden työkieli ei
+ole ratkaiseva sen kansalaisen kielellisten perusoikeuksien toteuttamisen kannalta, koska
+se käsittelykieli on se, joka on siinä se tärkeä. Se määräytyy asiakkaan kielen perusteella.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+Silloin se on merkitsevää, että kansalainen saa tuomioistuimessa käyttää omaa kieltään. Ja
+tämä asia turvataan tässä uudistuksessa. Minun mielestäni se on iso asia. [Eva Biaudet’n
+välihuuto] Totta kai sinnekin... — Saanko vastata? [Eva Biaudet: Joo!] — Kiitos. — Kä-
+räjäoikeuteen voidaan myös perustaa kieliosasto, jolla työkielenä voi olla ruotsi. Minä olen
+lukenut jo julkisuudesta, että on huolia siitä, millä saadaan käytännössä tarpeellinen määrä
+ruotsin kieltä taitavaa henkilökuntaa sitten niihin paikkoihin. Tiedän, että ongelmia on täs-
+sä rekrytoinnissa, että ei tässä missään pilvilinnoissa oikeusministeriössä eletä tämän asian
+suhteen. Sen henkilöstön siirtymistä on tosi vaikea ennustaa, mutta oletus on tietysti se, että
+on todennäköistä, että osa näistä nykyisistä ihmisistä, jotka tätä osaavat, siirtyisi, mutta
+tämä uudistus edellyttää myös niitten työskentelytapojen muutosta. Etätyöskentely tulee li-
+sääntymään. Se koskee niin tuomareita kuin kansliahenkilöstöäkin. No, mahdollisuuksia
+tämmöisten erillisten työpisteiden säilyttämiseen selvitetään tämän uudistuksen täytän-
+töönpanossa, ja lisäksi on selvää, että siirtymäkaudella henkilöstö voi jatkaa työskentelyä
+nykyisissä sijoituspaikoissaan.
+
+Joka tapauksessa tämmöisen ammattitaitoisen ja osaavan henkilöstön menettäminen on
+tietenkin epätoivottavaa ja valitettavaa, jos henkilöstö ei siirry. Se koskee kaikkia yhdisty-
+viä käräjäoikeuksia, ei vain eteläisintä Suomea. No, Uudellamaalla väestöpohja on tieten-
+kin laaja ja siihen kuuluu lukuisia kaksikielisiä kuntia. Jo edellä todetulla tavalla suurim-
+missa yksiköissä voidaan paremmin keskittää toimintoja ja panostaa kielellisten oikeuk-
+sien toteuttamiseen, esimerkiksi koulutuksella. Käräjäoikeuteen voidaan perustaa myös
+kieliosasto, kuten sanoin, jossa siihen ruotsinkieliseen asiakaspalveluun voidaan panostaa.
+Minä itse uskon tähän, koska nämä ovat virkavastuulla valmisteltuja, että nämä on tehty
+vastuullisesti ja lain edellyttämällä tavalla ja nämä viedään maaliin niin, että perusoikeu-
+det, oikeusturva eivät tässä vaarannu ja jokainen saa palvelua omalla äidinkielellään.
+
+14.58 Katja Hänninen vas: Arvoisa rouva puhemies! Kiitos ministerille äskeisestä pu-
+heenvuorosta, mutta vielä tietysti jäimme kaipaamaan niitä selvityksiä ja varsinkin niitä
+perusteluja, miksi ja miten tähän nyt tehtyyn esitykseen on tultu.
+
+Tuomioistuinlaitoksen ja oikeuslaitoksen tehtävänä on perus- ja ihmisoikeuksiin kuulu-
+van oikeusturvan toteuttaminen. Oikeusturva perusoikeutena sisältää jokaisen oikeuden
+saada asiansa käsitellyksi asianmukaisesti ja ilman aiheetonta viivytystä lain mukaan toi-
+mivaltaisessa tuomioistuimessa sekä saada oikeuksiaan ja velvollisuuksiaan koskeva pää-
+tös tuomioistuimen tai muun riippumattoman lainkäyttöelimen käsiteltäväksi.
+
+Suomen oikeuslaitosta on supistettu merkittävästi koko 2000-luvun ajan, ja tuomiois-
+tuinten resursseja on vähennetty merkittävästi viime vuosina. Jo alun perin 90-luvulla
+alioikeuksien muututtua käräjäoikeuksiksi pienennettiin 97 alioikeuden määrää 70 käräjä-
+oikeuteen. Pienimpien käräjäoikeuksien yhdistämistä on 2000-luvulla jatkettu asteittain
+niin, että vuonna 2000 käräjäoikeuksia oli 66 ja vuonna 2007 enää viitisenkymmentä.
+
+Hallituksen esitys käräjäoikeusverkoston uudistamiseksi on kauniisti nimetty uudistuk-
+seksi, vaikka se on todellisuudessa käräjäoikeusverkoston leikkaamista ja sillä haetaan eu-
+romääräisiä säästöjä. Hallitus on esityksellään lakkauttamassa 7 käräjäoikeutta eli jopa 25
+prosenttia nykyisistä käräjäoikeuksista. Käräjäoikeuden kanslia ja istuntopaikka katoaisi
+tämän esityksen mukaan monelta paikkakunnalta, niin kotipaikkakunnaltani Raahesta kuin
+monelta muultakin paikkakunnalta.
+
+Täällä salissa on tänään esitetty useamman edustajan puheenvuoroissa, myös hallitus-
+puolueen edustajien puheenvuoroissa, huolia siitä, mikä näitten lakkautusten vaikutus oli-
+14
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+si aluetaloudellisesti monelle seutukaupungille ja miten kielelliset oikeudet toteutuvat.
+Myös ihmisten oikeusturvan toteutumisesta on kannettu ihan aiheellisesti huolta.
+
+Käräjäoikeuksien leikkaaminen on yksi useammasta Sipilän hallituksen keskittämispo-
+litiikkaa edistävistä toimista. Ei ole kulunut kuin muutama kuukausi siitä, kun päivystys-
+uudistuksella lakkautettiin pieniltä paikkakunnilta leikkauspäivystyksiä, ja jo nyt ollaan
+viemässä maaseudulta pois myös käräjäoikeuksia ja istuntopaikkoja. Mitähän palveluita
+vielä halutaan ottaa pois maaseudulta?
+
+Arvoisa puhemies! En ymmärrä, miten kansalaisten oikeusturvaa parannetaan pidentä-
+mällä asiointimatkoja merkittävästi. Sähköinen asiointi ei ratkaise kaikkia saavutettavuu-
+teen liittyviä ongelmia, sillä kaikilla ei ole riittävää osaamista ja laitteistoa sähköisten yh-
+teyksien käyttämiseen. Käräjäoikeusverkostoa supistettiin merkittävästi siis vain viitisen
+vuotta sitten. Meillä ei ole riittävän kattavaa selvitystä siitä, miten tämä vaikutti kansalais-
+ten oikeusturvaan, ja silti edessä on jo uusi karsiminen. Näyttää valitettavasti siltä, että
+Suomessa on kaikki myynnissä, myös ihmisten oikeusturva.
+
+15.02 Johanna Ojala-Niemelä sd: Arvoisa rouva puhemies! Tämä nyt käsiteltävä esitys
+juontaa työryhmän esitykseen, joka ehdotti 10 tai 13 käräjäoikeuden lakkauttamista ja jon-
+ka silloinen oikeusministeri Anna-Maja Henriksson tyrmäsi. Nyt hallitus sitten päätyi pit-
+kien vääntöjen jälkeen seitsemän käräjäoikeuden lakkauttamiseen.
+
+Oikeusvaltion ylläpitäminen vaatii mielestäni pitkäjänteisyyttä, eikä perustavanlaatui-
+sia muutoksia ja uudistuksia tule toteuttaa pikaisten säästöjen hankkimiseksi niukan talou-
+dellisen tilanteen vallitessa. Tässä esityksessä esitetty analyysi esityksen vaikutuksesta oi-
+keusturvan saatavuuteen on täysin riittämätön. Vuonna 2010 toteutetun edellisen lakkau-
+tusprojektin vaikutuksia kansalaisten oikeusturvaan tai tuomioistuinlaitoksen kustannusra-
+kenteeseen ei ole kunnolla tutkittu, ja se olisi pitänyt tehdä ennen mahdollisia lakkautuksia.
+
+Käräjäoikeusverkoston rakenteellisen kehittämisen tulisi lähteä näiden vuonna 2010 to-
+teutettujen käräjäoikeusuudistusten vaikutusten perusteellisesta arvioinnista. Jo nyt voi-
+daan sanoa, että oikeudellisten palveluiden määrä on vähentynyt merkittävästi niiltä paik-
+kakunnilta, joilta käräjäoikeus lakkautettiin vuonna 2010. Lakimiesliitto on arvioinut, että
+esimerkiksi asianajotoimistojen määrä on näillä paikkakunnilla vähentynyt 15 prosentilla
+ja niissä työskentelevien juristien määrä 20 prosentilla uudistusta seuranneiden viiden vuo-
+den aikana.
+
+Kansalaisten ja yritysten oikeusturvan takaaminen vaatii kattavaa tuomioistuinverkkoa
+siten, että tuomioistuimet sijaitsevat kohtuullisen etäisyyden päässä niiden palveluiden
+käyttäjistä. On pelkona, että tämä käräjäoikeusverkoston karsiminen johtaa tuomareiden,
+avustajien, asianosaisten ja todistajien matkakustannusten lisääntymiseen ja luonnollisesti
+käytetyn ajan lisääntymiseen. Tämä tarkoittaa tuomareiden ajankäytön tehokkuuden heik-
+kenemistä ja oikeudenkäyntien kokonaiskustannusten lisääntymistä sekä lisää kynnystä
+saattaa asioita oikeuslaitoksen käsiteltäväksi. Myös todistajien kuuleminen vaikeutuu, kun
+yhä useampi todistaja jättää saapumatta paikalle. Poliisille aiheutuvat menot kasvavat, kun
+tarvittavien vastaajien noutojen määrä tulee moninkertaistumaan, koska monilla vastaajil-
+la ei ole rahaa matkustaa pitkien matkojen päähän istuntoon eikä matkarahaan saa julkista
+tukea.
+
+Toivon, että tässä tilanteessa oikeusministeriö seuraa tiiviisti nyt toteutettavista lakkau-
+tuksista seuraavaa tuomareiden, syyttäjien, oikeudenkäyntiavustajien ja todistajien matka-
+kustannusten kasvua. Uskon siihen, että seiniä vähentämällä ei saada kovinkaan paljon
+15
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+suoraa säästöä, kun samalla sitten matkakustannukset väistämättä kasvavat. Tuomioistuin-
+palvelujen lisäksi ihmisiltä katoavat kauemmaksi perhe- ja perintöasioihin liittyvät tuo-
+mioistuinten ulkopuoliset palvelut ja pieniltä ja keskisuurilta yrityksiltä esimerkiksi sopi-
+musten laatimiseen liittyvä osaaminen, kun asianajo- ja lakiasiaintoimistot muuttavat pois
+paikkakunnilta.
+
+Toivon itse, että tuomioistuinhallinnon perustaminen etenee tällä vaalikaudella Euroo-
+pan neuvoston suositustenkin mukaisesti siten, että se olisi oikeusministeriöstä erillinen.
+Mutta olisin kyllä samaan hengenvetoon toivonut, että tämä esitys olisi ollut sitten tuon
+tuomioistuinhallinnon ratkaistavissa myöhemmin, miten tässä asiassa edetään.
+
+Täällä on puhuttu tänään myös etäyhteyksistä. Lappilaisena voin sanoa, että etäyhteydet
+ovat hyvä asia mutta ne eivät kyllä toimi tässä maassa vielä riittävällä tasolla. Osa etäisyyk-
+sien kasvamisen aiheuttamista oikeusturvaongelmista voitaisiin ratkaista parempia etäyh-
+teyksiä käyttämällä, mutta se vaatii edelleen suuria investointeja, ja siihen meillä ei ole vie-
+lä valmiuksia.
+
+15.08 Anne Kalmari kesk:  Arvoisa rouva puhemies! Haluan käyttää puheenvuoron ni-
+menomaan siitä lähtökohdasta, miten voisimme minimoida haittavaikutukset ja toimia tu-
+levaisuudessa vielä paremmin kuin mitä nykyään toimitaan.
+
+Tässä edustaja Ojala-Niemelä viittasi noihin etäyhteyksiin, ja toki ne kuitenkin esimer-
+kiksi kuntakeskuksista toimivat kohtuullisesti. Mielestäni olisi todella järkevä uudistus to-
+distajankin kohdalla se, että hän voisi antaa todistuksen, todistajanlausuntonsa etänä. To-
+distajallahan on velvollisuus saapua oikeuskäsittelyyn uhkasakon uhalla, ja oikeastaan sii-
+tä syystä tiedän, että ihmiset vähän välttelevät silminnäkijänä toimimista, koska eivät ha-
+lua uhrata sitä päiväänsä oikeuskäsittelyyn siitä saatavan mitättömän kulukorvauksen täh-
+den. Luulisin, että tällainen etätodistaminen olisi järkevä askel kohti tulevaisuutta.
+
+Toinen asia, mihin tässä jo useammassakin puheenvuorossa viitattiin, on turhien käsit-
+telyjen saaminen kokonaan pois oikeussalista ja myös oikeusoppineilta muutenkin. Esi-
+merkiksi Maanmittauslaitos on tehnyt hyvää työtä, nykypäivänä kiinteistöjen kauppakirjo-
+ja ei välttämättä tarvitse oikeusoppineilla asti käyttää. Mutta myöskin monet oikeusproses-
+sit voitaisiin käydä kevyesti sovittelemalla keskenään vähän alemmalla tasolla. Ja mieles-
+täni tämä olisi sekä asiakkaan että yhteiskunnan kannalta erittäin järkevää toimintaa.
+
+15.10 Anna-Maja Henriksson r:  Värderade fru talman, arvoisa puhemies! Hallituksen
+esittämä käräjäoikeusuudistus vähentää rajusti maamme käräjäoikeuksia ja istuntopaikko-
+ja. Toimiva oikeudenhoito on kuitenkin yksi oikeusvaltiomme peruspilareita. Siksi halli-
+tuksen käräjäoikeusuudistus on mielestäni hyvin lyhytnäköinen. On selvää, että valtionta-
+loutta on tasapainotettava, mutta käräjäoikeuksien lakkauttamisesta saatavat säästöt ovat
+erittäin pienet verrattuna siihen vahinkoon, mitä lakkauttamiset aiheuttavat ja voivat ai-
+heuttaa. Puhutaan ihan murusista, kun puhutaan nyt tästä säästötavoitteesta, muutama mil-
+joona vuodessa, mutta kansalaisten osalta puhutaan suurista asioista, puhutaan perustavaa
+laatua olevasta oikeusturvasta.
+
+Käräjäoikeusverkoston uudistamista selvitettiin jo viime vaalikaudella ollessani itse oi-
+keusministeri, ja silloin totesin selkeästi, että en voi hyväksyä virkamiesten tekemää selvi-
+tystä. Sanoin silloin näin: "En voi hyväksyä työryhmän esittämiä malleja käräjäoikeusver-
+koston kehittämiseksi. Tämä on täysin virkamiespohjainen selvitys, johon päättäjät saavat
+16
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+tulevien vaalien jälkeen ottaa kantaa. Omasta mielestäni esitetyt mallit ovat liian radikaa-
+leja. Myös muita vaihtoehtoisia malleja olisi hyvä selvittää."
+
+Nykyiselle keskustavetoiselle hallitukselle tuomioistuintoiminnan keskittäminen ei sel-
+västikään ole ongelma, ei näytä olevan muunkaan toiminnan keskittäminen. Kansalaisille
+se kuitenkin on, kun etäisyydet lähimpään toimipisteeseen pitenevät. Oikeudellisten palve-
+lujen saatavuus heikkenee ja riippuu yhä enemmän siitä, missä kansalainen asuu. Tämä ei
+ole oikeudenmukaista. Huomionarvoista on myös, että käräjäoikeuksia ja niiden toimipis-
+teitä ehdotetaan lakkautettavaksi etenkin kaksikielisillä paikkakunnilla. Tämä on selkeä
+poliittinen valinta hallituksen taholta.
+
+Värderade talman! Svenska riksdagsgruppen och svenska folkpartiet kan inte godkänna re-
+geringens drastiska nedskärningar i antalet tingsrätter och tingsplatser. Man kan fråga sig
+ifall det verkligen handlar om en slump att de tvåspråkiga orterna är överrepresenterade på
+listan över de orter där verksamhet dras in. Borgå, Raseborg, Jakobstad, Kyrkslätt, Kristi-
+nestad, Kimitoön, listan är lång. Det verkar tyvärr handla om ett medvetet politiskt val från
+regeringens sida.
+
+Rätten att få service på sitt eget modersmål är särskilt viktigt i samband med domstols-
+behandling och de ofta mycket komplicerade juridiska ärenden som det gäller. Det handlar
+om människors grundläggande rätsskydd. Tingsrättsreformen äventyrar denna rätt.
+
+Minimikravet i tingsrättsreformen måste vara att det finns tillräckligt antal språkkunni-
+ga domare vid tingsrätterna också i framtiden. Men det handlar inte enbart om domare. Det
+handlar också om språkkunnig kanslipersonal vid domstolarna. Då den enskilda medbor-
+garen tar kontakt med domstolen är det oftast med kanslipersonalen man talar. Då tings-
+rättskanslierna inte längre finns på tvåspråkiga orter blir det särskilt svårt att rekrytera
+språkkunnig kanslipersonal. Det här är helt uppenbart, det är synd bara att regeringen väl-
+jer att blunda.
+
+Tingsrättsreformen har också konsekvenser med tanke på utbildningen av framtida do-
+mare som kan svenska. Om regeringen får sin vilja igenom kan domstolspraktik i framti-
+den endast utföras på svenska vid Ålands tingsrätt, och där finns i så fall två notarieplatser.
+Värderade regering, det här hoppas jag att ni ändrar på.
+
+Arvoisa ministeri, miten oikeudellisten palvelujen alueellinen saatavuus voidaan turvata
+yhdenvertaisesti kaikille kansalaisille samalla kun etäisyydet pitenevät? Tämä on kysy-
+mys, jonka olemme monet esittäneet. Ja miten hallitus aikoo taata, että kansalaisten kielel-
+liset oikeudet turvataan käräjäoikeusuudistuksen yhteydessä käytännössä? Sanon tässä
+niin kuin presidentti totesi, kun hän vahvisti päivystysuudistuslain: kielellisten oikeuksien
+on toteuduttava myös käytännössä.
+
+Ja arvoisa ministeri, toivon, että nyt, kun tämä laki etenee lakivaliokuntaan, voisitte olla
+avoin sille — mitä tulee näihin tuomarin harjoittelupaikkoihin — että voitaisiin saada ai-
+kaiseksi muutos, joka mahdollistaisi myös sen, että myös Manner-Suomessa olisi harjoit-
+telupaikkoja, joissa vaaditaan täydellinen ruotsin kielen taito. Muuten tässä vaarannetaan
+pitkällä tähtäimellä sitä, että meillä on todella kaksikielisiä tuomareita. Tässä on nyt käy-
+mässä niin, että ne kolme paikkaa, jotka Vaasan käräjäoikeudessa on, ovat nyt siirtymässä
+suomenkielisiksi, ja se tarkoittaa sitä, että on ainoastaan kaksi paikkaa Ahvenanmaalla.
+Tämä ei ole oikeudenmukaista, ei nuoria juristeja kohtaan. Ja nuoria juristeja ei saisi koh-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+della eriarvoisesti äidinkielen perusteella. Pitäisi olla mahdollisuus auskultoida myös ruot-
+siksi, kunnes myös suuri suomen kielen koe on saatu kirjoitettua.
+
+Arvoisa puhemies! Toivon, että ainakin näistä kysymyksistä voidaan keskustella. Toi-
+von myös, että ministeri ja ministeriön virkamiehet lukevat tämän päivän Hesarissa olleen
+käräjälaamanni Mika Illmanin kirjoituksen. Se on erittäin asiallinen. Muistutan myös siitä,
+että yli 60 prosenttia lausunnon antajista on ollut tätä uudistusta vastaan. Muistutan myös
+siitä, että Lakimiesliitto on katsonut, että tämä myös heikentää lakimiespalveluja ympäri
+Suomea. Ja haluan lopuksi todeta, että toivon, että avoimin mielin mennään nyt eduskun-
+takäsittelyyn ja että siellä vielä pystytään tekemään viisaita ratkaisuja, jotka veisivät tämän
+uudistuksen parempaan suuntaan.
+
+Ja lopuksi en voi olla huomaamatta sitä, että jostain ihmeen syystä Pietarsaaresta vie-
+dään käräjäpaikka, mutta Kauhavalla se säilyy. Pietarsaaren kaupunki on 50 000 asukkaan
+seutukaupunki. Niin kuin edustaja Kääriäinen tässä totesi, seutukaupungit ovat häviäjiä
+tässä uudistuksessa. Kauhavalla istutaan paljon vähemmän käräjiä. Siellä kuitenkin säilyy
+käräjäpaikka. Mistäköhän syystä?
+
+15.17 Kimmo Kivelä ps: Puhemies! Historian kuluessa usein välttämättömät uudistukset
+ovat lähteneet liikkeelle vasta pakon edessä, ja tässä uudistuksessa on osittain siitä kysy-
+mys. Nimittäin käräjäoikeusprosesseissa on paljon yksinkertaistamisen varaa ja mahdolli-
+suuksia ja mahdollisuuksia hyödyntää modernia teknologiaa, mutta samanaikaisesti mei-
+dän on aidosti oltava huolissamme niistä asioista, joita tässä lähetekeskustelussa on tullut
+esille. Elämme pitkien välimatkojen päässä, pitkien välimatkojen maassa, ja kansalaisten
+oikeusturva on aina ajankohtainen kysymys.
+
+Tässä keskustelussa nimenomaan pohjoissavolaiset edustajat ovat perustellusti olleet
+huolissaan ja ovat olleet täällä äänessä. Meiltä on kaksi eli Varkaus ja Iisalmi lähtemässä,
+ja kyselemme aidosti sen perään, tulevatko kustannukset jonnekin muualle suurentuvina
+matkakuluina. Kenties kulut siirtyvät oikeusministeriön hallinnonalalta poliisin hallinnon-
+alalle lisääntyvässä määrin. Käykö niin, että Kuopioon sitten keskittyykin jutturuuhka, kä-
+sittelyajat pitenevät sen vuoksi, että siellä ei ole yksinkertaisesti riittävästi tiloja, joissa
+asiat saataisiin joustavasti, nopeasti, inhimillisesti käsiteltyä?
+
+Eli on todellakin välttämätöntä, että lakivaliokunta tätä kysymystä vielä tarkastelee erit-
+täin perusteellisesti.
+
+15.20 Thomas Blomqvist r: Fru talman! Enligt utkastet ska Västra Nylands tingsrätt läg-
+gas ner och införlivas i Esbo. Dessutom föreslås att Östra Nylands tingsrätt i Borgå också
+läggs ner och införlivas i Vanda tingsrätt. Esbo, och särskilt Vanda tingsrätter är båda i
+praktiken starkt finskspråkiga. Om man jämför Västra Nylands tingsrätt med andra tings-
+rätter kan man konstatera att det finns ett flertal andra tingsrätter, belägna i regioner med en
+ungefär likadan eller lika stor befolkning som Västra Nylands tingsrätt men med bättre
+kommunikationer till närmaste stora tingsrätt, som ändå blir kvar. Till exempel Kymmen-
+edalens tingsrätt har en befolkningsmängd på 173 000 personer, ungefär lika stor som nu-
+varande Västra Nylands tingsrätt. Den planerade Södra Karelens tingsrätt har en befolk-
+ningsmängd på 131 000 personer, alltså mindre än Västra Nylands tingsrätt.
+
+För Östra Nylands tingsrätts del kan man kostatera att Hyvinge bevaras fast där ändå
+finns bättre tågförbindelser, åtminstone än från Västra Nyland, 30 minuter och endast 60
+kilometers köravstånd från Vanda. De här tingsrätterna har inte liksom Västra Nylands
+18
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+tingsrätt en utpräglad uppgift att producera rättstjänster på två språk. Jag hoppas att både
+lagutskottet och grundlagsutskottet bedömer om det trots allt finns en grund för att hålla
+kvar tingsrätter i Västra Nyland och i Östra Nyland redan på språklig grund.
+
+Arvoisa puhemies! Kehotan, kuten edustaja Henriksson, kaikkia lukemaan Mika Illmanin
+kirjoituksen tämän päivän Hesarissa. Hän on käräjätuomari ja oikeustieteen tohtori. Hän
+perustelee oikein hyvin, miksi sekä läntisellä Uudellamaalla että itäisellä Uudellamaalla
+pitäisi säilyttää nämä käräjäoikeudet, Porvoossa ja Raaseporissa. Haluan myös vielä ker-
+ran nostaa esille sen seikan, että Espoon käräjäoikeuden laamanni on todennut, että siellä
+on vaikeuksia rekrytoida ruotsin kieltä osaavaa henkilökuntaa nykyiseen käräjäoikeuteen,
+ja tämä asia ei varmaan tule muuttumaan, joten turvallisin ja [Puhemies koputtaa] minun
+kokemukseni mukaan ainoa tapa olisi säilyttää sekä Porvoon että Raaseporin käräjäoikeu-
+det ainakin, niin että siellä toiminta säilyisi.
+
+15.22 Eva Biaudet r: Arvoisa puhemies! Olemme jälleen sellaisessa kohdassa, jossa voi
+olla, että tuntuu, että ei tehdä kovin suurta ratkaisua, vaikka se käytännössä on. Mutta silti
+tehdään, vaikka se käytännössä tuntuu olevan tällaisia käytännöllisiä järjestelyjä, joilla
+säästetään jopa 7,5 miljoonaa euroa ja niin edelleen. Mutta todellisuudessa vaikutukset
+ovat paljon paljon kauaskantoisemmat ja säästöjä ei synny. Itse asiassa on riski, että Suo-
+men kaksikielisyyden perustaa murennetaan.
+
+Jos joku kysyy, että mikä tekee Suomen kaksikieliseksi, minä luulen, että melkein jokai-
+nen vastaisi, että meillä oikeus käydä oikeutta ja saada oikeudessa palveluja omalla kielel-
+lä. Vaikka papereissa ja hallituksen esityksissä lukee selvästi, että nämä "täytyy taata" ja
+"on turvattava" ja "pitää olla riittävät", me tiedämme kaikki kokemuksesta, että jollei eri-
+tyisrakenteita pidetä yllä tai luoda, niin todellisuudessa se ei ole niin yksinkertaista. Esi-
+merkiksi tämä riski, että ei ole auskultointipaikkoja muualla kuin kaksi paikkaa Ahvenan-
+maalla, on ihan selvä, hyvin nopea uhka sille, että ruotsinkielisten tuomareiden määrä tu-
+lee vähentymään. Olisi tietenkin hienoa, jos kaikki osaisivat ruotsia ja suomea sen verran,
+että pystyisivät antamaan niitä palveluja molemmilla kotimaisilla kielillä, mutta me tie-
+dämme, miten tämä tilanne on, ja me tiedämme myös, että jotkut poliittiset voimat myös-
+kin haluavat, että tilanne on sellainen, että ruotsin kieli vähenee täältä Suomesta.
+
+Ajattelen, ehkä en voi olla ajattelematta, arvoisa oikeusministeri, että teidät on jätetty
+nyt niin kuin hiukan stereotyyppisen perussuomalaisen asemaan yksin hallituksessa ja ve-
+tämään alas ruotsinkielisiä palveluja ja että muut hallituspuolueet pääsevät tästä aika hel-
+polla. Hallitus tietenkin kokonaisuudessaan vastaa tästä.
+
+On ilmeistä, että lakivaliokunta tulee tarkastelemaan tätä ja joutuu selvittämään, millai-
+sia toimenpiteitä me tarvitsemme ihan käytännössä, jotta nämä oikeudet ja oikeusturva säi-
+lyvät ja jotta oikeusjärjestelmä säilyy laadukkaana jokaiselle, [Puhemies koputtaa] mihin
+liittyy ja kuuluu myöskin kielelliset oikeudet. — Kiitos.
+
+15.25 Mats Löfström r: Värderade fru talman! Svenskspråkiga begår också tyvärr brott
+och blir anklagade. Men förändringen riskerar att urgröpa rättsskyddet för svenskspråkiga
+ifall man inte kan garantera att domarna förstår den anklagades eller målsägandes språk,
+inte bara i tingsrätter utan också i hovrätter. Det här kan redan i dag i praktiken vara fallet,
+och att två svenskspråkiga parter därför väljer att använda finska i praktiken eftersom man
+inte litar på att domstolens kunskaper i svenska är tillräckliga i praktiken och att man är
+19
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+oroade för att det kan påverka domslutet. Men alla kan inte finska och reformen riskerar
+därför att undergräva rättsskyddet för svenskspråkiga vilket är ytterst allvarligt. De sum-
+mariska tvistemålen är mycket viktiga för Ålands tingsrätts verksamhet och jag hoppas
+verkligen att de summariska tvistemålen fortsättningsvis kan bli kvar på Åland. 
+
+Nätverket av hovrätter berörs inte i det här lagförslaget men det finns en oro över att det
+skulle ske förändringar också i nätverket av hovrätter i framtiden. Antalet hovrätter är re-
+dan i dag rätt lågt i landet. Att sjörättsliga ärenden till exempel planeras att flyttas från Åbo
+till Helsingfors är oroväckande i det här hänseendet.
+
+Haluan siksi kysyä ministeri Lindströmiltä: Onko muutoksia suunnitteilla hovioikeuksien
+osalta? Ahvenanmaalaiset valittavat päätöksistä Turun hovioikeuteen, joka jo nykyisel-
+lään sijaitsee aika kaukana. Kysynkin: onko muutoksia suunnitteilla hovioikeusverkos-
+toon? Toivon, että asia ei ole näin, koska hovioikeuksien väliset etäisyydet ovat jo nyt pit-
+kät.
+
+15.26 Timo V. Korhonen kesk:  Arvoisa puhemies! Kun käräjäoikeuksien toimipiste-
+määrä laskee 57:stä 36:een, niin totta kai etäisyydet monella tavalla kasvavat, ja kyse on
+asiakkaan oikeusturvan ydinsisällöstä ja oikeuden saatavuudesta, kuten täällä on moneen
+otteeseen todettu. Kuitenkin olisi tärkeää, että henkilökohtainen asiointi kohtuuetäisyydel-
+lä sijaitsevassa palvelupisteessä säilyisi ja turvattaisiin jatkossakin.
+
+Millä tavalla tämä voisi sitten tiukassa taloustilanteessa kaiken kaikkiaan jatkossa toteu-
+tua, niin yksi keino siihen varmaan olisi se, että kuntiin perustettaisiin näitä yhteisiä palve-
+lupisteitä, joista olisi saatavissa joko henkilökohtaista tai etäpalvelua myös oikeudenhoi-
+toon liittyvissä asioissa. Ymmärrän sillä tavalla, että tämä käytännössä edellyttäisi vain joi-
+takin hyvinkin vähäisiä lainsäädäntömuutoksia sekä ennen kaikkea valtion ja kuntien vi-
+ranomaisten välistä yhteistyötä. Kysymys ei ole edes resursseista vaan yhteistyön uudesta
+avaamisesta ministeriöitten sekä valtion ja kuntien välillä. Kysymyshän on ennen kaikkea
+siitä, että pyritään nämä palvelut turvaamaan myös täällä oikeuspuolella mahdollisimman
+laadukkaasti.
+
+Minä toivoisin, että tätä nyt sitten valiokuntakäsittelyssä myös pohditaan, mitä ikään
+kuin tilalle. Toivoisin tietysti myös sitä, että ministeri arvovallallaan ja oikeusministeriö
+myös olisivat tässä kuntien yhteispalvelupisteasiassa hyvin aktiivisia kuntiin ja muihin mi-
+nisteriöihin päin.
+
+15.28 Matti Semi vas:  Arvoisa rouva puhemies! Tämä esitys käräjäoikeusuudistukseksi
+on mielestäni todellista käräjäverkoston rajua leikkaamista, kun miettii sitä, mitä aikaisem-
+min on tehty. Tämä on niin kuin jatkoa sille. Minusta tässä semmoiset keskeisimmät on-
+gelmat liittyvät aluepoliittisiin kysymyksiin ja kielellisiin oikeuksiin. Kun miettii sitä ai-
+kaisempaa, niin jo pelkästään 2000-luvulla käräjäoikeuksia on vähennetty 66 tuomioistui-
+mesta nykyiseen 27 käräjäoikeuspaikkaan, ja lisää nyt ollaan esittämässä. Nyt nämä
+lisäesitykset ovat selkeästi heikentämässä kansalaisten oikeuspalveluiden saantimahdolli-
+suuksia ja samalla heikentävät kansalaisten oikeusturvaa, mitä henkilökohtaisesti pidän
+erittäin suurena riskinä.
+
+Lisäksi on kysymys aluepoliittisesta valtiohallinnon työpaikkojen alasajosta, kun huo-
+mioi sen, että käräjäoikeus käsittelee valtionhallinnon toimijoiden, kuten poliisin, ulos-
+oton, maistraatin, oikeusaputoimiston ja Veron, asioita. Kaikki nämä edellä mainitut viras-
+20
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+tot miettivät varmaan jatkossa toimintansa tarpeellisuutta niillä alueilla, missä käräjäoi-
+keus on lakkautettu, ja samalla sitä laajuutta, mitenkä laajoille alueille niitä kanslioita tulee
+toimimaan, ja se saattaa aiheuttaa lisää valtion kanslioitten lakkauttamisia.
+
+Näillä valtion palvelujen saatavuudella on vaikutusta myös yritysten sijoittumisiin alu-
+eilla. Sillä on myös alueiden kannalta elinkeinopoliittista merkitystä. Nyt kun lakkautetta-
+vien listaa käy läpi, niin merkille pantavaa on se, että iso osa niistä sijaitsee alueilla, missä
+on pitkät välimatkat. Ja kun ajattelen esimerkiksi koko Savoa, niin siellä tapahtuu se, että
+Savonlinnasta lähtee, Varkaudesta lähtee, Iisalmesta lähtee ja Pieksämäen istuntopaikka-
+kin lähtee pois. Kuitenkin tuommoinen tuntuva isku tämmöiselle alueelle tulee olemaan, se
+tulee lisäämään myös tätä asuinpaikasta riippuvaa ihmisten oikeusturvan eriarvoisuutta.
+
+Lisäksi se tulee lisäämään tuntuvasti todistelukustannuksia, kun todistajien matka- ja
+ansionmenetyskuluja tulee huomattavasti lisää. Huomioitavaa on myös poliisien määrän
+vähentyminen ja se, kuinka paljon heidän ajankäyttöään sitoo syytettyjen kuljettaminen
+tuomioistuinpaikkakunnalle. Tämä tulee osaltaan lisäämään turvattomuutta harvaan asu-
+tuilla alueilla, kun poliisit eivät pysty hoitamaan normaaleja työ- ja partiotehtäviään.
+
+Mielenkiintoinen asia oli lukea Tuomariliiton kannanotto asian johdosta. Sen pääsisältö
+oli sellainen, että suurentamalla käräjäoikeusalueita ei saavuteta säästöjä, hankkeen ajoi-
+tus on epäonnistunut, tarvitaan laajempi selvitys ennen kuin tehdään pitkälle tulevaisuu-
+teen tähtääviä päätöksiä. Edellisen, vuonna 2010 tehdyn uudistuksen jälkeen, jolloin vä-
+hennettiin 24 käräjäoikeutta, kattavaa kokonaisvaikutusta ei olla kuitenkaan tehty, ja olisi
+toivonut, että se olisi ollut ensin valmiina, kun oltaisiin tähän lähdetty jatkotoimenpiteitä
+tekemään.
+
+Mielestäni nämä käräjäoikeuspaikkojen lakkauttamiset Varkaudessa tai muuallakaan
+alueella eivät ole järkeviä vaihtoehtoja kokonaisuuden kannalta, vaan ne tarvitsisi säilyt-
+tää, sillä käräjäoikeuksien aluepoliittinen merkitys on suuri. Minusta olisi parempi ensin
+selvittää näitten aikaisempien ratkaisujen kokonaistaloudelliset vaikutukset kansantalou-
+teen ja ottaa ensin siitä opiksi, ennen kuin jatketaan käräjäoikeuksien lisäalasajoja.
+
+15.33 Suna Kymäläinen sd: Arvoisa rouva puhemies! "Oikeusistuimien yhdistäminen on
+järkyttävä esimerkki asioiden huonosta valmistelusta ja poliittisesta pelistä. Sellaista ei
+voida sallia." Näin totesivat kansanedustajat Reijo Tossavainen ja Jari Lindström Kouvo-
+lan sanomissa 22.6.2012, kun Kouvolan hovi- ja hallinto-oikeuksien lakkauttamisesta osa-
+na hovi- ja hallinto-oikeusverkon uudistamista tuli tieto. Nyt kysyisin ministeri Lindströ-
+miltä, kun oikeusverkostosta tässäkin esityksessä on kysymys: mikä on muuttanut mielen-
+ne?
+
+Prosessioikeuden emeritusprofessori Jyrki Virolainen on kirjoittanut blogissaan, että
+"on odotettavissa, että oikeusturva tulee uudistuksen johdosta huonontumaan, kuten esi-
+merkiksi Suomen tuomariliitto on todennut. Uudistuksen myötä oikeusturvan saatavuus
+heikkenee ja etäisyydet kasvavat. Asianajajien toiminta vaikeutuu, mikä ei tietenkään edis-
+tä oikeusturvaa. Käräjäoikeuksien työn selkeä painopiste on suullisissa käsittelyissä, ei kir-
+jallisessa kansliakäsittelyssä, vaikka ministeri, joka on oikeusasioissa maallikko, yritti tie-
+dotustilaisuudessa muuta väittää."
+
+Arvoisa puhemies! Arvoisa ministeri! Käräjäoikeuksiamme ei tällä hetkellä vaivaa jou-
+tilaisuuden vaiva. Kun verkostoa leikataan lähes kolmannes, 27:stä 20:een, ei se voi mil-
+lään ajattelulla parantaa oikeudenhoidon laatua. Perustuslaki määrää käsittelyaikojen koh-
+tuullisuudesta. Verkoston leikkaus tietää käsittelyaikojen venymistä eikä mitenkään lyhen-
+21
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+nä käsittelyaikoja. Miten takaatte tämän jälkeen tuomioistuinten mahdollisuuden toteuttaa
+perustuslaissa määriteltyjä tehtäviään? Miten te, arvoisa ministeri, määrittelette kohtuulli-
+sen käsittelyajan? Tiedossa olevan todellisuuden vallitessa te silti uskallatte esittää näin
+mittavaa käräjäoikeusverkoston leikkausta.
+
+15.35 Hannu Hoskonen kesk:  Arvoisa rouva puhemies! Esitys käräjäoikeusverkoston
+uudistamiseksi ja supistamiseksi on kieltämättä ongelmallinen, mutta se on myös tämän
+ajan asia, elikkä meidän tulee ottaa huomioon valtiontalouden realiteetit, maailman nopeu-
+tuminen, digitalisaation eteneminen ja niin edelleen. Se, mikä oli 10 vuotta tai 20 vuotta
+sitten hyvää, ei välttämättä tänä päivänä enää sitä ole. Meidän on joka tapauksessa tässä ke-
+hityksessä pysyttävä mukana ja modernisoitava näitä eri prosesseja, ja tämä koskee myös
+oikeusministeriön hallinnonalaa, kuten ministeri omassa puheenvuorossaan totesi.
+
+Se, että kielellisistä oikeuksista kannetaan tässä keskustelussa suurta huolta ja ministeri
+on itse paikalla tätä kuulemassa, on äärimmäisen tärkeä asia. Ja kuten ministeri totesi, kie-
+lellisiin oikeuksiin tällä uudistuksella ja käräjäoikeusverkoston harventamisella ei kajota.
+Jos sitten tämän prosessin aikana tai sitten lain voimaan jo tultua moista ongelmaa havai-
+taan, totta kai siihen pitää puuttua kovalla kädellä heti ja korjata ne virheet. Perustuslakim-
+mehan turvaa, että jokaisella kansalaisella on oikeus asioida sekä tuomioistuimessa että vi-
+ranomaisissa ja saada sieltä sitten ratkaisu kohtuullisessa ajassa omalla äidinkielellään. Si-
+tähän tämä perustuslain kirjain tarkoittaa, ja tästä kirjaimesta on tiukasti pidettävä kiinni.
+Lakivaliokunta on tässä asiassa kyllä erittäin korkean temppelin harjalla, ja tämän lähete-
+keskustelun henki on varmaan välittynyt lakivaliokunnan jäsenille ja puheenjohtajalle, jo-
+ten tätä asiaa tullaan kyllä varmasti siellä sitten tarkasti käsittelemään ja tämän keskuste-
+lun aikana esille nousseet ongelmat otetaan huomioon.
+
+Tärkeää on kuitenkin tässä uudistuksessa se, että oikeusprosesseja kehitetään sinänsä.
+Kun meillä iso osa riitajuttuja menee käräjäoikeuksiin ja pyörii siellä pitkiä, pitkiä aikoja,
+niin kyllä siinä prosessissa tulisi ottaa huomioon myös sovittelumahdollisuuden paranta-
+minen ja nimenomaan niin, että saataisiin niitä juttuja käsiteltyä nopeasti ja sieltä sitten
+päästäisiin eteenpäin.
+
+Suomi on menossa hyvin huolestuttavaan suuntaan varsinkin hallinto-oikeuspuolella.
+Meistä on tulossa tämmöinen hallinto-oikeusyhteiskunta, jossa lähes jokaisesta asiasta voi
+valittaa hallinto-oikeuteen. Jutut seisovat pitkään, pitkään ja pitkään, ja se aiheuttaa valta-
+via kustannuksia, ja ennen kaikkea investoinnit viivästyvät ja syntyy työttömyyttä ja turhia
+kustannuksia. Tämän takia, vaikka tämä nyt on tietenkin tätä prosessioikeuden asiaa ja kä-
+räjäoikeusasiaa, toivon kuitenkin, kun ministeri on paikalla, että myös tätä hallintopuolta
+kopaistaisiin. Meillä on valtava määrä erilaisia oikeudenkäynnin kannalta ihan käsittämät-
+tömiä menettelyjä, joissa vähäpätöisestä asiasta hallinto-oikeuden ratkaisun saaminen kes-
+tää vuosia, ja se ei ole minun mielestäni mitenkään perusteltua.
+
+Kerron yhden esimerkin, kun on tilaisuus siihen. Muutamaa valokuituverkkoa kun Ilo-
+mantsiin rakennettiin, siihen liittyvän viranomaispäätöksen saaminen aivan yksinkertai-
+sesta asiasta, saako julkisen, yleisen tien ali vetää piuhan sellaisella uudella tunkkausme-
+netelmällä, jossa tehdään putki tien alle ja sitten siihen putkeen sijoitetaan kaapelit, tämän
+luvan saaminen, kesti 8 kuukautta. 8 kuukautta paperit seisoivat tamperelaisen viranomais-
+insinöörin pöydällä, ja 8 kuukauden kuluttua tuli ratkaisu. Eihän tässä ole mitään järkeä
+tässä hommassa. [Ilkka Kanerva: Puhuja on oikeassa!] Tällaisten asioiden pitäisi selvitä
+yhdessä päivässä, periaatteessa puhelinsoitolla.
+22
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+Uskon, että prosessipuolella myös käräjäoikeusasiassa pystymme etenemään, saamaan
+järkevöitettyä näitä prosesseja. Tällainen menettely, jossa asioita viivästytetään ja monesti
+oikeudenkäytöstä on tullut yksi yhteiskunnallisen kehityksen jarrumuoto, ei mielestäni so-
+vi. Tämän takia toivon, että tämän lain käsittelyn yhteydessä myös prosesseihin kiinnite-
+tään huomiota, ja ministeri tietenkin osaavana henkilönä tätä asiaa prosessipuolelta lähtee
+viemään vahvasti eteenpäin, että saamme silläkin puolella mentyä eteenpäin.
+
+On tärkeää myös se, arvoisa rouva puhemies, että kunnallinen oikeusapu toimii tämän-
+kin jälkeen hyvin ja siihen kiinnitetään suurta huomiota. Monelle ihmiselle on tärkeää, että
+kunnallinen oikeusapu on saatavissa nopeasti ja siellä pystyy asioimaan, ja jos käräjäoikeu-
+teen joitakin asioita menee, niin tarvittaessa saa sen oikeusavun sieltä kunnallisesta oikeus-
+avusta itselleen ja sitä kautta vietyä asiaa eteenpäin, jolloin myös taloudellisen puolen elik-
+kä kustannukset pystyy pitämään kurissa. Tämähän on monelle kansalaiselle henki ja elä-
+mä. Nimittäin juristin palkkaaminen monessa asiassa suoraan on niin kallista touhua, että
+tavan eläkeläiselle esimerkiksi se ei ole mitenkään mahdollista.
+
+Tärkeintä on kuitenkin se, että kehitämme näitä järjestelmiä ja suomalaista lainsäädän-
+töä ja ennen kaikkea pyrimme hallitusohjelman mukaisesti torjumaan turhaa byrokratiaa,
+vähentämään sitä ja säästämään kustannuksissa. Mutta kirkkaana on pidettävä kuitenkin se
+perusasia mielessä, kuten ministeri aivan totesi, että jokaisen tulee saada se oma tuomiois-
+tuinpäätöksensä kohtuullisessa ajassa ja että se nimenomaan on myös lainvoimainen, että
+valitustiekin on olemassa. Toivotaan kuitenkin niin, että tämä valitusoikeuksien olemassa-
+olo ei aiheuta sitä, että meillä tässä maassa kaikki jutut seisovat ja mikään asia ei etene.
+
+15.41 Maria Tolppanen sd: Arvoisa puhemies! Tämä on valtava lakikokonaisuus, mitä
+nyt ollaan uudistamassa. Tässä on monessa kohtaa vaara, että lapsi menee niin sanotusti
+pesuveden mukana. Yksi on esimerkiksi ryhmäkanneasiat. Tällä hetkellä toimivaltaisia kä-
+räjäoikeuksia ryhmäkanneasioissa on viisi, ja nyt niitä sitten pienennetään yhteen. Kaikki
+ryhmäkanteet tulevat Helsinkiin syynä se, että niitä ei ole juurikaan ollut, ja näinhän se on.
+Esimerkiksi kuluttaja-asiamieheltä ei taida olla vieläkään yhtään ryhmäkannetta edennyt
+oikeusasteeseen saakka, tai jos on, niin niitä on korkeintaan yksi tai kaksi. Sen lisäksi am-
+mattiyhdistysliike on pitkään ajanut ryhmäkanneoikeutta, mutta sitä ei tunnu sinne tule-
+van, ja tässä on nyt lain henki sellainen ja koko henki tätä asiaa ajatellen sellainen, että ryh-
+mäkanteita ei tässä maassa ole, ei tule ja ei tule edes tulevaisuudessakaan. Ne lakaistaan
+maton alle. Tämä on aikamoista oikeusturvan etukäteistä kaventamista: pidetään huoli sii-
+tä, että oikeusturva ei voi kansalaisten osalta laajentua tulevaisuudessakaan. Tämä on erit-
+täin, erittäin vaarallista.
+
+Sen lisäksi se, mikä tässä on tosi kummallinen asia, on se, että tässä perustelussa sano-
+taan ihan selvällä suomen kielellä, että syy tähän koko hommaan on valtiontalouden tila.
+Onko juuri näin, että maassa, jossa Montesquieun oppi on käytössä, raha on se, joka mää-
+rittää Montesquieun opin käytön ja sen, millä tavalla sitä käytetään? Koska meillä on riip-
+pumattomat tuomioistuimet, me emme voi puuttua niihin mitenkään muuten kuin rahan
+voimalla: voimme sitten tehdä niin kuin haluamme ja saamme oikeuslaitoksen sellaiseksi
+kuin tässä salissa kulloinkin istuva hallitus haluaa.
+
+Sitten, arvoisa ministeri, kysyn: miten olette ajatellut hoitaa ylipäätään uusien nuorten
+ruotsinkielisten tuomareiden valmistumisen ja toimimisen ja sen, että he pystyvät saamaan
+koulutuksensa loppuun ja myöskin auskultointinsa loppuun, jotta myöskin ruotsinkielinen
+väestö saa asianmukaista kohtelua tuomioistuimissa?
+23
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+15.43 Mikaela Nylander r: Arvoisa puhemies! Kiitos ensinnäkin siitä, että ministeri on
+täällä kuuntelemassa meitä nyt koko keskustelun aikana. Olen lukenut tätä hallituksen esi-
+tystä ja tietysti erityisen hyvin näitä kappaleita, missä kirjoitetaan kielellisistä oikeuksista.
+Aika moneen otteeseen tässä todetaan, että pitää olla riittävä määrä tuomareita ja riittävä
+määrä muita henkilöstöryhmiä. Mikä on se riittävä taso, ja miten sitä määritellään? Siellä
+luetellaan näitä erilaisia, kuinka monta esimerkiksi näitä kielituomareita tulee olla, mutta
+tehdäänkö sitten jossain vaiheessa arviointi siitä, toteutuvatko kielelliset oikeudet käytän-
+nössä ja miten sitten voidaan vaikuttaa siihen? Esimerkiksi Helsingissä tiedetään tänä päi-
+vänä, että siellä on, jos muistan oikein, kolme kielituomaria. Me tiedämme tällä hetkellä,
+että moni ruotsinkielinen valitsee, että käydään sitä oikeudenkäyntiä suomeksi, koska voi
+olla kahden vuoden jono päästä eteenpäin. Tämä minua huolestuttaa, miten määritellään
+riittävä määrä, missä vaiheessa arvioidaan ja ryhdytäänkö toimenpiteisiin, koska me tie-
+dämme, että käytännössä meillä on valtavia haasteita tämän asian kanssa.
+
+Och jag hoppas verkligen att grundlagsutskottet och lagutskottet tittar på det här, hur man i
+praktiken och fortlöpande ska kunna trygga tillgång till svenskspråkig service vid tingsrät-
+terna.
+
+Puhemies Maria Lohela: Kello on nyt 15.45, joten aiemmin ilmoitetun mukaisesti kes-
+kustelu ja asian käsittely keskeytetään. Keskustelua ja asian käsittelyä jatketaan tässä is-
+tunnossa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 15.45.
+
+————
+
+Keskustelua jatkettiin kello 17.38.
+
+Toinen varapuhemies Arto Satonen: Nyt jatketaan aiemmin tässä täysistunnossa kes-
+keytetyn 8. asiakohdan käsittelyä.
+
+17.39 Ilkka Kanerva kok: Arvoisa puhemies! Juhlan kunniaksi ja vähän väljemmän ai-
+karaamin turvaamiseksi ajattelin tulla eteen odotettuani puheenvuoroa eduskunnan istun-
+non alkamisesta, kello 14:sta, lähtien, ja nyt saan palkintoni niiden minuuttien puitteissa,
+kun tässä on mahdollisuus itseään ilmaista tämän asian käsittelyn yhteydessä.
+
+En aio, arvoisa puhemies, puuttua siihen, mitä täällä debatissa aikaisemmin tapahtui
+keskusteltaessa käräjäoikeuksien määrästä, lähinnä niiden alueellisesta vaikuttavuudesta ja
+taloudellisista seurausvaikutuksista tällä uudistuksella, vaan puutun erääseen yksityiskoh-
+taan, joka on asiallisesti kuitenkin varmasti valiokunnassa, lakivaliokunnassa, tarkastikin
+arvioitava, ja toivon, että näin tulee myöskin käytännössä todellakin tapahtumaan. Ja se on
+se, millä tavoin merioikeusasioiden käsittely on perusteltua keskittää tämän uudistuksen
+myötävaikutuksella, sillä myös tämä puoli on tämän uudistusesityksen eräs sisällöllinen
+ulottuvuus.
+
+Ideanahan on se, että merioikeusasioitten keskittämisellä haetaan tietysti parasta vaihto-
+ehtoa, ja ymmärrän hyvin sen, että muun muassa sähköisen asioinnin mahdollisuuksien li-
+sääntyminen ja videoneuvottelumahdollisuuksien hyödyntäminen ovat sellaisia näkökan-
+24
+
+
+
+Pöytäkirjan asiakohta PTK 2/2017 vp
+toja, jotka hyvinkin puolustavat sitä, että myöskin keskittämistä tässä suhteessa voi käytän-
+nössä todellakin tapahtua, sillä käsiteltävien asioitten lukumäärä on kohtuullisen vähäinen
+ja niissä käytettävä asiantuntemus vaatii erityisasiantuntemusta tietysti meriasioiden ym-
+pärillä. Toisin sanoen siis monet seikat puoltavat merioikeusasioitten keskittämistä, kuten
+tässä ajattelussa on perustaltaankin lähdetty, ja sitä viedään tässä esityksessä eteenpäin.
+Mutta se, että merioikeusasiat keskitettäisiin, ei tietenkään voi olla peruste sille, että Man-
+ner-Suomen merioikeuksien keskittäminen tapahtuu yhteen ja nimenomaiseen käräjäoi-
+keuteen, tässä tapauksessa Helsingin käräjäoikeuteen, ehkäpä Ahvenanmaan ohella.
+
+Parhaitten puolueettomien asiantuntijoitten mielestä asiassa on huomattava nimittäin se,
+että merioikeusasioitten koulutus ja se kaikki siihen liittyvä tutkimus on Suomessa keski-
+tetty Suomen Turkuun. Nykyisistä merioikeusasioita käsittelevistä käräjäoikeuskaupun-
+geista vain ja nimenomaisesti Turussa on mahdollisuus opiskella merikapteenin koulutus-
+ohjelmaa Yrkeshögskolan Noviassa, ja myös Suomen yliopistoista merenkulkualaa tutki-
+taan ja opetetaan ainoastaan, pelkästään ja vain Suomen Turussa, eli merijuridiikkaa Åbo
+Akademissa ja merenkulkualaa Turun yliopiston Merenkulkualan koulutus- ja tutkimus-
+keskuksessa.
+
+Tämä edellä mainittu merioikeudellinen asiantuntemus on se, mikä takaa riittävät kou-
+lutetut tuomioistuinten asiantuntijaresurssoinnit ja toisekseen mahdollisuuden valita mah-
+dollisimman puolueettomat asiantuntijat asioitten, tietysti aina kompleksisten asiakokonai-
+suuksien, käsittelyyn. Merioikeusasioitten käsittelyssä tarvitaan usein molempien koti-
+maisten kielten osaamista. Varsinais-Suomen käräjäoikeuden osalta tämä ei ole ongelma,
+sillä viran saamisen edellytyksenä on täydellinen suomen ja ruotsin kielen taito niin monil-
+la, että se kevyesti täyttyy Varsinais-Suomen käräjäoikeudessa. Merioikeusasiat on Varsi-
+nais-Suomen käräjäoikeudessa keskitetty jo lukuisia vuosia samoille käräjätuomareille,
+joilla on erinomainen pätevyys tämän asiaryhmän juttujen hoitamiseen.
+
+Tietenkin Helsingin käräjäoikeus on asia- ja henkilöstömäärältään Suomen ylivoimai-
+sesti suurin yksikkö. Muistiossa kuitenkin tämän asian osalta todetaan esimerkiksi sotilas-
+oikeudenkäyntiasioitten osalta, ettei tätä muutoinkin suurta, jo ennestäänkin suurta, kärä-
+jäoikeutta ole syytä rasittaa tällä nimenomaisella asiantuntijuutta edellyttävällä resurssilla
+ja alueella. Sama peruste pätee vielä paremmin kaikkien merioikeusasioitten siirtämiseen
+muista käräjäoikeuksista Helsingin käräjäoikeuteen. Jään kysymään, miksi näin tehdä, li-
+säresurssoida yhtä käräjäoikeutta, kun ilman resurssilisäystä ja valtavan suurella asiantun-
+temusinfrastruktuurilla asia olisi hoidettavissa toisella tavalla. Merioikeuksien ennakoitu
+käsiteltävien asioiden vuotuinen määrä ei aiheuta nimittäin lisähenkilöstön tarvetta Varsi-
+nais-Suomen käräjäoikeudessa.
+
+Puhemies! Koska Helsingin käräjäoikeuden laajentaminen entisestään ei näyttäisi ole-
+van toiminnallisesti eikä taloudellisesti perusteltua ja koska Varsinais-Suomen käräjäoi-
+keudessa on aina käsitelty merioikeusasioita tähän asiapiiriin perehtyneitten tuomareitten
+avustuksella, on kaikki syyt lähteä siitä, että tämä asia perusteellisesti selvitetään, punni-
+taan ja arvioidaan asianomaisessa valiokuntakäsittelyssä.
+
+Keskustelu päättyi.
+
+Asia lähetettiin lakivaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+25
+
+

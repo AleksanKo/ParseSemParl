@@ -1,0 +1,675 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM220C.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 129/2018 vp
+
+Täysistunto
+
+Keskiviikko 12.12.2018 klo 14.02—21.40
+
+10. Hallituksen esitys eduskunnalle laiksi ulkomaalaislain muuttamisesta
+Hallituksen esitys HE 273/2018 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päiväjär-
+jestyksen 10. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokuntaan.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+17.01 Sisäministeri Kai Mykkänen (esittelypuheenvuoro): Arvoisa puhemies! Oikeus-
+valtiossa myös turvapaikanhakijoiden asioita ja heidän oikeuksiaan täytyy käsitellä lakien
+ja asetusten mukaisesti ja taata heille hyvä oikeusvarmuus. Tähän oikeusvarmuuteen kuu-
+luu myös tietyin edellytyksin mahdollisuus uusintahakemukseen, jos on ilmeistä, että en-
+simmäisessä hakemuksen käsittelyvaiheessa on jäänyt olennaisia seikkoja hakijasta riippu-
+mattomista syistä käsittelemättä. On kuitenkin myös tosiasia, että uusintahakemuksiin liit-
+tyy väärinkäytön mahdollisuuksia. Niitä käytetään myös, sinänsä ymmärrettävästi, tarkoi-
+tuksessa pitkittää Suomessa elämistä tilanteessa, jossa on lainvoimainen kielteinen päätös
+tullut oleskelulupaan mutta henkilö ei halua poistua maasta. 
+
+Tässä hallitus esittää lakia muutettavaksi siten, että ensimmäinenkään uusintahakemus
+ei enää automaattisesti keskeytä lainvoimaisen käännyttämispäätöksen täytäntöönpanoa
+vaan Maahanmuuttovirasto aina selvittäisi hakemuksen tutkittavaksi ottamisen edellytyk-
+set nopeasti, ja mikäli ne eivät täyty, käännyttämisen toimeenpano jatkuisi, vaikka hake-
+mus olisi jätetty, jos on siis todettu, että se on jätetty välittömän maasta poistamisen lykkä-
+ystarkoituksessa. Tällaisia tilanteita valitettavasti tulee jatkuvasti, joissa voi olla siis kyse
+esimerkiksi tilanteesta, jossa palautusvalmistelut on tehty, henkilöä ollaan jopa palautta-
+massa jo poliisien toimesta ja vieläpä vaikka lentokentällä jätetään uusintahakemus.
+
+Toinen tai myöhempi uusintahakemus, joita myös alkaa olla jo olemassa, ei enää estäisi
+aiemman käännytyspäätöksen toimeenpanoa silläkään kynnyksellä, mikä ensimmäisen uu-
+sintahakemuksen kohdalla on olemassa.
+
+Taustalla luonnollisesti on tarve vähentää uusintahakemusten väärinkäyttöä ja ohjata
+hakija esittämään uudet perusteet hakemukselleen mahdollisimman aikaisessa vaiheessa
+prosessia, siis ensimmäisen hakemuksen puhuttelussa tai sitä koskevan tuomioistuinkäsit-
+telyn yhteydessä, jos on muutosta hakenut ensimmäiseen päätökseen tuomioistuimessa.
+Siihenhän aina on hakijalla oikeus. Hakijan myös edellytetään esittävän perusteet sille,
+miksi jokin uusi seikka esitettiin vasta uusintahakemuksen yhteydessä.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+Toinen muutos on se, että jatkossa uusintahakemuksen jättäminen ei enää mahdollista
+työnteon välitöntä jatkamista. Lainvoimaisen kielteisen päätöksen yhteydessähän työnte-
+ko-oikeus katkeaa, ja turvapaikkahakemuksen jättänyt henkilö on tähän asti käytännössä
+uusintahakemuksella voinut uusia työnteko-oikeuden saman tien. Tämä on luonnollisesti
+kimurantein kohta, ainakin henkilökohtaisesti, tässä kohtaa, koska totta kai toivomme, että
+Suomessa oleskelevat ovat aktiivisia ja tekevät töitä, mutta käytännössä tästä on syntynyt
+menettely, jossa muodostuu kiinnostus jättää uusintahakemus, vaikka perusteita ei olisi-
+kaan, sen takia että voi jatkaa elämäänsä ja siihen liittyvää sinänsä laillista työntekoaan
+Suomessa, vaikka oikeasti perusteita kansainväliselle suojelulle ja uusintahakemukselle ei
+olisi. 
+
+Tarve uudelle sääntelylle on hallituksen mielestä selvä. Viime vuosina on nähty uusin-
+tahakemusten määrän selkeä kasvu, joka ei selity normaalilla vuoden 2015 hakemusten
+määrän jatkumolla. Esimerkiksi tänä vuonna 47 prosenttia turvapaikkahakemuksista on
+uusintahakemuksia. Ilman uusia perusteita tehtyjen uusintahakemusten käsittely ruuhkaut-
+taa jo nyt turvapaikkahakumenettelyä ja lisää hakemusten aiheuttamia kustannuksia. Ne
+myös lisäävät epäluottamusta järjestelmän toimivuutta kohtaan, koska perusteltujen hake-
+musten pino kasvaa ja viivytystarkoituksessa tehtyjen hakemusten kierre syö hyväksyntää
+koko turvapaikkajärjestelmältä. Näin ollen uusintahakemusten väärinkäyttömahdollisuus
+kääntyy asiallisia turvapaikanhakijoita vastaan. 
+
+Arvoisa puhemies! Ulkomaalaislakia ehdotetaan samalla muutettavaksi myös siten, että
+kansainvälistä suojelua hakeneen henkilön matkustusasiakirja, siis yleensä passi, voitai-
+siin ottaa viranomaisen haltuun, kunnes hänelle on myönnetty oleskelulupa tai hän poistuu
+maasta. Tämän tavoitteena on varmistaa menettelyn sujuvuus siten, että puuttuva passi ei
+estäisi hakijan tunnistamista tai kielteisen päätöksen saaneen henkilön maasta poistamista,
+kuten tällä hetkellä hyvin usein on. Hakijan mahdollisuus asiointiin esimerkiksi pankissa
+tai muissa tilanteissa tullaan turvaamaan tapauskohtaisin käytännön järjestelyin. 
+
+Ehdotuksessa esitetään muutettavaksi myös ilman huoltajaa tulleen alaikäisen perheen-
+yhdistämisen edellytyksiä siten, että perheenkokoajan alaikäisyyttä koskevaa säännöstä
+tulkitaan Euroopan unionin tuomioistuimen ratkaisukäytännön mukaisesti niin, että per-
+heenyhdistämiseen on mahdollisuus sen mukaan, koska hakemuksen on jättänyt — onko
+siis silloin ollut alaikäinen, vaikka tämän prosessin käsittelyn aikana olisikin tullut täysi-
+ikäiseksi. 
+
+Arvoisa puhemies! Ulkomaalaislakia ehdotetaan muutettavaksi samassa yhteydessä
+myös siten, että työntekijän oleskeluluvan haltijalla työnteko-oleskeluluvan jatkolupaa ha-
+kiessaan olisi ilman saatavuusharkintaa mahdollisuus hakeutua myös sellaisen työnanta-
+jan palvelukseen, joka toimii muulla kuin työntekijän oleskeluluvassa mainitulla alalla.
+Tämä on tällä hetkellä ongelma. Vaikka olisi laillisesti täysin nuhteettomasti Suomessa
+vuoden työskennellyt ja sitten tulee alan tai työtehtävän vaihto, voi törmätä saatavuushar-
+kintaan ja menettää oleskeluluvan, ja onkin tyhjän päällä. Tässä mielestäni ei ole järkeä, ja
+on hyvä, että tämä pystytään tässä korjaamaan. Lupamenettelyn väärinkäytön estämiseksi
+edellytyksenä kuitenkin olisi aina se, että ulkomaalainen on työskennellyt työntekijän oles-
+keluluvan nojalla vähintään yhden vuoden. Muutoksella siis helpotetaan työntekijän am-
+matillista liikkuvuutta ja vähennetään työttömyyttä ja paperittomuutta. 
+
+17.07 Hanna-Leena Mattila kesk: Arvoisa rouva puhemies! Hallituksen muutosesitys
+ulkomaalaislaiksi pyrkii yleisesti vähentämään uusintahakemusten väärinkäyttömahdolli-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+suuksia ja tuomaan kaiken kaikkiaan lupaprosessiin enemmän läpinäkyvyyttä. Muutosesi-
+tys on lähtenyt tarpeesta sujuvoittaa turvapaikkamenettelyä ja saada säästöjä hakemusten
+ja vastaanoton kustannuksiin.
+
+Lakiehdotus esittää, että uusintahakemuksen tutkittavaksi ottaminen edellyttäisi, että
+hakemus sisältää tai asiassa on ilmennyt uusia seikkoja tai perusteita, jotka lisäävät mer-
+kittävästi sen todennäköisyyttä, että hakijaa tulisi pitää kansainvälistä suojelua saavana
+henkilönä. Tällä muutoksella vallitseva soveltamiskäytäntö nostettaisiin selkeästi lain ta-
+solle. Niin ikään olisi käytävä ilmi, ettei hakija hänestä itsestään riippumattomista syistä
+ole voinut esittää uusintahakemuksensa tueksi esittämiään perusteita jo aikaisemman ha-
+kemuksen käsittelyn yhteydessä.
+
+Esityksessä ehdotetaan muutettavaksi myös käännyttämispäätöksen täytäntöönpanoa
+koskevia säännöksiä tilanteissa, joissa hakija on jättänyt ensimmäisen tai myöhemmän uu-
+sintahakemuksen. Ensimmäinen uusintahakemus ei estäisi aikaisemman hakemuksen no-
+jalla tehdyn lainvoimaisen käännyttämispäätöksen täytäntöönpanoa, jos uusintahakemuk-
+sen tarkoituksena on vain tämän päätöksen välittömän täytäntöönpanon estäminen tai vii-
+vyttäminen. Lisäksi toinen uusintahakemus ei enää estäisi aikaisemman käännyttämispää-
+töksen täytäntöönpanoa riippumatta siitä, missä menettelyssä aikaisempi hakemus on rat-
+kaistu.
+
+Pidän hyvänä esityksen ehdotusta ottaa viranomaisen eli poliisin, rajatarkastusviran-
+omaisen tai Maahanmuuttoviraston haltuun kansainvälistä suojelua hakeneen henkilön
+passi tai muu matkustusasiakirja, kunnes hakijalle on myönnetty oleskelulupa tai hän pois-
+tuu maasta.
+
+Arvoisa puhemies! Hallituksen tekemät muutosehdotukset vallitsevaan ulkomaalaisla-
+kiin ovat monella tapaa kannatettavia. Maahanmuuttovirasto on jo pitkään kärsinyt lupa-
+käsittelysumasta. Tämä on aiheuttanut monenlaista inhimillistä kärsimystä itse hakijoille,
+jotka ovat joutuneet odottamaan lupapäätöstä pitkään ja elämään epävarmuuden tilassa
+ehkä pitkäänkin. Toisaalta nykykäytäntö on mahdollistanut jatkuvan virkailijoita ja järjes-
+telmää tolkuttomasti työllistäneen muutoksenhakumenettelyn, joka itsessään on ruokkinut
+lupaprosessibyrokratiaa.
+
+Ehdotetut muutokset toisivat toteutuessaan kustannussäästöjä, kun lupamenettely sel-
+keytyisi ja lyhentyisi ja niin ikään prosessissa luvattomiksi turvapaikanhakijoiksi kertaal-
+leen todettujen ylläpitokustannukset vähentyisivät.
+
+17.10 Päivi Räsänen kd: Rouva puhemies! Uusintahakemusten väärinkäytön vähentämi-
+nen on kannatettava ja ymmärrettävä tavoite, mutta kiinnitän huomiota siihen, että ihan
+lausuntokierroksen aikana useat tahot ovat ilmaisseet huolensa tämän lakimuutoksen tiu-
+kempien edellytysten vaikutuksesta hakijoiden oikeusturvaan, erityisesti oikeusavun saa-
+miseen tehdyt viimeaikaiset lainmuutokset huomioon ottaen. 
+
+Esimerkiksi korkeimman hallinto-oikeuden presidentti Pekka Vihervuori on arvostellut
+tällä vaalikaudella tehtyjä muutoksia ulkomaalaislakiin, joista hän on sanonut, että ne eivät
+ole ainakaan parantaneet turvapaikanhakijoiden oikeusturvaa. Erityinen ongelma, joka on
+nostettu esiin, on se, että hakija ei välttämättä eri syistä johtuen aina kykene esittämään
+kaikkia tiedossa olevia perusteita ensimmäisen hakemuksen käsittelyn yhteydessä. Esi-
+merkiksi turvapaikanhakijoiden joukossa on henkilöitä, jotka ovat täällä Suomessa olles-
+saan kääntyneet kristityiksi islaminuskosta, ja me tiedämme, että avoimesti kristityksi
+kääntyneen muslimin palauttaminen vaikkapa Afganistaniin johtaa heidät hengenvaaraan
+3
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+eikä tällainen palauttaminen periaatteessa ole mahdollista. Silloin uusintahakemuksen
+kohdalla voi olla aivan toiset perusteet hakemukselle kuin ensimmäisessä hakemuksessa.
+
+Toivon, että kommentoitte, johtaako tämä näiden henkilöiden kohdalla kohtuuttomuuk-
+siin.
+
+17.12 Reijo Hongisto sin: Arvoisa puhemies! Kielteisen turvapaikkapäätöksen saanei-
+den henkilöiden uusintahakemusten määrä on lisääntynyt merkittävästi aiempiin vuosiin
+verrattuna. Maahanmuuttoviraston tilasto kertoo, että kuluvan vuoden tammi—lokakuun
+aikana Suomessa on jätetty 3 648 turvapaikkahakemusta, joista lähes puolet on ollut uusin-
+tahakemuksia. Tammi—kesäkuun aikana uusintahakemuksiin on tehty 1 448 päätöstä,
+joista myönteisiä oli 234 ja kielteisiä 463. Tutkimatta jätettiin 664 hakemusta. Käsittely
+raukesi 82 tapauksessa. Nämä hakemukset ja uusintahakemukset työllistivät viranomaisia
+valtavasti. Tehdyistä päätöksistä huomaa, että yli puolessa käsitellyistä tapauksista se en-
+simmäinen päätös ei muuttunut. Näin virkamiehet tekivät turhaa, tarpeetonta ja kallista
+työtä. [Li Andersson: Kuinka monessa muuttui?] 
+
+Jätin uusintahakemuksia koskevan kirjallisen kysymyksen hallitukselle viime elokuun
+3. päivä. Kysyin: ”Onko hallitus tietoinen, että kielteisen päätöksen saanut turvapaikanha-
+kija voi uudistaa hakemuksensa useita kertoja, ja mihin toimiin hallitus ryhtyy, jotta tällai-
+nen toistuva hakeminen kielletään?” Ministeri Mykkäsen allekirjoittama vastaus oli pitkä
+ja perusteellinen. Minua ilahduttivat vastauksen viimeiset rivit, joilla todettiin: ”Hallitus
+haluaa puuttua mahdollisiin väärinkäytöksiin, ja sisäministeriössä onkin 3.7.2018 asetettu
+hanke, jossa selvitetään ja valmistellaan EU:n turvapaikkadirektiivin mahdollistamat ulko-
+maalaislain muutokset uusintahakemusten käsittelyyn ja Maahanmuuttoviraston päätös-
+ten täytäntöönpanoon. Voimassa olevaan ulkomaalaislakiin ei ole sisällytetty kaikkia di-
+rektiivin uusintahakemuksen tutkimista koskevia säädöksiä eikä mahdollisuuksia poiketa
+oikeudesta jäädä alueelle myöhempien hakemusten yhteydessä. Tavoitteena on, että lain-
+muutokset hyväksytään vielä tällä hallituskaudella.” 
+
+Arvoisa puhemies! Se on selvää tekstiä. Hyvä hallitus on valmistellut lakiesityksen, jon-
+ka tarkoituksena on vähentää toistuvia uusintahakemuksia, joiden todellinen tarkoitus on
+vain hidastaa ja vaikeuttaa henkilön palauttamista lähtömaahansa. Kun tämä laki saadaan
+voimaan, vähenee uusintahakemusten määrä ja samalla säästyy myös hakemusten käsitte-
+lykustannuksia ja vastaanoton kustannuksia ja merkittävää säästöä tulee myös poliisin toi-
+mintamenoihin. Maasta poistaminen on kallista puuhaa, varsinkin silloin, kun maasta pois-
+tamiseen on jo ryhdytty ja tämä meneillään oleva poistamistoimi joudutaan keskeyttämään
+sen takia, että poistettava esimerkiksi lentokentällä tekee uusintahakemuksen.
+
+Esityksen mukaan kansainvälistä suojelua hakeneen henkilön passi voitaisiin ottaa vi-
+ranomaisten haltuun, kunnes hakijalle on myönnetty oleskelulupa tai hän poistuu maasta.
+Mielestäni tämä on erinomainen uudistusesitys, ja tämä turvaa turvapaikkahakumenette-
+lyä eikä estä kielteisen turvapaikkapäätöksen saaneen henkilön maasta poistamista. 
+
+Arvoisa puhemies! Mielestäni tämä on erittäin hyvä ja kannatettava lakiesitys. — Kii-
+toksia.
+
+17.17 Veera Ruoho kok: Arvoisa puhemies! Kiitos ministeri Mykkäselle varmasti kan-
+san oikeustajua noudattavasta esityksestä. Edustaja Hongistolle myös kiitos, ja kuten mai-
+nitsitte, olette aikaisemmin tehnyt aiheeseen liittyen kirjallisen kysymyksenkin. 
+4
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+Esityksellä on erinomainen tavoite: vähentää kansainvälistä suojelua koskevan uusinta-
+hakemusmenettelyn väärinkäyttömahdollisuuksia ja ohjata hakijat esittämään kaikki tie-
+dossaan olevat kansainvälistä suojelua koskevan hakemuksen kannalta merkitykselliset
+seikat. Kyllä kansainvälistä suojelua koskevat perusteet, jos ja kun sellaisia todella on ole-
+massa, ovat olemassa jo ensimmäistä kertaa hakemusta jättäessä — näin varmasti valta-
+osalla turvapaikanhakijoista. Uusintahakemuksen tutkittavaksi ottamisen edellytykset eh-
+dotetaan säädettäväksi erikseen.
+
+Arvoisa puhemies! Kuten turvapaikkamenettelyä, kaikkea apua aina yritetään myös
+väärinkäyttää. Tämä on kokemukseni myös maailmalta. Se ei kuitenkaan voi estää meitä
+auttamasta hädässä olevia ihmisiä, vaan on, kuten tälläkin erinomaisella, erinomaisen sisä-
+ministerin esittelemällä muutoksella, estettävä näitä väärinkäytöksiä.
+
+Joudun tästä kohta kiiruhtamaan Espoon kirkkovaltuuston kokoukseen, mutta samalla
+tuli mieleen, että näillä, ketkä näitä uusintahakemuksia tekevät, yksi syyhän on ollut, että
+uskonto on sitten se peruste hakea uudelleen turvapaikkaa. Mutta se on kyllä semmoinen,
+että siitä minulla on kyllä kokemuksia, että ne ihmiset ovat todellakin aidosti — nämä ovat
+omia kokemuksiani — vaihtaneet uskoa ja sitten voivat omassa kotimaassaan tulla vaino-
+tuiksi sen kristinuskon perusteella. Tämmöinen huomio.
+
+17.20 Jari Ronkainen ps: Arvoisa rouva puhemies! Hallituksen esitys muutoksista ulko-
+maalaislakiin on pääosiltaan askel oikeaan suuntaan, ja esityksessä on paljon hyviä ele-
+menttejä. Kaukana kuitenkin ollaan vielä hallituksen maahanmuuttopoliittisen toimenpi-
+deohjelman toteutuksesta. Erityisesti turvapaikanhakijoiden työnteko-oikeuden rajaami-
+nen ja sen selventäminen ovat tarpeen. Työperäinen maahanmuutto on täysin eri asia kuin
+humanitaarinen, eikä niitä pidä sekoittaa keskenään. Perustellusti voi jopa kysyä, onko tur-
+vapaikanhakijalla tarve päästä töihin ennen myönnettyä turvapaikkaa. Eikö työpaikat, kou-
+lutustoimet ja kielenopetus kannata kohdistaa juuri heihin, jotka tulevat tänne jäämään?
+
+Merkittävin ja kriittinen epäkohta esityksessä on kuitenkin siihen ujutettu työvoiman
+saatavuusharkinnasta luopuminen. Tämä koskisi työntekijän oleskeluluvan jatkoluvan ha-
+kemista, mikä puolestaan on askel kohti ulkomaalaisten muodostamia halpatyömarkkinoi-
+ta. Hallituksen esityksessä ammatillisen liikkuvuuden nimissä ehdotetaan tarveharkinnas-
+ta luopumista oleskeluluvan jatkolupaa myönnettäessä. Hallitus itse arvioi, että lakimuu-
+tos lisäisi työvoiman tarjontaa varsinkin siivousalalla, teollisuudessa, rakennus- ja metal-
+lialalla mutta myös puutarha- ja maatalousalalla. Kyse on juuri sellaisista matalapalkkai-
+sista ja matalan koulutustason tehtävistä, joissa tulisimme näkemään kilpailun omien kan-
+salaistemme ja koko muun maailman vastaavan alan työntekijöiden kanssa. 
+
+Suomessa ei ole työntekijäpulaa. Meillä on yli 170 000 työtöntä sekä piilotyöttömät,
+vastentahtoisesti osa-aikatyötä tekevät ja erilaisille kursseille ja työkokeiluihin osallistujat
+vielä siihen päälle. Työntekijöitä meillä siis piisaa. Kyse onkin siitä, onko meillä sellaisia
+työpaikkoja, joista maksetaan oikea palkka. 
+
+Nykyinen tarveharkinta tulee ehdottomasti säilyttää kaikissa muodoissa. Ruotsi on tästä
+elävä esimerkki. Siellä tarveharkinnan poisto vuonna 2008 toi ulkomaalaisia työntekijöitä
+juuri näille matalapalkka-aloille, joilla oli muutenkin työvoiman ylitarjontaa. Suomessa on
+hyvin samankaltainen järjestelmä kuin mikä Ruotsissakin oli. Tulemme siis näkemään ai-
+van saman ilmiön myös täällä, mikäli tarveharkinnasta tingitään. Ja jos ulkomaalainen tu-
+lee Suomeen tekemään töitä halvemmalla, niin eikö kyse silloin ole juuri halpatyövoimas-
+ta ja palkkojen polkemisesta?
+5
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+17.22 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Aloitan positiivisella: Vih-
+reiden näkökulmasta osittainen saatavuusharkinnasta luopuminen on tervetullut ajatus.
+Huolehditaan yhdessä siitä, että työelämän pelisäännöt säilyvät kuitenkin sellaisina, että
+ketään ei sorreta tai syrjitä missään muodossa. Olemme myös iloisia siitä, että alaikäisenä
+yksin saapuneen perheenyhdistämisen helpottaminen EU-tuomioistuimen jo edellyttämäl-
+lä tavalla toteutuu tässä esityksessä. 
+
+Mutta sitten kritiikkiin: Vihreiden mielestä tämä esitys on monin osin suoraan sanottuna
+varsin vahingollinen. Lukuisat lausunnonantajat ovat huomauttaneet, että esitetyt muutok-
+set aiheuttavat suuren riskin siitä, että Suomi rikkoo palautuskieltoa. Muun muassa Am-
+nesty, UNHCR, Pakolaisapu ja Pakolaisneuvonta ovat näin lausuneet. Olemme myös sitä
+mieltä, että uusia kiristyksiä ei tulisi tehdä ennen kuin aiempien muutosten yhteisvaikutuk-
+set on kunnolla selvitetty. Pidämme tätä esitystä jatkona hallituksen aiemmin toteuttamille
+kiristyksille turvapaikanhakijan asemaan. Nämä heikennykset usein kumuloituvat, ja nii-
+den yhteisvaikutuksiin pitäisi kiinnittää huomiota. Tästähän on selvitystyötäkin jo tehty ja
+on myös käynnissä edelleen.
+
+Kansainvälistä suojelua koskevissa asioissa kyse on kuitenkin perustavanlaatuisista ih-
+misoikeuksista, aivan viime kädessä ihmisen oikeudesta elämään. Muutoksia tehdessä oli-
+sikin kiinnitettävä erityistä huomiota perus- ja ihmisoikeuksiin. Tässä esityksessä mieles-
+tämme ei ole riittävästi näin tehty eikä myöskään riittävästi arvioitu vaikutuksia haavoittu-
+vassa asemassa oleviin ryhmiin. Toivon, että valiokuntakäsittelyssä käymme sitten asian
+perusteellisesti läpi.
+
+Alkuvaiheeseen painottaminen tässä esityksessä on kannatettava tavoite, mutta se on
+mielestämme ristiriidassa hallituksen aiempien lakimuutosten, kuten turvapaikanhakijoi-
+den oikeusavun rajausten ja valitusaikojen lyhentämisen, kanssa eikä mielestämme itse
+asiassa toteudu tällä esityksellä. Ja ylipäätään se logiikka, että uusintahakemukset katso-
+taan pääasiassa tehtäviksi maastapoistamisen viivyttämistä ja estämistä varten, on mieles-
+täni erikoinen, koska siellä on hyvin monta yksilöllistä tarinaa taustalla. Ja toki on selvää,
+että tätä järjestelmää myös eri tavoin käytetään. Mutta jälleen kerran pääsemme siihen, että
+oikeusvaltiossa meidän tulisi tarkastella kaikkia yksilöitä yksilöinä eikä ensisijaisesti jon-
+kun viiteryhmän edustajana.
+
+Joukossa on myös lukuisia ihmisiä, joille uusintahakemus on viimeinen mahdollisuus
+saada kansainvälisen suojelun tarpeensa arvioitua asianmukaisesti. Kiinnittäisin huomiota
+siihen, että me olemme todellakin suorastaan eksistentiaalisten asioiden äärellä niiden ih-
+misten osalta, joita nämä koskevat. On selvää, että jotkut käyttävät järjestelmää myös vil-
+pillisiin tarkoitusperiin, mutta monet ovat myös aidosti epätoivoisia ja kokevat, että heidän
+henkensä on vaarassa. Se usein myös aidosti on vaarassa.
+
+17.25 Li Andersson vas: Arvoisa puhemies! Tämän esityksen ongelma liittyy ennen
+kaikkea näihin esityksiin uusintahakemusten rajoittamisesta. Myöskin ministerin esittely-
+puheenvuorossa kävi ilmi, mikä tämä ongelmallinen ajattelu tässä taustalla on. Eli ikään
+kuin lähdetään siitä, että on ainoastaan uusintahakemusten kautta tapahtuvaa väärinkäytös-
+tä, eikä lainkaan kiinnitetty huomiota siihen, että meillä on ollut vakavia ongelmia turva-
+paikkaprosessissa Suomessa, mikä on yksi syy siihen, että näitä uusintahakemuksia myös-
+kin on tehty lisää. Sen lisäksi tietenkin, kun turvapaikanhakijoiden määrä kasvaa, niin kas-
+vaa todennäköisesti myöskin uusintahakemusten määrä. Se, mitä on tapahtunut, on siltä
+osin myöskin nähtävä osana turvapaikanhakijoiden määrän kasvua.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+Tänään on julkaistu selvitys, jossa on käyty läpi niitä heikennyksiä, mitä aikaisemmin
+tällä vaalikaudella on tehty turvapaikanhakijoiden oikeusapujärjestelmään. Tässä selvityk-
+sessä suoraan suositetaan hallituksen tekemien päätösten korjaamista. Osoitetaan toteen ne
+riskit, joista kansalaisyhteiskunta, Asianajajaliitto ja myöskin oppositio ovat varoittaneet,
+eli ne, mitkä liittyvät muun muassa hakemusaikojen rajoituksiin ja oikeusavun saatavuu-
+teen. Ja yksi epäkohta, mikä tässä on nostettu esille, on myöskin avustaminen turvapaikan
+hakemisen alkuvaiheessa, eli avustajan läsnäolo muun muassa Maahanmuuttoviraston pu-
+hutteluissa.
+
+Eli nämä ovat ne epäkohdat ja ongelmat, mitä meillä tällä hetkellä kiireisesti pitäisi Suo-
+messa ratkaista, jotta kaikilla voi olla varmuus siitä, että meidän oikeudelliset prosessim-
+me toimivat niin kuin niiden oikeusvaltiossa pitäisi, eikä lähteä nyt, ennen kuin näitä on
+korjattu ja katsottu tätä järjestelmää kokonaisuudessaan, vielä tekemään uusia rajoituksia,
+jotka toteutuessaan heikentävät turvapaikanhakijoiden oikeusturvaa tilanteessa, jossa esi-
+merkiksi uusintahakemuksia tehdään muun muassa siitä syystä, että on tehty virheitä ha-
+kemuksen ensimmäisen käsittelyn yhteydessä tai on tullut uusia sellaisia seikkoja, joihin
+olisi pitänyt kiinnittää huomiota, mutta näin siitä huolimatta ei ole tehty. 
+
+Eli tältä osin pidän huonosti perusteltuna tätä hallituksen esitystä, ja on myöskin valitet-
+tavaa, että ministeri ei omassa puheenvuorossaan enemmän kiinnittänyt huomiota niihin
+ongelmiin, mitä tällä hetkellä tässä oikeusapujärjestelmässä on.
+
+17.28 Antero Laukkanen kd: Arvoisa rouva puhemies! Oikeastaan edustaja Andersson
+tässä kuvasi tämän tilanteen erittäin hyvin ja tarkasti, ja jaan kyllä hänen huolensa. Tämän
+hallituksen linja on selvästi nyt käynyt ilmi. Se on ollut johdonmukainen siinä, että se on
+heikentänyt turvapaikanhakijoiden oikeusturvaa. Tätä ei voi millään tavalla pitää hyväk-
+syttynä ja hyväksyttävänä, ei tässäkään esityksessä.
+
+Kuten täällä on todettu jo edustaja Räsäsenkin toimesta, meidän korkeimman hallinto-
+oikeuden presidentti on ottanut kantaa ja monet muut oikeusoppineet, erityisesti maahan-
+muuttoasioihin perehtyneet asianajajat, kuten asianajaja Punto, ovat kirjoittaneet laajasti
+tämän hallituksen maahanmuuttoon liittyvän oikeusturvan heikentämisestä. Pidän sitä kyl-
+lä erittäin huonona asiana, että kun näin monesta suusta ja monelta taholta tulee jatkuvasti
+selkeitä näkemyksiä, niin silti jatketaan samalla tavalla. Tuodaan uusia esityksiä, jotka ei-
+vät ota näitä aikaisemmin esiin tuotuja asioita huomioon.
+
+Suomi rikkoo palautuslainsäädäntöä, kansainvälistä oikeutta ja oikeuskäytäntöä. Olen
+siitä samaa mieltä. Kyllä toivoisin, että tästä asiasta voitaisiin käydä ihan asiallinen laajem-
+pi keskustelu, koska olen kuitenkin ymmärtänyt, että ministeri Mykkäsellä on hyvin laaja
+käsitys ja ymmärrys tästä kokonaisuudesta, ja siksi vähän ihmettelenkin, että hänen sil-
+mäinsä alla tulee tällainen esitys. Ja toivoisin, että saisin tähän myös vähän lisäselvitystä,
+miksi tässä nyt lähdetään tähän suuntaan, että henkilö, joka hakee sitten uudestaan uusin-
+takäsittelyä, kuitenkin samaan aikaan halutaan poistaa maasta.
+
+Toinen varapuhemies Tuula Haatainen:  Ministeri Mykkänen, vastauspuheenvuoro, 3
+minuuttia, olkaa hyvä.
+
+17.30 Sisäministeri Kai Mykkänen: Arvoisa puhemies! Kiitos hyvistä huomioista ja ky-
+symyksistä. Täällä edustajat Räsänen ja Andersson ovat viitanneet oikeusapukysymyk-
+seen. Se on luonnollisesti oikeusministeriön hallinnonalalla. Itse asiassa tänään julkaisivat
+7
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+siitä väliraporttia ja selvittävät muutostarpeita liittyen erityisesti oikeusavun resursointiin
+myös jatkoa kohden katsottuna. Edustaja Räsänen ja myös muutamat muut kiinnittivät
+huomiota kristityksi kääntyneiden kysymykseen, ja heidän osaltaan sinänsä siis kristityksi
+kääntyminen kesken prosessin on lähtökohtaisesti hakijasta riippumattomaksi syyksi tul-
+kittava peruste, joka on siis muuttanut hänen turvallisuustilannettaan lähtömaassaan ja tu-
+lee tätä kautta käsiteltäväksi, eli tämä hallituksen esitys ei lähtökohtaisesti muuta hakijan
+tilannetta. Se ei tietysti ole automaattisesti peruste turvapaikkaan, vaan täytyy arvioida erit-
+täin vaikealla harkinnalla, kuka on ikään kuin milläkin mielellä kääntynyt ja myöskin mikä
+sitten hänen todellinen asemansa paluumaassa olisi. 
+
+Täällä edustaja Ronkainen viittasi siihen, miksi hakijalla sitten yleensäkään on oikeus
+työhön. Kyllä minusta on erittäin tärkeätä, kun täällä turvapaikanhakijoita on, että he mie-
+luummin ovat aktiivisia. He, jotka ovat sinänsä harva joukko turvapaikanhakijoista, jotka
+pystyvät löytämään laillisen, normaalin työsuhteen, palkkatyön, ovat siihen myös oikeu-
+tettuja. Se on meidän kaikkien etu. Jos ihminen on vuoden kiinteistössä, vähän niin kuin
+varuskunnassa ilman tekemistä, niin se ei ole omiaan helpottamaan heidän oloaan eikä
+meidän oloamme täällä.
+
+Saatavuusharkinnasta jatkoluvissa: Meillä on tällä hetkellä enemmän avoimia työpaik-
+koja kuin koskaan ennen. Meillä yli kolmasosa toimipaikoista jokaisessa maakunnassa
+kertoo kärsivänsä siitä, ettei voi kasvaa, koska ei löydä riittävästi tekijöitä, eli työttömät ja
+työnantajat eivät vain kohtaa. Työtilanteet vaihtuvat, ja jos on jumissa sen yhden työnan-
+tajan kanssa, kuten nykyisen saatavuusharkintajärjestelmän kanssa on myös jatkolupien
+kannalta, niin se jos mikä johtaa hyväksikäyttötilanteisiin ja alipalkkaukseen. Väitän, että
+sen sijaan se, että on edes mahdollisuus vaihtaa myös työnantajaa, kun on täällä ensin lail-
+lisesti vuoden oleskellut, vähentää näitä työvoiman hyväksikäyttöön liittyviä tapauksia, ja
+luonnollisesti työsuhteen ehtojen ja työnantajan taustan valvonta tehdään myös niissä ta-
+pauksissa, missä saatavuusharkintaa ei jatkolupien osalta jatkossa enää tehtäisi. Lisäksi ol-
+laan tehostamassa ulkomaalaisvalvontaa. Ja kiitos myös eduskunnalle kaavailuista siihen,
+että saataisiin pieni lisämääräraha myöskin tältä osin poliisin ulkomaalaisvalvontaan ensi
+vuodelle. 
+
+Täällä ovat edustajat Laukkanen ja Andersson viitanneet siihen, eikö pitäisi ratkaista kii-
+reellisesti turvapaikanhakijoiden oikeusturvaan liittyviä ongelmia ja vasta sitten ehkä kat-
+soa sitä, kertyykö liikaa uusintahakemuksia. Kyllä minä aidosti sanon, että meidän on kii-
+reellisesti ratkaistava myös koko turvapaikanhakujärjestelmän legitimiteetti suomalaisten
+näkökulmasta. Moni kokee vääräksi, että lähes 200 miljoonaa euroa tänäkin vuonna kuluu
+siihen, että vuosia sitten tänne tulleiden hakemuksia käsitellään ja osa heistä käyttää uusin-
+tahakemuksia väärin pitkittääkseen ja saadakseen vastaanottorahaa ja vastaanottopalvelui-
+ta — luonnollisesti vain osa, eivät kaikki.
+
+Mutta kyllä tämä järjestelmä pitää korjata, ja väitän, että tämä nykyinen tilanne kääntyy
+asiallisia turvapaikanhakijoita vastaan. Heitä tässä myös pyritään suojelemaan. Samalla
+totta kai, niin kuin ovat täällä edustajat viitanneetkin, olen käynnistänyt sisäisen analyysin,
+jossa löydettiin kolmisenkymmentä parannuskohdetta. On laadunvalvontatulkkeja palkat-
+tu Maahanmuuttovirastoon jo darin ja arabian kielellä, on varmistettu paremmin, että en-
+simmäisessä puhuttelussa ja sitä valmistavassa kerrotaan, mikä on olennaista, jotta saa-
+daan se ensimmäinen käsittely tehtyä laadukkaasti ja tulee myös vähemmän tarvetta tuo-
+mioistuinvalituksiin tai palauttamisiin. Ja kyllä tuomioistuimet sitten ovat palauttaneet nii-
+tä tapauksia, joissa on nähty, että asiat eivät ole olleet kunnossa. Niitä on nyt tänä syksynä
+8
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+isolta osalta käsiteltykin Maahanmuuttovirastossa ja melko huolellisestikin, ettei ole pidet-
+ty liikaa kiirettä siinä, ja hyvä niin, koska oikeusturva on myös tärkeä.
+
+Edustaja Laukkanen viittasi vielä siihen, että oikeusoppineet ovat myös lausuneet tästä-
+kin asiasta erilaisia asioita, mutta ei tästä uusintahakemuskierteen katkaisemisesta kyllä
+kukaan ole tietääkseni pahaa sanaa sanonut. Se on nimenomaan sen laadun varmistamisen
+jatkamista, sen varmistamista, että pystytään keskittymään niihin uusintahakemuksiin,
+joissa on aidosti tärkeä peruste, vaikkapa se kristityksi kääntyminen, jotta nämä viivytys-
+tarkoituksessa tehdyt eivät kasvata pinoa ja vie resursseja ja vie myöskin sitä hyväksyntää
+suomalaisten taholta tälle ilmiölle. 
+
+17.35 Li Andersson vas (vastauspuheenvuoro): Arvoisa puhemies! Kyllä tässä on kyse
+myöskin suomalaisen oikeusvaltion legitimiteetistä ja oikeusjärjestelmän legitimiteetistä
+monen suomalaisen kansalaisen silmissä. Hallinto-oikeudesta palautettuja hakemuksia on
+ennätysmäärä tullut tällä hetkellä. Niidenkin määrä on ollut voimakkaassa nousussa johtu-
+en niistä heikennyksistä, mitä oikeusapujärjestelmään on tehty, ja tarkistin, että tämän vuo-
+den alussa myönteisiä päätöksiä uusintahakemusten osalta on tehty 16 prosenttia. Onko se
+paljon vai vähän — se on kuitenkin 16 prosenttia, siis sellaisia hakijoita, joiden kohdalla on
+tehty myönteinen päätös vasta uusintahakemusvaiheessa. Kyllä mielestäni nämäkin luvut
+ovat sellaisia, jotka murentavat meidän oikeusvaltiomme legitimiteettiä, meidän turva-
+paikkajärjestelmämme legitimiteettiä. 
+
+Nyt hallitus on tekemässä uusia heikennyksiä oikeusturvaan, ennen kuin nämä vanhat
+ongelmat on korjattu. Se on keskeisin ongelma tässä esityksessä.
+
+17.36 Juho Eerola ps (vastauspuheenvuoro): Arvoisa herra puhemies! Olen itse aikoina-
+ni noin 12 vuotta työskennellyt turvapaikanhakijoiden parissa vastaanottokeskuksessa ja
+sitten myöhemmin muuten ja omasta kokemuksestani voin kyllä sanoa, että ylivoimaisesti
+suurin osa näistä uusintahakemuksista ei tuo mitään uutta perustetta oleskeluluvalle Suo-
+meen ja, antakaa anteeksi, myöskin näistä kristityiksi tai vaikka homoiksi kääntyneistä tai
+eheytyneistä, miten se sanotaan, suurin osa kyllä feikkejä on — tai ainakin itse epäilen hei-
+dän vakaumustaan.
+
+Sitten täällä edustajat Parviainen ja Andersson peräänkuuluttivat tätä yhteisvaikutusten
+arviointia, että mitä näistä hallituksen aiemmista toimenpiteistä on seurannut. Se, mitä on
+seurannut, on se, että ensimmäistä kertaa tehtyjen hakemusten määrä on romahtanut — en-
+simmäistä kertaa tehtyjen hakemusten määrä on romahtanut. Nyt tulee vaan näitä uusinta-
+hakemuksia, niitä tulee enemmän kuin aikaisemmin, mutta semmoiset henkilöt, jotka tule-
+vat ensimmäistä kertaa Suomeen hakemaan turvapaikkaa, [Puhemies koputtaa] ovat vä-
+hentyneet, ja oikealla tiellä ollaan.
+
+17.37 Jani Mäkelä ps (vastauspuheenvuoro): Arvoisa puhemies! Huomauttaisin myös,
+että nämä tahot, joita tässä käytettiin asiantuntijoina, ovat enemmänkin asianosaisia, eli
+kyllähän se on selvää, että asiantuntijaliitto pyrkii turvaamaan jäsentensä hyvät bisnekset
+turvapaikkakysymyksessä. Sieltä tulee hyvin rahaa yhteiskunnan laskuun.
+
+Huomauttaisin vihreille, että kansainvälinen suojelu ei suinkaan ole subjektiivinen oi-
+keus vaan se perustuu tarveharkintaan, jota tässä Maahanmuuttoviraston ja oikeuden toi-
+mesta toimitetaan. 
+9
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+Ja korjaisin myös ministerin puheesta sen, ettei ole mitenkään hyväksyttävää, että turva-
+paikanhakijat venyttävät tarkoituksella hakemustaan näillä uusintahakemuksilla, niin kuin
+aiemmassa puheenvuorossanne sanoitte.
+
+Tämä hallituksen esitys on hyvän suuntainen, toki tulee hieman myöhässä ja varsin loi-
+vana. Siinä oikealla tavalla tiukennetaan työnteko-oikeuden uusiutumista mutta toisaalta
+avataan troijalaisen hevosen tavoin mahdollisuus tarveharkinnan lieventämiselle. On kui-
+tenkin hyvä, että tälle pelleilylle ja pilkanteolle suomalaista turvapaikkajärjestelmää koh-
+taan tehdään edes jotain. Julkisuudessa olleiden tietojen mukaan uusintahakemusprosesse-
+ja on käynnistetty jopa viisi kertaa samojen henkilöiden toimesta. Näin ei voi olla. Oikeus-
+valtiossa asiat käsitellään pääsääntöisesti yhden kerran per henkilö oikeusturvakeinoja
+noudattaen.
+
+17.38 Päivi Räsänen kd (vastauspuheenvuoro): Herra puhemies! Haluan edustaja Eero-
+laa muistuttaa siitä, että uskonnonvapaus on perusoikeus, joka koskee kaikkia Suomessa
+asuvia, myös turvapaikanhakijoita, ja pidän kyllä aika loukkaavana heittona sitä, että epäil-
+lään henkilöiden uskoa feikiksi. Muistutan siitä, että jos henkilö on avoimesti luopunut is-
+lamista, hän on käynyt kristillisellä kasteella, niin tuskinpa siellä mahdollisessa palautus-
+maassa, vaikkapa Afganistanissa, ne henkilöt, jotka häntä vainoaisivat, epäilisivät feikiksi
+tällaista uskoa. Oleellistahan tässä on nimenomaan se, että henkilö voi joutua vainotuksi.
+Sen takia olen itse kyllä huolestunut tämän lakiesityksen kohdalla, että onko se vaara, että
+näiden henkilöiden oikeusturva heikkenee.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Arvoisat edustajat, en myönnä enää
+vastauspuheenvuoroja tässä debattiosassa — me olemme ylittäneet aikaikkunan 10 minuu-
+tilla, meillä on yhteiset pelisäännöt, ja niitä pelisääntöjä pitäisi noudattaa — jo nyt tässä oli
+monta yli. Ministeri saa vain minuutin puheenvuoron paikan päältä. Ei tarvitse vaivautua
+puhujapönttöön.
+
+17.40 Sisäministeri Kai Mykkänen (vastauspuheenvuoro): Arvoisa puhemies! Kiitos.
+Lyhyesti:
+
+Edustaja Andersson viittasi siihen, että tuomioistuimet palauttavat hakemuksia tai uu-
+sintahakemuksista 16 prosenttia menee läpi: sen takiahan ne tuomioistuinkäsittelyt ovat
+tässä se ensisijainen asia, että siellä hallinto-oikeus katsoo, onko tehty menettelytapavir-
+heitä, ja niitä korjataan. Näitä menettelyvirheitä sinänsä on ollut alle 5 prosenttia palautuk-
+sista. Sitten on ollut teknisiä syitä, joiden takia on palautettu vähän useampi. Käsittely on
+hyvä asia, koska silloin tulee käytyä se läpi, mutta sen täytyy myös päättyä jossain vaihees-
+sa, ja tämä uusintahakemus nykyisessä muodossaan ei pääty koskaan, jos ei hakija itse niin
+päätä tehdä. 
+
+Uusintahauista 16 prosenttia on hyväksytty — uskoisin, että ne 16 prosenttia ovat pää-
+sääntöisesti juuri sellaisia hakemuksia, jotka jatkossakin menevät eteenpäin. Niissä on esi-
+tetty joku sellainen peruste, joka on ollut paitsi aidosti hakijasta riippumatta uusi myös vie-
+läpä turvapaikkaan tai kansalliseen suojeluun oikeuttava. Ei kannata olla siitä kovin huo-
+lissaan. Sen sijaan tämä mahdollistaa sen, että asiat tulevat nopeasti käsittelyyn, niille riit-
+tää päteviä tulkkeja, käsittelijöitä, kun viivytystarkoituksessa tehdyt eivät ole tukkimassa.
+Pääongelma viimeisen kolmen vuoden aikana on ollut se, että kun on tullut kymmenen ker-
+taa enemmän [Puhemies koputtaa] hakijoita yhtäkkiä, niin ei ole ollut missään kokeneita
+10
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+tulkkeja, kokeneita käsittelijöitä. Sen takia meidän pitää pystyä rajoittamaan näitä volyy-
+meja.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Keskustelu ja asian käsittely keskey-
+tetään, ja sen käsittelyä jatketaan tässä istunnossa päiväjärjestyksen muiden asiakohtien
+tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 17.41.
+
+————
+
+Keskustelua jatkettiin kello 20.31.
+
+Puhemies Paula Risikko: Nyt jatketaan aiemmin tässä istunnossa keskeytetyn asiakoh-
+dan 10 käsittelyä.
+
+20.31 Sami Savio ps: Arvoisa puhemies! Tässä on tosiaan käsittelyssä hallituksen esitys
+ulkomaalaislain muuttamisesta. Tässä esityksessä on kyllä muutamia myönteisiäkin piir-
+teitä, mutta nostaisin kuitenkin esille tämän muutoksen, jota ehdotetaan työntekijän jatko-
+oleskeluluvan myöntämisen osalta. 
+
+Tässä esityksessä ehdotetaan, että työntekijän oleskeluluvan jatkolupaa hakevalla olisi
+ilman saatavuusharkintaa mahdollisuus hakeutua myös sellaisen työnantajan palveluk-
+seen, joka toimii muulla kuin edellisessä työntekijän oleskeluluvassa mainitulla alalla.
+Edellytyksenä olisi, että ulkomaalainen on työskennellyt työntekijän oleskeluluvan nojalla
+vähintään yhden vuoden. 
+
+Kiinnitin tähän asiaan huomiota siksi, että katson kyllä, että saatavuusharkinnan yleinen
+säilyttäminen on erittäin tärkeä asia työmarkkinoiden toiminnan kannalta siten, että myös
+suomalaisille työntekijöille tulee riittää töitä. Sitten vasta, jos jollakin alalla työvoimapu-
+laa aidosti on, voidaan harkita, annetaanko ulkomaalaiselle työnhakijalle ja työntekijälle
+oleskelulupa. 
+
+Mielestäni tämä esitys saattaa johtaa siihen, että joissakin tapauksissa tätä menettelyta-
+paa tullaan kiertämään, ja suhtaudunkin tähän kohtaan tässä hallituksen esityksessä erit-
+täin kriittisesti. Me perussuomalaiset emme halua, että tätä saatavuusharkintaa tullaan lie-
+ventämään.
+
+20.32 Jani Mäkelä ps: Arvoisa puhemies! Tuen edustaja Savion esille nostamaa huolta
+kyseisestä työvoiman tarveharkinnan lieventämisestä jo siitäkin syystä, että se on varsin
+epälooginen suhteessa itse esitykseen noin muuten, koska siellähän on tiukennuksia sii-
+hen, että jatkokäsittelyn hakeminen ei automaattisesti toisi jatkoa työlupaan, joten miksi
+sitä tarveharkintaa nyt millään loogisella perusteella tässä yhteydessä kevennettäisiin yli-
+päänsäkään. 
+
+Mielestäni tämä ideologinen ajatus siitä, että sotketaan turvapaikkaprosessi ja työperäi-
+nen maahanmuutto, on jo sinänsä väärä ja vahingollinen, koska ne ovat kaksi aivan eri
+asiaa. Turvapaikkaprosessissa arvioidaan, onko henkilöllä tarvetta kansainväliseen suoje-
+luun. Jos hänellä on tarve kansainväliseen suojeluun, on ymmärrettävää, että hänelle anne-
+taan myös oikeus tehdä työtä maassa, jossa hän saa kansainvälistä suojelua. Mutta toisaal-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+ta, jos hän ei sitä suojelua saa, hänen on poistuttava maasta eikä silloin ole myöskään mi-
+tään perustetta sille, että hänellä tulisi olla työpaikka maassa. Nämä luvat pitäisi käsitellä ja
+sen jälkeen ratkaista, voiko henkilö jäädä maahan, ja hänen tulisi poistua, ellei hän voi jää-
+dä maahan. 
+
+On yleisesti ottaen huonoa, että maahanmuutosta puhutaan yhtenä yhtenäisenä ilmiönä,
+jota se suinkaan ei ole, ja mielestäni näiden käsitteiden — työperäisen maahanmuuton ja
+turvapaikkaprosessin — sotkeminen lainsäädännössä johtaa vahingollisella tavalla tällai-
+sen keskustelun yleistymiseen.
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan.
+12
+
+

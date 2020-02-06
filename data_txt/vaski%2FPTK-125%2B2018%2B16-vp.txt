@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM5DB9.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 125/2018 vp
+
+Täysistunto
+
+Tiistai 4.12.2018 klo 14.02—20.52
+
+16. Hallituksen esitys eduskunnalle laiksi vahvasta sähköisestä tunnistamisesta ja sähköi-
+sistä luottamuspalveluista annetun lain muuttamisesta ja väliaikaisesta muuttamisesta
+
+Hallituksen esitys HE 264/2018 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päiväjär-
+jestyksen 16. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintä-
+valiokuntaan, jolle perustuslakivaliokunnan ja talousvaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+19.42 Kristiina Salonen sd: Arvoisa puhemies! Voit täyttää veroilmoituksesi netissä, tar-
+kistaa reseptisi omakanta.fi:stä tai varata jonottamatta ajan vastaanotolle kätevästi verkos-
+ta. — Näinhän meitä kannustetaan sähköisten palveluiden käyttöön, ja valtaosalle suoma-
+laisista tällaiset muutokset tuntuvatkin elämää helpottavilta parannuksilta. Mutta eivät ihan
+kaikille meistä. Julkishallinnollisten palveluiden siirtyessä yhä enemmän sähköiseen maa-
+ilmaan perustavanlaatuinen kansalaisoikeus tulisi huomioida myös sähköisissä palveluis-
+sa: perustuslain mukaan ihmiset ovat yhdenvertaisia lain edessä. Ketään ei saa ilman hy-
+väksyttävää syytä asettaa eri asemaan esimerkiksi terveydentilaan liittyvän syyn perusteel-
+la.
+
+Asioidakseen Kelan sähköisissä palveluissa, täyttääkseen verotietonsa verkossa tai kat-
+soakseen terveystietojaan Omakannasta on annettava luotettava tunnistautuminen järjes-
+telmään. Suomessa tämä tunnistautuminen tehdään valtaosiltaan pankin verkkotunnistau-
+tumisen tai mobiilivarmenteen avulla. Isolle osalle meistä tämä toimii hyvin — muttei kai-
+kille. Millaiset mahdollisuudet käyttää esimerkiksi edellä mainittuja palveluja on vanhuk-
+sella, jolla ei ole verkkopankkitunnuksia tai mobiilivarmennetta? Entäpä vakavasti sairaal-
+la, jonka asioista huolehtii omaishoitaja? Saamieni yhteydenottojen mukaan se on todella
+haastavaa. Vaikeuksissa on esimerkiksi vanhus, joka elää kotonaan mutta on niin heikko-
+kuntoinen, että asiointi kodin ulkopuolella on mahdotonta. Kotona asuminenkin mahdol-
+listuu vain omaishoitajan avulla. Omaishoitaja on tuolloin usein myös henkilön edunval-
+voja. Edunvalvojalla on oikeus liittää edunvalvonnan alaisen henkilön pankin käyttöoikeu-
+det omaan verkkopankkiinsa, mutta käyttöoikeudet rajoittuvat kuitenkin vain ja ainoas-
+taan pankkipalveluihin. Toisin sanoen toisen henkilön verkkopankkitunnuksia ei voi käyt-
+tää henkilöllisyyden varmentamiseen julkishallinnollisissa palveluissa. Siksi esimerkiksi
+Omakanta-palveluun tai verottajan sivulle ei saa sähköisesti kirjautua saamillaan pankki-
+tunnuksilla, vaikka olisi henkilön laillistettu edunvalvoja. Tällöin vaihtoehdoiksi
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+omaishoitaja-edunvalvojalle jää sähköisen henkilökortin hakeminen vanhukselle. Käytän-
+nössä se tarkoittaa vanhuksen fyysistä asiointia valokuvauksessa ja poliisin lupapalveluis-
+sa. Tämä tuntuu meille terveille ja toimintakykyisille ihmisille järkevältä toimintatavalta,
+mutta miten me voimme odottaa samaa henkilöltä, joka siirtyäkseen kodistaan muualle tar-
+vitsee huonon kuntonsa takia pelkkään kuljetukseenkin paarit. Miten me huolehdimme sii-
+tä, että näillä ihmisillä tai heistä huolehtivilla on samanlaiset oikeudet pysyä mukana no-
+peasti sähköistyvässä yhteiskunnassamme? Eikö meidän tulisi kaikin tavoin helpottaa nii-
+den ihmisten taakkaa, jotka huolehtivat vakavasti sairaista tai hyvin iäkkäistä läheisistään
+yksin kotona? Heillä ei ole voimia taistella oikeuksiensa puolesta. Meidän terveiden on
+tehtävä se heidän puolestaan.
+
+Onneksi tämä lakiesitys viimein alkaa ratkoa Suomen sähköisen tunnistautumisen on-
+gelmaa. Lainsäädännöllisesti kansalaisten sähköinen tunnistautuminen on onneksi muu-
+tosten alla. Tavoite on kuitenkin vielä niin pitkällä uudenlaiseen tunnistautumisjärjestel-
+mään siirtymisessä, että nykyisessä tilanteessa moni kamppailee yhä edelleen. Uuden jär-
+jestelmän pitää tunnistaa nykytilaa paremmin nämä henkilöt, joille valokuvan ottaminen it-
+sestään tai korttien jatkuva uusiminen on vaikeaa, jopa mahdotonta. Mutta kuitenkin mei-
+dän pitäisi pystyä löytämään jo ennen tämän lain voimaantuloa ratkaisuja tähän hetkeen.
+Lain edessä nämä ihmiset ovat nyt ei-kenenkään maalla, ja heidät on tunnistettava. Viran-
+omaispalveluiden pitäisi jalkautua tarvittaessa niiden luokse, jotka eivät kodistaan pääse
+ulkomaailmaan niitä hakemaan. Ja jos se ei ole ollut maan tapana, niin muutetaan tapojam-
+me. 
+
+19.46 Jari Myllykoski vas: Arvoisa rouva puhemies! Asia on hyvä, tämä mahdollisuus ja
+kyseinen lakiesitys tätä sähköistä tunnistautumista edistävät.
+
+Tämä on tullut hyvin lähelle tänä kesänä, kun meitä kansanedustajia tuolla Satakunnan
+Kansan mielipidepalstalla on arvioitu siitä, ettemme tee yhtään mitään täällä sen eteen, kun
+omaishoitajat taikka sitten ne, jotka ovat edunvalvojia, eivät pysty asioimaan edunvalvot-
+tavansa puolesta. Ja tämä puolesta asiointi on tosi ongelmallista varsinkin, kun puhutaan
+lääkäristä, lääkkeistä. Ja perusseikkana on, että vaikka meillä olisi edistynyt lainsäädäntö,
+tällä hetkellä Omakanta-palvelu ei mahdollista sitä, että joku toinen henkilö käyttäisi ja
+menisi henkilön Omakanta-tietoihin. Eli tietojärjestelmät eivät mahdollista sitä, kuten
+mahdollistuu tällä hetkellä pankkipalveluiden kanssa, kuten edustaja Salonen tuossa oi-
+kein kertoi, että edunvalvoja saa oikeudet ja voi asioida omilla pankkitunnuksillaan edun-
+valvottavan pankkiasioissa. Ei tarvita mitään erityisiä järjestelmiä siihen, vaan tällä hetkel-
+lä järjestelmä toimii niin, että maistraatista on haettu lupa siihen, joko edunvalvoja tai sit-
+ten henkilö, joka haluaa asioita hoitaa jonkun edunvalvojana, ja sieltä maistraatin kautta on
+saatu sitten oikeudet, miten nämä luvat menevät. Tai mahdollisesti ehkäpä muistisairaan
+kohdalla, joka ei pysty itsestään huolehtimaan eikä suostu tähän maistraattikäsittelyyn, kä-
+räjäoikeus sitten ratkaisee sen, onko tällä kyseisellä henkilöllä, joka on edunvalvoja, mah-
+dollisuus hoitaa sähköisesti edunvalvottavan pankkiasioita.
+
+Mutta erityisen tärkeätä olisi, että me pystyisimme nyt sekä kehittämään lainsäädäntöä
+että huomioimaan varmasti seuraavassa hallitusohjelmassa, että tämä Omakanta-tietojär-
+jestelmä joustavoittaisi sitä, että omaishoitajien, jotka useimmiten sitten vielä ovat edun-
+valvojia, asiointi olisi helpompaa. Se olisi tarpeen sen omaishoitajankin ajankäytön kan-
+nalta, ettei tarvitse mennä sinne apteekkiin selvittämään niitä asioita, että mitenkä ja mitä
+lääkkeitä, että sen voisi tehdä sieltä Omakannan kautta, käyttää sähköistä reseptiä niin, että
+2
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+ei tarvitse kävellä sinne apteekkiin näiden asioiden kanssa. Tietoteknisesti voisimme sitten
+seuraavassa hallitusohjelmassa tätä edistää, laittaa tähän voimavaroja. Olen aivan varma
+siitä, että kun meidän väestömme ikärakenne vanhenee ja jos seuraavassa hallitusohjel-
+massa omaishoitajille tulee hieman parempi mahdollisuus hoitaa omaistaan ja omaa jaksa-
+mistaan, eli sinnekin satsattaisiin, niin omaishoitajien lukumäärä tulee kasvamaan ja sa-
+malla se tarkoittaa sitä, että myös edunvalvojien määrä tulee huomattavasti lisääntymään.
+
+Tälläkin hetkellä meillä lähiomainen voi tilanteessa tehdä niin sanottuja päätöksiä esi-
+merkiksi lääketieteellisestä toimenpiteestä, tehdäänkö vai eikö. Lääkäri sitten kuitenkin
+loppukädessä vielä päättää siitä. Tämä edunvalvoja on lähiomainen, eli nimenomaan lähi-
+omaisiin ja lääketieteellisiin toimenpiteisiin oleva rajattu mahdollisuus puuttua tai tehdä
+ehdotuksia on jo olemassa.
+
+Joka tapauksessa edistystä on siihen, että tämä sähköinen tunnistautuminen tulee, mutta
+pitää nähdä, että tähän pitää liittyä vielä monta asiaa. Arvoisa rouva puhemies! Kiitos.
+
+19.51 Kristiina Salonen sd: Arvoisa puhemies! Ymmärrän, että tämä asia on ollut moni-
+mutkainen ja täällä on myöskin ikään kuin monenlaisia sisällä piileviä intressejäkin, joita
+sitten on ehkä pyritty kuluneiden vuosien aikana selvittämään. Keskeistä on se, että säh-
+köisten tunnistuspalveluiden käyttö kasvaa ihan merkittävästi. Sen takia ei ole merkitykse-
+töntä miettiä myöskään sitä, miten markkinat jakautuvat ja millaisilla pelisäännöillä mark-
+kinoilla toimitaan. Ja toivon, että tähän nyt sitten valiokunnassa kiinnitetään erityinen huo-
+mio, koska siitä näyttää myöskin kahdella eri ministeriöllä olevan ristiriitaa.
+
+Tämä henkilökortti, joka on siis mobiilivarmenteen ja pankkitunnusten lisäksi kolmas
+tunnistautumistapa, on ollut lähestulkoon olemattomalla käytöllä. Ja juuri se on itse asias-
+sa se, mihin nyt ohjataan niitä ihmisiä, jotka eivät pääse sähköisiä palveluita käyttämään
+esimerkiksi edellä kuvaamani kaltaisessa tilanteessa, jossa vanhus on niin huonokuntoi-
+nen, että omaishoitaja hänen asioitaan hoitaa.
+
+Edustaja Myllykoski hienosti puolusti ensin sosiaali- ja terveysvaliokunnan jäseniä työ-
+määrällä lehtien palstoilla, kiitos siitä edustaja Myllykoskelle. Itse pääsin asiaan perehty-
+mään vasta ihan äskettäin ja selvittelin sitä. Annoin ohjeistukseksi juuri sen, että kun tämä
+pankkitunnusten käyttö oli evätty, niin mobiilivarmenne olisi se seuraava mahdollinen
+vaihtoehto. Ja kuinka ollakaan, kun kyseinen henkilö asiaa selvitti, tuli tietoon, että mobii-
+livarmennetta ei saa ennen kuin tunnistautuu nettiin pankkitunnuksilla.
+
+Siis pankkitunnukset on evätty. Toinen vaihtoehto on mobiilivarmenne. Mobiilivarmen-
+netta ei saa, kun ei ole pankkitunnuksia.
+
+Sitten on kolmas vaihtoehto tämä henkilökortti, joka itse asiassa muuten vaatii vielä eril-
+lisen lukulaitteen, joka esimerkiksi pienituloiselle eläkeläiselle alkaa olla jo kustannusten-
+sa puolesta riski. Mutta henkilökortti vaatii henkilökohtaisen käynnin. Ja henkilö, joka ei
+pysty siihen, on ikään kuin täysin laittomalla maaperällä, täysin ei-kenenkään-maalla,
+pompoteltavana tuolla ihmisiltä toisille. Ja tähän on tultava nyt stoppi. Toivottavasti tätä
+asiaa myöskin valiokunta käsittelee.
+
+19.54 Mika Niikko ps: Arvoisa puhemies! Tämä sähköinen tunnistautuminenhan on Suo-
+messa hyvin yleistä, nimenomaan pankkitunnuksilla, koska yli 90 prosenttia tapahtuu ni-
+menomaan pankkitunnistautumisten kautta, kun asioidaan verkossa ja todennetaan henki-
+löllisyys, ja sama suunta on myös Ruotsissa. 
+3
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+Virossa on kuitenkin tilanne toisenlainen ollut jo heti alusta lähtien. Heillähän on jo 15-
+vuotiaasta saakka oltava jokaisella kansalaisella henkilökortti, johon on myös tämä sähköi-
+sen tunnistautumisen mahdollisuus sisällytetty. Suomessahan tällaista korttia yritettiin ai-
+kanaan tuoda markkinoille ja tuoda tavallaan kansalaisten tietoisuuteen, mutta se ei mil-
+lään tavalla nostanut suosiota. 
+
+Ja tämä on aivan totta, mitä edustaja Salonen mainitsi, että kaikki henkilöt eivät saa sitä
+pankkikorttia laisinkaan. Jos et saa pankista edes tiliä auki, niin kuinka voit saada verkko-
+tunnukset, joilla voit asioida ja hoitaa välttämättömiä asioita? Henkilön tunnistautuminen
+on välttämätöntä monessa asioinnissa verkossa.
+
+Kun esimerkiksi jotkut ministeriöt ovat kilpailuttaneet näitä tunnistautumispalveluita,
+niin jossain vaiheessa Suomessa on huomattu, että ne ovat äärettömän kalliita. On jouduttu
+pakon edessä pohtimaan, miten tämä voidaan muulla tavalla ratkaista. Ja toisaalta olisin
+itse toki odottanut, että näiden kymmenen vuoden aikana, kun tämän toiminnan tuloksia on
+tässä eri tavalla jo todettu, oltaisiin löydetty Suomeen myös edullisempi ratkaisu. 
+
+Toki hallituksen esitys nyt haluaa tässä asiassa joitain parannuksia tehdä, mutta se ko-
+konaiskuva vaatii vielä enemmän keskustelua tulevan hallituskauden aikana.
+
+19.56 Jari Myllykoski vas: Arvoisa rouva puhemies! Lyhyesti vielä kauniiksi, tai ehkä
+rumaksi, lopuksi:
+
+Täytyy sanoa, että pankeilla ei pitäisi lainsäädännön mukaan olla oikeutta evätä pankki-
+tunnuksia maksuhäiriömerkinnästä johtuen, [Mika Niikko: Juuri näin!] mutta valitettavas-
+ti näin vain tapahtuu. Tai sitten se on siinä tilinavaamistilanteessa este, kun katsotaan, että
+henkilö ei ole sovelias meidän asiakkaaksemme. 
+
+Meillä on tässä maassa 400 000 ihmistä, joilla on luottohäiriömerkintä. Voitte vain ku-
+vitella, montako niistä ihmisistä on suljettu tämän sähköisen tunnistautumisen ulkopuolel-
+le juuri tästä syystä. Ja kun siellä on niitä inhimillisiä syitä, että ihmiset eivät ole pystyneet
+terveyskeskusmaksuja maksamaan, ja sitä kautta kuntayhtymän tai kunnan terveyskeskuk-
+sesta ollaan annettu perintäyhtiöihin sitten nämä perinnät, niin tämä luottohäiriömerkintö-
+jen kasvu on ollut ihan räjähdysmäistä — liittyen varmasti osaksi myös pikavippeihin.
+
+Mutta tärkeintä olisi, että me pystyisimme lainsäädännöllä pankkeja edellyttämään jous-
+tavampaan toimintaan. Olen tässä aiempina vuosina huutanut ääneen, että me tarvitsemme
+sitä, että Kela myöntää, yhteiskunta myöntää sen sähköisen tunnistautumisen mahdollisuu-
+den niin, että se ei repeä. Mutta kustannushinta on aivan hirvittävän iso, näin olen ymmär-
+tänyt. Nyt pankit ovat olleet aktiivisia, he ovat luoneet omat järjestelmänsä, niitä pitää pys-
+tyä hyödyntämään. Mutta voimmeko sitten mennä sinne yksittäisen liiketoimijan alueelle:
+että kun tämä on kuitenkin kansalaisoikeutta, niin joko niin, että edellytämme näiden säh-
+köisten pankkitunnusten haltijoiden ylläpitäjiltä sitä, että he edistävät kansalaisten mahdol-
+lisuuksia osallistua yhteiskuntaan, tai niin, että annetaan heille rajoittamisoikeus. 
+
+Lainsäädäntö on mennyt oikeaan suuntaan, luottohäiriömerkintä ei saisi olla enää estee-
+nä siihen, etteikö pankkitunnuksia anneta, mutta jotain meidän on tehtävä vielä, ja meillä
+on toivottavasti seuraavissa hallitusohjelmaneuvotteluissa tämäkin asia keskeisesti pöy-
+dällä.
+
+Keskustelu päättyi.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+Asia lähetettiin liikenne- ja viestintävaliokuntaan, jolle perustuslakivaliokunnan ja talous-
+valiokunnan on annettava lausunto.
+5
+
+

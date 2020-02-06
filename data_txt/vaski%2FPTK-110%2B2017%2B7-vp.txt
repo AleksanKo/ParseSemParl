@@ -1,0 +1,728 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM12E4.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 110/2017 vp
+
+Täysistunto
+
+Keskiviikko 25.10.2017 klo 14.00—21.36
+
+7. Hallituksen esitys laiksi liikenteen palveluista annetun lain muuttamiseksi ja eräiksi sii-
+hen liittyviksi laeiksi
+
+Hallituksen esitys HE 145/2017 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 7. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja vies-
+tintävaliokuntaan, jolle perustuslakivaliokunnan ja talousvaliokunnan on annettava lau-
+sunto.
+
+Keskustelu
+
+16.16 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro):  Arvoisa pu-
+hemies! Hiukan alle vuosi sitten esittelin teille liikenteen palvelulain ensimmäisen vaiheen
+esityksen, joka sisälsi useita uudistusehdotuksia. Liikennepalveluja koskevat olennaiset
+tiedot esitettiin tuotaviksi yhtenäisellä tavalla avoimiin rajapintoihin, jotta meidän olisi
+mahdollista myös yhtenäisellä tavalla tarkastella niitä ja luoda palvelukokonaisuuksia.
+Suomesta tuli kansainvälisestikin noteerattu edelläkävijä uusien liikkumispalvelujen ja
+kestävämmän liikennejärjestelmän luomisessa. Näin ihmisille saadaan entistä monipuoli-
+sempia liikkumispalveluita ja edelläkävijöinä toimiville suomalaisyrityksille tarjoutuu
+mahdollisuuksia ulkomaisilla markkinoilla.
+
+Nyt olen esittelemässä teille liikenteen palvelulain toisen vaiheen muutosehdotuksia,
+joilla haluamme viedä liikennejärjestelmän tarkastelua kokonaisuutena entistä pidemmäl-
+le ja koota hajallaan olevat säännökset yhteen. Ensimmäinen vaihe koski tieliikenteen
+markkinoita, ja tässä toisessa vaiheessa ehdotetaan myös merenkulun, ilmailun ja raidelii-
+kenteen markkinasääntelyn tuomista saman lain alle. Suurin uudistus tässä toisessa vai-
+heessa koskee liikenteen rekistereitä. Olemme kokoamassa yhteen lukuisia liikenteen re-
+kistereitä koskevat säännökset ja yhtenäistämme pirstaleiset rekisteritietojen käyttöä ja
+luovutusta koskevat säännökset. Ajankohta tähän on ihanteellinen nyt, kun olemme samal-
+la panemassa täytäntöön EU:n yleistä tietosuoja-asetusta. Haluamme rekisterisääntelyn,
+joka on läpinäkyvää, tarjoaa korkean tietosuojan tason ja mahdollistaa tietojen hyödyntä-
+misen modernilla tavalla. Siksi ehdotamme yhden liikenneasioiden rekisterin perustamis-
+ta.
+
+Uudistus heijastaa digitalisaation tuomaa datan merkityksen kasvua. Liikenteen turval-
+lisuusvirastosta tulee selvemmin tietoviranomainen. Tämä viranomainen pystyy uudistuk-
+sen myötä palvelemaan yhä paremmin asiakkaitaan, niin yksityisiä henkilöitä kuin yrityk-
+siä. Luonnollisten henkilöiden näkökulmasta rekisterisääntely yksinkertaistuu, kun haja-
+nainen sääntely kootaan yhteen. Yksilöille tulee myös entistä parempi mahdollisuus halli-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+ta taitojensa käyttöä. Myös niin sanottu yhden luukun periaate toteutuu paremmin. Muille
+toimijoille tavoitteena on luoda uusia mahdollisuuksia hyödyntää rekisterissä olevaa tietoa
+esimerkiksi palvelujen kehittämistä varten.
+
+Puolesta-asiointi on esityksessä ehdotettu uusi toimintamalli. Tämä tarkoittaa, että hen-
+kilö voisi sallia sen, että kolmas osapuoli asioisi hänen puolestaan hänen käyttäjätileillään
+eri palveluissa. Ehdotuksella täydennetään ensimmäisen vaiheen tietosääntelyä. Kun en-
+simmäisen vaiheen säännöksillä helpotettiin yksittäisten kertaluontoisten matkaketjujen
+muodostamista, nyt ehdotetulla toisen vaiheen sääntelyllä pyritään edistämään esimerkik-
+si kuukausipakettiluontoisten yhdistettyjen palveluiden tarjoamista.
+
+Kokonaisuudessaan liikenteen palvelulain tietosääntelyn tavoitteena on asettaa palve-
+lunkäyttäjä keskiöön ja mahdollistaa tällä tavoin yhtenäisten matkaketjujen muodostumi-
+nen ovelta ovelle. Haluamme tehdä liikkumispalvelujen käyttämisestä mahdollisimman
+helppoa. Mutkaton liikkuminen on jokaiselle osa hyvää arkea. Samalla kehittyvät palvelu-
+mallit kannustavat siirtymään ympäristöystävällisempään liikkumiseen.
+
+Esitykseen sisältyy myös ehdotuksia eri liikennemuotojen toimilupasääntelystä ja am-
+mattipätevyysasioista. Liikenteen turvallisuusvirastosta, Trafista, tulisi entistä selkeäm-
+min kaikkien liikennemuotojen toimilupaviranomainen, kun tässä esityksessä ehdotetaan,
+että sille siirtyisivät myös rautatieliikenteen toimilupa-asiat jo aiemmin sillä olleiden tielii-
+kenteen ja ilmailun toimilupatehtävien rinnalle. Rautatieliikenteessä suurimmat muutoseh-
+dotukset koskevat henkilöstön pätevyyksiä. Veturinkuljettajien pätevyysvaatimuksissa
+noudatettaisiin veturinkuljettajadirektiiviä ilman kansallisia lisävaatimuksia, ja muun rau-
+tatiejärjestelmän liikenneturvallisuustehtävissä toimivan henkilöstön ammattipätevyydet
+sisältyisivät toimijoiden turvallisuudenhallintajärjestelmiin.
+
+Linja- ja kuorma-autonkuljettajan ammattipätevyyksiä koskevat vaatimukset sekä tielii-
+kenteen sosiaalilainsäädäntö ehdotetaan siirrettäväksi liikennepalvelulakiin. Linja- ja
+kuorma-autonkuljettajien ammattipätevyyksien osalta on päädytty ehdottamaan, että ny-
+kyinen koulutukseen perustuva järjestelmä säilytettäisiin. Harkinnassa olleesta siirtymästä
+koulutusjärjestelmästä koejärjestelmään luovuttiin valmistelun aikana. Parhaillaan täytän-
+töönpanovaiheessa oleva ammatillisen koulutuksen uudistus johti osaltaan siihen, että täs-
+sä vaiheessa katsottiin parhaaksi tarkastella koejärjestelmään siirtymistä vasta myöhem-
+min.
+
+Myös merenkulun koulutusjärjestelmää ehdotetaan kehitettävän kansainvälisten vaati-
+musten mukaisesti.
+
+Arvoisa puhemies! Liikennepalvelulain toisen vaiheen ehdotuksilla varmistamme, että
+sääntelymme on linjakasta ja pysymme liikenteen digitaalisen kehityksen etujoukoissa. —
+Kiitos.
+
+16.22 Olli-Poika Parviainen vihr: Arvoisa herra puhemies! Olemme saaneet käsiteltä-
+väksemme liikennekaaren kakkosvaiheen. Tavoitteena on rakentaa liikennesektorillekin
+digitaalinen kasvuympäristö ja sujuvoittaa säädöksiä. Liikennekaaren kakkosvaihe onkin
+selvä edistysaskel Suomen digitalisaatiolle, ja liikenteen osalta se veisi Suomen uudistus-
+ten jälkeen maailman kärkeen. Tavoitteena on täydentää liikennekaaren aiemmin hyväk-
+syttyä ensimmäistä vaihetta kattamaan koko liikennejärjestelmä.
+
+Tällä tehdään mahdolliseksi asiakaslähtöinen liikenteen kehittäminen palveluna. La-
+kiehdotus mahdollistaa erilaisten matkaketjujen rakentamisen kunkin yksilöllisten liikku-
+mistarpeiden mukaisesti. Avointen rajapintojen ja avoimen datan avulla erilaiset palvelu-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+yritykset voivat yhdistellä matkapalveluja, kuten vaikka junan, bussin ja taksin räätälöi-
+dyiksi ovelta ovelle yhdistelmiksi. Tämä puolestaan mahdollistaa koko liikkumisjärjestel-
+män asteittaisen muuttamisen tarve- ja palvelupohjaiseksi niin, että esimerkiksi oman hen-
+kilöauton omistamisen tarve monilla alueilla vähenee. Tarpeettoman autoilun vähentämi-
+selle onkin tilausta. Tällä hetkellä maanteiden henkilöliikennesuoritteesta 84 prosenttia
+tapahtuu henkilöautoilla ja kotitaloudet käyttävät rahaa omaan autoon ja sen käyttöön yli
+15 miljardia vuosittain, vaikka auto seisoo keskimäärin 95 prosenttia ajastaan pihalla tai
+autotallissa.
+
+Tällä lakipaketilla voidaan mahdollistaa suuri markkinapotentiaali myös palveluyrityk-
+sille, toivottavasti myös kotimaisille uusille sellaisille. Liikennevallankumousta tuskin
+saamme aikaan hetkessä eivätkä asenteet toki muutu välittömästi, vaan työ tehdään pitkä-
+jänteisesti, asteittain. Suomen liikennejärjestelmän kehittämisen kannalta uudistus on siis
+todella kannatettava. Se ohjaa monia meitä autoilun pakosta liikkumisen vapauteen.
+
+Tämä lakipaketti kokoaisi myös liikennesääntelyn ja liikenteeseen liittyvät eri rekisterit
+yhteen paikkaan Liikennevirastoon, josta niitä voidaan avoimen datan hengessä hyödyn-
+tää yksinkertaisemmin ja helpommin. Myös big data -mahdollisuudet ovat merkittävät.
+Toisaalta tietoturvahaasteet ovat nykyaikana todellisia, ja näin kunnianhimoinen lakipa-
+ketti velvoittaa meitä myös aiempaa kunnianhimoisempaan tietosuojapolitiikkaan. Kerät-
+tävän liikennedatan, rekisterien ja muunkin osalta on kiinnitettävä erityistä huomiota käyt-
+täjien yksityisyydensuojaan ja koko yhteiskunnan kokonaisturvallisuuden kannalta riittä-
+vän hajautettuihin järjestelmiin. Tietoturvakysymysten lisäksi tämä uudistus vaatiikin ehkä
+koko liikenneturvallisuuden uudelleenmäärittelyä nykyistä laajemmaksi kokonaisuudeksi.
+
+Arvoisa puhemies! Esityksen vaikutukset ovat pääosin välillisiä, ja hallitus arvioi ne ko-
+konaisuudessaan positiivisiksi. Digitalisaation edistäminen ja sääntelyn ja hallinnollisen
+taakan purkaminen alentavat kustannuksia ja siten liikkumisen hintaa kuluttajille. Toivo-
+taan, että näin toteutuu. Kustannusvaikutusten osalta rajapintojen avaaminen haastaa eten-
+kin pienempiä yrityksiä, ja meidän onkin pidettävä huolta siitä, ettei taakka muodostu heil-
+le kohtuuttomaksi, jotta saamme aidosti monipuoliset ja toimivat markkinat. Vaikutusten
+arviointi ennakkoon näin laajalle paketille on kuitenkin haastavaa. Emme vielä tiedä, mil-
+laisia ja kuinka monipuolisia palveluyrityksiä alalle syntyy, emmekä sitä, miten Suomen
+kansa lopulta innostuu tai on innostumatta uudenlaisista liikkumiskonsepteista. Oma auto
+on kuitenkin monelle aika rakas. Toisaalta nyt ei olla valmistelemassa käyttäjän kannalta
+pakottavaa lainsäädäntöä, vaan ennen kaikkea mahdollistavaa ja uutta synnyttävää lainsää-
+däntöä. Mielestäni tämä on hyvä suunta.
+
+16.25 Jyrki Kasvi vihr: Arvoisa puhemies! Tämä hallituksen esitys on todella painava,
+enkä puhu nyt vain esityksen liki 900 sivun massasta. Esitys kokoaa pirstaleista liikenteen
+lainsäädäntöä yhdeksi kokonaisuudeksi, mikä on jo sinänsä kannatettavaa. Keskityn kui-
+tenkin tämän esityksen uusinta uutta luovaan osuuteen eli liikennetietojen käsittelyn uudis-
+tukseen.
+
+Liikenteessä on käynnissä rakennemuutos, joka vetää vertoja traktorien tuloon Suomen
+pelloille, enkä puhu nyt vain robottiautoista, vaikka tämä laki on toki välttämätön myös nii-
+den mahdollistamille uusille liiketoimintamalleille. Liikenne, kuten käytännössä kaikki
+muutkin talouden sektorit, on muuttumassa alustatalouden palveluksi. Ja mitä alustatalous
+tarkoittaa? Dataa ja älyä, jolla tätä dataa analysoidaan palveluiden tuottajien ja käyttäjien
+törmäyttämiseksi kaikkien osapuolten eduksi. Esimerkiksi kyytipalvelu Uber törmäyttää
+3
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+kyytiä tarjoavat ja tarvitsevat ihmiset. Sen todellisena bisneksenä on kuitenkin näiden kyy-
+tien sivutuotteena syntyvä data, jota se paitsi käyttää oman liiketoimintansa kehittämiseen
+myös myy hyvään hintaan. — Ne sähköisten palveluiden käyttösopimusehdot kannattaa
+tosiaan lukea huolella.
+
+Arvoisa puhemies! Maanantaina Finlandia-talolla käynnistettiin Suomen kiri alustata-
+louden kärkimaiden joukkoon, Suomi ja Eurooppa yleensä kun ovat jääneet pahasti alus-
+tatalouden kehityksestä jälkeen. Mutta meillä on Suomessa edelleen vahvuuksia, jotka
+mahdollistavat Suomen paluun takaisin kärkikahinoihin. Yksi näistä kansallisista valtti-
+korteista on Suomen viranomaisten rekistereiden tietopääoma. Hallituksen esityksen läh-
+tökohtana onkin maksimoida erityisesti liikennetietorekistereiden hyödyntäminen. Liiken-
+nevirastolle ollaan asettamassa velvoite avata paitsi omat tilastonsa ja tutkimuksensa myös
+saamansa liikenteen palveluiden käyttöä koskevat tiedot sellaisessa muodossa, ettei niitä
+pysty yhdistämään yksittäisiin kansalaisiin. Asennemuutos perinteiseen tiedon panttaami-
+sen kulttuuriin on valtava.
+
+Valitettavasti liikenteen tietovarantojen käytettävyys ei kuitenkaan ole paras mahdolli-
+nen, esimerkiksi liikennettä koskevia rekistereitä on eri virastoilla kymmeniä. Nyt nämä
+liikenteen rekisterit ollaan kokoamassa yhteen liikenneasioiden rekisteriin, jota Trafi hal-
+linnoi. Siitä kuuluu hallitukselle kiitos. Ja mikä parasta, keskitettyjen alustojen rakentami-
+sen asemesta tavoitteena ovat hajautetut mutta yhteen toimivat järjestelmät, jotka kommu-
+nikoivat avointen rajapintojen välityksellä. Siitä kuuluu hallitukselle toinen kiitos.
+
+Yhteen toimivuus asettaa toki muitakin vaatimuksia kuin vain avoimet rajapinnat. Pelk-
+kä tekninen avoimuus ei riitä, jos tiedon hyödyntämiselle on muita, esimerkiksi lainsää-
+dännöllisiä esteitä. Näitä esteitä tämä esitys pyrkii parhaaltaan purkamaan. Lisäksi on so-
+vittava käytettävistä standardeista, anonymisointinormeista, sanastoista ja määritelmistä.
+Niiden ei kuitenkaan pitäisi olla sääntelykysymys, mutta jos eri viranomaiset eivät pysty
+niistä keskenään sopimaan, hallituksella on oltava valmiutta puuttua asiaan. Se, että Suo-
+men viranomaisrekisterit ovat kansainvälisessä vertailussa hyviä, ei tarkoita, ettei niiden
+laatua, kuten ajantasaisuutta, eheyttä ja käytettävyyttä, olisi syytä edelleen kehittää.
+
+Hallituksen esityksessä on havaittavissa myös merkittävä paradigman muutos, jonka
+soisin leviävän myös muuhun kuin liikenteen lainsäädäntöön. Siinä missä aiemmin on pai-
+notettu tiedon omistajuutta, nyt keskitytään tiedon käyttöoikeuksiin. Yrityksille ja henki-
+löille halutaan turvata oikeus käyttää itseään koskevaa tietoa, vaikka se olisi jonkun muun
+toimijan hallussa. Lakiesityksen 3 luvussa säädetään yksityiskohtaisesti tietojen luovutta-
+misen, tietosuojan ja yksityisyydensuojan pelisäännöistä, on sitten kyse julkisesta avoi-
+mesta datasta, ammatinharjoittamiseen liittyvästä, henkilötiedoista yksittäisluovutuksina,
+tietojen luovuttamisesta anonymisoituina tutkimus- ja innovaatiotoimintaan tai julkisen re-
+kisterin henkilötietojen luovuttamisesta liikenteeseen liittyvään tarkoitukseen, kuten kat-
+sastuskonttorien suoramarkkinointiin. Esityksen valmistelussa on otettu huomioon myös
+EU:n tietosuoja-asetus GDPR, eikä esitystä pitäisi joutua ainakaan sen vuoksi heti ensi
+vuonna päivittämään.
+
+Arvoisa puhemies! Yksityiskohtaisessa valiokuntakäsittelyssä liikennetietojen luovutta-
+miskäytännöistä voi toki löytyä korjattavaa, etenkin henkilötietojen osalta tasapainoilu tie-
+don avoimuuden ja yksityisyydensuojan välillä on haastavaa. Itse asiassa olisi suoranainen
+ihme, jos näin laajasta ja uutta käyvästä esityksestä ei löytyisi lainkaan töitä liikenne- ja
+viestintävaliokunnan hienosäätölekalle. Odotankin asiantuntijakuulemisia harvinaisen
+kiinnostuneena.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+16.30 Mats Löfström r: Arvoisa herra puhemies, värderade herr talman! Regeringens
+proposition till lag om transportservice innehåller nödvändiga förändringar som krävs i ut-
+vecklingen mot mera moderna transporttjänster. Jag välkomnar förslaget och att en hel-
+hetsomfattande lag även nu görs i Finland. Till exempel i Estland finns en lag om offentlig
+transport, som omfattar såväl vägtrafik, järnväg, luft- och sjöfart, som kom i kraft år 2003.
+Andra länder har också integrerat sina biljettbokningssystem för att öka interoperabilite-
+ten. Kommunikationsministeriet konstaterar att det behövs öppen data och kommunika-
+tion via öppna gränssnitt för att målen i lagen om transportservice ska nås. Det här går hand
+i hand med linjen som finns inom banktjänster och implementeringen av bland annat be-
+talningstjänstdirektivet som vi nu arbetar med i riksdagen.
+
+Arvoisa puhemies! Pidän tervetulleena esitystä ja kokonaisvaltaisen lain säätämistä nyt
+myös Suomessa. Esimerkiksi Virossa voimassa oleva julkista liikennettä koskeva laki,
+joka käsittää niin tieliikenteen, rautatieliikenteen, ilmailun kuin merenkulunkin, tuli voi-
+maan vuonna 2003. Muut maat ovat myös yhtenäistäneet lipunvarausjärjestelmiään yh-
+teen toimivuuden lisäämiseksi. 
+
+Liikenne- ja viestintäministeriö toteaa, että liikenteen palveluista annetun lain tavoittei-
+den toteuttamista varten tarvitaan tietojen avaamista ja avointen rajapintojen kautta tapah-
+tuvaa asiointia. Tämä käy käsi kädessä pankkipalveluita koskevan linjan ja maksupalvelu-
+direktiivin työn alla olevan implementoinnin kanssa. 
+
+Värderade herr talman! Förslaget till lag om transportservice förpliktigar att Trafiksäker-
+hetsverket gör den samlade informationen och mobiltjänsternas användning tillgänglig ge-
+nom ett öppet gränssnitt i ett sådant format att enskilda användare, leverantörer eller tjäns-
+ter inte kan identifieras. Jag vill framhäva att tyngdpunkten vad gäller en ökad användning
+av öppen data bör ligga på ett lätt tillgängligt och fungerande gränssnitt, något vi inte alltid
+har haft goda erfarenheter av tidigare i vårt land på andra områden. För att maximera an-
+vändningen och nyttan med öppen data bör användarna ha kompetensen och möjligheten
+att nå den behövda datan enkelt. På så vis lyckas man skapa incitament för tekniska inno-
+vationer. 
+
+Det finns dock vissa risker man måste beakta. I värsta fall leder öppen data till snedvri-
+den konkurrens ifall enbart vissa personer med bred teknisk kompetens kan dra nytta av da-
+tan i praktiken. Samtidigt bär Trafikverket ett stort ansvar i att säkerställa att privat infor-
+mation som rör integriteten hos medborgare och tjänsteleverantörer inte går att nå eller
+hamnar i fel händer. Och dessutom är det viktigt att konstatera att inte samtliga finländare
+har en smarttelefon, och att det också i framtiden måste finnas sätt för äldre generationer att
+nå dessa tjänster. 
+
+Avslutningsvis, herr talman: Enligt regeringens proposition ska sjöfartsutbildningen ef-
+ter förändringarna följa internationella förpliktelser, och man gör ändringar när det gäller
+bland annat matrosutbildningen. Det är överlag positivt, även om vi behöver återkomma
+till detaljerna i utskottsbehandlingen. Generellt kan man ändå konstatera att sjöfarten är en
+global verksamhet, och vi har finländska sjömän och befäl på jobb runt hela världen där de
+kan arbeta med och konkurrera om arbetsplatser med arbetstagare från tiotals eller till och
+med hundratals andra länder. Att den finländska sjöfartsutbildningen fortsättningsvis hålls
+konkurrenskraftig, modern och är tillräckligt flexibel är alldeles nödvändigt. 
+5
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+Summa summarum ser jag positivt på förslaget. Det är ett mycket omfattande och digert
+material som vi kommer att få jobba mycket med i kommunikationsutskottet under hösten.
+
+16.35 Mirja Vehkaperä kesk: Arvoisa herra puhemies! Liikkumisen palvelut ovat isossa
+murroksessa sekä Suomessa että maailmalla. Joukkoliikenteen edistämisen eteen maan
+hallitus on tehnyt paljon töitä, ja myöskin liikenteen päästöjen vähentämistä on yritetty
+taklata. Sujuvat matkaketjut ovat kaikkien tavoitettavissa, ja erityisesti digitalisaatio on
+tuonut liikenteeseen uutta bensaa.
+
+Nyt eduskunnassa on liikennepalvelulain toinen vaihe, jossa käydään noin 900 sivun
+verran erittäin tiukasti läpi muun muassa pätevyysvaatimuksia. Kaikki kuljetushenkilöi-
+den pätevyyksiä ja koulutusta koskevat säädökset kootaan liikennepalvelulakiin, ja tielii-
+kenteen luvista päätettiin pääosin jo lain ensimmäisessä osassa alkuvuodesta. Nyt käydään
+siis pätevyysvaatimukset lävitse raideliikenteen, merenkulun ja ilmailun osalta.
+
+Arvoisa puhemies! Maailma muuttuu, sähköistyy, ja digitaaliset palvelut laittavat mei-
+dät aikaan, jossa ajasta ja paikasta olemme riippumattomia. Edellä edustaja Kasvi puhui
+erittäin mielenkiintoisesti alustataloudesta, avoimesta datasta ja tiedon rajapinnoista. Ne
+ovat meille mahdollisuuksia, mutta niissä on meillä paljon vielä opittavaa.
+
+Lain tavoitteiden toteutumista varten tarvitaan tietojen avaamista ja avointen rajapinto-
+jen kautta tapahtuvaa asiointia. Tätä säädettiin etenkin lain ensimmäisessä osassa. Nyt pro-
+sessia jatketaan velvoittamalla Liikennevirasto avaamaan omien palveluidensa keräämä
+tieto niin sanotun avoimen rajapinnan kautta. Liikkumispalveluita koskevia olennaisia tie-
+toja ovat muun muassa reitti, pysäkki, aikataulu, hinta ja saatavuustietojen sekä esteettö-
+myystietojen osa. Näiden on oltava saatavissa tietojärjestelmään luodun yhteyden kautta ja
+kaikkien käytettävissä.
+
+Nyt tässä toisessa osassa otetaan mukaan myös lento- ja meriliikenteen matkaliput, eri-
+laisia liikkumispalveluita, kuten ajoneuvojen vuokrauspalvelut, erilaisia sarja- ja kausi-
+tuotteita sekä alennuksia koskevaa sääntelyä. Liikkumispalveluiden tarjoamista helpote-
+taan mahdollistamalla myös niin sanottu puolesta-asiointi.
+
+Edellä on moni puhunut siitä, että hallituksen esitys sisältää sen, että yksi liikenneasioi-
+den rekisteri perustetaan. Kymmeniä liikenteen rekistereitä kootaan siis yhteen. Tähän
+saakka viranomaisten keräämä liikennetieto on ollut pirstoutunut kymmeneen eri liikentee-
+seen liittyvään rekisteriin. Kymmenestä nykyisestä rekisteristä siirrytään yhteen yhtenäi-
+seen liikenneasioiden rekisteriin. Se helpottaa asiointia ja viranomaistyötä.
+
+Liikenteen turvallisuusviraston, Trafin, rooli liikenteen lupa- ja valvontaviranomaisena
+vahvistuu. Se myöntää jatkossa keskitetysti toimiluvat niin tieliikenteen, ratatieliikenteen
+kuin lentoliikenteenkin tarpeisiin. Sujuvoitetaan siis arkeamme.
+
+Arvoisa puhemies! Parasta liikennepalvelulaissa, tässä kakkosvaiheessa, on ehdotto-
+masti se, että matkaketjuajattelu ottaa isomman harppauksen. Se on erittäin tärkeä yhden
+luukun periaate liikenteen palveluissa. Sen ideana on tarjota yksilöllisempiä, ihmisten eri-
+laisiin tarpeisiin sopivia matkoja ja matkapaketteja. Käytännössä tämä tarkoittaa eri liiken-
+nemuotojen yhä saumattomampaa yhteistyötä ja digitalisaation hyödyntämistä sen saavut-
+tamiseksi. Käytännön elämästä esimerkki: Meistä moni on käyttänyt erilaisia aikatauluso-
+velluksia tai etsinyt Google Mapsista nopeinta reittiä. Matkaketjusovellus voisi toimia sa-
+malla idealla. Syöttäisimme oman lähtöpaikkamme ja määränpäämme, minkä jälkeen voi-
+simme vertailla erilaisia matkavaihtoehtoja esimerkiksi niiden nopeuden tai edullisuuden
+perusteella sekä eri liikennemuotoyhdistelmien avulla toteutettuna. [Puhemies koputtaa]
+6
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+Sen jälkeen voisimme ostaa haluamamme lippuketjun ja saisimme eri kulkuvälineet katta-
+van yhden matkalipun keskitetysti yhden palvelun kautta. Tämä sujuvoittaa arkea ja var-
+masti myöskin tuo joukkoliikenteeseen ihmisiä tulevaisuudessa enemmän.
+
+16.40 Markku Pakkanen kesk:  Arvoisa herra puhemies! Tästä hallituksen esityksestä
+145 on käyty nyt laajaa keskustelua. Itse omassa puheenvuorossani keskityn vain tähän
+kuljetusalan yleiseen ammattipätevyyssääntelyyn ja siihen toivottavasti saataviin pieniin
+muutosesityksiin. Säädöspohjahan tulee hyvin pitkälti EU:sta. Mutta pidän hyvänä, että
+tässä säilyy tämä koulutusajattelu, ja se on hyvä lähtökohta.
+
+Raideliikenteen osalta ammattipätevyysasiat ovat erityisen tärkeitä. Tietysti nyt, kun
+kilpailutus lisääntyy raideliikenteessä, pitää muistaa, että muun muassa 2 000 veturinkul-
+jettajan, joita tällä hetkellä Suomessa on, ammattipätevyyksistä pidetään kiinni. Sitä lakia-
+han sovelletaan myös raideliikenteessä liikenteenohjaukseen, vaihtotyöhön ja ratatyölii-
+kenneturvallisuudesta vastaavien henkilöiden työhön. Tässä keskitytään varmaan näihin
+kansallisiin lisiin ja niiden mahdollisiin poistamisiin.
+
+Perustason ammattipätevyyden tieliikenteessähän suorittaa tänä päivänä noin 4 000—
+6 000 henkilöä, mutta varsinaisen jatkokoulutuksen ammattipätevyydestä tieliikenteessä
+suorittaa kymmeniätuhansia vuositasolla. Siihen toivoisin, että tässä lakiesityksessä pys-
+tyttäisiin pieniin tarkennuksiin. Se on yrittäjille valtavan iso kustannus, tuhansia euroja
+vuositasolla, kun kuljettajat joutuvat tämän pätevyyden suorittamaan. Trafihan sen hyväk-
+syy, koulutusyritykset sen järjestävät, on oppilaitoksia ja autokouluja. Mutta toivoisin, että
+tässä asiassa voitaisiin miettiä ammattikuljettajien ja yrityksien näkökannalta pieniä jous-
+toja ja kenties vähän kevennystä siihenkin asiaan.
+
+16.42 Ari Torniainen kesk: Arvoisa puhemies! Kun liikennepalvelulain ykkösvaiheessa
+koottiin tieliikennettä koskevat säädökset yhteen pakettiin, niin tässä kakkosvaiheessa nyt
+siihen liitetään sekä uudistetaan lento-, meri- ja raideliikenteen markkinoita ja kuljetushen-
+kilöstön pätevyyksiä koskevia säädöksiä. Nämä molemmat, siis ykkösvaihe ja kakkosvai-
+he, on tarkoitus saattaa voimaan samanaikaisesti ensi vuoden heinäkuun alussa.
+
+Mikä oikeastaan on lakiesityksen ydin? Sen ytimessä on asiakaslähtöinen matkaketju-
+ajattelu digitalisaatiota hyödyntämällä, kuten täällä on jo edellisissä puheenvuoroissa tul-
+lut esille, elikkä ainoastaan nappia painamalla kansalainen saa erilaiset matkustusvaihto-
+ehdot kaikkine liikennevälineineen nopeinta reittiä sieltä paikasta A paikkaan B. Itse tässä
+vaiheessa kyllä tuntuu, että se vaatii myöskin aikaa, että tämä toteutuu todella. Toivotta-
+vasti se myös näin menee eteenpäin.
+
+Tällä liikenteen palvelulailla mahdollistetaan asiakaslähtöinen liikennepalveluiden ke-
+hittäminen digitalisaatiota hyödyntäen. Uskon, että tämä tulevaisuudessa saa aikaan uusia
+yrityksiä ja uusia innovaatioita myöskin uusia palveluita kehittäen. Tämän uudistuksen ta-
+voitteena on kasvattaa koko liikennesektorin markkinaosuutta ja tehdä joukkoliikenteestä
+yhä varteenotettavampi vaihtoehto yksityisautoiluun verrattuna. Se on se ydin. Näin toimi-
+malla saadaan myöskin tämä matkaketjuajattelu aikaiseksi.
+
+Haluan vielä painottaa sitä, että kun ykkösvaihetta silloin käsiteltiin, niin se sai paljon
+kritiikkiä ja keskustelua aikaiseksi, ja muistan sen lähetekeskustelunkin täällä. [Puhemies
+koputtaa] Ainakin tässä myöskin oppositio tuntuu olevan lakiesityksen takana, kiitos siitä.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+16.45 Eeva-Maria Maijala kesk: Arvoisa puhemies! Nyt kyllä huomaapi sen, että liiken-
+nepuolella tuulee todella paljon. Ja täytyy kyllä sanoa, että liikenneministeri ei näemmä
+pelkää ollenkaan sitä, että välillä voi joutua todella myrskynkin silmään tässä tuulemises-
+sa. Miettikääpä sitä, mitä kaikkea liikennepuolella on tällä vaalikaudella pantu tuulemaan
+ja tapahtumaan: siis meillä on tämä liikennekaaren valtavan iso kokonaisuus, on korjaus-
+velkapakettiasiat, on ajokorttiasiat, tieliikennelaki, yksityistielakikin vielä tänään käsitel-
+lään. Elikkä näyttää siltä, että yhden vaalikauden aikana pannaan tuulemaan hyvin paljon
+rohkeasti kaikkia asiakokonaisuuksia.
+
+Tässäkin, liikennekaaren kakkosvaiheessa elikkä laissa liikenteen palveluista, on valta-
+van iso haaste. En tiedä, kuinka moni edes ymmärtää, kuinka valtavasti sen 800 sivun pa-
+ketin eteen on tehty töitä, elikkä tämä kakkosvaihekin sisältää niin paljon asioita. Todelli-
+suudessa se sisältää paljon enemmän asioita kuin se ensimmäinen vaihe, josta on tingattu ja
+keskusteltu ja tapeltu. Siinä puhuttiin julkisuudessa hyvin paljon vain taksiasiasta, niin
+kuin se olisi ainoa tärkeä asia. Tässä on käyty koko valtavan iso kokonaisuus läpi näissä
+asioissa, ja tämä pitäisi nähdä nyt keskustelussa enemmänkin kokonaisuutena, mitä kaik-
+kea liikennepuolella on nytten pantu tuulemaan ja tapahtumaan. Nyt meillä valiokunnassa
+ja asiantuntijoiden kautta varmasti onkin sitten hyvin mielenkiintoiset keskustelut siitä,
+mitä tämä kakkosvaihekin tulee sisältämään.
+
+Tämä digitalisaatiokokonaisuus: Nyt eletään vuotta 2017, ja sen tässä kyllä näkeepi.
+Olisi moni asia pitänyt kyllä toteuttaa jo aikaisemmin, mutta onneksi edes nytten saadaan
+näitä tapahtumaan. Esimerkiksi tämä liikenneasioiden rekisteri, se on valtava byrokra-
+tiakokonaisuus, mitä siinä on tällä hetkellä olemassa. Nyt ne on rohkeasti alettu kasaa-
+maan yhdeksi rekisteriksi. Toivottavasti tämä kaikki nyt saadaan sitten tehtyä ja ministeri-
+ön työntekijätkin jaksavat puurtaa ja kaikki nämä asiat rakentaa yhdeksi paketiksi. Ongel-
+mana on tietysti tämä tietosuoja-asia, miten nämä kaikki rakennetaan. Kun valiokunnassa
+ensimmäisestä paketista jo vähän kuultiin, niin kyllä se tietosuoja-asia tulee olemaan to-
+della iso kokonaisuus. Mutta nyt hyvää on se, että kun se on yhdessä paketissa, kun se hoi-
+detaan Trafin kautta — vai mikä sitten on kyseessä, mikä tämän asian tulee hoitamaan —
+niin on yhtenäinen tietorekisteri ja ennen kaikkea tämä yhden luukun palvelu, niin että me
+yhdestä paikasta voimme alkaa saamaan jatkossa tiedot hyvin monesta asiasta. Ja toivon
+mukaan tässä tullaan myöskin säästämään kustannuksissa, niin että jatkossa, kun yhdeltä
+luukulta saadaan palvelut, se on sen jälkeen myöskin sekä yhteiskunnalle edullisempaa että
+meille kuluttajille edullisempaa näissä asioissa.
+
+Sitten matkaketjut. On todellakin jo aika, että nämä matkaketjuasiatkin saadaan toimi-
+maan. Meillä digitalisaation kautta kännyköillä saadaan niin paljon muitakin asioita jo toi-
+mimaan, että kyllä niiden matkaketjujenkin pitää alkaa todellakin sujuvasti toimimaan, hy-
+vin helposti ja yksinkertaisesti.
+
+Minkälaiset vaikutukset tällä uudistuksella sitten kokonaisuudessaan on syrjäisemmille
+alueille? Kuten moni jo tietää, niin minä olen ilmeisesti tämän eduskunnan kaikkein syr-
+jäisimmällä alueella asuva henkilö, ja minä tykkään, että tämä kokonaisuus on minua erit-
+täin paljon palveleva asia. Minä tykkään, että tulen saamaan palveluja, ainakin vähintään
+nykymuodossa — no, toivon mukaan paljon paremmalla tavalla kuin tällä hetkellä, sillä ei
+meillä siellä niitä palveluja tällä hetkellä muuten niin paljon pyöri ja toimi. Tällä hetkellä
+meillä pitää olla jokaiselle omat autot ja kaikki muut, että päästään liikkeelle. Ja kyllä minä
+olen tällä hetkellä vähän pulassa ollut, kun minun oma autoni irtisanoi yhteistyösopimuk-
+sen — minä olen miettinyt, miten hullussa tässä kuljetaan. Mutta tärkeää on se, että me
+8
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+saamme erilaisia palveluja sujuvasti toimimaan, ja kyllä minä uskon, että näillä palveluilla
+me saamme toimimaan.
+
+Kun yksi asia tässä kokonaisuudessa on sitten myös postilainsäädäntö, postilainsäädän-
+tö yhdistettynä tähän lakiin liikenteen palveluista, ja on kaikki nämä muut uudistukset, niin
+toivottavasti tämän mukaan me saamme tuolla syrjäisimmilläkin seuduilla palvelut sitten
+pelittämään entistä paremmin. Eli minä katson tämän kokonaisuuden todella tervetulleeksi
+uudistukseksi. Meidän täytyy vain rohkeasti ottaa myöskin oma askel eteenpäin näissä
+asioissa, niin että uskomme ja luotamme näihin ja haemme näistä mahdollisuudet, millä ta-
+valla me pystymme kehittämään näitä asioita eteenpäin. 
+
+Sitten vielä viimeisenä otan esille tämän byrokratian purun. Hallitusohjelman mukaan
+byrokratiaa tulee purkaa, ja laissa liikenteen palveluista, tässä kakkosvaiheen paketissa, on
+todella huikea byrokratianpurkukokonaisuus. Olen kyllä katsonut montaakin sektoria,
+mutta missään muualla ei ole vielä purettu byrokratiaa niin paljon kuin tässä. Toivottavasti
+me saamme vielä muitakin isompia asioita vastaan, sillä byrokratiaa tulee purkaa. Katsom-
+me, miten tämä sitten käytännössä toteutuu, saammeko me kaikkea sitä aikaiseksi, mitä nyt
+odotamme. 
+
+16.51 Jukka Kopra kok:  Arvoisa herra puhemies! Maailman mittakaavassa liikenne,
+tapa liikkua, tapa kuljettaa tavaraa, liikennejärjestelmät ovat niin suuren muutoksen kou-
+rissa, että sellaista ei vielä ihmiskunnan historiassa olla nähty. Peruskysymyksemmehän
+kuuluu tietenkin niin, haluaako Suomi olla tässä mukana ja haluaako Suomi kenties olla
+näyttämässä tietä, kuinka tämä maailmanlaajuinen muutos tapahtuu. Tässä suhteessa täy-
+tyy kyllä antaa kiitosta meidän ministerillemme, että hän ei kyllä ole jäänyt tuleen makaa-
+maan vaan on pannut toimeksi ja meillä on jo laki liikenteen palveluista 1 täällä eduskun-
+nassa käsitelty ja nyt meillä on käsittelyssä seuraava versio, laki liikenteen palveluista 2.
+
+Tässä on tarkoitus näitä rekistereitä yhdistää sekä tarkastella ammattipätevyyksiä. Meil-
+lä on ilma-alusrekisteriä, ajoneuvoliikennerekisteriä, alusrekisteriä, merimiesrekisteriä, ra-
+tarekisteriä, kalustorekisteriä, kelpoisuusrekisteriä, lupakirjarekisteriä ja niin edelleen. Ja
+meillä on alusrekisterilaki, ilmailulaki, laki kiinnityksistä ilma-aluksiin, rautatielaki, laki
+rautatiejärjestelmän liikenneturvallisuustehtävistä ja niin edelleen. Nyt näitä ollaan tässä
+laittamassa yhteen, ja kyllä se on selvä, että tällä saadaan selkiytettyä lainsäädäntöperustaa
+sekä sitten tällä yhdellä, yhtenäisellä, isolla rekisterillä tehokkaammin hallittua sitä tietoa
+— sekä myöskin jaettua sitä, mikä on tämän päivän henki ja tarkoitus. Ja nyt kun puhutaan
+siitä, että yhdessä rekisterissä on paljon tietoa ja tieto olisi avointa, niin sehän ei tietenkään
+tarkoita sitä, että kaikki tieto on julkista ja kaikkien saatavilla noin vain, vaan tietyin pe-
+rustein ihmiset pääsevät käsiksi itse omiin tietoihinsa, yritykset voivat vaihtaa käteväm-
+min tietoa, ja totta kai viranomaisten keskinäinen tiedonvaihto on sitten asia erikseen, eikä
+se välttämättä aina ole julkista vaan perustellusti joskus salaistakin. Tämä rekistereiden yh-
+distäminen on siis hyvä asia.
+
+No, sitten tämä ammattipätevyyspuoli. Liikennealalla kyllä herättää hilpeyttä se kortti-
+pino, joka on oltava [Puhemies koputtaa] — jos puhemies vielä sallii pari lausetta — ja sii-
+tä on nyt tarkoitus päästä eroon. En tarkoita sitä, etteikö ammattilaisia tarvittaisi. Meillä on
+rautaisia liikenteen ammattilaisia kuljettamassa autoja, junia, [Puhemies koputtaa] rekka-
+autoja, ja niin pitää olla jatkossakin, mutta sen ammattipätevyyden osoittamisen pitää jat-
+kossa olla kätevämpää [Puhemies koputtaa] ja helpompaa. — Kiitos, herra puhemies.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+16.53 Sirpa Paatero sd: Arvoisa herra puhemies! Todellakin tästä on hyvä jatkaa, koska
+varmaan kaikkien tavoitteena on turvallinen, toimiva ja ammattitaitoinen liikenne myös-
+kin tulevaisuudessa Suomessa, ja siihen liittyen tämä ammattipätevyyskeskustelu on var-
+maankin tarpeen. En osaa arvioida niitä korttimääriä tai muita, mutta toivon, että sääntelyn
+purun innostuksessa ei mennä niin pitkälle, että vaarannettaisiin meidän turvallista liiken-
+nettä tai heikennettäisiin meidän ammattilaisten pätevyyksiä niin paljon, että se koituisi ih-
+misten turvattomuudeksi. Siihen tämmöisellä isolla paketilla, joka nyt on, on joskus riske-
+jä. Meillä on täällä muissakin valiokunnissa näitä tuhansien sivujen paketteja, ja kun ne si-
+sältävät satoja ja tuhansia yksityiskohtia, niin siinä kohtaa hallinta, että yksi kansanedusta-
+ja pystyisi kaikki kohdat sieltä jotenkin poimimaan ja suhteuttamaan toisiinsa... Joskus
+siellä voi mennä ohi sellaisia kohtia, mistä olisi ehkä ollut tarpeen käydä keskustelua.
+
+Matkaketjuajattelu ja digitaalisuus siihen liittyen ovat erittäin hyviä ja perusteltuja.
+Tuen niitä aivan täysin. Nythän on kuitenkin jotenkin niin, että operaattorit eivät ole lähte-
+neet tähän mukaan, ja ehkä kysymys ministerille on se, johtuuko se siitä, että nämä olisi pi-
+tänyt standardoida jotenkin, että ne operaattorit sitten voisivat luoda ne järjestelmät, että ne
+keskustelisivat keskenään, vai mistä on kyse, että meillä joudutaan näitä lippuja ostamaan
+jokaiseen matkavälineeseen erikseen. Niin kuin täällä on tänään kuultu, niin joskus se niit-
+ten lippujen ostaminen on jopa tuskaisen hankalaa, kun olisi kätevää saada niin — muistan
+semmoisen mainoksen juna—laiva-järjestelystä — että yhdellä lipulla pääset vaihtamaan
+välineestä toiseen.
+
+Eräänä asiana tässä oli myöskin tietojärjestelmän muutokset, koska meillehän on tulos-
+sa siis tietosuoja-asetus [Puhemies koputtaa] sekä tietosuojadirektiivi, joiden muutokset
+tulevat meillekin.
+
+Yksi asia, puhemies: kun meille tulee puolesta päättäminen, niin se on aika iso tietosuo-
+jakysymys, etenkin jos se tulee tälle puolelle, mutta se on tulossa myöskin sote-puolelle,
+elikkä toisten ihmisten henkilötiedoilla toimimisessa [Puhemies koputtaa] ollaan kyllä
+isossa kysymyksessä.
+
+16.55 Sari Essayah kd:  Arvoisa puhemies! Täällä on tyytyväisyydellä otettu vastaan
+tämä matkojen yhdisteleminen ja sen hyödyntäminen. Näitä sovelluksia varmasti maail-
+malta jonkun verran löytyy, ja toivotaan, että siellä sitten parhaita puolia osataan ottaa niis-
+tä käyttöön.
+
+Mutta olisin puuttunut toiseen asiaan, mikä tässä isossa pinossa myöskin on, elikkä am-
+mattipätevyyteen. Siitä tietysti kuulee alan yrittäjiltä paljon ehkei niin mairittelevaakaan
+palautetta siitä, kuinka nämä päivittämiset näissä korteissa monelle yritykselle tuntuvat lä-
+hinnä siltä, että ne ovat enimmäkseen lisäkustannusta ja on hankalaa löytää sitten sitä kor-
+vaavaa kuljettajaa, ja koetaan, että monesti laatu näissä koulutuksissa on myös sitä luok-
+kaa, että ne huomattavasti pätevämmät henkilöt istuvat oppilaiden joukossa kuin siellä
+opetuspulpetin takana.
+
+Olisin kysynyt ministeriltä, kun tässä on sanottu: "Ammattipätevyyden jatkokoulutus-
+merkintöjä kirjataan vuosittain yhteensä 55 000—235 000 kappaletta. Seuraava ammatti-
+pätevyyden jatkokoulutuksen suorittamistihentymä tullee olemaan vuosina 2018—2019,
+kun ammattipätevyyslainsäädännön voimaantullessa suoritettujen ammattipätevyyksien
+uusiminen tulee ajankohtaiseksi." Mitenkähän tähän on mahdettu varautua? Se on melkoi-
+nen rypäs sitten sinä vuonna, kun ihmisiä on tulossa uusimaan näitä ammattipätevyyksiä.
+Toivoisinkin, että ministerillä olisi siihen kommenttia.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+Sitten toisaalta hintatiedoista, missä tästä samasta asiasta todetaan täällä, että hintatieto-
+ja on aika niukasti ollut saatavilla, ja ajatellaan, että todennäköisesti kurssimuotoisissa jat-
+kokoulutuksissa kilpailutilanne olisi melko hyvä. Mutta onko todellakin niin, että näistä ei
+ole kattavampaa tietoa saatavissa, koska nämä ovat juuri niitä, mihin sitten yrittäjät kiin-
+nittävät huomiota, että kallista on? Esimerkiksi naapurimaissa ilmeisesti [Puhemies koput-
+taa] näitten koulutusten hinta on huomattavan paljon halvempi.
+
+16.58 Ari Torniainen kesk: Arvoisa puhemies! Tämä hallituksen esitys on nimenomaan
+mahdollistavaa lainsäädäntöä ja hyvinkin edistyksellistä koko Euroopassa, se on huomat-
+tava.
+
+Tässä muutamassa puheenvuorossa kiinnitettiin aivan aiheesta huomiota nimenomaan
+ammattipätevyyksiin liikenteessä. Käsittääkseni hallituksen esityksessä kaikki kuljetus-
+henkilöiden pätevyyksiä ja koulutusta koskevat säädökset kootaan nyt tähän liikennepal-
+velulakiin ja tieliikenteen luvista päätettiin käytännössä jo siinä ensimmäisessä osassa. Nyt
+kuorma- ja linja-autonkuljettajien ammattipätevyydet säilytetään nykyisessä toimintamal-
+lissa, jossa ammattipätevyys saavutetaan osallistumalla määrämuotoiseen koulutukseen.
+Raideliikenteessä henkilöstön pätevyysvaatimukset kohdistuvat jatkossa veturinkuljetta-
+jiin, ja merenkulussa laivapätevyydet ovat vahvasti kansainvälisten sopimusten säätele-
+miä. Ilmailulaissa säilytetään mahdollisuus kansalliseen sääntelyyn nimenomaan kauko-
+ohjatun lentotoiminnan osalta. Näin olen itse täältä papereista lukenut ja uskon, että näin
+mennään. Itse myöskin toivon, että ne ammattipätevyydet ovat sillä tasolla, että liikenne-
+turvallisuus nimenomaan on se ykkösasia, mihin kiinnitetään huomiota.
+
+16.59 Sari Essayah kd: Arvoisa puhemies! Pyysin vielä toisen puheenvuoron, kun huo-
+masin olleeni kiittämättä ministeriä siitä, että täältä löytyy tällainen minun mielestäni tär-
+keä asia. Kun me poliitikot paljon kierrämme tuolla toreilla, niin olemme monilta torimyy-
+jiltä saaneet hämmentyneitä kysymyksiä siitä, miksi heitä koskee tämä ammattipätevyys-
+korttien uudistamisvaatimus. Täällähän on nyt todettu, täällä ovat nämä poikkeamat: "jos
+kuljetetaan omia tuotteita, joita kuljettaja myy tietyssä paikassa, eikä ajoneuvon kuljetta-
+minen ole hänen pääasiallinen tehtävänsä". Näistä poikkeuksista viimeksi mainittu, tietys-
+sä paikassa myytävien tavaroiden kuljettaminen, on kansallinen, eli tämä ei tule direktii-
+vistä, tämä on ihan siellä ministeriössä tehty. Kiitoksia tästä. 
+
+Minä uskon, että tämä on semmoinen käytännön arkijärjen tyyppinen poikkeama ja että
+monet ovat ihmetelleet, että hyvänen aika, jos kuljettaa niitä omia myytäviä tuotteita —
+jollakin ne voivat olla vaikka patalappuja tai sukkia tai kintaita tai mitä tahansa hyvin pie-
+niä käsityötuotteita, joita myydään pienellä katteella, ja se on ehkä enempikin elämäntapa
+tai joillekin sellainen, että mennään joulumyyjäisiin ja vastaaviin — ja sitten näitten hen-
+kilöitten on pitänyt näitä suorittaa, niin tämä on minun mielestäni äärimmäisen hyvä poik-
+keama, mikä tänne on lisätty.
+
+17.00 Markku Pakkanen kesk: Arvoisa puhemies! Todellakin, tämä ammattipätevyys-
+tulkinta sisältää monta tärkeää poikkeamaa, ja ne on hyvä lukea sieltä, liittyen tavaraliiken-
+teeseen taikka henkilöliikenteeseen. Linja-autojenkin osalta siellä on poikkeamia, ja niitä
+monet perheet voivat hyödyntää. Jos on suurempi perhe, lapsilukumäärä on isompi, niin
+voi linja-autolla viedä omaa perhettään, kun ei se ole korvausta vastaan olevaa liikennettä
+ynnä muuta.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+Itse erityisesti vielä haluaisin korostaa ammattipätevyyden ja turvallisuuden merkitystä,
+mutta edustaja Essayah otti esille tämän mahdollisen ruuhkautumisen koulutuksessa muu-
+taman vuoden päästä. Sehän hyvin pitkälle muun muassa johtuu siitä, että tämä ammatti-
+pätevyyskouluttautuminen on vasta muutaman vuoden Suomessa ollut — 2014 muistaak-
+seni oli aika sellainen sesonkivuosi, milloin näitä koulutuksia paljon tehtiin — ja siihen
+siirtymäaikaan mennessä, kun se viiden vuoden välein uusitaan, se väkisin ruuhkautuu.
+Mutta siinähän toivoisin, että tähän saataisiin joustoa siltä osin, että kenties tässä viiden
+vuorokauden kouluttautumisessa voitaisiin hyödyntää niitä ihmisiä, jotka ovat todellakin
+päivittäin ammattiliikenteessä kuljettajana. Valitettavan usein saattaa olla tilanne niin, että
+se koulutettava on pätevämpi kuin itse kouluttaja, koska näitä koulutuksia suorittavat hy-
+vin nuoretkin pienellä kokemuksella, kenties liikenteenopettajat, jotka ovat juuri koulutuk-
+sen saaneet suoritettua, ei minkäänlaista ammattiliikennekokemusta tien päältä. Näissä
+koulutuksissa on valtavasti kirjavuutta niin pätevyyden kannalta kuin myös hinnan kannal-
+ta, ja se on se iso, haasteellinen asia. Toivoisin, että valmistelun aikana voitaisiin tästä vie-
+lä käydä laaja keskustelu.
+
+17.02 Liikenne- ja viestintäministeri Anne Berner:  Arvoisa puhemies! Haluan kiittää
+näistä palautteista ja myöskin evästyksistä tulevaan valmisteluun. Nostaisin esille muuta-
+mia näkökulmia, joita tässä keskustelussa on tullut esille.
+
+Olemme pyrkineet vastaamaan siihen huoleen, mikä liittyy pienten ja keskisuurten yri-
+tysten mahdollisuuteen olla mukana tässä kehityksessä. Siinä on Liikennevirastolla velvol-
+lisuus huolehtia digitalisaation ja avoimen tiedon osalta tästä palvelusta, joka mahdollistaa
+sitten sen, että pk-yritykset pystyvät olemaan tässä palvelussa aktiivisesti kehittämisessä
+mukana.
+
+Samalla olemme pyrkineet harkitsemaan, mitkä ovat sellaisia asioita, jotka vaativat
+standardisointia, ja mitkä ovat sellaisia asioita, jotka vaativat sitten sen, että toimijat löytä-
+vät yhteiset mallit. Tässä markkinan kehittymisessä tulee tapahtumaan niin nopeaa muu-
+tosta, että olemme halunneet myöskin jättää tilaa toimijoiden väliselle yhteistyölle ja siitä
+sitten löytää kehityksen edistysaskeleita.
+
+Edustaja Pakkasen esille nostamat pätevyysvaatimukset, niihin liittyvät huolenaiheet
+sekä tieliikenteen jatkokoulutusvaatimukset ja tarpeelliset kevennykset ovat ehdottomasti
+asioita, joita tulee viedä eteenpäin. Nyt meillä on ollut pikkuisen se tilanne, että ammatil-
+lisen koulutuksen reformi on tässä kulkenut rinnakkain, ja EU:ssa on vielä pikkuisen asiat
+kesken, jolloin olemme lähteneet siitä, että liikennepalvelulain kolmannessa vaiheessa tu-
+lemme käsittelemään vielä kertaalleen laajasti pätevyyskysymyksiä siltä osin kuin niissä
+ovat vielä ne edessä olevien muutosten mahdollisuudet, joita EU:sta tulee, ja joissa sitten
+myöskin ammatillisen koulutuksen muutokset ovat. Mikään ei estä sinänsä jo tässä vai-
+heessa myöskin niiden asioiden käsittelemistä.
+
+Kun puolesta-asiointi on todellakin iso muutos tässä lain kokonaisuudessa, niin olemme
+halunneet huolehtia siitä, että henkilötietojen ja käyttäjätilien välistä tiedonsiirtoa tapahtui-
+si mahdollisimman vähän ja että niiden on oltava olemassa olevia sen sijaan, että edellyte-
+tään uusien synnyttämistä. Tässä pyritään myöskin huolehtimaan, että aidosti noudatetaan
+sekä tietosuoja-asetuksen henkeä että myöskin siihen liittyviä vaatimuksia.
+
+Todellakin on ihan selvää, että me haluamme huolehtia siitä, että meidän liikenneturval-
+lisuutemme olisi maailman huippua, ja tästä me emme tule tinkimään missään olosuhteis-
+sa. Sen hengessä pyritään myöskin huolehtimaan, että niitä koulutus- ja pätevyysvaatimuk-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 110/2017 vp
+sia, joita tähän on kirjattu, myöskin noudatetaan. Samalla on myöskin tärkeää huolehtia sii-
+tä, että koulutuksessa päästään yksilöllisempiin ratkaisuihin ja että me emme tee järjestel-
+mästä liian raskasta myöskään yrittäjille. Tätä tasapainoa on esityksessä pyritty edistä-
+mään. — Kiitos.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan, jolle perustuslakivaliokunnan ja talous-
+valiokunnan on annettava lausunto.
+13
+
+

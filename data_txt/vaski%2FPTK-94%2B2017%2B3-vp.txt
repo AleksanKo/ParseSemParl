@@ -1,0 +1,2275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM2DB7.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 94/2017 vp
+
+Täysistunto
+
+Keskiviikko 27.9.2017 klo 14.00—19.02
+
+3. Valtioneuvoston selonteko keskipitkän aikavälin ilmastopolitiikan suunnitelmasta vuo-
+teen 2030
+
+Valtioneuvoston selonteko VNS 7/2017 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 3.  asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään ympäristövaliokuntaan, jolle liikenne- ja
+viestintävaliokunnan, maa- ja metsätalousvaliokunnan sekä talousvaliokunnan on annetta-
+va lausunto.
+
+Ministeri Kimmo Tiilikaisen esittelypuheenvuoron jälkeen keskustelu käydään etukä-
+teen pyydettyjen puheenvuorojen osalta nopeatahtisena. Ryhmäpuheenvuorojen pituus on
+enintään 5 minuuttia ja muiden etukäteen varattujen puheenvuorojen pituus enintään 5 mi-
+nuuttia. Puhemiesneuvosto suosittaa, että myös nopeatahtisen keskusteluosuuden jälkeen
+pidettävät puheenvuorot kestävät enintään 5 minuuttia. Lisäksi myönnän harkitsemassani
+järjestyksessä enintään 1 tai 2 minuutin pituisia vastauspuheenvuoroja.
+
+Tästä asiakohdasta käydään keskustelua kello 16.15 saakka, eli kahden tunnin ajan. Mi-
+käli puhujalistaa ei ehditä annetussa ajassa käydä loppuun, keskustelu ja asian käsittely
+keskeytetään ja keskustelua jatketaan päiväjärjestyksen muiden asiakohtien tultua käsitel-
+lyiksi. Jos keskustelu asiasta puolestaan päättyy ennen sille varatun määräajan päättymis-
+tä, siirrytään päiväjärjestyksen seuraavaan eli 4. kohtaan.
+
+Keskustelu
+
+14.15 Asunto-, energia- ja ympäristöministeri Kimmo  Tiilikainen (esittelypuheen-
+vuoro): Arvoisa puhemies! Lähetekeskustelussa on keskipitkän aikavälin ilmastosuunni-
+telma, tai lyhyemmin ilmastosuunnitelma, jolla toimeenpannaan Suomen osalta Pariisin il-
+mastosopimusta ja EU:n vuoden 2030 ilmastotavoitteita. Suomihan toimii kansainvälises-
+ti hyvin aktiivisena ilmastopolitiikan edistäjänä. Minulla itselläni oli ilo Pariisin sopimusta
+neuvoteltaessa olla yksi EU:n ministeritason neuvottelijoita viimeisen viikon aikana, ja
+osallistuimme myös hyvin rakentavalla, vahvalla panoksella EU:n yhteisten tavoitteitten
+muotoiluun ilmastopolitiikan toimeenpanemiseksi. [Olavi Ala-Nissilä: Oli hieno suori-
+tus!] Tuo Pariisin sopimus antaa tavoitteen: kaikilta mailta tarvitaan konkretiaa. Tässä en-
+simmäisessä ilmastolain mukaisessa ilmastosuunnitelmassa nyt juuri määritellään ne toi-
+met, joilla Suomessa vastataan EU:n vuoden 2030 ilmastotavoitteisiin päästökaupan ulko-
+puolella. Suomella on yksi EU:n kunnianhimoisimpia tavoitteita: 39 prosentin päästövä-
+hennysten toteuttaminen tällä saralla. [Eero Heinäluoma: Miksi se on niin kova?] Tässä il-
+mastosuunnitelmassa tarkastelu on nimenomaan lisätoimissa. Ensin on katsottu, mihin ny-
+kyiset toimet ja nykyinen kehitys johtavat, ja sen jälkeen arvioitu, mitä tarvitsemme lisää.
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Ilmastosuunnitelmassa esitellään 57 toimenpidettä, joista hyvin merkittävä osa, 17 kap-
+paletta, koskee liikennettä. Suunnitelma on ankkuroitu tiukasti nykyiseen ja tulevaan.
+Noissa toimenpiteissä pohditaan, miten pystymme käyttämään digitalisaation tuomia hyö-
+tyjä, mitä etuja jakamistalous tuo ilmastotavoitteitten toteuttamiseen, miten erilaisia älyk-
+käitä ratkaisuja niin energiaverkoissa kuin liikenteessä pystytään hyödyntämään ja mikä
+voi olla kokeilujen ja uusien palveluitten merkitys, kun matkaamme kohti ilmastoystäväl-
+lisempää tulevaisuutta. Suunnitelma sisältää osittain jo nyt käytössä olevien toimien vah-
+vistamista ja osittain täysin uudenlaisia toimenpiteitä päästöjen vähentämiseksi. Tarkoitus
+on varmistaa, että siirtyminen kohti vähähiilistä yhteiskuntaa tapahtuu mahdollisimman
+helposti. Etsitään siis paras reitti eteenpäin. Ilmastosuunnitelma ei tuo suomalaisille äkilli-
+siä muutoksia, mutta se näyttää suuntaa, mihin meidän askel askeleelta pitää edetä, ja toi-
+saalta kuvaa niitä mahdollisuuksia, mitä jokainen ilmaston lämpenemisestä huolissaan ole-
+va kansalainen voi omassa toiminnassaan ja arjessaan tehdä ja toteuttaa.
+
+Arvoisa puhemies! Liikenteessä meillä on parhaat lisäpäästövähennysmahdollisuudet.
+Nyt viidennes kaikista Suomen kasvihuonekaasupäästöistä tulee liikenteen saralta, ja ne
+muodostavat päästökaupan ulkopuolella olevan sektorin päästöistä peräti 40 prosenttia.
+Tavoitteena hallituksella on, että liikenteen päästöt puolitetaan vuoteen 2030 mennessä.
+[Eero Heinäluoma: Kova tavoite!] Edelleen pidemmällä aikavälillä tavoitteena on, että tie-
+liikenne olisi lähes päästötöntä vuonna 2050. Vuonna 2030 sähkön ja uusiutuvien poltto-
+aineiden osuus tieliikenteen energiasta olisi vähintään 40 prosenttia. Tässä paino on sanal-
+la "vähintään". Nimittäin mitä enemmän meillä on sähkö- ja biokaasua käyttäviä vähäpääs-
+töisiä autoja, sitä enemmän voimme jäljellä olevassa bensa- ja dieselautokannassa hyödyn-
+tää fossiilista korvaavaa uusiutuvaa polttoainetta. Nämä tukevat toisiaan — sähköinen lii-
+kenne, kaasuliikenne ja uusiutuvat liikennepolttonesteet.
+
+Fossiilisista polttoaineista pois siirtyminen on suurin haasteemme. Siihen tarvitaan kaik-
+ki mahdolliset käyttövoimat, ja niitä on tässä suunnitelmassa hahmoteltu. Pelkästään käyt-
+tövoimien muutos ei riitä. Erittäin merkittävä rooli on ajoneuvojen ja liikennejärjestelmän
+energiatehokkuuden parantamisella. Kaupunkiseutujen liikennejärjestelmiä kehitetään
+maankäytön, asumisen ja liikenteen sopimuksilla valtiovallan ja kaupunkien kesken, ja nyt
+vähäpäästöiseen liikenteeseen siirtymiseen haetaan nopeaa starttia hallituksen budjettiesi-
+tyksessä esittämillä keinoilla, jotka ovat yhteneviä parlamentaarisen liikennetyöryhmän
+toimien kanssa. Esimerkiksi täyssähköautojen hankintaa sekä kaasu- ja etanolimuutosten
+tekemistä tuetaan 6 miljoonalla. Sähköisen liikenteen ja biokaasun liikennekäytön infra-
+struktuuria rakennetaan 3 miljoonan edistämispanoksella. Tukien tarkempi kohdentami-
+nen selviää myöhemmin. Ja myös romutuspalkkio tulee uudelleen käyttöön, kuten tiedät-
+te. Näiden tukitoimien ajatus on vauhdittaa siirtymistä uusiin käyttövoimiin liikenteessä.
+Suhteellisen pienillä julkisilla panoksilla saamme sysäyksen aikaan, ja lopullinen veto esi-
+merkiksi sähköisessä liikenteessä tulee tapahtumaan sitten markkinoitten kautta ajoneuvo-
+jen teknologian kehittymisen ja hintojen halpenemisen myötä.
+
+Öljystä pois pääseminen, fossiilisen öljyn käytön vähentäminen, tulee olemaan se kes-
+keinen tavoite, mikäli maailma mielii onnistua ilmastonmuutoksen vastaisessa työssä.
+Kansainvälisen energiajärjestön IEA:n mukaan fossiilisen öljyn käyttö uhkaa globaalisti
+kasvaa vielä pitkään, joten todella tarvitsemme kaikki keinot käyttöön sen vähentämiseksi.
+
+Arvoisa puhemies! Ilmastosuunnitelmassa annetaan myös vinkkejä siitä, miten ilmas-
+tosta huolestuneet kansalaiset voivat arjessaan toimia. Kun tämä ilmastosuunnitelma kos-
+kee liikennettä, kiinteistöjen lämmitystä, jätehuoltoa, maataloutta, oikeastaan sanalla sa-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+noen meidän arkielämäämme eli asumista ja liikkumista, niin silloin kansalaisten aktiivi-
+suudella on iso rooli. Ilmastosuunnitelma ei lataa velvoitteita kansalaisten niskaan vaan pi-
+kemminkin auttaa huomaamaan mahdollisuuksia. Ilmastosuunnitelman tavoitteena on
+kannustaa pääasiassa informaatio-ohjauksen keinoin ilmastoystävällisiin toimiin. Esimer-
+kiksi Sitran julkaisema "100 fiksua arjen tekoa" antaa käytännön vinkkejä tähän työhön.
+Tarvitaan myös suomalaista keksijäluonnetta. Meillä on pitkät perinteet tuunaaja- ja oppi-
+jakansana. Olemme myös Slush-maa eli innovaatisten, eteenpäin katsovien kasvuyritysten
+kotimaa. Nyt tällaiselle toiminnalle on kysyntää.
+
+Myös yrityksillä on keskeinen rooli kansalaisten ohella. Tarvitsemme uusia sovelluksia,
+esimerkiksi liikenteen sovelluksia, liikenne palveluna -konseptia. Ruokahävikin pienentä-
+misessä meillä on yritysten tarjoamia sovelluksia, joilla voi ostaa ylijäämäruokaa, ja niin
+päin pois. Yritykset tarjoavat kuluttajille älykkäitä taloteknisiä ratkaisuja. 
+
+Tuosta ruokahävikin merkityksestä haluan vielä sanasen sanoa enemmän. Nimittäin nii-
+tä pieniä ilmastotekoja voi tehdä sillä päivittäisellä ruokavalinnalla niin kaupassa kuin
+myös työpaikkaruokalassa ruokaa lautaselle ottaessaan. Ehdottomasti tehokkain keino vä-
+hentää ruoantuotannon ilmastovaikutuksia on ruoan hävikin pienentäminen. Suomessa
+noin kymmenesosa ruoasta menee hävikkiin, ravintoloissa jopa viidesosa. Maailmanlaa-
+juisesti ruokaa heitetään pois 1,3 miljardia tonnia. Sillä ruokkisi 2 miljardia ihmistä. Tässä
+meille on haastetta.
+
+Arvoisa puhemies! Myös kunnat ovat tärkeässä asemassa ilmastosuunnitelmaa toteutet-
+taessa. Nimittäin itse asiassa kunnat tekevät hyvin suuren osan niistä ratkaisuista, joita nyt
+kaivataan. Arvostan monien kuntien ja kaupunkien aloitteellisuutta ja sitoutumista kun-
+nianhimoisiin ilmastotavoitteisiin. Kunnat ovat monessa asiassa toimineet ja voivat jatkos-
+sakin toimia edelläkävijöinä. Kunnissa laaditaan parhaillaan kuntastrategioita, ja on aivan
+olennaista, että näissä strategioissa huomioidaan myös ilmasto- ja päästötavoitteet. Kun-
+nat ovat myös opettaneet paljon valtiolle, mutta haluamme haastaa kuntia vieläkin parem-
+paan. Esimerkiksi hiilineutraaleitten kuntien verkosto, 34 kuntaa tätä nykyä, on osoittanut,
+että kunnissa pystytään huomattavan nopealla tavalla tekemään energiatehokkuusinves-
+tointeja, parantamaan siis energiatehokkuutta ja vähentämään kaiken kaikkiaan päästöjä.
+Monet kunnat ovat tehneet kymmenien prosenttien päästövähennyksiä viimeksi kulunei-
+den kymmenen vuoden aikana.
+
+Ilmastosuunnitelmassa linjataan, että valtion kiinteistöissä luovutaan öljylämmitykses-
+tä vuoteen 2025 mennessä. Toivon, että kunnat ottavat tämän tai vieläkin kunnianhimoi-
+semman tavoitteen käyttöönsä. Budjettiriihessä saimme varmistettua juuri, että ensi vuo-
+delle on käytössä myös resursseja valtiovallan ja kuntien yhteistyöhön, kuntien parhaitten
+käytäntöjen yhteen kokoamiseen, levittämiseen ja monistamiseen. Haluamme siis tukea
+sitä kaupunkien, maakuntien ja seutukuntien ilmastostrategista työtä, jolla aktiiviset seutu-
+kunnat ja kaupungit omia päästöjään alentavat. Kunnat toimivat myös moninaisissa ver-
+kostoissa, ja tätä verkostotyötä on tarkoitus edelleen avittaa.
+
+Arvoisa puhemies! Ilmastosuunnitelmassa esitämme myös pitkän aikavälin tavoitteen,
+joka ei pääty vuoteen 2030 vaan katsoo pidemmälle. Pariisin sopimuksessa on esitetty ta-
+voite, joka maailmanlaajuisesti täytyy saavuttaa, mikäli mielimme alle kahden asteen läm-
+penemisessä pysyä. Tuo tavoite on se, että vuosisadan jälkipuoliskolla maailmanlaajuises-
+ti päästöjen ja nielujen tulisi olla tasapainossa. Eli ihmistoiminnan päästöjen täytyisi olla
+niin alhaiset, että maailman hiilinielut, kuten metsät ja valtameret, pystyvät tuon lopun hii-
+lidioksidin sitomaan. 
+3
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Suomessa asetamme realistisen tavoitteen: hiilineutraalius vuonna 2045. Se tarkoittaa
+siis sitä, että ilmastosuunnitelmassa esitellyllä tavalla ja ilmastolaissa määritellyn suunnan
+mukaan vähennämme nopeasti päästöjä kohti vuosisadan puoliväliä mentäessä, ja kun pi-
+dämme samanaikaisesti huolen metsänielujen toiminnasta, metsien hyvästä kasvusta ja
+hoidosta, vuonna 2045 voimme olla hiilineutraali maa, päästöt ja nielut ovat tasapainossa.
+Maailmassa on yksi maa, joka ennen Suomea on uskaltanut tämänkaltaisen tavoitteen aset-
+taa. Se on rakas naapurimme Ruotsi. Toivottavasti Suomi ja Ruotsi saavat seuraajia tässä
+kunnianhimoisessa tavoitteessa.
+
+Arvoisa puhemies! Etenemme siis hallituksessa laajalla ja monella rintamalla aktiivise-
+na ilmastopolitiikan toimijana. Teemme kansainvälistä yhteistyötä osana EU:ta, toimim-
+me ilmastodiplomatian ja Pariisin sopimuksen täytäntöön panemiseksi, toimeenpanemme
+hallituksen jo aiemmin esittelemää energia- ja ilmastostrategiaa ja otamme tässä työssä
+huomioon myös parlamentaarisen työryhmän evästeet liikenteen päästöjen vähentämi-
+seen. Myös ensi vuoden budjetti sisältää merkittäviä toimia ilmastosuunnitelman toteutta-
+miseksi. Suomi toimeenpanee kunnianhimoista ilmastopolitiikkaa.
+
+Puhemies Maria Lohela:  Seuraavaksi ryhmäpuheenvuorokierros, ja sen aloittaa keskus-
+tan eduskuntaryhmän edustaja Honkonen. — Olkaa hyvä.
+
+14.29 Petri Honkonen kesk (ryhmäpuheenvuoro): Arvoisa rouva puhemies! Maa on jä-
+tettävä tuleville sukupolville paremmassa kunnossa kuin sen on itse saanut. Tämä lause ku-
+vaa keskustan arvoja ja ohjaa ylisukupolvisuuteen ja kestävään luontosuhteeseen. Luontoa
+viljellään ja varjellaan mutta ei suinkaan museoida. Nämä arvot ovat myös tämän kunnian-
+himoisen ja realistisen ilmastosuunnitelman kivijalka. Toteuttamalla sen yhdessä me suo-
+malaiset teemme osamme ilmastonmuutoksen vastaisessa kamppailussa, rakennamme
+kaikkialla maassa työllistävää, uusiutuvien luonnonvarojen hyödyntämiseen perustuvaa
+bio- ja kiertotaloutta, mahdollistamme kestävät valinnat arjessa niin kaupungeissa kuin
+maaseudullakin.
+
+Arvoisa puhemies! Suomi on jo tukevasti oikealla tiellä. Tänä vuonna ensimmäistä ker-
+taa uusiutuvan energian osuus kaikesta kulutetusta energiasta on yli puolet. Tilanne on his-
+toriallinen. Muutos on saatu aikaan nimenomaan keskustan ministereiden johdolla, kes-
+kustavetoisen hallituksen kaudella. Kauniit puheet ilmastonmuutoksen pysäyttämisestä,
+hyvät vihreät, eivät enää riitä. On tekojen aika. Tarvitaan realistista vihreyttä. Toivottavas-
+ti pystymme yhteistyöhön yli hallitus- ja oppositiorajojen tämän suunnitelman toteuttami-
+sessa.
+
+Siirrymme ulkomaisesta fossiilisesta polttoaineesta kotimaiseen uusiutuvaan energiaan
+ja laajemmin bio- ja kiertotalouteen. Tämä tarkoittaa lisää euroja, työpaikkoja ja toimeen-
+tuloa Suomeen ja nimenomaan kaikkialle maahan. Jatkossa olemme sekä omavaraisempia
+että taloudellisesti vahvempia. Suomen pitää jatkossakin tehdä hyvää yhteistyötä, jotta
+pääsemme niihin tavoitteisiin, joita olemme uusiutuvan energian suhteen asettaneet. Tämä
+edellyttää esimerkiksi hyvää vuoropuhelua Euroopan parlamentin ja komission kanssa esi-
+merkiksi uusiutuvan energian direktiivin osalta.
+
+Arvoisa puhemies! Suomi luopuu kivihiilen käytöstä vuoteen 2030 mennessä. Kiitos Si-
+pilän hallituksen, sen jälkeen synkkiä ja muistia kivihiilikasoja ei pitäisi löytyä enää yh-
+denkään suomalaisen kaupungin takapihoilta. Tavoitteena on hiilineutraali Suomi vuonna
+4
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+2045. Se tarkoittaa, että hiilipäästöjä ei ole silloin enempää kuin yhteiskuntamme pystyy
+niitä sitomaan, aivan kuten ministeri Tiilikainen tässä edellä toi ilmi.
+
+Metsämme ovat tässä myös isossa roolissa. Osana muutosta ulkomaisen tuontiöljyn
+käyttö puolitetaan. Liikenteessä siirrytään yhä enemmän uusiutuviin polttoaineisiin. No-
+peimmat päästövähennykset saavutetaan uusiutuvilla polttoaineilla, kuten on tehty Ruot-
+sissa ja muissa Pohjoismaissa. Sähköautojen ja biokaasuautojen määrää lisätään. Puura-
+kentamista edistetään. Nämä sekä mahdollistavat kestävän kaupunkikehityksen että luovat
+elämisen edellytyksiä ja ennen muuta työpaikkoja myös muualle Suomeen. Tätä on tasa-
+painoisen Suomen rakentaminen käytännössä.
+
+Arvoisa puhemies! Jokainen meistä voi edistää muutosta omilla valinnoillaan omassa
+arjessa. Kyse on päivittäisistä päätöksistä, kuten vaikka pyörän käyttämisestä tai lähellä
+tuotetun ruuan hankkimisesta. Useimmiten ilmaston kannalta hyvät vaihtoehdot myös
+edistävät terveyttä ja säästävät rahaa. Yli puolet päästövähennystavoitteista saavutetaan lii-
+kenteen päästöjä vähentämällä. Siksi liikenteen muutokseen panostetaan paljon. Jatkossa
+autolla ajaminen tuottaa vähemmän päästöjä ja julkisen liikenteen käyttö, kävely ja pyöräi-
+ly ovat entistä houkuttelevampia. Tätä on ylisukupolvisuus ja kestävä luontosuhde ja rea-
+listinen vihreys.
+
+Romutuspalkkio, tuki bensa-auton muuttamiseksi kaasu- tai etanoliautoksi ja tuki säh-
+köautoille vauhdittavat autojen uudistumista ympäristöystävällisempään suuntaan. Kau-
+pungit ja kunnat ovat tärkeässä roolissa kevyen liikenteen väylien parantamisessa ja julki-
+sen liikenteen kehittämisessä.
+
+Arvoisa puhemies! Ilmastopolitiikan keskipitkän aikavälin suunnitelma tuo askelmerkit
+kansalaisille kohti vähähiilistä yhteiskuntaa. Omia vahvuuksiamme vahvistamalla onnis-
+tumme. Muutos on käynnissä, ja siihen tarvitaan kaikkia. Keskustan eduskuntaryhmä tu-
+kee voimakkaasti tämän suunnitelman toteuttamista. Toimimalla nyt myös lapsemme ja
+lapsenlapsemme kiittävät.
+
+14.34 Pauli Kiuru kok (ryhmäpuheenvuoro): Arvoisa rouva puhemies! "Ilmastonmuu-
+tos sitoo pohjoisen ja etelän toisiinsa. Ajan myötä kukaan meistä ei voi välttyä sen tuhoi-
+silta vaikutuksilta. Suorien ympäristövaikutusten lisäksi se vaikuttaa turvallisuuteen ja pa-
+kottaa ihmiset muuttamaan asuinseuduiltaan." Näin lausui tasavallan presidentti Niinistö
+puheessaan, jonka hän piti YK:n yleiskokouksessa viime viikolla.
+
+Tänään käsittelemme keskipitkän aikavälin ilmastopolitiikan suunnitelmaa, joka on en-
+simmäinen laatuaan. Tarkastelujänne ulottuu vuoteen 2030. Taustalla ovat ilmastolain
+määrittelemät suuntaviivat ja EU:n päästövähennystavoite. Tarkoitus on varmistaa ilmas-
+toa koskevan politiikkaamme johdonmukaisuus ja pitkäjänteisyys.
+
+On syytä kerrata, miksi olemme tehneet ilmastolain, miksi olemme hyväksyneet Parii-
+sin ilmastosopimuksen ja miksi nyt käsittelemme ilmastopolitiikkaamme. Kuten alun si-
+taatista käy ilmi, ilmastopolitiikka on turvallisuuspolitiikkaa mutta myös maahanmuutto-
+politiikkaa. Jos maahanmuutto huolestuttaa, kannattaa kiinnostua ilmastopolitiikasta.
+Maailmassa on kymmeniä miljoonia pakolaisia. Ilmastonmuutoksen myötä tilanne voi pa-
+hentua nopeammin kuin osaamme edes kuvitella. Ilmastonmuutos, väestönkasvu, maape-
+rän köyhtyminen, poliittinen epävakaus, romahtaneet valtiot ja konfliktit kytkeytyvät toi-
+siinsa. Mikään maa ei ole vaikutuksille immuuni. Mikään aita tai muuri ei pysäytä sään
+ääri-ilmiöitä ja vedenpinnan nousua. Ilmastonmuutoksen torjunnan on oltava politiikan
+keskiössä.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Arvoisa puhemies! Suomi luopuu kivihiilen energiakäytöstä vuoteen 2030 mennessä.
+Liikenteessä on tapahtumassa polttomoottorin keksimiseen verrattava siirtymä. Tavoite
+on, että vuonna 2030 Suomessa on 250 000 sähköautoa. Muutoksen intensiteetti helposti
+yliarvioidaan vuoden tai kahden aikajänteellä mutta keskipitkällä aikavälillä puolestaan
+aliarvioidaan. Hallituksen talousarvioesityksessä katsotaan rohkeasti tulevaisuuteen. Pa-
+nostamme ilmastonmuutoksen torjuntaan toteuttamalla parlamentaarisen työryhmän lii-
+kenteen päästövähennyksiin tekemät esitykset. Puurakentamista nopeutetaan ja energia-
+teknologian investointeja vauhditetaan.
+
+Suomen ympäristöön ja ilmastoon liittyviä ponnisteluja on myös arvosteltu. Kritiikin
+kärki on kustannuksissa ja saamassamme hyödyssä. Monet tutkimukset osoittavat, että ki-
+ristynyt ympäristöohjaus on lisännyt yritysten voittoja ja kilpailukykyä. Toki on myös
+päinvastaisia esimerkkejä. Emme voi kuitenkaan pysäyttää väistämätöntä kehitystä. Uu-
+distumista kaihtavat yritykset väistyvät niiden tieltä, jotka ovat sisäistäneet ilmastonmuu-
+tokseen liittyvät globaalit mahdollisuudet. Hukkalämpöä kierrättävä Nivos Oy ja ympäris-
+töosaamisellaan kemianteollisuuden vientiä kirittävä Chemigate ovat loistavia yritysesi-
+merkkejä uudesta ajattelusta. Voimme luoda uutta liiketoimintaa tavalla, joka on ilmaston
+kannalta kestävää ja hyvinvointiamme lisäävää. Toinen tapa on vähätellä tutkittua tietoa,
+pyrkiä suojelemaan saastuttavia toimintamalleja ja lopulta taantua menneisyyden hyvin-
+vointivaltioksi.
+
+Arvoisa rouva puhemies! Valtion ohella kunnilla, yrityksillä ja kansalaisilla on oma vas-
+tuunsa ilmastopolitiikan onnistumisesta. Olemme keskimäärin melko hitaita tekemään
+konkreettisia muutoksia omissa valinnoissamme. Tarvitaan koulutusta ja opastusta, kan-
+nustavia veropäätöksiä ja esimerkiksi rakentamiseen liittyvää mahdollistavaa lainsäädän-
+töä. Hyvä esimerkki on romutuspalkkio-ohjelman jatkaminen liikennepäästöjen vähentä-
+miseksi. Parhaimmillaan arvot ja lompakko on synkronoitu niin, että päätöksenteko on ku-
+luttajille helppoa. Kotikaupungissani Valkeakoskella tontin ostajalle tai vuokraajalle on
+tarjottu alennusta, jos talon lämmityksessä käytetään uusiutuvaa energiaa.
+
+Merkittävät päästöjen vähentämistä koskevat ratkaisut liittyvät kaupunkiseutujen yh-
+dyskuntarakenteeseen ja toimivuuteen. Kaupungistuminen on trendi, johon on reagoitava
+ilmastonäkökulma huomioiden. Maankäytön, asumisen ja liikenteen yhteensovittamista
+edistetään MAL-sopimuksilla. Valtio on tehnyt sopimuksia neljän suurimman kaupunki-
+seudun kanssa. — Kiitos.
+
+14.39 Tuula Haatainen sd (ryhmäpuheenvuoro): Arvoisa puhemies! Tänään me puhum-
+me yhdestä kaikkein tärkeimmästä aiheesta, joka vaikuttaa kaikkeen muuhun. Ilmastopo-
+litiikan onnistuminen ei määrittele vain poliitikkojen taitoa ja vastuullisuutta, se määritte-
+lee planeettamme tulevaisuuden. Suomen on oltava kokoaan suurempi toimija kansainvä-
+lisessä ilmastopolitiikassa. Tarvitsemme kansainvälistä yhteistyötä, jotta Pariisin ilmasto-
+sopimuksen tavoite hillitä lämpeneminen 1,5 asteeseen saavutetaan. Suomen on osana Eu-
+roopan unionia toimittava esimerkkinä muille maille. Meillä on korkeat päästövähennys-
+tavoitteet, sillä meillä on myös korkeat päästöt. Tämä ilmastolain mukainen selonteko on
+hyvä keino seurata laajasti, mitä eri hallinnonaloilla tehdään ja mitä tarvitaan lisää. Tästä
+eteenpäin kaikkien toimien on keskityttävä siihen, että ilmaston lämpeneminen pysähtyy.
+
+Ilmastonmuutos lisää pakolaisuutta. Afrikan väkiluku tuplaantuu vuoteen 2050 mennes-
+sä 2,5 miljardiin ihmiseen. Heistä puolet on alle 25-vuotiaita. Kun ihmisillä ei ole puhdasta
+6
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+vettä ja ruokaa, ei koulutuksen kautta näköalaa tulevaisuuteen eikä työmahdollisuuksia, on
+selvää, että he lähtevät liikkeelle. Tilanteeseen ei auta se, että rajat pistetään kiinni; täytyy
+puuttua syihin, jotka aiheuttavat kurjuutta ja toivottomuutta. Euroopan on oltava johtava
+voima yhteiskuntavakauden edistämisessä, ruokatuotantoon ja puhtaaseen veteen panosta-
+misessa sekä koulutuksen parantamisessa. Näin voimme vahvistaa taloudellisesti ja sosi-
+aalisesti ja ympäristön kannalta kestävää kehitystä.
+
+Esitän, että Suomi lähtee ajamaan voimakkaasti ja nopeasti EU-yhteistyötä, jolla autta-
+misen kohteet priorisoidaan ja voimavaroja myös yhdistetään. EU on jo nyt maailman suu-
+rin kehitysyhteistyön tekijä. Varat voi ja pitää käyttää tehokkaammin, jotta ihmisille saa-
+daan näköala tulevaan. Sehän parantaa ihmisten elinolosuhteita ja uskoa parempaan tule-
+vaisuuteen, ja se myös keventää painetta Eurooppaan.
+
+Arvoisa puhemies! Hiiltä ilmakehään runsaasti tuottavan elämäntavan haitat tulevat
+kaikkien maiden yhteisesti maksettaviksi. Kyse on paitsi taloudellisesta myös ekologisesta
+ja inhimillisestä hinnasta. Toimia arvioitaessa on kiinnitettävä huomiota niiden sosiaali-
+seen kestävyyteen. Kustannusten on kuitenkin jakauduttava oikeudenmukaisesti. Myös
+toimien tehokkuutta on arvioitava: vain hiilidioksitonni, joka tosiasiallisesti poistuu ilma-
+kehästämme, hillitsee ilmastonmuutosta. [Silvia Modig: Juuri näin!]
+
+Arvoisa puhemies! Tänään puhumme ihmisten arjesta, asumisen, liikkumisen, ruuan
+päästöistä. Kaupungeissa liikkumisen pitää entistä vahvemmin perustua julkiseen liiken-
+teeseen, kävelyyn ja pyöräilyyn. Esteettömän, toimivan ja edullisen julkisen liikenteen on
+oltava liikenteen päästövähennystoimien keskipisteessä. SDP haluaa kehittää erityisesti
+raideliikennettä. Lyhyillä matkoilla pyöräilystä ja kävelystä pitää tehdä houkuttelevaa. Tä-
+hän voidaan vaikuttaa hyvällä kaupunkipolitiikalla ja rakentamisella. Turvallinen, huollet-
+tu pyörätie houkuttelee hyppäämään satulaan.
+
+Arvoisa puhemies! Kannustusta ja kuluttajaneuvontaa tarvitaan jatkuvasti. Arjen ekolo-
+giset valinnat ovat onneksi usein terveellisempiä. Yksi omista ilmastoteoistani on kasvis-
+painotteiseen ruokaan siirtyminen ja punaisen lihan jättäminen kaupan hyllyyn. Jos ateriat
+koottaisiin kasvisten osuutta painottaen, ruokavalion ilmastovaikutus vähentyisi yli 20
+prosenttia. Valitettavasti myös haaskaamme ruokaa. SDP:n edustaja Nurminen on tehnyt
+ansiokkaan aloitteen ruokahävikin vähentämiseksi. Asia on tärkeä, ja siitä onkin puhuttava
+enemmän. Sosiaalidemokraattinen eduskuntaryhmä seuraa tarkasti, kuinka ruokahävikin
+vähennystoimet vaikuttavat.
+
+Arvoisa puhemies! Viime kaudella säädetty ilmastolaki on vienyt ilmastopolitiikkaa
+eteenpäin. Meidän lastemme tulevaisuus tehdään tänään. Meidän on pidettävä yhteisistä il-
+mastopäätöksistä kiinni ja oltava arjessamme valmiita kestäviin ratkaisuihin. Jos tulevai-
+suudessa lapsenlapsemme esittävät meille kysymyksen, he kysyvät joko "miten te onnis-
+tuitte siinä?" tai "miksi te ette tehneet mitään?" Se on nyt meistä itsestämme kiinni, kum-
+paan kysymykseen saamme vastata.
+
+14.45 Kaj Turunen si (ryhmäpuheenvuoro): Arvoisa puhemies! Ilmastonmuutos on tie-
+teellinen fakta, ja sen hillitseminen edellyttää — ja vaatii — maailmanlaajuisia toimenpi-
+teitä. Ihmisen aiheuttaman ilmaston lämpenemisen hillintään on myös meidän suomalais-
+ten omalta osaltamme osallistuttava.
+
+Valtioneuvosto on antanut tiedonannon keskipitkän aikavälin ilmastosuunnitelmasta,
+joka aiemmin hyväksytyn energia- ja ilmastostrategian kanssa määrittelee ne keinot, joilla
+7
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+pääsemme hallitusohjelmassa, EU:ssa ja Pariisin ilmastosopimuksessa määriteltyihin ta-
+voitteisiin.   Kohtalokkaimpien ilmastovaikutusten välttämiseksi ilmaston lämpeneminen
+täytyy pystyä pysäyttämään alle kahden asteen.
+
+Tie maailmanlaajuiseen ilmastosopimukseen on ollut pitkä ja kivinen. Ministerin tavoin
+itsekin osallistuin Pariisin ilmastokokouksen viimeiselle viikolle eduskunnan talousvalio-
+kunnan edustajana ja näin pääsin paikan päältä todistamaan historiallisen sopimuksen syn-
+tymistä. Nähtyäni omin silmin, kuinka haastavaa maailmanlaajuisen sopimuksen neuvot-
+teleminen on, en voi liikaa olla korostamatta sitoutumisen tärkeyttä. Niin kuitenkin kävi,
+että USA ilmoitti irtautuvansa Pariisin sopimuksesta. Uskon, että tässä USA tekee kauas-
+kantoisen virheen. Toisin kuin presidentti Trump sanoi, ilmastosopimus ei ole huono diili.
+Päinvastoin, huono diili on sopimuksen ulkopuolelle jääminen. Pienenä sivuhuomautukse-
+na mainittakoon, että USA:n presidentinvaalit ovat päivää ennen kuin lopullinen irtautu-
+minen Pariisin sopimuksesta voi tapahtua. Viime viikolla uutisoitiin, että Nicaragua aikoo
+allekirjoittaa Pariisin ilmastosopimuksen. Irtautuessaan sopimuksesta USA liittyisi siis
+Syyrian kanssa kimppaan. Tällöin USA ja Syyria olisivat ainoat YK-maat, jotka eivät ole
+sopimuksessa mukana. Siinä olisi varsinainen kaksikko!
+
+Globaalien päästövähennysten saavuttamiseksi on erittäin tärkeää, että vapaamatkusta-
+mista ei sallita. Päästöjen vähentämiseksi tulee tehtävien toimien olla maailmanlaajuisesti
+oikeudenmukaisia, oikeudenmukaisesti toteutettuja, taloudellisia ja oikein kohdennettuja.
+Päästövähennystoimien yhtäaikainen ajoitus on tärkeää, jotta voisimme mahdollisimman
+hyvin estää hiilivuodon eli teollisuuden siirtymisen maihin, joissa päästöistä rangaistaan
+vähemmän.
+
+Arvoisa puhemies! Ilmastosuunnitelma koskee päästökaupan ulkopuolista sektoria, siis
+liikennettä, maataloutta, lämmitystä ja jätehuoltoa. EU:n sisäisen taakanjaon mukaan Suo-
+messa päästöjä pitäisi vähentää 39 prosenttia vuoden 2005 tasosta vuoteen 2030 mennes-
+sä. Tavoite on haastava. VTT:n mukaan yli 36 prosentin päästövähennystavoitteen kustan-
+nukset kasvavat merkittävästi verrattuna alle 36 prosentin tavoitteeseen.
+
+Sininen eduskuntaryhmä pitää tärkeänä, että tulevaisuudessa päästöjen vähentämistä
+koskevat tavoitteet asetetaan EU:n sisällä jäsenmaille oikeudenmukaisemmin. Jatkossa
+emme saa olla enää tilanteessa, jossa Suomi joutuu vähentämään päästöjään 39 prosenttia
+ja esimerkiksi Puola vain seitsemän prosenttia. Virossakin riittää 13 prosentin leikkaus.
+Laskentaperusteita onkin syytä jatkossa muuttaa siten, että päästöjen vähennys kohdistuu
+enemmän niihin maihin, jotka niitä enemmän tuottavat. Euroopan komissio on mahdollis-
+tamassa 2 prosentin kertaluonteisen jouston päästövähennysten toteutuksessa. Me sinises-
+sä eduskuntaryhmässä pidämme hyvänä sitä, että nyt käsillä olevassa selonteossa tämä
+jousto ehdotetaan käytettäväksi. Jouston käyttö on järkevää riskienhallintaa ja samalla lie-
+vittää päästövähennystaakkaamme liikenteessä, maataloudessa ja myös asumisessa. On
+kuitenkin muistettava, että jouston käyttäminen ei ole ilmaista, vaan se maksaa.
+
+Suomen pitkän aikavälin tavoite on olla hiilineutraali eli sitoa sama määrä hiiltä kuin
+tuotamme. Sininen eduskuntaryhmä pitää hyvänä, että selonteon päästövähennystoimet
+ovat yhdenmukaisia tämän tavoitteen kanssa. On myös tärkeää, että selonteossa esitetyt
+toimet eivät merkittävästi heikennä talouskasvuamme, jonka tielle olemme vihdoin pääs-
+seet hallituksen monien kipeiden talouden tervehdyttämistoimien ansiosta. Lisäksi on hy-
+vä, että selonteossa kansalaisia kannustetaan omalla toiminnallaan vähentämään päästö-
+jään. Jokainen meistä pystyy ilmastotekoihin, ja jokainen niistä on merkityksellinen.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Viime viikon torstaina, 21. päivä syyskuuta, vietettiin kansainvälistä päästötöntä päi-
+vää, Zero Emissions Day. Toivon, että tämä päivä huomioitaisiin jatkossa maassamme pa-
+remmin.
+
+Arvoisa puhemies! Ihan lopuksi: Ilmastosuunnitelman toteutumista tullaan seuraamaan
+kalenterivuosittain valtioneuvoston ilmastovuosikertomuksen muodossa. Ilmastotyö jat-
+kuu niin kotimaassa kuin EU-kentillä. Vuoteen 2030 ei ole pitkä aika, ja työtä ilmaston
+lämpenemisen hidastamiseksi on tehtävä vielä paljon.
+
+14.51 Olli Immonen ps (ryhmäpuheenvuoro): Arvoisa puhemies! Maamme energia- ja il-
+mastopolitiikka on tämän vaalikauden aikana ja istuneen hallituksen johdolla saatu kään-
+nettyä aiempaa vakaammalle ja ennustettavammalle kurssille. Ennen tätä ei päätöksente-
+kosektorilla ollut sitä vakautta, joka olisi palvellut yhteiskuntamme kokonaisetua ja samal-
+la tuonut siihen yli vaalikausien kestävää johdonmukaisuutta. Nyt vakautta ja ennustetta-
+vuutta löytyy, ja hyvä niin. Isossa kokonaiskuvassa oivallisena esimerkkinä tästä toimii
+juuri nyt käsittelyssämme oleva keskipitkän aikavälin ilmastopoliittinen suunnitelma,
+mikä kulkee lähes käsi kädessä kansallisen ilmasto- ja energiastrategian kanssa.
+
+Arvoisa puhemies! Perussuomalaisten eduskuntaryhmä näkee, että viime aikoina käsit-
+telyssä olleet energia- ja ilmastopolitiikan strategia ja nyt ilmastopolitiikan suunnitelma
+voivat oikein eteenpäin vietyinä yhä lisätä asianomaisten politiikan sektoreiden kokonais-
+hallintaa ja yhteiskunnallista näkyvyyttä sekä painoarvoa. Nämä voivat täten myös lisätä
+Suomessa jo nyt vahvan cleantech-sektorin ympäristöteknologiaan perustuvia liiketoimin-
+tamahdollisuuksia, kun ilmastopolitiikan ennakoitavuus paranee entisestään. Eräs tällai-
+nen potentiaalinen aluevaltaus on juuri liikennesektori ja siihen liittyvät moninaiset mah-
+dollisuudet jatkossa.
+
+Arvoisa puhemies! Kuten tunnettua, liikenteen kasvihuonepäästöjen vähentäminen ta-
+pahtuu parhaiten juuri siten, että nykyiset polttoaineet korvataan joko uusiutuvilla biopolt-
+toaineilla tai nykyistä vähäpäästöisemmillä polttoaineilla ajan myötä. Perussuomalaisten
+eduskuntaryhmä näkee, että tässä kehityksessä on tärkeää neuvotteluiden kautta huolehtia
+juuri siitä, että Euroopan unionin sääntely tai muu mahdollinen sääntely ei lukitse kehitys-
+tä tiettyihin ratkaisuihin. Näin menettelemällä varmistetaan alan kotimaisten toimijoiden
+menestyminen alalla myös tulevaisuudessa. Samaten perussuomalaisten eduskuntaryhmä
+näkee, että uusiutuvien biopolttoaineiden rinnalla tulee kehitystä viedä eteenpäin myös
+sähkö- ja kaasuautojen rintamalla. Jotta näin voitaisiin jatkossa toimia, tämä edellyttää
+päätöksentekijöiltä uskaliaita päätöksiä. Tällaisia päätöksiä tarvitaan esimerkiksi, kun pää-
+tetään lataus- ja tankkauspisteiden kehittämisestä, rahoituksesta tai liikennejärjestelmän
+parantamisesta ylipäänsä. Perussuomalaiset luottavat vakaasti siihen, että kansalaismieli-
+pide sekä maamme monimuotoisuus eivät kuitenkaan jää huomioimatta, kun sektoria ke-
+hitetään jatkossa.
+
+Edellä olevien toimien lisäksi perussuomalaiset liputtavat varsin voimallisesti puura-
+kentamisen puolesta. Haluamme maahamme roimasti lisää puurakentamista, sillä puura-
+kentamisella on paljon annettavaa sekä työpaikkojen että vientisektorinkin suhteen. Kai-
+ken lisäksi puurakentaminen toimii myös hyvänä hiilivarastona, jolla on iso merkitys myös
+ilmastopoliittisessa mielessä. Puurakentaminen myös tukee hallituksen energia- ja ilmas-
+tostrategian, samoin kuin ilmastosuunnitelman, tavoitteita. Kokonaisuudessaan Suomi
+voisi olla täten puurakentamisen suunnannäyttäjä koko Euroopassa.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Arvoisa puhemies! Energia- ja ilmastopolitiikasta puhuttaessa tulee myös muistaa se to-
+siasia, että sektorilla vaikuttavat keskeisesti myös erilaiset kansainväliset päästötavoitteet
+sekä erinäiset sopimukset, viimeisimpänä Pariisin ilmastokokouksessa tehty maailmanlaa-
+juinen ilmastosopimus, jonka tavoitteena on rajoittaa keskilämpötilan nousu maapallolla
+alle 2 asteeseen. Tämä linjaus sopii perussuomalaisten eduskuntaryhmälle, kun pidetään
+huolta siitä, että kotimainen teollisuus ja muut keskeiset toimijat alalla eivät joudu liialli-
+sen sääntelyn kohteeksi tai alan kehittämisen maksumiehiksi. Myös uusien rakennusten
+suhteen tulee huolehtia siitä, etteivät rakennuskustannukset nouse liiaksi johtuen juuri uu-
+desta mahdollisesta unionin tason sääntelystä alalla.
+
+Arvoisa puhemies! Ilmastopolitiikasta sekä siihen kiinteästi liittyvästä ilmastosuunnitel-
+masta puhuttaessa ei voida koskaan sivuuttaa maataloutta ja sen tärkeyttä maallemme. Pe-
+russuomalaisten eduskuntaryhmä pitää erityisen tärkeänä sitä, että esimerkiksi maa- ja
+metsätaloussektorin toimintaa maassamme ei liian kunnianhimoisilla päästövähennysta-
+voitteilla vaikeuteta entisestään. On totta, että Suomessa maatalous kuormittaa jossain
+määrin vesistöjämme, mutta tätä ei kuitenkaan nykytekniikat huomioiden tapahdu liiaksi,
+sillä erinäiset varotoimet ovat pudottaneet ravinnekuormitusta jo dramaattisesti. Luonnol-
+lisesti me perussuomalaiset jatkamme edelleen toimiamme sen eteen, että koko Suomessa
+pystytään myös tulevaisuudessa asumaan ja harjoittamaan maataloutta ja maatalousyrittä-
+jyyttäkin kattavasti.
+
+Arvoisa puhemies! Lopuksi: Perussuomalaisten mielestä maamme energia- ja ilmasto-
+politiikan kulmakivinä on oltava mahdollisimman korkea omavaraisuusaste, tuotanto- ja
+huoltovarmuus sekä kohtuuhintaisuus ja vähäpäästöisyys. Kun nämä näkökulmat huomi-
+oidaan, meillä on Suomessa niin energia- kuin ilmastosektorilla paljon enemmän voitetta-
+vaa kuin hävittävää.
+
+14.56 Antero Vartia vihr (ryhmäpuheenvuoro): Arvoisa puhemies! Viime vuosien sääil-
+miöt ovat osoittaneet, että seisomme kuilun reunalla. Vuosi 2016 oli kaikkien aikojen läm-
+pimin, samoin kuin vuosi 2015 sitä ennen ja vuosi 2014 vuotta aikaisemmin. Kuulen yhä
+useammin tutkijoiden toistavan samaa lausetta: ilmastonmuutos etenee nopeammin kuin
+olemme uskoneet. Merenpinta tulee nousemaan enemmän, lämpöasteet kasvavat nopeam-
+min, tuulet puhaltavat voimakkaammin. Jo 2 asteen nousu tulee aiheuttamaan enemmän tu-
+hoa kuin olemme aiemmin ymmärtäneet.
+
+Suomen uskotaan olevan ilmastopolitiikan mallioppilas, mutta valitettavasti todellisuus
+on toinen. Keskipitkän aikavälin ilmastosuunnitelma perustuu EU:n tavoitteeseen vähen-
+tää päästöjä 39 prosentilla päästökaupan ulkopuolisilla sektoreilla vuoteen 2030 mennessä
+sekä ilmastolakiin kirjattuun 80 prosentin tavoitteeseen vuoteen 2050 mennessä. Hallituk-
+sen metsä- ja bioenergiapolitiikka uhkaa kuitenkin vesittää nämä tavoitteet. Suomi ajaa
+EU:ssa ennennäkemättömällä voimalla linjaa, jonka mukaan jäsenmaat saisivat pienentää
+metsiensä hiilinielua ilman seurauksia, kuten päästöoikeuksien ostoa tai lisätoimia muilla
+aloilla. Bioenergiatavoitteiden vuoksi metsiemme hiilinielu uhkaa puolittua, mikä tekisi
+tyhjäksi kaikki päästövähennystoimet muilla sektoreilla. Lopputulos olisi, että Suomi ei
+vähentäisi kokonaispäästöjään vuoteen 2030 mennessä. [Teuvo Hakkarainen: Kannattaisi
+käydä siellä metsässä!] Ilmastonmuutoksen kannalta kokonaispäästöt ovat ratkaisevia. Hii-
+linielun pieneneminen on sama asia kuin päästö. [Oikealta: Ei ole!] Jos lisäämme hakkuita
+ja pienennämme hiilinielua, pitää meidän kantaa vastuu ja lisätä päästövähennyksiä muilla
+sektoreilla.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Suomen tavoitteet eivät nykyisellään riitä Pariisin ilmastosopimuksen velvoitteiden
+täyttämiseen. Sitran mukaan meidän täytyy vähentää päästöjä 60 prosentilla vuoteen 2030
+mennessä. Vuoteen 2050 mennessä meidän täytyy imeä hiilidioksidia ilmasta — sen lisäk-
+si että meidän päästömme ovat nolla. Meidän pitäisi asettaa tämän mittaluokan tavoitteet
+itsellemme sen sijaan, että olemme harmissamme EU:ssa meille sovittujen tavoitteiden
+tiukkuudesta.
+
+Arvoisa puhemies! Kehotan hallitusta pohtimaan, olemmeko menossa oikeaan suun-
+taan. Kannustaako Suomen investointiympäristö radikaaleihin vähähiilisiin innovaatioi-
+hin, kiertotalouteen tai kulutuksen vähentämiseen, vai olemmeko edistämässä vanhoja rat-
+kaisuja? Turvetta verotetaan edelleen kevyesti, vaikka sen ilmastovaikutus on pahempi
+kuin kivihiilen. Yrityksille luotiin juuri uusi saastutustuki päästökauppakompensaation
+muodossa. Fossiilisen energian verotuet ovat satoja miljoonia vuosittain. Tutkimus-, kehi-
+tys- ja innovaatiotukia on leikattu. Sääntely ja verotus tulee ohjata osoittamaan oikeaan
+suuntaan. Meidän pitäisi edistää älyverkkoja, energiansäästöä, lämpöpumppuja, energian
+varastointia, aurinkoa ja tuulta — ei semmoisia ratkaisuja, jotka lisäävät ilmastopäästöjä
+edes lyhyellä aikavälillä. Saastuttamisen tuet tulee yksinkertaisesti lopettaa. Vastaavasti il-
+mastonmuutoksen torjumisen resursseja tulee lisätä. Liian usein jumiudumme puolusta-
+maan vanhan teollisuuden etuja uusien, päästöjä vähentävien ratkaisujen kustannuksella.
+Jos panostaisimme reilusti puhtaisiin teknologioihin, Suomen vaikutus energiamarkkinoi-
+hin voisi olla samaa luokkaa kuin Nokian vaikutus kännyköiden kehittymiseen maailman-
+laajuisesti. Osaamista meillä on. Hiilijalanjäljen laskemisen ohella meidän pitäisi kiinnit-
+tää huomiota hiilikädenjälkeen eli niihin mahdollisuuksiin, joita talouden muuttaminen vä-
+hähiiliseksi meille tuo.
+
+Arvoisa puhemies! Suomen ilmastopolitiikka tarvitsee huomattavasti lisää konkretiaa ja
+erityisesti lisää kunnianhimoa. Teemme paljon asioita, jotka vievät oikeaan suuntaan, mut-
+ta samaan aikaan teemme liikaa asioita, jotka vievät päinvastaiseen suuntaan. Unohdam-
+me usein myös, mikä on todellinen uhka taloudellemme. Se on ilmastonmuutos, ei sen tor-
+junta. Toimimme globaalissa markkinataloudessa, ja meillä ei ole mitään mahdollisuuksia
+välttyä ilmastonmuutoksen ikäviltä seurauksilta. Ilmastonmuutoksen suurin uhka on sen
+synnyttämät levottomuudet, sodat ja kansainvaellukset. Jos muu maailma sotii, ei suoma-
+laisella elinkeinoelämälläkään mene kovin hyvin.
+
+Ilmastopolitiikan onnistuminen ratkaisee, mikä on koko ihmiskunnan tulevaisuus. Pa-
+himmillaan leikimme koko sivilisaation olemassaolon kanssa. Tätä taustaa vasten oikei-
+den päätösten ja isompien reformien tekemisen pitäisi olla helpompaa. Maailman tulevai-
+suus on kiinni meidän poliitikkojen tekemistä päätöksistä. Me emme saa paeta tätä vastuu-
+ta. Siksi kannustan hallitusta huolehtimaan valtionvelan lisäksi ilmastovelasta, jota meillä
+ei yksinkertaisesti ole lupa jättää lapsillemme. Näillä päätöksillä on kiire. Meillä ei ole yhtä
+ainutta vuotta hukattavana.
+
+15.02 Silvia Modig vas (ryhmäpuheenvuoro): Arvoisa puhemies! Jos me haluamme, että
+maapallolla säilyvät elämisen edellytykset, ne ratkaisut on tehtävä nyt. Siksi käytännössä
+kaikki maailman maat allekirjoittivat Pariisin ilmastosopimuksen. Siksi yritämme nyt
+EU:ssa sopia yhteisistä pelisäännöistä Pariisin tavoitteiden saavuttamiseksi. Jotta maapal-
+lo säilyy elinkelpoisena, täytyy meidän kääntää kasvihuonekaasupäästömme globaalisti
+laskuun hyvin pian ja vuoteen 50 mennessä olla täysin hiilineutraaleja. Näitä Pariisin il-
+mastosopimuksen päätöksiä ei saavuteta ilman, että tuotantomme, kulutuksemme ja elin-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+tapamme muuttuvat. Ilmastonmuutos on tosiasia, ja juuri nyt me ratkaisemme sen, onko
+muutos hallittu vai hallitsematon. Hallitsematon muutos johtaa kuivuuteen, hirmumyrskyi-
+hin ja sen kautta massiiviseen pakolaisuuteen.
+
+EU:ssa ollaan sovittu, että vähennämme päästöistämme 40 prosenttia vuoteen 30 men-
+nessä verrattuna vuoden 90 tasoon. Kuitenkin nyt jo tiedämme, että tämänhetkiset si-
+toumukset eivät ole riittäviä vaan niitä tullaan kiristämään. Juuri nyt pitäisi osata katsoa
+yhtä aikaa lähelle ja kauas. Valitettavasti hallitus ei kuitenkaan näe tarpeeksi pitkälle eteen-
+päin. Siksi keskipitkän aikavälin suunnitelmaa lukiessa turhautuu. Siinä on monia hyviä
+keinoja, mutta se, että päästöjä vähennetään, ei riitä, vaan niitä pitää vähentää tarpeeksi.
+Paperilla näyttää siltä, että saavutamme asetetut tavoitteet, vaikka tosiasiassa nämä tavoit-
+teet eivät ole riittäviä.
+
+Ainoa sektori, missä selonteon tavoitteet ovat kunnianhimoisia, on liikenne, mutta siel-
+läkin keinona keskitytään sekoittamaan bensatankkiin metsästä kaadettua polttoainetta sen
+sijaan, että asetettaisiin aidosti kunnianhimoinen päästöttömän liikennejärjestelmän tavoi-
+te. Jos metsien nielua lisääntyvillä hakkuilla pienennetään, on toisaalla päästöjen vähen-
+nyttävä tätä enemmän. Nestemäisten biopolttoaineiden kohdalla tämä yhtälö ei toteudu,
+sillä kun öljyä korvataan puulla, on ilmastohyöty vaatimaton.
+
+Puhemies! Kylmien talviemme takia rakennustemme energiankulutus on suurta, ja siksi
+olemassa olevan rakennuskannan energiatehokkuuden parantamista tulisi tukea voimak-
+kaammin. Ilmastovaikutukset tulisi huomioida rakennuksen koko elinkaaren ajalta unoh-
+tamatta asumisen terveellisyyttä ja hintaa.
+
+Maatalouden osalta tässä selonteossa on ensimmäistä kertaa kirjattu tärkeitä keinoja il-
+mastopäästöjen vähentämiseen: turvemaiden multavuuden parantaminen ja pohjaveden
+pinnan nostaminen kasvipeitteiseen viljelyyn siirtyen. Kiitosta ansaitsee myös se, että se-
+lonteossa on hyvin tunnistettu julkisten hankintojen merkitys. Vasemmistoliitto on pitkään
+vaatinut julkisiin hankintoihin vahvempaa ilmastonäkökulmaa. Tässä kunnilla ja kaupun-
+geilla on merkittävä rooli. Myös kiertotalouden ja jakamistalouden koko potentiaali tulisi
+aidosti ymmärtää ja tehdä määrätietoisia toimia luonnonvarojen kulutuksen vähentämisek-
+si. Kiertotalouden periaatteilla saamme samasta enemmän: kun tuotteiden suunnitteluvai-
+heessa estetään jätteen syntyminen, pysyvät arvokkaat raaka-aineet kierrossa, syntyy uutta
+liiketoimintaa, uusia työpaikkoja. Mutta investointien on tuettava kiertotalouden kehitty-
+mistä, jotta se voisi taata meille kestävää talouskasvua.
+
+Arvoisa puhemies! Sitten ovat vielä ne metsät. Suomi ja suomalaiset elävät metsässä ja
+metsästä, mutta meidän on muistettava, että koko maapallo hengittää metsien ansiosta.
+Pohjoinen havumetsä on elintärkeä hiilivarasto ja hiilinielu. Tästä hiilinielusta huolehtimi-
+nen seuraavien vuosien ja vuosikymmenien aikana on meidän globaali vastuumme, jota ei
+voi väistää. Tämän selonteon metsälinjaukset ja Suomen tavoitteet EU-sääntelyn neuvot-
+teluissa ovat riskipeliä. Hiilinielun pieneneminen on ilmakehän kannalta aivan sama kuin
+samansuuruiset päästöt toisaalla. Meillä on vain muutamia vuosia aikaa saada hiilidioksi-
+din määrä ilmakehässä kuriin. Siksi emme voi ajatella, että supistetaan metsien hiilinielua
+nyt ja kasvatetaan sitä sitten taas vuosikymmenien kuluttua. Meillä ei yksinkertaisesti ole
+tähän aikaa. Vaikka hakkuut mitoitettaisiin ilmaston kannalta kestävästi, voi Suomi edel-
+leen hyödyntää metsiään. Tärkeintä on, että arvokasta puuraaka-ainetta käytetään korkean
+arvonlisän tuotteisiin. Se on ilmaston, ympäristön, talouden ja työllisyyden kannalta paras-
+ta. [Satu Hassi: Juuri niin!] Kun suunnittelemme metsien käyttöä, on myös muistettava
+vaalia luonnon monimuotoisuutta. Biodiversiteetti on itseisarvo, mutta se myös lisää eko-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+systeemien joustavuutta ja mahdollisuuksia korjata ilmastonmuutoksen jo aiheuttamia tu-
+hoja.
+
+Vielä lopuksi, arvoisa puhemies: Ilmastonmuutoksessa on kyse oikeudenmukaisuudes-
+ta niin globaalisti kuin kotimaassakin. Vasemmistoliitolle on tärkeää, että ilmastopolitii-
+kassa, kuten kaikissa päätöksissä, huomioidaan vaikutukset ihmisille eri asuinpaikan, elä-
+mäntilanteen ja tulotason suhteen. Ilmastotekojen on oltava niin köyhän kuin rikkaan saa-
+tavilla. Kunnianhimoinen, pitkälle katsova ja ennakoiva energia- ja ilmastopolitiikka mah-
+dollistaa ratkaisut, joissa kaikki voittavat. Ilmastonmuutoksen torjunta, työpaikat ja kestä-
+vä talouskasvu eivät ole vastakkaisia, vaan ne voivat olla toisiaan tukevia tavoitteita. [Satu
+Hassi: Hyvä puhe!]
+
+15.08 Anders Adlercreutz r (ryhmäpuheenvuoro): Ärade talman! Arvoisa puhemies!
+Hirmumyrskyt Andrew, Katrina, Irma, Jose. Syyriassa vallitsee kuivuus, joka johtaa levot-
+tomuuksiin ja sisällissotaan. Ikirouta sulaa Siperiassa ja uhkaa kiihdyttää ilmastonmuutos-
+ta. Aavikot laajenevat Afrikassa, ja yhä useammat ihmiset eivät enää saa toimeentuloaan
+siinä maassa, jossa he ovat varttuneet. Kukaan ei voi ummistaa silmiä siltä, mitä näemme
+tapahtuvan. Tarvitsemme pitkän tähtäimen toimenpiteitä mutta myös välittömiä toimia jo
+nyt. Aikaa ei ole hukattavaksi.
+
+Valtioneuvoston keskipitkän aikavälin ilmastopolitiikan suunnitelma on konkreettinen
+asiakirja, jossa kiinnitetään huomiota edessämme oleviin haasteisiin. Tavoitteena on hiili-
+neutraalius vuonna 2045 ja voimakkaat päästövähennykset vuoteen 2030 mennessä. Tämä
+kaikki on oikein hyvä — kyse on vain siitä, miten se saadaan toimeenpantua. Onko meillä
+tahtoa, ja olemmeko oikealla tiellä? Monet seikat viittaavat siihen, että emme näe tilanteen
+vakavuutta. Näemme vain osaongelmia ja ummistamme silmämme kokonaisuudelta. Mitä
+teemme tällä hetkellä? Ohjaamme päästökauppatulot takaisin teollisuuteen. Emme käsitte-
+le polttoaineiden verotusta ilmastopolitiikan näkökulmasta, vaan pidämme sitä aluepolitii-
+kan pelinappulana. Tarkastelemme budjettikirjan panostuksia joukkoliikenteeseen fiskaa-
+lisena harjoituksena, kun meidän pitäisi tarkastella niitä osana ilmastopolitiikkaa. Osaop-
+timointi ei riitä, vaan tässä tarvitaan kokonaisvaltaista ajattelua.
+
+Ne, jotka uskaltavat ottaa haasteet vastaan, ovat voittajia myös taloudellisesti katsottu-
+na. Rikkidirektiivi nosti tilapäisesti kustannuksia, mutta se tarjosi myös uusia mahdolli-
+suuksia suomalaiselle cleantech-teollisuudelle. [Satu Hassi: Juuri näin!] Sama koskee nii-
+tä, jotka uskaltavat tarkastella objektiivisesti nyt edessämme olevia haasteita. 
+
+Se polku, jolle tänään astumme, ei vie perille, vaan lisätoimenpiteet ovat tarpeen.
+
+Ärade talman! Klimatplanen redogör förtjänstfullt för de olika alternativen. Det gäller att
+ha både ett kort och ett långt perspektiv. Trafiken är den enskilt största frågan inom an-
+svarsfördelningssektorn. Regeringen tror på sina bioenergisatsningar. Men frågan är om
+volymen och omfattningen är realistisk. Att med låg verkningsgrad producera ett bränsle
+för motorer med låg verkningsgrad är inte en hållbar väg. 
+
+Biobränslen behövs för den tunga industrin. De behövs för flygtrafiken. Men person-
+bilstrafiken måste stödja sig på andra lösningar. Samtidigt är det klart att biobränsle i ett
+kort perspektiv inte är klimatneutralt. Vi måste så snabbt som möjligt få ner alla utsläpp. 
+
+Svenska riksdagsgruppen och SFP anser att vår personbilspark utan dröjsmål borde
+övergå från förbränningsmotorer till elmotorer. Regeringens mål på 250 000 elbilar år
+2030 är inte speciellt ambitiöst om man jämför med föregångslandet Norge, som samma år
+13
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+siktar på att 60 till 100 procent av alla personbilar som kommer ut på marknaden är elbilar.
+Därför är det viktigt att vi så snabbt som möjligt bygger upp ett laddningsnät.
+
+Arvoisa puhemies! 50 prosenttia perusresursseistamme käytetään rakentamiseen. 40 pro-
+senttia päästöistämme liittyy rakennuksin. Sillä on suuri merkitys, miten ja mistä materi-
+aalista rakennamme ja miten asumme. Kilo puuta sitoo itseensä 1,8 kiloa hiilidioksidia.
+Puurakenteinen pientalo on sitonut itseensä yhtä paljon hiilidioksidia kuin keskimääräises-
+tä kymmenen vuoden autolla ajamisesta syntyy. Puurakentamiseen panostaminen on il-
+mastotoimi. Tämän vuoksi on mitä tärkeintä, että hallitus tarkistaa lainsäädäntöä ja höllen-
+tää puurakentamisen normeja. Kun on ilmeistä, että tulemme lisäämään metsiemme hak-
+kuita tavalla, joka lyhyellä aikavälillä puolittaa hiilinielumme, on erittäin tärkeää, että met-
+sästä ottamamme puu menee pitkäikäisiin puutuotteisiin.
+
+Till sist: För att vi ska kunna anpassa oss till jordens bärkraft måste vi globalt övergå till en
+kolneutral cirkulär ekonomi. Som vi konstaterat kräver detta en radikal omvälvning av tra-
+fiken, inte minst. Men också mindre åtgärder i klimatplanen är viktiga, som exempelvis det
+gemensamma programmet för att främja mobilitet till fots och med cykel. I våra städer be-
+höver vi högklassig planering, fortsatt god nivå på kollektivtrafiken och andra åtgärder
+som bygger på en ökad klimatmedvetenhet.
+
+Åtgärder krävs, men det är klimatförändringen vi ska vara rädda för, inte klimatåtgär-
+derna, för att citera ledamot Vartia.
+
+15.13 Sari Tanus kd (ryhmäpuheenvuoro): Arvoisa rouva puhemies! Ilmastopolitiikan
+suunnitelman on toteutettava kestävän kehityksen Agenda 2030 -toimenpideohjelmaa ja
+pyrittävä siinä määriteltyyn edelläkävijyyteen, aktiivisuuteen toimenpiteiden käynnistämi-
+sessä, pitkäjänteisyyteen ja politiikkajohdonmukaisuuteen. Kestävän kehityksen haasteet
+on muutettava kestävän, työllistävän kasvun mahdollisuuksiksi. Tämä tarkoittaa muun
+muassa ympäristöliiketoiminnan, bio- ja kiertotalouden sekä erilaisten ekosysteemipalve-
+lujen määrätietoista ja pitkäjänteistä kehittämistä.
+
+Uusi teknologia korostaa alhaalta ylös tapahtuvaa kuluttajalähtöistä toimintaa, mikä on
+huomioitu tässä suunnitelmassa aiempaa paremmin. Energia- ja teknologiamurros tekee
+meistä energiamarkkinoiden aktiivisia toimijoita monissa eri rooleissa: kuluttajina, tuotta-
+jina ja investoijina, myös kysyntäjoustoissa ja energiavarastoinnissa. On muistettava, että
+myös kotitalouksissa on merkittävä energiansäästö- ja tehokkuuspotentiaali. Kuluttajaläh-
+töisten mahdollisuuksien hyödyntäminen edellyttää kuitenkin älykkään sähköverkon ja
+energiajärjestelmän määrätietoista kehittämistä sekä kuluttajien tarpeita ja uusia käyttö-
+kulttuureita ymmärtävää palvelumuotoilua. Ratkaisut on tehtävä kuluttajalähtöisesti.
+
+Tieliikenteen päästöjen vähentämiseksi yhtenä tavoitteena on edistää biokaasun tuotan-
+toa ja käyttöä. Tästä KD on tehnyt useita aloitteita. Myös työkoneissa toivotaan biokaasua
+käyttövoimaksi, mikä edellyttää satoja biokaasulaitoksia maatiloille. Selonteossa on kui-
+tenkin epäsuhta tavoitteiden ja rahoituksen välillä. Esimerkiksi autojen sähkö-, etanoli- ja
+kaasukonversioihin sijoitetaan ensi vuonna vain 6 miljoonaa euroa ja niiden liikennekäy-
+tön infraan vain 3 miljoonaa euroa. Suunnitelmat ovat hyvät, mutta näillä panostuksilla nii-
+den toteuttaminen uhkaa jäädä seuraaville hallituksille.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Selonteossa laitetaan paljon painoa lämmitysöljyn, työkoneiden ja liikenteen biopoltto-
+aineiden lisääntyvään osuuteen. Siirryttäessä laajalti biomateriaaleihin on samalla huoleh-
+dittava metsien ja merien biodiversiteetistä, ruokaturvasta ja luonnon monimuotoisuudes-
+ta.
+
+Jätehuollon kehittämisen päästövähennysarvio on liikenteen jälkeen toiseksi suurin. Jä-
+tehuoltolaissa onkin mahdollistettava kunnallisten jätehuoltoyhtiöiden markkinaehtoinen
+myynti vähintään 10 prosentin osuudella, jotta ne voivat tehokkaasti kehittää toimintaan-
+sa. Suomella on myös merkittävää vientipotentiaalia jätteitä hyödyntävässä kiertotaloudes-
+sa. Viennin edistämiseksi suomalaiselle energia- ja ympäristöosaamiselle tarvitaan kansal-
+lisia referenssejä, joita voidaan ja joita pitää edistää innovatiivisilla julkisilla hankinnoilla.
+Tarvitaan myös demonstraatiolaitoksia ja rohkeita yksityisiä ja julkisia investointeja. Hy-
+viä hankinta- ja toimintamalleja on levitettävä käytäntöön.
+
+Vientipotentiaalit on huomioitava myös koulutus- ja tiedepolitiikassa osaamisen kehit-
+tämiseksi ja ylläpitämiseksi. Tekniikan kehitys monilla eri aloilla mahdollistaa parhaat ja
+kustannustehokkaimmat ilmastotoimet. Juuri nyt sekä yritysten että julkisen vallan on si-
+joitettava tutkimus-, kehitys- ja  innovaatiotoimintaan. On suuri virhe, että tutkimus- ja ke-
+hitysrahoitus suhteessa bruttokansantuotteeseen on laskenut 3,8:sta 2,6 prosenttiin vii-
+meisten kahdeksan vuoden aikana. Meidän ei pidä vaarantaa kotimaisen puhdasta teknolo-
+giaa käyttävän ja sitä kehittävän teollisuuden kilpailukykyä, muutoin tuotanto siirtyy saas-
+tuttavammille laitoksille ulkomaille.
+
+Arvoisa rouva puhemies! Kuluttajaperäisistä päästöistä 75 prosenttia on peräisin ruuas-
+ta, asumisesta ja henkilöliikenteestä. Kun erityisesti pientaloasukkaat joutuvat tekemään
+investointeja asuntojensa energiatehokkuuden parantamiseksi, investoimaan uusiin ener-
+giaratkaisuihin ja maksamaan enemmän lämmitysöljystä, on entistä tärkeämpää, että tu-
+loeroja ei päästetä repeämään ja nämä toimet mahdollistetaan myös vähävaraisemmille ko-
+titalouksille.
+
+Selonteossa todetaan myös, että energiaremontteihin soveltuvia taloudellisia ohjaus- ja
+rahoitusmalleja ei ole kehitetty. Myöskään kotitalousvähennyksen laajentamista ei ole sel-
+vitetty. Energiakatselmus, kuntoarvio, kuntotutkimus ja korjaussuunnitelman teettäminen
+tulee saattaa kotitalousvähennyksen piiriin. Näihin asioihin odotamme pikaisimmin korja-
+usta. — Kiitos.
+
+Puhemies Maria Lohela:  Ennen debattia vielä puheenvuorot ministereille. Ministeri Ber-
+ner ensin, 5 minuuttia.
+
+15.19 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! EU:n päästövä-
+hennystavoite koskee koko taakanjakosektoria. Liikenteellä on katsottu tällä hetkellä ole-
+van suurin päästövähennyspotentiaali. Taakanjakopäätös koskee ainoastaan kotimaan lii-
+kennettä. Kansainvälinen liikenne ei kuulu sen soveltamisalaan. Kotimaan liikenteessä tie-
+liikenteen osuus on päästöistä suurin eli 90 prosenttia. Siksi myös päästövähennystoimet
+täytyy kohdentaa tieliikenteeseen. Keskeisimpiä keinoja ovat kaupunkiseutujen liikenne-
+järjestelmäsuunnitelmat, kävelyä ja pyöräilyä ja joukkoliikennettä edistävät toimet sekä
+maankäytön ja liikenteen yhteensovittaminen. 
+
+Erittäin keskeinen toimi on myös henkilöauton vaihtoehtojen tarjonnan parantaminen
+liikennemarkkinoita uudistamalla, muun muassa edistämällä liikenteen palveluista anne-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+tun lain mahdollistamia palveluita. Lain tavoitteena on edistää uusien palvelumallien syn-
+tymistä ja näin vastata entistä paremmin käyttäjien tarpeisiin. Lain kautta edistetään uuden
+teknologian, digitalisaation ja uusien liiketoimintamallien käyttöönottoa. Avoimella datal-
+la ja tietovarantojen paremmalla hyödyntämisellä luodaan edellytyksiä uusille liiketoimin-
+taideoille. Samalla luodaan houkuttelevia vaihtoehtoja henkilöauton omistamiselle ja käy-
+tölle. 
+
+Liikkumisvapautta ei ole kuitenkaan tarkoitus rajoittaa. Olemassa olevat ja tulevat liik-
+kumistarpeet toteutetaan entistä tehokkaammin, taloudellisemmin ja pienemmällä energi-
+ankulutuksella muilla tavoin kuin yksin ajamalla. Liikenne- ja viestintäministeriö käynnis-
+ti keväällä 2017 hankkeen kävelyn ja pyöräilyn edistämiseksi. Hankkeen aikana ministeri-
+össä valmistellaan valtioneuvoston periaatepäätös kävelyn ja pyöräilyn edistämisestä, ja
+edistämisohjelma sisältää myös kävelyn ja pyöräilyn investointiohjelman kunnille. Laki
+liikenteen palveluista on keskeisin keino joukkoliikenteen edistämiseksi. Kuluttajaa entis-
+tä paremmin palveleva tarjonta sekä erilaiset digitalisoidut ja yhteensopivat reitti- ja mak-
+supalvelumallit ovat jo nyt tuoneet uusia käyttäjiä joukkoliikenteeseen. KAISUssa on
+myös linjattu, että ihmisten liikkumistottumuksien muutosta pyritään edistämään suurten
+kaupunkiseutujen joukkoliikenteen kehittämisen ja raideliikenteen lisäämisen kautta.
+
+Suomen autokanta uudistuu hyvin hitaasti. Jo energia- ja ilmastostrategian kautta
+250 000 sähköauton tavoite vaatii toteutuakseen noin 20 prosentin myyntiosuuksia uusista
+autosta joka vuosi vuodesta 2020 eteenpäin. KAISUssa todetaan, että valtion vuoden 2018
+talousarvioon varattaisiin 6 miljoonaa täyssähköautojen hankintaan ja kaasu- ja etanoli-
+konversion tekemiseen vanhoihin autoihin. Ehdotus perustuu liikenteen päästövähennyk-
+siä pohtineen parlamentaarisen työryhmän ehdotukseen. KAISUssa ehdotetaan myös ro-
+mutuspalkkion paluuta vuodeksi 2018. Syksyn budjettiriihessä romutuspalkkioon varat-
+tiinkin yhteensä 8 miljoonaa euroa. Sähköisen liikenteen ja biokaasun liikennekäytön ja-
+keluinfran edistämiseen on KAISUssa ja valtion vuoden 2018 talousarviossa varattu 4,5
+miljoonaa euroa. Tänään onkin annettu hallituksen esitykset lausuntokierrokselle. 
+
+Suomi sijoittuu EU-vertailussa tällä hetkellä kolmanneksi, kun katsotaan sähköautojen
+osuutta uusien autojen myynnistä. Edellä ovat vain Ruotsi ja Belgia. Ongelmana on kui-
+tenkin ollut hidas liikkeellelähtö sekä autokannan uusiutumisen hitaus kaiken kaikkiaan-
+kin. Biopolttoaineita voidaan sekoittaa nykyisiin polttoaineisiin ja käyttää nykyisissä au-
+toissa. Biopolttoaineella on siis saavutettavissa nopeita päästövähennyksiä suhteessa mui-
+hin vaihtoehtoihin. Vuoden 2030 jälkeen biopolttoaineiden suhteellinen merkitys päästö-
+jen vähentämisessä kuitenkin pienenee, kun taas sähköautojen ja liikennejärjestelmän te-
+hostamiseen liittyvien toimien merkitys kasvaa.
+
+Näin ollen kaikki toimet ovat tarpeellisia. Liikenteen päästövähennystavoitteet ovat erit-
+täin kunnianhimoisia, ja mitä enemmän niihin syventyy, sen haasteellisempana myös näyt-
+täytyy se kokonaisuus, joka meidän täytyisi pystyä hahmottamaan ja jonka osalta meidän
+täytyisi pystyä tekemään päätöksiä. Aikaa meillä on 12 vuotta. Se tarkoittaa sitä, että mei-
+dän jokaisen mutta myöskin jokaisen elinkeinoelämän järjestön, yhteiskunnan, kunnan,
+kaupungin on osallistuttava näihin päätöksiin ja ratkaisuihin. Suurimmat vaikuttajat olem-
+me me henkilöt ja ihmiset, jotka teemme päivittäisiä valintoja liikenteemme ääressä. —
+Kiitos.
+
+Puhemies Maria Lohela: Ja ministeri Tiilikainen, 3 minuuttia.
+16
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+15.24 Asunto-, energia- ja ympäristöministeri Kimmo  Tiilikainen:  Arvoisa puhe-
+mies! Kiitän eduskuntaryhmiä puheenvuoroista. Kävi selvästi ilmi, että Suomen aktiivi-
+nen kansainvälinen ote ja konkreettiset omat toimet ilmastonmuutoksen torjumiseksi naut-
+tivat varauksetonta kannatusta eduskuntapuolueitten joukossa. Se oli miellyttävää huoma-
+ta. Moni teistä tunnisti puheenvuoroissaan nuo maailmanlaajuiset ongelmat, mitä ilmas-
+tonmuutoksen hillitsemättömyys toisi ilmastopakolaisuuden, ruuan- ja vedenpuutteen
+muodossa, ja niitten heijastumisen myös yhteiskuntia heiluttavina tekijöinä noitten kriisi-
+alueitten ulkopuolelle. Hyvä niin, se korostaa niiden toimien merkitystä, mihin meidän täy-
+tyy ryhtyä.
+
+Kun hallitus esittelee suunnitelmassa 57 toimenpidettä, niin korviini ei oikeastaan tart-
+tunut konkreettisia ehdotuksia, mitä kukaan olisi tehnyt lisää tai toisin. Edustaja Tanus esit-
+ti kotitalousvähennyksen hieman laveampaa käyttöä joihinkin toimiin. Se oli ehkä lisätoi-
+mi, hyvä näin. Mutta hyvä, että moni korosti niitä asioita, joihin hallitus on jo ryhtynyt. Esi-
+merkiksi puurakentamista useissa puheenvuoroissa haluttiin vauhdittaa, ja kyllä, tulemme
+muuttamaan nuo rakennusmääräykset siten, että puu on samalla viivalla muitten rakennus-
+materiaalien kanssa ensi vuoden alusta. Hallituksen esittelemät lisäsatsaukset puurakenta-
+mista palvelevan osaamisen kehittämiseen ensi vuoden budjetista alkaen ovat tervetullei-
+ta. Tässä meillä on hyvä vauhti, ja sitä vauhtia on syytä laittaa eteenkinpäin, koska puura-
+kennus toimii hiilivarastona. Siinä se puun sitoma hiili ei todellakaan vapaudu yhtään mi-
+hinkään vaan pysyy pitkään, niin kauan kuin rakennus on pystyssä tallessa.
+
+Yhteen hieman virheelliseen näkökulmaan haluan puuttua. Edustaja Modig, sinällään
+hyvä puheenvuoro, voimakas puolustus ilmastopolitiikalle, mutta siihen, että uusiutuvat
+liikennepolttonesteet olisivat jotenkin puupohjaisia tai puuperäisiä, totean, että käytännös-
+sä kaikki Suomessa tällä hetkellä tuotettavat uusiutuvat liikennepolttonesteet pohjaavat jä-
+temateriaaleihin, erilaisiin jäterasvoihin, tai sitten puupohjaista on toki selluteollisuuden
+sivutuotteena syntyvä mäntyöljy. Mutta tarkoitus on, että juuri kiertotalouden hengessä,
+mitä moni teistä korosti, näitten jätemateriaalien mahdollisimman tehokas hyväksikäyttö
+uusiutuvissa liikennepolttonesteissä jatkuu.
+
+Kiitän ryhmiä vahvasta tuesta tälle kunnianhimoiselle ilmastotyölle, jota hallitus tekee.
+
+Puhemies Maria Lohela:  Nyt on mahdollisuus käyttää vastauspuheenvuoroja tässä kes-
+kustelussa. Pyydän teitä edustajia ilmoittautumaan.
+
+15.27 Petri Honkonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Sipilän hal-
+lituksen ilmastopolitiikka on kunnianhimoista, kuten tässä kuulimme. Ilmastoministeri
+Tiilikainen juuri totesi omassa puheenvuorossaan, että Ruotsi ja Suomi ovat tällä pallolla
+ainoita maita, jotka ovat päättäneet tehdä oman maansa hiilineutraaliksi vuoteen 2045
+mennessä. Meidän tulee muistaa tämä pitkän tähtäimen kunnianhimoinen tavoite, johonka
+nyt myös tällä lyhyen tähtäimen ohjelmalla pyritään.
+
+ Näissä puheenvuoroissa on paljon nyt tullut keskustelua biopolttoaineista. Suomen lin-
+jahan on sekä—että. Mahdollistamme sähköautojen määrän kasvattamisen ja sitten no-
+pean päästöjen vähentämisen biopolttoaineiden sekoitevelvoitteella. Ymmärsinkö nyt oi-
+kein, että sekä vihreillä että vasemmistolla on linjana se, että lyhyellä tähtäimellä jatkam-
+me fossiilisen öljyn käyttöä nykyiseen malliin emmekä pyri nopeisiin päästövähennyksiin,
+jotka ovat mahdollisia nimenomaan tämän sekoitevelvoitteen laajentamisen kautta? [Satu
+Hassi: Olisi kannattanut kuunnella puheenvuorot!]
+17
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+15.28 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Kiitos ministe-
+reille Berner ja Tiilikainen tärkeän asian eteenpäinviemisestä. Tämä liikenneasia tässä on
+tullut monesta eri näkökulmasta esille, ja sehän on aivan ratkaisevassa roolissa. Yhtenä yk-
+sityiskohtana liikenteestä nostan pyöräilyn eteenpäinviemisen, mihin myös jonkin verran
+puutuitte.
+
+Vierailimme eilen ympäristövaliokunnan kanssa Tampereen teknillisellä yliopistolla, ja
+siellä liikenteen tutkimuksen Verne-yksikössä käytiin myös kaupunkipyöräilyä lävitse.
+Kun tämä kaupunkipyöräjärjestelmä on täällä pääkaupunkiseudulla ja Helsingissä saanut
+hyvän vastaanoton, kansalaiset tykkäävät siitä, ilkivaltaa ei juuri esiinny, kilometrejä tulee
+paljon, niin olen huolestunut siitä, että tämä järjestelmä ei ikään kuin pirstaloituisi sillä lail-
+la, että se on eri kaupungeissa erilainen — vai olisiko mahdollista, että se järjestelmä olisi
+skaalattavissa koko maahan? Pyörät voivat olla erimerkkisiä, mutta se lippu, PIN-koodit
+ynnä muut olisivat kaikkialla samanlaisia.
+
+15.30 Tuula Haatainen sd (vastauspuheenvuoro): Arvoisa puhemies! Haluan nostaa
+esiin tässä myös kysymyksen siitä, että kun muutosta tehdään ja tarvitaan muutosta siihen,
+että syntyy vihreitä laadukkaita työpaikkoja, ja kun halutaan investoida vähähiiliseen tek-
+nologiaan ja tutkimukseen, niin pitää kiinnittää huomiota myös näihin työpaikkoihin ja nii-
+den laatuun. Samalla myös korostan sitä, että pitäisi puhua myös siitä, miten työntekijöi-
+den osaamiseen täytyy satsata. Eli kun maailma muuttuu, tarvitaan myös osaamisen päivit-
+tämistä, ja tästä syystä ilmaston näkökulmasta on tärkeää kiinnittää huomiota myös niiden
+työntekijöiden osaamisen päivittämiseen, joiden elanto riippuu fossiilisesta taloudesta.
+Tällä haluan peräänkuuluttaa sitä, että tämä muutos on myös sosiaalisesti kestävä, ja toi-
+voisin, että tämä olisi hallituksen toimenpideohjelmassa myös keskeisesti mukana.
+
+15.31 Kaj Turunen si (vastauspuheenvuoro): Arvoisa puhemies! Kun kuuntelin nämä
+ryhmäpuheet, niin lopputulos on kuitenkin se, että se johtopäätös on, että kaikki eduskun-
+taryhmät ovat näissä ilmastotalkoissa mukana ja tämän ilmastosuunnitelmankin puolella.
+Ehkä tietysti ovat tämmöiset aikataulukysymykset tai painotuseroja hiukan.
+
+Tuohon vihreitten puheenvuoroon ei voi olla kommentoimatta sitä, että kyllä Suomen
+päästöt ovat kuitenkin niin pienet, että se ei auta mitään, vaikka me sammutamme Suomes-
+ta valot. Maailma ei sillä kyllä pelastu.
+
+Meidän pitää muistaa se, että Suomi on osa Eurooppaa ja EU:ta, ja EU on yksi Pariisin
+ilmastosopimuksen osapuoli. Siksi korostin omassa ryhmäpuheessanikin sitä, että nämä
+päästöjen vähennykset täytyy tehdä oikea-aikaisesti ja oikearytmisesti niin, ettei tule mi-
+tään hiilivuotoa. Kun nyt tässä edustaja Haatainenkin viittasi näihin työpaikkoihin, niin
+tämä on suuri mahdollisuus saada cleantech-alalta uusia työpaikkoja. Mutta ei tehdä sitä
+rakennemuutosta kuitenkaan liian nopeasti, niin että menetetään perinteiset työpaikat ja
+sitten jäädään odottamaan näitä cleantechin työpaikkoja, vaan tämä rakennemuutos näis-
+säkin [Puhemies koputtaa] täytyy tehdä hallitusti.
+
+15.32 Lea Mäkipää si (vastauspuheenvuoro): Arvoisa puhemies! Täytyy todeta ensin,et-
+tä tätä kiertotaloutta tulee edistää joka tavalla, ja sanotaan usein, että toisen jäte on toisen
+raaka-aine.
+
+Sitten toiseksi otan esille tämän, että nyt kaikkien pitäisi luopua 2030-luvulla kivihiiles-
+tä. Otan vain yhden näkökulman tähän: onko meillä energiahuoltoa. Juuri huoltovarmuu-
+18
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+den osalta tiedämme tänäkin päivänä, että jos on kovia pakkasia tammikuulla, niin ener-
+giapiikki on korkealla, eli tiedetään, että tämmöisiin poikkeusoloihin kivihiiltä on hyvä va-
+rastoida, niin ettei nyt aivan laiteta sitä kivihiiltäkään loppuun.
+
+Kolmanneksi haluan ottaa esiin nämä metsänhakkuut. Sehän on tänä päivänä totisinta
+totta, mutta sanon myös, että kunnollinen metsänhoitaja ei jätä sitä aukkoa vaan istuttaa sen
+aikanansa. Esimerkiksi mänty kulminoituu jo 50—60 vuoden perästä, eli teollisuus [Puhe-
+mies koputtaa] voi ostaa, ja tulevat sukupolvet voivat nauttia tästä vihreästä kullasta.
+
+15.33 Martti Mölsä si (vastauspuheenvuoro): Arvoisa puhemies! Tässä selonteossa ta-
+voitteet ovat hyvät, [Eduskunnasta: Miten tämä näin menee? — Ryhmäkierros ensin!] mut-
+ta strategioissa on ainakin kaksi eri suuntaa tai vikaa: ne joko toteutuvat eri tavalla tai jää-
+vät kokonaan toteutumatta. Toivotaan, ettei ainakaan näin kävisi.
+
+Oma tavoitteeni oli Punkalaitumella kotikunnassani, että jo vuonna 2015 Punkalaidun
+olisi [Silvia Modig: Työjärjestykseen, puhemies, ryhmäkierros!] kokonaan omavarainen,
+mutta toisin kävi, tuli jytky 2011, jolloin jouduin lähtemään tänne eduskuntaan. Toinen
+vielä suurempi asia oli, että öljyn hinta romahti eli kilpailukyky menetettiin tässä asiassa.
+Mutta tällä hetkelläkin kotikuntani Punkalaidun on 65-prosenttisesti omavarainen tässä ko-
+timaisessa energiassa, kaikki kotitaloudet ja kiinteistöt mukaan lukien, eli työ jatkuu. Hal-
+lituksen biotalous ja puhtaat ratkaisut tukevat tätä strategiaa voimakkaasti, ja se on erittäin
+hyvä asia.
+
+15.34 Antero Vartia vihr (vastauspuheenvuoro): Arvoisa puhemies! Arvoisa ministeri
+Tiilikainen, kun sanoitte, että näissä ryhmäpuheenvuoroissa ei kuulunut ehdotuksia, mitä
+tulisi tehdä, niin sanoin, että turvetta verotetaan edelleen kevyesti, vaikka se on haitalli-
+sempaa kuin kivihiili, sanoin, että juuri luotiin uusi saastutustuki, päästökauppakompen-
+saatio, sanoin, että fossiilisen energian verotuotot ovat yhä satoja miljoonia vuosittain. Eh-
+dotukseni nyt siis on: tehkää täysin päinvastoin, koska näillä on kuitenkin huomattavasti
+suurempi vaikutus, ja kuvaamaan mittakaavaa: päästökaupan kompensaatio ja energiave-
+ron palautus on yhteensä vuosittain 257 miljoonaa, kun energia- ja ilmastostrategian toi-
+meenpanoon on varattu 48 miljoonaa, ja nämä ohjaavat päinvastaisiin suuntiin. Tässä on
+kyse arvovalinnasta, jota en usko, että tehtäisiin, jos tässä salissa ymmärrettäisiin parem-
+min, millaiset seuraukset ilmastonmuutoksella pahimmillaan on.
+
+Edustaja Turuselle kysymys: jos Kiina jaettaisiin sataan osaan, niin voisimmeko todeta,
+että kiinalaisten valtioiden päästöillä ei olisi mitään väliä, [Puhemies koputtaa] koska ne
+ovat niin pieniä jokainen?
+
+15.36 Silvia Modig vas (vastauspuheenvuoro): Arvoisa herra puhemies! Ministeri Tiili-
+kaiselle: Juuri biopolttoainetta käytin esimerkkinä juuri tämän takia, mihin edustaja Vartia
+viittasi. Panostuksen pitää olla siellä, missä hyöty on kaikkein suurin. Siitä olen hallituk-
+sen valintojen kanssa eri mieltä.
+
+Edustaja Honkonen kysyi sitä, mikä olisi sitten vasemmistoliiton lyhyen aikavälin visio
+liikenteen suhteen. Me ilmeisesti olemme kunnianhimoisempia kuin te. Katsotaan, miten
+sähköautojen teknologia kehittyy, miten akut kehittyvät, miten sähköauton valmistuksen
+hinta tulee alaspäin. [Anne Kalmari: Ostaako, vasemmistoliitto, köyhät sähköauton?] Se
+mahdollistaa paljon kunnianhimoisemman polun kuin mitä nytten on valittu.
+19
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Mutta siitä haluan antaa kiitosta Tiilikaiselle, että olen aivan samaa mieltä kuntien roo-
+lista. Ilokseni voin kertoa, että Helsinki hyväksyi tänään oman strategiansa, jossa hiilineut-
+raaliustavoite on 2035, Espoo pisti paremmaksi, 2030, joten kunnista löytyy kunnianhi-
+moa ja mahdollisuutta vaikuttaa. Mutta se globaali näkökulma on hallituksen vastuulla, ja
+sen takia tämä hiilinielujen vertailutason määrittäminen on niin olennainen kysymys. Se on
+sama keskustelu kuin aikoinaan käytiin päästövähennystavoitteesta, kun päästiin siihen,
+että vuosi 90 on se vertailutaso. Kyllähän me ymmärrämme, että ilman tuota vuosilukua
+emme me pystyisi vertailemaan päästövähennyksiä keskenään. [Hanna Halmeenpää: Hy-
+vä, Silvia!]
+
+15.37 Olli Immonen ps (vastauspuheenvuoro): Arvoisa puhemies! Pariisin ilmastoko-
+kouksessa on tehty viimeisin maailmanlaajuinen ilmastosopimus, jonka tavoitteena on ra-
+joittaa maapallon keskilämpötilan nousu alle 2 asteeseen. Tämä vaatii radikaaleja toimen-
+piteitä, joista voi herätä huoli kotimaisen teollisuuden pärjäämisestä alati kiristyvien mää-
+räysten keskellä. Tämän lisäksi Euroopan unionista tulevat direktiivit ja kiristyvät päästö-
+tavoitteet voivat johtaa siihen, että esimerkiksi rakennuskustannukset alkavat karata käsis-
+tä, jos sääntely on liian tiukkaa alalla.
+
+Arvoisa puhemies! Kysyisinkin asianosaiselta ministeriltä: miten suomalaisen teollisuu-
+den pärjääminen ja rakennuskustannusten pysyminen kohtuullisena aiotaan ottaa huo-
+mioon esimerkiksi tulevien alaa koskevien lakien valmistelussa?
+
+15.38 Anders Adlercreutz r (vastauspuheenvuoro): Ärade talman, arvoisa puhemies! Il-
+mastotyöhän on toki kansallinen asia, mutta mitä suurimmassa määrin myöskin kansain-
+välinen. Ilmastokestävyyttä edistävän kehitysyhteistyön toteutuma 2015 oli 245 miljoo-
+naa, seuraavana vuonna 189 miljoonaa, ja tälle vuodelle se näyttää pysähtyvän 165 miljoo-
+nan euron lukemaan — suuntahan tässä on selkeästi väärä. Pariisin ilmastosopimuksesta
+huolimatta Suomen ilmastokestävyyttä edistävän kehitysyhteistyön rahoitus on laskenut.
+Pudotusta on ollut 80 miljoonaa euroa viimeisten vuosien aikana. Miten hallitus vastaa tä-
+hän? Miten te näette nämä kansainväliset velvoitteet osana tätä ilmastopoliittista ohjel-
+maa? Onko meillä tässä asiassa kansainvälinen vastuu, kansainvälinen tehtävä, vai kat-
+sommeko tilannetta pelkästään oman maamme rajojen sisäpuolella?
+
+15.39 Sari Tanus kd (vastauspuheenvuoro): Arvoisa puhemies! Suomessa on energia- ja
+ympäristöosaamista. Viennin edistämiseksi suomalaiselle energia- ja ympäristöosaamisel-
+le tarvitaan kuitenkin kansallisia referenssejä. Referenssejä voidaan edistää innovatiivisil-
+la julkisilla hankinnoilla, ja hyviä kokemuksia tällaisista uusista hankinta- ja toimintamal-
+leista on saatu esimerkiksi Suomen ympäristökeskuksen vetämässä Hinku- eli Kohti hiili-
+neutraalia kuntaa -hankkeessa ja myös Sitran vaikuttavuusinvestointeja tukevilla SIB-ra-
+hastoilla. Kysyisinkin ministeriltä: miten hallitus edistää ja pyrkii levittämään näitä hyviä
+hankinta- ja toimintamalleja hyvinä käytänteinä?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustajat, äsken oli tarkoitus käydä
+kierros ryhmäpuhujien mukaisessa järjestyksessä. Tässä minun papereissani oli eräällä
+ryhmällä kaksi puheenvuoroa peräkkäin, mutta toivottavasti ei hirveän suurta vahinkoa ta-
+pahtunut, [Eduskunnasta: Kolme!] eikä varmaan tapahtunutkaan.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Nyt siirrytään jatkamaan debattia. Pyydän nyt niitä edustajia, jotka haluavat käyttää vas-
+tauspuheenvuoron, nousemaan ylös ja painamaan V-painiketta.
+
+15.40 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Me puhumme kyl-
+lä sekä Suomen että Euroopan että maailman kohtalonkysymyksestä, kun puhumme siitä,
+miten tässä ilmastonmuutoksessa otetaan asiat haltuun. Haluan tällä kertaa antaa tunnus-
+tusta hallitukselle. Usein sanotaan, että oppositiosta esitetään aina ne kaikki puutteet. Ei tä-
+mäkään täydellinen ole, mutta kyllä perusura, jonka hallitus on tässä valinnut, on sinällän-
+sä oikea, ja tärkeätä on myös se, että tämä käsittely täällä voi tapahtua varsin laajan yhteis-
+ymmärryksen oloissa. Mikään näistä toimista ei ole sellainen, jossa vaalikausi olisi riittä-
+vä, vaan tämä on usean vaalikauden urakka, ja kun tämä tavoiteasetanta on yhteinen, niin
+uskon, että siitä seuraa myös käytännön toimia tämän vaalikauden jälkeenkin.
+
+15.41 Petri Honkonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Kun tässä
+nyt on nostettu tämä nieluasia myös esille, haluan todeta sen, että Suomen pitkä linja ilmas-
+topolitiikassa eri ympäristöministerien, niin Hassin, Niinistön kuin Tiilikaisen, aikana on
+ollut sama eli se, että pyritään nielujen kasvattamiseen ja kuitenkin siten, että pystymme
+osan tästä kasvavasta puumäärästä hyödyntämään. 
+
+On mielenkiintoista nyt tämä keskustelu siinä mielessä, että [Satu Hassin välihuuto]
+täällä sanotaan, että hallitus lisää puun käyttöä. Suomen hallitus ei hakkaa puuta metsästä.
+Suomen hallitus ei valmista sellua, ei paperia, vaan suomalaisten metsäteollisuustuottei-
+den kysyntä maailmalla kasvaa, ja siitä tulee voimakkaan kiertotalouden käyttöön ylijää-
+mää, erilaisia jakeita, joista sitten voidaan valmistaa edistyneitä biopolttoaineita. Tämä jos
+mikään on mielestäni resurssiviisautta ja ilmaston kannalta hyvä: hyödynnetään tarkkaan
+se, [Puhemies koputtaa] mitä metsästä milloinkin otetaan.
+
+15.43 Sari Multala kok (vastauspuheenvuoro): Arvoisa puhemies! Tarvitsemme erilai-
+sia toimenpiteitä lyhyellä ja pitkällä aikavälillä, ja nyt liikenteen muuntamisessa vähäpääs-
+töiseksi ja päästöttömäksi pitkällä aikavälillä erinomainen toimenpide on esimerkiksi tu-
+kea sähköautoihin ja biokaasumuunteisiin autoihin siirtymistä. Olen kuitenkin ymmärtä-
+nyt, että tällä alalla ei ole kovin paljon toimijoita, jotka tätä tekevät. Miten ministeri arvioi:
+minkälaisiin volyymeihin voidaan päästä tällä saralla?
+
+Toinen kysymykseni koskee tavoitetta kävely- ja pyöräilymatkojen lisäämisestä. Tä-
+män edistämiseksi ollaan tekemässä toimenpideohjelmaa yhteistyössä kuntien kanssa.
+Mitä toimenpiteitä tämä tulee pitämään sisällään?
+
+15.43 Hanna Halmeenpää vihr (vastauspuheenvuoro): Arvoisa puhemies! Hallitus esit-
+tää liikenteen biopolttoaineiden sekoitevelvoitteen nostamista 30 prosenttiin sekä 10 pro-
+sentin sekoitevelvoitetta työkoneille ja erillislämmitykselle. Nämä toimet pidentävät öl-
+jyyn nojaavien teknologioiden käyttöä sen sijaan, että liikenteessä vaihdettaisiin nopeam-
+min sähköön ja biokaasuun [Anne Kalmarin välihuuto] ja lämmityksessä nopeammin esi-
+merkiksi maalämpöön ja lämpöpumppuihin.
+
+Edustaja Honkoselle aikaisempaan huomioon vastauksena myös, että vihreät ovat sitä
+mieltä, että biopolttoaineet tulisi ohjata ensisijaisesti kohteisiin, joissa vaihtoehtoisia käyt-
+tövoimia ei vielä ole, kuten raskaaseen maantieliikenteeseen ja lentoliikenteeseen. Arvoi-
+21
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+sa ministeri, miten hallitus on ottanut nämä näkökulmat huomioon biopolttoaineiden koh-
+dalla?
+
+15.44 Hanna Sarkkinen vas (vastauspuheenvuoro): Arvoisa puhemies! Maankäytön il-
+mastovaikutusten laskentasääntöä päätettäessä tulee pitää mielessä Immanuel Kantin kate-
+gorinen imperatiivi: toimi siten, että toimintatavastasi voitaisiin tehdä yleinen, kaikkia kos-
+keva laki. Tässä tapauksessa se tarkoittaa, että Suomen kannan maankäytön ilmastovaiku-
+tusten laskentasäännöksi tulee olla sellainen, että se on kestävä ilmastonmuutoksen torjun-
+nan näkökulmasta, vaikka kaikki maailman maat toimisivat sen mukaisesti. [Satu Hassi:
+Juuri niin!] Kyse ei ole vain moraalisesta pohdinnasta, sillä EU:n LULUCF-laskennat tu-
+levat todennäköisesti vaikuttamaan globaaleihin normeihin, eli myös sademetsävaltio Bra-
+silia toimii niiden mukaisesti. 
+
+Arvoisa puhemies! On esitettävä kysymys, onko ilmastonmuutoksen torjunnan kannal-
+ta kestävä normi se, jos maat saavat käytännössä itse määritellä vertailutason ja jos netto-
+päästöjä ei tarvitse lainkaan vähentää ennen vuotta 2030.
+
+15.45 Anne Kalmari kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Haluaisin
+vihreiltä kysyä: Mitä he esimerkiksi Helsingissä yhdistettyyn lämmön- ja sähköntuotan-
+non kattilaan haluaisivat laittaa? Miksi on jotain pahaa siinä, että auto liikkuu Nesteen kier-
+rätettävällä biopolttoaineella versus kivihiilellä tai Hanhikiven tulevalla ydinvoimalla tuo-
+tetulla sähköllä? 
+
+Haluaisin tälle salille selventää metsien monimuotoisuusasiaa seuraavasti: Suomessa on
+20 miljoonaa hehtaaria hyvää talousmetsää. Jos meillä on noin 100 000 metsähehtaaria,
+joita korjataan, meillä on 19 900 000 metsähehtaaria, joihin ei kosketa, ja sen lisäksi kaik-
+ki suojelukohteet. Miettikää, miten pientä osaa siitä metsästä loppujen lopuksi käytetään.
+[Puhemies koputtaa] Totta kai monimuotoisuuden turvaaminen on tärkeää, ja siksi on hy-
+vä, että Metso sai rahaa. [Satu Hassi: Hiilinielut pienenevät, jos hakkuut kasvavat!]
+
+15.47 Hanna Halmeenpää vihr (vastauspuheenvuoro): Arvoisa herra puhemies! Tietysti
+näin Pohjois-Pohjanmaan Kalajoen kuntapäättäjänä on vähän vaikea ottaa Helsingin kun-
+tapolitiikkaan kantaa, [Silvia Modig: Siitä vaan!] mutta jos olen oikein ymmärtänyt, niin
+käsittääkseni täällä Helsingin kaupunginvaltuustossa juuri vihreiden aloitteesta on ajettu
+läpi päätös sulkea kivihiilivoimala, arvoisa edustaja Kalmari. Omassa kotikunnassani Ka-
+lajoella käytetään kyllä kaukolämpöverkossa yli 80-prosenttisesti uusiutuvaa energiaa, ja
+henkilökohtaisesti käytän sitä 100-prosenttisesti oman taloni lämmityksessä. 
+
+Mitä tulee tuohon metsien monimuotoisuuteen, arvoisa herra puhemies, valitettavasti on
+todettava, että Etelä-Suomen metsien suojeluohjelma Metson rahoitus ei ole sellainen, että
+sillä voitaisiin kuitata koko Suomen metsien monimuotoisuuden turvaaminen. Metso-ra-
+hoja on leikattu toistuvasti, eikä niitä ole tälläkään hallituskaudella oikeasta suunnasta huo-
+limatta palautettu ennalleen, ja tulee muistaa, että metsää kasvaa Etelä-Suomen ulkopuo-
+lella, Pohjois-Suomessakin.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Vielä tähän ehdottomasti viimeinen
+puheenvuoro. 
+22
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+15.48 Anne Kalmari kesk (vastauspuheenvuoro): Arvoisa herra puhemies! On todella-
+kin hyvä, että Metso-rahoja lisättiin, mutta haluan myös kertoa sen faktan, että noin 33 pro-
+senttia suojeltavista lajeista on Suomen metsissä. Lähes yhtä paljon on esimerkiksi luon-
+nonniityillä. Minä toivoisin, että vihreät olisivat yhtä kiinnostuneita esimerkiksi kotieläin-
+talouden turvaamisesta, jolla saamme näitä erittäin uhanalaisia lajeja suojeltua. [Hanna
+Halmeenpää: Olemme kiinnostuneita!] Esimerkiksi lahopuun määrä kasvaa Suomen maa-
+kunnissa, lähes jokaisessa maakunnassa, ja kovakuoriaisten määrä lisääntyy, ja totta kai
+töitä näissäkin asioissa lisää pitää tehdä, mutta ei pidä maalata sellaisia uhkakuvia, että
+metsät loppuvat tai monimuotoisuus katoaa, jos metsien käyttöä [Puhemies koputtaa] kes-
+tävästi lisätään. Se on sekä Suomen etu että Suomen ja [Puhemies koputtaa] koko maail-
+man hiilinielulle etu. 
+
+15.49 Leena Meri ps (vastauspuheenvuoro): Arvoisa puhemies! Kiitän edustaja Olli Im-
+mosta, joka toi hyvin esille perussuomalaisten huolenaiheita ja myös sen, että meidän tulee
+huolehtia siitä, että meillä Suomessa säilyy työtä ihmisillä. Olisin oikeastaan siksi kysynyt
+ministeriltä: Kuinka paljon tehdään töitä sen eteen — kuuluu varmaan toisenkin ministeri-
+ön alalle — että me saisimme tämän win-win-tilanteen? Elikkä kun meillä on, juurikin niin
+kuin kerroitte, tätä polttoaineen tekoa jätemateriaalista ja muun muassa Afrikan maissa on
+valtava jäteongelma, niin kuinka me saisimme sinne vietyä teknologiaa? Sehän olisi paras-
+ta kehitysapua: kumpikin voittaa. Ei tarvitsisi aina viedä pelkkää rahaa. Miten tämmöiset
+hankkeet edistyvät? Tuntuu jotenkin, että niistä ei oikein puhuta vaan puhutaan aina vain
+siitä, kuinka paljon euroja bruttokansantuotteesta annetaan kehitysapua. Tulisivatko täm-
+möiset hankkeet kysymykseen, ja miten niitä voisi edistää? Meillähän on varmasti ihan
+mielettömästi osaamista. Voisiko ministeri nyt kertoa, miten kaikki voittavat, sekä Suomi
+että Afrikka ja ilmastonmuutos myöskin? 
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Myönnän vielä debatin tässä vaihees-
+sa vastauspuheenvuorot edustajille Paatero ja Kiuru ja sen jälkeen ministerille 3 minuuttia.
+
+15.50 Sirpa Paatero sd (vastauspuheenvuoro): Arvoisa herra puhemies! On hienoa kes-
+kustella täällä nyt ilmastoon liittyvistä asioista, koska toissa viikolla keskusteltiin kestävän
+kehityksen 2030-linjauksista ja nämä liittyvät erittäin kiinteästi yhteen.
+
+Meillä on paljon tehtävää kuluttajien erilaisen tietotaidon ja ymmärryksen parantami-
+sessa, jotta meidän kaikkien käyttäytyminen muuttuu, mutta poliittiset päätökset ovat ne,
+jotka ohjaavat myöskin kuluttajien toimintaa. Tästä syystä on erittäin hyvä esimerkki, että
+saatiin ilmastolaki voimaan 2015, ja tästä syystä sosiaalidemokraatit ovat pitäneet hyvin
+tiiviisti esillä kiertotalouden teemoja ja siihen tehtäviä uusia linjauksia, jotta kaikki jätevir-
+rat ja muut saataisiin mahdollisimman hyvään kiertoon.
+
+Huolissani olen hieman siitä — kun meillä on kuitenkin kansainvälinen vastuu myöskin
+tässä ilmastoasiassa — mitenkä ovat meidän ilmastorahastoihin laitettavat osuutemme
+meidän kehitysyhteistyössämme ja toisaalta kehitysyhteistyörahamme, niin että niissä
+maissa, joissa itse asiassa ollaan paljon pienemmillä päästöillä nykyisin, pystyttäisiin
+ruoantuotantoa, työpaikkoja ynnä muuta luomaan [Puhemies koputtaa] niin, että se voi-
+daan tehdä ilman päästöjä.
+23
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+15.51 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa herra puhemies! Pyöräilystä vielä
+jatkan. Ministeri Tiilikainen, mitkä keinot teidän mielestänne voisivat olla sellaisia, jotka
+auttaisivat pyöräilyn edistämistä nopeiten ja tehokkaimmin? Olen kuullut ajatuksia kotita-
+lousvähennyksen laajentamisesta pyörähuollon osalle ja kilometrikorvauksen tarkistami-
+sesta. Ja sitten kaupunkipyöräjärjestelmään vielä: jos sitä skaalataan laajemmin, niin voi-
+siko siihen ajatella sähköpyörän mukaan tuomista jollain tavalla?
+
+Sitten edustaja Modig toi esille tämän, että hallituksen tavoite sähköautoilun edistämi-
+sestä on kunnianhimoton. 250 000 autoa vuonna 2030 on hyvä minimitavoite. Mielelläni
+kuulisin, mikä on teidän mielestänne oikea tavoite. [Petri Honkosen välihuuto]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja ministeri, 3 minuuttia.
+
+15.52 Asunto-, energia- ja ympäristöministeri Kimmo  Tiilikainen:  Arvoisa puhe-
+mies! Muutamia vastauksia konkreettisiin kysymyksiin:
+
+Edustaja Kiuru kysyi pyöräilyn edistämisestä ja kaupunkipyörä-asiasta. Ministeri Ber-
+ner lähtiessään pyysi toteamaan, että tuohon seuraavaan liikennelakipakettiuudistukseen
+sisältyy ajatus velvoittaa yhteensopivat kaupunkipyöräjärjestelmät eri puolille maata. Mui-
+ta keinoja edistää pyöräilyä ovat tietenkin kevyen liikenteen väylien rakentaminen ja infor-
+maatio. Tuleeko erilaisia taloudellisia kannusteita esimerkiksi työmatkajuttuihin tai näin,
+sen aika näyttää. Mielenkiinnolla otamme ideoita vastaan.
+
+Kiitän edustajia Heinäluoma ja Paatero, toitte mainiosti esille pitkäjänteisyyden. Nyt il-
+mastolaki on tehty, se nautti laajaa tukea viime kaudella, nyt sen mukaan on tehty ilmas-
+tosuunnitelma, ja, kuten täällä todettiin, tarvitsemme pitkäjänteisiä toimia tästä eteenpäin.
+Juuri näin.
+
+Teollisuuden kilpailukyvystä, rakennuskustannuksista edustaja Immonen kysyi. Raken-
+nuskustannusten hillintä, jos energiatehokkuusvaatimuksia tiukennettaisiin, on aiheelli-
+nen kysymys. Senpä takia olemme lanseeranneet ympäristöministeriössä ajatuksen lähteä
+kehittämään rakentamiseen normistoa, missä katsotaan koko elinkaaren aikaista hiilijalan-
+jälkeä. Tämä energiatehokkuuden tie on tietyllä lailla käyty loppuun. Nyt täytyy katsoa,
+miten voidaan rakennusmateriaalien ja sen tuotannon ja myös purkuvaiheen osalta alentaa
+vielä hiilijalanjälkeä kokonaisuutena jatkossa.
+
+Teollisuuden kilpailukyvystä muutama oli täällä huolissaan. Se liittyy tietysti päästö-
+kauppaan, mutta vastaanpa nyt siihenkin. Eli olen erittäin tyytyväinen tuohon päästökaup-
+paratkaisuun, mikä EU:n sisällä on saatu, koska se vähentää riittävän nopeasti päästöjä
+mutta samalla meille suomalaisille tärkeät energiaintensiivisen teollisuuden alat saavat riit-
+tävästi ilmaisia päästöoikeuksia. Tämä hyvä.
+
+Uudet teknologiat ja niiden vientimahdollisuudet toki toivottavasti tulevat realisoitu-
+maan. Itse lähden esimerkiksi ensi viikolla Intiaan bisnesdelegaation kanssa nimenomaan
+energiateknologiaan liittyvälle reissulle.
+
+Mutta sitten edustaja Vartia, pohditte eri polttoainemuotojen verotusta. Sekin menee nyt
+etupäässä ehkä tuonne päästökauppasektorille, mutta kyllä olen huolissani tästä, miten
+päästökauppasektorilla voitaisiin myös nopeasti päästöjä vähentää. Nimittäin 2016 kauko-
+lämmön tuotannossa päästöt kasvoivat sen takia, että kivihiilen käyttö lisääntyi. Se koros-
+taa sitä, että hallituksen täytyy edetä tässä hiilenkieltolaissa vuoteen 2030, koska muuten
+kaupungit eivät näköjään riittävän ripeästi etene.
+24
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Mutta samalla joudun valitettavasti toteamaan sen, että vihreät ja vasemmistoliitto, te
+yhdessä olitte viime kaudella korottamassa sähköveron palautusta, laajentamassa sitä yhä
+uusille aloille, ja nyt kritisoitte sitä ympäristölle haitallisena tukena. Mutta miksi korotitte
+sitä viime kaudella?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Tälle keskustelulle oli varattu tässä
+vaiheessa 2 tuntia aikaa. Keskustelua jatketaan sitten päiväjärjestyksen muiden asioiden
+tultua käsitellyiksi, mutta koska keskusteluun päästiin välikysymysesittelyn vuoksi vartin
+myöhässä, nyt jatkamme vielä vajaat 15 minuuttia.
+
+15.56 Markus Lohi kesk (vastauspuheenvuoro): Arvoisa puhemies! Täällä otettiin esille
+pohjoisen metsät ja niiden suojelu. Täytyy lappilaisena todeta, että kun meidän maakun-
+nassamme pinta-alasta on kolmasosa suojeltu, niin me ajattelemme, että kun siitä jäljellä
+olevasta maasta osa on metsämaata ja siitäkin hyödynnetään vain noin 50 prosenttia, niin
+meille kyllä mahtuu yksiköitä, biotalouden tehtaita, jotka muun muassa liikennepolttoai-
+neita tuottaisivat biotaloudesta ja hyödyntäisivät hieman enemmän sitä vuotuista metsän
+kasvua, joka koko ajan lisääntyy siellä pohjoisessakin.
+
+Jos me aiomme näinkin kovan tavoitteen ottaa kuin nyt on hallitus ottanut, että Suomi
+hiilineutraaliksi, niin tähän tarvitaan pitkäjänteinen kokonaissuunnitelma, ja jos siihen si-
+sältyy vaikkapa puurakentamisen lisääminen, joka on erittäin hyvä tavoite, niin ei voi olla
+niin, että ajatellaan, ettei metsiä hakata yhtään, kun puutavarahan saadaan sieltä sahalta. Ei
+tarvita maataloutta, kun maitoa saa kaupasta — tämmöinen ajattelu ei voi sisältyä tähän.
+Sen takia minä erittäin ilolla kyllä otan vastaan tämän [Puhemies koputtaa] hallituksen lin-
+jan, mikä täällä on.
+
+15.57 Antti Rinne sd (vastauspuheenvuoro): Arvoisa puhemies! Tavoite hiilineutraalista
+Suomesta 2045 on hyvä. Ratkaisua ei voi siirtää 2030:n jälkeiseen aikaan. On ihan selvää,
+että lähivuodet 2018—2020 ovat aivan kriittisiä. Nyt on tärkeää panostaa ihmisten asen-
+teitten muutokseen, ja tärkeää on se, miten kuluttajan näkemystä ilmastoviisaista päätök-
+sistä vahvistetaan. Kotimaisuus on tärkeää nostaa kärkeen, myös asunto- ja aluerakentami-
+nen, tiivis asuminen, joukkoliikenteen kehittäminen ja kaupunkipolitiikan mahdollisuudet.
+
+Mutta, arvoisa ministeri, olen kiinnostunut siitä, että kun nyt näyttää siltä, että sähköau-
+toilu on se voittajaenergiamuoto autoissa, voittajateknologia, niin useat maat ovat kieltä-
+mässä polttomoottoriautot. Tässä kun nyt Suomi niin vahvasti biopolttoaineisiin henkilö-
+autoilunkin osalta varustautuu, miten näette tämän sähköautoilun [Puhemies koputtaa] tu-
+levaisuuden?
+
+15.58 Antero Vartia vihr (vastauspuheenvuoro): Arvoisa puhemies! Istun talousvalio-
+kunnassa, ja käsittelemme siellä usein asioita, jotka liittyvät energiapolitiikkaan. Siellä pu-
+hutaan muun muassa päästökaupasta — olkoonkin, että se on tämän ulkopuolella, mutta
+nyt kun siitä on mainittu, niin sanon tämän — ja yhteen ääneen toistamme, että ilmaston-
+muutos on aikamme suurin uhka. Yhteen ääneen sanomme, että päästökauppa on pakko
+saada toimimaan, jotta päästöt laskisivat nopeammin. Mutta aina enemmistö sanoo, että
+emme saa tehdä mitään semmoista, mikä nostaa teollisuuden energian hintaa. Jos me ha-
+luamme, että päästökauppa toimii, meidän on vähennettävä päästöoikeuksien määrää, jot-
+ta päästöoikeuden hinta nousee, jotta sillä olisi jokin ohjaava vaikutus. Tämä on se ongel-
+25
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+ma. Me päädymme aina vastustamaan niitä toimenpiteitä, joilla päästöjä vähennetään.
+Sama koskee tämän päivän keskustelua: metsiä saa hakata, mutta jos niitä hakataan niin
+paljon, että tosiasiassa meidän päästömme eivät vähene sinä aikana, kun niiden vähentä-
+misellä on kiire, se täytyy kompensoida konkreettisilla toimilla muualla.
+
+16.00 Kaj Turunen si (vastauspuheenvuoro): Arvoisa puhemies! Tässä jo aiemmin edus-
+taja Vartia kysyi minulta kysymyksen, joka ei ole enää ajankohtainen — mutta itse asiassa
+äsken käytetty puheenvuoro on ajankohtainen. Minä korostaisin sitä, että kun näitä päästö-
+jä vähennetään, tämä yhtäaikaisuus on tässä isossa roolissa, niin että ei tule sitä hiilivuo-
+toa. Tai jos Suomi esimerkiksi etuajassa kunnianhimoisesti tekee sellaisia ratkaisuja, jotka
+käytännössä vievät kansainvälisen kilpailukyvyn, niin kyllä meille suomalaisille jää sitten
+luu käteen. Suomi on osa EU:ta, ja Pariisin ilmastosopimuksessa EU on se yksi osapuoli, ja
+kun me sitten EU:n sisällä neuvottelemme näistä päästörajoituksista, -vähennyksistä — no
+okei, nyt on pikkuisen epäoikeudenmukainen prosentti meillä, mutta sen kanssa tullaan toi-
+meen — niin tämän päästöjen vähentämisen täytyy tapahtua jo EU:n sisällä yhtäaikaisesti
+[Puhemies koputtaa] ja globaalisti yhtäaikaisesti, niin ettei siellä ole niitä tahoja, joille jää
+se luu käteen.
+
+16.01 Laura Huhtasaari ps (vastauspuheenvuoro): Arvoisa puhemies! Maailman parhai-
+siin yliopistoihin lukeutuvan MIT:n tekemän laskelman mukaan Pariisissa ilmoitetuilla
+toimenpiteillä ilmaston arvioitu lämpeneminen hidastuisi 0,2 astetta vuoteen 2100 men-
+nessä. Suomen teollisuuden, kotitalouksien ja maatalouden sekä liikenteen päästöt ovat jo
+minimaaliset verrattuna Puolaan, Romaniaan ja Bulgariaan, jopa Saksaan ja Tanskaan. Ja
+tällä esityksellä on kova hintalappu. Pellervon taloustutkimuksen mukaan kaukolämmityk-
+sen hinta nousee asukkaille noin 40 prosenttia, kotitalouksille vuositasolla 400—600 mil-
+joonaa euroa, teollisuudelle 800—1 200 miljoonaa euroa, ja lisälasku liikenteessä on LM:n
+oman arvion mukaan vielä 800 miljoonaa euroa vuositasolla, joten näiden pitää olla reiluja
+ja oikeudenmukaisia. Kysyisinkin nyt ministeriltä, kun hän on paikalla: voisimmeko me
+korvata kivihiilen turpeella?
+
+16.02 Outi Mäkelä kok (vastauspuheenvuoro): Arvoisa puhemies! Tämä pitkän aikavä-
+lin ilmastopoliittinen suunnitelma sisältää paljon, paljon tärkeitä painopisteitä. Tieliiken-
+teen osuus on tietysti merkittävä, ja ministeri Berner hyvin kävi toimia liikenteen osalta lä-
+pi. Olisin kysynyt häneltä vielä — kun hän totesi, että liikkumisvapautta ei ole tarkoitus ra-
+joittaa — mikä on suhtautuminen ruuhkamaksuihin tulevaisuudessa ja toisaalta, kun oli
+keskustelua myös autokannan ympäristöystävällisemmästä suunnasta, mikä on ajatus työ-
+suhdeautokannan muuttamiseksi vähäpäästöiseksi, mutta hän kerkesi jo lähteä.
+
+Toisaalta ruokahävikin merkitys nousi esiin ja se, mikä on tärkeää, että ihmisille saatai-
+siin kannustusta ja asennemuutosta siihen suuntaan, että voitaisiin toimia itsekin tämän
+ruokahävikin vähentämiseksi. Olisin kuitenkin kysynyt ministeri Tiilikaiselta: onko meil-
+lä näitä sääntelyyn liittyviä asioita, normeja, jotka estävät jollain tavoin tätä ruokahävikin
+[Puhemies koputtaa] vähentämistä, vai onko tämä vain kaupunkitarinaa, että sikaloihin ei
+voida enää viedä koulujen ruokajäämiä?
+
+16.03 Marisanna Jarva kesk (vastauspuheenvuoro): Arvoisa puhemies! Hallitus on to-
+siaan toiminut määrätietoisesti ja johdonmukaisesti ja ottanut kovat tavoitteet ja päättänyt
+26
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+myös käytännön keinoja, miten päästöjä saadaan vähennettyä. Tämä on tärkeää, että on pu-
+heitten lisäksi myös tekoja.
+
+Vielä olisin tuohon vihreitten linjaan tästä hiilinieluasiasta hieman palannut. On harmi,
+että nyt tämä linja on vaihtunut hallitusajoista vihreillä, koska viime kaudella ja aikaisem-
+pien hallituksien aikana kaikki Suomen ympäristöministerit, myös Hassi ja Niinistö, ovat
+ajaneet tätä Suomen mallia sen osalta, että hakkuita pitää pystyä lisäämään, jos tämä hiili-
+nieluasia ei heikkene. Eli meidän metsät kasvavat enemmän kuin niitä käytetään myös jat-
+kossa, myös hakkuutasoa nostettaessa, ja on ihmeellistä, että tämä linja on nyt oppositiossa
+vaihtunut. Ihmettelen kyllä, mikä tässä on. Samalla myös Ruotsin vihreät tukivat Suomen
+mallia, niin että mikä tämä tilanne Suomen vihreillä on? [Puhemies koputtaa] Miksi näin
+eri linja? Myös energiaveron palautuksesta [Puhemies koputtaa] tosiaan olitte päättämässä
+viime kaudella.
+
+16.04 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! Tähän väitteeseen, että
+minun linjani ympäristöministerinä metsänieluissa olisi ollut sama kuin nykyhallituksen:
+Olen netissä kirjoittanut seikkaperäisen selonteon. Vuosina 1999—2002, kun olin ympä-
+ristöministeri, Suomen metsien hiilinielu kasvoi, [Välihuuto keskustan ryhmästä] ja silloin
+oli kysymys siitä, että kun meidän hiilinielumme ja myöskin metsien hiilivarasto kasvoi,
+saimme sellaisen Kioto-ratkaisun, jossa ei näyttäisi siltä, että ne pienenevät. Nyt Suomen
+hallitus haluaa, että kun nykyiset hakkuiden kasvatussuunnitelmat johtavat hiilinielun pie-
+nenemiseen, tämä ei näkyisi meidän ilmastoraportoinnissamme.
+
+Kivihiilestä haluaisin todeta, että tämän vuoden alkupuoliskolla kivihiilen käyttö oli Ti-
+lastokeskuksen mukaan 3 prosenttia yli viime vuoden tason, vaikka vuosituhannen alusta
+se on alentunut 24 prosenttia. Toivoisin, että hallitus olisi oikeasti johdonmukainen toimis-
+saan. Ihmettelen myöskin sitä, että [Puhemies koputtaa] valtioenemmistöinen Fortum [Pu-
+hemies koputtaa] on juuri ilmoittanut ostavansa Uniper-yhtiön, [Puhemies koputtaa] josta
+83 prosenttia on kivihiilienergiaa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt olisi vastauspuheenvuoro edusta-
+ja Haataisella.
+
+16.06 Tuula Haatainen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Julkisia han-
+kintoja tehdään monilla kymmenillä miljardeilla euroilla, ja olisin toivonut, että tässä hy-
+vässä selonteossa olisi painokkaammin painotettu julkisten hankintojen merkitystä. Siellä
+edellytetään näitä innovatiivisia hankintoja, 5 prosentin osuutta julkisista hankinnoista, ja
+näillä voitaisiin sitten turvata myös laadukkaita, kestäviä ja innovatiivisia hankintoja, jot-
+ka myös palvelevat näitä ilmastotavoitteita. Toivoisin, että tämän hallitus ottaisi voimalli-
+sesti nyt esiin, koska kunnat, valtio, julkinen taho, on todella merkittävä toimija monilla eri
+elämänalueilla. Kaiken kaikkiaan näiden hankintojen koko eettinen elämänkaari voisi pai-
+nokkaammin näissä hankinnoissa olla mukana. Kunnat tietysti päättävät itse, mutta siinä
+tämmöinen valtiovallan hyvä ohjaus ja patistaminen on aina paikallaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Myönnän vielä debatin tässä vaihees-
+sa vastauspuheenvuorot edustajille Modig ja Adlercreutz ja sen jälkeen ministerille 2 mi-
+nuuttia, ja sen jälkeen siirrymme lisätalousarvioon.
+27
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+16.07 Silvia Modig vas (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Kiurulle ha-
+luan todeta, kun kysyitte, eikö tämä tavoite ole tarpeeksi kunnianhimoinen: no, Norjassa on
+tällä hetkellä 100 000 sähköautoa. 
+
+Se, missä vasemmistoliiton näkemys ehkä eroaa hallituksen näkemyksestä, on se, että se
+latausverkko, jotta sen sähköautonsa saa ladattua, on aivan olennainen, jotta sähköautot
+yleistyvät. Hallitus on päättänyt, että se tulee tapahtumaan ja sen verkon pitää syntyä pää-
+sääntöisesti markkinaehtoisesti. Uskon sen täällä tiiviisti asutussa Helsingissä, pääkaupun-
+kiseudulla, onnistuvan, mutta mietin sitä syrjäseutujen asukasta. Kyllä siinä tarvittaisiin
+isompia julkisia panostuksia, jotta se sitten olisi oikeasti kaikille asuinpaikasta ja tulotasos-
+ta riippumatta mahdollista.
+
+Täällä maalataan taas tätä kuvaa, että koko meidän teollisuutemme kuolee ja me me-
+nemme konkurssiin, jos me nyt tartumme tähän haasteeseen, joka on itse asiassa viemässä
+meiltä elinolosuhteiden mahdollisuuden. Jos aidosti kantaa huolta suomalaisista työpai-
+koista, on nähtävä se tosiasia, että metsäsektorin työpaikat eivät ole samannäköisiä tulevai-
+suudessa kuin ne ovat nyt. Meillä on paljon uusia innovaatioita, uusia tapoja, uusia tuottei-
+ta puusta, ja näitä tulee tukea — tätä tutkimusta, kehitystä ja innovaatiota. [Marisanna Jar-
+va pyytää vastauspuheenvuoroa]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  No, myönnänpä tässä vastauspuheen-
+vuoron edustaja Jarvalle.
+
+16.08 Marisanna Jarva kesk (vastauspuheenvuoro): Arvoisa puhemies! Onneksi halli-
+tus on juuri toimimassa tässä investointien edistämisessä, jotta saadaan kehitettyä varsin-
+kin metsäteollisuuden toimintaa ja tuotteita. Ympäristön kannalta on kestämätöntä, että täl-
+lä hetkellä meidän puutamme viedään pyöreänä, varsinkin tuolta pohjoisilta alueilta, pitkiä
+matkoja teollisuuslaitoksiin. Tämän takia nimenomaan jalostusta pitäisi tuoda sinne kas-
+vupaikkojen lähelle, missä puu kasvaa, ja nimenomaan tehdä sellaisia tuotteita, joita ol-
+laan tekemässä esimerkiksi Kainuuseen suunnitellun biotuotetehtaan yhteydessä, jotta niil-
+lä tuotteilla voidaan korvata esimerkiksi vettä paljon kuluttavaa puuvillaa ja jatkossa voi-
+daan Kiinan viskoositeollisuuden prosessissa korvata rikkihiili — merkittävä globaali on-
+gelma, voitaisiin auttaa siinä — ja voidaan korvata öljystä tehtävää muovia ja näin edes-
+päin. Tämä edellyttää, että myös hakkuutasoa pitää pystyä nostamaan. Ne hiilinielut palau-
+tuvat, ja ne rupeavat kasvamaan 2030 jälkeen [Silvia Modig: Se on liian myöhäistä!] tällä
+nykyisellä ohjelmalla ja politiikalla, ja toivon, että tälle annettaisiin vahva tuki. [Puhemies
+koputtaa] Tämä olisi kestävää työllisyyden kehittämistä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Vastauspuheenvuoro edustaja Ad-
+lercreutz, ja vielä hänen jälkeensä myönnän vastauspuheenvuoron edustaja Kiurulle, ja sit-
+ten ministerille.
+
+16.09 Anders Adlercreutz r (vastauspuheenvuoro): Ärade talman! Välillä tuntuu siltä,
+että käsitteet hiilinielu ja hiilivarasto menevät sekaisin. Nythän me olemme omin toimin
+luomassa linjausta, jossa puolitetaan tosiaankin hiilinielu, ja se on ehkä ihan ok, mutta sil-
+loin se pitää kompensoida jollain muulla tavalla. Tämä on pelkästään matematiikkaa. Se
+pitää hyväksyä ja uskaltaa nähdä. Hiilivuoto teoriana — siitähän eivät kaikki ole ihan yhtä
+ja samaa mieltä, onko sitä vai ei. 
+28
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Edustaja Kiuru mainitsi eilisen vierailun Tampereelle, ja siellä kuulimme liikenne-esit-
+telyä, jossa esittelijä totesi, että yksityisautoilua tuetaan piilotuin, ja mainitsi muun muassa
+sen, että työmatkavähennyksessä on eri taksat yksityisautoille ja vaikka joukkoliikennevä-
+lineille. Hän piti tätä tukena yksityisautoilulle ja oli sitä mieltä, että taksan pitäisi olla mat-
+kariippuvainen eikä riippuvainen siitä, mitä kulkuvälinettä käyttää. Onko teillä jotain poh-
+dintaa tässä asiassa? Voisiko tällä edistää joukkoliikenteen käyttöä?
+
+16.10 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa puhemies! Totta, kuten edustaja
+Modig sanoi, Norjassa ollaan huomattavan paljon pidemmällä sähköisessä autoilussa, mut-
+ta, kuten edustaja Modig myös hyvin tietää, Norjassa ollaan huomattavasti pidemmällä öl-
+jyn pumppaamisessa kuin Suomessa, ja tämä taloudellinen liikkumatila, mikä Norjalla on,
+mahdollistaa aivan erilaiset valtion panokset mihin tahansa hyvään asiaan. Siinä suhteessa
+emme ole aivan tasavertaisessa asemassa. 
+
+Mutta korostan edelleen: 2030 tavoitteena 250 000 sähkökäyttöistä autoa. Se on todella
+merkittävä paradigman muutos, ja kun se lähtee käyntiin, kehitys on huimaa. Muistutan
+edelleen, että valtion talousarvioon ensi vuodelle on varattu määräraha sähköisen liiken-
+teen edistämiseen, eli kyllä ponnisteluja tehdään.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ja, ministeri Tiilikainen, 2 minuuttia.
+
+16.12 Asunto-, energia- ja ympäristöministeri  Kimmo  Tiilikainen:  Arvoisa puhe-
+mies! Moni edustaja on puhunut tehtävien toimien nopeuden tarpeesta. Liikenteessä nope-
+us on juuri sitä, että uusiutuvaa komponenttia sekoitetaan kaikkeen liikennepolttonestee-
+seen, jotta Suomessa lähes 3 miljoonaa teillä rassaavaa autoa saavat päästöjään alas.
+
+Jos ajatellaan, että — kiitos nykyisen varapuhemies Pekkarisen aikoinaan päättämän
+kunnianhimoisen sekoitevelvoitelainsäädännön — meillä on joinain vuosina jo yli 10 pro-
+senttia polttoaineista ollut biokomponenttia, se tarkoittaa, että meillä olisi 300 000 täysin
+päästötöntä autoa verrattuna siihen, että sähköautoja on nyt vajaa 2 000. Juuri tuon sekoi-
+tevelvoitteen kautta olemme pystyneet tähän saakka ja pystymme myös tulevan 10—20
+vuoden aikana nopeasti ajamaan päästöjä alas, samalla kun annamme tilaa sähköautojen
+kasvulle, piristysruisketta sille. Ja uskon, että markkina kääntyy sähköautojen eduksi ehkä
+nopeammin kuin arvaammekaan, jolloin tuo tavoite voi osoittautua liian alhaiseksi. [Silvia
+Modig: Juuri näin!] Se onkin minimitavoite, mutta tarvitsemme ne uusiutuvat polttoaineet
+ennen sitä.
+
+Sitten tämä metsien hiilinielukysymys. Tuodaan nyt vähän konkretiaa tähän: Maailman-
+laajuisesti ilmakehä ei tunnista sitä, mistä se hiilidioksidimolekyyli on lähtöisin tai missä
+se sidotaan. Äänekoskella avautui juuri uusi biojalostamo. Se tulee käyttämään puuta 6
+miljoonaa kuutiota enemmän kuin Suomessa on aiemmin käytetty. Saammeko hakata nuo
+puut Suomen metsistä, joitten kasvu on kiihtynyt tuntuvasti viimeisten vuosikymmenten
+aikana? Mieluiten näin, että voimme ottaa raaka-aineen Suomen metsistä. Nimittäin jos tuo
+6 miljoonaa kuutiota tuotaisiin Venäjältä, kuinka paljon vähemmän hiilidioksidia pääsisi
+ilmaan tai olisiko meillä suurempi maailmanlaajuinen hiilinielu? Ei olisi. Ainoastaan työ-
+paikat ja hyöty karkaisivat maahan, jossa esimerkiksi luonnon monimuotoisuutta ei hak-
+kuissa aivan samalla tavalla oteta huomioon. Sen takia on järkevää, että käytämme järke-
+vällä, kestävällä tavalla Suomen metsien kasvua hyödyksi myös jatkossa. [Puhemies ko-
+29
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+puttaa] Suomen hiilinielu tulee olemaan Euroopan suurimpia tulevina vuosikymmeninä
+edelleen.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Asian käsittely keskeytetään. Keskus-
+telua jatketaan tässä istunnossa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 16.15.
+
+————
+
+Keskustelua jatkettiin kello 18.07.
+
+Toinen varapuhemies Arto Satonen: Nyt jatketaan aiemmin tässä täysistunnossa kes-
+keytettyä asiakohdan 3. käsittelyä. Keskustelu asiasta jatkuu, ja puheenvuorojen maksimi-
+kesto siis 5 minuuttia.
+
+18.07 Hanna Halmeenpää vihr: Arvoisa puhemies! Ilmastonmuutoksen pysäyttämisek-
+si tarvitaan nopeita toimia — nyt. Tärkein tavoite on kokonaispäästöjen saaminen nollaan.
+Tavoite ei ole tehdä kompromisseja, jotta saastuttavaa toimintaa voitaisiin jatkaa mahdol-
+lisimman pitkään ja jotta päästöjä leikkaavia ratkaisuja ei tarvitsisi kokonaisuudessaan to-
+teuttaa. Tavoite on ilmaston lämpenemisen pysäyttäminen. Valtion tehtävä on ohjata koko
+yhteiskuntaa, koko julkista sektoria ja yksityistä elinkeinoelämää tehokkaisiin ilmastotoi-
+miin, ei pelkästään toivoa sitä.
+
+Arvoisa puhemies! Viime viikkoina on pidetty suurta ääntä siitä, että vielä lopullisesti
+ratkaisematta oleva Euroopan komission päästötaakanjako sekä maa- ja metsäsektorin las-
+keminen mukaan ilmastonmuutoksen torjuntaan aiheuttaisivat suuria riskejä koko kansa-
+kunnallemme.
+
+Arvoisa puhemies! Suurin riskeistä on ilmaston lämpenemisen kiihtyminen. Nyt on teh-
+tävä ratkaisuja, jotka johtavat parhaaseen tulokseen koko maapallon elinehtojen kannalta.
+Metsät ja niiden ilmakehästä sitomat hiilivarastot uusiutuvat Suomessa hitaasti, noin 60—
+100 vuodessa. Sitä aikaa ei voida odotella. Hakkuutavoitteet on asetettava järkeviin mitta-
+suhteisiin maltillisesti. Tärkeää on käyttää metsiämme pitkäikäisiin ja korkean jalostusas-
+teen tuotteisiin, kuten puurakentamiseen. Metsäenergiaakin tarvitaan. Hallitus pohjaa sii-
+hen kuitenkin jo liian voimakkaasti ja ajaa EU:ssa pelimerkkejä, joilla EU:n jäsenmaiden
+ei tarvitsisi korvata hiilinielun pienenemistä muiden sektorien päästövähennyksillä lain-
+kaan. Ei siinä ole järkeä. Näin sanoivat tällä viikolla lähes 200 ympäristö- ja ilmastotietei-
+den tutkijaa vedotessaan EU-ministereihin, jotta metsähakkuiden ja maankäytön ilmasto-
+vaikutusten huomioimista ei vesitettäisi täysimääräisesti. Hiilineutraalius vuoteen 2045
+mennessä tarkoittaa sekä päästöjen nopeaa vähentämistä että hiilinielujen vahvistamista, ei
+niiden heikentämistä vielä parikymmentä vuotta.
+
+Arvoisa puhemies! Kun YK:n ilmastonmuutosta koskeva puitesopimus tuli voimaan
+vuonna 94, valmistauduin seuraavan kevään ylioppilaskirjoituksiin maapallon tulevaisuus
+mielessäni. Kun päästöjen vähentämisestä solmittu Kioton pöytäkirja tuli voimaan vuonna
+2005, maailmalla tuntui olevan toivoa. Minä odotin esikoistani. Jotta maailman maat nyt
+pysyisivät vuonna 2015 Pariisissa sovituissa tavoitteissa, jotta lämpötilan nousu saadaan
+rajattua 1,5 asteeseen suhteessa esiteolliseen aikaan, mikään keskinkertainen ei riitä. Suo-
+30
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+men itsenäisyyden juhlarahasto Sitran mukaan enintään 1,5 asteen lämpenemisessä pysy-
+minen vaatisi Suomelta vuoteen 2050 mennessä vähintään 130 prosentin päästövähennyk-
+set verrattuna vuoden 90 tasoon. Uusien panosten tulee vastata korkeinta mahdollista ta-
+voitetasoa. Olemme luvanneet, että yhteistyö tässä perustuu läpinäkyvyyteen eikä se saa
+vesittää päästövähennystavoitteita. Olemme Pariisissa luvanneet näin.
+
+Arvoisa puhemies! Meistä monet tekevät lupauksia myös lapsilleen. Niitä on kuultu tä-
+män salin puheenvuoroissa tänään useita. Minäkin olen luvannut tehdä parhaani. Vuonna
+2050, jolloin päästöjen ja nielujen tulee olla tasapainossa ilmastokatastrofin estämiseksi,
+lapseni ovat 45-, 43-, 40- ja 34-vuotiaita. Itse olen ehkä eläköitynyt 74-vuotias.
+
+Arvoisa puhemies! Kukin meistä tässäkin salissa tehköön parhaansa yhteisen maapal-
+lomme ja ihmiskunnan elinmahdollisuuksien turvaamiseksi. Tulevaisuus tehdään nyt.
+Meille kuuluu vastuu omasta osuudestamme, ei vähempää.
+
+18.13 Satu Hassi vihr: Arvoisa puhemies! Nyt on 11 vuotta siitä, kun Maailmanpankin
+entinen pääekonomisti Sir Nicholas Stern julkaisi raportin, joka kertoi, että ilmastonmuu-
+toksen hillintä tulee verrattomasti, paljon halvemmaksi kuin sen päästäminen ryöstäyty-
+mään. Tämä raportti sai monet yritykset kansainvälisiä suuryrityksiä myöten havahtumaan
+siihen, että on tosi kyseessä, ja myös monien hallitusten ekonomistit. Nyt on 10 vuotta sii-
+tä, kun hallitustenvälinen ilmastonmuutospaneeli IPCC julkaisi neljännen raporttinsa, jon-
+ka pääviesti oli, että tieteellinen kiista ilmastonmuutoksesta on ohi: viime vuosikymmeni-
+nä edenneille muutoksille ei löydy muuta selitystä kuin ihmiskunnan aiheuttamat päästöt.
+Nyt on viisi vuotta siitä, kun Maailmanpankki julkaisi Turn Down the Heat -raportin, jon-
+ka mukaan nykymenolla olemme menossa 4 astetta lämpimämpään maailmaan, jossa il-
+mastonmuutos on käynyt yhteiskunnille tuhoisaksi. Tällainen ilmastonmuutos voi myös
+Suomessa tehdä tyhjäksi aivan kaikki haaveemme ja tavoitteemme. Kohta on kolme vuot-
+ta siitä, kun maailman hallitukset pääsivät Pariisissa yksimielisyyteen siitä, että ilmaston-
+muutos on hillittävä alle 2 asteen, lähemmäs 1,5:tä astetta. Samat hallitukset totesivat, että
+maailman maiden yhteenlasketut päästölupaukset eivät tähän riitä vaan kaikkien maiden
+pitää tiukentaa siihenastisia päästötavoitteitaan. Tämä koskee myös EU:ta. Tämän allekir-
+joitti sama Sipilän hallitus, joka edelleen istuu. Saman hallituksen aikana on koettu kaksi
+perättäistä mittaushistorian kuuminta vuotta, joita edeltänytkin vuosi oli ennätysvuosi.
+
+Kaikesta tästä huolimatta keskipitkän aikavälin ilmastosuunnitelmasta eli KAISUsta
+paistaa edelleen läpi asenne, että hallitus pelkää enemmän ilmastonsuojelun hintaa kuin
+itse ilmastonmuutosta. Tehdään vain se, mihin olemme jo EU:ssa sitoutuneet, ja sekin vain
+rimaa hipoen kaikki niin sanotut joustot käyttäen. Hallitus ei puhu mitään siitä, mitä oi-
+keasti pitäisi tehdä ilmastonmuutoksen hillitsemiseksi 1,5 asteeseen.
+
+Kun Suomen itsenäisyys täytti 50 vuotta, perustettiin Sitra, Suomen itsenäisyyden juh-
+lavuosirahasto. Nyt 100-vuotisjuhlavuonna sama Sitra neuvoo meitä poliittisia päättäjiä,
+että ilmastonmuutoksen hillitseminen 1,5 asteeseen vaatisi Suomelta jo 60 prosentin pääs-
+tövähennyksiä vuoteen 2030 ja siirtymistä negatiivisiin päästöihin vuosisadan puoleenvä-
+liin mennessä eli sitä, että vuosisadan puolivälissä hiilinielumme ovat isommat kuin pääs-
+tömme. Tästä hallituksen selonteko ei puhu mitään. Sen sijaan hallitus keskittyy EU:ssa
+käyttämään maamme kaiken vaikutusvallan siihen, että voimme piilottaa hakkuiden rajus-
+ta, suunnitellusta kasvattamisesta aiheutuvan metsien hiilinielun pienenemisen, joka tekisi
+tyhjäksi valtaosan muilla sektoreilla tapahtuvista päästövähennyksistä. Hallitus tekee näin
+siitä huolimatta, että 68 suomalaista tutkijaa, kotimainen ilmastopaneelimme, eurooppalai-
+31
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+set tiedeakatemiat ja viimeksi lähes 200 huippututkijaa Euroopasta ja muualta maailmasta
+ovat varoittaneet hakkuiden liiallisen kasvattamisen vaikutuksesta ilmastoon ja myös met-
+säluonnon monimuotoisuuteen.
+
+Hallituksen selonteko sisältää suuren joukon hyviä ja tarpeellisia asioita, mutta valitet-
+tavasti ei tarpeeksi. Lisäksi selontekoa, kuten myös viimevuotista energia- ja ilmastostra-
+tegiaa, leimaa liian suuri nojaaminen metsäbiomassaan, biopolttonesteisiin ja uhkapeliin
+sillä, että nämä jatkossakin katsotaan päästöttömiksi.
+
+Arvoisa puhemies! Muistuttaisin siitä, että meillä on hieno kokemus edelläkävijyyden
+voimasta. Suomi oli yksi maailman ensimmäisiä maita, jotka avasivat matkapuhelut kilpai-
+lulle, mitä ilman Nokian puhelimista tuskin olisi tullut menestystä, joka nosti maamme 90-
+luvun lamasta ja on tuonut pitkän aikaa maallemme suurta taloudellista hyötyä. Seurates-
+sani kotimaista ilmastokeskustelua olen ihmetellyt sitä, olisiko tätä niin sanottua Nokian
+ihmettä koskaan voinut tapahtua, jos esimerkiksi Metsäteollisuus tai MTK olisivat koke-
+neet matkapuhelujen kilpailuttamisen omien etujensa vastaisiksi.
+
+Arvoisa puhemies! Biopolttoaineilla ja biopolttonesteillä on oma paikkansa. Niitä tarvi-
+taan jatkossakin. Mutta luonnon monimuotoisuus ja hiilinielujen säilyttäminen asettavat
+rajat sille, minkä suuruinen käyttö on vastuullista. Nyt tarvitaan katsetta ja uskoa tulevaan
+ja uskallusta ottaa käyttöön myös sellaisia keinoja, jotka pakottavat monia vakiintuneita
+toimijoita muuttamaan toimintamallejaan.
+
+18.18 Katri Kulmuni kesk (vastauspuheenvuoro): Arvoisa puhemies! Haluaisin tähän
+edustaja Hassin puheenvuoroon vielä jatkoksi käydä läpi hieman tätä monimuotoisuuskes-
+kustelua, jota nostitte esille ja joka on erittäin tärkeä aihealue, mutta jossa minusta ei tullut
+ehkä riittävästi näkyviin, mitä kaikkia toimenpiteitä myös hallitus on tehnyt sen osalta.
+
+Kun selvitettiin sitä, miten jo itse asiassa viime vaalikaudella lisääntyneet hakkuumää-
+rät pystyttäisiin metsien monimuotoisuudesta huolehtimalla jotenkin täyttämään, niin Suo-
+men ympäristökeskus ja Luonnonvarakeskus tekivät selvitystä, että kyllä, metsien moni-
+muotoisuudesta pystytään huolehtimaan, vaikka hakkuumääriä kasvatetaan, mutta se vaa-
+tii, totta kai, toimenpiteitä. Ja sellainen on esimerkiksi se, että metsälajiston uhanalaista-
+miskehitystä on saatu hidastettua. Se vaatii kuolleen puuston nykyistä parempaa säästämis-
+tä hakkuissa, eräiden elävien säästöpuiden lisäämistä uudistushakkuissa, luonnonhoidol-
+lista kulotusta, tietenkin puun korjuun välttämistä arvokkaista luontokohteista ja Metso-
+rahoista [Puhemies koputtaa] huolehtimista. Ja näistä kaikista hallitus on tehnyt toimenpi-
+teitä, että ne etenevät.
+
+Toinen varapuhemies Arto Satonen: Ja vielä vastauspuheenvuoro, edustaja Hassi, ja sen
+jälkeen puhujalistaan.
+
+18.19 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! Se, mitä edustaja Kul-
+muni luetteli, ei muuta yhtään miksikään sitä, että luettelemani arvovaltaiset ja isot tutki-
+jajoukot ovat varoittaneet sen suuruisesta hakkuiden lisääntymisestä, jota Suomen hallitus
+suunnittelee ja johon monet hallituksen tukemat suunnitelmat perustuvat. Se ei muuta
+myöskään sitä tosiasiaa, että tämä hallitus on suhteellisesti kaikkein suurimmat määrära-
+haleikkaukset tehnyt toisaalta kehitysapuun ja toisaalta juuri nimenomaan luonnonsuoje-
+luun ja metsäluonnonsuojeluun, joka on yksi niistä asioista, joista ensin kauhalla otettiin ja
+sen jälkeen lusikalla vähän annettiin takaisin.
+32
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+18.20 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Tämä selonteko on laaja koko-
+naisuus, joka täydentää aiempaa energia- ja ilmastopoliittista selontekoa, josta myös tule-
+vaisuusvaliokunta antoi aikanaan lausuntonsa. Otan kantaa tähän selontekoon lähinnä tu-
+levaisuusvaliokunnan näkökulmasta.
+
+Tulevaisuusvaliokunnan perusviesti on jo pitkään ollut se, että kestävän kehityksen
+haasteet on muutettava kestävän työllistävän kasvun mahdollisuuksiksi. Tämä tarkoittaa
+muun muassa ympäristöliiketoiminnan, cleantechin, bio- ja kiertotalouden sekä erilaisten
+ekosysteemipalvelujen määrätietoista ja pitkäjänteistä kehittämistä. Työllistävän kasvun ja
+kestävyyden yhdistämiseen tarvitaan luovuutta ja rohkeaa edelläkävijyyttä, Uskalluksen
+politiikka -ohjelmaa, jolla ekologisesti, taloudellisesti, sosiaalisesti ja kulttuurisesti kestä-
+vän kehityksen haasteet käännetään työllistävän edelläkävijyyden mahdollisuuksiksi ja
+kestäväksi elämäntavaksi. Agenda 2030 -mietinnössä tulevaisuusvaliokunta ilmaisi asian
+näin: "Agenda 2030 voi olla aikakautemme merkittävin päätös, joka muuttaa koko ihmis-
+kunnan kehityssuunnan. Päätöksen merkitys riippuu kuitenkin siitä, miten päättäväisesti
+kansakunnat sitoutuvat toimintaohjelman toteuttamiseen. Siksi Suomen ja myös EU:n
+edelläkävijyys ja aktiivisuus toimenpiteiden käynnistämisessä ovat merkittävä esimerkki
+koko maailmalle."
+
+Nyt lähetekeskustelussa oleva suunnitelma edistää kyllä kestävää kehitystä, mutta se ei
+kuitenkaan riitä, vaan tavoitteena pitää olla sellainen edelläkävijyys, jolla kestävän kehi-
+tyksen investoinnit muuttuvat kestäväksi työllistäväksi kasvuksi. Suomessa esimerkiksi
+aurinko- ja tuulienergiaan, älyliikenteeseen, fotoniikkaan ja älykkäisiin sähköverkkoihin
+liittyvät ratkaisut voidaan huomioida paremmin viennin edistämisessä ja kestävän työllis-
+tävän kasvun tavoitteissa, vaikka niiden painoarvo Suomen kotimarkkinoilla olisikin vielä
+kovin marginaalinen. Suomella on merkittävää vientipotentiaalia myös jätteitä hyödyntä-
+vässä kiertotaloudessa. Vientipotentiaalit on huomioitava lisäksi koulutus- ja tiedepolitii-
+kassa osaamisen ylläpitämiseksi ja kehittämiseksi.
+
+Arvoisa puhemies! Suunnitelmassa todetaan, että se on tehty rinnakkain vuoden 2016
+lopulla valmistuneen energia- ja ilmastostrategian kanssa ja tämän avulla pannaan toimeen
+hallitusohjelman ilmastopolitiikan tavoitteet. Keskipitkän aikavälin tavoitteissa tulisi li-
+säksi huomioida Agenda 2030 -selonteon ja eduskunnan Agenda 2030 -mietinnön toimen-
+piteet. Keskeinen kysymys kuuluukin, toteuttaako keskipitkän aikavälin suunnitelma myös
+Agenda 2030 -toimenpideohjelmaa. Pyrkiikö se Agenda 2030 -toimenpideohjelmassa
+määriteltyyn edelläkävijyyteen, ja edistääkö se kestävän kehityksen politiikkajohdonmu-
+kaisuutta?
+
+Agenda 2030 -tavoitteet mainitaan selonteossa ruokahävikin vähentämisen yhteydessä,
+ei paljon muualla. Lisäksi mainitaan, että ilmastovuosikertomuksen seurantatietoja hyö-
+dynnetään Agenda 2030 -toimeenpanossa, mutta eikö tämän keskipitkän aikavälin ilmas-
+topolitiikan suunnitelman vuoteen 2030 tulisi toteuttaa Agenda 2030 -toimenpideohjel-
+maa? Nyt tämä yhteys käy epäselväksi. Kysynkin: mikä merkitys Agenda 2030:llä on hal-
+lituksen mielestä, ja mitä siinä korostettu politiikkajohdonmukaisuus oikein tarkoittaa?
+Toivon valiokunnassa mietittävän näiden kahden ohjelman yhteyksiä tarkemmin, se jää ni-
+mittäin tässä kovin epäselväksi.
+
+Arvoisa puhemies! Suunnitelmassa on paljon hyviäkin asioita, ja erityisesti kiitän siitä,
+että siinä korostetaan kuluttajalähtöistä toimintaa. Kuluttajathan eivät ole ainoastaan pas-
+siivisia tiedon vastaanottajia ja palvelujen käyttäjiä, vaan teknologia- ja energiamurros te-
+kee heistä aktiivisia toimijoita energiamarkkinoilla monissa eri rooleissa: kuluttajana, tuot-
+33
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+tajana ja jopa investoijana. Kotitalouksissa on merkittävä energiansäästö- ja tehokkuuspo-
+tentiaali: esimerkiksi lämmönvaihtimilla, lämpöpumpuilla, eristeillä ja älykkäillä ohjaus-
+järjestelmillä on mahdollisuus saada aikaan suuria säästöjä kotitalouksien sähkön- ja läm-
+mönkulutuksessa. Kansalaisille jalkauttamisen lisäksi kuntien ja maakuntien on otettava
+tämä asia omakseen. Kestävä kehitys ja siihen liittyvä ilmastopolitiikka on saatava kuntien
+ja maakuntien strategioihin ja toimintatapoihin. Hiilineutraali kunta eli Hinku-kuntakon-
+septi on hyvä esimerkki tästä.
+
+Arvoisa puhemies! Aivan lopuksi: Käsittelyssä olevassa selonteossa pohjoismainen yh-
+teistyö liittyy lähinnä kestävän liikenteen kehittämiseen. Pohjoismaisen yhteistyön tarpeet
+ja haasteet ovat kuitenkin suurempia. Tulevaisuusvaliokunnan kuulemisissa asiantuntijat
+korostivat muun muassa Pohjoismaiden yhteisen sähköverkon kehittämisen ja ylläpitämi-
+sen tärkeyttä osana kestävää kehitystä.
+
+18.26 Kari Kulmala si: Arvoisa puhemies! Yhdessä jo hyväksytyn energia- ja ilmas-
+tostrategian kanssa selonteko määrittelee ne keinot, joilla saavutetaan hallitusohjelmassa,
+EU:ssa ja Pariisin ilmastosopimuksessa sovitut ilmastotavoitteet. Selonteossa keskitytään
+kasvihuonekaasupäästöjen vähentämiseen taakanjakosektorilla, johon kuuluvat muun
+muassa liikenne, maatalous, lämmitys ja jätehuolto. Selonteko on lisäksi merkittävä askel
+kohti hiilineutraaliutta.
+
+Suomen pitkän aikavälin tavoite on vähentää päästöjä vähintään 80 prosenttia vuoteen
+2050 mennessä vuoden 1990 tasosta. On selvää, että päästöjen vähentämiseksi tehtävien
+toimien tulee olla maailmanlaajuisesti oikeudenmukaisesti toteutettuja, oikea-aikaisia, ta-
+loudellisia ja oikein kohdennettuja. Päästöjen vähentämiseen tulee sitouttaa myös USA.
+Yhtä tärkeää on päästövähennystoimien yhtäaikainen ajoitus. Tällöin voimme mahdolli-
+simman hyvin estää hiilivuodon eli teollisuuden siirtymisen maihin, missä päästöistä ran-
+gaistaan vähemmän tai ei ollenkaan. Päästöjen osalta tuntuu erikoiselta, mikäli Suomi jou-
+tuu vähentämään päästöjään 39 prosenttia ja Virossa riittää 13 prosentin päästöjenleikkaus
+ja esimerkiksi Puolan ja Kroatian täytyy vähentää päästöjään vain 7 prosenttia vuoden
+2005 tasosta. [Laura Huhtasaari: Niinpä!] Tällaisen hyväksyminen ei ole oikeudenmukais-
+ta. Pidän myös tärkeänä, että tässä selonteossa esitetyt toimet eivät saa merkittävästi hei-
+kentää talouskasvuamme, koska olemme vihdoin päässeet vakaalle talouskasvun tielle.
+
+Maataloudessa lisätoimet koskevat pääasiassa eloperäisten maiden päästöjen hillintää.
+Tällöin päästöjä vähennetään muun muassa nostamalla pohjaveden pintaa säätösalaojituk-
+sen avulla, metsittämällä ja kosteikkometsittämällä eloperäisiä maita ja edistämällä bio-
+kaasun tuotantoa maataloudessa. Selonteon mukaan tutkimus- ja kokeilutoiminnalla pyri-
+tään edistämään hiilen sitomista maaperään, ja tämä on osa Suomen tukemaa kansainvälis-
+tä aloitetta maaperän hiilivarastojen lisäämisestä vuosittain 4 promillen verran.
+
+Arvoisa puhemies! Liikenteessä on suurin päästövähennyspotentiaali. Liikenne aiheut-
+taa noin viidenneksen Suomen kasvihuonekaasupäästöistä. Tästä huolimatta haluan onni-
+tella kaikkia Saudi-Arabian naisia. Olette maailmassa viimeisinä saaneet oikeuden ajaa itse
+autolla. Toivottavasti teidän ajokortin saamistanne ei muilla tavoilla hankaloiteta. Olette
+ajo-oikeutenne todellakin ansainneet. [Teuvo Hakkarainen: Toimiikohan käytännössä?]
+
+18.29 Katri Kulmuni kesk: Arvoisa puhemies! Tänään, kun käsittelemme keskipitkän ai-
+kavälin ilmastosuunnitelmaa, kysymys ei itse asiassa ole siitä, miten teollisuudessa tai
+energiapuolella pitäisi tehdä ilmastopolitiikkaa, vaan kysymys on siitä, mitä me kaikki, jo-
+34
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+kainen, voimme tehdä omassa elämässämme, niitä päätöksiä, jotka vaikuttavat oman kulu-
+tuksen kautta myös ilmastoon. 
+
+Kun miettii sitä pitkää kaarta, että Pariisinkin ilmastosopimuksesta on pian kaksi vuotta
+kulunut, ja vaikkapa tätä keskustelua, jonka kävimme, itse asiassa niitä Suomen linjauksia,
+kun me asumme metsäisessä maassa metsien keskellä, niin Pariisin ilmastosopimus pysty-
+tään kyllä Suomen tavoitteilla ja nykyisillä linjauksilla täyttämään erinomaisesti meidän
+toimestamme, ja me pystymme myös tarjoamaan monille, monille muille valtioille uusiu-
+tuvan energian osaamista ja fossiilisista polttoaineista eroon pääsemisen osaamista.
+
+Arvoisa puhemies! Ajattelin puhua ensin liikenteestä, koska se on kuitenkin kaikista
+suurin osa päästökaupan ulkopuolisista sektoreista, ja jokainen joka päivä käyttää liiken-
+nettä jollain tavalla. 
+
+Se, että ollaan ensimmäistä kertaa saatu esimerkiksi sähköautoihin erittäin merkittävät
+panostukset, kertoo siitä, että nyt ollaan siirrytty puheista konkretiaan ja laitetaan miljoo-
+nia euroja siihen, että saisimme meidän autokantamme myös sähköistettyä. Mutta toki se ei
+yksistään riitä. Meidän täytyy tehdä nopeita toimia, meidän täytyy tehdä ne taloudellisesti,
+sosiaalisesti, kaikin puolin kestävästi, ekologisesti, ja se vaatii myös sitä, että me pystym-
+me vaikkapa biopolttoaineiden sekoitevelvoitetta nostamaan. Kysymys on ennen kaikkea
+siitä, että raskaalla teollisuudella ja lentoliikenteellä ei ole olemassa sellaista akkuteknolo-
+giaa. Jos ajatellaan, että 25 EU-maassa on olemassa jonkinlainen sekoitevelvoite, niin Suo-
+messa se on varsin kunnianhimoinen, kuten naapurimaallamme Ruotsilla myös, ja jos aja-
+tellaan maailman ehkä edistyksellisimpiä alueita ilmastokysymyksissä, vaikkapa Kalifor-
+niaa, niin San Francisco ja Sacramento taitavat olla suomalaisen Nesteen suurimmat asiak-
+kaat siksi, että ne ovat päättäneet siirtyä sataprosenttisesti uusiutuviin polttoaineisiin.
+
+Mitä tulee sitten siihen, kuinka merkittäviä biopolttoaineet ovat Suomessa ja kuinka
+merkittäviä biokaasun tuotantomahdollisuudet ja autojen konvertointi ovat, niin ennen
+kaikkea maaseudulla ja harvaan asutuilla alueilla tällä on erittäin suuri merkitys. Ja ei se-
+kään ole vähäpätöinen asia, että myös globaalisti isot toimijat, suuryritykset, rahavirrat
+ovat kiinnostuneita investoimaan Suomeen. Se, että omalle kotiseudulleni kiinalainen Kai-
+di suunnittelee isoa biojalostamoa, kertoo siitä, miten kysymys on globaalisti niin merkit-
+tävä, että myös kiinalainen pääoma hakeutuu Suomeen ja suomalaisten teknologian osaa-
+misen resurssien keskelle.
+
+On paljon myös keskusteltu siitä, kuinka paljon ilmastonmuutoksen hillitseminen ja ta-
+louden edut jotenkin olisivat ristiriidassa. Eivät ne mielestäni ole ristiriidassa, jos me toi-
+mimme fiksusti ja pidämme huolta kaikenlaisesta kestävyydestä. Mutta kyllä täytyy miet-
+tiä myös sitä, minkä ilmastoministeri Tiilikainenkin tässä sanoi, että kun meidän ilmake-
+hämme ei tiedä, missä vaikkapa se metsien hakkuu tehdään, niin täytyy pitää huolta siitä,
+että se tehdään semmoisilla alueilla, joissa metsät kasvavat koko ajan enemmän kuin niitä
+käytetään ja joissa itse asiassa hiilivarasto, hiilinielut koko ajan kasvavat, eli vaikka tulee
+hiilinielussa notkahdusta, niin silti se kasvu jatkuu. Ei ole suomalaisen työntekijän, suoma-
+laisen teollisuuden tai suomalaisen talouden kannalta järkevää siirtää niitä toimintoja jon-
+nekin muualle, missä ei ympäristöllisestä kestävyydestä ollenkaan samalla tavalla kanneta
+huolta.
+
+Lopuksi haluan todeta vielä sen, että jokainen pystyy tekemään myös omassa asumises-
+sa ja vaikkapa ruokailutottumuksissa päivittäin ilmastotekoja. Se, että hävikkiruokaa pys-
+tytään vähentämään, on erittäin tärkeä asia, ja kyllä myös se, että kaupungit, kuten tuossa
+KAISUssa tuli esille, pystyisivät siirtymään uusiutuvan energian käyttöön. Minusta on ol-
+35
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+lut suoraan sanottuna surullista seurata sitä, miten oman maani pääkaupungissa, aina kun
+tänne tulen, on kivihiilikasa tervehtimässä. Naapurimaassa on Tukholmassa jo aikaa sitten
+siirrytty siihen, että 80-prosenttisesti se on hiilivapaa. Ja investoipa toisen naapurimaan
+Tanskankin Kööpenhamina aivan uuden bio-CHP-laitoksen, jonka investoinnin sai raken-
+taa suomalainen Valmet. Nämä ovat hyviä uutisia muista naapurimaista. Toivottavasti
+myös Suomessa seurataan samalla linjalla.
+
+18.35 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Kul-
+muni totesi, että Suomessa metsät kasvavat enemmän kuin niitä hakataan, mutta hallituk-
+sen omassa ilmasto- ja energiastrategiassahan on tavoitteena puolittaa metsien hiilinielut
+vuoteen 2030 mennessä. Vaikka elämme täällä pohjoisten metsien keskellä, mihin itse viit-
+tasitte, niin emmehän me voi saavuttaa Pariisin ilmastotavoitteita, jos me emme noudata
+Pariisin ilmastovelvoitteisiin kuuluvia hiilinielun säilyttämissääntöjä. Kysymyshän on sii-
+tä, että sääntöjen tulee olla globaalisti kestävät, kaikille samat, perustua todellisiin päästöi-
+hin ja hiilinielujen kehitykseen. 
+
+Toinen varapuhemies Arto Satonen: Vastauspuheenvuoro, edustaja Kulmuni, ja sen jäl-
+keen puhujalistaan. 
+
+18.35 Katri Kulmuni kesk (vastauspuheenvuoro): Kuten edustaja Karimäki hyvin tietää,
+niin Suomen hiilinielu, Suomen hiilivarasto tulee kasvamaan, mutta se, että me lisäämme
+hakkuita sen edellisen vaalikauden metsästrategian päätöksen pohjaisesti, tarkoittaa sitä,
+että kyllä hieman aikaa hiilinielumme odotetusta kasvusta pienenevät mutta ne palautuvat.
+Itse asiassa kokonaisuudessaan ne kasvavat koko ajan. Tuoreimpien lukemien mukaan esi-
+merkiksi Luonnonvarakeskus on arvioinut, että Suomen metsien hiilinielu olisi 20—
+30 miljoonaa hiilidioksiditonnia vuonna 2030 eikä esimerkiksi 13,5 miljoonaa hiilidioksi-
+ditonnia, kuten esimerkiksi Luonnonvarakeskuskin on aikaisemmin arvioinut. 
+
+On erittäin tärkeää, että Suomessa pystyy olemaan metsäteollisuutta, että Suomessa pys-
+tyy olemaan puurakentamista, ja ne asiat, jätteetkin, jotka eivät sitten mene sinne puura-
+kentamiseen tai pitkäaikaiseksi tuotteeksi, täytyy kyllä pystyä johonkin kiertotalouden ni-
+missä käyttämään. 
+
+18.37 Laura Huhtasaari ps: Arvoisa puhemies! Minä olenkin ekaa kertaa nytten täällä.
+Kiva katsoa, tämä on upea sali — ja siellä on komeita kansanedustajia paikalla.
+
+EU:n ilmastosopimuksen soveltamisneuvotteluissa Suomi unohti oman ohjelmansa.
+Hallitus on sitoutunut vuodelle 2030 päätetyn ilmasto- ja energiapaketin markkinaehtoi-
+seen toteuttamiseen. Teollisuuden kansainvälinen kilpailukyky ja hiilivuodon torjunta ovat
+ilmastopolitiikan keskeisiä lähtökohtia. Komission esitystä ei voida toteuttaa markkinaeh-
+toisesti, ja se vaarantaisi teollisuutemme kilpailukyvyn sekä kiihdyttäisi EU:ssa edelleen
+suomalaisen teollisuuden ulosliputusta, eli suomeksi: hiilivuoto kiihtyisi EU:n sisällä, suo-
+malaiset työntekijät joutuisivat kilometritehtaalle ja maksaisivat tästä lisäveroa ja kor-
+keampaa bensan ja sähkön hintaa.
+
+Kahden edellisen hallituksen lepsuuden johdosta suomalaisen teollisuuden kilpailuky-
+vystä on uhrattu EU:n ilmastopolitiikan alttarille jo 30 prosenttia suhteessa tärkeimpiin kil-
+pailijamaihin nähden. Tässä on yksi keskeinen syy, miksi nyt jouduttiin kilpailukykyäm-
+me parantamaan sisäisellä devalvaatiolla, palkkoja alentavalla kiky-sopimuksella. Tämä
+36
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+tie on nyt käyty loppuun, ja Suomen on puolustettava teollisuutemme kilpailukykyä EU:n
+ilmastoneuvottelupöydissä. EU:n ilmastopolitiikan taloudellinen mielettömyys jatkuu ja
+pahenee. Niissä maissa, joissa päästöjä vähentävät investoinnit olisivat suhteessa edulli-
+simpia, pyritään minimaalisiin päästövähennyksiin. Niissä maissa, joissa investoinnit ovat
+suhteessa kaikkein kalleimpia, pyritään maksimaalisiin päästövähennyksiin. Perussuoma-
+laiset ovat olleet ainoa poliittinen voima, joka on yrittänyt estää tämän katastrofin. Suo-
+men teollisuuden, kotitalouksien, maatalouden sekä liikenteen päästöt ovat jo minimaali-
+set verrattuna Puolaan, Romaniaan, Bulgariaan ja jopa Saksaan ja Tanskaan.
+
+Miksi hallitus ei julkaise esityksensä todellista hintalappua? Pellervon taloustutkimuk-
+sen mukaan kaukolämmityksen hinta nousee asukkaille noin 40 prosenttia. Kotitalouksille
+tulee vuositasolla 400—600 miljoonan euron, teollisuudelle 800—1 200 miljoonan euron
+lisälaskut. Ja vielä liikenteestä: LVM:n oman arvion mukaan se on 800 miljoonaa euroa
+vuositasolla.
+
+Arvoisa puhemies! Maailman parhaisiin yliopistoihin lukeutuvan MIT:n tekemän las-
+kelman mukaan Pariisissa ilmoitetuilla toimenpiteillä ilmaston arvioitu lämpeneminen hi-
+dastuisi 0,2 astetta vuoteen 2100 mennessä. 
+
+18.40 Johanna Karimäki vihr: Arvoisa puhemies! Jo monta talvea on ollut Etelä-Suo-
+messa vähälumista. Hiihtokausi on jäänyt lyhyeen ja lasten lumileikit vähiin. Hirmumyrs-
+kyt Irma ja Harvey ovat pyyhkäisseet laajaa tuhoa Amerikassa. Niiden aiheuttama inhimil-
+linen hätä on suurta, ja jälkeen jäi miljardien jälleenrakennuslasku. Silti ihmiskunta hidas-
+telee ilmastonmuutoksen torjunnassa. Ihmettelen, onko Sternin raportin viisaat opetukset
+unohdettu. Ilmastonmuutosta on torjuttava mahdollisimman aikaisin. Muuten sen kustan-
+nukset ovat mittavat.
+
+Yksi kohtalonkysymys on Pariisin ilmastosopimuksen toimeenpano. Uutena toimena
+sopimus tuo globaalin hiilinielujen suojelun. Metsien nieluja pitää kasvattaa, ei vähentää.
+Metsien käytön vertailutason määrittelyssä tulee huomioida maankäytön todelliset ilmas-
+tovaikutukset. Maiden ei tule voida asettaa vertailutasoja kansallisesti omin päin, sillä se
+on luonnontieteen näkökulmasta mielivaltaista ja globaalisti kestämätöntä. Laskentasään-
+töjen tulee perustua päästöjen todelliseen kehitykseen. Mutta Sipilän hallitus aikoo puolit-
+taa Suomen metsien hiilinielut vuoteen 2030 mennessä. 
+
+Monet metsä- ja ilmastotutkijat ovat esittäneet huolen hallituksen ylimitoitetuista bio-
+energiatavoitteista. Niiden toteutuessa ilmastopäästöt eivät vähene lähivuosina ja luonnon
+monimuotoisuus on uhattuna. Suomella on korkean teknologian maana mahdollista edis-
+tää vihreää teknologiaa, pitkäkestoisten puutuotteiden valmistamista sekä tuuli- ja aurin-
+koenergian lisäämistä. Kestävä biotalous on myös osa ratkaisua — kohtuullisuuden ja kes-
+tävyyden rajoissa. Autoilun viherryttäminen ei voi pohjautua vain biopolttoaineisiin, vaan
+lisätukea tarvitaan sähkö- ja biokaasuautoiluun.
+
+Hallituksen energia- ja ilmastostrategiassa ei ehdoteta nopeasti vaikuttavia keinoja kivi-
+hiilen käytön vähentämiseksi, ja hallitus aikoo jopa lisätä turpeen polttoa. Hiilineutraali
+Suomi on mahdollinen jo 2030-luvulla, ja kivihiilen käytöstä lämmityksessä on luovuttava
+jo vuonna 2025. Hallitus ei esitä sähkön pientuotannolle konkreettista tukea. Vihreiden
+pienenergiaohjelma vauhdittaisi maatilojen biokaasulaitoksia, maalämpöä ja aurinkoener-
+gian pientuotantoa. Erityisesti julkisten rakennusten maalämpöön siirtymisessä on poten-
+tiaalia, ja aurinkoenergiasta on tehtävä houkutteleva vaihtoehto myös taloyhtiöille, kerros-
+37
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+taloille ja rivitaloille. Se vaatii muutoksia sähkömarkkinalakiin sekä kotitalousvähennyk-
+sen laajennusta. 
+
+Kunnissa tehtävä ilmastotyö on keskeistä. Panostetaan kävelyn ja pyöräilyn edistämi-
+seen sekä tehokkaaseen joukkoliikenteeseen. Tarvitaan lisää vuoroja ja yhteyksiä julki-
+seen liikenteeseen sekä lisää raideliikennettä kaupunkeihin ja kaupunkien välille. Ihmisten
+ilmastoystävälliset valinnat, kuten kierrätys, on tehtävä helpoiksi.
+
+Ministeri Tiilikainen mainitsi ruokahävikin vähentämisen keskeisenä ilmastotekona.
+Toivon ministerin edistävän ruokapoliittisen selonteon yhteydessä hyväksyttyjä ponsia
+ruokahävikin vähentämiseksi. On syytä asettaa elintarvikeketjun eri osien ruokahävikin
+vähentämiselle numeeriset tavoitteet sekä selvittää elintarvikkeiden päiväysmerkintöjä
+koskevat uusimistarpeet hävikin vähentämiseksi.
+
+Se, mitä syömme, on myös olennaista ilmastopäästöjen vähentämisessä. Kasvisproteii-
+nien hiilijalanjälki on paljon pienempi kuin lihan. Valtakunnallisesti kouluissa järjestettä-
+vällä viikoittaisella kasvisruokapäivällä olisi iso ilmastovaikutus.
+
+Ilmastonmuutoksen torjunnassa on kysymys siitä, että lapsillamme ja heidän lapsillaan
+on hyvä elää maapallolla. Aikaa ei ole hukattavaksi, sillä globaali puolentoista asteen läm-
+peneminen saavutetaan jo vuonna 2024, jos päästöjä ei nopeasti leikata. Tässä on, arvoisat
+edustajat, myös selitys sille, minkä takia myöskään metsien hiilinieluja ei pidä vähentää:
+meillä ei ole aikaa odotella puuston kasvua, kun päästöjä pitää vähentää jo tänä päivänä.
+Suomen ja EU:n pitää leikata päästöjä 60 prosenttia vuoteen 2030 mennessä, jotta Pariisin
+velvoite saavutetaan.
+
+18.45 Katri Kulmuni kesk (vastauspuheenvuoro): Arvoisa puhemies! En tiedä, kuulinko
+aivan oikein, mutta jäi sen verran harmittamaan, että täytyy kommentoida tätä kivihiili-
+asiaa. Kuitenkin kun hallitus on esittämässä lakia, joka kieltää kivihiilen käytön, niin en nyt
+kyllä ensimmäisenä olisi hallitusta kritisoimassa siitä, ettei kivihiilen käytön estämiseksi
+tehdä toimenpiteitä. Ensimmäinen maa maailmassa, joka tulee kieltämään sen lainsäädän-
+nöllä.
+
+Tästä metsien monimuotoisuudesta haluaisin vielä ottaa esille erään erittäin mielenkiin-
+toisen Greenpeacen tekemän tutkimuksen tämän vuosituhannen alusta, 2000—2013. Siinä
+vertailtiin pohjoisten koskemattomien metsien metsäkatoa, ja tällä ajanjaksolla Suomessa
+metsäkato oli 0,2 prosenttia. Sama luku oli Venäjällä 7,2, Alaskassa 5,9 ja Kanadassa 4,5.
+Metsäteollisuus siirtyy kuitenkin johonkin, kun tuotteille on kysyntää. Me emme varmas-
+tikaan halua, että se siirtyy Suomesta pois.
+
+Toinen varapuhemies Arto Satonen: Vastauspuheenvuoro, edustaja Karimäki, ja sen jäl-
+keen puhujalistaan.
+
+18.46 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa puhemies! Hallituksen ta-
+voite luopua kivihiilestä on tärkeä ja kannatettava, mutta se on edennyt kovin hitaasti. Hal-
+litus ei ole tehnyt asian eteen yhtään mitään tähän mennessä, ja kivihiilen käyttö on tämän-
+kin vuoden alusta lisääntynyt 3 prosenttia. Tämä on todella valitettavaa, kun on ollut jo
+kaksi vuotta aikaa valmistella laki ja tuoda se tänne käsittelyyn.
+
+Metsäluonnon monimuotoisuus valitettavasti hupenee kovaa vauhtia. Tutkijat ovat ker-
+toneet kuudennesta sukupuuttoaallosta. Erityisesti lahopuusta riippuvainen lajisto kärsii, ja
+populaatioiden välinen geenivaihtelu on uhattuna, kun alueet ovat pieniä ja pirstoutuneita.
+38
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+Täällä Etelä-Suomessa varsinkin on hyvin vähän luonnontilaista, suojeltua vanhaa metsää,
+ja sen takia vihreät esittävätkin luonnonsuojelualueiden hankintamäärärahoihin merkittä-
+viä lisäpanoksia muun muassa tulevan vuoden budjettiin.
+
+18.48 Teuvo Hakkarainen ps: Arvoisa puhemies! Tuntuu siltä, että kaikki muut paitsi
+perussuomalaiset ovat kompastuneet tuohon vihreään lankaan ja kaikki tuntuvat uskovan,
+että Suomi pelastaa koko maailman. Mutta minä olen sitä mieltä, että täällä voi lyödä ja
+hyppiä korkealle, lyödä karvattomaan rintaan ja sanoa, että täältä pesee — ei tapahdu mi-
+tään. Ihan sama vaikka tehtäisiin reservaatti tästä Suomesta — ilmastonmuutokselle sillä ei
+ole mitään merkitystä. Suomessa on maailman puhtain teollisuus, mitä päästöihin tulee, ja
+jos se siirtyy vaikka Venäjälle, sinnehän voidaan tehdä vaikka Suomen kokoinen aukko —
+siis kaikki puut pois — ja silloin niitä haittoja saattaa tulla. Mutta eihän semmoisesta välitä
+varsinkaan vihervasemmisto, koska se haluaa, että täällä on työttömyyttä ja kurjuutta, ja
+sitten toveripopulismi ja vihreä populismi purevat nimenomaan tänne.
+
+Hallitusohjelmassa sovittiin perussuomalaisten vaatimuksesta, että Pariisin ilmastosopi-
+muksen tavoitteisiin Suomi osallistuu vain markkinaehtoisesti. Tämän piti tarkoittaa, että
+Suomi ei ryhdy taakanjakoihin eikä energiantuotantotukipaketteihin. Suomi otti kuitenkin
+kantaakseen EU:n eniten saastuttavien maiden Puolan, Romanian ja Bulgarian päästövel-
+voitteet, koska ne eivät muuten olisi ratifioineet Pariisin sopimusta ja EU olisi jäänyt sil-
+loin sopimuksen ulkopuolelle.
+
+Arvoisa puhemies! Tämä solidaarisuus merkitsee suomalaisille kotitalouksille 500 mil-
+joonan euron ja teollisuudelle 800—1 200 miljoonan euron lisälaskua vuositasolla Peller-
+von taloudellisen tutkimuslaitoksen mukaan. Kalliita suomalaisille työntekijöille ja yrittä-
+jille tämmöiset sopimukset. Eivätkä lisälaskut jää tähän, koska keskustavetoinen hallitus
+ilmastosopimukseen vedoten suunnittelee toteuttavansa miljardiluokan veroeurojen tulon-
+siirron yksityisille toimijoille. Kuinka ollakaan ne ovat päättäjien lähipiiristä. Esimerkiksi
+tuulivoimalle ollaan etsimässä uutta noin miljardin euron tukipakettia, joka tulee syöttöta-
+riffien, 2—3 miljardin euron lisäksi. Siksi Suomi otti kantaakseen Puolan, Romanian ja
+Bulgarian päästöosuudet. Löytyykö maastamme rohkeaa tutkivaa journalismia, joka pal-
+jastaisi tämän rakenteellisen korruption? 
+
+Mielenkiintoista on nyt todeta, että ennen kesäkuuta hallituksessa olleet puolueet sopi-
+vat, että uusiutuvan energian tukipakettien lainvalmisteluakaan ei aloiteta ennen kuin tuu-
+livoiman infraäänien terveystutkimukset on tehty. Niistä on vasta ykkösvaihe toteutunut.
+Kakkosvaihehan vasta selvittää, onko infraääni aiheuttanut tuulivoimalan lähellä asuville
+oireet vai ei. Tällainenko arvo- ja moraalipohja on nyt hallituksessa, ettei se edes noudata
+omia päätöksiään, kun kiirehtii jakamaan omalle hyvä veli -verkostolleen miljardikaupalla
+euroja? Mistä leikataan lisämiljardit?
+
+18.53 Ritva Elomaa ps: Arvoisa puhemies! Hienoa, että täällä ovat edustajat Savio, Hak-
+karainen ja Mäkelä, perussuomalaiset, paikalla, ettei tarvitse ihan tyhjille seinille puhua.
+
+Tulevaisuuden varalle olisi aina hyvä olla suunnitelma. Aiheena on tänään ilmastopoli-
+tiikan suunnitelma vuoteen 2030. Selkeät tavoitteet auttavat tekemään oikeansuuntaisia
+asioita ja päätöksiä myös politiikan saralla. Hallituksen toimintasuunnitelma "Kestävän
+kehityksen Suomi" tavoittelee parempaa sosiaalista oikeudenmukaisuutta, ympäristöystä-
+vällisempää tulevaisuutta sekä kestävämpää taloutta. Kestävä kehitys on valtavan tärkeä
+teema. On pyrittävä löytämään ympäristöystävällisiä ratkaisuja, mutta samanaikaisesti tu-
+39
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+lee huolehtia talouden rattaiden pyörimisestä ja ihmisten hyvinvoinnista. Edellinen virke
+tiivistää oikein hyvin perussuomalaisten näkemyksen energia- ja ilmastopolitiikan osalta.
+Kestävään kehitykseen on panostettava kansallista etua valvoen. Tässä suhteessa Suomen
+on suhtauduttava varauksella EU-alueen laajoihin ilmastopoliittisiin hankkeisiin, ettei
+meillä nieltäisi purematta erityisen haitallisia esityksiä.
+
+Me perussuomalaiset kannatamme kotimaisten energianlähteiden käytön vahvistamis-
+ta. Esimerkiksi turve ja puu ovat keskeisiä palasia suomalaisen energiapolitiikan saralla.
+On perusteltua pyrkiä mahdollisimman korkeaan energiaomavaraisuuteen. Myöskään
+huoltovarmuustekijänä kotimaisten energianlähteiden merkitystä ei voi kyllin korostaa.
+Mitä tulee energianlähteiden uusiutuvuuteen, hyvällä suunnittelulla kotimaisia luonnolli-
+sia energianlähteitä kyetään hyödyntämään kätevästi. Erilaisten energiantuotantoon liitty-
+vien tukien osalta tulee suomalaisten elinkeinonharjoittajien asemaa puolustaa. Tuet eivät
+saa johtaa vinoutuneeseen jakaumaan eri energiantuotantomenetelmien osalta. Kasvihuo-
+nepäästöjen osalta nykyisten polttoaineiden korvaaminen uusiutuvilla biopolttoaineilla on
+järkevää politiikkaa, ja tällä saralla Suomella on osaaminen hyvällä tasolla. Kotimainen
+cleantech-ala on kehittynyt viime vuosina harppauksin, ja suomalaisyrityksiä on kannus-
+tettava tarttumaan ilmastopolitiikkaan nivoutuviin liiketoimintamahdollisuuksiin.
+
+Sähköautot ovat tulevaisuutta, ja siellä meillä Uudenkaupungin autotehtaalla mielellään
+valmistetaan tulevaisuudessakin sähköautoja. Tulee suomalaisille töitä ja vienti vetää, jos
+vain on kysyntää sähköautoilla. Sähköautoilua ja muuta ympäristöystävällisempää liikku-
+mista on edistettävä, mutta tällä saralla ei pidä mennä liiallisuuksiin esimerkiksi kohdenta-
+malla suomalaisille autoilijoille ylisuuria veroja tai leikkaamalla ympäristönsuojelun pe-
+rusteella kilometrikorvauksia.
+
+Arvoisa puhemies! Globaalisti ajateltuna väestönkasvu varsinkin köyhissä maissa jat-
+kuu edelleen. Maapallo ei kestä myöskään tätä kehitystä loputtomiin. Nälkään kuolee val-
+tavat määrät ihmisiä joka päivä. Ilmastonmuutoksesta puhutaan, päästövähennysten pitäisi
+olla jokaisen maan velvollisuus. Jotkut maat Euroopassakin ovat vapaamatkustajia tässä
+asiassa. Suomi kantaa vastuunsa ilmastopolitiikassa, mutta meidän hartioillemme ei voi
+laittaa toisten velvoitteita.
+
+Edustaja Immonen otti esille myös puurakentamisen puheessaan. Suomi voisi olla todel-
+la puurakentamisen mallimaa. Samoin perussuomalaisten ryhmän puheessa tuli esille maa-
+talouden tärkeä merkitys ja asema maassamme. Suomen maataloutta päästöjen suhteen
+syytetään usein rankasti. Usein maataloutemme kohdalla on kuitenkin tehty viime vuosien
+ajan erittäin hyviä uudistuksia muun muassa vesistöjämme ajatellen. — Kiitos.
+
+18.58 Jani Mäkelä ps: Arvoisa puhemies! Tämän ilmastopolitiikan suhteen meidän on-
+gelmamme näissä sitoumuksissa, mitä olemme tehneet, on juurikin tämä lähtötaso, joka
+Suomessa on ollut jo varsin hyvin ennaltaan. Nyt kun me lähdemme toteuttamaan entistä
+tiukempia päästövaatimuksia, niin olemme ongelmissa erityisesti liikenteen suhteen. Vä-
+hänkin asiaan perehtyneenä kuulostaa mahdottomalta, että niihin tavoitteisiin liikenteen
+päästöistä voitaisiin millään realismilla päästä, koska se autokanta, mitä me tällä hetkellä
+ostamme uutena, on vasta elinkaarensa puolessavälissä vuonna 2030. Voidaan puhua esi-
+merkiksi dieselistä luopumisesta, mutta eihän siitä dieselistä luovuta vielä ennen kuin vuo-
+teen 2040 mennessä, vaikka tänä päivänä ei myytäisi yhtään dieselautoa. 
+
+Jos kaikkiin autoihin asennetaan vuodesta 2020 lähtien erään valmistajan toimesta säh-
+kömoottori eli myöskin lasketaan hybridit, niin eihän se autokanta sitä kautta ole uusiutu-
+40
+
+
+
+Pöytäkirjan asiakohta PTK 94/2017 vp
+nut kuin vuosikymmenten kuluessa. Sähköautojen teknologia on kallista, puolivalmista, ja
+on kyseenalaista, miten ympäristöystävällinen se koko elinkaarensa matkalta on. Toisaal-
+ta, mistä niitä satojatuhansia sähköautoja tulisi, kun ne ovat niin kalliita, että vain pienellä
+kansanosalla on varaa niitä uusina ostaa, ja käytettyinä niitä ei ole markkinoilla? On tiet-
+tyjä epäilyksiä siitä, miten se akkuteknologia kestää esimerkiksi 10—15 vuoden kuluttua
+edes kierrättää niitä autoja uusille omistajille käytettyinä. 
+
+Kuitenkin Suomi on pitkien etäisyyksien maa, jossa auto on välttämättömyyshyödyke.
+Se on edellytys liikkumiselle ja työnteolle, ja ilman sitä liikkumista ja työntekoa meillä ei
+ole rahaa myöskään ympäristönsuojeluun. Nämä edellytykset meidän täytyy välttämättä
+suomalaisilla säilyttää, että me voimme autoilla. 
+
+19.00 Sami Savio ps: Arvoisa puhemies! Energiapolitiikka on Suomen teollisuudelle, ta-
+loudelle, kehitykselle erittäin tärkeä, ja se tulee jatkossakin hoitaa järkevästi ja taloudelli-
+sesti.
+
+Edustaja Hakkarainen otti täällä äsken esille muun muassa tuulivoiman syöttötariffin.
+Tämä syöttötariffi on tullut valitettavan kalliiksi veronmaksajille vuosien myötä. Se on on-
+neksi hieman laskenut, mutta sen taso on edelleen 83 euroa 50 senttiä megawattituntia koh-
+ti, ja tämäkin huolimatta siitä, että tuulivoima on erittäin epävarma energianlähde. Halli-
+tusohjelmassa syöttötariffikiintiö päätettiin rajata 2 500 megavolttiampeeriin, mutta tämä-
+kin kiintiö edelleen aiheuttaa kansalaisille, veronmaksajille, satojen miljoonien eurojen
+lisälaskun vielä vuosikausien ajan. Kuten edustaja Hakkarainen äsken totesi, niin hallitus
+suunnittelee edelleen uusia uusiutuvan energian tuotantotukia. 
+
+Arvoisa puhemies! Valitettavasti myös tuulivoimaan liittyviä infraäänen vaikutuksia
+kansalaisille on vähätelty. Monet ihmiset kokevat tuulivoiman tuotantoalueilla sairastu-
+neensa, kokevansa terveyshaittoja. Heille on vuosikausien ajan ehkä jopa naureskeltu, ai-
+nakin heidän ongelmiaan on vähätelty, ja tämä on aiheuttanut kyllä oireita kärsiville ihmi-
+sille suurta tuskaa. Perussuomalaiset kuitenkin suhtautuvat näiden ihmisten ongelmiin va-
+kavasti, ja vaadimme, että näistä infraäänen vaikutuksista, varsinkin terveysvaikutuksista,
+tehdään laajamittainen, puolueeton selvitys. 
+
+Arvoisa puhemies! Aivan lopuksi: on tietysti selvää minulle tekniikan alan koulutuksen
+saaneena, että uutta teknologiaa on syytä jatkossakin kehittää, mutta sen täytyy jatkossakin
+olla markkinaehtoista, ei yhteiskunnan tukiin perustuvaa.
+
+Keskustelu päättyi.
+
+Asia lähetettiin ympäristövaliokuntaan, jolle liikenne- ja viestintävaliokunnan, maa- ja
+metsätalousvaliokunnan ja talousvaliokunnan on annettava lausunto.
+41
+
+

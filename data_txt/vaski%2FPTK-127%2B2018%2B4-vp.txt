@@ -1,0 +1,288 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM38B1.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 127/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 127/2018 vp
+
+Täysistunto
+
+Maanantai 10.12.2018 klo 14.01—20.08
+
+4. Hallituksen esitys eduskunnalle laiksi sosiaali- ja terveydenhuollon asiakastietojen säh-
+köisestä käsittelystä sekä eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 300/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 4. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään sosiaali- ja terveysvaliokuntaan, jolle pe-
+rustuslakivaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+14.34 Arja Juvonen ps: Arvoisa rouva puhemies! Olisin toivonut, että ministeri olisi ol-
+lut esittelemässä tätä lakia, mutta ilmeisesti hän ei nyt sitten — sosiaali- ja terveysministeri
+varmaankin — ole paikalla. 
+
+Tässä hallituksen esityksessähän esitetään säädettäväksi laki sosiaali- ja terveydenhuol-
+lon asiakastietojen sähköisestä käsittelystä sekä tarvittaessa muutoksia muihin lakeihin.
+Täällä on valtavasti erilaisia asioita, jotka liittyvät kansalaisten asiakastietoihin ja siihen,
+kuka on rekisterinpitäjä ja mitkä ovat tietojenkäsittelyn edellytyksiä, ja erityisesti myös
+asiakas- tai hoitosuhde on täällä tärkeänä takana. Sen tulee olla varmistettu, joten olisin ha-
+lunnut ihan ministeriltä kysyä, millä tavalla turvataan se, että myös asiakkaiden henkilö-
+kohtaiset tiedot ovat varmassa tallessa ja ne eivät valu minnekään vääriin käsiin, ja millä
+tavalla henkilö pystyy sitten itse määrittelemään, kuka hänen tietojaan saa katsoa, mihinkä
+kaikkialle hänen tietonsa kirjataan. Nämä ovat sellaisia asioita, että nämä koskettavat kaik-
+kia meitä kansalaisia, erityisesti kun tämä sote-uudistus on tulossa ja kun meillä on tämä
+Kanta-rekisteri. 
+
+Tänä päivänähän, kun menet tuonne lääkärille tai saat laboratorionäytteestä tai röntge-
+nistä vastauksen, niin kerrotaan, että katsopa sieltä Kannasta ne omat vastauksesi. Tämä-
+hän asettaa ihan valtavan suuren haasteen meille tulevaisuudessa, erityisesti ikääntyvälle
+väestölle: millä ihmeen konstilla he, joilla ei ole esimerkiksi näitä nettiyhteyksiä, saavat
+näitä tietoja — ja eivät ainoastaan saa vaan sitten myös ymmärtävät sen lukemansa, koska
+siellähän puhutaan diagnooseista ja sitten esimerkiksi laboratoriokokeissa myös eri arvois-
+ta, ja ne pitää osata tulkita.
+
+Eli nämä asiat minua huolestuttavat, ja näistä olisin halunnut ministeriltä kysyä. Mutta
+tämä näyttäisi vähän siltä tutulta paketilta, että se varmaan sote-valiokuntaan tulee, ja siel-
+lä viimeistään me saamme sitten vastauksia näihin kysymyksiin. Mutta nämä asiat minua
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 127/2018 vp
+huolestuttavat, kuinka vanhat ihmiset löytävät tietonsa ja saavat vastauksensa. [Mika Kari:
+Tai nuoret!]
+
+14.36 Sinuhe Wallinheimo kok: Arvoisa puhemies! Tämä hallituksen esitys on askel
+eteenpäin ja on Sipilän hallitusohjelman mukainen. Esityksen tavoitteena on siis tukea so-
+siaali- ja terveydenhuollon uudistamista ja kansalaisten aktiivisuutta oman hyvinvointinsa
+ylläpidossa parantamalla tiedonhallintaa ja lisäämällä sähköisiä palveluita.
+
+Itseäni ihmetyttää, arvoisa puhemies, miksi vasta nyt. Nimittäin esimerkiksi sosiaali-
+huollon asiakastietojen sähköisen arkistoinnin toteuttamisen esiselvitystyö toteutettiin jo
+vuonna 2008. Valitettavasti taas, kun puhutaan digitalisoinnista, olemme onnistuneet huk-
+kaamaan vuosikymmenen. On selvää, että meidän on jatkossa pystyttävä nopeampaan di-
+gitalisointiin monella eri hallinnonalalla, varsinkin sosiaali- ja terveysalalla.
+
+Esityksessä ehdotetaan valtakunnallisten tietojärjestelmäpalvelujen sisällön laajenta-
+mista siten, että asiakas itse voisi tallentaa omia hyvinvointitietojaan tai erilaisten hyvin-
+vointisovellusten tuottamia tietoja kansalaisten Omatietovarantoon. On selvää, että henki-
+löt, organisaatiot ja tietotekniset laitteet on tunnistettava luotettavasti, ja uskonkin, että
+tämä ei tule Suomessa olemaan ongelmallista, päinvastoin. Edustaja Juvonen totesi ehkä
+eripäin, että tietosuoja voi joskus olla jopa liiankin suojelevaa. Mielestäni ei ole. Tervey-
+denhuollon järjestämisessä erityisesti tätä tarvitaan tuottamisen ja toteuttamisen sekä laa-
+jemman näkökulman ja yleisen edun näkökulmasta.
+
+Me olemme varmasti kaikki saaneet viestejä ympäri Suomen maata, että tieto ei valitet-
+tavasti Suomessa liiku. Kuitenkin tieto- ja viestintäteknologian ratkaisut ja digitalisaatio
+ovat välineitä sosiaali- ja terveydenhuollon asiakkaiden paremmalle palvelulle sekä hyvin-
+voinnin ja toimintakyvyn ylläpitämiselle ja kehittämiselle. Sähköisillä palveluilla voidaan
+myös tukea kansalaisten mahdollisuuksia itse ylläpitää toimintakykyään ja terveyttään.
+
+Kaiken kaikkiaan siis kannatettava esitys, joka on pikimmiten vietävä suomalaisten ar-
+keen.
+
+14.38 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Tämä hallituksen esitys on to-
+dellakin tarpeellinen ja erittäin ajankohtainen. Kaikki palvelut ovat menossa tuonne säh-
+köiseen maailmaan, internetin kautta tehtäviin toimintoihin. Tämä edellyttää tietenkin sitä,
+että saamme jonain päivänä tässä maassa täydellisesti pelaamaan sen sähköisen potilastie-
+tojärjestelmän, joka on saatavissa sitten potilaan lääkärin käyttöön. Esimerkiksi kun poti-
+las on vaikka Lapissa lomalla, käy siellä ihan pohjoisessa vaikka kipeytyneen jalan takia
+lääkärissä, lääkäri näkee välittömästi hänen tietonsa netin kautta, asiakkaan tiedot löytyvät
+sieltä. 
+
+Mutta tässä on monia ongelmia, jotka mielestäni pitää huomioida. Totta kai tätä hanket-
+ta pitää viedä eteenpäin ja tämäkin laki hyväksyä, koska entinen, vielä voimassa oleva laki
+on jo vanhentunut termistöltään ja monen muunkin asian suhteen. 
+
+Mutta ensimmäisenä asiana tulee mieleen se, että kun palveluja kehitetään, niin tämä di-
+gitalisaatiohan myös auttaa eteenpäin. Otetaan esimerkkinä vaikka röntgenkuvan ottami-
+nen. Jos ihmisestä otetaan vaikka jossakin terveyskeskuksessa röntgenkuva ja ei ole var-
+muutta paikallisen lääkärin asiantuntemuksesta — sanotaanko, hän ei ole vielä kokenut,
+pitkään työssä ollut lääkäri — niin hän lähettää sen erikoislääkärille konsultointia varten,
+että mikä tämän kuvan anti on. Sieltä kautta tulee nopeasti vastaus, elikkä potilas saa sii-
+näkin tilanteessa huippuhoitoa huippulääkäriltä, vaikka kyseistä lääkäriä ei ole mailla hal-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 127/2018 vp
+meillakaan, hän voi olla vaikka toisella puolella Suomea. Elikkä tämän suhteen pitää näitä
+järjestelmiä totta kai kehittää. Se auttaa ihmisiä saamaan palvelua ajallaan ja ennen kaik-
+kea sen hoidon nopeasti ja tehokkaasti niin, että ne sairauspäivät jäävät mahdollisimman
+lyhyiksi.
+
+Sitten saatavuuden suhteen on se ongelma — pakko meidän on tunnustaa, tässä on mei-
+dän suomalaisten ja varsinkin eduskunnan laiskanläksyä — että olemme mielestäni hie-
+man kummallisilla sanankäänteillä perustelleet sitä, minkä tautta nopeaa laajakaistayhteyt-
+tä ei voida koko maahan rakentaa, niin, että on vedottu siihen, että markkinat sen tekevät.
+Kaikki me sen tiedämme, että suuret teleoperaattorit eivät ole kiinnostuneita mistään
+muusta kuin suurista voitoista. Totta kai palvelujen kehittäminen siellä, missä on paljon
+asiakkaita, on houkuttelevaa [Puhemies koputtaa], se on itsestäänselvyys. Mutta tässä
+maassa pitää pitää huoli siitä, että kaikkialla maassa on toimivat, nopeat laajakaistayhtey-
+det. Kotikunnassani Ilomantsissa ne olemme itse sinne rakentaneet ja tehneet kunnan pää-
+töksellä. Nyt on täysin toimiva valokuituverkko kaikille kansalaisille, ja se on parantanut
+sekä terveydenhuollon järjestelmien toimivuutta, opetusta se on parantanut, pankkien toi-
+mintaa, yritysten toimintaa, koko sen yhteisön toimintaa se on ehdottomasti parantanut.
+Mutta valitettavasti tämä palvelu ei ole koko valtakunnassa saatavilla, elikkä tämä on ko-
+vin eriarvoistavaa, ellemme saa näitä laajakaistaverkkoja rakennetuksi koko maahan. Toi-
+vonkin, että eduskunta puuttuu tähän vahvalla kädellä. Ja teen ihan tämmöisen ajatusmal-
+lin eduskunnalle harkittavaksi, että jos vaikka Euroopan unionista tulee rakennerahaston
+rahoja, niin se olisi oivallinen keino laittaa nämä verkot kuntoon ja saattaa kansalaiset tä-
+mänkin asian suhteen tasa-arvoiseen asemaan. 
+
+14.41 Päivi Räsänen kd: Arvoisa puhemies! Tämä lakiesitys, joka koskee sosiaali- ja ter-
+veydenhuollon asiakastietojen sähköistä käsittelyä, on laaja, ja siihen sisältyy monia tär-
+keitä yksityiskohtia. Itsekin olisin toivonut, että ministeri olisi täällä ollut tätä esittelemäs-
+sä ja myös vastaamassa kysymyksiin. 
+
+Yksi kysymys, joka tähän liittyy, on asiakkaan, potilaan, oikeus kieltää tietojensa luo-
+vutus sosiaali- ja terveydenhuollon rekisterinpitäjien välillä, mikä on tärkeä oikeus, mutta
+potilas ei välttämättä ymmärrä, minkälaisiin potilasturvallisuusongelmiin kiellot voivat
+johtaa. Toivonkin, että sosiaali- ja terveysvaliokunnassa tätä nyt huolellisesti käsitellään,
+vaikka tiedän, että siellä valiokunnassa on aikamoinen paine tämän syksyn jäljiltä. Mutta
+esimerkiksi Lääkäriliitto on kiinnittänyt huomiota siihen, että lääkitysturvallisuuden toteu-
+tumisen näkökulmasta on välttämätöntä, että hoitavalla lääkärillä on tiedossa se, että poti-
+las on tehnyt kieltoja koskien esimerkiksi Reseptikeskuksen tai Potilastiedon arkiston tie-
+toja. Jo pelkästään sekin, että lääkäri tietää, että joitain kieltoja on tehty, auttaisi asiassa,
+vaikka ei tiedettäisi sitä alkuperäistä tietoa. Samoin Valviran näkemyksen mukaan kielto-
+oikeus oli ainakin siinä luonnosvaiheessa liian laaja ja vaarantaisi potilasturvallisuuden.
+
+Olisinkin ollut kiinnostunut tietämään, onko näitä ongelmia nyt riittävällä tavalla lopul-
+lisessa lakiesityksessä korjattu, ja kun ministeri ei ole paikalla, niin toivon, että valiokun-
+nassa tämä huolellisesti selvitettäisiin. 
+
+14.43 Niilo Keränen kesk: Arvoisa puhemies! Ensin tiedoksi, että ministeri on hallituk-
+sen strategiakokouksessa. Kun meillä täällä eduskunnassa ei tavallisesti ole istuntoja maa-
+nantaisin, niin on tämä hallituksen strategiakokous.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 127/2018 vp
+Arvoisa puhemies! Sitten tähän lakiesitykseen: Minusta keskeisintä tässä lakiesitykses-
+sä on se, että nyt saadaan sosiaalitoimen tiedot mukaan tuonne valtakunnalliseen Kanta-
+palveluun ihan vastaavalla tavalla kuin terveystiedot ovat olleet tähän saakka. Se on erityi-
+sen merkittävä asia sosiaali- ja terveydenhuollon integraation kannalta.
+
+Sitten, arvoisa puhemies, täällä on muutamissa puheenvuoroissa aprikoitu potilaan mah-
+dollisuutta kieltää tietojensa luovuttaminen. Olen tuon lakiesityksen ja sen perustelut var-
+sin tarkkaan tutkinut, ja minusta siellä hyvinkin yksityiskohtaisesti monissa eri kohdin
+puututaan nimenomaan siihen, että potilas voi todellakin kieltää joko tapahtuman tiedot
+taikka tietylle palveluntuottajalle menevät tiedot. Se on aika yksityiskohtaista siellä laki-
+esityksessä.
+
+Arvoisa puhemies! Ihan tämmöinen pieni arveluttava kohta sieltä sattui silmiin, kun tuo-
+ta lakiesitystä ja sen perusteluja tutkin. Siellä on tietyissä kohdin yhteisiä rekisterinpitäjiä,
+Kela ja palvelujen tuottajat, ja siinä saattaa syntyä jonkintyyppistä ristiriitaa, mutta emme-
+köhän me tätä siellä sosiaali- ja terveysvaliokunnassa sitten käsittele ja löydä siihen ratkai-
+sun.
+
+14.45 Anneli Kiljunen sd: Arvoisa rouva puhemies! Juuri aivan samoin kuten edustaja
+Keränen toteaisin sen, että tämä lainsäädäntö on askel eteenpäin, ja ennen kaikkea tämä on
+askel eteenpäin sosiaalipalveluiden tietojärjestelmien kehittämisessä, sillä on todettu mo-
+nella tapaa, että sosiaalipalvelut ovat jääneet jälkeen meidän terveydenhuollon tietojärjes-
+telmien ja varsinkin valtakunnallisten tietojärjestelmien kehittämisessä. Nyt tämä mahdol-
+listaa integraation kehittämisen, ja sitä kautta tämä lakiesitys on askel eteenpäin.
+
+Mutta tämä laki on yhteydessä myös muihin lakeihin, muun muassa sosiaali- ja terveys-
+palvelu-uudistukseen sekä toisiolakiin, ja meidän yhtenä suurena ongelmana on ollut ni-
+menomaan tietosuojan näkökulmasta, kuinka näitä tietosuojakysymyksiä tulevaisuudessa
+kehitetään sillä tavalla, että ne ovat potilasturvallisuuden ja asiakasturvallisuuden kannalta
+hyviä. Joissakin tilanteissa nimenomaan nämä tietosuojakysymykset voivat tulla kompas-
+tuskiveksi tässä kehittämistyössä, minkä takia — voisiko sanoa — täytyy kiinnittää erityis-
+tä huomiota nimenomaan näihin tietosuojakysymyksiin ja potilasturvallisuuskysymyk-
+siin, jotka täällä on jo aikaisemminkin mainittu. 
+
+14.47 Ville Skinnari sd: Arvoisa puhemies! Kuten eduskunnan lääkäriedustajat jo hyvin
+nostivat esille esityksen hyviä puolia ja samalla toki myöskin haasteita, niin jatkaisin edus-
+taja Kiljusen pohdintaa tästä integraatiosta siten, että on tietysti hyvä, että meille syntyy di-
+gitaalinen alusta, jossa SO ja TE kohtaavat. Samalla toki on pakko todeta se, että tämä tie-
+tosuoja-asetushan on meille eduskunnassa ja oikeastaan koko Euroopalle tällä hetkellä iso
+haaste. Se liittyy aivan kaikkeen, mitä me teemme, ja meidän pitää se osata ja ymmärtää.
+
+Mutta, arvoisa puhemies, kun tässä nyt Kanta-palvelusta on puhuttu ja ylipäätään tieto-
+järjestelmistä, niin olisin myös toivonut, että ministeri olisi ollut täällä itse paikalla, koska
+minulla on se huolenaihe, että tässä kaikessa sote-keskustelussa on tosi vähälle jäänyt po-
+tilastietojärjestelmien yhteinen kehittäminen ja siinä ehkä pidemmän aikavälin näkemi-
+nen, koska me näemme nyt jo maakunnissa, miten paljon meillä on ollut ongelmia. Toivot-
+tavasti jokainen maakunta ei sitten vuorollaan nielaise sitä samaa myrkkypilleriä ja opet-
+tele vuorollaan, miten asioita pitäisi tehdä, koska digitaalisuus ja teknologia kuitenkin tuo-
+vat sitä tuottavuutta, mitä me sotelta haluamme ja mitä kautta me saamme säästöjä. 
+4
+
+
+
+Pöytäkirjan asiakohta PTK 127/2018 vp
+Eli tästäkin syystä toivoisin, että vielä tämän eduskunnan aikana ministeri ja ministerit
+ottaisivat laajemmin esille tämän tietojärjestelmien kehittämisen, koska vaikka SoteDigi
+Oy ja Vimana ja muut toimijat nyt tekevät siellä asioita, niin uskallan väittää, että se koko-
+naiskuva ontuu vielä, mihin Suomi on menossa, millaisilla järjestelmillä, ja etenkin se, ket-
+kä niitä järjestelmiä tekevät. Pitääkö meidän aina ostaa ne ulkomailta, pääasiassa Yhdys-
+valloista? Emmekö me itse pysty tekemään tietojärjestelmiä maassa, mikä on usein rankat-
+tu maailman ykköseksi myös digitalisaatiossa?
+
+Keskustelu päättyi.
+
+Asia lähetettiin sosiaali- ja terveysvaliokuntaan, jolle perustuslakivaliokunnan on annetta-
+va lausunto.
+5
+
+

@@ -1,0 +1,971 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM5ACF.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 27/2018 vp
+
+Täysistunto
+
+Torstai 22.3.2018 klo 16.00—18.12
+
+4. Hallituksen esitys eduskunnalle laiksi maataloudessa käytettyjen eräiden energiatuottei-
+den valmisteveron palautuksesta annetun lain 4 §:n väliaikaisesta muuttamisesta
+
+Hallituksen esitys HE 7/2018 vp
+Valiokunnan mietintö VaVM 2/2018 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 4. asia. Käsittelyn pohjana on valtiovarainvaliokunnan mietintö VaVM
+2/2018 vp. Nyt päätetään lakiehdotuksen sisällöstä.
+
+Keskustelu
+
+17.03 Timo Kalli kesk (esittelypuheenvuoro): Arvoisa puhemies! Käsittelyn pohjana on
+valtiovarainvaliokunnan mietintöluonnos eräiden energiatuotteiden valmisteveron palau-
+tuksesta annetun lain 4 §:n väliaikaisesta muuttamisesta, joka johtuu siitä, että viime syk-
+sy, vuosi 2017, oli satovahinkojen osalta poikkeuksellinen, ja kun hallitus päätti osoittaa 25
+miljoonaa satovahinkojen hoitamiseen, ei oikeastaan löytynyt muuta toimivaa järjestel-
+mää kuin kyseinen järjestelmä, joka mahdollistaa sen, että hakijalle voidaan palauttaa 8,46
+senttiä tätä maksettua valmisteveroa. Tämä valittu verojärjestelmä tässä vaiheessa on oike-
+astaan ainut toimiva keino, jolla tämä maksatus voidaan hoitaa.
+
+Lähetekeskustelun aikana täällä nousi esiin myös, voitaisiinko hallituksen ehdotuksesta
+poiketen tätä palautuksen aikataulua aikaistaa ja muuttaa niin, että jo keväällä tai alkuke-
+sällä tämä palautus olisi saatavissa. Tähän ei kuitenkaan löytynyt keinoa. Perusteena oli se,
+että hakijoista edelleen puolet täyttää paperisena tämän veroilmoituksen ja myöskin tämän
+palautusanomuksen, ja tältä osin tässä yhteydessä tähän ei löytynyt toimivaa keinoa. Näi-
+den satovahinkojen arvio kaikkiaan oli noin 100—150 miljoonaa, ja hallitus tosiaan päätti
+osoittaa tähän 25 miljoonan euron suuruisen summan.
+
+Tulevien satovahinkojen varalle pitäisi löytää toimivampi ja parempi järjestelmä, ja ai-
+kanaan, viime syksynä, valtiovarainvaliokunta on tästä esittänyt oman kannanottonsa ku-
+ten myös maatalousvaliokunta. Ja toivoa sopii, kun odotettavissa saattaa olla, että tulevai-
+suudessa samankaltaisia sääolosuhteita edelleen voi olla odotettavissa, että meillä olisi
+myös jonkinlainen toimiva järjestelmä, jolla voitaisiin ottaa vastaan tämänkaltaisia haas-
+teita, mitä nyt tällä hetkellä on.
+
+Eli käsittelyn pohjana oleva esitys tässä vaiheessa mahdollistaa sen, että se 25 miljoo-
+nan euron korvaus voidaan hoitaa mahdollisimman toimivasti, niin että tämä viimeistään
+syksyllä on viljelijöiden käytössä.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, edustaja Kallin jäl-
+keen siirrytään siihen puheenvuorojen pyyntöjärjestykseen, missä puheenvuorot olivat
+alun perin pyydetyt, eli nyt edustaja Heinonen, ja edustaja Kiviranta — minulle kerrotusti
+— on edustaja Viitasen puheenvuoron jälkeen, pyyntöjärjestyksen mukaisesti.
+
+17.06 Timo Heinonen kok: Arvoisa herra puhemies! Hyvät edustajakollegat ja muut pai-
+kalla olijat! Oma ruuantuotanto on jokaiselle maalle, mutta erityisesti meidän kaltaiselle
+maalle, erittäin tärkeä arvo. Se on myös huoltovarmuuskysymys.
+
+Viime syksy oli poikkeuksellinen suomalaiselle ruuantuotannolle ja suomalaisille
+maanviljelijöille. Syksyisten satovahinkojen määräksi on arvioitu kaiken kaikkiaan jopa
+150 miljoonaa euroa, ja tätä esitetään nyt pieneltä osin korvattavaksi suomalaisille ruuan-
+tuottajille. Kyseessä on 25 miljoonan kohdennettu lisäavustus, joka on 690 euroa palautus-
+ta yhtä maanviljelijäyrittäjää kohden. Eli hyvin kohtuullisesta, jopa voisi sanoa pienestä
+korvauksesta on kyse, mutta se on tässä tilanteessa oikeus ja kohtuus. 
+
+Tässä esityksessä on siis kysymys kertaluontoisesta satovahinkokorvauksesta, ja tuen
+perusteena ovat siis syksyn poikkeuksellisen vaikeat sadonkorjuuolosuhteet ja niistä aiheu-
+tuneet lisääntyneet kustannukset.
+
+Miksi tällainen korvaustapa sitten on valittu? Valiokunnan mietinnössä todetaan, että
+tämä on ratkaistu yhdessä maa- ja metsätalousministeriön, valtiovarainministeriön ja työ-
+ja elinkeinoministeriön pöydässä ja että tämä on malli, joka täyttää myös EU:n vaatimuk-
+set ja on mahdollisimman joustava ja kustannustehokas.
+
+Korvausperuste jättää kuitenkin katveeseen ne viljelijät, jotka käyttävät kuivaukseen
+esimerkiksi haketta elikkä ovat olleet jo edelläkävijöitä ja vaihtaneet polttoöljyn hakkee-
+seen, uusiutuviin energioihin. Toisaalta tässä meidän valiokunnan mietinnössä todetaan,
+että tämä lisätuki voi ohjautua sellaisillekin viljelijöille, joille ei ole aiheutunut tosiasiallis-
+ta vahinkoa. Sen takia on tarpeen etsiä keinoja tulevaisuudessa satovahinkojen korvaami-
+seksi tehokkaasti ja oikeudenmukaisesti. Tämä perinteinen vanha satovahinkojärjestelmä-
+hän päättyi muutamia vuosia sitten.
+
+Tässä meidän valiokunnan mietinnössä todetaankin, että on tärkeää, että tämä ratkaisu
+on nyt kertaluonteinen, mutta sen jälkeen on tarpeen etsiä ja luoda malli, joka on toimiva ja
+yleisesti hyväksyttävä ja myös EU:n hyväksymä, niin että sitä voidaan käyttää tulevaisuu-
+dessakin sillä tavalla, että tällaisissa kohtuuttomissa tilanteissa pystytään tukemaan niitä
+suomalaisen ruuantuotannon ammattilaisia, joiden elantoon tulee lovi heistä itsestään riip-
+pumattomista syistä eli poikkeuksellisten sääolosuhteiden vuoksi.
+
+Arvoisa puhemies! Pidän tätä erittäin tervetulleena ja tärkeänä ratkaisuna tässä tilantees-
+sa. Vaikka tuki on pieni, niin se tulee erittäin suureen tarpeeseen.
+
+17.10 Ozan Yanar vihr: Arvoisa puhemies! Hallituksen esityksen tarkoitus on kompen-
+soida maatalouden harjoittajille runsaista sateista aiheutuneita satovahinkoja. Tästä me
+olemme käyneet pitkiä keskusteluja verojaostossa ja käsitelleet asiaa. Me vihreät olemme
+sitä mieltä, että totta kai maatalouden harjoittajien oloja voi ja pitääkin helpottaa, mutta me
+emme ole samaa mieltä tästä tavasta. Tämä on väärä tapa kompensoida, ja syitä on muuta-
+mia. Esittelen näitä syitä:
+
+1) Fossiilisten energialähteiden käyttö lisää ilmaston lämpenemistä. Ilmaston lämpene-
+minen näkyy sitten voimakkaina sääilmiöinä, joita esimerkiksi hallituksen esityksessä ku-
+vatut rankkasateet ovat. On meistä kestämätöntä, jos ilmaston lämpenemisestä aiheutuvia
+2
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+satovahinkoja kompensoidaan keinolla, joka lisää entisestään fossiilisten energialähteiden
+käyttöä ja siten ilmaston lämpenemistä. Hallituksen esitys on siis ristiriidassa hallituksen
+omien ilmastotavoitteiden kanssa.
+
+2) Toinen syy: Energiaveron palautus ei myöskään kohdennu tarkoituksenmukaisesti.
+Hallituksen esityksessäkin todetaan — ihan hallituksen omassa esityksessä todetaan —
+että tämä veronpalautus kohdentuu myös sellaisille maatalouden harjoittajille, joilla sato-
+vahinkoja on ollut vähän tai ei ollenkaan. Eli tämä rahanpalautus kohdentuu niille, joilla on
+ollut näitä vahinkoja vähän tai ei ollenkaan. Onko tämä hyvää julkisen rahan käyttöä, ky-
+syn vaan.
+
+3) Kolmas syy: Vastaavasti ne maatalouden harjoittajat, jotka käyttävät ympäristöystä-
+vällisempiä energianlähteitä ja jotka ovat kärsineet samoista satovahingoista, eivät saa tu-
+kea. Eli toistan: ne maatalouden harjoittajat, jotka käyttävät ympäristöystävällisempää kei-
+noa, eivät saa tukea. Millaista energiapolitiikkaa tämä on, kysyn vaan.
+
+4) Neljäs syy: Esityksen vaikutusarvioinneissakin todetaan, että kompensoimalla sato-
+vahinkoja tällä tavalla voidaan tulla luoneeksi ennakkotapaus mahdollisia tulevia kertoja
+varten. Hallitus puhuu paljon siitä, että tämä on ainutkertainen tapa puuttua, mutta me
+luomme tässä samalla ennakkotapauksen. Eli kun tällaista vastaavaa kompensaatiota ei ole
+tehty aiemmin, niin tämä luo nimenomaan esimerkin, jota on helppo soveltaa myös tulevi-
+na vuosina. Nämä sääilmiöt eivät ole katoamassa vaan pikemminkin yleistymässä ilmas-
+tonmuutoksen vuoksi.
+
+Siksi me tulemme ehdottamaan, että tämä lakiehdotus hylätään, ja ehdottamaan, että hy-
+väksytään seuraava lausuma — tämä tulee olemaan meidän lausumaehdotuksemme edus-
+kunnalle, ja se menee seuraavasti: ”Eduskunta edellyttää, että hallitus antaa uuden esityk-
+sen satovahinkojen kompensoimisesta maatalouden harjoittajille.” Eli me haluamme uu-
+den esityksen. ”Kompensaation tulee kohdentua oikein sekä kannustaa ympäristöystäväl-
+listen energianlähteiden käyttöön.” Tämä tulee olemaan meidän ehdotuksemme, ja syitä
+luettelin aiemmin. Pitäisi olla parempia tapoja käsitellä tätä asiaa. Olemme verojaostossa-
+kin käyneet pitkiä keskusteluja aiheesta. Tässä tavassa kompensoida on ihan liian paljon
+puutteita.
+
+17.15 Esko Kiviranta kesk (vastauspuheenvuoro): Arvoisa puhemies! On mielenkiin-
+toista, että täällä tätä esitystä arvostelevat ilmeisesti monetkin niiden puolueitten edustajat,
+jotka aikanaan viime eduskuntakaudella olivat kumoamassa tilakohtaista satovahinkojen
+korvausjärjestelmää. Sehän kumottiin pääministeri Jyrki Kataisen hallituskaudella ja vii-
+meiset satovahinkokorvaukset maksettiin vuonna 2015. Nyt se järjestelmä ilmeisesti olisi
+hyvä. Tosin edustaja Yanaria ei voi syyttää, hän ei ollut silloin vielä eduskunnan jäsen.
+
+Satovahinkovakuutus on toinen vaihtoehto. Näitä vakuutusmaksuja voitaisiin tukiva-
+roista tukea 65 prosentilla peräti, mutta se olisi poissa maatalouden muista tuista. Myös-
+kään tuottajajärjestöt eivät ole pitäneet tarkoituksenmukaisena tukivarojen käyttöä tällai-
+seen tarkoitukseen, kun nuo satovahinkovakuutusehdot kuitenkin ovat sellaisia, että vilje-
+lijät eivät niiden perusteella juuri mitään korvauksia saisi.
+
+17.16 Antti Kurvinen kesk (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Yanar
+käytti oikein pontevan puheenvuoron. Uskon, että me edustaja Yanarin kanssa ajattelem-
+me monesta asiasta samalla tavalla ja meidän puolueemme myös, keskusta ja vihreät, ajat-
+televat samalla tavalla, mutta ihmettelen vain vähän sitä, kun me molemmat haluamme,
+3
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+että Suomessa syödään puhdasta, eettisesti tuotettua ruokaa, miten, edustaja Yanar, te ja
+vihreät ajattelette, että me voimme Suomessa syödä puhdasta, eettisesti tuotettua ruokaa,
+mutta ette millään lailla halua tukea suomalaista maataloutta. Oletteko ymmärtänyt sen,
+että kun te vastustatte kaikkia näitä maatalouden kriisitoimia, lopputulos on se, että me
+syömme Suomessa sellaista ruokaa, joka on tuotettu Suomen eläinsuojelulainsäädännön
+vastaisesti: me syömme sellaista ruokaa, jonka tuottamisessa on käytetty enemmän niitä
+fossiilisia polttoaineita, käytetty paljon enemmän torjunta-aineita ja muita myrkkyjä? Ym-
+märrättekö te vihreät ollenkaan tätä kuviota, vai haluatteko te niin, että maatalous lopete-
+taan Suomesta näillä teidän vaatimuksillanne ja sitten ostetaan ulkomailta ruokaa, joka ei
+täytä meidän lainsäädäntömme ehtoja? [Jari Myllykoski: Puhutaanko nyt samasta asiasta?]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Vielä vastauspuheenvuoro, edustaja
+Suutari.
+
+17.17 Eero Suutari kok (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Yanarin aja-
+tuksen siitä, että tässä oltaisiin kovin ilmastovastaista päätöstä tekemässä, voisi asettaa tiet-
+tyihin kehyksiin, että nyt nämä satovahingot ovat 40 000:ta viljelijää kohti noin 3 000 eu-
+roa ja siitä saadaan korvauksia noin 600 euroa. Jos sitä verrataan vaikka tämmöiseen lato-
+kuivuriin, joka käy vaikka hakkeella, 100 000 euron investointiin, niin ei siinä ole mitään
+perustetta tällä kierrättää tätä asiaa näin, että tämä olisi ilmastovastaista. Tämä on kerta-
+luontoinen, ja sille pitää hallituksen tehdä jotain jatkossa, että sitä ei tätä kautta enää sitten
+pysty maksamaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Myönnän vastauspuheenvuoron edus-
+taja Elomaalle ja edustaja Viitaselle ja sitten vasta edustaja Yanarille. Koska hänen pu-
+heenvuoronsa käynnisti tämän keskustelun, hän saa finaalipuheenvuoron.
+
+17.18 Ritva Elomaa ps (vastauspuheenvuoro): Puhemies! Tämä esitys satovahinkokor-
+vauksista on erittäin kannatettava. Kyllä minä ihmettelen edustaja Yanarin ja vihreitten
+kantaa näihin satovahinkokorvauksiin. Jos te saisitte päättää, niin täällä Suomessa ei olisi
+ruuantuotantoa ilmeisesti ollenkaan tulevaisuudessa. [Antti Kurvinen: Siltä kuulostaa!]
+Minä olen kyllä ihan ymmälläni, että vihreät ovat maanviljelystä vastaan.
+
+17.19 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa herra puhemies! SDP kyllä hyväk-
+syy tämän esityksen, ja ymmärrämme sen, että vaikka sitä tilannetta täytyy auttaa, myö-
+hemmin tulee sitten perusteluja, lisänäkemyksiä tähän meidän omaan tulokulmaamme,
+koska asia kuitenkaan ei ole ongelmaton.
+
+Mutta, puhemies, pyysin tämän vastauspuheenvuoron siksi, kun tässä edellä todettiin,
+että tämänkaltaisen järjestelyn tulee voida olla kertaluonteinen, tulee olla parempia tapoja,
+ja tämän koko valiokunta ja verojaostokin yksimielisesti toteavat. Minusta se kertaluontei-
+suus on tärkeää, myös se, että se tässä salissa tulee nyt sitten puhujilta laidasta laitaan esiin.
+Mielestäni on tarve korostaa, ettei tämä sitten osaltaan johda johonkin etukäteisajatteluun
+tai anna syytä sille, etteikö nopeammin sitten investoitaisi näihin ympäristöystävällisem-
+piin kuivureihin.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja viimeinen vastauspuheenvuoro,
+edustaja Yanar.
+
+17.20 Ozan Yanar vihr (vastauspuheenvuoro): Arvoisa puhemies! Varsinkin edustajat
+Kurvinen ja Elomaa, maalailitte kauhukuvia vihreiden visioista. [Antti Kurvinen: Siltä se
+kuulosti! — Ritva Elomaa: Siltä se kuulosti!] — Minä sanoisin näin, että kun teidän argu-
+menttinne ovat ilmeisesti loppu, niin alatte pelaamaan joillain mielikuvilla, että vihreät oli-
+si maaseutua vastaan. Eihän se pidä millään tavalla paikkaansa.
+
+Minä toistan omat argumenttini: Kyse on siis siitä, että tämä on fossiilisten energianläh-
+teiden käyttöä lisäävä tuki. Lisäksi tämä ei kohdennu tarkoituksenmukaisesti, lisäksi tämä
+ei auta niitä, jotka käyttävät ympäristölle ystävällisiä tapoja, ja lisäksi tämä voi muodostaa
+ennakkotapauksen. Kun minulla on neljä tällaista todella vahvaa argumenttia, minusta on
+outoa, että niihin ei vastata vaan aletaan puhumaan [Puhemies koputtaa] joistain ihmeelli-
+sistä käsityksistä vihreiden maatalouspolitiikasta. [Puhemies koputtaa] Vastatkaa minun
+argumentteihini.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Modig ja puhujalista.
+
+17.21 Silvia Modig vas: Arvoisa herra puhemies! Siis kotimainen ruuantuotanto on tär-
+keää, ja on oltava olemassa joku keino tarjota jonkunlaista kompensaatiota, kun maatalou-
+den harjoittajaa kohtaa yllättävän iso satovahinko. Mutta tämä valittu keino on aivan pää-
+tön, koska rankkasateet ja äärimmäiset sääilmiöt johtuvat ilmaston lämpenemisestä, ja il-
+maston lämpeneminen johtuu siitä, että me käytämme fossiilisia polttoaineita liikaa. Nyt il-
+maston lämpenemisestä johtuvia satovahinkoja kompensoidaan ilmastonmuutosta pahen-
+tavan fossiilisen energianlähteen käytön lisäämisellä. Tämä on se, mikä tässä on täysin
+päätöntä.
+
+Tässä on myös muita ongelmia, kuten edustaja Yanar hyvin nosti esille. Tämä kohden-
+tuu väärin. Hallituksen omassa esityksessä sanotaan, että tämä kohdentuu osittain niille,
+joilla oli vähäisiä vahinkoja tai ei vahinkoja lainkaan. Kun kaikki lähtee kuitenkin siitä,
+mitä valintoja ihmiset tekevät, mitä valintoja maatalousyrittäjät tekevät, mitä valintoja yrit-
+täjät tekevät, niin tällä me rankaisemme niitä, jotka ovat jo siirtyneet ympäristöystävälli-
+siin keinoihin, jotka ovat jo tehneet valintoja, jotka ovat meidän kaikkien edun mukaisia, il-
+mastonmuutoksen torjunnan mukaisia. He jäävät kokonaan kompensaation ulkopuolelle,
+koska he eivät käytä fossiilisia energiamuotoja.
+
+Pidän hyvin tärkeänä tätä vastalauseen 2 lausumaehdotusta, jossa sanotaan, että on löy-
+dettävä uusi tapa, uusi keino satovahinkojen kompensoimiseksi maatalouden harjoittajille.
+Tämän keinon tulee kohdentua oikein, oikeudenmukaisesti, ja kannustaa ympäristöystä-
+vällisten energialähteiden käyttöön.
+
+17.22 Mats Nylund r (vastauspuheenvuoro): Arvoisa puhemies! Täytyy sanoa, että vih-
+reitten ja vasemmistoliiton argumentit ontuvat vakavasti. Te ette ole tehneet kotiläksyjän-
+ne. Te väitätte, että tämä aiheuttaa enemmän fossiilisten polttoaineiden käyttöä. Ei pidä
+paikkaansa. Ettekö ole huomanneet, että tämä koskee viime vuoden käyttöä? Kukaan ei voi
+enää käyttää enemmän polttoöljyä vuonna 2017, koska näinhän se on. Pitäisi lukea ensin
+hallituksen esitys.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+Ja toiseksi: Tietenkin se tuki jonkin verran menee, voimme sanoa, väärille tiloille, mutta
+tämä on paras tapa hoitaa nimenomaan aktiiviviljelijät, ne, jotka tuottavat ruokaa suoma-
+laisille. Nimenomaan ne viljelijät käyttävät polttoöljyä traktoreissa, puimureissa ja kuivu-
+reissa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Myönnän nyt tässä debatissa vielä pu-
+heenvuoron tämän aloittaneelle edustaja Modigille, ja sitten mennään puhujalistaan.
+
+17.24 Silvia Modig vas (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Nylundille
+haluan todeta: Tässä hallituksen esityksessä tuetaan niitä, jotka eivät ole tehneet ympäris-
+töystävällisiä valintoja. Onko se se viesti, minkä hallitus haluaa antaa? Tällä on myös riski
+syntyä ennakkopäätökseksi. Me näytämme tällä hetkellä yrittäjille, että kyllä, fossiilisten
+energialähteiden avulla me saatamme teitä tukea, kun vahinko sattuu. Tämä on aivan väärä
+tapa. Me olemme yhtä mieltä siitä, että pitää olla joku keino, jolla voidaan auttaa yllättä-
+vien isojen satovahinkojen kohdalla, koska kotimainen ruuantuotanto on meille kaikille
+tärkeää, mutta tämä on aivan päätöntä, tämä on siis paradoksaalinen päättelyketju.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Puhujalistaan: edustaja Harakka.
+[Vastauspuheenvuoropyyntöjä]
+
+Arvoisat edustajat, täällä on muutama edustaja paikalla — hienoa — ja samat edustajat,
+joilla on kohta puheenvuoro tässä, ovat pyytäneet vastauspuheenvuoroa, ja tästä syystä
+mennään vähän aikaa listaa läpi ja sitten palataan debattiin.
+
+17.24 Timo Harakka sd: Kiitos, herra puhemies! Aivan erinomaista. — Sanon tähän heti
+kärkeen sen, että sosiaalidemokraatit eivät vastusta tätä satovahinkokorvausta.
+
+Viime viikolla esitin täällä eduskunnan ilmastokeskustelussa huolen siitä, että nämä sa-
+tovahinkokorvaukset olisi pitänyt ulottaa ympäristöystävällisiin hakekuivureihin eikä vain
+tuontiöljyn käytön tukeen. Kestävän kehityksen maatilojahan tässä tultiin rangaisseeksi sa-
+malla, kun viljelijöitä kannustettiin pysymään fossiilisissa polttoaineissa. Tällä kertaa tämä
+hätäratkaisu oli perusteltu ja käytännössä ainoa mahdollinen mutta vastoin yleistä ilmasto-
+ja energiapolitiikan linjaa. Siksi on syytä toivoa oikeudenmukaisempaa ja kestävämpää
+linjausta, koska yhteinen tavoitteemme lienee, että uusiutuvat energialähteet yleistyisivät
+maataloudessa, jotta Suomen ilmastotavoitteet voitaisiin täyttää. Kun samalla äärisäät ovat
+yleistymässä, on todennäköistä, että satovahinkoja joudutaan jatkossakin korvaamaan.
+Hallituksen valitsema malli on silloin kahdella tapaa ongelmallinen.
+
+Ensiksi ei pidä pönkittää sitä odotusta, että vain öljyn kulutusta tuetaan. Parhaillaan is-
+tuva yritystukityöryhmähän suhtautuu kriittisesti kaikkeen fossiilisen energian tukeen,
+mitä vastaan sotii sitten tämä kevyen polttoöljyn valmisteveron palautuksen kaksinkertais-
+taminen, seuraavalla kerralla kenties kolminkertaistaminen. Kannustin on tässä täysin vää-
+rä.
+
+Toiseksi olisi syytä luoda pysyvä menettely satovahinkojen korvaamiseen, kun tämä ai-
+empi järjestelmä, aivan kuten edustaja Kiviranta sanoi, tässä jokunen vuosi sitten lopetet-
+tiin. Tämänkertaista hätäratkaisua ei ole tarkoitus käyttää enää koskaan, mutta yleinen elä-
+mänkokemus kuitenkin kertoo muuta. On varmaa, että jos tai kun viime syksyn kaltainen
+katastrofi toistuu, vaaditaan jälleen lisääntyneiden polttoainekulujen korvaamista.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+Ilmastonmuutos tuottaa entistä enemmän haasteita suomalaiselle kasvinviljelylle, ja nii-
+hin on etsittävä vastauksia nyt, sananmukaisesti hyvän sään aikana. Kun EU:n yhteistä
+maatalouspolitiikkaa uudistetaan, se on osoittautunut aika kiviseksi tieksi, mutta siinä yh-
+teydessä on luotava kestävämpiä riskinhallinnan menetelmiä koko unionin tasolle, kenties
+uudenlainen vakuutus äärisäiden varalle. Pitkällä tähtäimellä paras ilmastovakuutus on tie-
+tenkin se, että ilmastonmuutosta torjutaan uskottavasti ja johdonmukaisesti niin isoissa
+kuin näissä pienemmissäkin asioissa.
+
+Siksi esitämme tähän sinänsä erinomaiseen ja tasapainoiseen valiokunnan mietintöön li-
+säksi vahvistavaa lausumaa. Luen sen nyt tässä ikään kuin valmisteluksi tulevaan.
+
+”Eduskunta edellyttää, että valtioneuvosto ryhtyy välittömästi valmistelemaan satova-
+hinkojen korvaamisen mallia, joka korvaa kertaluontoiseksi tarkoitetun menettelyn valtio-
+varainvaliokunnan mietinnön 22/2017 ja maa- ja metsätalousvaliokunnan lausunnon 22/
+2017 viittaamalla tavalla ja joka ei ole ristiriidassa kansallisen ilmasto- ja energiastrategi-
+an tavoitteiden kanssa.”
+
+17.28 Pia Viitanen sd: Arvoisa puhemies! Niin kuin tuossa edellä edustaja Harakka tote-
+si, tätä on kyllä syytä ymmärtää, tätä hyvin hankalaa tilannetta siellä maaseudulla. Kun täl-
+laisia ikäviä aikoja on ja satovahinkoja tulee, niin kyllä ymmärrämme hyvin sen, että sil-
+loin joitain korvaavia muotoja on löydettävä, jotta tilanne helpottuu, ja sen takia olemme
+tietenkin tätä esitystä hyväksymässä.
+
+Mutta samaan hengenvetoon täytyy todeta juuri se ongelmallisuus, että kun joudumme
+nopeasti paikkaamaan näitä tilanteita, niin on ollut äärimmäisen ikävää, että se ainoa ikään
+kuin toimiva muoto, joka on voitu löytää, onkin sitten toisaalla iskunkestäviä ilmasto- ja
+ympäristötavoitteita vastaan, eli tämä apu tulee sitten fossiilisen kevyen polttoöljyn vero-
+helpotuksina, ja se ei ole tietenkään pitkällä aikajänteellä viisasta ja sotii tietenkin näitä
+Suomen omia ilmastotavoitteita vastaan, niin kuin täällä on todettu jo moneen kertaan. Ja
+koska tämä nyt osoittautui ainoaksi toimivaksi keinoksi tällä hetkellä, kun hyväksymme
+tätä lakia, niin siksi minusta samaan aikaan olisi syytä teroittaa sitä viestiä eduskunnan ta-
+holta, että me edellytämme, että näihin vaikeisiin tilanteisiin, jos sellaisia tulee tulevaisuu-
+dessa, täytyy voida silloinkin reagoida mutta ei tämän keinon kautta. Siksi mielestäni on
+tärkeää, että tämän tuen kertaluonteisuutta alleviivataan. Mutta aivan kuten, puhemies,
+edustaja Harakka tuossa edellä totesi, emmehän me voi olla siitä varmoja, ja siksi on tär-
+keää, että korvaava muoto kehitetään, ja siksi olemme esittämässä tätä edustaja Harakan
+pontta — sitä muuten kannatan sitten varsinaisestikin toisessa käsittelyssä ensi viikkoa
+seuraavalla viikolla. Mutta haluan korostaa, että tämän [Puhemies koputtaa] ponnen myö-
+tä ikään kuin vahvistaisimme tätä sanomaa, että meidän on kehitettävä parempia muotoja.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja puhujalistassa jatketaan.
+
+17.31 Esko Kiviranta kesk: Arvoisa puhemies! Vuoden 2017 sadonkorjuuolosuhteet oli-
+vat koko Suomessa varsin vaikeat ja satovahingot olivat laajat. Taloudellisten menetysten
+arvioidaan nousseen kaiken kaikkiaan 100—150 miljoonaan euroon. Tämä on tosin hyvin
+arvioluku, koska tilakohtaista satovahinkojen korvausmenettelyä ei enää ole olemassa.
+
+Hallitus päätti jo syksyllä ohjata vahinkojen korvaamiseen 25 miljoonaa euroa. Se on
+hyvinkin osakorvaus tästä, mutta näin päätettiin kuitenkin tehdä. Korvaustavaksi valittiin
+kevyen polttoöljyn valmisteveron lisäpalautus. Myös valiokunta piti tätä korvaustapaa pe-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+rusteltuna, joustavana ja kustannustehokkaana, koska lisäpalautus voidaan hoitaa samassa
+menettelyssä kuin jokavuotinen säännönmukainen valmisteveron palautus. Lisäpalautuk-
+sen määrähän kasvoi tässä eduskuntakäsittelyssä hiukan, 7,70 sentistä litralta 8,46 senttiin
+litralta noitten kevyen polttoöljyn käytettyjen määrien tarkennuttua hakemusten perusteel-
+la.
+
+Valiokunta piti erittäin tärkeänä, että kertaluonteisen korvauksen asemesta satovahinko-
+jen korvaamiseen luotaisiin toimivampi järjestelmä. Näin asian käsittelyssä käväistiin
+myös maatalousjaoston tontilla, ja näyttää siltä, että täällä salissakin siellä on jo käyty. Mi-
+tään vaihtoehtoahan ei ole esitetty. Olisi mielenkiintoista vähän edes kuulla valotusta siitä,
+mikä olisi tuo oppositiopuolueiden vaihtoehto asian paremmaksi hoitamiseksi. [Pia Viita-
+nen: Hallitus valmistelee tietenkin!]
+
+Meillähän nyt jo tuetaan esimerkiksi hakelämpökeskusten rakentamista Maatilatalou-
+den Kehittämisrahastosta — jota muuten edustaja Harakka suorastaan rakastaa — 40 pro-
+sentilla. Kuitenkaan näitä ei juuri rakenneta, vain suurimmat kartanot ovat ainakin minun
+kotiseudullani niitä rakentaneet. Se on hyvin kallista. Täytyy tehdä myös hakevarasto, ja
+siinä on muitakin kustannuksia, joita aiheutuu.
+
+Asiaa käsiteltäessä keskusteltiin myös palautuksen aikaistamismahdollisuudesta. Perin-
+teisesti tämä palautus on maksettu kohdevuotta seuraavan vuoden syyskuun loppupuolel-
+la, ja ajatuksena oli, että palautus voitaisiin aikaistaa esimerkiksi toukokuun lopulla tapah-
+tuvaksi. Tämä kaatui kuitenkin Verohallinnon käsittelyprosessiin, joka vaatii lähes puoli
+vuotta. Myös EU-kortti nousi esille, koska ei ollut täyttä varmuutta siitä, voitaisiinko pa-
+lautuksen aikaistamista tehdä edes niin, että toukokuun lopulla olisi maksettu sekä sään-
+nönmukainen palautus että lisäpalautus. Vaikka palautuksen aikaistaminen olisi ollut tär-
+keää monen viljelijän kireän talouden vuoksi, palautuksen aikaistamisesta luovuttiin, kos-
+ka tilakohtainen taloudellinen intressi on kuitenkin varsin pieni keskimäärin ja EU-valvon-
+ta voi aina muodollisessa kireydessään yllättää.
+
+Kerrattakoon tässä se, että tämä lisäpalautus kevyen polttoöljyn valmisteverosta on kes-
+kimäärin siis 690 euroa per tila. Muistaakseni — huono vertailukohde — esimerkiksi ta-
+kuueläke on kuukaudessa 770 euroa per takuueläkkeen saaja. Että tämän suuruusluokan
+asioista tässä puhutaan. [Vastauspuheenvuoropyyntöjä]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Sopinee, että otetaan muutama pu-
+heenvuoro ja sen jälkeen käydään pieni debatti. 
+
+17.35 Mats Nylund r: Arvoisa puhemies! Maatalous on syvässä taloudellisessa kriisissä,
+ja erittäin paha satovahinkotilanne teki tilanteesta vielä pahemman. Kaikista vaihtoehdois-
+ta, kun meillä ei enää ole satovahinkolakia, tämä olisi pragmaattisin, nopein ja käytännös-
+sä ainoa toimiva ratkaisu. Rahat, vaikka se on aika pieni määrä, tulevat suhteellisesti no-
+peasti viljelijöille syyskuun aikana. Hallintokustannukset ovat todella alhaiset, koska jär-
+jestelmä on jo olemassa. Se täytyy myöntää, että se ei osu aivan oikein — se on kuvattu
+erittäin tarkasti valiokunnan mietinnössä — mutta se menee nimenomaan aktiiviviljelijöil-
+le. Ne, jotka tuottavat ruokaa, samat henkilöt, samat viljelijät, käyttävät polttoöljyä.
+
+Minä ymmärrän sosiaalidemokraattien lausumaa jonkin verran. En yhdy siihen, että
+tämä olisi ilmastostrategian vastainen, koska kuten sanoin, tämä on jo poltettu, jo käytetty
+polttoöljy. Kukaan ei voi enää käyttää enempää polttoöljyä vuonna 2017. Minä en ymmär-
+rä ollenkaan vasemmistoliiton ja vihreitten, nimenomaan vihreitten, yritystä kaataa tätä
+8
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+esitystä. Se on minusta erittäin ontuvaa, jos sanotaan näin, että pitäisi korvata tämä parem-
+malla järjestelmällä. Minä toistan: joko te ette ole lukeneet hallituksen esitystä tarkasti, teh-
+neet läksyjänne, tai sitten te yritätte sanoa jotain muuta kuin te haluatte. Te haluatte korva-
+ta tämän jollain toisella järjestelmällä, mutta teidän pitäisi olla tietoisia, että meillä ei enää
+ole satovahinkolakia, ja se tarkoittaa, että kukaan ei ole ilmoittanut satovahinkoja, kukaan
+ei ole ilmoittanut, millä tavalla sitten jaetaan satovahinkokorvauksia. Te tiedätte myös, tai
+teidän pitäisi tietää, että se kestää vähintään pari vuotta, ennen kuin me saamme uuden sa-
+tovahinkolain, jos me haluamme sen. Ei ole mahdollista korvata näitä sen lain perusteella.
+
+Valtiovarainvaliokunta ja viime vuonna maa- ja metsätalousvaliokunta ovat linjanneet,
+että valtioneuvoston pitäisi hakea joku toinen mahdollinen ratkaisu tähän ongelmaan. Yksi
+sauma voisi olla uusi CAP-uudistus. Siellä puhutaan nimenomaan riskienhallintajärjestel-
+mästä, ja siellä tulee se sauma, mutta nyt tämä keino, että nostetaan polttoaineveron palau-
+tusta, on se ainoa nopea ja ainoa mahdollinen, niin minä näen sen. — Kiitos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Myönnän vielä tässä listapuheenvuo-
+ron edustaja Suutarille. Näin siksi, että kaikki eduskuntaryhmät, joiden edustajat ovat pai-
+kalla, ovat voineet käyttää ainakin yhden varsinaisen puheenvuoron, ja sen jälkeen voi-
+daan jatkaa debatilla.
+
+17.39 Eero Suutari kok: Arvoisa puhemies! Energiatuotteiden valmisteveron lisäpalau-
+tus viime kesänä satovahingoista kärsineille maanviljelijöille on mielestäni oikeus ja koh-
+tuus. Vahingot ovat asiantuntijoiden mukaan arviolta 100—150 miljoonaa euroa, joista nyt
+korvataan noin 25 miljoonaa euroa, eli kuten täällä tuli esille, keskimäärin reilut 600 euroa
+per viljelijä. Ministeriöiden eri asiantuntijat valtiovarainvaliokunnan verojaostossa kertoi-
+vat tämän olevan edullisin, nopein ja vähiten byrokratiaa vaativa ratkaisu sekä sen lisäksi
+EU:n mahdollisesti hyväksymä.
+
+Asia ei tietysti ole ongelmaton, niin kuin täällä sanottiin, esimerkiksi hakekuivureita
+käyttäville, biokaasua traktoriin laittaville, rahtipalveluja kuivaukseen ostaville ja sellaisil-
+le viljelijöille, jotka olivat tietysti kaikkein suurimpia häviäjiä, jotka eivät päässeet ollen-
+kaan siihen kuivausvaiheeseen elikkä joilla se jäi muualle. Mutta lohdutuksena tietysti voi
+sanoa, että nämä korvaukset osuvat just kuitenkin kaikkein pienimmille viljelijöille sillä ta-
+valla, että todennäköistä on, että ne, jotka ovat investoineet suuriin kuivureihin, ovat myös
+kaikista vahvimpia viljelijöitä, jotka jollakin tavalla voivat jäädä — vaikka ihan oikeudetta
+— kuitenkin tämän ulkopuolelle. Elikkä heitä tietysti tässä rangaistaan, mutta se kohdistuu
+suurempiin todennäköisesti.
+
+Minun mielestäni tämä ei ole millään tavalla ilmastovastainen päätös. Tässä tietysti on
+vahinko tapahtunut jo aikaisemmin, ja on käytetty ne samat koneet siellä — sekä kuivurit
+että traktorit ovat siellä pelloilla kiertäneet — eikä tähän tulla palaamaan. Tietysti voi aja-
+tella niin, että tässä vedotaan myöhemmin tähän ja sitten sillä perustella ikään kuin jäte-
+tään investoimatta kuivureihin ynnä muihin. Mutta totuus on se, että ne, jotka eivät ole pys-
+tyneet investoimaan vielä tähän mennessä — tai siellä liiketoiminnassa on laskettu, että
+tässä vaiheessa ei vielä pysty investoimaan uusiin, suurempiin kuivureihin — eivät olisi
+sitä tehneet muutenkaan, pääsääntöisesti. Tietysti on poikkeuksia olemassa.
+
+Tämä on kertaluontoinen, ja tosiaan valtiovarainvaliokunnan kehotus valtioneuvostolle
+on, että tämä asia pitää jatkossa hoitaa toisella tavalla. — Kiitoksia.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja pieni debatti.
+
+17.42 Timo Harakka sd (vastauspuheenvuoro): Arvoisa puhemies! Olin vähän hämmäs-
+tynyt siitä, että edustaja Kiviranta, jonka johdolla hyvin yksituumaisesti tätä mietintöä teh-
+tiin, tekikin yhtäkkiä hallitus—oppositio-kysymyksen tästä pysyvästä, kestävästä satova-
+hinkojärjestelmästä. Korjatkaa nyt, olenko väärässä, että eikö hallitus sitten haluakaan, että
+tämä tulisi ratkaistua jotenkin kestävällä ja pysyvällä tavalla noin periaatteessa. Onko tämä
+järjestely, joka on tällainen hätäjärjestely ja jonka piti olla kertaluontoinen, sillä tavalla pa-
+rempi, että meidän pitäisi jatkossakin joka kerta hädän tullen improvisoida jokin ratkaisu,
+kuin se, että päästäisiin johonkin pysyvään ratkaisuun? En tiedä, onko se hyvää maata-
+louspolitiikkaa, mutta ainakaan se ei ole hyvää veropolitiikkaa, enkä yhtään ymmärrä sitä,
+miksi meidän todella pitäisi astua maatalousasiantuntijoiden tontille. Me voimme sanoa ai-
+van hyvin, että tällaista järjestelmää tarvitaan. Ratkaiskoot asiantuntijat sen, miten se teh-
+dään.
+
+17.43 Esko Kiviranta kesk (vastauspuheenvuoro): Arvoisa puhemies! Minä olen aina
+lähtenyt siitä, että jos moitin jotain järjestelmää, niin esitän sitten toisen, paremman vaih-
+toehdon. Meillä on erilaisia tapoja käsitellä asioita. 
+
+Mutta sen voisin ottaa tässä vielä esille, että tästä kevyestä polttoöljystähän käytetään
+noin 70 prosenttia traktoreissa ja leikkuupuimureissa. Ainakaan minä en silmissäni näe
+semmoista voimakasta kehitystä, että niissä nyt kovin nopeasti alettaisiin käyttää runsaasti
+esimerkiksi puuhaketta. [Ozan Yanar: Biopolttoainetta, biodieseliä!] 
+
+Ja toinen asia on sitten se, että nämä hakelämmitysinvestoinnit ovat hyvin kalliita. Meil-
+lä ovat ihmiset rakentaneet näitä polttoöljyyn perustuvia kuivureita, enkä näe sielläkään
+kovin suurta mahdollisuutta nopeaan muutokseen.
+
+17.44 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Olisin myös to-
+dennut sen, että kyseessähän on nimenomaan se, että koko valiokunta edellyttää sitä, että
+hallitus valmistelee, ja mielestäni olisi syytä ikään kuin hyvässä hengessä todeta, että SDP
+on kannattamassa tätä asiaa. Hyvä henki meillä ainakin tässä suhteessa verojaostossa oli,
+enkä siksi ymmärrä närkästystä, mikä nyt sitten meidän puheenvuoroihimme ainakin osit-
+tain liittyy.
+
+Mutta se on hyvä, puhemies, että ainakin edustaja Suutari täällä selkeästi jo pariin ker-
+taan sanoi, että ”kertaluonteinen”. Se on mielestäni tärkeää, että se on koko eduskunnan
+viesti, niin kuin valiokuntakin on kirjannut.
+
+Puhemies! Minun mielestäni koko maatalouden etu on se, että maatalous toimii eettises-
+ti ja edistää omin valinnoin ympäristönsuojelua ja ilmastonsuojelua. Siitä hyötyvät kaikki,
+tulee hyvä maine, lähiruokaa halutaan entistä enemmän, ja siksi on syytä kannustaa siihen,
+että ennen pitkää kuitenkin valittaisiin näitä biopolttoaineita, haketta, kaikkea tätä ympä-
+ristöystävällisempää, ja siksi uskoisin, että myös maatalouden etu, [Puhemies koputtaa]
+puhemies, on toimia näin.
+
+17.45 Ozan Yanar vihr (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Nylund esit-
+ti pari kritiikkiä minun suuntaani, voisin vastata niihin.
+
+Edustaja Nylund, teillä on kaksi argumenttia. Yksi on se, että en olisi tutustunut tähän la-
+kiesitykseen. Tämä on käsittämätöntä. Me olemme samassa jaostossa, me olemme vääntä-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+neet ja puhuneet näistä pitkään. Te tiedätte, että minä tiedän tästä todella yksityiskohtaisia
+asioita, ja ne minun argumenttini tässä ovat sellaisia, että minä siteeraan suoraan lakiesi-
+tystä. Kun teillä on argumentit ilmeisesti loppu, niin puhutte siitä, että en olisi tähän pereh-
+tynyt. Olen perehtynyt ja väitän, että todella hyvin.
+
+Toinen juttu on se, että puhutte siitä, että kyse olisi viime vuoden palautuksesta. Kyllä,
+mutta se, että tämä ei vaikuttaisi tulevaisuuteen, ei myöskään pidä paikkaansa. Hallituksen
+esityksessä sanotaan, että tämä voi olla ennakkotapaus, joka vaikuttaa tulevaisuuteen —
+hallituksen esitys sanoo näin. Eli oletteko te tutustunut [Puhemies koputtaa] tähän hallituk-
+sen esitykseen kunnolla? Tai ette välttämättä kestä hyvää [Puhemies koputtaa] kritiikkiä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt minä olen erittäin tarkka sen mi-
+nuutin kanssa, aivan erittäin tarkka.
+
+17.47 Pertti Hakanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä kes-
+kustelu on tärkeää, ja on hyvää argumentointia siitä, mistä tämä kaikki on johtunut — huo-
+nosta satovuodesta — ja siitä, että hallitus antoi 25 miljoonaa tämän satokorvauksen jär-
+jestelyn hoitamiseen. Siihen löytyi ratkaisu, joka toimii tämän energiaveron palautuksen
+kautta. Toki varmasti oli muitakin vaihtoehtoja. Nyt tässä on tämä malli, mikä nyt on käy-
+tössä, ja tämä on nyt täällä keskustelussa.
+
+Nyt on erityisen tärkeää se — mistä käytiin keskustelua myöskin täällä salissa, kun tätä
+käsiteltiin edellisen kerran — että tähän voitaisiin löytää se aikaisempi maksatus, jotta saa-
+taisiin tiloille sitä rahaa nyt jo kevääksi. Siltä osin voidaan puhua edelleen siitä, että tämä
+maatalouden kriisi — viime vuoden heikko sadon laatu ja ennen kaikkea huonojen sääolo-
+suhteiden vallitsema sadonkorjuuaika, joka venyi ja vei tuotantopanoksia ja -kustannuksia
+korkealle — jatkuu edelleen. Tämän kevään tuotantopanoksien hankinnassa monella tilal-
+la ollaan hätää kärsimässä, että mistä tehdään ne eurot.
+
+17.48 Mats Nylund r (vastauspuheenvuoro): Arvoisa puhemies! Suoraan vihreitten vas-
+talauseesta: ”Ne maatalouden harjoittajat, jotka käyttävät ympäristöystävällisempiä ener-
+gianlähteitä ja jotka ovat kärsineet satovahingoista, eivät saa tukea.” Verohallinnosta tulee
+selkeä selvitys: polttoaineen energiaveron palautuksesta 70 prosenttia käytettiin moottorei-
+hin ja 20 prosenttia kuivureihin. Minä veikkaan, että te viittaatte niihin viljelijöihin, jotka
+ovat rakentaneet uusia hyviä kuivureita, joissa käytetään haketta, mutta hekin käyttävät
+puimureita ja traktoreita. Ainoat, jotka täällä kelpaavat, ovat ne, jotka käyttävät ainoastaan
+hevosvoimaa pellolla, ja he varmasti eivät rakentaneet hakekuivureita.
+
+17.49 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa puhemies! Tämä tapaus,
+tämä hallituksen esitys osoittaa karulla tavalla sen, mikä on opposition suhtautuminen
+maatalouden vaikeaan tilanteeseen tänä päivänä. [Jari Myllykoski: Höpö höpö!] Lähde-
+tään esittämään tämmöisiä teoreettisia viisasteluja tilanteessa, jossa tiloilla todella on hätä.
+Kun on hätä, silloin — niin kuin talon palossakaan — ei perusteta työryhmää miettimään,
+miten tuo sammutettaisiin, vaan sitä sammutetaan heti ja välittömästi.
+
+Siksi toivonkin, arvoisa puhemies, että kun tällaisissa asioissa mennään... Aivan kuten
+edustaja Nylund aivan oikein äsken omassa puheenvuorossaan kuvasi tätä tilannetta, edus-
+taja Yanar täällä on erittäin viisaasti kyllä esittänyt vahvoja puheenvuoroja ympäristöystä-
+vällisistä syistä sitä sun tätä, mutta kannattaisi hänen Helsingin päättäjänä vaikka sen kivi-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+hiilen puoleen kiinnittää suurempi huomio. Ehkä sillä ilmastotekona olisi paljon merkittä-
+vämpi osuus kuin millä muulla tahansa. [Ozan Yanarin välihuuto] Päätöksiä toki tehdään,
+ja puhetta syntyy, mutta mikä on lopputulos? Minä olen oppinut elämässäni sen, että jos
+meinaa parannuksen tekoon ruveta, niin kannattaa aloittaa siitä omasta piiristä ensin.
+
+17.50 Arto Satonen kok (vastauspuheenvuoro): Arvoisa puhemies! Muistan myös täällä
+asiasta käydyn lähetekeskustelun, ja silloin minusta oli varsin yksimielinen näkemys siitä,
+että kun tähän varsin poikkeukselliseen satotilanteeseen haettiin ratkaisua, joka mahdolli-
+simman nopeasti auttaisi edes hieman, niin tehtiin tämä energiaveron palautus. Tämä oli
+kätevin ratkaisu, joka pystyttiin siinä tilanteessa tekemään. Tässähän kyse on vain väli-
+neestä, kyse on kotimaisen elintarviketuotannon turvaamisesta. Minun täytyy sanoa kyllä
+niille, jotka tätä kritisoivat: Jos te todella olette esimerkiksi ympäristön puolesta tai eläin-
+ten oikeuksien puolesta tai eläinten hyvinvoinnin puolesta, niin eikö suomalainen maanvil-
+jelys täällä ole korkeammin kriteerein tapahtuvaa toimintaa kuin ulkomailta tuleva tuotan-
+to? Eikö kysymys siitä, että [Puhemies koputtaa] me tuemme tämän oman toiminnan kan-
+nattavuutta, ole aivan ratkaiseva asia myös ympäristötavoitteiden kannalta pitkässä juok-
+sussa?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Täällä on edustaja Pauli Kiuru pyytä-
+nyt nyt useamman kerran vastauspuheenvuoroa. Hän ei ole paikalla. Jotenkin arvioisin
+näin, että edustaja Suutari on räpelöinyt edustaja Kiurun puheenvuoropyyntöpainiketta.
+[Naurua] Jos edustaja Suutari haluaa vastauspuheenvuoron, niin se on teillä nyt.
+
+17.51 Eero Suutari kok (vastauspuheenvuoro): Kiitoksia ja anteeksi, puhemies! Tosiaan
+istuin väärässä paikassa, kun tämä Kiurun paikka oli vähän aikaa sitten minun paikkani.
+[Naurua] Mutta minut on siirretty nyt vähän vasemmalle — ei ajatuksia kuitenkaan. [Nau-
+rua]
+
+Arvoisa puhemies! Koko valiokunta edellyttää ja tämä keskustelu myös nimenomaan
+kannustaa valtioneuvostoa etsimään tähän kestävän ratkaisun. [Pia Viitanen: Juuri näin!]
+Mutta tämä ratkaisu tähän hätään on paras ja minun käsitykseni mukaan ainut esitetty rat-
+kaisu. Jos jollakin on parempi ratkaisu, niin minäkin tietysti haluan tietää sen, mikä se voi-
+si olla, niin että voisi tässä ihan viime tingassa muuttaa mielipidettäkin. — Kiitos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Vielä viimeinen vastauspuheenvuoro,
+edustaja Viitanen.
+
+17.52 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa puhemies! Halusin vain tässä tode-
+ta vielä kerran sen tärkeän seikan, että SDP:hän siis kannattaa tätä. Me kannatamme tätä ja
+ymmärrämme tämän hädän, ja meidän mielestämme pitää tähän puuttua. Koska täällä pu-
+hutaan yleisesti oppositiosta, niin vielä kerran sanon tämän ääneen, ettei jää niille epäsel-
+väksi, ketkä eivät kenties ole koko keskustelua seuranneet.
+
+Mitä tulee ylipäätään tähän maatalouden tilanteeseen ja muuhun, niin kyllä minä pitkäl-
+lä tähtäimellä uskon, että se on koko maatalouden etu, että sillä on senkaltainen maine, että
+meillä ruoka tuotetaan eettisesti, meillä on puhdasta ruokaa, meillä käytetään ympäristöys-
+tävällisiä keinoja, meillä pidetään hyvää huolta eläinten hyvinvoinnista. Ne ovat kilpailu-
+valtteja, ja juuri siksi peräänkuulutan sitä, että toivon, että näillä kertaluonteisilla ratkai-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+suilla, mitä olemme pakotettuja tässä tilanteessa tekemään, mitä mekin kannatamme, ei
+olisi sellaista sivuvaikutusta, että se hidastaisi esimerkiksi investointeja näihin biopolttoai-
+neisiin ja uusiutuvaan energiaan, mikä niidenkin käyttö on maatalouden etu.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Vielä edustaja Anttila, vastauspuheen-
+vuoro.
+
+17.54 Sirkka-Liisa Anttila kesk (vastauspuheenvuoro): Arvoisa puhemies! Täällä on
+käyty jo hyvää keskustelua. Totean vain sen, että tässä tilanteessa emme olisi, jos Kataisen
+hallitus, ennen kuin kumosi satovahinkojärjestelmän, olisi rakentanut järjestelmän, joka
+nyt sitten toimisi. Tämä kannattaa pitää mielessä. Mutta nyt on tärkeätä, että se tehdään jat-
+koa ajatellen.
+
+Vakuutusjärjestelmää on ehdotettu, ja sekin on silloin hyvä, jos sen ehdot ovat sellaiset,
+että se korvaa todella. Nyt ainakaan tällä hetkellä tämmöistä järjestelmää tietääkseni ei ole,
+joka tällä tavalla toimisi. On yritetty myöskin selvittää, olisiko Euroopan unionissa ole-
+massa joku kriisirahasto taikka vastaava, mutta näitä joudutaan selvittämään, koska väitän,
+että ilmastonmuutos pahenee ja se johtaa siihen, että näitä syksyjä saattaa tulla lisää. Sitä
+taustaa vasten sen järjestelmän pitää olla pysyvänä jatkossa voimassa. 
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, sikäli kuin tänne
+ovat oikein nimet rekisteröityneet, täällä varsinaisen puheenvuoron ovat vielä pyytäneet
+edustajat Myllykoski, Kalli, Sirkka-Liisa Anttila, Pia Viitanen ja Esko Kiviranta. Sopinee
+niin, että samat henkilöt nyt eivät sekä vastauspuheenvuoroja että varsinaisia puheenvuo-
+roja tässä vaiheessa käytä, kun meitä on täällä aika pieni joukko paikalla. Tästä listasta poi-
+keten edustaja Hakanen on pyytänyt vastauspuheenvuoron. Hänellä ei ole varsinaisen pu-
+heenvuoron pyyntöä.
+
+17.55 Pertti Hakanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä tuli-
+kin jo edustaja Anttilan äskeisessä puheenvuorossa esille se, että järjestelmän vaihtoehtoja
+ovat rahasto tai vakuutus. Vakuutus ei tule olemaan se vaihtoehto meidän suomalaisille vil-
+jelijöille. Se ei tule olemaan semmoinen kilpailukykyinen, jotta se voisi tulla oikeasti vaih-
+toehdoksi viljelijöille. Sellainen rahastomalli ehkä voisi olla, johonka jokainen viljelijä itse
+omalta hehtaarilukumäärältään jonkinlaisen korvauksen sijoittaisi ja valtio laittaisi vastaa-
+van summan, ja sieltä sitten voitaisiin vuosittain näitä satovahinkoja korvata. Tämä ehkä
+tulee olemaan se, minkä minä ainakin itse näen mahdollisena vaihtoehtona. 
+
+Sitten vielä mitä tulee kuivureitten hakelämmitykseen, siis energialähteenä, niin täytyy
+muistaa sellainen erityispiirre vielä siitä kuivurin energian tuottamisesta, että hyvin monet
+näistä hakekuivureista — kun puhutaan hakekuivureista — tehdään niin, että se perusläm-
+pö lämmitetään öljyllä ja lämmönvaihtimen kautta tuodaan hakelämmitettynä ilma lämpi-
+mämpänä sinne öljypannuun. Elikkä se on semmoinen niin sanottu hybridipannu, [Puhe-
+mies koputtaa] ja tällä tavalla se toimii.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Puhujalista.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+17.56 Jari Myllykoski vas: Arvoisa herra puhemies! Ajattelin pärjätä 2 minuutilla, mutta
+kun olen Hämeessä asunut lapsuuteni, niin pikkuisen ajattelin, että otanpa vähän enemmän
+tähän aikaa.
+
+Edustaja Nylundille, Kurviselle ja ehkä Kivirannallekin ihan kommenttina, että ei se,
+että me tuomme uusiutuvan energian tähän rinnalle, tarkoita sitä, ettemmekö pohjimmil-
+tamme olisi sitä mieltä ja koko sydämestämme haluaisimme, että tässä tukalassa tilantees-
+sa suomalaista elintarviketuotantoa helpotetaan. Täytyy kuitenkin nähdä se, että kun on ky-
+symys polttoaineverohelpotuksesta, niin tämä kohdentuu koko maataloussektorille, ei pel-
+kästään ehkäpä vain viljanviljelijöille, mikä oli se ensisijainen ajattelutapa siitä, kuinka tar-
+vitsee asioita hoitaa.
+
+Edustaja Nylundin mukaan naapuritilallinen, jolla on hakkeella toimiva kuivuri ja joka
+on sillä samalla satovahinkoalueella, ei ole tämän tuen piirissä, ja te siunaatte sen eriarvoi-
+sen ajattelun, että se, joka on myöskin kärsinyt satovahingoista, ei saakaan sitä korvausta.
+Ja tässä on se, mitä minä en tavallaan niin kuin ymmärrä: että ollaan hyväksymässä eriar-
+voistavaa tilannetta. Ei minulla tähän ole mitään yksittäistä nopeaa ratkaisua, mutta edus-
+taja Hakanen kyllä minun mielestäni käytti oivallisen puheenvuoron siitä, että voisimme
+osan tästä polttoaineveron palautuksesta ohjata sinne rahastoon, jonne sitten viljelijät
+omalla panoksellaan ja valtio omallaan voisivat kerryttää varoja — olkoon sitten vaikka
+viisivuotinen ylimääräinen polttoaineen kaksinkertainen kevennystaakka, jotta saadaan
+viljelijöitten omaa panosta siihen.
+
+Vakuutusjärjestelmä ei tässä kannattavuuden huonossa tilanteessa tule olemaan sellai-
+nen vaihtoehto, että viljelijät sellaisen vakuutuksen ottaisivat, koska kannattavuus on niin
+heikkoa eikä tiloilla ole siihen resursseja. Rahallisia resursseja ei vain kerta kaikkiaan riitä.
+Sen takia tässä kohtaa pitäisi valtion tulla vastaan niin, [Puhemies koputtaa] että jatkam-
+me... 
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja voi jatkaa kaiken aikaa.
+
+Minä ajattelin, että minä jatkan kumminkin, niin että sitten tarvitsee sanoa niin kuin se
+eräs legendaarinen kansanedustaja, että ”kantajat tulivat”. — Mutta nyt joka tapauksessa
+minun mielestäni SDP:n lausuma on hyvä, se, että edellytetään, että lähdetään hakemaan
+ratkaisuja. Minun mielestäni siinä ei ole kyllä mitään moitittavaa. Kyllä pystyn sitä tuke-
+maan, mutta minun mielestäni pitää avata nyt vähän laajemmalti tätä, niin että turvataan
+suomalainen elintarviketuotanto ja viljely tässä maassa mutta mahdollistetaan ehkä vähän
+pidemmällä ajanjaksolla sitä, että me saamme tähän maahan jonkun rahastomallin, mistä
+sitten korvataan näitä satovahinkoja.
+
+Mielestäni Hakanen toi hyvän esimerkin, ja olen valmis ainakin henkilökohtaisesti edis-
+tämään sitä, että tällainen... Vaikka tässä kritisoidaan, että tästä voi tulla niin sanotusti
+maan tapa. Tulkoon maan tapa, mutta sillä pitää olla joku tavoite, ja se tarkoittaa sitä, että
+tällaisella ylimääräisellä kaksinkertaisella kevyen polttoöljyn palautejärjestelmällä kerät-
+täisiin sitä viljelijöiltä tulevaa rahasto-osuutta, ja siten luotaisiin pitkällä aikajänteellä tur-
+vallisuutta, kun tämä ilmastonmuutos nyt vain valitettavasti on meillä tosiasia [Puhemies
+koputtaa] ja meidän olosuhteet tässä maassa muuttuvat, kesistä ja talvista riippuen.
+
+Arvoisa puhemies! Näillä sanoilla jään mielenkiinnolla odottelemaan edustaja Nylun-
+din vastauspuheenvuoroa.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Nylund, poikkeuksellisesti
+saatte sen vastauspuheenvuoron, 1 minuutti.
+
+18.01 Mats Nylund r (vastauspuheenvuoro): Arvoisa puhemies! Minä toistan, mitä minä
+sanoin aiemmin. Tästä energiatuotteiden valmisteveron palautuksesta 70 prosenttia menee
+moottoreihin, joita myös sen hakekuivurin omistaja käyttää, eli hän saa tukea. Hakkeesta ei
+makseta energiatuotteen valmisteveroa. Valitettavasti ei ole mahdollista antaa tukea sitä
+kautta näille viljelijöille. Tämä ei ole paras mahdollinen, jos me eläisimme täydellisessä
+maailmassa, mutta nyt se on ainoa mahdollinen. Pitäisi tietää, että jos me yritämme nyt luo-
+da uuden järjestelmän, komissio vaatii, että pitäisi todeta, että juuri näillä viljelijöillä on ol-
+lut se satovahinkotilanne, ja se on mahdotonta, kun he eivät ole tehneet ilmoitusta. Me
+emme voi todistaa sitä enää.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Puhujalistaan.
+
+18.03 Timo Kalli kesk: Puhemies! Yhdyn niihin puhujiin, jotka ovat sitä mieltä, että nyt
+pitäisi erottaa se, ketkä kannattavat tätä 25 miljoonan euron suuntaamista suomalaisille vil-
+jelijöille satovahingoista johtuen, ja tämä muu keskustelu sitten on paljon pienempi asia.
+Sekin pitää muistaa, että kymmenessä vuodessa maatalouden tulo on puolittunut 500 mil-
+joonaan, kymmenen vuotta aiemmin se oli miljardi. Elikkä silloin, kun hallitus kuuli vilje-
+lijöiden hätää ja teki tämän ratkaisun, se tilanne oli hiukan erilainen kuin meillä täällä nyt,
+kun käydään tätä keskustelua. Enemmän me viisastelemme siitä, pitäisikö keksiä jotain uu-
+sia järjestelmiä vai pitäisikö tehdä sitä tai tätä.
+
+Verojaosto kuuli poikkeuksellisen laajasti asiantuntijoita, ja asiantuntijoiden joukossa
+oli myöskin asiantuntija ympäristöministeriöstä. Kaikki olivat sitä mieltä, että kun on tehty
+tämmöinen päätös, että viljelijöille osoitetaan 25 miljoonaa, niin tämä valittu järjestelmä
+näistä valikoimissa olevista on ehdottomasti kaikkein paras. Ei löydy mitään muuta. Ja jot-
+ta löytyy, niin sitä pitää sitten pidemmässä juoksussa pohtia ja miettiä.
+
+Ja niin kuin täällä aiemmissa puheenvuoroissa on toistettu, 70 prosenttia tästä korvaus-
+polttoaineverosta muodostuu moottoreista eli traktoreista ja erilaisista vempeleistä, joita
+siellä maataloudessa on, kuivureiden osuus on vain se 20, ja kun tiedetään se rakenne, min-
+kälaisia maatiloja meillä on, niin varmaan 95 prosenttia on senkaltaisia maatiloja, joilla on
+kuivuri, joka käyttää kevyttä polttoöljyä.
+
+Mutta minusta nyt pitäisi suunnata katse tulevaisuuteen ja ajatella sitä, että tulee kevät ja
+lähdetään kevätkylvöille eikä sellaisia vuosia kuin viime vuosi välttämättä toistuvasti tule.
+Elikkä ei nyt ennakoida pessimistisesti, että jatkuvasti tarvitaan satokorvauksia. Hoidetaan
+tämä asia ja uskotaan siihen, että tulevaisuudessa on paremmat sääolosuhteet eikä tämmöi-
+siä korvausjärjestelmiä tarvita.
+
+18.05 Pia Viitanen sd: Arvoisa herra puhemies! Enpä voisi enempää olla samaa mieltä
+kuin edustaja Kalli edellä. Toivon myös sydämestäni, että sääolosuhteet olisivat paremmat
+eikä tällaisia korvauksia tulevaisuudessa tarvittaisi. Sitä me emme ihan tässä talossa tieten-
+kään voi säätää, mutta toivoa voimme.
+
+Puhemies! Olen oikeastaan jo aiemmissa puheenvuoroissani tuonut olennaiset kulmat
+esiin omasta ajattelustamme SDP:ssä. Haluaisin tässä lopussa vain käyttää tilannetta hy-
+väkseni siinä suhteessa, kun puhuimme äsken maataloudesta ja sen kokonaisasemasta, kil-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+pailukyvystä, ja vielä alleviivata hyvin ajankohtaista asiaa, joka liittyy tietynlaiseen maa-
+talouden eettisyyteen ja näkökulmaan eettisyydestä maatalouden kilpailuvalttina. Eli juuri
+nyt parhaillaan valmistellaan uutta eläinsuojelulakia, ja jälleen kerran vetoan kyllä halli-
+tuspuolueisiin siinä, että siitä tulisi edistyksellisen hyvä ja että eläinten hyvinvointi otettai-
+siin siinä tosissaan. Muuten tulee takapakkia paljon.
+
+18.06 Esko Kiviranta kesk: Arvoisa puhemies! Tässä salissa käytetään usein, erityisesti
+debateissa, hyvin maatalousystävällisiä puheenvuoroja. Uskon, että aika monta kertaa ne
+tulevat ihan sydämestäkin, että kaikki eivät ole niin sanottua poliittista peliä ollenkaan.
+Mutta ilmeisesti täällä on kuitenkin aika huono maatalouden tuntemus keskimäärin, ja
+ehkä lyhyesti kertaan tuon maataloustulon kehityksen: Siis maataloustulo, joka on viljeli-
+jän saama korvaus työstään ja maatalouteen sijoitetusta pääomasta, on kehittynyt todella
+huonosti. Maataloustulo kokonaisuudessaan täällä Suomessa oli silloin vuonna 1995, kun
+EU-jäsenyys alkoi vuoden 1995 alusta, noin miljardi, siis noin 1 000 miljoonaa, euroa vuo-
+dessa. Nyt se on siinä 400—450 miljoonaa euroa. Eli tämä pudotus on ollut todella reipas,
+55—60 prosenttia. Samaan aikaan on tietysti kyllä tilaluku alentunut: silloin EU-jäsenyy-
+den alussa se oli 100 000 tilaa, nyt se on jo alle 50 000 tilan. Mutta tämä muutos on tapah-
+tunut varsin raskailla investoinneilla. Me, jotka verotusta tunnemme, tiedämme, että pel-
+lon ostohinta ei ole maatalouden juoksevassa tuloverotuksessa vähennyskelpoinen, se on
+vain mahdollisessa luovutusvoittoverotuksessa vähennyskelpoinen. Se liittyy siihen, että
+kaikki maapohja katsotaan sellaiseksi kulumattomaksi käyttöomaisuudeksi, josta ei voi
+tehdä poistoja.
+
+Sitten haluan vielä todeta sen, että tämä maatalouden energiaveron palautus, joka siis
+koskee polttoöljyä ja sähköä, rinnastuu suoriin tulotukiin, esimerkiksi hehtaariperusteisiin
+tulotukiin, sillä tämä energiaveron palautus on maatalouden jokavuotista tuloa. Se perus-
+tuu niin sanottuun maaseudun tupoon, joka tehtiin 11. maaliskuuta 2005. Ja kun voi olla
+sellaisiakin ihmisiä — olen kuullut — jotka ajattelevat, että tämä jokavuotinen polttoöljyä
+koskeva 17 miljoonan euron suuruinen valmisteveron palautus voitaisiin korvata kerta-
+luonteisella siirrolla Maatilatalouden Kehittämisrahastoon, jolla sitten tehtäisiin jotain uu-
+siutuvaan energiaan liittyvää siellä tiloilla, niin jokavuotista tuloa ei voida korvata kerta-
+luonteisella avustuksella. Tämän halusin sanoa noin taloudellisena perusoppina.
+
+18.10 Arto Pirttilahti kesk: Arvoisa herra puhemies! Kuten tuossa aiempi puhuja Esko
+Kiviranta, arvostamani maa- ja metsätaloustieteiden maisteri, sanoi, tässä salissa ei ole
+maataloustuntemus parhaimmillaan, mutta uskoisin sen nyt olevan tällä hetkellä. Vastaan
+agrologina myös asian jatkosta.
+
+Todellakin viime satovuosi oli todella heikko, ja me tarvitsemme todellakin sen 25 mil-
+joonan maatalouden kriisirahan käyttöön, ja mielestäni, miten tässä on keskustelussa tullut
+ja verojaosto on tätä asiaa pohtinut ja myös valiokunta, tapa, millä tämä nyt tänä vuonna
+hoidetaan, on juuri se oikea ja kohdentuu oikein, kuten täällä on esille tullut, että suurin osa
+menee tästä rahoituksesta juuri moottorikäyttöisien laitteitten kautta.
+
+Mutta todennäköisesti nämä satovahingot eivät tule tästä loppumaan, ilmastonmuutos
+on varmaan yksi osa sitä, ja tämä on se toinen keskustelu, mitä salissa on käyty, että millä
+tapaa tämä tuleva uusi järjestelmä sitten tähän luodaan. Olen myös itse sitä mieltä, että sitä
+tulisi vahvistaa ja lähteä pohtimaan, mikä on viljelijän osuus siinä ja onko valtion mahdol-
+16
+
+
+
+Pöytäkirjan asiakohta PTK 27/2018 vp
+lista tulla mukaan tähän tulevaan järjestelmään, koska aikaisempi järjestelmä on tällä het-
+kellä alas ajettu.
+
+Mutta toivomme, kuten tuossa edustaja Kalli, aurinkoisempaa kesää tästä kesästä. Vil-
+jelijöillä on nyt riittävästi kuitenkin varantoa ja rahoitusmahdollisuuksia lähteä taas osta-
+maan uusia siemeniä ja lannoitteita ja katsoa ensi kesää aurinkoisin mielin.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 7/2018 vp sisältyvän lakiehdotuksen sisäl-
+lön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+17
+
+
+	4
+	17.03
+	17.06
+	17.10
+	17.15
+	17.16
+	17.17
+	17.18
+	17.19
+	17.20
+	17.21
+	17.22
+	17.24
+	17.24
+	17.28
+	17.31
+	17.35
+	17.39
+	17.42
+	17.43
+	17.44
+	17.45
+	17.47
+	17.48
+	17.49
+	17.50
+	17.51
+	17.52
+	17.54
+	17.55
+	17.56
+	18.01
+	18.03
+	18.05
+	18.06
+	18.10
+
+

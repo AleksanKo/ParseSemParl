@@ -1,0 +1,519 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM243A.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 96/2016 vp
+
+Täysistunto
+
+Torstai 6.10.2016 klo 16.00—18.33
+
+3. Hallituksen esitys eduskunnalle laiksi esitutkintalain muuttamisesta ja eräiksi siihen liit-
+tyviksi laeiksi
+
+Hallituksen esitys HE 99/2016 vp
+Valiokunnan mietintö LaVM 9/2016 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 3. asia. Käsittelyn pohjana on lakivaliokunnan mietintö LaVM 9/2016
+vp. Nyt päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+17.01 Antero Laukkanen kd: Arvoisa herra puhemies! Ensinnäkin kiitokset lakivalio-
+kunnalle, joka hyvin perusteellisesti suhtautui tähän Euroopan neuvoston direktiivin täy-
+täntöönpanoon, joka hyvin merkittävällä tavalla lisää rikoksesta epäillyn oikeussuojaa ja
+parantaa sitä, sekä myös avustajan käytön selkeytyminen kuulusteluissa on hyvin keskei-
+senä asiana tässä esityksessä.
+
+Esityksessä ehdotetaan muutettavaksi esitutkintalakia, poliisien säilyttämien henkilöi-
+den kohtelusta annettua lakia, sakon ja rikesakon määräämisestä annettua lakia, rangaistus-
+määräysmenettelystä annettua lakia, rikesakkomenettelystä annettua lakia ja rikoksen joh-
+dosta tapahtuvasta luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden
+välillä annettua lakia sekä oikeusapulakia.
+
+Esityksellä pannaan täytäntöön direktiivi oikeudesta käyttää avustajaa rikosoikeudelli-
+sissa menettelyissä ja eurooppalaista pidätysmääräystä koskevissa menettelyissä. Esitut-
+kintalain säännöksiä, jotka koskevat epäillyn avustajan läsnäoloa kuulustelussa, täydennet-
+täisiin. Epäillyn avustajan läsnäolo kuulustelussa voitaisiin kieltää vain, jos se olisi välttä-
+mätöntä rikoksen selvittämisen merkittävän vaarantumisen estämiseksi.
+
+Arvoisa puhemies! Lakivaliokunta kuuli lukuisia asiantuntijoita, joiden huolellisen
+kuuntelemisen seurauksena tämä mietintö on valmistunut. Erityisesti kohta "Epäillyn
+avustajan läsnäolo kuulustelussa" oli laajan keskustelun kohteena. Täällä sanotaan näin:
+"Esityksessä ehdotetaan tiukennettavaksi edellytyksiä, joilla epäillyn avustajan läsnäolo
+kuulustelussa voidaan kieltää. Voimassa olevan lain mukaan avustajan läsnäolo kuuluste-
+lussa on mahdollista kieltää painavista rikostutkinnallisista syistä. Nyt ehdotetaan, että
+avustajan läsnäolo saadaan kieltää vain, jos se on välttämätöntä rikoksen selvittämisen
+merkittävän vaarantumisen estämiseksi." Poliisi ei tästä muutoksesta ollut kovin innostu-
+nut, koska he kokivat, että se ikään kuin rajaa heidän harkintavaltaansa tässä kuulusteluti-
+lanteessa.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+Kuitenkin merkittävää on se, että epäilty, kunnes toisin todistetaan, saa sen kaiken mah-
+dollisen tuen, mitä hän tarvitsee tässä tilanteessa, joka voi monelle olla hyvinkin ainutlaa-
+tuinen kokemus. Välttämättä aina ei edes ihan heti lähtötilanteessa tiedä, miksi on joutunut
+epäillyksi, joten nämä tarkennukset tähän lakiin ovat erittäin tärkeitä ja merkittäviä. Lisäk-
+si avustajan aktiivisuustasoa määriteltiin uudella tavalla: ei tarvitse passiivisena enää istua
+hiljaa vaan voi keskustella epäillyn kanssa, mikä sekin oli hyvin merkittävä uudistus tähän
+lakiin.
+
+Tässä vain muutama asia, jotka halusin nostaa. Uskon ja toivon, että täällä monet muut
+edustajat nostavat näitä hyviä asioita esiin, mitä tähän mietintöön on kirjattu. — Kiitoksia.
+
+17.05 Antti Kurvinen kesk: Arvoisa herra puhemies! Kun rikos tapahtuu, niin rikoksen
+selvittämisessä kaikkein tärkein vaihe on esitutkinta. Siinä esitutkinnassa se, mitä selvitys-
+tä saadaan, mitä todisteita saadaan rikospaikalta, mitä saadaan kuulusteluissa rikoksesta
+epäillyltä, todistajilta, on sellainen työ, jota ei voi paikata enää jälkikäteen. Meillähän on
+ollut julkisuudessa tiettyjä tapauksia, missä rikoksen selvittäminen on muuttunut lähes
+mahdottomaksi, kun virheitä on esitutkintavaiheessa tehty. Syyttäjä tai mikään tuomiois-
+tuin ei niitä virheitä pysty enää korjaamaan, ja siksi on erittäin tärkeää, että esitutkintaan
+laitetaan panoksia poliisin ja syyttäjän toiminnassa, niin henkilöresursseja kuin riittävä
+osaaminen, ja on erittäin tärkeää, että syyttäjät ovat, varsinkin vakavissa ja monimutkaisis-
+sa rikostapauksissa, mukana siinä esitutkintavaiheessakin ja tätäkin kehitetään.
+
+Koska esitutkinta on tärkein vaihe rikoksen selvittämisessä, on erittäin tärkeää, että ih-
+misellä on aina mahdollisuus saada ammattitaitoista apua siihen kuulustelutilanteeseen.
+Kuten edustaja Laukkanen totesi, se on hyvin haastava ja vaikea tilanne ihmiselle, ja eri-
+tyisesti kun kyseessä on alaikäinen henkilö tai psyykkisesti häiriintynyt, psyykkisesti sai-
+ras henkilö, on erittäin tärkeää, että aidosti on mahdollisuus jo ensimmäiseen kuulusteluun
+saada avustaja paikalle. Nämä ovat näitä länsimaisen oikeusvaltion ihan perusperiaatteita.
+Itse näen, että on kaikkien osapuolten, myös poliisin, etu, että siellä kuulustelussa paikalla
+on ammattitaitoinen ja eettisesti korkeatasoinen avustaja, joka hallitsee nämä rikosasiat ja
+prosessuaaliset asiat. Tässä kohtaa kannan huolta siitä, että varsinkin tuolla maakuntien
+Suomessa käytännössä alkaa rikosasioita hoitavien asianajajien ja lakimiesten saatavuus
+olla vähentynyt aika paljon, ja tämä on sellainen asia, mistä täällä eduskunnassakin kan-
+nattaa olla huolissaan. Kuitenkin tarvitaan myös avustajia oikeusvaltiossa rikosasioihin,
+(Puhemies koputtaa) ei vain liikejuridiikkaa.
+
+17.08 Kari Kulmala ps: Arvoisa puhemies! Hallituksen esityksessä ehdotetaan muutetta-
+vaksi esitutkintalakia. Tällä esityksellä pantaisiin täytäntöön Euroopan parlamentin ja neu-
+voston direktiivi, joka koskee epäillyn ja syytetyn oikeutta käyttää avustajaa rikosoikeu-
+dellisissa menettelyissä ja eurooppalaista pidätysmääräystä koskevissa menettelyissä. Esi-
+tutkintalain säännöksiä täydennettäisiin niiltä osin, jotka koskevat epäillyn avustajan läs-
+näoloa kuulustelussa. Epäillyn avustajan läsnäolo kuulustelussa voitaisiin kieltää vain, jos
+se olisi välttämätöntä rikoksen selvittämisen merkittävän vaarantumisen estämiseksi. Läs-
+näolokieltoa koskeva päätös voitaisiin saattaa myös tuomioistuimen tutkittavaksi. Esitut-
+kintalakiin otettaisiin lisäksi säännökset avustajan käyttöä koskevasta oikeudesta luopumi-
+sesta.
+
+Vuonna 2011 voimaan tulleeseen esitutkintalakiin sisältyy jo tälläkin hetkellä varsin
+kattavat säännökset epäillyn oikeudesta käyttää avustajaa. Kansallinen lainsäädäntömme
+2
+
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+täyttää direktiivin vaatimukset muutamaa kohtaa lukuun ottamatta. Hallituksen esitykses-
+sä ehdotetaan tiukennettavaksi edellytyksiä, joilla epäillyn avustajan läsnäolo kuulusteluis-
+sa voidaan kieltää. Nykyisen lain mukaan avustajan läsnäolo kuulustelussa on mahdollista
+kieltää "painavista rikostutkinnallisista syistä". Tässä esityksessä ehdotetaan, että avusta-
+jan läsnäolo saadaan kieltää "vain, jos se on välttämätöntä rikoksen selvittämisen merkit-
+tävän vaarantumisen estämiseksi". Näissä sanamuodoissa on huomattava ero. Omaan työ-
+kokemukseeni viitaten olen sitä mieltä, että nämä tiukennukset ovat tarpeettomia ja pelkäs-
+tään haittaavat esitutkintaviranomaisen työtä. Avustajalla on jo nyt riittävät mahdollisuu-
+det olla kuulustelussa mukana. Myös valiokunnan kuulemat asiantuntijat ovat tuoneet
+esiin, että edellytys rikoksen selvittämisen niin sanotusta merkittävästä vaarantumisesta on
+tarpeettoman korkea ja rajoittaa viranomaisten harkintavaltaa ja toimintamahdollisuuksia.
+Esitutkintaviranomaisten mukaan riittävää tulisi olla, että avustajan läsnäolon kieltäminen
+on välttämätöntä rikoksen selvittämiseksi. Olen tässä asiassa heidän kanssaan täysin sa-
+maa mieltä. Kuitenkin ehdotettu sanamuoto vastaa direktiivin vaatimuksia, eikä direktii-
+vissä tältä osin ole kansallista liikkumavaraa, joten saamme tästäkin uudistuksesta kiittää
+EU:ta — joten kiitos, EU!
+
+17.10 Timo Heinonen kok: Arvoisa herra puhemies! Olen edustaja Kulmalan kanssa sa-
+maa mieltä, että tiukennukset ovat turhia. Tässä rikoksesta epäillyn oikeusturvaa ollaan
+edelleen vahvistamassa. Mielestäni tämä on toiminut varsin hyvin, ja tämä sama rikokses-
+ta epäillyn oikeusturva nyt ihan tuoreiden tilastojen mukaan jopa vaarantaa osan rikosten
+selvittelystä. Tuore selvitys osoittaa esimerkiksi sen, että kotietsinnät on monessa tilan-
+teessa jätetty tekemättä sen takia, että meillä tämän hetken lainsäädäntö vaatii rikoksesta
+epäillyn oikeusturvan vahvistamiseksi, että poliisin on varattava kohteelle mahdollisuus
+olla läsnä kotietsinnän aikana. Nyt kun henkilö otetaan kiinni vaikkapa Turussa ja hänen
+kotinsa on Rovaniemellä, niin Turusta tämä henkilö täytyy kuljettaa kotietsintää varten
+Rovaniemelle, ennen kuin kotietsintä voidaan toteuttaa. Tänään on osoitettu se, että näitä
+kotietsintöjä ei sen takia tehdä, että se on niin byrokraattista, niin hankalaa, niin vaikeasti
+toteutettavaa, ja silloin voi kysyä, meneekö rikoksesta epäillyn oikeusturva jo itse rikoksen
+selvittelyn edelle.
+
+Keväällä juuri ennen viime eduskuntavaaleja sisäministeriössä tehtiin arviomuistio, jon-
+ka mukaan poliisilla pitäisi lisäksi tietyissä tapauksissa olla oikeus tehdä kotietsintä jopa
+salassa, ja lisäksi etsintöjä pitäisi ehdotuksen mukaan voida tehdä jo ennen kuin rikos on
+tapahtunut, siis tiedonhankintatarkoituksessa. Tällöin rikos voitaisiin estää ennalta. Itse
+toivon, että maamme hallitus ottaa tämän edellisen hallituksen aikana tehdyn sisäministe-
+riön arviomuistion nyt vielä pöydälle ja katsoo kertaalleen, meneekö rikoksesta epäillyn oi-
+keusturva nyt rikoksen selvittelyn edelle.
+
+17.12 Ben Zyskowicz kok: Arvoisa herra puhemies! Edustaja Laukkanen puheenvuoros-
+saan sanoi, että tässä tehdään parannuksia rikoksesta epäillyn oikeusturvaan, ja hän piti
+näitä tiukennuksia hyvänä asiana.
+
+Minä taas henkilökohtaisesti olen kurkkuani myöten täynnä rikoksesta epäillyn oikeus-
+turvan parantamista ja erilaisia tiukennuksia, joilla vaikeutetaan rikoksen selvittämistä. Tä-
+män sanon sen vuoksi, että mielestäni Suomessa rikoksesta epäillyn ja myös rikoksesta
+syytetyn oikeusturva on jo tänä päivänä, ennen tätä uudistusta, aivan riittävällä tasolla.
+Aina pitää arvioida, että tämän rikoksesta epäillyn oikeuksien vahvistamisen vastapunnuk-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+sena on rikoksen selvittämisen intressi. Jos me jatkuvasti vain katsomme tätä rikoksesta
+epäillyn oikeusturvaa ja eri tavoin vahvistamme sitä ja vaikeutamme poliisin työtä, niin sil-
+loin me myös vaikeutamme rikoksen selvittämistä ja sysäämme rikoksen selvittämisen int-
+ressin sivummalle, vaikka se koko yhteiskunnan kannalta on erittäin tärkeä tekijä. Tietys-
+tikään en kannata sitä, että epäillyillä ei olisi mitään oikeuksia, päinvastoin kannatan, että
+heillä on ne oikeudet, jotka tällaisessa sivistyneessä oikeusvaltiossa pitääkin olla. Mutta se,
+että tuijotetaan jatkuvasti vain sitä puolta ja tätä kautta vaikeutetaan rikosten selvittämistä,
+ei mielestäni ole järkevää.
+
+Esimerkiksi mainitsen, että nykyisin tätä vapaudenmenetyksestä ilmoittamista kiinni-
+otetun läheisille voidaan lykätä, mikäli ilmoittamisesta on erityistä haittaa rikoksen selvit-
+tämiselle. No, sehän on ihan järkevä argumentti, että pitää voida lykätä, jos tästä ilmoitta-
+misesta on erityistä haittaa rikoksen selvittämiselle. — Jatkan pöntöstä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Juuri näin.
+
+Herra puhemies! Totesin siis, että nykylainsäädännön mukaan vapaudenmenetyksestä
+ilmoittamista kiinniotetun tai pidätetyn läheiselle voidaan lykätä, mikäli ilmoittamisesta on
+erityistä haittaa rikoksen selvittämiselle. No, minä koen, että tämä on erittäin järkevä ja pe-
+rusteltu syy lykätä, koska pyrkimyksenähän on selvittää rikos, ja jos siitä on erityistä hait-
+taa rikoksen selvittämiselle, niin mikä on sen parempi syy lykätä tätä ilmoittamista?
+
+No, nyt kuitenkin EU-direktiivin pohjalta muutetaan niin, että tämä ei riitäkään syyksi
+tämän ilmoittamisen lykkäämiselle vaan nyt voidaan lykätä vain, jos se on välttämätöntä
+rikoksen selvittämisen merkittävän vaarantumisen estämiseksi. No, en tietystikään pysty
+etukäteen sanomaan, missä se raja käytännössä sitten menee, mutta kai jotain merkitystä
+näillä erilaisilla sanamuodoilla on. Eli kyllä se kynnys sille, milloin voidaan lykätä tätä il-
+moittamista, tämän lainmuutoksen myötä nousee. Onko tämä järkevää? No, ei tietystikään
+ole järkevää, ei ainakaan rikoksen selvittämisen intressin kannalta, ja minun mielestäni se
+on tärkeä intressi koko yhteiskunnalle.
+
+Herra puhemies! Eilen tai toissa päivänä ulkoasiainvaliokunnassa oli kuultavana korkea
+poliisiviranomainen, joka totesi, että poliisin voimavarat ovat todella tiukoilla, ja hän myös
+totesi, että ne muutokset, jotka esitutkinta- ja pakkokeinolainsäädäntöön on viime aikoina
+tehty, ovat huomattavasti lisänneet poliisin voimavarojen tarvetta. Kun meillä ei ole mah-
+dollisuutta riittävästi antaa rahaa poliisille ja poliisin palvelujen turvaamiseksi — ei ole
+mahdollisuutta antaa niin paljon kuin mitä me täällä eduskunnassa varmasti kaikki haluai-
+simme — niin eikö olisi järkevää käydä läpi poliisin sellaisia toimintoja, jotka ovat perus-
+teettomia, jotka aiheettomasti vievät voimavaroja ja joista voidaan luopua ilman, että se
+rikkoo Euroopan ihmisoikeussopimusta tai mitenkään muutenkaan virheellisellä tavalla
+kaventaa epäillyn, kiinniotetun tai syytetyn oikeusturvaa? Edustaja Heinonen puheenvuo-
+rossaan toi esiin hyvän esimerkin tästä kotietsinnästä.
+
+Loppujen lopuksi, herra puhemies, haluan sanoa, että ei enää rikoksesta epäillyn, kiin-
+niotetun ja syytetyn oikeusturvan parantamista, vaan rikoksen selvittämisen intressistä
+mieluummin poliisin toimintaedellytysten vahvistamista.
+
+17.18 Antti Kurvinen kesk: Arvoisa puhemies! Tämä on laadukkaimpia keskusteluja,
+mitä tässä salissa käydään. Olisi mukavaa, jos enemmänkin käytäisiin tämmöisiä ihan pe-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+rusasioitten äärelle ja meidän yhteiskunnan perusarvoihin meneviä keskusteluja semmoi-
+sen perinteisen kuittailun sijaan.
+
+Haluan kommentoida edustaja Heinosen puheenvuoroa siinä, että kyllä tämä kotietsin-
+täsäännöstö täytyy käydä läpi. Nämä ovat tietysti aivan järjettömiä ja elämälle vieraita ti-
+lanteita.
+
+Samoin koen huolta, niin kuin edustaja Zyskowiczkin, rikoksen uhrin asemasta. Varsin-
+kaan väkivalta- ja seksuaalirikosten uhrien asema ja varsinkaan se tuki sitten myöhemmin
+ja paluu normaaliin elämään eivät vieläkään Suomessa ole kunnossa. Mutta itse kun olen
+ollut mukana kuulusteluissa, avustanut rikoksesta epäiltyä ja istunut siellä hiljaa vieressä
+seuraamassa, että kaikki menee niin kuin pitää oikeusvaltiossa mennä, niin en voi kyllä
+ymmärtää esimerkiksi edustaja Kulmalan ja Zyskowiczin kritiikkiä: Mitenkä se, että ihmi-
+nen voi saada ammatillisesti ja eettisesti oikein toimivan avustajan paikalle sinne kuulus-
+teluihin, voisi vaarantaa rikoksen selvittämistä? Ja jos on epäily, että se vaarantaa rikoksen
+selvittämistä, niin herää kysymys, selvitetäänkö rikos jotenkin sillä tavalla, miten poliisi ei
+sitä voi selvittää. Kaikki me tiedämme sen, että ylilyöntejä ja todisteitten keksimistä ja
+mutkien oikomista ei koskaan saa esitutkinnassa tehdä. Ja itselleni ei ainakaan tule mie-
+leen sellaista tilannetta, jossa ammattitaitoinen ja fiksu avustaja olisi voinut jotenkin vaa-
+rantaa sen rikoksen selvittämisen — aika erikoinen ajatus.
+
+Mutta semmoisia tilanteita valitettavasti, puhemies, tiedän, että on ollut vaikka alaikäi-
+nen henkilö ja häntä on kuulusteltu aika vakavistakin rikosepäilyistä ilman, että oikeudel-
+lisesti pätevä avustaja on ollut paikalla. Minusta se ei ole asianmukaista: jos on 15—16-
+vuotias ihminen, jota epäillään jopa vankeuteen johtavasta rikoksesta, niin kyllä siellä pi-
+täisi minusta avustajan olla paikalla ja tämä pitäisi taata.
+
+17.20 Antero Laukkanen kd: Arvoisa herra puhemies! Kiitos kaikille edustajille todella-
+kin tästä hyvästä keskustelusta, ja erityisesti edustaja Kulmalan puheenvuoro oli kyllä joka
+sana harkittua ymmärrystä.
+
+On tietysti ihan selvää, että poliisi vastustaa tätä esitystä ja omien toimintojensa rajoit-
+tamista kuulustelutilanteessa. Direktiivin taustalla kuitenkin on se, että poliisin on koettu
+olevan kohtuuton toimissaan epäiltyjä kohtaan ja tämä oikeuslaitoksen keskeinen oikeus-
+periaate "kunnes toisin todistetaan" ei aina toteudu siinä kuulustelutilanteessa. Pidän erit-
+täin tärkeänä sitä, että kaikki tässä maassa voivat kokea, niin epäilty kuin poliisikin, että jos
+hänen kohdalleen tulee vastaava tilanne, voisi saada asianmukaista oikeusapua ja oikeus-
+suojaa — kyllä se on jokaisen sivistysvaltion velvollisuus. (Antti Kurvinen: Asiallinen pu-
+he!)
+
+17.21 Joona Räsänen sd: Arvoisa puhemies! Nyt todella tässä keskustelussa ollaan oike-
+usjärjestelmän toimivuuden kannalta keskeisten asioiden äärellä, ja niin kuin täällä on hy-
+vin usean kollegan suusta sanottu, tässähän epäillyn oikeusturvan — mikä sinällään on
+erittäin tärkeä asia, että sitä myös parannetaan ja siitä pidetään kiinni — lisäksi on kuiten-
+kin syytä aina muistaa, millä tavalla me myös tuemme heitä, ketkä tätä tutkintaa tekevät, ja
+annamme heille myös ne resurssit ja mahdollisuudet suorittaa sen rikoksen tutkinnan, jotta
+tämä sujuu mallikkaasti.
+
+Nyt kun todella tilanne on se, että tutkinnan puolella resurssipula poliisilla tuntuu ja po-
+liisi tästä aika ajoin varmasti meitä jokaista muistuttaa, niin voitaisiinko pohtia, olisiko
+ehkä muuten, muussa lainsäädännössä, sellaisia asioita, mitä me voisimme helpottaa, jotta
+5
+
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+tämä tutkinta onnistuisi paremmin? Eräs asia, mikä mieleeni tulee, voisi olla pohdinnan
+paikka: kun meillä on kuitenkin lainsäädännössä tämä esitutkintapakko, ja jos nyt ajatel-
+laan hyvin isoja keissejä, missä on saattanut tapahtua muutamia lievempiä rikoksia ja sit-
+ten näitä törkeämpiä rikoksia, niin poliisin pitää tässä samassa tapauksessa myös nämä lie-
+vemmät rikokset tutkia ja esitutkinta tulee suorittaa mallikkaasti, vaikka olisi kyseessä
+sama tekijä ja niin edelleen, ja välttämättä näillä lievemmillä rikoksilla ei sitten tästä tör-
+keämmästä rikoksesta saatuun tuomioon olisi juurikaan vaikutusta. Ehkä tämäntyyppistä
+keskustelua olisi hyvä käydä, että olisiko muussa lainsäädännössä mahdollisuuksia lieven-
+tää niitä paineita, mitkä kohdistuvat nimenomaan rikoksen tutkintaan, jotta me takaamme
+myös poliisille ne parhaat mahdollisuudet, jotta pystyvät sitten tätä tutkintaa tekemään.
+
+17.23 Ben Zyskowicz kok: Arvoisa herra puhemies! Ensinnäkin kiitän sitä edustajaa —
+nyt en muista, kuka se oli — joka toi esiin tämän rikoksen uhrin näkökulman. Omassa ko-
+vin spontaanissa puheenvuorossani en sitä korostanut, kun puhuin rikoksen selvittämisen
+intressistä. Eli toki näen asian niin, että koko yhteiskunnan kannalta rikoksen selvittämisen
+intressi on voimakas, mutta varsinkin rikoksen uhrin kannalta on välttämätöntä, että myös
+hän voi kokea, että meidän oikeusvaltio suhtautuu oikeudenmukaisesti myös hänen perus-
+teltuihin odotuksiinsa siitä, että häntä vastaan rikoksen tehnyt henkilö saa rikoksestaan
+asianmukaisen seuraamuksen.
+
+Täällä todettiin, että ymmärretään, että poliisi vastustaa. Minä en usko, että poliisi vas-
+tustaa tätä itsensä vuoksi, vaan ymmärrän asian niin, että poliisi kokee tehtäväkseen rikos-
+ten selvittämisen monen muun tehtävän ohella ja varmasti kokee, että sen tehtävän kannal-
+ta, siis rikoksen selvittämisen kannalta, tämä uudistus ei ole askel oikeaan suuntaan.
+
+Täällä todettiin, että oikeusvaltiossa, joka Suomi on ja joka Suomen pitää jatkossakin
+aina olla, pitää antaa kaikille asianmukainen oikeussuoja. Tästä olen täysin samaa mieltä.
+Eri mieltä olemme vain siitä, että minun mielestäni jo nykyinen Suomen esitutkinta- ja
+pakkokeinolainsäädäntö ja esimerkiksi mainitsemani esimerkki siitä, milloin läheiselle il-
+moittamista henkilön kiinniotosta voidaan lykätä, antavat riittävän oikeussuojan esimer-
+kiksi tässä tapauksessa rikoksesta epäillylle, koska totta kai sitä pitäisi voida lykätä, jos il-
+moittamisesta on erityistä haittaa rikoksen selvittämiselle, kuten nykyinen laki säätää.
+
+Lopuksi totean, että on hyvä, että täällä on ollut laaja yhteisymmärrys siitä, että pitäisi
+käydä läpi poliisin nykyisiä toimintavelvoitteita ja katsoa, olisiko siellä (Puhemies koput-
+taa) korjaamisen tilaa.
+
+17.25 Mari-Leena Talvitie kok: Arvoisa herra puhemies! Kiitos tosiaan tästä hyvästä
+keskustelusta. Kun nyt on nimenomaan kyse esitutkintalain muutoksesta, muutamasta py-
+kälästä, nimenomaan muun muassa poliisin säilyttämien ihmisten kohtelusta ja tämän oi-
+keusapulain muutoksesta, niin itsekin lakivaliokunnan jäsenenä nostan vain pari pientä
+kohtaa esiin.
+
+Nimenomaan tässä poliisin säilyttämien henkilöiden kohtelussa lakiin otettaisiin myös
+säännökset alle 18-vuotiaiden vapaudenmenetyksen ilmoittamisesta heidän huoltajilleen ja
+sosiaaliviranomaisille, mitä pidän hyvänä asiana.
+
+Ja toinen asia liittyen tähän oikeusapulakiin: Täällä on ollut hyvää keskustelua avusta-
+jan tarpeellisuudesta ja muusta, mutta myöskin ehdotetaan tässä yhteydessä muutettavaksi
+sitä, että avustajan palkkio voidaan jättää korvaamatta, jos asian hoitamisessa on ollut erit-
+täin vakavia avustajasta johtuvia laiminlyöntejä ja puutteita. Tämä ei siis perustu niihin di-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+rektiivin vaatimuksiin, vaan sen taustalla on oikeudenhoidon uudistamisohjelma ja tavoit-
+teena myöskin lisätä niitä keinoja valvoa.
+
+Mutta mitä sitten tulee tähän arviointiin esitutkintalain toimivuudesta kokonaisuudes-
+saan, mikä heräsi myöskin tässä keskustelussa esiin, niin olen kyllä edustaja Heinosen ja
+Zyskowiczin, samaten edustaja Räsäsen, puheenvuorojen kanssa samaa mieltä siitä, että
+meidän on tällä kaudella kyettävä arvioimaan, miten esitutkintalaki kokonaisuudessaan
+toimii, koska poliisien resursseja emme pysty lisäämään sitä vastaavasti, mikä se palvelun
+tarve ja paine tällä hetkellä siellä on. Resurssit eivät riitä. Joten on kyettävä — vaikka ei ole
+kuin muutama vuosi niistä muutoksista, niin on kuitenkin uusi eduskunta — arvioimaan,
+miten sitä palvelun tarvetta voidaan vähentää. — Kiitos.
+
+17.27 Antti Kurvinen kesk: Herra puhemies! Tahdon myös osallistua tähän erittäin hy-
+vään keskusteluun liittyen poliisin velvollisuuksiin suorittaa aina esitutkinta, kun syytä on
+epäillä rikosta. Olen kyllä täysin samaa mieltä edustaja Joona Räsäsen ja edustaja Talvi-
+tien kanssa siitä, että kyllä tässä talossa meidän pitäisi tähän asiaan tarttua. Tällä hetkellä
+poliisi kipuilee ja poliisimiehet ja poliisinaiset kokevat huonoa omaatuntoa siitä, että asioi-
+ta on selvittämättä, ja he eivät voi oikeastaan laillisesti priorisoida, mitä tutkitaan, mitä ei
+tutkita. Esimerkiksi kun olemme tuolla hallintovaliokunnassa kaikki, edustaja Räsänen,
+minä ja Talvitie, niin siellä on meille tuotu esiin esimerkki, että jos on iso talousrikosvyyh-
+ti, niin siellä voi olla runsaasti lieviä petoksia, ja sitten on niitä petoksia ja törkeitä petok-
+sia, ja näiden lievien petosten selvittäminen ei vaikuta siihen kokonaistuomioon millään ta-
+valla, mutta virallisesti ja nykyisen lain mukaan ne pitäisi tutkia. Kyllä meidän pitäisi us-
+kaltaa täällä talossa tehdä rohkeita valintoja ja tehdä sitä lainsäätäjän perustyötä ja suunna-
+ta niitä poliisin esitutkintaresursseja oikeaan suuntaan isojen, monimutkaisten, vakavien ri-
+kosten selvittämiseen. Tässä kyllä pitää lopettaa kaikkien poliitikkojen pään laittaminen
+pensaaseen, ja pitää ihan oikeasti meidän ottaa vastuuta tästä, eikä niin, että arjessa poliisi
+ottaa sitä vastuuta.
+
+Kuitenkin olen vähän huolissani tästä keskustelun sävystä, että me voisimme tinkiä oi-
+keusturvasta, jotta rikokset selviävät. Se on aika vaarallinen polku, arvon kollegat. Itse ai-
+nakin uskon ihan viimeiseen asti siihen periaatteeseen, että mieluummin yhdeksän syyllis-
+tä henkilöä kävelee vapaaksi kuin yksi syytön tulee tuomituksi. Se on erittäin vaarallista,
+jos me alamme tinkiä oikeusturvasta, jotta saataisiin rikosten selviämistilastot kuntoon.
+Tämähän ei tietenkään tarkoita sitä, etteikö poliisille pitäisi antaa riittäviä resursseja, ja sen
+me haluamme varmasti kaikki yli puoluerajojen täällä antaa.
+
+17.29 Ben Zyskowicz kok: Arvoisa herra puhemies! Tämähän perustuu EU:n direktii-
+viin, ja kyllä tässä vähän tulee mieleen se, että kun EU:ssa on paljon jäsenmaita ja voi sa-
+noa, että myös poliisin ja syyttäjien ja tutkinnanjohtajien toiminta eri EU-maissa on vähän
+eritasoista, niin olisiko tässä käynyt niin, että Suomessa me joudumme tiukentamaan omaa
+lainsäädäntöämme sellaisten ongelmien takia, joita on esiintynyt ja esiintyy ehkä joissakin
+muissa EU-maissa. Mutta toisaalta olen hyvin tyytyväinen siitä, että täällä esimerkiksi
+edustajat Räsänen ja Kurvinen toivat vahvasti esiin sen tarpeen, että poliisi voisi tietyissä
+tilanteissa jättää täysin merkityksettömät, pienet sivurikkeet tutkimatta omalla päätöksel-
+lään ja keskittyä oleelliseen. Esimerkiksi juuri voi olla joku valtava huumejuttu, jossa on
+sitten lukuisia käyttörikoksia, niin kuinka pitkälle näitä pitää tutkia, jos ja kun se on pois
+sitten oleellisemmasta? Nythän syyttäjä voi tehdä näitä ratkaisuja, mutta poliisi ei voi. Ja
+7
+
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+toivon, herra puhemies, että hallintovaliokunnassa ja tietysti sisäministeriössä ja oikeusmi-
+nisteriössä tätä asiaa nyt edistettäisiin.
+
+Edustaja Kurvisella oli erinomainen puheenvuoro. Valitettavasti se loppua kohti vähän
+huononi. (Naurua) Eli en tietystikään minä eikä kukaan tässä salissa ole sillä kannalla, että
+mitkä tahansa toimet olisivat oikeutettuja, kunhan vain rikokset selviäisivät. On ihan sel-
+vää, että täällä ei hyväksytä kidutusta eikä myöskään esimerkiksi sellaisia pidätysaikoja,
+jotka vielä silloin, kun tulin eduskuntaan aikoinaan, olivat ihan luonnollisia. Mutta minä
+olen sitä mieltä, että nykyinen oikeusturva olisi ollut ihan riittävä.
+
+17.31 Antero Laukkanen kd: Arvoisa herra puhemies! Edustaja Zyskowicz tässä kyllä
+osui ihan naulan kantaan, kun hän pohti tätä oikeuskäytäntöä muissa EU-maissa ja sitä,
+kuinka ikään kuin tässä tulemme hieman kuin direktiivin yliajamaksi. Uskon, että jos tätä
+liikkumavaraa tässä olisi ollut, niin valiokunnan mietintö olisi ollut ehkä hieman toisenlai-
+nen, mutta kun sitä ei ollut, niin jouduimme harkiten sitten menemään sen mukaan kuin oh-
+jeet ovat tulleet, ja tämä on tätä uutta EU-aikaa.
+
+Vielä yhden asian tässä nostaisin esiin, ja se on tämä avustajan uusi aktiivinen rooli. Kun
+hänellä on nyt ollut mahdollisuus vain istua ja kysyä joitakin kysymyksiä, niin nyt hän voi
+osallistua keskusteluun niin tämän epäillyn kanssa kuin syyttäjänkin kanssa. Vaikka hän ei
+voi ohjata sitä keskustelua, hän voi silti olla aktiivinen, ja tämä on kyllä hyvin merkittävä
+turvallisuustekijä koko tähän prosessiin. Mutta niin kuin täällä on todettu, tämä esitutkin-
+talain kokonaisarviointi ja katsominen on varmasti meillä edessäpäin. — Kiitos.
+
+17.32 Timo Heinonen kok: Arvoisa herra puhemies! En ole varma, viittasiko edustaja
+Kurvinen minun aiempaan puheeseeni (Antti Kurvinen: Kehuin sitä!) — kiitos, hyvä näin
+— kun puhuttiin tästä oikeusturvasta ja siitä, vaarantuuko se. Me suomalaiset tuoreimman
+poliisibarometrin mukaan luotamme poliisiin vielä enemmän kuin hetki sitten luotimme,
+eli luottamus poliisiin on vahvistunut. Silloin itse lähestyn kyllä tätä kysymystä juuri niin,
+että rikoksesta epäillyn oikeusturva, niin kuin edustaja Zyskowicz toi esille, nykyisellä ta-
+solla olisi varmasti riittävä, ja kun toin nämä kotietsinnät esille, niin kyllä tämäntyyppises-
+sä kysymyksessä en näe itse, että millään tavalla rikoksesta epäillyn oikeusturva vaarantuu
+siinä, että meillä poliisi — johon suomalaiset luottavat enemmän kuin mihinkään muuhun
+ammattikuntaan, ehkä palomiehet taisivat olla edellä ja sairaanhoitajat — menee tekemään
+tämän kotietsinnän vaikkapa Rovaniemellä, kun rikoksentekijä on pidätettynä Turussa,
+kun tämän päivän laki vaatii, että tämä rikoksentekijä täytyy laittaa autoon ja kuljettaa Tu-
+rusta Rovaniemelle ja hän saa seistä paikalla siinä asunnossa, kun kotietsintä tehdään, ja tä-
+män jälkeen hänet palautetaan takaisin Turkuun. Onhan se täysin järjetöntä käyttää mei-
+dän poliisiresursseja tämäntyyppiseen, ja sen takia toivon, että tämä sisäministeriön viime
+kaudella tekemä selvitys, viime maaliskuussa 2015 esitelty muistio, otetaan nyt huolelli-
+seen käyttöön ja arvioidaan uudelleen myös tätä kotietsintää rikoksesta epäillyn oikeustur-
+vankin näkökulmasta.
+
+17.34 Joona Räsänen sd: Arvoisa puhemies! Tässä keskustelussa on hyvin laaja yhteis-
+ymmärrys löytynyt siitä, että ehkä laajemminkin tätä esitutkintalakia tulisi nyt sitten uudel-
+leen läpikäydä. Tästähän on paljon selvityksiä poliisin ja sisäministeriön toimesta tehty sii-
+tä, minkälaisia asioita siellä olisi ehkä mahdollista muuttaa. Oikeastaan nytten tässä kyllä
+vetoan hallituspuolueisiin, että se viesti myös sitten ministereille menisi, jotta oikeusminis-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 96/2016 vp
+teriö, kenen hallinnonalaan tämänkin lain muuttaminen kuuluu, lähtisi työstämään näitä
+muutoksia, jotta saataisiin poliisille paremmat valtuudet siihen, että he pystyisivät esimer-
+kiksi esitutkintavaiheessa priorisoimaan, mitkä ovat nyt todella niitä tutkintoja, joista niitä
+tuloksia saadaan, ja mitkä ovat sitten ehkä niitä, joilla ei ole ehkä sitten niin merkitystä tai
+joita tehdään sitten, kun on hieman parempi päivä. Toivomme, totta kai, että jossain vai-
+heessa pääsemme myös näitä poliisin resursseja nostamaan, mutta kun se päivä ei taida
+ihan huomenna olla, niin olisi hyvä käydä tämä lainsäädäntöpuoli nyt ainakin läpi.
+
+17.36 Hannu Hoskonen kesk: Arvoisa herra puhemies! Käsittelyssä oleva lakiesitys ja
+valiokunnan mietintö tässä asiassa ovat hyvin perusteltuja. Tällähän pannaan täytäntöön
+näitä meidän rakastamiamme Euroopan unionin direktiivejä, mutta tässä asiassa nämä di-
+rektiivit kyllä takaavat kansalaisen oikeusturvan tilanteessa, jossa hän on sitten pidätettynä
+ja epäiltynä rikoksesta: miten hän saa käyttää avustajaa, ja onko sitten perusteltua jossakin
+tilanteessa esimerkiksi, että kuulustelussa tämä avustajan käyttäminen kielletään. On ym-
+märrettävää, että esimerkiksi kaikista törkeimmissä huumausainerikoksissa, missä on
+mahdollisuus, että avustajan käyttäminen saattaisi aiheuttaa vaikeuksia tälle kyseiselle tut-
+kimukselle, kokonaisetua tarkastellaan, mutta pitää muistaa myös, että aina ovat voimassa
+Euroopan alueella ihmisoikeussopimukset ja näiden ihmisoikeussopimuksien määräyksiä
+tulee kunnioittaa. Mutta pitää olla aina se kokonaisharkinta siitä, ovatko tämä saavutettu
+etu ja tapahtuva rajoitus oikeassa suhteessa toisiinsa nähden, niin kuin perustuslakivalio-
+kunta asioita aina tarkastelee. Tämän takia tämä lakiesitys on hyvä ja perusteltu, että saa-
+daan tähän asiaan selkeyttä nimenomaan niin, että näitä vakavimpiakin rikoksia pystytään
+selvittämään ilman, että tulee sen suurempia vaikeuksia, kun laki on selkeäsanainen ja yk-
+siselitteinen.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 99/2016 vp sisältyvien 1.-7. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+9
+
+

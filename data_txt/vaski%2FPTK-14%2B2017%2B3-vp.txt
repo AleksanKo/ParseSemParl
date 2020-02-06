@@ -1,0 +1,806 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM1135.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 14/2017 vp
+
+Täysistunto
+
+Tiistai 28.2.2017 klo 14.02—15.45
+
+3. Hallituksen esitys eduskunnalle laiksi kaivoslain muuttamisesta
+Hallituksen esitys HE 10/2017 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 3. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokun-
+taan.
+
+Keskustelu
+
+14.04 Elinkeinoministeri Mika Lintilä (esittelypuheenvuoro): Arvoisa herra puhemies!
+Nykyisen kaivoslain kokonaisuudistus toteutettiin perusteellisen valmistelun jälkeen 2011.
+Lain keskeisenä tavoitteena on kaivostoiminnan ja malminetsinnän edellytysten turvaami-
+nen kestävän kehityksen periaatteitten mukaisesti. Laissa on huomioitu kansalaisvaikutta-
+mista koskevat vaatimukset, kuntien vaikutusmahdollisuudet ja oikeusturvan toteutumi-
+nen. Saatu kokemus on kuitenkin osoittanut jotkin lupamenettelyt ylimitoitetuiksi ja tar-
+peettoman raskaiksi.
+
+Esityksen keskeiset muutokset koskevat kaivosturvallisuuslupaa, malminetsintälupaa ja
+tarvittavien selvitysten ajoitusta. Esityksellä ei kuitenkaan olla muuttamassa lupa-arvioin-
+nin sisältöä tai hakemuksen sisällöllisiä vaatimuksia. Kaivosturvallisuusluvan tarve on il-
+meinen uutta kaivosta luvitettaessa. Jos toimivaan kaivokseen tarvitaan lisäalueita, ei
+alueen käyttötarkoitus välttämättä aiheuta uuden kaivosturvallisuuslupamenettelyn tarvet-
+ta. Kaivosturvallisuusluvan tarve voitaisiin siis tapauskohtaisesti arvioida kaivoslupaa
+myönnettäessä. Kaivosturvallisuuslupamenettelyn osalta lakia esitetään muutettavaksi
+myös siten, että kaivosviranomainen pyytäisi tarpeelliset lausunnot toimialallaan yleistä
+etua valvovilta viranomaisilta, eli laissa ei lueteltaisi lausujatahoja. Tällä vältettäisiin tur-
+hat lausuntopyynnöt, jotka rasittavat viranomaisia, ja laki olisi joustava ajatellen valtion-
+hallinnon ja viranomaiskentän tulevia muutoksia.
+
+Malminetsintäluvan luopumishakemuksen menettely on nykyisessä laissa vastaava me-
+nettely kuin uuden malminetsintäluvan anominen. Esitämme luopumismenettelyn muutta-
+mista ilmoitusmenettelyksi. Tämä selkeyttäisi juridisesti ajankohtaa, jolloin luopuminen
+tulee voimaan. Luopumisilmoituksen käsittelystä ei tehtäisi kuulemista, millä olisi vaiku-
+tusta yritykselle aiheutuviin kustannuksiin sekä viranomaisten työtaakkaan. Ilmoitusme-
+nettelyyn siirtyminen ei muuttaisi luvanhaltijan vastuuta korvata aiheutetut vahingot ja
+haitat. Luvan raukeamisesta tehtäisiin edelleenkin kaivosviranomaisessa valituskelpoinen
+viranomaispäätös ja siitä tiedotettaisiin asianmukaisesti.
+
+Vaadittavien selvitysten osalta lakimuutos toisi mahdollisuuden toimittaa hakemukseen
+liittyvä Natura 2000 -arviointi tai yva-selostus myöhemmin täydennykseksi. Dokumentit
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+tulisi toimittaa kuitenkin ennen hakemuksen kuulemismenettelyä. Tämä parantaisi näiden
+dokumenttien laatua ja kattavuutta ja edistäisi ympäristövaikutusten huomiointia hanke-
+suunnittelussa.
+
+Muutoksilla ei ole vaikutusta toimintaan, toiminnan ympäristövaikutuksiin, eikä esityk-
+sellä heikennetä asianomaisten vaikuttamismahdollisuuksia tai osallistumista hankkeiden
+lupamenettelyihin. Esityksessä on tehty yksi yhdestä -arviointi eli arvioitu yrityksille koi-
+tuvia säästöjä hallinnollisen taakan keventyessä. Esitetyillä muutoksilla puretaan yrityk-
+siin kohdistuvaa sääntelytaakkaa. Muutosten merkitys on pk-yrityksille suhteessa merkit-
+tävämpi kuin suuremmille toimijoille. Muutoksilla vähennetään myös viranomaisten työ-
+taakkaa: resursseja uudelleenkohdistamalla voidaan kehittää ja parantaa viranomaispalve-
+luja. Se on varmasti meidän kaikkien yhteinen tahtotila.
+
+14.08 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Tässä esityksessä ja myöskin seuraa-
+vassa esityksessä listalla on kyse myöskin normien sujuvoittamisesta kaiken muun ohella.
+Tässä jo aikaisemmin kullanhuuhdonnan byrokratiaa purettiin aivan oikein. Tässä on ky-
+symys siitä, että kaivoslakia uudistetaan nyt toisessa osassa ja sujuvoitetaan malminetsin-
+tää ja kaivostoimintaa tarpeettomalta byrokratialta silti lain oleellista sisältöä muuttamatta.
+Normien sujuvoittaminen ja byrokratian purkaminen — siitä on aina puhuttu, viime vaali-
+kaudellakin paljon, mutta ei syntynyt tuloksia. Nyt me näemme, että jo 300 normia on pu-
+rettu tai sujuvoitettu, ja tämä tie nyt jatkuu. Se on konkreettista työtä, mitä ministeri Lintilä
+ja hänen edeltäjänsä ovat tässä tekemässä, ja annan täyden tunnustuksen.
+
+14.09 Satu Hassi vihr: Arvoisa puhemies! On hyvä asia, jos menettelyjä sujuvoitetaan,
+mutta on toisaalta oltava sitten hyvin tarkkana, ettei heitetä lasta pesuveden mukana. Otan
+esille kaksi asiaa tästä hallituksen esityksestä.
+
+121 §:ssä, johon ministeri Lintiläkin viittasi, annetaan kaivosviranomaiselle harkinta-
+valtaa, edellyttääkö kaivoksen laajentaminen uutta kaivosturvallisuuslupaa tai voimassa
+olevan luvan tarkentamista. Jotta tästä seuraisi todellisuutta, joka kunnioittaa oikeusvalti-
+on periaatteita, laissa pitäisi kuitenkin määritellä ehdot, millä ehdoin tätä harkintaa voi-
+daan suorittaa, koska kaivosten laajennukset saattavat olla suuriakin. Mielestäni sen ei pi-
+täisi olla pelkästään viranomaisen yksilöllisen harkinnan varassa.
+
+Toinen asia, josta kansalaispalautteessa itselleni on esitetty huolta, on tämä, että Natura
+2000- ja yva-selvitykset voisi palauttaa vasta lupahakemuksen jälkeen mutta ennen luvan
+myöntämistä. On mielestäni varmistettava se, että ne, jotka haluavat tehdä muistutuksia,
+saavat kuitenkin tarvittavat tiedot ajoissa, jotta ei kävisi niin, että siinä vaiheessa, kun lu-
+pahakemukseen ei voi enää tehdä muistutuksia, tulisi tätä tietoa Natura 2000- ja yva-selvi-
+tyksistä ja näin ollen se tieto jäisi kansalaisilta käyttämättä, kun he yrittävät siihen hank-
+keeseen vaikuttaa.
+
+14.11 Markus Mustajärvi vas: Arvoisa puhemies! Edellisen kerran, kun kaivoslakia uu-
+distettiin oikein reilummin, vasemmistoliitolla oli siihen liittyen rinnakkaislakialoite. Kyl-
+lähän tätä kaivostoimintaa, malmin etsintää, malmioitten hyödyntämistä pitää ajatella ni-
+menomaan pitkänä prosessina siitä hetkestä, kun se lähtee liikkeelle, siihen asti, kun kaikki
+jälkityöt on hoidettu. Ja jos ajatellaan, mitä kunnalle näistä lupaprosesseista aiheutuvia töi-
+tä on, niin siellä on asiakirjojen näytteillä pitäminen, kaavalliset tarkastukset, kunnan lau-
+suntojen valmistelu, päätösten perustelu ja itse päätöksenteko. Ja kunnassa voi olla liik-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+keellä useita malminetsintälupahakemuksia ja myöskin yva-prosesseja. Kuitenkaan lain-
+säädännössä ei ole määrätty mitään korvausta kunnille maksettavaksi näistä kaikista töistä.
+Totta kai kunta saa omansa työntekijöitten verojen maksusta, mutta näistä asioista ei mak-
+seta mitään. Siinä kohtaa me esitimme kyllä, että sekä malmin etsinnästä että louhinnasta
+myöskin kaivoksen sijaintikunnalle pitäisi maksaa korvausta kaikesta siitä työstä, mitä se
+on tehnyt, jotta asianmukaisesti kaivos voitaisiin avata. Kyllä minä olen myöskin näitä lu-
+paprosesseja eteenpäin vievien viranomaisten suusta kuullut, että jopa kansainväliset kai-
+vosfirmat ihmettelevät sitä, että Suomessa ei tällaista kaivosveroa ole olemassa, ja kuiten-
+kin me kaikki tiedämme sen, että ne maaperän rikkaudet voidaan hyödyntää vain yhden
+kerran.
+
+14.13 Leena Meri ps: Arvoisa puhemies! Ilahdun tässä, että olen edellisen puhujan kans-
+sa hyvinkin paljon samoilla linjoilla. Jätin viime viikolla kirjallisen kysymyksenkin tästä
+aiheesta, nimenomaan kaivosverosta, juuri siitä, että aika harvat maat sallivat näin helpon
+hyödyntämisen ilman selkeitä korvauksia. Löysinkin tästä sitten vuodelta 2012 kansan-
+edustajan kysymyksen, ja silloin valtiovarainministeri Urpilainen vastasi, että tätä selvite-
+tään mahdollisia jatkotoimia varten valtiovarainministeriössä ja kartoitetaan asiaa ja etsi-
+tään alustavia veromalleja. Tällaista ei kuitenkaan ole nyt näkynyt. Olisinkin kysynyt mi-
+nisteriltä, onko teillä tiedossa, miten asia etenee. Tämä on näköjään sinne hautautunut,
+vaikka valtiovarainministeri Urpilainen näin silloin kertoi vastauksessaan.
+
+Ja toinen on tämä edustaja Mustajärven esille tuoma ongelma kunnissa. Siellä on hyvin
+paljon myös pölyä, melua, omaisuuden arvonalennusta. Kunnille tosiaan tulee lupamak-
+sut, ja siinäpä se sitten on — ja tietysti työllistäminen. Kaikki muut haitat ja rasitteet, kuten
+infran rakentaminen ja turvallisuuden miettiminen, jäävät kuntaan. Itsekin olen meidän
+kiinteistötoimen kanssa jutellut, ja on toivottu, että joitakin korvauksia saataisiin.
+
+Ymmärrän, että normeja sujuvoitetaan ja työtä halutaan tehdä, mutta ne pitää tehdä ta-
+sapainossa siten, että myös kuntaan ja valtiolle tulee niistä riittävät korvaukset. Näissä on
+kuitenkin myös ympäristöllisiä kysymyksiä, jotka tulee huomioida, ja asukkaiden asumis-
+viihtyvyys.
+
+Siis summa summarun: onko näitä korvauksia mietitty, vai onko se vain aina puheen he-
+linää?
+
+14.15 Anne Kalmari kesk: Arvoisa herra puhemies! Mitä tulee kaivosveroon, niin siinä
+mielessä se tietysti olisi hyvä asia, että tiedämme lukuisia tapauksia, joissa kaivokset eivät
+ole pystyneet selvittämään sitten lopullista tilaa. Kun kaivostoiminta on lopetettu, siellä on
+myyty yrityksiä edelleen ja varsinaisilla omistajilla ei rahaa sitten asioitten kuntoon laitta-
+miseen ole ollut ja näin valtio siitä joutuu huolehtimaan. Mutta sinänsä verotulojahan
+myöskin kuntaan tulee toki valtionosuuksina ja kiinteistöverotuloina, ettei tämä kunnille
+hyödytöntä ole. Luulenpa, että lähes joka ainut kunta Suomessa olisi riemusta kiljuen otta-
+massa kaivoshanketta omaan kotipitäjäänsä.
+
+Mutta mitä tulee tähän normienpurkuehdotukseen, minusta on erittäin hyvä asia, että
+näitä kautta linjan kaikissa ministeriöissä viedään eteenpäin. Tässäkin norminpurussa on
+laskettu 95 000 euron arvosta vuosisäästöä yrityksiin kohdistuvassa sääntelytaakassa vuo-
+sitasolla, mutta tämä turha työ on rasittanut myös viranomaisia, ja nyt siellä taholla voi-
+daan keskittyä tuottavampiin ja järkevämpiin toimiin, esimerkiksi ympäristön tilan tark-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+kailuun ja siihen, että myös ennakkotarkistukset olisivat sitä luokkaa, ettei Talvivaaran kal-
+taisia ilmiöitä jatkossa enää tulisi.
+
+On hienoa, että vuosittaisten kaivoskarttojen toimittamisvelvollisuus poistuu ja Natura-
+tilanne ei heikkene. Vaikka selostuksen toimittamisajankohta joustavoitetaan, niin ympä-
+ristönsuojelun taso tässäkään tilanteessa ei heikkene.
+
+14.17 Katri Kulmuni kesk: Arvoisa puhemies! On tärkeää muistaa, kun keskustellaan
+kaivoksista, että vaikka viime vuosina onkin ehkä ollut negatiivisempia esityksiä julkisuu-
+dessa, niin silti Suomessa toimii kymmeniä varsin tuottavia ja hyvin asiansa hoitavia kai-
+voksia ja niille seuduille varsin tärkeitä elinkeinotoimijoita. Toki lainsäädännön täytyy olla
+tiukka ja korkeatasoinen ja ympäristönormien oltava aina kärkeä. 
+
+On hyvä muistaa, että tässä esityksessä, kuten täällä on jo mainittu, nyt ei ympäristövai-
+kutuksiin tai lupa-arviointeihinkaan puututa vaan koetetaan enemmänkin sitten sitä suju-
+voittamista saada sinne normibyrokratian purun tasolle: kaivoskarttakysymyksiin, kaivos-
+turvallisuusasiaan tai ilmoitusmenettelyihin, miten vaikkapa malminetsintäluvat raukea-
+vat.
+
+On kuitenkin selvä asia, että me olemme samankaltaisella mineraalivyöhykkeellä naa-
+purimaidemme kanssa, erityisesti Ruotsi on meille tärkeä kilpakumppani. Kuinka ministe-
+ri nyt ajattelee: riittääkö tämä sujuvoittaminen saamaan meitä samalle viivalle Ruotsin
+kanssa? Siellä on huomattavasti nopeammin saatu kaivoshankkeita liikkeelle. 
+
+Ehkäpä tähän kaivosverokeskusteluun: Muutama vuosi sitten puhuttiin myös rahaston
+merkityksestä. Onko tätä harkittu työ- ja elinkeinoministeriössä? Mutta varsinainen kysy-
+mys on siis siitä, riittääkö tämä saattamaan meidät samalle tasolle Ruotsin kanssa vai onko
+olemassa joitakin muitakin suunnitelmia vielä, millä sitten myös sitä lupamenettelyä saa-
+taisiin nopeutettua.
+
+14.18 Hannu Hoskonen kesk: Arvoisa herra puhemies! Kaivoslain muuttaminen sinänsä
+on positiivinen asia ja on linjassa hallitusohjelman kanssa, eli byrokratiaa puretaan, turhia
+papereita vähennetään, mikä on erittäin tervetullut ilmiö. Kaivoslain kyseessä ollen nostan
+kuitenkin esille sen, että meillähän on Suomessa semmoinen järjestelmä nyt, että, kuten
+kaikki tiedämme, kaivostoiminta on valtavan pääomavaltaista toimintaa. Elikkä tarvitaan
+suuri tukku rahaa ennen kuin pystyy yleensä edes tutkimuslupaa hakemaan ja sen jälkeen
+tutkimaan ja sitten mahdollisesti saamaan vielä kaivospiirin perustetuksi ja kaivostoimin-
+nan aloitetuksi.
+
+Tähän liittyy se ongelma, mikä minun mielestäni Suomen kansantalouden kannalta on
+jättiläismäinen virhe, että kaikki suomalaiset isot kaivostoimijat ovat lopettaneet kaivostoi-
+minnan. Muutamia pieniä junioriyhtiöitä toimii toki, ja Keminmaassa kaivos, joka louhii
+siihen viereiseen rosteriterästehtaaseen raaka-ainetta. Mutta iso kuva on se, että meillä
+Suomen kallioperä on äärimmäisen rikas, sisältää paljon malmeja, mutta kaikki se malmis-
+ta tuleva hyöty liukuu ulkomaisten sijoittajien käsiin, esimerkkinä vaikka Sodankylän lä-
+hellä oleva Sakatin malmiesiintymä, jonka amerikkalainen Anglo American, yksi suurim-
+pia kaivosyhtiöitä, on varannut itselleen, ja sehän on Natura-alueella. Kuten tiedämme,
+Suomessa on Natura-alueita, jotka perustettiin nimenomaan sellaisille alueille, joissa saat-
+taisi potentiaalisia esiintymiä löytyä. Tässä on esimerkki siitä, mihin se johtaa. No, sehän
+johtaa siihen, että kun on paljon tällaisia suojelualueita ja valtavan rikkaita esiintymiä, ai-
+noastaan suurilla ja kansainvälisillä toimijoilla on mahdollisuus perustaa sinne kaivos ja
+4
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+lähteä sitä tutkimaan, hankkia sinne luvat, jotka maksavat maltaita, ja sen jälkeen saada
+sinne se toimintalupa. Se voi kestää vuosikymmeniä, mutta ainoastaan suurilla kaivosyh-
+tiöillä on siihen varaa, suomalaisilla eri toimijoilla ei kenelläkään. Eli kaikki se kansanta-
+louden lisäarvo, mikä malmista olisi saatavissa, valuu armotta... [Puhemies koputtaa] —
+Minä tulen puhujapönttöön.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Joo, edustaja voisi tulla jatkamaan, 2
+minuuttia on kulunut umpeen. 
+
+Kiitoksia, arvoisa puhemies! — Suojelualueiden problematiikasta en jaksa olla puhu-
+matta. Asia on nimittäin niin, että esimerkiksi Sakatin esiintymä on minusta aivan kansal-
+linen häpeä. Valtavan rikas malmio, jonka reunaa, äärtä ja rajaa emme edes tänä päivänä
+tiedä. Aikanaan Outokumpu Osakeyhtiön löytämästä kaivosesiintymästä Rääkkylän Kivi-
+salmesta kuparimalmipalanen geologisissa tutkimuksissa paikannettiin nykyisen Outo-
+kummun alueelle, ja sinne perustettiin kuparikaivos, joka on Suomen kansantalouden nos-
+tanut lamasta ylös silloin 1900-luvun alusta näihin päiviin. Outokumpu Osakeyhtiön arvo
+Suomen kansantaloudelle on asiantuntija-arvioiden mukaan vähintään 100 miljardia euroa
+nykyrahassa — vähintään. Se on paljon enemmän, kun siihen liittyy paljon innovaatioita,
+teknologiaa ja patentteja, jotka muuten edelleen ovat voimassa, muun muassa Outokumpu
+Osakeyhtiön perustama, keksimä ja kehittämä liekkisulatusmenetelmä.
+
+Tätä innovaatiota ja tätä talouden moottoria me suomalaiset emme ole osanneet käyttää.
+Kuten Sakatissa teimme: annoimme sen koko valtavan esiintymän amerikkalaisille. Joku
+suojeluintoilija sitten sanoi täällä, että sehän on Natura-alueella. Niinhän se on Natura-
+alueella, mutta meillähän on EU-säännöt, joiden mukaan Natura-alue voidaan siirtää uu-
+teen paikkaan, korvata toisella alueella ja alkaa louhia malmia, jos kansassa löytyy viisaut-
+ta aloittaa kaivostoiminta uudestaan ja tehdä hyötyä Suomen kansakunnalle. Mutta nyt
+nämä annetaan amerikkalaisille ja ulkomaisille toimijoille, joilla on rahaa ja ennen kaik-
+kea aikaa odottaa vaikka maailman tappiin. Ja jos sitten tutkimuslupa on tullut, niin niillä-
+hän on niin valtava juristiarmeija, että kansainvälisen oikeuden mukaan he pystyvät sitten
+kyllä odottamaan, ja jonain päivänä se aarre sieltä kaivetaan ylös ja se hyödyttää vain yli-
+kansallisia sijoittajia, ei Suomen kansaa.
+
+Joku puhui täällä kaivosverosta. Eikö olisi parempi jonain päivänä kuvitella asia toisin
+päin? Me kuvittelemme, että verottamalla ja rajoittamalla yritystoimintaa me luomme tälle
+kansakunnalle jotakin hyvää. En koskaan ole vielä keksinyt sitä, että jos veroja korotetaan,
+mitä hyötyä siitä kansakunnalle on. Byrokratia kasvaa ja menetykset kasvavat ja työn te-
+keminen vaikeutuu. Eikö meidän pitäisi aloittaa oma kaivostoiminta itse uudestaan, laittaa
+maan asioita kuntoon sitä kautta, että luomme uutta kasvua kansantaloudelle? Esimerkki-
+hän meillä on lännessä: Ruotsissa LKAB toimii niin, että se omistaa malmit, louhii ne kan-
+sakunnan hyödyksi, ja mikä onkaan Ruotsin kansakunnan talouden tila tänä päivänä —
+erittäin hyvinvoiva, kasvava valtio. Siellä louhitaan muun muassa Jällivaarassa, Kiirunas-
+sa rautaa, ja se kaikki hyöty, mikä tulee, menee Ruotsin kansalle. Mutta meillä Suomessa
+kaikki naturoidaan, suojellaan ja tehdään niin vaikeaksi, että tavan suomalaiset yhtiöt eivät
+lähde siihen oravanpyörään juoksemaan, koska niillä ei ole varaa.
+
+Toivon, että tähän problematiikkaan eduskunta joskus puuttuisi. Tiedän, että ministeri
+Lintilä on 95-prosenttisesti tästä asiasta samaa mieltä kanssani. Tiedän, että hallitusohjel-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+ma toki meitä sitoo, mutta jonain päivänä tälle kansakunnalle on ruvettava löytymään jär-
+keä enemmän. Meidän on saatava tämän maaperän rikkaudet käytettyä hyödyksi.
+
+Vanhan, korkeasti arvostamani geologin sanoihin päätän tämän puheenvuoron. Muuta-
+massa seminaarissa, kun joku epäili, onko kaivostoiminta tärkeää, hän päätti puheenvuo-
+ronsa erinomaiseen fraasiin, joka on joka sana totta: "Se, mitä emme voi kasvattaa, se mei-
+dän on kaivettava. Se, mikä ei yhtiöittämällä tässä maailmassa kasva, on menevä maanpin-
+nan alle ja kaivettava sieltä ylös." Näinhän se asia on, mutta sen kun me ymmärtäisimme.
+Niiltä, jotka puhuvat, että veroja kiristetään, perustetaan kaivosvero ja sitten ruvetaan elä-
+mään herroiksi, toivon, että tähän sanontaan sisältyisi hieman enemmän harkintaa, koska
+se lienee todistettu maailmassa, että veroja korottamalla ei ole kovin paljon mitään hyvää
+tässä maailmassa tehty.
+
+14.25 Jari Myllykoski vas: Arvoisa herra puhemies! En rupea väittämään, kuinka moni
+prosenttisesti ministeri Lintilä on kanssani samaa mieltä. On hyvä, että jossain on hyvät oh-
+jurit ja niin edelleen, voidaan suunnata poliittisesti tätä keskustelua. Mielestäni on hyviä
+edellytyksiä ja hyvä tahtotila.
+
+Olisin kuitenkin toivonut, että tässä yhteydessä, kun nyt puhutaan kaivosverosta tai jos-
+takin muusta, olisi pystytty tuomaan kaivostoimintaan jälkihoito huomattavasti keskeisem-
+min. Tällä hetkellä osa kaivostoimijoista sanoo, että laki edellyttää jälkihoitoon vähem-
+män rahaa kuin he ovat varanneet rahaa. Silloin tässä on selvä gäppi, kun meillä tässä
+omassa lainsäädännössä liittyen siihen, mitä kaivostoiminnan lopettamisen jälkeen tapah-
+tuu kaivosalueella, varataan liian vähän rahaa.
+
+Kaivostoiminta on erittäin pääomasidonnaista, edustaja Hoskosella oli erittäin hyvä nä-
+kemys tästä, että meidän pitää ottaa tämä omiin käsiin, (Hannu Hoskinen: Totta kai!) mut-
+ta Suomessa, joka on tällä hetkellä edelleen rikkaampi kuin koskaan, ei semmoisia pää-
+omia vain näytä olevan, että niin riskipitoiseen bisnekseen olisi halukkuutta sijoittaa. Jo en-
+nen kuin nähdään, onko kyseessä malmio, kaivosyhtiöt varaavat kymmeniä miljoonia eu-
+roja siihen pelkkään tutkimiseen.
+
+Nyt pitää nähdä metsä puilta. Me — varmasti täällä nykyiset hallituspuolueet, edellinen
+oppositio ja niin edelleen — olemme olleet ajamassa sitä, että Suomeen olisi pitänyt perus-
+taa kaivosrahasto, mikä olisi ollut tie siihen, että Suomi Oy olisi ollut mahdollinen kaivos-
+toiminnan käynnistäjä. Tätä kuitenkaan ei edellisessä hallituksessa eikä tässä hallituksessa
+ole pystytty edistämään. Uskoisin, että tätä kautta tämä erittäin riskipitoinen liiketoiminta
+ja erittäin isoilla kustannuksilla jo etsinnässä oleva toiminta olisi voitu saada ehkä lähem-
+mäksi kansaa. Onko se kaivosvero sitten ratkaisu, en tiedä, mutta edustaja Mustajärvi ja
+edustaja Meri toivat kyllä hyviä asioita ja argumentteja esille koskien kuntien omia mah-
+dollisuuksia. Me rakennamme kunnissa infraa kaivoksille. Se infran rakentaminen, koulu-
+jen perustaminen ja niin edelleen on kuntien kontolla, ja siinä mielessä kaivosyhtiöiltä pi-
+täisi ehkä enemmän edellyttää sitä, että tämä perusinfran kustantaminen ei olisi kunnille
+niin raskasta vaan että kaivosyhtiöt osallistuisivat aktiivisemmin siihen.
+
+Mutta erityisen tärkeänä, arvoisa puhemies, pidän sitä, että tämä jälkihoito olisi niin hy-
+vin hallinnassa, että ne varat riittävät, jolloin se tarkoittaa, että vaikka kaivosyhtiö ei ehkä
+kulukustannusrakenteensa vuoksi vuosikausiin saa viivan alle positiivista tulosta, vaan ne
+poistot, jotka ovat tulleet siitä toiminnan aloittamisesta, rasittavat tulosta, niin jopa siitä pi-
+täisi jo pystyä ottamaan niin, että kuntien infrarakentamiseen tulisi tuloutusta. On täysin
+kestämätöntä, että meille tulee kaivoksia, joilla eivät ole nämä kaikki asiat kunnossa.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+14.29 Sinuhe Wallinheimo kok: Arvoisa puhemies! Haluan myös olla kiittämässä halli-
+tusta tästä esityksestä. Käsittelyssä oleva kaivoslain muutos on jälleen yksi esitys, jolla lu-
+nastetaan hallitusohjelman lupausta normitalkoista ja järkevämmästä sääntelystä. 
+
+Tämä on tarpeen, sillä muutama vuosi sitten tapasin australialais-kanadalaisen kaivos-
+alan yhtiön edustajan, joka sanoi, että hän hankki Suomesta ja Ruotsista yhtä aikaa maata,
+minkä jälkeen prosessi lähti käyntiin, ja siinä vaiheessa kun Suomessa oli vasta poraukset
+käynnissä, tämä tehdas oli tuottanut jo pitkään voittoa Ruotsissa. Hän sanoi kahdeksi suu-
+rimmaksi syyksi seuraavat: Suomessa kaavoitus- ja lupaprosessit ovat äärimmäisen kan-
+keita ja hitaita, ja toinen, itse asiassa mielenkiintoinen, huomio oli se, että siinä suhteessa,
+kun Ruotsissa kysytään, kuinka voisitte tulla tänne alueelle toimimaan, ja ollaan palvelu-
+lähtöisiä, Suomessa tätä viranomaiset eivät vielä ymmärrä. 
+
+Ja tästä syystä haluaisinkin ministeriltä kysellä sen hallitusohjelman kirjauksenkin pe-
+rään, jossa nimenomaan toivotaan enemmän asiakaspalvelulähtöisyyttä meidän viran-
+omaisilta: miten tämä prosessi kaiken kaikkiaan on etenemässä?
+
+14.31 Johanna Ojala-Niemelä sd: Arvoisa herra puhemies! Hyvä, että tämän esityksen
+myötä näitä prosesseja sujuvoitetaan. Meillä kaivannaisteollisuus elää nyt ihan hyvää kaut-
+ta ainakin tuolla Lapissa: Suurikuusikon kultakaivos, Euroopan suurin kultakaivos, voi hy-
+vin, samoin kuin Sodankylän Kevitsa.
+
+Olisin kiinnittänyt samaan huomiota, mihin edustaja Mustajärvi edellä, eli siihen tulo-
+kertymään, mitä kunnille jää tästä, eli tähän kaivosveron puutteellisuuteen. On totta, että
+kunnat joutuvat satsaamaan asuntoihin, liikenneinfraan, kaavoitukseen ja moniin muihin
+seikkoihin tämän kaivosteollisuuden myötä. Ja olisi ihan kohtuullista, että kunnalle tulisi
+oma osuus. Tämä kaivostoiminta on yli rajan tapahtuvaa toimintaa, ja silloin ei minusta
+auta vain se, että on kotimainen kaivannaisvero, vaan pitäisi suunnitella ihan yhteistä poh-
+joismaista veroa. Mutta tietenkään tämä vero ei saa olla niin raskas, että nämä investoinnit
+jäävät tekemättä, koska kyllä nämä ovat tärkeitä työpaikkoja meille. Ja onneksi monia lu-
+paavia esiintymiä on myös nyt löytymässä.
+
+Toisen asian ottaisin esiin: Kullankaivajien osalta päädyttiin yhdeksän vuoden siirtymä-
+säännökseen, mutta toivoisin kyllä, että sitä voitaisiin pidentää tuonne 15 vuoteen. Tällä
+ratkaisulla aikanaan eduskunnan tahdon mukaisesti puututtiin voimakkaasti omaisuuden-
+suojaan — nämä kaivajat ovat kuitenkin tehneet investointeja, ja niitten kuolettamiseen
+menee oma aikansa. Samoin kuin sitten tietenkin näitä löytöjä pitäisi hallitusti hyödyntää,
+ettei tule tämmöistä ryöstöviljelyn makua, koska siellä ovat sitten nämä aikataulut tai dead-
+line niin sanotusti paukkumassa jossakin kohtaa. Ettei mene sitten siihen hallitsematto-
+maan tilanteeseen. 
+
+Ja ympäristönäkökohdat ovat luonnollisesti tärkeitä myös: että entisöidään sitten nämä,
+missä on kaivettu.
+
+14.33 Markus Lohi kesk: Arvoisa puhemies! On erittäin harmittavaa, että huonosti toi-
+mineet kaivokset ovat paitsi saastuttaneet ympäristöä myös saastuttaneet koko tätä kaivos-
+toimialaa. Samaan aikaan meillä kuitenkin on lukuisia erittäin hyvin ja vastuullisesti toi-
+mivia kaivoksia ja kaivosyhtiöitä ympäri Suomea. Meillä on myös Kestävän kaivostoimin-
+nan verkosto, joka tekee erittäin tärkeää ja hyvää työtä, ja uskon, että tulevaisuudessa, kun
+hyödynnetään aina paras käytettävissä oleva teknologia ja tekniikka, pystytään yhdistä-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+mään kyllä puhdas ympäristö ja kaivostoiminta, ja tämä on minusta välttämätöntä. Pitää
+puhua vihreästä kaivostoiminnasta, green mining, ja uskon, että se on mahdollista.
+
+Tämä esitys, mikä nyt meillä on käsittelyssä, on erittäin hyvä. Sitä pitää kiittää. Se on
+osa byrokratian purkamista ja tuo joustavuutta tänne ja jouhevuutta säännöksiin. Mutta täs-
+sä keskustelussahan on monta muuta tähän toimialaan liittyvää asiaa nostettu esille. Muun
+muassa edustajat Mustajärvi ja Ojala-Niemelä ovat ottaneet esiin tämän kaivosveron tai
+vastaavan, ihan ymmärrettävistä syistä, koska kaivostoiminta on niin suhdanneherkkää,
+että kun jollekin pienelle paikkakunnalle tulee kaivos ja kunta joutuu satsaamaan infraan,
+päiväkoteihin, teihin ja muihin, niin sillä on valtavan suuri riski, koska voi olla, että yhtäk-
+kiä kaivos lähteekin pois, kun maailmanmarkkinahinnat romahtavat. Kunnalle jää kuiten-
+kin tämä investointi jäljelle. Sen takia varmasti on syytä — ei ole tämän lain kohta miettiä
+sitä — pitkällä tähtäimellä miettiä, voisimmeko me tätä tilannetta parantaa. Ja jos tämmöi-
+nen kaivosvero tai esimerkiksi se malmin maailmanmarkkinahintaan sidottu maksu tulisi,
+joka ei kuitenkaan olisi liian kova, niin että se estäisi kaivostoiminnan harjoittamisen Suo-
+messa, niin tämä maksu pitäisi suunnata nimenomaan kunnalle, ei valtiolle niinkään kerä-
+tä, koska kunta kantaa tässä sen suurimman riskin.
+
+14.35 Hannu Hoskonen kesk: Arvoisa herra puhemies! Kaivosasia on Suomelle todella
+suuri talouskysymys, ehdottomasti suurimpia. Mitä tulee tähän lakiesitykseen, mikä on nyt
+keskustelussa, niin tämä on hyvä esitys, linjassa hallitusohjelman kanssa, niin kuin sanoin,
+mutta se on myös merkki siitä, että meillä kaivoksien lainsäädännöstä pidetään huolta. Mi-
+tään semmoista villiä tilannettahan ei ole, mutta se, mitä minä toivon, on se, että edelleen
+oltaisiin tällä byrokratianpurkulinjalla ja aidosti vähennettäisiin kaivoksiin liittyvää pape-
+risotaa, koska se on Suomen kansantalouden kannalta aivan tuhoisaa, että meillä käytän-
+nössä tällä valtavalla byrokratialla ja turhalla paperisodalla on tuhottu tästä maasta yksi
+elinkeino, kaivostoiminta. Käytännössä Suomessa ei ole isoja kaivosyhtiöitä yhtään. Muu-
+tama junioriyhtiö toimii, ja niille kyllä pitää hattua nostaa, ne ovat todella sitkeitä. Suurin
+osa niidenkin pääomasta muuten tulee ulkomailta, niin että en nyt ihan äkkiä osaa sanoa,
+onko yhtään täysin suomalaisella rahalla toimivaa, mutta niitä on todella vähän, jos ollen-
+kaan.
+
+Mitä edustaja Myllykosken puheenvuoroon tulee, hän puhui ansiokkaasti jälkihoitami-
+sesta, kun kaivostoiminta aikanaan loppuu. Jos nykyisin louhitaan niin sanotusti tunnelien
+kautta malmia sieltä maan uumenista, niin käytännössähän kivikasoja ei jää, koska kaikki
+se raakakivi ja ylijäämäinen kivi ajetaan takaisin sinne tunneleihin ja se ei jää maan pin-
+nalle näkösälle ollenkaan. Esimerkiksi kotikuntani kultakaivoksessa Pampalossa Ilomant-
+sissa ei kyllä kivikasoja näe. Kun kaikki kivet, mitä sieltä prosessista yli jää, ajetaan takai-
+sin sinne tunneleihin, niin ne häviävät sinne. Sitten siihen avolouhokseen, mikä on, tulee
+joskus maailmassa, kun kaivostoiminta loppuu, erittäin hyvä lampi, ja siellä sorsamiehet ja
+-naiset voivat käydä sorsametsällä tai uimassa tai mitä vain. Elikkä ei siellä mitään maail-
+maa kaadu, eikä siellä maailma pilaannu. Se vain palaa sitten luonnontilaan, ja sillä sipuli.
+
+Sitten Suomen kannalta tässä kaivoslainsäädännössä yleensä on se valtava ongelma, että
+on lainsäädännöllä, erilaisilla ympäristömääräyksillä ja muilla lainsäädännön pykälillä teh-
+ty suomalaisten yhtiöiden toiminta kannattamattomaksi valtavan byrokratian ja hirvittä-
+vän kalleuden takia. Onhan se kummallinen paradoksi, suorastaan valtava ihmetyksen ai-
+he. Suomen kallioperä tunnetaan parhaiten maailmassa. Geologian tutkimuskeskuksella on
+toista sataa vuotta, varmaan 150 vuotta, vanha perinne. Suomen kallioperää on tutkittu
+8
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+100—200 vuotta, en ihan tarkkaa vuosimäärää tiedä, mutta veikkaan, että noin 150 vuotta,
+ja Suomen kallioperä tunnetaan maailman valtioista kaikista parhaiten, ylivoimaisesti par-
+haiten. Meillä on hyvin tarkka tuntemus Suomen kallioperästä, ja se on Geologian tutki-
+muskeskuksen ansiota. Tälle pohjalle on näitä kaivoksia sitten ruvennut syntymään, kun
+tunnemme geologian meidän maassamme erittäin hyvin. Totta kai siellä on vielä tutkimat-
+tomia alueita, tarvitaan syvätutkimusta, syvämalmiota löytyy todennäköisesti paljon hel-
+pommin kuin me tiedämmekään ja erittäin arvokkaita metalleja. Mutta se, mikä tässä on
+ongelma, on se, että erilaisilla toimenpiteillä on aiheutettu se, että kaikki se malmiosta me-
+nevä jättiläismäinen hyöty valuu ulkomaille.
+
+No, mitä tapahtuisi sitten, jos edustaja Myllykosken ja monen muun käyttämissä pu-
+heenvuoroissa mainittu kaivosvero säädettäisiin? Sehän aiheuttaisi sen, että ne kaivostoi-
+mijat ulkomailta, joilla on sitä rahaa tulla Suomeen yrittämään ja ottamaan riskejä, kun itse
+olemme itsemme ajaneet ulos markkinoilta, harkitsisivat vielä tiukempaan, tulevatko ol-
+lenkaan. Kaikki köyhemmät malmiot jäisivät louhimatta, ja vain ne parhaat aarteet, mitä
+löytyy, poimittaisiin sieltä, parhaimmat malmiot arvokkaimmista metalleista — kaikki
+muu jäisi hyödyntämättä.
+
+Elikkä kaivosvero aiheuttaisi sen, että työpalkat, investointipalkat ja monet muut inves-
+tointituotot, verot, sosiaaliturvamaksut, joita palkkojen yhteydessä maksetaan, jäisivät täy-
+sin tulematta. Ja muistakaa, hyvät ystävät, arvoisat edustajakollegat, että Suomeen on kai-
+vostoiminnan ansiosta luotu erittäin korkeatasoinen kaivosteknologian, metallurgian tuo-
+tanto, teollinen toiminta. Meillä on porausautomaatteja tuottavia firmoja, kehitetty erilais-
+ta kaivoksen kalustoa, kuljetuskalustoa, kaivostunnelissa louhintaa varten olevaa kalustoa,
+joka on maailmankuulua, erittäin korkeatasoista. Sitten meillä on vedenpuhdistustekniik-
+kaa, meillä on kivien käsittelytekniikkaa, meillä on malmien jalostustekniikkaa. Kaikki
+tämä on syntynyt kaivostoiminnan sivutuotteena. Jos me 30 vuotta tätä prinsessa ruususen
+unta vielä nukumme, niin kaikki tämä tästä maasta häviää. Millä me sitten elämme? Luu-
+len, että EU-projekteja sitten ei kannata enää lähteä hakemaan, kun semmoista tuskin enää
+tällä menolla onkaan.
+
+Elikkä kyllä minä olen, arvoisa puhemies, erittäin huolissani tästä suomalaisesta menta-
+liteetista, että kaikki ne suuret rikkaudet, mitä meillä on, annamme ulkomaille tai sitten ko-
+timaassa teemme niiden käytön mahdottomaksi. Jos puhemies sallii, niin teen rinnastuk-
+sen, että kun kaivostoiminta on tällä äsken mainitulla toiminnalla tehty näin vaikeaksi, niin
+samaahan me olemme koko ajan tehneet maataloudelle, ja koko ajan me puhumme puh-
+taasta ruuantuotannosta ja erinomaisista olosuhteista Suomessa, mutta eipä taida olla tässä
+maassa karmeammin hallinnoitua ja byrokratialla melkein tapettua elinkeinoa kuin maata-
+lous.
+
+14.40 Jutta Urpilainen sd: Arvoisa puhemies! Edustaja Leena Meri viittasi viime vaali-
+kaudella tehtyyn kirjalliseen kysymykseen ja siitä annettuun vastaukseen, ja hän omassa
+puheenvuorossaan veti mutkia hieman suoriksi, joten lienee syytä täsmentää. 
+
+Eli todella viime vaalikaudella kartoitettiin erilaisia kaivosveron malleja, mutta silloin
+poliittinen johtopäätös, joka tehtiin sekä valtiovarainministeriössä että työ- ja elinkeinomi-
+nisteriössä mutta myöskin koko hallituksen keskuudessa, oli se, että mikäli kaivosvero
+otettaisiin käyttöön, sillä arvioitaisiin olevan negatiivisia vaikutuksia kaivannaisteollisuu-
+delle, kaivostoiminnalle ja ennen kaikkea mahdollisuudelle saada uusia investointeja Suo-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+meen. Tästä syystä vastasin kirjallisessa kysymyksessä, että päätöksiä veron käyttöönotos-
+ta tai varsinaisen valmistelun käynnistämisestä ei ole tehty.
+
+On hyvä myöskin muistaa, että kaivostoiminnan harjoittaja maksaa louhintakorvausta
+maanomistajalle, hän maksaa kiinteistöveroa ja myöskin veroa elinkeinotoiminnasta saa-
+duista tuloista. Eli ilman veroja ei myöskään kaivosteollisuus tai kaivannaisteollisuus Suo-
+messa toimi. Sehän, halutaanko sitten tällä vaalikaudella ottaa käyttöön kaivosvero, on täy-
+sin poliittinen päätös. Ja ehkä edustaja Meri vaikuttaa siihen, että perussuomalaiset halli-
+tuksessa sitten aktiivisesti ajavat kaivosveron käyttöönottoa. Tästä olisi tietenkin mielen-
+kiintoista kuulla ministeri Lintilän näkemys: eli onko teidän arvionne se, että kaivosveron
+käyttöönotto olisi tässä tilanteessa oikea ratkaisu?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ministeri on pyytänyt puheenvuoron,
+ja kun tässä mennään toista kierrosta, niin ehkä nyt myönnän hänelle tässä 3 minuuttia, ja
+sen jälkeen jatketaan näillä muutamilla pyydetyillä puheenvuoroilla.
+
+14.42 Elinkeinoministeri Mika Lintilä: Puhemies! Pyrin lähinnä vastaamaan niihin ky-
+symyksiin, joita minulle tässä esitettiin. 
+
+Ensinnä edustaja Hassille, tuo 121 § eli laajentaminen: Kyllä minä uskon suomalaisiin
+viranomaisiin ja heidän harkintakykyynsä. Koska yleensä nämä laajennukset, mitä siellä
+tapahtuu, ovat hyvin pieniä eivätkä yleensä vaadi uutta kaivosturvallisuuslupaa, niin us-
+kon, että viranomaisharkinnalla ne pystytään tekemään.
+
+Mitä tulee sitten Natura 2000:n ja yvan täydentämisiin, niin siinä on haettu sitä, että pa-
+rannetaan dokumenttien laatua. Nyt on tullut esille, että kun aikataulu on tiukka, niin ne do-
+kumentit eivät ole laadullisesti niin hyviä kuin niiltä ja niitten kattavuudelta toivottaisiin ja
+edellytettäisiin.
+
+Sitten tämä, mikä on tullut täällä useammassakin puheenvuorossa esille, eli tämä kai-
+vosverohomma: Aivan kuten edustaja Lohi sanoi, niin se ei sinällänsä ole tämän lain asia.
+Minun mielestäni tässä pitää muistaa tämä kokonaisuus. 2011 tehtiin erittäin iso kaivos-
+lain uudistus, se oli pitkäaikainen työ, joka tehtiin. Ja tämä laki on, sanotaanko, niiden ko-
+kemusten, niiden kommenttien, joita on tullut viranomaisilta, alan toimijoilta, pohjalta teh-
+tyjä nimenomaan normien purkuja, joilla puretaan ylimääräisiä normeja ja saadaan talou-
+dellisia huojennuksia aikaiseksi.
+
+Sitä, saammeko me Ruotsia näillä kiinni, en uskalla luvata, mutta tämä on ehdottomasti
+askel oikeaan suuntaan. Me olemme valitettavasti hitaita, niin kuin tässä tuli myös edusta-
+ja Wallinheimon puheenvuorossa esille. Me olemme hitaita tässä. Tämä on kuitenkin asia-
+kaslähtöisyyttä, kun parannetaan näitä edellytyksiä, mitä täällä on.
+
+Edustaja Hoskonen peräsi sitä, että meiltä menevät ulos nämä kaivokset. Tämä on erit-
+täin pääomavaltainen ala, erittäin pääomavaltainen, jossa rahalla ei kovinkaan äkkiä tule
+edes tuottoa. Ja hallituksella ei ole sellaista linjausta, että hallitus siirtyisi omistajaksi vah-
+vasti kaivostoiminnan puolelle, kuten ei myöskään kaivosverosta, mistä edustaja Urpilai-
+nen tässä kysyi. Meillä ei ole sellaista tässä tulossa. 
+
+Mutta mielestäni tämä kuitenkin kokonaisuutena on hyvä suuntaus normien purkami-
+seen, selkeästi taloudellisia säästöjä saadaan ja saadaan sujuvoitettua toimintaa vaaranta-
+matta kuitenkaan ympäristöllisiä tekijöitä.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+14.45 Jari Myllykoski vas: Arvoisa herra puhemies! Erään kaivosyhtiön suusta viime
+kaudella tuolla talousvaliokunnassa kuultuna: sanoivat, että seitsemän vuoden lupaodotus-
+prosessia parempi olisi sekin, että tulisi kuuden kuukauden jälkeen kielteinen päätös. Eli
+kun pidetään näitä investoijia näin pitkässä hirressä, niin on varmasti ihan oikein, että tässä
+hallituksessa ryhdytään päämäärätietoisesti sujuvoittamaan tätä lupaprosessia, ja se ei tar-
+koita, että se olisi huonompaa valmistelua, vaan kyllä meidän pitää nähdä tässäkin tapauk-
+sessa se, että nämä ulkolaiset investoijat sitten voivat tänne tulla.
+
+Edustaja Hoskoselle: jos emme nyt aivan kotimaista ole täällä, niin kyllä meillä Outo-
+kummulla on Kemin kromikaivos vielä, josta nyt kuitenkin katsotaan, että meillä valtion
+omistusta siellä merkittävässä määrin on.
+
+Edustaja Urpilainen toi tämän kaivosveron toisessa kulmassa, ja siihen ministeri jo vas-
+tasikin. Nyt pitäisi olla oikeastaan valtiovarainministeri Orpon tämä kommentti kuulemas-
+sa, sillä tärkeintä on se, että kun meillä kaivoksia Suomessa verotetaan, niin tukkisimme ne
+porsaanreiät, joita tällä hetkellä on. Me voimme siirtää: emme suoraan täältä kaivoksesta
+Kanadaan tulevaa tuloutusta, mutta voimme tehdä sen reitin siten, että tuloja siirretään
+Ruotsissa olevaan tytäryhtiöön, jonka kautta sitten ilman veroja on mahdollista siirtää näi-
+tä tuloja sinne kanadalaiselle kaivosyhtiölle. Ja tässä olisi tärkeä pointti, joka pitäisi nähdä,
+että tämä reitti voitaisiin sulkea ja se verotus tapahtuisi täältä — kaikki varanto, mikä täältä
+siirretään, verotettaisiin Suomessa.
+
+14.47 Leena Meri ps: Arvoisa puhemies! Hyvä, että tulee laaja-alaista keskustelua. Edus-
+taja Urpilainen totesi, että vedän mutkat suoraksi. No, ehkäpä hän itsekin hieman syyllistyi
+siihen, koska hän luki tästä kirjallisesta vastauksestaan vain tämän viimeisen lauseen, mut-
+ta jätti kuitenkin mainitsematta tämän, että hallituksen mahdollisia jatkotoimenpiteitä var-
+ten valtiovarainministeriössä kuitenkin kartoitetaan kaivostoimintaan kohdistuvan mah-
+dollisen veron osalta alustavia veromalleja. Elikkä kuitenkin kartoitusta siellä on tehty, ja
+olisi ollut kiva kuulla vähän laajemmin, mitä ne ovat, eikä vain sitä, ettei ole tehty. Lisäksi
+minulle jäi nyt sitten epäselväksi, mikä SDP:n oma kanta tähän kaivosveroon on.
+
+Mutta mukavaa oli kuulla, että ainakin edustaja Lohi oli sillä kannalla, että tätä asiaa
+voisi selvitellä, ja erityisesti kuntaanhan nämä ongelmat monesti tulevat, niin kuin täällä
+esitettiin, päivähoidon, infran ja monen muun merkeissä. Toisaalta taas edustaja Hoskonen
+keskustasta tuntui olevan sillä kannalla, että tätä ei olisi järkevää tehdä. Mutta kuitenkin
+maailmalla näitä erilaisia rojalteja ja kaivosveroja on, ja minusta meidän pitäisi tätä selvit-
+tää. Täällä todettiin, että silloin aikaisemmin tämmöinen lopputulema on ollut, mutta maa-
+ilma muuttuu, ja tästä voisi uudestaan keskustella. Tämä kuitenkin herättää paljon keskus-
+telua, ja minusta se ei ole vastaus, että päätöksiä ei ole tehty veron käyttöönotosta. Tästä
+olisi hyvä keskustella laajemminkin, mutta itsekin olen samaa mieltä, että täällä pitäisi olla
+paikalla valtiovarainministerin itse.
+
+14.49 Jutta Urpilainen sd (vastauspuheenvuoro): Arvoisa puhemies! Kannustan ystäväl-
+lisesti kollegaa tarkkuuteen, koska omassa puheenvuorossani mainitsin erityisesti sen, että
+näitä kaivosveromalleja on tutkittu, mutta tehtiin poliittinen päätös, että ei kaivosveroa val-
+mistella, koska silloin arvio hyvin laajasti oli se, että sillä olisi kielteisiä vaikutuksia. Eli
+kannustan tarkkuuteen ja myöskin oikeaan siteeraukseen. [Leena Meri: Mutta mikä se kan-
+ta oli?]
+11
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+14.49 Markku Pakkanen kesk: Arvoisa puhemies! Kaivosteollisuus, kaivannaisteolli-
+suus, on kaiken kaikkiaan Suomelle elintärkeä. Suomalainen maaperä mahdollistaa eri-
+tyyppistä kaivannaisuutta, ja tätä raaka-ainetta käytetään muun muassa kemianteollisuu-
+den ja metsäteollisuudenkin liitännäisenä, ja pidän sillä lailla sitä tärkeänä.
+
+Louhinta-ala kaiken kaikkiaan työllistää Suomessa merkittävän määrän ihmisiä, ja itse
+haluaisin painottaa tätä teollisuutta. Louhintalaitteitten valmistusteollisuus on Suomessa
+erittäin korkealla tasolla ja kansainvälistä vientituotetta, joten tältäkin osalta kaivoslain
+Suomessa täytyy olla päivitettynä, jotta säilytämme kilpailukyvyn tällä sektorilla.
+
+14.50 Markus Lohi kesk: Arvoisa puhemies! Aivan kuten edustaja Urpilainen täällä ai-
+kaisemmin totesi, kyllähän kaivosala maksaa veroja, aivan samalla tavalla kuin mikä yri-
+tystoiminta tahansa Suomessa. Maksetaan kiinteistöveroja ja maksetaan myös yhteisöve-
+roa aivan samalla tavalla kuin mikä tahansa yritystoiminta, vaikka monesti julkisuuteen
+annetaan myös väärä mielikuva siitä, että kaivokset eivät maksa mitään veroa tänne Suo-
+meen.
+
+Minusta oli varmasti ihan perusteltua silloin tehdä tämä selvitys ja poliittinen linjaus, et-
+tei kaivosveroa tullut, mutta varmasti sitä jatkuvasti joudutaan miettimään, pitääkö tehdä
+uudelleenarviointia. Mutta tämä toimiala on hyvin herkkä, niin kuin me olemme huoman-
+neet, ja kun valtiotakin ymmärrettävistä syistä pyydetään vähän niin kuin apuun tälle toi-
+mialalle, että pitäisi olla suomalaista omistusta, joka on minusta kannatettava ajatus, niin
+tässäkin voi ehkä vähän todeta, että meillä on siitä myös toisenlaisia esimerkkejä. Onhan
+meillä tällä hetkellä valtion pääomisteinen kaivostoiminta, tuo Terrafame ja Talvivaaran
+kaivos, eikä se ole paras esimerkki kaivostoiminnasta.
+
+Kun niitä malmiesiintymiä on — vaikka niitä on ympäri Suomea — ennen muuta Poh-
+jois-Suomessa ja Lapin alueella, niin täytyy todeta, että me Lapissa uskomme siihen, että
+meidän tulevaisuuden mahdollisuutemme, yksi mahdollisuus, on myös kaivostoiminta,
+malmitoiminta, matkailun ja metsäteollisuuden ja muitten elinkeinojen ohessa. Me pys-
+tymme yhteensovittamaan nämä, mutta ympäristön pilaamiselle pitää olla tiukka nollato-
+leranssi. Kukaan ei halua sellaisia kaivoksia, jotka pilaavat luontoa. Kaivoksilla on aina sii-
+nä alueella, mihin se perustetaan, ympäristövaikutuksia — se on selvä. Mutta sille, että laa-
+jemmin lähdettäisiin pilaamaan meidän ympäristöämme, pitää olla nollatoleranssi, ja ku-
+kaan ei sitä halua. [Puhemies koputtaa] Me uskomme, että kuitenkin tämä on mahdollista
+tulevaisuudessa, ja näitä mineraaleja pitää meillä kestävällä tavalla hyödyntää.
+
+14.52 Pia Viitanen sd: Arvoisa herra puhemies! Tuohon puheenvuoron loppuun on hyvä
+yhtyä, kaivostoiminta on merkittävä ala meillä. Tietenkin tärkeitä ovat sen työllisyysvai-
+kutukset, mutta samaan aikaan on aina muistettava tietenkin se, että ympäristön kannalta
+täytyy olla nollatoleranssi sen suhteen, että ympäristöä ei voi pilata.
+
+Puhemies! Pyysin tämän puheenvuoron siksi, kun minua rupesi askarruttamaan tämä
+käyty keskustelu ja mielipiteiden vaihto nimenomaan siitä näkökulmasta, mikä on hallituk-
+sen kanta tähän asiaan. Nimittäin nythän käymme kevättä, jossa esimerkiksi kehysriihet
+koittavat ja pitää tehdä aika isoja talouslinjauksia. Varmaan keskustelussa on niin meno-
+puoli kuin tulopuolikin, verot, kaikki tämä kokonaisuus. Tässä on nyt tullut hieman risti-
+riitaista näkemystä sen suhteen, että ministeri Lintilä totesi, että kaivosveroa ei ole suun-
+nitteilla, ja toisaalta puheenvuoroja tulee myös keskustasta, että voisi selvitellä. Sitten
+12
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+edustaja Meri perussuomalaisena aika vahvasti otti kantaa sen puolesta, että tämä kaivos-
+vero tulisi ottaa käyttöön.
+
+Nyt minä haluaisin, puhemies, että hallitus tässä tilanteessa voisi selkeyttää omaa lin-
+jaansa ja tulla ulos sen kanssa, mikä on hallituksen näkemys tällä hetkellä tässä poliittises-
+sa tilanteessa, tässä taloustilanteessa kaiken kaikkiaan tämän kaivosveron suhteen, koska
+tässähän väistämättä jää kuulijalle hieman hämmentynyt olo ja epäselvä vaikutelma siitä,
+mitä hallitus kaiken kaikkiaan aikoo tämän asian suhteen tehdä, koska kuitenkin näitä pu-
+heenvuoroja on puolesta ja vastaan. Tietenkin, jos voisi sanoa kauniisti, sehän on meillä
+aika tuttua, että hallituksella on saattanut olla tällä kaudella myös muita esimerkkitilantei-
+ta, missä sisäisesti ollaan hieman eriäviä mielipiteitä esitelty puolin ja toisin, mutta tieten-
+kin tässä tapauksessa olisi hyvä saada selvennystä. En minäkään, puhemies, olisi pahaksi
+pistänyt, että ministeri Orpo olisi erityisesti tässä tilanteessa ollut tässä salissa paikalla.
+
+14.54 Markus Lohi kesk (vastauspuheenvuoro): Arvoisa puhemies! Kun tässä hallituk-
+sen linjaa kysyttiin, niin täällä nyt ei satu olemaan ministeriä enää paikalla, mutta täytyy to-
+deta, että vaikka tässä ovat hallituspuolueitten edustajat varmasti omia näkemyksiään tuo-
+neet eriasteisesti, niin kyllähän ministeri Lintilä kertoi yksiselitteisesti, mikä on hallituk-
+sen linja, eli hallitus ei valmistele kaivosveroa eikä sitä ole suunnitteilla ottaa käyttöön täl-
+lä hetkellä.
+
+14.55 Satu Hassi vihr: Arvoisa puhemies! Todella, mitä tulee kaivosveroon, kiinnosta-
+vintahan on, mikä on hallituksen ja hallituspuolueiden kanta. Kun edustaja Meri sitä pe-
+räänkuuluttaa, niin mikä on perussuomalaisten kanta, onko tästä asiasta yritetty neuvotella
+hallituksessa, se olisi kiinnostavaa.
+
+Viime hallituksen päätökset tiedetään. Itse olen hiukan pahoillani siitä, että kaivosveroa
+ei tullut. Siinähän ei ole kysymys siitä, että luultaisiin, etteivät kaivokset mitään veroja
+maksa, vaan siitä, tulisiko maksaa veroa siitä uusiutumattomasta luonnonvarasta, jota kai-
+vokset Suomen maaperästä kaivavat.
+
+Mutta varsinaisesti pyysin puheenvuoroa kommentoidakseni ministeri Lintilän vastaus-
+ta ensimmäiseen puheenvuorooni ensinnäkin tästä viranomaisen harkintavallasta silloin,
+kun kaivosta laajennetaan. Olen hänen kanssaan samaa mieltä siitä, että silloin kun on kyse
+pienistä laajennuksista, niin harkintavalta on ihan ok. Kuitenkaan mielestäni ei merkitsisi
+mitään epäluottamusta suomalaisten viranomaisten kykyyn ja kansalaiskuntoon, jos laissa
+tai asetuksessa olisi kriteerejä sille, minkä tyyppisissä tapauksissa näitä menettelyjä voi-
+daan oikaista.
+
+Mitä tulee Natura- ja yva-asiakirjoihin ja niiden jättämiseen sen lupahakemuksen jäl-
+keen, on hyvä tavoite, että ne paperit ovat kunnossa, mutta ei se voi olla tärkeämpi tavoite
+kuin se, että kansalaiset voivat vaikuttaa ja että kansalaisilla huomautuksiaan esittäessään
+on kaikki relevantti tieto. Toivon, että talousvaliokunnassa tämä kysymys otetaan huolel-
+lisesti käsittelyyn.
+
+14.57 Leena Meri ps (vastauspuheenvuoro): Arvoisa puhemies! Täällä kyseltiin perus-
+suomalaisten kantaa. Tuossa kun nyt äkkiä katsoin, niin ainakin internetissä vuoden 2013
+vaihtoehtobudjetissa me olemme ehdottaneet kaivosveroa, joskin olemme toivoneet, että
+se olisi sen tyyppinen, että sillä ei tietysti yritystoimintaa tukahdutettaisi. En itse ole halli-
+tusneuvotteluissa ollut, niin että en tiedä, mitä kaikkea siellä on keskusteltu, mutta yksit-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 14/2017 vp
+täisenä kansanedustajana haluan nostaa erilaisia asioita esille, ja tämä on ollut myös perus-
+suomalaisilla keskustelussa, ja näin.
+
+14.57 Päivi Räsänen kd: Arvoisa herra puhemies! Viime vaalikaudella tehtiin selvityk-
+siä erilaisista mahdollisista malleista kaivosveroon liittyen, ja kyllä niiden kohdalla todet-
+tiin, että enemmän tulisi ongelmia ja haittoja ainakin niillä ehdotetuilla malleilla, joten hy-
+vin tarkasti mahdollista kaivosveroa tulisi sitten tutkia ja harkita.
+
+Mutta kyllä itsekin pidän ihan perusteltuna sitä huolta ja kysymystä, mikä täällä on esi-
+tetty, että Suomen maaperän rikkauksien voitot menevät ulkomaisten yritysten kautta ul-
+komaille. Siinä mielessä tietenkin toivoisin sitä, että suomalaiset yritykset voisivat tässä
+menestyä.
+
+Kaivosteollisuuden toimintaedellytyksistä on todellakin syytä pitää huolta. Kaivosteol-
+lisuus on, valitettavasti, viime vuosina kärsinyt maineensa puolesta, ja on todella tärkeää,
+että ympäristönäkökohdat huomioidaan ja ympäristöstä pidetään hyvää huolta.
+
+Toivon, että tätä lakiesitystä huolellisesti valiokunnassa tutkitaan ja pohditaan. Sinänsä
+ne perustelut, jotka tälle esitykselle on esitetty tarpeettoman sääntelyn purkamiseksi ja nii-
+den käytännön tilanteiden torjumiseksi, joissa kaivoslakiin kirjatut menettelyt ja velvoit-
+teet ovat tarpeettoman raskaita, mielestäni kyllä vaikuttavat ihan perustelluilta. Eli tietyis-
+sä tilanteissa viranomaisten tarveharkintaa ja harkintavaltaa on syytä lisätä.
+
+14.59 Pia Viitanen sd: Arvoisa herra puhemies! Vielä tähän kaivosveroon: Me äsken
+kuulimme, että perussuomalaisilla on ollut vaihtoehtobudjetissa tästä kirjaus ja he ovat ol-
+leet tätä halukkaasti edistämässä. Nyt tietenkin tulen siihen kysymykseen, minkä edustaja
+Hassi tuossa aiemmin kysyi, mikä tietenkin on mielestäni tärkeä kysymys, että olennaisia-
+han tässä tilanteessa ovat nimenomaan nyt sitten hallituspuolueiden näkemykset ja halli-
+tuspuolueiden käsitykset siitä, miten asian suhteen tulee edetä. Edustaja Hassi kysyi tuos-
+sa, että onko sitten tuotu tämä asia, jota on ikään kuin ajettu, esiin näissä neuvotteluissa.
+Sehän on hyvin tärkeää, että siinä vaiheessa, kun hallitus sitten kantojaan ratkaisee, tuo-
+daan ainakin esille ja neuvotteluun niitä asioita, joista ollaan puhuttu. Yksi, mikä tulee mie-
+leen ja mistä olemme aika usein täällä puhuneet, oli se, kun perussuomalaiset lupasivat en-
+nen vaaleja, että tulisi tällainen verovähennys kehitysyhteistyölahjoituksille, ja vieläkään
+emme ole saaneet vastausta siihen, onko tämä malli tuotu neuvotteluun siellä hallitukses-
+sa, kun siitä kovasti puhuttiin. Sillä lailla yleisesti tietenkin olisi hyvä tietää, mikä on kes-
+kustelu- ja neuvottelutilanne hallituksessa sisäisesti ollut tämän suhteen.
+
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan.
+14
+
+

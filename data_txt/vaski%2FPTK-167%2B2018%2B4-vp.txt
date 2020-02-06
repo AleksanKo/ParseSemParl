@@ -1,0 +1,702 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM3A60.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 167/2018 vp
+
+Täysistunto
+
+Torstai 28.2.2019 klo 16.04—20.28
+
+4. Hallituksen esitys eduskunnalle laeiksi eräiden ympäristöllisten  lupamenettelyjen yh-
+teensovittamisesta ja ympäristövaikutusten arviointimenettelystä annetun lain muuttami-
+sesta sekä eräiksi niihin liittyviksi laeiksi
+
+Hallituksen esitys HE 269/2018 vp
+Valiokunnan mietintö YmVM 22/2018 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 4. asia. Käsittelyn pohjana on ympäristövaliokunnan mietintö YmVM
+22/2018 vp. Nyt päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+17.09 Timo Heinonen kok: Arvoisa herra puhemies! Hyvät edustajakollegat ja muut pai-
+kalla olijat! Haluan alkuun antaa kiitosta ympäristöministeri Kimmo Tiilikaiselle hyvästä
+työstä maankäytön, rakentamisen, ympäristölupien ja muun tähän kokonaisuuteen liitty-
+vän ympärillä. Itse asiassa tällä kaudella tässä on saatu paljon aikaan.
+
+Kun katsoin sitä tilannetta, minkä verran meillä tällä hetkellä on erilaisten viranomais-
+prosessien eli luvitusten takia hankkeita jumissa taikka niitä lupia odottamassa, niin sain
+tuoreen tiedon itse asiassa tämän vuoden tammikuulta, ja se kertoo, että tälläkin hetkellä,
+vaikka nämä ruuhkat ovat pienentyneet ja luvitukset nopeutuneet, meillä on 2,7 miljardin
+euron investoinnit kesken lupakäsittelyissä. Toteutuessaan nämä investoinnit loisivat jopa
+noin 9 000 työpaikkaa tähän maahan. Sen takia meidän pitää tätä luvitusjärjestelmää edel-
+leen saada sujuvammaksi. Kun katsoo, mitä tällä kaudella on tapahtunut, niin tuo jono on
+jonkun verran lyhentynyt — vuonna 2016 lupajonossa oli 2,9 miljardin hankkeet — eli ei
+kovin merkittävää kuitenkaan, vaikka paljon on tehty. Työpaikkoja sieltä on syntynyt, sil-
+loin odottamassa näiden luvitusten myötä oli noin 14 000 työpaikkaa. Eli aika paljon työ-
+paikkoja on kuitenkin tämänkin kautta Suomeen syntynyt.
+
+Syke oli tilastoinut ympäristölupien käsittelyä, ja myönteistä siellä on, että tällä kaudel-
+la ympäristölupien käsittely on nopeutunut 19 kuukaudesta nyt 15,5 kuukauteen, kun pu-
+hutaan keskiarvoajoista. Ero nopeimman ja hitaimman avin välillä Suomessa kuitenkin on
+edelleen noin 6 kuukautta. Eli alueelliset erot ovat merkittävän suuria näissä luvituksissa.
+Minun mielestäni me tarvitsemme tähän maahan käsittelytakuun, ja toivottavasti tämä
+Luova, jonka on tarkoitus aloittaa vuonna 2021, tulee yhdenmukaistamaan tätä lupaproses-
+sia valtakunnallisena toimijana kaikkien näiden lupien näkökulmasta.
+
+Kyse tässä, mikä tänään on käsittelyssä, on siis siitä, että meillä ympäristöllisiä lupame-
+nettelyjä yhteensovitetaan niin, että ympäristölupa, vesilain mukainen lupa, maa-aineslu-
+pa mutta myös joukko muita lupia, esimerkiksi luonnonsuojelulain mukainen poikkeamis-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+lupa, maankäyttö- ja rakennuslain mukainen lupa, kaivoslain mukainen lupa taikka vaaral-
+listen kemikaalien tai räjähteiden käsittelyn turvallisuudesta annetun lain mukainen lupa,
+voitaisiin käsitellä tai käsiteltäisiin jatkossa hakijan pyynnöstä niin sanotusti yhteen sovit-
+taen.
+
+Tällaista pyöreää pöytää käytettiin itse asiassa vuonna 2015, kun Äänekosken biotehdas
+haki lupaa. Siinä yva eli ympäristövaikutusten arviointi- ja lupaprosessit yhdistettiin ja
+siellä pystyttiin käsittelemään nämä kaikki luvat neljässä kuukaudessa, eikä yhtään lakia
+tarvinnut silloin edes muuttaa. Eli aika paljon tässä on kuitenkin tahdosta kiinni. Kun ote-
+taan nämä eri lupien käsittelijät ja päättäjät samaan pöytään ja tehdään ja etsitään yhdessä
+vastauksia ja ratkaisuja ongelmiin eikä niin, että etsitään uusia ongelmia aina yhden pää-
+töksen jälkeen, niin tulemme tässä saamaan hyviä tuloksia.
+
+Juha Sipilän hallitusohjelman yksi keskeinen tavoite on ollut sääntelyn sujuvoittami-
+nen, ja tämä on hyvä esitys siitä, ja hyvä, että tämä ehditään vielä tällä kaudella nyt maaliin
+saada. Tässä esityksessä ei puututa lainsäädännön aineelliseen sisältöön eikä osallistumis-
+oikeuteen vaan pyritään siis kokoamaan moninaiset lupamenettelyt yhdeksi kokonaisuu-
+deksi, jolloin prosessi on sekä luvanhakijan että mahdollisten haitankärsijöiden kannalta
+paremmin hahmotettavissa.
+
+Niin kuin ympäristövaliokunta mietinnössään toteaa, esitys ei vaikuta millään tavoin
+myöskään viranomaisten valitusoikeuteen, mutta tähänkin olemme tällä kaudella tehneet
+toimenpiteitä. Ely-keskusten valitusoikeutta lainmuutoksella muutettiin pari vuotta sitten
+vuonna 2017. Tuo elyjen valitusoikeus rajattiin kaavoituksessa, rakentamisessa ja muussa
+alueiden käytössä vaikutuksiltaan valtakunnallisiin ja merkittäviin maakunnallisiin asioi-
+hin. Eli pääsimme siinä selkeästi siihen suuntaan, että virkamiesten tehtävä on ennen muu-
+ta etsiä ratkaisuja, eikä niin kuin jossain vaiheessa valitettavasti on ollut, että valituksia on
+tehty toisen virkamiehen tekemästä päätöksestä. On parempi tässä pyöreän pöydän menet-
+telyssä etsiä yhdessä ratkaisut ja sen jälkeen tehdä päätös. Ja niin kuin äsken tuossa edellä
+totesin, tämä Äänekosken biotehdas oli hyvä esimerkki. Sen kaikki lupa-asiat, yva ja muu
+lupaprosessi, siis käsiteltiin neljässä kuukaudessa, kun alussa kerroin, että tällä hetkellä
+meillä ympäristöluvan keskiarvokäsittelyaika on 15,5 kuukautta ja erot erittäin suuria Suo-
+messa.
+
+Arvoisa puhemies! Tämä on hyvä esitys, ja kiitos tästä maamme hallitukselle ja minis-
+teri Kimmo Tiilikaiselle.
+
+17.16 Hannu Hoskonen kesk: Arvoisa herra puhemies! Tämä hallituksen esitys on aivan
+oivallinen ja jatkaa sitä linjaa, millä pääministeri Sipilän hallitus on koko ajan ollut, elikkä
+byrokratiaa on purettu ja hallintoa virtaviivaistettu. Suomessa on syytä muistaa nyt kuiten-
+kin kaikkien meidän, jotka odotamme, että kansantalous kohentuisi ja työpaikkoja tulisi li-
+sää, että tälläkin hetkellä meillä on eri lupaprosesseissa miljardien eurojen arvosta erilaisia
+hankkeita, jotka odottavat lupaa sen takia, kun virkamiehet eivät kerkeä tehdä niitä päätök-
+siä. Ovatko sitten kaikki lupaprosessit aivan kohdallaan, niin veikkaisinpa, että siellä on
+paljon sellaista turhaa, jota ei ollenkaan tarvita. Otetaan nyt esimerkiksi vaikka joku pieni
+voimalaitos: Jos pitää tehdä vaikka biovoimalaitos, niin siitä tehdään valtavan raskaat yva-
+selvitykset ja kaikki mahdolliset ja kuitenkin siinä poltetaan vain suomalaisia energiaraa-
+ka-aineita useimmissa tapauksissa. Kaikki päästöt, mitä sieltä tulee, tiedetään, kun voima-
+laitostekniikka tiedetään, mutta sitten se seisoo vuosia, vuosia tuolla hallintobyrokratiassa. 
+2
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+Tiedän kokemuksesta, kun kotikunnassani on muutamia hankkeita. Yhdessäkin silta-
+hankkeessa tällä hetkellä on pelkkä sillanrakennuslupa venynyt jo kohta kaksi vuotta, ja
+vieläkin siihen lupaa odotetaan. Luulisi nyt, että pienen kapean joen ylitys, johon tulee sil-
+ta... Muilta osin kaikki selvitykset on tehty, mutta lupa vain viipyy ja viipyy ja viipyy. Yrit-
+täjä meinaa tuskastua, kun kuljetusyhteydet eivät pelaa, ja turhia riskejä otetaan, kun jou-
+dutaan ajamaan pitkän matkan takaa kiertoteitse ja vaarannetaan muuta liikennettä raskaal-
+la liikenteellä.
+
+Olkoon tämä esimerkki siitä, miten meillä Suomessa pitäisi pikkuhiljaa ruveta ymmär-
+tämään se, että hallintohan ei ole hallintoa itseään varten vaan sitä varten, että saataisiin
+meidän systeemit pelittämään nopeasti ja tehokkaasti, ja myös totta kai sitä varten, että ym-
+päristöstä pidetään huoli ja teemme hyviä, turvallisia rakenteita ja hyviä ratkaisuja. Mutta
+esimerkiksi nyt vaikka talon rakennuslupa tai jonkun muun isomman laitoksen rakennus-
+lupa, niin kyllähän nyt, hyvänen aika, rakennustekniikka on tiedetty tässä maassa kohtuul-
+lisen pitkään. Niiden lupien luulisi tulevan todella nopeasti, mutta niissäkin on viivettä ja
+viivettä, en tiedä minkä takia. Jos kaikki nämä tällaiset lupahankkeet saataisiin nopeasti lii-
+kenteeseen, me saisimme kymmeniätuhansia uusia työpaikkoja tähän maahan. Ja mietti-
+kää sitä, että jokainen tuotantolaitos, joka esimerkiksi toimisi ulkomaankaupan toimialalla
+eli veisi tuotteitaan ulkomaille, tuo Suomen kansantaloudelle valtavan määrän plussaa, ja
+kun hanke lähtee liikkeelle, vaikka nyt kaivoshanke tai joku vastaava, sieltä tulee jo ensim-
+mäisenä vuonna investointien kautta valtion kassaan arvonlisäveroja ja muita veroja valta-
+vat määrät. 
+
+Elikkä meidän pitäisi pikkuhiljaa ruveta ymmärtämään, mistä tässä on kysymys. Byro-
+kratiaa kasvatetaan ja kasvatetaan ja uskotaan, että siitä se hyvä tulee, mutta se on juuri
+päinvastoin. Silloin me hukkaamme pienen kansakunnan varoja siihen, mihin ei pitäisi uh-
+rata yhtään senttiä liikaa, vaan pitäisi paremminkin keskittyä siihen tekemiseen. Ympäris-
+töasiat meillä osataan, mutta hallinnossa on näköjään vielä oppimista. 
+
+17.19 Satu Hassi vihr: Arvoisa puhemies! Tämä hallituksen lakiesitys on esimerkki siitä,
+miten voidaan yksimielisesti hyväksyä lakiesitys, joka on valmisteltu huolellisesti. Totean
+tämän siksi, että meillä on ehkä maallikon silmään ja korvaan hyvin samantapaiselta kuu-
+lostava lakiesitys kaivoslaista, joka kuitenkin sitten tulee valiokunnasta erimielisenä täys-
+istuntoon. 
+
+Tässä laissa annetaan luvanhakijoille, esimerkiksi nyt teollisuusyrityksille, mahdolli-
+suus yhdistää tiettyjen lupatyyppien käsittelyä, jos luvanhakija näin haluaa. Luvanhakijal-
+la on mahdollisuus myöskin siihen, että luvat käsitellään ihan samassa järjestyksessä kuin
+nykyisinkin. Siinä kaivoslain muutoksessa, johon viittaan, on kyse siitä, että kaivosyhtiö
+voi jättää kaivoslupahakemuksen ennen kuin ympäristövaikutusarvio on tehty mutta voi
+silti säilyttää etuoikeutensa siihen, niin että jos siihen paikkaan kaivos tulee, niin sitten se
+kyseinen firma on etuoikeutettu siinä kaivostoimijaksi. 
+
+Tämä laki, joka nyt on käsittelyssä, käytännössä kuitenkin rajaa ne tilanteet, joissa ym-
+päristövaikutusarvio käsitellään lupahakemuksen kanssa rinnakkain, sellaisiin tapauksiin,
+joissa ympäristövaikutusarvion keskeinen pointti eli vaihtoehtojen tarkastelu ei ole miele-
+kästä, eli tapauksiin, joissa käytännössä on vain yksi vaihtoehto, esimerkiksi jonkin jo ole-
+massa olevan hankkeen laajentaminen. Sen sijaan se kaivoslain muutos, joka on tulossa
+erimielisenä täysistuntoon, mahdollistaisi sen, että lupahakemus tehtäisiin ja kaivosyhtiö
+3
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+olisi jo valinnut yhden ratkaisuvaihtoehdon, vaikka ympäristövaikutusarviointi ja siihen
+liittyvä erilaisten vaihtoehtojen ympäristövaikutusten tarkastelu olisivat vielä kesken. 
+
+Nämä kaksi hallituksen lakiesitystä ovat myös esimerkkejä siitä, miten eri tyylillä val-
+mistelussa saadaan erilaisia tuloksia. Tämä, jota nyt käsittelemme ja josta mietinnön ym-
+päristövaliokunta on yksimielisesti hyväksynyt, on valmisteltu hyvin ja neuvotellen ja eri-
+laisia osapuolia kuunnellen. Sen sijaan se kaivoslakimuutos, josta olen puhunut, on valmis-
+teltu ilman yhtäkään lausuntoa. Edes muiden ministeriöiden lausuntoja ei ole pyydetty.
+
+17.22 Eeva-Maria Maijala kesk: Arvoisa puhemies! Ympäristöministeriössä on saatu
+tällä vaalikaudella todella paljon hyvää aikaiseksi. Kiitos ennen kaikkea ympäristöminis-
+teriön virkamiehille mutta kiitos muillekin tähän asiaan vaikuttaneille, ja meidän ympäris-
+töministerimme Tiilikainen on kyllä saanut näitä asioita tapahtumaan eteenpäin. Tällä vaa-
+likaudella oli tavoitteena purkaa byrokratiaa, ja ympäristöhallinto on ollut tässä koko ajan
+etunenässä. Tämäkin hallituksen esitys, tämä laki, mikä nyt hyväksytään, on ehdottomasti
+niitä byrokratian purun parhaita kohtia. 
+
+Tässä laissa yhteensovitetaan lupa-asioita. Tämä on erittäin tarpeellista ja hyvää, ja juu-
+ri niin kuin tuossa tuli jo puheeksi, niin me ympäristövaliokunnassa, valiokunnan jäsenet,
+olimme kyllä näistä aika lailla yhtä mieltä, ja täällä salikeskusteluissakin on mukava olla
+yhtä mieltä, sillä olette varmaan pystyneet seuraamaan sitä, että me ympäristövaliokunnan
+jäsenet olemme monesti olleet hyvinkin eri mieltä asioista. Ehkä siinä kaivoslakiasiassa,
+mikä tulee kohta tänne saliin käsittelyyn, tulette huomaamaan myöskin sen, kuinka eri
+mieltä me olemme näistä tietyistä asioista. 
+
+Tässä laissa on nyt saatu yhteisellä näkökulmalla menemään eteenpäin se, että tämä laki
+auttaa siihen, että sekä asianomaiset että virkamiehet voivat kunkin luvan käsittelyvaihees-
+sa keskittyä sen olennaisiin asioihin. Elikkä kun minä toimin kunnassa viranomaisena —
+olin elinkeinoasiamiehenä, kunnansihteerinä — oli monta kertaa tilanne, ettei tiedetty,
+missä vaiheessa kenenkin pitää antaa lausunto ja millä lausunnolla on mikä merkitys ja mi-
+hin lupaan aletaan valittamaan milloinkin. Siis sitä oli koko ajan niin, että sähläykseksi me-
+ni, kukaan ei enää tiennyt, mikä hoidetaan milloinkin. Meni hirveästi aikaa kaikilla huk-
+kaan. Sen takia onkin hyvä, että nytten näitä lupia yhtenäistetään, hoidetaan yhtä aikaa se,
+mikä on mahdollista, niin että voidaan säästää todellakin hyvin paljon voimavaroja asioit-
+ten oikeaan hoitamiseen. 
+
+Seuraavalla vaalikaudella tämä saadaan sitten Luovan kautta hoidettua, ja siitä olen
+myöskin erittäin tyytyväinen, koska se auttaa siihen, että virkamiehet voivat todellakin
+keskittyä asian hoitamiseen eivätkä sen miettimiseen, kuka hoitaa mitä milloinkin. Hoide-
+taan asia kerralla kuntoon. 
+
+Eli kiitoksia tästä laista, ja kohti seuraavia haasteita. Ympäristöministeriön puolella, va-
+liokunnan puolella nämä näyttävät olevan jo aika vähissä [Puhemies koputtaa] tällä vaali-
+kaudella.
+
+17.25 Antero Laukkanen kd: Arvoisa herra puhemies! Tämän esityksen tavoitteena on
+nopeuttaa ja sujuvoittaa ympäristöön vaikuttavien hankkeiden lupamenettelyjä. Myös
+luonnonsuojelulain mukaiset poikkeamisluvat tulevat yhteensovittamisen piiriin, ja voisi
+sanoa, että jo oli korkea aikakin laittaa näitä samaan asiaan liittyviä eri lupamuotoja yh-
+teen. Uskon, että kun tämä käytäntö tämän lain myötä sitten todella alkaa, niin moni tulee
+vielä tätä esitystä kiittelemään. Myös oikeuden ratkaisumenettelyn sujuvuus ja keventämi-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+nen ja yhteensovittaminen oli tässä yhtenä hyvin keskeisenä asiana, ja mielestäni se on
+myös hyvä muutos tässä.
+
+Meillä on oikeuden resursseissa koko ajan vajetta, ja uskon, että sitten aikaa myöten tä-
+mäkin sitä työpainetta siellä purkaa, kun voidaan erilaisia prosesseja yhdistää, joten kiitos
+ympäristövaliokunnalle myös siitä, että se on tehnyt yksimielisen mietinnön ja osoittaa täl-
+lä tavalla, että asioita voidaan viedä hyvässä hengessä eteenpäin. 
+
+17.26 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Todellakin, en ole tässä valiokunnassa
+ollut mukana, mutta tähän liittyvät hallitusohjelman uudet strategisen työn toimintatavat.
+Normien sujuvoittaminen on siinä kärkihanke, eikä silloin puhuta yksin siitä, että ediste-
+tään yrittäjyyttä, työllistymistä tai työllistämistä normeja sujuvoittamalla tai helpotetaan
+ihmisten arkea, vaan siinä on mukana myöskin se, että voitaisiin valitusmenettelyjä järke-
+vöittää.
+
+Täällä edustaja Hoskonen sanoi, että meillä on investointeja valitusten takana, on lasket-
+tu, ehkä 2 miljardia, ehkä enemmänkin. Sellainen menettely, että hallinnon viranomaiset,
+ministeriöt valittavat toistensa päätöksistä, on aika hankala ja, etten sanoisi, vähän outo-
+kin. Siinä mielessä tervehdin tyydytyksellä tätä esitystä, tätä työtä, mitä ministeri Tiilikai-
+nen on tehnyt normien sujuvoittamiseksi. Me tarvitsemme normeja rakentamiseenkin, tot-
+ta kai, mutta me tarvitsemme parempia normeja, emme välttämättä vähemmän normeja, ja
+silloin tämä sujuvoittaminen on erityisen tärkeää liittyen myöskin erilaisiin valitusmenet-
+telyihin tai lupamenettelyihin, ja tätä, arvoisa puhemies, tervehdin tyydytyksellä.
+
+17.27 Ari Torniainen kesk: Arvoisa herra puhemies! Kyseessä on siis uusi laki ympäris-
+töllisten lupamenettelyjen yhteensovittamisesta. Erittäin hyvä laki kaiken kaikkiaan. Tääl-
+lä on käytetty hyviä puheenvuoroja tästä laista, ja kun tämä oli ympäristövaliokunnassa,
+niin valiokunta sai yksimielisen mietinnön asiaan — erittäin hyvä lähtökohta. 
+
+Kaiken kaikkiaan tämä lakiesitys perustuu Sipilän hallituksen sääntelyjen ja normisto-
+jen sujuvoittamishankkeeseen siten, että normeja ja byrokratiaa kevennetään ja lupamenet-
+telyjä yhteensovitetaan ja sitä kautta ihmisten arki helpottuu käytännössä. Viime vuosina
+ovat aivan liian paljon erilaiset lupamenettelyt pitkittäneet isoja hankkeita, niin ympäristö-
+hankkeita kuin erilaisia kaavahankkeita kuin rakentamishankkeita, ja on sen takia erittäin
+hyvä, että nimenomaan tähän asiaan on nyt tällä hallituskaudella paneuduttu ja pyritty su-
+juvoittamaan käytäntöjä. Tämäkin hallituksen esitys on sääntelyjen sujuvoittamista vaa-
+rantamatta ympäristönsuojelun tavoitteita. Se on myöskin hyvä lähtökohta, että ei vaaran-
+neta niitä ympäristönsuojelutavoitteita, mitä on asetettu. Itse painottaisin vielä tässä halli-
+tuksen esityksessä tätä yhden luukun periaatetta siten, että samalla käynnillä, samoilla lu-
+pahakemuksilla pystytään viemään jouhevasti asioita eteenpäin. 
+
+Kaiken kaikkiaan erittäin hyvä hallituksen esitys, ja toivottavasti saadaan hyviä käytän-
+töjä eteenpäin.
+
+17.29 Pia Viitanen sd: Arvoisa herra puhemies! Oli mukava kuulla, että valiokunta on yk-
+simielisesti päässyt eteenpäin. Tämä kuulostaa hyvin viisaalta, että on mahdollista yhdis-
+tellä halutessaan erilaisia lupatyyppejä, ja on tietenkin tärkeää se, että samaan aikaan ei
+vaaranneta esimerkiksi ympäristönsuojelutavoitteita.
+
+Vähän, puhemies, huolestuin siitä, mitä tuossa kollega, edustaja Hassi edellä kertoi sii-
+tä, että kaivoslain valmistelu on ollut vähän toista luokkaa. Eli siellä on ollut erittäin heik-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+koa valmistelua, ja tietenkin, kun ajatellaan eduskunnan kannalta, se ei ole ollenkaan toi-
+vottavaa, että näin olisi, ja siksi kyllä haluan huoleni tästä ilmaista.
+
+Täällä on puhuttu näistä normitalkoista ja säädösten purusta. Mielestäni ajatuksena se on
+täysin oikea, ja sitä on tehty pitkään, itse asiassa jo edellisellä kaudella näitä perattiin läpi,
+ja mielestäni on ihan selvää, että jos on niin sanottua turhaa normitusta, niin silloin sen voi-
+si heittää roskakoriin. Mutta tiettyjä normeja myös tarvitaan, tarvitaan sellaisia, jotka vaik-
+kapa suojelevat ympäristöä tai esimerkiksi rakentamisessa sen laatua, tämänkaltaisia seik-
+koja.
+
+Mutta, puhemies, kun täällä puhuttiin näistä normitalkoista, niin on eräs asia, minkä ha-
+luan tässä oikeastaan nostaa esiin keskusteluun, kun tämän hallituksen aikana on kuitenkin
+tullut myös eräällä tavalla vähän lisää normitusta. Nimittäin viime kaudella meillä oli mie-
+lestäni erittäin hyvä Omakotiliiton alulle panema kansalaisaloite energiatodistuksesta. [Ee-
+ro Heinäluoma: Omakotitalojen!] — Omakotitalojen energiatodistuksesta. — Tuolloinhan
+esimerkiksi päätettiin eduskunnan yksimielisellä siunauksella ja ministerin aloitteella sii-
+tä, että voitaisiin EU:hun päin käydä keskustelua, josko EU antaisi meille nyt mahdollisuu-
+den tehdä vapaaehtoiseksi nämä vanhojen omakotitalojen energiatodistukset, jotka eivät
+sinänsä ole suoranaisessa yhteydessä siihen, että yksikään talo tulisi yhtään sen ympäris-
+töystävällisemmäksi tämän energiatodistuksen vuoksi, koska tämä koskee vanhoja omako-
+titaloja. Tätähän silloin aikanaan vuonna 2002 Suomi haki ja sitten saikin pitkään siinä tie-
+tynlaista joustoa.
+
+Tätä olisi ollut tärkeä nyt viedä eteenpäin, mutta tämän hallituksen aikana kävi hämmäs-
+tyttävästi eräässä tapauksessa toisinpäin, eli tämä asia ei suinkaan edennyt sen vapaaehtoi-
+suuden suuntaan vaan energiatodistuksia alettiin vaatia entistä enemmän, jopa autotalleil-
+ta. Eli tämä hallitushan sitten toimi niin, että myös autotalleille tuli tämä energiatodistus
+pakolliseksi. Olisin halunnut vielä tästä huomiota nostaa. Silloin muuten perussuomalai-
+setkin olivat hallituksessa, kun autotallit tulivat energiatodistuksen piiriin. [Timo Heino-
+nen: Se ei liity tähän nyt mitenkään!] Silloin me kovasti tästä keskustelimme. — Tämä liit-
+tyy norminpurkutalkoisiin, ja mielestäni tämä on hyvä ja kuvaava esimerkki.
+
+Tarkastusvaliokunta omassa mietinnössään asumisesta muistutti tästä vanhojen omako-
+titalojen energiatodistusasiasta. [Puhemies koputtaa] Se on hyvin ajankohtainen. [Eero
+Heinäluoma: Onko se jotenkin kipeä kohta? — Timo Heinonen: Ei!]
+
+17.32 Satu Hassi vihr: Arvoisa puhemies! Vielä kaksi näkökulmaa.
+Ensinnäkin normien ja byrokratian purkuhan on yleisenä käsitteenä sellainen, että var-
+
+maan sitä useimmat kannattavat, mutta kuitenkin käytännön elämä tuo jatkuvasti esimerk-
+kejä asioista, joissa tuntuu siltä, että tarvittaisiin lisää normeja ja esimerkiksi lisää viran-
+omaisten valvontaa. Viime aikojen mieliä kuohuttaneet uutiset siitä, mitä tapahtuu useiden
+yritysten ja myös julkisen puolen vanhustenhoivalaitoksissa, ovat siitä hyvä esimerkki.
+
+Sitten tähän kyseiseen hallituksen esitykseen: Vielä haluaisin tuoda esille sen, että hal-
+lituksen esitys on kirjoitettu siitä näkökulmasta, että ikään kuin viranomaisten asiakkaita
+olisivat vain ne yritykset, jotka hakevat jollekin hankkeelle lupaa. Oikeastihan asiakkaita,
+jos tällaista sanaa halutaan tämmöisessä yhteydessä käyttää, ovat myöskin ne ihmiset, jot-
+ka asuvat tämän hankkeen vaikutuspiirissä. 
+
+Tässä lakimuutoksessa pidennetään valitusaikaa siten, että silloin kun yhdistetään ym-
+päristövaikutusarvio ja tämän varsinaisen luvan hakeminen, niin valitusajan pitäisi olla vä-
+hintään 45 päivää ja maksimissaan 60 päivää. Ympäristövaliokunta korostaa sitä, että aina
+6
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+kun viranomainen päättää, onko se tämä lyhyempi 45 vai 60 päivää vai siltä väliltä, niin
+sitä pitää tarkastella sen asian laajuuden kannalta, jotta kansalaisilla on oikeasti mahdolli-
+suus perehtyä siihen asiaan sen valitusajan kuluessa, koska silloinhan tavallaan se kertaplä-
+jäys on isompi, mikäli kansalaiset tähän hankkeeseen haluavat ottaa kantaa. Valiokunta tuo
+esille myös sen, että jos tämmöinen hanke kuulutetaan, julkistetaan kannanottoja varten, ja
+jos se tapahtuu loma-aikaan, niin silloin mieluummin tämä valitusaika olisi pidemmästä
+päästä eikä käytettäisi sitä lyhintä mahdollisuutta vaan viikkoa tai kahta pitempää.
+
+17.35 Timo Heinonen kok: Arvoisa herra puhemies! Edustaja, valiokunnan puheenjohta-
+ja Hassi otti tärkeän asian esille, ja niin kuin tuossa hänen johtamansa valiokunnan mietin-
+nössä todetaan, tuodaan esille juuri tämä, että se on myös niille, joilla mahdollisesti on tar-
+ve, joihin se lupaprosessi vaikuttaa. Heillä on itse asiassa silloin paremmat mahdollisuudet
+puuttua. Ja niin kuin puheenjohtaja Hassi kertoi, tätä valitusaikaa pidennetään, mutta sil-
+loin on se yksi kokonaisuus, minkä ympärillä voi tämän tarkastelun tehdä, eikä tapahdu si-
+tä, minkä itse asiassa edustaja Maijala nosti esille, että oli tuhannen eri kohtaa ja eri vaihet-
+ta, missä olisi pitänyt osata reagoida ja vaikuttaa. Nyt on se selkeä kokonaisuus, minkä ym-
+pärillä on aika tehdä tämä mahdollinen valitus tai oikaisu niiden, joita tämä koskee. Itse pi-
+dän hyvänä sitä, että ollaan menty myös kohti tätä niin sanottua yhden luukun periaatetta:
+sähköinen luukku, josta asiakirjat jakautuvat sitten kaikkialle sinne, mihin niiden tarvitsee
+mennä. Nämä ovat hyviä uudistuksia, joita tällä kaudella on viety eteenpäin.
+
+Niin kuin tuossa aiemmin totesin, niin olemme pystyneet tämänkin, viranomaisproses-
+sien nopeuttamisen, myötä saamaan tähän maahan lisää työtä ja työllisyyttä, uusia työpaik-
+koja. Vielä vuonna 2016 lupajonoissa oli noin 14 000 työpaikkaa ja 2,9 miljardin hank-
+keet, ja nyt ollaan päästy tuonne 9 000 työpaikkaan. Edelleen jonoissa lupia odottaa 2,7
+miljardin erilaiset investoinnit, eli niillä on kesken tämä lupakäsittely. Eli kyllä tässä vielä
+tehtävää riittää.
+
+Niin kuin totesin aiemmin, niin on hyvä, että Luova tulee yhtenäistämään käytäntöjä, sil-
+lä meillä on liian isoja alueellisia eroja näiden lupien käsittelyissä. Nopeimman avin ja hi-
+taimman avin välillä on jopa puolen vuoden käsittelyaikaero, ja onhan se aivan kohtuutto-
+man suuri.
+
+17.37 Eeva-Maria Maijala kesk: Arvoisa puhemies! Kaivoslaki ei sinänsä kuulu tähän,
+mutta se on kuitenkin tätä samaa kokonaisuutta siinä mielessä, että ympäristöllisten lupa-
+menettelyjen selkeyttäminen on kyseessä myöskin siinä kaivoslaissa, mikä on tällä hetkel-
+lä meillä työn alla. Siinäkin on tarkoituksena se, ettei tarvitsisi alkaa hakemaan turhia lupia
+vaan voisi selkeämmin hoitaa sen asian jo työn alla olevilla papereilla valmiiksi. Siinä mie-
+lessä se on kyllä erittäin hyvä esitys, mikä siinä on, ja kuuluu tähän samaan kokonaisuu-
+teen, elikkä senkin avulla ollaan purkamassa byrokratiaa ja ollaan lupamenettelyjä ehdot-
+tomasti yhtenäistämässä. 
+
+Kaivoslaista on tässä vaiheessa turha ottaa puheeksi sitä, onko siinä kuultu riittävästi
+asiantuntijoita vai ei, ennen kuin se asia on täällä salissa käsittelyssä. Katsomme sitten sitä
+asiaa tarkemmin.
+
+17.38 Eero Heinäluoma sd: Arvoisa puhemies! Tarpeettoman byrokratian purun pitäisi
+olla meidän kaikkien yhteinen harraste — ja samalla on tärkeätä, että sitten katsotaan, mis-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+sä tarvitaan esimerkiksi ympäristön suojaksi lainsäädäntöä ja lupamenettelyä. Niitäkin
+asioita ilman muuta on.
+
+Sympatiani on kuitenkin edustaja Viitasen esille nostaman asian puolella. Onhan tämä
+omakotitalojen energiatodistuksen vaatiminen kyllä ihan käsittämätön juttu, kun tämä
+energiatodistus ei kerro todellista energiankulutusta. Jos se edes kertoisi sen todellisen ku-
+lutuksen, sitä voisi ehkä jotenkin vielä pitää ymmärrettävänä, mutta kun se on täysin teo-
+reettinen, laskennallinen juttu — katsotaan talon piirustuksia ja sitten siitä tehdään johto-
+päätöksiä. Eikä siinäkään vielä olisi mitään, että niiden piirustusten perusteella kerrottai-
+siin, mikä se kulutus on, mutta sitten käytetään erilaisia kertoimia, joilla sitä kuvataan,
+mikä tarkoittaa esimerkiksi sitä, että jos asut maalämpötalossa, johon tarvitaan kuitenkin
+sähköä, ja vaikka ostaisit sen saimaannorppatunnuksella varustetun sähkön, joka on täysin
+ympäristöystävällistä uusiutuvaa energiaa, niin tähän energiatodistukseen pannaan rankai-
+sukerroin. Sitten myynnissä pitää olla se todistus, joka ei siis kerro todellista kulutusta, ja
+totta kai on sertifioitu, ketkä sitä saavat antaa, ja maksat siitä sitten lisää asumisen kustan-
+nuksina. Tämmöisiä meidän pitäisi poistaa, hyvät kollegat, täysin tarpeettomia, jotka eivät
+todellisuudessa vie eteenpäin energian säästämisen ideaa, tämä ei vie eteenpäin energian
+säästämisen ideaa. Vanhoissa omakotitaloissa tämä energiatodistus edelleenkin makaa,
+eikä sille ole tehty yhtään mitään, vaan iso hiljaisuus on laskeutunut tämän asian ympärille. 
+
+Kun viime kaudella tätä asiaa käsiteltiin ja oli tämä edustaja Viitasen mainitsema kan-
+salaisaloite tästä asiasta — kuuntelin sieltä puhemiehen aitiosta käsin puheenvuoroja —
+minusta tuntui siltä, että kaikki olivat samaa mieltä, että tämä pitää poistaa, ja tuli eduskun-
+nan päätöskin. Jään nyt kysymään: missä tämä asia on? Omakotitaloissa nimittäin asuu lä-
+hes 3 miljoonaa suomalaista, jotka törmäävät tähän byrokraattiseen vaatimukseen, ja jos
+katsotte myynti-ilmoituksia, siellä lukee yhä useammin, että lain vaatima energiatodistus
+puuttuu, koska ihmiset kokevat tämän kiusantekona eivätkä minään todellisena informaa-
+tiona kaupanteossa. Se ei ole hyvä myöskään lainkuuliaisuuden kannalta. 
+
+Eli kyllä näitä talkoita tarvitaan, mutta tässä olisi helppo kohde, josta saisi paljon kan-
+natusta, jos hallitus tämän vielä hoitaisi maaliin. 
+
+17.41 Marisanna Jarva kesk: Arvoisa puhemies! Käsillä on hallituksen esitys ja siitä
+oleva ympäristövaliokunnan mietintö sitä koskien, että saataisiin ympäristöllisten lupame-
+nettelyjen yhteensovittaminen aikaiseksi. Tämä on kyllä nimenomaan sitä, mitä on toivot-
+tu sen osalta, että ei käytettäisi yritysten aikaa eikä ennen kaikkea viranomaisten aikaa sii-
+hen, että niin sanotusti samoja asioita käydään läpi eri lupamenettelyjen yhteydessä kuiten-
+kin samoja perusteita, esimerkiksi saman yrityksen asioita, koskien. 
+
+Tämä kyllä sekä säästää kustannuksia viranomaisilta että myös antaa sitä työaikaa aina
+seuraavan tapauksen käsittelyyn. Niin kuin tiedämme ja olemme kuulleet useammissa pu-
+heenvuoroissa, rajallisten resurssien vuoksi meillä on jonossa paljon erilaisia hankkeita, ja
+kun tiedämme myöskin sen taustan, että monista hankkeista valitetaan myös ihan kiusan-
+teon vuoksi, on tärkeätä, että viranomaisilla on nyt olemassa menettelytavat, miten voi-
+daan näitä asioita sujuvoittaa ja silti pitää ympäristöstä huolta ja turvallisuudesta huolta. 
+
+Norminpurkutalkoissa on ollut keskeistä se, että turvallisuudesta ei tingitä ja sujuvoite-
+taan sääntelyä sillä tavalla, että se on ihmisten parhaaksi, toimijoitten parhaaksi. Paljolti-
+kin meillä lainsäädäntöä tehdään EU:sta tulevan normituksen vuoksi, kuten esimerkiksi
+tämä autotalliasia, mistä tuossa äsken edustaja Viitanen mainitsi — varmaan tiedossa on
+se, että se tulee EU:sta ja siinä on tietty koko, mikä määrittelee sitä asiaa — ja se on ollut
+8
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+erittäin hyvä, että tämän hallituksen aikana on näitä Suomi-lisiä kuitenkin poistettu näistä
+sääntelyistä, mitä EU:sta tulee. Meidän on sitä noudatettava — niin kuin tuossa kyselytun-
+tikeskustelussakin tuli, että tiettyjä asioita on meidän varmistettava — mutta mitään Suo-
+mi-lisiä me emme tarvitse, vaan noudatetaan minimivaatimuksia. Niitä pitää aina noudat-
+taa, mutta me emme saa tehdä semmoista ylimääräistä, kansallisesti turhaa sääntelyä, joka
+hankaloittaa meidän kansalaisten ja yritysten toimintaa. 
+
+17.44 Timo Heinonen kok: Arvoisa herra puhemies! Kun keskustelu nyt sallittiin myös
+energiatodistuksista, niin olen tismalleen samaa mieltä, että meidän olisi järkevä päästä
+sentyyppisestä sääntelystä kokonaan eroon. 
+
+EU-komissiohan velvoitti omistajat selvityttämään rakennustensa energiankulutusta, ja
+omistaja joutui alun perin tekemään tämän vain vanhempiin taloihin. Suomessahan ener-
+giatodistus ei alun perin ollut pakollinen pientaloissa. Ympäristöministeriö kuitenkin vii-
+me kaudella katsoi, että tämä on ongelma, koska pientalojen osuus on noin 27 prosenttia
+maamme rakennuskannan kuluttamasta energiasta. 
+
+Viime hallituksen asuntoministeri Pia Viitanen esitteli eduskunnalle marraskuussa 2012
+ehdotuksen uudeksi laiksi rakennusten energiatodistuksesta, ja laki valmistui silloin no-
+peasti. Se itse asiassa sääti kaikille pientalojen omistajille velvollisuuden hankkia talolleen
+energiatodistus, ja itse asiassa tässä tapahtui juuri tuo, mihin edustaja Heinäluoma, joka nyt
+jo poistui salista, viittasi. Tämän uuden, asuntoministeri Pia Viitasen esittelemän lain mu-
+kaan vanhat sähkölämmitteiset pientalot päätyivät tuohon G-energiatuhlaajaluokkaan [Pia
+Viitanen: Ei pidä paikkaansa!] riippumatta siitä, minkälaisia muita keinoja siellä oli, mihin
+esimerkiksi edustaja Heinäluoma edellä viittasi. 
+
+Sähkölämmitteisissä pientaloissa asuu miljoona ihmistä, ja tämä kyllä kohdistui heihin
+kovalla tavalla. Toivotaan, että jos nyt sitten vaikka seuraavalla kaudella löytyisi yhteistä
+tahtoa siihen, niin lähdemme viemään tätä yhtä tarmokkaasti kuin vaikkapa ministeri Ber-
+ner lähti viemään kesäaika—talviaika-muutosta. Se lähti Suomessa samanlaisesta tilan-
+teesta. Berner tarttui asiaan, ja täällä todettiin ensin, että emme voi tehdä sitä, se on EU-di-
+rektiivien takana, mutta eduskunnasta annettiin ministeri Bernerille vahva valtakirja. Toi-
+meen tarttuvana naisena hän matkusti Eurooppaan, kävi neuvottelut, ja — kuinkas kävi-
+kään — komission puheenjohtaja Juncker hetken päästä ilmoitti, että me luovumme kello-
+jen kääntelystä. Eli kyllä Euroopassakin muutoksia voi tehdä, ja meillä on hyviä eurovaa-
+liehdokkaita nyt myös kevään vaaleissa, ja toivotaan, että sinne saadaan sellaisia
+aikaansaapia kavereita, jotka sitten tarttuvat tähänkin asiaan ja ovat valmiita tekemään tä-
+mäntyyppisestä asiasta asian, jonka voivat sataprosenttisesti jäsenvaltiot itse päättää. On
+täysin kohtuutonta, että meitä rangaistiin tällä lainsäädännöllä, että kaikki talot joutuvat
+tuon energiatodistuksen tekemään. Nyt on mielenkiintoista kuulla — huomasin, että seu-
+raava puheenvuoro on tämän lain aikanaan esitelleellä [Puhemies koputtaa — Pia Viitasen
+välihuuto] entisellä ministeri Viitasella. 
+
+17.47 Pia Viitanen sd: Arvoisa puhemies! Tämä on ihan hyvä, että kerrataan sitä histo-
+riaa. Silloin kun minä tulin asuntoministeriksi puolessavälissä viime kautta, niin energia-
+todistukseen liittyen oli juuri tullut tämä pakko EU:sta, nämä kertoimet, ja myös vanhat
+omakotitalot... [Timo Heinonen: Ei vielä siinä vaiheessa!] — Itse asiassa minä selvitin hy-
+vin tarkkaan sen historian. — Se oli juuri tullut eduskuntaan, se oli sillä kaudella säädetty
+näille vanhoille omakotitaloillekin pakolliseksi. Tuli tämä kansalaisaloite. Olin täysin tuo-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+re ministeri ja totesin, että olen itse asiassa samaa mieltä aloitteen tekijöiden, Omakotilii-
+ton, kanssa siitä, [Timo Heinonen: Ei, mutta kyllä te esittelitte tämän lain!] että tämä asia
+tulee korjata, jolloin sitten... — Minä pyydän, että edustaja Heinonen lukee minun puheen-
+vuoroni, missä käyn tämän historian läpi, jonka pidin ministerinä siinä lähetekeskustelus-
+sa, kun käsittelimme Omakotiliiton aloitetta, silloin kun se tuli vireille. — Siinä kertaan
+tätä historiaa, mikä se on EU:n näkökulmasta ollut ja Suomen näkökulmasta, ja silloin to-
+tesin, että minä olen valmis tekemään aloitteen siitä, että saisimme EU:lta mahdollisuuden
+jälleen kerran palata siihen, että tämä olisi vapaaehtoinen. Samoin sanoin, että kuuntelen,
+mitä eduskunnan ympäristövaliokunta asiasta on mieltä, ja olen valmis lähtemään myös
+kansallisiin sisältöä koskeviin lainmuutosvalmisteluihin sen mukaan, mitä ympäristövalio-
+kunta minua evästää. Ympäristövaliokunta hyväksyi kaksi lausumaa, joiden toimesta sit-
+ten ryhdyin toimeen ja lähdettiin myös tätä sisällöllistä valmistelua tekemään. Muun muas-
+sa perustettiin työryhmä, missä oli Omakotiliitto mukana, otettiin muutama malli valmis-
+telun jatkoksi ja haluttiin valmistella tulevaa hallitusta varten malli, jossa olisi myös esi-
+merkiksi Omakotiliiton näkemys vahvasti mukana. [Timo Heinonen: Puhuin myöhäisem-
+mästä ajasta!] 
+
+Sitten loppui vaalikausi, ja nyt olemme odotelleet, mitä tapahtuu. Mutta silloin, kun
+minä tulin, edustaja Heinonen, ministeriksi, oli jo olemassa nykyinen lainsäädäntö energia-
+todistuksista. Tulin siinä vaiheessa, kun tämä kansalaisaloite omakotitaloista oli. Pyydän
+edustaja Heinosta todellakin, että kun siellä innokkaasti nyt googlaatte, niin ottakaapa se
+kansalaisaloitekeskustelu sieltä... [Timo Heinonen: En puhu siitä ajasta!] — Ei, kun se on
+juuri se aika, kun tulin ministeriksi, edustaja Heinonen. Se on ihan olennainen asia.
+
+17.49 Ari Torniainen kesk: Arvoisa herra puhemies! Vaikka nyt onkin käsittelyssä lupa-
+menettelyjen yhteensovittamisesta oleva hallituksen esitys, niin tämä keskustelu on kään-
+tynyt nytten energiatodistuksiin ja käytännössä omakotitalojen energiatodistuksiin, minkä-
+laiset niiden tulee meillä Suomessa olla tällä hetkellä. 
+
+Olen itse lämpimästi, mielenkiinnolla kuunnellut tätä keskustelua ja olen kyllä edusta-
+jien Viitanen ja Heinäluoma kanssa samaa mieltä siitä, että meillä tällä hetkellä tulisi pa-
+rantaa sitä käytäntöä, millaiset energiatodistusten tulee olla. Tällä hetkellähän energiato-
+distukset ovat hyvin laskennallisia ja siinä, miten ne lasketaan, otetaan erilaisia kertoimia
+ja muuttujia huomioon. Itse toivoisin, että kaiken kaikkiaan energiatodistus olisi enemmän
+todellisuuteen perustuva ja kulutukseen perustuva, miten nimenomaan se energiankulutus
+omakotitalossa menee, ja otettaisiin enemmän huomioon myöskin, mistä se energia tulee ja
+mitä energiaa käytetään siellä omakotitalossa. 
+
+Kaiken kaikkiaan, kun itsekin muistelen, miten viime kaudella käytiin tätä keskustelua
+ja tämänkin kauden alussa käytiin tätä energiatodistuskeskustelua, kyllä itse lämpenin sille
+ajatukselle, minkä Omakotiliitto toi esille ja miten hekin kokevat, että energiatodistukset
+tulisi laatia. Kaiken kaikkiaan kuitenkin energiatodistusasia on meille tullut EU:sta ja EU:n
+lainsäädännöstä, ja sitten se on otettu meillä lakiin ja asetuksiin, asetusten kautta käytän-
+töön. 
+
+Olen huomannut — ihan samalla tavalla niin kuin, taisi olla, edustaja Heinäluoma kertoi
+— että kun on katsonut asuntojen myynti-ilmoituksia, niin aika monessa myynti-ilmoituk-
+sessa näyttää vielä olevan, että ei ole sitä e-todistusta siellä kuitenkaan olemassa. Itse toi-
+von, että kun niitä e-todistuksia nyt vaaditaan, niin e-todistusten hinnatkaan eivät olisi ko-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+vin korkeita. Sitä keskustelua käytiin silloin viime kaudella etenkin, että mihin hintataso
+nousee, kun energiatodistus laaditaan. 
+
+Itse toivon, että tämä energiatodistuskeskustelu kaiken kaikkiaan nostetaan vielä esille
+ja paneudutaan siihen hyvin ja tehdään energiatodistuksesta enemmin käytännönläheinen.
+
+17.52 Eero Heinäluoma sd: Arvoisa puhemies! Palaan vielä tähän energiatodistusasiaan,
+joka sekin kuuluu ympäristöministeriön toimialaan ja joka on tärkeä, kun näistä byrokra-
+tiatalkoista puhutaan. Täytyy sanoa, että minä en näe mitään syytä, minkä takia vanhoissa
+omakotitaloissa pitäisi tällaista todistusta vaatia. Miksi en näe? Sen takia, että ei se kerro
+todellista kulutusta ja on hyvin vaikea näistä piirustuksista arvioida, mikä se todellinen ku-
+lutus on, koska kysymys on siitä, että kun talot ovat vanhoja, niin mitä ne piirustukset enää
+kertovat siitä todellisuudesta. Eihän pidä myöskään aliarvioida omakotitalon ostajia. Kyl-
+lähän he katsovat, mikä lämmitysmuoto siellä on, onko öljylämmitys esimerkiksi, onko
+suora sähkölämmitys, onko maalämpö tai onko ilmalämpöpumput tai vesilämpöpumput, ja
+siltä pohjalta he tekevät johtopäätöksiä. Ja sitten tietenkin, kun katsotaan, kuinka paljon
+sitä öljyä on mennyt ja kuinka paljon sähköä on mennyt, näkee sen todellisen kulutuksen,
+ja sen voi katsoa pidemmältä aikaa.
+
+Tämä on malliesimerkki sellaisesta sääntelystä, joka tulee muiden maiden todellisuu-
+desta. Suomessa ihmiset edelleenkin asuvat omakotitaloissa, siis lähes 3 miljoonaa ihmis-
+tä, mutta eihän näin ole Saksassa tai Ranskassa tai Italiassa. Näissä maissa lähtökohta on
+kerrostalotodellisuus, ja siellähän tämä tällainen säädös, jossa on energiatodistus, on help-
+po toteuttaa. Tosin en ole kyllä ihan varma, kuinka monessa italialaisessa kerrostalossa
+tämä on otettu käyttöön — vähän rohkenen epäillä, että suhtautuminen näihin säädöksiin ei
+ole ihan samanlaista kuin täällä meillä. Mutta meillä tämä on ongelma, tämä koetaan kiu-
+santeoksi. Uusissa taloissa, jotka valmistetaan ja joista tehdään piirustukset, se tulee var-
+maan sen normaalin suunnittelutyön yhteydessä.
+
+Mutta kysyn edelleenkin, eikö tämän pitäisi olla meidän yhteinen intressi, että tämä
+poistetaan, ihan niin kuin eduskunta viime kaudella päätti, että Suomen pitää tehdä ehdo-
+tus EU:lle. Tällä kaudella piti olla tämän direktiivin tarkastelu, jossa tämän ehdotuksen oli-
+si voinut tehdä, mutta nyt tässä on tullut kummallinen hiljaisuus. Minusta tämän ei pitäisi
+olla mikään puoluepoliittinen kysymys vaan ihan terveen järjenkäytön kysymys. Se edel-
+lyttää sitä, että me mietimme nämä säännökset, joita meille tarjotaan myös Euroopan unio-
+nista, ja sitten katsotaan, ovatko nämä järkeviä, johtavatko ne siihen hyvään tarkoitukseen,
+joka on sanottu, niin kuin energiankulutuksessa. Ja kun näin katsoo, niin tulee siihen joh-
+topäätökseen, että tämä energiatodistus on tältä osin aivan rahanhukkaa vanhojen omako-
+titalojen osalta ja rahan heittämistä Kankkulan kaivoon. 
+
+17.55 Timo Heinonen kok: Arvoisa herra puhemies! Korjataan virhe: Ison valtakunnalli-
+sen lehden uutisessa oli väärin, minkä myös näytin edustaja Viitaselle. Siinä hänen piik-
+kiinsä oli laitettu tämä kaikille taloille tullut energiatodistus ja korjataan tämä. Eli tämä ta-
+pahtui marraskuussa 2012, ja silloin asuntoministerinä toimi Krista Kiuru, mutta sosiaali-
+demokraatti hänkin, eli sosiaalidemokraattisen asuntoministerin toimesta tämä laajeni kos-
+kemaan kaikkia taloja. Ja nyt olen tyytyväinen siihen, että meillä on aika yhtenevä käsitys
+täällä, että energiatodistuksista pitäisi päästä eroon, kun ne eivät kerro sitä todellista kulu-
+tusta ja eivät edes anna todellista kuvaa rakennuksista. Mutta nyt korjattiin tämä, ja pahoit-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 167/2018 vp
+telen, että tuon virheellisen uutisen pohjalta mainitsin väärän sosiaalidemokraattisen asun-
+toministerin tämän toimenpiteen aikaansaajaksi.
+
+Aivan oma asiansa on myös sitten kuntoarviot, jotka ovat tässä maassa hyvinkin villin
+lännen toimintaa, mutta ei mennä niihin tällä kertaa.
+
+Mutta näin tuli tuo korjattua, ja asia on minun osaltani loppuun käsitelty.
+
+17.56 Pia Viitanen sd: Arvoisa puhemies! On ihan hyvä, että nyt tuli selville se, että
+omalta osaltani tulin ministeriksi nimenomaisesti siinä mielenkiintoisessa vaiheessa — on
+hieno kunnia saada tulla ministeriksi ja uusia haasteita edessä — ja hetikohta tuli tosiaan
+tämä kansalaisaloite. Oli upeaa ajatella, että hetkinen, nyt ministerinä voin toimia kansa-
+laisten tahdon mukaan, ainakin ilmaista, että jos joku asia on väärin, niin olen valmis sitä
+korjaamaan. Ei niin, että sanotaan, että tuore laki, EU pakottaa, emme voi tehdä mitään, kä-
+det ylös, vaan sitten pitää lähteä siitä, että no jos EU pakottaa, niin voisimmeko sielläkin —
+niinä vuosina EU:ssa puhuttiin norminpurusta hyvin voimakkaasti, REFIT-henki siellä oli
+— nyt sitten lähteä vaikuttamaan emmekä nostaisi käsiä ylös. Ja samoin jos kansallisessa
+lainsäädännössä oli ongelmia tämän muotokertoimen kanssa, niin minä olin valmis sitä
+korjaamaan. Jouduin joskus katsomaan aivan hirveitä kirjauksia, mitä sieltä direktiivistä
+tuli, missä yritettiin selittää, miksi se muotokerroin jonkunmuotoisena on pakollinen, ja
+muistan sen lukeneeni tuolta eduskunnan pöntöstä, että tällaista tekstiä täällä on. Mutta
+asiat on tehty muutettaviksi, ja siksi tämä prosessi käynnistettiin. Kiitin todella monta ker-
+taa myös Omakotiliittoa, joka oli tehnyt tämän arvokkaan kansalaisaloitteen, josta sitten
+tosiaan kaksi lausumaa eduskunnalta seurasi.
+
+Mutta mikä tässä oli se yksi syy, miksi meillä se on tällä hetkellä pakollinen vanhoille
+omakotitaloille ja miksi meillä on sisällöllisesti ollut näitä muotokerroinasioita, niin sehän
+tulee sieltä EU:n direktiivistä, joka aluksi ei esimerkiksi sisältänyt tällaista pakollista muo-
+tokerrointa, eikä aluksi Suomen ollut edes pakko ottaa vanhoja omakotitaloja siihen mu-
+kaan. Mutta se direktiivi ja sen tulkinta muuttuivat matkan varrella prosessissa EU:ssa, ja
+se taisi silloin olla juuri tämä ratkaiseva muutos, mikä ikään kuin pakotti Suomen teke-
+mään viime kauden alussa sen lain, mihin Heinonen äsken viittasi. Se tuli EU:sta sillä kau-
+della, kun asuntoministerinä toimi kokoomuksen Vapaavuori. Selvitin hyvin tarkkaan sil-
+loin nämä taustat ja muistaisin, että se EU-prosessi tässä ratkaisevassa kohdassa sijoittuu
+niille vuosille.
+
+Mielelläni uudestaan kertaan nämä, koska tämä oli kiinnostava tarina.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 269/2018 vp sisältyvien 1.-12. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+12
+
+

@@ -1,0 +1,800 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM3043.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 145/2018 vp
+
+Täysistunto
+
+Tiistai 22.1.2019 klo 14.00—16.29
+
+7. Hallituksen esitys eduskunnalle laiksi kuntalain muuttamisesta
+Hallituksen esitys HE 280/2018 vp
+Valiokunnan mietintö HaVM 24/2018 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 7. asia. Käsittelyn pohjana on hallintovaliokunnan mietintö HaVM 24/
+2018 vp. Nyt päätetään lakiehdotuksen sisällöstä.
+
+Keskustelu
+
+15.01 Toimi Kankaanniemi ps: Arvoisa herra puhemies! Kysymyksessä on siis kunta-
+lain muutos siltä osin, että erityisen vaikeassa taloudellisessa asemassa olevan kunnan ar-
+viointimenettelyn käynnistämisen edellytyksiä esitetään tarkennettaviksi ja muutettaviksi.
+Ensinnäkin suhteellista velkaantuneisuutta kuvaava tunnusluku ehdotetaan korvattavaksi
+lainanhoitokykyä kuvaavalla konsernitilinpäätöksen laskennallisella lainanhoitokatteella.
+Toiseksi negatiivinen vuosikate ehdotetaan korvattavaksi tunnusluvulla, jolla verrataan
+konsernituloslaskelman vuosikatetta poistoihin. Lisäksi otetaan vuokravastuut lainamää-
+rää kuvaavassa tunnusluvussa mukaan, ja vielä sitten tuloveroprosentin tasoa esitetään
+nostettavaksi. 
+
+On ihan paikallaan, että nämä muutokset kuntalakiin tehdään. Kuntien itsehallinto eli
+kuntalaisten itsehallinto on meillä perustuslaissa säädetty, ja silloin kun puututaan kunnan
+olemassaoloon jopa näillä arviointimenettelyillä, ollaan tekemisissä siis vakavien asioiden
+kanssa. Tältä osin niiden tekijöiden, joilla näitä päätöksiä tehdään, tulee olla sellaisia, että
+ne kuvaavat todellisuutta, juuri sitä kunnan tilannetta, missä kukin kunta on. Eli on hyvin
+tärkeää, että tämä toteutuu. 
+
+Viime vaalikauden aikana, 2011—2015, lukuisa määrä kuntia ajautui taloudellisiin vai-
+keuksiin ja tähän arviointimenettelyyn ja kuntaliitoksiin lopulta. Silloin tietysti oli valtion
+politiikka sellaista, että kuntien valtionosuuksia ei pidetty asianmukaisella tasolla. Kunti-
+en velkamäärä kasvoi 10 miljardista 17 miljardiin, lukuisten kuntien veroprosentit nousi-
+vat, henkilöstöä vähennettiin, ja mikä ikävintä, palvelut heikkenivät. Nyt ollaan siinä tilan-
+teessa, että tällä vaalikaudella ei ole kuntia ajautunut arviointimenettelyyn, mutta vaara on,
+että jälleen näin alkaa käydä. Kun tässä nyt maakuntauudistustakin ainakin yritetään, nämä
+kuntien tilanteet muuttuvat senkin myötä niin, että kunnan omat liikkumismahdollisuudet
+taloutensa korjaamiseksi ovat entistä vaikeammat ja ahtaammat, kun sosiaali- ja terveys-
+menot poistuvat kunnan taloudesta. 
+
+Tältä osin totean, että toivottavasti ensi kaudella ei tarvita näitä arviointimenettelyjä,
+mutta on hyvä ja tärkeää, [Puhemies koputtaa] että niiden tekijät ovat kuitenkin kunnossa.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+15.04 Antti Kurvinen kesk: Arvoisa puhemies! Tämä kuntalain muutos käsittelee pää-
+osin niin sanotun kriisikuntamenettelyn käynnistämistä ja sitä, minkälaisessa taloudellises-
+sa tilanteessa ja minkälaisten taloudellisten mittarien perusteella kriisikuntamenettely sit-
+ten voidaan käynnistää. Voisi sanoa näin karkeasti, että tässä halutaan tuoda enemmän
+konsernitason lukuja, jotta tavallaan tämä uudessa, vuonna 2015 voimaan tulleessa kunta-
+laissa oleva kuntakonserniajattelu tulisi myös tässä kriisikuntamenettelyssä vahvemmin
+esiin, ja tällä esityksellä halutaan myös ennaltaehkäistä vähän tällaista niin sanottua kon-
+sernikikkailua, sitä, että siivotaan emäkunnasta, varsinaisesta kunnasta, omaisuutta, toi-
+mintaa esimerkiksi kunnallisiin yhtiöihin niin, että kunnan talous näyttäisi paremmalta,
+vaikka sitten ne todelliset ongelmat ovat siellä konsernissa mukana olevissa yhtiöissä.
+
+Arvoisa puhemies! Tällä ei ole mitenkään erityisesti tarkoitus kiristää tätä ruuvia tai jo-
+tenkin ajaa enemmän kuntia kriisikuntamenettelyyn vaan nimenomaan löytää sellaisia tun-
+nuslukuja, joilla poimittaisiin niitä kuntia, jotka todella ovat sellaisissa syvissä vaikeuksis-
+sa, jotka uhkaavat, että se kunta ei voi lakisääteistä tehtäväänsä täyttää ja turvata peruspal-
+veluja asukkailleen.
+
+Puhemies! Niin kuin tuossa edustaja Kankaanniemi toi hyvin esille, tällä vaalikaudella-
+han kuntatalous on Suomessa vahvistunut, ja voi sanoa, että se politiikka, mitä Sipilän hal-
+litus on harjoittanut kuntia kohtaan, on ollut erittäin järkevää ja oikeudenmukaista. Ei ole
+tehty sellaisia valtionosuusleikkauksia, joilla olisi ikäviä arvovalintoja työnnetty kunnille,
+vaan on annettu asialliset valtionosuudet, mitä tarvitaan kunnille asetettujen tehtävien täyt-
+tämiseen, ja toivottavasti tämmöinen henki jatkuu myös tulevalla vaalikaudella.
+
+Puhemies! Tässä lakiesityksessä on myös sellainen pieni lisämuutos, joka ei ole hirveän
+velvoittava kunnille mutta on kuitenkin periaatteellisesti tärkeä, että nyt yritetään rohkais-
+ta kuntia siihen, että ne tunnistaisivat niin sanotun monipaikkaisuuden elikkä sen, että
+meillä on ihmisiä, jotka entistä useammin elävät kahdella paikkakunnalla, voi olla vaikka
+vapaa-ajanasunto maaseudulla, vaikka kotiseudulla, ja sitten voi olla toinen asunto vaikka
+kaupungissa, tai voi olla useampikin paikkakunta opiskelun tai työn kautta. Tällä esityk-
+sellä myös kannustetaan kuntia, että ne omassa sisäisessä demokratiassaan huomaisivat tä-
+män monipaikkaisuuden entistä paremmin, ja olemme, puhemies, hallintovaliokunnassa
+olleet myös tämän asian osalta yksimielisiä.
+
+15.07 Hannu Hoskonen kesk: Arvoisa puhemies! Lyhyesti:
+Suomalainen demokratia perustuu erittäin vahvasti kunnalliseen itsehallintoon, se on
+
+perustuslailla vahvasti suojattu, ja kunnallisen itsehallinnon tämän päivän suurimmat on-
+gelmat ilmenevät lähes aina nimenomaan kunnan talouden kautta. Ja monessa yhteydessä,
+niin kuin edustaja Kurvinen hyvässä puheenvuorossaan mainitsi, kuntakonsernin kokonai-
+suuden katsominen rehellisesti ja eri tunnusluvuilla, että missä kunnossa se kunnan talous
+oikeasti on, on hallintovaliokunnan kirjoittaman hyvän mietinnön syvin ydin. Monessa
+kunnassahan kaikki näyttää päällisin puolin vilkaisten hyvältä, mutta niissä kunnan omis-
+tamissa erilaisissa yhtiöissä voi olla suuria velkataakkoja, ja ne aiheuttavat sitten tosiasias-
+sa sen tilanteen, että kunnan taloudellinen tilanne on uhanalainen ja nimenomaan uhkaa sit-
+ten koko sen kyseisen kunnan itsehallintoa ja mahdollisuutta selvitä niistä velvoitteista,
+mitä kunnalle on lailla säädetty. 
+
+On syytä muistaa kuitenkin yksi juttu ennen kuin lähdemme ruoskimaan kuntapäättäjiä
+sen enempää, ja se on se, että valtiovalta omilla toimenpiteillään on aika pitkälti aiheutta-
+nut hyvin monen kunnan taloudellisen tilanteen vuosikymmenten saatossa. Otetaan nyt
+2
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+vaikka tyypillinen suomalainen maaseutukunta, jossa valtion erilaisilla toimenpiteillä on
+kavennettu elinkeinojen toimintaedellytyksiä, sanotaan nyt vaikka Lapissa: Siellä on kun-
+tia, joissa koko kunnan pinta-alasta on lähes 90 prosenttia erilaisissa suojeluohjelmissa, ja
+näiden alueiden taloudellinen käyttö on käytännöllisesti katsoen mahdotonta. Miten siinä
+pienellä präntillä sitten teet sitä hyvää tulosta ja tuotat kuntalaisille hyviä palveluita, kun
+toiminnan edellytykset on etukäteen pois rajattu. Valtiovalta ei ole korvannut näistä yh-
+tään penniä näille kunnille, ei mitään. Verot kyllä kerätään sieltä kunnista pois, kun mak-
+setaan arvonlisäveroa, maksetaan valtionveroa ja monta muuta lakiin perustuvaa maksua,
+mutta sitten vastapalveluna valtio rauhoittaa erilaiset alueet, että eipä sinne saa rakentaa, ei
+siellä saa hakata metsiä eikä saa paljon mitään muutakaan tehdä. Elikkä kyllä tässä salissa
+pitäisi jokaisen kansanedustajan tuntea nyt pisto sydämessään, että miksi näin on toimittu.
+Sama koskee osittain kotikuntaanikin. Siellä on valtavia alueita laitettu erilaisiin suoje-
+luohjelmiin, on tullut haittaa elinkeinotoiminnalle. Olemmeko saaneet mitään korvauksia?
+Emme juuri mitään. Lupauksia on kyllä tullut, mutta sitten taas niiden lupauksien takana ei
+ole ollut yhtään euroa rahaa. Tämä on se iso ongelma.
+
+Hyvä, että näitä laskentamenetelmiä kehitetään ja parannetaan, se on erinomainen asia,
+mutta valtiovallan pitäisi tässä salissa kiinnittää paljon, paljon isompaa huomiota varsin-
+kin Suomen maaseutukuntien taloudelliseen tilanteeseen — mahdollisuuksia taloustoimin-
+taan on, kun vihdoin ja viimein vapautettaisiin. Otetaan yhtenä esimerkkinä vaikka nyt tä-
+män päivän keskustelu metsien käytöstä: kun lehtiä lukee ja puheita kuuntelee, niin lähes
+tuntuu, että metsien käyttökin pitäisi kohta kieltää, kun se kuulemma uhkaa koko maail-
+maa, jos metsiä harvennetaan.
+
+15.10 Sari Essayah kd: Arvoisa puhemies! Nämä kuntalain muutokset tosiaan merkitse-
+vät tarkennuksia niihin tunnuslukuihin, joitten perusteella sitten tämä kriisikuntamenettely
+käynnistetään. Voi sanoa, että tällä halutaan nimenomaan huomioida konsernitilinpäätök-
+sessä piilevät, yhtiössä olevat mahdolliset riskit koko kuntakonserni huomioiden. 
+
+Itsekin olen ollut mukana sellaisen kunnan valtuustossa, jossa ensin tilinpäätös näytti
+varsin mukavalta, mutta sitten, kun otettiin huomioon koko konserni ja siellä konserniyh-
+tiössä olevat riskit, niin oltiinkin ihan toisenlaisissa tunnusluvuissa ja huomattavissa vai-
+keuksissa. 
+
+Tänä päivänähän usein on se tilanne, että nämä riskit kuntien omistamissa yhtiöissä saat-
+tavat jäädä varsin piileviksi ja ehkä vasta siinä vaiheessa, kun tilinpäätös karulla tavalla
+osoittaa ne luvut, havahdutaankin siihen, että jotakin on tehtävä. Siinä mielessä tällaiset
+tarkennukset ovat varmasti kyllä paikallaan ja totta kai se, että me kunnissa pystyisimme
+kuntapäättäjinä yhä paremmin valvomaan myöskin sitä, mitä näissä konserniyhtiöissä ta-
+pahtuu siinä matkan varrella, emmekä tyytyisi vain niihin tilinpäätöstietoihin, ja näihin ris-
+keihin pystyttäisiin puuttumaan hyvinkin ajoissa. 
+
+Tässä yhteydessä haluan nostaa esille mahdollisen maakuntahallinnon muodostamisen
+ja siellä mahdolliset riskit siitä, kun esimerkiksi kuntien sote-kiinteistöjä ollaan muutta-
+massa maakuntien omistukseen. Ja täytyy sanoa, että toivon mukaan kunnissa käydään hy-
+vin huolellisesti läpi se omistuksessa oleva kiinteistö, massa ja toisaalta ne arvostukset,
+mitä siellä kirjanpidossa on, ja huomioidaan myöskin kunnalla olevat velat ja tämä konser-
+nikokonaisuus. Elikkä on kyllä äärimmäisen tärkeää, että näissä mahdollisissa siirroissa,
+jos tätä maakuntahallintoa ollaan rakentamassa, kunnat eivät sitten ajaudu talousvaikeuk-
+siin sen tähden, että ne eivät varsinaisesti ole tehneet minkäänlaisia itse harkittuja riskisi-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+joituksia vaan ovat noudattaneet sitä valtiolta tai eduskunnasta tulevaa lainsäädäntöä, mil-
+lä tätä ollaan toimeenpanemassa. 
+
+Tietysti tässä yhteydessä täytyy sanoa, että koko maakuntahallintoa kuntien itsenäisyy-
+den näkökulmasta olisi syytä kyllä tarkasti harkita ja erityisesti näitä riskejä, mitä sisältyy
+kuntien omaisuuden siirtoihin. 
+
+15.12 Markku Eestilä kok: Arvoisa puhemies! Jatkan tästä edustaja Essayah’n jutusta
+sen verran, että kun kunnilla tai kuntayhtymillä nyt on omaisuutta ja se siirtyy maakunnil-
+le, niin suinkaan kaikki kiinteistöt eivät siirry loppuelämäksi, vaan siinä taitaa olla se kol-
+me vuotta — en ole kyllä nähnyt viimeisiä versioita, missä ne menevät. Mutta siinä tullaan
+juuri tähän tilanteeseen, että kunta on satsannut niihin, mutta kun nyt kunnan oma elin-
+keinopoliittinen päätösvalta siirtyy maakunnalle, se kiinteistö, missä kunta on ajatellut toi-
+mintaa jatkaa, ei ole enää omassa päätösvallassa. Se saattaa johtaa siihen, että se omaisuus,
+mikä kenties on investoimalla ja aika vastakin tehty hyvään kuntoon, saattaa pahimmassa
+tapauksessa jäädä ilman käyttöä. Me tiedämme, että perustuslaissa oleva omaisuudensuoja
+ei koske kuntia tai kuntayhtymiä, siis julkista omaisuutta, mutta jos se omaisuus olisi yk-
+sityisen, niin sitä se koskisi, ja tämä tuottaa suuria ristiriitoja tulevaisuudessa. Saa nähdä,
+miten valtio tulee tämän asian hoitamaan.
+
+15.13 Toimi Kankaanniemi ps: Arvoisa puhemies! Tässä on ollut hyviä ajatuksia jo esil-
+lä. Jos maakuntahallinto ja soten siirtyminen maakunnille toteutuvat, niin se kyllä minun
+nähdäkseni peruskuntien osalta helpottaa kuntien talouden suunnittelua jopa merkittävästi
+sen tähden, että kunnissa tänä päivänä ja tässä viime aikoina on kaikkein vaikeimmat tilan-
+teet koettu sen tähden, että kesken vuoden erikoissairaanhoidon yleensä kunnalle valtavan
+iso lasku kasvaa yllättävästi ja aiheuttaa kunnan talouteen kesken kaiken suuren ongel-
+man, jota ei ole pystytty talousarviota laadittaessa ottamaan huomioon. Tämä poistuu, kun
+tämä lasku jääkin maakunnan maksettavaksi. Toinen samantyyppinen on lastensuojelun
+kustannukset, jotka siirtyvät peruskunnalta maakunnalle. Ne ovat myös pienissä kunnissa
+erittäinkin dramaattisia. Jos tulee muutama lastensuojelutapaus kesken vuoden, niin sum-
+mat pyörivät aika mahtavissa luvuissa.
+
+Kun nämä poistuvat, niin kaksi suurta tekijää — on muitakin — poistuu, ja se tarkoittaa
+sitä, että kuntien pääasiallisiksi menoiksi eli ylivoimaisesti suurimmaksi pääluokaksi kun-
+tataloudessa jää sivistystoimi, ja yleensä kunnassa pystytään ennakoimaan lasten määrä.
+Niin varhaiskasvatukseen kuin peruskouluun, lukioon ja toisen asteen koulutukseen tule-
+vien lasten ja nuorten määrä pystytään arvioimaan ja sen tähden suunnittelemaan kunnan
+talous paljon paremmin kuin näitten arvaamattomien isojen tekijöiden mukana ollessa, niin
+kuin nyt tapahtuu.
+
+En silti pidä tätä maakunta-sote-uudistusta lainkaan ongelmattomana. Päinvastoin, va-
+linnanvapausmalli on täysi susi, ja sen tähden sitä ei voi hyväksyä, vaikka muilta osin tämä
+maakuntamalli on mielestäni ihan kelpoinen, ja oikeastaan sille ei kovin paljon vaihtoeh-
+toja löydykään.
+
+Arvoisa puhemies! Valtiovarainvaliokunta kävi viime viikolla Senaatti-kiinteistöjen
+vieraana, ja siellä saimme tästä maakuntien kiinteistölaitoksesta kyllä vakavaa tietoa, sel-
+laista tietoa, jota ainakaan valtiovarainvaliokunnalla ei ollut. Toivoisi, että jos joku valio-
+kunta vielä, sosiaali- ja terveysvaliokunta lähinnä, käy läpi näitä ongelmia, se palaisi vielä
+tähän maakuntien liikelaitoksien maakunnille aiheuttamaan suureen riskiin. Siellä on val-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+tavan isot summat, jotka nyt ovat aiheuttamassa ehkä yllättäviä vaikeuksia tuleville maa-
+kunnille, jos niitä meille tulee.
+
+15.16 Sari Essayah kd: Arvoisa puhemies! Tuossa edustaja Kankaanniemi hyvin kuvasi
+niitä toiminnallisia riskejä, mitä tällä hetkellä liittyy erikoissairaanhoitoon ja esimerkiksi
+lastensuojelun kustannuksiin. Toki niissäkin on sitten kuntien välillä tämmöinen oma ta-
+soitusjärjestelmänsä, mutta joka tapauksessa tulevakaan sote- ja maakuntauudistus sinäl-
+länsä ei tätä rahoitusriskiä ole poistamassa. Esimerkiksi näistä viimeisimmistä laskelmis-
+ta, mitkä vaikkapa kotimaakuntaani Pohjois-Savoa ovat koskeneet, täytyy sanoa, että se on
+kylmää kyytiä, kun lähdetään miinuspuolelta liikenteeseen rahoituksen suhteen ja ensim-
+mäisenä sitten joudutaan miettimään, mistä lähdetään palveluja karsimaan, että päästäisiin
+edes niihin lukuihin, missä tällä hetkellä ollaan rahoituksen suhteen. Siinä mielessä maa-
+kuntien väliset erot näissä valtiovarainministeriön laskelmissa ovat kyllä varsin isot, ja eri-
+tyisesti sellaisissa maakunnissa, joissa on sairastavuutta ja väestön ikääntyvyyttä ja erilai-
+sia sosiaalisia ongelmia keskimääräistä enemmän, nämä asiat vain korostuvat.
+
+Aivan niin kuin täällä edustajat Eestilä ja Kankaanniemi ovat todenneet, kyllä näihin
+siirtoihin, nimenomaan näihin kiinteistösiirtoihin, liittyy isoja riskejä, vaikka muistelen,
+että maakuntalaissa näitten rakennusten osalta on todettu jotenkin siihen tyyliin, että nämä
+siirrot eivät saisi aiheuttaa sitä, että kunta joutuu taloudellisiin vaikeuksiin. Mutta kun ei
+ole tarkemmin määritelty sitä, mitä tässä tapahtuu — erilaiset investoinnit, mitä kunnat
+ovat nyt ihan viime aikoina tehneet vaikkapa vanhoihin sote-kiinteistöihin, saattavat osoit-
+tautua varsin kalliiksi, kun kunnan kontolle jäävät ne velat, mitä näihin korjauksiin on käy-
+tetty, ja sitten todellakin voi käydä niin, että muutaman vuoden kuluttua todetaankin, että ei
+näillä sote-kiinteistöillä ole tarkoitusta — ja minkä tyyppisille vuokratasoille asetutaan ja
+muuta vastaavaa, niin tässä on valtavan paljon sellaisia kysymyksiä, jotka todellakin kun-
+tien näkökulmasta saattavat sitä taloutta heilutella vielä moneen suuntaan. Siinä mielessä
+täytyy vain todeta, että eduskunnassa varmasti asian käsittely jatkuu ja toivottavasti jatkuu
+niin pitkälle, että ollaan sitten jo lähellä tuota vaalipäivää, jolloinka näitä asioita päästäi-
+siin uudestaan pohtimaan ja korjailemaan sellaisia kupruja, mitä siellä sisällä on.
+
+15.19 Eero Heinäluoma sd: Arvoisa puhemies! Kun tässä yhteydessä on käsittelyssä
+kuntalain muutos, niin on kyllä syytä ilmaista huoli siitä, mitä Suomen kunnille tapahtuu
+tämän sote-uudistuksen yhteydessä. Meidän koko demokratia ja myös palvelut ovat raken-
+tuneet nimenomaisesti kuntien ja kunnallisen itsehallinnon varaan sadan vuoden ajan.
+Kansalaissodan muistovuoden yhteydessä on tehty paljon myös uutta tutkimusta. Mielen-
+kiintoinen havainto näistä tutkimuksista on, että kunnallinen päätöksenteko — entisten pu-
+naisten ja valkoisten ja myös tämän jaon ulkopuolella olleiden kokoontuminen hyvin no-
+peasti sodan jälkeen yhteisen kunnallishallinnon merkeissä — on ollut tärkeä suomalaisia
+yhdistävä tekijä vuoden 18 jälkeen. Sillä on ollut suuri vaikutus keskinäisen yhteisymmär-
+ryksen synnyttämisessä.
+
+Sitten tiedämme, että oikeastaan kaikki tärkeät hyvinvointipalvelut on rakennettu kunti-
+en varaan. Siellä on kirjastot, siellä on koulut, siellä on terveydenhuolto, siellä on lasten-
+hoito ja lasten auttaminen. Siis ei ole ymmärretty, kuinka suuri muutos nyt tässä ollaan te-
+kemässä, kun siirretään tehtävät maakunnille, ja sitten joutuu kysymään, mitä kunnille lop-
+pujen lopuksi jää. Mikä on se identiteetti, joka kunnilla tämän jälkeen on? Mikä on se yh-
+teys kansalaisilla, äänestäjillä päättäjiin tämän muutoksen jälkeen?
+5
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+Huomio kiinnittyy myös siihen, että olemme nyt tämän vuoden puolella kuulleet, että
+Tanska on kulkemassa juuri toiseen suuntaan kuin mitä meillä tehdään. He ovat luopumas-
+sa kokonaan maakuntahallinnosta ja katsovat, että nämä palvelut tehdään kuntien toimes-
+ta, vahvistetaan kunnallista puolta sosiaali- ja terveydenhuollon palveluissa. Jään kysy-
+mään, tulemmeko me tässä meidän maakuntakeskustelussamme vähän jälkijättöisesti tä-
+hän semmoisille tulille, jotka ovat jo sammumassa, ja syntyykö sitten iso vaurio sitä kaut-
+ta, että kuntien asema muuttuu radikaalisti ja se ihmisten kyky vaikuttaa asioihin siirtyy
+kauemmaksi.
+
+Tästä kunnallisen itsehallinnon ja kunnan asemasta ei ole tämän uudistuksen yhteydes-
+sä puhuttu juuri ollenkaan, ja itse katson, että kuntien tulevaisuus on suuri kysymys, jos
+tämä uudistus menisi eduskunnasta lävitse. Tietenkin täytyy muistaa, että asiahan on auki,
+ja me tiedämme, että eilen viimeksi on hallituspuolueiden riveissä tullut uutta ajattelua tä-
+hän asiaan, kun yksi edustaja on ilmoittanut, että hän ei voi jatkaa hallituspuolueen riveissä
+juuri tämän sote-uudistuksen takia. Kukaan ei tiedä sitä lopputulosta, mutta toivoisin, [Pu-
+hemies koputtaa] että kuntien kohtaloa ja merkitystä suomalaisten hyvinvoinnin rakenta-
+misessa ei unohdettaisi, kun keskustelua asiasta käydään.
+
+15.22 Toimi Kankaanniemi ps: Arvoisa herra puhemies! On yhdyttävä kyllä siihen nä-
+kemykseen, minkä edustaja Heinäluoma nosti esille kansan eri osien yhteen saamisesta
+sata vuotta sitten ja siitä lähteneestä kunnallishallinnon kehittymisestä demokraattisesti ja
+yhteisymmärryksessä. Sillä on äärettömän suuri merkitys ollut tämän kansakunnan hyvin-
+voinnin ja tasa-arvoisen kehityksen kestävien arvojen kannalta.
+
+Mutta hieman jäin miettimään edustaja Heinäluoman pohdintaa siitä, että kuntapohja
+nyt olisi niin arvokas, että siitä ei missään tapauksessa saisi esimerkiksi sosiaali- ja terveys-
+palveluja siirtää pois. Ottakaa huomioon, että tänä päivänä koko terveydenhuolto on miltei
+koko maassa kuntayhtymien, välillisen kunnallishallinnon, käsissä ja päätösvallassa, ja täl-
+lä uudistuksella maakuntapohjaisesti kootaan terveydenhuolto yhteen ja tulee maakunta-
+vaalit, jolloin sitten demokratia toteutuu suoraan. Kyllä minusta tämä malli on hyvä.
+
+Mutta sitä olen miettinyt koko ajan, että onko esimerkiksi sosiaalipuolen tehtävät ja van-
+hustenhuollon tehtävät ja tämäntyyppiset pakko ollut ottaa tähän mukaan. En olisi ottanut
+niitä, mutta se oli kompromissi silloin keväällä 15. Olisi hoidettu terveydenhuollon puoli,
+maakunnan liitot, pelastustoimi ja tällaiset tehtävät ja sitten vasta ihan rauhassa katsottu,
+sopivatko jotkut sosiaalipuolen tehtävät paremmin peruskunnalle vai maakunnalle. Ja sit-
+ten toisaalta olisi katsottu, mitä näille nyt valtiolla oleville kasvupalvelutehtäville kannat-
+taa tehdä. Nyt nekin lyödään kerralla maakuntaan, ja meillä on tällainen valtava möhkäle
+sitten käsittelyssä, jota ei neljässä vuodessa järkevästi saada hoidettua. Eli tässä mentiin
+minun mielestäni varmaan mallissa virheelliseksi, ja kun sitten siihen tuotiin markkinaeh-
+toinen valinnanvapaus, niin sehän sotki tämän koko homman.
+
+Mitä sitten tulee kuntien tehtäviin jatkossa, jos maakuntauudistus toteutuu, niin kyllä
+kunnille esimerkiksi jäävät MAL-tehtävät — maankäyttö, asuminen, liikenne — elinvoi-
+man ylläpitäminen, kehittäminen ja vahvistaminen, kulttuuri, tietysti ilman muuta sivistys
+ja koulutus, ja kunnille jää myös yleinen toimivalta, eli ne voivat ottaa muitakin tehtäviä,
+mitä ne katsovat parhaaksi. Pienimmät kunnat joutuvat kyllä aika ongelmalliseen ase-
+maan. Niille ei jää oikeastaan yhtään mitään tehtäviä, mutta ei niillä nytkään kyllä näitä
+ole. Kuntayhtymien kautta hoidetaan niin valtava osa niiden tehtävistä.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+15.25 Mika Kari sd: Arvoisa herra puhemies! Edustaja Kankaanniemi puuttui ihan hyvin
+muun muassa puheensa lopussa pienten kuntien asemaan. Nyt tämän kuntalain muutoksen
+yhteydessä, joka meillä hallintovaliokunnassa oli käsittelyssä, käytiin läpi myös kriisikun-
+tien arviointimenettelyn rakenteita, ja siltä osin valiokunnan työskentelyssä näkemys oli
+hyvin yhteneväinen, että on syytä kehittää näitä arviointimenettelyjä. Mitä edustaja Essay-
+ah tuossa edellisessä puheenvuorossaan sanoi, olen samaa mieltä, että meillä jää seuraaval-
+lekin kaudelle eduskunnassa paljon paljon pohdittavaa näissä asioissa.
+
+Tähän edustaja Heinäluoman aloittamaan demokratiakeskusteluun haluan yhtyä myös
+tässä yhteisessä rintamassa kuntien päätösvallan ja kuntademokratian puolustamisen näkö-
+kulmasta: 
+
+Sosiaali- ja terveysuudistuksen yhteydessä keskustelu sosiaali- ja terveysuudistuksen ta-
+voitteista, rakenteista ja niin edelleen on keskittynyt pitkälti terveyden osaan ja tämä sote-
+sanan so-puoli on jäänyt varjoon. Mutta kun me kunnalliset päättäjät olemme siellä oman
+kuntamme ja maakuntamme kauppakeskusten maitohyllyjen välissä, kyllä sinne se palau-
+te näistä sosiaali- ja terveydenhuollon asioista tulee kuntapäättäjälle tänä päivänä, ja us-
+kon, että jos joskus siirrytään maakuntamalliin, niin edelleenkin kunnan päättäjän ääreen
+kuntalainen omien huoliensa kanssa tulee. 
+
+Se suurempi kokonaisuus, jota toiminnan osalta yritetään koota leveämmille harteille,
+voi olla tulevaisuuden palvelujärjestelmän malli, mutta demokratiaa ei kuntalaisten näkö-
+kulmasta kuitenkaan pidä liian laajasti ulottaa isoille harteille, koska erilaisissa maakunta-
+malleissa tälläkin hetkellä — maakunnallisissa liikelaitoksissa tai maakunnallisissa sosiaa-
+li- ja terveydenhuollon kuntayhtymissä — nykyiset maakunnan ja kuntayhtymän valtuus-
+totkin ovat pääsääntöisesti kumileimasimia. Kuntayhtymän hallitus johtaa ja vie, ja maa-
+kunnan valtuustossa, jossa valta on fragmentoitunut eri puolueille ja sen lisäksi maakun-
+nan eri kunnille, ei tosiasiallista kuntademokratiaa ole sen pyhimmässä merkityksessä, jo-
+honka edustaja Heinäluoma viittasi Suomen tasavallan kuntahistoriassa. Sen tyyppistä
+demokratiaa ei kuntayhtymämalliin ole ainakaan tänä päivänä pystytty rakentamaan. Jos
+meille tulee suorat vaalit maakuntatasolle, pelkäänpä, että siinäkin tilanteessa terveyden ja
+hyvinvoinnin edistämisen kautta edelleenkin kuntapäättäjä on keskeinen toimija oman
+kuntalaisensa palveluiden järjestämisen ja tuottamisen näkökulmasta.
+
+15.28 Sari Essayah kd: Arvoisa puhemies! Edustaja Heinäluoma hyvin muistutti kunnal-
+lishallinnon merkityksestä suomalaisen sovun ja demokratian rakentamisessa, ja muiste-
+len itsekin kuulleeni tutkijan luennon tästä muistovuodesta 2018, jossa hän vähän hirtehi-
+sesti totesi, että kunnallistalous ja -hallinto oli heti alun alkaenkin niin vaikea tehtävä, että
+se oli syytä laittaa sitten eri osapuolten yhteiselle pöydälle, jolloin oli pakko lähteä raken-
+tamaan sopua, kun oli niin vaikeita ongelmia heti alusta alkaen edessä. Ja tänäkin päivänä,
+jos me katsomme kuntien talouskysymyksiä, usein tuntuu, että ei siellä oikeastaan tiedä ai-
+nakaan pienemmissä kunnissa, että mistäs puolueesta tuossa nyt pöydän toisella puolella
+oleva henkilö tulee, vaan tuntuu, että siellä on se kunnan yhteinen kuntapuolue, joka yrit-
+tää sitten miettiä, millähän tavalla tästäkin pinteestä päästään eteenpäin ja millä tavalla saa-
+taisiin säilytettyä säälliset palvelut alueella ja saataisiin talous pidettyä kunnossa. Elikkä
+tämmöinen kuntakonsensuspuolue tuntuu aika monissa kunnissa löytyvän sen tähden, että
+nämä kunnallishallinnon ja ehkä erityisesti nimenomaan tänä päivänä kunnan talouteen
+liittyvät kysymykset ovat niin kimurantteja.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+Tietysti ehkä se sellainen iso periaatteellinen kysymys on, mitä tässä maakuntahallin-
+nossa oikeastaan ollaan tekemässä sille kunnalliselle itsehallinnolle. Eräs kunnallishallin-
+non professori tuli minulle sanomaan, että miksi te niitä valinnanvapauksia ja muita viette
+sinne perustuslakivaliokuntaan, että hänen mielestään koko tämä kokonaisuus, se periaat-
+teellinen idea, että tämä suomalaisen kunnan hyvin vahva itsemääräämisoikeus ollaan täs-
+sä murentamassa, on hänen mielestään se kysymys, mikä siellä perustuslakivaliokunnassa
+pitäisi ensimmäiseksi tutkia ja sen jälkeen vasta sitten lähteä miettimään, onko näissä la-
+kien sisällöissä jotakin sellaista, joka saattaa olla ristiriidassa perustuslain kanssa esimer-
+kiksi yhdenvertaisuusnäkökulmasta.
+
+No, kaiken kaikkiaan sote varmasti tarvitsee kuntaa suuremmat harteet, ja uskon, että
+siitä on aika lailla yhtenäinen näkemys. Tiedämme tänäkin päivänä sen, millä tavalla sosi-
+aali- ja terveydenhuollon kustannukset ovat yksittäisille kunnille suuria vastattaviksi, ja
+tarvitaan joku rakennelma, onko se sitten sote-alue vai millä nimellä sitä kutsutaan. Mutta
+niin kuin edustaja Kankaanniemi tuossa edellä toi hyvin esille, sitten tähän samaan uudis-
+tukseen kun ympätään kaikki mahdolliset kasvupalvelut ja muut vastaavat, niin siitä kerta
+kaikkiaan tulee vain niin iso möhkäle, että sitä on mahdotonta viedä sellaisenaan läpi. Sit-
+ten tulee maakuntien keskinäisiä yhdenvertaisuusasetelmia, joita ei sitten edes näillä val-
+tiovarainministeriön alustavilla laskelmilla ole pystytty korjaamaan, vaan siinä tulee talou-
+dellisesti hyvinkin haastavia tilanteita. Mutta joka tapauksessa jollakin tavalla meidän tu-
+levaisuudessakin nämä sote-palvelut pitää järjestää, ja todennäköisesti se tapahtuu kuntaa
+isommissa yksiköissä.
+
+15.31 Eero Heinäluoma sd: Arvoisa puhemies! Palaan vielä tähän kunnan rooliin. Kyllä
+maakuntahallinnon voi valita, mutta olisi kohtuullista, että päätöksenteon yhteydessä avat-
+taisiin myös se näköala, joka kunnille tässä jää. Kun edustaja Kankaanniemi sanoi, että
+siellä on vielä monenlaista puuhaa ja on tätä elinvoimaosastoa, niin se on juuri näin, että
+siellä saa sitten elinvoimaharrastella kunnan ja kuntalaisten parhaaksi. Mutta jo nyt on
+kuultu seuraava vaihe, jos tämä uudistus toteutuu, eli kyllähän jo nyt on sanottu, että seu-
+ravaksi sitten, kun on saatu tämä sosiaali- ja terveyspuoli maakuntaan, siirretään ammatil-
+linen koulutus ja lukiot. Näin tässä tulee, hyvät kollegat, käymään. Jos tämä nyt synnyte-
+tään, niin tulemme näkemään, että seuraavaksi tämän uudistuksen arkkitehdit haluavat sin-
+ne ammatillisen koulutuksen ja lukioratkaisun. Loppujen lopuksi kuntaan jäävät se pieni
+peruskoulu ja sitten kunnan teiden kunnossapito, vaakuna ja historiakerho, joka kertoo
+kunnan suuruuden päivistä menneen vuosisadan aikana, mutta muuten toiminta siirtyy pois
+maakuntaan. Voihan se olla hyväkin ratkaisu, en sitä sano, mutta päivänselvää on, että täs-
+tä seuraa, että tämä karkaa ihmisiltä kauemmaksi. Ei tämä tule lähemmäksi, tämä tulee
+kauemmaksi, ja päätöksentekijöitä siellä maakunnassa ei joka kuntaan riitä eikä joka kun-
+nan, kylän kulmalle. 
+
+Tämä on ihan totta, mitä edustaja Essayah sanoi vanhustenhoidosta. Voi kysyä, mikä sy-
+nergiahyöty tulee, kun vanhustenhoito, josta voisi hyvin ajatella, että se on semmoinen
+kunnan perusasia, siirretään maakuntaan. Miten maakunnan päättäjä sitten osaa katsoa,
+mikä on Jalasjärvellä tai Haapavedellä oikea ikäihmisten palveluiden mitoitus — arveli-
+sin, ettei mitenkään, sen paremmin virkamies kuin luottamuspäättäjäkään, jos ei satu siltä
+alueelta olemaan. 
+
+Tästäkään puolesta ei ole juurikaan puhuttu, kun tätä on viety eteenpäin, joten pahaa pel-
+kään, että tässä tulee aika monta yllätystä vielä vastaan, kun tätä uudistusta, jos se sattuisi
+8
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+tästä salista menemään lävitse, sitten lähdetään toteuttamaan. No, minä ymmärrän, että hal-
+lituspuolueet ovat siihen hyvin tyytyväisiä, että tämä kuitenkin tulee voimaan vasta vaali-
+en jälkeen, niin että vaikutukset eivät ehdi tulla kansalaisille selväksi ennen vaaleja. Sitten
+niitä korjailee seuraava hallitus ja seuraavan hallinnon päättäjä. 
+
+Kuva kunnan tulevaisuudesta jää kyllä vajaaksi tällä esittelyllä, mikä meille nyt tästä
+sote-uudistuksesta tarjotaan. Sen takiahan tässä on myös eräitä kunnanjohtajia vahvasti
+vastaan, ei vain Helsingin pormestari Vapaavuori vaan useita muitakin, jotka näkevät, että
+kunnallisen demokratian puoli häviää tämän uudistuksen yhteydessä.
+
+15.34 Toimi Kankaanniemi ps: Arvoisa puhemies! Vähän hämmästyttää nyt veljien va-
+semmalta ajattelu tästä maakuntahallinnosta. Tässä tapahtuu niin, jos tämä toteutuu, että
+puolueiden piirijärjestöt asettavat maakuntavaaleihin ehdokkaat, maakunnan asukkaat va-
+litsevat näiden väliltä, eivät valitse kunnittain vaan maakunnittain. Ja ne menevät vähän
+niin kuin kansanedustajat maakunnasta, eli ei ole kukaan sanonut, muualla kuin Helsingis-
+sä, mistä kunnasta tulevat tänne seuraavat kansanedustajat. Niin käy maakuntavaaleissa-
+kin. Ja maakuntavaltuutettu ei edusta mitään kotikuntaansa vaan maakuntaa ja puoluet-
+taan. Näin tähän tulee pohjaksi poliittinen päätöksenteko, [Eero Heinäluoma: Sitähän tässä
+juuri pelätään!] joka nojaa kansaan suorissa vaaleissa, ja tämä on minusta demokratiaa, eli
+se toteutuu. Nyt se ei toteudu ihan aidosti. Minä olen ollut muutamassa kuntayhtymässä ja
+tiedän sen, että siellä on tänä päivänä kyllä aika usein niin, että me uuraislaiset tai me ha-
+luamme sitä sun tätä. Mutta maakuntavaaleissa valitut valtuutetut tarvitsevat ääniä muual-
+takin, ja silloin he joutuvat myös ajattelemaan koko maakunnan parasta. Tämä kokonai-
+suuden valtava möhkäle on iso ongelma. 
+
+Sitten vielä edustaja Kari totesi jotakin, että peruskunnan päättäjät kuitenkin päättävät
+siellä maakunnassa. Ei se niin mene. Ei peruskunta ole päättäjä siellä sen jälkeen, kun on
+maakuntahallinto tullut, jos se tulee. 
+
+Arvoisa puhemies! Sitten näistä pienistä kunnista vielä, minkä tässä oikeastaan tämän
+käsittelyssä olevan asian pohjaltakin pitäisi olla teemana, että jos nykyinen pieni kunta ha-
+luaa pitää kunnanjohtajan — palkata hänet — ja valtuuston ja hallituksen ja tehtäviä ei sil-
+lä kunnalla juuri mitään ole, niin se on niitten kuntalaisten kunnallisvaaleissa ilmoittama
+tahto, että näin on. Minusta kysymys tulee tänne valtion päättäjille: tuemmeko me val-
+tionosuuksilla tällaisen järjestelmän ylläpitoa vai uskallammeko täällä tehdä sellaista, ettei
+ole 311:tä kuntaa vaan olisi vähemmän? Minä en ole pakkoliitosten kannalla mutta en
+myöskään tarpeettomia kunnanjohtajia lähde puolustamaan, sitä, että ne pitää pitää valtion
+rahoilla pystyssä. 
+
+Sitten vielä se, että kyllä tämä elinkeino, elinvoimaisuus ja elinkeinopolitiikka kaikki-
+nensa on laaja-alainen kysymys, siihen kuuluvat kaavoitukset, asumiset, palvelut monelta
+osin. Kyllä se on niiden kuntalaisten etu, että se kunta on erittäin aktiivinen myös elin-
+keinopolitiikan, elinvoiman kehittämisen ja sitten tämän koulutuksen [Puhemies koputtaa]
+kehittämisen osalta.
+
+15.37 Hannu Hoskonen kesk: Arvoisa herra puhemies! Edustaja Heinäluoman käyttä-
+män puheenvuoron innoittamana hieman ihmettelen tuota hänen kantaansa demokratian
+toimivuuteen. Kyllä se on totta, mitä on sanottu näistä kuntayhtymistä. Kun siellä kunnan-
+valtuustoon valitaan vaalien jälkeen kuntayhtymien edustajat, ne menevät kyllä niin mo-
+nen mutkan kautta, että ei siinä kyllä oikeastaan demokratiasta ole kovin paljoa jäljellä.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+Käytännössä, niin kuin kotimaakunnassanikin, sinne valitaan suurimpien kuntien edusta-
+jat, ne vahvimmat vaikuttajat, joilla on suuria taloudellisia intressejä, ja sitten pienemmän
+kunnan edustajat joutuvat kyllä nuolemaan näppejään siellä — kahviakin saa tietysti juo-
+da, jos mieli tekee.
+
+Mutta, edustaja Heinäluoma, joka edustatte ylhäältä johdettua yhteiskuntaa parhaimmil-
+laan, ymmärrän sen teidän huolenne siitä suuresta asiasta, että päätösvalta valuu tuonne
+maakuntiin. Nimenomaan elinkeinopolitiikassa on niin, että ei enää ministeriössä päätetä-
+kään asioista vaan päätösvalta siirtyy sinne, missä ihmiset ovat. Eikös se ole tämän Thuky-
+dideen aikanaan Kreikassa keksimän demokratian syvin ydin: useimmat päättävät ihmis-
+ten asioista mahdollisimman lähellä sitä, missä ihminen elää. Tämähän ymmärtääkseni on
+demokratian syvin ydin, ja en jaksa ymmärtää, minkä takia tämä olisi uhka.
+
+Tänä päivänähän se uhka on juuri näissä kuntayhtymissä, joissa demokratia on niin mo-
+nen mutkan takana, että demokratiasta ei juuri tuoksua siellä käytävillä ole. Näin ollen toi-
+voisin, kun kerran käymme tätä periaatekeskustelua nyt tässä, että tunnustettaisiin kuiten-
+kin nämä tosiasiat, koska se kuitenkin pitemmän päälle on se ainoa oikea tie.
+
+Senkin, että elinkeinopolitiikan rahoista päättäminen siirtyy maakuntiin, minä näen
+mahdollisuutena. Kyllä maakunnassa varmasti on paljon, paljon enemmän viisautta näh-
+dä, mikä elinkeinopoliittinen ala vetää, mikä ei vedä, ja voidaan tällä keinoin sopia asioista
+ja kehittää sitä paikallista elinkeinoelämää tehokkaasti joka puolella. Kyllä se ministeriö
+on jostakin Ilomantsin näkökulmasta turkasen kaukana, ja jos se on paikallinen maakun-
+nan hallinto, joka sitä hoitaa, ja siellä ne kyseiset tuttavat virkamiehet, joiden luona on
+helppo käydä — jos Ilomantsista lähdetään ministeriössä käymään, siinä menee toista vuo-
+rokautta ennen kuin asia on hoidettu, ja pääseekö sittenkään, riippuu siitä, onko suurilla
+johtajilla kalenterissa aikaa. 
+
+Toivoisin, että tätä keskustelua käytäisiin tosiseikkapohjalta. Jos joku Helsingin kau-
+pungin pormestari Vapaavuori on huolissaan vallan kapenemisesta ministeriössä, niin toki
+hänen näkökulmastaan ymmärrän, miksi hän siitä huolissaan on, koska jos päätösvalta siir-
+tyy maakuntiin, sieltähän lähtevät rahatkin ja keskitetyn vallan ote heikkenee. Tämä ym-
+märtääkseni edustaa myös sitä sanomaani, demokratian syvintä ydintä, ja toivotan sen läm-
+pimästi osaltani tervetulleeksi.
+
+15.40 Mika Kari sd: Arvoisa herra puhemies! Täällä eduskunnassa on mukava keskustel-
+la kunta-asioista, koska niin monet kollegoista ovat oman alueensa kuntapäättäjiä ja varsin
+monet heistä vielä kokeneita sellaisia. Ja on mukava huomata täällä myös se, että me jaam-
+me laajasti yhteisen näkemyksen siitä, että nykyiset kuntayhtymät muodostavat jonkunlai-
+sen demokratianielun, demokratiavajeen, perusrakenteensa sisällä olevan logiikan kautta,
+kun edustetaan samaan aikaan kuntaa, edustetaan samaan aikaan puoluetta ja sitten tällä
+porukalla kokoonnutaan yhteen: välillä ollaan oman puolueen edustajia, välillä ollaan
+oman kunnan edustajia, jossain siinä välissä myös oman kunnan kuntalaisten edustajia.
+Mutta jos siirryttäisiin maakuntamalliin suorien vaalien kautta, niin edelleenkin nämä
+oman kunnan ihmiset, niin kuin edustaja Kankaanniemi viittasi, odottaisivat oman kunnan
+päättäjältä määrätietoista oman kunnan kuntalaisten palveluiden turvaamista ja heidän
+asioidensa ajamista. En usko, että se kuitenkaan katoaa. Jos verrokkia haetaan vaikka tästä
+parlamentaarisesta järjestyksestä, eduskuntatyöstä, niin tässä on samantyyppinen logiik-
+ka: varmaan meillä monella kansanedustajalla on omalta alueeltaan kuntalaisten toimesta
+paineita tuoda sille omalle alueelle.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+Haluan kiinnittää huomiota siihen, mihin edustaja Heinäluoma viisaasti viittasi. Jos syn-
+nytetään Suomi, missä ovat maakunnat, joille annetaan tehtäviä — jonkun verran myös
+ehkä tuotetaan mutta ennen kaikkea hallinnoidaan, sitä hallinnon riemua meille nyt tarjo-
+taan — jatkona varmasti on ammatillisen koulutuksen siirtäminen näille kuntayhtymille.
+Edustaja Kankaanniemi viisaasti viittasi siihen, että jo nyt annetaan kasvupalvelu- ja muita
+tehtäviä, jotka tekevät tästä varsinaisen möhkäleen. Eikö tämän kehityksen jatkona ole se,
+että pienille kunnille ei jää tehtäviä ja pikku hiljaa niiden kilven kiillottamisten jälkeen
+näille pienille kunnille ei myöskään jää enää kuntaa? Lopputulemana on se, mitä niin moni
+yrittää juosta, karhua polulta, karkuun: pienten kuntien siirtyminen historiaan perinnetoi-
+minnaksi ja Suomen suurkuntien syntyminen. On niitä suurkuntia sitten 40 tai 100, niitä on
+paljon vähemmän kuin 300.
+
+15.43 Eero Heinäluoma sd: Arvoisa puhemies! Olen peräänkuuluttanut sitä, että tämän
+uudistuksen yhteydessä pitäisi avoimesti kertoa, mitkä ovat vaikutukset kuntien kannalta.
+Nythän tavallaan valokeila vain pannaan maakuntahallintoon ja sanotaan, mitä kaikkea hy-
+vää ja kaunista sinne syntyy, mutta ei kerrota, mikä tulee olemaan kuntien todellisuus. En-
+nusteeni on, että se tulee olemaan katkeraa kalkkia, kun se tulee sitten lähivuosina ihmisil-
+le avautumaan.
+
+Kun puhutaan demokratianäkökulmasta, niin siinä voi esittää perusteltua kritiikkiä kyl-
+lä tänne kuntahallintotoimintaan, mutta pitää muistaa, että ei kaikki toiminta ole siellä kun-
+tain liitossa. Meillä on edelleenkin vanhustenhoito, jota kunnat suurelta osin tekevät itse,
+myös perusterveydenhuolto on monien kuntien käsissä. Nyt kaikki tämä siirtyy maakun-
+tiin.
+
+Sitten tulen tähän hallintonäkökulmaan, joka on tässä nyt vähän vaillinaisesti avattu
+maakuntahallinnon osalta. Pyydän tutustumaan hallituksen esityksiin tältä osin, katso-
+maan, mikä on se demokratia maakuntahallinnossa, kun päätetään esimerkiksi terveyden-
+hoidon asioista. [Ville Vähämäki: Uuteen valmisteluun!] Siis eihän se niin ole, että sinne
+tulee kansanvaltaisesti valitut päätöksentekijät, vaan sehän on rakennettu sillä tavalla, että
+sinne pitäisi oikeastaan valita virkamiehiä ja talouden osaajia, jotka tekevät päätökset.
+Maakuntavaltuustot saavat hyväksyä jonkun yleisen strategiapaperin, jossa on viisi kaunis-
+ta ja kymmenen hyvää, mutta ne yritetään pitää erittäin kaukana todellisesta päätöksente-
+osta, joka on sitä, millaiset palvelut meillä on Viitasaarella, esimerkiksi, tai Iisalmessa. Ei
+halutakaan, että yhteiskunnallinen päättäjä, kansalaisten valitsema päättäjä, tulee sano-
+maan, miten palvelut tehdään, vaan halutaan, että siinä on tällainen virkamiesajattelu taus-
+talla, ja itse voisin kuvitella, mikä tässä on perimmäinen motiivi. Kyllähän perimmäinen
+motiivi, oletan — en tiedä, mutta oletan — ja lähtökohta on, että kun päätöksenteko vie-
+dään kauemmas kansanvallasta tässä maakuntahallintoversiossa, mitä tulee sosiaali- ja ter-
+veyspalveluihin, niin palveluiden keskittäminen on helpompaa. Jostainhan ne luvatut sääs-
+töt edes sinne suuntaan pitäisi syntyä, ja siitähän sitä syntyy, kun lakkautetaan syrjäseu-
+duilla palveluita. Ja jotta se voidaan tehdä, niin ei sitä tehdä maakuntavaltuustossa, vaan
+päätöksenteko pitää osoittaa valikoidulle porukalle, jossa ei äänestäjän ääni liikaa kuulu. 
+
+Olen ihmetellyt sitäkin, että tätäkään ei ole avattu täällä salissa, ja olen ihmetellyt sitä,
+että kaikista maailman puolueista keskusta tekee tällaisen ehdotuksen, josta voi nähdä, että
+siinä on sisäänrakennettu palveluiden keskittämisen logiikka. [Puhemies koputtaa] Voi pa-
+run määrää, mikä tästä lähtee liikkeelle, kun todellisuus [Puhemies koputtaa] neljän vuo-
+den sisään selviää.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+15.46 Toimi Kankaanniemi ps: Arvoisa puhemies! Siitä olen täysin samaa mieltä edus-
+taja Heinäluoman kanssa, että raha tässä nyt ratkaisee. Rahaa näillä näkymin maakunnille
+ei tule edes alkuvaiheessa riittävästi, ja se johtaa siihen — niin kuin käytiin tässä taannoin
+asiakasmaksuista keskustelu — että asiakasmaksut nostetaan täyteen tappiin eikä anneta
+kellekään minkäänlaisia helpotuksia, koska ne rahat tarvitaan maakuntaan. Siitä huolimat-
+ta tällä rahoitusmallilla monen maakunnan rahat loppuvat lokakuussa. Mummomme ja
+vaarimme on hoidettava vuoden loppuun asti, ja tulee aukko, jota ei velalla voida pitkälle
+hoitaa. Silloin valtio joutuu maksamaan... [Eero Heinäluoma: Ei maakunta saa ottaa vel-
+kaa!] — Joo, maakunnalla kun ei ole verotusoikeutta, niin eihän se oikein voi velkaa ottaa,
+sillä kuka sitten maksaa sen velan. — Tässä ajaudutaan kyllä siihen, että palvelut heikke-
+nevät, ja totta kai ne heikkenevät. Niin kuin tämä hallitus on ajanut alas — mistä äsken kes-
+kusteltiin — oikeuslaitoksen paikat, Iisalmet ja muut, ja sama kehitys tulee, mutta päätök-
+sen kyllä tekee maakuntahallitus ja maakuntavaltuusto, eivät virkamiehet. En minä usko,
+että sitä päästetään siihen. Sen tähden minulla ei ole kauhean suurta intoa mihinkään maa-
+kuntahallintoon mennä, koska siellä joutuu tekemään näillä näkymin vain kielteisiä, vain
+ikäviä päätöksiä: lakkautetaanko Kinnulasta vai Luhangasta vai Multialta ne palvelupis-
+teet, mitä siellä on, siirretäänkö se vanhus toiselle puolelle maakuntaa vai mitä hänelle teh-
+dään. Tämä on semmoista peliä, johon tämä saattaa johtaa ja todennäköisesti johtaa rahan
+takia. 
+
+Arvoisa puhemies! Tästä sosiaalidemokraattien rivien välistä luettavissa olevasta suur-
+kuntamallista — 50—70:kö tässä nyt sanottiin, eihän se ollut edes piilossa oleva vaan se on
+avoin — kysyn vain: minkälaista demokratiaa on Kainuussa, jos Kainuu on yksi kunta, tai
+kuinka monta kuntaa teidän mallissanne jää meille Keski-Suomeen, ja toteutuuko siellä
+syrjäkylien asukkaitten ja äänestäjien tahto päätöksenteossa? Tämä ongelma meillä on ole-
+massa ihan koko ajan. 
+
+Oikeastaan se ongelma, mistä tässä pitäisi keskustella, on Helsinki ja Uusimaa, joka täs-
+sä mallissa on se kaikkein vaikein ja kaikkein hankalin toteuttaa. Ei se pormestari Vapaa-
+vuori ihan metsässä ole, kun hän tätä mallia arvostelee. On tämä Helsingin kannalta ongel-
+mallinen. Mutta kyllä sosiaalidemokraattien suurkuntamalli on täysin kelvoton Suomen
+oloihin, ja etäisyydet, väestökehitys ja väestön määrä eri osissa maata johtavat aivan kar-
+meaan tilanteeseen, jos mennään sille mallille. [Mika Karin vastauspuheenvuoropyyntö]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Tässä on listalla yksi pyydetty pu-
+heenvuoro, ja nyt pyydettiin vastauspuheenvuoroa. Josko mennään järjestyksessä: edusta-
+ja Hoskonen ja sitten aivan ehdottomasti edustaja Kari.
+
+15.49 Hannu Hoskonen kesk: Arvoisa puhemies! Edustaja Heinäluoma ehti juuri pois-
+tua tuonne kahvilan puolelle. Olisin hänelle sanonut, kun hän maalaili tummilla väreillä
+maakunnan tulevia näkymiä, että jos häntä nyt yhtään se lohduttaa — toivon mukaan kor-
+keasti arvostamani edustaja Kari kertoo nämä terveiset kollegalleen Eero Heinäluomalle
+— niin jos se maakuntauudistus vaikka menisikin läpi, mitä suuresti toivon, niin Pohjois-
+Karjalassa ainakin ollaan jo valmiina. Meillä alkaa hallinto olla lähes valmiina siihen koet-
+telemukseen, mikä edessä on. Jos te sitä pelkäätte, niin voin sanoa teille, arvoisat edusta-
+jakollegat siellä salin vasemmalla laidalla, että turha on teidän pelkonne, älkää sen takia öi-
+tänne valvoko. Kyllä se homma hoituu siellä.
+12
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+Sen pelko, että päätösvaltaa hajautetaan ihmisten lähelle — minun päähäni ei kyllä mil-
+lään mahdu Eero Heinäluoman ajatus siitä, että tässä menisi jokin väärin. Onko sitten se
+vaihtoehto, mitä te esitätte, että keskitetään kaikki yhteen paikkaan, jossa yksi suuri johtaja
+päättää? Sekö se on teidän ajatuksenne? No, se on sosialismin yksi suurimpia ajatuksia,
+että yksi suuri johtaja tietää kaiken ja loput on sitten luojassaan. Paikallinen ihminen ei sii-
+nä voi enää yhtään mitään.
+
+Nyt kun me saamme tämän maakuntahallinnon ja vapaat vaalit aikaiseksi, niin kyllä se
+on aivan varmasti monin monin verroin suurempi ja arvokkaampi asia kuin nykyinen kun-
+tayhtymämalli, jonne todella saattaa hukkua. Jokainenhan voi omassa kotikunnassaan teh-
+dä gallupina tämän kyselyn. Kysykääpä, kuinka moni kuntalainen, kadunmies, tietää vaik-
+ka koulutuskuntayhtymän taikka keskussairaalakuntayhtymän edustajan omassa kunnas-
+saan. Kyllä me sen tiedämme omassa maakunnassamme, totta kai me tiedämme, mutta ky-
+sykääpä kadunmieheltä. Menkääpä paikalliseen leipomobaariin ja kysykää herra Virtasel-
+ta, joka istuu siinä, kun menee sisälle, ensimmäinen herra oikealla — olkoon hän vaikka
+herra Virtanen — kysykääpä siltä herra Virtaselta, kuka on tämän minun kotikuntani edus-
+taja siellä koulutuskuntayhtymässä ja keskussairaalakuntayhtymässä. Uskallan luvata pul-
+lakahvit, jos se ensimmäinen henkilö tietää sen — edellyttäen, että joku edustaja ei ole sin-
+ne järjestänyt henkilöä, joka sen sitten oikeasti tietää. Mutta paikallisesti tunnen, että ne ih-
+miset eivät tiedä niistä edustajistaan yhtään mitään, mutta jos vaalit tulevat, niin varmasti
+tietävät. Tässä on se ylhäältä johdetun yhteiskunnan ja demokraattisesti johdetun yhteis-
+kunnan iso ero. Siinä on se iso juttu.
+
+15.52 Mika Kari sd: Arvoisa herra puhemies! Edustaja Kankaanniemi taitaa kohta saada
+mitalin tästä väärinymmärtämisen lahjasta. En tiedä, mihinkä tuulimyllyyn lepakko tarttui,
+kun sanoitte, että olisin ehdottanut jotain suurkuntamallia. Kuvasin lähinnä sen, mitä tei-
+dän leipomanne taikina on tuottamassa. Tämän uudistuksen kautta syntyy tilanne, jossa
+kunnat menettävät tehtäviä, jossa riskinä on, että Suomeen syntyy kuntia, joilla ei ole enää
+sellaisia tehtäviä, että myöskään elinvoiman osalta kunnat täyttäisivät tämänkään lain, jota
+nyt käsittelemme, ikään kuin peruslukuja, onko kunta elinvoimainen vai ei. Sitä tämä kes-
+kustelussa oleva hallituksen esitys koskettelee. Ja tämä osin filosofinen keskustelu, jota nyt
+on käyty, kuvaa hyvin sitä, että jos sote Suomeen syntyy, palvelut keskittyvät ja johtami-
+nen ja järjestämisvastuu keskittyvät maakunnille ja kuntien nykyiset tehtävät alkavat pik-
+kuhiljaa hiipumaan alta pois.
+
+Nämä luvut, joita käytin, ovat niitä lukuja, joita julkisessa keskustelussa nykyiset halli-
+tuspuolueet ja entisetkin hallituspuolueet, kuten esimerkiksi perussuomalaiset, ovat eri yh-
+teyksissä kommentoineet joko omina ajatuksinaan tai toisten ajatuksina. Nämä ajatukset
+eivät tulleet sosiaalidemokraateilta.
+
+15.53 Ville Vähämäki ps: Puhemies! Haluaisin tähän keskusteluun nostaa ainoastaan yh-
+den luvun, ja se on vanhainkotien vuodepaikat, joita oli 10 200 kappaletta vuonna 2013,
+9 490 kappaletta vuonna 2015, viime vuonna niitä oli 7 500 kappaletta ja budjetin mukaan
+ennusteen mukaan vuonna 2019 näitä vanhainkodin vuodepaikkoja on 5 000 kappaletta.
+Eli siis muutamassa vuodessa, viidessä vuodessa, vanhainkotien vuodepaikat puoliintuvat.
+Tämä on se todellisuus, ja nämä ovat niitä päätöksiä, mitä sitten maakuntahallinto joutuu
+tekemään. Totta kai, kun tällaisia päätöksiä tehdään etäällä, on paljon helpompi sanoa, että
+no, otetaanpa sieltä jostain kehyskunnasta ne vuodepaikat pois ja keskitetään niitä tänne
+13
+
+
+
+Pöytäkirjan asiakohta PTK 145/2018 vp
+maakuntahallinnon keskuspaikkaan. Siis maakuntahallinnossa ja kuntahallinnossa ne sin-
+ne valitut edustajat ovat todella hankalien päätösten edessä, ja ei tämä kehitys mikään toi-
+vottava ole. En minä voi käsittää tätä, miten näin nopealla aikavälillä ollaan vähennetty
+puoleen vanhainkodin vuodepaikat.
+
+15.55 Toimi Kankaanniemi ps: Herra puhemies! Vielä lopuksi totean, että sosiaalidemo-
+kraattinen kansanedustajaehdokas Tuomas Kurttila, joka lapsiasiainvaltuutettuna tunne-
+taan, esitti, että peruskoulujen toimintaluvat tavallaan päätettäisiin valtion toimesta. En tie-
+dä, olisiko se opetusministeri, joka päättäisi, kuinka monta koulua on jossakin Saarijärven
+kaupungissa tai ehkä Jyväskylässä, jossa hän itse taitaa asua. Siellä yhdestä kyläkoulusta,
+tai kaupunginosakoulusta, nyt on kova kiista. Eli onko tämä sitten sosiaalidemokraattien
+linja, kun te kovasti puhutte lukioiden ja toisen asteen ammattikoulujen päätösvallan siir-
+tämisestä maakunnille? Minä en näe sitä ihan mutta ymmärrän lukioitten osalta sen, että
+kun esimerkiksi meidän omassa maakunnassamme on vielä onneksi lukuisa määrä lukioi-
+ta, jos ne siirrettäisiin maakuntahallinnon sisään, niin saattaisi olla, että jos maakuntaval-
+tuustoon tulisi kokoomus- ja sosiaalidemokraattijohto, niin siellä lakkautettaisiin melkein
+kaikki, niin kuin Jyväskylässä on tehty kaupungin osalta, yhdistetty kolmeen valtavaan
+kouluun. Sen tähden nämä peruskunnat nyt eivät halua siirtää, enkä minäkään ole halukas
+siirtämään, lukioita maakunnalle.
+
+Ammatillinen koulutus on aika harvoilla paikkakunnilla, ja se on maakunnan laajuista,
+eli sen siirtäminen sinänsä voisi olla hyvinkin perusteltua, ettei olisi koulutuskuntayhty-
+mää maakuntahallinnon rinnalla. Siinä on tårta på tårta, jos niin sanoisi. Mutta tässä yhtey-
+dessä sitä ei olla tekemässä, ja en tiedä, ollaanko joskus tekemässä. 
+
+Mitä sitten tulee yleensä tähän tehtävänjakoon, minusta on aivan selkeä malli, että pe-
+ruskunta vastaa niistä lähellä ihmisiä olevista julkisista tehtävistä, joiden toteuttamiseen ja
+ylläpitämiseen se on järkevin taso päättäjänä ja rahoittajana. Sitten ovat nämä laajempaa
+väestöpohjaa edellyttävät toiminnot, esimerkiksi terveydenhuolto — sosiaalitoimi ei vält-
+tämättä, mutta terveydenhuolto kaikkinensa — ja on järkevää, että se kootaan maakunnit-
+tain. 18 on aika hyvä määrä. Järkevämpi olisi vähän pienempi määrä, mutta tähän on nyt
+tässä menty. Sitten on vielä valtakunnan taso, jossa sitten luodaan puitteet ja eräät toimin-
+not on esimerkiksi erikoissairaanhoidon osalta keskitetty vain muutamaan paikkaan. Täl-
+lainen kolmiportainen malli on taloudellisesti, [Puhemies koputtaa] toiminnallisesti ja ih-
+misten turvallisuuden kannalta kaikkein paras. 
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 280/2018 vp sisältyvän lakiehdotuksen si-
+sällön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+14
+
+

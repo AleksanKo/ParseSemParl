@@ -1,0 +1,235 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM42CC.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 52/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 52/2017 vp
+
+Täysistunto
+
+Torstai 11.5.2017 klo 16.00—18.32
+
+3.2. Suullinen kysymys nettiäänestyksestä (Olli-Poika Parviainen vihr)
+Suullinen kysymys SKT 71/2017 vp
+
+Suullinen kyselytunti
+
+Puhemies Maria Lohela: Seuraava kysymys, edustaja Olli-Poika Parviainen.
+
+Keskustelu
+
+16.23 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Me olemme todistaneet ne-
+tin kautta tapahtuvia yrityksiä vaikuttaa vaaleihin, sähköposteihin murtautumista ja suora-
+naista kybersodankäyntiä monissa maissa. Esimerkiksi Yhdysvaltojen presidentinvaaliin
+tämä saattoi vaikuttaa, ja Ranskassakin yritettiin. Suomessa on aikaisemmin murtauduttu
+muun muassa ulkoministeriön tietoihin. Nettiuhat ovat moninaisia, ja on vakava asia, että
+demokratiaa yritetään heikentää muun muassa varastamalla yksityisiä sähköposteja ja le-
+vittämällä valeuutisia.
+
+Suomihan ei ole saareke. Meidänkin vaalimme ja päättäjämme voivat joutua häirinnän
+ja ulkovaltojen vaikuttamisen kohteeksi. Erityisen haavoittuvaisia ovat sähköiset äänestyk-
+set. Siksi Euroopassa innostus sähköisiin äänestyksiin onkin lopahtanut. Suomessa halli-
+tus on esittänyt nettiäänestyksiä ja sähköisen äänestyksen ulottamista kaikkiin vaaleihin
+perinteisen äänestämisen rinnalle. Kysynkin uudelta oikeusministeriltämme, oikeusminis-
+teri Häkkäseltä: Miten me vastaamme näihin uhkiin, ja pitääkö teidän mielestänne sähköi-
+sen äänestämisen käyttöönottoa vaaleissa edelleen edistää? Oletteko muuttaneet hallituk-
+sessa kantaanne?
+
+16.24 Oikeusministeri Antti Häkkänen (vastauspuheenvuoro): Arvoisa puhemies! Net-
+tiäänestäminen on yksi keskeisimpiä kysymyksiä joka maassa tällä hetkellä demokratian ja
+erityisesti tämän verkossa tapahtuvan vaikuttamisen kannalta. Nyt Suomessa mietitään sa-
+maan aikaan kahta asiaa: toinen on se, miten saadaan yhä useammat ihmiset, erityisesti
+nuoret, osallistumaan vaikuttamiseen, ja toinen on se, miten vaalien luotettavuus pysty-
+tään takaamaan, 100-prosenttinen luotettavuus, tällaisessa tilanteessa, missä yhä useam-
+mat merkit tavallaan viittaavat siihen, että jopa vieraiden valtioiden toimintaa liittyy vaa-
+leihin. Kuinka pystytään yhdistämään nämä kaksi virtausta niin, että ihmiset eivät vieraan-
+nu demokratiasta mutta toisaalta vaalien luotettavuus voidaan turvata? Minä mielenkiin-
+nolla katson nyt loppuun asti nettiäänestykseen liittyvät selvitykset ja erilaisia tutkijoiden
+kommentteja ja muuta, mutta jos ei kyetä luotettavasti takaamaan vaalien järjestämistä säh-
+köisesti, niin silloin suhtaudun aika kielteisesti tähän hankkeeseen.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 52/2017 vp
+Puhemies Maria Lohela: Pyydän niitä edustajia, jotka haluavat esittää lisäkysymyksiä
+tästä aiheesta, ilmoittautumaan.
+
+16.25 Olli-Poika Parviainen vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Kii-
+tos oikeusministerille selvästä vastauksesta. Toivottavasti analysoitte riskit tarkasti.
+
+Kaikki haasteemme eivät kuitenkaan tule ulkopuolelta, ja osa on myös teknisiä. Laajen-
+nan hiukan perspektiiviä Suomen ja suomalaisten kokonaisturvallisuuteen, sillä tietojärjes-
+telmät voivat olla yhtä tärkeitä kuin vaikkapa sähköverkko tai puhdas vesi. Esimerkki täl-
+laisesta uuden ajan tietojärjestelmäinfrastruktuurista löytyy vaikkapa sosiaali- ja terveys-
+palvelujen tulevasta tietojärjestelmäuudistuksesta. Monet asiantuntijatkin ovat sitä mieltä,
+että sote ei toimi eikä voi toteutua, jos tietojärjestelmät eivät toimi. Järjestelmien saumaton
+toimivuus on turvattava. Nämä järjestelmät eivät voi olla myöskään keskeneräisiä, kun
+sote tulee voimaan.
+
+Hallitus on puoliväliriihessään luvannut rahoitusta soten tietojärjestelmien kehittämi-
+seksi, mutta aika on kortilla. Siksi kysynkin hallitukselta: miten varmistetaan tärkeimpien
+tietojärjestelmien toimivuus ja esimerkiksi tulevien soten tietojärjestelmien saumaton toi-
+minta heti uudistuksen tultua voimaan?
+
+16.27 Perhe- ja peruspalveluministeri Juha Rehula (vastauspuheenvuoro):  Arvoisa
+rouva puhemies! Tietoturvallisuuden ja itse kunkin tietojen sellainen käyttäminen, että se
+on rikollista tai tietoja käytetään johonkin toiseen tarkoitukseen kuin terveyspalveluun,
+meidän pitää kaikin keinoin pystyä estämään.
+
+Toisekseen, meillä on useampi lainsäädäntöhanke menossa koko tämän sote-muutok-
+sen osalta, ja tietojärjestelmiin ja tietoturvallisuuteen liittyvä lainsäädäntö on yksi osa sitä
+työtä, jota tehdään.
+
+Sitten tämä puoliväliriihen työ. Tietojärjestelmiin panostamiseen on resursoitu kehys-
+kaudella, 4 vuoden aikana, miljardi euroa. Seuraavat konkreettiset toimenpiteet valmiste-
+lun osalta näiltä osin hallitus tekee kesäkuussa. Hallituksella on oma roolinsa tässä, muun
+muassa lainsäädännön kautta varmistaa se, että tietoturva taataan.
+
+16.28 Jyrki Kasvi vihr (vastauspuheenvuoro): Arvoisa puhemies! Kyberturvallisuus on
+tosiaan keskeinen osa kansallista turvallisuutta, ja Suomen kyberturvallisuusstrategian mu-
+kaan kansallista kyberpuolustusta koordinoi valtioneuvosto, vaikka kyberkriisissä on käs-
+kytettävä eri ministeriöiden ja viranomaisten toimintaa erittäin lyhyellä varoitusajalla. Ei
+ihme, että kyberstrategian uusimman toimeenpano-ohjelman ensimmäisenä toimenpitee-
+nä on nimenomaan strategisen johtajuuden määrittely.
+
+Pelkkä strateginen johtajuus ei kuitenkaan riitä. Myös operatiivisten komentoketjujen
+on oltava kristallinkirkkaita. Siksi kysynkin: Miten nopeasti valtioneuvosto pystyisi koor-
+dinoimaan Suomen kyberpuolustuksen, jos Suomi joutuisi samanlaisen hyökkäyksen koh-
+teeksi kuin Viro yllättäin vuonna 2007 tai Ukraina yllättäin jouluna 2015? Riittävätkö tie-
+toverkkojen käytännön turvallisuudesta vastaavan Viestintäviraston Cert-toiminnon re-
+surssit tällaisen kriisitilanteen tarpeisiin?
+
+16.29 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa rou-
+va puhemies! Kuten olemme aikaisemmin täällä salissa myöskin edustajan kanssa käyneet
+keskustelua, Viestintäviraston Havaro-keskus on ajoittain tiukalla resursoinnilla liikkeel-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 52/2017 vp
+lä. Mutta puoliväliriihen yhteydessä olemme sopineet osana sisäistä turvallisuutta, että li-
+säämme Viestintävirastoon nimenomaan Kyberturvallisuuskeskuksen mahdollisuuksia li-
+sätä resursseja 2 miljoonan rahoituksella seuraavan neljän vuoden ajan. Eli tältä osin py-
+rimme siihen, että meillä on paremmat valmiudet vastata tähän resurssikysymykseen ja
+etenkin huolehtia nimenomaan elinkeinoelämän ja huoltovarmuuden näkökulmasta kriit-
+tisten yhtiöiden kyvystä toimia sellaisessa tilanteessa, jossa kyberturvallisuuden kannalta
+on uhkatilanteita.
+
+16.30 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Kybertur-
+vallisuudesta tässä on puhuttu mutta myös äänestämisestä. Ministeri Häkkänen toi esille,
+että yksi syy, miksi sähköistä äänestämistä selvitetään, on nuorten aktivoiminen ja äänes-
+tysaktiivisuuden parantaminen. Äänestämisen pitää olla helppoa. Äänestyspaikkoja täytyy
+viedä sinne, missä ihmiset ovat — oppilaitoksiin, marketeille, matkakeskuksiin ja niin
+poispäin — ja myös oppilaitoksissa ja kouluissa täytyy jakaa lapsille ja nuorille tietoa po-
+litiikasta ja yhteiskunnallisista asioista.
+
+Jos oikein ymmärsin, niin Porvoossa Tulevaisuuden valtiopäivillä, pääministeri Sipilä
+mutta myös valtiovarainministeri Orpo, suhtauduitte myönteisesti äänestysiän alentami-
+seen 16 vuoteen kuntavaaleissa. Kysyisin: millä tavalla hallitus on tässä asiassa etenemäs-
+sä?
+
+16.31 Pääministeri Juha Sipilä (vastauspuheenvuoro): Arvoisa puhemies! Itse asiassa
+tänä aamuna tästä asiasta keskusteltiin, ja olisi luonnollista, että tämä lähtee, niin kuin mo-
+net tällaiset asiat, puoluesihteereitten muodostamasta parlamentaarisesta ryhmästä. Siellä
+käydään tästä perusteellinen keskustelu ja tuodaan sitten yhteinen esitys tänne pöytään.
+Tällainen keskustelu näitten muiden asioiden yhteydessä on nyt mahdollista ja tarkoitus
+käynnistää.
+
+16.31 Joona Räsänen sd (vastauspuheenvuoro): Arvoisa puhemies! Nettiäänestys tuntuu
+varmasti hyvin mukavalta asialta ja helpolta keinolta lisätä äänestysaktiivisuutta, mutta
+kun verrataan esimerkiksi Viroon, joka on siis maailman ainoa maa, jossa jokaisissa vaa-
+leissa voi äänestää netissä, niin sielläkään äänestysaktiivisuus ei ole juurikaan noussut eikä
+nettiäänestys myöskään ole lisännyt mitenkään merkittävästi nuorten aktiivisuutta yhteis-
+kunnalliseen vaikuttamiseen.
+
+Mutta tässä tilanteessa, kun puhutaan nettiäänestyksestä, on hyvä myös katsoa tämä
+kansainvälinen kehitys, jossa muut maat ovat tällä hetkellä vetämässä takaisinpäin omia
+nettiäänestyskäytäntöjään niin Ranskassa kuin Hollannissa — mutta täällä Suomessa hal-
+litus nyt vie eteenpäin tätä selvitystä. Olisinkin nyt kysynyt vielä oikeusministeriltä: ym-
+märsinkö oikein, että jos ja kun asiantuntijat tulevat siihen johtopäätökseen, että nettiää-
+nestykseen ei ole syytä siirtyä, useista ongelmista johtuen, niin hallitus sitä ei todella ole te-
+kemässä?
+
+16.32 Oikeusministeri Antti Häkkänen (vastauspuheenvuoro): Arvoisa puhemies! Sel-
+vitykset käynnistetään sen takia, että tiedetään, onko kyllä- vai ei-vastaus. En lähde tässä
+vielä spekuloimaan sitä, että jos ja kun jotain tapahtuu, mutta varmasti kaikki tässä salissa
+tunnistavat ne isot vaaratekijät demokraattisen järjestelmän uskottavuudelle, esimerkiksi
+jos sellaisia tietoja alkaisi Suomesta valua ulkomaille tai meidän omille kansalaisille, että
+3
+
+
+
+Pöytäkirjan asiakohta PTK 52/2017 vp
+vaikkapa vieras valtio on pystynyt vaikuttamaan meidän vaalien laskentaan tai lopputulok-
+seen, tai joitain muita samanlaisia uutisia, joita nyt on eri maista liikkeellä. Tämä täytyy
+tietysti nyt tarkkaan katsoa tutkijoiden ja muiden kanssa, kyettäisiinkö rakentamaan sel-
+laista järjestelmää, jossa aivan täysin varmasti voidaan sulkea pois tämmöinen menettely,
+koska sillä, että lähdetään hakemaan äänestysprosentin nostoa tällaisella uuden teknolo-
+gian hyödyntämisellä, samaan aikaan vaikka vaarantaen äänestyksen luotettavuuden, voi
+olla aika kallis hinta.
+
+16.33 Kunta- ja uudistusministeri Anu Vehviläinen (vastauspuheenvuoro):  Arvoisa
+puhemies! Täydentäisin vielä oikeusministerin vastausta sillä tavalla, että viime vaalikau-
+dellahan oli jo tämä ensimmäinen työryhmä ja siellä ajateltiin sillä tavalla, että tätä nettiää-
+nestämistä voisi kokeilla ehkä ensimmäisen kerran kunnallisissa, tämmöisissä neuvoa-an-
+tavissa äänestyksissä. Se on varmaan niin, että niitä töitä, mitä se edellinen työryhmä jo te-
+ki, voidaan yhdessä arvioida. Mutta se on aivan totta, että Norja ja monet muut maat ovat
+ottaneet näistä viime kuukausien kansainvälisistä tapahtumista takapakkia, ja sen totean
+Viron osalta, että Viro on tehnyt sitä kyllä kymmenen vuotta, mutta hekään eivät äänestä
+netin kautta äänestyspäivänä, että se on vain ja ainoastaan ennakkoäänestyksessä käytössä.
+
+Kysymyksen käsittely päättyi.
+4
+
+

@@ -1,0 +1,486 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM76C5.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 55/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 55/2017 vp
+
+Täysistunto
+
+Keskiviikko 17.5.2017 klo 14.05—16.45
+
+5. Hallituksen esitys eduskunnalle maakaasumarkkinalaiksi ja eräiksi siihen liittyviksi 
+laeiksi
+
+Hallituksen esitys HE 50/2017 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 5. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokuntaan.
+
+Keskustelu
+
+15.23 Lauri Ihalainen sd: Arvoisa puhemies! Tämä hallituksen esitys maakaasumarkki-
+nalaista on mitä suurimmassa määrin tärkeätä energiapolitiikkaa, ja tähän on syytä huolel-
+la perehtyä nyt valiokuntakäsittelyssä.
+
+Maakaasun kulutus lienee vuositasolla semmoinen 26 terawattituntia, ja maakaasun
+osuus meidän energian kokonaiskulutuksestamme lienee noin 6 prosenttia. Maakaasun
+käyttö yhdistettyyn sähkön ja lämmön tuotantoon on toki tärkeä, mutta niiden kotitalouk-
+sien määrä, jotka maakaasua käyttävät, on aika rajallinen. Kaikki tiedämme, että tämä
+kaikki maakaasu tulee yhden putkiverkon kautta Venäjältä, mutta sitten jos katsotaan maa-
+kaasun liikevaihtoa Suomessa 2015, niin se oli kuitenkin yli 800 miljoonaa euroa, joten pu-
+hutaan kuitenkin tärkeästä asiasta.
+
+Suomen maakaasumarkkinat avautuvat kilpailulle 2020, ja tähän liittyy myös se, että
+tarkoitus on Suomen ja Viron välillä maakaasuverkon yhdistäminen, mistä keskustelu on
+ollut kohtuullisen vilkasta. Tähän liittyen ajatus on, että kilpailua lisättäisiin maakaasu-
+verkkoon syötettävän uusiutuvan energian ja toisaalta tämän nesteytetyn maakaasun osal-
+ta. Siinä meillä on jo Porvoosta yhteys verkostoon, Porissa on niin ikään rakennettu tällai-
+nen laitos, joka ennen kaikkea palvelee varmaan merenkulkuliikennettä, ja Torniossa on
+tällainen tulossa. Eli nesteytetyn maakaasun merkitys tulee olemaan tässä mielessä tärkeä.
+
+Gasumissa valtion kansallisena intressinä on varmistaa kaasun siirto ja toimivuus kai-
+kissa olosuhteissa. Gasum on tärkeää säilyttää valtion määräysvallassa myös tulevaisuu-
+dessa, samoin kuin se yhtiö, joka on perustettu nyt tämän Suomen ja Viron välisen maa-
+kaasuhankkeen putken rakentamiseen. Mutta se viesti lienee kai siinä, että maakaasuput-
+ken rakentaminen Suomen ja Viron välille ei vielä ole riittävä ratkaisu siihen, että me yh-
+distyisimme eurooppalaiseen maakaasuverkostoon. Se tietysti vaatii sitä, että Puolan ja
+Baltian maiden kesken tapahtuu myöskin jotakin uudistuksia ja rakentamista.
+
+Nämä muutokset, jotka tässä ehdotuksessa liittyvät sähkömarkkina- ja maakaasumark-
+kinalakeihin ja jotka rajoittavat sähkön ja maakaasun siirron ja jakelun maksujen korotuk-
+sia 12 kuukauden tarkastelujakson aikana enintään 15 prosenttiin, ovat erittäin kannatetta-
+via. Nämähän liittyvät siihen Gasum-keskusteluun, jota vilkkaana käytiin.
+ Tarkistettu
+4.4
+
+
+
+Pöytäkirjan asiakohta PTK 55/2017 vp
+Haluaisin, että me valiokunnassa pohdimme huolella asiantuntijoita kuullen ensinnäkin
+sitä, että tähän kilpailun avautumiseen täytyy huolella varautua. Pohdittava olisi sitä, olisi-
+ko maakaasumarkkinoiden avaaminen järkevämpää vasta sitten, kun olisi luotu yhteiset
+eurooppalaiset maakaasuverkostot Puolan ja Liettuan välille, jolloin nämä markkinat ovat
+paljon suuremmat ja tarjontaa on enempi, ja onko toisaalta olemassa riski, että tosiasialli-
+sesti maakaasun hinta ei suinkaan halpene vaan nousee. Tällä haluan vain kertoa, että näitä
+kysymyksiä on nyt talousvaliokunnassa syytä käsitellä huolella ja kuulla asiantuntijoita.
+
+15.28 Harri Jaskari kok: Arvoisa rouva puhemies! Arvoisat kollegat! Olen samaa mieltä
+kuin edustaja Ihalainen siitä, että tässä on kysymys paljon suuremmastakin energiapoliitti-
+sesta kysymyksestä kuin helposti ensi silmäyksellä ajattelee.
+
+Ensimmäinen on todellakin, että tämä on myöskin tietynlainen linjanveto siitä, että infra
+erotetaan varsinaisesti tuotannosta. Nythän on tietyllä tavalla sähkömarkkinoilla tehty sitä
+samaa jo muutaman vuoden aikana, ja näkymä on sitten se, että nyt me alamme tekemään
+samanlaista myöskin maakaasumarkkinoilla. Tietysti on hyvä kysymys, alammeko me het-
+ken päästä tekemään samaa myöskin vaikka kaukolämpömarkkinoilla, että selkeästi infra
+erotetaan sitten tuotannosta ja tuotanto avataan kilpailulle.
+
+Aivan niin kuin edustaja Ihalainen sanoi, talousvaliokunnassa meidän täytyy hyvin tar-
+kasti käsitellä asiaa. Kun me avaamme tämän nyt kilpailulle, jossa ovat mukana myöskin
+Baltian maat, miten me pystymme jotenkin pitämään huolta, että tavoitteena on aidosti eu-
+rooppalaisen markkinan luominen? Tämä liittyy kysymykseen siitä, miten pidetään huolta
+myöskin, että maakaasuputki jatkuu Baltian maiden ja Puolan läpi sitten Euroopan mark-
+kinoille, koska se aidosti avaisi sitten tämän kilpailun ja todellakin loisi erilaista tuotantoa.
+Totta kai — ollaan keskusteltu jo alustavasti vaikka ministerien kanssa — tietyllä tavalla
+uutta kilpailua luo jo se, että meillä on LNG:tä saatavissa, nestemäistä kaasua, se tuo uutta
+toimintaa markkinoille, ja toisaalta myöskin oman biokaasutuotannon eteneminen luo sitä
+uutta tuotantoa.
+
+Toinen näkökulma on sitten se kotimaisen tuotannon lisääminen. Tämä maakaasuverk-
+ko ja sen eriyttäminen on aika aidosti mielenkiintoinen asia, koska nythän me olemme ol-
+leet monia vuosia hyvin riippuvaisia tuotannosta Venäjän puolelta, joka on toiminut hyvin
+ja luotettavasti. Mutta tämä eriyttäminenhän avaa Suomelle todella huikeat markkinat,
+koska silloinhan verkonhaltijan on järkevä ottaa — mikäli saa kilpailukykyisiä tarjouksia
+— erilaista kaasutuotantoa verkon osaksi. Ja tämähän antaa mahdollisuuksia taas esimer-
+kiksi biokaasutuotantoon ja kenties hajautettuun tuotantoon sitä kautta ja aikamoisia elin-
+mahdollisuuksia ainakin esimerkiksi niille alueille, jotka toimivat lähellä maakaasuverk-
+koa.
+
+Minä toivon todellakin, että tämä olisi mieluummin mahdollisuuksia antava uudistus
+myöskin suomalaiselle tuotannolle. Tiettyjen arvioiden mukaan aika nopeasti me pystyi-
+simme saamaan verkkoon jopa 30 prosenttia kaasusta kotimaista kaasua, biokaasua. Jos
+tämä antaa sellaisen mahdollisuuden, niin sitä kautta pidän järkevänä tämän uudistuksen
+viemistä eteenpäin huolehtien kylläkin siitä, että tämä tulee aidosti eurooppalaiseksi kaasu-
+markkinaksi tulevaisuudessa.
+
+15.31 Kauko Juhantalo kesk: Arvoisa puhemies! Maakaasumarkkinoihin liittyvän lain-
+säädännön uudistaminen on välttämätöntä ja mitä tervetulleinta. Maakaasun käyttö Suo-
+messa oli paljon suurempaa kuin se on nyt niissä lukemissa, jotka edustaja Ihalainen lau-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 55/2017 vp
+sui, mutta se on osoittautunut sekä teollisuudessa että sähkön ja lämmön tuotannossa hyvin
+tärkeäksi, ja sitä on edelleen erittäin tärkeä maamme talouden kannalta hyödyntää ja lisätä.
+Toinen puoli on tämän Baltiasta tulevan toisen putken rakentaminen, että yhdistymme voi-
+makkaasti ja hyvin eurooppalaiseen maakaasuverkkoon, ja toinen puoli on sitten tämä,
+mitä edustaja Jaskari puheenvuorossaan myös painotti, että se avaa suuret mahdollisuudet
+kotimaisen hajautetun toiminnan kaasutoimituksille ja kaasun valmistukselle liittyä kaasu-
+verkostoon. Nykylainsäädännön mukaisestihan tämä on rakennettu Gasumin käyttöön, ja
+heillä ei ole velvollisuutta ottaa muita kaasuja tuohon verkostoon. Se on selvä ongelma si-
+nänsä, ja myös siellä oleva kilpailun puute on häirinnyt kaasumarkkinoita.
+
+Jos ajattelee liikennettä, meillä muun muassa on, mistä edustaja Ihalainen lausui, nes-
+teytetyn kaasun tulo Poriin avannut uudelleen keskustelun esimerkiksi siitä, voitaisiinko
+Porin—Haapamäen ratalinja uudelleen avata käyttäen juuri nesteytettyä kaasua, koska se
+antaisi sille uusia mahdollisuuksia. Jos ajatellaan liikennettä, meillä nyt valtioneuvosto on
+tehnyt päätöksen sähköstä, sähköpistokkeiden asentamisesta suurissa määrissä hajautetus-
+ti ympäri maata. Minun mielestäni se antaa mahdollisuuden myös kaasun hyödyntämiseen
+ajoneuvoliikenteessä siten, että sen jakelupisteiden pitäisi samassa tahdissa lisääntyä Suo-
+messa, koska uskon hiilineutraalin kaasun käytön lisääntyvän. Ihmiset haluavat sellaista
+käyttää, ja sen hyödyntämisen soisi lisääntyvän myös ajoneuvoissa ehkä runsaamminkin
+kuin sähkön hyödyntämisen.
+
+Tätä markkinalain uudistusta on mitä myönteisimmin katsottava. Meillähän on hyvin
+orastavia kohteita, joissa kaasua voidaan lisää tuottaa, ja niin kuin edustaja Jaskari sanoi,
+jos 30 prosenttiin päästään, se on huima saavutus, ja siihen on Suomella täydet mahdolli-
+suudet. Se lisäisi omavaraisuutta, ja se lisäisi bioenergian jalostamista hyvin monella eri ta-
+holla. Tervetullut uudistus.
+
+15.35 Jari Myllykoski vas: Arvoisa rouva puhemies! On pakko, jos ei nyt aplodein, kui-
+tenkin tyydytyksellä katsoa, että hallitus on tehnyt hyvää työtä tätä uudistusta valmistelles-
+saan, sillä kun kuitenkin tavoitteena on luoda edellytykset LNG:lle ja biokaasulle ja tavoit-
+teena on se, mikä hallituksella on, kivihiilestä luopuminen, nämä ovat yhdenmittaisia ja
+hyviä tavoitteita. Luodaan edellytyksiä liittymiselle keskieurooppalaiseen maakaasuver-
+kostoon Balticin valmistuttua. Kuinka todennäköistä on, että meillä verkostot ovat niin val-
+miita, että voisimme vielä ruveta hehkuttamaan siitä, että kansallisesti myös biokaasun
+tuotanto voisi tähän verkkoon liittyä, tarkoittaa, että se olisi automatkojen päässä. Jos
+otamme haja-asutusalueella tuotetun biokaasun tuotannon tähän mukaan, niin se ei var-
+masti tilatuotannon kanssa ole yhteismitallinen.
+
+Mielestäni tämä on erittäin tärkeä uudistus, ja mikä tässä on parasta, tässä hallituksen
+esityksessä tullaan siirtoverkkojen hinnoitteluun, hinnannousuun, kiinni. Viime kaudella
+tehtiin ratkaisuja, jotka eivät rajoittaneet mitenkään sitä, kuinka kuluttaja joutuu vastaa-
+maan tietyistä hinnannousuista. Nyt täällä on tämä 12 kuukauden pykälä. Kyllä täytyy sa-
+noa vasemmistolaisena kansanedustajana, että kiitän tätä hallitusta linjauksesta, joka on
+juuri sellainen, että kuluttaja voi nyt jo vähän osata ennakoida edes 12 kuukauden sisällä —
+toki, mistä se 12 kuukautta sitten lasketaankin. Nyt tuodaan ennustettavuutta ja sellaista oi-
+keaa rytmiikkaa siihen, että ei pelkästään vain verkonhaltijan ehdoilla hinnannousuja teh-
+dä, vaan tämä antaa kyllä suomalaisille kuluttajille myös semmoista selkärankaa, että
+emme kohtaa sitä, että verojen ja sähkönhinnan päälle voitaisiin yli 15 prosentin nostaa
+siirtoverkkojen hintoja. Tervehdin tätä kyllä todella hyvällä mielellä.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 55/2017 vp
+Me olemme keskustelleet, täällä on tuotu Satakuntaa ja Poria esille, ja olemme puhuneet
+siitä, niin kuin edustaja Ihalainenkin, kuinka tärkeää se on. Edustaja Juhantalo myös yhtyi
+siihen liikenteen osalta, mutta meidän pitää nähdä se, että Satakunnassa se ei rajoitukaan
+pelkästään liikenteeseen. Nesteytetty maakaasu tulee meille voimakkaasti sinne Harjaval-
+lan suurteollisuuspuistoon yksistä polttoaineista, joilla hoidetaan meidän energiatuotan-
+toamme. Eli tämä Porin yksikkö siellä Mäntyluodossa mahdollistaa sen, että Porin—Har-
+javallan raskaan metalliteollisuuden laitokset tulevat maakaasun piiriin. Tätä uudistusta,
+millä mahdollistetaan ja tehdään vieläkin kannattavammaksi sitä, että me voimme pyrkiä
+pois kivihiilestä, että meillä kivihiilestä luovutaan, pitää kyllä todellakin ilolla tervehtiä.
+
+Edelläkävijyys näissä kaikissa asioissa ei ole huono asia. Joku vähän arvostelee sitä,
+miksi menemme aina etunojassa tiettyihin Euroopassa oleviin hankkeisiin. Tässä kohtaa
+täytyy sanoa, että hallituksen esitys on hyvä, että nyt kaadutaan pikkusen enemmän etuno-
+jaan kuin että passattaisiin. Tässä kohtaa me olemme mahdollisuuksien äärellä. 
+
+Voin tässä nyt vakavasti sanoen yhtyä edustaja Juhantalon näkemykseen siitä, että poi-
+kittaisliikenteen avaaminen Pori—Haapamäki-radalla olisi erittäin tervehdittävää. Se mah-
+dollistaisi meidän kaivosteollisuutemme liikenneinfran ja Porin syväsatamien kautta kul-
+kevan materiaaliliikkuvuuden — erittäin hyvä näkökulma. Me tarvitsemme poikittaislii-
+kennettä tähän maahan. Me tarvitsemme hyvää teollisuuden vientikykyisyyttä, ja siihen
+liittyy tämä Pori—Haapamäki-rata. Vaikka se voi kuulostaa nyt tässä vähän niin kuin pai-
+kallispolitikoinnille ja siltarumpupolitiikalle, se on kansantaloudellisesti erittäin merkittä-
+vä.
+
+Katselin tänään Aamu-tv:ssä, kun siellä pari viisasta talousmiestä keskustelivat mutta
+unohtivat Satakunnan. Yhdessäkään puheenvuorossa ei tullut esille se, että me olemme
+1,7-kertaisesti muuhun maahan nähden vientiteollisuuden bruttokansantuotteella oleva
+maakunta. Meillä on voimakas metallurginen teollisuus, Suomessa olevasta kaivannais-
+teollisuudesta tuodaan kaikki muu paitsi kulta jalostettavaksi meille Satakuntaan. Meillä
+on vahva kemianteollisuus, meillä on metsäklusteri, ja me tarvitsemme silloin hyvää inf-
+raa. Voisiko sanoa tässä maakuntajohtajaa lainaten, että Suomi tarvitsee Satakuntaa, ja sen
+takia yhtenä osana on tämä poikittaisliikenteen hanke, johonka tämä LNG erittäin hyvin
+soveltuisi. Eikä se tarkoita vain Pori—Haapamäkeä, vaan raideliikenteen avaamista myös
+Kuopioon asti niin, että meillä materiaalit kulkevat niihin satamiin, joissa syvyyttä on.
+
+Arvoisa rouva puhemies! Tervehdin tätä — oli pakko tarkistaa, ettei varapuhemies Pek-
+karinen ole [Naurua] siellä takana, ettei tule suuria moitteita — ilolla ja erityisesti sitä, että
+tässä hallituksen esityksessä siirtohintojen osalta ollaan tähän 12 kuukauteen ja 15 prosent-
+tiin päädytty, joka antaa meille, sanoisinko, tämmöisen vasemmistolaisen näkemyksen ku-
+luttajan näkökulmasta: turvallisuutta tulevaisuuteen eikä yllättäviä hinnankorotuksia alu-
+eellisesti eri lailla.
+
+15.42 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Tämä maakaasumarkkinoita
+koskeva laki on äärimmäisen tärkeä, ja on hyvä, että nämä verkot saadaan vapautettua va-
+paalle kilpailulle. Sehän on tämän päivän henki, mutta se palvelee myös tulevaisuudessa si-
+tä, että saadaan esimerkiksi biokaasua markkinoille ja sitä kautta saadaan kotimaista tuo-
+tantoa mukaan. Kaikki kaasu, mikä Suomeen on tullut tähän asti, on venäläistä maakaasua,
+ja se on toiminut hyvin ja sillä on merkittävä osa suomalaisen teollisuuden erilaisena ener-
+gianlähteenä. Toki muutama omakotitalokin käyttää maakaasua lämmitysraaka-aineena,
+mikä sinänsä on ihan hyvä asia, että on monipuolista lämmitysmateriaalia käytettävissä. 
+4
+
+
+
+Pöytäkirjan asiakohta PTK 55/2017 vp
+Mutta tähän lakiesitykseen liittyy myös minun mielestäni sellainen näkökulma, että kun
+biokaasua toivottavasti ruvetaan tässäkin maassa vihdoin ja viimein tuottamaan — täällä-
+hän on muutamia pioneereja Suomessa, jotka sillä alalla ovat ansioituneet ja biokaasun
+puolesta puhuneet — niin nyt me pääsemme sitten sanoista tekoihin, elikkä verkkoa ruve-
+taan vapauttamaan, aivan kuten sähköpuolelle on jo tehty, ja tämä verkko saadaan kaik-
+kien käyttöön. Se on erittäin hyvä asia.
+
+Liikenteeseen: edustaja Myllykoski erinomaisessa puheenvuorossaan äsken mainitsi
+poikittaisliikenteen ja sen saamisen toimimaan tässä maassa. Tuota esitystä kumarruksen
+kanssa kiitän ja tervehdin. Aivan erinomainen asia. Ja nyt kun dieselveturien poistamisesta
+on ruvettu tässä maassa puhumaan — monia puheenvuoroja, että pitää päästä sähköiseen,
+kaikki rataverkot tulee sähköistää — niin siihen suhtautuisin hieman varauksella sen takia,
+että jos radalla on vähän liikennettä ja sitten sen sähköistäminen on valtavan kallista, niin
+jos veturissa on polttoainetankissa esimerkiksi kotimaista biokaasua, on kyllä ihan sama
+ajaa sillä dieselveturilla, koska se kokonaistaloudellisesti on erittäin kannattavaa. 
+
+Arvoisa rouva puhemies! Lopuksi vielä suomalaisen energiahuollon asiassa haluan nos-
+taa esille kotimaisen turpeen käytön. Minä en vain jaksa millään ymmärtää, mikä ihme täs-
+sä maassa ja meissä ihmisissä oikein on vikana, kun me emme saa käyttää kotimaista raa-
+ka-ainevarantoa vapaasti ja estämme sen käytön kaiken maailman keinoilla, vaikka siihen
+ei ole mitään perustetta olemassa. Biokaasu ja tähän liittyvät asiat ovat niin tärkeitä, että
+haluaisin... — Tulen jatkamaan puheenvuoroa pöntöstä hetken aikaa, että saan sanotuksi.
+[Puhuja siirtyy puhujakorokkeelle]
+
+Arvoisa rouva puhemies! Todellakin tunnen suurta surua siinä, että kotimaista raaka-ai-
+netta, turvetta, tässä maassa on suorastaan vihattu. Mitä ihmettä siinä oikeastaan tapahtui
+tämän maan kannalta? Kun tämä nyt käsittelyssä oleva hallituksen esitys nimenomaan
+avaa kaasumarkkinoita, niin mikä takia me emme voisi avoimesti asiaa tarkastella, että ot-
+taisimme turvetta reilummin käyttöön? Nythän, kuten tiedämme, Vapo-osakeyhtiöllä on
+menossa merkittävä kehityskaari, jossa he pyrkivät tuotteistamaan turvetta ihan muille
+markkinoille kuin polttoaineena, ja he ovat itse lanseeranneet ja tehneet siitä merkittävän
+tiedotusiskun julkisuuteen, mikä on heidän uusi tuotesuuntansa. Kertokoot he itse siitä,
+heillä on siinä merkittäviä liikeideoita nousemassa, ja jos ne toteutuvat, niin kuin näyttää,
+se avaa Suomelle aivan huikeita vientimahdollisuuksia. Siis me ammumme tässä tur-
+veasiassa itseämme jalkaan koko ajan. Maakaasuasiat ovat tässä maassa tärkeitä. Venäläi-
+nen maakaasu on ollut meille suomalaisille takuuvarma energianlähde koko ajan, luotetta-
+va ja varma, ja nyt sitten kun verkot avautuvat, niin se varmaan sitten tuo lisäarvoa sillä
+keinoin, että saamme myös biokaasun tähän mukaan. Tässä yhteydessä ei todellakaan voi
+jättää huomiotta turpeen käyttöä. 
+
+Arvoisa puhemies ja edustajakollegat! Tämä paikalla oleva joukko ei ole kovin suurilu-
+kuinen, [Jari Myllykoski: Mutta laadukas!] mutta erittäin innostunut ja asiantunteva. Siitä
+tunnen suurta iloa. Todellakin toivon, että tämä kotimainen raaka-ainelähde saataisiin pa-
+rempaan käyttöön. Vesiasiat ovat sillä puolella kunnossa, ja toivon, että kotimaisuus ote-
+taan vihdoin ja viimein tosissaan tässä maassa. Jos me haluamme jonain päivänä nuo velat
+maksaa ja kansantaloutta vahvistaa, niin ei meillä kovin paljon muita mahdollisuuksia ole.
+Kansakunta ei pysty käyttämään omia raaka-aineitaan, ei tällä menolla, mitä me nyt teem-
+me, miten me parhaillaan velkaannumme ja muuta semmoista taloudellista erittäin
+epäedullista asiaa teemme. Siitä kiertokulusta pitää päästä irti ja kotimaisten raaka-ainei-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 55/2017 vp
+den käyttöä lisätä, ja tämä nyt käsittelyssä oleva hallituksen esitys on pieni, mutta erittäin
+tärkeä osa sitä.
+
+15.47 Katri Kulmuni kesk: Arvoisa rouva puhemies! Mukavaa, että välillä on lakiehdo-
+tuksia, jotka nauttivat laajaa suosiota salin molemmilta puolilta. Toivottavasti tämän maa-
+kaasumarkkinalain muutosten myötä tosiaan saadaan myös kotimaiselle biokaasulle aivan
+uudenlaisia menestymisen mahdollisuuksia.
+
+Ajattelin kuitenkin omassa puheenvuorossani puuttua tähän sähkömarkkinalain muu-
+tokseen, joka on osa tätä maakaasumarkkinalain muutosta. Tämä kuuluisa Caruna-laki läh-
+ti liikkeelle siitä, että oli aivan poskettoman suuria sähkön siirtohintojen korotuksia monil-
+la alueilla ja harvaan asutuilla seuduilla sähkön siirtohinnat ovat monin verroin suurempia,
+mitä on itse sähkön hinta. Erittäin tärkeää on, että nyt sitten on saatu ensimmäisiä askeleita
+sille, että näitä käsittämättömiä korotushintoja pystytään myös lainsäädännön keinoin
+kontrolloimaan. Se, että saatiin tänne tämä vuosittainen korotuskatto, on erittäin tärkeä tie-
+tenkin muistaen myös sen, että se ei missään nimessä saa olla se maksimikatto. Mielestäni
+tämä on ainoastaan yksi keino. On syytä selvittää myös jatkossa, mitä muita muutoksia vie-
+lä voitaisiin tehdä.
+
+Toki tänne sisältyy myös se, että maakaapeloinnin tuomia paineita, jotka ovat varsin
+suuria haja-asutusalueilla — eikä kaikkialla suinkaan ole sellaista tarvetta kuin myrskyher-
+killä alueilla maakaapelointia tehdä — saadaan lievennettyä ja pidennettyä. Mielestäni oli-
+si selvittämisen arvoista, kuten myös tämän lain esitellyt ministeri Tiilikainen on todennut,
+että myös jatkossa voidaan miettiä, mitä muita asioita voitaisiin sähkön siirtohintojen eriy-
+tyskehityksen estämiseksi tehdä. Ruotsissa on olemassa erilaisia alueita, joilla verotasot
+poikkeavat toisistaan, ja on keskusteluissa väläytelty myös monopoliasemassa olevalle yh-
+tiölle jonkinlaista voittokattoakin, nekään eivät ole ennenkuulumattomia.
+
+15.49 Markku Eestilä kok: Arvoisa rouva puhemies! Käytän tämän puheenvuoron lähin-
+nä sähkömarkkinalain muutoksesta, mikä tähän nyt sisältyy, vaikka kysymyksessä ovat
+kaasumarkkinat.
+
+Sen verran näistä kaasumarkkinoista, että on hyvä, että varsinainen kaasun myyntitoi-
+minta ja siirtotoiminta eriytetään toisistaan. Itse pidän hallituksen esitystä siinä mielessä
+hyvänä, että siellä on maininta, että valtiolla säilyy enemmistö tässä kaasun siirtotoimin-
+nassa. Sillä on iso periaatteellinen merkitys. Ja ne, jotka sähkömarkkinoita tarkkaan seu-
+raavat, ovat huomanneet, mihin se sitten johtaa, jos tämä toiminta ei ole jollakin tavalla
+kontrolloitua.
+
+Kun aikanaan näitä isoja myrskyjä oli, niin välittömästi sen jälkeen poliittisesti reagoi-
+tiin nopeasti — sitä en tiedä, onko nopea reagointi sitten aina se viisain tapa — ja lähdettiin
+valmistelemaan sähkömarkkinalakia, joka oli kohtuullisen ankara sen suhteen, millä taval-
+la tämä sähkön toimitusvarmuus sanktioidaan. On sinänsä oikein, että se sanktioidaan, kos-
+ka se kannustaa tai jossakin määrin jopa pakottaa sähköyhtiöt pitämään verkot siinä kun-
+nossa, että sähkön siirto on häiriötöntä, se on kuluttajalle ensiarvoisen tärkeää, mutta se,
+että me säädimme ehkä vähän liian tiukan sähkömarkkinalain, johti siihen, että tälläkin het-
+kellä sellaisia verkon osia, jotka ovat hyvässä kunnossa, maakaapeloidaan, viedään maan
+sisälle. Ja se ei ole järkevää taloudellista toimintaa, sillä se a) johtaa liian nopeaan inves-
+tointitahtiin ja b) johtaa siirtohintojen liian nopeaan korotukseen.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 55/2017 vp
+Ja kun Energiamarkkinavirasto ilmeisesti sähkömarkkinalain muutoksen innoittamana
+ja sen takia muutti tälle verkon nykykäyttöarvolle maksettavaa kohtuullista tuottoa aika ra-
+justi, 100 prosenttia ylöspäin 5,92 prosenttiin, ja määritteli jopa riskin kohtalaisen korkeak-
+si — siellä on tietty beetakerroin sitä varten — siitä seurasivat sitten nämä kuuluisat Caru-
+na-korotukset ja myös muut korotukset, mitä muut yhtiöt tekivät. Kaikki tämmöiset kulu-
+rakenteen korotuksethan ovat tietenkin myrkkyä teollisuudelle ja pk-yrityksille, eivätkä
+kuluttajatkaan kovin innostuneet, mikäli lehtiä oikein aikanaan luin. Tämä Energiaviras-
+ton linjaus oli sillä tavalla hieman omituinen, että perusteluina käytettiin sitä, että joudu-
+taan investoimaan kovaa tahtia. Se oli osittain totta, sillä tämä kova investointitahti koski
+niitä yhtiöitä, joilla on verkot metsäisillä alueilla ja jotka oikeasti joutuvat investoimaan,
+koska jostakinhan sitä kassavirtaa pitää tulla. Ne joutuivat korottamaan siirtomaksuja,
+mutta tästä Energiaviraston linjauksesta hyötyivät todennäköisesti eniten ne kaupunkiyh-
+tiöt, joiden ei tarvinnut investoida mutta jotka saivat kertaheitolla hallituksen päätöksellä
+nostaa voittoa 100 prosenttia. Tällaisessa monopoliliiketoiminnassa ei näin pitäisi mene-
+tellä. Minun mielestäni siinä on tapahtunut tavallaan jonkunmoinen lainsäädännön virhe,
+ja sitten Energiavirasto on liian puhdasoppisesti lähtenyt seuraamaan tätä investointipai-
+neen aiheuttamaa painetta korottaa siirtohintoja. Minun mielestäni Energiaviraston pitäisi
+laskea tätä 5,92:ta prosenttia sen takia, että nykyisellä negatiivisella korkotasolla on vaikea
+perustella verkon nykykäyttöarvolle noin korkeaa tuottoa, mutta se vaatii sähkömarkkina-
+lain muutoksen.
+
+Edustaja Kulmuni minun mielestäni puhui täällä täysin oikeata asiaa, että tähän maakaa-
+sulakiin sisältyy sähkömarkkinalain muutos. Eli helpotetaan niitä yhtiöitä, joiden verkot
+ovat metsävaltaisilla alueilla: anomuksesta pidennetään sitä aikaa, jolloin he voivat laittaa
+nämä verkot kuntoon. Se on erittäin tärkeää, sillä se johtaa siihen, että he voivat pikkuisen
+höllentää investointitahtia, joka johtaa siihen, että he voivat jopa alentaa niitä sähköverkon
+siirtomaksuja, jotka sitten kohdistuvat kuluttajille ja teollisuuteen. Eli tämä sähkömarkki-
+nalain avaaminen ja muuttaminen tältä osin on avain siihen, että siirtohintoja ei tarvitse
+nostaa — päinvastoin, niitä voidaan laskea.
+
+Tämä on erittäin merkittävä kysymys. Minun mielestäni on hyvä, että tämä hallituksen
+esityksenä tuodaan eduskuntaan. Minä toivon, että talousvaliokunta käsittelee tämän säh-
+kömarkkinalain muutoksen tässä hengessä, antaa niille muutamille yhtiöille sitten oikeu-
+den viedä jopa tätä investointivelvoitetta pidennetyllä aikajänteellä jopa vuoteen 2036 asti.
+Minun mielestäni siinä ei kenellekään tule vaaraa, mutta me tavallaan estämme silloin sen,
+että siirtohinnat maan eri alueilla eivät kohtuuttomasti eriydy. Joten toivon todella, että en-
+sin talousvaliokunta miettii tarkkaan ja tekee tarvittavat muutokset sähkömarkkinalakiin ja
+sen jälkeen eduskunta hyväksyy, koska se on kuluttajien, pk-yritysten ja Suomen talouden
+kannalta järkevä tie.
+
+15.54 Kauko Juhantalo kesk: Arvoisa puhemies! Kannatan lämpimästi edustaja Kulmu-
+nin ja edustaja Eestilän puheenvuoroja, siltäkin osin, mikä liittyy juuri tähän puheenvuo-
+ron viimeiseen osaan edustaja Eestilällä. Se on välttämätöntä sähkölaitosten erilaisuuden ja
+johto-osuuksien vaihtelevuuden vuoksi toteuttaa, se on välttämätöntä toteuttaa tässä vai-
+heessa. 
+
+Lähdin puhumaan tuosta eriyttämisen välttämättömyydestä myös tässä koko lainsäädän-
+nössä. Kyllähän me olemme huomanneet, minkälaisia vaivoja ja haittapuolia tulee silloin,
+7
+
+
+
+Pöytäkirjan asiakohta PTK 55/2017 vp
+kun toiminta ja tuotanto ovat markkinoiden käsissä. Ne eivät ole silloin markkinataloudel-
+lisesti tasapainossa vaan aiheuttavat epänormaaleja korotuksia. 
+
+Halusin viitata vielä edustaja Myllykosken puheenvuoroon. On aivan totta, että Sata-
+kunta on edistyksellinen nestekaasun käytössä ja siihen liittyisi hyvin hienosti tämä neste-
+ytetyn kaasun käyttäminen teollisuuden ohessa. Minulla henkilökohtaisesti on mielipide
+vahvistunut biokaasun käytöstä, koska meillä paikallinen sähkölaitos Honkajoen asemalla
+on jo vuosikausia käyttänyt biokaasua sähkömoottorissa ja sähköntuotanto on ollut aivan
+loistavaa. Biokaasua tulee mitä ihmeellisimmistä aineista. Ei sitä saattanut uskoa ennen
+kuin käytännössä saattoi sen todeta, että sähköä voi tuottaa aika pahoillakin aineilla. 
+
+15.56 Jari Myllykoski vas: Arvoisa rouva puhemies! Edellä käytettyihin puheenvuoroi-
+hin on kyllä pakko yhtyä, ja on pakko olla samaa mieltä edustaja Kulmunin kanssa, mitä
+nyt edustaja Eestilä vielä tuki, että pitäisi olla jatkoaikaa. Minä katson, että jatkoaikaa voi-
+si olla niissä tapauksissa, joissa ei sitä lain tuntimäärää jouduta näillä metsäisillä alueilla
+rikkomaan. Kun teknologiat kehittyvät, niin pitäisi olla mahdollista pohtia sitä, että me
+emme kaiva maakaapeleita niille alueille, mitkä ovat ehkä autioitumassa. On aivan turhaa
+rakentaa väkipakolla lain edellyttämiä maakaapeleita sinne, missä asuminen ja elinkei-
+notoiminta ovat vähenemässä.
+
+Meillä on erilaisia ratkaisuja, joilla voisimme näitä asioita hoitaa, kuten jo aikanaan, sil-
+loin kun tätä lakia säädettiin, olisin toivonut, että meillä olisi voinut olla vaikka tämmöinen
+aggregaattiverkosto, jolla voidaan turvata se, että 32 tunnin sisällä jokaiseen asuintaloon,
+jokaiseen maatilaan voidaan saada sähköt, niin että ei tule tämmöistä 6 miljardin menetys-
+tä, mikä taloudellinen tappio tuli tämän ison sähkökatkoksen aikana. On täysin kestämä-
+töntä yksityistalouksille ja yrityksille, että meillä voi olla niin pitkiä sähkökatkoksia, että
+meillä ongelmat paisuvat niin suuriksi. Mutta on tosi tärkeätä nähdä, että kaikki kehittyy,
+korvaavat muodot, ja emmekö voisi joskus ajatella metsäisillä alueilla sitä, että voitaisiin
+pitää verkostoista puusto kauempana ja sähköyhtiöt maksaisivat sitten puiden korjuun siltä
+osin kuin isännät pitävät linjat puhtaina?
+
+15.58 Markku Eestilä kok: Arvoisa puhemies! Edustaja Myllykoski nosti tärkeän asian
+esille, se tarkoittaa tätä vierimetsänhoitoa. On ollut tiettyjä vaikeuksia saada kaikkia met-
+sänomistajia kiinni ja sopia niistä menettelytavoista, milloin tämä tärkeä sähkön kulku sit-
+ten turvataan hoitamalla vierimetsiä. Siihenkin saattaisi jopa lainsäädäntö, oma lainsäädän-
+tö, olla paikallaan.
+
+Arvoisa rouva puhemies! Nostan esille yhden asian, jonka toivoisin pistettävän jopa la-
+kiin, eli että sähköverkkoyhtiöiden täytyy ilmoittaa korotukset verottomina siirtohintoina.
+Se on hyvin tärkeää, sillä monet sähköyhtiöt mielellään ottavat siihen siirtohintaan liitty-
+vän sähköveron mukaan, jolloin tämä prosentti, paljonko sitä siirtohintaa nostetaan, piene-
+nee. Laissa pitäisi olla, että kuluttajalle pitää ilmoittaa sähkön siirtohinnan korotukset il-
+man sähköveroa, jolloin ne luvut todellisuudessa ovat korkeammat kuin sähköveron kans-
+sa.
+
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan.
+8
+
+

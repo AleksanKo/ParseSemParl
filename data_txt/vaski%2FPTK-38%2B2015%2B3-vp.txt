@@ -1,0 +1,2329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM640D.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Pöytäkirjan asiakohta 
+
+PTK 38/2015 vp
+
+Täysistunto
+
+Keskiviikko 23.9.2015 klo 14.00—17.13
+
+3. Hallituksen esitys eduskunnalle vuoden 2015 kolmanneksi lisätalousarvioksi
+Hallituksen esitys HE 19/2015 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 3. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään valtiovarainvaliokuntaan.
+
+Asian esittelee ministeri Stubb — olkaa hyvä.
+
+Keskustelu
+
+14.03 Valtiovarainministeri Alexander Stubb (esittelypuheenvuoro):  Arvoisa rouva
+puhemies, ärade fru talman! Hyvät kollegat! Hallitus tuo eduskunnan käsittelyyn nyt vuo-
+den kolmannen lisätalousarvion, ja tätä lisäbudjettia on lähdetty rakentamaan erityisesti
+kesällä saamiemme surullisten Microsoft-irtisanomisten negatiivisten työllisyysvaikutus-
+ten patoamiseksi ja nopealla aikavälillä.
+
+Nämä kesän Microsoft-tapahtumat heijastavat, harmillista kyllä, taloutemme yleistä
+mielialaa laajemminkin. Maailmantalouden kasvu on kääntymässä jälleen laskuun, kun
+Kiinan talouden kasvunäkymät ovat heikenneet ja Venäjän epäsuotuisa kehitys jatkuu.
+Vaikka monissa vientimaissamme Euroopassa on maltillista kasvua, ei Suomi ole päässyt
+tuon kasvun imuun, sillä taloutemme toimimattomat rakenteet jarruttavat edelleen kasvua.
+Vaikka muu Eurooppa on kasvussa, Suomen talous on kolmatta vuotta negatiivinen ja
+myös kuluvan vuoden kasvu uhkaa jäädä vaimeaksi.
+
+Huolestuttavinta on, että työllisyyskehityksemme on Euroopan heikointa. Myös julki-
+nen taloutemme näyttää muuttuneen pysyvästi alijäämäiseksi pidempiaikaisten rakenne-
+ongelmien vuoksi, ja heikko veropohjien kasvu ja työttömyysmenojen lisääntyminen aset-
+tavat suuren haasteen julkisen talouden hoidolle.
+
+Lienee selvää, että Suomi ei nouse ilman meille kaikille tuttuja rakenneuudistuksia:
+sote-uudistusta, kuntatehtävien purkua tai vireillä olevia kilpailukykytoimia, joihin tämä
+hallitus on nyt tarttunut. Vaihtoehtoinen tie on jatkuvien leikkausten ja hitaan näivettymi-
+sen tie, joka ei kuitenkaan kestävällä tavalla ratkaise kasvuamme estäviä rakenneongel-
+mia, ja tällaista kehitystä tuskin meistä kukaan toivoo.
+
+Arvoisa puhemies! Vaikka käsillämme on nyt niin kutsuttu Microsoft-lisäbudjetti, niin
+hallituksen toimenpiteet ovat tietysti kokonaisuus. Tätä yksittäistä lisäbudjettia ei voi irrot-
+taa isosta kokonaisuudesta. Työllisyyskehityksen kannalta merkittäviä toimenpiteitä ovat
+muun muassa hallituksen esitykset yhteiskuntasopimuksen korvaaviksi toimiksi ja halli-
+tusohjelmassa linjatut isot uudistushankkeet paikallisen sopimisen edistämisestä tai työ-
+voimahallinnon isosta kokonaisuudesta.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Olennaista on myös, miten kannustamme suomalaisia yrityksiä investoimaan, kasva-
+maan ja työllistämään. Jokainen ymmärtää, että esimerkiksi jo pelkästään näiden Micro-
+softilta menetettyjen työpaikkojen korvaajiksi tarvitaan lukuisia uusia pieniä ja keskisuu-
+ria yrityksiä sekä olemassa olevien yritystemme kykyä ja halukkuutta uudistaa ja kasvaa.
+Tätä myönteistä kasvun kierrettä hallitus pyrkii käynnistämään muun muassa kannustaval-
+la veropolitiikalla, työllistämisen kynnystä alentamalla sekä talouspolitiikan ennustetta-
+vuutta lisäämällä.
+
+Kuten todettu, nyt tarkastelemme siis hyvin pientä osaa hallituksen toimenpiteiden ko-
+konaisuudesta. Lisäbudjetilla voimme kuitenkin tuoda nopeaa helpotusta akuuttiin tilan-
+teeseen, ja tästä tulokulmasta budjetissa esitettyjä toimia tulee myös tarkastella.
+
+Microsoft-kohdistettuja toimia ovat lisäbudjetissa satsaukset aikuiskoulutukseen ja työl-
+lisyysmäärärahoihin. Erityisesti ict-alalta irtisanottujen ammatilliseen lisäkoulutukseen ja
+korkeakoulutukseen esitetään yhteensä reilun 2 miljoonan euron lisämäärärahaa kuluvalle
+vuodelle. Lisärahoituksen turvin voidaan tarjota koulutusta yhteensä noin 750 henkilölle.
+Koulutukset on tärkeä suunnitella siten, että ne kestoltaan ja sisällöltään vastaavat mahdol-
+lisimman hyvin asiakkaiden tarpeisiin.
+
+Työllisyysmäärärahoihin hallitus ehdottaa 21,6 miljoonan euron määrärahalisäystä, jos-
+ta 20 miljoonaa euroa aiheutuu työttömyyden yleisestä kasvusta ja 1,6 miljoonaa euroa Mi-
+crosoftin irtisanomisista. Lisäksi ely-keskusten ja te-toimistojen resursseja lisätään yhteen-
+sä 9 henkilötyövuodella, jotta Microsoftin irtisanomistilanteen aiheuttamasta paineesta
+huolimatta henkilökohtainen apu ja asioiden nopea käsittely voidaan turvata.
+
+Arvoisa rouva puhemies! Haastavan Microsoft-tilanteen lisäksi lisäbudjetilla vastataan
+myös muutamiin muihin akuutteihin määrärahatarpeisiin, jotka eivät voi odottaa varsinais-
+ta talousarviota tulevalle vuodelle:
+
+Turvapaikanhakijoiden määrän merkittävästä kasvusta johtuen hallitus näkee tärkeäksi
+lisätä resursseja Maahanmuuttovirastolle, poliisille ja suojelupoliisille, jotta turvapaikka-
+päätösten sujuvuus voidaan turvata myös erittäin haastavassa tilanteessa. Yhteensä lisäyk-
+siä tehdään reilun 3 miljoonan euron edestä, ja on sekä Suomen että turvapaikanhakijoiden
+itsensä etu, että päätökset tulevat kohtuullisessa ajassa. On varauduttava siihen, että myös
+vuoden viimeisessä lisätalousarviossa joudumme tekemään vastaavia lisäyksiä. Viran-
+omaisten määrää ja resursseja lisätään tähän työhön tarpeen mukaan, jotta tilanne pysyy
+hallinnassa. Pitkällä aikavälillä eurooppalaiset ratkaisut turvapaikanhakijatilanteeseen
+ovat sekä taloudellisesti että inhimillisesti välttämättömiä. Näitä haetaan paraikaa Euroo-
+pan maiden kesken paitsi eilisessä sisäministerikokouksessa myös tänään ylimääräisessä
+Eurooppa-neuvoston kokouksessa.
+
+Hallitus haluaa kantaa kortensa kekoon myös maatalouden kannattavuuskriisin helpot-
+tamiseksi. Moni maanviljelijöistämme on nyt vaikeassa tilanteessa Venäjän asettamien
+elintarvikkeiden tuontikieltojen takia. On arvioitu, että yksistään Suomen maitoalan tuon-
+tikiellosta aiheutuvat menetykset nousevat noin 200 miljoonan euron luokkaan, joten me-
+netyksistä voidaan korvata vain pieniä osia. Tarkoituksenamme on kuitenkin auttaa suo-
+malaisia tiloja yli kaikkein vaikeimman 20 miljoonan euron kertaluontoisella lisäyksellä
+maatilojen maksuvalmiuden turvaamiseen.
+
+Lisätalousarviossa on myös muutamia pienempiä mutta tästä huolimatta tärkeitä lisäyk-
+siä:
+2
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Ammatilliseen koulutukseen ehdotetaan 5 miljoonan euron lisäystä, ja tavoitteenamme
+on määrärahan turvin tukea ja edistää ammatillisen koulutuksen reformin sisältämien ke-
+hittämistoimien käynnistämistä.
+
+Hallitus jatkaa myös ajoneuvojen romutuspalkkiokokeilua 5 miljoonan euron lisämää-
+rärahalla. Kokeilusta tähän asti saavutetut kokemukset ovat olleet pelkästään myönteisiä.
+Romutuspalkkiokokeilun ideana on, että uuden auton oston yhteydessä yli 10 vuotta van-
+han auton romuttamisesta maksetaan 1 500 euron palkkio, jonka saa hyödyksi uuden auton
+hinnassa. Tilastojen mukaan kokeilu on vilkastuttanut autokauppaa selkeästi ja lisännyt
+alan positiivista imua yhdessä hallituksen autoverokevennyspäätöksen ohella. Sekä auto-
+veron alennuksessa että romutuspalkkiokokeilussa erityisen myönteistä on, että autokan-
+tamme uudistuu ja uudet autot ovat turvallisempia ja vähäpäästöisempiä ja samalla ro-
+muautot ohjautuvat virallisiin romutuspaikkoihin.
+
+Arvoisa rouva puhemies! Tässä on kuluvan vuoden kolmannen lisätalousarvion keskei-
+nen sisältö tiivistetysti. Taloustilanteemme haastavuudesta ja arvaamattomista lisämäärä-
+rahatarpeista johtuen hallituksen on varattava myös riittävä liikkumatila tulevassa, neljän-
+nessä lisätalousarviossa. Jakamattomaksi varaukseksi jää tämän esityksen jälkeen noin 70
+miljoonaa euroa. Ensi viikolla pääsemme sitten pureutumaan talouden isompaan kokonais-
+kuvaan tuoreine talousennusteineen ensi vuoden varsinaisen talousarvioesityksen, julki-
+sen talouden kehysten ja yhteiskuntasopimuksen korvaavien toimenpiteiden käsittelyssä.
+— Kiitos.
+
+Puhemies Maria Lohela: Asiasta herännee keskustelua, joten pyydän ilmoittautumaan
+nousemalla seisomaan ja painamalla V-painiketta.
+
+14.12 Olavi Ala-Nissilä kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Harvoin
+on lisätalousarvio niin tarpeellinen kuin tällä kertaa. Tässä on erittäin tärkeitä kohteita.
+
+Ministeri Stubb toi esille Salon seudun tilanteen, jossa todella 6 000 työpaikkaa on vä-
+hentynyt, viimeksi 1 000. Todellakin on erittäin tärkeää ja hyvä asia, että hallitus reagoi li-
+sätalousarviossa tilanteeseen, jotta voidaan sitä Salon kaupungin ja Salon seudun omaa ke-
+hittämissuunnitelmaa viedä eteenpäin. Meillä olikin tilaisuus käydä siihen tutustumassa, ja
+todella siellä on yrittäjyyttä nyt viriämässä, myöskin ict-alalle. Siinä mielessä on tärkeää,
+että tämä koulutus osuu tähän aikaan, jo tähän syksyyn.
+
+Arvoisa puhemies! Tämä ei ole varsinainen täydentävä puhe vaan kiitos ministerille hy-
+västä määrärahasta oikeaan kohteeseen.
+
+14.13 Arto Satonen kok (vastauspuheenvuoro): Arvoisa puhemies! On helppo yhtyä
+edelliseen puhujaan ja myöskin ministerin avauspuheenvuoroon. Nämä kohteet on erittäin
+hyvin valittu. Tässä Microsoftin tilanteessa on erittäin tärkeää, että me saamme sen osaa-
+misen käyttöön, joka sieltä nyt vapautuu, että se lähtee uuteen yritystoimintaan tai täyden-
+nyskoulutuksen kautta toisille aloille hyödyttämään suomalaista teollisuutta, suomalaista
+kauppaa ja suomalaista osaamista ylipäätään. Ja se, että me saamme sellaiset ihmiset sitten
+oikeisiin paikkoihin, jotka sieltä vapautuvat, on todella merkittävä asia. Tämä on Salossa
+kaikkein suurin haaste mutta toki myös Tampereella, Oulussa ja muualla, missä Microsof-
+tin väkeä on ollut.
+
+Pidän hyvänä myös sitä, että tähän autojen romutuspalkkioon saatiin jatkoa, ammatilli-
+sen koulutuksen reformia käynnistetään ja myöskin saatiin apua tähän maatalouden akuut-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+tiin tilanteeseen, (Puhemies koputtaa) joka pitkälti johtuu Venäjän asettamista tuontiesteis-
+tä.
+
+14.14 Kaj Turunen ps (vastauspuheenvuoro): Arvoisa puhemies! Kiitos valtiovarainmi-
+nisterille hyvästä esittelystä. On erittäin tärkeää nyt, että tähän Salon työttömyysongel-
+maan pureudutaan ja sitä helpotetaan. Meillä on paljon suomalaisia yrityksiä, joitten tuo-
+tanto on Kiinassa ja vastaavissa halvemmissa maissa, ja täytyisi löytää myös keinoja tä-
+män tuotannon Suomeen tuomiseksi, ja varmaan niitä keinoja onkin käytettävissä.
+
+Erityisesti haluan kiittää hallitusta näistä työllisyysmäärärahoista ja erityisesti ministeri
+Lindströmiä tältä osalta, että yli 20 miljoonaa euroa on tässä lisätalousarviossa tähän tar-
+koitukseen laitettu. Olisi tullut katastrofaalinen tilanne tähän maahan, jos tätä ei olisi ollut,
+niin että kiitos tästä.
+
+Ja ihan lopuksi vielä haluaisin sanoa tästä maatalouden hätäapupaketista maksuvalmiu-
+den parantamiseen, että se tulee viime tipassa ja on tosin riittämätön — resurssit ovat ra-
+jalliset — mutta on (Puhemies koputtaa) erittäin hieno juttu.
+
+14.15 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Tilanne on nyt to-
+della vakava. On hyvä, että rahaa tulee, mutta se tulee armottomasti myöhässä ja sitä on
+liian vähän. Me tiedämme, että arvioitu tarve, mitä tähän tarvitaan, on 90 miljoonaa euroa;
+te esitätte noin pariakymmentä. Ministeri Lindström, minä kysyn teiltä: Te olette usein sa-
+nonut, että raha on riittämätön. Miksi esitätte vain 30:tä miljoonaa? Mitä ajattelette siitä,
+että tällä rahalla ei voida kolmannestakaan tarpeesta tyydyttää? Minun mielestäni nyt ei
+olisi varaa askarteluun, vaan tämä asia pitää ottaa hyvin vakavasti. Yleisesti ottaen työlli-
+syystilanne pahenee, ja aika moni talouden arvioitsijakin on sanonut viime aikoina, että
+hallituksen leikkauspolitiikka vain heikentää kasvunäkymiä ja työllisyystilannetta. (Kaj
+Turunen: Tässä on nyt lisärahasta kysymys!) Miten luomme työpaikkoja sillä, että leik-
+kaamme sosiaaliturvaa ja ihmisten ostovoimaa? Miten luomme työpaikkoja sillä, että leik-
+kaamme osaamisesta ja koulutuksesta? Miten luomme työpaikkoja sillä, että te haluatte
+(Puhemies koputtaa) vielä kaiken kukkuraksi leikata ihmisten palkkoja?
+
+14.16 Touko Aalto vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Vihreät katsoi-
+vat jo kesällä toisen lisätalousarvion yhteydessä alati pahenevan työttömyystilanteen vaa-
+tivan lisää työllisyysmäärärahoja. Silloin tämä sali päätti toisin, vaikka kaikki asiantuntija-
+lausunnot toistivat yhtä ja samaa viestiä: työllistämismäärärahoista on huutava pula, ja yri-
+tysten starttirahat ja nuorten palkkatukityöllistämiseen tarvittavat rahat ovat loppu tältä
+vuodelta. On hyvä asia, että nyt julkisiin työvoima- ja yrityspalveluihin on tehty 21,6 mil-
+joonan euron lisäys, mutta tuo summa kattaa lähes vain ja ainoastaan Uudenmaan tarpeet.
+Kuten edustaja Viitanen sanoi, todellinen tarve on 90 miljoonaa euroa. Kysyn: minkä takia
+hallitus maksaa mieluummin siitä, että ihmiset eivät saa työtä, kuin maksaisi siitä, että ih-
+miset saisivat työtä ja mahdollisuuden koulutukseen?
+
+14.17 Kari Uotila vas (vastauspuheenvuoro): Arvoisa puhemies! On hyvä, että hallitus
+reagoi Microsoftin tilanteeseen, mutta sekä valtiovarainministerin että työministerin olisi
+pitänyt ehkä lukea se valtiovarainvaliokunnan ja eduskunnan hyväksymä mietintö toisesta
+lisäbudjetista tai ainakin muistella sitä, (Eero Heinäluoma: Kesäkuulta!) kun aikoinaan lu-
+ki. Silloin koko valiokunta — ei vain oppositio, joka vaati pikaisesti lisäbudjettia jo syys-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+kuun alulle — koko eduskunta, koko tämä sali totesi, että työllisyysmäärärahat ovat lop-
+puneet. Yhteenlaskettu tarve on 110 miljoonaa. Tämä viesti on tietenkin voimassa, ja tämä
+oli tilanne ilman Microsoftin katastrofia. Tämän vuoksi olemme todella huolissamme, oli-
+siko tullut lisäbudjettia ollenkaan, olisiko se tullut siellä lokakuun lopulla, mikä olisi ollut
+auttamattomasti myöhässä, niin kuin keväällä todettiin. Nyt ei ole kysymys pelkästään Mi-
+crosoftista. Hyvä on, että Salon seutua autetaan, mutta kyllä nyt on huutava pula rahasta:
+110 miljoonaa puuttuu työllisyysmäärärahoja, starttirahoja (Puhemies koputtaa) ja niin
+edelleen.
+
+14.18 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Työllisyysmää-
+rärahojen lisäys on toki tärkeä, mutta niin kuin täällä monien kollegojen suusta on jo käy-
+nyt ilmi, tällä hetkellä tuo määräraha, mitä hallitus esittää, reilua 20 miljoonaa, on lisäys,
+joka ei riitä. Se tieto, mikä te-keskuksista ja myöskin pitkäaikaistyöttömiä työllistävien
+työttömien yhdistyksiltä on saatu, kertoo juuri siitä, että noin 90 miljoonaa olisi se todelli-
+nen tarve.
+
+Me olemme saaneet ministeriöstä sen tiedon, että tälle vuodelle on siirtynyt niin sanot-
+tuja siirtomäärärahoja noin 200 miljoonaa, jotka ovat siis jo sidottuja, mutta siellä on noin
+50 miljoonan euron puskuri. Pystyisikö työministeri kertomaan, miksi tätä 50 miljoonan
+euron puskuria ei tässä tilanteessa voitaisi vapauttaa, jolloinka yhdessä tämän lisäbudjetti-
+määrärahan kanssa päästäisiin jo lähemmäksi 70:tä miljoonaa, joka paremmin vastaisi sii-
+hen tilanteeseen, mikä tuolla kentällä tällä hetkellä on?
+
+14.19 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Maakunnissa on tu-
+hansia ihmisiä, jotka haluaisivat päästä töihin, heillä olisi työpaikka valmiina, mutta palk-
+katuki on jäissä. Ja nyt se, mitä tässä esitetään, hädin tuskin riittää sen ruuhkan purkami-
+seen, mikä tässä on syntynyt. Siis tarve olisi 90 miljoonaa, mutta meillä on työministeri,
+joka esittää vain 30 miljoonaa. Te olette ollut nyt alle neljä kuukautta ministerinä. Ensim-
+mäistä kertaa meillä on työministeri, joka ei itse pidä huolta siitä, että työllisyysmäärärahat
+riittävät. (Eduskunnasta: Riittikö viime kaudella?) Meillä on työministeri, joka on sitä
+mieltä, että kansainvälisiä ILOn sopimuksia esimerkiksi tässä hallituksen pakkopaketissa
+ei voi noudattaa.
+
+Viime perjantain mielenosoituksessa kysyttiin, kun teillä on ollut tämä slogan "sitä saa,
+mitä tilaa", että mistä tämän tilauksen voi perua.
+
+14.20 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Näin on käynyt,
+että työttömyys on kääntynyt uudelleen nousuun ja ikäviä uutisia tulee jatkuvasti. Tämä
+Microsoftin tilanne on yksi näitä pahimpia, mutta tämä sama näyttää jatkuvan muuallakin.
+
+Kun työttömyys kasvaa, niin silloinhan pitäisi tietysti reagoida työllisyysmäärärahojen
+osalta. Meillä on tilanne työvoimatoimistoissa, että siellä ei enää ole kerta kaikkiaan antaa
+palveluita sinne tuleville. Ihmisille sanotaan, että tulkaa neljän kuukauden kuluttua uudel-
+leen. Neljään kuukauteen ei voida tehdä yhtään mitään, ja senkin jälkeen tulee ensimmäi-
+nen tapaaminen. Määrärahat tulevat jäljessä. Viimeinen tieto oli, että meillä on asiallisesti
+ottaen melkein 500 000 ihmistä ilman töitä. Starttirahoja ei voida myöntää, yritysten pe-
+rustaminen lykkääntyy, monenlaista toivottomuutta syntyy. Eikö nyt olisi paljon järke-
+vämpää sen sijaan, että tätä piipertämistä tehdään ja sitä kehutaan täällä, tehdä radikaalim-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+pia liikkeitä, jotta me voisimme akuutisti auttaa näitä ihmisiä, jotka ovat jääneet ilman työ-
+paikkaa?
+
+14.21 Outi Alanko-Kahiluoto vihr (vastauspuheenvuoro): Arvoisa puhemies! Työttö-
+myyden lisääntyminen on tosiaan huolestuttavaa, ja hallituksen keinot tähän tilanteeseen
+nähden ovat aivan riittämättömiä. (Eduskunnasta: Se on totta!) Silloin kun kesällä kuultiin
+Salon uutisesta, niin sekä työministeri Lindström että pääministeri Sipilä pohdiskelivat jul-
+kisuudessa, voitaisiinko esimerkiksi ansiosidonnaista uudistaa sillä tavalla, että se sallisi
+tämmöisen yrittäjämäisen työnteon, elikkä ansiosidonnainen uudistettaisiin ikään kuin toi-
+mimaan starttirahan tapaan. Missä viipyy lainvalmistelu tämän mielestäni erittäin hyvän
+idean osalta, jota me vihreätkin olemme edistäneet, ja mitä kuuluu hallitusohjelmaan kir-
+jatulle perustulokokeilulle?
+
+14.22 Kalle Jokinen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Lisätalousar-
+viohan tehdään sen takia, että pystytään reagoimaan näihin muuttuviin olosuhteisiin, joita
+budjettivuoden aikana tulee, ja sitähän tässä nyt tehdään. Tässä satsataan nyt lisää työlli-
+syyteen, maatalouden ongelmiin. Sitten on tämä ennalta arvaamaton pakolaisten ja turva-
+paikanhakijoiden vyöry, joka aiheuttaa kustannuksia, kustannuspaineita Maahanmuuttovi-
+rastolle ja poliisille, ja on erittäin tärkeää, että sinne nyt lisätään ja saadaan tätä asiaa hoi-
+dettua.
+
+Kuitenkin tämä lisäbudjetti lisää valtion nettolainanoton tarvetta 52 miljoonaa euroa
+edelleen, elikkä me edelleen velkaannumme, ja kun täällä huudetaan lisää rahaa kaikkiin
+tärkeisiin kohteisiin, niin samalla huudetaan myös lisää valtiolle velkaa. Tämä yhtälö mei-
+dän pitää ennen pitkää ratkaista, näin tämä ei voi olla, (Touko Aalto: Työttömyys lisään-
+tyy!) että aina vain huudetaan lisää velkaa. Pitää olla muita ratkaisuja hoitaa, ja tiedän, että
+työministeriössä esimerkiksi kuumeisesti haetaan ja tehdään työtä sen eteen, että on myös
+muita ratkaisuja kuin velalla rahoittaa tätä työllisyystilannetta. (Välihuutoja)
+
+Mutta kysynkin, kun tästä jää jakamatonta varausta 70 miljoonaa euroa: (Puhemies ko-
+puttaa) riittääkö se loppuvuodelle, vai miten se kohdennetaan jatkossa? (Eduskunnasta: Ei
+riitä!)
+
+Puhemies Maria Lohela: Otetaan edustajat Pakkanen, Terho, Myllykoski, Rinne ja sitten
+ministeri Lindström.
+
+14.24 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Niin
+kuin täällä on kuultu monessa puheenvuorossa, työllisyydestä pitää kantaa huolta, ja arvos-
+tan itse työministeri Lindströmin toimintaa. Hänellä on omakohtaisia kokemuksia työn te-
+kemisestä työttömyyden oloissa.
+
+Mutta erityisesti tässä lisätalousarvioasiassa minua lämmittää tuo nopea reagointi maa-
+hanmuuttoon, lisäresurssit sinne. Se myös parantaa työllisyyttä, ja meillä Kouvolan seu-
+dulla on nyt tästä oiva esimerkki, kun sitä keskusta ollaan sinne juuri perustamassa.
+
+Toinen asia, mihin haluan myönteisellä tavalla kiinnittää huomion, on tämä, että hallitus
+reagoi tähän maatalouden hätään ja sinne on saatu riittävästi toimenpiteitä ja rahaa. — Kii-
+toksia.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+14.24 Sampo Terho ps (vastauspuheenvuoro): Arvoisa rouva puhemies! Niin, kun luo-
+daan yksityissektorin työpaikkoja, se tietysti perustuu kilpailukykyyn, josta nimenomaan
+hallitus yrittää parhaansa mukaan pitää huolta. Veronmaksajien kustantamia, käytännössä
+siis velalla rahoitettuja työpaikkoja meillä ei ole enää varaa ylläpitää ikään kuin vain elvyt-
+tämisen nimissä. Se ei johda mihinkään kestävään lopputulokseen.
+
+Oppositio tuntuu odottavan näissä lisäbudjettikeskusteluissa, että parilla lisäbudjetilla
+uusi hallitus korjaa kaikki edellisen vaalikauden virheet, joita te olitte tekemässä. Se on
+mahdotonta. (Välihuutoja — Puhemies koputtaa) Valitetaan piipertämisestä ja samaan ai-
+kaan vastustetaan jokaista suurempaa uudistusta, mitä me ehdotamme. Yrittäkää löytää
+jonkinlainen johdonmukaisuus toimintaanne. (Martti Mölsä: Se on mahdotonta!)
+
+Ehkä on syytä muistuttaa tästä suuresta kuvasta, josta tämä lisäbudjetti on pieni osa, ja
+siksi pyydänkin ministereitä kertomaan, miten tämä lisäbudjetti sijoittuu siihen suureen
+kuvaan, miten Suomen työllisyyttä ja kilpailukykyä parannetaan.
+
+14.25 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Pahoittelen
+jo nyt sanavalintojani, mutta täytyy sanoa, että edelliseen puheenvuoroon on pakko sanoa,
+että ehkä politiikan kotiuttaminenkin olisi jossain kohtaa tarpeellista, että havaitaan, mitä
+Suomessa on tapahtunut. Edellinen hallitus tai sitä edellinen hallitus ei voi yritysten irtisa-
+nomisille kyllä yhtään mitään. Ehkä se syyttely tässä toistemme kohdalta on pikkuisen har-
+haanjohtavaa.
+
+Mutta, arvoisa rouva puhemies, hallitus lyö omalla leikkauskirveellään jo ammottavaan
+työttömyyden haavaan vielä lisäiskua, ja sitten täällä meidän pitäisi juhlistaa sitä, että nyt
+laastarilla koetetaan paikata tätä asiaa. Kyllä olisin toivonut, että työministeri Lindström
+olisi lähtenyt hakemaan isompaa kalaa jo lähtökohtaisesti kuin 30:tä miljoonaa, sillä kyllä
+kalastuslaissakin on joku alamittasääntö. Nyt lähdettiin jo pyytämään alamittaista lohta.
+
+14.27 Antti Rinne sd (vastauspuheenvuoro): Arvoisa puhemies! Käynnistin jo viime syk-
+synä valmistelun valtiovarainministeriössä peruspäivärahan ja työmarkkinatuen käyttämi-
+seksi aktiiviseen työllistämiseen, ja se valmistelu on siellä edennyt, ymmärtääkseni. Siinä
+on se logiikka, että voitaisiin sitä työttömän toimeentuloon käytettävää peruspäivärahaa ja
+työmarkkinatukea käyttää elementteinä, joilla saadaan työllistettyä. Se tarkoittaisi noin
+700 euroa kuukaudessa yrityksille, jotka ovat valmiit työllistämään, ja korvaisi sitä palk-
+katukeen ja starttirahaan riittyvää rahanpuutetta tällä hetkellä kovastikin.
+
+Miksi te, ministeri Lindström, tyydytte näpertelemään muutaman kymmenen miljoonan
+euron korjauksilla, kun tarvittaisiin 100 miljoonaa euroa lisää rahaa? Mitä te luulette, että
+teidän työttömät työkaverinne paperitehtaalta miettivät tästä näpertelystä?
+
+Puhemies Maria Lohela: Ministeri Lindström, 3 minuuttia.
+
+14.28 Oikeus- ja työministeri Jari Lindström: Arvoisa rouva puhemies! Myöhässä,
+liian vähän, piiperrystä ja näpertelyä. Minkä takia ollaan tässä tilanteessa? Minulle tuli sy-
+liin näiden työllisyysmäärärahojen valtuuksien loppuminen heti, kun tämä homma alkoi.
+Samalla hetkellä ilmaisin huoleni myös hallituksen sisällä, ja siihen asiaan puututtiin. Te
+syytätte minua nyt jostain semmoisesta, mitä te itse olette linjanneet tämän vuoden alussa.
+Te olette linjanneet, että korvamerkitään rahoja. Järjestelmä on niin jäykkä, että sieltä, mis-
+sä on rahoja, ei voida käyttää niitä jonnekin muualle. Se, että me tässä etsimme syyllisiä, ei
+7
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+tietenkään auta yhtään työttömiä, mutta syyttäkää minua, minä otan tämän kyllä vastaan.
+(Ben Zyskowicz: Kekkosmainen puheenvuoro!)
+
+Näpertely. Mitä tässä ollaan tekemässä? Tässä ollaan tekemässä täydellistä muutosta
+työttömyyden hoitoon. Yhä vähemmillä rahoilla pitää tehdä yhä paremmin. No, mitä me
+tässä näpertelemme? Me näpertelemme sitä, että olen tavannut kaikkien te-keskusten joh-
+tajat viime viikolla ja saanut sieltä erittäin hyvää palautetta. Siellä on valmiutta tehdä asioi-
+ta uudella tavalla. Kun ei rahaa ole laittaa niin paljon, niin tehdään niillä vähillä rahoilla jär-
+kevämpiä toimenpiteitä. Se tarkoittaa sitä, että toimenpiteillä pitää olla vaikuttavuutta. Mi-
+nun mielestäni tämä tämmöinen syyttely ja tämmöinen, että teidän aikana nämä asiat on
+tehty hyvin — totta kai, me reagoimme nyt tähän hätään.
+
+Miksi en pyytänyt isompaa kalaa? Työllisyysmäärärahoja jo seuraavalle vuodellekin
+lasketaan. Minkä takia? Sen takia, että meillä on niin vähän rahaa käytettävissä joka puo-
+lella muutenkin. Tästä tuntuu unohtuvan tämä iso kuva siitä, mitä me koetamme tehdä: lait-
+taa samaan aikaan Suomen taloutta kuntoon, koettaa saada elinkeinopolitiikkaa kuntoon,
+koettaa saada työpaikkoja, koska emme me voi pakottaa mihinkään ihmisiä, joilla ei ole
+työpaikkoja. Tämä on kummallista keskustelua, mutta otan nämä viestit vastaan.
+
+Täällä tuli sentään ihan konkreettisiakin kysymyksiä liittyen siihen, voitaisiinko kehit-
+tää uusia malleja, muun muassa joku irtisanomiskorvauksen käyttäminen yrittämisen tuke-
+miseen. STM:ssä on pohdiskelussa kaikenlaisia keinoja. Meillä on mahdollisuus tämän
+hallitusohjelman mukaan kokeilla asioita. Sen kokeilun alle, esimerkiksi työn sateenvar-
+jon alle, voidaan laittaa erilaisia kokeiluja, joilla me saamme kokemuksia siitä, mikä toi-
+mii.
+
+Nyt on tärkeää miettiä semmoisia keinoja, millä me saamme sitä vaikuttavuutta. Palk-
+katuki ja starttiraha ovat semmoisia, mistä on oikeasti ollut hyötyä, ja niihin kannattaa pa-
+nostaa jatkossakin, mutta kysymys kuuluu: mihin muuhun meidän on syytä, vai onko syy-
+tä, laittaa rahaa? Millä tavalla me autamme niitä ihmisiä? Pyörivätkö he siellä oravanpyö-
+rässä vai pääsevätkö he oikeasti elämässä eteenpäin? Tämä on se iso kysymys. Ei hallituk-
+sella ole tarkoitus kiusata työttömiä, vaikka täällä koetetaan nyt antaa sellaista kuvaa, että
+täällä herra työministeri vain puuhastelee. Kyllä herra työministeri tekee koko ajan, ja var-
+sinkin se virkakunta, kovasti töitä, että tämä järjestelmä ja tämä asenne muuttuu. — Kii-
+toksia. 
+
+Puhemies Maria Lohela: Ministeri Stubb 3 minuuttia, sitten jatketaan keskustelua.
+
+14.31 Valtiovarainministeri Alexander Stubb: Arvoisa rouva puhemies! Mielestäni
+erinomaista keskustelua, ja kaikkea syyttelyä pitää ilman muuta välttää.
+
+Tuossa jossain vaiheessa tuli mieleen vanha integraatioteoreetikko Donald Puchala,
+joka taisi vuonna 1973 kirjoittaa artikkelin, joka käsitteli sokeaa miestä ja norsua, siis sitä
+suurta kuvaa. Perusargumentti oli se, että integraatioteoriassa, kuten taloudessa, jos vain
+tunnustelee yhtä osaa siitä kokonaisuudesta, niin ei välttämättä saa kokonaiskuvaa. Se on
+ehkä lisätalousarvion käsittelyn perusongelma, että me käsittelemme vain pientä osaa, niin
+kuin edustaja Terho tuossa totesi.
+
+Itse näkisin tämän kokonaisuuden sillä tavalla, siis eduskunnan ja hallituksen näkökul-
+masta, että yksi ensisijaisista tehtävistä meillä on julkisen talouden tasapainottaminen.
+Kylmä tosiasia on se, että tänä vuonna otetaan 5 miljardia euroa lisävelkaa. Eli käytännös-
+sä meillä on tuloja 49,1 miljardia ja menoja 54,1 miljardia.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Toinen oikeastaan kokonaisuus, jonka kanssa me koko ajan kamppailemme, on tietysti
+se, että on tiettyjä akuutteja menoja, niin kuin tämä lisätalousarvio osoittaa. Tällä kertaa me
+olemme kohdentaneet ne työttömyysrahoihin lähtien Microsoftista, ja ymmärrän myös sen
+kritiikin, että liian myöhään, liian vähän. Mutta en usko, että kenelläkään olisi mahdolli-
+suutta antaa enempää tai aikaisemmin. Toinen suuri kokonaisuus, jota me tässä käsittelem-
+me, on turvapaikanhakijoista lisääntyvät menot, ja kolmas on tietysti meidän maatalous ja
+maatalouden ahdinko. Niitä me nyt katsomme tässä, ikään kuin yhtenä palana sitä koko-
+naisuutta.
+
+Mutta uskallan kuitenkin väittää, että jos me katsomme sitä isompaa kokonaisuutta —
+hallitusohjelman toimenpiteet, tavoitteet, kärkihankkeet ja erityisesti yhteiskuntasopimuk-
+sen korvaavat toimenpiteet — niin ne ovat hyvä alku sille muutokselle, että me emme jou-
+du enää tämäntyyppisiin akuutteihin toimiin tässä matkan varrella.
+
+Haluaisin tähän loppuun ehkä korostaa kahta asiaa. Ensimmäinen on se, että yksityis-
+sektori tukee meitä julkisella sektorilla, ja silloin lähtökohta on se, että yritys pyrkii myy-
+mään tuotteita ja palveluita maailmalla ja kotimaassa ja siitä me julkisella puolella pääsem-
+me jakamaan, siis sekä työpaikkojen että myös sitten verotulojen kautta. Jos meillä ei ole
+työvoiman kysyntää ja tarjontaa, jos yrityksillä ei ole järkeä tai kykyä tuottaa palveluita ja
+tuotteita, jotka myyvät, niin meillä ei myöskään ole sitä jakamatonta varausta, lisätalous-
+arviota tai muuta.
+
+Viimeinen huomio on se, että ei Suomi säästämällä kasva, ei Suomi elvyttämällä kasva
+emmekä me selviä tästä tämän suhdanteen jälkeen, vaan kyse on huomattavasti laajemmas-
+ta rakenteellisesta uudistuksesta. Se on se norsu, joka meidän pitää kaikkien nähdä.
+
+14.34 Antti Rinne sd (vastauspuheenvuoro): Arvoisa puhemies! Ymmärrän tämän tus-
+kan, mikä ministereillä on tämän talouden suhteen, ja ei se kellekään meille yllätys ole, että
+tämmöinen tilanne on olemassa. Mutta mikä minua harmittaa tässä lisätalousarvioesityk-
+sessä: Me esitimme jo kesällä, viime kesäkuussa, että lisätään näitä työllisyysmäärärahoja,
+jotta saadaan niitä ihmisiä töihin. Nyt on useita kuukausia kulunut taas siitä eteenpäin, ja
+ollaan tilanteessa, jossa nämä rahat, joita esitetään, eivät riitä niitten ihmisten työllistämi-
+seen, joilla olisi työpaikat jo olemassa, kun saataisiin palkkatukea liikkeelle, starttirahaa
+liikkeelle. Sen takia vetoan uudelleen nyt tähän ministeri Lindströmiin, että miettisitte uu-
+delleen niitä lisäkeinoja, jotka esimerkiksi peruspäivärahan ja työmarkkinatuen kautta voi-
+sivat synnyttää mahdollisuuden käyttää tätä työttömien toimeentuloon tarkoitettua rahaa
+myöskin palkkatuen muodossa, ja nopeasti käyttäisitte näitä keinoja. Se mahdollistaisi sen,
+että ei tarvitsisi palkkatukea niin paljon lisätäkään, kun saisi toista kautta lisää rahaa.
+
+14.35 Tarja Filatov sd (vastauspuheenvuoro): Arvoisa puhemies! Meillä kuitenkin on
+budjetissa rahaa: siellä on 6 miljardia euroa, jotka ovat työttömyydestä aiheutuvia kuluja,
+ja niistä noin 5,5 miljardia kuluu työttömyysturvaan, ja puhumme yli 4 miljardin summas-
+ta, joka on työttömyyden nettovaikutus. Jos me ottaisimme käyttöön tämän mallin, jota
+edustaja Rinne tässä esitti, me voisimme käyttää sitä rahaa, joka nyt maksetaan passiivi-
+sesti työttömälle aktiivisena rahana, olipa kyse sitten työllistämisrahasta, nuorten Sanssi-
+kortin lisäämisestä (Kaj Turunen: Ansiosidonnainen!) tai vaikkapa starttirahasta, ja silloin
+tämä uudistus on mahdollista tehdä hyvin nopeasti, koska siinä on kyse vain valtion mak-
+samasta rahasta. Sitten jos puhutaan ansiosidonnaisesta ja sen aktiivisemmasta käytöstä,
+varmasti tarvitaan työmarkkinajärjestöjä neuvottelupöytään, ja se ei ole niin nopea tie.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Mutta nyt me käytämme vain puoli miljardia aktiivisiin toimiin, ja se on tällä hetkellä
+loppu. On hyvä, että tämä 20 miljoonaa euroa tulee, (Puhemies koputtaa) mutta se tarve to-
+dellakin olisi vain Uudellamaalla, ja vaikka te sanotte, että työnvälitykseen panostetaan ja
+se on se uudistus, tosiasia on, että näillä resursseilla ei pääse (Puhemies koputtaa) edes työ-
+voimatoimiston asiakkaaksi.
+
+14.36 Timo Kalli kesk (vastauspuheenvuoro): Arvoisa puhemies! Iso kuva piirtyy siitä,
+että maailmantaloudessa ei tapahdu kasvua ja meidän kilpailijamme ovat tehneet enem-
+män rakenteellisia muutoksia ja uudistuksia kuin me Suomessa. Ydinkysymys on, saam-
+meko työllisyysastetta nousemaan. Ellemme saa, tämä, että lisäämme kuinka paljon vain
+rahaa työllisyyden hoitamiseen, ei poista ongelmaa. Sen tähden viikon päästä alkavassa ta-
+lousarviokeskustelussa meidän pitäisi yrittää löytää keinoja, joilla työllisyysastetta saa-
+daan nousemaan ja joilla tämä iso kuva voitaisiin muuttaa. Kysynkin ministereiltä: onko
+teillä nyt ensi viikolla alkavassa budjettikeskustelussa riittävästi lääkkeitä, jotta tämä iso
+kuva saadaan paranemaan?
+
+14.37 Touko Aalto vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Tiedustelen
+työministeriltä: Mainitsitte, että ensi vuonnakin työllisyysmäärärahat vähentyvät — tieto-
+jeni mukaan tämä on noin 50 miljoonaa euroa, koko vaalikauden aikana 110 miljoonaa eu-
+roa. Kuinka tämä auttaa siihen, että valtio velkaantuu jatkuvasti? Eikö jatkuvasti pidä saa-
+da lisää työllisyyttä, jotta voidaan puuttua tähän isoon kuvaan?
+
+Ja edustaja Terho ja ministeri Stubb, toivottavasti olette kuulleet perusfundamenteista
+kansantaloudessa: se koostuu yksityisestä, julkisesta ja ulkomaan sektorista. Tällä hetkellä
+yksityisen sektorin tilanne on äärimmäisen vakava. Kotitalouksien velkaantumisaste on
+122,6 prosenttia, yritysten investointiaste on heikompi kuin vuonna 94 laman aikana — sii-
+hen voi melkein laittaa ruksit päälle — ulkomaan sektori vetää todella vähän. Kuinka pal-
+jon tätä tilannetta auttaa se, että julkista taloutta vähennetään julkista kysyntää leikkaamal-
+la? Sehän iskee (Puhemies koputtaa) palkansaajan ostovoimaan ja sen kautta yritysten ky-
+kyyn investoida ja työllistää.
+
+14.38 Toimi Kankaanniemi ps (vastauspuheenvuoro): Rouva puhemies! Ministeri Lind-
+ström piti erinomaisen puheen juuri tuossa: sanoi, miten hallituksen tavoitteena on aktivoi-
+da ne miljardit, joista edustaja Filatov sanoi, että ne ovat nyt passiivisessa käytössä. Juuri
+näin pitää tehdä: rakenteet uudistaa ja kohdistaa työn tekemiseen ne rahat eikä työttömyy-
+den ylläpitämiseen. Hieman ihmetyttää, kun täällä puhutaan, että viime syksynä, vajaa
+vuosi sitten, hyväksytyt määrärahat ovat loppuneet jo. Ilmeisesti ne loppuivat vaaleihin jo
+viime keväänä. Eli millä matematiikalla tämän vuoden määrärahat on mitoitettu, kun ne
+ovat jo tässä puolen vuoden vaiheilla loppuneet? Maatalouden osalta hätä on suuri erityi-
+sesti maitotiloilla. Siellä tarvitaan sekä tukea että järjestelmän uudistamista, ja toivoisin,
+että hallitus erityisesti siihen paneutuisi. Nopeaa ja hyvää reagointia on ollut tähän Micro-
+softiin, kiitokset siitä.
+
+14.39 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä on nyt pari todel-
+la hämmentävää asiaa.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Ensinnäkään, arvoisa ministeri Lindström, oppositiolla ei ole esitysoikeutta. Te olette
+nyt se ministeri, kenen pitää todella terhakkaasti puolustaa työttömiä, puolustaa työllisyys-
+määrärahoja. Miksi esitätte vain 30 miljoonaa, kun tarve on 90?
+
+Toinen erittäin hämmentävä asia on se, että, ministeri Lindström, kun toimitte aiemmin
+viime keväänä ja viime talvena ryhmäpuheenjohtajana, niin silloin ryhmäpuheenjohtaja
+Lindström esitti plus 75 miljoonaa euroa lisää aktiivitoimiin. (Välihuutoja) — Kyllä, näin
+oli, tämä on totta. — Nyt sitten ministeri Lindström täällä puolustelee työllisyysmäärära-
+hojen leikkauksia. Menikö tässä nyt joku hivenen väärinpäin? Ministeri Lindström, ei kai
+ollut tarkoitus se, että teidän perussuomalaisten lupaukset ja esitykset, mitä vaalien alla sa-
+noitte, ovat täysin päinvastaisia (Puhemies koputtaa) kuin tämä hallitusohjelma ja hallituk-
+sen toimet? Ei voi olla niin, että täällä sosialidemokraatit joutuvat puolustamaan teidän lu-
+pauksianne. Mikä tämä yhtälö on? Te olette aivan eri henkilö nyt.
+
+14.41 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Täällä puhu-
+taan työllisyysrahoista, mutta sitä tärkeämpää on tämä suuri kuva. Hallitus pyrkii edistä-
+mään työllisyyttä kestävällä tavalla parantamalla suomalaisten yritysten kilpailukykyä.
+Hallitus on esittämässä yhteiskuntasopimusta korvaavia toimia eduskunnalle, mutta se jou-
+tuu turvautumaan niihin välineisiin, jotka lainsäätäjällä on käytettävissä, ja tämän vuoksi
+tämä hallituksen paketti ei näytä kovin tasapuoliselta ja oikeudenmukaiselta, koska se koh-
+telee kaltoin esimerkiksi poliiseja, palomiehiä, naisvaltaisia matalapalkka-aloja, kuten hoi-
+vaa ja kaupan myyjän työtä tekeviä.
+
+Tasapuolisemman paketin saaminen kokoon työmarkkinoilla on nyt SAK:n käsissä.
+Kaikki muut järjestöt ovat valmiita neuvottelemaan oikeudenmukaisemmasta paketista,
+jossa puututtaisiin esimerkiksi lomarahoihin ja työaikaan. Toivonkin, että kaikki ne tässä
+salissa, joilla on sinne SAK:hon yhteyksiä, toimisivat sen puolesta, että saataisiin oikeu-
+denmukaisempi ratkaisu.
+
+14.42 Anna Kontula vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Koska meillä
+on paikalla myös oikeusministeri, haluan kiinnittää huomiota muutamiin oikeusturvaan
+liittyviin ongelmiin, jotka sivuavat tätä budjettia.
+
+Tosiasia on, että työvoimahallinnon rahat ovat tällä hetkellä niin vähissä, että on kyseen-
+alaista, kannattaako koko järjestelmää pitää pystyssä. Tälle alueelle liittyy paljon viran-
+omaisten harkintavaltaa, ja kun resursseja sen asianmukaiseen hoitamiseen ei ole, syntyy
+vakavia oikeusturvaongelmia sellaisessa tilanteessa, jossa kysymys on ihmisten jokapäi-
+väisestä toimeentulosta ja aika vahvoista, suoraan ihmisten jääkaapille menevistä sankti-
+oista.
+
+Toinen iso oikeusturvaproblematiikka liittyy turvapaikanhakijoihin ja niihin lisäresurs-
+seihin, joita sinne on kohdistettu. On iso huoli siitä, pystytäänkö kansainvälisten ihmisoi-
+keusvelvoitteiden vaatimukset yksilöllisestä turvapaikkahausta näillä resursseilla toteutta-
+maan jatkossakin. On iso huoli siitä, kun nyt lähdetään sisämaatarkastuksia tekemään, et-
+teivät ne vain lipsuisi sinne etnisen profiloinnin puolelle, miltä nyt pahasti näyttää.
+
+14.43 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Lisätalousarvio-
+esityksessä on monia hyviä asioita, kuten esimerkiksi tämä romutuspalkkiokokeilu, josta
+ministeri Stubb kertoi meille — autokaupan vilkastumisen kannalta erinomainen asia.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Huoleni koskee sisäministeriön hallinnonalaa. Täällä esitetään pari miljoonaa euroa
+maahanmuuton vuoksi, ja tämä on tietysti hyvä ja aiheellinen, että se lisäys on siellä, mutta
+tämä kokonaiskuva on erittäin hämärä. Sisäministeriön sivulla sanotaan, että tänä vuonna
+tulee 25 000—30 000 maahanmuuttajaa tai turvapaikanhakijaa, ja yksi maahanmuuttaja,
+turvapaikanhakija, maksaa vastaanottokeskuksessa noin 15 000 euroa per vuosi. Siitä
+päästään noin 450 miljoonan euron kokonaiskuluun.
+
+Se kokonaiskuva on sellainen, että se ei oikein aukea mistään. Tämä ei koske pelkästään
+sisäministeriötä, tämä koskee STM:ää, oikeus- ja opetus- ja kulttuuriministeriötä, työ- ja
+elinkeinoministeriötä ja näinpäin. (Puhemies koputtaa) Olisiko mahdollista saada jonkin-
+laista kokonaiskuvaa siitä, mitä meille on tulossa, viimeistään talousarviokäsittelyyn?
+
+14.44 Hannakaisa Heikkinen kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies!
+Tämä maatalouden kannattavuuskriisi on niin vaikea, että tämä tässä lisätalousarviossa
+myönnetty 20 miljoonaa ei riitä kuin alkuun. Mutta nyt on tosi tärkeää, että tämä vähä raha
+kohdennetaan oikein: nuorille, investointeja tehneille ja elinvoimaisille tiloille.
+
+Vastikään uutisoitiin, että keskimääräinen viljelijän tuntipalkka on painunut alle 6 eu-
+ron. Kuka suostuisi tekemään mitä muuta tahansa työtä näin alhaisella palkalla? Tuntuu,
+että ei kukaan. Tänä vuonna maatalouden yrittäjätulo ja kannattavuuskerroin ovat joutu-
+neet jyrkkään laskuun. Sikataloudessa ja viljanviljelyssä kannattavuus ja yrittäjätulo ovat
+jo selkeästi negatiivisen puolella.
+
+Rouva puhemies! Jos haluamme säilyttää suomalaisen ruuantuotannon, keskeisin vai-
+kuttaja siihen on suomalainen kuluttaja. Tällä hetkellä Suomeen tuodaan elintarvikkeita
+2,5—3 kertaa enemmän (Puhemies koputtaa) kuin mitä me onnistumme viemään. Toivon,
+että tähänkin nähdään myös hallituksessa vaivaa.
+
+14.45 Timo Harakka sd (vastauspuheenvuoro): Rouva puhemies! Ei etsitä nyt syyllisiä,
+vaan vastuunkantajia. Työttömyys on kasvanut koko vuoden. Jo alkukesällä käsiteltiin toi-
+nen lisätalousarvio, jossa koko oppositio vaati lisämäärärahoja työllistämiseen, koska työ-
+ja elinkeinokeskukset olivat ilmoittaneet, että rahat loppuvat kesken. Hallitus jätti tieten
+tahtoen myöntämättä tarpeelliset rahat, ja siksi ollaan tässä keskustelussa uudestaan.
+
+Yhtä huolestuttavaa on se, että työ- ja elinkeinoministeri ei näköjään edes tiedä, miten
+työllisyysrahoja käytetään. Alueilla ei ole työvälineitä seurata, mihin rahat riittävät ja mi-
+hin niitä on suunnattu. Ministeriön virkamiehet ovat vakuuttaneet sekä meille päättäjille
+että alueille, että kyllä rahaa on. Tuntematonta sotilasta mukaillen: "Menes valittamaan hä-
+tääs, niin eteesi lyödään sellainen rätinki, että sulla ei voi olla hätä."
+
+On siis ilmennyt, että työ- ja elinkeinoministeriön käyttämä tietojärjestelmä on kohta 30
+vuotta vanha. Se on käynnistetty vuonna 86. Sen takia heitot ovat kymmenien ellei satojen
+miljoonien luokkaa. (Puhemies koputtaa) Tässä teillä, ministeri Lindström, on käytössän-
+ne sellainen venäläinen järjestelmä...
+
+Puhemies Maria Lohela: Aika on nyt täynnä.
+
+...joka teidän täytyy korjata. Ryhdistäytykää!
+
+14.47 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Kyllä vähän jää ihmet-
+telemään tätä keskustelua, varsinkin hallituksen otetta tässä keskustelussa. Varmasti en-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+simmäinen ja tärkein asia on, työministeri Lindström, että ei se kala miestä hae, jollei mies
+hae kalaa. Tämä on vain ihan yksinkertainen totuus.
+
+Nyt kyllä kehottaisin hallitusta päättämään: oletteko te parantamassa tätä Suomen ta-
+loutta vai ette? Ei riitä, että ajatte kaksilla rattailla. Se on sitten joko tai. Me olemme käsit-
+täneet täällä, että te olette aidosti parantamassa Suomen taloudellista tilaa, mutta tämä yh-
+tälö ei toimi. Te laitatte parikymmentä miljoonaa työllisyyden hoitoon ja yhden miljoonan
+esimerkiksi koulutukseen. Tänä aamuna sivistysjaostossa ihmettelimme kovin paljon tätä
+yhtälöä.
+
+Yksistään pitkäaikaistyöttömyyden vähentäminen 1 prosentilla toisi 600 miljoonaa jul-
+kisen talouden varoihin. Eikö tässä ole joku järki, että te hoitaisitte työllisyysasteen nostoa,
+niin kuin edustaja Kalli täällä jo totesi, (Puhemies koputtaa) ja loisitte taloutta...
+
+Puhemies Maria Lohela: Aika on täynnä.
+
+...lisää tähän maahan? Ei muuta... [Puhemies antoi puheenvuoron seuraavalle puhujal-
+le.]
+
+14.48 Arto Satonen kok (vastauspuheenvuoro): Arvoisa puhemies! On ihan varmasti tot-
+ta, että meillä on Suomessa ihmisiä, jotka saadessaan palkkatukea työllistyisivät. Ja on ih-
+misiä, jotka perustaisivat yrityksen, kun he saisivat starttirahaa. Nämä ovat tärkeitä asioita.
+
+Mutta kyllä minä nyt ihmettelen tätä keskustelua, että kun monta vaalikautta on jo yri-
+tetty mennä niin, että aina on vähitellen lisätty palkkatukea ja vähitellen lisätty starttiraho-
+ja, niin siitä huolimatta meidän työttömyystilanteemme on koko ajan heikentynyt. Nyt
+meillä on ensimmäisen kerran hallitus — ja sanon myös työministeri — joka lähtee siitä
+liikkeelle, että suomalaisen työn kilpailukykyä pitää parantaa, ja oikeista syistä, että syn-
+tyy markkinatalouden kautta työpaikkoja. Nyt kun on ensimmäistä kertaa todellinen yritys
+tehdä asioita näin, niin nyt sitten arvostellaan tätä, ettei työllisyyttä hoideta. Kyllä nyt hiu-
+kan kannattaisi katsoa peiliin, että ne vanhat keinot eivät yksinkertaisesti riitä. Ne ovat kyl-
+lä täydentäviä, ja niitä tarvitaan, mutta iso muutos nyt tarvitaan, ja sitä hallitus on tekemäs-
+sä. Toivon, että tuette sitä.
+
+14.49 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puheenjohtaja! Siis ilman
+muuta tarvitaan työllisyyden tukitoimia ja myös julkisen vallan vastuuta. Ei kaikkea voida,
+edustaja Satonen, laittaa markkinavoimiin. (Arto Satonen: En sitä väittänyt!) Jos laitetaan,
+niin aika moni sortuu, jää tien syrjään, ja sitten, kun ne talouden pyörät pyörisivät, niitä ih-
+misiä ei ole enää käytettävissä. Tätä virhettä ei pidä tehdä, ja se on koko meidän pohjois-
+maisen filosofian ja kaikkien maiden yhteinen ajatus, että ihmisestä pidetään huolta myös
+silloin, kun on vaikeata, jotta he ovat sitten iskukykyisiä taloudessa, kun menee hyvin. Äl-
+kää unohtako tätä.
+
+Mutta tämä keskustelu tänäänhän kristallisoi sen tilanteen, missä me olemme. Eli meillä
+ajetaan erittäin kovaa oikeistolaista leikkausohjelmaa lävitse joka ikisellä alueella, palkois-
+ta työttömyysturvan leikkaukseen. Ja nyt meillä on työministeri, joka on täysin unohtanut
+omat vanhat puheensa ja ryhtynyt kannattamaan oikeistolaista talouspolitiikkaa — jota
+menestyksellä kokoomus tietysti on aina kannattanut. (Vasemmalta: Näin se on!)
+13
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+14.50 Kaj Turunen ps (vastauspuheenvuoro): Arvoisa puhemies! Jos kuunteli nyt kaksi
+edellistä puheenvuoroa, edustaja Heinäluoman ja edustaja Satosen puheenvuoron, niin
+huomasi oikeastaan sen, että onhan siinä pikkuinen sävyero. Mutta kysymys on kuitenkin
+molemmissa puheenvuoroissa samasta asiasta eli työllisyyden hoidosta, miten hoidetaan
+työllisyyttä.
+
+Minä ajattelen niin, että työllisyyttä hoidetaan parhaiten sillä tavalla, että tehdään uusia
+työpaikkoja, että ihmisillä on töitä. Toinen vaihtoehto on tietysti niin, että valtio maksaa
+kaikkien suomalaisten palkat. Loppupelissä me olemme siinä tilanteessa. Uudet työpaikat,
+uusien työpaikkojen luominen, on parasta työllisyyden hoitoa, ja siihen hallitus on tarttu-
+nut. Minä olen tyytyväinen kyllä siitä, että ihan muutamaa soraääntä lukuun ottamatta työ-
+ministeri Lindström on saanut kyllä vahvan tuen tässä salissa.
+
+14.51 Sanna Lauslahti kok (vastauspuheenvuoro): Arvoisa puhemies! Keskustelu on ol-
+lut erittäin hyvä. Täytyy kiittää myös opposition näkökulmia. Selvää on, että on järkeväm-
+pää, että me pidämme ihmiset työkuntoisina samaan aikaan kuin me luomme uusia työ-
+paikkoja. Näiden kummankin asian täytyy olla kunnossa.
+
+Siitä tietenkin herää kysymys, kun me puhumme yhteisen rahan käytöstä — käytännös-
+sä samasta kukkarosta ja osin myös kuntien kukkarosta — miksi me emme tässä tilantees-
+sa siirtäisi tosiaan starttirahoihin ja tukityöllistämisrahoihin sieltä passiivisen tuen rahois-
+ta. Sehän ei tarkoita lisäbudjettia, vaan se tarkoittaa rahojen siirtoa vain paikasta toiseen.
+Tästä vain esimerkkinä, että Uudellamaalla ei voida tehdä enää yhtään kappaletta startti-
+tai uusia tukityöllistämispäätöksiä johtuen siitä, että rahat ovat loppu. Tässä toivoisin tie-
+tenkin, että ministeri Lindström, joka on tehnyt erinomaista työtä, pystyisi tämänkin asian
+hoitamaan loppuvuodesta kuntoon.
+
+14.52 Riitta Myller sd (vastauspuheenvuoro): Arvoisa puhemies! On aivan oikein, mitä
+täällä on sanottu, että työllisyysasteen nostaminen on tärkeintä työllisyyspolitiikkaa, mutta
+tähän liittyy juuri se asia, mistä edustaja Heinäluoma puhui, miten ihmiset pidetään työky-
+kyisinä. Siitä on kysymys esimerkiksi tässä palkkatuessa. Meillä on nyt erittäin hyviä ko-
+kemuksia tuosta työllisyyden kuntakokeilusta. Siellä haetaan ihmisille näitä polkuja, mi-
+ten päästä takaisin työelämään. Mutta tähän väliin tarvitaan näitä palkkatukitöitä. Se on itse
+asiassa lähes ainut elementti, mikä on sitten käytettävissä sille välille, että kuntoutuksesta
+päästään sitten sinne avoimille työmarkkinoille. Tässä on saatu hyviä tuloksia yksittäisten
+ihmisten osalta, mutta myöskin on saatu säästettyä rahaa. Tämä on konkreettinen esimerk-
+ki siitä, että tätä toimintaa (Puhemies koputtaa) pitää jatkaa ja myöskin näitä välineitä pitää
+olla kunnissa.
+
+14.53 Ozan Yanar vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Aktiivinen työ-
+voimapolitiikka on keskeinen osa suomalaista järjestelmää, jossa aktivoidaan työttömiä ja
+saadaan heidät mukaan työelämään. Työministeri Lindström väläytti äsken rakenteellisia
+muutoksia työvoimapolitiikkaan. Olisi todella kiinnostavaa tietää konkreettisia näkökul-
+mia tähän, miten se, ettei sijoiteta työttömyysrahoihin tarpeeksi, uudistaa rakenteita. Se on
+minun ensimmäinen kysymykseni.
+
+Toinen kysymys: Työministeri sanoi, että yhä pienemmillä resursseilla tehdään isompia
+asioita, mutta jos mietitään palkkatukea ja starttirahaa, niin nehän ovat niitä toimivimpia
+tapoja aktivoida ihmisiä. Miten tämä edesauttaa sitä tilannetta, että työttömyys vähenisi,
+14
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+koska meillä ei ole yksinkertaisesti riittävästi rahaa juuri näihin toimintoihin, jotka toimi-
+vat eniten, kuten tässä tuli aiemminkin ilmi? Se raha, mitä te esitätte, kattaa ainoastaan Uu-
+denmaan...
+
+Puhemies Maria Lohela: Aika on nyt täynnä.
+
+...resurssit. Pyytäisin lisää resursseja tähän.
+
+Puhemies Maria Lohela: Otetaan vielä edustajat Lindtman ja Eestilä. Sitten ministeri
+Lindström vastaa.
+
+14.54 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Esittäisin toiveen,
+että ne, joilla tässä salissa on yhteyksiä Elinkeinoelämän keskusliittoon tai Suomen halli-
+tukseen, sanoisivat näille, että lopettakaa kiristys ja aloittakaa aidot neuvottelut. Tai itse
+asiassa luulen, että riittää, että käy puhumassa hallitukselle, koska hallituksesta on tullut
+EK:n postikonttori ja työministeristä tämän postikonttorin posteljooni. (Oikealta: Huh
+huh! — Vasemmalta: Näin on!) Kysymys on nyt siitä, että aidot neuvottelut pitää käynnis-
+tää, ja nyt olemme saaneet hallitukselta kuulla, että näin ei aio tapahtua.
+
+Mutta vielä näihin työllisyysmäärärahoihin. Mehän juuri kuulimme työministerin perus-
+telun, miksi te ette näitä esitä. Ely-keskuksesta kerrotaan, että tarve olisi 90 miljoonaa,
+mutta sanoitte äsken, että koska ensi vuodellekin näitä rahoja leikataan, niin nyt sen takia
+tälle vuodelle ei esitetä enempää. Eli tunnustatte, että tarvetta olisi, mutta koska tämän hal-
+lituksen käsittämätön työllisyys- ja työvoimapolitiikka, joka vie ihmisiltä mahdollisuuksia
+työllistyä, perustaa yrityksiä, on niitattu kiinni niin, että sitä ei voi muuttaa, vaikka mikä
+työllisyystilanne olisi, niin sen takia te ette nyt (Puhemies koputtaa) esitä työllisyysmäärä-
+rahoja. Onko tässä järkeä?
+
+14.55 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa rouva puhemies! On täysin
+oikein vaatia rahaa palkkatukeen ja työllisyyteen, koska niin massiivistahan työttömyys
+Suomessa tällä hetkellä on. Me kuitenkin törmäämme sekä budjetissa että tässä lisäbudje-
+tissa — ainakin minun mielestäni — talouden epäyhtälöön. Jos ajatellaan pariakymmentä
+miljoonaa, mikä pannaan työllisyydenhoitoon, niin sehän on täysin riittämätön luku, sen
+jokainen tunnustaa. Jos ajatellaan maataloutta, jonka todellinen kassavirtamenetys vuonna
+2015 on yli 400 miljoonaa, niin se 20 miljoonaa ei todella ratkaise maatalouden ongelmia.
+Ja jos meillä olisi varaa, niin me toki panisimme varmaan lisää, että pääsisivät ahdingosta
+sekä työttömät että viljelijät, mutta nyt me joudumme valitsemaan kaksi tietä: joko me lai-
+naamme sen tarvittavan rahan, tällä kertaa joku 14,5 miljoonaa päivässä, 90-prosenttisesti
+ulkomailta — ja on todennäköistä, että rahan hinta kallistuu tulevaisuudessa — tai me
+teemme niitä toimenpiteitä, mitä hallitus esittää, että meillä vienti lähtee paremmin vetä-
+mään ja saamme sen rahan (Puhemies koputtaa) viennistä. Me joudumme nyt jomman-
+kumman valitsemaan.
+
+Puhemies Maria Lohela: Sitten, ministeri Lindström, 3 minuuttia.
+
+14.57 Oikeus- ja työministeri Jari Lindström: Arvoisa rouva puhemies! Jos lähdetään
+nyt tästä edustaja Kallin kysymyksestä, onko hallituksella lääkkeitä puuttua tähän isoon
+15
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+kuvaan, niin on, ja se lääke on hallitusohjelma, ja sen takana seistään. Eihän meillä mitään
+muuta ole. Sen sisällä on sitten lukuisia toimenpiteitä, mitä pitää tehdä, ja sitä jaksan kyllä
+toistaa niin kauan aikaa kuin tässä tehtävässä olen.
+
+No, mitä tulee nyt tähän työttömyyden hoitoon, koetin jo tuossa äsken sanoa, että meillä
+on menossa työttömyyden hoidon rakennemuutos, ja se johtuu siitä, että meillä ei ole rahaa
+laittaa siihen niin paljoa kuin... Totta kai minä laittaisin sinne vaikka miljardin, jos minulla
+olisi sellainen valta, (Antti Lindtman: Mikä estää?) mutta kun ei pysty, ei vain pysty. Ja ve-
+laksi eläminen — se on tämän hallituksen yksi keskeinen juttu, että se velaksi eläminen lo-
+petetaan, ja sen takia me joudumme näitä toimenpiteitä tekemään. Ei se ole tässä tarkoitus,
+että kun työttömiä kuritetaan, niin sillä syntyisi työpaikkoja, minä olen sanonut sen jo mon-
+ta kertaa. Kyse on siitä, että hallitusohjelman sisällä tehdään monia muita toimenpiteitä,
+jotka toivottavasti luovat niitä työpaikkoja, mistä edustaja Turunen juuri äsken puhui.
+
+Sitten tämä edustaja Filatovin esitys siitä, voisiko momenttien sisällä siirtää rahaa. Siis
+tämä iso kuvahan on nyt nimenomaan se, että työttömyyden hoidon rakennemuutos tar-
+koittaa sitä, että yhä enemmän sitä käytettävissä olevaa rahaa käytetään aktivoivaan toi-
+mintaan eikä passivoivaan toimintaan. No, tämäkin... (Tarja Filatovin välihuuto) — Kyllä,
+teiltä tuli konkreettinen esitys, kyllä, ja se on kuultu, mutta samaan aikaan, kun hallitus
+miettii muita tällaisia aktivoivia toimenpiteitä, ne kohtaavat aika usein vastarintaa, koska
+siinä tulee tavallaan semmoinen reaktio, että nyt pakotetaan työttömiä tekemään sitä tai tä-
+tä, vastikkeellisuus muun muassa on tämmöinen asia. Nämä kaikki asiat pitää sitten nostaa
+pöydälle. Kuulisin mielelläni myös sosialidemokraattien vaihtoehdon, (Sosialidemokraat-
+tien ryhmästä: Minä kerron!) kun te kritisoitte koko ajan näitä hallituksen toimenpiteitä:
+Millä ihmeellä te tekisitte nämä puuttumatta minkään työntekijäryhmän etuihin? Miten te
+tekisitte tämän?
+
+Sitten tämä määrärahojen mitoitus tämän vuoden budjettiin. (Puhemies koputtaa) Tämä
+oli erinomainen havainto edustaja Kankaanniemeltä. Eli nyt eletään niillä rahoilla, mitkä
+tämän vuoden alussa on määritelty. Minä en syytä ketään, mutta työttömyys on räjähtänyt
+käsiin. Se ei ole edellisen hallituksen syy, eikä se ole tämän hallituksen syy. Me yritämme
+nyt. Totta kai tämä 20 miljoonaa, mikä tähän käytetään, on liian vähän. Me tiedämme sen.
+Ei siinä ole toista sanaa, mutta tällä me koetamme kuitenkin reagoida tähän vakavaan ti-
+lanteeseen. Me tiedämme, että näin on.
+
+Edustaja Viitanen, ei minulla viime kaudella ollut esitysoikeutta, niin kuin teilläkään ei
+ole nyt. Nyt minä olen hallituksessa ja viime kaudella olin oppositiossa, että näin ne roolit
+vaihtuvat. En tiedä, missä olen ensi viikolla, mutta tässä ollaan nyt.
+
+Puhemies Maria Lohela: Sitten ministeri Stubb, 3 minuuttia.
+
+15.00 Valtiovarainministeri Alexander Stubb: Arvoisa rouva puhemies! Keskityn vas-
+tauksessani oikeastaan ainoastaan yhteen kysymykseen eli työllisyyteen.
+
+Ensimmäinen huomio liittyy ihan suoraan työministeriin. Minä en halua vain puolustaa
+vaan myös kiittää työministeriä siitä työstä, jonka hän tällä hetkellä tekee. Hän panee itsen-
+sä täysillä likoon 24/7. Se, että hän kirjallisesti esittää valtiovarainministerille 30 miljoo-
+nan euron määrärahaa, ei tarkoita sitä, etteikö hän olisi puskenut päälle kuin härkä meidän
+kahdenvälisissä keskusteluissa tässä kysymyksessä. Hän on tehnyt kaikkensa sen eteen,
+että näitä työllisyysmäärärahoja lisättäisiin. Jos te haluatte jotakin syyttää, älkää syyttäkö
+16
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+työministeriä vaan valtiovarainministeriä, jolla on tällä hetkellä tarjota valitettavasti vain ja
+ainoastaan niukkuutta.
+
+Työ. Minä toivon, että neljän vuoden päästä, kun me käsittelemme tässä lisätalousarvi-
+ota, me emme enää käsittele työttömyys-, työllisyysmäärärahoja. Se tarkoittaisi sitä, että
+Suomen työllisyystilanne olisi parempi. Meidän tavoitteenamme on edelleen ne 110 000
+työpaikkaa, 72 prosentin työllisyysaste, ja meillä on tällä hetkellä työministeri, joka suora-
+selkäisesti panee toimeen niitä vaikeita päätöksiä, joita me yhdessä hallitusohjelmassa
+teimme, omasta taustastaan riippumatta mutta työllisyyttä puolustaen.
+
+Mitä me tarvitsemme? Me tarvitsemme lisää työn tarjontaa ja kysyntää. Mitä me tarvit-
+semme? Me tarvitsemme kannustinloukkujen purkamista. Mitä me tarvitsemme? Me tar-
+vitsemme paikallista sopimista. Mitä me tarvitsemme? (Eduskunnasta: Kilpailukykyä!) —
+Me tarvitsemme kilpailukykyä. — Mitä me tarvitsemme? (Touko Aalto: Ostovoimaa!)
+Yhteiskuntasopimuksen korvaavia toimenpiteitä. — Edustaja Aalto, ostovoima on työ-
+paikka plus palkka. Se on se tapa, jolla ostovoimaa tässä maassa lisätään, ja se toimii vain
+silloin, kun työn tarjonta ja kysyntä lisääntyvät, mikä käytännössä tarkoittaa sitä, että sil-
+loin meidän työllisyysasteemme kasvaa.
+
+Summa summarum, me tarvitsemme myös työperäistä maahanmuuttoa. Me tarvitsem-
+me sitä, että turvapaikanhakijat kotoutetaan. Tämä on kokonaisuus. Tämä on erittäin mo-
+nimutkainen ja vaikea kokonaisuus. Yhtä asiaa toivon, ja se on se, että kun me käymme
+keskustelua työstä ja työllisyydestä, me emme lähde syyllistämään tai osoittamaan sormea
+työministerin suuntaan, vaan osoittakaa se sormi valtiovarainministerin suuntaan, ja toi-
+vottavasti emme ole tässä neljän vuoden kuluttua uudestaan.
+
+Puhemies Maria Lohela: Ministerit joutuvat pian poistumaan, mutta voimme jatkaa vielä
+keskustelua, mikäli halua on.
+
+15.03 Antti Rinne sd (vastauspuheenvuoro): Arvoisa puhemies! Elinkeinoelämän Tutki-
+muslaitos on juuri tulleen tiedon mukaan alentanut ennustetta vuodelle 2017 sen takia, että
+hallituksen leikkaustoimet iskevät kasvuun. Näin on otsikoitu tuo tiedote. Mietin vain sitä,
+kuinka Etla tulee ennustettaan alentamaan, kun tulee näitten miinus 5 prosentin pakkoleik-
+kausten vuoro ja niitten arvioinnin vuoro.
+
+Olisin halunnut ministeri Lindströmiltä kuitenkin tiedustella sitä, minkä takia hallitus ei
+ole valmis tässä tilanteessa käyttämään niitä keinoja, jotka äsken esitin, että aktivoidaan
+peruspäivärahaa ja työmarkkinatukea suoraan työttömien käyttöön sillä tavalla, että yrityk-
+set saavat noin 700 euroa kuukaudessa palkkatukeen verrattavaa rahaa. Se olisi suora, no-
+pea toimenpide, jolla saataisiin lisää työpaikkoja syntymään niille ihmisille, joille on tar-
+jolla työpaikkoja jo tällä hetkellä.
+
+15.04 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Jatkan myös
+tästä suuresta kuvasta.
+
+Edustaja Rinne, ei se ole mikään yllätys tai uutinen kenellekään, että kun finanssipoli-
+tiikkaa kiristetään, niin lyhyellä aikavälillä se vaikuttaa kielteisesti talouskasvuun. Mutta
+pitkällä aikavälillä niillä toimilla, joihin hallitus on ryhtynyt muun muassa yhteiskuntaso-
+pimusta korvaaviksi toimiksi, parannetaan suomalaisten yritysten kilpailukykyä. Kun suo-
+malaiset tuotteet ja palvelut menevät paremmin maailmalla kaupaksi, sitä kautta työllisyys
+Suomessa myös kohenee. Sanokaa minulle yksi ekonomisti, saa olla amerikkalainenkin,
+17
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+joka on sitä mieltä, että kilpailukyvyn koheneminen ei pitkällä aikavälillä vaikuta myön-
+teisesti työllisyyteen. Ei sellaista ekonomia tietääkseni löydy. (Välihuutoja)
+
+Ja vielä haluan sanoa, että nämä yhteiskuntasopimusta korvaavat toimet, joita hallitus on
+pitänyt esillä, ovat korvattavissa paremmilla toimilla ja toivon, että työmarkkinoilla niihin
+päästään.
+
+15.05 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Pelkästään luke-
+malla Helsingin Sanomia käy ilmi erittäin mielenkiintoinen käynnissä oleva julkinen kes-
+kustelu: Useat ekonomistit ovat vakavasti kyseenalaistamassa tämän hallituksen perusta-
+louspolitiikan leikkaavan linjan. Jos luette vaikkapa professori Haaparannan arvion (Tou-
+ko Aalto: Tai Stiglitzin!) tästä edustaja Zyskowiczin ja valtiovarainministerin markkinoi-
+masta paketista, niin sen vaikutukset ovat kielteiset. Se tulee leikkaamaan työllisyyttä ja
+supistamaan ostovoimaa. (Ben Zyskowiczin välihuuto) — No, kaikki lukee Helsingin Sa-
+nomissa, arvoisa edustaja Zyskowicz. Voin maksaa kuukaudeksi tilauksen teille, jos ette
+itse ehdi sitä muutoin lukea. — Siis iso juttu on, että tämä teidän valtaisa suunnitelmanne,
+jonka olette tehneet, leikkaa kotimaista kysyntää. Ja vielä pahemmin, kun te ajatte pakko-
+toimilla lävitse nämä miinus 5 prosentin palkanleikkaukset. Miinus 5 prosenttia. Se, mikä
+on kulu yhdelle yritykselle, arvoisa edustaja Zyskowicz, on tulo toiselle yritykselle. Työl-
+lisyys tulee kärsimään, niin kuin Etla tänään on kertonut, (Puhemies koputtaa) ja lisää.
+
+15.06 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Kun Suo-
+messa on useita vuosia eletty yli varojen, miten on mahdollista lopettaa tämä velaksi elä-
+minen tässä tilanteessa ilman, että kenenkään ostovoimaan puututtaisiin? En tiedä, voi ol-
+la, että professori Haaparannalla on siihen ratkaisu, itse en saa tätä yhtälöä menemään ta-
+san. Mutta nyt, kun puhutaan hallituksen paketista, voidaan puhua tästä yhteiskuntasopi-
+musta korvaavasta paketista tai laajemmin hallitusohjelmasta. Jos puhutaan laajemmin
+hallitusohjelmasta, siellä on lukuisia keinoja, joilla pyritään suomalaisten yritysten kilpai-
+lukykyä kohentamaan, ja kun me kohennamme suomalaisten yritysten kilpailukykyä, ne
+paremmin pärjäävät maailmalla, tulee tilauksia, tulee Suomeen työtä. Kertokaa edelleen
+minulle se professori, joka kiistää sen, että kilpailukyvyn koheneminen näkyy ajan myötä
+työllisyyden kohenemisena. (Touko Aalto: Riippuu, millä keinoilla se tehdään!)
+
+Mitä tulee hallituksen yhteiskuntasopimusta korvaavaan pakettiin: (Puhemies koputtaa)
+Parempia ratkaisuja on tarjolla. (Puhemies koputtaa) Toivon, että ne SAK:lle kelpaavat.
+
+15.07 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Tässähän tämä on,
+ja huomaan, että valtiovarainministeriä hymyilyttää. Te olette tehneet paketin, jonka sisäl-
+tö on: me otamme teidän taskustanne 500 euroa, joissakin ammateissa tuhansia euroja vuo-
+dessa, ja kun sitten ihmiset ovat tyytymättömiä, te sanotte, että hyvä, otamme sen saman
+summan, mutta voitte päättää, mistä taskusta se otetaan. Ja sitten ihmettelette, että neuvot-
+telut eivät oikein suju. Te olette tehneet tällaisen kiristysasetelman, sanoneet, että miinus 5
+prosenttia otetaan joka tapauksessa, muuttaneet täysin puheenne siitä, mitä te puhuitte en-
+nen vaaleja. Te olette täysin kääntäneet kelkkanne siihen nähden, mitä sanoitte ennen vaa-
+leja. Nyt te sanotte miinus 5 prosenttia ja unohdatte, mitkä ovat sen vaikutukset työllisyy-
+teen.
+
+Puhemies Maria Lohela: Ministeri Stubb, minuutti riittänee.
+18
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+15.08 Valtiovarainministeri Alexander Stubb (vastauspuheenvuoro):  Arvoisa rouva
+puhemies! Minuutti riittänee oikein hyvin. — Siis meidän laskelmamme eivät, edustaja
+Heinäluoma, talouspolitiikassa tai työllisyyspolitiikassa perustu suuresti kunnioittamani
+Helsingin Sanomien analyysiin, jota me totta kai selvitämme, vaan ne perustuvat faktaan.
+Ja fakta on se, että siinä vaiheessa, kun me parannamme kilpailukykyämme noin 5 prosent-
+tia, laskennallinen arvio on, että työllisyys paranee noin 2,5 prosenttia, mikä käytännössä
+(Välihuutoja) tarkoittaa sitä, että tämän yhteiskuntasopimuksen korvaavien toimenpitei-
+den kokonaisvaikutus työllisyystilanteeseen on laskennallisen arvion mukaan noin
+50 000—75 000 uutta työpaikkaa. 
+
+Itse asiassa minulla oli mahdollisuus käydä pitkäkin keskustelu tästä suuresti arvostama-
+ni professori Stiglitzin kanssa. Kyllä, on sellaisia taloustieteilijöitä, joidenka mielestä sen-
+tyyppiset toimenpiteet, jotka on tehty Irlannissa, Espanjassa tai vaikkapa Portugalissa, ovat
+vääriä tai sellaiset toimenpiteet, jotka on tehty (Puhemies koputtaa) Saksassa, Tanskassa ja
+Ruotsissa, ovat vääriä, (Puhemies koputtaa) mutta uskallanpa väittää, että nämä maat ovat
+tällä hetkellä meitä kilpailukykyisempiä. Keskustelimme Stiglitzin kanssa myös siitä aika-
+kaudesta, kun hän toimi Kreikan (Puhemies koputtaa) talouspoliittisena neuvonantajana.
+
+15.09 Antti Rinne sd (vastauspuheenvuoro): Arvoisa puhemies! Te, arvoisa valtiovarain-
+ministeri, tilasitte Juhana Vartiaiselta ja Anders Borgilta viime tammikuussa esitellyn ra-
+portin, jossa nämä kaksi taloustieteilijää — toinen aiempi valtiovarainministeri Ruotsin
+puolelta, toinen suomalainen kansanedustaja tällä hetkellä — arvioivat tätä tilannetta, mis-
+sä me olemme Suomessa, ja tuon raportin mukaan selkeästi ongelma on siinä, että meillä
+on tuottavuuskehitys ollut heikompaa tässä viimeiset vuodet kuin kilpailijamaissa. Tuon
+raportin mukaan meillä on kysyntäongelma maailmalla. Meidän tuotteet ja palvelut eivät
+mene kaupaksi sillä tavalla riittävästi kuin olemme tottuneet, että menevät.
+
+Meillä ei ole palkkakilpailukykyongelmaa. Esimerkiksi taloustieteen tohtori, PT:n joh-
+taja Seija Ilmakunnas käytti viime viikolla hyvän puheenvuoron, jossa hän osoitti selkeäs-
+ti, että meidän palkkahintakilpailukykymme on tällä hetkellä täysin kunnossa, ja siellä on
+Etlan tutkimus, jossa Etlan arvio palkkahintakilpailukykykuilusta on tällä hetkellä 5 pro-
+senttia. (Puhemies koputtaa) Miten te perustatte talouspolitiikan sille, että nyt leikataan ko-
+timaista kysyntää ja sitä kautta heikennetään suomalaisen yhteiskunnan mahdollisuutta
+työllistää?
+
+15.11 Mika Niikko ps (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Heinäluoma,
+kyllä teidän taskunne on ommeltu niin kiinni, ettei sopua yhteisestä säästökohteesta tule
+syntymään, mikäli SDP:ltä sitä kysytään. Enkä usko, että syntyy myöskään EK:n osalta,
+koska kyllä se näyttää olevan silleen, että niiden selän taakse olette myös piiloutuneet, ja
+tulette näkemään sen sitten, että työntekijöiden etuja kun joudutaan heikentämään näillä
+säästökohteilla, niin ne tulevat teidän niskaanne, koska ne olisi voitu nyt pehmeämmällä ta-
+valla hoitaa. Me emme halua, kukaan ei halua sitä, että sunnuntailisiin kosketaan tai ensim-
+mäisen sairauspäivän poissaoloja tulee, mutta vaihtoehtoja ei ole mitään teillä esittää. Te
+vain esitätte jatkuvasti sitä, että mihinkään ei saa koskea.
+
+Arvoisa puhemies! Itse asia, mihin halusin puuttua, on se, että hallitus ei luo työpaikko-
+ja, yritykset luovat työpaikkoja, ja meidän tulee antaa edellytykset yrityksille, jotta meille
+niitä pysyviä työpaikkoja syntyy. Tämä on äärimmäisen tärkeä toimenpide, mitä ministeri
+19
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Lindström tekee. Hän tekee uudistuksia, jotta niitä pysyviä työpaikkoja syntyisi, ja siinä
+mielessä kannatan, että lähdemme uudistamaan tätä vanhaa rakennepolitiikkaa.
+
+15.12 Li Andersson vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Minä haluaisin
+vielä kysyä valtiovarainministeri Stubbilta, kun hän laskelmiin viittasi: kun tätä työllisyys-
+määrärahan riittämättömyyttä on perusteltu velkaantumisasteella ja säästämisellä, niin
+onko valtiovarainministeriössä laskelma siitä, miten me säästämme sillä, ettei hoideta työt-
+tömyyttä? Sehän tarkoittaa sitä, että työttömyysjaksot pitkittyvät. Se tarkoittaa sitä, että
+pitkäaikaistyöttömyys kasvaa ja että työnhakijoiden työllistymismahdollisuudet myöskin
+pysyvästi heikkenevät. Eli me pysyvästi vaikeutamme tähän työllisyysasteen nostamiseen
+pääsyä meidän yhteisenä tavoitteenamme.
+
+15.12 Sari Tanus kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Jokainen, joka on
+joutunut asioimaan te-toimistossa tai hakenut starttirahoja, on törmännyt tilanteeseen, jos-
+sa te-toimistojen resurssit ovat täysin, täysin riittämättömät. Yhden virkailijan vastuulla
+voi olla lähes 2 000 asiakasta. On selvää, että henkilökohtaisen palvelun ja tuen saaminen
+näillä resursseilla on mahdotonta. Kuitenkin juuri tämä henkilökohtainen kohtaaminen on
+monelle työttömälle elintärkeä. Jos virkailijan luokse pääsee vasta puolen vuoden päästä,
+on tilanne täysin kestämätön.
+
+Hallitus on osoittanut lisäresursseja te-toimistoihin. Kysyisin: riittävätkö nämä resurssit
+kuitenkaan asianmukaisen palvelun saavuttamiseen te-keskuksissa?
+
+Puhemies Maria Lohela: Vielä edustajat Mäkisalo-Ropponen ja Jalonen, ja sitten siirry-
+tään puhujalistaan.
+
+15.13 Merja Mäkisalo-Ropponen sd (vastauspuheenvuoro): Arvoisa puhemies! Tuon
+terveisiä Itä-Suomesta. Pohjois-Karjalassa työttömien työnhakijoiden määrä on kasvanut
+vuoden takaisesta 10 prosentilla ja Pohjois-Savossa 13 prosentilla.
+
+Hallituksen esittämä 20 miljoonan euron lisäys työllisyysmäärärahoihin ei valitettavasti
+riitä edes ministerin itsensä esittämiin vaikuttaviin keinoihin. Erityisen huolestuttavaa on
+pitkäaikaistyöttömyyden ja nuorisotyöttömyyden kasvu.
+
+Ja minä olisin halunnut nyt tietää edustaja Anderssonin tavoin, onko hallitus laskenut ly-
+hyen ja pitkän aikavälin vaihtoehtoiskustannuksia, joita syntyy esimerkiksi sosiaali- ja ter-
+veydenhuoltoon työllisyyden puutteellisesta hoidosta. Eli mitä kustannuksia yhteiskunnal-
+le syntyy siitä, että esimerkiksi nuoria ja pitkäaikaistyöttömiä ei työllistetä? Jos puhutaan
+kokonaiskuvasta, niin silloin pitää myöskin arviot tehdä kokonaisvaltaisesti.
+
+15.14 Ari Jalonen ps (vastauspuheenvuoro): Arvoisa puhemies! Nythän tehdään raken-
+teellisia uudistuksia, joiden tarkoituksena on saada vähemmällä rahalla enemmän, ja teh-
+dään täsmäinvestointeja, joilla saadaan kasvua.
+
+Edustaja Viitanen, te puhuitte siitä, miten me viime kaudella teimme varjobudjetin ja
+teimme vastuullisen vaihtoehdon. Me olimme silloin yksi puolue, joka pääsi sanelemaan
+meidän vaihtoehtomme. Nyt me olemme hallituksessa, ja päälinja on se, että haluamme lo-
+pettaa Suomen velkaantumisen. Vaikka kritiikkiä saa antaa — se on aiheellista, se on oi-
+keutettua niin oppositiolta kuin työmarkkinajärjestöiltäkin — niin tässä vaiheessa vaihto-
+ehtojen antaminen on vastuullista myös. Kritiikki ilman vaihtoehtoja on tyhjää.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Puhemies Maria Lohela: Nyt siirrytään puhujalistaan. — Edustaja Viitanen on ensim-
+mäisenä tässä puhujalistalla.
+
+15.16 Pia Viitanen sd: Ahaa, no niin, tämä sattuikin miellyttävästi. (Naurua)
+Arvoisa puhemies! Toden totta, täytyy nyt sen verran kyllä kopata tästä edellisestä pu-
+
+heenvuorosta: Kyllähän täällä salikeskustelussa tänäänkin kävi hämmentävän selkeästi
+ilmi se, että perussuomalaiset puhuessaan kansalle toreilla, kauppojen edessä lupasivat täy-
+sin päinvastaista kuin hallitusohjelma. Aina ymmärrän tietenkin sen, että kompromisseja
+tehdään ja kaikki niitä tekevät, mutta ei kai kuitenkaan se voi olla päämäärä, että vaalioh-
+jelma on täysin päinvastainen kuin hallitusohjelma. Puheet ovat täysin päinvastaisia.
+
+Täällä ministeri Lindström kertoi itse, että hänellä on nyt esitysoikeus, hän on ministeri.
+Me olemme kysyneet, miksi hän esitti vain 30:tä miljoonaa, kun hän samassa puheenvuo-
+rossaan sanoi, että tämä raha ei ole riittävä. Olemme kysyneet tätä. Mielestäni me ansait-
+semme tähän vastauksen, mutta vielä enemmän, kuin me ansaitsemme sen vastauksen, an-
+saitsee se työtön vastauksen, joka ei tämän rahasumman kautta saa sitä tärkeää kosketusta
+työhön, ei työllisty. Sitä vastausta vaille se työtön ihminen valitettavasti tämän salikeskus-
+telun jälkeen jäi, ennen kuin ministeri poistui. Hän ei vastannut tähän kysymykseen, miksi
+hän esitti vain 30:tä miljoonaa.
+
+Minä luulen, ministeri Lindström ja arvoisat perussuomalaiset, että kansa kysyy torilla
+tätä mutta se kysyy myös sitä, miksi esimerkiksi perussuomalaiset hyväksyvät sen jopa ta-
+voitteeksi, että nyt täytyy niin sanottujen yhteiskuntasopimusten nimissä laskea, leikata ih-
+misten palkkoja, ottaa siltä työmieheltä ja työnaiselta, lapsiperheiltä tuhansia euroja vuo-
+dessa. Me kaikki ymmärrämme ihan maalaisjärjellä — ekonomistitkin monet ymmärtävät,
+niin kuin tässä kävi ilmi — että se laskee myös ostovoimaa. Se on inhimillisesti väärin, ja
+se on talouspoliittisesti epäviisasta. Kun ihmisillä ei ole rahaa ostaa, talous näivettyy. Jos
+ette usko minua, niin uskokaa sitten vaikka luottoluokituslaitos Fitchiä, joka juuri ei laske-
+nut Suomen parasta luottoluokitusta mutta merkitsi tulevaisuusnäkymän heikommaksi sik-
+si, että hallitus tekee leikkauspolitiikkaa. Samahan näkyy täällä mainitussa Etlan ennus-
+teessakin. 
+
+Oletteko, arvoisa hallitus, kun puhutaan työpaikoista, työllisyydestä, nähneet yhtäkään
+ekonomistia tai yhtäkään taloudellista tutkimuslaitosta — pystyisikö esimerkiksi Zysko-
+wicz nyt tulemaan kertomaan — joka olisi kiittänyt sitä, että hallitus leikkaa tässä tilantees-
+sa koulutuksesta, osaamisesta, innovaatiosta? Ette ole kuulleet näitä kiitoksia, koska niitä
+ei ole tullut. Päinvastoin, ekonomistit ovat kauhuissaan juuri siksi, että tässä tilanteessa ta-
+louspoliittisesti (Ari Jalonen: Vaihtoehtobudjettia odotellessa!) ei pidä mennä leikkaa-
+maan koulutuksesta ja osaamisesta.
+
+Minä olen, puhemies, sitä mieltä, että tämä on sellainen paikka, että meidän pitäisi kaik-
+kien pystyä yhdessä katsomaan, yhdessä sopimaan. Minä toden totta ihmettelen ja olen hy-
+vin huolissani myös tulevien työpaikkojen osalta siitä, kuinka paljon tästä yhteiskunnasta
+voidaankaan musertaa tällä sanelupolitiikalla, mitä hallitus parhaillaan esittää.
+
+Täällä kävi keskustelussa hyvin ilmi, mitä se sellainen sopiminen on, kun hallitus ha-
+luaa jo etukäteen kertoa, että lopputulos on se, että ihmisiltä leikataan käytännössä 5 pro-
+senttia palkoista. Mitä se sellainen sopiminen on, ja kuinka paljon se tuleviin työpaikkoi-
+hin vaikuttaa? Täällä puhutaan työllisyydestä tänään. Hallitus myöntää, että ostovoiman
+leikkaukset voivat vasta pitkällä aikajänteellä tuoda kenties työpaikkoja. Samaan aikaan
+21
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+työllisyyden hoitorahoista tässä ja nyt ei pidetä huolta. Niitä on aivan liian vähän. Työttö-
+mät jätetään yksin.
+
+Tämä on vain kerta kaikkiaan sellainen talouspoliittinen yhtälö, jota minä en voi ymmär-
+tää. Siksi olisi ollut hyvin mielenkiintoista ja hyvin tärkeää myös kansanvallan kannalta,
+että ministeri Lindström ja ministeri Stubb olisivat voineet hivenen kauemmin olla tässä
+salissa ja käydä tätä hyvin tärkeää keskustelua.
+
+Me puhumme nyt ihmisten arjesta, ihmisten toimeentulosta. Sosiaaliturvaa leikataan
+eläkkeensaajilta, opiskelijoilta, työttömiltä. Työttömyysmäärärahoja ollaan leikkaamassa.
+Ensi vuonna työllisyysmäärärahoja leikataan, niin kuin täällä kuulimme. Halutaan väen
+vängällä leikata ihmisten palkkoja, pienituloisten, keskituloisten, naisvaltaisten alojen.
+
+Kauppalehteäkin kannattaa muuten lukea, kun nyt puhutaan niin kovasti siitä lomaraho-
+jen leikkauksesta, joka on niin hienoa varmasti hallituspuolueiden mielestä. Siellä kerro-
+taan siitä, että verotuloja se syö miljardin verran, (Puhemies koputtaa) että tämäkin on sit-
+ten talouspoliittisesti hyvin epäviisasta. (Tarja Filatovin välihuuto) — Epäviisas yhtälö,
+juuri näin, leikataan lisää sitten. — Eli tässä mennään, arvoisa puhemies. Tämä tilanne ei
+ole hyvä.
+
+Minä olen myös siitä hirvittävän hämilläni — tähän loppuun sanottuna — miten voi olla
+tässä tilanteessa niin, että esimerkiksi perussuomalaiset hyväksyvät tämän hyvin oikeisto-
+laisen perusvirityksen. Täällä todettiin, että nythän on niin, kun puhumme päivän akuutista
+tilanteesta, joka toden totta tulee vaikuttamaan työllisyyteen ja työpaikkoihin tulevaisuu-
+dessa, että hallitus on täysin hypännyt Elinkeinoelämän keskusliittoon. Minä nyt olisin toi-
+vonut, että edustaja Zyskowiczkin olisi nyt tänne jäänyt ja käyttäisi niitä suhteitaan sinne
+suuntaan, jotta tämä... (Eero Heinäluoma: Hän lähti lukemaan Helsingin Sanomia!) — Hän
+lähti ehkä lukemaan Helsingin Sanomia, se voi olla totta. Sieltä löytyy niitä taloustieteili-
+jöitä, jotka todistavat toisin kuin edustaja Zyskowicz. — Minä en ymmärrä sitä, miten ja
+miksi kuvitellaan, että tämä tilanne millään tavalla olisi tasapuolinen, ja kannan syvää
+huolta siitä, että tilanne on tämä. Miten perussuomalaiset esimerkiksi hallituspuolueena
+voi hyväksyä tämän ja jopa haluta tätä?
+
+Tämä oli pitkä vastauspuheenvuoro, poikkeaa ehkä vähän siitä, mitä tänne olin kirjan-
+nut, mutta, puhemies, tähän lisätalousarvioasiaan vielä sen verran haluan palata, että meil-
+lä on oppositiolla ja SDP:llä tästä määrärahaesityksiä, eli tulemme esittämään tätä tasoa
+yhteensä 90 miljoonan euron tasolle. Ja haluan muistuttaa siitä, mistä tämä keskustelu lähti
+liikkeelle, että viime keväänä koko eduskunta, myös hallituspuolueet, myönsi, että tämä
+tarve on suuri ja tätä tilannetta täytyy kohentaa. (Puhemies koputtaa) Ja nyt kun sitten ko-
+hennusta tulee, niin auttamattoman liian pieni lopputulos. Minä toivon oikeastaan, että val-
+tiovarainvaliokunnassa voisimme yhteisvoimin kenties tätä rahaa korottaa ja sitä kautta
+katsoa yhteistyöllä myönteisesti tulevaisuuteen.
+
+15.23 Sari Tanus kd: Arvoisa rouva puhemies! Työllisyystilanne Suomessa on heikenty-
+nyt merkittävästi viime vuosien aikana. Työttömyyden kasvu on jatkunut edelleen tänä
+vuonna. Tilastokeskuksen tuoreiden tietojen mukaan työttömien määrä oli heinäkuussa
+kasvanut 38 000 henkilöllä viime vuoden heinäkuusta. Samaan aikaan työllistämiseen
+suunnattuja määrärahoja on vähennetty. Niin kuin olemme kuulleet, monilla paikkakunnil-
+la ja alueilla esimerkiksi palkkatuen ja starttirahan maksamiseen tarkoitetut varat ovat ol-
+leet loppu jo alkuvuoden puolella eikä uusia sitoumuksia ole voitu tehdä. Vaikea talousti-
+lanne kyetään kääntämään kasvuun vain työn ja yhteisen tekemisen ja yrittäjyyden kautta.
+22
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Mielestämme työllisyystoimenpiteitä tulee tehostaa etenkin nuorten, pitkäaikaistyöttö-
+mien ja yksinhuoltajien tilanteen helpottamiseksi. Pitkään jatkunut työttömyys on selvästi
+suurin yksittäinen syrjäytymisriski ja monien, monien sosiaalisten ongelmien aiheuttaja.
+
+Rakenteellisen työttömyyden alentamiseksi on välttämätöntä synnyttää työpaikkoja
+myös niille, joilla on vain vähäinen ammatillinen koulutus tai ei ole sitä lainkaan. Tällä het-
+kellä valtion palkkatukimäärärahan loppuminen vaikeuttaa kuitenkin yritysten, järjestöjen
+ja kuntien työllistämismahdollisuuksia.
+
+Arvoisa rouva puhemies! Te-toimistot voivat myöntää palkkatukea vain tiukoilla eh-
+doilla, jos ollenkaan. Krooninen työllisyysmäärärahojen puute vaikuttaa myös yrittäjien
+halukkuuteen tehdä yhteistyötä te-hallinnon kanssa, jos tukirahoja ja sopimusten kestoja ei
+voida luotettavasti ennakoida. Se myös lannistaa työnhakijoita, jotka ovat sopineet työnan-
+tajan kanssa, mutta te-toimiston rahanpuutteen vuoksi eivät voikaan solmia sopimuksia.
+Koska myös yritysten starttirahat ovat lopussa, aloittavat yrittäjät joutuvat harkitsemaan
+uudelleen mahdollisuutensa aloittaa aiottua yrittäjätoimintaa, kun perustoimeentulo on tur-
+vaamatta.
+
+Arvoisa puhemies! Hallituksen lisätalousarviossaan esittämä lisämääräraha julkisille
+työvoima- ja yrityspalveluille ei riitä kattamaan koko akuuttia tarvetta. Tosin saimme mi-
+nisteriön virkamieheltä tietoja, että työttömyyden hoitoon olisi lisäksi 50 miljoonaa pusku-
+rirahoja käytössä. Tämä huomioiden KD:n eduskuntaryhmä esittää kolmanteen lisätalous-
+arvioon lisäyksenä 30 miljoonaa euroa julkisiin työvoima- ja yrityspalveluihin käytettä-
+väksi työllistämisen mahdollistamiseksi palkkatuen ja starttirahan avulla. Siis tällaisen li-
+sätalousarvioaloitteen olemme allekirjoittaneet ja jättäneet käsiteltäväksi. Näin ollen halli-
+tuksen esityksen, puskurirahojen ja meidän esityksemme yhteissummana päästäisiin tarvit-
+tavaan noin 100 miljoonaan euroon. — Kiitos.
+
+15.27 Timo Harakka sd: Arvoisa puhemies! Kun toista lisätalousarviota käsiteltiin täällä
+eduskunnassa alkukesästä, niin silloin tiedettiin, että työllisyysmäärärahat ovat loppuneet
+tai loppumassa. Sen tunnustivat kaikki puolueet. Sosialidemokraatit ja koko oppositio vaa-
+tivat siis johdonmukaisesti lisää panoksia kasvavan työttömyyden torjuntaan. Hallitus jätti
+tieten tahtoen määrärahat myöntämättä, joten työllistäminen pysähtyi kuin seinään.
+
+Esimerkiksi Uudellamaalla työllistämistoimet jouduttiin lopettamaan 1. heinäkuuta. Nyt
+siis lähes kolmeen kuukauteen ei ole voitu tehdä yhtä ainoatakaan startti- ja palkkatukipää-
+töstä muiden kuin lakisääteisten velvoitetyöllistettyjen osalta. Normaalisti aktiivitoimet
+aloittaa 1 300 työtöntä kuukaudessa, nyt määrä on pudonnut 300:aan. Vähennystä on 70
+prosenttia samaan aikaan, kun työttömyys on kuluvan vuoden aikana kasvanut Uudella-
+maalla lähes 15 prosenttia edellisvuoteen verraten.
+
+Starttirahoja Uudellamaalla myönnettiin viime vuonna 2 700, ja kesäkuun loppuun
+mennessä päästiin jo lukuun 2 200, kunnes kaikki pysähtyi kuin seinään. Viime vuonna oli
+6 000 alkavaa palkkatukea, ja tästä määrästä kaksi kolmannesta täyttyi jo vuoden ensim-
+mäisen puoliskon aikana, kunnes kaikki pysähtyi kuin seinään. Siis nämä luvut ovat yksin
+Uudeltamaalta. Uudenmaan työttömyys ylittää tuota pikaa 100 000:n haamurajan. Tämä
+siis alueella, jonka pitäisi olla Suomen talouden veturi. — No, raideliikenne tietysti halli-
+tuksen toimesta harvenee muutenkin.
+
+Tilanne on yhtä hälyttävä kaikkialla Suomessa, erityisesti Turun ja Tampereen seutu-
+kunnissa. Työministeri Jari Lindström on jättänyt Suomen työttömät heitteille, ministeri
+Stubb otti tästä myös itselleen vastuuta.
+23
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Arvoisa puhemies! Jos toinen lisäbudjetti oli lapsus, niin tämä kolmas lisäbudjetti on
+loukkaus. Esitetty noin 20 miljoonan euron lisämääräraha työllistämistoimiin on täysin
+riittämätön. Kuten täällä on todettu, tuo 20 miljoonaa tarvitaan yksin Uudellemaalle. Siksi
+esitämmekin työllistämisvaroihin 70 miljoonan euron lisäystä, jotta edes olemassa oleva
+tarve saadaan katetuksi ja ihmisiä autettua työelämään kiinni. Koska hallitus jo toisen ker-
+ran kieltäytyy näkemästä työttömien tarpeita, on pakko päätellä, että tämä heitteillejättö on
+harkittua ja tarkoituksellista.
+
+Ensi vuonna Suomen työttömyys ylittää jo 10 prosenttia. Historiallinen tilasto edellisen
+laman ajalta kertoo, miten vaarallinen tilanne on edessä. Kun loppuvuonna 91 työttömyys
+ylitti 10 prosenttia, se palasi yksinumeroiseksi vasta kesällä 99 — siis 7,5 vuoden jälkeen,
+siis ennennäkemättömän Nokia-vetoisen kasvun aikanakin. Työttömyys siis kasvaa no-
+peasti ja laskee äärimmäisen hitaasti. Tässä valossa on täysin käsittämätöntä, että hallitus
+aikoo leikata ensi vuonnakin työllisyysmäärärahoja 50 miljoonalla. (Pia Viitanen: Se on
+oikeasti ihan käsittämätöntä!) — Kyllä. — Mutta koska hallitusta ei työllistäminen kiin-
+nosta, sosialidemokraatit esittävät omassa vaihtoehtobudjetissaan tehokkaita toimia työl-
+listämiseen niin, että ihmiset voivat siirtyä työstä työhön.
+
+Arvoisa puhemies! Hallitus osoitti jo välikysymyskeskustelussa, miten väheksyen se
+suhtautuu koulutukseen. Edustaja Puumala sanoi, että opettajat ansaitsevat punaisen ma-
+ton. Sen sijaan hallitus näyttää opettajille punaista korttia.
+
+Hallitus on tässä lisäbudjetissakin varautumassa nopeasti lisääntyvään maahanmuut-
+toon, mutta se, miten maahanmuuttajat saadaan kotoutettua Suomeen ja suomalaiseen työ-
+elämään, on ratkaiseva kysymys, suorastaan kohtalon kysymys tulevaisuuden Suomelle.
+Esimerkiksi ministeri Lindströmin eilinen vastaus täällä salissa osoitti alastomasti, että hal-
+litus alkaa vasta hiljalleen suunnitella kotoutuksen toimenpiteitä. Jos hallitus ei vielä tähän
+lisäbudjettiin mennessä ollut herännyt tehokkaaseen kotoutukseen, kielikoulutukseen, työ-
+hönohjaukseen, niin kannattaa ottaa oppia niistä maista, joissa on osattu hyödyntää moni-
+kulttuurisuutta. Esimerkkihän löytyy niinkin läheltä kuin Ruotsista, jossa on monta sataa
+tuhatta maahanmuuttajaa mutta silti 6 prosenttiyksikköä korkeampi työllisyysaste kuin
+meillä. Pyydän hallitusta esittämään tänä syksynä perusteellisen ohjelman, jolla turvapai-
+kan saaneet saavat myös turvallisen työn ja voivat olla mukana rakentamassa Suomelle pa-
+rempaa tulevaisuutta.
+
+15.32 Tarja Filatov sd: Arvoisa puhemies! Kun tuossa äsken keskusteltiin siitä, mikä on
+Suomen viennin ongelma ja mikä on meidän kilpailukykymme ongelma, niin on pakko
+näyttää vertailu siitä, miten Saksa ja Suomi sijoittuvat työvoimakustannusten ja tuottavuu-
+den suhteen, ja se kertoo sen, että meidän tuottavuutemme ja meidän työvoimakustannuk-
+semme ovat samalla tasolla vuonna 2014. Tuon jälkeen Suomessa on tehty maltillisia palk-
+karatkaisuja. Itse asiassa meidän työn hinta on laskenut suhteessa kilpailijamaihin, suh-
+teessa Ruotsiin, suhteessa Saksaan, mutta tuottavuus on ollut se, joka on ollut meidän vah-
+vuutemme. Ja nyt hallitus hakee ainoaa ratkaisua palkkakilpailusta. Suomi on muuttanut
+koko strategiansa viennissä. Me lähdemme kilpailemaan palkoilla, kun tähän asti meidän
+lähtökohtamme on ollut se, että me kilpailemme osaamisella ja me kilpailemme tuottavuu-
+della. Tämä on se iso ero, joka on sosialidemokraattien ja hallituksen talouspolitiikan vä-
+lillä, koska tuo palkkakilpailu johtaa siihen, että meidän kotimainen kysyntämme hiipuu.
+
+Olen täsmälleen samaa mieltä valtiovarainministeri Stubbin kanssa siitä, että ostovoima
+koostuu työstä ja palkasta. Ja nyt jos tulemme näihin työvoimapoliittisiin rahoihin, niin itse
+24
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+asiassa tuo ostovoima ihmisillä koostuu tästä eteenpäin työttömyysturvasta ja toimeentu-
+lotuesta. Mutta jos me käyttäisimme enemmän rahaa työllistämispolitiikkaan ja palkkatu-
+keen, niin tuo ostovoima muodostuisi siten kuin valtiovarainministeri sanoi: työstä ja pal-
+kasta. Ja nyt hallitus on valinnut tien, jossa työttömien ostovoima tuleekin työttömyystur-
+vasta ja toimeentulotuesta, ja samaan aikaan me menetämme paljon yhteistä yhteiskunnal-
+lista hyvää. Kyse on sotaveteraanien kotipalvelusta. Kyse on omakotitalkkareista, jotka
+ovat auttaneet vanhuksia syyspihatöissä. Kyse on Kontti-kirppareista, joissa kierrätetään ja
+moni nuori on harjoitellut kaupan alan ammatteja. Kyse on monesta, monesta muusta teh-
+tävästä, ja nämä jäävät nyt koko tämän hallituksen työvoimapoliittisen ajattelun ulkopuo-
+lelle — eli se kansalaisyhteiskunnan panos, joka tässä yhteiskunnassa on ollut arvokas,
+joka on ollut yhteisöllisyyttä tuottava ja joka on ollut eheyttävä.
+
+Mutta me tiedämme myös sen, että sitä rahaa ei kasva puussa ja se on niukka voimavara
+tällä hetkellä, ja sen vuoksi on järjetöntä, että meidän kehysmekanismimme ohjaa siihen,
+että me maksamme miljarditolkulla työttömyydenhoitokuluja kehyksen ulkopuolella mut-
+ta me emme pysty pistämään 100:aa miljoonaa tai 200:aa miljoonaa euroa lisää työllisyy-
+den hoitoon budjetin kehyksen sisäpuolella. Jos ajatellaan, että koko työttömyyden kustan-
+nus on 6 miljardia, 5,5 on työttömyysturvaa ja nettokustannus 4 miljardia, niin aktiiviseen
+työvoimapolitiikkaan käytetään puoli miljardia. Jos tuosta nettokustannuksesta, 4 miljar-
+dista, avattaisiin työmarkkinatuki siten, että sitä voisi käyttää palkkatukena automaattises-
+ti — ei niin, että budjetin sisäpuolelta pitää ottaa se 700 euroa ja vähän päälle palkkatu-
+keen, vaan sen voisi ottaa sieltä kehyksen ulkopuolisesta rahasta — niin me saisimme ai-
+kaan mekanismin, joka auttaisi ihmisiä työllistymään, perustamaan niitä yrityksiä starttira-
+halla ja muutoin automaattisemmin, emmekä me olisi tämän kehyspolitiikan vankeja. Sik-
+si on järjetöntä, että ajatellaan vain budjetin ja sen kehyksen sisäpuolella olevia rahoja. Ja
+jos tätä ajatellaan pidemmälle, niin voidaan rakentaa myös muun toimeentulon varaan näi-
+tä samoja kysymyksiä.
+
+Mutta kun ministeri Lindström sanoi, että sosialidemokraatit ovat vastustaneet osallis-
+tavaa sosiaaliturvaa: Emme me ole vastustaneet osallistavaa sosiaaliturvaa. Me olemme
+vastustaneet sitä, että meillä ei ole riittävästi palkkatukirahoja eikä niitä rahoja, joilla ihmi-
+set haluavat tuon osallistavan työvoimapolitiikan piiriin, mutta sen sijaan me loisimme jär-
+jestelmän, jossa yhä enenevässä määrin tarjottaisiin yritykselle halutonta työvoimaa, kyvy-
+töntä työvoimaa hämmästelemään sinne työpaikalle, että tänne on pakko tulla, kukaan ei
+ohjaa, kukaan ei avusta, mutta muuten eivät päivärahat juokse. Se myös söisi normaaleja
+työpaikkoja ja johtaisi sekä yritysten tuottavuuden heikentämiseen että ihmisten elämän-
+laadun heikentämiseen. Aktiivinen sosiaalipolitiikka maksaa. Sitä ei voi tehdä ilmaiseksi.
+
+15.37 Esko Kiviranta kesk: Arvoisa puhemies! Tämä lisäbudjetti on aika pieni, ja tässä
+on kysymys työllistämisestä, niin näissä palkkatuki-, startti- ja muissa työllistämisrahois-
+sa, jotka kuuluvat TEMin hallinnonalaan, kuin myöskin tuossa MMM:n hallintoalaan kuu-
+luvassa pienessä paketissa.
+
+Maataloudellehan on tässä tulossa tämmöistä kriisirahaa 20 miljoonaa euroa kansallisis-
+ta varoista ja sitten on tulossa myöskin 9 miljoonaa euroa tuolta EU-varoista. Nämä ovat
+sellaisia rahoja, että ne on aika lailla täsmäkohdennettava eniten tarpeessa oleville, jotta ne
+jotakin käytännössä sitten auttaisivat. Tällä rahalla pitäisi sitten hoitaa pahimmin velkaan-
+tuneita investoineita tiloja yli tuon hankalimman vaiheen. Tässä on ollut se ongelma, että
+kansallista tukea voidaan myöntää vain tämmöisenä de minimis -tukena silloin, kun on ky-
+25
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+symys tämmöisestä varsinaisen EU:n rahastokauden ulkopuolisen tuen myöntämisestä, ja
+tätä de minimis -tukeahan voidaan myöntää vain 15 000 euroa hakijaa kohden yhteensä
+kolmen vuoden aikana. Tuo summahan ei monenkaan tilan ongelmia ratkaise. Nyt on var-
+maan yritetty hakea ja tullaankin hakemaan ratkaisua siitä, että EU-tukea, suoraan EU-va-
+roista tulevaa tukea, ei kuitenkaan tämä de minimis -sääntö koske, ja se voi antaa pientä
+väljyyttä sitten auttaa todella tehokkaammin niitä tiloja, jotka kipeimmin ovat avun tar-
+peessa. Eli näitten velkaisimpien investoineiden ja nuorehkojen viljelijöitten hallinnassa
+olevien tilojen — yleensä nuorehkojen viljelijöitten hallinnassa olevien tilojen — auttami-
+seen tästä täytyy löytyä rahaa, tietysti sitten myöskin näitten Venäjä-pakotteitten hoitami-
+seen, jossa fokuksessa on tietysti maidontuotanto. Mutta myös sikatalouteen pitää löytyä
+kriisiapua, ja olen ymmärtänyt, että neuvotteluja on jo käyty tuottajajärjestöjen ja ministe-
+riön kesken siitä, että sikataloudellekin voitaisiin tässä paketissa järjestää pientä lisätukea.
+Eräs tuote, joka ilmeisesti myös kuuluisi tähän listaan, on ruokaperuna, mutta se taitaa olla
+liian vaikea hoitaa näin pikaisesti.
+
+No, sitten näistä TEMin työllisyysrahoista: Sanomattakin on selvää tietysti, että tällai-
+sessa työttömyystilanteessa noita rahoja on liian vähän. Kun tässä on jo ennakkokuulemi-
+siakin ollut, esimerkiksi valtiovarainvaliokunnan työ- ja elinkeinojaostossa, niin on käy-
+nyt ilmi, että myöskään tieto ei kulje te-toimistoihin ja ely-keskuksiin. Eli siellä ei tiedetä
+tätä rahatilannetta, ja sitä seurataan vielä tässä nyky-yhteiskunnassa manuaalisesti, niin
+että esimerkiksi Varsinais-Suomen te-toimiston edustaja kertoi, että siellä kuluu viisi hen-
+kilötyöpäivää kuukaudessa pelkästään näiden yhdentoista työllisyysrahalajin selvittämi-
+seen manuaalisesti TEMille. Tässä on vissiin jo pitemmän aikaan ollut tekeillä ohjelma,
+URA-ohjelma-niminen ohjelma, jolla koneellisesti voitaisiin hoitaa tällainen asia. Minus-
+ta sillä olisi kiire, että päätöksentekijät te-toimistoissa tietäisivät tämän oikean rahatilan-
+teen. Siitä oli ilmeisesti varsin paljon epäselvyyttä kesän alussa. Pienenä lohdutuksena
+voin sanoa sen, että myös Euroopan globalisaatiorahasto seuraa edelleen manuaalisesti ra-
+han kulumista.
+
+Tärkeää olisi myöskin laajentaa henkilöstöpalveluyritysten käyttämistä työvoimaviran-
+omaisten apuna pysyvien ja muiden työpaikkojen järjestämisessä. Tässähän on ollut pilotti
+käynnissä Uudenmaan ja Pirkanmaan te-toimistoissa, ja ilmeisesti siitä on saatu myöntei-
+siä kokemuksia. Tietysti tiedot voidaan antaa vain silloin, kun työnhakija siihen suostuu, ja
+vain näille auktorisoiduille tahoille. Mutta tämä olisi tärkeää, että saataisiin kaikki voimat
+ikään kuin työtä hakemaan.
+
+15.42 Katja Taimela sd: Arvoisa rouva puhemies! Vaikeassa talous- ja työllisyystilan-
+teessa kaivattaisiin määrätietoista poliittista otetta ja kunnianhimoisia toimenpiteitä. Mut-
+ta niitä me emme valitettavasti näe. Viime kaudella ministeri Ihalaisen johdolla työllisyys-
+politiikkamme oli aktiivista ja hankalaan tilanteeseen vastattiin muun muassa nuorisota-
+kuulla ja työllisyysmäärärahojen kanssa elettiin pääsääntöisesti ajassa. Vaalien jälkeen
+tämä muutos on ollut varsin hämmentävä. Tekisi mieli jopa sanoa, että hallitus on nostanut
+kädet pystyyn tämän työllisyysongelmamme kanssa.
+
+Kun kuuntelee ihmisiltä palautetta turuilla ja toreilla, näitä hankalia ihmiskohtaloita, joi-
+ta jokaisen luvun taakse kätkeytyy, herää suuri ihmetys siitä, että hallituksen toimenpiteet
+ovat tätä luokkaa. Tämä lisäbudjetti sisältää sentään hentoisen panoksen työllisyysmäärä-
+rahoihin, jotka ovat jo loppuneet varsin monilla alueilla. Lisäys on silti täysin riittämätön,
+26
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+eikä se suurta apua tähän tilanteeseen anna. Hallitus jättää neljä viidesosaa työttömistä soh-
+valle, vaikka vielä kesäkuussa vannoitte pitävänne huolta työllisyystoimista.
+
+Täytyy todeta, että tilanne on täysin kohtuuton paitsi kaikkien työttömien myös kuntien
+kannalta. Valtio on siirtänyt kunnille vastuuta työllisyyskustannuksista ja työllistämisestä
+niin, että työttömyyden kunnille aiheuttamat menot nousevat nopeasti ja alkavat olla mil-
+jardin euron luokkaa vuositasolla. Samaan aikaan kunnilta viedään työkalut työllisyyden
+hoitamiseen, kun muun muassa palkkatukirahat ovat loppu. Monilta eri alueilta on tullut
+viestiä eri toimijoilta palkkatuki- ja starttirahojen loppumisesta. Ilman lisärahaa alueilla ol-
+laan kohtuuttomissa tilanteissa. Järjestöt ja te-toimistot ovat voimattomia ja ihmiset, etten
+sanoisi, peloissaan.
+
+Arvoisa puhemies! Eilen koulutusvälikysymyskeskustelussa kävi ilmi, että hallituksen
+tapa uudistaa on leikata rahat minimiin ja alkaa sitten joskus myöhemmin miettiä, miten ra-
+kenteita voisi muokata. Sama tilanne näyttää olevan nyt työllisyyden hoidon kohdallakin.
+Hallitus on vihjannut, että uusia asioita ollaan tuomassa, muun muassa yksityistä työnvä-
+litystä, mutta ensin viedään rahat pois. Tämä tarkoittaa olemassa olevan palvelurakenteen
+hajottamista, ja ihmiset jäävät tyhjän päälle. Mikä uusi menetelmä se on, vai onko se se uu-
+si: "Me kehitetään"?
+
+Kysyin ministeri Lindströmiltä kesäkuussa kirjallisella kysymyksellä, aikooko hallitus
+sitoutua riittäviin työllisyysmäärärahoihin, onko sillä edes ajatusta tehdä sitä. Ministerin
+vastauksesta puuttui kokonaan pieninkin yritys vastata ensinnäkin siihen kysymykseen,
+ehkä siksi, että ministeri on myöhemmin myöntänyt, että häneltä on viety työkalut asioi-
+den hoidosta. Kaikesta tästä kiertelystä ja kaartelusta on kuitenkin helppo päätellä, että hal-
+litus ajaa työvoimapalveluja alas kovalla kädellä eikä työllistämiseen edes haluta loppupe-
+leissä panostaa. Tämä on jälleen se yksi toimenpide, jolla hallitus jakaa kansaa voimak-
+kaasti kahtia. Me kaikki ymmärrämme, että talous sakkaa ja ennusteet ovat synkät, mutta
+politiikka on kuitenkin kaikessa lopussa arvovalintoja.
+
+Minä haluan siteerata tähän loppuun edustaja Filatovia, koska hän päätti oman puheen-
+vuoronsa mielestäni erittäin hyvällä tavalla, hyvällä ajatuksella. Hänen sitaattinsa alkoi:
+"Aktiivinen sosiaalipolitiikka maksaa. Sitä ei voi tehdä ilmaiseksi." Tätä aktiivista otetta,
+jos jotain, mielestäni nyt myös hallitukselta työllistämistoimien kohdalla tarvittaisiin.
+
+15.47 Anna Kontula vas: Arvoisa rouva puhemies! Valtiovarainministeri käytti vanhaa
+vertausta norsusta. Hän pyrki kuvaamaan sillä, kuinka pimeässä pelkästään käsikopelolla
+norsua tunnustelevan henkilön on hyvin vaikeaa sanoa, miltä tämä norsu varsinaisesti näyt-
+tää: joku kokeilee jalkaa, joku kokeilee häntää, joku kokeilee kärsää, ja kaikki saavat ihan
+eri lopputuloksen. Minä tulkitsin tämän vertauksen niin, että valtiovarainministerin mieles-
+tä hallitus katsoo nyt norsua kokonaisuutena ja on ikään kuin asian päällä ja perustaa oman
+politiikkansa faktoihin. Minun nähdäkseni kysymys on kuitenkin enemmän siitä, että hal-
+litus seisoo nyt sen norsun vieressä, puristaa silmänsä tiukasti kiinni ja kieltäytyy katso-
+masta norsua, koska norsu saattaisi vaikuttaa pelottavalta. Tämä näkyy muun muassa sii-
+nä, mitenkä hallituksen aloitteissa ja esityksissä intressit, mielipiteet ja faktat menevät su-
+lavasti sekaisin, mitenkä tässäkin keskustelussa kilpailukyky yleensä ja kustannuskilpailu-
+kyky sotketaan toisiinsa.
+
+Täällä on kysytty, mitä voidaan tehdä, jos ei kerran säästetä mistään ja rahaa pitäisi lisää
+käyttää. Edelleen, Suomen verovuoto on vuosittain 6—8 miljardia. Vaikka me emme voi
+koskaan päästä verovuodosta kokonaan eroon, aika paljon tälle olisi kuitenkin tehtävissä.
+27
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Mitään sellaisia kotimaisia toimia, helppojakaan, kuten esimerkiksi maakohtaisen kirjan-
+pidon vaatimista julkisista hankinnoista, ei hallitus ole edistämässä. Samaan aikaan myös
+hallituksen kanta EU-komission tiedonantoon asiasta on poikkeuksellisen nihkeä. Me py-
+rimme myös kansainvälisissä yhteyksissä näyttäytymään mahdollisimman haluttomilta
+minkäännäköisen verovälttelyn kitkemiseen. Oikeastaan ainoa hallituksen isoihin pää-
+omiin ja yrityksiin kohdistuva verovuodon kitkemistoimi on katumuspilleri rikkaille ve-
+ronvälttelijöille, ja tähänkin on ryhdytty vain siksi, että todennäköisesti kansainväliset toi-
+met jättäisivät nämä nalkkiin jossain vaiheessa muutaman vuoden sisällä.
+
+Toinen esimerkki siitä, että meillä on vaihtoehtoja, on se fakta, että Suomen työpahoin-
+vointivelka on tällä hetkellä 40 miljardia — siis 40 miljardia. On aivan selvää, että me
+emme pääse nollaamaan sitä koskaan, mutta Suomessa on tällä hetkellä työelämän tutki-
+mus ihan maailman kärkeä, ja tällä alueella 5:n, ehkä 10:nkin miljardin niistäminen pois
+työpahoinvointivelasta olisi verraten helppoa tämän tietotaidon varassa. No, mitä hallitus
+tekee tämän edistämiseksi? Työterveyslaitoksen henkilöstöstä ollaan vähentämässä kol-
+mannes, vähentämässä kolmannes niistä ihmisistä, jotka pystyisivät tuottamaan moninker-
+taisesti omat palkkarahansa meille takaisin.
+
+Hallitusohjelma lupaa fiksummin tekemistä, ja se on hieno tavoite, tähän pitää pyrkiä.
+Mutta kauhean paljoa toistaiseksi ei ole näkynyt esimerkkejä siitä, että oikeasti olisi menty
+aikomuksesta tekoihin. Tuoreen Åbo Akademin tutkimuksen mukaan merirahdin kustan-
+nuksista olisi muutamalla pienellä teknisellä muutoksella vähennettävissä yksi kolman-
+nes. Yksi kolmannes merirahdin kustannuksista — se tarkoittaisi Suomen viennin kilpai-
+lukyvylle ihan mieletöntä loikkaa.
+
+Toinen: vastikään Varustelekan johtaja ehdotti avoimen yritysohjelmiston rakentamista
+kaikkien aloittelevien suomalaisyritysten käyttöön. Mieletön kilpailuetu suhteessa muihin
+maailman maihin saatavissa verraten kevyillä, pienillä ja halvoilla toimenpiteillä.
+
+Hallitus on perustellut kantojaan säästöihin, leikkauksiin ja nuukuuteen sillä, että pitkäl-
+lä aikavälillä näillä saadaan Suomen kilpailukyky paranemaan ja sitä kautta talous nou-
+suun. Maailmanhistoria ei kuitenkaan tunne yhtään esimerkkiä valtiosta, joka olisi paran-
+tanut kilpailukykyään ja saanut taloutensa nousuun merkittävillä koulutukseen, tutkimuk-
+seen ja kehittämiseen kohdistuvilla leikkauksilla. Ei myöskään ole näyttöä siitä, että laa-
+jempi kilpailukyky siitä paranisi, että vakaata toimintaympäristöä oleellisesti horjutetaan
+esimerkiksi niillä palkkadumppaushankkeilla, joita hallitus vakaasti ajaa eteenpäin. Van-
+hentuneet energiaratkaisut ovat yksi esimerkki siitä, että Suomi ei tällä hetkellä ole lain-
+kaan talouden kartalla.
+
+Minä olen oikeasti huolissani siitä, että me emme ole Kreikan tiellä, me olemme nyt Un-
+karin tiellä monin eri tavoin, ja tämän tien päässä meitä ei odota kovin ihanteellinen yhteis-
+kunta.
+
+15.52 Reijo Hongisto ps: Kunnioitettu rouva puhemies! Poliisin toimintamenoihin myön-
+netään rahaa yli 1,36 miljoonaa euroa. Rahat on tarkoitus käyttää turvapaikkahakemusten
+käsittelyyn ja hakijoiden rekisteröintiin. Tämän takia joudutaan jopa kutsumaan takaisin
+töihin kokeneita ja eläköityneitä poliiseja, ja virassa olevatkin joutuvat tekemään runsaasti
+ylitöitä.
+
+Lisämääräraha on erittäin tärkeä, sillä sen avulla kyetään hoitamaan edes välttävässä
+ajassa maahantulijoiden tarkastukset ja selvitykset. Tästä hyötyvät maahan tulleet nopeu-
+tettuna asian käsittelynä ja me maassa olevat, suomalaiset veronmaksajat, säästyneinä kus-
+28
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+tannuksina. On kaikkien etu, että asiat saadaan käsiteltyä mahdollisimman oikeudenmu-
+kaisesti ja mahdollisimman nopeasti. Tämä ei käy nykyisillä resursseilla. On muistettava,
+että samaan aikaan poliisin on huolehdittava normaaliin tapaan yleisen järjestyksen ja tur-
+vallisuuden ylläpidosta ja jo tapahtuneiden rikosten esitutkinnasta. Edellisen hallituksen
+jäljiltä poliisin resurssit olivat jo pahasti alimitoitetut, joten lisäresursointi on suorastaan
+välttämätöntä.
+
+Kunnioitettu rouva puhemies! Hallitus lupaili nopeutta ja ketteryyttä päätöksiin, ja lisä-
+määrärahan nostaminen näin nopeasti lisäbudjettiin osoittaa sen, että nykyinen hallitus ky-
+kenee reagoimaan ja vastaamaan haasteisiin nopeasti ja haluaa säilyttää yhteiskunnassam-
+me yllä hyvän järjestyksen ja turvallisuuden tason. Kiitokset siitä.
+
+15.54 Katri Kulmuni kesk: Arvoisa rouva puhemies! Nyt lähetekeskustelussa oleva lisä-
+talousarvio on vastaus akuutteihin julkisen talouden tarpeisiin. Hallitusta on syytetty pak-
+komielteisestäkin velanoton karttamisesta, jossa ei katsota tarpeeksi kauas, jolloin velanot-
+to sitten maksaisi itsensä takaisin. Mutta kyllähän se niin on, että Suomi tietenkin velkaan-
+tuu koko ajan, ja tässäkin lisätalousarviossa nettolainanotto on 52 miljoonaa euroa. Ja vel-
+kaa otetaan silloin, kun katsotaan parhaaksi vaihtoehdoksi se, että sillä saadaan tuloksia ai-
+kaan, mutta ei ole minusta reilua ylisukupolvisuutta ajatellen, että jätettäisiin talouden ali-
+jäämän ongelma ainoastaan velalla kattamiseen.
+
+Lisätalousarviolla vastataan osittain maataloustuottajien ahdinkoon 20 miljoonalla eu-
+rolla kannattavuuden ja maksuvalmiuden turvaamiseen. Viime viikolla EU-komissio lupa-
+si kriisitukipaketissaan Suomen maataloussektorille 9 miljoonaa. Summat ovat ehkä suu-
+ria noin äkkiseltään, mutta jos ajattelee kokonaisuutta, niin kun Venäjän-viennin maitosek-
+torin tappiot Suomelle ovat vuodessa 200 miljoonaa, niin eivät nämä valitettavasti kovin-
+kaan suuria tukia ole mutta välttämättömiä kyllä siinä kriisissä, mikä nyt maatiloilla on.
+
+No, entäpä sitten työvoima- ja yrityspalvelujen määrärahat? Lisäys 21,6 miljoonaa on
+välttämätön. Toki on surullista, että se lienee kuitenkin myös riittämätön, kun meillä on jo
+346 000 työtöntä tällä hetkellä.
+
+Sitten viime viikkojen ehkä kuumimpaan aiheeseen, akuuttiin turvapaikanhakijatilan-
+teeseen.
+
+On välttämätöntä, että Maahanmuuttoviraston toimintamenoihin on saatu lisäystä 1,6
+miljoonaa sekä poliisin toimintamenoihin, palkkauksiin, laitehankintoihin, 1,4 miljoonaa.
+Nämä rahat todellakin tulevat tarpeeseen asian parissa työtä tekeville viranomaisille, joi-
+den resurssit eivät mitenkään tällaisessa aika poikkeuksellisessa tilanteessa muuten riittäi-
+si asianmukaisiin järjestelyihin ja sujuvaan turvapaikkaprosessiin.
+
+Eilen kotipaikkakunnallani Torniossa avattiin poikkeuksellisesti, Suomessa ensimmäis-
+tä kertaa, järjestelykeskus nopeuttamaan turvapaikanhakijoiden rekisteröitymisprosessia.
+Tämä on historiallista Suomessa, aikaisemmin tällaista ei ole koskaan tehty. Keskuksessa
+kuvataan henkilöt, otetaan sormenjäljet, rekisteröidään, ja tavoitteena on, että kahdessa
+vuorokaudessa heidät viimeistään voitaisiin siirtää eteenpäin vastaanottokeskuksiin.
+
+Tietenkin on tärkeää, että kotouttamisprosessi sujuisi mahdollisimman hyvin ja varhain
+ja ne henkilöt, jotka jäävät Suomeen, voisivat sopeutua ympäristöön ja yhteiskuntaan mah-
+dollisimman hyvin. Mutta myös kielteisen turvapaikkapäätöksen saaneiden henkilöiden
+palauttaminen on tärkeä osa tätä koko kokonaisuutta.
+
+Kansalaisten keskuudessa on valitettavasti jonkin verran ollut vastakkainasettelua sen
+suhteen, miksi turvapaikkahakemusten käsittelyyn laitetaan lisää resursseja, kun samalla
+29
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+leikataan julkisesta taloudesta muutoin huomattaviakin summia, mutta kyllä nämä ovat
+välttämättömiä panostuksia, että me voimme pitää tilanteen edes jollain lailla hallinnassa,
+järjestelmällisesti ja asiallisesti saada turvapaikkaprosessit käsiteltyä ja myös noudattaa
+niitä kansainvälisiä sitoumuksia, joihin olemme sitoutuneet. Eihän kukaan osannut ajatella
+vaikkapa viime keväänä, minkälaiseen tilanteeseen Suomi ja Eurooppa tämän asian suh-
+teen joutuvat.
+
+Tärkeintä tässä onkin tietenkin se, että se on nyt viranomaisten hallinnassa eikä kukaan
+myöskään kuvittele, että Suomi tai Ruotsi tai Tanska tai mikään Euroopan maa yksin pys-
+tyy tämän turvapaikkakysymyksen ratkaisemaan. Siihen tarvitaan globaalin tason ratkai-
+sua, siihen tarvitaan YK:n parempaa resursointia lähtömaissa, naapurimaiden pakolaislei-
+reillä, ja ennen kaikkea siihen tarvitaan EU-maiden keskinäistä yhteistyötä ja eurooppalai-
+sia ratkaisuja. Toivottavasti niistä saamme jo tämänpäiväisen EU-huippukokouksen jäl-
+keen tietoja.
+
+Arvoisa puhemies! Lisätalousarvioesitys on varsin tarpeellinen ja perusteltu.
+
+15.59 Martti Mölsä ps: Arvoisa puhemies! Elämäni suurimpia hämmästyksen hetkiä, tai
+pitkä ajanjakso, oli noin neljä vuotta sitten. Silloin edustaja Viitasen — joka äsken pahek-
+sui ministeri Stubbin poissaoloa, kun ei kuunnellut hänen juttujaan, ja nyt Viitanen ei
+kuuntele minun juttujani ja minä voin paheksua häntä — levy jumiutui kohtaan, jossa hän
+toisti yli puoli vuotta sitä, kuinka piikki on saatu kiinni.
+
+No, jos hän tarkoitti näitä rahavirtoja, joita Kreikkaan ja muihin Etelä-Euroopan valtioi-
+hin meni, niin loppujen lopuksi tämä SDP:n aikaansaannos maksoi suomalaiselle yhteis-
+kunnalle 12,6 miljardia euroa, josta 1 440 miljoonaa piti maksaa välittömästi, kun saimme
+niin hyvät vakuudet, tuottojenvaihtosopimuksen oikealta nimeltään siis. Se oli tämän vuo-
+situhannen suurin huijaus, ja tätä huijaustahan edustaja Heinäluomakin on nyt viljellyt vii-
+me aikoina aika usein mutta hieman eri lailla mutta on unohtanut kuitenkin tämän, mikä
+nyt on asiana tosi suuri. Heidän aikaansaannoksiaan aikaisemmilta vuosilta viime vuositu-
+hannen puolelta on muun muassa varallisuusveron poisto, jotka rahat nyt olisivat hyvinkin
+tarpeellisia.
+
+Eli nyt näillä summilla voitaisiin saada korjattua huomattavasti tämän hetken taloudel-
+lista tilannetta, mutta nyt niitä sitten korjataan näillä lisätalousarvioilla ja niin edelleen.
+Mutta tämä on kaikki tapahtunut, ja näillä hallituksen päätöksillä mennään eteenpäin, ja
+suomalainen yhteiskunta on saatava nousuun. Vaihtoehdot ovat vähissä.
+
+16.02 Antero Laukkanen kd: Arvoisa herra puhemies! Täällä keskustelun alussa käytet-
+tiin sanaa "hämmentävä", ja täytyy sanoa, että ensimmäisen kauden kansanedustajana hy-
+vin monikin asia on hämmentävä tässä keskustelussa. (Martti Mölsä: Puoli vuotta siinä me-
+nee!) Suuri kuva ei tuo leipää eikä työtä, vaikka kuinka katsoisi.
+
+Olen viime päivinä yrittänyt selvittää työllisyysmäärärahojen todellista tarvetta. Luvut
+ovat vaihdelleet 20:stä 92 miljoonaan. Lopulta tulin siihen tulokseen, että ei taida olla ko-
+vin montaa ihmistä, joka todella tietää, mikä tämä todellinen tarve työllisyysmäärärahoi-
+hin on. Ei edes ministeriössä tuntunut löytyvän henkilöä, joka osaisi tarkalleen vastata.
+
+Niinpä, arvoisa herra puhemies, läksin asiaa selvittämään, niin kuin asiaa pitää selvittää,
+eli soittelin eri puolille, elyihin ja te-keskuksiin, ja tiedustelin, missä mennään. Täällä on
+sanottu muun muassa sillä tavalla, että pelkästään Uudenmaan tarve olisi 20 miljoonaa eu-
+30
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+roa. Se ei pidä paikkaansa. Tänään olen keskustellut siellä vastaavien henkilöiden kanssa,
+ja he sanoivat, että 10 miljoonalla selviävät vuoden loppuun.
+
+Sitten soitin ministeriöön, kun sain lopulta tietää, kuka siellä on se henkilö, joka ihan oi-
+keasti kerää kaikki nämä tiedot, ja sain tietää, että elokuun lopussa tämä luku oli 39 mil-
+joonaa euroa. Ja sitten hänen vielä tarkistaessaan, mikä se tilanne mahtaisi olla juuri tällä
+hetkellä, oltiin noin 45—50 miljoonassa, joten sieltä 90 miljoonasta tultiin aika paljon alas.
+
+No, tosiasia on se — niin kuin ministeri itsekin tänään myönsi, siis työministeri Lind-
+ström — että hänen esityksensä on riittämätön. Tämä on ehkä tämän koko keskustelun kai-
+kista hämmästyttävin asia siinä mielessä, että kun lähtökohtaisesti jo esitetään liian vähän
+rahaa, niin luodaan aivan varmasti painetta sille, että se rahan tarve entisestään kasvaa. Se
+on niin kuin ne monet säästötoimet, joita nyt esitetään: ne näyttävät säästöiltä, mutta itse
+asiassa ne tuovat valtiolle lisää menoja.
+
+Me elämme nyt sellaisessa ajassa, jossa joudutaan todella miettimään, mistä raha ote-
+taan. Ja niin kuin kaikki tiedämme, ensi vuoden talousarviokin vielä pitkälti rakentuu ve-
+lan päälle. Mutta näyttää siltä, että meitä vaivaa velkakammo, eräänlainen ikään kuin sel-
+lainen vanha mantra, että velkaa ei saa olla yhtään. Pidän tätä ajattelutapaa siinä mielessä
+vahingollisena, että velkoja on hyvin monenlaisia: on tuottavaa velkaa, on ylläpitävää vel-
+kaa ja on sitten sitä korjausvelkaa, jolla yritetään paikata entisiä asioita, mitä on tehty huo-
+nosti.
+
+Mutta tämä tuottava velka on nyt varmasti se velka, johon katseet tulisi kääntää: se, joka
+tuottaa työtä suomalaisille, tuottaa investointeja, tuottaa sellaista infrarakentamista, jolla
+tämä kansakunta voisi todella päästä nousuun.
+
+Arvoisa puhemies! Sellaista velkaa, joka rakentuu sellaiselle tarpeelle, jonka vaikutuk-
+set ovat 100—150 vuotta, ei voi pitää vastuuttomana velkana, ja siitä ei voi sanoa, että me
+jätämme lapsillemme velkaisen tulevaisuuden. Me olemme vain tehneet tämän sukupol-
+ven aikana sellaisia ratkaisuja, jotka hyödyttävät monia eri sukupolvia.
+
+Pidän tätä hallituksen linjaa, tätä ajattelutapaa tällä hetkellä, jossa he katsovat velkaa
+vain yhtenä ikään kuin mantrana — paha velka, joka ei tuota mitään, joka on edellisten,
+huonojen hallitusten aikaansaamaa — erittäin vahingollisena tässä tilanteessa.
+
+Ikävää oli, että yhteiskuntasopimuskeskustelu päättyi niin kuin se päättyi. Olisin toivo-
+nut molemmin puolin pöytää lisää nöyryyttä ja ennen kaikkea tämän kansallisen hätätilan
+tunnistamista todella tärkeänä elementtinä. Vielä toivon, että tätä nöyryyttä löytyisi ja neu-
+vottelut voisivat alkaa uudestaan. Uskon, että sopimalla olisimme päässeet parempaan lop-
+putulokseen.
+
+Arvoisa puhemies! Tämä esitys kolmanneksi lisätalousarvioksi on merkittävä ja hyvä.
+Työllisyysrahojen osalta näyttää, että se kuitenkin on noin 30 miljoonaa liian pieni, ja sii-
+hen toivoisi vielä muutosta. Muuten tämä kurjistumisen kierre ei pysähdy ollenkaan. —
+Kiitoksia.
+
+16.08 Mari-Leena Talvitie kok: Arvoisa herra puhemies! Olin valmistautunut puheen-
+vuoroon kolmannesta lisätalousarviosta, joka nyt on aiheena, mutta koska tänä päivänä on
+leikattava lähes joka asiasta, niin yritän myös lyhentää puhettani. Kiitän kuitenkin työmi-
+nisteriä rohkeasta, suorasta puheesta. Siinä oli kaivattua tekemisen tarmoa ja uudistushen-
+keä, juuri sellaista Oy Suomi Ab -henkeä, jota me kansakuntana kuten myös eduskuntana
+tarvitsemme.
+31
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Arvoisa herra puhemies! Mitä tulee tähän lisätalousarvioon, on ymmärrettävää, ettei osa
+tästä salista ole tyytyväinen hallituksen esittämiin rahamääriin. Yleensä me päättäjät mie-
+luummin pyydämme lisää rahaa kuin etsimme säästökohteita. Sipilän hallitus on kuitenkin
+valinnut vastuullisen ja kokonaistaloudellisen tien, ja vähemmälläkin on tultava toimeen.
+Työministeri on sitoutunut viitoittamaan tätä kannustavaa uudistuksien tietä.
+
+Mitä sitten voimme saavuttaa näillä lisämäärärahoilla? Mitä tulee sisäministeriön pää-
+luokan osuuteen, siinä on helppo yhtyä edustaja Hongiston äskeiseen puheenvuoroon. Entä
+sitten näitten työvoimapalveluiden lisämäärärahoihin? Liian usein työllistymisen esteenä
+ovat byrokraattiset ja moniasteiset tukijärjestelmät, jotka eivät kannusta työllistymiseen.
+Tällä hetkellä tilanne on se, että kunnat ja kaupungit maksavat loputtomalla piikillä työ-
+markkinatukea. Tähän ei yksinkertaisesti voi olla enää varaa. Samalla tai jopa pienemmäl-
+lä rahamäärällä voimme saadaan aikaan parempaa.
+
+Senpä vuoksi on syytä viedä rivakasti käytäntöön niitä kokeiluja, joihin hallitus sitoutui
+jo hallitusohjelmassa, muun muassa miten työttömyysturvaa ja toimeentulotukea voidaan
+yhteensovittaa. Oulun seudun kunnat ovatkin toimittaneet ministereiden pöydälle esityk-
+sen pääsystä toteuttamaan ennakkoluulotonta työllisyyskokeilua, joka olisi sekä yksilön
+että yhteiskunnan kannalta kokonaistaloudellinen. Tavoitteena on ehkäistä ja katkaista pit-
+käaikaistyöttömyysjaksoja eli käyttää tätä työttömyysturvaa koulutuksen ja työllistymisen
+tukena. Näin siis sovellettaisiin muun muassa työttömyysturvan ja palkan yhteensovitta-
+mista koulutuksessa ja työllistymisessä.
+
+Kokeilun toimenpiteet säästävät yhteiskunnan kustannuksia, tukevat sitä elinkeinotoi-
+mintaa, jolloin passiivisen odottelun sijaan sekä yksilön että yhteisön kannalta laitetaan ta-
+louden pyörät pyörimään ja annetaan niiden pyöriä. Tämän Oulun työllisyyskokeiluesityk-
+sen tavoitteena on edistää työttömän omaehtoista aktiivisuutta pilotoimalla muun muassa
+koulutussopimusmalleja ja oppisopimuskoulutusta, josta tässäkin salissa oli myös eilen
+puhetta, sekä joustavia koulutuksen ja työnhaun yhteensovittamisen malleja. Lisäksi ta-
+voitteena on edistää työn vastaanottamisen ja aktiivitoimiin osallistumisen mahdollisuuk-
+sia sekä kuntien työllisyyspalveluita rakentavaa kokeilukulttuuria erityisesti nuorille, jot-
+ka tällä hetkellä jäävät näiden palveluiden ulkopuolelle. Toivotaan, että tämä työllisyysko-
+keilu voi edetä. Se olisi esimerkkinä myös siitä, miten vähemmällä rahalla voisimme saada
+enemmän aikaan.
+
+Loppuun kiitokset myös salin etuosaan edustaja Filatoville, jonka puheenvuorossa oli
+hyvää kokonaistaloudellista ajattelua. — Kiitos.
+
+16.12 Kari Uotila vas: Arvoisa herra puhemies! Kun viime keväänä käsittelimme tässä
+salissa ja valtiovarainvaliokunnassa toista lisätalousarviota tälle vuodelle, niin siinä yhtey-
+dessä hallitus ilmoitti, että kolmas lisätalousarvio annetaan eduskunnalle lokakuun lopul-
+la. Tämä säikähdytti valtiovarainvaliokunnan ja koko eduskunnan. Valtiovarainvaliokun-
+tahan oli yksimielinen siinä ja kirjoitti sen mietinnössään ulos, että on varauduttava heti
+syyskauden alussa työllistävään lisäbudjettiin, ja kaikilla oppositiopuolueilla oli myöskin
+lausuma tästä asiasta. Silloin jo keväällä tiedettiin, että niin starttirahat, palkkatukirahat
+kuin muutkin rahat ovat ely-keskuksista loppumassa, ja silloin asiantuntijakuulemisessa
+kuulimme, että rahan tarve silloin oli 110 miljoonaa. No, tänään sitä on täällä sitten tarken-
+nettu, että tässä vaiheessa vuotta, kun on aikaa kulunut, todellinen rahan tarve on siellä 90
+miljoonan tietämissä.
+32
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Kun edustaja Laukkanen totesi, että oli hämmentynyt, niin minäkin olin hämmentynyt,
+kun tänään valtiovarainministeri Stubbkin kovasti korosti, että tämä on Microsoft-lisäbud-
+jetti. Tämä päätöshän siitä, että lisäbudjetti annetaan, tuli toki heti sen jälkeen, kun karmea
+tilanne Salossa Microsoftin osalta paljastui. Mutta herää epäilys, olisiko hallitus pitäytynyt
+ilman Microsoftin tapausta vanhassa suunnitelmassaan ja jättänyt eduskunnan tahdon to-
+teuttamatta ja jättänyt lisäbudjetin tekemisen myöhäiseen syksyyn, jolloin sillä ei enää oli-
+si ollut mitään merkitystä aktiivityövoimapolitiikan toimenpiteiden kannalta.
+
+Sitten mennään tähän mitoitukseen. Kuten täällä on käynyt ilmi, tarve on noin 90 mil-
+joonaa. Ministeri Lindström oli kai pyytänyt, vaatinut tai ehdottanut 30:tä miljoonaa elik-
+kä vain pientä osaa siitä todellisesta tarpeesta, ja sitten nyt on se 20 miljoonaa, joka pitää si-
+sällään yhtä sun toista tässä lisätalousarviossa. Tämä ei tule tietenkään riittämään. Sille ja-
+kovaralle, 70 miljoonalle, joka jää sitten myöhäisempää lisäbudjettia varten, kyllä tarpeita
+ehdottomasti tulee erittäin paljon.
+
+No, mitä sitten tulee tähän isoon talouden kuvaan? Tähän palataan ensi viikon tiistaina,
+kun aloitamme lähetekeskustelun, varmasti paljon perusteellisemmin, mutta on jo syytä
+tässä yhteydessä — vähän samalla tavalla kuin edustaja Laukkanen — kyseenalaistaa tätä
+yhden totuuden talouspolitiikan dogmia, sitä, että meillä on nyt valtava kilpailukyky- ja
+tuottavuus- ja työn yksikkökustannusvaje ja meidän velkaantumisemme on sillä tasolla,
+että nyt ei auta mitään muuta kuin sammuttaa valot käytännössä. Tämä johtaa siihen, että
+tämä kierre, joka on koko ajan lisännyt työttömyyttä, lisännyt valtionvelkaa ja ennen kaik-
+kea lisännyt eriarvoisuutta, vain jatkuisi ja talouden taantumasta ylös nouseminen siirtyisi
+entistä pitemmälle. Kun tähän sitten liitetään vielä hallituksen pakkotoimet ja erittäin suuri
+riskinotto siinä, että työmarkkinatilanne kriisiytyy ja siellä syntyy ongelmia pitemmällä-
+kin aikavälillä, niin tilanne vaatii todella uudenlaista arviointia.
+
+Tästä velalla pelottelusta voidaan olla monta mieltä. Luen yhden lainauksen, jonka kyl-
+lä tulen ensi tiistainakin toistamaan, mutta ei kertaus haittaa tee: "Ryöstätte lapsiltanne,
+kun ette tee järkeviä investointeja ilmaisella rahalla." Ei tämä lainaus ole edustaja Arhin-
+mäeltä eikä edustaja Aino-Kaisa Pekoselta; se on talousnobelisti Joseph Stiglitziltä ja ihan
+viime päivinä sanottu. Elikkä kyllä tätä keskustelua tämän talouspolitiikan ison linjankin
+tarkoituksenmukaisuudesta käydään hyvin korkealla tasolla. Sen vuoksi varmasti ensi vii-
+kolla, kun sitten käydään budjetin lähetekeskustelua ja taloussuunnitelmakeskustelua, tä-
+hän palataan.
+
+Mutta tämä nyt on sitten tämän lisäbudjetin osalta kovin vaatimatonta, mitä hallitus te-
+kee. Tietysti näissä puitteissa ei paljon muuta liikkumavaraa ole, mutta kyllä työllisyyteen
+olisi ehdottomasti tarvittu enemmän kuin se, mitä tässä lisäbudjetissa on.
+
+16.18 Anna Kontula vas: Arvoisa puhemies! Olen aikaisemmissa puheenvuoroissa käsi-
+tellyt lisäbudjetin ongelmakohtia ja talouden suurta kuvaa. Nyt ajattelin kiinnittää huo-
+mion yhteen sellaiseen seikkaan, joka tästä budjetista olisi pitänyt löytyä, ja koska sitä ei
+siinä vielä ole, minä toivon, että se on viimeistään siinä seuraavassa, nimittäin kysymys uu-
+desta paperittomien ryhmästä, josta eduskunta keskusteli keväällä, jota eduskunnan enem-
+mistö piti epärealistisena skenaariona vielä keväällä ja joka nyt on viime kuukausien aika-
+na muuttunut merkittävästi todennäköisemmäksi. Minä puhun nyt siitä tilanteesta, kun
+meillä on turvapaikanhakija, joka saa kielteisen turvapaikkapäätöksen mutta on kotoisin
+sellaisesta maasta, johonka häntä ei voida vastentahtoisesti palauttaa. Tällaisessa tilantees-
+sa henkilö helmikuussa hyväksytyn lainsäädännön perusteella joutuu turvapaikkajärjestel-
+33
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+män ulkopuolelle, tietenkin. Hän jää Suomeen, mutta hänelle ei myönnetä oleskelulupaa
+eikä työntekolupaa. Hän siis käytännössä saa hengata täällä, häntä ei voida täältä Suomes-
+ta pois lähettää, mutta toisaalta hän ei myöskään ole virallisesti minkään oleskeluluvan pii-
+rissä.
+
+Koska merkittävä osa Suomeen tulevista turvapaikanhakijoista tulee Irakista, joka on
+yksi keskeisimpiä tämmöisiä alueita, niin voidaan varmuudella puhua, että näitä paperitto-
+mia on meillä vuoden kuluttua ainakin satoja, mahdollisesti jopa tuhansia, ja tämä ryhmä
+eroaa aikaisemmista paperittomista siinä, että siinä missä ne paperittomien ryhmät, joita
+meillä tähän asti on ollut, ovat joutuneet piiloutumaan sekä yhteiskunnalta että viranomai-
+silta, niin nyt tämän uuden paperittomien ryhmän ei tarvitse piileskellä.
+
+No, meidän lainsäädännössä, kun katsotaan perustuslakia, on jokaiselle Suomen lain-
+käyttöpiirissä oleskelevalle henkilölle taattu tiettyjä perusoikeuksia. Perustuslain pohjalta
+voidaan olettaa, että myös nämä henkilöt — siis tämä uusi paperittomien ryhmä — ovat oi-
+keutettuja ainakin käymään peruskoulua, jos ovat oppivelvollisuusikäisiä, ovat oikeutettu-
+ja kuntien toimeentulotukeen ja ovat oikeutettuja myös laajempiin terveyspalveluihin kuin
+pelkästään näihin akuuttipalveluihin, joita nyt lainsäädäntö takaa jokaiselle, joka terveys-
+keskukseen kipeänä menee. Käytännössä tilanne on se, että jotta tällainen henkilö voisi
+saada näitä palveluita, ja koska sitä ei alemmanasteisessa lainsäädännössä ole erikseen kä-
+sitelty, niin useimmissa tapauksissa hän joutuu vaatimaan niitä tuomioistuimen kautta. Tä-
+hän asti paperittomat eivät ole sitä tehneet, koska he ovat varoneet viranomaisia ja joutu-
+neet piileskelemään. Tämän uuden ryhmän kohdalla tätä estettä ei enää ole, jotenka aivan
+varmaa on, että jollakin aikavälillä meillä tulee oikeuslaitoksen käsiteltäväksi lukuisia sel-
+laisia keissejä, joissa vedetään rajaa siihen, mikä on se minimieksistenssi, jonka perustus-
+laki takaa myös näille ihmisille. Siihen asti tämän porukan — koska se ei voi mennä töihin
+ja koska se ei lähde täältä Suomesta pois — toimeentulon väyliksi jää mahdollisesti toi-
+meentulotuki, harmaa talous tai sitten erilainen rikollinen toiminta. Ja kysymys on siis sa-
+doista, potentiaalisesti tuhansista ihmisistä.
+
+No nyt, mitä ehdottomasti pitäisi Suomessa tehdä, niin pitäisi vähintäänkin käynnistää
+jonkinnäköinen prosessi, jossa pohditaan, mitä näiden ihmisten kanssa tehdään: Kuka or-
+ganisoi, mitä maksaa, pitääkö kaikki tosiaan kierrättää oikeuslaitoksen kautta, vai onko
+meillä joitain lyhyempiäkin teitä? Vai annetaanko asian vain olla ja ihmetellään sitten, kun
+sivuvaikutukset ovat kaikille ilmeisiä? Minä toivoisin, että me mieluummin katsoisimme
+ajoissa eteenpäin ja ennakoisimme asioita kuin miettisimme niitä sitten, kun hoitamatta
+jääneestä asiasta vaikutukset ovat meillä käsillä ja me joudumme niitä haittoja selvittele-
+mään.
+
+16.23 Sirpa Paatero sd: Arvoisa herra puhemies! Lisätalousarvion yhteydessä varmaan
+sallitaan muutama sana yleisemmin taloudesta, ja tämän salikeskustelun yhteenvetona voi
+varmaan todeta, että ensi viikon keskustelusta tulee mielenkiintoinen, kun lähtökohta tässä
+suuressa kuvassa keinoista on niin erilainen.
+
+Sosialidemokraatteina emme yhä edelleenkään usko, että leikkaamalla palkkoja luom-
+me lisää työpaikkoja, vaan että valitettavasti lisäämme työttömyyttä siitä syystä, että kun
+ostovoima katoaa, se katoaa juuri niistä yrityksistä, jotka tuottavat palveluita, joita ihmisen
+on mahdollisuus käyttää silloin, kun hänellä on sitä rahaa. Jos palkkoja leikataan, niin kuin
+suunnitelma on, se kohdistuu juuri niihin työpaikkoihin, jotka niitä palveluita tuottavat.
+34
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Toinen periaatteellinen kysymys on se, saammeko me lisää tuottavuutta sillä, että leika-
+taan palkkoja. Tuleeko sillä parempaa työhyvinvointia, työssäjaksamista, uusia innovaati-
+oita, uusia tuotteistamisia, joilla oikeasti tähän mennessä sitä suomalaista tuottavuutta on
+saatu parannettua? Nyt ollaan siirrytty keinoon palkkojen leikkaus. Kun Suomi on aina kri-
+tisoinut kilpailun vääristämisestä milloin Kiinaa, Intiaa, Pakistania, Nepalia, Afrikkaa, niin
+nytkö se Suomen linja on sitten se sama?
+
+No, nämä ovat sosialidemokraattisia ajatuksia, mutta aika vaikuttunut olen siitä, jos ei
+hallitus kuuntele Etlaa, joka on heikentänyt talousennustettaan näiden hallituksen esittä-
+mien leikkausten vuoksi. Siitä syystä meidän talousennusteemme sekä loppuvuodelle että
+ensi vuodelle on heikompi kuin aikaisemmin, ei maailmantalouden vuoksi vaan hallituk-
+sen esittämien toimien vuoksi.
+
+Säästöjä pitää tehdä. Siitä ollaan varmaan samaa mieltä. Mutta kyllä olin myöskin aika
+hämmentynyt siitä, että se paikka, mistä varaa on säästää, on harmaan talouden ja talous-
+rikollisuuden tutkinta, lähes sata henkilötyövuotta vähemmän. Kun me tiedämme, että kun
+viime kaudella lisättiin voimavaroja harmaan talouden tutkintaan niin veropuolelle kuin
+poliisipuolelle, ne kertautuivat moninkertaisesti takaisin hyvänä valtiontalouteen, niin täl-
+tä puolelta nyt sitten on päätetty säästää. Olisin ehkä keksinyt joitain muunlaisia säästökoh-
+teita.
+
+Työllistämisrahat olivat, kuten tässä aikaisemmat puhujat totesivat, hyvin akuutti asia jo
+kesäkuussa. Silloin koko valtiovarainvaliokunta hallituspuolueet mukaan lukien totesi, että
+niitä olisi tarvittu jo kesällä ja että se summa olisi 90 miljoonaa. Nyt ollaan syyskuussa,
+elikkä myöhässä siitä aikataulusta, ja kolmasosassa siitä summasta, mihin tiedettiin olevan
+tarvetta. Sosialidemokraatit ainakin tulevat esittämään tähän lisätalousarvioon lisää niin
+työvoima- kuin yrityspalveluihin, elikkä starttirahaan sekä palkkatukeen, mutta myöskin
+ammatilliseen lisäkoulutukseen ja aikuiskoulutukseen siitä syystä, että kaikki nämä ihmi-
+set, jotka nyt ovat työttömänä, eivät enää työllisty niille samoille toimialoille vaan tarvit-
+sevat jotain uutta. Meillä ei ole mahdollisuutta siihen 90-luvun virheeseen, jolloinka mo-
+net ihmiset jäivät vuosikymmeniksi heikommalle työllistymisasteelle, kun heidät päästet-
+tiin niin sanotusti opintojen osalta mutta myöskin yleisen kunnon, työkyvyn osalta heikke-
+nevään tilanteeseen, ja siitä syystä on tärkeätä, että meillä yhä tulevaisuudessakin on mah-
+dollista palkkatuella niin yrityksissä kuin myöskin järjestöissä tätä ihmisten elämää viedä
+eteenpäin. Olin iltapäivällä myöskin tämmöisessä nuorten työpajojen tilaisuudessa, ja siel-
+läkin se todellisuus on aika raaka. Jos työllistymistukea ei ole, nuorten työpajat eivät voi
+työllistää tai sitten se menee pelkästään harjoittelupuolelle.
+
+Siitä olen iloinen ja tyytyväinen — mutta siitäkin varmaan jo valtiovarainministerin to-
+teamuksen jälkeen voi olla samaa mieltä, että seuraavalle lisätalousarviolle tulee olemaan
+tarvetta — että turvapaikanhakijoiden asioita selvitellään niin poliisin, Rajan kuin Maa-
+hanmuuttoviraston toimesta. Tämä on välttämätöntä, mutta samaan aikaan pitää myöskin
+huolehtia siitä, mitenkä nämä kuntakorvaukset riittävät siinä kohtaa, kun sijoituspaikat
+ovat olemassa, sillä kuntapoliitikot tietävät hyvin omista maakunnistaan ja kunnistaan,
+mikä se tilanne on siellä, kuinka paljon pystytään niihin nykyisiin resursseihin lisäämään
+päiväkoti-, koulutus- ynnä muihin paikkoihin näillä kuntakorvauksilla, jotka tällä hetkellä
+ovat olemassa. Se kolme vuotta on hyvä aika. Aikaa pitää ehkä miettiä, mutta ehkä enem-
+män vielä sitä tasoa. — Kiitoksia.
+35
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+16.29 Reijo Hongisto ps: Arvoisa herra puhemies! Valtio ymmärtää maatalouden merki-
+tyksen Suomelle ja suomalaisille. Me syömme maailman puhtainta, lisäaineetonta ruokaa,
+jota tuottavat suomalaiset viljelijät. Kysymys on kansalaistemme hyvinvoinnin ohella
+myös kriisiajan huoltovarmuudesta. Meidän on pidettävä mielessä, että maataloustuottaji-
+emme on kyettävä ruokkimaan kansakunta kaikissa olosuhteissa, myös silloin, jos ruuan
+tuonti ulkomailta jostain syystä on estynyt.
+
+EU:n talouspakotteiden takia suomalaisten viljelijöiden tuotteita ei enää viedä riittävästi
+Venäjälle. Tästä lankeaa satojen miljoonien eurojen lasku viljelijöille. EU kompensoi me-
+netettyjä vientituloja, mutta vain murto-osalla aiheuttamistaan menoista. Tätä on vaikea
+ymmärtää, saatikka hyväksyä. Lisäkustannuksia tulee heikosta ja vetisestä kesästä. Pellot
+lainehtivat vettä monin paikoin, ja kasvukausi jäi lyhyeksi ja sato pieneksi. Viljalaarit ei-
+vät täyty tavalliseen tapaan. Viljelijän tuntiansio on vain murto-osa teollisuuden ansioista,
+eikä viljelijöillä ole lomaltapaluurahoja eikä pekkasvapaita.
+
+Hallitus tunnistaa viljelijöiden tuskan ja kantaa huolta heidän jaksamisestaan ja selviy-
+tymisestään ja haluaa kompensoida viljelijöiden kohtaamia talousvaikeuksia, jotta mah-
+dollisimman moni viljelijä jaksaisi jatkaa toimintaansa ja selviäisi lainojen ja laskujen
+maksuista säädetyssä ajassa. Valitettavasti nykyisessä erittäin kireässä taloustilanteessa
+meillä ei ole varaa kohdentaa maatalouden tukemiseen enempää kuin 20 miljoonaa euroa.
+Se ei riitä kattamaan menetyksiä mutta on selkeä osoitus ja signaali siitä, että hallitus tun-
+tee vastuunsa ja kantaa huolta myös suomalaisesta viljelijästä ja antaa näin uskoa myös tu-
+leviin kasvukausiin. — Kiitoksia.
+
+16.31 Maria Tolppanen ps: Arvoisa herra puhemies! Tämänhetkinen työllistämismäärä-
+rahojen puute ei ole tämän hallituksen syy. Tämä puute on rakennettu aikaisempina vuosi-
+na ja aikaisempien hallitusten toimesta.
+
+Yksi erittäin huono asia, mikä pääsi tapahtumaan viime vuodenvaihteessa, oli se, kun
+muutimme palkkatukilainsäädäntöä. Siitä ikään kuin puolihuolimattomasti jäi tuommoi-
+nen ylimenoajan lainsäädäntö tekemättä, mistä seurasi se, että nyt TEM ohjeistaa työvoi-
+matoimistoja siten, että henkilön täytyy olla 300 päivää työmarkkinatuella tai perustoi-
+meentulotuella ennen kuin hänen työllistämiseensä voidaan antaa palkkatukea.
+
+Tästä seurasi se, että oli ihmisiä, jotka olivat 500 päivää olleet työttömänä, ja siihen pääl-
+le tuli 300 päivää, eli 800 päivää työttömänä ja mahdollisimman pienellä rahalla ennen
+kuin voidaan työllistää. Tämä ei ollut lain tarkoitus. Laissa ei lue kertaakaan sitä, että täy-
+tyisi olla 300 päivää työttömänä tai että täytyisi olla yhtään päivää työttömänä. Näin mi-
+nulle vastasi tästä asiasta myös silloinen työministeri Lauri Ihalainen.
+
+Mutta jostakin syystä lain henki ei yltänyt työministeriöön saakka, vaan työministeriö
+linjasi asian toisin. Samanaikaisesti täällä eduskunnassa korvamerkittiin työllistämismää-
+rärahoja ja ne korvamerkittiin nuorisotakuuseen ja pitkäaikaistyöttömille. Tästä seurasi
+sellainen asia, että kun nuorisotakuun piirissä oli niin paljon nuoria, niin kuin tiedämme —
+nyt en muista juuri tarkkaa lukua — mutta kun niillä paikkakunnilla ei ollut koulutusta eikä
+ollut työpaikkoja, niin rahat jäivät käyttämättä, koska ne oli korvamerkitty. Meillä on ole-
+massa tilanne tässä maassa, että me panemme rahat ikään kuin jemmaan ja niitä ei voida
+käyttää mihinkään muuhun, jollei niitä saada käytettyä siihen, mihin ne juuri on tarkoitet-
+tu. Elikkä ei saatu hoidettua tätä palkkatukiasiaa.
+
+Tällä hetkellä taas meille on tulossa jo toisenlainen ongelma, mitä tässä lisäbudjetissa ei
+ole otettu huomioon, ja toivon todellakin, että se otetaan seuraavassa lisäbudjetissa huo-
+36
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+mioon. Tapaus Tornio on nyt esillä. Meille on tullut 14 000 työtöntä lisää tähän maahan.
+Yhdelläkään ihmisellä, joka on kävellyt Tornion yli, ei ole työpaikkaa täällä. Heidän täy-
+tyy saada toimeentulo täältä, mikäli he saavat maahan jäädä. Meidän pitää pystyä elättä-
+mään heidät, ja korostan: Kahdessa viikossa on tullut 14 000. Vuoden loppuun mennessä
+tällä laskukaavalla heitä on maassa 112 000.
+
+Tämä on tämän päivän kriisi. Tämä on tämän päivän ongelma. Kun nämä ihmiset tule-
+vat, tarvitaan koulutuspaikkoja lapsille, tarvitaan asuntoja ihmisille, tarvitaan koteihin sän-
+kyjä, pöytiä, tuoleja, astioita, tarvitaan ruokaa, tarvitaan vaatteita. Me olemme syvällä
+suossa ennen kuin tämä vuosi on lopussa.
+
+Tämän salin on herättävä toimimaan nyt. Vaikka me panisimme rajat kiinni — sitä en
+tässä sano, että sinne pitää mennä ja panna rajat kiinni — niin täällä on jo 14 000, ja nämä
+ihmiset on hoidettava. Sinne on löydyttävä rahaa. Me voimme nyt itkeä sitä, että vain 30
+miljoonaa tulee työllistämiseen rahaa. Se ei tule riittämään yhtään mihinkään. Ja ennen
+kuin me pystymme käyttämään niitä rahoja, mitä nyt on budjetissa ja mitä tulee uudessa
+budjetissa olemaan, niin en haluaisi olla ennustajaeukko, mutta pahoin pelkään, että se
+budjetti tulee moneen kertaan häränpyllyä heittämään sen takia, että meillä on hallitsemat-
+tomia kuluja. Me emme voi jättää ihmisiä ruuatta, lämmöttä, puhtaudetta ja lääkkeettä sil-
+loin, kun he niitä tarvitsevat. Tämä on iso ongelma, ja tämä on ongelma, joka kuuluu tähän
+maahan.
+
+Tässä puhuttiin hetki aikaisemmin paperittomista ihmisistä ja sanottiin, että Suomen pe-
+rustuslaki määrittää näin, ja niin määrittääkin: Suomen perustuslaissa ei puhuta Suomen
+kansalaisista, siellä puhutaan ihmisistä, ja kaikki maahantulijat ovat ihmisiä, ja silloin he
+ovat oikeutettuja tähän.
+
+Suomen perustuslaki on säädetty tässä salissa. Kaikki sen muutokset ja vivahteet on sää-
+detty tässä salissa. Tällä salilla on vastuu, vastuu huolehtia ihmisistä, joita tänne tulee, joil-
+le aukaisemme ovemme, mutta tällä salilla on myös vastuu huolehtia niistä ihmisistä, jotka
+jo ovat maassa, jotka asuvat täällä, olipa heidän kansalaisuutensa mikä tahansa. Me emme
+voi sysätä toista puolta pois ja ottaa vain toista puolta esille. Meidän vastuullamme on
+myös koko Suomen kansa.
+
+16.37 Eeva-Maria Maijala kesk: Arvoisa puhemies! Suomen valtion rahat ovat vähissä.
+Kyllähän me varmasti haluaisimme antaa rahaa joka paikkaan, mutta nyt on pakko katsoa,
+mitkä ovat kaikkein tärkeimpiä ja välttämättömimpiä kohteita.
+
+Ensimmäinen asia tosiaan, työllistäminen. Me tarvitsisimme siihen todella paljon lisää
+rahaa, sitä ei kukaan meistä kiellä. Mutta nytten, kun tilanne on se, että sitä rahaa ei kerta
+kaikkiaan ole ja velaksi eläminen on pakko saada loppumaan, niin kunnat joutuvat uusien
+säännösten mukaan maksamaan nämä työttömyyskulut sen jälkeen, kun henkilö on ollut
+300 päivää työttömänä. Tämä on monelle kunnalle todella iso, miljoonien eurojen lisälas-
+ku, ja kunnat ovat tällä hetkellä muutenkin todella kovissa maksuvaikeuksissa. Kunnissa
+on pohdittu tätä asiaa, miten tilannetta pystyisi korjaamaan. Aikaisemminhan tätä on pys-
+tytty korjaamaan sillä, että on käytetty työllistämispakettia, mutta nyt kun valtiolla ei ole
+enää antaa rahaa tähän työllistämiseen, niin mitä on tehtävä?
+
+Kemijärveltä tehtiin minulle esitys, jota minun mielestäni kannattaa todella viedä eteen-
+päin. Elikkä esitys meni sillä tavalla, että kunnille annettaisiin uudenlainen toimintapaket-
+ti. Voisihan se vaikka olla siellä Kemijärvellä pilottina, voisi ensin kokeilla, miten se läh-
+tee toimimaan. Elikkä kunnille annettaisiin helpotettuja malleja työllistää ja käyttää siten
+37
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+nämä rahat itse, ettei niitä tarvitsisi maksaa sakkomaksuina valtiolle. Ja se, mitä tämä tar-
+koittaisi käytännössä, olisi se, että esimerkiksi jos kunnissa lomautetaan, niin se lomautus
+ei olisi kuitenkaan este työllistää tämmöisiä vaikeasti työllistettäviä henkilöitä kuntaan.
+Sitten voisi olla myös jotenkin tuottavaa työtä, elikkä sitä tuottamispuolta ei pidettäisi
+säännösten vastaisena.
+
+Kolmantena asiana voisi olla esimerkiksi se, että kunta voisi antaa tämän rahan, mikä
+nyt menee valtiolle, jollekin yritykselle, että yritys työllistää, mutta kuitenkin sillä tavalla,
+että tätä ei koettaisi kielletyksi yritysten tukemiseksi. Mitä nämä menetelmät ja kuviot ovat
+— meidän tosissaan olisi hyvä aloittaa nyt keskustelu, miten kunta voisi käyttää nämä ra-
+hat toisella tavalla. Meidän on pakko alkaa miettimään, miten me autamme kuntia hoita-
+maan tätä työllistämisvelvollisuuttansa.
+
+Sitten toinen asia, mikä tässä lisätalousarviossa nyt oli hyvin esillä, on maatalous. Maa-
+talous on todella vaikeassa taloustilanteessa monestakin eri syystä, niin kuin tänään on tul-
+lut jo hyvin esille näitä asioita. Seuraavassa puheenvuorossa varmasti tulee vieläkin parem-
+min, kun keskustan maatalouspuolen yksi eksperteistä kertoo asiasta.
+
+Sen verran kuitenkin, että kun hyvin monet maatilat ovat maksuvaikeuksissa, esimerkik-
+si meidän oma maatilamme tuolla Lapissa, niin meidän maatilamme tulot ovat puolittu-
+neet. Meidän tilallamme se tarkoittaa, että esimerkiksi olen ilmoittanut verotoimistoon,
+että meidän tilaltamme ei enää pystytä maksamaan veroennakoita, koska verotettavaa tu-
+loa ei todellakaan enää tule kunnolla. Ja ilman minun tulojani ei sitä meidän maatilaamme
+pyöritettäisi tänä vuonna. Hyvin harvalla maatilalla on sama mahdollisuus kuin meillä, että
+rahat hommataan muualta. Minä olen itse tyytyväinen, mutta maanviljelijöitten tilanne on
+todella vaikea.
+
+Tässä lisätalousarviossa nytten tuettiin, mutta kosmeettinen asiahan tuo on, tuo 20 mil-
+joonaa euroa. Sitä olisi todellisuudessa tarvittu paljon paljon enemmän, mutta kun ei kerta
+kaikkiaan ole, mitä pystyy antamaan tässä tilanteessa. 
+
+Nyt sitten, kun mietimme tätä maatalouden maksuvaikeustilannetta, meidän on löydet-
+tävä siihenkin uusia menetelmiä, miten me pystymme auttamaan tätä meille erittäin tär-
+keää elinkeinoa.
+
+Ensimmäinen asia on se, että meidän pitää todella aukaista ja pohtia vielä sitä, voisim-
+meko me maksaa tukia jo tänä vuonna hyvissä ajoin. Nythän alkoi uusi ohjelmakausi maa-
+talouspuolella, ja sehän on johtanut meidät siihen tilanteeseen, että hyvin monet tuet mak-
+setaan vasta ensi vuonna. Olen verrannut tätä asiaa siihen, että joittenkin tilojen osalta ti-
+lanne on se, että puolet joistakin tuloista maksetaankin, päätetään maksaa, vasta seuraava-
+na vuonna. Kuinka moni palkansaaja hyväksyisi sen, että työnantaja sanoo, että maksam-
+mekin vasta ensi vuonna sinun palkastasi puolet ja taas ensi vuoden tuloista seuraavana
+vuonna puolet? Tämä on todella vaikea tilanne.
+
+Toinen asia maatalouspuolella, mitä tässä tulee mieleen, on se, että jos rahoittajat sitten
+antaisivat ymmärrystä ja lainojen maksujen siirtoa enemmän näille tiloille, kun monilla ti-
+loilla pelkästään korkojen maksukin teettää tuskaa.
+
+Kolmantena asiana tästä lisätalousarviosta otan esille tämän turvapaikanhakija-asian.
+Onko tämä siirtolaisuutta, pakolaisuutta, kansainvaellusta, mitä tämä sitten oikeastaan on-
+kaan, (Teuvo Hakkarainen: Turvapaikkaturismia!) mutta kun se maksaa 40 euroa per päi-
+vä jokaisen osalta Suomen valtiolle, meidän on tehtävä jotakin tämän rahoitustilanteen
+korjaamiseksi. Meidän on kehiteltävä niin, että osoitettaisiin lisää tukea siihen, että voim-
+me valmistella, miten turvapaikanhakijat saataisiin mahdollisimman pikaisesti mukaan
+38
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+suomalaiseen työelämään, ettei heistä olisi pelkästään kuluja, vaan että he voisivat olla
+edes nollatilanteella meidän yhteiskunnassamme mukana aluksi. Meidän pitää muistaa se,
+että tällä hetkellä Suomeen tulevista hakijoista suurin osa on hyvin koulutettua, työikäistä,
+hyvässä kunnossa olevaa, osaavaa väestöä. (Teuvo Hakkarainen: Lukutaidottomia!) Heil-
+lä on ehkä kielitaitoa, ja monia ongelmia on, mutta kun he olisivat todellakin käytettävissä
+työelämään matkaan, niin millä tavalla me saisimme heidät mahdollisimman nopeasti työ-
+elämään matkaan?
+
+Tämän hetken lainsäädäntö sanoo, että vasta kolme kuukautta siitä, kun he ovat jättä-
+neet turvapaikkahakemuksen, he voivat hakea työpaikkaa. Mutta meidän pitäisi rakentaa
+näitten turvapaikanhakijoitten oma työttömyys- tai työpaketti. Turvapaikanhakijoiden työ-
+paketti — tämä on asia, mikä meillä pitää panna hyvin pikaisesti liikkeelle. Tämä tarkoit-
+taa sitä, että meidän on tehtävä lainsäädäntömuutos, mutta sen takiahan me tässä talossa
+nyt olemme. Voisin verrata, että se, mitä tämä käytännössä tarkoittaa, on se, että meillä on
+esimerkiksi vajaakuntoisten työllistäminen. Mehän työllistämme sillä tavalla hyvin paljon
+ihmisiä. He ovat alipalkattuja muuhun työllistämiseen nähden, mutta ehdottomasti me voi-
+simme sen tehdä. Meidän täytyy ymmärtää se, että nämä ihmiset on saatava työhön. Toi-
+nen verrattava asia on muun muassa opiskelijat. Opiskelijathan tekevät tällä hetkellä ilmai-
+seksi, lähes ilmaiseksi, harjoittelutyötä. Eli se on heille pakollista, mutta minkälainen mah-
+dollisuus on se, että nämä turvapaikanhakijat nimettäisiin harjoittelemaan eri työpaikkoi-
+hin? Hehän ovat suomalaisen elämän opiskelijoita, harjoittelijoiksi sen takia. Moni sitten
+näistä turvapaikanhakijoista voitaisiin nimetä oppipojaksi koulutustaan vastaavaan työ-
+paikkaan. Tämä työllistäminen on yksi lääke, että he olisivat mahdollisimman paljon pi-
+kaisesti mukana meidän työelämässä.
+
+Meillä ei ole varaa tähän kokonaisuuteen, muuten kuin että meidän on tehtävä joitakin
+muutoksia ja nämä henkilöt otettava mukaan työelämään. Mutta se meidän pitää koko ajan
+kuitenkin muistaa, että tämä ei saa vaikeuttaa meidän jo nyt erittäin vaikeaa työllistämisti-
+lannetta. Meillä on parikymmentä prosenttia monin paikoin ihmisistä työttömänä, mutta
+tämä vaikeuttaa entisestään meidän tilannettamme. Elikkä me tarvitsemme tämän työryh-
+män työstämään tätä asiaa ja lakimuutoksia tälle asialle hyvin pikaisesti.
+
+16.46 Eerikki Viljanen kesk: Arvoisa puhemies! Meillä on nyt käsittelyssä tarkoin koh-
+distettu kolmas lisätalousarvio — lisätalousarvio, jolla vain tietyiltä osin täydennetään var-
+sinaista talousarviota. Tämä on myös syy ja vastaus siihen, miksi tässä yhteydessä ei ole
+korjattu kaikkia niitä ongelmakohtia, jotka ovat täällä keskustelussa illan mittaan nousseet
+esille. Talouden vastuullinen hoito, työllisyysmäärärahat, pakolaisuuden aiheuttamat lisä-
+kustannukset sekä maatalouden romahtanut kannattavuus ovat kaikki aiheita, joista mei-
+dän kaikkien tulee olla huolissaan ja joihin tällä lisätalousarviolla on nyt osaltaan lisäre-
+sursseja jonkin verran kohdistettu. Tarkastelen näistä asioista erityisesti nyt kahta kokonai-
+suutta.
+
+Ensiksi pidän hyvänä, että tässäkin lisätalousarviossa on reagoitu maahamme kohdistu-
+van pakolaisuuden aiheuttamiin lisäkustannuksiin ja sen vaatimiin lisäresursseihin. Koska
+saapuvien pakolaisten määrää on ollut erittäin vaikeaa ennustaa ja lisäresurssien myöntä-
+minen tuntuu laahaavan koko ajan perässä, niin nämäkään resurssit tuskin tulevat riittä-
+mään koko loppuvuodeksi, kuten täällä on jo useassa puheenvuorossa todettu. Mutta no-
+peasti muuttuvan tilanteen budjetointivaikeus on kuitenkin pakolaistilanteen pienimpiä on-
+gelmia. Uskon ja toivon, että valtio tulee osoittamaan tarvittavat resurssit tilanteen haltuun
+39
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+ottamiseen, on ne sitten budjetoitu tai ei. Akuutti pakolaistilanne pitää hoitaa, ja valtion on
+kannettava vastuunsa siitä. Tähän vastuuseen kuuluu myös se, että valtio lunastaa kunnille
+antamansa lupauksen, että pakolaisista välttämättä koituvat kustannukset eivät kaadu nii-
+den kuntien kontolle, jotka ovat eturintamassa pakolaisia vastaanottamassa; joihin on vas-
+taanottokeskuksia tai hätämajoitusta järjestetty tai joihin pakolaiset ovat omatoimisesti ha-
+keutuneet. Valtion pitää kantaa pakolaisuudesta koituva taloudellinen taakka, se ei saa kaa-
+tua kuntien niskaan. Tämä on myös edellytys sille, että ilmapiiri asian ympärillä säilyy vas-
+taanottajien ja vastaanotettavien kannalta kestävänä.
+
+Toinen asia, johon haluan kiinnittää huomiota, on maatalouden kannattavuuskriisi ja sii-
+hen reagoiminen 20 miljoonan euron lisämäärärahalla. Valtiovarainministeri Stubb viitta-
+si täällä aiemmin, että pelkästään poliittisen kriisin, Venäjän vastapakotteiden, aiheuttama
+lisälasku elintarvikeketjulle on pelkän maitosektorin osalta yli 200 miljoonaa euroa. Mi-
+nisterin huomio on oikea, mutta hän jätti painottamatta, että lisälasku jatkaa kasvamistaan
+kiihtyvällä tahdilla. Edellisen hallituksen leikkaamat tuet, alhaiset markkinahinnat, edel-
+leen kohoavat tuotantohinnat, viipyvät tuet yhdessä poikkeuksellisten sääolosuhteitten
+kanssa ovat vyyhti ja yhteys, jota suomalainen maatalous ei enää kauan kestä. Suomen
+maatalous on nyt EU-aikansa pahimmassa kriisissä. Tilanne on suoraan sanottuna kestä-
+mätön kaikissa tuotantosuunnissa.
+
+Tässä lisätalousarviossa kannattavuuskriisin helpottamiseksi myönnetty 20 miljoonaa
+yhdessä EU:lta tulevan 9 miljoonan kriisituen kanssa ei summana ole tilanteen vakavuu-
+teen nähden suuri, mutta oikein kohdistettuna siitä on suurimmissa kannattavuusongelmis-
+sa oleville tiloille apua. Toivoin ja teimme töitä sen eteen, että kriisipaketti olisi ollut esi-
+tetty 50 miljoonaa euroa, mutta tässä erittäin tiukassa taloudellisessa tilanteessa enempää ei
+yksinkertaisesti ollut saatavissa. Nyt meidän onkin keskityttävä summien pienuuden voi-
+vottelun sijasta siihen, että rahat saadaan nopeasti liikkeelle ja kohdistetaan niitä eniten tar-
+vitseville.
+
+Meidän pitää myös jatkaa työtä muidenkin keinojen etsimiseksi tämän taloustilanteen
+aiheuttamien ongelmien lievittämiseksi. Yksi näistä ratkaisuista olisi äsken edustaja Mai-
+jalan esille nostama tukimaksatusten ennakkojen prosenttimäärän nostaminen siitä, mitä
+edellinen hallitus niiden osalta päätti. Ennakoiden nostaminen mahdollisimman korkealle
+ja se, että tuet saataisiin esimerkiksi suorien tukien osalta viimeistään marraskuun puoles-
+savälissä maksuun, lievittäisivät tiloilla olevaa kassakriisiä oleellisesti. Tiloilla on nyt
+alueeseen tai tuotantosuuntaan katsomatta kassakriisi, laskut rästissä ja palkkaa omalle
+työlle ei ole voitu nostaa pitkään aikaan. Tilanne on nyt kriittinen, ja me tarvitsemme pi-
+kaisesti muitakin positiivisia uutisia kuin nämä kriisituet, jotta tiloilla ei päädytä epätoivoi-
+siin ratkaisuihin.
+
+Tulevaisuuden kannalta on ongelmallista se, että suurimmissa vaikeuksissa ovat nyt ne,
+jotka ovat eniten investoineet ja rakentaneet tulevaisuuttaan maatalouden varaan. Jos nuo-
+rilta loppuu tulevaisuudenusko, jos nuorilta viedään toimintaedellytykset, alalle ei ole lu-
+vassa ruusuista tulevaisuutta. Toivonkin, että kriisituet kohdistetaan investointeihin ja nuo-
+rille viljelijöille.
+
+16.53 Teuvo Hakkarainen ps: Arvoisa puhemies! Täällä on tänään käytetty lukuisia pu-
+heenvuoroja opposition puolelta kaikista niistä asioista, jotka heidän mielestään ovat pie-
+lessä hallituksessa ja nyt käsiteltävänä olevassa kolmannessa lisätalousarviossa.
+40
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Hallitus on kuitenkin vasta alussa siinä työssä, joka on edessä, jotta voisimme korjata
+aiemmin tehtyjä virheitä. Kun helmikuussa keskustelimme täällä vuoden ensimmäisestä li-
+sätalousarviosta, totesin muun muassa näin: "Suomi on tällä hetkellä ajautumassa ja on jo
+ennennäkemättömässä lamassa, ja sen kurssin kääntämiseksi tähän maahan tarvitaan in-
+vestointeja, niin ulkomailta kuin kotimaasta. Ja Suomessa on merkittävät malmivarat.
+Sama on biotaloudessa, muun muassa metsissä ja soilla. Mutta meillä on esteeksi muodos-
+tunut tämmöinen niin sanottu viherhumppa." Se maksaa miljardeja vuodessa, ja siitä ei ole
+kellekään mitään hyötyä.
+
+Minä siteeraan tässä vähän itseäni viime vuodelta: Jos kalliolta löytyy viitasammakko,
+niin siihen kallioon ei muuten pora mene, ei minkäänlainen. Siitä tulee jonkinlainen py-
+hiinvaelluspaikka tutkijoille. Ja näitä samoja sammakoita loikkii tuolla tiellä: esimerkiksi
+nyt kun tulin Helsinkiin, niin koko ajan sai väistellä, jos ei nyt yli ajanut. Ja ei niistä teistä
+pyhiinvaelluspaikkoja tehdä sitten kuitenkaan.
+
+Sitten suot ovat myös suuri luonnonvara, mutta niistä on tullut samanlainen pyhiinvael-
+luspaikka, ja todennäköisesti nämä, jotka harrastavat tätä viherhumppaa, eivät käy katso-
+massakaan, minkälaisia paikkoja ne ovat. Ja sama metsissä: ne on suojeltu vaikka minkä-
+laisilla Natura-pykälillä. Milloin me annamme semmoisen signaalin teollisuudelle, elin-
+keinoelämälle ja sijoittajille, että tähän maahan kannattaa investoida näihin kyseisiin asioi-
+hin, mihin viittasin?
+
+Tämä viherhumppa maksaa miljardeja, niin kuin äsken totesin: ilmastosopimukset, rik-
+kidirektiivit ja monet monet muut meitä kurjistavat pykälät. Esimerkiksi Suomen päästöt
+ovat 0,1 prosenttia koko maailman päästöistä. Sillä määrällä me saamme hypätä vaikka
+minkälaista tasajalkaa ja kuinka korkealle tahansa, niillä 0,1 prosentin päästöillä, ja tämän
+maapallon tilanne ei muutu, mutta itsemme saamme kyllä kurjistettua, se on tulos siitä.
+
+Arvoisa puhemies! Meillä ei kerta kaikkiaan ole enää varaa hassata rahaa mihinkään
+tuottamattomaan toimintaan. Vuosikymmenten kuluessa meille on paisutettu julkinen sek-
+tori, joka vastannee kooltaan 20-miljoonaisen kansan tarpeita. Meitä on kuitenkin vain
+noin 5 miljoonaa, vähän reilu. Siksi onkin erinomaista, että hallitusohjelmaan on kirjattu
+viiden vuoden suoja-ajan poistaminen kuntaliitosten yhteydessä. Tätä epäreilua ja kallista
+Kreikka-tyyppistä järjestelyä ei olisi koskaan pitänyt luodakaan.
+
+Olen useaan otteeseen puhunut eduskunnassa Viron yritysveromallin puolesta. Edel-
+leen toivon, että se otettaisiin edes kokeiluun vaikkapa tietyksi määräajaksi tietyillä alueil-
+la. Näitä voisivat olla äkillisen rakennemuutoksen alueet. Uskon, että Viron veromallin
+myötä alkaisi tulla investointeja ja sitä kautta talouden rattaat lähtisivät pyörimään.
+
+Kaikki ymmärrämme, että maamme talouden saaminen kuntoon on tärkeintä. Siksi sitä
+yrittäjyyttä nimenomaan tulee tukea.
+
+Arvoisa puhemies! Vuosikymmenten kuluessa meille on paisutettu valtaisa byrokra-ti-
+aviidakko, jota nykyhallitus alkaa purkaa. Ja hyvä niin, sillä suomalainen säännöstöko-
+koelma on niin mammuttimainen, että sen ääressä on syytä pitää hartaushetki, jos ihmette-
+lee, miksi yritykset karkaavat muille maille. Suomalainen yritysinvestoija on saanut vasta
+ensimmäiset lupapropuskansa, kun samaan aikaan investointipäätökset tehnyt saksalainen
+tehtailija, puhumattakaan venäläisestä, sanoo jo ensimmäiset ongelmat irti. Nämä ylimää-
+räiset hallinnolliset kustannukset maksavat suomalaisille yrityksille 3—4 miljardia euroa
+vuositasolla. Jos nämä turhanpäiväiset, kontrolloivat byrokratiakulut edes puolitettaisiin,
+niin kilpailukustannuskykymme paranisi huomattavasti ilman palkanalennuksia.
+
+Taitaa aika loppua. — Kiitos.
+41
+
+
+
+Pöytäkirjan asiakohta PTK 38/2015 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja voi halutessaan jatkaa.
+
+No, jatketaan. — Hankalan ja kalliin ja hitaan pykäläviidakon tuloksena on syntynyt il-
+miö, jota kutsutaan kultaamiseksi. Kansallisen byrokratian saatua tehtäväkseen valmistel-
+la EU-direktiivin mukaista kallista lakia se ei suinkaan yritä lieventää sitä kansalaisten ja
+kansallisten intressien mukaan, päinvastoin, se lisää rajoitteita ja pakotteita omasta pääs-
+tään. Näistä vanhoista toimintamalleista on kerta kaikkiaan päästävä eroon, sillä ne tukah-
+duttavat yritykset ja yrittämisen innon. — Kiitos, nyt lopetan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Kiitoksia. — Tässä voi todeta, että tä-
+hän lisätalousarvion keskusteluun ei liittynyt puhemiesneuvoston puolelta tätä 5 minuutin
+rajoitetta, ja siitä syystä sallin sen, että edustaja Hakkarainen saattoi jatkaa.
+
+Keskustelu päättyi.
+
+Asia lähetettiin valtiovarainvaliokuntaan.
+42
+
+

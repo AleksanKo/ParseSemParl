@@ -1,0 +1,780 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM38E.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 114/2017 vp
+
+Täysistunto
+
+Keskiviikko 8.11.2017 klo 14.00—21.54
+
+12. Hallituksen esitys eduskunnalle laiksi yleisestä asumistuesta annetun lain muuttamises-
+ta
+
+Hallituksen esitys HE 161/2017 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 12. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään ympäristöva-
+liokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+
+Keskustelu
+
+20.59 Perhe- ja peruspalveluministeri Annika Saarikko (esittelypuheenvuoro): Arvoi-
+sa puhemies! Käsittelemme nyt lakia yleisestä asumistuesta. Tämä on avoimesti todeten
+haastava kokonaisuus, jonka taustoja haluan teille nyt hieman avata.
+
+Hallituksen alaisena istui viime talven taitteessa kannustinloukkuja ja niiden purkamis-
+ta pohtinut ryhmä, joka jatkoi pohdintaansa myös hallituksen puoliväliriihtä varten. Osana
+työnteon kannustavuuden vahvistamista ja asumistuessa vuokrien nousun hillitsemistä ta-
+vallaan yhdistävää ratkaisua hallitus teki kevään riihessä päätöksen ottaa käyttöön kunta-
+ryhmittäisen neliövuokrakohtaisen katon. Lisäksi tuossa yhteydessä hallitus päätti, että
+yleisen asumistuen enimmäisasumismenot sidotaan vuokraindeksin sijasta elinkustannus-
+indeksiin.
+
+Kun sitten kesällä, niin kuin aina poliittisista päätöksistä pitää viranhaltijoiden ja virka-
+miesten tehdä konkretiaa ja lainsäädäntöä, tuota päätöstä neliövuokraleikkurista ruvettiin
+käytännössä valmistelemaan, huomattiin, että se olisi monimutkaistanut huomattavasti ny-
+kyistä asumistukijärjestelmää ja heikentänyt huomattavasti pieniin asuntoihin maksetta-
+vaa asumistukea. Siksi hallitus syksyn budjettiriihessä päätti toteuttaa muutoksia asumis-
+tukeen, mutta luopui suunnitellusta neliövuokraleikkurista keinona tähän. Sen sijasta hal-
+litus päätti palauttaa asumistukeen niin sanotun osa-asunnon enimmäisasumismenon, joka
+oli käytössä ennen vuoden 2015 asumistuen kokonaisuudistusta. Kyseessä ei ole uusi asia,
+vaan osa parin vuoden takaista järjestelmää, joka palautetaan.
+
+Osa-asunnolla tarkoitetaan itsenäisestä asunnosta vuokrattua osaa. Osa-asunnon enim-
+mäisasumismenoa sovellettaisiin myös alle 20 neliön asuntoihin, koska rakentamismää-
+räysten perusteella asunnon vähimmäiskoko on 20 neliötä. Kuitenkin tiedämme, että eri-
+tyisesti pääkaupunkiseudulla tätäkin pienempiä on olemassa. Osa-asunnon enimmäisasu-
+mismeno olisi 80 prosenttia nykyisistä enimmäisasumismenoista. Osa-asunnon enimmäis-
+asumismenon lisäksi yleisen asumistuen enimmäisasumismenot säilytetään vuoden 18 ai-
+kana tämän vuoden tasolla sekä mainitulla tavalla pidettiin kiinni päätöksestä sitoa enim-
+mäisasumismenot elinkustannusindeksiin, mutta vasta vuodesta 2019 lukien. Näin saatiin
+ Tarkistettu
+4.3
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+jotakuinkin kokonaisuudessaan kasaan se säästö, josta hallitus asumistukien kasvun taltut-
+tamiseksi puoliväliriihessä päätti. Tämän nyt käsittelyssä olevan esityksen tavoitteena on
+siis hillitä asumistukimenojen kasvua ja erityisesti hyvin pienten asuntojen kohtuuttomia
+vuokrapyyntöjä.
+
+Tällä esityksellä on siis valtiontalouden menoja pienentävä vaikutus, mutta tietenkin
+ikävimmät vaikutukset kohdistuvat tuensaajiin. On arvioitu, että osa-asunnon normi alen-
+taa 12 000 asumistuen saajan tukitasoa keskimäärin 30 euroa kuukaudessa. Jos katsotaan
+erityisesti opiskelijoita, niin heidän osaltaan osa-asunnon enimmäisasumismenon keski-
+määräinen vaikutus yhden hengen opiskelijaruokakuntien tuen tasoon on kuntaryhmästä
+riippuen 13—24 euroa kuussa. Suurimmat vaikutukset olisivat Helsingissä ja muissa isois-
+sa kaupungeissa yksin asuville asumistuen tasossa.
+
+Arvoisat kollegat, tämän aiheen ympärillä on käyty ymmärrettävästi ja aika odotetusti-
+kin kiivastakin julkista keskustelua. Olemme tunnistaneet voimakkaan edunvalvonnan,
+jonka opiskelijajärjestöt tähän erityisesti ovat kohdistaneet. Siihen liittyen haluankin tä-
+män keskustelun taustaksi todeta, että osa-asunnon normi vaikuttaa asumistuen tasoon vain
+silloin, kun asumismenot ylittävät tuon osa-asunnon normin mukaisen enimmäisasumis-
+menon, ei siis aina. Asumistuen taso ei muutu, jos vuokra on alle ehdotetun osa-asunnon
+enimmäisasumismenon — rohkenisin sanoa, että kun vuokra on jotakuinkin kohtuullinen.
+Tuen pieneneminen on aina tuensaajalle menetys, enkä sitä täällä yritä muuksi puhua. Mut-
+ta on silti hyvä muistaa, että osa-asunnon enimmäisasumismenon käyttöönoton jälkeenkin
+osa-asuntoon maksettava asumistuen enimmäismäärä on nyt kun opiskelijat ovat uudessa
+järjestelmässä suurempi kuin opintotuen asumislisän enimmäismäärä aikanaan oli. Tuntuu
+vain, että joskus historian muisti on meillä kaikilla kovin lyhyt.
+
+Arvoisa puhemies! Vielä viimeisenä saatteena tähän lähetekeskusteluun haluan sanoa,
+että on tärkeää seurata muutosten vaikutuksia asumistuen saajien toimeentuloon, ja tähän
+hallitus on sitoutunut. On myös kohtuullista arvioida kokonaisvaikutuksia päätöksistä eri
+väestöryhmiin. Meillä on selkeä kokonaistarve asumistuen isolle kehittämistyölle. Lisäksi
+on hyvä aina muistaa, että erityisesti pienituloisten asumisen turvaamiseksi tukijärjestel-
+mää ja asuntopolitiikkaa tulisi tarkastella ja kehittää kokonaisuutena. Tämäkin äskeinen
+huomioon ottaen pääministeri Juha Sipilän hallitus on asettanut kokonaisen hankkeen val-
+mistelemaan tiekarttaa perusturvan ja toimeliaisuuden kokonaisuudistukseksi. Asumistuki
+on osa tuota työtä. Siinä selvitetään kustannus-, työllisyys-, tulonjako- sekä muut vaikutuk-
+set, jos asumisen tukeminen irrotetaan toimeentulotuesta ja toteutettaisiinkin yksinomaan
+asumisen tukien kautta. Eri vaihtoehtoja käsittelevä valmistelutyö koordinoidaan yhteen
+Juho Saaren eriarvoisuustyöryhmän kanssa.
+
+Lisäksi toinen opiskelijoita puhututtanut teema, ruokakuntakäsite: STM selvittää yhteis-
+työssä Kansaneläkelaitoksen kanssa yleisen asumistuen ruokakuntakäsitettä ja sen uudis-
+tamista niin, että kimppakämppäläisten asuminen helpottuisi.
+
+21.05 Olli-Poika Parviainen vihr: Arvoisa herra puhemies! Kiitos ministeri Saarikolle
+avoimesta ja kattavasta alustuksesta liittyen tähän vaikeaan kokonaisuuteen.
+
+On kuitenkin varsin ymmärrettävää, että erityisesti monet opiskelijat ovat peloissaan,
+koska heiltä on jo otettu varsin paljon. Enää ei siis oikeastaan edes yllätäkään, että opiske-
+lijoilta ollaan jälleen leikkaamassa lisää. Tämä osa-asunnon normi leikkaa kimppa-asujien
+ja pienten asuntojen vuokralaisilta asuinseudusta riippuen erikokoisen summan. Opiskeli-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+jat asuvat näet muita asumistuen saajia useammin näet. Näin ollen osa-asunnon normin
+vaikutukset kohdistuvat tällä hetkellä pääosin opiskelijoihin.
+
+Osa-asunnon normi heikentäisi edullisimpien asumismuotojen suosiota opiskelijoiden
+keskuudessa, mitä varmasti emme tavoittele. Yleisen asumistuen ruokakunta- ja avoliitto-
+tulkintojen vuoksi yhteisasuminen aiheuttaa opiskelijoissa huolta ja hankalia tilanteita sekä
+turhaa selvittelytyötä jo entuudestaan. Toivon, että ministerin mainitsema selvitys siitä,
+voitaisiinko tätä vanhentunutta ruokakuntatulkintaa tarkistaa ja muuttaa nykyaikaisem-
+maksi, etenee mahdollisimman nopeasti.
+
+Yhteisasumisen väheneminen uhkaa ajaa opiskelijoita asumaan yhä enemmän kalliim-
+piin yksiöihin ja pieniin kaksioihin, mikä samalla myös lisää asumismenokustannuksia.
+Tämä käyttäytymisvaikutus tunnustetaan hallituksen esityksessäkin. Mikään laskelma ei
+osoita, että esityksessä toivotut säästöt oikeasti toteutuisivat. Lakiesitys tunnustaa myös
+sen, että asumistuen säästöistä arviolta yli 40 prosenttia voi siirtyä toimeentulotuen me-
+noiksi. Toimeentulotuki nähdään yhtenä pahimmista kannustinloukuista. Sen tulisi olla
+viimesijaista sosiaaliturvaa, toimeentulotuen tarkoituksena kun ei ole toimia jatkuvais-
+luonteisena ensisijaisten etuuksien täydentäjänä eikä korvata niitä. Koska asumistuen ta-
+son alentaminen lisää toimeentulotukimenoja ja toimeentulotukiriippuvuutta, esitys voi
+kaikkien tavoitteiden vastaisesti heikentää monen kohdalla työnteon kannusteita. Tätä on
+nyt syytä tarkastella todella kriittisesti.
+
+Toisin kuin muut asumistuen saajat, opiskelijat eivät pääsääntöisesti ole oikeutettuja toi-
+meentulotukeen, koska opintolaina katsotaan opiskelijan tuloksi. Näin ollen opiskelijat
+joutuvat rahoittamaan kasvaneita asumismenoja opintorahalla, opintolainalla ja työtuloil-
+la. Opiskelijan tehtävä on opiskella, mutta kumma kyllä kokopäiväisestä opiskelusta ol-
+laan jälleen tekemässä taloudellisesti jos ei täysin mahdotonta, niin jälleen kerran vähem-
+män houkuttelevaa.
+
+Työssäkäynnin lisääntyminen puolestaan voi pidentää tutkintoaikoja, vaikka nimen-
+omaan opintoaikojen lyhentyminen on ollut hallituksenkin tavoitelistalla — ristiriitaista
+toimintaa, puhumattakaan siitä, että taas kerran ylipäätään kehdataan mennä leikkaamaan
+opiskelijoilta. Joko unohtui opintorahan suuri megaleikkaus, joka vasta tänä syksynä astui
+voimaan? Kun puhutaan yksittäisistä kympeistä, ne voivat olla meille kansanedustajille
+pieniä rahoja mutta opiskelijoilla voidaan puhua viikkojen ruokarahoista.
+
+Asumisen tukijärjestelmää tulisi uudistaa johdonmukaisesti ja selkeyttäen. Nyt ollaan
+liikkeellä mielestäni epäjohdonmukaisesti ja väärin keinoin. Tämä hallituksen esitys itses-
+säänkin tunnistaa monia ongelmia, joihin esityksen toteuttaminen voi johtaa. Toivon har-
+taasti, että näihin ongelmiin myös puututaan jatkossa. Nyt olisi syytä pitää tuumaustauko ja
+jättää tämäkin laki ehkä vielä hautumaan, kunnes saadaan ratkaisuja asumisen kokonais-
+kysymyksiin. Olen sitä mieltä, että se on monimutkainen yhtälö, jota ei voida ratkaista het-
+kessä. Mutta toivoisin, että näitä ei palasteltaisi eteenpäin vaan pyrkisimme tuomaan val-
+miimpia kokonaisuuksia käsiteltäväksi.
+
+Toinen varapuhemies Arto Satonen: Otamme vielä edustajien Räsänen ja Modig pu-
+heenvuorot ja sen jälkeen menemme debattiin.
+
+21.09 Joona Räsänen sd: Arvoisa puhemies! Puuttuisin tässä ensimmäisessä puheenvuo-
+rossa oikeastaan kahteen asiaan tässä isossa kokonaisuudessa, ja molemmat liittyvät osa-
+asunnon normiin ja sen palauttamiseen.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Ministeri aikaisemmin avauspuheenvuorossaan tämän asiakokonaisuuden kävi läpi ja
+äsken myös edustaja Parviainen tätä hyvin läpivalaisi, mitä tämä tarkoittaa. Tässähän
+konkreettinen muutos on todella se, että arvioiden mukaan tämä osa-asunnon normi ja sen
+palautus alentaa noin 12 000:n kimppakämpässä asuvan tukea, ja keskimääräisenä summa-
+na on käytetty 30:tä euroa. Kun ajatellaan tätä 30:tä euroa, se varmasti monelle täällä tun-
+tuu pieneltä rahalta, mutta jos nyt ajattelee sitä siinä opiskelijan kukkarossa, jos opiskeli-
+jalounaan hinta olisi 3 euroa, niin puhutaan siis 10 päivän lounasrahoista — 10 päivän lou-
+nasrahoista. Tämä aika hyvin konkretisoi sen, mistä on kysymys, elikkä siis 10 arkipäivän
+lounasraha on kaksi viikkoa koulussa, mitä tällä kolmellakympillä olisi syönyt, joten se on
+kohtuullisen suuri summa. Varsinkin kun tämä leikkaus tätä kautta toteutetaan jälleen si-
+ten, että sen jälkeen kun ensin on tehty megaluokan opintotukileikkaukset, niitä on yritetty
+paikata tällä asumistuen muutoksella ja sitten on keksitty jälleen uusi tapa käydä opiskeli-
+jan kukkarolla, moni opiskelija kokee tämän ihan ymmärrettävästi erittäin epäoikeuden-
+mukaiseksi.
+
+Mutta laajempi kysymys liittyy tähän käyttäytymisvaikutukseen, mitä myös edustaja
+Parviainen jo aikaisemmin kävi läpi. Jos käy niin, että tämän takia useampi opiskelija siel-
+tä kimppakämpästä muuttaa esimerkiksi isompaan yksiöön tai kaksioon, [Silvia Modig:
+Niin!] niin tämähän tulee nostamaan asumismenoja, jolloin myös asumistuessa tämä var-
+masti näkyy. Ja kyllä toivoisi, että ministeri hieman kävisi läpi tätä, millä tavalla on arvi-
+oitu, että tämä käyttäytymisvaikutus tulee näkymään tulevaisuudessa asumistukimenois-
+sa: tuleeko tästä se toivottu 4 miljoonan euron säästö, [Puhemies koputtaa] vai käykö niin,
+että säästöt jäävät olemattomiksi?
+
+21.12 Silvia Modig vas: Arvoisa puhemies! Ministeri esittelypuheenvuorossaan puhui
+siitä, että hallituksella on tässä tavoitteena vuokrien nousun hillitseminen, varsinkin pien-
+ten asuntojen suhteen. Hallitus tuntuu tässä nojaavan ajattelunsa siihen oletukseen, että
+asumistuen muutokset näkyvät vuokrissa. Tällehän ei löydy tutkimusnäyttöä. Sen ovat ky-
+seenalaistaneet niin Kelan tutkijat kuin Valtion taloudellisen tutkimuskeskuksen tutkijat.
+Esimerkiksi 90-luvulla oli monen vuoden putki, jolloin asumistuki ei noussut mutta vuok-
+rat nousivat. Mikään tilasto ei tue tätä olettamaa.
+
+Nyt tässä on itse asiassa se riski, että pienten asuntojen hinnat nousevat. Jos kimppakäm-
+pässä asuminen ei ole enää kannattavaa ja asumistukea saa enemmän omaan yksiöön tai
+pieneen kaksioon, niin on oletettavaa, että osa näistä ihmisistä lähtee sinne yksiöiden ja
+kaksioiden markkinoille. Se on juuri se asuntokanta, jossa on kovin paine tällä hetkellä,
+missä on kysyntää paljon enemmän kuin on tarjontaa, ja jos sinne lisätään ihmisiä, jotka
+näitä asuntoja hakevat, niin se voi itse asiassa johtaa täysin päinvastaiseen tilanteeseen
+kuin mitä hallitus toivoo, eli siihen, että näitten kaikkein kysytyimpien asuntojen vuokrat
+itse asiassa nousevat. Miten hallitus on ottanut tämän huomioon? Onko tätä skenaariota
+käyty läpi, mikä tämän vaikutus muihin asuntoihin on? Tämä ongelmahan on kaikkien kas-
+vavien kaupunkiseutujen, että asumisen hinta on liian korkea, mutta erityisen iso tämä on
+Helsingissä, ja kun meillä puolet asukkaista on yksin eläviä, niin nimenomaan niistä yksi-
+öistä on valtava pula. Minä pelkään myös, samalla tavalla kuin edustaja Räsänen täällä to-
+tesi, että tämä voi itse asiassa johtaa kustannusten nousuun ja tämä saattaa johtaa pahim-
+millaan siihen — koska Helsingissä meillä siis on jo todellinen ongelma siitä, että osa ih-
+misistä joutuu turvautumaan toimeentulotukeen saadaksensa asumiskustannuksensa katet-
+tua — että tämä vie, taas kerran, useampia ihmisiä toimeentulotuen varaan, jonka me kaik-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+ki tiedämme erittäin passivoivaksi ja hankalaksi tukimuodoksi, jota ei ole tarkoitettu arjen
+pyörittämiseen vaan siihen viimesijaiseen apuun, kun on todellinen hätä.
+
+Toinen varapuhemies Arto Satonen:  Nyt on mahdollisuus pyytää tähän asiaan vastaus-
+puheenvuoroja. 
+
+21.14 Eva Biaudet r (vastauspuheenvuoro): Arvoisa puhemies! Tuntui hyvältä kuitenkin
+kuulla ministerin keskustelevan ja käsittelevän näitä haasteita ja ongelmia. Tulee se käsi-
+tys, että hän oli kyllä hyvin tietoinen tämän esityksen ongelmista. Siinä mielessä tietenkin
+tunnen olevani vähän hämilläni, koska en oikein tiedä, miten voi vastustaa ministeriä, joka
+itse asiassa kuulostaa siltä, että hän ei koe, että se esitys on niin hirveän hyvä. Mutta onhan
+tämä nyt jonkinnäköinen osoitus siitä, että me emme ole löytäneet asuntopolitiikkaan rat-
+kaisuja. Se on tietenkin pidemmän ajan kysymys kuin vain yhden hallituksen. Se on pitkä-
+aikainen asia. Mutta tuntuu silti aika epäoikeudenmukaiselta, että juuri silloin haetaan täl-
+laisia mahdollisia ratkaisuja, jotka kohdistuvat juuri opiskelijoihin, joilla muutenkin on
+aika kovat oltavat. Varsinkin Helsingin — tai kaupunkien — opiskelijoilla on erityisen
+hankala tilanne. Onko tämä nyt välttämätöntä, ministeri Saarikko?
+
+21.15 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa puhemies! Opiskelijajär-
+jestöt ovat hyvinkin ymmärrettävästi huolissaan ja tuohtuneita tästä esityksestä, joka enti-
+sestään heikentää opiskelijoiden asemaa. Opiskelijoiden entisten toimeentuloleikkausten
+päälle tämäkin lisäleikkaus vielä. Herää kysymys, koska tulee raja vastaan, että opiskeli-
+joiden kuritus lopetetaan.
+
+Tässä keskustelussa on noussut esiin todella varteenotettavia ja tärkeitä kysymyksiä sii-
+tä, että tämä heikentää kimppa-asumisen houkuttavuutta, sysää ihmisiä toimeentulotuelle
+mutta sitten taas toisaalta lisää pienten asuntojen tarvetta ja kysyntää, joka entisestäänkin
+nyt on erittäin suurta varsinkin täällä pääkaupunkiseudulla. Onko tässä varmasti tehty kaik-
+ki vaikutusarviot huolella? Arvoisa ministeri, voitteko kuitenkin harkita vielä, että tässä
+esityksessä olisi muutettavaa tai parannettavaa tai jopa että tämä vedettäisiin pois?
+
+21.16 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! On hyvä,
+että asumistukimuotoihin haetaan uusia ratkaisuja, mutta tämäkin lakiesitys on kuitenkin
+vain sitä oireen hoitamista ja itse tautiin ei puututa pätkän vertaa. Se ei ole hallituksen vika,
+vaan olemassa olevien olosuhteiden hoitamista. Siitähän tässä on kysymys.
+
+Mutta katsokaapa tätä asumistukisysteemiä tässä maassa, miten järjettömyyksiin se on
+mennyt. Aikoinaanhan asumistuki luotiin sitä varten, että vähävaraisille ihmisille annettai-
+siin mahdollisuus laadukkaampaan asumiseen kuin sillä hetkellä heillä oli varaa. Mihin
+tämä homma on mennyt? Nyt tässäkin kaupungissa muuan ruotsalaismiljardööri omistaa
+9 000 asuntoa ja nostaa valtiolta asumistukirahoja maksimiin vedettyjen vuokrien kautta
+noin 20 miljoonaa joka vuosi. Onko tämän valtion tarkoitus tukea jotain ruotsalaista moni-
+miljonääriä? Joku voi sanoa tietysti, että Caymansaarilla asuvana miljardöörinä pitäähän se
+joka vuosi uusi Ferrari ostaa, koska se maalihan rapautuu jo vuoden aikana, suolavesihän
+sitä syö.
+
+Pitäisikö meidän ruveta vihdoin ja viimein miettimään, mitä me oikeasti tästä aluekehi-
+tyksestä tässä maassa haluamme? Jos me jatkamme jääräpäisesti tätä tietä, [Puhemies ko-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+puttaa] mitä opposition edustajiltakin olen kuullut, että pitää keskittää valtavasti, niin sitä
+tietä vastaan tulee varmasti susi ja paljon muutakin.
+
+21.17 Anneli Kiljunen sd (vastauspuheenvuoro): Arvoisa herra puhemies! On todella
+harmillista, että hallitus ei ole tehnyt todellisia vaikutusarvioita tälle esitykselle, joka vai-
+kuttaa opiskelijoitten toimeentuloon ja lapsiperheitten toimeentuloon ja joka tulee vaikut-
+tamaan myös meidän asuntorakentamiseen ja meidän sosiaaliturvaan. Meidän pitäisi pi-
+kemminkin parantaa ensisijaisia etuuksia, kun tämänkin vaikutuksista nyt meillä ihmisiä
+siirtyy pysyvästi taas toimeentulotuen piiriin. Erityisesti opiskelijalapsiperheet tulevat kär-
+simään tästä sen takia, että vaikka tulee huoltajakorotus, niin tämä huoltajakorotus ei tule
+kompensoimaan tästä aiheutuvia leikkauksia. Tämän asian seurauksena myös perheelliset
+opiskelijat joutuvat siirtymään opiskelun ohella työelämään, mikä tulee viivästyttämään
+sitten opiskelijoitten valmistumisia. Kysyisin nyt ministeriltä: minkälaisia kokonaisvaiku-
+tusarvioita on tehty tästä, [Puhemies koputtaa] että miten tämä vaikuttaa ihmisten toimeen-
+tuloon sekä meidän asuntorakentamiseen?
+
+21.18 Toimi Kankaanniemi ps (vastauspuheenvuoro): Arvoisa puhemies! Tässä esityk-
+sessä on tietysti niitä epäkohtia, jotka ovat ilmi tulleet tässä yhteisasumisessa ja järjestel-
+mässä, ja on valiokunnassa syytä käydä ne hyvin huolella läpi, ettei kohtuuttomuuksia ta-
+pahdu eikä opiskelu ainakaan keneltäkään tämän takia vaarannu, koska opiskeluun meidän
+on satsattava. Mutta tämä on myös osa, pieni oire siitä, että meidän koko asumispolitiikka
+ja asumisen tukipolitiikka ovat kyllä kokonaisremontin tarpeessa. Alueellinen kehitys Suo-
+messa on tällä hetkellä hurjan eriarvoista. Syrjäseudulla, maaseudulla autioituu asuntoja, ja
+kasvukeskuksissa eletään nousevien asumiskustannusten kanssa ja opiskelijat ovat niitten
+korkeitten asumiskustannusten kourissa. Kysynkin ministeriltä: onko tämä asumistukijär-
+jestelmän kokonaisuudistus menossa tämän hallituksen aikana eteenpäin, [Puhemies ko-
+puttaa] vai onko se täysin unohdettu? 
+
+21.20 Olli-Poika Parviainen vihr (vastauspuheenvuoro): Herra puhemies! Palaisin vielä
+tähän ruokakunta- ja avoliittotulkintaan, joka tässä kulki rinnalla keskustelussa. Olen jo-
+tenkin kavahtanut sitä jo pitkään. Se on mielestäni invasiivinen opiskelijoille nykyisessä
+muodossaan — siis se, miten näitä selvityksiä pitää tehdä. Otin iloisena vastaan sen ajatuk-
+sen, kun ministeri sanoi, että tähän aiotaan puuttua tai ainakin tarkistaa asia, joten kysyi-
+sinkin teiltä, ministeri Saarikko: osaatteko sanoa, milloin meillä on odotettavissa jonkinnä-
+köinen raportti tai tulos siitä, ja milloin pääsemme keskustelemaan siitä, voisimmeko me
+tämän pienen epäkohdan korjata?
+
+21.20 Silvia Modig vas (vastauspuheenvuoro): Arvoisa puhemies! Ajatus siitä, että asu-
+mistukimenot pitää saada pienenemään, on ymmärrettävä. Mutta pitää ymmärtää, että asu-
+mistukimenot eivät ole kasvaneet vain sen takia, että vuokrat ovat nousseet, vaan myös sen
+takia, että yhä useampi tarvitsee asumistukea pärjätäkseen. Ainoa kestävä tapa vähentää
+asumistukimenoja on luoda tarpeeksi kohtuuhintaista asuntotuotantoa. Siihen valtiolla ja
+hallituksella on keinonsa: pitkän korkotukimallin kehittäminen, johon hallitus on tarttunut
+ja jota se tekee — mikä ansaitsee kiitosta — rakentamisen vauhdittaminen erilaisin inves-
+tointiavustuksin — tässä valitettavasti on nähty huonoja leikkauksia — ja MAL-sopimuk-
+sen muodossa tarjottu porkkana, josta annan myös kiitosta hallitukselle. Nämä ovat niitä
+6
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+ainoita kestäviä keinoja, joilla päästään siihen, että asumistukimenot vähenevät, koska se
+tuen tarve ei vähene sillä, että sitä ei anneta, vaan se vähenee sillä, että sitä ei enää tarvita.
+Ja tämä on se, mistä edustaja Hoskonen minun mielestäni puhui: itse tauti pitää parantaa
+eikä etsiä erilaisia laastareita.
+
+21.21 Joona Räsänen sd (vastauspuheenvuoro): Arvoisa puhemies! Tuossa avauspu-
+heenvuorossa ministeri hieman antoi ymmärtää, että niillä, jotka tätä osa-asunnon normia
+vaikkapa arvostelevat, on hieman lyhyt muisti. On ehkä kuitenkin paikallaan käydä läpi,
+että muistaakseni aika moni hallituspuolueidenkin edustaja kannatti nimenomaan opiske-
+lijoiden siirtoa yleiseen asumistukeen juuri sen takia, että sillä kompensoitiin näitä valta-
+via opintotukileikkauksia. Ei silloin puhuttu siitä, että sitten kun tämä siirto tehdään, niin
+edelleen tullaan leikkaamaan, että edelleen tullaan käymään siellä opiskelijoiden kukka-
+roilla. En edes mene siihen lyhytmuistisuuteen, mikä on näkynyt tässä salissa vaikkapa tä-
+män koulutuslupauksen osalta. Jotenkin niin tämä näyttää edelleen olevan, että aika mo-
+nella on lyhyt muisti sen suhteen, minkälaisten kylttien kanssa oli valokuvissa ennen vaa-
+leja, ja sitten niiden toimenpiteiden suhteen, mitä täällä on sitten vaalien jälkeen ollut, niin
+että tämä lyhytmuistisuus on varmaan puolin ja toisin ollut tässä pienoisena ongelmana 
+
+Toinen varapuhemies Arto Satonen: Ja nyt ministeri Saarikko, 3 minuuttia. 
+
+21.23 Perhe- ja peruspalveluministeri Annika Saarikko:  Arvoisa puhemies! Muuta-
+ma huomio:
+
+Ensinnäkin yritän asettaa tämän asumistukikysymyksen mittakaavaan. Tämän nyt kes-
+kustelussa olevan osa-asunnon normin nettosäästövaikutus on 2,4 miljoonaa asumistuki-
+potissa, jossa puhutaan itse asiassa useammasta miljardista. Kysymys on periaatteellinen
+ja, kyllä, valtiontalouden säästöjä tuova. Kuitenkin tämän kokonaisesityksen isommat
+säästövaikutukset tulevat tästä elinkustannusindeksiin sitomisesta nykyisen vuokraindek-
+sin sijaan ja sitten myöskin menojäädytyksestä tämän vuoden tasolle.
+
+Sitten muutama huomio vielä: 
+Meidän alkuperäinen ajatuksemme oli, että tämä kannattaisi toteuttaa palauttamalla ajal-
+
+ta ennen vuoden 2015 asumistukiuudistusta tämä neliövuokraleikkuri, koska ajattelimme
+sen olevan toimiva, mutta näimme, että siinä olisi ollut riski vielä suuremmasta pieniin
+asuntoihin kohdistuvasta vaikutuksesta, joka olisi kohdistunut ehkä laajempaan väestöryh-
+mään mutta ollut monella tavalla vielä ikävämpi kokonaisratkaisu.
+
+Edustaja Biaudet kysyi, voisinko harkita tämän perumista. En voi, [Naurua] tai aina har-
+kita voi, mutta minulla ei ole, arvoisa puhemies, minkään sortin valtuuksia tehdä sitä täältä
+aitiosta tänä iltana. Mutta kyllä näen, että on järkevää kuitenkin asettaa mittasuhteisiin
+tämä muutos, varsinkin siihen, kun viittasin muistiin. Kyllä, näissä keskusteluissa tiedän,
+että se ei ole aina erityisen tahdikasta, koska itse kullakin se pätkii, mutta halusin vain huo-
+mauttaa, että osa-asunnon enimmäisasumismenojen käyttöönoton jälkeenkin — siis tämä
+palauttaminen näistä enimmäisasumismenoista osa-asuntoasujille — osa-asuntoon mak-
+settavan asumistuen enimmäismäärä on suurempi kuin aikanaan opintotuen asumislisän
+enimmäismäärä. Tämä asettaa minusta tämän toiminnan nyt jonkin sortin mittakaavaan,
+minkä vuoksi voin tämän kuitenkin suoraselkäisesti esitellä, vaikka olen avoimesti myön-
+tänyt tämän olevan esityksenä kivulias tietyille väestöryhmille, käytännössä eniten opiske-
+lijoille.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Edustaja Kiljusen arviota siitä, että tässä kärsijöitä olisivat lapsiperheet, en ylenkatso
+enkä väitä tietäväni mutta luulen, että erityisen paljon lapsiperheitä Suomessa ei opiskeli-
+joina tai muutoin asu alle 20 neliön asunnoissa. Näinkin voi olla, mutta luulen, että moni ei
+asu, ja hyvä niin.
+
+Edustaja Kankaanniemi tiedusteli tästä asumistukiuudistuksesta. Hallitus kytkee tämän
+osaksi isompaa kuvaa, perusturvan ja toimeliaisuuden kokonaisuudistusta, jossa asumistu-
+kea arvioidaan osana nimenomaan laajemmin sosiaaliturvaa, myös sen kytköstä toimeen-
+tuloon ja muihin etuuksiin. Minusta se on järkevää, ja koen, että salissa on varmasti tästä
+yksimielisyys, että järjestelmä pitää katsoa kokonaisuutena. Tuo ei valmistu tämän vaali-
+kauden aikana vaan on asia, johon varmasti kaikki puolueet ottavat seuraavien vaalien ai-
+kana 2019 kantaa: miten kukin puolue haluaa tuohon nyt hallituksen virkamies- ja asian-
+tuntijapohjalta laatimaan tiekarttaan suhtautua.
+
+Arvoisa puhemies! Vielä edustaja Modigin sinällään oikeutettuun pohdintaan, onko asu-
+mistuella ja vuokrien hinnannousulla yhteyttä: Tutkimustulokset ovat ristiriitaisia. On
+myös paljon tutkimuksia ja arkikokemuksellisuutta, jotka väittävät, että näin kuitenkin oli-
+si. [Puhemies koputtaa] On tutkimuksia vaikutuksista jopa 70 prosentin verran siitä, miten
+asumistukijärjestelmä on tässä heijastunut. Luotettavaa, aukotonta vahvistusta suuntaan tai
+toiseen tästä teemasta on hyvin hyvin vaikeaa saada. Ainoa selkeä todiste on se, että menot
+ovat olleet vuosia valtava kasvumomentti [Puhemies koputtaa] valtion budjetissa.
+
+Toinen varapuhemies Arto Satonen: Nyt menemme puhujalistaan.
+
+21.27 Johanna Karimäki vihr: Arvoisa puhemies! Ministeri perusteellisesti esitteli esi-
+tystä, jossa tavoitteena on hillitä asumistukimenoja, mutta on kuitenkin selvää, että ne va-
+luvat osittain toimeentulotukimenoihin eli toiseen kannustinloukkuun, ja tämä ei ole ihmi-
+selle sen parempi. Toimeentulotuki on kuin katiska, josta ihmisen on vaikea uida pois. Li-
+säksi tämä esitys vähentää kimppa-asumisen houkuttavuutta. On kuitenkin tärkeää, että
+ministeri itsekin totesi, että ruokakuntakäsite on tänä päivänä haaste ja että se tullaan sel-
+vittämään. Toivon, että ne selvitykset johtavat parannuksiin, ja toivon itsekin, että ne sel-
+vitykset tehdään todella nopeasti. Kuitenkin tämä muutos lisää pienten asuntojen kysyn-
+tää, joista jo nyt on pulaa pääkaupunkiseudulla.
+
+Muutosta on vaikea hyväksyä sen takia, että tämä kurittaa opiskelijoita kohtuuttomasti.
+Opiskelijoilla ei ole mahdollisuutta siirtyä toimeentulotuelle, joten muutos on heille erityi-
+sen raskas. Opiskelijoiltahan on leikattu jo hyvinkin paljon. Kaiken kaikkiaan hallituksen
+koulutusleikkaukset ovat mittavat. Te leikkaatte koulutuksesta miljardi euroa vuositasolla.
+Opintotuesta, opiskelijoiden perustoimeentulosta, olette leikanneet noin neljänneksen ja
+siirtäneet opintotukea lainapainotteisemmaksi.
+
+Kiitosta voi toki antaa siitä, että olette ottaneet käyttöön opintotuen huoltajakorotuksen.
+On todella tärkeää, että ojennetaan kättä opiskeleville vanhemmille, jotta voidaan yhdistää
+opinnot ja vanhemmuus paremmin. Mutta tosiasia on se, että tuonkin korotuksen jälkeen
+opiskelevien perheiden käteen jäävät tulot ovat kaikkien teidän tekemienne leikkausten jäl-
+keen pienemmät.
+
+21.29 Anneli Kiljunen sd: Arvoisa herra puhemies! Muutamia huomioita vielä.
+Ensinnäkin haluaisin todeta, että meillä on noin 30 000 opiskelijalapsiperhettä, joiden-
+
+ka toimeentulo on heikentynyt erilaisten leikkausten seurauksena, muun muassa opintotu-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+keen ja sitten tähän asumistukeen liittyen, ja selvitysten perusteella myöskään huoltajako-
+rotus ei ole pystynyt kompensoimaan opiskelijalapsiperheitten toimeentuloa kaikilta osin,
+mutta en siihen puutu nyt sen enempää.
+
+Surullista on, että hallitus on jälleen tekemässä leikkauksia asumistukeen. Hallitus siir-
+tää jälleen ihmisiä toimeentulotuen piiriin, kun tavoitteena tulisi pikemminkin olla se, että
+vahvistetaan ensisijaisia etuuksia ja vähennetään ihmisten riippuvuutta toimeentulotuesta.
+
+Hallitus on heikentänyt kaudellaan monin tavoin opiskelijoiden taloudellista asemaa.
+Myös sinänsä myönteinen uudistus opiskelijoiden siirtämisestä yleisen asumistuen piiriin
+johti joidenkin opiskelijoiden toimeentulon kohtuuttomaan heikentymiseen. Pienitulois-
+ten ja korkeita asumismenoja maksavien, yksin vuokralla asuvien opiskelijoiden asumisen
+tuki parani uudistuksessa, elikkä opiskelijoitten kannattaa ottaa pikemminkin yksiö tai sit-
+ten pieni kaksio, sillä heidän asumistukensa on suurempi kuin näiden alle 20 neliön so-
+luasunnoissa asuvien. Opiskelijat joutuvat myös tämän kokonaisuuden takia rahoittamaan
+kasvaneita asumismenoja opintorahalla, opintolainalla ja työtuloilla. Tämän seurauksena
+opiskelijoiden työssäkäynti tulee lisääntymään, ja sitä kautta tutkintoajat tulevat pitene-
+mään.
+
+Kuten ministerikin äsken totesi, hallituksen esityksen mukaan tämä 20 neliön asunto-
+normi, osa-asuntonormi, vaikuttaa noin 12 000:een nykyisen asumistuen saajaan. Heistä
+merkittävä osa on opiskelijoita, jotka selvityksen mukaan asuvat muita väestöryhmiä
+useammin kimppa- ja soluasunnoissa tai opiskelija-asuntoja tuottavien yhteisöjen tarjoa-
+missa alle 20 neliön asunnoissa. Näin leikkaus kohdistuu erityisesti opiskelijoihin. Nyt on
+ollut selvästi nähtävillä myös se, että opiskelija-asuntoyhtiöt ovat muuttamassa soluasun-
+toja pieniksi yksiöiksi, koska ne ovat huomanneet opiskelijoiden toiveen muuttaa näistä
+solu-kimppa-asunnoista pois, ja sen seurauksena tämä tulee vaikuttamaan myös näitten
+opiskelija-asuntosäätiöitten ja -yhtiöitten asuntorakentamiseen ja sitä kautta myös, voisiko
+sanoa, tällä hetkellä hyvin kohtuuhintaisten ja tehokkaitten solu-kimppa-asuntojen vähe-
+nemiseen. Sitä kautta tämä tulee myös vääristämään tehokasta asuntorakentamista, ja tä-
+hän viittasin myös näillä kokonaisvaikutuksilla, joita ministeriltä äsken tuossa peräsin.
+
+Tästä syystä me kaikki varmaan olemme yhtä mieltä siitä, että asumiskustannusten nou-
+sua tulee hillitä, mutta on väärin tavoitella sitä heikentämällä etuudensaajien arkista toi-
+meentuloa. Yhteiskuntapoliittisesti kestävämpi ratkaisu on ensisijaisten etuuksien hyvä
+taso sekä kohtuuhintaisen asuntorakentamisen tukeminen ja asuntorakentamisen edistämi-
+nen ylipäätään, kuten täällä on useissa puheenvuoroissa jo todettukin.
+
+21.33 Hannu Hoskonen kesk: Arvoisa herra puhemies! Laki yleisen asumistuen muutta-
+misesta on mielestäni esimerkki siitä, mihin tämä suomalainen keskittämispolitiikka kar-
+meimmillaan vie. Asumistukeahan tässä maassa maksetaan suurin piirtein 2,5 miljardia
+euroa, ja päälle on pakko laskea osa ihmisten hakemasta toimeentulotuesta, kun taloudel-
+linen tilanne nimenomaan älyttömän kalliin asumisen takia on aiheuttanut sen, että toi-
+meentulotukea on pakko hakea: on arvioitu, että toimeentulotuesta noin 600 miljoonaa eli
+0,6 miljardia menee tänne asumiskustannusten peittämiseen. Elikkä puhutaan yli 3 miljar-
+din euron kustannuksesta. Kun siihen lisätään valtiontaloutta rasittavat noin 5 miljardin
+työttömyysmenot viime vuodelta — 5,1 miljardia meni työttömyysmenoihin vuonna 2016
+— olemme luvussa 8 miljardia euroa. Jos tässä salissa joku vielä kysyy, minkä tautta val-
+tiontalous voi huonosti, niin ei liene vaikea selittää. Tässä on 8 miljardin reikä, ei se sen
+suurempi ole. 
+9
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Mitä sitten tulee tähän asumistukeen, se on tärkeä asia niille ihmisille, joille se on vält-
+tämättömyys, sitä ei saa väheksyä, mutta emmehän me tällä tiellä, hyvät edustajakollegat,
+voi jatkaa, emme yhtään. Jos joku kuvittelee ja haukkuu vaikka hallitusta siitä, että asumis-
+tuki on liian vähäinen ja huono, kuvitteleeko joku, että esimerkiksi Erik Selin, ruotsalainen
+miljardööri, joka omistaa ne 4 000 asuntoa... Pahoittelen äsken sanomaani väärää lukua,
+muistin sen väärin, korjaan, tarkistin äsken, se on 4 000, oikea luku on 4 000. [Silvia Mo-
+digin välihuuto] — Anteeksi, pahoittelen virhettäni, mutta tarkistin sen äsken tietolähtees-
+tä, se on 4 000. Ei tästä edustaja Kiljusen kannata mieltään pahoittaa, kuten... [Silvia Mo-
+digin välihuuto] — Anteeksi, edustaja Modig pahoitti mielensä. Anteeksi, jos olin vääräs-
+sä, mutta korjasin virheeni, kun huomasin sen. — Mutta joka tapauksessa, pitääkö meillä
+maksaa tällaisille henkilöille asumistukia kymmenien miljoonien edestä, että he saavat
+omistaa täällä asuntoja? Siihenhän voi puuttua vaikka verotuksella, hyvänen aika. Demarit
+olivat aikanaan kuuluisia siitä, että veroja pitää rakastaa. Tässä olisi oiva kohde. Jos olette
+seuraavan kerran vaikka hallituksessa, tässä on oivallinen kohde pistää vähän tuulemaan ja
+ottaa vähän rahoja pois sieltä. Joka tapauksessa kun tällä keinoin menemme eteenpäin, niin
+ei kerta kaikkiaan valtiontalouden hoidosta tule yhtään mitään. Siinä on 8 miljardin reikä.
+
+Ja asumistukilaissa, mikä nyt on käsittelyssä ja mitä ministeri Saarikko oivallisesti äs-
+ken esitteli, puhutaan muutamien miljoonien säästöstä — oliko 2,6 miljoonaa, minkä mi-
+nisteri Saarikko äsken sanoi — elikkä siis erittäin, erittäin vähäisestä summasta. Niille ih-
+misille, keille se raha menee, se on äärimmäisen tärkeä, mutta valtiontalouden kannalta
+tämä on aivan mitätön. Ja kun katsoo sitten näitä ökysijoittajia, niin mitä he käytännössä te-
+kevät tässä kaupungissa ja suurissa keskuksissa? Luodaan aivan hirvittävää kuplaa, joka
+jonain päivänä aivan varmasti räjähtää. Siellä on sellaisia taloyhtiöitä, joista suursijoittajat
+ostavat kaikki asunnot kerralla. Sitten huudatetaan vuokrat aivan pilviin, kun ihmisten on
+kuitenkin pakko jossakin asua, ja sitten valtio maksaa viulut. Tällainen noidankehä on pak-
+ko jonain päivänä keskeyttää. Ei tästä tule yhtään mitään, jos me valtiontaloutta aiomme
+kuntoon laittaa. Se, että talouskasvu tällä hetkellä auttaa asiassa, on hyvä asia, mutta tämä-
+kään nousukausi ei kestä pitkään. Ja mitä tehdään sen jälkeen? Sitten joudutaan tekemään
+pakkotoimenpiteitä.
+
+Elikkä kun asumistukea nyt opiskelijoille ja monelle muulle porukalle jaetaan tässä
+maassa, se on aivan oikein, sitä lämpimästi kannatan, mutta tälle rakennevialle, mikä tähän
+järjestelmään on tullut... Alun perinhän asumistuki oli sitä varten, että köyhien ja vähäva-
+raisten ihmisten asumista tuetaan, että heilläkin on mahdollisuus laadukkaaseen asumi-
+seen hyvässä ympäristössä. Sehän se tarkoitus alun perin oli. Nyt se kyseinen tavoite on
+vieraantunut niin kauas kuin maa on kuusta. Elikkä hyvät ystävät, hyvät kollegat, kyllähän
+tälle jotakin pitää tehdä. Eihän tällä keinoin voi jatkaa, että meillä on 8 miljardin reikä pel-
+kän työttömyyden ja asumiskustannusten takia ja kuilu ei kun kasvaa. Ja se ei varmasti ole
+erinomaisesti virkaansa hoitaneen ministeri Saarikon vika. Hän on tehnyt parhaansa omal-
+la alueellaan. Tämä muutaman miljoonan säästö, mikä tällä saavutetaan, on askel oikeaan
+suuntaan, mutta se on vasta ensimmäinen askel.
+
+Toinen varapuhemies Arto Satonen:  Ja tässä vaiheessa pyydän edustajia huomioimaan,
+että istunto päättyy kello 22. 
+
+21.37 Joona Räsänen sd: Arvoisa puhemies! On täysin ymmärrettävää, että hallituksella
+on tavoite hillitä asumistukimenojen kasvua. Se on aivan täysin ymmärrettävä tavoite. Ky-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+symyshän on nyt siitä, päästäänkö siihen tavoitteeseen niillä toimenpiteillä, jotka nyt on
+valittu. Ja niin kuin ministerikin totesi, niin itse asiassa tässä kokonaispaketissa puhutaan
+siis kymmenien miljoonien eurojen säästöstä, kun tämä osa-asunnon normi on ensi vuoden
+osalta se reilu 2 miljoonaa ja kun tässä tullaan nyt tähän periaatteeseen, että säästöjä pitää
+tehdä. Sen takia nyt pitää sieltä opiskelijoilta ottaa myös tämä 2 miljoonaa euroa — joka
+siis keskimääräisesti on näiden kimppa-asujien tai pienissä yksiöissä asuvien osalta se 30
+euroa elikkä suurin piirtein kahden viikon ruokarahat. Tästä herää kysymys — jos muistan
+oikein, niin ministerin oma ministeriökin arvioi, että itse asiassa tämän osa-asunnon nor-
+min säästövaikutukset ovat kuitenkin aika epävarmalla pohjalla — saadaanko tästä edes
+niitä parin miljoonan säästöjä, joita tällä haetaan. 
+
+Sen takia herää kysymys, että jos kerran täytyy saada tässä vaiheessa säästöjä kun näillä
+muilla toimenpiteillä niitä luultavasti tullaan kyllä siellä saamaan — koska se vaikuttaa sit-
+ten ihmisten asumistukeen, ihmisten asumistuki laskee, jonkun verran sitten toimeentulo-
+tukimenot kyllä nousevat, mutta valtio tästä jonkun verran säästöjä saa — niin eikö tässä
+kokonaisuudessa nyt olisi ollut ihan kohtuullista jättää ainakin tämä osa-asunnon normi
+rauhaan ja suosia siis niitä pienituloisia opiskelijoita, joilta tämä hallitus on ottanut jo esi-
+merkiksi opintotuen leikkauksen muodossa aika paljon. Elikkä kymmenien miljoonien eu-
+rojen kokonaisuudessa olisi nyt ollut paikallaan pieni kädenojennus antaa opiskelijoille tä-
+män osa-asunnon normin poistamisen osalta tämän asian yhteydessä. Ja olisi kyllä viisas-
+ta, että tämä asia nyt vielä täällä valiokunnissa katsottaisiin perusteellisesti läpi, ja toivoi-
+sin, että tässä hallituspuolueiden edustajat käyttäisivät sitä kuuluisaa harkintaa ja miettisi-
+vät vähän tätä kokonaisuutta.
+
+21.40 Silvia Modig vas: Arvoisa puhemies! Ajattelen hyvin samalla tavalla kuin edustaja
+Räsänen tässä edellä. Nimenomaan tämä osa-asumisen normi on se, mistä tässä voitaisiin
+luopua ilman, että hallituksen tarvitsee luopua suurista säästötavoitteista tai muusta, kos-
+ka, kuten tässä keskustelussa on käynyt ilmi, se voi itse asiassa päinvastoin johtaa kustan-
+nusten nousuun. Tässä myös minä toivon hallituspuolueiden jäseniltä valiokuntakuulemi-
+sessa rohkeutta katsoa, voisiko tämmöinen olla mahdollista.
+
+Edustaja Hoskoselle minun on pakko todeta, että se, että pääkaupunkiseutu ja pääkau-
+punki kasvaa, on lähes luonnonlaki. Totta kai ihmiset hakeutuvat opiskelun, töiden, rak-
+kauden perässä pääkaupunkiin, mutta sitten myös tämän hallituksen päätökset ovat lisän-
+neet muuttoa tänne sen takia, että elämän edellytyksiä muualla Suomessa on heikennetty
+esimerkiksi koulutusleikkausten ja muun takia. Mutta ainoa tapa saada tähän ongelmaan
+ratkaisu on saada asumisen markkinahintaa laskemaan. Se tarkoittaa lisää tuotantoa, ja se
+tarkoittaa kaikkia niitä keinoja, joita valtiolla on. Se on aivan totta, niin kuin edustaja Hos-
+konen sanoi, että osa asumistukimenoista menee sellaisten tahojen taskuun, jotka pyytävät
+aivan kohtuuttomia vuokria. Mutta ei se ratkaisu ole rankaista niitä kaikkein heikoimmas-
+sa asemassa olevia eli opiskelijoita, joita tämä eniten koskee. 
+
+Ainakin Helsingistä meillä on arvio, että noin viidennes opiskelijoiden ruokakunnista
+löytyy kimppa-asunnoista, joten just tämän kimppa-asumisnormin tai osa-asumisen nor-
+min poistaminen vähentäisi tämän vaikutusta opiskelijoihin. Suunnattomasti se ei vaaran-
+taisi hallituksen tavoitteita, ja se olisi inhimillisesti ja taloudellisesti järkevää.
+
+Toinen varapuhemies Arto Satonen:  Ja ministeri Saarikko, 2 minuuttia.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+21.41 Perhe- ja peruspalveluministeri Annika Saarikko: Arvoisa puhemies! Ensinnä-
+kin korjaan sellaisen keskustelussa esiin nousseen huomion, että sosiaali- ja terveysminis-
+teriö ei itsekään omissa arvioissaan usko näihin säästöihin. Ikään kuin toinen väite on, että
+vaikutusarvioita ei olisi tehty. Tähän jälkimmäiseen totean, että kyllä itse asiassa juuri lau-
+suntokierroksen jälkeen vaikutusarvioita opiskelijoihin vielä täsmennettiin. Mitä tulee näi-
+hin arvioituihin säästöihin, tämä summa, vajaa 3 miljoonaa, josta puhun, on se nettosäästö.
+Me olemme avoimesti myöntäneet, että kuten muissakin sosiaaliturvaan kohdistuneissa
+säästöpäätöksissä niin tällä kuin viime vaalikaudella ja aina ennen kuin nykyjärjestelmä on
+ollut olemassa, osa oletettavista säästöistä on valunut toimeentulotukeen — joka on ihmis-
+ten perusoikeus, saada apu myös siltä niin sanotulta viimesijaiselta luukulta — ja arvioi-
+den mukaan tietyt opiskelijaryhmät tulevat tätä mahdollisuutta käyttämään. Ehkä haluai-
+sin kuitenkin korostaa, että me elämme opiskelijoiden asumistuen suhteen hyvin uuden-
+laista aikaa. Yleinen asumistuki ei ole ollut vielä kauaakaan voimassa, ja siihen liittyviä
+käyttäytymisvaikutuksia ja myöskään opiskelijoiden toimeentulovaikutuksia ei voi vielä
+aivan aukotta ennustaa.
+
+Siihen edustaja Modigin arvioon yhdyn täysin, että tämä asumisen kokonaisuus pääkau-
+punkiseudulla ja muuallakin on isompi kokonaisuus, ja arvostan tunnustustanne hallituk-
+selle siitä panostuksesta, minkä olemme toisaalla tehneet lisäasuntojen rakentamiseen ja
+niiden tukemiseen. Paljolti tämän kaiken pitää nojata myös kaupunkipäättäjiin, että ollaan
+halukkaita ratkaisemaan asia rakentamalla kohtuuhintaista asumista.
+
+Mitä tulee, vielä kerran painottaakseni, opiskelijoiden asumiseen osa-asunnoissa eli
+käytännössä isommissa kämpissä, joissa on useampi opiskelija, niitä tämä väistämättä eni-
+ten koskee. Niistä kaikista ei suinkaan nyt muodostu säästöjä, vaan ainoastaan niistä, joi-
+den asumisen hinta ylittää tuon enimmäisasumismenon rajan. Eli niissä, [Puhemies koput-
+taa] mitkä ovat kohtuullisia, muutoksia ei tapahdu.
+
+21.43 Anneli Kiljunen sd: Arvoisa puhemies! Kysyisin vielä tarkennuksena ministeriltä
+näiden seurauksien vaikutusarvioinnista: Elikkä kun tämän osa-asuntonormin seuraukse-
+na opiskelijat hakeutuvat kalliimpiin yksiöihin tai pieniin kaksioihin, niin todennäköistä
+on, että tämän seurauksena asumistukikustannukset tulevat kasvamaan. Onko huomioitu
+nyt siinä kokonaisuudessa, että tämän leikkauksen seurauksena opiskelijoitten käyttäyty-
+minen muuttuu, mikä tulee vaikuttamaan myös sitten asumistukimenojen kasvuun? Mikä
+on se todellinen nettosäästö, joka tästä tullaan saamaan, ja mikä on tämän käyttäytymisen
+muutoksen seuraus pitemmälläkin ajanjaksolla? Esimerkiksi meillä Etelä-Karjalassa Lap-
+peenrannassa ihan selkeästi on suunnitteilla, että kaikki kimppa-asunnot, jotka siellä tällä
+hetkellä ovat peruskorjauksessa, muutetaan yksiöiksi, minkä seurauksena kimppa-asunto-
+jen tämänhetkinen, voisiko sanoa, tehokas käyttö tulee muuttumaan, koska opiskelijat ei-
+vät halua enää asua näissä kimppakämpissä tämän asumistukimuutoksen seurauksena.
+
+21.45 Silvia Modig vas: Arvoisa puhemies! Lupaan, että tämä on viimeinen puheenvuo-
+roni. — On pakko ministerille todeta, kun sanoitte, että tämä säästövaikutus tulee ainoas-
+taan niiltä, joilla vuokra ylittää sen enimmäisasumismenon: eli suurimmalla osalla. Ei
+meillä Helsingissä oikein löydy ihmistä, jolla asumistuki kattaisi vuokran täysin. Ministeri
+Orpo vastasi minulle kyselytunnilla keväällä, että jos me katamme vuokran sataprosentti-
+sesti, onhan se nyt selvää, että vuokrat nousevat. Siinä oli aika monta virhettä ja suurta ym-
+märtämättömyyttä siitä, miten asumistuki oikeastaan muodostuu, mutta siis kenelläkään-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+hän se ei lähtökohtaisesti kata sataa prosenttia vuokrasta, ja se pitää pitää mielessä, koska
+tuntuu, että oletus siitä, että kaikki asumistuen pienet muutokset näkyisivät heti vuokrissa,
+tuntuu perustuvan aivan vääriin lähtökohtiin.
+
+Itse kannan huolta siitä, että tällähän on isompi vaikutus, kun mietitään, että tämä kos-
+kee nyt eniten opiskelijoita. He siirtyivät just yleisen asumistuen piiriin, ja on totta, niin
+kuin ministeri sanoi, että emme vielä tiedä kaikkea, miten se tulee näkymään ja vaikutta-
+maan. Ja nyt sitten leikataan asumistukea juuri niistä asunnoista, joissa opiskelijat asuvat.
+Pahimmillaanhan tietysti jos opiskelija tarvitsee enemmän rahaa, hän menee töihin, hän
+opiskelee vähemmän ja hän tekee työtä enemmän ja hänen valmistumisensa venyy. Eli toi-
+voisin nyt rohkeutta hallituspuolueiden edustajilta miettiä, voisiko tämän osa-asuntonor-
+min osalta tehdä valiokuntakäsittelyssä muutoksen.
+
+21.46 Joona Räsänen sd: Arvoisa puhemies! Vielä tähän muutama huomio, mikä jäi ai-
+kaisemmin sanomatta. 
+
+Todella tässä asiassa ei voi liikaa korostaa sitä, missä nämä vaikutukset ovat todella suu-
+rimmat. Kun mietitään vaikkapa Helsinkiä, minkä tilannetta edustaja Modig hyvin ansiok-
+kaasti kävi läpi, niin on juuri näin, että täällä se kirpaisee kaikista eniten näihin opiskelijoi-
+hin. Sitten tällä on totta kai myös tässä asuntotuotannossa merkitystä. Edustaja Kiljunen
+kuvasi hyvin sitä kehitystä, joka nyt jo opiskelija-asunnoissa on menossa, että vanhoja so-
+luasuntoja ollaan nyt sitten muuttamassa yksiöiksi. Sitten meillä on myös valtavan paljon
+sellaisia aikaisempia yksiöitä, jotka ovat siis alle tämän 20 neliön, jota tämä leikkuri nyt
+koskee. Mitäs sitten näissä opiskelija-asuntoja omistavissa yhtiöissä, monesti opiskelija-
+asuntosäätiöissä, tulee eteen? Siellä tulee mietittäväksi se, millä tavalla nämä yksiöt saa-
+daan siihen käyttöön, mihin ne on tarkoitettu, elikkä siellä opiskelija asuisi, vaikka se on tä-
+män uudistuksen myötä taloudellisesti vähemmän kannattavaa kuin se oli aikaisemmin.
+
+Tavallaan tätä kokonaisuutta peilaten, todella muistaen, että nyt tämän osalta puhutaan
+niistä muutaman miljoonan euron säästöistä, olisi ollut kyllä paikallaan pohtia sitä, että
+tämä olisi jätetty tekemättä. Se ei vaarantaisi todella näitä hallituksen säästötavoitteita, jot-
+ka tapahtuvat kyllä näillä muilla toimenpiteillä, joista tässä asiassa myös keskustellaan,
+mutta tämä osa-asunnon normin poistaminen tästä esityksestä olisi kyllä ollut sellainen
+joululahja, jonka eduskunta olisi voinut opiskelijoille antaa jo ihan siitäkin syystä, että kyl-
+lä opiskeluun meidän kannattaa tässä maassa satsata. Se on kyllä tämän 100-vuotiaan isän-
+maan ja tulevaisuudenkin elinehto, että meillä on korkeaa osaamista.
+
+Toinen varapuhemies Arto Satonen:  Ministeri Saarikko, 2 minuuttia.
+
+21.48 Perhe- ja peruspalveluministeri Annika Saarikko:  Arvoisa puhemies! Suhtau-
+dun vakavasti siihen kritiikkiin, jota sekä lausuntokierros että nyt tämä salikeskustelu esi-
+tyksestä ovat osoittaneet, ja olen aivan varma siitä — ja käsitykseni mukaan ympäristöva-
+liokunta on jo aloittamassa tämän esityksen kuulemista — että kriittinen palaute huomioi-
+daan varmasti painokkaasti. Joululahja tästä eteenpäin olisi tietysti myös, edustaja Räsä-
+nen, jokavuotinen, koska tämä ei ole päätös vain ensi vuodelle vaan ikään kuin järjestel-
+män rakenteellinen osa, jossa sinänsä on vaikea verrata mitään, mikä on ollut aiemmin, kun
+opiskelijat yleisessä asumistuessa ovat olleet vasta kovin vähän aikaa ja tämä ikään kuin
+poisto enimmäisasumismenojen vaikutuksesta osa-asunnoissa on ollut vasta pari vuotta
+osa järjestelmää, eli me puhumme aika lyhyen aikavälin muutoksista. Kyllä itse ajattelen
+13
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+niin, että kenelle se joululahja tässä sitten kohdistuisi, jos tässä esityksessä muutoksia ha-
+luttaisiin tehdä. Kyllä käytännössä vuokranantajien osaltahan tämä vaikutus on voimak-
+kain, mutta ymmärrän oikein hyvin, mitä tarkoitatte opiskelijoiden toimeentulon kokonai-
+suudella, enkä sitä halua väheksyä.
+
+Mutta totean kuitenkin sen, että tämä spekulatiivinen huomio siitä, että opiskelijat siir-
+tyisivät yksiöihin ikään kuin tämän myötä voimakkaammin, on vaikea todentaa ensinnä-
+kin siksi, että yksiöiden osalta omavastuu olisi yhä korkeampi eli ei se asuminen välttämät-
+tä tulisi halvemmaksi yksiöissä. Itse asiassa me kaikki tiedämme, että opiskelija-asunnois-
+sa riippumatta tukiratkaisuista suunta on ollut vahvasti soluasunnoista yksiöiden suuntaan
+ja monia perinteisiä soluasuntoja, muutama vuosikymmen sitten rakennettuja, on jo muu-
+tettu opiskelijoille yksiöiksi riippumatta tukijärjestelmästä, ehkä enemmän opiskelijoiden
+mieltymysten mukaan. Ja vielä ehkä korostaisin näiden yksiöiden osalta, että tämähän ei
+tuo muutosta silloin, jos yksiö on yli 20-neliöinen, eli puhutaan silloin todella pienistä
+asunnoista, joita tämä enimmäisasumismenon leikkuri koskisi [Puhemies koputtaa] vastaa-
+valla tavalla kuin osa-asunnoissa. — Kiitos keskustelusta.
+
+Keskustelu päättyi.
+
+Asia lähetettiin ympäristövaliokuntaan, jolle perustuslakivaliokunnan on annettava lau-
+sunto.
+14
+
+

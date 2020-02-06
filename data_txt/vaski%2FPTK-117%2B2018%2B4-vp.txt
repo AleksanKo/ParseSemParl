@@ -1,0 +1,375 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM51CA.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 117/2018 vp
+
+Täysistunto
+
+Tiistai 20.11.2018 klo 14.00—19.35
+
+4. Hallituksen esitys eduskunnalle laiksi poliisilain 2 luvun muuttamisesta
+Hallituksen esitys HE 223/2018 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päiväjär-
+jestyksen 4. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokuntaan.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+16.06 Sisäministeri Kai Mykkänen (esittelypuheenvuoro): Arvoisa puhemies! Hallitus
+siis esittää muutettavaksi poliisilakia siten, että lakiin lisättäisiin säännökset, joiden perus-
+teella poliisilla olisi nykyistä kattavampi toimivalta puuttua lennokkien ja miehittämättö-
+mien ilma-alusten kulkuun. Tämä puuttuminen olisi mahdollista vain, jos se on välttämä-
+töntä yleisen järjestyksen ja turvallisuuden ylläpitämiseksi, rikosten ennaltaehkäisemisek-
+si tai jo aloitetun rikoksen keskeyttämiseksi, erityisten valvontakohteiden vartioimiseksi,
+poliisitehtävän tai merkittävän valtiollisen tapahtuman turvaamiseksi tai onnettomuuspai-
+kalla suoritettavien toimenpiteiden tai toimenpiteen kohteena olevan henkilön yksityisyy-
+den suojaamiseksi.
+
+Esimerkiksi kameroilla varustettujen dronejen käyttäminen onnettomuuspaikoilla on
+niin maailmalla kuin Suomessa valitettavasti johtanut tilanteisiin, joissa on uhattu sekä uh-
+rien yksityisyydensuojaa että myös turvallisuusviranomaisten nopeaa toimintaa tällaisen
+tilanteen yhteydessä. Tässäkin yhteydessä haluan käyttää mahdollisuutta hyväkseni, että
+varmaan eduskuntakin yhdessä voisi vedota kansalaisiin, että turvallisuusviranomaisten ja
+pelastajien toiminta onnettomuustilanteissa turvataan ja tämäntyyppinen kuvaustoiminta
+myöskään uhrien yksityisyydensuojan rajamailla ei Suomessa yleistyisi.
+
+Miten poliisi voisi sitten puuttua lennokkeihin? Tämä lakiesitys antaisi mahdollisuuden
+käyttää teknistä laitetta, joka ei kuitenkaan aiheuta vähäistä suurempaa haittaa muulle ylei-
+sön radioviestinnälle tai viestintäverkolle. Tällaisia laitteita saisi käyttää vain niin kauan
+kuin se on välttämätöntä toimenpiteen suorittamiseksi, ja kysymys voi siis olla laitteesta,
+joka joko pakottaa lennokin maahan tai ottaa lentolaitteen ohjauksen haltuun. Teknistä lai-
+tetta voisi käyttää ainoastaan asianmukaisen koulutuksen saanut poliisimies. Tarvittaessa
+voitaisiin käyttää myös tarpeellisia voimakeinoja, joita voidaan pitää puolustettavina suh-
+teessa välttämättömään tarpeeseen. Poliisimiehellä olisi oikeus käsitellä lennokin tai mie-
+hittämättömän ilma-aluksen käyttöön liittyvää radioviestintää, välitystietoja, sijaintitietoja
+lennokin ja miehittämättömän ilma-alukseen kulkuun puuttumiseksi tai sen järjestelmän
+yksilöimiseksi ja sijainnin määrittelemiseksi.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+Olemme siinä tilanteessa, että lennokkien ja miehittämättömien ilma-alusten käyttö on
+nopeasti ja runsaasti lisääntynyt ja ne ovat kehittyneet aiempaa suorituskykyisemmiksi
+sekä kantomatkojen että erityisesti kuvausjärjestelmien osalta. Ne muodostavat uudenlai-
+sen ja aiempaa suuremman turvallisuusuhan, johon vastaaminen kuuluu ensi sijassa polii-
+sille. Haluan tietysti korostaa, että sinänsä uusi tekniikka muodostaa myös merkittävän
+mahdollisuuden, jolla on itse asiassa nyt viimeisen viikon aikanakin pystytty esimerkiksi
+takaa-ajotilanteessa saavuttamaan kiinniotettava ja useita kertoja tämänkin vuoden aikana
+löytämään eksynyt maastosta. Mutta silloin, kun niitä käytetään väärin, ne muodostavat to-
+della uhan, johon on tarvetta poliisin puuttua. Tällä hetkellä poliisilaissa ei ole lainkaan
+lennokkien tai miehittämättömien ilma-alusten kulkuun puuttumista koskevaa toimival-
+tuussäännöstä, ja tästä syystä hallitus on päätynyt esityksen tekemään.
+
+Ehdotuksen vaikutuksista voidaan todeta, että ennen kaikkea tarkoituksena on tietenkin
+se, että turvallisuutemme paranee erityisesti onnettomuustilanteissa mutta myös mahdolli-
+sesti rikollisten tahallaan käyttämän häirintätarkoituksen estämiseksi. Voi sanoa, että tie-
+tyissä tilanteissa myös valtiollisten erityiskohteiden vartiointi voi tulla kyseeseen näitä
+miehittämättömiä lennokkeja vastaan, ja silloin puhutaan myös kansallisen turvallisuuden
+kysymyksistä.
+
+Arvoisa puhemies! Toivon, että käymme rakentavan keskustelun myös tästä lakiehdo-
+tuksesta.
+
+16.10 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Tämä dronejen tekemä ongelma
+Suomessa, tai oikeastaan yleismaailmallisesti, leviää, se, että lentävillä pienillä laitteilla
+pystytään esimerkiksi kuvaamaan vaikka nyt pihapiiriä, että mitä siellä tapahtuu, taikka pa-
+himmillaan on niin, että siitä voi tulla jopa häirintään johtavaa toimintaa, jossa henkilön
+kotipiiriä tarkastellaan jatkuvasti ylhäältä päin. Ajatelkaa nyt vaikka sellainen tilanne, että
+joku menee kameran kanssa toisen pihapiiriin kuvaamaan vaikka siinä talossa asuvia ihmi-
+siä: Se on varmasti rikollista toimintaa, sitä ei saa tehdä, se on ihan nykyisessä laissa kiel-
+letty. Mutta kun omistaa tämmöisen lentävän pienen laitteen, missä on tarkka kamera, niin
+voi pahimmillaan tehdä jopa semmoisen homman, että laittaa elävän kuvan tulemaan, ja se
+on sitten vaikka YouTubeen vietynä suoraan katsottavissa, mitä tapahtuu siellä perheen ta-
+kapihalla, jossa lapset ovat leikkimässä ja vanhemmat viettävät vaikka vapaapäivää, tai
+kun ollaan kesämökillä järvenrannalla. 
+
+Kiitoksia ministerille siitä, että hän on aktiivisesti tätä asiaa vienyt eteenpäin. Mutta toi-
+voisin nyt hartaasti, että tähän saataisiin paljon, paljon jyrkemmät, selkeämmät rajat ja vas-
+tuut, sillä tämähän loukkaa selvästi yksityisyydensuojaa, se, että mennään pihapiiriin ku-
+vaamaan näillä laitteilla. Sehän onnistuu vallan hyvin. Nykyiset kamerat ovat niin tarkko-
+ja, että niillä pystyy saamaan huipputason kuvaa aivan alkeellisilla lentovälineillä. Tämän
+takia toivoisin, arvoisa ministeri, vastausta: ollaanko tähän jollakin [Puhemies koputtaa]
+keinoin puuttumassa vielä kovemmalla kädellä, koska tässä on menty nyt yksityisyyden-
+suojan piiriin todella vahvasti, jos näille ei saada kohtapuoliin tiukkoja rajoja, muutenkin
+kuin tämmöisissä tärkeissä kohteissa, kuten esimerkiksi Puolustusvoimien ja valtionjoh-
+don asioissa, myös yksityisen ihmisen yksityisyydensuoja on mielestäni vaalimisen arvoi-
+nen. 
+
+16.12 Timo Heinonen kok: Arvoisa rouva puhemies! Me olemme puolustusvaliokunnas-
+sa käsitelleet vastaavantyyppistä lainsäädäntöä Puolustusvoimien osalta. Sillä tähdätään
+2
+
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+siis nimenomaan samanlaiseen lopputulokseen kuin tässä sisäministeri Kai Mykkäsen esit-
+telemässä lakiesityksessä, jossa nyt poliisille tulee oikeudet puuttua lennokkeihin, dronei-
+hin ja muihin vastaaviin ottamalla ne haltuun tai alas ajamalla ne erilaisissa tilanteissa. 
+
+Ministeri toi esille onnettomuustilanteet. Varmasti voisi kyseeseen tulla yllättävät tilan-
+teet mielenosoituksissa. Toki täytyy muistaa, että usein näitä väliaikaisia lentokieltoja ase-
+tetaan esimerkiksi sellaisissa tilanteissa kuten silloin kun Trump ja Putin Suomessa tapasi-
+vat, silloin oli isompia alueita luonnollisesti jo rajattu. Mutta nimenomaan tällaisiin vähän
+yllättäviin tilanteisiin, mihin ministerikin viittasi, tällä pystytään poliisin toimesta puuttu-
+maan. 
+
+Puolustusvoimien puolella ongelma on ollut nimenomaan vakoilu, ja sielläkin sellaisis-
+sa tilanteissa, kun järjestetään erilaisia harjoituksia, ulkovaltojen miehittämättömiä drone-
+ja, lennokkeja ja muita on ollut häiritsemässä näitä harjoituksia. Ne saattavat aiheuttaa täl-
+laisen akuutin häiriön tietysti lentokoneille ja muille mutta myös puhtaasti vakoilua. Ja
+meidän teknologiamme menee kovaa vauhtia eteenpäin, itse asiassa taitaa tänäkin päivänä
+jo olla mahdollista toteuttaa ilmatilan loukkaus ja vakoilu niin, että itse tämä henkilö, joka
+vakoilun suorittaa, onkin jossain ihan toisella puolella maapalloa ja saattaa ohjata koneen
+yli rajan. 
+
+Vankilathan meillä ovat jo luonnollisesti näitä alueita, joissa koneet pystytään ottamaan
+alas, eli näitä ei drone-alueita tulee koko ajan lisää, ja hyvä niin. 
+
+16.14 Pauli Kiuru kok: Arvoisa puhemies! Kiitos ministerille esittelystä. Täytyy sanoa,
+että kun tekniikka kehittyy, tekniikka muuttuu, uusia laitteita ja käyttäytymistapoja tulee
+hyviä ja ei niin hyviä, niin totta kai lainsäädännön täytyy seurata aikaansa ja muuttua siinä
+mukana. Taustalla on yleisen järjestyksen, yleisen turvallisuuden ylläpitäminen, rikosten
+ennaltaehkäisy ja jo toteutumassa olevien rikosten keskeyttäminen.
+
+Yksi asia, mikä on tullut esiin, on tämmöinen lentoliikenteen häirintä. On käytetty eri-
+laisia laservaloja, on käynyt ilmi, että lähellä lentokenttiä lennätetään vastoin määräyksiä
+ja ohjeita lennokkeja. Ymmärtääkseni tämä lakiesitys antaa valmiuksia, toimintamahdolli-
+suuksia poliisille puuttua tiukemmin myös tämäntyyppiseen häiriökäyttäytymiseen. 
+
+16.15 Ari Jalonen sin: Arvoisa puhemies! Kehitys tosiaan kehittyy, ja silloin kun tulee
+uusia toimintatapoja tai laitteita, millä tehdään jotain asiaa toisin, tulee väistämättä myös
+vastaan ongelmia ja haasteita, jotka tarvitsee sitten ratkaista.
+
+On hyvä, että tässä nyt ratkotaan näitä havaittuja ongelmia, mutta kysyn nyt: eihän tässä
+tehdä kuitenkaan vahingossa mitään esteitä sentyyliselle kehitykselle, että voi olla vaikka
+ruokakassin kotiintuontipalvelu dronen avulla tai vaikkapa että ensiaputilanteissa 112-pu-
+helu soitettua puhelin paikantuu ja jos siellä on elvytystilanne menossa, niin sinne lähtee
+automaattisesti defibrillaattori, millä voidaan ottaa tilanne haltuun, tai että tulee vaikkapa
+joku postitoiminnan uusi muoto? Niitähän on jo nyt koetettu. Kysymys tosiaan kuuluu: ei-
+hän nyt vahingossa tehdä minkäänasteista estettä tälle kehitykselle?
+
+16.16 Katja Hänninen vas: Arvoisa rouva puhemies! Tätä lakiesitystä on kyllä odotettu,
+ja luulen, että tästä ei kovin paljon erimielisyyksiä opposition ja hallituksen välille synny,
+toisin kuin ehkä monista muista esityksistä on syntynyt. Tämä on todella kannatettava.
+Nämä dronet ovat tosiaan yleistyneet todella huimaa vauhtia viime vuosina, ja juuri se, että
+3
+
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+niitä on mahdollista käyttää rikolliseen toimintaan. Vankiloihin voidaan kuljettaa huumei-
+ta, lääkkeitä ja pahimmassa tapauksessa vaikka aseita. 
+
+Nyt sitten tietysti on tärkeää, että meillä on mahdollisuus niitä droneja häiritä vaikka pai-
+kallisesti vankiloitten tai voimalaitosten yllä, että ne eivät sinne alueelle pääse. Toisaalta
+sitten on tietysti tärkeää tämä poliisien voimankäyttö, että he voivat estää silloin kun siitä
+on vaaraa ihmisille ja voidaan todeta, että nämä on tarkoitettu rikolliseen toimintaan. Sii-
+hen ei tällä hetkellä tosiaan ole ollut mahdollista puuttua, jos se laite on esimerkiksi varus-
+tettu kuvaamiseen tarkoitetulla välineellä ja sitä on aiottu käyttää laittomaan tiedusteluun
+tai salakatseluun. Se tuntuu tietenkin käsittämättömältä, mutta meillähän lait monesti laa-
+haavat vähän perässä, ja tämä on tervetullut lakiesitys.
+
+16.18 Kaj Turunen kok: Arvoisa puhemies! Kiitoksia ministerille tästä lakiesityksestä.
+Ottaisin kiinni oikeastaan tästä edustaja Hoskosen ajatuksesta siitä, että yksityisyydensuo-
+jan rikkominen droneilla on erityisen helppoa, ja sitä on tapahtunutkin. Muistelisin, että
+jostakin kesämökin yläpuolelta omistaja oli haulikolla ilmeisesti täräyttänyt yhden dronen
+alas, mikä ei tietenkään ollut lainmukainen keino estää dronen toimintaa, ja muistaakseni
+hän sai siitä pienen tuomionkin. 
+
+No näillä droneilla voidaan kuvata yksityisyydensuojan piiriin kuuluvissa paikoissa,
+niin kuin kodeissa tai mökeillä, ja olihan tässä Puhemiehenaukiollakin eduskunnassa dro-
+ne liikuskellut havaintojen mukaan. Ministeriltä kysyn: Minkälaiset mahdollisuudet on
+käytännössä saada selville tai saada kiinni tämmöisissä tapauksissa sääntöjen rikkoja, esi-
+merkiksi lentokiellon rikkoja tai yksityisyydensuojan rikkoja, tämä lennättäjä, joka lennät-
+tää dronea rikollisessa tarkoituksessa? Miten helppoa tämmöisen asian selvittäminen on?
+Onko ainut keino vain, että pyritään dronen toimintaa estämään häiritsemällä sen liikkeitä,
+vai onko meillä keinoja saada tosiasiallisesti lennättäjä kiinni?
+
+Toinen varapuhemies Tuula Haatainen: Ministeri Mykkänen, vastauspuheenvuoro 3
+minuuttia, olkaa hyvä. 
+
+16.19 Sisäministeri Kai Mykkänen: Arvoisa puhemies! Kiitos rakentavista kysymyksis-
+tä ja myös kannustuksista hallitukselle tämän asian eteenpäinviemiseksi. Näyttää siltä, että
+ollaan sinänsä tästä lainmuutoksen tarpeellisuudesta varsin yhtä mieltä kaikkien puheen-
+vuoronkäyttäjien kesken.
+
+Sinänsä tällä lakiesityksellä annetaan oikeuksia poliisille puuttua selkeissä yleisen jär-
+jestyksen ja turvallisuuden vaarantavissa tilanteissa tai onnettomuustilanteiden tai poliisin
+tutkinnan estämistilanteiden kohdalla poliisin toimesta näiden lennokkien lennättämiseen
+ja ottaa tarvittaessa tällainen lennokki haltuun.
+
+Täytyy todeta, että tässähän ei sinänsä synny vaikkapa kiinteistönomistajalle oikeutta
+oman käden oikeudella tiputtaa dronea verrattuna nykyiseenkään tilanteeseen, jossa toki
+kotirauhan rikkominen on myöskin dronen kameran välityksellä kielletty, niin kuin täällä
+edustaja Hoskonenkin totesi.
+
+Sitten kysymys rangaistavuudesta, rikosvastuusta ja tutkinnan kynnysten madaltamises-
+ta tämäntapaisissa tapauksissa on tietysti laajempi, pääosin rikoslainsäädäntöön liittyvä oi-
+keusministeriön hallinnonalan asia, mutta on varmasti niin, että jos yleistyy tämäntyyppi-
+nen salakuvaaminen, yksityisyyden suojan rikkominen dronejen avulla, niin paitsi että
+meidän pitää pystyä puuttumaan silloin, jos tilanne jatkuu niin pitkään, että poliisi tulee ti-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+lanteeseen, eli että silloin tämä laki antaa mahdollisuuksia siihen puuttua, niin pitää voida
+myös varmistaa, että rikosvastuun kautta oikeus sikäli toteutuu ja myöskin ennaltaehkäise-
+vässä mielessä, niin että vastuu on riittävän selkeä, jotta toistuva käytös tässä suhteessa ei
+sitten yleisty. Tähän puuttuivat myös edustajat Hänninen ja Turunen erityisesti.
+
+Laservalojen käyttöön edustaja Kiuru puuttui erityisesti lentokenttien osalta. Toki, jos
+syntyy yleisen järjestyksen ja turvallisuuden kannalta häiriötilanne esimerkiksi lentoken-
+tän tai vastaavan kohteen häiritsemisellä vaikkapa laservalojen kautta tällaisesta miehittä-
+mättömästä lennokista, niin silloin poliisi voi sitten tähän toimintaan puuttua, jos se on oi-
+keasuhtaista ja välttämätöntä, ottamalla lennokin haltuun.
+
+Samalla myös edustaja Jalonen mielestäni puuttui ihan oleelliseen asiaan, minkä itsekin
+mainitsin tuossa alussa, että vaikka tämä laki tietysti puuttuu niihin uhkiin, joita dronet tuo-
+vat, niin sinänsähän kyseessä on uusi väline meille kansalaisille niin turvallisuuden takaa-
+miseksi, etsinnöissä ja myöskin kiinniotoissa mutta myös vaikkapa kuljetuspalveluiden
+uusissa muodoissa ja vaikkapa pelastuspuolenkin välineiden lähelle viemisessä. Luonnol-
+lisesti tässä ei olla kieltämässä dronejen lennättämistä eikä myöskään kuljetuspalveluita, ja
+täytyy ehdottomasti toimia sillä tavalla, että tämä markkina pystyy kehittymään siihen. On
+pelkästään myönteistä, jos pystytään palveluita tuomaan droneilla lähelle.
+
+16.22 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Näin ministerin läsnäollessa vie-
+lä haluan täsmentää kysymystä.
+
+Jos otetaan esimerkkinä vaikka se, että on perhejuhla menossa jossakin järven rannalla
+ja siellä on ihmisiä paljon koolla ja hyvä tunnelma, kesäinen päivä, ja yhtäkkiä joku mars-
+sii sinne videokamera olkapäällä ja kuvaa sitä tilannetta pyytämättä isännän tai omistajan
+lupaa, niin se on varmasti yksityisyydensuojan loukkaus ja siinä on myös kotirauhan pii-
+riin tunkeuduttu ilman lupaa. Mutta jos sama kaveri ostaa tuolta hyvin varustellusta rauta-
+kaupasta itselleen dronen ja pistää siihen kunnon kameran, jolla saa huippuhyviä kuvia, ja
+lennättää siitä yli ja kuvaa, niin tällaisiin tilanteisiin minun mielestäni pitää saada tähän
+maahan tarkka lainsäädäntö, että yksityisyydensuojan ja kotirauhan pitää olla voimassa
+myös näiden lentävien esineiden suhteen. Itsekin muutaman kerran olen havainnut jo,
+muun muassa viime kesänä pari tilannetta, joissa tällaiset lentävät laitteet kuvasivat. En
+minä tiedä, mitä ne kuvasivat ja kuka omisti ne laitteet, kenen hallinnassa ne olivat, mutta
+tuli vain väkisin mieleen, että mihinkähän tuokin tieto menee.
+
+Kyllä mielestäni Suomen eduskunnan pitää tässä asiassa vahva vastuu kantaa, ja toivon,
+että ministeri ottaa — ja uskon sen, että hän ottaa — hyvin vakavasti tämän tilanteen. Tä-
+hän pitää puuttua, saada lainsäädäntö sille tasolle, että yksityisyydensuoja ja kotirauha ovat
+edelleen koskemattomia, koska ei todellakaan tänä päivänä voi videokamera olkapäällä
+marssia vaikka perhejuhliin kuvaamaan tilannetta. Dronen avulla se onnistuu, ei tarvita mi-
+tään, ja jälkeenpäin sen selvittäminen, kuka se oli, on lähes mahdotonta, kun kaveri on
+poistunut. Ja kuten tässä yhdessä puheenvuorossa todettiin, niin sen dronen käyttäjähän voi
+olla vaikka 500 kilometrin päässä kauko-ohjaamassa tätä laitetta. Elikkä tämän takia tähän
+pitää saada tiukka, jyrkkä lainsäädäntö ja ennen kaikkea niille tekijöille riittävän kovat
+sanktiot ja vastuu siitä, että tällaista ei tehdä.
+
+16.24 Jari Myllykoski vas: Arvoisa rouva puhemies! Edellä käytetyt puheenvuorot ovat
+juuri niitä terveisiä, mitä pitää tullakin, ja on pakko nostaa tässä esiin edustaja Raatikaisen
+tekemä lakialoite, missä salakatselusta käytiin keskustelua. Tämä sopii hyvin siihen yhte-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+yteen, että nyt on se mahdollisuus, että meidän todellakin pitää olla nyt jämäköitä siinä,
+kuinka me sovellamme rikoslaissa olevaa salakatselun pykälää siinä, kun kuvaamistarkoi-
+tuksessa asennetaan laite johonkin tai tunkeudutaan kotirauhan piiriin, kuten edustaja Hos-
+konen edellä kuvasi. Minun mielestäni oikeuden yksityisyydensuojaan ja kotirauhaan pi-
+tää olla koskematon myös droneista tehtävän kuvaamisen tai videoinnin osalta.
+
+16.25 Katja Hänninen vas: Arvoisa rouva puhemies! Tässä nyt täytyy ehkä jatkokysy-
+mys esittää arvostettujen edustajien hyviin puheenvuoroihin liittyen elikkä juuri tämä, että
+miten sitten on tämä rangaistavuus. Tietysti tämä menisi oikeusministeriön puolelle, mutta
+on hyvin tärkeää se, että myös yrittäminen olisi rangaistavaa, jotta sitten karsittaisiin täm-
+möinen toiminta ja vastuu kannettaisiin tämmöisistä mahdollisista teoista. Mikäli siitä ei
+seuraa mitään sakkoja, ei mitään ehdollisia vankeutta tai vankeusrangaistusta, niin sehän
+sitten helposti voi olla näin, että no, yritetään, että vaikka jäisikin kiinni, niin sitten ne seu-
+raukset eivät ole juuri mitään. Varmaan tähän myös edustaja Hoskonen viittasi, että on hie-
+noa, että edustaja Raatikainen on tällaisen lakialoitteen tehnyt, mutta mitäs näissä tapauk-
+sissa, joihin tämä lakiesitys nyt viittaa, elikkä mikäli tilanne on sellainen, että miehittämä-
+tön ilma-alus on varustettu kuvaamiseen tarkoitetuilla välineillä ja sitä aiotaan käyttää lait-
+tomaan tiedusteluun tai salakatseluun? Onko tämä teko rangaistavaa tällä hetkellä, ja jos ei
+ole, niin tuleeko se tämän jälkeen rangaistavaksi?
+
+Toinen varapuhemies Tuula Haatainen: Sitten ministerin vastauspuheenvuoro. Riittää-
+kö 2 minuuttia?
+
+16.27 Sisäministeri Kai Mykkänen (vastauspuheenvuoro): Arvoisa puhemies! Hyvät
+edustajat! Todella varmasti tärkeitä puheenvuoroja, ja vien viestin kyllä oikeusministe-
+riöön ja oikeusministerille siitä, että tästä yksityisyydensuojan näkökulmasta rikosvastuu-
+ta on syytä nykyisestä tarkastella. Se täytyy tässä edelleen todeta, että sinänsä tämä lakiesi-
+tys ei tällä puolella muutosta tuo vaan tämä antaa poliisille valtuudet niissä rajatuissa ta-
+pauksissa, joissa on laajempaa onnettomuusvaaraa tai vaaraa yhteiskunnan toiminnalle
+dronen toiminnasta, ottaa myöskin drone sitten haltuun. Mutta varmasti on tarpeen myös-
+kin varmistaa se, kuten täällä ovat useat edustajat todistaneet, että luonnollista on, että tällä
+hetkellä yksityisyydensuojan loukkaaminen fyysisellä kuvaamisella maanpinnalta on va-
+kiintuneesti tuomittavaa ja käytännöt toimivat, mutta tällaisissa tapauksissa, joita nyt ene-
+nevästi on, että ilman kautta kuvataan, varmasti tapausten selvittäminen on sinänsä jo vai-
+keaa ja myöskin sitten oikeuskäytäntö on vielä muodostumatta, ja täytyy varmistaa, että
+laki antaisi mahdollisimman selvän viestin siitä, että tätä ei kannata edes yrittää ja että po-
+liisilla on selkeät mahdollisuudet sitten viedä rikosilmoituksista asioita eteenpäin, jos sii-
+hen päästään. Katsotaan, se voi vaatia sitten tietysti mahdollisuutta puuttua teknisin kei-
+noin myöskin tähän lennättämiseen, ja siinä täytyy punnita sitten erilaisia oikeuksia. Mutta
+vien viestin eteenpäin.
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan.
+6
+
+

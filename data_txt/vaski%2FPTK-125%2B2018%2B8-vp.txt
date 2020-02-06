@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM48A1.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 125/2018 vp
+
+Täysistunto
+
+Tiistai 4.12.2018 klo 14.02—20.52
+
+8. Hallituksen esitys eduskunnalle laeiksi eräiden ympäristöllisten  lupamenettelyjen yh-
+teensovittamisesta ja ympäristövaikutusten arviointimenettelystä annetun lain muuttami-
+sesta sekä eräiksi niihin liittyviksi laeiksi
+
+Hallituksen esitys HE 269/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 8. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään ympäristövaliokuntaan, jolle talousvalio-
+kunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+17.02 Asunto-, energia- ja ympäristöministeri Kimmo Tiilikainen (esittelypuheen-
+vuoro): Arvoisa puhemies! Nyt käsitteillä oleva esitys on niin sanottu yhden luukun peri-
+aate ympäristöllisten lupamenettelyjen yhteensovittamisessa. Tämä on varmasti, sanoisin,
+suurin ja merkittävin ympäristöministeriön hallinnonalalla toteutettava sujuvoittamishan-
+ke. Kyseessä on nimenomaan menettelyllinen uudistaminen, ei sillä tavalla, että jotenkin
+ympäristöllisiä lakeja tasoltaan alennettaisiin tai jotenkin pantaisiin rimaa alemmas lupien
+hakijalle, vaan kyse on nimenomaan menettelytapojen uudistamisesta.
+
+Esityksellä on lukuisia tavoitteita, ensinnäkin se, että tällä pystytään asiakkaan, luvan-
+hakijan, saamaa neuvontaa parantamaan, asiointi yksinkertaistuu, menettely- ja osallistu-
+misvaiheet keskittyvät, päällekkäisiä lupamenettelyjä yhteensovitetaan ja yhdistetään. Eri
+lupien ja käsittelymenettelyjen kokonaiskesto on aiempaa ennakoitavampi. Viranomais-
+työskentely tehostuu, yhteistyö lisääntyy, lupapäätökset kustakin prosessista tai hakemuk-
+sesta saadaan samanaikaisesti. Tällä päästään siihen, että eri osaset luvissa eivät voi olla
+keskenään ristiriitaisia, kuten joskus aiemmin on saattanut olla. Kaiken kaikkiaan tämä on
+hyvin kaivattu hanke.
+
+Ympäristöllisten lupien yhteensovittaminen koskee useita eri lakeja. Tähän voidaan
+mennä silloin, jos haetaan ympäristönsuojelulain mukaista lupaa, vesilain mukaista lupaa
+tai maa-aineslain mukaista maa-aineslupaa. Myös muitten lakien mukaisia lupia voidaan
+yhdistää tähän samaan käsittelyyn: luonnonsuojelulain laji- ja luontotyyppisuojelua koske-
+vat poikkeamisluvat, kaivoslain mukainen malminetsintälupa, kaivoslupa, kullanhuuhdon-
+talupa, kemikaaliturvallisuuslain mukaisia lupia voidaan tähän samaan prosessiin yhdis-
+tää, ja sitten maankäyttö- ja rakennuslain mukainen rakennuslupa, toimenpidelupa, maise-
+matyön lupa ja niin edelleen. 
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+Kyseessä on yksi luukku ja sen jälkeen kuitenkin kaksi viranomaista. Eli tähän proses-
+siin yhdistetään sillä tavoin tuo asia... Tai oikeastaan viranomaisia on useampiakin, mutta
+yhteensovittavana viranomaisena isommissa luvissa on lupa- ja valvontavirasto, joka vuo-
+den 21 alusta starttaa, ja toisaalta sitten niissä luvissa, joitten käsittely tapahtuu kunnissa,
+pääviranomainen on kunnan ympäristönsuojeluviranomainen.
+
+Nyt vielä kuvaisin tätä hyötyä tästä asiasta sillä tavalla, että kun joku hanke, joka vaatii
+esimerkiksi ympäristölupaa, pannaan vireille, niin näistä lupahakemuksista tulee — ol-
+koonpa niin, että kyseistä hanketta varten on tarpeen kaksi tai viisi — yksi kuulutus. Näistä
+pääsee mielipiteen antamaan kerralla. Viranomaislausunnot pyydetään yhdellä kertaa, vas-
+tine yhdellä kertaa. Ja juuri todellakin sitten nämä eri osat tästä yhdestä prosessista ja lu-
+vasta annetaan samanaikaisesti. No, nyt kuitenkin voi olla sitten tilanteita, missä hakija ha-
+luaisi kuitenkin vielä tämmöisen pala palalta tapahtuvan käsittelyn eli vanhaan malliin osa-
+sina tuon hankkeen luvituksen, ja hakijalla on mahdollisuus valita myös tämänkaltainen
+menettely. Eli tähän yhteen lupahakemukseen, yhteen prosessiin ei ketään pakoteta. Tar-
+vittaessa hakija voi valita tuon erillismenettelyn.
+
+Yhteensovittava viranomainen, Luova tai sitten kunnan ympäristönsuojeluviranomai-
+nen, arvioi kussakin hankkeessa niitten muitten mukana olevien viranomaisten kanssa ta-
+voitteellisen käsittelyajan ja antaa hakijalle arvion päätösten antamisajankohdasta. Myös
+tämä tuo ennakoitavuutta lisää. Ja kun sitten menettelyvaiheella on tämmöinen yhteisesti
+sovittu määräaika, niin jokainen viranomainen tietää, mitä häneltä odotetaan tässä proses-
+sin vaiheessa.
+
+Paljon on puhuttu myös siitä, että meillä on tuomioistuimissa paljon valituksia käsitel-
+tävänä ja että samoista asioista valitetaan uudelleen ja uudelleen. Tämä tuo myös sen muu-
+toksen, että kun on yksi lupa, niin silloin on yksi lupa, mistä voidaan valittaa, ei enää erik-
+seen kaikista osasista. Ja tämä myös, uskon, tulee vähentämään valitusten määrää, mutta
+ennen kaikkea tämä helpottaa sitten tuomioistuinten urakkaakin, että asiaan voi kerralla pa-
+neutua kunnolla eikä niin, että sama asia pyörii eri luvan osien myötä useaan otteeseen siel-
+lä pöydällä.
+
+Kun tätä esitystä on pitkään ja hartaasti valmisteltu ja tässä oli laajapohjainen työryhmä,
+niin on merkille pantavaa, että tätä yhden luukun periaatetta kannattivat niin viranomaiset,
+toiminnanharjoittajat, eli mahdolliset luvanhakijat, kuin kansalaisjärjestöt, ympäristöjär-
+jestöt, eli tämä tuo kaiken kaikkiaan hyvin paljon selkeyttä ja sujuvuutta lisää meidän lu-
+vitukseen ja koko siihen käsittelytapaan, miten lupia käsitellään.
+
+Ja toden totta, kun tämä yhdistetään vielä sitten sähköisiin menettelyihin, niin otamme
+ison harppauksen ympäristöllisten lupien käsittelyn sujuvoittamisessa.
+
+Puhemies Paula Risikko: Puhujalistalle.
+
+17.08 Riitta Myller sd: Arvoisa puhemies! Todellakin tämä lakiesitys, jota nyt hallitus
+esittää, on erinomaisen hyvä — silloin kun kyseessä on nimenomaan menettelytapalaki.
+Niin kuin ministeri sanoi, tätä on kannatettu ja tämä on ollut jo pitkään valmistelussa ja pe-
+rustuu Tarastin työryhmän ehdotuksiin. On todellakin hyvä, että kyetään löytämään viran-
+omaisten välistä yhteistyötä silloin, kun lupa-asioita käsitellään, ja päästään sitten niistä
+ketjuttuneista hakemuksista mieluummin rinnakkaisiin hakemuksiin ja niitten käsittelyyn.
+Ei ole tietenkään samantekevää, miten julkinen hallinto palvelee luvanhakijoita, vaan on
+2
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+äärimmäisen tärkeätä, että nämä itse menettelyt ovat sujuvia ja sillä tavalla ymmärrettäviä
+kuin hakija edellyttää.
+
+Sen sijaan tässä yhteydessä en voi olla käsittelemättä sitten tätä Luovaa, joka on uutena
+valvontaviranomaisena tulossa Suomeen. Tässä ongelmana ei ole niinkään menettelytapa
+vaan ne sisällöt, joita tämä Luova luo. Eli kysymys on siitä, miten sitten toteutuu kansa-
+laisten yhdenvertaisuus ja miten otetaan huomioon yleinen etu ympäristölupakysymyksis-
+sä. Ministeri sanoi, että tässä ei ole tarkoitus alentaa ympäristölainsäädäntöä — ei var-
+maankaan. Mutta silloin kun siihen otetaan tämä uusi lupa- ja valvontavirasto Luova ja kun
+sen toimivallasta puuttuu se, että valtion viranomainen voisi valvoa julkista etua, silloin ol-
+laan kyllä siinä tilanteessa, että ympäristöasioissa julkisen edun valvonta jää kansalaisjär-
+jestöille ja kansalaisille, ja tätä emme voi hyväksyä.
+
+17.11 Sinuhe Wallinheimo kok: Arvoisa puhemies! Tiukoille se meni mutta ehti kuiten-
+kin. Näin voisi kuvata tätä yhtä hallituskauden tärkeintä norminpurkuhanketta, joka on tä-
+nään täällä meillä salissa lähetekeskustelussa.
+
+Kyseessä on edellisten vaalien alla monissa paneeleissa käsitelty ympäristölupien yh-
+den luukun malli, joka nopeuttaa erityisesti pienten ja keskisuurten yritysten investointeja
+sekä laskee lupakustannusten hintaa. Kaikki tässä salissa ovat varmasti sitä mieltä, että
+osaavan työvoiman riittävyyden jälkeen liiallinen sääntely ja lupabyrokratia ovat niitä
+asioita, jotka ärsyttävät eniten meidän ahkeria pk-yrittäjiä, ja tässä kritiikissä yrittäjät ovat
+oikeassa.
+
+Lupaprosessit ovat meillä olleet muihin kilpailijamaihin nähden liian hitaita. Keskimää-
+räinen lupien käsittelyaika aveissa on ollut 16 kuukautta, mutta usean vuodenkaan lupapro-
+sessit eivät ole olleet harvinaisuuksia. Samalla näissä jonoissa on ollut kiinni iso määrä in-
+vestointeja ja työpaikkoja. Vuonna 2017 tehdyn tutkimuksen mukaan erinäisissä lupapro-
+sesseissa oli kiinni 3 miljardin euron investoinnit ja 14 000 uutta työpaikkaa. 
+
+Tähän tilanteeseen nyt tällä esityksellä saadaan muutosta. Jatkossa luvanhakija voisi
+hoitaa kaikki ympäristöllisiin lupiin liittyvät asiat yhden asiointipisteen kautta, silloinkin
+kun hanke edellyttää lupia eri ympäristöviranomaisilta. Samaa hanketta koskevat ja yhtä
+aikaa vireille laitetut lupahakemukset käsiteltäisiin samantahtisesti.
+
+Taloudelliset vaikutukset tästä esityksestä ovat merkittävät. Esityksessä arvioidaan, että
+yritysten kustannukset voisivat vähentyä kymmenessä vuodessa jopa 155 miljoonaa eu-
+roa. Näin tapahtunee, koska lupien käsittelyajat lyhenevät, viranomaisneuvonta tehostuu,
+hakemusten valmisteluun käytettävä aika lyhenee ja mahdollisten konsulttipalveluiden tar-
+ve vähenee.
+
+Kiitosta ministerin lisäksi ansaitsee myös yhden luukun lupiin sisällytettyjen lupatyyp-
+pien laajuus. Yhteensovitettavat luvat koskevat sekä kunnallisia että valtiollisia lupia: mu-
+kana ovat Valtion lupa- ja valvontavirasto Luova, Turvallisuus- ja kemikaalivirasto Tukes,
+kunnan ympäristönsuojeluviranomainen ja kunnan rakennuslupaviranomainen.
+
+Arvoisa puhemies! Hallituksen esityksessä myös todetaan, että muutoksella ei ole nega-
+tiivisia ympäristövaikutuksia. Jatkossakin korkea ympäristönsuojelun taso turvataan viran-
+omaisten tiiviimmällä yhteistyöllä. Toki se ei poista seurannan tarvetta.
+
+Näillä saatesanoilla toivotan tälle esitykselle nopeaa mutta perusteellista käsittelyä tässä
+talossa.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+17.14 Marisanna Jarva kesk: Arvoisa puhemies! Käsillä oleva hallituksen esitys on erit-
+täin hyvä esimerkki Sipilän hallituksen toteuttamasta turhien normien purkamisesta. Täs-
+säkin esityksessä on huomioitava se, että nimenomaan ympäristönsuojelullisia asioita ei
+heikennetä. Ja niin kuin aikaisemmissakin puheenvuoroissa todettiin, vaikutukset ympäris-
+töön eivät ole negatiivisia, vaan tässä on nimenomaan tarkoituksena menettelyllisesti hel-
+pottaa toimijoitten haussa olevia lupia ja niitten käsittelyä, edesauttaa lupamenettelyiden
+yhteensovittamista.
+
+Tässä esityksessä on tavoitteena nimenomaan se, että asiakkaan saama neuvonta para-
+nee ja asiointi yksinkertaistuu. Ja kun menettely- ja osallistumisvaiheet, päällekkäiset lu-
+pamenettelyt, keskittyvät, niitä yhdistetään, niitä yhteensovitetaan, niin prosessi on aikaa
+säästävä ja resursseja säästävä sekä viranomaisten kannalta että erityisesti asiakkaan kan-
+nalta. Myös menettelyn kokonaiskesto on ennakoitavampi, ja niin kun tiedetään, näissä on
+ollut paljon haasteita Suomessa, että ei voida aina tietää, miten kauan joku prosessi kestää.
+Erityisen tärkeää on se, että nyt näitä lupapäätöksiä annetaan samanaikaisesti, ne ovat si-
+sällöllisesti riistiriidattomampia. Tavoitteena on ennen kaikkea sujuvoittaa, yhdenmukais-
+taa ja nopeuttaa päätöksentekoa.
+
+Erityisesti on kuitenkin huomioitava, että hakijalla on edelleen se päätösvalta, sovelle-
+taanko yhteensovittamista ja missä lupa-asioissa, ja erillismenettelyt säilyvät edelleen
+vaihtoehtona. Hakijan pyynnöstä yhteensovittaminen voidaan myös keskeyttää näitten lu-
+pamenettelyjen, luvan haun osalta. Yhteensovittava viranomainen arvioi yhteistyössä mui-
+den viranomaisten kanssa yhteensovitettaville lupahakemuksille tavoitteellisen käsittely-
+ajan ja antaa arvion päätösten antamisajankohdasta. Tosiaan tietysti sähköinen asiointijär-
+jestelmä on tässä se edellytys, ja on hyvä, että menettelyt sähköistyvät myös tältä osin.
+
+On myös hyvä huomata, että muitakin lupamenettelyn sujuvoittamisia on jo tällä vaali-
+kaudella tapahtunut ympäristöasioiden osalta. Vuonna 2017 ympäristönsuojelulain muu-
+toksella siirtyi noin 200 uutta toimintoa rekisteröintimenettelyyn ja vajaa 200 toimintoa
+poistui kokonaan luvanvaraisuudesta. Ja syksyllä 2018 eduskunta hyväksyi ympäristölli-
+siin lupiin liittyvän uuden ilmoitusmenettelyn, johon siirtyvät muun muassa tietynkokoiset
+eläinsuojat, eräät elintarvikkeiden ja rehujen valmistukseen liittyvät toiminnot sekä saha-
+laitokset.
+
+Tämä edustaja kiittää näistä normien purkua olennaisesti vauhdittaneista esityksistä ja
+päätöksistä.
+
+17.17 Eeva-Maria Maijala kesk: Arvoisa puhemies! Kiitos erittäin paljon tästä esityk-
+sestä. Tätä esitystä on todellakin odotettu, ja minua alkoi kohta pöljättämään, että aika lop-
+puupi kesken, että eikö tämä tulekaan. Onneksi tämä tuli, sillä tämä kyseinen lakiesitys,
+jatkossa laki, tulee varmasti olemaan yksi niitä asioita, mikä tullaan tämän vaalikauden jäl-
+keen muistamaan todella hyvällä, että se oli tämä hallitus, joka sai vihdoin ja viimein tä-
+män ympäristöpuolen lupabyrokratian järkevöitettyä todella järkeväksi kokonaisuudeksi.
+
+Tällä hetkellähän ympäristöpuolella on tilanne, että me joudumme hakemaan hyvin
+monta eri lupaa eikä aina ei ole käsitystä siitä, mikä lupavaihe on missäkin hommassa tällä
+hetkellä menossa ja missä on hakemus, missä ovat yva-hommat, missä on mikäkin antanut
+lausunnon, mistä on kukakin antanut lausunnon, onko se antanut lausunnon jo tästä ja tästä
+ja tuosta ja tästä. Tämä on ollut kyllä niin soppaa ja sotkua, mutta tällä kokonaisuudella,
+tällä uudella esityksellä, me saamme selkeytettyä hyvin paljon suomalaista hallintotoimin-
+taa.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+Itse olen toiminut ympäristöhallinnossa töissä ja todennut jo aikaisemmin, että kunpa
+olisi tämmöinen esitys. Nyt minä voin olla todella tyytyväinen. Tämä esitys on nytten saa-
+tu eteenpäin. Tästä kyseisestä esityksestä tulevat kiittämään jatkossa hyvin paljon viran-
+omaiset ja ennen kaikkea yrittäjät. Ainoat, jotka tästä joutuvat kärsimään, ovat varmasti
+asianajajat, koska jatkossa meillä tulee olemaan yksittäisiä tapauksia yksittäisinä asioina
+kokonaisuus kerrallaan hoidettavana. Ei hoideta kymmentä eri valitusta, vaan meillä on
+esimerkiksi ainoastaan yksi valitus, jota hoidetaan yhtenä asiana eteenpäin.
+
+Luova tuli tässä esille. Jatkossa, kun me nyt sitten saamme tämän maakuntahallintouu-
+distuksen myöskin toimimaan, yhtenä olennaisena asiana tässä kokonaisuudessa on tämä
+Luova. Ja siinähän myöskin tilanne on se, että me järkevöitämme ja selkeytämme sitä, mitä
+nämä ympäristölupa-asiat ovat, miten ne hoidetaan, ketkä keskittyvät vain siihen työhön.
+Elikkä me saamme näitten esitysten ansiosta aikaiseksi sen, että keskitytään itse asian hoi-
+tamiseen eikä byrokratian pyörittämiseen.
+
+17.19 Jari Myllykoski vas: Arvoisa rouva puhemies! Tässä joutuu katsomaan ministeriä
+syvälle silmiin, että voitte taas johdattaa edustaja Myllykosken oikealle polulle. Kuulim-
+me tässä edellä kaksi sellaista puheenvuoroa, että hätkähdin.
+
+Eihän tämä nyt kuitenkaan tarkoita niitä, joista puhutaan niin sanottuina päällekkäisyyk-
+sinä? Eli edelleen arvioidaan ympäristövaikutuksia, meillä on edelleen avi ja ely, jotka täl-
+lä hetkellä hoitavat näitä asioita. Meillä ei ole vielä Luovaa, jossa tämä valitusoikeusme-
+nettely on tullut korostetusti esille. Tämähän ei poista valituksia vain yhteen valitukseen,
+tämä ei todellakaan tule poistamaan sitä, jos kansalaiset valittavat tietyistä luvista. Tällä ei
+ole mitään tekemistä sen kanssa, että kansalaisjärjestöillä ja yksittäisellä kansalaisella on
+oikeus tehdä valituksia. Kuten tässä edellä kuultiin, hieman on semmoista väärää todista-
+mista tai sitten asiaan perehtymättömyyttä. Se lainsäädäntö, mikä on täällä taustalla, on
+edelleen olemassa, ja sitä noudatetaan.
+
+Tervehdin itsekin tätä lainsäädäntöesitystä erityisen positiivisesti, että on se yhden luu-
+kun periaate. Se on ollut erityisesti yritysten resurssien hukkaamista ja pompottamista ja
+juoksuttamista. Mutta tässäkin kohtaa ministerin edelliseen lähetekeskustelupuheenvuo-
+roonkin viitaten on pakko kysyä, että ovathan nämä asiat, kun näitä tehdään, kuitenkin siel-
+lä ilmoitustauluilla, niin että kansalaisilla on mahdollisuus katsoa, että tuleeko se soranot-
+toalue nyt minun tonttiani lähelle, niin että ei tarvitse mennä kirjastoon katsomaan, että on-
+kohan siellä mahdollisesti nyt minua koskevia hankkeita tai lupa-asioita meneillään, vaan
+että edelleenkin kansalaisilla on väylä, mistä nämä toimet, mihinkä lupia haetaan, jos ne
+koskettavat naapuria ja niin edelleen, tulevat tiedoksi jokaiselle, jota lupahanke erityisesti
+koskee, jotta on edelleen mahdollista tämä valitusmenettely, joka on meillä jokaisella kan-
+salaisella, ja jotta tietyissä lainsäädännöissä, kuten kaivoslupahankkeissa, on kansallisilla
+sinitiaisliitoilla mahdollisuus tehdä sitten valituksia ja kanteita lupahakemusta vastaan.
+
+Toivon, että ministeri voisi taas lohduttaa edustaja Myllykoskea, että kyllä tämä nyt näin
+menee.
+
+17.22 Arja Juvonen ps: Arvoisa rouva puhemies! Hyvä ministeri! Täällä on käytetty hy-
+viä ja jopa ylistäviä puheenvuoroja. Minulla itselläni on aina tapana lukea täältä hallituk-
+sen esityksestä asian valmistelu, ja kiinnitin huomiota siihen, että täällä myös kritiikkiä esi-
+tetään.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+Ymmärrän toki sen, että hallituksella on menossa byrokratian purkutalkoot. Täällä kui-
+tenkin osa lausunnonantajista suhtautui epäilevästi lupaprosessin sujuvoittamiseen. Muun
+muassa Vaasan hallinto-oikeuden mukaan esitys on omiaan pirstaloittamaan järjestelmää
+ja vaikeuttamaan sen ymmärtämistä. Kuntaliitto ry, Espoon kaupunki ja Etelä-Suomen
+aluehallintovirasto, muun muassa, ovat myös pitäneet mahdollisena, että esitys pitkittää
+maankäyttö- ja rakennuslain mukaisten lupien käsittelyaikaa entisestään. Kysyisinkin nyt
+sitten teiltä, ministeri: mitä olette mieltä näistä toteamuksista? Täällä on myös muun muas-
+sa Suomen luonnonsuojeluliiton Uudenmaan piiri todennut, että esitys siirtää yleisen edun
+valvontaa järjestöille, mikä lisää niiden työtä ja kustannuksia. Kysyisinkin: riittääkö sinne
+sitten resursseja ja tarvittaessa apua tähän hommaan?
+
+Aina tätä kritiikkiäkin lausunnonantajilta tulee, ja nämä varmasti otatte huomioon ja
+olette ottaneet huomioon, mutta vastaisuuden varalta kysyn, miten näihin suhtaudutaan.
+
+17.24 Sinuhe Wallinheimo kok: Arvoisa puhemies! Kyllä minä annan ministerille kiitos-
+ta siitä, että hänen hallinnonalallaan on ympäristölupia purettu oikein urakalla. Taidettiin
+lähteä noin 15 000:n kieppeiltä ja nyt ollaan jo selkeästi alle 10 000:n, joten kiitos siitä.
+
+Hiukan problemaattista on se, että tietenkin Luovakin ja tämä yhden luukun periaate on
+sosiaali- ja terveysuudistuksen ja maku-uudistuksen takana, joten jos perustuslakivalio-
+kunnassa käy jotenkin ja tämä ei etene, niin onko tämä sitten myös Luovan loppu? On sel-
+vää, että me tarvitsemme tällaisen yhden luukun periaatteen. Voiko sen silti digitaalisesti
+järjestää vaikka sivulla www.yhdenluukunperiaate.fi? Tämä olisi se ensimmäinen kysy-
+mys.
+
+Ja toinen kysymys oikeastaan: Tämän päässähän varmasti on sitten se, että me joskus
+pystyisimme antamaan palvelulupauksen yrittäjälle, että yhdestä luukusta laitetaan hake-
+mukset sisään ja annetaan palvelulupaus, että sen ajan puitteissa hän saisi sitten ruveta esi-
+merkiksi rakentamaan siinä tapauksessa, että mitään huomioita ei tule. Onko tämä se tie-
+kartta, jonka päässä mahdollisesti tulisi sitten se palvelulupaus myös?
+
+17.25 Katja Hänninen vas: Arvoisa rouva puhemies! Itsekin kyllä kannatan sitä, että tur-
+haa byrokratiaa ja päällekkäisyyksiä puretaan, ja äkkiseltään ajattelin, että kyllähän tässä
+laissa ja esityksessä on kysymys siitä, että helpotetaan ja yksinkertaistetaan lupamenette-
+lyä. Mutta kuten edustaja Juvonen omassa puheenvuorossaan otti esille, tietysti myös pitää
+muistaa, että meillä on hyvin monimutkaisia asioita vireillä. Esimerkiksi kaivoslain suh-
+teen, valtauksien suhteen ja perustamisten suhteen, tietysti lupamenettely on erittäin tark-
+ka, ja sitä säätelevät toki monet muutkin lait ja näin. Kyllähän siinä tietysti ihmisten, kun-
+talaisten, asukkaiden, kansalaisten, vaikutusmahdollisuudet täytyy turvata myös jatkossa.
+
+Ja sitten juuri on tämä ajatus siitä, että vaikka yksinkertaistetaan, niin tuleeko se sitten
+kovinkaan yksinkertaiseksi, jos se poikii niitä valituksia, kanteita, enemmässä määrin.
+Elikkä olen monta kertaa kaupunginvaltuustossa todennut, että kun yva-selvitykset teh-
+dään huolellisesti ja lupamenettely on toisaalta tarpeeksi pitkä mutta monivaiheinen ja va-
+rataan yleisötilaisuuksiin ja kaikkeen vaikuttamiseen aikaa, niin se myös toisaalta sitä tur-
+haa valittamista sulkee pois. Elikkä kun ovat vaikuttamismahdollisuudet sen prosessin ai-
+kana moninaiset, niin se myös toisaalta helpottaa sitä meidän päätösprosessiamme ja toi-
+saalta on sitä avoimuutta ja johdonmukaisuutta.
+
+Olisinkin ministeriltä kysynyt: vaikka toisaalta tämä lakiesitys on todellakin tervetullut
+ja me kaikki ymmärrämme sen, että yritysten tekemiä investointipäätöksiä ja aloitteita ku-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+kaan ei ainakaan tahallaan halua jarruttaa, niin toisaalta näillä luvilla ja näillä prosesseilla,
+yvalla, on aina oma merkityksensä ja tarkoituksensa, eli eihän tässä ole vaarana se, että yri-
+tetään niin sanotusti nopeuttaa väärällä tavalla tätä lupamenettelyä? Elikkä kyllähän jat-
+kossakin edelleen nämä tarvittavat selvitykset, tutkimukset ja kuulemiset järjestetään.
+
+17.27 Riitta Myller sd: Arvoisa puhemies! Kun kuuntelin tässä tätä keskustelua, niin mi-
+nullekin tuli vähän nyt sellainen tunne, että näinköhän kaikki edustajat kuulivat sen, mitä
+ministeri sanoi eli että tässä on kysymyksessä menettelytapalaki. Eli muutetaan menettely-
+jä, ei lupaehtoja, ei luvan perusteena olevaa lainsäädäntöä, eli ei heikennetä ympäristölain-
+säädäntöä eikä sitä kautta vähemmän välitetä ympäristön tilasta. Tästähän ei tietenkään saa
+olla kysymys. Ja aivan kuten ministeri sanoi, nimenomaan ympäristönsuojelun tasoa ei olla
+tässä heikentämässä, ja tämän haluaisin nyt oikein alleviivata, kun tätä keskustelua on täs-
+sä kuultu. Mutta siitähän emme pääse mihinkään, että kun tätä sujuvoittamiskeskustelua on
+käyty — lupajärjestelmiä on jo aikaisemmin purettu, tässä sitä ei tehdä — niin sillä on hei-
+kennetty julkisen tahon mahdollisuutta sitten varmistaa ympäristönsuojelun mahdollisim-
+man hyvä taso.
+
+Nyt kun tämä Luova ollaan perustamassa, jos tämä maakuntauudistus syntyy, niin tässä
+täytyy kyllä todella olla tarkkana sen suhteen — kun täällä siteerattiin Luonnonsuojelulii-
+ton näkemyksiä tästä asiasta — että myöskin julkisella puolella, kuten tällä hetkellä maa-
+kunnallisilla elyillä on ollut, on mahdollisuus tehdä laillisuusperusteisia valituksia, niin
+että se ei jää pelkästään kansalaisten ja kansalaisjärjestöjen tehtäväksi. Kuitenkin on tie-
+dossa se, että sillä, että elyillä on ollut mahdollisuus tehdä näitä laillisuusperusteisia, ylei-
+seen etuun perustuvia valituksia, on ollut ennalta ehkäisevä merkitys ja myöskin sitten nii-
+hin prosesseihin liittyvä merkitys. Nämä valituksethan ovat menestyneet äärimmäisen hy-
+vin, eli niitä ei ole tehty turhan päiten.
+
+17.30 Timo Heinonen kok: Arvoisa rouva puhemies! Haluan kiittää ministeri Tiilikaista
+hyvästä työstä. Onneksi kausi edelleen jatkuu, ja vielä saadaan asioita aikaan, mutta teidän
+ministeriaikananne on kyllä tapahtunut paljon, ja niin kuin edustaja Wallinheimo toi esille,
+näitä lupamääriä ja tätä sääntelyä on pystytty purkamaan merkittävästi. Sellaista turhaa by-
+rokratiaa on purettu ja on annettu lupa tehdä, annettu tilaa kasvulle. Olen melkein vakuut-
+tunut, että teidän ministerisalkustanne — kun otetaan vielä rakentaminen siihen mukaan —
+kyllä aika monet näistä työpaikoista, mitä Suomeen on tullut, ovat tulleet.
+
+Muistan, kuinka aiemmilla kausilla on keskustelua käyty, että meillä on hirveän iso
+määrä erilaisia investointeja kiinni lupamenettelyputkissa eri vaiheissa: niin, että se lupa-
+menettely on lähtökohtaisesti pitkä, tai sitten niin, että siellä on ketjutettuja eri vaiheisiin
+tulleita lukuisia valituksia. Mielestäni tässäkin on otettu ihan hyvää etenemistä. Muistan,
+kuinka Äänekosken biotuotetehtaaseen liittyen oli yksi tällainen uraauurtava lupamenette-
+ly — käytettiinkö siinä ohituskaista-ajattelua vai minkälaista — mutta ennen muutahan se
+tarkoitti pyöreää pöytää, sitä, että kaikki otettiin samaan pöytään etsimään niitä ratkaisuja.
+Eli jokainen virkamies ei etsinyt omassa poterossaan ongelmia, vaan kaikki etsivät yhtei-
+sessä pöydässä ratkaisuja. Tämäntyyppistä ajattelua tämä Luovan tulevaisuus ja yhden luu-
+kun periaate minun mielestäni myös tarvitsee, että kun ihminen toimittaa ne paperit kerran
+sinne, ne menevät sitä kautta kaikille, ketkä niitä tarvitsevat ja kenelle päätöksentekoa kuu-
+luu, mutta tärkeää on, että he myös keskustelevat keskenään ja etsivät niitä ratkaisuja. Us-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+kon näin, että tästä Äänekosken esimerkistä on paljon opittavaa kaikille eri tasoille, niin
+pienempiin kuin suurempiinkin hankkeisiin.
+
+Itse uskon siihen, että tulevaisuudessa tämä kaiken kaikkiaan tulee menemään siihen
+suuntaan, että päätökset pitää saada nopeammin. Se koskee esimerkiksi kaavoitusta tule-
+vaisuudessa. Olemme esittäneet kokoomuksesta esimerkiksi rullaavan kaavoituksen käyt-
+töönottoa Suomessa. Nyt se, että nämä muutokset ovat niin nopeita, osoittaa hyvin sen, että
+ne alueet, joita nyt on kaavoitettu esimerkiksi omakotiasumiseen ja -rakentamiseen, näyt-
+tävätkin olevan vääränlaiseen kaavoitukseen tehtyjä, ja tarvittaisiin nopeita muutoksia. Sil-
+loin on hyvä, että kaavakin pystyisi elämään joustavammin.
+
+Arvoisa ministeri Tiilikainen, kiitos hyvästä työstä.
+
+17.32 Eeva-Maria Maijala kesk: Arvoisa puhemies! Tämä hallituksen esitys on todella-
+kin valtavan iso kokonaisuus. Se on ollut virkamiehillä aikamoista tilkkutäkin kokoamista,
+kun he ovat käyneet läpi kaikki nämä eri lait ja katsoneet, miten näistä saadaan yksi koko-
+naisuus aikaiseksi. Se, että me tulemme ympäristövaliokunnassa tätä asiaa nyt sitten lähi-
+kuukausina käsittelemään, tarkoittaa sitä, että meillä on varmasti paljon kuultavia siellä ja
+monta asiantuntijaa paikalla. Ja varmasti mekin joudumme sitten tarkistelemaan ja tarkas-
+tamaan, että kaikki asiat ovat tulleet ministeriön valmistelussa myöskin huomioiduiksi.
+Elikkä tarvitaan varmasti oppositionkin hyvin tarkkoja silmiä ja katseita siihen, että otam-
+me kaikki asiat huomioon.
+
+Luova-ratkaisu on tullut tässä keskustelussa esille. Minä itse odotan tätä Luovaa todel-
+lakin paljon, koska se myöskin on niin paljon selkeyttämässä tätä samaa kokonaisuutta
+eteenpäin.
+
+Vielä siitä Luovasta, kun porukat ovat huolissaan yleisen edun valvonnasta: Olisiko
+yleisen edun valvontaa varten pitänyt olla erikseen toinen elin? Minun mielestäni ei mis-
+sään nimessä, koska tämän jälkeen me ymmärrämme sen, että kaikkien, jotka tekevät Luo-
+vassa päätöksiä, on huolehdittava myös yleisen edun valvonnasta. Ei ole minkään järjestön
+velvollisuus hoitaa joitakin asioita, ei ole minkään yksittäisen henkilön velvollisuus hoitaa
+näitä asioita, vaan kyllä ne ovat virkamiehet, jotka tekevät näitä päätöksiä. Heidän on to-
+della keskityttävä asiaan kokonaisuutena, otettava siinä kaikessa huomioon ihmisten edut,
+ympäristön asiat, yrittäjien asiat ja kaikki eri olosuhteet. Toivon mukaan, kun siellä Luo-
+vassa meillä on nyt sitten enempi väkeä yhdessä porukalla tekemässä päätöksiä, saamme
+myöskin parempia tuloksia aikaiseksi.
+
+Puhemies Paula Risikko: Kiitoksia. — Haluaako ministeri vastata? Riittääkö 3 minuut-
+tia? [Kimmo Tiilikainen: Riittää!]
+
+17.34 Asunto-, energia- ja ympäristöministeri Kimmo Tiilikainen: Arvoisa puhe-
+mies! Tässä kohtaa, kuunneltuani kaiken tämän palautteen lähetekeskustelussa, on syytä
+niitä kiitoksia, joita suuntaani osoititte, osoittaa eteenpäin, eli kyllä tämä on ympäristömi-
+nisteriön virkamiehiltä loistavaa työtä — se on kestänyt pitkään — mutta myös kaikilta
+niiltä tahoilta, jotka osallistuivat siihen valmistelevaan työryhmään. Vaikka lausunnoista
+löytyy tietysti aina, että joku kohta voisi olla paremmin, niin kyllä se työryhmän valmiste-
+lu on aikamoista hyrinää ollut tämän lopputuloksen suhteen.
+
+Lyhyitä kommentteja: Edustaja Myllerille: olette aivan oikeassa, ympäristönsuojelun ta-
+soa ei heikennetä tällä lainsäädännöllä. Samalla voin myös lohduttaa ystävääni edustaja
+8
+
+
+
+Pöytäkirjan asiakohta PTK 125/2018 vp
+Myllykoskea, että vetoava katseenne ei mennyt hukkaan, eli kun tässä on yhteen luukkuun
+koottu erilaiset luvat, niin edelleen lupa koostuu osasista, joissa katsotaan aina se kukin
+lainsäädäntö ja sen edellyttämät vaatimukset. Mutta nämä osaset kootaan yhdeksi lupapää-
+tökseksi yhdessä prosessissa, jossa ei tule päällekkäisyyttä, ei samojen tietojen toistamista
+viranomainen toisensa jälkeen sille hakijalle. Tästä yhdestä luvasta on sitten todellakin se
+yksi mahdollisuus valittaa, mutta kaikki valitusoikeudet pysyvät aivan sellaisina niin kuin
+ne lainsäädännössä ovat. Edustaja Hänniselle vielä, että ei, ei tässä väärällä tavalla sujuvoi-
+teta, vaan aivan oikealla tavalla sujuvoitetaan.
+
+Muutama kysymys.
+Edustaja Wallinheimo kysyi tätä, että entäpä jos sitten tämä maku-uudistus ei toteutuisi
+
+ja Luova ei syntyisi. Nythän tämä lakiesitys tulee voimaan vasta 2021, kun Luovan pitäisi
+aloittaa. Tällaisenaan tätä ei voi ihan nykyiseen avi- ja ely-maailmaan sovittaa, vaan sitten
+täytyisi tehdä jonkin verran viilauksia ja muutoksia, ja ihan kaikkea sitä, mitä nyt kuvasin
+tässä, että voidaan tähän yhteen luukkuun laittaa, ei pystyttäisi ilman Luovaa tekemään. Eli
+tuo uudistus jäisi sillä tavalla torsoksi. Se voitaisiin toki kirjoittaa sitten uudelleen nykyistä
+viranomaistoimintaa vastaavaksi.
+
+Useampikin edustaja kertasi, mitä luvituksessa on kaiken kaikkiaan tehty. Edustaja Hei-
+nosella oli ansiokas katsaus tähän, että todellakin on luvitettavien kohteiden määrää vähen-
+netty. Sitten osa luvista on siirretty ilmoitusmenettelyyn, kuten täällä toiset edustajat tote-
+sivat. Nyt sitten jäljelle jäävien lupien menettelytavan sujuvoittamisessa kaikki johtaa
+Wallinheimonkin peräänkuuluttamaan asioitten nopeampaan käsittelyyn, jotta se luvitus-
+jonossa olevien hankkeitten suma pienenee ja asialliset hankkeet pääsevät viranomaisten
+asettamien ehtojen mukaan toteutusvaiheeseen. Sitähän tällä haetaan. Investointeja saa-
+daan liikkeelle ja niille järkevät ehdot.
+
+Vielä tästä Luovasta vain sen verran, että oikeastaan se nimi jo kertoo kaiken: lupa- ja
+valvontavirasto. Eli kaikki ne henkilöt, jotka tällä hetkellä työskentelevät aveissa ja elyissä
+ympäristöllisten asioitten parissa, tulevat edelleenkin jatkamaan sitä omaa valvontatoimin-
+taansa olemassa olevien lupien suhteen, ja uusia lupia myöntää sitten Luova nykyisten
+avien sijaan. Ja siellä kaikkien henkilöitten velvollisuuksiin kuuluu jatkossakin, kunhan
+eduskunta lain viimeistelee, yleisen edun pitäminen kirkkaana mielessä. — Kiitoksia, pu-
+hemies.
+
+Keskustelu päättyi.
+
+Asia lähetettiin ympäristövaliokuntaan, jolle talousvaliokunnan on annettava lausunto.
+9
+
+

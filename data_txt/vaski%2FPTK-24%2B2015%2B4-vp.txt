@@ -1,0 +1,900 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM4F4.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+Pöytäkirjan asiakohta 
+
+PTK 24/2015 vp
+
+Täysistunto
+
+Keskiviikko 24.6.2015 klo 14.00—19.22
+
+4. Eduskunnan pankkivaltuuston kertomus 2014 
+Kertomus K 14/2015 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjes-
+tyksen 4. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokuntaan. Meille
+asian esittelee edustaja Zyskowicz, olkaa hyvä.
+
+Keskustelu
+
+17.45 Ben Zyskowicz kok (esittelypuheenvuoro): Arvoisa rouva puhemies! Arvoisat
+kansanedustajat! Käsittelyssä on nyt Pankkivaltuuston kertomus vuodelta 2014. Kuten vii-
+me vuonnakin, Suomen Pankin riskejä käsitellään kootusti omassa erillisessä alaluvus-
+saan. Samoin Pankkivaltuuston käsittelemät asiat ja sen arviot Suomen Pankin ja Finans-
+sivalvonnan toimista löytyvät omista alaluvuistansa.
+
+Kertomus keskittyy normaaliin tapaan kertomusvuoden tapahtumiin, ja sen tiedot perus-
+tuvat laadintavaiheessa keväällä 2015 käytettävissä olleisiin tietoihin. Tämänvuotisessa
+kertomuksessa otetaan huomioon eduskunnan talousvaliokunnan mietinnössä tehty ehdo-
+tus, jonka mukaan Euroopan keskuspankin roolit yhtäältä rahapolitiikan toimijana ja toi-
+saalta rahoitussektorin valvojana olisi hyvä erottaa toisistaan. Tämä on johtanut muutok-
+siin kertomuksen alaluvuissa 2.2 ja 7.3.
+
+Aiempien vuosien kehitykseen verrattuna euroalueen talousnäkymät vaikuttivat kerto-
+musvuoden 2014 alkupuolella melko suotuisilta. Tuolloin arvioitiin, että euroalueen ta-
+lous elpyy, vaikka kasvu olikin yhä hidasta ja epävarmaa. Syksyä kohden näkymät kuiten-
+kin heikkenivät jälleen. Venäjän aiheuttama ja yhä jatkuva Ukrainan kriisi oli yksi epävar-
+muuden lähteistä.
+
+Vuonna 2013 aloittamansa ennakoivan viestinnän mukaisesti EKP:n neuvosto harjoitti
+kertomusvuoden 2014 kuluessa kevyttä rahapolitiikkaa. EKP:n neuvosto päätti kertomus-
+vuoden kesä- ja syyskuun aikana rahapolitiikan keventämisestä, likviditeettiä lisäävistä
+toimista sekä toimista, joilla tehostettiin rahapolitiikan välittymistä reaalitalouteen. Näi-
+den toimien taustalla olivat euroalueen heikko talouskehitys ja inflaation hidastuminen.
+Toimilla kevennettiin rahapolitiikkaa edelleen ja tuettiin ennakoivaa viestintää. Niiden
+avulla haluttiin varmistaa, että rahoitusolojen keventyminen välittyy reaalitalouteen. Euro-
+alueella rahoituksesta merkittävä osa kulkee pankkien kautta, joten on tärkeää, että raha-
+politiikan kevennys heijastuu lopulta myös pankkien antolainauskorkoihin. Kertomusvuo-
+den joulukuussa EKP:n neuvosto päätti, että mahdollisten lisätoimien tarvetta arvioidaan
+vuoden 2015 alkupuolella. Sittemmin kertomusvuoden jo päätyttyä EKP ilmoittikin, että
+se laajentaa omaisuuserien ostoja.
+ Tarkistettu
+3.1
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+Rouva puhemies! Pankkiunionin muotoutuminen jatkui kertomusvuonna. Osana sitä
+EKP toteutti kertomusvuonna yhteistyössä kansallisten viranomaisten kanssa pankkien
+niin sanotun kattavan arvioinnin. Kattava arviointi koostui pankkien saamisten laadun yh-
+denmukaisesti toteutetusta arvioinnista sekä stressitestistä, jolla arvioitiin pankkien vaka-
+varaisuuden kehitystä epäsuotuisan talouskehityksen oloissa. Stressitestin avulla voidaan
+arvioida pankkien kykyä selviytyä poikkeuksellisista tilanteista.
+
+Kattava arviointi kohdistui euroalueen 130 suurimpaan pankkiin. Sen tavoitteena oli
+saada yhteismitallinen kuva euroalueen pankkien tilanteesta, taseiden laadusta ja tappion-
+sietokyvystä ennen valvontavastuun siirtymistä EKP:lle. Kattavan arvioinnin tulokset val-
+mistuivat lokakuun 2014 lopulla. Tuloksien mukaan suuri osa pankeista selvitti kattavan
+arvioinnin hyvin. Kattavassa arvioinnissa mukana olleiden suomalaispankkien — Nordea
+Pankki Suomi -konsernin, OP-Pohjola-ryhmän ja Danske Bank -konsernin — vakavarai-
+suus ylitti edellytetyt vähimmäistasot selvästi.
+
+Pankkien kattavan arvioinnin ja stressitestien jälkeen arvioitavina olleiden pankkien
+valvonta siirtyi marraskuussa 2014 yhteiselle valvontamekanismille. Pankkiunioniin kuu-
+luvien vähemmän merkittävien pankkien suorasta valvonnasta vastaavat edelleen kansal-
+liset valvojat. EKP kuitenkin huolehtii siitä, että valvonta perustuu koko pankkiunionissa
+yhtenäisiin käytäntöihin.
+
+Yhteistä pankkien kriisiratkaisumekanismia koskeva Euroopan parlamentin ja EU-neu-
+voston asetus tuli voimaan elokuussa 14. Yhteinen kriisinratkaisumekanismi aloittaa toi-
+mintansa täydessä laajuudessaan ensi vuoden alussa. Yhteinen kriisinratkaisumekanismi
+vastaa tulevaisuudessa pankkiunioniin kuuluvien maiden kaikkien pankkien kriisinratkai-
+susta.
+
+Kriisinratkaisumekanismin ensisijaisena tavoitteena on tehdä mahdolliseksi se, että va-
+kaviin ongelmiin ajautuvien pankkien toiminta voidaan uudelleenjärjestellä hallitusti ja
+nopeasti. Tavoite on, että veronmaksajille koituvat kustannukset ja reaalitaloudelle aiheu-
+tuvat haitat jäisivät mahdollisimman pieniksi. Pankkien ongelmista vastaisivat ensisijai-
+sesti niiden omistajat, velkojat ja suurrahoittajat, kuten oikein on. Pyrkimyksenä on lopet-
+taa se sietämätön tilanne, että pankkien voitot ovat yksityisiä mutta tappiot yhteisiä.
+
+Arvoisa rouva puhemies! Luulenpa, että tätä esittelypuheenvuoroa ei voi tänään käyttää
+mainitsematta Kreikkaa. Mitään kattavaa yhteenvetoa tässä ei ole mahdollista eikä tarkoi-
+tuksenmukaista tehdä. Totean vain, että Kreikan osalta tilanne on äärimmäisen akuutti eli
+juuri tälläkin hetkellä, ilmeisesti ihan sananmukaisesti, euromaiden valtiovarainministerit
+ovat asian tiimoilta koolla. Ylivelkaantunutta Kreikkaa on tuettu, lainoitettu ja rahoitettu
+useaa kautta. Kriisin ratkaisun avaimet ovat viime kädessä kreikkalaisilla itsellään. Kuten
+olen useasti todennut, lähtökohta ei voi olla se, että jokin maa voisi jatkuvasti vyöryttää
+vastuuta omista veloistaan muille. Sanon suoraan, että henkilökohtaisesti minun on vaikea-
+ta ymmärtää kreikkalaisten ajattelua tässä asiassa.
+
+Katsoin parisen päivää sitten joltakin englantilaiselta televisiokanavalta keskustelua,
+jossa kreikkalainen osanottaja sanoi, että hänen eläkkeellä oleva ja koko ikänsä ahkerasti
+työtä tehnyt ja veroja maksanut opettajaäitinsä on syytön Kreikan nykyisiin talousongel-
+miin. Näin asia varmasti onkin. Mutta toisaalta: eikö suomalainen tai saksalainen tai hol-
+lantilainen eläkeläinen tai yleensäkin veronmaksaja ole vielä vähemmän syyllinen Krei-
+kan nykyongelmiin? Millä ihmeen logiikalla Kreikan velkojen maksaminen kuuluisi heil-
+le? Ei minun mielestäni millään.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+Kreikka on nyt konkreettinen esimerkki siitä, miksi Suomen Pankin vakavaraisuudesta
+ja riskipuskureista on tärkeää pitää huolta. Euroopan keskuspankkijärjestelmän osana Suo-
+men Pankilla on laskennallisia taloudellisia osuuksia Kreikan veloissa. Pankin saataville
+on vakuudet, ja turvana ovat myös Kreikan keskuspankin ja Euroopan keskuspankin omat
+puskurit. Jos kuitenkin pahin mahdollinen vaihtoehto, se äärivaihtoehto, halutaan yksin-
+kertaistetusti esittää, voidaan sanoa, että Suomen Pankin eurojärjestelmän pääoma-avai-
+men mukainen laskennallinen osuus Kreikassa on tällä hetkellä runsaat 2 miljardia euroa.
+Toisaalta on heti perään todettava, että mikäli tällainen teoreettinen tulema olisi toteutuak-
+seen Euroopassa, olisi silloin paljon suurempiakin murheita käsillä kuin Kreikan maksu-
+kyvyttömyys.
+
+Pankkivaltuusto on seurannut säännöllisesti Suomen Pankin riskiprofiilin ja taseen ke-
+hitystä. Pankkivaltuuston näkemys on, että Suomen Pankin vakavaraisuus oli kertomus-
+vuoden lopulla riittävä kattamaan pankin tehtävien hoitamisesta johtuvat riskit ja se on sitä
+edelleen.
+
+Arvoisa rouva puhemies! Aivan lopuksi totean, että Suomen Pankin voitto kertomus-
+vuodelta 2014 oli hieman yli 150 miljoonaa euroa. Pankkivaltuusto päätti keväällä, että
+voitosta 12,6 miljoonaa euroa käytetään Suomen Pankin vararahaston kartuttamiseen.
+Loppuosa eli noin 137,5 miljoonaa euroa siirrettiin valtion loputtomiin tarpeisiin.
+
+17.54 Olavi Ala-Nissilä kesk: Arvoisa rouva puhemies! Tässä entinen Pankkivaltuuston
+puheenjohtaja, nykyinen jäsen, edustaja Zyskowicz käytti hyvän puheenvuoron. Itsekin
+olin Pankkivaltuuston puheenjohtajana 2000-luvun alkupuolella, jolloin edustaja Heinä-
+luoma oli varapuheenjohtajana. Muistan, kun silloin valtiovarainministeri ja ministeri Wi-
+deroos (Eero Heinäluoma: Toinen valtiovarainministeri!) — toinen valtiovarainministeri
+Wideroos — ja hallituskin ajoivat sitä, että Suomen Pankin pääomia pitää leikata siihen
+valtion pohjattomaan kassaan, koska ei ole näköpiirissä enää, että tulee suuria tarpeita fi-
+nanssikriisin johdosta. Silloin se onnistuttiin torjumaan, ja se oli sinällään jo merkillinen
+yrityskin, ja tänään nähdään, että Suomen Pankki tarvitsee todella ne pääomansa, mitkä sil-
+lä on.
+
+Ihan lyhyesti muutama kommentti. Viime viikolla Euroopan tuomioistuin antoi päätök-
+sensä koskien Euroopan keskuspankin roolia, sitä, onko se ylittänyt toimivaltansa keskus-
+pankkirahoituksessa. Tämä asia oli tullut sinne Saksan perustuslakituomioistuimen toi-
+mesta lausuntopyyntönä, kun oli tehty monia kanteluita Saksassa asian johdosta. Euroo-
+pan tuomioistuin totesi, että valtion velkakirjan osto jälkimarkkinoilla OMT-ohjelman mu-
+kaisin ehdoin ei ole kiellettyä julkisen sektorin keskuspankkirahoitusta ja että sillä ei myös-
+kään kierretä keskuspankkirahoituksen kieltoa, koska ohjelma on niin tiukan ehdollinen ja
+siinä on vähimmäisrajat liikkeellelaskun ja ostojen välillä ja niin edelleen. Tämä päätös on
+tärkeä päätös, ja minusta etukäteen ajatellen ei ollut täysin selvää, että tämä tulkinta on näin
+selkeä.
+
+Arvoisa puhemies! Euroopan keskuspankin roolista vähän laajemmin: Edustaja Zysko-
+wicz sanoi, että rahapolitiikka on ollut kevyttä. Se on todella ollut kevyttä. Tällä kevyellä
+rahapolitiikalla EKP antaa jäsenmaille lisäaikaa laittaa taloutensa kuntoon, tehdä raken-
+teellisia uudistuksia. Sehän ei ratkaise Euroopan kilpailukyvyn ja talouden rakenteiden on-
+gelmia mitenkään. Valitettavan huonosti jäsenmaat ovat tätä lisäaikaa käyttäneet hyväk-
+seen. Tosin näemme, että tiettyä edistymistä on tapahtunut Irlannissa, Espanjassa, Portu-
+galissa, mutta suuretkaan jäsenmaat mielestäni eivät ole tehneet tarpeeksi. Aikaa myöten
+3
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+näin kevyellä rahapolitiikalla on totta kai myöskin riskinsä, ja sitä kannattaa miettiä myös-
+kin Suomen Pankissa, joka kuuluu Euroopan keskuspankkijärjestelmään.
+
+Euroopan keskuspankin rooli on muuttunut siitä, mitä se oli perussopimuksessa. Kuiten-
+kin mielestäni kiistatta Euroopan keskuspankilla on nyt iso rahamarkkinoiden vakautta tur-
+vaava rooli. Myöskin pankkivalvonta on siirtymässä, siirtynyt Euroopan keskuspankin yh-
+teyteen hyvin merkittävällä tavalla. On muitakin ominaispiirteitä, jotka kertovat siitä, että
+Euroopan keskuspankki on ottanut selkeästi isomman roolin kuin sillä alun perin oli perus-
+sopimuksessa. Tässä tullaan siihen ongelmaan, pitäisikö myöskin Euroopan keskuspankin
+valvontaa muuttaa jotenkin.
+
+Euroopan tilintarkastustuomioistuimessa ollessani näistä asioista myös keskusteltiin ja
+todettiin, että yleinen periaatehan on se, että kun julkisia varoja käytetään, aina pitää olla
+kolme asiaa: accountability, transparency, public audit eli tilivastuu, läpinäkyvyys ja julki-
+nen valvonta. Nyt Suomenkin osalta tämä vielä muuttuu, kun pankkiunionia rakennetaan.
+Euroopan keskuspankissahan ei käytännössä ole julkista valvontaa. Se on yksityisen tilin-
+tarkastusyhtiön tarkastettavana. Ainoastaan pieni siivu hallinnon osalta on Euroopan tilin-
+tarkastustuomioistuimen valvonnassa.
+
+Suomen valtion tilinpäätöksessä on nyt vastuita liittyen finanssimarkkinoiden tilantee-
+seen, liittyen siihen, että olemme osa euroaluetta, olemme Euroopan vakausmekanismissa
+mukana, me olemme kohta Euroopan pankkiunionissa mukana. Nämä vastuut ovat tieten-
+kin julkisen valvonnan, eduskunnan budjettivallan näkökulmasta myöskin asioita, joita
+kannattaa miettiä, ja ymmärtääkseni tarkastusvaliokunnassa on ajatuksia, että niitä pitää
+tarkemmin miettiäkin. Eli yhteenvetona voisi todeta, että Euroopan keskuspankin rooli on
+muuttunut, ja tässä mielessä sen asemaa pitää myöskin tarkastella julkisen valvonnan nä-
+kökulmasta.
+
+Puhemies! Aivan lyhyesti Kreikasta. Kreikan perusongelma on se, että Kreikassa ei ole
+toimivaa julkista hallintoa, riittävän hyvää julkista hallintoa. On välttämätöntä näissä ny-
+kyisissä oloissa, globaalissa rakennemuutoksen maailmassa, yhteisvaluutan oloissa, että
+valtio pystyy budjetoimaan menonsa, pystyy vastuullistuttamaan menonsa, pystyy valvo-
+maan menonsa. Siis budjetointijärjestelmän täytyy toimia. Toisaalta valtion täytyy pystyä
+keräämään veroja kattavasti, tehokkaasti. Tätä Kreikalla valitettavasti ei tänäkään päivänä
+vielä ole. Kreikkahan oli hyvällä alulla uudistusten tiellä, mutta valitettavasti se pysähtyi.
+OECD:n tutkimukset kertovat juuri näistä ongelmista. Myöskin valvonta Kreikassa on
+puutteellista.
+
+Niin kauan kuin ei ole riittävän hyvää julkista hallintoa Kreikassa, nämä rahat, joilla jou-
+dutaan tukemaan valtiota, keskuspankkijärjestelmää, menevät valitettavasti mustaan auk-
+koon. Tämä on tietysti ongelma Suomelle ja euroalueella laajemminkin. Mielestäni tämä
+asia pitäisi nostaa myöskin Suomen hallituksen keskusteluissa esille paremmin, että Krei-
+kan on kerta kaikkiaan saatava hallintonsa paremmin toimimaan.
+
+Valtiohan voi maksaa velkansa kolmella tavalla. Se talouskasvun kautta voi tasapainot-
+taa talouttaan, jos talouskasvu on voimakas. Se voi tehdä säästöjä, leikkauksia, niin kuin
+me teemme. Sitten on kolmas tapa: kaverit maksavat. On selvää, että poliittisesti tämä ka-
+verit maksaa -linja ei voi jatkua ja Kreikan on omankin taloutensa kannalta välttämättä saa-
+tava julkinen hallintonsa paremmin toimimaan. (Eduskunnasta: Hyvä puheenvuoro!)
+
+18.02 Pia Viitanen sd: Arvoisa rouva puhemies! Kuten tuossa taustalta huudettiin, hyvä
+puheenvuoro. Minusta on tärkeää, että kaiken kaikkiaan eduskunnalla on aina tämä mah-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+dollisuus tarkastella myös Suomen Pankin toimintaa. Tänä päivänä varmasti se akuutein
+asia on, kuten edellisetkin puhujat ovat maininneet, tämä Kreikan tilanne. Ja tietenkin
+eduskunnan kannalta ja eduskunnan budjettivallan kannalta on äärimmäisen tärkeää, että
+pystymme hahmottamaan kokonaisriskin, tuli se sitten omien lainajärjestelyjen kautta, tuli
+se sitten EKP:n kautta, IMF:n kautta ja niin poispäin. Siksi tämä on erittäin tärkeää keskus-
+telua, mitä tänä päivänä ja näinäkin tunteina kaiken kaikkiaan täällä käydään. Mielestäni
+myös tämä EKP:n rooli — paitsi että hintavakaus siellä kärjessä aina tulee — myös mah-
+dollisuutena tukea yleistä talouspolitiikkaa ja työllisyysnäkökulmia on hyvin tärkeä tänä
+päivänä.
+
+Puhemies! Tästä Kreikasta vielä sen verran, että on hyvin tärkeätä tänään myös nähdä se
+ikään kuin jatkumo, mitä tässä vuosien varrella on tapahtunut. Silloin kun tämä kaikki al-
+koi ja vuonna 2010 keskustelimme täälläkin ensimmäistä kertaa näistä mahdollisista tuki-
+järjestelyistä, niin me sosialidemokraatit näimme hyvin vahvasti, että valitettavasti voi olla
+niin, että joskus tulevaisuudessa tästä tilanteesta Kreikka ei tule selviämään. Siksi halusim-
+me turvata veronmaksajien riskejä ja rajata vastuita ja olimme sitä meiltä, että voi olla, että
+vakuuksille tulevaisuudessa on tarvetta. Näin ollen edellytimme, että ennen lainanantoa
+Suomen tulisi vaatia saatavilleen vakuudet sekä myös sijoittajien tulisi ottaa osaa tähän jär-
+jestelyyn. No, näin ei käynyt. Myönnettiin kahdenvälinen laina, josta Suomella on todella-
+kin sitten vastuut olemassa ilman vakuuksia. Mutta SDP:n politiikka pysyy hyvin johdon-
+mukaisena: kun sitten seuraava hallitus tuli ja jälleen kerran näitä asioita käsittelimme, niin
+silloin oli hyvä, että Suomen linja yhtenäisesti muuttui ja näille seuraaville ERVV:n kautta
+tulleille lainoille me saimme valtiovarainministeri Jutta Urpilaisen taistelemana vakuudet
+ja tuolloin myös toteutettiin sijoittajan vastuuta. Ja tämä oli — tänä päivänä, jos koskaan,
+sen näemme — enemmän kuin tarpeen. Nyt meillä tämän ansiosta on tilillä noin miljardi
+euroa turvaamassa suomalaisten veronmaksajien saatavia siinä tilanteessa, että kaikki ei
+hyvin menisi. Toki jokainen meistä toivoo, (Puhemies koputtaa) että kaikki Kreikassa hy-
+vin menisi. — Puhemies! Siirrynkö hetkeksi tuonne puhujakorokkeelle?
+
+Toinen varapuhemies Paula Risikko: Puhukaa siitä loppuun.
+
+  Kiitos, arvoisa puhemies, joustavuudesta. — Me pidämme hyvin tärkeänä nyt, kun tu-
+levia ratkaisuja tehdään, että me huolehdimme siitä, että tämä miljardin säästöpossu, joka
+meillä on olemassa, ei tule rikotuksi. Eli me emme missään nimessä voi täällä Suomessa
+hyväksyä missään vaiheessa velkojen leikkauksia, mitä silloin tällöin on väläytelty tässä
+akuutissakin keskustelussa. On hyvin tärkeää, että nykyhallitus pysyy tässä tiukkana ja to-
+teuttaa edellisen hallituksen aloittamaa johdonmukaista linjaa sen suhteen, että todella-
+kaan piikki ei saa olla auki ja yhteinen: eri maiden velkojen pitää pysyä yksittäisinä velkoi-
+na, ja ne eivät voi olla yhteisvastuullisia. Siksi nämä linjanvedot, mistä tänäänkin täällä pu-
+humme, ovat äärimmäisen tärkeitä, puhemies.
+
+18.06 Markku Eestilä kok: Arvoisa rouva puhemies! On hyvä, että kerran vuodessa
+eduskunnassa keskustellaan Suomen Pankista ja täällä voi käyttää puheenvuoroja. Itse ha-
+luaisin vähän maallikkonäkökulmasta tuoda esille sen, että oman käsitykseni mukaan kan-
+sainväliset rahoitusmarkkinat ovat aina kriisissä, ne ovat aina kuilun partaalla. Sellaista
+ikään kuin selvää ajanjaksoa, jolloin kaikki olisi ikään kuin helposti suunniteltavissa ja sen
+perusteelta tehtävissä päätöksiä, ei käsitykseni mukaan ole.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+Ihan mielenkiintoisia kuvioita tässä hyvin tehdyssä kertomuksessa on esimerkiksi sivul-
+la 12 kuvio 13, jossa on Suomen vaihtotaseen ylijäämä, joka kylläkin on viimeisenä neljä-
+nä vuotena ollut alijäämä. Minun mielestäni tästä kuviosta kannattaa muutama sana käyt-
+tää sen takia, että kun meillä tämä euroalue ei ole liittovaltio, silloin se tarkoittaa sitä, että
+jos joku maa tekee alijäämää, niin jonkun täytyy tehdä käsittääkseni ylijäämää, ja jos en ai-
+van väärin muista, niin kumulatiivinen ylijäämä Saksalla on yli 1 000 miljardia. Ja kun
+Saksa on maailman suurin pääoman viejä, se rahoittaa omaa vientiteollisuuttaan, niin nä-
+kemykseni mukaan euro on ollut Saksalle erityisen hyvä — saattaa olla, että se ei sitä olisi,
+jos Saksalla olisi oma markka — ja koska me emme ole liittovaltio, niin se tarkoittaa sitä,
+että olemme pysyvästi sillä tiellä, että jossakin on aina alijäämää.
+
+Jos itse arvioisin tätä koko eurojärjestelmää ja sen tulevaisuutta, niin varsinkin kun nyt
+Euroopan keskuspankki on sitten eri mekanismein ja eri papereihin käärittynä lähtenyt pa-
+nemaan yli 1 000 miljardia jälleen rahaa markkinoille ja kun on epävarmaa, että nämä val-
+tiot pystyvät korjaamaan kilpailukykyään nimenomaan Saksaan nähden, niin meillä jatku-
+vat nämä alijäämät ja velkakriisit. Ja sen vuoksi itse en välttämättä usko pankkiunioniin.
+Vaikka siellä on erittäin hyviä mekanismeja nyt ja täällä sivulla 38 on sitten yleinen val-
+vontamekanismikin monessa eri laatikossa ja se antaa sen kuvan, että me saisimme ikään
+kuin Euroopan keskuspankin kautta, koska valvonta on sinne keskitetty ja menty ikään
+kuin pieni askel liittovaltion suuntaan, niin itse en valitettavasti usko, että se antaisi meille
+varmuuden siitä, että rahamarkkinat ovat hyvässä kontrollissa.
+
+Sen takia meidän täytyy kerran vuodessa täällä arvioida Suomen Pankin ja Suomen nä-
+kökulmasta, mikä on euron tulevaisuus ja mikä on sitten Suomen mahdollinen reagointi tä-
+hän eurojärjestelmässä, koska me emme pysty enää devalvoimaan, ja sen takia meillä tulee
+olemaan vaikeuksia, koska meillä ei ole historiallisista syistä johtuen kovin suuria hinta- ja
+palkkajoustoja. Ja jos tämä yhteiskuntasopimus nyt vie asioita siihen suuntaan polkematta
+kenenkään oikeuksia, niin se on ehkä ainut tie, millä Suomi voi sitten omaa kilpailuky-
+kyään parantaa. Sen takia koen, että nykyhallituksen suunnitelmat lähteä yhdessä työmark-
+kinajärjestöjen kanssa neuvottelemaan yhteiskuntasopimuksesta on kuitenkin linjana oi-
+kea.
+
+Jos me ajattelemme tätä tilannetta tällä hetkellä, en ole asiantuntija Kreikan suhteen,
+mutta voi olla näin, kuten täällä edustaja Ala-Nissilä puhui, että Kreikassa hallinnossa on
+ongelmia, mutta kyllä siellä saattaa olla ongelmia myös tämän euron ja valuutan kanssa.
+Kreikka toimii ympäristössä, jossa on aivan eri palkka- ja hintarakenne sen naapurustossa.
+Turkki vie siltä turistit. Turkin liira muistini mukaan on 7—8 vuodessa devalvoitunut aika
+paljon: aikanaan eurolla sai 1,5 liiraa, nyt saa 3. Kreikan on erittäin vaikea toimia tässä toi-
+mintaympäristössä. Ja sen takia saattaa olla, että Kreikka on pysyvästi tuomittu alijäämiin
+ja ongelmiin, ja jos Kreikalla olisi oma raha, oma valuutta, niin sen devalvoitumisaste olisi
+50—70 prosenttia.
+
+Tämä on nyt se Suomen tie, ja meidän täytyy vain tässäkin salissa joskus keskustella,
+olemmeko siinä välitilassa: kun me emme ole oikein itsenäinen valtio mutta kun emme ole
+liittovaltio, olemme välitilassa, joka saattaa olla se kaikkein hankalin. Historia on osoitta-
+nut, että jos meillä on valuuttaunioni, sen käytännössä pitäisi todennäköisesti olla enem-
+mänkin liittovaltio, että se toimisi, koska silloin siellä nämä ylijäämät lähdettäisiin ikään
+kuin jakamaan niille maille, jotka niitä tarvitsevat, ja todennäköisesti se kohde, mihin ne
+ylijäämät pitäisi pistää, olisi sosiaalipuoli ja työttömyyskorvaukset.
+
+Arvoisa rouva puhemies! Tässä hieman omia näkemyksiäni.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+18.11 Arto Satonen kok: Arvoisa puhemies! Tämä Kreikan tilanne on tietysti juuri akuu-
+tisti jälleen kerran päällä. Kyllä on ihan välttämätöntä, niin kuin tähän asti on toimittukin,
+että lainanantajat ovat pitäneet varsin tiukkaa linjaa sen suhteen, että Kreikan pitää omaa
+talouttaan uudistaa. Tietysti tuntuu jossain määrin ei ehkä erikoiselta eikä yllättävältäkään,
+mutta tietysti tilanne on sillä tavalla mielenkiintoinen, että nyt sitten aivan tässä kalkkivii-
+voilla on niin käymässä, että Kreikan hallitus on myöntymässä niihin asioihin, joista on jo
+pitkään puhuttu. Aika näyttää, syntyykö siinä ratkaisu.
+
+Arvoisa puhemies! Olen kuitenkin paljon enemmän huolissani vielä Suomen taloudesta
+kuin Kreikan taloudesta, ja siihen ehkä tässä salissa voidaan enemmän vaikuttaa. Kyllähän
+tässä Pankkivaltuuston kertomukseen viitaten huomioitava asia on se, että tämän kevyen
+rahapolitiikan aikanakaan Suomi ei ole päässyt mukaan siihen kasvuun, mitä lähes kaik-
+kialla muualla euroalueella on tapahtunut. Kyllä sille yksiselitteinen syy on se, että meidän
+kilpailukykymme ja suomalaisen työn kilpailukyky on yksinkertaisesti liian heikko. Kyllä
+se väistämättä johtaa siihen, että yhteiskuntasopimus on tähän maahan aikaansaatava sillä
+tavalla, että sillä voidaan kilpailukykyä parantaa, suomalaista työllisyyttä parantaa, vientiä
+edistää. Toivon kyllä, että kaikki mahdolliset voimat ovat sitä ratkaisua tukemassa, siitä-
+kin asiasta tänään jälleen keskustellaan.
+
+18.13 Eero Heinäluoma sd: Arvoisa puhemies! Täällä on käyty tänään erinomaisen hy-
+vää ja tarpeellista keskustelua erityisesti Euroopan keskuspankin muuttuneesta ja muutok-
+sessa olevasta roolista ja sitten toisaalta sen vaikutuksista meidän suomalaisten kannalta.
+Pankkivaltuutettu, edustaja Ala-Nissilä oikeastaan kiteytti tämän ison muutoksen, joka
+EKP:n roolissa on kaksivaiheisesti tapahtunut viime vuosien aikana. Mielenkiintoista on,
+että EKP:n tehtäväksianto tänä aikana on kuitenkin pysynyt ennallaan. Ainut, mikä on
+muuttunut, on pääjohtajan nimi. Sen jälkeen, kun pääjohtajaksi tuli italialainen Draghi,
+käytännössä EKP:n politiikka on muuttunut huomattavasti dynaamisemmaksi ja voimak-
+kaammaksi ja politiikkaan on tullut paitsi tämä hintavakaustekijä myös sitten näkökohdat
+kasvun ja sitä kautta työllisyyden tukemisesta. Muutos on tapahtunut kahdessa vaiheessa.
+Ensin pelkästään pääjohtajan julkinen kannanotto riitti pysäyttämään rahoitusmarkkinoi-
+den epävakauden ja tuomaan eteläisen Euroopan valtioiden joukkovelkakirjalainojen ko-
+rot alas. Siis yhtään rahaa ei tarvinnut käyttää, riitti yksi puhe ja siinäkin oikeastaan yksi
+virke. Se on osoitus siitä, mikä valtaisa voima keskuspankilla on silloin, kun se käyttää sitä
+ajatellulla ja koordinoidulla tavalla. Tiedämme kuitenkin, että tämäkään päätös ei ollut
+helppo, ja sitä on osassa Saksan päätöksentekijöitä voimakkaasti protestoitu. Ja nyt tämä
+toinen vaihe, osto-ohjelma, on siis tietenkin keventänyt rahoitusmarkkinoita ja tuonut lisää
+rahaa. Sen taustallahan oli tämä deflaatioriski, joka oli hiipimässä myös euroalueelle ja
+joka uhkasi tuoda uusia vakavia ongelmia koko euroalueen kasvun kannalta. Tämä osto-
+ohjelma näyttää toimineen, nyt inflaatio on asettumassa lähemmäksi tätä EKP:n asettamaa
+tavoitetta, lähelle 2:ta prosenttia mutta kuitenkin alle.
+
+Suomen kannalta asiaa katsoen joutuu toteamaan, että jossain määrin on hämmentävää,
+— kun me olemme tämmöinen legalistinen yhteiskunta, jossa ajatellaan niin, että annetaan
+tehtäviä eri viranomaisille ja ne toimivat näiden tehtävien mukaan — että jos halutaan
+muuttaa jonkun instituution roolia, niin muutetaan tehtäviä eikä muuteta käytäntöjä. Tämä
+on ollut hämmentävää. Tästä jää jäljelle se kysymys, että olisi perusteltua pohtia myös
+EKP:n tehtävien virallistakin uudelleenhahmottamista eli ottaa tämä kasvu ja työllisyyden
+tukeminen virallisiinkin tehtäviin hintavakauden vaatimisen ohella, niin kuin monissa
+7
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+muissa maailman keskuspankeissa on, muun muassa Yhdysvaltain Fedissä. Ja kun Yhdys-
+valtain Fedin toiminta on selvästikin monin osin toiminut esikuvana myös sille, mitä olem-
+me nyt EKP:n uuden pääjohtajan aikana nähneet, niin tältäkin kannalta katsoen tämä teh-
+täviä koskeva keskustelu olisi syytä avata uudelleen.
+
+Iso-Britanniahan käy parhaillaan neuvotteluja, ainakin suurempien EU:n jäsenmaiden
+suuntaan, siitä, millä tavalla Iso-Britannia voisi itselleen palauttaa joitakin oikeuksia kan-
+salliseen päätöksentekoon. Konservatiivinen pääministeri Cameron on sanonut, että tämän
+pitäisi tapahtua EU:n sopimuksia muuttamalla. Jos tähän keskusteluun lähdetään mukaan
+ja jos se avautuu, niin sitten pitäisi kyllä tätä EKP:n osuutta miettiä.
+
+Täällä on tuotu esille tämän yhteisessä rahassa olemisen vaatimukset kotimaan talous-
+politiikalle ja kotimaan toimijoille. Kiistatonta on, että euron arvo hinautui liian korkealle
+koko euroalueen keskimääräisiin tarpeisiin nähden ja sitten erityisesti Etelä-Euroopan
+mutta myös Suomen tarpeisiin ja kilpailukykyyn nähden. Keskuspankin muuttuneen toi-
+minnan tuloksena euron arvo on asettunut lähemmäksi ilmeisesti todellista euroalueen
+kansantalouksien suorituskykyä, ja se osaltaan tietysti vaikuttaa myös Suomen kilpailuky-
+kyä vahvistavalla tavalla.
+
+Täällä on ihan oikein tuotu esille, että meidän oma sopeutumisemme yhteisessä rahassa
+toimimiseen on selvästikin kesken ja tämä koskee sekä valtiollisia toimijoita että keskeisiä
+muita toimijoita myös työmarkkinoiden osalta.
+
+Kun 90-luvulla yhteiseen rahaan siirtymistä valmisteltiin ja sitä pohdittiin, useissa pu-
+heenvuoroissa ja myös erilaisissa selvityksissä todettiin, että pitäisi rakentaa joustoele-
+menttejä valmiiksi olosuhteisiin, joissa euron kurssi ei vastaa Suomen kansantalouden tar-
+peita. Silloin todettiin muun muassa, että työmarkkinoilla pitäisi olla aikaisempaa enem-
+män joustavia palkanmuodostuksen osia, pitäisi satsata voittopalkkioiden, tulospalkkioi-
+den, erilaisten bonusten ja myös henkilöstörahastojen käyttöön. Tästä tuntui vallitsevan
+huomattava yksimielisyys. Kun sitten katsoo, mitä on tapahtunut, niin ei oikeastaan ole ta-
+pahtunut yhtään mitään, on pantu hyllyyn ne kaikki raportit ja suoritukset tältä osin.
+
+Sama koskee myös henkisessä mielessä niitä puskureita, jotka silloin sovittiin rakennet-
+tavaksi juuri tämäntyyppisiä pulmia varten, joita olemme viime vuosina nähneet. Näitähän
+tehtiin sekä työeläkejärjestelmään että työttömyysvakuutusjärjestelmään. Näidenkään pus-
+kureiden käytöstä ei ole saavutettu yhteisymmärrystä, joten kyllä tässä kotimaan puolella
+on mietittävää ja on päivänselvää, että nyt esillä oleva yhteiskuntasopimus ei tule ratkaise-
+maan näitä ongelmia eikä ole ollenkaan nykymuodossaan riittävä näihin ongelmiin vastaa-
+misen kannalta.
+
+Edustaja Ala-Nissilä toi esille tämän EKP:n valvontakysymyksen. Ongelma ei ole huu-
+tava, mutta se on selvästi kehittynyt ja vaatii kyllä pohdintaa. Kun EKP:n toiminta on sel-
+keästi muuttunut, kun se ottaa enemmän riskiä, samalla kyllä tukee myös paremmin euro-
+alueen kasvunäkymiä, niin valvonnan pitäisi kehittyä näiden muuttuvien toimintojen mu-
+kana. On ilmiselvää, että pankin sisäinen valvonta tässä ei ole riittävää vaan tässä tarvittai-
+siin vahvempia käsiä ja suurempaa läpinäkyvyyttä ainakin jäsenmaiden ja myös niiden
+parlamenttien suuntaan. Pidän perusteltuna, että tähän keskusteluun palataan erillisen poh-
+diskelun ja valmistelun pohjalta.
+
+Lopuksi on pakko tulla tähän kysymykseen, johon Pankkivaltuuston kunnioitettu pu-
+heenjohtaja, edustaja Zyskowicz päätti puheenvuoronsa, eli Kreikkaan. Tämä on huoles-
+tuttavassa tilanteessa myös suhteessa niihin tämän viikon aikana kuultuihin puheenvuoroi-
+hin. Me olemme koko ajan sen ison kysymyksen kanssa tekemisissä, lähdetäänkö euroalu-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+etta ja sen järjestelmiä ratkaisemaan velkojen yhteisvastuun pohjalta. Tässä kysymyksessä
+meidän aikaisemmat kantamme ovat olleet varsin yksituumaisia, voi sanoa jopa lähes puo-
+luekantaan katsomatta, että euroalueen toiminnan tulee rakentua ei velkojen yhteisvastuun
+pohjalle vaan sille pohjalle, että kukin vastaa omista veloistaan. Vaikeuksiin joutuneita
+voidaan auttaa, mutta pitää olla selvää, että se laina, joka lähtee avun muodossa, tulee sit-
+ten aikoinaan maksettuna lainana takaisin.
+
+Nyt kuitenkin huomio kiinnittyy siihen, että tässä kriisin nykyisessä vaiheessa nämä pu-
+heenvuorot ovat kummallisesti hiljentyneet myös eduskunnan osalta. En ole nähnyt myös-
+kään johtavien hallituspuolueiden osalta kannanottoja, joissa olisi pidetty tästä periaattees-
+ta kiinni, että velkojen yhteisvastuuseen ei mennä.
+
+Toivonkin, että edustajat Zyskowicz, Ala-Nissilä ja täällä paikalla olevat perussuoma-
+laiset edustajat voisivat jossain määrin huojentaa pelkojani sanomalla, että edustaja Heinä-
+luoma voi nukkua yönsä rauhassa, että nykyinen hallitus pitää kiinni siitä lähtökohdasta,
+että kukin maa hoitaa itse omat velkansa ja Suomi ei hyväksy julkisten velkojen leikkauk-
+sia, jotka velat ovat tulleet hoitamaan tätä kriisiä, ei tienaamaan, ja että näistä sovituista va-
+kuusjärjestelyistä, jotka osaltaan turvaavat meidän saataviamme, pidettäisiin myös tässä
+yhteydessä kiinni. Jäänkin mielenkiinnolla odottamaan tämän jälkeen tulevia kannanotto-
+ja.
+
+Nyt tiedossa on, että tämän viikon lopulla, huomenna ja perjantaina, päämiehet kokoon-
+tuvat. Lehtitietojen mukaan siellä on esillä ajatus siitä, että velkoja leikattaisiin ja että se
+olisi osa tätä ratkaisua, jota myös Kreikka tietysti on johdonmukaisesti vaatinut. Tähän
+mennessähän on tehty yksityisen sektorin alkuperäisten luotottajien velkojen leikkaus,
+suurin taloushistorian leikkaus, mitä on nähty, yli 100 miljardin euron velkapääoman pois-
+taminen, mutta ne olivat velkojia, jotka olivat alun perin tienanneet tällä. Mielestäni julkis-
+ta rahaa, joka on tullut pelastamaan Kreikkaa, ei pitäisi laittaa kärsimään siitä, että on ha-
+luttu kreikkalaisia auttaa. Tässä pitää olla Suomella ja suomalaisilla selkeä linja, ja sitä lin-
+jaa täytyy eduskunnan osaltansa vartioida.
+
+18.23 Laura Huhtasaari ps: Arvoisa puhemies! Edustaja Heinäluoma, nuku vain yösi
+rauhassa, hallitusohjelmassa suhtaudutaan kielteisesti vastuiden kasvattamiseen.
+
+Edustaja Viitanen, meillä ei ole vakuuksia, meillä on tuottojenvaihtosopimus Suomen
+valtion ja neljän kreikkalaisen pankin kanssa. Kreikan velka on 170 prosenttia suhteessa
+bruttokansantuotteeseen. Mikään maa ei ole koskaan aikaisemmin pystynyt tällaista vel-
+kaa maksamaan. Edustaja Viitanen, Kreikka on maksukyvytön.
+
+Kiinnostaisi tietää, kuinka paljon rahaa, aikaa ja polttoainetta on mennyt Kreikan ja eu-
+ron hätäkokouksiin. Miksi EU:ssa ei kyetä tekemään taloudellisesti järkevintä ratkaisua?
+Miksi Kreikkaa ei voida pistää pois eurosta?
+
+Aalto-yliopiston rahoituksen professorin Vesa Puttosen mukaan parhaassa tapauksessa
+Suomi joutuu kärsimään vain noin 6 miljardin euron rahalliset tappiot. Rahoja ei koskaan
+tulla saamaan takaisin. Rahaongelmista selviää rahalla, mutta Suomella ei ole rahaa. Suo-
+malaiset ovat kärsineet euroalueen jäsenyydestä. Suomi menetti taloudellisen itsenäisyy-
+tensä ja kyvyn vaikuttaa valuuttansa ulkoiseen arvoon itse liittyessään euroon. Euroon liit-
+tymisen jälkeen Suomen Pankista tuli EKP:n haarakonttori. Ei ihme, että mikään muu Poh-
+joismaa ei ole halunnut liittyä euroon. Henkilökohtaisena mielipiteenäni on se, että Suo-
+men tulisi palata omaan valuuttaan.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+Suomen Pankilla on eurojärjestelmään liittyviä vastuita, jotka ovat seurausta yhteisen
+rahapolitiikan toteuttamisesta. Suomen Pankilla olevat eurojärjestelmän sisäiset saamiset
+helmikuun lopulla 2015 olivat 18,3 miljardia euroa. Mietin, millainen riski on, että Suo-
+men Pankin saamiset eivät kotiudu.
+
+18.25 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Yhteisvaluutan oloissa eläminen on
+varsin vaativaa. Kreikan osalta on nyt tullut ongelmaksi se, että on enemmän suorastaan li-
+turgiaa ja vähän show’takin hallinnossa, ja sillä tavalla yhteisvaluutan oloissa ei pärjää.
+
+Keskustahan ei aikoinaan kannattanut nopeata eurojäsenyyttä. Oli vähän sama keskus-
+telu kuin Ruotsissa käytiin, että ei oltu vielä valmiita. Tänä päivänä Ruotsi osaa elää yh-
+teisvaluutanomaisissa oloissa paremmin kuin Suomi. Ehkä meillä voitaisiin myöskin ottaa
+mallia Baltian maista, joissa on tehty käytännössä sisäinen devalvaatio. Kun Suomi on hei-
+koin maa euroalueella viennissä, Baltian maat ovat parhaita, ja siellä talous kasvaa nopeas-
+ti, kun tehtiin voimakkaat uudistukset — ei kokonaan tietenkään ilman ongelmia.
+
+Yhteisvaluutassa voidaan pärjätä, mutta siinä pitää elää niin kuin yhteisvaluutan olot
+globaalissa talouden rakennemuutoksessa vaativat. Kun se on Saksan vetämä yhteisvaluut-
+ta, niin kuin todettiin, niin pitää elää niin kuin saksalaiset, jos vähän yksinkertaistaa.
+
+Minä luulen, etteivät nämä puskurirahastot sitä yksin... Ne voivat olla tarpeen, mutta pe-
+rimmiltään on kysymys siitä, että suomalaisella työllä ja tuotannolla pitää olla kilpailuky-
+kyä ja että meillä on kykyä uudistaa suomalaista taloutta, jotta se on riittävän ketterä ja kil-
+pailukykyinen, kuten saksalaiset ovat tehneet. Tämä olisi se tie, mitä Suomessa pitäisi teh-
+dä, kun olemme yhteisvaluutassa.
+
+Kreikka, palaan siihen vielä: Valéry Giscard d'Estaing, Ranskan presidentti, sanoi, ettei
+ole euroa ilman Kreikkaa, ja Kreikka otettiin sinne. Ei olisi koskaan pitänyt ottaa — me
+olemme varmaan siitä yhtä mieltä tänä päivänä. Mutta Suomi on siellä, ja nyt joudutaan sit-
+ten elämään näissä oloissa. Niin kuin sanoin, se on vaativaa, siinäkin voidaan pärjätä, mut-
+ta pitää tehdä paljon enemmän kuin nyt tällä hetkellä tehdään.
+
+18.27 Markku Eestilä kok: Arvoisa rouva puhemies! On tietenkin helppoa arvostella ai-
+kanaan tehtyjä päätöksiä. Ne on tehty siinä ajassa ja sen tietämyksen perusteella, ja niiden
+mukaan meidän on elettävä. Mutta se ei suinkaan estä arvioimasta hieman tätä nykytilan-
+netta. Jos me ajattelemme pankkiunionia ja keskitettyä valvontaa, niin ei pidä luoda itselle
+sitä kuvaa, että olisimme turvassa, sillä on selvä vaara olemassa, että valvojat ja valvotta-
+vat muodostavat ikään kuin samanlaisen kuvan. Niitä virheitä on erittäin vaikea huomata:
+kun loppujen lopuksi näitä organisaatioita on monta, niin siellä saattaa pitkään mennä, en-
+nen kuin aletaan huomata, että kaikki ei ole aivan kohdallaan.
+
+Ja kun täällä nyt positiivisessa sävyssä mainitaan, että pankkien omistajat ja sijoittajat eli
+velkojat joutuvat ensi sijassa vastuuseen, niin se periaate on aivan oikea. Mutta kun ottaa
+huomioon, että valtiot ja nämä suuret pankkijärjestelmät ja suuret pankit ovat entistä vah-
+vemmin kietoutuneet keskenään — ja ne volyymit ovat niin suuria näissä rahamäärissä ja
+rahavirroissa, varsinkin kun kriisi tulee — niin tämäkään kriisinratkaisurahasto, jota ale-
+taan ensi vuoden alusta keräämään, ja 8 vuotta kestää se kerääminen, ei tule todennäköi-
+sesti riittämään. Se tässä on se suurin ongelma, että vaikka tämä sijoittajavastuu on tässä
+korostuneena prioriteettina, saattaa käydä niin, että jälleen joudutaan siihen kuuluisaan yh-
+teisvastuuseen: jos me meinaamme rahajärjestelmän pelastaa, niin silloin joudutaan taas
+menemään veronmaksajien kukkarolle eri maissa, ja monikansalliset pankit aiheuttavat
+10
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+sen, että moni maa joutuu siihen yhteisvastuuseen. Tämä minun mielestäni on tiedostetta-
+va riski. Ei niinkään, että sitä pitäisi kriittisesti arvioida, että on tehty vääriä päätöksiä, mut-
+ta tämä pitää tiedostaa.
+
+18.29 Eero Heinäluoma sd: Arvoisa puhemies! Kun edustaja Huhtasaari sanoi, että voin
+nukkua yöni rauhassa, niin joudun toteamaan kyllä, että ensi yöstä tulee aika levoton, kos-
+ka... — Jaha, taitaa ollakin niin, että edustaja Huhtasaari on poistunut, niin kuin myös muut
+perussuomalaiset. Vihdoinkin on tullut semmoinen Kreikka-keskustelu, jossa yksikään pe-
+russuomalainen ei halua enää olla edes mukana. Nimittäin kun edustaja Huhtasaari sanoi,
+että vastuut eivät kasva, niin mitäs se nyt sitten tarkoittaa? Se tarkoittanee sitä, että niitä
+teoreettisia maksimeja, joiden mukaan rahaa voidaan antaa Euroopan vakausvälineestä, ei
+kasvateta, mutta nykyistä rahaa voidaan siis antaa lisää, ja sitten sen lisäksi nämä vastuut
+eivät kasva. Näyttää siltä, tai ainakin tulee se pelko, että tarkoittaako se sitä, että voidaan
+leikata nämä meidän saatavamme niin, että sieltä eivät enää kaikki rahat tulekaan takaisin.
+
+Kiinnitän huomiota siihen, että en myöskään kuullut suuresti arvostamaltani edustaja
+Ala-Nissilältä tai edustaja Zyskowiczilta vastausta tähän velkojen leikkauskysymykseen.
+Nyt olisi mahdollisuus kertoa eduskunnalle ja Suomen kansalle, hyväksyttekö te Kreikan
+velkojen leikkauksen ja sen, että Suomi menettää tässä velkajärjestelyssä rahaa. Tähän ky-
+symykseen tarvitaan vastaus. Tästä ei selvitä sillä hallitusohjelman kirjoituksella, että vas-
+tuut eivät kasva, koska sehän ei tarkoita yhtään mitään. Jos tämä tulkinta todella olisi tämä,
+että te olette valmistelemassa velkaleikkauksen hyväksymistä, niin sittenhän me joudum-
+me kaikissa meidän velkasaatavissamme toteamaan, että tämä on aika huono hallitus mi-
+tään Suomen saatavia huolehtimaan. Suomen valtiollahan on huomattavia velkoja sekä
+suhteessa yrityksiin, annettuja lainoja, että suhteessa kotitalouksiin. Aiotteko te olla kaik-
+kien osalta yhtä höveleitä, että voidaan hyväksyä näitä velkojen leikkauksia sanomalla, että
+vastuut eivät kasva? (Olavi Ala-Nissilän välihuuto) — Niin, kysymys kuuluu: oletteko te
+hyväksymässä velkojen leikkausta perjantaina tai torstaina?
+
+18.31 Pia Viitanen sd: Arvoisa rouva puhemies! Kyllä minä olen tästä tilanteesta aivan
+yhtä hämilläni kuin edellinen puhuja. Nimittäin todellakaan täällä ei ole yhtäkään perus-
+suomalaista, ja muutamat paikalla olijat kävelivät pois salista nyt, kun olisi mahdollisuus
+tästä keskustella, enkä näe myöskään ulkoministeri Timo Soinia täällä nyt kertomassa pe-
+russuomalaisten linjaa tähän tämän hetken Kreikan tilanteeseen. Mutta tilanne on vakava,
+ja siksi nämä kysymykset, mitä me olemme nyt esittäneet, ovat hyvin tärkeitä, ja me kyllä
+edellytämme, että me saisimme hallituspuolueilta myös vastauksen näihin edustaja Heinä-
+luoman edellä esittämiin erittäin olennaisiin kysymyksiin: oletteko te hallituksessa muo-
+dossa tai toisessa hyväksymässä lähipäivinä mahdollisuuden velkojen leikkaamiseen?
+Tämä on tärkeä kysymys, ja siihen täytyy kerta kaikkiaan saada vastaus.
+
+Vielä sanoisin edustaja Huhtasaarelle, joka enää täällä salissa ei ole, kuitenkin sellaisen
+asian, että nyt viimeistään voisivat nämä sanaleikit loppua, kun tilanne on näin vakava.
+Suomella on, kiitos valtiovarainministeri Jutta Urpilaisen, miljardi euroa pankkitilillä tur-
+vaamassa suomalaisten veronmaksajien saatavia. Onneksi on. En minä ymmärrä, meinaa-
+vatko perussuomalaiset näillä sanaleikeillään taikoa näkymättömäksi sen miljardin, jonka
+sosialidemokraatit suomalaisen veronmaksajan hyväksi taistelivat. Minusta on uskoma-
+tonta, että edelleen tätä samaa levyä pyöritetään, että Suomella muka ei olisi vakuuksia.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+Suomella on vakuudet, ja nyt on erittäin tärkeää, että perussuomalaiset sitten eivät tärvele
+tätä tilannetta ja toimi niin, että jatkossa näillä vakuuksilla ei olisi enää merkitystä.
+
+18.33 Ben Zyskowicz kok: Arvoisa rouva puhemies! Edustaja Huhtasaarelle haluan en-
+sin huomauttaa, että Kreikan ajautuminen euron ulkopuolelle tai lähteminen tai lähdettä-
+minen eurosta ei ole mikään patenttiratkaisu, toisin kuin hänen puheenvuorostaan saattoi
+päätellä. Luuleeko edustaja Huhtasaari tai muut perussuomalaiset, että meidän miljardisaa-
+tavamme olisivat silloin paremmassa turvassa, jos Kreikka jäisi euron ulkopuolelle? Voi-
+daan kai olla aika varmoja siitä, että siinä tapauksessa meidän saataviemme saaminen ta-
+kaisin olisi huomattavasti epävarmempaa ja kestäisi, jos mahdollista, vielä pitempään.
+
+Mitä sitten tulee edustaja Heinäluoman puheenvuoroon, niin lähtökohta on mielestäni
+aivan selvä. Kreikka, kuten muutkin maat, vastaa omista veloistaan. Ja syy siihen, miksi
+Suomi esimerkiksi on ollut lainoittamassa Kreikkaa, on ollut se, että olemme nähneet, että
+jos näin ei olisi tehty ennen kaikkea silloin vuonna 2010 ensimmäisen Kreikka-paketin
+kohdalla, niin Kreikan ongelma olisi levinnyt erittäin rajusti yli koko euroalueen ja vahin-
+goittanut sitä kautta koko euroalueen taloutta ja hyvin tuntuvasti myös Suomen taloutta.
+Eli, edustaja Heinäluoma, lähtökohta on aivan selvä: Kreikan on maksettava omat velkan-
+sa, ja Kreikan on myös tehtävä niitä uudistuksia, joihin se on sitoutunut.
+
+Neuvottelutilanne on tietysti se, että Kreikka näissä neuvotteluissa, yhtenä osana neu-
+votteluja, on tuonut pöytään omien velkojensa leikkaamisen tai edes lupauksen siitä, ja tätä
+kautta tämä on varmasti, ymmärtääkseni, siellä neuvottelupöydässä, mutta Suomen lähtö-
+kohta on aivan selvä: jokainen maa vastatkoon itse omista veloistaan.
+
+18.35 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Ei tässä ole tilanne kovin paljon siitä
+muuttunut, kun elimme sosialidemokraattisen valtiovarainministerin aikaa: mikä näitten
+Kreikka-saatavien arvo oli silloin, ja mitä se on tänä päivänä. Jos ajatellaan, että meillä oli-
+si yrityksen kirjanpidosta kysymys — siellähän sanotaan, että saatavat merkitään enintään
+todennäköiseen arvoon — niin mihin nämä Kreikan saatavat olisi pari kuukautta sitten pi-
+tänyt merkitä ja mihin ne olisi tänä päivänä pitänyt merkitä? Tässä on aika paljon huonot
+housuissa olleet jo pitempään, eli ei ole, niin kuin edustaja Zyskowicz sanoi, enää hokkus-
+pokkustemppua olemassa kaikkien Kreikka-saatavien osalta, jos asiaa realistisesti katso-
+taan. Olisi aivan välttämätöntä, että Kreikka palaisi näiden uudistusten tielle, saisi hallin-
+tonsa kuntoon, mutta siltikin me olemme ongelmissa.
+
+18.36 Eero Heinäluoma sd: Arvoisa puhemies! Tämä Kreikka-keskustelu on tietysti
+olennaista keskustelua myös EKP-järjestelmän tulevan toiminnan kannalta ja myös niiden
+riskien kannalta, joita EKP-järjestelmällä on suhteessa Kreikkaan ja itse asiassa myös suh-
+teessa eräisiin muihinkin euroalueen maihin.
+
+Nyt huomio kiinnittyy siihen, että perussuomalaiset siis eivät vastaa tähän kysymyk-
+seen ja poistuvat paikalta lisäksi vielä, niin että ei tarvitse asiasta keskustella. Tämä on his-
+toriallinen tilaisuus, että nyt ei Kreikka-keskustelu maistu, vaikka se on tuotu joka ikiseen
+keskusteluun tätä ennen vuodesta 2010 lähtien, kuului se siihen tai ei. Se herättää aidosti
+huolen, että miksi ei haluta keskustella, ja tulee se käsitys, ettei haluta keskustella, koska
+linjaa ollaan muuttamassa. Piikkiä ei olla laittamassa kiinni, eikä se ole kiinni, vaan sitä ol-
+laan avaamassa apposen selälleen. Siis ei näytä kovin hyvältä.
+12
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+Kiitän edustaja Zyskowicziä selkeästä, tai sanoisinko kohtuullisen selkeästä, vastauk-
+sesta, kun hän sanoi, että kreikkalaisten pitää itse vastata veloistaan. Tämä on erittäin tär-
+keä periaate sekä tämän kriisin hoitamisen yhteydessä että myös jatkoperiaatteena. Täytyy
+nimittäin nähdä, että jos nyt hyväksytään se, että Euroopan unionin saatavilla, olivat ne sit-
+ten missä muodossa tahansa, tai jäsenmaiden saatavilla voidaan hoitaa Kreikan velkoja,
+niin kyllähän sitten siinä ovella tulee muitakin asiakkaita, koska eihän Kreikka ole ainut
+maa, jota on tässä kriisissä autettu, vaan siellä on muitakin maita: Portugali, Irlanti esimer-
+kiksi, Espanjakin rajatummassa muodossa.
+
+Ja sitten lisäksi tulee tämä vanha kysymys, josta olemme finanssikriisin, 2008 finanssi-
+kriisin, jälkeen moneen kertaan puhuneet, tämä moral hazard -ongelma, moraalikadon on-
+gelma, että jos niitä, jotka ovat hoitaneet asiansa huonosti, palkitaan veronmaksajien rahal-
+la, niin tulee tietenkin suuri riski, että kannattaakin hoitaa huonosti, koska joku muu tulee
+ja maksaa. Ja sen takia se, mitä nyt Kreikassa päätetään, ei koske vain Kreikkaa nyt, vaan
+kaikkia velallisia maita ja koko tämän euroalueen tulevaa kehitystä. Jos parlamentit eivät
+tässä pidä linjaansa ja edusta terveen talouden linjaa, niin jään kysymään, kuka sitä sitten
+sen jälkeen edustaa. Hallituksilla on nimittäin taipumus hoidella asioita, varsinkin jos sen
+voi tehdä noin puolihuolimattomasti, sillä tavalla, että kaikilla on hyvä olla, ja sitten ollaan
+höveleitä tämän lompakon avaamisen osalta.
+
+Nimittäin EKP-järjestelmän kautta tuleva vastuu, johon edustaja Zyskowicz viittasi, on
+arvioidusti runsaan 2 miljardin euron luokkaa Kreikan osalta. Varmaan muitakin numeroi-
+ta voi esittää. Se on siis yksi osa näitä Suomen kokonaisvastuita Kreikasta. Sitten meillä on
+tämä kahdenkeskinen laina, joka annettiin 2010 keväällä, ja tämän lisäksi meillä on sitten
+tämä ERVV:stä lähtenyt laina. Ja näistä me olemme tilanteessa, että on perinteisesti ajatel-
+tu niin, että keskuspankkirahoituksen täytyisi olla sellaista, että se kaikissa oloissa makse-
+taan takaisin, ja uskon, että EKP kyllä haluaa pitää siitä kiinni, että EKP:n antamaa luoto-
+tusta ei anneta anteeksi. Jos nimittäin se annettaisiin anteeksi, niin voi sitten kysyä, miten
+EKP voi jatkossa tällaisissa kriiseissä toimia ja huolehtia maksuvalmiusluototuksesta vai-
+keuksissa olevien maiden vaikeuksissa oleville pankeille. Eli uskon ja toivon, että EKP on
+tässä asiassa mahdollisimman tiukkana, ja rohkenen toivoa, että Suomen Pankin pankki-
+valtuuston jäsenet osaltansa edustaisivat tätä tiukkaa linjaa, että täytyy olla varmuus siitä,
+että EKP:n luototus asianmukaisesti maksetaan takaisin.
+
+Ja sitten tähän kahdenkeskiseen lainaan: sillehän ei ole mitään suojausta olemassa, se on
+riskirahoitusta, jos tämä siirretään tähän velkojen yhteisvastuuseen ja velkojen anteeksian-
+toa tehdään. Mutta sitten meillä on tämä ERVV:stä annettu luotto, jota Suomi on taannut ja
+johon olemme sijoittaneet pääomaa, jolla sitä lainaa on sitten markkinoilta haettu. Siinä-
+hän meillä on vakuusjärjestely — tuotto- ja vaihtosopimuksen muodossa, mutta vakuusjär-
+jestely — noin miljardin euron suuruinen summa, joka turvaa meidän saataviamme. Täs-
+tähän nykyinen pääministeri oppositiossa ollessaan minusta hyvin arvostettavalla, miehek-
+käällä tavalla sanoi, että kyllähän ne ovat vakuuksia ja ne turvaavat Suomen saatavia, jos
+Kreikka on maksukyvytön. Mutta tämänkin osalta on se tilanne, että jos Suomen hallitus
+hyväksyy velkajärjestelyn ja hyväksyy, että lainoja leikataan, niin sittenhän niistä vakuuk-
+sista ei tietenkään ole mitään hyötyä. Jos me hyväksymme sen, että Kreikalle annetaan näi-
+tä lainoja anteeksi, niin emme me sitten enää voi sanoa, että hetkinen, meillä oli vakuuksia,
+koska nehän ovat voimassa vain niissä olosuhteissa, että meidän kantaamme ei kysytä tä-
+hän maksukyvyttömyyteen. Joten aika suurista asioista puhutaan, jos puhutaan — niin kuin
+nyt näyttää — miljardiluokan lisämenoista, kun meillä on tehty vakuusjärjestely nähden ne
+13
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+riskit, että tämä Kreikan asia voi päätyä onnettomalla tavalla. Jos hallitus näissä oloissa
+kääntää Suomen monen vuoden linjan uusiksi ja ryhtyy hyväksymään yhteisvastuuta ja
+velkajärjestelyä, me olemme aika isojen kysymysten äärellä, ja tämän seuraukset tulevat
+sitten kyllä pitkän aikaa veronmaksajien maksettavaksi ja parhaassa tapauksessa johtavat
+holtittomaan taloudenpitoon euroalueella myös tulevaisuudessa. Joten tästä asiasta on tar-
+ve saada selko.
+
+Olen iloinen siitä vastauksesta, jonka edustaja Zyskowicz antoi, ja rohkenen vielä toi-
+voa, että edustaja Ala-Nissilä rohkaisisi itsensä ilmoittamaan, että myös hän on sillä kan-
+nalla, että Kreikan tulee huolehtia itse omat velkansa ja me emme hyväksy mitään velko-
+jen anteeksiantoa.
+
+18.44 Arto Satonen kok: Arvoisa puhemies! Toivon, että aika moni muukin on sillä kan-
+nalla, että lähtökohtaisesti kaikki pyrkivät hoitamaan omat asiansa, mutta kun tämä Kreik-
+ka-keskustelu on tässä jo vuosia vellonut ja sillä on ollut erilaisia vaiheitansa, niin on ehkä
+hyvä kuitenkin mainita, että on toisenlaisiakin näkemyksiä esitetty myöskin sosialidemo-
+kraattien joukosta. Lainaan täältä: "On järkevää hakea oikea taso, millä kreikkalaiset sel-
+viävät lainojen anteeksiannon kautta, ja hakea siihen liittyvä ohjelma, jolla kreikkalainen
+yhteiskunta omaa talouskasvuaan ja työllisyyttään voi lähteä parantamaan. Sillä ehkä saa-
+daan paras tulos aikaiseksi." Tämä on Ylen haastattelu 27.2.2014, ja tämän haastattelun on
+antanut Antti Rinne, joka oli siis tätä mieltä ennen tuloaan valtiovarainministeriksi. Ehkä
+tämä kuvaa vain asian vaikeutta.
+
+18.45 Eero Heinäluoma sd: Arvoisa puhemies! Rohkenen toivoa, että edustaja Satonen
+ei voi olla samaa mieltä tuon siteerauksen kanssa. (Arto Satonen: Sitä en väittänytkään!)
+Toivon, että voisitte julkisesti ilmoittaa, että te ette ole tätä mieltä. Siis nimittäin jos te tuon
+allekirjoitatte, niin sitten kyllä uskoni hallitukseen olennaisesti heikkenee, dramaattisesti
+heikkenee.
+
+Ja mitä tulee puheenjohtaja Rinteeseen, niin on syytä todeta, että hänhän on antanut tuol-
+le lausunnolle heti sen jälkeen selityksen, jossa hän on todennut, että se, mihin hän on val-
+mis, on, että voidaan velkojen maksuaikaa pidentää ja korkoakin voidaan katsoa, mutta ko-
+rossakin on sitten lattia olemassa. Sellaistahan ei voida hyväksyä, että Suomi maksaisi itse
+omasta varainhankinnastaan korkeampaa korkoa kuin mitä Kreikka maksaa näistä luotto-
+järjestelyistään.
+
+Meillä oli aikaisemmin se tilanne, että jonkun aikaa nämä Kreikan maksamat korot oli-
+vat selvästi korkeampia kuin mitä esimerkiksi Suomen omasta varainhankinnastaan mak-
+sama korko oli. Hyväksyn kyllä sen periaatteen, että ei Suomen tarvitse tienata näillä jär-
+jestelyillä, mutta se ajatus, että korkojen kautta tultaisiin tilanteeseen, jossa maksaisimme
+itse korkeampaa korkoa kuin mitä Kreikka maksaa, on kyllä mahdoton hyväksyä sekin.
+Mutta kannattaa tutustua Rinteen lausuntoon, myös Yleisradiolle annettuna, tuon sitee-
+rauspäivän jälkeen.
+
+18.47 Pia Viitanen sd: Arvoisa rouva puhemies! Todettakoon nyt tähän ihan reilusti ja
+rehdisti myös eduskunnan täysistunnon pöytäkirjaan, että on niin, että sosialidemokraatit
+ovat itse asiassa ainoa puolue, jonka linja on pysynyt koko ajan samana. Silloin 2010 me
+vastustimme näitä järjestelyjä, koska Suomi ei saanut vakuuksia eikä sijoittajavastuu toteu-
+tunut. Sen jälkeen tulimme hallitusvastuuseen ja hoidimme niin, että saimme vakuudet ja
+14
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+sijoittajavastuu toteutui, jolloin koko Suomen linja yhtenäisesti muuttui. Ja nyt sitten taas
+seuraavalla hallituskaudella, tällä kertaa oppositiosta, me olemme edelleen täsmälleen sa-
+maa mieltä.
+
+Nyt me kannamme huolta, kuten tässä ollaan kuultu edellä, siitä, ovatko hallituspuolu-
+eet enää tällä tiukalla linjalla vai onko tässä nyt tapahtumassa todella iso harppaus Suomen
+linjan muuttamiseen, joka on todella vakava asia ja suomalaisen veronmaksajan kannalta
+todella, todella äärimmäisen onneton tilanne. On hyvä, että Ben Zyskowicz on täällä sano-
+nut kantansa. Toivottavasti myös Arto Satonen kokoomuksesta pyydetysti vahvistaa ole-
+vansa samaa mieltä ja edustaja Ala-Nissilä keskustan kannan. Voisitte itse asiassa vaikka
+pistää tekstiviestiä tai jotakin sähköpostia nyt sinne perussuomalaisille, teidän hallitus-
+kumppaneillenne, jotta he voisivat myös tulla tänne kertomaan oman kantansa tähän
+asiaan, koska minä olen samalla lailla vähän epäilevä: jos täällä Kreikasta puhutaan ja pe-
+russuomalaiset eivät ole paikalla vaan itse asiassa poistuivat juuri sillä hetkellä salista, niin
+se on kyllä jo niin historiallista, että toivottavasti tässä nyt ei ole merkkejä ilmassa.
+
+18.48 Eero Heinäluoma sd: Arvoisa puhemies! Kyllähän tästä vakuusjärjestelystä on
+kuitenkin syytä todeta, että sehän oli koko hallituksen, edellisen vaalikauden hallituksen,
+yhteinen linjaus, että vakuuksia haettiin. Ja ymmärsin kyllä niin, että silloin kun niitä haet-
+tiin, niin sille oli tukea eduskunnasta laveammaltikin. Ja sitähän aikaisemmassa yhteydes-
+sä moneen eri kertaan vaadittiin, muun muassa silloin 2010 toukokuussa, kun tätä Kreikan
+kahdenkeskistä lainaa, sitä ensimmäistä tukipakettia, käsiteltiin.
+
+Mutta tämä pelkistyy nyt siihen kysymykseen, muutetaanko Suomen linja todella ta-
+louspolitiikan megaluokan isossa asiassa niin, että Suomi lähtisi kulkemaan velkojen yh-
+teisvastuun suuntaan — asia, jota lähes kaikki puheenvuoron käyttäjät tähän saakka ovat
+julkisessa keskustelussa eri tavoin vastustaneet ja nähneet sen todella turmiollisen vaiku-
+tuksen euroalueen tulevan taloudenpidon kannalta — ja toteutetaanko tämä julkisen velan
+leikkauksena. On syytä muutoin sanoa, että tällähän ei ole mitään akuuttia vaikutusta Krei-
+kan taloustilanteeseen, koska suhteessa sekä kahdenkeskisiin että vakausmekanismista an-
+nettuihin luottoihin niissä ei ole sellaisia maksuaikatauluja päällä, että olisi joku akuutti
+kriisi, vaan tätä maksuaikaahan on pidennetty, joten kysymys on isosta periaateasiasta, ei
+sellaisesta asiasta, jolla olisi joku välitön vaikutus Kreikan taloustilanteeseen. Ja yhdyn sii-
+hen näkemykseen, että kreikkalaisten täytyy tehdä kovasti töitä, jotta he saavat oman ta-
+loudenpitonsa terveelle pohjalle.
+
+18.50 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Emme kannata yhteisvastuuta, en kan-
+nata yhteisvastuuta, mutta sanon vielä sen, että oleellista on se, että pitää osata elää yhteis-
+valuutan oloissa. Me suomalaiset emme tällä hetkellä osaa. Me olemme päästäneet kustan-
+nukset karkaamaan, menettäneet kilpailukykymme, teollinen pohja on rapautunut. Me
+olemme näivettyneitä, ja näin Suomessa ei voida jatkaa. Todella tämä hallitusohjelma tu-
+lee ihan viimeisessä vaiheessa ja tarvitaan se yhteiskuntasopimus, jotta Suomi pystyy elä-
+mään yhteisvaluutan vaativissa oloissa. Kreikkalaiset eivät osaa lainkaan tällä hetkellä,
+tämä nykyhallitus, elää, ja se on iso ongelma. Katsoin aivan viimeisiäkin uutisia, niin ve-
+nytetään ja vanutetaan eikä synny ratkaisuja. Meillä on euroalueella siinä iso ongelma kä-
+sillä, ja siinä nyt pitäisi kyllä todella tiukasti toimia, että seuraukset eivät enää siitä kasva.
+Mutta se, että Kreikka on otettu euroon, me olemme eurossa, jo tekee tämän tilanteen vai-
+keaksi.
+15
+
+
+
+Pöytäkirjan asiakohta PTK 24/2015 vp
+18.51 Eero Heinäluoma sd: Arvoisa puhemies! Yhdyn edustaja Ala-Nissilän käsityk-
+seen, että kyllä meilläkin on tässä aika paljon oppimista ja on paljon itsekin tehtävä, jotta
+pärjäämme, ja myös omasta kilpailukyvystä huolehtimisessa. Sitten on kuitenkin syytä sa-
+noa se, että meillähän on kaksi teollista muutosta yhtä aikaa käsillä, jotka muutokset ovat
+se suurin selittävä tekijä meidän vaikeuksillemme. Toinen on tämä Nokia-sektorin muutos
+ja se, että Nokia ei satsannut ajoissa älypuhelimeen eikä nähnyt, mitä iPadin syntyminen
+tarkoittaa suhteessa kuluttajaan ja myös yrityselämän ajattelutavan muuttumiseen. Samas-
+ta ilmiöstä kärsii myös metsäteollisuus, joka liian pitkään rakensi tämän sanomalehtipape-
+rin jatkuvan kasvun varaan ja sitten teki vääriä strategisia ratkaisuja ja loppuvaiheessa jopa
+myi sen sellutuotannon. Suljettiin muun muassa Kemijärven sellutehdas olosuhteissa, jois-
+ta sitten myöhemmin on voitu todeta, että itse asiassa selluhomma oli sitä kannattavaa bis-
+nestä ja se olisi kannattanut pitää.
+
+Mutta sitten suhteessa tähän nykytilanteeseen pidän kuitenkin päivänselvänä, että jos
+Suomi hassaa miljardeja euroja tässä Kreikan velkajärjestelyssä, niin se ei, arvoisat kolle-
+gat, mitenkään edesauta meidän kotimaista pärjäämistämme, kun me tiedämme, missä ti-
+lanteessa ollaan täällä budjetin rakentamisen yhteydessä. Tämmöinen miljardien eurojen
+käyttö velkajärjestelyyn suomalaisen veronmaksajan rahaa on sitten kyllä suoraan näky-
+vissä siinä Suomen valtion taseessa ja meidän omissa toimintamahdollisuuksissamme, jot-
+ka meille ovat tärkeitä.
+
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan.
+16
+
+

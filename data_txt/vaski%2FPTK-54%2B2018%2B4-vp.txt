@@ -1,0 +1,1331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM514D.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 54/2018 vp
+
+Täysistunto
+
+Keskiviikko 23.5.2018 klo 13.59—17.28
+
+4. Valtioneuvoston paikkatietopoliittinen selonteko
+Valtioneuvoston selonteko VNS 2/2018 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päiväjär-
+jestyksen 4. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään maa- ja metsätalousva-
+liokuntaan, jolle hallintovaliokunnan, liikenne- ja viestintävaliokunnan, puolustusvalio-
+kunnan, tulevaisuusvaliokunnan ja ympäristövaliokunnan on annettava lausunto.
+
+Valtioneuvoston esittelypuheenvuoron jälkeen keskustelu käydään etukäteen pyydetty-
+jen puheenvuorojen osalta nopeatahtisena. Ryhmäpuheenvuorojen pituus on enintään 3
+minuuttia ja muiden etukäteen varattujen puheenvuorojen pituus enintään 5 minuuttia. Pu-
+hemiesneuvosto suosittaa, että myös nopeatahtisen keskusteluosuuden jälkeen pidettävät
+puheenvuorot kestävät enintään 5 minuuttia. Lisäksi voin myöntää harkitsemassani järjes-
+tyksessä 1 tai 2 minuutin pituisia vastauspuheenvuoroja.
+
+Keskustelu
+
+14.06 Maa- ja metsätalousministeri Jari Leppä (esittelypuheenvuoro):  Arvoisa rouva
+puhemies! Hyvät kollegat! Lähes kaikki tiedot ovat paikkatietoja. Siksi on luontevaa, vaik-
+ka vähän ehkä yllättävääkin, että ensimmäinen tietopoliittinen selonteko on nimenomaan
+paikkatietopoliittinen selonteko.
+
+Toinen varapuhemies Tuula Haatainen: Anteeksi, ministeri! — Pyydän edustajia käy-
+mään keskustelut salin ulkopuolella. Keskitytään kuuntelemaan.
+
+Kiitos! — Hallitus antaa eduskunnalle loppusyksyllä selonteon tekoälystä ja tietopolitii-
+kasta. Yhdessä selonteot vauhdittavat Suomen uudistamista digitalisaation avulla.
+
+Kaikki tieto, jonka yhtenä ominaisuutena on sijainti, on paikkatietoa. Lähes kaikki tieto
+koskee asioita tai ilmiöitä, jotka on yhdistetty esimerkiksi valtioon, kuntaan, osoitteeseen,
+kiinteistöön, koordinaatteihin ja niin edelleen. Paikkatietoa on siis paljon, ja sitä hyödyn-
+netäänkin paljon.
+
+Ennen käytettiin painettuja karttoja. Nykyään navigaattori on melkein kaikille tuttu. Se
+on paikkatietoanalyysiin perustuva sovellus tai palvelu. Pelastuspartio löytää jalkansa lou-
+kanneen marjastajan hänen älypuhelimeen lataamansa 112-mobiilisovelluksen ansiosta.
+Poliisin partioautolla ei lähdetä liikkeelle, ellei sen navigaattori/karttasovellus toimi. Sano-
+taan, että armeija marssii vatsallaan, mutta ilman paikkatietoanalyysejä ja -sovelluksia se
+voisi yhtä hyvin jäädä kasarmille. Metsäteollisuuden koko tuotantoprosessi perustuu paik-
+katietojen hyödyntämiseen. Esimerkkejä siis riittää.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Arvoisa puhemies! Paikkatietopoliittista selontekoa tarvitaan, koska nykyinen tietojen
+laatu — eli ajantasaisuus, tarkkuus, täydellisyys ja saatavuus — ei enää riitä. Tiedot ja nii-
+hin liittyvät palvelut eivät ole riittävän yhteensopivia. Esimerkiksi asemakaavakarttojen
+tiedot pitäisi muuttaa standardien mukaisiksi, koneluettaviksi ja yhtenäisiksi tiedoiksi, jot-
+ta niitä voitaisiin kattavasti hyödyntää muuten kuin tulosteina. Ne ovat maan tarkimpia taa-
+jamista kattavasti olemassa olevia tietoja.
+
+Tekninen kehitys muuttaa ihmisen toimintaa ja paikkatietojen keruuta. Robottiautot ei-
+vät liiku eivätkä voi liikkua Suomen talvessa, mikäli paikkatietoaineistot eivät ole riittävän
+tarkkoja ja ajantasaisia eivätkä paikannuspalvelut riittävän tarkkoja ja luotettavia. Tark-
+kuuden on oltava selkeästi alle 10 senttimetriä — nyt ei vielä olla sillä tasolla. Myös esi-
+merkiksi täsmäviljelyyn liittyvät erilaiset sovellukset sekä autonomiset metsäkoneet vaati-
+vat tarkkoja paikkatietoja ja paikannusta.
+
+Yhteiskunnan kokonaisturvallisuusympäristön muutos haastaa miettimään tarkasti
+paikkatietojen käyttöoikeuksia. Henkilötietojen suojaamista on pohdittu erityisen tarkasti
+paikkatietojen yhteydessä, koska niitä on helppo yhdistellä sijainnin perusteella. Yhteis-
+kunnan kokonaisturvallisuus haastaa meitä miettimään paikkatietojen käyttöoikeutta ai-
+van erityisellä tavalla. Onko kiinteistötunnus paikkatietoa ja henkilötietoa? Sen löytää jul-
+kisista karttapalveluista. Tunnuksen avulla saa tietää kiinteistön omistajan. Eri palveluista
+saa tietää esimerkiksi sen, minkälaisia rakennuksia ja puustoa kyseisellä kiinteistöllä on.
+
+On tärkeää edistää ja kehittää paikkatietoihin perustuvia yritysten liiketoimintamahdol-
+lisuuksia ja samalla lisätä paikkatietojen hyödyntämistä yhteiskunnassa. Siten voidaan teh-
+dä parempia päätöksiä, tehostaa toimintaa yhteiskunnan kaikilla sektoreilla, välttää turhaa
+työtä ja helpottaa ihmisten arkea. Esimerkiksi Metsäteho Oy on laskenut, että metsäalan
+toimijat voisivat hyötyä varovaisestikin arvioiden 100 miljoonaa euroa vuodessa, jos paik-
+katietoja sekä niiden laatua ja yhteiskäytettävyyttä kehitetään. Puunkorjuun tulevaisuus
+voikin olla yhtenäisesti toimivissa laitteissa, jotka liikkuvat metsässä tiedon turvin.
+
+Arvoisa puhemies! Selonteon visio on se, että Suomessa on maailman innovatiivisin ja
+turvallisin paikkatiedon ekosysteemi. Selonteon sisältö muokkautui pääosin sidosryhmä-
+työskentelyn kautta. Kolmessa osaprojektissa selvitettiin julkishallinnon, yrityssektorin
+sekä koulutus- ja tutkimussektorin näkemyksiä siitä, miten Suomen paikkatietotoiminnot
+pitäisi järjestää, jotta ne palvelisivat mahdollisimman hyvin koko yhteiskuntaa. Neljännes-
+sä osaselvityksessä haettiin vastausta siihen, miten tekninen kehitys vaikuttaa paikkatieto-
+toimintoihin Suomessa. Osaprojektit hankkivat kohderyhmien näkemykset pääosin kas-
+vokkain keskustelemalla tapaamisissa, työpajoissa ja seminaareissa alustusten innoittami-
+na.
+
+Selonteossa päädyttiin seitsemään toimenpiteeseen, jotka toteuttamalla voitaisiin tehdä
+iso harppaus kohti vision tavoitekuvaa:
+
+Ensimmäiseksi, varmistetaan laadukkaat osoitetiedot. Valtakunnalliset osoitetiedot
+kunnostetaan ripeästi yhteistyössä eri toimijoiden kanssa. Myös osoitetietoprosessi kun-
+tien osoitetuotannosta käyttäjälle asti pitää saada kuntoon, jotta turhaa työtä ei tehdä ja
+osoitteisiin syntyy mahdollisimman vähän virheitä. Toimenpiteessä huomioidaan turvalli-
+suusviranomaisten erityistarpeet.
+
+Toiseksi, tarjotaan tarkka paikannus kaikkien käyttöön. Kansallinen satelliittipaikan-
+nusta tarkentava FinnRef-paikannuskorjauspalvelu tarjotaan avoimesti yleiseen käyttöön
+tulevaisuuden paikannus- ja logistiikkapalveluita varten. Se on elinehto muun muassa
+2
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+koko autonomisen liikenteen kehittämiselle. Yhteiskunnan kokonaisturvallisuus pitää ot-
+taa tässäkin huomioon.
+
+Kolmanneksi, tehdään turvallisuusviranomaisille yhteinen paikkatietoalusta. Turvalli-
+suusviranomaisilla on joukko yhteisiä paikkatietoaineistoihin ja -tuotteisiin liittyviä eri-
+tyistarpeita. Rakennetaan niiden täyttämiseksi siis tuo yhteinen paikkatietoalusta. Yhteis-
+kunnan kokonaisturvallisuudesta huolehtiminen on paikkatietoriippuvaista toimintaa, joka
+ei voi perustua ulkomaisiin palveluihin. Esimerkiksi turvallisuusviranomaisten tilanneku-
+van taustaksi tarvitaan kaikille yhteiset, ajantasaiset paikkatietotuotteet.
+
+Neljänneksi, kehitetään yhteistä paikkatiedon ekosysteemiä. Kiihdytetään eri toimijoi-
+den, sekä yritysten että julkisen sektorin, yhteistyötä paikkatietotoimintojen verkottami-
+sessa yhteiseksi tieto- ja palvelukokonaisuudeksi. Eri sektoreiden yhteistoiminta lisääntyy
+digitalisaation myötä. Se on ekosysteemin perusta ja tukee toimintojen tehostamista, tieto-
+jen yhtenäistämistä, palvelujen kehittämistä sekä yritysten liiketoiminnan kehittämistä.
+
+Viidenneksi, tehostetaan yhteistyötä uudella yhteistyöelimellä. Eri sektoreiden laaja yh-
+teistyö tehostuu joko kehittämällä olemassa olevaa organisaatiota tai perustamalla uusi yh-
+teistyöorganisaatio. Sen tarkoituksena on muun muassa paikkatietojen hyödyntämisen
+edistäminen, yritystoiminnan mahdollisuuksien kehittäminen sekä osaamisen ja tietoisuu-
+den lisääminen paikkatietojen mahdollisuuksista.
+
+Kuudenneksi, lisätään osaamista ja tietämystä paikkatiedoista. Paikkatietojen tehokasta
+hyödyntämistä hidastaa puute osaamisessa ja tietoisuudessa niiden mahdollisuuksista. Ti-
+lanteen korjaamiseksi lisätään paikkatietoja ja niiden käyttöön liittyviä hyötyjä esiin tuo-
+vaa tietoa ja toimintaa verkostoissa kaikilla koulutustasoilla ja kaikissa organisaatioissa.
+
+Seitsemänneksi, uudistetaan lainsäädäntöä kehityksen varmistamiseksi. Varmistetaan
+tavoitteisiin pääsyä uudistamalla lainsäädäntöä muun muassa velvoittamalla kaikki viran-
+omaiset tuottamaan ja jakamaan keskeiset paikkatiedot yhteiskäyttöisinä, määrittelemällä
+yhteiskunnan kannalta keskeiset paikkatietovarannot, kuvaamalla julkishallinnon organi-
+saatioiden paikkatietotoimintoihin liittyvät vastuut ja roolit sekä täsmentämällä erityisesti
+muun muassa paikkatietoihin liittyviä turvallisuusnäkökulmia mukaan lukien tietoturva ja
+yhteiskunnan kokonaisturvallisuuden vaarantumattomuus.
+
+Selonteon erikseen käynnistettävässä toimenpideohjelmassa viedään eteenpäin toimen-
+piteiden toteuttamista.
+
+Arvoisa puhemies! Korkealaatuiselle osaamiselle perustuva, maailman innovatiivisin ja
+turvallisin paikkatiedon ekosysteemi tuottaa paljon hyvinvointia suomalaiseen yhteiskun-
+taan. Jotta pystymme kehittymään maailman kärkimaaksi paikkatietojen hyödyntämisessä
+yhteiseksi hyväksi, tarvitaan harppauksia monilla aloilla. Toivon, että valiokunnat ottavat
+laajasti kantaa selonteon toimenpiteisiin ja pohtivat, mitä ne tarkoittavat eri toimialoilla.
+Paikkatietojen mahdollisuuksien monipuolinen käyttöönotto vaatii poliittista tahtoa ja po-
+liittista tukea. Paikkatietopoliittinen selonteko sekä syksyllä annettava tekoäly- ja tietopo-
+liittinen selonteko näyttävät yhdessä askelmerkit digitalisaation ja tiedolla johtamisen täy-
+simääräiseksi hyödyntämiseksi suomalaisen yhteiskunnan parhaaksi. — Kiitos!
+
+Toinen varapuhemies Tuula Haatainen: Käydään ryhmäpuheenvuorokierrokseen.
+
+14.17 Juha Pylväs kesk (ryhmäpuheenvuoro):  Arvoisa rouva puhemies! Kymmenen
+vuotta sitten olin hakemassa yritykseeni kalustoseurantaan ja täsmäviljelyyn soveltuvaa
+tekniikkaa Saksasta alan messuilta. Silloin ainoastaan kolme yritystä pystyi toimittamaan
+3
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+paikkatietoon perustuvaa tekniikkaa, ja se toimi satunnaisesti ja epätarkasti. Nyt on toisin.
+Tänä päivänä pystyn seuraamaan yritykseni kalustoa kymmenien senttien tarkkuudella
+mistä tahansa, vaikkapa täältä eduskunnasta. Tämän mahdollistavat nopeasti kehittynyt
+tekniikka, hyvät tietoliikenneyhteydet sekä entistä tarkempi tieto paikasta.
+
+Nyky-yhteiskunnassa paikkatietoa hyödynnetään monella eri tavalla. Meille tarjotaan ja
+käytämme päivittäin eri palveluja, jotka perustuvat ajantasaiseen paikkatietoon. Hyvä esi-
+merkki paikkatietoon perustuvasta palvelusta on jo yli miljoonaan puhelimeen ladattu 112
+Suomi -palvelu, joka auttaa hätään joutuneita ihmisiä. Sijaintiin perustuva tieto tarjoaa tu-
+levaisuudessa ihmisille uusia arkea helpottavia palveluja sekä yrityksille uusia kasvun ja
+työllistämisen mahdollisuuksia. Paikkatiedon hyödyntäminen luo myös edellytyksiä te-
+hokkaammalle ja ympäristöystävällisemmälle toiminnalle niin julkisella kuin yksityisellä
+puolella. Tekniikan nopea kehitys lisää myös tarvetta sopia yhteisistä pelisäännöistä, jotta
+paikkatiedon hyödyntäminen on turvallista. 
+
+Arvoisa puhemies! Keskustan eduskuntaryhmä pitää tärkeänä, että julkisen vallan vas-
+tuut ja roolit paikkatiedon osalta on määritelty selvästi laissa. Yhdymme näkemykseen,
+että julkisen vallan tuottamien tietojen on pääsääntöisesti oltava käyttöoikeuksiltaan rajoit-
+tamattomia, maksuttomia ja avoimia. On oltava valmis myös hyödyntämään yritysten tar-
+joamia palveluja ja valmiita ratkaisuja. Lisäksi yhteistyö ja useiden tahojen pääsy paikka-
+tiedon käyttöön on varmistettava. Viranomaisten yhteistyön ja tietojärjestelmien pitää jat-
+kossa toimia niin, että tarvittava tieto ilmoitetaan vain yhteen ainoaan paikkaan.
+
+Selonteon mukaan Suomessa on tulevaisuudessa maailman edistyksellisin ja turvallisin
+paikkatietoympäristö. Se on kannatettava tavoite. Samalla on kuitenkin tunnistettava paik-
+katiedon hyödyntämisen heikkoudet. Tekniikkaan ja tietoverkkoihin liittyvät uhkat ovat
+todellisuutta. Tämä vaikuttaa myös Suomen turvallisuuteen. Lainsäädäntömme pitää olla
+tältäkin osin ajan tasalla. Erityisen tärkeää on, että yksittäistä ihmistä koskevat tiedot, ku-
+ten henkilötiedot, eivät ole julkisesti kaikkien saatavilla.
+
+Arvoisa puhemies! Paikkatiedon mahdollisuudet laajenevat koko ajan. [Puhemies ko-
+puttaa] Yhteiskunnan tehtävä on nyt vastata nopeaan kehitykseen luomalla edellytyksiä
+uusille työpaikoille ja palveluille sekä huolehtimalla turvallisuudesta.
+
+14.20 Eero Lehti kok (ryhmäpuheenvuoro):  Arvoisa rouva puhemies! Teknologian ke-
+hittyminen on johtanut fyysisen sijainnin merkityksen vähenemiseen. Ihmiset ympäri maa-
+ilmaa voivat tavoittaa toisensa hetkessä. Etäisyys on menettänyt merkityksensä tiedonku-
+lun kannalta. Kaikki maailman tieto on meidän jokaisen saatavilla pelkän matkapuhelimen
+välityksellä.
+
+Fyysisen sijainnin merkityksen vähentyessä sijainnin ilmaiseman paikkatiedon merki-
+tys on kuitenkin kasvanut. Paikkatiedolla on merkitystä niin ihmisen arkea helpottamaan
+pyrkiville yrityksille kuin julkiselle vallalle. Oli kyse sitten niin uudenlaisista eri liikku-
+mismuotoja yhteensovittamaan pyrkivistä yrityksistä kuin esimerkiksi palo- ja pelastustoi-
+mesta, ajantasainen ja helposti hyödynnettävissä oleva paikkatieto palvelee näitä molem-
+pia.
+
+Paikkatietojen hyvällä saatavuudella luodaan rajattomasti mahdollisuuksia erilaisten so-
+vellutusten ja palveluiden luomiselle. Tiedot rakennuksista, toimipisteistä, kunnista, luon-
+nonsuojelualueista, liikenneväylistä, kaduista ovat julkisen vallan keräämää dataa. Se, mil-
+lä tavoin julkinen valta tätä tietoa kerää ja luovuttaa eteenpäin yksityisten yritysten ja yh-
+teisöjen ja yksityisten ihmisten käytettäväksi, on tulevaisuuden kannalta keskeistä. Ny-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+kyään yhä enenevässä määrin myös yksityiset toimijat keräävät ja käyttävät paikkaan si-
+dottua tietoa. Tältä osin ensimmäisiä ratkaistavia kysymyksiä on, miten huolehtia yksityi-
+sen oikeuksista suhteessa paikkatietoa kerääviin yrityksiin ja millä ehdoilla julkinen valta
+voi luovuttaa keräämäänsä tietoa yksityisille toimijoille.
+
+Hallitusohjelman kirjauksen mukaisesti julkishallinnon tuottamien tietojen tulee olla
+lähtökohtaisesti käyttöoikeudeltaan rajoittamattomia ja maksuttomia. Paikkatiedon osalta
+on kyettävä määrittelemään oikeudelliset ja taloudelliset vastuut. Millä edellytyksillä jul-
+kisen vallan keräämää tietoa voidaan luovuttaa eteenpäin, ja kuka vastaa kustannuksista?
+Paikkatiedon osalta on kyettävä erottamaan toisistaan tiedon tuottaminen, ylläpitäminen ja
+hyödyntäminen. Jokaisen osalta on ratkaisut tehtävä erikseen.
+
+Arvoisa puhemies! Paikkatiedoissa on kyse usein myös henkilötiedoista. Tältä osin
+paikkatiedon hyödyntämisessä ja sen jakamisessa tulee ottaa huomioon perustuslain tur-
+vaama henkilötietojen suoja. Lisäksi päätöksiä tehtäessä tulee huomioida kansallinen tur-
+vallisuus. Kaikkea paikkatietoa ei ole tarkoitettu levitettäväksi vapaasti yleisön saataville.
+
+Meidän lainsäätäjien tehtävänä on määritellä periaatteet, joiden avulla määritellään yh-
+teiskunnan toiminnan kannalta keskeiset tietovarannot ja niihin liittyvät peruspalvelut.
+Paikkatietojen keräämisessä ja levittämisessä tulee kuitenkin huomioida keskeiset niin yk-
+silöiden perusoikeuksien kuin kansallisen turvallisuuden asettamat reunaehdot. 
+
+Tie maailman parhaaksi paikkatiedon hyödyntäjäksi tulee olemaan pitkä, mutta matkan
+ensimmäinen askel on nyt otettu.
+
+14.24 Katja Taimela sd (ryhmäpuheenvuoro): Arvoisa puhemies! Paikkatiedot muodos-
+tavat osan yhteiskunnan keskeisestä infrastruktuurista, jonka olemassaoloon ei kiinnitetä
+huomiota mutta johon monet palvelut ja useiden yritysten kilpailukyky olennaisilta osil-
+taan perustuvat. Meillä Suomessa yhteiskunnalla on merkittävä rooli niin tämän tiedon ko-
+koamisessa kuin sen paikkansapitävyyden ja turvallisuuden takaajana, mitä ei sovi unoh-
+taa. Tätäkin kautta yritykset saavat veroeuroilleen vahvasti vastinetta. Edelläkävijyys paik-
+katiedon käytettävyyden kehittämisessä ja julkisten tietovarantojen avaamisessa tarjoaa
+yrityksillemme merkittävän kilpailukykyvaltin ja pohjan innovaatiotoiminnalle. Jos mie-
+timme vaikkapa liikenteen automatisoitumista, se perustuu aivan keskeisiltä osin tarkkaan
+ja luotettavaan paikkatietoon.
+
+Arvoisa rouva puhemies! Julkisten tietovarantojen avaaminen lähti alkuun vuonna
+2012, kun Maanmittauslaitos avasi maastotietoaineistonsa avoimeen käyttöön. Valtiova-
+rainministeri Jutta Urpilainen oli keskeisessä roolissa aloitteen edistäjänä ja painotti jo
+tuolloin, että kaikenlaisten tietovarantojen avaaminen on yksi tulevaisuuden kasvun ja hy-
+vinvoinnin avain. Tällä Urpilaisen siivittämällä tiellä meidän on hyvä jatkaa.
+
+Tarvitsemme edelleen hyvää yhteispeliä julkisten ja yksityisten toimijoiden välillä.
+Koko ajan muuttuva paikkatietojen hallinta edellyttää tiedonkeruun hallittua joukkoista-
+mista. Tämän paikkatietopoliittisen selonteon merkittävin arvo on siinä, että teemme po-
+liittiset linjaukset siitä, miten monien eri tahojen tuottamia paikkatietoja hyödynnetään jat-
+kossa tehokkaasti ja turvallisesti sekä henkilötietosuojasta huolehtien. Tätä kautta luodaan
+myös edellytyksiä kasvulle ja positiiviselle työllisyyskehitykselle.
+
+Arvoisa rouva puhemies! Elämme vahvasti sosiaalisen median aikakaudella, jolloin jo-
+kainen meistä jakaa itsestään suuria määriä erilaista tietoa sitä aina edes ymmärtämättä.
+Julkisen puolen toimijoiden on tässä oltava eräänlaisia portinvartijoita ja kyettävä pitä-
+mään huoli siitä, että palveluissa hyödynnettävä data on myös aina kansalaisten näkökul-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+masta turvallista. Facebookin perustaja Mark Zuckerberg oli tällä viikolla Euroopan parla-
+mentissa kuultavana liittyen Facebookista tapahtuneisiin tietovuotoihin. Kun tänään käym-
+me keskustelua paikkatietopoliittisesta selonteosta, on syytä pohtia myös ajankohtaiskes-
+kustelun tarvetta sosiaalisen median roolista ja niistä toimintatavoista, joilla monikansalli-
+set somejätit suomalaisista käyttäjistään tietoa keräävät.
+
+14.27 Kari Kulmala sin (ryhmäpuheenvuoro): Arvoisa rouva puhemies! Paikkatietoa on
+kaikki tieto, jonka yhtenä ominaisuutena on sijainti. Paikkatietoja ovat esimerkiksi tiedot
+rakennuksista, säästä, matkapuhelimien sijaintitiedoista ja liikenneväylistä. Digitaalisessa
+maailmassa paikkatietojen hyödyntäminen on laaja-alaista. Se koskettaa meistä jokaista
+vapaa-ajalla ja töissä, yrityksissä ja julkisella sektorilla. Paikkatietojen hyödyntäminen on
+monelle meistä tuttua älypuhelinten myötä. Oman sijaintinsa voi jakaa sovellusten kautta
+ja vieraassa paikassa suunnistaminen on helppoa, kun oman sijainnin saa näkyviin kartta-
+pohjalle lähes reaaliajassa. 
+
+Paikkatiedot ovat paljon muutakin. Digitalisaation myötä paikkatietojen merkitys ko-
+rostuu entisestään. Itseohjautuvat autot ja MaaS eli liikkuminen palveluna -toimintamalli
+tarvitsevat sijaintitietoja toimiakseen. Tarkka paikkatieto on edellytys myös uusille robo-
+tiikan ja tekoälyn palveluille ja sovelluksille. Meidän on siis tärkeä tietää, minkälaisia paik-
+katietoja yhteiskunnassa tarvitaan ja miten paikkatietojen käyttöä voidaan edistää. 
+
+Arvoisa puhemies! Selonteon visiona on luoda Suomesta maailman parhaiten paikkatie-
+toja hyödyntävä yhteiskunta. Viimeaikaisen Facebook-tietovuotokohun myötä yhä useam-
+pi meistä on huolissaan siitä, mitä tietoja meistä kerätään ja mihin tarkoituksiin niitä käy-
+tetään. Kun Suomeen luodaan maailman edistyksellisintä paikkatiedon ekosysteemiä, on
+tärkeää varmistaa, että myös henkilötietojen suoja ja tietoturvallisuus ovat edistyneintä
+maailmassa. Muutaman päivän päästä voimaan tuleva EU:n tietosuoja-asetus on tärkeä as-
+kel tässä työssä eteenpäin. 
+
+Arvoisa puhemies! Selonteon tavoitteena on velvoittaa kaikki viranomaiset tuottamaan
+ja jakamaan paikkatiedot yhteiskäyttöisinä. Paikkatietojen käyttöoikeuksia määriteltäessä
+on erityisen tärkeää huomioida yhteiskunnan kokonaisturvallisuus. Kriittiset paikkatiedot
+ja niiden merkitys on tärkeä tunnistaa. Lähtökohtaisesti viranomaisen tuottama tieto on jul-
+kista, mutta viranomaisen vastuuseen kuuluu myös arvioida tiedonkäytön riskit. Viran-
+omaisen toiminnalla ei siis saa luoda tilannetta, joka aiheuttaa yhteiskunnalle turvallisuus-
+vajeen.
+
+Arvoisa puhemies! Turvallinen yhteiskunta luo perustan yksilön ja yritysten toiminnal-
+le. On hyvä, että selonteossa puhutaan kokonaisturvallisuuden mallista. Määrittelemällä
+yhteiskunnan kannalta keskeiset paikkatietovarannot, määrittelemällä kunkin toimijan
+vastuut ja roolit sekä täsmentämällä erityisesti paikkatietoihin liittyviä turvallisuusnäkö-
+kulmia olemme oikealla tiellä. Näin kokonaisturvallisuus ja tietoturva otetaan vakavasti ja
+voimme yhdessä [Puhemies koputtaa] viedä selonteon toimenpiteet käytäntöön.
+
+14.31 Teuvo Hakkarainen ps (ryhmäpuheenvuoro): Arvoisa puhemies! Tämä valtioneu-
+voston paikkatietopoliittinen selonteko pyrkii toteuttamaan hallitusohjelman tavoitetta ke-
+hittää käyttäjälähtöiset, tuottavuutta ja tuloksellisuutta nostavat yhden luukun digitaaliset
+julkiset palvelut toimivaksi kokonaisuudeksi. Tällainen toiminto on muiden muassa turval-
+lisuusviranomaisille tehtävä yhteinen paikkatietoalusta, josta selviää kulloinkin tilanneku-
+va. 
+6
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Pidämme hyvänä myös selontekoon sisältyvää tavoitetta yritystoiminnan mahdollisuuk-
+sien kehittämisestä. Eräs erinomainen esimerkki tällaisesta on metsävaratiedon tehok-
+kaampi hyödyntäminen, mikä on tehokas keino lisätä metsätalouden harjoittamista. Toi-
+saalta tällaisissa hankkeissa tulee huolehtia siitä, että henkilötiedot luovutetaan järjestel-
+mään vain siinä laajuudessa kuin ne ovat tarpeen. On myös olennaista, että tiedonkeruun
+laatuvaatimukset ovat kaikille toimijoille ja koko maassa yhdenmukaiset.
+
+Arvoisa puhemies! Perussuomalaisten eduskuntaryhmä on joiltakin osin erittäin huoles-
+tunut niistä ei-toivotuista vaikutuksista, joita digitalisaatioon sekä hallituksen tavoitteisiin
+liittyy. Yksi tällainen uhka pahimmasta päästä on kansallinen satelliittipaikannusjärjestel-
+mä, joka mahdollistaa yleiseen käyttöön paikannuspalvelut eli ihmisten liikkumiseen liit-
+tyvän kyttäysjärjestelmän. Perussuomalaisten eduskuntaryhmä näkee, että tällaisilla uudis-
+tuksilla ei paranneta suomalaisten autoilijoitten asemaa. Uudistuksen takaa pilkistää ruuh-
+kamaksujen käyttöönotto tulevaisuudessa. Tällaista kehitystä perussuomalaiset vastusta-
+vat voimallisesti niin nyt kuin jatkossakin. Samalla on huomioitava se uhkakuva, että ul-
+kopuolisten tahojen mahdollisuus puuttua liiaksi kansalaisten yksityiselämään kasvaa. 
+
+Lopuksi perussuomalaisten eduskuntaryhmä haluaa kiinnittää huomiota myös siihen,
+että lainsäädäntöä on uudistettava, ainakin osittain, nyt selonteossa kerrottujen tavoittei-
+den varmistamiseksi. Tässä yhteydessä tulee huolehtia siitä, etteivät ne luo uuden säänte-
+lyn tarvetta liiaksi. Sääntelyn lisäämistä tuskin kukaan kaipaa.
+
+14.34 Satu Hassi vihr (ryhmäpuheenvuoro): Arvoisa puhemies! Selonteko on nykyhalli-
+tuksen asiakirjaksi siitä harvinainen, että päälinjoista voi olla samaa mieltä. Viranomaisten
+tuottaman maantieteellisiin sijainteihin liittyvän tiedon pitää olla pääsääntöisesti avointa
+sekä helppoa löytää, yhdistää ja käyttää. Nyt tieto on pirstaleista. Yleiset kartat laatii Maan-
+mittauslaitos, merikartat Liikennevirasto. Geologian tutkimuskeskus, Luonnonvarakes-
+kus, Metsäkeskus sekä ympäristö- ja museoviranomaiset tuottavat tietoa maaperästä, mal-
+miesiintymistä, metsistä, luontotyypeistä, uhanalaisista lajeista, ympäristön tilasta ja kuor-
+mituksesta sekä muinaismuistoista. Ilmatieteen laitos tekee sääennusteita ja -tilastoja.
+Kunnilla on tiedot asemakaavoista, rakennuksista ja tonteista. Tilastokeskuksesta saa vaik-
+kapa eri postinumeroalueiden asukkaiden ikä- ja tulojakauman. Kukin tuottaa paikkatietoa
+tavallaan, ja päällekkäistäkin työtä tehdään. Toisaalta tieto maan eri osista ei välttämättä
+ole vertailukelpoista.
+
+Paikkatietopolitiikan lähtökohtana tulee olla yhteentoimivuus. Selonteko on esimerkki
+siitä, miten EU voi antaa sysäyksen järkeville kansallisille toimille. Ympäristöön liittyvää
+paikkatietoa koskeva INSPIRE-direktiivi on paljolti selonteon taustalla. Sitä käsiteltäessä
+väännettiin muun muassa tiedon avoimuudesta.
+
+Arvoisa puhemies! Vihreät pitävät erittäin tärkeänä periaatteena sitä, että julkisin varoin
+tuotettu tieto on pääsääntöisesti avointa ja maksutonta. Monissa maissahan valtiovarainmi-
+nisteriöillä on ollut tapana vaatia julkishallinnon yksiköitä hankkimaan tuloja tietoa myy-
+mällä, mutta kansantaloudelle paljon merkittävämpää on, että avoin, tarkka ja helppokäyt-
+töinen paikkatieto auttaa yrityksiä kehittämään toimintaansa ja myös aivan uusia palvelui-
+ta.
+
+EU:n Galileo-satelliittipaikannus sekin luo uusia mahdollisuuksia. Esimerkki tällaisesta
+on MaaS, Mobility as a Service, liikenne palveluna, josta voi muodostua vaihtoehto yksi-
+tyisautoilulle, kun julkisen liikenteen palvelun voi ostaa ovelta ovelle ilman että tarvitsee
+erikseen maksaa esimerkiksi vaikkapa taksista tai paikallisbussista, junasta ja kaupunki-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+pyörästä. Parhaassa tapauksessa tämä auttaa hillitsemään ilmastonmuutosta ja parantaa yh-
+teiskunnan resurssitehokkuutta, ihmistyön ja luonnonvarojen järkevää käyttöä. Automati-
+soitu liikenne tarvitsee jopa 10 sentin tarkkuudella paikkatietoa. Paikkatietopalvelut mah-
+dollistavat myös luonnononnettomuustapauksissa aiempaa tehokkaamman varoituksen ja
+toiminnan.
+
+Arvoisa puhemies! Kun paikkatiedon hyödyntäminen helpottuu, on huolehdittava myös
+tietosuojasta. Huomenna voimaan astuvan EU:n tietosuoja-asetuksen mukaan henkilöön
+yhdistettävissä oleva tieto katsotaan henkilötiedoksi, [Puhemies koputtaa] myös henki-
+löön yhdistettävissä oleva paikkatieto. Lisäksi turvallisuusviranomaisten erityisvaatimuk-
+set pitää huomioida.
+
+14.37 Hanna Sarkkinen vas (ryhmäpuheenvuoro): Arvoisa puhemies! Moni meistä käyt-
+tää paikkatietoon perustuvia palveluita lähes päivittäin. Paikkatiedon käytön lisääminen on
+kannatettava tavoite, ja paljon mahdollisuuksia on vielä hyödyntämättä. Paikkatiedon
+avulla voidaan kehittää uudenlaista joustavaa kutsu- ja robottiliikennettä. Vierailemisen
+arvoisista luontoelämyksistä voidaan luoda alati kehittyvä kartta kansalaisten yhteistyöllä.
+Lisätyn todellisuuden avulla kaavoitussuunnitelmat saadaan konkreettisesti. Käyttötapoja
+on rajattomasti.
+
+Paikkatiedon ja sen hyödyntämisen kannalta tärkeitä asioita ovat datan avoimuus, käy-
+tettävyys ja toisaalta yksityisyydensuojan turvaaminen. Nämä asiat selonteosta löytyvät-
+kin, mutta keinot niiden toteuttamiseksi jäävät vielä epäselviksi. Kun teknologia kehittyy
+yhä paremmaksi ja kun tiedon määrä kasvaa, lisääntyy mahdollisuus tiedon yhdistelyyn.
+Tässä piilee merkittäviä mahdollisuuksia mutta myös uhkia yksityisyydelle. Turvallisuu-
+den osalta tarvitaan selkeää lainsäädäntöä ja valvontaan riittävä osaaminen ja resurssit.
+
+My data -periaatteen mukaisesti tarvitaan konkreettiset pelisäännöt siitä, miten omia tie-
+toja voi seurata ja käyttölupia myöntää. Me suomalaiset jakelemme auliisti tietojamme so-
+meen ja ruokakaupan bonuskortin kautta, joten tarvitaan myös tietoisuuden lisäämistä ja
+tottumista omien tietojen hallintaan. Yhteiskunnan vastuu on huolehtia siitä, että myös ne,
+jotka eivät osaa tai ymmärrä huolehtia itse datastaan, ovat turvassa.
+
+Arvoisa puhemies! Hallituksen selonteossa paikkatieto nähdään ensisijaisesti keinona
+parantaa yritysten kilpailukykyä. Yritysten kilpailukyvyn parantuminen on paikkatiedon
+käytön tärkeä seuraus, mutta se ei voi olla ainoa päämäärä. Ykköstavoitteena tulee olla pa-
+remmat palvelut ja parempi elämänlaatu ihmisille. Tavoitteena tulee olla luonnon rajallis-
+ten resurssien säästeliäs käyttö, ilmastonmuutoksen torjuminen ja luonnonsuojelun edistä-
+minen, joihin paikkatiedolla voi olla paljon annettavaa. Paremman elämän ja ympäristön
+täytyy olla perustavoitteita, joihin pääsemistä paikkatietoa käyttävät yritykset ja järjestel-
+mät palvelevat ja tekevät samalla bisnestä ja luovat kasvua. Jos mennään vain talous edel-
+lä, ilman oikeanlaista sääntelyä, voidaan pahimmassa tapauksessa päätyä paikkatiedon
+väärinkäyttöön.
+
+Arvoisa puhemies! Paikkatieto ja paikkatietojärjestelmät ovat syntyneet paljolti julkisis-
+sa organisaatioissa ja järjestelmissä. On ihmeellistä, kuinka julkisia järjestelmiä kuvataan
+selonteossa esteenä yritysten kehitykselle, vaikka nimenomaan julkinen paikkatietoaineis-
+to on luonut pohjan monille yksityisille paikkatietoinnovaatioille. Tästä tunkkaisesta jul-
+kisten järjestelmien mollaamisesta toivoisi päästävän eroon kohti avoimen datan ja  avoin-
+ten rajapintojen aitoa ekosysteemi- ja yhteistyöajattelua. 
+8
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Arvoisa puhemies! Myös Suomen korkeakouluissa on paljon paikkatieto-osaamista ja
+-tutkimusta. Esimerkiksi Oulun yliopistolla geoinformatiikan tutkimusryhmässä on tutkit-
+tu terveysmaantieteeseen liittyviä kysymyksiä sekä tehdään väestön alueelliseen muutok-
+seen, ympäristöön ja luonnonvarojen hyödyntämiseen liittyvää tutkimusta, joka kytkeytyy
+läheisesti paikkatietoon. Tutkimuksessa on myös kehitetty malleja paikkatiedon hyödyn-
+tämiseksi päätöksenteon tukena. Yliopistot ja tutkimuslaitokset tuleekin pitää mukana
+paikkatiedon soveltamisen kehittämisessä myös jatkossa.
+
+14.41 Mats Nylund r (ryhmäpuheenvuoro):  Ärade fru talman, arvoisa rouva puhemies!
+När vi utvecklar den geografiska informationen ska två saker vara i balans. För det första
+måste den geografiska informationen vara kompatibel och tillgänglig så att den kan utnytt-
+jas effektivt. Och för det andra ska datasäkerheten vara på en så hög nivå att skyddet av per-
+sonuppgifter uppfylls. 
+
+Vi behöver öppna gränssnitt så att våra digitala system korresponderar med varandra.
+Och här bör vi satsa mera, för vi har inte råd att släpa efter. Här är det också oerhört viktigt
+att satsa på den övergripande säkerhetsmiljön. När vi utvecklar våra system måste vi beak-
+ta att det alltid också finns krafter som vill skada samhällets infrastruktur.
+
+Arvoisa puhemies! Yhteiskunnassa syntyy nopeasti uusia palvelutarpeita. On täysin sel-
+vää, että paikkatietoa koskevaa lainsäädäntöämme on uudistettava kehityksen varmistami-
+seksi. Tämä koskee liikennettä, navigointia, maa- ja metsätaloutta, hallintoa, ja kuten tie-
+dämme, tehokkaille hoitoa organisoiville logistisille palvelujärjestelmille on laskettu suuri
+rationalisointihyöty. 
+
+Osoitteet ovat yksi keskeisimmistä paikkatietovarannoista. Kuten valtioneuvoston se-
+lonteossa todetaan, osoitteiden on oltava virheettömiä ja osoitetietojen korkealaatuisia jär-
+jestelmän luotettavuuden kannalta. Ihmettelen kuitenkin sitä, että selonteossa on unohdet-
+tu korostaa tai edes problematisoida sitä, että me kaksikielisenä maana tarvitsemme vir-
+heettömiä osoitetietoja kahdella kielellä. Vai pitäisikö tilanteen jatkua kuten nykypäivänä,
+että kun Google Mapsia käyttää ruotsiksi, niin Turku ilmestyy matkapuhelimen näytölle
+Åbon sijaan? Miten hallitus aikoo huolehtia toimivasta paikkatiedosta molemmilla kansal-
+liskielillä, suomeksi ja ruotsiksi?
+
+Paikkatieto, kuten tekoäly ylipäänsä, tarjoaa valtavat mahdollisuudet tulevaisuudessa.
+On tärkeää, että turvaamme lainsäädännön kautta yhdenvertaiset mahdollisuudet tiedon
+hankkimiseen.
+
+Till sist, fru talman: Svenska riksdagsgruppen understryker att tillräckliga resurser för ut-
+bildning och forskning måste tryggas. Det är också viktigt att se till att vi har en teknisk
+samhällsutveckling som är inkluderande och som inte skapar mer utanförskap. Till sist vill
+jag betona att samarbetet mellan den offentliga sektorn och företagen måste bli bättre då
+det gäller den geografiska informationen, om Finland innovativt ska stå i spetsen för ut-
+vecklingen.
+
+14.44 Peter Östman kd (ryhmäpuheenvuoro):  Arvoisa puhemies! Paikkatietojen laaja-
+alainen hyödyntäminen on tulevaisuudessa yhä tärkeämpää, mutta tähän kehitykseen liit-
+tyy myös riskejä, jotka tulee huomioida. Lainsäädännöllä tulee varmistaa, että paikkatieto-
+ja käytetään tietoturvallisesti ja ihmisten yksityisyydensuojaa turvaten. Kansalaisilla on oi-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+keus tietää, mihin kaikkeen heihin liittyvää paikkatietoa käytetään ja mille tahoille tietoja
+luovutetaan.
+
+Värderade talman! Regeringen har som mål att utveckla den geografiska informationen,
+och har nu dragit upp riktlinjer för hurudan geografisk information som behövs i vårt sam-
+hälle. Den kristdemokratiska riksdagsgruppen poängterar vikten av att också utvärdera ris-
+kerna och hur man kan säkerställa sig om att inte illvilliga eller kriminella personer eller or-
+ganisationer kommer åt att missbruka positionerings- och logistiktjänsterna. Därför fram-
+för vi också ett önskemål till regeringen: vi vill att regeringen, förutom de riktlinjer och
+målsättningar som nu dragits upp, ställer som mål att Finland i framtiden är världens säk-
+raste land när det gäller datasäkerhet och sekretess. 
+
+  Arvoisa puhemies! Paikkatiedon kattavammalla hyödyntämisellä voidaan tukea yhteis-
+kunnan toimintoja, yhteistyötä ja palveluja sekä optimoida luonnonvarojen käyttöä. Tämä
+on hyvä asia. Selonteossa painotetaan myös tarkkojen ja valtakunnallisesti yhdenmukais-
+ten osoitetietojärjestelmien luomisen merkitystä. Kristillisdemokraattinen eduskuntaryh-
+mä pitää tavoitetta tärkeänä. Se helpottaa varsinkin poliisin ja pelastusviranomaisten työtä
+erityisesti haja-asutusalueilla. 
+
+Arvoisa puhemies! Yhtenä keskeisenä tavoitteena selonteossa on viranomaisten kerää-
+mien ja hallinnoimien paikkatietojen tarjoaminen yksityisille yrityksille. Tämä parantaa
+yritysten mahdollisuuksia tarjota uusia palveluita. Samalla tulee kuitenkin huomioida
+paikkatietojen luovutukseen liittyvät tietosuoja- ja yksityisyydensuojakysymykset.
+
+Paikkatietojärjestelmät ovat globaaleja järjestelmiä. Siksi konflikti yhdessä osassa maa-
+ilmaa saattaa vaikuttaa satelliittipaikannuksen toimivuuteen myös Suomessa. KD:n edus-
+kuntaryhmä muistuttaa, että mikään elintärkeä yhteiskunnan järjestelmä tai elinkeinoelä-
+män alue, kuten logistiikka, ravinnontuotanto tai terveydenhuolto, ei saa olla riippuvainen
+reaaliaikaisen kartta- tai sijaintitiedon saatavuudesta.
+
+Toinen varapuhemies Tuula Haatainen:  Tämän jälkeen myönnän vastauspuheenvuo-
+ron. — Ministeri Leppä, 3 minuuttia.
+
+14.47 Maa- ja metsätalousministeri Jari Leppä:  Rouva puhemies! Kiitoksia eduskun-
+taryhmille erinomaisista puheenvuoroista, asiantuntevista sellaisista, ja myöskin siitä yh-
+tenäisestä ja yhteisestä linjasta, jossa alleviivattiin muutostarvetta, uudistamistarvetta ja si-
+tä, että maailma kehittyy sellaiseen suuntaan, että myös me tarvitsemme muutosta ja myös
+me tarvitsemme lainsäädäntöä ja säädöspohjaa, jotta sekä nämä tavoitteet että turvallisuus
+kehittyvät siihen visioon, johon ymmärsin, että kaikki myöskin yhtyivät, jolla me saamme
+aikaan Suomeen maailman innovatiivisimman ja turvallisimman paikkatiedon ekosystee-
+min.
+
+Muutamia nostoja täältä.
+Erittäin moni ryhmistä otti esille selkeän työnjaon tarpeen ja rajapintojen määrittelemi-
+
+sen — äärimmäisen tärkeä asia. Samaten turvallisuusnäkökulmat niin henkilötietoihin
+nähden kuin sisäiseen turvallisuuteen ja ulkoiseen turvallisuuteen liittyviin tietoihin näh-
+den olivat kaikissa puheenvuoroissa mukana.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Edustaja Östman viimeisessä ryhmäpuheenvuorossa otti esille myös globaalin näkökul-
+man ja globaalin vaikutuksen, ja siksi on tärkeää, että nämä asiat ovat meidän omissa kä-
+sissämme niin pitkälti kuin ne voivat olla. Tämäkin pitää ottaa huomioon.
+
+Myös yksityisen ja julkisen tiedon rajapinnat edustaja Lehti otti omassa puheenvuoros-
+saan esille. Se on tosi tärkeä määrittely, samoin kuin se, mikä tuli niin edustaja Pylvään,
+Lehden kuin kaikkien muidenkin näkökulmasta, eli se, millä tavoin me luomme liiketoi-
+mintamahdollisuuksia paikkatiedon avulla ja luomme sitä julkista pohjaa sille, mistä yri-
+tykset sitten voivat ammentaa sitä omaa uutta palveluliiketoimintaansa ja siten luoda
+myöskin työpaikkoja ja palveluita meille suomalaisille.
+
+On selvää, mitä edustaja Sarkkinen täällä totesi, että on oltava selkeä lainsäädäntö ja
+myöskin sille valvonta. Se on ihan päivänselvä asia, näin pitää olla, mutta siitä olen eri
+mieltä, että tässä selonteossa painopiste olisi liikaa elinkeinoelämän puolella, bisneksen
+puolella. Se tulee sen myötä, kun me julkisesti tuotamme näitä tietoja ja sitten hallitusti nii-
+tä tarjoamme elinkeinoelämän käyttöön. Se on se näkökulma ja lähtökohta tässä ilman
+muuta.
+
+Julkinen toimija tuli täällä edustaja Hassin pitämässä vihreiden puheenvuorossa hyvin
+esille: luettelo siitä, miten monissa paikoissa näitä tietoja kerätään. Se on myöskin käyttä-
+jän kannalta hankalaa. Varmasti se on myöskin tietoturvan kannalta hankalaa, ja siksi on
+oleellista, että me pystymme sitä yhdistämään. Ruotsiksi myöskin pitää tämä asia ottaa
+huomioon, se on ihan päivänselvä asia.
+
+Sitten, puhemies, ihan lopuksi: Hallittu tieto, turvallinen tiedonkeruu henkilötietojen
+osalta, oli täällä SDP:n ryhmäpuheenvuorossa, edustaja Taimelan puheenvuorossa, isossa
+roolissa, samoin kuin myöskin se, millä tavoin ja mitä tietoja monikansalliset yhtiöt meistä
+suomalaisista keräävät, ja sen hallinta. Riskien arviointi tuli edustaja Kulmalan puheen-
+vuorossa, samoin sitten edustaja Hakkarainen oli kansallisesta satelliittipaikannusjärjestel-
+mästä huolissaan. Emme halua kyttäysjärjestelmää vaan haluamme järjestelmän, joka on
+avoin, reilu, jossa kaikki tietävät, mistä tieto tulee, miten sitä käytetään, jossa rajapinnat
+ovat selvät, ja siihen me tarvitsemme myöskin jonkun verran säätelyä, että tämä on mah-
+dollista. — Kiitos.
+
+Toinen varapuhemies Tuula Haatainen: Avaan tähän vaiheeseen debattikeskustelun.
+Pyydän niitä edustajia, jotka haluavat käyttää 1 minuutin mittaisen puheenvuoron, paina-
+maan V-painiketta ja nousemaan seisomaan.
+
+14.51 Anne Kalmari kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Paikkatieto
+hyödyntää meitä kaikkia kansalaisia. Sen avulla löydetään niin eksyneet koirat kuin mum-
+mot tai taksi löytää meidät tai me löydämme toivotun ravintolan, mutta metsävaratieto
+edesauttaa myös todella paljon ihan suurinta sektoriamme metsäsektoria. Tänään meillä oli
+seminaari metsätiedon hyödyntämisestä, ja oli ilo huomata, että koko sektori oli yhteisellä
+rintamalla, halusi edistää metsätiedon käyttöä, edistää digitalisaatiota ja edistää myöskin
+alustataloutta tälläkin sektorilla. Tulevaisuudessa robotisaatio ja kaikki se metsätieto aut-
+taa meitä tekemään asioita tehokkaammin, taloudellisemmin ja entistä enemmän luontoa
+huomioon ottaen. Minulle oli yllätys, kun seminaarissa selvisi, että Syke ei anna avoimek-
+si tietoaan arvokkaista luontokohteista. Se mielestäni edesauttaisi sitä, [Puhemies: Aika!]
+että voisimme paremmin huolehtia niistä.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+14.53 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Kolme näkökulmaa
+tähän paikkatietojen tehokkaaseen ja turvalliseen hyödyntämiseen:
+
+Ensinnäkin, kaiken pohjana on se, että pitää olla avointa dataa. Ja niin kuin edustaja Tai-
+mela puheenvuorossaan toi esiin, tämä lumipallo laitettiin liikkeelle viime hallituskaudel-
+la, ja on hyvä, että sitä nyt jatketaan.
+
+Toinen huomio on se, että todella tarvitaan yhteiset rajapinnat, yhteiset standardit. Tässä
+vain semmoinen huomio, että tämä ilmiselvästi edellyttää uutta normistoa. Toivottavasti
+tämä ei joudu nyt sitten hallituksen normitalkoiden kohteeksi. Me näemme, että meillä on
+sellaisia normeja, joita tarvitaan, ja sitten on niitä, jotka ovat vähän heikompia, mutta ker-
+ralla ei kannata kaikkea tyrmätä.
+
+Sitten kolmanneksi tämä yksityisyydensuoja: nyt kun Euroopan parlamentissa oli kuul-
+tavana Zuckerberg tästä Facebook-tilanteesta ja hän jätti vastaamatta siihen, miten suoja-
+taan kolmansien osapuolien tiedot, niin tämä on asia, jota on syytä pohtia, koska siellä saat-
+taa olla tietoa ihmisistä, joilla ei edes ole Facebook-tiliä, ja mikäli näitä tietoja, esimerkiksi
+[Puhemies: Aika!] paikkatietoja, yhdistellään, niin miten olette tämän ottaneet huomioon?
+
+14.54 Markku Eestilä kok (vastauspuheenvuoro):  Arvoisa puhemies! Valiokunnan pu-
+heenjohtaja Kalmari nosti täällä esille tämän metsävaratiedon ja sen tiedon, mikä liittyy sii-
+hen, ja olen itsekin sitä mieltä, että julkisin varoin kerätyn tiedon pitää olla elinkeinoelä-
+män hyödynnettävissä ja sen pitää tuottaa uutta liiketoimintaa. Ja metsävarojen suhteen eri-
+tyisesti tämä kuutio.fi on lähtenyt hyvin käyntiin, ja metsäkauppa menee sitten niin sano-
+tusti verkkoon. Mutta kysynkin ministeriltä: Mitenkä meidän pitäisi suhtautua siihen, että
+yhteiskunnassa saattaa olla tahoja, jotka käyttävät tätä tietoa ikään kuin väärin hyväkseen
+ja lähtevät omia tarkoitusperiä ajamaan sen tiedon perusteella, mikä on tarkoitettu hyödyt-
+tämään yhteiskuntaa? Ja jos ajatellaan näin, että jollain on joku metsäomaisuus ja yhtäkkiä
+huomaa olevansa julkisen keskustelun keskipisteessä ikään kuin suojelumielessä, vaikka
+mitään ei ole tapahtunut, ja se ikään kuin vaurioittaa tätä omaisuutta ja sen omistajaa, niin
+mitenkä, ministeri, olette ajatellut, pitäisikö näissä tapauksissa [Puhemies koputtaa] lain-
+säädäntöä kehittää niin, että myös voidaan tämä sanktioida?
+
+14.55 Ville Tavio ps (vastauspuheenvuoro):  Arvoisa puhemies! Kysyn ministeriltä: ym-
+märsinkö oikein, että nyt tässä paikkatietoseurannassa ja näissä järjestelmissä tullaan kes-
+kittymään siihen, että kuluttajat saavat hyötyä näistä applikaatioista ja yritykset saavat
+hyötyä tästä järjestelmästä ja sitten on tämä turvallisuuspuoli, eli esimerkiksi hätäkeskus
+voi hyödyntää näitä tulevia turvallisuuspaikkatietoja, eikä näitä paikkatietojärjestelmiä ha-
+luta käyttää ihmisten kyttäämiseen tai esimerkiksi verotukseen, kun hallitus aikaisemmin
+on harkinnut sitäkin, että autoja pitäisi seurata ja kytätä, jotta niitä voitaisiin verottaa ajon
+mukaan siitä, miten paljon ne liikkuvat?
+
+Myönnettäköön tähän loppuun kuitenkin, että vaikka vastustan kaikkea tuollaista henki-
+löiden seuraamista, niin se, että ulkoministeri Soiniin kiinnitettäisiin tällainen paikkatieto-
+laite, olisi ihan mielenkiintoinen ajatus, koska silloin eduskuntakin voisi tietää, missä hän
+liikkuu, kun hän on täällä niin harvoin.
+
+14.56 Jyrki Kasvi vihr (vastauspuheenvuoro): Arvoisa puhemies! Avoimessa yhteiskun-
+nassa päätösten taustalla olevien tietomassojen on oltava vapaasti kaikkien käytettävissä,
+jotta kansalaiset voivat arvioida päätösten perusteita ja seurauksia. Sivuvaikutuksena on
+12
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+tosiaan todettu myös kansantalouden hyötyvän, kun yritykset voivat vapaasti hyödyntää
+yhteisiä tietovarantoja. Tiedon merkitys julkisessa päätöksenteossa kasvaa jatkuvasti, sa-
+moin tiedon analysointiin käytettyjen algoritmien. Onkin olemassa riski, että vaikka tiedot
+olisivat avoimia, algoritmit pidetään suljettuina. 
+
+Otetaan esimerkiksi vaikka päätös pohjoismetron rakentamisesta. Sitä perusteltaisiin to-
+dennäköisesti simulaatiomalleilla metron vaikutuksista liikenteeseen ja kaupunkirakentee-
+seen. Jos näiden simulaatiomallien algoritmit olisivat suljettuja, jos poliitikot ja kansalai-
+set eivät voisi arvioida niiden toimintaa, päätös metron rakentamisesta ei olisikaan enää
+avoin ja vain simulaatiomallin ohjelmoijat voisivat arvioida sen perusteita. Siksi julkisen
+datan avaaminen ei riitä, [Puhemies koputtaa] vaan myös julkisten päätösten tekoon käy-
+tettävät algoritmit on avattava.
+
+14.57 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Kysymykse-
+ni ministerille on samaa sukua. Kun me olemme sitä mieltä, että julkisesti verovaroin tuo-
+tetun tiedon pitää olla yritysten käytettävissä, niin kysymys kuuluukin: kuinka sen datan,
+jolla tehdään liiketoimintaa, avoimuus edelleen on, onko se verovaroin tuotettu tieto edel-
+leen toistenkin yritysten käytettävissä? Missä kulkee se rajapinta, että verovaroin tuotettu
+tieto, millä tehdään liiketoimintaa, ei olekaan enää toisten palvelutuottajien käytettävissä?
+Minun mielestäni se on kohtuutonta, jos eivät yritykset, jotka saavat verovaroin tiettyä da-
+taa haltuunsa, pysty jakamaan sitä. Me olemme käyneet liikennevaliokunnassa keskuste-
+lua juuri siitä, että data pitää avata niin, että liikenteen osalta pystytään merkittävästi tuot-
+tamaan uusia palvelumuotoja. Nyt kysynkin ministeriltä: mitenkä [Puhemies koputtaa]
+tämä asia hoidetaan, että data edelleen on avointa?
+
+14.59 Mats Nylund r (vastauspuheenvuoro): Arvoisa rouva puhemies! Jag vill understry-
+ka att det verkligen är viktigt att man får ortsnamnen, adresserna på båda språken. 
+
+Nyt kun me tiedämme, että uusi paikannimilaki on suunnittelun ja jopa valmistelun alla,
+onko syytä ottaa huomioon ja kytkeä nämä toisiinsa? Meillä on useita valtiollisia elimiä,
+joita maa- ja metsätalousministeriö voi käyttää hyödyksi tässä: meillä on oikeusministe-
+riön kieli- ja demokratiayksikkö, meillä on Kotimaisten kielten keskus, lyhennettynä Ko-
+tus, meillä on kieliasiain neuvottelukunta. Teknisesti on varsin helppoa ratkaista tämä on-
+gelma, että kaikki saavat paikkatiedot omalla kansalliskielellään. Se ei ole edes suuri kus-
+tannusero, mutta se pitäisi ottaa huomioon varhaisessa vaiheessa. — Kiitos.
+
+15.00 Peter Östman kd (vastauspuheenvuoro):  Arvoisa puhemies! On selvää, että me
+tarvitsemme yhteistä kansallista näkemystä paikkatiedon hyödyntämiseen tulevaisuudes-
+sa. Tätä tarkoitusta varten nyt julkaistu selonteko on äärimmäisen hyvä lähtökohta.
+
+Edustaja Eestilä nosti puheenvuorossaan esille sen riskin, johon viittasin myös omassa
+ryhmäpuheenvuorossani. Nimittäin joitain viikkoja sitten uutisoitiin, että Yhdysvaltain
+pääkaupungissa Washingtonissa oli löytynyt matkapuhelimien salakuuntelulaitteita. Stin-
+gray-laitteiksi kutsutut salakuunteluasemat jäljittelevät matkapuhelimien tukiasemia, ja ne
+kalastelevat matkapuhelimien tunniste- ja sijaintitietoja. Stingray-laitteita käyttävät eri
+maiden tiedustelupalvelut, mutta myös rikolliset. Kysyn ministeriltä: miten hallitus on va-
+rautunut tämäntyyppisiin riskeihin ja turvallisuusuhkiin?
+13
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+15.01 Lasse Hautala kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Tämän val-
+tioneuvoston paikkatietopoliittisen selonteon valmistelu alkoi jo syyskuussa 2016 eli lähes
+kaksi vuotta sitten. Maailma on mennyt paljon eteenpäin sinä aikana, ja kuten täällä mo-
+nissa puheenvuoroissa on todettu, paikkatietoja hyödynnetään ja käytetään tänä päivänä
+kutakuinkin lähes kaikkialla. Mutta se, missä se on oikeastansa ihan johtava kehityssuun-
+ta, on tietysti puolustusvälineteollisuus maailmalla, ja viittaan edustaja Östmanin täällä
+käyttämään puheenvuoroon siitä, minkälaisia seurantajärjestelmiä maailmalla on ja mitä
+käytetään, ja nimenomaan riskit ja turvallisuus nousevat vääjäämättä keskeisimmiksi ky-
+symyksiksi paikkatietojen osalta. Kysynkin nyt ministeriltä ihan samaa kuin kollegatkin
+ovat kysyneet: miten nyt jatkossa tämä turvallisuusnäkökohta elää, kun tekniikka menee
+koko ajan eteenpäin?
+
+15.02 Merja Mäkisalo-Ropponen sd (vastauspuheenvuoro): Arvoisa puhemies! Paikka-
+tietopoliittinen selonteko on aiheellinen ja ajankohtainen, sillä liian usein teknologian ke-
+hittyessä lainsäädäntö ei pysykään tämän kehityksen mukana. Edelläkävijyys tässä asiassa
+on Suomelle tärkeää, mutta samalla on pidettävä huolta siitä, että lainsäädäntö on ajan ta-
+salla ja turvaa kansalaisten oikeudet ja tiedon turvallisen hyödyntämisen.
+
+Tämä selonteko on ilmeisesti tulossa tulevaisuusvaliokuntaan lausunnolle, ja me tulem-
+me peilaamaan tätä selontekoa Suomen sata uutta mahdollisuutta -raporttiin radikaaleista
+teknologioista, johon tällä selonteolla on useita liittymäkohtia. Tästä ihan esimerkkinä
+mainittakoon liikenteen automatisoituminen, joka teknologiaraportissa on yksi keskeinen
+teema. Sehän edellyttää riittävää paikkatietoa. Ihan mielenkiinnolla odotan käsittelyä
+myöskin tulevaisuusvaliokunnassa tämän asian tiimoilta.
+
+15.03 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! On hyvä, että tämä hal-
+litus jatkaa avoimen datan linjalla edellisen hallituksen jalanjäljissä. Vielä silloin, kun
+EU:n INSPIRE-direktiiviä säädettiin, Suomen valtiovarainministeriössä oli toinen ääni
+kellossa. Esimerkiksi Ilmatieteen laitos oli huolissaan siitä, että valtiovarainministeriö vaa-
+tii laitosta hankkimaan tuloja dataa myymällä, mutta kuitenkin sitten INSPIRE-direktiivin
+neuvotteluissa vaadittiin datan avoimuutta.
+
+Mutta varmasti käytännön säädöstyössä kinkkisin asia on se, miten ratkaistaan se, että
+yhtä aikaa tieto on pääsääntöisesti avointa ja toisaalta sitten taataan yksityisyydensuoja, ja
+tässä hyvänä taustatukena on EU:n tietosuoja-asetus, joka tosiaan huomenna astuu voi-
+maan. Korostaisin siinäkin poliittisen valinnan merkitystä. Sitä työtähän Euroopan parla-
+mentissa johti vihreä saksalainen meppi Jan Philipp Albrecht.
+
+15.04 Juha Pylväs kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Paikkatietoon-
+han liittyy erittäin paljon myönteisiä ja hyviä sovellutuksia, ja vain taivas on käytännössä
+rajana siinä, miten tätä paikkatietoa voidaan hyvään hyödyntää. Muun muassa vanhusten-
+hoidossa ajoreitin optimointiin, jolloin tämä liikkuminen jää mahdollisimman vähiin ja
+hoitokohde jää mahdollisimman suurelle ajalle, erittäin hyvä keino. Toinen tärkeä asia,
+mikä on täällä jo tullut esille, on tämä metsien inventointi, johon saadaan tiedot metsästä.
+Samoiten hakkuukone pystyy keräämään omat tiedot siitä metsien inventoinnista. Logis-
+tiikassa saadaan tiestön kunto selville ajoneuvoihin asennettavien sensorien kautta.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Kysymykseni ministerille kuuluukin nyt: Kun tätä tietoa kerätään eri paikoista logistiik-
+kaa myöten, miten yksilön turva säilyy tässä järjestelmässä? Miten me pystymme myös yk-
+silön aseman turvaamaan tässä yhtiöitten keräämässä tiedossa?
+
+15.05 Hanna Sarkkinen vas (vastauspuheenvuoro):  Arvoisa puhemies! Tuttu metsän-
+omistaja kertoi, että hän on saanut lukuisia tarjouksia metsien ostajaehdokkailta paikkatie-
+tojen perusteella mutta ei yhtään tarjousta metsän suojeluun tai monimuotoisuuteen liitty-
+vistä asioista. Tämä kertoo siitä, että metsänhoidossa on ympäristönsuojelun näkökulmas-
+ta vielä paljon hyödyntämätöntä potentiaalia siinä, mitä paikkatiedon avulla voitaisiin teh-
+dä, ja tähän olisi syytä myös Suomessa tarttua. On hyvä,  että tätä hyödynnetään metsäta-
+loudessa, mutta myös tässä luonnonsuojelupuolella tarvittaisiin eteenpäinmenoa.
+
+Arvoisa puhemies! Kysymykseni oikeastaan kuuluisi: miten me voisimme edistää paik-
+katiedon hyödyntämistä päätöksenteossa entistä enemmän ja erityisesti kuntatasolla, tule-
+vaisuudessa maakuntatasolla ja miksei myös eduskuntatasolla? Esimerkiksi palveluverk-
+kopäätöksissä, ekologisessa yhdyskuntasuunnittelussa ja kuljetuspalveluiden optimoinnis-
+sa kuntatasolla olisi paljon potentiaalia, missä paikkatiedon hyödyntämisellä saataisiin
+kustannustehokkuutta, parempia palveluita ja päästövähennyksiä. Mutta ehkä tietoisuutta
+ja osaamista ei varsinkaan paikallistasolla ole vielä riittävästi.
+
+15.06 Anne Kalmari kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! On juuri
+näin, kuten edustaja Sarkkinen tuossa totesi. Sieltä luonnonhoidon puolelta ei juuri yhtey-
+denottoja tule, koska Syke ei anna näitä tietoja avoimeksi. Mielestäni meidän tulisi kyllä
+huolehtia myös tämä asia maaliin. On aika iso merkitys metsien monimuotoisuuden kan-
+nalta, että näitä tietoja voidaan sitten jatkossa käyttää, että nimenomaan edes metsänomis-
+taja itse saisi tietää, mitä siellä hänen metsissään on. Onhan se kestämätön lähtökohta, jos
+sinun pitäisi suojella jotakin, jonka olemassaolosta et edes tiedä.
+
+Yksityisyyden suoja tulee toki monissa asioissa vastaan, ja mekin pohdimme valiokun-
+nassa juuri tätä tietosuojalainsäädäntöä. Pohdin sitä, pitäisikö tässä yhdistää kolmen M:n
+kohdalla koko sektori vähän samantyyppiseksi kuin se on tuolla maatalouspuolella. Siellä-
+hän voi itse määritellä tietojen luovutuksen.
+
+15.07 Katja Taimela sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Niin kuin tässä
+keskustelussa on käynyt ilmi, yksi paikkatiedon kehittymisestä hyötyvistä sektoreista on
+ehdottomasti liikenne. Suomi on panostanut liikenteen digitalisaatioon ja uusien palvelui-
+den edistämiseen. Paikkatiedon kehittyminen on yksi tärkeä työkalu näiden palveluiden
+edistämisessä, oli kyse sitten autonomisesta liikenteestä tai erilaisten kuljetusten optimoin-
+nista niin taloudellisten kuin ympäristövaikutustenkin osalta.
+
+Päättäjinä emme pysty ennustamaan käyttösovelluksia, mutta voimme yrittää luoda
+edellytyksiä niiden luomiselle. Tiedon jakaminen avoimesti on yksi tämän kehityksen kul-
+makivistä. Siksi kysynkin ministeriltä: miten Suomi varmistaa riittävät resurssit tietova-
+rantojen kehittämiseen sekä toisaalta syventää yhteistyötä viranomaisten, korkeakoulujen
+sekä yrityselämän kanssa niiden kehittämiseksi ja hyödyntämiseksi? Muuten me emme saa
+tästä irti kaikkia niitä hyötyjä, joita me olemme ajatelleet.
+
+15.08 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa puhemies! Julkisesti tuo-
+tetun tiedon avoimuus on todella tärkeää. Monien yritysten ja ihmistenkin kannalta voi eri-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+laisia tietovarantoja yhdistelemällä saada vaikka mitä uusia mielikuvituksellisia palveluita
+erityisesti liikkumiseen.
+
+Tässä on käytetty paljon hyviä puheenvuoroja siitä, mitä meidän Suomessa tarvitsee vie-
+lä tehdä kehittääksemme parempaa tulevaisuutta, kuten edustaja Taimela tuossa vieressä.
+Espoon kaupunki jakaa omalta osaltaan avointa dataa yhteistyössä pääkaupunkiseudun
+muiden kuntien kanssa, ja Suomessa on paljon erilaisia julkisia toimijoita, joilla on avointa
+dataa jaettavaksi. Varmasti olisi tärkeää se, että menetelmät olisivat yhtenäisiä ja että yh-
+teistyö muun muassa tutkimukseen ja korkeakouluihin olisi hyvällä tolalla. Kysyisin mi-
+nisteriltä: miten on ajateltu edistää sitä, että olisi tällaisia yhteisiä alustoja ja yhteistoimin-
+taa muun muassa kaupunkien välillä?
+
+15.10 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Paikka-
+tietoselonteko on tärkeä ja aiheellinen. Sitä tarvitaan Suomessa erityisesti osoitetietojen
+tunnistamiseksi ja paikannuksen tekemiseksi, ja turvallisuusviranomaiset — poliisi, palo-
+kunta, ambulanssit — kaipaavat tätä tietoa. Tämä on jo tälläkin hetkellä kohtuullisen hy-
+vällä tasolla Suomessa, mutta edelleen tässä on varmaan parantamisen varaa. Yksi hyvä
+esimerkki tästä on suomalainen taksi, joka on jo yli 30 vuotta perustunut turvallisuusnäkö-
+kulmasta tähän paikkatietoon. Autoissa on ollut niin sanottu turvakytkinjärjestelmä, ja se
+on paikallistanut aina, kun se auto on joutunut haasteelliseen tilanteeseen.
+
+Täällä on puhuttu kaikenlaisen tiedon avoimeksi saamisesta, ja se on tietenkin tärkeä ja
+hyvä tavoite, mutta avoimuuden ja yksityisyydensuojan turvaamisessa on ehkä se tämän
+lain haasteellisin kohta. Tätä tietoahan on sitten mahdollisuus myös väärinkäyttää. Rikol-
+liset ovat näissä asioissa yleensä aika nohevia, ja se on mielestäni sellainen asia, mikä tässä
+valmisteluvaiheessa selonteossa täytyy ottaa erityisen hyvin huomioon.
+
+15.11 Matti Semi vas (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tämä paikkatie-
+toasia on erittäin hyvä juttu, kun miettii esimerkiksi metsäteollisuutta. Kun moto menee
+metsään ja rupeaa tekemään aukkoa, niin kyllähän sen pitää tietää, kenen metsästä se hak-
+kaa puunsa, ettei tule vikapaikasta otettua niitä. Näitä virheitähän joskus aikaisemmin on
+sattunut.
+
+Mutta sitten semmoinen probleema, mihinkä olen törmännyt poliisien osalta, on pre-
+paid-liittymien paikantaminen ja niitten kautta tulevien häiriösoittojen ja häiriötekijöiden
+selvittäminen. Se on jäänyt puutteelliseksi jollakin tavalla, niin että ei tarkkaa paikannusta
+saada aikaan. Olen miettinyt, onko tähän pulmaan joitakin ratkaisuja, etteivät ne mene sit-
+ten liikaa henkilötietojen selvityksen alle.
+
+15.12 Hannu Hoskonen kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Paikka-
+tietojärjestelmä on varmasti ihmisten kannalta erittäin hyödyllinen ja tulevaisuuden mah-
+dollisuus muun muassa liiketoiminnan lisäämisessä. Pitää muistaa kuitenkin se, että se on
+omalla laillaan myös pieni uhka ihmisen yksityisyyden kannalta. Se avaa mahdollisuuden
+ihmisen paikantamiseen milloin vain. Jos hänellä sattuu vaikka älykännykkä olemaan mu-
+kana, niin maailman helpoin homma on kuulemma ammattilaiselle tietää, missä ihminen
+kulkee. Ja sitten kun kehittyy tämä tekoäly, jota nykyisin kuumeisesti tiedemiehet tuolla
+työpöytiensä ääressä kehittävät, se avaa vielä valtavampia mahdollisuuksia ihmisten yksi-
+tyiselämän seurantaan.
+16
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Aikanaan kun nuoret kirjoittelivat päiväkirjoihin merkintöjä, niin sitä päiväkirjaa var-
+tioitiin. Se pantiin lukittujen ovien taakse, eivätkä edes omat vanhemmat saaneet siihen
+koskea. Nyt kaikki kirjoitetaan Facebookiin ja halutaan, että koko maailma sen lukee. Eli
+kyllä maailma on muuttunut paljon, mutta tässä asiassa on syytä muistaa se, että kun näitä
+paikkatietojärjestelmiä kehitetään, niin niiden hyödyt ovat varmaan suuret, mutta myös
+niihin haittoihin kannattaa kiinnittää huomiota, koska myös ne ovat erittäin suuret.
+
+15.13 Olli-Poika Parviainen vihr (vastauspuheenvuoro):  Arvoisa rouva puhemies!
+Tämä on tärkeä selonteko, ja toivon, että kun tämä työ jatkuu tekoäly- ja tietopolitiikkase-
+lontekojen muodossa, niin esimerkiksi edustaja Kasvin esille nostamaan algoritmikysy-
+mykseen kiinnitettäisiin siellä huomiota.
+
+Kun puhumme paikkatiedoista, niin monet puheenvuorot ovat todistaneet, että niillä on
+paljon potentiaalia, mutta niihin liittyy toki myös kysymyksiä, joita meidän täytyy käsitel-
+lä turvaten ihmisten oikeus yksityisyyteen. Toisaalta me voimme saada aikaan myös pal-
+jon uutta liiketoimintaa ja niin edelleen.
+
+Nostaisin vielä erikseen esiin sen, että kysymys on myös ylikansallisesta asiasta, eli mei-
+dän kannattaa Euroopan unionin tasolla edistää sellaisia ratkaisuja, jotka ovat meille hyö-
+dyllisiä, kuten esimerkiksi Galileo-paikannusjärjestelmää. Olemme tällä hetkellä varsin
+riippuvaisia amerikkalaisesta GPS-järjestelmästä, ja siihen liittyy tietenkin omat haasteen-
+sa ja kysymyksensä.
+
+Kysyisin ministeriltä vielä erikseen: oletteko käynyt viime aikoina EU-tasolla keskuste-
+luja siitä, olisiko jonkinlaista yhteistyötä paikkatietopolitiikassa mahdollista tehdä?
+
+15.14 Merja Mäkisalo-Ropponen sd (vastauspuheenvuoro):  Arvoisa puhemies! Toistu-
+va ja jatkuva huoleni, ei siis vain tähän selontekoon liittyen mutta myös tähän selontekoon
+liittyen, on kansalaisten yhdenvertaisuus. Tässäkin selonteossa korostetaan, että tarkoitus
+on tuottaa kansalaisille parempia palveluita ja paikkatieto tulee olemaan digitaalisessa, ko-
+neluettavassa muodossa. Meillä on kuitenkin tällä hetkellä noin miljoona kansalaista, jot-
+ka eivät pysty, osaa tai voi käyttää digitaalisia palveluita. Miten heidän yhdenvertaiset pal-
+velunsa tulevaisuudessa aiotaan turvata ja toisaalta miten turvataan digitaalisten palvelui-
+den esteettömyys ja saavutettavuus? Toivottavasti nämä asiat huomioidaan riittävän hyvin
+ihan alusta alkaen.
+
+15.15 Jari Myllykoski vas (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tärkeä ja
+kannatettava asia, mitä selonteossa on tuotu esille. Tulee nyt mieleen vaikka liikenne- ja
+viestintävaliokunnan yksityistielakikokonaisuus, missä se paikkatieto olisi todella tärkeä,
+niin että voitaisiin paikallisesti toimia niin kuin kuuluisi toimia, niin että jokainen tieosa-
+kas on tavoitettavissa. Mutta missä kulkee sitten se yksityisen raja?
+
+Toistan tavallaan edustaja Pylvään kautta kysymykseni siitä, että kun avoimen datan
+kautta tuleva liiketoiminta mahdollistuu vaikkapa juuri siinä metsäkoneessa, joka tuottaa
+dataa mielettömät määrät, onko niin, että sen pitää olla edelleen avointa? Tai jos tuotetaan
+tähän datamassaan lisää dataa yksityisen toimijan osalta, niin missä kulkee se korvauskäy-
+täntö, kun joku on liiketaloudellisesti liikkeellä — onko se sille bisnestä vai vain pelkkä
+tiedon tuottaminen?
+17
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Toinen varapuhemies Tuula Haatainen:  Vastauspuheenvuoro ministerille, riittääkö 3
+minuuttia?
+
+15.16 Maa- ja metsätalousministeri Jari Leppä: Rouva puhemies! Kiitoksia erinomai-
+sesta debatista. Huomaan, että edustajakollegoilla on valtavasti tietoa tästä asiasta. Täällä
+tuli niin yksityiskohtaisia kysymyksiä, että en millään pysty vastaamaan kaikkiin asioihin,
+mutta yritämme toimittaa tietoja sitten, kun niitä selville saadaan. 
+
+Muutama huomio:
+Jos lähdetään siitä liikkeelle, mitä moni teistä kysyi, eli missä menee se raja, jossa se
+
+hyöty ja haittaa kohtaavat: ne ovat niitä yksityiskohtia, jotka sitten kun lainsäädäntöä teh-
+dään, säädöksiä rakennetaan, pitää meidän määritellä, millä kohdalla se menee, jotta yksi-
+tyisyydensuoja säilyy mutta toisaalta liiketoimintamahdollisuudet, palveluiden paranta-
+mismahdollisuudet, ympäristönäkökulmien parantaminen, mikä tuli monessa puheenvuo-
+rossa myöskin esille, pystytään parhaalla mahdollisella tavalla huomioon ottamaan ja saa-
+maan se hyöty irti ja auki digitaalisista mahdollisuuksista. Se on päivänselvä asia. Aina
+joku yrittää käyttää asioita väärin. Olivat sitten digitaaliset asiat tai mitkä tahansa manuaa-
+liset asiat kysymyksessä, aina niitä joku yrittää käyttää väärin, ja siksi meillä täytyy myös-
+kin olla mahdollisuudet tämän kaiken torjumiseen. 
+
+Tuo algoritmien avaamisasia on myöskin tällainen yksityiskohta, joka täytyy kyllä tark-
+kaan miettiä, miten se määritellään, miten siinä toimitaan, minkälainen säädöspohja siihen
+rakennetaan. Minulla ei tässä vaiheessa vastausta siihen ole, ja siksi on tärkeää, niin kuin
+tuossa omassa varsinaisessa puheenvuorossani totesin, ja toivon sitä, että valiokunnat nyt
+huolella ottavat asian esille, sekä nämä uhkat että mahdollisuudet, ja niistä tulee mahdolli-
+simman selkeät mietinnöt meille, jotta se jatkovalmistelu tämän hallituksen aikana ja seu-
+raavien hallitusten aikana on sitten mahdollista tehdä ja meillä on hyvät näkökulmat näihin
+mahdollisuuksiin ja riskeihin. 
+
+Tärkeä havainto on myös se, millä tavalla varmistetaan yhdenvertaiset palvelut. Se on
+ehdottomasti tärkeä havainto tämän asian osalta.
+
+Sitten, puhemies, lopuksi yksi kohta vielä, joka koskee tätä yhteistyötä sekä kuntien,
+kaupunkien että yritysten osalta. Tietoa siis on, mutta se on hajallaan. Se ei ole yhteenso-
+pivaa, järjestelmät eivät ole yhteensopivia, ja siksi me tarvitsemme näiden koontia, jotta
+me pystymme vastaamaan siihen, että nämä asiat ovat meidän omissa käsissämme, etteivät
+ne ole jostakin ulkopuolelta globaalilta taholta tulevien tahojen käsittelyssä, meille kriitti-
+set, tärkeät asiat, tärkeät tiedot, tärkeät mahdollisuudet. Sen vuoksi me tarvitsemme, niin
+kuin tässä selonteossa hyvin kuvataan, myös julkisen puolen, julkisen hallinnon yhteis-
+työn tiivistämistä tältä osin. On hyvä havaita, että kaikki eduskuntaryhmät olivat myöskin
+samaa mieltä, että tässä meillä on paljon tehtävää. Erinomaisen hyvä debatti. Tästä on pal-
+jon hyötyä valmistelussa, mutta myöskin sitten odotan mielenkiinnolla, kun tämä mietintö
+valmistuu, mitä kaikkia havaintoja valiokunnat ovat siitä tehneet.
+
+Toinen varapuhemies Tuula Haatainen:  Mennään puhujalistaan.
+
+15.20 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Kuten täällä hyvässä keskuste-
+lussa on tullut esille, tämä selonteko on erittäin ajankohtainen ja tarpeellinen. Itse uskon
+tästä asiasta olevan huomattavasti enemmän hyötyjä kuin haittoja, kunhan nämä mahdol-
+liset uhkat tiedostetaan ja tehdään kaikki niiden uhkien torjumiseksi.
+18
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+Kaksi isoa asiaa tässä kokonaisuudessa ovat turvallisuus ja tietoturva.
+Ensinnäkin on kysyttävä, onko turvallisuus, esimerkiksi kyberturvallisuus, huomioitu
+
+riittävästi: onko riskiä siitä, että tiedot joutuvat vääriin käsiin. Toisaalta jos turvallisuutta
+ajatellaan toisesta näkökulmasta, niin sisäisen turvallisuuden kannaltahan paikkatiedot
+ovat äärettömän tärkeitä, sillä jatkossa entistä paremmin pelkän osoitteen lisäksi esimer-
+kiksi pelastusviranomaiset saavat tarkempaa tietoa kohteesta ja siitä, miten sinne helpoiten
+päästään.
+
+Turvallisuuden lisäksi tärkeä kysymys — se toinen tärkeä kysymys — on kansalaisten
+tietoturva. Sivulla 7 tässä selonteossa sanotaan, että visiona on, että henkilötietojen suoja ja
+kokonaisturvallisuus huomioidaan siten, että tiedon käytöstä ja hyödyntämisestä ei muo-
+dostu uhkaa kansalliselle turvallisuudelle eikä myöskään yksilöille. Tärkeä kysymys on,
+miten tämä varmistetaan ja millaisia muutostarpeita tähän liittyy sekä kansallisesti että EU-
+tasolla ja myöskin globaalisti.
+
+Edustaja Sarkkinen toi omassa puheenvuorossaan minusta hyvin esille sen, että kansa-
+laisia on myös koulutettava nykyistä paremmin omasta tietoturvasta huolehtimiseen. Täs-
+sä on myöskin kansalaisilla oltava se oma vastuu. Tähän liittyy oleellisesti myöskin se, että
+jokaisella kansalaisella on oikeus tietää, mitä tietoa hänestä kerätään ja mihin sitä käyte-
+tään, ja tämän tiedon pitää olla myöskin helposti kaikkien saatavilla.
+
+15.22 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Paikkatietojärjestelmät ovat tä-
+män päivän nykyaikaa. Kaikkihan alkoi silloin aikanaan sotilassovelluksista, kun näitä va-
+koilujärjestelmiä kehiteltiin ja sitten luotiin järjestelmät, joilla pystyttiin se naapurin mah-
+dollinen tuhottava kohde paikantamaan mahdollisimman nopeasti. Mitä tulee sitten tämän
+päivän nykyaikaiseen paikkatietoteknologiaan, niin sehän on meillä jokaisella suomalai-
+sella arkipäivää tänä päivänä. Omistamalla kännykän voi päästä tietoihin käsiksi, vaikka
+karttaan, ihan missä vain, milloin vain, tai ajamalla autolla navigaattori toimii erehtymät-
+tömän varmasti, kunhan on sen osoitteen kirjoittanut oikein, ettei lähde menemään ihan
+väärään suuntaan.
+
+Mahdollisuudet ovat rajattomat, mutta toimiakseen tämä paikkatietojärjestelmä kuiten-
+kin vaatii pari päivää sitten tässä salissa keskusteltua nopeaa laajakaistaverkkoa koko Suo-
+meen, koska ne tiedot, mitkä liikkuvat kännyköistä esimerkiksi internetin suuntaan, vaati-
+vat, että linkkimastojen välillä on valokuituyhteys. Jos valokuituyhteyttä ei saada koko
+maan kattavaksi, niin osa suomalaisista jää armotta sen nopean paikkatietojärjestelmän ul-
+kopuolelle. Ja kun katsotaan tämän päivän kehitystä, sehän on viemässä vääjäämättä teko-
+älyn suuntaan, elikkä yhä nopeampia tietokoneita kehitetään ja systeemit pelaavat yhä pa-
+remmin. Mutta sekin, että se palvelisi kansalaisia, vaatii nopean laajakaistaverkon koko
+maahan. Sen takia tässä talossa pitää vihdoin ja viimein ymmärtää se, että meidän on saa-
+tava koko maan kattava valokuituverkko kuntoon. Pelkillä langattomilla yhteyksillä maa-
+seutuolosuhteissa ei pärjää, ja se on tietenkin myös sitten näille verkon yhteydessä toimi-
+ville yrityksille, erilaisille toimijoille aivan välttämättömyys. Jos ei esimerkiksi saada va-
+lokuituverkkoa koko maahan ulottumaan, pankkiyhteydet ja yritysten erilaiset valtavan
+suuret tietojärjestelmät ovat aika paljon torsoja ennen kuin tämä asia pannaan kuntoon.
+
+Toinen asia, mikä herättää myös huolta, on tämän talon käsittelyssä oleva tiedustelulaki.
+Kun meidän tietojamme tuolla tietoverkoissa seurataan tällä hetkellä hyvin aktiivisesti,
+niin yksityisten henkilöiden, yritysten kuin myös poliittisten päättäjien, niin meillä nykyi-
+nen voimassa oleva tiedustelulakihan ei salli, että meidän tietoturvallisuudestamme huo-
+19
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+lehtivilla viranomaisilla, esimerkiksi suojelupoliisilla, on mitään asiaa meidän suomalai-
+siin tietoverkkoihin, mutta ulkomaiset tiedustelijat saavat siellä melskata mielensä mu-
+kaan. Elikkä tämä asia on meidän laitettava kuntoon. Minkä takia se on tärkeää? Sen takia,
+että näistä tietoverkoista voidaan paljastaa sitten ne viimeisimmät haittaohjelmat ja viimei-
+simmät virukset, jotka voidaan torjua. Yhtäkään virusta tai haittaohjelmaa ei voi torjua en-
+nen kuin se on paljastettu, mikä se on. Jokainen tietää, että jokaisessa tietokoneessa käy-
+tännöllisesti katsoen aina on ollut joku virus tai haittaohjelma, ja pahimmillaan, kun ottaa
+koneen haltuun, silloin sitä ollaan ihmeissään, että mitä tehdään, kun kone toimii välillises-
+ti jonkun toisen järjestelmän osana. Tämän takia nämä tiedustelulait pitää saada kuntoon,
+jotta saadaan tämä virusasia vähän parempaan kuntoon. Esimerkiksi yritysten teollisuus-
+vakoilu tänä päivänä onnistuu tietoverkkojen kautta vallan erinomaisesti.
+
+Yksityisen ihmisen kannalta palo- ja pelastustoimella on erittäin suuri merkitys silloin,
+kun on hätä. Kun paikkatietojärjestelmä toimii, niin ihminen löytyy kovin helposti ja saa
+hetkessä avun. Esimerkiksi metsään eksynyt ihminen, jos hänellä on se 112-sovellus puhe-
+limessaan, löytyy varmasti ja nopeasti. Jos tilanne on vaikea, tarvitaan vaikka helikopterin
+apua, noutoapua, niin sekin järjestyy. Eli sen takia tämä paikkatietojärjestelmä on äärim-
+mäisen tärkeä.
+
+Oma kokemukseni paikkatietojärjestelmästä oli viime kesältä: Kun yksi kesämökkiton-
+tin pyykki oli hävyksissä, niin erehdyin soittamaan yhdelle tuttavalleni, joka sattuu ole-
+maan maanmittaustoimiston palveluksessa, ja hän sanoi, että kun hän siitä ajaa ensi viikol-
+la ohi, niin hän katsoo sen. Tarkat digitaaliset tiedot löytyivät, ja sentin tarkkuudella pyyk-
+ki löytyi hetkessä. Elikkä kaikki meidän tietojärjestelmämme alkavat perustua tähän digi-
+taalitekniikkaan, mikä luo valtavia mahdollisuuksia yrityksille mutta myös uhkatekijöitä.
+Yksityisyys on häviämässä. Sen takia toivon, että näissä asioissa Suomen eduskunta pysyy
+ajan tasalla ja nimenomaan niin, että kun esimerkiksi esineiden internet on tulossa — joku
+meistä ajattelee, että onko sillä nyt niin väliä, saanko minä sen kahvinkeittimen päälle oi-
+kealla hetkellä vai enkö saa tai voiko katsoa jääkaapista, mitä tavaroita siellä on, netin vä-
+lityksellä — niin sehän johtaa siihen, että silloin avaamme avoimen väylän myös niille, jot-
+ka tulevat meidän koteihimme vierailulle meidän tietämättämme elikkä erilaisille vakoi-
+luohjelmille. Esineiden internet ei varmaan kunnolla palomuureja tunne eikä muitakaan vi-
+rustorjuntaohjelmia, niin että näihin kannattaa kiinnittää huomiota.
+
+Rouva puhemies! Toivon tässä puheenvuoroni lopuksi, että todellakin tämä tiedustelu-
+laki saadaan ajan tasalle tässä maassa, että päästään aidosti kiinni näihin isoihin viruksiin ja
+haittaohjelmiin, koska ilman sitä olemme isossa pulassa.
+
+15.27 Lasse Hautala kesk: Arvoisa rouva puhemies! Tämä lähetekeskustelu on osoitta-
+nut sen, että tämä valtioneuvoston paikkatietopoliittinen selonteko tulisi käsitellä kuta-
+kuinkin kaikissa valiokunnissa, koska niin paljon yhteenliittymiä eri valiokuntien osalta tä-
+hän liittyy.
+
+Ensinnäkin jo tällä hetkellä yritykset hyötyvät hyvin kattavasti paikkatietojärjestelmis-
+tä. Olemme täällä tänään kuulleet hyödyistä metsätaloudelle: tiedot sitä kautta metsistä,
+hakkuista, puuerien noutopaikoista ja niin edelleen. Maatalouden osalta teknologinen ke-
+hitys menee kovaa vauhtia eteenpäin, ja siellä koneiden hallintaankin liittyvät jo hyvin pit-
+kälti nämä paikkatietojärjestelmät. Viranomaistarpeet ovat hyvin keskeisessä osassa paik-
+katietojen hyödyntämisessä, ja niillä on jo tällä hetkellä käytössä paljon erilaisia ohjelmia,
+joiden kautta näitä paikkatietoja voidaan hyödyntää. Muun muassa yhdyskuntasuunnittelu
+20
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+on yksi keskeisimpiä paikkatietojärjestelmien hyödyntäjiä. Myös poliisille paikkatietojär-
+jestelmät ovat äärimmäisen tärkeitä, ja kuten hyvin tiedämme, rikosten selvittelyssä se on
+ihan keskeinen tieto tänä päivänä. Myöskin erilaiset liikennesovellukset pohjautuvat tällä
+hetkellä merkittävässä määrin paikkatietoihin. Sote-asiat ovat meillä täällä eduskunnassa
+käsittelyssä, ja myöskään ne osa-alueet eivät jää osattomiksi paikkatietoasioista. Niiden
+kehittyminen myöskin jatkossa on pitkälti kiinni paikkatietojen hyödyntämisestä. Eli voi-
+daan todeta, että paikkatietojärjestelmät lisäävät monien toimialojen tehokkuutta.
+
+Kansalaiset älypuhelimien kautta vastaavat hyvin pitkälti siitä, miten he ovat identifioi-
+neet omat laitteensa, niiden tunnistettavuudesta. Me voimme laittaa ohjelmia noihin lait-
+teisiin, jolloinka voimme hyödyntää yhä paremmin esimerkiksi kaupallisia palveluja, ra-
+vintoloiden palveluja, erilaisia tarjouksia ja niin edelleen. Mutta niistä ja niiden saannista
+vastaavat tietysti asiakkaat itse.
+
+Nyt kun tämä selonteko menee valiokuntakäsittelyyn, on tärkeää, että kiinnitetään huo-
+miota sitten näiden järjestelmien haavoittuvuuteen ja sitä kautta turvallisuuskysymyksiin,
+jotka vääjäämättä liittyvät näihin paikkatietoasioihin.
+
+15.30 Markku Pakkanen kesk:  Arvoisa rouva puhemies! Paikkatietoihin liittyvät asiat
+ovat tärkeitä, ja erityisesti liikenne on tulevaisuudessa semmoinen osa-alue, missä paikka-
+tiedoilla on suuri merkitys. Jo tänä päivänä on syytä muistaa, että meitä suomalaisia ihmi-
+siä ja liikennettä seurataan joka päivä. Autoista tiedetään niiden liikkuminen jo tänä päivä-
+nä. Missä kuljettajat ovat, tiedetään, kun on kännykät taskussa, mutta auto sinällänsä jo on
+semmoinen tiedonlähde, että se kerää valtavan määrän tänä päivänä tietoja. Kun viedään
+auto huoltoliikkeeseen, tiedetään, kuinka paljon autolla on ajettu, ja se varmaan pystytään
+paikallistamaankin, ja tiedetään, kuinka kauan se on ollut tyhjäkäynnillä, ja niin edelleen ja
+niin edelleen. Elikkä paikkatietoja, tätä tietoa, kerätään valtavasti jo tänä päivänä.
+
+Tiedustelulaki on täällä eduskunnassa ollut käsittelyssä, ja sekin perustuu tähän paikka-
+tietoon monta kertaa. Itse koen, että on tärkeää, että tiedustelussa ja yleensä tietoa on saa-
+tavissa. Sillä pystytään tulevaisuudessa entistä paremmin estämään vaarallisia tilanteita.
+Tällainen tiedonkäyttö tulee mielestäni viranomaisille helpommaksi tulevaisuudessa, ja
+sitä pitää helpottaa myös tämän paikkatietolain puitteissa.
+
+Kun kaikki tieto on avointa ja sitä tietoa kaikki käyttävät, tietenkin jos viranomaisten tie-
+toa sitten kerätään, sen pitää olla ilmaista meille käyttäjille. Mutta se kysymys on sitten sil-
+lä lailla haasteellinen, että missä menee se yksityisyyden suojan raja, ja uskon, että kun
+tämä selonteko saadaan valmiiksi, joudutaan pohtimaan asiaa hyvin monelta kannalta. Ja
+tässä asiassa itse en ainakaan ole turhan naiivi: se on lähes mahdoton rajanveto, mihin se
+avoimen tiedon ja yksityisyyden suojan raja vedetään, ja tuskin siihen ihan tarkkaa määri-
+telmää pystytään laittamaan.
+
+Väärinkäytöksien estämisestä täällä on myös puhuttu, ja myös se on tärkeää tietää, että
+näitä tullaan väärinkäyttämään. Se on aivan selvä asia. Koen, että tässä yksilön tietosuojas-
+sa ja yksilöön perustuvassa tiedossa ainoa, mihin voi luottaa, on sellainen luottamus sii-
+hen, että sitä tietoa käytetään oikein. Se on lainsäätäjien ja muitten lähes mahdoton tehtävä
+lainsäädäntöteitse estää, että tätä kerättyä tietoa ei kukaan koskaan käyttäisi väärin ja meitä
+toisia ihmisiä vastaan. Siinä mielessä tämä tavoite kaikenlaisen tiedon saamisesta avoi-
+meksi, niin hyvä kuin se onkin, sisältää myös sen riskin, että se kaikenlainen tieto on sitten
+meidän kaikkien käytössä niin hyvässä kuin pahassa.
+21
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+15.33 Veera Ruoho kok: Arvoisa puhemies! Kiitos taas edustajakollegoille, aivan erin-
+omaisia puheenvuoroja ja pohdintaa tärkeästä aiheesta. Tämä valtioneuvoston paikkatieto-
+poliittinen selonteko on oikein hyvä, ja näin poliisitaustaisena luonnollisesti kansallisen
+kokonaisturvallisuuden näkökulma selonteossa miellyttää.
+
+Minä olin itse Afrikassa kaksi vuotta, ja minulla oli mukana GPS-laite ja aurinkoakku-
+laturi sitä varten. Niissä olosuhteissa, kun yksi habuub elikkä hiekkamyrsky peittää tien, se
+on kyllä ihan välttämättömyys. Toki täytyy myöntää, että tuli siellä sitten mitattua, kuinka
+monta kilometriä oli kotipihasta sinne kaukaiselle Darfurin alueelle.
+
+Tässä selonteossa on eritelty kehitystarpeita ja -haasteita, ja pidän erittäin hyvänä, että
+siinä on esitetty myös ratkaisuehdotuksia. Kuten täälläkin on tullut ilmi keskusteluissa, tie-
+don väärinkäytön uhka on monin tavoin konkretisoitumassa. On myös mahdollista, että
+lainsäädäntö rajaisi paikkatietojen avointa käyttöä. Ratkaisuna selonteossa nähdään turval-
+lisuusasioiden huolellinen huomioon ottaminen lainsäädäntöä kehitettäessä ja määritel-
+täessä tietojen käyttöoikeuksia. Tämä on juuri sitä, mitä täällä tänään on jo alettu pohti-
+maan.
+
+Arvoisa puhemies! Paikkatietoja käytetään kaikkialla yhteiskunnassa, ja täällä on tullut
+esiin oikein hyviä esimerkkejä siitä, missä niitä käytetään ja miten paikkatietojen käyttöä
+voi edelleen edistää. Henkilötietosuojan ja julkisuusperiaatteen välimaastossa olen itsekin
+pohtinut arkista asiaa, joka koskettaa varsinkin niitä ihmisiä, joiden oma lapsi tai lemmik-
+kieläin on hetkenkin ollut kateissa. Usein noissa tilanteissa ihmiset, vanhemmat ja sukulai-
+set, todellakin toivovat, että olisipa lapsella — jollei sitä matkapuhelinta ole vielä pienellä
+lapsella mukana tai olemassakaan — jonkunlainen siru siellä ihon alla, että pystyttäisiin
+välittömästi paikantamaan, missä tämä kadonnut ihminen on. Lemmikkieläimillähän on
+tällä hetkellä jo niitä mikrosiruja, mitä laitetaan, ja silloin löydettäessä pystytään tunnista-
+maan ja tiedot näistä omistajista saadaan selville. Nämä tämmöiset GPS-paikannuslaitteet
+eivät ole kovinkaan kalliita mielestäni. Toki täytyy aina miettiä sitä, että se on köyhemmil-
+le ihmisille kyllä iso raha sekin, kun sellaisen hommaa. Ne voi sujauttaa kätevästi lapsen
+taskuun tai vaikka ommella sinne jonnekin sauman sisään. Tosin niissäkään — itse olen
+kiinnostunut tuosta aiheesta — se akun käyttöikä ei nyt niin kummoinen ole. Sen kontrol-
+lointi, että se varmasti on voimassa, on oma asiansa sitten.
+
+Kiitän tästä selonteosta myös ministeri Leppää, joka esitteli asian ja antoi hyviä vastauk-
+siakin.
+
+15.37 Ville Vähämäki ps: Puhemies! Ihan lyhyesti totean sen, mitä täällä on monesti sa-
+nottu. Liki kaikki tieto on paikkatietoa, ja data on omaisuutta, ja silloin kun siihen dataan
+sisältyy paikkatieto, se data on kalliimpaa omaisuutta. 
+
+Jos nyt katsotaan sitä, miten tulevaisuusvaliokunta lausui myöskin paikkatiedosta tässä
+Suomen sata uutta mahdollisuutta -julkaisussaan, joka julkaistiin kaksi kuukautta sitten,
+niin siellä meillä on ”havainnot ja tietäminen” elämän osa-alueena. Se siis tahtoo sanoa si-
+tä, että se on luotettavasti ja uskottavasti koettua tietoa ihmisistä, ihmistä kiinnostavista
+asioista. Tällä hetkellä tämän asian nykytila on se, että tutkimusten, uutisten tai julkaisujen
+kautta hankitaan tätä luotettavaa tietoa, mutta jatkossa me hankimme sitä luotettavaa tietoa
+tekoälyn, joukkoistuksen ja yksilön havaintovälineiden kautta. Nopeimmin kehittyneitä ja
+vaikuttavimpia teknologioita on tietenkin syväoppiminen. Jos mietitään sitä, miten teko-
+äly ja paikkatieto yhdistetään toisiinsa, me saamme aika voimakkaita työkaluja sillä. Me
+näemme vaikka Googlen sovellutuksista ja muistakin, mitä sillä saadaan aikaan. Jos me li-
+22
+
+
+
+Pöytäkirjan asiakohta PTK 54/2018 vp
+säämme paikkatietoa vaikkapa ihmisen henkilökohtaiseen näkökenttään, näitäkin suoma-
+laisia sovellutuksia on olemassa. Ne ovat todella hyviä jo, ja siihen voidaan lisätä samalla
+näkökenttään sitten jotakin muuta, eli se on semmoinen pieni laite, mikä on tuossa silmien
+edessä.
+
+Kuvannus ja paikannus ovat edistyneet todella hyvin viime vuosina. Kevyet ja jatkuvas-
+ti lentävät laitteet ovat edistyneet, IoT menee jatkuvasti eteenpäin, lisätty todellisuus ja mo-
+nentyyppiset, uudentyyppiset tutkat, joilla tietoa ja paikkatietoakin voidaan hankkia —
+voidaan vaikka monesta suunnasta tutkata ja saadaan kolmiulotteisia kuvia. Nopeimmin
+paikkatietoa edistävät teknologiat ovat lohkoketjuteknologiat, joilla voidaan luotettavasti
+viedä ja tallentaa se paikkatieto, ja sitä menneisyyttä ei pysty lohkoketjussa muuttamaan,
+se pysyy siellä ikuisesti. My data ja nämä tietosuoja-asetukset säätelevät sitten taas, kuinka
+näitä tietoja voidaan käyttää.
+
+Jos vielä yhden asian nostan esille, sen, mitkä saattaisivat olla keskeisiä säädöstavoittei-
+ta, niin kenties sen asian pohtiminen, mikä on se datan koontivelvoite yksilöllä tai yhtei-
+söillä ja mikä on se luovutusvelvoite, eli kuinka sitten voidaan velvoittaa yksilöt tai yhtei-
+söt sitä dataa luovuttamaan yhteiskunnan käyttöön.
+
+Keskustelu päättyi.
+
+Asia lähetettiin maa- ja metsätalousvaliokuntaan, jolle hallintovaliokunnan, liikenne- ja
+viestintävaliokunnan, puolustusvaliokunnan, tulevaisuusvaliokunnan ja ympäristövalio-
+kunnan on annettava lausunto.
+23
+
+
+	4
+	14.06
+	14.17
+	14.20
+	14.24
+	14.27
+	14.31
+	14.34
+	14.37
+	14.41
+	14.44
+	14.47
+	14.51
+	14.53
+	14.54
+	14.55
+	14.56
+	14.57
+	14.59
+	15.00
+	15.01
+	15.02
+	15.03
+	15.04
+	15.05
+	15.06
+	15.07
+	15.08
+	15.10
+	15.11
+	15.12
+	15.13
+	15.14
+	15.15
+	15.16
+	15.20
+	15.22
+	15.27
+	15.30
+	15.33
+	15.37
+
+

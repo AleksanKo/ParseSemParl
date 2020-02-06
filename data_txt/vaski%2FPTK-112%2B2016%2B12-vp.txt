@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM7E35.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 112/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 112/2016 vp
+
+Täysistunto
+
+Torstai 10.11.2016 klo 16.00—21.26
+
+12. Hallituksen  esitys  eduskunnalle  sähköturvallisuuslaiksi ja  laiksi eräitä tuoteryhmiä 
+koskevista ilmoitetuista laitoksista annetun lain muuttamisesta
+
+Hallituksen esitys HE 116/2016 vp
+Valiokunnan mietintö TaVM 24/2016 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Arto Satonen: Ensimmäiseen käsittelyyn esitellään päiväjärjes-
+tyksen 12. asia. Käsittelyn pohjana on talousvaliokunnan mietintö TaVM 24/2016 vp. Nyt
+päätetään lakiehdotusten sisällöstä.
+
+Yleiskeskustelu asiasta alkaa.
+
+Keskustelu
+
+20.04 Kaj Turunen ps (esittelypuheenvuoro): Arvoisa puhemies! Tässä hallituksen esi-
+tyksessä ehdotetaan säädettäväksi uusi sähköturvallisuuslaki. Ehdotetulla lailla on tarkoi-
+tus panna täytäntöön Euroopan parlamentin ja neuvoston pienjännitedirektiivi ja Euroo-
+pan parlamentin ja neuvoston sähkömagneettista yhteensopivuutta koskeva direktiivi.
+Pienjännitedirektiivi ja sähkömagneettista yhteensopivuutta koskeva direktiivi ovat osa
+Euroopan unionissa toteutettavaa laajaa tuotesääntelyuudistusta. Hallituksen ehdotus sisäl-
+tää myös sähkölaitteistojen rakentamista sekä sähkölaitteistojen ja sähkölaitteiden huolta-
+mista, korjaamista ja tarkastamista koskevia vaatimuksia sähköalan töistä ja niiden valvon-
+nasta sekä sähkövahinkojen korvaamisesta ja niihin liittyvistä kysymyksistä.
+
+Talousvaliokunta toteaa, että ehdotettujen muutosten myötä kansallinen säädösviiteke-
+hyksemme lähentyy muiden sisämarkkinoilla toimivien jäsenvaltioiden vastaavia säädök-
+siä, minkä voidaan arvioida sujuvoittavan tavaroiden ja palveluiden liikkuvuutta. Kysy-
+myksessä on pääasiallisesti EU-lainsäädännön kansallista toimeenpanoa merkitsevä koko-
+naisuus, jossa tässäkään ei paljon kansallista harkintavaltaa ole.
+
+Talousvaliokunta painottaa lausunnossaan myös ehdotettujen muutosten teknistä luon-
+netta. Niillä toimeenpannaan kansallisesti EMC- ja pienjännitedirektiivi. Talousvaliokun-
+ta esittää kuitenkin joidenkin muutosten tekemistä hallituksen esitykseen liittyen viran-
+omaisten toimivaltuuksiin, erityisesti kotirauhan piirissä tehtäviin tarkastuksiin. Talousva-
+liokunta yhtyy myös lausunnossaan perustuslakivaliokunnan näkemykseen sen tekemän
+selvityksen tarpeellisuudesta koskien kotirauhan perustuslain suojaa ja sen rajoittamista
+sekä sääntelyn uudistamistarpeita Euroopan unionissa ja sen eri jäsenvaltioissa sikäli, mis-
+sä määrin EU-lainsäädäntöön sisältyviä tarkastustoimivaltuuksia ylipäätään arvioidaan ko-
+tirauhansuojaan liittyvistä lähtökohdista unionin sääntelyä valmisteltaessa.
+
+Talousvaliokunta esittää yksimielisesti, että eduskunta hyväksyy muuttamattomana hal-
+lituksen esitykseen 116/2016 vp sisältyvän 2. lakiehdotuksen. Talousvaliokunta myös esit-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 112/2016 vp
+tää yksimielisesti, että eduskunta hyväksyy talousvaliokunnan esittämin muutoksin halli-
+tuksen esitykseen 116/2016 vp sisältyvän 1. lakiehdotuksen.
+
+20.07 Toimi Kankaanniemi ps: Arvoisa puhemies! Ensiksi lämpimät kiitokset talousva-
+liokunnan puheenjohtajalle, edustaja Turuselle, joka tässä esitteli seitsemän valiokuntansa
+mietintöä. On tärkeää, että valiokunnan puheenjohtaja tällä tavalla hoitaa tehtävänsä esi-
+merkillisesti, niin kuin nyt tapahtui, ja toivoisin, että kaikkien valiokuntien puheenjohtajat
+hoitaisivat tehtävänsä samalla tarkkuudella.
+
+Herra puhemies! Tässä viimeisessä, sähköturvallisuuslaissa, heräsivät vanhat muistot
+siitä, että kun Suomi liittyi Euroopan unioniin, niin meidän monet tämmöiset pienet säh-
+kölaitteemme heikkenivät laadultaan sen takia, että tulivat EU-normit käyttöön. Ne olivat
+alhaisemmat kuin kansalliset määräykset ennen jäsenyyttä. Nyt oikeastaan kysyisin edus-
+taja Turuselta, onko tältä osin tilanne parantunut ja parantaako tämä uusi sähköturvalli-
+suuslaki sitä, että meidän pienkoneemme olisivat toisaalta pitkäikäisempiä ja kuluttajays-
+tävällisempiä ja toisaalta sitten myös turvallisuuden kannalta parempia kuin ovat viime
+vuosina tahtoneet olla. 
+
+20.08 Kaj Turunen ps: Arvoisa puhemies! Edustaja Kankaanniemi otti kyllä tärkeän
+asian esille nimenomaan näitten sähkölaitteiden elinkaaresta ja havainnoi aivan oikeasti
+siitä, että sähkölaitteiden kesto, elinikä, on lyhyempi kuin aikaisemmin. Mutta niinkin mie-
+lellään kuin valiokunta olisi myös tästä lausunut, niin tässä hallituksen esityksessä sähkö-
+turvallisuudesta ja erinäisiä tuoteryhmiä koskevista ilmoitetuista laitoksista annetun lain
+muuttamisesta varsinaisesti tähän asiaan ei otettu kantaa. Tämä, minkä edustaja Kankaan-
+niemi toi esille, on oma luku sinänsä, joka minun mielestäni on tärkeä asia jo kierrätyksen
+ja ympäristöystävällisyyden nimissä. Taitaa olla niin, että sähkölaitteilla vain on tietty ikä,
+minkä ne kestävät, ja ne hajoavat. Toisaalta se luo markkinoita ja tietysti kuluttajien pai-
+neita ostaa uusia laitteita, mutta se on ympäristön kannalta varmaankin huono ratkaisu.
+Mutta tässä lakiehdotuksessa varsinaisesti tähän ei otettu kantaa.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 116/2016 vp sisältyvien 1.-2. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+2
+
+

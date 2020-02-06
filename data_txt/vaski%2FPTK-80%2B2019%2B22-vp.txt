@@ -1,0 +1,364 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM4FBE.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 80/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 80/2019 vp
+
+Täysistunto
+
+Keskiviikko 11.12.2019 klo 14.00—17.56
+
+22. Hallituksen esitys eduskunnalle raportoitavia rajat ylittäviä järjestelyjä verotuksen 
+alalla koskevaksi lainsäädännöksi
+
+Hallituksen esitys HE 69/2019 vp
+Valiokunnan mietintö VaVM 19/2019 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Juho Eerola: Ensimmäiseen käsittelyyn esitellään päiväjärjestyk-
+sen 22. asia. Käsittelyn pohjana on valtiovarainvaliokunnan mietintö VaVM 19/2019 vp.
+Nyt päätetään lakiehdotusten sisällöstä. — Edustaja Viitanen on edelleen paikalla, vero-
+jaoston puheenjohtajan ominaisuudessa.
+
+Keskustelu
+
+16.53 Pia Viitanen sd: -— Kyllä täällä ollaan. — Ja jälleen kerran verojaosto on tehnyt
+tästä mielestäni hyvää työtä ja päätynyt sitten yksimielisesti mietinnössään kuvaamaan
+muutamia kohtia, jotka ovat hyvin tärkeitä. Eli myös tässä on kysymys samasta aihealuees-
+ta eli viime kädessä siitä, että Euroopan laajuisesti on yhteisesti päätetty, että ehkäistään
+verosuunnittelua ja puututaan sellaisiin tapauksiin, missä selkeästi veronkiertoa haluttai-
+siin harjoittaa. Tässä on myös taustalla niin ikään tämä mainitsemani BEPS-hanke ja sitten
+myös näitä tietojenvaihtoon liittyviä direktiivejä, virka-apudirektiivejä, joita nyt sitten kan-
+sallisesti pistämme täytäntöön. Ja tässäkin me esitämme pieniä muutoksia. Eräs sellainen
+on, että perustuslakivaliokunnan lausunnon johdosta teemme muutoksen tähän asianajos-
+alaisuuteen liittyen, ja lisäksi termi ”välittäjä” korvataan termillä ”palveluntarjoaja” lain
+ymmärrettävyyden parantamiseksi.
+
+Eli kysymyshän tässä on siitä, että verokonsulteille, asianajajille ja kaikille verosuunnit-
+telua tekeville palvelujentarjoajille sekä verovelvollisille itselleen asetettaisiin raportointi-
+velvollisuus, eli verohallinnolle tulisi raportoida sellaisista rajat ylittävistä verosuunnitte-
+lujärjestelyistä, joissa voi olla veronkiertämisen tai välttämisen elementtejä, ja sitten tässä
+on ideana se, että näiden tietojen avulla viranomaiset pystyisivät reagoimaan nopeasti hai-
+tallisiin verokäytäntöihin. Voidaan tehdä myös asianmukaisia riskianalyyseja ja verotar-
+kastuksia sekä kaikin puolin kehittää lainsäädäntöä. Eli tällä lailla on mielestäni hyvät ja
+tärkeät tavoitteet sitä kautta.
+
+Säätelymallin osalta tässä vaiheessa hallitus ei esitä, että tähän direktiiviin otettaisiin
+juurikaan käyttöön kansallisia laajennuksia, vaan enemmän mennään siltä pohjalta, mitä
+direktiivi minimissään määrää. Mutta kaiken kaikkiaan esimerkiksi tässä valiokunnan mie-
+tinnössä me puollamme hallituksen esityksessä valittua mallia, jonka mukaan kansallisten
+järjestöjen raportointivelvollisuuden tarvetta ja raportoinnin tarkoituksenmukaisuuden laa-
+juutta selvitetään ja arvioidaan myöhemmin. Eli jälleen kerran hallitus on omaan esityk-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 80/2019 vp
+seensä jo kirjannut, että tähänkin asiaan täytyy myöhemmin palata ja arvioida sitten myö-
+hemmin myös jatkokehittämistarpeita kaikkinensa. Pidämme myös valiokuntana tärkeä-
+nä, että hallitus seuraa esityksen vaikutuksia ja arvioi erikseen raportoitavien järjestelyjen
+sisältöjä sekä järjestelyjen perusteella tehtyjä toimenpiteitä.
+
+Puhemies! Ihan muutama yksityiskohta näistä asioista, mitä käsittelemme tässä mietin-
+nössä. Kuten sanoin tuossa, tämä asianajosalaisuus oli sellainen, jonka vuoksi pyysimme
+myös perustuslakivaliokunnalta lausunnon, ja tämän perustuslakivaliokunnan lausunnon
+perusteella tähän tulee tietynlainen täsmennys ja tämä asianajajien tiedonantovelvollisuus
+rajataan perustuslakivaliokunnan niin sanotun vaihtoehtoisen mallin mukaisena. Tämä on
+edellytys sille, että tämä voidaan säätää normaalissa järjestyksessä.
+
+Viitenumerosta, joka näissä järjestelyissä on: Me pohdimme erikseen sitä tematiikkaa
+hieman ja toteamme, että valiokunta pitää tarkoituksenmukaisena mahdollistaa tämän vii-
+tenumeron käytön näissä ilmoituksissa vapaaehtoisena. Tämäkin liittyy omalla tavallaan
+siihen asianajosalaisuuteen ja toisaalta siihen, että asianomainen voi päättää, käyttääkö hän
+viitenumeroa vai tekeekö ilmoituksen itse.
+
+Hallinnollisista seuraamuksista: Perustuslakivaliokunta niin ikään pitää välttämättömä-
+nä, että jotakin täsmennystä tulee, koska tämän lain ongelma ihan oikeasti monessa kohtaa
+on nyt ja varmasti tulevaisuudessakin tietysti, että täsmentämisen tarvetta ilmenee. Tältä
+osin sitten täsmennämme perusteluissa. Emme tee muutoksia tietyiltä osin, esimerkiksi
+koskien raportoinnin ajankohtaa, että koska katsotaan, että tämmöinen raportointi tulee
+tehdä. Ja sitten niin sanotun pääasiallisen hyödyn mittaavan testin määritelmä: näistä löy-
+tyy sitten tekstiä valiokunnan mietinnöstä.
+
+Toteamme valiokuntana, että pidämme erittäin tärkeänä, että tätä asiaa tietenkin seura-
+taan, mutta myös, että verohallinto antaa tätä raportointia koskevan syventävän ohjeen.
+Koska tämä on vielä tässä vaiheessa hieman epätäsmällisempää, niin se syventävä ohje on
+sitten se, minkä mukaan jatkossa käytännöt selkeytyvät. Pidämme myös tärkeänä sitä, että
+sieltä verohallinnosta pystytään antamaan asiakasneuvontaa.
+
+Hallinnollinen sanktio: Tässä on olemassa laiminlyöntimaksu, joka on enintään 15 000
+euroa. Sen osalta kirjoitamme, että varsinkin tässä ensimmäisen vuoden aikana kun tätä nyt
+lähdetään pistämään voimaan, korostamme tätä sanktiolaiminlyöntimaksun määräämisen
+kohtuullisuutta ennen kuin menettelyt täsmentyvät. Tässä ensimmäisen vuoden aikana
+niissä tilanteissa, missä sitten jää ehkä jostain järjestelystä raportoimatta, niin ensimmäise-
+nä vuonna nämä sanktiot seuraisivat siitä vain silloin, kun verovelvollisen tai välittäjän me-
+nettely ilmentää selkeää välinpitämättömyyttä.
+
+Mutta kaiken kaikkiaan tässä yleispiirteisesti. Luen vielä loppuun lausumaehdotuksen,
+joka on tärkeä. Eli tässä samassa yhteydessä esitämme lausumaa, jossa eduskunta edellyt-
+tää, että valtioneuvosto teettää viimeistään keväällä 2022 julkaistavan seurantaraportin ra-
+portoinnin kokemuksista sekä raporteissa ilmenneistä verojärjestelyä koskevista tiedoista
+ja niiden perusteella tehdyistä toimenpiteistä. Siksi mielestäni tämä lausuma on tärkeä, että
+tämän pohjalta me lisäämme sitä, että lainsäädäntö on kaiken kaikkiaan läpinäkyvää. Ja se,
+että tästä tulee raportti muutaman vuoden sisään, että minkälaisia järjestelyjä on tehty, min-
+kälainen käsitys siitä, miten systeemi tulee toimimaan, niin se antaa tutkijoille, medialle,
+meille politiikan päätöksentekijöille paremman mahdollisuuden arvioida sitten esimerkik-
+si näiden erilaisten rajat ylittävien järjestelyjen vastuullisuutta, ehkä jatkosäätelytarpeita.
+Ja kaiken kaikkiaan se, että raportoidaan ja on mahdollisimman läpinäkyvää, tietenkin
+myös osaltaan ennaltaehkäisee ei-asiallista verosuunnittelua.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 80/2019 vp
+Kiitos, arvoisa puhemies, ja tämä on myös yksimielinen.
+
+Toinen varapuhemies Juho Eerola: Kiitokset verojaoston puheenjohtajalle.
+
+17.01 Anneli Kiljunen sd: Arvoisa herra puhemies! Aivan kuten verojaoston puheenjoh-
+taja tuossa äsken totesi, niin ehdotetuilla säädöksillä pannaan täytäntöön direktiivi, jonka
+tarkoituksena on parantaa Euroopan unionin jäsenvaltioiden veroviranomaisten tiedon-
+saantia rajat ylittävistä verosuunnittelujärjestelyistä, joissa voi olla veron kiertämisen tai
+välttämisen elementtejä. Siltä osin tämä lakiesitys, joka nyt yksimielisesti on hyväksytty,
+on myös erittäin tärkeä ja erittäin tärkeä tukemaan sitä edellistä lainsäädäntöesitystä, jota
+tässä käsiteltiin.
+
+Arvoisa puhemies! Esitys liittyy aggressiiviseen verosuunnitteluun ja veronkiertoon,
+joka on ollut SDP:llä tärkeänä teemana kaikki nämä vuodet. Nyt kun meillä on uusi valtio-
+varainministeri Kulmuni paikalla, niin voin ilolla kertoa, että jo vuonna 2013 silloinen val-
+tiovarainministeri Jutta Urpilainen nosti nimenomaan aggressiivisen verosuunnittelun ja
+veronkierron niin kansalliseksi kuin myös kansainväliseksi tärkeäksi kysymykseksi. Hän
+muun muassa kutsui ensimmäisenä valtiovarainministerinä kaikki Euroopan unionin kol-
+legansa Suomeen keskustelemaan, kuinka Euroopan tasolla voitaisiin puuttua tähän ikä-
+vään kysymykseen. Sillä tiellä Suomi on edelleen, ja sillä tiellä nyt myös tämä hallitus jat-
+kaa tätä työtä.
+
+Arvoisa puhemies! Tämä esitys on merkityksellinen, sillä järjestelyjen raportointi an-
+taa, kuten jaoston puheenjohtaja totesi, viranomaisille sekä meille päätöksentekijöille, jär-
+jestöille ja tutkijoille lisää tietoa ja informaatiota verovälttelystä ja siitä, miten siihen voi-
+taisiin myös puuttua. Raportointivelvoite voi myös ennaltaehkäistä röyhkeimpiä järjeste-
+lyjä. Esityksessä on kyse haitallisen verokilpailun ja aggressiivisen verosuunnittelun sekä
+veronkierron torjunnasta ja niitä koskevien direktiivien toimeenpanosta.
+
+Aivan kuten tässä äsken totesin, hallitus on ottanut vakavasti tämän kysymyksen, ja me
+olemme kirjoittaneet sen myös hallitusohjelmaan. Siellä todetaan muun muassa: ”Suomen
+on osallistuttava haitallisen veropohjista käytävän kilpailun lopettamiseen sitoutumalla yh-
+teisiin, reiluihin pelisääntöihin OECD:n, YK:n ja Euroopan unionin puitteissa.” Hallitus on
+myös sitoutunut tukemaan ”ratkaisuja, joilla voidaan torjua ja vaikeuttaa veroparatiisien
+toimintaa niin Euroopan unionissa kuin muuallakin maailmassa, jotta yritysten voitot ja
+muut tulot tulevat läpinäkyvällä tavalla kertaalleen verotetuiksi. Tavoitteena on tiiviimmät
+ja laajemmat veropohjat, joilla torjutaan kansainvälisten yritysten aggressiivista verosuun-
+nittelua ja veronkiertoa sekä valtioiden välistä haitallista verokilpailua.” Hallitusohjelmas-
+sa on sovittu myös kansainvälisen veronkierron ja aggressiivisen verosuunnittelun torju-
+misesta erillisellä toimenpidesuunnitelmalla, ”jolla laajennetaan Suomen veropohjaa ja li-
+sätään läpinäkyvyyttä.” Tämä työ ja muut hallitusohjelman verovälttelyn vastaiset toimet
+on saatava käyntiin mahdollisimman pian.
+
+Arvoisa puhemies! Tätä työtä me olemme nyt tekemässä. Me emme vain sitoudu näihin
+tavoitteisiin, vaan meidän on myös pistettävä nämä periaatteet toimenpiteiksi, ja tämä la-
+kiesitys on yksi askel tähän suuntaan.
+
+17.05 Markus Lohi kesk: Arvoisa puhemies! Suomelle on tärkeää se, että kun yritystoi-
+minnassa syntyy voittoja Suomessa, niin myös ne voitot verotetaan täällä Suomessa. Sen
+takia matkan varrella jo vuosia olemme pyrkineet itse kehittämään meidän verolainsäädän-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 80/2019 vp
+töämme, erityisesti elinkeinotuloverolakia, siihen suuntaan, että se estäisi voiton siirtämi-
+sen verotettavaksi jonnekin toiseen maahan. On muun muassa niin sanotuissa alikapitali-
+saatiotilanteissa rajoitettu korkojen vähennysoikeutta ja niin edelleen. Nyt meillä on käsit-
+telyssä samaan kokonaisuuteen liittyvä lakiesitys, joka pohjautuu direktiiviin ja on siis Eu-
+roopan laajuista sääntelyä. Siinä on tarkoitus säätää nyt lailla velvollisuus yrityksille rapor-
+toida rajat ylittävistä järjestelyistä, joissa saattaa olla kyse verotuksen välttämisestä, veron-
+kiertämisestä, aggressiivisen verosuunnittelun aineksista. Tämä on lähtökohtaisesti
+minusta erittäin hyvä asia, kun puhutaan kansainvälisistä järjestelyistä. Tämä ei tarkoita si-
+tä, että jokaisesta järjestelystä pitäisi raportoida. Siellä on laissa erilaiset testit, joita pitää
+tehdä. Aina, jos ne täyttyvät, mennään raportointivelvollisuuden piiriin.
+
+Nostan tästä esiin kolme asiaa. Yksi on se, jota täällä on ehkä lyhyesti sivuttu ja joka liit-
+tyy siihen, että tässä valiokunnan mietinnössä todetaan: ”Valiokunta puoltaa hallituksen
+esityksessä valittua mallia, jonka mukaan kansallisten järjestelyjen raportointivelvollisuu-
+den tarvetta ja raportoinnin tarkoituksenmukaista laajuutta selvitetään ja arvioidaan myö-
+hemmin erikseen ottaen huomioon kansallisten järjestelyjen raportoinnissa oletettavasti
+saatavat hyödyt sekä aiheutuva hallinnollinen taakka ja kustannukset.” Minusta on hyvä,
+että tämmöistä arviointia tehdään, mutta haluaisin jo tässä vaiheessa todeta, että kansain-
+väliset järjestelyt, joissa siirretään voittoja toisiin maihin verotettavaksi, ovat aivan eri asia
+kuin kotimaiset järjestelyt. Tässä sääntelyssä, jos ja kun sitä selvitetään perinpohjaisesti,
+on totta kai otettava erittäin tarkkaan huomioon se, että meillä on jo kotimaisia järjestelyjä
+koskevaa, veronkiertoon liittyvää säännöstöä, eikä tietenkään voi olla niin, että kaikenlai-
+set yritysjärjestelyt tulisivat jotenkin vielä erityisen raportointivelvollisuuden alaiseksi.
+Olen tässä aika varovaisella linjalla, mutta selvitys on hyvä tehdä.
+
+Toinen asia, jonka haluan nostaa esille, on se, että on hyvä, että perustuslakivaliokun-
+nalta pyydettiin lausunto liittyen tähän asianajosalaisuuteen ja saatiin erittäin hyvä lausun-
+to sieltä. Nyt valiokunta esittääkin yhtä pykälämuutosta sinne, jotta turvataan tässäkin ti-
+lanteessa aina asianajosalaisuus.
+
+Kolmas asia, jonka haluan nostaa esille, on valiokunnan ponsiesitys. On minusta hyvä,
+että seurataan, mihin tämä johtaa. Keväällä 2022 viimeistään on sitten meillä seurantara-
+portti, josta pystymme katsomaan, mitä kaikkea on seurannut ja tarvitaanko joitakin lain-
+säädännön muutoksia.
+
+17.09 Iiris Suomela vihr: Arvoisa puhemies! Kuten tässä jaoston puheenjohtaja Viitanen
+jo hyvin toikin esiin, tämä lakimuutos on osa sitä isompaa pakettia, jota ollaan EU:ssa saa-
+tu edistettyä, jotta saadaan puututtua kansainväliseen aggressiiviseen verosuunnitteluun ja
+muuhun toimintaan, jolla yritykset pyrkivät välttelemään vastuutaan verojen maksamises-
+ta.
+
+Tässä esityksessä on nähdäkseni erityisen hienoa se, että tämä edistää juuri niitä arvoja,
+jotka ovat myös Suomen verojärjestelmän keskeisiä vahvuuksia, nimittäin läpinäkyvyyttä
+ja avoimuutta mutta toisaalta hallinnollista mielekkyyttä. Suomalaisen verojärjestelmän
+hienoushan on siinä, että tiedot ovat saatavilla varsin avoimesti, jolloin jokainen pystyy ar-
+vioimaan, toimiiko meidän järjestelmämme sellaisella tavalla kuin äänestäjät haluavat. En-
+nen kaikkea pystytään keräämään tietoa, jonka perusteella pystytään tekemään parempaa
+politiikkaa. Tämä on nähdäkseni tämän lakiesityksen keskeinen tavoite: saada enemmän
+tietoa siitä, millaisia rajat ylittäviä järjestelyjä yritykset tekevät verojen minimoimiseksi,
+jotta pystytään tarvittaessa tarttumaan ongelmiin ja muuttamaan lainsäädäntöä ja näin var-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 80/2019 vp
+mistamaan hyvinvointivaltiolle kestävä rahoituspohja. Kysehän on nimenomaan rapor-
+toinnista, ei sinällään siitä, että tässä nyt lähdettäisiin tietynlaisia menettelyjä kieltämään
+tai estämään, vaan siitä, että on mahdollisimman avointa ja selkeää, millä tavalla verotusta
+optimoidaan.
+
+Totta kai on samalla huolehdittava siitä, että järjestelmä on mahdollisimman sujuva ja
+helppo. Mitään turhaa kuormaa ei kenellekään tästä pidä koitua, ja valiokuntakäsittelyn ai-
+kana onkin jo aloitettu hyvä yhteinen pohdinta Verohallinnon kanssa siitä, miten tästä saa-
+daan kaikille mahdollisimman mielekäs. Tässä Suomi on edelläkävijä. Meillä on pitkälti
+automatisoitu, tehokas, hyvä Verohallinnon toimintajärjestelmä, ja sen takia olisi hienoa
+nähdä, että Suomi olisi tässä nimenomaan edelläkävijänä — että pystyisimme näyttämään
+muille EU-maille esimerkkiä, kuinka järkevästi, tehokkaasti ja helposti tällainen avoi-
+muutta edistävä raportointi hoituukaan.
+
+Kuten sanottua, tässä samalla on pidettävä tehokkuuden ja sääntelyn mielekkyyden li-
+säksi huolta myös siitä, että asianajosalaisuus turvataan. Tästä saimme perustuslakivalio-
+kunnalta varsin kattavan lausunnon, ja totesimme, että voi olla sellaisia tilanteita, joissa
+asianajaja ei tosiasiassa käsittele kenenkään henkilötietoja vaan esimerkiksi yleisesti ot-
+taen kertoo, millaisia verojärjestelyjä voidaan tehdä. Tällaisissa tapauksissa kyse ei ole mi-
+tenkään salaisista asioita, mutta kun puhutaan henkilötiedoista, niin silloin meidän kaik-
+kien tavoitteena on tietysti varmistaa, että asianajosalaisuus toteutuu. Kyseessä on kuiten-
+kin vahva perusoikeus.
+
+Mutta, puhemies, nähdäkseni tässä on hyvin mielekäs paketti, ja toivon, että tätä samaa
+järkevää raportointimenettelyä päästään jatkossa entisestään laajentamaan, [Puhemies ko-
+puttaa] sillä avoimuus on kuitenkin se suomalaisen verojärjestelmän keskeinen vahvuus ja
+kulmakivi.
+
+17.12 Johannes Koskinen sd: Herra puhemies! Tässä edustajat Viitanen, Anneli Kilju-
+nen ja Suomela ovat jo kertoneet hyvin näistä tavoitteista, joihin tämä lainsäädäntö pyrkii.
+Täydennän vain muutaman sanan tästä asianajopykälästä ja mitä erityismuutoksia joudut-
+tiin perustuslakivaliokunnan lausunnon takia tekemään, ja edustaja Lohi niihin jo myös
+viittasi.
+
+Siis perustuslakivaliokuntahan kiinnitti huomiota siihen, että oikeudenkäymiskaaren 17
+luvun 13 §:n mukaisen todistamiskiellon 1 momentissa säädetty varsinainen asianajosalai-
+suuden ydin ei ole ehdotetun säännöksen piirissä, elikkä kun annetaan tällaista neuvontaa,
+minkälaisia yritysjärjestelyjä voidaan tehdä. Hallituksen esityksessä tätä rajausta perustel-
+tiin sillä, että direktiivin mukaisten järjestelyjen raportointi on luonteeltaan ennakollista il-
+moittamista, minkä vuoksi direktiivillä ei voida katsoa olevan välitöntä liityntää tuohon oi-
+keudenkäymiskaaren säännökseen, jossa on kyse tietojen antamisesta liittyen käynnissä
+olevaan tai uhkaavaan oikeudenkäyntiin hallinto- tai rikosprosessissa. Valiokunnan mie-
+lestä perustelu on sinänsä ymmärrettävä. Soveltamistilanteiden moninaisuudesta johtuen
+perustuslakivaliokunta ei pitänyt perustelua kuitenkaan riittävänä ja esitti sitten kaksi vaih-
+toehtoista mallia, miten tämä oikaistaisiin ehdotuksessa.
+
+Valtiovarainvaliokunta ja sen verojaosto päätyivät tähän kakkosmalliin, jonka mukaan
+laajennettiin ensimmäisen lakiehdotuksen 6 §:n 1 momentin viittaussäännöstä oikeuden-
+käymiskaareen siten, että ilmoitusvelvollisuus ei koske viitatun oikeudenkäymiskaaren 17
+luvun 13 §:n 3 momentin asemesta oikeudenkäymiskaaren 17 luvun 13 §:n 1 ja 3 momen-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 80/2019 vp
+tissa säädettyjä todistamiskieltoja. Tätä pidettiin ehtona tavalliselle lainsäätämisjärjestyk-
+selle.
+
+No, jos tätä yksinkertaistetaan tämmöisellä vertauksella, että lääkäreillähän on ehdoton
+salassapitovelvollisuus potilastietoihin ja hoitoon liittyviin asioihin. Vastaavasti asianajos-
+alaisuus on aika kattava silloin, kun puhutaan konkreettisesta oikeudenkäyntiavustamises-
+ta ja henkilötiedoista ja niin edelleen. Mutta sitten jos lääkäri lähtee harjoittaman vaikkapa
+ravitsemusneuvontaa yleisölle, niin silloin hänen toimintaansa verrataan siihen, mitä ravit-
+semusterapeutit tai muut ruoka-asiantuntijat antavat. Ja silloin, jos siihen liitettäisiin esi-
+merkiksi tämmöinen raportointivelvollisuus, niin se voisi olla ihan yhtä laaja kuin muilla-
+kin sitä toimintaa harjoittavilla. Vastaavasti täällä yritysjärjestelyissä asianajajat toimivat
+samalla markkinalla kuin veroekspertit tai tilitoimistot, ja heitä pitää mahdollisimman
+neutraalisti kohdella siinä neuvontatyössään eikä pidä toimia niin, että asianajosalaisuu-
+teen vedoten he saisivat ikään kuin tämmöisen monopoliaseman yritysjärjestelyjä koske-
+vassa neuvonnassa. Ja tällä [Puhemies koputtaa] tarkkaan kliinisesti muotoillulla säännök-
+sellä nyt pyritään siihen, että ei aiheuteta tälle kilpailulle turhaa haittaa.
+
+17.15 Anneli Kiljunen sd: Arvoisa puhemies! Kuten täällä on todettu, tämä lakiesitys on
+erittäin hyvä. Suomi on ollut edelläkävijä, kun puhutaan rajat ylittävästä verosuunnittelus-
+ta tai veronkierrosta, ja tätä työtä jatketaan. Nyt Euroopan unionin tasolla käydään keskus-
+telua myös siitä, että tätä työtä jatkettaisiin siten, että maakohtaista raportointia tultaisiin
+myös edellyttämään, ja nyt Suomi ollut tässä aloitteellinen ja vienyt sitä eteenpäin. Sain
+kuulla tänään, että tämä asia etenee myös positiivisessa keskustelussa, ja Suomi on saanut
+myös tästä erittäin hyvää palautetta, että tätä toimintaa lähdetään kehittämään siltä osin,
+että maakohtaista raportointia lähdetään viemään vastaavalla tavalla kuin tämä lakiesitys
+on edellyttänyt.
+
+Yleiskeskustelu päättyi. 
+
+Eduskunta hyväksyi hallituksen esitykseen HE 69/2019 vp sisältyvien 1.—3. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+6
+
+

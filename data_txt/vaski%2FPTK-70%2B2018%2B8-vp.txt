@@ -1,0 +1,603 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM85D.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 70/2018 vp
+
+Täysistunto
+
+Keskiviikko 20.6.2018 klo 14.10—21.12
+
+8. Hallituksen esitys eduskunnalle tieliikennelaiksi ja eräiksi siihen liittyviksi laeiksi
+Hallituksen esitys HE 180/2017 vp
+Lakialoite LA 24/2015 vp, 46/2017 vp
+Toimenpidealoite TPA 13, 32/2016 vp
+Valiokunnan mietintö LiVM 16/2018 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Tuula Haatainen: Ensimmäiseen käsittelyyn esitellään päiväjär-
+jestyksen 8. asia. Käsittelyn pohjana on liikenne- ja viestintävaliokunnan mietintö LiVM
+16/2018 vp. Nyt päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+19.54 Markku Pakkanen kesk (esittelypuheenvuoro): Arvoisa rouva puhemies! Meillä
+on käsittelyssä hallituksen esitys uudeksi tieliikennelaiksi, jossa kootaan yhteen liikentees-
+sä käyttäytymistä koskevat säännökset. Uuden tieliikennelain tarkoituksena on saada tien
+käyttäjät toimimaan mahdollisimman yhdenmukaisesti ja ennakoivasti. Valiokunta pitää
+liikenteen turvallisuutta ensiarvoisen tärkeänä. Sääntöjen muuttuessa, erityisesti alkuvai-
+heessa, muiden liikkujien huomioimisen merkitys korostuu liikenteessä, koska uusien
+sääntöjen omaksuminen vie väistämättä oman aikansa. Valiokunta pitää erityisen hyvänä,
+että lakiehdotuksessa on otettu huomioon ajoneuvojen ja liikenteen automaation käyttöön-
+otto ja kehittyminen. 
+
+Muutamia nostoja haluan tässä ottaa esille.
+Jalankulkijan heijastin ja pyöräilijän kypärä: valiokunta pitää hyvänä, että heijastimen
+
+käyttöä ja pyöräilykypärää koskeva sääntely säilyy tieliikennelaissa selkeänä viestinä nii-
+den käyttämisen tarpeellisuudesta ja tärkeydestä. 
+
+Talvirengas- ja nastarengasasiat puhuttivat valiokuntaa paljon: valiokunta pitää periaat-
+teessa hyvänä, että rengassääntelyyn tuodaan joustavuutta. Itse autoilijoiden vastuuta ko-
+rostetaan monessa eri yhteydessä. Talvirenkaiden käyttöä koskevat ehdotukset ovat asian-
+tuntijakuulemisessa kuitenkin saaneet osakseen myös kritiikkiä ja huolia ehdotuksen vai-
+kutuksesta liikenneturvallisuuteen. Tämä oli asia, mikä montaa valiokunnan jäsentä kyllä
+huolestutti ja puhutti. Sääntelyn vaikutuksia ja sen noudattamista tuleekin seurata erittäin
+tiiviisti ja tarvittaviin toimenpiteisiin pitää ryhtyä viipymättä, jos niin katsotaan.
+
+Liikenne- ja viestintävaliokuntaa monessa yhteydessä leikkisästi kutsutaan myös ”lii-
+kennemerkkivaliokunnaksi”. Tässä tapauksessa oltiin myös aidosti liikennemerkkien kä-
+sittelyssä — päästiin miettimään montaa uutta merkkiä, väriä ja näiden tarkoitusta. 
+
+Eräistä uusista tieliikennesäännöistä muutama esimerkki: Esityksessä on useita sellaisia
+ehdotuksia, joiden liikenneturvallisuutta koskevista vaikutuksista on asian käsittelyn aika-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+na tuotu esille myös negatiivisia arvioita. Esityksen mukaan ajoneuvoille annettaisiin mah-
+dollisuus poistua risteyksestä sopivinta ajokaistaa käyttäen muuta liikennettä vaarantamat-
+ta ja haittaamatta, jos risteävällä ajoradalla on kaksi tai useampi kaista. Lisäksi ajoneuvon
+pysäköinti kulkusuunnassa myös vasemmalle puolelle tietä sallittaisiin, jos se tapahtuisi
+muita tien käyttäjiä vaarantamatta ja haittamaatta. Näiden vaikutuksia erityisesti turvalli-
+suudelle tulee seurata huolella. Tässä vain muutama esimerkki, mutta niin kuin sanoin, niin
+valiokunta katsoi aina erityisesti turvallisuuden kannalta näitä uudistuksia.
+
+Seuraamusjärjestelmää koskeva uudistus: Esityksessä ehdotetaan tieliikenteen vähäisiä
+rikkomuksia koskevaa seuraamusjärjestelmää uudistettavaksi ottamalla käyttöön uusi hal-
+linnollinen seuraamus, liikennevirhemaksu. Valiokunta viittaa seuraamusjärjestelmän
+osalta lakivaliokunnan asiasta antamaan perusteelliseen lausuntoon, jonka pohjalta liiken-
+ne- ja viestintävaliokunta on tehnyt esitykseen useita muutoksia.
+
+Automaattisen nopeusvalvonnan kehittäminen: Siinä tuntui valiokunnan jäsenissä ole-
+van monta asiantuntijaa. Itse kuulun niihin kyllä, monta valokuvaa on poliisi minullekin
+tieltä laittanut. Valiokunta korostaa, että joko kunkin automaattikameran yhteydessä tai
+sen välittömässä läheisyydessä tulee olla nopeusrajoituksen ilmaiseva merkki. Samalla tu-
+lee arvioida, voidaanko kameroiden huomioimista edistää jollakin keinolla ennalta eh-
+käisevän vaikutuksen vahvistamiseksi. Tällä on myös liikenneturvallisuutta parantava vai-
+kutus. Kameroiden tehokkuus nopeusvalvonnassa on kiistaton. 
+
+Myös lasten turvalaitteet puhuttivat valiokuntaa paljon. Valiokunta pitää lasten turva-
+laitteiden käyttöä ensisijaisen tärkeänä. Käytännön syistä valiokunta on kuitenkin lisännyt
+pykälään näitä turvalaitteita koskevan poikkeuksen, jonka mukaan ehdoton velvollisuus ei
+koske taksiliikenteessä alle 135 senttimetriä pitkän ja vähintään 3-vuotiaan lapsen kuljet-
+tamista. Alle 3-vuotiasta lasta ei kuitenkaan saa koskaan kuljettaa myöskään taksiliiken-
+teessä ilman turvalaitetta.
+
+Arvoisa puhemies! Tähän sisältyy pari lausumaa, ja haluan ne myös tässä lukea. Valio-
+kunta ehdottaa eduskunnan hyväksyttäväksi kaksi lausumaa, joista ensimmäinen kuuluu
+näin:
+
+”Eduskunta edellyttää, että uuden tieliikennelain uudistuksista tiedotetaan tiellä liikku-
+jaa tehokkaasti ja kattavasti, ja että lain vaikutuksia seurataan ja arvioidaan erityisesti lii-
+kenteen turvallisuuden ja sujuvuuden osalta.”
+
+Toinen lausumaehdotus:
+”Eduskunta edellyttää, että valtioneuvosto valmistelee yhteistyössä kuntien ja muiden
+
+toimijoiden kanssa yhtenäisen ratkaisun kotihoidon ja vastaavien kotiin tarjottavien palve-
+luiden työntekijöiden pysäköinnin helpottamiseksi ja valmistelee viipymättä asiassa tarvit-
+tavat säännösmuutokset.” 
+
+Ja myös tästä valiokunnan mietinnöstä haluan mainita, että sekin oli yksimielinen. —
+Kiitos.
+
+20.01 Katja Taimela sd: Arvoisa rouva puhemies! Koska edustajakollega, valiokunnan
+varapuheenjohtaja Pakkanen piti jälleen kerran tästä laista äärettömän hyvän esittelypu-
+heenvuoron, aion hieman lyhentää omaa sanomaani.
+
+Elikkä tämä käsittelyssä oleva tieliikennepaketti on mietintölaajuudessaan todellakin
+250-sivuinen, ja jo se kertoo sen, että tämäkään laki ei ole päästänyt meitä liikenne- ja vies-
+tintävaliokuntaa sammaloitumaan tämän kevään aikana. Lain tarkoitus on vähentää sään-
+nösten määrää ja yksinkertaistaa hallinnon taakkaa, ja laki tulee kyllä myös lisäämään vas-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+tuuta meille tienkäyttäjille liikenteen sujuvuudesta ja liikenneturvallisuudesta. Niin kuin
+edustajakollega Pakkanenkin jo kertoi, valiokunnassa puhuttivat muun muassa pysäköin-
+tiongelmat, ajoneuvojen hetkittäiset pysäyttämiset jalkakäytäville ja pyöräteille, lasten tur-
+valaitteet, pyöräilykypärän tarpeellisuus, keltaisen sulkuviivan muuttuminen valkoiseksi
+ja erityisesti tämä talvirengasmääräysten muuttuminen, niiden kohdalla kun on tarkoitus
+joustavoittaa sääntelyä vastaamaan paremmin Suomen vaihtuvia keliolosuhteita.
+
+Tämä paketti on varsin laaja, ja siitä syystä nostan esiin vielä vain valiokunnan kahden
+lausuman hengen: Näin laajasta uudistuksesta on tiedotettava erittäin kattavasti eri tien-
+käyttäjiä ja myös seurattava mahdollisia negatiivisiakin ilmiöitä liikenneturvallisuutta aja-
+tellen — tämä on yhden lausuman henki. Toinen lausuma koskee kaikkialta eri maakun-
+nista tulevaa palautetta, joka liittyy kotihoidon henkilökunnan pysäköintiongelmiin. Käyn-
+tiajat ovat jo muutoinkin liian lyhyitä, ja siitä ajasta ei voi käyttää yhtään turhaa aikaa py-
+säköintipaikan etsimiseen, ja niinpä edellytimme lausuman muodossa, että valtioneuvosto
+valmistelee yhteistyössä kuntien kanssa yhtenäisen ratkaisun pysäköinnin helpottamiseksi.
+
+Nämä kaksi lausumaa, kuten myös koko tämä mietintö, joka valiokunnassa työstettiin,
+tehtiin erittäin hyvässä yhteishengessä, vaikkakin kuuleminen oli varsin laaja ja siellä oli
+semmoisia kimuranttejakin kohtia käsittelyn aikana. Valiokunnalle kiitos hyvästä käsitte-
+lystä.
+
+20.03 Sinuhe Wallinheimo kok: Arvoisa rouva puhemies! Haluan vain lyhyesti kiittää
+sekä hallitusta että liikenne- ja viestintävaliokuntaa erinomaisesta työstä tieliikennelain, tai
+kuten tämän asian lähetekeskustelussa todettiin, kansanlain päivittämisestä tähän päivään.
+Erityisesti kolmessa kokonaisuudessa otetaan hyviä loikkia parempaan suuntaan.
+
+Ensinnäkin on hyvä, että liikenteen käyttäytymiseen liittyvät säädökset kootaan vihdoin
+yhteen paikkaan ja tästä johtuva byrokratia vähenee. Me kaikki tien käyttäjät tiedämme,
+millaisia tilanteita nykyinen tieliikennelaki on pahimmillaan tuottanut. Kansalaisten aikaa
+ja rahaa on kulunut tulkintojen hakemisessa yksittäisten liikennerikkomusten osalta.
+
+Toiseksi on hyvä, että tässä uudistuksessa annetaan enemmän vastuuta yksittäiselle tien-
+käyttäjälle. Vaikka meidän päättäjien tehtävänä on tässä talossa liikenteen yleisten peli-
+sääntöjen määrittely, niin jokainen meistä tienkäyttäjistä vastaa lopulta siitä, kuinka turval-
+lista meidän tieliikenteemme on. Kun nämä säännöt ovat tämän muutoksen myötä entistä
+helpommin ymmärrettäviä ja ne on koottu usean erillisen säädöksen sijaan yhteen paik-
+kaan, on tämä tavoite helpompi saavuttaa.
+
+Kolmas hyvä muutos tässä esityksessä on sen varautuminen tulevaisuuden liikkumisen
+tarpeisiin. Robottiautot ja automatisoitu liikenne ovat arkipäivää muutaman vuoden sisällä
+myös meillä Suomessa. Tässä näkyvin muutos nykytilaan on se, että tienkäyttäjänä pidet-
+täisiin jatkossa myös henkilöä, joka ohjaa autoa muualta kuin auton sisältä, ja ettei ajoneu-
+vo saa pysäköinnin jälkeen lähteä liikenteeseen hallitsemattomasti esimerkiksi etäohjauk-
+sessa.
+
+Arvoisa puhemies! Valiokunta on mietinnössään tehnyt monia järkeviä muutoksia. Niis-
+tä nostan esille valiokunnan linjaukset teknisten laitteiden käyttämisestä ajon aikana sekä
+nopeusrajoituksista taajamissa. Lisäksi kotiin tuotavien palveluiden pysäköintiongelmat
+ovat mietinnössä saaneet asianmukaisen lausumaehdotuksen. Toki jatkopohdittavaakin
+jää, ja tässä yksi tärkeimmistä on tämä talvirengassääntely. Itse olisin mielelläni nähnyt,
+että nastarenkaiden käytölle olisi asetettu selkeämpi päättymispäivä keväisin, varsinkin
+3
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+kun Suomi on asettanut poliittiseksi liikenneturvallisuustavoitteeksi tieliikennekuolemien
+määrän puolittamisen vuoden 2010 tasosta vuoteen 2020 mennessä.
+
+20.06 Eeva-Maria Maijala kesk: Arvoisa puhemies! Turvallisuus on ehdottomasti tär-
+kein asia. Meillä valiokunnassa keskusteltiin hyvin paljon tästä laista ja sitten hyvin usein
+tulivat esille kaikki nämä turvallisuusasiat. Puhuimme paljon suojakypärästä, renkaista,
+heijastimen käytöstä, liikennemerkeistä, tiemaalauksista, turvaistuinten käytöstä, kamera-
+valvonnasta, hyvin monesta liikenteeseen liittyvästä asiasta, ja kaikissa asioissa oli ensim-
+mäisenä lähtökohtana se, miten ne vaikuttavat turvallisuuteen. Me kuulimme valiokunnas-
+sa paljon asiantuntijoita, ja se oli meille kaikille varmaan semmoinen läheinen asia, koska
+tämähän koskettaa meitä kaikkia. Me kaikki liikumme tuolla liikenteessä, ja kaikille on tär-
+keää se, että siellä säästyttäisiin kaikilta onnettomuuksilta mahdollisimman paljon. Kun
+me kuulimme asiantuntijoita, niin sen mukaisesti myöskin tähän lakiin tehtiin useita pieniä
+korjauksia ihan sen mukaan, mitä asiantuntijat sanoivat ja mitä me keskustelimme tästä
+asiasta.
+
+Otan nyt sitten esille yhden olennaisen muutoksen. Se on monien mielestä ihan pikkui-
+nen sivuseikka, ja laissakin se on pieni, mutta meille lappilaisille ja maaseudun ihmisille ja
+porotalousihmisille se on todella iso ja tärkeä ja todella merkittävä asia. Kyse on siitä, että
+henkilöille, jotka käyttävät moottorikelkkaa töissä, työtehtävissä, tämä on iso juttu, nimit-
+täin kyse on suojakypärän käyttämisestä ja hätäkatkaisijan käyttämisestä työtehtävien ai-
+kana. Minä pidän todella tärkeänä sitä, että kun moottorikelkalla ajetaan vapaa-ajan vietos-
+sa, niin silloin kypärää käytetään ehdottomasti, siitä ei saa livistää ollenkaan. Olen nähnyt
+ja kuullut läheltä niin paljon onnettomuuksia, kun kypärää ei ole käytetty näissä vapaa-ajan
+kelkkailuissa. Silloin kypärän käyttö on aivan ehdottoman tärkeää. Mutta nyt sitten, kun
+puhutaan työtehtävistä, kyse on kokonaan eri kelkkailusta, eli silloinhan on kyse hyvin hi-
+taasti ajettavasta, rauhallisesta kelkkailusta. Alun perin hallituksen esityksessä oli, että
+kaikkien tulee käyttää turvallisuussyistä moottorikelkalla ja mönkijällä ajaessa suojakypä-
+rää ja että hätäkatkaisijan tulee olla kytkettynä aina ennen kuin moottorikelkka käynniste-
+tään. Tämä on tärkeä asia, ja näistä minä haluan pitää kiinni. Mutta porotalous- ja metsä-
+taloustyöt ovat asioita, joissa moottorikelkoilla ajetaan hyvin rauhallisella vauhdilla. Ja sil-
+loin kun porometsässäkin ajetaan kelkalla — itse siinä mukana olleena tiedän kyllä, mitä se
+on — vauhti on hyvin hidas, 10—15 kilometriä tunnissa, kierretään puitten välistä, lumet
+tulevat välillä naamalle ja hiki on päässä ja aina vähän väliä joutuu hyppäämään kelkan
+kyydistä poies ja liikkumaan paljon, pitää havainnoida, missä porot kulkevat ja missä muut
+hakuporukat ovat liikkeellä. 
+
+Nyt sitten onneksi me kuulimme näitä asiantuntijoita, ja kun asiantuntijoita kuultiin, niin
+sen jälkeen ne henkilöt, jotka eivät ole ikinä ennen kuulleet tämmöisestä elinkeinotoimin-
+nasta, saivat ymmärtää, että kyse onkin ihan kokonaan eri asiasta, kyse ei ole vapaa-ajan
+kelkkailusta, jossa onnettomuuksia on tapahtunut. Tärkeä tieto meidän valiokunnallemme
+tässäkin asiassa oli se, että onnettomuuksia ei työtehtävissä ole sattunut juuri ollenkaan.
+Sitten asiantuntijat sanoivat vielä niin päin, että jos näissä tilanteissa pitäisi käyttää näitä
+turvavälineitä, niin se olisi turvariski, elikkä tässä kävisi justiinsa toisin päin. Ja sen jäl-
+keen onneksi me saimme tehtyä muutokset. 
+
+Kun olin tuolla poroparlamentissa pari viikkoa sitten, niin eipä siellä juuri kukaan puhu-
+nut muusta kuin siitä, että onko juuri tosi, että meidän pitää alkaa käyttämään työtehtävissä
+kypärää, kun se ei kerta kaikkiaan onnistu. Sitten me valiokunnassa saimme laitettua täm-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+möisen poikkeuksen 93 §:ään siitä, että ”suojakypärän käyttövelvollisuus ei koske poron-
+hoito- tai metsänhoitotöissä taikka energiansiirto- tai televerkostotöissä olevaa moottori-
+kelkan tai ohjaustangolla ja satulamallisella istuimella varustetun maastoajoneuvon ja trak-
+torin kuljettajaa ja matkustajaa”. Ja sama tuli sitten hätäkatkaisijan käyttöön näissä työteh-
+tävissä moottorikelkan osalta.
+
+Kiitän vieläkin valiokuntaa siitä, että kaikissa asioissa koko ajan otettiin huomioon tur-
+vallisuus, mutta myöskin tietyt poikkeusasiat otettiin huomioon, koska pitäähän meidän
+pystyä myöskin tekemään töitä monissa asioissa. Tämä oli niitä päiviä töissä, kun minä
+huomasin, kuinka tärkeää on se, että meitä kansanedustajia on kaikkialta Suomesta ja eri
+alojen kanssa tekemisissä olevia ihmisiä. Nyt minä pystyn tämän lain kanssa myöskin me-
+nemään kotiin, kun tämmöiset muutokset tähän saatiin aikaiseksi. Kiitos koko valiokun-
+nalle. Oli mahtavaa käydä sitä keskustelua, mitä käytiin kaikesta siitä, kuinka tärkeää on
+turvallisuus.
+
+20.12 Jari Myllykoski vas: Arvoisa rouva puhemies! Kuten jo edellä edustaja Taimela
+kehui valiokunnan varapuheenjohtajan esittelyä, niin minä myös. Koetan omalta osaltani
+pitäytyä lyhyemmässä ja kommentoin nyt vain tietyiltä osin edustaja Maijalan käyttämää
+puheenvuoroa. 
+
+Toivon, että tämä laintulkinta, mitä me teimme tässä kypäräasiassa, ei kuitenkaan estä
+esimerkiksi voimayhtiöiden työmaalla työskenteleviä henkilöitä, jos yritys edellyttää
+omien työturvallisuuteen liittyvien sertifikaattien kautta käytettäviä suojavarusteita, niin
+että olisimme ristiriidassa yrityksen kanssa siinä, kuinka he haluavat omaa henkilöstöään
+suojata. Tämä on tavallaan semmoinen seurantapaikka, kuinka me haluamme toimia. 
+
+Minulle perusteita kypärän käytön osalta tuli enemmän kuin edustaja Maijala sanoi, jol-
+loin minäkin valaistuin. Täytyy sanoa, että minä uskon, että meidän valiokunnassamme
+kaikki tietävät, että meillä on porotaloutta Suomessa, [Naurua] eli niin ei voi olla, että
+edustaja Maijala käy tuolta pöntöstä sanomassa, että oli hyvä, että tässä kohtaa tuli valais-
+tua myös niitä, jotka eivät tiedä, että meillä on Suomessa poroja. Nyt haluan sen käsityksen
+kyllä oikaista, että näin ei ole. Kyllä kaikki valiokunnassa sen tietävät. [Markku Pakkanen:
+Joulupukki on olemassa!] — No joo, ei sotketa tähän joulupukkia, koska hänellä ei ole ky-
+pärää kuitenkaan. 
+
+On tärkeätä huomioida se, mistä minulle tuli viestiä: valiokunta päätyi tähän järkevään
+ratkaisuun, että kypärän käyttö maasto-olosuhteissa vaikkapa 8 taikka 12 tuntia päivässä
+on niskalle erittäin rasittavaa ja aiheuttaa kulumia eikä sitten toisekseen suojaa niskaa niin
+kuin karvalakki suojaa, eli on monta käytännöllistä syytä, jotka liittyvät työterveyteen, eli
+oli hyvä tämä meidän ratkaisumme. Toivotaan, että joku kypäränvalmistaja jossakin vai-
+heessa huomioi nämäkin, jotta me sitten voimme tuoda kevyempiä malleja, jotka kuiten-
+kin pystyvät ehkäisemään vammoja ja jotka eivät ole mitään vanhanaikaisia moottoripyö-
+räkypäriä. Tänä päivänä teknologia on edistynyt hiilikuidun avulla niin paljon, että turva-
+välineen raskas paino ei olekaan enää rasite vaan se on lippalakkia muistuttava kuorma
+siellä päässä. 
+
+Mutta sinällään, vaikka jotakin voisi kritisoida, jätän sen tekemättä, koska olemme kui-
+tenkin olleet tässä yksimielisinä viemässä tätä eteenpäin.
+
+20.15 Ari Torniainen kesk: Arvoisa rouva puhemies! Tämä tieliikennelain uudistus on
+kokonaisuudessaan erittäin iso kokonaisuus, ja haluan vielä painottaa sitä, että koska nyt
+5
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+on näin isosta kokonaisuudesta ja uudistuksesta kyse, niin tässä on tämän jälkeen, kun tämä
+saadaan täällä eduskunnassa päätettyä, myöskin syytä antaa ja jakaa tietoa tämän lain si-
+sällöstä, jotta liikenneturvallisuus säilyy tulevaisuudessakin. Tässä on niin isoja muutok-
+sia. 
+
+Tämän uudistuksen tavoitteena on varmistaa kaikille tienkäyttäjille sujuva ja turvalli-
+nen sekä kestävä liikenneympäristö. Laki on pyritty tekemään mahdollisimman yksiselit-
+teiseksi ja ymmärrettäväksi muun muassa poistamalla lainsäädäntöä rasittavaa tulkinnan-
+varaisuutta ja puutteellisuuksia. Tässä laissa huomioidaan myös automaattisten ajoneuvo-
+jen ja liikenteen automaation käyttöönotto ja kehittyminen tulevaisuudessa. Huomionar-
+voista on, että tässä hallituksen esityksessä lisätään jossain määrin myöskin jokaisen tien-
+käyttäjän omaa vastuullisuutta liikennekäyttämisessä ja liikenneturvallisuudessa sekä lii-
+kenteen sujuvuudessa. Tässä myöskin annetaan tienpitäjille, esimerkiksi kunnille, uusia
+työkaluja tehdä liikennejärjestelyjä alueelliset olosuhteet ja tarpeet huomioivalla tavalla.
+
+Tässä liikennesäännöt kootaan isoiksi kokonaisuuksiksi, luodaan edellytyksiä teknolo-
+gisen kehityksen hyödyntämiselle, ja uudistus sisältää uusia liikennesääntöjä ja liikenne-
+merkkejä erittäin paljon. Huomionarvoista on myöskin, että tienpitäjä päättää edelleen tie-
+kohtaisista nopeusrajoituksista ja ajoneuvokohtaisiin nopeusrajoituksiin saattaa tulla muu-
+toksia.
+
+Se on omasta mielestäni huomionarvoista, niin kuin tässä on jo edellisissä puheenvuo-
+roissa tullut esille, että tämä on iso kokonaisuus ja tämä liikenne- ja viestintävaliokunnan
+mietintö saatiin yksimieliseksi. Kiitos siitä kaikille. Jos olisi käyty lävitse jokaista liiken-
+nemerkkiä tai jotakin liikennesääntöä — voin sanoa, että siellä varmaan myöskin oli eri-
+laisia näkemyksiä valiokunnassa, niin kuin itsellänikin oli, ja on edelleenkin siellä joitain
+sellaisia, joista olen hieman eri mieltä, mutta tämä on niin iso kokonaisuus, ettei niitä kan-
+nata käydä läpi yksi liikennemerkki kerrallaan.
+
+Semmoisia asioita, joista paljon keskusteltiin, oli tämä, että rikesakot poistuvat ja liiken-
+nevirhemaksu tulee tilalle tässä seuraamusjärjestelmässä. Talvirengassäännöstä myöskin
+keskusteltiin, ja siitä voi olla monenlaista mieltä, ja myöskin tästä, että kun maanteillä sul-
+kuviivan väri muuttuu keltaisesta valkoiseksi, onko se just Suomessa oikein. Paljon kes-
+kusteltiin myöskin jalankulkijan heijastimen ja pyöräilijän pyöräilykypärän [Puhemies ko-
+puttaa] käytöstä, ja niissä säilyy myöskin nykyinen käytäntö edelleen. Se on hyvä asia.
+
+20.18 Jani Mäkelä ps: Arvoisa puhemies! Noista moottorikelkoista ja kypäristä puhut-
+taessa muistan sen, kun tämä asiantuntija kävi meille näistä asioista kertomassa, joka oma-
+si asiasta ilmeisesti niinkin omakohtaista kokemusta, että sai meidät liikennevaliokunnas-
+sa ymmärtämään, mikä siinä kypärän käytössä on ongelma siellä porotaloutta tehdessä.
+Seuraavana päivänä lehdessä oli uutinen, jonka mukaan meillä ei käy asiantuntijoita Lapis-
+ta. Se oli mielestäni hieman hämmentävä uutinen, ja jouduinkin siihen kommentoimaan,
+että kyllä ainakin liikennevaliokunnassa on käynyt. 
+
+Yleensäkin tämä käsittely oli hyvähenkinen ja järki voitti monessa asiassa, kuten tässä
+mainitussa kypäräkysymyksessä, ja siihen täytyy olla tyytyväinen. Esitys oli paksu, teetti
+töitä ja oli laajavaikutteinen ja suurelta osin mielestäni hyväksyttävä. Aiemmat puhujat
+ovat jo kertoneet oleellisia asioita sen käsittelystä. 
+
+Tuon esiin muutaman oman huomioni, jotka matkan varrella herättävät epäilyksiä ja
+ovat ehkä vieläkin pienimuotoisia epäkohtia, joita tarvitsee tulevaisuudessa miettiä. Ensin-
+näkin tämä alkuperäinen esitys liikennevirhemaksusta oli hämmentävä. Se herätti melkoi-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+sen julkisen kohunkin. Siinä oli epäilyksiä siitä, minkälainen on oikeusturva tämän kään-
+teisen todistustaakan kanssa, mutta nyt sitten lakivaliokunnan lausunnon läpikäytyään se
+asia hioutui oleellisesti ja lienee nyt hyväksyttävässä muodossa, ei tarvitse muutosehdotuk-
+sia tehdä. 
+
+Talvirengaspakon muuttaminen ja lakiin kirjaaminen: Esitettiin painokkaitakin asian-
+tuntijanäkemyksiä, että tämä säätelyn muunnos ei lisää turvallisuutta vaan suorastaan hei-
+kentää sitä, saattaa jopa aiheuttaa kuolemia sen myötä, kun lähdetään liikenteeseen kesä-
+renkailla, vaikka pitäisi olla talvirenkaat. Vaikea sanoa, ovatko he oikeassa vai väärässä. Se
+tullaan näkemään tulevaisuudessa tämän säätelyn voimaan tullessa. Ainakin omasta mie-
+lestäni oli jopa varsin epätyydyttäviä asiantuntijalausuntoja liittyen vakuutusoikeudellisiin
+kysymyksiin ja vastuukysymyksiin siinä, kuka on syyllinen siihen, jos näitä onnettomuuk-
+sia tapahtuu tämän uuden talvirengaspakon voimassa ollessa, ja miten sitten ne korvaukset
+menevät. Sekin jää nähtäväksi.
+
+Tämä valkoinen sulkuviiva tuskin lisää turvallisuutta ainakaan keltaiseen verrattuna pa-
+rempaan suuntaan, mutta se nyt tuolla laissa on. Automaattisesta liikennevalvonnasta eli
+peltipoliiseista kylläkin tehtiin huomioita ja todettiin ongelmia, mutta varsinaiset toimen-
+piteet ja pykäläkirjaukset sen suhteen ovat vähän onttoja nyt vielä tässä lakiesityksessä ja
+mietinnössä. Tähän pitäisi mielestäni tulevaisuudessa kiinnittää huomiota, koska eihän tuo
+mekaaninen nopeusvalvonta yksinään mitään liikenneturvallisuutta tuo, vaan kysymys on
+liikenteen kokonaisuudesta ja myöskin poliisiviranomaisen läsnäolosta siellä elävässä lii-
+kenteessä.
+
+20.21 Ulla Parviainen kesk: Arvoisa puhemies! Aluksi ensin kiitoksia, sitten pikkuisen
+ei moitteita vaan hämmästelyjä. Haluan myöskin kiittää tästä, että olette ottaneet valiokun-
+nassa huomioon juuri moottorikelkkaa työssään käyttävät ryhmät. Itse olen poronhoito-
+alueelta kotoisin, ja tämä on varmasti heille erittäin hyvä päätös. Edustaja Maijala kuvasi jo
+tämän työn luonteen hyvin tarkkaan, joten siihen ei tarvitse enää mennä. Mutta on todella-
+kin hyvä asia, että te olette ymmärtäneet tämän asian eikä edelleenkään ole pakko sitten
+maastossa heidän käyttää kypärää.
+
+Mutta sitten toinen asia: Te olisitte voineet hiukan helpottaa kyllä alakoulujen liikenne-
+valistus- ja opetustyötä. Nimittäin tuo pyöräilykypärän käyttöön liittyvä määrittely ”on
+ajon aikana yleensä käytettävä suojakypärää” on kyllä sellainen asia, että minä olen käynyt
+eri-ikäisten koululaisten kanssa monta erillistä keskustelua siitä, mitä tarkoittaa se, että ”on
+yleensä käytettävä”. Jos minä sitten sanon, että siellä seuraavassa pykälässä sanotaan, että
+sairaus- tai terveydellisistä syistä ei tarvitse käyttää, niin siihen löytyy monta erilaista seli-
+tystä kyllä lapsilta. Se olisi ollut hyvä, että se olisi tullut täsmälliseksi, se ”yleensä” olisi
+poistunut ja olisi tullut vaikka ikäraja, jonka alla on sitä käytettävä. Nimittäin koulujen teh-
+tävänä on huolehtia koulumatkan turvallisuudesta, vaikka lapsi sitä kulkisi ilman kouluvä-
+keä. Siinä tulee keskusteluun aina se, kun tulet kouluun pyörällä, onko sinulla kypärä pääs-
+sä. Tämän olisin toivonut helpottuvan kyllä koulujen näkökulmasta. 
+
+20.23 Jukka Kopra kok: Arvoisa rouva puhemies! Tämä hallituksen esitys tieliikenne-
+laiksi oli laaja kokonaisuus, ja valiokunta paneutui siihen huolella ja käytti runsaasti aikaa
+sen setvimiseen ja parantamiseen ja kuuli laajasti asiantuntijoita. Merkille pantavia seikko-
+ja tässä esityksessä on muun muassa tämä turvallisuuspuoli, ja haluaisin kiinnittää huomio-
+ta siihen, että valiokunta kiinnitti huomiota siihen, että paljon suosittu ylinopeusvalvonta ei
+7
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+suinkaan ole se ensisijainen keino, jolla liikenneturvallisuutta edistetään, vaan toivottai-
+siin poliisin parempaa läsnäoloa ja näkyvyyttä liikenteessä. Ymmärrämme kyllä, että tämä
+on myös resurssikysymys. Ehkä se jäi vähän vähemmälle huomiolle ja mietintöön kirjaa-
+matta mutta tuli esiin asiantuntijoiden kuulemisessa, että kuljettajan ajokunnolla on erit-
+täin suuri merkitys tänä päivänä tapahtuvissa onnettomuuksissa, ja siihen varmasti kannat-
+taisi kiinnittää huomiota.
+
+Kun lakiesitys annettiin eduskunnalle, paljon polemiikkia herätti tämä sakotuskäytän-
+nön muuttuminen pienissä virheissä eli rikesakkojen puolella. Puhuttiin, että jatkossa kilo-
+metrinkin ylinopeudesta sakotettaisiin. No, näin ei tule olemaan, vaan käytännössä nykyi-
+nen toleranssi säilyy, ja poliisilla on myös mahdollisuus harkita tien päällä rikkeen sattu-
+essa, annetaanko sakko vai ei, mutta pääsääntöisesti pienistä ylinopeuksista ei anneta. Ri-
+kesakkojärjestelmän tilalle tulee tämä liikennevirhemaksu, joka on siis hallinnollinen mak-
+su, ei enää rikoksesta aiheutuva rangaistus, ja se on hyvä, sillä moni ylinopeus- ja tämmöi-
+nen pieni rikkomus todellakin on rikkomus eikä rikos, ja on hyvä, ettei kansalaisia näin
+sitten rankaista rikosoikeusjärjestelmän periaatteiden mukaisesti tällaisista pienistä vir-
+heistä. Tästä seuraa myös se, että jatkossa näistä liikennevirhemaksuilla tuomituista rik-
+keistä ei kolmen rikkeen jälkeen seuraa ajokortin menetystä, kuten nyt tällä hetkellä vielä
+voimassa olevassa järjestelmässä, ja tämä on hyvä asia, sillä monen ihmisen leipä ja elan-
+tokin on kiinni siitä, että kortti säilyy ja on voitava ajaa, vaikka joskus niitä pieniä rikkeitä
+ja virheitä sattuu. Niitähän sattuu meille jokaiselle aina välillä, kun liikenteessä liikumme.
+
+Edelleen valiokunta keskusteli paljon kameravalvonnasta ja kameravalvontatolpista ja
+esitti näkemyksenään sen, että nämä valvontatolpat on jatkossa syytä merkitä siten, että
+valvottava nopeusrajoitus on välittömästi tässä tolpassa tai sen läheisyydessä, jotta tiellä
+liikkujat tietävät, millä nopeudella tolpan ohi on ajettava. Asiantuntijalausunnoista kävi il-
+mi, että tien päällä on monesti epätietoisuutta siitä, mikä on se oikea nopeus, ja tästä on seu-
+rannut sitten yllättäviä tilanteita, kun on jarruteltu varmuuden vuoksi alhaiseen nopeuteen.
+
+Jos puhemies sallii vielä yhden lauseen: Edustaja Taimela ensimmäisenä kiinnitti huo-
+miota tähän tiedottamisen tarpeeseen. Tämä on iso muutos, ja tiedottamiseen on todellakin
+syytä kiinnittää huomiota.
+
+20.26 Eeva-Maria Maijala kesk: Arvoisa puhemies! Kyllähän se niin on, että poromie-
+het puhuvat poroista ja taksimiehet liikenteestä. Siitä puhutaan, minkä kokee omaksi asiak-
+seen, ja minä nyt satun joskus puhumaan poroista.
+
+Suojavarusteista sitten, niiden käyttämisestä, pitää lisätä se, että kyllähän poromiehet-
+kin, monet meistä, käytämme kypäriä silloin, kun ajetaan esimerkiksi jäälle pilkille tai
+muuta vastaavaa — koko porukalle kypärät päähän. Se on eri asia, silloin ei olla työtehtä-
+vissä, kypärät päähän siinä tilanteessa.
+
+Mutta sitten sähkölinja-asiasta, pitäisikö sielläkin olla suojakypärä, kun rakennusmiehil-
+läkinhän pitää olla kypärä päässä. Kypäriäkin on hirveän monenlaisia olemassa, ja on var-
+masti hyvä, että esimerkiksi näissä sähkölinjatilanteissa, jos siellä on korjaamassa, on joku
+semmoinen kypärä päässä, joka estää sen, että jos sieltä putoaa jotakin päähän, niin ei satu
+sitten vahinkoa. Eli ehdottomasti tilanteitten mukaan nämä kypäräasiat.
+
+Sitten olihan meillä monia mielenkiintoisia keskusteluja siellä valiokunnassa näistä
+asioista, esimerkiksi se, pitääkö kypärää käyttää, kun vanhalla hytittömällä traktorilla aje-
+taan vaikka perunoita maahan. No, nyt onneksi saatiin laki laitettua, että ehkä silloin ei ky-
+pärää tarvita. Tosin mietin, että mihin silloin, kun oikein hitaasti ajetaan sillä hytittömällä
+8
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+traktorilla siellä pellolla, siellä kypärää olisi tarvittu. Ehkä siihen, että minä nakkaan potul-
+la isäntää päähän, että nyt ajat väärällä tavalla.
+
+Mutta sitten vielä edustaja Parviainen otti esille tämän pyöräilykypärän käyttöasian: oli-
+siko hyvä ollut ihan lainsäädännössä velvoittaa käyttämään pyöräilykypärää. Me tulimme
+siihen ratkaisuun, että laitamme tämmöisellä muodolla, että on ”yleensä” käytettävä kypä-
+rää, ”yleensä” käytettävä heijastinta, koska sitä ei pysty varsinaisesti laittamaan niin, että
+”pitää käyttää”, koska siellä on monta semmoista asiaa: se on vaikeasti valvottava asia
+ynnä muuta. Se teksti, millä tavalla me laitoimme tuohon lakiin sen, ei ole välttämättä hy-
+vää lainsäädäntöä, koska se ei ole selkeästi semmoinen kielto. Mutta se on kuitenkin täm-
+möinen merkittävä, tärkeä ja turvallisuutta lisäävä ja ohjaava toimenpide, että me otimme
+tämmöisen heikkouden tähän matkaan, ja yritimme laittaa parhaalla mahdollisella tavalla
+tämän tekstin siihen.
+
+20.28 Jari Myllykoski vas: Arvoisa rouva puhemies! Haluan vielä nostaa tässä esille sen,
+mitä edustaja Kopra toi esille juuri tästä seikasta, kuinka virhemaksuista tai pienistä sakois-
+ta viedään kortti pois ja niin sanotusti viedään elinkeino. Tämä oli erityisen hyvä, ja täytyy
+kiittää valiokuntaa, että oli ymmärrystä nähdä se, että tämä on ammatinharjoittajille ja
+palkkatyöntekijöille erityisen tärkeä asia, koska tällä hetkellä, jos sinulta otetaan ajo-oi-
+keus kolmeksi kuukaudeksi pois, se tarkoittaa, että sinä et saa työstäsi rahaa, koska työn-
+antaja lomauttaa siksi ajaksi. Se tarkoittaa myös sitä, että kun sinulla palkansaanti on kiin-
+ni siitä, että se on ollut omasta syystä johtuva virhe, niin et myöskään tule saamaan an-
+siosidonnaista päivärahaa. Eli kaksinkertainen rangaistus yhdestä virheestä, joka voi olla
+myös kuljettajasta riippumaton syy, esimerkiksi se, että perävaunussa ei ole jarruja ja se on
+se kolmas kerta, joka tulee tähän mukaan. Monella maaseudun taksiyrittäjällä näitä koke-
+muksia on, että leipä lähtee. Kun kolmeksi kuukaudeksi se kielto pistetään, niin koulukyy-
+dit loppuvat siihen hetkeen. Tämä on erittäin hyvä ja antaa mahdollisuuden, että joustavoi-
+tetaan sitä, ettei elinkeinon harjoittaminen tai työtehtävissä tapahtuva pieni virhe aiheuta
+sellaista, että joudumme menemään toimeentuloluukulle, josta sitten ehkä mahdollisesti
+saa niin sanotusti lainaa, kunnes seuraavat palkat tulevat.
+
+Sulkuviiva, heijastin, kypärät, keltainen tai valkoinen viiva ja talvirenkaat: on varmasti
+niin, että valiokunnassa oli aika laillakin erimielisiä näkemyksiä siitä, mikä oli valtioneu-
+voston eli hallituksen esitys. Itse en ymmärtänyt sitä keltaisen viivan asiaa, koska kyllä se
+talviolosuhteissa kuitenkin näkyy paremmin kuin se valkoinen viiva, kun ollaan lumisella
+seudulla, enkä sitä, että automatiikka, niin kuin minullakin omassa autossa on, aistii näitä
+viivoja. Ei se väri ole se ratkaiseva asia, ei se tunnista sitä väriä, vaan meidän olisi pitänyt
+pystyä tässä näkemään, mutta asiat etenevät. Kun saatiin se yksimielisesti, niin se oli pa-
+rempi asia kuin se, että se olisi tästä jätetty. Tässä oli hallituspuolueittenkin kansanedusta-
+jienkin kanssa yhteinen näkemys siitä, että tämä oli turhaa yleiseurooppalaiseen järjestel-
+mään menemistä.
+
+Puhemies! Jos saan 15 sekuntia, niin en tule pönttöön. — Vielä sen verran, että tämä
+seuranta, mikä mietinnössä on, on tärkeä. Meidän tulee seurata talvirenkaiden tilannetta, ja
+toivoisin, että siellä ministeriössä ja Liikennevirastossa keskitytään siihen, että talviren-
+kaista johtuvissa onnettomuuksissa seurataan sitä, mikä ryhmä on se, joka näihin onnetto-
+muuksiin joutuu, koska itse pelkään eniten, että ne, joilla ei ole varallisuutta ostaa talviren-
+kaita, ajavat sitten ehkä vähän varomattomammin niillä kesärenkailla.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 70/2018 vp
+20.32 Ari Torniainen kesk: Arvoisa rouva puhemies! Edustaja Ulla Parviainen nosti erit-
+täin tärkeän asian ja huomion esille, nimenomaan pyöräilykypärän käytön: käytetäänkö
+sitä ja tuleeko sen olla pakollinen vaiko vain suositus. Liikenne- ja viestintävaliokunta pää-
+tyi omassa mietinnössään toteamaan, että valiokunta pitää hyvänä, että heijastimen käyt-
+töä ja pyöräilykypärää koskeva sääntely säilyy tieliikennelaissa selkeänä viestinä niiden
+käyttämisen tarpeellisuudesta ja tärkeydestä. 
+
+Kun valiokunnassa kuultiin asiantuntijoita nimenomaan tästä pyöräilykypärästä, niin
+täytyy todeta, että asiantuntijoiden näkemykset menivät erittäin hajalleen nimenomaan
+niin, että pyöräily- ja pyöräjärjestöt ovat sitä mieltä, että pyöräilykypärää ei tarvitse ollen-
+kaan. Perusteena on muun muassa se, että esimerkiksi kaupunkipyörät, niin kuin täällä
+Helsingissäkin, ovat yleistyneet erittäin paljon eikä niissäkään ole sitten sitä kypärää ja jos
+se kypäräpakko tulisi, sen jälkeen varmaan kaupunkipyörien käyttö vähenisi. Nyt kun se on
+nykylain muodossa, kaupunkipyörät ovat erittäin suosittuja ja niitä keltaisia pyöriä näkee
+hyvin paljon tuolla kaupungilla. Puolestaan Liikenneturva ja vastaavat järjestöt ovat sitä
+mieltä, että pyöräilykypärää tulisi käyttää entistä enemmän. 
+
+Sen takia me päädyimme siihen, että tämä nykyinen järjestelmä on hyvä ja oikea ja että
+suositellaan pyöräilykypärän käyttöä. Ja sitten kouluissa se yleensä jää sinne koulujen ke-
+hotuksiin, miten oppilaat käyttävät pyöräilykypärää. Itse toivon, että kaikki käyttäisivät
+pyöräilykypärää.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 180/2017 vp sisältyvien 1.-14. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Eduskunta yhtyi valiokunnan ehdotukseen lakialoittei-
+siin LA 24/2015 vp ja LA 46/2017 vp sisältyvien lakiehdotusten hylkäämisestä. Lakiehdo-
+tusten ensimmäinen käsittely päättyi.
+10
+
+
+	8
+	19.54
+	20.01
+	20.03
+	20.06
+	20.12
+	20.15
+	20.18
+	20.21
+	20.23
+	20.26
+	20.28
+	20.32
+
+

@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMB3E.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 117/2018 vp
+
+Täysistunto
+
+Tiistai 20.11.2018 klo 14.00—19.35
+
+5. Hallituksen esitys eduskunnalle laiksi henkilötietojen käsittelystä maahanmuuttohallin-
+nossa ja eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 224/2018 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päiväjär-
+jestyksen 5. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokuntaan,
+jolle perustuslakivaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+16.29 Sisäministeri Kai Mykkänen (esittelypuheenvuoro): Arvoisa puhemies! Hallitus
+ehdottaa säädettäväksi uutta maahanmuuttohallinnon henkilötietolakia. Tähän lakiin koot-
+taisiin henkilötietojen käsittelyä koskeva sääntely maahanmuuton hallinnonalan lainsää-
+dännöstä. Uusi laki korvaisi siis 20 vuotta vanhan ulkomaalaisrekisterilain, ja tähän halli-
+tuksen esitykseen liittyvät myös ehdotukset vastaanottolain, säilölain, kotoutumislain ja
+eräiden muiden lakien tarvittavaksi muuttamiseksi.
+
+Henkilötietojen käsittelystä maahanmuuttohallinnossa säädettäisiin yhdessä, nykyaikai-
+sen henkilötietolain vaatimukset täyttävässä laissa, joka täydentää Euroopan unionin tieto-
+suoja-asetusta, tietosuojalakia ja rikosasioiden tietosuojalakia. Henkilötietolakia olisi tul-
+kittava yhdessä myös toimivaltaa luovan muun lainsäädännön kanssa. Henkilötietojen
+sääntelykehikko muodostuisi tästä kokonaisuudesta yhdessä. Henkilötietolaki tulisi sovel-
+lettavaksi Maahanmuuttoviraston sekä vastaanottokeskusten ja säilöönottoyksiköiden toi-
+minnan lisäksi myös silloin, kun poliisi, Rajavartiolaitos, ulkoasiainhallinto, ely-keskuk-
+set tai TE-keskukset käsittelevät henkilötietoja maahanmuuttoviranomaisen roolissa. 
+
+Ehdotuksen tavoitteena sisällöllisesti on henkilötietojen käsittelyä koskevan sääntelyn
+selkeyttäminen sekä lainsoveltajan että rekisteröidyn oikeuksien turvaamisen näkökulmas-
+ta. Tavoitteena on nykyistä riskiperusteisempi lähestymistapa, eli sääntely kohdennetaan
+tarkemmin sääntelyä edellyttäviin tilanteisiin, esimerkiksi tiettyihin henkilötietoryhmiin
+kuuluvat henkilötiedot erikseen, ja sääntelyä toisaalta puretaan niissä tilanteissa, joissa yk-
+sityiskohtainen sääntely ei ole välttämätöntä. Lain soveltamisala olisi nykyisestä poiketen
+käyttötarkoitussidonnainen eikä rekisterisidonnainen. Se ei siis olisi sidottu tiettyihin re-
+kistereihin ja niitä käyttäviin viranomaisiin eikä tietojärjestelmiin, vaan tavoitteena on mo-
+derni sääntelytekniikka, jossa tukeudutaan vahvasti toimivaltaa luovaan lainsäädäntöön,
+eikä siellä säädettyjä asioita toisteta enää henkilötietolaissa. 
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+Muutoksilla mahdollistettaisiin ennen kaikkea uudet nykyaikaiset toimintatavat, kuten
+automatisoitu päätöksenteko Maahanmuuttoviraston toiminnassa. Automaattista päätök-
+sentekojärjestelyä voitaisiin soveltaa, jos asian laatu tai laajuus, yhdenmukainen kohtelu,
+lapsen etu tai muu erityinen syy ei muuta vaadi.
+
+Esitetään myös luovuttavaksi tiedon liikkumista koskevasta kaksinkertaisesta sääntelys-
+tä. Nyt säädettäisiin vain viranomaisen tiedonsaantioikeudesta yhdellä kertaa. Tavoitteena
+on henkilötietoja koskien myös velvoitteidenhoitoselvityksen osittainen käyttöönotto, joka
+mahdollistaisi laajemman automaattisen tiedonsiirron erityisesti Verohallinnon järjestel-
+mistä oleskelulupien myöntämisen yhteydessä. 
+
+Maahanmuuttohallinnossa sovellettavan henkilötietolain säätäminen on välttämätöntä-
+kin, koska kumottavaksi ehdotettu ulkomaalaisrekisterilaki on monin paikoin vanhentunut
+ja toisaalta henkilötietojen käsittelyä koskevaa sääntelyä on pirstaleisesti eri puolilla lain-
+säädäntöä. Lisäksi EU:n tietosuojauudistus tuo muutostarpeita kansalliselle erityislainsää-
+dännölle. Ehdotetun lain tavoitteena on varmistaa, että perustuslain 10 §:n mukainen vaa-
+timus säätää henkilötietojen suojasta lailla täyttyy asianmukaisesti koko maahanmuutto-
+hallinnossa. Ehdotuksella on vaikutuksia sekä sääntelytekniikkaan että henkilötietojen kä-
+sittelyä koskeviin käsittelysääntöihin. Esityksellä ei sinänsä muuteta lupien myöntämisen
+kriteereitä eikä edellytyksiä. Ehdotuksella selkeytettäisiin henkilötietojen käsittelyä sekä
+lainsoveltajan että myös rekisteröidyn oikeuksien turvaamisen näkökulmasta. Ehdotuksel-
+la toteutettaisiin henkilötietojen käsittelyä maahanmuuttohallinnossa koskevan sääntelyn
+keskittäminen nykyaikaisen henkilötietolain vaatimukset täyttävään lakiin.
+
+Yhteen vetäen voisi sanoa, että muutoksella mahdollistetaan erityisesti siis automatisoi-
+dun päätöksenteon luominen ja käyttöönotto maahanmuuttohallinnossa, mikä on erittäin
+tärkeää, jos haluamme erityisesti osaajien ja tekijöiden Suomeen tulon lupajärjestelmää ke-
+hittää siihen suuntaan, että se jono ei ole kuukausissa laskettava vaan pikemminkin päivis-
+sä laskettava. Ensi vuoden alussa on tarkoitus jo pilotoida erityisesti opiskelijan oleskelu-
+luvan osalta sitä, että paitsi rekistereistä tietojärjestelmä kerää automaattisesti tarvittavat
+tiedot, myöskin päätös valmistellaan automaattisesti, ja ihminen ainoastaan sen tarkistaa.
+Jatkossa voisi myös olla niin, että myönteiset päätökset tapahtuvat suoraan automaattisesti
+ja tarkistukset tehdään sitten syyperusteisesti ja riskiperusteisesti, kuten esimerkiksi Vero-
+hallinnossa on jo pitkään tehty.
+
+Lisäksi ulkomaisen työvoiman lupabyrokratiaa vähennetään, kun Maahanmuuttoviras-
+to voisi jatkossa saada toisilta viranomaisilta tietoja yhdellä pyynnöllä keskitetysti, mikä
+on myös erittäin keskeinen haaste tällä hetkellä, kun tiedot jakautuvat työvoimahallinnon,
+ulkomaalaishallinnon ja vielä ulkoministeriön ja Maahanmuuttoviraston välille ja esimer-
+kiksi työnantajien verotiedot ja työnantajan taustatiedot tarvitsee moneen kertaan ilmoit-
+taa eri viranomaisille. Tästä toivottavasti pääsemme siihen, että samaa tietoa viranomaisel-
+lta kysytään Suomessa vain kerran ja sen jälkeen sitten tieto liikkuu viranomaisten välillä.
+Tämä esitys ei sitä vielä yksin tuo, mutta tällä päästään astetta eteenpäin henkilötietojen
+osalta silloin, kun puhutaan oleskeluluvan hakijasta tai erityisesti sen uusijasta, jolla on jo
+Suomessa henkilötietojälkiä eri järjestelmissä.
+
+Uusi laki ottaisi todella myös ensimmäisen askeleen kohti velvoitteidenhoitoselvityk-
+sen käyttöönottoa Maahanmuuttovirastossa. Tämä velvoitteidenhoitoselvitys on siis Vero-
+hallinnon palvelu, josta selviää, onko työnantaja hoitanut velvoitteensa, kuten verot ja la-
+kisääteiset vakuutusmaksut. Tietoa voidaan hyödyntää työntekijän oleskelulupien käsitte-
+lyssä, ja työnantajan ei tarvitse toimittaa samoja tietoja useammalle viranomaiselle, ja toi-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 117/2018 vp
+saalta voidaan ottaa askelia kohti selvästi nykyistä valvontapainotteisempaa oleskelulupa-
+järjestelmää, jossa väärinkäytöstilanteisiin myös oleskeluluvan myöntämisen jälkeen voi-
+daan tehokkaasti puuttua. Uskon, että se on meidän kaikkien yhteinen etu, että Suomeen ei
+synny kahden kerroksen markkinoita eikä laitonta työvoiman hyväksikäyttöä.
+
+Arvoisa puhemies! Toivon, että tästäkin käydään rakentava keskustelu.
+
+16.35 Joona Räsänen sd: Arvoisa puhemies! Ylipäätänsä on varmaan hyvä todeta al-
+kuun, että on järkevää miettiä meidän lainsäädäntöämmekin siitä näkökulmasta, millä ta-
+valla me voimme järkevöittää näiden eri lupahakemusten käsittelyä ja myös sitä, minkä-
+laista tietoa kerätään ja miten se tieto on sitten eri viranomaisten käytettävissä. Tältä osin
+on hyvä, että tänne tuodaan näitäkin esityksiä, joilla todella pyrimme järkevöittämään näi-
+tä käsittelyitä.
+
+Ehkä ainoana huomiona totean vain sen, että tähän esitykseenhän eduskunnan oikeus-
+asiamies antoi aika kriittisen lausunnon liittyen siihen, voiko olla niin, että osa tiedoista,
+mitä tässä kerätään, jäisivät sillä tavalla avoimiksi, että niiden käytettävyys olisi ehkä hie-
+man laajempaa kuin olisi suotavaa. Tältä osin on varmaan järkevää, että sitten valiokun-
+nassa aika tiheällä kammalla tämä kammataan läpi ja katsotaan, että voidaan varmistua sii-
+tä, että ihmisten tiedot eivät päädy sellaisiin käsiin, jotka niitä eivät tarvitse.
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+3
+
+

@@ -1,0 +1,943 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM2322.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+Pöytäkirjan asiakohta 
+
+PTK 74/2015 vp
+
+Täysistunto
+
+Keskiviikko 2.12.2015 klo 13.59—20.20
+
+7. Hallituksen esitys eduskunnalle laiksi maankäyttö- ja rakennuslain muuttamisesta
+Hallituksen esitys HE 114/2015 vp
+Valiokunnan mietintö YmVM 2/2015 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 7. asia. Käsittelyn pohjana on ympäristövaliokunnan mietintö YmVM 2/
+2015 vp. Nyt päätetään lakiehdotuksen sisällöstä.
+
+Keskustelu
+
+17.16 Riitta Myller sd: Arvoisa puhemies! Tässähän on kysymys hallituksen esityksestä,
+joka tarkoittaa sitä, että maakuntakaavoja ei enää saatettaisi ympäristöministeriön vahvis-
+tettavaksi. Myöskin sosialidemokraatit ovat sitä mieltä, että tästä vahvistusmenettelystä
+voidaan luopua, mutta meillä on tähän vastalause sen vuoksi, että emme saaneet kaikkia
+niitä asioita, jotka meidän mielestämme tässä tilanteessa olisi pitänyt ottaa huomioon, tä-
+hän valiokunnan mietintöön.
+
+Ensinnäkin on syytä kysyä, miten tämä valtakunnallinen yhteensovittaminen tulevai-
+suudessa tapahtuu. Miten varmistetaan se hyvä ajatus, joka täällä hallituksen esityksen pe-
+rusteluissa on, että saadaan yhteensovitettua eri intressiryhmien näkemykset kaavatyön
+mahdollisimman varhaisessa vaiheessa? Tämä on hyvä tavoite, mutta tässä herää kysymys
+siitä, kun tämä vastuu näitten kuulemisten järjestämisestä on maakuntaliitoilla eivätkä ne
+ole riittävän määrämuotoisia, miten varmistetaan sitten, että tämä kuuleminen todella ta-
+pahtuu niin, että myöskin nämä valtakunnalliset intressit otetaan huomioon ja että kaik-
+kien näkemykset tulevat tasapuolisesti huomioon otetuiksi.
+
+On myös pidettävä huoli siitä, että nämä hyvät periaatteet siirtyvät myös tulevaisuudes-
+sa tähän kaavoitusprosessiin. Nythän maakuntaitsehallinto tulee merkitsemään sitä, että
+elyjen toiminta tulee muuttumaan. Missä on ohjaus? Missä on valvonta? Miten nämä asiat
+tullaan järjestämään? Tähän liittyy erittäin paljon epäselviä kysymyksiä. Tästä syystä oli-
+sikin ollut parempi miettiä sitä, onko tämä oikea aika laittaa tämä asia liikkeelle vai pitäi-
+sikö tietää hieman enemmän siitä, miten nämä hallinnolliset kysymykset sitten (Puhemies
+koputtaa) tullaan järjestämään tältä osin.
+
+17.18 Hanna Halmeenpää vihr: Arvoisa puhemies! Hallitus esittää maankäyttö- ja ra-
+kennuslakia muutettavaksi siten, että maakuntakaavoja ja myöskään kuntien yhteisiä yleis-
+kaavoja ei jatkossa tarvitsisi saattaa ympäristöministeriön vahvistettavaksi. Tämän halli-
+tus katsoo purkavan byrokratiaa ja jouduttavan maakuntakaavojen käsittelyä.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+Ympäristöministeriön suorittama maakunta- ja yleiskaavojen vahvistusmenettely on
+kuitenkin tähän saakka toiminut erinomaisesti, ja ministeriössä käytetty hallinnollinen työ-
+määrä tähän nähden on ollut varsin pientä, noin neljä kaavaa vuosittain. Ympäristöminis-
+teriö on tarkastellut tässä yhteydessä erityisesti isojen kaavallisten ratkaisujen mahdollisia
+ylimaakunnallisia vaikutuksia ja valtakunnallisten alueidenkäyttötavoitteiden toteutumis-
+ta ja käyttänyt valtaansa kaavoihin varsin maltillisesti. Ympäristöministeriön tekemistä 36
+kaavan muutoksesta 30 on pysynyt voimassa korkeimman hallinto-oikeuden käsittelyssä.
+Kaavojen laillisuusvalvonta on siis toteutunut varsin tarkoituksenmukaisesti ja tehokkaas-
+ti. Myös kaavoittajat ovat olleet menettelyyn tyytyväisiä. Ministeriön raportin mukaan
+maakuntaliittojen kaavoittajista 80 prosenttia pitäisi nykyisen vahvistusmenettelyn voi-
+massa. Miksi ihmeessä siis hyvin toimivasta menettelystä pitäisi nyt luopua?
+
+Kaavojen vahvistusmenettelyn poistuminen on varsin potentiaalinen ympäristön tilaa ja
+kaavoituksen laatua heikentävä tekijä. Ympäristöministeriön vahvistusmenettelyvaihees-
+sa karsimat kaavoitushankkeet ovat tyypillisesti olleet voimakkaasti ympäristöön vaikutta-
+via, laaja-alaisia vaikutuksia sisältäviä ja pitkälle tulevaisuuteen maankäyttöä ohjaavia,
+jolloin kaavoitusprosessin perustellusti tulee olla erityisen huolellista ja lainsäädännölli-
+sesti tarkkaa.
+
+Lakimuutoksen valmisteluun nimetty selvitysmies Haapanala ei kannata vahvistusme-
+nettelystä luopumista, joka selvityksen mukaan vain lisäisi kaavavalitusten määrää ja kä-
+sittelyaikaa, koska maakuntakaavavalitusten käsittely siirtyisi hallinto-oikeuksille. Ympä-
+ristöministeriö tuntee maakunnat ja niiden kaavoituksen hyvin pitkältä ajalta. Sitä vastoin
+hallinto-oikeudet eivät tunne maakuntakaavoitusta, koska ne eivät ole sitä koskaan käsitel-
+leet. 
+
+Arvoisa puhemies! Korkeimman hallinto-oikeuden ympäristöministeriölle antaman lau-
+sunnon mukaan kaavojen vahvistusmenettelyn poistuminen merkitsisi maakuntakaavojen
+sisällön ja menettelyn laillisuuden kattavasta valvonnasta luopumista. Laillisuusvalvonta
+siirrettäisiin käytännössä kansalaisyhteiskunnan, yksittäisten kansalaisten, kansalaisjärjes-
+töjen ja yhdistysten, harteille. Hallinto-oikeudet puolestaan voisivat käsitellä kaavojen lail-
+lisuutta vain niiltä osin kuin niistä on valitettu. Korkein hallinto-oikeus onkin kiinnittänyt
+huomiota siihen, että jos valtakunnallisten alueidenkäyttötavoitteiden tai muun lainsäädän-
+nön vastaisesta kaavasta ei valiteta tai jos muutoksenhakijalla ei ole tarpeeksi asiantunte-
+musta, että hän osaisi esittää oikeat perustelut, kaava vahvistetaan ja tulee lainvastaisena-
+kin voimaan eivätkä sen paremmin hallinto-oikeus kuin korkein hallinto-oikeuskaan voi
+siihen puuttua, mikäli ympäristöministeriön laillisuusvalvonnallinen rooli kaavojen vah-
+vistajana poistuisi.
+
+Arvoisa puhemies! Eduskunnan tehtävä ei ole tehdä lainsäädäntöä, joka itse asiassa hei-
+kentää lainmukaisen kaavoituksen toteutumista. Mikäli kaavaprosesseja halutaan joudut-
+taa, se on kyllä mahdollista ilman vahvistusmenettelystä luopumista esimerkiksi poista-
+malla muiden ministeriöiden lausuntojen kerääminen ja valtioneuvostokäsittely taikka
+määräämällä kaava lainvoimaiseksi siltä osin kuin siitä ei ole valitettu. Esitetty kaavojen
+vahvistusmenettelyn muuttaminen on uudistus, joka liittyy isompaan kokonaisuuteen itse-
+hallintoalueista. Kokonaisratkaisu on olennaisilta osin auki, ja tämäkin tulisi ratkaista vas-
+ta siinä vaiheessa, kun kokonaisuus selviää tarkemmin.
+
+Samaan aikaan, kun hallitus esittää kaavojen vahvistusmenettelystä luopumista ja näin
+heikentää kaavojen laadun ja laillisuuden valvontaa, hallitus on myös ilmoittanut harkitse-
+vansa kaavojen valitusoikeuden rajaamista nykyisestä, jolloin muutosten yhteisvaikutus
+2
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+kaavojen laillisuuden valvontaan voi olla varsin radikaali. Tämän eteenpäinvieminen ei ole
+suotavaa.
+
+Tämä esitys on aika puutteellisesti harkittu, kun hallituksen itse nimeämän selvitysmie-
+henkään esityksiä ei tässä ole hallituksen esitykseen tuotu.
+
+17.24 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tämän halli-
+tuksen esityksen tavoitteena on täsmentää ja selkiyttää valtion ja maakuntien liittojen vä-
+listä toimivallan jakoa, kaavoituksia ja korostaa myös maakuntien itsehallinnollista pää-
+töksentekoasemaa maankäytön suunnittelussa. Ja kun edellisessä puheenvuorossa väitet-
+tiin, että tällä rajattaisiin jollain tavalla viranomaisten vaikutusmahdollisuuksia tähän pro-
+sessiin, niin se ei pidä paikkaansa, sillä suunnitteluprosessin kehittäminen erityisesti viran-
+omaisyhteistyön osalta on yksi ehdotuksen selkeistä tavoitteista ja tätä vuorovaikutusta
+tuodaan aikaisempaan vaiheeseen. Nykykäytännössä on se ongelma, että kun maakuntalii-
+tot valmistelevat maakuntakaavoja ja sitten ympäristöministeriö tulee vasta siellä vahvis-
+tusvaiheessa mukaan, niin tämä viranomaisyhteistyö pitkittää prosessia olennaisesti.
+
+17.25 Hanna Halmeenpää vihr (vastauspuheenvuoro): Arvoisa puhemies! Se, että viran-
+omaisyhteistyö tulisi nykymallissa kuvioon vasta silloin, kun maakuntakaava tai kuntien
+yhteinen yleiskaava menee ympäristöministeriön vahvistettavaksi, ei pidä paikkaansa. Vi-
+ranomaisyhteistyötä tehdään erittäin paljon kaavoittajan eli maakuntaliiton ja vaikkapa
+alueellisen ely-keskuksen ja tietysti alueen kuntien välillä jo hyvin paljon kaavoitusvai-
+heessa, ja siinä vaiheessa myös osallistetaan kaikki muut asianosaiset tahot. Ei tähän tarvi-
+ta tällaista lakimuutosta, jotta viranomaisyhteistyö lisääntyisi aikaisessa vaiheessa. Sitä on
+jo nyt.
+
+17.26 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Tosiasia on kui-
+tenkin se, että nykykäytännössä maakuntakaavojen laatimis- ja vahvistamisprosessit ovat
+erittäin pitkiä. Monesti on jo ajauduttu siihen tilanteeseen, että kun se maakuntakaava tu-
+lee vahvistettua, niin siinä vaiheessa maakuntakaavan tarpeet ovat osittain jo vanhentu-
+neet, ja tätä prosessia tulee saada nopeutettua.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja viimeinen vastauspuheenvuoro.
+
+17.26 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Jäin kuuntelemaan tätä
+keskustelua sen takia, että — tunnustan heti — me laitoimme tämän viime kaudella liik-
+keelle. Siltä osin asiat ovat tuttuja. Minä totesin, että tällä asialla on kaksi puolta. On eh-
+dottoman tärkeää nähdä, niin kuin mekin vastalauseessa esitämme, että tämä valmistelu-
+työ, mitä tässä on tehty, on ollut varsin puutteellista niiltä osin, miten ihminen tulee kuul-
+luksi ja miten nämä tahot tulevat kuulluksi, miten valitusoikeus menee ja miten tämä liit-
+tyy aluehallintoon, mutta itse tämä esitys, joka tähän lakiin sisältyy, on ollut kannatettava.
+Me olemme lähteneet siitä, että tämä prosessi on aivan liian pitkä, kestäen maakuntakaa-
+van valmistumisesta siihen, että vuodesta kahteen ministeriössä yksi tai kaksi virkamiestä
+tutkii tätä yhtä ainoaa maakuntakaavaa, ja aina mennään kuitenkin sitten hallinto-oikeu-
+teen ja katsotaan, kuka oli oikeassa, kuka väärässä. Nyt tämän ministeriövaiheen yli voi-
+daan suoraan hypätä ja mennä hallinto-oikeuteen, (Puhemies koputtaa) kun riitaa jää.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Korhonen, listapuheenvuoro.
+
+17.27 Timo V. Korhonen kesk: Arvoisa puhemies! Kun itse tätä muutosta olen maakun-
+tahallitusten puolesta ollut jo vuosia eteenpäin viemässä, niin muutama sana tässä yhtey-
+dessä.
+
+Ensinnäkin täytyy kiittää hallitusta siitä, että tätä muutosta nyt vihdoin ja viimein on läh-
+detty viemään eteenpäin ja ollaan tässä tilanteessa. Valiokunta on nyt tehnyt tiiviissä mie-
+tinnössään aivan oikeita johtopäätöksiä. Toki sen verran täytyy huomioida, että täällä mie-
+tinnössä todetaan: "Valiokunta korostaa myös, että yhteistyön rooli on keskeinen kehitet-
+täessä valtakunnallisten alueidenkäyttötavoitteiden sisältöä, huomioon ottamista ja edistä-
+mistä. Ympäristöministeriö huolehtii edelleen maankäyttö- ja rakennuslain 23 §:n nojalla
+valtakunnallisten alueidenkäyttötavoitteiden valmistelusta yhteistyössä muiden viran-
+omaisten kanssa." No, tämähän tietysti pitää paikkansa, mutta luvalla sanoen tässä kyllä
+hiukan valiokunta on oikaissut. Laissahan nimittäin edellytetään yhteistyötä muiden minis-
+teriöitten, maakuntien liittojen ja muiden viranomaisten ja tahojen kanssa, joita tämä asia
+koskee, eli tavoitteitten valmistelun on perustuttava eri tahojen vuorovaikutukseen. Eli ky-
+symys ei ole vain viranomaisyhteistyöstä, vaan tässä kaavaprosessissa on otettava huo-
+mioon monet maakunnissa ja alueilla vaikuttavat tahot.
+
+Tähän mietintöön on liitetty kaksi vastalausetta. Pohdiskellen muutama kommentti en-
+sinnäkin tähän ensimmäiseen vastalauseeseen:
+
+Täällä todetaan, että ympäristöministeriö on käyttänyt valtaansa varsin maltillisesti
+maakuntakaavoituksessa — tämä on vastalauseen esittäjän mielipide. Rohkenen todeta,
+että ehkä kentän mieliala on jonkin verran erilainen, etenkin kun huomioidaan kaikki tähän
+kaavatyöhön liittyvä ohjeistus, mitä ympäristöministeriö kaiken kaikkiaan sen kaavatyön
+eri vaiheissa tekee. Ja kentällä on myös aika vahva näkemys siitä, että ympäristöministeriö
+omassa ohjeistuksessaan menee myös välillä pidemmälle kuin lainsäädäntökään edellyt-
+tää.
+
+Tässä vastalauseessa myös todetaan, että jos ministeriön vahvistuksesta luovutaan, uh-
+kana on kaavoituksen laadun ja ympäristön tilan heikkeneminen. Minä vain jään tästä
+miettimään, miksi ihmeessä maakunnat tekisivät alueensa kannalta huonompaa kaavatyö-
+tä kuin mitä ympäristöministeriö sallii tehtävän. Minä ymmärrän sillä tavalla, että eivät
+alueet tee oman kehittämisensä eteen ainakaan huonompia päätöksiä kuin ministeriöt tääl-
+lä Helsingissä. Eli kyllä maakuntien liitot kaavatyössä myös pyrkivät tekemään parhaan
+mahdollisen lopputuleman oman alueensa hyväksi.
+
+Vastalauseessa myös ollaan huolissaan siitä, että uuden lain myötä lainvastaisia tai val-
+takunnallisten alueidenkäytön tavoitteitten vastaisia kaavoja tulisi käytännössä hyväksy-
+tyksi. Minä en jaksa uskoa siihen, koska kyllä tässä uudessa kaavanlaadintaprosessissa on
+merkittävästi nykyistä enemmän vuorovaikutusta ja kaavan laatija on nykyistä aiemmin
+vuorovaikutuksessa myös muiden ministeriöitten kanssa, ei pelkästään ympäristöministe-
+riön, eli myös muitten ministeriöitten kanssa, jotka valvovat valtakunnallisten alueiden-
+käytön tavoitteitten toteutumista maakuntakaavoituksessa. Nythän käytännössä tilanne on
+se, että nämä muut ministeriöt tulevat usein mukaan vasta pääosin kaavan vahvistamisvai-
+heessa. Nyt tällä uudella lailla mahdollistetaan se, että muutkin ministeriöt ovat tässä mu-
+kana.
+
+Toisessa vastalauseessa todetaan, että kuka vastaa kaavatyöohjauksesta, kun ympäristö-
+ministeriö poistuu kuvasta. Tässä unohtuu se, että ympäristöministeriön ja erityisesti muit-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+ten ministeriöitten ohjaus tehostuu tämän uuden lakiesityksen kanssa, kun ne velvoitetaan
+olemaan mukana aiemmassa tämän prosessin vaiheessa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Vastauspuheenvuoro myönnetään vie-
+lä tällä kertaa.
+
+17.33 Hanna  Halmeenpää vihr (vastauspuheenvuoro):  Arvoisa puhemies! Arvoisa
+edustaja Korhonen, minä kyllä totean, että tämä kaavoitusta koskeva prosessi puhuttaessa
+maakuntakaavoista tai kuntien yhteisistä yleiskaavoista ei kyllä miltään osin ole luulon,
+hyvän tahdon tai uskon varassa oleva asia, kun puhutaan siitä, syntyykö kaavoituksessa —
+varmasti aivan tahattomasti, mutta joka tapauksessa — lainvastaisuuksia sinne kaavoihin.
+Ei se ole uskon asia, sehän on todennettavissa oleva asia, kun katsotaan, miltä osin ympä-
+ristöministeriö tässä vahvistusmenettelyssä on kaavoitukseen joutunut puuttumaan. Se on
+joutunut puuttumaan siihen 36 kertaa, maakunta- tai yleiskaavaan, joista 30 on korkeim-
+man hallinto-oikeudenkin mukaan ollut aivan aiheellisia puuttumisia. Kyllä minä silloin
+totean, että tässä ei tarvitse uskotella, että aina syntyisi priimaa.
+
+Olen samaa mieltä siitä edustaja Korhosen kanssa, että maakunnat totta kai pyrkivät aina
+parhaaseen ja ajavat alueensa etua, mutta joskus saattaa käydä niin, että aluepoliittisista
+(Puhemies koputtaa) tai muista syistä virheitä ja ylilyöntejä saattaa syntyä.
+
+17.34 Riitta Myller sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä vastalauseessa 2
+nimenomaan kiinnitetään huomiota siihen, miten voisimme varmistaa sen, että tämä kaa-
+vaprosessi lähtisi mahdollisimman aikaisessa vaiheessa liikkeelle niin, että kaikki intressi-
+tahot ja myös tämä ympäristöministeriöohjaus olisivat siinä selkeästi mukana. Tähän on
+kuitenkin esitetty varaumia, esimerkiksi Lapin ely on omassa lausunnossaan tästä sanonut,
+että ei ole riittävästi vuorovaikutukseen velvoittavia menettelyjä, eli näitä tarvitaan lisää tä-
+hän lainsäädäntöön. Ja näitä asioista pitää seurata nyt, kun tätä lakia viedään käytäntöön.
+
+17.35 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Minusta on hyvä, että
+me kuitenkin keskustelemme siitä, että jos kaavoitusta ja siihen liittyviä prosesseja keven-
+netään, niin mistä päästä lähdetään liikkeelle. Minulle on selvää, että tämä ehdotettu esitys
+voisi olla tällainen normitalkoo tässä ajassa, ja sitä me voisimme kyllä kannattaa. Mutta se,
+että opposition aitoja, vilpittömiä huolia, joita tässä keskustelussa esitettiin, ei otettu kui-
+tenkaan hallituksen toimintalinjaan, minua ihmetyttää. Kyllähän meistä nyt kaikki halua-
+vat, että siellä alueella kaikkien osapuolten kuuleminen ja virkatahojen varhainen puuttu-
+minen on mahdollista, ja jos kerran arvio on, että sillä puolella on vielä parannettavaa, siltä
+osin minusta se olisi ollut kaikkien yhteinen etu, että nämä puolet olisivat tulleet esille. Ja
+sitten tähän liittyy tietenkin se, miten tämä uusi maakuntahallinto ja miten (Puhemies ko-
+puttaa) myöskin sitten valitusoikeus säilytetään.
+
+17.36 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Juuri se, että
+nyt ympäristöministeriön rooli muuttuu enemmän neuvovaksi ja ohjaavaksi, auttaa todella
+paljon sitä, että tämän jälkeen niitä ongelmia ei siellä alueella tule niin paljon, mitä on tä-
+hän mennessä tullut. Eli todella hyvää edistystä ja kehitystä nytten tämä uusi säännös.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+Ja sitten jos mietitään valitusasioita, ovathan siellä ihan nyttenkin asianmukaisesti vali-
+tusasiat. Toivon mukaan niitä valituksia ei muotovirheen takia tule sitten niin paljoa, kos-
+ka nyt jatkossa näitä maakuntia ja alueita neuvotaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ja vielä kolme vastauspuheenvuoroa:
+edustajille Korhonen, Hoskonen ja Kiuru.
+
+17.37 Timo V. Korhonen kesk (vastauspuheenvuoro): Arvoisa puhemies! Kaavoituskin
+on yhteistyötä, ja toistan jälleen sen, että minä luotan maakuntien ja alueitten omaan har-
+kintaan hyvässä kaavoituksessa.
+
+Tuohon edustaja Halmeenpään kommenttiin: Kun vastalauseessa 1 todetaan, että val-
+taansa ministeriö on käyttänyt varsin maltillisesti, toistan edelleen sen, että minä totesin,
+että on muunkinlaisia mielipiteitä. Kun kysyy kentän mielipidettä, jossa huomioidaan ko-
+konainen kaavaprosessi, se, millä tavalla tämänkin päivän maakuntakaavoituksessa ympä-
+ristöministeriö käyttää koko prosessin aikana valtaansa joko suullisesti tai kirjallisesti, niin
+minä väitän, että monesti törmätään myös siihen pohdintaan, ovatko ympäristöministeriön
+ohjeet aivan lainmukaisia.
+
+17.38 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! On hyvä,
+että tämä maakuntakaavan vahvistusmenettely ympäristöministeriöltä poistuu, koska on
+tätä päivää, tätä maailmaa, että ihmiset saavat omalla alueellaan vaikuttaa omaan elinym-
+päristöönsä, omaan rakentamiseensa, omien alueiden käyttöön aidosti. Minusta tällainen
+tsaarinajan järjestelmä, jossa joku ylin hyväksyy jotakin... Mitä esimerkiksi Pohjois-Kar-
+jalan osalta ympäristöministeriön virkamiehet tietävät maakunnan erityisolosuhteista? Ei-
+vätpä juuri mitään. Totta kai he ovat tietävinään, kun heille on valta annettu. He voivat jar-
+ruttaa hankkeita. Meillä on hankkeita, jotka ovat kymmenen vuotta seisoneet erilaisten
+kaavoitusprosessien takia. Jos me haluamme tähän maahan aidosti uutta kasvua, niin nyt
+on se aika, että tämä turha byrokratia puretaan pois, alamme rakentaa tätä maata, taloja, lai-
+toksia, voimalaitoksia, kaikkea muuta, että saadaan investoinnit liikkeelle, suomalainen
+kansantalous kasvuun. Jos me pelkkään byrokratiaan tuudittaudumme, niin toivotan kai-
+kille, jotka sen tien valitsevat, onnea, menestystä ja pitkää ikää.
+
+17.39 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Kiinnitin vielä huo-
+miota siihen, että Maijala otti esiin hyvän näkökulman, jonka unohdin tässä sanoa — me-
+nin varmaan niin suoraan asiaan, kun minuutti on niin lyhyt. Siis tässähän on nyt kysymys
+siitä, mihin yhteiskunnan hupenevat resurssit käytetään: onko se ohjaukseen vai onko se
+valvontaan, tällaiseen niin kuin jälkikäteiseen tarkastukseen? Minun ajatukseni oli aikoi-
+naan se, että emmeköhän me käyttäisi mieluummin tämän, voisiko sanoa, suurennuslasi-
+työn resurssin siihen, että lähdettäisiin jo heti alkuun mukaan tähän ohjausprosessiin. Se on
+minusta tässä se suuri juttu, että me pystymme nyt käyttämään tätä hupenevaa resurssia sii-
+hen, että alusta pitäen tulee tämä valtakunnallinen ohjaus tähän kaavavalmisteluun mu-
+kaan. Sille on todellista tarvetta. Kaikki ei ole niin paraatikunnossa tässä maailmassa kuin
+Hoskonen antoi ymmärtää. Kyllä myös sitä valtakunnallista ohjausta tarvitaan, mutta sen
+pitäisi olla siellä alkuvaiheessa ja sitten loppuvaiheessa: jos tulee riitaa, niin suoraan men-
+nään oikeuteen. Siinä on jotain järkeä, (Puhemies koputtaa) jotta tämä tulee käyttöön.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+17.40 Hanna Halmeenpää vihr (vastauspuheenvuoro): Arvoisa puhemies! Se, että tote-
+sin ja tässä vastalauseessakin todetaan ministeriön käyttäneen valtaansa maltillisesti, pe-
+rustuu tietysti siihen, että katsoo lukuja: mihin ministeriö on puuttunut ja onko se puuttu-
+minen ollut aiheellista vai aiheetonta. Se on kyllä ollut yli 90-prosenttisesti aiheellista. Ei
+silloin vallankäyttö turhaa ole ollut tässä vahvistusmenettelyvaiheessa.
+
+Mitä tulee edustaja Korhosen toteamukseen siitä, että ministeriö on kenties puuttunut
+kaavoituksiin jo siinä prosessin aikana, niin eikö se ole hyvä, jotta lopputulos olisi parem-
+pi? Olen kyllä aivan samaa mieltä täällä usean edustajan kanssa siitä, että sitä neuvontaa tu-
+lisi olla hyvin varhaisessa vaiheessa valtakunnalliselta tasolta, jotta lopputulos olisi varsin
+hyvä. Mutta sitä ihmettelen, että eivät riitä hallituksen itse nimeämän selvitysmiehenkään
+kokoamat perustelut tähän nykyisen vahvistusmenettelyn säilyttämiseen tai uudistuksen
+toteuttamiseksi sillä tavalla, että ympäristöministeriöllä säilyisi vähintäänkin eräänlainen
+otto-oikeus tällaisiin vaikutuksiltaan hyvin laaja-alaisiin ja mahdollisesti laillisuuspuuttei-
+ta sisältäviin kaavaratkaisuihin. Tässä tietenkin on jotkut hyvät perustelutkin, kun selvitys-
+mieskin näin esittää, ei se tuulesta temmattua ole.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja nyt listaan.
+
+17.41 Ari Torniainen kesk: Arvoisa herra puhemies! Tämä hallituksen esitys on hyvä ja
+kannatettava. Tällä täsmennetään sekä selkeytetään valtion ja maakuntien liittojen välistä
+toimintaa kaavoituksessa ja korostetaan myös maakuntien itsehallinnollista päätöksente-
+koa maankäytön suunnittelussa. Tämän jälkeen siis maakuntaliitot vastaavat maakuntakaa-
+vojensa prosessista kokonaisuutena. Jatkossa maakuntaliittojen tehtävänä on myös huoleh-
+tia eri ministeriöiden ja ely-keskusten kanssa käytävistä neuvotteluista ja niiden järjestämi-
+sestä jo kaavoitusprosessin alkuvaiheessa. Siitä tässä äsken jotkut olivat huolissaan, mutta
+se on jo siellä alkuvaiheessa.
+
+Tällä hallituksen esityksellä menettely muuttuu myös ennakoivaan ja nykyistä vuoro-
+vaikutteisempaan suuntaan. Samoin nyt myös voidaan parhaiten huomioida maakuntien
+erityistarpeita ja erityisolosuhteita eri puolilla Suomea. Kyllä siellä maakunnissa tiedetään
+parhaiten, mitä siellä maakunnissa tarvitaan.
+
+17.42 Eerikki Viljanen kesk: Arvoisa puhemies! Kiitän hallitusta ja ympäristövaliokun-
+taa hyvästä ja ripeästä työstä tämän maankäyttö- ja rakennuslain muutoksen kohdalla. On
+erittäin hyvä, että lakia muutetaan niin, ettei maakuntakaavoja ja kuntien yhteisiä yleiskaa-
+voja tarvitse enää saattaa ympäristöministeriöön vahvistettavaksi. Äsken muun muassa
+edustaja Korhonen erittäin hyvin omassa puheenvuorossaan valotti tämän asian taustoja.
+Etenkin valtakunnallisesti tarkasteltuna on hyvä, että esityksellä korostetaan maakuntien
+liittojen itsehallinnollista roolia maankäytön suunnittelussa ja lyhennetään maakuntakaa-
+voitukseen ja kuntien kaavoitukseen liittyvää päätös- ja muutoksenhakuprosessia. 
+
+Kannatan hallituksen esityksen molempia päätavoitteita, viranomaisyhteistyön kehittä-
+mistä ja toimivallan jaon selkeyttämistä valtion ja maakuntien välillä sekä näihin tehtäviin
+liittyvän päätöksenteon ja mahdollisen muutoksenhakumenettelyn nopeutumista.
+
+Sitten, arvoisa puhemies, lopuksi kommenttina äsken käytyyn debattiin: minunkaan
+mielestäni tämänhetkistä ympäristöministeriön vaikutusvallan käyttöä ei kuvaa tarkasti tai
+ainakaan ainoastaan se, kuinka moni ympäristöministeriön tekemä muutos on sitten loppu-
+jen lopuksi pysynyt voimassa valitustien lopussa hallinto-oikeudessa.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+Tämä esitys on erittäin hyvä.
+
+17.44 Antti Kurvinen kesk: Arvoisa puhemies! Kun kuuntelee tätä keskustelua ja on lu-
+kenut tuon vasemmistoliiton ja vihreitten vastalauseen, niin ei kai siitä nyt voi oikein muu-
+ta ajatella kuin että kyllä se autonomian aikainen ajatusmaailma, että Helsingissä hallinto-
+virkamiehet tietävät paremmin kuin maaseudulla ja maakunnissa oppimattomat ihmiset
+nämä asiat, tulee mieleen. Tämä on erittäin hyvä, aivan loistava, esitys hallitukselta — ja
+erittäin selkeä, lyhyt, hyvä mietintö valiokunnalta. Olen täysin tämän takana.
+
+Tiedän itsekin maakuntahallituksen jäsenenä, mitä se realismi on, kun maakuntaa kaa-
+voitetaan. Siellä on virkavastuulla toimivia hyviä viranhaltijoita. Siellä on virkavastuulla
+toimivia hyviä luottamushenkilöitä. Nyt kun ympäristöministeriö ei ole enää se korkein
+sensori näitten maakuntakaavojen kohdalla, voidaan aidosti päästä siihen tilanteeseen, että
+ympäristöministeriö neuvoo, keskustelee, ohjaa, on tasaveroisessa vuorovaikutuksessa
+alueitten kanssa maakuntakaavoitusprosessissa. Tämä on myös ensimmäinen konkreetti-
+nen toimenpide siinä, että hallitus vähentää tarpeetonta sääntelyä ja tarpeetonta byrokrati-
+aa täällä meidän maassamme.
+
+Kyllä Suomea pitää kehittää, arvoisa puhemies, myös maankäyttöasioissa ja kaavoituk-
+sessa, alhaalta ylöspäin. Luotetaan alueisiin ja luotetaan ihmisiin. Annetaan mahdollisuus
+maakunnille omaehtoisesti kehittyä, niin kuin täällä on monta hyvää puheenvuoroa kuul-
+tukin. Kyllä siellä tehdään viisaita ratkaisuja, kyllä siellä ajatellaan ympäristöä, luontoa,
+hyviä ja järkeviä kauppapaikkoja ja hyviä ja järkeviä liikenneratkaisuja.
+
+17.46 Petri Honkonen kesk: Arvoisa puhemies! Kannatan kyllä lämpimästi tätä esitystä
+ja näitä tavoitteita, mitä nyt tässä lakiesityksessä on. Tämähän on myöskin yksi merkittävä
+askel maakuntaitsehallinnon suuntaan.
+
+Kyllä vähän ihmettelen tässä keskustelun tiimellyksessä tullutta arvostelua ja kritiikkiä,
+kuten tässä edelläkin kuultiin, maakuntaliittojen päättäjien suuntaan. Siellä on eri puolilta
+maakuntia tulevia ja hyvinkin erilaista osaamista omaavia ihmisiä päättämässä loppuvai-
+heessa näistä kaavoista. Nykyisessä tilanteessa kyllä uskon vahvasti siihen asiantuntemuk-
+seen, mitä meillä eri maakuntien liittojen niin palveluksessa kuin päätöksentekijöinäkin
+on. Ihmettelen kyllä tätä alueellisten päättäjien ja asiantuntemuksen demonisointia, mitä
+tässä nyt on harjoitettu.
+
+Omassa maakunnassani Keski-Suomessa maakuntakaavoituksessa tässä vanhassa ym-
+päristöministeriön vahvistusmenettelymallissa on kohdattu tiettyjä ongelmia. Muun muas-
+sa eräässä vaihemaakuntakaavaprosessissa — taisi olla kolmas vaihemaakuntakaava —
+ympäristöministeriön ohjeistus poikkesi siitä lopullisesta päätöksestä, jonka ympäristömi-
+nisteriö teki, jossakin määrin. Tällaiset tilanteet ovat mielestäni kyllä kohtuuttomia maa-
+kuntien päättäjille, maakuntien omille tavoitteille, sen lisäksi, että nämä prosessit ovat aika
+ajoin kestäneet aika pitkään, niin kuin tässä on jo tullut esille.
+
+Uskon kyllä vahvasti maakuntien päättäjien osaamiseen ja haluun, aivan kuten tässä
+edustaja Korhonen edellä totesi erittäin hyvin, sen parhaan lopputuloksen saamiseksi oman
+maakunnan hyväksi maankäytön ohjauksen osalta. Olen kyllä vahvasti tukemassa tätä la-
+kiesitystä.
+
+17.48 Hannu Hoskonen kesk: Arvoisa herra puhemies! Käsittelyssä oleva maankäyttö-
+ja rakennuslain muutos on mielestäni erittäin hyvä ja perusteltu ja sopii hyvin tähän nykyi-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+seen maailmanmenoon, elikkä pyritään hallintoa ja päätöksentekoa hajauttamaan niiden
+ihmisten lähelle, jotka niiden päätösten kanssa joutuvat elämään. Tämähän on sitä kuului-
+saa Euroopan unionin yleistä periaatetta, sitä subsidiariteettiperiaatetta, jota totta vieköön
+kyllä viime aikoina ei Euroopan unionin päätöksenteossa ole voinut millään löytää. Kaikki
+halutaan keskittää Brysseliin, jopa meidän valuuttapolitiikkamme ja kaikki muu päättämi-
+nen. Mutta ainakin kirjoissa lukee, että subsidiariteettiperiaate on voimissaan ja elossa, ja
+sitä lämpimästi kannatan: hallituksen esitys on erittäin hyvä ja perusteltu. Pari perustelua:
+
+Ensinnäkin, kun luki nuo vastalauseet, mitä tähän hallituksen esitykseen liittyy, niin
+sieltä todella, niin kuin edustaja Antti Kurvinen aivan oivallisesti kuvasi tätä tilannetta,
+henkii se vanha tsaarinvallan aikainen vallankäyttö, jossa Helsingissä päättäjä päättää,
+mitä jossakin Ilomantsissa saa tehdä. Eihän se ole tätä päivää. Kerron teille lyhyen esimer-
+kin: Kun näitä luonnonsuojelualueita suunniteltiin, niin ympäristöministeriön virkamies
+väitti erään eläkkeellä olevan mummon metsän kohdalta, että tämän suo on rauhoitettava,
+koska se on avosuota ja erittäin harvinaista luontotyyppiä. Tosiasiassa se on ojitettu suo,
+missä 250 mottia hehtaarilla oli puuta — osoittaa, että kyseinen suunnittelija ei ollut kos-
+kaan käynytkään sillä alueella, oli piirtänyt vain kartan pöydän ääressä. Tätäkö me haluam-
+me? Hallituksen esitys tässä mielessä kaavoituksen yksinkertaistamisesta ja maakuntiin
+siirtämisestä ihmisten lähelle on hyvä, erittäin hyvä.
+
+Kaavoituksella tänä päivänä pyritään paremminkin joissakin tapauksissa jarruttamaan
+rakentamista maaseudulle ja maaseutukuntiin. Totta kai kaupunkejakin pitää kehittää, Suo-
+mea pitää kehittää jokaiselle neliölle. Jos me haluamme tähän maahan kasvua ja toimeen-
+tuloa ja velanmaksua, meillä ei muuta vaihtoehtoa enää ole, kaikki muut keinot on käytet-
+ty. Velanotto on käytetty, kaiken maailman elvytykset on käytetty, mutta ei ole kukaan vie-
+lä huomannut sitä ihan tosissaan, pitäisikö tätä maata ruveta oikeasti kehittämään ja raken-
+tamaan. Nimittäin kymmenien miljardien investoinnit lepäävät sen takana, että joku kaa-
+vamääräys tai rakennusmääräys estää sen. Ihmisillä on valtavat investointihalut , mutta kun
+ei saa rakentaa, tai joku muu este tulee. Nämä tällaiset esteethän tulee heti poistaa.
+
+Yksi, missä pitää este poistaa, on näiden maakuntakaavojen vahvistaminen: siirto maa-
+kuntaan on erittäin hyvä asia. Mutta sen lisäksi pitää muuttaa valtakunnalliset alueiden-
+käyttötavoitteet. Nykyisinhän siellä lukee, että yhdyskuntarakennetta eheytetään, mutta
+sinne pitää kirjata selvällä suomen kielellä, että koko Suomea rakennetaan yhtä lailla, ol-
+koon se sitten Utsjoki-Kevolla tai Helsingissä tai Vaasassa tai Ilomantsissa. Joka paikka-
+kunnalle pitää pystyä rakentamaan ja kehittämään sitä talouselämää. Eiväthän kuntien pal-
+velut eikä mikään tässä maassa pysy kunnossa, jos emme pysty rakentamaan ja paranta-
+maan tätä rakasta kotimaatamme. Esimerkiksi biotalouden tavoitteisiin pääseminen ei on-
+nistu ilman olennaista parantamista nykyiseen infraan, ja ilman elinolosuhteiden paranta-
+mista ei tule mistään tavoitteesta mitään.
+
+Totta kai koko maata pitää rakentaa, se on pelkästään jo maanpuolustuksen kannalta ai-
+van välttämätöntä. Eihän voi olla niin, että kaavoituksen takia ja muun byrokratian takia ra-
+kennuslupien saanti voi kestää kymmenen vuotta. Viranomainen jarruttaa, ja pahimmil-
+laan käy niin, että yksi viranomainen valittaa toisen viranomaisen päätöksestä hallinto-oi-
+keuteen ja se makaa siellä kolme neljä vuotta. Se kun on ratkaistu, tulee uusi valitus ja uusi
+valitus ja taas uusi valitus. Eihän tämä ole tätä päivää. Kun me elämme 2000-lukua ja olem-
+me nykyaikainen yhteiskunta, niin pitäähän nyt uskoa siihen, että ihmiset haluavat aidosti
+kehittää tätä maata eivätkä vain jarruttaa kaikkea.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+Se, että Suomi on tällä hetkellä tässä tilanteessa, toki johtuu monesta ulkopuolelta tule-
+vasta uhasta — sillehän me emme mahda mitään, mitä ovat tällä hetkellä Venäjän pakot-
+teet sun muut — mutta aika pitkälti johtuu siitä, että me olemme tehneet investoinnit ja ra-
+kentamisen tässä maassa kannattamattomaksi, jopa mahdottomaksi. Elikkä tämä hallituk-
+sen esitys on ensimmäinen askel siihen suuntaan, millä hallituksen pitää jatkaa määrätie-
+toisesti. Seuraava askel on valtakunnallisten alueidenkäyttötavoitteiden muuttaminen koko
+maan huomioiviksi.
+
+Arvoisa puhemies! Missään nimessä en sano sitä enkä tule kannattamaan ikinä sitä, että
+kysymys olisi vain yhden alueen kehittämisestä; siinä pitää huomioida koko maa, olkoon
+se äsken mainittu Utsjoki-Kevo tai Helsinki. Molempia pitää pystyä kehittämään — ei niin,
+että joku Ilomantsi tai Utsjoki-Kevo menestyy, se on tämän maan hyväksi kaikki, joka ai-
+noa työpaikka, mikä syntyy minne tahansa, on tämän maan kansantalouden kannalta erit-
+täin hyvä asia. Tässä pitäisi nyt niiden myyrän mättäiden yli, arvoisat kansanedustajakol-
+legat, nähdä, että pystymme näkemään sen naapurikunnankin hyödyn. Se on se iso asia. Jos
+me täällä puhumme toisiamme vastaan ja esitämme lisävelan ottoa, niin minä sanon, että
+sillä tiellä kyllä tulee mörkö vastaan, jos joku haluaa sille tielle lähteä. Minä en ole sille
+tielle lähdössä. Kannatan lämpimästi hallituksen tekemää erinomaista esitystä ja sitä, että
+se saa jatkoa valtakunnallisten alueidenkäyttötavoitteiden muuttamisena oikealle tolalle.
+
+17.53 Eeva-Maria Maijala kesk: Arvoisa puhemies! Tämä tehty esitys on todella hyvä.
+Olen ympäristövaliokunnassa saanut kuunnella asiantuntijoita puhumassa tästä asiasta, ja
+käsitykseni lain tärkeydestä ja tarpeellisuudesta on ehdottomasti koko ajan vain vahvistu-
+nut eteenpäin. Ensinnäkin tämä on todellakin ensimmäinen kunnollinen askel siinä, miten
+näitä asioita on järkevä jakaa muualla kuin täällä pääkaupunkiseudulla tehtäväksi, ja toi-
+seksi meillä valtionhallinnossa pyritään tällä hetkellä aivan liikaa keskittämään asioitten
+hoitamista tänne. Kyllä meillä maakunnissakin asioita pystytään hoitamaan, ja varmasti
+me haluamme tehdä sillä tavalla, että alueet pysyvät oikein elävinä ja pystytään huomen-
+nakin toimimaan. Tämä on todellista byrokratian purkamista. Tässä puretaan turhaa pääl-
+lekkäistä byrokratiaa, kun monessa eri paikassa tehdään sama työ moneen kertaan. Keski-
+tymme siihen, että työt tehdään yhdessä paikassa kunnolla kerralla.
+
+Nyt sitten tämä ohjaaminen ja neuvonta: Olen todella iloinen siitä, että ympäristöminis-
+teriö saa nytten keskittyä todellakin ohjaamaan ja neuvomaan tätä koko toimintaa. Ympä-
+ristöministeriön resurssit vähenevät koko ajan, eikä siellä todellisuudessa kovin monta sel-
+laista henkilöä ole, joka näihin asioihin on pystynyt keskittymään — oliko niitä kaksi vai
+kolme, viisi vai kymmenen, siitä meille ei oikeastaan tullut selvyyttä, montako niitä hen-
+kilöitä oli. Mutta oli miten oli, nämä henkilöstövarat tulee käyttää todellakin maakuntien
+asioiden kehittämiseen ja kokonaisuuden eteenpäinviemiseen. Elikkä tällä todellakin este-
+tään ja vähennetään päällekkäistä työtä.
+
+Tuossa aikaisemmin oli puhetta keskustelun aikana otto-oikeudesta, pitäisikö ympäris-
+töministeriöllä säilyä otto-oikeus tässä asiassa. Ei missään nimessä, sillä jos ympäristömi-
+nisteriöllä pysyisi otto-oikeus tässä asiassa, sehän tarkoittaisi, että ympäristöministeriö oli-
+si jatkossakin sitoutunut ja sidottu — se ei pystyisi avoimesti neuvomaan ja ohjaamaan tätä
+koko toimintaa. Olen todella tyytyväinen siitä, että otto-oikeusasiaa ei laitettu sinne esityk-
+sen matkaan.
+
+Ympäristöministeriö on monelta osin tuolla maakunnissa hieman epäluottamuksen koh-
+teena: ei välttämättä aina luoteta siihen, mitä sieltä tulee, ja pelätään sen toimintaa. Minus-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+ta on todella hyvä, että tämä esitys auttaa ihmisiä sillä tavalla, että alueillakin yhä enem-
+män voitaisiin luottaa ympäristöministeriöön. Tämä esitys todellakin kasvattaa luottamus-
+ta tai ainakin mahdollisuutta luottamuksen kasvamiseen. Tehtäisiin tätä asiaa sillä tavalla
+eteenpäin. Todellakin toivon, että ympäristöministeriö jatkossa kokisi yhä enemmän sillä
+tavalla, että he ovat lähempänä maakuntia ja että tehdään töitä yhdessä, kasvatetaan se luot-
+tamus- ja yhteistyösuhde yhdessä.
+
+Sitten näistä valitusasioista: Tämähän tulee lisäämään hallinto-oikeuksien työmäärää
+jonkun verran, ja sitä ei ole huomioitu tässä taloudellisessa tilanteessa tarpeeksi. Hallinto-
+oikeudethan käsittelevät tällä hetkellä muutenkin paljon näitä kaavavalitusasioita, ja us-
+kon ja toivon, että tästä kokonaisuudesta päästään kuitenkin eteenpäin, koska hallinto-oi-
+keuksilla on kuitenkin niin paljon kokemusta kyseisten alueitten kaavojen valitusasioiden
+hoitamisessa. Viimeisenä valitusasteena on kuitenkin korkein hallinto-oikeus, ja sen roo-
+lia tämä ei tule ainakaan kovin paljon muuttamaan. Uskoisin, että saattaa olla, että jopa va-
+litukset sinne tulevat jopa vähenemään, koska asiat käsitellään sitten hallinto-oikeudessa jo
+aikaisemmin. Sitten näistä valitusasioista sen verran, että vaikka ympäristöministeriölle ei
+tule otto-oikeutta, niin onhan sillä kuitenkin normaali viranomaisen valitusoikeus. He pys-
+tyvät tarvittaessa valittamaan, jos he näkevät, että siellä selviä virheitä on olemassa.
+
+Sitten menen meidän maakuntaan tuonne Lappiin, Itä-Lappiin. Meillä on siellä työn alla
+tällä hetkellä erittäin paljon julkisuudessakin esillä ollut Rovaniemen ja Itä-Lapin maakun-
+takaava, ja se, mikä siitä tekee julkisen ja paljon puhutun, on tämä perinteinen Vuotos-kes-
+kustelu — tai niin kuin nyt pitäisi puhua Kemihaaran tulvasuojelualtaasta tai mistä sitten
+puhutaankin. Miten siinä nyt sitten käy meillä valitusoikeudelle ja sen asian hoitamiselle,
+kun aikoinaan korkein hallinto-oikeus on tehnyt asiasta jo kielteisen ratkaisun ja päätök-
+sen? Minä en koe, että millään tavalla meidän sen alueen ihmisten valitusmahdollisuus tai
+asian käsittely heikkenee. Todennäköistä on, että tästä samaisesta Kemihaaran altaasta tul-
+laan vielä uudestaan käymään korkeimman hallinto-oikeuden käsittely.
+
+Elikkä uskon ja toivon, että tämä lakiasia kokonaisuudessaan auttaa meitä kaikkia (Pu-
+hemies koputtaa) asioiden paremmassa hoitamisessa.
+
+17.59 Kaj Turunen ps: Arvoisa puhemies! Minä olen kanssa sitä mieltä, että tämä halli-
+tuksen esitys on hyvä esitys. Tässä edustaja Hoskonen piti hyvän peruspuheen, jossa oli
+paljon sellaisia asioita, jotka selventävät tätä tilannetta.
+
+Tämä ministeriön ohjaava rooli on erittäin tärkeä, mutta sitten se päätösvalta siellä maa-
+kuntaliitossa on ratkaisuna äärettömän tärkeä. Minä en toista niitä juttuja, mitä muut puhu-
+jat tässä ovat jo ansiokkaasti tästä asiasta kertoneet, mutta kun puhuttiin tästä osaamisesta,
+onko sitä ministeriössä enemmän kuin maakunnissa, minä luulen, että tämä ammatillinen
+osaaminen on yhtä lailla siellä maakunnissa kuin ministeriöissä mutta se osaaminen, joka
+liittyy alueeseen ja tämäntyyppisiin asioihin, löytyy kyllä enemmän sitten sieltä maakun-
+nista. Kun maakunnilla on valtaa tehdä oma kehitysstrategia esimerkiksi, niin täytyy olla
+myöskin valta toteuttaa sitä kehitysstrategiaa, ja siihen liittyy aika olennaisena osana se,
+että myöskin tämä kaavoitusvalta on niissä samoissa käsissä, joissa tehdään näitä kehi-
+tysstrategioita ja olennainen osa nimenomaan näiden strategioitten toteuttamisesta. Tämä
+on minun mielestäni kaikista merkityksellisin asia.
+
+Sitten tähän edustaja Maijalan puheen loppupuoleen siitä, mikä liittyi näihin mahdolli-
+siin energiaratkaisuihin ja vesivoiman käyttöön ja siihen liittyvään allasrakentamiseen.
+Tältäkin osin pidän erittäin hyvänä asiana sitä, että jos niin käy, että tämäntyyppistä kaa-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+voittamista tehdään, niin se päätösvalta on nimenomaan siellä maakunnissa eikä ympäris-
+töministeriössä.
+
+18.01 Pirkko Mattila ps: Arvoisa rouva puhemies! Olen itsekin maakuntahallituksen jä-
+sen Pohjois-Pohjanmaalla, ja minusta tässä on hirvittävän hienosti sanottu heti alussa pe-
+rusteluissa, että "korostaa maakunnan liittojen itsehallinnollista roolia" — nimenomaan
+niin, että se asiantuntemus siellä alueella saa nousta näkyviin.
+
+No, minä en usko myöskään, että maakuntahallitukset ja maakuntaliitot olisivat — tar-
+koitan siis, että olisivat tahallaan — tekemässä laittomuuksia tai yllyttämässä ketään yli-
+lyönteihin, enkä ole kyllä kuullut tuolla omassa maakuntahallituksessa esimerkiksi vasem-
+mistoliiton tai sosialidemokraattien erityisesti tätä esitystä kritisoineen. Toki on sanottava,
+että sosialidemokraattien lausumaehdotus on sinänsä aivan kelpo: ison muutoksen vaiku-
+tuksia on seurattava. No, vihreät eivät vaalituloksellaan Pohjois-Pohjanmaan maakunta-
+hallitukseen yltäneetkään.
+
+Sitten haluan taas kerran todeta salikeskusteluun viitaten, että eihän tässä olla yhtään
+myöskään ympäristölakeja, luonnonsuojelulakeja, ilmastolakia purkamassa, muuttamassa
+ja tässä uudessakin tilanteessa säilyy valitusoikeus, mihin valiokunta on myös kiinnittänyt,
+aivan oikein, huomiota.
+
+Palaan tämän viikon maanantaihin, jolloin Pohjois-Pohjanmaan liitossa käsittelimme
+liiton talous- ja toimintasuunnitelmaa ja maakuntakaavoituksen vaihetta, ja kyllä minun on
+todettava ilokseni, että se oli mielestäni oman maakuntani näköinen. Uskon, että sieltä mei-
+dän kaikkien maakunnista juuri nousee sitä näkemystä, miten elinvoimaa kehittää, miten
+elinkeinoelämää kehittää. Aivan kuten tässä edustaja Hoskonen viittasi, tällä hetkellä
+elämme tilanteessa, jossa jokainen uusi työpaikka on kullanarvoinen. Ne eivät välttämättä
+ole niitä suurten volyymien työpaikkoja, mutta ne paikalliset työpaikat eivät ainakaan Kii-
+naan karkaa kovin helposti.
+
+18.03 Ben Zyskowicz kok: Arvoisa rouva puhemies! Tässä on nyt viimeksi käytetty erit-
+täin hyviä puheenvuoroja, ja myös minä haluan puolustaa maakuntien Suomea. Tässä uu-
+distuksessa annetaan se päätösvalta sinne maakuntiin, maakuntien liitoille ja myöhemmäs-
+sä vaiheessa maakuntien valtuustoille. Heille annetaan mahdollisuus päättää asiasta, joka
+todellakin koskee sen oman maakunnan tulevaisuutta. En oikein ymmärrä sitä, että täällä
+puolustetaan sitä ajatusta, että viime kädessä täällä Helsingissä valtionhallinnon, ympäris-
+töministeriön, tulisi nämä kaavat vahvistaa. Eikö se ole hyvä, että siellä kuntien tai jatkos-
+sa suoraan kansalaisten valitsemat elimet tekevät nämä päätökset? Eikö se ole myös kan-
+sanvaltaa?
+
+Vihreät ja vasemmistoliitto ovat vastaan, nämä puolueet, jotka usein patsastelevat sillä,
+että juuri he puolustavat kansanvaltaa, puolustavat sitä kuulemma vielä paljon enemmän ja
+paljon kiivaammin kuin muut puolueet. Vihreät esimerkiksi näissä kansalaisaloiteasioissa
+ovat korostaneet omaa merkitystään. Kun tässä nyt sitten annetaan tulevaisuudessa kansa-
+laisten suoraan valitsemille elimille päätösvalta oman maakunnan maakuntakaavassa, niin
+täällä vihreät esittävätkin, että se päätösvalta ei kuulukaan sinne vaan se kuuluu Helsingis-
+sä oleville virkamiehille. Totta kai on selvää, että tätä kaavoitusta sääntelevät ja rajaavat ne
+lait, jotka me olemme täällä eduskunnassa säätäneet, ja normaali laillinen valitustie on käy-
+tettävissä niille, jotka kokevat, että lakia on rikottu tässä kaavoituksen yhteydessä.
+12
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+Lopuksi on pakko korjata edustaja Kurvisen täällä ilmaisema käsitys siitä, että tämä on
+hallituksen ensimmäinen kunnon askel byrokratian purkamisessa. Kyllä se kauppojen lii-
+keaikalain kumoamisesitys oli se ensimmäinen askel. (Hannu Hoskonen: Hyvä!)
+
+18.05 Riitta Myller sd: Arvoisa puhemies! Kaavoitushan on erittäin tärkeä prosessi, siinä
+on isot taloudelliset, ympäristölliset ja yhteisölliset arvot kyseessä, ja on tietysti äärimmäi-
+sen tärkeätä, että nämä kaikki otetaan huomioon ja nämä prosessit ovat avoimet ja kaikilla
+on oikeusturva — tämä pitää varmistaa nyt kaikissa tilanteissa. Tästä syystä on äärimmäi-
+sen tärkeää myöskin se, että tulevaisuudessa, kun tätä aluehallintoa ollaan uudistamassa,
+varmistetaan, että nämä prosessit ovat siellä edelleen mukana ja että meillä otetaan myös
+valtakunnalliset intressit huomioon alueiden kaavoituksessa.
+
+Olen nyt hiukan hämmästynyt ja ehkä hieman myöskin ihmettelen sitä, että oletetaanko
+täällä, että tämä uusi tilanne mahdollistaisi sen, että Vuotoksen allas voitaisiin sitten maa-
+kuntakaavan päätöksellä rakentaa. Kyllä kai valtakunnalliset tavoitteet kuitenkin otetaan
+huomioon ja myöskin korkeimman hallinto-oikeuden päätökset. Mutta haluan todellakin
+korostaa sitä, että samanaikaisesti kun vahvistusmenettelystä luovutaan, ei voida lähteä sii-
+tä, että myös valitusmenettelyjä rajataan. (Eduskunnasta: Ei!) — No, sitä ei tässä esityk-
+sessä ole, mutta hallitusohjelmassa on se, että näitä valitusprosesseja tullaan rajoittamaan.
+
+Tämä sosialidemokraattien vastalause lähtee juuri näistä asioista, että harkitsemme tu-
+levaisuudessa niitä asioita, jotka voivat tätä avoimuutta ja oikeusturvaa heikentää, jos niitä
+ei oteta huomioon. Minun mielestäni on äärimmäisen tärkeätä, että tällaisissa asioissa, jois-
+sa on isot yleiset intressit ja saattavat olla myös yksityiset intressit hyvin kovat, on selkeät
+säädökset, joitten mukaan toimitaan. (Ben Zyskowicz: Näin, se on tärkeätä!) 
+
+18.07 Timo V. Korhonen kesk: Arvoisa puhemies! Edustaja Myller äskeisessä puheen-
+vuorossa taisi todeta suurin piirtein niin, että on hyvä, että tämän prosessin myötä alueilla
+otettaisiin valtakunnalliset intressit huomioon — jos kuuntelin oikein. Tätä pitää ajatella
+myös toisinpäin: toivottavasti valtakunnan tasolla otetaan myös alueitten intressit huo-
+mioon. Siinä edustaja Hoskonen varmaan yhdessä tämän päivän parhaimmista puheenvuo-
+roistaan (Ben Zyskowicz: Siis tämän päivän?) — tämän päivän parhaista puheenvuorois-
+taan — kiinnitti huomiota tähän valtakunnalliseen alueittenkäytön suunnitelmaan ja totesi,
+että näissä VATeissa pitäisi ottaa huomioon koko maan olosuhteet. Siihen mielipiteeseen
+on todella syytä yhtyä. Eli toivottavasti jatkossa uudistettavat valtakunnalliset alueiden-
+käyttötavoitteet huomioivat entistä paremmin alueitten erilaisuudet, ja toivottavasti ne tu-
+levat ohjaamaan myös suunnittelua entistä paremmin paikallisiin lähtökohtiin perustuvik-
+si.
+
+18.09 Hanna Halmeenpää vihr (varsinainen puheenvuoro): Arvoisa rouva puhemies! Ei
+täällä salissa kukaan ole kyllä esittänyt, että maakunnilta otettaisiin kaavoitusvaltaa tai
+muutakaan valtaa pois tai ettei maakunnissa olisi osaamista kaavoituksessa — varmasti on
+ja kyllä on. Maakunnista kuuluu, että tätä nykyistä menettelyä, jossa ympäristöministeriö
+vahvistaa kaavat, pidetään varsin toimivana ja hyvänä. Kuten jo aikaisemmin totesin, 80
+prosenttia maakuntien kaavoittajista säilyttäisi nykyisen menettelyn ennallaan.
+
+Maakunnissahan ajetaan tietysti pääsääntöisesti maakunnan parasta, se on kiistatonta.
+Kiistatonta on sekin, että silloin tällöin tapahtuu kuitenkin tästä huolimatta niin, että maa-
+kunnan omat tavoitteet ovat sellaisia, että kaavoituksessa saattaa unohtua valtakunnallinen
+13
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+aspekti ja vaikutuksiltaan laajaan kaavoitukseen tulee ehkä tällöin hyväksyttyä sellaista-
+kin, mikä ei laillisuustarkastelua kestä. Täällä on nyt kuultu hyvä esimerkki siitä: Rovanie-
+men ja Itä-Lapin maakuntakaava, johon ollaan jälleen lisäämässä Vuotoksen allasta, vaik-
+ka kyseinen hanke on korkeinta hallinto-oikeutta myöten jo todettu toteutuskelvottomaksi.
+(Eduskunnasta: Miten niin?) On se kumma, että tätä ei ole kaavoituksessa osattu ennakoi-
+da. Kyllä totean tässä ja yhdyn niihin puheenvuoroihin, jotka ovat puoltaneet sitä, että ym-
+päristöministeriön pitäisi lisätä neuvontaa maakuntakaavoituksessa, ja tässä on yksi esi-
+merkki siitä. Se on aivan kannatettava ja hyvä esitys.
+
+18.10 Kaj Turunen ps: Arvoisa puhemies! Tässä edustaja Halmeenpää taisi mainita mi-
+nunkin täällä läsnä ollessani jo kolmannen kerran sen, että maakunnissa käytännöllisesti
+katsoen ei osata kaavoittaa, puhui laittomuuksista ja tästä, että valtakunnan intressit unoh-
+tuvat. Minä en itse asiassa ihan nyt tarkkaan ottaen ymmärrä sitä, ovatko alueen ja valta-
+kunnan intressit jotenkin vastakkaisia tai edes ristiriitaisia millään tavalla — aika vaikea
+nähdä sitä. Alueitten kehittäminen on yhtä kuin valtakunnan kehittäminen.
+
+Tästä asiantuntevuudesta vielä: Niin kuin äsken sanoin, se ammatillinen asiantuntemus
+löytyy ihan varmasti molemmilta tahoilta, niin ympäristöministeriöstä kuin sitten tuolta
+maakuntaliitoistakin, mutta ympäristöministeriöstä ei välttämättä löydy sitä paikallista
+tuntemusta niin hyvin tai niitä kehityssuunnitelmia, mitkä maakunnassa on tehty, se tunte-
+mus ei ole ministeriössä varmaankaan ihan niin hyvä. Mutta oikeastaan sanoisin näin, että
+maakuntaliitossa joissain tilanteissa varmasti on koettu voimattomuutta, ei niinkään pel-
+koa, tai mitä näitä sanoja aikaisemmin käytettiin. Siellä on vain voimattomuutta toteuttaa
+niitä maakunnallisia kehityshankkeita, kun se päätösvalta ei ole omissa käsissä vaan minis-
+teriössä.
+
+Mitä tulee tähän allasrakentamiseen, niin sehän vaatii monia eri päätöksiä kuin kaavoi-
+tukseen liittyviä päätöksiä. Aivan niin kuin edustaja Myller sanoi, se vaatii tosiaankin pal-
+jon muutakin päätöksentekoa. Mutta sitten loppupelissä kyllä minun mielestäni se on tär-
+kein juttu, että sitten kun kaikki muut päätökset on tehty, esimerkiksi jos olisi tehty posi-
+tiivinen päätös jonkun allasrakentamisen vuoksi, ja tullaan siihen tilanteeseen, että tämä on
+enää kaavoituksesta kiinni, minun mielestäni se on paljon reilumpaa, että se viimeinen pää-
+tös kaavoituksesta tehdään siellä alueella, kuin että se tehtäisiin Helsingissä ministeriössä.
+
+18.12 Hanna Halmeenpää vihr (vastauspuheenvuoro): Arvoisa puhemies! Nyt on hyvä
+erottaa, mikä on kenenkin tehtävä. Maakuntien tehtävä on ajaa maakunnan etua ja kehitys-
+hankkeita ja huolehtia kaavoituksesta. Ympäristöministeriön tehtävä tässä kyseessä ole-
+vassa asiassa on laillisuusvalvonta, ja senhän ympäristöministeriö on tehnyt oikein ja te-
+hokkaasti. Kun katsoo, mihin ympäristöministeriö on kaavoituksellisissa asioissa näissä
+olosuhteissa puuttunut ja miten hyvin ne muutokset ovat korkeimmassa hallinto-oikeudes-
+sa pysyneet, niin eihän siellä paljon ole huteja tullut.
+
+Mitä tulee tähän Vuotos-keskusteluun, niin en kyllä nyt, edustaja Turunen, siihen lähde
+pitemmästi, se on jatkunut melkein koko elinikäni. Totean vain, että alueen kunnathan ei-
+vät sitä hanketta puolla. Sukuni on sieltä kotoisin, ja tiedän kyllä perin juurin, mistä siellä
+keskustellaan ja on keskusteltu jo yli 30 vuotta.
+
+18.13 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Itse asiassa
+nykyisessä laissa ympäristöministeriön kaksoisrooli sekä ohjaavana että myös päättävänä
+14
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+viranomaisena on ollut hieman ongelmallinen, ja se on ehkä myös haitannut maakuntakaa-
+voituksen eri viranomaisten yhteistyötä. Nyt tämä hallituksen esitys selkeyttää ympäristö-
+ministeriön roolia kaavoituksen ohjaamisessa, parantaa viranomaistyötä ja luo myös edel-
+lytyksiä hyvälle ja laadukkaalle kaavoitukselle. Tämä hallituksen esitys mahdollistaa myös
+muiden viranomaisten kuin ympäristöministeriön näkemystä ja heidän kuulemistaan jo
+kaavan laadinnan alkuvaiheessa. Se on omasta mielestäni hyvä asia, ja se myöskin nopeut-
+taa tätä kaavoitusprosessia kaiken kaikkiaan.
+
+18.14 Kaj Turunen ps (vastauspuheenvuoro): Arvoisa puhemies! Ei tässä missään ta-
+pauksessa ollut nyt kysymys siitä, että lähdettäisiin rakentamaan jotain altaita vesivoimal-
+le, ei ollenkaan siitä kysymys, vaan se oli esimerkki siitä, missä se lopullinen päätöksente-
+ko on semmoisessa tilanteessa. Itse asiassa, kun edustaja Halmeenpää ei kannata allasra-
+kentamista, yhtä lailla minäkin voin sanoa, että en kannata allasrakentamista, tai sitten toi-
+saalta kannatan, mutta se ei ole olennainen osa tässä. Tarkennan vielä sitä, että jos kaikki
+päätöksenteko, mikä tämmöiseen allasrakentamiseen liittyy, se prosessointi ja kaikki muu,
+olisi valmiina — ja se viimeinen päätöksenteko — niin minun mielestäni se vain on rei-
+lumpaa, että se on siellä paikallistasolla kuin jossakin ministeriössä Helsingissä.
+
+Mitä tulee tähän laillisuusvalvontaan, niin minun mielestäni se on tällä hetkellä hallituk-
+sen esityksessä hoidettu erittäin hienosti, että ministeriöllä on tämä neuvova rooli vahvasti
+tässä mukana ja sitä kautta tulee (Puhemies koputtaa) myöskin se laillisuusvalvonta tähän.
+
+18.15 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Meni kes-
+kustelu tähän Kemiran altaaseen, joka sattuu olemaan siellä minun kotikuntani alueella. Se
+on muuten ollut vuodesta 67 asti keskusteluissa, elikkä siitä on 48 vuotta aikaa, kun siellä
+on alettu keskustelemaan tästä altaasta, ja siitä on riidelty sillä alueella ihan nokko. Mutta
+no, jatketaan sitä tappelua. Itse toivon, että tämän kaavan valmistelussa, mikä meillä siellä
+on meneillään, voitaisiin keskittyä enemmän muitten asioiden tekemiseen ja toimintaan,
+koska me kaikki tiedämme sen, että päätettiin siitä nytten maakuntatasolla mitä tahansa,
+niin siitä valitetaan hallinto-oikeuteen, korkeimpaan hallinto-oikeuteen. Korkein hallinto-
+oikeus tulee tekemään siitä ratkaisunsa, miten päin sitten ratkaiseepi, toivottavasti sen mu-
+kaan, mitä jo aikaisemmin on korkein hallinto-oikeus asiasta ratkaissut. Päätettiin sitten
+miten tahansa silloin, niin sen jälkeen siitä tullaan valittamaan vielä EU-tuomioistuimeen
+ja niin poispäin. Mutta oli miten oli, minä omalta osaltani toivon, että tällä maakuntakaa-
+vasysteemillä voisimme keskittyä alueen kehittämiseen niin kuin muuallakin.
+
+Toinen varapuhemies Paula Risikko:  Ja puhelistaan takaisin.
+
+18.16 Pirkko Mattila ps: Arvoisa rouva puhemies! Ei kai maakuntien edun ajamisessa
+ole tarkoitus pyrkiä mihinkään laittomuuksiin tai ylilyönteihin. Siellä on edelleen nouda-
+tettava lakeja, eli ei kai ympäristöministeriön roolin ole tarkoitus olla tuomioistuimena, ja
+niin kuin todettu on, kaavoitusta ohjaavia lakeja ja normeja ei olla purkamassa, vaan tätä
+vahvistusmenettelyä. Vaikka nykymenettelyä kyllä asiantuntijalausunnoissa on pidetty hy-
+vänä, niin en minä kyllä mitään erityistä suurta myllytystä, vastustusta, tälle laille kuiten-
+kaan ole kuullut enkä myöskään omalta maakuntahallituspaikaltani kuullut mitään erityis-
+tä vastustusta ja keskustelua.
+15
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+Minä ymmärrän kyllä tämän Vuotos-kummituksen ja sen keskustelun: siihen liittyvä
+toinen mörkö on tietysti Kollaja, ja ne ovat samassa paketissa, mutta ei siitä nyt sen pitem-
+mästi — ei kannata tänä iltana varmasti ruveta vesirakentamista lisäämään.
+
+Mutta vielä tähän neuvontaan. Kuten on myös todettu tuossa valiokunnan kannanotos-
+sa, ympäristöministeriö tuntee maakuntakaavoituksen, ja varmasti sen neuvoa-antava roo-
+li säilyy jatkossakin. Ja vielä kerran todetaan, että valitusoikeushan tästä säilyy, eli oikeus-
+turvaa voidaan sitten hakea sitä kautta.
+
+18.18 Eeva-Maria Maijala kesk: Arvoisa puheenjohtaja! Tämä laki on nyt menossa sii-
+hen suuntaan, mitä me toivomme, ja nyt sitten mietimme seuraavia lakeja, mitä tulee tähän
+maankäyttö- ja rakennuslakiin. Toivon, että me voisimme samalla tavalla viedä myöskin
+muita rakentamiseen liittyviä lainsäädäntöjä eteenpäin. Elikkä tämähän tulee johtamaan
+siihen, että seuraavaksi me tulemme käsittelemään täällä sitä, millä tavalla me tulemme
+auttamaan näitä kuntia rakennuttamaan näitä ranta-alueita, vaikka ne eivät olekaan kaavoi-
+tettuja, elikkä siihen, että voimme jatkossa yhä enemmän ja enemmän päättää jopa kunta-
+tasolla asioista. Kun nyt siirrytään ensin maakuntatasolle tietyissä asioissa ja sen jälkeen
+mennään kuntatasolle niin, ettei niitä tarvitse edes ely-keskuksissa alkaa käsittelemään,
+niin tämä kokonaisuudessaan on nytten oikea suunta tässä kuviossa, ja teemme töitä täy-
+sillä sen eteen, että katsomme, millä tavalla muitakin toimintoja voidaan yhä enemmän ja
+enemmän viedä lähemmäs ihmisiä.
+
+18.19 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Mitä tulee tähän keskusteluun
+yleensä, niin totean vain sen, että kun täällä tuntuu olevan edelleen sitä henkeä, että halu-
+taan maakuntien kehittämistä ja rakentamista jarruttaa, niin muistakaa, hyvät edustajakol-
+legat, se, että joka ainoasta rakennuksesta, mikä tähän maahan lähtee nousemaan, jos on
+vaikka miljoonan euron kustannusarvio, tulee valtiolle veroina ja erilaisina välillisinä mak-
+suina se toinen puoli eli 500 000 eli hyötysuhde on noin fifty—fifty. Puolet menee siihen
+rakentamiseen, ja puolet menee veroina ja maksuina valtiolle ja yhteiskunnalle. Elikkä
+joka kerran, kun te nostatte peukalonne tai sormenne, että minä haluan vastustaa tätä han-
+ketta, vastustatte just sitä, millä Suomen taloutta elvytetään. Tätäkö te oikeasti haluatte?
+
+Kannatan lämpimästi sitä, että tässä maassa olemassa olevissa vesistöissä, mitkä on jo
+valjastettu, käytetään sitä vesivoimaa, jos semmoinen ratkaisu tehdään. Vuotos ja Kollaja
+ovat järkeviä hankkeita, koska nehän ovat valjastettuja vesistöjä. Tietenkään sitä megawat-
+timäärää, mikä siellä uinuu ja on edelleen tulvahaittana, en ole tässä esittämässä, mutta se
+on hyvä ajatus, sitä pitää viedä eteenpäin.
+
+Mutta, arvoisat kollegat, arvoisa puhemies, juttu on nimittäin niin, että jos me joka asiaa
+vastustamme, jos joka asiaa jarrutetaan niin ankarasti, vesivoimarakentamista, ydinvoima-
+rakentamista, talojen rakentamista, maakuntien kehittämistä — sanokaa minulle, en jaksa
+ymmärtää Pohjois-Karjalan maakuntakaavatyöryhmän puheita, mitä te oikeasti haluatte —
+eihän tällä keinoin homma pelaa. Kuvitellaanko jossakin täällä hallintopalatseissa, että pi-
+tää panna kontti selkään ja ruveta syömään kuivattuja särkiä tuolla järven rannalla? Ei, hy-
+vät ystävät, sillä keinoin tämä homma pelaa. Velkaa on 100 miljoonaa, ja täällä ajatellaan
+ehkä niin, että miten me saisimme vielä tuon hankkeen estettyä. Koettakaa nyt, hyvät ys-
+tävät, tulla sille kannalle, että rakennetaan tätä maata. Tässä maassa on valtava määrä ha-
+lua rakentaa isänmaata paremmaksi. Liittykää tähän joukkoon. Minä väitän, että se on yksi
+16
+
+
+
+Pöytäkirjan asiakohta PTK 74/2015 vp
+kannattavimpia projekteja, mitä tällä vuosituhannella tulee olemaan. Meillä on vielä aikaa
+tehdä se vapaaehtoisesti. Muutaman vuoden päästä siihen on pakko.
+
+18.21 Ari Torniainen kesk: Arvoisa rouva puhemies! Tässä ollaan käyty hyvää keskuste-
+lua tästä maakuntakaavoituksesta ja sen tulevaisuudesta. On hyvä, että maakuntakaavojen
+vahvistaminen siirtyy sinne maakunnille. Kyllä siellä maakuntien päättäjät ja maakunnat
+itse pystyvät päättämään, miten alueita halutaan kehittää. Siellä ne tarpeet ovat ja tiedetään
+parhaiten, ja kyllä tämä viranomaisten vuorovaikutus säilyy edelleen tässä, uskon sen. Kyl-
+lä maakuntapäättäjät ja maakuntaliitot näin myös haluavat tulevaisuudessa.
+
+Sitten ihan lopuksi haluan sanoa sen, että täällä on muutamassa puheenvuorossa nostet-
+tu esille myöskin valtakunnalliset alueidenkäyttötavoitteet. Olen kyllä samaa mieltä siitä
+edustaja Hoskosen kanssa, että niiden tulee myöskin huomioida Suomen eri alueiden eri-
+laiset olosuhteet ja erityistarpeet, ja ne myöskin tulevat vaikuttamaan näihin maakuntakaa-
+voihin, ja kyllä maakuntaliitot ottavat ne myöskin asiallisesti huomioon.
+
+18.22 Timo V. Korhonen kesk: Arvoisa puhemies! Ehkä hiukan kevennyksenäkin tähän
+keskustelun loppupuolelle: Sain juuri sähköpostin, jossa kysytään, minkä vuoksi eduskun-
+nassa ei koskaan puhuta petopolitiikasta. Minä nyt sanoisin sillä tavalla tämän lakiesityk-
+sen käsittelyn yhteydessä, että tämä käsillä oleva laki ei todellakaan ole mikään susi, mutta
+mitä susiin tulee, niin olen kyllä sitä mieltä, että niitä on tällä hetkellä Suomessa aivan lii-
+kaa. (Naurua)
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 114/2015 vp sisältyvän lakiehdotuksen si-
+sällön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+17
+
+

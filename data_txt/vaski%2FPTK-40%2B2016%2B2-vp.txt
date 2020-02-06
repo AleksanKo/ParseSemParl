@@ -1,0 +1,1062 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM8597.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 40/2016 vp
+
+Täysistunto
+
+Keskiviikko 20.4.2016 klo 13.59—17.51
+
+2. Hallituksen esitys eduskunnalle laeiksi hallinnon yhteisistä sähköisen asioinnin tukipal-
+veluista sekä valtion yhteisten tieto- ja viestintäteknisten palvelujen järjestämisestä anne-
+tun lain muuttamisesta
+
+Hallituksen esitys HE 59/2016 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 2. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokuntaan, jolle liikenne- ja
+viestintävaliokunnan on annettava lausunto.
+
+Ministeri Vehviläinen esittelee.
+
+Keskustelu
+
+14.00 Kunta- ja uudistusministeri Anu Vehviläinen kesk (esittelypuheenvuoro):  Ar-
+voisa puhemies! Meillä on tässä lähetekeskustelussa nyt esillä laki sähköisen asioinnin tu-
+kipalveluista, ja pidän tätä erityisen tärkeänä, kun tiedätte sen, että jo useamman vuoden
+ajan Suomessa on haluttu muodostaa yhteistä kansallista palveluväylää (Hälinää — Puhe-
+mies koputtaa) ja kansallista palveluarkkitehtuuria. Kuten tiedätte, niin meidän julkisia
+sähköisiä palveluita on leimannut tällä hetkellä monella tavalla sirpaleisuus, hajanaisuus ja
+monenlainen kustannustehottomuus, joista myös Valtiontalouden tarkastusvirasto aivan
+äskettäin, viime viikolla, antoi oman näkemyksensä. Ja nyt olemme etenemässä siinä pro-
+jektissa, että voimme luoda tätä yhteistä palveluväylää kaiken julkisen hallinnon sähköis-
+ten palveluiden käyttöön ottamiseksi. Eli jos muistatte, niin ensimmäiset askelmerkit tästä
+tehtiin viime vaalikaudella 2013, ja nyt ollaan etenemässä siihen suuntaan, että meillä on
+tässä lakiesitys käsittelyssä.
+
+Keskeinen tavoite on mahdollistaa kansallinen palveluarkkitehtuuriohjelma, jossa on ra-
+kennettujen palvelujen laaja käyttö koko yhteiskunnassa. Kansallisessa palveluarkkiteh-
+tuuriohjelmassa kehitettäviä palveluita esitetään Väestörekisterikeskuksen lakisääteisiksi
+tehtäviksi ja keskitetysti rahoitetuiksi. Esitys tukee (Hälinää — Puhemies koputtaa) halli-
+tuksen kärkihankkeena olevaa julkisten palveluiden digitalisoimista. Hallituksen esityk-
+sen valmistelussa on otettu myös huomioon nyt alkuvuodesta linjatut julkisen hallinnon di-
+gitalisoinnin periaatteet.
+
+Suomessa otetaan siis nyt iso harppaus kohti yhteistä digitaalista infrastruktuuria — voi-
+si sanoa: digialan tieverkkoa. Kansalaisten tarvitsemat digitaaliset palvelut kootaan yhteen
+palvelunäkymään, jossa voi yhdellä tunnistautumisella asioida eri tahojen kanssa. Jo nyt
+käyttäjien kokeiltavana on palvelunäkymän kehitysversio beta.suomi.fi. Sähköinen asioin-
+titili mahdollistaa turvallisen viestintäkanavan esimerkiksi asiakasta koskevista päätöksis-
+tä tiedottamiseen. Toisen puolesta asioiminen puolestaan helpottaa sähköisten palveluiden
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+käyttämistä muun muassa lasten huoltajille ja asiakkaidensa puolesta asioiville. Luodaan
+puitteet hallituksen tavoitteena oleville yhden luukun käyttäjälähtöisille digitaalisille pal-
+veluille, jotka nostavat tuloksellisuutta ja tuottavuutta. Tiedon liikkumista saumattomasti
+eri palveluntuottajien välillä avointen rajapintojen kautta helpotetaan. Valtion ja kuntien
+viranomaisille laki sisältää velvoitteen käyttää palveluita kaikessa sähköisten asiointipal-
+veluiden tuotannossa.
+
+Kansallista palveluarkkitehtuuria koskevasta lainsäädännöstä tekee ainutlaatuisen se,
+että yhteisiä palveluja ei tehdä vain julkisen hallinnon sisäiseen käyttöön tai julkisten pal-
+velujen tarjoamiseen. Aitoa lisäarvoa asiakkaalle haetaan siitä, että riippumatta toimijasta
+palvelu tarjotaan yhtenäisillä tukipalveluilla ja samaan tietoon perustuen. Laissa on valittu
+mahdollistava linja siihen, miten yritykset voivat hyödyntää rakennettavaa digitaalisten
+palveluiden infrastruktuuria. Tukipalvelut ovat siis mahdollisimman kattavasti myös mui-
+den kuin julkisen sektorin käytettävissä. Palveluväylä, palvelutietovaranto, palvelunäky-
+mät ja asiointivaltuuspalvelu olisivat myös yksityisen sektorin hyödynnettävissä.
+
+Arvoisa puhemies! Tämä lakiesitys sähköisten palveluitten tukipalveluista koskettaa siis
+erityisesti viittä asiaa: ensinnäkin tunnistamista, toiseksi kansallista palveluväylää, kol-
+manneksi kansallista palvelutietovarantoa, neljänneksi asiointirooleja ja -valtuuksia sekä
+viidenneksi yhden luukun digitaalista palvelunäkymää.
+
+Hyvät kansanedustajat, minä haluan vielä todeta tässä yhteydessä, kun täällä salissa on
+usein kannettu huolta tästä, että kaikilla ei ole mahdollisuutta tähän sähköiseen tunnistau-
+tumiseen, jos vaikka puuttuvat pankkitunnukset, että olemme löytämässä siihen parastai-
+kaa juuri sellaista ratkaisua, joka liittyy toisen lain tekemiseen. Eli tällä hetkellä lausunto-
+kierroksella on niin sanotun peruspankkipalvelujen direktiivin kansallinen toimeenpano,
+eli ollaan tekemässä muutosta lakiin luottolaitostoiminnasta, ja tässä yhteydessä on tarkoi-
+tus, että pankeille tulisi velvoite antaa kaikille pankin asiakkaille yleiskäyttöiset pankkitun-
+nukset. Tämä pystyisi ratkaisemaan sen ongelman, jos on menettänyt vaikka luottotietonsa
+tai jostain muusta syystä ei ole sitä sähköisen tunnistautumisen mahdollisuutta. Tämä an-
+taa siihen mahdollisuuden.
+
+14.06 Lea Mäkipää ps: Arvoisa puhemies! Esityksessä säädetään siis laki hallinnon yh-
+teisistä sähköisen asioinnin tukipalveluista. Lisäksi säädettäisiin hallinnon toimijoiden vel-
+vollisuudesta ja oikeudesta käyttää yhteisiä palveluja. 
+
+Hallinnon yhteisiä sähköisen asioinnin tukipalveluja koskevan sääntelyn kokoamisella
+yhteen lakiin sekä palvelujen keskitetyllä rahoituksella katsotaan olevan merkittävästi hal-
+linnon kustannuksia pienentäviä vaikutuksia. Valtiovarainministeriössä on arvioitu, että
+julkisella hallinnolla on noin 1 500 sopimusta sähköiseen tunnistamiseen liittyen. Keskit-
+tämällä sopimukset Väestörekisterikeskukseen säästetään siis huomattava määrä hallin-
+non työaikaa, joka liittyy muun muassa sopimusten ylläpitämiseen ja laskutukseen. Myös
+yritysten näkökulmasta esitys sujuvoittaisi yritysten lupa- ja asiointiprosesseja sekä keven-
+täisi niiden hallinnollista taakkaa. Palveludirektiivin artiklassa 6 on säädetty keskitetyistä
+asiointipisteistä, jotka ovat yrityksille suunnattuja verkkopalveluita ja sähköisen asioinnin
+portaaleja. Direktiivi edellyttää, että kaikki yritystoiminnan aloittamiseen ja harjoittami-
+seen liittyvät menettelyt ja muodollisuudet tulisi voida hoitaa sähköisesti keskitettyjen
+asiointipisteiden kautta koko EU:n alueella. Tämä edellyttää muun muassa rajat ylittävän
+sähköisen tunnistautumisen ja asioinnin mahdollistamista yrityksen perustajille.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+Ehdotetussa laissa tarkoitetut julkisen hallinnon ylläpitämät palvelut tuovat uusia liike-
+toimintamahdollisuuksia yrityksille. Nämä mahdollisuudet ovat avoimesti ja yhtäläisin pe-
+rustein kaikkien yritysten ja yhteisöjen käytettävissä. Esityksen mukaan palvelualustan ra-
+kentamisella pyritään edesauttamaan sekotorirajat ylittävien toimialakohtaisten sähköis-
+ten palvelumarkkinoiden syntymistä osana EU:n sähköisiä sisämarkkinoita.
+
+Esityksen perusteluissa on todettu, että esityksellä ei arvioida olevan yksityisen ja julki-
+sen elinkeinotoiminnan kilpailuedellytysten tasapuolisuuteen kohdistuvia vaikutuksia. Sii-
+tä huolimatta herää kysymys, mikä on vaikutus sellaisten yritysten elinkeinotoimintaan,
+jotka tarjoavat erilaisia hakemisto- ja yhteystietopalveluja.
+
+Arvoisa puhemies! Tavoitteena on, että vuoden 2017 lopussa palvelunäkymä tarjoaa
+tunnistetulle asiakkaalle uuden tavan löytää palveluja ja saada tietoa. Palvelunäkymä tuo
+esiin sähköiset asiointimahdollisuudet ja edistää sähköisten palvelukanavien käyttöä ja it-
+sepalvelun lisääntymistä.
+
+Sähköiset palvelut ovat jo nyt laajasti käytettävissä ja käytössä. Kuitenkin on vielä pal-
+jon ihmisiä, joilla ei ole mahdollisuutta käyttää sähköisiä palveluja tai ei ole tunnistautu-
+misvälineitä. Kilpailu- ja kuluttajaviraston tutkimuksen mukaan muun muassa pankkiasi-
+akkaat jakautuvat digitaalisten ja perinteisten palveluiden käyttäjiin. Selvitys osoittaa, että
+kuluttajilla on eriarvoiset mahdollisuudet hoitaa pankkiasioita erilaisista taustoista ja elä-
+mäntilanteesta johtuen. Lähes kymmenesosa kuluttajista ei käytä lainkaan verkkopankkia.
+9 prosentilla eli koko väestöön suhteutettuna noin 400 000 henkilöllä ei ollut verkkopank-
+kitunnuksia. Näihin kuuluu erityisesti iäkkäitä eläkeläisiä, työttömiä, matalasti koulutettu-
+ja nuoria ja pienituloisia. 
+
+Tunnistusväline on välttämätön palveluiden tosiasiallisen saatavuuden ja verkkoasioin-
+nin kannalta. Yksi este tunnistusvälineen saamiselle yksityisiltä palveluntarjoajilta on
+maksuhäiriömerkintä. Suomen Asiakastiedon mukaan syys—lokakuun 2015 vaihteessa
+maksuhäiriömerkintä oli 370 000 ihmisellä. Tunnistautumisväline on tarpeen itsemäärää-
+misoikeuden käyttämiseksi, eikä puolesta asiointi ole oikea ratkaisu silloin, kun henkilö
+itse on oikeustoimikelpoinen.
+
+Arvoisa puhemies! Myös niille kansalaisille tulisi turvata pääsy julkisiin palveluihin,
+jotka eivät osaamisen, kielitaidon tai jonkin muun syyn takia käytä sähköisiä palveluja.
+Hallinnon asiakkaalla tulisi olla mahdollisuus muuhunkin kuin sähköiseen asiointiin, ja hä-
+nen tulisi saada tarvittaessa myös henkilökohtaisia palveluja.
+
+Arvoisa puhemies! Tämä oli niin suuri paketti, että paljon yksityiskohtia on vielä tutkit-
+tavana, mutta se varmaan selviää valiokunnan kokouksissa.
+
+14.11 Sanna Lauslahti kok (vastauspuheenvuoro): Arvoisa puhemies! Käsillä oleva hal-
+lituksen esitys on loistava, voisi sanoa, merkittävä askel, todellista sähköistä maailmaa,
+matka kohti yhden luukun periaatetta, jossa päästään hallinnon siiloista eroon. Voisi sa-
+noa, että byrokratia saadaan nurin, hallintokulut kuriin. Jatkossa asiointipalvelut voivat
+olla meidän kansalaisten käytettävissä joka ikinen päivä, missä tahansa, milloin vain ja
+millä laitteella kukin haluaa.
+
+14.12 Arja Juvonen ps (vastauspuheenvuoro): Arvoisa rouva puhemies! Hallituksen esi-
+tys on perusteltu, mutta haluaisin nostaa esille jo edustaja Mäkipään nostamia asioita. Kyl-
+lä on huolta kannettava niistä ihmisistä, joilla ei ole mahdollisuutta käyttää sähköisiä lait-
+teita tai vaikkapa pankkitunnuksia. Ongelmaksi on osoittautunut erityisesti se, kuinka
+3
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+opettaa niitä ihmisiä, jotka eivät hallitse vaikkapa pankkitunnusten käyttöä, koska henki-
+lökohtaisten tilien kautta opetusta ei tietenkään voi tehdä. On ehkä syytä heittää sitä palloa
+myös vaikkapa pankeille: missä vaiheessa heidän tilanteensa on, jotta he voisivat neuvoa,
+opettaa ja kouluttaa vaikkapa ikäihmisiä, joista monella ei ole sähköisiä tunnistautumisvä-
+lineitä. Eli keskiössä on ihminen, kun me kehitämme näitäkin ohjelmia ja tätäkin uudistus-
+ta, ja se tulee muistaa, että me olemme kaikki yksilöitä, toiset tarvitsevat enemmän neu-
+vontaa ja apua, ja kaikille laitteet eivät ole saavutettavissa.
+
+14.13 Kimmo Kivelä ps (vastauspuheenvuoro): Arvoisa rouva puhemies! Kyllähän digi-
+talisaatioprosessissa Suomessa varsinkin julkinen sektori on matkan varrella tehnyt raskai-
+ta ja kalliita erehdyksiä. Tämä asia on hieno prosessi. Tämä on merkittävä osa hallitusoh-
+jelmassa sovittua digitalisaatioprosessia, ja on äärimmäisen tärkeätä, että kaikki toimenpi-
+teet, joilla valtion levällään olevia tietojärjestelmiä kootaan yhteen, tapahtuisivat siten, että
+ne kulkisivat kansalaisten ehdoilla ja että mahdollisimman monet pääsisivät nettipalvelui-
+den piiriin. Mutta sitten huomioidaan erikseen ne kansalaiset, jotka eivät yleensä korkean
+iän vuoksi pysty nettiä käyttämään. Viime viikolla törmäsin tapaukseen, että verottaja ei
+ollut hyväksynyt iäkkään metsänomistajan metsäkaupoista suorittamaa alvia, kun se oli
+suoritettu perinteisellä tavalla.
+
+14.14 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! On erittäin tär-
+keää, että nämä säädökset, jotka sääntelevät näitä julkisia sähköisiä palveluita, tulevat nyt
+yhden lainsäädännön alle. Tietenkin olisi myös äärimmäisen tärkeää, että julkisissa han-
+kinnoissa ohjelmistojen ja it-systeemien suhteen myöskin päästäisiin siihen, että voitaisiin
+saada näitä keskittämisetuja. Olisinkin ministeriltä kysynyt sitä, millä tavalla aiotaan näis-
+sä valtion varsinaisissa hankkeissa edetä sen suhteen: kun lainsäädäntö saadaan yhteen
+kohtaan, niin millä tavalla sitten nämä hankinnat voitaisiin saada tehokkaammaksi ja sitä
+kautta säästää suuria summia, kun tällä hetkellä näitä toimittajia on aivan valtava määrä
+niin kunnissa kuin valtiollakin?
+
+Edustaja Mäkipää otti esille tämän tärkeän seikan, että on huolehdittava siitä, että myös-
+kin niille henkilöille, jotka eivät syystä tahi toisesta pysty käyttämään nettiä, ovat tulevai-
+suudessakin nämä palvelut saatavissa.
+
+14.15 Hannu Hoskonen kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Aivan
+erinomainen lakiesitys ja on linjassa Sipilän hallitusohjelman kanssa. Toivoisin kuitenkin,
+että tässä yhteydessä nostettaisiin esille myös se, että kun uusia palveluväyliä rakennetaan
+digitaaliselle pohjalle, niin sen, että rakennetaan nimenomaan sille pohjalle, että palvelu on
+turvallista eikä tällaisia tietovuotoja pääse syntymään eivätkä hakkerit pääse väliin, pitää
+olla ehdoton tavoite, mutta yhtä iso tavoite pitää olla sen, että rakennamme tähän maahan
+laajakaistaverkon, joka puolelle maahan. Tämähän eriarvoistaa koko systeemin tässä
+maassa, jos osa väestöstä pystyy käyttämään huipputasoisia palveluita erinomaisessa ym-
+päristössä mutta toisaalta on alueita, joilla eivät nopeat laajakaistayhteydet ollenkaan pe-
+laa. Kotikunnassani Ilomantsissa asia on jo hyvällä mallilla, kun valokuituverkko on saatu
+valmiiksi, mutta valtiovallan tehtävänä on pitää huoli, että niillä alueilla, missä valokuitu-
+verkkoja ja nopeita laajakaistayhteyksiä ei saa markkinaehtoisesti, valtiovallan pitää toi-
+mia tässä aktiivisesti, että saamme koko maan tämän nopean palvelun piiriin.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+14.16 Timo Heinonen kok (vastauspuheenvuoro):  Arvoisa rouva puhemies! Esitys on
+hyvä, ja siitä voi ja pitää antaa kiitosta ministeri Vehviläiselle, mutta isoon ilakointiin siinä
+ei ole aihetta sen takia, että olemme tässä kyllä hirveästi myöhässä, tämän olisi tietysti pi-
+tänyt tapahtua jo aikoja sitten — eikä kyse ole nyt tästä hallituksesta, vaan monta hallitusta
+aiemmin. Jos katsomme esimerkiksi sitä, mitä on tapahtunut muissa maissa, niin olemme
+kaukana jäljessä siitä. Esimerkiksi Virossa kaikki sähköiset palvelut, esimerkiksi lääkere-
+septit ja äänestäminen, toimivat X-Road-nimisen tiedonsiirtoväylän kautta. Ja kyllä tavoi-
+te on nyt ja sen pitää olla, että jatkossa verottajan, Kelan, oman kunnan, maakunnan ja val-
+tion kaikki toiminnot onnistuvat yhden selkeän kokonaisuuden kautta, ja tässä työssä täysi
+tuki ministerille ja hallitukselle.
+
+14.17 Sanna Lauslahti kok (vastauspuheenvuoro): Arvoisa puhemies! Ensinnäkin edus-
+taja Juvoselle: Ehdottoman tärkeää todellakin on, että ihmisten ehdoilla näitä palvelukana-
+via rakennetaan. Mielestäni erinomainen esimerkki täällä on se, että palvelunäkymiin tuo-
+tetaan elämänkohtaisesti näitä palveluoppaita. Lisäksi jatkossakin tulee varmistaa, että
+meillä on heille, jotka eivät ole tottuneita käyttämään teknisiä välineitä, myös nämä perin-
+teiset puhelimet ja asiakaspalvelupisteet olemassa.
+
+Edustaja Heinoselle sen verran, että parempi nyt kuin ei milloinkaan, ja voisi sanoa, että
+tässä vaiheessa meillä on jo kypsää teknologiaa, jota voimme lähteä viemään sitten toteu-
+tukseen ja toimeenpanoon asti.
+
+14.18 Olavi Ala-Nissilä kesk (vastauspuheenvuoro): Rouva puhemies! Pitää eduskunnan
+pöytäkirjoihin myöskin todeta, että nyt on tärkeätä, että ei voivotella näitä vanhoja eikä
+nähdä nyt uhkia tässä vaan todella mahdollisuuksia. Hallitusohjelman yksi keskeinen stra-
+teginen alue on uudet toimintatavat, jossa yksi keskeinen on digitalisaatio. Se liittyy tietys-
+ti näihin muihin toimintatapoihin, kuten esimerkiksi normien sujuvoittamiseen, lupame-
+nettelyjen sujuvoittamiseen, joka voi monissa tapauksissa tapahtua digitaalisesti tulevai-
+suudessa, silloin kun meillä on tämä yhteinen pohja tässä olemassa. Että voimia ministe-
+rille viedä tätä hallitusohjelman keskeistä hanketta eteenpäin. Me olemme takamatkalla
+Viroon ja muihin nähden, mutta me otamme kiinni.
+
+14.19 Antti Häkkänen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Kommentti
+on lähinnä positiivinen siitä syystä, että hallitus on vihdoin saanut tämän esityksen tänne
+eduskuntaan. Kuten edustaja Heinonen tässä jo totesi, kyllä Suomi on itse asiassa vähän jo
+vuosikymmeniä jahkaillut näissä julkisen palvelun ja julkisen hallinnon yleisissä tietojär-
+jestelmä- ja digitalisaatiohankkeissa. Meillä on ollut pitkään hyvin pirstaleinen ja sirpaloi-
+tunut järjestelmä, joka on johtanut ennen kaikkea siihen, että tarvittavia säästöjä ei ole saa-
+tu aikaan, mutta mikä vielä tärkeämpää, asiakaslähtöisyyttä palvelussa ei ole kyetty hoita-
+maan sillä tasolla, mikä sen pitäisi olla erityisesti 2010-luvulla. Eli tämä mahdollistaa nyt
+asiakaslähtöiset palvelut, ja toivonkin, että jatkotyössä myös huomioidaan, että yritysten
+palvelut myös pääsevät monesti mukaan siihen täydentämään kaikkia näitä julkisia toimin-
+toja.
+
+Puhemies Maria Lohela: Kaikki pyydetyt vastauspuheenvuorot on noteerattu, ja käy-
+dään ne nyt järjestyksessä tässä läpi.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+14.20 Ritva Elomaa ps (vastauspuheenvuoro):  Arvoisa puhemies! Edustaja Mäkipää
+nosti tärkeitä asioita esille. Maksuhäiriöisiä on melkein 400 000. Maksuhäiriöt lisääntyvät
+koko ajan, eivätkä ne vähene sillä, että hankaloitetaan kansalaisten kykyä ja halua hoitaa
+laskujaan. Pankkitunnusten myöntäminen ei ole luoton myöntämistä vaan mahdollisuus
+saada sähköisesti niitä palveluja, jotka kuuluvat kaikille kansalaisille. Ministeri Vehviläi-
+nen kertoi sähköiseen tunnistamiseen liittyen pankkitunnusten myöntämisestä kaikille
+kansalaisille tulevaisuudessa, ja kysyisinkin, millä aikavälillä tämä tulee mahdolliseksi.
+
+14.21 Anna Kontula vas (vastauspuheenvuoro):  Arvoisa rouva puhemies! Pelkästään
+maaliskuun aikana minulta jäi resepti saamatta sen takia, että apteekki ei saanut yhteyttä
+siihen keskusjärjestelmään, joka sähköisiä reseptejä käsittelee. Minulta jäi lapsen viikko-
+raha nostamatta, koska pankkiautomaatti ei saanut yhteyttä pankkiin. Minulta jäi junamat-
+ka käymättä, koska junalippuja ei voitu lipputoimistosta myydä järjestelmien sakatessa.
+Eduskunnan tietojärjestelmistä minä en tässä edes mainitse. Minusta on hirveän tärkeätä,
+että tämä uudistus tehdään, se on välttämätöntä tehdä. Mutta nämä kysymykset huoltovar-
+muudesta, tietoturvasta, toimivuudesta ja sen muokkautumiskyvystä ovat vakavia kysy-
+myksiä, ja tämä esitys ei niitä juurikaan käsittele. Minä toivon, että itse valmistelutyössä ne
+otetaan jatkossakin hyvin huomioon.
+
+14.22 Maria Tolppanen ps (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tässä koh-
+dassa täytyy sanoa, että tietenkin parempi myöhään, jos silloinkaan. Me tosiaan olemme
+jäljessä. Tämä huoltovarmuus on erittäin tärkeä asia, joka täällä tuli esille. Mutta se, mistä
+kannan kaikkein eniten huolta, on se, että meillä on lukuisa joukko ihmisiä, jotka eivät pys-
+ty käyttämään näitä sen takia, että he eivät saa sellaisia välineitä, joilla tunnistautua. Meillä
+on ihmisiä, joiden luottotiedot ovat menneet. He eivät saa pankkikorttia, he eivät voi pank-
+kikorttijärjestelmän kautta tunnistautua sisään palveluihin. Heillä on hyvin usein kyllä vä-
+lineet, joilla se voitaisiin tehdä, mutta he eivät pysty sitä tekemään. Tämä on asia, johon
+toivoisin, että tulisi jonkinnäköinen parannus. Pankit eivät esimerkiksi anna heille tänä päi-
+vänä edes seinäpankkikorttia. Se on kyllä aikamoinen puute tässä tietoyhteiskunnassa, et-
+tei edes rahaa pystyy seinästä nostamaan. Edes sen verran pitää ihmisiin luottaa ja auttaa
+ihmisiä ylöspäin siitä ahdingosta, mihin he ovat aika monessa tapauksessa tahtomattaan ja
+itse pyrkimättään joutuneet, eli luottorekisteristä.
+
+Puhemies Maria Lohela: Vielä edustajat Räsänen ja Krista Kiuru ja sen jälkeen ministe-
+rille vastausmahdollisuus.
+
+14.23 Päivi Räsänen kd (vastauspuheenvuoro): Arvoisa puhemies! Tämä esitys on todel-
+lakin myönteinen, ja tuo ministerin luova ajatus tai ehdotus siitä, millä tavalla tämä sähköi-
+nen tunnistautuminen pystytään näiden pankkitunnusten kautta jatkossa kaikille hoita-
+maan, on hyvä asia. Mutta kyllä tässä yhteydessä täytyy todeta se, että olemme paljon jäl-
+jessä naapurimaastamme Virosta. Näin jälkikäteen ajatellen meilläkin olisi pitänyt jo aiko-
+ja sitten ottaa käyttöön tämä pakollinen sähköinen henkilökortti, joka Virossa on käytössä
+ja joka on käytännössä mahdollistanut valtavan vahvan digitaalisen kehityksen Virossa
+sekä yrityksille että yksityisille henkilöille, mutta tätä pitää nyt viedä eteenpäin sinnikkääs-
+ti.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+14.24 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Minä myös itse pidän
+erittäin tärkeänä digitalisaation edistämistä, ja tässä on hyvä pohjaratkaisu tehty. Onnitte-
+len siitä ministeriä, että tämä avoin yhteiskunta pääsi mukaan eikä rajattu toimintaa vain
+valtion laitosten alle. Mutta ihmettelen kyllä tätä, kun samaan aikaan olisi nyt tärkeä tietää,
+missä viipyy se yhteinen koko Suomen portaali, jossa meidän kaikki palvelumme ovat
+koottuina. Kun viime hallituskaudella tätä asiaa valmisteltiin, asia oli tietysti vaikea, sen
+myönnän. Yksistään kaksi vuotta meni siihen, että me saimme tällaisen suomalaisen
+X-Roadin alkuun, niin kuin täällä edustaja Heinonen jo tätä asiaa kuvaili. Mutta nyt on kes-
+tänyt paljon pidempään: lokakuussa piti olla tämän Suomen X-Roadin valmis, ja nyt ele-
+tään kuitenkin huhtikuun loppua eikä vieläkään näy. Siltä osin minua kiinnostaisi tietää,
+missä ne konkreettiset toimenpiteet ovat, eli, ministeri, missä se X-Road viipyy, kun se oli
+melkein valmis jo viime kaudella, mihin se nyt on jäänyt?
+
+Puhemies Maria Lohela: Sitten ministeri Vehviläinen, 3 minuuttia.
+
+14.25 Kunta- ja uudistusministeri Anu Vehviläinen: Arvoisa puhemies! Edustaja Kris-
+ta Kiurulle: Me halusimme tehdä paremman alustan kuin Virossa oli otettu käyttöön, ja sitä
+odotettiin. Nyt viime joulukuun alussa tuli tämä beta.suomi.fi koekäyttöön. Se on koekäy-
+tössä, ei ole mitenkään myöhässä.
+
+Sitten kaksi näkökulmaa:
+Ensinnäkin vielä tähän tunnistautumiseen. Tässä edustaja Elomaa kysyi tätä aikataulua,
+
+ja se on oikein hyvä. Minä vielä toistan, jos kaikki eivät kuulleet sitä esittelypuheenvuo-
+rossani, mitä sanoin: kun tämä on todellakin ollut iso ongelma, että niin monella ihmisellä
+ei ole ollut mahdollisuutta saada näitä pankkitunnuksia syystä ja toisesta — minkä me
+kaikki tiedämme — ja heillä ei ole ollut mahdollisuutta tähän tunnistautumiseen, niin nyt
+on vireillä ja lausuntokierroksella sellainen lakiesitys, joka mahdollistaa sen, että jokaisel-
+la pankin asiakkaalla olisi mahdollisuus saada tämmöiset yleiskäyttöiset pankkitunnukset.
+Se on lausuntokierroksella, ja minun käsitykseni mukaan hallituksen esityksen pitäisi tulla
+vielä tänä keväänä eduskunnan käsiteltäväksi ja sitä kautta ensi syksynä tämän asian kun-
+toon. Minä pidän tätä kyllä hyvänä, jos me muutamassa kuukaudessa saisimme tämän
+asian ratkaistua.
+
+Sitten pikkusen sanon siitä, kun minäkin ennen vertasin aina kovasti, miten virolaiset te-
+kevät kaiken niin paljon nopeammin, ja minä olen heidän kanssaan myös keskustellut tästä
+asiasta. He ovat kyllä kieltämättä olleet sillä tavalla nopeampia, ripeämpiä ja vikkelämpiä,
+että he eivät ole aina vaatineet itseltään 110 prosentin onnistumista, kuten me yleensä vaa-
+dimme. Jos me kokeilimme, mikä vuosi meillä nyt olikaan ne kunnallisvaalit, 2008, säh-
+köistä äänestämistä, ja se epäonnistui, niin sen jälkeen me emme ole enää uskaltaneet sa-
+noa yhtään mitään sähköisestä äänestämisestä. Se kertoo vähän tämmöisestä meidän lute-
+rilaisesta otteestamme, että me olemme tosi vahvoja aina siinä, että kaiken pitää olla tree-
+nattu niin, ettei tule yhtään epäonnistumista. Me kaikki tiedämme, että on haavoittuvuutta
+ja kaikki ei aina pelitä. Se on tietysti se, mihinkä pitää kiinnittää huomiota, kuten täälläkin
+on siihen sanottu. Mutta sitten sen kiistän jyrkästi, että me tekisimme jotenkin huonom-
+man järjestelmän kuin Virossa. Jos minä otan nyt esille, mitä tämä meidän järjestelmämme
+mahdollistaa, niin tämä tulee mahdollistamaan toisen henkilön puolesta asioinnin, ja sitä ei
+ole Virossa. Tämä on minusta tärkeä uudistus, että toisen puolesta voi asioida. 
+7
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+Sitten otan vielä tämän — edustaja Räsänen otti tämän — miksi meillä ei tehty sitä val-
+tionjohtoista järjestelmää niin, että otetaan erillinen kortti. Se on vanhaa tekniikkaa kyllä.
+Ei sitä voida mobiilisti tai pädeiltä hoitaa. Me teemme nytten tämän tunnistautumisratkai-
+sun sillä tavalla, että sen pystyy tekemään kännykästä tai sen pystyy tekemään sieltä iPa-
+dilta, ja me saamme laajemmin ihmisille nämä sähköiset palvelut sitä kautta käyttöön.
+
+Puhemies Maria Lohela: Seuraavana sitten puhujalistalla edustaja Heinonen.
+
+14.28 Timo Heinonen kok: Arvoisa rouva puhemies! Ei tätä hallitusta tästä asiasta kyllä
+arvostella voi. Hivenen näitä puheenvuoroja kyllä ihmettelin. Tämä hallitus on asiassa ri-
+peästi toimeen ryhtynyt, ja ehkä ne arvostelut pitää suunnata edellisille hallituksille —
+onko se sitten edellinen hallitus vai jo sitä edellinen. Ehkä jossain siellä olisi niitä päätök-
+siä pitänyt tehdä, että olisimme olleet aivan etunojassa. Tästä asiasta on käyty hyvä debat-
+tikeskustelu, ja totesin siinä jo, että on parempi myöhään kuin ei milloinkaan, ja siitä kii-
+tosta ministeri Vehviläiselle, että tässä on toimeen nyt ryhdytty toden teolla, ja myös siitä,
+että me etsimme vielä parempaa mallia kuin ne, mitkä ovat olleet käytössä nyt muissa
+maissa.
+
+Toimiessaan sähköiset asiointipalvelut mahdollistavat asiakkaan itsepalvelun ajasta ja
+paikasta riippumatta, ja tämä on tärkeää tämän tyyppisessä maassa, missä me elämme, mis-
+sä on pitkät etäisyydet, ja tosiasia on sekin, että kaikkia palveluita ei enää nyt eikä tulevai-
+suudessa ole jokaisessa taajamassa, saatikka jokaisessa kylässä, ja matkat saattavat olla pit-
+kiä. Pitää kuitenkin muistaa ja huomioida sekin, että kaikilla ei aina ole omia laitteita ja yh-
+teyksiä, ja siten sähköisten palvelujen järjestämiseen liittyy myös käytön mahdollistami-
+nen järjestämällä esimerkiksi erilaisia asiakaspäätteitä vaikkapa kirjastoihin, yhteispalve-
+lupisteisiin, kauppakeskuksiin ja muihin, ja näistäkin kyllä meillä Suomessa jo hyviä esi-
+merkkejä löytyy.
+
+Isona asiana sähköiseen asiointiin liittyy myös asiakkaan tunnistaminen verkossa, ja täs-
+tä myös olemme jo täällä tänään käyneet keskustelua. Tunnistamisen osalta pitää kuiten-
+kin aina katsoa tarkasti ja arvioida tarkasti, miksi tunnistamista tarvitaan ja tarvitaanko si-
+tä. Niin sanotun yleisinformaation pitää jatkossakin olla luettavissa ilman, että ihmiseltä
+vaaditaan mitään tunnistautumista palveluun. Sähköisen asioinnin kehittämisessä pitää
+katsoa koko asiointiprosessia ja uudistamisen pitää lähteä, niin kuin tässä esityksessä läh-
+detään, kokonaisuudesta. Paras kehittämisen lopputulos saavutetaan, kun kehittämisessä
+huomioidaan aidosti ihmisen eli tässä tapauksessa asiakkaan tarpeet.
+
+Tässä hallituksen esityksessä käydään läpi eri maiden tilannetta, kerrotaan esimerkiksi
+Tanskasta, missä vuonna 2007 tehtiin poliittinen päätös digitaalisen kanavan ensisijaisuu-
+desta julkisissa palveluissa. Tämä käynnisti sähköisten palvelujen laajemman kehittämi-
+sen, ja Tanskan viranomaisten mukaan 85 prosenttia Tanskan väestön yli 15-vuotiaista on
+käyttänyt hallinnon sähköisiä palveluita viimeisen vuoden aikana. Viro on ollut keskuste-
+lussa myös esillä, ja siellä julkisen hallinnon sähköistämistä ohjaa vuonna 2014 perustettu
+hallituksen e-Viro-valiokunta, ja tätä valiokuntaa Virossa itse asiassa johtaa itse pääminis-
+teri. Myös pääministerivetoisesti asiassa on toiminut Iso-Britannia. Siellä pääministerin
+kanslian vastuulla on sähköinen hallinnointi. Nämä kuvaavat hyvin sitä, miten vakavasti ja
+tosissaan on eri maissa tämä sähköisen asioinnin toimivuus otettu. Myös Alankomaissa ta-
+voite on, että yritykset ja kansalaiset voivat asioida sähköisesti hallinnon kanssa vuoteen
+8
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+2017 mennessä, ja tämä tarkoittaa sähköisen palvelun ensisijaisuutta. Tässä muutamia esi-
+merkkejä, millä tavalla sähköinen asiointi eri maissa toimii.
+
+Viroon tuossa nopeatempoisessa keskustelussa viittasin, ja siellä kaikki sähköiset palve-
+lut, esimerkiksi lääkereseptit ja äänestäminen, toimivat X-Road-nimisen tiedonsiirtoväy-
+län kautta. Ja meilläkin — kun täällä hivenen arvosteltiin tätä nykyhallitusta, joka nyt on is-
+tunut vasta vuoden — vuonna 2013 linjattiin, että Suomessa sama ratkaisu tuodaan käyt-
+töön palveluväylä-nimellä. Hanketta johtava valtiovarainministeriö aikoo tuoda valtion ja
+kuntien palvelut palveluväylään mukaan vaikka pakolla, todettiin vuonna 2013, eli kyllä
+arvostelun kärki on hyvä suunnata mieluumminkin sinne kuin vaikkapa sitten ministeri
+Vehviläiseen, joka tässä on työtä tehnyt hyvin ja perusteellisesti.
+
+Tärkeää ja tavoiteltavaa on se, että jatkossa tästä kokonaisuudesta pitää löytyä verotta-
+jan, Kelan, maakunnan, kunnan, potilastietoarkiston, sähköisen reseptijärjestelmän palve-
+lut, eli niin, että yhden verkkosivuston kautta suomalaiset löytävät nämä palvelut helposti.
+Nykyisin sähköisten palvelujen tarjonta on nimittäin erittäin sekavaa, niin kuin täällä on
+esille tuotu. Verottajalla ja Kelalla tällä hetkellä jo voi monia asioita hoitaa alusta loppuun
+verkossa. Terveyspuolella sähköinen resepti ja potilastietoarkisto ovat käytössä, ja ne saa-
+daan kattaviksi lähiaikoina, mutta eri kunnilla sähköiset palvelut ovat hyvin kirjavia. Itse
+asiassa aika monessa kunnassa sähköinen palvelu tarkoittaa edelleen sitä, että netistä voi
+tulostaa lomakkeen mutta hakemus tulee jättää fyysisesti, eli se ei onnistu sähköisesti. Kyl-
+lä tämä on jotain muuta kuin 2010-lukua.
+
+14.34 Antero Laukkanen kd: Arvoisa rouva puhemies! Hieman hämmästyttää, että niin
+harva joukko edustajia on tänään paikalla täällä, kun on yksi ehkä tämän vaalikauden mer-
+kittävimpiä uudistuksia lähetekeskustelussa. Tämä uudistus onnistuessaan tulee edistä-
+mään kilpailua. Se tulee luomaan kustannustehokkuutta läpi koko Suomen. Se laitetaan tä-
+nään liikkeelle. Se tullaan analysoimaan valiokunnissa, tullaan kuulemaan asiantuntijoita,
+se tullaan käsittelemään täällä, ja varmasti siihen jää joitakin puutteita, joita sitten tulevilla
+laeilla vielä täydennetään.
+
+Mutta kaiken kaikkiaan onnittelut siitä, että nyt tämä valtiovarainministeriön ryhmä,
+joka lähes kaksi vuotta sitten tähän työhön asetettiin, on saanut tämän esityksen valmiiksi,
+ja aivan kuten täällä on jo todettu, edustaja Ala-Nissilän ei kannattaisi tässä nyt kiinnittää
+sitä terävintä huomiota niihin joihinkin puutteisiin, jotka ehkä tänne vielä ovat jääneet.
+
+Muutamia keskeisiä, hyviä asioita tästä: Ensinnäkin syntyy kansallinen palveluväylä,
+jota kohti nyt kaikki muut digitaaliset palvelut ohjataan. Tulee yhden luukun palvelujärjes-
+telmä. Tulee järjestelmä, jossa on selkeä vastuutus, jossa sekä tuottaja että raha ovat saman
+ohjauksen piirissä, selkeä digitaalinen arkkitehtuuri, johon yksityinen sektori voi tuottaa li-
+säpalveluita, ja syntyy kansallinen tulorekisteri, joka mahdollistaa muun muassa kristillis-
+demokraattien perustulomallin käyttöönoton — joka muuten on oikeasti ainoa toimiva
+malli, sillä se vapauttaa kaikista muista loukuista.
+
+Arvoisa puhemies! Tämän hallituksen esityksen tarkoituksena on koota kaikki olemas-
+sa olevat ja uudet hallinnon yhteisiä sähköisen asioinnin tukipalveluja koskevat säännök-
+set ehdotettuun lakiin, säätää tarkemmin palvelujen toiminnallisuuksista, palvelutuottajien
+vastuista ja tehtävistä sekä henkilötietojen ja muiden tietojen käsittelystä palvelujen tuot-
+tamiseksi. Lisäksi säädettäisiin velvollisuudesta ja oikeudesta käyttää yhteisiä palveluja,
+mikä on myös erinomaista.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+Aikanaan kotikaupunkiani Espoota moitittiin siitä, että jäimme ulkopuolelle tästä Apot-
+ti-hankkeesta, mutta yksi keskeisin syy siinä oli se, että tiesimme, että tällainen kansalli-
+nen väylämalli on tulossa ja on järkevämpää rakentaa jotain sellaista, laittaa rahat sitten sii-
+hen työhön, niin että olemme mukana tässä, mikä nyt tulee olemaan Suomen 2000-luvun
+ehkä suurin menestystekijä. Pidin tuota päätöstä myös järkevänä ja olen sitä tukemassa.
+
+Tämän valtiovarainministeriön ohjelman hankkeina olivat siis palveluväylä, kansalai-
+sen, yrittäjän ja viranomaisen palvelunäkymät, tunnistamisen malli sekä roolien ja valtuuk-
+sien hallinta. Ohjelmalle on laitettu päättymisaika 2017, eli oikeastaan pitäisi tässä minis-
+teri melkein kukittaa, koska olemme etuajassa ja tämä esitys tulee tässä nyt meille jo näin
+varhaisessa vaiheessa vaalikautta. Ohjelman ja sen hankkeet omistaa valtiovarainministe-
+riö. Operatiivinen toteutus on ajateltu Väestörekisterikeskukseen.
+
+Kaiken tämän takana ja ajatuksena on oikeasti digitalisaation läpimurto suomalaisessa
+yhteiskunnassa. Pidän myös erittäin hyvänä sitä, minkä ministeri tässä nosti esille äsken
+vastauspuheenvuorossaan, että tämä malli valmistuessaan on parempi kuin Viron malli.
+Sitä Viron mallia on tutkittu ja pohdittu, ja siellä on käynyt jos jonkinnäköistä ryhmää kat-
+selemassa ja tutustumassa. Sieltä ovat tohtorit käyneet täällä meille esittelemässä sitä, ja
+tämä on parempi versio. Näin pitääkin olla, ja siihen Suomi pystyy varmasti. Hyvä olisi, jos
+tähän vielä saataisiin nämä karttapalvelut kytkettyä jollakin tavalla mukaan, jotta sitten se-
+kin helpottaisi sen käyttöä.
+
+Ehkä vielä sellaisen asian totean, että mitä tulee näihin tunnistamispalveluihin ja niiden
+tietoturvariskeihin, niin toivon, että valiokunta sitten nämä ottaa erityisesti huomioon, kun
+tätä käsitellään, koska nämä tietoturvariskit eivät ole mikään pieni asia. Silloin kun kaikki
+tulee ikään kuin yhteen kekoon, niin niiden merkitys vielä korostuu.
+
+Kaiken kaikkiaan kiitos tästä hyvästä valmistelusta ministerille.
+
+14.40 Merja Mäkisalo-Ropponen sd:  Arvoisa puhemies! En ennättänyt tutustua tähän
+lakiesitykseen kovin perusteellisesti ja siksi en pysty kovin syvällisesti ottamaan kantaa tä-
+hän lakiesitykseen, mutta esityksen tavoitteet ovat kyllä erinomaiset. Ilmaisen kuitenkin
+huoleni siitä, ettei kaikkia digitaalisia palveluja ole Suomessa perinteisesti kehitetty asia-
+kaslähtöisesti vaan nimenomaan teknologia edellä. Vaikka lakiesityksen yleisperusteluis-
+sa sivulla 15 sanotaan, että asiakaslähtöisyys on ollut keskeistä, niin ei se ainakaan kansa-
+laisten näkökulmasta näin ole ollut. Eli hyvin paljon tulee palautetta siitä, että on vaikeata
+käyttää sähköisiä palveluita ja sinne on hankala mennä ja siellä on hankala toimia.
+
+Digitaaliset palvelut ovat hyvin harvoin esteettömiä, ja siitä erityisesti annan kiitoksen
+tässä lakiesityksessä, että täällä on huomioitu tämä digitaalinen esteettömyys ja tässä on ol-
+lut valmistelussa mukana myös esteettömyyden asiantuntijoita. Toivon, että jatkossakin
+tästä esteettömyydestä huolehditaan yhtä hyvin. Meillähän on semmoinen tilanne, että es-
+teettömyydestä puhutaan paljon mutta hyvin harvoin muistetaan, että esteettömyys tarkoit-
+taa kaikkien aistien esteettömyyttä, ja esimerkiksi digitaalisuutta kehitettäessä tämä asia on
+usein jäänyt lapsipuolen asemaan.
+
+Arvoisa puhemies! Sähköiset palvelut ja digitalisaatio on erinomainen ja kannatettava
+asia, jota on systemaattisesti kehitettävä ja vietävä yhteiskunnassamme eteenpäin. Mutta
+tämän rinnalla usein unohtuu, etteivät sähköiset palvelut voi korvata aina henkilökohtaista
+palvelua, ohjausta ja neuvontaa. Eilen täällä salissa puhuttiin työttömyyden hoidosta ja
+työllisyystoimista, ja nyt esimerkiksi te-toimistothan ovat lisänneet huomattavasti sähköis-
+tä asiointia, ja tämä on tarkoittanut myös henkilöresurssien vähentämistä. Tämän johdosta
+10
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+edes nuoret, vasta valmistuneet henkilöt eivät välttämättä pääse henkilökohtaisen avun ja
+tuen piiriin. He saattavat joutua odottamaan asiantuntijan tai virkailijan luo pääsemistä
+jopa monta kuukautta. Minun mielestäni nuoret jätetään jopa heitteille, sillä nuorilla ei ole
+työmarkkinaosaamista ja -kokemusta eivätkä he pysty ilman ohjausta toimimaan työmark-
+kinoilla tai toimimaan verkossa työnhakijoina, vaikka heillä on erinomaiset tekniset taidot
+ja muuten kyky toimia digitaalimaailmassa. Näissä tilanteissä pelkät sähköiset palvelut ei-
+vät riitä, ja tämä pitäisi aina tässä sähköisten palvelujen kehittämisen rinnalla muistaa.
+
+Meillä on monia muitakin kansalaisryhmiä, joita ei saisi jättää pelkästään sähköisten
+palvelujen varaan, ja tästä asiastahan on muun muassa Valtion tarkastusviraston vuosiker-
+tomuksessa viime vuonna esitetty erittäin kriittinen näkökulma, että emme syrjäyttäisi ih-
+misiä palveluista kokonaan. — Kiitos.
+
+14.43 Jyrki Kasvi vihr: Arvoisa puhemies! Tämä hallituksen esitys on enemmän kuin
+tervetullut. Valitettavasti julkishallinnon sähköisen asioinnin taustapalveluiden kokonai-
+suus otetaan hallintaan ja sähköisille palveluille luodaan yhteinen palveluväylä vasta nyt
+eikä jo vuosia sitten, sillä kuten ministeri Vehviläinen totesi, näiden tukipalveluiden sirpa-
+leisuus ja siiloutuneisuus ovat haitanneet ja hidastaneet sähköisten palveluiden kehitystä.
+Jokainen julkinen sähköinen palvelu on jouduttu rakentamaan alusta alkaen erikseen tun-
+netuin tuloksin. Eli jos hallitus jostain ansaitsee kiitoksen, niin siitä, että tämä esitys on
+edennyt tämän hallituksen aikana ripeästi. — Aiemmin heräsi jo epäilys, ettemme saa edes
+Virosta ilmaiseksi saamaamme X-Road-palveluväylää toimimaan täällä Suomessa ollen-
+kaan.
+
+Mutta se on näin oppositiosta todettava, että kyllä tämä esitys voisi rohkeampikin olla.
+Käytännössähän tämä organisoi olemassa olevat tukipalvelut yhtenäiseksi kokonaisuudek-
+si, mutta ei muuten uudista tai digitalisoi meidän julkisten palveluidemme tuotannon ra-
+kenteita ja prosesseja. Luotan ja toivon, että tämä esitys on vasta ensimmäinen vaihe laa-
+jemmalle uudistukselle, perustan rakentamista julkisten palveluiden radikaalille digitali-
+soimiselle.
+
+Kokonaisvaltaisemman muutoksen tarve käy hyvin ilmi esityksen yleisperusteluissa ku-
+vatuista alan kansainvälisestä kehityksestä. Edelläkävijämaissa on jo pitkään uskallettu
+viedä julkishallinnon digitalisaatiota eteenpäin paljon Suomea rohkeammin, jopa ronskim-
+min. Esimerkiksi Tanskassa sähköinen asiointi on jo vuosien ajan ollut ensisijainen toimin-
+tatapa, ja kaikilla tanskalaisilla on oltava digitaalinen postiosoite. Sekä kansalaiset että yri-
+tykset on lailla velvoitettu asioimaan viranomaisten kanssa vain sähköisesti. Vain 10 pro-
+sentille tanskalaisista on myönnetty esimerkiksi terveyssyistä erivapaus, joka antaa heille
+edelleen oikeuden asioida viranomaisten kanssa paperipostilla.
+
+Vastaavasti Virossa sähköinen tunnistaminen onnistuttiin ottamaan käyttöön jo yli vuo-
+sikymmen sitten, toisin kuin Viron vanhan HST-kortin tekniikan alkujaan kehittäneessä
+Suomessa — olin itse yksi korttien koekäyttäjistä 1980-luvulla Otaniemessä. Viro onnis-
+tui, koska sähköinen henkilökortti säädettiin pakolliseksi kaikille Virossa vakituisesti asu-
+ville henkilöille samalla kertaa, kun kaikki viranomaiset velvoitettiin käyttämään sähköis-
+tä henkilökorttia ensisijaisena tunnistautumis- ja allekirjoitusvälineenä. Käytännössä pe-
+rinteiset paperidokumentteihin perustautuvat tunnistautumistavat sekä kynällä paperille
+kirjoitettu allekirjoitus katosivat Virossa nopeasti käytöstä. Palvelutuotannon kustannuk-
+set laskivat, samalla kun kansalaisten palvelukokemukset paranivat. Silti ymmärrän hyvin
+hallituksen rohkeuden puutteen. Voin vain kuvitella, millaisen itkupotkuraivarin koko
+11
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+Suomi saisi, jos hallitus uskaltaisi ehdottaa Suomessa jotain yhtä radikaalia, meistä kan-
+sanedustajista nyt sitten puhumattakaan.
+
+Arvoisa puhemies! Täällä on tänään kannettu paljon huolta niistä suomalaisista, joilla ei
+ole esimerkiksi sähköisiä pankkitunnuksia. On aivan totta, että tähän asti pankkien tunnis-
+tautumispalvelut ovat olleet kriittisiä myös julkisille palveluille. Näin ei kuitenkaan välttä-
+mättä ole enää kovin pitkään. Ensinnä pankkien Suomessa käyttämät tunnistautumispalve-
+lut ovat jo vanhoja, eivätkä niiden käytettävyys ja turvallisuus ole enää vuosiin ollut samal-
+la tasolla kuin esimerkiksi Virossa käytettävällä kansallisella tunnistautumisella. Lisäksi
+koko pankkiala käy läpi rajua digitaalista murrosta. Suomessakin toimii jo kansainvälinen
+kuluttajaverkkopankki, jolla ei ole konttoreita lainkaan vaan kaikki asiointi tapahtuu ver-
+kossa ja pääosan palveluista tuottavat algoritmit. Koska tällaisilla verkkopankeilla ei ole
+kiinteistö- eikä henkilöstökuluja ja ne on helppo skaalata koko Euroopan laajuisiksi, nii-
+den tileillä ja lainoilla on paljon paremmat korot kuin perinteisillä pankeilla. Eli perinteis-
+ten pankkien varaan ei julkisten palveluiden tunnistautumista kannata perustaa, ei aina-
+kaan kovin pitkällä tähtäimellä.
+
+Arvoisa puhemies! Toinen kansainvälisessä vertailussa esiin nouseva ero Suomen ja
+edelläkävijämaiden välillä on digitalisaation johtaminen. Suomessa ei kukaan eikä mikään
+päätoimisesti ohjaa julkishallinnon sähköisten palveluiden ja tiedolla johtamisen kehittä-
+mistä saati kansallista tietoyhteiskuntakehitystä. Digitalisaatiolla ei ole Suomessa omista-
+jaa, jolla olisi riittävät valtaoikeudet ohjata ja kirittää kehitystä yli hallintorajojen. Esimer-
+kiksi Isossa-Britanniassa sähköisen hallinnon kehittäminen on suoraan pääministerin kans-
+lian vastuulla. Tämä mahdollisti esimerkiksi Ison-Britannian valtionhallinnon tietovaran-
+tojen nopean avaamisen yleiseen käyttöön. Aikaa ministeriöille ja valtion laitoksille annet-
+tiin vain 18 kuukautta, 18 kuukautta saa suorittaa. Kun myös Suomessa sitten myöhemmin
+lopulta päätettiin avata julkisia tietovarantoja, alkoi se perinteinen suomalainen itkuvirsi
+lisämäärärahoista ja siirtymäajoista.
+
+Arvoisa puhemies! Toki sähköisten palveluiden ja hallinnon kehittämisessä on kyse
+myös resursseista. Esimerkiksi Etelä-Koreaan vuonna 1987 perustetulla kansallisella Tie-
+toyhteiskuntavirastolla on palkkalistoillaan pelkästään tutkijoita 430 kappaletta. Jotain
+Etelä-Korean asenteesta kertoo myös tänä kesänä voimaan tuleva laki, jolla kumotaan
+joukko uusien digitaalisten palveluiden kehittämistä ja kokeilemista mahdollisesti haittaa-
+via lakeja Busanin Haeundaen kaupunginosassa, jossa on sellaiset 423 000 asukasta. Jos
+hallitus harkitsee vastaavan koealueen perustamista Suomeen, voin ilmoittaa Espoon kau-
+pungin vapaaehtoiseksi, vaikka eihän meillä ihan yhtä montaa asukasta olekaan.
+
+14.50 Arja Juvonen ps: Arvoisa rouva puhemies! Kyllähän se on niin, että digitalisaatio
+on päivän sana, ja tämä hallituksen esitys etenee ripeästi, ja sillä on tarkoitus nopeuttaa
+asiointia. Sähköinen asiointi on ripeää, ja sillä tavalla asiat hoituvat hyvin.
+
+Täällä on puhuttu myös Viron mallista ja verrattu siihen. Minusta on hyvä, että me
+luomme myös omaa mallia emmekä aina hae sitä mallia muualta emmekä varsinkaan ke-
+hitä samanlaisia malleja, vaan ollaan rohkeita ja lähdetään reippaasti myös ja uskalletaan
+tehdä omia ratkaisuja. Se on tärkeää, että tätäkin esitystä viedään asiakaslähtöisesti eteen-
+päin ja huomioidaan ne ihmiset, jotka eivät välttämättä niin helposti sulaudu tähän sähköi-
+seen maailmaan vaan tarvitsevat ehkäpä enemmän sitä neuvontaa ja ohjausta. Kaikilla ih-
+misillä ei ole tietokoneita ja mobiililaitteita siihen tarkoitukseen, ja kirjastot ovat yksi sel-
+lainen paikka, jossa sitten ihmiset käyvät hoitamassa asioitaan. Onkohan koskaan muuten
+12
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+tutkittu sitä asiaa, kuinka paljon kirjastoissa hoidetaan sähköisiä asioita, kuinka paljon siel-
+lä toteutetaan juuri näitä asioita? Tiedän, että on paljon nuoria ja niitä ihmisiä, joilla ei ole
+mahdollisuutta eikä varallisuuttakaan ostaa laitteita.
+
+Esitys on hyvä ja kannatettava, ja todellakin asiakaslähtöisesti viedään eteenpäin ja
+muistetaan, että ihminen on se, joka sitä konetta käyttää, ja kaikki muu tulee sitten siinä pe-
+rässä, ja että kun nettiyhteys menee poikki vaikkapa tuolla jossakin metsän keskellä, niin
+silloin katkeaa yhteys ja siihen jää se sähköisen maailman käyttäminen.
+
+14.52 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Nyt käsittelyssä oleva hallituk-
+sen esitys on mielestäni erittäin hyvä ja sopii tähän meidän aikaamme erinomaisesti. Se,
+että Suomi on näissä sähköisen tiedonkäsittelyn ja asioinnin palveluissa jäänyt selkeästi
+taka-alalle verrattuna esimerkiksi edustaja Jyrki Kasvin mainitsemaan Viroon, eteläiseen
+naapuriimme, on surullinen asia, mutta se ei tietenkään tarkoita sitä, että meidän pitäisi nyt
+tässä tilanteessa jäädä itkemään kovaa kohtaloamme, vaan pitää empimättä lähteä sille tiel-
+le, jossa nämä sähköiset palvelut ja sähköinen asiointi mahdollistetaan koko maassa.
+
+On tärkeää, että saadaan koottua kaikki yhteen lakiin — se, miten tämä alusta tälle pal-
+velulle, sähköiselle asioinnille, rakennetaan — ettei sitten tule tätä edustaja Kasvin mainit-
+semaa Korea-ilmiötä. Siellähän on viisaasti toimittu, kun lailla on kielletty kaikki muu
+tämmöinen toiminta, että päästään rakentamaan yhteistä alustaa. Näinhän se tulee tehdä,
+että meillä julkiset palvelut järjestetään tulevaisuudessa niin, että ne ovat yhden alustan alla
+ja se saatavuus rakennetaan sille samalle järjestelmälle, mikä on viisautta. Samalla var-
+maan tämä tietoturvakin pystytään takaamaan. Pitää muistaa, että pankeillahan on tämä ny-
+kyinen suojajärjestelmä tunnuslukuineen ja muine tunnistuskeinoineen, mutta ilmeisesti
+tämäkin on jo vanhanaikaista, niin että saamme vieläkin parempia, turvallisia systeemejä
+tähän maahan rakennettua.
+
+Tärkeää on kuitenkin se, että sähköinen palvelu järjestetään niin hyvin toimivaksi, että
+me todella pystymme siitä hyötymään. Hallitusohjelmassahan yhtenä tärkeänä osana on
+tämä digitalisointi, mikä on ilolla tervehdittävä asia. Mutta digitalisointikaan ei pelaa, jos
+emme saa järjestelmiä aikaiseksi, viilattua sillä keinoin, että esimerkiksi verotukseen liit-
+tyvät asiat ja monet muut asiat pystytään hoitamaan verkossa. Esimerkiksi nyt menossa
+oleva sote-uudistus, sosiaali- ja terveyspalvelu-uudistus — kaikki tällaiset palveluthan tu-
+levaisuudessa siirtyvät verkkoon. Se vanha hyvä esimerkki siitä on se, että kun ihminen
+menee terveyskeskukseen ja hänestä otetaan vaikka se röntgenkuva, niin se hetkessä voi-
+daan lähettää vaikka toiselle puolelle maapalloa, jos asia vaatii, erikoislääkärin tarkastetta-
+vaksi, onko kuvassa mitään erikoista, ja sen jälkeen potilas saa nopean palvelun ja avun
+sairauteensa.
+
+Eli tässäkin mielessä tämä hallituksen esitys on erittäin hyvä ja kannatettava. Toivon
+mukaan Suomessa riittää nyt viisautta ja järkeä siihen, että pystymme nämä rönsyilevät eri-
+laiset palvelut kokoamaan todellakin yhteen ja saamaan yhden yhteisen ja toimivan järjes-
+telmän, jolla suomalaisten palvelut saadaan kuntoon. Tähän kuuluu olennaisena osana
+mielestäni myös se — vaikka tässä laissa sitä ei varmaan säädetäkään, mutta se on taas sit-
+ten elinkeinopolitiikkaa, ja toivon, että siinä työ- ja elinkeinoministeriö myös Euroopan
+unioniin päin saisi aikaan sellaiset päätökset ja määrärahavarauksen — että pystyttäisiin
+nopeat laajakaistayhteydet rakentamaan koko Suomeen. Perustuslakimme mukaan kansa-
+laisethan ovat tasa-arvoisia toisiinsa nähden, ja on pyrittävä järjestämään palvelut niin, että
+ne toimivat tietenkin täällä Helsingissä mutta yhtä lailla Utsjoella taikka jossakin Nuorga-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+missa taikka vaikka Pellossa ja Ilomantsissa, niin että ei tämä meidän verkko rajoita sitä
+luotavien uusien, hienojen palvelujen käyttöä. 
+
+Nythän meillä on todella Suomi jaettu kahteen osaan: osalla alueista palvelut pelaavat
+erinomaisesti ja toisilla alueilla juuri eivät ollenkaan. Tässä asiassa olemme jääneet ikävä
+kyllä taka-alalle, ja toivon hartaasti, että elinkeinoministeriö tässä asiassa on aktiivinen, ja
+ennen kaikkea, että eduskunta ottaa tässä härkää sarvista ja varaa rahaa budjettiin ja seu-
+raaviin lisäbudjetteihin ja seuraava hallituskin, joka tämän hallituksen jälkeen aikanaan
+aloittaa sitten, ottaa tämän asian vakavasti. Jos emme saa nopeita laajakaistayhteyksiä toi-
+mimaan tässä maassa, se tarkoittaa käytännössä sitä, että jäämme myös markkinoilta si-
+vuun, ja se viennin lisäyksen tavoitekin, millä Suomi nostetaan tästä laman suosta ylös, jää
+toteutumatta, jos me emme saa näitä tietoverkkojärjestelmiä tässä maassa kuntoon.
+
+14.56 Kimmo Kivelä ps: Arvoisa rouva puhemies! Vaikka sanotaan, että tikulla silmään
+sitä, joka menneitä muistelee, ja kun puhutaan tässä, että Suomi on it-teknologiassa nimen-
+omaan julkishallinnossa jäänyt jälkeen, niin kyllä yksi merkittävä osa sitä on, että Valtion
+tietokonekeskus ajettiin alas ja oma osaaminen hävisi ja sen jälkeen on oltu riippuvaisia
+markkinavoimista. Siirryttiin konsulttidemokratiaan, joka on osannut rahastaa. Tämä on
+nytkin haaste, että näin ei käy, kun puhutaan hallitusohjelmassakin voimakkaasti digitali-
+saatiosta. Hyvä uutinen ei myöskään ole, mitä tänään on uutisoitu, että valtiovarainminis-
+terin JulkICT-osaston työilmapiiri on tulehtunut ja selviä kriisiytymisen merkkejä siellä on
+työtyytyväisyysbarometrissa mitattu. Tämä kaikki vaikeuttaa tavoitteellista työskentelyä.
+
+Täällä on, rouva puhemies, monessa puheenvuorossa viitattu Viroon. Viro on hyvä esi-
+merkki, mutta se ei välttämättä, niin kuin täällä on aivan oikein todettu, ole ehdoton malli.
+Viro lähti rakentamaan järjestelmää tyhjästä vuonna nolla. Meillä on kuitenkin historiaa ja
+kokemusta, mutta valitettavasti meillä on kielteisiä kokemuksia. Nyt pitää saada todella-
+kin uusi ryhti. Toivon ministerille menestystä tässä työssä. Nyt tuntuu, että ote on oikea.
+
+14.58 Ville Vähämäki ps: Arvoisa puhemies! Tästä kansallisesta palveluväylästä haluai-
+sin nostaa esille muutaman nettisivun, jotka siihen läheisesti liittyvät. Siis itse tämä palve-
+luväylähän on tiedonvälityskonsepti, joka toimii välitysalustana, kun halutaan suojattuja ja
+vakioituja tietoja välittää, ja sitä voivat käyttää ne kaikki, jotka siihen ovat liittyneet, eli sil-
+lä kansalainen ja julkinen digitaalinen palvelu yhdistetään toisiinsa. Pääteesit siinä ovat
+löytyvät tietenkin digisuomi.fi-sivuilta, missä on yhdeksän pääteesiä, jotka on kysytty kan-
+salaisilta. Ne on julkaistu viime syksynä. Näitä on muun muassa se, että palvelulla on
+omistaja, käytetään avointa tietoa ja aukaistaan tietoa, käytetään nykyistä tietoa ja hyödyn-
+netään nykyisin jo olemassa olevia palveluita, saadaan asiakkaalle nopeasti hyötyä. Palve-
+lujen kuuluu olla helppokäyttöisiä ja asiakaslähtöisiä, sekä ensisijaisesti keskitytään säh-
+köisiin palveluihin.
+
+Sitten haluan nostaa esille muutamat muut nettisivut, missä tätä kansallista palveluväy-
+lää oikein käsitellään: confluence.csc.fi — se on kehittämissivusto, siellä on kaikki doku-
+mentointi — sitten tämä esuomi.fi-sivusto, se on tämän palveluväylän viestintäkanava, ja
+itse tämä palveluväyläsivusto, beta-vaiheessa oleva, on beta.suomi.fi. Näiltä neljältä sivus-
+tolta löytyvät ne pääteesit koko tähän kansalliseen palveluväylään, ja näitten avulla kansa-
+lainen ja myöskin kansanedustaja saa kaiken mahdollisen tiedon siitä, mikä tämän asiain
+tila oikein on ja missä ollaan menossa.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+15.00 Eero Lehti kok: Arvoisa rouva puhemies! Oli ilo kuunnella edustaja Kasvin pu-
+heenvuoroa. Siinä oli konkreettisesti kaikki ne ongelmat, jotka tähän tilanteeseen liittyvät,
+käsitelty asiallisesti. Ehkä tässä nyt kuitenkin vähän helpottaa tämän tuhkan ripottaminen
+päälle, kun arvioi yhdysvaltalaisia järjestelmiä, joissa sekki on tunnettu maksuväline ja
+noin sata suihkulentokonetta siirtää ne clearing-keskukseen, jossa pankit vaihtavat toisten-
+sa sekkejä keskenään — kuitenkin se on tietotekniikan johtava valtio noin kaiken kaik-
+kiaan. 
+
+Tästä Viron esimerkistä — edustaja Kivelä täällä sen totesi — kun nollasta lähdetään,
+niin on helppo rakentaa. Ja vastaavasti Suomessa voi katsoa tätä potilastietojärjestelmää:
+jokainen mahdollisesti mukaan tuleva organisaatio alkaa osaoptimoida, lähteekö milloin
+mukaan vai alkaako vetkuttaa ja minkälaista viivyttelyä tekee. Kansallisesti voisi sanoa,
+että viimeistään nyt piti lähteä mukaan, mutta myös voisi sanoa valtion ylimmälle johdol-
+le, että laiminlyönti regulaatiossa ja koordinaatiossa on maksanut varmaan Suomelle ehkä
+10—20 miljardia.
+
+15.02 Tarja Filatov sd: Arvoisa puhemies! Valtion tarkastusvirasto arvioi ihan tässä vas-
+ta nykyisiä sähköisiä palveluitamme, ja tuo raportti ei ollut mitenkään mairittelevaa luetta-
+vaa. Se osoitti sen, että kalliiksi on tullut ja palvelut eivät ole olleet ihan sitä, mitä niiden
+olisi pitänyt. Siksi on erittäin tervetullutta, että tämä laki on tullut nyt eduskuntaan.
+
+Yksi kritiikin paikka siinä oli tämä siiloutuneisuus. Itse uskon, että tällä alustalla, mitä
+nyt rakennetaan, on mahdollista päästä eteenpäin näistä siiloutuneista palveluista. Mietin
+vaikkapa sitä, että meillä puhutaan paljon kannustinloukuista ja meillä verottajalta löytyy
+se, että voit laittaa tietosi ja arvioida sen, paljonko sinun verosi tulee olemaan näillä ja näil-
+lä luvuilla, ja meiltä löytyy laskureita, joilla voi arvioida vaikkapa sitä, millainen työttö-
+myysturva tulee olemaan tietyillä palkkatuloilla, mutta sitten, kun pitäisi löytyä appsi, joka
+kertoo, mitä tapahtuu asumistuelle, palkkatuloille ja työttömyysturvalle, sitäpä ei enää löy-
+dykään. Mielestäni valtion intressissä pitäisi olla sen, että meillä löytyisi myös näitä ristiin
+ajettavia järjestelmiä, jotka kertoisivat asiakkaalle sen, mitä tapahtuu, jos hän käyttäytyy
+tietyllä tavalla. Nyt kun tiedän, että ministeri on ollut aktiivisesti tekemisissä myös tämän
+perustulokokeilun kanssa, niin toivoisin, että sinne tulisi myös nimenomaan tätä kehitys-
+työtä, koska vaikka me kuinka muutamme lakeja, niin jos ihmiset eivät pysty ennakoi-
+maan omassa elämässänsä niiden taloudellisia seurauksia, niin me emme tavallaan pärjää
+sillä lainsäädännön muutoksella, koska vanhat mielikuvat elävät.
+
+Mutta sitten, jos ajatellaan tätä asiakaslähtöisyyttä, siitähän me saimme kiitosta siinä
+mielessä, että meillä on tehty näitä käyttäjälähtöisiä testejä ja muita, mutta usein vasta liian
+myöhäisessä vaiheessa. Oleellista olisikin se, että osaisimme miettiä paremmin, kenelle
+tuo palvelu tehdään. Usein on lähdetty siitä, että digitalisaatio on ikään kuin sen viraston tai
+hallinnon toimijan tai julkisen toimijan säästöä palvelujen tarjoamisvelvoitteessa. Silloin
+lähtökohta on ollut enemmän hallintokeskeinen, kun sen pitäisi olla asiakaskeskeinen:
+Mitä lisäarvoa tuo palvelu tuo asiakkaalle? (Puhemies koputtaa) Miten se voi palvella pa-
+remmin? Silloin pitäisi myös miettiä, (Puhemies koputtaa) minkälainen tuo konsepti koko-
+naisuudessansa on. (Puhuja siirtyi puhujakorokkeelle.)
+
+Arvoisa puhemies! Anteeksi, ei mennyt ihan niin nopeasti kuin olin ajatellut. — Ylipää-
+tään jos mietitään, miten nämä palveluketjut toimivat, jotenkin toivoisi, että meillä pääs-
+täisiin irti siitä, että liian usein laitetaan se vanha paperikaavake sinne nettiin ja ajatellaan,
+että se on digitaalista palvelua. Kuitenkin pitäisi miettiä kokonaan uudenlaista konseptia:
+15
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+sitä, kenen tarpeisiin ja millä eväillä ja mitä muuta asiaa voidaan samalla tässä järjestel-
+mässä palvella. Ylipäätään on hyvä, että tätä tämmöistä kokonaista konseptia kehitetään,
+mutta jotenkin toivoisin, että tässä yhteydessä meillä olisi joku uudelleenajattelu: kun vaik-
+kapa ne työvoimapalvelut usein saavat kritiikkiä siitä, että ne ovat netissä ja ihmiset eivät
+saa enää tavata työvoimaneuvojia ja sieltä ei saa sitä palvelua, minkä haluaisi, niin miksi
+sitten Tinder-treffit toimivat? Eikö voisi ajatella, että jos ihmisten kohtaamissysteemeitä
+kehitetään, niin otettaisiinkin rohkeammin käyttöön niitä ajatuksia, joita täällä sosiaalisen
+median tai kaupallisten palveluiden puolella on ollut, ja joskus hieman luistettaisiin siitä
+ikään kuin viranomaislähtöisestä ajattelusta, joka sitten voisi toimia jossakin vähän jäy-
+kemmässä muodossa, mutta olisi myös niitä menetelmiä, joilla kevyemmin voisi saada
+kohtaamisia vaikkapa sitten siellä työnvälityksessä. Yksityisellä puolella näitä on jonkin
+verran kehitetty, mutta koska siellä on niin vähän toimijoita, niin ne eivät palvele ikään
+kuin laajoja työmarkkinoita.
+
+Tämä vain yhtenä ajatuksena työhallinnon puolelta, jonka parhaiten tunnen. Toivon mi-
+nisterille menestystä siinä, että myös tämän lain toimeenpanossa ja jatkovalmistelussa ol-
+taisiin valmiita käyttämään luovuutta eikä ainoastaan sitä perinteistä viranomaistarkkuut-
+ta, koska molempia tarvitaan.
+
+Puhemies Maria Lohela:  Edustaja Kurvinen. — Anteeksi, edustaja Kurvinen, siinä oli
+edustaja Elovaaran nimi pudonnut pois, mutta palautui nyt listalle. — Edustaja Elovaara.
+
+15.06 Tiina Elovaara ps: Kiitos, puhemies, näin pääsi tosiaan käymään.
+Arvoisa puhemies! Hallituksen tavoite viedä digitalisaatiota eteenpäin on tärkeä tavoi-
+
+te. Se tuo mukanaan mahdollisuuksia, mutta myönteisestä kehityksestä voi myös syrjäy-
+tyä. Yksi tällainen syrjäyttävä tekijä on vanhuuteen liittyvä muistisairaus. Myös työikäisil-
+lä ihmisillä on yhä enenevässä määrin havaittu muistihäiriöitä. Nämä aiheuttavat kustan-
+nuksia valtiolle, yrityksille ja asiakkaille.
+
+Pankit, televiestintäyhtiöt ja energiayhtiöt hyödyntävät e-laskupalveluita, ja näille ta-
+hoille e-laskupalvelut tuovat säästöjä. Kuluttajan kannalta taas erityisesti verkkopankit
+ovat avainroolissa. Muistisairauksista kärsiville palveluiden käyttöönotto tai käyttö voi
+osoittautua hankalaksi tai mahdottomaksi. Yhdenvertaisuusperiaate edellyttää sekä kansa-
+laisten kohtelua samalla tavalla että samojen mahdollisuuksien tarjoamista. E-laskuista ei
+yleisesti ottaen peritä erillistä maksua. Sen sijaan paperilaskujen kohdalla hinnat vaihtele-
+vat. Halusin vain tuoda tämän keskustelun yhteydessä esiin tämän seikan, koska olen huo-
+lissani siitä, että muistisairaat ja vanhukset, joilta peritään laskuista erillistä maksua, aset-
+tuvat epätasa-arvoiseen asemaan. Toivon, että valtionhallinto ja hallitus ottavat myös täl-
+laisen näkökulman huomioon.
+
+15.07 Antti Kurvinen kesk: Arvoisa rouva puhemies! Se on hyvä, että täällä salissakin on
+"naiset ensin", se on hyvä periaate.
+
+Ihan joitakin ajatuksia tähän keskusteluun yhteiskunnan digitalisaatiosta ja sähköisistä
+palveluista. Tätä keskustelua on vaihteeksi ollut ihan miellyttävää kuunnella ja seurata.
+Täällä on aika lailla ollut sellainen yhteinen henki yli hallitus- ja oppositiorajojen ja ryh-
+märajojen siitä, että meidän pitää tässä edetä ja meidän pitää saada säästöjä aikaan, luoda
+parempia palveluita ihmisille ja ehkä luoda bisnesmahdollisuuksiakin yksityiselle sektoril-
+le. Valitettavasti Suomi, joka oli vielä 1990-luvulla niitä maailman parhaimpia tietoyhteis-
+16
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+kuntia, on jäänyt pahasti tässä informaatio- ja tietoyhteiskuntakehityksessä jälkeen. Jos
+vaikka katsoo Viroon, meidän eteläiseen naapuriimme, heillä on ollut kunnianhimoa, unel-
+mia ja haaveita ja he ovat toteuttaneet niitä paljon eteenpäin, olleet joustavia ja luovia. Toi-
+vottavasti mekin saamme vähän sellaista henkeä.
+
+Arvoisa puhemies! Tahdon kiinnittää huomiota sellaiseen asiaan, että meillähän olisi
+tunnistautumiseen olemassa helppo väline, mikä suurimmalla osalla suomalaisista on,
+mutta ei valitettavasti kaikilla, nimittäin pankkien verkkopankkitunnukset, joita paljon jo
+nytkin hyödynnetään. Mutta tosiasiahan on se, että kaikki ihmiset eivät taloustilanteestaan
+tai velka- ja maksuhistoriastaan johtuen verkkopankkitunnuksia saa. Tässä kohtaa tah-
+toisinkin vedota ihan meidän finanssialaamme ja meidän pankkisektoriimmekin, että mie-
+tittäisiin niitä pankkien käytäntöjä, kenelle annetaan verkkopankkitunnuksia. Uskon, että
+se olisi myös rahoitusalan etu, jos meillä olisi entistä kätevämpi ja selkeämpi tapa päästä
+eri sähköisiin palveluihin ja päästä erilaisille sähköisille kaistoille. Joudumme myös var-
+masti miettimään täällä eduskunnassa, että jos pankit eivät vapaaehtoisesti niitä verkko-
+pankkitunnuksia anna, onko tässä tarpeen tehdä lainsäädäntömuutoksia.
+
+15.09 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Nyt kun tämä sähköinen asiointi
+toivon mukaan ottaa oikein kunnon kilpailukykyloikan tässä tämän hallituksen aikana ja
+samaan aikaan tehdään sote-uudistusta, joka myös on äärimmäisen tärkeä uudistus, niin
+kysyisin paikalla olevalta ministeriltä: Kun tämän sähköisen asioinnin uutta pohjaa luo-
+daan nyt kokonaan, niin yksi sosiaali- ja terveydenhuollon suuri ongelmahan on se, että
+meillä on erilaisia potilastietojärjestelmiä eri kunnissa. Ollaanko nyt luomassa Suomeen
+sellaista yhtä järjestelmää, jonka avulla voidaan kehittää koko digitaalista terveydenhuol-
+toa paljon tehokkaammin? Yhdysvalloissahan tästä on hyviä kokemuksia, muun muassa
+veteraanien terveydenhuolto on järjestetty niin, että samalla kortilla saa palvelun, olipa se
+sitten Havaijilla tai Alaskassa, sillä ei ole väliä. Pääsemmekö joskus tällaiseen järjestel-
+mään?
+
+15.10 Krista Kiuru sd: Arvoisa puhemies! Ensinnäkin on hyvä, että tätä kansallista pal-
+veluarkkitehtuuriprojektia jatketaan, ja minusta on hyvä, että hallitus on ottanut tämän ko-
+keilujen linjan, sehän sopii tähän kuvaan oikein hyvin. Näissä toteuttamisvaihtoehdoissa
+haluan vielä peräänkuuluttaa sitä, että olisi todella tärkeää, että meidän hyvin repaleisella
+kentällämme eivät hääräisi kaikki itse toteuttamalla digitaalisia palveluita. Nyt kadotin sen
+kohdan tässä, mutta en tiedä, annetaanko tässä kuitenkin hiukan vielä periksi sille, että voi-
+taisiin tuottaa omia palveluita siellä sun täällä, koska tämä ajatus, joka tässä esityksessä on,
+minusta kuitenkin viittaisi siihen, että kaikki olisi yhteisissä käsissä näitä kahta muuta toi-
+mintoa lukuun ottamatta. Jos Väestörekisterikeskus sitten tiukasti pitäisi huolta siitä, että
+palvelutuotanto ei pääse repsahtamaan, niin se on erittäin olennainen juttu, koska meillä on
+hyvin paljon repaleisia ict-projekteja, joissa tosiasiassa ei ole saatu oikeata tulosta aikaan.
+
+Niin kuin ministerille jo peräsin tuossa debattikeskustelussa, niin tämän olennaisin osa
+kansalaisille ei ole tämä lainsäädäntö vaan se, miten tämä lainsäädäntö toteutetaan käytän-
+nössä, ja sitä varten me tarvitsemme sen palveluväylän. Minusta olisi tärkeätä, että se pal-
+veluväylä rupeaisi jo lopulta tulemaan ulos — kun me itse toivoimme, että tehdään siitä uu-
+den sukupolven palveluväylä, ja sen takia on tämä virolainen konsepti, jonka me aidosti
+saimme lopulta ilmaiseksi viime kaudella kovan taistelun tuloksena, niin se palveluväylä
+17
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+tulisi sitten ulos. Toivoisin, että ministeri ottaisi sen nyt ihan keskeiseksi asiaksi, koska se
+varmistaisi kansalaisille, että meillä ovat kaikki nämä yksissä käsissä.
+
+Sen sijaan kun edustaja Kurvinen puhui pankkitunnuksista, niin jo viime kaudella otet-
+tiin huomioon se tosiasia, että tunnistautumisratkaisukaan ei voi olla yhden kortin varassa.
+Enää ei edes mobiililla tunnisteta, vaan tulevaisuuden tunnistamisratkaisut ovat hyvin eri-
+laisia.
+
+15.12 Timo Harakka sd: Arvoisa puhemies! Sympatisoin kovasti ministeri Vehviläistä,
+kun täällä salissa on koko ajan vedottu Viron erinomaisuuteen. Tosiasia tietenkin on se,
+että väkiluku on neljännes Suomen väkiluvusta ja siellä on aika lailla puhtaalta pöydältä
+saatu näitä ratkaisuja tehdä. Mutta joka vaiheessa teknologia vanhenee ja uudistuu, joten
+haluan tässä ihan omasta kokemuksesta kertoa, että tämä Viron yhteisten palveluiden käyt-
+töliittymä kuluttajalle, käyttäjälle, ei ole suinkaan mikään maailman paras tai edes helppo-
+käyttöinen. Siihen edellytetään sirukortti, erillinen lukija, ladattava ja vaikeakäyttöinen oh-
+jelma, ja en tiedä, oliko omissa korkeakouluopinnoissani joitain puutteita, mutta en ole tä-
+hän päivään asti onnistunut näitä palveluita käyttämään.
+
+Tässä tuleekin esiin juuri tämä teknologian haaste, johon edustaja Kiurukin tässä juuri
+viittasi. Suomessahan yritettiin kuumeisesti ja pitkään saada aikaan juuri tällainen sirulli-
+nen henkilökortti, tunnistautuminen. Siihen muistaakseni paloi 10 miljoonaa euroa, ja tätä
+odotellessa, tätä eräänlaista digitaalista Olkiluoto 3:a odotellessa sitten mentiin siihen jär-
+jestelmään, että sitten käytetään vain pankkitunnuksia. Sehän on toiminut kohtalaisen hy-
+vin ottaen huomioon kuitenkin edustaja Kurvisen esittämät varaumat. Ei meillä ole mitään
+syytä ottaa esimerkkiä jo nyt toteutetuista ratkaisuista, koska ne ovat jo nyt auttamatto-
+masti vanhentuneita, ja se haaste, jossa tietenkin haluamme kaikki tukea ministeriä, on se,
+että löydetään sellaiset ratkaisut, jotka eivät ole vanhentuneita jo tullessaan käyttöön.
+
+15.14 Lea Mäkipää ps: Arvoisa puhemies! Matkan varrella tulee varmaan monia kysy-
+myksiä. Mutta kun selailin tätä esitystä, niin tuo 18 § kertoo näistä häiriötilanteista, ja tie-
+detään, että sähköisessä asioinnissa saattaa tulla aina katkoksia, ja puhuttiin tietoturvalouk-
+kauksista ynnä muista, jotka estävät tietysti tämän tukipalvelun toimivuuden. No, palvelun
+tuottaja tietysti ilmoittaa, mistä häiriöistä on kysymys, kuinka kauan kestää ja niin edel-
+leen. Mutta kysyisin sitten, kun en päässyt oikein tietoisuuteen, kun saattaa olla joku tilan-
+ne, että kestävät päiväkausia nämä katkokset: kuka silloin on vastuussa, kuka vastaa ja mil-
+lä lailla? Se on tietysti eri asia, kun on tämmöinen poikkeusolo ja silloin tulee häiriötilan-
+teita, mutta näin normaalisti saattaa olla päivän kaksikin pois niin, että nämä eivät pelitä
+niin kuin pitäisi.
+
+Puhemies Maria Lohela: Nyt ministeri Vehviläiselle 3 minuuttia.
+
+15.15 Kunta- ja uudistusministeri Anu Vehviläinen:  Arvoisa puhemies! Kiitos tästä
+keskustelusta. Täällä on tullut paljon hyviä näkökulmia, ja meidän tahtotilamme on kyllä
+näemmä erittäin yhteinen tässä asiassa. Muutama kommentti yksittäisiin puheenvuoroihin.
+
+Ensinnäkin edustaja Laukkanen sanoi näistä karttapalveluista. Ne karttapalvelut ovat
+kyllä tulossa tämän myötä, mutta niitä ei tuota Väestörekisterikeskus vaan Maanmittaus-
+laitos samalla tavalla kuin Väestörekisterikeskus ei tee verkkomaksamiseen liittyvien pal-
+velujen tuottamista. Se on Valtiokonttori, joka tekee niitten osalta sen.
+18
+
+
+
+Pöytäkirjan asiakohta PTK 40/2016 vp
+Sitten kun täällä tuli monessa puheenvuorossa, muun muassa edustaja Mäkisalo-Roppo-
+selta, tästä esteettömyydestä ja myös siitä, miten ikäihmisillä on mahdollisuus, ja jonkun
+muun puheenvuorossa tulivat nämä muistisairaat esille, niin haluan todeta, että me laitoim-
+me pari viikkoa sitten tämmöisen nimenomaan ikäihmiselle suunnatun nettiaivoriihen sii-
+tä, minkälaisia digitaalisia palveluita ikäihmiset haluaisivat. Juuri tätä käytettävyyttä, käyt-
+täjälähtöisyyttä halutaan saada sitä kautta selville. Se on minusta äärimmäisen tärkeätä,
+että me pystymme arkipäiväistämään digitalisaation, että se ei ole vain joku möhkäle ja
+joku järjestelmä ja teknologia jossakin tuolla, vaan että ihmiset tulevat ikään ja omaan va-
+rallisuuteensa nähden sinuiksi sen kanssa, että tavallista toimintaahan se on. Meidän tietys-
+ti kansanedustajina pitää olla tässä tämmöisiä lipunkantajia, että me teemme myös itse, pu-
+humme kentällä tilaisuuksissa riittävän yksinkertaisilla esimerkeillä, mistä tässä kaiken
+kaikkiaan on kysymys.
+
+Sitten edustaja Kasvin viisas puheenvuoro monella tavalla. Minä itse ajattelen ja olen
+seurannut myös sitä Tanskaa tässä, miten siellä on tehty, ja minä ajattelen niin, että ennen
+kuin meillä tämä alusta ja tämä väylä on kunnossa, niin me emme voi vaatia ihmisiltä. Mei-
+dän pitää saada, että meillä on tämä alusta tarjolla, mutta itse omassa mielessäni juuri tänä
+aamuna, kun tänne keskusteluun valmistauduin, pohdin sitä, olisiko meillä uskallusta lait-
+taa tämmöisiä kansallisia ja strategisia tavoitteita siitä, mihinkä vuoteen mennessä minkä-
+kin verran meidän aikuisikäisestä väestöstämme käyttäisi tunnistautumista ja tekisi tämän
+kautta tai minkä verran käytetään vaikka toisen puolesta asiointia, ja että tehtäisiin tämmöi-
+set strategisemmat tavoitteet näille asioille ja niitä sitten seurattaisiin ja tehtäisiin korjaus-
+liikettä, jos ei niissä päästä sitten eteenpäin.
+
+Edustaja Kurviselle, joka lähti juuri, totean vielä tässä nyt ihan lopuksi sen, että meillä
+on tekeillä juuri hallituksen esitys, joka muuttaa sitä, että kaikilla pankeilla on velvollisuus
+antaa jokaiselle asiakkaalle yleiskäyttöiset pankkitunnukset.
+
+Edustaja Hoskoselle lyhyesti tästä sote-ratkaisusta ja maakuntien perustamisesta, että
+niitten pitää tulla käyttämään tätä meidän alustaamme täysillä mukaan. Mutta sitten, niin
+kuin tiedetään, eri hallinnonaloilla on myös tietojen luovuttamisesta toiselle erilaisia sään-
+nöksiä, mikä tulee tarkoittamaan myös lisää lainsäädäntömuutoksia.
+
+Asia lähetettiin hallintovaliokuntaan, jolle liikenne- ja viestintävaliokunnan on annettava
+lausunto.
+19
+
+

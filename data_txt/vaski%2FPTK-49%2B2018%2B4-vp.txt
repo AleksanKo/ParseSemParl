@@ -1,0 +1,632 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM638C.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 49/2018 vp
+
+Täysistunto
+
+Tiistai 15.5.2018 klo 14.00—16.23
+
+4. Hallituksen esitys eduskunnalle laeiksi uusiutuvilla energialähteillä tuotetun sähkön tuo-
+tantotuesta annetun lain ja tuulivoiman kompensaatioalueista annetun lain 6 §:n muutta-
+misesta
+
+Hallituksen esitys HE 175/2017 vp
+Valiokunnan mietintö TaVM 6/2018 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Tuula Haatainen: Ensimmäiseen käsittelyyn esitellään päiväjär-
+jestyksen 4. asia. Käsittelyn pohjana on talousvaliokunnan mietintö TaVM 6/2018 vp. Nyt
+päätetään lakiehdotusten sisällöstä.
+
+Valiokunnan puheenjohtaja edustaja Mölsä esittelee mietinnön.
+
+Keskustelu
+
+14.48 Martti Mölsä sin (esittelypuheenvuoro):  Arvoisa rouva puhemies! Kyseessä on
+hallituksen esitys eduskunnalle laiksi uusiutuvilla energialähteillä tuotetun sähkön tuotan-
+totuesta annetun lain ja tuulivoiman kompensaatioalueista annetun lain 6 §:n muuttamises-
+ta. Esityksessä ehdotetaan muutettavaksi uusiutuvilla energialähteillä tuotetun sähkön tuo-
+tantotuesta annettua lakia. Laissa säädettäisiin tarjouskilpailuun perustuvasta preemiojär-
+jestelmästä, jossa teknologianeutraalisti edistettäisiin uusiutuviin energialähteisiin perus-
+tuvia voimalaitosinvestointeja. Samalla syöttötariffijärjestelmä suljettaisiin biokaasuvoi-
+maloiden ja puupolttoainevoimaloiden osalta. Esitys liittyy valtion vuoden 2018 talousar-
+vioesityksen täydennykseen ja on tarkoitettu käsiteltäväksi sen yhteydessä.
+
+Arvoisa puhemies! Ehdotetut lait on tarkoitettu tulemaan voimaan valtioneuvoston ase-
+tuksella säädettävänä ajankohtana. Biokaasuvoimaloiden ja puupolttoainevoimaloiden
+syöttötariffijärjestelmään hyväksymishakemukselle säädettyä määräpäivää koskeva sään-
+nös on kuitenkin tarkoitettu tulemaan voimaan mahdollisimman pian. Hallituksen esitys
+uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta ja tuulivoiman kompensaa-
+tioalueista annettujen lakien muuttamisesta kytkeytyy energia- ja ilmastopolitiikan laajaan
+kokonaisuuteen ja tavoitteisiin. Suomea ohjaavat toisaalta EU:n yhteiset ilmasto- ja ener-
+giapolitiikan tavoitteet, toisaalta kansalliset tavoitteet, jotka konkretisoituivat marraskuus-
+sa 2016 annetussa energia- ja ilmastostrategiassa. Nimenomaan uusiutuvan energian po-
+tentiaalin hyödyntäminen on yksi keskeisistä kysymyksistä pitkän aikavälin energia- ja il-
+mastotavoitteiden saavuttamisen kannalta.
+
+Arvoisa puhemies! Nyt annettu ehdotus kytkeytyy myös eduskunnan energia- ja ilmas-
+tostrategiasta antamassaan kirjelmässä edellyttämiin toimenpiteisiin. Eduskunnan lausu-
+missa todettiin varsin yksityiskohtaisesti uusiutuviin energialähteisiin perustuvien sähkön
+ja lämmön tuotannon tukijärjestelmien uudistamisesta. Eduskunnan kannanotossa 2017 ja
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+valtioneuvoston selvityksessä 2016 tukijärjestelmien uudistamista koskivat erityisesti seu-
+raavat lausumat, joissa eduskunta edellytti, ”että valtioneuvosto:
+
+1. uudistaa uusiutuviin energialähteisiin perustuvan sähkön ja lämmön tuotannon tuki-
+järjestelmät niin, että tuet ohjautuvat kustannustehokkuusnäkökulmasta parhaisiin uusiu-
+tuvan energian tuotantomuotoihin ja että tukien ja verotuksen kilpailuvaikutukset arvioi-
+daan ja otetaan huomioon, 
+
+2. valmistelee strategiassa mainitun uuden uusiutuviin energialähteisiin perustuvan tuen
+kilpailutukseen perustuen ja teknologianeutraalisti niin, että kilpailutukseen voivat tosiasi-
+allisesti osallistua tuuli-, aurinko- ja CHP-tuotannon lisäksi muutkin mahdolliset uudet tek-
+nologiamuodot, mikäli tuki toteutetaan,
+
+3. varmistaa, että teollisuuden käyttöön soveltuva ainespuu ohjautuu ensisijaisesti kor-
+kean jalostusarvon tuotteisiin eikä energian tuotantoon,
+
+4. ryhtyy toimenpiteisiin erityisesti sahateollisuuden sivutuotteiden, purun ja kuoren,
+käyttöön saamiseksi ja tasavertaisen kilpailuaseman varmistamiseksi”. 
+
+Hallituksen esityksessä on todettu, että uudistuksen tavoitteiksi on otettu kansantalou-
+den kokonaisetu sekä preemiojärjestelmän kustannustehokkuus, mikä varmistettaisiin tek-
+nologianeutraaleilla tarjouskilpailuilla. Hallituksen esityksen valmistelussa on vertailtu
+laajasti erilaisten toteuttamisvaihtoehtojen vaikutuksia. Hallituksen esityksessä todetaan
+lisäksi, että eduskunnan edellä mainitun kirjelmän tukijärjestelmiä koskevat kannanotot on
+otettu valmistelussa huomioon. 
+
+Arvoisa puhemies! Talousvaliokunta on arvioinut nyt esitetyn järjestelmän toimivuutta
+ja tarkoituksenmukaisuutta taustalla olevien energia- ja ilmastopolitiikan tavoitteiden ja
+erityisesti edellä mainittujen lausumien valossa ja painottaen erityisesti kustannustehok-
+kuuden, teknologianeutraalisuuden ja kilpailun toimivuuden näkökulmia. Ottaen huo-
+mioon valiokuntakäsittelyn aikana tehdyt tarjouskilpailun laajuutta ja kivihiilen käytöstä
+luopumisen tukipakettia koskevat hallituksen linjaukset talousvaliokunta pitää hallituksen
+esityksen mukaista tukijärjestelmää perusteltuna ja puoltaa hallituksen esitykseen sisälty-
+vien lakiehdotusten hyväksymistä vähäisin muutoksin.
+
+Mietintöön sisältyy kaksi vastalausetta, joissa lakimuutosehdotus, hylkäysehdotuksia ja
+lausumaehdotuksia. Nämä tulivat perussuomalaisilta, hylkäysehdotus, ja toinen on vasem-
+miston ja vihreiden yhteinen hylkäysehdotus. Ja todettakoon lopuksi, että SDP oli tämän
+mietinnön kannalla yksimielisesti.
+
+14.54 Hanna Sarkkinen vas:  Arvoisa puhemies! Ilmastonmuutoksen pysäyttäminen
+ajoissa vaatii ripeän energiakäänteen, ehkä nopeamman kuin olemme uskoneetkaan, sillä
+ilmastonmuutos etenee nopeammin kuin osasimme vielä muutama vuosi sitten kuvitella-
+kaan. Meidän on siirryttävä uusiutuvaan ja hajautettuun energiantuotantoon, ja koko ener-
+giajärjestelmämme on muokattava älykkääksi ja energiatehokkaaksi. Teknologiat kehitty-
+vät nyt nopeaan tahtiin, mutta muutostarpeen suuruuden ja kiireen vuoksi tarvitaan välinei-
+tä muutoksen tueksi ja nopeuttamiseksi.
+
+Tällä hallituksen esityksellä säädetään uusiutuvalle energialle uusi teknologianeutraa-
+liin tarjouskilpailuun perustuvan tuotantotuen mahdollistava lainsäädäntö. Esitys on osa il-
+masto- ja energiastrategian toimeenpanoa. Järjestelmä tarvitaan siirtymäkauden ratkaisu-
+na, sillä uusiutuvat investoinnit eivät ole vielä näillä energian hinnoilla ja matalilla päästö-
+oikeuksien hinnoilla kannattavia eivätkä ne lähde todennäköisesti liikkeelle ilman kannus-
+teita. Tukijärjestelmät eivät voi olla pysyvä ratkaisu, mutta niitä tarvitaan niin kauan kuin
+2
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+päästöoikeuksien ja saastuttamisen hinta ei ole riittävän korkea. Hiilen hinnoittelu päästö-
+kaupalla tai verotuksella tekisi päästöttömästä tuotannosta automaattisesti kannattavaa, jos
+hinnat ja järjestelmät vain toimisivat.
+
+Arvoisa puhemies! Käsillä oleva esitys juuttui talousvaliokuntaan pitkäksi aikaa halli-
+tuksen sisäisen erimielisyyden takia. Lopulta esitys eteni sillä muutoksella, että uusiutu-
+van energian kilpailutusta supistetaan kivihiilestä luopumisen varjolla. En näe tätä perus-
+telluksi. Kivihiilestä pitää luopua mahdollisimman pian, mutta samalla tarvitaan myös siir-
+tymävaiheen tukea uusiutuvan energian investointien käynnistämiseksi. Nämä eivät ole
+toisiaan pois sulkevia tarpeita, vaan molemmat asiat tähtäävät uusiutuvaan ja päästöttö-
+mään energiajärjestelmään. Kilpailutuksen koko tulee siis pitää alkuperäisessä 2 terawat-
+titunnissa, ja tähän liittyy toisessa käsittelyssä esitettävä lausuma.
+
+Valiokunnan asiantuntijakuulemisissa ei käynyt ilmi perusteluita sille, miten hallitus on
+päätynyt juuri 0,6 terawattitunnin supistukseen uusiutuvan tuesta. Kivihiilen 90 miljoonan
+euron luopumispakettia vastaavaa energiamäärää on mahdoton arvioida etukäteen, koska
+liukuvan ja kiinteän preemion yhdistelmän huutokaupalla toteutettavan tuen kustannuksia
+ei tiedetä. Jos uusiutuvan hankkeet ovat jo hyvin kannattavia, painuu hinta lähelle nollaa,
+mutta etukäteen summaa ei voida tietää. Kivihiilestä luopumisen 90 miljoonan euron kan-
+nustinpaketti voitaisiin rahoittaa mieluummin esimerkiksi karsimalla ympäristölle haitalli-
+sia fossiilisen energian tukia. Näin voitaisiin vähentää päästöjä ja tukea ympäristöystäväl-
+listä rakenneuudistusta sitä kautta. Ympäristölle haitallisista yritystuista leikkaaminen on
+tunnetusti osoittautunut vaikeaksi, mutta se on välttämätöntä, jos haluamme torjua ilmas-
+tonmuutosta tehokkaasti. On muistettava, että fossiilista energiaa tuetaan tälläkin hetkellä
+paljon enemmän kuin uusiutuvaa energiaa.
+
+Arvoisa puhemies! Uusiutuva energia tarvitsee edelleen siirtymävaiheen tukea, vaikka
+uusiutuvan energian tuotantokustannukset ovat romahtaneet viime vuosina ja vanha syöt-
+tötariffi on muuttunut selkeästi ylikompensoivaksi. On huomattava, että tämä uusi kilpai-
+lutukseen perustuva järjestelmä on merkittävästi erilainen ja paljon halvempi kuin vanha ja
+kallis syöttötariffi. Tukea siirtymävaiheeseen kuitenkin tarvitaan, koska uusiutuvan ener-
+gian hankkeet eivät vielä käynnisty, kun päästökauppa ei toimi ja energian hinta on alhai-
+nen. Teknologianeutraali kilpailu on ylimenokauden ratkaisu, jolla myös varmistetaan
+hankeosaamisen säilyminen. 
+
+Kannatamme siis hallituksen esityksen perusratkaisuja ja lakiesitystä pienin muutoksin.
+Emme siis esitä hylkäämistä, toisin kuin puheenjohtaja äsken sanoi, vaan esitämme pykä-
+lämuutosta ja lausumia.
+
+Arvoisa puhemies! Puuhaketuotannon osalta on hyvä, että tuotantotuesta on rajattu pois
+tukki- ja kuitupuun käyttö energiaksi. Ainespuuta ei tule polttaa energiaksi, vaan se tulee
+käyttää korkean arvonlisän tuotteisiin. Hallituksen esityksen mukaan puupolttoaine- tai
+biokaasuvoimalassa polttoaineesta vähintään 85 prosentin on oltava uusiutuvaa. Näin ol-
+len 15 prosenttia polttoaineesta saa olla muuta kuin uusiutuvaa. Hallitus esitti alun perin,
+että polttoaineesta 90 prosenttia on oltava uusiutuvaa, mutta laski prosenttia lausuntokier-
+roksen jälkeen. Tulenkin esittämään pykäläkohtaisessa käsittelyssä, että prosentti palaute-
+taan 90:een, jotta tuki suuntautuisi aidosti uusiutuviin.
+
+Arvoisa puhemies! Käsittelyn aikana on esitetty kritiikkiä, että kilpailutus ei ole aidosti
+teknologianeutraali. Kilpailuun voivat osallistua biokaasu-, puupolttoaine-, aurinko-, tuu-
+li- ja aaltovoimalat. Kyseessä ei ole siis tuulivoimatuki. Vesivoima on rajattu ulos sillä pe-
+rusteella, että pienvesivoimalle on omat tukimahdollisuudet ja suurvesivoimassa ei ole kil-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+pailua eikä tuen perusteita. Uusiutuvat voivat siis laajasti osallistua kilpailuun, mutta tar-
+jouskilpailun voittajia ovat todennäköisesti tuulivoima ja puubiomassaa käyttävät laitok-
+set, sillä ne ovat uusiutuvista energiamuodoista kilpailukykyisimpiä eli halvinta kapasi-
+teettia, ja halvinta kapasiteettia tässä nyt halutaankin kilpailuttaa ja etsiä. On valtiontalou-
+den etu, että kustannustehokkaimmat hankkeet menestyvät tässä kilpailutuksessa. Silloin
+myös hinta valtiontaloudelle jää mahdollisimman pieneksi.
+
+14.59 Lauri Ihalainen sd: Arvoisa rouva puhemies! Käsittelemme nyt uusiutuvilla ener-
+gialähteillä tuotetun sähkön tuotantotukiesitystä. Niin kuin täällä edustaja Sarkkinen tote-
+si, kaikissakin olosuhteissa nämä ovat pitkässä juoksussa välivaiheen ratkaisuja.
+
+Viime vuonna sähkön syöttötariffeja maksettiin 226 miljoonaa euroa. Tästä valtaosa,
+196 miljoonaa euroa muistaakseni, meni tuulivoimalalaitoksille ja 28 miljoonaa metsähak-
+keeseen. Tukea on pidetty jossain määrin kalliina ja liiaksikin tuulivoimaan suuntautunee-
+na. Vika ei liene kuitenkaan itse tuulivoimassa vaan siinä, että uusiutuvan energian lähteet,
+aurinko ja muut vastaavat, eivät ole olleet riittävän kilpailukykyisiä näissä hankkeissa.
+
+Uusi järjestelmähän perustuu siis huutokauppaan, jonka tavoitteena on kohdella eri
+energiamuotoja tasapuolisemmin. Vesivoima on tämän tuen ulkopuolella, ja se oli harkittu
+teko monistakin syistä johtuen, eikä vähiten siitä syystä, että EU-säädöksetkin saattavat
+tulla tässä asiassa vastaan.
+
+Valmistelujen eri vaiheissa myös pohdittiin koko tukijärjestelmän uudelleenharkintaa ja
+uudelleen miettimistä. Tähän ei nyt kuitenkaan tällä kertaa päädytty.
+
+Tuen kustannuksia on ennakkoon vaikea tietysti arvioida, mutta talousvaliokunnan ar-
+vioiden mukaan, kuultujen asiantuntija-arvioiden mukaan, haarukka on noin 120—360
+miljoonaa euroa 12 vuodelle jaksotettuna, ei siis vuosittain.
+
+CHP-laitosten toiminnan turvaamista talousvaliokunta halusi monessa yhteydessä ko-
+rostaa ja myös niiden irrottautumista kivihiilen käytöstä. Tuesta siis noin 90 miljoonaa eu-
+roa suunnataan tukeen, jolla kannustetaan nopeutetussa aikataulussa kivihiilen käytöstä
+luopumiseen. Tässä mielessä on hyvä, että kannustinpaketissa korostetaan riittävällä taval-
+la uusien, hiiltä korvaavien teknologioiden mahdollisuuksia energiamurroksen keskellä.
+Valiokunta korosti yleisemminkin, että tukien painopisteen tulee siirtyä tuotantotuesta uu-
+siin, innovatiivisiin teknologian ratkaisuihin tulevaisuudessa.
+
+Talousvaliokunnan mietintöön SDP:n talousvaliokunnan jäsenten aloitteesta lisättiin
+kohta, joka kuuluu näin: ”Valiokunta pitää tärkeänä, että kannustintuki laajennetaan koh-
+distumaan myös muihin kuin nykyisin hiiltä käyttäviin energialaitoksiin, jotka tuen avulla
+kehittävät ja ottavat käyttöön hiiltä korvaavia ja päästöjä vähentäviä teknologioita.” Tämä
+laajentaisi tämän tuen merkittävyyttä ja käyttöä. Näillä lisäyksillä, kuten valiokunnan pu-
+heenjohtaja täällä oikein totesi, SDP:n talousvaliokunnan ryhmä saattoi hyvin yhtyä tähän
+valiokunnan mietintöön.
+
+15.03 Katri Kulmuni kesk: Arvoisa rouva puhemies! Tämä uusiutuvan energian uusi tu-
+kimuoto on erittäin tärkeä keskustalle. Se on meidän ministerimme esittelemä, ja toki
+olemme hieman harmistuneinakin odottaneet sitä, kun se jumahti tuonne talousvaliokun-
+taan, että saamme sen vihdoin tähän saliinkin, ja kiitoksia, että se tänne vihdoin on myös
+sitten tullut.
+
+On tietenkin harmi, ettei kokonaisuudessaan varmasti talouden reunaehtojen puitteissa
+pystytty saamaan sitä terawattien kokonaismäärää suuremmaksi, mutta se alkuperäinen 2
+4
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+terawattia oli ihan siedettävä. No, poliittisten neuvotteluiden jälkeen sitten vielä valiokun-
+ta-aikana siitä otettiin osio kivihiililaitoksille, jotka korvaisivat omaa toimintaansa uusiu-
+tuvilla energiamuodoilla. Täytyy tietenkin muistaa, että suuri osa Suomen energialaitok-
+sista on jo aika päivää sitten siirtynyt pois kivihiilen kaltaisista saastuttavista polttoaineis-
+ta, mutta valitettavasti meidän suurimmat kaupunkimme edelleenkin nojaavat kivihiileen,
+ja me nyt haluamme sitten tämänkin lain myötä tarjota heille mahdollisuutta ja kannustaa,
+oikeastaan pakottaa heidät luopumaan kivihiilestä. Se on myös kansainvälisesti merkittävä
+asia Suomelle, että myös suurimmat kaupungit vihdoin luopuvat kivihiilen käytöstä.
+
+Itse tästä lakipaketista vielä: Jonkin verran kritiikkiä on herättänyt vaikkapa teknologia-
+neutraalisuus, mikä on aika yllättävä asia, koska eduskunta kuitenkin aikaisemmassa vai-
+heessa varsin suurella enemmistöllä oli sitä mieltä, että se täytyy kilpailuttaa teknologia-
+neutraalisti. Ja silloin kun tehdään se teknologianeutraalisti, niin täytyy ymmärtää, että ne,
+keillä on jo tehokkuus ja tuottavuus parhaimmissa lukemissa, tottahan toki pärjäävät hyvin
+siinä kilpailussa.
+
+Se, jos kritisoi tätä lakia tuulivoiman tuesta, on jälkijättöistä. Olisi kannattanut kritisoi-
+da aikaisemmin energia- ja ilmastostrategioita ja muita linjauksia, kun on tehty päätös sii-
+tä, että toimitaan teknologianeutraalisti. Jos halutaan toimia muulla tavalla, niin pitäisi
+koko se järjestelmäpohja rakentaa eri tavalla ja kilpailuttaa sitten koreissa niitä tai millä ta-
+valla tahansa, mutta silloin se vaatisi aivan erilaista peukalointia.
+
+Minun mielestäni on erittäin tärkeää, että tämä laki nyt saadaan voimaan ja se tulee kä-
+sittelyyn. Monet uusiutuvan energian investoinnit ovat odottaneet tätä, ne ovat odottaneet
+tämän harmillisen viivytyksen ajan. Olen myös erittäin tyytyväinen siitä, että sosiaalide-
+mokraatit tulivat tähän mietintöön matkaan. Uskoakseni kuitenkin tämän salin yhteinen ta-
+voite on, että Suomessa olisi mahdollisimman paljon uusiutuvaa energiaa. Me olemme
+erittäin kunnianhimoisia siinä, meillä on paljon hyviä asioita siinä.
+
+Pidän erittäin tärkeänä myös, että meidän teollisuutemme laajasti pystyisi miettimään
+uusia uusiutuvan energian innovaatioita ja kehitysmuotoja. Ja mitä on olemassa myös
+vaikkapa terästeollisuuden, kaivosteollisuuden osalta siirtymiä uusiutuvaan, niin pidän nii-
+tä erittäin kiinnostavina aiheina. Toivottavasti tästä on osaltaan apua myös niihin.
+
+15.06 Hannu Hoskonen kesk:  Arvoisa rouva puhemies! Ihan hyvä mietintö tästä tuli.
+Tiedän, että näihin liittyy valtava määrä erilaisia paineita. Suurteollisuus ja suuret yhtiöt
+painavat päälle ja näkisivät tietysti mielellään, että kaikki tukipolitiikka tukisi heidän bis-
+nestään ja se taas sitten olisi muilta pois. Se on ihan normaalia taloustoimintaa yhteiskun-
+nassa, ei sitä kannata säikähtää.
+
+Mutta se, mistä minä olen hieman murheellinen, on se, että vaikka mietintö sinällään on
+hyvä, niin me olemme itse ajamassa energiapolitiikkamme monella, monella pienellä teol-
+la siihen suuntaan, että CHP-voiman, yhdistetyn sähkön- ja lämmöntuotannon, toiminta-
+edellytyksiä pikkuhiljaa heikennetään. Tietysti siihen erittäin paljon vaikuttaa tämä kan-
+sainvälinen energiahinta. Aina toimimme sähkön hinnassa ja muissakin asioissa kansain-
+välisillä markkinoilla. Se on meidän huomioitava. Mutta Suomen tulee pitää omassa poli-
+tiikassaan tänä päivänä, ja tulevina vuosina tulevienkin eduskuntien, huoli siitä, että tässä
+maassa säilyy vahvana tämä yhteinen viisautemme sähkön- ja lämmöntuotanto yhteisissä
+samoissa laitoksissa, koska sillä saavutetaan se valtava hyöty. Tämä laitosten hyötysuhde
+nousee reilusti yli 90 prosentin. Kaikki lämpö otetaan talteen esimerkiksi lämmittämään
+taajamia tai teollisuuden hyötykäyttöön, ja sitten sähkö tulee yhteiskunnan sähköverkon
+5
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+kautta kaikkien meidän käyttöön. Ja tässä on se loistava idea, kun meillä kuitenkin niitä
+kylmiäkin talvia vielä on: se toimii äärimmäisen hyvin säätäen tämän yhteiskunnan ener-
+giantarvetta silloin, kun on kova pakkanen ja tarvitaan paljon lämpöä, ja samalla se CHP-
+voimala tuottaa sitä paljon kaivattua sähköä, jota sitäkin menee aina parhaiten silloin, kun
+on kova pakkanen. Silloinhan aina käytetään paljon sähköäkin. Nämä kulkevat käsi kädes-
+sä.
+
+Vajaa kaksi ja puoli vuotta sitten tammikuussa oli Suomessa tilanne, että sähkönkulutus
+oli meillä suuri, kun oli kova pakkanen, ja talouselämäkin toimi kohtuullisen hyvin, ja mei-
+dät pelasti vain ja ainoastaan se, että sillä hetkellä oli markkinoilta saatavissa, naapureil-
+tamme ostettavissa sähköä, niin että sähköverkko ei kaatunut. Se pelasti meidän Suomen.
+Tästä viisastuneena kannattaisi nyt Suomen ottaa ihan itseään niskasta kiinni ja pitää huoli
+siitä, että tässä maassa on riittävästi sähkön- ja lämmöntuotantoa, joka perustuu nimen-
+omaan CHP-tekniikkaan, ja sitten siitä, että laitetaan nämä sähkövoimalat, sähköntuotan-
+tolaitokset, kaikki voimalaitokset siihen kuntoon, ja tarvittaessa rakennetaan vaikka lisää,
+että olemme omavaraisia energiantuotannossa. Sellaiselle valtiolle, joka ei ole omavarai-
+nen energian-, sähköntuotannossa, ei ole hyvä tulevaisuus luvassa, koska jos me haluam-
+me tehdä elintasoa ja tuottaa hyviä palveluita ja hyviä tuotteita maailmanmarkkinoille, se
+tietää armotta sitä, että pitää olla erittäin tehokas ja puhdas sähköntuotanto.
+
+15.09 Laura Huhtasaari ps: Arvoisa puhemies! Perussuomalaiset kannattavat puhdasta
+energiaa ja kannattavat reilua ilmastopolitiikkaa. Esimerkiksi vaatimus siitä, että meidän
+pitäisi — kun vain 6,7 prosenttia sähköstä tuotetaan kivihiilellä — kokonaan luopua siitä,
+vain lisää pienipalkkaisen ihmisen elinkustannuksia. Ja ottaen huomioon sen, että meidän
+tulee pitää huolta, että nimenomaan teollisuuden työpaikat pysyvät Suomessa, ja olla kil-
+pailukykyisiä siinä, koska muuten ne siirtyvät muualle ja päästöt maailmanlaajuisesti vain
+kasvavat. Jos me kaikki päästöt laskemme yhteen, mitä Suomesta tulee koko maailmaan,
+niin se on vain 13 promillea, joten meidän kannattaa toimia hyvin järkevästi. 
+
+Perussuomalaiset esittävät tämän lain hylkäämistä. Perussuomalaiset korostavat, että
+uusiutuvien energialähteiden tuotantotukea tärkeämpää olisi panostaa tuotekehitys- ja tut-
+kimusrahoitukseen sekä investointitukiin. Tai matkailuun. Meillä on äärimmäisen raikas
+ilma Suomessa, jota ihan Saksasta asti tullaan ihailemaan — puhumattakaan Kiinasta. 
+
+Uusiutuvan energian tuki, noin 300 miljoonaa euroa, on valtavan iso summa, ja tämä on
+käytännössä tuulivoimatuki kakkonen. Suurin osa tästä tuesta tulee menemään tuulivoi-
+malle. Esitys ei kuitenkaan ole teknologianeutraali, vaikka täällä toisin on väitetty. Siitä on
+rajattu pois muun muassa vesivoima ja käytännössä myös sähköä ja lämpöä tuottavat lai-
+tokset. Lisäksi perussuomalaiset korostavat, että tuulivoiman rakentamiseen liittyvät me-
+lu-, välke- ja muut haitat olisi pitänyt tutkia, mutta niitä ei ole tässä esityksessä lainkaan
+tutkittu.
+
+15.11 Antero Vartia vihr: Arvoisa rouva puhemies! Uusi yritystuki. En voi sanoa henki-
+lökohtaisesti olevani erityisen iloinen siitä, että tämä on se valittu polku, jolla torjumme il-
+mastonmuutosta, mutta tämäkin on parempi kuin se, että emme tekisi mitään.
+
+Me päädymme näihin tukiin. Mainittakoon, että tämä tuki täyttää hyvän tuen kriteerit
+sillä, että se on määräaikainen, sillä on selkeä yhteiskunnallinen peruste ja se on markki-
+naehtoinen niin, että se kilpailutetaan. Mutta siitäkin huolimatta uusiutuvan tukeminen ei
+taatusti ole se kustannustehokkain tapa torjua ilmastonmuutosta. Mutta tähän me päädym-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+me, koska vahingon aiheuttaminen on yhä edelleen aivan liian halpaa. Toisin sanoen niin
+kauan kuin hiilidioksiditonni saastutettuna on niin halpa, ei synny edellytyksiä sitten taas
+uusiutuvalle energialle markkinaehtoisesti lähteä liikkeelle. 
+
+Jos me tarkastelemme tätäkin tuen suuruutta, niin jos arvioidaan sen olevan vaikka 20
+miljoonaa vuodessa eilisen päästöoikeuden hinnalla, sillä rahalla voitaisiin poistaa päästö-
+oikeusmarkkinoilta noin 100 000 suomalaisen päästöt vuosittain. Tämän uusiutuvan ener-
+gian tuen varsinainen ongelma on siinä, että koska se on päästökaupan alainen järjestelmä,
+nämä päästöoikeuksien määrät eivät vähene, ja jos näitä päästöoikeuksia ei käytetä Suo-
+messa, ne käytetään jossain muualla. 
+
+Toisin sanoen tämä tuki tässä muodossa ei tällä hetkellä vähennä päästöjä, mutta se on
+silti tarpeellinen sen tähden, että se mahdollistaa sen, että teknologia etenee, ja koska sii-
+hen on nyt yritysten järkevää panostaa, toivottavasti sen tuotantokustannukset laskevat niin
+paljon, että se lähtee joku päivä markkinaehtoisesti liikkeelle. 
+
+Mutta, jälleen kerran tämän sanottuani, meillä on väärä polku. Meidän ei tule tukea,
+meillä ei ole kyse siitä, että meillä ei ole riittävästi uusiutuvaa energiaa. Meidän varsinai-
+nen ongelmamme on siinä, että me synnytämme liikaa ilmastopäästöjä. Me synnytämme
+liikaa ilmastopäästöjä sen takia, että päästöjen synnyttäminen on liian halpaa, ei pelkäs-
+tään niin, että se on markkinaehtoisesti liian halpaa, vaan me jopa tuemme sitä. 
+
+Ja nyt päästään tähän syksyllä esitettävään hiilivoimaloiden alasajotukeen. Mistä ne re-
+surssit sitten haetaan? Sen sijaan, että me vähentäisimme fossiiliselle polttoaineelle annet-
+tuja tukia, että sieltä kerättyjen säästöjen avulla vähentäisimme hiilenpolttoa, niin ei, sekin
+poistetaan tästä ainoasta asiasta, joka tätä kautta on hidastamassa ilmastonmuutosta pitkäl-
+lä aikajänteellä.
+
+Todella toivon, että jatkossa emme menisi tätä polkua pitkin, kun pyrimme torjumaan il-
+mastonmuutosta, vaan tekisimme sen, mikä on oikein. Laitetaan ne, jotka synnyttävät va-
+hinkoa, siivoamaan omat jälkensä, korjaamaan aiheuttamansa vahingon, eli kustannukset
+sinne silloin kun se vahinko syntyy. 
+
+15.14 Jani Mäkelä ps: Arvoisa puhemies! Edustaja Huhtasaari puhui aiemmin hyvin, ja
+tuenkin hänen esittämäänsä linjaa.
+
+Valitettavasti tämä hallituksen esitys on sen verran kehno, ettei sitä voida auttaa kuiville
+edes pykälämuutosesityksillä, ja vasemmistoliiton ja vihreiden vastalause veisi tätä suoras-
+taan huonompaan suuntaan. Nyt ne yritystuet sitten vihreille kelpaavat, kun niillä toisaalla
+tehdään populismia. Yritystuet kelpaavat vihreille, kun se sopii vihreään ideologiaan. Tä-
+män esityksen ongelmana olisi entistäkin suurempi lasku veronmaksajille, kun päinvas-
+toin energiaa pitäisi halpuuttaa. Näissä asioissa pitäisi olla käytännönläheinen eikä noin
+ideologinen. Tuulivoiman tukemista ei tässä esityksessä edelleenkään karsita tarpeeksi
+eikä esitys ole teknologianeutraali. Niinpä toivonkin, että eduskunta hylkää esityksen, kun
+sen aika tulee.
+
+15.15 Ville Tavio ps:  Arvoisa puhemies! Minusta energiatukien teknologianeutraliteetti
+on todella kunnioitettava tavoite. Siksi pidänkin tätä esitystä niin epäonnistuneena, sillä tä-
+hän tavoitteeseen ei olla päästy. Tässä ei ole mukana vesivoima, kuten edustaja Huhtasaari
+tuossa aiemmin mainitsi. Tietysti sitten on tämä näkyvä seikka, että tuulivoimafanaatikot
+käytännössä tällä tavalla jatkavat tuulivoimatariffeja ja tuulivoiman tukemista. Tuulivoi-
+man rakentaminen häiritsee oikeasti useita maaseudun asukkaita, koska sitä rakennetaan
+7
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+liian lähelle asumuksia. Tämä on asia, johon olisi tässä yhteydessä kyllä toivonut hallituk-
+sen puuttuvan, mutta eihän näin tuulivoimamyönteinen hallitus sellaista ilmeisesti edes
+harkinnut. 
+
+Kuitenkin se pointti, minkä haluan tähän keskusteluun tuoda, on, että koska trendinä on
+nyt kuitenkin tavoitella hiilidioksidipäästöneutraliteettia ja se on tässä se punainen lanka,
+niin ihmettelen sitä, miksi tässä järjestelmässämme ei huomioida ydinvoimaa. Kun puhu-
+taan siitä, että tämä on niin markkinaehtoinen ja niin markkinaneutraali ja näin, niin eihän
+se sitä ole, vaan oikeasti, kuten edustaja Hoskonen tuossa aiemmin hyvin otti esiin, myös
+omavaraisuuden kannalta ydinvoima olisi aika tärkeä energiamuoto meille korostaa näissä
+energiakeskusteluissa. Ydinvoima on todennäköisesti meidän paras puhtaan energian läh-
+teemme. 
+
+Ydinvoima siis tulisi olla tässä mukana. Ydinvoima on, kun tähän hiilidioksidipäästö-
+neutraliteettiin pyritään, varsinkin ensivaiheessa kaikkein tehokkain tapa vähentää hiili-
+dioksidipäästöjä. Sitten tulee tietenkin se toinen vaihe. Tässä kun tämän kerron, niin tulee
+helposti väärinymmärretyksi — kun tulee se toinen vaihe, jossa sitten on teknologian ke-
+hitys, jonka kautta todennäköisesti voidaan siirtyä uusiin energiamuotoihin — mutta nyt
+kun eletään tavallaan ensivaiheessa, niin ydinvoima on se, mihin kannattaisi keskittyä.
+
+Ydinvoiman korvaaminen ei ole oikein mahdollista kuin fossiilisilla polttoaineilla. Täs-
+tähän meillä on traagisimpana esimerkkinä Saksa, jossa tämä vihreä politiikka pääsi val-
+loilleen ja aiheutti kamalat seuraamukset, sillä ydinvoimasta luopuminen Saksassa johti
+siis fossiilisten polttoaineiden käytön lisääntymiseen. Tästä on myös yksi vertailuesimerk-
+ki, joka on huomattu hallituksen esityksessä, mutta siihen ei ole tarkemmin paneuduttu. Ni-
+mittäin Ison-Britannian tukijärjestelmässä on mukana myös ydinvoima. Häpeän, että myös
+Suomen hallitus ei ottanut ydinvoimaa mukaan kuten Isossa-Britanniassa.
+
+15.18 Teuvo Hakkarainen ps:  Arvoisa rouva puhemies! Tuulivoimasta sen verran, että
+minun mielestäni se on täysin järjetöntä, koko sen tukeminen, koska meillä suurin käyttö-
+tarve sähkölle on talvella: Silloin on pakkasta ja hyvin tyyntä, tuulivoimalat eivät tuota yh-
+tään mitään. Päinvastoin niitä joudutaan lämmittämään silloin, elikkä sinne joudutaan
+syöttämään sähköä. Elikkä tämä ei pelasta mitään, ei se pelasta maapalloa eikä Suomea, ja
+huoltovarmuus päinvastoin heikkenee näillä järjestelmillä.
+
+Sitten siitä vielä sen verran, että säätövoimana siinä käytetään yleensä vesivoimaa taik-
+ka ostovoimaa, ehkä ydinvoimaakin. Kun se syöttöpiste muutetaan, niin siirtomaksit vali-
+tettavasti nousevat tällä tavalla koko ajan, ja se tulee kansalaisten maksettavaksi. Jos näitä
+rahoja, joita tuhlataan tuulivoiman tukemiseen, käytettäisiin esimerkiksi vesivoimaan, tur-
+biinien uusimiseen, saataisiin moninkertainen tuotto. Ne voimalat ja padot kuitenkin ovat
+siellä, ei niitä pureta. Viitasaarella on yksi paikka, ja siitä on tehty museo. Ei se tuota ke-
+nellekään yhtään mitään, nätti paikka, mutta jos se teknologia uusitaan sinne, niin silloin
+rupeaa tulemaan sähköä ja hyvinvointia meille. Lopetetaan tämmöinen höpöttäminen.
+
+15.19 Martti Mölsä sin:  Arvoisa rouva puhemies! Täällä on aikaisemmissakin puheen-
+vuoroissa todettu ja itsekin totesin, että aikaisemmin täällä salissa on lähes yksimielisesti
+hyväksytty Suomea ohjaavat EU:n yhteiset ilmasto- ja energiapoliittiset tavoitteet sekä
+kansallinen energia- ja ilmastostrategia ja myös muun muassa Pariisin sopimus. Silti täällä
+hylkäysesityksessä vastustetaan muun muassa edullisinta sähköntuotantoa eli tuulivoi-
+maa. Perussuomalaiset näkevät asian näin, että kalliimmalla vaihtoehdolla sähköä on tuo-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+tettava. Vastalauseessa vihreät ja vasemmisto vastustavat kivihiilen alasajoa. Minulle ei
+ole vielä selvinnyt tässä, mitä minä olen täällä eduskunnassa ollut, että mikä on se oikea
+energiamuoto vihreillä, onko se sitten kivihiili — en ota sen enempää kantaa.
+
+Mutta kannattaa muistaa yksi tärkeä asia: energian hinta on nyt ja tulevaisuudessa aina
+poliittinen päätös. Siksi tällä teknologianeutraalilla kilpailutuksella pyritään tasapuoliseen
+kohteluun, eikä puhuta pelkästään tuulivoimasta, niin kuin täällä monessa puheenvuorossa
+on tullut esille. Siitä olen samaa mieltä, mitä Taviokin toi esille, että vesivoima on kaik-
+kein puhtainta energiaa ja sen jälkeen tulee ydinvoima, mutta tässä kilpailujärjestelmässä
+niitä ei ole tietenkään. Vesivoima on suljettu, koska siinä menee vähintään kymmenen
+vuotta ennen kuin saadaan joku Vuotos-allas aikaiseksi, ja ydinvoimaa ollaan rakentamas-
+sa, niin että niissä täytyy sitten eri järjestelmät olla olemassa, ja sen jälkeen tulevat aurin-
+ko- ja tuulivoimalat ja niin edelleen. Ja edustaja Hakkarainenkin kyllä totesi, että silloin
+kun tarvittaisiin sitä tuulivoimaa, aurinkovoimaa tammikuussa, niin silloin sitä ei valitetta-
+vasti löydy mutta kesällä löytyy ja silloin vastaavasti täytyy sulkea ydinvoimaloita tai ve-
+sivoimaloita. Tämä on yksi semmoinen negatiivinen ajatusmaailma, mutta kokonaisuus
+ratkaisee.
+
+15.22 Hanna Sarkkinen vas:  Arvoisa puhemies! Vastaan edustaja Mölsälle. Kannattaa
+lukea se meidän vastalauseemme, niin ei tule sitten sanottua vääriä asioita siitä, mitä siinä
+lukee. Emme siis vastusta missään tapauksessa kivihiilen alasajoa, vaan esitämme, että mi-
+käli tämmöinen paketti kivihiilen nopeutetun alasajon tukemiseksi tarvitaan, niin se rahoi-
+tettaisiin muusta kuin siitä, että pienennetään tätä kilpailutusta, esimerkiksi karsimalla fos-
+siilisen energian tukia, jolloin sillä olisi myös sitä kautta myönteinen päästö-, ympäristö- ja
+ilmastovaikutus. 
+
+Eli itse asiassa vastalauseemme perustuu siihen, että kannatamme hallituksen alkupe-
+räistä esitystä. Hallituksen alkuperäinen esitys oli 2 terawattituntia, ja hallituksen alkupe-
+räisessä esityksessä oli myös tämä pykälä uusiutuvan osalta, että sen täytyy olla 90 prosent-
+tia eikä 85. Tämä oli silloin hallituksen lausuntokierrokselle antamassa esityksessä. 
+
+Eli kaikilta osin kannatamme hallituksen alkuperäistä esitystä, ja tämä kritiikki kohdis-
+tuu näihin muutoksiin, mitä matkan varrella tähän on tullut. Esitämme, että tämä kivihii-
+lestä luopumisen paketti, mikäli sellaista tarvitaan, tulisi ottaa fossiilisesta energiasta, ei
+uusiutuvasta energiasta. Sinänsä mitä nopeammin kivihiilen alas ajaa, sen parempi, mutta
+kysymys on siitä, miten se sitten rahoitetaan, jos tämmöistä pakettia räätälöidään. 
+
+15.23 Antero Vartia vihr: Arvoisa puhemies! Talousvaliokunnan puheenjohtaja, edusta-
+ja Mölsä, puhutaan sen verran vakavasta asiasta, että ei liene mitään syytä panetella asian
+tiimoilta. 
+
+Meidän ongelmamme on se, että ilmastonmuutos on todellinen. Ilmastonmuutos johtuu
+siitä, että me synnytämme liikaa ilmastopäästöjä. Niitä syntyy liikaa sen takia, että se on
+sallittua, sen takia, että se on niin halpaa, sen takia, että tahot, jotka aiheuttavat vahinkoa
+muille, eivät sitä joudu maksamaan. Meidän on pakko toimia ja meidän on pakko ajaa se
+alas. Ne vaihtoehtoiset energiatuotantomuodot ovat niitä, jotka eivät synnytä meille ilmas-
+topäästöjä.
+
+Sen verran liittyen tähän syksyllä käsittelyyn tulevaan hiilivoiman nopeutettuun alas-
+ajoon liittyvään tukeen — jälleen kerran tämä henkilökohtaisena mielipiteenäni — että mi-
+nun on vaikea ymmärtää sitä. On perusteltua ajaa alas toiminta, joka aiheuttaa vahinkoa
+9
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+muille, jossa ne kustannukset ovat suuria. Moni toimija, moni kaupunki esimerkiksi, on jo
+lopettanut hiilenpolton. Minun on vaikea ymmärtää sitä, että niille, jotka ovat tehneet sitä
+pidempään, vielä maksetaan siitä hyvästä, että he tekivät sitä pidempään, jotta he voivat lo-
+pettaa sen siinä vaiheessa. Mielestäni meillä lainsäätäjinä on oikeus todeta, että tämmöi-
+nen toiminta on lopetettava johtuen siitä, että me tiedämme, että se on ilmaston kannalta
+vahingollista. 
+
+Kun ilmastonmuutoksesta puhutaan, niin jälleen kerran lienee syytä mainita, että jos il-
+mastonmuutos etenee tähän tapaan, koko sivilisaation kestävyys on uhattuna, koska jos
+muutos on nopea, yllättävä, valtavat ihmismassat ovat liikkeellä, meidän yhteiskuntajärjes-
+tyksemme ei pysy yllä. Siinä vaiheessa meillä on aivan toisenlaiset haasteet edessä.
+
+Vihreiden ja taatusti kaikkien muidenkin asiaan vihkiytyneiden tavoitteena on saada
+päästöt alas, ja siihen tarvitaan erilaisia vaihtoehtoja. Meidän täytyy suhtautua tähän asiaan
+tosissamme. 
+
+15.25 Ville Tavio ps: Arvoisa puhemies! Edustaja Mölsälle vastaan vain, että tässä teidän
+itse hyväksymässänne talousvaliokunnan mietinnössä siis todetaan, että talousvaliokunta
+pitää valitettavana, että hallituksen esityksessä on tarkasteltu varsin kapeasti vesivoiman
+merkitystä ja edellytyksiä sisällyttää vesivoima järjestelmään. Tästä saa varsin nihkeän ku-
+van, siis että talousvaliokunta ei itsekään ole ollut tähän hallituksen esitykseen kovin tyy-
+tyväinen. Siinä mielessä, kuten myönsittekin vesivoiman hyvät ominaisuudet, kyllä minä
+ihmettelen, että te ette ole uskaltaneet hallituksenne ministereitä vastustaa. Mutta toisaalta,
+kun katsoo tätä teidän toimintaanne, niin ei se minua suoranaisesti yllätäkään. 
+
+15.26 Jani Mäkelä ps: Arvoisa puhemies! Edustaja Vartialle ja miksei muillekin vihreil-
+le tässä kohtaa kysymys, että jos te niin kovasti vastustatte niitä hiilidioksidipäästöjä ja
+muitakin ilmastopäästöjä, niin miksi te samaan aikaan vastustatte ydinvoimaa, jopa niin
+paljon, että vihreät ovat kävelleet hallituksesta ulos ydinvoiman lisärakentamisen takia.
+Tässä nyt taidetaan tulla siihen ideologiaan, että ne energiamuodot kelpaavat, jotka ovat
+mieleisiä. Ideologioiden pohjaltako täällä tehdään päätöksiä vai tosiasioiden? Kummin
+tämä nyt menee? 
+
+15.27 Hanna Halmeenpää vihr:  Arvoisa rouva puhemies! Vihreät kannattavat kaikkea
+ilmastoystävällistä ja ympäristöystävällistä energiantuotantoa. Me haluamme, että näistä
+molemmat ehdot toteutuvat yhtä aikaa.
+
+Mitä tulee ydinvoimaan, niin arvoisa edustaja Mäkelä ja kaikki muutkin perussuomalai-
+set, on hyvä muistaa se tuotannon koko elinkaari alkaen uraanin louhinnasta päättyen ydin-
+jätteen loppusijoitukseen. Tuolle välille niin Suomen sisällä kuin Suomen rajojen ulkopuo-
+lellakin sisältyy sellaisia ympäristöriskejä, joita emme voi hyväksyä, ja siitä syystä ydin-
+energian tuotanto koko elinkaari huomioiden ei ole kestävä, ympäristöystävällinen ratkai-
+su. Sitten meillä on Suomessa erilaisia ydinvoimahankkeita. On jopa sellaisia, jotka ovat
+vielä tavallistakin vähemmän hyväksyttäviä, kuten vaikkapa Fennovoima-hanke siellä Py-
+häjoen Hanhikivenniemellä, jossa nämä ympäristölliset näkökulmat ovat monelta osin niin
+pöyristyttäviä, että tässä nyt ei ehkä se 5 minuuttia riitä niiden kaikkien esille tuomiseen.
+
+Yleiskeskustelu päättyi ja asian käsittely keskeytettiin.
+10
+
+
+	4
+	14.48
+	14.54
+	14.59
+	15.03
+	15.06
+	15.09
+	15.11
+	15.14
+	15.15
+	15.18
+	15.19
+	15.22
+	15.23
+	15.25
+	15.26
+	15.27
+
+

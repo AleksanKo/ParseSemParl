@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM5505.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 129/2018 vp
+
+Täysistunto
+
+Keskiviikko 12.12.2018 klo 14.02—21.40
+
+22. Hallituksen esitys eduskunnalle laeiksi ajoneuvolain ja ajokorttilain sekä eräiden niihin 
+liittyvien lakien muuttamisesta
+
+Hallituksen esitys HE 173/2018 vp
+Valiokunnan mietintö LiVM 33/2018 vp
+
+Ensimmäinen käsittely
+
+Puhemies Paula Risikko: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 22. asia.
+Käsittelyn pohjana on liikenne- ja viestintävaliokunnan mietintö LiVM 33/2018 vp. Nyt
+päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+19.34 Ari Jalonen sin (esittelypuheenvuoro): Arvoisa puhemies! Nyt on otsikon — halli-
+tuksen esitys eduskunnalle laeiksi ajoneuvolain ja ajokorttilain sekä eräiden niihin liittyvi-
+en lakien muuttamisesta — takana tuttavallisemmin kevytauto. Eli omaa pohdintaa hie-
+man taustalle: niin kauan kuin nuoret ovat Suomessa liikkuneet mopoautoilla, tässä salissa
+on ollut useita edustajia, jotka ovat pohtineet, miten tilannetta saataisiin turvallisemmaksi,
+ja nyt me olemme tilanteessa, jossa tämmöinen ratkaisu on löytymässä tai löytynyt.
+
+Kyseessä on siis uusi ajoneuvoluokka, jota kutsutaan kevytautoiksi. Ne ovat siis nor-
+maaleja autoja, mutta ne ovat T-ajoneuvoluokkaa, ja niitä saa AM-ajoluokan ajokortilla
+ajaa. Tässä yhteydessä on myös hyvä mainita, että miksei tämä kelpaisi myös ikäihmisil-
+lekin tai kenelle tahansa ajoneuvoksi.
+
+Tämä on asia, joka on pohdittu todella monipuolisesti ja monelta suunnalta. Tämän voi
+nähdä toisaalta ympäristöystävällisenä asiana, toisaalta tämän voi nähdä ympäristöä kuor-
+mittavana asiana. Toisaalta tämän voi nähdä turvallisuutta lisäävänä asiana, ja toisaalta tä-
+män voi nähdä turvallisuutta heikentävänä asiana. Mutta valiokunnan selkeä enemmistö
+nimenomaan turvallisuuteen painottaen on tätä hyväksymässä ja näkee tämän turvallisuut-
+ta parantavana asiana.
+
+Eli koska nämä ovat ”normaaleja autoja” ja uudehkoja semmoisia, niin niissä on aina
+uusin turvavarustus mukana, mikä tulee vakiovarusteina, ja sitten tietysti lisävarusteina
+löytyy jo nyt uusia tekniikoita, kuten esimerkiksi automaattiset jarrutukset, jalankulkija-
+tunnistukset ynnä muut, ynnä muut. Sehän on fakta, että mitä tänään on lisävarusteena, on
+vähän ajan päästä vakiovarusteena. Eli tästä löytyy tämä turvallisuuspuoli, ja tähän perus-
+tuu sitten myös iso osa näitä muutoksia, joita me olemme valiokunnassa tehneet.
+
+Tämä on siis vaihtoehto esimerkiksi mopolle, mopoautolle tai jollekin muulle liikkumis-
+muodolle. Tämä ei siis poissulje mitään, vaan tämä on vaihtoehto ja tuo liikkumisen mah-
+dollisuuksia nuorille, varsinkin alueella, missä ei ole joukkoliikennettä — pääsevät vähän
+vapaammin liikkumaan. Tätä pohdittiin myös niin, että kun nuori pääsee liikkumaan har-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+rastuksiinsa helpommin, niin myös se perhe voi päästä helpommalla, koska isä ja äiti eivät
+enää joudu välttämättä kuljettamaan niihin jääkiekkoharjoituksiin lastansa ja ajamaan siel-
+tä edestakaisin, elikkä siinä myös tämmöinen ympäristönäkökanta voi syntyä. Ja samalla,
+kun tämä on normiauto, se muutos katsastetaan takaisin taas autoksi jossain vaiheessa, ja
+siinä voi sillä nuorella olla käytännössä sama ajoneuvo alla 15-vuotiaasta eteenpäin vain
+pienen muutoskatsastuksen jälkeen.
+
+Mutta koska tämä on niin iso muutos ja ihan uusi ajoneuvoluokka, niin tämmöiseen liit-
+tyy aina tietynlaisia riskejä. Me korostamme erittäin voimakkaasti seurannan merkitystä
+tässä yhteydessä, ja jos joitain ongelmia löytyy, niin velvoitetaan myös eri viranomaiset
+viipymättä toimimaan niitten havaintojen mukaan. Valiokunta myös haluaa siitä selvityk-
+sen, mitä kokemuksia siitä on saatu.
+
+Muutos, mikä on myös peräänajoja vähentävä asia, on hitaan ajoneuvon kilpi. Me vaa-
+dimme sen sinne taakse, niin että takaapäin erotetaan, että tuo ajoneuvo kulkee hieman hi-
+taampaa.
+
+Nopeus. Me pohdimme myös sitä useilta eri näkökannoilta ja päädyimme siihen, että on
+kuitenkin kokonaisuus huomioon ottaen parempi, että se rajoitin pistetään 60 kilometriin
+tunnissa, jolloin siihen on ihan uusia näkökantoja: liikenne on sujuvampaa, ja ohitustarve
+vähenee, ja myös se mainittu peräänajoriski pienenee. Mutta, korostan vielä, on luonnol-
+lista, että kaikki liikennesäännöt koskevat myös kevytautoja, eli jos ajetaan taajamassa ja
+siellä on vaikka kolmenkympin nopeusrajoitusalue, niin tietenkin ajetaan sitten kolmea-
+kymppiä. Tähän liittyy myös se, että jos viidenkympin alueella olisi ollut 45-rajoitin, niin
+se olisi ollut mallia talla pohjassa, ja asiantuntijakuulemisen mukaan siinä kulutus olisi sit-
+ten noussut, ja se ei tietenkään nykyisessä ympäristöpolitiikassa ole hyvä asia. Todettiin
+myös se, että vanha sanonta ”ei mopolla moottoritielle” tässäkin kohtaa pidetään, elikkä
+tällä ei saa ajaa moottoritiellä eikä moottoriliikennetiellä.
+
+Fakta on myös se, että aina niin kauan kuin ihmisellä on ollut ajoneuvoja, niitä on viri-
+telty. Se on riski, mikä on olemassa, eikä sitä kokonaan pystytä koskaan kiertämään, mutta
+tämä nopeuden nosto voi myös vähentää sitä virittämisen tarvetta. Nyt on koetettu siihen
+kiinnittää huomiota ja kehotetaan myös etsimään keinoja, miten tämmöiset mahdolliset vi-
+ritykset estettäisiin tai ainakin löydettäisiin, elikkä katsastuksia tai jonkin mustan laatikon
+tai tämmöisen rakentaminen rajoittimen yhteyteen tai esimerkiksi sinetöimällä se. Mutta
+silloin, kun tämmöisiä kaikkia tekniikoita siihen pistetään, tarvitsee luonnollisesti katsoa,
+miten ne toimivat ja mikä on se arvio myös oikeudellisista näkökannoista.
+
+Jos tämmöinen virittäminen tulee kyseeseen, niin vahva tulkinta on se, että se on sitten
+kulkuneuvon kuljettaminen oikeudetta, ja silloin tulee tietysti ajokieltoon määrääminen
+elikkä sakkoja ja kaikennäköistä. Mutta mikään ei toimi, jos ei tien päällä ole valvontaa,
+elikkä sitä halutaan korostaa vielä.
+
+Sitten vielä: Koska aikaisemmat esitykset ovat lähestulkoon aina kaatuneet joihinkin
+EU-asioihin, niin nyt tätä on sieltä tarkisteltu. Ministeriöltä ollaan saatu selvitys, että tällä
+pohjalla uskalletaan edetä, ja senpä takia tämä on nyt täällä.
+
+Tässä on kaksi lausumaehdotusta, joista ensimmäinen korostaa ja koskee valvontaa ja
+raportointia ja toinen on sitten hitaan ajoneuvon kolmiota koskeva.
+
+Tällä oli valiokunnan suuri enemmistö, mutta tästä on myös hylkyvastalause jätetty,
+elikkä tästä sitten äänestetään myöhemmin. — Kiitos.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+19.44 Katja Taimela sd: Arvoisa rouva puhemies! Hyvät kollegat! Meillä on nyt siis en-
+simmäisessä käsittelyssä valiokuntatyön läpikäynyt hallituksen esitys, joka on puhuttanut
+jo vuosia lähinnä maaseudulla ja keskikokoisissa kaupungeissa, joissa nuoret liikkuvat yhä
+enenevissä määrin mopojen lisäksi mopoautoilla. Tämä esitys mahdollistaa uuden liikku-
+misen muodon erityisesti nuorille, 15—17-vuotiaille, kun otamme käyttöön uuden ajoneu-
+voryhmän mahdollistaen tulevaisuudessa, 1.11.2019 alkaen, kevytautot.
+
+Nykyiset mopoautot, joita ei tämä laki jatkossakaan kiellä, koetaan liikenteessä usein
+turvattomiksi, ja niiden kanssa on nähty valitettavia liikenneonnettomuuksia. Elinkaarensa
+aikana jokainen mopoauto joutuu keskimäärin ainakin kerran liikennevahinkoon ja joka
+viides mopoauto henkilövahinkoon johtavaan liikenneonnettomuuteen. Kevytauton myö-
+tä erityisesti nuorille tuodaan ajoneuvojen rakenteen ja turvatekniikan osalta turvallinen
+liikkumisen vaihtoehto, joka voi hyödyttää isostikin nuorten ja perheiden arkea erityisesti
+sellaisia alueilla, joilla joukkoliikennettä ei ole yksinkertaisesti saatavilla. Mopoautoon
+verrattuna kevytauto voi olla käyttöiältään pidempiaikainen vaihtoehto, jonka elinkaares-
+sa myös osa ajoneuvon kustannuksista on saadun selvityksen mukaan mopoautoa pienem-
+piä.
+
+Kevytautoa vaihtoehtona mopoautolle koskeva lakihanke on perusteltu liikenneturvalli-
+suuden parantamiseksi. Toki siinäkin on puolensa. Rajoitettu kevytauto on massaltaan täy-
+sin toinen kuin mopoauto, ja näin ollen mahdollisessa törmäystilanteessa myös törmäyse-
+nergia on moninkertainen. Kevytauton suurin sallittu omamassa on 1 500 kiloa, ja valio-
+kunnassa halusimme mahdollistaa myös sähköautot kevytautoina ja akkuihin liittyvän li-
+säpainon vuoksi teimme pykälämuutosesityksen, jonka mukaan sähköautojen omamassan
+enimmäisraja olisi 1 800 kiloa.
+
+Arvoisa rouva puhemies! Lausuntokierroksella ja valiokuntakuulemisissa ihan odote-
+tusti nousi esiin, että nopeusrajoite ei saa olla liian helppo purkaa. Pääsääntöisesti haluan
+luottaa perheisiin ja nuoriin, mutta jos rajoite on liian helppo kiertää, sitä myös helposti
+kierretään, ja jokainen meistä varmasti tiedostaa, että valvonta tulee olemaan vähintäänkin
+haastavaa tämän kanssa. Valiokuntatyössä painotimme tien päällä tapahtuvan valvonnan
+keskeistä merkitystä mutta myös kaikkien teknisten mahdollisuuksien hyödyntämistä no-
+peudenrajoittimien käytön seurantaan.
+
+Ennakkoon palautetta on tullut lähinnä ammattiautoilijoilta liittyen liikennevirtojen su-
+juvuuteen, jos nopeusrajoitettujen henkilöautojen määrä kasvaa merkittävästi. Valiokun-
+nassa muutimme hallituksen esitystä niin, että ehdotetun 45 kilometriä tunnissa sijasta ke-
+vytauton suurin rakenteellinen nopeus on rajoitettu 60 kilometriin tunnissa. Muutoksella
+sujuvoitetaan liikennettä, ja sillä on myös positiivisia vaikutuksia ympäristön kannalta.
+
+Mitä tulee arvioihin siitä, että osa nuorista ohjautuisi uudistuksen myötä pois joukkolii-
+kenteen käytöstä, haluan muistuttaa, että maaseutumaisissa kaupungeissa ja maaseudulla
+ei todellakaan ole mahdollisuutta kulkea tänäkään päivänä opiskeluihin ja harrastuksiin
+jouhevasti joukkoliikenteen turvin, jos ollenkaan.
+
+Ilmastonäkökulmasta pitää ottaa huomioon myös se, että osa mopoista ja mopoautoista
+tulee vaihtumaan kevytautoihin, jotka ovat jo itsessäänkin ympäristölle parempi vaihtoeh-
+to. Lisäksi nuorten itsenäisten liikkumismahdollisuuksien parantuminen vähentää käytän-
+nössä vanhempien eestaas kuskaamista opiskeluihin, harrastuksiin ja kavereiden luokse.
+
+Käsittelyn aikana on pohdittu myös uudistuksen kustannuksia. Ketä tämä oikeasti hyö-
+dyttää, ja onko perheillä varaa ostaa ja antaa nuorelle käyttöön enintään kymmenen vuotta
+vanha auto, tässä alkuvaiheessa kuitenkin vähintään vuonna 2014 tai myöhemmin käyt-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+töön otettu henkilöauto? Tässä keskustelussa pitää erityisesti muistaa se, että käytetty mo-
+poauto maksaa helposti lähes 10 000 euroa ja uusi jopa yli 15 000 euroa, eli ei ole mopoau-
+toilukaan ihan halpaa tai kaikkien perheiden saavutettavissa. Elikkä koen, että tämä on on-
+gelmallinen syy vastustaa tätä lakiesitystä.
+
+Arvoisa puhemies! Käsittelyn aikana kriitikot todistelivat useamman kerran, että laki-
+muutoksen jälkeen 8 000 mopoauton sijasta jopa 40 000 kevytautoa kurvailee meidän
+nuorten käsissä liikenteessä. Enemmän olisin itse kaivannut lukuja ja arvioita siitä, kuinka
+isossa osassa perheitä kevytauto tulee olemaan perheen kakkosauto, kuinka monta enem-
+män saastuttavaa mopoa ja mopoautoa vaihtuu kevytautoon, kuinka monessa perheessä
+loppuvat tuplamatkat, kun nuoriso pystyy liikkumaan itsenäisesti, ja kuinka monessa kau-
+pungissa ja kunnassa pääsee liikkumaan jouhevasti julkisen liikenteen turvin kouluun ja
+harrastuksiin tänä päivänä.
+
+Arvoisa rouva puhemies! Kannatan lakiesitystä valiokunnan tekemien muutosten poh-
+jalta, ja uskallan myös pohtia tässä ensimmäisessä käsittelyssä ääneen, että paitsi, että tämä
+esitys on kannatettava, se tulee olemaan käytännön elämässä myös päästöneutraali.
+
+19.50 Jyrki Kasvi vihr: Arvoisa puhemies! Nuorten liikenneturvallisuuden parantami-
+nen on arvokas tavoite. Valitettavasti tämä laki ei kuitenkaan turvallisuutta edistä, pikem-
+min päinvastoin. Tämän lain valmistelu on lähtenyt liikkeelle huolesta mopoautojen tur-
+vattomuudesta. Erityisesti niiden törmäyskestävyyttä on pidetty heikkona. Siksi mopoau-
+tojen rinnalle on haluttu luoda uusi ajoneuvoluokka, kevytauto, joka olisi käytännössä no-
+peusrajoitettu pieni henkilöauto, vaikka lakiteknisesti se luokiteltaisiinkin traktoriksi.
+
+Jo lain valmistelun aikana on kuitenkin käynyt ilmi, etteivät kevytautot juurikaan paran-
+taisi liikenneturvallisuutta. Kuten hallituksen esityksen perusteluissa todetaan, liikennetur-
+vallisuus paranisi lähinnä siltä osin kuin kevytautot korvaisivat mopoja, ei mopoautoja. Tä-
+män vahvistivat myös valiokunnassa kuullut asiantuntijat. Nuorten moottoriliikenteen to-
+dellinen turvallisuusriski kun ovat nimenomaan mopot — mopot, joiden onnettomuusriski
+on moninkertainen mopoautoihin ja kevytautoihin verrattuna — ja niiden törmäysturvalli-
+suus se vasta huono onkin.
+
+Arvoisa puhemies! Valiokunta päätti liikenteen sujuvuuden parantamiseksi nostaa ke-
+vytautojen enimmäisnopeuden hallituksen esityksen 45 kilometristä tunnissa 60 kilomet-
+riin tunnissa, mikä siis lyhentää kuljettajien reaktioaikoja, pidentää jarrutusmatkoja ja li-
+sää kolarien vakavuutta. Ajoneuvon liike-energia nousee nopeuden toiseen potenssiin, eli
+törmäys 60 kilometrin tuntinopeudessa on 78 prosenttia voimakkaampi kuin 45 kilometrin
+tuntinopeudessa. Tämä jos mikä todennäköisesti heikentää nuorten ja muiden tiellä liikku-
+vien turvallisuutta, etenkin kun kevytautoa voi ajaa samalla AM/121-ajokortilla kuin mo-
+poautoa. Eli 15-vuotias kuljettaja pääsee 30 kilometriä tunnissa kulkevan henkilöauton rat-
+tiin neljän tunnin teoriaopetuksen, teoriakokeen ja ajokokeen jälkeen. Pakollista opetusta
+olisi siis vain neljä tuntia teoriaa.
+
+Arvoisa puhemies! Suomi on sitoutunut vähentämään ilmastopäästöjään nopealla aika-
+taululla. Tasavallan presidenttikin totesi äskettäin YK:n ilmastokokouksessa Katowicessa,
+että myös Suomen on nopeutettava ilmastotoimiaan. Siksi olisi yllättävää, jos hallitus esit-
+täisi lainsäädäntöä, joka sen omastakin mielestä lisäisi liikenteen hiilidioksidipäästöjä —
+siis hidastaisi Suomen ilmastotoimia. Kevytautot lisäisivät liikenteen ilmastopäästöjä.
+Tämä ei ole opposition spekulointia, vaan päästöjen kasvu todetaan esityksen perusteluis-
+sa ja asiaan saatiin vahvistus valiokunnan kuulemilta asiantuntijoilta. Hallitus haluaa siis
+4
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+tietoisesti lisätä Suomen liikenteen päästöjä. Tässä vaiheessa ilmastokriisiä meidän ei to-
+dellakaan pidä hyväksyä lainsäädäntöä, joka aktiivisesti kiihdyttää ilmastonmuutosta.
+
+Arvoisa puhemies! Tästä esityksestä ei saa kelvollista pykäliä muuttamalla tai lausumil-
+la. Se on hylättävä kokonaan, kuten vastalauseessamme todetaan, mutta siihen palaamme
+toisessa käsittelyssä.
+
+19.53 Markus Lohi kesk: Arvoisa puhemies! Nyt pitää kyllä kiittää hallitusta tästä mi-
+nusta erinomaisesta esityksestä. Ymmärrän sen, että kun eletään täällä pääkaupunkiseudul-
+la, jossa julkinen liikenne toimii hyvin, kuten monessa suuressa kaupungissa toimiikin,
+niin tilannehan on niin, ettei varmasti ole tarvetta tämmöiselle kevytautolle tai nykyisille
+mopoautoillekaan. Mutta silloin, jos menemme, sanotaan, keskisuuriinkin kaupunkeihin,
+joissa ei oikeastaan tänä päivänä joukkoliikenne kovinkaan hyvin toimi, puhumattakaan
+haja-asutusalueista, niin minusta tämä kyllä erittäin hyvin vastaa tämän päivän nuorten tar-
+peeseen liikkua paitsi kouluun myös harrastuksien pariin ja tuo kyllä turvallisuutta siihen
+liikkumiseen. Jos ajatellaan tämän päivän mopoautoja, niin ne ovat kyllä melko turvatto-
+mia koppeja.
+
+Minusta, jos ajatellaan liikenteen sujuvuutta ja turvallisuuttakin, liikenne- ja viestintä-
+valiokunta teki viisaan päätöksen, kun nosti nopeutta 45 kilometristä tunnissa 60 kilomet-
+riin. Se on minusta ihan perusteltu päätös.
+
+Sen sijaan oikeastaan kysyisin, kun täällä on valiokunnan puheenjohtaja, puhuttiko teitä
+valiokunnassa kysymys auton iästä. Olisiko parempi, että olisi mieluummin lähdetty siitä,
+että edellytetään, että siinä on tietyt turvavarusteet? Jos ajatellaan varsinkin tämän lain voi-
+maantulossa ollutta säännöstä, eli 1. tammikuuta 2015 rekisteröidyn tai sen jälkeen rekis-
+teröidyn auton pitäisi olla kysymyksessä, ja sitten myöhemminkin kuitenkin enintään kym-
+menen vuotta vanhan, niin kun meillä on katsastusjärjestelmä ja meillä ajetaan monta kym-
+mentäkin vuotta vanhoilla autoilla liikenteessä, jopa moottoritiellä 120 kilometriä tunnissa
+laillisesti, niissä ei ole välttämättä edes tämmöisiä ABS-jarruja tai muita ajonvakautusjär-
+jestelmiä, niin miksi tämmöisessä autossa, jossa on rajoitettu enimmäisnopeus 60 kilomet-
+riin tunnissa, pitäisi rajoittaa auton ikää? Olisiko parempi, että edellytettäisiin ne turvava-
+rusteet, jolloin se mahdollistaisi myös, että vähävaraisemmalla ja pienempituloisella per-
+heellä olisi mahdollisuus hankkia turvallinen vanhempi auto, mutta kuitenkin huomatta-
+vasti mopoa tai mopoautoa turvallisempi vaihtoehto tälle nuorelle, jotta hän pääsee kou-
+luun ja harrastusten piiriin?
+
+Nyt kun katsoo näitä hintoja, niin ei tuommoista vuoden 2015 autoa, halvintakaan au-
+toa, saa juuri alle 10 000 euron, ja kyllä ne 10 vuottakin vanhat autot ovat aika arvokkaita.
+Tämä on oikeastaan ainoa kysymys, joka minulla tässä herää. Muuten tämä on minusta
+hyvä juttu.
+
+Voin kyllä senkin todeta, että itse olisin valmis myös tuossa ajokortti-iässä liukumaan
+hieman alaspäin. Meillä on paljon maita, joissa on [Puhemies koputtaa] alhaisempi se ikä-
+raja. Sitäkin kannattaisi harkita.
+
+19.57 Jani Mäkelä ps: Arvoisa puhemies! Muutamia näkökohtia tähän mietintöön.
+Eli tämä autojen ikäkysymys, mitä edustaja Lohi äsken toi esille: itse näen sen myös
+
+niin, että tässä tavallaan on tilaisuus autokantamme nuorentamiseen. Kun meillä on kroo-
+ninen ongelma siinä, että autot ovat liian vanhoja, niin nyt tässä tulee kannustin sen auto-
+kannan nuorentamiselle. Ainakin oman ymmärrykseni mukaan voisi olla ongelmia myös
+5
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+sen kevytautoksi konvertoinnin teknisen puolen kanssa, jos autot olisivat kovin vanhoja,
+niitten ohjausjärjestelmien yhteensopivuudessa ja muussa vastaavassa, että saadaan siitä
+autosta sellainen, ettei sitä pysty virittämään. Tällainen ainakin olisi oma tuntumani asias-
+ta.
+
+Edustaja Kasvin laskelmat liike-energiasta ovat tietysti matemaattisesti ottaen oikeita,
+mutta kun lakeja lähdetään säätämään, niin kaiketi perusoletuksen pitää olla, että lakia nou-
+datetaan ja nopeusrajoituksia noudatetaan eli taajamassa ei sitä kuuttakymppiä ajeta ja sitä
+riskiä onnettomuudesta sillä tavalla aiheuteta.
+
+Haluaisin tuoda sellaisen aiemmin mainitsemattoman näkökohdan esille tähän asiaan,
+että tässä pitäisi kuitenkin ottaa vakavasti alan yritysten ja harrastajajärjestöjen huoli kevy-
+tauton käyttöönoton vaikutuksesta kaksipyöräisten kulkuneuvojen markkinoihin sekä
+korttien suorittamisen lukumääriin. Kun ennestäänkin moottoripyöräkortin suorittaminen
+on tehty vaikeaksi, niin kuinka moni harvempi ajaa sen jatkossa, kun mopovaihe on jäänyt
+välistä, kun tällä kuitenkin pyritään mopojen määrän vähentämiseen? Kukaan ei kuiten-
+kaan toivo kaksipyöräisten markkinoiden kurjistumista entisestään, ja onhan meillä myös
+kansallinen strategia kaksipyöräisistä.
+
+Heitänkin siis tähän yhteyteen ilmoille ajatuksen ja haasteen siitä, että jos näillä esityk-
+sillä sivutuotteena heikentäisimme kaksipyöräisten markkinoita ja ajokorttien suorittami-
+sen lukumääriä, niin voisiko meiltä löytyä joitakin keinoja moottoripyörän edellytysten ja
+kustannusrakenteen parantamiseksi.
+
+19.58 Ari Jalonen sin: Arvoisa puhemies! Hyvää keskustelua, kiitos.
+Tosiaan Kasvi nosti esille autokoulusta tai ajokortin ajamisesta sen, että ensimmäisen
+
+ajokortin kohdalla on tämä neljän tunnin vaatimus. Otan nyt vähän vapauksia mutta tulkit-
+sen valiokuntaa niin, että valiokunta kyllä näkee sen mahdollisuutena, ettei sen tarvitse olla
+pelkästään teoriaa, vaan sitä tulee kehittää jatkuvasti nimenomaan niitä henkilökohtaisia
+tarpeita ajatellen, mitä kulloisellakin ajokortin ajajalla on. Eli toiselle voi olla se teoria tar-
+peellisempaa, ja toiselle voi olla sitten tarpeellista vähän käydä koeajamassa, miltä se lii-
+kenne tuntuu. Eli uskallan puheenjohtajana sanoa viestin, että tätä tulee kehittää ja että tu-
+lee pohtia ratkaisuja paremmaksi vaihtoehdoksi.
+
+Lohi kysyi nimenomaan ikää ja hintaa: Jos me vertaamme vaihtoehtoja — siis tämähän
+ei mitenkään syrjäytä mopoautoa, mopoauto on vaihtoehto edelleen — esimerkiksi mo-
+poauton ja henkilöauton hintaa, niin uuden hinnat lähtevät molempien kohdalla noin
+kymppitonnista ylöspäin, ja sitten jos katsotaan käytettyjen markkinoita, niin se on totta,
+että se auto pitää hintansa paremmin, joten se myös on tavallaan vakaampi sijoituskin sille
+nuorelle, ja siitä voi saada takaisin muuttamalla sen oman auton, ja se on pitempiaikainen
+ratkaisu.
+
+Puhemies! Saanko jatkaa vielä, kun 2 minuuttia tuli täyteen?
+
+Puhemies Paula Risikko:  Joo, 3 minuuttia saa puhua.
+
+Kiitoksia. — Eli tämä kevytauto on kokonaistaloudellisesti edullisempi. Mutta se, että
+tässä on tämä raja, takaa sen, että niitä vanhoja kevytautoja sitten ei ole, kun se tarvitsee ta-
+kaisin muutoskatsastaa autoksi. Eli se on uudehko auto aina, jolloin siinä on jo vakiovarus-
+teena viimeisimmät turvavarusteet ja turvalliset korirakenteet, joiden kautta voidaan perus-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+tella myös sitä törmäysenergiaa, mikä tässä tuli esille, ja sitä korkeampaa nopeutta, minkä
+me näimme kuitenkin kokonaisuutena järkeväksi.
+
+20.01 Jyrki Kasvi vihr: Arvoisa puhemies! Haluan vain korjata sen edustaja Lohen vää-
+rinkäsityksen, joka on muutenkin Suomessa yleinen, että mopoautoja olisi vain maaseu-
+dulla, jossa joukkoliikenne ei toimi. Kutsun edustaja Lohen ja muut opintomatkalle Suo-
+men toiseksi suurimpaan kaupunkiin, jonka raja on tästä 7 kilometriä länteen. Siitä alkaa
+Mopoauto-Suomi, kuten jokaisen yläasteen, lukion ja jäähallin pihalla voi todeta — siis sii-
+täkin huolimatta, että bussit, junat ja metrokin kulkevat.
+
+20.02 Markus Lohi kesk: Arvoisa puhemies! En tuossa puheenvuorossani todennut, että
+vain maaseudulla on mopoautoja, vaan totesin, että täällä kaupungissa, missä julkinen lii-
+kenne toimii, ei välttämättä tarvittaisi näitä, vaan pystyisi käyttämään julkista liikennettä.
+Erityinen tarve tämäntyyppiselle lainsäädännölle on siellä, missä julkinen liikenne ei toimi
+ja nuorilla on kuitenkin tarve liikkua harrastuksiin ja kouluun. Siellä tämäntyyppinen lain-
+säädäntö tuo apua. Sen sijaan täällä, missä me nyt elämme, ja tässä lähistöllä, missä julki-
+nen liikenne toimii, nuoret pystyvät kyllä liikkumaan bussilla ja ratikalla ja metrolla.
+
+Vielä oikeastaan opponoisin hieman sitä ikää siinä mielessä, että jos ajatellaan perhettä,
+joka silloin, kun tämä laki astuu voimaan, vaikka vuonna 2019, hankkii aivan upouuden,
+kaikilla mahdollisilla parhailla turvavarusteilla olevan auton ja jolla on vaikka kolme lasta,
+joista sitten 11 vuoden päästä nuorimmainen olisi siinä iässä, että voisi ottaa sen saman au-
+ton käyttöön, niin vaikka se on kaikilla parhailla turvavarusteilla varustettu, siinä tuleekin
+yhtäkkiä tämmöinen kymmenen vuoden ikä eteen, joka minusta ei ole perusteltu. Perustel-
+lumpaa olisi se, ettei pantaisi ikärajoitetta vaan pantaisiin mieluummin sellaiset edellytyk-
+set, että siinä pitää olla vaikkapa ABS-jarrut ja ajovakauden hallintajärjestelmä.
+
+Ymmärrän tietenkin sen, että meidän autokantaa pitää lähteä uusimaan ja nuorenta-
+maan, mutta itse näkisin, että olisi parempi lähteä sieltä päästä, missä autolla ajetaan hie-
+man lujempaa, eikä näistä nuorten autoista. Silloin kun pannaan tämmöiset rajoittimet, niin
+nämähän eivät ole yleensä perheen kakkosautoja vaan ehkä enemmänkin kolmosautoja,
+koska niillä ei sitten pysty tekemään muuta matkaa, kun ei voi moottoriteillä ajella, ja ne
+ostetaan lähinnä sen nuoren käyttöön. Sitten tulee kyllä tämä varallisuus tietyksi kynnyk-
+seksi.
+
+Mutta on hyvä kuitenkin kokonaisuutena, että tämä esitys etenee. Tämä on minusta tur-
+vallisuuskysymyskin ja parannus huomattavasti tämän hetken tilanteeseen.
+
+20.04 Ari Jalonen sin: Arvoisa puhemies! Jatketaan tätä keskustelua.
+Tuskinpa tämmöinen kevytauto on perheen ainoa auto, niin kuin edustaja Lohi sanoi, jo-
+
+ten on oletettavaa, että sillä isällä tai äidillä tai molemmilla on jo ennen kevytautoa auto
+olemassa. Sitten 11 vuoden päästä, kun on pakko ollut muutoskatsastaa takaisin normaali-
+autoksi se uutena ostettu kevytauto, jos vaikkapa isällä on ollut kymmenen vuotta vanha
+auto, silloin se on parikymmentä vuotta vanha. Eikö se ole positiivista, että se vaihdetaan
+uudempaan ja tehdään siitä vaikka sitten kevytauto, kun tässä on uusi auto tullut sitten per-
+heen muuhun käyttöön? Eli tämä voidaan nähdä monella tavalla, mutta joka tapauksessa
+siis on positiivista, jos meidän autokanta uudistuu.
+
+Itse motoristina Mäkelä nosti hyvän näkökannan, mikä on itseänikin pohdituttanut ja
+myös asiantuntijakuulemisessa tullut, eli tässä on myös tämä moottoripyörä- ja mopoauto-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+markkina ja se kokonaisuus. Eli hyvin usein moottoripyöräkauppiaitten isoin markkinatuo-
+te tällä hetkellä on mopoauto, ja se pitää sen firman pystyssä, ja sitten siitä samasta firmas-
+ta saavat motoristit kypärää ja muita ajovarusteita. Jos tämä heikentää taloudellista tilan-
+netta, niin siinä voi olla sitten näissä muissa asioissa vähän hankaluuksia, ja tämä on sem-
+moinen huoli, mikä henkilökohtaisesti huolestuttaa. Mutta siitä huolimatta olen ehdotto-
+masti tämän esityksen kannalla, koska joku aina asentaa nämä rajoittimet. Kannustankin
+näitä nykyisiä mopoautokauppiaita hankkimaan tästä itselleen uuden markkinaraon, elik-
+kä näiden rajoittimien asentamisen edellyttämät kaikki asiat, mitä siihen sitten liittyy.
+
+Kiitoksia tästä keskustelusta. Tämä on hyvä.
+
+20.07 Markus Lohi kesk: Arvoisa puhemies! Ymmärrän tämän näkökulman, että var-
+masti olisi hyvä, että aina sitten päivitettäisiin tuoreempaan autoon, mutta kannan vain
+huolta oikeastaan niistä perheistä, joilla välttämättä ei ole sitä kymppitonnin autoakaan va-
+raa ostaa. Niitä perheitä on paljon, ja heidänkin nuorillaan on varmasti tarve liikkua yhtä
+lailla. Itsellänikin on toinen auto, joka on 2005 ensirekisteröity, jossa on turvatyynyt ja ajo-
+vakauden hallintajärjestelmät, kaikki erinomaiset varusteet, mutta sekään ei kävisi täm-
+möiseksi, vaikka se on uudella tekniikalla varustettu. Tämä on siinä mielessä vähän suh-
+teellista aina, mutta tämä näkökulma varmasti on keskusteltu myös lakia valmisteltaessa, ja
+nyt on päädytty tähän. Jos tässä huomataan matkan varrella, että tämä ei oikein riittävällä
+tavalla toimi ja tätä voidaan muuttaa, niin ainahan lainsäädäntöä voidaan vähän korjatakin.
+Mutta hyvä, että saadaan tämä paketti nyt kuitenkin eteenpäin.
+
+20.08 Ulla Parviainen kesk: Arvoisa puhemies! Yhdyn kyllä edustaja Lohen huoleen sii-
+tä, että tämä sinänsä hyvä lakiehdotus tulee ongelmaksi vähävaraisilla perheillä. Mutta täs-
+sä samassa yhteydessä voin tuoda teille ilon perheestä, joka oli eduskunnan hyvän lainsää-
+däntötyön tuloksena saanut 17-vuotiaalle ajokortin kokonaisharkinnan perusteella — pit-
+kät matkat, haja-asutusalue ja huonot liikennepalvelut — todellakin sen ilon siitä, kun 17-
+vuotiaana sai B-kortin ja pääsi ihan oikealla autolla ajamaan. Eli tämäkin on syytä ottaa
+huomioon sitten, jos oikeasti löytyvät perusteet siihen. Tätä kyllä kannattaisi perheiden
+käyttää hyödyksi, niin että saisi ihan oikean ajoluvan ja oikealle autolle.
+
+20.09 Ari Jalonen sin: Juuri näin, elikkä ajokorttiuudistuksen myötä tuo on mahdollista,
+ja tämä on oikeastaan nyt säädetty siihen minimiin tai maksimiin, kuinka päin se halutaan
+nähdä, mitä EU sallii. Eli se kortti on käytetty ja huomioitu jo aikaisemmin.
+
+Edelleen palaan tähän hintaan. Suomen ajoneuvokaluston, autojen ikä on aivan liian
+korkea, ja se pitää jollakin tavalla saada uusiutumaan. Jos tulkitsen oikein eri puolueiden
+näkökantoja ja puheita, niin veikkaan, että autoveron alentamista tullaan jatkamaan, mikä
+taas vaikuttaa sitten alentavasti autojen hintaan, mitä kautta päästään entistä parempaan ja
+turvallisempaan, vähäpäästöisempään autoon kiinni, ja nimenomaan se turvallisuus para-
+nee kokonaisuudessaan.
+
+20.10 Jani Mäkelä ps: Arvoisa puhemies! Tähän autojen hintakeskusteluun ja kymme-
+nen vuoden ikään lyhyesti kantaa ottaakseni: Tämän autoveron alentamisen ohella sellai-
+nenkin laskelma voisi olla, että jos auto, josta lähdetään tekemään kevytautoa, maksaisi
+tänä päivänä uutena 15 000 euroa, niin yleisen elämänkokemuksen mukaan sen arvo jota-
+kuinkin puolittuu neljän vuoden kuluessa sen hankinnasta ja kymmenen vuoden kuluttua
+8
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+sitä jäännösarvoa ei ole enää valtavan paljon jäljellä. Eli jos se neljän vuoden jälkeen on
+7 500 euron arvoinen, niin lieneekö kolmea, neljää tuhattakaan enää sitten 10 vuoden ku-
+luttua. Todennäköisesti ei. Eli kyllä se hinta kohtuullinen jo siinä kohtaa alkaa olla.
+
+Tästä esityksestä vielä tuli mieleeni mainita se, että kun tässä on huomioitu myös säh-
+köautojen käyttö kevytautoina, niin sähköautothan tietenkin ovat ostohinnaltaan huomat-
+tavasti kalliimpia kuin tällaiset halvat polttomoottorikäyttöiset autot, mitä käytin esimer-
+kissäni. Ja sen lisäksi tähän on säädetty mielestäni hieman häiritsevä erivapaus sähköauto-
+jen painon osalta, eli se saisi olla 1 800 kiloa 1 500 kilon asemasta. Se on mielestäni hie-
+man perusteetonta, koska se perustuu vain siihen, että sähköauton akut nyt sattuvat paina-
+maan enemmän kuin polttomoottorikäyttöisen auton tankki, ja se ei sinänsä millään tavalla
+paranna liikenneturvallisuutta, jos sallimme painavampien sähköautojen ajella, vaan se on
+hieman ideologisen makuinenkin osuus tässä laissa.
+
+20.12 Katja Taimela sd: Arvoisa rouva puhemies! Aivan lyhyesti haluan todeta tähän
+tässä salissa nytten näitten lyhyempien puheenvuorojen kautta käytyyn keskusteluun, että
+kyllä me olimme valiokunnassa ihan varmasti joka ikinen jäsen huolissamme siitä tai käy-
+timme puheenvuoroja siinä valmistavassa keskustelussa liittyen siihen, että tämä ei välttä-
+mättä ole vaihtoehto taloudellisessa mielessä kaikille perheille. Elikkä kaikista vähävarai-
+simmat perheet eivät varmasti pysty tätä kevytautoa sille 15-vuotiaalle nuorelle mahdollis-
+tamaan, mutta toisaalta se ei voi olla myöskään syy vastustaa tätä lakiesitystä. Ja niin kuin
+omassa varsinaisessa puheenvuorossani toin esille, eihän se mopoautokaan ole ollut kaikil-
+le perheille mahdollinen liittyen siihen, että ne uutena helposti maksavat jopa yli sen
+15 000 euroa, ja käytettynä meidänkin lapsen ystäväpiirissä nämä mopoautot ovat maksa-
+neet sitä kahdeksaatuhatta—kymmentätuhatta euroa, niin että näissä puhutaan erittäin
+merkittävistä ja suurista summista verrattuna sitten taas vaikka siihen vaihtoehtoon, että se
+nuori valitsee sen tilastojenkin mukaan kaikista turvattomimman vaihtoehdon elikkä sen
+kaksipyöräisen mopon.
+
+Mutta sitten toisaalta on tämä arvokeskustelu, että mitä nämä kevytautot tulevat sitten
+maksamaan: Jos ja kun niitä perheissä pystytään ostamaan ja nuorille tämä liikkuminen tä-
+män turvallisemman kevytauton kautta mahdollistamaan, niin tietysti arvo on myös siinä,
+että hän pystyy sillä kevytautolla ajamaan sen nuoruusiän ja sitten tosissaan tämän muu-
+toskatsastamisen jälkeen jatkamaan sillä samalla ajokilla ajamista 18-vuotiaana, kun sen
+virallisen ajokortti-iän tulee saavuttamaan. Että sinänsä siinäkin täytyy ajatella, että vaikka
+se on sitten hankintakustannukseltaan alussa kalliimpi vaihtoehto, niin sitten ei ole aina-
+kaan ostettu sinne alle ehkä kenties sitä mopoautoa tai mopoa, vaan sitten tulee tämä kevy-
+tauto, ja se kestää pidemmän aikaa ja on sitä kautta myös kestävämpi vaihtoehto ympäris-
+tönäkökulmasta.
+
+Sitten edustaja Mäkelän kanssa ei varmaan olla sinänsä pahasti eri mieltä tästä itse ai-
+heesta, kun käytit tämän puheenvuoron tästä sähköautoproblematiikasta, että sähköautoil-
+le nyt tulee erilainen painorajoite. Sillä tietämyksellä, joka minulla on — ja myönnän, et-
+ten ole tässä kyllä ollenkaan asiantuntija — me halusimme liittyä näihin ilmasto- ja ener-
+giapoliittisen selonteonkin tavoitteisiin, jotka myös meitä velvoittavat, ja halusimme nämä
+sähköautot tähän ehdottomasti mukaan. Se vain, että sähköauton akkutekniikka tai akku-
+jen painot ovat sitä luokkaa, että sitten koimme valiokunnassa, että tämä 1 800 kilogram-
+maa on sellainen, että me mahdollistamme myös sähköautomahdollisuuden näissä kevy-
+tautoissa. Koen, että se on kuitenkin tärkeä signaali myös ilmastopoliittisista syistä.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 129/2018 vp
+20.15 Ari Jalonen sin: Arvoisa puhemies! Vielä huomio tästä sähköautokeskustelusta:
+Tämähän on yksi niitä muutoksia, mitä valiokunta teki. Esityksessä sähköautolla ei ollut
+lainkaan painorajaa, mutta valiokunnassa todettiin, että koska se painoraja perustuu nimen-
+omaan turvallisuuteen myös sen törmäysenergian suhteen, niin siinä tulee olla jokin raja. Ja
+nyt tämä on arvioitu suurin piirtein niin, että sama automalli, sama merkki ja malli — sit-
+ten on kyse vain siitä energiamuodosta: sähkö vai joku polttomoottori — osuu tähän sa-
+maan haarukkaan nyt sitten.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 173/2018 vp sisältyvien 1.—8. lakiehdo-
+tuksen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+10
+
+

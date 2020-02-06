@@ -1,0 +1,854 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM59E7.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 114/2017 vp
+
+Täysistunto
+
+Keskiviikko 8.11.2017 klo 14.00—21.54
+
+6. Hallituksen esitys eduskunnalle laiksi henkilöautojen romutuspalkkiosta ja sähkökäyt-
+töisten henkilöautojen hankintatuesta sekä henkilöautojen kaasu- tai etanolikäyttöisiksi 
+muuntamisen tuesta
+
+Hallituksen esitys HE 156/2017 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 6. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja vies-
+tintävaliokuntaan, jolle ympäristövaliokunnan on annettava lausunto.
+
+Keskustelu
+
+16.35 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa pu-
+hemies! Käsiteltävänä oleva hallituksen esitys romutuspalkkiosta, sähköautojen hankinta-
+tuesta sekä muuntotuesta liittyy toimenpiteisiin, joilla pyrimme vähentämään liikenteen
+päästöjä ja vastaamaan ilmastonmuutoksen tuomiin haasteisiin. Vuoteen 2030 mennessä
+liikennesektorin tulee vähentää päästöjä 50 prosenttia verrattuna vuoden 2005 tilantee-
+seen. Romutuspalkkiona myönnettävään avustukseen on varattu 8 miljoonaa euroa vuo-
+den 2018 talousarvioon. Sähköautojen hankintatukea ja henkilöautojen kaasu- ja etanoli-
+käyttöiseksi muuntamisen tukea varten on varattu yhteensä 6 miljoonaa euroa vuosittain
+ajalle 2018—2021.
+
+Esityksessä ehdotetaan valtion varoista myönnettävää romutuspalkkiota yksityisille
+henkilöille uuden, vähäpäästöisen henkilöauton ostoa varten. Romutuspalkkio myönnet-
+täisiin, kun toimittaa yli 10 vuotta vanhan henkilöauton romutettavaksi ja hankkii tämän ti-
+lalle uuden henkilöauton, jonka raja-arvo on enintään 110 grammaa per kilometri tai jonka
+käyttövoimana on joko kokonaan tai toisena käyttövoimana etanoli, kaasu tai sähkö. Ro-
+mutuspalkkiota maksettaisiin 1 000 tai 2 000 euroa riippuen hankittavan auton käyttövoi-
+masta. Romutuspalkkion tavoitteena olisi vauhdittaa autokannan uusiutumista.
+
+Toinen ehdotuksista liittyy liikenteen sähköistämiseen. Esityksen mukaan hankintatu-
+kea maksettaisiin yksityisille henkilöille sähköauton ostoa tai yli 3 vuoden vuokrausta var-
+ten. Tukea maksettaisiin 2 000 euroa hankittavaa sähköautoa varten seuraavat 4 vuotta.
+
+Lisäksi esityksessä ehdotetaan muuntotukea yksityishenkilöille henkilöauton muunta-
+miseksi kaasu- tai etanolikäyttöiseksi. Muuntotukea maksettaisiin 1 000 euroa kaasukäyt-
+töiseksi muuntamisesta ja 200 euroa etanolikäyttöiseksi muuntamisesta. Muuntotuella py-
+ritään edistämään vaihtoehtoisten polttoaineiden käyttöä myös vanhassa autokannassa.
+
+Arvoisa puhemies! Toivon, että hallituksen esitys saa myönteisen vastaanoton täällä
+eduskunnassa. — Kiitos.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+16.37 Mirja Vehkaperä kesk: Arvoisa herra puhemies! Pääministeri Juha Sipilän halli-
+tus on ministeri Bernerin johdolla käynyt oikeasti käsiksi siihen, että päästöjen vähentämi-
+nen liikenteessä aiotaan toteuttaa Suomessa ja nämä kansainväliset ilmasto- ja energiatoi-
+met laitetaan täytäntöön myöskin Suomessa. Siksi on tärkeää, että hallituksen esitys romu-
+tuspalkkiosta ja sähkökäyttöisten henkilöautojen hankintatuesta sekä henkilöautojen kaa-
+su- tai etanolikäyttöisiksi muuntamisen tuesta on nyt eduskunnassa. Näistä tavoitteista teh-
+dään nyt konkretiaa.
+
+Miksi näihin toimiin on sitten ryhdytty? Suomen autokanta on Euroopan vanhimpia ja
+Pohjoismaiden vanhinta. Autokannan uudistaminen vähäpäästöisemmäksi on välttämätön-
+tä ilmastotavoitteisiin pääsemiseksi. Siis ne kansainväliset ilmastotalkoot koskettavat
+myöskin meitä. Liikenne tuottaa Suomessa noin 40 prosenttia taakanjakosektorin kasvi-
+huonekaasupäästöistä, ja noin 90 prosenttia kotimaan liikenteen päästöistä taas syntyy ni-
+menomaan tieliikenteessä ja tieliikenteen päästöistä taas 58 prosenttia henkilöautoliiken-
+teestä. Kansallisessa energia- ja ilmastostrategiassa, joka on täällä eduskunnassa hyväksyt-
+ty, on linjattu, että me menemme kohti sitä, että liikenteen päästöjä on puolet vähemmän
+2030. Se tarkoittaa kasvihuonekaasupäästöistä 3,6 miljoonaa tonnia vähennystä. Se on hy-
+vin iso summa ja tarkoittaa paljon erilaisia toimia.
+
+No, mitä tämä sali, eduskunta, voi sitten käyttää työvälineinään? On verotus, siis auto-
+vero, hankintavero, ja sitten myöskin polttoainevero, jos niitä halutaan käyttää. On säänte-
+ly, esimerkiksi se, että latausinfraa uusien asuntojen, kerros- tai rivitalojen, osalta patistel-
+laan täytäntöön. Tai sitten ovat nämä tuet, joista nyt tänään täällä eduskunnassa keskustel-
+laan. Valtionavustusten tarkoituksena on pyrkiä vaikuttamaan kuluttajien käyttäytymiseen
+tavalla, joka nopeuttaa siirtymistä vähäpäästöiseen liikenteeseen. Siis pienillä panostuksil-
+la, esimerkiksi juuri näillä hankintatuilla, saadaan prosessi alkuun ja kehitystä tapahtu-
+maan.
+
+Miten nämä toimet on valittu? Ensinnäkin hallitus on kehyspäätöksissään varannut 100
+miljoonaa lisärahaa vuosille 2018—2021, ja niillä laitetaan täytäntöön sitten eri sektoreilla
+erilaisia vähäpäästöisemmän liikkumisen, maatalouden ja muiden alueiden toimenpiteitä.
+Sitten meillä istuu parlamentaarinen liikenneverkon rahoitusta arvioiva työryhmä, jonka
+ensimmäisenä tehtävänä oli väliraportissaan tehdä esitys juuri näihin liikenteen päästövä-
+hennyksien tavoitteisiin pääsemiseksi, ja nämä olivat meidän tuotos, ja ne on tuotu sitten
+hallituksen esityksenä tänne eduskuntaan päätettäväksi.
+
+On erityisen tärkeää, että henkilöautojen romutuspalkkio saatetaan nyt taas eteenpäin,
+koska jo vuonna 2015 meillä oli kokeilu romutuspalkkiosta ja tästä kokeilusta on hyviä tu-
+loksia. Silloin saatiin paljon romutettavaksi erittäin vanhoja, keski-iältään noin 18,6 vuotta
+olevia autoja, ja tilalle sitten ostettiin uusia autoja. Mutta tässä esityksessä ensinnäkin lai-
+tetaan 8 miljoonaa euroa romutuspalkkion toteuttamiseen rahaa. Kyseessä pitää olla yli 10
+vuotta vanha auto, jonka tilalle sitten ostetaan vähäpäästöisempi auto, ja mitä vähäpäästöi-
+sempi, niin myöskin sitä isompi tämä romutuspalkkio on.
+
+Toisekseen sähköisten henkilöautojen hankintatuki tulee tarpeeseen, koska meillä on ta-
+voitteena, että vuoteen 2030 mennessä liikenteessä olevista autoista sähköautojen osuus li-
+sääntyy vähintään 250 000 sähköautolla. Tuen piirissä eivät ole ladattavat tai perinteiset
+hybridit vaan ainoastaan täyssähköautot. Hankintatukea myönnetään 2 000 euroa, kun os-
+tetaan tai pitkäaikaisvuokrataan vähintään kolmeksi vuodeksi täyssähköauto. Arviona on,
+että liikenteeseen saadaan noin 1 875 uutta täyssähköautoa tämän hankintatuen ansiosta,
+tällä vuositasolla.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Sitten vielä kolmanneksi hallituksen esityksessä on muuntotuki henkilöautojen kaasu-
+tai etanolikäyttöisiksi konvertoinnista, ja tämäkin vastaa siihen huutoon, jota juuri biokaa-
+su- ja bioetanolialalla toivotaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Otetaan muutama puheenvuoro, kun
+sattuu olemaan eri ryhmien edustajilla puheenvuoroja. Näiden jälkeen käydään sitten de-
+batti, koska ministeri on vielä paikalla.
+
+16.43 Olli-Poika Parviainen vihr: Arvoisa puhemies! Tässä esityksessä on useita hyviä
+ja kannatettavia, joskin aika maltillisia esityksiä. Me olemme työstäneet näitä yhdessä
+eduskuntaryhmien kesken parlamentaarisessa liikenneverkkotyöryhmässä ja saaneet ai-
+kaan nyt esityksen, jossa on useita osa-alueita. Nyt esitetään siis vanhan auton romutus-
+palkkiota maksettavaksi uuden auton oston yhteydessä, hankintatukea sähköautoille ja
+muitakin askelia kohti kestävämpää liikennepolitiikkaa.
+
+Tuon tässä puheenvuorossani esiin vihreän eduskuntaryhmän yleisiä näkemyksiä, jotka
+voi summata niin, että veisimme näitä esityksiä jatkossa nykyistä pidemmälle, vaikka
+olemmekin ihan tyytyväisiä siihen, että nämä esitykset täällä tänään ovat. Osaan olemme
+kiinnittäneet huomiota myös vaihtoehtobudjetissamme.
+
+Esityksen mukaan vanhan auton romutuspalkkio on 1 000 euroa, jos auto on poltto-
+moottorikäyttöinen ja sen päästöt ovat alle 110 grammaa kilometriä kohden, viitaten siis
+uuden hankintaan ilmeisesti. Palkkio on 2 000 euroa, jos käyttövoimana on joko kokonaan
+tai osittain korkeaseosetanoli, sähkö, maakaasu tai biokaasu. Romutuspalkkioon on varat-
+tu 8 miljoonaa euroa, ja se on voimassa elokuun loppuun 18. On periaatteena oikein hyvä,
+että Suomen vanhan autokannan uusiutumista nopeutetaan vähäpäästöisemmäksi. Nyt ase-
+tettua päästörajaa, 110 grammaa kilometriä kohden, pidämme kuitenkin turhan korkeana,
+sillä esim. EU:n päästöraja-arvo autonvalmistajille vuonna 20 on 95 grammaa kilometriä
+kohden.
+
+Romutuspalkkiota kannattaisi jatkossa viedäkin nykyistä pidemmälle. Esimerkiksi
+mahdollisina jatkovuosina sen voisi myöntää vain nollapäästöautojen hankintaa edistäväk-
+si. Eräs harkinnanarvoinen ajatus mielestämme on myös romutuspalkkion maksaminen
+joukkoliikenneseteleinä.
+
+Sitten sähköautojen hankintatukeen. Hankintatukea maksetaan esityksen mukaan täys-
+sähköautoille 2 000 euroa vuosina 18—21. Sähköautoille ei kuitenkaan saa romutuspalk-
+kiota ja hankintatukea yhdessä. Kalliimman hintaluokan sähköautot, kuten useimmat Tes-
+lat, on rajattu tuen piiristä pois, sillä tuen saa vain maksimissaan 50 000 euroa maksavan
+auton ostoon. Tuen saa myös auton pitkäaikaiseen vuokraukseen, mikä on järkevää — au-
+toilun tavatkin muuttuvat. Tukea ei voi pitää tietenkään erityisen anteliaana, sillä esimer-
+kiksi Ruotsi maksaa 40 000 kruunua eli noin 4 100 euroa tukea täyssähköautojen hankin-
+taan. Me vihreät esitämme vaihtoehtobudjetissamme lisäksi määräaikaista 5-vuotista va-
+pautusta sekä auto- että ajoneuvoverosta uusien sähköautojen osalta.
+
+Hallituksen esityksessä arvioidaan, että vuoteen 21 mennessä näillä keinoin Suomeen
+tulisi 1 875 uutta sähköautoa. Kyse on ehkä vielä enemmän symbolisesta esimerkin anta-
+misesta; tätä määrää pitäisi saada tästä tietenkin kasvatettua edelleen. Kyse on uuden tek-
+nologian tunnetuksi tekemisestä ja ei ehkä vielä kovassa ytimessään niin paljon ilmastopo-
+litiikasta, mutta suunta on hyvä.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Joissain muissa maissa, esimerkiksi Ruotsissa, on puhuttu myös sähköpolkupyörien
+hankintatuesta. Tätä kannattaisi harkita Suomessakin, ainakin sellaisilla alueilla, missä
+asia on ajankohtainen.
+
+Eräänä yksityiskohtana hallituksen esityksessä on myös konversiotuki autojen muunta-
+miseksi kaasukäyttöisiksi ja korkeaseosetanolikäyttöisiksi. Kyse on pienistä summista ja
+automääristä, mutta toisaalta on tärkeää, että jokainen voi edistää kestävämpää elämänta-
+paa helposti arjessaan ilman, että kukkaron koko määrää kaiken.
+
+Summa summarum: Nämä ovat perusteltuja ja tarpeellisia askelia. Samaan aikaan kui-
+tenkin meidän täytyy tiedostaa se, että ilmastonmuutos ei odota ja meillä on tässä maassa
+haasteita päästövähennystavoitteidemme toteuttamiseksi oikeastaan kaikilla yhteiskunnan
+sektoreilla. Sikälikin liikennesektorin tulee olla jatkossakin erityisen tarkastelun kohteena,
+koska sitä varmasti tullaan kysymään, ovatko nämä nyt päättämämme tavoitteet vielä riit-
+täviä.
+
+Eli tarkastellaan mielellään näitä linjauksia lähitulevaisuudessa vielä yhdessä, kun
+saamme seurantatietoa, ja toivotaan, että kuitenkin kaikki se hyvä, joka näissä linjauksissa
+on, saadaan maksimaalisesti käyttöön.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Vielä edustajat Kulmala ja Mäkelä, ja
+sen jälkeen debatti.
+
+16.48 Kari Kulmala sin: Arvoisa puhemies! Suomen autokanta on Euroopan unionin
+vanhimpia. Tämän erinomaisen esityksen tavoitteena on edistää autokannan uudistumista
+ja vähentää liikenteestä aiheutuvia päästöjä. Samalla edistetään vaihtoehtoisten käyttövoi-
+mien yleistymistä liikenteessä. Tämä lienee meidän kaikkien kansanedustajien tavoite.
+
+Romutuspalkkio on käytössä vain 31. elokuuta 2018 saakka, mutta en millään usko, että
+rahat riittävät sinne saakka, koska ne loppuivat viimeksikin kesken. Romutuspalkkion
+myötä arvioidaan myytävän 7 400 uutta henkilöautoa, joista 3 300 olisi autoja, joita ei olisi
+ostettu ilman romutuspalkkiota vaan joiden sijaan liikennöitäisiin vanhoilla, suurempi-
+päästöisillä autoilla. Tämä on siis myös ilmaston kannalta yksi vuoden tärkeimmistä ym-
+päristöteoista. 
+
+Voidaan tietenkin arvostella, ettei kampanja poista vanhimpia autoja liikenteestä, koska
+niillä ajavilla ei ole varaa ostaa uutta autoa edes 1 500:n romutuspalkkion turvin. Tiedän
+kuitenkin henkilöitä, jotka ovat olleet tästä esityksestä jo niin innoissaan, että he ovat käy-
+neet sopimassa autokaupassa kaupat uudesta autosta. Jos ei mieti ympäristösyitä, oman ta-
+louden kannalta ei kannata viedä romutukseen autoa, jonka arvo on enemmän kuin romu-
+tuspalkkio. Sehän olisi taloudellisesti typerää, vaikka muuten voisi ollakin viisasta. 
+
+Trafin seurantatutkimuksen mukaan vuonna 2015 käytössä olleen romutuspalkkion an-
+siosta liikenteestä poistuneiden autojen keski-ikä oli 18,6 vuotta ja romutuspalkkion hyö-
+dynsi useimmiten nainen mutta parempituloisempi ja iäkkäämpi kuin muut yli 10 vuotta
+vanhan auton omistajat. Heidän keskitulonsa olivat pienemmät kuin uuden auton omistaji-
+en keskitulot muutoin, ja he ostivat halvemman auton kuin uuden auton ostajat keskimää-
+rin, mikä kertoo siitä, että pienituloisia on ollut ostoksilla. Lähes 40 prosenttia romutus-
+palkkiota hyödyntäneistä ei ollut ikinä ennen ostanut uutta autoa. Miksi siis olla kateelli-
+nen, jos naapurin rouva saa ostettua viimeinkin vanhan autonsa tilalle uuden, kohtuuhin-
+taisen auton, ensimmäisen ja ehkä viimeisen koko elämänsä aikana?
+4
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+16.50 Jani Mäkelä ps: Arvoisa puhemies! Autojen romutuspalkkio varmaankin piristää
+autokauppaa vuoden 2018 alkupuolella niin kauan kuin rahaa riittää ja uudistaa autokan-
+taamme, joka on tunnetusti Euroopan vanhimpia, vaikka ajo-olosuhteet ovat taas sitten
+haastavimpia koko Euroopassa. Henkilöautopolitiikkaa tässä maassa ei ole koskaan tehty
+turvallisuus ja tarkoituksenmukaisuus edellä, vaan autoilija on enemmänkin ollut lypsyleh-
+mä, jota verotetaan ja rangaistaan. Koska romutuspalkkion on määrä olla voimassa vain
+elokuun loppuun 2018, niin onkohan hallitus jo varautunut ja ottanut huomioon, onko täs-
+sä kyseessä loppujen lopuksi vain väliaikaisen markkinahäiriön aiheuttaminen koko vuo-
+den 2018 autokaupalle? 
+
+Samalla haluaisin tuoda esille sen tosiasian, että romutuspalkkio ei todellakaan suoras-
+taan helpota monenkaan pienituloisen autoilua, koska rahaa uuden auton ostoon ei ole
+palkkiosta huolimatta, vaikka se kolminkertaistettaisiin. Haluan sanoa myös, ettei nolla-
+päästöautoja ole olemassakaan vaan että sähköautonkin elinkaari ja energian tuottaminen
+sille tuottavat väkisinkin päästöjä. Näissä päästötalkoissa meidän olisi syytä unohtaa ne
+pilvilinnat ja haavekuvat, että autokanta todella uudistuisi kaavaillussa tahdissa, tämä eten-
+kin sen myötä, kun EU tällä hetkellä suojelee suurten maidensa autoteollisuuden intressejä
+ja tuottaa meille paineita nostaa autoilun kustannuksia entisestään.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Nyt voidaan käydä pieni debatti. Pyy-
+dän nyt niitä edustajia, jotka haluavat käyttää vastauspuheenvuoron täällä ministerin, lä-
+hinnä ministerin, ehkä muidenkin käyttämien puheenvuorojen johdosta, nousemaan ylös ja
+painamaan V-painiketta.
+
+16.52 Timo Harakka sd (vastauspuheenvuoro): Arvoisa puhemies! Sosiaalidemokraatit
+ovat tyytyväisiä, koska esitimme edellisessä vaihtoehtobudjetissamme romutuspalkkiota
+ja sähköautojen hankintatukea. Hienoa, että hallitus otti ne omaan ohjelmaansa ja vieläpä
+täsmälleen samoilla summilla kuin viime syksynä esitimme. Ja kun mennään vielä taakse-
+päin, niin ministeri saattaa ehkä muistaa, että olen jo kaksi vuotta sitten tehnyt kysymyk-
+sen sähköautoilun tuesta. Hieno päivä tänään. Mutta lisäksi on hyvä, että hallitus ajaa sitä
+linjaa, jota SDP ajoi parlamentaarisessa liikenneverkkokomiteassa, että ei tueta ainoastaan
+pääkaupunkiseudun kenties varakkaita sähköautoilijoita vaan myös moottorien muunta-
+mista etanolille ja kaasulle.
+
+Toinen kysymys on se, ovatko nämä ehdot liian anteliaat. Ensiksi käyttövoiman osalta
+mainitaan tuen edellytyksiksi, että toinen käyttövoima on sähkö, etanoli tai kaasu. Tämä
+mahdollistaa vanhanmalliset hybridiautot, kun pitää rajata plug-in-autoihin, joten tässä
+varmaankin valiokunta tekee korjauksia.
+
+Lisäksi, kuten edustaja Parviainen sanoi, tämä CO2-raja on [Puhemies koputtaa] liian
+kunnianhimoton. 95 grammaa on varmaankin se vähimmäismäärä, mitä voidaan edellyt-
+tää.
+
+16.53 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä esitys on
+kaivattu ja erittäin tervetullut, ja itsekin parlamentaarisen liikenneverkkotyöryhmän jäse-
+nenä olen tyytyväinen siihen, että työryhmä sai kompromissiesityksen hallitukselle tästä
+asiasta ja nyt sitä täällä aletaan soveltaa.
+
+Romutuspalkkiohan ei ole uusi juttu, vaan se oli käytössä jo edellisellä eduskuntakau-
+della, ja silloin sen hyödyt olivat kiistattomat: valtio sai enemmän verotuloja, autoja vaih-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+toivat keskimääräistä enemmän erityisesti pienituloiset, ja ne autot, joihin vaihdettiin, oli-
+vat pieniä, vähäpäästöisiä autoja, eli kaikki tavallaan voittivat tässä. Nyt tämä on tarkoitus
+tehdä uudestaan, ja hyvä, että hallitus on toimeen tarttunut.
+
+Aikaisemmassa puheenvuorossa kiinnitettiin huomiota hiilidioksidirajaan. Siitähän
+käytiin valmistelun yhteydessä keskustelua, ja 110 grammaa tuli sen johdosta, että valikoi-
+ma siinä ja sen alapuolella on kattava eikä näin suosittaisi mitään tiettyä merkkiä tai mal-
+lia. [Puhemies koputtaa] Eli autovalikoiman määrä pienenee sen alapuolella huomattavas-
+ti.
+
+16.54 Ari Jalonen sin (vastauspuheenvuoro): Arvoisa puhemies! Tämä on tosiaan terve-
+tullut ratkaisu, ja olen tyytyväinen myös siihen vastaukseen, minkä keskustelujen kautta on
+saanut ja hallitus on saanut, että myös autoteollisuuspuoli ja autonmyyjät tulevat mukaan
+tähän talkooseen.
+
+Mutta yksi huoleni koskee sitä, että tässä on muutamia epäselvyyksiä, muun muassa
+tämä hybridikysymys, että onko se normaali hybridi vai plug-in-hybridi. Tästä pitäisi au-
+tokaupoille saada mahdollisimman nopeasti oikeaa, selvää tietoa, että ne pystyvät käsitte-
+lemään näitä. Joten kysymys kuuluu: onhan tässä nyt kiinnitetty huomiota myös tiedotta-
+miseen? Ja kun valiokunnassa käsittelemme näitä asioita, niin teemme mielellämme [Pu-
+hemies koputtaa] nämä tarkennukset asiaan.
+
+16.55 Mirja Vehkaperä kesk (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Mäke-
+lä täällä kuvaili tilannetta, että me Suomessa oikeastaan pakotamme meidän henkilöautoil-
+la liikkuvat tällaisiin erilaisiin ratkaisuihin, jotka ovat ehkä kalliita kuluttajan näkökulmas-
+ta, mutta tämä ei ole mikään suomalainen ilmiö. Tätä tapahtuu Euroopan unionin alueella
+entistä enemmän, ja omasta mielestäni olen nähnyt myöskin, että autoteollisuus on itse lait-
+tanut kortensa kekoon ja pakottanut myöskin oman tuotantonsa muuttumaan entistä vähä-
+päästöisemmäksi. Euroopan komissiokin pakottaa omalla uudella lakipaketillaan, direktii-
+villä, autovalmistajia kehittämään nykyistä pienipäästöisempiä moottoreita. Tämä on se
+suuntaus, haluttiinpa tai ei.
+
+Mutta oikeastaan ministeriltä voisin kysyä: kun nämä ovat oikeastaan ensiaskeleita, joi-
+ta nyt tehdään ja toimeenpannaan tukipolitiikan muodossa, niin olisiko esimerkiksi työsuh-
+deautojen hankintatuki seuraava mahdollisuus, jolla vaikutetaan vähäpäästöisten polttoai-
+netta käyttävien [Puhemies koputtaa] työsuhdeautojen oston yleistymiseen?
+
+16.57 Harry Wallin sd (vastauspuheenvuoro): Arvoisa puhemies! Nyt pitää antaa kiitos-
+ta hallitukselle ja ministerille. Tämähän noudattelee tämän parlamentaarisen työryhmän
+antamia suuntaviivoja, niin kuin täällä on monta kertaa sanottu. Ja sitten tulee tämä sähkö-
+autojen tuki 2 000 euroa, kun hankintahinta on enintään 50 000 euroa. Minä olen ainakin
+henkilökohtaisesti erittäin tyytyväinen tähän konvertointiin eli bensiiniauton muuttami-
+seen kaasuautoksi. Sen muuttamisen hinta on 3 000 euroa, ja nyt kun valtio tulee siihen
+tonnilla mukaan, niin se on 33 prosenttia. Eli tässä tullaan vastaan niitä ihmisiä, jotka eivät
+pysty ostamaan sähköautoa.
+
+Nyt kysymys kuuluu: miten tämä jakeluverkosto saadaan luotua maahan? No, se on
+helppoa tietenkin, kun bensa-asemia on joka puolella. Pannaan siihen yksi pistooli, josta
+tulee sitten tätä biokaasua, ja sen kautta se olisi paljon helpompaa kuin esimerkiksi sähkön-
+jakeluverkon rakentaminen.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+16.58 Anders Adlercreutz r (vastauspuheenvuoro): Ärade talman! Mitä tulee ilmastota-
+voitteisiin, niin nehän ovat Suomen osalta kohtalaisen kunnianhimoiset taakanjakosekto-
+rin osalta, ja on selvää, että liikenteellä on tässä tärkeä osansa. On hienoa huomata, että täs-
+sä on nyt monta eri vaihtoehtoa lyöty pöytään, koska niitten pitää todellakin olla moninai-
+set, ja ilolla kuulin, että edustaja Parviaisella on vielä muutama lisää, jotka on syytä ottaa
+mukaan tähän palettiin.
+
+Romutuspalkkiota on tietenkin helppo poliitikkona tukea. Kuka ei olisi sitä mieltä, että
+on hyvä, jos saa rahaa käteen sillä, että menee ostamaan uuden auton? Edustaja Kopra tuos-
+sa totesi, että kokemukset ovat olleet positiiviset. No, itse asiassa ne eivät ehkä ole olleet
+niin positiiviset tutkimuksen valossa. Nimenomaan se, että siitä tulee tavallaan odotusarvo
+— se tulee muutaman vuoden välein uudelleen — tutkimuksen valossa oikeastaan vain
+siirtää ostopäätöstä eikä niinkään johda siihen, että autokanta uusiutuu. Kun VATT on poh-
+tinut näitä asioita, niin itse asiassa romutuspalkkio on isosta paletista se ainoa, jota se ni-
+menomaan ei suosittele. Kärjessä olisivat polttoaineverot, ruuhkamaksut ja julkisen liiken-
+teen tukeminen — ne ovat niitä selkeästi hyviä toimenpiteitä. Näistä kaikista romutuspalk-
+kio on se selkeästi huonoin. [Puhemies koputtaa] Eli kysyisin ministeriltä: millä tavalla te
+olette pohtinut näitä eri vaihtoehtoja, ja näettekö [Puhemies: Nyt menee, edustaja, aika pit-
+kälti yli minuutin!] tämän ongelman samalla tavalla?
+
+16.59 Satu Taavitsainen sd (vastauspuheenvuoro): Arvoisa puhemies! Sähköautojen
+yleistyminen ja polttoainekonversiot biopolttoaineisiin ovat tavoiteltavia asioita, ja yhdyn
+näihin kiitoksiin ministerille, joita edustaja Harakka tuossa äsken kertoi.
+
+Uusi teknologia tarvitsee tietenkin tukea yleistyäkseen, jolloin tarvittavat tukipalvelut,
+kuten latausmahdollisuus, yleistyvät ja kustannusero nykyiseen teknologiaan verrattuna
+laskee. Pariisin ilmastosopimuksen tavoitteiden saavuttaminen vaatii ripeitä ja monipuoli-
+sia toimia. Kysynkin ministeriltä: Aikooko hallitus näyttää esimerkkiä ja edistää sitä, että
+valtio ja sen kaikki virastot ja yhtiöt korvaavat fossiilisia polttoaineita käyttäviä autojaan ja
+työkoneitaan uusiutuvilla ja vähäpäästöisillä polttoaineilla ja käyttövoimalla kulkevilla?
+Aiotaanko tätä vaatia tuottajilta valtion ja sen konsernin kilpailuttaessa tavaroita ja palve-
+luita?
+
+17.00 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa puhemies! Hallituksen
+esityksessä on selkeästi oikeita askeleita edistää vähäpäästöistä autoilua. Toki tarvitaan
+myös lisätoimia, kuten Adlercreutz nosti hyvin esille polttoaineverolla ohjaamisen ja ruuh-
+kamaksut.
+
+Haluaisin kysyä ministeriltä myös: onko sähköautojen latausverkkoon hallituksella tu-
+lossa lisätoimia, ja miten sitä edistätte? Toisaalta haluaisin kysyä myös biokaasuautoilun
+latausverkosta, johon edustaja Wallin jo viittasi. Pidän itsekin tärkeänä tätä muuntotukea
+kaasu- ja etanoliautoihin ja erityisesti haluaisin edistää biokaasua. Nythän jos tankkaa
+kaasua, niin se on seos maakaasusta ja biokaasusta. Miten voisimme varmistaa, että siellä
+on yhä enemmän tätä bio-osuutta, biokaasua? Ja miten edistätte esimerkiksi maatilakoko-
+luokan biokaasulaitoksia?
+
+17.01 Sari Essayah kd (vastauspuheenvuoro): Arvoisa puhemies! Näihin kaasuautoihin
+minunkin puheenvuoroni liittyy. Sinällänsä kyllä tämä romutuspalkkio, hankintatuki ja
+nämä konversiotuet ovat hyviä, mutta kun siellä hallituksen energia- ja ilmastostrategises-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+sa ohjelmassa on 50 000 kaasuautoa vuoteen 2030 mennessä, niin kyllä tässä vähän herää
+kysymys, miten tämä aiotaan saavuttaa.
+
+Kristillisdemokraatit ovat omassa vaihtoehtobudjetissaan esittäneet, että myöskin
+kaasuautoilla olisi tämmöinen hankintatuki, ja aiemmin me olemme esittäneet myös
+kaasuautojen ajoneuvoveron puolittamista juuri tällä perusteella, mitä tässä edeltävä puhu-
+ja totesi: koska puolet kaasusta on biokaasua, niin onhan se totta kai ilmastoystävällisem-
+pää. Siinä mielessä toivoisin, että tämä kaasuautojen lisääntyminen otettaisiin hallitukses-
+sa ihan tosissaan, koska tässä on muuten se muna—kana-ilmiö, että ei synny tankkauspaik-
+koja, jos ei ole autoja, ei tule autoja, jos ei ole tankkauspaikkoja. Tämä olisi myöskin maa-
+seudulle tärkeää maaseudun elinkeinojen [Puhemies koputtaa] elvyttämiseksi.
+
+17.02 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä on useam-
+pi edustajakollega kysynyt latausinfrasta ja hallituksen toimista sen suhteen. No, ministeri
+tietysti siihen vastaa, mutta sivuan sitä kuitenkin. Valtion talousarviossa on 1,5 miljoonaa
+euroa varattu sähköisen liikenteen infrastruktuurin edistämiseen eli asuinrakennuksiin, ja
+niitä omistavat yhteisöt saavat tällaista tukea rakentamiseen. Tämä on vastaus myös edus-
+taja Essayahille, koskien juuri tätä muna—kana-ilmiötä, että tällä sitä pyritään edistämään.
+Summa on tietysti kohtuullisen pieni, se on totta, ja kysynkin ministeriltä: pystyttekö arvi-
+oimaan, kuinka paljon tällaista tukea haetaan? Nyt kun tätä talousarviota vielä valtiova-
+rainvaliokunnan jaostossa käsitellään, niin siellä nyt ehkä muutama satatuhatta euroa tä-
+hänkin voisi liietä lisää rahaa, [Puhemies koputtaa] jos tarve on todella olemassa.
+
+17.03 Ulla Parviainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Autojen valmista-
+jien kunnianhimo on avainkysymys tässä, miten saadaan ilmastoasioita ratkaistua. Minul-
+la on se käsitys, että Euroopan unionin komissiolla on ollut nytten tärkeä ratkaisu tehtävä-
+nä ja Suomessa on vähän huolestuneena odotettu, lipsutaanko siellä näistä aikaisemmin so-
+vituista asioista. Pyytäisin ministeriä kuvaamaan, miten Suomi nytten tästä uudesta ratkai-
+susta selvisi, kun olen ymmärtänyt, että ministeri on tehnyt kovasti työtä sen eteen, että
+sieltä tulisi hyvä päätös.
+
+17.04 Ville Skinnari sd (vastauspuheenvuoro): Arvoisa puhemies! Viime viikolla meillä
+oli tilaisuus täällä Pohjoismaiden neuvoston jäsenillä keskustella tästäkin aiheesta, liiken-
+teen muutoksesta, autokannan muutoksesta ja etenkin siitä, mitä autonvalmistajat tekevät
+Pohjoismaissa ja Euroopassa ja laajemminkin. Oikeastaan yhdyn näihin kiitoksiin, mitä
+SDP:n kollegat ovat esitelleet jo, mutta samalla haluaisin niiden lisäksi ilmaista huoleni sii-
+tä, miten hitaasti Suomi ylipäätään reagoi tähän valtavaan liikenteen muutokseen. Tämä on
+ehkä suurin megatrendi sitten mobiilivallankumouksen globaalisti. Me nyt odottelemme,
+mitä se muu maailma tekee, mitä se Eurooppa tekee, ja katsotaan sitten vielä varmasti kol-
+meen kertaan, mitä se Ruotsi tekee. Tällä tarkoitan sitä, että toivoisin nyt hallitukselta tä-
+män erinomaisen esityksen lisäksi myös kokonaisvaltaisempaa, ministeriöiden rajat ylittä-
+vää strategiaa siitä, miten me voimme investoida uskottavasti tähän liikenteen muutokseen
+tulevana vuosikymmenenä. [Petri Honkonen pyytää vastauspuheenvuoroa]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Halmeenpäällä on kyllä var-
+sinainen puheenvuoro, mutta okei, edustaja Honkonen, vastauspuheenvuoro.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+17.05 Petri Honkonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Itse näen,
+että tämä hallituksen valitsema linja biopolttoaineiden, sähköautoilun ja biokaasun suh-
+teen on hyvä ja tasapainoinen ja sillä saadaan nopeita päästövähennyksiä, mutta on selvää,
+että sähköautoteknologia kehittyy samanaikaisesti ja se on tulevaisuudessa nykyistäkin
+merkittävämpi liikkumismuoto. Suomi on kuitenkin niin pieni markkina, että se kehitys ta-
+pahtuu muun maailman ehdoilla, ja Suomi kyllä, uskon näin, pääsee siihen mukaan.
+
+Nyt kuitenkin me voisimme edistää tätä sähköautojen latausinfraa myös monella muul-
+la tavalla kuin rakentamalla perinteisesti näitä latauspaikkoja huoltoasemille, koska eihän
+sähköautojen lataus tarvitse niin raskasta infrastruktuuria kuin perinteiset liikennepolttoai-
+neasemat. Miten me voisimme edistää esimerkiksi taloyhtiöiden, kerrostaloyhtiöiden tai
+kotitalouksien mahdollisuuksia toteuttaa tällaisia latauspisteitä ja rakentaa tällaista vastaa-
+vaa infraa kuin näiden sähköautojen lataukseen tarvitaan? Tällaistahan itse asiassa jonkin
+verran onkin.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Nähdäkseni kaikki vastauspuheen-
+vuoroa pyytäneet ovat ainakin kerran sellaisen saaneet. Ellei nyt ole erityisen vahvoja tar-
+peita lisäkysymyksiin, niin annan mielelläni ministerille puheenvuoron, 3 minuuttia vali-
+tulta paikalta.
+
+17.07 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Kiitoksia näistä
+palautteista, evästyksistä ja kysymyksistä.
+
+On näin, että vuoden 2015 romutuspalkkiokokeilussa uuden hankittavan auton päästö-
+jen raja-arvo oli 120 grammaa per kilometri, ja siinä ostettiin autoja, joiden päästöt olivat
+keskimäärin 107 grammaa kilometriä kohden. Nyt sitä on kiristetty tähän 110:een. Tavoit-
+teena tässä on ehkä ollut ennen kaikkea se, että me saisimme autokannan uudistumaan ja
+että olisi mahdollisimman hyvä autokantatarjonta tässä kokonaisuudessa. 
+
+Edustaja Harakka aivan oikein totesi sen, että hybridien osalta tämä tulee kohdistaa vain
+plug-in-autoihin, ja näin on myös tarkoitus tehdä. Selvitän, jos siinä on epäselvää muotoi-
+lua, mutta tämä on kuitenkin lain tavoite.
+
+Useammat edustajat kysyivät etenkin kaasuautojen jakeluinfrasta ja sähköautojen la-
+tausverkon kehittämisestä. Tämän parlamentaarisen työryhmän yhteydessä myös allokoi-
+tiin näille molemmille rahoitusta. Se ei näy tässä, ne ovat TEMin valmistelussa ja tulevat
+sitten omaa polkuaan pitkin tänne. Samoin tässä parlamentaarisessa työryhmässä myös
+kasvatettiin joukkoliikenteen tukea 2 miljoonalla etenkin raideliikenteeseen, laitettiin sel-
+vitettäväksi ruuhkamaksujen käyttöönotto, laitettiin selvitettäväksi työsuhdeautojen pääs-
+töttömyyden kehittäminen ja myöskin arvioitiin sitä, mitkä voisivat olla ne seuraavat toi-
+menpiteet, joita käsitellään vielä ennen kuin parlamentaarinen työryhmä antaa lopullisen
+raporttinsa helmikuun loppuun mennessä.
+
+Nyt siis käsittelyssä ovat vain nämä kaksi lakia. Pakettihan on huomattavasti suurempi
+kuin mitä tässä käsitellään.
+
+Tässä edustaja Adlercreutz otti esille sen, että romutuspalkkio ei ole tehokkain keino.
+Meidän selvitystemme mukaan kuitenkin 30 prosenttia auton hankkineista, romutuspalk-
+kiota käyttäneistä ei olisi hankkinut autoa ylipäätään tai vaihtanut autoa ilman tätä tukijär-
+jestelmää. Toki se varmasti myös osin lykkää, mutta se myös synnyttää autokantaan uudis-
+tumista kokonaisuudessaan.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Kaasuautolle ei ole kokonaan hankintatukea. Se johtuu siitä, että sen ajoneuvon hinta on
+niin lähellä diesel- ja bensiiniautojen hankintahintaa. Sen takia emme ole sitä laittaneet
+eteenpäin.
+
+Edustaja Parviainen kyseli tästä asetuksesta, jota EU:n komissio on tänään antamassa.
+Se ei tullut julki, mutta sieltä tuli tiedote, ja tiedotteen mukaan komissio on asettamassa hy-
+vin pitkälti Suomen tavoitteiden mukaisen lähtökohdan, jossa ajoneuvojen ominaispäästöt
+lasketaan siihen vuoteen 2030, mutta tulisi myös välitavoite vuodelle 2025, ja tämä vastaa
+huomattavasti sitä, mitä Suomi on ajanut.
+
+On totta, että nämä tavoitteet, edustaja Skinnari, etenevät hitaasti, mutta kyllä tässä teh-
+dään yhteistyötä ympäristöministeriön, TEMin ja STM:n kanssa niistä näkökulmista, mi-
+ten me voisimme liikenteen osalta tuottaa parempaa kokonaistulosta, ja siinä toki myöskin
+liikenteen digitaalisaatio, palveluistuminen, infrastruktuuri ja asumisen rakentaminen,
+kaikki nämä, ovat asioita, jotka vaikuttavat tähän liikenteen isoon murrokseen, ja näiden
+osalta kyllä tehdään töitä kovasti.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Kiitoksia. Siirtynemme puhujalistaan
+— ja näin me teemme.
+
+17.10 Hanna Halmeenpää vihr: Arvoisa puhemies! On hyvä asia, että vanhan autokan-
+nan uusiutumista vähäpäästöisemmäksi nopeutetaan, mikä on tämän hallituksen esityksen
+tavoitteena. Politiikkatoimissa on samaan aikaan tärkeää pitää tavoitteena sähkölatauspis-
+teiden yleistymistä ja kaasunjakeluverkon laajentumista.
+
+Vihreiden ajatuksena on se, että edistetään kullekin alueelle ja kuhunkin käyttötarkoi-
+tukseen sopivia vähäpäästöisiä liikennemuotoja. Nestemäiset biopolttoaineet on järkevin-
+tä kohdentaa ensisijaisesti raskaaseen liikenteeseen, joka ei tule sähköistymään ainakaan
+kovin nopeasti. Vihreät kohdentaisi omassa tulevaisuusbudjetissaan 3 miljoonaa euroa
+myös sähköautojen latausverkon kehittämiseen. Kattava latausjärjestelmä on avaintekijä
+sähköisen liikenteen kasvussa ja liikkumisen sujuvuudessa. Latausverkkoa on todella pa-
+rannettava paitsi huoltamoilla myös lisäämällä vaikkapa rakennusmääräyksiin velvoite la-
+tauspisteisiin varautumisesta uudisrakentamisessa ja saneerauskohteissa.
+
+Toimissa ja niiden vaikuttavuudessa pitää olla päästövähennysten saavuttamiseksi riit-
+tävästi vauhtia. Vihreät esittävät vaihtoehtobudjetissaan täyssähköautoille 5 vuoden mää-
+räaikaista verovapautta, jolla tavoitellaan 5 000:ta uutta sähköautoa jo vuonna 2018 eli ensi
+vuonna, kun hallituksen esityksen keinoin on arvioitu Suomen liikenteeseen tulevan vajaat
+2 000 sähköautoa mutta vasta vuoteen 2021 mennessä.
+
+Biokaasuauto on hyvä vaihtoehto, kun vaikkapa sähköauto ei etäisyys-, käytännölli-
+syys- tai teknologiasyistä ole paras tai mahdollinen. Tuontimaakaasun käyttö liikennepolt-
+toaineena kannattaisi kuitenkin jatkossa lopettaa ja siirtyä käyttämään ainoastaan kotimais-
+ta biokaasua. Silloin jokainen kaasukäyttöinen ajoneuvo voitaisiin luokitella lähes nolla-
+päästöiseksi ja niitä voitaisiin kohdella kannusteiden osalta samalla tavoin kuin sähköau-
+toja.
+
+Omassa budjetissamme vihreät investoisivat biokaasuun 25 miljoonaa euroa investoin-
+titukena. Kolmen tukivuoden jälkeen näin syntyisi vähintään 300 biokaasulaitosta, joilla
+voitaisiin tuottaa energiaa arviolta yhden terawattitunnin verran vuosittain ja luoda samal-
+la tulovirtoja ja satoja uusia työpaikkoja maaseudulle. Hyödyntämätöntä potentiaalia on
+10
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+paljon paitsi maataloudessa myös elintarviketeollisuudessa. [Jukka Kopra: Mistä nämä
+kaikki rahat tulevat?]
+
+Arvoisa puhemies! Liikenteen päästövähennyksissä on edettävä ripeästi, jotta on mah-
+dollista saavuttaa Pariisin sopimuksen mukaiset kokonaispäästöjen vähentämistavoitteet
+sekä tärkeä tavoite lämpötilan nousun rajoittamisesta alle 2 asteeseen. Hallituksen ensi
+vuoden budjettiin sisältyy monia hyviä esityksiä liikenteen ohjaamiseksi kestävämmälle
+uralle, kuten nyt käsittelyssä oleva romutuspalkkio, mutta ne eivät vaikuttavuudeltaan vie-
+lä aivan riitä: eivät ole riittävän nopeita eivätkä riittävän vaikuttavia välttämättömien pääs-
+tövähennystavoitteiden kannalta. Tarvitaan hieman enemmän. Siinä olemme valmiit kaik-
+keen yhteistyöhön.
+
+17.14 Anders Adlercreutz r: Ärade talman! Kiitos ministerille vastauksesta. Ilmeisesti
+teillä on hieman erilaisia tietoja kuin minulla on. Kaivoin vähän tuota tausta-aineistoa. Itse
+asiassa nämä tutkimukset, joihin VATTin tutkimuksessa viitataan, ovat pääosin amerikka-
+laisia. Voi olla tietenkin, että heillä on hedonistisempi suhde autoiluun ja sikäli ehkä kyn-
+nys ostaa on matalampi. Mutta hyvä, jos hyviä tuloksia on sillä saatu ja uskotaan saatavan.
+[Mirja Vehkaperä: Trafin!] — Selvä.
+
+Kun puhutaan liikenteen tukemisesta, on tietenkin yksi asia tukea hankintaa ja toinen
+sitä infraa. Tässä on tiettyjä satsauksia latausinfran tukemisiin. Siinä on tietenkin aina ta-
+sapainoilua siitä, mikä on valtion tehtävä siinä ja millä tavalla yksityisiä toimijoita voi tu-
+kea infran rakentamisessa. Siinä oli 1,5 miljoonaa ilmeisesti asuinrakennuksille, asunto-
+osakeyhtiöille. Miten te olette pohtinut tätä laajemmin? Millä tavalla näette valtion roolin
+tässä? Onko tämä sellainen asia, jota pitää määrätietoisesti tukea nyt pitkälle tulevaisuu-
+teen, vai missä vaiheessa luulette, että markkinat hoitavat tämän infran rakentamisen itses-
+tään? Tässä vaiheessa tietenkin on toki pullonkaula auton ostamiselle etenkin harvemmin
+asutulla alueella. On vaikea kuvitella, että lappilainen esimerkiksi ihan tuosta vaan lähtee
+sähköautokauppaan, kun siellä ovat etäisyydet kuitenkin sen verran pitkät.
+
+17.16 Jukka Kopra kok: Arvoisa puhemies! Tästä esityksestä, romutuspalkkiosta, on siis
+jo historia osoittanut, että sen verotuotto on ollut positiivinen, ja mitä suurimmalla toden-
+näköisyydellä voidaan olettaa, että tälläkin kertaa se on positiivinen. Autoala tukee voi-
+makkaasti tätä esitystä, ja auton ostajat ja auton vaihtajat ovat tietenkin tässä tiukasti mu-
+kana, joten tämä on monipuolisesti win-win-tilanne ja sikäli erittäin hyvä esitys.
+
+Parlamentaarinen liikenneverkkotyöryhmä jätti väliraportissaan jatkoselvitettäväksi
+asian työsuhdeautojen verotusarvon mahdollisesta alentamisesta. Voitaisiinko tällä ta-
+voin, jos työsuhdeauto olisi siis täyssähköauto, sen verotusarvoa pienentämällä edistää
+täyssähköautojen käyttöä sitten työsuhdeautoina enemmän ja näin saada autokantaa uusiu-
+tumaan nopeasti? Tämähän olisi erittäin nopea keino saada myös vaihtoautomarkkinoille
+täyssähköautoja, sillä työsuhdeautoja käytetään keskimäärin kolme vuotta ja niitä hanki-
+taan vuosittain noin 20 000 kappaletta. Tämä toisi vaihtoautomarkkinoille sähköautoja hy-
+vin nopeaan tahtiin, jos tällainen verotusarvomuutos tehtäisiin siten, että olisi erityisen
+edullista ottaa työsuhdeautoksi täyssähköauto.
+
+Edustaja Skinnari täällä totesi, että liikenne on suuressa muutoksessa globaalisti mutta
+Suomessa tapahtuvat asiat hitaasti. Rohkenen kyllä olla eri mieltä. Mielestäni me olemme
+tällä kaudella tehneet paljon erityyppisiä esityksiä. Meillä on liikennekaari 1 jo päätetty,
+lanseerattu, tulee voimaan lähiaikoina. Liikennekaari kakkonen on täällä eduskunnassa.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Meillä on uusi tieliikennelaki tulossa, yksityistielaki uudistetaan, rautateiden henkilölii-
+kennettä uudistetaan ja niin edelleen. Kaikissa näissä esityksissä on kyllä huomioitu tämä
+liikenteen murros ja digitalisoituminen ja uudet ja kehittyvät palvelut. [Puhemies koput-
+taa] Tältä osin nostan kyllä ministeri Bernerille hattua, että hän on tuonut näitä hyviä esi-
+tyksiä tässäkin määrin eduskunnan käsiteltäväksi.
+
+17.18 Ari Jalonen sin: Arvoisa puhemies! Ensimmäiseksi minä haluan tosiaan kiittää vie-
+lä kerran autoalaa. Ne keskustelut, mitä henkilökohtaisesti olen käynyt, ovat olleet raken-
+tavia, ja kiitos siitä, että autoala lähti tällä 500:lla sitten näihin talkoisiin mukaan. Ja kiitos
+tosiaan hallitukselle, että tämä tuotiin tänne.
+
+Asiaan liittyy kuitenkin jonkun verran epäselvyyksiä, mitä tuossa debatissa jo sanoin, ja
+tuon tässä vähän laajemmin niitä nyt esille. Yksi epäselvyys on nimenomaan tähän romu-
+tettavaan autoon liittyvä kysymys. Muutamissa piireissä on syntynyt käsitys, että sen tar-
+vitsee olla koko edellisen kalenterivuoden omassa omistuksessa. Se nyt on selvää, että sen
+pitää olla vuoden verran liikennekäytössä, että se on oikeasti liikenteessä oleva auto, ettei
+käy niin kuin viime kerralla, jolloin ne olivat niin sanotusti kuusen alta revittyjä romuau-
+toja, mitkä sitten romutettiin lopullisesti. Sehän ei ole tarkoitus, vaan nimenomaan päästö-
+jen vähentäminen ja autokannan uusiutuminen, eli kyse on käytössä olevasta autosta. Mut-
+ta tämä on yksi epäselvyys, mikä tulee selventää kunnolla. Tähän liittyy sitten myös seu-
+ranta siitä, mikä se romutettava auto oikeasti on. Jos tulkinta olisi niin, että sen tarvitsee
+olla nimenomaan omassa omistuksessa koko kalenterivuoden, niin silloin näen pienen ris-
+kin, että romutettava ajoneuvo voisi olla jopa "liian hyväkuntoinen" auto. Eli tämä vaatii
+seurantaa ja tiedottamista niin autokauppojen kuin auton hankintaa pohtivien suuntaan.
+
+Mutta päästöihin liittyen ja uuteen ajoneuvoon liittyen yksi ongelma sähköautojen han-
+kinnassa on se, että kun täällä puhuttiin näistä tuista ja kun esimerkiksi Norja tukee nyt hy-
+vin voimakkaasti sähköauton hankintaa ja sähköautoilua ylipäätänsä, niin on olemassa
+semmoinen epäily, että autokaupasta et edes välttämättä saa sähköautoa, kun valmistetta-
+vat sähköautot menevät Norjaan. Eli tämä on yksi asia, mikä tulee ottaa esille joissakin kes-
+kusteluissa, mitä tuonne autoteollisuuden suuntaan voidaan varmasti käydä. Ja miksei se
+auto olisi sitten myös Uudessakaupungissa valmistettu kenties joskus.
+
+Sitten toinen puoli on tämä kaasupuoli. Olisi minun mielestäni järkevää rakentaa sem-
+moista infraa ja semmoista pohjaa, että tämä kaasu tulisi raskaalle kalustolle jotenkin hyö-
+dyllisemmäksi ottaa käyttöön, ja siihen rakennettaisiin myös jotain pikku porkkanaa, kos-
+ka sähkö ei luultavasti tule sinne, vaan raskaalle puolelle kaasu on varmasti semmoinen pit-
+käaikainen ratkaisu, joka voi sitten hyödyntää tätä mainittua biokaasua. Siellä päästään sit-
+ten myös tämmöiseen huoltovarmuusasiaan, niin että poikkeusoloissakin saadaan omaa
+tuotantoa ja sitä kautta pysyvyyttä tähän päästöpolitiikkaan, liikennepolitiikkaan.
+
+Toinen asia on sitten tämä konvertointi, millä myös pystytään kaasun käyttöä lisää-
+mään. Siihen voisi vielä pohtia joitain porkkanoita. Esimerkiksi tämä biokaasupuoli: kun
+nyt kuitenkin maakaasupohjaisesti verotetaan, niin voisiko biokaasun käytölle rakentaa
+jonkinasteisen palautusjärjestelmän? Biokaasu on hyvinkin pitkälle tämmöinen yhteiskun-
+nan... vaikka sitä palautettaisiin ja kevennettäisiin tältä puolelta, niin se tuottaa tuloja
+muualla, koska se tuottaa työllisyyttä. Tässä kohtaa voisi kertoa esimerkin: jos esimerkiksi
+pellolta kerätyistä oljista tuotetaan se biokaasu mädättämällä, niin siitä saadaan se kaasu, ja
+kun se ensin kerätään sieltä pellolta ja sitten se mädätetty tuote viedään takaisin sinne sa-
+malle pellolle, niin siinä tulee työtä ja pelto saa lannoitteensa. Eli tästä päästään sitten myös
+12
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+lannoitepuolella omavaraisuuteen, mahdollisesti. Eli tässä on hyvin paljon positiivisia
+asioita biokaasua ajatellen. Minun mielestäni tulisi vielä pohtia tätä, miten saadaan lisä-
+porkkanaa tähän konvertointiin ja biokaasun käyttöön.
+
+Vaikka tässä yhteydessä tietysti puhutaan autojen hankinnasta, niin ilmastonäkökannas-
+ta tahdon vielä mainita sen, että tietenkin se on parempaa, että pääsisimme enemmän jouk-
+koliikenteen käyttäjiksi ja tämä MaaS-ajattelu, joka on myös suomalaista perua, etenisi täs-
+sä. Elikkä mukana on koko aika pidettävä tämä iso kokonaisuus, mikä pitää sisällään mo-
+nia eri näkökantoja, ja niitten yhteisvaikutus on se, mitä tulee tavoitella.
+
+Tosiaan kiitos siitä, että tämä on tullut. Käsittelystä tulee varmasti mielenkiintoinen.
+
+17.26 Pauli Kiuru kok: Arvoisa herra puhemies! Vielä palaan tähän sähköisen infran
+edistämiseen. Kun siihen on nyt talousarviossa esitetty se 1,5 miljoonaa euroa, johon myös
+edustajakollega Adlercreutz viittasi, niin talousarviokäsittelyn tässä vaiheessa on vielä
+mahdollista tehdä pieniä muutoksia, ja muutama satatuhattakin on prosenteissa iso muu-
+tos. Tämä kohta on ympäristöministeriön hallinnonalalla 35.20.52, ja jos ministerin mie-
+lestä siinä pienelläkin muutoksella saataisiin vielä hyvää aikaan, niin silloin tietysti kan-
+nattanee keskustella ministerikollega Tiilikaisen kanssa ja edelleen hallituspuolueiden ym-
+päristövaliokunnan valiokuntavastaavien ja asunto- ja ympäristöjaoston, vaikkapa sen pu-
+heenjohtajan, kanssa, ja sitä ehkä voisi vielä tarkastella. Asia on kuitenkin tärkeä ja sem-
+moinen, jota mielellään olisi edistämässä.
+
+Ja sitten kun tässä aikaisemmin sähköpyöristä on puhuttu — sehän ei tähän nyt suoraan
+liity, mutta ikään kuin kannustuksen sanoina jatkossa, jos tilanteita tulee — niin sellaiset
+toimet ja päätökset, jotka edistävät sähköpyöräilyä ja ylipäätään pyöräilyä ovat kannatet-
+tavia. Yksi harhaluulo sähköpyöräilyyn liittyen on sellainen, että ajatellaan, että jos ihmi-
+nen on polkenut ennen työmatkan 5 kilometriä ja jatkossa siirtyy sähköpyörään, niin se lii-
+kunnan vaikutus ikään kuin vähenee. Mutta todellisuudessa käy niin, että ne poljettavat
+matkat pitenevät, jolloin päädytään siihen, että ne terveysvaikutukset itse asiassa eivät ka-
+toa, todennäköisesti tulevat vain lisääntymään, ja päälle tulevat sitten erilaiset ilmastovai-
+kutukset ja muut vaikutukset, mitkä näkyvät, ei tarvita parkkipaikkoja niin paljon ja näin
+poispäin. Että tätä asiaa varmasti kannattaa pitää suurennuslasin alla. Helsingissä on hyviä
+esimerkkejä tästä [Puhemies koputtaa] kaupunkipyörähankkeesta.
+
+17.28 Mirja Vehkaperä kesk: Arvoisa puhemies! Parlamentaarisessa väylätyöryhmässä
+esitettiin myöskin rahoitusta julkisen liikenteen tukiin lisäyksenä ja myös raideliikenteen
+ostoihin tukisumman lisäämistä — nämä ovat oikeansuuntaisia toimenpiteitä — ja lisäksi
+tässä keskustelussa esillä ollutta sähkö- ja kaasuautojen lataus- ja jakeluinfran rakentami-
+sen tukemista. On selvää, että niitä pitää tukea siis julkisin varoin, mutta niitä syntyy myös-
+kin yksityisten toimesta. Esimerkiksi Gasum kasvattaa noin kymmenkunta tankkausase-
+maa vuositasolla, ja näitä muita toimijoita tulee koko ajan lisää, ja se on hyvä kehitys. Poh-
+joisin biokaasuntankkausasema sijaitsee tällä hetkellä Oulussa, ja pitää muistaa, että tässä
+mennään eteenpäin tämän kehityksen suhteen ja näitä tarvitaan lisää, jotta kaasuautoja saa-
+daan lisää tuonne tien päälle. Mutta se ei riitä, että vain henkilöautojen osalta biokaasu- ja
+sähköautot lisääntyvät, vaan meidän pitäisi saada julkinen liikenne toimimaan ja bussit ja
+joukkoliikenne kokonaisuudessaan tänne kaasuautoilun puoleen, koska siellä nimen-
+omaan päästöjen vähentämiselle olisi oiva tilaisuus.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+Otan esimerkin Pohjois-Pohjanmaalta Iistä, joka sai juuri vastikään tämmöisen Euroo-
+pan mittakaavassakin merkittävän, hyvän Hinku-kunnan palkinnon. Siellä edistetään hiili-
+neutraaleja ratkaisuja, jotka tulevat arkisissa asioissa ja kuntalaisten taholla. Siellä on esi-
+merkiksi tämä julkinen liikenne täysin sähköistetty ja kaikki tulevat hankinnat tulevat edis-
+tämään vähäpäästöisyyttä [Puhemies koputtaa] myöskin liikenteen puolella.
+
+17.30 Petri Honkonen kesk: Arvoisa puhemies! Aivan kuten tässä on todettu, tässä bio-
+kaasutoimialalla on ollut vähän sellainen muna ja kana -ongelma, kun tätä jakeluverkkoa ei
+ole syntynyt ja sitten myöskään ei näitä autoja ole otettu käyttöön. Vaikkakin tässä nyt pu-
+hutaan tämän konversiotuen osalta aika pienistä summista suhteessa, uskon, että tämä on
+kuitenkin tärkeä päänavaus, joka antaa oikean signaalin sitten kuluttajille ja myöskin näitä
+investointeja harkitseville. Tiedän, että esimerkiksi Keski-Suomessa, tuolla omassa vaali-
+piirissäni, on vireillä ja suunnitteilla useita liikennebiokaasuhankkeita, mitkä kaikki eivät
+ole suinkaan vielä julkisia. Tästä syystä on hyvä, että tällaisia positiivisia signaaleita siihen
+suuntaan laitetaan. 
+
+Nythän olisi mahdollista laskennallisesti jopa 18 prosenttia tieliikenteen energiankäy-
+töstä korvata biokaasulla. Se olisi se laskennallinen potentiaali, tosin reaalinen on sitten
+kuitenkin huomattavasti pienempi, mutta siinäkin puhutaan todella isosta osasta. Biokaasu
+kuitenkin on pääosin päästötöntä polttoainetta. 
+
+Aivan kuten tässä edustaja Vehkaperä edellä totesi, tänä vuonna on jo avattu 10 uutta
+biokaasujakeluasemaa tässä maassa, ja senkin takia nyt alkaisi olemaan mahdollisuuksia
+siihen, että myös raskasta liikennettä siirtyisi enemmän käyttämään biokaasua. Varmaan
+tässä jatkotyössä on otettava sekin huomioon, mitenkä sitä raskasta liikennettä saataisiin
+kaasukäyttöiseksi, kun siellä sähköistyminen ei kuitenkaan ole näköpiirissä ja on varsin
+epätodennäköistä. 
+
+Toinen varapuhemies Arto Satonen: Ja ministeri Berner, 3 minuuttia. 
+
+17.32 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Ensinnäkin ha-
+luan kiittää parlamentaarista työryhmää ja sitä parlamentarismia, jonka kautta olemme näi-
+tä ratkaisuja valmistelleet, ja sen kanssa työ myöskin vielä jatkuu. 
+
+Edustaja Adlercreutz otti esille jakeluinfran ja sen, tarvitaanko sitä tukea vai syntyykö se
+markkinaehtoisesti. Kyllä pitkällä tähtäimellä jakeluinfra on varmasti osa markkinaehtois-
+ta rakennetta. Mutta on myöskin totta, että kun TEM on aikaisemmin jo erillisellä päätök-
+sellä latausinfraa tukenut, niin se on mahdollistanut sen, että me olemme nyt tilanteessa,
+jossa kuitenkin EU:n vaatimusten mukaisesti meidän latausinfra suhteessa ajoneuvoihin on
+kunnossa. Tähän emme olisi varmasti ilman tukijärjestelmää kuitenkaan päässeet emmekä
+olisi saaneet sitä työtä alkuun. Sen takia on tärkeää, että me jatkamme sitä työtä vielä jon-
+kun verran sekä jakelu- että latausinfran osalta. Meidän summamme ovat aika vaatimatto-
+mat, mutta niitä on rakennettu niin, että me pystymme nimenomaan hakemusten perusteel-
+la sitten rakentamaan sillä tavalla, että pääsemme vaikuttamaan siellä, missä markkinat ei-
+vät tällä hetkellä vielä toimi.
+
+Edustaja Kopra nosti hyvin esille sen, että paljon tässä liikenteen puolella tapahtuu —
+kiitokset kiitoksista. On ihan selvää, että suurin ja tärkein asia ilmastonmuutoksen osalta ja
+liikenteen murroksen osalta ovat ne meidän tottumuksemme ja tapamme liikkua. Näiden
+14
+
+
+
+Pöytäkirjan asiakohta PTK 114/2017 vp
+osalta tehdään valtavasti töitä tällä hetkellä lainsäädännön puolella mutta myöskin sen puo-
+lella, että synnytetään uusia palvelukokonaisuuksia.
+
+Edustaja Jalonen nosti esille sen, että kun kyse on romutettavasta autosta, sen on oltava
+liikennekäytössä sen 10 vuotta ja haltijan on oltava omistaja, joka sitten sen romutuspalk-
+kionkin siitä ajoneuvosta saa, mutta hänen ei ole omistettava sitä koko 10:tä vuotta sitä ai-
+kaisemmin. 
+
+Verotuskysymyksiin varmasti palataan vielä tässä parlamentaarisen työn jatkotöiden
+osalta. Siinä on vielä iso kokonaisuus, johon meidän on palattava.
+
+Edustaja Kiuru, tämä on juurikin näin, että sähköpyörät lisäävät sekä kansanterveyttä
+että meidän ilmastoratkaisujamme ja synnyttävät pidempiä liikkumisen matkoja, ja myös-
+kin mahdollisesti voivat korvata niitä lyhyitä autolla kuljettavia matkoja, jolloin sähköpyö-
+rästä on erityisesti hyötyä. Tätä me työstämme nytten liikenne- ja viestintäministeriön niin
+sanotussa Käpy-strategiassa elikkä kävelyn ja pyöräilyn strategiassa, josta on tulossa peri-
+aatepäätös valtioneuvostolta näillä näkymin noin helmikuussa. Toivottavasti siinä yhtey-
+dessä voidaan myöskin palata tähän sähköpyörän mahdolliseen tukijärjestelmään. 
+
+Edustajat Vehkaperä ja Honkonen, on juuri näin, että me tarvitsemme myöskin bio-
+kaasuun liittyviä edistämistoimenpiteitä ja ennen kaikkea myös raskaan liikenteen osalta.
+Toki meillä on sitten tulossa myöskin terminaaleja, joissa on latauskokonaisuuksia. Tältä-
+kin osin vuodessa on tapahtunut todella paljon. 
+
+Työ on siis vielä kesken. Me jatkamme, mutta tässä on nyt kuitenkin kaksi lakiesitystä,
+joilla päästään jo alkuun. — Kiitoksia.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan, jolle ympäristövaliokunnan on annetta-
+va lausunto.
+15
+
+

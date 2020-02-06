@@ -1,0 +1,1354 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMB2C3.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 26/2019 vp
+
+Täysistunto
+
+Keskiviikko 4.9.2019 klo 14.02—16.22
+
+8. Hallituksen esitys eduskunnalle laiksi postilain muuttamisesta
+Hallituksen esitys HE 6/2019 vp
+
+Lähetekeskustelu
+
+Puhemies Matti Vanhanen: Lähetekeskustelua varten esitellään päiväjärjestyksen 8.
+asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävaliokuntaan.
+
+Lähetekeskusteluun varataan enintään yksi tunti. Asian käsittelyssä noudatetaan aika-
+taulutettujen asioiden osalta sovittuja menettelytapoja. 
+
+Keskustelu
+
+14.07 Liikenne- ja viestintäministeri Sanna Marin (esittelypuheenvuoro): Arvoisa pu-
+hemies! Arvoisat kansanedustajat! Käsittelyssä on nyt hallituksen esitys laiksi postilain
+muuttamisesta, jolla pannaan täytäntöön rajat ylittäviä pakettipalveluita koskevan Euroo-
+pan parlamentin ja neuvoston asetuksen edellyttämät täydentävät kansalliset säännökset.
+
+Kokonaisuudessaan EU-asetus täydentää rajat ylittävien pakettipalveluiden osalta pos-
+tipalveluita koskevaa direktiiviä, jossa ei ole erityisesti säännöksiä rajat ylittävien paketti-
+palvelujen tarjoajien viranomaisvalvonnasta, tiettyjen hintojen ja päätemaksujen avoimuu-
+desta eikä hintojen kohtuullisuudesta.
+
+Postipalveluita koskevan direktiivin ei ole katsottu yksin riittävän varmistamaan sähköi-
+sessä kaupassa käytettävien palvelujen kohtuuhintaisuutta. EU-asetuksella tavoitellaan
+markkinoiden toiminnan paranemista tehostamalla viranomaisvalvontaa ja edistämällä kil-
+pailua. Asetus velvoittaa jäsenmaat säätämään asetuksen rikkomiseen sovellettavista seu-
+raamuksista ja toteuttamaan kaikki tarvittavat toimenpiteet seuraamusten täytäntöönpanon
+varmistamiseksi. Muilta osin kyseistä asetusta sovelletaan sellaisenaan kaikissa jäsenmais-
+sa.
+
+Hallituksen esityksessä postilakiin ehdotetaan lisäyksiä, joiden myötä pakettiasetuksen
+rikkomiseen voitaisiin soveltaa samoja seuraamuksia kuin voimassa olevan postilain no-
+jalla sovelletaan postiyritysten tai muiden yhteisöjen osalta. Ehdotettujen muutosten mu-
+kaan Liikenne- ja viestintävirastolla olisi pakettiasetusta koskevassa valvonnassaan käytet-
+tävissä samat keinot kuin muussa postitoiminnan valvonnassa. Samalla esityksessä ehdo-
+tetaan pakettiasetuksen vaatimuksen mukaisesti postilain soveltamisalan laajentamista tie-
+tyiltä osin koskemaan myös pakettiasetuksessa tarkoitettua toimintaa, joka ei kuulu yleis-
+palveluvelvoitteen piiriin. Lisäksi Liikenne- ja viestintäviraston roolia ehdotetaan selkey-
+tettäväksi postipalveludirektiivin mukaisena kansallisena sääntelyviranomaisena. 
+
+Esitys ei sisällä kansallista lisäsääntelyä. Kansallisella lainsäädäntömuutoksella ei itses-
+sään katsota olevan taloudellisia tai merkittäviä vaikutuksia pakettipalveluita tarjoavien
+yritysten tai Liikenne- ja viestintäviraston toimintaan. Asetusta on sovellettu Suomessa 22.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+päivästä toukokuuta 2018 lähtien, lukuun ottamatta kansallisesti säädettäviä seuraamuk-
+sia, joita jäsenmaiden tulee soveltaa 23.11.2019 lähtien.
+
+14.10 Paavo Arhinmäki vas: Arvoisa herra puhemies! Esittelyssä oleva esitys on varsin
+tekninen, kuten ministerin esittelystä kävi ilmi, ja suurelta osin jo käytännössä. Tässä tilan-
+teessa on syytä kuitenkin pohtia myös laajemmin Postin tulevaisuutta, Postin toimintaa ja
+postipalveluita Suomessa.
+
+Arvoisa herra puhemies! Posti on ollut viime vuosina ongelmissa. Posti on menettänyt
+uskottavuuttaan ja luotettavuuttaan suomalaisten silmissä. Yksi esimerkki, konkreettinen
+esimerkki, on tällä viikolla pelattavat Suomen jalkapallomaajoukkueen ottelut. Tähän asti
+otteluliput on lähetetty postin välityksellä kannattajille, jotka ovat ne tilanneet. Koska edel-
+lisessä ottelussa — Bosnia-ottelussa, jonka Suomi voitti kahdella Teemu Pukin maalilla
+[Ben Zyskowicz: Hyvä!] — niin moni lippu jäi tulematta ostajille, jouduttiin järjestel-
+mään, jossa tilaajille lähetetään linkki ja he tulostavat itse lippunsa. Eli luotettavuus on joh-
+tanut siihen — tai luotettavuuden puute — että postipalveluita ei voida enää käyttää. Sa-
+maan ongelmaan törmää omissa posteissaan: jos on pakko ja haluaa varmuuden siitä, että
+on joku lähetys ajoissa perillä, pitää miettiä muita välineitä kuin postia.
+
+Arvoisa herra puhemies! Tätä taustaa vasten, jossa Postin luotettavuus, uskottavuus ja
+brändiarvo ovat laskeneet merkittävästi, tuntuu erikoiselta, että samaan aikaan Postin toi-
+mitusjohtajalle maksetaan hulppeita bonuksia: palkka ja bonukset mukaan lukien viime
+vuonna yhteensä miljoonan euron korvaus. Ymmärtäisin niin, että bonusjärjestelmässä
+kohtuullisella tavalla palkitaan onnistuneesta työstä ja siitä, että yritys — varsinkin tässä
+tapauksessa valtionyhtiö — näyttäytyy hyvänä kansalaisten silmissä. Nyt päinvastoin Pos-
+tin uskottavuus on heikentynyt ja johtoa palkitaan aivan kohtuuttomilla bonuksilla.
+
+Arvoisa herra puhemies! Posti on myös kohdellut työntekijöitään heikosti. Jo 2017 pe-
+rustettiin Posti Palvelut Oy ja sanomalehtien jakajat siirrettiin yhtiön alaisuuteen. Jakajien
+palkat putosivat tuolloin noin 40 prosenttia. Jo silloin asia nostettiin täällä eduskunnassa
+muun muassa vasemmistoliiton toimesta esille ja vaadittiin valtionyhtiöltä oikeudenmu-
+kaista, reilua työntekijäpolitiikkaa. No, mikä on tulos? Nyt oltiin noin 700 pakettipuolen
+työntekijää siirtämässä toiseen työehtosopimukseen. Valtionyhtiö oli lähtemässä työehto-
+sopimusshoppailuun, jossa leikattaisiin työntekijöiden palkkoja 30:llä, jopa 50 prosentilla.
+Täysipäiväisestä työstä ei saisi enää sellaista palkkaa, jolla tulisi toimeen.
+
+Arvoisa puhemies! Meidän yksiselitteinen ja selkeä vaatimuksemme on se, että työllä
+pitää tulla toimeen, työstä pitää saada sellaista palkkaa, että sillä pystyy elättämään itsensä.
+Ei voi olla niin, että valtion sataprosenttisesti suoraan ja Vaken kautta omistama yhtiö mak-
+saa sellaisia palkkoja, että niillä ei pysty elättämään itseään ja perhettään. Erityisen irvok-
+kaalta tämä on näyttänyt, kun on verrattu vierekkäin toimitusjohtajan palkkaa ja bonuksia,
+miljoonaa euroa vuodessa, ja toisaalta pienillä palkoilla työtä tekevien ihmisten palkkoja,
+joita ollaan leikkaamassa. Nämä eivät ole missään suhteessa toisiinsa, ja se, että toimitus-
+johtaja lupaa antaa pois kahden kuukauden palkkansa, osoittaa entistä selkeämmin tätä
+epäkohtaa. Kuka työssä käyvä ihminen voisi tuosta vain luopua kahden kuukauden palkas-
+taan?
+
+Arvoisa puhemies! Täytyy kehua ministeri Paateroa — minä tunnetusti kehun usein
+täältä ministereitä ja kehun nytkin. Ministeri Paatero on toiminut niin kuin omistajaohjauk-
+sesta vastaavan ministerin pitää toimia tällaisessa tilanteessa. Kun valtion sataprosenttises-
+ti omistaman yhtiön toiminta ei kestä tarkastelua, ei johdon palkkioiden ja bonusten osalta
+2
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+eikä ennen kaikkea sen osalta, miten työntekijöitä kohdellaan, niin silloin omistajaohjauk-
+sesta vastaavan ministerin tehtävä ja velvollisuus on puuttua siihen. [Jukka Gustafsson:
+Nyt voi kehua Arhinmäkeäkin!]
+
+Arvoisa puhemies! Kuten omistajaohjauksesta vastaava ministeri Paatero on luvannut,
+nyt pitää pikimmiten selvittää Postin tilanne toimitusjohtajan palkan ja bonusten osalta,
+jotka ovat korkeampia kuin vastaavien yritysten, yksityisten yritysten, pörssiyhtiöiden,
+palkat. Toisaalta pitää huolehtia siitä, että työstä saa sellaista palkkaa, jolla tulee toimeen.
+Ja kolmanneksi hallituksen pitää ylipäätänsä linjata valtionyhtiöiden palkitsemisjärjestel-
+mät uusiksi. Tämä on osoitus siitä, että nykyinen järjestelmä ei toimi. Nämä ovat tapoja,
+joilla voimme palauttaa Postin uskottavuutta kansalaisten silmissä. Tarvitaan toimia, joilla
+voi luottaa siihen, että posti tulee perille ja Postissa työskentelevät ihmiset saavat kovasta
+työstään sellaista palkkaa, että sillä tulee toimeen. Nyt on poliitikkojen näytettävä kaapin
+paikka valtionyhtiössä, jos sen johto ei sitä itse ymmärrä.
+
+Puhemies Matti Vanhanen: Ja kun otsikossa mainitaan sana "posti", niin sallin laajem-
+man keskustelun. [Naurua] Käydään sitä vastauspuheenvuorojen muodossa puolen tunnin
+ajan.
+
+14.17 Mika Niikko ps (vastauspuheenvuoro): Arvoisa herra puhemies! Se on hyvä, että
+tämä Posti-keskustelu nostetaan heti alkajaisiksi tässä salissa esille, ja tämä toivottavasti
+saa parlamentaarista yhteisymmärrystä siinä, että omistajaohjausministeri ja hallitus yh-
+dessä tekevät konkreettisia toimenpiteitä tämän keskustelun jälkeen.
+
+Yksi konkreettinen näkökulma, joka on myös otettava huomioon, on se, onko Postin teh-
+tävä harjoittaa myös muuta liiketoimintaa, kuten leikata nurmikoita, jota se aikanaan yritti
+tehdä, ja tällä hetkellä se on voimakkaasti osallistunut myös hoivapalveluiden kilpailutuk-
+siin ja tarjoaa hoivapalveluita aktiivisesti. Nämä kaikki liiketoiminnat valtionyhtiöltä tule-
+vat syömään niiden pienten yrittäjien toimeentuloedellytyksiä — kuten vaikkapa hoiva-
+alalla — jotka eivät pärjää tällaiselle isolle valtionyhtiölle, jolla on liikkumavaraa polkea
+hinnat aluksi niin alas, että he saavat sen markkinaosuuden, mitä he lähtevät tavoittele-
+maan. Ja kysynkin, arvoisa ministeri: onko mitenkään mahdollista, että te linjaisitte sen,
+mitä valtionyhtiöt tekevät? Onko heillä moraalinen oikeus mennä myös sille tontille, jossa
+toimivat nämä pienyrittäjät oman elinkeinonsa hyväksi?
+
+14.18 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä posti-
+lain muuttamisessa on kyse rajat ylittävistä paketeista eli aika teknisestä, pienestä asiasta.
+Isompi huoli on siitä, miten postinjakelu koko maassa pystytään tulevaisuudessa turvaa-
+maan, ja myös siitä, mihin edustaja Arhinmäki kiinnitti huomiota, eli luotettavuudesta.
+
+Kyllä toki itse ihmettelen sitä, että tällä hetkellä esimerkiksi verottaja ei käytä jakelus-
+saan valtion omistamaa postia vaan yksityisiä jakelufirmoja. Toki voisi miettiä, pystyttäi-
+siinkö tällä turvaamaan jakelua myös koko maan laajuisesti.
+
+Mutta sitten tämä Posti-sote, josta pääministeri Rinne puhui. Pääministerihän esitti, että
+postinjakajat voisivat kurkkia vanhusten ikkunoista ja kysellä, onko kaikki hyvin. Kysyi-
+sin sosiaali- ja terveysministeriltä: miten näette, olisiko tämä mahdollista vahvistamaan
+tätä sosiaali- ja terveyspuolta ja toisaalta myös Postin toimintamahdollisuuksia?
+3
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+Puhemies Matti Vanhanen:  Ministerit pääsevät kommentoimaan myöhemmin. Tämä ei
+ole kyselytunti, mutta puheenvuoro myönnetään aikanaan. 
+
+14.19 Sari Essayah kd (vastauspuheenvuoro): Arvoisa puhemies! Tämä postilain muu-
+tos, niin kuin moneen kertaan on täällä todettu, on sinällänsä tärkeä ja varsin tekninen muu-
+tos, mutta todellakin tässä keskustelussa on syytä nämä viime aikojen asiat nostaa esille. 
+
+Kansalaisten oikeustajuun ei millään voi mahtua se, että valtionyhtiön johtamisesta saa
+enemmän palkkaa ja palkkiota kuin valtion johtamisesta. Todellakin, jos verrataan muihin-
+kin pörssiyhtiöihin, niin nämä Postin johtajan palkkiot ovat täysin kohtuuttomia — täysin
+kohtuuttomia.
+
+Olen iloinen siitä, että ministeri Paatero on tässä asiassa halunnut toimia nopeasti. Tie-
+tenkin tiedämme sen, että silloin kun tätä koko järjestelmää lähdetään uudistamaan, niin
+varmastikin siinä aikaa kuluu, mutta on äärimmäisen tärkeää, että nyt palautetaan kansa-
+laisten luottamus siihen, että tätä todellakin ohjataan oikeasti poliitikkojen toimesta ja että
+tämä Postin luotettavuuden ja toimintakyvyn palauttaminen on nyt kaiken kärjessä. On
+täysin kohtuutonta postilaisia kohtaan, jotka ovat pienellä palkalla ja koko ajan kiristyvien
+vaatimusten edessä pyrkineet [Puhemies koputtaa] tekemään parhaansa, että heidän palk-
+kojaan nimenomaan ollaan tässä alentamassa ja johdon palkkiot sen kuin kasvavat.
+
+14.20 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Mitä tulee
+tähän esitykseen, niin on toki hyvä, että on yhteiset pelisäännöt eri toimijoilla niin Euroo-
+passa kuin sitten täällä kansallisestikin. Sen vuoksi tietenkin nämä tekniset muutokset joh-
+dattavat hyvin tähän sisältöön, josta nyt sitten laajemmin täällä olemme käyneet jo pientä
+keskustelua, ja on tarpeen sitä varmasti jatkaa vielä myös tämän keskustelun ulkopuolelle.
+
+Ylipäätänsäkin siinä vaiheessa, kun postipalvelut alistettiin markkinoille, on sen jäljiltä
+meille syntynyt tällainen ongelma, jolloin Posti joutuu yleispalveluvelvoitteen mukaisesti
+tuolla harvaan asutuilla alueilla palveluita tuottamaan, ja sitten toiset vastaavat toimijat
+ovat voineet tulla kilpailemaan postin jakamisesta niille paikoille, joissa nämä tulokset
+ovat sitten parempia.
+
+Valtio on hallitusohjelmaneuvottelujen yhteydessä kertonut tarkistavansa tulosvaati-
+muksia Postin osalta. Siksi on erittäin hyvä, että ministeri Paatero puuttui nyt tähän henki-
+löstön palkkojen halpuuttamiseen, mikä sinällään on toimenpiteenä erikoinen, kun tiede-
+tään, että valtio on jo muuten kiinnittämässä huomiota Postin toimintamahdollisuuksiin.
+
+14.22 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Nyt on ky-
+seessä varsin tekninen muutos postilakiin, ja sitä kautta tämä keskustelu on laajentunut tie-
+tysti moneen muuhunkin asiaan. Täytyy sanoa, että lämmin kiitos kaikille jo puhuneille sii-
+tä yhteisymmärryksestä, että on Postia myöskin tarkasteltava tarkemmin. Ja myöskin mi-
+nisteri Paaterolle kiitos siitä avauksesta, että otitte jo kantaa siihen, että Postin johdon palk-
+kioita on tarkistettava ja nimenomaan tarkistettava alaspäin. Se on myöskin keskustan lin-
+ja. Kaiken kaikkiaan valtionyhtiöiden palkkoja ja palkkioita on tarkasteltava kokonaisuu-
+tena ja mieluummin tehtävä kriteerit sinne, että ne ovat alempia tulevaisuudessa. 
+
+Mutta sitten suuri kysymys on myöskin Postin toiminta ja Postin toimintaedellytykset.
+Me olemme myöskin hallitusohjelmassa linjanneet, että postilakia ja sen toteutumista tar-
+kastetaan sisällyttäen siihen yleispalveluvelvoite. On erittäin tärkeää, että yleispalveluvel-
+voite saadaan säilytettyä, olkoon Postin tilanne mikä tahansa tulevaisuudessa. Mutta kai-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+ken kaikkiaan Postia on tarkasteltava, ja [Puhemies koputtaa] oikeastaan ministeri Marinil-
+le kysymys: milloin tämä työ alkaa?
+
+14.23 Sanna Antikainen ps (vastauspuheenvuoro): Arvoisa puhemies! Tässä on nyt
+muutaman edustajan suulla puhuttu Postista ja sen palveluista, ja tässä nyt viimeaikaisten
+lausuntojen perusteella täytyy vain toivoa, että toivottavasti tätä postilakia ei myöhemmin
+sotketa mukaan sote-uudistukseen. Nimittäin juuri eilen pääministeri Rinne kertoi, kuinka
+Posti ja Postin työntekijät halutaan liittää osaksi sote-uudistusta. Lukemani ja pääministeri
+Rinteen mukaan, kuten edustaja Heinonenkin tuossa toi ilmi, kylän postilaiset voisivat
+käydä kurkkimassa ikkunan takaa, kuinka ihmiset voivat, ja voisivat näin kuulemma hoi-
+taa hoitohenkilöstön töitä. Kertoisitteko tässä nyt, arvon pääministeri Rinne, aiotteko te
+myöhemmin kenties sotkea Postin ja postilain jotenkin mukaan sote-uudistukseen ja mi-
+ten? Monet postilaiset ja hoitajat ovat olleet minuun yhteydessä, ja he ovat olleet hämmäs-
+tyneitä lausunnoistanne. Kertokaa nyt heille, mitä te tarkoitatte [Puhemies koputtaa] sillä,
+että Posti täytyy ottaa osaksi sote-uudistusta. 
+
+14.24 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa herra puhemies! Olisin osallis-
+tunut tähän Postin johdon palkkiokeskusteluun. Voi sanoa, että siinä kannustimet eivät kyl-
+lä ole olleet kohdallaan, kun katsoo, miten postilaisten — siis tarkoitan Postin ylintä johtoa
+— palkkiot, kannustimet, ovat merkinneet viime vuosien kuluessa sitä, että palkat ovat
+nousseet moninkertaisesti, näin voidaan sanoa. Mutta kyse ei ole pelkästään Postin ylim-
+män johdon kompensaatioista. Tämän keskustelun yhteydessä on huomattu, että myös lot-
+tokuponkien myyminen ja viinan myyminen suomalaisille on sen verran vaikeata puuhaa,
+että siitä pitää antaa palkkaa pari kertaa se, mitä Suomen pääministeri tienaa.
+
+Ja laajemminkin keskustelua voisi katsella: kun vuosikymmenen alussa pörssiyrityksen
+johtajan palkalla sai noin 37 työntekijää, niin nyt saadaan jo 48. Eli kokonaisuutena omis-
+tajien, valtion ja myös eläkeyhtiöiden, pitää ryhdistäytyä.
+
+14.25 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! On sinänsä tärkeä-
+tä, että meillä on Euroopan unionissa rajat ylittäville paketeille samanlainen sääntely.
+
+Mutta on hyvä, että tässä käydään keskustelua Postista yleisemminkin. On sanottava,
+että samaan aikaan, kun ylimmän johdon palkkiot ovat kolmessa vuodessa nousseet yli 50
+prosenttia ja samaan aikaan ajetaan suuria palkanalennuksia, niin eihän tämä ole missään
+oloissa hyväksyttävää. Arvoisa puhemies, eihän se ole hyväksyttävää, etenkään valtionyh-
+tiöltä, jonka pitää näyttää esimerkkiä. Jos me ajattelemme Postin työntekijöitä, siellä jo en-
+nestään tehdään pienellä, parin tonnin palkalla työtä. Sen takia, arvoisa puhemies, on hyvä,
+että tähän nyt puututtiin. Tämähän juontaa vuoteen 2015, jolloin Posti teki päätöksen työ-
+ehtosopimusten muuttamisesta varhaisjakelijoiden osalta. Silloinhan ei puututtu, ei puutut-
+tu palkkioihin. On hyvä, että tähän on nyt puututtu.
+
+Ja, arvoisa ministeri, olisi hyvä, että te avaisitte myös tätä jatkoprosessia. Ylimmän joh-
+don palkkoihin pitää saada kohtuutta, pitää tulla maan pinnalle ja pitää pitää huoli, että val-
+tionyhtiöt näyttävät myös esimerkkiä yhteiskuntavastuussa. 
+
+14.27 Arja Juvonen ps (vastauspuheenvuoro): Arvoisa herra puhemies! Postin toimitus-
+johtajan palkkiot ovat todellakin koetelleet kansan oikeustajua. Ihmiset ovat ottaneet yh-
+teyttä ja päivitelleet sitä ahneutta, jolta tämä kaikki on alkanut näyttämään entistä enem-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+män. Kyllä kaikkia johdon palkkioita tulee tarkastella. Ihmiset miettivät, kuinka voi olla
+niin tärkeitä henkilöitä, miten voi olla niin tärkeä ihminen, että on ansainnut sellaisia palk-
+kioita.
+
+Mutta sitten tämä Posti-sote: Pääministeri Rinne, sanoitte vuonna 2015, että meillä on
+paljon tekemätöntä työtä muun muassa vanhustenhoidossa ja tulisi olla velvoite ottaa työtä
+vastaan juurikin esimerkiksi vanhustenhoidossa — joten kyllä tämä huolestuttaa. Aiotteko
+te tehdä posteljooneista, postinjakajista, myös vanhusten hoitajia? Onko tämä ensiaskel sii-
+hen, että kenestä tahansa voi tulla vanhustenhoitaja? Ulkoistatte vastuuta ja heikennätte
+näin kansalaisten turvaa, myös potilasturvallisuutta. Vastatkaapa tähän. Tätä me kysymme.
+
+14.28 Mari Holopainen vihr (vastauspuheenvuoro): Arvoisa puhemies! Postin tapaus on
+todellakin koetellut oikeutetusti kansalaisten oikeustajua. Postin pääjohtajan palkka on
+82 000 euroa kuukaudessa ja samaan aikaan postilaisten keskipalkka 2 200 euroa, johon on
+kaavailtu jopa 30 prosentin leikkauksia. Näiden leikkausten jälkeen postilaisten keskipal-
+kalla on jopa vaikea tulla toimeen pääkaupunkiseudulla korkeiden asumiskulujen kera. On
+erittäin tärkeää, että omistajaohjauksesta vastaava ministeri Paatero on tähän tarttunut. Mi-
+tään palkkaa ei voi perustella vain niin, että on ylisuuri palkka, koska näin kuuluu olla. Jo-
+kainen palkka pitää perustella sillä, että todellakin tähän tehtävään on saatu paras mahdol-
+linen henkilö ja tätä alemmalla palkalla ei voitaisi saada vastaavaa henkilöä tilalle. Uskoi-
+sin Postin hallituksen löytävän päteviä ihmisiä myös alemmalla palkkatasolla kuin 82 000
+[Puhemies koputtaa] euroa kuukaudessa.
+
+14.29 Markus Lohi kesk (vastauspuheenvuoro): Arvoisa puhemies! Minusta on helppo
+yhtyä niihin lukuisiin puheenvuoroihin, joissa täällä on kannettu huolta Postin toiminnan
+luotettavuudesta. Ja on todella hankalaa meidän, voi sanoa, laajan Suomenmaan kannalta,
+jos ihmiset, jotka eri puolilla Suomea asuvat, eivät enää uskalla luottaa siihen, että posti
+kulkee ja paketit ja kirjeet tulevat ajoissa perille. 
+
+Sekin on helppo ymmärtää, että kansalaiset ovat hämmentyneitä, kun he ovat lukeneet
+tietoja, että valtionyhtiöitten johdolla saattaa olla yli viisi kertaa suurempi palkkio kuin
+vaikkapa ylimmällä valtionjohdolla. Toki on selvää, että valtionyhtiötkin elävät siinä to-
+dellisuudessa, että ne kilpailevat ammattitaitoisista ja osaavista johtajista muitten yritysten
+kanssa, mutta kohtuushan pitäisi olla. Pitäisin kuitenkin itse parhaana tilanteena sitä, että
+meillä olisi niin selkeät omistusohjauksen periaatteet ja säännöt, että yksittäisissä tapauk-
+sissa ei tarvitsisi omistusohjauksen tai poliitikon puuttua tai mennä hallituksen tontille. 
+
+Mutta tärkeätä on luoda näitä periaatteita, [Puhemies koputtaa] ja siinä mielessä tässä on
+nyt lähdetty toimimaan hyvin.
+
+Puhemies Matti Vanhanen:  Edustaja Halla-aho, ja tämän jälkeen ministerit Marin ja
+Paatero voivat kommentoida.
+
+14.30 Jussi Halla-aho ps (vastauspuheenvuoro): Arvoisa puhemies! Postin johtajan si-
+nänsä täysin käsittämättömät palkkiot ovat herättäneet paljon keskustelua, mutta varsinai-
+nen ongelmahan tässä on se, että nämä palkkiot ja Postin voitto revitään ruohonjuuritason,
+henkilöstön, selkänahasta. 
+
+Ikävä kyllä tämä ongelma ei rajoitu Postiin, vaan kyse on yleisestä trendistä. Tietysti on
+erityisen surullista, jos valtio näyttää tällaista esimerkkiä yksityisille. Voittoja pyritään
+6
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+kasvattamaan karsimalla sekä henkilöstön määrää että palkkoja. Eli suomeksi: työn kuor-
+mittavuus nousee, siitä saatava korvaus pienenee, ja palvelun laatu heikkenee. Kun työstä
+ei makseta sellaista palkkaa, jolla ihminen tulisi toimeen, näihin tehtäviin ei tietenkään
+enää löydetä työntekijöitä, ja sitten työnantajapuoli alkaa huutaa lainsäätäjälle, että meillä
+on työvoimapula ja tarvitaan lisää tekijöitä jostain muualta. 
+
+14.31 Liikenne- ja viestintäministeri Sanna Marin: Arvoisa puhemies! Tämä kyseinen
+esitys todella koskee pakettiasetusta ja on varsin tekninen, kuten täällä on todettu. 
+
+Täällä tuli minun tontilleni yksi kysymys liittyen tähän postilain kokonaisempaan tar-
+kasteluun. Me kaikki tiedämme sen, että Postin tilanne kokonaisuudessaan on haastava,
+kun kirjepostin määrä jatkuvasti vähenee, ja tässä tullaan tekemään hyvää yhteistyötä lii-
+kenne- ja viestintäministeriön ja tietenkin myös valtiovarainministeriön Postin omistajaoh-
+jauksesta vastaavan ministerin Sirpa Paateron kanssa, kun tätä kokonaisuutta tarkastellaan.
+
+Itse pidän ensiarvoisen tärkeänä sitä, että kansalaiset voivat luottaa siihen, että posti tu-
+levaisuudessakin tulee kotiin, että se palvelu on luotettava. Tästä näkökulmasta minun
+mielestäni myös postilakia pitää lähteä tarkastelemaan, ja niistä perusperiaatteista pitää pi-
+tää kiinni, aivan kuten hallitusohjelmassakin on linjattu.
+
+Mitä sitten tulee tähän yleisempään keskusteluun tästä ajankohtaisesta tilanteesta Pos-
+tiin liittyen, olen aivan samaa mieltä kuten pääministeri Rinne ja omistajaohjauksesta vas-
+taava ministeri Paatero, että Postin nykyisen johdon palkkiot ovat täysin kohtuuttomia. En
+usko, että tästä salista kauheasti ymmärrystä löytyy tähän nykyiseen tilanteeseen, jossa ta-
+vallisten työntekijöiden palkkoja pyritään polkemaan ja samaan aikaan johtajien palkkiot
+ovat aivan kohtuuttomia. Eli uskon, että tähän tilanteeseen ratkaisuita löytyy, ja omistaja-
+ohjausministeri Paatero on myös minun mielestäni tässä asiassa kyllä varsin mallikkaasti
+toiminut.
+
+14.33 Kunta- ja omistajaohjausministeri Sirpa Paatero: Arvoisa puhemies! Tässä
+ihan ensin Postin tilanteesta. 
+
+Niin kuin täällä todettiin jo, niin kymmenen vuoden aikana jaettavan postin määrä on
+puolittunut, ja se ei näytä ollenkaan kasvavan, vaan tämä vähennys syvenee tässä jaetta-
+vassa postissa.
+
+Toinen näkökulma on se, että 96-prosenttisesti Postin toiminta on markkinoilla toimi-
+mista. Yleispalveluvelvoitteen toiminta on siis vain muutamia prosentteja koko Postin toi-
+minnasta. Eli aina kilpaillaan markkinoilla. 
+
+Ja kolmantena näkökulmana tähän alkuun se, että on jo tällä hetkellä olemassa tilanne,
+että vaikkapa jakelussa on kilpailemassa Postin kanssa 16 muuta yhtiötä, jotka toimivat eri
+työehtosopimuksilla. Näistä lähtökohdista Postin toimintaa viedään eteenpäin.
+
+Palkkioista on linjattu viime kerralla 2016 silloisen hallituksen toimesta, kun tehtiin
+omistajaohjauksen periaatepäätös, ja tämä sama ollaan tekemässä nyt tällä yleisellä tasol-
+la. Olen pyytänyt eilen, että Posti tekee omalta osaltaan tämän tarkastelun nyt syyskuun ai-
+kana siitä, mitenkä johdon palkkiot tästä eteenpäin sitten menevät.
+
+Toisena kysymyksenä on tämä työehtosopimuskysymys, kun nyt ne 700 verkko- ja pa-
+kettipalveluiden puolella olevaa ihmistä siirretään siihen samaan yhteiseen neuvotteluun,
+mikä tietenkin käydään PAU:n osalta tässä lokakuun lopussa, kun työehtosopimus nor-
+maalisti on loppumassa. Nyt tämä kokonaisuus neuvotellaan kokonaan, ei niin, että heidät
+siirrettäisiin erikseen. 
+7
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+Osinkojen osalta, joista täällä myöskin kysyttiin, olen sanonut jo aikaisemminkin ulos,
+että vuosittain valtio voi miettiä ja tehdä sen arvioinnin, mikä on kohtuullinen taso ja kuin-
+ka paljon sieltä on otettavissa. Mitä vähemmän Postilla on tuloa, sitä vähemmän tietenkin
+tulee osinkoja, mutta poikkeustapauksissa se on aina arvioitavissa erikseen.
+
+Neljäntenä asiana se, mihin vähän liittyy sote-kysymys: On varmaan tarpeen perustaa
+semmoinen työryhmä, jossa katsotaan postipalvelulakia, yleispalveluvelvoitetta, Postin
+toimintaa muilla yhteiskunnan sektoreilla, niin kuin ministeri Marin sanoi. En tiedä, mitä
+se tulee tulevaisuudessa kaikilta osin olemaan, mutta niin kuin tälläkin hetkellä on yhdis-
+tetty muun muassa Postin jakelupisteitä muihin toimipisteisiin [Arja Juvosen välihuuto]
+elikkä ei ole enää erillisiä Posteja pelkästään, niin kuin meillä kaikilla on tiedossa, niin
+onko joissain muissakin tehtävissä mahdollisesti yhdistettävissä jotakin näihin asioihin?
+
+14.36 Pia Kauma kok (vastauspuheenvuoro): Arvoisa puhemies! Kiitän ministeri Paa-
+teroa erittäin hyvästä ja selkeästä esiintulosta tämän asian tiimoilta. Nyt on todella hyvä,
+että otetaan aikalisä näissä palkkaneuvotteluissa. 
+
+Edustaja Halla-aho totesi täällä aiemmin, että valtion tulee näyttää esimerkkiä näissä
+asioissa, ja minä olen kyllä aivan samaa mieltä siinä. Me emme voi antaa tämän yhteiskun-
+nan luisua siihen, että ihmiset eivät tule palkallaan toimeen. Joka tapauksessahan se johtaa
+siihen, että he sitten tarvitsevat toimeentulotukea ja asumistukea ja monenlaisia muita tu-
+kia. Ja mihin se johtaa varsinaisen työnteon kannalta? Varmasti laadun ja motivaation
+heikkenemiseen. Kyllä valtion täytyy katsoa asiaa laajemmin kuin pelkästään siitä näkö-
+kulmasta, paljonko on tuottotavoite ja millä siihen pyritään. 
+
+14.37 Hanna Sarkkinen vas (vastauspuheenvuoro): Arvoisa puhemies! Oikeus ja koh-
+tuus — ne ovat tärkeitä yhteiskunnallisia arvoja, ja niiden kautta on tarkasteltava myös val-
+tionyhtiöiden toimintaa. Onko työntekijöiden kannalta oikein, että heidän palkkansa laske-
+vat työehtosopimusshoppailun seurauksena jopa yli kolmanneksen? Onko kohtuullista,
+että samalla kun työntekijöiden palkkoja lasketaan, johtajat nostavat lähes miljoonan eu-
+ron vuosipalkkaa, jopa niin kovaa palkkaa, että muiden vastaavien yritysten palkat kalpe-
+nevat niiden rinnalla? Vastaus on selvästikin ei. Isot palkanalennukset eivät ole työnteki-
+jöiden kannalta oikein, ja Postin johdon palkkiotaso ei ole kohtuullinen. 
+
+Kiitän myös omalta osaltani omistajaohjausministeri Paateroa siitä, että hän on viheltä-
+nyt pelin poikki ja ottanut tilanteen tarkasteluun. Toisaalta on myös muistettava ja tunnus-
+tettava Postin vaikea toimintaympäristö kireässä kilpailussa, kirjepostin määrän vähen-
+tyessä ja yleispalveluvelvoitteen säilyessä. Toivon todella, että voidaan tarkastella tuotto-
+tavoitetta tai sitä, pitääkö yleispalveluvelvoitetta korvata Postille, jotta jatkossa vältymme
+tällaisilta tilanteilta ja uutisilta. 
+
+14.38 Peter Östman kd (vastauspuheenvuoro): Arvoisa puhemies! Vuoden 2014 valtio-
+päivien avajaisissa tasavallan presidentti Niinistö peräänkuulutti kohtuutta ja oikeudenta-
+jua johtavassa asemassa olevilta. Puheessaan Niinistö sanoi, että jos johto ei näytä hyvää
+esimerkkiä, ei sitä kohtuudella voi vaatia muiltakaan. Presidentti jatkoi: ”Pienikin paha
+paljastaa ja puhuttaa paljon, etenkin jos se kertoo ylimielisyydestä, siitä, ettei kohtuudesta
+ja oikeudentajusta piitata.”
+
+Arvoisa puhemies! Omistajaohjausministeri Paateron eilinen ulostulo oli tässä mielessä
+enemmän kuin tarpeellinen, kun hän viestitti, että työehtokiistaan tarvitaan aikalisä ja joh-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+tajien palkkoihin tarvitaan muutosta. Tämä ulostulo ei saa kuitenkaan jäädä pelkäksi popu-
+listiseksi heitoksi. Itse tulen seuraamaan tilannetta ja odotan, että puheet muuttuvat teoiksi.
+
+14.39 Mia Laiho kok (vastauspuheenvuoro): Arvoisa puhemies! Postille kuuluu yleispal-
+veluvelvoite postin jakamisesta, ja valitettavasti sen laatu on viime aikoina selvästi kärsi-
+nyt. Tässä tilanteessa Postin johto, joka vetää melkein miljoonan vuosiansiot, on myös
+alentamassa työntekijöidensä palkkoja jopa 30 prosentilla. Missä on oikeus ja kohtuus?
+
+Eilen kyllä sitten meinasi jo kahvi mennä väärään kurkkuun, kun luki, että pääministeri
+Rinne haluaa postinjakajat osaksi sote-ratkaisua — kurkataan ikkunasta, onko kaikki hy-
+vin. Tämä on kyllä erittäin huolestuttavaa: samaan aikaan kun hallitus yrittää löytää hoita-
+jamitoitukseen hoitajia, niin kotihoidon työntekijöitä ollaan korvaamassa postimiehillä.
+Aiotteko todella jatkossa korvata kotihoidon työntekijät postimiehillä?
+
+14.40 Ville Tavio ps (vastauspuheenvuoro): Arvoisa puhemies! Kuten kaikki tiedämme,
+sähköisen viestinnän lisääntyminen meidän yhteiskunnassamme on tehnyt kirjepostin suo-
+sion tietenkin hirveän laskevaksi ja siten Posti on valtavassa kustannuspaineessa koko
+ajan. Tämä tulee valitettavasti näkymään myös siinä, miten Posti pystyy henkilöstöä yllä-
+pitämään ja palkkaamaan. Se on tietysti taas ihan räikeässä ristiriidassa sen kanssa, että on
+tosiaan yleinen palveluvelvoite ja posti on peruspalvelu, jonka pitää toimia koko maassa
+ainakin niin kauan kuin elää vanhempaa väkeä, ja itsekin kyllä koen, että aika moni lasku
+tulee saada postitse sen sähköisen sijaan. Tätä toimintaa joudutaan pyörittämään valtion
+varoin. Se on valitettava tosiasia.
+
+Perussuomalaisten mielestä tässä kiistassa on tärkeintä, että valtionyhtiöiden henkilös-
+töpolitiikka on esimerkillistä. Se ei saa olla henkilöstöä sortavaa. Epäilen, ettei minkään-
+lainen pääministeri Rinteen esitys siitä, että joitain kotihoidon palveluita Posti alkaisi tuot-
+taa, tule menestymään. Se oli ilmeisesti pelkkä heitto. Nyt sitten me perussuomalaiset seu-
+raamme, mitä tämä aikalisä tulee merkitsemään ja mitä hallitus tekee. Toivottavasti pidätte
+nyt Postin työntekijöiden puolta tiukasti.
+
+Puhemies Matti Vanhanen: Myönnän vielä vastauspuheenvuorot edustajille Myllykoski
+ja Honkonen, ja sen jälkeen pääministerillä on mahdollisuus kommentoida. Sitten palataan
+puhujalistaan.
+
+14.42 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa herra puhemies! Aikanaan oli
+sanonta, että kun Kusti polkee, niin posti kulkee. Nyt sanonta on valitettavasti niin, että
+Postin johto polkee Kustia, jotta bonukset kulkee. [Naurua] Olisinkin kysynyt vielä omis-
+tajaohjausministeriltä: onko todella niin, että me olemme nyt ajautuneet siihen tilantee-
+seen, että tarvittiin taas kohtuuttomuuksia, että silmät aukenivat? Olin erittäin iloinen mi-
+nisterin ulostulosta, niin että tätä asiaa ruvetaan pohtimaan. Sanoisin, että tämä työehtoso-
+pimusshoppailu on ikään kuin aggressiivista verosuunnittelua. Yritykset voivat aggressii-
+visella työehtosopimusshoppailulla tehdä tulosta ja ulkoistaa työntekijöitään ja alentaa hei-
+dän palkkojaan. Onko meillä joitakin välineitä, joilla me voisimme puuttua tähän kokonai-
+seen ilmiöön, että työehtoja poljetaan ja niitten avulla shoppaillaan ja tehdään tulosta
+työntekijöiden kustannuksella?
+9
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+14.43 Petri Honkonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! On aivan
+selvää, että Posti on yleispalveluyhtiö ja valtionyhtiönä sitä velvoittaa myös tietynlainen
+perinne. Aivan kuten ennen aikaan, kun monet valtionyhtiöt toimivat ikään kuin viran-
+omaiset ja siihen aikaan tietysti velvoitteet ja vastuut olivat samanlaisia kuin muilla viran-
+omaistahoilla, niin mielestäni ikään kuin tämä perinne velvoittaa myös Postia ja muita val-
+tionyhtiöitämme edelleen, etenkin mitä tulee näihin johdon palkkioihin. Niissä tulisi nou-
+dattaa kohtuullisuutta, ja meillä keskustassa kyllä laajemmin ajatellaan, että valtionyhtiöi-
+den johdon palkitsemiset ovat menneet liian pitkälle.
+
+Mielestäni ministeri Marin käytti tässä erittäin hyvän, harkitun ja punnitun puheenvuo-
+ron siitä, mihinkä suuntaan tässä asiassa pitää edetä. Tietysti on paikallaan esittää myös se
+kysymys, mihinkä suuntaan yhteiskunnassamme laajemmin ollaan ajauduttu, kun johdon
+palkitsemisten kanssa tuntuu kohtuus häviävän ja vasta pakon edessä sitten ollaan valmiita
+tulemaan vastaan, varsinkin kun henkilöstön kanssa on tällaisia kiistoja meneillään. Mie-
+lestäni on äärimmäisen tärkeää, että me täällä eduskunnassa käymme sitä keskustelua ja
+viestitämme yhteiskuntaan sitä viestiä, että kohtuus ajassa [Puhemies koputtaa] kuin ajas-
+sa on äärimmäisen tärkeää, mitä näihin palkitsemisiin tulee.
+
+14.44 Pääministeri Antti Rinne: Arvoisa puhemies! On äärimmäisen tärkeätä huomata
+se, kuinka teknologinen kehitys on tuottanut Postin näkökulmasta postin kulkuun muutok-
+sia. Se tarkoittaa käytännössä sitä, että Postihan on ollut vuosia ja vuosia — muistan sen jo
+edellisestä työstä — todella hankalassa tilanteessa tämän kehityksen suhteen. Se pitää pi-
+tää erillään siitä, mitä Postissa on käytännössä tapahtunut suhteessa henkilöstöön. Elikkä
+siellä on ollut lähtökohta jo pitkän aikaa se, että joko porukkaa potkitaan pellolle tai pie-
+nennetään palkkoja, ja tämä on väärää politiikkaa. Se on väärää politiikkaa niiden ihmisten
+kannalta, jotka ovat töissä Postissa, ja se on väärää politiikkaa myöskin asiakkaiden kan-
+nalta. Posti ei kulje sillä tavalla kuin sen pitäisi kulkea, kun on liian vähän resursseja.
+
+No, olen kuunnellut tätä keskustelua mielenkiinnolla, koska heitin ihan tarkoituksella
+avauksen siitä, että jotakin muutakin voisi miettiä kuin palkkojen alentamista tai porukan
+pois potkimista. Yksi ajatus on se, että me tarvitsemme ennalta ehkäisevää toimintaa: ih-
+misten turvallisuuden lisääntymistä myöskin niillä alueilla, missä väestö vähenee tällä het-
+kellä. Siellä on itse asiassa postipalvelut, jotka kulkevat ihmisten joukossa päivittäin. Voi-
+si olla järkevää miettiä osana sote-kokonaisuutta ennalta ehkäisevää toimintaa, sitä, että
+joku kävisi siellä turvallisuutta lisäämässä, kolkuttamassa ovelle, kysymässä, onko kaikki
+kunnossa, tarvitsetko huomenna jotain. Ei missään tapauksessa tietenkään hoitotyötä. Ne
+ovat lääkäreitten ja koulutettujen hoitajien työtehtäviä, mutta lisää semmoista ylimääräistä
+turvallisuudentunnetta, jolla voidaan turvata se, että ihmisillä on parempi olo kuin tällä het-
+kellä.
+
+Nämä ovat niitä ajatuksia, mitä pitäisi itse asiassa monessa suhteessa miettiä suomalai-
+sessa yhteiskunnassa vähän uudella tavalla, vähän luovemmin. Minä todella toivon, että
+erityisesti kokoomus ja perussuomalaiset pääsevät irti tästä ”ei, ei, ei” -asenteesta, [Naurua
+kokoomuksen ja perussuomalaisten ryhmistä] asenteesta, joissa kaikkeen sanotaan ”ei” ja
+kaikki torjutaan saman tien. [Ben Zyskowicz: Keneltäköhän me ollaan se opittu?]
+
+Puhemies Matti Vanhanen: Siirrytään puhujalistaan. Varsinaisia puheenvuoroja on mah-
+dollista pitää 3 minuutin mittaisina paikalta tai, jos puhe kestään pidempään, sitten puhu-
+japöntöstä.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+14.46 Jari Myllykoski vas: Arvoisa herra puhemies! Keskustelu on ollut erinomaista, ja
+näyttää siltä, että meillä on erityisen hyvä parlamentaarinen yhteisymmärrys siitä, että Pos-
+tin toiminnoissa on menty nyt hakoteille, ja tämä eduskunta haluaa yhdessä siihen korjaa-
+via liikkeitä. Tässä kohtaa täytyy oppositiota kiittää, että te olette ottaneet sen niin sanotun
+vahtikoiran paikan, ja minä kyllä luotan, että te hoidatte sen tehtävän varmasti mallikkaas-
+ti. [Perussuomalaisten ryhmästä: Voitte olla varmoja! — Paavo Arhinmäki: Paitsi Juhana
+Vartiainen!] 
+
+Se, miksi tuossa päädyin siihen, että tämä Postin toiminta vaikuttaa aggressiiviselta työ-
+ehtosopimusshoppailulta, on tietysti surullinen tarina meidän työehtosopimuslainsäädän-
+tömme maahan polkemisesta. Pitää muistaa, että meillä on työsopimuksia ja työehtosopi-
+muksia ja niitäkin on normaalisitovia ja yleissitovia, ja nyt toivoisin, että tämän keskuste-
+lun myötä vaikkapa oikeusministeri ottaisi kopin siitä, että tarkastelisimme nyt tämän keis-
+sin jälkeen meidän työlainsäädäntömme, jonka perusperiaate on, että se on säädetty hei-
+komman osapuolen turvaksi. 
+
+Ja pitää nähdä se, että se, mikä on mahdollistanut tämän, on tietysti jo vuonna 2001 teh-
+dyt lainmuutokset, jolloin normaalisitovan ja yleissitovan työehtosopimuksen asioita hie-
+man peilattiin toisiinsa. Mutta toivoisin todellakin, että meillä niin koko työehtosopimus-
+kuin työsopimuslainsäädännössäkin palattaisiin siihen alkuperäiseen tarkoitukseen ja tuo-
+taisiin tämän Postin yhteydessä uudelleen keskusteluun vaikkapa tämä lakipykälä, työeh-
+tosopimuslain 6 §, josta kumpuaa se, että ollaan heikomman osapuolen puolella. Eli: ”Jos
+työsopimus joiltakin osiltaan on ristiriidassa siinä noudatettavan työehtosopimuksen kans-
+sa, on työsopimus näiltä osin mitätön ja niiden sijasta käyvät noudatettaviksi työehtosopi-
+muksen vastaavat määräykset.” Eli jos työnantaja on pakottanut tekemään työehtosopi-
+musta huonomman työsopimuksen, noudatetaan silloin tätä parempaa vaihtoehtoa. 
+
+Nyt me olemme olleet sen polun päässä, että tämä tytäryhtiö — kun samassa konsernis-
+sa kuitenkin toimintoja johdetaan — on mahdollistanut sen, että niin sanotusti samalla
+työnantajalla voi olla kahdenlaisia työehtosopimuksia hallinnassaan, ja minun mielestäni
+tämä on se räikein esimerkki, mitä nyt Postissa on tapahtunut. Ei se tuolla yksityiselläkään
+puolella ole mahdollista niin, että siellä Teknologiateollisuuden työehtosopimusta noudat-
+tava yrittäjä alkaisi noudattamaan eri työtehtävissä oleviin työntekijöihinsä erilaisia työeh-
+tosopimuksia. Kyllä meillä tuolla nykyisessä Teollisuusliitossa, jos siellä tekee mitä työ-
+tehtävää hyvänsä sen työehtosopimuksen piirissä, yrittäjä noudattaa sitä yhtä ja ainoaa työ-
+ehtosopimusta. Siinä mielessä ministeri Paateron toteamus siitä, että nyt tämä paketti ko-
+konaisuudessaan viedään tarkasteltavaksi, on hyvä huomio, jolloin sitten tulee tämäkin
+asia käytyä varmasti niissä keskusteluissa läpi. 
+
+Sitä, mitä pääministeri Rinne toi esille, en kyllä myöskään ammu alas heti aiheetta.
+Muistellaan, että me olemme itse päästäneet Postin tähän tilanteeseen, missä me nyt olem-
+me: Pikkupaikkakunnilla ei ole postia. On asiamiesposteja, jos on edes niitä. Me olemme
+siirtäneet valtion verorahoilla toimitettavia tuotteita yksityisille toimijoille ja uhranneet sii-
+nä kohtaa Postin oman kehittämisen ja kehittämistyön. Me saamme näppärästi kyllä ajo-
+kortin, passin, aseenkantolupakin taitaa olla siellä, kalastushoitomaksut ja niin edelleen,
+me olemme luovuttaneet ne toisaalle, ja se verotulo, joka sieltä olisi voinut tulla valtionyh-
+tiöön takaisin, menee nyt yksityiselle sektorille ja osassa liiketoimintaa ulkomaalaisen si-
+joitusyhtiön tilille, niin että se verovirta ei mahdollista enää meidän oman julkisen palve-
+lun kehittämistä. Kysyisinkin omistusohjausministeriltä: voimmeko vielä uudelleen avata
+tätä polkua ja tätä keskustelua, että palautamme toimintoja Postin hoidettavaksi?
+11
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+14.52 Mia Laiho kok: Arvoisa puhemies! Tähän postiongelmien ja sote-ratkaisun yh-
+teenliittämiseen haluan edelleen vielä ottaa kantaa, koska minusta tässä kulminoituu hyvin
+työvoiman saatavuus ja samalla se, millä tavalla arvostetaan eri ammattiryhmiä. 
+
+Postitoimihenkilön koulutus ja hoitohenkilökunnan koulutus ovat aivan erilaiset. Jos me
+lähdemme puhumaan siitä, että kuka vain voi tehdä sitä työtä, niin me samalla romutamme
+kyllä ja aliarvostamme meidän koulutettua, ammattitaitoista henkilökuntaamme. Eihän sii-
+nä mitään, jos postimies on myöskin lähihoitaja tai sairaanhoitaja ja sovitaan yhteisistä työ-
+malleista, mutta toinen asia on se, että me laitamme postimiehet tekemään kotihoidolle
+kuuluvaa työtä, menemään ihmisten kotiin — tosin, jos kurkataan vain ikkunasta, niin sit-
+ten ei vielä häiritä yksityisyyttä. Tähän liittyvät monet arjen asiat, salassapitovelvollisuu-
+det, yksityisyydensuoja ja myöskin monet muut lait, jotka suojaavat ihmisen kotia, ja niin
+pitää ollakin. Meidän pitää kunnioittaa meidän vanhuksiamme, mutta meidän pitää kun-
+nioittaa ja arvostaa myöskin meidän työntekijöitämme, sekä Postin työntekijöitä että
+myöskin hoiva-alan työntekijöitä.
+
+Nykyään kotihoidon vanhukset ovat erittäin raskashoitoisia. He ovat monisairaita, ja he
+tarvitsevat paljon hoivaa ja huolenpitoa. Jos siellä riittää kerran päivässä käynti, niin on
+yleensä kyse vielä aika hyvin kotona pärjäävästä vanhuksesta, mutta suurin osa meidän
+vanhuksistamme on nykyään sellaisia, jotka tarvitsevat paljon hoivaa, joten tällä ei tätä on-
+gelmaa ratkaista. 
+
+Toivonkin, että nämä pidetään nyt selvästi erillään, sote-laki ja postiasiat. Postin tilanne
+tarvitsee ilman muuta syvällisen ja perusteellisen arvion siitä, millä tavalla me pystymme
+tämän Postin yhteispalveluvelvoitteen turvaamaan, että kaikki saavat postinsa ajallaan niin
+kuin kuuluu, ja myöskin hoitamaan valtio-omisteisen yhtiön työntekijöiden työsuojelun ja
+oikeusturvan reilulla tavalla ja luopumaan näistä ylisuurista johtajien palkoista.
+
+14.54 Päivi Räsänen kd: Arvoisa herra puhemies! Digitaalisuuden murros on toki mullis-
+tanut Postin toimintaa — kuljetettavien kirjeiden määrä on kymmenessä vuodessa pudon-
+nut puoleen — mutta toisaalta sitten samanaikaisesti sen vaikutusta on hieman kompensoi-
+nut se, että nettikaupoista on ryhdytty paketteja tilaamaan ja sillä tavalla Postille on tullut
+sitten tässä suhteessa markkinoita lisää. Mutta itse ajattelen, että kyllä perusongelma tässä
+kipeässä tilanteessa, jossa nyt Postin kohdalla ollaan, on se, että valtion tuottotavoitteet
+ovat yksinkertaisesti tähän Postin tilanteeseen nähden liian korkeat niin, että se toimivan
+johdon kohdalla johtaa siihen säästöjen nyhtämiseen työntekijöiden selkänahasta, kun ta-
+voitellaan niitä tuloksia, joilla sitten toisaalta mitataan johdon toimintaa. Jos yhtiön ei tar-
+vitsisi maksaa valtiolle näin suurta osinkoa, joka on tällä hetkellä ollut noin 30 miljoonaa
+euroa vuodessa, niin silloin ei tarvitsisi hakea näitä kustannussäästöjä esimerkiksi alenta-
+malla työntekijöiden palkkaa. Mielestäni tämä on sellainen asia, mitä nyt hallituksen tulisi
+erittäin vakavasti pohtia, ja kun Posti on kokonaan valtion omistama yhtiö, niin on kyllä
+järjetöntä, jos entuudestaan pieniä palkkoja leikataan niin, että nämä ihmiset joutuvat sit-
+ten turvautumaan valtion budjetista kustannettaviin sosiaalitukiin.
+
+Itsekin toivon sitä, että sotea, entuudestaan jo hyvin vaikeaa sote-kokonaisuutta, ei tä-
+hän Postiin sotkettaisi. On tärkeää, että Posti pysyy siellä, mikä on sitä ydinosaamista: ni-
+menomaan siellä kirjeiden ja pakettien ja muiden kuljetusten alueella. Mutta Postin työn-
+tekijöille on turvattava sellaiset työolosuhteet ja sellainen palkka, että he voivat hymyillen
+tätä työtään jatkaa, ja on turvattava myös ne yleispalveluvelvoitteen mukaiset peruspalve-
+lut kansalaisille.
+12
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+14.57 Heikki Autto kok: Arvoisa herra puhemies! On tärkeää, että eduskunnan syysistun-
+tokausi alkaa keskustelulla Postin merkityksestä. Suomalaisille viestin luottamuksellisuu-
+della ja toisaalta viestin luotettavalla perillemenolla on ollut kautta historian valtavan suuri
+merkitys, jos mietimme sitä, kuinka tämän päivän Suomea on rakentanut 1600-luvulta läh-
+tien tähän maahan rakennettu ratsutieverkosto, jonka varret voimme edelleen havaita tuol-
+la nykyisillä kartoilla, tai mietimme niitä kansakunnan kohtalon kaikkein vaikeimpia het-
+kiä, kun kenttäposti toi terveiset kotirintamalle sieltä jostain ja taas kotirintaman kuulumi-
+set sinne jonnekin. Taistelutahto ja moraali pystyttiin pitämään yllä kaikkein vaikeimpina-
+kin hetkinä, kun viesti kulki luotettavasti perille. Nyt elämme toki uutta aikaa, aivan uu-
+denlaisia haasteita, mutta jos näiden tämän maan korpi- ja salomaiden ja Lapin tunturien
+yli on saatu posti kulkemaan ja niinkin vaikeina hetkinä kuin talvi- ja jatkosodan vuosina
+Posti on tavoittanut jokaisen, niin kyllä sen täytyy tavoittaa jokainen suomalainen myös
+tässä ajassa.
+
+Tämä uusi aika tietysti edellyttää uudenlaisia ajatuksia, ja siksipä en aivan täysin tyrmäi-
+sikään pääministeri Rinteen sinänsä mielestäni aivan virkistävää ajattelua siitä, että kun
+meillä on tällainen voimavara ja ihmisiä, jotka päivittäin vierailevat tutuissa naapurustois-
+sa ihan joka puolella maata, niin sitä heidän läsnäoloaan siellä voitaisiin jollain tavalla hyö-
+dyntää. Arvostan erittäin korkealle edustajakollega Laihon, Juvosen ja Räsäsen osaamista
+ja laajaa ymmärrystä sote-palveluista ja olen kanssanne täysin samaa mieltä siitä, että ei
+tietenkään Postin jakajahenkilöstöltä voi edellyttää sosiaali- ja terveydenhuollon osaamis-
+ta, mutta mielestäni pääministeri on siinä oikeassa, että kun mietimme tämän maan laajoja
+selkosia, niin on varmasti järkevää hyödyntää sitä voimavaraa, mikä siitä tulee, että pos-
+tinjakajat kuitenkin ympäri maata päivittäin kaikissa osoitteissa edelleen vierailevat, ja
+miettiä, miten Postin työntekijöiden työtä voidaan lisätä niin, että se vastaa tämän päivän
+tarpeisiin tavalla, joka mahdollistaa sen, että Postin työntekijät tulevat palkallaan toimeen
+myös tulevaisuudessa ja he saavat kokea tekevänsä arvokasta työtä samalla tavoin kuin
+Postin työntekijät ovat satoja vuosia työtä tämän maan parhaaksi tehneet.
+
+Tässä vielä nyt haluan haastaa ministereitä — hienoa, että olette keskusteluun osallistu-
+massa: miten todella varmistamme sen, että toisaalta postinjakelu, toisaalta lehtien jakelu
+kaikkialla Suomessa tulevaisuudessa turvataan? Myös tähän tässä salissa haluamme var-
+masti kuulla vastauksia.
+
+15.00 Arja Juvonen ps: Arvoisa herra puhemies! Posti on ollut suuressa rakennemuutok-
+sessa viimeisten vuosien aikana, ja on aivan juuri niin kuin perussuomalaisten Ville Tavio
+sanoi, että digitaalisuus on vähentänyt postin määrää. Moni ihminen ei myöskään halua tai
+pysty vastaanottamaan sitä kirjepostia, vaikkapa laskuja, koska laskujen lähettämisestä ko-
+tiin veloitetaan ja ne ovat kohtuuttomia kustannuksia. Muun muassa puhelinlaskuihin saat-
+taa tulla päälle sitten laskutuslisää siitä paperilaskusta.
+
+Perussuomalaisille on erittäin tärkeää, että posti kulkee, ja kyllä huolestuneena kuulee
+viestejä myös siitä, onko henkilöstöä riittävästi ja kulkeeko se posti, tuleeko kirje perille,
+tuleeko paketti perille. Minusta on erittäin huolestuttavaa myös se, että kaikissa Postin pal-
+velupisteissä ei voi lähettää pakettia, sekin palvelu pitäisi tilata netin kautta. Ja mitä enem-
+män nämä palvelut muuttuvat digitaalisiksi ja siirtyvät sinne nettiin ja sitä kautta pitää
+asioita hoitaa, sitä hankalammiksi ne käyvät. Meillä on ikääntyvä väestö, meillä on paljon
+vanhuksia ja hyvinkin siellä maaseudulla asuvia ihmisiä, jotka odottavat sitä postiaan ja
+haluavat myös kirjeensä lähettää, ja se osoittautuu mahdottomaksi. Kyllä perussuomalai-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+set seuraavat tätä tilannetta ja tekevät sitten aiheeseen liittyviä toimenpiteitä sen myötä —
+kuten myös näiden johdon palkkioiden osalta. Mielestäni tulisi perustaa erityinen työryh-
+mä pohtimaan Suomessa näitä johdon palkkioita ja sitä, mitä kaikkea on, mistä me emme
+edes tiedä. On kohtuutonta, että on olemassa henkilöitä, jotka palkitaan näin ruhtinaallises-
+ti. Se ei uppoa suomalaisen oikeustajuun. Oikeus ja kohtuuskin on täällä mainittu — se on
+erittäin tärkeää. Ja se ahneus: loppujen lopuksi jokaisellehan se oma palkka on tärkeä ja jo-
+kaiselle ne omat edut ovat tärkeät. Niistä pidetään kynsin ja hampain kiinni, ja aina tarvi-
+taan joku suuri kohu, että saadaan tällainen päänavaus.
+
+Mutta sitten tähän soteen haluan vielä palata. Todellakin, johan on kansalaisvelvolli-
+suus, että katsotaan toinen toisemme perään ja autetaan, jos on tarve, ja tehdään ilmoitus
+siitä, että tarvitaan apua. Mutta minä näen huolestuttavana sen kehityksen, että tavallaan
+postityötä tekevä henkilö olisi velvoitettu myös kurkkimaan ikkunoista ja koputtamaan
+ovelle ja kysymään, mitä kuuluu. Siinä on myös turvallisuusriskejä, siinä on kaikkia mah-
+dollisia ajatuksia, mitä voi tulla mieleen. Hoitotyötä ei saa ulkoistaa, ja missään nimessä
+kotihoitoa ja postityötä ei tule yhdistää. Nyt minulle herää hoitajana pelko siitä, ollaanko
+yhdistämässä kotihoito ja postipalvelut — samallahan se lähihoitaja jakaa sen postin, kun
+se katsoo, miten se vanhus voi, parhaimmillaan mittaa verenpaineen, antaa lääkettä ja niin
+poispäin. Elikkä tätä me kyllä tulemme vastustamaan. Meillä on Suomessa ammatti-iden-
+titeetti: hoitajille hoitotyöt, seuranta ja tarkkailu, ja sitten Posti tekee muita töitä. Ja toivon
+tosiaankin, että ihmiset lähettäisivät kirjeitä ja postia, jotta posteljooneille riittäisi myös
+sitä työtä ja palkka olisi kohdallaan.
+
+Puhemies Matti Vanhanen:  Myönnän tähän keskusteluosuuteen vielä kaksi pyydettyä
+puheenvuoroa. Sen jälkeen siirrymme seuraavaan aiheeseen. 
+
+15.03 Terhi Koulumies kok: Arvoisa puhemies! Hyvät edustajat! Haluaisin puuttua tä-
+hän postin kulun ongelmaan ja laatupuoleen, kun täällä on puhuttu nyt lähinnä rahasta ja
+palkasta.
+
+Vuonna 2017 ainakin täällä pääkaupunkiseudulla postinkulku alkoi yhtäkkiä heiketä
+huomattavan paljon. Ainakin tuolla kantakaupungin alueella oli paljon siitä huolestuneita
+kansalaisia. Tein heidän kokemustensa perusteella kantelun oikeusasiamiehelle siitä, mi-
+ten postinkulku turvataan Suomessa ja kuinka Posti valvoo sitä, että postilähetykset mene-
+vät perille. 
+
+Siitä tulikin sitten ensimmäinen kantelu, jonka oikeusasiamies on ottanut käsittelyyn
+Postia koskien. Hän antoi viime vuonna ratkaisunsa ja totesi, että viranomaiskirjeiden kul-
+ku näyttäisi olevan paitsi yleispalvelukirjeiden käsittelylle annettujen vaatimusten ja val-
+vonnan, myös rikosoikeudellisen virkavastuun ulkopuolella. Hän heitti liikenne- ja viestin-
+täministeriölle kysymyksen, pitäisikö arvioida, tulisiko postilain 21 §:ää Postin virkavas-
+tuista täsmentää viranomaiskirjeiden perillemenon osalta. Postin oman tulkinnan mukaan
+sillä ei ole velvollisuutta valvoa näiden virka- eli yritys- ja viranomaiskirjeiden perilleme-
+noa ollenkaan, mutta apulaisoikeusasiamies tulkitsee siis asiaa toisin. Apulaisoikeusasia-
+mies siis pitää epätyydyttävänä, että Postin vastuu lakisääteisistä tiedoksiantomenettelyis-
+tä on käytännössä rajoittunut vain pieneen murto-osaan postilähetyksestä elikkä niihin yk-
+sityishenkilöiden rahoittamiin postimerkillisiin kirjeisiin. Apulaisoikeusasiamies kiinnit-
+tää huomiota siihen, että tämä vastuun rajoittaminen näyttää siis perustuvan Postin omaan
+tulkintaan tämän asianomaisen säädöksen tarkoituksesta. Hänellä itsellään tuntui olevan
+14
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+siitä toinen tulkinta. Toivon, että hallituksessa pohditaan, onko tässä epäkohta, joka tulisi
+korjata. — Kiitos.
+
+15.06 Sari Essayah kd: Arvoisa puhemies! Haluan minäkin vielä muutaman sanan sanoa
+tästä niin sanotusta Posti-sotesta, jota tässä keskustelussa on kritisoitu. Aivan varmasti on
+näin, että jokaisen kansalaisen velvollisuuteen kuuluu ylipäätänsä katsoa vähän kanssakul-
+kijoiden perään, että mitä kuuluu, ja kysellä, miten jaksetaan. Mutta se, että meillä todella-
+kin annettaisiin postinjakajille tehtävä, että heidän tulisi ruveta tekemään niitä asioita, jot-
+ka perinteisesti kuuluvat kotihoidon puolelle, ei kyllä varmastikaan ole järkevää kehitystä.
+Toisaalta täytyy muistaa, että maaseudulla ne postilaatikot eivät ole ihan siinä seinän vie-
+ressä elikkä sieltä ei noin vain kurkata siinä samalla, kun postia jaetaan, vaan siellä saattaa
+olla monta sataa metriä kuljettavana vielä sinne ovelle, jos halutaan samalla reissulla käy-
+dä katsomassa, miten siellä kotona jaksetaan. Tämä on hyvä pitää mielessä, kun visioidaan
+näitä uusia työtehtäviä. Ja ylipäätänsäkin sote on itsessään jo — niin kuin kaikki täällä sa-
+lissa viime kaudella olleet tiedämme — varsin haastava harjoitus, joten varmasti näitä Pos-
+tin erilaisia työsopimuskiistoja ei kannata sitten enää siihen asiaan sotkea.
+
+Mutta se on selvää, että Postilla on kannattavuusongelma, ja varmasti tässä kiristynees-
+sä kilpailutilanteessa niillä aloilla, jotka ovat kilpailun piirissä, on ollut oma vaikutuksen-
+sa. Tässä on äärimmäisen tärkeää ennen kaikkea, että poliittiset toimijat palauttavat kansa-
+laisten luottamuksen Postiin. Tässä edellisessä puheenvuorossa edustaja Koulumies toi hy-
+vin esille tämän muun muassa viranomaiskirjeisiin liittyvän epäkohdan, joka tällä hetkellä
+huolestuttaa: työttömät eivät saa ajoissa tietoa erilaisista työtarjouksista tai siitä, että heille
+on erilaisia toimenpiteitä ehdotettu, jolloin saattaa olla pahimmillaan seurauksena se, että
+he itsestään johtumattomista syistä saattavat joutua esimerkiksi karenssimenettelyyn, tai
+haja-asutusalueella esimerkiksi vaikkapa erilaiset viranomaisten ajat — lääkärinajat, vas-
+taanottoajat tai vastaavat — saattavat tulla niin myöhään, että ihmisten on vaikea sitten
+enää järjestää arkeansa, tai ne saattavat tulla jopa siinä vaiheessa, kun asia on unohdettu.
+Puhumattakaan sitten siitä, että tällä hetkellä tuolla monissa maakuntalehdissä mietitään,
+millä tavalla varmistetaan se, että ne perjantain ja torstain lehdet eivät vasta seuraavalla vii-
+kolla ole jakelussa siellä haja-asutusalueella. Sillä tavalla sitten voisi sanoa, että tämä hei-
+jastuu myöskin median puolelle, eli varmasti jaettavien lehtien tilaukset tippuvat, mikäli
+tätä luotettavuus- ja ajankohtaisuusasiaa ei saada kuntoon.
+
+Mutta olen tosiaankin tyytyväinen siihen, että ministeri Paatero on halukas puuttumaan
+näihin johdon palkkioihin ja ehkä laajemminkin katsomaan ylipäätänsä koko valtionyhti-
+öitten johtajien palkitsemisjärjestelmää. Aivan käsittämättömiä summia on ollut mahdolli-
+suus näiden bonusjärjestelmien kautta saada, ymmärtääkseni jopa 1,4 miljoonaan olisivat
+voineet nousta pahimmillaan nämä johdon palkkiot. Tätä ei voi millään tavalla hyväksyä,
+ja tämä on täysin käsittämätöntä.
+
+Puhemies Matti Vanhanen: Keskustelu ja asian käsittely keskeytetään. Asian käsittelyä
+jatketaan tässä istunnossa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 15.09.
+
+————
+15
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+Keskustelua jatkettiin kello 15.46.
+
+Puhemies Matti Vanhanen: Nyt jatketaan aiemmin tässä täysistunnossa keskeytetyn 8.
+asiakohdan käsittelyä.
+
+15.46 Ritva Elomaa ps: Arvoisa puhemies! Esityksessä ehdotetaan muutettavaksi posti-
+lakia siten, että kansallinen lainsäädäntö vastaa Euroopan parlamentin ja neuvoston asetus-
+ten mukaisia vaatimuksia. Esityksen mukaan Liikenne- ja viestintävirasto toimisi toimival-
+taisena viranomaisena ja hallinnollisia kustannuksia tulee hieman lisää, mutta ei niin mer-
+kittävästi, että sillä olisi tuntuvia budjettivaikutuksia. Samoin yksityisten toimijoiden koh-
+dalla taloudellisten vaikutusten arvioidaan jäävän laimeiksi. 
+
+Postilain tarkoituksena on turvata postipalveluiden ja erityisesti yleispalvelun saatavuus
+tasapuolisin ehdoin koko maassa. Tällä hetkellä postinjakelun tulevaisuus näyttää synkäl-
+tä. Aivan kuten edustaja Myllykoski aiemmin jo selvitti, tähän ovat johtaneet monet syyt jo
+vuosien takaa. Jakelun kattavuus on heikentynyt, ja etenkin syrjäseuduilla posti kulkee en-
+tistä harvemmin.
+
+Kun henkilökunta kärsii, toimintoja ulkoistetaan ja palkkoja poljetaan, Posti vetoaa
+usein kiristyneeseen kilpailuun ja sen myötä heikentyneeseen kannattavuuteen. Tästä huo-
+limatta Postilla on ilmeisesti varaa ja pokkaa nostaa johdon palkkioiden tasoa. Tämä on
+melko härskiä, eikä ole mikään ihme, että ihmiset ovat vetäneet niin sanotusti herneen ne-
+nään. Pätevä johtaja varmasti löytyisi, vaikka palkka ja muut bonukset olisivat kolmannek-
+sen nykyisestä. Jos ajatellaan Postin toiminnan kehityskulkua nykyisen johtajan aikana,
+niin ei kai tulokseen tyytyväisiä voida olla.
+
+Valtiojohtoisten yritysten johtajien palkat ovat suuria ja korkeita, mutta emme voi syyt-
+tää johtajia tästä, vaan me poliitikot voimme katsoa peiliin, sillä me olemme osaltamme
+mahdollistaneet tämän touhun. On hyvä, että ministeri on luvannut tarttua asiaan, ja sitä on
+varmaan siivittänyt se, että iltapäivälehdet ovat räikein, isoin otsikoin puuttuneet asiaan —
+mistä minä voisin nyt tällä kertaa sanoa medialle kiitosta — ja some-keskustelussa asia käy
+todella kuumana. No, parempi, että asiaan nyt tartutaan — parempi myöhään kuin ei mil-
+loinkaan. Vääryydet olisi korjattava pian, ja yleensäkin ajatellen valtion omistajaohjausta
+on otettava oppia tästä episodista.
+
+Lopuksi haluan todeta, että Suomen julkikuva vähäisen korruption maana ei ole ehkä
+niin ansaittu kuin kuvittelemme. Vanhoilla puolueilla on vahva perinne kaiken maailman
+koplauksista, ja tälle touhulle olisi laitettava piste. Tämä Rinteen hallituksen valtioneuvos-
+ton palkkamenoja paisuttava politiikka on esimerkki siitä, miten verovaroja surutta tuhla-
+taan. Perussuomalaiset ovat eri linjoilla. Tein vuonna 2016 toimenpidealoitteen, joka sivu-
+si nyt vallitsevaa ongelmaa, mutta nämä aloitteet pakkaavat jäämään unholaan, sinne va-
+liokuntien paperinippujen alle.
+
+Ja vielä aivan lopuksi: Kesällä juttelin monta kertaa myös meidän Maskun postinkanta-
+jan kanssa, ja yhtenäkin päivänä hän oli vielä viideltä jakamassa postia. Hän oli tehnyt
+monta monta tuntia ylitöitä, koska kesäsijaisia oli silloin paikalla ja he eivät tietysti heti
+voineet osata asioita. Mutta tämä henkilö teki ja on tehnyt todella valtavan hienoa työtä to-
+della pienellä palkalla, niin että täytyy vain sitten nostaa hattua, että jaksaa ihminen olla
+töissä eikä ole lähtenyt sille linjalle, että mieluummin on kotona ja ottaa tukea vastaan. Ei
+sekään olisi ihme, koska palkan ja sen minimiansion, jonka saa työttömänä ollessa, välinen
+16
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+raha on niin pieni. Elikkä niin kuin meidän edustaja ja perussuomalaisten puheenjohtaja
+Halla-aho sanoi: kyllä Suomessa tarvitsisi sentään palkalla tulla toimeen. — Kiitos.
+
+15.51 Markku Eestilä kok: Arvoisa puhemies! On hyvä, että tämän asian yhteydessä sal-
+litaan hieman laajempi käsittely koskien valtionyhtiöissä suoritettavaa palkkausta ja an-
+saintajärjestelmiä ja palkintajärjestelmiä.
+
+Ensinnäkin edustaja Räsänen käytti hyvän puheenvuoron siitä, että postin tehtävien on
+toimittava kunnolla niiltä osin kuin laki sille velvoitteet antaa, ja jos toimintaa ei ole mah-
+dollista kunnolla suorittaa, niin sitten ei pidä valtiolle kovin paljon tulouttaa, jos ei ole va-
+raa pitää varsinaista toimintaa asianmukaisena.
+
+Mutta mitä tulee tähän palkkaukseen yleensä, niin minusta olisi hyvä sitoa valtion palk-
+kauslinja niin, että tietyllä kertoimella määritellään se maksimi, mitä palkka voi olla pää-
+ministerin palkkaan suhteutettuna. Minun on vaikea yhtäkkiä arvioida, mikä se kerroin
+mahtaisi olla, mutta sen pitäisi olla maksimaalinen katto, ja sen yli valtio ei palkkapolitii-
+kassaan voi mennä.
+
+Toinen juttu, joka on jo paljon helpompi ainakin itselle määritellä: erinäköisiin bonuk-
+siin ja muihin, joilla palkkiojärjestelmät luodaan, pitäisi panna selvä maksimi suhteessa
+palkkaan. Se on helppoa ja yksinkertaista, ja kaikki sen yli menevät palkitsemisjärjestel-
+mät ikään kuin nollaantuvat. Ainakin oma näkemykseni on, että tämmöisen palkitsemisjär-
+jestelmän pitäisi lähteä siitä, että maksimi on 25 prosenttia palkasta eli kolmen kuukauden
+palkka, ja sen yli meneviä ansaintajärjestelmiä ja bonusjärjestelmiä ei pitäisi valtion hy-
+väksyä, ja siellä, missä vähemmistöomistajina ollaan, pitäisi tätä linjaa aina edustaa. Pörs-
+siyhtiöt ovat erikseen, ja niissä yhtiöissä, joissa valtiolla ei ole sitten määräysvaltaa, voi-
+daan asiaa tietysti markkinaehtoisesti katsoa hieman toisin.
+
+15.53 Raimo Piirainen sd: Arvoisa puhemies! Meillä on hyvin usein tapana ottaa asia
+esille sitten, kun on joitakin ongelmia tullut. Niin kuin nytkin on nähty, niin postin osalta
+on tullut ongelmia ja sitten niihin jälkikäteen pyritään reagoimaan. Tämä on 2011 voimaan
+tulleen lain aikaansaannoksia. Silloinhan tämä markkinaehtoinen postitoiminta kilpailutet-
+tiin. Silloin oli mahdollista eri toimijoiden lähteä kuorimaan kermaa päältä, mutta tämä
+yleispalveluvelvoitteinen posti jäi Postille, ja nyt sitten, kun postin määrä on alentunut, ol-
+laan tässä tilanteessa. Mutta tiedän sen, että se olisi tietenkin veronmaksajien rahoista sit-
+ten laitettava, jos kaikki posti jaettaisiin tällä hetkellä tämän yleispalveluvelvoitteen mu-
+kaisesti joka paikkaan.
+
+Ennen kaikkea tässä on ihmetystä herättänyt tämä työehtosopimuksen shoppailu, elikkä
+on lähdetty erilaisilla työehtosopimuksilla kilpailemaan näillä Postin toimintasektoreilla.
+Se tässä on ehkä kaikista huonointa, että pyritään alentamaan pienituloisten työntekijöiden
+palkkaa. Siitä hyötyy sitten johto, joilla jo ennestään on erittäin suuret ansiot, eikä tämä yk-
+sistään koske Postia, tämä koskee kaikkia valtionyhtiöitä. Esimerkiksi VR:n johtajan tulos
+oli vuonna 2016 yli 800 000 euroa. Kyllä tämä koskettaa kaikkia valtionyhtiöitä, ja on erit-
+täin hienoa, että ministeri Paatero otti tämän asian nyt esille. Minun mielestäni täytyy kaik-
+ki valtionyhtiöt käydä läpi ja antaa ohjeistukset hallitukselle siitä, miten toimitaan. Var-
+maan tuo Eestilän esille tuoma järjestelmä voisi olla yksi mahdollisuus, mutta myös se, että
+tarkastellaan työehtosopimuksia ja työehtosopimuslainsäädäntöä sillä tavalla, että ei ole
+enää mahdollista tämä shoppailu, minkä edustaja Myllykoski nosti esille tuossa omassa
+puheenvuorossaan.
+17
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+Ja minä toivon edelleenkin menestystä tietysti Postille ja ennen kaikkea niille työnteki-
+jöille, että he vielä voisivat omalla ansiollaan tulla toimeen. — Kiitoksia.
+
+15.56 Minna Reijonen ps: Arvoisa herra puhemies! Postin viimeaikaiset asiat ja uutiset
+kyllä huolestuttavat: henkilökunnan palkka-alet ja yleensäkin Postin luotettavuus. Sähköi-
+set jutut, digi, netit ja tällaiset, eivät ole kuitenkaan koskaan kaikkien saavutettavissa, eivät
+koskaan. Tarvitaan myös sitä paperista postiliikennettä. Postin palvelut on turvattava kaik-
+kialla Suomessa. Se vain on näin — ne on turvattava koko maassa. Ei koskaan käy sillä ta-
+valla, että kaikilla on netit ja digit siellä kotona.
+
+Pääministeri Rinteen idea yhdistää Posti ja sote oikeasti hämmästytti. Kovasti ihmette-
+lin, kun tämän uutisen kuulin. Posti on ihan eri asia, sote on täysin eri asia. Postin työnte-
+kijät tekevät todella arvokasta työtä omalla tahollaan, ja samoin terveydenhuollon henki-
+lökunta, hekin tekevät arvokasta työtä omalla tahollaan, mutta että ikkunasta kurkittaisiin
+ja tehtäisiin arvioita ihmisten avunpyynnöistä — ei se ihan sillä tavalla mene. Jokaisenhan
+pitää kuitenkin auttaa, kun nähdään, että on hätätilanne, mutta entäs jos asiakas ei vaikka
+näykään ikkunasta: mitä sitten tehdään, mennäänkö sinne sisälle vai mitenkä sitten toimi-
+taan? Pitää olla se vastuukysymys ihan selvä, ja ei se näin voi mennä. Pitääkö henkilökun-
+nan tosiaan mennä sinne sisälle, vai pitääkö hälyttää apua lisää, vai mitenkä toimitaan? Ei-
+hän voi silleen valtuuttaa, että ihminen on aina nähtävissä ikkunasta, ei todellakaan voi, ei
+se ole ihmisarvon mukaista. Toivon, että ministeri Rinteen idea ei ole koko hallituksen
+kanta. Tai jos tämmöiseen yhdistämiseen mennään, niin käykö kohta tosiaan sillä tavalla,
+että pikakirjeet viedään ambulanssilla pitkin kyliä?
+
+Pääministeri Rinne nosti esille, että perussuomalaiset sanovat aina, että ”ei, ei ja ei”.
+Olen toista mieltä pääministeri Rinteen kanssa. Kyllä perussuomalaiset sanovat hyville
+asioille ”kyllä, kyllä ja kyllä”.
+
+15.58 Juha Mäenpää ps: Arvoisa puhemies! Tämä postiasia on tässä viime päivinä pu-
+huttanut, ja on tullut esiin johtohenkilöiden korkea palkka, ja samaan aikaan pyritään nitis-
+tämään sitä työtätekevän palkkaa, sen, joka on siellä itse postipalveluissa. Tämä ei ole mil-
+lään tavalla hyväksyttävää. Ja varmasti, mikäli oikein olen ymmärtänyt, tämä postilain
+muuttaminen on johtunut siitä, että on Euroopan unioniin menty mukaan. Siinä on muutet-
+tu tämä näin, että tämä on ollut kilpailulle vapaata. Elikkä kyllä meidän omien virastojem-
+me pitäisi käyttää Postin palvelua eikä antaa sitä yksityisten käsiin, elikkä haluaisin, että
+Posti pysyisi siinä lestissään, mihinkä se on alkaa päälle suunniteltu.
+
+Ja se, mitä pidän erittäin epäterveenä, on se, että Postin logistiikka ja kuljetus on vallan-
+nut epäterveellä kilpailulla kuorma-autoliikennettä. Tämä nyt erityisesti tulee tänä päivänä
+mieleen, kun meille on ihan organisoitu kuljetuksia tuolta maakunnasta ja kuorma-auton-
+kuljettajat ja pakettiautonkuljettajat ovat järjestäneet useita edustajia kotiovelta tänne edus-
+kuntaan. Posti on noin kaksi kolme vuotta sitten tehnyt tämmöisen uuden aluevaltauksen:
+he ovat siirtyneet kuljettamaan kylmäkuljetuksena elintarvikkeita. Tämä ei ole minun mie-
+lestäni oikein hyvä, että valtionyhtiö lähtee kilpailemaan semmoisille aloille, jotka aikai-
+semmin on hoidettu yksityisten kuljetusliikkeiden kautta. Ja on hyvin paljon tullut kulje-
+tusliikkeiltä viestiä, että ne tarjoukset ovat täysin epäterveitä ja kilometrihinnat ovat laske-
+neet ja että mikäli mahdollista, Posti hoitaisi sitä omaa tehtäväänsä. Jos sinne joitakin uu-
+sia lisäyksiä otetaan, mitä he alkavat tekemään, niin ehkä olisi parempi, että se käytäisiin
+18
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+tämmöisen isomman konklaavin kautta ja mietittäisiin, onko se niin, että se loukkaa jon-
+kun toisen yrittäjän asemaa.
+
+Toivon Postin työntekijöille nyt, että he saavat jatkaa samoilla sopimuksilla kuin millä
+he ovat tähänkin asti olleet, ja toivon, että tämä asia saataisiin pikaisesti hoidettua hallituk-
+sen ja eduskunnan toimesta myös tämän toimitusjohtajan osalta. — Kiitoksia.
+
+16.01 Mauri Peltokangas ps: Arvoisa rouva puhemies! Posti, tuo valtion nykyinen moni-
+toimifirma, on ollut kovasti tapetilla ja ihmisten keskusteluissa. Tämä hallituksen esitys
+postilain muuttamisesta on toivoakseni lähtölaukaus sille yhteiselle tahdolle, mitä olen ol-
+lut aistivinani erittäin hyvistä puheenvuoroista ympäri salia, että tämä Postin työntekijöi-
+den työehtosopimusjupakka saadaan siltä osin kuntoon, että yksikään Postin 700:sta —
+mikä lukema nyt on ollut esillä — työntekijästä ei joutuisi sellaiseen tilanteeseen, että an-
+siotaso tippuisi jopa 50 prosenttia, kuten salissa on tullut esiin.
+
+Johdon palkitsemisesta Postin osalta on ollut todella laajaa kansalaiskeskustelua. En voi
+muuta kuin yhtyä siihen, koska jos me ajattelemme, että valtionyhtiössä Suomessa on toi-
+mitusjohtaja, joka peittoaa eräiden suurvaltojen presidenttien vuosipalkat mennen tullen,
+niin kyllä siinä herää sitten tällaisella Köyhänperän miehellä kysymys, että kuinka kovia
+miehiä meillä siellä valtionjohdon tehtävissä on — täytyy olla todella kovia. Tällaiset palk-
+kiot ovat omiaan tekemään kansalaisille suuria huutomerkkejä puhekupliin. Ei ole ihme,
+että siellä tosiaan käydään äänekästä keskustelua. Yhdyn kyllä suurelta osin näihin voi-
+makkainakin velloviin mielipiteisiin.
+
+Siitä, että työntekijöiden palkkoja ollaan tiputtamassa 30—50 prosentilla, minulla herää
+sellainen ajatus, että miten joku voi edes ajatella — joku jossain, joka on tällaisen neuvot-
+telun aloittanut — että näin tulisi toimia. Miten voidaan ajatella, että ihminen tulee toi-
+meen sen jälkeen, kun hänelle tällainen palkanleikkaus tehdään? Siis siellä 700 henkilön
+joukossa on varmasti monenlaisia työntekijöitä: on lyhyen aikaa olleita, on pitkän postiu-
+ran tehneitä uurtajia, mutta joka tapauksessa he kaikki ovat meille suomalaisille yhtä ar-
+vokkaita tehdessään sitä työtä tuolla tuiskussa ja pyryssä, kun pakettia ynnä muuta meille
+sieltä toimitetaan. Kun tällaiselta henkilöltä leikataan 50 prosenttia liksasta, niin siinä saat-
+taa tulla sellainen ongelma, että miten perheen talolainat ynnä muut hoidetaan. Tämä on
+meille kaikille selvää, mutta otinpa nyt esimerkkinä.
+
+No, sitten tietenkin täytyy pieni sananen lausua myöskin arvoisan pääministerimme par-
+taveitsenterävästä ikkunakurkistelupalveluideasta, joka oli sitten omiaan herättämään, jäl-
+leen kerran, keskustelua kansalaisten keskuudessa. Tässä kohtaa nyt täytyy ottaa myöskin
+pieni silmänpilke, koska itse pidin sitä ensin vitsinä, mutta nyt tänään sitten täällä salissa
+pääministerin kertoman mukaan se ei vitsi ollutkaan. Toivoisin, [Puhemies koputtaa] että
+jätettäisiin Postin tehtävät niille hienoille Postin työntekijöille ennalleen. — Kiitos.
+
+16.04 Markku Eestilä kok: Arvoisa rouva puhemies! Yleensä on aika vaikea toisen työ-
+hön mennä ottamaan kantaa: mitä sen pitäisi sisältää tai ei. Se on hyvin uhkarohkeata, itse
+en pysty siihen. Mutta yksi asia, mihin otan kantaa vielä jälleen kerran — minä olen oppo-
+sitiopoliitikko mutta minä en sano kaikelle ei ja ei ja ei: minun mielestäni pääministeri Rin-
+teen ja omistajaohjauksesta vastaavan ministeri Paateron julkiset kommentit näistä pal-
+koista ja palkitsemisjärjestelmistä ovat olleet erinomaisia. Niistä on toki vuosien mittaan
+tässä salissa monta kertaa keskusteltu, mutta käytän sen takia tämän puheenvuoron, ettei
+vaan nyt taas käy niin, että niille ei tehdä juurikaan mitään, me kaikki kauhistelemme täällä
+19
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+porukalla, mutta kun kuukaudet menevät, me unohdamme koko asian, ja sitten tulevat so-
+tet ja muut kiivailut ja näihin ei palata. Minä toivonkin, että sosiaalidemokraattiset kansan-
+edustajat vievät ministeri Paaterolle viestiä, että hän täällä salissa jollakin tavalle tuo tä-
+män esille, mitä siellä tehtiin.
+
+Palkitsemisjärjestelmät minun mielestäni ovat hyviä silloin, kun ne koskevat yritykses-
+sä kaikkia työntekijöitä. Johdolle me joudumme hieman räätälöimään erikseen palkitse-
+misjärjestelmiä. Sitä ei voi monta kertaa samalla tavalla käsitellä kuin työntekijöitä, mutta
+jos työntekijät eivät ole palkitsemisjärjestelmissä ja siellä on vain johto, niin se herättää eri-
+puraa, ja minusta se on huonoa johtamista. 
+
+Edelleen olen sitä mieltä, että nämä ovat hirveän helppoja asioita. Monesti palkitsemis-
+järjestelmät ovat niin monimutkaisia, että hallituksen jäsenetkään eivät loppujen lopuksi
+ymmärrä, mistä on kysymys. Sen takia sinne pitää panna yksinkertainen komponentti, ku-
+ten esimerkiksi se prosentti. Silloin sen yli ei voi mennä ja jokainen tietää, mitä on maksi-
+mi. 
+
+Yleensä hyvä palkitsemisjärjestelmä ei ole millään tavalla sidottu yksinomaan tulok-
+seen, vaan siellä on monta eri komponenttia. Niitä voi olla puolen tusinaa komponenttia,
+millä perusteella työntekijöille ja johdolle jaetaan ylimääräistä. Kun on korkea palkka, läh-
+tökohdan pitää olla se, että ihminen tekee sen palkan eteen kovasti töitä. Nyt tulee vähän
+semmoinen käsitys tässä yhteiskunnassa, että jos ei ole kunnon palkitsemisjärjestelmää,
+niin ei ihan kunnolla tarvitse tehdä töitä, ennen kuin tulee palkitsemisjärjestelmä. Eihän se
+niinkään voi olla.
+
+16.07 Seppo Eskelinen sd: Arvoisa rouva puhemies! Tässä salissa ollaan kyllä äärimmäi-
+sen hyviä tulkitsemaan ministereitten puheenvuoroja, ja vähän väärään suuntaan, rehelli-
+sesti sanottuna. Täällä on hyvää keskustelua käyty, ja minusta on hienoa, että ministerit
+Paatero ja Rinne tarttuivat asiaan, omistajaohjaukseen, heti, kun tämä tuli esille. Työnteki-
+jöiden osalta ei missään tapauksessa tätä TES-shoppailua saa sallia, mutta kyllä meidän —
+ja Rinne on siinä oikeassa — ihan aidosti on myös sitten katsottava sitä tehtäväkenttää ja
+erityisesti siitä työpaikkojen turvaamisen näkökulmasta. Se voi jossain pienellä, harvaan
+asutulla kylällä olla lähes sitä, että joku mummo tapaa kerran päivässä jonkun ihmisen siel-
+lä kylällä, ehkä kylän sosiaaliasiamiehen, ja pääsee juttelemaan. Sillä postilla ja sillä pos-
+timiehellä voi olla näillä harvaan asutuilla alueilla isokin rooli ihmisten päivittäisen teke-
+misen osalta. Se on selvä, että kun jakelupäiviä on vähennetty ja tehtäviä vähennetty, niin
+kysytään myös näiden työpaikkojen tulevaisuudesta ja samalla silloin laajastikin tämän
+tehtäväkentän tulevaisuudesta. Ei missään tapauksessa mitään terveydenhuollon tehtäviä
+olla sinne laittamassa, mutta kyllä meidän pitää avoimesti katsoa, pystyttäisiinkö sitä jol-
+lakin tavalla niitten työpaikkojen näkökulmasta hyödyntämään.
+
+No sitten tähän omistajaohjaukseen, ja se on selvä, että siellä nyt on puutteita, ja pikai-
+sesti katsoin valtionyhtiöitten osalta, että poliittiset hallintoneuvostothan ovat hyvinkin
+tarkkaan omistajaohjauksessa, mutta sitten, kun mennään hallitusten puheenjohtajiin ja toi-
+mivaan johtoon, ollaan kaukana omistajaohjauksesta, ja tähän nyt sitten toivottavasti tä-
+män prosessin aikana puututaan.
+
+16.09 Sami Savio ps: Arvoisa puhemies! Olemme päässeet tänään onneksi keskustele-
+maan tästä Postin nykytilasta. Se on herättänyt paljon kansalaiskeskustelua. Tämä posti-
+20
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+lain tekninen, sinänsä aivan järkevä uudistus on hyvä viedä läpi, mutta käydään myös tätä
+laajempaa keskustelua.
+
+Eräs merkittävä syy Postia kohtaan koetun tyytymättömyyden kasvuun on postinjake-
+lun tuntuva hidastuminen aiempiin vuosiin verrattuna. Vuonna 2017 voimaan tulleen pos-
+tilain myötä postimerkeillä varustetuista kirjeistä ja korteista vähintään puolet on oltava
+perillä viimeistään neljäntenä arkipäivänä, ja tämä on suuri muutos aiempaan tilanteeseen.
+Ennen lakimuutosta nimittäin vähintään 95 prosenttia lähetyksistä oli toimitettava perille
+viimeistään toisena arkipäivänä.
+
+Arvoisa puhemies! Myös postipalveluiden hinta on kohonnut selvästi. Esimerkiksi vuo-
+den 2008 alussa tavanomaisen kirjeen tai kortin sai lähetettyä ensimmäisessä luokassa 70
+sentillä ja toisen luokan lähetyksen hinta oli vain 60 senttiä. Sitä vastoin nyt elokuussa
+2019 tehdyn hinnankorotuksen jälkeen kirjeen ja kortin postittaminen maksaa jo 1,60 eu-
+roa. Vajaan 12 vuoden aikana kuluttajahintaindeksi on siis noussut vain noin 16 prosenttia,
+kun taas postimerkin hinta jopa yli 160 prosenttia. Kieltämättä Posti joutuu kamppaile-
+maan kiristyvän kilpailun ja sähköisten palveluiden lisääntyvässä ristipaineessa, mutta kui-
+tenkin näillä suurilla hinnankorotuksilla on todennäköisesti ollut erittäin merkittävä vaiku-
+tus kirjelähetysten nopeaan vähenemiseen.
+
+Arvoisa puhemies! Nämä julkisuudessa viime päivinä esitetyt suunnitelmat Postin työn-
+tekijöiden työehtojen muuttamisesta ja rajuista palkanalennuksista ja samoin johdon kor-
+keat palkkiot ovat aiheuttaneet kansalaisissa aiheellista ja suurta tyrmistystä. Omistajaoh-
+jausministeri Paateron puuttuminen ja asiassa otettu aikalisä ovat oikeansuuntaisia toimen-
+piteitä, mutta eivät vielä läheskään riittäviä. Meidän perussuomalaisten mielestä Postin tu-
+lee valtionyhtiönä osoittaa olevansa pitkäjänteinen ja vastuullinen työnantaja, ja odotam-
+mekin nyt hallitukselta ja Postin toimivalta johdolta ripeitä ja määrätietoisia toimia, joilla
+Posti saadaan kuntoon ja sen mainetta parannettua tuntuvasti kansalaisten silmissä.
+
+16.12 Raimo Piirainen sd: Arvoisa rouva puhemies! Jatkan oikeastaan siitä, mistä tuo
+edustaja Eskelinen aikaisemmin mainitsi, tästä Postin hallituksen valinnasta tai oikeastaan
+yleensä valtionyhtiöitten hallitusten valinnasta. Muistini mukaan — tämä nyt on minun
+muistini mukaan — on tämmöinen hallitustenvalintatoimikunta, joka aina valitsee
+asianomaiseen yhtiöön hallituksen ja esittää sitä sitten vuosikokouksessa, ja sieltä kautta
+tämä valinta menee. Elikkä tämä on aika monimutkainen systeemi, ja tätä voisi pitää hy-
+vinkin semmoisena herrainkerhona, että siellä vain sitten tuttuja ja tunnettuja valitaan sin-
+ne. Tämä on varmasti yksi semmoinen asia, että tähänkin voisi puuttua hyvinkin vahvasti.
+Omistajaohjausministeri ei kyllä pysty oikeastaan kovin paljon tekemään. Hän voi tietysti
+käydä keskustelua ja ojentaa, mutta vuosikokouksessa hän tietenkin sitten voi esittää omia
+näkemyksiään hallituksen kokoonpanoon. Ja niin kuin tiedetään, hallintoneuvostothan va-
+litaan hyvin pitkälle poliittisin perustein, ja hallitus valitsee toimitusjohtajan, ja sieltä kaut-
+tahan tämä homma pitäisi saada liikkeelle.
+
+Minäkin haluan vielä puuttua tähän Rinteen esille nostamaan asiaan, kun tuolta harvaan
+asutulta alueelta olen, Kainuusta. Minä näen tämän siellä erittäin hyvin toimivana systee-
+minä, koska siellähän postinjakaja tuntee kaikki alueensa asukkaat, suurin piirtein, ja tie-
+tää, minkälaiset heidän elintapansa ovat, ja jos aamulla mennään ja valoja ei näy ja nor-
+maalisti on valot ollut tai johonkin muuhun liikkeeseen ei reagoida tai jotakin tämmöistä,
+niin saattaa herätä heti epäilys siitä, että nyt jotakin on vialla, ja voi ehkä sitten käydä kat-
+21
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+somassa, onko kaikki ok. Tämä on tämmöinen harvaan asuttujen alueitten varotoimenpi-
+de, ja tämmöiseen voisi hyvinkin postinjakaja sitten reagoida.
+
+Sitten toinen asia, mistä on Postin puolella puhuttu, ovat nämä asiointipalvelut, elikkä
+tälläkin hetkellä käsittääkseni Posti toimittaa muutakin kuin vain paketteja, kun vaan asias-
+ta on sovittu, ja muistaakseni on keskusteltu myös siitä, että lääkkeitä voisi postinjakaja ja-
+kaa — mikä on täysin mahdollista, kun ne vain ovat tietyllä tavalla pakattuja ja nimellä va-
+rustettuja, etteivät ne mene vääriin osoitteisiin. 
+
+Tämäntyyppistä siellä on puhuttu ja tehtykin varmasti niitä päätöksiä, mutta tämä on
+hankala tilanne siinä mielessä, että lähellä eläkkeelle pääsyä olevien ihmisten palkkatuloa
+pienennetään tällä tavalla, niin että jotakin semmoista pitäisi keksiä, että heitä voitaisiin pi-
+tää töissä, ja nimenomaan tämän palkkausjärjestelmän pitäisi koskettaa myös näitä alem-
+pia osia, ja jos se on prosentuaalinen, niin me kaikki tiedämme, [Puhemies koputtaa] että
+suurimpiin palkkoihinhan tämä tulospalkkaus prosentuaalisesti on huomattavasti merkittä-
+vämpi kuin sinne alapäähän. — Kiitoksia.
+
+16.15 Kimmo Kiljunen sd: Arvoisa rouva puhemies! Minusta on ollut arvokas tämä kes-
+kustelu tänään täällä eduskunnassa, mikä on käyty postipalveluista. Joku voisi sanoa, että
+hyvä, että edes nyt käydään tämä keskustelu. Arvokkaita puheenvuoroja kautta linjan. Hy-
+vä, että Postista puhutaan.
+
+Hyvä, että on myöskin tavallaan tunnistettu ne ongelmat, joita tämmöinen yhtiöittämis-
+prosessi on aikaansaanut. Tunnistamme sen, että Postilla on kuitenkin tämmöinen julkinen
+palvelutehtävä, yleispalveluvelvoite, joka sille kuuluu automaattisesti myöskin Suomessa.
+Tämä Postin toiminta on ollut lähes viranomaistyyppistä toimintaa aikaisemmin, ja nyt sin-
+ne on tullut taakse tämä yhtiömuoto, jonka seurausta ovat sitten monet ongelmatkin, joihin
+tässä on viitattu.
+
+Nekin puheenvuorot olivat arvokkaita, jotka erittelivät sitä tilannetta, että erikoista on
+ollut, että tämän yhtiöittämisen kautta joka tapauksessa postipalvelut ovat selkeästi laadul-
+lisesti heikentyneet — jokainen kansalainen sen tietää — riippumatta siitä, mihin ministe-
+rikin täällä viittasi, että kysyntä juuri sen tyyppisille perinteisille kirjepalveluille on voi-
+makkaasti laskenut. Se on totta varmasti, mutta joka tapauksessa tämä palveluiden heiken-
+tyminen on jokaisen kansalaisen koettavissa ollut.
+
+Se on ollut arvokasta myöskin tämän päivän keskusteluissa, että on tunnistettu se, että ei
+voi olla niin, että riskit, vaikeudet kantaa työntekijä, suorittava porras ja kannustimet, voi-
+tot, hyödyt menevät sitten yrityksen johdolle. Siinä on tullut tämä käsittämätön repeytymä,
+että toisaalta ollaan valmiita heikentämään työehtoja työntekijöille ja samanaikaisesti
+nämä kannustimet ikään kuin vain palkitsevat yritysjohtoa siitä, että työntekijöitäkin koh-
+dellaan niin kuin kohdellaan.
+
+Hienoa ja kaikkein arvokkainta tässä keskustelussa on ollut se, mitä ministerit täällä toi-
+vat esille kautta linjan pääministeristä omistajaohjauksesta vastaavaan ministeriin, että tä-
+hän asiaan halutaan nyt tarttua. Tämä hallitus siihen varmasti tarttuu. Se on arvokasta. 
+
+Ja se jatkolausehan tähän varmasti on kaikkien meidän kansanedustajien syytä sanoa,
+että nyt puhutaan Postista mutta samoja ongelmia on tietysti myöskin muissa valtionyhti-
+öissä. Silloin tietysti meidän täytyy jossain vaiheessa pystyä avaamaan nekin ilman, että
+meillä on tässä alla tällainen niin sanottu skandaali, joka nostaa sen niin kuin tikun nok-
+kaan. Tässä on syytä käydä kokonaisvaltainen keskustelu siitä, mitkä nämä palkitsemisjär-
+jestelmät valtionyhtiöissä ovat ja kuinka näitä asioita voidaan yhdessä viedä eteenpäin.
+22
+
+
+
+Pöytäkirjan asiakohta PTK 26/2019 vp
+16.17 Hilkka Kemppi kesk: Arvoisa puhemies! Tästä varsin teknisestä hallituksen esi-
+tyksestä on lähtenyt mielestäni käyntiin erittäin herkullinen arvokeskustelu, ja olen iloi-
+nen, että sitä on sallittu käytäväksi täällä eduskunnan täysistunnossa. Voin vakuuttaa, että
+myös keskusta seuraa Posti-asian kehitystä tässä tämänhetkisessä Posti-kriisissä erittäin-
+kin tiukalla silmällä, paitsi sitä, että kotipalvelua arvostetaan soten osalta sote-palveluna,
+myös sitä, että posti kulkee jatkossakin koko Suomessa.
+
+Postin tehtävä on selkeästi eri kuin soten tehtävä. Kotihoito on vaativa sote-palvelun
+muoto, jota ei voi korvata ihmisillä, joilla ei ole sote-alan koulutusta tai osaamista. Itse
+näen, että uusia työtehtäviä ei eduskunnasta käsin kuitenkaan päätetä, vaan ne muotoutu-
+vat enemmänkin siinä arjessa. Minulle tulee mieleen sellainen tapaus tuolta viime kesältä,
+kun oli näitä kovia helteitä: palomiehet ottivat kovasti yhteyttä, että on hankalaa, kun ko-
+tihoidon palveluun ei kuulu ikkunan avaamista, ja sitten meidän ikäihmiset, mummot ja pa-
+pat, olivat varsin kuumissa asunnoissa ihan tahtomattaan. Tällaisten tehtävien kohdalla ei
+minusta puhuta ainoastaan sote-palveluista, vaan puhutaan enemmänkin tämmöisestä laa-
+jemmasta huolenpidosta, jonka tulevaisuuden tehtäväkenttää katson avoimin mielin, mi-
+hin se voisi sopia.
+
+Olen avoin sille, että Postin toimintaankin haetaan uusia ratkaisuja, mutta niiden kanssa
+on katsottava kauas. Aikanaan tässä salissa käytiin kipakkaa keskustelua siitä, jaetaanko
+postia kolmena vai viitenä päivänä viikossa, samaan aikaan, kun naapurivaltiomme teki
+tämmöisen kokeilun postinjaosta droonilentokoneella. Voi olla, että tulevaisuus tuo meille
+uusia ratkaisuja tai tämäkin hetki, mutta tällä hetkellä pidän huolta siitä, että puolustamme
+Postin työntekijöiden osaamisen arvoa.
+
+Ja sitten näihin johdon palkkoihin ja palkkioihin. On mielestäni erittäin hyvä asia, että
+omistajaohjaus puuttui tähän epäoikeudenmukaiseen johdon palkitsemisasiaan ministeri
+Paateron johdolla. Postin tulevaisuus on todellakin turvattava, sillä postipalvelu on meille
+kaikille suomalaisille elintärkeä palvelu tiedon kulkemisen kannalta. Nämä törkeät palkat
+eivät kuitenkaan sovi. Tällaiset palkkaerot eivät ole perusteltavissa osaamisella eivätkä kil-
+pailulla eivätkä millään muullakaan tekijällä ja perustelulla, jonka olen kuullut tähän men-
+nessä. Kun valtionyhtiöiden hallintoneuvostojen asemaa on heikennetty ja valtaa siirretty
+yhtiöiden hallituksille, ovat alkaneet nähdäkseni myös hallitusammattilaisten ja toimivan
+johdon palkat ja eri bonukset pikkuhiljaa nousta huipentuen nyt Postin toimitusjohtaja Ma-
+lisen liki miljoonan euron vuosiansioihin. Nämä eivät ole minusta perusteltavissa. 
+
+Toivon, että [Puhemies koputtaa] valtionyhtiöiden osalta tarkastellaan laajemminkin
+tätä kohtuullisuutta ja järkevyyttä ja että Suomen valtionyhtiöt voisivat jatkossa [Puhe-
+mies koputtaa] olla esimerkillisiä esimerkiksi perheystävällisyydessä ja työssäjaksamises-
+sa, mutta myös kohtuullisissa palkoissa.
+
+Ensimmäinen varapuhemies Tuula Haatainen: Onko keskustelu tästä Posti-asiasta
+päättynyt? Tämä sai hieman ajankohtaiskeskustelun luonteen, mutta oli varmasti tämä kes-
+kustelu paikallaan.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan.
+23
+
+
+	8
+	14.07
+	14.10
+	14.17
+	14.18
+	14.19
+	14.20
+	14.22
+	14.23
+	14.24
+	14.25
+	14.27
+	14.28
+	14.29
+	14.30
+	14.31
+	14.33
+	14.36
+	14.37
+	14.38
+	14.39
+	14.40
+	14.42
+	14.43
+	14.44
+	14.46
+	14.52
+	14.54
+	14.57
+	15.00
+	15.03
+	15.06
+	15.46
+	15.51
+	15.53
+	15.56
+	15.58
+	16.01
+	16.04
+	16.07
+	16.09
+	16.12
+	16.15
+	16.17
+
+

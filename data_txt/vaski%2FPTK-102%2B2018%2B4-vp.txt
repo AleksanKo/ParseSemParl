@@ -1,0 +1,864 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM1A87.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 102/2018 vp
+
+Täysistunto
+
+Keskiviikko 17.10.2018 klo 14.01—18.42
+
+4. Hallituksen esitys eduskunnalle sakon muuntorangaistuksen määräämistä koskevan 
+sääntelyn muuttamiseksi
+
+Hallituksen esitys HE 178/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 4. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään lakivaliokuntaan.
+
+Lähetekeskusteluun varataan enintään 45 minuuttia. Mikäli puhujalistaa ei ehditä anne-
+tussa ajassa käydä loppuun, asiakohdan käsittely keskeytetään ja sitä jatketaan tämän päi-
+vän istunnossa muiden asiakohtien tultua käsitellyiksi. Jos keskustelu asiasta puolestaan
+päättyy ennen sille varatun määräajan päättymistä, siirrytään päiväjärjestyksen seuraavaan
+eli 5. asiaan.
+
+Keskustelu
+
+14.47 Oikeusministeri Antti Häkkänen (esittelypuheenvuoro): Arvoisa puhemies, ära-
+de talman! Oikeusvaltiossa toimitaan lain mukaan, ja jos lakeja rikkoo, siitä tulee jonkin-
+laisia seuraamuksia. Oikeusjärjestelmän uskottavuus taas edellyttää, että rikoslaissa rikok-
+seksi määritellystä teosta seuraa rangaistus.
+
+Sakkorangaistuksen tarkoituksena on toimia lievempiin rikoksiin määrättävänä rangais-
+tuksena. Sakkorangaistuksen uskottavuuden edellytyksenä on se, että rikoksentekijät mak-
+savat heille määrätyt sakot. Ongelmalliseksi järjestelmä muodostuu sellaisissa tilanteissa,
+joissa rikoksentekijä syyllistyy toistuvasti samanlaisiin tekoihin, jättää sakon maksamatta
+eikä häneltä saada perittyä sakkoa ja hänelle ei tästä syystä aiheudu käytännössä seuraa-
+muksia. Tällöin moni rikoksentekijä voi myös jatkaa rikoksia ilman tosiasiallista rangais-
+tusta. Ongelmallista on, jos esimerkiksi bensavaras tai kaljavaras voi viikoittain tehdä teon
+ilman minkäänlaisia asianmukaisia seuraamuksia. Yhteiskunnallinen luottamuskin edel-
+lyttää sitä, että tällaisissa tapauksissa rangaistus seuraa rikollista toimintaa.
+
+Tämän vuoksi olemme nyt tuoneet käsittelyyn esityksen sakon muuntorangaistuksen
+määräämistä koskevan sääntelyn muuttamiseksi. Keskeinen ehdotus on se, että toistuvasti
+samankaltaisiin sakkorikoksiin syyllistyvien sakkorikokset käsiteltäisiin tuomioistuimes-
+sa. Toistuvuus tarkoittaisi seitsemää samankaltaista sakkorikosta vuoden sisällä. Tuomio-
+istuimen määräämät sakot, joita ei saada perityiksi, ovat muunnettavissa vankeudeksi,
+mutta poliisin määräämät sakot eivät. Näin tällaiset tuomioistuimen määräämät sakot oli-
+sivat muuntokelpoisia, jos niitä ei makseta.
+
+Tavoitteena on parantaa rikosoikeusjärjestelmän uskottavuutta erityisesti niissä tilan-
+teissa, joissa toistuvasti rikkomuksiin syyllistyneet ovat välttäneet tosiasiallisen rangais-
+tuksen maksukyvyttömyytensä vuoksi. Tällä hetkellä toistuvasti samankaltaisiin sakkori-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+koksiin syyllistyvät voivat tosiasiassa siis välttää rangaistuksen, jos sakkoa ei saada heiltä
+perityksi. Nämä esitetyt muutokset korjaavat asiantilaa.
+
+Esityksestä aiheutuu vankiluvun nousua. Päivittäinen kokonaisvankiluku nousee arviol-
+ta 30 vangilla. Nousua pyritään tasapainottamaan sillä, että vaikka muuntorangaistukseen
+tuomitaan entistä useampia henkilöitä, muuntorangaistuksen pituudet lyhenisivät kuiten-
+kin hieman. Näin vankiluvun kokonaisnousu ei aiheuttaisi esitettyä suurempia kustannuk-
+sia Rikosseuraamuslaitokselle.
+
+Valmistelussa selvitimme myös yhdyskuntaseuraamusta sakon muuntorangaistuksena.
+Selvityksessä on kuitenkin todettu ja havaittu, että se monimutkaistaisi järjestelmää enti-
+sestään ja olisi hyvin todennäköistä, että vain hyvin pieni osa tuomituista ylipäätään kyke-
+nisi suorittamaan yhdyskuntaseuraamukset.
+
+On katsottu, että muuntorangaistuksen suorittaminen ulkopuolisena laitossijoituksena
+nimenomaan päihdekuntoutukseen on toimivampi tapa saada muuntorangaistukseen tuo-
+mitut suorittamaan muuntorangaistus muualla kuin vankilassa. Tällä esityksellä siis myös
+parannetaan pääsyä päihdekuntoutukseen. Vankeuslaista kumottaisiin säännös, joka estää
+muuntorangaistuksen täytäntöönpanon aloittamisen, jos tuomittu on päihdekuntoutukses-
+sa. Tämän muutoksen tavoitteena olisi, että entistä useampien tuomittujen muuntorangais-
+tukset voitaisiin panna täytäntöön ulkopuolisena laitossijoituksena nimenomaan päihde-
+kuntoutuksessa.
+
+Arvoisa puhemies! Tämän esityksen tarkoitus ja tavoite on vahvistaa rangaistusjärjes-
+telmämme uskottavuutta. Jokaisesta rikoksesta tulee viime kädessä seurata rangaistus. Oi-
+keusjärjestelmämme kannalta on tärkeää, ettei rikoksesta voi päästä ilman rangaistuksen
+suorittamista. Tämä esitys on myös osa sitä uudistusten kokonaisuutta, jolla rikoksen uhri
+nostetaan jatkossa vahvempaan asemaan suomalaisessa rangaistusjärjestelmässä.
+
+Puhemies Paula Risikko:  Sitten mennään... [Vastauspuheenvuoropyyntöjä] Täällä on
+muutama debattitarve. Otetaan joksikin aikaa debattia, ja sen jälkeen mennään sitten puhu-
+jalistaan.
+
+14.52 Ville Niinistö vihr (vastauspuheenvuoro): Arvoisa puhemies! Noin kymmenen
+vuotta sitten hallituksessa myös kokoomuksen myötävaikutuksella tästä sakon muuntoran-
+gaistuksesta luovuttiin, ja silloin sille oli useita perusteita. Yksi oli se, että oikeuspolitiikan
+asiantuntijat ja köyhyysasiantuntijat pitivät sitä hyvin ongelmallisena, että varattomia, hy-
+vin heikossa asemassa olevia ihmisiä laitetaan heidän muista elämänhallinnanongelmis-
+taan johtuen vankilaan, vaikka heidän tekemänsä rikos ei ole sen tasoinen, että siitä vanki-
+laan tulisi joutua. Näiden ihmisten ongelmat eivät sillä parane. Asiantuntijat suosittelivat
+silloin, että tästä luovutaan. Samoin sillä ei ole ollut vaikutuksia merkittävästi näitten ri-
+kosten uusimiseen, käytetäänkö muuntorangaistusta vai ei. Näyttää siltä, että hallitus me-
+nee tämmöiseen mielikuva- ja symbolipolitiikkaan, josta tulee valtionhallinnolle vain kus-
+tannuksia, eli sitten tarvitaan lisää vankilakapasiteettia.
+
+Tämä näkemys oli silloin yhteinen. Myös kokoomus oli tätä mieltä silloin [Puhemies
+koputtaa] ja valtiovarainministeri Katainen tätä linjaa ajoi. Nyt te olette muuttaneet mieltä,
+koska te haluatte vain tätä pamppulinjaa näin periaatteessa, ilman faktoja. [Timo Heino-
+nen: Höpsis!]
+2
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+14.53 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! On hyvä,
+että tälle vihreälle kriminaalipolitiikalle nyt saadaan muutos ja ennen muuta palautetaan ri-
+koksen uhri nyt keskiöön, niin kuin ministeri Häkkänen toi esille. Kyllä on oikein, että ri-
+koksesta seuraa ihan jokaiselle tekijälle rangaistus, ja tämä vihreä kriminaalipolitiikka, jota
+nyt kymmenen vuotta on tällä osa-alueella noudatettu, on jättänyt monet ilman rangaistus-
+ta. Meillä on kauppiailla paljon valvontakamerakuvia, joissa kaljavarkaat vain naureskele-
+vat valvontakameroille, kun he varastavat kaljaa kerta toisensa jälkeen tietäen, että he ei-
+vät siitä vastuuseen ja rangaistukseen joudu, kuten eivät tähän päivään mennessä ole jou-
+tuneet. Kaupan ala on menettänyt vuosittain noin puoli miljardia näiden myymälävarkauk-
+sien myötä. On hienoa, ministeri Häkkänen, että te palautatte tällaisen vahvan, oikeuden-
+mukaisen, oikeustajun mukaisen kriminaalipolitiikan tähän maahan.
+
+14.54 Reijo Hongisto sin (vastauspuheenvuoro): Arvoisa puhemies! Kun edustaja Niinis-
+tö tuossa puhui, että harrastetaan mielikuva- ja symbolipolitiikkaa ja palataan pamppulin-
+jalle, niin itse luulen edustaneeni sitä jälkimmäistä vaihtoehtoa. En halua siihen millään ta-
+valla palata, se ei ole kunniaksi kenellekään.
+
+Otan kopin tuosta Niinistön mainitsemasta elämänhallinnan puutteesta. Mielestäni ih-
+misen puutteet eivät oikeuta häntä tekemään rikosta eivätkä oikeuta ottamaan luvatta toi-
+sen irtainta omaisuutta. Silloin kun syyllistyy rikokseen, niin silloin siitä tulee saada ran-
+gaistus. Ja sen rangaistuksen täytyy olla sellainen, että se laitetaan toimeen. Ei voi olla niin,
+että rangaistuksesta pääsee kuin koira veräjästä ihan vain sen takia, että vetoaa vain omaan
+huonoon elämäntilanteeseensa.
+
+14.55 Jani Mäkelä ps (vastauspuheenvuoro): Arvoisa puhemies! Asiat todellakin ovat
+niin, ettei ketään elämänhallinnan vuoksi vankilaan laiteta vaan rikoksen tekemisen vuok-
+si, ja tämä esitys sakon muuntorangaistuksen palauttamisesta on kannatettava yleisen oi-
+keustajun toteutumisen kannalta. Ei voi olla niin, että varattomuus käytännössä vapauttaa
+lain noudattamisesta. Jos rikoksesta ei seuraa sanktiota, tilanne on kestämätön.
+
+Sellaista kritisoitavaakin tässä asiassa on, että tämä on venynyt aika paljon, vuosikausia,
+hallituskauden alusta, vaikka asiasta ei liene minkäänlaista erimielisyyttä hallituksessa
+eikä paljon oppositiossakaan. Miksi siis tätä asiaa käydään läpi vasta nyt syksyllä 18 eikä
+jo pari vuotta aiemmin? Toisekseen, lakiesitystä on vesitetty siltä osin, että siinä puhutaan
+kuudesta rikoksesta saman vuoden aikana. Onko tämä viesti nyt se, että tehkää vain kuusi
+rikosta, vasta seitsemännestä joudutte vastuuseen?
+
+14.56 Mikko Savola kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Kyllä se,
+edustaja Niinistö, nyt vain niin on, että halaamalla ei kerta kaikkiaan rikoksentorjunta edis-
+ty. Nämä henkilöt ovat sellaisia, jotka kerta toisensa jälkeen syyllistyvät rikokseen, varas-
+tavat kauppiailta ja — kuten edustaja Heinonen mainitsi — pitävät näitä kauppiaita pilk-
+kanaan. Jollei mikään rangaistus tästä uhkaa, niin välinpitämättömyys tässä yhteiskunnas-
+sa kasvaa entisestään. Ja kun kymmenen vuotta sitten päädyttiin tällaiseen ratkaisuun —
+eduskunta silloin päätyi tällaiseen ratkaisuun, että muuntorangaistus poistettiin — ja näitä
+ongelmia lähti välittömästi tuon jälkeen seuraamaan, niin on tämä nyt jo kohtuullinen aika
+palauttaa muuntorangaistus, palauttaa uskottavuus tälle meidän rikoslainsäädännöllemme
+myös tältä osin. Ja ylipäätään, jos huomataan, että jokin ei meillä toimi, silloin se on muu-
+tettava.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+Tämä on hallitukselta äärimmäisen hyvä esitys ja tärkeä esitys. Hyvä, että se nyt etenee
+tämän eduskunnan aikana.
+
+14.57 Olli-Poika Parviainen vihr (vastauspuheenvuoro): Arvoisa rouva puhemies!
+Tämä asia on kyllä ollut melkoista tempoilua, koska viimeksi kesäkuussa 2015 eduskunta
+ehti jo hyväksyä lain, jossa muuntorangaistus olisi tullut voimaan, mutta sitten Sipilän hal-
+litus tultuaan hallitukseksi kumosi tämän lain, ja nyt ollaan taas tultu toisiin aatoksiin. Ja
+sitten täällä salissa syytetään vihreitä siitä, että tässä on ollut jotakin hässäkkää vuosien
+varrella. [Timo Heinonen: Ei siitä ollut kyse!] Muistutan siitä, että valtiovarainministeri
+Jyrki Kataisen, kokoomuksen, aikana kymmenen vuotta sitten otettiin käyttöön tämä tilan-
+ne, jossa muuntorangaistusta ei ole. Sitä on tietenkin kokeiltu, ja me olemme sitä kannat-
+taneet, että muuntorangaistusta ei ole, koska me haluamme huomioida tässä myös sellaisia
+näkökulmia, että esimerkiksi pelkästään rahalla ei selviä. [Välihuutoja oikealta]
+
+Joka tapauksessa minä korostaisin sitä, että kun te olette erittäin huolissanne kokoomuk-
+sessa, kuten mekin olemme, poliisin resursseista ja siitä, miten me huolehdimme, että po-
+liisi pystyy hoitamaan kaikki sille tulevat uudet vastuut, niin myös Poliisihallitus on tois-
+tuvasti toivonut, että kun heille asetetaan uusia velvoitteita, niihin myös riittävästi vastat-
+taisiin. Jälleen tulee uusia velvoitteita.
+
+14.58 Pia Kauma kok (vastauspuheenvuoro): Arvoisa puhemies! On todellakin oikein,
+että viimeinkin rikoksen uhri tulee keskiöön ja palautamme tämän sakon muuntorangais-
+tuksen. Emme todellakaan voi halata kaikkia rikollisia vain sen takia, että heillä ei ole va-
+raa maksaa näitä sakkoja. Jokainen joutuu kyllä kärsimään seuraukset niistä rikoksista, joi-
+hin on syyllistynyt, ja siihen tällä juuri pyritään. Lisäksi on vielä merkkejä siitä, että nämä
+eivät ole vain yksittäisiä henkilöitä, jotka varastavat esimerkiksi olutta tai joitain muita ta-
+varoita kaupoista, vaan on merkkejä myöskin systemaattisesta ja järjestelmällisestä toi-
+minnasta, johon tällä voidaan puuttua.
+
+Tietenkin on niin, että voi pohtia, mikä on sitten niihin juurisyihin puuttumista parhaim-
+malla mahdollisella tavalla. Tässä on nyt hyvä, että nämä henkilöt pääsevät myöskin päih-
+dekuntoutukseen ja ehkä sitä kautta sitten saavat paremman hallinnan elämäänsä.
+
+14.59 Ilkka Kantola sd (vastauspuheenvuoro): Arvoisa puhemies! Sakon muuntoran-
+gaistus on asiana periaatteellisesti hyvin vaikea, ja sitä osoittaa tietysti se, että hallitukset
+ovat tätä edestakaisin veivanneet vuosien mittaan. Yhtäältä on kysymys siitä, että on aika
+valtavan suuri ero siinä, onko kysymys sakkorangaistuksesta vai sitten ehdottomasta van-
+keudesta. Sakkorangaistuksen siirtäminen ehdottomaksi vankeudeksi on valtavan suuri pe-
+riaatteellinen hyppy rangaistuksen ankaroittamisessa. Ja toisaalta on se periaatteellinen ky-
+symys, että joku voi selvitä toistuvista rikoksista ilman mitään rangaistusta. Se on yhtä lail-
+la tavattoman suuri periaatteellinen kysymys.
+
+Hallitus selostaa mielestäni varsin hyvin esityksessään niitä ongelmia ja niitä vaikutuk-
+sia, joita tällä on tai ei ole. Rangaistuksen käyttöönotto ei välttämättä vaikuta rikollisuuden
+vähentymiseen, mutta näistä periaatteellisista syistä sitä viedään nyt eteenpäin. Minusta
+hyvää tässä esityksessä on se, että nyt mahdollistuu se, että myös sosiaalisesti kuntoutta-
+vassa laitoksessa, kuten päihdelaitoksessa, voi suorittaa tätä sakon muuntorangaistusta.
+Tämä on tärkeä askel, ja minusta hallitus on tältä osin tehnyt hyvää työtä.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+Puhemies Paula Risikko: Jatkamme vielä noin 15 minuuttia tätä debattia ja sen jälkeen
+siirrymme puhujalistaan.
+
+15.00 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Vankila ei
+auta mitään, eikä vankila paranna ketään — tämähän on se vihreiden kriminaalipoliittinen
+linja. Tästä tietysti poikkeus on naisiin kohdistuvat seksuaalirikokset, koska niissä vihreät
+kannattavat rangaistusten koventamista, eli niissä ilmeisesti sitten vankila parantaakin jon-
+kun.
+
+Edustaja Olli-Poika Parviainen sanoi täällä, että vihreistä on väärin, että rahalla selviää
+rikoksista. Tarkoittaako tämä sitä, että te haluatte romuttaa koko sakkojärjestelmämme?
+Jos näin tehtäisiin, niin mitä te tekisitte niille tuhansille, jotka selviävät rikoksistaan rahal-
+la eli maksamalla sakkoa? Pitäisikö ne ihmiset vapauttaa kokonaan, siitäkin rangaistukses-
+ta, joka teille sopii, vai pitäisikö ne panna vankilaan, mikä teille ei sovi eikä varmaan sopisi
+valtiovarainministerillekään?
+
+Minun mielestäni on erittäin hyvä tämä periaate, mikä tässä hallituksen esityksessä on:
+uhri ja seuraamus otetaan keskiöön ja myös tämä päihdekuntoutukseen pääseminen.
+
+15.01 Markku Rossi kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Silloin kun
+lainsäädännössä tehdään selkeästi virhe, niin kyllä eduskunnan tehtävä on se myös korjata.
+Tässä suhteessa kyllä ministerille täydet pisteet, ja hallitukselle, tämän asian eduskuntaan
+tuomisesta. 
+
+Kun täällä puhutaan, että siirrytään pamppulinjalle, niin se on kyllä tietysti retoriikkaa,
+mutta tästähän ei käytännössä ole kysymys. Kysymys on kaiken kaikkiaan siitä, millainen
+on kansalaisten lain kunnioitus ja arvostus, ja jos se jollakin tapaa rapautuu — vaikka vain
+yhdestä kohtaa, vaikka vain pienessä mittakaavassa — niin se rapauttaa koko lainsäädän-
+töä ja lain kunnioitusta, ja sitä yhteiskunta ei voi hyväksyä. Aiemmin meillä oli esimerkik-
+si jalkapuu kirkonmäellä, ja aika moni ihminen tuntiessaan sitten rangaistuksen häpeänä
+ehkä noudattikin helpommin yhteiskunnan tiettyä ohjausta eteenpäin. Tällä asialla on kyl-
+lä myönteinen vaikutus myös siinä mielessä, että ei ainakaan tehdä niin, että suurin piirtein
+poliisin edessä revitään [Puhemies koputtaa] huomautukset ja määräykset.
+
+15.02 Heli Järvinen vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Minusta on
+kerta kaikkiaan kestämätöntä tämä kokoomuslaisten käsienpesu ja toisten syyttely. Jos
+muistan oikein, edustajat Heinonen ja Zyskowicz, tekin painoitte vihreää nappia silloin
+kymmenen vuotta sitten, kun päätettiin tämän muuntorangaistuksen kieltämisestä.
+
+Mutta ymmärrän hyvin tämän ongelmavyyhdin eli kaikkia niitä kauppiaita ja bensan-
+myyjiä ja niin edelleen, jotka joutuvat kohteeksi. Harmillisinta on sekä tässä esityksessä
+että muuntorangaistusten kieltämisessä se, että hehän ovat jääneet ikään kuin osattomiksi.
+Heidän kokemiaan rikoksia ja ikäviä tekoja ei ole kohdeltu oikein. [Ben Zyskowicz: Te ha-
+luatte, että se jatkuu!] 
+
+Rikosseuraamuslaitoksen mukaan tälläkään esityksellä ei ole ennaltaehkäisevää vaiku-
+tusta rikollisuuteen, eikä se Kriminologian ja oikeuspolitiikan instituutin mukaan vaikuta
+kokonaisrikollisuuteen, ja siksi haluisin kysyä ministeriltä: miksi laitatte yli 2 miljoonaa
+euroa näihin kustannuksiin, kun rikoksia voitaisiin ennaltaehkäistä, tehostaa rikosten esi-
+tutkintaa ja nopeuttaa syyteharkintaa, käsittelyaikoja lyhentää, käyttää raha siihen?
+5
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+15.03 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Eivät tässä
+kokoomuslaiset käsiä pese, vaan me nostamme käden ylös. Virhe on tehty, ja virhe on kor-
+jattava, ja me haluamme tämän korjata. Sen takia ministeri Häkkänen on tuonut erilaisen
+esityksen kuin silloinen vihreä oikeusministeri Tuija Brax toi. Silloin sakon muunto pois-
+tettiin, ja edustaja Järvinen kuvasi hyvällä tavalla sitä, miten kauppiaat ja kaupat ovat jou-
+tuneet tästä kärsimään. Puoli miljardia joka vuosi kauppa menettää näiden ammattinäpis-
+telijöiden myötä. Kuka sen maksaa? Sen maksavat tavaran hinnassa, ruoan hinnassa ne re-
+helliset asiakkaat, jotka kaupassa käyvät. [Heli Järvisen välihuuto] On oikein, että nyt teh-
+dään toimenpiteitä sen eteen, että tällainen naureskelu valvontakameroille, kauppiaille ja
+muulle kaupan henkilökunnalle loppuu, [Eduskunnasta: Ja poliiseille!] sillä nyt näpisteli-
+jöillä on kuitenkin pelko siitä, että he joutuvat vastuuseen, niin kuin jokaisen [Puhemies
+koputtaa] pitää joutua. Käsi on ylhäällä: teimme virheen, me korjaamme sen nyt.
+
+15.05 Anders Adlercreutz r (vastauspuheenvuoro): Ärade talman, arvoisa puhemies!
+Viime vaalikaudella eduskunta hyväksyi oikeusministeri Henrikssonin johdolla valmistel-
+lun lain muuntorangaistuksen käytön laajentamisesta. Sipilän hallitus kuitenkin ensi töik-
+seen perui tämän lain, eli nykyinen hallitushan sen perui. No, nyt te tuotte tämän asian tän-
+ne uudelleen, samaa asiaa vain käsitellään uudelleen, ja hyvä niin, mutta, arvoisa ministeri
+Häkkänen, eikö tämä toiminta kaiken kaikkiaan tunnu hieman epäjohdonmukaiselta? [Ben
+Zyskowicz: Kyllä!] Miksi hallitus ensi töikseen peruutti edellisen hallituksen tekemän la-
+kimuutoksen? [Ben Zyskowicz: Taloudellisista syistä!] Eikö kaikkein järkevintä tässä —
+näin ehkä jälkiviisaana — olisi ollut se, että oikeusministeri Henrikssonin laki olisi pysy-
+nyt voimassa ja se olisi ehditty panna täytäntöön ja toimeen aikaisemmin?
+
+15.05 Katri Kulmuni kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Tämä on
+kyllä sellainen asia, joka on varmasti jättänyt eduskunnalle mietittävää siitä lähes vuosi-
+kymmenen takaisesta päätöksestä, ja toisaalta se on kyllä myös asia, mistä erittäin paljon
+tulee huoltoasemayrittäjiltä, kauppiailta palautetta. Tilanne ei ole ollut toivotun kaltainen
+sen vuosikymmenen takaisen lakimuutoksen jälkeen. Sikäli pidän erittäin hyvänä, että oi-
+keusministeri nyt tuo muuntorangaistusesityksen, joka on mielestäni myös selvästi parem-
+pi kuin aikaisemmat versiot, mitä on ollut olemassa. Tämä on erittäin tärkeä asia oikeusta-
+jun kannalta, ja on erittäin tärkeää siinä vaiheessa, jos nämä henkilöt, keistä nyt on kysy-
+mys — noin 900 henkilöä — syyllistyyvät vuosittain yli seitsemän kertaa toistuviin saman-
+kaltaisiin rikoksiin, että tämä koskee heitä. Pidän tätä esitystä erittäin perusteltuna, myös
+sen osalta, että tässä laajennetaan sitä myös päihdekuntoutuksen piiriin. Joten on hienoa,
+että tämä esitys nyt tulee meidän käsittelyymme tänne, koska tilanne ei ole ratkennut sen
+edellisen lakimuutoksen seurauksena.
+
+15.07 Johanna Karimäki vihr (vastauspuheenvuoro): Arvoisa puhemies! Kritiikki tä-
+män esityksen osalta kohdistuu erityisesti siihen, että esityksen hyödyt ovat vähäiset tai
+olemattomat suhteessa siitä aiheutuviin haittoihin. Tämähän kohdistuu sellaisiin ihmisiin,
+jotka ovat täysin varattomia, heiltä ovat menneet luottotiedot. [Keskustan ryhmästä: Mutta
+ovat tehneet rikoksen!] Vankiloissa olisi päivittäin 30 vankia enemmän. On arvioitu, että
+tämän kustannukset olisivat yli 10 miljoonaa euroa.
+
+Arvoisa oikeusministeri Häkkänen, olemme jo pitkään keskustelleet oikeusvaltion peri-
+aatteesta, sen murenemisesta, siitä, kuinka syyttäjälaitokselta, tuomioistuimilta on leikattu
+6
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+todella paljon. Ne ovat ruuhkautuneita, poliisi ei ehdi tutkia tapauksia. Nyt olisi tosi kes-
+keistä saada uhreille oikeutta ja saada oikeusvaltiomme toimimaan. [Ben Zyskowicz: Te
+vastustatte sitä! — Keskustan ryhmästä: Kauppiaille oikeutta!] Nyt kun vankiloihin tulee
+yhä enempi vankeja, jotka eivät saa päihdeapua, jota he aidosti tarvitsisivat, niin itse asias-
+sa kukaan ei siitä hyödy mutta kustannukset kasvavat, puhumattakaan siitä, että poliisin,
+syyttäjän ja tuomioistuintenkin työmäärä lisääntyy. [Ben Zyskowicz: Voidaan lakkauttaa
+vankilat! Ne tulee kalliiksi yhteiskunnalle! Tiedättekö sitä, että vankilat on tosi kalliita?]
+
+15.08 Sofia Vikman kok (vastauspuheenvuoro): Arvoisa puhemies! Oikeusvaltiossa on
+toimittava lain mukaan, rikoksesta ei voi päästä suorittamatta rangaistusta. Kiitos oikeus-
+ministeri Häkkäselle erittäin kannatettavasta ja hyvästä hallituksen esityksestä.
+
+Sakko toimii rangaistuksena ainoastaan silloin, kun se maksetaan. Sakon muuntoran-
+gaistus mahdollistaa taloudellisen sanktion muuntamisen henkilökohtaiseen vapauteen
+kohdistuvaksi tilanteissa, joissa rikollinen toistuvasti laiminlyö sakon maksamisen. Pahim-
+millaanhan tilanne on ollut jopa sellainen, että myymälävaras repii poliisilta saamansa sa-
+kon tämän nenän edessä. Tämä on sitä vihreää rangaistuspolitiikkaa, joka nyt onneksi tällä
+esityksellä korjataan, ja se korjaus on oikein myös rikoksen uhrien näkökulmasta.
+
+Puhemies Paula Risikko:  Otetaan vielä neljä kappaletta, edustajat Niinistö, Hakkarai-
+nen, Lohi ja Laiho.
+
+15.09 Ville Niinistö vihr (vastauspuheenvuoro): Arvoisa puhemies! Se on hyvä, että tästä
+nyt nousee periaatteellista keskustelua, ja sen takia mekin haluamme sitä tässä nostaa. Eikö
+niin, että rikospolitiikan ja oikeusvaltion periaatteiden pitäisi lähteä siitä, että minimoi-
+daan rikollisuutta ja vähennetään rikosten uusimista [Timo Heinonen: Ja rikoksesta seuraa
+rangaistus!] ja turvataan sitä, että ihmiset, kauppiaat tässä tapauksessa, ovat turvassa?
+
+Mutta kun me katsomme tämän asian faktoja, niin asiantuntijat arvioivat, että rikokset
+eivät tule vähenemään tällä muutoksella, kauppiaiden asema ei parane. Sen sijaan joitain
+ihmisiä, joilla on elämänhallintaongelmia, jotka ovat saaneet rikoksestaan rangaistuksen
+mutta eivät pysty sitä maksamaan, laitetaan vankilaan. Siitä tulee valtiolle kustannuksia,
+mutta vähentääkö se heidän rikollisuuttaan myöhemmin? [Ben Zyskowicz: No vähentää-
+kö muut rangaistukset?] Asiantuntijat arvioivat, että ei vähennä. Tämä on mielikuvapoli-
+tiikkaa.
+
+Minä ymmärrän sen, että tämä vaikea asia. Mutta teidänkin pitäisi ymmärtää se, että pi-
+tää miettiä, miten rikollisuutta voidaan vähentää. Sitähän meidän pitäisi tavoitella. Tässä
+esityksessä hyvä puoli on se päihdehuolto. Ehkä ministeriltä toivon sellaista maltillista
+pohdiskelevaa vastausta siihen, miten voidaan puuttua siihen, että tietyt ihmiset eivät ajau-
+du tällaiseen kierteeseen. Tämä vankilaan laittaminen on toki ratkaisu, [Puhemies koput-
+taa] mutta meillä on myös pantarangaistuksen mahdollisuus, välimuotoja. [Puhemies: Ai-
+ka!] Voisiko tässä olla joku välitie, joka toimisi?
+
+15.10 Teuvo Hakkarainen ps (vastauspuheenvuoro): Arvoisa puhemies! Tämä esitys on
+hyvä, mutta minun mielestäni sen pitäisi olla vielä tiukempi.
+
+Esimerkiksi: Huoltamoyrittäjä joutuu rikoksen kohteeksi. Rikollinen tankkaa auton siel-
+tä. Päivän, jopa kahden päivän, tuotto on siinä, rikollinen vie sen pois. Kuusi kertaa vuo-
+dessa hän voi sen tehdä, tankata auton täyteen, ja siitä ei tule seuraamuksia. Mutta jos men-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+nään tuonne yrittäjäelämään, seuraamuksia muuten on. Meillä esimerkiksi lastattiin yli-
+kuormaa rekka-autoon, ihan semmoinen inhimillinen virhe. Tuli lähettäjälle sakko, kuor-
+man tekijöille sakko, kuljettajalle sakko — kolminkertainen rangaistus siitä olematto-
+masta inhimillisestä virheestä. [Kari Kulmala: Ja ylikuormamaksu!] — Niin, ylikuorma-
+maksu vielä päälle. — Onko tämä oikein? Ne, jotka tekevät tahallaan rikoksia, pääsevät
+kuin koira veräjästä. Joka on rehellisellä työllä, tekee inhimillisen virheen, sitä rangaistaan.
+
+15.11 Markus Lohi kesk (vastauspuheenvuoro): Arvoisa puhemies! Minusta tässä edellä
+edustaja Hakkaraisen puheenvuorossa oli kyllä semmoinen totuuden siemen. Kun katso-
+taan meidän rikosoikeusjärjestelmää, rangaistusjärjestelmää, niin siellä on pikkuisen täm-
+möistä, sanotaanko, perkaamisen varaa siinä, vastaako aina rangaistus rikoksen moititta-
+vuutta.
+
+Mutta mitä tulee tähän esitykseen, niin itse kyllä tätä kannatan, vaikka tämä ei ole mis-
+sään tapauksessa ongelmaton. Kysymys on ennen kaikkea siitä, mikä on meidän koko ran-
+gaistusjärjestelmämme uskottavuus. Ei voi ajatella myöskään niin, että jos on varaton, ei
+tarvitse rangaistusta kärsiä. Minusta köyhälläkin on varaa noudattaa lakia ja toimia kaidal-
+la polulla. Sen takia tätä kriminaalipolitiikkaa ei voi tehdä talouspolitiikka edellä tai osana
+talouspolitiikkaa. Pitää katsoa myös kokonaisjärjestelmää ja myös sitä, miltä tämä järjes-
+telmä näyttää niistä kansalaisista, jotka itse ovat rehellisiä ja noudattavat lakia, jos toiset
+vain jättävät ilman mitään seuraamusta noudattamatta näitä lain säännöksiä.
+
+15.12 Mia Laiho kok (vastauspuheenvuoro): Arvoisa puhemies! Kannatan erittäin ilolla
+hallituksen esitystä, jolla suitsitaan sarjanäpistysten kierrettä. Ei voi olla niin, että rikolli-
+set viis veisaavat saamastaan sakosta ja loppupeleissä rehelliset kansalaiset ne maksavat.
+Rangaistuksen on seurattava rikosta. Uudistus vahvistaakin rikosoikeusjärjestelmän uskot-
+tavuutta, ylipäätänsä lain noudattamista ja yleistä lainkuuliaisuutta. Sakkojen maksamatta
+jättäminen ei voi olla keino vapautua sanktioista.
+
+Suurella osalla näistä, jotka syyllistyvät toistuviin näpistyksiin, on päihdeongelmia, tai
+he ovat muuten syrjäytyneitä. Sen takia onkin erinomaista, että tässä lakiesityksessä on
+myöskin huomioitu päihdehuoltoon ohjaaminen. Täytyy sanoa, että tämä voi olla jopa hei-
+dän pelastuksensa, että he pääsevät palvelujen piiriin.
+
+Puhemies Paula Risikko:  No niin, mennään puhujalistalle. Meillähän on aikaa tuohon
+15.35:een, ja tietysti, ennen kuin lopetetaan, ministeri vielä vastailee. — Mutta nyt siis
+edustaja Heinonen.
+
+15.14 Timo Heinonen kok: Arvoisa rouva puhemies! On hyvä, että nyt rikoksen uhri, täs-
+sä tapauksessa kauppias ja rehelliset kaupan asiakkaat, nostetaan vahvemmin esille. Jokai-
+selle rikoksentekijälle pitää seurata rangaistus, niin kuin ministeri Häkkänen tässä esittää.
+Kauppoja ja huoltoasemia on piinannut nyt jo noin kymmenen vuotta paheneva kaljavar-
+kaiden ja näpistelijöiden mellestäminen [Arto Satonen: Ja bensavarkaiden!] — ja bensa-
+varkaiden — ja tämän syy on siinä, että vuonna 2008 vihreiden oikeusministeri Tuija Bra-
+xin johdolla poistettiin sakon muunto. Heti näpistykset kasvoivat merkittävästi, ja kaupan
+ala menettää tänä päivänä yli puoli miljardia, 550 miljoonaa, myymälävarkauksien kautta.
+Kauppiailta tulee lähes viikoittain viestiä, että heillä on valvontakamerakuvaa, heillä on
+kassojen tuntemuksia ja näköhavaintoja siitä, miten kaljavarkaat naureskelevat valvonta-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+kameroille varastaessaan kaupasta, sillä he tietävät, että rikoksesta ei ole seurannut heille
+mitään rangaistusta.
+
+Pidän myönteisenä sitä, että nyt sakon muuntorangaistuksen käyttöalaa laajennetaan, ja
+tämä on siis osa ministeri Häkkäsen laatimaa rangaistusten kiristämisen pakettia. Hallitus
+siis esittää sakon muuntorangaistuksen käytön laajentamista. Toistuvasti samankaltaisiin
+rikoksiin syyllistyneen henkilön sakkorikos on jatkossa käsiteltävä tuomioistuinmenette-
+lyssä, ja toistuvuus tarkoittaisi useampaa sakkorikosta vuoden sisällä. Tuomioistuimen
+määräämät sakot, joita ei saataisi perityksi, on sitten jälleen muunnettavissa vankeudeksi,
+eli tällä tavalla myös nämä ammattinäpistelijät joutuvat jatkossa jälleen vastuuseen teois-
+taan.
+
+Lakiuudistuksen tarkoituksena on siis ennen muuta vahvistaa meidän rangaistusjärjes-
+telmämme uskottavuutta. Kyllä jokaiselle ihmiselle pitää seurata rikoksesta jonkinlainen
+rangaistus, ja silloin on tarpeen tämäkin ottaa käyttöön. Vuosittain poliisille kirjataan itse
+asiassa noin 10 000 sakkoa sellaisille, jotka syyllistyvät vähintään seitsemän kertaa saman-
+laiseen rikokseen vuodessa, ja näistä sakoista noin 5 500 tulee poliisin tietojen mukaan nä-
+pistyksistä eli lähinnä näistä kaljavarkauksista.
+
+Esityksellä parannettaisiin myös edellytyksiä ohjata muuntorangaistusta suorittava van-
+ki päihdekuntoutukseen, eli tässä esityksessä on tällainenkin hyvä puoli. Jokaiselle seuraa
+tehdystä rikoksesta jatkossa rangaistus, mutta myös sitä rikoksen tekijää autetaan, sillä to-
+siasia on sekin, että iso osa näihin sakkorikoksiin toistuvasti syyllistyvistä on päihdeongel-
+maisia ja usein myös vakavasti syrjäytyneitä. Silloin he tarvitsevat apua, ja on hyvä, että
+heille voidaan sitä tarjota ja heidät voidaan ohjata päihdekuntoutukseen.
+
+Arvoisa puhemies! Pidän erittäin myönteisenä sitä, että jatkossa nämä ammattinäpiste-
+lijät joutuvat vastuuseen. Toivottavasti tämä kaupan varkaus- ja näpistelyhävikki saadaan
+minimoitua, sillä loppupelissä kauppias ja me kaupan rehelliset asiakkaat maksamme tä-
+mänkin puoli miljardia niissä kaupan tuotteissa, joita me sieltä ostamme ja joita noin kym-
+menen vuoden ajan ammattinäpistelijät ovat ottaneet naureskellen matkaansa.
+
+15.18 Sofia Vikman kok: Arvoisa rouva puhemies! Oikeusvaltion uskottavuuden kannal-
+ta on tärkeää, että toistuvat lainrikkojat eivät voi käytännössä jäädä rangaistusten ulkopuo-
+lelle jättämällä sakot maksamatta. Pidänkin tarpeellisena sitä, että käsittelyssämme oleval-
+la hallituksen esityksellä laajennetaan sakon muuntorangaistuksen käyttöalaa.
+
+Esityksen mukaan toistuvasti samankaltaisiin rikoksiin syyllistyvien henkilöiden rikko-
+mukset olisi jatkossa käsiteltävä tuomioistuinmenettelyssä. Toisin kuin poliisin määrää-
+mät sakot, tuomioistuimen määräämät ja antamat sakot ovat muunnettavissa vankeudeksi.
+Mahdollisuus muuntaa poliisin määräämät sakot vankeudeksi poistui vuonna 2008. On oi-
+kein, että tämä kymmenen vuoden takainen päätös viimein korjataan, kun poliisille asete-
+taan velvollisuus ohjata sakkorikos käräjäoikeuden käsiteltäväksi silloin, kun toistuvasti
+sakkoja saaneen henkilön käyttäytyminen osoittaa piittaamattomuutta lain säännöksistä.
+Toistuvaksi piittaamattomuudeksi katsotaan yli kuuden sakon saaminen vuoden sisällä.
+
+Lakiuudistus vahvistaa rangaistusjärjestelmämme uskottavuutta ja puuttuu erittäin tar-
+peellisella tavalla ammattinäpistelijöiden toimintaan, jonka tähän mennessä ovat tavalliset
+kuluttajat maksaneet ostoksissaan, esimerkiksi myymälävarkaiden aiheuttamat vahingot
+kauppiaille.
+
+Kaiken kaikkiaan hyvä ja tarpeellinen lakiesitys, joka myös on tärkeä osa oikeusminis-
+teri Häkkäsen lakipakettia, jonka kokonaisuus vahvistaa rikoksen uhrin asemaa Suomessa. 
+9
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+15.20 Kari Kulmala sin: Arvoisa rouva puhemies! Esityksessä ehdotetaan muutettavaksi
+sakon ja rikesakon määräämisestä annettua lakia ja rikoslakia. Toistuvasti sakkorikoksiin
+syyllistyneille olisi mahdollista tuomita muuntorangaistus, jos sakkoa ei saada muuten pe-
+rityksi. Tämä esitys on enemmän kuin odotettu.
+
+Tällä hetkellä on voimassa tilanne, jolloin teosta ei seuraa rangaistusta kaikille tekijöil-
+le, kuten kuuluisi olla. Ainakin minun mielestäni rangaistavasta teosta tulee seurata ran-
+gaistus, asumme sentään oikeusvaltiossa. Tavoitteen tulee tietenkin olla, että sakoista mah-
+dollisimman suuri osa maksettaisiin vapaaehtoisesti ja maksamatta jääneet sakot saataisiin
+perityksi ilman muuntorangaistusmenettelyä tai muuntorangaistuksen täytäntöönpanoa.
+Tällä hetkellä esimerkiksi lähes ammattimaiset näpistelijät ovat päässeet ilman rangaistus-
+ta, mikäli heillä ei ole omaisuutta, mitä voisi ulosmitata. Varkaudet ovat merkittävä ongel-
+ma ja hävikin aiheuttaja erityisesti kaupan alalla.
+
+On selvää, että tämän lakimuutoksen jälkeen vankiloihin tulee enemmän vankeja, kuten
+ministeri Häkkänen juuri äsken kertoi, arvio olisi noin 30 kappaletta. En kuitenkaan usko
+kovin suuriin muutoksiin vankien määrässä. Jatkossa sakon muuntosuhdetta muutettaisiin
+vain siten, että päiväsakoin määrätyissä sakoissa nykyisen kolmen päiväsakon asemasta
+neljää maksamatonta päiväsakkoa vastaisi yhden päivän vankeus. Mielestäni se on varsin
+vähän.
+
+Harvaan asutulla alueella kauppiaat eivät enää ilmoita poliisille varkauksista, kun tietä-
+vät, ettei tekijälle tule teosta mitään seurausta. Minusta se ei ole oikeusvaltiossa oikein.
+Mielellämme toki tässä eduskuntasalissakin äänestämme tästä asiasta, mikäli joku puolue
+tai joku haluaa tästä äänestettävän. Uskon, että pärjäämme tässä äänestyksessä.
+
+Arvoisa puhemies! Mielestäni tämä lakimuutos tulee saattaa voimaan mahdollisimman
+pikaisesti, ei vuoden 2021 lopulla, niin kuin takarajaksi on ajateltu. Tämä luo oikeudenmu-
+kaisuutta sekä tasapuolisuutta, ja tämä on kansalaisten silmissä kaikin puolin hyväksyttävä
+lakimuutos. 
+
+15.22 Jani Mäkelä ps: Arvoisa puhemies! Tässä kysymyksessä rikosten ilmoittamatta
+jättämisestä on kysymys myös siitä, että ensinnäkin poliisin resursseja on liian vähän, toi-
+senakin ne on poliisin toimesta kohdistettu väärin, niin ettei poliiseja riitä selvittämään
+kautta maan niitä pieniä omaisuusrikoksia, joita poliisin pitäisi selvittää, ja näin ollen ih-
+miset eivät viitsi niistä enää edes ilmoittaa.
+
+Täällä salissa on käyty periaatteellista keskustelua kriminaalipolitiikasta, ja omasta mie-
+lestäni, kun tälle ideologiselle linjalle nyt lähdetään, onkin vain oikein, että vuosikymmen-
+ten aikana tehdyt, punavihreän ideologian aikaansaamat virheet korjataan pieni askel ker-
+rallaan. Täysivaltainen ihminen kuitenkin on vastuussa omista teoistaan, ja näin se asia
+vain on.
+
+Tähän näpistelyilmiöön liittyvät myös viimeaikaiset käsittämättömät oikeustapaukset,
+joissa vaikkapa huoltoaseman omistaja on kuvannut bensavarasta ja kuvan julkaistuaan
+onkin itse syytettyjen penkillä. Tällaiset tapaukset ovat räikeästi yleisen oikeustajun vas-
+taisia. Kansalaiset ovat raivostuneet siitä, että yhteiskunta tekeekin uhrista rikollisen. Ky-
+synkin ministeriltä: millaisia toimia voitaisiin kohdistaa siihen, että rikoksen tekeminen ei
+nauttisi nykyisentapaista yksityiselämän suojaa?
+
+15.23 Pia Kauma kok: Arvoisa puhemies! Pidän erittäin hyvänä tätä lakimuutosta, jossa
+sakon muuntorangaistus palaa ja jolla nyt erityisesti sarjanäpistelijät saadaan kuriin. Tämä-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+hän tarkoittaa siis sitä, että seitsemän samankaltaisen sakkorikoksen jälkeen tulee vankeus-
+rangaistus, ja tästä tulevat hyötymään erityisesti päivittäistavarakauppiaat ja bensiinikaup-
+piaat.
+
+Tämä laki on osa rangaistustenkiristyspakettia, johon tulee liittymään vielä muitakin mi-
+nisteri Häkkäsen esityksiä kuin tämä. On erittäin hyvä, että rangaistuksia nyt kiristetään,
+koska ne vastaavat silloin paremmin kansalaisten oikeustajua. Niiden on oltava myöskin
+oikeassa suhteessa tehtyihin rikoksiin. Siinä mielessä on myöskin hyvä, että nyt nostetaan
+myös uhri keskiöön. Aikaisemminhan olemme puhuneet vain rikoksentekijöiden tilantees-
+ta.
+
+Kun täällä on nostettu esiin muun muassa sellainen kysymys, että yksi rangaistusjärjes-
+telmän keskeinen piirre elikkä ennaltaehkäisevä vaikutus jäisi vähäiseksi, niin kysyisin nyt
+ministeriltä sitä, millä tavalla päädyttiin nimenomaan siihen, että tässä on juuri seitsemän
+sakkorangaistusta. Ja sitten toisaalta on myöskin se, että jotkut asiantuntijat ovat eri yhte-
+yksissä puoltaneet yhteiskuntapalveluksen merkitystä, että sillä nimenomaan pystyttäisiin
+puuttumaan näihin juurisyihin, niin että rikoksentekijät eivät rangaistuksen jälkeen palaisi
+enää vanhalle polulle. Kysyisin: millä tavalla näitä on arvioitu tässä lainvalmisteluproses-
+sissa?
+
+15.25 Reijo Hongisto sin: Arvoisa puhemies! Hallituksen lakiesitys on rehellisten suo-
+malaisten näkökulmasta tervetullut, sillä nyt palataan vanhaan aikaan ja vanhaan asiaan.
+
+Esityksen perusteella toistuvasti pieniin rikoksiin syyllistynyt ja kiinni jäänyt ei enää
+selviäisi pienellä päiväsakolla vaan joutuisi telkien taakse, jos jättää jälleen sakkonsa mak-
+samatta. Muunnon ehtona on, että henkilö on saanut edeltävän vuoden aikana vähintään
+kuusi sakkorangaistusta — kansankielellä sanottuna seitsemännestä häkki heiluu.
+
+Esityksen tarkoituksena on edistää rikosoikeusjärjestelmän uskottavuutta, lain kieltojen
+ja käskyjen noudattamista sekä yleistä lainkuuliaisuutta. Neljä maksamatonta päiväsakkoa
+vastaisi yhden päivän vankeutta. Muuntorangaistuksen vähimmäispituus korotettaisiin
+neljästä päivästä viiteen päivään ja enimmäispituus alennettaisiin 60 päivästä 40 päivään. 
+
+Lain kiristys suuntautuisi erityisesti taparikollisten näpistyksiin, joista yleisimpiä liene-
+vät polttoainevarkaudet ja niin sanotut juoksukaljat. Kun poliisi kirjoittaa sakon tai ran-
+gaistusvaatimuksen, se saatetaan repiä poliisin edessä ja uhotaan vieläpä keskisormea hei-
+luttaen, että toiminta jatkuu. Moni yrittäjä on ilmoittanut, ettei anna enää suostumusta ran-
+gaistusmääräysmenettelyyn, jolloin juttu menee niin sanotusti pitkän kaavan mukaan esi-
+tutkintaan ja syyteharkintaan. Aikaa kuluu, mutta näpistykset ja taparikollisen toiminta jat-
+kuvat.
+
+Lainmuutos lisää jonkin verran syyttäjien ja tuomioistuimien työtä sekä aiheuttaa lisä-
+kuluja Rikosseuraamusvirastolle, niin kuin tässä on useissa puheenvuoroissa todettu, mut-
+ta saattaa osaltaan vähentää vapaudenriistopelotteen vuoksi taparikollisuutta. Muutos
+osoittaa yhteiskunnan suhtautumista lain noudattamiseen myös siinä, että rikkoja ei vältä
+seuraamusta repimällä rangaistusvaatimuskaavakkeita kuin euron arpoja.
+
+Poliisimiehenä olisin valmis kiristämään esitettyjä ehtoja. Mielestäni kuusi maksama-
+tonta sakkoa vuoden aikana on aika paljon. Toivon, että valiokuntatyössä pelotevaikutusta
+ja niin sanottua rangaistuksen yleisestävyyttä arvioidaan sen suhteen, toimiiko se myös
+käytännössä. Hyvänä vertauskohteena pidän ylinopeusrikesakkoa: kortti lähtee kuivu-
+maan muutamasta kahden vuoden aikana saadusta rikesakosta siitä huolimatta, että nämä
+rikesakot on maksettu.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+Arvoisa puhemies! Kannatan tätä lakiesitystä. 
+
+Puhemies Paula Risikko: Täällä on neljä pyydettyä puheenvuoroa. Mikäli nämä ovat pai-
+kalla pidettäviä puheenvuoroja, ne keritään kaikki tässä ottaa — joten katsotaan tilanne.
+
+15.28 Ilkka Kantola sd: Arvoisa puhemies! Ensimmäisellä eduskuntakaudellani, vuodes-
+ta 2007 lähtien, Vanhasen kakkoshallituksen aikana, jolloin tosiaan ministeri Brax oli oi-
+keusministerinä ja Katainen valtiovarainministerinä, tehtiin kriminaalipolitiikkaa. Olin la-
+kivaliokunnassa ja aloin ymmärtää sen, mitkä kaikki asiat vaikuttavat siihen, minkälaista
+kriminaalipolitiikkaa tehdään. Yksi merkittävä asia oli valtiontalouden kehykset. Se oli
+eräs keskeinen syy siihen, että pyrittiin vankimäärän pienentämiseen, ja tämä sakon muun-
+torangaistuksen käytännön lieventäminen, sen käytön vähentäminen, oli yksi seuraus siitä,
+että pyrittiin vankimäärää pienentämään. Siellä Rikosseuraamusviraston puolella kehys oli
+tiukka, ja näin pystyttiin joitakin ongelmia ratkaisemaan. Ja vastaava peruste oli syynä sii-
+hen, että Sipilän hallitus aivan alkutöikseen perui jo valmiin lakiesityksen, voimaan tule-
+van lain. Nyt valtiovarainministeriössä ja hallituksen kehyspäätöksessä on varattu tähän 11
+miljoonaa euroa vuosittain, näihin lisäkustannuksiin, mikä on tietysti viisasta, että nyt voi-
+daan edetä tässä.
+
+Vähän tässä keskustelussa, joka on muuten asiallista keskustelua, jää kaivelemaan se,
+että kovin tunnevaltaisesti leimataan niitä tilanteita, joissa on näitä varkauksia ja joissa
+nämä henkilöt sitten syyllistyvät toistuviin varkauksiin. En usko, että ”ammattinäpisteli-
+jä”-nimistä joukkoa on olemassa, [Kari Kulmalan välihuuto] enkä usko, että kaikki, jotka
+varastavat toistuvasti, heiluttelevat niitä lappujaan ja repivät niitä poliisin edessä. Osa var-
+maan tekee näin, ja se antaa ikävän kuvan siitä toiminnasta, ja sen takia kaikkien oikeusta-
+ju vaatii, että jokin seuraamus pitää tässä olla. Mutta toistan sen, mitä sanoin jo debattipu-
+heenvuorossa, että minusta hallituksen esityksessä on käyty hyvin läpi se problematiikka,
+joka tähän kokonaisuuteen liittyy, ja myös se, kuinka vähän tällä ehkä sitten loppujen lo-
+puksi on vaikutusta ihmisten käyttäytymiseen — siitä me emme pääse mihinkään, että tut-
+kimukset osoittavat, että kovin vähän. Mutta meidän oikeustajumme kannalta tämä on tär-
+keää.
+
+Ja se, mikä on tärkeää, on se, että tähän tulee nyt tämä sosiaalinen puoli mukaan, mah-
+dollisuus olla kuntoutuksessa, mahdollisuus suorittaa samaan aikaan tätä muuntorangais-
+tusta. Sitä taannoin jo oikeusministeri Johannes Koskinen oli ehdottamassa, jotakin tämän-
+tyyppistä. Nyt päästään tässä asiassa eteenpäin.
+
+15.30 Arto Satonen kok: Arvoisa puhemies! Ensinnäkin kiitokset ministeri Häkkäselle ja
+hallitukselle siitä, että tämä esitys on tänne saatu. Kyllä tässä ennen kaikkea kyse on siitä,
+että tämä on oikeustajumme mukainen. Eikö se ollut se vanha käräjätuomarin ohje, että se,
+mikä ei ole oikeus ja kohtuus, ei voi olla lakikaan? Ja se ei kyllä ole oikeus ja kohtuus, että
+voi varastaa järjestelmällisesti saamatta siitä koskaan minkäänlaista rangaistusta.
+
+Kun olen itse ollut aikoinaan grillikioskiyrittäjänä ja sitä kautta tunnen paljon näitä ki-
+oskinpitäjiä, kaupanpitäjiä ja huoltoasemanpitäjiä, niin olen saanut tästä asiasta todella pal-
+jon palautetta. Näitä on täällä jo kerrottukin, mutta haluan myös itse kertoa pari esimerk-
+kiä: Esimerkiksi maaseutuhuoltoasemalla, missä halutaan pitää myöskin mittari, lähinnä
+vanhempien käyttäjien vuoksi, jossa ei ole automaattia, aivan tavallista on se, että siihen tu-
+lee henkilö, joka tankkaa mutta ei maksa ja vielä morjestaa siihen valvontakameraan — ei
+12
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+siis edes häpeile sitä tekoaan, minkä tekee. Tai meillä kaupunkien keskustoissa pienissä
+kaupoissa moni kauppias on kertonut, että heillä on jatkuvasti henkilöitä, jotka useita ker-
+toja viikossa varastavat säännöllisesti niin sanotun juoksukaljan, johon täällä jo edustaja
+Hongistokin viittasi. Ei tällainen toiminta ole mistään kotoisin, ja se antaa myös väärän sig-
+naalin kaikille niille ihmisille, jotka toimivat rehellisesti, ja ennen kaikkea myöskin nuori-
+solle. Että tällä tavalla ei voida toimia, vaan siitä pitää seurata rangaistus. On erinomaisen
+hyvä, että nyt korjataan se virhe, joka 2008 tehtiin, ja saadaan tämä asia vietyä järjelliselle
+tolalle. Edelleen se rima on kohtuullisen korkealla, mutta olennaista on se, että se rima on
+olemassa. Kiitos siitä.
+
+15.32 Anders Adlercreutz r: Ärade talman! Tämä lakimuutoshan ei ole ilmainen, sen hy-
+vin tiedämme. Poliisitarkastaja Simanainen kertoi, että tämä edellyttäisi 90 poliisin lisäys-
+tä. Budjettiahan täällä käsitellään parhaillaan, ja siinä on käynyt hyvin selvästi ilmi, että
+7 200 miestyövuoden tai naistyövuoden ylläpitäminen on kovan työn takana. Tilannetta ei
+helpota se, että Senaatin kiinteistökulut ovat niin kuin automaattinen kustannuksia nostava
+tekijä. Tilannetta ei helpota se, että poliisilla ict-kulut ovat nousemassa 5,6 miljoonaa ensi
+vuonna. Pelkästään tieliikennelaki aiheuttaa 2,5 miljoonan investointitarpeen. Meillä on
+myöskin edessämme EU-puheenjohtajavuosi, joka jo sinänsä edellyttää varmaankin toi-
+senlaisia tarpeita kuin mitä normaali toiminta täällä Helsingissä on. Eli lisärahan tarve on
+ilmeinen, ja kun nämä monet asiat kumuloituvat, niin voi kuvitella, että poliisin seuraavas-
+ta vuodesta tulee varsin haasteellinen. Ymmärrän toki, että poliisin budjetti ei ole teidän
+pöydällänne, mutta oletteko, ministeri Häkkänen, hallituksen sisällä käyneet näitä keskus-
+teluja ja oletteko valmis näiltä osin sitten korjaamaan budjettiesitystä?
+
+Puhemies Paula Risikko: Täällä tuli kaksi lisäpyyntöä. Nyt se on sitten ehdottomasti niin,
+että tässä vaiheessa otetaan nämä, Kasvi, Kari ja Lohi, jos he ovat paikalta, mutta mikäli ei-
+vät, niin sitten joudumme keskeyttämään tämän keskustelun.
+
+15.34 Jyrki Kasvi vihr: Arvoisa puhemies! Tässä keskustelussa on särähtänyt korvaan se
+oletus, että näpistykset ja myymälävarkaudet loppuvat siihen paikkaan, kun sakot voidaan
+jälleen muuntaa vankeudeksi. Tilastojen mukaan muuntorangaistuksesta luopuminen ei
+kuitenkaan lisännyt näpistyksiä käytännössä yhtään. Tuskin niiden palauttaminenkaan siis
+niitä merkittävästi vähentää, ainakaan sen puolen miljardin euron edestä vuodessa, mihin
+tässä on viitattu. Ehkä meillä itsellämme on parempi mieli, ja sekin on tietysti arvokasta.
+
+Sinänsä on hyvä, että yhteiskunnassa aika ajoin keskustellaan eri rikosten tuomittavuu-
+desta, niiden sopivista rangaistuksista, koska aika ja arvot ja arvostukset muuttuvat ja myös
+lainsäädännön on pysyttävä siinä mukana. Sitä ei saa kuitenkaan unohtaa, että tärkeimpänä
+tavoitteena on oltava rikosten määrän vähentäminen. Siinä työssä kovat rangaistukset ovat
+osoittautuneet valitettavan tehottomaksi työvälineeksi. Itse asiassa näyttäisi siltä, että yh-
+teiskunta, jossa suositaan kovia rangaistuksia, jostain syystä korreloi aina vakavan rikolli-
+suuden yleisyyden kanssa. Eli niin helppo kuin on kovempia rangaistuksia lupaamalla ka-
+lastella ääniä, niin täytyy aina muistaa, onko sillä vaikutusta vai ei.
+
+15.36 Mika Kari sd: Arvoisa rouva puhemies! Olen itse henkilökohtaisesti tyytyväinen
+siitä, että tähän sakon muuntorangaistusasiaan nyt tartutaan. Lakivaliokunnalle jää tieten-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+kin valiokunnalle kuuluva rooli käydä tarkalla kammalla läpi hallituksen esitystä ja siinä
+yhteydessä sitten tehdä arvioita lain vaikuttavuudesta.
+
+Mutta haluaisin myös vähän samaan asiaan tarttua kuin edustaja Adlercreutz tuossa
+edellä. Meidän poliisille on näiden viimeistenkin vuosien aikana tullut useita uusia tehtä-
+viä. Kuitenkaan niiden lisääntyvien tehtävien myötä ei ole tullut poliisille rahoitusta tehtä-
+vien hoitoon. Näen kyllä siinä ison epäkohdan osaltaan myös tähän lakiesitykseen liitty-
+vän oikeustajun osalta. Meidän pitää voida luottaa, että viranomaisella on aidot toiminta-
+edellytykset puuttua sellaiseen laittomaan toimintaan, jota yhteiskunnassa tapahtuu, mutta
+tämän oikeustajun nimessä pidän tätä esitystä hyvänä. Ei voi olla myöskään sellaista oi-
+keutta, että henkilö ei välitä niistä sakkotuomioista, joita rikollisesta toiminnasta tai laitto-
+masta toiminnasta saa, ja pääsee niin sanotusti, kansanomaista ilmaisua käyttäen, kuin koi-
+ra veräjästä. 
+
+Toivon, että lakivaliokunta pystyy tähän täydellä innolla paneutumaan ja kuulemaan
+asiantuntijoita, koska tässä yksi kulma, johonka on täälläkin viitattu, on tämä sosiaalisen
+oikeudenmukaisuuden ja sosiaalityön merkitys. Pelkillä tuomioilla ei yhteiskuntaa raken-
+neta, vaan niin kuin ministerikin on aikaisemmin useammassa yhteydessä sanonut, myös
+oikeusjärjestelmä ja rikosseuraamustoiminta ovat laajassa kentässä isoa sosiaalityötä, jolla
+yritetään vaikuttaa rikoksentekijöihin ja tässä tapauksessa usein myös rikoksenuusijoihin.
+
+Puhemies Paula Risikko:  Edustaja Lohi, ja sen jälkeen ministeri vastaa.
+
+15.37 Markus Lohi kesk: Arvoisa puhemies! En kyllä usko, että kukaan varmasti kuvit-
+teleekaan, että tällä esityksellä lopetetaan tämäntyyppinen rikollisuus, vaikkapa näpistelyt
+tai muut. Voi todeta niinkin, että jos ajatellaan rikollisuutta vähentää yleisesti ottaen, niin
+varmasti paras keino on se, että me pidämme sosioekonomiset erot niin pieninä, että asui-
+nalueitten ympärille ei turva-aitoja tarvitse rakentaa. Kun katsotaan isossa kuvassa, niin
+vaikka meillä on rikollisuutta — ja aina voi sanoa, että liian paljon — Suomessa, niin silti
+kyllä me olemme isossa kuvassa onnistuneet, ja tästä kertoo muun muassa se, että meillä ei
+ole samanlaista rikollisuuden määrää kuin joissakin maissa, vaikka siellä olisi korkeam-
+mat rangaistuksetkin. Mutta kysymys on laajemmasta kysymyksestä, tässä tapauksessa sii-
+tä, että kaikki, myös lainkuuliaiset kansalaiset, uskovat tähän meidän rikosoikeusjärjestel-
+määmme, siihen, että kyllä lain rikkomisesta seuraa aina joku rangaistus. Minusta tämä esi-
+tys on ihan samaa sarjaa kuin tänään kohta käsiteltävä toinen asia, jossa puututaan ensiker-
+talaisuussäännöksiin, ja kuin mitä hallitusohjelmassa on kirjattu vaikkapa ehdollisten van-
+keustuomioiden tehostamismahdollisuuksista, joista on myös tulossa tänne esityksiä oi-
+keusministeriltä. Ne ovat erinomaisia asioita. Tätä pitää ajatella kokonaisuutena ja
+päivittää tätä järjestelmää, tehdä hienosäätöjä mutta myös semmoisia korjauksia, jotka vas-
+taavat ihmisten oikeustajua.
+
+On hyvä, että tällä hallituskaudella selvitettiin myös tätä, mitä ihmiset ajattelevat rikok-
+sista ja oikeudenmukaisista rangaistuksista. Vielä parempi on se, että kun nämä selvitet-
+tiin, niin myös toimitaan ja tuodaan tänne esityksiä. Tässä nämä hallitusohjelmakirjaukset
+ovat kyllä myös hyvä selkänoja ministerille. Eli lopuksi haluan kiittää siitä, että näitä asioi-
+ta tuodaan tänne eduskuntaan ja tehdään pieniä korjauksia oikeaan suuntaan.
+
+Puhemies Paula Risikko: Sitten ministeri vastaa. Enintään 3 minuuttia.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 102/2018 vp
+15.40 Oikeusministeri Antti Häkkänen: Arvoisa puhemies! Kiitos siitä laajasta tuesta ja
+hyvästä palautteesta, minkä tämä esitys sai. Vihreiden kannasta en ottanut vielä selvää,
+mutta ehkä sekin jossain vaiheessa selkenee.
+
+Tässä esityksessähän on viime kädessä kyse ennen kaikkea arvopoliittisestakin ratkai-
+susta: tuetaanko lain kunnioittamista, lain noudattamista ja mahdollisia pieniäkin rangais-
+tusjärjestelmän uskottavuutta lisääviä toimenpiteitä, jos se koetaan tärkeäksi. Tämä on iso
+globaali kysymys tällä hetkellä. [Markku Rossi: Juuri niin!] Me näemme, että useissa eri
+maissa luottamus ihmisten kesken ja luottamus oikeusvaltioon ja julkisiin instituutioihin
+on romahtamassa. Suomessa yhteiskunnan pelisäännöt tehdään tässä salissa, ja olisi aika-
+moinen viesti sanoa, että niitä pelisääntöjä ei tarvitsisi noudattaa.
+
+Rangaistusjärjestelmän tehtävä on, totta kai, moniulotteinen. Täällä itse asiassa tuli
+edustaja Niinistön puheenvuorossa erikoinen käsitys, että rangaistusten tehtävä olisi vain
+ennaltaehkäistä tiettyjä rikoksia — eli sellaisista teoista ei säädettäisi rangaistusta, joita ei
+voida ennaltaehkäistä. Vaikka mielenterveysongelmissa tehty murha: Voidaanko sitä en-
+naltaehkäistä, vaikka olisi miten kova rangaistus? Ei välttämättä voida, mutta ei se ole pe-
+ruste poistaa sitä rangaistusta rikoslaista. Eikä ole tässäkään peruste poistaa rangaistusta,
+vaikka rikos tehtäisiin päihteiden vaikutuksen alaisena tai muuta, vaan oikea malli on se,
+että jokaisesta rikoksesta seuraa rangaistus, olkoon henkilön syy sinänsä mikä tahansa.
+Mutta toki tarvitsee esimerkiksi päihdehuoltoa ja kuntoutusta sitten vankeusaikana tarjota.
+Eli elämänhallinnan ongelmat tai päihdeongelmat eivät oikeuta rikoksiin, eivät pieniin ei-
+vätkä suuriin rikoksiin. Sen takia jäi pikkuisen vihreiden linja tässä hämmästyttämään.
+
+Mitä tulee näihin historian tiettyihin ratkaisuihin kymmenen vuotta sitten: Valtiovarain-
+ministeriö asettaa budjettiraamin, oikeusministeri tekee budjettiraamin sisällä arvopohjai-
+sia esityksiä, miten se toteutetaan. Silloin vihreiden oikeusministeri päätyi esittämään, että
+poistetaan sakon muuntorangaistus tietyiltä osin. Nyt se palautetaan.
+
+Rangaistuksella on siis eri roolit. Sillä on ennaltaehkäisevä rooli, mutta sen yksi suuri
+rooli on, että sen pitää sovittaa uhrin ja yhteiskunnan silmissä se teko. Teon sovittaminen
+on hyvin pitkälti arvopoliittinen kysymys, eli rangaistusten ankaruudesta päättää tämä sali
+viime kädessä asteikkojen puitteissa. Sen takia pelkästään ennaltaehkäisevyyttä ei pidä tui-
+jottaa, vaan pitää katsoa kaikki eri vaikutukset, mitä rangaistuksilla on. Se on äärimmäisen
+tärkeää. Rangaistuspolitiikassa tehdään nyt käännettä, jossa nimenomaan uhrin näkökul-
+ma nostetaan voimakkaampaan asemaan [Ben Zyskowicz: Hyvä!] eli se, mikä on oikeu-
+denmukainen rangaistus, jotta teko sovitetaan [Puhemies koputtaa] uhrin ja yhteiskunnan
+silmissä.
+
+Mitä tulee resursseihin, niin resurssit ovat tässä esityksessä mukana ja ne on kehysrii-
+hessä turvattu, joten tämä voidaan hyvillä mielin toteuttaa.
+
+Keskustelu päättyi.
+
+Asia lähetettiin lakivaliokuntaan.
+15
+
+

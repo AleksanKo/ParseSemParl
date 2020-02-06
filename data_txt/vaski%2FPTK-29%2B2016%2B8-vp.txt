@@ -1,0 +1,999 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMB202.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 29/2016 vp
+
+Täysistunto
+
+Keskiviikko 30.3.2016 klo 14.01—16.13
+
+8. Hallituksen esitys eduskunnalle laiksi arvo-osuusjärjestelmästä ja selvitystoiminnasta 
+sekä eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 28/2016 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 8. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokuntaan, jolle perustuslakiva-
+liokunnan on annettava lausunto.
+
+Ryhdytään keskusteluun. Asian esittelee ministeri Stubb.
+
+Keskustelu
+
+14.08 Valtiovarainministeri Alexander Stubb (esittelypuheenvuoro):  Arvoisa puhe-
+mies! Tänään käsittelyssä on hallituksen esitys laiksi arvo-osuusjärjestelmästä ja selvitys-
+toiminnasta sekä eräiksi siihen liittyviksi laeiksi. Vaikka esityksen ympärillä käyty keskus-
+telu on tiivistynyt aikaisemmin vain osakkeiden hallintarekisteröinnin kohtaloon suoma-
+laisessa arvo-osuusjärjestelmässä, on esityksen pääasiallinen sisältö kuitenkin paljon tätä
+kysymystä laajempi. 
+
+Esityksessä säädetään erityisesti arvopaperikeskusten toiminnasta. Arvopaperikeskus
+on siis pörssin ohella osa arvopaperien kaupankäyntiä tukevaa infrastruktuuria. Arvopape-
+rikeskuksen tehtävänä on yhtäältä tuottaa pörssiyhtiöille palveluita osakkeiden ja muiden
+arvopapereiden liikkeeseenlaskuun ja toisaalta huolehtia yhdessä arvopaperien säilyttä-
+jien, kuten pankkien, kanssa siitä, että esimerkiksi osakekaupan jälkeen ostaja saa tililleen
+ostamansa osakkeet ja myyjät kauppahinnan. Esityksen tarkoituksena on tehdä Euroopan
+unionin niin sanotun arvopaperikeskusasetuksen voimaantulosta johtuvat muutokset kan-
+salliseen lainsäädäntöön. EU-asetus tuli voimaan syyskuussa 2014, ja se on Suomessa suo-
+raan sovellettavaa oikeutta. Useista arvopaperikeskus- ja selvitystoimintaa koskevista
+säännöksistä säädetään kansallisten lakiemme sijaan EU-asetuksessa. Itse arvo-osuusjär-
+jestelmästä ja tilinhoitajien, kuten pankkien, toiminnasta ei kuitenkaan ole EU-säännöksiä,
+ja näiltä osin kansallista sääntelyä tarvitaan edelleen.
+
+Arvoisa puhemies! EU:n arvopaperikeskusasetus yhtenäistää arvopaperien selvitystoi-
+minnan ja arvopaperikeskustoiminnan sääntelyä. Asetus avaa arvopaperikeskustoiminnan
+kilpailulle, ja asetuksen nojalla arvopaperikeskukset voivat myös tarjota palveluja rajan yli
+niin sanotulla EU-passilla. Lisäksi arvopapereita voidaan siirtää arvopaperikeskusten vä-
+listen linkkien avulla arvopaperikeskuksesta toiseen. Voidaan pitää epätodennäköisenä,
+että suoraan Suomen markkinoille perustettaisiin uusia arvopaperikeskuksia. Suomessa
+toimivien arvopaperikeskusten ja tilinhoitajien tulee taata suomalaisen liikkeellelaskijan
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+eli pörssiyhtiön osakkeiden omistuksen suoraan rekisteröiminen suomalaisille osakkeen-
+omistajille. Tämä on kalliimpaa toteuttaa kuin esimerkiksi hallintarekisteröinti.
+
+Keskeisimpiä EU-asetuksen tuomista muutoksista on se, että suomalaisella pörssiyhti-
+öllä on oikeus valita käyttämänsä arvopaperikeskus EU-alueella — pörssiyhtiöitä siis Hel-
+singin pörssissä on karkeasti 126. Jos suomalainen pörssiyhtiö laskee osakkeita liikkee-
+seen toisessa EU-maassa, osakkeiden säilytykseen sovelletaan EU:n arvopaperikeskusase-
+tusta ja kyseisen maan lainsäädäntöä. On mahdollista, että ulkomaisen arvopaperikeskuk-
+sen järjestelmissä myös suomalaisten sijoittajien suomalaisia osakeomistuksia hallintare-
+kisteröidään. Suomi ei voi omalla lainsäädännöllään rajoittaa EU-asetusta tai muiden mai-
+den lainsäädäntöä. Tiedossa ei kuitenkaan ole tilannetta, jossa suomalainen yhtiö olisi
+käyttänyt EU-asetuksen mukaista valintaoikeuttaan ja laskenut liikkeeseen osakkeita ulko-
+maisessa arvo-osuusjärjestelmässä.
+
+Arvoisa puhemies! Hallitus ei esitä hallintarekisteröinnin laajentamista. Laki kieltäisi
+jatkossakin Suomessa toimivia tilinhoitajia, esimerkiksi pankkeja, hallintarekisteröimästä
+suomalaisten sijoittajien osakkeita suomalaisessa arvo-osuusjärjestelmässä. Ulkomaiset
+sijoittajat voisivat edelleen nykytilaa vastaavasti käyttää hallintarekisteröintiä Suomessa.
+Toistan: hallituksen esitys ei sisällä hallintarekisteröinnin laajennusta Suomessa, vaan suo-
+malaisessa arvo-osuusjärjestelmässä osakkeiden suora hallinta säilyy pakollisena. Suo-
+messa sovelletaan siten nimenomaisesti EU-asetuksen poikkeussääntöä. Tällä taataan se,
+että osakeomistuksen yleisöjulkisuus vastaa Suomessa nykytilaa. Pankit ja sijoituspalvelu-
+yritykset ovat voineet tarjota vapaasti sijoituspalveluita EU:ssa vuonna 2014 annetun EU-
+sääntelyn myötä. Osakkeiden säilytys on sijoituspalvelua, jota myös ulkomaiset pankit ja
+sijoituspalveluyritykset voivat suomalaisille sijoittajille tarjota. Jos ulkomainen sijoitus-
+palvelun tarjoaja ei toimi Suomen arvo-osuusjärjestelmässä, hallintarekisteröinnin kielto
+ulottuu huonosti ulkomaille. Tässä hallituksen esityksessä ei ehdoteta muutettavan sijoi-
+tuspalveluiden tarjoamista koskevaa sääntelyä, koska emme voi kansallisella lainsäädän-
+nöllä asettaa EU-sääntelylle lisärajoituksia. Sijoituspalveluiden tarjoaminen on osa palve-
+luiden vapaata liikkumista.
+
+Arvoisa puhemies! Tiivistäen vielä ydinkohdat:
+1) Lakiehdotus ei sisällä hallintarekisteröinnin laajentamista Suomessa.
+2) Suomalaisen pörssiyhtiön oikeus valita ulkomainen arvopaperikeskus seuraa suoraan
+
+syksyllä 2014 voimaan tulleesta EU-asetuksesta. Pörssiyhtiö valitsee arvopaperikeskuk-
+sen, ja järjestelmään sovellettava laki tulee sen valinnan mukana. Meillä ei ole mahdolli-
+suutta siis Suomen lailla rajoittaa EU-asetusta tai muiden EU-maiden kansallista lainsää-
+däntöä.
+
+3) Viranomaisten tietojensaanti ja osakkeenomistusten yleisöjulkisuus pysyvät Suomes-
+sa nykytasolla, jos osakkeet on laskettu liikkeeseen suomalaisessa arvopaperikeskuksessa.
+
+4) Hallintarekisteröinti on käytössä useassa EU-maassa. Suoran omistuksen järjestelmä
+säilyy Suomessa, ja se on käytössä myös Norjassa, Bulgariassa, Kreikassa, Maltalla, Slo-
+veniassa, Bosnia ja Hertsegovinassa, Montenegrossa, Makedoniassa, Serbiassa ja Turkis-
+sa.
+
+5) Hallintarekisteröinnin kielto ei aseta rajoitteita suomalaiselle osakesijoittajalle vaan
+tämän pankille. Suomalaisessa arvo-osuusjärjestelmässä toimiva pankki ei saa kirjata hal-
+lintarekisteröidylle tilille suomalaisen sijoittajan omistuksia suomalaisessa pörssiyhtiössä.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+6) Viranomaisten tietojensaanti ulkomailta edellyttää tietojenvaihtoa koskevia EU-sään-
+nöksiä ja valtioiden kahdenvälisiä sopimuksia. Näiden solmimisessa ja edistämisessä Suo-
+mi on ollut ja aikoo jatkossakin olla aktiivinen.
+
+Arvoisa puhemies! Laki on tarkoitettu tulemaan voimaan heinäkuun alussa kuluvana
+vuonna.
+
+Vielä viimeisenä huomiona: Jokaisen arvopaperikeskuksen Euroopassa on haettava uu-
+delleen toimilupaa, ja näin on siten toimittava myös Euroclear Finlandin Suomessa. Tätä
+prosessia varten kansallisen lainsäädännön on oltava yhteensopiva EU-asetuksen kanssa,
+jotta toimilupahakemus voidaan käsitellä. — Kiitos.
+
+Puhemies Maria Lohela: Näinkö oikein, että edustaja Sarkkinen? Vastauspuheenvuoro.
+
+14.16 Hanna Sarkkinen vas (vastauspuheenvuoro):  Arvoisa puhemies! Näyttää siltä,
+että finanssipiirien hellimää hallintarekisteriä yritetään jälleen kerran uittaa Suomeen, mut-
+ta tällä kertaa keittiön kautta. Käsittelyssä oleva arvopaperien säilyttämistä koskeva laki-
+esitys ei toki sinällään esitä hallintarekisteröinnin sallimista Suomessa mutta jättää kyllä
+oven auki omistusten julkisuuden häviämiselle ja helpottaa omistusten piilottamista ja ve-
+ronkiertoa.
+
+Arvoisa puhemies! Lakiesityksen ongelma on siinä, että suomalaisille mahdollistetaan
+hallintarekisterin kautta omistaminen ulkomailla. Lakiesitys mahdollistaa suomalaisille
+omistamisen epäsuorasti hallitun arvo-osuustilin kautta ulkomaisissa arvopaperikeskuksis-
+sa, eli suomalaisilta ei enää jatkossa edellytettäisi arvopaperien suoraa omistamista, jos
+omistukset ovat ulkomaisessa arvopaperikeskuksessa. Ja, arvoisa puhemies, Suomi voi
+kyllä velvoittaa yhtiöitä ja sijoittajia noudattamaan tiettyjä sääntöjä, esimerkiksi tätä suo-
+raa omistusta.
+
+14.17 Antti Lindtman sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Arvoisa val-
+tiovarainministeri, kyllä te olette aika sitkeä sissi. Kun viime syksynä tämä teidän hank-
+keenne ajaa hallintarekistöintiä Suomeen opposition ja kansalaisten tuoman paineen vuok-
+si karahti siihen Karjalan mäntyyn, te ilmoititte silloin, että luovutte tästä hankkeesta ja sa-
+noitte, että nyt mahdollisuus hallintarekisteröidä on haudattu ja kuopattu, tämä teidän
+hankkeenne on haudattu ja kuopattu. Näyttää siltä, että ei sitä ainakaan kovin syvälle kuo-
+pattu, nimittäin nyt te yritätte ujuttaa tälle mahdollisuuden. Yritätte ujuttaa mahdollisuu-
+den siihen, että suomalainen yhtiö voi ulkomaiden kautta hallintarekisteröidä. Ja toisin
+kuin te sanotte, teillä olisi mahdollisuus tämä kieltää, mutta tietoisesti tuotte tämmöisen
+esityksen tänne.
+
+Arvoisa puhemies! Käykö tässä jälleen kerran niin, että te joudutte korjaamaan esitystä
+tai vetämään tämän pois, vai aiotteko pitää tästä esityksestänne kiinni?
+
+14.18 Anne Kalmari kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Täällä on
+varmasti kuullunymmärtämisessä vaikeuksia. Ministeri tuossa juuri totesi, että hallintare-
+kisterilakia ei viedä eteenpäin. Ja tämä arvo-osuusasia, mahdollisuus toimia kuten ennen-
+kin, on 2014 teidän valtiovarainministerinne ollessa virassa tullut EU:sta. Miksi siihen ei
+silloin puututtu, jos se ei tunnu hyvältä?
+3
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+14.19 Touko Aalto vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! On täysin tot-
+ta, kuten valtiovarainministeri Stubb sanoi, että hallituksen esitys ei ole suoraan sallimassa
+hallintarekisteröintiä suomalaisille samalla tapaa kuin vielä viime syksynä eli poistamalla
+tämän hallintarekisteröinnin kiellon, mutta Suomella olisi myös täysi komission sallima
+mahdollisuus edellyttää nykyistä suoran omistuksen mallia. Mutta aikooko hallitus näin
+tehdä? Tämä on se iso kysymys. Ja jos nyt uusi lainsäädäntö tuodaan, piilee riski siinä, että
+kun jatkossa tehdään täysin uusi lainsäädäntö, voidaanko mahdollisia virheitä myöhem-
+min EU-lainsäädännön puitteissa korjata uudestaan.
+
+14.20 Ville Skinnari sd (vastauspuheenvuoro): Arvoisa puhemies! Talousvaliokunta pää-
+si viime syksynä tutustumaan tähänkin lainsäädäntöhankkeeseen, ja tietysti ainakin itselle
+henkilökohtaisesti tuli yllätyksenä, että tämä näinkin nopeasti tänne eduskuntaan palaa.
+Suomen malli on hyvä malli, kuten edustaja Aaltokin tässä äsken viittasi, ja kun me kat-
+somme EU-lainsäädäntöä ja tätä kyseistä asetusta, 38 artiklaa, niin ainakin itse olen ja mo-
+net asiantuntijat ovat sitä mieltä, että Suomella on siinä vapaus tulkita sitä myös sillä taval-
+la kuten olemme aikaisemminkin toimineet. Näiltä osin kysynkin teiltä, arvoisa ministeri:
+oletteko te tietoinen siitä, mitä tämä asetus mahdollistaa?
+
+14.21 Paavo Arhinmäki vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Neljä kuu-
+kautta sitten valtiovarainministeri Stubb vakuutteli, että hallintarekisteri on pakko ottaa
+käyttöön EU-paineen vuoksi, mutta se ei pitänyt paikkaansa, mitä silloin väititte. Onneksi
+edellisessä hallituksessa vasemmistoliitto, vihreät ja demarit olivat tiukkoina ja neuvotte-
+livat nimenomaan poikkeuksen niin, että se mahdollistaa sen, että jatkossakin on suora
+omistus suomalaisilta sijoittajilta. Hyvä, että te nyt myönnätte sen, että se, mitä te sanoitte
+neljä viisi kuukautta sitten, ei pitänyt paikkaansa. Mutta silloin te myös sanoitte, että hal-
+litus ei valmistele hallintarekisteriä uudestaan missään muodossa, ja sanoitte, että hallinta-
+rekisteri on haudattu ja kuopattu. Tästä ei ole kuin neljä kuukautta aikaa. Nyt te olette tuo-
+massa keittiön kautta tätä hallintarekisterimahdollisuutta uudestaan. Kysymys kuuluukin:
+kuinka lyhyen te kuvittelette poliittisen muistin olevan?
+
+14.22 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Tässä ollaan to-
+dellakin pistämässä toimeen sitä, mikä on pakko pistää toimeen, elikkä tätä arvopaperikes-
+kusasetusta, ja vaikka oppositiopuolueen edustaja olen, niin täytyy sanoa, että minulla kyl-
+lä keittää siinä vaiheessa, kun esitetään totuudenvastaisia väitteitä tässä salissa, ja minusta
+tuntuu todellakin kummalliselta se, miksi tästä yritetään nyt tehdä hallintarekisteriesitystä,
+vaikka tässä selkeästi laitetaan arvopaperiasetus voimaan. Kun itse olen ollut Euroopan
+parlamentissa nimenomaan tämän EU-asetuksen Suomi-poikkeuksen sinne sisälle saamas-
+sa, niin minusta on loistavaa, että me voimme Suomessa edelleenkin jatkaa suoraa omis-
+tusta, ja se on kaikkein tärkeintä, mitä me olemme saaneet viime kaudella sinne läpi. Siinä
+mielessä toivon, että me edelleenkin jatkamme sillä suoran omistuksen sallivalla linjalla,
+mutta otamme huomioon sen, mitä EU:ssa kilpailutilanne vaatii, elikkä silloin meidän täy-
+tyy pistää toimeen tämä asetus muilta osin. Olisin kysynyt arvon ministeriltä siitä, millä ta-
+valla tämä julkisuusasia tässä nyt voidaan sitten varmistaa. Kertokaa, muuttuuko joku täs-
+sä julkisuusasiassa. Se on minun mielestäni nyt keskeistä. Muilta osin toivon, että todella-
+kin ymmärretään, että nyt pistetään se arvopaperiasetus toimeen. Suomen poikkeuspykälä
+säilyy siellä.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+14.23 Eero Heinäluoma sd (vastauspuheenvuoro):  Arvoisa puhemies! Tämä hallintare-
+kisteri näyttää todellakin olevan tämmöinen kummallinen pöpö. Se ui tänne uudelleen ja
+uudelleen, vaikka eduskunta on eri yhteyksissä selvästi ilmoittanut, että ei halua omistusta
+piilottavia järjestelyjä. Voi ajatella niinkin, että tämä vaihtoehto, että ulkomaiden kautta
+tämä piilottelu tehdään, on meidän kannaltamme kaikkein huonoin vaihtoehto. Se johtaa
+siihen, että tietoa ei tule, ja sitten tulee monenlaista muuta ongelmaa tämän piilottelun
+kautta liittyen myös verotusseuraamuksiin.
+
+Kun täällä on kerrottu, että tämä EU-asetus antaisi kuitenkin mahdollisuuden siihen, että
+me voisimme panna kansallisesti tiukemmat normit myös ulkomaan toimintojen osalta
+suomalaisille toimijoille, niin tiedustelen ministeriltä: onko ministeri tutustunut tähän puo-
+leen, eli oletteko pyytänyt selvittämään, voiko Suomi tehdä tältä osin tiukemman lainsää-
+dännön, joka pakottaa myös suomalaiset ulkomailla toimimaan meidän lakiemme mukai-
+sesti?
+
+14.24 Markku Eestilä kok (vastauspuheenvuoro):  Arvoisa rouva puhemies! Kun tässä
+hallituksen esityksessä lukee, että esitys on annettava kiireellisenä, niin kysyisin ministe-
+riltä: mitä tapahtuu, jos Suomi nyt kieltäytyy tästä eikä pistä toimeen sitä, mitä EU-asetuk-
+sessa vaaditaan?
+
+14.24 Outi Alanko-Kahiluoto vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! To-
+della kummalliselta tuntuu tämä keskustelu täällä. Ei voi välttyä siltä vaikutelmalta, että
+jonkinlaista vatuloinnin tai petoksen makua tässä nyt on hallituksen taholta. (Eduskunnas-
+ta: Ohhoh!) Viime syksynä selkeästi hallituksesta ilmaistiin, että tämä esitys on nyt kuollut
+ja kuopattu ja sitä ei enää tuoda, ja kyllä minusta vaikuttaa siltä, että hallitus nyt puhuu osa-
+totuuksia esitellessään tätä lakia, sillä on kuitenkin niin, että vaikka suomalaisille ei olla
+sallimassa hallintarekisteröintiä poistamalla koko hallintarekisteröinnin kielto, niin kuiten-
+kaan Suomi ei edellytä nykyisen suoran omistuksen järjestelmämme jatkumista, minkä
+kuitenkin voisimme tehdä. Eli tässä on selvä poliittinen valinta tehty hallituksessa: avoi-
+muus vähenee. Miksi te ajatte tällaista esitystä? On pakko kysyä.
+
+14.25 Hannu Hoskonen kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Ihmette-
+len tätä opposition asennetta näihin asioihin. Te kaivelette kaikkia karmeita pelkoja josta-
+kin syvistä mustista syövereistä. (Välihuutoja vasemmalta) Varmaan te kohtapuoliin ette
+uskalla liikkua pimeän aikana ulkona, kun mörkö voi viedä teidät tai jotain muuta voi ta-
+pahtua. Aivan kuten ministeri asian esitteli — ja viittaan edustaja Essayahin äsken käyttä-
+mään puheenvuoroon — niin eihän tässä ole sen kummemmasta asiasta kysymys kuin Suo-
+men velvollisuudesta laittaa tämä arvopaperikeskusasetus täytäntöön, aivan kuten edusta-
+ja Essayah äsken totesi. Olisikohan parasta tässä talossa pikkuhiljaa ruveta tekemään sel-
+laista politiikkaa ja oppositionkin yhtyä siihen, että tässä maassa yritykset viihtyvät ja tän-
+ne kannattaa sijoittaa? Jos me jatkuvasti pelkoja ja mörköjä näemme, tässähän käy pian ai-
+kaa niin, että yritykset toteavat, että eihän tänne kannata investoida eikä tänne kannata
+tehdä yhtään mitään, ja meillä on sen jälkeen miljoona työtöntä lisää. Tätäkö te haluatte?
+Hyvänen aika, jatkuvaa pelottelua. En jaksa ymmärtää teidän asennettanne, en millään.
+
+14.27 Antti Lindtman sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Se on tiedet-
+ty, että kokoomus ja ministeri Stubb tätä hanketta ajavat härkäpäisesti, mutta se on nyt uu-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+tinen, että keskusta on liittynyt tähän joukkoon. Kukaan täällä ei ole vastustanut sitä, että
+tämän arvopaperiasetuksen mukainen lainsäädäntö laitetaan voimaan täällä, tehtäköön se
+selväksi. Ja vielä mitä tulee tähän kysymykseen, minkä Essayah nosti esiin, niin kyllä, mei-
+dän on laitettava tämä oma lainsäädäntömme, emmekä sitä vastusta, (Hannu Hoskonen:
+Kuinka se tehdään?) mutta, arvoisa puhemies, nyt tämä porsaanreikä, joka tänne jää yhti-
+öille, mahdollisuus laskea ulkomaisten keskusten kautta, itse asiassa saattaa jopa vaaran-
+taa tämän koko Suomi-poikkeuksen. Se on vähän sama asia kuin jos sanottaisiin, että Al-
+kolla on vain osittain tämä monopoli, se saattaisi vaarantua tästä.
+
+Arvoisa puhemies! Kysyn nyt ministeriltä: oletteko valmiita täydentämään esitystä ja
+kieltämään tämän porsaanreiän, jonka olette tänne ujuttaneet?
+
+14.28 Paavo Arhinmäki vas (vastauspuheenvuoro):  Arvoisa puhemies! Ei oppositio pe-
+lottele tai mörköjä jahtaa. Oppositio toi viime syksynä voimakkaasti esille sen, että me
+olemme neuvotelleet arvopaperiasetukseen poikkeuksen, meidän ei tarvitse hyväksyä hal-
+lintarekisteröintiä, me korjasimme ministerin vääriä tietoja. Se on nimenomaan opposition
+tehtävä. Ja se on selvää, että arvopaperikeskusasetus pitää laittaa voimaan, mutta se, mitä
+me kritisoimme, on se, että haudatuksi ja kuopatuksi luvattu hallintarekisteröinti tai omai-
+suuden piilottelu ollaan tuomassa nyt tällä esityksellä takaportin kautta, ja tämän takapor-
+tin me haluamme tukkia. Toivoisin, että edustaja Hoskonen olisi sillä linjalla, millä esimer-
+kiksi keskustan edustaja Anttila oli vielä viime syksynä — sanoi, että tätä ei pidä edistää —
+ja edustaja Turunen talousvaliokunnan puheenjohtajana on ollut hyvin kriittinen julkisuu-
+dessa tätä nykyistäkin esitystä kohtaan.
+
+14.29 Mikko Kärnä kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Vaikka suo-
+malaisyhtiöt ovat voineet laskea liikkeelle osakkeita ulkomaisissa arvo-osuusjärjestelmis-
+sä syyskuusta 2014, niin meillä ei ole tiedossa yhtään tapausta, että tällaista olisi koskaan
+tapahtunut. Tämä mahdollisuus on tälläkin hetkellä olemassa, ja yksiselitteisesti, kuten mi-
+nisteri asian esitteli — kiitos esittelystä — me emme ole tällä esityksellä laajentamassa hal-
+lintarekisteröintiä yhtään minnekään.
+
+Haluaisin kyllä kuulla nyt oppositiolta näitä näkemyksiä siitä, minkälaisia kansallisia la-
+keja me voimme muka laatia, joissa voisimme rajoittaa EU-asetusta tai ulkomaiden lain-
+säädäntöä. Minä en ainakaan tiedä, että tällaisia lakeja kyettäisiin säätämään. Haluan myös
+muistuttaa, että tämä on valtiovarainministeriön lisäksi myös oikeusministeriön arvio, että
+tällä tavalla ei voida toimia.
+
+14.30 Timo Harakka sd (vastauspuheenvuoro):  Arvoisa puhemies! Valtiovarainministe-
+rin puheiden suhteen on todellakin syytä olla tarkkana. Ministeri painotti kolmeen kertaan,
+että arvo-osuuslakiesitys ei laajenna hallintarekisteröintiä Suomessa, avainsana on "Suo-
+messa", mutta tämä esitys laajentaa ulkomaille. Nykyään laiton menettely tulee lailliseksi.
+Esityksessä on siis porsaanreikä, joka romuttaa tämän Suomen erinomaisen mallin. Kuu-
+limme, että Suomi ei voi vaikuttaa ulkomaisten hallintarekistereiden toimintaan. Ei tieten-
+kään, mutta Suomi ja Suomen eduskunta voi vapaasti ja sen velvollisuus on säätää laki,
+joka estää Suomen kansalaisia siirtämästä omistusta ulkomaiseen hallintarekisteriin. Mi-
+nisteri Stubb, lisätäänkö tällainen säädös lakipakettiin, jotta tämä erinomainen Suomen
+malli saadaan säilytettyä, niin kuin erittäin voimakas kansallinen tahto viime talvena vaa-
+ti? Ehkä muistatte.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+14.31 Kaj Turunen ps (vastauspuheenvuoro): Arvoisa puhemies! Tässä tulee mieleen sa-
+nonta, että työmies on palkkansa ansainnut. Kyllä valtiovarainministeri koko palkan edes-
+tä saa ryöpytystä tässä salissa.
+
+Tämä arvopaperikeskusasetus. Hallituksen esitys on nyt annettu. Onhan se erilainen
+kuin se, mikä oli aikaisemmin tyrkyllä ja tarjolla. Käsittelystä sen verran, että talousvalio-
+kunta ryhtyy tätä hallituksen esitystä ensi viikolla käsittelemään. Me tulemme käsittele-
+mään sen hyvin huolellisesti, ja mitä tulee pelkotiloihin tai sanoihin, mitä täällä on sanottu,
+niin kyllä tässä kaikilla meillä on yhteinen tahto, että avoimuus tässä säilyy. Kyllä talous-
+valiokunnassa varmaan sitten katsotaan, että meidän kaikkien yhteinen tahtotila tältä osin
+myöskin lainsäädännön kautta toteutuu.
+
+14.32 Li Andersson vas (vastauspuheenvuoro):  Arvoisa puhemies! Jos tässä salissa on
+kuulun ymmärtämisessä ongelmia, niin minusta tuntuu, että se on kyllä hallituspuolueiden
+keskuudessa. (Eero Heinäluoma: Osassa!) Itse asiassa valtiovarainministeri Stubb kuvasi
+tämän opposition esille nostaman ongelman varsin hyvin omassa esittelypuheenvuoros-
+saan. Tämä esitys ei tarkoita sitä, että hallintarekisteröintiä mahdollistetaan Suomessa.
+Mutta se kyllä mahdollistaa sen, että suomalaiset sijoittajat voivat käyttää hallintarekiste-
+riä ulkomaalaisten arvopaperikeskusten kautta. Tämä on se ensimmäinen ongelma, jonka
+oppositio nyt on nostanut esille, ja se luo aivan selvän porsaanreiän tähän järjestelmään.
+
+Toinen ongelma on se, että hallitus ei myöskään käytä niitä mahdollisuuksia, mitä hal-
+lituksella olisi tämän porsaanreiän tukkimiseksi. Minäkin haluan kysyä valtiovarainminis-
+teri Stubbilta: Miksi hallitus ei ole ottanut lähtökohdaksi sitä, että arvopaperikeskusten
+myös tulee tarjota näitä suoraan omistukseen perustuvia tilejä? Tuleeko hallitus esimerkik-
+si esittämään, että luodaan sanktioita niille sijoittajille, jotka rikkovat tätä hallintarekisteri-
+kieltoa?
+
+14.33 Markku Eestilä kok (vastauspuheenvuoro):  Arvoisa rouva puhemies! Minulla on
+se käsitys, että yksi EU:n peruspilareita on se, että on vapaa pääomien liikkuvuus. Jos tääl-
+lä salissa nyt esitetään opposition puolelta, että pitäisi säätää laki, jolla estetään Suomen
+kansalaisia viemästä pääomia ulkomaille ja sijoittamaan ne siellä, kuinka haluavat, noudat-
+taen EU-lakia, niin onhan tämä keskustelu aika erikoista. Minä nyt kehottaisin kuitenkin
+vähän arvioimaan, että jos me aikanaan olemme menneet EU:n jäseneksi, niin pidetään
+niistä periaatteista kiinni. Jos sitten halutaan, että erotaan EU:sta ja siirrytään markkaan,
+niin tänne tulee kyllä Väyrysen aloite, voitte kannattaa sitä. (Naurua)
+
+14.33 Sari Essayah kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Me emme todel-
+lakaan voi estää sitä, että muualla Euroopassa hallintarekisteri on hyvin yleinen muoto. Tä-
+näkin päivänä on ihan laillista perustaa sijoitusyhtiö johonkin toiseen maahan ja sitä kautta
+sijoittaa suomalaisiin osakkeisiin ja maksaa niistä verot ihan normaalisti siellä maassa,
+missä tämä sijoitusyhtiökin sattuu olemaan. Siinä ei ole mitään sellaista, mikä olisi jolla-
+kin tavalla niin kuin veronkiertoa tai jollakin tavalla rikollista toimintaa. Siinä mielessä
+tuntuu, että tämä keskustelu on aika erikoista. Toivoisinkin, että todellakin ymmärrettäi-
+siin se, että me emme ole luopumassa siitä Suomen hyvästä suoran omistamisen järjestel-
+mästä.
+
+Ehdottomasti, kun olen itse ollut sitä asiaa EU:ssa parlamentissa edistämässä, niin totta
+kai toivon, että se edelleenkin jatkuu ja tämä läpinäkyvyys meillä suomalaisessa osake-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+omistamisessa säilyy. Tosiaan vielä vetoan ministeriin, että ministeri erityisen huolellises-
+ti tätä julkisuuspuolta nyt toisi esille, muuttuuko mikään tämän julkisuuden suhteen (Puhe-
+mies koputtaa) ja tietojen saannin suhteen nyt suomalaisille.
+
+Puhemies Maria Lohela:  Vielä edustajat Aalto, Kalmari, Skinnari, Hoskonen, Sarkki-
+nen, ja sitten tarjoan ministerille mahdollisuutta vastata, ja sitten katsotaan, halutaanko vie-
+lä keskustella. 
+
+14.35 Touko Aalto vihr (vastauspuheenvuoro):  Rouva puhemies! Olisi täysin riittävää,
+että esityksessä todettaisiin se, että suomalaisella yhtiöllä on vapaa liikkeeseenlaskuoikeus
+missä tahansa EU-jäsenvaltiossa. Mutta tällöin pitäisi pystyä vaatimaan — ja Suomella on
+täysi komissionkin antama mahdollisuus vaatia — että kyseessä olevaan maahan sijoitettu
+arvopaperikeskus tarjoaisi myös suoria tilejä, joiden perusteella yhtiö voisi ylläpitää ajan-
+tasaisia osakasluetteloita. Tämä voitaisiin myös tehdä tähän yhteyteen niin, että sanktioi-
+daan, jos joku toimii toisella tapaa. Niin me pystymme hillitsemään tätä hallintarekiste-
+röintiä. Kaikki mahdollisuudet teillä on. Komissio antaa Suomen hyvän mallin säilyä. Te
+päätätte, kuinka tässä toimitaan.
+
+14.36 Anne Kalmari kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Suomen
+hyvä malli säilyy, ja me emme todellakaan voi eurooppalaisiin hallintarekisterikeskuksiin
+suomalaisella lainsäädännöllä vaikuttaa. Mutta halusinkin tämän puheenvuoron sen takia,
+että tiedän, että valtiovarainministeri Stubb ja muut henkilöt, jotka ovat EU:ssa vaikutta-
+neet, ovat vieneet kovasti tätä läpinäkyvyyden periaatetta eteenpäin. Kysyisinkin, jos mah-
+dollista, voisiko ministeri avata hieman tätäkin puolta. Mitä toimia yritetään tehdä sen hy-
+väksi, että veronkierto ei jatkossa olisi mahdollista?
+
+14.36 Ville Skinnari sd (vastauspuheenvuoro):  Arvoisa puhemies! Miksi me olemme
+huolissamme? Vuonna 2010 tehdyn tutkimuksen mukaan kansainvälisen sijoitustoimin-
+nan tuotoista jätettiin ilmoittamatta noin 800 miljoonaa euroa, eli puhumme aika isosta
+asiasta. Tähän liittyen toteaisin sen, että minä pyydän tutustumaan myös tähän asetukseen,
+lukemaan sen sanasta sanaan EU-tasolta, koska se, mitä asiantuntijat sanovat niin Brysse-
+lissä kuin täällä Helsingissä, antaa kyllä aivan toisenlaisen kuvan kuin mitä tänään täällä on
+keskusteltu. (Touko Aalto: Juuri näin!) Talousvaliokunta, kuten meidän puheenjohtajam-
+me totesi, tulee varmasti paneutumaan ja kampaamaan tämän todella huolella: mistä on ky-
+symys, mihin tämä johtaa, ja miten me voimme yhtenäisesti ehkä vaikuttaa siihen, että
+tämä suomalainen malli tulisi malliksi koko Euroopalle. Tämä on hyvä malli, joten vie-
+dään sitä eteenpäin. 
+
+14.37 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! On hyvä,
+että edellisissä puheenvuoroissa edustaja Essayah ja edustaja Eestilä nostivat esille todel-
+lakin sen, että Suomessa järjestelyt ovat kunnossa ja tämä nyt esillä oleva asia täydentää
+tätä Euroopan unionin antamaa velvoitetta meille ja laitamme tämän asetuksen ajan tasalle
+tässä maassa. Pitää muistaa sekin tosiasia, että yritystoiminta hakeutuu sellaisille alueille,
+joissa yritystoiminta on kannattavaa. Jos me rupeamme pakkosääntöjä tekemään — kun
+olemme, kuten edustaja Eestilä totesi, valinneet tämän Euroopan unionin avoimen talou-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+den maailman, jossa yritykset voivat vapaasti valita maan, minne he sijoittuvat — ovatko
+yritykset täällä vai menevätkö lahden eteläpuolelle tai minne ne menevät?
+
+Tärkeää on saada tämä suomalainen talouselämä kuntoon. Esimerkiksi tämä yhteiskun-
+tasopimus, jota nyt on väännetty hyvin pitkään, on yksi askel tässä ketjussa, jotta saamme
+tämän suomalaisen systeemin pelaamaan, työpaikkoja syntymään ja valtiontaloutta terveh-
+dytettyä. Samalla se vaikuttaa kotitalouksiin hyvin positiivisesti. Jos me jatkuvasti näem-
+me joka asiassa mörköjä, se johtaa siihen, että meitähän ruvetaan pelkäämään, ja sellaiseen
+maahan ei kukaan yritys halua edes sijoittaa saatikka sitten muuta toimintaa harkita. (Outi
+Alanko-Kahiluoto: Ei saa pelotella!) — Minä kerroin vain, miten asia on. 
+
+14.38 Hanna Sarkkinen vas (vastauspuheenvuoro):  Arvoisa puhemies! Suomen lainsää-
+däntöä on todellakin tarpeen yhteensovittaa EU:n sääntelyn kanssa. Tämä yhteensovitta-
+minen on viivästynyt, sillä valtiovarainministeriö on halunnut käyttää tätä uudistustarvetta
+tekosyynä uittaa hallintarekisteriä Suomeen toistuvasti. Jo kolme hallintarekisteröintiesi-
+tystä on kaatunut, ja samalla tämä sinänsä tarpeellinen lainsäädännön uudistustyö on jää-
+nyt vaiheeseen. Me tarvitsemme lainsäädännön uudistusta, mutta me emme tarvitse hallin-
+tarekisteröinnin laajentamista.
+
+EU-säädännön mukaan yhtiöillä tosiaan on oikeus valita, missä ne laskevat arvopape-
+rinsa liikkeelle, eikä Suomi voi määrätä sitä, miten ulkomaalaiset arvopaperikeskukset toi-
+mivat. Sen sijaan Suomi voi säätää lakeja, joilla velvoitetaan suomalaisia yhtiöitä tai sijoit-
+tajia noudattamaan tiettyjä sääntöjä. Tässä lakiesityksessä ei kuitenkaan valitettavasti esi-
+merkiksi esitetä yhtiölle vaatimusta tuntea todelliset omistajat tai suomalaisille sijoittajille
+sanktioita, mikäli he käyttävät hallintarekistereitä. Näitä keinoja kannattaisi miettiä, sillä
+emme kai halua helpottaa veronkiertoa ja (Puhemies koputtaa) harmaata taloutta? 
+
+Puhemies Maria Lohela: Sitten ministeri Stubb, 5 minuuttia puhujakorokkeelta. 
+
+14.40 Valtiovarainministeri Alexander Stubb: Arvoisa puhemies! Kiitos edustajille ky-
+symyksistä ja kommenteista. Ehkä tähän alkuun kaksi yleistä havaintoa. Yritän sitten pur-
+kaa sitä hyvien kysymysten sumaa, jonka äsken kuulimme. 
+
+Ensimmäinen yleinen huomio on tietysti se, että koko arvopaperikeskusasetushan perus-
+tuu yhteen EU:n perusvapauksista eli siihen, että pääomat meidän alueellamme vapaasti
+liikkuvat. Toinen huomio liittyy asetuksen asemaan EU-lainsäädännössä. Sitähän sovelle-
+taan sellaisenaan suoraan meidän kansalliseen lainsäädäntöömme päinvastoin kuin esimer-
+kiksi direktiiviä, joka pitää ikään kuin hengessään tuoda meidän lainsäädäntöömme mutta
+jota ei sovelleta sellaisenaan. Meillä todellakin on hallintorekistereiden kohdalta tässä
+poikkeama. 
+
+Tässä tuli muutamia kysymyksiä. Ehkä ensimmäinen oli, miksi suomalaisille sijoittajil-
+le on sallittua hallintarekisteröidä ulkomailla suomalaisia osakeomistuksiaan, eikö se ole
+vastoin Suomen lakia — se oli ehkä yksi tällainen kysymysrypäs, joka näkyi. Minä haluan
+uudemman kerran korostaa, että tämä lakiehdotus ei sisällä hallintarekisteröinnin laajenta-
+mista Suomessa, niin kuin moni tässä matkan varrella totesi, mutta tämä ei kuitenkaan vai-
+kuta ulkomaiden lainsäädäntöön. Jos suomalainen pörssiyhtiö laskee osakkeita liikkee-
+seen toisessa EU-maassa, säilytykseen sovelletaan EU:n arvopaperikeskusasetusta ja ky-
+seisen maan lainsäädäntöä. Hallintarekisteröinti, kuten totesin, on käytössä useimmissa
+EU-maissa, esimerkiksi Ruotsissa ja Saksassa, emmekä me voi omalla lainsäädännölläm-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+me rajoittaa tätä EU-asetusta tai muiden maiden lainsäädäntöä. Se on se lähtökohta tähän
+näin. 
+
+Toinen kysymysrypäs, joka lähti liikkeelle: Oikeastaan koko ajan kysytään, onko hallin-
+tarekisteröinti mukana tässä esityksessä. Kyllä minä edelleen vastaan siihen, että me emme
+esitä hallintarekisteröinnin laajentamista. Laki tulee kieltämään yksiselitteisesti tulevai-
+suudessakin tilinhoitajia, esimerkiksi pankkeja, hallintarekisteröimästä suomalaisten si-
+joittajien osakkeita suomalaisessa arvo-osuusjärjestelmässä. 
+
+Sitten tässä oli kysymyksiä siitä, miksemme sitten rajoita ikään kuin sijoittajan toimia.
+Edustaja Lindtman, miksemme rajoita sijoittajan toimia sitten noin muutoin? No, siis si-
+joittajan velvollisuus käyttää suoraa tiliä ulkomailla ei perustuisi mihinkään EU-säännök-
+seen. Kyse olisi siis puhtaasti kansallisesta lisäsääntelystä, joka kohdistuisi vain suoma-
+laisten yhtiöiden osakkeisiin. Tässä on sellainen perusongelma, että jos me katsomme Hel-
+singin pörssiä, niin viimeisten lukujen mukaan, joita olen nähnyt — ja olen varovainen
+prosenttilukujen kanssa — noin 46 prosenttia Helsingin pörssistä on ulkomaalaisten omis-
+tuksessa. Meidän pelkomme tietysti tässä vaiheessa on, että jos tämä ehdotus ohjaisi sijoit-
+tajat sijoittamaan ulkomaalaisiin osakkeisiin tai muihin arvopapereihin, niin tällä voisi olla
+negatiivisia pitkän aikavälin vaikutuksia suomalaisten yritysten pääoman saantiin, inves-
+tointiin ja sitä kautta työllisyyteen. Tästä kärsisivät etenkin pienet pörssiyhtiöt ja listausta
+suunnittelevat yhtiöt. Lisäksi Suomessa ei ole sijoittajaa valvovaa viranomaista, eli ulko-
+mailla tapahtuvaa toimintaa ei edes pystyttäisi valvomaan Suomesta käsin.
+
+Sitten oli yksi kysymysrypäs, joka liittyy ikään kuin julkisuuteen, viranomaisten tieto-
+jen saantiin ja verotietojen vaihtoihin. Osakasluettelohan on siis edelleen saatavissa ihan
+niin kuin ennenkin, siis Suomessa liikkeelle lasketun osakkeenomistajaluettelo, Euroclear
+Finlandista, kuten nytkin, ja osakasluettelossa näkyy jo loppuomistaja ja hallintarekiste-
+röinnin hoitaja. Taas ulkomailla liikkeelle lasketun osakkeen omistajaluettelo on saatavilla
+yhtiön pääkonttorista, ja osakasluettelossa näkyy joko loppuomistaja tai hallintarekiste-
+röinnin hoitaja. Viranomaisten tietojen saanti: se tulee edellyttämään paljon tietojen vaih-
+toa, ja siihen me pyrimme jatkuvasti puuttumaan ja keskittymään sekä OECD:n tasolla että
+EU-tasolla ja sitten totta kai myös valtioiden välisten sopimusten kautta. Eli veroviran-
+omaisten tietojen saanti turvataan kansainvälisellä automaattisella verotietojen vaihdolla,
+ja kansainvälisellä automaattisella tietojen vaihdolla saatu tieto on ensisijaisesti kuitenkin
+vain veroviranomaisten käytettävissä. 
+
+Siinä oli kutakuinkin se kysymysrypäs, jonka tuosta äsken kirjasin. Ehkä vielä edustaja
+Turusen huomioon: Todellakin tämähän menee nyt valiokuntakäsittelyyn. Minusta on hir-
+veän tarkkaa ja hirveän tärkeää, että valiokunta käy tämän juurta jaksain läpi. Se on, totta
+kai, moneen otteeseen käyty läpi. Tässä taidettiin mainita kolme kierrosta hallintarekiste-
+rikokonaisuutta meidän eri viranomaistemme toimesta, meidän ministeriöissämme, ja tot-
+ta kai se on käynyt myös, kuten ehkä edustaja Skinnari taisi todeta, valiokunnissa useaan
+otteeseen. Nyt kannattaa katsoa, mikä on EU-lainsäädännön ja meidän lainsäädäntömme
+puitteissa mahdollista, ja kuulla sitten siitä asiantuntijoita. Me olemme nyt pohjanneet tä-
+män esityksen parhaaseen mahdolliseen olevassa olevaan tietoon, ja tämä esitys — todel-
+lakin vielä kerran korostan — ei sisällä hallintarekisteröinnin laajentamista Suomessa. 
+
+Puhemies Maria Lohela:  Sitten on ilmeisesti vielä halua jatkaa keskustelua, edustaja
+Lindtman.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+14.45 Antti Lindtman sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Ensinnäkin,
+ei kukaan täällä ole esittänyt, että täällä Suomen lainsäädännöllä ruvettaisiin säätelemään
+ulkomaisia arvopaperikeskuksia. Ei se ole mahdollista. Mutta se, mitä voidaan tehdä, min-
+kä te mielestäni äsken tunnustitte, on se, että me voisimme omalla lainsäädännöllämme
+kieltää suomalaisia yhtiöitä hallintarekisteröimästä ulkomaiden kautta. Mutta sanoitte juu-
+ri äsken, että ette halua sitä tehdä. Eli tämmöinen mahdollisuus on olemassa. Eli tämä por-
+saanreikä, joka tänne on nyt ujutettu, on mahdollista tilkitä, ja siihen muuten on olemassa
+malli: VM:n virkamiesmuistio 2014. Siellä on olemassa valmis malli, mutta te ette halua
+ottaa sitä käyttöön. Ja mikä pahinta, nyt kun tämä porsaanreikä tänne jää, niin se voi vaa-
+rantaa tämän Suomen saaman poikkeussäännön. Nimittäin se on vain sillä ehdolla, että
+kansallista lainsäädäntöä ei ole kumottu, muutettu tai sen tavoitteet eivät ole enää ajankoh-
+taisia. Tämä porsaanreikä saattaa vaarantaa Suomen poikkeuksen. Toivottavasti se ei ole
+teidän tavoitteenne koko tämän ajatuksen takana, kun te toitte tämän porsaanreiän. Vielä
+kerran: miksi ajatte tätä kuin käärmettä pyssyyn?
+
+14.47 Eero Suutari kok (vastauspuheenvuoro):  Arvoisa rouva puhemies! Me tarvitsem-
+me kipeästi suomalaista työtä, ja suomalainen työ syntyy investoinneista, ja investoinnit
+tarvitsevat pääomia. Jos meillä Suomessa on erilainen lainsäädäntö tänne tuleville ja omil-
+le pääomillemme, niin miten suomalaisen työn käy? Kysymys valtiovarainministerille.
+
+14.47 Timo Harakka sd (vastauspuheenvuoro): Arvoisa puhemies! Ministeri Stubb väis-
+ti suorastaan pujottelijan notkeudella tämän itse kysymyksen. Tosiasiahan on, että tämä
+esitys laajentaa hallintarekisteröintiä, ei Suomessa mutta ulkomailla. (Eduskunnasta: Juuri
+näin!) Hän sanoi, että emme voi vaikuttaa muiden maiden lainsäädäntöön. No, emme tie-
+tenkään, mutta voimme vaikuttaa Suomen lainsäädäntöön täällä Suomen eduskunnassa.
+Kysyn siis vielä uudestaan kysymyksen: haluatteko lisätä tähän lakipakettiin sellaisen
+säännöksen, joka pitää voimassa nykyisen Suomen mallin siten, että suomalaisia sijoittajia
+estetään siirtämästä omistuksiaan ulkomaisiin hallintarekistereihin, niin että tämä erin-
+omainen Suomen malli säilyy, että tämä porsaanreikä tukitaan? (Outi Alanko-Kahiluoto:
+Hyvä kysymys!)
+
+14.48 Li Andersson vas (vastauspuheenvuoro): Arvoisa puhemies! Ensinnäkin tästä ylei-
+söjulkisuudesta, joka on noussut esille monissa puheenvuoroissa: valtiovarainministerin
+oma virkamieshän on todennut muun muassa Yleisradiolle, että jos suomalaiset sijoittajat
+alkavat käyttää tätä mahdollisuutta käyttää hallintarekisteriä ulkomaiden kautta ja jos ei
+ryhdytä toimenpiteisiin Suomessa näiden porsaanreikien tukkimiseksi, niin se tulee vaikut-
+tamaan yleisöjulkisuuteen, eli todennäköisesti yleisöjulkisuus ei tule säilymään nykytasol-
+la.
+
+Minäkin haluan toistaa kysymykset valtiovarainministeri Stubbille siitä, miksi hallitus
+ei käytä niitä mahdollisuuksia, mitä hallituksella on näiden porsaanreikien tukkimiseksi.
+Eli miksi hallitus ei esimerkiksi edellytä tämän artikla 38:n poikkeuksen nojalla, että näi-
+den arvopaperikeskusten tulee tarjota suoraan omistukseen perustuvia tilejä, ja tuleeko hal-
+litus esittämään, että hallintarekisteröintikieltoa rikkoville tulee sanktioita?
+
+14.49 Touko Aalto vihr (vastauspuheenvuoro): Arvoisa rouva puhemies! Koska uskon ja
+oletan, että valtiovarainministeri Stubb vastaa edustaja Harakan ja Anderssonin kysymyk-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+seen, niin kysyn hieman toista asiaa. Hallituksen esityksestä herää kysymys, onko hallituk-
+sen tarkoituksena olla aktiivisesti käyttämättä hyväkseen Suomi-poikkeusta eli suoran
+omistuksen järjestelmän jatkumista. Tässä ihmisillä on pelko nimenomaan siitä, että ikään
+kuin portit aukeavat, että suomalaiset yhtiöt voivat alkaa laskea liikkeelle osakkeita muun
+muassa luxemburgilaisessa arvopaperikeskuksessa, joka ei tarjoa mitään muuta kuin sitä
+hallintarekisteröintiä. Tämän porsaanreiän me tahdomme tukkia. Siihen on olemassa kei-
+not. Vastatkaa: kuinka tahdotte tehdä?
+
+14.50 Ville Skinnari sd (vastauspuheenvuoro): Arvoisa puhemies! Haluaisin todeta sen,
+että kyllähän tässä on se tilanne, että suomalaisen pääoman saanti tai listautuminen muka ei
+toimisi. Meillähän on ollut hieno tilanne siinä, että päinvastoin kuin usein väitetään, mei-
+dän pörssiin on tullut lisää listautumisia ja listautuminen on siinä mielessä piristynyt. Ja to-
+teaisin myös sen, että suomalainen malli edelleen on hyvin hintakilpailukykyinen. Maksaa
+suunnilleen yhden lounaan, noin 7 euroa, tehdä yksi kauppa, kun se esimerkiksi Lontoossa
+on ehkä noin 20 euroa.
+
+14.51 Hanna Sarkkinen vas (vastauspuheenvuoro):  Arvoisa puhemies! Voimassa oleva
+arvopaperikeskusasetus turvaa Suomen nykyisen suoraan omistukseen perustuvan mallin
+säilyttämisen. Ja Suomen malli on tehokkaan verottamisen ja harmaan talouden torjunnan
+kannalta paras olemassa olevista järjestelmistä. Poikkeussääntö on kuitenkin voimassa
+vain niin kauan kuin kansallista lainsäädäntöä ei ole muutettu tai kumottu ja sen tavoitteet
+ovat edelleen voimassa. Jos Suomi nyt lipsuu vaatimuksestaan suomalaisten suorasta
+omistuksesta ja näkemyksestään suoran omistamisen tavoiteltavuudesta ja parhaudesta, on
+kyseenalaista, onko tämä Suomen neuvottelema erittäin hyvä poikkeuspykälä enää voi-
+massa. Haluaisinkin kysyä ministeriltä, näettekö tämän uhkakuvana vai onko tämä kenties
+jopa esityksen taustatarkoitus.
+
+14.51 Antti Lindtman sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Tämän kes-
+kustelun uutinen on se, että te myönsitte, että tällainen kansallinen lainsäädäntö, jolla tämä
+porsaanreikä tukittaisiin, olisi mahdollista tehdä. Mutta sanoitte, että sitä ei haluta tehdä,
+että te ette halua tehdä kansallista sääntelyä suomalaisille yrityksille, koska pelkäätte yri-
+tysten rahoituksen saannin heikkenevän. No, ei sekään oikein pidä paikkaansa, nimittäin
+tämä meidän esittämämme korjaus, jolla korjattaisiin tämä Stubbin porsaanreikä, koskisi
+vain niitä suomalaisia yhtiöitä, jotka vaihtavat ulkomaiseen arvo-osuusjärjestelmään. Ja
+voi myös esittää kysymyksen, kärsisikö näiden yritysten rahoituksen saanti merkittävästi,
+(Eduskunnasta: Ei!) jos ne velvoitettaisiin käyttämään suoraa tiliä. No, kaikki tietävät, että
+ei kärsisi, joten tämäkin on vain tekosyy. Herää kysymys, ministeri Stubb, miksi te kerta
+toisensa jälkeen ajatte tätä kuin käärmettä pyssyyn.
+
+Puhemies Maria Lohela: Ministeri Stubb, 3 minuuttia. Siitä paikaltaankin voi puhua.
+
+14.53 Valtiovarainministeri  Alexander Stubb:  Kiitos, arvoisa puhemies! Muutama
+huomio näihin kysymyksiin. 
+
+Ensimmäinen liittyy siihen, miten suomalaisen työn käy. Ja nythän tietysti aina, kun pu-
+hutaan taloudellisista kokonaisuuksista, on vaikeaa hahmottaa, mikä on rahoitusmarkki-
+noiden merkitys kokonaistaloudelle. Nehän toimivat ikään kuin kehon verisuonet tavalla
+12
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+tai toisella: ilman rahoitusmarkkinoita meillä ei ole yrityksiä, ja ilman yrityksiä meillä ei
+ole kasvua, tavaroita, palveluita, ja ilman näitä meillä ei ole myöskään tuotteita. Me pyrim-
+me, totta kai, maksimoimaan Suomessa sekä suomalaisen että kansainvälisen pääoman ja
+sitä kautta pitämään huolen siitä, että kehon verisuonet myös tulevaisuudessa työllistävät.
+Siihen liittyy sitten tämä varsinaisen EU-asetuksen toimeenpaneminen.
+
+Täällä on paljon käytetty sanaa "porsaanreikä", myös ehkä "käärmettä pyssyyn" on
+muutaman kerran ollut tässä esillä. Haluan vielä kerran sanoa, että tässä ei ole ujutettu jär-
+jestelmään minkäännäköistä porsaanreikää eikä ole pyritty ajamaan hallintarekisteriä kuin
+käärmettä pyssyyn vaan tämä ehdotus tulee suoraan EU-asetuksesta, ja me emme voi ko-
+timaisin keinoin sitä rajoittaa. (Välihuutoja vasemmalta) Minun ymmärtääkseni me emme
+voi sitä kotimaisin keinoin rajoittaa. Silloin te voitte katsoa tätä valiokunnassa todella tark-
+kaan, ja voimme vielä silloin käydä yhden keskustelun tämän kautta. Mutta minun käsityk-
+seni on, että sitä ei voi tehdä.
+
+Viimeinen huomio liittyy listautumisiin ja näihin investointeihin. Kyllä, pientä positii-
+vista pohjavirettä on Helsingin pörssissä, edustaja Skinnari. Meillä on tällä hetkellä 126
+yritystä Helsingin pörssissä, ja itse asiassa viisi on tullut lisää viime vuonna, kun taas First
+Northia on tällä hetkellä 16, ja niitä taisi tulla seitsemän lisää viime vuonna. Ja totta kai
+meidän tavoitteenamme on se, että mahdollisimman moni suomalainen yritys listautuu,
+mutta se tarkoittaa myös sitä, että me emme lähde radikaalisti rajoittamaan meidän rahoi-
+tusmarkkinoitamme ja pidämme kiinni niistä EU-lainsäädännöistä, jotka meille tuodaan. 
+
+Meillä nimenomaan on nyt hallintarekisteröintiin poikkeama ja nimenomaan oikeas-
+taan sen keskustelun kautta, jota me sekä julkisuudessa että sitten muutoin olemme tässä
+matkan varrella käyneet. Ja nyt sitten tämän jälkeen tämä esitys siirtyy valiokuntien käsit-
+telyyn ja asiantuntijakuulemisiin. Katsotaan, nouseeko sieltä vielä esille joitain erityisky-
+symyksiä.
+
+Puhemies Maria Lohela: Jatketaan puhujalistaan.
+
+14.55 Ville Skinnari sd:  Arvoisa puhemies! Ensinnäkin kiitos valtiovarainministerille
+vastauksista ja hyvästä keskustelusta. Tässä ovat tulleet jo esille oikeastaan ne isot asiat,
+joihin varmasti talousvaliokuntakin sitten asiantuntijakuulemisissaan tulee loppujen lo-
+puksi ottamaan kantaa.
+
+Mutta kun oikeastaan haluaisin jotain positiivistakin sanoa, niin vielä haluaisin todeta
+tästä Suomen mallista sen, että kyllähän se suomalainen läpinäkyvyys ja, voisi sanoa, täl-
+lainen ajankohtaisen tiedon olemassaolo ovat jotain sellaista, mistä ilman muuta meidän
+tulee ja pitää pitää kiinni. Meillä on samalla mahdollisuus kehittää tällä suomalaisella mal-
+lilla esimerkiksi digitaalisia palveluita, luoda suomalaisia innovaatioita, mikä tässä äsken-
+kin tuli esille, eli suomalaista työtä ja muun muassa tutkimustoimintaa, koska ala on kui-
+tenkin hyvin globaali, kuten me tiedämme.
+
+Mutta muutoksia on pakko tehdä, se on ihan selvä, ja asetuksia pitää noudattaa. Mutta
+millä tavalla ja miten niitä tulkitaan? Se on hyvä kysymys. Tähän liittyen pitää aina muis-
+taa, että eduskunnalla on mahdollisuus päättää monista asioista — tämä siis riippumatta
+siitä, toimitaanko Suomessa vai ulkomailla — kun kysymys on Suomesta ja suomalaisista
+sijoittajista. Eli todellisuudessa on selvää, että Suomi ei voi säännellä muiden maiden lain-
+säädäntöä, mutta Suomi kuitenkin voi myös käytännössä edellyttää suomalaisilta yhtiöiltä
+13
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+ja suomaisilta sijoittajilta suomalaisen sääntelyn noudattamista — siis suomalaisen sään-
+telyn noudattamista — riippumatta siitä, missä, miten ja milloin sijoittaja toimii.
+
+14.58 Hanna Sarkkinen vas: Arvoisa puhemies! Esitys arvopaperien hallintarekisteröin-
+nin mahdollistamiseksi suomalaisille sijoittajille kaatui viime vuonna kovalla rytinällä, ja
+hyvä niin, sillä asiantuntijoiden, kuten verottajan, syyttäjän, Tullin ja poliisin, mukaan hal-
+lintarekisteröinnin avaaminen helpottaisi veronkiertoa ja omistusten piilottamista ja vä-
+hentäisi yhteiskunnan avoimuutta. Tällä hetkellä Suomessa edellytetään arvopaperien suo-
+raa omistusta eli rekisteriin kirjataan arvopaperin todellinen omistaja. Hallintarekisteröin-
+nin salliminen tarkoittaisi sitä, että arvopaperien todellisten edunsaajien sijaan omistajaksi
+kirjataan vain arvopaperin säilyttäjä, yleensä pankki, ja tämä helpottaa omistusten piilotta-
+mista ja veronkiertoa. Käsittelyssä oleva arvopaperien säilyttämistä koskeva lakiesitys ei
+sinällään esitä hallintarekisteröinnin sallimista Suomessa, mutta se jättää oven auki omis-
+tusten julkisuuden hävittämiselle ja helpottaa omistusten piilottamista ja veronkiertoa ul-
+komailla.
+
+Suomi neuvotteli itselleen EU:n arvopaperiasetukseen poikkeussäännön, jolla mahdol-
+listetaan suoran omistuksen vaatiminen suomalaisilta sijoittajilta myös tulevaisuudessa.
+Nyt vaikuttaa kuitenkin siltä, että tällä esityksellä halutaan vesittää Suomen neuvottele-
+man asetuksen poikkeussäännös, jolla hallintarekisteröinnin kielto pidetään edelleen voi-
+massa suomalaisille Suomessa ja muissa EU-maissa. Jos poikkeussäännöt vesitetään, on
+todennäköistä, että varsinaisen hallintarekisteröinnin sallimista ryhdytään ajamaan myös
+Suomessa lähiaikoina.
+
+Lakiesityksen ongelma on siinä, että suomalaisille mahdollistetaan hallintarekisterin
+kautta omistaminen ulkomailla. Lakiesitys mahdollistaa suomalaisille omistamisen epä-
+suorasti hallitun arvo-osuustilin kautta ulkomaisissa arvopaperikeskuksissa, eli suomalai-
+silta ei enää jatkossa edellytettäisi arvopaperien suoraa omistamista, jos omistukset ovat
+ulkomaisessa arvopaperikeskuksessa. Lakiesityksessä velvoitetaan kyllä suomalaiset yh-
+tiöt varmistamaan sopimuksilla, että ne saavat ulkomaalaiselta arvopaperikeskukselta tie-
+dot osakasluetteloa varten. Kuitenkaan ei edellytetä, että näissä osakasluetteloissa lukisi
+todellinen omistaja, vaan esimerkiksi pelkkä hallintarekisteriä pitävän pankin nimi riittää.
+
+Arvoisa puhemies! Hallituksen esitys heikentäisi yleisöjulkisuutta, sillä se helpottaisi
+omistusten siirtämistä ulkomaille suomalaisen poliisin, syyttäjän, veroviranomaisten sekä
+median ulottumattomiin. Väärinkäytösten tutkinta vaikeutuisi, jos suomalaiset voisivat
+hallintarekisteröidä omistuksiaan ulkomailla. Kun hallintarekisteröinnistä tehdään nykyis-
+tä helpompaa ja siten kiinnijäämisriskikin pienenee, yksityishenkilöiden hallintarekiste-
+röinti todennäköisesti lisääntyisi nopeasti ja siten kerättävät pääomaverotulot voisivat jo
+muutamassakin vuodessa alentua.
+
+EU-lainsäädännön mukaan yhtiöillä on oikeus valita, missä ne laskevat arvopaperinsa
+liikkeelle, eikä Suomi tosiaankaan voi määrätä siitä, miten ulkomaalaiset arvopaperikes-
+kukset toimivat. Sen sijaan Suomi voisi kyllä halutessaan säätää lakeja, joilla velvoitetaan
+suomalaisia yhtiöitä tai sijoittajia noudattamaan tiettyjä sääntöjä, jos näin haluttaisiin teh-
+dä. Suomen lainsäädäntöä on tarpeen yhteensovittaa EU-sääntelyn kanssa, ja tämä yhteen-
+sovittaminen on valitettavasti näiden hallintarekisteröintikierteiden takia viivästynyt, mut-
+ta toivottavasti tarpeellinen uudistamistyö saadaan nyt tehtyä.
+
+Arvoisa puhemies! Toivottavasti lakiesitystä korjataan valiokuntakäsittelyn aikana.
+Tämä voitaisiin tehdä esimerkiksi siten, että edellytetään, että suomalaiset yhtiöt voivat va-
+14
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+lita liikkeellelaskupaikaksi vain markkinan, jolla sijoittajat voivat avata tilit omiin nimiin-
+sä, sekä vaaditaan yhtiöiltä omistajien tuntemusta. Laissa olisi myös syytä mainita selväs-
+ti, että Suomi haluaa säilyttää omistuksen julkisuuden ja suoran omistuksen turvaavan säi-
+lytysmallin. Lisäksi olisi tarpeen sanktioida hallintarekisteröinnin kiellon rikkominen. Täl-
+lä hetkellä hallintarekisteröinti on suomalaisille sijoittajille laitonta, mutta siitä ei tosiasias-
+sa rangaista.
+
+Arvoisa puhemies! Omistusten mahdollisimman suuri avoimuus on tärkeää valtioiden
+veropohjan varmistamisen ja rikollisuuden torjunnan kannalta. Markkinatalous voi toimia
+vain silloin, kun keskeiset toimijat ovat avoimia ja rehellisiä ja kaikki mahdollinen infor-
+maatio on saatavilla. Piilotetut omistukset lisäävät myös markkinahäiriön ja -kriisien ris-
+kiä samalla, kun ne vähentävät valtioiden veropohjaa ja mahdollistavat rikollisuutta.
+
+15.02 Li Andersson vas:  Arvoisa puhemies! Hallintarekisteristä on tullut eräänlainen
+suomalaisen politiikan ikiliikkuja. Kerta toisensa jälkeen on yritetty kilpailun edistämisek-
+si tai suomalaisten osakkeenomistajien kustannusten alentamiseksi esittää hallintarekiste-
+röinnin laajentamista koskemaan myös suomalaisia omistajia näin heikentäen osakkeen-
+omistusten yleisöjulkisuutta ja viranomaisten tiedonsaantimahdollisuuksia. Tässä lakiesi-
+tyksessäkin hallintarekisteri löytyy taas kerran, tosin kiertoteitse toteutettuna. Tilanne on
+erikoinen, sillä valtiovarainministeri Stubb ilmoitti vain noin neljä kuukautta sitten, että
+hallitus ei valmistele hallintarekisteriä uudestaan missään muodossa ja että hallintarekiste-
+ri on haudattu ja kuopattu. 
+
+Tällä hetkellä Suomessa suomalainen omistaja ei voi käyttää hallintarekisteriä vaan
+omistukset rekisteröidään suoraan oikean omistajan omissa nimissä arvopaperikeskuk-
+seen. EU:n arvopaperikeskusasetuksen myötä, joka tähtää arvopaperikeskusten toiminnan
+harmonisointiin eri EU-maissa sekä kilpailun lisäämiseen, on suomalaisen yhtiön jatkossa
+mahdollista laskea osakkeita liikkeelle ulkomaalaisten arvopaperikeskusten kautta. EU-
+asetuksen mukaan EU:ssa toimivien arvopaperikeskusten on tarjottava asiakkaille ainakin
+kaksi erilaista osakkeiden säilytysmallia. Voi käyttää joko yhteiseroteltua tiliä eli niin sa-
+nottua laaritiliä, jossa voi olla useamman eri asiakkaan omistuksia, tai yksilöllisesti erotel-
+tua tiliä, jossa on vain yhden asiakkaan omistukset. Valtiovarainministeriön tulkinnan mu-
+kaan yksilöllisesti eroteltu tili voi olla joko suoraan omistukseen pohjautuva tai pankin
+kautta tehty hallintarekisteröity tili. VM:n näkemyksen mukaan suomalaisessa lainsäädän-
+nössä ei voida määritellä, miten arvopaperien säilytys ja yksilöllinen asiakaserottelu järjes-
+tetään ulkomaalaisen arvopaperikeskuksen tai sen osapuolen järjestelmissä. Vaatimus suo-
+rasta omiin nimiin tehtävästä omistuksesta koskisi siis jatkossa vain tilanteita, joissa suo-
+malaisen yhtiön osakkeet ovat suomalaisen arvopaperikeskuksen kautta järjestettyjä. 
+
+Tästä syystä tämä esitys kyllä synnyttää tilanteen, jossa suomalaiset voisivat hallintare-
+kisteröidä omistuksensa ulkomaille. Se tarkoittaa, että omistusten yleisöjulkisuus heikke-
+nee ja viranomaisten tiedonsaantimahdollisuudet heikkenevät merkittävästi. Tämän tulkin-
+nan on vahvistanut muun muassa valtiovarainministeriön virkamies, joka Yleisradion
+haastattelussa on todennut, että kun yleisöjulkisuus kuitenkin on käytännössä sen varassa,
+mitä ulkomailla säädetään, niin jos arvopaperikeskustoiminta siirtyy ulkomaille, niin to-
+dennäköisesti yleisöjulkisuus ei tule säilymään nykytasolla. 
+
+Arvoisa puhemies! Viime hallituskaudella Suomi oli mukana neuvottelemassa arvopa-
+perikeskusasetukseen poikkeuksen, jonka tavoitteena oli mahdollistaa jatkossakin suoraa
+omistusta niissä maissa, joissa tämä hyvä ja toimiva käytäntö tällä hetkellä on käytössä.
+15
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+Sen mukaan arvopaperikeskuksen ja sen osallistujien on tarjottava yksilöllistä asiakaserot-
+telua sellaisen jäsenvaltion kansalaisille ja asukkaille ja siihen sijoittautuneille oikeushen-
+kilöille, jossa tätä edellytetään sen jäsenvaltion kansallisen lainsäädännön mukaisesti, jon-
+ka nojalla arvopaperit on luotu. Tätä velvoitetta sovelletaan niin pitkään kuin kansallista
+lainsäädäntöä ei ole muutettu tai kumottu, ja sen tavoitteet ovat edelleen voimassa.
+
+Tämän esityksen huomattava riski piilee siinä, että Suomi muuttaa nyt lainsäädäntöään
+tavalla, joka vaarantaa tämän poikkeussäännön soveltamista jatkossa. Nykyinen hallitus on
+siis omilla toimillaan vesittämässä poikkeussäännön, jonka eteen edellinen hallitus teki töi-
+tä juuri tämän Suomessa käytössä olevan suoraan omistukseen pohjautuvan mallin säilyt-
+tämiseksi. Vaikka Suomi ei VM:n tulkinnan mukaan omalla lainsäädännöllään voi sitoa ul-
+komaalaista arvopaperikeskusta, voi Suomi asettaa vaatimuksen suorasta omistuksesta
+suomalaisille sijoittajille.
+
+Aikaisempien kuulemiskierrosten yhteydessä useampi taho on ehdottanut, että hallinta-
+rekisteröinnin kiellon rikkominen tulisi sanktioida. Se olisi yksi tapa varmistua siitä, että
+omistusten julkisuus jatkuu Suomessa. Hallituksen pitäisi myös selvästi ilmaista, että ha-
+lutaan säilyttää omistusten julkisuus ja julkisuuden turvaava säilytysmalli. Vaikka yhtiöt
+voivat jatkossa vapaasti laskea osakkeitaan liikkeelle missä tahansa EU:ssa, tulisi edellyt-
+tää, että ulkomaalaiset arvopaperikeskukset tarjoavat suoraan omistukseen pohjautuvia ti-
+lejä. Tämän lisäksi vasemmistoliitto kannattaa lähdeveron asettamista hallintarekisteröi-
+dyille osingoille, koska se mahdollistaisi puuttumista nykyiseen hallintarekisteriin liitty-
+viin ongelmiin. 
+
+Lopuksi, arvoisa puhemies, toivon todella, että talousvaliokunta perehtyy tähän esityk-
+seen huolella, että myöskin tarkasti selvitetään kaikkia niitä mahdollisuuksia, mitä meillä
+kansallisen lainsäädännön nojalla on näiden porsaanreikien tukkimiseksi.
+
+15.08 Timo Harakka sd:  Arvoisa puhemies! Yksi tosiasia on käynyt selväksi tässä kes-
+kustelussa: Hallintarekisteröinti laajenee. Ei Suomessa vaan ulkomailla. Tällä hetkellä lai-
+ton menettely olisi tulossa lailliseksi. Kuulimme perusteluita, että EU vaatii sitä. Ei vaadi.
+Toistan vielä: EU ei estä meitä tekemästä lainsäädäntöä, joka ei heikentäisi suomalaisen
+omistuksen julkisuutta ja avoimuutta. Me voimme tehdä ja meidän täytyy tehdä täällä Suo-
+men eduskunnassa asiankuuluvat lait, ja se on meidän pakko tehdä, koska valtiovarainmi-
+nisteri ei ole joko kuullut tai ymmärtänyt viime talvena ilmaistua varsin voimakasta kan-
+sallista tahtoa Suomen mallin puolesta. Sitä halusivat kansalaiset, uskoakseni eduskunnan
+enemmistö sekä noin 90 prosenttia lausunnon antaneista viranomaisista: poliisi, Verohal-
+linto ja Tulli.
+
+Suomalaisten sijoittajien ulkomainen hallintarekisterioikeus romuttaisi sen poikkeuk-
+sen, jonka suomalaiset europarlamentaarikot — joista keskeisenä ministerin oma puolue-
+toveri Sirpa Pietikäinen — ansiokkaasti taistelivat. Toiston uhallakin: tähän lakipakettiin
+on saatava säädökset, jotka säilyttävät Suomen mallin eivätkä salli sen vesittyä. On hyvin
+erikoista, että ministeri ei ole edes selvittänyt tällaista vaihtoehtoa. Hän oli melko tietämä-
+tön ja epävarma siitä, voiko omaa lainsäädäntöä tehdä, ja vetosi, että valiokunta selvittä-
+köön. On melko uskomatonta, että valtiovarainministeri on jatkanut tätä oopperaa jo mon-
+ta vuotta mutta ei ole selvittänyt tätä ydinasiaa: voidaanko Suomen erinomainen malli säi-
+lyttää vesittämättömänä? Eivätkö valtiovarainministeriö ja valtiovarainministeri ole todel-
+lakaan ymmärtäneet tai eivätkö halua ymmärtää, miksi lakiesitys viimeksi ajoi seinään?
+16
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+Suomen mallia on siis puolustettava. Suomen mallia on puolustettava ennen kaikkea
+siksi, että se on parempi ja modernimpi kuin useimmissa Euroopan maissa. Valtiovarain-
+ministeri on useaan otteeseen todennut vähätellen, että suora ja avoin arvopaperiomistus on
+pakollinen vain muutamissa maissa, ikään kuin tämä itsessään olisi peruste heikentää sää-
+döstä, joka on Suomessa parempi kuin muualla. Monissa Euroopan maissa pyöräilykypärä
+ei ole pakollinen — pitäisikö meidän sen takia heikentää omaa lakiamme ja heikentää las-
+ten liikenneturvallisuutta?
+
+Valtiovarainministeri on samoin todennut muun muassa tässä salissa 26. marraskuuta,
+että "kylmä tosiasia on se, että tänä päivänä, jos suomalainen haluaa kätkeä osakeomistus-
+taan ulkomaille, sen pystyy erittäin helposti tekemään". Ja kun hänelle huomautettiin, että
+se on laitonta, hän totesi, että ilman muuta on laitonta. On erittäin erikoista, että valtiova-
+rainministeri perustelee hallituksen esitystä sillä, että koska laiton toiminta on helppoa, se
+pitää laillistaa. Oikea vastaus on tietenkin se, että laittomasta toiminnasta pitää rangaista.
+
+Tähän tarvitaan siis laki, joka nyt puuttuu. Onko se mahdollista? Kyllä se on. Tämä uu-
+tisena ministeri Stubbille. Itse asiassa valtiovarainministeriö ehdotti tätä itse kaksi vuotta
+sitten, joten meidän ei tarvitse kuin palata lakiesityksen aikaisempaan versioon. Valtiova-
+rainministeriö esitti itse, että poliittisesti vaikutusvaltaiset henkilöt eivät saisi siirtää omis-
+tustaan Suomesta ulkomaiseen hallintarekisteriin. Ei EU-asetus edellyttänyt mitään tällais-
+ta. Jos siis oli mahdollista estää suomalaisten omistuksen piilottaminen ulkomaille kaksi
+vuotta sitten, niin ilmeisesti se on valtiovarainministeriön mukaan mahdollista tänäänkin.
+EU-asetus ei siis vaadi heikentämään Suomen omistamisen avoimuutta, kunhan nämä tar-
+peelliset lisäykset lainsäädäntöön tehdään. 
+
+Jälleen kerran: Toisin kuin valtiovarainministeriö ja valtiovarainministeri väittävät,
+Suomen ei tarvitse heikentää omaa lakiaan, vaan EU-asetus toimii itse asiassa päinvastoin,
+se vie muuta Eurooppaa lähemmäksi Suomea. Asetushan vaatii niitä maita, joissa arvopa-
+perikeskukset tarjoavat vain yhteiseriteltyjä eli hallintarekisteröityjä tilejä, tarjoamaan
+myös yksilöllisesti eriteltyjä tilejä. Niistä ei kaikissa tapauksissa ilmene omistuksen lopul-
+linen haltija, mutta asetusta on aivan mahdollista tiukentaa. EU:ssahan on samaan aikaan
+voimakas tahto ja tarmo veronkierron ja veronvälttelyn estämiseksi. Direktiiviesitykset
+ovat juuri eduskunnan käsittelyssä. Verottamattomien tulojen, harmaan talouden ja rahan-
+pesun vastainen ohjelma tehostuisi, jos omistukset kautta Euroopan olisivat suoria ja jul-
+kisia kuten Suomessa. Sen sijaan, että hallitus nöyristelee — kaiken kukkuraksi vääristel-
+tyjen — EU-määräysten edessä, Suomi voi edistää veronkierron vastaista toimintaa Euroo-
+passa omalla esimerkillään puolustamalla määrätietoisesti suoraa ja julkista omistamista.
+
+Tosiasia siis on, arvoisa puhemies, että tämän lakiesityksen nojalla hallintarekisteröinti
+laajenisi. Ei voi kuin epäuskoisena ihmetellä tätä oopperaa, jossa hallintarekisteröinti tuo-
+daan jälleen eduskuntaan — ensimmäisellä kerralla torvet soiden, toisella kerralla sammu-
+tetuin lyhdyin. Olisi luullut, että poikkeuksellisen vahva kansallinen tahto olisi velvoitta-
+nut Suomen hallituksen puolustamaan ja suojelemaan Suomen mallia. Toisin kävi.
+
+15.14 Touko Aalto vihr:  Arvoisa rouva puhemies! Sama viesti kuin edustaja Harakalla,
+vähemmällä retoriikalla.
+
+Ongelma on siis se, että hallintarekisteröinti sallitaan epäsuorasti siten, että Suomi ei ak-
+tiivisesti käytä hyväkseen niin sanottua Suomi-poikkeusta eli edellytä nykyisen suoran
+omistuksen järjestelmän jatkumista muuttuvassa tilanteessa, kun arvopaperikeskustoimin-
+ta vapautuu kilpailulle. Ja jos näin toimitaan, kuten hallitus oman esityksensä mukaan esit-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+tää, suomalaiset yhtiöt voivat alkaa laskea liikkeeseen osakkeensa esim. Luxemburgissa,
+joka ei tarjoa mitään muuta kuin hallintarekisteröintiä. Jos nykyinen lainsäädäntö kumo-
+taan ja korvataan, on jatkossa niitä tulevia ongelmia vaikea korjata. Näin siksi, että EU:n
+arvopaperikeskusasetus sallii vallitsevan oikeustilan säilyttämisen vain niin kauan kuin
+sitä koskeva lainsäädäntö on voimassa — suomeksi sanottuna: jos vanha laki kumotaan,
+Suomen neuvottelema poikkeus kumoutuu. Ja mitä tulee siihen, mitä Suomi voi tehdä,
+mitä Suomi ei voi tehdä: Suomi voi komission mukaan edellyttää, että suomalaiset yhtiöt
+laskevat liikkeeseen osakkeensa vain suoraa omistusta tarjoavissa arvopaperikeskuksissa.
+
+Voisi kiteyttäen sanoa, että lisää Suomea Eurooppaan. (Timo Harakka: Jees!)
+
+15.16 Eero Lehti kok: Arvoisa rouva puhemies! Edustaja Harakka täällä on lukenut kyllä
+vähän vaillinaisesti näitä mietintöjä. Tässä samassa hallintarekisterilaissa on kolme eri
+mietintäkertaa, jonka ensimmäinen on ministeri Vapaavuoren käynnistämä ja toinen on
+ministeri Rinteen, ja vasta tässä viimeisessä pyydetään nimenomaan tästä julkisuusperiaat-
+teesta kommentteja. Nämä kaksi aikaisempaa lausuntokierrosta minun mielestäni ovat lä-
+hes aukottomasti tukeneet tätä hallintarekisteriasiaa lähinnä sen takia, että Suomen elinkei-
+noelämä saisi pääomaa kilpailukykyisin ehdoin ja sitä kautta ei joutuisi pääomapulasta kär-
+simään. Kun tässä viimeisessä nimenomaan pyydettiin kommentteja koskien julkisuutta,
+niin on luonnollista, että siihen on myös vastattu, mutta nämä vastatoimenpiteet, tietojen-
+vaihto poliisin ja oikeustoimien kautta, neutralisoivat sen riskin aika pitkälti.
+
+Sen sijaan kiitän erityisesti Li Anderssonia, että hän on uutena edustajana havainnut sen
+merkittävän puutteen, että lähdeveroa ei kerätä esimerkiksi ay-säätiöiden tulosta. Sieltä
+valtiovarainministeri voisikin periä merkittävän lisäsumman tarpeisiin. (Li Anderssonin
+välihuuto) — Kiitoksia.
+
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+18
+
+

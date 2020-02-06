@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM99E5.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 41/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 41/2018 vp
+
+Täysistunto
+
+Keskiviikko 25.4.2018 klo 14.05—16.52
+
+6. Hallituksen esitys eduskunnalle laiksi oikeudenkäymiskaaren muuttamisesta
+Hallituksen esitys HE 190/2017 vp
+Valiokunnan mietintö LaVM 3/2018 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Tuula Haatainen: Ensimmäiseen käsittelyyn esitellään päiväjär-
+jestyksen 6. asia. Käsittelyn pohjana on lakivaliokunnan mietintö LaVM 3/2018 vp. Nyt
+päätetään lakiehdotuksen sisällöstä.
+
+Mietinnön esittelee valiokunnan puheenjohtaja Tolvanen.
+
+Keskustelu
+
+16.32 Kari Tolvanen kok (esittelypuheenvuoro): Arvoisa rouva puhemies! Tämän halli-
+tuksen esityksen pääkohtana on muuttaa oikeudenkäymiskaarta siten, että tietyillä tuo-
+mioistuimilla olisi mahdollisuus ja oikeus käsitellä summaarisia riita-asioita eli niiden kä-
+sittely keskitettäisiin yhdeksään käräjäoikeuteen. Sen lisäksi tässä on toisena tärkeänä asi-
+ana summaaristen riita-asioiden haastehakemuksen jättäminen käräjäoikeuteen tai oikeus-
+hallinnon tietojärjestelmään sähköisenä. Ja kolmantena on ihan minimaalisia muutoksia
+oikeudenkäymiskaaren säännöksiin asiakirjan todisteellisesta sähköisestä tiedoksiannos-
+ta. Siihen en tule puuttumaan sen enempää, mutta näistä kahdesta ensiksi mainitusta tässä
+käyn muutamia asioita läpi.
+
+Otetaan ensinnäkin tämä summaaristen riita-asioiden käsittelyn keskittäminen:
+Tässähän on taustalla oikeudenhoidon uudistamisohjelma vuosille 2013—2025, ja siinä
+
+edellytetään keskipitkän aikavälin toimenpiteenä, että summaariset riita-asiat joko siirre-
+tään käräjäoikeuksista ulosottoviranomaisten käsiteltäviksi tai keskitetään enintään kol-
+meen käräjäoikeuteen. No, tässä hallituksen esityksessä ehdotetaan nyt kaikkien summaa-
+risten riita-asioiden käsittelyn keskittämistä yhdeksään käräjäoikeuteen. Keskittämisellä
+pyritään lisäämään tehokkuutta ja toiminnallista tuottavuutta, sillä oletuksena on, että sum-
+maarisia riita-asioita käsittelevien käräjäoikeuksien vähentämisellä asioiden käsittelykäy-
+tännöissä ja käsittelyajoissa olevat erot pienenevät ja toiminta yhdenmukaistuu.
+
+Keskittämisen myötä summaarisia riita-asioita käsittelevä käräjäoikeus voi sijaita maan-
+tieteellisesti nykyistä kauempana. Tämä ei kuitenkaan heikennä asianosaisten asemaa oi-
+keusturvan ja oikeussuojan saatavuuden kannalta, koska riidattomat summaariset riita-
+asiat käsitellään kirjallisessa valmistelussa, mikä ei edellytä kantajalta tai vastaajalta mat-
+kustamista käräjäoikeuteen.
+
+Jos taas summaarinen riita-asia riitautuu, se muuttuu tavanomaiseksi eli laajaksi riita-
+asiaksi, ja se siirretään esityksen mukaan käsiteltäväksi muutoin toimivaltaiseen käräjäoi-
+keuteen. Esimerkiksi luonnollista henkilöä vastaan esitetty vaatimus siirretään tällöin kä-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 41/2018 vp
+siteltäväksi siihen käräjäoikeuteen, jossa on hänen kotipaikkansa tai vakituinen asuinpaik-
+kansa. Asianosaiset voivat kuitenkin suostua siihen, että riitautunut asia käsitellään sum-
+maarisia riita-asioita käsittelevässä käräjäoikeudessa.
+
+Sitten muutama sana toimivaltaisista käräjäoikeuksista: Lähtökohtana esityksen mu-
+kaan on, että summaaristen riita-asioiden käsittelyssä tarvittavan erityisasiantuntemuksen
+varmistamiseksi asiat keskitetään kussakin hovioikeuspiirissä yhteen käräjäoikeuteen.
+Tästä poiketaan kuitenkin, jos käsiteltävien asioiden määrä tai kielelliset oikeudet antavat
+siihen aihetta. Lakivaliokunnan kuulemat asiantuntijat, erityisesti tuomioistuimet, ovat
+suhtautuneet ristiriitaisesti siihen, mihin käräjäoikeuksiin summaariset riita-asiat keskite-
+tään. Valiokunnan näkemyksen mukaan esitys on tältä osin kompromissi, jossa on pyritty
+ottamaan huomioon erilaisia tekijöitä, kuten alueelliset etäisyydet, kielelliset oikeudet, toi-
+mitilaratkaisut sekä vaikutukset henkilöstöön.
+
+Sitten muutama sana tästä sähköisestä asioinnista, arvoisa puhemies: Lakivaliokunta
+puoltaa oikeushenkilöä, elinkeinonharjoittajaa, ammattimaista perintätoimintaa harjoitta-
+vaa luonnollista henkilöä sekä oikeudenkäyntiasiamiestä ja -avustajaa koskevaa velvolli-
+suutta käyttää sähköisiä järjestelmiä. Tällaisessa toiminnassa hyödynnetään yhä eneneväs-
+sä määrin verkossa tapahtuvaa sähköistä asiointia. Sähköinen haastehakemus on mahdol-
+lista tehdä käyttäen tietojärjestelmäyhteyttä. Koska tämä on maksullinen, on tärkeää, että
+haastehakemus on mahdollista tehdä sähköisesti myös oikeushallinnon verkkopohjaisen
+asiointiliittymän välityksellä, sillä sanottu asiointiliittymä on maksuton ja helppokäyttöi-
+nen ja siten sovelias myös muiden kuin suurempien velkojien käytettäväksi. On kuitenkin
+perusteltua, ettei velvoitetta sähköiseen asiointiin uloteta koskemaan omassa asiassaan toi-
+mivaa luonnollista henkilöä, jolloin luonnollinen henkilö voi jatkossakin toimittaa sum-
+maarisen haastehakemuksen käräjäoikeuteen kirjallisesti. Se oli lakivaliokunnalle tärkeä
+asia, että yksityishenkilö pystyy toimimaan kuten aikaisemminkin, mutta sitten ammatik-
+seen toimivat ovat velvollisia siirtymään sinne sähköiseen maailmaan.
+
+Sitten muutama sana vaikutuksesta henkilöstöön: Lakivaliokunta toteaa, että kun tässä
+henkilövähennyksiä ilmeisesti tulee, niin esityksestä johtuvat henkilöstövähennykset koh-
+distuvat voimakkaimmin kansliahenkilökuntaan. Valiokunta pitää erittäin tärkeänä, että
+henkilöstön vähentäminen pyritään toteuttamaan siten, ettei irtisanomisiin olisi pääsääntöi-
+sesti tarvetta. Uudistuksen toimeenpanossa tulee muutoinkin kiinnittää erityistä huomiota
+henkilöstön asemaan ja heille aiheutuvien haittojen minimointiin. Myös käräjäoikeuksien
+johtamiseen tulee panostaa.
+
+Arvoisa rouva puhemies! Tämäkin on niin tärkeä muutos, että lakivaliokunta esittää seu-
+raavaa lausumaehdotusta: ”Eduskunta edellyttää, että hallitus seuraa käräjäoikeuksien ra-
+kenneuudistuksen ja siihen liittyvän summaaristen riita-asioiden käsittelyä koskevan uu-
+distuksen vaikutuksia kiinnittäen erityistä huomiota oikeusturvan alueelliseen saatavuu-
+teen, kielellisten oikeuksien toteutumiseen, taloudellisiin vaikutuksiin ja oikeudellisten
+palvelujen tarjontaan sekä antaa lakivaliokunnalle edellä mainituista seikoista selvityksen
+vuoden 2022 loppuun mennessä.” 
+
+Lakivaliokunta keskusteli tästä perusteellisesti, ja haluan kiittää paikalla olevia lakiva-
+liokunnan jäseniä ja miksei muitakin, mutta valitettavasti emme päässeet yksimieliseen
+ratkaisuun tässä asiassa ja mietintöön sisältyy pykälävastalause, josta ilmeisesti kohta kuu-
+lemme lisää.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 41/2018 vp
+16.39 Johanna Karimäki vihr: Arvoisa puhemies! Summaariset riita-asiat muodostavat
+käräjäoikeuksissa merkittävän asiaryhmän. Viime vuonna käräjäoikeuksiin saapui yli
+400 000 summaarista riita-asiaa. Tämä hallituksen esitys on jatkoa käräjäoikeuden uudis-
+tuksille. Summaariset asiat tullaan keskittämään. Pohjallahan on se, että hallitus on jo teh-
+nyt käräjäoikeusuudistuksen, joka karsii käräjäoikeuksia 27:stä 20:een. Se itsessään on jo
+valtavan suuri muutos, johon sisältyy itsessäänkin riskejä, joten ei ole järkevää eikä perus-
+teltua tehdä samanaikaisesti toista näin suurta ja merkittävää muutosta.
+
+Esityksen hyötyjä on epäilty monissa asiantuntijalausunnoissa. Esiin on noussut muun
+muassa kielellisten oikeuksien turvaaminen, huoli siitä, saadaanko riittävästi kielitaitoista
+henkilökuntaa uusiin toimitiloihin, yleensäkin uusien toimitilojen tarve ja oikeusturvan to-
+teutuminen, varsinkin alueellisesti oikeusturvan toteutuminen. Asiantuntijakuulemisessa
+esitettiin muunkinlaisia ratkaisuja summaaristen asioiden käsittelyksi. Esimerkiksi se aja-
+tus, että meillä olisi valtakunnallinen jonojärjestelmä, jolloin käsittelyiden ruuhkaa voisi
+purkaa valtakunnallisestikin, oli yksi esille noussut ajatus.
+
+Tässä opposition vastalauseessa ei vastusteta sähköisen asioinnin lisäämistä vaan se
+nähdään kannatettavana. On toki hyödyllistä, että asioiden käsittely sujuvoituu, mutta kui-
+tenkin se, että rinnalla säilyy myös mahdollisuus toimia perinteisellä tavalla, on monelle
+asiakkaalle tärkeää.
+
+Mutta summa summarum: se, että summaariset asiat keskitetään yhdeksään käräjäoi-
+keuteen, ei ole tällä aikataululla ja näillä perusteilla riittävän perusteltua, että tähän tulisi
+nyt siirtyä.
+
+16.41 Kauko Juhantalo kesk: Rouva puhemies! Kuten hallituksen esityksestä ilmenee,
+näitä summaarisia asioita on noin 400 000 vuodessa. Siksi on kyllä aika ymmärrettävää,
+että tätä järjestelmää kehitetään ja niiden käsittelyä keskitetään jonkin verran, tässä tapauk-
+sessa yhdeksään käräjäoikeuspiiriin. Mutta siinä on tietysti myös ongelmia, joita asiaan
+kuuluu.
+
+Tässä myös korostuu edellä esitetty oikeusturva ja oikeusturvanäkemys myös kantajan
+taholta sikäli, että summaarisessa menettelyssä on nopeutettu asian käsittelyä. Siitä on hyö-
+tyä nimenomaan kantajan näkökulmasta sikäli, että summaarinen menettelyhän tarkoittaa
+riidattomia ja sellaisia selviä asioita, hyvin usein saamisasioita, velka-asioita, joissa kanta-
+jan etu on nopea toimeenpano asialle, niin että se ei lähde jatkumaan valitustietä niin pit-
+källe ajalle, että kantajan oikeutettu vaatimus ja oikeusturvan saaminen todella häiriintyy
+erittäin pahoin, jopa menee nollaksi. Siinä mielessä tälle on etua koko summaarisella me-
+nettelyllä. Ja tässä on kuitenkin se, että jos siinä tapahtuu asian riidattomaksi tulemista, niin
+se siirtyy käräjäoikeuteen, ja myös säilyy se, että tämä takaisinsaantioikeus on 30 päivän
+ajan, mikäli vastaaja siihen myöhemmin haluaa ryhtyä. 
+
+Mielenkiintoinen asia tässä tapauksessa on, kun viitataan maakunnalliseen ajatteluun ja
+esillä olleeseen maakuntaratkaisuun, että oma vaalipiirini Satakunnan käräjäoikeus on
+semmoisessa poikkeavassa asemassa, että sen kuuluminen Vaasan hovioikeuspiiriin ja toi-
+saalta sitten näiden asioiden käsittely Turun hovioikeuspiirissä aiheuttavat ongelmia, ja
+sitä on seurattava, niin kuin lakivaliokunnan mietinnöstä ilmenee, minkälaisia ongelmia
+tässä muodostuu ja miten tämä tulevaisuudessa sitten järjestyy. Käytännöllistä olisi tietysti
+muun muassa meidän alueelta, Kankaanpäästä, katsoen, että nämä kuuluisivat Porin kärä-
+jäoikeuteen, ja silloin luonnollinen valitusreitti olisi Turun hovioikeuteen. Luotan, että sen
+seuraaminen lopulta ratkaisee, miten tämä asia selkeytetään. 
+3
+
+
+
+Pöytäkirjan asiakohta PTK 41/2018 vp
+Itse tämän asian esilläolo [Puhemies koputtaa] tässä muodossa on kyllä kannatettavaa.
+
+16.45 Suna Kymäläinen sd: Arvoisa rouva puhemies! Kiitän valiokunnan puheenjohta-
+jaa edustaja Tolvasta ja koko valiokuntaa hyvähenkisestä ja perusteellisesta käsittelystä tä-
+män oikeudenkäymiskaaren summaaristen asioiden kohdalla — tämähän on toki kyllä
+meidän valiokunnassamme tyypillistäkin. Kiitän siitä huolimatta, vaikka päädyimme vas-
+talauseeseen emmekä löytäneet yksimielisyyttä esityksen osalta.
+
+Vastalauseeseen päädyimme, koska meillä on huoli ja tässä on riski asiantuntijoidenkin
+mukaan, minkä he ovat tuoneet esille, muun muassa Oikeusrekisterikeskus, että tämän esi-
+tyksen myötä kiirehtiminen ja monien uudistusten päällekkäisyys häiriinnyttäisivät toi-
+mintaa.
+
+Kuten täällä on keskustelussa aiemmin tullut esille, pidämme perusteltuna hallituksen
+esitystä sähköisen asioinnin lisäämisen osalta, samoin kuin tiedoksiantomenettelyn kehit-
+tämistä esitettyyn suuntaan. Mutta meidän mielestämme näitten sähköisten asioiden vireil-
+lepanon muuttuminen summaarisissa asioissa pakolliseksi vaatii samalla vastaavasti pa-
+nostuksia sähköisen asioinnin järjestelmien käytettävyyteen.
+
+Hallituksen esityksen tavoitteita summaaristen asioiden käsittelyn tehostamisesta pi-
+dämme kannatettavina, mutta mielestämme hallituksen esityksessä on perusteetta kiireh-
+ditty ja sen vuoksi valmistelu on jäänyt osin puutteelliseksi. Summaaristen asioiden keskit-
+tämiselle esityksessä asetettujen tavoitteiden toteutumista on epäilty useiden kuultavien
+lausunnoissa. Uudet tila- ja henkilöstöresurssit sekä esimerkiksi henkilökunnan siirtymi-
+seen liittyvät kustannukset on käsityksemme mukaan huomioitu hallituksen esityksessä
+puutteellisesti. Itse asiassa tuossa keskustelussa tuli esille joidenkin asiantuntijoiden osal-
+ta, että päinvastoin kustannukset kasvavat tämän esityksen myötä, eivät pienene.
+
+Oikeusrekisterikeskus on myös katsonut, että asioiden keskittäminen edellyttää merkit-
+täviä muutoksia tuomioistuinten käyttämään Tuomas-tietojärjestelmään. Näiden muutos-
+ten toteuttaminen samanaikaisesti vuoden 2019 alusta voimaan tulevan käräjäoikeusuudis-
+tuksen edellyttämien muutosten kanssa aiheuttaisi Oikeusrekisterikeskuksen mukaan mer-
+kittävän riskin toiminnan häiriintymisestä. Eduskunnan oikeusasiamiehen kanslia on nos-
+tanut lausunnossaan esiin mahdollisen ongelman kielellisten oikeuksien toteutumisessa.
+
+Käräjäoikeusverkostoon ollaan parhaillaan tekemässä uudistusta, jossa käräjäoikeuk-
+sien määrä vähenee 27:stä 20:een. Lisäksi tuomioistuinjärjestelmän hallinto on uudistu-
+massa perusteilla olevan uuden tuomioistuinviraston myötä. Katsomme, että nämä uudis-
+tukset olisi syytä saattaa ensin valmiiksi ja saada kokemusta sen pohjalta, miten järjestel-
+mät toimivat. Vasta sen jälkeen, kun uusi käräjäoikeusrakenne ja tuomioistuinjärjestelmän
+hallinto ovat vakiintuneet, on paljon paremmat edellytykset arvioida summaaristen asioi-
+den keskittämisen kannattavuutta ja toteuttamistapoja sekä toteuttaa mahdolliset muutok-
+set hallitusti ilman riskejä. Sen vuoksi olemme esittäneet valiokunnassa vastalausetta ja tu-
+lemme sen sitten jatkokäsittelyissä esittelemään.
+
+16.49 Kauko Juhantalo kesk: Arvoisa puhemies! Kyllä edellä esitetty epäily sähköistä
+järjestelmää kohtaan on omalla tavallaan oikeutettu siinä mielessä, että olen huolissani sii-
+tä, että vaikka tässä mainitut ammatinharjoittajat tai muut, jotka laissa on mainittu, hallit-
+sevat nykyajan sähköjärjestelmät hyvin ja tietävät, mitä se tarkoittaa, niin edelleenkin käy-
+tännössä moni yksityinen henkilö itse haluaa periä saatavansa oikeuteen kääntymällä, ja oi-
+keuteen kääntymällä siten, että on kyse yksipuolisesta tuomiosta: onko niin, että hän ym-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 41/2018 vp
+märtää ne käräjäpiirit, mihin hän voi sen lähettää, ja hän ymmärtää sen, että sinne ei voi sit-
+ten enää lähettää tavanomaisella tavalla vaatimustaan vaan pitäisi osata tuota sähköistä me-
+nettelyä käyttää. Kyllä tätä sietää tutkia ja seurailla, tapahtuuko paljon sellaisia vahingossa
+tapahtuneita oikeudenmenetyksiä, joita ei missään nimessä saa käytännössä tapahtua.
+
+16.50 Kari Tolvanen kok: Arvoisa rouva puhemies! Haluan nyt korostaa sitä, että yksi-
+tyishenkilö saa jatkossakin toimia niin kuin aikaisemminkin eli ihan paperisella hakemuk-
+sella. Häntä ei pakoteta siihen sähköiseen maailmaan. Se valiokunnassa nimenomaan oli
+meillä huolenaihe, koska tiedämme, että tässähän ei löydy välineitä eikä osaamista kaikilta
+ihmisiltä. Yksityinen ihminen tosiaan voi asioida niin kuin nytkin, mutta tähän on, suo-
+meksi sanottuna, pakotettu tämmöiset kaupalliset toimijat, jotka tälläkin hetkellä käytän-
+nössä toimivat siellä sähköisessä maailmassa. On joitain yksittäistapauksia, mutta he jou-
+tavat kyllä opiskelemaan sähköisen maailman, jos elinkeinoa harjoittavat. Mutta yksityis-
+ihmisen osalta tässä ei tule muutoksia.
+
+Yleiskeskustelu päättyi ja asian käsittely keskeytettiin.
+5
+
+

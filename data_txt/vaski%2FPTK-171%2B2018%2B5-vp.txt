@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM4AFF.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 171/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 171/2018 vp
+
+Täysistunto
+
+Keskiviikko 6.3.2019 klo 14.13—16.30
+
+5. Hallituksen esitys eduskunnalle laiksi sosiaali- ja terveystietojen toissijaisesta käytöstä 
+sekä eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 159/2017 vp
+Valiokunnan mietintö StVM 37/2018 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 5. asia. Käsittelyn pohjana on sosiaali- ja terveysvaliokunnan mietintö
+StVM 37/2018 vp. Nyt päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+15.59 Pekka Puska kesk: Arvoisa puhemies! Nyt meillä on edessä lakiesitys, joka on tär-
+keä ja jota uudistusta on monella tavalla ja kauan odotettu. Meillähän on Suomessa ja ehkä
+Suomen ohella Ruotsissa ja Tanskassa, tuskinpa paljon muualla, erittäin arvokkaat ja mo-
+nipuoliset rekisteritiedot sosiaali- ja terveyshuollon asioissa. Meillä on eri rekisterinpitä-
+jiä, erityisesti THL, Kela, Tilastokeskus ja Väestörekisterikeskus. Mutta pulmana on se,
+että näiden yhtenäinen käyttö nykytilanteessa on hankalaa: kun niitä halutaan yhdessä
+käyttää, luvat pitää pyytää eri tahoilta, ja saatavuudessa on erittäin suuria viiveitä.
+
+Tämä on kieltämättä hyvin monitahoinen kokonaisuus, ja otan esille kolmen kaltaista
+problematiikkaa. Ensinnäkin tässä on hyvin erilaisia intressitarpeita. On tutkimuksen tar-
+peita, jotka ovat opetus- ja kulttuuriministeriön asioita, sote-ohjauksen tarpeita, STM:n tar-
+peita sekä innovaatio- ja kehitystoiminnan tarpeita työ- ja elinkeinoministeriön puolella.
+Toiseksi on erittäin tärkeää hoitaa tietosuojaa koskevat säädökset hyvin ja huolella, kysy-
+myshän on tärkeistä henkilökohtaisista tiedoista. Ja kolmantena tämä kytkeytyy EU:n tie-
+tosuojadirektiiviin, joka pitää huomioida huolella.
+
+Tässä ratkaisuna esitetään siis lupaviranomaista, joka toimisi THL:n erillisenä yksikkö-
+nä ja jossa nämä asiat olisi eriytetty THL:n muista tehtävistä. Tämä ratkaisu on siis varsin
+selvä ja hyvä, vaikka tämä pykälä on kirjoitettu hieman epäselvästi. Yksikkö on STM:n tu-
+losohjauksessa kuten koko THL. Yksikön päällikön nimittää STM poiketen THL:n peri-
+aatteesta, että laitoksen henkilökunnan nimeää pääjohtaja. Kun lupaviranomaisella on iso
+tehtävä, on toiminnan hyvän sujumisen kannalta tärkeää, että tämä THL:n lupaviranomai-
+nen saa toimintaansa varten riittävät resurssit ja valtuudet. 
+
+Minä tarkastelen uudistuksen merkitystä kolmelta kannalta:
+Ensinnäkin tieteellisen tutkimuksen kannalta: Meillä on todella erittäin arvokkaat ai-
+
+neistot. Niitä hyödyntävillä tutkimuksilla voidaan saada tärkeää tietoa tautien syistä ja eh-
+käisymahdollisuuksista. Tämä koskee geneettisiä tekijöitä, elintapoja ja ympäristötekijöi-
+tä, ja olennaista on, että tautien syyt eivät selviä potilaita tutkimalla vaan seuraamalla vuo-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 171/2018 vp
+sikausia alun perin terveitä ja eri tutkimuksissa tutkittuja henkilöitä ja selvittämällä eri re-
+kistereillä, minkälaiset tekijät ennustavat itsenäisesti sairastumista. Tällaiset tutkimukset
+koituvat suomalaisen kansanterveyden hyväksi, puhumattakaan siitä, että tämä antaa suo-
+malaiselle tutkimukselle hyvää kansainvälistä etulyöntiasemaa. 
+
+Toiseksi maakuntien tai alueellisen sote-ohjauksen kannalta ehdotettu tietojen hyödyn-
+täminen on tärkeää. Tehokas ohjaus edellyttää hyvää tietojärjestelmää, jonka perusteella
+voidaan muun muassa tehokkaasti suunnata palveluja suuremmassa sairastumisriskissä
+oleville väestöryhmille, tehostaa tautien ehkäisyä ja sitä kautta auttaa vähentämään tervey-
+seroja. 
+
+Uusi järjestelmä voi myös suuresti hyödyttää terveys- ja sosiaalialan innovaatioita, lait-
+teiden, lääkkeiden ja menetelmien kehittämistä, ja erityisesti tässä suhteessa lakiesitys pa-
+rani tavattomasti pitkän valiokuntakäsittelyn kuluessa. Ihmisten henkilötietoja ei tässä
+myydä kaupallisiin tarkoituksiin, vaan kaupalliset toimijat voivat perustellun lupapyyn-
+nön perusteella saada niin sanottuja aggregoituja eli yhdistettyjä tilastotietoja, jotka autta-
+vat kansanterveyden edistämistä.
+
+Lakiesityksen käsittelyn loppupuolella keskusteltiin myöskin tulosten julkistamisesta,
+ja avainasia on se, että käyttölupaviranomainen tekee hyvän anonymisoinnin ja luovuttaa
+tutkijoille sellaisen aineiston, että tietosuoja voidaan turvata. Sen jälkeen tutkijoilla tulee
+olla perustuslain suojaama julkaisun ja tieteen vapaus tutkimustulosten julkaisemiseen,
+mikä valmisteluvaiheessa kyseenalaistettiin. Käyttölupaviranomaisen toiminnan käynnis-
+tyminen merkitsee isoa prosessia, joka vaatii kaiken tuen, ja resurssien lisäksi tärkeää on
+riittävä siirtymäaika niin käyttölupaviranomaisille kuin rekisterinpitäjille. Valiokunnan
+kokouksissa käytiin pitkä prosessi, jonka kuluessa — siis noin puolentoista vuoden proses-
+sin kuluessa ja keskustelussa ministeriöiden kanssa — päästiin aika hyvin eteenpäin, ja laki
+aivan olennaisesti parani. Tämä koskee muun muassa tätä tietojen käyttöä, kehitys- ja in-
+novaatiotoimintaa sekä tietosuojaa.
+
+Tästä huolimattahan tässä on opposition eriävä mielipide, joka on minulle ainakin hie-
+man yllättävä, koska eriävissä mielipiteissä esille tulleista tietoturva-asioista on aika huo-
+lellisesti säädetty. Tietoturva on huipputärkeää, mutta uuden järjestelmän tuoma yksi am-
+mattitaitoinen viranomainen ja sen ammattitaitoinen tietojen anonymisointi merkitsevät
+nykyiseen, hajanaiseen eri rekisterien käsittelyyn verrattuna huomattavaa parannusta kan-
+salaisten tietoturvaan. Samaan aikaan on muistettava se suuri hyöty, jonka uudistus tuo aja-
+tellen kaikkia niitä tarpeita, jotka mainitsin. Pelkästään Suomen terveysalan tutkijoiden pa-
+rissa on tätä uudistusta odotettu kuin kuuta nousevaa, siis sitä, että nykyinen hyvin hidas re-
+kisteritietojen hyödyntäminen voidaan korvata tällaisella eri rekisteritietojen järjestämisel-
+lä, yhden luukun ammattitaitoisella palvelulla.
+
+Arvoisa puhemies! Uudistus on tärkeä saattaa voimaan varautuen siirtymävaiheeseen ja
+riittäviin toimintaresursseihin THL:n yksikölle.
+
+16.06 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Tämän hallituksen esityksen
+tarkoituksena on luoda ajanmukaiset ja yhdenmukaiset edellytykset sosiaali- ja terveyden-
+huollon palvelutoiminnassa syntyvien henkilötasoisten asiakastietojen sekä muiden ter-
+veyteen ja hyvinvointiin liittyvien henkilötietojen käytölle tilastointiin, tutkimukseen, ke-
+hittämis- ja innovaatiotoimintaan, opetukseen, tietojohtamiseen, viranomaisohjaukseen ja
+-valvontaan sekä suunnittelu- ja selvitystehtäviin. Esityksessä on otettu huomioon sosiaa-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 171/2018 vp
+li- ja terveydenhuollon integraatio sekä digitalisaation voimakas vaikutus asiakastietojen
+sähköiseen käsittelyyn ja sen edellyttämiin tietosuoja- ja tietoturvavaatimuksiin. 
+
+Olemme tulevaisuusvaliokunnassa käyneet paljon keskustelua siitä, että teknologian ke-
+hittyessä ja uuden teknologian käyttöönotossa pitäisi käydä syvällistä eettistä keskustelua
+ja keskustelussa tulisi aina pohtia asian hyötyjä, haittoja ja myös riskejä. Liian usein uuden
+innovaation tai idean edessä ollaan niin hurmaantuneita, ettei jakseta pohtia riittävän sy-
+vällisesti asiaan liittyviä riskejä tai uhkia. Minusta tämä hallituksen alkuperäinen lakiesi-
+tys oli erittäin hyvä esimerkki tällaisesta, rohkenenko sanoa, vastuuttomuudesta, mutta on-
+neksi valiokunta toimi tässä asiassa paljon paremmin. Alkuperäisen esityksen mukaan ih-
+misten tietoja olisi vielä paljon vapaammin saanut jakaa eri tahoille eikä edes tietojen ano-
+nyymisyydestä olisi voitu olla varmoja. Alkuperäinen esitys oli jopa EU:n tietosuoja-ase-
+tuksen vastainen.
+
+Sinällään tämän lain tavoite on hyvä. En missään nimessä vastusta tätä lakia tavoiteta-
+solla, mutta tämä lakiesitys oli jo alun perin huolimattomasti ja huonosti tehty ja kirjattu.
+Isojen puutteiden ja virheiden takia lakiesitystä on paikkailtu ja korjailtu pitkin matkaa niin
+paljon, että kysymyksessä on kyllä jo suurelta osin ihan eri esitys kuin mistä alun perin oli
+kysymys. Edelleen kiitän valiokuntaa siitä, että se toimi niin huolellisesti ja oli tarkkana
+tässä asiassa, sillä ilman tätä olisi ihmisten tietosuoja joutunut suuresti vaaraan.
+
+Mutta koska tässä on tehty niin paljon muutoksia ja niin paljon alkuperäistä esitystä on
+muutettu, minä kyllä pahoin pelkään, että tällainen paikkailu on jättänyt tähän lakiesityk-
+seen pahoja valuvikoja ja jopa virheitä, jotka voivat vaarantaa ihmisten tietosuojan ja -tur-
+van, ja jos ne voivat vaarantaa tietosuojan ja -turvan, silloin tämä asia on huolestuttava.
+Paikkailujen ja korjailujen takia lakiesitys jää epäselväksi ja sekavaksikin joiltain osin, ja
+kyllä itselläni on valtava huoli edelleenkin siitä, mitä ihmisten tiedoille voi tapahtua. Mi-
+nusta on väärin, että koko Suomi on ikään kuin asetettu nyt sitten koelaboratorioksi ja nyt
+sitten katsotaan, mitä mahdollisesti tapahtuu. Toivottavasti kaikki menee hyvin, mutta mi-
+nun mielestäni tällaista riskiä ei olisi pitänyt ottaa. Edelleen korostan, että tämän lakiesi-
+tyksen tavoitteet, se, miksi tätä tehdään, ovat erittäin tärkeitä. 
+
+Kun lukee kertomuksia maailmalta, niin kyllä maailmalla on runsaasti näyttöä esimer-
+kiksi siitä, että tiedon anonymiteetti on saatu puretuksi, ja toisaalta myös siitä, että tietoja
+on jaettu eteenpäin tahoille, joille henkilö itse ei ole antanut lupaa, siis niitä on jaettu eteen-
+päin, ja se ihminen itse, joka on alun perin sen tiedon antanut jollekin taholle jaettavaksi, ei
+tiedä, minne kaikkialle se on sitten eteenpäin mennyt. Minun mielestäni meidän tulisi suh-
+tautua nykyistä vakavammin tietosuojauhkiin ja meidän pitäisi jonkunlainen taho löytää
+Suomessa, joka ottaisi tämän asian kokonaisvaltaisesti hoitaakseen, koska minun käsityk-
+seni mukaan ja minun saamieni tietojen mukaan tietosuojavaltuutetun resursseilla ei tätä
+asiaa tällä hetkellä pystytä riittävästi hoitamaan. 
+
+Olisi ollut paljon järkevämpää laatia uusi lakiesitys uudelta pohjalta, oppien tässä pro-
+sessissa tehdyistä virheistä. Arvoisa puhemies, minä en ole siellä sosiaali- ja terveysvalio-
+kunnassa ja jätän tämän sosiaalidemokraattien vastalauseen esittelyn edustaja Kiljuselle,
+mutta olen käynyt keskustelua teknologian eettisyydestä, tietosuojasta ja tietoturvasta niin
+paljon tulevaisuusvaliokunnassa, että olen ehdottomasti sitä mieltä, että vastalauseessa ole-
+va hylkäysesitys perusteluineen on hyvin tehty ja kannatettava. — Kiitos.
+
+16.11 Anneli Kiljunen sd: Arvoisa rouva puhemies! Aivan kuten edustaja Puska totesi
+edellisessä puheenvuorossa, tätä lakiesitystä on odotettu pitkään ja hartaasti. Ja sen takia on
+3
+
+
+
+Pöytäkirjan asiakohta PTK 171/2018 vp
+todella harmillista, että tämä lakiesitys on valmisteltu niin huonosti ja heikosti, ja se on jät-
+tänyt niin paljon epäselvyyksiä, että tätä kokonaisuutta ei voi siltä osin tukea.
+
+Arvoisa puhemies! Sosiaali- ja terveystietojen toissijaisen käytön mahdollistava lakieh-
+dotus merkitsee isoa muutosta arkaluonteisten henkilötietojen käyttöön. Tällaisten tietojen
+käytön mahdollistaminen kohdistuu myös erittäin laajaan tietojoukkoon. On välttämätöntä
+varmistaa, että arkaluonteisia henkilötietoja käsitellään tietoturvallisesti siten, että ne eivät
+paljastu sivullisille. Sosiaali- ja terveystietojen toissijainen käyttö edellyttää vaativaa osaa-
+mista tietoturvassa ja tietosuojassa sekä uusinta tietoa anonymisointitekniikoista ja osaa-
+mista niissä.
+
+Arvoisa puhemies! Tämän hallituskauden yksi valitettava ominaispiirre on ollut, että
+lainvalmistelulle ei ole annettu riittävästi resursseja eikä välttämättä myöskään riittävästi
+aikaa. Tämä on aiheuttanut sen, että lainvalmistelu ei ole ollut kaikilta osin onnistunutta,
+vaan valmistelu on osoittautunut puutteelliseksi, ja näin on tapahtunut myös tämän lain
+osalta. 
+
+Tätä lakiesitystä on korjailtu erimuotoisesti noin puolitoista vuotta. Hallituksen esityk-
+sen korjaaminen on edellyttänyt lisävalmistelua ministeriössä, ja kymmeniä pykäliä on
+muutettu valiokunnan käsittelyn kuluessa. Uusimmassa versiossa esitetystä ollaan kovin
+kaukana alkuperäisestä vuonna 2017 kiireellä tuodusta budjettilakiesityksestä. Hallituksen
+esitys pitäisi juuri tästä syystä kirjoittaa uudelleen nopean toimeenpanon sijasta.
+
+Esitykseen on tehty tärkeitä muutoksia ihmisten tietosuojan varmistamiseksi. Tietosuo-
+jaa koskevat vaatimukset ovat nyt merkittävästi muuttuneet, ja teknisen toimintaympäris-
+tön nopea muutos on ennakoitu paremmin. Muutokset eivät kuitenkaan ole olleet riittäviä,
+ja lakiesitys jää repaleiseksi, sekavaksi ja epäselväksi. Puolitoista vuotta kestänyt uusi val-
+mistelutyö olisi tullut tehdä kunnolla loppuun ja kirjoittaa koko lakiesitys uudelleen suju-
+vaan muotoon. Tuleva hallitus joutunee korjaamaan toisiolakia vielä myöhemmin. Tämä ei
+ole tarkoituksenmukaista ja hyvää lainvalmistelua. 
+
+Hallituksen esityksessä lain toimeenpanolle annetaan todella lyhyt aika. Lait tulisivat
+voimaan 1. päivänä huhtikuuta, vaikka valiokunnan mietintö saataisiin käsiteltyä eduskun-
+nassa suuressa salissa vasta nyt maaliskuussa. Lain toimeenpano joudutaan tekemään liian
+kiireellä. On pelättävissä, että tällaisilla aikatauluilla sosiaali- ja terveydenhuollon kenttä ei
+ehdi mukaan. Ohjeistus ja koulutus uhkaavat jäädä kiireessä puutteellisiksi. Myös velvoit-
+teiden toteuttamisessa on ongelmia. Sosiaali- ja terveydenhuollon järjestämisestä vastaa-
+ville kunnille ja kuntayhtymille sekä muille 1. lakiehdotuksen tarkoittamille rekisterinpitä-
+jille säädetään aivan liian lyhyt aika velvoitteiden toteuttamiseen. 
+
+Tietopyynnön käsittelyssä tarvittavat tiedot on luovutettava viimeistään 15 arkipäivässä
+pyynnön saapumisesta. Tällainen määräaika on kunnille ja kuntayhtymille hyvin tiukka.
+Esityksestä aiheutuu rekisterinpitäjälle kustannuksia, mihin ei ole lainkaan varauduttu. Re-
+kisterinpitäjän on esimerkiksi järjestettävä neuvontapalvelu hyvin nopealla aikataululla
+kuntoon. Kuitenkaan lakien toimeenpanolle ei turvata lainkaan määrärahoja, jolloin siihen
+käytetyt resurssit ovat poissa palveluiden toteuttamisesta. Kun julkisessa sosiaali- ja terve-
+ydenhuollossa tuotettuja tietoja hyödynnetään toissijaiseen käyttöön, tulisi myös tietoja
+tuottavalle palvelujärjestelmälle koitua siitä hyötyjä, vähintäänkin riittävänä kompensaa-
+tiona.
+
+Arvoisa puhemies! Korkean asiantuntemuksen tehtävät on keskitettävä, ja ne on turvat-
+tava säädöksin. Tietolupaviranomaisen perustaminen ja toiminnan keskittäminen korkea-
+tasoisen tietosuojan ja tietoturvan osaamisen takaamiseksi ovat kannatettavia. Ne myös su-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 171/2018 vp
+juvoittavat ja vähentävät hallinnollista taakkaa. Siksi on huolestuttavaa, että samalla kui-
+tenkin esitetään varsin monimutkaista kokonaisuutta, jossa tietolupaviranomaisen ohella
+rekisterinpitäjät voisivat jatkaa arkaluontoisten tietojen luovuttamista käyttöön, vaikka ne
+olisi jouduttu anonymisoimaan korkean osaamisen keskittämisen vuoksi tietolupaviran-
+omaisen toimesta. Samalla esitetään, että rekisterinpitäjät voisivat luopua tällaisesta oikeu-
+desta ja antaa tehtävän tietolupaviranomaiselle.
+
+Arkaluonteisten tietojen turvallisuus tulisi taata niin, että tällaisia tietoja voisi luovuttaa
+vain anonymiteetin turvannut tietolupaviranomainen. Lisäksi rekisterinpitäjälle säädetty
+neuvontapalvelu tulisi järjestää tietolupaviranomaisen taholta, jolloin kaikki neuvonta oli-
+si saatavilla yhdeltä luukulta.
+
+Perustettavan asiantuntijaryhmän kokoonpano ja voimavarat jäävät turvaamatta riittä-
+vällä säädöspohjalla. Asiantuntijaryhmältä edellytetään lähinnä ajantasaista ja korkeata-
+soista tietämystä sekä näkemystä sosiaali- ja terveydenhuollon alan edellyttämistä tietotur-
+va- ja tietosuojakysymyksistä sekä anonymisointitekniikoista. Tarkemmat määräykset
+puuttuvat. Lupaviranomaisilla tulisi myös olla oma eettinen toimikunta linjaamaan toissi-
+jaisten tietojen käsittelyä.
+
+Arvoisa puhemies! Hallituksen esitys ei turvaa riittävää henkilötietosuojaa. Koko Suo-
+mi otetaan nyt koelaboratorioksi ilman riittävää turvaa ja kokemusta siitä, että henkilötie-
+dot ovat suojassa kaikissa olosuhteissa. Mittava järjestelmä, joka sisältää laajasti arkaluon-
+teisia henkilötietoja yhdistettynä eri rekistereistä, on lisäksi riskialtis hakkerointiyrityksil-
+le. Toissijaisten tietojen käyttöönottoa tulisi ensin kokeilla suppeasti, saatujen kokemusten
+pohjalta kehittää lainsäädäntöä ja ottaa hyvät käytännöt käyttöön vasta riittävin siirtymä-
+ajoin ja jaksotuksin toteutettuna. Nyt aikataulu ei riitä mihinkään testaamiseen tai vaiheis-
+tamiseen.
+
+Sosiaalidemokraattinen valiokuntaryhmä on jättänyt vastalauseen, jonka äsken esitin, ja
+nyt haluan jo tässä vaiheessa todeta, että näillä edellä mainituilla perusteilla ehdotamme,
+että tämä lakiehdotus hylätään. Tulen tämän tekemään vielä toisessa käsittelyssä.
+
+16.19 Pekka Puska kesk: Arvoisa rouva puhemies! Edustajat Mäkisalo-Ropponen ja Kil-
+junen toivat esille hyvin tärkeitä näkökohtia, ja minusta on tärkeätä, että niitä otetaan huo-
+mioon tämän uudistuksen toteutuksessa. On myöskin oltava samaa mieltä edustaja Mäki-
+salo-Ropposen kanssa siitä, että tämän puolentoista vuoden prosessin aikana tämä lakiesi-
+tys on tavattomasti parantunut, muun muassa tämän innovaatiotoiminnan ja sitten tietosuo-
+jan osalta.
+
+Mitä tietosuojaan tulee, niin minä olen kyllä vakuuttunut siitä, että yksi ammattitaitoi-
+nen keskitetty viranomainen voi toimia paljon paremmin, turvaten paljon paremmin tieto-
+suojan kuin nykyinen hyvin hajanainen järjestelmä, jossa on erilaisia eri periaatteilla toi-
+mivia rekisterinpitäjiä. Kysymys ei ole koelaboratoriosta, vaan kysymys on nykyisen sys-
+teemin olennaisesta parantamisesta.
+
+Tätä uudistusta on odotettu vuosikausia. Se merkitsee monella tavalla suuria parannuk-
+sia hyvin monellakin taholla, ja olisi tärkeää saada uudistus nyt voimaan ja toteutukseen.
+
+16.20 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Tietosuoja- ja tietoturva-
+asioissa on tärkeää olla erittäin huolellinen ja tarkka. Sen takia edelleen korostan, että me
+tarvitsemme tätä lainsäädäntöä, mutta kun lukee niin kuin ulkopuolisena sitä prosessia ja
+tavallaan sitä, miten ne lakipykälät ovat muuttuneet, niin minulla on todella iso huoli siitä,
+5
+
+
+
+Pöytäkirjan asiakohta PTK 171/2018 vp
+että sinne on jäänyt jopa virheitä tai tämmöisiä epätarkkuuksia, jotka tulevat sitten vasta
+pitkin matkaa esille. Ja kun on näin vakavasta asiasta kysymys, niin sen takia olen sitä
+mieltä, että tässä asiassa olisi ollut parempi ratkaisu se, että oltaisiin uudelleen tehty se la-
+kiesitys, puhtaalta pöydältä, ja alun perin jo korjattu ne virheet, ettei vain olisi käynyt näin,
+että sinne on nyt jäänyt joitakin lapsuksia tai tämmöisiä asioita, jotka sitten aiheuttavat har-
+mia jälkikäteen.
+
+Tästä tietosuojastahan on Suomessa kirjoitettu nyt paljon, ja siihenhän ovat erityisesti
+monet asiantuntijatahot, kuten tietosuojavaltuutettu ja myös Bioetiikan instituutin hallituk-
+sen puheenjohtaja Heikki Saxén, ottaneet voimakkaasti kantaa, että me suhtaudumme liian
+luottavaisesti tähän asiaan emmekä ole uskaltaneet kohdata niitä riskejä ja niitä uhkia, joita
+mahdollisesti liittyy tähän tosiasiaan, että kun ihminen antaa ne omat tietonsa johonkin re-
+kisteriin, niin mihin kaikkeen ne sieltä tämän ihmisen itsensä tietämättä voivat sitten jou-
+tua. Eli tässä on yksi uhkakuva, yksi asia, joka pitäisi huolellisesti tarkistaa. Tästä on maa-
+ilmalla nyt näyttöä, että näin on käynyt. Eli tämä ei ole siinä mielessä sellainen asia, että
+tämä olisi vain jotakin mielikuvitusta, vaan näin on oikeasti käynyt, ja tästä on oikeustapa-
+uksiakin nyt maailmalla ollut. 
+
+Senhän takia tämä lakiesitys on tärkeä, mutta nyt on suuri riski, että tähän on jäänyt sel-
+laisia virheitä, joita joudumme sitten paikkailemaan ja korjailemaan. Toivon todella, ettei
+mitään pahoja vahinkoja tämän ”liimaa, leikkaa” -lakiesityksen johdosta synny meidän tie-
+tosuojaan ja tietoturvaan.
+
+16.23 Anneli Kiljunen sd: Arvoisa puhemies! Haluan tässä vielä tähdentää edustaja Pus-
+kalle, että olen hänen kanssaan siitä täysin samaa mieltä, että tietolupaviranomaisen perus-
+taminen ja näitten toimintojen keskittäminen on ehdottoman tärkeä asia. Siinä asiassa me
+olemme täysin samaa mieltä.
+
+Mutta kuten täällä on nyt näissä puheenvuoroissa todettu, on todella harmillista, että
+koska tämä lakiesitys on nyt kiireessä... Tai ei voi sanoa kiireessä, kun tätä on valmisteltu
+pitkään, mutta ei ole ollut ilmeisesti riittävästi resursseja eikä henkilöitä, jotka olisivat pys-
+tyneet paneutumaan tähän asiaan sillä tasolla, että me voisimme luottavaisin mielin edus-
+kunnassa käsitellä sitä, niin ettei tähän jää mitään semmoisia kohtia, jotka asettavat tämän
+tietosuojan, voisiko sanoa, vaaraan. 
+
+Kun on kyse arkaluonteisista, henkilöön liittyvistä tiedoista, on ehdottoman tärkeää, että
+tämmöinen tieto käsitellään sen mukaisesti. Sen takia olen todella pahoillani tästä esityk-
+sestä ja siitä, että todennäköisesti seuraavalla hallituskaudella ne, jotka täällä sitten ovat,
+joutuvat palaamaan tähän asiaan ja arvioimaan, mitä puutteita tässä on ollut, ja tarvittaessa
+sitten korjaamaan.
+
+16.24 Timo Harakka sd: Arvoisa puhemies! Tämä on epäilemättä äärimmäisen tärkeää
+lainsäädäntöä, ja oma kompetenssini ja perehtyneisyyteni eivät riitä kommentoimaan muu-
+ta kuin siltä hyvin yleiseltä näkökannalta, että käsittääkseni tietoturvan kannalta on tärkeä
+yleinen periaate se, että tietovarannot eivät nimenomaan ole yhdessä paikassa keskitetysti.
+Silloin nimittäin tietoliikennehyökkäys voi saada aikaan mittaamatonta vahinkoa. On siis
+tärkeätä, että tiedot ovat hajautettuina esimerkiksi toisiinsa kytkettyihin varantoihin niin,
+että jos yksi osa tästä ketjusta joutuu hakkeroinnin kohteeksi, se ei aiheuta sitten korvaa-
+matonta vahinkoa. Yksi toinen tärkeä yleinen periaate on tietenkin se, että liikutellaan vain
+sitä tietoa, jota on välttämätöntä jakaa tarkan kyselyn perusteella. 
+6
+
+
+
+Pöytäkirjan asiakohta PTK 171/2018 vp
+16.25 Pekka Puska kesk: Arvoisa puhemies! Tämä on ollut hyvä keskustelu. Viimeinen
+kommentti:
+
+Edustaja Kiljunen huomautti, että tästä voi seurata ongelmia tietoturvan kannalta, mutta
+on muistettava, että meillä nykyisessäkin systeemissä aina silloin tällöin putkahtaa ongel-
+mia, ja olen vakuuttunut siitä, että tämä keskitetty lupaviranomainen tämän hoitaa. 
+
+Sitten edustaja Harakalle edelleen se tieto, että nythän nämä rekisterit tulevat edelleen
+pysymään hajautettuina eri laitosten parissa ja kysymys on vain siitä, että yksilöityjen lu-
+papyyntöjen perusteella tämä tietolupaviranomainen ammattitaitoisemmin kuin nykyisin
+kokoaa yhteen pyynnön mukaan ja anonymisoi. Tänä päivänä tutkija joutuu pyytämään eri
+tahoilta ja itse tekemään tämän yhdistämisen. 
+
+Yleiskeskustelu päättyi. 
+
+Eduskunta hyväksyi hallituksen esitykseen HE 159/2017 vp sisältyvien 1.—11. lakiehdo-
+tuksen sisällön mietinnön mukaisena. Eduskunta hyväksyi valiokunnan mietinnössä ehdo-
+tetun uuden, 12. lakiehdotuksen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäi-
+nen käsittely päättyi.
+7
+
+

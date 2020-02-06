@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM8211.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 130/2018 vp
+
+Täysistunto
+
+Torstai 13.12.2018 klo 16.01—20.35
+
+7. Hallituksen esitys eduskunnalle laiksi julkisen hallinnon tiedonhallinnasta sekä eräiksi 
+siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 284/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 7. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokuntaan, jolle perustuslakiva-
+liokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+18.13 Kunta- ja uudistusministeri Anu Vehviläinen (esittelypuheenvuoro):  Arvoisa
+puhemies! Äsken lähetekeskustelussa olleen tietopoliittisen selonteon ohessa tietopolitiik-
+kaa edistetään myös konkreettisesti lainsäädännön tasolla. 
+
+Nyt keskustelussa on laki julkisen hallinnon tiedonhallinnasta. Kyseessä on tiedonhal-
+lintaa koskeva yleislaki. Sillä säännellään tiedonhallintaan liittyvistä vaatimuksista yhte-
+näisellä tavalla koskien koko julkista hallintoa. Tiedon hyödyntämisen uudet muodot, yhä
+reaaliaikaisempi tietojen käyttö ja entistä verkottuneemmat toimintatavat asettavat tiedon-
+hallinnan sääntelylle uusia vaatimuksia. Tarkoituksena on, että tietoon perustuvat julkiset
+palvelut olisi mahdollista toteuttaa entistä laadukkaammin, tuloksellisemmin ja tehok-
+kaammin tiedonhallinnan tukemana.
+
+Lakiesitys on osa hallituksen Digitalisoidaan julkiset palvelut -kärkihanketta. Uusi laki
+edistää julkisen hallinnon prosessien automatisointia ja palvelujen digitalisointia. Lailla te-
+hostetaan viranomaisten keräämien tietoaineistojen hyödyntämistä. Näin voidaan vähen-
+tää kansalaisten ja yritysten hallinnollista taakkaa. Esityksen mukaan hallinnon asiakkaal-
+ta ei saa vaatia asian käsittelyä varten todistuksia tai otteita, jos viranomaisella on oikeus
+samojen tietojen saantiin toiselta viranomaiselta ajantasaisesti teknisten rajapintojen tai
+katseluyhteyden avulla. Kansalaisen näkökulmasta tämä edistää sitä, että häntä koskevia
+tietoja kysytään vain kerran.
+
+Eduskunta on esittänyt viimeisen kymmenen vuoden aikana useita yksimielisiä kannan-
+ottoja viranomaisten tietojärjestelmien yhteentoimivuuden edistämiseksi. Myös eduskun-
+nan tarkastusvaliokunta ja hallintovaliokunta ovat useissa lausunnoissaan esittäneet kriit-
+tisiä huomioita tietojärjestelmien yhteentoimivuudesta. Tiedonhallintalailla tehostetaan
+tietojärjestelmien yhteentoimivuuden toteuttamista. Sillä vastuutetaan viranomaiset järjes-
+tämään tietojen vaihto yhteentoimivalla tavalla tietojärjestelmien välillä. 
+ Tarkistettu
+3.0
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Tiedonhallintalaki mahdollistaa myös sääntelyn sujuvoittamisen, hallitusohjelman ta-
+voitteiden mukaisesti. Nyt on yli kolmesataa säännöstä, joissa on säädetty teknisluontei-
+sesti teknisistä käyttöyhteyksistä, siis yli kolmesataa säännöstä. 
+
+Suomessa ei ole ollut viranomaisille yhdenmukaisia tietoturvaturvallisuussäännöksiä.
+Jo 1990-luvun loppupuolella on kuitenkin tehty selvityksiä, joissa on nähty tarpeelliseksi
+kehittää tietoturvallisuussääntelyä. Hallituksen esitys pitää nyt sisällään viranomaisia kos-
+kevat tietoturvallisuuden perustason varmistavat vaatimukset. Yhteiskuntamme toiminta
+perustuu tietojärjestelmien ja niissä olevien tietojen saatavuuteen mutta myös tarvittavilta
+osin luottamuksellisuuden säilyttämiseen. Jotta voimme varmistaa viranomaisten palvelu-
+jen tuottamisen asianmukaisella tavalla, hyvää hallintoa noudattaen, on viranomaisten to-
+teutettava riittävät tietoturvallisuustoimenpiteet omassa toiminnassaan. 
+
+Tässä yhteydessä haluan vielä todeta, että tällä esityksellä ei muuteta julkisuutta ja sa-
+lassapitoa tai tietojenluovutusperusteita koskevaa sääntelyä. Näitä koskevat yleissäännök-
+set löytyvät sieltä julkisuulaista. 
+
+Tiedonhallinnan sääntely on jo varsin vanhaa. Myös tästä syystä lainsäädäntöä on päi-
+vitettävä ja selkeytettävä vastaamaan nykyistä ja tulevaakin toimintaympäristöä ja palve-
+lurakenteita. Hallituksen esityksessä luodaan pohja viranomaisten tiedonhallinnan elinkaa-
+relle. Nyt eduskunnan käsittelyssä oleva esitys muodostaa kestävän perustan viranomais-
+ten palvelutoiminnan tiedonhallinnalle siirryttäessä 2020-luvulle. Näin viranomaiset voi-
+vat kehittää palveluitaan kansalaisille siten, että ne vastaavat kansalaisten odotuksiin myös
+tulevalla vuosikymmenellä.
+
+Puhemies Paula Risikko: Sitten mennään puhujalistalle.
+
+18.18 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! En malta olla jatkamatta kyse-
+lytunnilla ja edellisessä kohdassa käytyä keskustelua tekoälystä ja digitalisaatiosta, vaikka
+tiedostan kyllä, että puheenvuoroni menee hiukan tämän lakiesityksen ulkopuolelle, mutta
+koska tässä ei ollut niin paljon puheenvuorovarauksia, niin puhemies sallinee tämän.
+
+On tietysti hiukan erikoista — tai en nyt tiedä, onko se erikoista, mutta vähän hassua si-
+nällään — että tämä laki tuodaan käsittelyyn ennen kuin eduskunta on edellä mainitussa se-
+lontekomenettelyssä määrittänyt nämä tietopoliittiset periaatteet ja linjaukset. Jos olisi
+menty loogisesti eteenpäin, niin toisinpäinhän tämän olisi pitänyt tapahtua, mutta ymmär-
+rän toki, ettei tätä lakia voi siirtää eteenpäin.
+
+Tämän lakiesityksen tarkoituksena on, että tietoon perustuvat julkiset palvelut olisi
+mahdollista toteuttaa entistä laadukkaammin, tuloksellisemmin ja tehokkaammin tiedon-
+hallinnon tukemana. Esityksen tietopoliittisena tavoitteena on parantaa tietojen tehokasta
+luovuttamista ja käyttöä tietoturvallisella tavalla viranomaisten, muiden toimijoiden ja pal-
+velujen välillä — äärettömän tärkeitä tavoitteita.
+
+Tämä esitys poistaa osaltaan raja-aitoja eri tietojärjestelmiltä ja tietovarannoilta. Eri vi-
+ranomaisilla on olemassa omat hyvin tarkat, rajatut rekisterinsä, ja tässä uudistuksessa on
+varmistettava, että tietoa ei päädy vääriin paikkoihin, ja on samalla huolehdittava, että toi-
+minta täyttää EU:n yleisen tietosuoja-asetuksen vaatimukset.
+
+Nykyteknologia mahdollistaa hyvin helposti tietojen yhdistelyn ja laajojen tietokanto-
+jen hallinnan. Tästähän me kyselytunnillakin tähän viitaten keskustelimme. Siksi yksittäis-
+ten tietokantojen käsittelyssä, saati niiden sähköisessä luovuttamisessa, on oltava erittäin
+tarkka sellaistenkin tietojen osalta, jotka sinällään ovat yksittäisinä julkisia.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Arvoisa puhemies! Äsken keskustelimme täällä siitä, että ihmis- ja tarvelähtöisen teko-
+älyn kehittäminen edellyttää laajojen yhteiskäyttöisten datatietokantojen mahdollistamista
+omadata-periaatteiden mukaan siten, että yksilöllä on mahdollisuus luottaa dataa koske-
+vaan tietosuojaan ja oikeus myös päättää siitä, mitkä tahot voivat käyttää juuri häntä kos-
+kevaa tietoa. Tarvitaan siis mekanismit, jotka mahdollistavat yksilön vahvan tietoturvan
+vaarantamatta kuitenkaan saatavuutta ja mahdollista uusiokäyttöä. Tähän liittyen Suomen
+tulisi panostaa ohjelmisto-osaamisen kehittämiseen, sillä algoritmien maailmassa on stra-
+tegisesti välttämätöntä vähentää riippuvuutta muualta tuoduista digitaalisista alustoista.
+Varsinkaan julkisen hallinnon tekoälyhankinnat ja digitaaliset alustat eivät saa jäädä läpi-
+näkymättömien, muualta ostettujen ratkaisujen varaan, vaan Suomella on oltava kansalais-
+tensa edun turvaamiseksi omaa algoritmiosaamista riittävästi.
+
+Arvoisa puhemies! Liittyen vielä kyselytuntiin ja edellä käsiteltyyn selontekoon muuta-
+ma sana digitalisaatiosta ja digiosaamisesta.
+
+Digitalisaatioon liittyvän monialaisen osaamisen lisääminen yhteiskunnan kaikilla sek-
+toreilla ja tasoilla on välttämätöntä. Ihmis- ja tarvelähtöisen digitalisaation näkökulmasta
+olisi tärkeää lisätä kansalaisten osaamista ja ymmärrystä tekoälyn kanssa työskentelystä ja
+toimimisesta, sen mahdollisuuksista, rajoituksista sekä tekoälyavusteisen toiminnan eetti-
+sistä ulottuvuuksista. Tämä toimintamalli auttaisi myös digisyrjäytymisen ehkäisemisessä
+ja loisi perustaa ihmis- ja tarvelähtöiselle kilpailukyvylle.
+
+Suomi tarvitsee digitaalisen kuilun umpeenkuromisohjelman, sillä meillä on lähes mil-
+joona kansalaista, jotka eivät pysty, voi, osaa tai kykene käyttämään digitaalisia palveluja.
+Luulemme usein, että kaikki nuoremme ovat diginatiiveja ja sujuvasti liikkuvat digitaali-
+sessa maailmassa, mutta valitettavasti tämä ei pidä paikkaansa. Vaikka nuoret taitavasti
+käyttävät älypuhelimia ja surffailevat netissä, niin esimerkiksi erilaisten hakemusten tai
+kaavakkeiden täyttäminen ei heiltä usein onnistukaan. Nuoret liikkuvat siis digitaalisessa
+maailmassa hyvin rajoittuneesti. Digitaalisen kuilun umpeenkuromisohjelman tavoitteena
+tulee olla se, että kaikilla suomalaisilla tulee olla pääsy uusimman teknologian sekä parhai-
+den sovellusten ääreen, ja tässä tarvitaan yhteiskunnan eri tahojen monipuolista hyödyntä-
+mistä. Tarvitaan kirjastoja, vapaata sivistystyötä, nuorisotyötä, kouluja ja monia muita ta-
+hoja, ja samalla on muistettava myös, että digipalvelujen esteettömyys ja saavutettavuus on
+varmistettava. — Kiitos.
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+3
+
+

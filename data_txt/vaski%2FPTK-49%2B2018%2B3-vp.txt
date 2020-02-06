@@ -1,0 +1,729 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMFE90.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 49/2018 vp
+
+Täysistunto
+
+Tiistai 15.5.2018 klo 14.00—16.23
+
+3. Hallituksen esitys eduskunnalle laiksi Liikenne- ja viestintäviraston perustamisesta, Lii-
+kennevirastosta annetun lain muuttamisesta ja eräiksi niihin liittyviksi laeiksi
+
+Hallituksen esitys HE 61/2018 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päiväjär-
+jestyksen 3. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintäva-
+liokuntaan.
+
+Keskustelu
+
+14.01 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa rou-
+va puhemies! Digitalisaatio, teknologinen kehitys, ilmastonmuutos sekä kaupungistumi-
+nen ja älykäs maaseutu ovat globaaleja megatrendejä, jotka muuttavat liikenteen ja viestin-
+nän toimintaympäristöä. Nopeasti muuttuvassa maailmassa myös viranomaisten roolia on
+jatkuvasti tarkasteltava uudelleen. Jotta monimuotoisiin ja muuttuviin tulevaisuuden haas-
+teisiin pystytään vastaamaan, julkisen hallinnon on pystyttävä lisäämään strategista kette-
+ryyttä ja edelleen vähentämään pirstoutumista ja siiloutumista. Hallintoa uudistamalla var-
+mistamme sen, että Suomi voi tulevaisuudessakin jatkaa menestyksen tiellä ja että asiak-
+kaat saavat tehokkaasti viranomaisilta tarvitsemansa palvelut. [Hälinää]
+
+Toinen varapuhemies Tuula Haatainen:  Anteeksi, ministeri. — Pyydän edustajia käy-
+mään keskustelut tuolla ulkopuolella. Kuunnellaan esittely.
+
+Kiitos. — Liikenne- ja viestintäministeriön hallinnonalan virastouudistuksen tarkastelu-
+näkökulma ei ole pelkästään nykytilanteessa, vaan virastouudistuksella pyritään valmista-
+maan hallinnonalan rakenteet nähtävissä oleviin tulevaisuuden muutoksiin. Digitalisaatio,
+palveluistuminen sekä robotisaatio ja tiedon merkityksen lisääntyminen muuttavat asiak-
+kaiden tarpeita ja samalla liikenne- ja viestintäviranomaisille kohdistuvia vaatimuksia.
+Esitys sisältää ehdotuksen perustettavasta uudesta virastosta. Liikenteen turvallisuusviras-
+to, Viestintävirasto ja Liikenneviraston tietyt toiminnot yhdistettäisiin uudeksi Liikenne- ja
+viestintävirastoksi. Nykyisen Liikenneviraston nimi muuttuisi Väylävirastoksi.
+
+Arvoisa puhemies! Esitykseen sisältyvät virastolait sääntelevät tarkemmin virastojen
+tehtäviä. Tavoitteena on selkeyttää virastojen toiminta-alaa ja tehtäväjakoa.
+
+Liikenne- ja viestintävirastoon siirtyisivät kokonaisuudessaan nykyiset Liikenteen tur-
+vallisuusviraston ja Viestintäviraston tehtävät. Lisäksi tähän uuteen virastoon siirtyisivät
+Liikennevirastosta sellaiset tehtävät, jotka eivät suoraan liity väylänpitoon, kuten merikar-
+toitus, valtiontuki ja valtionavustukset, liikkumisen palvelut ja älyliikenne sekä määräys-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+tenantovaltuudet. Uusi virasto olisi vastuussa sääntely-, lupa-, rekisteri- ja valvontatehtä-
+vistä. Sille kuuluisivat myös liikenteen ja viestinnän markkinavalvontatehtävät. Virasto
+hyväksyisi yleis-, tie- ja ratasuunnitelmat sekä myöntäisi turvallisuus- ja käyttöönottolu-
+vat. Virasto olisi toimivaltainen VTS-viranomainen ja tuottaisi muille viranomaisille ajan-
+tasaista meritilannekuvaa.
+
+Kyberturvallisuuskeskus sekä rautatiealan sääntelyelin toimisivat Liikenne- ja viestintä-
+virastossa, mutta itsenäisinä toimijoina.
+
+Väylävirasto olisi vahva väyläomaisuuden omistaja ja tilaajaorganisaatio. Sen vastuulla
+olisivat tie-, rata- ja meriliikenteen väylät, niiden palvelutasosta ja kunnossapidosta huo-
+lehtiminen sekä väylien kehittäminen. Viraston tehtävänä olisi myös liikenteen ja maan-
+käytön yhteensovittaminen sekä toimiminen läheisessä yhteistyössä maakuntien ja kun-
+tien kanssa. Erityistehtävinä virastolla olisivat edelleen talvimerenkulun viranomais- ja ti-
+laajatehtävät. Väylävirasto vastaisi liikenteenohjauksen järjestämisestä ja tekisi sitä koske-
+vat sopimuksen Liikenteen ohjausyhtiön kanssa. Väylävirasto tilaisi Liikenteen ohjausyh-
+tiöltä tie-, meri- ja rautatieliikenteen liikenteenohjaus- ja hallintapalvelut valtion väyläver-
+kolle sekä myös muiden viranomaisten tarvitsemat palvelut.
+
+Maakuntauudistukseen liittyen Liikenne- ja viestintävirasto osallistuisi maakuntien lii-
+kennejärjestelmäsuunnitelmien laatimiseen omalla toimialallaan. Lisäksi virasto avustaisi
+ministeriötä valtakunnallisen liikennejärjestelmän suunnitelman valmistelussa ja tavoittei-
+den yhteensovittamisessa. Väylävirasto puolestaan olisi maakuntien ensisijainen kumppa-
+ni. Virasto ohjaisi maakuntien tienpitoa sopimusjärjestelyin ja osallistumalla maakuntien
+tienpidon suunnitelmien laadintaan sekä maankäytön yhteistyöhön.
+
+Arvoisa puhemies! Virastojen toiminnan perusta on osaava ja ammattitaitoinen henki-
+löstö. Tarkoituksena olisi, että virastojen nykyinen henkilöstö siirtyisi tai jäisi tehtäviensä
+mukana siihen organisaatioon, johon heidän hoitamansa tehtävät siirtyvät tai jäävät. Lii-
+kenne- ja viestintävirasto olisi henkilömäärältään suurin hallinnonalan virasto. Sinne siir-
+tyisi alustavan arvion mukaan noin 890 henkilötyövuotta. Väylävirastoon jäisi noin 400
+henkilötyövuotta.
+
+Virastorakennetta uudistamalla voimme paremmin palvella kansalaisia ja yrityksiä, hel-
+pottaa arkea, lisätä kasvua ja uutta yritystoimintaa sekä edistää yleistä hyvinvointia.
+
+Arvoisa puhemies! Eduskunnalle on nyt annettu hallituksen esitys, johon sisältyvät eh-
+dotukset liikenne- ja viestintäministeriön hallinnonalan virastouudistuksen toteuttamises-
+ta. Toivon, että esitys saa eduskunnassa myönteisen vastaanoton, jotta voimme toteuttaa
+nämä tärkeät uudistukset. — Kiitos.
+
+Toinen varapuhemies Tuula Haatainen:  Avataan keskustelu asiasta.
+
+14.07 Mikko Alatalo kesk: Arvoisa rouva puhemies! Esitetty virastouudistus edistää lii-
+kenteen digitaalisten palveluiden ja liiketoiminnan kehittämistä ja rakentamista. Uudistus
+vahvistaisi myös tällaista poikkihallinnollisuutta. Se kokoaisi viestintä- ja liikennesektorin
+palvelut yhteen helposti lähestyttävään palvelukokonaisuuteen, jota kansalaisten on siis
+mahdollista lähestyä.
+
+Väylähallinnon uudistuksessa pitää pitää huoli siitä, että väylien kunnossapitorahoitus
+— mukaan lukien alemman tiestön rahoitus — turvataan. Liikenneverkon kunnossapidos-
+sa ja kehittämisessä tulee ottaa huomioon raskaan tavaraliikenteen tarpeet, eli teitä ja väy-
+liä pitää rakentaa sinne, missä sitä kansantuotetta myös tehdään, eli myös maakuntiin. Yk-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+sityistieverkko tulisi ottaa huomioon tehtäessä valtakunnallista ja maakunnallista valmis-
+telua, ajatellaanpa vaikka meidän puuhuoltoa.
+
+Ja todellakin on tärkeää, että Kyberturvallisuuskeskus on mukana tässä. Se on tätä päi-
+vää, ja meidän täytyy olla siinä ajankohtaisia, mutta erityisesti toivon sitä, että virastouu-
+distus takaa sen, että Suomessa säilyy tasapainoinen aluekehitys ja koko Suomi pysyy asut-
+tuna, ja ihmisiä ei keskitetä pelkästään suuriin kaupunkeihin vaan uudistus on myös mah-
+dollisuus rakentaa kunnon infraa todella muuallekin Suomeen.
+
+Viraston yhdistämisellä ja toiminnan tehostamisella voidaan edistää myös norminpur-
+kua. On kyettävä vielä osoittamaan, mitä säästöä virastouudistuksella tavoitellaan ja miten
+sitä mitataan. Ainakin asiantuntijoiden mielipiteet ovat olleet liikennevaliokunnassa tähän
+myönteisiä, että tämä kannattaisi tehdä.
+
+Todellakin toivotaan, että tällä voimme tehostaa liikenteen ja viestinnän sektorin toi-
+mintaa.
+
+14.09 Timo Heinonen kok: Arvoisa rouva puhemies! — Hyvä ministeri, kiitos esittelys-
+tä. — Muutokset ovat suuria tällä liikenteen sektorilla ja viestinnän sektorilla, ja tämä vi-
+rastouudistus tulee tähän isoon kokonaisuuteen. Täytyy toivoa, että se onnistuu hyvin.
+
+Liikenne ja viestintä ovat nimittäin erittäin suuressa murroksessa. Digitalisaatio, liiken-
+teen palveluajattelu ja liikennemarkkinointi ja sen syntyminen lähentävät merkittävällä ta-
+valla tulevaisuudessa ja jo tälläkin hetkellä liikenteen ja viestinnän toimialoja. Tässähän
+yhdistetään nyt Trafi ja Viestintävirasto Liikenne- ja viestintävirastoksi tämän virastouu-
+distuksen toisena kokonaisuutena. Silloin erottuvat liikenne ja fyysinen väylänpito eli väy-
+läinfra toisistaan eri virastoihin, kun Väylävirasto ryhtyy sitten tätä toista puolta hoita-
+maan.
+
+Tavoite on minun mielestäni oikeansuuntainen eli vahvistaa tätä kokonaisuutta ja ni-
+menomaan yhdistää sitä ajattelua, niin kuin edustaja Alatalo toi esille tämän poikkihallin-
+nollisuuden ja rajapintojen rikkomisen. Se on tässä oleellisen tärkeässä roolissa.
+
+Yhteistyötä tarvitaan varmasti jatkossakin, ja silloin tärkeäksi tulee tämä Väylävirasto,
+sen rooli tulee olemaan erittäin oleellinen. Tienpidon ohjausmallin toiminnan on onnistut-
+tava käytännössäkin, että tämä kokonaisuus saadaan toimivaksi. Väyläverkkoa tulee kehit-
+tää. 
+
+Ja olen tyytyväinen siihen, että, ministeri Berner, olette aktiivisesti nostanut esille tätä
+korjausvelkakysymystä ja myös näitä isoja hankkeita ja sitä, että myös tulevilla vaalikau-
+silla pitää jatkaa tätä korjausvelan umpeen kuromista. Tarve on ehkä 200—400 miljoonaa
+vuositasolla, että me pystymme pitämään huolta meidän tieverkostamme. Olen iloinen,
+että teidän aikananne tähän on tartuttu.
+
+14.11 Markku Pakkanen kesk: Arvoisa rouva puhemies! Uudistuksen tuulet puhaltavat
+liikennesektorille, ja se on hyvä näin. Tulevaisuus vaatii uudistuksia myös virastojen teh-
+tävänjaossa, ja on tärkeää, että turvallisuus ja älyliikenne ja sääntely ja lupaviranomaiset
+keskittyvät saman viraston ja hallinnon alle tulevaisuudessa. Tulee oikeanmukainen tilan-
+nekuva ja asioiden hallittavuus on parempaa. 
+
+Tärkeää tässä muun muassa on myös se, että Väylävirasto — johon, kuten tuossa esitte-
+lypuheenvuorossa kuultiin, sisältyy 400 henkilötyövuotta — tulee hallitsemaan tie-, rata-
+ja meriliikenteen väyliä, ja niiden kehittäminen on tulevaisuudessa Väyläviraston tärkein
+tehtävä. Hyvä yhteistyö maakuntien ja kuntien päättäjien kanssa on tärkeää ja toivonkin,
+3
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+että maakuntauudistuksen myötä Väyläviraston ja maakuntien hyvä yhteistyö lähtee liik-
+keelle. Näin saadaan Suomen perusväylät ja miksei nämä isommatkin väylät hyvään kun-
+toon. Väylävirastolle kuuluvat myös tiesopimukset ja ylläpito. Näissä asioissa maakuntien
+tehtävä ja merkitys kasvavat. 
+
+Haluaisinkin kysyä ministeriltä: auttaako Väyläviraston perustaminen tulevaisuudessa
+myös tähän rahoitusongelmaan, millä näitä perustienpidon ja suurempien investointien ra-
+hoituksia tehdään, ja mahdollistaako tämmöinen virastouudistus helpommin tämän rahoi-
+tuksen valmistelun? Tässä suunnitteluvaiheessa virastojen välinen yksimielisyys on myös
+hyvä, koska sillä taataan, että työpaikoilla, jotka uusiin virastoihin siirtyvät, henkilökunta
+mielellään lähtee tähän uudistukseen mukaan, kun valmistelua tehdään yksimielisesti.
+
+14.13 Ari Torniainen kesk: Arvoisa rouva puhemies! Liikenne ja viestintä on aivan maa-
+ilmanlaajuisesti todella suuressa murroksessa, ja kehitystä tapahtuu valtavasti, ja Suomen
+on oltava myöskin tässä kehityksessä mukana, ja kiitos liikenneministeri Bernerille näistä
+tehtävistä, mitä olette tehneet. Suomi on etujoukossa muutoksessa. Tällä hallituksen esi-
+tyksellä, tällä uudistuksella vastataan liikenteen ja viestinnän murrokseen, mikä on tapah-
+tumassa. Liikenne- ja viestintäpalvelut nivoutuvat nykyistä tiiviimmin yhteen ja ovat oike-
+astaan yhtä kokonaisuutta ja muodostavat toisiaan tukevan kokonaisuuden. Tärkeää on
+edistää myös tulevaisuudessa hallinnon tuottavuutta, sujuvoittaa sääntelyä ja myös turvata
+ihmisille luotettavat ja sujuvat liikenneverkot koko Suomessa, nimenomaan koko Suomes-
+sa. 
+
+Tämä uudistus on erittäin laaja ja koskee paljon henkilökuntaa myöskin. Tuo hallituk-
+sen esitys, 1 760 sivua, on iso lakipaketti, ja sen kahlaaminen ja läpikäyminen vaatii aikaa,
+ja sieltä löytyy varmasti asioita hyvinkin paljon. Tärkeää omasta mielestäni on se, että
+myöskin henkilöstö ja henkilökunta pidetään tässä uudistuksessa tiiviisti mukana ja kaik-
+kien työpaikat turvataan myöskin tulevaisuudessa. 
+
+Tällä hallituksen esityksellä ei varsinaisesti ole yhteyttä maakuntauudistukseen, mutta
+omasta mielestäni se sopii tähän aikaan ja tähän tilanteeseen erittäin hyvin, ja on nyt ni-
+menomaan tärkeää, että tässä yhteydessä, tässä tilanteessa tehdään myöskin tämä virasto-
+uudistus. 
+
+Virastojen tehtävienjaon tulee olla myöskin jatkossa selkeää. Ne ovat tulossa selkeiksi,
+ja myöskin tarvitaan poikkihallinnollista yhteistyötä virastojen kesken, niin kuin täällä on
+aikaisemmissa puheenvuoroissa jo tullut esille. 
+
+Väylävirasto tulee olemaan erittäin tärkeä toimija tulevaisuudessakin, ja toivon, että
+sieltä saatava tieto on aina ajankohtaista ja ajanhenkistä koko ajan ja että ihmiset, kansa-
+laiset saavat myöskin tietoa tästä uudistuksesta ja viraston toiminnasta. 
+
+14.16 Jari Myllykoski vas:  Arvoisa rouva puhemies! Esitys sinällään on varmasti juuri
+sellainen kuin nykypäivänä tarvitsee olla, eli toimintoja tehostetaan, pystytään tekemään
+aina enemmän ja enemmän poikkihallinnollista yhteistyötä, jotta voimavaroja ei haaskata
+kaksinkertaisen työn tekemiseen, ja silloin tämä on todella hyvä esitys. On tärkeätä poistaa
+sitä ministeri Bernerinkin esille tuomaa asiaa, ettei ole tämmöisiä siiloja vaan me pystym-
+me tekemään yhdessä näitä asioita. Ja nimenomaan toistan vielä: tämän kaksinkertaisen
+työn tekemisen poistaminen on todella tärkeätä.
+
+Mutta osaltaan ajattelen sitä, että tässä valmisteluvaiheessa tämä on ollut niitten lausun-
+tokierroksien jälkeen, ja mitä on niitä kommentteja ollut, hirvittävän yksituumainen. Sil-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+loin pitäisi liputtaa, että nyt asiat ovat menossa oikeaan suuntaan, mutta silloin sitä aina ru-
+peaa miettimään, ovatko tavoitteet olleet riittäviä toimintojen tehostamiseksi, jos kukaan ei
+ajattele, että ollaanko minulta viemässä jotakin, mitenkä minun työtehtäväni tulevat muut-
+tumaan.
+
+Siinä mielessä vähän suhtaudun kriittisesti ja erityisesti yhdeltä kohdin olen erittäinkin
+kriittinen, että meillä tässä tulevassa virastossa on sisään uitettu osakeyhtiö, kun liikenteen
+palveluitten yhtiöittäminen toteutuu samaan aikaan. Meillä ei ole vielä minkäänlaista toi-
+mintakulttuurinäkemystä eikä vaikutusten arviointia siitä, kuinka liikenteen palveluitten
+yhtiöittäminen tulee olemaan siellä sisällä, viraston sisällä. Minä nyt haluan täsmentää, että
+viraston sisällä toimii osakeyhtiölain piirissä oleva osakeyhtiö. Kun osakeyhtiölaki edel-
+lyttää, minkälaisia sopimuksia tehdään, kuinka tehdään, niin toivoisin, että ministeri voisi
+hälventää niitä edustajan epäluuloja, että ollaanko harkittu, kuinka tämä kokonaisuus vie-
+dään.
+
+Nyt ollaan menossa kovalla kiireellä. Meillä tehdään liikennepolitiikassa erittäin nopei-
+ta päätöksentekoja. Ei ainakaan voi sanoa, että tällä kaudella raiteet olisivat olleet kovin
+mutkalla, vaan ollaan menty todella kiivasta vauhtia eteenpäin ilman, että arvioidaan, mitä
+kaikkea on tapahtumassa. En voi tietysti olla epäilemättä, etteikö tässä olisi ideologista
+taustaa sille, että me haluamme yhtiöittämiskehityksen ja vauhdittaa sitä, että syntyy yhti-
+öitä, ja yksityistäminen menee vauhdilla eteenpäin ilman, että sitä arvioidaan, mitä ja kuin-
+ka tämä sitten vaikuttaa kaiken kaikkiaan tähän ja hyviin järjestelmiin, joita on esimerkiksi
+raideliikenteessä, kun tätä koko vyyhtiä viedään isosti ja jokaisella sektorilla eteenpäin.
+
+14.20 Jukka Kopra kok: Arvoisa rouva puhemies! Yhteiskunta asettaa yrityksille, yksi-
+tyisille ihmisille tietynlaisen velvoitteen, että aina tuottavuutta pitää parantaa ja pitää uu-
+siutua ja aina pitää pyrkiä parempaan. On hyvä, että myös meidän hallintomme tekee tätä
+samaa: pitää kehittää, pitää uudistua, hallintorakenteita pitää suoraviivaistaa ja tässä ta-
+pauksessa järkiperäistää tehtävänjaon mukaan. Tämä esitys on hyvä, se selkiyttää virasto-
+jen toiminta-alaa, selkiyttää niiden tehtävänjakoa ja edistää myös hallitusohjelman mukai-
+sesti norminpurkua.
+
+Lausuntokierroksella tähän esitykseen saatiin erityyppisiä vastauksia, ja on selvää, että
+eduskuntakäsittelyssä ja valiokuntakäsittelyssä pitää huolellisesti perata tämä esityskoko-
+naisuus läpi ja katsoa, että kaikki pykälät ovat asianmukaisesti kohdallaan. Edelleen, nyt
+kun meillä liikennesektorilla on suuria muutoksia, lait liikenteen palveluista astuvat voi-
+maan ja niitä vielä sorvataan, sitten maakuntauudistus on tulossa, voi todeta, että merkittä-
+vä osa tällä hetkellä tästä hallinnonalasta on muutosprosessin kourissa. Ja nyt kun me ase-
+tamme myös tämän virastorakenteen, joka tätä muutosprosessia monesti hallitsee ja joka
+toteuttaa näitä toimia, itseensä muutosprosessiin on kiinnitettävä erityistä huomiota muu-
+toksen toteutuksen johtamiseen, niin että homma pysyy hanskassa, että kaikki menee niin
+kuin on suunniteltu ja tapahtuu asianmukaisesti, ettei tule ylilyöntejä eikä sitten jää huo-
+maamatta mitään asioita, kun paljon kerran tapahtuu yhtä aikaa.
+
+————
+
+Toinen varapuhemies Tuula Haatainen: Arvoisat kansanedustajat! Ilmoitan, että Islan-
+nin tasavallan presidentti Jóhannesson seurueineen on saapunut seuraamaan täysistuntoa.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+Eduskunnan puolesta lausun arvoisat vieraat tervetulleiksi eduskuntaan. [Suosionosoituk-
+sia]
+
+————
+
+Toinen varapuhemies Tuula Haatainen: Mennään takaisin puhujalistaan.
+
+14.22 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Tämä uudistus on ihan normaa-
+lia hallinnon kehittämistä, joka tähtää siihen, että Suomessa olisi yhä paremmat liiken-
+neolosuhteet tulevina vuosina. On muistettava se asia, että digitalisaatiohan etenee joka ta-
+pauksessa, mikä tarkoittaa myös sitä, että päätöksiä pystytään tekemään nopeammin ja
+käyttämään hyödyksi näitä nykyajan tietojenkäsittelyvälineitä. Siinä ei ole mitään pahaa,
+se on tätä päivää ja siitä on otettava kaikki hyöty irti.
+
+Tiet, radat, yleensä liikenneväylät, vesiväylät, ne ovat tämän maan menestyksen tae, ja
+toivon, että näiden tämän kevään kokemusten jälkeen ymmärrämme sen, kun on ollut vai-
+kea kelirikkokevät, että pidämme omat liikenneväylämme kunnossa Helsingistä Utsjoelle
+saakka. Esimerkiksi biotalouden puolella me tänä päivänä tiedämme sen, että esimerkiksi
+puun kuljetukset vaativat ympärivuotisen kuljetusväylien toiminnan. Siihen tarvitaan
+alempaa tieverkkoa, rautateitä. 
+
+Siitä olen hieman murheellinen, että sisävesireittien käytön huomiointi on jäänyt mie-
+lestäni liian vähälle, koska tosiasiassa, jos haluamme kuljettaa tässä maassa yhä enemmän
+esimerkiksi puutavaraa tai muuta raskasta liikennettä, sehän toki pitäisikin siirtää sinne ve-
+siväylille mahdollisimman paljon, koska se säästäisi tieverkkoa huomattavasti. Ja puutava-
+ran kuljetukset nimenomaan ovat perinteisesti olleet vesireiteillä tapahtuvia, ennen uittoi-
+na. Tämän päivän tekniikka vaatisi parempia laivoja. Siihenkin meillä on tekniikka ole-
+massa, jos haluamme vain sen toteuttaa.
+
+Mutta tärkeää on kuitenkin se, että laitamme tieverkon kuntoon ihan huippuväylistä lu-
+kien, ne tärkeimmät liikenneväylät, valtatiet, mutta myös alempi tieverkko vaatii selkeän
+suunnanmuutoksen siksi, että meillä tänä päivänä alemman tieverkon kunto rapautuu koko
+ajan. Me tarvitsemme selkeän suunnanmuutoksen, ja uskon, että näillä uusilla mahdolli-
+suuksilla siihen ongelmaan pystytään tarttumaan. Alempi tieverkko tarvitsee selkeästi
+tiehöylien käyttöön ottamisen. Sehän oli aikoinaan valtavirta, miten tämä homma tehtiin.
+Soratiet pidettiin tiehöylillä kunnossa. Tänä päivänä ne ovat melkein hävinneet suomalais-
+ten tieverkolta. Tämän takia toivon, että nyt uuden ajan koittaessa tämä asia sisäistetään ja
+laitetaan se soratieverkko kuntoon, koska joka ainoa puumotti, jokainen raaka-ainevirta
+lähtee käytännössä alemman tieverkon varrelta liikenteeseen. Jos kuljetukset eivät kulje, ei
+jalostus, toiminta eikä jakelukaan toimi. Tämän takia nyt olemme erittäin tärkeiden asioi-
+den äärellä.
+
+Arvoisa rouva puhemies! Lopuksi haluan nostaa esille vielä tämän digitaalisuuden: ai-
+van erinomainen asia. Keinoäly tulee, tekniikka kehittyy valtavaa vauhtia, mutta se ei pää-
+se tässä maassa oikeuksiinsa, ellemme pysty rakentamaan tähän maahan koko maan katta-
+vaa valokuituverkkoa. Se on jo nähty maakunnissa ihan selkeästi, että langattomalla ver-
+kolla se homma ei vain onnistu, semmoista linkkiverkostoa tähän maahan ei pysty raken-
+tamaan. Mutta kun rakennamme, ja valtio ottaa siihen vahvasti osaa, että rakennamme
+koko maahan kattavan, valokuitutekniikkaan perustuvan nykyaikaisen tietoverkkojärjes-
+telmän, silloin onnistumme.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+14.25 Tytti Tuppurainen sd:  Arvoisa rouva puhemies! Maamme hallitus muokkaa
+maamme hallintoa täysin uusiksi monin paikoin, ja nyt on eduskunnan lähetekeskusteluun
+tuotu esitys, joka koskee Liikenne- ja viestintäviraston perustamista. Tässä hallituksen esi-
+tyksessä esitetään Liikenteen turvallisuusviraston, Viestintäviraston sekä myös Liikenne-
+viraston tiettyjen toimintojen yhdistämistä, ja täten siis luotaisiin tämä uusi mainittu viras-
+to eli Liikenne- ja viestintävirasto. Perusteluita tälle on tietysti hyviä, muun muassa tode-
+taan, että tavoite on parantaa hallinnon tuottavuutta ja vaikuttavuutta käyttämällä moni-
+puolisemmin ja tehokkaammin resursseja, pitäisi saada synergiaetuja ja tietysti vastata pa-
+remmin muuttuneeseen toimintaympäristöön. Nämä ovat kannatettavia ja hyviä tavoitteita.
+
+Mutta mitä tulee tämän uuden viraston, Liikenne- ja viestintäviraston, perustamiseen,
+niin kiinnittäisin huomiota tämän tulevan viraston sisäiseen organisaatioon ja erityisesti
+siihen, miten Viestintäviraston alaisuuteen tähän asti kuuluneet tehtävät tullaan tässä uu-
+dessa virastossa järjestämään. Kun otetaan huomioon se, että uuteen virastoon siirrettäisiin
+Liikenteen turvallisuusviraston tehtävät — ja tämä kyseinen virasto on henkilöstömääräl-
+tään lähes kaksi ja puoli kertaa suurempi kuin Viestintävirasto — niin olisi siis hyvä saada
+vähän selvennystä ja tarkennusta siihen, miten tehtävät oikein kyetään järjestämään tässä
+uudessa perustettavassa virastossa.
+
+14.27 Eero Lehti kok: Arvoisa rouva puhemies! Liikenneverkko on kunnossa, minulla ei
+oikeastaan siitä ole juurikaan huomauttamista. Se taso, millä maa on sitä hoitanut, riittää
+minulle mutta ei välttämättä ammattiliikenteelle, jossa vaatimukset ovat huomattavasti ko-
+vemmat. 
+
+Se, mikä kokonaisuuden kannalta on sitten ärsyttänyt, on se, että nämä säännökset, mil-
+lä verkostoa käytetään, ovat jääneet mielestäni kehityksestä jälkeen. On esimerkiksi kau-
+punkialueella kaksikaistaisia teitä, katuja, jossa sitten bussikuski ja bussinkuljetus ja taksi
+saavat liikennöidä, mutta käyttöaste on varmaan alle 5 prosentin luokkaa. Kyllä bussin lii-
+kennöintiä voidaan helpottaa myös siten, että muilla on väistämisvelvollisuus mutta että
+kaistalla saa ajaa. Yhdysvalloissa esimerkiksi moottoriteillä saa ajaa silloin tietyllä tavalla
+toista kaistaa, jossa liikenne kulkee nopeammin — jos henkilöautossa on useampi kuin
+kaksi henkilöä.
+
+Samoin sitten on ihmetyttänyt se, miten monissa maissa annetaan ajokortti 16-vuotiaal-
+le, mutta Suomessa sen ikäisiä vanhemmat saavat sitten viedä erilaisiin tilaisuuksiin, jää-
+kiekkoharjoituksiin ynnä muihin. Tämä puoli — tekisi mieli sanoa — vaatii myös tarkas-
+telua, jotta verkko saataisiin järkevään käyttöön. 
+
+Mutta sitten haasteita on näköpiirissä ennen kaikkea tällä viestinnän puolella, jossa, voi-
+si sanoa, koko toimiala on murroksessa ja se lopputulos saattaa olla myös sananvapauden
+kannalta jo kyseenalainen, jos alalta poistuu huomattava määrä sellaisia, jotka mahdollis-
+tavat erilaisten mielipiteiden esille tulemista.
+
+14.29 Jyrki Kasvi vihr: Arvoisa puhemies! Historian pyörät pyörivät, ja joskus palataan
+takaisin alkupisteeseen. Ei nimittäin ole sattumaa, että liikenne ja viestintä ovat samassa
+ministeriössä, samassa valiokunnassa ja pian myös samassa virastossa. Nykyaikainen tie-
+toliikenne nimittäin syntyi alkujaan junaliikenteen tarpeisiin, kun asemien välille tuli tarve
+välittää tietoja junien liikkeistä. 
+
+Liikenteen ja viestinnän yhteys on jälleen ajankohtainen nyt, kun digitalisaatio on mul-
+listamassa myös perinteisen liikenteen rakenteita ja liiketoimintamalleja vähintään yhtä
+7
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+perusteellisesti kuin juna aikanaan tai polttomoottori tiestössä. Jo nykyaikaiset henkilöau-
+tot ovat yhtä paljon tietotekniikkaa kuin ajoneuvoja, 2020-luvun autonomisista autoista,
+laivoista ja lentolaitteista nyt sitten puhumattakaan. Ja siinä maailmassa, 2020-luvulla, tie-
+toliikenteen ja tekniikan turvallisuus on kriittistä tosiaan myös liikenteen turvallisuudelle,
+ja siksi tämä liikenteen ja viestinnän osaaminen ja kokoaminen on hyvinkin perusteltua.
+Tunnetusti sitten ongelmat piilevät siellä yksityiskohdissa, mutta sitä vartenhan meillä
+tuolla valiokunnassa näitä kuullaan.
+
+14.30 Markku Eestilä kok:  Arvoisa rouva puhemies! Edustaja Kasvilla oli erinomainen
+puheenvuoro: näin näitä hallinnon uudistuksia täytyy tehdä ja seurata sitä kehitystä, mikä
+yhteiskunnassa on väistämätöntä, ja silloin kun kaikki tehtävät ovat saman viraston alla,
+niin kyllä se johtaminen ja koordinaatio on aina parempaa kuin eri virastojen alla oleva toi-
+minta.
+
+Minun mielestäni ministeri on pannut tuulemaan ja erinomaisia uudistuksia on tehty ni-
+menomaan tällä hallituskaudella. Itse olen iloinen siitä, että liikenne on saanut ikään kuin
+aika uuden aseman koko yhteiskunnan kehittämisessä ja nimenomaan suuret liikennehank-
+keet eivät ole pelkkiä liikennehankkeita, vaan ne ovat myös elinkeinoelämän kehittämis-
+hankkeita, asumisen kehittämishankkeita ja muita. Ja nyt kun parlamentaarisesti eli kaikki
+puolueet ovat nähneet tarpeellisena, että me teemme nimenomaan parlamentaarisesti 12-
+vuotisen liikennejärjestelmäsuunnitelman, niin minun mielestäni tämä virastouudistus tu-
+kee tätä 12-vuotista järjestelmää. On tärkeää, että meillä sitten aikanaan on hahmotelma,
+mitä me tässä maassa teemme, koska viraston pitää tietää, mitä suunnitella, ettei suunnitel-
+la turhaan ja sitten toteutetaan. Siinä mielessä pidän tätä uudistusta hyvänä.
+
+14.31 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Sen verran vielä liikenteestä li-
+sää, että alemman tieverkon osalta on syytä muistaa se, että tämän päivän Suomessa meillä
+edelleen on olemassa se mahdollisuus, että joka puolella Suomea meillä löytyy erittäin pä-
+teviä, osaavia urakoitsijoita, jotka pystyvät alemman tieverkon kunnon hoitamaan. Omas-
+ta kotimaakunnastani ja sillä kokemuksella asiaa tarkastellen uskon ja olen ihan varma sii-
+tä, että näillä urakoitsijoilla, jotka asuvat siellä paikan päällä, on se tietotaito ja ennen kaik-
+kea osaaminen ja kalusto. Tänä päivänä on niin, voi sanoa, että me emme enää tarvitse ko-
+vin paljon lisää mitään uusia ideoita siihen hommaan. Totta kai digitekniikka helpottaa esi-
+merkiksi urakointisopimuksia ynnä muuta tällaista byrokratiaa, mutta se iso kuva on kui-
+tenkin esimerkiksi puutavaran kuljetuksissa se, että kun sääolosuhteet muuttuvat, niin
+nykyinen urakoitsijaporukka pystyy reagoimaan siihen tienhoitoon erittäin nopeasti: jopa
+ihan muutamien minuuttien varoitusajalla, jos tilanne huononee, pystytään tieverkko lait-
+tamaan nopeasti kuntoon. Toivon, että tämä asia huomioidaan nyt uuden lain voimaan tul-
+len entistä paremmin, koska se on se ongelma, joka on maaseutukunnissa aiheuttanut suur-
+ta huolta. Esimerkiksi koulukuljetusten ja hätäkuljetusten — paloautojen, pelastuslaitok-
+sen käyttämän kaluston — kohdalla on monessa tapauksessa jäänyt vähän kesken se me-
+neminen, kun tie on ollut huonossa kunnossa. Näin ei saa käydä. Meillä on siihen olemassa
+tekniikka, meillä on osaaminen, meillä on kalusto — sinällään ei ole ongelmaa.
+
+Toinen asia, mikä on huomioitava myös, on se, että kun rataverkkoa kehitetään, niin ni-
+menomaan raskaat kuljetuksethan pitää mahdollisuuksien mukaan saada sinne rautapyöril-
+le, ja sitten toivon, että tulevaisuudessa saataisiin vihdoin ja viimein sisävesireittien käyttö
+paljon paljon runsaammaksi kuin se tänä päivänä on. Totta kai se, että me olemme venä-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+läisistä riippuvaisia Saimaan kanavan takia, on meille semmoinen asia, josta me emme nä-
+köjään millään pääse irti. Jos meillä olisi kansakuntana viisautta, niin meidän pitäisi raken-
+taa kylmästi Kymijoen kanava, hakea siihen TEN-verkosta rahaa, ja yhtä lailla rakennet-
+taisiin Jäämeren yhteys, koska pitkässä juoksussa tosiasia tässä maailmassa on kuitenkin
+se, että katsokaapa kaikkia niitä valtioita, joilla on ollut mahdollisuus harjoittaa sisävesilii-
+kennettä, istukaapa vaikka Tonavan rannalla hetken aikaa: Mitä siellä tapahtuu? Siellä me-
+nee toki iso, leveä joki, jossa on likaista vettä, mutta siellä on myös valtava jokiliikenne, ai-
+van valtava liikenne. Kuvitelkaapa sellaisen liikenteen nousevan maanteille. Siitähän tuli-
+si täydellinen liikennekatastrofi. Elikkä siellä on osattu tämä homma käyttää, ja kun niin on
+tehty Venäjällä, niin tehdään Ruotsissa, niin tehdään Saksassa, niin minkä tautta se ei meil-
+lä toimi? Se on täysin mahdollista ja erittäin kustannustehokasta, ja ennen kaikkea vesitie-
+hän on tunnetusti semmoinen tie, joka ei tunne kelirikkoa, ei kesällä eikä talvella, ei kum-
+panakaan aikana.
+
+14.34 Markku Eestilä kok: Arvoisa rouva puhemies! Kaksi pientä asiaa vielä.
+Pidän hyvänä, että tässä hallituksen esityksessä on, kuten edellisessäkin Liikenneviras-
+
+to-laissa, 1 §, jossa on mainittu alueiden ja elinkeinoelämän tasapuolinen kehittäminen. Se
+on erittäin tärkeätä, että virasto tuntee tämänkin asian ja kun näitä suunnitelmia tehdään,
+niin otetaan sitten Lappi huomioon, otetaan Länsi-Suomi huomioon, otetaan pääkaupunki-
+seutu huomioon, Etelä-Suomi ja tietenkin Itä-Suomi, että kaikki nämä tulevat tasapuolises-
+ti otettua huomioon ja suunnitelmat ovat kattavia.
+
+Toinen asia, mihin haluaisin vielä kiinnittää huomiota: Näitä uudistuksia kieltämättä on
+nyt aika paljon. On maakuntauudistus — siellä on liikenne merkittävässä roolissa — ja kun
+sitten meillä tulee nämä virastouudistukset, niin luulisin, että valiokunnassa saattaisi olla
+hyvä katsoa, että nämä vastuut on kohdennettu selvästi jollekin tietylle taholle, ettei käy
+niin, että on kahta tai kolmea eri tahoa, minne sittenkin vastuut ikään kuin kaatuvat ja koh-
+distuvat, koska tämmöisestä kaksipäisestä tai kolmepäisestä johtajuudesta ei käytännössä
+kyllä hyvä seuraa. Toivon, että nämä vastuukysymykset sitten valiokunnassa — mikäli nii-
+tä on tarve jollakin tavalla muotoilla uudelleen — ovat yksiselitteiset ja kohdennetut suo-
+raan tietylle taholle.
+
+14.35 Kari Uotila vas:  Arvoisa rouva puhemies! Aluksi kyllä täytyy yhtyä tuohon edus-
+taja Hoskosen näkemykseen. Kyllä aikoinaan täällä eduskunnassakin toimi hyvin vahvasti
+niin sanottu kanavapuolue, ja itsekin siinä taisin 90-luvun loppupuolella olla mukana, ja
+kovasti puhuttiin vesiliikenteen edistämisestä. Nyt kun nämä ympäristönäkökulmat ja lii-
+kenteelle asetetut mittavat päästötavoitteet ovat edessämme, niin on pikkasen jäänyt pie-
+neen huomioon tämä vesiliikennemahdollisuus.
+
+Muuten tältä osin, tähän uudistukseen liittyen ja kaikkeen siihen, että liikennepolitiikka
+tulee uudistumaan ja tulee kokemaan todella isoja muutoksia — ja niihin mahdollisuuksiin
+pitää tarttua — kaksi isoa asiaa minun mielestäni pitää muistaa pitää mielessä, ja ne ovat
+osittain toteutumassa.
+
+Ensimmäinen on se, että pitää olla pitkäjänteisyyttä, pitää olla pitkät näköalat ja pitää
+olla suunnitelmallisuutta ja yhdessä tekemistä. Tässä on tehty liikennepolitiikassa hyvin
+paljon hyviä strategioita: niitä tulee ja menee, ne pistetään hyllyyn, sitten kymmenen vuo-
+den päästä tehdään taas jonkun liikennemuodon uusi strategia. Kyllä tähän pitää saada jä-
+mäkkyyttä, ja siinä varmaan tämä virastouudistus osittain tätä tavoitetta palvelee.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+Mutta se toinen seikka, mihinkä täällä aikaisemmin edustaja Myllykoski jo viittasi, on,
+että kun tehdään näitä isoja yhteiskunnallisia uudistuksia, puhutaan sitten sotesta tai puhu-
+taan vaikka energiaverkosta tai puhutaan liikennepolitiikasta, niin kyllä täytyy muistaa se,
+että kun me edustamme täällä kansanvaltaa valtiopäiville kokoontuneena eduskuntana,
+niin meidän kyllä pitää kantaa huolta siitä, mikä on julkisen vallan ja julkisen sektorin roo-
+li näiden uudistuksien vetureina, ohjaajina ja isäntinä. Elikkä ei saa olla liian innokas ja
+mennä siihen, että julkinen sektori ja kansanvallan rooli niin liikennepolitiikan kuin mui-
+denkin uudistusten viimekätisenä ohjaajana ja moottorina ei säilyisi. Siitä kannan välillä
+huolta, kun on innokkuutta vähän liikaakin.
+
+14.38 Markku Pakkanen kesk:  Arvoisa rouva puhemies! Näin keväällä on intoa var-
+maan uudistaa, ja se on tietenkin hyvä: kevät on kasvun aikaa, ja sillä lailla.
+
+Haluan itse kumipyörä- ja raideliikenteen ystävänä nostaa keskusteluun myös tämän ka-
+nava-asian, mikä täällä on kahdessa puheenvuorossa mainittu. Saimaan kanava on tieten-
+kin koko Suomen valtiolle erittäin tärkeä väyläyhteys, mutta itse haluaisin puhua tästä Ky-
+mijoen kanavoinnista, minkä edustaja Hoskonen tuossa nosti. Nythän meillä on lopullista
+päätöstä vaille Kimolan kanavahanke, ja toivon, että hallitukselta löytyy ymmärrystä sii-
+hen lisärahoitukseen, mikä Kimolan kanavan yhteydessä on. Siellähän vanhat nippunostu-
+rit uusitaan. Se, että tuleeko aikanaan Kymijoen kanavointi sitten, niin kuin tuossa edustaja
+Hoskonen arvioi, on varmaan tulevaisuutta, mutta tällä hetkellä ainakin tämä Kimolan ka-
+navahanke on tärkeää saada eteenpäin, ja toivon, että hallitukselta löytyy sille hankkeelle
+myötämielistä ymmärtämystä.
+
+14.39 Jukka Kopra kok: Arvoisa rouva puhemies! Kun täällä nyt uudelle virastolle anne-
+taan kovasti tehtäväksi kanava-asian ratkaisuja ja niiden kehittämistä, en malta olla muis-
+tuttamatta, että Saimaan kanava on Järvi-Suomen valtasuoni maailmalle ja hyvin korkealta
+pohjoisesta vientituotteita viedään maailmalle ja tuodaan maailmalta ja viedään pohjoi-
+seen Suomeen ja se on näin ollen vientimme ja yleensäkin elon kannalta erittäin tärkeä väy-
+lä. Saimaan kanavan sulkuportit tulisi uudistaa. Niitä sulkualtaita tulisi pidentää, ja siihen
+tarvitaan lähitulevaisuudessa valtion rahoitusta. Jos näitä toimia, huoltotoimia ja kehitys-
+toimia, ei siellä tehdä, on suuri vaara, että tämän väylän merkitys pienenee, sillä kaluston
+— tarkoitan tällä aluskalustoa maailmalla — koko kasvaa, ja uudet laivat eivät välttämättä
+enää nykyisiin kanava-altaisiin mahdu. Näin ollen on tärkeää, että nämä kehityshankkeet
+huomioidaan jatkossa ja toteutetaan myöskin, jotta tämä merkittävä vesiväylä säilyy yhtä
+tärkeänä Suomelle kuin tähänkin asti.
+
+14.40 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Siinäpä se juuri on, mitä edusta-
+ja Kopra sanoi. Meillä ovat nämä sulkuvälit liian lyhyet jo tänä päivänä, ja se laivakalusto,
+millä tällä hetkellä sisävesillä kuljetetaan, on erittäin vanhanaikaista. Tässä on kaikista
+kummallisinta se, että meiltä löytyy tästä maasta valmiit suunnitelmat uusien sisävesilai-
+vojen rakentamiselle, täysin valmiit piirustukset — suomalaista huipputekniikkaa, kulkee
+kesällä ja talvella, ei tarvitse mitään avustajia talvellakaan sisävesillä kulkiessaan, koska se
+murtaa itse väylänsä auki, pystyy kuormaamaan, lastaamaan lähes itsenäisesti, käytännöl-
+lisesti katsoen tekniikaltaan suomalaista huipputekniikkaa ja käytännöllisesti katsoen lä-
+hes huoltovapaata. Se huolto, mikä tehdään, on nopeasti tehtävissä, ja valtava kuljetuska-
+pasiteetti lisää. Tämä on jäänyt täysin olemattomalle huomiolle.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+Arvoisat edustajakollegat, kun seuraavan kerran menette kuuntelemaan metsäteollisuu-
+den seminaaria jonnekin juhliin, kuunnelkaapa, mitä isot metsäteollisuuden pomot tänä
+päivänä valittavat siellä. Ensimmäinen valituksen aihe on yleensä peitellysti sanottuna se,
+että me häviämme kilpailijamaille kuljetuskustannuksissa. Nimenomaan, kun kumipyöril-
+le kaikki on siirretty, se on tänäkin keväänä osoittanut sen tuhannen kertaa, että kelirikon
+takia meillä seisovat isot tehtaat kohta raaka-ainepulan takia.
+
+Kustannukset nousevat koko ajan, kun esimerkiksi Ruotsissa, joka tekee myös sisävesi-
+kuljetuksia ja rautatiekuljetuksia, kustannukset laskevat ja he menevät meistä kilpailussa
+ohi. Saman tekee Saksa, samoin tekee Venäjä. Siellä valtavia määriä kuljetetaan ja yksik-
+kökustannus on todella pieni. Tästähän metsäteollisuus koko ajan meille itkee. Ottakaa
+huomioon esimerkiksi vaikka biovoimalaitos. Iso laiva pystyy kuljettamaan 10 000 kuu-
+tiota haketta kerralla. Laskekaapa rekkakuormina 100 kuutiota per rekka, miten valtava ka-
+pasiteetti yhteen laivaan sisältyy, ja kaikki kotimaista tekniikkaa. Tätä minä olen ihmetel-
+lyt.
+
+Arvoisa rouva puhemies! Rohkenin ottaa tämän esille, koska tämä minua kiusaa niin
+valtavasti. Meillä on maailman paras sisävesiverkosto. Ei missään muussa maailman
+maassa tällaista sisävesireitistöä ole kuin meillä on, ei missään, ja me täällä vain rakennam-
+me yhä parempia teitä. Niitä tarvitaan autoliikenteelle. Mutta minkä tautta me raskasta lii-
+kennettä emme voisi siirtää sinne, missä se kuljetus on kannattavaa ja ennen kaikkea ym-
+päristöystävällistä? Se on maailman paras ja ympäristöystävällisin kuljetusmuoto.
+
+Toinen varapuhemies Tuula Haatainen:  Haluaako ministeri Berner vastata? — Vas-
+tauspuheenvuoro 5 minuuttia.
+
+14.42 Liikenne- ja viestintäministeri Anne Berner:  Rouva puhemies! Liikenteen ja
+viestinnän yhä suurempi integraatio toisiinsa on juuri se, mistä edustaja Kasvi täällä mai-
+nitsi, ja se tulee synnyttämään meille merkittävää muutosta liikenteen palveluihin ja mark-
+kinoihin. Tällä virastouudistuksella pyritään huolehtimaan siitä, että meillä syntyvät pal-
+velut yhden luukun periaatteella nimenomaan digitalisaation ja lupa- ja sääntelymenette-
+lyiden osalta yhteen paikkaan. 
+
+Samanaikaisesti väyläverkosta meillä on entistä enemmän huolta tulevaisuudessa. Meil-
+lä kasvaa korjausvelka, meidän kykymme huolehtia meidän kehittämisinvestoinneistam-
+me on selkeästi heikentynyt, ja meillä on tarvetta tehostamiseen, kun me puhumme mei-
+dän väyläverkkomme omistamisesta. 
+
+Virastouudistuksessa on tarkoitus huolehtia siitä, että meillä toisaalta vahvistuu meidän
+väyläverkkomme osalta meidän kunnossapitomme, omistajuutemme ja kehittämisemme ja
+että meillä sitten samanaikaisesti myöskin vahvistuu se, että vastaamme ajan palveluihin.
+Virastouudistusta ei kuitenkaan tule nähdä yksinään, vaan sen rinnalla kulkee yksityistie-
+lain muutos, maantielain muutos ja moni muu asia, jotka tukevat tätä isoa kokonaisuutta.
+Onkin tärkeää, että nämä viedään yhtäaikaisesti eteenpäin. 
+
+Virastouudistus ei itsessään tuo lisärahaa mutta tehostaa toimintaa ja tuottaa myöskin re-
+aaliaikaista tietoa merkittävästi. Myöskin laki liikenteen palveluista tukee sääntelyn osalta
+rekistereiden pitoa.
+
+Tämän virastouudistuksen yhteydessä ei synnytetä yhtään osakeyhtiötä osaksi virasto-
+uudistusta, eikä virastojen sisällä ole yhtään osakeyhtiötä. Tätä ei ole tehty kovalla kiireel-
+lä vaan tätä on tehty kahdessa vaiheessa ja tätä on tehty henkilöstön voimalla yhteistyössä.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 49/2018 vp
+Ehkä siksi se on myös ollut niin yksimielinen ja yksituumainen. Ensimmäinen vaihe on
+tehty nimenomaan virastojen omasta toimesta, joka on käynnistetty marraskuussa 16 ja sen
+jälkeen vasta on käynnistetty ministeriön vaihe, joka sitten on vastannut tähän esitykseen.
+
+Tämä mahdollistaa myöskin sen, että me pystymme huolehtimaan kokonaisuudesta pa-
+remmin. Suomi tarvitsee lisäväyliä ja lisää rahoitusmalleja. Tämä on yksi väylä, jota kaut-
+ta me voimme toimia tehokkaammin. Tämä ei sinänsä yksin ole siihen ratkaisu. 
+
+Vesiliikennelakia olemme uudistamassa ja sen me tuomme eduskuntaan syksyllä. Elik-
+kä vesiliikenne ei ole tästä unohtunut vaan on yksi osa tätä koko pakettia, jota vielä tällä
+hallinnon kaudella tuodaan osana tätä kokonaisuutta. Kimolan kanavan osalta voin sanoa,
+että se on suunnitteluvaiheessa ja Liikennevirasto on siihen vahvasti sitoutunut. Saimaan
+kanavan sulkujen uusiminen on käynnissä, ja lisää kehittämissuunnitelmia senkin osalta on
+tällä hetkellä menossa. 
+
+Digitaalisen infran osalta, josta edustaja Hoskonen myöskin täällä mainitsi, on tulossa
+nytten kevään aikana vielä strategia. Sitten myöskin viemme eteenpäin 5G:n osalta taa-
+juusratkaisuja, joilla mahdollistetaan myös, että toimiala tekee lisäinvestointeja tähän erit-
+täin kriittiseen digitaaliseen infraan.
+
+Haluan kiittää kaikkia edustajia näkökulmista ja keskustelusta. Kiitoksia myöskin tä-
+män esityksen vastaanotosta. 
+
+14.46 Teuvo Hakkarainen ps: Arvoisa puhemies! Tuosta kanavahankkeesta sen verran,
+että meillä Keski-Suomessa on aika karkeat kokemukset siitä Keitele—Päijänne-kanavas-
+ta. Aikoinaan se tehtiin ja puhuttiin siitä, kuinka siitä puita tullaan uittamaan ja teollisuus
+tarvitsee sitä. No käytännössä tikun tikkua sieltä ei ole mennyt läpi vielä, ja se on siellä var-
+maan 30 vuotta ollut. Että jos nyt vastaavasti noille kanaville käy samalla tavalla, niin se on
+hukkaan heitettyä rahaa. 
+
+Sitten siitä puun uittamisesta vielä, että kustannuksia tulee muuten sitten paljon, kun ale-
+taan niitä vierittämään sinne vesistöön. Ne joudutaan nostamaan sieltä, ja suurin piirtein 2
+euroa kuutio on pelkästään tämmöinen, kun se nostetaan sieltä järvestä auton kyytiin, jo-
+honka se joudutaan kuitenkin nostamaan, kun se viedään tehtaalle. Elikkä ne kustannukset
+eivät tule todellisuudessa tippumaan. Ainakin näin minä olen oppinut tuolla Keski-Suo-
+messa. Jos muuallapäin Suomessa on erilaista, niin sitten voi olla.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan.
+12
+
+
+	3
+	14.01
+	14.07
+	14.09
+	14.11
+	14.13
+	14.16
+	14.20
+	14.22
+	14.25
+	14.27
+	14.29
+	14.30
+	14.31
+	14.34
+	14.35
+	14.38
+	14.39
+	14.40
+	14.42
+	14.46
+
+

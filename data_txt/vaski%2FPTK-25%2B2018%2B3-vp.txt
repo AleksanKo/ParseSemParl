@@ -1,0 +1,987 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM622B.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 25/2018 vp
+
+Täysistunto
+
+Tiistai 20.3.2018 klo 14.00—17.51
+
+3. Hallituksen esitys  laiksi  liikenteen palveluista annetun lain muuttamiseksi ja eräiksi sii-
+hen liittyviksi laeiksi
+
+Hallituksen esitys HE 145/2017 vp
+Lakialoite LA 59/2016 vp
+Valiokunnan mietintö LiVM 3/2018 vp
+
+Toinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Toiseen käsittelyyn esitellään päivä-
+järjestyksen 3. asia. Nyt voidaan hyväksyä tai hylätä lakiehdotukset, joiden sisällöstä pää-
+tettiin ensimmäisessä käsittelyssä.
+
+Keskustelu
+
+14.28 Katja Taimela sd: Arvoisa herra puhemies! Hyvät kollegat! Laki liikenteen palve-
+luista kakkonen on nyt toisessa käsittelyssä, ja niinpä luen nyt siihen sisältyvän vastalau-
+seen, jossa ovat mukana me sosiaalidemokraatit, perussuomalaiset, vasemmistoliitto ja
+vihreät. Vastalause pitää sisällään hylyn ja lausumaehdotuksen.
+
+Lain tavoite tietorajapintojen avaamisesta on kaiken kaikkiaan kannatettava. Tiedon laa-
+jempi hyväksikäyttö toimivamman liikennejärjestelmän luomiseksi on oltava yhteinen ta-
+voitteemme. Olemme kuitenkin huolissamme lakiesityksen tasapuolisuudesta. Esityksen
+perusteella samassa toimintaympäristössä on eri toimijoilla erilaiset säännöt ja velvoitteet.
+Esityksessä ei myöskään riittävällä tarkkuudella määritellä rajapintojen avausta, koordi-
+nointi- ja vastuukysymykset jäävät myös auki. Samoin mittavaa lisätyötä ja selvennystä
+vaatii puolesta-asiointi sekä matkustajan suoja matkaketjussa. Tässä vastuukysymykset
+kokonaisuudesta vaativat huomattavaa tarkennusta.
+
+Tähän samaan keskeneräisyyteen määrittelyissä on reagoinut myös eduskunnan perus-
+tuslakivaliokunta yksimielisessä lausunnossaan, jossa valiokunta nostaa poikkeuksellises-
+ti pelkästään sääntelyn selkeydestä esiin useita ongelmia. 
+
+Hallituksen esitys on perustuslakivaliokunnan mielestä hyvin vaikeaselkoinen eikä tä-
+män vuoksi edusta sen tavoitteeksi asetettua sujuvaa sääntelyä. Tämä seikka vaarantaa
+olennaisesti lainsäädännön selkeyttä. 
+
+Perustuslakivaliokunnan mukaan sääntelytekniikka voi johtaa siihen, että jopa asiantun-
+tijoiden on vaikea hahmottaa sääntelyä. Tavalliselle kansalaiselle sääntelyn ymmärtämi-
+nen ja hahmottaminen saattaa valiokunnan mielestä olla miltei mahdotonta. Perustuslaki-
+valiokunta piti lausunnossaan tällaista sääntelytekniikkaa sekaannuksia aiheuttavana ja
+vaivalloisena. 
+
+Perustuslakivaliokunnan mukaan kieliasultaan hallituksen esityksen sisältämät lakieh-
+dotukset ovat paikoin tavalliselle kansalaiselle lähes käsittämättömät. Kun kyse on yleis-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+laista, jota sovelletaan liikenteen palveluihin, tulisi lain olla sekä muodoltaan että sisällöl-
+tään tietysti ymmärrettävää. 
+
+Lopuksi perustuslakivaliokunnan mielestä näin mittavan säännösteknisen muutoksen
+tekeminen valiokuntakäsittelyssä sisältää riskejä ja tämänkaltainen muutos kuuluu muu-
+toinkin tehtäväksi osana perusvalmistelua ministeriössä.
+
+Vastalauseen allekirjoittajina yhdymme perustuslakivaliokunnan arvioon lakiehdotuk-
+sen epätarkkuudesta ja keskeneräisestä valmistelusta. Esityksen puutteita ei voitu korjata
+valiokunnassa ongelmien laajuuden vuoksi. Siksi esitän, että eduskunta hylkää hallituksen
+esitykseen sisältyvät 1.—59. lakiehdotuksen ja että eduskunta hyväksyy yhden lausuman,
+joka kuuluu seuraavasti: ”Eduskunta edellyttää, että valtioneuvosto valmistelee lakiehdo-
+tuksen uudelleen perustuslakivaliokunnan antaman lausunnon perusteella.”
+
+14.32 Mikko Alatalo kesk: Arvoisa puhemies! Todellakin eduskunta hyväksyi hankkeen
+lakivaiheen ensimmäisen osan ja nimitti lain liikenteen palveluista annetuksi laiksi, ja nyt
+on siis kyseessä tämä kakkososa, jossa täydennetään liikenteen palveluista annettua lakia ja
+mahdollistetaan asiakaslähtöinen liikenteen kehittäminen palveluna. Esityksellä muutet-
+taisiin nykytilaa, jossa liikenteen markkinasääntely on jakautunut useaan eri säädökseen.
+Kokoamalla sääntely yhteen lakiin voitaisiin liikenteen palvelumarkkinoita helpommin
+tarkastella yhtenä kokonaisuutena. Totta kai liikenteen sääntelyhän perustuu hyvin paljon
+kansainvälisiin sääntelyihin ja järjestelyihin, mutta siihenkin on pyritty mahdollisuuksien
+mukaan tekemään suomalaista jälkeä.
+
+Hallituksella on yhtenä strategisena alueena digitalisaatio. Se näkyy konkreettisesti täs-
+sä lakipaketissa, kun ollaan luomassa uusia liikenneketjuja ja helpottamassa asiakkaiden
+palveluiden saantia. Olennaista on, että hyödyt tulevat näkyviin koko maassa ja varsinkin
+siellä, missä tällä hetkellä julkinen liikenne ei toimi tai sitä ei ole ollenkaan — enkä nyt siis
+tarkoita Länsimetroa.
+
+Paketissa on käsitelty tulevaisuuteen katsoen tieliikennettä, rautateitä, koulutusta, am-
+mattipätevyyttä. Paljon on valiokunnassa kuultu asiantuntijoita ja eturyhmiä yksityiskoh-
+dista esimerkiksi liittyen esteettömyyteen ja viranomaiskäytäntöihin.
+
+Perustuslailliset näkökohdat huomioidaan, ja valiokunta on antanut kunnon ohjeistuk-
+sen, mitä pitää tehdä. Oppositiotakin on kuultu. Mutta laki on rakenteeltaan varmasti poik-
+keuksellinen ja sen sisältö on tietysti aika kriittinen. Niin kuin on sanottu PeVin lausunnos-
+sa, lakien selkeyden puute on tässä kyllä yksi aika hankala asia. Tähän kakkososaan var-
+masti joudutaan jossain vaiheessa puuttumaan ja korjaamaan sitä ja myös tätä tasapuoli-
+suusasiaa tuomaan esille. Tämä ei ole varmasti ensimmäinen laki, jota eduskunta joutuu
+korjaamaan.
+
+Liikenne tulee sähköistymään. Digitalisaatio on osa liikennettä, ja liikennepalvelut tule-
+vat olemaan kaikkien ulottuvilla. Takaiskujakin tullaan näkemään ja kokemaan. Tänä aa-
+muna esimerkiksi uutisoitiin USA:sta, että kuljetuspalveluyhtiö Uberin itseohjautuva auto
+törmäsi jalankulkijaan ja nainen kuoli näihin vammoihin. Syyllisiä etsitään varmasti sekä
+tästä robottiautosta että Uberista. Nähtäväksi jää, miten asia käsitellään ja kuka korvaa ke-
+nellekin.
+
+Liikkumisen tarpeet muuttuvat, ja siksi myöskin lainsäädännön on muututtava. Sen
+vuoksi on mahdollistettava uutta liiketoimintaa ja palveluiden järjestäjiä asiakkaan liikku-
+mistarpeet keskiössä. Jos ajatellaan esimerkiksi kolmosraidetta Tampere—Helsinki-välil-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+lä, niin miksipä se ei voisi olla pilottihanke: se on oma yhtiönsä, ja siellä olisi myös kilpai-
+lutus operaattoreille.
+
+Tiedon avaamista jatketaan liikennepalvelulain tässä vaiheessa, ja se tulee tarpeeseen,
+kun mietitään vaikka matkaketjuja. Mukana on niin sanottu puolesta-asiointi, että eri mat-
+kaketjujen yhteen liputtaminen yhdellä maksuvälineellä, yhdellä lippujärjestelmällä olisi
+mahdollista. Ajatelkaa, kuinka monta vuotta tätäkin on puhuttu tässä talossa, ja nyt sitä yri-
+tetään edistää eteenpäin. Jotta eri toimijat pääsisivät tasapuolisesti mukaan, nykyiset lii-
+kenteen tietovarannot avataan.
+
+Ammattipätevyyksien säädöksiä ja lainsäädäntöä kevennetään niin paljon kuin Euroo-
+pan unionin lainsäädännön muodossa ja soveltamismahdollisuuksissa on mahdollista. Nyt
+karsintaa tehdään raideliikenteessä esimerkiksi veturinkuljettajien ammattipätevyyksien
+osalta, meriliikenteessä ja lentoliikenteessä. Nämä kaksi viimeistä ovat hyvin EU-säännel-
+tyjä, joten joudumme paljon soveltamaan sitä lainsäädäntöä, joka meille on annettu, niin
+kuin yleensäkin liikennevaliokunta joutuu näitä soveltamaan suomalaisiin olosuhteisiin.
+
+Kun nyt yhdistetään paljon erilaisia lakeja ja luodaan uutta palvelujärjestelmää liiken-
+teen palveluihin, on tarpeen seurata tätä kehitystä, ja tarvittaessa täytyy tehdä korjauksia ja
+viilauksia näihin lakeihin, koska täällä on hyvinkin kriittisiä äänenpainoja tämän lain teks-
+tistä esitetty.
+
+Kolmaskin vaihe on tosiaan vielä liikenteen palvelulakiin tulossa, ja siihen palataan sit-
+ten aikanaan.
+
+14.36 Suna Kymäläinen sd:  Arvoisa herra puhemies! Ihan ensimmäiseksi totean, että
+kannatan edustaja Taimelan jättämää vastalausetta, hylkäysesitystä, jossa mukana ovat siis
+SDP, vihreät, vasemmisto ja perussuomalaiset.
+
+Tämä rajapintojen avaaminen ja sen ongelmat, vaikeaselkoisuus niiden selvittelyssä, on
+yksi iso tekijä. Mutta kyllä ylipäätänsäkin, kun teemme uudenlaista lainsäädäntöä, jossa
+kysymys on mittavista asioista, joihin ei voi jättää tulkinnanvaraa, puhutaan ihmisten tur-
+vallisuudesta ja luottamuksesta siihen, että kuljetusketjut ja matkaketjut toimivat, ja silloin
+kun koordinoinnissa on lainsäädännön mukaan jo ristiriitaisuutta, on päivänselvää, että la-
+kia täytyisi tämän osalta kehittää eikä tehdä tieten tahtoen jo tässä vaiheessa lakia, jossa on
+sääntelyselkeydessä isoja puutteita. Kuten edellä kuulimme, perustuslakivaliokuntakin on
+ottanut tähän vahvasti kantaa ja on huolissaan siitä, kuinka tavalliset kansalaiset tulevat
+tätä lakia tulkitsemaan, kun jo asiantuntijoiden osalta on vaikeuksia tämän kohdalla.
+
+Eduskunnan tärkein tehtävä on tehdä lakeja, jotka ovat selkeäsanaisia ja ohjaavat vir-
+heettömyyteen kansalaisten toiminnassa. Sen takia ei voida tieten tahtoen hyväksyä sään-
+telytekniikaltaan jo lähtökohtaisesti epäselvää ja hyvän tavan vastaista lakia.
+
+Kannatan myös Taimelan jättämää lausumaa.
+Tässä edustaja Alatalo totesi, että kehitystä on seurattava. Kyllä todella on seurattava,
+
+mutta sen verran myöskin ryhtiä eduskunnasta täytyisi löytyä, että silloin, kun lakeja teh-
+dään, tehdään sen kaltaista lakia, että siitä ihmiset myös selvän saavat. Erityisesti asiantun-
+tijoiden kuuluisi näin tehdä.
+
+14.39 Jari Ronkainen ps: Arvoisa puhemies! Laki liikenteen palveluista kakkonen pyr-
+kii kokoamaan liikenteen sirpaleisen markkinasääntelyn yhteen lakiin. Hallituksen esityk-
+sen julkilausuttu tavoite on säännösten sujuvoittaminen, mikä tukee hallituksen kärkihan-
+ketta normien purkamisesta. Valitettavasti kiire paistaa läpi lain valmistelussa.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+Perustuslakivaliokunnan antamasta lausunnosta käy ilmi, että hallituksen esitys on va-
+liokunnan mielestä niin vaikeaselkoinen, ettei se tämän vuoksi edusta sille tavoitteeksi ase-
+tettua sujuvaa sääntelyä. Samoin käy ilmi, että maallikolle sääntelyn ymmärtäminen ja
+hahmottaminen ovat miltei mahdottomia. Selkeydessä on niin perustavanlaatuisia ongel-
+mia, että tätä ei voida pitää hyvänä lainsäädäntönä.
+
+Esityksen muodollisista puutteista huolimatta sääntelyn yhteen kokoaminen ja sujuvoit-
+taminen sekä digitalisaation mahdollisuuksien hyödyntäminen ja tietorajapintojen avaami-
+nen liikenteen palveluissa ovat kunnioitettavia tavoitteita. Liikennepalvelulaki kakkonen
+on lainsäädäntöhankkeena laajuudeltaan kuitenkin niin suuri, että sen puutteiden korjaami-
+nen valiokuntakäsittelyssä ei käy päinsä. Tästä syystä perussuomalaiset on sitä mieltä, että
+lakiesitys tulisi tällaisenaan hylätä ja palauttaa perusvalmisteluun valiokuntien esiin nosta-
+mat puutteet huomioiden.
+
+14.40 Ari Torniainen kesk:  Arvoisa herra puhemies! Edustaja Alatalo kävi hyvin tätä
+isoa lakikokonaisuutta tuossa läpi ja kävi siitä myöskin yksityiskohtia. Tämän lakikokonai-
+suuden tavoitteet, jotka ovat tarpeettoman sääntelyn vähentäminen ja uusien liikenteen pal-
+velujen tarjonnan edistäminen, ovat kyllä kannatettavia, ja niitä tulee viedä eteenpäin. Lii-
+kenne kaiken kaikkiaan tulee varmasti tulevaisuudessa, niin lähivuosina kuin pitkällä tule-
+vaisuudessakin, sähköistymään ja muuttumaan hyvinkin toisenlaiseksi kuin mitä se tänä
+päivänä on. 
+
+Hallituksen esitys on käytännössä toinen osa isoa kolmiosaista lakikokonaisuutta. Kun
+nyt on kyse kaiken kaikkiaan liki 60:een eri lakiin vaikuttavasta kokonaisuudesta, niin lii-
+kenne- ja viestintävaliokunnan laajassa asiantuntijakuulemisessa tuli hyvin selväksi, että
+valiokunta sai tarkentaa ja selventää monia pykäliä. Ne käyvät hyvin tuosta mietinnöstä
+esille.
+
+Meille tänne saliin tulee vielä liikenteen palveluista annetun lain kolmas vaihe käsitte-
+lyyn, ja siinä tulee myöskin selkeyttää lakikokonaisuutta. Siksi tuossa liikenne- ja viestin-
+tävaliokunnan mietinnössä olevat kaksi lausumaa ovat täysin perusteltuja ja huomioon
+otettavia myöskin tulevaisuudessa. 
+
+14.42 Jari Myllykoski vas: Arvoisa herra puhemies! Laki liikenteen palveluista on peri-
+aatteellisella tasolla erittäin kannatettava ja kunnianhimoinen, ja sitä pitää kaikin voimin
+edistää niin, että nämä rajapinnat aukeavat ja luodaan uusia mahdollisuuksia liikkua. Siinä
+mielessä komppaan kyllä edustaja Alatalon käyttämää puheenvuoroa, että tätä tarvitaan ja
+tätä on kauan odotettu. 
+
+Mutta se, missä muodossa se nyt tuodaan tänne, osoittaa kyllä sen, että tässä on otettu
+kunnianhimoiseen tavoitteeseen epärealistinen aikataulu ja ollaan tehty sutta ja sekundaa.
+Jos viime viikolla pystyin kehumaan Ilmatieteen laitoksesta annettua lakia, että siinä hy-
+vää koetettiin mutta priimaa pukkasi, niin nyt tässä kohtaa kyllä valitettavasti tuli mahalas-
+ku. 
+
+Siksi jo tässä vaiheessa puheenvuoroani kannatan edustaja Taimelan tekemää hylkäys-
+esitystä sekä lausumaehdotusta. 
+
+On tärkeää nähdä, että meidän pitäisi pystyä tekemään sellaista lainsäädäntöä, jota ihmi-
+set voisivat ymmärtää. Jos asiantuntijat kertovat meille kuulemisessa, että tämä on käsittä-
+mätöntä, ja viittaavat perustuslakivaliokunnan lausumaan, niin minä hartaasti toivon, että
+kukaan ei tule kysymään tämän lain sisällöstä edustaja Myllykoskelta, että voisitko selven-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+tää mitä tällä tarkoitetaan, sillä minulla ei ole kyllä välineitä tämän huonon valmistelun
+pohjalta kellekään kertoa tästä yhtään mitään muuta kuin mitä ollaan tavoiteltu mutta mikä
+nyt kesken jää. 
+
+Toivon todellakin, että ministeriössä tiedettäisiin, milloin tätä ruvetaan uudelleen kir-
+joittamaan, koska ministerillä ja virkamiehellä on erilainen aikataulukäsitys.
+
+14.44 Mirja Vehkaperä kesk: Arvoisa herra puhemies! Ilokseni kuulen, että esimerkiksi
+edustaja Myllykoski toteaa, että periaatteellisella tasolla laki liikenteen palveluista osa 2
+voitaisiin viedä eduskunnassa läpi ja sisältää monia sellaisia hyviä asioita ja uudistuksia,
+joita meidän yhteiskunta tarvitsee. 
+
+Laki ei ole perustuslain vastainen. Sitä perustuslakivaliokunta ei meille ainakaan tuonut
+esille, joten laki voidaan siis säätää tässä muodossaan. Silti me totesimme yhteistuumin
+sen, että seurantaa ja sääntelyn ja tämän koko pykäläviidakon selkeyttämistä oli tarpeen
+tehdä siihen viimeiseen vaiheeseen, kun eduskuntaan laki liikenteen palveluista osa 3 tu-
+lee, jotta laista saadaan luettavampi ja ymmärrettävämpi. Mutta kyllä me lainsäätäjät kui-
+tenkin pystymme ymmärtämään, mistä tässä on kyse, ja myöskin ne, joiden tarvitsee tätä
+soveltaa, tietävät, mistä on kyse. 
+
+Kävimme ammattipätevyydet lento-, meri-, raide- ja tieliikenteestä lävitse. Se on iso ko-
+konaisuus ja sisältää monia, monia lakeja, joita kootaan yhteen. 
+
+Liikenne on tulevaisuudessa entistä enemmän palvelu, jossa digitaalisuus, robotisaatio,
+automatisaatio ja liikenteen sähköistäminen on tätä päivää. Puhuin lain ensimmäisessä kä-
+sittelyssä pihtiputaan mummosta, joka sillä yhdellä lipulla saa koko matkaketjun, ja sitä me
+olemme kaikki toivoneet. Voidaan lisäksi, kun tie-, raide-, lentoliikennettä, meriliikennet-
+tä, lippujärjestelmiä yhdistetään, laittaa muitakin liikenteen palveluita, ajoneuvojen vuok-
+raamista, erilaisia sarja- ja kausilippuja, alennuslippuja ja muita vastaavia, tähän yhteen ja
+samaan palveluun. Sitä liikenteen palvelut tulevaisuudessa [Puhemies koputtaa] tulevat
+entistä enemmän olemaan.
+
+14.46 Katja Taimela sd (vastauspuheenvuoro): Arvoisa puhemies! Edustajakollega Veh-
+kaperä, totesitte, että edustaja Myllykoski otti kantaa siihen, että tämä on niin kuin periaat-
+teessa hyvä uudistus. Myös tämä vastalause, jonka olemme jättäneet, alkaa lauseella ”lain
+tavoite tietorajapintojen avaamisesta on kannatettava”, mutta ei ihan millä keinolla tahan-
+sa, jos mietitään sitä, että liikenne- ja viestintävaliokunta tehdessään 194-sivuista mietin-
+töä joutuu kirjoittamaan loppuun: ”Eduskunta edellyttää, että valtioneuvosto valmistelee
+hankkeen kolmannen vaiheen hallituksen esityksessä laista juoksevaan pykälänumeroin-
+tiin perustuvan, kieliasultaan selkeän ja järkevästi jäsennellyn kokonaisuuden.” 
+
+Olen saanut tehdä nöyrästi tässä talossa töitä reilut 10 vuotta, mutta vastaavaan valio-
+kuntakäsittelyyn, että joudutaan kirjoittamaan tällaisia edellytyksiä ja lausumia loppuun,
+[Puhemies koputtaa] en ole vielä törmännyt.
+
+14.47 Jari Myllykoski vas (vastauspuheenvuoro):  Arvoisa herra puhemies! Edustaja
+Myllykosken itsesuojeluvaisto pyysi tämän vastauspuheenvuoron, ettei nyt vain kellekään
+jää väärää käsitystä, kun hyppäsin tähän hankkeeseen kuin liikkuvaan junaan. Sitä myöten
+olemme yksimielisiä, että tavoitteet ovat hyvät. Ykkönen tehtiin. Vielä haluan korostaa,
+että pidin sitä kummastuttavana, että maailman paras taksijärjestelmä romutettiin tässä yh-
+teydessä. Se oli katastrofi.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Siirrytään puhujalistaan.
+
+14.48 Markku Pakkanen kesk: Arvoisa herra puhemies! Liikenteen palvelulaista: yhte-
+nä tärkeimpänä asiana tässä on mielestäni sääntelyn purkaminen, jota tässä lakiesityksessä
+haetaan, ja sitä siinä todellakin tehdään. Se on totta, että liikenteestä on kovin haasteellista
+tehdä selkokielistä lakiesitystä. Meillä jokaisella on oma näkemys nykyisestäkin tieliiken-
+nelaista, että onko se selkokielistä. Edustaja Myllykoski otti esiin ykkösvaiheessa olleen
+taksiliikenteen. Sekin laki on laki henkilötilausliikenteestä, ja sitä kutsutaan nykyään tak-
+silaiksi, elikkä tämäntyyppistä selkokielisyyttä tähän lakitekstiin pitäisi saada aikaiseksi.
+Silloin me pystyisimme paljon paremmin ymmärtämään täällä toisiamme ja tämä väärin
+ymmärtämisen taito kenties tässäkin salissa sitten aina vähenisi.
+
+Uusi laki purkaa toki sääntelyä, ja se on tärkeää myös liikennesektorilla, ja minusta täs-
+sä asiassa pitää edetä. On hienoa täällä salissa kuunnella, että ”kaikki kannattavat, mutta”.
+Jos tässä nyt alkaa tällainen keskustelu, niin tässä on vaarana käydä niin kuin meidän sote-
+ja maakuntauudistuksessa, että 15 vuotta täällä käydään keskustelua, että ”pitäisi selkeyt-
+tää tämä liikennelaki, mutta”, ja sitten aletaan muotoseikkoihin vedoten tämäntyyppistä
+keskustelua käymään.
+
+Minusta on tärkeää, että tämä lakiesitys nyt etenee ja taas sitten korjataan yksittäisiä
+asioita ja sillä lailla saadaan aina selkeämpää ja helpommin ymmärrettävää lainsäädäntöä.
+Ehkä seuraava käsittely, mikä voitaisiin käydä, olisi avoimien tietorajapintojen miettimi-
+nen, mitä se tarkoittaa. Minä luulen, etteivät sitä kaikki vielä kansanomaisesti osaa käsit-
+tää, mistä siinä on kysymys, mutta lakiteksti on yleensä aika vaikeaselkoista ymmärtää.
+Mutta mennään eteenpäin.
+
+14.50 Kalle Jokinen kok: Arvoisa puhemies! Tämä laki liikenteen palveluistahan on kol-
+mivaiheinen lakihanke, ja nyt meillä on tämä kakkosvaihe käsittelyssä. Täällä on moitittu
+paljon sitä, että tämä ei ole sujuvaa lainsäädäntöä, ja siinä varmasti on perääkin, että se ei
+kaikilta osin ole sujuvaa. Tietysti aina lainsäädäntöähän voidaan täsmentää asetuksilla ja
+tuoda sitä tarkentavaa ohjeistusta sitä kautta. Mielestäni kuitenkin kaikkein tärkeintä tässä
+laissa on se, että sujuvat matkaketjut mahdollistuvat. Jos lainsäädäntö ei ihan ole sujuvaa
+eikä kaikilta osin ymmärrettävää luettavaa, niin tärkeintä kansalaisille on se, että ne mat-
+kaketjut ovat sujuvia, ja siihen tällä nyt tähdätään. Kun liikennepalvelujen tarjoajia velvoi-
+tetaan avaamaan rajapinnat niin aikataulu-, reitti-, maksu- kuin vaikkapa esteettömyystie-
+doista, niin se edistää sitä, että ihmiset voivat niitä matkaketjuja muodostaa, päästään yh-
+dellä matkalipulla käyttämään useampaa eri liikennevälinettä, ja sitä kautta helpottuu se ih-
+misten liikkuminen.
+
+Tämä keventää sääntelyä, tämä edistää digitalisaatiota ja mahdollistaa meidän liikenne-
+järjestelmämme hyödyntämisen kokonaisuutena riippumatta siitä liikennevälineestä tai
+-muodosta, jota reitin varrella sitten käytetään. Tässä on myös suuri mahdollisuus luoda
+uutta liiketoimintaa ja uusia palveluja liikenteeseen, ja sen takia tätä hanketta täytyy viedä
+nyt eteenpäin.
+
+14.52 Mats Löfström r: Värderade herr talman, arvoisa herra puhemies! Den här lagen är
+en viktig del i moderniseringen och digitaliseringen av transporttjänster, samt också att fö-
+renhetliga behörighetsfördelning och utveckla nya resekedjor. Målsättningen är således
+bra och mycket viktig. Det är dock alldeles uppenbart att beredningen av lagen gått mycket
+6
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+snabbt — för snabbt — eftersom det funnits många brister samt också direkta felaktigheter
+i lagförslaget. Grundlagsutskottet tar upp detta i sitt utlåtande, något flera ledamöter redan
+tagit upp här. Det här lagförslaget är inte emot grundlagen men det är ändå viktigt att mi-
+nisteriet noggrant tar del av utlåtandet för framtida beredningar.
+
+Kommunikationsutskottet har gjort många ändringar i förslaget och rättat till flera direk-
+ta felaktigheter, inte minst sådana som berör Ålands självstyrelselag och där förslaget varit
+i strid med Ålands självstyrelselag. De sakerna har varit alldeles nödvändiga att rätta till.
+Det här visar också det mycket omfattande betänkandet från utskottet samt det förslag som
+finns till uttalande.
+
+Det är viktigt att poängtera att det inte är riksdagens roll att behöva dubbelkolla så
+grundläggande saker som om lagförslaget står i strid med exempelvis Ålands självstyrel-
+selag. Det är ministeriets och lagberedningens uppgift att kontrollera sådana saker, och här
+behövs bättring i framtiden. 
+
+Med det sagt behövs ändå den här lagen, och således kommer jag att stöda den här la-
+gen, men hoppas att hälsningen till ministeriet och lagberedningen går fram i fortsättning-
+en.
+
+14.55 Ari Jalonen sin:  Arvoisa puhemies! Hyvä paikka pitää puheenvuoro edustaja
+Löfströmin jälkeen. Erinomainen puheenvuoro kiteytti oikeastaan tämän tilanteen, mikä
+tämä on.
+
+Totean, että koko valiokunta yhtyi siihen kritiikkiin, että tämän lain kirjoitusasu on sem-
+moinen, että se ei ole suotavaa ja se pitää korjata perustuslakivaliokunnan linjauksien mu-
+kaisesti. Valiokunnan enemmistö päätyi siihen, että kirjoitamme tämän jo täällä kuullun
+lausuman, joka kuuluu: ”Eduskunta edellyttää, että valtioneuvosto valmistelee hankkeen
+kolmannen vaiheen hallituksen esityksessä laista juoksevaan pykälänumerointiin perustu-
+van, kieliasultaan selkeän ja järkevästi jäsennellyn kokonaisuuden.” Tämä on valiokunnan
+enemmistön mielestä riittävä taso sille, että perustuslainmukaisuus saadaan kolmosvai-
+heessa siihen kuntoon, että se tulee hyväksytyksi. 
+
+Totean, että jos tässä vaiheessa tämä kakkosvaihe hylättäisiin, niin tilanne olisi varsin
+ongelmallinen, koska ykkösvaihe on kuitenkin hyväksytty ja osa siitä on jo voimassa.
+Tämä tilanne on niin sanotusti muuttunut jo, eikä sitä voi takaisin vetää. Tämä on se vas-
+tuullisempi, järkevämpi tilanne viedä tämä hallitusti eteenpäin, eli kolmosvaiheessa edus-
+kunta selkeästi edellyttää ministeriötä valmistelemaan [Puhemies koputtaa] lain semmoi-
+seen asuun, että se on hyväksyttävissä.
+
+14.57 Katja Taimela sd (vastauspuheenvuoro): Arvoisa puhemies! Aivan lyhyesti pakko
+todeta, koska edustajakollega Jalonen on kuitenkin valiokunnan puheenjohtaja, että tuntuu
+todella pahalta valiokunnan jäsenenä kuunnella sitä, että on vastuullista viedä tämä laki,
+niin sanotusti tämä kakkoslaki, nyt jotenkin kiireellä tai huonosti valmisteltuna eteenpäin,
+koska me olemme hyväksyneet jo tässä talossa — tai osa teistä elikkä enemmistö on hy-
+väksynyt — lain liikenteen palveluista ykköspaketin kokonaisuudessaan. Eihän se niin voi
+mennä, että tässä talossa tehdään lainsäädäntöä sellaisella kiireellä liittyen joihinkin ole-
+massa olevan lainsäädännön määräpäiviin, että me tiedämme tehdessämme tätä kakkos-
+osaa, että me epäonnistumme ja joudumme esimerkiksi tekemään sen tyyppisiä lausumia,
+joita nyt liikenne- ja viestintävaliokunnassa jouduimme tekemään, joka on tavallaan myös
+hyvin pöyristyttävä lausuma. [Puhemies koputtaa] Eli kyllä minä itse lähtisin siitä lähtö-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+kulmasta, että tässä salissa tehdään aina sen tyyppistä lainsäädäntöä, että se kestää päivän-
+valon ja sitä ei perustella millään aikaisemmin tehdyillä paketeilla, että sitä kiireellä tehtäi-
+siin.
+
+14.59 Ari Jalonen sin (vastauspuheenvuoro): Arvoisa puhemies! Ymmärrän ja arvostan
+tuota puheenvuoroa. Se näkemysero siitä, miten tämä tilanne pitää ratkaista, on vain tässä
+ratkaisumallissa. Kritiikki sen sijaan on yhteistä. Tätä tulee minun mielestäni korostaa. To-
+tesin vain äsken sen, että jos tässä vaiheessa tämä hylättäisiin, niin edessä olisi erittäin on-
+gelmallisia aikoja, kun ykkösvaihe tulee voimaan ja kakkosvaihe olisi hylätty. Tässä ta-
+pauksessa tämä ajallinen juoksutus toisi ne haasteet. Tähän on tosiaankin nyt sitten panos-
+tettava ministeriössä, että se tulee semmoisessa kunnossa, semmoisena pakettina tänne,
+että se voidaan hyväksyä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja vielä vastauspuheenvuoro, edustaja
+Torniainen.
+
+15.00 Ari Torniainen kesk (vastauspuheenvuoro):  Arvoisa herra puhemies! Ymmärrän
+hyvin edustaja Taimelan ja opposition kritiikin tätä lakikokonaisuutta vastaan ja tätä pro-
+sessia vastaan. Taisi olla hylkäysesitys myöskin lain liikenteen palveluista ykkösvaihetta
+kohtaan, tai sinne pykäliin oli niitä vastalauseita, ja sitä kautta ymmärrän hyvin kritiikin
+myöskin tätä kohtaan.
+
+Kuitenkin ykkösvaihe ja kakkosvaihe ovat sidoksissa toisiinsa. Tässä kakkosvaiheessa
+on paljon ilmailuun, merenkulkuun ja raideliikenteeseen liittyvää lainsäädäntöä, joka täy-
+tyy saada myöskin samalle tasolle kuin oli ykkösvaiheessa. Sikäli on hyvä, että saadaan
+tämä vaihe nytten tästä eteenpäin ja ministeriössä pääsevät kirjoittamaan sitä kolmosvai-
+hetta eteenpäin, jotta myöskin se saadaan tänne saliin ja eduskuntaan käsittelyyn. Ja itse
+kyllä vilpittömästi toivon ja uskon, että siinä kolmosvaiheessa sitten huomioidaan liiken-
+ne- ja viestintävaliokunnan lausumat, joiden mukaan se on välttämättömyys.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Myönnän vielä vastauspuheenvuorot
+edustaja Merelle ja sen jälkeen edustaja Taimelalle, josta tämä debatti lähti, ja sen jälkeen
+on kauan odotettu edustaja Karin puheenvuoro. 
+
+15.01 Leena Meri ps (vastauspuheenvuoro): Arvoisa puhemies! Kyllä nyt kuitenkin täs-
+sä täytyy ihmetellä sitä, että väheksytään perustuslakivaliokunnan kannanottoja, jonka jä-
+sen itsekin olen. Tätä samaa problematiikkaa on käsitelty jo yli vuosi sitten. Perustuslaki-
+valiokunta toteaa, että nyt arvioitavana oleva hallituksen esitys on niin ongelmallinen, että
+se on tavalliselle kansalaiselle lähes käsittämätön, ja kyse on yleislaista. Kenelle me näitä
+kirjoitamme, jos ei näitä ministeriössä ja hallituksen puolesta oteta vakavasti? Ja kun edel-
+lisessä lausunnossaan perustuslakivaliokunta totesi, että jopa asiantuntijoiden on vaikea
+saada selvää, niin kukas näitä nyt sitten tulkitsee? Ei kai se, että lailla vain on kiire ja siellä
+on tärkeitä asioita, tarkoita sitä, että se voi olla täyttä sutta ja perkaa niin sanotusti. Totta kai
+pitäisi ihmisten saada selvää. Ottakaa nyt herranjestas vakavasti nämä perustuslakivalio-
+kunnan huolenaiheet. Me ihan vakavissamme teemme siellä töitä.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+15.02 Katja Taimela sd (vastauspuheenvuoro):  Arvoisa herra puhemies! Edustajakolle-
+ga Torniaisen puheenvuoron aikana tuli sellainen olotila, että me nyt vastustamme tätä vas-
+tustamisen vuoksi, mutta täytyy sanoa, että esimerkiksi liikenne- ja viestintävaliokunnan
+käsittelyn aikana monessa valmistavassa puheenvuorossa tuli kyllä selkeästi esille se — ja
+haluan korostaa sitä myös tämän toisen käsittelyn yhteydessä täällä istuntosalissa — että
+tämä kritiikki ei nyt ole tässä vaiheessa niinkään poliittinen vaan tämä on lakitekninen, ja
+se lakitekninen kritiikki kohdistuu tietysti näihin perustuslakivaliokunnan esiin ottamiin
+seikkoihin, mutta haluan muistuttaa myös, että talousvaliokuntakaan ei ollut todellakaan
+mitenkään kritiikitön ottaessaan kantaa tähän meidän esitykseemme. Elikkä siellä on myös
+voimakasta kritiikkiä tähän puolesta-asiointiin ja siihen, mitä tapahtuu tietosuojan ja yksi-
+tyisyyden suojan nimissä, [Puhemies koputtaa] kun tätä lakia aletaan toteuttamaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Lienee vielä kohtuullista antaa vas-
+tauspuheenvuoro valiokunnan puheenjohtajalle edustaja Jaloselle.
+
+15.03 Ari Jalonen sin (vastauspuheenvuoro):  Arvoisa puhemies! Totean vain lyhyesti,
+että valiokunta ei missään nimessä väheksy perustuslakivaliokunnan lausuntoja vaan on
+ottanut ne huomioon. Tämä kritiikki on koko valiokunnan yhteinen. Ainoastaan ratkaisu-
+malli tähän ongelmaan on erilainen.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Puhujalistaan.
+
+15.04 Mika Kari sd: Herra puhemies! Tässä debatissa jo vähän tätä samaa pajatsoa kol-
+kuteltiin kuin olisin itsekin sanonut ja nyt sanonkin, että kolmen vuoden aikana hallituksen
+tässä liikennekaaripaketissa on ollut kolme vaihdetta: ykkönen, jolla murennettiin kaik-
+kien meidän suomalaisten hyvin tuntema suomalainen taksiliikenne ja sen järjestelmä,
+kakkonen, jolla murennetaan lainvalmistelun uskottavuutta, ja mielenkiinnolla jään odot-
+tamaan, mitä siellä kolmannessa vaiheessa sitten luuraa. Jos, niin kuin valiokunnan pu-
+heenjohtaja tässä totesi, kritiikki on valiokunnan yhteinen, olisi ollut tietenkin ymmärret-
+tävää ja toivottavaa, että valiokunta olisi myös päätynyt yhteiseen ratkaisuun, millä tavalla
+tämä asia korjataan. Ei kai voi olla se tavoitetila, eduskunnan tavoitetila, että eduskunnasta
+tulee hallituksen remonttimies ja korjaa niitä lain puutteita, joita ministeriö on hallituksen
+esitykseen jättänyt. 
+
+Ymmärrän sen pienen viilauksen, se on eduskunnan tehtävä kyllä, korjata ja tuoda sitä
+poliittistakin kulmaa siihen hallituksen esitykseen, vielä eduskunnan kulmaa. Mutta ei se
+voi mennä niin, että hallitus jättää tehtävänsä hoitamatta ja ministerit jättävät tehtävänsä
+hoitamatta ja antavat eduskunnalle puutteellisia lakipaketteja, joista esimerkiksi perustus-
+lakivaliokunta, talousvaliokunta hyvin poikkeuksellisella tavalla omissa lausunnoissaan
+osoittavat kritiikkiä ja ihan aiheellista kritiikkiä. Jos numeroinnista alkaen aletaan lakitek-
+niikkaa opettelemaan ja harrastamaan täällä eduskunnan puolella, jos sitä ei ministeriössä
+osata, niin se on kyllä eduskunnalle iso tappio. 
+
+Toivon, että nyt otetaan vakavasti nämä puheenvuorot, joita muun muassa edustajat Tai-
+mela ja Myllykoski tässä keskustelussa esiin ovat tuoneet, ja ymmärrän oikein hyvin op-
+position hylkäysesityksen tässä asiassa. Olisin kyllä toivonut, että valiokunnan enemmis-
+töltä olisi löytynyt ryhtiä puolustaa eduskunnan arvovaltaa.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+15.06 Jari Myllykoski vas: Arvoisa herra puhemies! Ei paljon lisäämistä näihin käytet-
+tyihin puheenvuoroihin, mutta se täytyy sanoa, että jos valtioneuvosto valmistelee erivai-
+heisia lakeja, niin siinä suunnitteluvaiheessa todellakin tulee kunnioittaa eduskunnan mah-
+dollisuuksia ja tuoda eduskunnalle vain sellaista lainsäädäntöä, että täällä tosiaan kuunnel-
+laan asiantuntijoita, pohditaan, onko jotakin, mitä vielä voitaisiin muuttaa, mikä ehkä pa-
+rantaisi sitä, tai onko yleensäkään jotain korjattavaa. Mutta aikataulukysymys ei saa kyllä
+koskaan tarkoittaa sitä, että sen perusteella voidaan tehdä sutta ja sekundaa. Se ei vain kuu-
+lu tämän talon toimintakulttuuriin, että tänne voidaan heittää sangollinen silloin tällöin jo-
+takin ja sanoa, että ”kootkaa tämä”, niin kuin erään huonekaluliikkeen kaapisto: ohjeita
+kyllä on, mutta ruuvit ovat hukassa.
+
+15.07 Pia Viitanen sd: Arvoisa herra puhemies! Katselen tätä sillä tavalla hieman kauem-
+paa, että en ole kyseisen valiokunnan jäsen, ja alkuun ajattelin, että kuuntelen keskustelua
+ja odotan pykälää, mikä on tuolla tulollaan. Mutta kun rupesin kuuntelemaan ja vähän kat-
+somaan tätä, niin onhan tämä pakko todeta myös ääneen, puhemies, että tämä tilanne on ta-
+vaton siinä suhteessa, että eduskunta on matkan varrella aina silloin tällöin joutunut huo-
+mauttamaan lainvalmistelun tasosta, mutta sitten kun mennään jo tälle tasolle, että valio-
+kunta aika ronskillakin tavalla tukistaa hallitusta oikeutetusti huolimattomasta valmistelus-
+ta — täällä edustaja sanoo, että toivottavasti minä en joudu koskaan tulkitsemaan tätä la-
+kia, koska en voi ottaa siitä vastuuta — niin silloin mennään siihen, mitä edustaja Mika
+Kari täällä äsken totesi, että tavallaan tämä kakkosvaihe jos ei muuta niin ainakin nakertaa
+lainsäädäntöjärjestelmän uskottavuutta ja luotettavuutta. Näin se ei tietenkään saisi olla.
+On tietenkin ihan maininnan arvoista, että myös valiokunnan puheenjohtaja sanoo, että kri-
+tiikki on yhteinen mutta johtopäätös siitä, miten tulisi tehdä, on eri. Mutta kyllä minusta
+tämä opposition ja edustaja Taimelan jättämä vastalause on varsin perusteltu tämänkaltai-
+sessa tilanteessa.
+
+Puhemies! Omalta osaltanikin minä kyllä haluan tässä puheenvuorossa sanoa, että se jäl-
+ki, mitä tämä niin sanottu ykköspaketti jätti sinne taksikentälle, on kyllä erittäin erittäin tu-
+hoisaa, ja täytyy kyllä sanoa, että hyvällä mielellä en ole sitä katsellut. Kuten sanottu, niin
+kauhulla sitten katsomme, mitä tästä seuraa. Mutta toivottavasti nyt ainakin tämä eduskun-
+nan ponsi otetaan vakavasti. Eihän se nyt niin voi olla, että täällä eduskunta kirjoittaa jon-
+kun lain melkein kokonaan uusiksi, jos valmistelun taso ei ole kyllin hyvä.
+
+15.09 Leena Meri ps:  Arvoisa puhemies! Tosiaan nyt vielä korostan: valiokunnan pu-
+heenjohtaja toi esille, että tämä on valiokunnan mielestä riittävä taso ja ratkaisumallit ovat
+erilaisia. Puhumme kuitenkin lainsäädännöstä. Kansalaisten, yrittäjien ja asiantuntijoiden
+tulisi voida tulkita lakia. Sen tulisi olla mahdollisimman yksiselitteinen, ja yhteiskunnan
+monimutkaistuessa siihen täsmällisyyteen ja tarkkarajaisuuteen tulee kiinnittää entistä
+enemmän huomiota. Vielä muistuttaisin tästä perustuslakivaliokunnan lausunnosta, jossa
+todetaan, että tämä on tavalliselle ihmiselle lähes mahdoton tulkita, ja aikaisemmassa lau-
+sunnossa on puhuttu siitä, että se on vaikeaa jopa asiantuntijoille. Kansalaiset ovat minuun-
+kin usein yhteydessä, että miten jotakin lakia tulkitaan, että voisitko sinä vähän auttaa ja
+jelppiä. Joskus, kun heidän kanssaan katsoo, se on tosi monimutkaista ja vaikeaa ja täytyy
+tuntea tosi hyvin lainsäädäntö. Mutta jos perustuslakivaliokunta jo valmiiksi toteaa, että
+tätä on lähes mahdoton tulkita, niin en minä tiedä sitten, mitä tarkoittaa erilainen ratkaisu-
+malli. Miksi tätä ei ole voitu jo nyt hoitaa kuntoon? On se sillä lailla vähän erikoista.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+Tämä aikataulukysymys tulee esille myös tässä meidän sote-uudistuksessa. Tietojeni
+mukaan sieltä on tulossa syksyllä vielä lisää sote-lainsäädäntöä, ja kuitenkin meillä on tar-
+koituksena, että meidän tulisi kesään mennessä käsitellä tämä koko uudistus. Silloin me
+teemme sitä osittain sokkona. Nyt tuntuu siltä, että kun on vuosi vaaleihin, niin on niin hir-
+veä kiire, että täällä ei saisi enää mitään käsitellä rauhassa vaan kaikki pitää tehdä vain ju-
+malattomalla vauhdilla, että kunhan nämä nyt saadaan käsiteltyä, että älkää nyt viitsikö sii-
+nä kritiikkiä esittää. En minä sitten tiedä — jos sitä kritiikkiä ei saa enää esittää, niin pan-
+naan koko eduskunta kiinni.
+
+15.11 Ari Torniainen kesk (vastauspuheenvuoro):  Arvoisa herra puhemies! Edustaja
+Merelle sen verran, että kun tämä asia oli liikenne- ja viestintävaliokunnassa käsittelyssä,
+niin valiokunta kuuli erittäin paljon ja kuunteli myöskin erittäin monia asiantuntijoita ja
+otti asiantuntijoiden näkemyksiä huomioon, ja liikenne- ja viestintävaliokunta teki myös-
+kin paljon ja useita täsmennyksiä tähän isoon lakipakettiin, näihin kaikkiin lakeihin. Sen
+voi täältä käydä läpi, siellä on erittäin paljon. Liikenne- ja viestintävaliokunta paneutui tä-
+hän asiaan todella huolella.
+
+Voin omasta puolestani yhtyä valiokunnan puheenjohtajan näkemykseen siitä, että
+nämä kaksi lausumaa, jotka valiokunta teki tänne, ovat kyllä aidosti koko valiokunnan
+kaikkien jäsenten näkemyksiä. Se lausuma, mistä täällä nyt on keskusteltu, kuuluu: ”Edus-
+kunta edellyttää, että valtioneuvosto valmistelee hankkeen kolmannen vaiheen hallituksen
+esityksessä laista juoksevaan pykälänumerointiin perustuvan, kieliasultaan selkeän ja jär-
+kevästi jäsennellyn kokonaisuuden.” [Puhemies koputtaa] Tämä on koko valiokunnan yh-
+teinen näkemys.
+
+15.12 Leena Meri ps (vastauspuheenvuoro):  Arvoisa puhemies! Onko tämä vastalause
+nyt sitten vanhentunut, joka täällä on, tämä, minkä ovat SDP:n, perussuomalaisten ja vih-
+reiden jotkut jäsenet tehneet 8.3.2018? Kun puhutte, että kaikki on hyvin ja yksimielisiä,
+niin eikö täällä kuitenkin vastalauseessa tuoda esille nämä perustuslakivaliokunnan huo-
+let? Kysyn nyt ihan: onko tämä pitävä paperi, vai onko tämä jäänyt tänne vahingossa?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Puhujalistaan.
+
+15.13 Timo Heinonen kok:  Arvoisa herra puhemies! Edustaja Mereltä tulee kritiikkiä
+asiasta kuin asiasta tilaamatta ja pyytämättäkin. Mutta toki kritiikkiä maailmaan mahtuu.
+
+Kolmivaiheinen kokonaisuus. On hyvä, että tätä viedään nyt eteenpäin. Meidän liikku-
+minen on ollut pitkään hyvin pirstaloitunutta. Liikkumisen ketjut eivät pitkien etäisyyk-
+sien ja harvaan asutussa maassa ole enää toimineet kaupunkiseutuja lukuun ottamatta, jos
+niissäkään, ja yleensä aina näissä liikkumisen ketjuissa tarvitaan omaa henkilöautoa aina-
+kin osamatkaksi.
+
+Mutta jos me pääsisimme siihen, että on yksi lippu ja koko liikkumisen ketju ja myös
+ehkä kaiken liikkumisen ja liikuttamisen tarve siinä samassa kokonaisuudessa, silloin me
+voisimme päästä siihen, että tämän tyyppisessä maassa saisimme liikkumaan koululaiset,
+työmatkaliikenteen, myös ikäihmisen, joka asuu vähän syrjäseudulla, tai toisaalta niin, että
+tällainen henkilö saisi tulevaisuudessa myös paketin ajallaan, kun sen olisi mahdollista olla
+tässä samassa liikkumisen ketjussa, vaikkapa myös ruokapalvelun, joka monessa kunnas-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+sa hoidetaan tällä hetkellä eri kalustolla kuin lapset. Meillä on paljon tällaisia tilanteita,
+mitä kannattaa järkeistää.
+
+Kun nyt tätä keskustelua on kuunnellut ja myös valiokunnan työskentelyä varajäsenenä
+tähän päivään asti saanut seurata, niin on hyvä, että tällainen lausuma on tehty. Mutta toki
+tämän lausuman jälkeen tulee vähän sellainen olo, että eikö tämän pitäisi olla se vanha nor-
+maali eikä uusi normaali, että lainsäädäntö tehdään ei nyt ihan selkokielelle mutta sellai-
+selle kielelle, että sen edes ne ymmärtävät, joiden tehtävä on sitä noudattaa ja tulkita.
+[Eduskunnasta: Pitäisi olla itsestään selvää!] Tässä laissa nyt valitettavasti on sellaisia [Pu-
+hemies koputtaa] vaikeuksia, että on tärkeää, että terävöitetään jälleen kerran tätä.
+
+15.15 Markku Pakkanen kesk: Arvoisa puhemies! Tämä liikennepalvelulaki kakkonen
+on mielestäni ainakin siltä osin erittäin hyvä, että siinähän digitalisaatioon kiinnitetään eri-
+tyistä huomiota. Sehän on tulevaisuuden liikenteen yksi suurimpia mahdollisuuksia mo-
+nessa mielessä ja helpottaa liikennettä, parantaa palveluja, sujuvoittaa sitä. Mutta toki sii-
+hen liittyy myös se uhka, mikä tänä aamuna uutisissa kuultiin, kun Uberin kuljettamatto-
+man auton alle jäi ihminen ja sitten menehtyi sen alla tuolla Amerikan mantereella. Nämä
+ovat tämän digitaalisuuden riskejä, ja tämäkin pitää sitten varmaan tulevaisuudessa huomi-
+oida. Että se näille Uber-kannattajille.
+
+Täällä on kovasti sanottu, että se ykköslaki olisi nyt sitten jotenkin ollut vain se viime-
+kesäinen taksilaki, mutta kyllähän siinä ykkösessä puhuttiin paljon muustakin kuin pelkäs-
+tä taksilain uudistuksesta. Siinäkin mielessä muistuttaisin, ettei se oppositio viime kesänä-
+kään äänestyksessä nykyisen taksijärjestelmän sellaisenaan säilyttämistä kannattanut, vaan
+siinä haettiin uudistuksia. Täällähän annetaan nyt ymmärtää, että oltiin niin kuin puolusta-
+massa sitä taksilain säilyttämistä sellaisenaan. Uudistusta tarjottiin, ja nyt uudistetaan. Nyt
+mennään taksipuolellakin uusien mahdollisuuksien kautta eteenpäin. Aika näyttää, mihin
+se sitten johtaa. Tämähän astuu voimaan vasta 1.7., ja tällä hetkellähän me menemme vielä
+nykyisen lainsäädännön mukaisella järjestelmällä, eli ei nyt vääristetä turhaan tätä kuvaa
+siltä osin, että se ykkösvaihe olisi ollut vain pelkästään taksilakiuudistus ja oppositio olisi
+ollut vanhan säilyttämisen puolella sellaisenaan. Kyllähän teidänkin esityksessänne oli uu-
+distuksia ja muutoksia. [Pia Viitanen: Emme me halunneet romuttaa taksijärjestelmää!]
+Muutamaan yksityiskohtaan kiinnititte huomiota, mutta ei se teidänkään esityksenne olisi
+nykyistä järjestelmää säilyttänyt sellaisena kuin se tällä hetkellä on — mikä on kieltämättä
+maailman paras järjestelmä. 
+
+15.17 Mika Niikko ps: Arvoisa puhemies! En ota nyt kantaa tähän ykköslainsäädäntöön,
+kun se oli vuosi sitten, mutta kyllähän tämä kakkoslainsäädäntö vaatii enemmän huomiota.
+Oppositio tälläkin kertaa on ollut hereillä, ja onhan tämä huolestuttavaa ennen kaikkea sen
+kannalta, että hallituksen toimintatapa vie uskottavuuden hyvältä lainsäädännöltä. Toivot-
+tavasti tämä nyt semmoisena herättävänä esimerkkinä kuitenkin toimisi eduskunnassa tu-
+levaisuuden kannalta, ettei tehdä semmoista monitulkintaa mahdollistavaa lainsäädäntöä,
+joka työllistää ennen kaikkea juristeja ja virkamiehiä kohtuuttomasti. 
+
+Itse tässä yhteydessä haluaisin nostaa esille sen näkökulman, kun me mietimme, millai-
+sia lainsäädäntöjä tästä talosta tulee ulos, että nyt tämä kansalaisaloitejärjestelmä, joka tuo
+meille eduskuntaan jatkuvasti uusia ja uusia aloitteita, työllistää yhä enemmän ei pelkäs-
+tään kansanedustajia vaan myös asiantuntijoita ja koko eduskunnan virkakoneistoa. Kuin-
+ka me voimme taata, että täällä tehdään hyvää lainsäädäntöä, kun meille tulee toinen toi-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+sensa perään aloitteita, joiden läpimenosta ei tiedä vasta kuin siinä vaiheessa, kun poliitti-
+set voimasuhteet asettuvat paikoilleen tuolla valiokuntahuoneissa?
+
+Itse en ainakaan pidä kovin hyvänä kehityksenä nykyistä kansalaisaloitelainsäädäntötoi-
+mintaa, ja siinä mielessä toivoisin, että sekin keskustelu käytäisiin joskus rohkeasti siitä,
+onko se aikansa elänyt, varsinkin tällaisella pienellä nimimäärällä kuin 50 000 allekirjoi-
+tusta digitaalisuuden aikana. Toivoisin, että tänne eduskuntaan tulisi ainoastaan hyvin val-
+misteltuja lakialoitteita, niin hallituksen kuin kenenkä muun tahansa toimesta, ja niihin pe-
+rehtymiseen olisi riittävästi aikaa käytettävissä, jottei päädyttäisi sellaiseen lainsäädäntö-
+kierteeseen, jossa me korjaamme aina sitten seuraavan hallituksen aikana huonoja lainsää-
+däntöjä. 
+
+15.19 Jari Ronkainen ps: Arvoisa puhemies! Ymmärrän kyllä hyvin, että hallituspuolu-
+eiden edustajat puolustelevat tätä lakiesitystä muun muassa sillä, että tehdään nyt jotain ja
+korjataan sitten myöhemmin ja pääasia, että mennään eteenpäin. Valitettavan usein tässä-
+kin salissa kuulee, että korjataan sitten myöhemmin. 
+
+Mutta mitäs me sitten teemme, jos tehtyä uudistusta ei enää pysty korjaamaan? Voi olla,
+että on tehty jo jotain peruuttamatonta, mitä ei voi korjata. Minun mielestäni meidän täällä
+eduskunnassa tulee tehdä sellaista lainsäädäntöä, joka on tulkittavissa ja joka kestää vuo-
+sia eteenpäin joko muuttamattomana tai pienin muutoksin. Tämän lain valmistelussa ei
+kyllä kaikki mennyt ihan putkeen. 
+
+15.20 Sami Savio ps: Arvoisa puhemies! Ensinnäkin todettakoon, että on erittäin helppo
+yhtyä niihin tänään esitettyihin puheenvuoroihin, joissa on todettu, että tässä hallituksen
+esityksessä mainitut tavoitteet liikenteen sääntelyn sujuvoittamiseksi ja liikenteen yleisek-
+si kehittämiseksi ovat sinänsä paitsi kunnianhimoisia, erittäin kannatettavia asioita. Mutta
+kuitenkin sekä perustuslakivaliokunnan lausunnon, liikenne- ja viestintävaliokunnan mie-
+tinnön että jopa hallituspuolueiden edustajien, ainakin osan heistä, pitämien puheenvuoro-
+jen perusteella tähän lakiesitykseen sisältyy hyvin merkittäviä ongelmia erityisesti sen vai-
+keaselkoisuuden takia. Kritiikkiä on tullut myös liikenne- ja viestintäministeri Anne Ber-
+nerin puoluetovereilta keskustasta, samoin liikenne- ja viestintävaliokunnan puheenjohta-
+jalta tässä aiemmin. 
+
+Arvoisa puhemies! Muiden muassa edustaja Alatalo nosti esille lukuisia ongelmakoh-
+tia, joihin myös perustuslakivaliokunnan lausunnossa on viitattu, ja kuten edustaja Alatalo
+totesi, niin nyt käsiteltävänä olevaa lakiesitystä mitä todennäköisimmin joudutaan korjaa-
+maan jälkikäteen merkittäviltä osin, ja se ei tietenkään voi olla kenenkään tavoitetila.
+
+Edustaja Vehkaperä totesi, että lainsäätäjät pystyvät kyllä ymmärtämään, mistä tässä la-
+kiesityksessä oikein on kyse, ja se on hyvä asia tietenkin, että edes lainsäätäjällä on siitä kä-
+sitys, mutta kyllä lakien tulisi olla ymmärrettäviä myös tavallisen kansalaisen näkökulmas-
+ta.
+
+Arvoisa puhemies! Edustaja Pakkanen mainitsi vielä sote-uudistukseen käytetyn pitkän
+ajan ja toivoi, että sekä sote-uudistusta että tätä lakia viedään ripeästi eteenpäin, mutta ai-
+nakin henkilökohtaisesti olen sillä kannalla, että parempi on tehdä kerralla kunnollista lain-
+säädäntöä, jota ei tarvitse jälkikäteen paikkailla. [Puhemies koputtaa] Se koskee sekä tätä
+lakiehdotusta että erityisesti tietenkin sote-uudistusta. 
+13
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat! Totean tähän vä-
+liin, että niin kauan kuin tätä keskustelua viedään läpi hienosti paikan päältä pidettävillä
+maksimissaan 2 minuutin puheenvuoroilla ja kun tähän keskusteluun nyt osallistuu rajalli-
+nen määrä edustajia, en mieluusti ilman aivan erityistä perustelua myönnä minuutin mit-
+taista välipuheenvuoroa. Näillä mentäisiin. — Edustaja Meri, teillä seuraava varsinainen
+puheenvuoro. 
+
+15.22 Leena Meri ps: Kiitos, arvoisa puhemies! Sopii minulle ainakin aivan hyvin.
+Hyviä puheenvuoroja. Perussuomalaisten edustaja Ronkainen toi esille tuon, että teh-
+
+dään ja että korjataan sitten myöhemmin, ja tämähän tämä henki on nyt vähän ollut, esi-
+merkiksi sote-valmistelussa, että on todettu, että korjataan sitten myöhemmin. Siellä voi
+tulla peruuttamattomia asioita, siellä voi tulla semmoisia oikeudenmenetyksiä, joita on hy-
+vin vaikea korjata. Ihmiset joutuvat elämään kuitenkin sen voimassa olevan lainsäädännön
+mukaan ja tekevät päätöksiä sen mukaan.
+
+Edustaja Niikko perussuomalaisista otti esille myös ajankäytön ja kiireen, ja se on kos-
+kenut tässä monia asioita. Kuten edellisessä puheenvuorossani sanoin, se on ollut tosi huo-
+lestuttavaa. Mieluummin tehdään hyvää ja täsmällistä lainsäädäntöä, ja tämähän on perus-
+edellytyskin. Perustuslakivaliokuntakin edellyttää, silloin kun meiltä lausuntoja pyyde-
+tään, että lainsäädännön tulee olla täsmällistä ja tarkkarajaista ja ihmisten pitää tietää oi-
+keusturvansa ja velvoitteensa. Ei voida ajatella niin, että ihmiset eivät tiedä, mitä heidän tu-
+lisi tehdä, ja sitten me vetoaisimme siihen, että kyllä lainsäätäjä sen tietää. Lainsäätäjä —
+ketä sillä nyt sitten tarkoitetaankin, onko se nyt sitten tässä yhteydessä eduskunta, ministe-
+riö vai hallitus — ei kuitenkaan ole siellä viranomaisissa ja kansalaisten parissa kertomas-
+sa näitä erilaisia tulkintoja, ja onko se tulkinta nyt sitten edes sama. Ja muistuttaisin kui-
+tenkin vielä siitä, että tässä perustuslakivaliokunnan lausunnossa todettiin, että tämä on ol-
+lut asiantuntijoillekin vaikeaselkoinen eikä pelkästään kansalaisille, joiden pitäisi tuolla ar-
+jessa elää näiden kanssa.
+
+Ja mitä ilmeisimmin tämä vastalause on voimassa — täällä tuotiin esille aikaisemmin,
+että on oltu hyvinkin yksituumaisia monissa asioissa ja niitä on korjattu valiokunnassa,
+mutta sen jälkeen on kuitenkin vielä vastalause, missä on useita allekirjoituksia. Mutta kos-
+ka sitä nyt ei kukaan kiistänyt, niin tämä ei ilmeisesti ole ylimääräinen paperi.
+
+15.24 Katja Taimela sd:  Arvoisa herra puhemies! Ensin voin todeta edustaja Merelle,
+että tähän kokonaisuuteen on todellakin jätetty vastalause, joka pitää sisällänsä hylyn ja
+lausumaehdotuksen, ja se on täällä tänään toisessa käsittelyssä jätetty, ja kannatustakin on
+tullut.
+
+Käsittelemme siis tällä hetkellä lain liikenteen palveluista kakkospakettia, ja kun edus-
+taja Pakkanen viittasi lain liikenteen palveluista ykköspakettiin ja puhui takseista, niin ha-
+luan nyt korostaa vielä tässä vaiheessa hyvin lyhyesti, koska tämä lainsäädäntö on jo tässä
+salissa ja eduskunnassa tehty ja äänestetty: me teimme oppositiosta käsin siihen ensimmäi-
+seen pakettiin 28 pykälämuutosesitystä, me hävisimme ne kaikki, ja samalla ollaan hävit-
+tämässä 1.7.2018 maailman parasta taksijärjestelmää Suomesta. Piste.
+
+Mitä sitten tulee tähän kakkoskäsittelyyn, niin täällä on sanottu useammassa puheen-
+vuorossa, että digitalisaatio on mahdollisuus ja on puhuttu paljon perustuslakivaliokunnan
+kritiikistä tähän lainsäädäntöön, ja haluan nyt nostaa myös talousvaliokunnan oikeastansa
+kaksi kolmekin huolta: Talousvaliokunta kiinnitti sellaista huomiota esimerkiksi tähän
+14
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+puolesta-asiointiin, jonka tämä toinen lakipaketti tuo tullessaan, että ”puolesta-asioinnin
+järjestämiseen liittyy kysymyksiä, joista useat vaatisivat käytännön ratkaisuja ennen vel-
+voittavan sääntelyn voimaantuloa, muun muassa tietosuojan ja yksityisyydensuojan näkö-
+kulmasta”. Ei mikään pieni huomio tuokaan. Lisäksi talousvaliokunta kiinnitti huomiota
+”säännöksen epäselvyyden luomaan oikeudelliseen epävarmuuteen liittyen tietokantoihin
+pääsyyn ja tiedon käyttöön”. Ja talousvaliokunta jatkoi vielä, [Puhemies koputtaa] että ”ta-
+sapuolisiin kilpailun lähtökohtiin päästään vain, jos sallimisen ja kieltämisen kriteeristö on
+avoin ja selkeä”. 
+
+Minkä takia tähän on tehty vastalause ja hylky? Me koemme, että se ei ole selkeä.
+
+15.27 Pia Viitanen sd:  Arvoisa herra puhemies! Itsekin olisin kiinnittänyt huomiota sii-
+hen, kun kuulin tuolta hallituksen puolelta tulkintoja SDP:n kannasta tähän ykkösasiaan ja
+taksiasiaan. Edustaja Taimela hyvin kyllä kertoi, että olemme olleet järkyttävän huolestu-
+neita siitä, että maailman paras taksijärjestelmä ajetaan alas. Omia muutosesityksiämme
+oli 28 kappaletta, ja valitettavaksi nämä hävisimme, sillä kyllähän se palaute, mikä myös
+tuolta taksien parista tulee, on aika murskaavaa. Siellä on todella iso huoli siitä, että mitä
+tuli tehtyä. 
+
+Mitä tulee tämän päivän kakkospakettiin ja tähän tilanteeseen, puhemies, niin minusta
+täällä on tullut hyvin esiin se, että tässä on nyt tyypillinen tapaus, jossa yritetään väen vän-
+gällä nopeasti, välittämättä siitä, mikä laki on sisällöllisesti, viedä eteenpäin. Tässä ei voi
+olla tulematta mielleyhtymää tähän sote-pakettiin, mikä meillä parhaillaan on, koska kyl-
+lähän siellä on samaa henkeä, että valtava kokonaisuus perustellaan kiireellä ja arvovallal-
+la — arvovallalla. Tämä on arvovaltakysymykseksi tehty, että pakko tehdä tämän ja tämän
+kaltainen järjestelmä. Paitsi että se varmasti on toiminnallisesti ongelmallinen monessa
+suhteessa ja laki on iso ja vaikea ja liian nopeasti sitä ei tulisi käsitellä, niin myös sisällöl-
+lisesti sehän on historian suurin harhalaukaus, kuten täällä on puhuttu. Sillä paketilla, mikä
+sotessa on, tullaan murskaamaan koko tämänhetkinen terveysjärjestelmä, tullaan eriarvois-
+tamaan sitä, tullaan lisäämään kustannuksia, ja kaikki on vain väen vängällä täällä edus-
+kunnassa vietävä eteenpäin. Eli kyllä tämä on huolestuttava kokonaisuus, mitä tällä hetkel-
+lä Suomen politiikassa tapahtuu, jos saa, puhemies, näin sanoa.
+
+15.29 Eero Lehti kok: Arvoisa herra puhemies! Kun täällä säädetään laki, niin vaikka se
+tehdään kaikkien perussääntöjen mukaan huolellisesti ja kaikkia näkökohtia pyritään ym-
+märtämään ja kirjoittamaan lakiin, käytäntö vasta osoittaa, toimiiko laki sillä tavoin kuin
+on toivottu, ja jos ei, niin mistä syystä mahdollisesti. Täällä on puhuttu taksiliikenteestä.
+Sen jälkeen, kun tämä uudistus on voimassa, niin kyllä nähdään, toimiiko vai ei ja mitä pi-
+tää mahdollisesti korjata. Melkein varmaa on, että ennen pitkää jotain korjataan. On tyh-
+mää, jos nähdään virhe, eikä sitä korjata. 
+
+Se, että pyrittäisiin tekemään kestävää lainsäädäntöä, on tietysti hyvä ajatus, mutta sil-
+loin lainsäädännön pitää olla olosuhteisiin mukautuvaa. Liikenteen puolelta mainitsen esi-
+merkiksi, kuinka Suomen lainsäätäjä ei hyväksynyt sitä, että autojen takatuulilaissa, taka-
+lasissa oli jarruvalo. Pitkän aikaa ihmiset kuitenkin laittoivat niitä, koska he kokivat sen pa-
+rantavan heidän omaa turvallisuuttaan, että heidän päällensä ei jarrutustilanteessa ajettu
+yhtä herkästi. Myöhemmin se muutettiin, mutta meni aika monta vuotta, ennen kuin se
+muutettiin. Sama koski huomiovaloja. Suurempi virhe ehkä tehtiin siinä, että niin sanotut
+mopoautot sallittiin, ja ehkä yhteiskunnallisesti olisi syytä myös pohtia sitä, että monissa
+15
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+muissa maissa sallitaan oikealle kääntyminen punaisia valoja vastaan edellyttäen, että tie
+on vapaa ja liikkuva ajoneuvo pysähtyy. Sillä säästetään tyhjäkäyntiä ja sillä säästetään hii-
+lidioksidipäästöjä.
+
+Lainsäätäjän pitäisi olla aika herkkä muuttamaan sitä, minkä kerran on tehnyt, ja se pe-
+riaate, että kerran tein ja mihinkään siihen ei tarvitse enää koskaan koskea eikä korjata, on
+minun mielestäni periaatteessa mahdoton yhtälö.
+
+15.30 Mirja Vehkaperä kesk: Arvoisa puhemies! Tulkoon vielä kertaalleen se selväksi,
+että laki liikenteen palveluista ei ole perustuslain vastainen. Ei ole. Kritiikki koskee ainoas-
+taan pykälä-, kieliasu- ja jäsentelyasioita. Yhdessä ministerin ja valmistelevien ministe-
+riön edustajien kanssa olemme hyvässä yhteistyössä antaneet sen signaalin ja sen viestin,
+että jos näitä pykäliä ja jäsentelyjä ei tässä kakkosvaiheessa nyt tehdä, niin kuin ei tehty,
+niin se tehdään kolmannessa vaiheessa. Mutta periaatteellisella tasolla mitään lakeja, jotka
+on jo hyväksytty eduskunnassa ykkösvaiheessa ja nyt tässä kakkosvaiheessa, ei avata ja
+niitä ei uudelleen käsitellä. Jos jollakin on sellainen käsitys, että nämä uudelleen käydään
+läpi, meriliikennettä, tieliikennettä, lentoliikennettä, raideliikennettä, esimerkiksi ammat-
+tipätevyyksiä koskevat asiat, niin ei niitä käydä. Nyt ne käydään läpi, ja jos nyt on jotain
+kritiikkiä ja muutosesityksiä näitten perusasioitten kanssa, niin nyt ne esitykset pitää teh-
+dä. Tämä juna menee nyt eteenpäin tässä vaiheessa, ja ministeriö on hyvin tietoinen siitä,
+että pykälien ja jäsentelyiden, siis tämän tekniikan tässä laissa ja sen esittelyssä, pitää olla
+siinä kolmannessa vaiheessa sitten kohdillaan.
+
+15.32 Markku Pakkanen kesk: Arvoisa herra puhemies! Palaan vielä keskusteluun tästä
+lainsäädännöstä ja siitä, onko teksti selkeälukuista ja ymmärrettävää. Lakiteksti ei mieles-
+täni juuri milloinkaan ole selkeästi ymmärrettävää, elikkä siinä tarvitaan hyvin paljon pe-
+rehtyneisyyttä siihen itse alaan. Sitten taas, jos mietitään tätä kakkoslakia liikennepalve-
+luista ja liikenteessä ammatikseen toimivaa, niin kyllä se ihminen tämän kohtuudella ym-
+märtää, kun tietää, mistä tässä on kysymys. Se on totta, että tekstin pitäisi olla selkokielis-
+tä, mutta niin kuin edustaja Lehti sanoi, niin sellainen lainsäädäntöteko, että se olisi niin
+kerralla valmis, että sitä ei ikinä tarvitse muuttaa, lienee epärealistinen tavoite, koska
+yleensä täällä istutaan ja mietitään muutoksia jo valmiina olemassa olevaan lakiin, niin
+kuin tässäkin parannetaan, selkeytetään, joustavoitetaan, sujuvoitetaan. Tästähän tässä on
+hyvin pitkälti kysymys.
+
+Edustaja Lehti otti myös hyvän esimerkin, kuinka suomalainen lainsäädäntö aika hitaas-
+ti muuttuu. Tämä takavaloasia on hyvä esimerkki siitä, että halutaan parantaa liikennetur-
+vallisuutta, lisätä näkyvyyttä. Jarruvaloilla on saatu valtava määrä hyvää näkyvyyttä, mut-
+ta samaan aikaan meillä lainsäädännössä sallitaan, että auton normaalien ajotakavalojen ei
+tarvitse palaa takana. Niidenkin tehtävä on käytännössä vain huomioida edellä kulkeva au-
+to, että se takana tuleva näkee, että tuossa edellä menee moottoriajoneuvo, siinä takavalot
+palavat. Tämä on ristiriitainen ja aina tällainen ehkä hyvin, voisiko sanoa, mielipidekysy-
+myskin. Itse olisin sitä mieltä, että päiväsaikaankin se lisää liikenneturvallisuutta, jos au-
+ton normaalit ajovalot palavat siellä takana. Se, mitä siinä säästetään energiaa, on hyvin
+marginaalinen kysymys.
+
+15.34 Mikko Alatalo kesk: Arvoisa puhemies! Todellakin, niin kuin edustaja Lehti sanoi
+hyvin, monesti on hyvin vaikea saada uudistuksia läpi, ajan seuraaminen on vaikeata.
+16
+
+
+
+Pöytäkirjan asiakohta PTK 25/2018 vp
+Ruotsissa esimerkiksi voi käyttää paljon tehokkaampia ajovaloja, varsinkin pohjoisissa
+olosuhteissa se on tärkeää. Itse olen jo vuonna 2003 tehnyt esityksen siitä, että Suomessa
+voitaisiin kääntyä oikealle punaisia päin häiritsemättä liikennettä ja liikenneturvallisuutta
+vaarantamatta, niin kuin esimerkiksi Yhdysvalloissa ja monissa muissa maissa on.
+
+En lähde ripottelemaan tuhkaa päälleni siitä, jos ministeriöstä meille tuodaan esille täl-
+laisia pykäliä, jotka voivat olla joillekin vaikeita ymmärtää. Me teimme valiokunnassa par-
+haamme korjataksemme tätä, ja todella toivon, että viimeistään tuossa kolmosvaiheessa
+sitten korjataan näitä asioita.
+
+Se, mikä tässä nyt on kuitenkin se pääkohta, on, että digitalisaatioasia ja nämä yhteislip-
+puasiat edistyisivät. Kyllä me kaikki olemme tässä olleet riittävän kriittisiä, mutta aikatau-
+lu on ollut tämä, ja viimeistään nyt kolmosvaiheessa myös tämä pykäläpuoli korjataan. Mi-
+tään muuta perustuslaillista estettähän tässä ei ole.
+
+Keskustelu päättyi ja asian käsittely keskeytettiin.
+17
+
+
+	3
+	14.28
+	14.32
+	14.36
+	14.39
+	14.40
+	14.42
+	14.44
+	14.46
+	14.47
+	14.48
+	14.50
+	14.52
+	14.55
+	14.57
+	14.59
+	15.00
+	15.01
+	15.02
+	15.03
+	15.04
+	15.06
+	15.07
+	15.09
+	15.11
+	15.12
+	15.13
+	15.15
+	15.17
+	15.19
+	15.20
+	15.22
+	15.24
+	15.27
+	15.29
+	15.30
+	15.32
+	15.34
+
+

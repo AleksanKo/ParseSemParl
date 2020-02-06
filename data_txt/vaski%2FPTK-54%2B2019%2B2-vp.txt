@@ -1,0 +1,630 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM3658.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 54/2019 vp
+
+Täysistunto
+
+Tiistai 22.10.2019 klo 14.00—16.55
+
+2. Hallituksen esitys eduskunnalle laiksi kuluttajansuojaviranomaisten eräistä toimival-
+tuuksista sekä laeiksi Kilpailu- ja kuluttajavirastosta annetun lain ja eräiden muiden la-
+kien muuttamisesta
+
+Hallituksen esitys HE 54/2019 vp
+
+Lähetekeskustelu
+
+Puhemies Matti Vanhanen: Lähetekeskustelua varten esitellään päiväjärjestyksen 2.
+asia. Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokuntaan, jolle perustusla-
+kivaliokunnan ja lakivaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 45 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+14.01 Oikeusministeri Anna-Maja Henriksson (esittelypuheenvuoro): Arvoisa puhe-
+mies, värderade talman! Tämä nyt käsittelyyn tuleva hallituksen esitys on monella tapaa
+tärkeä. Se on tärkeä, koska sillä vahvistetaan kuluttajien oikeuksien toteutumista. Se on tär-
+keä, koska sillä turvataan rehellisten yritysten toimintaedellytykset ja edistetään tervettä
+kilpailua. Lakiehdotukset perustuvat pääasiassa EU-asetukseen, jota aletaan soveltaa 17.
+tammikuuta 2020. Sama päivä olisi myös lakien voimaantulopäivä.
+
+Regeringens proposition som nu behandlas är viktig på många sätt. Den är viktig för att för-
+verkliga konsumenternas rättigheter och den är viktig för att trygga ärliga företagares verk-
+samhetsförutsättningar och främja hälsosam konkurrens. Förslagen baserar sig främst på
+en EU-förordning som börjar tillämpas 17 januari 2020. Det är också dagen då dessa lagar
+skulle träda i kraft.
+
+Hallituksen esityksellä toteutetaan hallitusohjelman kirjausta, jonka mukaan kuluttajan-
+suojalainsäädännön noudattamista tehostetaan uudistamalla kuluttajaviranomaisten toimi-
+valtuuksia koskevaa sääntelyä. Esityksessä ehdotetaan, että viranomainen saisi muun
+muassa oikeuden poikkeustapauksissa määrätä internetissä olevaa sisältöä poistettavaksi ja
+viime kädessä määrätä itse sivusto poistettavaksi. Näiden uudenlaisten toimivaltuuksien
+avulla voidaan nykyistä tehokkaammin valvoa kuluttajansuojasääntelyn noudattamista ja
+puuttua lain rikkomuksiin myös digitaalisessa ympäristössä.
+
+EU-asetusta sovelletaan vain EU:n jäsenvaltioissa ja vain tiettyihin rajat ylittäviin rik-
+komuksiin. Emme kuitenkaan halua Suomeen tilannetta, jossa kuluttaja-asiamiehellä olisi
+erilaiset toimivaltuudet riippuen siitä, onko yritys suomalainen vai esimerkiksi ruotsalai-
+nen. Myös talousvaliokunta on kiinnittänyt tähän huomiota. Siksi ehdotetaan, että kulutta-
+ Tarkistettu
+3.3
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+ja-asiamiehellä olisi asetuksen mukaiset toimivaltuudet myös sellaisissa tilanteissa, joissa
+suomalaisen kuluttajan oikeuksia rikkova yritys on suomalainen tai kolmannesta maasta
+peräisin oleva. Täten kuluttaja-asiamies voisi puuttua esimerkiksi kiinalaisten nettikauppo-
+jen lainvastaiseen menettelyyn.
+
+Viranomaisilla on nyt ja vastaisuudessa aina ensisijaisesti velvollisuus neuvotella elin-
+keinonharjoittajan kanssa. Tietyissä laissa yksilöidyissä vakavissa rikkomuksissa ehdote-
+taan käyttöön otettavaksi myös seuraamusmaksu. Tämän tavoitteena on tehostaa valvon-
+taa erityisesti silloin, kun neuvottelut kuluttaja-asiamiehen ja elinkeinonharjoittajan välillä
+eivät tuota tulosta, vaikka lain rikkominen on selkeää. Tällä tavalla voidaan hillitä erityi-
+sesti epäreilua kilpailua markkinoilla.
+
+Målsättningen, värderade talman, med regeringens proposition är förutom att verkställa en
+EU-förordning också att stöda laglig näringsverksamhet i Finland och att ge konsumenter-
+na bättre skydd än de har för tillfället. — Kiitoksia, tack.
+
+14.05 Pekka Aittakumpu kesk: Arvoisa herra puhemies! Kiitos ministeri Henrikssonille
+selkeästä lakiesityksen esittelystä. Mielestäni ministeri kiteytti lakiesityksen taitavasti.
+Esityksellä siis pyritään turvaamaan kuluttajan oikeudet, ja edistämään rehellisten, ahke-
+rien yrittäjien työtä ja toimintaa. [Anne Kalmari: Ahkerien yrittäjien!]
+
+Kun maailma muuttuu, myös erilaiset liiketoiminnan muodot muuttuvat ja uusiakin tu-
+lee. Meille, keskustalle on erityisen tärkeää, että me huolehdimme sekä liiketoiminnan
+edellytysten turvaamisesta että kuluttajan oikeuksista. Siksi on erittäin tervetullutta, että
+kuluttajansuojalainsäädäntöä nyt päivitetään ministerin kertomalla tavalla. 
+
+Tässä kyseisessä lakiesityksessä lähtökohtana on Euroopan parlamentin ja neuvoston
+asetus. Pidän hyvin myönteisenä sitä, että nyt tämän esityksen myötä kuluttaja-asiamiehen
+toimivaltuudet tulevat myöskin kotimaata koskevia tilanteita koskemaan, mutta myös ai-
+van niin kuin ministeri kertoi, myöskin kolmansia osapuolia, eli unionin ulkopuolella toi-
+mivien kauppojen ja toimijoiden tapauksia. Tällä hetkellä valitettavasti, niin kuin monet
+ehkä omasta kokemuksestakin tiedämme, kuluttaja-asiamiehen valtuudet eivät ole aivan
+riittävät, ja on hyvä, että kuluttaja-asiamiehen keinoja laajennetaan. Meidän tulee aina olla
+tavallisen kuluttajan puolella, ja siksi tämän lainsäädännön uusiminen on aivan erinomai-
+sen tärkeää. Nyt meillä tulee viranomaisilla olemaan paljon paremmat valtuudet valvoa ja
+myöskin puuttua epäkohtiin, joita ilmenee, ja niin kuin tuossa lakiesityksessä todetaan, ku-
+luttaja-asiamies voisi muun muassa tehdä valeostoja ja toimia valehenkilöllisyyden turvin
+selvittääkseen ja valvoakseen ja poikkeustapauksessa hänellä on mahdollisuus myös sul-
+kea kuluttajia huijaavia verkkosivustoja. 
+
+On hienoa, että punamultahallitus nyt lähtee määrätietoisesti ja on lähtenyt määrätietoi-
+sesti toteuttamaan hallitusohjelmaa, jossa todetaan juuri se, että kuluttajansuojaa ajanta-
+saistetaan ja tehostetaan myöskin kuluttajansuojalainsäädännön noudattamista, uudista-
+malla viranomaisten toimintavaltuuksia koskevaa säätelyä. Tämä lakiesitys on kaikin ta-
+voin kannatettava.
+
+14.08 Leena Meri ps: Arvoisa puhemies! Kiitos ministerille esittelystä. Laissa on paljon
+hyvää. Kuten ministerin esittelyssä tuli esille, kuluttajaviranomaisten toimivaltuuksia lisä-
+tään ja kuluttajien oikeusturvaa parannetaan, mutta tämä on myös, kuten ministeri esitti,
+erittäin hyvä yrittäjien enemmistölle, koska he noudattavat huolellisesti kuluttajasäädök-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+siä ja on tärkeää, että terveet markkinat säilyvät. Lisäksi lainsäädännössä huolehditaan
+elinkeinonharjoittajien oikeusturvan kannalta siitä, että kuulemismenettely ja muutoksen-
+hakumenettely ovat asianmukaisia. 
+
+Myös kuluttaja-asiamiehen toimintaa tehostetaan siten, että kieltopäätökseen tyytymät-
+tömän elinkeinonharjoittajan olisi vietävä asia markkinaoikeuteen. Nykyäänhän se rau-
+keaa pelkällä väitteellä, joka tietysti altistaa helposti tilanteille, että sen asian kanssa jou-
+dutaan sitten... joko vetkuttelutarkoituksessa tai muuten, ja se sitten heti raukeaa. On hyvä
+tietysti huomata, että tässä on edelleen pohjalla se, että kuluttaja-asiamiehen tulee ensisi-
+jaisesti neuvotella asiasta, ei lähteä heti hutkimaan, vaan totta kai ensin hyvän tavan mu-
+kaisesti otetaan yhteyttä. 
+
+Täällä on muutamia asioita, jotka haluaisin erityisesti nostaa esille. Sivulla 62 hallituk-
+sen esityksessä on hyvin huomattu tämä tärkeä seikka, suhde rikosoikeudelliseen käsitte-
+lyyn elikkä kaksoisrangaistavuuden kielto, joka tarkoittaa sitä, että kun tässä on mahdolli-
+suus määrätä tämä seuraamusmaksu, niin sitä ei saa määrätä sille, joka on epäiltynä samas-
+ta rikoksesta esimerkiksi esitutkinnassa — ja siellä on siis vireillä samaa rikkomusta kos-
+keva syyteharkinta — tai asiassa, joka on edennyt tuomioistuimeen. 
+
+Lisäksi tärkeänä asiana on tämä valeosto tai koeosto, joka on täällä lain 10 §:ssä ja josta
+itse asiassa haluaisin ministeriltä kysyä. Täällä todetaan, että toimivaltaisella viranomaisel-
+la on oikeus tehdä koeostoja valvontatehtävien hoitamiseksi ja käyttää jopa valehenkilöl-
+lisyyttä, mutta sitten lain 3. momentissa tässä ehdotuksessa todetaan, että toimivaltaisella
+viranomaisella on oikeus peruuttaa tuo 1. momentissa tarkoitettu sopimus — eli ymmär-
+tääkseni on tilattu jotakin, ja sitten todetaankin, että peruutetaan se. Ymmärränkö oikein?
+Tässä todetaan, että ”jollei se ole elinkeinonharjoittajan kannalta kohtuutonta”, ja oikeas-
+taan kysyn, että jos tämmöisiä koeostoja tehdään, niin mistä tämmöisen rahoituksen on tar-
+koitus tulla, ja sitten, jos se onkin kohtuutonta elinkeinonharjoittajan kannalta, että peruu-
+tetaan tämä sopimus, jonka ymmärrän tässä tilaukseksi, koeostoksi, niin missä ratkaistaan
+sitten se, tuleeko se maksaa, ja onko näihin koeostoihin nyt budjetoitu jotain rahaa, koska
+jos minä nyt luen tämän oikein, niin tässä on jonkintyyppinen peruutusmahdollisuus. Ehkä
+ministeri pystyy tätä selventämään, toivon mukaan, en itse sitä ihan tuosta auki saanut.
+
+Tämä tulee tosiaan myös meille lakivaliokuntaan käsiteltäväksi, ja lupaan siellä huolel-
+lisen ja hyvän käsittelyn siltä osin kuin tämä on lakivaliokunnan toimialaa, mutta tähän ha-
+luaisin vastauksen näistä valeostoista. 
+
+14.12 Jari Myllykoski vas: Arvoisa herra puhemies! Kiitoksia ministerille. Jokainen asia,
+jokainen lainsäädäntö, joka turvaa ja suojaa kuluttajaa nykyistä paremmin, on aina terve-
+tullut, ja se ilolla vastaanotetaan varmasti tässä täysistunnossa tänäkin päivänä. Kuitenkin
+haluaisin muutaman asian nostaa ehkä siihen, missä henkilökohtaisesti koen vielä hieman
+semmoista epäselvyyttä sen suhteen, että seuraamusmaksu tulee nyt uutena elementtinä
+siihen repertuaariin, millä pyritään hillitsemään ja varmistamaan kuluttajan asemaa mutta
+myös ehkäisemään epätervettä kilpailua.
+
+Meillä on seuraamusmaksujärjestelmiä tässä maassa, esimerkiksi lähetettyjen työnteki-
+jöiden osalta, ja me olemme voineet nähdä, että seuraamusmaksu on toimimaton eikä itse
+asiassa pysty turvaamaan sitä lähetetyn työntekijän asemaa riittävän hyvin, vaan toimijat,
+jotka harjoittavat epätervettä kilpailua ja pitävät alisteisessa asemassa työntekijöitä tässä
+maassa, toimivat edelleen hyvinkin ponnekkaasti välittämättä seuraamusmaksuista, koska
+ne ovat kuitenkin niin matalia. Kysynkin ministeriltä, onko seuraamusmaksun suuruutta
+3
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+nyt pohdittu niin, että se toimii myös ehkäisevänä pelotteena, niin että kansainvälisiin toi-
+mijoihin päästään käsiksi. Seuraamusmaksu varmasti on järkevämpi kuin se, että lähdem-
+me käymään vaikkapa kiinalaista yritystä kohtaan oikeudenkäyntiä ja peräämään sitä kaut-
+ta mahdollisia rikkomuksia. Se on varmasti valtio- ja kuluttajaviranomaisen kannalta kal-
+lis polku, joten ehkä siinä mielessä riittävä seuraamusmaksun suuruus olisi huomattavasti
+tehokkaampi toimenpide. Varsinkin pienten toimijoiden osalta se olisi oikea toimenpide.
+
+Onko ministeriössä lakia valmisteltaessa pohdittu sitä, kuinka tämän lain vaikutuksia
+seurataan jatkossa? En halua arvostella Kilpailu- ja kuluttajavirastoa tai sen paremmin ku-
+luttaja-asiamiestä, mutta kun me tiedämme esimerkiksi pikavippien osalta, kuinka paljon
+sen suitsimiseksi on, toki, tehty edellisen hallituksen aikana ja niin että tässä eduskunnassa
+kahdella edellisellä vaalikaudella on korkoihin puututtu, mutta edelleen viranomaisten toi-
+mesta on tehty pikavippejä koskevia selvityksiä — tälläkin hetkellä on menossa selvityk-
+siä, kuinka me voimme suitsia tätä kirousta, joka Suomessa on pikavippien olemassaolosta
+— niin kuinka tämä laki mahdollistaa kilpailu- ja kuluttajaviranomaiselle, kuluttaja-asia-
+miehelle ponnekkaamman tarttumismahdollisuuden, niin että näitä asioita tällä sektorilla,
+mihinkä tämä ministerin nyt esittelemä laki liittyy, voidaan tehokkaammin vielä edistää?
+
+Yrittäjien aseman parantaminen tässä ansaitsee kyllä vielä erinomaisen plussan, kuten
+tuossa edustaja Meri omassa puheenvuorossaan toi esille. On oikein, että meillä yritykset
+tässä maassa ovat tasavertaisessa kilpailuasetelmassa, ja se on yksi osa sitä, että kuluttajien
+ja rehellisten yrittäjien asemaa voidaan edelleen parantaa.
+
+14.16 Antero Laukkanen kd: Arvoisa herra puhemies! Internet tarjoaa lähes rajattoman
+ostamisen maailman, mutta ei juuri minkäänlaista suojaa, vaan suoja on lähes yksinomaan
+käyttäjän osaamisen varassa. Tämä esitys tuo nyt hyvin laajan lakien muuttamisen kirjon.
+Esityksessä todetaan näin: ”Esityksessä ehdotetaan säädettäväksi laki kuluttajansuojavi-
+ranomaisten eräistä toimivaltuuksista. Lisäksi muutettaisiin Kilpailu- ja kuluttajavirastos-
+ta annettua lakia, oikeudenkäynnistä markkinaoikeudessa annettua lakia, Finanssivalvon-
+nasta annettua lakia, sakon täytäntöönpanosta annettua lakia, tuomioistuinmaksulakia, ku-
+luttajansuojalakia, asuntokauppalakia, saatavien perinnästä annettua lakia, maksupalvelu-
+lakia, korkolakia, matkapalveluyhdistelmistä annettua lakia, palvelujen tarjoamisesta an-
+nettua lakia, sähköisen viestinnän palveluista annettua lakia, liikenteen palveluista annet-
+tua lakia sekä maksulaitoslakia.”
+
+Ministeri Henriksson, esitys on varsin kattava ja tervetullut, ja esityksen perusajatus on
+hyvä: kuluttajan turvan suojaaminen. Tässä esityksessä myös ehdotetaan seuraamusmak-
+sua ikään kuin sellaisena tiedossa olevana uutena toimenpiteenä, jolla varmasti syntyy sel-
+lainen henkinen pelote, että tekemisistä joutuu myös vastuuseen. Asetuksen tavoitteena on
+ollut ottaa käyttöön moderneja, tehokkaita ja tuloksellisia kuluttajansuojayhteistyötä kos-
+kevia mekanismeja, ja kun tämä nyt sitten valiokuntiin menee, niin toivotaan, että käsittely
+on sillä tavalla huolellista, että tämä tavallaan on myös sisällöllisesti niin selkeä ja yksin-
+kertainen, että kuluttaja voi ymmärtää, että hänen oikeutensa merkittävästi tässä nyt kas-
+vavat. Usein on niin, että kun me lainsäätäjät sitten lopulta saamme sen lain valmiiksi, niin
+se jää kuluttajalle aika etäiseksi. Mutta tässä tapauksessa perusviestin ja sitten myös niiden
+soveltavien mekanismien pitäisi olla selkeät, että näissä asianomaisissa viranomaisissa ja
+niissä, joita tämä koskee, olisi nyt selkeät ohjeet tämän käyttämiseen — tähän tulisi val-
+mistautua.
+
+Mutta vielä kerran kiitos tämän esityksen tuomisesta.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+14.19 Arja Juvonen ps: Arvoisa herra puhemies! Tiedustelisin ministeriltä myös liittyen
+näihin pikavippeihin ja erityisesti ryhmäkanteeseen.
+
+Kuluttaja-asiamies Katri Väänänen tiedotti tällä viikolla, oliko eilen, että hän harkitsee
+ryhmäkanteen nostamista kahden kohtuuttoman kalliin kulutusluoton takia. Nyt etsitään
+sitten näitä tiettyjä luotonottajia, ja tämän ryhmäkanteen perusteluna ja mahdollisuutena on
+se, että tulee ilmoittautua riittävä määrä kuluttajaryhmää elikkä ihmisiä, jotka ovat näitä
+luottoja ottaneet. Ja sitten kuluttaja-asiamies myös kertoo, että tällaista vastaavaa ryhmä-
+kannetta ei ole koskaan aikaisemmin ilmeisesti nostettu. Kysyisin teiltä, ministeri, ottaako
+tämä esitys jollakin tapaa kantaa nyt näihin ryhmäkanteisiin ja helpottaisi tavallaan asioi-
+den eteenpäinviemistä ja toki myös sitä, että tavalliset kuluttajat ja kansalaiset uskaltaisi-
+vat myös kertoa, kun ovat kokeneet jotakin sellaista, että olisi syytä tehdä kannetta tai
+nousta valittamaan — millä tavalla tämä lakiesitys tähän asiaan suhtautuu? Tämä on erit-
+täin tärkeä asia. Kuluttaja-asiamies on kyllä kuluttajaa varten, ja välttämättä ihmiset eivät
+aina tiedäkään, että sellainen henkilö on olemassa, ja yhteydenottoja kuitenkin olisi tarve
+tehdä ja myös valituksia. — Kiitos.
+
+14.20 Sheikki Laakso ps: Arvoisa herra puhemies! Kysyisin ministeriltä, millä tavalla
+vaikka esimerkiksi kiinalaisen verkkokaupan toimiessa väärin pystytään tällainen seuraa-
+musmaksu asettamaan ja millä tavallaan pystytään varmistamaan, että sitä seuraamusmak-
+sua saadaan sitten myös perittyä.
+
+14.21 Sari Essayah kd: Arvoisa puhemies! Silloin kun Suomi aikanaan liittyi EU:hun,
+niin meillähän yksi isoja huolenaiheita oli se, miten kansallisen kuluttajansuojalainsäädän-
+nön kanssa käy ja eihän vaan suomalaista kuluttajansuojaa olla heikentämässä. Siinä tilan-
+teessa haluttiin erityisesti välttää sitä, että olisi tullut sentyyppistä EU:n laajuista maksimi-
+sääntelyä, mikä olisi tavallaan dumpannut meidän hyvää kuluttajansuojatasoamme alas-
+päin. No, nyt ollaan sitten onneksi siinä tilanteessa, että EU:n laajuisesti ollaan etsimässä
+enemmänkin tällaista minimisääntelyä elikkä halutaan nostaa tiettyjä sääntelyn tasoja eri-
+tyisesti siinä, mikä liittyy nettikauppaan ja on rajat ylittävää, ja se on tietysti aivan välttä-
+mätöntä, että siinä löytyy myöskin yhteistä, rajat ylittävää sääntelyä. Siellä ollaan lähdetty
+liikenteeseen ja tällä tavalla halutaan nostaa kuluttajansuojan tasoa varmasti monissa mais-
+sa ja sitten myöskin nimenomaan näihin rajat ylittäviin tilanteisiin puuttua.
+
+Täytyy sanoa, että tässä esityksessä on erittäin hyviä avauksia, mutta muutamien koh-
+dalta täytyy miettiä sitä, pystytäänkö näillä ihan oikeasti tarttumaan näihin ongelmiin.
+Tuossa edustaja Laakso nosti esimerkiksi nämä internetkaupat, jos ajatellaan, että voidaan-
+ko kolmanteen valtioon ulottaa tätä valvontaa. Kun tiedetään, että tänä päivänä esimerkik-
+si rikollisen aineiston levittäminen sellaiselta serveriltä, joka sijaitsee jossakin kolmannes-
+sa maassa, saattaa olla äärimmäisen vaikeaa saada estetyksi, ja jos harhaanjohtavaa mark-
+kinointia käytetään tai kenties huijataan täysin näillä tuotteilla, niin pystytäänkö tällaisissa
+kaupallisissa tilanteissa ihan oikeasti näitä sivustoja sulkemaan? Tätä olisin ministeriltä
+kysynyt.
+
+Toinen asia nousi täällä myöskin esille, tämä pikavippien suitsiminen, eli pystytäänkö
+nyt näillä lainsäädännön muutoksilla paremmin tähän asiaan puuttumaan? Meillä viime
+keväänä taisi olla keskustelua siitä, että Suomeen olisi yritetty rantauttaa jopa sellaista mal-
+lia — ja liekö onnistuttukin — jossa luottotietonsa menettäneen henkilön sukulaisia saatet-
+taisiin ottaa vastuuseen näistä pikavipeistä, jos heidän allekirjoituksiaan olisi saatu näihin
+5
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+papereihin tai niihin internetlomakkeisiin. Tämä vaikutti kyllä todella järkyttävältä, että jos
+ihminen on jo muutenkin taloudellisessa kurimuksessa, niin myöskin hänen lähipiirinsä
+sitten mahdollisesti joutuisi näihin ongelmiin.
+
+Tässä todellakin on hyvää se, että on myöskin mahdollisuus viedä markkinaoikeuteen
+näitä asioita kotimaisista tarpeista lähtien — tämä on parannus kotimaiseen kuluttajansuo-
+jaan, lähtenyt kansallisesta tarpeesta — ja myöskin sitten nämä seuraamusmaksujen mää-
+räämiset.
+
+Mutta näihin pariin kysymykseen toivoisin ministeriltä vastausta.
+
+Puhemies Matti Vanhanen: Ministeri saa puheenvuoron kahden seuraavan puheenvuo-
+ron jälkeen.
+
+14.24 Anne Kalmari kesk: Arvoisa herra puhemies! On hienoa, että tämä hallitus jälleen
+kerran on pienen ihmisen ja rehellisen yrittäjän asialla. Ei ole helppoa suitsia petoksia, sik-
+si että ne siirtyvät entistä enemmän nettiin. Ja kuten edustaja Essayah tuossa edellä nosti esi
+sen, että moni toiminta tapahtuu ulkomailta käsin, ja luulen, että tässäkään tapauksessa ei-
+vät oikein kynnet sinne puolelle pidä. On siksi tärkeää, että kansainvälisillä foorumeilla, ai-
+van kuten olemme toimineetkin, sekä groomingiin että tällaiseen epärehelliseen yrittämi-
+seen koetetaan saada sopimusta, niin ettei esimerkiksi peliyrittämistä Maltalta jatkossa teh-
+dä suomalaisin voimin, kuten on nykypäivänä tehty.
+
+Mutta varsinainen kysymykseni oikeastaan liittyy meillä maa- ja metsätalousvaliokun-
+nassa oleviin elintarvikelainsäädännön muutoksiin, jotka myös liittyvät elintarvikepuolen
+petoksiin. Ovatko ne kytkennässä tähän lainsäädäntöön, kuluttajansuojaan? Onko näitä
+asioita koordinoitu? 
+
+Siellä on asioita, jotka ovat meillä nyt jo käsittelyssä, mutta elintarvikelainsäädännön
+kokonaisuudistus tulee myöhemmin. Elintarvikepetokset ovat maailmalla todella suurimit-
+takaavaisia, ja meillekin kasvinsuojeluainejäämiä virtaa osin tämän kautta, ja alkuperämer-
+kinnät on joskus tietoisesti hämärrytetty tai yksinkertaistettu. Esimerkiksi torilta jää kiinni
+joka vuosi iso määrä mansikanmyyjiä, jotka myyvät kotimaisena ulkomaista mansikkaa.
+Tämän tyyppiset asiat, jotka osin eivät ole niin vakavia yksittäisen ihmisen kannalta mutta
+jotka suuren kokonaisuuden kannalta ovat todella merkittäviä ja polkevat sitä tavallista
+yrittäjää. Edustaja Laukkanen tuossa luetteli ison määrän, mutta elintarvikelainsäädännön
+kytkentää ei tässä kohtaa ollut. Miten se hoidetaan?
+
+14.26 Sandra Bergqvist r: Värderade talman, arvoisa puhemies! Det är bra att vi får en
+uppdaterad lagstiftning som tar fasta på problem som uppstår just precis i dag. Jag har ändå
+tre frågor till ministern.
+
+Hallituksen esityksessä ehdotetaan, että seuraamusmaksun suuruus olisi enintään 4 pro-
+senttia yrityksen liikevaihdosta. Kysyisin ministeriltä: Minkälaiseksi arvioitte käytännön
+muodostuvan? Kuinka usein arvioitte, että markkinaoikeus määräisi 4 prosentin seuraa-
+musmaksun?
+
+Toiseksi: Hallituksen esityksessä painotetaan, että tällä hetkellä kuluttaja-asiamies voi
+hakea tietyn toiminnan nimenomaista kieltoa ja vaatia uhkasakkoa. Onko niin, että selvästi
+laitonta toimintaa harjoittavalle yritykselle ei siis tällä hetkellä ole mitään muita sanktioita
+kuin toiminnan kieltäminen, mikä sekin on pitkä prosessi?
+6
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+Kolmanneksi: Elinkeinoelämä on paikoin suhtautunut kriittisesti tähän esitykseen. Eri-
+tyisesti on sanottu, että yritysten pitäisi nyt erityisesti varautua tähän seuraamusmaksuun,
+mistä tulisi valtavan kallista. Siksi pyytäisin vielä ministeriä selventämään, muutetaanko
+tässä yhteydessä myös yrityksiin kohdistuvia velvoitteita, vai onko niin, että jo olemassa
+olevat säännökset pysyvät ennallaan ja ainoastaan niiden valvontaa tehostetaan. — Kiitos.
+
+14.28 Oikeusministeri Anna-Maja Henriksson: Arvoisa puhemies! Arvoisat kansan-
+edustajat! Kiitos oikein hyvistä ja relevanteista kysymyksistä. Aloitan ehkä siitä, mihin
+edustaja Bergqvist lopetti. On varsin selvää, että tällä uudistuksella ei kajota nyt itse kulut-
+tajansuojalainsäädäntöön. Se sama kuluttajansuojalainsäädäntö on edelleen, mikä siis kos-
+kettaa meidän yrityksiä. Nyt puututaan siihen, mitkä ovat ne työkalut, joita kuluttajaviran-
+omaisilla on käytettävissä. Ja siinä tulee nyt parannusta niin, että kuluttajien asemaa paran-
+netaan, ja tämähän tarkoittaa sitä, että tästäkin hyötyvät rehelliset yrittäjät, ja niitähän meil-
+lä on Suomessa paljon.
+
+Yritän käydä myös näitä kysymyksiä yksityiskohtaisemmin, tässä nyt läpi. Edustaja
+Meri kysyi tästä valeostoksesta: Sehän on uusi tapa nyt tämän uuden lain myötä myös ku-
+luttaja-asiamiehelle toimia silloin, kun hän pelkää tai on odotettavissa, että jossain yrityk-
+sessä tapahtuu jotain, mitä siellä ei pitäisi saada tapahtua, ja silloin tämmöistä valeostosta
+voi harjoittaa. Lähden siitä, että tätä varten on budjetoitu määrärahaa myös kuluttajaviran-
+omaisten omassa budjetissa. Varmasti tämä on asia, jota teidän kannattaa myös lakivalio-
+kunnassa käydä sitten tarkemmin läpi. Mutta kyllähän myös tämä laki lähtee siitä, että toi-
+mivaltainen viranomainen ei voi koeostoja tehdessään millään lailla esimerkiksi yllyttää
+elinkeinonharjoittajaa lainvastaiseen tekoon, ja näin ollen tässä laissa ei tarkoituksena ole
+se, että elinkeinonharjoittaja olisi maksajana, jos tällaista valeostosta tehdään. Ja jos hän
+toimii rehellisesti, niin kyllä hänen pitää saada maksunsa myös siitä tavarasta, siitä minä
+lähden.
+
+Sitten, edustaja Myllykoski, tämän seuraamusmaksun suuruus, ja sen ennaltaehkäisevä
+vaikutus: Olemme lähteneet siitä, että tällä maksulla on myös ennaltaehkäisevä vaikutus.
+Ja tämä seuraamusmaksun suuruus, tämä myös edustaja Bergqvistille vastauksena, perus-
+tuisi kokonaisarviointiin, ja sitä määrättäessä tulee ottaa huomioon muun muassa rikko-
+muksen laajuus ja vakavuus. Elikkä sehän ei lähde siitä, että aina, jos tapahtuu joku rikko-
+mus, niin se maksun suuruus on 4 prosenttia liikevaihdosta, vaan ensin neuvotellaan, ja sit-
+ten vasta, jos ei neuvottelussa päästä eteenpäin, niin silloin kuluttaja-asiamiehellä on tämä
+mahdollisuus, mutta 4 prosenttia liikevaihdosta on kuitenkin niin iso summa, että harva
+yrittäjä haluaa maksaa sellaisen summan. Omnibus-direktiivi, joka on myös tulossa tässä
+tulevina kuukausina päätökseen Euroopan ministerineuvostossa, tulee edellyttämään vä-
+hintään tämän suuruista seuraamusmaksun enimmäismäärää, ja sen takia se on tässäkin se
+4 prosenttia korkeintaan. 
+
+Sitten totta kai on niin, että tätä tullaan seuraamaan. Ja nyt kun annetaan kuluttaja-asia-
+miehelle ja viranomaisille useampi työkalu, niin kyllä, on tarkoitus, että se myös vaikuttaa
+niin, että kuluttajansuoja tästä vahvistuu.
+
+Sitten oli kyse tästä ryhmäkanteesta, edustaja Juvonen kysyi siitä. Tässä esityksessä ei
+oteta kantaa ryhmäkanteeseen. Meillähän on jo ryhmäkanne olemassa, ja mitä tulee nyt tä-
+hän Helsingin Sanomissa julkaistuun juttuun, niin en tietenkään voi kommentoida yksit-
+täistä asiaa, mutta yleisellä tasolla voin todeta, että kuluttaja-asiamiehellä on ryhmäkanne-
+lain mukaan mahdollisuus panna kantajana vireille ryhmäkanne ja käyttää siinä asianosai-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+sena puhevaltaa. Elikkä semmoinen mahdollisuus on. Meillä toki ei ole ollut sellaista tilan-
+netta aikaisemmin tässä maassa, ja sen takia näitä tuomioita ei ole.
+
+Sitten näistä kiinalaisista yrityksistä. Tässähän lähdetään siitä, että nettisivuihin ja verk-
+kotunnuksiin liittyvien toimenpiteiden kynnys on korkea. Nettisivustot voitaisiin poistaa
+lähinnä, jos olisi kyseessä petoksellista toimintaa. Silloin pitää tietysti käydä läpi, millä ta-
+valla se kiinalainen yritys markkinoi itsensä Suomeen. Jos se tekee sen suomen kielellä,
+yrittää täällä myydä tavaraa suomalaisille, niin silloin se markkinointi kohdistuu tähän, ja
+silloin tämä antaa mahdollisuuksia myös puuttua siihen. Mutta tämä on aika kompleksinen
+juttu, ja tässä myös on kyse siitä, miten tehdään muissa maissa, ja juuri sen takia näissä ta-
+pauksissa on myös yhteistyö EU:n sisällä tärkeä. Elikkä aina arvioidaan tapauskohtaisesti,
+mikä on kussakin tilanteessa paras tekninen tapa puuttua, mutta jos suoraan yritetään myy-
+dä täällä suomen kielellä tavaraa, niin kuluttajansuojalaki suojelee kyllä myös sellaisia
+loukkauksia vastaan. — Kiitos.
+
+14.34 Jari Myllykoski vas: Arvoisa herra puhemies! Neljän prosentin niin sanotusta seu-
+raamusmaksusta olisin vielä halunnut kysyä. Oletettavaa on, että me emme pysty ehkäise-
+mään sitä, että on niin sanottuja tuotteen valmistajaemäyrityksiä, jotka sitten pilkkovat eh-
+käpä tuotekohtaisesti sitä markkinointia, jolloin näitten pienten ketjussa olevien yritysten
+liikevaihto on aika pientä siihen nähden, mitä on sitten tämä iso kokonaisuus siellä taustal-
+la. Saammeko joitakin välineitä siihen, vai olisiko pitänyt pohtia vielä sitä, että määrätään
+suoranainen toimintakielto välittömästi, kunnes neuvottelut ollaan saatu käytyä? Eli toi-
+minta keskeytettäisiin ja neuvoteltaisiin sitten, kuinka pitää edetä, sillä voihan olla ja var-
+masti niin on usein, että siellä on ymmärtämättömyydestä ja tietämättömyydestä kysymys,
+jolloin sitten toimintaa voidaan oikaista.
+
+Edustaja Essayahin kysymykseen, jonka hän esitti: Ministeri ei siihen vielä kerinnyt ot-
+taa kantaa näitten pikavippien osalta. Jos oikein ymmärsin, niin markkinoille tuotiin tuote,
+joka mahdollisti sen, että maksuhäiriömerkinnällä varustettu kuluttaja saa pikavipin mer-
+kinnästä huolimatta, kun se yritys, joka myöntää sen pikavipin, ottaa taloudellisen vas-
+tuun. Olisin vähän kysynyt, että ei kai tällaista nyt ole rantautunut, että lähdetään hake-
+maan niin sanotusti lähisukulaisilta niitä pikavippisaatavia, koska sehän silloin tarkoittaa,
+että hän on tavalla taikka toisella takaamassa sitä pikavippiä. Eli jos tähän vyyhtiin saisi
+jonkinnäköisen selvityksen ministeriltä.
+
+14.36 Mika Niikko ps: Arvoisa puhemies! Hallituksen esitys on varmasti hyvin tervetul-
+lut niille monille pikavippejä ottaneille henkilöille, jotka alkavat nähdä toivoa siinä, että
+kun heitä on ensin kiskottu vuosia, he voivat saada oikeutta sitä kautta, että yritykset alka-
+vat parantaa toimintatapojansa tällä uhalla, että seuraamusmaksu voi olla 4 prosenttia lii-
+kevaihdosta sanktiota, jos toimii petollisella tavalla. Se ei tosin poista tätä ongelmaa vielä
+pitkään aikaan, en usko siihen, vaan se tarkoittaa kuluttaja-asiamiehen kannalta ja myös
+lainsäädännöllisesti useita muitakin toimia.
+
+Kuten varmasti ministeri tietää, kuluttaja-asiamieshän on huomenna pitämässä tiedotus-
+tilaisuuden siitä, että aikoo nostaa ryhmäkanteen ja kerää mukaan niitä henkilöitä, tuhansia
+ihmisiä mielellään haluaa saada sinne ryhmäkanteen nostamiseen. Hänhän julkaisee saa-
+mani tiedon mukaan, kun eilen kysyin asiaa häneltä, huomenna semmoisen nettilomak-
+keen, jonne kaikki voivat ilmoittautua ja täyttää sen. Tämä koskee nimenomaan niitä ve-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+lallisia, joilla on alle 5 000 euron luottovelka ja jotka kokevat, että se korko on ollut koh-
+tuuton.
+
+Tämä historiahan on jo niin pitkä, kun 2013 vasta saatiin — jotka täällä ovat istuneet,
+niin muistavat — eduskunnassa laki säädettyä siitä, että yritykset voivat ottaa korkoa enin-
+tään sen 50 prosenttia, jos luoton määrä on alle 2 000 euroa. Mutta välittömästi, kun laki oli
+tuore, yritykset keksivät, että he rupesivat myöntämään yli 2 000 euron luottoja, jolloin ne
+saivat edelleenkin periä niitä kymmenien ja jopa satojen prosenttien vuosikorkoja kulutta-
+jilta.
+
+Nythän syyskuussa 2019 tätä lakia on ymmärtääkseni jollakin tavalla muutettu siten,
+että korko pudotettiin 20 prosenttiin jälleen näistä yli 2 000 euron luotoista. Mutta kysy-
+mys on [Välihuuto] — alle 2 000 euron luotoista, korjaan — mutta kysymys on edelleen
+se, että kun näitä korkoja pystytään kiertämään erilaisilla vippaskonsteilla, niin mitä halli-
+tus aikoo tehdä, että yritykset ymmärtäisivät, että ei ole moraalisesti eikä millään tavalla
+hyväksyttävää, että näitä ennestään velkaantuneita ihmisiä saadaan kurittaa näillä koroilla
+ja periä kohtuuttomia kustannuksia heiltä vuosikausia?
+
+Toinen asia on vielä se, miten nämä kuluttajat selviävät siitä, että kun he ensin maksa-
+vat, lyhentävät niitä luottojaan, niin — olen ymmärtänyt näin — yritykset pystyvät sitten
+korolle hakemaan myös koron päälle korkoa, kun ne perivät näitä kustannuksia. Miten tä-
+hän pystytään puuttumaan?
+
+Vielä viimeisenä, arvoisa puhemies, haluan sanoa näistä postimaksuista nettiyrityksille.
+Elikkä nyt vaikka sieltä Kiinasta tai Suomesta tai mistä tahansa tulee tuote, joka ei vastaa
+sitä, mitä yrittäjä on myynyt tai mitä asiakas on olettanut ostaneensa, niin hyvin monissa ta-
+pauksissa se tuote jää palauttamatta sen takia, että kuluttaja ei halua maksaa postimaksua
+palauttaakseen sitä tuotetta. Useat yritykset eivät anna mahdollisuutta, että sen tuotteen saa
+palauttaa rahtivapaasti. Onko tässä mitään, mitä laki sanoo tähän asiaan: onko kuluttajalla
+oikeus palauttaa tuote ilman, että hän itse sen ensin maksaa — tai ylipäätänsä saada takai-
+sin [Puhemies koputtaa] — siitä palautetusta tuotteesta maksetun postikulun, koska useas-
+sa tapauksessa se voi olla kymmeniä euroja, kun se menee ulkomaille saakka?
+
+14.39 Sheikki Laakso ps: Arvoisa puhemies! Tässä koko jutussa vähän aavistuksen tun-
+tuu jotain sellaista ongelmallista minun mielestäni, koska nyt jos esimerkiksi perustetaan
+joku yritys, minkä ajatuksena on vain se, että se toimii huijaten, niin mehän nyt kaikki tie-
+dämme, että tänä päivänä netissä tieto menee niin nopeasti, että ennen kuin täällä missään
+viranomaiset pystyvät asiaan reagoimaan, niin se kauppa on jo tyrehtynyt sen takia, että
+asiakkaat sen tietävät. Nyt sitten taas vastapuoleisesti jos näitä seuraamusmaksuja ja tä-
+mäntyyppisiä juttuja tehdään vain niille yrityksille, mitkä pääsääntöisesti toimivat oikein,
+niin silloinhan käytännöllisesti katsoen ne suurimmat syyt ovat yleensä siinä, että on ym-
+märretty väärin tai jotain muuta vastaavaa, ja silloin näitä seuraamusmaksuja ei ole oikein
+relevanttia edes luodakaan. 
+
+Puhumattakaan nyt tietenkään sitten tässä tilanteessa siitä jutusta, niin kuin ministeri äs-
+ken itsekin sanoi kierrellen ja kaarrellen sen, minkä rivien välistä sai luettua, että kiinalai-
+sia ei saada millään tavalla mukaan näihin seuraamusmaksuihin. Vaikka ajatus on hyvä,
+kun ajatellaan, että rehelliset yritykset pääsisivät hyötymään tästä asiasta, niin voiko tässä
+nyt loppupeleissä olla kuitenkin vähän se ongelma, kun me näitä vaatimuksia lisäämme,
+että se käytännöllisesti katsoen vaikeuttaa näitten hyvin toimivien yritysten toimintaa ja
+9
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+niitten riskejä näihin seuraamusmaksuihin, koska näitä ei sitten kuitenkaan sieltä kolman-
+sien maitten yrityksiltä saada perittyä?
+
+Puhemies Matti Vanhanen: Myönnän puheenvuoron ministeri Henrikssonille, ja sen jäl-
+keen aiemmin sovitulla tavalla tämä keskustelu keskeytetään ja sitä jatketaan päiväjärjes-
+tyksen muiden asioiden käsittelyn lopuksi.
+
+14.42 Oikeusministeri Anna-Maja Henriksson: Arvoisa puhemies! Mitä tulee näihin
+pikavippeihin nyt, niin tilannehan on se, että on tullut tämä 20 prosentin korkokatto, joka
+on astunut voimaan tänä syksynä, ja sitä nyt seurataan, miten se tulee toimimaan käytän-
+nössä. Ja yksi hyvä asia, joka myös on tapahtumassa ja joka on myös tämän uuden halli-
+tuksen ohjelmassa, on se, että pikaluottoyritysten valvonta tullaan siirtämään myös Finans-
+sivalvonnan alaiseksi. Odotan itse, että se tehostaa tätä valvontaa kaikilta osin ja olisi hyö-
+dyksi koko tälle kentälle, että se toimisi paremmin kuin tänä päivänä, totta kai niin, että kai-
+kin tavoin meidän pitää välttää sitä, että ihmiset ylivelkaantuvat ja että ihmisiä viedään har-
+haan. Sen takia hallitus myös on linjannut sen, että mikäli edelleen havaitaan puutteita täs-
+sä sääntelyssä, niin ryhdytään toimenpiteisiin sääntelyn tehostamiseksi ja
+kuluttajaluottojen markkinoinnin sääntelyn tiukentamiseksi, eli sekin on vielä siinä työka-
+lupakissa, jos sitä tarvitaan.
+
+Sitten, mitä tulee tähän kysymykseen, minkä muun muassa edustaja Laakso ja joku muu
+esittivät, että miten tässä yritysten käy: Tilannehan on se, että ne yritykset, jotka toimivat
+lainsäädännön mukaisesti, hyötyvät tästä laista. Kuluttajat hyötyvät tästä. Tämähän vah-
+vistaa kuluttajansuojaa koko EU:ssa, ja se on hyvä asia. Ja kuinka moni suomalainen tänä
+päivänä, kun ostaa tavaraa netistä, ostaa sen suomalaiselta yritykseltä? Kuinka moni ostaa
+sen joltakin yritykseltä, jolla on toimipaikka Euroopassa tai lähimaissa? Uskon, että ne
+ovat aika suuria ne määrät meistä, jotka kuitenkin ostavat sen täältä eurooppalaiselta lähi-
+piiriltä. Tietenkin on myös niin, että kuluttajan itse pitää olla valveilla siinä, kun tekee os-
+toksia netissä, ja miettiä, onko tämä turvallista ja onko tämä yritys semmoinen toimija, jo-
+honka voi luottaa, ja niin edelleen. Mutta tämä lainsäädäntöhän vahvistaa kuluttajan ase-
+maa. Tämän lainsäädännön tarkoitus on vahvistaa juuri kuluttajan tilannetta tänä päivänä
+mutta myös hyödyttää rehellisiä yrityksiä. Kaikki ne yritykset, jotka toimivat pelisääntö-
+jen mukaisesti, hyötyvät myös tästä, ja siitä olen aivan varma.
+
+Sitten tässä muun muassa edustaja Kalmari kysyi tästä elintarvikelainsäädännöstä. Mi-
+nulla ei ole tarkkaa tietoa siitä, mutta jos yrität myydä muunmaalaisia mansikoita suoma-
+laisina, niin se nyt ei varmasti ole semmoinen tapaus, jossa heti tulee joku maksu, mutta ai-
+nakin se keskustelu kuluttaja-asiamiehen ja tämän yrittäjän välillä ja neuvottelu siitä, että
+näin ei saisi toimia, aktualisoituu kyllä myös tämän lainsäädännön puitteissa. Mutta mitä
+muuten tulee siihen, että yritetään myydä elintarviketta jonakin muuna elintarvikkeena,
+niin siitä en tiedä, millä tavalla se keskustelu on ollut mukana tässä hankkeessa.
+
+Ylipäänsä on tärkeätä se, että Euroopan unionissa nyt halutaan vahvistaa kuluttajien ase-
+maa, ja se on syy myös siihen, että tämä asetus on nyt ajankohtainen, ja tämä on esimerkki
+siitä, minkälaista hyötyä meillä suomalaisilla on siitä, että olemme EU-jäsenmaa. Tämä on
+myös konkreettinen esimerkki siitä, että Euroopasta ja EU:sta tulee myös hyvää lainsää-
+däntöä.
+
+Elikkä kaiken kaikkiaan, arvoisa puhemies, tässä kuluttajan asema paranee, rehellisten
+yrittäjien asema paranee, ja tämä on kaiken kaikkiaan hyvä uudistus, jota hallitus nyt on
+10
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+lähtenyt ajamaan ja jossa myös on tärkeätä, että tietysti lakivaliokunnassa kuullaan asian-
+tuntijoita ja paneudutaan näihin yksityiskohtiin. — Kiitos.
+
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan, jolle perustuslakivaliokunnan ja lakivaliokunnan on
+annettava lausunto.
+11
+
+
+	2
+	14.01
+	14.05
+	14.08
+	14.12
+	14.16
+	14.19
+	14.20
+	14.21
+	14.24
+	14.26
+	14.28
+	14.34
+	14.36
+	14.39
+	14.42
+
+

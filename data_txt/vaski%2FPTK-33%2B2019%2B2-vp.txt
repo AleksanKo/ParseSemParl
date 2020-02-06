@@ -1,0 +1,538 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM7836.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 33/2019 vp
+
+Täysistunto
+
+Keskiviikko 18.9.2019 klo 14.02—16.55
+
+2. Hallituksen esitys eduskunnalle laiksi henkilötietojen käsittelystä maahanmuuttohallin-
+nossa ja eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 18/2019 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päi-
+väjärjestyksen 2. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokun-
+taan, jolle perustuslakivaliokunnan on annettava lausunto.
+
+ Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja. 
+
+Avataan keskustelu. Esittelypuheenvuoro, ministeri Ohisalo, olkaa hyvä. 
+
+Keskustelu
+
+14.03 Sisäministeri Maria Ohisalo (esittelypuheenvuoro): Arvoisa puhemies! Hyvät
+kansanedustajat! Nyt käsiteltävässä hallituksen esityksessä ehdotetaan säädettäväksi uusi
+maahanmuuttohallinnon henkilötietolaki. Hallituksen esityksen keskeisenä tavoitteena on,
+että henkilötietojen käsittelyä koskevaa sääntelyä selkeytetään sekä lainsoveltajan että re-
+kisteröidyn oikeuksien turvaamisen näkökulmasta. Henkilötietojen käsittelystä maahan-
+muuttohallinnossa säädettäisiin jatkossa vain yhdessä laissa, joka täyttää nykyaikaisen
+henkilötietolain vaatimukset ja joka täydentää Euroopan unionin tietosuoja-asetusta sekä
+kansallista yleislainsäädäntöä eli tietosuojalakia sekä rikosasioiden tietosuojalakia. Uusi
+henkilötietolaki korvaisi 20 vuotta vanhan ulkomaalaisrekisterilain, joka ehdotetaan sa-
+malla kumottavaksi. Lisäksi rekisterisääntelyä kumottaisiin useista hallinnonalan laeista,
+kun kaikki henkilötietojen käsittelyä koskeva sääntely keskitettäisiin nyt ehdotettavaan uu-
+teen henkilötietolakiin. 
+
+Asiakokonaisuus on valmisteltu pääosin edellisen hallituksen toimesta. Uutta henkilö-
+tietolakia koskeva hallituksen esitys annettiin syksyllä 2018 eduskunnalle, niin että se eh-
+dittiin käsitellä sekä perustuslakivaliokunnassa että osittain hallintovaliokunnassa. Harmil-
+lisesti asian käsittely kuitenkin raukesi eduskuntavaalien johdosta. Nyt annettava esitys
+pohjautuu tuolloin annettuun esitykseen, mutta niin, että sitä on päivitetty tietyin osin,
+muun muassa valiokuntakäsittelyissä esiin tulleiden huomioiden sekä edellisen esityksen
+raukeamisen jälkeen esitysluonnoksesta menneenä keväänä järjestetyn uuden lausunto-
+kierroksen pohjalta. Esitys vastaa nyt aiempaa paremmin asiassa esitettyihin huoliin esi-
+merkiksi yhteisrekisterinpitäjyyden, automaattisen päätöksenteon ja salassapitosääntelyn
+osalta. Tässä esityksessä ehdotetut lait on tarkoitettu tulemaan voimaan mahdollisimman
+pian, koska kyseessä on osittain edellisen esityksen raukeamisesta johtuen myöhässä oleva
+EU-asetukseen liittyvä säädös. 
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+No, miksi tämä esitys ylipäätään on annettu? Esitys ei liity hallitusohjelmaan, vaan sen
+taustalla on kaksi keskeistä tekijää: Ensinnäkin se on osa EU:n tietosuojauudistuksesta seu-
+rannutta laajempaa valtionhallinnon ja siten myös sisäministeriön henkilötietolainsäädän-
+nön uudistusta. Poliisin ja Rajavartiolaitoksen uudistetut henkilötietolait tulivat voimaan
+1.6.2019. Taustalla ovat myös kansalliset muutostarpeet, joilla tarkoitetaan maahanmuut-
+tohallinnossa sovellettavien, osittain 20 vuotta vanhojen rekisterisäännösten vanhanaikai-
+suutta ja toimintaympäristössä esimerkiksi digitalisaation myötä tapahtuneita muutoksia.
+Esityksen valmistelu on siten edellyttänyt tarkkaa ja osittain haastavaakin yhteensovitta-
+mista sekä EU:n tietosuojasääntelyn että perustuslain ja perustuslakivaliokunnan lausunto-
+käytännön kanssa.
+
+Kyseessä on varsin perusoikeusherkkä sääntelykokonaisuus. Perustuslakivaliokunta on
+hiljattain tarkistanut käytäntöään henkilötietojen suojaa koskevasta sääntelystä sekä toi-
+saalta korostanut, että henkilötietojen suojan toteuttaminen tulisi jatkossa ensisijaisesti taa-
+ta tietosuoja-asetuksen ja henkilötietolain korvanneen tietosuojalain nojalla. Käytännössä
+tämä tarkoittaa erityislainsäädännön karsimista. Perustuslakivaliokunta on kuitenkin ko-
+rostanut, että mitä korkeampi riski käsittelystä aiheutuu luonnollisen henkilön oikeuksille
+ja vapauksille, sitä perustellumpaa yksityiskohtaisempi sääntely on. Maahanmuuttohallin-
+nossa käsiteltävien henkilötietojen määrä ja luonne huomioiden maahanmuuttohallintoa
+koskeva erillislaki on siten jatkossakin välttämätön.
+
+Muutama sana esityksen vaikutuksista: Esityksellä on oikeastaan kahdenlaisia vaikutuk-
+sia. Ensinnäkin sillä on vaikutuksia sääntelytekniikkaan sekä toiseksi vaikutuksia henkilö-
+tietojen käsittelysääntöihin. Sen sijaan esityksessä ei ehdoteta muutettavaksi maahantulon
+tai maassa oleskelun edellytyksiä, vaan ainoastaan henkilötietojen käsittelyyn liittyvää
+sääntelyä. 
+
+Uusi sääntelytekniikka tarkoittaa sitä, että olemassa olevat säännöt on kirjoitettu uudel-
+la tavalla, joka on paremmin yhteismitallinen merkityksellisen EU-sääntelyn eli esimer-
+kiksi tietosuoja-asetuksen sekä kansallisen yleislainsäädännön, kuten tietosuojalain, kans-
+sa. Tämä on erittäin tärkeää, koska henkilötietojen käsittelyn sääntely muodostuu jatkossa
+lähtökohtaisesti näistä kolmesta säädöksestä, joita on tulkittava yhdessä. Unionin tietosuo-
+jalainsäädäntö sekä kansalliset yleis- ja erityislait muodostavat monikerroksisen ja siten
+melko monimutkaisen sääntelykokonaisuuden. Sovellettavana olevien EU- ja kansallisten
+säädösten väliset suhteet muodostuvat osittain päällekkäisiksi ja osittain toisistaan erotet-
+taviksi. Varsin merkittävä osa sääntelyn monimutkaisuudesta palautuu EU-oikeuden ja sen
+tietosuojasääntelyn rajoitettuun ja eriytettyyn soveltamisalaan. Siksi maahanmuuttohallin-
+non henkilötietolakiehdotuksen keskeisenä tavoitteena on vallitsevat rakenteet huomioi-
+den henkilötietojen käsittelyä koskevan sääntelykokonaisuuden selkeyttäminen sekä lain-
+soveltajan että rekisteröidyn oikeuksien turvaamisen näkökulmasta. 
+
+Selkeyteen pyritään ehdottamalla henkilötietojen käsittelyä koskevan sääntelyn keskit-
+tämistä yhteen henkilötietolakiin, joka on mahdollisimman yleistajuinen, selkeä ja ymmär-
+rettävä. Lain soveltamisala olisi käyttötarkoitussidonnainen, eli lain soveltamisala ei enää
+olisi sidottu mihinkään rekistereihin tai tietojärjestelmiin vaan tiettyihin henkilötietojen
+käsittelytarkoituksiin. Nämä käsittelytarkoitukset muodostuvat maahanmuuttohallinnossa
+toimivaltaa viranomaisille luovasta lainsäädännöstä, esimerkiksi ulkomaalaislaista, kansa-
+laisuuslaista, vastaanottolaista ja niin edelleen. Lähtökohta on, että henkilötietoja voisi kä-
+sitellä vain siinä tarkoituksessa, johon ne on kerätty, ja vain tiedot keränneen viranomaisen
+toimesta. Kaikki muu käsittely olisi mahdollista vain siten kuin siitä on säädetty erikseen.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+Tämä on hyvin tärkeä lähtökohta tilanteessa, jossa lain soveltamisala laajenee ja henkilö-
+tietoja käsittelevät lukuisat viranomaiset.
+
+Kysehän ei ole pelkästään Maahanmuuttoviraston henkilötietolaista. Henkilötietolaki
+tulisi sovellettavaksi paitsi Maahanmuuttoviraston myös vastaanottokeskusten ja säilöön-
+ottoyksiköiden toiminnassa sekä lisäksi silloin kun poliisi, Rajavartiolaitos, ulkoasiainhal-
+linto sekä ely- ja TE-keskukset käsittelevät henkilötietoja maahanmuuttoviranomaisen
+roolissa. Usean viranomaisen malli on yksi maahanmuuttohallinnon erityispiirre, joka on
+vaatinut erityistä yhteensovittamista sekä EU:n tietosuojasääntelyn että perustuslain kans-
+sa. Lakia soveltavat viranomaiset toimisivat yhteisrekisterin pitäjinä tietosuoja-asetuksen
+edellyttämällä tavalla. 
+
+Lisäksi toteutettaisiin tietosuoja-asetuksen ja perustuslakivaliokunnan edellyttämää ris-
+kiperustaista sääntelytapaa, jonka mukaan sääntely kohdennettaisiin riskiperustaisesti tar-
+kempaa sääntelyä edellyttäviin tilanteisiin, esimerkiksi erityisiin henkilötietoryhmiin kuu-
+luviin henkilötietoihin, ja toisaalta sääntelyä purettaisiin niissä tilanteissa, jossa yksityis-
+kohtainen sääntely ei enää ole välttämätöntä. Riskiperustainen sääntelytekniikka toteuttaa
+osaltaan myös selkeyttämisen tavoitetta. 
+
+Uusilla käsittelysäännöksillä puolestaan tarkoitetaan tiettyjä sisällöllisiä muutoksia hen-
+kilötietojen käsittelysääntöihin. Näillä muutoksilla mahdollistettaisiin esimerkiksi uudet,
+nykyaikaiset toimintatavat, kuten automatisoitu päätöksenteko Maahanmuuttoviraston toi-
+minnassa. Automaattisella päätöksentekomenettelyllä edistettäisiin rekisteröidyn oikeutta
+saada asiansa käsitellyksi ilman aiheetonta viivästystä. Rutiiniratkaisujen tekemistä voitai-
+siin sujuvoittaa ja henkilökunnan työpanosta voitaisiin ohjata tehtäviin, joihin tarvitaan ih-
+misen myötävaikutusta. Automaattisia päätöksiä voitaisiin tehdä vain silloin kun hallinto-
+lain mukaan asian saa ratkaista asianosaista kuulematta. Tällainen tilanne voi olla esimer-
+kiksi silloin kun hyväksytään asianosaisen vaatimus. Esimerkiksi työntekijän oleskelulu-
+pien kohdalla automaattinen päätöksenteko nopeuttaisi lupien myöntämistä, ja se on siten
+merkittävä ja konkreettinen uudistus käsittelyaikojen lyhentämisen näkökulmasta. Turva-
+paikkahakemuksen käsittelyyn tai muihin hakijan kuulemista edellyttäviin asioihin auto-
+maatio ei taas sovellu. Myös automaattisessa päätöksenteossa varmistettaisiin hyvän hal-
+linnon, oikeusturvan ja virkavastuun toteutuminen. 
+
+Lisäksi esityksellä ehdotetaan käyttöönotettavaksi esimerkiksi Harmaan talouden selvi-
+tysyksikön velvoitteidenhoitoselvitys. Tietoja työnantajien lakisääteisten velvoitteiden
+hoitamisesta kootusti sisältävä velvoitteidenhoitoselvitys edistäisi ulkomaalaisen maahan-
+tuloa, oleskelua, työntekoa ja kansalaisuutta koskevien asioiden käsittelyä, päätöksente-
+koa ja niihin liittyvien valvontatehtävien hoitamista. 
+
+Esityksessä esitetään luovuttavaksi tiedon liikkumista koskevasta kaksinkertaisesta
+sääntelystä säätämällä vain viranomaisen tiedonsaantioikeuksista. 
+
+Esityksellä mahdollistettaisiin myös niin sanottujen huomiotietojen käsittely. 
+Lisäksi maahanmuuttoon kohdistuvat erityiset salassapitoperusteet koottaisiin julki-
+
+suuslakiin ja ulkomaalaisrekisterilaissa oleva salassapitosääntely kumottaisiin. Salassapi-
+tosäännöksiä myös täsmennettäisiin sisällöllisesti kattamaan sääntelyssä olevia aukkoja. 
+
+Lopuksi, arvon puhemies, hyvät kansanedustajat, kuten todettu, maahanmuuttohallin-
+non henkilötietolakiehdotuksen keskeisenä tavoitteena on henkilötietojen käsittelyä kos-
+kevan sääntelykokonaisuuden selkeyttäminen sekä lainsoveltajan että rekisteröidyn oi-
+keuksien turvaamisen näkökulmasta niin, että se täyttää myös unionin tietosuojauudistuk-
+sen asettamat edellytykset. Esitys on välttämätön, jotta perustuslain 10 §:n mukainen vaa-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+timus säätää henkilötietojen suojasta lailla täyttyy asianmukaisesti maahanmuuttohallin-
+nossa myös jatkossa. 
+
+Ensimmäinen varapuhemies Tuula Haatainen: Sitten keskusteluun. 
+
+14.14 Eveliina Heinäluoma sd: Arvoisa puhemies! Ja kiitos ministerille kattavasta esitte-
+lystä. Maahanmuuttohallinnon henkilötietojen käsittelyä koskeva sääntely on nyt tarkoitus
+koota uuteen lakiin, ja tiivistetysti voi todeta, että tämä on tarpeellinen ja nykyisten tieto-
+suojalinjausten mukainen kokonaisuus. Henkilötietojen käsittelyä koskevaa sääntelyä sel-
+keytetään sekä lainsoveltajan että rekisteröidyn oikeuksien turvaamisen näkökulmasta, ja
+tämä on hyvä asia. Tavoitteena, kuten ministeri tässä aikaisemmin toikin esille, on varmis-
+taa, että perustuslain mukainen vaatimus säätää henkilötietojen suojasta lailla täyttyy
+asianmukaisesti maahanmuuttohallinnossa. Kuten todettua, tämä vanha vuonna 98 säädet-
+ty ulkomaalaisrekisterilaki ei nykyisellään vastaa enää digitalisaation vaatimuksiin. Uu-
+den lain soveltamisala ei olisi näin sidottu rekistereihin tai tietojärjestelmiin vaan nykyis-
+ten linjausten mukaisesti niihin tarkoituksiin, joissa henkilötietoja käsitellään.
+
+Arvoisa puhemies! Kuten ministerin esittelyssä tulikin esille, tämän lisäksi laki mahdol-
+listaa Maahanmuuttovirastolle automaattisen päätöksenteon, mutta tarkoin edellytyksin ja
+vain tietyissä tapauksissa. Automaattisia päätöksiä voitaisiin tehdä vain silloin, kun hallin-
+tolain mukaan asian saa ratkaista asianomaista kuulematta, kuten ministerikin totesi. Esi-
+merkiksi työntekijän oleskelulupien kohdalla automaattinen päätöksenteko nopeuttaisi lu-
+pien myöntämistä. Ja on tärkeää mielestäni korostaa sitä, että turvapaikkahakemuksien kä-
+sittelyyn ja muihin hakijan kuulemista edellyttäviin asioihin tätä automaatiota ei voi sovel-
+taa. Päätöksenteon automatisointi lyhentäisi paitsi automatisoitujen päätösten käsittelyai-
+koja myös muiden päätösten käsittelyaikoja viranomaisten voidessa keskittyä niihin. Täs-
+sä yhteydessä on mielestäni tärkeää huomioida ja painottaa sitä, että samaan aikaan, kun
+tämä automatisaatio mahdollistaa paljon Maahanmuuttovirastolle, on tärkeää myöskin li-
+sätä Maahanmuuttoviraston resursseja, kuten olemme hallintovaliokunnassa jo tämänkin
+kauden alussa kuulleet. Siellä on tarpeita saada lisää henkilötyövuosia, jotta myös näitä uu-
+sia välineitä voidaan ottaa käyttöön.
+
+Arvoisa puhemies! Nykyinen henkilötietojen käsittelyä koskeva sääntely on raskas, mo-
+nimutkainen ja hajanainen. Myös perustuslakivaliokunta on kiinnittänyt tähän huomiota.
+Siksi uudistus on tervetullut. Esitys parantaa myös viranomaisten yhteistyön mahdolli-
+suuksia helpottamalla henkilötietojen jakamista.
+
+14.17 Päivi Räsänen kd: Arvoisa puhemies! Maahanmuuttohallintoa koskevan henkilö-
+tietosääntelyn kokoamisella yhteen lakiin pystytään yhtenäistämään säätelyä ja myös hel-
+pottamaan viranomaisten keskinäistä tiedonvaihtoa. Tämä esitys on tervetullut myös todel-
+lakin sen vuoksi, että kun päätöksenteon automatisointi mahdollistuu, niin se soveltuvin
+osin myös sitten lyhentää käsittelyaikoja ja tietenkin myös niiden muiden päätösten käsit-
+telyaikoja, koska viranomaiset voivat sitten panostaa ja keskittyä niihin.
+
+Mutta nostan esiin sen, että viime vaalikaudella eduskunnan tarkastusvaliokunta teki
+mietinnön kotouttamisesta ja siinä yhteydessä antoi tällaisen lausuman: ”Eduskunta edel-
+lyttää, että hallitus huolehtii siitä, että työntekijän oleskelulupahakemusten käsittelyaikaa
+nopeutetaan. Hakemusten käsittely saa kestää enintään kaksi kuukautta.” Kysyisin nyt mi-
+nisteriltä: minkä verran arvioitte, että tällä lainsäädännöllä pystytään näitä käsittelyaikoja
+4
+
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+lyhentämään, ja millä aikataululla päästään tähän kahden kuukauden keskimääräiseen ai-
+kaan?
+
+Silloin kun tarkastusvaliokunta tätä käsitteli, niin kävi ilmi, että esimerkiksi viime vuo-
+den loppupuolella Uudenmaan TE-toimiston alueella tämä käsittelyaikojen kestoaika oli
+keskimäärin jopa kahdeksan kuukautta, mikä on todella pitkä aika. Uskon, että nyt muita-
+kin toimenpiteitä tarvitaan, jotta päästään siihen kahden kuukauden keskimääräiseen käsit-
+telyaikaan juuri näille työntekijän oleskeluluville.
+
+14.19 Mika Kari sd: Arvoisa rouva puhemies! Olen itse saanut olla hallintovaliokunnan
+jäsenenä edelliset kahdeksan vuotta ja nähnyt kahden eri hallituksen pyrkimykset nopeut-
+taa ja joustavoittaa Maahanmuuttoviraston erilaisia lupakäsittelyjä, ja on nyt mukava hal-
+lituspuolueen kansanedustajana olla huomaamassa, että pääministeri Rinteen hallitus on
+tähän haasteeseen tarttunut ja näin hyvin alkuvaiheessa jo saanut konkreettisia esityksiä ai-
+kaan. Kysyisin kuitenkin ministeriltä: Onko tarkoitus vielä etsiä lisätehoja osin työperäi-
+sen maahanmuuton ja muun lupakäsittelyn osalta esimerkiksi edustaja Heinäluoman hy-
+vin esille nostamasta huolesta henkilökunnan riittävyydestä näiden lupakäsittelyiden hoi-
+toon? Onko odotettavissa vielä uusia vastaavanlaisia hyviä avauksia?
+
+14.20 Sari Essayah kd: Arvoisa rouva puhemies! Edustaja Räsäsen puheenvuoron innoit-
+tamana ajattelin kysyä tästä samasta asiasta, elikkä eilenhän hallituksen budjettiriihessä
+kerrottiin, että näiden työperäisten oleskelulupien käsittelyajat ollaan nyt sitten lyhentä-
+mässä kuukauteen, ja on tietenkin todella hienoa, että tällainen tavoite on asetettu. Mutta
+onko nyt sitten niitä resursseja? Niin kuin tuossa edustaja Räsänen hyvin toi esille, niin tar-
+kastusvaliokunta viime kaudella kiinnitti huomiota siihen, että todellakin ne käsittelyajat
+ovat valtavan pitkiä, ja jos ajattelee yrittäjiä ja elinkeinonharjoittajia, niin käsittelyajat ovat
+varmasti olleet iso tulppa siinä yritystoiminnassa. Onko nyt todellakin sitten mahdollisuus
+näin nopeaan parantamiseen tässä asiassa?
+
+Muutoinhan tämä lainsäädäntö on sinällänsä tärkeä ja kannatettava, ja tämä automati-
+sointi lyhentää käsittelyaikoja ylipäätänsäkin. Tietysti on tärkeää, että niitä resursseja sit-
+ten jäisi suunnattavaksi sinne, missä oikeasti on haasteellisempia tilanteita ja tarvitaan näi-
+den hakemusten käsittelyä ja myöskin taustatietojen selvittelyä ja muuta vastaavaa. Mutta
+miten nyt tämä resurssien allokointi tapahtuu Maahanmuuttoviraston sisällä?
+
+14.21 Ben Zyskowicz kok: Arvoisa rouva puhemies! Tämä lainsäädäntö on varmasti pai-
+kallaan sujuvoittaessaan tiettyjä henkilötietoasioita. Itse kiinnitän huomiota samoihin on-
+gelmiin kuin täällä edellä olleet puhujat, eli ei pelkästään näissä työperäisen maahanmuu-
+ton luvissa vaan myös esimerkiksi humanitäärisen maahanmuuton käsittelyajoissa on ollut
+erittäin suuria ongelmia, eli laeissa asetettuja enimmäiskäsittelyaikoja ei ole pystytty nou-
+dattamaan, ja oikeusasiamies on antanut useampia huomautuksia Maahanmuuttovirastol-
+le. Ongelmahan ei ole viime kädessä Maahanmuuttoviraston vika, vaan tietysti meidän vi-
+kamme, jotka emme ole antaneet riittäviä voimavaroja virastolle, jotta asioita voitaisiin kä-
+sitellä annetuissa määräajoissa. Tällainen oleskelulupahakemuksen viivästyminenhän esi-
+merkiksi humanitäärisen maahanmuuton tapauksessa aiheuttaa monenlaista haittaa. Tie-
+tysti veronmaksajille tulee lisää kustannuksia, kun nämä prosessit viipyvät. Turvapaikan-
+hakijan kannalta on tietysti sietämätöntä, jos liian pitkään, jopa toista vuotta, joutuu
+odottamaan päätöstä asiassaan. Pitäisi päästä nopeasti päätöksiin, jotta turvapaikanhakija,
+5
+
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+joka on oikeutettu kansainväliseen suojeluun, voi jäädä maahan ja tehostaa kotoutumis-
+taan ja jotta taas ne, jotka eivät ole oikeutettuja kansainväliseen suojeluun, mahdollisim-
+man nopeasti palaavat lähtömaihinsa.
+
+Nyt ymmärsin, että hallituksen budjettiriihessä on päätetty ainakin kahdeksi vuodeksi
+antaa Maahanmuuttovirastolle lisää voimavaroja näiden ylipitkien käsittelyaikojen lyhen-
+tämiseen, ja kun näin on ilmeisesti tehty, niin haluan siitä osoittaa hallitukselle kiitokset.
+Toivon, että kun vielä täällä eduskunnassa käydään sitten läpi budjettiesitystä ja myös
+Maahanmuuttoviraston voimavaroja, kaikin tavoin pidetään huolta siitä, että nämä proses-
+sit olisivat näiden laissa asetettujen määräaikojen puitteissa ja että nekin, joissa ei ole lais-
+sa asetettua määräaikaa, käsiteltäisiin riittävän nopeasti. 
+
+Haluan kuitenkin lopuksi vielä todeta, että työperäisen maahanmuuton ongelmanahan
+on saatavuusharkinta sinänsä. Eli jos yrittäjällä on ulkomainen työntekijä, joka on siihen
+työhön sopiva ja jonka kanssaan voitaisiin kaikki asiat sopia, niin siinä pitää sitten virka-
+mieheltä kysyä, voinko palkata tämän työntekijän vai olisiko ehkä Suomesta tai Euroopas-
+ta löytymässä joku toinen työntekijä. Tätä sitten virkamiehet miettivät, voiko yrittäjä pal-
+kata sen työntekijän, jonka kanssa hän on asian jo katsonut, ja työntekijä tulla siihen työ-
+hön. Eli tämä saatavuusharkintahan tässä on ongelma — mikä ei tietysti tarkoita mitään va-
+paata maahanmuuttoa, vaan pitää olla työsopimus ja työpaikka ja TESin mukaiset palkat ja
+muuta. Toivottavasti hallitus myös tähän perusongelmaan kiinnittää huomiota. 
+
+14.25 Mika Niikko ps: Kiitos, arvoisa puhemies! Maahanmuuttohallinnossahan ei ole
+kyse pelkästään henkilötietojen hallinnasta, kuten edustaja Zyskowicz erinomaisesti kuva-
+si tilanteen. Tässä yhteydessä, kun ministerikin on paikalla, haluaisin nostaa myös tämän
+saman näkökulman esille. Nyt kun Maahanmuuttoviraston resursseja lisätään nopeuttaak-
+semme näitä turvapaikkahakemuskäsittelyjä ja ylipäätänsä tänne Suomeen pääsyä vaikka-
+pa työperäisen maahanmuuton lisäämisen suhteen joko helpotetaan tai säädöksiä uudiste-
+taan, niin mielestäni Migrissä pitäisi tehdä täysremontti ensin sen suhteen, miten niitä pää-
+töksiä valmistellaan. Kansalaisten luottamus viranomaisten päätöksenteon oikeudenmu-
+kaisuuteen on kärsinyt nimenomaan näiden turvapaikanhakijoiden päätösten käsittelyjen
+yhteydessä, koska on hyvin sattumanvaraista, kuka sieltä turvapaikkapäätöksen on saanut
+ja kuka ei ole saanut.
+
+Nythän on tullut viime aikoina hyvin esille se, että kun ensimmäisen kielteisen turva-
+paikkapäätöksen on saanut, niin seuraavan hakemuksen yhteydessä sitten tämä perustelu
+muuttuu toisenlaiseksi, ja joko sillä toisella perusteella saa tai ei saa turvapaikkapäätöstä, ja
+sitten vielä kolmannen kerran yritetään jollain kolmannelta näkökulmalta lähestyä sitä
+asiaa, jotta saisi turvapaikkapäätöksen tänne Suomeen.
+
+Erityisen ongelmallista omalta näkökannaltani on se, että esimerkiksi kristityiksi kään-
+tyneiden turvapaikanhakijoiden tarinaa ei uskota millään tavalla. Vaikka olisi neljän vuo-
+den takaisia näyttöjä jostain seurakunnasta, että he ovat elämäntavaltaan muuttuneet eivät-
+kä ole enää esimerkiksi islaminuskon harjoittajia, niin siitä huolimatta henkilöitä käänny-
+tetään takaisin Iraniin esimerkiksi saamaan siitä suoranaisesti joko vankeusrangaistusta tai
+menettämään henkensä.
+
+Sinänsä toki ymmärrän, että näissä käsittelyissä on äärimmäisen hankala näyttää toteen,
+mikä se todellinen peruste on, mutta peräänkuulutan ministeriltä ja myös ulkoministeriöltä
+sitä, että nämä läpikäytävät asiat olisivat siinä mielessä johdonmukaisia, että päätös tulee
+6
+
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+aidosti jostain sellaisesta lähestymiskulmasta, että sillä on perusteet olemassa, koska tällä
+hetkellä niitä perusteita ei välttämättä pystytä osoittamaan kovinkaan hyvin.
+
+Tästä me kävimme keskustelua 2016, kun tämä turvapaikkakriisi oli kuumimmillaan.
+Me kävimme joidenkin kansanedustajien kanssa Migrissä keskustelemassa tästä asiasta, ja
+silloin muutettiin kyllä linjausta, tiukennettiin näitä turvapaikkakäsittelypäätöksiä, hyvä
+niin, mutta edelleenkään ei korjattu sitä tapaa miten käydään hakemukset läpi. Mielestäni
+1—2 tunnin tapaaminen ja sen johdosta tehtävä turvapaikka- tai oleskelulupapäätös ei ole
+kovin johdonmukainen ja uskottava tapa käsitellä ihmisten hakemuksia.
+
+Ensimmäinen varapuhemies Tuula Haatainen:  Muistutan, että me käytämme tähän
+puoli tuntia, eli lopetamme puolelta, 14.30.
+
+14.28 Leena Meri ps: Arvoisa puhemies! Puhuimme tässä resursseista ja myös Maahan-
+muuttoviraston resursseista. Me kaikki käsittelemme nyt valiokunnissa eduskunnan oike-
+usasiamiehen kertomusta, ja nyt käytän tilaisuuden hyväkseni myös siinä mielessä, että an-
+nan terveisiä sinne aitiossa istuvalle ministerille ja oikeusministerille tästä resurssiasiasta.
+Tämä resurssipula on kautta linjan oikeusasiamiehen koko kertomuksessa esillä: eri viran-
+omaisissa ei päästä käsittelyaikoihin, ja sama koskee tuomioistuimia, poliisia ja syyttäjiä
+muun muassa. Tämä on koko verkkoa koskeva asia, ja haluaisinkin, että tästä huolehditaan
+nyt erityisesti. Me valiokunnissa tietysti — ja itse lakivaliokunnan jäsenenä — tulemme
+antamaan näistä sitten havaintoja.
+
+Edustaja Zyskowicz laajensi tätä keskustelua tähän saatavuusharkintaan. Näissä käsit-
+teistöissä menevät sekaisin turvapaikanhakijat ja sitten tämä työperäinen maahanmuutto,
+ja nehän ovat tietysti kaksi eri asiaa. Turvapaikkaprosessi — sinne tulee paljon myös kiel-
+teisiä päätöksiä, ja se syö hyvin paljon resursseja. Kun me pystyisimme estämään niin, että
+niitä hakemuksia ei itse asiassa tulisi niin paljon eikä tänne niin spontaanisti vaan pääsisi
+— se olisi yksi semmoinen resurssikysymys, mutta olen ymmärtänyt, että hallituksen linja
+on tässä nyt vähän toisentyyppinen kuin perussuomalaisten.
+
+Mitä tähän saatavuusharkintaan tulee, niin edustaja Zyskowicz kysyi, pitäisikö suoma-
+laisen työnantajan aina kysellä suomalaisten työntekijöiden perään — kyllä. Edustaja Pur-
+ra oli tuossa eräänä iltana A-studiossa, jos katsoitte. Ammattiliiton edustaja vahvensi tä-
+män asian: siellä käytetään väärin työsuhteita ja poljetaan palkkoja. Toivoisi, että keskus-
+telussa eritellään nämä kaksi asiaa. Totta kai on tarkoitus, että me saamme suomalaiset töi-
+hin. Vai onko kokoomuksella tarkoituksena vain sitten se, että vaihdamme niin sanotusti
+suomalaiset työntekijät edullisempaan työntekijäreserviin? Näin ainakin ymmärsin edus-
+taja Zyskowiczin puheista.
+
+Mutta se, mitä halusin erityisesti korostaa, on tämä resurssiasia. Meillä ovat kaikki vi-
+ranomaiset nyt pulassa. Me annamme täältä jatkuvasti lisää tehtäviä, velvoitteita, kuulemi-
+sia. Hallituksen esityksissä, erityisesti oikeusministeriön hallinnonalalla, on usein, vuosia
+lukenut, että ei resurssivaikutuksia. Jokainen ymmärtää sen ihan omassa arjessaan, että jos
+saat lisätehtävän, niin kyllä sinulta siihen aikaa menee, ei se samassa ajassa vain sujuvoi-
+du. Elikkä tämä nyt ministereille ihan huolelliseen harkintaan.
+
+Ensimmäinen varapuhemies Tuula Haatainen:  Ja nyt ministeri Ohisalo, vastauspu-
+heenvuoro 3 minuuttia, olkaa hyvä.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+14.30 Sisäministeri Maria Ohisalo: Arvoisa puhemies! Hyvät kansanedustajat, kiitos
+erittäin hyvistä huomioista ja kommenteista. On helppo yhtyä moneen niistä, ja uskon, että
+hallitus- ja oppositiorajat ylittäen olemme samaa mieltä siitä, että näitä käsittelyaikoja ihan
+missä tahansa viranomaisessa täytyy saada lyhentymään. Kyse on siitä, miten ihmiset luot-
+tavat viranomaistoimintaan, miten nähdään, että saadaan apua ja oikea-aikaista käsittelyä,
+ja toisaalta myös saadaanko sellaisia päätöksiä, jotka takaavat oikeusturvan ihan jokaiselle
+— siitä on kyse tässäkin esityksessä.
+
+Eilen budjettiriihen yhteydessä hallitus on tullut ulos tällaisella työllisyyspaketilla, jos-
+sa muun muassa päätetään käynnistää kunnianhimoinen työperäisen maahanmuuton koko-
+naisohjelma, jonka yhtenä konkreettisena tavoitteena on tämä työperäisten oleskelulupien
+nopea ja sujuva käsittely niin, että se tapahtuisi kuukaudessa. Tämä, jos se saataisiin käyn-
+nistymään kunnolla, helpottaisi työperäisen maahanmuuton kautta syntyvää uutta työlli-
+syyttä. Hallituksella on selkeä työllisyystavoite, ja 75 prosenttia on se, mitä kohti men-
+nään. Tämä on ihan keskeistä, että saadaan sekä täällä olevat että tänne tulevat ihmiset töi-
+hin. Tästä olisi hyötyä.
+
+Yhtä aikaa budjetin julkistamisen yhteydessä toki tulimme ulos myös uusilla resurssili-
+säyksillä, ja kuten tässä mainittiin, muun muassa Maahanmuuttovirasto on pitkään kärsi-
+nyt resurssipulasta ja -vajeesta, ja siellä myös henkilöstö on joutunut vaikeisiin tilanteisiin,
+kuormituksen alle. Sama koskee muun muassa poliisia ja montaa muuta. 
+
+Esimerkkinä nyt työperäiseen maahanmuuttoon liittyen: ulkoministeriölle ja työ- ja
+elinkeinoministeriölle, toisaalta myös sisäministeriön puolelle, on tulossa lisäresursseja
+siihen, että näitä lupakäytäntöjä jouhevoitetaan ja pohditaan, missä ne vastuut jatkossa
+ovat. Muun muassa työperäisen maahanmuuton siirto kokonaisuudessaan työ- ja elinkein-
+oministeriön suuntaan on asia, jota tässä valmistellaan paraikaa. Kun aina viranomaisella
+on tiedossa, kenellä vastuu kulloinkin on, niin saadaan parhaat lopputulokset näin.
+
+Kyse on myös toki siitä, miten me näillä resursseilla koulutamme meidän henkilöstöäm-
+me eri puolilla, ja just toisaalta myös tästä, miten nämä tietojärjestelmät keskustelevat kes-
+kenään ja yhdessä. Eli prosessien jouhevoittamisesta on paljon kiinni.
+
+Toisaalta sitten, kun puhutaan käsittelyajoista, niin ei riitä se, että puhutaan vain mää-
+rästä ja ajasta, vaan pitää muistaa myös se laatu. Tässä on ollut konkreettinen ongelma, että
+Maahanmuuttovirastossa on jouduttu vauhdilla käsittelemään hakemuksia, jolloin ne eivät
+ole olleet oikein käsiteltyjä ja ne ovat palautuneet hallinto-oikeuksista takaisin Maahan-
+muuttovirastoon. On jouduttu tekemään moninkertaisesti työtä eri viranomaisissa, ja tämä
+maksaa kaikille ihan turhaa rahaa, myös ihmisille turhaa odottamisaikaa. Eli painopiste
+siirtyy ihan kaikessa sinne laadun varmistamiseen, oikeusturvan takaamiseen ja sinne etu-
+päähän, että ei käy myös esimerkiksi niin, että jos siirrytään irti työperäisestä maahanmuu-
+tosta, niin onko niin, että vastaanottokeskusten päässä on vaikka kiinni paljon ihmisiä, jot-
+ka edelleen odottavat sitä päätöstään. Meillä on paljon tehtävää tässä, mutta ihan varmasti
+onnistumme, myös opposition tuella, toivottavasti. — Kiitos. 
+
+Ensimmäinen varapuhemies Tuula Haatainen: No niin, tähän on käytetty nyt puoli tun-
+tia. Keskustelu ja asian käsittely keskeytetään. Asian käsittelyä jatketaan tässä istunnossa
+päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi. 
+
+Keskustelu keskeytettiin kello 14.34.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 33/2019 vp
+————
+
+Keskustelua jatkettiin kello 16.53.
+
+Ensimmäinen varapuhemies Tuula Haatainen: Nyt jatketaan aiemmin tässä istunnossa
+keskeytetyn asiakohdan 2 käsittelyä. Keskustelu jatkuu, edustaja Mäkelä, olkaa hyvä.
+
+16.53 Jani Mäkelä ps: Arvoisa puhemies! Keskustelu tosiaan jäi hieman kesken, ja suu-
+rin osa keskustelijoista on jo salista poistunut, mutta jatkan siltä osin kuin mitä jäi sano-
+matta.
+
+Eli edustaja Zyskowicz laajensi keskustelua hieman kysymykseen työvoiman tarvehar-
+kinnasta, josta meillä ilmeisimminkin perussuomalaisena pääoppositiopuolueena on hie-
+man erilainen käsitys kuin kokoomuksella. Olisin halunnut kysyä tähän liittyen: Kun nyt
+tälläkin hetkellä osaajat pääsevät jo maahan tarveharkinnan kautta ja toisaalta EU-alueella
+on vapaa liikkuvuus myös halvemmalle työvoimalle, koska palkkatasothan ovat hyvin eri-
+laisia EU-maissa, niin kuka nyt ei konkreettisesti tähän maahan pääse, jonka tarvitsee tä-
+hän maahan päästä työhön? Ja kun huomioidaan, että tämä nykyinen tarveharkintajärjes-
+telmä on puhkottu täyteen reikiä jo nykyisessäkin muodossaan aluekohtaisesti, niin missä
+meillä on itse asiassa tämä ongelma?
+
+Ministeriltä olisin halunnut vielä kysyä: Mihin työperäistä maahanmuuttoa tarvitaan tä-
+män 75 prosentin työllisyystavoitteen saavuttamiseksi? Eivätkö ne ole hieman jopa ristirii-
+taisia tavoitteita keskenään?
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+9
+
+
+	2
+	14.03
+	14.14
+	14.17
+	14.19
+	14.20
+	14.21
+	14.25
+	14.28
+	14.30
+	16.53
+
+

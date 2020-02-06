@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM96D0.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 119/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 119/2018 vp
+
+Täysistunto
+
+Torstai 22.11.2018 klo 16.00—19.08
+
+5. Hallituksen esitys eduskunnalle korkovähennysrajoitusta koskevan sääntelyn muuttami-
+sesta
+
+Hallituksen esitys HE 150/2018 vp
+Valiokunnan mietintö VaVM 21/2018 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 5. asia. Käsittelyn pohjana on valtiovarainvaliokunnan mietintö VaVM
+21/2018 vp. Nyt päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+18.18 Esko Kiviranta kesk: Arvoisa puhemies! Hallituksen esityksessä on kysymys
+EU:n direktiivin edellyttämistä uusista korkovähennysrajoituksista, jotka on säädettävä
+voimaan vuoden 2019 alusta alkaen. Alkuperäiset direktiivin pakottamat korkorajoitukset
+tulivat voimaan vuoden 2014 alusta.
+
+Valtiovarainvaliokunnan mietintöön sisältyy yksi pykälämuutos. Se koskee elinkeino-
+verolain 18 b §:n 5 momenttia, jossa on kysymys tasevertailua koskevasta sääntelystä.
+Tämä sääntely on erittäin tärkeää monille suomalaisille kansainvälisille suurille vientiyri-
+tyksille, koska se mahdollistaa korkovähennysten tekemisen. Verojaoston asiantuntijakuu-
+lemisessa kävi selväksi, että ehdotettu tasevertailumalli ei ole toimiva. Se aiheuttaisi käy-
+tännössä lähes ylivoimaista työtä ja suuria kustannuksia silloin, kun konserniin kuuluu laa-
+ja joukko ulkomaisia yhtiöitä ja vertailtavat taseet on laadittu eri menetelmällä. Vertailun
+täytyy olla mahdollinen myös käytännössä. Hallituksen ehdottaman säännöksen mukaan
+tasevertailu olisi voitu tehdä vain, jos verovelvollinen olisi esittänyt vahvistetun konserni-
+taseen sellaisena kuin se olisi, jos se olisi laadittu käyttäen samaa säännöstöä kuin verovel-
+vollisen tase. Tämä tarkoittaa sitä, että konsernitase olisi jouduttu laatimaan kirjanpitolain
+mukaisena. Tehdyn pykälämuutoksen mukaan on mahdollista, että verovelvollinen esittää
+oman taseensa sellaisena kuin se olisi ollut, jos se olisi laadittu käyttäen samaa säännöstöä
+kuin konsernitase, toisin sanoen IFRS-standardin mukaisena.
+
+Todettakoon nyt vielä selvyyden vuoksi, että nykyisen säännöstön mukaan verovelvol-
+lisen taseen ja konsernitaseen, johon verovelvollisen tasetta verrataan, ei tarvitse olla sa-
+man säännöstön mukaan laadittu. Uudistetun direktiivin mukaan sen sijaan taseiden, joita
+verrataan, tulee olla laadittu saman kirjanpitostandardin mukaan.
+
+Valiokunta on mietinnössään myös selventänyt vanhoja, ennen 17.6.2016 otettuja laino-
+ja koskevaa siirtymäsäännöstä. Tämä päivämäärä tulee siis tuolta direktiivistä. Asiantunti-
+jakuulemisessa kiinnitettiin huomiota hallituksen esityksen yksityiskohtaisiin perustelui-
+hin, joissa edellytetään, että laina on myös nostettu ennen 17.6.2016. Tulkintaa pidettiin
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 119/2018 vp
+säännöksen tarkoituksen vastaisena, koska etenkin pitkäkestoisissa hankkeissa lainaa ei
+tyypillisesti nosteta kerralla vaan useassa erässä. Valiokunta toteaa, että siirtymäsäännök-
+sen on tarkoitettu soveltuvan lainoihin, joista on sovittu sitovasti ja jotka olisi voitu nostaa
+viimeistään 17.6.2016. Se seikka sinänsä, että jokin lainaerä nostetaan tuota ajankohtaa
+myöhemmin, ei siis ole esteenä säännöksen soveltamiselle ja nettokorkomenojen jäämisel-
+le korkovähennysrajoitusten ulkopuolelle. Vastaavasti jos lainasopimus on tehty ennen
+17.6.2016, se täyttää vanhoja lainoja koskevan siirtymäsäännöksen soveltamisedellytyk-
+set, vaikka laina sittemmin nostettaisiin kokonaisuudessaan 17.6.2016 jälkeen.
+
+Direktiivi antaa mahdollisuuden rajata korkovähennysrajoituksen soveltamisalan ulko-
+puolelle lainat, joilla rahoitetaan pitkän aikavälin julkisia infrastruktuurihankkeita. Edelly-
+tyksenä on muun muassa se, että hankkeella tuotetaan, kehitetään, käytetään ja/tai ylläpi-
+detään laajamittaista yleisen edun mukaista omaisuutta. Hallituksen esitykseen ei sisälly
+yleistä infrastruktuurihankkeita koskevaa poikkeusta. Ainoastaan sosiaalinen asunto-
+tuotanto on rajattu korkovähennysrajoitusten soveltamisalan ulkopuolelle. Tähän ovat vai-
+kuttaneet asiaan liittyvät valtiontukinäkökohdat. Infrastruktuurihankkeissa ei ole yleensä
+kysymys etuyhteyslainoista. Hankkeet ovat tämän vuoksi jääneet yleensä tähän asti korko-
+vähennysrajoitusten soveltamisalan ulkopuolelle. Koska rajoitukset nyt laajenevat koske-
+maan myös ulkoisia korkoja, mittavaa lainarahoitusta edellyttävien hankkeiden asema
+muuttuu. Tämä nostaa rahoituskustannuksia ja vaikeuttaa hankkeiden toteutusta, jos poik-
+keuksen soveltamisalaa ei kyetä laajentamaan.
+
+Valiokunta pitää, arvoisa puhemies, tärkeänä, että direktiivin sallimaa poikkeusta käy-
+tetään laajasti hyväksi. Sitä ennen on kuitenkin varmistuttava komission valtiontukikan-
+nasta. Koska asia on yhteiskunnallisesti merkittävä, valiokunta ehdottaa kahta sitä koske-
+vaa lausumaa.
+
+Ensinnäkin: ”Eduskunta edellyttää, että hallitus jatkaa välittömästi komission kanssa
+selvitystä niin sanottujen Mankala-yhtiöiden toteuttamien, ydinvoiman rakentamista ja
+käyttämistä koskevien voimalaitoshankkeiden rajaamiseksi korkovähennysrajoitusten ul-
+kopuolelle direktiivissä tarkoitettuna pitkän aikavälin julkisena infrastruktuurihankkeena.”
+
+Ja toinen lausuma: ”Eduskunta edellyttää, että hallitus jatkaa lisäksi välittömästi komis-
+sion kanssa selvitystä muiden rajattujen, yhteiskunnalle tärkeiden infrastruktuurihankkei-
+den rajaamiseksi korkovähennysrajoitusten ulkopuolelle.”
+
+Tähän mietintöön sisältyy kaksi vastalausetta. Näistä lausumista valiokunta oli yksimie-
+linen.
+
+18.25 Timo Harakka sd: Arvoisa puhemies! Tämän korkovähennysrajoituslainsäädän-
+nön lähetekeskustelussa esitin jo lukuisia huolia siitä, mihin tämä valmistelu on mennyt, ja
+en ole kovin yllättynyt siitä, että nämä vakavat huolet, jotka heikentävät tämän lain pure-
+vuutta ja tarkoitusta, eivät tulleet huomioiduiksi valiokunnan mietinnössä. Oikeastaan pu-
+hun nyt kaikesta siitä, minkä jaoston puheenjohtaja tässä juuri sivuutti.
+
+Todellakin korkovähennysrajoitus tuli ensimmäistä kertaa lainsäädäntöön, kun se esitel-
+tiin eduskunnalle vuonna 2012 silloisen valtiovarainministeri Urpilaisen toimesta. Tarkoi-
+tuksena oli puuttua korkokikkailuun, jolla vältettiin verojen maksamista ja johon olivat
+syyllistyneet muun muassa yksityiset terveyspalveluyritykset, jotka saivat paljon huomio-
+ta.
+
+On hyvin ikävää, että äskeisellä kyselytunnilla tämä asia esitettiin ikään kuin se silloin
+esitetty laki olisi itsessään vääjäämättä jäänyt puutteelliseksi ja että nyt vain samoilla pe-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 119/2018 vp
+rusteilla jatkettaisiin samoja menettelyitä, kun kuitenkin on ensiksi huomattava se, että se
+oli merkittävä parannus aggressiivisen verovälttelyn vastaisessa taistelussa, ja toisekseen
+se, että jo silloin vuonna 2012 eduskunta velvoitti valtiovarainministeriön seuraamaan lain
+kehitystarpeita ja ryhtymään tarvittaviin lainsäädäntötoimiin. Ja nyt kun ministeriö tämän
+eduskunnan lausuman velvoittamana tarkasteli voimassa olevan korkovähennyslainsää-
+dännön toimivuutta ja tuli siihen tulokseen, että ennen kaikkea tätä lainsäädäntöä vakavim-
+min vaurioittava tasevapautusjärjestely tulisi poistaa laista, niin tällainen esitys sinne eh-
+dotukseen tuli. Ikävä kyllä, siis tämän alkuperäisen lain tarkoituksen vastaisesti, elinkeino-
+elämän lobbaus onnistui ja tämä seikka palautettiin tänne lakiesitykseen, kuten muutama
+muukin aggressiivista verosuunnittelua helpottava tekijä. 
+
+Vakavimpana näistä kaikista siis on tämä tasevapautuksen palauttaminen. Nimittäin val-
+tiovarainministeriön ensimmäisessä lakiluonnoksessahan jo todettiin, että sillä poikkea-
+malla ollaan pystytty hyödyntämään veropohjaa rapauttavaa verosuunnittelua — ja tämä
+saisi nyt valiokunnan enemmistön toimesta jatkua. Tästä tuoreimpana esimerkkinä on kan-
+sainvälinen konserni, joka harjoittaa Suomessa sähkönsiirtotoimintaa, eli Caruna, joka on
+Finnwatchin laskelmien mukaan hyötynyt 12 miljoonaa euroa tällaisen sisäisen korkokik-
+kailun ja sen mahdollistaman tasevapautuksen ansiosta. 11 000 suomalaista allekirjoitti ve-
+toomuksen siitä, että tasevapautus poistettaisiin, mutta heikoin perustein se päätettiin silti
+siellä pitää. Ei ole osoitettu, että suomalaiset yritykset kärsisivät sen enempää kuin ruotsa-
+laiset, hollantilaiset ja italialaiset yritykset — maissa, joissa tasevapautuspoikkeusta ei ole
+käytössä — siitä, että tällainen alkuperäinen ministeriön lakiluonnoksessa oleva aggressii-
+visen verosuunnittelun estämiseksi tarkoitettu muutos toteutettaisiin. Nyt jos laki olisi teh-
+ty alkuperäisen esityksen mukaan, silloin suomalaiset yritykset olisivat hyvissä ajoin voi-
+neet omia rahoitusrakenteitaan muuttaa soveltuviksi, mutta me teemme nyt näköjään lakia
+suomalaisten yritysten rahoitusrakenteiden ehdoilla, eli tässä häntä heiluttaa koiraa.
+
+Meillä on tässä seitsemän eri otsikkoa, joissa mielestämme tämä esitetty korkovähen-
+nysrajoitus ei palvele EU:n direktiivin tarkoitusta eli aggressiivisen verosuunnittelun ja ve-
+ronkierron vastaista toimintaa, ja siksi esitämme pykälämuutosta ensimmäiseen lakiehdo-
+tukseen vastalauseemme mukaisesti, samoin kuin kolmea lausumaa.
+
+18.30 Kari Uotila vas: Arvoisa herra puhemies! Tosiaan, aika usein tässä salissa ja tämän
+salin ulkopuolella puhutaan ulkoparlamentaarisista voimista ja siitä, että lainsäädännön pi-
+täisi pysyä tämän hallituksen valmistelemana ja tämän talon säätämänä. Usein viitataan
+muun muassa palkansaajajärjestöihin ja ay-liikkeeseen, siihen, että ne liian voimakkaasti
+käyttävät ulkoparlamentaarisia keinoja saadakseen mieleisiään lakiesityksiä. Nyt kun täs-
+sä ovat suuryritykset lobanneet kesken valmistelun niin, että hallituksen alkuperäinen esi-
+tys on keskeiseltä osaltaan muuttunut, niin ei ole löytynyt kovinkaan paljon niitä tahoja,
+jotka ovat moittineet ulkoparlamentaarisia voimia eduskunnan lainsäädäntövaltaan puuttu-
+misesta. [Timo Harakka: Hyvin sanottu!] 
+
+Se on suorastaan kummallista, niin kuin edustaja Harakka tuossa hyvässä puheenvuo-
+rossaan totesi, että näin on päässyt käymään ja ilman mitään suurempaa huomiota. Sen
+vuoksi minun on erittäin helppoa, koska olemme laajasti mukana tässä vastalauseessa, kan-
+nattaa näitä edustaja Harakan tekemiä pykälämuutosehdotuksia sekä myöskin lausumia,
+vaikka ne tulevatkin sitten vasta kakkoskäsittelyssä virallisesti päätettäväksi.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 119/2018 vp
+18.31 Satu Taavitsainen sd: Arvoisa puhemies! Myös minä ilolla kannatan edustaja Ha-
+rakan tekemiä ehdotuksia.
+
+18.31 Timo Kalli kesk: Arvoisa puhemies! Jaosto kuuli hyvin laajasti asiantuntijoita kor-
+kovähennyksen rajoituksen osalta ja tasevapaudesta, ja saimme hyvin laajan selonteon sii-
+tä, minkälaisessa kilpailutilanteessa Suomi on suhteessa muihin Pohjoismaihin ja muihin,
+kilpaileviin teollisuusmaihin. Ainakin itse henkilökohtaisesti tulin vakuuttuneeksi siitä,
+että tämä nyt käsittelyssä oleva laki näillä muutoksilla, joita tässä edellytetään, ei ole sen
+anteliaampi kuin esimerkiksi Ruotsissa tai Saksassa, vaikka vertailu on erittäin vaikeata,
+koska joka maassa tätä asiaa tarkastellaan hiukan eri tavalla. Eli voin rauhoittaa, että tällä
+lainsäädännöllä ei välttämättä mitään kovin suurta tulvaa tule olemaan uusien yritysten
+osalta Suomeen. Ja kun meidän kuitenkin pitäisi luoda edellytyksiä, joilla varmistamme
+suomalaisten yritysten toimintaedellytykset, niin tämä käsittelyn pohjana oleva laki palve-
+lee tässä hyvin tätä asiaa. [Timo Harakka pyytää vastauspuheenvuoroa]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Minä myönnän vastauspuheenvuoron
+nyt, kun on vain yksi varsinainen pyydetty puheenvuoro. Pääsääntöisesti ei näin, mutta täl-
+lä kertaa, edustaja Harakka, teillä vastauspuheenvuoro.
+
+18.33 Timo Harakka sd (vastauspuheenvuoro): Kiitos, arvoisa puhemies! Kunnioitettu
+valiokunnan puheenjohtaja Kalli esitti tässä näkemyksen, johon, harvinaista kyllä, on vai-
+kea yhtyä. Kyseessähän ei ole lähtökohtaisesti laki, jonka tarkoitus olisi nimenomaan huo-
+lehtia suomalaisten yritysten kansainvälisestä kilpailukyvystä vaan, kuten direktiivin nimi-
+kin sanoo, veronkierron estämisestä ja myös aggressiivisen verosuunnittelun estämisestä.
+Tavoitteenahan on silloin se, että kun yhdessä kansainvälisesti näistä pelisäännöistä sovi-
+taan, niin yhdenkään maan kansallinen kilpailukyky ei siitä toisiin nähden heikkene. Tämä
+on se periaate. Jos me ryhdymme kaikki varjelemaan omaa kilpailukykyämme ja poimi-
+maan rusinoita pullasta, niin silloin tätä yhteistä aggressiivisen verosuunnittelun vastaista
+työtä ei tule tehdyksi. 60 yritystä on saanut korkovähennysrajoituksen, joka ei olisi muuten
+soveltunut tämän poikkeuksen ansiosta, joka siis olisi pitänyt poistaa laista sen tähden, että
+sen lain tarkoitus ei tule näin täyttymään.
+
+18.34 Esko Kiviranta kesk: Arvoisa puhemies! Kyllä tuo sosiaalidemokraattisen valtio-
+varainministeri Jutta Urpilaisen antama esitys tasevertailua koskevalta osaltaan vastasi
+hengeltään sitä, mitä nykyisen hallituksen esitys vastaa. Se on eri asia sitten, jos valmiste-
+luvaiheissa on ollut joitain toisenlaisia versioita, mutta hallituksen esitys ja tuo Urpilaisen
+aikanaan antama esitys hyväksyvät tasevertailusäännöksen. Me jouduimme tässä hallituk-
+sen esityksessä korjaamaan, ystävällisesti sanoen, teknisen kömmähdyksen, ja se oli vält-
+tämätöntä, että tämä säännös yleensä voisi tulla sovellettavaksi. Mutta muuten sanoisin,
+että joku voisi ajatella, että tuossa edustaja Harakan puheenvuorossa oli hiukan sellaista
+oman pesän likaamisen makua, kun ajattelee asiaa suhteessa ministeri Urpilaisen esityk-
+seen.
+
+18.35 Timo Harakka sd: Arvoisa puhemies! Jaoston puheenjohtaja käytti tässä nyt kyllä
+mielestäni varsin sopimatonta kieltä jo toistamiseen julkisuudessa, ja kukin sitten vastat-
+koon omasta tyylistään.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 119/2018 vp
+Kyllä kai jokainen ymmärtää sen, että jos tehdään uraauurtavaa lainsäädäntöä — ensim-
+mäistä kertaa tehtiin tällainen korkovähennysrajoitus — niin siinä ollaan mieluummin yli-
+varovaisia. Mutta eduskunta edellytti, että seurataan, miten tämä lainsäädäntö puree, ja
+korjataan tarvittaessa virheet, ja juuri näin ministeriö oli tehnyt. Eli tämä laki ei nyt nouda-
+ta sitä tahtoa, jonka eduskunta esitti, jolloin minusta on kyllä varsin epämiellyttävää se, että
+tämä valtiovarainministeri Urpilaisen tärkeä valtionaistyö tällä tavalla sotketaan lokaan ja
+sen taakse piiloudutaan silloin, kun hallitus haluaa suuryritysten pillin mukaan tanssia.
+
+18.36 Esko Kiviranta kesk: Arvoisa puhemies! Haluan todeta vielä sen, että jos joku yri-
+tys harjoittaa verotuksen kiertämistä, niin sitä varten meillä on olemassa Verohallinto, joka
+voi tehdä verotarkastuksia ja yleensä tekeekin suurissa yrityksissä viiden vuoden välein, ja
+meillä on laaja veronkiertämissäännöstö, on verotusmenettelylain 28 §, joka on yleinen ve-
+ronkiertämissäännös, ja verotusmenettelylain 31 §, joka koskee siirtohinnoittelua — sitä
+voi soveltaa muun muassa silloin, jos katsotaan, että joku korkotaso, jota on käytetty, ei ole
+markkinaehtoinen. Minun käsitykseni mukaan Verohallinto Suomessa toimii erittäin mal-
+likelpoisesti ja varmasti karsii tämmöiset väärät veronkiertämispyrkimykset.
+
+18.37 Timo Harakka sd: Arvoisa puhemies! Tässä jaoston puheenjohtaja nyt liioitteli tä-
+män yleisen veronkiertopykälän soveltuvuutta. Jos veronkiertopykälä soveltuisi kaikkiin
+mahdollisiin aggressiivisen verosuunnittelun tilanteisiin, niin silloinhan muita pykäliä ei
+edes tarvittaisi. Tässä on monelta osin vedottu siihen, että tämä veronkiertopykälä sinänsä
+ja samoin korkeimman hallinto-oikeuden ratkaisut olisivat tässä ikään kuin toimineet niin,
+että aggressiivinen verosuunnittelu tasevapautusta hyödyntäen lopullisesti vaikeutuisi.
+Mutta tuoreessa Defensor Legisin artikkelissa numerossa 4/2018 käytiin tapauksia läpi ja
+todettiin, että nämä olivat vain yksittäistapauksia ja aggressiivinen verosuunnittelu taseva-
+pautusta hyödyntämällä on edelleen mahdollista tasevapautuksen vuoksi niin rahastora-
+kenteessa kuin muissa omistusrakenteissa. Tämä on siis tarkoituksella jätetty voimaan
+niin, että jatkossakin kymmeniä miljoonia euroja verotuottoja Suomi menettää.
+
+Yleiskeskustelu päättyi ja asian käsittely keskeytettiin.
+5
+
+

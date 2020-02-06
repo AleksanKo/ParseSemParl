@@ -1,0 +1,673 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMF93E.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 3/2017 vp
+
+Täysistunto
+
+Keskiviikko 8.2.2017 klo 13.59—20.24
+
+16. Hallituksen esitys eduskunnalle laeiksi ampuma-aselain, rikoslain 41 luvun 1 §:n ja po-
+liisilain 2 luvun 6 §:n muuttamisesta
+
+Hallituksen esitys HE 266/2016 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Arto Satonen: Lähetekeskustelua varten esitellään päiväjärjestyk-
+sen 16. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokuntaan.
+
+Keskustelu
+
+19.35 Sisäministeri Paula Risikko (esittelypuheenvuoro): Arvoisa puhemies! Tällä esi-
+tyksellä ehdotetaan muutettavaksi ampuma-aselain aseen hankkimista ja hallussapitoa
+koskevia säännöksiä. Esityksen tavoitteena on uudistaa aselupamenettely aseturvallisuutta
+vaarantamatta. Nykyinen aselupamenettely vaatii useita henkilökohtaisia käyntejä poliisi-
+laitoksella, ja se koetaan monimutkaiseksi ja hankalaksi sekä poliisin että harrastajien kan-
+nalta.
+
+Uudistuksen taustalla on poliisin lupahallintostrategia vuodelta 2012, jonka mukaan
+kaikkiin lupalajeihin tehdään samat kehittämistoimet eli lupaprosesseja selkeytetään, ote-
+taan käyttöön sähköinen asiointi, luovutaan kotipaikkasidonnaisuudesta ja vähennetään
+turhaa käyntiasiointia. Vastaavat uudistukset on tehty jo passeihin, henkilökortteihin ja yk-
+sityisiin turva-alan säädöksiin. Hankkeella toteutetaan myös hallituksen norminpurkuta-
+voitetta.
+
+Kaksivaiheinen hankkimis- ja hallussapitolupamenettely yhdistettäisiin esityksen mu-
+kaan aselupamenettelyksi. Aselupa olisi ampuma-aseen hallussapitoon oikeuttava lupa, jo-
+hon voitaisiin liittää oikeus aseen hankkimiseen. Aselupaa voisi hakea sähköisesti, eikä lu-
+van hakemista olisi sidottu enää hakijan kotikuntaan, mikä joustavoittaisi menettelyä.
+
+Sähköisen menettelyn rinnalla säilyisi mahdollisuus hakea lupaa poliisilaitoksella asioi-
+malla. Hakija ei kuitenkaan voisi valita poliisilaitosta, joka käsittelee hänen lupahakemuk-
+sensa. Aseluvan hakijan soveltuvuuden arviointia kehitettäisiin kohdistamalla nykyisessä
+lupaprosessissa hakemuksen tekniseen käsittelyyn ja soveltuvuustestin suorittamiseen
+käytettävä aika ja poliisiresurssit uuden lupamenettelyn myötä mahdollistuvaan hakemuk-
+sen entistä yksilöllisempään käsittelyyn. Nykyisestä soveltuvuustestistä siis luovuttaisiin,
+koska sen hyödynnettävyys on ollut huono eikä se ole tuonut lisäarvoa aseturvallisuuteen.
+Testillä ei ole ollut merkitystä hakemuksen menestymisen kannalta, eikä testin antama pa-
+laute ole johtanut yhteenkään kielteiseen päätökseen aseen hankkimislupa-asiassa. Aselu-
+van hakijan soveltuvuuden arviointia tehostettaisiin uudessa lupamenettelyssä tekemällä
+haastattelusta entistä yksilöllisempi sekä hyödyntämällä viranomaisella jo olevia tietoja
+entistä paremmin lupaharkinnassa.
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Esityksessä ehdotetut lupamenettelyn kehittämistoimet, kuten sähköisen asioinnin käyt-
+töönotto, vähentäisivät merkittävästi hakemuksen vireillepanoon ja tekniseen käsittelyyn
+sitoutuvia henkilöresursseja. Poliisin henkilöstön työaikaa olisi käytettävissä teknisluon-
+toisen työn sijaan enemmän hakijan soveltuvuuden ja muiden lupien myöntämisen edelly-
+tysten arviointiin.
+
+Voimassa olevan ampuma-aselain mukaan kaikki hankitut aseet ja aseen osat esitetään
+poliisille lukuun ottamatta tiedostonpitoon oikeutetun keräilijän aseita ja osia. Käytännös-
+sä siis asetta, joka on jo kertaalleen esitetty poliisille, käydään esittämässä uudelleen omis-
+tajan vaihtuessa. Esityksen mukaan aseen esittämistä nyt siis vähennettäisiin. Suomessa
+toimivalta ase-elinkeinonharjoittajalta hankittua asetta ei pääsääntöisesti esitettäisi poliisi-
+laitoksella, vaan elinkeinonharjoittaja ilmoittaisi luovutuksesta poliisin asetietojärjestel-
+mään. Yksityisten välisellä luovutuksella siirtynyt ase tulisi esittää poliisille, jos aseen luo-
+vuttajan hallussapitoon oikeuttava lupa olisi myönnetty ennen vuotta 2000. Tuota vuotta
+aikaisemmin myönnettyjen lupien osalta saattaa poliisin asetietojärjestelmässä olevissa
+aseen yksilöintitiedoissa olla puutteita ja virheellisyyksiä johtuen rekisterinpidossa tapah-
+tuneista merkittävistä muutoksista. Lisäksi poliisi voi aina tarvittaessa pyytää aseen esittä-
+mistä.
+
+Jatkossa ase-elinkeinonharjoittaja ilmoittaisi aseiden ja osien, tehokkaiden ilma-asei-
+den ja kaasusumuttimien yksilöintitiedot sekä patruunavarastot poliisin asetietojärjestel-
+män sähköistä asiointia käyttämällä. Ilmoitus siis korvaisi nykylainsäädännön mukaisen
+tiedostonpitovelvoitteen ja parantaisi aseen elinkaaren ja sijaintitietojen hallintaa sekä
+mahdollistaisi sähköisen asioinnin käyttöön ottamisen lupamenettelyssä. Siirtymäaikana
+ennen sähköisen asioinnin käyttöön ottamista tiedot voitaisiin toimittaa poliisille sähköi-
+sessä muodossa, josta ne siirrettäisiin massasiirtona asetietojärjestelmään.
+
+Arvoisa puhemies! Esityksen mukaan asekeräilijöillä ei olisi enää oikeutta pitää tiedos-
+toa hankkimistaan aseista ja aseen osista hallussapitoon oikeuttavan luvan hakemisen si-
+jaan, vaan keräilijöiden tulisi hakea aseille ja aseen osille aselupaa. Uusi lupamenettely oli-
+si niin joustava ja selkeä, ettei poikkeusmenettelylle olisi tarvetta. Ennen lainmuutosta han-
+kitut aseet ja aseen osat luvitettaisiin vuoden siirtymäaikana maksutta. Tällä esityksellä en-
+nakoitaisiin myös asedirektiivin hyvin todennäköistä muutosta, jolla keräilijät tullaan si-
+sällyttämään direktiivin soveltamisalaan, minkä jälkeen tiedostonpito ei tule olemaan enää
+mahdollista.
+
+Esitettyjen muutosten myötä lupamenettelystä tulisi sujuvampaa niin lupaviranomais-
+ten kuin hakijankin kannalta. Luvanhakijan osalta uudistukset vähentäisivät pakollista
+käyntiasiointia poliisilaitoksella, ja lupaviranomaisen osalta hakemuksen tekniseen käsit-
+telyyn ja hakijan asiakaspalveluun kuluva aika voitaisiin kohdistaa hakijan soveltuvuuden
+arviointiin ja lupahakemuksen perusteiden selvittämiseen.
+
+Arvoisa puhemies! Pyydän kaikkia kuulijoita huomioimaan, että aseluvan saaminen ei
+tällä esityksellä millään lailla helpotu, vaikka prosessia sujuvoitetaan, sillä luvan myöntä-
+misen edellytykset säilyisivät ehdotuksen mukaan ennallaan. Hallituksen esityksen mukai-
+nen lupa- ja valvontaresurssien parempi kohdentaminen kuitenkin parantaisi aseturvalli-
+suutta. Esimerkiksi ampuma-aseet ja aseen osat merkittäisiin poliisin asetietojärjestel-
+mään heti, kun ne valmistetaan tai tuodaan Suomeen. Tämä aseen koko elinkaaren seuran-
+ta asetietojärjestelmässä mahdollistaisi nykyistä tehokkaamman viranomaisvalvonnan ja
+poistaisi erillisten tiedostojen käytöstä syntyviä virhemahdollisuuksia.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Muutokset on tarkoitettu pääosin tulemaan voimaan mahdollisimman pian. Sähköistä
+asiointia vaativat muutokset tulisivat kuitenkin voimaan vasta joulukuussa 2018, jolloin
+poliisin asetietojärjestelmän uudistuksen on tarkoitus olla voimassa.
+
+Arvoisa puhemies! Vielä yksi asia tähän loppuun: Esityksessä ehdotetaan muutettavak-
+si myös poliisilain sisäänpääsyä ja etsintää koskevaa pykälää. Lausuntokierroksella edus-
+kunnan apulaisoikeusasiamies on ehdottanut, että poliisille tulisi säätää oikeus aseen väli-
+aikaisen haltuunoton toteuttamiseksi päästä kotirauhan tai julkisrauhan suojaamaan tilaan.
+On nimittäin totta, että voimassa oleva lainsäädäntö on poliisin toiminnan kannalta ongel-
+mallinen, sillä aselaki edellyttää poliisin ryhtyvän toimenpiteisiin eli ottamaan aseet hal-
+tuun, jos on perusteltu syy epäillä, että asetta, sen osia tai patruunoita käytetään väärin taik-
+ka jos ampuma-aseluvan peruuttaminen on vireillä. Poliisilla ei kuitenkaan ole toimival-
+tuutta toimeenpanna aselain edellyttämää väliaikaista haltuunottoa. Eduskunnan apulaisoi-
+keusasiamies on lausunnossaan juuri tähän kiinnittänyt huomiota. Nimittäin poliisilla voi
+olla tietoa esimerkiksi aseenhaltijan jatkuvista ongelmista alkoholin tai huumeiden kanssa
+yhdistettynä vaikeaan elämäntilanteeseen, ja väärinkäytön vaara on voitu todeta ilmeisek-
+si. Vaikka laki edellyttää poliisia ryhtymään toimenpiteisiin aseen haltuun ottamiseksi, po-
+liisilla ei kuitenkaan ole tällä hetkellä toimivaltaa mennä noutamaan aseita aseenhaltijan
+kodista, jos siellä ei ole tapahtunut rikosta, jota voitaisiin selvittää, tai jos ei ole akuuttia ti-
+lannetta eli välitöntä hengenvaaraa käsillä. Eli tässä on ollut selvä ongelma, ja laki on edel-
+lyttänyt mutta ei ole antanut toisessa laissa toimivaltaa, ja nyt sitä on sitten pyritty korjaa-
+maan.
+
+Mielelläni vastaan sitten kysymyksiin. — Kiitoksia.
+
+19.44 Kari Kulmala ps: Arvoisa puhemies! Arvoisa ministeri! Esityksessä ehdotetaan
+muutettavaksi ampuma-aselain ampuma-aseen hankkimista ja hallussapitoa koskevia
+säännöksiä, poliisilakia ja rikoslakia. Esityksen tavoitteena on aselupamenettelyn uudista-
+minen turvallisuutta vaarantamatta. Tavoite on hyvä.
+
+Esityksessä on paljon hyvää mutta myös sellaista, joka pistää ajattelemaan esityksen ke-
+hittämistä. Pidän hyvänä sitä, että aselupaa voi hakea jatkossa sähköisesti. Tämä jousta-
+voittaa ja nopeuttaa lupamenettelyä ja vähentää henkilökohtaisen asioinnin tarvetta polii-
+siasemalla. Tämä korostuu erityisesti siellä, missä poliisiasemat ovat harvassa. Poliisijoh-
+don tarkoitus on edelleen vähentää poliisilaitosten ja sitä kautta lupakanslioiden määrää,
+jolloin myös aseasioita käsitteleviä henkilöitä on entistä harvemmassa.
+
+Sähköisen menettelyn rinnalla säilyisi perinteinen mahdollisuus hakea henkilökohtai-
+sesti lupaa poliisilaitokselta. Erinomaisena uudistuksena pidän sitä, että aseluvan hakemi-
+nen ei olisi jatkossa sidottu hakijan kotikuntaan tai kotipaikkaan vaan lupahakemuksen
+voisi jättää haluamalleen poliisilaitokselle esimerkiksi lomareissulla.
+
+On myös tarkoituksenmukaista, että jatkossa vuonna 2011 voimaan tulleen aselain mu-
+kaisesta soveltuvuustestistä lupamenettelyn yhteydessä luovuttaisiin. Kokemukset sen
+hyödyllisyydestä ovat saamani tiedon mukaan olleet hyvin ristiriitaiset. Testin hyödynnet-
+tävyys on ollut huono, eikä se ole todellisuudessa tuonut kovin paljon lisäarvoa aseturval-
+lisuuteen.
+
+Esityksen mukaan soveltuvuuden arviointia uudessa lupamenettelyssä parannettaisiin
+hakijan entistä yksilöllisemmällä haastattelulla sekä poliisilla jo olevan tiedon tehokkaam-
+malla hyödyntämisellä lupaharkinnassa esimerkiksi tietojärjestelmien automaattista tie-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+donvaihtoa kehittämällä. Tässä voikin todeta, että toivottavasti poliisin uusi tietojärjestel-
+mä Vitja saadaan viimeinkin valmiiksi — johan sitä on vuosikaudet yritetty.
+
+Lääkäreilläkin on ollut velvollisuus ilmoittaa poliisille henkilöistä, jotka ovat sopimat-
+tomia ampuma-aseen, aseen osan, patruunoiden tai erityisen vaarallisten ammusten hallus-
+sapitoon. Viime aikojen uutisoinnin mukaan tällaisia ilmoituksia on tehty varsin vähän.
+Myös muilla terveydenhuollon ammattilaisilla on ilmoitusoikeus. Ehkäpä tässä asiassa oli-
+si myös kehitettävää.
+
+Tiedän myös aseasioista vastaavia päällystötason poliisimiehiä, jotka ajattelevat, että
+miten saisin evättyä henkilöltä uusien aseiden hankkimisen. Mielestäni poliisin tehtävä ei
+ole evätä vaan mahdollistaa harrastustoiminta silloin, kun siihen on olemassa perusteet. Jo-
+kaista aseharrastajaa, reserviläistä ja metsästäjää tulisi kohdella koko Suomessa tasapuoli-
+sesti. Tässä on vielä paljon tekemistä.
+
+Esityksessä kerrotaan, että ampuma-aselaissa ei ole säädetty siitä, millä perusteella lu-
+van peruuttamismenettely voidaan panna tai on pantava vireille. Tässä kohdin tulee nykyi-
+sin kaikkein eniten ylilyöntejä ja selviä oikeusmurhia. Tiedän tapauksia, missä avioeroha-
+kemuksen ohessa on metsästäjältä otettu aseet poliisin haltuun, kun toinen osapuoli on teh-
+nyt poliisille ilmoituksen epäillystä insestistä. Kyseinen rikos on erittäin inhottava, mutta
+samalla tutkinnan ja oikeusprosessin aikana henkilö ei pääse harrastamaan ehkä sitä ainut-
+ta harrastusta, mikä hänellä on. Aseet palautetaan takaisin muutaman kuukauden päästä ja
+todetaan, että onhan näitä metsästyskausia tulossa jatkossakin. Onko tämä kohtuullista ja
+oikein? Mielestäni ei.
+
+Esityksessä on myös mainittu poliisilain 2 luvun 6 §:ssä ehdotettu uusi kohta 4, jossa
+kerrotaan: "...ampuma-asetta, aseen osaa, patruunoita tai erityisen vaarallisia ammuksia
+käytetään väärin tai niitä koskevan luvan peruuttaminen on pantu vireille". Mikä tarve tätä
+kohtaa on nyt muuttaa, kun edellisellä kerralla, kun lakia muutettiin, se torpattiin? Miksi
+erikseen pitäisi mainita aseet, kun ne kuuluvat jo muutenkin nykyisen lain piiriin? Mieles-
+täni tuo kohdan 4 lisäys on aseiden osalta tarpeeton.
+
+Olisi hyvä myös keskustella oikeasti siitä, mikä on perusteltu syy panna vireille aselu-
+pien peruuttaminen. Onko se insestiepäily avioerohakemuksen yhteydessä, talousrikos, ta-
+haton ylinopeus vai mikä? Mielestäni juuri tässä kohdin olisi vielä paljon tekemistä, ja laki
+tulee tuskin koskaan täysin valmiiksi tältä kohdin. Pääasia olisi kuitenkin, että kaikkia ase-
+harrastajia, metsästäjiä ja reserviläisiä kohdeltaisiin tasapuolisesti niin eteläisessä kuin itäi-
+sessäkin Suomessa.
+
+19.50 Timo Heinonen kok: Arvoisa puhemies! Kiitos ministeri Risikolle tästä, että aselu-
+paprosessia nyt sujuvoitetaan. Tämä on ollut aika iso haaste vastuullisille aseenkäyttäjille
+Suomessa. Ymmärrän sen, että jotain piti tehdä, mutta nämä liikkeet, mitä tehtiin, olivat
+minun mielestäni kyllä ylidramaattisia, ja sen takia on hyvä, että nyt esimerkiksi soveltu-
+vuustesteistä luovutaan ja sähköistä hakua otetaan käyttöön. 
+
+Edelleen tämä harrastamaan pääsy jää tämän jälkeen aika vaikeaksi, ja on valitettavaa,
+että ihan tavalliset, kunnolliset nuoret eivät enää innostu urheiluammunnasta taikka met-
+sästyksestä sen takia, että on tehty vaikeaksi sen harrastamisen pariin pääseminen. Tietysti
+aseilla voidaan tehdä myös pahoja tekoja, niin kuin on tehtykin, mutta ne eivät ole olleet
+yleensä luvallisia aseita tai näiden aseiden saantiin on liittynyt jokin muu rikos. Toki pro-
+sesseissa on kehittämisen varaa — ainakin oli yhdessä valitettavassa tapauksessa, joka tie-
+tysti julkisuuteen paljon tuli.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Yksi asia, jonka itse haluan tässä keskustelussa esille nostaa, on tämä aseen näyttö, joka
+on järjetön. Sen voi tänä päivänä tehdä niin, että yksi ihminen vie ison määrän aseita näy-
+tettäväksi poliisille, eli sen näyttäjän ei siis tarvitse olla kyseinen aseen ostaja, vaan jos mi-
+nulla on vastaaviin aseisiin lupa, minä voin kerätä 25 asetta autoni takalaatikkoon ja lähteä
+näyttämään niitä poliisiasemalle. Minkälainen riski ja vaara siinä on, kysyn vain, ja sen ta-
+kia olen itse tehnyt ehdotuksen, jota minulle eräs asekauppias ehdotti, että tämä rajattaisiin
+esimerkiksi niin, että ainoastaan niissä tilanteissa tuo näyttö olisi, kun asetta ei myy viral-
+linen kauppa. [Puhemies koputtaa] Eli jos minä teen oston mattimeikäläiseltä, niin joutui-
+sin käymään asetta näyttämässä, mutta jos ostan sen luvallisesta aseliikkeestä, [Puhemies
+koputtaa] niin näyttöä ei olisi. Toivon, että tätä vielä harkittaisiin. — Kiitos.
+
+19.52 Juho Eerola ps: Arvoisa puhemies! Tämä nyt käsillä oleva esityshän on pääosin oi-
+kein hyvä esitys, kuten tietysti suurin osa tämän hallituksen esityksistä on oikein hyviä.
+Mutta tässä on tosiaan tähän lain 6 §:ään tulossa oleva kohta, johon, ministeri, itsekin viit-
+tasitte, eli poliisimiehellä on oikeus päästä kotirauhan suojaamaan tilaan, jos on perustel-
+tua syytä olettaa, että "ampuma-asetta, aseen osaa, patruunoita tai erityisen vaarallisia am-
+muksia käytetään väärin taikka niitä koskevan luvan peruuttaminen on pantu vireille".
+Tämä on uutta, ja tämä on huolestuttanut harrastajapiirejä, eli pelätään, että tämä avaa jon-
+kunnäköiset ovet poliisin ehkä mielivallalle tehdä yllätysratsioita aseenomistajien kotei-
+hin, tai ei niinkään ehkä poliisin mielivallalle vaan tämän aseenomistajan vähemmän hy-
+ville ystäville. 
+
+Kysynkin nyt vastaavalta ministeriltä, miksi tämä kohta on näin tarpeellinen, ja erityi-
+sesti: Mikä on se perusteltu syy? Onko se nyt vain se, että joku ilmoittaa, että siellä se rie-
+huu aseen kanssa, vaikka mitään ei olisi tapahtunut? Juuri niin kuin edustaja Kulmala tuos-
+sa takana sanoikin, minullakin on tiedossa lukuisia tällaisia tapauksia, joissa huoltajuus-
+kiistojen tai avioeroriitojen keskellä toinen puolisoista soittaa poliisille ja epäilee eksänsä
+olevan väkivaltainen tai uhkaava. Tämä aika useasti jo nyt, nykyisen lain voimassa ollessa,
+on johtanut siihen, että poliisi takavarikoi tämän toisen henkilön aseet pois. Se tutkinta to-
+siaan saattaa kestää useita kuukausia, vaikka mitään todisteita tästä väkivaltaisuudesta ei
+löytyisikään, ja vaikka aseet sitten palautettaisiin tälle henkilölle takaisin, niin se on sitten
+se metsästyskausi jo monta kertaa ohi. Se tosiaan saattaa jossain päin Suomea olla ainoa
+henkireikä — kenties tälle masentuneellekin ihmiselle — ja sellainen harrastus, mistä saa
+edes jotain valoa siihen elämään, kenties juuri tämä metsästys, ja nytten tämä sitten pois-
+tettaisiin. [Puhemies koputtaa] Tämän takia kysynkin: mikä on tämä "perusteltu syy olet-
+taa"?
+
+19.54 Reijo Hongisto ps: Arvoisa herra puhemies! Esityksen tavoitteena on aselupame-
+nettelyn uudistaminen aseturvallisuutta vaarantamatta, ja tämähän on erinomainen ja hyvä
+lähtökohta. Esityksessä on hyviä ja kannatettavia uudistuksia, mutta valitettavasti on myös
+kohtia, jotka vaativat ainakin minun mielestäni vielä hieman hiomista. Nostan aluksi esille
+lakiesityksestä ne kohdat, jotka minun mielestäni ovat hyviä ja kannatettavia, ja sen jäl-
+keen sitten lopussa keskityn tähän toiseen puoleen.
+
+Ensimmäinen mielestäni hyvä asia on tämä hankkimislupamenettelyn yksinkertaistami-
+nen ja sähköistäminen. Hankkimis- ja hallussapitomenettely sekä yksityistä valmistamis-
+lupaa koskeva lupamenettely yhdistettäisiin aselupamenettelyksi. Aselupaa voisi hakea
+sähköisesti, mikä joustavoittaisi ja nopeuttaisi lupamenettelyä ja vähentäisi henkilökohtai-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+sen asioinnin tarvetta. Sähköisen menettelyn rinnalla säilyisi mahdollisuus hakea lupaa po-
+liisilaitoksella asioiden. Aseluvan hakemista ei olisi sidottu hakijan kotikuntaan tai koti-
+paikkaan, vaan lupahakemuksen voisi jättää haluamalleen poliisilaitokselle. Muutos jous-
+tavoittaisi lupamenettelyä. Tämä on ainakin minun mielestäni erinomaisen hyvä ja kanna-
+tettava ajatus.
+
+Toisena kohtana palikkatestistä luovutaan. Eli soveltuvuustestistä lupamenettelyn yh-
+teydessä luovuttaisiin, koska testin hyödynnettävyys on huono eikä se ole käytännössä tuo-
+nut lisäarvoa aseturvallisuuteen. Tämä on erittäin hyvä ja tervetullut uudistus. Voin kertoa,
+että taisi olla kansanedustajatoimeni ensimmäisiä asioita keväällä 2011, kun esitin silloi-
+selle poliisiylijohtajalle Mikko Paaterolle, että tästä kansankielellä palikkatestiksi kutsu-
+tusta testistä luovuttaisiin. Toistelin esitystä aina, kun poliisiylijohtajan tapasin, ja ilokseni
+huomaan, että viesti on tainnut nyt mennä perille. Tämä on erittäin hyvä ja kannatettava
+muutos aiempaan käytäntöön.
+
+Ei joka asetta näytille. Hyvä muutos on myös se, että asealan elinkeinonharjoittajalta
+hankittua ampuma-asetta, tehokasta ilma-asetta ja aseen osaa ei pääsääntöisesti tarvitsisi
+esittää poliisilaitoksella. Yksityisten välisellä luovutuksella siirtynyt ampuma-ase, teho-
+kas ilma-ase ja aseen osa tulisi esittää poliisille, jos luovuttajan hallussapitoon oikeuttava
+lupa olisi myönnetty ennen vuotta 2000. Lisäksi poliisi voisi aina pyytää esittämistä.
+Enemmistö asekaupoista tehdään käsitykseni mukaan aseliikkeissä, aseliikkeitten kautta,
+joten tämä on merkittävä kevennys aseita tarkastavien poliisien työmäärään. Erinomaisen
+hyvä uudistus.
+
+Kun äsken tuli ruusuja, niin sitten vähän risuja. Mielestäni esitys ei sellaisenaan ole val-
+mis hyväksyttäväksi, vaan korjattavaakin löytyy.
+
+Ensimmäisenä korjattavana kohtana otan tämän, mistä ministerikin mainitsi, etsinnän
+suorittamisen. Nyt kerron oman tulkintani tähän asiaan. Siis poliisilain 2 luvun 6 §:n 1 mo-
+menttia esitetään muutettavaksi niin, että vaara- ja vahinkotilanteissa poliisimiehellä on oi-
+keus päästä kotirauhan tai julkisrauhan suojaamaan tilaan tai muuhun paikkaan, johon ei
+ole yleistä pääsyä, taikka kulkuneuvoon ja suorittaa siellä tarvittaessa etsintä, jos on perus-
+teltua syytä olettaa — nyt olen tämän alleviivannut ja ympyröinyt sanan "olettaa" — että
+ampuma-asetta, aseen osaa, patruunoita tai erityisen vaarallisia ammuksia käytetään vää-
+rin taikka niitä koskeva luvan peruuttaminen on pantu vireille.
+
+Kotirauhan suoja on kirjattu perustuslakiin, ja se on vahva. Se on todella vahva. Jos laki
+toteutuu nyt esitetyssä muodossa, tulkintani mukaan riittäisi pelkkä patruuna keppihevo-
+seksi suorittaa kotietsintä aseen omistajan asunnossa taikka autossa. Minun mielestäni tul-
+kinta on erikoinen, sillä pakkokeinolaissa mainitaan kotietsinnän edellytykset silloin, kun
+etsintä kohdistetaan rikoksesta epäillyn asuntoon, autoon tai muuhun sellaiseen kotirauhan
+suojaa nauttivaan paikkaan. Silloin pitää olla vahva epäily — siis ei riitä olettamus, vaan
+pitää olla vahva epäily — jo tapahtuneesta rikoksesta. Tämän lain muutoksessa riittäisi siis
+pelkkä olettama. Ainakin itse, kun lakiesitystä luin, pohdiskelin, kuka olettaa ja millä pe-
+rusteella olettaa. Riittääkö oletukseksi vaikkapa rajanaapurusten välinen kiista siitä, että
+toisen grillin savu ja herkullinen lihan tuoksu leviää vegaaninaapurin patiolle? Naapuri
+soittaa kiukustuksissaan hätäkeskukseen ja kertoo pelkäävänsä rajanaapuriaan, kun sillä on
+niitä aseitakin. Kuka vastaa siitä, jos poliisi tekee kotietsinnän ja toteaa, että mitään ei jää
+käteen eli etsintä on ollut turha? Tuskin tämä perättömän ilmoituksen tehnyt naapuri kui-
+tenkaan.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Tässä voi jäädä sellainen vaikutelma, että ampuma-aseen omistajaa kohdellaan ikään
+kuin toisen luokan kansalaisena, jonka kotiin taikka kulkuneuvoon voi mennä lähes millä
+perusteella haluaa. Minä ymmärrän etsinnät ja tarkastukset erinomaisen hyvin silloin kun
+poliisilla on perusteltu syy — siis perusteltu syy — olettaa, että jollain on hallussaan luva-
+ton ampuma-ase, mutta tässä ollaan minun tulkintani mukaan jälleen kerran puuttumassa
+luvallisten ampuma-aseiden omistajien oikeushyvään, ja sitä ainakin minun on erittäin vai-
+kea hyväksyä. Mielestäni olisi syytä keskittyä luvattomien ampuma-aseiden haltijoihin,
+eikä usein ja toistuvasti kiristää ja hankaloittaa luvallisten aseenomistajien elämää. 
+
+Toisena kohtana, joka ainakin minua mietityttää, esityksessä ehdotetaan säädettäväksi
+ase-elinkeinon harjoittajalle velvollisuus ilmoittaa maahantuomansa, siirtämänsä, hankki-
+mansa, valmistamansa tai muuntamansa ampuma-aseen ja aseen osan yksilöintitiedot po-
+liisin asetietojärjestelmään. Olen ympyröinyt tästä sanat "aseen osa". Esityksessä puhu-
+taan yksiselitteisesti aseen osasta. Moni tietää, että ampuma-aseissa on paljon osia, joista
+jotkut ovat varsin pieniä: jousia ja ruuveja. Mietin, millä tavalla merkitään ja erotetaan
+vaikkapa jonkun aseen laukaisukoneistossa oleva kierrejousi esimerkiksi monen kansan-
+edustajan työpöydällä taikka kädessä olevan kuivamustekynän kärjen kierrejousesta. Pi-
+tääkö aseen laukaisukoneiston laukaisuvastusta säätävään kierrejouseen stanssata aseen
+sarjanumero, ja jos pitää, niin miten se tehdään? Jousi voi olla todella pieni ja ohutta lan-
+kaa. Minä ymmärrän erittäin hyvin, että yksilöinti tehdään esimerkiksi piippuun ja aseen
+sulkulaitteeseen, mutta en sitä, että jokainen aseeseen kuuluva ruuvi taikka jousi merkitään
+ja ilmoitetaan. Se vaikuttaa aika mahdottomalta ajatuksenakin. Pidän ehdottoman välttä-
+mättömänä, että tähän kohtaan kiinnitetään valiokuntavalmistelussa huomiota ja yksilöinti
+ulotettaisiin koskemaan vain aseen piippua ja sulkulaitetta, ei siis jokaista ruuvia ja nippe-
+liä.
+
+Arvoisa puhemies! Viimeisenä vaan ei vähäisimpänä epäkohtana nostan esiin asekeräi-
+lijät. Lakiehdotuksessa esitetään, että luovuttaisiin asekeräilijän oikeudesta pitää tiedostoa
+hankkimistaan ampuma-aseista ja aseen osista hallussapitoluvan hakemisen sijasta. Keräi-
+lijän tulisi hakea aselupa hankkimilleen, myös keräilysuunnitelmaan kuuluville ampuma-
+aseille, tehokkaille ilma-aseille ja aseen osille. Tietämäni mukaan maassamme on useita
+satoja keräilijöitä. Muistan kuulleeni joskus luvun noin 300, mutta se on muistamani mu-
+kaan. Siis satoja asekeräilijöitä — ja jos lakiesitys tässä muodossa toteutetaan, joutuvat
+nämä sadat keräilijät hakemaan uudestaan lupia jo hallussaan oleviin aseisiin ja näyttä-
+mään ne poliisiasemalla. Keräilijällä on pääsääntöisesti kymmeniä, joillakin voi olla jopa
+satoja ampuma-aseita. Pohdiskelin esitystä lukiessani, ovatko lakiesityksen kirjoittajat
+miettineet, mitä näiden aseiden uudelleenluvittaminen tulisi maksamaan keräilijöille ja
+minkä verran tähän kuluu lupahallinnon työaikaa, sillä tietämäni mukaan yhtä asetta kohti
+varataan lupahallinnolta noin 30 minuuttia, ja jos henkilö joutuu esittämään kymmeniä tai
+satoja aseita, niin tämähän on aivan käsittämätön tilanne. Esitänkin, että keräilijästatuksen
+omaavalla henkilöllä säilyy myös tulevaisuudessa oikeus pitää tiedostoa hankkimistaan
+ampuma- ja ilma-aseista sekä niiden osista. 
+
+Arvoisa herra puhemies! Ampuma-aseen omistajilta edellytetään erittäin huolellista
+käytöstä ja huolellisia, vakaita elämäntapoja. Jokaisessa asiassa pitää olla tehostetun tark-
+ka, jotta aseen hallussapitolupia ei peruta. Mielestäni aseen omistajilla on oikeus odottaa ja
+edellyttää samaa pikkutarkkuutta myös lakitekstejä laativilta. [Puhemies koputtaa] — Mi-
+nuutti, sopiiko? 
+7
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Toinen varapuhemies Arto Satonen: Joo, huomautan tästä 10 minuutin ajasta. Se jää pu-
+hujan harkittavaksi.
+
+Jos ympäripyöreät ja monesti tulkinnanvaraiset lakiesitykset hyväksytään sellaisinaan
+valmiiksi laeiksi, tulee hyvän lain asemasta sutta ja sekundaa ja niitä kuuluisia vahinkoja.
+Mielestäni tämä ei ole hyvän hallinnon mukaista. — Kiitoksia, arvoisat kuulijat ja arvoisa
+puhemies.
+
+20.05 Mari-Leena Talvitie kok: Arvoisa puhemies! Kuten ministeri Risikko tässä hyväs-
+sä ja kattavassa esittelypuheenvuorossa toi esiin, kyseessä on kannatettava hallituksen esi-
+tys. Tämä ehkä näkyy myöskin tässä salikeskustelussa, koska en tällä hetkellä näe yhtään
+oppositiokansanedustajaa salissa.
+
+Tämän uudistuksen taustalla on siis poliisin vuoden 2012 lupahallintostrategia, jonka
+mukaisesti kaikkiin poliisin lupalajeihin tehdään samat kehittämistoimet eli selkeytetään
+lupaprosesseja , otetaan käyttöön sähköinen asiointi, luovutaan kotipaikkasidonnaisuudes-
+ta ja vähennetään turhaa käyntiasiointia. Tämä uudistushan on tehty muun muassa passei-
+hin jo aikaisemmin, ja viime vuoden osaltahan nämä passien sähköistä hakemusta käyttä-
+neiden lukumäärät olivat varsin korkeat. Kyseessä on myös normienpurkuhanke ja itsel-
+lenikin henkilökohtaisesti tärkeä hanke, koska ensimmäiset yhteydenotot ampuma-asei-
+siin ja lupahakemuksiin liittyvistä asioista olivat juurikin tämän hallituksen esityksen toi-
+veitten kaltaisia.
+
+Arvoisa puhemies! Hallintovaliokunta on käsitellyt asedirektiiveihin ja ampuma-asei-
+siin liittyviä asioita useaan otteeseen, erityisesti viime vuoden valtiopäivillä. Olemme nos-
+taneet lausunnoissamme esiin huolen siitä, että EU-tasolla ymmärrettäisiin suomalaisten
+ampuma-aseiden erityispiirteet, erityislaatuisuus ja luotettavuus sekä maamme erityispiir-
+teet, kuten vankka reserviläisten asema maanpuolustuksessa ja monipuoliset ampuma-ase-
+harrastukset, joissa myös turvallisuuteen on panostettu, sekä muun muassa jo täällä salis-
+sakin äsken kuultu asekeräilijöiden suuri osuus.
+
+Arvoisa puhemies! Sähköisen aseluvan haun ja toimivuuden kannalta oleellista ja aivan
+keskeistä on se, millaiseksi sähköinen hakemus tehdään. Onko se tarpeeksi yksityiskohtai-
+nen mutta riittävän selkeä? Tässä ovat tietenkin valtion ict ja valtiovarainministeriön rooli
+oleellisia, mutta kun on kyse ampuma-aselain lähetekeskustelusta, tuon sen myöskin esiin.
+Ampuma-aseiden myöntämisperusteet eivät uudistuksessa muutu, mutta hakemus on
+suunniteltava ja toteutettava erityisen huolellisesti — sekä asiakaslähtöisesti että toimija-
+lähtöisesti.
+
+Kuten edustaja Kulmala toi kattavassa puheenvuorossaan esiin, Suomessa on valitetta-
+vasti esiintynyt myös yksittäisiä poikkeuksellisia ja epäoikeudenmukaisia ampuma-aselu-
+van epäämisiä muun muassa metsästysharrastukseen liittyen. Toivottavasti tämä hallituk-
+sen esitys myös korjaa ne toimenpiteet.
+
+Sitten vielä tähän ampuma-aselain liitännäislakina olevaan poliisilain muutokseen: On
+hyvä, että tähänkin lain epäkohtaan on kiinnitetty nyt huomiota ja se korjataan. On täysin
+kohtuutonta, että poliisilla ei ole ollut toimivaltuutta toimeenpanna aselain edellyttämää
+väliaikaista haltuunottoa, vaikka samalla poliisilla on ollut ampuma-aselain nojalla toimin-
+tavelvollisuus kyseisessä tilanteessa — eli tilanteessa, jossa on ollut selkeä, perusteltu syy
+epäillä, että asetta, sen osia, patruunoita tai vastaavaa käytetään väärin tai ampuma-aselu-
+van peruutus on vireillä. — Kiitos.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+20.08 Eeva-Maria Maijala kesk: Arvoisa puhemies! Tässä kyseisessä laissa on paljon
+odotettuja ja pelättyjä asioita. Ensiksi nämä positiiviset elikkä odotetut asiat, eli tämä haas-
+tattelu- ja soveltuvuustestiasia. On hyvä, että tämä nyt muuttuu, koska kyllähän sitä noissa
+eri piireissä, joissa minäkin olen pyörinyt metsästysasioitten kanssa tekemisissä, pidetään
+lähinnä vitsinä. Hyvä, että tämä nyt saadaan muutettua ja tulee järkevämmäksi tämä hom-
+ma. Kyllähän tämä purkaa byrokratiaa, ja voidaan sitten jatkossa keskittyä todella olen-
+naisten asioiden hoitamiseen elikkä poliisit voivat tehdä sitä työtä, mikä heille oikeasti
+kuuluu.
+
+Mutta sitten tämä toinen asia, aseiden ottaminen haltuun. Elikkä mennään tähän poliisi-
+lain 2 luvun 6 §:n muuttamiseen, juuri siitä asiasta tässä edellä jo kaksi edustajaa puhui.
+Minulla on lakimiehenä kokemusta useista erotilanteista, joissa on otettu yhteyttä. Yleensä
+tämä erotilanne tarkoittaa sitä, että on ollut avopari, missä sitten naispuolinen henkilö on
+loukannut miestä vaikeimmalla tavalla. Erityisesti meillä Lapissa on paljon miehiä, jotka
+harrastavat metsästämistä, ja se, että he pääsevät metsään ja metsästämään, on heille mo-
+nesti ainuita olennaisia, tärkeitä, asioita, millä he pääsevät elämässä eteenpäin. Niin että ei-
+hän siinä ole tarvittu mitään muuta kuin että avopuoliso, joka on lähtenyt sitten kävele-
+mään riitatilanteessa, ottaa yhteyttä poliisiin, että minua on uhattu aseella. Tämä on ikävän
+yleistä, ja näitä on ollut todella monta tapausta, joista olen henkilökohtaisesti keskustellut
+ihmisten kanssa. Yleensä aseet ovat olleet jopa vuoden pois. Pahimmassa tapauksessa on
+mennyt kaksikin metsästyskautta, ennen kuin tämä asia on saatu laukeamaan. Se, että tois-
+ta uhkaa aseella, on todellakin merkittävä asia, mutta kyllä se pitäisi pystyä nopeasti sel-
+vittämään, että henkilöt pääsisivät sitten jatkamaan harrastustoimintaansa.
+
+Sitten tämä olennainen asia on 6 §:n 4 kohta, se, että "jos on perusteltua syytä olettaa,
+että ampuma-asetta, aseen osaa, patruunoita tai erityisen vaarallisia ammuksia käytetään
+väärin". Tämä on niin avoin käsite, että tämä muuttaa nykyistä lainsäädäntöä, nykyistä
+käytäntöä todella paljon avoimemmaksi verrattuna aikaisempaan tilanteeseen. Erityisesti
+— minä puhun nyt sitten omasta käytännön kokemuksestani, olen paljon poromiespiireis-
+sä elänyt ja kasvanut, puhutaan paljon petoasioista ynnä muusta — jos on pikkuisenkaan
+jollakin epäilystä tai haluaa puuttua siihen, onko loukattu, onko mahdollisesti ajettu aiheet-
+ta petoja tappamaan, niin tällä pystytään iskemään heti kiinni ja voidaan vaikeuttaa todella
+raskaasti muun muassa poromiesten työntekoa ja toimintaa.
+
+Olen pohtinut ja miettinyt tätä asiaa, ja minun mielestäni tässä voidaan rikkoa jopa pe-
+rustuslaillista yksityisyyden suojaa. Mennäänkö tässä yli sen perustuslain tason, sen selvit-
+tämiseksi esitän, että tämä laki menee myöskin perustuslakivaliokuntaan käsiteltäväksi
+lausunnon antamista varten.
+
+20.13 Reijo Hongisto ps: Arvoisa puhemies! Yhdyn edustaja Maijalan ajatuksiin siinä,
+mitä hän puhui aseen hallussapitolupien peruuttamisesta ja perumisesta. Tiedän sen, että
+monta kertaa, jos henkilö syyllistyy törkeään rattijuopumukseen vaikka jossakin Rova-
+niemellä ja hänellä on ampuma-ase taikka ampuma-aseet luvallisesti säilössä Espoossa,
+niin vaikka tällä ampuma-aseella ja itse teolla ei ole minkäännäköistä kausaaliyhteyttä, sii-
+tä huolimatta poliisi peruu ampuma-aseen hallussapitoluvan. Ymmärrän erinomaisen hy-
+vin poliisina sen, että jos henkilö syyllistyy tekoon, joka vähänkään osoittaa häneltä väki-
+valtaisuutta taikka itsetuhoisuutta tai muuta, niin tällainen henkilö ei ole oikea pitämään
+hallussaan ampuma-aseita. Mutta jos teko on täysin sellainen, ettei mitään kausaaliyhteyt-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+tä löydy, niin hämmästelen kyllä poliisin nykyistä tapaa perua ampuma-aseen hallussapi-
+toluvat.
+
+Mutta edustaja Maijala tuossa aivan puheenvuoronsa viimeiseksi totesi ja tarkasteli ni-
+menomaan tätä paikan etsintää, on se sitten koti, vapaa-ajan asunto, auto tai mikä muu
+paikka tahansa, johonka ulotetaan kotirauhan suojaa, ja hän pohdiskeli sitä, olisiko tämä
+syytä käyttää jopa perustuslakivaliokunnassa lausunnolla, jotta varmistettaisiin se, louka-
+taanko tässä kansalaisten perusoikeuksia.
+
+Arvoisa puhemies! Minä kannatan edustaja Maijalan tekemää esitystä siitä, että tämä lä-
+hetettäisiin myöskin perustuslakivaliokuntaan. Näin varmistettaisiin se, kun tämä on muu-
+toin hyvä laki, tässä on todella paljon hyviä elementtejä, että ei nyt koko hyvää lakiesitystä
+torpattaisi tällaisella pienellä valuvirheellä.
+
+20.14 Sisäministeri Paula Risikko: Arvoisa herra puhemies! Kiitos näistä kommenteis-
+ta, ja minä itsekin tunnistan tässä sen, että tässä on paljon, paljon hyvää, ja sitten teidän pu-
+heistanne ymmärrän, että teillä on myös kritiikkiä. Tästä itse aselupa-asiastahan voidaan
+todella tuolla valiokuntakuulemisessa sitten katsoa tarkemmin sitä, onko joitain yksityis-
+kohtia. Niinhän se aina menee, tämä työ.
+
+Tuosta soveltuvuuden arvioinnista, kun täällä oli jonkun puheenvuorossa tästä soveltu-
+vuudesta sellainen lievä..., että "testit lopetetaan": minä haluan vain siihen lisätä, että so-
+veltuvuusarvioinnista ei luovuta vaan siitä tavasta, millä se on nyt tehty, joka on aivan niin
+kuin nollatestiksi todettu. Minä olen kiertänyt poliisilaitoksia ja aina kysynyt, että oletteko
+tätä mieltä, ja kaikki ovat sanoneet, että tällä ei ole niin kuin mitään tekemistä — ja täällä
+nyt poliisimiehet nyökkäilevät täällä salissa. Soveltuvuuden arviointi jatkuu, mutta se teh-
+dään toisella tavalla, ja väitän, että jopa nyt tehokkaammin, koska... siellä löytyy peruste-
+luja, millä perustelen, että tehokkaammin.
+
+No, sitten tästä poliisilaista. Täällä kysyttiin, mistä tämä on tullut. Minä vielä vähän pe-
+rustelen tätä, mutta sitten minä palaan siihen perustuslakiasiaan, josta olen hyvin pitkälle
+teidän kanssanne samaakin mieltä. Minä nyt ensiksikin perustelen tätä. 
+
+Siis ampuma-aselaissa, joka on nykyisin voimassa, sanotaan näin: "Jos on perusteltu syy
+epäillä, että ampuma-asetta, aseen osaa, patruunoita tai erityisen vaarallisia ammuksia käy-
+tetään väärin, taikka jos niitä koskevan luvan peruuttaminen on pantu vireille, poliisin on
+viipymättä tehtävä päätös esineiden ottamisesta väliaikaisesti poliisin haltuun." Mutta nyt
+ei ole poliisilaissa vastaavaa pykälää, jolla annettaisiin toimivalta ottaa haltuun. Täällä am-
+puma-aselaissa tämä muuten jatkuu näin: "Poliisimiehen on otettava ampuma-ase, aseen
+osa, patruunat ja erityisen vaaralliset ammukset pois niiden haltijalta, jos niiden väärinkäy-
+tön vaara on ilmeinen. Poliisimiehen on viipymättä ilmoitettava pois ottamisesta sen pai-
+kan poliisilaitokselle, jonka toimialueella esineet on otettu pois niiden haltijalta, tai luvan-
+haltijan kotikunnan poliisilaitokselle. Poliisin on 14 vuorokauden kuluessa esineiden pois
+ottamisesta ryhdyttävä toimenpiteisiin päätöksen tekemiseksi esineiden ottamisesta väliai-
+kaisesti poliisin haltuun tai luovutettava pois otetut esineet takaisin niiden haltijalle." 
+
+Tämä on siis ampuma-aselaissa. Nyt sitten meillä poliisilaissa ei ole kuitenkaan sitä val-
+tuutta, ja tähän on kiinnittänyt huomiota eduskunnan apulaisoikeusasiamies, ja hän on eh-
+dottanut, että sinne poliisilakiin lisätään tämä. Meillä on arvioitu, että näin tulisi tehdä, ja
+nimenomaan tästä syystä, että poliisilla ei kuitenkaan ole toimivaltuutta toimeenpanna ase-
+lain edellyttämää väliaikaista haltuunottoa. Tämä haltuunottohan liittyy nyt tähän kotiin,
+koska suurin osa näistä aseistahan säilytetään aseharrastajan kodissa, ja siitä syystä tämä
+10
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+liittyy nyt tähän, mihin edustajat ovat täällä viitanneet. Kun te esititte, että no miksi tällai-
+nen, niin se liittyy nimenomaan tuohon ampuma-aselakiin, ja sitten: nykyinen lakihan an-
+taa jo mahdollisuuden, jos on tapahtunut rikos tai on tällainen akuutti tilanne, elikkä tässä
+tilanteessa täällä todetaan näin: "vaikka laki edellyttää poliisin ryhtyvän toimenpiteisiin
+aseiden haltuun ottamiseksi, poliisilla ei kuitenkaan ole toimivaltaa mennä noutamaan
+aseita aseenhaltijan kodista, jos siellä ei ole tapahtunut rikosta, jota pitäisi selvittää, tai jos
+ei ole akuuttia tilannetta eli välitöntä hengenvaaraa käsillä." Tässähän on kysymys nimen-
+omaan siitä, että jos siellä on joku tällainen epäily, että tällainen rikos voi tapahtua, niin tä-
+mähän on ennaltaehkäisyn näkökulmasta ajateltu, että se toimivaltuus pitäisi olla, jota am-
+puma-aselaki edellyttää. Tässä on selvä ristiriita näiden kahden lain välillä.
+
+Täällä edustaja Eerola, hallintovaliokunnan puheenjohtaja, sanoi, että ei kai tämä nyt voi
+sellaista tilannetta tarkoittaa, että heiluu aseen kanssa. No, minä en nyt ota kantaa heilumi-
+sen syyhyn, mutta jo sanoista "heiluu aseen kanssa" pitäisi tietysti tietää, heiluuko mahdol-
+lisesti huimauksen vuoksi vai minkä muun vuoksi. Mutta huomasin vain tämän "heiluu
+aseen kanssa": minua kyllä säikäyttäisi, jos joku heiluu aseen kanssa.
+
+Mutta sitten edustaja Hongistolle vähän näin välikevennyksenä sanon, että todellakaan,
+jos grillin tuoksu ärsyttää, niin tämä ei varmasti koske sellaisia tilanteita. Tämä nyt oli vä-
+hän tällainen välikevennys eikä tällaisia pitäisi sanoa, mutta sanoin sen kuitenkin, ja teille
+kaikille, jotka täällä kiinnititte tähän asiaan huomiota: olen kanssanne samaa mieltä. Tässä
+on tällainen perustuslaillinen kysymys, ja minä itse ajattelen näin, nyt kun teitäkin täällä
+kuuntelen, että varmasti on niin, että perustuslakivaliokunnan olisi hyvä tähän ottaa kan-
+taa, ilman muuta, ja sehän on totta kai onneksi täällä talossa mahdollista. 
+
+Mutta sitten minulle tuli mieleen myös sellainen tässä nyt illan aikana, kun teitäkin
+kuuntelin, että olisi varmasti hyvä, että valiokunta kuulisi meidän valmistelleita esittelijöi-
+tämme ja meidän virkamiehiämme ja pohtisitte yhdessäkin vielä sitä, onko hyvä jotain
+kohtaa tässä vielä katsoa ja vasta sitten laittaa se sinne perustuslakivaliokuntaan. Minä oi-
+keastaan vähän niin kuin tarjoan tässä sitä, koska tämä on hyvä katsoa erittäin tarkasti. Sit-
+ten, totta kai, se perustuslakivaliokuntakin on hyvä siinä, mutta ensin katsottaisiin tämä
+meidän virkamiestemme kanssa, jotka ovat tätä perusteellisesti pohtineet. Tarjoan tällaista
+vuorovaikutusta ensin. Mutta minä olen samaa mieltä.
+
+Tämä aselupalaki pitäisi saada kuitenkin liikkeelle, ja sen tähden tämä ei saisi sitä hidas-
+tuttaa. Tämä voidaan tarvittaessa vaikka käsitellä kahtena eri asiana. Mutta minä ehdotan,
+että valiokunta ja meidän virkamiehemme käyvät tätä läpi, miten edetään.
+
+Hyvä! Kiitos oikein paljon näistä kommenteista.
+
+20.21 Kari Kulmala ps: Arvoisa puhemies! Tässä vielä jonkin verran palaan taaksepäin
+tuohon omaan puheeseeni ja tähän palikkatestiin. Tuntui varsin erikoiselta silloin aikoinan-
+sa, kun ensin olin ollut 27 vuotta poliisina ja aseiden kanssa tekemisissä päivittäin — virka-
+aseena oli Smith & Wesson .38 joka päivä tuossa lonkalla — ja sen jälkeen minut valittiin
+eduskuntaan. Kun kaksi viikkoa sen jälkeen hain aseen hankkimislupaa poliisiasemalta,
+niin minut laitettiin ensimmäisenä palikkatestiin. Tuntui varsin erikoiselta. Onneksi tästä
+nyt ollaan luopumassa. Sinänsä ymmärrän hyvin sen, että jos arvostetusta ammatista men-
+nään sinne arvoasteikon toiseen päähän, niin onhan se entinen poliisi epäilyttävä henkilö.
+Mutta se siitä.
+
+Sitten vielä, arvon ministeri, kysyisin teiltä, että kun nämä lääkärit ovat velvollisia il-
+moittamaan henkilöistä, joiden ei pitäisi olla aseiden kanssa tekemisissä, ja näitä ilmoituk-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+sia on tullut kuitenkin niin vähän kuin mitä oli uutisissa tuossa mainittu, muistaakseni noin
+200 vuodessa, niin onko tämä hyvä käytäntö ja olisiko tätä mahdollista muuttaa vielä pa-
+remmaksi. Mielestäni tämä ei ole ihan tasapainossa tällä hetkellä.
+
+20.22 Sisäministeri Paula Risikko (vastauspuheenvuoro): Arvoisa herra puhemies! Kii-
+tos evästyksestä. Varmasti otetaan tämäkin asia huomioon jatkokäsittelyssä ja ihan nämä
+kaikki, mitä te täällä keskustelitte ja puhuitte — hyvä niin.
+
+Keskustelu päättyi ja asian käsittely keskeytettiin.
+12
+
+

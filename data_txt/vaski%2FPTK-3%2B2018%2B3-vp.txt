@@ -1,0 +1,749 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM7857.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 3/2018 vp
+
+Täysistunto
+
+Torstai 8.2.2018 klo 16.01—17.58
+
+3. Hallituksen esitys eduskunnalle laiksi jätelain muuttamisesta
+Hallituksen esitys HE 195/2017 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 3. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään ympäristövaliokuntaan, jolle hallintova-
+liokunnan ja talousvaliokunnan on annettava lausunto.
+
+Keskustelu
+
+17.01 Asunto-, energia- ja ympäristöministeri Kimmo Tiilikainen (esittelypuheen-
+vuoro): Arvoisa rouva puhemies! [Hälinää — Puhemies koputtaa]
+
+Puhemies Paula Risikko: Rauhoitutaanpa nyt siellä salissa ja kuunnellaan, mitä hyvää sa-
+nomaa ministeri Tiilikaisella on.
+
+Kiitoksia, rouva puhemies! Hyvääpä sanomaa hyvinkin, nimittäin minulla on ilo esitel-
+lä hallituksen esitys jätelain uudistamisesta. — Taustallahan tässä jätelain uudistamisessa
+on hallitusohjelman kirjaus, jossa hallitusohjelman mukaisesti jätelakia muutetaan siten,
+että kunnille jätelaissa annetut yksinoikeudet rajataan asumisessa syntyviin jätteisiin alu-
+eelliset erityispiirteet huomioiden. Ja totta kai tässä valmistelussa on otettu huomioon
+myös tällä vaalikaudella uudistettu hankintalaki, jonka käsittelyn yhteydessä eduskunta
+edellytti, että valtioneuvosto ryhtyy lainsäädäntöä täsmentäviin toimiin nimenomaan tällä
+jätetoimialalla. Nyt se asia on ympäristöministeriössä valmisteltu, on tehty vaikutusarvioi-
+ta, erillisselvityksiä sekä yhteistyötä työryhmässä keskeisten sidosryhmien kanssa.
+
+Esityksen tavoitteet voidaan kiteyttää kahteen asiaan. Toisaalta tavoitteemme on var-
+mistaa jätehuollon toimivuus koko maassa sekä pikkuhiljaa tiukkenevien kierrätystavoit-
+teiden saavuttaminen, ja toinen tavoite on parantaa jätealan kilpailuneutraliteettia ja edis-
+tää kilpailua ja yritystoiminnan mahdollisuuksia jätehuollon saralla.
+
+Arvoisa puhemies! Vastuunjakoa yhteiskunnassa syntyvistä jätteistä muutettaisiin sillä
+tavalla, että kuntien yksinomaiselle vastuulle jää jatkossakin asumisessa syntyvä yhdys-
+kuntajäte sekä kunnan hallinto- ja palvelutoiminnassa syntyvä yhdyskuntajäte. Se muutos,
+mitä kunnan vastuulta poistuu, liittyy siihen, että sosiaali- ja terveyspalveluiden ja koulu-
+tustoiminnan yhdyskuntajäte siirtyy nyt pois tästä kunnan yksinoikeuden piiristä. Kun ar-
+vioidaan tuota, kuinka suuri muutos tämä nyt sitten on jätelaitosten toiminnan kannalta,
+niin tuo volyymi, mikä tästä vastuunrajauksesta aiheutuu, on noin 230 000 tonnia yhdys-
+kuntajätettä, joka nyt lähtee pois kuntien yksinoikeuden tai monopolin piiristä. Se vastaa
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+karkeasti noin kymmentä prosenttia kuntien jätehuollon sekä määrällisestä että rahallises-
+ta volyymista.
+
+Paitsi että on tämä kuntien yksinoikeuden piiriin kuuluva jätehuolto, kunnat edelleen
+ovat velvollisia vastaamaan jätehuoltopalveluitten tarjoamisesta niin sanotun toissijaisen
+vastuun perusteella myös yrityksille silloin, kun markkinaehtoista palvelua ei ole saatavil-
+la. Tässä lainsäädännössä tavoitteena on nimenomaan täsmentää tuota määritelmää ja
+markkinapuutteen todentamista, milloin on tilanne, jossa kuntien yksinoikeuden ulkopuo-
+lella oleva jätehuolto voidaan toteuttaa markkinaehtoisesti, ja milloin sitä toimivaa mark-
+kinaa ei ole, jolloin kunnalla on sitten velvollisuus tuo jätehuolto järjestää.
+
+Tämän lisäksi meillä on sitten kokonaan markkinaehtoisesti toimivaa jätehuoltoa, ja sii-
+hen tämä jätelaki asettaa nyt nuo hankintalain edellyttämät rajoitukset. Kuntien jätehuolto-
+yhtiöt on usein yhtiöitetty, mutta ne ovat niin sanottuja sidosyksiköitä, ja tämän sidosyk-
+sikköaseman säilyttäminen, jolloin kunnan yhtiö voi kuntien jätehuollon järjestää, edellyt-
+tää sitä, että yli 10 prosenttia tästä jätehuollon liiketoiminnasta ei tule tältä kilpaillulta sek-
+torilta. Tämä 10 prosentin raja on voimassa pitkän siirtymäkauden ajan aina vuoteen 2030.
+Sen jälkeen se putoaa hankintalain yleiseen ulosmyyntirajaan, 5 prosenttiin. Kuitenkaan
+hankintalaissa olevaa 500 000 euron euromääräistä rajaa ei tänne jätehuollon alueelle so-
+velleta.
+
+Kaiken kaikkiaan tällä esityksellä varmistetaan siis jätehuollon toimivuus kaikkialla
+maassa, parannetaan yksityisten toimijoitten osuutta, lisätään hieman sitä markkinoille tu-
+levaa volyymiä täällä jätehuollossa. Ja mielestäni tässä on aivan avainasemassa jatkossa se,
+että julkiset toimijat ja yksityiset toimijat pelaavat hyvin yhteen, ja näin itse asiassa käy-
+tännössä valtaosin tälläkin hetkellä käytännön jätehuolto tapahtuu. Tätä yhteistoimintaa,
+toimivaa sellaista, perään juuri sen takia, että kun Suomi tavoittelee kiertotalouden kärki-
+asemaa maailmassa — sellaisessa asemassa tietyllä lailla olemmekin jo, se asema täytyy
+säilyttää — siihen liittyy oleellisesti se, että jätteitten materiaalista kierrätystä voidaan
+edelleen lisätä. Myös EU:n kierrätystavoitteet tiukentuvat. Niissä pysyminen edellyttää hy-
+vää yhteistyötä julkisen toimijan ja yksityisen toimijan välillä.
+
+Osittain tähän tarpeeseen tulee sitten jätelain uudistuksen toinen vaihe. Nyt kuluvana
+vuonna valmistelemme esitystä, jossa tuodaan jätealalle markkinapaikka, digitaalinen
+markkinapaikka. Tämän markkinapaikan toinen tehtävä on osoittaa markkinan toimivuus
+tai toimimattomuus, jolloin ratkaistaan se, tuleeko kunnan vastuulle toissijaisen vastuun
+perusteella myös yksityisen jätehuollon palveluitten järjestämistä. Jos markkinapaikalla on
+todennettavissa, että markkina ei toimi, kunta tulee peliin ja hoitaa homman. Jos taas mark-
+kinapaikalla voidaan todeta, että markkina toimii, hieno juttu.
+
+Mutta tämä markkinapaikka voi olla paljon enemmän kuin vain jätelain markkinapuut-
+teen todentaminen. Siitä voidaan kehittää markkinapaikka, joka palvelee laajemmin kier-
+totaloudessa erilaisten sivuvirtojen markkinaa, materiaalien toissijaista käyttöä, jossa sivu-
+virtojen tuottajat ja niitä mahdollisesti tarvitsevat yritykset kohtaavat toisensa. Tämänkal-
+taista digitaalista markkinapaikkaa kaipaamme kiertotalouden edistämiseksi, ja sitä koske-
+vaa lainsäädäntöä valmistellaan jatkossa.
+
+Arvoisa puhemies! Tässä pääpiirteissään jätelain sisältö. — Kiitoksia.
+
+Puhemies Paula Risikko: No niin, sitten mennään puheenvuoroihin, ja siellä on edustaja
+Kulmala. — Olkaa hyvä.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+17.10 Kari Kulmala sin: Arvoisa puhemies! Esityksessä ehdotetaan muutettavaksi yh-
+dyskuntajätehuollon vastuunjakoa koskevia jätelain säännöksiä hallituksen ohjelman mu-
+kaisesti siten, että kunnille säädetty vastuu rajattaisiin pääosin vain asumisessa syntyvään
+jätteeseen. Mielestäni tämä olisi kunnille hyvä ja myönteinen esitys.
+
+Esityksessä jätelakiin ehdotetaan tehtäväksi hallitusohjelman toimeenpanemiseksi tar-
+peelliset yhdyskuntajätehuollon vastuunjakoa koskevat muutokset. Jätelain 32 §:n mu-
+kaan kunnan on järjestettävä asumisessa syntyvän jätteen jätehuolto. Kunnan vastuulle
+kuuluvat myös asumisessa syntyvän vaarallisen jätteen vastaanotto ja käsittely, ja näin tu-
+lee olla jatkossakin. Voin kokemuksesta kertoa, että erityisesti myrkkyjen ja happojen
+kanssa on oltava erityisen varovainen. Kunnan järjestämisvastuu muodostaakin yhteiskun-
+tajätehuollon perustan, millä turvataan asianmukainen jätehuolto kaikissa olosuhteissa
+joka puolella maata.
+
+Jätteiden asianmukaiseen kierrätykseen on panostettava. Esityksenkin mukaan kierrä-
+tys saattaa lisääntyä erityisesti sellaisilla jätteen haltijoilla, joiden toiminnassa syntyy sekä
+yhdyskuntajätettä että muuta jätettä, mikäli yksityinen jätehuoltoyritys pystyy tarjoamaan
+jätehuollon kokonaispalveluna esimerkiksi monipuolisia lajittelu- ja kierrätyspalveluja.
+Tämä seikka on syytä huomioida.
+
+Kesämökeille on tyypillistä, että niitä käytetään vain keskikesällä. Kun mökillä kuluu
+vuodessa vain muutama viikko, satoja euroja maksava jätemaksu ärsyttää. Vaikeakulkui-
+silla seuduilla, esimerkiksi saaristossa, aluekeräyspiste on heille usein ainoa vaihtoehto.
+Muualla mökkiläisen tulee hankkia oma tai kimppa-astia. 
+
+Yksi huomioitava seikka, joka liittyy tähänkin hallituksen esitykseen, on, miten paljon
+autiotalo tuottaa jätettä. Autiotalot ja mökit lisääntyvät koko ajan. Näidenkin omistajat
+ovat velvoitettuja liittymään järjestettyyn jätehuoltoon. Otan esimerkin: Asukkaat ovat
+muuttaneet asunnostaan pois 15 vuotta sitten. Siitä lähtien talo on ollut tyhjillään. Tyhjänä
+olevan talon käytöstä ei siis tule jätettä. Jätemaksu on kuitenkin maksettava sopimuksen
+mukaan.
+
+Mikäli asuinkiinteistön jätemaksuun haetaan kohtuullistamista kiinteistöllä olevan ra-
+kennuksen asuinkelvottomuuden takia, on hakemukseen liitettävä erillinen kirjallinen sel-
+vitys asuinkelvottomuuden perusteista. Kun soittaa alueellisen jätelautakunnan toimis-
+toon, niin sieltä saa lomakkeen, jolla voi anoa niin sanottua armoa perusmaksusta. Talon
+asumiskelvottomuus on selvitettävä, ja mukaan on liitettävä terveystarkastajan ja todennä-
+köisesti myös kiinteistönvälittäjän, karrikoidusti sanottuna lääkärin, psykiatrin ja kunnan-
+johtajankin, lausunnot. Ainakin osa näistä on maksullisia lausuntoja.
+
+Kymmenkunta vuotta sitten yritettiin rakennuttaa joka taloon kalliit jätevesisysteemit,
+ettei Itämeri saastuisi mummonmökin jätteistä. Järki onneksi lopulta voitti. Olisikohan
+syytä vapauttaa myös autiotalot ja mökit jätemaksuista, mikäli niissä ei jätettä ole eikä tu-
+le? Ainakin itse maksan mielelläni palveluista, joita tarvitsen, mutta en sellaisista palve-
+luista, joita en tarvitse ja jotka tuntuvat vain rahastukselta ja mielivallalta.
+
+17.14 Silvia Modig vas: Arvoisa rouva puhemies! On yksi hallituksen tavoite, jota kanna-
+tan vahvasti ja jota tuen loppuun asti, ja se on se, että me olisimme ja pysyisimme kierto-
+talouden kärkimaana. Se on valtava mahdollisuus meille. Se on meille ratkaisu moniin
+haasteisiin, mitä tulee ympäristöön, ja se on meille myös valtava mahdollisuus kestävään
+talouskasvuun. Ja kiertotalouden näkökulmasta minä kannan huolta tämän esityksen osal-
+ta juuri tästä muutoksesta, mitä tapahtuu kunnan vastuulle. Kun kunnan vastuulta poistuu
+3
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+niin monta osa-aluetta — sote-palveluiden, koulutustoiminnan ja julkisen hallinnon ja pal-
+veluiden jätteet — niin on riskinä, että se itse asiassa voisi toimia kiertotalouden edellytyk-
+siä vastaan, kun se kenttä pirstoutuu ja koko se kokonaisuus ja sen suunnitelmallisuus ha-
+joaa. Onko tätä otettu huomioon? Onko ajateltu sitä siirtymävaihetta, miten varmistetaan
+se, että se ei toimi tätä erittäin tärkeää päämäärää vastaan? Se on aito huoli.
+
+Toinen kysymys, kun nyt on mahdollisuus saada ministeriltä näkemystä, tästä sidosyk-
+siköiden ulosmyynnistä: Miten sen on arvioitu vaikuttavan kuntalaisten jätemaksuihin?
+Kun tietyt [Puhemies koputtaa] kaupanteon ja asiakasmahdollisuudet poistuvat, niin voiko
+siitä esimerkiksi syrjäisemmillä seuduilla seurata paine jätemaksujen korottamiseen?
+
+17.15 Pauli Kiuru kok: Arvoisa rouva puhemies! Ensinnäkin kiitos ministeri Tiilikaisel-
+le asian valmistelusta ja siitä, että olette pitänyt tässä matkan varrella ainakin ympäristöva-
+liokunnan hallituspuolueen jäseniä hyvin kartalla, missä mennään ja miten valmistelu ete-
+nee. Se on arvokas asia, että olemme saaneet eri vaiheista kuulla ja soveltuvin osin sitten it-
+sekin vaikuttaa siihen valmisteluun.
+
+Se, mitä edustaja Modig sanoi: kierrätys on tärkeätä, ja lopullinen tavoite on tietysti se,
+että jätteitä ylipäätään syntyisi vähemmän ja sitten jos niitä syntyy, niin ne käytetään te-
+hokkaasti raaka-aineena hyödyksi.
+
+Muutama kysymys ja kommentti tästä esityksestä ministeri Tiilikaiselle.
+Ensinnäkin täällä hallituksen esityksessä sivulla 16 puhutaan siitä, että jätteentuottajan
+
+vastuulle siirtyvät jätevirrat saattavat päätyä energiakäyttöön, joissakin tapauksissa ulko-
+maille. Kauhean todennäköistä se ei nyt tiettävästi ole, mutta miten ministeri arvioi sitä,
+onko tässä riskiä tämmöisestä jätteen ulkomaille siirtymisestä ja pahimmassa tapauksessa
+dumppaamisesta epämääräisiin kohteisiin, yleensä kehitysmaihin? Miten tähän on varau-
+duttu? Varmasti on varauduttu, mutta jos siihen saisi vähän tarkennusta.
+
+Toinen kysymys koskee sivulla 15 olevaa ympäristövaikutusten arviointia. Täällä puhu-
+taan, että jätehuoltokapasiteetin supistuminen voisi heikentää huoltovarmuutta erilaisissa
+häiriötilanteissa, kuten epidemioiden tai kuljetuslakkojen yhteydessä. Sitä hieman jäin
+pohtimaan, että jos kunnan kapasiteetti joiltain osin pienenee, niin eikö sitten vastaavasti
+yksityistä tule tilalle, ja sitä kautta tämä huoltovarmuus saattaa jopa parantua, kun toimi-
+joita on markkinoilla Suomessa enemmän, sekä yksityisiä että kunnallisia. Eli kysymys tä-
+hän huoltovarmuuteen ja häiriötilanteisiin.
+
+Edelleen täällä puhutaan siitä, että huoltovarmuuden turvaamiseksi on vireillä häiriöti-
+lanteiden varalle jätehuoltoa koskevaa säädösvalmistelua. Olisiko siitä mahdollista saada
+jonkinlaista tietoa, mitä se mahdollisesti pitää sisällään?
+
+Sitten nostan yhden lehtiartikkelin huolen. Aamulehti kirjoitti tammikuussa 8. päivä au-
+keaman jutulla otsikolla "Siivu kuntien jätehuoltoa yksityisille". Ja täältä löytyy sitten joi-
+takin tämmöisiä uhkia, joita on maalailtu, ja yksi on se — suora sitaatti — että "kuntien jä-
+telaitokset ovat arvioineet, että jätemaksuja täytyy nostaa 10—30 prosenttia". Tämä siis ly-
+hyenä otteena tästä jutusta. Ja ymmärtääkseni tämä korotus, mikäli näin tapahtuisi, koskisi
+lähinnä kotitalouksia. Onko tämä huoli aiheellinen, ja koskeeko se koko Suomea vai pel-
+kästään Pirkanmaata? Miten ministeri tämän asian näkee?
+
+Kokonaisuutena pidän esitystä hyvänä, ja varmasti perehdymme asiaan tarkemmin ym-
+päristövaliokunnassa, joka tästä tekee mietinnön. — Kiitos.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+17.19 Eeva-Maria Maijala kesk:  Arvoisa puhemies! Jätelain tavoitteena ihan siinä
+1 §:ssä kirjoitettuna on vähentää jätteiden määrää ja haitallisuutta ja edistää luonnonvaro-
+jen kestävää käyttöä ja varmistaa toimiva jätehuolto. Tästähän tässä esityksessä on ihan
+puhtaimmillaan kysymys, ja varmasti tämä on vain pieni osa tätä kokonaisuutta, missä
+koko ajan mennään eteenpäin.
+
+Hyvää on, että tässä laissa on nyt tuotu selvästi esille, että tavoitteena on varmistaa, että
+koko maassa jätteiden asianmukainen hoitaminen on kunnossa jatkossakin, vaikka tässä li-
+sätään kilpailua, aika paljonkin. Tärkeää on se, että meillä on koko maassa toimiva järjes-
+telmä, mutta nyt sitten meidän pitää kuitenkin pyrkiä entistä parempien systeemien järjes-
+tämiseen. Nyt tällä hetkellä on tilanne se, että meidän tulee parantaa kilpailua kaikissa
+asioissa, ja EU-lainsäädäntö, hankintalaki ynnä muut velvoittavat meitä myös kilpailun li-
+säämiseen. Mutta ei pelkkä kilpailu ole se syy, että näitä asioita tehdään, vaan se, että mei-
+dän pitää miettiä, millä tavalla me voisimme kierrättää jätteitämme. Me muutenkin käsit-
+telemme niitä ihan kokonaan uudella tavalla.
+
+Yksityisten toimijoiden osuus tulee jatkossa lisääntymään, ja se on varmasti tarpeelli-
+nenkin asia, että sillä puolella mennään eteenpäin. Tärkeää ja hyvää on se, että jatkossakin
+julkiset ja yksityiset toimivat yhdessä, ja yhä enemmän varmasti myöskin yksityisten suun-
+taan tullaan siirtymään sillä tavalla, että heillä on vastuu myöskin meidän yhteisistä asiois-
+tamme.
+
+Uusia toimintamalleja tulee varmasti esille, ja mitä ne uudet toimintamallit nyt sitten
+ovat? Miten on kierrätyksen laita, ja miten jätteitä käsitellään, mitä niistä tulee tuotteina?
+Kun puhun tuotteista, niin ilman, että me muutamme tätä järjestelmää ja systeemejä, me
+emme pääse jätehuollossa eteenpäin.
+
+Mitä vaikutuksia tällä esityksellä on sitten meidän toimiviin järjestelmiin? Meillähän on
+tällä hetkellä jätehuoltopuolella todella toimivat järjestelmät. Ei tällä hetkellä Suomessa
+missään jää jätteitä nurkkiin lojumaan, vaan ne menevät eteenpäin. Mutta jäte — onko se
+loppujen lopuksi jätettä, vai onko se raaka-aine? Meillä on pelko, että tämä kuntien perin-
+teinen, hyvin hoidettu jätehuoltosysteemi romuttuu tässä. Mutta miten me saamme varmis-
+tettua tätä asiaa eteenpäin? Onhan se tämän lain valmisteluvaiheessa ollut meillä paljon
+esillä, miten me tässä eteenpäin menemme: Onko tämä varmasti järkevä systeemi? Kuinka
+kalliiksi tulee kuntien tehtävien hoitaminen jatkossa? Miten mikäkin jäteasia hoidetaan?
+Kyllä minä uskon, että tällä lailla saamme kuitenkin varmistettua sen, että me saamme
+myöskin kuntien perinteiset palvelut hoidettua kohtuullisilla kustannuksilla, että me taval-
+liset kuluttajat emme joudu maksamaan älyttömiä maksuja jatkossakaan. Kunnilla säilyy
+onneksi toissijainen vastuu, etteivät kenelläkään jätteet jää nurkkiin lojumaan.
+
+Mutta mitä tämä jäteala on sitten tulevaisuudessa? Toivon mukaan, kun tässä menee
+kymmenen vuotta eteenpäin, emme käytä enää sanaa ”jäte”, vaan puhumme sanasta ”raa-
+ka-aine”. Eli meidän tehtävämmehän on pitää raaka-aineesta hyvää huolta. Meidän jätteet-
+hän ovat muuten tällä hetkellä jo aika puhtaita raaka-aineita. Ei meillä ole näissä kylmissä
+olosuhteissa oikein todellisia jätteitä enää paljoakaan, meillä on mahdollisuudet käsitellä
+niitä hyvinkin hyvällä tavalla ja katsoa, mitä kaikkea niistä voitaisiin saada aikaiseksi —
+mitä ja millä tavalla kenenkin kannattaa kerätä, mitä tuotteita pystymme jätteistä saamaan
+aikaiseksi? Se, että ne poltetaan, tulee energiaa, on varmasti viimeinen vaihtoehto. Kyllä
+niistä raaka-aineista saa kaikkia järkeviä toimintojakin aikaiseksi, elikkä voimme kierrät-
+tää, uudelleenkäyttää ja löytää sieltä myös ihan uudenlaisia raaka-aineita.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+17.24 Harri Jaskari kok: Arvoisa rouva puhemies! Kiitos arvoisalle ministerille tämän
+hallituksen esityksen esittelystä. Esittäisin muutamia kysymyksiä ja kommentteja ministe-
+rille.
+
+Olen samaa mieltä kuin edellinen puhuja, edustaja Maijala, että jos me ajattelemme ny-
+kytilannetta mutta myöskin lähitulevaisuutta, niin jäte ei todellakaan enää ole jäte vaan se
+on raaka-aine. Nyt ollaan Suomessa jo aika edistyksellisessä vaiheessa kaikkien niitten tek-
+nologioiden osalta, joilla pystytään jätteet jakamaan erilaisiin fraktioihin. Ne voivat olla
+lääkeaineita, ne voivat olla sitä energiaa, ne voivat olla kierrätystuotteita, vastaavia. Tämä
+täytyy mielestäni nyt huomioida myöskin tässä jätelain esittelyssä, ja siinä oikeastaan
+haastan, että onko se riittävästi huomioitu, että jäte ei enää ole jätettä vaan ainoastaan tie-
+tyllä pienellä fraktiolla.
+
+Kun me talousvaliokunnassa kävimme lävitse hankintalakia, me halusimme tehdä hy-
+vinkin tiukat rajat siinä, miten paljon markkinoilla voivat toimia kunnalliset yhtiöt —
+markkinoilla voivat toimia, mutta pitäisi toimia markkinoiden ehdoilla, jos oletetaan sel-
+lainen tilanne, että jäte ei olekaan enää jäte vaan raaka-ainetaustainen — ja sen takia me
+teimme jopa erittäin tiukat rajat siitä, että toimitaan samoilla ehdoilla, koska näyttää, että
+jäte on tulossa sellaiseksi raaka-aineeksi, että siitä saa myöskin hintaa. Sen seurauksena ol-
+laan talousvaliokunnan puolella hiukan huolissaan siitä, että ollaan tehty hyvinkin pitkät
+siirtymäajat, jotka kenties hukkaavat sellaisen mahdollisuuden, mitä tässä voisi tehdä, että
+me olisimme tietyllä tavalla ennakkoon ja aivan eturivissä maailmassa siinä, mitenkä tule-
+vaisuudessa jätteitä käsitellään, ja liittyen tähän kiertotalouteen se polttaminen on lähes
+viimeinen asia, mitä pitäisi tehdä. Me tarvitsemme Suomessa aidosti sellaisia pilotteja ja
+aidosti sellaisia hankkeita, joilla me pystymme maailmalle näyttämään, että suomalaisen
+teknologian avulla pystytään tekemään jätteestä jotain aivan muuta eli kiertotalouden eri-
+laisia tuotteita.
+
+Sen takia tämä ensimmäinen kysymys liittyy oikeastaan siihen, olivatko näin pitkät siir-
+tymäajat tarpeen sen takia, että julkinen sektori, kunnalliset jätehuoltoyhtiöt sopeutuisivat
+jotenkin tähän, ja toiseksi, liittyykö siihen sellainen, että me menetämme tietyllä tavalla
+edelläkävijäaseman. Silloin tulee kysymys, edistääkö tämä hallituksen esitys aidosti kier-
+totaloutta. Tämä on hyvä uudistus liittyen tähän markkinapaikkaan, jos me pystymme
+näyttämään tämän markkinapaikan avulla, että se jäte menisi — tai niin sanottu jäte, ny-
+kyinen raaka-aine — oikeaan paikkaan, jossa aidosti olisi arvoa enempi kuin polttamalla.
+Tällaisen keskustelun haluan, arvoisa ministeri, myöskin nostaa tänne esille, että me yh-
+dessä analysoimme, mikä olisi se oikea tilanne Suomen jätehuollon osalta. Maailmalla
+kenties ei bioa riitä tarpeeksi, kun puhutaan biotaloudesta, mutta jätettä riittää. Jos täällä
+osataan ensimmäisenä tehdä ne jätteet sellaiseen muotoon tai laittaa sellaiseen kiertoon,
+että se aidosti säästää myöskin luontoa, niin se kannattaisi mielestäni tehdä. Ja tämä laki —
+haastan: edistääkö se tätä tarpeeksi hyvin?
+
+Puhemies Paula Risikko: Otetaan yksi puheenvuoro, sen jälkeen ministeri vastaa, ja sit-
+ten jatketaan. Eli seuraavaksi edustaja Adlercreutz, olkaa hyvä. 
+
+17.28 Anders Adlercreutz r: Ärade talman! Tämä esityshän juontaa juurensa niin sanot-
+tuun strategiseen hallitusohjelmaan, jossa on kyllä yllättävästi tällaisia hyvin teknisiä kir-
+jauksia siitä, miten asiat tulee suorittaa. Näkisin, että tällainen tavoite, jossa puhutaan suo-
+raan vaikka nyt kuntien jätehuollosta ja siitä, mitä siihen kuuluu, ei kovin strategiselta ta-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+voitteelta tunnu. Sen sijaan kiertotalouden edistäminen sellaisenaan on toki strateginen ta-
+voite. No, sitä on rajattu jo hallitusohjelmassa tällä tavalla, joka nyt saa seurauksia tässä
+esityksessä, jolla on seurauksia, joista monet ovat sitä mieltä, että ne eivät edistä kiertota-
+loutta ja järkevää jätehuoltoa.
+
+Tällaiset jätteenkäsittelylaitoksethan ovat hyvin raskasta infraa, johon kunnat ovat sat-
+sanneet paljon rahaa. Niitten tulevaisuus on nyt osittain epäselvä, kun rajataan kunnan
+markkinaehtoista toimintaa, joka pääsääntöisesti on syntynyt tarpeesta eri puolille Suo-
+mea. Meillä on hyvin erilaisia paikkakuntia, joilla yksityisiä toimijoita on tarjolla erilaisia
+määriä, ja pakosta on sitten syntynyt kunnallista markkinaehtoista toimintaa, koska sille on
+ollut tarvetta. No, nyt sitä rajataan 5 prosenttiin — ensin 10:een, sitten 5:een — ja sillä voi
+olla yllättäviä seurauksia, jotka eivät välttämättä tätä kiertotaloutta edistä. Eli toivon, että
+kun tätä nyt arvioidaan — ja tietenkin talousvaliokunnalla on ollut tässä ehkä elinkeinonä-
+kökulma, ympäristövaliokunnalla tässä on ollut toinen näkökulma, ehkä enemmän keskit-
+tynyt ympäristöasioihin elikkä kiertotalouteen — niin näiden pitäisi nyt jollain tavalla olla
+yhteensovitettavissa.
+
+Nyt kun puhutaan siitä, [Puhemies koputtaa] ollaanko eturivissä vai ei, niin voi todeta,
+että Suomi ja Puola ovat ne kaksi maata Euroopassa, [Puhemies: Aika!] jotka ovat poik-
+keamassa tästä 20 prosentin rajasta. Eli siinä eturintamassa ollaan.
+
+Puhemies Paula Risikko: Ministerin vastaus, 3 minuuttia, olkaa hyvä.
+
+17.30 Asunto-, energia- ja ympäristöministeri Kimmo Tiilikainen:  Kiitoksia, arvoisa
+puhemies! Muutamiin kysymyksiin ja huoliin, mitä tässä tuli.
+
+Aloitan tuosta edustaja Modigin kysymyksestä, pelosta, ettei tässä nyt pirstaloidu liikaa
+rajausten myötä tuo jätehuolto. Sama liittyy näihin huoliin siitä, nousevatko maksut, tai toi-
+saalta sitten siirtymäaikojen pituuksiin. Siis nyt täytyy huomioida, että 90 prosenttia tällä
+hetkellä kunnallisten monopoliyhtiöitten piirissä olevasta jätehuollosta säilyy siellä ja noin
+10 prosenttia tästä volyymista ei automaattisesti ole enää kuntien yksinoikeudella, mutta
+markkinapuutteen takia myös näistä jätteistä iso osa varmasti jatkossakin päätyy kunnal-
+listen yhtiöitten käsiteltäväksi jossain päin maata. Eli kovin suurta pirstaloitumista tässä ei
+ole, ja siitä osaltaan myös pitää huolen tämä pitkä siirtymäaika, mistä edustajat Jaskari ja
+Adlercreutz puhuivat täysin toisistaan eriävästä näkökulmasta samaa ongelmaa lähestyen.
+Toisen mielestä pitkä siirtymäaika jäykistää liikaa, ja toinen pohtii, riittääkö tämä pitkä-
+kään siirtymäaika, kun 5 prosentin ulosmyyntiraja on siellä takana, turvamaan kunnallis-
+ten investointien kannattavaa pyörittämistä ja poistoa. Tässä on monen eri näkökulman vä-
+lillä tuota herkkää tasapainoa ja kultaista keskitietä etsitty, ja olen itse hyvin tyytyväinen
+tähän esitykseen.
+
+Huoli tuosta maksujen noususta: Jotkut jätelaitosyhdistykset arvelivat, että pari prosent-
+tia, jotkut heittivät jopa, että 30 prosenttia nyt jätemaksut kasvavat. Itse lähden nyt tämmöi-
+sestä tulitikkuaskilaskelmasta. Jos 10 prosenttia liikevaihdosta poistuu, samalla poistuvat
+myös sen 10 prosentin liikevaihdon aiheuttamat kustannukset. Järkeni ei riitä selittämään,
+että tämänkaltaisesta muutoksesta tulisi kovin suuria korotuspaineita. Toki olosuhteet ovat
+erilaiset, mutta erityisesti siellä, missä markkina ei toimi, missä ei ole näitä yksityisiä pal-
+veluita, kunnat tai kunnalliset yhtiöt edelleen tuon toissijaisen vastuun nojalla todennäköi-
+sesti käsittelevät saman määrän jätteitä kuin aiemminkin, jolloin sitä hintojen nousupainet-
+ta ei tämän lain myötä tule laisinkaan. Olen hyvin maltillinen ja luottavainen tuon suhteen,
+7
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+että tämän lain ei pitäisi aiheuttaa hintojen korotuspaineita, ellei sitten tämän varjolla ha-
+luta lähteä hintoja nostamaan.
+
+Puhemies! Jos vielä sallitaan, niin tämä pohdinta kiertotalouden edistymisestä. Tämä-
+hän on luonnollisesti vain yksi lainsäädäntöhanke, että kiertotaloutta olemme edistäneet.
+Valtakunnallinen jätesuunnitelma on uudistettu, esimerkiksi suuria sivuvirtavolyymeita
+koskeva maanrakentamisasetus on muutettu, missä teollisuuden tuhkien, kuonien, erilais-
+ten murskeiden käyttöä rakentamisessa helpotetaan kiertotalouden hengessä. Edelleen yh-
+dyskuntajätteitten kierrätyksessä olemme rahoittaneet erilaisia kokeiluhankkeita, on eril-
+liskeräysvelvoitteiden valmistelua sen lisäämiseksi. Eli tämä on ainoastaan yksi osa, missä
+varmistetaan toimiva jätehuolto, ja samalla myös avataan hieman mahdollisuuksia lisää
+yksityisille toimijoille.
+
+Puhemies Paula Risikko: Puhujalistalle.
+
+17.34 Markku Pakkanen kesk: Arvoisa rouva puhemies! Itse myös kannan hiukan huol-
+ta tästä esityksestä ja olenkin pikkusen kriittinen niin edustaja Jaskarin puheenvuoroon
+kuin myös ministerin äsken antamaan vastaukseen, esimerkiksi tähän, että vaikuttaako hin-
+taan, että jos on 10 prosenttia liikevaihdosta pois, niin kustannuksistakin lähtisi 10 prosent-
+tia pois. Eihän se näin toimi yrityselämässä. Kyllä ne kiinteät kustannukset säilyvät siellä.
+Henkilöstökulut säilyvät, ellei ihmisiä irtisanota. Kalustokustannukset säilyvät, ellei kalus-
+toa myydä. Tuolla yritysmaailmassa näinhän se menee.
+
+Itse kannan huolta myös tästä huoltovarmuuskysymyksestä. Kun alueelta, missä kunnal-
+linen jätehuoltoyhtiö hoitaa, viedään mahdolliset edellytykset hoitaa sitä toimintaa, niin
+kyllähän se on huoltovarmuuskysymys. Näin on tuolla haja-asutusalueilla, missä useasti
+pienyrittäjät hoitavat tätä jätehuollon keräystä ja kunnallinen jäteyhtiö sitten kantaa siitä
+jälkikäsittelystä vastuun.
+
+Kotitalouksille tämä saattaa tarkoittaa hinnankorotuspaineita, mikäli kuntien jäteyhtiöil-
+tä viedään toimintaedellytyksiä pois, mutta totta kai tässä on mahdollisuuksia myös. Tämä-
+hän tarjoaa yksityiselle suurelle jätehuoltoyritykselle tämän bisnesmahdollisuuden, mitä
+täällä edustajat Jaskari ja Maijala omissa puheenvuoroissaan toivat esiin. Se on totta, että
+jäte on tulevaisuudessa raaka-ainetta ja tulee olemaan kovan luokan bisnestä, ja kuka sen
+bisneksen sitten ottaa, varmasti tekee sitä markkinaehtoisesti, mutta se ei tule tekemään sitä
+sellaisilla alueilla, missä niitä markkinoita ei synny, mutta sinne jää tälle kunnalliselle yh-
+tiölle edelleen se velvollisuus hoitaa jätehuolto.
+
+Että tämä on kyllä monella tavalla kinkkinen kysymys, ja toivon, että valiokuntakäsitte-
+lyssä näihin asioihin kiinnitetään erityistä huomiota.
+
+17.36 Ari Torniainen kesk: Arvoisa rouva puhemies! Hallituksen esityksen tavoitteena
+on tukea kiertotaloutta, ja uudistuksella pyritään edistämään jätealan kilpailua ja myöskin
+yritystoimintaa. Tosiasia on varmaankin se, että nykyisin jätteeksi luokiteltavat aineet voi-
+vat olla tulevaisuuden raaka-aineita ja niillä voidaan myös tulevaisuudessa jopa korvata
+luonnonvarojamme.
+
+Eri puolilla Suomea ollaan hyvinkin erilaisessa tilanteessa, ja siksi uskon, että jätealan
+tulee olla julkista palvelua ja se voi olla myöskin yritystoimintaa. On hyvä, että tässä laissa
+turvataan se julkinen palvelu, jos ei sitä yritystoimintaa ole siellä alueella. Yhteistyötäkin
+8
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+tällä alalla tarvitaan, jotta pääsemme noihin asetettuihin kierrätystavoitteisiin, mitä Suo-
+messa on asetettu.
+
+Täällä edustaja Jaskari omassa puheenvuorossaan hieman kritisoi muutamaa asiaa.
+Omasta mielestäni taas on hyvä se, että hallituksen esityksen mukaan kunnan jätehuolto-
+yhtiö voi harjoittaa vuoden 2029 loppuun saakka markkinaehtoisesti enintään 10 prosent-
+tia liiketoiminnastaan vaarantamatta sidosyksikköasemaansa. Se on hyvä asia, ja tästä on
+käyty keskustelua, ja uskon, että tämän lakiesityksen, mikä nyt on täällä meillä esillä, tu-
+leminen hieman pitkittyi myöskin tästä asiasta johtuen, mutta on hyvä, että se on näin.
+
+Samoin on myöskin hyvä omasta mielestäni, että hankintalain mukaista 500 000 euron
+rajoitusta ei sovelleta nyt tähän jätelakiin. Erittäin hyvä asia. Tästä oli paljonkin kritiikkiä.
+
+Tämä jätelain uudistus on kaiken kaikkiaan kaksiosainen. Ministeri Tiilikainen, te tuos-
+sa omassa avauspuheenvuorossanne [Puhemies koputtaa] jo oikeastaan viittasitte tähän
+toiseen tulevaan, tämän vuoden aikana valmisteltavana olevaan hallituksen esitykseen, jos-
+sa kehitetään jätealan markkinoita perustamalla jätteiden ja [Puhemies: Aika!] sivuvirto-
+jen markkinapaikka sekä täsmentämällä kunnalliseen jätehuoltoon liittyviä kirjanpitovel-
+voitteita. Kun nimenomaan tästä kiertotaloutta [Puhemies: Aika!] on kritisoitu, niin onko
+tämä nyt ratkaisu siihen asiaan?
+
+17.39 Krista Mikkonen vihr: Arvoisa puhemies! Lain tavoitteet ovat hyvät: se, että kehi-
+tetään jätealan markkinoita, jätehuollon etusijajärjestyksestä pidetään kiinni ja lisätään
+kierrätystä. Mutta on kyllä totta, että kyllä tämä harvaan asutuilla alueilla todennäköisesti
+tulee kustannuksia kotitalouksille lisäämään. Kun edellinen jätelaki astui voimaan, olin
+itse töissä jätehuoltoyhtiössä varmistamassa, että toimitaan lain mukaisesti, ja siihen liitty-
+viä muutoksia valmistelemassa. Kyllähän silloin jo näki sen, että nämä yritykset, jotka toi-
+mivat alalla, halusivat vain kerätä sen kerman päältä ja jättivät kunnan vastuulle ne paikat,
+mistä oli hankala hakea tai missä jätemäärät olivat pieniä. Luulen, että tässä käy ihan sa-
+moin, ja sen takia toivoisin, että tätä pystyttäisiin miettimään myös alueellisesti, kun me
+tiedämme tietyiltä alueilta, esimerkiksi nyt tulevien maakuntien pohjalta, miten tätä 5 ja 10
+prosentin markkinaehtoisen ulosmyynnin rajaa voitaisiin soveltaa, sillä on aivan selvää,
+että tietyt kulut ovat kiinteät, ja vaikka silloin 10 prosenttiin osuus markkinoista pienenee,
+niin ne kulut siihen liittyen eivät pienene samassa suhteessa. Kaatopaikkojen ylläpito on
+todella kallista, kalusto on kallista, se kiertää siellä samat reitit, vaikka se ei sitten joka pai-
+kasta sitä jätettä keräisi. Ja kyllä tämä valitettavasti, luulen, tulee aiheuttamaan kotitalouk-
+sien jätemaksujen kasvamista, koska jätelaki yksiselitteisesti toteaa, että jätteenkäsittely-
+maksut tulee kerätä jätteen aiheuttajalta, niitä ei voi kunta subventoida. Silloin tullee käy-
+mään näin. Tämähän nähtiin myös siinä, että ihmiset haluavat kierrättää, mutta kun pak-
+kausjätteen kierrätys meni tuottajien vastuulle, niin kierrätyspisteethän poistuivat [Puhe-
+mies koputtaa] harvaan asutuilta alueilta. Yritys ja markkinat ottavat sen, mistä saa suurim-
+mat massat, [Puhemies: Aika!] ja silloin kunnan vastuulle jää muu, ja se tulee kallistamaan
+kyllä hintoja.
+
+17.41 Satu Taavitsainen sd:  Arvoisa puhemies! Hyvät kollegat! Nyt tässä hallituksen
+esityksessä on selkeitä sellaisia kohtia, joilla on ihan todella merkittäviä vaikutuksia kun-
+tiin ja erityisesti kuntien asukkaisiin sekä julkisiin jätettä tuottaviin toimijoihin, kuten vaik-
+ka sairaaloihin, sekä myöskin ihan yrityksiin. Tässä hallituksen esityksessä kiristetään tätä
+sallittua ulosmyyntiä huomattavasti tiukemmaksi kuin mitä EU:n hankintadirektiivi edel-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+lyttäisi elikkä rajataan tuo ulosmyynti 10 prosenttiin viimeiseen päivään joulukuuta 2029
+saakka ja sitten pysyvästi 5 prosenttiin 1.1.2030 alkaen, kun tässä EU:n hankintadirektii-
+vissä on sallittua olla ulosmyyntiä 20 prosenttia liikevaihdosta. Mielestäni tätä EU-direk-
+tiiviä tiukempi raja ei ole ollenkaan tarkoituksenmukainen eikä myöskään perusteltu.
+Tämä hallituksen esitys on myös hyvin poikkeuksellinen suuremmassa, eurooppalaisessa
+mittakaavassa, eikä ole ollenkaan tietoa, että mikään muu EU-maa olisi ottamassa käyt-
+töön näin tiukkoja rajoja ulosmyynnille. Vai onko ministerillä tästä parempaa tietoa? Otan
+esimerkiksi vaikka meidän Mikkelin tilanteen. Se on Itä-Suomessa oleva 55 000 asukkaan
+kaupunki, jolla on omassa omistuksessaan oleva jäteasema. Nyt tämän lain myötä heiken-
+netään meidän kunnallisen jäteaseman toimintamahdollisuuksia ja tällä hallituksen esityk-
+sellä lisätään jätehuoltokustannuksia ihan tässä koko ketjussa.
+
+Olen myös sitä mieltä, että kun tässä on puhuttu kierrätystavoitteiden saavuttamisesta,
+niin tämä, että kuntavastuuta heikennetään, ei kyllä kierrätystä myöskään edistä. Tästä on
+ihan kokemusta ja todistusaineistoa muualta maailmasta, elikkä esimerkiksi Ruotsissa,
+Tanskassa ja Itävallassa on laajalla kuntavastuulla nostettu kierrätysastetta, sen sijaan Ir-
+lannissa ja Norjassa, joissa on suppea kuntavastuu, on jarrutettu kiertotaloutta. Kyllä ihan
+nämä meidän kunnalliset jätehuoltoyhtiöt voivat olla ja ovatkin monien innovaatioiden
+alustoina ja vetureina kiertotaloudelle, mikäli vain lainsäädäntö sen niille mahdollistaa.
+
+Olen myös sitä mieltä, että kuntien jätelaitosten markkinaehtoisen toiminnan rajaami-
+nen tämän esityksen mukaisesti vähentää meillä monessakin kunnassa jätettä tuottavien
+yritysten mahdollisuuksia valita, mihin jäte menee, ja myöskin niitä edellytyksiä tähän
+toissijaiseen vastuuseen elikkä tähän TSV-palveluun. Tämän hallituksen esityksen hyöty-
+jinä tulevat olemaan suuret jätteenkäsittelyn palvelutuottajat sekä kuljetusyritykset, joilla
+varmasti kuljetukset sitten kasvavat, mutta meillä muilla sitten kustannukset kasvavat. Täl-
+lä hetkellä meillä on paikallisesti mahdollisuus ottaa jätettä vastaan ja saada siitä liikevaih-
+toa sekä työtä alueelle. Nyt tämän esityksen myötä uhkana on, että tämä työ ja eurot siirty-
+vät pois paikkakunnalta isojen toimijoiden kautta muualle. Nyt me olemme voineet pitää
+myöskin asumisen jätteiden vastaanottohinnat hyvin maltillisella tasolla juuri siitä syystä,
+että on voitu ottaa sitä jätettä vastaan asukkailta, yrityksiltä, laitoksilta ja niin edelleen.
+Tämä mahdollisuus nyt sitten jää pois, ja silloin myöskin kunnallisten jätehuoltoyhtiöitten
+tulos pienenee ja mahdollisuus myöskin investoida lisää heikkenee.
+
+Tämä tarpeettoman tiukka rajaus vie myöskin pohjan pois monilta yhteistyömalleilta.
+Kun tällä hetkellä tehdään kunnallisissa jätehuoltoyhtiöissä todella laajasti erilaista yritys-
+yhteistyötä — ja sitä voisi vielä nykyisestään laajentaakin, jos tulisi enemmän materiaali-
+virtaa — niin nyt sitten tällä hallituksen esityksellä tämä asia menee aivan vastakkaiseen
+suuntaan.
+
+En pidä tätä esitystä hyvänä ja toivon, että valiokunnassa näihin asioihin, joita tässä nos-
+tin esille, kiinnitetään huomiota sekä yritettäisiin valiokunnan työssä tehdä tästä esitykses-
+tä parempi ja varmistaa myöskin se, sillä tässä laissa on kuitenkin tarkoituksena varmistaa
+jätteiden asianmukainen hoito.
+
+17.47 Markku Pakkanen kesk: Arvoisa rouva puhemies! Ihan vielä lopuksi haluan mai-
+nita, että tämä pitkä siirtymäaika on kuitenkin mielestäni äärimmäisen hyvä asia tässä esi-
+tyksessä ja välttämätön, jotta kunnalliset jätehuoltoyhtiöt, pienyrittäjät, jotka tekevät yh-
+teistyötä näiden kunnallisten jätehuoltoyhtiöiden kanssa, pystyvät valmistautumaan tähän
+muutokseen, mikä väistämättä on kuitenkin jätealalla ja tulevaisuuden bisnesraaka-aine-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+alalla edessä, ja se varmaan antaa toki lisämahdollisuuksia ja uusia vaihtoehtoja, ja siksi
+tämä siirtymäaika on tärkeä. Tällä hetkellähän kunnallinen jätehuolto Suomessa mielestä-
+ni toimii erittäin hyvin, ja siinäkin mielessä on tärkeää, että tämä yhteistyö pienyrittäjien
+kanssa, jotka siellä tekevät näiden yhtiöiden kanssa yhteistyötä, saa jatkua.
+
+Haluan tähän loppuun vielä tuoda tämän pienen yrittäjän näkökulman, että tämä kilpai-
+lutilanne ei menisi siihen, että isot kansainväliset jäteyhtiöt tulevat markkinoille hoita-
+maan tämän asian yksistään, vaan tässä suomalaiselle pienelle yrittäjälle suotaisiin se mah-
+dollisuus vielä olla mukana.
+
+17.49 Pauli Kiuru kok: Arvoisa rouva puhemies! Vielä tästä siirtymäajasta jatkan.
+Vuonna 2011 eduskunnassa käytiin kiivasta keskustelua kaivoslaista, ja sen yhteydessä
+
+loppumetreillä tuli kovaa vääntöä myös siirtymäajasta nimenomaan Lemmenjoen kansal-
+lispuiston osalta. Siellä kysymyksessähän oli se, saako kansallispuistossa harjoittaa ko-
+neellista kullankaivuuta. No, periaatteessa kansallispuistossa ei pitäisi harrastaa koneella
+yhtään mitään, mutta koska kysymyksessä oli yrittäjien toiminta, he olivat investoineet ko-
+neisiin ja laitteisiin merkittäviä summia, koko perheen elinkeino monella on siinä kiinni ja
+tulevaisuus, niin on tietysti kohtuullista, että heille annettiin siinä tapauksessa noin yhdek-
+sän vuoden siirtymäaika, jolloin he saivat poistoina sitten ottaa tämän laitekantansa. Se on
+tällaiseen oikeusvaltioon liittyvä periaate, että yritystenkin edut huomioidaan, lainsäädän-
+tö on ennustettavaa ja huomioidaan myös kansantalouden näkökulmasta se, että kun on
+tehty isoja investointeja, niin ne investoinnit käytetään loppuun. Ymmärtääkseni tässä on
+aivan samasta asiasta kysymys. Kunnalliset jäteyhtiöt ovat investoineet miljoonia ja mil-
+joonia kalliisiin laitteisiin ja rakennuksiin, ja sitä taustaa vasten siirtymäaika vuoden 2029
+loppuun vaikuttaa kyllä aivan perustellulta.
+
+17.50 Ari Torniainen kesk: Arvoisa rouva puhemies! Tässä on useammassa puheenvuo-
+rossa kiinnitetty huomiota kunnallisten jäteyhtiöiden toimintakykyyn myöskin tulevaisuu-
+dessa, ja itse myöskin haluan painottaa sitä, että niiden pitää pystyä myöskin toimimaan te-
+hokkaasti ja hyvin tulevaisuudessa.
+
+Kun on puhuttu asiakasmaksuista ja niiden mahdollisesta korottamisesta, itse toivon,
+että tämä hallituksen esitys ei ainakaan edesauta niitten maksujen korottamista. Pikemmin-
+kin uskon, että tämä tulevaisuudessa mahdollistaa niiden maksujen säätymisen hyvin al-
+haiselle tasolle, kun siitä tulee markkinaehtoista kilpailua.
+
+Täällä on puhuttu myöskin tästä markkinaehtoisesta toiminnasta tällä hetkellä kuntayh-
+tiövetoisissa jätehuoltoyhtiöissä. Tosiasia on, että suurin osa kuntayhtiöistä toimii jo nyt-
+ten tuon 10 prosentin rajan alapuolella, ja taitaa olla noin puoli tusinaa kuntayhtiötä, jotka
+ylittävät tuon 10 prosentin rajan tällä hetkellä. Se on kuitenkin tilastollinen tosiasia.
+
+Tietysti on myöskin huomionarvoista tällä hetkellä se asia, miten nuo jätehuoltoyhtiöt
+kirjanpitoaan pitävät ja miten sieltä saa esille sen, mikä on ulosmyyntiä ja sitä perustoimin-
+taa, ja sitä tulisi myöskin selventää jatkossa.
+
+17.52 Eeva-Maria Maijala kesk: Arvoisa puhemies! Esittäisin ministerille vielä pari ky-
+symystä.
+
+Elikkä ensinnäkin se, että sehän meitä mietityttää eniten, miten varmistetaan kohtuuhin-
+taisuus jätteiden keräilyssä jatkossakin, muun muassa meillä Savukoskella, niin kuin
+muuallakin haja-asutusalueella.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+Toinen asia sitten, mikä mietityttää minua itseäni hyvin paljon, on jätelain 1 §:ssä. Elik-
+kä lain tavoitehan on se, että tällä lailla pitäisi pyrkiä vähentämään jätteiden muodostumis-
+ta ja määrää, ja totuushan meillä on tällä hetkellä se, että voimassa oleva jätelaki ei todel-
+lakaan kannusta riittävästi vähentämään jätteiden muodostamista ja muodostumista. Onko
+nyt työn alla vielä joitakin jätelain muutoksia, asioita, miten saataisiin todellista vaikutusta
+siihen, että jätettä alkaisi muodostumaan kaikkialla Suomessa vähemmän kuin aikaisem-
+min?
+
+Puhemies Paula Risikko: Ja sitten vielä ministerin vastaus, 3 minuuttia, kiitos.
+
+17.53 Asunto-, energia- ja ympäristöministeri Kimmo Tiilikainen:  Arvoisa puhe-
+mies! Edustaja Kiurulle muutama huomio: Kysyitte jo aiemmin, onko tässä riski tällaiseen
+viennin tai dumppauksen kasvuun. Meillä on jätesiirtosääntely, joka estää tämänkaltaisen
+toiminnan, eli siinä mielessä ei ole huolta. Pohditte myös huoltovarmuutta häiriötilanteis-
+sa, ja siitä on ympäristöministeriössä erillistä säädösvalmistelua käynnissä. 
+
+Kiitän edustajia hyvin tällaisesta tasapainoisesta lähetekeskustelusta ja monia näkökul-
+mia tuovasta keskustelusta. Tässä on se julkisten jätehuoltolaitosten näkökulma, tässä on
+yritysten näkökulma, esityksessä on haettu parasta mahdollista keskitietä, jossa turvataan
+julkisen toimijan mahdollisuudet myös jatkossa. Tuo 10 prosentin ulosmyyntiraja, josta
+jotkut edustajat puhuivat, vastaa aika lailla sitä keskimääräistä nykyistä tilannetta. Eli se ei
+muuta radikaalisti, ei pienennä sitä liiketoiminnan mahdollisuutta välittömästi, ja tuo siir-
+tymäaika todellakin on pitkä, jotta ne kiinteät kulut pystytään kattamaan ja näille isoille in-
+vestoinneille, mitä on tehty, saadaan riittävästi käyttöä.
+
+Edustaja Torniainen otti tämän kirjanpitoasian esille, ja se on markkinapaikan ohella
+tässä kakkosvaiheessa asia, mitä täsmennetään, jotta pystytään todentamaan se markkinan
+puute tai sen olemassaolo.
+
+Vielä muutama huomio:
+Jätteen synnyn ehkäisy tai sen määrän vähentäminen on ehkä sitten paljon isomman toi-
+
+menpidekokonaisuuden tulos. Valtakunnallisessa jätesuunnitelmassa, joka on juuri hiljat-
+tain uusittu, esitetään kymmenkunta toimenpidettä, tavoitetta, jotka sitten tätä isoa pää-
+määrää ajavat hyvin eteenpäin.
+
+Tämä huoli harvaan asuttujen alueitten palveluista tai sitten just tasapaino pienten yri-
+tysten ja suurempien yritysten kesken, mitä useampi edustaja pohti: Oikeastaan pienten
+yritysten näkökulma on tässä tärkeä jätehuoltopalvelun asiakkaina mutta myös toimijoina.
+Juuri tuo toissijainen vastuu, missä kunnalla on aina vastuu järjestää se jätehuoltopalvelu
+myös niillä alueilla toimiville yrityksille, missä sitä markkinaehtoista palvelua ei ole tar-
+jolla, on erittäin tärkeä palvelu isolle joukolle suomalaisia yrityksiä eri puolilla maata.
+Mutta toisaalta sitten tämä mahdollisuus olla toimijana myös jatkossa yhteistyössä niin sen
+julkisen toimijan kanssa kuin yksityisten toimijoitten kanssa, esimerkiksi näissä kuljetuk-
+sissa, on tärkeä näkökulma, ja sen usea edustaja otti esille.
+
+Vielä näistä nyt rajattavista sairaanhoidon ja koulutuksen jätteistä: Ne siis otetaan pois,
+niin että ne eivät ole enää kuntien yksinoikeus, mutta toki nämä kunnalliset laitokset saa-
+vat olla siinä kilpailussa mukana tarjoamassa niitä palveluita edelleen. Ja ei ole niinkään
+helppo yritysten tulla välttämättä tälle markkinalle. Uskon, että nämä jätelaitokset tulevat
+näissäkin pärjäämään. Toki sitten siellä tulee ajastaa nämä rajat, kuinka paljon sitä kilpail-
+tua ulosmyyntiä saa olla.
+12
+
+
+
+Pöytäkirjan asiakohta PTK 3/2018 vp
+Näillä eväillä valiokunnalla on varmasti hyvät mahdollisuudet käsitellä tämä monipuo-
+lisesti ja tehdä hyvä mietintö, joka sitten auttaa lain toimeenpanoa. Ja tuo pitkä siirtymäai-
+ka takaa sen, että mitään radikaalia tässä kentässä ei tule tapahtumaan.
+
+Keskustelu päättyi.
+
+Asia lähetettiin ympäristövaliokuntaan, jolle hallintovaliokunnan ja talousvaliokunnan on
+annettava lausunto.
+13
+
+
+	3
+	17.01
+	17.10
+	17.14
+	17.15
+	17.19
+	17.24
+	17.28
+	17.30
+	17.34
+	17.36
+	17.39
+	17.41
+	17.47
+	17.49
+	17.50
+	17.52
+	17.53
+
+

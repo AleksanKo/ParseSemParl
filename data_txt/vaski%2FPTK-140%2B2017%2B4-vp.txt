@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMCF5.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 140/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 140/2017 vp
+
+Täysistunto
+
+Torstai 14.12.2017 klo 21.15—3.51
+
+4. Hallituksen esitys  eduskunnalle veronkannon, verotuksen toimittamisen ja eräiden seu-
+raamusmaksujen uudistamista koskevaksi lainsäädännöksi
+
+Hallituksen esitys HE 97/2017 vp
+Valiokunnan mietintö VaVM 26/2017 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Arto Satonen: Ensimmäiseen käsittelyyn esitellään päiväjärjes-
+tyksen 4. asia. Käsittelyn pohjana on valtiovarainvaliokunnan mietintö VaVM 26/2017 vp.
+Nyt päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+2.52 Olavi Ala-Nissilä kesk (esittelypuheenvuoro): Arvoisa puheenjohtaja! Esittelen ve-
+rojaoston puheenjohtajana tämän merkittävän verolain, Verohallinnon uudistuksen niin sa-
+notun Valmis 3 -hankkeen.
+
+Tämäkin lakiesitys on byrokratian purkamista osaltaan. Hallituksen esitys kattaa viimei-
+sen osan siitä laajasta uudistuksesta, jonka tarkoituksena oli yhtenäistää, selkeyttää ja mo-
+dernisoida kaikkien Verohallinnon kantamien verojen verotus-, muutoksenhaku- ja veron-
+kantomenettelyä. Uudistuksella edistetään lisäksi sähköisiä toimintatapoja ja verotuksen
+reaaliaikaisuutta, mikä näkyy erityisen selvästi nyt käsiteltävänä olevassa esityksessä.
+Taustalla tässäkin on kaikkiaan hallitusohjelmaan kirjattu tavoite tehostaa Verohallinnon
+toimintaa, parantaa verovelvollisten oikeusturvaa ja tiedonsaantia sekä keventää hallinnol-
+lista taakkaa. Minusta, puhemies, voi sanoa, että tämä tekee veronmaksajan elämän paljon
+helpommaksi. Toisaalta, kun tämä vapauttaa resursseja myöskin Verohallinnossa, tämä te-
+kee niiden elämän vaikeaksi, jotka eivät halua veroja rehellisesti maksaa.
+
+Lainsäädäntömuutokset on kytketty tarkoituksenmukaisuus- ja kustannussyistä ajalli-
+sesti niin sanottuun Valmis-hankkeeseen, jossa Verohallinnon koko tietojärjestelmä ja inf-
+rastruktuuri uudistetaan ja on uudistettu ja otetaan käyttöön vaiheittain 2016—2019. Muu-
+tokset koskevat useita lakeja: tuloverotusta, tonnistoverotusta, kiinteistö- ja varainsiirtove-
+rotusta sekä perintö- ja lahjaverotusta. Pääosin lakien on tarkoitus tulla voimaan 1.5.2018,
+osan 1.11.2019. 
+
+Valtiovarainvaliokunta on siis todennut verojaoston esityksestä, että esitys on poikkeuk-
+sellisen laaja ja merkittävä asia- ja hankekokonaisuus ja sitä pitää tarkastella tästä lähtö-
+kohdasta. Kantavana ajatuksena on ollut pyrkimys selkeyttää sääntelyä, yhtenäistää menet-
+telyä eri verolajien kesken sekä nopeuttaa ja kehittää verotusprosesseja uuden tietojärjes-
+telmän ja sähköisen asioinnin kehityksen myötä. Valiokunta on tämän Valmis-hankkeen
+kaikissa kolmessa vaiheessa johdonmukaisesti ilmaissut tukensa uudistukselle ja puoltaa
+myös tämän esityksen perusratkaisuja.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 140/2017 vp
+Verotuksen päättyminen nykyistä aikaisemmin varhentaa myös veronpalautusten ja
+jäännösverojen maksuajankohtia. Kun veronpalautus maksetaan nykyisin joulukuussa, ku-
+ten tiedämme, pääosa niistä maksettaisiin jo elokuussa. Joulukuulle jäisi maksettavaksi
+ehkä vain noin parisataa miljoonaa euroa kaikkiaan noin 2,3 miljardin vuosittaisesta palau-
+tusmäärästä. Muutokset mahdollistavat toisaalta myös sen, että veronsaajat voivat saada
+heille kuuluvat osuudet nykyistä aikaisemmin. Verotuksen päättyminen verovelvolliskoh-
+taisesti tasaisi myös kunnille tehtävien tilitysten jakaumaa eri kuukausien välillä. Muutos
+näkyy erityisen selvänä kiinteistöverotuksessa, jonka tuotoista noin puolet eli 850 miljoo-
+naa euroa voidaan tilittää sitten jatkossa kuntaveronsaajalle nykyistä aikaisemmin.
+
+Tässä oleellista on siis verotuksen päättyminen nyt verovelvolliskohtaisesti. Verotuk-
+sen reaaliaikaisuuden keskeinen elementti on se, että verotus päättyy mahdollisimman pian
+sen jälkeen, kun se on toimitettu. Koska valtaosalle tulo- ja kiinteistöverovelvollisuus val-
+mistuu käytännössä jo kesäkuussa, pienehkölle joukolle heinä—lokakuussa, verovelvollis-
+kohtaiselle päättymisajalle on siten selkeät perusteet.
+
+Esityksessä uudistetaan merkittävällä tavalla myös sitä sääntelyä, joka koskee nykyistä
+veronkorotusta eli ilmoitusvelvollisuuden laiminlyönnistä aiheutuvia sanktioita. Jatkossa
+seuraamus jakautuisi kahteen osaan, niin sanottuun myöhästymismaksuun ja veronkoro-
+tukseen. Osassa tapauksia nykyisen veronkorotuksen sijasta määrättäisiin siis jatkossa
+myöhästymismaksu. Ratkaisevaa tässä olisi, antaako verovelvollinen veroilmoituksen tai
+korjaako hän omasta aloitteestaan muun laiminlyöntinsä ennen verotuksen päättymistä.
+Tämä jako korostaa laiminlyönnin vakavuutta ja vaikuttaa sanktion määrään sekä siihen,
+miten tapausta on kokonaisuudessaan arvioitava. Verotuksen päättymishetki on tässä suh-
+teessa merkityksellinen myös siksi, että silloin täyttyy myös mahdollisen verorikoksen tun-
+nusmerkistö. 
+
+Kun uudistuksen tarkoituksena on edistää verotustietojen saantia oikea-aikaisesti ja oi-
+kean sisältöisinä, se kannustaa verovelvollista korjaamaan itse virheellisiksi tai puutteelli-
+siksi tietämänsä tiedot. Tämä vähentää moninkertaista työtä ja kerryttää verotulot jo alun
+perin oikeamääräisinä. Lisäksi sanktiojärjestelmä yhtenäistetään mahdollisimman pitkälle
+oma-aloitteisia veroja koskevan seuraamusjärjestelmän kanssa. Uudistuksen toinen kanta-
+va ajatus on ollut täsmentää sääntelyä niin, että seuraamusten perusteet olisivat nykyistä
+kaavamaisempia ja objektiivisempia. Verotuksen ennakoitavuus on tällä vaalikaudella ol-
+lut keskeinen periaate, ja se on veronmaksajan kannalta tärkeä periaate. Nämä periaatteet
+kaventaisivat siten viranomaisten harkintavaltaa ja olisivat entistä ennakoitavampia ja sys-
+temaattisempia. Näistä syistä niiden on arvioitu olevan myös nykyistä vaikuttavampia.
+
+Veronkorotus määrättäisiin puolestaan silloin, kun verovelvollinen ei anna veroilmoi-
+tusta tai korjaa oma-aloitteisesti veroilmoituksessa olevaa puutetta tai virhettä ennen vero-
+tuksen päättymistä. Korotus olisi 2 prosenttia lisätyn tulon määrästä, mutta sitä voitaisiin
+korottaa tai alentaa erityisillä perusteilla. Vaihteluväli olisi kaikkiaan 0,5—10 prosenttia.
+
+Nykyisten säännösten muutostarve on ilmeinen, kun otetaan huomioon se karkea raken-
+ne ja siihen liittyvä laaja harkintavalta, mikä nykyisin on. Vaikka säännöksen soveltami-
+nen perustuu laillisuusharkintaan, yhdenvertaisen kohtelun vaaliminen käytännössä on
+varsin haastavaa. Epäsuhta voimassa olevan lain ja käytännön välillä on siis suuri. Perus-
+tuslakivaliokunta on todennut lausunnossaan, että hallinnollisissa seuraamuksissa on kysy-
+mys merkittävästä julkisen vallan käytöstä. Laissa on säädetty sen vuoksi täsmällisesti ja
+selkeästi muun muassa maksuvelvollisuuden ja maksun suuruuden perusteista.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 140/2017 vp
+Esitykseen sisältyvät veronkorotussäännökset täyttävät valiokunnan mielestä edellä ole-
+vat täsmällisyyden, selkeyden ja oikeasuhtaisuuden vaatimukset. Valiokunta puoltaa näis-
+tä syistä ehdotettuja veronkorotusasteikkoja sellaisinaan. Myös tässä yhteydessä on syytä
+korostaa, että asteikkoa on tarkoitus soveltaa koko alaltaan, mukaan lukien myös 10 pro-
+sentin taso. Totean vielä, että kun veroja jää maksamatta, niin meillähän peritään myöskin
+korko, joka on 7 prosentin pinnassa, joka on nykyisellään todella korkea korko.
+
+Laiminlyönnin arvioinnissa on perusteltua luopua tuottamusasteen arvioinnista. Tällai-
+nen rikosoikeudellinen syyllisyysarviointi sopii ylipäänsä huonosti hallinnollisen ratkai-
+sun tekoon ja verotuksen kaltaiseen massamenettelyyn. Valiokunta kuitenkin korostaa si-
+tä, että veronkorotus on myös jatkossa rangaistusluonteinen seuraamus, mikä ilmenee
+muun muassa perustuslakivaliokunnan lausunnosta. Sitä harkittaessa tulee ottaa siis huo-
+mioon myös rikosoikeudellisen seuraamuksen mahdollisuus. Tätä rajaa sääntelee vuonna
+2013 voimaan tullut laki erillisellä päätöksellä määrättävästä vero- tai tullirikoksesta eli
+kaksoisrangaistavuuden sisältävä niin sanottu ne bis -laki.
+
+Säännös on yhdistetty asiantuntijakuulemisessa valiokunnan mielestä perusteettomasti
+niin sanottuun tehokasta katumista koskevaan sääntelyyn. Siitä ei ole kuitenkaan kysymys
+nyt edes välillisesti, eikä sellaiseen menettelyyn oikeuttavaa erityislakia ole edelleenkään
+voimassa. Sellainenhan on muun muassa Ruotsissa. Ilman nimenomaista sääntelyä tällai-
+nen menettely ei siis olisi laillista.
+
+Kuten todettu, verotuksen nykyiset menettelysäännökset ja edellä mainittu ne bis -laki
+luovat selvän toimintakehikon niissä tilanteissa, joissa veronkorotuksen sijasta on velvol-
+lisuus harkita asian siirtämistä rikosprosessiin.
+
+Puhemies! Valiokunnassa on tätä lakia käsitelty varsin perusteellisesti, neljä kertaa
+kuultu Verohallinnon asiantuntijoita, ja tältä pohjalta on mietintö syntynyt.
+
+Mietintö ei ole yksimielinen, vaan siihen sisältyy vastalause.
+
+3.02 Timo Harakka sd: Arvoisa puhemies! Hallituksen esitys verotuksen toimittamisen
+ja veronkantoon liittyvän lainsäädännön uudistamiseksi on pääsääntöisesti erittäin kanna-
+tettava valiokunnan mietinnössä kuvatuin muutoksin. Koko 900-sivuiseen kokonaisuu-
+teen, jonka viimeinen, valmis 3. osa on reilut 300 sivua, sisältyy kuitenkin pienenä yksi-
+tyiskohtana seuraamusmaksujen muutoksia, joihin liittyy eräitä ongelmia. Lisäksi lakiesi-
+tyksessä ei ole riittävällä tavalla huomioitu sitä, miten veronkorotuksilla ennaltaehkäistään
+laiminlyöntejä. Nämä puutteet edellyttäisivät toimenpiteitä, joilla varmistettaisiin ennen
+kaikkea se, että verotuksen laiminlyönteihin liittyvät seuraamusmaksut ja muut seuraa-
+mukset olisivat riittäviä raskaimpien laiminlyöntien ennaltaehkäisemiseksi. Veronkorotus-
+ten muutokset voivat heikentää tätä niin kutsuttua yleisestävyyttä ja antaa viestin siitä, et-
+tei eräitä verotukseen liittyviä raskaita laiminlyöntejä pidetä kovinkaan tuomittavina. Täl-
+laisen viestin antamista on syytä välttää.
+
+Puhemies! Hallituksen lakiesitys muuttaisi veronkorotusten määräämistä kaavamaisem-
+maksi. Laissa säädettäisiin verotuksen taso nykyistä täsmällisemmin, jolloin viranomais-
+ten harkintavalta kapenisi. Samalla parannettaisiin seuraamusten ennustettavuutta, joka
+sitten osaltaan voisi ennaltaehkäistä laiminlyöntejä. Tätä kaikkea täsmentämistä voidaan
+pitää kannatettavana. Veronkorotusten ja muiden seuraamusmaksujen kaavamaisempi
+määrääminen johtaisi kuitenkin niiden tason muutoksiin. Joissakin tilanteissa veronkoro-
+tukset laskisivat ja joissakin nousisivat verrattuna nykytilanteeseen. Tämä seuraus on si-
+säänrakennettu hallituksen esitykseen, vaikkei sen nimenomaisena tarkoituksena olekaan
+3
+
+
+
+Pöytäkirjan asiakohta PTK 140/2017 vp
+muuttaa nykytilannetta. Esimerkiksi lievimmistä laiminlyönneistä maksettava myöhästy-
+mismaksu olisi yleensä alempi kuin vastaavista laiminlyönneistä nykyisin määrättävä ve-
+ronkorotus.
+
+Niinpä onkin aiheellista arvioida sitä, mitä vaikutuksia seuraamusmaksujen muutoksilla
+olisi veronkorotusten niin kutsuttuun yleisestävyyteen. Eräissä tilanteissa veronkorotusten
+alentaminen antaa väärän signaalin. Veronkorotus on hallinnollinen sanktio, jolla on tar-
+koitus rangaista laiminlyönnistä. Ennen kaikkea tarkoituksena on ennaltaehkäistä laimin-
+lyöntejä, sillä veronkorotuksen uhka ohjaa verovelvollisia toimimaan oikein. Se myös an-
+taa lainsäätäjältä verovelvollisille viestin siitä, millainen toiminta on epätoivottavaa. Tästä
+näkökulmasta voidaan pitää ongelmallisena, että veronkorotusten taso laskisi todennäköi-
+sesti eräissä tilanteissa huomattavasti nykyisestä. Nämä tilanteet ovat sellaisia, joissa ve-
+ronkorotus määrätään verotuksen oikaisun yhteydessä esimerkiksi verotarkastuksen seu-
+rauksena. Hallituksen esityksen mukaan näissä tilanteissa veronkorotusten yhteismäärä
+laskisi 13 miljoonasta eurosta 7 miljoonaan. Lasku koskisi pääosin yrityksiä, joilla veron-
+korotukset puolittuisivat 5 miljoonaan. Hallituksen esityksessä on todettu, että arviot ovat
+viitteellisiä. Silti on ilmeistä, että veronkorotukset nimenomaisesti laskisivat. Tämä on to-
+dettu myös hallituksen esityksessä: "Verotuksen oikaisussa määrättävän veronkorotuksen
+keskimääräinen taso alenisi kaikilla verovelvollisuusryhmillä."
+
+Ongelmallista on se, että veronkorotusten alentuminen koskisi muun muassa systemaat-
+tista aggressiivista verosuunnittelua koskevia tapauksia, joissa järjestelyt on katsottu vero-
+tusmenettelystä annetun lain 28 §:ssä tarkoitetuksi veron kiertämiseksi. Hallituksen esityk-
+sen 32 a §:n 2 momentin mukaan veronkiertämistilanteissa voitaisiin määrätä korotettu ve-
+ronkorotus ainoastaan, jos laiminlyönti on toistuvaa tai verovelvollinen osoittaa muuten il-
+meistä piittaamattomuutta verotusta koskevista velvoitteista, mutta hallituksen esityksessä
+ei ole tarkasti määritelty, mitä ilmeisellä piittaamattomuudella tarkoitetaan. Siinä on kui-
+tenkin todettu, ettei veron kiertäminen tai euromääräisesti suuri laiminlyönti edellytä vält-
+tämättä korotettua veronkorotusta. Näissä tilanteissa voidaan siis määrätä myös perustasoi-
+nen, nykyistä alempi veronkorotus.
+
+Hallituksen esityksessä ei ole myöskään täsmennetty, milloin veronkorotus määrätään
+esimerkiksi 3:n, milloin 5:n ja milloin 10 prosentin suuruisena. Sen vaikutusarviossa on
+kuitenkin oletettu, että merkittävimmissä laiminlyönneissä määrätään yleensä 3 prosentin
+veronkorotus. Tämän vuoksi on todennäköistä, että kynnys määrätä veronkorotus 3:a pro-
+senttia suurempana nousee hyvin korkeaksi. Kynnystä nostaa osaltaan se, ettei veronkier-
+tämistä pidetä esityksessä välttämättä ilmeisenä piittaamattomuutena, kuten äsken totesin,
+josta määrättäisiin siis edes 3 prosentin veronkorotus.
+
+Edellä olevista syistä laki ei hallituksen esittämässä muodossaan vastaa täysin sille ase-
+tettuja tavoitteita. Korkeampien veronkorotusten osalta laki on epämääräinen, eikä viran-
+omaisten harkintavaltaa ohjattu riittävästi. [Olavi Ala-Nissilä: 70-luvun henkeä vähän mu-
+kana!] — Ei, tämä on 2020-luvun henkeä, koska Euroopassa ja maailmassa veronkiertoon
+ja aggressiiviseen verosuunnitteluun suhtaudutaan huomattavasti ankarammin kuin edus-
+taja Ala-Nissilän edellisellä eduskuntakaudella. Esimerkiksi Euroopan parlamentti on juu-
+ri muutama päivä sitten hyväksynyt lähes yksimielisesti niin sanotun Panaman papereiden
+komitean mietinnön, jossa esitetään huomauttavan tiukkoja aggressiivisen verosuunnitte-
+lun vastaisia toimenpiteitä. [Olavi Ala-Nissilä: Se onkin eri asia!] Suomi ei enää tällä hal-
+lituskaudella ole aggressiivisen verosuunnittelun estämisen kärkimaa, kuten se vielä edel-
+lisen hallituksen kaudella oli.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 140/2017 vp
+Niissä tilanteissa, joissa verotusta vältetään systemaattisesti tai vakavan huolimatto-
+muuden vuoksi, veronkorotusten taso tulee todennäköisimmin laskemaan. Esimerkiksi ve-
+ron kiertämistä koskevan veromenettelylain 28 §:ssä olevan säännöksen, veromenette-
+lylain 29 §:n peitellyn osingon säännöksen taikka veromenettelylain 31 §:n siirtohinnoitte-
+luoikaisun soveltamiskynnys on hyvin korkea. Siksi niitä sovelletaan yleensä vain tilan-
+teissa, joissa verovelvollisen laiminlyönti on ilmeinen.
+
+Systemaattisen verovälttelyn ja muiden raskaampien laiminlyöntien ennaltaehkäisemi-
+seksi olisi keskeistä, että niissä kiinni jäämisen veronkorotukset olisivat riittävällä tasolla.
+Hallituksen esityksestä käy ilmi, että veronkorotusten perustaso räikeimmissä tapauksissa
+on jo nyt noin puolet esimerkiksi Ruotsin tasosta, ja hallituksen esityksen seurauksena se
+laskisi siitä entisestään.
+
+Ehdotamme siis, että veromenettelylakiin lisätään uusi 32 a §:n 3 momentti, jossa mää-
+ritetään perusteet sille, miten veronkorotus määräytyy rangaistusasteikon sisällä. Lisäksi
+momentissa määritetään, milloin verovelvollisen toimintaa voidaan pitää ilmeisenä piittaa-
+mattomuutena, josta tulee määrätä korotettu veronkorotus. On aiheellista täsmentää vero-
+tusmenettelystä annetun lain korotettuja veronkorotuksia siten, että laissa määritellään tar-
+kemmin, milloin korotettu veronkorotus määrätään ja minkä suuruisena se määrätään.
+Näin ollen esitämme lakiin kolmea pykälämuutosta näihin kohtiin. Tavoitteena on se, että
+veronkorotusten ennaltaehkäisevyys ja yleistävyys paranee.
+
+Vielä pari sanaa, puhemies, oma-aloitteisesta verotuksesta. 
+On tarkoituksenmukaista, että oma-aloitteinen korjaaminen otetaan huomioon veronko-
+
+rotusta alentavana tekijänä. Nykyään alennetuksi veronkorotukseksi on kuitenkin määrät-
+ty pääsääntöisesti puolet normaalista veronkorotuksesta, kun hallituksen esityksessä ol-
+laan alentamassa sitä neljäsosaan. Näin suurta alennusta ei voida pitää perusteltuna, sillä se
+heikentäisi veronkorotuksen laiminlyöntejä ennalta ehkäisevää vaikutusta. Tämä voisi li-
+sätä laiminlyöntejä ja aiheuttaa siten myös turhia veroriitoja. Ottaen huomioon esittämäm-
+me korotukset veronkorotusten perustassa veronkorotuksen olisi syytä olla oma-aloitteisis-
+sa oikaisuissa myös korkeampi kuin hallitus esittää. Tällöin annettaisiin riittävä signaali
+siitä, että verovelvollisen oma-aloitteinen toiminta otetaan huomioon seuraamuksia lieven-
+tävänä tekijänä.
+
+Olennaista on myöskin se, että Verohallinnolla on täsmällinen käsitys siitä, milloin ve-
+ronkorotukset eivät riitä vaan tapaukset on vietävä rikosilmoituksina tutkintaan. Rikosil-
+moituksen tekeminen on osaltaan riippuvainen Verohallinnon sisäisistä menettelyistä ja
+asiaa käsittelevän virkailijan osaamisesta. Viime vuosina tilanne on huomattavasti paran-
+tunut osittain johtuen julkisesta keskustelusta, joka on liittynyt rikosilmoitusten koettuun
+liian korkeaan kynnykseen. Verohallinnon tekemien rikosilmoitusten määrä on liki kaksin-
+kertaistunut 443:stä 784:ään vuosina 2013—2016. On mahdollista, että rikosilmoituksia ei
+siis aiemmin tehty silloin, kun olisi ollut rikosepäilyn aihetta. Siksi on äärimmäisen tärkeä-
+tä, että tämä parannusten tie jatkuu [Puhemies koputtaa] eikä riskiä entisestään lisätä. Lain-
+säädäntö antaisi mahdollisuuden nivoa paremmin yhteen Verohallinnon, poliisin ja syyttä-
+jäviranomaisten yhteistyötä. Tässä yhteydessä ei kuitenkaan ole tarkoituksenmukaista
+puuttua näitä koskevaan lainsäädäntöön. 
+
+Arvoisa puhemies! Esitän edellä olevan perusteella käsittelyn pohjaksi vastalauseen 1
+sisältämiä pykälämuutoksia ja lausumia.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 140/2017 vp
+3.13 Ozan Yanar vihr: Arvoisa puhemies! Edustaja Harakka kävi hyvin läpi tähän laki-
+esitykseen sisältyviä ongelmia. Kyse on laajasta uudistuksesta, jossa on myös ongelmalli-
+sia kohtia. Muun muassa seuraamusmaksujen muodostuminen uudella tavalla muodostaa
+ongelmia. Esimerkiksi veronkorotusten tason muutoksilla olisi ollut syytä varmistaa, että
+olennaisimpia laiminlyöntejä oltaisiin pystytty ennaltaehkäisemään riittävillä seuraamus-
+maksuilla.
+
+Me vihreät olemme mukana tässä vastalauseessa. Siksi kannatan edustaja Harakan
+aiemmin tekemää esitystä tähän lakiesitykseen ja pidän sitä erittäin tärkeänä.
+
+3.14 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Edustaja Harakan puheenvuoron johdos-
+ta pari kommenttia. Edustaja Harakka on täällä aikaisemmin ja ihan julkisuudessakin an-
+tanut ymmärtää, että tässä olisi kysymys aktiivisesta katumisesta. Siitähän ei ole kysymys,
+sehän edellyttäisi aivan omaa lainsäädäntöään. Ruotsissa sellainen kyllä on. 
+
+Mutta todellakin moderni verotus on sitä, että käytetään digitalisaatiota, modernia vero-
+hallintoa, myöskin riskien hallintaa hyväksi katsoen, missä niitä riskejä on. Myöskin toi-
+mitaan niin, että tavallaan kannustetaan verovelvollista oma-aloitteisesti oikaisemaan
+mahdollisesti tulleita virheitä. Tämä lainsäädäntö toimii näin. Minusta edustaja Harakan
+puheessa, niin kuin sanoin, heijastuu vähän sellainen 70-luvun ajattelu, että tämä olisi jo-
+tain pelkkää verotarkastusta, usein poliisien toimintaa, vaan ei, nykyaikainen, tehokas ve-
+rohallinto on ratkaisevan tärkeässä asemassa, kun pyritään verojen välttämistä ja aggres-
+siivista verosuunnittelua estämään. Minusta tämä esitys ei muuta seuraamuksiltaan nyky-
+käytäntöä mutta modernisoi verotusta hienolla tavalla. Pitää antaa Verohallinnolle tunnus-
+tus sen uudistamisesta ja byrokratian vähentämisestä. Niin kuin sanoin tuossa alkuun, tämä
+helpottaa tavallisen veronmaksajan elämää mutta tekee sellaisen veronmaksajan elämän
+hankalammaksi, joka ei halua veroja maksaa.
+
+3.16 Timo Harakka sd (vastauspuheenvuoro):  Arvoisa puhemies! Edustaja Ala-Nissilä
+ei ole siirtymässä vielä 2020-luvulle, jolloin meillä on laaja kansainvälinen yhteisymmär-
+rys ja yhteistyö viranomaisten tasolla, julkisuuden tasolla ja myöskin poliittisten päättäjien
+tasolla siitä, että aggressiivinen verosuunnittelu ja veronkiertäminen lopetetaan tästä maa-
+ilmasta ja veroparatiisit suljetaan. Ilmeisesti edustaja Ala-Nissilä ei ole kuullut Panaman
+papereista eikä Lux Leaksistä eikä Liechtensteinin tietovuodoista, [Olavi Ala-Nissilän vä-
+lihuuto] näistä kaikista merkittävällä tavalla verorikollisuutta estävistä toimista.
+
+Edellinen hallitus oli edelläkävijä Euroopan tasolla veronkierron ehkäisyssä ja kansain-
+välisen aggressiivisen verosuunnittelun ehkäisyssä. Nyt se verorikollisuus ei saa saada sel-
+laista signaalia tällä lainsäädännöllä, että se olisi vähemmän tuomittavaa kuin nykylainsää-
+dännössä, [Puhemies koputtaa] ja siihen tähtäävät nämä esityksemme.
+
+3.17 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Haluan todeta, että kyllä nykyhallitus te-
+hokkaasti pyrkii estämään aggressiivista verosuunnittelua ja laittaa täytäntöön EU-direk-
+tiivejä hyvin tehokkaasti. Tässä on enemmän kysymys kotimaan verotuksen toimittamises-
+ta. Toki tällä on kansainvälinen yhteys. Mutta kuten kerroin, se on erityisesti hyvää vero-
+hallintoa ja digitalisaation hyväksikäyttämistä, riskienhallintaa, kun pyritään mahdollisim-
+man hyvään verotuksen kertymään. Myöskin toimitaan niin, että veronmaksajaa kannuste-
+taan korjaamaan omia virheitään, ja sitten jos on rikollista toimintaa, niin silloin myöskin
+sanktiot tulevat lain mukaan veroseuraamuksineen ja myöskin viivästyskorkoineen.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 140/2017 vp
+3.18 Timo Harakka sd (vastauspuheenvuoro): Niin, tämä hallitushan on kunnostautunut
+todellakin sillä, että se tarjoili meille talvella 2015 tämän tehokkaan katumisen lakia, joka
+onneksi täällä eduskunnassa kaatui. Siitä kaikuja on toki tässä matalassa, vain 0,5 prosen-
+tin veronkorotuksessa, jonka oma-aloitteisesti katuva veroilmoituksen tekijä joutuu suorit-
+tamaan. Nämä henkilöt saattavat olla niitä, jotka ovat Sveitsissä tai muualla veroparatiisis-
+sa piilotelleet varojaan, mutta nykyinen tehokkaampi viranomaisten yhteistyö on nostanut
+kiinnijäämisvaaran sellaiseksi, että on parempi tulla esiin, ja silloin tässä siitä suoranaisesti
+palkitaan. Hallintarekisterilainsäädäntö, jota ajoitte kuin käärmettä pyssyyn, piilottaa
+omaisuuksia ulkomaille samaan aikaan, kun veroparatiisit ovat tulossa päivänvaloon. Suo-
+mi tämän hallituksen kaudella on menossa täsmälleen väärään suuntaan verorikollisuuden
+estämisessä kansainvälisesti.
+
+Yleiskeskustelu päättyi ja asian käsittely keskeytettiin.
+7
+
+
+	4
+	2.52
+	3.02
+	3.13
+	3.14
+	3.16
+	3.17
+	3.18
+
+

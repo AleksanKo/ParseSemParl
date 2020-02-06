@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMCBE8.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 32/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 32/2016 vp
+
+Täysistunto
+
+Tiistai 5.4.2016 klo 13.59—18.31
+
+13. Hallituksen esitys eduskunnalle laiksi kotoutumisen edistämisestä annetun lain 54 ja 87 
+§:n muuttamisesta
+
+Hallituksen esitys HE 25/2016 vp
+Valiokunnan mietintö HaVM 4/2016 vp
+
+Ensimmäinen käsittely
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ensimmäiseen käsittelyyn esitellään
+päiväjärjestyksen 13. asia. Käsittelyn pohjana on hallintovaliokunnan mietintö HaVM 4/
+2016 vp. Nyt päätetään lakiehdotuksen sisällöstä.
+
+Keskustelu
+
+17.52 Pirkko Mattila ps (esittelypuheenvuoro): Arvoisa herra puhemies! Tämän lakiesi-
+tyksen tarkoituksena on uudistaa kotoutumislain mukaan suoritettavien laskennallisten
+korvausten maksatusprosessia. Tässä on tarkoituksena yhdistää tieto- ja käsittelyjärjestel-
+miä, eli Maahanmuuttoviraston ylläpitämän ulkomaalaisasioiden sähköisen asiainkäsitte-
+lyjärjestelmän ja Väestörekisterikeskuksen pitämän väestötietojärjestelmän tietoja niin,
+että tämä korvaus voitaisiin hoitaa yhdistelmätietojen avulla ilman erillistä hakemusta. Tä-
+män esityksen tavoitteena on edistää digitalisaatiota tällä automatisaatiolla. Näin ollen
+myös kuntien hallinnollista taakkaa voidaan vähentää, asiakasprosesseja ja korvausproses-
+seja nopeuttaa ja vähentää kunnissa tehtävää manuaalista työtä. Samalla on arvioitu tämän
+tasoittavan laskutuspiikkejä ja lisäävän maksatusten luotettavuutta ja yhdenmukaisuutta.
+Selvityksen mukaan automatisoinnin piiriin saataisiin ensivaiheessa lähes 80 prosenttia
+korvaukseen kuuluvista henkilöistä.
+
+Kunnilla säilyy sitten edelleen mahdollisuus hakea työ- ja elinkeinotoimistojen kehittä-
+mis- ja hallintokeskukselle eli KEHA-keskukselle osoitetulla hakemuksella korvausta hen-
+kilöistä, jotka kuuluvat laskennallisen korvauksen piiriin mutta joita ei saada poimittua au-
+tomaattisesti tästä tietojärjestelmästä. Haasteita automatisoinnin kattavuudessa aiheuttaa
+myös se, että kaikki turvapaikanhakijat ja perheenyhdistämisen kautta luvan saavat eivät
+välttämättä saa henkilötunnusta oleskeluluvan myöntämisen yhteydessä, jolloin tavallaan
+tämän automaattisen tietojärjestelmän piiriin liittyminen siirtyy ja maksatus seuraa sitten
+henkilötunnuksen saamista.
+
+Hallintovaliokunta kiirehtii toimenpiteitä, jotta näitä laskennallisia korvauksia tarvitsisi
+entistä vähemmän käsitellä manuaalisesti. Turvapaikanhakijoiden määrä on kasvanut, ja
+kuitenkin esityksen perusteluissa ja saadun selvityksen perusteella on arvioitu, että isoissa
+kaupungeissa edelleen manuaalisesti täytettäviä lomakkeita tarvitaan ja luopuminen voi
+kestää vuosia. Muitakin kehitettäviä prosesseja tietojärjestelmien ohella on, eli tulisi pa-
+rantaa rekisteröintiä koskevaa tiedottamista, ohjata henkilöä tekemään muuttoilmoitus
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 32/2016 vp
+mahdollisimman pian sekä mahdollisuuksien mukaan kehittää henkilötunnuksen hakemis-
+menettelyä.
+
+Kunnille laskennallisten korvausten saamisen edellytys on, että on laadittu kotoutta-
+misohjelma ja on tehty sopimus ely-keskuksen kanssa turvapaikan saaneen henkilön kun-
+taan osoittamisesta ja kotouttamisen edistämisestä. No, väestötietojärjestelmästä ei sinän-
+sä ole saatavissa tietoa kunnista, jotka ovat tämän sopimuksen tehneet. Muutoinkin väes-
+tötietojärjestelmä voi sisältää jonkin verran ei niin ajantasaista tietoa, elikkä vähän täm-
+möistä jälkeenjäänyttä tietoa, eli voi olla, että kotikunta on merkitty sinne oleskeluluvan
+saaneelle, mutta se ei välttämättä ole kotouttamislain mukaisesti korvaukseen oikeuttava
+kunta. Valiokunta tähdentää, että tämä automatisointi tulee suunnitella ja toteuttaa toimin-
+nallisesti ja teknisesti siten, että nämä eri tietojärjestelmistä kerättävät yhdistelmätiedot
+ovat ajantasaisia, koska ne ovat maksatuksen perusteena ja ovat sitten oikeita tietoja, eikä
+kunnille aiheuteta sitten näistä riippumattomista syistä korvausten palautusvelvollisuutta.
+Kuntia tulee informoida siitä, että kotouttamisohjelma ja ely-keskuksen kanssa tehtävä so-
+pimus ovat edellytyksenä korvausten saamiselle.
+
+Nyt ehdotetulla lailla ei ole vaikutusta kotoutumislain 6 luvun mukaisiin muihin
+korvauksiin, kuten esimerkiksi sosiaali- ja terveydenhuollon erityismenoihin, toimeentulo-
+tukiin ja tulkkauskustannuksiin. Niitä tulee edelleen hakea KEHA-keskukselta. Korvausta
+maksetaan toteutuneitten kustannusten perusteella.
+
+Valiokunta otti kantaa vielä kuntapaikkojen myöntämiseen sikäli, että kuntapaikoista on
+ollut jo vuosia pulaa. Ehkä laskennallisten korvausten tason jälkeenjääneisyys on ollut yksi
+syy siihen, etteivät kunnat ole olleet kovin halukkaita tekemään näitä sopimuksia ely-kes-
+kusten kanssa. Jos sitten taas ajatellaan sitä, että tähän sopimukseen liittyy nimenomaan
+tämä kotoutumisen edistäminen ja siihen on yksi tärkeä instrumentti kotoutumiskoulutus,
+niin työvoimapoliittisen kotoutumiskoulutuksen vähäisyys usealla paikkakunnalla on osal-
+taan vaikuttanut ja vaikeuttanut näitten kuntasijoitussopimusten aikaansaamista. Valio-
+kunta korostaa, että kotoutumiskoulutus on keskeinen väline kotoutumisessa. On arvioitu
+myös, että kotoutumiskoulutuksen tarve tulee merkittävästi kasvamaan tulevien vuosien
+aikana, joten lisäresursointi- ja järjestelmän joustavoittamisen tarvetta on myös jatkossa.
+
+Tämä hallintovaliokunnan mietintö on yksimielinen.
+
+17.58 Kari Kulmala ps: Arvoisa puhemies! Hallituksen esityksessä ehdotetaan muutetta-
+vaksi kotoutumisen edistämisestä annettua lakia siten, että laskennalliset korvaukset kun-
+nalle kotoutumista tukevan toiminnan järjestämisestä voitaisiin maksaa automaattisesti il-
+man erillistä hakemusta kehittämis- ja hallintokeskukselle. Mielestäni esitys on hyvä ja
+hallintovaliokunnassa hyvin perusteltu sekä yksimielisesti hyväksytty.
+
+Hallintovaliokunnan mukaan laskennallisten korvausten automatisointi edistää digitali-
+saation tavoitteita ja vähentää hallinnollista taakkaa erityisesti kunnissa. Tällä automati-
+soinnilla voidaan yksinkertaistaa ja nopeuttaa korvausprosessia ja vähentää kunnissa teh-
+tävää manuaalista työtä. Vieläkin tärkeämpänä pidän sitä, että automatisoinnin arvioidaan
+tasoittavan myös laskutuspiikkejä ja lisäävän maksatusten luotettavuutta ja yhdenmukai-
+suutta. Tämä on tärkeää erityisesti kunnissa ja kaupungeissa, missä eletään tarkan euron ai-
+kakautta. Jokainen yllättävä maksu saattaa olla tuhoisa myös kriisikunnille.
+
+Valiokunnan mukaan haasteita automatisoinnin kattavuudessa aiheuttaa kaiken muun
+ohella myös se, etteivät kaikki turvapaikanhakijat ja perheenyhdistämisen kautta luvan
+saaneet henkilöt välttämättä ole saaneet henkilötunnusta oleskeluluvan myöntämisen yh-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 32/2016 vp
+teydessä. Tällöin voi käydä niin — kuten edustaja Mattilakin kertoi — että henkilöt jäävät
+muutaman kuukauden ajan maksatuksesta pois, kun henkilötunnus tallennetaan järjestel-
+mään vasta muutaman kuukauden kotikunnan saamisen jälkeen. Olisi erinomaista, mikäli
+laskennallisissa korvauksissa voitaisiin luopua manuaalisesti täytettävistä hakemuksista
+kokonaan, vaikka se ainakin isommissa kaupungeissa voi kestää vuosia. Olisi myös tär-
+keää kehittää automatisoinnin kattavuutta, esimerkiksi parantaa rekisteröintiä koskevaa
+tiedottamista ja ohjata henkilö tekemään esimerkiksi muuttoilmoitus mahdollisimman pian
+sekä mahdollisuuksien mukaan kehittää henkilötunnuksen hakemismenettelyä. Luulisi,
+että henkilötunnuksen hankkiminen henkilölle olisi tässä se tärkein seikka turvapaikan saa-
+misen lisäksi.
+
+Kuten valiokuntakin piti tärkeänä, on kuntia informoitava siitä, että kotouttamisohjelma
+ja ely-keskuksen kanssa tehtävä sopimus ovat edellytyksenä laskennallisten korvausten
+saamiselle myös automatisoidussa korvausprosessissa. Tälläkin hetkellä kuntapaikoista on
+pulaa. On selvää, että jos ely-keskukset ja kunnat eivät saa tehtyä riittävässä määrin kotout-
+tamissopimuksia, oleskeluluvan saaneet henkilöt jäävät odottelemaan vastaanottokeskuk-
+siin, mikä lisää vastaanottokeskusten kustannuksia. Siitä on myös kunnille merkittäviäkin
+toiminnallisia ja taloudellisia vaikutuksia. Näyttäisi myös siltä, että monet kunnat eivät
+muista tai ymmärrä, mitä tapahtuu turvapaikanhakijan rahoitukselle sitten, kun tulee se
+neljäs vuosi.
+
+18.02 Sirpa Paatero sd: Arvoisa herra puhemies! Muutostyön valmistelu tämän nyt käsil-
+lä olevan kotoutumista edistävän lain pohjaksi on aloitettu vuonna 2015, jolloinka on tehty
+pohjaa siihen automatisointijärjestelmään, johonka nyt sitten lainsäädäntö antaa mahdolli-
+suudet. Toivottavasti tämä helpottaa kuntien todellisuutta, kun kevään aikana nyt suurem-
+mat määrät näistä turvapaikanhakijoista saavat kotipaikan, jotta ainakin ne ihmiset, joiden-
+ka osalta henkilörekisterit ovat ajan tasalla ja joidenka osalta kotipaikka tulee aina muutet-
+tua sen mukaan, kun ihminen muuttaa, tulisivat automaattisten laskennallisten kustannus-
+ten maksatusten piiriin niin, että kunta nykyisten neljä kertaa vuodessa hakemuksen poh-
+jalta tehtyjen korvausten sijaan saa nämä korvaukset automaattisesti.
+
+Mutta kuten todettua, tässä on ollut ongelmia ja varmaan tulee olemaan yhä edelleenkin
+siinä, että nämä väestötietojärjestelmät ja ulkomaalaisasiointijärjestelmät toimisivat yh-
+teen. Toinen ongelma on ollut siinä, että ihmisille ei pystytä järjestämään henkilötunnusta.
+Kolmantena on ollut se ongelma, että kaikki eivät tiedä, kuinka suomalainen järjestelmä
+toimii, että rekisteröinti tapahtuu aina muutettaessa niin, että ajantasainen osoitetieto kul-
+kee mukana. Mutta sen lisäksi on tietysti huomioitava, että vaikka — ja toivon, että —
+tämä auttaa huomattavasti kuntia, niin erityistuet elikkä esimerkiksi erityiset terveyden-
+huollon kustannukset, lastensuojelukustannukset, tulkkauskustannukset on yhä edelleen
+haettava niin kuin nykyisinkin sen neljä kertaa vuodessa tehtävän lomakkeen täyttämisen
+kanssa.
+
+Tämä edellytys ei ole myöskään varmaan kaikille ollut selvä — kun näitä paikkakuntia
+on nyt viime syksynä tullut huomattavasti lisää verrattuna aikaisempiin paikkakuntiin,
+joissa vastaanottokeskuksia ja kotoutumista on tehty — että kaikissa on oltava sekä sopi-
+mus elyn kanssa että kunnan tai kuntien yhteinen kotoutumissuunnitelma. Siitä syystä va-
+liokunnan mietintöön on myöskin kirjattu, että tiedottamiseen kunnille tarvittavista sopi-
+muksista ja ohjelmista pitää kiinnittää huomiota ja tietysti sen lisäksi myöskin siihen, että
+ne väestötiedot ovat ajan tasalla.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 32/2016 vp
+Valiokunta on mielestäni kiitettävästi kiinnittänyt huomiota niin tässä kuin budjettimie-
+tinnössä, ja taisi olla vielä kehyksen käsittelyssäkin, näiden korvaustasojen riittävyyteen.
+Korvaustasot on päätetty joskus 90-luvulla, ja sen jälkeen niihin ei ole palattu, vaan niihin
+on tehty indeksiluonteisia korotuksia. Siihen lähtötasoon, mistä alle 7-vuotiaiden ja yli 7-
+vuotiaiden osalta se laskennallinen peruskorvaus tehdään, olisi saatava tasokorotus. Tästä-
+hän valiokunta oli yksimielinen.
+
+Sitten yhä edelleen ehkä kysymyksenä, kun tuossa äskenkin joku viittasi tähän neljään
+vuoteen: Minulle ei ole vielä selvinnyt, miksi meillä kiintiöpakolaisten kohdalla ja oleske-
+luluvan saaneiden turvapaikanhakijoiden kohdalla korvausaika kunnille on erilainen. Tois-
+ten kohdalla se on neljä vuotta ja toisten kohdalla kolme vuotta. Oletettavasti siellä kun-
+nassa ne yhä edelleen asuvat sen kolmen tai neljänkin vuoden jälkeen, ja kustannukset siitä
+ensimmäisestä vuodesta, jonka ehkä on siellä vastaanottokeskuksen puolella, ovat valtion
+kustannuksia, mutta kunnan puolella ne ovat sitten kolme vuotta tai neljä vuotta. Jos joku
+pystyy minulle jossain kohtaa kertomaan, miksi tämä on näin, niin mielelläni kuulisin sen
+vastauksen.
+
+18.06 Juho Eerola ps: Arvoisa herra puhemies! Jonkinnäköisenä vastauksena tuohon
+edustaja Paateron kysymykseen: Olen sitä itsekin aikanaan ihmetellyt, eikä kovin selkeää
+vastausta siihen ole tullut. Mutta jonkunnäköinen peruste siihen on ollut ilmeisesti se, että
+näiden kohdalla, jotka ovat olleet vastaanottokeskuksessa ja sitten saavat myöhemmin sen
+toisen, pienemmän ajan sitä korvausta, on väitetty, että se johtuisi muka siitä, että kun hen-
+kilö on ollut jo siellä vastaanottokeskuksessa, niin hän on jo jonkun verran aikaa kotoutu-
+nut ja oppinut ja ehkä mahdollisesti saanut kielitaitoharrastusta ja näin edelleen. Sen takia
+heillä olisi sitten vain kolme vuotta se aika, kun sitten näillä kiintiöpakolaisina tulevilla oli-
+si neljä vuotta. Tämä ei ole mikään varma vastaus, mutta näin olen kuullut asiasta epäiltä-
+vän.
+
+Arvoisa puhemies! Kiitän tosiaan hallintovaliokunnan puheenjohtajaa Pirkko Mattilaa
+ja koko valiokuntaakin tästä hyvin tehdystä työstä. Olen tyytyväinen hyvin pitkälti tähän
+valiokunnan mietintöön. Mutta yksi miinus sieltä edelleen kuitenkin löytyy, ja toivon to-
+dellakin, että tähän kiinnitetään huomiota ja tätä lakiesitystä päivitetään sen mukaisesti tai
+sitten tämä ongelmakohta korjataan jollain toisella lakiesityksellä.
+
+Kotoutumisen edistämisestä annetun lain 41 §:ssä sanotaan, että kunta voi tehdä ely-
+keskuksen kanssa sopimuksen pakolaisten vastaanottamisesta ja kotoutumisen edistämi-
+sestä. Sopimus on monivuotinen, ja sitä tarkastetaan vuosittain, ja tässä ei vielä tähän men-
+nessä ole yhtään epäselvää. Kuitenkin se, mitä pidän huolestuttavana, on se, että saman lain
+44 § on edelleenkin muuttumaton. Siinä sitten kerrotaan, että kunnalle aiheutuneiden kus-
+tannusten korvaamisen edellytyksenä on edelleen lain 41 §:ssä tarkoitettu sopimus tämän
+ely-keskuksen kanssa. Tässä valiokunnan mietinnössä oikein erityisesti korostetaan, että
+tilanne jatkuu näin myös automatisoidussa korvausprosessissa. Lisäksi kuntia tulee infor-
+moida siitä, että kotouttamisohjelma ja ely-keskuksen kanssa tehtävä sopimus ovat edelly-
+tyksenä laskennallisten korvausten saamiselle myös automatisoidussa korvausprosessissa.
+
+Eli mitä tämä sitten käytännössä tarkoittaa? Minä lainaan itseäni tämän lakiesityksen lä-
+hetekeskustelusta: "Korvausten maksatukseen tarvitaan lain mukaan edelleen sopimus
+elinkeino-, liikenne- ja ympäristökeskuksen kanssa. Kunta ei siis käytännössä voi lakkaut-
+taa pakolaisten vastaanottoa, vaikka haluaisi. Jos se irtisanoo sopimuksen, se menettää jat-
+kossa korvaukset myös niistä, jotka ovat kuntaan jo saapuneet mutta joiden osalta tämä
+4
+
+
+
+Pöytäkirjan asiakohta PTK 32/2016 vp
+kolme tai neljä vuotta ei ole vielä täyttynyt. Jos asia tosiaan on näin, niin tämä on aika koh-
+tuuton tilanne. Näitä kuntien saamia korvauksia ei pidä sitoa sopimuksen voimassaoloon
+eli lupaukseen siitä, että ottaa aina vain lisää näitä pakolaisia. Kun kunta on hyvässä tah-
+dossa sopinut pakolaisten vastaanotosta, pitäisi korvaukset myös suorittaa täysimääräises-
+ti ja luvatun mukaisesti kunnassa jo olevien pakolaisten osalta riippumatta siitä, haluaako
+kunta enää jatkossa näitä pakolaisia ottaa lisää." Tässä samassa täysistunnossa äskenkin
+esiintynyt kunnioitettu edustaja Paatero Kotkasta totesi, että asia täytyy valiokunnassa käy-
+dä läpi, jos tämä näin on. Mielestäni tätä asiaa ei kuitenkaan siellä valiokunnassa ole käyty
+läpi.
+
+Otan tähän loppuun vielä, arvoisa puhemies, käytännön esimerkin. Naantalin kaupunki
+mietti vuoden 2013 alussa suhdettaan pakolaisten vastaanottoon. Vaihtoehtoina oli pako-
+laiskiintiön pienentäminen tai vastaanoton lopettaminen kokonaan. Jos Naantalilla ei olisi
+ollut voimassa olevaa sopimusta 1.4.2013 alkaen, niin ely-keskus ei olisi korvannut kun-
+taan vuosina 2010—2012 sijoitetuista pakolaisista aiheutuneita kustannuksia edellä maini-
+tun ajankohdan jälkeen. Ja tämä ei olisi ollut siis aprillipila, vaikka se oli 1.4. Nämä tiedot
+selviävät kaupungin sosiaali- ja terveyslautakunnan pöytäkirjoista.
+
+Naantalissa päädyttiin rajoittamaan vastaanotto 1—5 henkilöön, koska sopimusta ei
+pystynyt järkevästi irtisanomaan. Tämä epäkohta pitää korjata, sillä mikään sopimus ei voi
+olla sellainen, että jatkosopimuksen olemassaololla määritetään aiempia sopimuksia kos-
+kevien korvausten kohtalo.
+
+Nyt, arvoisa puhemies, olen sanonut tämän tässä keskustelussa ja siinä lähetekeskuste-
+lussa silloin aikaisemmin. Nyt, kun olen kahteen kertaan tämän asian täällä alleviivannut,
+toivottavasti meni perille.
+
+18.12 Joona Räsänen sd: Arvoisa puhemies! Kun tätä mietintöä käsitellään, on hyvä tul-
+la puhumaan nimenomaan tästä isommasta kuvasta, minkä valiokuntakin on hyvin täällä
+auki kirjannut. Todella, tämä kevät tulee olemaan kiireellistä aikaa siinä, että me löydäm-
+me kaikille heille, jotka sitten myönteisen turvapaikkapäätöksen ja sitä kautta oleskelulu-
+van saavat, sen kuntapaikan. Tähänhän vaikuttaa, niin kuin tässä keskustelussa on tullut jo
+esille, keskeisesti se, millä tasolla nämä korvaukset sitten ovat ja seuraavatko ne sitä kus-
+tannusten nousua, mitä niistä palveluista ja niiden tuottamisesta joka tapauksessa syntyy, ja
+onko se silloin kunnalle taloudellisesti mahdollista — vielä, kun tiedämme, että kuntienkin
+taloudellinen tilanne on heikonlainen. Ja siitä pääsemmekin oikeastaan siihen vaateeseen,
+minkä valiokunta niin budjettilausunnossa kuin myös sitten tässä mietinnössä hyvin tuo il-
+mi, että kyllä näitä korvaustasoja pitäisi pyrkiä nostamaan. Tähän liittyy olennaisesti myös
+se, mihin täällä edustaja Paatero viittasi, että kun turvapaikanhakijoille se kuntakorvaus
+kestää sen kolmisen vuotta ja kiintiöpakolaisille neljä vuotta, niin tästä syntyy myös kun-
+nille sellainen tietynlainen kannustin mieluummin ottaa esimerkiksi kiintiöpakolaisia sin-
+ne kuntaan, kun heistä se korvaus on neljä vuotta, ja se taas aiheuttaa sen, niin kuin joissain
+kunnissa olemme nyt jo nähneet, että sitten taas niiden henkilöiden tilanne, jotka jo vas-
+taanottokeskuksissa tällä hetkellä ovat, ovat saaneet myönteisen päätöksen ja odottavat sitä
+kuntapaikkaa, tulee sitten entisestään vaikeutumaan, jolloin olisi varmasti järkevää, että to-
+della harmonisoitaisiin tämä maksatuksen aika — onko se sitten niin, että kaikista makse-
+taan kolme vuotta, vai niin, että kaikista maksetaan neljä vuotta. Tätä neljää vuotta varmas-
+ti tukisi se, että siinä todella olisi sitten tukea myös niille kunnille, jotka näitä kuntapaik-
+koja sitten myöntävät.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 32/2016 vp
+Toinen iso kysymys liittyy siihen, että niin kuin me tiedämme, kotouttamisen osalta iso
+vastuu lankeaa isoille kaupunkiseuduille ja varsinkin pääkaupunkiseudulle. Ja niin kuin
+pääkaupunkiseudulla kuntien kanssa jo näissä MAL-sopimuksissa on osaksi sitä prosessia
+otettu myös tämä kotouttamisen edistäminen, olisi varmaan järkevää, että tätä käytäntöä
+laajennettaisiin koskemaan myös muita kaupunkiseutuja, jolloin voitaisiin helpottaa sitä
+taakkaa, joka heille nimenomaisesti tästä kotouttamisesta tulee. Yhtä lailla kotouttamiseen
+liittyen olisi varmaan järkevää hieman laajempaakin keskustelua tästä aihepiiristä tässä sa-
+lissa käydä ja miettiä, miten me todella tämän kansallisen haasteen kaikkinensa hoidam-
+me. Jos me haluamme, että niin tänne tulijat kuin sitten kantaväestökin tästä maahanmuu-
+tosta hyötyvät, niin se vaatii todella sen, että teemme kaiken voitavamme sen eteen, että
+kotouttaminen onnistuu ja uusista suomalaisista tulee myös sitten tämän oman yhteiskun-
+tamme tulevaisuuden rakentajia.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 25/2016 vp sisältyvän lakiehdotuksen sisäl-
+lön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+6
+
+

@@ -1,0 +1,574 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM950F.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 54/2019 vp
+
+Täysistunto
+
+Tiistai 22.10.2019 klo 14.00—16.55
+
+3. Hallituksen esitys eduskunnalle Euroopan unionin virallista valvontaa koskevaa asetus-
+ta tuontivalvonnassa täydentäväksi lainsäädännöksi
+
+Hallituksen esitys HE 56/2019 vp
+
+Lähetekeskustelu
+
+Puhemies Matti Vanhanen: Lähetekeskustelua varten esitellään päiväjärjestyksen 3.
+asia. Puhemiesneuvosto ehdottaa, että asia lähetetään maa- ja metsätalousvaliokuntaan,
+jolle perustuslakivaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 45 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+14.47 Mikko Savola kesk: Arvoisa herra puhemies! Tämä lakihan liittyy EU:n valvonta-
+asetukseen, ja sillä varmistetaan, että kolmansista maista tuotavat eläimet ja tavarat täyttä-
+vät EU:n lainsäädännön vaatimukset. Tässä kosketellaan nimenomaan ihmisten, eläinten ja
+kasvien terveyttä, eläinten hyvinvointia ja ympäristönsuojelua. On ilman muuta tärkeätä,
+että ne omaan lainsäädäntöön viedään. Me tiedämme hyvin paljon esimerkkejä siitä, miten
+esimerkiksi lemmikkieläinpuolella meillä voi olla pentutehtailun ja epäeettisen eläintuo-
+tannon kautta tapahtuvaa tuontia Suomeen, ja tähän valvontaan meidän pitää pystyä pureu-
+tumaan. Toki sitä on tehtykin, mutta tämä lainsäädäntö antaa siihen uusia elementtejä
+muun muassa sitten seuraamusmaksujen kautta.
+
+Ei puhuta ainoastaan eläintaudeista — jotka tietysti ovat meidän tuotantoeläimillemme
+hyvin haasteellisia ja vaikeita ja joittenka pääsyä Suomeen pitää kaikin tavoin estää, se on
+erittäin tärkeää — vaan puhutaan myöskin kasviterveydestä, siitä, että me huolehdimme,
+että meille ei ihmisen toimin, niin sanotusti ylimääräisesti, näitä eläintauteja, kasvitauteja
+ynnä muita tule.
+
+Tässähän ovat Ruokavirasto ja Tulli tämän lainsäädännön myötä arvioineet, paljonko
+näitä olisi, kun seuraamusmaksu tulee — noin 500 kappaletta, mitä on laskettu — ja tässä
+tietysti jonkinlaisia tulovaikutuksia myöskin tulisi, joita pystytään sitten meillä käyttä-
+mään hyväksi. Tämä on tietysti arvioitu peilaamalla tätä seuraamusmaksua koskevia teko-
+ja, laiminlyöntejä tässä nykyisessä mittakaavassa, nykyisessä tuontivalvonnassa.
+
+Kaiken kaikkiaan kannatettava esitys, jota viedään eteenpäin ja jota me sitten maa- ja
+metsätalousvaliokunnassa käsittelemme.
+
+14.49 Ritva Elomaa ps: Arvoisa puhemies! Tavara, ihmiset ja eläimet liikkuvat vinhaa
+vauhtia Euroopan unionin alueella maasta toiseen. Tämä on lähtökohtaisesti hyvä asia,
+mutta siihen liittyy myös paljon riskejä. 
+ Tarkistettu
+3.3
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+Esityksessä ehdotetaan säädettäväksi uusi laki eläinten sekä eräiden tavaroiden tuonti-
+valvonnasta, jolla täydennettäisiin Euroopan unionin virallista valvontaa koskevaa asetus-
+ta sen soveltamisalaan kuuluvien sääntöjen noudattamisen valvonnassa eläinten ja eräiden
+tavaroiden maahantuonnin yhteydessä. Laki koskisi elintarviketurvallisuutta sekä elintar-
+vikkeiden laatua ja terveellisyyttä, muuntogeenisiä organismeja, rehuja ja rehuturvallisuut-
+ta, eläinten terveyttä, eläimistä saatavista sivutuotteista ja niistä johdetuista tuotteista ai-
+heutuvia riskejä ihmisten ja eläinten terveydelle, eläinten hyvinvointia sekä suojattuja al-
+kuperävaatimuksia, suojattuja maantieteellisiä merkintöjä ja aitojen, perinteisten tuottei-
+den käyttöä ja merkintöjä koskevien sääntöjen virallista valvontaa. Tästä voisi puhua kyllä
+vaikka koko illan.
+
+Valvonta Suomessa on toiminut tähän mennessäkin todella hyvin, mutta haluan tässä
+yhteydessä nostaa esille eläinten maasta toiseen kuljettamiseen liittyviä ongelmakohtia. 
+
+EU-alueella koiria kaupataan vuosittain satoja tuhansia, ja koirien sekä kissojen kasva-
+tuksessa ja kaupassa liikkuu vuosittain miljardiluokan rahasumma. Lemmikkikauppaan
+liittyen kansallisissa säädöksissä on merkittäviä eroja jäsenmaiden välillä. Kasvattajien ja
+kauppiaiden rekistereissä ilmenee suuria eroja, kuten myös eläinten rekisteröinti- ja mer-
+kintätietokantojen kohdalla. Laiton lemmikkikauppa, myös EU:n sisällä, on viime vuosi-
+kymmenen aikana kasvanut valtavaa vauhtia. Aivan tarkkoja lukuja ei laittomasta lemmik-
+kieläinkaupasta ole olemassa, mutta selvää on, että laiton pentutehtailu on miljardibisnes ja
+merkittävä tulonlähde järjestäytyneelle rikollisuudelle. Asiallisesti dokumentoidun mai-
+den rajat ylittävän eläimiin liittyvän kaupankäynnin määrä on tuntuvasti pienempi kuin
+lemmikkien todellinen liikkuvuus jäsenmaiden välillä. Eläinten kuljetukseen liittyen ilme-
+nee ongelmia jonkin verran myös karjataloudessa. Muistamme varmaan ne dokumentit te-
+levisiossa, kun näimme, että esimerkiksi yhdestä jalasta riippuvia lehmiä — ne ovat eläviä
+vielä — on kuljetettu ja liikutettu paikasta toiseen.
+
+Laiton eläinkauppa on EU:n kolmanneksi kannattavin järjestäytyneen rikollisuuden ala,
+vain huume- ja asekauppa menevät edelle. EU:n lemmikkipassijärjestelmää tulisi kehittää
+ja valvontaa tehostaa todella paljon. Laittoman kaupan yhteydessä lemmikkieläimiä säily-
+tetään kamalissa oloissa sekä kuljetetaan pitkiä matkoja. Esimerkiksi Euroopan alueella on
+tuhansien äitikoirien suuria halleja. Törkeissä olosuhteissa äitikoiria pennutetaan jatkuvas-
+ti, ja valitettavasti osa näistä pennuista tulee jopa tänne Suomeen, Länsisatamaan: taka-
+luukku auki, ja ostajat menevät sitten ostamaan edullisesti jopa vain parin viikon ikäisiä
+pentuja. Sen takia myös tartuntatautien riski kasvaa, mikä aiheuttaa huomattavia terveys-
+uhkia yli maiden rajojen eläimille ja jopa ihmisille.
+
+Tämä epäinhimillinen, järjestelmällinen eläinten rääkkääminen on saatava loppumaan.
+Suomi on myös nyt sitten puheenjohtajakaudellaan avainasemassa nostamaan tämänkin
+asian esille. Pentutehtailu on kasvava rikollisuuden muoto. Perussuomalaiset ovat vahvas-
+ti esittäneet huolensa ja myös toimenpiteitä pentutehtailun hillitsemiseksi.
+
+Myös toinen asia: Nimittäin jos ajatellaan lihanmyyntiä, Suomessa esimerkiksi sioilla
+on saparot koko elämänsä ajan, kun taas EU:n monessa maassa ei näin ole, vaan ne pois-
+tetaan possulta jo alkuvaiheessa, ja se on varmaan kivuliasta. Myös kanat saavat pitää Suo-
+messa nokkansa, kun taas kanojen nokkia leikataan, kärki pois, tätä tapahtuu paljon EU:n
+muissa maissa. Ruotsi ja Suomi ovat edelläkävijät, ne eivät tätä tee, ja silti pelataan samoil-
+la markkinasäännöksillä. Se on väärin.
+
+Meillä on myös muutama meppi, jotka ovat pitäneet esimerkiksi lemmikkieläinten ase-
+man parantamista hyvin paljon esillä, mutta mitään toimenpiteitä ei ole nyt näkynyt kui-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+tenkaan moneen, moneen vuoteen, ei oikeastaan paljon edistystä. Joten näihin ongelma-
+kohtiin pitää puuttua ja saada parannuksia. Eläimet ovat arvokkaita, ja me haluamme var-
+maan, ainakin Suomessa ja varmaan muissakin maissa, kohdella eläimiä hyvin, mutta on-
+gelmia on, ja ne pitää ratkaista — varsinkin tämä pentutehtailun rikollinen muoto, se on jä-
+risyttävän suurta Suomessakin. — Kiitos.
+
+14.55 Anne Kalmari kesk: Arvoisa herra puhemies! Edustaja Elomaa, jonka tiedän kun-
+nostautuneen myöskin eläinsuojeluryhmän puheenjohtajana, otti hyviä ja tärkeitä seikkoja
+esille. Toki me emme voi suomalaisella lainsäädännöllä, valitettavasti, estää Suomeen tu-
+lemasta lihaa, joka on tuotettu tuotantomenetelmillä, jotka ovat meille suomalaisille kiel-
+lettyjä ja joiden suhteen on itsestäänselvää, että näin ei tapahdu. Sen takiahan kanojen nok-
+kia typistetään tai possujen saparot katkaistaan, että elinolosuhteet eivät ole niin hyvät ja
+stressaantuneina possut käyttäytyvät tosiaan kohtaan aggressiivisesti. Ei siis ole hännän
+purentaa, kun ei ole häntiä, tai ei ole kannibalismia, jos nokat on typistetty. Ja ajatelkaa,
+näin tapahtuu valtaosassa maailman maita, ainoastaan Pohjoismaista Suomi ja Ruotsi ei-
+vät näin toimi. Mutta sen sijaan voimme julkisissa ruokahankinnoissa kilpailuttaa tuotteita
+niin, että tällaiset eettiset näkökulmat on huomioitu, ja vetoankin teihin kaikkiin paikalla-
+olijoihin: tehkää omissa kotipitäjissänne tai kuntayhtymissänne hankintapäätöksiä, jotka
+edellyttävät eettistä tuotantotapaa. 
+
+Mutta sitten tähän varsinaiseen lainsäädäntöesitykseen: Se on itse asiassa hieman samaa
+sarjaa kuin tuo edellinen lainsäädäntöesitys ja mitä elintarvikelainsäädännön muutoksia
+meillä muutoinkin siellä valiokunnassa on. Edustajat Savola ja Elomaa tätä hyvin esitteli-
+vätkin, ja tulemme varmaan monelta kantilta kuulemaan. Kyse ei ole pelkästään eläinten
+tuomisesta, vaan myöskin kolmansista maista tulevien elintarvikkeitten tuonnista. Jos sel-
+laisen lyhyen peruskurssin elintarviketuonnista pitäisi, niin hommahan menee niin, että
+mikä on Euroopan sisälle kolmansista maista, Euroopan ulkopuolisista maista tuotu, sitä ei
+sen jälkeen oikeastaan muuta kuin riskiperusteisesti siellä tullissa tarkasteta, ja sitten kas-
+vituotteet liikkuvat taas niin, että jatkossa niitä tarkastetaan kuntien ympäristöterveyden-
+huollon toimesta. 
+
+Nyt on tärkeää, että kun tiedetään olevan näitä toimijoita, jotka eivät pelisääntöjä nou-
+data, niitä hyvin tuossa edellisessä puheenvuorossa kuvattiinkin, niin seuraamusmaksuilla
+saataisiin sellainen pelote aikaan, että näin ei kannattaisi toimia, ne riskit olisivat niin pal-
+jon isommat, ja kiinnijäämisen pelko ohjaisi siihen, että tällaista toimintaa ei tulisi. Siksi
+mielenkiinnolla seuraan sitä keskustelua ja asiantuntijakuulemisia, mitä esimerkiksi tästä
+seuraamusmaksun tasosta käydään. Onko se sellainen, että se pelotevaikutus on riittävä?
+Tärkeää on se, että viranomaiset tietävät, kelle mikäkin toiminta selkeästi kuuluu, ja niin,
+että resurssit ovat riittäviä silloin, kun puhutaan tällaisesta kansainvälisestä tuonnista. 
+
+Ja yksi asia, mihin toivoisin, että tämä kansanedustajajoukko myös vaikuttaa, on asen-
+teet. Aika moni henkisesti jotenkin hyväksyy tämmöisen peräkontista koiran oston, jos
+vaikka mennään tänne eläinpuolelle, ja minusta se on absoluuttisesti väärin. Se lisää eläin-
+tautien riskiä, se lisää laittomuuksia, se ei kerta kaikkiaan sovi suomalaisten eläinten hy-
+vinvoinnista huolehtivaan kansaan. Me emme saa hyväksyä moraalisesti tällaista toimin-
+tatapaa. 
+
+14.59 Jari Myllykoski vas: Arvoisa herra puhemies! Näin maa- ja metsätalousvaliokun-
+nan jäsenenä on pakko sanoa muutama sana ja kiittää edellä olevia edustajia hyvistä pu-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+heenvuoroista. On oikein, että tässä yhteydessä voimme vähän laventaa keskustelua ja pu-
+hua yleensäkin ja erityisesti ottaa esille myös meidän lemmikkieläinkauppamme tällä het-
+kellä kotimaassa — valitettavasti meidän pentutehtailu on hyvin yleistä sekä se, että meille
+tuosta rajan takaa tuodaan — mutta myös EU:n sisällä. No, tällä nyt ei siihen puututa, mut-
+ta tämä on erinomaisen tärkeä asia tautiturvallisuuden takia. Saattaa olla, että emme ole
+vielä kohdanneet aivan sitä kaikkea kauheutta, mitä voisi vaikkapa jalostettujen kotieläin-
+ten puolelta tuoda, jos emme ole hereillä siinä. Meidän onneksemme lainsäädäntömme tur-
+vaa, että ei meillä nyt aivan sellaista lihakarjaa tänne olla tuomassa eikä sallimassa, mitä
+tuolla ison veden takana käytetään ihmisten ravinnoksi. Siinä mielessä me olemme täällä
+kohtuullisen hyvin EU-tasollakin jo ottaneet kantaa siihen, millä lailla eläimiä kasvatetaan
+hormoneilla ja niin edelleen. Me olemme hyvin kriittisiä gmo-rehuihinkin, ja toivottavasti
+se linja tässä yhteydessä pitää.
+
+Mutta kuinka nämä seuraamusmaksut toimivat rikollisjärjestöjen bisnekseen, niin en us-
+ko, että tällä pääsemme. Huumeitakin tuodaan tänne, ei aina tynnyrikaupalla, niin kuin nyt
+olemme tässä erään oikeudenkäyntiprosessin aikana havainneet, mutta yleensä hyvin pal-
+jon eläinten salakuljetukseen, salakauppaan liittyy se, että ne ovat yksittäisten ihmisten
+tänne tuomia ja välittämiä, jolloin tällä seuraamusmaksulla tuskin tulee olemaan sellaista
+toivevaikutusta tai -vaikuttavuutta, jolla voimme päästä käsiksi siihen, että tämmöinen lai-
+ton eläinkauppa voitaisiin suitsia EU-maiden ulkopuolelta. Meidän tarvitsee saada tähän
+vielä joku toinen väline, jolla pystyttäisiin estämään se. Toivottavasti tässä tehdään jatkos-
+sa yhteistyötä erityisesti Tullin kanssa, niin että me voimme ruveta riskiperusteisesti arvi-
+oimaan sitä, että kun joku narahtaa tällaisesta kaupasta, niin rajanylitys ja kontrolli rupeaa
+toimimaan — niin kuin tähänkin asti toki naapurista tultaessa jos on tapahtunut laitonta
+tuontia, niin viranomaisilla on ollut hälytyskellot herkemmässä. Me tarvitsemme tähän
+laittomaan eläinkauppaan jotakin sellaista terävää välineistöä, jolla pystymme yksittäisten
+ihmisten tänne tuomien eläinten salakuljetusta suitsimaan.
+
+15.03 Leena Meri ps: Arvoisa puhemies! Hyviä puheenvuoroja on pidetty, erityisesti
+Eduskunnan eläinsuojelukerhon pitkäaikainen puheenjohtaja Elomaa. Olen hänen kans-
+saan ollut tässä kerhossa pitkään, ja olemme yrittäneet vaikuttaa monin tavoin niin kansal-
+lisesti kuin kansainvälisesti eläinten hyvinvointiin, mukaan lukien myös se, että pidetään
+tietty tolkku. 
+
+Olisiko ollut edustaja Kalmari, joka puheenvuorossaan totesi, että me emme voi estää
+esimerkiksi tietynlaisen lihan tuontia Suomeen. Tämä on sellainen asia, mihin itse asiassa
+olisi ratkaisu, jos sitä haluttaisiin Euroopan unionissa käyttää. Perussuomalaiset ovat esit-
+täneet semmoista kuin ilmastotulli, jonka voisi asettaa EU:ssa kolmansille maille. Itse mie-
+tin, että nythän siihen voisi lisätä myös tämän eläinten hyvinvoinnin kolmansissa maissa.
+Ajatuksena on ollut, että siinä ovat se, minkälaisella energialla on tuotettu, onko hiilituo-
+tannolla, ja ympäristöystävällisyys ja lapsityövoima, ja siinä voisi olla myös yhtenä kritee-
+ristönä se, miten kohdellaan eläimiä siinä kyseisessä maassa, ja mikäli se ei täytä näitä
+EU:n yhteisiä standardeja, niin sittenhän sitä halpalihaa ei tarvitsisi tuoda EU:hun. Tämä
+on se kenttä, missä meidän pitäisi pystyä vaikuttamaan. 
+
+Tämä on erittäin hyvä ja tämä koskee kolmansista maista tuontia, mutta mietin myös,
+että pitäisi pystyä myös täällä EU:n sisällä enemmän tekemään, ja vetoankin nyt oikeas-
+taan hallituspuolueisiin, koska teillä on nyt suurin valta siinä, kun Suomella on puheenjoh-
+tajuus EU:ssa, mutta enpä ole kuullut eläintensuojelusta kyllä puhuttavan. Mietin esimer-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+kiksi Espanjan härkätaisteluja, Etelä-Euroopan metsästyskoirien kiduttamista silloin, kun
+ne metsästävät huonosti — siellähän koiraa ei suinkaan levollisesti tapeta, vaan siellä on
+vanhoja rituaaleja, joissa koiria kidutetaan — ja tämmöisiä asioita, mistä ei yleensä kehda-
+ta kauheasti puhua ja ottaa kansainvälisissä pöydissä esille, ja se pitäisi ehdottomasti tehdä. 
+
+Samaten mietin kuljetuksia ja yleensäkin eläinten pitämistä. En voi ymmärtää, että meil-
+lä ei vielä Suomessakaan ole sellaista lainsäädäntöä, että esimerkiksi eläintenpitokieltoon
+liittyen olisi sellainen velvoite, että jokaisen myyjän tulisi tarkistaa, että ostajalla ei ole
+eläintenpitokieltoa. Minulla on ollut koko ikäni koiria ja minulla on ollut hevosiakin, ja ku-
+kaan ei ole koskaan kysynyt minulta, että onko minulla eläintenpitokielto. Olen miettinyt
+sitä, että kyllä se myyjä voisi vähän miettiä, että ei se varmaan siinä viidessä minuutissa
+aina näe, minkälainen ihminen minä olen, ja se olisi aika helppo asia.
+
+Mietin just näistä eläinkuljetuksista, että voisi EU:ssakin olla jonkinlaista selvitystä sii-
+tä, että täällä eivät saa kuljetusyhtiöt toimia, jos heillä on esimerkiksi kuljettajina ihmisiä,
+jotka on tuomittu eläinten pahoinpitelystä johonkin tuomioihin. Meidän pitäisi myös kat-
+soa, keitä ihmisiä siellä säännönmukaisesti liikkuu eläinten kanssa, koska jos kovasti koh-
+telet eläimiä kerran, niin usein teet sen vielä toisenkin kerran.
+
+Tulee nyt mieleen kolmansista maista vielä nämä tuotteet, jotka on esimerkiksi tehty
+karhujen sappinesteestä, ja niillähän on ihan turhamainen tarkoitus parantaa jonkintyyppis-
+tä potenssia, jos olen oikein ymmärtänyt. 
+
+Sitten minä haluaisin vielä tässä keskustelussa erottaa sen, kun puhutaan pentutehtailus-
+ta, joka on tosi vakava asia, jonka minä haluaisin lopettaa, että julkiseen keskusteluun nyt
+on saapunut myös sitten se, että kun tuodaan laillisesti ja asianmukaisesti esimerkiksi res-
+cuekoiria, niin sitä on alettu paheksumaan joillakin Facebook-sivustoilla. Itselläni on kak-
+si Romaniasta tullutta koiraa. Ne ovat tulleet Pelastetaan Koirat ry:n kautta, ja siellä on erit-
+täin asiallinen toimija paikan päällä, ja siellä on useampi paikallinen eläinlääkäri käynyt ne
+koirat läpi, ja ne ovat todella terveitä, niillä on passit ja lääkärintodistukset ja ne on myös
+kotimaassa tarkastettu. Nyt on alkanut kääntyä se puhe sellaiseksi, että edes tämmöistä ei
+saisi enää tehdä, eli näitä eläimiä ei saisi tuoda. Kyllä minä nyt sitä hieman ihmettelen, että
+miksi en voisi tuoda kotiini tervettä koiraa, jonka kustannukset minä maksan itse, ja kun
+varmasti selvitän, että sillä on kaikki kunnossa. Olen aikaisemmin omistanut täällä eläi-
+miä, koiria, kennelistä ostettuna — itse asiassa ne olivat kyllä rotukoiria vielä — ja ne sai-
+rastelivat kyllä enemmän. Meidän pitäisi pitää sitten myös se tie auki, että me emme lähde
+siihen, että ei saa tuoda enää sitten mitään eikä saa tehdä hyväntekeväisyyttä omilla rahoil-
+laan.
+
+Tämä nyt meni vähän kauas tästä aiheesta, mutta eläinten hyvinvointi on niin laaja ky-
+symys, ja me puhumme hirmu harvoin siitä ottaen huomioon, että sadoillatuhansilla ihmi-
+sillä Suomessa on lemmikkejä, eläinten terveysvaikutukset ihmisille on tutkittu ja ne ovat
+meidän monien jokapäiväistä elämää, ja siitä huolimatta me puhumme niiden hyvinvoin-
+nista liian vähän. 
+
+15.08 Jenni Pitko vihr: Arvoisa puhemies! Kuten täällä on tänään nostettukin, Suomessa
+edelleen hankitaan koiria niin kutsutuista pentutehtaista, vaikkakin tietoa ostajan velvolli-
+suuksista on aktiivisesti pyritty lisäämään viime vuosina. 
+
+ Tosiaan, pentutehtailussa tavoitteena on tehdä mahdollisimman paljon rahaa eläimillä
+myymällä niitä ilman, että huolehditaan eläimen hyvinvoinnista ja terveydestä. Pentuteh-
+tailijoita on saatu Suomessa kiinni, mutta edelleen pentuja elää epämääräisissä oloissa ja
+5
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+niille löytyy valitettavasti ostajia. Eläimiä Suomessa välittäviä sivustoja käytetään laaja-
+mittaisen ulkomailta tuotujen pentujen välitykseen, ja tähän liittyy myös pentutehtailua ul-
+komailla, kuten myös Suomen puolella. Toukokuussa luimme uutisista kammottavasta ta-
+pauksesta, jossa Suomessa myyjä oli myynyt vuosien aikana koiranpentuja, joita pääteh-
+tailija oli tuonut Virosta ja Latviasta Suomeen. Koirilla ei ollut virallisia terveystodistuksia
+maahan tuotaessa. Koiria pidettiin Suomessa likaisissa ja terveyttä vaarantavissa oloissa ja
+ilmanlaadultaan huonoissa olosuhteissa ennen luovutusta. Tällainen toiminta on ehdotto-
+masti saatava Suomessa loppumaan. 
+
+Tulevassa eläinsuojelulain muutoksessa onkin kaavailtu otettavaksi käyttöön koirien pa-
+kollinen tunnistusmerkintä, ja se on tärkeä askel tässä työssä. Lisäksi nyt tuontivalvontaa
+ollaan lisäämässä, ja tänään aloitamme käsittelemään tätä EU:n valvonta-asetusta eläinten
+tuontivalvonnan osalta. Erityisen hyvää tässä lakiesityksessä onkin, että jatkossa lemmik-
+kien virheellisestä tuonnista voidaan määrätä seuraamusmaksu ja että lemmikkieläinten
+tuonnissa todettuihin puutteisiin voitaisiin tarttua nykyistä paremmin. 
+
+Haluan myös sanoa, että täällä salissa on tänään valiteltu aiheestakin sitä, että emme
+pysty rajojemme ulkopuolella vaikuttamaan suoraan eläinsuojelulakeihin, mutta haluan to-
+deta, että voimme kuitenkin Suomessa lainsäädännöllä parantaa meidän Suomessa olevien
+eläinten olosuhteita ja parantaa eläinten hyvinvointia, sillä tekemistä meillä on myös sen
+suhteen, samalla vaatien yhtä hyvää kohtelua myös muilta mailta, kuten nyt EU:n maata-
+louspolitiikkaa uudistettaessa.
+
+15.10 Mikko Savola kesk: Arvoisa herra puhemies! Tästä itse lainsäädännön laventami-
+sesta tähän yleiseen eläinten hyvinvointikeskusteluun, niin tämä on varmasti niitä harvoja
+asioita, mistä me näin yksimielisesti tässä salissa käymme keskustelua.
+
+Mitä tulee lemmikkieläinten ottamiseen ja pitoon, niin kyllä me ihan jokainen pystym-
+me siihen vaikuttamaan. Meillä pitäisi myös hälytyskellojen tiettyjen merkkien täyttyessä
+soida hyvin vahvasti. Ensinnäkin jos lemmikkieläintä kaupataan älyttömän halvalla tuolla
+netin kautta, niin sen jo pitäisi herättää, että miksi tämä hinta on näin halpa. Kun lemmik-
+kieläintä hommaa, niin jokainen meistä pystyy myös katsomaan, mikä sen lemmikkieläi-
+men ikä, mikä sen kunto on, ja vaaditaan tietysti myös todistukset. Kun koiran hankkii ken-
+nelistä, niin kyllä minä ainakin, kun olen itselleni koiraa hankkinut, olen saanut kaikki tar-
+vittavat todistukset, ja niihin pito-olosuhteisiin pääsee etukäteen tutustumaan. Varsinkin
+se, jos koiraa kaupataan jossakin parkkipaikalla eikä siellä itse kennelissä, on yksi, miksi
+hälytyskellojen pitäisi soida.
+
+Haluaisin myös korostaa sitä, että kyllä me tarvitsemme asennekasvatusta myöskin ko-
+teihin. Eläimet eivät ole mitään leluja. Meidän pitää pystyä kasvattamaan myös omat lap-
+semme siihen, kuinka eläinten kanssa toimitaan. Kyllä näin maaseudulta tulevana, kesä-
+mökkipaikkakunnalta olevana valitettavasti näitä kesäkissojakin joka syksy vastaan tulee.
+On se nyt ihme paikka, jos tähän ei pystytä järkeä ihmisille saamaan, että jos kissanpentu
+otetaan, niin siitä pitää pystyä myöskin huolehtimaan. Meillä on vastuu myös ympärillä
+olevasta luonnosta, koska kissa on luonnossa peto, se tappaa jäniksenpoikasia, linnunpoi-
+kasia ja niin edelleen, ja tähänkin pitää pystyä puuttumaan. No, se näistä lemmikkieläimis-
+tä.
+
+Tuotantoeläimiin haluan kommentoida vain sen verran, että meillähän on Suomessa hy-
+vät eläintenpito-olosuhteet. Aivan kuten edustaja Elomaa hyvin kuvasi, niin meillä näistä
+laatustandardeista pidetään kiinni. Meillä ruokateollisuus myös sen vaatii. Jos mietitään
+6
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+Atrian laatuvaatimuksia, mietitään Valion laatuvaatimuksia, mitä tuotantoeläinten puolel-
+le tulee, ne ovat huippuluokkaa, ja ne vaaditaan, niitä valvotaan, ja se on hyvä asia. Mutta
+valitettavasti, kun eläinten hyvinvointiin liittyviä ongelmia Suomessa on ilmentynyt, niis-
+sä on monta kertaa tuottajan jaksaminen, tuottajan hyvinvointi siellä taustalla. Tämä on se,
+mihin meidän pitää pystyä vahvemmin puuttumaan. Tämä tulee siitä, että kannattavuus on
+viljelyssä kunnossa. Kun lompakossa on jotain, millä maksaa laskut, niin silloin ihminen
+myös yleensä jaksaa paremmin. Myöskin Välitä viljelijästä -hanke ja muut vastaavat hank-
+keet, missä tuottajat auttavat toisiaan, tuottajajärjestö tuo vertaistukea, ovat äärettömän tär-
+keitä näille viljelijöille. Minä toivon, että tällä vaalikaudella me saamme tähän kannatta-
+vuuteen sen parannuksen, mitä viljelijät tarvitsevat. Tällä on suora vaikutus myöskin sii-
+hen, että meillä eläimet tässä maassa voivat hyvin.
+
+Puhemies Matti Vanhanen: Tämä esitys kattaa myös eläinten tuonnin, ja sen takia olen
+sallinut tämän eläinsuojelukeskustelun, mutta kieltämättä Ähtärin kesäkissat menivät jo
+vähän liian kauaksi tästä aiheesta.
+
+15.13 Mari Rantanen ps: Kiitos, puheenjoh… Anteeksi. — Arvoisa puhemies! [Puhe-
+mies: Oikein!] — Kiitos.
+
+Oikein ilolla kuuntelin tässä edustaja Savolan puheenvuoroa. Juuri näin on, että ihmisil-
+lä on itselläänkin vastuu tästä, vastuu eläinten hyvinvoinnista, sillä on todella näin, että jos
+ihmiselle kaupataan parkkipaikalla chihuahuanpentua 200 eurolla, niin siinä on jotakin
+mätää — tässä mielessä toivoisin, että sen lisäksi, että meillä regulaatiota eli sääntelyä pa-
+rannetaan, tiedotettaisiin edelleen ihmisiä siitä, että silloin siinä on jotain feelua.
+
+Sitten sen lisäksi haluaisin vielä korostaa tässä kohtaa sitä, mitä edustaja Meri täällä pu-
+hui, mitä on pentutehtailu ja mitä on vastuullinen rescuetoiminta. Kuten hän totesi, niin
+näitä asioita valitettavasti sekoitetaan tällä hetkellä varsin nohevasti, ja se on väärin. Pen-
+tutehtailu on taloudelliseen etuuteen pyrkivää toimintaa, jossa siis kasvatetaan eläimiä ja
+myydään niitä sitten eteenpäin, ja rescuetoiminta on sitä, että kodittomalle eläimelle voi-
+daan antaa toisesta maasta koti. Näin tapahtuu EU:n ulkopuolelta EU:n sisäpuolelle mutta
+myös EU:n sisällä. Itse olen ollut enemmänkin tekemisissä Etelä-Euroopan kanssa tässä
+rescuetoiminnassa, ja totean vain sen, että vaikka meillä on paljon korjattavaa muun muas-
+sa meidän omassa eläinsuojelulaissa, silti me olemme Suomessa aika hyvässä asemassa
+verrattuna Etelä-Euroopan maihin. Ja nyt kun me teemme tämmöistä EU:n kattavaa sään-
+telyä, niin olisi hyvä viedä näitä myös sinne EU-keskusteluihin, koska meillä on valtavia
+tasoeroja siinä, millä tavalla eläinsuojelua ja eläinten asemaa ylipäätänsä ja eläinkauppaa
+hoidetaan Suomessa tai Kreikassa tai näin päin pois, ja mielestäni olisi tärkeä huomioida
+tässä, että pidetään näitä asioita esillä myös kansainvälisissä keskusteluissa.
+
+15.16 Anne Kalmari kesk: Arvoisa herra puhemies! Vielä lyhyesti muualta tuotavista
+kotieläimistä: Mielestäni on erittäin hyvä se asia, minkä edustaja Pitko tuossa nosti, että
+meillä on tulossa koirarekisteri ja kissarekisteri, jotka tällaiseen pentutehtailuun puuttuvat.
+Itse toivoisin, että vielä enemmän kuin mitä pelastetaan Espanjasta tai Italiasta rescuekoi-
+ria otettaisiin vaikka Helsingin eläinsuojeluyhdistyksen lukuisasta joukosta koiria, joille he
+eivät saa kotia, ja otettaisiin kotimaan koirat ensin hoivaan, vaikka ne sieltä kadulta tulleet
+söpöjä ovatkin ja asialliset toimijat ehkä rokotukset hoitavat kuntoon. Näin ihan tautitilan-
+teen ja kaikkien suomalaisten koirien hyvinvoinnin kannalta toivoisin.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+Sitten tähän kolmansista maista tulevien eläinperäisten tuotteitten valvontaan vielä.
+Meillä tosiaan — vähän nostinkin tuossa puheenvuorossani sitä — on käytäntö, että kun
+Euroopan sisällä jossain maassa nämä elintarvikkeet on hyväksytty, niin silloin ne on ikään
+kuin hyväksytty koko Euroopassa jo ja ne saattavat kohdata sitten ainoastaan joitakin sa-
+tunnaiskokeita. Minusta se on vähän surullista, koska tiedetään, että ihan kaikissa maissa
+tämä elintarvikevalvonta ei samalla tasolla ole, ja uskallan nostaa sellaisista maista, mitkä
+valiokuntavierailulla itse ovat nostaneet tätä vilunkitoimintaa framille, esimerkiksi Roma-
+nian. Siellä on hyvin laajamittaista sellaisten elintarvike-erien käyttö, jotka eivät oikeas-
+taan olisi elintarvikkeeksi kelpaavia, ja sitten kun niitä jalostetaan eteenpäin, niin se elin-
+tarvikkeeksi kelpaamattomuus ikään kuin katoaa. Mielestäni kuluttajan kannattaisi aika
+lailla hereillä olla ostaessaan tuotteita ja seurata sitä alkuperää varsinkin nyt kun se alku-
+perän merkitseminen on tehty entistä sitovammaksi — joskin toivoisi, että jalosteissa se
+vielä paremmin näkyisi.
+
+15.18 Jari Myllykoski vas: Arvoisa herra puhemies! En lähde ottamaan kantaa, minkä
+maan koirat ensiksi, mutta sitä vastoin haluan tuoda esille sen, että on tosi tärkeätä, että me
+voisimme ajatella, kuinka autokauppaa tässä maassa käytäisiin, jos ei autoa tarvitse rekis-
+teröidä. Meillä varmasti olisi katsastamattomia autoja. Me varmasti tiedettäisiin, mihinkä
+se johtaisi, ja nyt koirakaupassa ollaan tällä hetkellä siinä tilanteessa, kun ei ole tätä rekis-
+teröintiä.
+
+No, jo viime kaudella eläinsuojelulain kokonaisuudistuksessa puhuttiin koirien merkit-
+semispakosta. Uskoisin, että kun tuolta EU- ja Eta-maiden ulkopuolelta tuodaan koiria,
+niin ehkä tämä seuraamusmaksu voitaisiin jotenkin liittää siihen, että jos koiraa ei ole tar-
+koituksenmukaisesti tarkastettu ja jo lähtömaassa rekisteröity, niin me voisimme tällä kan-
+sallisella lainsäädännöllä, mitä me nyt valmistelemme, puuttua siihenkin asiaan, että vel-
+voitamme jo lähtömaasta tulevan koiran olevan mikrosirulla taikka muulla tavoin merkit-
+ty, jotta se on jo rekisterissä meillä täällä. Silloin me pystymme ehkäisemään tätä laitonta ja
+epätervettä eläinkauppaa, jolloin tämäkin laki, mistä nyt käymme lähetekeskustelua, voisi
+saada sen muodon, jolla me voimme hallita sitä eikä vain olla toiveitten varassa. 
+
+Tärkeätä on, että eläinsuojelulain kokonaisuudistuksessa tämä rekisteröinti ja siinä ole-
+vat velvoitteet saavat sellaisen muodon, että me pystymme ehkäisemään myös sellaisen ul-
+komailta tuodun koirakaupan, joka on laitonta. Sanotaan nyt kuitenkin niin, että meillä voi
+olla sellaisessa taloudellisessa tilanteessa olevia suomalaisia, jotka ovat ihastuneet johon-
+kin rotuun, ja jos sen rodun voi saada 200 eurolla tai sen näköisen koiran, josta sanotaan,
+että se on tällaisista vanhemmista, niin uskon, että se on vähävaraiselle suomalaiselle aika
+lailla tärkeä osa. Tai jos on metsästyskoirista kysymys, joitten hinta on lähellä 2 000 euroa
+jo nykyisellään, niin pitää huomioida tämä sosiaalinen ulottuvuus, mutta sekään ei saa olla
+ilman, että koira olisi rekisteröity.
+
+15.21 Mari Rantanen ps: Arvoisa puhemies! Olisin kommentoinut tässä ihan lyhyesti
+muutamalle edustajalle asioita.
+
+Ensinnäkin edustaja Myllykoskelle: Kyllä, juuri näin. Ymmärrämme varmaan sen hy-
+vin, että saattaa olla, että jos on vähän rahaa, niin se houkuttaa sitten halvempaan koiraan,
+ja on hyvä muistaa, että koirat tuovat aika paljon kustannuksia esimerkiksi sairastuttuaan,
+joten näin ollen siihenkin pitää olla sitten mahdollisuus, ja se on tänä päivänä on aika kal-
+lista.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+Edustaja Kalmarille haluaisin kommentoida sen verran, että kotimaisia kodittomia koi-
+ria on varsin vähän, siis tällaisia niin kutsuttuja rescuekoiria, jotka olisivat eläinsuojeluyh-
+distysten tiloissa. Ensinnäkin niitä tulee vähän. Meillä on aika korkea omaisuudensuoja
+tässä maassa, ja aika usein nämä kyseiset koirat ovat aika pitkään olleet huonoissa oloissa
+ja hyvinkin haastavia saattavat sitten olla käytökseltään. Siinä mielessä minusta tässä ei
+ehkä kannata tehdä sellaista eroa. Kukin tekee sen oman valintansa oman etiikkansa poh-
+jalta, ja jos tekee sen laillisesti ja vastuullisesti, niin miksipä ei voi ottaa sitä koiraa muu-
+altakin — joskaan se ei poissulje myöskään kotimaisia kodittomia koiria, jotka kodin tar-
+vitsevat.
+
+Toivon, että tässä salissa palataan tämän eläinsuojelulain uudistuksen yhteydessä pakol-
+liseen tunnistusmerkintään niin koirille kuin myös kissoille, jotka ovat nimenomaan se
+meidän suomalaisten ongelma.
+
+Ja mitä tulee sitten tähän tuontilihaan EU:n ulkopuolelta, syötäväksi tarkoitettuun li-
+haan, niin toivoisin kuitenkin, että me kannustaisimme kotimaisuuteen, mikä olisi myös il-
+maston kannalta se kaikista parhain teko. Tosin en tiedä, kuinka kauan sitä voidaan vielä
+tehdä, koska jos meidän suuret toimijat, kuten kaupungit tai isot yliopistoruokalat, jättävät
+kohta kotimaiset naudanlihan pois, niin en tiedä, kuinka kauan tuottajat pystyvät sitä sitten
+tuottamaan ja näin ollen tuottamaan sitä myöskin yksityisille kuluttajille. — Kiitos.
+
+15.23 Ritva Elomaa ps: Arvoisa puhemies! Edustajat Rantanen ja Meri nostivat esiin
+nämä rescuekoirat, ja täytyy todeta, että pääosin nämä järjestöt, jotka tuovat Suomeen res-
+cuekoiria, ovat todella vastuullisia, joten tuntuu vähän pahalta, jos niitä aletaan syyttää, et-
+teivät ne toimisi hyvin.
+
+Ja sitten, vaikka tämä edustaja Savolan kesäkissa-asia meni nyt pikkusen niin kuin si-
+vuun ehkä tästä pääaiheesta, niin, arvoisa puhemies, olen iloinen, että hän otti sen esille,
+koska 20 000 kissaa hylätään vuosittain, ja se on karmea luku. Elikkä kissat ja koirat, mo-
+lemmat, pitäisi rekisteröidä, ja toivottavasti myös sitten hallitus vie tämän eläinsuojelulain
+siihen malliin, että näin tulee tapahtumaan.
+
+Jos jotain toivoisi kouluihin, niin just lapsille valistusta, vastuuta siitä, miten eläintä hoi-
+detaan, mitä se tarkoittaa, kun tulee esimerkiksi lemmikkieläin kotiin. Ja jos otetaan lem-
+mikkieläin, niin se tarkoittaa vastuuta. Jos kaksi asiaa haluaisi, mitä lapsille opetetaan, niin
+tosiaan tämä taito, ja siihen tietoa ja ensiaputaidot myös.
+
+Sitten vielä tästä tuontilihasta: on ihan selvää, että suomalainen haluaa kotimaista, puh-
+dasta, eettisesti tuotettua lihaa, ja tämä tarkoittaa, että enemmän valistusta ja enemmän
+kaupoissa esille se, mikä on kotimaisesti tuotettu. Sehän on ihan ekoteko, eettinen teko,
+ympäristöteko. Jos yleensä syö lihaa, niin kotimaisen lihan syönti sitä on, jos mikä.
+
+15.26 Anne Kalmari kesk: Herra puhemies! Tämän erittäin hyvähenkisen keskustelun
+päätteeksi vähän niin kuin leikkispäältä voisin nyt kyllä todeta, että miten ne perussuoma-
+laiset ovat huolestuneempia ulkomaisista koirista kuin kotimaisista koirista, kun luen tääl-
+tä suoraan Ylen sivuilta haastattelua siitä, miten Helsingin eläinsuojeluyhdistyksen toimija
+toteaa: ”Osa koiristamme on huostaanotettuja ja tulee olosuhteista, joissa eläimistä ei voi-
+da turvallisuussyistä laittaa söpöjä kuvia nettiin. Ulkomaalaisia koiria on huomattavasti
+helpompi mainostaa nettisivustoilla, koska niitä eivät edelliset omistajat kaipaile.” Heillä
+on lukuisa joukko koiria, jotka eivät saa kotia, ja sanoisinkin, että huolehditaan kotimaiset
+ensin.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 54/2019 vp
+Keskustelu päättyi.
+
+Asia lähetettiin maa- ja metsätalousvaliokuntaan, jolle perustuslakivaliokunnan on annet-
+tava lausunto.
+10
+
+
+	3
+	14.47
+	14.49
+	14.55
+	14.59
+	15.03
+	15.08
+	15.10
+	15.13
+	15.16
+	15.18
+	15.21
+	15.23
+	15.26
+
+

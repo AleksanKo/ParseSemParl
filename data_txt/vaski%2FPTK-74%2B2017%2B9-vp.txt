@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMF939.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 74/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 74/2017 vp
+
+Täysistunto
+
+Keskiviikko 21.6.2017 klo 13.59—0.32
+
+9. Lakialoite laiksi yksityishenkilön velkajärjestelystä annetun lain 3 §:n muuttamisesta
+Lakialoite LA 21/2017 vp Peter Östman kd ym.
+
+Lähetekeskustelu
+
+Toinen varapuhemies Arto Satonen: Lähetekeskustelua varten esitellään päiväjärjestyk-
+sen 9. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään lakivaliokuntaan.
+
+Keskustelu
+
+22.21 Peter Östman kd (esittelypuheenvuoro): Arvoisa herra puhemies! Tänä iltana on
+käyty pitkät ja perusteelliset keskustelut monesta poliittisesta aiheesta. Lupaan puhemie-
+helle, etten puhu sanaakaan perustulosta vaan että puhun nyt velkajärjestelylaista ja yrittä-
+jien ja yksityishenkilöiden perusturvasta.
+
+Allekirjoittanut on ensimmäisenä allekirjoittaneena jättänyt lakialoitteen yksityishenki-
+lön velkajärjestelystä annetun lain muuttamisesta. Aloitteen on allekirjoittanut 26 kansan-
+edustajaa, ja edustajia on mukana kaikista eduskuntaryhmistä, siis myös kaikista hallitus-
+puolueista.
+
+Tässä aloitteessa ehdotetaan, että eduskunta muuttaa velkajärjestelylakia siten, että vel-
+kajärjestelyn yhteydessä realisoitavan varallisuuden realisoinnista aiheutuva verovelka
+kuuluisi velkajärjestelyvelkoihin riippumatta siitä, ovatko realisoinnit tapahtuneet ennen
+velkajärjestelyn aloituspäätöstä vai sen jälkeen.
+
+Arvoisa puhemies! Tämänhetkisestä laintulkinnasta voi seurata, ettei velkajärjestelyve-
+lallinen selviydy verovelastaan ja velkajärjestely kaatuu. Miksi näin? Siksi, että kun yksi-
+tyisen elinkeinonharjoittajan varallisuutta realisoidaan velkajärjestelyn yhteydessä, syn-
+tyy kiinteän omaisuuden myynnistä luovutusvoittoa ja irtaimiston myynnistä myyntivoit-
+toa. Näiden myötä myynnistä aiheutuu myös verovelkaa. Näin syntynyttä verovelkaa ei
+kuitenkaan lähtökohtaisesti katsota velkajärjestelyn piiriin kuuluvaksi velaksi.
+
+Vallitseva oikeustulkinta on, ettei voimassa olevaa lakia tulisi tulkita siten, että velka-
+järjestelyn piiriin kuuluvaksi velaksi katsottaisiin sellaista luovutusvoitosta määrättyä ve-
+roa, jonka peruste on syntynyt vasta velkajärjestelyn aloittamisen jälkeen. Se, että vero on
+määrätty vahvistetun maksuohjelman määräyksen täytäntöönpanon perusteella, ei ole
+muuttanut tätä arviota. Tämänhetkisestä tulkinnasta voi seurata, ettei velkajärjestelyvelal-
+linen selviydy verovelastaan ja velkajärjestely kaatuu.
+
+Arvoisa puhemies! Mielestäni nykyinen tilanne, jossa velkajärjestelyssä vahvistetun
+maksuohjelman määräyksen seurauksena syntynyt verovelka vaarantaa maksuohjelman
+toteuttamisen, tukee huonosti velkajärjestelylain tavoitteita. Sain itse tiedon tästä aukosta
+nykyisessä lainsäädännössä eräältä henkilöltä, joka on monta kymmentä vuotta auttanut
+ylivelkaantuneita yrittäjiä.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 74/2017 vp
+Tässä aloitteessa esitetyn muutoksen myötä olisi mahdollista toimia seuraavasti: Ensim-
+mäiseksi, laaditaan velkajärjestelyn maksuohjelma, jossa määritellään velallisen maksuva-
+ra tavallisille veloille ja vakuusveloille. Toiseksi, vakuusvelkoja aletaan maksaa heti mak-
+suohjelman vahvistamisen jälkeen normaalijärjestyksessä. Kolmanneksi, avataan velalli-
+selle pankkiin sulkutili, jolle ohjataan tavallisten velkojen maksuvara sekä panttaamatto-
+man varallisuuden myyntitulot. Neljänneksi, perusturvaan kuulumaton pantattu varalli-
+suus myydään ja myyntitulot tilitetään pantinhaltijoille. Viidenneksi, kun kaikki varalli-
+suuden realisoinnit on tehty ja realisoinneista aiheutuneet verovelat selvinneet, haetaan
+maksuohjelman muutosta, jossa määritellään, miten sulkutilille kertynyt maksuvara ja rea-
+lisoinneista kertyneet varat jaetaan tavallisten eli vakuudettomien velkojen velkojille ja ve-
+rottajalle.
+
+Arvoisa puhemies! Edellä olevan perusteella ehdotamme, että eduskunta hyväksyy seu-
+raavan lakiehdotuksen:
+
+"Laki yksityishenkilön velkajärjestelystä annetun lain 3 §:n muuttamisesta:
+Eduskunnan päätöksen mukaisesti muutetaan yksityishenkilön velkajärjestelystä anne-
+
+tun lain (57/1993) 3 §:n 1 momentin 3 kohta seuraavasti:
+Tässä laissa tarkoitetaan:
+3) velkajärjestelyn piiriin kuuluvalla velalla kaikkia velallisen velkoja, jotka ovat synty-
+
+neet ennen velkajärjestelyn alkamista, mukaan luettuina vakuusvelat ja velat, joiden perus-
+te tai määrä on ehdollinen tai riitainen taikka muusta syystä epäselvä, sekä edellä tarkoite-
+tuille veloille velkajärjestelyn alkamisen ja maksuohjelman vahvistamisen välisenä aikana
+kertyvää korkoa ja velallisen maksettavaksi määrättyjä tällaisten velkojen perimis- ja täy-
+täntöönpanokuluja sekä lisäksi verovelkaa, joka on kertynyt velkajärjestelyn piiriin kuulu-
+van varallisuuden realisoinnin verotuksesta."
+
+22.27 Kauko Juhantalo kesk: Arvoisa rouva puhemies! Kun pörssiromahdus alkoi 87 ja
+kolmen neljän vuoden aikana suurten korkojen ja valuuttavelkojen kanssa painiskelevat
+yritykset joutuivat todella 91—92 realisointikierteeseen, niin silloin jo 80-luvun lopulla
+syntyi käsitys, että meillä olleiden kovien lakien seuraamukset ovat niin vakavia, että jol-
+lakin tavalla pitää lainsäädäntöä huomioida. Silloin ensimmäisenä syntyi tämä velkajärjes-
+telylaki, joka oli erittäin paljon vastustettu sillä, että Suomessa pitää luterilaisen systeemin
+mukaan vastata veloistaan ja mitään ei anneta anteeksi, mutta silloin se saatiin aikaiseksi,
+mikä oli suuri uudistus ja helpotti monen elämää. Minä uskon, että silloin ei osattu ajatella
+niin pitkälle, että tämä periaatteellinen ja vakava vika jäi. Yhdyn täysin edustajan siihen
+puheenvuoroon, jonka juuri kuulimme, ja yhdyn siihen, että tämä pitäisi korjata.
+
+Meillähän tapahtui sitten ulosottolain, ulosottokaaren uudistamista. Me lievensimme
+koko ajan linjaa liittyen konkurssilainsäädäntöön, ja meidän konkurssilainsäädäntömme
+on edelleenkin niin puutteellinen, että sitä pitää edelleenkin pehmentää. Täytyy muistaa,
+että tässä on aina kuitenkin myös velkojien ja velallisen välinen eturistiriita niin, että toi-
+nen puoli ei millään antaisi anteeksi ja toinen puoli kaiken ottaisi anteeksi, ja sitä pitää me-
+netellä ja sovitella, mutta uskon, että me emme mene amerikkalaiseen konkurssilainsää-
+däntöön, joka on aivan erilainen. Sen lopullinen tarkoitushan on niin, että ihmistä ei siinä
+hylätä ja pistetä velkavankeuteen, vaan hänet vapautetaan, jos on yritteliäs kaveri, nopean
+menettelyn kautta alkamaan alusta. Aina olen käyttänyt esimerkkinä Henry Fordia, joka
+tietojeni mukaan teki kuusi konkurssia ennen kuin firma pysyi pystyssä, ja aikamoinen fir-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 74/2017 vp
+ma onkin. Se on oikein, että siellä ei ollut suomalainen konkurssilainsäädäntö, jossa mies
+olisi maineeltaan tuhottu loppuelämäksi ja ollut luottokelvoton. 
+
+Mutta tämä kokonaisuus on tärkeä. Tänne helpotuksen tielle täytyy mennä, ja se tapah-
+tuu yhteisymmärryksellä lainsäätäjien kesken ja niin, että koko yhteiskunta ymmärtää tä-
+män hyvyyden, tämän tarkoituksen olevan tehdä hyvää eikä vain vapauttaa jotakuta pälkä-
+hästä.
+
+Kannatan tätä edustaja Östmanin lakialoitetta.
+
+22.31 Jari Myllykoski vas: Arvoisa rouva puhemies! Toivottavasti kukaan ei tule kysy-
+mään minulta, mitä kaikkia perusteita ja pykälämuutoksia edustaja Östman perusteellisesti
+tuossa sanoi, sillä niin hyvin en ole tuossa perillä, mutta kun tätä keskustelua käytiin sil-
+loin, kun lakialoitteeseen kerättiin nimiä, niin oli päivänselvää, että tässä ei sinällään ole
+kysymys ehkä edustaja Juhantalon esille tuomasta anteeksiantamisasiasta vaan tässä on
+kysymys oikeudenmukaisuudesta — kuinka käsitellään velallista, jolta ollaan perimässä,
+ja mitä sinne katsotaan mukaan — ja minun mielestäni edustaja Östmanin lakialoite on
+juuri tätä oikaisua: pyritään kohtuullistamaan ja tekemään oikeudenmukaiseksi. 
+
+Meillä on erityisesti juuri täällä ulosoton puolella, voisiko sanoa rumasti, tiettyjä tahoja,
+jotka haluavat pitää yllä ehkä oman ansaintansakin vuoksi eräänlaista velkojen anteeksian-
+tamattomuutta niin, että jos omaisuutta myydään, niin se vähentää vain perintäkustannuk-
+sia mutta ei sitä itse velkaa, jolloin edelleen meillä se pääoma, joka siellä on, kasvaa kor-
+koa ja ihmiset eivät pääse siitä velasta eroon.
+
+Siksi tämä on oikea askel, ja, niin kuin kuultiin edustaja Juhantalonkin puheista, tämä
+hallitus siinä mielessä on ottanut kyllä oikeita askelia hallitusohjelmaansa, että yrittäjyyttä
+ei pidä suitsia sillä, jos ihminen on tehnyt konkurssin. Pitää olla mahdollisuus aloittaa alus-
+ta. Ei tarkoita sitä, että pöytä pyyhitään heti puhtaaksi, mutta sille ihmiselle pitää antaa
+mahdollisuus lähteä uudelleen toimimaan ja yrittämään ja tuottamaan, ehkä se velkansa ta-
+kaisin.
+
+22.33 Esko Kiviranta kesk: Arvoisa puhemies! Edustaja Östman lakialoitekumppanei-
+neen on saanut virikkeen tähän lakialoitteeseen korkeimman oikeuden ratkaisusta numero
+79 vuodelta 2000. Siinä korkein oikeus katsoi, ettei yksityishenkilön velkajärjestelystä an-
+nettua lakia voitu tulkita niin, että velkajärjestelyn piiriin kuuluvaksi velaksi katsottaisiin
+sellainen luovutusvoitosta määrätty vero, jonka peruste on syntynyt vasta velkajärjestelyn
+aloittamisen jälkeen. Korkein oikeus katsoi, että pelkästään se seikka, että veroa on mää-
+rätty vahvistetun maksuohjelman määräyksen täytäntöönpanon perusteella, ei muuta tätä
+arviota. 
+
+Edustaja Östman on kehittänyt tämän epäkohdan korjaamiseen varsin näppärän laki-
+muutosesityksen, jonka hän tuossa esitteli. Sen mukaan velkajärjestelyn piiriin kuuluvalla
+velalla tarkoitettaisiin myös verovelkaa, joka on syntynyt velkajärjestelyn piiriin kuuluvan
+varallisuuden ja realisoinnin verotuksesta — siis aina näin. 
+
+Kannatan tätä edustaja Östmanin ja hänen kumppaneittensa lakialoitetta ja toivon tälle
+lakialoitteelle arvoistaan asianmukaista käsittelyä valiokunnassa.
+
+22.34 Kauko Juhantalo kesk: Arvoisa rouva puhemies! En tosiaan tarkoittanut anteeksi-
+antoa tässä asiassa, vaan muistan hyvin sen ilmapiirin, kun 92 säädettiin tätä lakia. Se oli
+ensimmäinen avaus, ja silloin erittäin paljon puheenvuoroissa oli anteeksianto ja velan mi-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 74/2017 vp
+tätöiminen. Näitä sanoja käytettiin, koska tämä oli uutta ajattelutapaa, mikä silloin tuotiin
+esille.
+
+Jos ajattelemme nyt kokonaisuutta ihan juridiikan kannalta, niin on juuri niin, on nou-
+datettu sitä korkeimman oikeuden linjaa, joka tuli tässä esille. Sitä on yritetty pehmentää
+oikeuskirjallisuudella, mutta oikeuskirjallisuuden voima ja valta ei yllä ohi korkeimman
+oikeuden. Sitten tässä aloitteen perusteluissakin esillä on tämä Rovaniemen hovioikeuden
+päätös, jossa on yritetty vastoin tätä korkeimman oikeuden myöhempää kantaa ottaa esille
+se, että tämä velkajärjestely tarkoittaisi sitä, että ihmisen kaikki velat ovat siinä järjestelys-
+sä mukana. Mutta lain sanamuoto on niin tiukka, että oli pakko noudattaa tätä lainkohtaa.
+
+No, asianajajakunnassa ja muualla tietysti tuumittiin, miten tällaiset tilanteet voitaisiin
+välttää, ja sen vuoksi tuli tämä neuvonta, että siirrä, siirrä velkajärjestelyyn menemistä, niin
+että saat kaikki hoidettua asialliseen kuntoon, niin että saat ne rajan oikealle puolelle, ja tu-
+let silloin koko potilla siihen velkajärjestelyyn sisään. Mutta tämä on usein teoreettista. Ve-
+lallisen tilanne tulee niin ahtaaksi ja voi tulla nopeastikin, ettei hänellä ole kykyä, ei hän voi
+siirrellä, ei hän voi järjestellä sitä omaisuuttaan ja ajautuu väkisin, välttämättä, sitten tilan-
+teeseen, jossa velkajärjestely ei ole mahdollinen, ja joutuu konkurssiuhan alaiseksi, jolloin
+tilanne on tietysti pakkolainsäädäntöä ja asiakas on paljon voimakkaampien toimenpitei-
+den kohteena.
+
+Kannatan tätä edustaja Östmanin esitystä tietenkin. En tiedä, kuinka tarkkaan olette ju-
+ristien seurassa tutkineet tämän käytännön, mutta tämä tuntuu näppärältä. Voi olla, että va-
+liokuntakäsittelyssä tulee ja keksitään esteitä — "tämä on väärin ja tuo on väärin" — mutta
+toivotan menestystä.
+
+Keskustelu päättyi.
+
+Asia lähetettiin lakivaliokuntaan.
+4
+
+
+	9
+	22.21
+	22.27
+	22.31
+	22.33
+	22.34
+
+

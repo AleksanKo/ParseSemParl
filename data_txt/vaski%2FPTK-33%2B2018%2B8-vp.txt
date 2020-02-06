@@ -1,0 +1,654 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM77B4.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 33/2018 vp
+
+Täysistunto
+
+Keskiviikko 11.4.2018 klo 14.10—16.07
+
+8. Hallituksen esitys eduskunnalle laiksi Liikenneviraston liikenteenohjaus- ja hallintapal-
+veluiden muuttamisesta osakeyhtiöksi ja eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 34/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 8. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävaliokuntaan, jolle
+perustuslakivaliokunnan on annettava lausunto.
+
+Keskustelu
+
+15.00 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa rou-
+va puhemies! 100-vuotiaan Suomen menestyminen on perustunut hyvin pitkälti kykyyn
+uudistua. Pienenä kansakuntana meillä ei ole varaa tukeutua menneisyyteen. Osana glo-
+baalia taloutta Suomen on pidettävä huolta omasta kilpailukyvystään. Meidän on kyettävä
+tunnistamaan kansainväliset muutostrendit.
+
+Annan yhden esimerkin: 1980-luvulla tekninen kehitys kyseenalaisti telepalveluiden
+tarjonnan järkevyyden valtion monopolina. Suomi oli silloin eturintamassa ymmärtämäs-
+sä telesektorin kasvavan yhteiskunnallisen ja taloudellisen merkityksen. Vaiheittain ja hal-
+litusti telemarkkinat avattiinkin täydelliselle kilpailulle. 
+
+Tänä päivänä Suomessa on kansainvälisesti katsottuna erinomaiset ja hinnaltaan edulli-
+set, nopeat laajakaistayhteydet, jotka palvelevat kaikkia suomalaisia ja antavat rajattomas-
+ti uusia mahdollisuuksia. Tästä huolimatta olemme viimeisen 10 vuoden aikana joutuneet
+tunnustamaan, että historian maineteot eivät yksistään riitä kantamaan meitä eteenpäin ja
+turvaamaan edelläkävijäasemaamme tulevaisuuden digitalisaation maailmassa. Tänä päi-
+vänä olemme jälkijunassa moneen muuhun maahan verrattuna, mitä tulee tiedon, digitali-
+saation ja automatisaation hyödyntämiseen. Merkittävin haaste on ollut soveltaa uusia tek-
+nologioita ja ennen kaikkea murtaa perinteisen toiminnan rakenteita sekä johtaa murrosta
+johdonmukaisesti kohti uudenlaista maailmaa. Siksi meidän on uskallettava tehdä rohkeita
+ratkaisuja, joihin nyt puheena oleva lakiesityskin nojautuu, eikä vähiten siksi, että voisim-
+me kiriä kiinni muiden digitaalisessa kehityksessä saavuttaman etumatkan. Tarvitsemme
+päämäärätietoisuutta lunastaaksemme takaisin paikkamme digitalisaation edelläkävijöi-
+den joukossa.
+
+Kansainvälinen megatrendi on, että tieto on tulevaisuuden liiketoiminnassa kriittinen
+tuotannontekijä ja menestyksen avain. Tietoa syntyy ympärillämme koko ajan kiihtyvällä
+tahdilla. Tiedolla johtamisesta on muodostumassa yksi käynnissä olevan digitaalisen mur-
+roksen keskeisimmistä kilpailutekijöistä. Suomella on hyvät edellytykset hyödyntää tietoa
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+kilpailukykytekijänä globaaleilla markkinoilla. Osaamista ja teknologiaa Suomesta ei puu-
+tu.
+
+Tieto itsessään ei tuo talouskasvua tai mahdollista hyvinvoinnin kehitysaskeleita. Syn-
+tyvälle tiedolle täytyy jalostaa merkitys, ja se täytyy saattaa keskeisten tarvitsijoiden saa-
+taville oikeassa muodossa ja oikeaan aikaan. Tähän tarvitaan mahdollistava toimintaympä-
+ristö ja teknologiset toteutusmallit.
+
+Suomen ei tarvitse asemoida itseään pohjoisen periferiana. Meillä on kaikki mahdolli-
+suudet toimia tulevaisuudessa kansainvälisenä solmukohtana tiedon, ihmisten ja tavaroi-
+den liikkumiselle. Tämän aseman vahvistamiseksi meidän tulee kytkeä edistyksellinen di-
+gitaalinen infrastruktuurimme yhteen uudenlaisten automatisoitujen liikenteen palvelui-
+den kanssa ja rakentaa näistä saumaton kokonaisuus. Tämän vision toteuttaminen edellyt-
+tää sitä, että uudistamme liikennealan viranomaisten tehtäviä. Tämä ei ole ensimmäinen
+eikä varmasti viimeinen kerta, kun viranomaistoimintoja uudistetaan palvelemaan tulevai-
+suutta ja huolehtimaan Suomen iskukyvystä kansainvälisessä kilpailussa.
+
+Meillä liikenne- ja viestintäministeriössä on luovuttu perinteisestä jaosta liikenne- ja
+viestintäpolitiikkaan. Yhteiskuntaa tarkastellaan nyt ministeriössä kolmen kokonaisuuden
+kautta, joita ovat palvelut, tieto ja verkot. Nämä kolme teemaa yhdistävät sekä liikennettä
+että viestintää. Ennakkoluuloton ja eteenpäin katsova organisoituminen on osaltaan mah-
+dollistanut sen, että olemme tämän hallituskauden aikana pystyneet viemään läpi yhteis-
+kuntamme kannalta merkittäviä uudistuksia liikenteen ja viestinnän palvelumarkkinoilla.
+
+Arvoisa puhemies! Esittelen teille tänään hallituksen esityksen, jonka mukaisesti Lii-
+kenneviraston vastuulla olevat tie-, meri- ja rautatieliikenteen ohjaus- ja hallintapalvelut
+muutettaisiin osakeyhtiöksi. Tämä esitys perustuu hallituksen talouspoliittisen ministeriö-
+valiokunnan linjaukseen, jonka valiokunta teki kesäkuussa 2017. Liikenteenohjauksella ja
+-hallinnalla tulee liikenteen automaation ja digitalisaation edetessä olemaan nykyistä kes-
+keisempi rooli liikenteen sujuvuuden ja turvallisuuden varmistamisessa. Tämä korostuva
+rooli asettaa merkittäviä paineita liikenteenohjaustoiminnan kehittämiselle. Meidän on
+huolehdittava, että liikenteenohjaustoiminta on organisoitu siten, että se kykenee vastaa-
+maan nopeasti kehittyvän toimialan mukanaan tuomiin haasteisiin sekä muuttuviin asia-
+kastarpeisiin ja että rakenteet tarjoavat parhaat edellytykset hyödyntää muutoksen muka-
+naan tuomat uudet mahdollisuudet.
+
+Nyt esitettävällä Liikenneviraston liikenteenohjaustoimintojen yhtiöittämisellä valmis-
+taudutaan liikenteen digitalisaation, palveluistumisen ja automaation mukanaan tuomiin
+toimintaympäristömuutoksiin. Yhtiöittämisellä edistetään liikenteeseen liittyvän tiedon
+hyödyntämistä uusien digitaalisten palveluiden kehitystyön tukena ja edesautetaan uuden
+liiketoiminnan syntymistä. Lisäksi tällä muutoksella luotaisiin edellytykset operatiivisen
+liikenteenhallintapalveluiden asiakaslähtöisyyden parantamiselle sekä lisättäisiin liiken-
+teenohjaustoiminnan taloudellista tehokkuutta ja vaikuttavuutta.
+
+Liikenteenohjaus on operatiivista toimintaa. Sen organisointi yritysmuotoon mahdollis-
+taa hyötyjä, joita virastossa ei voida saavuttaa. Osa Liikenneviraston liikenteenohjaustoi-
+minnoista on jo nyt ulkoistettu yritysten hoidettavaksi. Liikennevirastossa on kuitenkin
+edelleen varsin laajasti liikenteenohjaustoimintaan liittyviä tehtäviä. Toiminta yritysmuo-
+dossa mahdollistaa virastotoimintaa paremmat edellytykset liikenteenohjausjärjestelmien
+ja -palveluiden kehittämiselle sekä investointien pitkäjänteiselle toteuttamiselle. Hyvänä
+esimerkkinä tästä on ilmailu, jossa yhtiömuotoinen toiminta lennonvarmistuspalveluissa
+on ollut arkipäivää jo pitkään. Hyödyt eivät ole pelkästään taloudellisia, ne tarkoittavat
+2
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+myös entistä asiakaslähtöisempiä palveluita, jotka hyödyttävät koko suomalaista liikenne-
+markkinaa uusien digitaalisten ja automatisoituvien liikennepalveluiden globaalissa kil-
+pailussa.
+
+Nyt valmistellun esityksen perusteella Liikenneviraston vastuulla olevat meri-, tie- ja
+rautatieliikenteen ohjaustoiminta sekä näihin keskeisesti liittyvät suunnittelu-, tuki- ja han-
+kintatoiminta sekä tietojärjestelmät yhtiöitettäisiin. Yhtiöitettäviä tehtäviä hoitava Liiken-
+neviraston henkilöstö siirtyisi tehtävien mukana uuteen yhtiöön liiketoimintasiirron peri-
+aattein. Perustettava yhtiö olisi valtion kokonaan omistama liikenteenohjauksesta vastaa-
+va erityistehtäväyhtiö. Yhtiö aloittaisi toimintansa vuoden 2019 alussa. Yhtiön ensisijaise-
+na tehtävänä olisi varmistaa liikenteen sujuvuus ja turvallisuus tie-, meri- ja rautatieliiken-
+teessä. Tämä tapahtuisi tarjoamalla liikenteenohjaukseen ja -hallintaan liittyviä palveluita.
+Yhtiöille määritetyn erityistehtävän mukaisesti yhtiö tarjoaisi palveluja erityisesti toimi-
+valtaisille viranomaisille, kuten liikennehallinnon virastoille, Puolustusvoimille, Rajavar-
+tiolaitokselle, pelastusviranomaisille ja poliisille. Tavoitteena on perustaa vahva, inves-
+tointikykyinen, kustannustehokkaasti toimiva ja maltillisesti voittoa tuottava valtionyhtiö. 
+
+Liikennevirasto toimisi jatkossa liikenteenohjaus- ja hallintapalveluiden tilaajana sekä
+perustettavan liikenteenohjausyhtiön strategisena kumppanina. Liikennevirasto tilaisi uu-
+delta perustettavalta valtion erityistehtäväyhtiöltä yhteiskunnan, viranomaisten ja elinkei-
+noelämän tarvitsemat välttämättömät liikenteenohjaus- ja hallintapalvelut, jotka olisivat
+maksuttomia palveluiden käyttäjille nykyisen toimintamallin periaatteiden mukaisesti.
+Muutoksen perusteella ei ole tarkoitus kerätä kansalaisilta tai asiakkailta uusia maksuja.
+
+Perustettavan yrityksen tavoitteena olisi edesauttaa liikenteen kokonaismarkkinoiden
+kasvua ja yksityisen sektorin palvelutarjonnan kehittymistä. Yrityksen tavoitteena ei olisi
+kilpailla markkinatoimijoiden kanssa. Nyt esitettävällä muutoksella pyrittäisiin ennen
+kaikkea tukemaan digitaalisen liikenteen myötä syntyvien uusien palveluiden kehitystä,
+kun yhtiö tarjoaisi liikenteenohjauksessa käytettävää ja toiminnan puitteissa syntyvää tie-
+toa mahdollisimman laaja-alaisesti ja avoimesti liikenteen toimijoiden käyttöön. 
+
+Tietojen avoimuus turvattaisiin lainsäädännöllä. Samalla huolehdittaisiin viranomais-
+ten salaisiksi määrittämien tietojen sekä liikesalaisten tietojen tietosuojasta. Yhtiö jalostai-
+si tietoa myös muiden palveluntuottajien hyödynnettäväksi digitaalisessa liiketoiminnas-
+sa. Pyrkimyksenä on laajentaa tiedon hyödynnettävyyttä uusien digitaalisten palveluiden
+ja palvelumarkkinoiden synnyttämiseksi ja madaltaa uusien yrittäjien alalle tulon kynnys-
+tä.
+
+Yhtiöstä tehtäisiin liikennealan kansallisen kasvuohjelman mukaisesti vahva yhteistyö-
+kumppani liikennealan yrityksille. Yhtiö hakisi aktiivisesti kumppanuuksia, joiden kautta
+markkinaehtoisten tuotteiden ja palveluiden kehitystä voitaisiin vauhdittaa. Lisäksi yhtiö
+pyrkisi tekemään innovatiivisia hankintoja tarjoten yrityksille testiympäristön uusien rat-
+kaisujen kehittämiseen ja kokeiluun. Onnistuneet tuotekehityshankkeet helpottaisivat ja
+nopeuttaisivat yritysten etenemistä kansainvälisille markkinoille.
+
+Yhtiön yhtenä toimintaperiaatteena olisi edistää toimialan yritys- ja vientivetoista kas-
+vua tutkimusalan, julkisen sektorin ja yksityisen sektorin yhteistyönä. Tiiviillä ja vahvasti
+vuorovaikutteisella yhteistyöllä kyettäisiin kasvattamaan liikenteen kokonaismarkkinaa,
+josta kasvun myötä riittäisi enemmän jaettavaa kaikille alan toimijoille. 
+
+Liikenteenohjauspalveluiden ja niiden tietojärjestelmien järjestäminen yhtiömuotoon
+tehostaisi liikennejärjestelmätasoista liikenteenhallintaa. Muutoksella yhtenäistettäisiin
+liikenteenohjauspalveluja sekä luotaisiin edellytykset hakea laajemmin synergioita eri lii-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+kennemuotojen välillä. Näin kyettäisiin myös parantamaan liikenteenohjauksen toiminta-
+varmuutta, riskienhallintaa sekä varmistamaan tehokas ja korkeatasoinen tietoturva.
+
+Uuteen yhtiöön syntyisi liikennejärjestelmätasoista, kaikki liikennemuodot kattavaa
+teknistä ja liikenteenhallinnan palveluihin liittyvää osaamista. Tämä hyödyttäisi esimer-
+kiksi liikenneturvallisuustyön pitkäjänteistä kehittämistä ja tätä kautta loisi edellytyksiä
+parantaa liikenneturvallisuutta koko liikennejärjestelmän laajuisesti. 
+
+Yhtiömuotoinen toiminta olisi läpinäkyvää tuottojen, kustannusten ja pääoman käytön
+osalta osakeyhtiön julkistaessa vuosittain tilinpäätöksensä. Yhtiö tavoittelisi kannattavuut-
+ta ja toiminnan tehokkuutta, mikä vuorostaan lisäisi tarvetta ymmärtää asiakkaiden tarpei-
+ta, parantaisi asiakaspalvelua ja auttaisi kehittämään asiakastarpeita vastaavia palveluita.
+
+Toisaalta palvelun tuottamiseen tarvittavat resurssit, kuten investoinnit, suunniteltaisiin
+asiakkaiden ja kannattavuuden ehdoilla. Näin toiminta tehostuisi, kun palvelutuotteiden
+tuotantokustannukset tunnettaisiin paremmin. Yhtiön mahdollisuus käyttää joustavasti ra-
+hoitusmarkkinoita investointien rahoittamiseen parantaisi myös yhtiön kykyä tehdä inves-
+tointeja nykyistä joustavammin ja pitkäjänteisemmin.
+
+Esityksessä on otettu huomioon, että liikenteenohjaustoimintaan liittyy keskeisesti teho-
+kas poikkihallinnollinen viranomaisyhteistyö sekä tätä toimintaa tukeva, uutta teknologiaa
+hyödyntävä tiedonvaihtoympäristö. Näillä varmistetaan viranomaisten jatkuva ja ajanta-
+sainen tilannekuva liikenteestä, kyky ennakoida ja tunnistaa mahdollisia liikenteen turval-
+lisuuteen ja sujuvuuteen liittyviä riskejä. Liikenteenohjauksessa tehtävällä tiiviillä yhteis-
+työllä parannetaan viranomaisten toimintaedellytyksiä vastata operatiivisella tasolla oman
+hallinnonalan liikenteeseen liittyvistä viranomaistehtävistä.
+
+Esitys sisältää tarpeelliset toimialalainsäädännön muutokset. Erityisesti alusliikennepal-
+velulain, aluevalvontalain ja meripelastuslain muutokset varmistavat yhteistyön jatkumi-
+sen viranomaistoimijoiden sekä valtion omistaman ja yhtiömuodossa toimivan liikenteen-
+ohjaus- ja hallintapalveluiden tarjoajan välillä. Samalla yhtiöittämisellä vahvistettaisiin
+edellytyksiä poikkihallinnollisen viranomaisyhteistyön kehittämiselle ja jatkuvuudelle toi-
+mintaympäristön digitalisoituessa ja liikenteen automaation lisääntyessä.
+
+Pitkän aikavälin tavoitteena on, että tulevaisuudessa osa Liikenneviraston tilaamista lii-
+kenteenohjaus- ja hallintapalveluista voitaisiin kilpailuttaa niillä uusilla markkinoilla, jot-
+ka tällä yhtiöittämisellä luodaan. Siten liikenteenohjauksen peruspalveluiden tuottamiseen
+saataisiin mukaan muitakin liikennealan markkinatoimijoita. Tämä luo lisää painetta yhti-
+ölle kehittää toimintaa entistäkin asiakaslähtöisemmäksi ja kustannustehokkaammaksi.
+
+Perustettava valtion erityistehtäväyhtiö olisi liikenne- ja viestintäministeriön omistaja-
+ohjauksessa. Yhtiön ohjaus perustuisi valtionyhtiöiden omistajaohjaukseen, toimialalain-
+säädäntöön ja sen perusteella annettuihin viranomaisten määräyksiin ja ohjeisiin. Lisäksi
+yhtiön ohjaus perustuisi sen liiketoiminnan kannalta keskeisen Liikenneviraston kanssa
+tehtävään palvelusopimuksen sisältöön.
+
+Yhtiön perustamisen jälkeen alkuvuonna 2019 muodostettaisiin valtion liikenteenoh-
+jauskonserni liittämällä siihen Liikennevirastosta jo aiemmin yhtiöitetyt kokonaisuudet
+Air Navigation Services Finland ja Finrail Oy.
+
+Arvoisa puhemies! Nyt esitettävällä yhtiöittämisellä luotaisiin uutta kasvua liikenne-
+markkinaan. Sillä parannettaisiin liikennetiedon hyödynnettävyyttä, lisättäisiin liikenteen-
+ohjauksen taloudellista tehokkuutta sekä edistettäisiin palveluiden asiakaslähtöisyyttä
+meidän kaikkien hyväksi. — Kiitos.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+15.15 Sirkka-Liisa Anttila kesk: Arvoisa puhemies! Ministeri Bernerin kunniaksi on sa-
+nottava, että hän on katsonut rohkeasti tulevaisuuteen ja hakenut niitä mahdollisuuksia, joi-
+ta liikenne- ja viestintäministeriön hallinnonalalla on, ja tällä kertaa nyt hyödynnetään di-
+gitalisaatiota, niin kuin ministeri täällä erinomaisella tavalla juuri perusteli. Tälle rohkeu-
+delle ja kauaskatseisuudelle annan suuren arvon. 
+
+Liikenne- ja viestintäministeriön hallinnonalalla on siis käynnissä laajamittaisia uudis-
+tuksia. Nyt käsittelyssä oleva hallituksen esitys eduskunnalle laiksi Liikenneviraston lii-
+kenteenohjaus- ja hallintapalveluiden muuttamisesta osakeyhtiöksi on yksi osa näitä uudis-
+tuksia. 
+
+Liikenne ja liikkuminen mullistuvat tulevaisuudessa digitalisaation mahdollistamana.
+Meidän on siksi osattava katsoa liikkumista aivan uudella tapaa, niin kuin tässä nyt teh-
+dään. Tällä uudistuksella viritetään myöskin ministeriön hallinnonalalla olevia toimintoja
+vastaamaan paremmin tulevaisuuden kehittämistarpeisiin liikenteen osalta. 
+
+Kysymys on siitä, että liikenteenohjauskokonaisuus siirtyy valtion kokonaan omista-
+man erityistehtäväyhtiön vastattavaksi. Liikenneohjausyhtiö on siis valtion kokonaan
+omistama  erityistehtäväyhtiö aivan samoin kuin tällä hetkellä on lentokentistä vastaava
+Finavia tai jäänmurtoon erikoistunut Arctia. Liikennevirastosta liikenteenohjausyhtiölle
+siirtyvät tieliikenteen, meriliikenteen sekä rautatieliikenteen ohjausta koskevat tehtävät.
+Liikenneohjausyhtiön operatiivinen toiminta perustuu sopimusperusteiseen strategiseen
+kumppanuuteen Liikenneviraston kanssa. Yhtiön ei ole kuitenkaan tarkoitus kilpailla yk-
+sityisten toimijoiden kanssa, vaan tarkoitus on luoda vahva yhteistyökumppani liikenne-
+alan yrityksille.
+
+Liikenneohjausyhtiön tarkoituksena on siis edistää liikennetiedon hyödyntämistä ja tu-
+kea liikenteen ekosysteemin kehitystä ja vahvistaa samalla liikennealan yritysten liiketoi-
+mintaedellytyksiä, ja niin kuin ministeri täällä esittelypuheenvuorossaan hyvin totesi, näin
+saadaan lisää jaettavaa. Liikenneohjausyhtiölle on asetettu useita toiminnallisia tavoitteita.
+Sen on oltava kustannustehokas ja nopeampi reagoimaan markkinoilla tapahtuviin muu-
+toksiin ja asiakkaiden tarpeisiin. Yhtiö voi käyttää vieraan pääoman ehtoista rahoitusta.
+Liikenteenohjauskonserni hyödyntää suuruuden ekonomiaa ja siten aikaansaa synergiaetu-
+ja, ja yhtiöittäminen selkiyttää eri toimintojen rooleja. 
+
+Arvoisa puhemies! Kyseessä on siis maltillisesti voittoa tuottava valtion erityistehtävä-
+yhtiö, jolla on kyky investoida ja kehittää omaa toimintaansa. Tärkeää on turvata tehokas
+poikkihallinnollinen viranomaisyhteistyö sekä huomioida elinkeinoelämän ja asiakkaiden
+tarpeet. Henkilöstö siirtyy tehtävineen, vastuineen ja velvoitteineen virastosta perustetta-
+van yhtiön palvelukseen työsopimussuhteeseen. Lisäksi on huolehdittava palvelujen häi-
+riöttömän toiminnan ja jatkuvuuden varmistamisesta muutoksen aikana ja totta kai sen jäl-
+keenkin. Samalla on varmistettava, etteivät viranomaismaksut nouse nykytasoon nähden. 
+
+Suomessahan meillä tällä hetkellä suurimpia haasteita talouskasvun esteenä on liiken-
+neinfran tila. Me tarvitsemme ehdottomasti lisää rahoitusta liikenneinfran parempaan hoi-
+tamiseen. Pitkien etäisyyksien ja harvaan asutun maan yksi suuri kilpailuvaltti on se, että
+sillä on liikenteen väylät kunnossa, on sitten kysymys teistä tai rautateistä tai ilmaliiken-
+teestä. — Kiitoksia. 
+
+15.19 Jari Myllykoski vas:  Arvoisa rouva puhemies! Kahden edellä olevan puheenvuo-
+ron jälkeen ja esittelyn tiimoilta on pakko yhtyä siihen loppupäätelmään, mikä on, eli näit-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+ten toimintojen yhteen saattaminen on hyvä ajatus. Itse en nyt näe tämän yhtiöittämisen au-
+tuutta tässä erityisen tärkeänä osana. 
+
+Muutama huomio.
+Me tiedämme kyllä, mitä yhtiöittämisestä saattaa seurata. Ei pidä tietysti pelätä tulevai-
+
+suutta. Jos se valtion kokonaan omistamana erityisyhtiönä säilyy, niin meillä pitäisi olla
+huojentunut olo, vaan joiltakin osin näin vasemmistolaisena aina valtion omaisuuden ja
+valtion virastojen yhtiöittämisen kautta kuuluu se varoittava ääni. Me olemme kyllä näh-
+neet, mitä tapahtuu esimerkiksi, kun Carunalle asioita on toimitettu. Siitä voi kuulla tietys-
+ti kehuja, jos vain... [Olavi Ala-Nissilän välihuuto] — Edustaja Ala-Nissilä voi sanoa, että
+se oli niin loistava retki. 
+
+Mutta ihan muutama huomio tästä kaikesta.
+Kun tehdään alaa varten ja sen uudistumista varten yhtiöittämispäätös, niin jollakin ta-
+
+voilla rupeaa katsomaan sitä, että kun me tässä edellisviikolla keskustelimme Ilmatieteen
+laitoksen osalta, nyt tähän samaan esitykseen on kasattu jonkinkin verran samanlaista pal-
+velutuotantoa, mitä tällä hetkellä jo Ilmatieteen laitos tekee. Tuleeko tästä valtionyhtiönä
+kilpaileva toimielin Ilmatieteen laitoksen kanssa, vai olisiko tässä jo valmisteluvaiheessa
+pitänyt huomata se, että kun Ilmatieteen laitoksella liikenteen tietoa kerätään ja sitä anne-
+taan eteenpäin, niin nyt tässä turvaudutaan tavallaan nettiin tuotettavien palveluiden osal-
+ta, kun meillä on jo Ilmatieteen laitoksella huippuosaamista siitä, mitä ilmatilan muutokset
+liikenteelle aiheuttavat ja niin edelleen. Eli sitä olisin kaivannut, että olisi puntaroitu enem-
+män sitä. 
+
+Kyllä kun meillä täällä on Puolustusvoimat ja Rajavartiolaitos mukana, niin aina siinä
+vaiheessa — vaikkakin ministeri toi esille sen, että näitä palveluita annetaan maksuttomas-
+ti niille tahoille, joilleka niitä nytkin tuotetaan — joka tapauksessa maltillisestikin liike-
+voittoa tuottava osakeyhtiö tai yhtiö kuitenkin toimii lainsäädännön puitteissa. Jos meillä
+osakeyhtiölainsäädännön piirissä oleva yhtiö on, niin se toimii nimenomaan osakeyhtiö-
+lain puitteissa. Vaikka se olisi valtion erityisyhtiö, niin joka tapauksessa, kun meillä tuote-
+taan näitä palveluita valtion tärkeille toimielimille, niillä pyritään tekemään voittoa, koska
+niin yhtiö toimii. 
+
+Arvoisa puhemies! On oikein, mitä ministeri tässä toi esille. Meidän pitää kehittää toi-
+mintoja. Mutta juuri myös valmistelimme täällä ja saatoimme päätökseen lain liikenteen
+palveluista, joka on lähtökohtaisesti sellainen, että siellä nimenomaan haluttiin, että toimi-
+jat, jotka tällä hetkellä toimivat, avaavat rajapinnat niin, että näitä palveluja voi syntyä —
+ja nyt tässä on tarkoitus sitten rahastaa sillä, että tuotetaan näitä palveluja, eikä niin, kuten
+lain liikenteen palveluista tarkoitus kuitenkin on, että ne muutamat toimijat, vaikka nyt
+mainitakseni VR ja HSL, avaavat omat rajapintansa niin, että tänne markkinoille voi syn-
+tyä uusia palveluita. Varsinkin haluan korostaa vielä sitä, että Ilmatieteen laitoksen ja tääl-
+lä suunnitelmissa olevien toimintoja katsottaisiin vielä tässä vaiheessa, kuinka on järkevää
+tehdä, tuottaako tämä liikelaitos niitä palveluita, joita jo nyt tuotetaan Ilmatieteen laitok-
+sella.
+
+15.24 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Todella tällä vaalikaudella on tapahtu-
+nut merkittävä muutos. Mitä tulee yhtiöihin, muistelen sitä, että vaalikauden alussa Fin-
+nair, Finavia, VR kaikki olivat enempi tai vähemmän toiminnallisissa vaikeuksissa. Tällä
+hetkellä ne ovat erittäin vahvassa iskussa, palvelevat ja tekevät työtään hyvin. Tästä var-
+masti myöskin ministeriölle lankeaa kiitos, ja se on tärkeätä. 
+6
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+On todella tällä vaalikaudella minusta tehty sillä tavalla suunnanmuutos, että on nähty
+liikenne palveluna, asiakaslähtöisenä palveluna, jossa raja-aitoja kaadetaan, jossa digitali-
+saatiota hyödynnetään, jossa muodostetaan palvelukokonaisuuksia. Tämä ei ole, edustaja
+Myllykoski, mitään vanhakantaista ajattelua vaan todella uutta ajattelua, joka palvelee ni-
+menomaan ihmisiä ja sitä uudistumista, mistä ministerikin alussa puhui. On tärkeätä, että
+on pystytty parantamaan liikenteen iskukykyä ja palvelukykyä tässä tilanteessa. 
+
+Kuten edustaja Anttila aikaisemmin totesi, me tarvitsemme liikennesektorille myöskin
+lisää rahoitusta aivan välttämättä. Sitä on nyt tapahtunut täällä korjauspuolella hyvin pal-
+jon, mutta haasteet ovat todella isot. Mutta näen juuri tämän uudistamisen otteen, automa-
+tisaation, digitalisaation ja jopa robotisaation hyödyntämisen, tässä hyvänä ja iloitsen siitä,
+että tältäkin osin Sipilän hallitus menee vahvasti eteenpäin. 
+
+15.26 Esko Kiviranta kesk:  Arvoisa puhemies! Haluan kiittää ajatusta muuttaa liiken-
+teenohjaus- ja hallintapalvelut erilliseksi valtionyhtiöksi. Muutos vastaa muuttuvan maail-
+man haasteisiin ja antaa meille mahdollisuuden pysyä liikenteen automatisointikehityksen
+kärkipäässä. Yhtiö on virastoa ketterämpi, joten muutos mahdollistaa nopeamman reagoin-
+nin teknologiseen kehitykseen ja muuttuvan maailman mahdollisuuksiin. Tulevaisuudessa
+kaikilla kulkuvälineillä on tekniikan kehittyessä mahdollisuus kulkea ilman kuljettajia. Jo
+nyt tämä on todellisuutta esimerkiksi metroliikenteessä monissa kaupungeissa. Lisäksi au-
+tomaattiautoja on paljon liikkeellä testikäytössä ja laivojakin pilotoidaan. Perässä seuraa-
+vat myös junat ja lentokoneet. Maailma on kovaa vauhtia kulkemassa kohti yhä laajempaa
+automatisointia ja robotiikan suurempaa hyödyntämistä. Suomalaisen lainsäädännön ja
+julkishallinnon on tärkeää pysyä tässä kehityksessä mukana, jotta varmistamme olevam-
+me valmiina tulevaisuuteen.
+
+15.28 Katja Taimela sd:  Arvoisa rouva puhemies! Hyvät kollegat! Tämän hallituksen
+esittämän uudistuksen tavoitteena on kehittää ja vahvistaa hallinnonalan strategista ohjaus-
+ta sekä saada synergiaetuja muuttuvassa toimintaympäristössä. Yleisesti voi todeta, että lii-
+kenteen muutos tiedon määrän kasvaessa ja digitalisaation kehittyessä vaatii viranomaisel-
+ta kokonaiskuvaa muutoksista, jotta liikenneinfra pystyy palvelemaan mahdollisimman te-
+hokkaasti käyttäjiä. Väyläverkolla ja liikennepalveluiden sujuvalla suunnittelulla ja johta-
+misella on elintärkeä rooli talouskasvun, asumisen ja ympäristön kannalta. Tämän me
+kaikki kansanedustajat tiedämme.
+
+Tästä organisaatiomallista voi lyhyesti tässä vaiheessa todeta sen, että Liikenneviraston
+jakaminen ja etenkin liikenteenohjauspalveluiden yhtiöittäminen valtio-omisteiseen eri-
+tyistehtäväyhtiöön, jossa väylävirasto toimisi tilaajaorganisaationa, on minun mielestäni
+omiaan jäykistämään rakenteita. Koen, että osakeyhtiömuoto vähentää toiminnan avoi-
+muutta ja vaikeuttaa näin ollen myös toiminnan ohjausta verrattuna viranomaistoimintaan.
+Ottaen huomioon liikenteenohjauskeskusten pääluonteen turvallisuusviranomaisina on
+vaikea ymmärtää, miksi nimellisiä tuloja palveluistaan saavat toimijat pitäisi yhtiöittää, ja
+tähän kysymykseen olisi hyvä saada tässä keskustelussa tänään myös ministeriltä vastaus.
+
+Mitä tulee tähän vaikutusten arviointiin, virastouudistuksen osalta esitys sisältää arvion
+yhdistämisen hallinnollisista säästöistä muttei pysty arvioimaan yhdistämisestä syntyviä
+kuluja laisinkaan. Esityksestä puuttuu analyysi siitä, miten nykyinen organisaatiomalli es-
+tää virastojen välisen synergian ja parhaiden käytänteiden jakamisen. Yhtiöittämisen osal-
+ta viitataan vain liikenteestä kertyvän tiedon potentiaalin hyödyntämiseen, mutta esitys ei
+7
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+sisällä arviota tai tutkimusta, paljonko koko liikenteen kokonaismarkkinasta olisi hyödyn-
+nettävissä yhtiön liiketoiminnan tuloina. Taseen osalta uuteen erityistehtäväyhtiöön ollaan
+siirtämässä yli 200 miljoonan euron arvosta eri liikennemuotojen ohjaus- ja informaatio-
+järjestelmiä. Esityksessä olisi hyvä esittää myös arvio siitä, miten yhtiö rahoittaa jatkossa
+näiden järjestelmien ylläpidon ja uusimisen.
+
+Arvoisa rouva puhemies! Tänään olemme myös saaneet Helsingin Sanomista lukea tä-
+män lain vaikeaselkoisuudesta. Toivon todella, että valiokuntatyössä tämä otetaan huo-
+mioon ja sitten asiantuntijakuulemisten pohjalta ollaan myös ministeriössä valmiita tarkas-
+ti miettimään, onko tämä lakiesitys niin sanotusti oikeilla raiteilla. Eri viranomaisten väli-
+nen yhteistyö ei saa millään lailla heikentyä myöskään tämän yhtiöittämisen jälkeen, ja
+tämä kohta vaatii myös hyvin tarkan valmistelun meillä valiokuntatyössä.
+
+15.31 Kari Uotila vas:  Arvoisa rouva puhemies! On aivan selvää, että meidän pitää rea-
+goida maailman ja tässä tapauksessa erityisesti liikenteen muuttumisen näköaloihin. Digi-
+talisaatio, robotisaatio ja se, että liikenteestä tulee yhä enemmän a) palvelua, ovat tosiasioi-
+ta, ja täytyy antaa ministeri Bernerille tunnustusta siitä, että ministerillä on ollut rohkeutta
+tehdä erilaisia avauksia ja ideoita tähän reagoimiseen. 
+
+Mutta tässä edustaja Myllykosken tavoin kyllä haluan kuitenkin pienen varoittavan sor-
+men nostaa ja korostaa sitä, että kysymys on myöskin siitä, millä tavalla tätä reagointia teh-
+dään. Tässä tapauksessa on haettu malliksi valtion sataprosenttisesti omistamaa erityisyh-
+tiötä elikkä yhtiöittämistä, josta nyt luvalla sanottuna — sitä tikulla silmään, joka vanhoja
+muistaa — on paljon radikaalimpiakin ehdotuksia tässä viime aikoina tullut, joista osa on
+sitten kyllä torppaantunutkin.
+
+Kun sanotaan a), niin täytyy ajatella myös se b) eli ajatella sitä tilannetta tulevaisuudes-
+sa, kun tämä yhtiö toimii, näitä palveluja jakaa tai myy. Jossain vaiheessa tulee keskustelu,
+onko tämä valtion ydintehtävää, liittyykö tämä valtion omistajapolitiikan ytimeen olla lii-
+kennepalvelujen bisneksessä mukana, ja sitä sitten verrataan herkästi sivistykseen, terveys-
+palveluihin tai Puolustusvoimiin ja joihinkin muihin. Silloin herää kysymys, millä varmis-
+tamme, että tämä säilyy valtion ja sitä kautta myöskin parlamentin selkeässä johdossa jat-
+kossakin, ettei sellainen uhkakuva toteudu, että vähän aikaa tätä mutta tulevina vuosina sit-
+ten myydään ulos ja sitten sitä rahastetaan ja niitä maksuja kerätään ihan eri logiikalla kuin
+tässä alkuvaiheessa on kaavailtu.
+
+15.33 Johanna Ojala-Niemelä sd:  Arvoisa rouva puhemies! Tässä hallitus esittää, että
+Liikenneviraston nykyiset liikenteenohjaus- ja hallintapalvelut muutetaan osakeyhtiöksi ja
+tehtävät siirretään perustettavaan valtion erityisyhtiöön. Tämän on tarkoitus tulla voimaan
+ensi vuoden alusta lukien, ja tämän uuden valtion erityistehtäväyhtiön tehtävänä on var-
+mistaa liikenteen sujuvuus ja turvallisuus meri-, rautatie- sekä tieliikenteessä ja tarjota lii-
+kenteenohjaukseen liittyviä palveluita. On ihan totta, että ihmiset haluavat yhä enemmän
+liikkua mukavammin ja nopeammin ja myös tulevaisuuteen on valmistauduttava. 
+
+Valtiovarojen liikennejaosto vieraili muutama viikko sitten Hollannissa älyliikennese-
+minaarissa, ja siellä keskusteltiin paljon siitä, mikä on itseohjautuvien autojen tulevaisuus.
+Meillä on jo Suomessa, Muoniossa, testausta käynnissä Aurora-projektin tiimoilta. Sa-
+maan aikaan valitettavasti saimme tuolla älyliikenneseminaarissa kuulla, kuinka yksi hen-
+kilö oli kuollut Amerikassa tämmöisen itseohjautuvan auton yli ajamana. Tekniikka ei va-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+litettavasti vielä ole niin pitkällä, että sitä voitaisiin kaupallisesti hyödyntää, mutta tässä
+mennään koko ajan eteenpäin.
+
+Sinänsä yhdyn edellä puhuneen edustaja Taimelan ajatukseen siitä, että tähän osakeyh-
+tiömalliin en ole kyllä tässä erityisen ihastunut. Varmasti tämä olisi toisella tapaa ollut pa-
+remmin hoidettavissa. Toivon tietenkin, kuten täällä edustaja Anttila ja monet sanoivat, li-
+sää rahoitusta liikenteelle.
+
+15.35 Kristiina Salonen sd:  Arvoisa puhemies! Suhtaudun suurella varauksella lakiesi-
+tyksessä olevaan tie-, meri- ja rautatieliikenteen ohjaustoimintojen yhtiöittämiseen osana
+liikenne- ja viestintäministeriön virastouudistusta. Etenkin VTS-toimintojen eli merilii-
+kenteen alusliikennepalveluiden yhtiöittäminen herättää isoja kysymyksiä esimerkiksi vi-
+ranomaisyhteistyön tulevaisuudesta. Esimerkiksi Meriliikenneohjaajat ry on todennut, että
+yhtiöittäminen heikentäisi Suomen meriliikenteen ohjauksen toimivaa yhteistyötä Puolus-
+tusvoimien, Rajavartiolaitoksen, poliisin, Tullin ja Trafin kanssa.
+
+Yhtiöittämisen myötä meriliikenneohjaus menettää viranomaisstatuksensa. Uhan alla
+on esimerkiksi oikeus käyttää Puolustusvoimien tutkaverkkoa. VTS-toiminta on täyttä vi-
+ranomaistoimintaa, jota säännellään vahvasti myös kansainvälisillä säännöksillä, minkä
+vuoksi sitä tulisi käsitellä omana kokonaisuutenaan liikenteenohjaustoimintojen uudistuk-
+sessa. Esimerkiksi mahdollisessa poikkeustilanteessa VTS-toiminta on Suomen alueve-
+sien valvonnan ja turvallisuuden takaamisen kannalta äärimmäisen tärkeää. VTS-keskuk-
+set estivät viime vuonna ainakin kymmenen onnettomuutta ja estivät samalla mahdollisia
+ympäristökatastrofeja. Esimerkiksi Länsi-Suomen meriliikennekeskus vastaa alusliiken-
+neohjauksesta Suomen länsirannikolta, Hangon länsipuolelta, aina Tornioon asti.
+
+Toiminta on Suomelle erittäin tärkeää. Päättäjien tehtävä on varmistaa, että tämä työ
+voidaan tehdä mahdollisimman hyvin jatkossakin. Siksi ei ole yhdentekevää kysyä, miten
+viranomaisvaltuuksien ja -vastuiden määrittely poikkeustilanteessa hoidetaan uudessa yh-
+tiössä. Suomessa toimii tällä hetkellä kolme VTS-keskusta, jotka antavat vuorokauden ym-
+päri alusliikennepalvelulaissa määriteltyjä informaatio-, liikenteenjärjestely- ja navigaa-
+tiopalveluita. Toivon valiokunnalta viisautta ja harkintaa asiassa, kun käsittely siellä nyt al-
+kaa.
+
+15.37 Markku Eestilä kok: Arvoisa puhemies! Itse en niinkään pelkää tätä yhtiöittämis-
+tä, koska yhtiöittäminen on vain hallintamuoto. Mutta kuitenkin kysyisin täällä olevilta mi-
+nistereiltä: mitä mieltä te olette omistajaohjauksesta ja ehkä jopa eduskunnan ohjauksesta
+siinä tilanteessa — jos minä olen oikein käsittänyt — että tänne tulee tytäryhtiö? Meillä on
+valtion omistama erityisyhtiö, ja sitten tulee tytäryhtiö raideliikennettä varten, maantielii-
+kennettä varten ja meriliikennettä varten, ja se on varmaan hyvä asia, koska silloin osaa-
+minen keskittyy juuri tiettyyn tehtävään, ja tämä osakeyhtiö on todennäköisesti notkeam-
+pi, eikä sitä lisenssiä ja lupaa aina tarvitse hakea joka paikasta, mitä ehkä muuten pitäisi ha-
+kea. Mutta itse ajattelen, kun pitäähän yhtiöllä olla hallitus ja kun kuitenkin operaation
+kohteena on koko maa ja ehkä maan rajojen ylikin yli menevä toiminta, että miten varmis-
+tetaan ne ihmiset, jotka siellä osakeyhtiön hallituksessa ovat, ja se, minkälainen se hallitus
+tulee olemaan ja tytäryhtiöitten ohjaus — että ne varmasti sitten palvelevat koko maata, et-
+teivät toiminnot liiaksi keskity vain tietyille alueille ja tiettyihin asioihin, jotka enemmän-
+kin älyliikenteen kanssa ovat tekemisissä, että huolehditaan siitä, että tämä järjestely pal-
+velee sitten koko maata — ja se, millä tavalla tämä omistajaohjaus toteutetaan. Näitä minä
+9
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+itse mietin ja sitä, mikä on tämä yhtiöjärjestys ja tuleeko se eduskuntaan vai miten se me-
+nee.
+
+15.38 Eeva-Maria Maijala kesk: Arvoisa puhemies! Elämme kehittyvässä maailmassa,
+ja kilpailu on kaikkialla todella kovaa, entistä kovempaa koko ajan. Olemme globaalissa
+toimintakentässä, ja meidän on seurattava tarkasti myös muiden maiden vastaavia toimin-
+toja, miten niissä edetään näitten kanssa. 
+
+Kiitoksia oppositiolle, että olette hereillä tämän asian kanssa. Voi olla, että myöskin va-
+liokuntakäsittelyssä saamme teiltä sellaisia asioita, mitä emme itse me hallituspuolueiden
+edustajat välttämättä huomaa. Kiitoksia tässä vaiheessa jo. 
+
+Meidän on oltava Suomessa valmiina nopeaan reagointiin myöskin näissä liikennepuo-
+len asioissa. Meidän elinkeinoelämä on täysin riippuvainen siitä, mitä muualla maailmassa
+tapahtuu koko ajan. Vienti ja vientituotteet ovat meille todella tärkeitä, miten rahti hoide-
+taan vesiliikenteessä, miten tieliikenneasiat hoidetaan, miten tietoliikenneasiat hoidetaan.
+Meidän matkailu on täysin riippuvainen siitä, miten lentoliikenne toimii. 
+
+Kun yhteiskunnassa ja globaalisti tapahtuu nopeasti todella paljon muutoksia, niin minä
+uskon ja näen, että tämmöisellä uudella organisaatiomallilla pystymme paremmin reagoi-
+maan siihen tilanteeseen, olemme ajan hengessä ja saisimme myöskin meidän yhteiskun-
+nalle tärkeitä tuloja aikaiseksi eikä meille tapahtuisi isompia ongelmia näissä asioissa. 
+
+Omistajaohjaus on äärettömän tärkeää, se, että se lähtee tässä todellakin hyvin toimi-
+maan. Tämä tulee olemaan valtion erityistehtäväyhtiö. Pidetään huolta, että se myöskin
+semmoisena pysyy sitten. 
+
+Puhemies Paula Risikko: Haluaako ministeri vastata? — Enintään 3 minuuttia, olkaa hy-
+vä. 
+
+15.40 Liikenne- ja viestintäministeri Anne Berner:  Arvoisa rouva puhemies! Haluan
+kiittää näistä palautteista ja näkökulmista ja tuoda esille muutaman asian. 
+
+Ilmatieteen laitoksen osalta kysymys on hyvin erilaisesta toiminnasta. Liikenteenohjaus
+on ennen kaikkea operatiivista toimintaa, ja meillähän on ollut esimerkiksi ilmailun liiken-
+teenohjaus yhtiöitettynä jo pitkään, samoin myös raideliikenteessä on ollut yhtiömuotoi-
+nen toiminta. 
+
+Laissa liikenteen palveluista velvoitetaan avaamaan reitti-, pysäkki-, aikataulu-, hinta-
+ja esteettömyystietoja. Nyt pyritään siihen, että saadaan tämän lisäksi avoimuutta myös
+olosuhdetietoihin ja liikenteenohjaukseen. Kun puhumme siis tästä tulevasta yhtiöstä, pu-
+hutaan nimenomaan liikenteenohjauksesta elikkä niin sanotusta traffic managementista, ei
+niinkään siitä olosuhdetiedosta, joka tulee Ilmatieteen laitokselta. Puolustusvoimat on teh-
+nyt yhteistyötä oman liikenteen ohjauksesta ilmailun osalta jo hyvin hyvin monta vuotta, ja
+sitä on toteuttanut yhtiömuotoinen toiminta. 
+
+Tässähän nyt oikeastaan on kysymys siitä, että kun aikaisemmin on yhtiöitetty ilmalii-
+kenteen ohjaus ja raideliikenteen ohjaus eri kausilla, niin nyt sitten nämä loput eli tieliiken-
+ne ja merenkulku sekä lopputoiminnot raideliikenteen osalta yhtiöitetään samaan järjestel-
+mään. Tämä tuo nimenomaan ketteryyttä, ja pystytään siten nopeammin kehittämään ja
+myöskin tuottamaan parempia palveluita, kun lähdetään asiakaslähtöisyydestä liikkeelle.
+Asiakaslähtöisyys oman kokemukseni mukaan yleensä tuottaa parempaa palvelua. 
+10
+
+
+
+Pöytäkirjan asiakohta PTK 33/2018 vp
+Kun me haemme avoimuutta ja kun me vertaamme esimerkiksi nykyistä tieliikenteen
+ohjausta, niin kuinka läpinäkyvä se järjestelmä teidän mielestänne on ja kuinka paljon teil-
+lä on otetta siitä, mitä kaikkea omaisuutta, tase-eriä tai tuloja siihen liittyy? Jos te vertaatte
+esimerkiksi ANS Finlandin tai entisen Finavian lukuihin, joita säätelee osakeyhtiölaki, yh-
+tiöittämislaki, toimialalaki, asiakasohjaus ja omistajaohjaus, niin kyllä meillä tietysti on
+ihan eri lailla sitä tietoa näistä toiminnoista. 
+
+Tässä ei missään tapauksessa haeta yksityistämistä. Me haemme ennen kaikkea erityis-
+tehtävää, jota säädellään lailla, jossa säädetään myös toimivallasta ja menettelystä, ja on
+hyvä muistaa, että nämä päätökset ovat aina viime kädessä eduskunnan omia päätöksiä. 
+
+VTS:n osalta muistuttaisin siitä, että kysymys VTS:n osalta ei ole viranomaistoiminnas-
+ta vaan operatiivisesta liikenteenohjaustoiminnasta, johon liittyy neljänlaisia viranomais-
+päätöksiä. Nämä viranomaispäätökset eivät siirry tämän yhtiön toiminnan piiriin, vaan ne
+siirtyvät tämän esityksen mukaan Trafille ja Rajavartiolaitokselle. Ja hallinto ilman muuta
+niin kuin jo lainsäädännönkin perusteella, että tätä palvelua tuotetaan koko maassa. — Kii-
+tos.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan, jolle perustuslakivaliokunnan on annet-
+tava lausunto.
+11
+
+
+	8
+	15.00
+	15.15
+	15.19
+	15.24
+	15.26
+	15.28
+	15.31
+	15.33
+	15.35
+	15.37
+	15.38
+	15.40
+
+

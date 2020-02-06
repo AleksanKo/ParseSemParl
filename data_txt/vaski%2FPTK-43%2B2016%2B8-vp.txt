@@ -1,0 +1,139 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMECA3.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 43/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 43/2016 vp
+
+Täysistunto
+
+Tiistai 26.4.2016 klo 13.59—16.35
+
+8. Hallituksen esitys eduskunnalle laeiksi tietoyhteiskuntakaaren muuttamisesta ja  väliai-
+kaisesta muuttamisesta sekä eräitä tuoteryhmiä koskevista ilmoitetuista laitoksista anne-
+tun lain muuttamisesta
+
+Hallituksen esitys HE 67/2016 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 8. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävaliokuntaan. Kes-
+kustelu on päättynyt. [Jyrki Kasvi pyytää puheenvuoroa] Palataan vähän taaksepäin. En
+katsonut tuota näyttöä tarpeeksi sukkelaan. Edustaja Kasvi käyttää puheenvuoron asiasta
+8.
+
+Keskustelu
+
+16.15 Jyrki Kasvi vihr: Kiitos, puhemies, ja ei minun sormenikaan ollut ihan ajan tasal-
+la, kun yritin seurata, että missä kohtaa tämä tietoyhteiskuntakaaren korjaussarja, versio
+1.1, oikein sieltä tulee.
+
+Tässähän käytännössä pyritään korjaamaan joukko kaaressa havaittuja ongelmia ja päi-
+vittämään sitä muutenkin ympäristössä tapahtuvien muutosten mukaan. Pääasiassa nämä
+tehdyt muutosesitykset ovat täysin perusteltuja, mutta haluan nostaa esiin pari kysymystä,
+jotka sieltä havaitsin ensimmäisellä lukukierroksella.
+
+Toistaiseksi esityksessä jää avoimimmaksi niin kutsutun verkkoneutraliteetin kohtalo.
+Sinänsä kyse on teknisestä muutoksesta, sillä Euroopan neuvosto ja parlamentti ovat anta-
+neet tietoverkkojen neutraliteettia koskevan asetuksen, joka korvaa jäsenmaiden, myös
+Suomen, kansalliset verkkoneutraliteettia koskevat lait. Sinänsä sääli, sillä neutraliteetista
+käytiin viime vaalikaudella ihan hyvä keskustelu ja sen tuloksena oli ihan hyvä laki. On-
+gelmana tässä on kuitenkin se, etteivät kyseisen asetuksen soveltamisohjeet ole vielä val-
+miit, vaikka asetus on jo astumassa voimaan ja kansalliset lait on pakko kumota. Tämän
+seurauksena tässäkin esityksessä todetaan, että muutoksella on vaikutuksia kuluttajan, yri-
+tysten ja viranomaisten asemaan, mutta ei kyetä vielä kertomaan, millaisia nämä muutok-
+set ovat. Tämä ei ole minun mielestäni parasta mahdollista EU-tason hallintokulttuuria.
+Odotan mielenkiinnolla, mitä tapahtuu, kun valiokunta yrittää ottaa tästä kohdasta selvää.
+
+Myös radioviestinnän luottamuksellisuutta koskevat muutokset ovat mielenkiintoisia.
+Esityksessä on etsitty, ja itse asiassa aika hyvin löydettykin, tasapaino yksityisyydensuo-
+jan ja uusien digitaalisten palveluiden kehittämisen mahdollistamisen välillä, sillä ensinnä-
+kin muutokset on säädetty määräaikaisiksi, jolloin niiden vaikutuksia voidaan seurata, ja
+esityksessä korostetaan eri tavoin, että vain anonymisoituja tietoja voidaan käsitellä, jol-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 43/2016 vp
+loin niitä ei pystytä yhdistämään yksilöihin. Siitä huolimatta tämä mahdollistaa sellaisten
+palveluiden kehittämisen, joiden kehitys tähän asti on jäänyt tekemättä, koska yritykset
+ovat pelänneet, että siitä aiheutuu niille juridinen riski.
+
+Yksi avoin kysymys tässä radioviestinnän luottamuksellisuudessa kuitenkin jää auki.
+Siinä missä esitys nyt mahdollistaa toteutuessaan kauko-ohjattavien laitteiden, esimerkik-
+si näiden dronien, radioliikenteen seuraamisen, niin tarkoittaako tämä itse asiassa myös au-
+tonomisen liikenteen ajoneuvoja, jolloin esimerkiksi myös robottiautojen, jotka ovat jatku-
+vassa radioliikenteessä liikenneinfran ja toisten ajoneuvojen kanssa, liikennettä voitaisiin
+seurata? Eiväthän ne itse asiassa kovin paljon eroa näistä lentävistä droneista, ainakaan
+teknisesti. Tässä kohdassa meidän on oltava erityisen tarkkana, ettemme vahingossa vai-
+keuta näiden uusien liikenteen digitaalisten palveluiden kehitystä.
+
+Lopuksi: On tosi erinomaista, että tällä esityksellä tietoyhteiskuntakaareen lisätään niin
+sanottujen julkisesti säänneltyjen satelliittipalveluiden säännökset. Käytännössähän tämä
+tarkoittaa ilmeisesti Galileoa, mutta tämä määritelmä on tässä esityksessä sen verran epä-
+määräinen, että se todennäköisesti voisi tarkoittaa muitakin palveluita. Mutta joka tapauk-
+sessa tämä on tosi hyvä asia, sillä satelliittipalvelut on yksi niistä asioista, joiden merkitys
+ihan perusinfrassa, kansalaisten arjessa ja viranomaisten toiminnassa kasvaa jatkuvasti. Ja
+tämä on senkin takia Suomelle erittäin tärkeä kysymys, että tämän niin sanotun lähiavaruu-
+den tai yläilmakehän taloudellinen merkitys kasvaa, ja tässä sekä kansainvälinen säännös-
+tö että sitten Suomen lainsäädäntö ovat itse asiassa ihan auki — sitä ei ole. On tosi hyvä,
+että me saamme tämänkin asian niin sanotusti lailliselle tolalle. Odotan mielenkiinnolla,
+arvoisa puhemies, mitä tästä valiokunnassa saamme kuulla.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan.
+2
+
+

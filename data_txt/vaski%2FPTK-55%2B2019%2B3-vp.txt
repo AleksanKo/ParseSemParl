@@ -1,0 +1,2344 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMC10A.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 55/2019 vp
+
+Täysistunto
+
+Keskiviikko 23.10.2019 klo 14.00—17.34
+
+3. Hallituksen esitys eduskunnalle vuoden 2019 kolmanneksi lisätalousarvioksi 
+Hallituksen esitys HE 28/2019 vp
+Lisätalousarvioaloite LTA 10/2019 vp
+Valiokunnan mietintö VaVM 5/2019 vp
+
+Ainoa käsittely
+
+Puhemies Matti Vanhanen: Ainoaan käsittelyyn esitellään päiväjärjestyksen 3. asia. Kä-
+sittelyn pohjana on valtiovarainvaliokunnan mietintö VaVM 5/2019 vp.
+
+Asian käsittely alkaa yleiskeskustelulla, jossa on nopeatahtinen osuus, jolloin etukäteen
+varatut puheenvuorot saavat kestää enintään 5 minuuttia. Puhemiesneuvosto suosittaa, että
+myös nopeatahtisen keskusteluosuuden jälkeen pidettävät puheenvuorot kestävät enintään
+5 minuuttia. Lisäksi myönnän harkitsemassani järjestyksessä vastauspuheenvuoroja.
+
+Keskustelu
+
+14.02 Johannes Koskinen sd (esittelypuheenvuoro): Arvoisa puhemies! Vuoden 2019
+kolmas lisätalousarvio on suhteellisen laajan yksimielisyyden vallitessa käsitelty. Siihen
+liittyy kuitenkin yksi eriävä mielipide, jossa esitetään lisäystä kunnille siirrettävään mää-
+rärahaan.
+
+Hallituksen esitys kuntien peruspalvelujen valtionosuuteen tehtävästä 237 miljoonan
+euron korotuksesta koskee vuodelta 2020 aiennettavaa siirtoa kilpailukykysopimuksen to-
+teuttamiseen liittyvästä kompensaatiosta. Kyseessä on kertakorvaus, joka maksetaan kun-
+nille kuluvan vuoden marras- tai joulukuussa tasasuuruisesti 43,22 euron suuruisena sum-
+mana asukasta kohden. Valiokunta pitää kompensaation aikaistusta perusteltuna kuntata-
+louden heikon tilanteen vuoksi. Kuntien toimintamenot ovat kasvaneet, minkä lisäksi ve-
+rokertymät ovat olleet ennakoitua pienemmät. Tämän arvioidaan johtuvan muun muassa
+ennakonpidätykseen tehdyistä menettelymuutoksista ja kansallisen tulorekisterin käyt-
+töönottoon liittyvistä tekijöistä, jotka vaikuttavat kertymien ajoitukseen. 
+
+Kuntaliiton arvion mukaan kuntatalouden tila on heikentynyt kuluvana vuonna voimak-
+kaasti. Erityisen voimakkaasti kevään ennusteesta ovat pudonneet kuntien verotulot. Myös
+kuntatalouden menot ja investoinnit ovat kasvaneet odotettua nopeammin. Tilikauden tu-
+los on painumassa tänä vuonna yhteensä 0,9 miljardia euroa alijäämäiseksi. Tätä ennen
+kunnallisen kirjanpitohistorian heikoin tilikauden tulos nykytyyppisten tilinpäätösten aika-
+na on ollut 0,4 miljardia euroa elikkä 400 miljoonaa euroa miinusmerkkinen, alijäämäinen
+tilinpäätös vuonna 2012. Kuntien verotulokertymän lasku tänä vuonna on johtunut siis pit-
+kälti tuloverotuksen järjestelmämuutoksista, ei niinkään suhdannekehityksen voimakkaas-
+ta hiipumisesta. Vuoden alussa käyttöön otettu vuositulorajaan perustuva verokorttiuudis-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+tus sekä tulorekisteri synnyttivät kuntien verotilityksiin eräänlaisen rytmihäiriön, joka on
+myöhentänyt verotulojen kertymistä.
+
+Suuri tekijä tietysti on myös se, että kuntatalouden tilaa heikentävät juuri tänä vuonna
+monet edelliseltä hallituskaudelta periytyvät valtionosuuksia leikkaavat päätökset. Tyypil-
+lisesti ne liittyvät kilpailukykysopimuksen tai erilaisten säästölakien toimeenpanoon.
+Kiky-leikkaukset ovat kuluvana vuonna täysimääräisiä, vaikka esimerkiksi lomarahaleik-
+kauksesta saatu säästö kutistuu jo pois eikä työajan pidennys ole Kuntaliiton arvion mu-
+kaan tuonut kuntiin sille asetettuja säästötavoitteita. Lisäksi kuntien verotuottojen kerty-
+mistä on hidastanut jo useamman vuoden ajan palkansaajien sosiaalivakuutusmaksujen
+nousu.
+
+Summalukuinahan tämä näyttäisi siltä, että tuo peittäisi reilun neljänneksen kuntien ali-
+jäämästä, mutta kuntakohtaisesti se ei ihan yhtä lohdullista paikkausta tee, koska kompen-
+saatio maksetaan asukasmäärän pohjalta tasasuuruisena ja sitä menee myös niille kunnille,
+jotka näillä näkymin tekevät positiivisen tilinpäätöksen tältä vuodelta. Mutta se helpottaa
+kyllä tuntuvasti useimpien alijäämäkierteeseen joutuneiden kuntien taloustilannetta ja on
+kovinkin positiivinen toimi. Ne isommat lääkkeethän tulevat ensi vuoden talousarvion yh-
+teydessä, ja niistä keskustellaan sitten erikseen.
+
+Hallitushan esitti tässä lisätalousarviossa myös tarkistuksia tuloarvioihin. Muun muassa
+arvonlisäveron ja varainsiirtoveron tuottoarvioita korotetaan, kun taas ansio- ja pääomatu-
+loveron sekä energiaveron tuottoarvioita alennetaan. Yhteenlaskettuna ja summattuna tu-
+loarvioita alennetaan 443 miljoonaa euroa. Näillä muutoksilla valtionvelan määrän arvioi-
+daan olevan tämän vuoden lopussa noin 107,4 miljardia euroa eli noin 44 prosenttia suh-
+teessa bruttokansantuotteeseen.
+
+Valiokunta esitti siis päätösehdotuksenaan, että eduskunta hyväksyy muuttamattomana
+hallituksen esitykseen 28 näille valtiopäiville sisältyvän ehdotuksen vuoden 2019 kolman-
+neksi lisätalousarvioksi ja että eduskunta hylkää lisätalousarvioaloitteen LTA 10 näille
+valtiopäiville ja että eduskunta päättäisi, että vuoden 2019 kolmatta lisätalousarviota sovel-
+letaan tämän kuun lopusta elikkä 31.10.2019 alkaen.
+
+14.08 Timo Heinonen kok: Arvoisa herra puhemies! Hyvät edustajakollegat ja muut pai-
+kallaolijat! [Mika Niikko: Lehdistö!] Meillä on käsittelyssä lisätalousarvio, jossa siis jon-
+kin verran on pieniä muutoksia tuloarvioihin ja sitten tämä korjaus kunnille tulorekisteri-
+uudistuksen vuoksi, jota varhaistetaan siis tämän vuoden puolelle jonkin verran helpotta-
+maan vaikeaa kuntataloutta. Budjettiriihessähän hallitus päätti myös valtion lisätalousarvi-
+osta, jonka mukaan kunnat saavat tänä vuonna tuon 237 miljoonaa euroa, jolla vältetään
+kiky-sopimuksen mukaisten lomarahaleikkausten huomioiminen kahteen kertaan. Tästä
+huolimatta meillä ensi vuoden talous kunnissa näyttää kyllä entistä huonommalta.
+
+Valtion vuoden 2020 budjetti helpottaa kuntatilannetta mutta ei todellakaan tule ratkai-
+semaan kuntatalouden alijäämäisyyttä. Kuntatyönantajien Jalonen totesi: ”Tämä ei kuiten-
+kaan korjaa kuntatalouden alijäämää. Tiukasta taloustilanteesta kertovat kuntien käynnis-
+tämät yt-neuvottelut, joista ovat nyt ilmoittaneet suuretkin kuntatyönantajat. Tämä on
+poikkeuksellista.” Hän myös totesi: ”Kuntien on saatava uusiin tehtäviin ja velvoitteisiin
+täysimääräinen valtionosuus niin, että todelliset kustannukset tulevat katetuksi.”
+
+Oikeastaan tästä tulen siihen, millä tavalla nyt esimerkiksi hallitus on ratkomassa tätä
+yhtä soten isoa kokonaisuutta eli vanhustenhoidon — kokoomuksenkin kannattamaa —
+hoitajamitoitusta, minkä hallitus on nyt muuttanutkin henkilöstömitoitukseksi. [Pia Viita-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+sen välihuuto] Tähän ei ole varattu rahaa, ei ensi vuodelle eikä tuleville vuosille. Kun tätä
+asiaa jonkin verran selvitin, niin esimerkiksi vuonna 2023, kun henkilöstömitoituksen pi-
+täisi tulla voimaan aprillipäivänä huhtikuussa, itse asiassa rahaa on tämä vasemmistohalli-
+tus varannut budjettiin 70 miljoonaa euroa, kun pitäisi varata 250 miljoonaa. [Sanna Anti-
+kainen: Juuri näin!] Eli tässä tulemme siihen tilanteeseen, että meillä itse asiassa kunnat
+ovat tämäntyyppisen politiikan jälkeen entistä vaikeammassa tilanteessa. No mitä he esit-
+tävät ensi vuodelle, kun jo tietynlaisia tiukennuksia ainakin ministeri Kiuru on puheissaan
+sanonut vanhustenhoidon henkilöstötilanteeseen? He esittävät lisäystä 5 miljoonaa euroa.
+No kokoluokan voi ymmärtää hyvin sillä, että tämä on vain hieman yli puolet siitä, mitä he
+esittävät omien ministereidensä erityisavustajien palkkaukseen. Eli meidän vanhustenhoi-
+don henkilöstön määrän lisäykseen osoitetaan vain hieman yli puolet siitä, mitä he esittä-
+vät omien avustajiensa palkkaukseen. Eli tähän meidän kuntatalouden kokonaisuuteen on
+tulossa merkittäviä isoja velvoitteita ilman todellista kestävää rahoituspohjaa. [Mikko Sa-
+vola: Rakentavaa oppositiopolitiikkaa!] 
+
+Arvoisa puhemies! Oikea ratkaisu on tietysti se, että näitä toimenpiteitä tehtäisiin niin,
+että rahat riittävät tulevaisuudessa ja myös niin, että ei annettaisi lupauksia vanhuksille
+eikä peruspalveluiden tarvitsijoille tai tehtäisi sellaisia toimenpiteitä, jotka vievät jopa kun-
+tataloutta huonompaan suuntaan — mistä siis tässä Jalonenkin edellä mainitsi.
+
+Arvoisa puhemies! Meidän hallitus otti varsin nöyrästi vastaan yhden virkamiehen kir-
+jelmöinnin liittyen nuorten toivomiin kevytautoihin. No nyt on tullut toinen muikkari
+EU:lta, [Antti Lindtmanin välihuuto] ja tämä koskee itse asiassa Rinteen hallituksen koko
+talouspolitiikkaa. Nyt tietysti on kysymys siitä, otatteko tämän muistutuksen yhtä nöyrästi
+vastaan ja ryhdytte toimenpiteisiin täyttääksenne näitä Euroopan unionin komission anta-
+man muistutuksen vaateita vai onko tämä nyt teidän mielestänne pienempi asia kuin se ke-
+vytautokysymys, jossa olitte nöyrästi EU:n edessä suurin piirtein rähmällänne. [Antti Lin-
+dtmanin välihuuto]
+
+Arvoisa puhemies! Suomi on saanut siis kovaa kritiikkiä EU:n puheenjohtajamaana en-
+sin työstämästään EU:n budjettisuunnitelmasta, josta itse asiassa Financial Timesissa to-
+dettiin, että ainoa saavutettu konsensus oli se, että lähes kaikki hallitukset vihaavat Suo-
+men suunnitelmaa. Näin olette onnistuneet Euroopan unionin talouden hoidossa, ja sitten
+kun katsomme, miten Suomessa on mennyt, [Puhemies: 5 minuuttia!] niin EU-komissio
+pyysi Suomelta lisätietoja ensi vuoden alustavasta talousarviosta, ja itse asiassa valtiova-
+rainministeri Mika Lintilä totesi, että ”meidän arviomme mukaan kyse ei ole erityisen va-
+kavasta vakaus- ja kasvusopimuksen noudattamatta jättämisestä” — mutta on siis kuiten-
+kin kyse siitä. [Puhemies: 5 minuuttia täynnä!] 
+
+Arvoisa puhemies! Loppuun totean, että Suomi sai EU-komissiolta siis varoituksen jul-
+kisesta rahankäytöstä. EU:n Suomelle antama varoitus koskee julkisten menojen lisäyksiä.
+[Antti Rantakangas: 5 minuuttia!] Euroopan komissio on antanut Suomelle varoituksen,
+jonka mukaan Suomen ensi vuoden budjetti voi olla Euroopan unionin budjettikurisääntö-
+jen vastainen. Toivottavasti hallitus on tässä talouskysymyksessäkin yhtä suoraviivainen
+kuin oli nuorten kevytautojen torppaamisessa. [Välihuutoja] 
+
+Puhemies Matti Vanhanen: Myönnän pyydetyistä puheenvuoroista neljä seuraavaa, ja
+sen jälkeen otamme debatin.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+14.14 Pia Viitanen sd: Arvoisa puhemies! Tämä toimi, mitä tässä lisätalousarviossa teh-
+dään, on varsin tarpeellinen, eli näitä kiky-palautuksia ennenaikaistetaan, millä helpote-
+taan kuntien tilannetta edellisen hallituksen jäljiltä, eli voisi sanoa ja kiteyttää tämän sano-
+malla, että tässä sitä nyt sitten edellisen hallituksen toimia paikkaillaan. Mutta hyvä, että
+näin — on tärkeää, että kunnat saavat tämänhetkiseen tilanteeseen hieman helpotusta.
+Tuossa tuli mieleen, kun kuuntelin edellistä puheenvuoroa, että taisi olla erilaiset mietteet
+siellä kokoomuksessakin vuosi takaperin syksyllä, kun silloin vielä puheenjohtaja Orpo ta-
+lousarviokeskustelussa totesi, että kuntatalous on vahvempi kuin 20 vuoteen. Näin vielä
+viime syksynä sanottiin, ja nyt näemme tulokset. [Timo Heinonen: Nythän on eri hallitus!]
+Eli valitettavasti kovin vahva tämä kuntatalous ei ole, ja tämä uusi hallitus onneksi nyt suo-
+raan sanottuna paikkaa kokoomuksen jälkiä: nyt ei enää leikata, [Timo Heinonen: Päämi-
+nisteri Sipilä totesi, että älkää sössikö taloutta!] nyt kuntien asema paranee 1,1 miljardilla
+eurolla kaiken kaikkiaan ensi vuonna, ja tässä otetaan tälle vuodelle tämä ensimmäinen
+paikkuuaskel. Tästä on, puhemies, kysymys. Ihan turha muuksi yrittää tätä asiaa muuttaa.
+[Ben Zyskowicz: Turhaan haukutte kikyä, kun itse kannatitte sitä!]
+
+Kaiken kaikkiaan olen hyvin tyytyväinen siitä linjasta, että esimerkiksi kunnissa mah-
+dollistetaan taas ensi vuonna edellisen hallituksen lakkauttama, hyvin toimiva kuntakokei-
+lu, kiitos siitä hallitukselle ja ministeri Harakalle. Esimerkiksi Pirkanmaalla, Tampereella,
+tästä saatiin erittäin hyviä tuloksia. Oli todella suuri sääli, että edellinen hallitus lakkautti
+tämän hyviä tuloksia tuottaneen kuntakokeilun. Kyllä aktiivimallit voimassa pidettiin,
+mutta oikeat työllistävät toimet lakkautettiin. [Ben Zyskowicz: Joo, eihän edellinen halli-
+tus työllisyyden eteen mitään saanut aikaan!] Nyt onneksi, kuntienkin kannalta, tämä kun-
+tapohjainen kokeilu voi ensi vuonna jatkua, mikä on tietenkin tärkeää, koska jos työllisyys-
+astetta saataisiin kunnissa paremmaksi, niin varmasti myös se taloustilanne sitä kautta hel-
+pottaisi. [Ben Zyskowicz: Sitä odotellessa!]
+
+Puhemies! Tässä vähän viitattiin tähän hallituksen linjaan. Täällähän on käyty niin väli-
+kysymyksen yhteydessä kuin budjettikeskustelussakin siitä kovasti keskustelua, ja mieles-
+täni on syytä ehkä kerrata se muutos, mikä tapahtui, kun kansa uurnilla kävi ja hallitus
+vaihtui. Onhan tässä nyt nähtävissä, niin kuntapuolella kuin muuallakin, että nyt ollaan
+siirrytty siitä oikeistolaisesta leikkauspolitiikasta politiikkaan, jossa satsataan koulutuk-
+seen, [Timo Heinonen: Velanottopolitiikkaan!] satsataan pienten ihmisten toimeentuloon
+ja tulevaisuusinvestointeihin. Eli suunta on muuttunut, ja se suunta on täysin oikea. Kokoo-
+mukselta tietenkin voisi kysyä, mikä tämä hattutemppu olisi tai mitä he itse haluaisivat teh-
+dä, kun he tuntuvat moittivan kovasti alijäämää mutta olisivat kovasti myös laskemassa ve-
+roja, eivätkä samaan aikaan kertoisi, mistä leikataan. [Ben Zyskowicz: Lisätuloja työlli-
+syyttä parantamalla!] Kiinnostaisi tietää, että kunniltako leikattaisiin vai koulutuksestako
+leikattaisiin vai liikenneinvestoinneista, vanhustenhoivasta, eläkkeensaajien toimeentulon
+parannuksista — mistä kokoomus leikkaisi, sitä emme ole kuulleet. [Ben Zyskowicz: Ei
+mistään! — Timo Heinonen: Ei mistään!]
+
+Mitä tulee budjetin talouslinjaan, joka on tässä suhdannetilanteessa lievästi elvyttävä,
+niin pyydän huomiota sille tosiasialle, että esimerkiksi arvostettu talousasiantuntija Sixten
+Korkman käytti puheenvuoron, jossa hän juuri kuvasi vallitsevaa taloustilannetta ja totesi,
+että näissä olosuhteissa, jolloin korko on matala ja talous hiipuu, elvyttävä politiikka on pe-
+rusteltua, ja sitähän hallitus juuri tekee. Muun muassa Martti Hetemäki, arvostettu henkilö,
+totesi, että työttömiä oli jätetty heitteille, ja nyt esimerkiksi palkkatukea lisätään. Tässä on
+paljon selkänojaa asiantuntijoilta näille hallituksen toimille. [Timo Heinosen välihuuto]
+4
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Se, mitä tulee komission kantaan, on aika mielenkiintoista. Nimittäin mehän täällä vii-
+me viikolla budjettikeskustelussa toimme esiin tämän Reutersilta saadun tiedon, jonka mu-
+kaan komissio oli nimenomaisesti sanonut, että nyt niiden maiden, joilla on varaa tehdä tie-
+tyllä tavalla elvyttävää finanssipolitiikkaa, tulisi toimia, koska taloussuhdanne on se, mikä
+on. Eli se, mitä komissio on tässä uutisessa viestinyt, on toki hieman erisuuntaista kuin
+mitä kokoomus tuossa äsken tuntui edellisessä puheenvuorossaan korostavan. [Ben Zys-
+kowicz: Ehkä ne eivät tarkoittaneet Suomea!] 
+
+Puhemies! Tältä pohjalta jatketaan keskustelua. Tässä on tärkeä satsaus kunnille, ja us-
+kon siihen, että hallituksen toimet myös esimerkiksi kuntakokeilujen suhteen antavat kun-
+nille lisää toivoa. [Antti Lindtman: Selvästi kokoomuskin tukee tätä satsausta kuntiin!]
+
+14.19 Tiina Elo vihr: Arvoisa puhemies! Kuten täällä on jo todettu, tällä lisätalousarviol-
+la päätämme tosiaan, että kuntien ensi vuoden valtionosuuksien maksatusta aikaistetaan
+siirtämällä kertaluonteinen 237 miljoonan euron valtionosuuksien lisäys tälle vuodelle.
+Kyse on kiky-sopimuksen lomarahaleikkauksiin liittyvästä kompensaatiosta, jolla välte-
+tään valtionosuuden vähentäminen kahteen kertaan kikyn takia. Tälle vuodelle siirrettävä
+237 miljoonan euron summa vähennetään vastaavasti ensi vuoden valtionosuuksista, eli
+tällä helpotetaan kuntien akuuttia kassakriisiä tänä vuonna. Se ei kuitenkaan sinällään auta
+kuntien talousahdingossa ensi vuonna tai pidemmällä tähtäimellä.
+
+Arvoisa puhemies! Suomen kuntatalous on heikoissa kantimissa, ja se on huolestutta-
+vaa, koska kuntien taloudesta riippuu aivan olennaisesti se, pystyvätkö kunnat huolehti-
+maan asukkaidensa terveydestä ja hyvinvoinnista, pystyvätkö kunnat tarjoamaan laadukas-
+ta koulutusta ja varhaiskasvatusta sekä pystyvätkö kunnat torjumaan ilmastonmuutosta ja
+suojelemaan ympäristöä. Taustalla on kuntien toimintamenojen kasvun kiihtyminen sa-
+malla kun verokertymä on jäämässä ennakoitua pienemmäksi. Kuntien menoja kasvatta-
+vat erityisesti väestön ikääntymisestä johtuva sosiaali- ja terveysmenojen kasvu sekä hal-
+lituksen päättämät uudet, sinänsä tosi tarpeelliset toimenpiteet. Sen takia onkin tärkeätä,
+että hallitus onnistuu nyt viemään sote-uudistuksen maaliin tällä kaudella, niin kuin olem-
+me hallitusohjelmassa linjanneet.
+
+Kunnille tulevat uudet tehtävät tarkoittavat suurelta osin asukkaille tärkeitä palveluita,
+satsauksia lastemme ja nuortemme hyvinvointiin ja oppimiseen, satsauksia perustervey-
+denhuollon vahvistamiseen ja vanhustenhoivan laadun parantamiseen. Esimerkiksi perus-
+opetuksen laadun ja tasa-arvon vahvistamiseen osoitetusta 60 miljoonan euron summasta
+57 miljoonaa kohdistuu kuntatalouteen. Hallitusohjelman mukaan kunnille tulevat tehtä-
+vät kompensoidaan kunnille täysimääräisesti, ja tästä me tulemme hallituksessa pitämään
+kiinni. [Ben Zyskowicz: No, se nähdään!] Kunnissa tehdään käytännössä se tärkeä työ,
+jonka tuloksena ihmisten arki sujuu ja elämässä eteen tuleviin ongelmiin saa matalalla kyn-
+nyksellä viipymättä apua.
+
+Arvoisa puhemies! Kaikki, jotka ovat mukana päättämässä kotikuntansa ensi vuoden ta-
+lousarviosta, tietävät, että kuntatalouden sopeutuspaine on suuri ja paine leikata asukkaille
+tärkeistä palveluista on kova. Ilman uusia toimenpiteitä kuntatalouden lainanottotarpeeksi
+on arvioitu 1,9—2,7 miljardia euroa tällä kehyskaudella. Tuloveroprosentin korotuspainet-
+ta on melkein 90 prosentilla kunnista. Kuntatalouden vakautus vaatii sekä rakenteellisia
+toimia että kuntien oman toiminnan kehittämistä. Samalla on vahvistettava kuntien tulo-
+pohjaa. Työllisyyden parantaminen on tähän tärkeä keino, kuten edustaja Viitanen äsken
+kuvasi. [Ben Zyskowicz: Sitä odotellessa!]
+5
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Arvoisa puheenjohtaja! Kuntien taloussuunnittelua on sotkenut verokertymäennusteen
+arvioitu satojen miljoonien eurojen aleneminen. Tämän vuoden kertymän arvioidaan pai-
+nuvan jopa 900 miljoonaa euroa aiemmin arvioitua alemmas. Verohallinnon tekemien sel-
+vitysten perusteella kertymävaje johtuu suurimmaksi osaksi uudesta verokorttimuutokses-
+ta sekä vuoden alussa käyttöön otetun kansallisen tulorekisterin ilmoitusongelmista, ja
+nämä ovat sinänsä pysyviä muutoksia.
+
+Arvoisa puhemies! Nostan vielä esiin kasvukaupunkien ja erityisesti metropolialueen
+haasteet: Asuntopula ja kohtuuhintaisten asuntojen puute sekä suuret investointipaineet,
+kun kouluja ja päiväkoteja on rakennettava kasvavalle lapsimäärälle ja myös korjattava si-
+säilmaongelmaiset koulut ja päiväkodit. Tarvitsemme toimivaa joukkoliikennettä kestä-
+vään liikkumiseen ja kasvavalle ikääntyvälle väestölle tarvittavat palvelut.
+
+Palvelutarvetta kasvattavat myös kasvava maahanmuuttajataustaisen väestön määrä
+sekä monenlaiset syrjäytymisen haasteet, jotka korostuvat erityisesti kaupungeissa. [Jussi
+Halla-aho: Liittyvätkö toisiinsa?] Yli 60 prosenttia suomalaisista asuu kymmenellä kau-
+punkiseudullamme. Ennustetaan, että vuonna 2040 suomalaisista 67 prosenttia asuu kau-
+pungeissa. Kasvukaupungeilla on keskeinen rooli kestävän kasvun ja työllisyyden edistä-
+misessä, ilmastonmuutoksen torjunnassa ja syrjäytymisen ehkäisyssä. Onkin tärkeää, että
+tämä hallitus tekee myös vahvaa kaupunkipolitiikkaa. Ei unohdeta sitä myöskään tässä sa-
+lissa. [Ben Zyskowicz: Olisiko konditionaali ollut paikallaan?]
+
+14.24 Anu Vehviläinen kesk: Arvoisa puhemies! Olemme aina tässä salissa tienneet, että
+te, edustaja Viitanen, harrastatte poliittista arkeologiaa, ettekä pettänyt tälläkään kertaa.
+[Pia Viitasen välihuuto] Sen verran haluan todeta kyllä, että 2015, kun aloitimme Sipilän
+hallituksen kanssa, oli tilanne se, että valtio otti lähes 7 miljardia euroa velkaa, ja kyllähän
+se vain niin oli, että oli vastuullista, että ruvettiin myös julkista taloutta laittamaan silloin
+kuntoon.
+
+Sitten tähän itse asiaan. Ensinnäkin pidän erittäin hyvänä sitä, että hallitus elää ajassa ja
+tämän lisätalousarvion kautta nyt tulee tämä 237 miljoonaa euroa kunnille. Se on enem-
+män kuin tarpeen. Kuntatalous on mennyt vähän yllättäinkin huonoon kuntoon, ja täällä on
+jo tuotu esille, että se johtuu osittain näistä rytmihäiriöistä ja teknisistä seikoista, jotka liit-
+tyvät verotukseen, kuten tähän verokorttiuudistukseen ja tulorekisterin käyttöönottoon. Jos
+ymmärrän oikein, niin kysymys on suomeksi sanottuna siitä, että ennakolta ei tiedetä riit-
+tävän hyvin, ja tässä meillä on totta kai parannettavaa Verohallinnon osalta myös. Me
+emme tiedä riittävän hyvin, minkä verran verotuloista tulee menemään minäkin vuonna
+seurakunnille, kunnille tai valtiolle ja minkä verran verotusta tulee ihmiselle itselleen.
+Tämä on se juurisyy tässä, mikä aiheuttaa ongelmaa.
+
+Sitten poliittisista ongelmista: Ongelma on kyllä se, että me emme ole saaneet aikaisek-
+si sote-uudistusta. Meillä on nyt seitsemäs hallitus, joka tekee sote-uudistusta, ja niin kauan
+kuin sote on kuntien vastuulla, meillä tulee olemaan vaikeuksia kuntataloudessa. Se on
+ihan selvä asia, ja näin tulee lähivuosinakin olemaan. Sen takia pidän erittäin hyvänä, että
+tämä hallitus omassa hallitusohjelmassaan ja kunta- ja alueosaston vedolla valtiovarainmi-
+nisteriössä tekee laajempaa tilannekuvaa tästä kokonaisuudesta — kuntataloudesta, palve-
+luista, henkilöstön saatavuudesta — sekä ihan yksittäisen kunnan tasolla, kuntaryhmittäin
+että kokonaisuutena. Tällaiselle tietopohjalle meillä kaikilla on varmasti erittäin paljon tar-
+vetta.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Sitten otan esille perussuomalaisten vastalauseen tästä: Täällä on kiinnitetty huomiota
+siihen, että harkinnanvaraisiin on esitetty vain 10 miljoonaa euroa. Se on totta, että 10 mil-
+joonaa euroa esitettiin silloin, kun lähdettiin tämän vuoden budjettia valmistelemaan —
+touko—kesäkuussa muistaakseni tein silloin esityksen siitä, mitä siihen esitetään. Silloin
+puolitoista vuotta sitten kuntatalouden näkymä oli aika tavalla vielä hyvä, ja oli minusta jo
+hyvä, että me saimme tämmöisen pienen puskurin tähän, jolloin voidaan kaikkein heikoim-
+massa asemassa olevia kuntia auttaa. Kun kaivoin vähän tietoja, kävi ilmi, että edellisen
+kerranhan meillä on ollut kuntien harkinnanvarainen avustus vuonna 2014, ja silloin sum-
+ma oli 20 miljoonaa euroa. Meitä on monia, jotka muistamme aikoja, jolloin meillä on ol-
+lut todellakin lähes puolet kunnista hakemassa harkinnanvaraista. Se on pikalaastaria, ei-
+hän se voi auttaa kuin hetkellisesti, ja siinä on tiukat kriteerit, miten sitä annetaan sitten
+eteenpäin.
+
+Sitten otan vielä toisen asian: Tämä on ehkä pieni nyanssiasia, mutta täällä perussuoma-
+laisten vastalauseessa sanotaan, että pitää vahvistaa valtiovarainministeriön kuntatalous-
+osaston osaamista ja johtamista. Minun käsitykseni mukaan ensinnäkin valtiovarainminis-
+teriössä ei ole kuntatalousosastoa. Kansantalousosasto on, mutta sitten on kunta- ja
+alueosasto. Ajattelen kyllä, että kun kunta- ja alueosasto ei ole vastuullinen myöskään näis-
+tä veromuutoksista, mitä siellä on tapahtunut, tästä rytmimuutoksesta, niin minä puolustan
+tätä osastoa. He kyllä tekevät niillä tiedoilla, mitä saavat, mahdollisimman hyvää ja paras-
+ta tulosta, ja kuten jo aiemmin sanoin, he ovat vetämässä tätä tärkeää työtä koko kuntaken-
+tän ja kuntatalouden näköalasta. Toivon, että me voisimme antaa sille työlle kuitenkin kai-
+ken tukemme.
+
+14.29 Arja Juvonen ps: Arvoisa herra puhemies! Perussuomalaiset ovat hyvin huolis-
+saan kuntatalouden tilasta. Todellakin käsittelemme tässä hallituksen esitystä tämän vuo-
+den kolmanneksi lisätalousarvioksi, ja me esitämme tähän, että harkinnanvaraista val-
+tionosuutta kasvatetaan siitä 10 miljoonasta 60 miljoonaan, ja se tulee tässä meidän vasta-
+lauseessa hyvin esille.
+
+Perussuomalaiset kantavat huolta myös tulevaisuudesta ja siitä, mitä ensi vuoden bud-
+jetti tuo meille tullessaan. Me olemme kuulleet, ja kaikki täällä eduskunnassa ovat toivo-
+neet, että me saamme hoitajamitoituksen, ja se maksaa, mutta myös hoivatakuu on tärkeä,
+ja sitä, hallitus, olette tuomassa. Nämä molemmat asiat, henkilöstömitoitus — jollaista te
+tästä hoitajamitoituksesta nimikkeenä käytätte — ja hoivatakuu, ovat tällä hetkellä riittä-
+mättömästi budjetoituja, ja se on erittäin huolestuttavaa. Olette kertoneet kansalaisille ja
+meille edustajille täällä, että hoivatakuu tuo sen tuhat lääkäriä lisää. Täällä puhutaan koko
+ajan lääkäreistä ja siitä, että ihminen pääsee hoitoon seitsemän arkipäivän kuluessa, kun
+hoivatakuu tulee, mutta todellisuus on ikävä kyllä toinen. Rahaa ei siellä ole, ja kun taus-
+tamateriaaleja tutkii, niin siellähän puhutaan moniammatillisista tiimeistä, mikä tarkoittaa,
+että sen kanssa, mitä ihmiset odottavat ja mitä Suomen sosiaali- ja terveydenhuolto kaipaa
+— peruspalvelut kuntoon, lääkärillepääsy turvattava — käy niin, että itse asiassa sinne lää-
+kärille ei sitten pääsekään vaan siellä sote-keskuksessa ohjataan moniammatillisen tiimin
+luokse. Huolestuttaa erityisesti, oletteko johtaneet harhaan nyt jälleen kerran Suomen kan-
+saa ja syöneet sananne. Kenenkä vastaanotolle se ihminen loppujen lopuksi pääsee? Pää-
+seekö se sinne lääkärille viikossa, vai pääseekö se jonnekin moniammatillisen tiimin vas-
+taanotolle, ja keitä ne henkilöt ovat? Suomessa suurin ongelma sosiaali- ja terveydenhuol-
+lossa on tällä hetkellä se, että lääkärille ei pääse riittävän ajoissa, ja tämä asia pitää laittaa
+7
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+kuntoon, mutta te tuotte nyt meille moniammatilliset tiimit. [Eduskunnasta: Vähän eri
+asia!] Tämä minua mietityttää, että mitä tämä tarkoittaa.
+
+Todellakin toimenpiteitä saamme tehdä paljon, ja muun muassa omassa kotikunnassani
+Espoossa väestöä on tullut vuoden aikana 6 000 henkilöä lisää, ja kun lakisääteiset palve-
+lut on kaikille toteutettava, niin mistä sitten kaikki tämä koostuu? Työpaikkoja ja verotu-
+loa — se on sen kaiken ydin, ja sen eteen ponnistelemme. [Vastauspuheenvuoropyyntöjä]
+
+Puhemies Matti Vanhanen: Nyt on avattu vastauspuheenvuoroille mahdollisuus.
+
+14.32 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa herra puhemies! Edustaja Vii-
+tanen ei näytä lainkaan ymmärtävän, mistä taloudessa on kyse. Nykyinen hallitus pelaa
+valtavalla riskillä, kun se laittaa kiinni yli tuhat miljoonaa euroa, yli miljardin siis, pysy-
+viin menoihin ilman että sillä on mitään tietoa näistä tuloista. [Pia Viitasen välihuuto] Hal-
+lituksen omien puheiden mukaan tämän yli miljardin laittaminen kiinni tarkoittaa sitä, että
+jos käy ilmi, että sitten työllisyys ei kehitykään aiotulla tavalla ja se ei rahoitakaan näitä
+menolisäyksiä, sitten arvioidaan jo tehtyjä menolisäyksiä. Niinköhän tulee käymään? Pää-
+ministeri Rinne on sanonut, että ei niitä nyt ruveta avaamaan, keskustan edustajat ovat sa-
+noneet, että ruvetaan avaamaan. Voisitteko, edustaja Viitanen, kertoa, kumpi on hallituk-
+sen tarkoitus?
+
+14.33 Maria Guzenina sd (vastauspuheenvuoro): Arvoisa puhemies! Hoiva, huolenpito
+ja koulutus, ne todellakin Suomessa ovat kuntien kontolla, ja kun edustaja Juvonen tässä
+harmitteli vaikeaa taloustilannetta myös oman kotikaupunkinsa osalta, niin täytyy sanoa,
+että ilman tätä Rinteen hallituksen paikkaustoimenpidettä — jo tänä vuonna, ja etupainot-
+teisesti sitten 1,1 miljardia euroa — Espoonkin talous olisi huomattavasti huonommissa
+kantimissa. Hallitus on todellakin sitoutunut rahoittamaan kaikki uudet tehtävät täysimää-
+räisesti valtionosuuksien kautta. Eikö tämä ole hyvä asia? [Leena Meren välihuuto]
+
+Kun katson sinne kokoomuksen puolelle, yritän löytää sieltä vuosi sitten valtiovarain-
+ministerinä toimineen Orpon kasvoja, mutta en näen hänen kasvojaan. Näen edustaja Zys-
+kowiczin kasvot, ja toki näen myöskin edustaja Heinosen kasvot — molemmat hymyilevät
+— [Timo Heinonen: Nimi mainittu!] ja kysyisin nyt teiltä: Miten noin niin kuin omasta
+mielestä teillä meni vuosi sitten, kun te leikkasitte? Me nyt paikkaamme. Kumman linja on
+oikea?
+
+14.34 Leena Meri ps (vastauspuheenvuoro): Arvoisa puhemies! Kun tässä keskusteltiin,
+että kenen linja on oikea, niin haluan kanssa osaltani tutkiskella historiaa. Muistellaan,
+mikä tilanne oli silloin kun perussuomalaiset lähtivät hallitukseen 2015: Komissio oli lait-
+tamassa meitä valvontaan. Olimme syöksykierteessä. Olimme Kreikan tiellä. [Antti Lindt-
+man: Niin, ja lähditte leikkaamaan!] SDP oli vihreiden kanssa husannut hallituksessa
+useamman vuoden, ja 100 000 uutta työtöntä oli saatu aikaiseksi. Jos se on saavutus, niin
+hyvä näin. Nyt uudelleen on se tilanne, eli ketkä ovatkaan hallituksessa? Olisikohan näitä
+samoja toimijoita, SDP etunenässä pääministeripuolueena. Ja taas alkaa komission varoi-
+tusten linja. Että kun historiaa lähtee muistelemaan, on aina tietysti hyvä ottaa koko kirjo
+esille.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Hyvinkään kaupunginhallituksen edustajana totean, että toki olemme tyytyväisiä, että li-
+särahoitusta tulee, mutta huolissamme siitä, pitävätkö lupaukset siitä, että kun lisää tehtä-
+viä tulee, rahoitus kanssa tulee. [Ben Zyskowicz: Sitä odotellessa!]
+
+14.35 Antti Rantakangas kesk (vastauspuheenvuoro): Arvoisa puhemies! Perussuoma-
+laisten puolelta kannetaan huolta kuntataloudesta, mikä on aiheellistakin. Mutta budjetti-
+keskustelussa ei tullut selväksi, onko perussuomalaisten linja sama kuin mikä puheenjoh-
+taja Halla-ahon linja on ollut 2011 Helsingin Sanomien vaalikoneessa, [Välihuutoja perus-
+suomalaisten ryhmästä] jossa hän sanoi, että verotulojen tasausjärjestelmästä pitää luopua,
+että se on vanhakantaista kepulaista aluepolitiikkaa ja että jokainen kunta tuottakoon ne
+palvelut, mihin omat rahat riittävät. Kysymys siis kuuluu: onko perussuomalaisten linja
+sama kuin mikä oli puheenjohtaja Halla-ahon linja 2011? [Leena Meri: Meidän linja löy-
+tyy meidän ohjelmasta!] Toivottavasti se on muuttunut, mutta siinä keskustelussa se ei tul-
+lut esille. Toivon, että sanotte yksiselitteisesti, kannatatteko te muitten puolueitten tavoin
+tätä tasausjärjestelmää, joka on elinehto sille, että suomalaisissa köyhissä kunnissa pysty-
+tään peruspalvelut tarjoamaan. Edustaja Kankaanniemi, vastatkaa te kunta-asiantuntijana:
+oletteko te puolueena sitä mieltä, mitä kaikki muut puolueet ovat, vai oletteko te puheen-
+johtaja Halla-ahon linjalla, joka on täysin eri mieltä kuin muut puolueet? [Välihuutoja pe-
+russuomalaisten ryhmästä]
+
+14.36 Iiris Suomela vihr (vastauspuheenvuoro): Arvoisa puhemies! Kuten edustaja
+Guzenina hyvin nosti esiin, ensi vuonna nähdään 1,1 miljardin lisäpanos kuntien val-
+tionosuuksiin, koska todellakin hallitus on tunnistanut, että lisärahalle on huutava tarve.
+
+Tässä ollaan lämmöllä muisteltu sitä, kuinka viime hallitus kuulemma julkisen talouden
+tervehdytti, mutta se ei ole mitään tervehdyttämistä, että siirretään valtionvelkaa kuntien
+maksettavaksi ja kuntien kannettavaksi. [Ben Zyskowicz: Se oli sitä edellinen hallitus!]
+Silloin nimenomaan on uhkana se, että leikataan peruspalveluista, leikataan koulutuksesta,
+kaikesta siitä, joka pitää suomalaiset työkykyisinä ja joka pitää suomalaiset pinnalla.
+
+Surullinen esimerkki viime vuoden ja viime kauden linjasta oli, kun lopetettiin työlli-
+syyskokeilu, jossa pitkäaikaistyöttömiä menestyksekkäästi saatiin kaupungeissa työllistet-
+tyä. Tampereellakin nimenomaan tähän vaikeimpaan ryhmään saatiin tartuttua, saatiin
+nostettua yhä useampi työlliseksi. Se vahvisti meidän taloutta, mutta vahvisti se myös val-
+tiontaloutta. Siksi nyt ollaan siirtymässä pitkäjänteiselle linjalle, jossa todella vahvistetaan
+työllisyyspalveluita, [Puhemies koputtaa] pidetään kaikista huolta ja annetaan kunnille ra-
+hat hoitaa ne peruspalvelut huolella.
+
+14.37 Pia Lohikoski vas (vastauspuheenvuoro): Arvoisa puhemies! Kuntien taloustilan-
+ne on viime vuosina heikentynyt huomattavasti, vaikka kunnat toteuttavat kansalaisille
+erittäin tärkeitä lähipalveluita. Kuntien tulopohjaa ovat heikentäneet laskevat verotulot
+sekä edellisen hallituksen päätökset leikata valtionosuuksia. Kuntaliitto on nostanut kiky-
+sopimuksen yhdeksi keskeiseksi syyksi kuntien vaikeaan tilanteeseen. Samaan aikaan kun-
+tien ja kuntayhtymien menot kasvoivat yli 3 prosenttia. Tänä vuonna epävarmuutta ja ta-
+loudellista ahdinkoa ovat lisänneet ennakonpidätysmenettelyn muutokset ja tulorekisterin
+ilmoitusongelmat. 
+9
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Nykyinen hallitus kasvattaa valtionosuuksia. Hallitus on päättänyt lopettaa kuntien val-
+tionosuuksien leikkaukset tämän vuoden lopussa, ja nyt helpotetaan kuntien tilannetta ai-
+kaistamalla osa tästä. Tämä on todella tärkeää, ja tämä on kunnille erityisen tärkeää.
+
+14.38 Mikko Ollikainen r (vastauspuheenvuoro): Ärade talman, arvoisa puhemies!
+Tämä käsittelyssä oleva valtion lisätalousarvio on todella tärkeä ja hyvä juttu. Monella
+kunnalla on tosiaan, kuten täällä on mainittu, todella haasteelliset taloudelliset oltavat, ja
+88 kuntaa on hakenut harkinnanvaraista rahoitusta. Että nämä 237 miljoonaa ovat todella
+tärkeitä. Toimiessani kunnanjohtajana budjetoinnissa käytettiin Kuntaliiton teettämiä ve-
+rokertymäennusteita, ja nyt tulorekisterin ongelmat romahduttivat ennusteita ja sotkivat
+kuntien budjetointia, ja se lovihan oli 400 miljoonaa. Tämä näkyy nyt parhaillaan, kun bud-
+jetteja tehdään, ja tästä johtuen myös on tärkeää, että tämä raha tulee. Peräänkuulutan kui-
+tenkin, että kun tehdään näitä uudistuksia, niin on malttia uudistusten tekemisessä ja läpi-
+viemisessä ja kunnollisia vaikutusarviointeja tehdään. Tiedän, että hallitus tulee tekemään
+näitä tulevien neljän vuoden aikana, ja kuntien pitää luottaa, [Puhemies koputtaa] että uu-
+distusten laskelmat pitävät tulevaisuudessa.
+
+14.39 Sari Essayah kd (vastauspuheenvuoro): Arvoisa puhemies! 190 kuntakonsernia on
+tekemässä alijäämäisen tilinpäätöksen, ja 88 on hakemassa tätä harkinnanvaraista apua,
+jota on sitten jaossa se 10 miljoonaa, että siinä mielessä tämä on kyllä vähän alibudjetoitu
+kohta. Toki harkinnanvarainen on aina sellainen, jolla nimenomaan haetaan tilapäisesti
+apua, mutta nämä kuntien luvut kertovat siitä, että kyse on pitkäaikaisesta ongelmasta. Nyt
+eivät vaikeuksissa ole vain pienet ja keskisuuret kunnat vaan myöskin maakuntien keskus-
+kaupungit. Oikeastaan voisi sanoa, että Helsinkiä lukuun ottamatta myöskin kaikki maa-
+kuntien keskuskaupungit ovat tekemässä alijäämäisiä tuloksia, ja alijäämät huitelevat siel-
+lä kymmenissä miljoonissa. Ja mikä on vakavinta, niin tässä tilanteessa irtisanomisuhan
+alla yt-neuvotteluissa on sote-henkilöstöä, kun joudutaan muutenkin miettimään, mistä ih-
+meestä me löydämme sote-henkilöstöä. Elikkä nyt hallitus ei saa enää yhtään tehdä sellai-
+sia päätöksiä, jotka lisäävät kuntien kuluja, jos niihin ei ole osoittaa valtionosuuksia, [Pu-
+hemies koputtaa] ja tämä koskee nyt erityisesti tätä hoitajamitoituskysymystä myöskin, eli
+meidän pitää kunnille varataan ne rahat, jotka niille kuuluvat näitten velvoitteitten täyttä-
+miseen. [Ben Zyskowicz: Oikein! Hyvä puheenvuoro!]
+
+14.40 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa herra puhemies! Palaan tähän
+EU-noottiin, ja tietysti talouden tilaa ja sitä tapaa, millä nyt Rinteen hallitus on asiaa hoi-
+tamassa, kuvaa valtiovarainministeri Lintilän toteamus, että hallituksen arvion mukaan
+”kyse ei ole erityisen vakavasta vakaus- ja kasvusopimuksen noudattamatta jättämisestä”,
+eli hän myöntää, että ollaan rikkomassa näitä säädöksiä, ja tietysti se on vakava huomautus
+EU:lta vain muutama kuukausi tämän hallituksen työn aloittamisen jälkeen. 
+
+Tässä lisätalousarviossa olisin kyllä odottanut hieman panoksia lisää myös vanhusten-
+hoitoon, sillä puheenjohtaja Lindtman totesi: ”Ensi vuonna tässä maassa ei kerta kaikkiaan
+enää hyväksytä hoitajien alimitoitusta ympärivuorokautisessa hoidossa. Vihdoin tämä asia
+laitetaan kuntoon.” [Antti Lindtman: Pitää paikkansa!] Suora sitaatti Huomenta Suomen
+haastattelusta 17.9. [Ben Zyskowicz: 5 miljoonalla!] Mutta ensi vuodelle te olette varan-
+neet 5 miljoonaa tähän, [Ben Zyskowicz: Silläkö se pannaan kuntoon?] ja 0,7:n henkilös-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+tömitoitus vanhustenhoitoon maksaisi 250 miljoonaa. [Puhemies koputtaa] Mitä te, pu-
+heenjohtaja Lindtman, tällä lausunnolla oikeastaan tarkoititte?
+
+14.42 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Heinosen
+ja muidenkin siellä kokoomuksessa kannattaa lukea se lausunnolle lähtenyt ehdotus hoita-
+jamitoituksesta. Se tarkoittaa sitä, että ensi vuonna todella ne hoivayksiköt, joissa tällä het-
+kellä alitetaan edes suositus — joita on noin sata — kerta kaikkiaan tulevat lainvastaiseen
+tilaan. [Timo Heinonen: Siis 0,7?] Tämä on hyvin selkeä asia, ja uskon, että lukemalla sen
+esityksen tämä selviää Heinosellekin. [Ben Zyskowicz: Puhutteko 0,7:stä? — Välihuutoja] 
+
+Arvoisa puhemies! Vielä tähän talouden isoon kuvaan: Ehkä historiassa ei ole sellaista
+tilannetta, jolloin tilannekuva kuntien taloudesta olisi epäonnistunut ennusteessa niin kuin
+se epäonnistui tälle vuodelle. Sen takia vaaditaan poikkeuksellisia toimia, ja sen takia hal-
+litus niitä nyt tekee. Olen iloinen siitä, että nyt kokoomuskin on asettunut sille kannalle ja
+tukee tätä hallituksen esitystä eikä ole jättänyt vastalausetta. Arvoisa puhemies, tämä on
+tärkeää, koska tarvitsemme kuntatalouteen korjaavia toimia jo tälle vuodelle. Olen iloinen,
+että kokoomus on tälle kannalle asettunut.
+
+14.43 Toimi Kankaanniemi ps (vastauspuheenvuoro): Arvoisa puhemies! Perussuoma-
+laisten lähtökohta on se, että koko maa pidetään asumiskelpoisena, ja tämä edellyttää luon-
+nollisesti tasausjärjestelmiä myös kuntatalouden osalta. Se on yksiselitteisen selvä asia. 
+
+Edustaja Rantakangas, kyllä hämmästelen sitä, että te ette ole huolestunut tästä kuntata-
+louden todella synkästä tilanteesta. Teidän kotikaupunkinne veroprosentti nousee painelas-
+kelman mukaan hallitusohjelman perusteella tehdyn ohjelman mukaan 5,5 prosenttiyksi-
+köllä yli 26 prosenttiin. [Leena Meri: Herranjestas, 5,5 prosenttia! — Eduskunnasta: Oho!]
+Ja kuntien yhteenlaskettu velka nousee 20 miljardista 30 miljardiin vuoteen 2023 mennes-
+sä eli tämän hallituskauden aikana. Nämä ovat niin vakavia lukuja, että nyt pitää ottaa to-
+siasiat käteen ja tehdä päätöksiä tältäkin osin.
+
+Kymmenissä kunnissa ja kuntayhtymissä käydään yt-neuvotteluja. Eivät kunnat ja kun-
+tayhtymät käy niitä ihan tahallaan, [Puhemies koputtaa] vaan tilanne on vakava. [Leena
+Meri: Niin, kannattaisi keskittyä niihin ennemmin kuin vanhoihin vaalikoneisiin!]
+
+14.44 Esko Kiviranta kesk (vastauspuheenvuoro): Arvoisa puhemies! On tärkeää, että
+hallitus on ajan tasalla ja kunnat saavat jo tänä vuonna lisää valtionosuuksia. Ensi vuonna-
+han valtion toimenpiteiden vaikutus kuntatalouteen on 300 miljoonaa euroa plusmerkki-
+nen. [Toimi Kankaanniemen välihuuto]
+
+Oli erinomaista, että edustaja Kankaanniemi kunta-asiantuntijana käytti tämän puheen-
+vuoron valtionosuuksien ja verotulotasauksen tärkeydestä. Rantakangas tuossa sanoi, että
+2011 Halla-aho oli toista mieltä. [Leena Meri nauraa] Tarkistin, että hän oli vielä 2017:kin
+toista mieltä. Harmi, että hän poistui salista emmekä saa kuulla, mitä mieltä hän on nykyi-
+sin.
+
+Sitten voisi todeta kristillisdemokraateille, että taisitte olla hallituksessa silloin, kun har-
+kinnanvaraiset avustukset poistettiin vuonna 2014. [Antti Lindtman: Burn!]
+
+14.45 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa puhemies! Täällähän kyseltiin,
+mikä linja on oikea. Senhän me tiedämme, että viime hallituksen linja oli se leikkauslinja,
+mutta, puhemies, jotta voisin arvioida tätä kysymystä, minä kyllä haluaisin tietää, mikä on
+11
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+kokoomuksen linja. [Ben Zyskowicz: No, vastataan!] Uskon, että Ben Zyskowicz tietää ja
+ymmärtää taloutta kovastikin — uskon näin — mutta juuri siksi en voi ymmärtää, puhe-
+mies, miksi kokoomus ei kerro, miten tämä yhtälö voisi olla mahdollinen: He samaan ai-
+kaan moittivat kovin sanoin, että nyt tehdään alijäämää, ja varoittelevat, ja samaan aikaan
+he ovat esittäneet mittavia veronkevennyksiä. Veroja siis ei kokoomuksen mielestä nyt
+alenneta tarpeeksi. Se ei riitä, että pieni- ja keskituloinen eläkkeensaaja tai palkansaaja saa
+veronkevennyksen. Viime viikolla autoverokin piti poistaa Heinosen mielestä. [Leena Me-
+ri: Polttoainevero!] Ja samaan aikaan kokoomus ei kerro, mistä se leikkaisi. [Maria Guze-
+nina: Kertokaa nyt, mistä leikkaisitte!] Leikkaisitteko koulutuksesta, vanhustenhoivasta,
+eläkkeensaajien asemasta, mistä leikkaisitte? Ben Zyskowicz, te varmasti ymmärrätte ta-
+loutta. Minä toivoisin, että tämän yhtälön selittäisitte, että mikä on kokoomuksen linja.
+[Ben Zyskowicz: Heti kun saan puheenvuoron!]
+
+14.46 Anna-Kaisa Ikonen kok (vastauspuheenvuoro): Arvoisa puhemies! Täällä edusta-
+ja Viitanen aikaisemmin viittasi kansainväliseen suositukseen, että niiden, joilla on varaa
+elvyttää, tulisi elvyttää. Totean, että siinä vain viitattiin vähän vakavaraisempiin Keski-Eu-
+roopan talouksiin, joiden taloustilanne on aika paljon parempi.
+
+Sinällään pidän hyvänä tätä lisätalousarvioesityksen kädenojennusta kunnille, koska
+kuntien taloustilanne on tällä hetkellä poikkeuksellisen haastava. Jotta tätä voitaisiin saada
+pysyvämmin parannettua, tarvitaan laajempaa otetta. Ensinnäkin verotilitysjärjestelmän
+ongelmien korjaaminen on yksi. Toisaalta on myöskin työllisyyden kasvattaminen. Tämä
+työllisyyskokeilu itse asiassa toteutettiin viime hallituksen aikana, ja olin itse Tampereella
+pormestarina silloin käynnistämässä kokeilua. Velvoitteiden arviointia pitää käydä. Täällä
+on nostettu muun muassa se, onko kunnilla mahdollisuutta ensi vuonna vielä näiden VOS-
+lisäysten myötä nostaa tätä mitoitusta riittävästi, onko lääkäreitä saatavissa riittävä määrä,
+jotta hoitotakuuseen päästään. Tästä käydään keskustelua juuri nyt. [Puhemies koputtaa]
+Vielä kuntien erilaistuvien tarpeitten tunnistaminen ja kuntien talousjohtamisen vahvista-
+minen. Ehkä tarvitaan jopa kriisiohjelma.
+
+14.47 Arja Juvonen ps (vastauspuheenvuoro): Arvoisa herra puhemies! Todellakin kat-
+son huolestuneena ensi vuoteen ja tulevaan kauteen. Olette luvanneet, että hoitajamitoitus
+tulisi olemaan se 0,7, mutta kyllähän me kaikki sen ymmärrämme ja tiedämme, että se on
+helpommin sanottu kuin tehty. Mistä te sieltä sitten säästätte, että me saamme sen 0,7:n?
+Tarkoittaako se sitä, että yhä useampi ammattikoulutettu hoitaja, lähihoitaja, sairaanhoita-
+ja joutuu miettimään, onko se hänen työpaikkansa vai korvataanko ammattikoulutettu hoi-
+taja jollakin muulla?
+
+Sitten nostan vielä esille kuntatalouden sitä kautta ajateltuna, kun meille on juuri tullut
+Terapiatakuu-kansalaisaloite tänne eduskuntaan, ja pidämme sitä erittäin tärkeänä. Kysyn
+teiltä: Aiotteko viedä sitä eteenpäin? Sillä tullaan tarvitsemaan valtaisia panostuksia, että
+me saamme mielenterveyspalveluja, me saamme ihmisille apua ja me saamme nuorille ja
+koululaisille sitä tukea ja turvaa, mitä he tarvitsevat, ja minua pelottaa, että sitä rahaa ei ole
+tulossa. Mutta mitä te sanotte, tuotteko te tämän terapiatakuun? [Ben Zyskowicz: Kiuru an-
+toi siitä katteettoman lupauksen!]
+
+14.48 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Uskon, että Ikonen
+viittasi tähän Reutersin julkaisemaan keskustelupaperiin, jossa komissio nimenomaan viit-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+taa siihen, että nyt jäsenvaltioiden pitäisi, pikemminkin kuin reagoida ennakoivasti, vasta-
+ta finanssipolitiikalla tähän kasvun heikentymiseen. Täällä mainitaan kaksi maata, joiden
+osalta varoitellaan — ne ovat Italia ja Kreikka — ja joiden pitää pitää huoli, että markki-
+noiden usko säilyy. Suomi ei ole tässä joukossa, jota on varoiteltu. [Leena Meren välihuu-
+to]
+
+Arvoisa puhemies! Haluaisin myöskin kysyä sitä, mitä Viitanen tuossa kysyi mutta jo-
+hon ei tullut vastausta, ja uskon, että edustaja Zyskowicz on valmis vastaamaan. Kokoo-
+mus on siis moittinut hallituksen koulutuspanostuksia liian vaatimattomiksi ja toisaalta ha-
+luaisi tehdä vielä isommat veronkevennykset ja toisaalta on moittinut hallitusta liiallisesta
+alijäämästä — miten tämä yhtälö menee umpeen? [Antti Rantakangas: Ei mitenkään!] Zys-
+kowicz, älkää nyt vain sanoko, että te olette se ensimmäinen oppositiopuolue, joka ottaa
+käyttöön dynaamiset vaikutukset. [Puhemies koputtaa — Ben Zyskowiczin välihuuto] Jos
+otatte, niin silloin kokoomus menee talouspolitiikan mutasarjaan.
+
+Puhemies Matti Vanhanen: Kohta kuulemme vastauksen. Sitä ennen edustaja Honkonen.
+
+14.50 Petri Honkonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Kuten kaik-
+ki tiedämme, kuntatalouden tilanne ei ole mikään helppo. Olemme tuolla kunta- ja terveys-
+jaostossakin kuulleet tästä viime viikkoina, ja se totta kai varmasti meitä kaikkia täällä sa-
+lissa todella huolettaa. Tämähän ei tule minään yllätyksenä, koska tämähän liittyy sosiaali-
+ja terveyspalveluihin, aivan kuten edustaja Vehviläinen, sosiaali- ja terveysvaliokunnan
+puheenjohtaja, perusteellisessa puheenvuorossaan edellä totesi, ja uskon, että siinä itse ku-
+kin puolue voi tässä salissa tavalla tai toisella katsoa peiliin — sen peilin voi sitten valita
+kyllä aivan itse. 
+
+Mutta nyt todella kuntien taloutta vahvistetaan ja se vahvistuu. Isossa kuvassa on tär-
+keää, että talouskasvun siipiä ei nyt katkaista. Niin kuin nähdään, työllisyys vahvistuu
+edelleen, ja kun katsotaan valtiontalouden tilaa, niin nyt kun kokoomuksen 12-vuotinen
+valtakausi on päättynyt ja sinä aikana valtionvelka on lähes kaksinkertaistunut tai ylikin,
+niin on tärkeää, että pidetään kestävää talouskasvua yllä. Siinä mielessä mielestäni nämä
+valtionosuuslisäyksetkin tulevat tarpeeseen, ja sieltä samasta verokertymästähän ne kunti-
+enkin verot kertyvät, missä tietysti Sipilän hallituksella ja sen toimenpiteillä oli iso rooli. 
+
+14.51 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa herra puhemies! Ensin: Edus-
+taja Lindtman, teiltä jäi vastaamatta edustajan Heinosen kysymykseen. Kun te olette Maik-
+karissa sanonut, että ”ensi vuonna tässä maassa ei kerta kaikkiaan enää hyväksytä hoitajien
+alimitoitusta” ja niin edelleen, [Antti Lindtman: Kyllä!] niin tällä 5 miljoonallako se on tar-
+koitus hoitaa? Puhutteko 0,5:stä vai puhutteko 0,7:stä? Te ette vastannut. Nyt on tilaisuus
+vastata.
+
+Mitä sitten tulee tähän kysymykseen, niin ne panostukset, joita hallitus osoittaa koulu-
+tukseen, varhaiskasvatukseen ja moneen muuhun hyvään tarkoitukseen, ovat meidän mie-
+lestämme perusteltuja emmekä me ole niitä lainkaan vastustamassa tietystikään. Ongelma-
+han on se, että hallitus ei pysty näitä menolisäyksiä rahoittamaan. Se ei pysty niitä rahoit-
+tamaan, koska se ei ole valmis riittäviin toimiin työllisyyden parantamiseksi, [Pia Viitanen
+pyytää vastauspuheenvuoroa] ja tämä tulee selviämään koko Suomen kansalle viimeistään
+ensi keväänä. Kokoomus rahoittaisi nämä ajatukset, mitkä täällä tuotiin esiin, nimen-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+omaan työllisyyden parantamisella. [Antti Lindtman: Dynaamisilla vaikutuksilla?] — Ei
+kun työllisyyden parantamisella. Ei dynaamisilla, vaan työllisyyden parantamisella.
+
+14.52 Iiris Suomela vihr (vastauspuheenvuoro): Arvoisa puhemies! Tässä salissa on mo-
+neen kertaan todettu, että ne osat kokoomuksen työllistämissuunnitelmista, jotka eivät ole
+leikkauksia pienituloisille työttömille, tämä hallitus on kyllä toteuttamassa: panostetaan
+työllisyyspalveluihin, autetaan nimenomaan niitä ihmisiä, joilla on tarvetta päivittää osaa-
+mista ja pyritään tätä kautta ihmisläheisesti parantamaan työllisyyttä. Tästä ei ole mitään
+epäselvyyttä. [Ben Zyskowicz: Sitä odotellessa!]
+
+Sen sijaan siitä on epäselvyys, miten toimii yhtälö, jossa halutaan vähentää alijäämää,
+veroja ei saa nostaa, velkaa ei saa ottaa lisää, kaikkia panostuksia, mitä tämä hallitus tekee,
+pidetään hyvinä ja samalla halutaan vielä lisää panostuksia. Miten tämä yhtälö voi toimia?
+Se on kyllä mielenkiintoista, ja siksi odotankin opposition vaihtoehtobudjetteja. Muistan,
+että niitä on ollut kiinnostavaa oppositiossa tehdä, ja siellähän me sitten näemme, miten
+tämä tasapainotus itse kultakin sujuu. 
+
+Se on hyvä asia, että nyt panostetaan todella ennaltaehkäisyyn, panostetaan siihen, että
+saadaan pidettyä varhaiskasvatuksen ja peruskoulujen ryhmäkoot pienenä. Sitä kautta vä-
+hennetään niitä terveysmenoja tulevaisuudessa. Pidetään kaikki hyvinvoivina, pidetään
+kaikki työkykyisinä. [Puhemies koputtaa] Katsotaan pidemmälle tulevaisuuteen, ei vain
+neljän vuoden talouden tasapainoon vaan kymmenen, kahden-, kolmenkymmenen vuoden
+päähän. Se on oikea linja. [Ben Zyskowicz: Te katsotte tulevaisuuteen leikkaamalla lapsil-
+ta eli ottamalla velkaa!]
+
+14.53 Sanni Grahn-Laasonen kok (vastauspuheenvuoro): Arvoisa puhemies! Välillä
+tuntuu, että tämä keskustelu on aika irti siitä kuntatodellisuudesta, missä eletään, siitäkin
+huolimatta, että hyvin moni meistä on myöskin kuntapäättäjä. Tosiasia on se, että tällä het-
+kellä kunnista tulee erittäin hälyttävää viestiä, eli on huolestuttava, kriittinen tilanne, jota
+itsessään lisää se, että meillä on tiedossa uudet väestöennusteet, joiden mukaan syntyvyys
+laskee ja ikääntyvän väestön myötä samanaikaisesti kustannukset kasvavat esimerkiksi so-
+siaali- ja terveyspalveluissa. Kun me puhumme kuntatalouden tilasta, me puhumme hyvin-
+vointiyhteiskunnan kaikkein tärkeimmistä ydinpalveluista, siis päiväkodeista, kouluista,
+vanhustenhoivasta, mielenterveyspalveluista ja niin edelleen. Sen takia tämän pitäisi olla
+politiikan teossa semmoinen ihan keskeinen teema, johon realismin kautta pureudumme
+täällä.
+
+Hämmentävän paljon käytätte aikaa kokoomuksen ruotimiseen ja edellisiin kausiin. Vii-
+me kaudelta voidaan varmasti monista asioista meitä syyttää, mutta siitä ette voi syyttää,
+etteikö olisi kuntatalouden tilaa otettu vakavasti. [Välihuutoja sosiaalidemokraattien ryh-
+mästä] Silloin itse asiassa työllisyyskehityksen kautta päästiin luomaan tulevaisuudenus-
+koa. Syntyi 140 000 uutta työpaikkaa Suomeen. [Puhemies koputtaa] Nyt se oleellinen ero
+edellisen ja tämän hallituksen politiikassa on se, että työllisyystoimet puuttuvat, jolloin tu-
+levaisuudenuskokin sieltä kunnista alkaa hiljalleen murtua, ja se näkyy, jos kuuntelee kun-
+tia.
+
+Puhemies Matti Vanhanen: Jos vastauspuheenvuorot venyvät kovin paljon yli minuutin,
+siirrytään varsinaisiin puheenvuoroihin. 
+14
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+14.55 Seppo Eskelinen sd (vastauspuheenvuoro): Arvoisa puheenjohtaja! Kuntatalous on
+kriisissä, niin kuin on todettu, ja siihen on monta syytä. Kuntayhtymien ja kuntien meno-
+kehitys kasvaa 4—5 prosenttia, siinä on yksi syy, mutta sitten ovat myös nämä verokortti-
+uudistukset ja tulorekisterimurheet, mutta uskon, että ne 21—22 sitten omalta osaltaan oi-
+kenevat.
+
+On hienoa, että nykyinen hallitus on tarttunut kuntatalouden murheisiin kiinni ja korjaa
+nyt kuntataloutta pikaisesti jo lisätalousarviolla ja ensi vuoden osalta on 1,1 miljardia kai-
+ken kaikkiaan ja myös, niin kuin hallitusohjelmassa on todettu, kompensoi täysimääräise-
+nä nämä tehtävälisäykset, mitä kunnille ollaan laittamassa. Tämä on sitä oikeata kuntapo-
+litiikkaa. 
+
+Mutta kuntatalouteen tarvitaan todennäköisesti tällä hallituskaudella pitkän aikavälin
+kuntatalouden ohjelma. Siis jos ei sote-rahoitusmallia väliaikaisesti jollain muulla tavalla
+rakenneta ennen vuotta 23, niin yksinkertaisesti kunnat ja kuntayhtymät eivät tätä meno-
+kehitystä kestä. Tähän kuntatalouden isoon kuvaan joudutaan varmaan sitten tässä salissa
+palaamaan tällä hallituskaudella.
+
+Puhemies Matti Vanhanen: Myönnän vielä neljä vastauspuheenvuoroa, edustajille Ovas-
+ka, Sarkkinen, Multala ja Vähämäki.
+
+14.56 Jouni Ovaska kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Ehkä syy sii-
+hen, että kokoomukselta kysellään kantoja, on juuri se, että kun kuunteli alkuun edustaja
+Heinosen puheenvuorot, niin ne ovat täysin ristiriidassa monen muun kokoomuslaisen pu-
+heenvuorojen kanssa. Ylipäänsä kun katsoo tätä varsinaista asiaa, jossa puhutaan siis lisä-
+talousarviosta, niin kokoomushan on tämän mietinnön takana myöskin ollut. Ja kun kuun-
+telee puheenvuoroja taas edustajilta, niin puhe on täysin erilaista kuin se totuus, mitä esi-
+merkiksi sieltä valiokunnan mietinnöstä käy ilmi. Eli kiitos kyllä perussuomalaisille siitä,
+että he ponnekkaasti ovat yhden linjan takana ja vastalauseensa esittäneet. Kokoomuksesta
+ei ota selvää, mitä mieltä se puolue asioista on. 
+
+Mitä tulee sitten tähän varsinaiseen kuntatalouden kysymykseen, niin olen edellisen pu-
+hujan kanssa täysin samaa mieltä: me tarvitsemme varmasti jonkinlaisen pelastusohjel-
+man kunnille. Ensinnäkin puhuisin eroista suurten kaupunkien välillä — meillä on Helsin-
+ki vastaan muut. Suuret kaupungit katsovat ensi vuoden talousarvioita vahvasti miinuksel-
+la, hyvin vaikeita vuosia edessä, vaikka näin hyvä hallituksen esitys kuitenkin on tulossa.
+
+14.57 Hanna Sarkkinen vas (vastauspuheenvuoro): Arvoisa puhemies! Kuntatalouden
+tila todellakin on erittäin huolestuttava. Sen tiedostavat toivottavasti kaikki tässä salissa.
+Hallitus helpottaa merkittävästi kuntatalouden tilannetta ensi vuonna, kun valtionosuudet
+kasvavat yli miljardilla, kun valtionosuuksien leikkaukset lopetetaan, ja edustaja Grahn-
+Laasoselle muistutuksena, että todellakin tämän vuoden kuntatalouden erittäin heikkoon
+tilaan ovat suurena syynä aikaisemmin päätetyt kuntatalouden leikkaukset, jotka liittyvät
+hyvin pitkälti kiky-sopimukseen ja muihin leikkaustoimiin.
+
+Tämän vuoden kuntatalouden tilanne on erittäin huono, ja tänä vuonna tällä lisätalous-
+arviolla sitä voidaan helpottaa, kun aikaistetaan ensi vuoden maksatuksia. Tämä on tärkeä
+ratkaisu loppuvuoden osalta. Mutta vaikka ensi vuoden budjetti helpottaa kuntatalouden ti-
+lannetta valtionosuuksien kasvatuksen myötä, niin kuntatalouden rakenteelliset ongelmat
+eivät poistu. Erityisesti ikääntymisestä johtuvat ja väestöä menettävien kuntien taloudelli-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+set ongelmat eivät poistu, ja sen takia sote-uudistus on äärimmäisen tärkeä ja akuutti saada
+läpi.
+
+14.59 Sari Multala kok (vastauspuheenvuoro): Arvoisa puhemies! Mikä on kokoomuk-
+sen linja? No kokoomuksen linja on se, että tarvitaan työllisyystoimia. Se on kuntien kan-
+nalta myös aivan ensisijainen asia, sillä myös kunnat elävät niistä verotuloista val-
+tionosuuksien lisäksi.
+
+Sitten tässä on aivan ehdottomasti todettava, että yhdyn niihin aiempiin puheisiin täällä,
+joissa ollaan huolissaan kuntien taloudesta. On aivan selvää, että kuntien talous ei näytä ke-
+hittyvän positiivisesti ensi vuonna ja sille on tehtävä jotain. Sinällään tämä ehdotus, mikä
+nyt tässä pöydällä on, on positiivinen.
+
+Se kuitenkin, mitä edustaja Heinonen ja itse myös kritisoin, on se, että tuntuu ettei hal-
+lituksessa nyt ymmärretä sitä, että kun luodaan kunnille uusia velvoitteita — kuten esimer-
+kiksi tämä hoitajamitoitus — ja osoitetaan niihin aivan riittämätön määrä rahaa, niin tämä
+tulee entisestään heikentämään kuntataloutta tulevina vuosina. Kun katsotaan, miten val-
+tionosuudet esimerkiksi lasketaan, niin ne lasketaan laskennallisesti — ei syntyneiden kus-
+tannusten perusteella vaan laskennallisesti. Eli kun kunnissa näitä asioita hoidetaan eri ta-
+voin, niin tämä tulee myös eri tavoin vaikuttamaan erilaisten kuntien kykyyn hoitaa palve-
+lunsa tulevaisuudessa.
+
+15.00 Ville Vähämäki ps (vastauspuheenvuoro): Kunnioitettu puhemies! Todellakin tä-
+hän mietintöön sisältyy vastalause, ja vastalauseessa oli lausuma, jonka mukaan haluaisim-
+me lisätä yleistä käsitystä kuntatalouden tilasta ja vahvistaa samalla VM:n kunta- ja
+alueosaston osaamista ja johtamista sen takia, että tälle kunta- ja alueosastolle kuuluvat
+kuntatalouden laskenta- ja analysointitehtävät, ja jotta tämän johtamisen ja osaamisen vah-
+vistamisen jälkeen voidaan aloittaa sitten VTV:n suositusten mukaisesti kuntatalouden oh-
+jauksen sääntökehikkojen luominen. Ne meillä ovat hiukan puutteelliset. Meillä on toki jo-
+tain sääntöjä olemassa, mutta täytyisi vahvistaa yleisiä ohjausmekanismeja sekä kehittää
+työkaluja kuntatalouden ohjaamiseksi viimeisimpien akateemisten tutkimusten pohjalta.
+Samalla esitetään 50 miljoonaa lisää tähän tukeen, koska sitä tukea on haettu noin 100 mil-
+joonaa.
+
+Lopuksi totean vain sen, että täytyisi olla yhdet puheet. Jos siellä omassa kotikunnassa
+on ollut hakemassa tällaista tukea kuntaansa, [Puhemies koputtaa] niin täytyisi sitten täällä
+eduskunnassa toimia myöskin samaten.
+
+Puhemies Matti Vanhanen: Palataan varsinaisiin puheenvuoroihin.
+
+15.01 Toimi Kankaanniemi ps: Arvoisa herra puhemies! Lisätalousarvio on paikallaan,
+ja siinä tämä 237 miljoonan euron aikaistaminen. Ehkä se aikaistuu hieman enemmän kuin
+tammikuulta joulukuulle, eli täytyy todeta, ettei se kyllä mikään apu ole kuntien kriisiin
+mutta kaunistaa tämän vuoden tilinpäätöksiä, jotka Kuntaliiton arvion mukaan olivat tässä
+alkusyksyllä sellaiset, että näytti että vain Helsinki tekee tänä vuonna positiivisen tuloksen
+ja kaikki muut Manner-Suomen kunnat negatiivisen. Tämä varmaan muuttaa nyt sitä lu-
+kua jonkin verran. Tietysti tässä voi todeta, että tästä 237 miljoonasta Helsinki saa 28 mil-
+joonaa, kun tämä jakotapa on tällainen. Helsinki siis tekee tämän päätöksen jälkeen vielä
+enemmän ylijäämää kuin olisi tehnyt ilman tätä, ja tämä helpottaa muitten kuntien tilannet-
+16
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+ta sitten vastaavasti vähemmän. Ymmärrän kyllä, arvoisa puhemies, että kun tällä 237 mil-
+joonan potilla, joka on kikyyn liittyvä summa, estetään kahdenkertainen leikkaus kunnilta,
+niin se pitää jakaa näin. Se on loogista. Mutta näin se menee, että rikkaat saavat tältäkin
+hallitukselta enemmän kuin köyhät, ja näin siinä on käymässä.
+
+Arvoisa puhemies! Hämmästelin kyllä tätä vasemmiston ja kokoomuksen riitelyä tääl-
+lä. Tilannehan oli todella se, että kaudella 2011—2015 Suomeen tuli yli 100 000 uutta työ-
+töntä, julkinen velka kasvoi aivan hirvittävästi, yt-neuvotteluja oli [Leena Meri: Joka viik-
+ko!] kymmenissä kunnissa, ehkä sadassa kunnassa, veroprosentteja nostettiin melkein kai-
+kissa kunnissa ja lisäksi valtion omaisuutta myytiin ruhtinaallisesti 3,3 miljardilla. Siitä
+huolimatta talous meni syöksynä alaspäin, niin että — niin kuin edustaja Meri oikein sanoi
+— 2015 Suomi oli konkurssin partaalla, täydellisessä ahdingossa. Ei olisi tarvinnut kuin
+askel astua eteenpäin sillä tiellä, mitä edellisellä kaudella oli harjoitettu talouspolitiikkana,
+niin olisimme olleet konkurssissa eli jonkinlaisessa selvitystilassa IMF:ään, Euroopan ko-
+missioon ja niin edelleen. No se on mennyttä.
+
+Tältä pohjalta teidän arvostelunne vuoden 2015 jälkeen on kyllä kaukana siitä, mikä on
+rehellistä, avointa ja selkeää. Silloin oli pakko panna säästöjä ja ottaa tilannetta haltuun ja
+tähdätä työllisyyden parantamiseen, ja siinä hallitus edellisellä kaudella onnistui 100 000
+uuden työpaikan myötä. Perussuomalaiset olivat kaksi ensimmäistä vuotta mukana ja oli-
+vat tekemässä niitä kipeitä päätöksiä, joista kaikkia emme olisi halunneet tehdä, mutta näin
+kävi. Mutta tulos oli se, mikä nyt on, että työpaikkoja tuli.
+
+Muuten niitten kahden vuoden aikana myös kuntatalous saatiin kuntoon. Vasta sen jäl-
+keen kun meidät heitettiin ulos hallituksesta, kuntatalous lähti vähin erin kohti sitä, mikä ti-
+lanne on nyt. Ja nyt se on todella synkkä.
+
+Arvoisa puhemies! Tuossa äskeisessä vastauspuheenvuorossani totesin nämä synkät lu-
+vut, eli että alle 6 000 asukkaan kunnissa veroprosentin korotuspaine on 5,5 prosenttiyk-
+sikköä. Ne ovat näitä keskustalaisia pieniä kuntia, joissa siis tullaan tekemään kovia pää-
+töksiä lähimmän kolmen vuoden aikana. Ja todellakin myös kuntien ja kuntayhtymien vel-
+ka nousee 20 miljardista 30 miljardiin, ellei jotakin suunnanmuutosta tehdä. Se suunnan-
+muutos ei onnistu sillä, että kunnat irtisanovat työntekijöitä tai korottavat veroja ja vero-
+pohja rapautuu, eikä myöskään sillä, että jätetään kiinteistöt ja maanalaiset rakenteet kor-
+jaamatta. Se on velan kasvattamista. [Puhemies koputtaa] 
+
+Eli tilanne on todella synkkä, ja siksi perussuomalaisten vastalause on täysin paikallaan.
+Annetaan nyt edes tuo 50 miljoonan helpotus tässä vaiheessa ihan uutena rahana niille kun-
+nille, jotka ovat suurimmassa hädässä. Sehän menee kuntalaisten palvelujen turvaamiseen
+eikä millekään kunnalle sinänsä.
+
+15.07 Petri Honkonen kesk: Arvoisa herra puhemies! Tässä on paikallaan todeta vielä
+näistä työllisyystoimenpiteistä muutama tosiasia, nyt kun kokoomuksen edustajat — jotka
+tässä jo ovat valitettavasti kylläkin poistuneet paikalta — peräänkuuluttivat näitä työlli-
+syystoimenpiteitä. 
+
+Nyt jos verrataan edelliseen vaalikauteen, Sipilän hallitukseen, jolloinka saatiin histo-
+riallinen parannus suomalaisten työllisyyteen — yhä useampaan perheeseen saatiin työtä
+ja toimeentulo, ja tällä oli myös vaikutus kuntatalouteen, ja tosiaan tässähän oli taustalla
+ennen kaikkea kiky-sopimus ja myös muita tärkeitä toimenpiteitä, jotka työllisyyttä paran-
+sivat — niin nämä toimenpiteet eivät suinkaan olleet valmiita silloin, kun Sipilän hallitus
+oli istunut vasta reilun sata päivää, niin kuin nykyinen maan hallitus on istunut. Siis tois-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+tan: nykyinen maan hallitus on istunut vasta reilun sata päivää. Eivät Sipilän hallituksen
+toimenpiteet olleet vielä silloin valmiita. Ne menivät seuraavalle vuodelle, ja vaalikauden
+mittaan näitä toimenpiteitä sitten tuotiin hallituksen esityksinä tänne eduskuntaan ja saa-
+tiin sitä työllisyyskehitystä paremmaksi. 
+
+On mielestäni epärehellistä edellyttää, että meillä pitäisi ikään kuin olla nyt jo tässä vai-
+heessa täällä tämän talon, eduskunnan, käsittelyssä valmiina iso tukku toimenpiteitä, [Lee-
+na Meri: Komissiohan sitä valmistelee!] varsinkin kun mietitään, miltä tasolta nyt lähde-
+tään liikkeelle. Sipilän hallitus lähti historiallisen korkean työttömyyden tasolta liikkeelle
+työllisyyttä nostamaan, ja nyt voi sanoa, että on jäljellä — paikkakuntakohtaisia eroja toki
+on — työttömyyden kova ydin, jonka saaminen työn piiriin on todella haastavaa. Näiden
+ihmisten saaminen takaisin työn piiriin, kun monet ovat pitkään olleet vailla työtä, ei ole ol-
+lenkaan niin helppoa kuin siinä tilanteessa, mistä Sipilän hallitus lähti liikkeelle. Tämä oli-
+si nyt syytä muistaa, kun tästä työllisyydestä täällä salissa keskustellaan. [Anneli Kiljunen:
+Hyvä puheenvuoro!]
+
+15.09 Pia Lohikoski vas: Arvoisa puhemies! Kunnat tuottavat ihmisille niitä julkisia pal-
+veluita, jotka ovat todella lähellä heidän arkeaan. Kunnat huolehtivat erittäin tärkeistä so-
+siaali-, terveys-, koulutus-, vapaa-ajan ja teknisistä palveluista aina vauvasta vaariin. 
+
+Kuntien taloustilanne on valitettavasti viime vuosina heikentynyt huomattavasti. Syk-
+syllä julkaistun kuntatalousohjelman mukaan viime vuonna, 2018, vuosikate oli negatiivi-
+nen 43 kunnassa, kun sitä edellisenä vuonna tällaisia kuntia oli vain neljä. Kuntien tulo-
+pohjaa heikensivät laskevat verotulot sekä edellisen hallituksen päätökset leikata val-
+tionosuuksia. Kuntaliitto on nostanut kiky-sopimuksen yhdeksi keskeiseksi syyksi kuntien
+vaikeaan tilanteeseen. Samaan aikaan kuntien ja kuntayhtymien menot kasvoivat yli 3 pro-
+senttia.
+
+Myöskään tämän vuoden, 2019, osalta kuntataloudella ei ole mennyt hyvin. Tänä vuon-
+na epävarmuutta ja taloudellista ahdinkoa ovat lisänneet ennakonpidätysmenettelyn muu-
+tokset ja tulorekisterin ilmoitusongelmat. Pidemmällä aikavälillä alhainen väestönkasvu
+vaikeuttaa monien kuntien tilannetta ja palvelujen tarve Suomessa eriytyy.
+
+Arvoisa puhemies! Nykyinen hallitus kasvattaa valtionosuuksia. Hallitus on päättänyt
+lopettaa kuntien valtionosuuksien leikkaukset tämän vuoden lopussa. Tämän johdosta val-
+tionosuudet kasvavat yhteensä noin 1,1 miljardia euroa verrattuna tähän vuoteen. Val-
+tionosuuden kasvusta suuri osa on leikkausten palautusta aiemmalle tasolle, ja lisäksi teh-
+dään 166 miljoonan euron indeksikorotus peruspalvelujen valtionosuuteen. Lisäksi kunnil-
+le annetut uudet tehtävät rahoitetaan täysmääräisesti hallitusohjelmassa sovitun mukaan, ja
+tämä on todella tärkeää. Hallitus onkin toteuttamassa todella merkittäviä asioita, kuten esi-
+merkiksi lasten subjektiivisen varhaiskasvatusoikeuden palauttamisen, ryhmäkokojen pie-
+nentämisen ja muun muassa lastensuojelun jälkihuollon laajentamisen.
+
+Arvoisa puhemies! Tänään täällä keskustellaan vuoden 2019 kolmannesta lisätalousar-
+viosta, ja kysehän on yksinkertaisesti siitä, että tälle vuodelle päätettiin aikaistaa ensi vuo-
+delta, 2020, maksettava kertaluontoinen 237 miljoonan euron valtionosuuksien lisäys. Täs-
+sä lisäyksessä on siis kyse kiky-sopimuksen lomarahaleikkauksiin liittyvästä kompensaa-
+tiosta. Tämä ei siis varsinaisesti ole ns. uutta rahaa, [Toimi Kankaanniemi: Ei todella-
+kaan!] mutta se helpottaa kuntien tilannetta nyt, kun osa verotulojen maksatuksesta saattaa
+siirtyä ensi vuoden puolelle teknisistä syistä johtuen. Tämä on erittäin tärkeä asia kunnille
+ja kuntalaisten peruspalvelujen turvaamiselle.
+18
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+15.12 Maria Guzenina sd: Arvoisa puhemies! Täällä ei salissa nyt enää ole yhtään ko-
+koomuslaista. [Markku Eestilä: On!] — Anteeksi, on yksi kokoomuslainen täällä paikalla.
+En kuitenkaan halua nyt häntä tässä kiusata tällä asialla. — Kuitenkin muistutan, että kyllä
+se näin on, että jos se 0,7:n hoitohenkilöstömitoitus olisi silloin aikoinaan — olisi silloin ai-
+koinaan — saatu vietyä eteenpäin, niin meillä olisi aivan erilainen tilanne tällä hetkellä
+kunnissa. Ja sekin toivottavasti kokoomuksessa nyt tunnustetaan, että kun tämä hallitus nyt
+lisää sinne kuntatalouteen mahdollisuuksia turvata vaikkapa vanhustenpalveluita, niin se
+on hyvä asia. Kuulostaa siltä, että teidän mielestänne mikään, mikä SDP:n taholta tai Rin-
+teen hallituksen taholta tehdään, ei ole hyvä asia, mutta tämä hallitus näin lyhyessä ajassa
+on aidosti saanut jo aikaan sellaisia toimia, jotka ihan aidosti vaikuttavat. 
+
+Vaikka nyt puhumme tässä lisätalousarviosta, niin vanhustenpalveluihin liittyen täytyy
+sanoa, että kun meillä on rahaa niukasti jaettavana, niin silloin täytyy ottaa innovatiiviset
+keinot käyttöön, ja nyt liikenne- ja viestintäministeri Marin on yhden tällaisen innovatiivi-
+sen asian saanut vietyä eteenpäin näin lyhyessä ajassa, ja minä puhun nyt kotihoidon hen-
+kilöstön parkkioikeudesta. Se vihdoinkin tulee. 12 vuotta sitä on odotettu, ja sitä eivät ai-
+emmat liikenne- ja viestintäministerit saaneet aikaan, mutta sosiaalidemokraattinen liiken-
+ne- ja viestintäministeri Marin on sen saanut aikaan. Ja kuulkaa, tämä helpottaa hoitohen-
+kilöstön tilannetta siellä kunnissa. Se säästää myöskin rahaa, koska se säästää aikaa. Tämä
+on valtavan tärkeä asia, ei ainoastaan hoitohenkilöstön kannalta vaan myöskin niiden hoi-
+dettavien ikäihmisten ja muiden, jotka apua sinne kotiin tarvitsevat.
+
+15.14 Tarja Filatov sd: Arvoisa puhemies! Hallitus ansaitsee todella kiitoksen siitä, että
+se on suhteellisen ketterästi tuonut tämän esityksen, joka nyt meillä lisätalousarviossa on.
+En itse asiassa muista, että tässä salissa olisi sinä aikana, kun minä olen eduskunnassa is-
+tunut, kuntataloutta paikattu tällaisilla ylimääräisillä valtionosuuksilla, jos me olemme ol-
+leet poikkeuksellisen sakkaavassa tilanteessa. [Toimi Kankaanniemi: Ei tämä ole ylimää-
+räistä!] Siinä mielessä minusta tämä kyllä ansaitsee erityiskiitoksen. 
+
+No mistä sitten johtuu, että kuntatalous on heikossa tilanteessa? Me kaikki tiedämme,
+että tarpeet kasvavat enemmän kuin meidän yhteiskunnan resurssit, ja se tarkoittaa sitä, että
+meidän on opittava tekemään asioita fiksummin, ja monta kertaa ne fiksummin tekemiset
+ovat juuri niitä pieniä asioita, joihin mielestäni edustaja Guzenina tässä hyvin viittasi, joil-
+la pyritään työn tuottavuuden nousuun ja pyritään siihen, että vaikkapa hoivassa olisi aikaa
+enemmän ihmisille ja sille varsinaiselle hoivalle byrokratian sijaan. 
+
+Tässä salissa on monta kertaa perätty, mitkä ovat ne työllisyystoimet, ja kokoomus pitää
+sitä mielestäni ansiokkaasti esillä. Niin pitääkin pitää, koska se on keskeinen asia, jolla
+Suomi selviää. Mutta myös se on tullut selväksi, että meillä on hyvin erilainen käsitys ko-
+koomuksen kanssa siitä, mitä työllisyystoimet tässä ajassa ovat. Me tiedämme, että meillä
+on pula osaavasta työvoimasta, ja silloin parasta työllisyyspolitiikkaa on lisätä koulutuspa-
+noksia, lisätä esimerkiksi toisen asteen oppivelvollisuutta ja lisätä resurssia vaikkakin nyt
+väliaikaisesti tällaisen tulevaisuushankkeen kautta sinne ammatilliseen koulutukseen, jot-
+ta nuoret sieltä oikeasti valmistuvat eivätkä keskeyttäisi opintojansa. Yhtä lailla kun meillä
+on rakennetyöttömyys työttömyyden kovaa ydintä — siellä on tällä hetkellä vähemmän
+suhdanneluonteista työttömyyttä kuin vielä vaikka kolme vuotta sitten — silloin me tarvit-
+semme palveluita. Ihmiset eivät työllisty automaattisesti ja itse. He tarvitsevat ihan kädes-
+tä pitäen palvelua löytääkseen työpaikan, löytääkseen uuden ammatin ja koulutuksen, ja he
+19
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+tarvitsevat myös sitä palkkatukea enemmän kuin normaalissa suhdannetyöttömyyden kor-
+keassa vaiheessa. 
+
+Mutta olkaamme rehellisiä sen suhteen, että jos katsotaan, mistä tämä kuntatalouden yl-
+lättävä alhaisuus tällä hetkellä johtuu, niin se johtuu moneen kertaan sanotuista tulorekis-
+teristä ja verokorttiuudistuksesta — niiden takia ennusteet ovat menneet pieleen — mutta
+se johtuu myös suhdanteen heikkenemisestä, ja se suhdanteen heikkeneminen on alkanut jo
+vuoden alussa. Se on se asia, johon meidän pitää suhtautua vakavasti, ja meidän pitää miet-
+tiä keinoja, joilla me voimme tähän suhdanteeseen vaikuttaa, ja ollaan rehellisiä ja tunnus-
+tetaan se, että Suomen työllisyys kehittyy kaikkein eniten sen mukaan, mitä tapahtuu kan-
+sainvälisillä markkinoilla.
+
+15.17 Mari Rantanen ps (vastauspuheenvuoro): Arvoisa puhemies! On pakko tarttua
+edustaja Guzeninan puheisiin kotihoidon pysäköinnistä. Se on erinomainen asia, ja erito-
+ten olen itse siitä hyvin iloinen, koska meiltä perussuomalaisilta lähti heti alkukaudesta kir-
+jallinen kysymys asiasta ministeri Marinille, joka sitten sieltä omiin toimiinsa nappasi tä-
+män ajatuksen, mikä oli erinomainen asia.
+
+On kuitenkin pakko kysyä tässä kohtaa, onkohan joku pystynyt kirjoittamaan nämä
+yleisperustelut lisätalousarviosta nauramatta, koska tämä lähtee siitä, että talouskasvu
+näyttää vielä lähiaikoina myönteiseltä. Millä mittareilla näin mahtaa olla, kun kaikki asi-
+antuntijat puhuvat aivan toiseen suuntaan?
+
+Sitten kolmanneksi totean kyllä, että kuntatalous sekä valtiontalous sakkaavat meillä,
+kuten tässä salissa hyvin tiedetään, ja kyllä minun täytyy sanoa, että tämä sana innovatii-
+visuus, joka täältä tuli esiin, [Puhemies koputtaa] on perin erikoinen siinä mielessä, että sa-
+maan aikaan lisätään henkilöitä, jotka siirtyvät tulonsiirroille ja palveluiden piiriin — tuo-
+daan jopa ulkomailta asti — [Puhemies koputtaa] kun omatkin ovat pulassa palveluidensa
+kanssa. 
+
+Puhemies Matti Vanhanen: Kun vastauspuheenvuorot eivät pysy minuutissa, siirrytään
+puhujalistaan.
+
+15.18 Hannu Hoskonen kesk: Arvoisa herra puhemies! On aivan oivallista, että maan
+hallitus reagoi kuntien vaikeaan taloustilanteeseen. Tämä kuntien vaikea taloustilannehan
+ei tietenkään ollut yllätys kellekään. Se on kehittynyt, ja nyt sitä ruvetaan pikkuhiljaa oi-
+kaisemaan. Se on totta, että se on pitkä ja kivinen tie, mutta sillä tiellä pitää vääjäämättä
+mennä, ja on nimenomaan niin, että kunnathan ovat se instanssi, joka palvelut järjestää
+kansalaisille. Se on kanssa syytä muistaa, että hallituksen ohjelman mukaan, jos valtio
+määrää kunnille tehtäviä, se myös lähettää siihen rahat, niin että ei mennä enää kunnan
+kukkarolle lisää ottamaan sieltä pois, kun se kuitenkin on ollut viime aikoina melkoisen
+tuuletuksen kohteena.
+
+Toivoisin kuitenkin, että ymmärrettäisiin tässä talossa sekin, kun puhumme elinkeino-
+hankkeista, että monia hyviä hankkeita on tässä maassa vireillä. Viimeksi on käyty kovaa
+keskustelua metsienkäytöstä. Toivoisin, että tässä asiassa Suomen eduskunnasta löytyisi
+sitä suurta viisautta, että emme omia mahdollisuuksiamme pilaisi sillä, että asetamme eri-
+laisia keinotekoisia esteitä sille, ettei metsienkäyttöä voitaisi lisätä. Otetaan esimerkiksi
+vaikka tämä Kuopiossa vireillä oleva Finnpulp-hanke, joka on aivan megaluokan hanke,
+valtavan iso hanke. Siinä yhteydessä on käyty keskustelua, jota minä olen suurella surulla
+20
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+seurannut — siitäkin on käyty valtavaa peitsentaittoa, että se pitäisi lopettaa. En jaksa sitä
+ymmärtää. Ja meillä on monta muuta, pienempää hanketta, jotka perustuvat nimenomaan
+metsäteollisuuteen. Jos jonkun ihmisen tässä maassa on vaikea ymmärtää sitä tilannetta,
+miksi metsäteollisuutta on tulossa, niin katsokaapa vaikka Ruotsia — meillä on erinomai-
+nen verrokkikohde tuo läntinen naapurimme. Ruotsi hakkaa lähes kaiken vuotuisen kas-
+vunsa joka vuosi. Siellä ei puhuta tällaista keskustelua ollenkaan, pitääkö rajoittaa jonkun
+LULUCF:n tai jonkun muun takia. Ei sitä keskustelua käytännössä käydä. Ruotsi hakkaa
+valtavat määrät, paljon enemmän suhteellisesti kuin Suomi. Siellä se ei ole ongelma, meil-
+lä se tuntuu olevan valtava ongelma. Elikkä meillä kannattaa tehdä niitä kotiläksyjä hie-
+man paremmin. Silloin me pärjäämme. 
+
+Se on selvä asia, että jos me haluamme kansalaisten tilannetta parantaa, niin pitää olla
+työtä, sitten pitää olla hyvät palvelut siellä kunnassa, missä he asuvat, ja — kolmas asia —
+kun me vanhentuneen ikäluokan keskellä elämme täällä ja lapsia syntyy liian vähän, niin
+tämän nousevan sukupolven puutos voidaan korjata vain sillä, että meillä ihmisille on töi-
+tä. Nuoretparit kun asettuvat jonnekin asumaan ja saavat työpaikan, niin on hyvin toden-
+näköistä, että he perustavat myös perheen siinä samalla ja rupeaa syntymään lapsia. Silloin
+tämän kansakunnan iso ongelma elikkä ikääntyminen rupeaa pikkuhiljaa oikenemaan.
+Mutta sillä tiellä pitää mennä koko ajan. Se on nimenomaan niin, että pitää uskaltaa inves-
+toida, ottaa vastaan töitä, antaa lupia. Meillä on byrokratia viety tässä maassa valtavalle ta-
+solle. Viime vaalikaudella sitä rohkeasti purettiin, yli 300 normia. Peräänkuuluttaisin sitä
+edelleen, että kaikilla Suomen hallituksilla, nyt ja tästä eteenpäin, olisi sama tavoite elikkä
+byrokratian purku.
+
+15.21 Maria Guzenina sd (vastauspuheenvuoro): Arvoisa puhemies! Kiitoksia tästä vas-
+tauspuheenvuorosta. — Kyllä täytyy sanoa nyt näin, että edustaja Rantasella oli aika rei-
+pas tulkinta siitä, millä tavalla tämä kotihoidon henkilöstön parkkeerauslaki on lähtenyt
+eteenpäin. Se nimittäin lähti eteenpäin jo 12 vuotta sitten — muistaakseni edustaja Ranta-
+nen oli silloin demari [Leena Meri: Mutta hän tuli järkiinsä!] — niin että ehkä seurasitte
+sitä median kautta. Siitä keskusteltiin hyvin paljon. Peräti 112 kansanedustajaa sen silloin
+allekirjoitti tässä salissa, ja itse olin ensimmäinen allekirjoittaja. Se historia lähtee ihan
+sieltä saakka. Myöskään se hallitus, jossa te istuitte, perussuomalainen hallitus, ei saanut
+tätä aikaan, mutta nyt sosiaalidemokraattinen liikenne- ja viestintäministeri on tämän vie-
+mässä maaliin, ja iloitaan siitä kaikki.
+
+15.22 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Guzeni-
+na otti esille tämän vanhustenhoidon ja kokoomuksen linjan. Jos minä oikein muistan näitä
+valtiovarainministeriön ennusteita, niin vanhustenhuollon kustannukset nousevat, vaikkei
+mitään tehdä, yli miljardin tämän vaalikauden loppuun mennessä. Se tarkoittaa silloin sitä,
+että tämä lisätalousarvio, jossa kunnille on annettu rahaa, on täysin oikeasuuntainen. Niitä
+joudutaan todennäköisesti jatkossakin miettimään, koska kunnathan pääsääntöisesti kanta-
+vat vastuun vanhustenhoidosta, ja sen takia tarvitaan valtionosuuksia, jotta ne selviytyvät.
+Tarvitaan myös verotulojen tasausjärjestelmää, koska koko maassa pitää kuntalaisille taa-
+ta riittävät palvelut. Se lähtee jo perustuslaista.
+
+Mitä tulee kiky-sopimukseen, niin yksi Suomen työllisyyspolitiikan menestyskulmaki-
+vistä oli osittain kikyn ansiota, ja jos minä muistelen näitä Suomen Pankin taulukoita oi-
+kein, niin 2014—2017 yksikkötyökustannukset paranivat Suomen osalta 6,5 prosenttia
+21
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+meidän keskeisiin kilpailijamaihin verrattuna. [Puhemies koputtaa] Täältä löytyy työlli-
+syyden paranemisen kova ydin.
+
+Puhemies Matti Vanhanen: Puhujalista.
+
+15.23 Jari Koskela ps: Arvoisa herra puhemies! Ensin haluan kiittää vanhempia kollego-
+ja hyvästä historiantunnista. Tässä on ollut paljon hyödyllistä, opettavaista historiaa, mitä
+tänään on tässä salissa puhuttu. Siinä olivat ne iloisemmat uutiset, ja sitten tietysti on tämä
+aihe, mikä meillä on tänään, kun ollaan puhuttu kunnista. Tässä on tullut selväksi monta
+faktaa, miljardi tälle vuodelle menee kunnilla pitkäksi. Helsinki taitaa olla ainut, joka to-
+siaan jää plussan puolelle. On puhuttu 237 miljoonan kilpailukykysopimuksen kompen-
+saatiosta, ja sekin on todettu, että se on siis kompensaatio. Se ei lämmitä kovin pitkään,
+mutta tietysti se on tyhjää parempi.
+
+Jo hetki sitten edustaja Eestilä mainitsi sanan ”perustuslaki”, ja ajattelin muutamalla sa-
+nalla sieltä siteerata kohtia: Perustuslailla on suojattu kunnallinen itsehallinto, mikä mer-
+kitsee kunnan asukkaiden oikeutta päättää kuntansa hallinnosta ja taloudesta. Itsehallin-
+non periaatteeseen kuuluu, että kunta päättää itse tehtävistä, jotka se on itsehallintonsa no-
+jalla ottanut hoitaakseen. Muuten kunnalle voidaan antaa tehtäviä vain lailla. Perustuslaki-
+valiokunta on korostanut jo vakiintuneessa käytännössä, että kunnille osoitettavat tehtä-
+vät, mitkä säädetään perustuslain 121 §:n 2 momentin mukaan lailla, eivät itsehallinnon
+perustuslain suojan takia saa suuruutensa puolesta heikentää kuntien toimintaedellytyksiä
+tavalla, joka vaarantaa kuntien mahdollisuuksia päättää itsenäisesti taloudestaan ja siten
+myös omasta hallinnostaan.
+
+Me tiedämme, että olemme juuri käyneet läpi nousukauden, ja nyt tässä vaiheessa kun-
+nat ovat siinä tilassa, mitä tänäänkin täällä on monessa puheenvuorossa painotettu — hy-
+vin raskasta kuultavaa. Ja nyt me tiedämme myöskin, että ennusteiden mukaan laskusuh-
+danne on alkamassa. Tiedämme, että Saksassa ja myös länsinaapurissa kipuillaan jo nyt, ja
+me olemme valitettavasti samassa junassa. Kunnat ovat yhteiskuntamme kivijalka, ja moni
+asia on liitoksissa kuntien olemassaoloon tai siihen, miten kunnat kykenevät tuottamaan
+niille annetut tehtävät, myöskin siis sote-palvelut ja hoitajamitoitus, joista tänään on täällä
+moneen otteeseen puhuttu.
+
+Perustuslaki muuten mainitsee 19 §:ssä hoitajamitoitukseen liittyen, että kaikki maam-
+me asukkaat ovat tasavertaisia ja saavat saman hoivan ja suojan, mikä heille kuuluu, ja sil-
+loin se 0,7 on tietysti hyvä asia ja suuntaa-antava, mutta se voi olla paljon suurempikin, ja
+sitäkin sitten voisimme noudattaa. Nyt voidaan kyllä todeta, että näitä lakisääteisiä tehtä-
+viä on 70 prosenttia, joten etenkin sote-puolella kuntien liikkumavara on aika kapea, ja sik-
+si perustuslakia tuossa vähän siteerasin.
+
+Olemme nyt, arvoisa puhemies, joutumassa sellaiseen tilanteeseen, että liian monessa
+kunnassa ovat alkaneet tai alkavat yt-neuvottelut. Talous on siinä jamassa, että peruspal-
+veluita ei voida kohta tuottaa. Tämä johtaa henkilöstön ylikuormitukseen, ja seuraukset
+voivat olla monella inhimillisellä mittarilla mitattuna hyvinkin huolestuttavat — näitäkin
+kokemuksia on tuolla maakunnissa jo tullut vastaan monessa kohtaa näitten toisten tehtä-
+vien hoidon yhteydessä. Näin siis on jo monessa kunnassa käynyt, ja ikäviä loppuunpala-
+misia on tapahtunut. Keinot on jo nyt kunnilla käytetty, ja pahin vaikuttaa olevan vasta
+edessä. Tulemme lähiaikoina rikkomaan perustuslakia monessa kohtaa maassamme. Ja lo-
+mautuksetkin kääntyvät meitä vastaan. Me tiedämme, että ylikuormittunut tilanne johtaa
+22
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+ennenaikaisiin sairaseläkkeisiin ja vain lisää uupumusta ja samalla entisestään korkeita sai-
+raspoissaololukuja. Tilanne on, etten sanoisi, kestämätön.
+
+Tiedän, että tulemme palaamaan tämän syksyn aikana ja tulevan hallituskauden aikana
+vielä monta kertaa kuntien asiaan. Nyt täällä ei ole valitettavasti ketään ministeriä paikalla,
+keneltä voisin kysyä, mutta annan hallituksen suuntaan viestiä, että onko tässä nyt sellai-
+nen näkökulma nähtävissä, että meidän runsaat 300 kuntaa tämän hallituskauden aikana
+muuttuvat 200:ksi tai 100 kunnaksi. [Toimi Kankaanniemi: Näin käy!] Ilmassa on sellai-
+nen henki, että maassa alkavat massiiviset kuntaliitosneuvottelut, ja siksi vaikka se, mitä
+tuossa jo aikaisemminkin perussuomalaiset toivat esiin, [Puhemies koputtaa] että ehdo-
+tamme 50 miljoonaa harkinnanvaraista korotusta momentille 28.90.30, on pieni apu tässä
+tilanteessa, mutta se tulisi todella tarpeeseen. — Kiitoksia.
+
+15.29 Leena Meri ps: Arvoisa puhemies! Edustaja Filatov totesi, että meidän tulee panos-
+taa työn tuottavuuden nousuun, ja itse jäin miettimään, kuinka viime vuosina esimerkiksi
+virkamiehenä ollessani minusta tuntui, että kunnan ja valtion virkamiehistä on otettu kyllä
+jo kaikki irti. Siellä ei hirveästi kyllä ole enää, mitä ihmisten selkänahasta repiä. On ollut
+erilaisia tehokkuus- ja tuottavuusohjelmia, jotka ovat käytännössä olleet henkilöstön vä-
+hentämiseen tähtääviä. Muistan itsekin hyvin, kun olin maistraatissa lakimiehenä, kuinka
+osastolla päämiesmäärät kasvoivat ja holhoustoimen edunvalvonnassa oli kolme henkikir-
+joittajaa, lopulta olin minä yksin. Enempää ei oikein voi vähentää, niin että toivottavasti te
+ette tuottavuudella tarkoita tätä, että lähdetään karsimaan henkilökuntaa, koska usein se
+tarkoittaa juuri sitä.
+
+Tästä kuntataloudesta: Haluan puhua Hyvinkään tilanteesta. Olen siellä nyt toista kautta
+kaupunginhallituksessa, ja meillä on tälläkin hetkellä Hyvinkään talouden tasapainotus-
+ryhmä perustettu, ja laskennallisesti meillä on tulossa alijäämää. Noin 2 prosentin korotus-
+tarve kuntaveroon olisi, jos ottaisimme sen kokonaan kuntaveron korotuksena, mutta ym-
+märrämme, että siinä on pito- ja vetovoimavoimakysymys siten, että se olisi katastrofaa-
+lista kuntalaisille ja monille sellaisille, jotka taistelevat jo nyt toimeentulonsa kanssa. Tääl-
+lä todettiin, että tämä on hieno ja historiallinen asia, että kunnille myönnetään nyt ylimää-
+räistä rahaa. Varmasti näin, mutta minusta se on täysin aiheellista, koska tämä vajaus joh-
+tuu hyvin pitkälle näistä uudistuksista koskien tulorekisteriä ja verokorttia, ja ainakin
+meillä Hyvinkäällä talousjohtaja sanoi, että nämä laskelmat tehtiin 2017 juuri sen pohjalta,
+että oletettiin, että tämä on tämä taso, niin että oikeastaan kunnat ovat olleet niin kuin vil-
+pittömässä mielessä, ja siinä mielessä on aivan oikein, että tätä kompensaatiota tehdään.
+
+Tuossa keskustan edustaja Ovaska hienosti minusta myönsi sen, että perussuomalaiset
+ovat asiassa rehellisiä. Me arvostelemme sitä, että kunnat eivät nyt saa riittävästi harkin-
+nanvaraista tukea haettavaksi, ja me esitämme siihen lisäystä, mutta täällä on ollut esimer-
+kiksi kyllä kokoomus esillä, ja siinä ovat monet edustajat olleet oikeassa, että kokoomus
+kyllä siitä räksyttää mutta ei ole sitten valiokunnassa halunnut tehdä muutosesitystä, mitä
+kyllä suuresti ihmettelen. Valtiovarainvaliokunnan jäsenet varmaan sitten tietävät parem-
+min siitä, mitä kaikkea siellä on ollut.
+
+Edustaja Kankaanniemi toi minusta hyvin esille sen, missä tilanteessa oltiin viime kau-
+della, silloinkin kun perussuomalaiset aloittivat hallituksessa. Eli meillä oli tilanne se, että
+me olimme Kreikan tiellä. Suomi oli konkurssin partaalla, komissio läähätti meidän nis-
+kaan, meillä oli tullut 100 000 uutta työtöntä, ja muistan, kun tv:stä harva se ilta katselin
+uutisia ja yt:t oli aloitettu jossakin paikassa, ja ihan kauhulla katsoin, kun työttömyys vain
+23
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+lisääntyi. Kunnat nostivat veroprosentteja, ja valtion omaisuutta myytiin, ja en jaksa olla
+muistuttamatta, että silloin — SDP ja vihreät muun muassa hallituksessa — myitte Caru-
+nan. Siitä tulee ihan valtavasti ihmisiltä postia, että vaikka kuinka vähennät sähkönkulu-
+tusta, niin sähkölaskussa se kulutus on joskus pienempi kuin se Carunan verkkomaksu, ja
+varmasti kansainväliset pääomasijoittajat hierovat käsiään. Älkää tehkö omaisuuden
+myynnissä tällaisia virheitä enää.
+
+Kuulosti todella huolestuttavalta tuo edustaja Kankaanniemen kertomus siitä, että on
+selvitetty, että alle 6 000 asukkaan kunnissa tämä tarkoittaa 5,5 prosentin veronkorotusta,
+juuri näissä pienissä kunnissa, ja juuri sinne olisi tarvittu varmasti lisää tätä harkinnanva-
+raista tukea, ja siinä mielessä ihmettelen, että hallitus ei ole sitten vastannut tarpeeseen
+reippaalla tavalla. Meidän tulee nyt huomata se, mistä täällä on puhuttu, että taas meillä on
+kimpussa se vakavaraisuus, josta EU on nyt varoittanut. Tietysti olen sitä mieltä, että jo-
+kainen maa päättää itse omista asioistaan, mutta nyt tulisi varmaan sitten miettiä, olemme-
+ko me mukana siinä EU:ssa vai emme. Jos olemme ja aina vetoamme siihen, että näitä sää-
+döksiä pitää noudattaa, niin miksi emme sitten kuuntele sitä, että sieltä tulee varoituksen
+ääniä taloudenpidosta, ja kyllä olen itsekin tosi huolestunut tästä velkaantumisesta.
+
+15.34 Inka Hopsu vihr: Arvoisa puhemies! Hyvät kollegat! Kuntaliitto on useaan ottee-
+seen korostanut kuntatalouksien olevan kriisissä. Vuonna 2018 jopa 196 kunnan tulos jäi
+miinukselle. Tämä on noin kaksi kolmasosaa kaikista suomalaisista kunnista. Kuntaliitto
+on myös todennut, että uusia lakisääteisiä palveluja ei kuntatalous enää kestäisi. Tämän ti-
+lanteen vuoksi hallitusohjelmaan on kirjattu, ettei uusia tehtäviä ilman korvauksia kunnille
+anneta. Me kuntapäättäjät tiedämme, että tiukkaa tekee laadukkaasti hoitaa kuntien nyky-
+tehtävätkin, ja tämä paine näkyy kunnissa juuri käynnistyvissä budjettineuvotteluissa. 
+
+Suomalaisten kuntien osalta hallituksen kolmas lisätalousarvio tuleekin todella tarpee-
+seen. Lisätalousarvio kompensoi kertaluonteisesti lomarahojen leikkauksia kunnille 237
+miljoonaa euroa. Tämä helpottaa kuntien kassavajetta.
+
+Kuntien verokertymä on jäämässä huomattavasti ennakoitua pienemmäksi. Osasyiksi
+on arvioitu sekä verokorttiuudistusta että tulorekisterijärjestelmän käyttöönottoa. Ensi
+vuoden verotuloarvioita on ollut aiempaa vaikeampi tehdä.
+
+Kuntatalouden heikot näkymät eivät heijastu vain pienissä ja keskisuurissa kunnissa.
+Myös suuret kunnat, kuten Espoo, ovat joutuneet taloutensa kanssa ahdinkoon. Kaupungin
+kasvu on 5 000 asukkaan luokkaa vuodessa. Aiemmasta poiketen väkimäärän kasvu ei kui-
+tenkaan enää tuo muassaan verotulojen kasvua. Kasvun edellytykset, suuret infrahankkeet
+ja uusien asukkaiden vaatimien palvelujen, kuten koulujen ja päiväkotien, rakentaminen
+sekä sisäilmaongelmaisten kohteiden korjaaminen, ovat täyttäneet investointiohjelmat tu-
+leville vuosille. Espoossa reilussa kymmenessä vuodessa pelkästään koulu- ja päiväkoti-
+investointien suuruus on yli miljardin, eikä tämäkään mahdollista kaikkien tarpeellisten
+hankkeiden mahtumista mukaan. Kasvukaupungit ovat myös koko maan talouden veturei-
+ta. Uusia työpaikkoja luovien yritysten synty ja kasvu pitää mahdollistaa niissä. Val-
+tionosuuksien jako siis vaatii yhä uudistamista.
+
+Kuntien velkaa on kertynyt runsaasti, ja velkamäärä yhä kasvaa. Velkaantumista pyri-
+tään kunnissa hillitsemään käyttötaloudesta säästämällä, tässä huonosti onnistuen. Kunti-
+en ja kuntayhtymien toimintakulut ovat kasvaneet 4,5 prosenttia tai sitä luokkaa, ja toimin-
+tatuotoissa taas on pudotusta 3,4 prosenttia.
+24
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Kunnallisalan kehittämissäätiö KAKSin mukaan kolme neljästä eli 73 prosenttia kunta-
+johtajista ei usko tavoitteen toteutumiseen kuntien rahoituksen kestävyydestä, oikeuden-
+mukaisuudesta ja riittävyydestä. Erityisen epäluuloisia ovat juuri suurimpien kaupunkien
+ja kuntien johtajat. Myös kuntien henkilöstö väsyy. Tämä viime vuosina menetetty luotta-
+mus pitää korjata. 
+
+Hallitus on tarttunut toimeen ja päättänyt lopettaa kuntien valtionosuuksien leikkaukset,
+ja tähän osoitetaan 1,1 miljardia. Kuten täällä useampi on jo maininnut, nämä ovat tarpeel-
+lisia mutteivät riittäviä toimenpiteitä. Tarvitsemme tiivistä vuoropuhelua kuntien kanssa ja
+kuntatalouden aktiivisia pelastustoimia.
+
+15.38 Aki Lindén sd: Arvoisa herra puhemies! Täällä ollaan käyty minusta hyvää keskus-
+telua tästä hallituksen esityksestä, ja haluan omalta osaltani siitä lyhyesti mainita ja sen jäl-
+keen kommentoida paria esille noussutta asiaa. En lähde toistamaan jo esitettyjä näkemyk-
+siä, joita muun muassa edustaja Filatov ja edustaja Eskelinen tässä jokin aika sitten toivat
+esille ja joissa minusta varsin selkeällä tavalla tuotiin esille kuntatalouden nykyinen tilan-
+ne ja samalla se, että tämä nyt tehtävä ratkaisu on eräänlaista ensiapua. Me joudumme tar-
+kastelemaan tätä laajaa kokonaisuutta täällä vielä tämän eduskuntakauden aikana varmasti
+laajemmin uudelleen.
+
+Minä otan esimerkiksi nyt sen asian, jonka edustaja Juvonen tuossa debatin aikana tote-
+si, kun siinä ei ollut mahdollisuus sitä heti kommentoida: Hän nosti esille lääkärille pää-
+syn. No se ei ole minunkaan mielestäni nyt tämän keskustelun ytimessä, mutta haluan nyt
+kuitenkin korjata hänen näkemyksensä. Tällainen monesta eri ammatista koostuva tiimi,
+moniammatillinen tiimi, ei millään tavalla ole vastakkainen sen kanssa, tuleeko potilaiden
+päästä lääkäriin nopeasti vai ei. Minulla on omaa kokemusta siitä, että hyvällä lääkärin ja
+hoitajan työparilla me pystymme niin paljon tehostamaan terveyskeskusten toimintaa, että
+se on juuri se oikea malli. Oletankin vähän, että jos me olisimme puhuneet vain lääkärille
+pääsystä, niin ehkä edustaja Juvonen olisi kritisoinut sitten sitä, että eikö puhuta lainkaan
+hoitajalle pääsystä. Mutta nyt tämä kritiikki esitettiinkin sitten toisinpäin.
+
+No toinen asia, jonka hän otti esille, oli tämä hoitajamitoituskysymys. Tässähän on hy-
+vin selkeä linjaus, eli ensi vuonna astuu voimaan laki, joka on sitova, mutta se mahdollis-
+taa siirtymäkauden vuoteen 2023 asti eräin tarkasti määritellyin edellytyksin, ja tuo 5 mil-
+joonaa on tarkoitettu siihen tilanteeseen, että on vielä joitakin yksiköitä, joissa ei toteudu
+edes se 0,5. 
+
+Nämä nyt kommenttina ihan näistä kahdesta debatissa esiinnousseesta asiasta.
+Yleisemmin vielä haluan todeta, että kun olen nyt kahdessa valiokunnassa, sosiaali- ja
+
+terveysvaliokunnassa ja hallintovaliokunnassa, niin ne eroavat sillä tavalla toisistaan, että
+hallintovaliokunnassa meillä on ollut erittäin syvällinen mahdollisuus päästä kiinni tiettyi-
+hin toimintoihin, kuten poliisiin ja Rajavartiolaitokseen, koska ne ovat valtion suoria omia
+toimintoja, joiden rahoitus tulee tästä keltaisesta budjettikirjasta, mutta mainitsisin, että
+Rajavartiolaitoksen koko budjetti on samansuuruinen kuin HUSin Lastenklinikan ja että
+koko poliisin budjetti on samansuuruinen kuin Espoon kaupungin sosiaali- ja terveystoi-
+men, ja sosiaali- ja terveysvaliokunnassa meillä on yli 20 miljardin kokonaisuus, joka on
+kunnissa. [Puhemies koputtaa] Sen takia tämä kuntien talous on nyt äärimmäisen tärkeä
+asia, koska siellä ovat tärkeät palvelut.
+25
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+15.41 Toimi Kankaanniemi ps: Arvoisa herra puhemies! Täällä on todettu, että kiky-so-
+pimus olisi ollut kunnille negatiivinen pelkästään. Näin ei tosiasiassa ole. Kiky-sopimuk-
+sella julkisen puolen lomarahoja leikattiin 30 prosentilla, niin kuin tiedätte hyvin. Se oli
+säästöä kuntien palkkamenoissa. Lisäksi työnantajamaksuja siirrettiin työnantajilta työnte-
+kijöille, ja se myös kevensi kuntien palkkamenoja — kuntien ja kuntayhtymien, koko kun-
+tapuolen niin kuin valtionkin. Tämä siis tarkoittaa, että kunnille kiky-sopimus oli helpotus.
+Ensi vuonna ei enää ole tätä. Se loppuu tämän vuoden loppuun, eli lomarahat maksetaan
+ensi kesänä täysimääräisinä. No työnantajamaksujen osalta ei nyt ihan tarkkaan tiedä, mi-
+ten käy, mutta näin kuitenkin on tapahtumassa. Eli kiky-sopimus oli myös helpotus talou-
+den kannalta. 
+
+Sitten on täällä sanottu, että tämä 237 miljoonaa olisi uutta rahaa kunnille. Ei todella-
+kaan ole. Se on kiky-sopimuksesta johtuvan kertaluontoisen menon kompensaatio. Jos tätä
+ei annettaisi kunnille, niin kunnat olisivat joutuneet maksamaan kahteen kertaan tämän 237
+miljoonaa euroa, eli tämä ei ole siinä mielessä mitään uutta rahaa. 
+
+Lisäksi kun otetaan tuo ensi vuoden valtion talousarviossa oleva 1,1 miljardin lisäys
+kuntien valtionosuuksiin, niin sekään ei ole uutta rahaa kunnille siinä mielessä, että ensin-
+näkin 312 miljoonaa on verotulomenetysten kompensaatiota, eli täällä päätetään, että teh-
+dään verotukseen muutoksia, jotka vievät kunnilta 312 miljoonaa verotuloja, ja sen valtio
+kompensoi. Näin pitää tehdäkin, mutta ei se mitään uutta rahaa ole. Sitten kiky-sopimuk-
+sen lomarahaleikkaus korvataan, siis 285 miljoonaa euroa, koska ensi kesänä kunnat ja
+kuntayhtymät maksavat lomarahat täysinä. Siitä tulee sadan prosentin meno, johon tulee
+sitten valtionosuus kunnille, ja se korvataan näin. Ei mitään väljyyttä tule. Sitten peruspal-
+velujen kustannustason nousun indeksitarkistus tehdään: hinnat ovat nousseet ja kunnille
+tullut lisää menoja, ja niihin tulee valtionosuus, joka on 166 miljoonaa. Sitten tehdään la-
+kisääteinen kustannustenjaon tarkistus menneitten vuosien kustannustenjaon muutoksen
+perusteella. Kunnat saavat 102 miljoonaa lisää. Ei sekään ole uutta rahaa vaan korvaus kus-
+tannuksista, jotka ovat syntyneet ja joihin kunnat eivät vielä ole valtionosuutta saaneet. Sit-
+ten vielä asukasluvun muutokset tekevät pienen summan. Eli kaiken kaikkiaan ei tästä 1,1
+miljardista kuntatalous tosiasiassa kevennystä saa juuri lainkaan — hyvin hyvin marginaa-
+lisesti. Näin pitää juuri tehdä, että nämä korvataan, mutta ei todellakaan pidä antaa sitä nä-
+kökulmaa, että nämä olisivat uutta rahaa, eikä varsinkaan tämä, mikä nyt siirretään ensi
+vuodelta tälle vuodelle.
+
+15.44 Pia Viitanen sd: Puhemies! Toivoisin kuitenkin, että edustaja Kankaanniemi pitäi-
+si sitä hyvänä asiana, että toisin kuin edellinen hallitus, nyt ei leikata. Ja on välttämätöntä,
+että hallitus on myös sitoutunut esimerkiksi siihen, että jos kunnille annetaan uusia tehtä-
+viä, ne kaikki kompensoidaan sataprosenttisesti. Nämä ovat hyvin tärkeitä periaatteita, ja
+uskoisin ja toivoisin, että myös edustaja Kankaanniemi näistä iloitsee. Toisaalta tiedän,
+että seuraavassa puheenvuorossa kuntajaoston puheenjohtaja Tarja Filatov esittelee hie-
+man lukuja mitä tulee näihin valtio—kunta-suhteisiin. Hänellä on tuolla hyvä graafi. Se ei
+ole minulla, mutta te kuulette kohta siitä seuraavassa puheenvuorossa lisää.
+
+Kun edustaja Kankaanniemi mainitsi kiky-sopimuksen ja kunnat, niin täytyy kyllä har-
+mitella sitä, että oli se kunnille mitenpäin vain, niin sanon kyllä suoraan, että sitä emme voi
+unohtaa, mitä se teki kuntatyöntekijöille. [Toimi Kankaanniemi: Te hyväksyitte sen kiky-
+sopimuksen!] Se oli mielestäni kyllä aivan niin kuin sietämätöntä suorastaan, että kiky-so-
+pimuksen myötä näiltä ahkerilta hoitajilta, lähihoitajilta, sairaanhoitajilta, opettajilta, polii-
+26
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+seilta leikattiin lomarahat. Siinä meni kyllä monelta perheeltä aika ikäväksi sitten tietyt ke-
+säsuunnitelmat.
+
+Puhemies! Ennen kuin tässä ehditään taas kerran sanomaan, niin sanon jo valmiiksi, että
+SDP:hän kannattaa sopimusyhteiskuntaa, mutta koskaan emme hyväksyneet sitä, että lo-
+marahat leikataan. [Leena Meren välihuuto] Sehän oli seurausta siitä, että silloinen hallitus
+nimenomaisesti uhitteli pakkolaeilla, eli siellähän oli pöytään jo tuotu vielä pahempia leik-
+kauksia tyyliin sunnuntailisiä, sairaslomakorvauksia, kaikkea tätä. Eli pakkolakiuhkailu-
+jen seurauksenahan kiky aikanaan syntyi tässä muodossaan. [Leena Meri: Tehän hyväk-
+syitte sen!]
+
+Puhemies! Oikeastaan pyysin tämän puheenvuoron siinä vaiheessa, kun ajattelin, että
+keskustelu alkaa hiipua, ja sali näytti hyvin tyhjältä kokoomuksen osalta. Mielestäni oli
+harmi, että kokoomus täältä katosi, koska tässähän nyt kävi, puhemies, sillä tavalla, että en-
+sin esiteltiin väitteitä liittyen hallituspolitiikkaan ja sitten kadottiin, kun piti vastata siihen
+kysymykseen, joka kokoomukselle esitettiin. Ja se kokoomukselle esitetty kysymys oli,
+mikä on se linja, jos samaan aikaan — täällä käyttivät edustajat Zyskowicz ja Heinonen pu-
+heenvuoroja — moitittiin alijäämää ja vaadittiin lisäveronkevennyksiä, mutta ei kuiten-
+kaan kerrottu, mistä sitten leikattaisiin, jos kerran ollaan huolissaan alijäämästä ja lisäve-
+ronkevennyksiä silti halutaan. Eihän tämä yhtälö vain toimi. Tähän olisimme halunneet ko-
+koomukselta vastauksen, mutta varmasti tulemme kysymään sitä myös jatkossa.
+
+15.47 Tarja Filatov sd: Arvoisa puhemies! Edustaja Kankaanniemi puhui uudesta ja van-
+hasta rahasta. Olipa kyse uudesta tai vanhasta rahasta tai kompensaatiosta, niin tosiasia on
+kuitenkin se, että valtion toimet suhteessa kuntatalouteen ensi vuonna ovat positiiviset.
+Elikkä sieltä tulee lisää rahaa siihen nähden, mitä tällä hetkellä on, kun taas tänä vuonna
+valtion toimet ovat voimakkaasti negatiiviset. Tämä on mielestäni se iso muutos, joka kan-
+nattaa panna merkille — mutta ei se kuntataloutta pelasta. [Toimi Kankaanniemi: Ei!] Kyl-
+lä siellä silti tarvitaan niitä toimia, joita tehdään kunnassa.
+
+Kun viittasin tähän tuottavuuteen, niin edustaja Meri kyllä ymmärsi sen täysin väärin.
+Viittasin esimerkkinä siihen, mitä edustaja Guzenina sanoi, että vaikkapa kun lähihoitajan
+parkkipaikka löytyy siitä läheltä, niin työ on tuottavampaa, [Leena Meri: Ei kai nyt yksin
+sillä työllisyyttä ratkaista!] koska hän ei joudu etsimään parkkipaikkaa, mikä on turhaa
+suhteessa siihen tehtyyn hoivatyöhön. Meillä on paljon tällaisia sosiaalisia innovaatioita,
+joita on keksitty eri kunnissa — jossakin on sähkölukot, jossakin on jotakin muuta — jotta
+työ voidaan tehdä siten, että siihen ydintoimintaan ja hoivaan on enemmän aikaa. Tätä työ-
+tä ja hyvien käytäntöjen vaihtoa me tarvitsemme huomattavasti enemmän, ja se on sitä vai-
+kuttavuutta, jota kuntien palveluissa tarvitaan, mutta se on myös ydintyön tuottavuuden
+nousua, koska silloin vähemmällä henkilöstöllä tai sillä samalla henkilöstöllä saadaan
+enemmän palvelua niille asiakkaille ja ihmisille, jotka sitä palvelua tarvitsevat.
+
+Sitten tässä ihmeteltiin sitä, että kun tämän lisäbudjetin perusteita on kirjoitettu, niin
+niissä sanotaan, että talouskehitys on positiivista tai myönteistä, vai mikä se sana oli. Se-
+hän on se, mitä sanaa käytetään silloin kun ollaan vielä plussan puolella. Sitten kun ollaan
+negatiivisella puolella, ollaankin jo huomattavasti enemmän vaikeuksissa, ja toivottavasti
+siihen emme joudu.
+
+15.49 Hanna Huttunen kesk: Arvoisa puhemies! Täällä on puhuttu paljon euroista, ja
+niin toki meidän lainsäätäjinä täytyy tässä salissa puhuakin. Olen itsekin kuntapäättäjä niin
+27
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+kuntatasolla valtuuston puheenjohtajana kuin maakuntatasolla, ja ymmärrän tämän tus-
+kan, mitä kunnissa tällä hetkellä koetaan. Olen itse ollut tekemässä talousarvioita ja olin
+juuri perustamassa talous- ja tulevaisuustyöryhmää omaan kuntaan, ja joka kivi varmasti
+käännetään, että päästään eteenpäin siellä kuntataloudessa.
+
+Itse asiassa minulle ei ole mikään ihme, että kokoomus katosi täältä salista. Jotenkin mi-
+nulla on koko ajan sellainen mielikuva ollut, että kokoomuksen intresseissä ei aina ole se
+itsenäisten kuntien kuntayksikön olemassaolo vaan ehkä laajemmat kuntayksiköt ovat
+heille enemmänkin tärkeitä. 
+
+Itse koen vahvasti, ja myös meidän puolue keskusta kokee, että kunta on paljon enem-
+män kuin tämmöinen juridinen yksikkö. Kunta on ihmisten yhteisö, se on demokratian pe-
+ruskivi, se on elinvoiman edistäjä yhdessä paikallisten toimijoitten kanssa, ja kuntien ja
+yritysten yhteistyö on itse asiassa aivan avainasemassa siinä, miten siellä maakunnissa pär-
+jätään. Mitä vahvempia kuntia on, sen vahvemmat ovat myös tulevaisuudessa maakunnat.
+
+Keskustalle myöskään kunnat eivät ole pelkästään palveluiden tuottamista varten. Toki
+kunnan tärkeä tehtävä on tuottaa palvelut kuntalaisille. Keskustalle kunnat ovat myös tär-
+keä kansalaisia yhdistävä taso. Keskustalle kunnat ovat ihmisten koti. Luotan vahvasti sii-
+hen, että tässä hallituksessa, missä me istumme, tullaan edistämään myös vahvoja tulevai-
+suuden kuntia.
+
+15.51 Toimi Kankaanniemi ps: Arvoisa puhemies! On todella hienoa, että kotiapua an-
+tava henkilö saa sen parkkioikeuden. Me olemme ajaneet sitä, kannatamme sitä lämpimäs-
+ti ja toivomme, että se tulee pikaisesti voimaan.
+
+Mutta sitten tästä tuottavuudesta: Tällä ratkaistaan ehkä pienen pieni osa, lähinnä isois-
+sa kaupungeissa mutta ei valtakunnallisesti, niistä ongelmista, jotka ovat erityisen vakavia
+pienissä kunnissa. Tuossa eilen luin Keskisuomalaisesta Kangasniemen kunnan — se on
+kyllä eri vaalipiiriä — kunnallisuutisia viime maanantai-illalta, ja siellä päätettiin tehdä tä-
+män vuoden loppuun mennessä selvitys kyläkoulujen lakkauttamisesta. Siellä kunnanhal-
+litus teki esityksen kaikkien veroprosenttien tuntuvasta korottamisesta ensi vuoden alusta
+ja lisäksi päätti aloittaa yt-neuvottelut koko henkilöstön kanssa. [Leena Meri: Oho!] Vii-
+dentuhannen asukkaan maaseutukunnassa se on kyllä hätätila, jos ajatellaan, että koulut ja
+kuljetukset lapsille lakkautetaan, verot korotetaan huippuun ja sitten vielä yt-neuvottelut
+päälle. Ei ole helppoa. Tällainen tilanne on nyt tosiasiassa tuolla maakunnissa lukuisissa
+kunnissa. Tuossa kuukausi sitten oli tietoa, että 48 kunnassa ja kuntayhtymässä on yt-neu-
+vottelut menossa. Nyt niitä on varmaan jo huomattavasti enemmän. Tilanne on todella huo-
+lestuttava tältä osin.
+
+Arvoisa puhemies! Edustaja Viitanen kauniisti puhui näistä uusista tehtävistä ja niihin
+tulevasta valtion täydestä rahoituksesta. Se oli jo edellisen hallituksen ohjelmassa vuonna
+2015, ja itse olin siinä mukana sen verran, että tiedän, ettemme olisi hyväksyneet, ellei näin
+olisi kirjattu. Kiitokset silloiselle ministerille — vaikkei hän vielä siinä vaiheessa ministe-
+rinä ollut, kun tämä kirjattiin — että sitten tästä pidettiin kiinni. Mutta teidän hallituskau-
+tenanne, 2011—2015, kuntien valtionosuuksia leikattiin [Pia Viitasen välihuuto] ja saattoi
+tulla lisää tehtäviäkin, joihin ei valtionosuus tullut täytenä. Nyt on tulossa hallitusohjelman
+mukaan varhaiskasvatuksen palauttaminen kaikille, ihan hyvä, ryhmäkokojen pienentämi-
+nen, ihan hyvä, eli lisätehtäviä ja -menoja kunnille mittavasti. Hoitotakuu tulee, hoitajami-
+toitus tulee, sotesta emme tiedä. Mutta sitä, miten paljon nämä tehtävät maksavat todelli-
+suudessa kunnille, me emme kukaan tiedä, ja hallitus ei ole neljän vuoden kehyksissä va-
+28
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+rannut näihin riittävästi varoja. Siinä on iso aukko, jopa ehkä satojen miljoonien aukko
+Kuntaliiton laskelmissa [Puhemies koputtaa] ja hallituksen laskelmissa. Sitten on vielä op-
+pivelvollisuuden pidentäminen, korjausvelka, palkkaratkaisut ja niin edelleen, jotka luo-
+vat kovaa painetta kuntatalouteen.
+
+15.54 Sari Sarkomaa kok: Arvoisa puhemies! Kokoomuksen politiikan keskeinen tavoi-
+te on se, että siellä kunnissa, jokaisessa suomalaisessa kunnassa, asiat ovat niin, että ihmi-
+selle voidaan järjestää ne tärkeät peruspalvelut: koulutus, varhaiskasvatus, vanhustenhuol-
+to ja terveyspalvelut. 
+
+Kun katsotaan nyt kuntataloutta, niin nähdään, kuinka nopeasti talous voi heikentyä. On
+todella huolestuttavaa, että hallituksella ei ole uskottavaa ohjelmaa siitä, miten valtionta-
+lous tasapainotetaan, miten työllisyystavoitteet saavutetaan. Kun katsotaan kuntatalouden
+ongelmia, niin iso asia siellä on se, että työttömyyttä on paljon, ja se, että sosiaali- ja ter-
+veydenhuollon uudistusta ei ole saatu tehtyä. Nyt on tärkeää, että nyt tehdään toimia eikä
+odotella. Yhdyn siihen huoleen, mitä valtiovarainministeriön virkamiehet ovat esittäneet,
+että niitä vaikuttavia työllisyystoimia ei ole. 
+
+Hallitusohjelmassa on paljon hyvää ja kaunista. Hoitajia on luvattu lisää, mutta mikä on
+tilanne? Reaalimaailmassa yt-neuvottelut kohtaavat tuhansia hoitajia. Kyllä toivoisin nyt
+selkeytystä, en pelkästään tähän talouslinjaan ja työllisyyslinjaan vaan myöskin sosiaali- ja
+terveyspolitiikkaan. Täällä edustaja Filatov todella hyvin nosti esille sen, että meidän täy-
+tyy uudistaa toimia sosiaali- ja terveydenhuollossa, lisätä vaikuttavuutta, jotta meillä on
+voimavaroja hoitaa ihan jokainen ihminen.
+
+Ilostuin kovin, kun tuli tämä sosiaali- ja terveyskeskusohjelma. Tiedotustilaisuudessa
+ministeri Kiuru lupasi todellakin, että tuhat lääkäriä tulee, ja hän sanoi, että rahaa on 70
+miljoonaa lähdössä kentälle. Arvoisa puhemies, hän sanoi: ”Jos tällä ei palkata kaikkia nii-
+tä lääkäreitä, jotka saadaan houkuteltua mukaan, niin millä sitten? Kyllä se niin kuin tässä
+on.” Näin sanoi ministeri Kiuru. Mutta kun on ministeriön virkamieheltä kysytty ja asiaa
+on tarkennettu, niin siellä todetaan, että tällä rahalla ei voi palkata edes yhtään lääkäriä,
+vaan tämä tulee kehittämistoimiin. 
+
+Jatkuvasti, tämä on siis vain yksi esimerkki, tulee hallitukselta hyviä lupauksia ja hyviä
+tavoitteita, mutta sitten kun ryhdytään katsomaan, niin todellisuus on aivan toista. Toivoi-
+sin nyt, kun täällä on hallituspuolueiden edustajia, että te nostaisitte esille vielä sen, millä
+tavalla nämä tavoitteet uusista lääkäreistä ja todellakin tarpeellisista hoitajista voidaan to-
+teuttaa, koska kun itse katson tätä budjettikirjaa [Puhemies koputtaa] — aikani loppuu —
+niin täällä on esimerkiksi ensi vuodelle vain 5 miljoonaa euroa hoitajien palkkaamiseen
+eikä täällä ole rahoja lääkäreiden palkkaamiseen. Toivon todellakin, että nyt vastaisitte sii-
+hen, miten nämä ministeri Kiurun esittämät lupaukset oikeasti toteutetaan. 
+
+15.57 Veikko Vallin ps: Arvoisa puhemies! Minä itse olin Tampereen kaupunginhallituk-
+sessa pari vuotta ja edelleen valtuutettuna, ja täytyy sanoa, että osittain Tamperekin on ku-
+ralla ja velkaantuu kriisikuntavauhtia tällä hetkellä. 
+
+Yksi syy tietenkin, mitä tässä ei vielä ole käsitelty, on tämä haitallinen maahanmuutto-
+politiikka, mitä Suomessa harjoitetaan, koska se sitten siirtyy tietenkin kuntiin, koska tie-
+tyt kaupunginosat täyttyvät Tampereellakin maahanmuuttajien lapsista ja sitten pitää ra-
+kentaa päiväkotia, koulua ja kaikkea sellaista, ja se kuormittaa muutenkin Tamperetta. Että
+se on osittain siitä johtuvaa, ainakin Tampereella. 
+29
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Sitten Tampereella on myös itse aiheutettua päänsärkyä, eli tämmöiset täysin älyvapaat
+investoinnit. Meillä rakennetaan ratikkaa ja kävely- ja pyöräilykeskustaa, ja kaupunki on
+kokonaan revitty auki, ja siitä tulee sitten kustannuksia liian lyhyellä aikavälillä liian pal-
+jon ja niin edelleen. 
+
+Naapurikunta Ylöjärvi alentaa kuntaveroa samaan aikaan kun Tampere nostaa, niin et-
+tei tämä niin kuin sillä lailla ole mikään kirous. Siellä tehdään asioita oikein, ja Tampereel-
+la tehdään sitten väärin. 
+
+Tampereella on myös tämmöinen hirveän vahva tai paksu byrokratia, voisi sanoa suoja-
+työpaikkoja, jollain lailla varmaan poliittisia suojatyöpaikkoja tai politiikkaan liittyviä. On
+Hiilineutraali Tampere -kahvitteluporukka, Kestävä Tampere -kahvitteluporukka ja täl-
+laista näin, että tämmöistä aika niin kuin turhaa byrokratiaa, ja aika usein siellä sitten enti-
+set poliitikot istuskelevat. Että kyllä Tampereella ainakin on peiliin katsomisen paikka. 
+
+Meillähän on sosiaalidemokraattinen pormestari, ja se tietenkin tarkoittaa sitä, että ta-
+loudenpito ei ole niin kuin ykkösosaamisaluetta. [Pia Viitanen: Ohhoh! — Anneli Kilju-
+nen: Ettekö tekin ole luottamushenkilö Tampereella?]
+
+15.59 Pia Viitanen sd: Arvoisa puhemies! Tämä menikin mielenkiintoiseksi, kun tuntuu,
+että puheenparsi on hieman erilaista siellä Tampereella. Ellen ole pahasti erehtynyt, niin
+perussuomalaiset ovat olleet mukana pormestarikoalitiossa ja tehneet yhdessä meidän
+kanssamme tämän vuoden talousarvion ja eivät ainakaan vielä ole sanoutuneet siellä Tam-
+pereella irti tästä pormestarikoalitiosta, kun hyväksymme tulevaa budjettia. Toki meillä
+keskustellaan parhaillaan siitä, mitkä ne linjanvedot siellä ovat, ja toki keskustelu on sal-
+littua. Koska pormestari on aika arvostettu, monessa asiassa uskottavuutta ja puolueisiin
+katsomatta yhteiskunnallista arvovaltaa tai tämmöistä tietynlaista arvostusta nauttiva Lau-
+ri Lyly, ihmettelen kovasti enkä kyllä ihan allekirjoittaisi sitä, että osaamista ei sieltä tahol-
+ta löytyisi. Ainakin löytyy yhteistyökykyä, niin kuin tähän asti on löytynyt. Siinä mielessä
+olen ollut hirveän iloinen, puhemies, ja sopii tähänkin saliin tämä keskustelu, että politiik-
+kahan on arvovalintojen tekemistä. Mehän olemme tehneet ja tekemässä toivottavasti sel-
+laisen arvovalinnan siellä, että me emme esimerkiksi suurentaneet lasten ryhmäkokoja
+kouluissa tai päiväkodeissa, ja tämänkaltaisia olemme tehneet. Mutta, puhemies, tämä ei
+ollut se alkuperäinen asia. Tietenkin tämä oli oikeastaan vähän vastauspuheenvuoro tuo-
+hon edelliseen. 
+
+Puhemies! Me kuulimme nyt kokoomuksen puheenvuoron äsken, mutta valitettavasti
+edelleenkin jäi täysin epäselväksi se, mitä kysyimme tässä jo alkuun, heti keskustelun kär-
+keen, että mikä on kokoomuksen oma linja. Eli siis, puhemies, minun on vain pakko sanoa,
+että jokainen ymmärtää: Samaan aikaan kannetaan huolta alijäämästä ja samaan aikaan
+vaaditaan veronkevennyksiä. Tehän olette niitä vaatineet enemmän kuin hallitus tekee. Te
+olette halunneet kaikille painottuvia tuloveronkevennyksiä. Teille ei riitä se, että pieni- ja
+keskituloiset saavat, niin kuin hallitus nyt on mielestäni oikein tekemässä. Ja muistin, että
+esimerkiksi viime viikolla edustaja Heinonen sanoi, että autovero täytyy poistaa kokonaan
+ja täytyisi kauheasti tehdä lisäveronkevennyksiä. Samaan aikaan te olette huolissanne ali-
+jäämästä. Mutta sitten kuitenkin, kun kysymme, että no entä tarkoittaako tämä samaa kuin
+mitä teitte viime kaudella, eli leikkasitte sitten koulutuksesta tai leikkasitte ihmisten perus-
+turvasta, niin siihen teiltä ei oikein sitä vastausta tule. Eli kun puhumme, puhemies, talou-
+desta, mistä ainakin edustaja Zyskowicz itsensä mielestä ymmärtää, niin ehkä sitten kui-
+tenkin hän olisi täällä voinut selvittää tätä yhtälöä, kun hän kerran ymmärtää taloutta, että
+30
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+miten tämä on mahdollista, että samaan aikaan tehdään hattutemppu, jossa alijäämää vä-
+hennetään ja veroja kevennetään menoja leikkaamatta. Sitten toisaalta ehkä teidän vaihto-
+ehtobudjetissanne tulemme näkemään dynaamisiavaikutuksia tai muuta, [Puhemies koput-
+taa] mutta sen me tulemme sitten näkemään. Toivottavasti ette ihan sille tasolle mene
+omassa argumentaatiossanne.
+
+16.03 Anna Kontula vas: Arvoisa puhemies! Toisin kuin edustaja Vallin itse, en ole kah-
+vitellut näissä kuntapolitiikan kahvikekkereissä, ja sen takia en toki tiedä sisäpiiritietoja.
+Mutta kun Tampereella edelleen asun, niin aktiivisesti seuraan myös sen tilannetta ja poli-
+tiikkaa ja korjaisin muutamia ongelmia analyysissa, kun käytitte Tamperetta esimerkkinä
+kansallisesta kehityksestä.
+
+Ensinnäkin maahanmuuton vaikutus kattavasti kansainvälisessä tutkimuksessa Ameri-
+kan mantereelta Aasiaan on julkiselle taloudelle joko neutraali tai positiivinen — siis neut-
+raali tai positiivinen — ja jos nyt ongelmaksi nähdään tässä syntyvyyden tilanteessa se, että
+jossakin kaupungissa pitää rakentaa päiväkoteja lisää, niin kyllä minä vain kovasti ihmet-
+telen. Mielelläni näkisin sen, että meidän pitäisi käyttää enemmänkin rahaa päiväkotien ra-
+kentamiseen. Muistetaan kuitenkin, että Tampereella verrattuna muihin suuriin kaupunkei-
+hin maahanmuuttajien osuus on verraten vähäinen, ja meidän tulisikin tässä tilanteessa olla
+hieman huolissamme siitä.
+
+Analyysi myös siitä, että Ylöjärven ja Tampereen taloudelliset erot johtuisivat näiden
+kahden kunnan tekemistä poliittisista valinnoista, jää vähintäänkin puolitiehen, kun kuiten-
+kin muistetaan, että toisaalta kysymys on selkeästi työpaikka- plus keskuskaupungista ja
+toisaalta sellaisesta lähiökunnasta, johonka keskittyy korkeimman tulotason asukkaita. On
+toki totta, että Ylöjärvi on tonttipolitiikallaan ja osin muullakin politiikallaan vetänyt par-
+haansa mukaan puoleensa nimenomaan korkean tulotason perheitä ja asukkaita. Mutta näi-
+den kahden kunnan tarkastelu ensinnäkin taloudellisesti erillään, kun toisessa käydään
+töissä ja toisessa käyvät sitten rikkaat asumassa, ettei tarvitse mennä sinne vilkkaammille
+kerrostaloalueille, on itsessään jo harhaanvievää, ja sitten niissä tapahtuvien taloudellisten
+prosessien tarkastelu pelkästään kunnan päätöksen kautta tai edes ensisijaisesti kunnalli-
+sen päätöksen kautta vie sekin vahvasti harhaan, kun taloudelliset kytkökset ovat niinkin
+tiiviit kuin näiden kahden kunnan välillä ovat.
+
+16.05 Sari Sarkomaa kok: Arvoisa puhemies! Mikä on kokoomuksen linja? Kokoomuk-
+sen linja on työlinja, ja kyllä täytyy sanoa, että kylmää ja sydämetöntä on hallituksen poli-
+tiikka, kun te siirrätte jo tiedossa olevat keinot lisätä työllisyyttä tulevaisuuteen. Puhutte,
+että ehkä vuoden päästä teette näitä päätöksiä. Kun katsoo sitten tätä kirjaa, niin täällähän
+on aika paljon esityksiä, jotka päinvastoin vähentävät työllisyyttä. Esimerkiksi kotitalous-
+vähennyksen leikkaus vaikeuttaa ikäihmisten arkea ja vähentää työpaikkoja, ja se ei todel-
+lakaan lisää työllisyyttä, ehkä harmaata taloutta. 
+
+Ihmettelen, miksi vasta vuoden päästä. Minulla oli juuri lapsiryhmä täällä vierailulla, ja
+eräs lapsi sanoi, että miksi te ette tee mitään, minun isälläni ja äidilläni ei ole työtä. En minä
+hennonut sanoa, että sitten vasta vuoden päästä. Kokoomuksen eduskuntaryhmä teki esi-
+tyksen, jossa oli todennettavasti se 30 000 työpaikkaa plus toinen 30 000 työpaikkaa, eli
+hyvin todennäköisesti, jos ne päätökset tehtäisiin, saataisiin 60 000 uutta työpaikkaa. Toi-
+von todella, että marssisitte nyt takaisin sinne Säätytalolle ja tekisitte nämä päätökset nyt
+eikä sitten vasta mahdollisesti tulevaisuudessa.
+31
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Mitä meidän vaihtoehtobudjetissamme on? Se on työn alla, ja siitä ehdimme kyllä var-
+masti, edustaja Viitanen, täällä keskustella. Selvä on, että me emme tule kiristämään pal-
+kansaajien verotusta. Isolla osalla palkansaajia kiristyy palkkavero. Se koskee myöskin
+eläkeläisiä, jotka maksavat ansiotuloveroa. Mielestäni tämä on väärin. Tässä tilanteessa
+ahkeria suomalaisia ei pitäisi rokottaa yhtään enempää kuin mitä nyt tehdään.
+
+Arvoisa puhemies! Ihan lopuksi sanon sen, että vaikka olenkin aika monta vuotta edus-
+kunnassa työtä tehnyt kansanedustajana, niin minun on todella vaikea seurata, mikä on hal-
+lituksen linja. Julkisesti ministerit kiistelevät siitä, kiristetäänkö verotusta vai leikataanko
+tässä budjetissa olevia lisäyksiä ensi vuoden budjetissa. Jo ministerit ovat nyt epäluuloisia
+eivätkä usko siihen, että teidän mahdolliset työllisyystoimenne vaikuttavat, ja nyt tehdään
+leikkauslistoja ja veronkiristyslistoja. Toivoisin, että senkin takia marssisitte takaisin sin-
+ne Säätytalolle ja pääministeri ottaisi ohjat käsiin ja päättäisitte, leikkaatteko te tulevaisuu-
+dessa näitä menoja vai kiristättekö veroja vai olisiko sittenkin parempi keino se, että teki-
+sitte toimia, joilla tulisi uusia työpaikkoja, ottaisitte sen työlinjan, mitä kokoomuksen edus-
+kuntaryhmä kannattaa ja tekee. Tehkää toimia, että tulee työpaikkoja. Ei tarvitse kiristää
+verotusta eikä leikata ihmisiltä.
+
+16.08 Pia Viitanen sd: Arvoisa herra puhemies! Jos sallitaan, niin muistelen neljä vuotta
+takaperin, kun silloinen uusi hallitus aloitti ja teki ensimmäisen lisätalousarvion — arvat-
+kaapa, edustaja Sarkomaa, kuinka monta työllisyystoimea siinä oli? Niitä oli tasan nolla.
+Tasan nolla. Niitä oli niin valtavasti kuin tasan nolla, [Toimi Kankaanniemi: Mikä oli työl-
+lisyyden paraneminen?] ja muistamme, että tätä protestoimme. Oli kova pula silloin kai-
+kista työllistämismäärärahoista, kaikesta tästä — niitä ei lisätty. 
+
+Nyt sen sijaan, kun keväällä tehtiin ensimmäinen lisätalousarvio tämän hallituksen toi-
+mesta, niin siellä esimerkiksi käynnisteltiin merkittäviä liikenneinvestointihankkeita ja las-
+keskeltiin, että noin 10 000 työllistä lisää voisivat jo nämä kevätpuolella päätetyt hankkeet
+pelkästään tuoda. Ministeri Harakkahan kuuntelee hyvin tarkkaan esimerkiksi arvostettua
+Hetemäkeä ja on lisäämässä selkeästi palkkatukitoimia, mikä myös osaltaan parantaa tilan-
+netta. Koko ajan tehdään, ministeri Harakkahan on esitellyt jo 25 toimea, joita hän tulee te-
+kemään työllisyyden hyväksi ja tekee parhaillaan. Että ei tässä nyt tarvitse Säätytalolle
+marssia todetakseen, että näin tapahtuu. Toimet ovat parhaillaan käynnissä, ja sitten syk-
+syllä katsotaan sitä tilannetta, mihin täällä useasti ollaan viitattu.
+
+Puhemies! Tästä työllisyydestähän käytiin välikysymyskeskustelukin jokin aika sitten,
+ja vähän samoilla argumenteilla kokoomus oli liikenteessä. Silloin kyllä itse totesin, että ei
+se olekaan niin, että kokoomusta eivät sinänsä tyydyttäisi nämä Harakan työllisyystoimet
+tai muut, vaan ehkä kokoomuksen argumentissa se suurin juttu oli se, mitä sieltä hallituk-
+sen työllisyystoimista puuttui. Ja senhän me tiedämme, mitä kokoomuksen mielestä sieltä
+puuttui. Sieltä puuttui keppi. Sieltä puuttui keppilinja, sieltä puuttui aktiivimalli, sieltä
+puuttui työttömän kyykyttäminen. Eli tämä tietynlainen aktiivimalli-ideologia, se kokoo-
+muksen salarakas, sieltä työllisyystoimien joukosta puuttui, ja siksi täällä tehtiin jopa väli-
+kysymys sitten tältä saralta kokoomuksen toimesta. Tästä oli kysymys. Ja nyt, kun minä
+luin tätä mainittua listaa, edustaja Sarkomaa, mistä äsken puhuitte, että tämä on kokoo-
+muksen työllisyyslista, niin siellä on muun muassa leikkaus työttömyysturvaan ja leikkaus
+toimeentulotukeen. Auta armias, kyllä minä en ainakaan sellaisia ”työllisyystoimia” halu-
+aisi allekirjoittaa.
+32
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+16.11 Veikko Vallin ps: Puhemies! Minä olen vähän eri mieltä tästä, kun sanottiin, että
+Tampereella tämä maahanmuutto on rikkaus. Me teimme siitä valtuustoaloitteenkin, että
+tutkittaisiin tämän ei-työperäisen maahanmuuton kustannukset Tampereella, mutta sitä ei
+haluttu sitten tehdä. Kouluista olen saanut sellaista signaalia — ihan apulaispormestarikin,
+joka muuten on sosiaalidemokraatti, on minulle kertonut — että opettajien henkinen kuor-
+ma kasvaa ja kouluissa on levottomampaa koko ajan. Tampereella on semmoinen tilastol-
+linen fakta, että Tampere on muuttovoittokaupunki, mutta tietyssä ikäluokassa se on ollut
+muuttotappiokaupunki. En tiedä nyt sitten ihan viimeistä tilastoa, mutta pienten lasten per-
+heissä Tampereella on muuttotappiota ollut, eli on naapurikuntiin sitten muutettu, eli täl-
+laisia työssäkäyviä, hyviä veronmaksajia muuttaa naapurikuntiin tai jonnekin muualle —
+pääkaupunkiseudulle muuten muuttavat esimerkiksi kouluista valmistuneet myös hyvin
+paljon.
+
+Sitten, kun puhuttiin tästä, että olemme siinä koalitiossa: olemme antaneet — menee vä-
+hän kuntapolitiikan puolelle — pormestarille kaksi vuotta aikaa oikaista tämä taloustilan-
+ne, mutta ei siihen ole haluttu tarttua kunnolla, ja nyt sitten olemme jo eri mieltä siitä tilan-
+teesta.
+
+16.12 Mikko Lundén ps: Arvoisa herra puhemies! Minä en tahdo muistella vanhoja, että
+kuka teki, mitä teki ja milloin teki, vaan tahdon katsoa vähän tulevaisuuteen. Minua hir-
+veästi kiinnostavat — toimin itse Salon kaupunginhallituksessa nyt toista kautta ja kolmat-
+ta kautta valtuutettuna — nämä hankeyhtiöt, joita perustellaan näitä nopeita raideyhteyk-
+siä varten. Meillä tulee olemaan alijäämää nyt semmoinen about miinus 20 miljoonaa
+suunnilleen, ja haluaisin tietää, mistä nämä radan vieressä olevat kunnat, jos ne liittyvät sii-
+hen hankeyhtiöön, sitten ottavat ne rahat. Ottavatko ne lisää velkaa? Minulle tulee mei-
+naan paljon yhteydenottoja kuntalaisilta, että miten tämä homma menee: vedetäänkö kou-
+lut kiinni ynnä muut palvelut alas, ja otetaanko velkaa lisää, että saadaan vuoteen 2030
+mennessä raideyhteydet? Tämä minua hirveästi kiinnostaa. Ymmärrän kyllä senkin, että
+tähän kysymykseen ei varmaan tänään tule vastausta, mutta tämä minua hirveästi kiinnos-
+taa, että mistä ne rahat tulevat kunnissa, jotka ovat esimerkiksi näitten tulevien raideyhte-
+yksien varrella ja ovat niihin hankeyhtiöihin tulossa. — Ei muuta. Kiitos.
+
+16.13 Toimi Kankaanniemi ps: Herra puhemies! Edustaja Viitaselle totean, että tulokset
+kertovat aika lailla toista kuin mistä te puhutte. [Pia Viitasen välihuuto] Kun te olitte mi-
+nisterinä silloin Kataisen ja Stubbin hallituksessa, Suomeen tuli 100 000 uutta työtöntä.
+Viime kaudella, kun te olitte oppositiossa lääkkeitänne tarjoamassa, tuli 140 000 uutta työ-
+paikkaa. [Pia Viitanen: Se edellinen hallitus olikin, hyvä edustaja Kankaanniemi, leikka-
+ushallitus!] Kuinka te selitätte tämän, että niitten itseisarvoinen yhteissumma on 240 000
+ihmistä? Se on valtava porukka. Se on valtava porukka, eli tulokset kertovat nyt kyllä siitä,
+edustaja Viitanen, että teidän pitää mennä vähän peruskurssille ja opetella lukemaan näitä
+tilastoja myös, eikä vain väittää sellaista, mikä ei pidä paikkaansa. [Pia Viitasen välihuuto]
+
+Mitä tulee tähän kauteen, me emme vielä tiedä yhtään mitään, mutta sen me tiedämme,
+että yhtään toimenpidettä hallitus ei vielä ole tehnyt. No, minä ymmärrän, että jos hallitus
+on vähän yli sata päivää ollut vallassa, niin eihän se ole ehtinyt tekemään, mutta on se kyllä
+asettanut seitsemän työryhmää miettimään työllisyystoimenpiteitä, ja niihin on sitten otet-
+tu työmarkkinaosapuolet tekemään esityksiä. Ja senkin olen kuullut, että mitä työnantaja-
+puoli esittää, sen työntekijäpuoli tyrmää, ja päinvastoin. Eli tällä hetkellä näyttää siltä, että
+33
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+nuo seitsemän työryhmää eivät saa yhtään mitään aikaiseksi. Teille jää käteen vain palk-
+katuki, ja kun me olemme nyt kuunnelleet pari kolme viikkoa valtiovarainvaliokunnassa
+asiantuntijoita, niin olen jokaiselta kysynyt, että mikä on teidän kantanne palkkatuen työl-
+lisyysvaikutuksiin nähden, ja vastaus on ollut muutamaa hallitusta lähellä olevaa asiantun-
+tijaa lukuun ottamatta, että se on suurin piirtein nolla. Edes sillä STTK:n asiantuntijan mal-
+lilla, jonka hän esitteli — eli jos kolminkertaistettaisiin määräraha, joka on nyt palkkatu-
+keen varattu — ei saataisi kuin 44 000 uutta työpaikkaa, joista 8 000 tulisi avoimelle sek-
+torille ja 36 000 tänne julkiselle puolelle ja järjestöihin. Se ei ole mitään todellista työllisy-
+ydenhoitoa, vaan se on tilastojen hoitoa ja kaunistamista, mutta sillä tiellä hallitus nyt ete-
+nee. 
+
+Arvoisa puhemies! Toinen asia: Verotus kiristyy nyt väistämättä kuntatalouden takia.
+[Sari Sarkomaa: Palkansaajilla kiristyy!] Te olette luvanneet ensi vuonna 70 prosentille tu-
+lonsaajista veronkevennyksiä. Voi olla, että ensi vuonna tulee, mutta kahden seuraavan
+vuoden aikana kuntaverotus näillä näkymin kiristyy useita prosenttiyksikköjä, ja se vie sii-
+hen tilanteeseen, [Puhemies koputtaa] että kokonaisverotus, näillä 70 prosentillakin, kiris-
+tyy.
+
+16.17 Sari Sarkomaa kok: Arvoisa puhemies! Kokoomuksella ei ole salarakasta, mutta
+jos me jotakin rakastamme ja jonkin eteen teemme työtä, niin se on sellainen yhteiskunta,
+sellainen Suomi, jossa jokaisella on mahdollisuus tehdä töitä. [Pia Viitanen: Ihan samaa
+mieltä!] Me tarvitsemme uusia työpaikkoja, tarvitsemme yrittäjyyttä. Työpaikat syntyvät
+juuri erityisesti pk-yrityksiin. Kaikki toimenpiteet, joita täytyy tehdä, eivät ole helppoja,
+mutta tekemättä ei voi jättää. [Pia Viitanen: Leikkaamatta ei voi jättää!] Ihmettelen, min-
+kälaista yhteiskuntaa hallitus haluaa, kun jäädään odottelemaan. Jopa valtiovarainministe-
+riön virkamiehet papereihinsa kirjoittavat huutomerkkejä, ovat huolissaan ja toteavat, että
+”niitä odotellessa”. Toivon, että katse käännetään tulevaisuuteen ja ei ehkä enää muistella
+menneitä vaan mietitään, mitä voitaisiin tehdä nyt, [Anneli Kiljunen: Menneisyydellä on
+vaikutusta tähän päivään ja tulevaisuuteen!] jotta Suomeen saataisiin työpaikkoja eikä tän-
+ne vierailulle tulevien pienten tyttöjen ja poikien tarvitsisi kysyä, mitä te teette, että minun
+äitini tai minun isäni pääsisi töihin. [Pia Viitanen: Ei ainakaan leikattaisi työttömyystur-
+vaa!] Toivon, että ryhdytte työntekoon. Jos te olette rehellisiä, niin kyllähän se Harakan lis-
+ta on enemmän tavoitteita. Siinä ei juuri keinoja ole, eli se ei riitä mihinkään, mutta hyvä,
+että on joku lista tehty.
+
+Tiedän, että ilta on pitkällä ja keskustelu on pitkällä, mutta ihan näin sosiaali- ja terveys-
+politiikan ammattilaisena totean: Tosi moni Tehystä, SuPerista ja Lääkäriliitosta ja tosi
+moni sosiaali- ja terveyspalveluita käyttävä odottaa nyt, että se sosiaali- ja terveydenhuol-
+lon uudistus saadaan tehtyä. Vaikka sote-soppaa on täällä keitetty, niin ei tällaista näin se-
+kavaa tilannetta ole vielä aikaisemmin ollut. Eli toivon, että nyt pian selkeytetään, mitä se
+sosiaali- ja terveyskeskusohjelma on, mitä sillä rahalla voi tehdä, miten asiassa edetään,
+minkälainen esitys tuodaan eduskunnalle, koska pidän itse hyvin tärkeänä, että kunnalliset
+päätökset voidaan tämän eduskuntakauden aikana tehdä, sellaiset päätökset, jotka aidosti
+parantavat palveluita ja varmistavat yhdenvertaiset sosiaali- ja terveyspalvelut, semmoiset
+palvelut, jotka suomalaisten on mahdollista rahoittaa.
+
+Kun istuin itse sosiaali- ja terveysvaliokunnassa, niin neliraajajarrutuksessa silloinen va-
+liokunnan puheenjohtaja, ministeri Kiuru, vastusti maakuntamallia, ja toivon, että viisas-
+tutaan siitä eikä mennä nyt verot edellä ja hallinto edellä vaan oikeasti tuodaan sellaisia toi-
+34
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+mia, että ihmiset pääsevät palveluihin. Toivon, että mahdollisimman pian hallitus selkeyt-
+täisi, miten tässä edetään, koska päivä päivältä tämä tilanne menee sekaisemmaksi. Nyt me
+mietimme, mikä se terveyskeskusohjelma on. Ministeri sanoo, että sillä saadaan tuhat lää-
+käriä, ja virkamiehet sanovat, että siitä ei euroakaan saa käyttää lääkäreiden palkkaami-
+seen. Tilanne on todella, todella sekava.
+
+16.19 Pekka Aittakumpu kesk: Arvoisa puhemies! Tässä on ollut ihan hyvää keskuste-
+lua kuntataloudesta ja monesta siihen liittyvästä. Itsekin kuntapäättäjänä kannan kuntien
+taloudesta samaa huolta, joka tässä on tullut esille. Tässä on nyt tullut hyvin myöskin ku-
+vattua eri puheenvuoroissa sitä, miten monitahoinen kokonaisuus on kyseessä, kun pu-
+humme kuntien ja valtion taloudesta. Siihen vaikuttavat muun muassa hyvin ajankohtaise-
+na asiana meidän syntyvyys, ikärakenteen muutos ja sosiaali- ja terveyspalvelut, ja erityi-
+sesti kun kuntien taloudesta puhutaan, aivan oikein tässä on kiinnitetty huomiota meidän
+työllisyyspolitiikkaan. 
+
+Työllisyyden nostosta riippuu myöskin meidän hallituksen suunnittelemat menolisäyk-
+set. Hallitus on ohjelmassaan sitoutunut siihen, mikä on meille keskustalle hyvin tärkeää,
+että hallitus ei sulje mitään työllisyyttä edistäviä keinoja keinovalikoimansa ulkopuolelle
+vaan olemme hyvin avoimesti valmiita tarkastelemaan, suunnittelemaan ja valmistele-
+maan sellaisia keinoja, joilla työllisyysaste varmasti saadaan mahdollisimman hyvin nou-
+semaan. 
+
+Niin kuin tässä edustaja Kankaanniemi hyvin toi esille, viime kaudella todella 140 000
+uutta työpaikkaa. Ei siihen tavoitteeseen silloin kovin moni uskonut, eikä hallituksella sil-
+loinkaan ollut heti näin hallituskauden alussa kaikkia niitä keinoja käytössään ja ilmoitet-
+tuna, vaan niitä tehtiin ja valmisteltiin rauhassa. Edellistä hallitusta ehkä joskus hiukan pe-
+rusteettomastikin mutta varmasti välillä perustellustikin kritisoitiin asioiden ehkä liian no-
+peasta valmistelusta, ja nyt tuntuu, että yritetään hoputtaa, että äkkiä, äkkiä. Me todella ha-
+luamme rauhassa valmistella nämä työllisyyttä edistävät toimet, ja niitä on tulossa näiden
+25 Harakan esittelemän toimen lisäksi. Me keskustassa pidämme aivan päivänselvänä, että
+eivät ne vielä riitä vaan me tarvitsemme lisääkin, ja niitä on tulossa. 
+
+Aivan samaa mieltä olen siitä, että sekä kuntien talouden että valtiontalouden kannalta
+työllisyyttä on saatava lisättyä, ja olen erityisen iloinen siitä, että hallitus on ohjelmassaan
+ja myöskin tässä talousarviossaan antanut hyvin myönteisen signaalin meidän yrittäjillem-
+me, että yrittäminen ja yritteliäisyys edelleenkin kannattaa.
+
+16.22 Jari Myllykoski vas: Arvoisa herra puhemies! Valitettavasti edustaja Vallin lähti
+pois. Olisin hänelle kertonut, kuinka meillä Nakkilassa menee. Se olisi ollut erittäin tärkeä
+informaatio tässä keskustelussa, ja vaikka meillä nyt ei näytä talousarvion osalta ensi vuon-
+na hyvältä, niin en syytä kyllä kunnanjohtajaa siitä enkä hänen poliittista taustaansa. Mie-
+lestäni on mauttomuuden huippu ottaa täällä eduskunnassa keskusteluun pormestarin tai
+kunnanjohtajan poliittinen tausta, kun kuitenkin kunnassa tehdään budjettia yhteistyössä.
+Ehkä se on sitten tämän ajan henki, että politiikkaa täällä koetetaan tehdä kynsin hampain
+mistä asiasta hyvänsä. 
+
+Toki vanhojen muisteluja on hyvä käydä, mutta kyllä edustaja Sarkomaalle voisin sa-
+noa, kun sanoitte, että milloinkaan ei ole ollut niin sekaisin sote-soppa kuin nyt: Tämä hal-
+litus kuitenkin antaa nyt sen tilanteen... Viime hallituskaudella olivat puurot ja vellit sekai-
+sin, kun siinä harmonisessa tilanteessa, mikä oli aiemmin, että sovittiin ennen vaaleja, että
+35
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+jatkamme tästä parlamentaarisesti yhdellä valmistelulla, kahden puolueen puheenjohtajat
+tekivät sen diilin, että tähän tulikin maakuntalainsäädäntöä mukaan, jolloin, sanoisin, me-
+nivät puurot ja vellit sekaisin ja emme päässeet siitä yksimielisyyteen. Kuka sanoo kenen-
+kin olleen neliraajajarrutuksessa, jätän sen omaan arvoonsa — uskoisin, että näitä oli pe-
+rustuslakivaliokunnassa ja sosiaali- ja terveysvaliokunnassa, joka sitten koetti pinnistellä
+päästäkseen maaliin sen kritiikin jälkeen, jota perustuslakivaliokunta antoi niille harjoituk-
+sille, joita hallitus toi eduskunnalle pohdittavaksi. 
+
+Niille pienille tytöille ja pojille ehkä voisi sanoa, että hallituksen esityksestä eduskunta
+tulee päättämään siitä, että niillekin työttömille, joilla ei nyt ole ehkä yksityiselle tai kun-
+nalliselle puolelle suoraa töihinpääsyä, palkkatukien kautta mahdollistamme nopeamman,
+paremman ja helpomman polun asettua työelämään ja tuoda ansioita kotiin heidän lastensa
+hyvinvoinniksi. Subjektiivisen päivähoito-oikeuden osalta voidaan sanoa, että työttömille
+isille ja äideille annetaan nyt mahdollisuus osallistua työnhakuun, niin että molemmat van-
+hemmat voivat aktiivisesti hakea työtä lasten ollessa päivähoidossa ja sitä kautta myös saa-
+massa esiopetusta, jolloin vaikka vanhemmilla on vähemmän resursseja, silti lapsista pide-
+tään huolta. Sanoisin, että niillä on oikeastaan hyvä aloittaa sitä keskustelua, kun puhutaan
+näille pienille suomalaisille.
+
+16.25 Anna Kontula vas: Arvoisa puhemies! Edustaja Kankaanniemi täällä peräänkuu-
+lutti tilastolukutaitoa, enkä voisi olla enemmän samaa mieltä. Aloittaa voisi vaikka niistä
+työllisyystilastoista, joita edustaja Kankaanniemi täällä jo tarkasteli. Ihan perustason ym-
+märrykseen kuuluu, että työllisyystilastojen valossa ei voi suoraan arvioida jonkun yksit-
+täisen hallituksen toimia, koska työllisyystilastoihin vaikuttavat tietyn hallituksen toimia
+enemmän muun muassa kansainvälinen suhdannekehitys ja erilaiset kulttuuriset ja yhteis-
+kunnalliset tekijät. Itse asiassa hallituksen toimien arviointiin, jotka sinällään voivat olla
+äärimmäisen tärkeitä ja pitkällä aikavälillä viedä kehitystä hyvään tai huonoon suuntaan,
+on nimenomaan käytettävä ihan muita mittareita kuin yleisiä työllisyystilastoja, erityisesti
+isossa kuvassa. 
+
+Edustaja Sarkomaalle toteaisin, että olen hyvin onnellinen siitä, että yhdellekään työttö-
+män lapselle, joita aika paljon tapaan, en ole joutunut kertomaan, että olisin eduskunnassa
+lyhentänyt hänen mahdollisuuttaan päivähoito-oikeuteen tai saada ruokaa päiväkodissa sii-
+nä kuin muutkin lapset, en ole joutunut kertomaan, että olen leikannut hänen perheensä
+muutenkin niukkaa toimeentuloa ja sillä lailla vaikeuttanut sen taloudellista tilannetta, en
+ole joutunut kertomaan, että minä olisin osallistunut systemaattisesti hänen opiskelumah-
+dollisuuksiensa heikentämiseen, sen heikentämiseen, että hän voi kehittyä siksi, mitä ha-
+luaa, ja tehdä sitä, mihinkä hänen kykynsä riittävät. Siitä olen kovin onnellinen. 
+
+16.27 Tarja Filatov sd: Arvoisa puhemies! Tässähän on kovasti keskusteltu työllisyyden
+paranemisesta, ja yhdyn täysin siihen, mitä edustaja Kontula tässä takana sanoi, että sitä on
+vaikea arvioida, mitkä tosiasiassa ovat minkäkin hallituksen toimia. Mutta jos ajatellaan si-
+tä, että työllisyys on parantunut tässä viimeisten vuosien aikana — ja se on hyvä lopputu-
+lema — mutta samaan aikaan myös toimeentulotukimenot ovat kasvaneet, niin me itse
+asiassa olemme aika kummallisessa yhtälössä. Me yleensä pyrimme siihen, että työllisyys
+paranee, jotta köyhyys vähenee ja jotta pienituloisuus vähenee, mutta samaan aikaan kun
+meillä on työllisyys parantunut, meillä ovat myös toimeentulotukimenot kasvaneet. Ja jos
+me ajattelemme työllisyyttä esimerkiksi kannustinloukkujen näkökulmasta, niin toimeen-
+36
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+tulotuki on se viheliäisin paikka, jonne joutua, koska sieltä on kaikkein vaikein päästä pois.
+Sen takia minun mielestäni on tärkeää ollut arvioida esimerkiksi etuisuuspuolta, ja hallitus
+on pyrkinyt juuri siihen, että näillä pienillä korotuksilla, vaikkapa esimerkiksi työmarkki-
+natuen korotuksella, saataisiin edes muutama ihminen pois toimeentulotukiluukun puolel-
+ta ja sitä kautta helpommin työllistymään. Muutoinkin koko tämä palveluprosessi tähtää
+siihen, ja nämä isot sosiaaliturvauudistushankkeet, jotka ovat vasta tulossa. 
+
+Kun tässä on puhuttu siitä, onko niitä työllisyystoimia jo nyt, niin sanotaan vaikka yksi
+esimerkki, joka on työttömyysturvan lisäpäivien ikärajan nostaminen. Esimerkiksi Etla on
+arvioinut, että sillä on noin 10 000 hengen työllisyysvaikutus. Eläketurvakeskus on ollut
+hieman varovaisempi, mutta on selvää, että sille on laskettavissa tuhansien ihmisten työl-
+lisyysvaikutus. Ja se päätös on olemassa jo nyt, ja se on myös tehty siellä kolmikannassa
+yhteistyössä. Edustaja Kankaanniemi epäili, että kolmikannasta ei voi tulla mitään työlli-
+syyttä parantavaa, mutta tämä on yksi esimerkki siitä, että sopimusyhteiskunta voi toimia,
+jos sen halutaan toimivan, mutta se edellyttää hallitukselta aktiivista työskentelyä. Ei siten,
+että kolmikannasta tulee kaksikanta, vaan siten, että hallituksella on siinä selvä tahto ja se
+vie prosessia eteenpäin, mutta ei ulkopuolelta yksin pakottamalla. 
+
+16.29 Pia Viitanen sd: Arvoisa puhemies! Tuo oli kyllä erinomainen puhe edustaja Fila-
+tovilla tuossa edellä. Se kertoi varmasti juuri siitä suomalaisen yhteiskunnan vahvuudesta,
+joka on perustunut sopimiseen, keskinäiseen luottamukseen ja yhdessä asioitten eteenpäin-
+viemiseen. Arvostan kyllä kovasti noita näkökulmia. 
+
+Täytyy kyllä vähän kehaista edustaja Kontulankin puheenvuoroa. Olin ajatellut pohtia
+omassa puheenvuorossani vähän sitä samaa, mitä ihan oikeasti voisi vastata sille pienelle
+tytölle tai pienelle pojalle, koska siitä varmasti olemme kaikki tässä salissa täsmälleen sa-
+maa mieltä, huoli on yhteinen siitä, että meillä on liikaa työttömiä. Meidän täytyy saada ih-
+misille työpaikkoja, ja kaikki haluamme sitä.
+
+Mutta toden totta, jos keinot ovat niinkin erityyppiset, että kokoomus tarjoaisi lisäkep-
+piä ja tarjoaisi leikkauksia työttömyysturvaan ja toimeentulotukeen, niin se ei taas sovi mi-
+tenkään minun arvomaailmaani, koska itse näen myös niin, että mikäli samalla toisella kä-
+dellä heikennämme muutenkin pienituloisten ihmisten asemaa, se on paitsi inhimillisesti
+hyvin väärin, puhemies, mutta se on myös talouspoliittisesti hyvin epäviisasta, jos näin
+voisi sanoa, sillä samalla syödään ostovoimaa, ja ei sekään varmasti talouden rattaita ko-
+vin pitkälle edistä. 
+
+Siksi olen ihan tyytyväinen siitä, että esimerkiksi hallitus on nyt valinnut veropolitiikas-
+saan sen linjan, että veronkevennyksiä tehdään ja painotetaan niitä selkeästi nimenomaan
+pienituloisille ihmisille, palkansaajille, eläkkeensaajille ja myös etuuksien saajille ja jäte-
+tään hieman kauemmas ajattelusta esimerkiksi viime kaudelta niin tutut veronkevennykset
+kaikkein hyväosaisimmille. Silloinhan oli kaikenlaisia miljoonaperintöjen veronkeven-
+nyksiä, metsälahjavähennyksiä ja vaikka mitä, ja siihen tuntui silloin rahaa kovasti riittä-
+vän. 
+
+Puhemies! Tältä pohjalta haluan oikeastaan nostaa hattua siinä suhteessa edustaja Sar-
+komaalle, vaikka eri mieltä asioista olemme, että vaikka täältä katosi koko kokoomus vä-
+lillä, niin te tulitte urheasti saliin ja olette nyt puolustanut näkemyksiänne. Mikä meillä vie-
+lä jäi saamatta ja mitä tulemme kysymään jatkossa, oli vastaus siihen, mikä on se yhtälö,
+että samaan aikaan alijäämää moititaan ja veroja halutaan keventää lisää eikä suostuta ker-
+tomaan, mistä leikataan. Tämä jäi vielä tässä keskustelussa valitettavasti avoimeksi. 
+37
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+16.32 Aki Lindén sd: Arvoisa puhemies! Kaksi asiaa vielä tähän pitkään keskusteluun: 
+Edustaja Kankaanniemi, käytitte minusta jokin aika sitten varsin hyvän puheenvuoron,
+
+missä te kokeneena kuntatalouden tuntijana erittelitte tämän yksi pilkku ja niin edelleen
+miljardia, mikä nyt sitten tässä valtionosuuksiin lisätään. Myös tunnette luonnollisesti tä-
+män nyt käsiteltävänä olevan asian, joka on siirtoa ensi vuodelta tälle vuodelle. Mutta yh-
+den yksityiskohdan haluaisin sanoa — oletan ja tiedän, että tiedätte tämänkin, mutta ha-
+luan sen nyt tässä tuoda esille. Pelkästään ensi vuosi ei ole se, jolloin kikyn vaikutus lakkaa
+ja tuo lisämenoja kunnille, vaan se, että ensi kesänä maksetaan täydet lomarahat, joudu-
+taan rahoittamaan tämän vuoden tilinpäätöksessä yhdeksän kuukauden ajalta eli näiden
+kertymäkuukausien ajalta, ja senkin takia on erityisen oikein, että me siirrämme ensi vuo-
+delta tiettyjä tuloja valtiolta nyt kunnille tälle vuodelle, koska tämä taitekohta kohdistuu
+itse asiassa aika voimakkaasti tälle vuodelle. Tämän halusin teille sanoa.
+
+Haluan myös, niin kuin edustaja Viitanen äsken, liittyä siihen joukkoon, että pidin erit-
+täin ansiokkaana edustaja Kontulan äsken käyttämää puheenvuoroa. Minusta oli hyvä, että
+tuli tämä kansainvälisten suhdanteiden osuus täällä esille. Itsehän olen Varsinais-Suomen
+vaalipiiristä, ja jos nyt katsomme sitä länsirannikon talousbuumia, sitä hyvää kehitystä,
+joka siellä on ollut ja joka rakentuu pitkälti vientiteollisuuden varaan — telakoiden, auto-
+teollisuuden — niin kyllähän jokainen ymmärtää, että ei se ole kiky-sopimuksen tai edel-
+lisen hallituksen tekemien ratkaisujen aikaansaantia. Vuoden 2009 kansainvälisen finans-
+sikriisin jälkeen kaikkien maailman telakoiden tilauskanta romahti. Saamani tiedon mu-
+kaan maailman telakoilla oli yhteensä kaksi tai kolme laivaa tilauksessa. Sen jälkeen kun
+kansainvälinen talous lähti voimakkaaseen buumiin, se, että meillä oli se osaaminen ja se
+verkosto eivätkä ne olleet päässeet tuhoutumaan niinä vaikeina vuosina, antoi iskukyvyn,
+jolla saatiin tämä uudelleen käyntiin. Ei sitä asiaa kiky-sopimus ratkaissut.
+
+16.34 Toimi Kankaanniemi ps: Arvoisa herra puhemies! Kiitos edustaja Lindénille nois-
+ta tunnustuksista ja myös tästä tarkennuksesta. Se piti juuri paikkansa lomarahojen osalta.
+
+Tähän viimeiseen asiaan eli kiky-sopimuksen vaikutukseen muun muassa telakoilla niin
+kuin muuallakin: kyllä väittäisin, että kyllä sillä aika lailla vaikutusta oli, mutta ei ainoana
+tietenkään, vaan se on monista eri osista koostuva. Niin kuin sillä oli myös kuntatalouteen
+vaikutusta, mistä aikaisemmin kerroin.
+
+Arvoisa puhemies! Minä olen kyllä vahva sopimusyhteiskunnan kannattaja. Se on aivan
+selvä asia. Esimerkiksi kolmikannalla on rakennettu kyllä tätä maata menneinä vuosikym-
+meninä hyvin voimakkaasti ja tuloksellisesti. Mutta nyt kriisin päällä ollessa — voin sa-
+noa, että on kriisi päällä, kun eilen kuuntelimme esimerkiksi valtiovarainministeriä tuolla
+Säätytalolla, niin kyllä tilanne on vakava — ei kyllä voida odottaa, että kolmikannassa ke-
+hitetään sellaisia ratkaisuja, hitaasti ja ehkä tuloksettomasti, jotka voitaisiin tehdä heti työl-
+lisyyden parantamiseksi. Näitä ratkaisuja löytyy työelämän puolelta. Ei tarvita keppiä,
+mutta tarvitaan kyllä voimakkaita otteita, ja kansa on antanut sen valtakirjan eduskunnalle
+ja eduskunta hallitukselle, ja sen pitää johtaa. Sen korkeimman lipun pitää olla hallituksen
+salossa eikä työmarkkinajärjestöjen tai muiden, jotka ovat etujärjestöjä ja ajavat vain tiet-
+tyjen piirien etuja — mutta yhteistoiminnassa, se on selvä.
+
+Te käytitte, edustajat Kontula ja Filatov, vai oliko Viitanen, työttömyyslukuja nyt kyllä
+hyvin tarkoitushakuisesti. Kyllä tälläkin hallituksella on tietyt lukumäärät, kuinka paljon
+pitäisi saada ihmisiä töihin. Miksi te väitätte, että ei niillä ole mitään merkitystä ja käytätte
+niitä kuitenkin joka puheenvuorossanne sanoen, että hallituksen tavoitteena on 75 prosent-
+38
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+tia, mikä tarkoittaa niin ja niin monta? Minusta jokaiselle yksilölle, jokaiselle työttömälle
+ihmiselle se työpaikan saanti on äärimmäisen arvokasta, [Pia Viitanen: Juuri näin!] ja mitä
+suurempi lukumäärä se on, sitä komeampaa ja tärkeämpää se on hänelle, hänen läheisil-
+leen ja perheelleen ja koko yhteiskunnalle. Asia on aivan selvä.
+
+Toimeentulotuen osalta yhdyn siihen, että se on se viimesijainen tuki, josta pitää ihmisiä
+nostaa ulos ja ylös. Se on tärkeää.
+
+Veroista vielä sen verran, että te korotatte polttoaineveroa ja te ajatte sellaista kuntapo-
+litiikkaa, että kuntavero nousee. Molemmat ovat tasaveroja. No, kuntaverossa on nykyisin
+tietty progressio, mutta periaatteessa se on tasavero, ja se iskee pienituloisiin todella pahas-
+ti. Eli se, että te väitätte keventävänne pienituloisten verotusta, ei polttoaineveron eikä kun-
+taveron kiristyksenkään [Puhemies koputtaa] näkökulmasta ole totta.
+
+16.38 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa puhemies! Minä olen kyllä päättä-
+nyt, että silloin kun bensavero tulee keskusteluun perussuomalaisten taholta, en minä vain
+silloin vaikene, vaan silloin minä kysyn ja muistutan, että kyllähän perussuomalaiset itse
+hallituksessa ollessaan nostivat bensaveroa. Siellä perussuomalaiset äänestivät bensave-
+ron noston puolesta, piste. Ja on aivan turha yrittää puhua näitä asioita toiseksi. Perussuo-
+malaiset ollessaan hallituksessa hyväksyivät veroratkaisun, jossa lämmityskustannuksia
+nostettiin ja kiinteistöveroa nostettiin ja tehtiin juuri näitä tällaisia veroja, jotka rasittavat
+sitä pientä ihmistä, sillä erotuksella, edustaja Kankaanniemi — sillä erotuksella — että sil-
+loin te myös leikkasitte pieniltä ihmisiltä sosiaalietuuksia samaan aikaan. Tämä hallitus
+sentään parantaa niitä, parantaa perusturvaa, ja antaa myös helpotusta esimerkiksi työttö-
+mälle tätä kautta. Eli pieni ero tässä nyt on, ja en minä sitä unohda, että perussuomalaiset
+äänestivät bensaveron korotuksen puolesta. [Toimi Kankaanniemi: Ja te nostatte nyt sitä
+vielä rajummin!] 
+
+Toinen varapuhemies Juho Eerola: Mennään puhujalistaan. 
+
+16.39 Sari Sarkomaa kok: Arvoisa herra puhemies! Ihan lopuksi tässä vielä haluan sa-
+noa: 
+
+Edustaja Viitanen, malttakaa mielenne. Opposition vaihtoehtobudjetti on tulossa saliin
+keskusteluun. [Pia Viitanen: No niin!] Silloin voimme käsitellä koko sen kokonaisuuden,
+mitä kokoomuksen eduskuntaryhmä esittää. Mutta kyllä se on se työlinja. Jos me teemme
+toimia sen eteen, että Suomeen syntyy työpaikkoja, se on ainut ratkaisu julkisen talouden
+tasapainottamiseen. Se on ainut ratkaisu siihen, että suomalaiset voivat elää hyvää ja täyttä
+elämää. Silloin kun sitä työlinjaa ei ole, puuttuu kaikki, ja se kaikki kyllä puuttuu aika lail-
+la tästä keltaisesta kirjasta.
+
+Te sanotte, että ette ole ehtineet valmistella toimia työllisyyden edistämiseksi. Olette te
+kuitenkin ehtineet valmistella toimia, jotka vähentävät työllisyyttä. [Pia Viitasen välihuu-
+to] Tiedätte hyvin valtiovarainvaliokunnan jäsenenä — en mene asiantuntijalausuntoihin
+vielä, kun mietintö ei ole valmis, mutta julkisuudesta olemme voineet lukea — että tässä
+keltaisessa kirjassa on useita asioita, jotka vähentävät työllisyyttä. Niitä te olette ehtineet
+tuoda. Samoin monet valtiovarainministeriön virkamiehet ovat sanoneet, että työllisyysta-
+voite karkaa, kun tehdään toimia, jotka vähentävät työllisyyttä. Mutta tästä on tänään var-
+masti keskusteltu.
+39
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+Jos te ette nyt saaneet vastausta siihen, mikä on kokoomuksen linja, niin totean, että se
+on työlinja. Ilman työtä ei ole mitään. Se on ainut keino ylläpitää suomalaista hyvinvoin-
+tiyhteiskuntaa. Kyllä te todella isolla poralla poraatte hyvinvointiyhteiskunnan perustaa,
+kun te odotatte ja annatte ihmisten olla työttömänä ja annatte menojen kasvaa. Toivon, että
+nyt marssitte takaisin sinne Säätytalolle ja oikeasti teette niitä vaikuttavia toimia. [Pia Vii-
+tanen: Tuletteko mukaan?]
+
+16.41 Anna Kontula vas: Arvoisa puhemies! Edustaja Kankaanniemi, kommentoitte ti-
+lastojen lukemista, joten vastasin tilastojen lukemiseen. Itse en käytä työllisyysastetta ku-
+vaamaan minkään hallituksen toimien onnistumista taikka epäonnistumista. Jos muut niin
+tekevät, niin sille en voi mitään, ja juuri siihen se tilastojenlukutaito varmaan olisi ihan pai-
+kallaan. Se on eri asia kuin se, että hallituksen tavoitteena on työllisyysasteen nostaminen.
+Se on eri asia kuin mitata hallituksen onnistumista työllisyysasteella.
+
+Mitä tulee tähän ensi vuoden budjettiin, niin se kompensoi pienituloisille tasaverojen
+nostot muilla veroratkaisuilla. Hallituksen toimien nettovaikutus pienituloisille on plus-
+merkkinen. Ei pienituloisen niin kuin ei suurituloisenkaan kannalta ole relevanttia se, mis-
+sä ne verot maksetaan, vaan relevanttia on se, paljonko siitä rahasta jää käteen. Ja tämän
+hallituksen ensimmäisen budjetin vaikutusarvioiden mukaan käteen jää enemmän kuin
+mitä jäi aikaisemmin. Budjetti on myös tuloeroja kaventava, niukalti mutta kuitenkin.
+
+Edustaja Sarkomaa, budjetin työllisyysvaikutusten etumerkki on tällä hetkellä asiantun-
+tijoiden mukaan epäselvä. Me emme tiedä, onko se miinus- vai plusmerkkinen. Siellä on
+todennäköisesti työllisyyttä heikentäviä toimia ja todennäköisesti työllisyyttä parantavia
+toimia. Kummat pääsevät voitolle, selviää varmaan tuossa kevään kuluessa. Nimenomaan
+työllisyyden osalta me emme pysty tässä vaiheessa tekemään sellaisia arvioita, jotka olisi-
+vat mitenkään valideja ja kestäviä. Täytyy jaksaa odottaa vielä muutama kuukausi.
+
+16.43 Anneli Kiljunen sd: Arvoisa puhemies! Ajattelin, että en osallistu nyt tähän kes-
+kusteluun, mutta halusin muutaman sanan kuitenkin sanoa, kun edustaja Sarkomaa on vah-
+vasti kyseenalaistanut sosiaalidemokraattien sekä myös hallituksen työn linjaa. Tämä hal-
+litus on ennen kaikkea työn linjalla, ja meidän painopisteemme on siinä, että me lähdemme
+puuttumaan työelämän rakenteisiin ja vahvistamaan niitä. Tämä hallitus on luonut muun
+muassa 25 toimenpiteen ohjelman, jota tällä hetkellä työstetään vahvasti jo ministeriössä,
+ja esityksiä tulee jo tämän syksyn aikana myös eduskuntaan.
+
+Kokoomuksen työn linjaa voi tulkita viime kaudelta siten, että hallitus loi epävarmuutta
+työmarkkinoilla monilla eri toimenpiteillä. Se myös heikensi työttömien työttömyysturvaa
+ja vaikeutti opiskelijoiden asemaa heikentämällä opiskelijoitten sosiaaliturvaa ja ajoi myös
+opiskelijat työmarkkinoille, jotta he selviäisivät omasta toimeentulostaan. Sitä kautta ko-
+ko, voisiko sanoa, osaamista heikennettiin, työelämän turvallisuutta heikennettiin, toi-
+meentuloa heikennettiin. Aivan kuten edustaja Filatov totesi, niin samanaikaisesti kun
+yleinen kansainvälinen työllisyystilanne vahvistui ja työllisyys myös Suomessa parani,
+mikä oli erittäin hyvä asia, näitten hallituksen toimenpiteitten johdosta työttömien toi-
+meentulo heikkeni sekä myös toimeentulotukiasiakkaitten määrä kasvoi. Tämä ei vaikut-
+tanut ainoastaan työttömiin itseensä vaan myös heidän perheisiinsä, ja sitä kautta voi sa-
+noa, että me saimme sosiaaliturvan näkökulmasta sellaisen maailman, että meidän pitää
+tässä hallituksessa vahvasti puuttua nyt siihen, ja näin me myös teemme.
+40
+
+
+
+Pöytäkirjan asiakohta PTK 55/2019 vp
+16.44 Pekka Aittakumpu kesk: Arvoisa puhemies! Vielä muutama sananen tähän mie-
+lenkiintoiseen keskusteluun. Tässä on nyt tullut hyvin esille se, että kyllähän tämä hallitus
+tekee sellaista pienen ihmisen politiikkaa, jossa nimenomaan pienituloisten ja myöskin
+keskituloisten toimeentuloa ja elämisen edellytyksiä monella tavalla vahvistetaan. On huo-
+mioitava myös se, että me vahvistamme erilaisia palveluita ja ne ovat monelle ihmiselle
+hyvin merkittäviä ja tärkeitä. Nythän me juuri pieni- ja keskituloisia varten teemme vero-
+tukseen kevennyksiä ja myöskin parannamme etuisuuksia.
+
+Tässä työllisyysasiassa, josta tässä on hyvin keskusteltukin, on aivan totta sekin, että
+meillä on tällä hetkellä paljon sellaista työtä, jolle ei löydy tekijää. Siksi kun ajattelemme
+asioita hiukan pitemmällä aikavälillä emmekä pelkästään vuoden tai kahden tai yhden vaa-
+likauden vaan pitemmällä, vuosikymmenienkin aikavälillä, niin on erityisen merkityksel-
+listä, että hallitus monella tavalla parantaa koulutusta ja tutkimusta. Se tulee näkymään
+meillä työelämässä. Esimerkiksi kotikaupungissani Oulussa on paljon sellaista työtä, jolle
+ei tällä hetkellä tekijää löydy, ja koulutuksesta löytyy tähän ratkaisuja. Se, että hallitus on
+nyt valmistelemassa monia työllisyystoimia ja niitä valmistellaan rauhassa, on erinomai-
+nen asia.
+
+16.46 Tarja Filatov sd: Arvoisa puhemies! Vielä tähän työllisyyskeskusteluun sen ver-
+ran, että itsekin varon käyttämästä työllisyysastetta enää nykyisin minään mittarina, koska
+me tiedämme, että meidän työelämän rakenteet muuttuvat nopeasti. Esimerkiksi jos kat-
+soo edellistä neljää vuotta, niin silloin meillä oli vaihe, jolloin työllisyysaste oli noussut jo
+voimakkaasti, ja edellinen hallitus silloin sanoi, että se on hyvä tulos ja se on nyt niin kuin
+saavutettu. Samaan aikaan kuitenkin tehtyjen työtuntien määrä oli vähentynyt, ja kuiten-
+kin ne tehdyt työtunnit ovat sitä lisätyötä. Elikkä usein nämä mittarit kulkevat sillä tavalla,
+että jos ei tiedä, mitä joku mittari mittaa, niin sitä voidaan käyttää myös väärin poliittisessa
+keskustelussa.
+
+Toivoisinkin, että tämän hallituksen yksi saldo olisi se, että arvioitaisiin — en väitä, että
+niin on, mutta arvioitaisiin — onko työllisyysasteen vaikutus makrotaloudellisena mittari-
+na enää samanlainen, yhtä relevantti kuin aikaisemmin, sen vuoksi, että meillä työelämäs-
+sä on tapahtunut isoja muutoksia. Yhä edelleen meillä on vakituisessa, pysyvässä työsuh-
+teessa noin 70 prosenttia työntekijöistä, mutta sen 30 pirstalaisen prosentin sisällä on ta-
+pahtunut lisää pirstaloitumista, ja tämä aiheuttaa sen, että itse asiassa työllisten määrä ei ole
+enää samanlainen kansantaloudellinen hyvä kuin se on ollut joskus aikaisemmin.
+
+Jos mietitään, mitkä ovat niitä hallituksen isoja panostuksia, niin esimerkiksi professori
+Matti Pohjolan tutkimuksen mukaan Suomessa vuoden 1860 jälkeen tapahtuneesta talous-
+kasvusta — eli siis jo pitkän, pitkän aikavälin mukaan, mutta kiihtyneesti nyt — kaksi kol-
+masosaa on syntynyt ideoista, teknologiasta ja innovaatioista ja yksi kolmasosa koulutuk-
+sesta. Eli koulutuksella on iso merkitys innovaatiopolitiikan rinnalla, ja molempiin tämä
+hallitus panostaa. Mutta niille ei voi laskea tällä hetkellä eksaktia työllisyysvaikutusta, jol-
+laista täällä on perätty. Mutta sen me tiedämme, että niillä on positiivista työllisyysvaiku-
+tusta.
+
+Yleiskeskustelu päättyi ja asian käsittely keskeytettiin.
+41
+
+
+	3
+	14.02
+	14.08
+	14.14
+	14.19
+	14.24
+	14.29
+	14.32
+	14.33
+	14.34
+	14.35
+	14.36
+	14.37
+	14.38
+	14.39
+	14.40
+	14.42
+	14.43
+	14.44
+	14.45
+	14.46
+	14.47
+	14.48
+	14.50
+	14.51
+	14.52
+	14.53
+	14.55
+	14.56
+	14.57
+	14.59
+	15.00
+	15.01
+	15.07
+	15.09
+	15.12
+	15.14
+	15.17
+	15.18
+	15.21
+	15.22
+	15.23
+	15.29
+	15.34
+	15.38
+	15.41
+	15.44
+	15.47
+	15.49
+	15.51
+	15.54
+	15.57
+	15.59
+	16.03
+	16.05
+	16.08
+	16.11
+	16.12
+	16.13
+	16.17
+	16.19
+	16.22
+	16.25
+	16.27
+	16.29
+	16.32
+	16.34
+	16.38
+	16.39
+	16.41
+	16.43
+	16.44
+	16.46
+
+

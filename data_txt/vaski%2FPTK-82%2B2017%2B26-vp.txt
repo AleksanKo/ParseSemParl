@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM4125.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 82/2017 vp
+
+Täysistunto
+
+Keskiviikko 6.9.2017 klo 14.03—16.53
+
+26. Hallituksen esitys eduskunnalle laiksi vahvasta sähköisestä tunnistamisesta ja sähköi-
+sistä luottamuspalveluista annetun lain muuttamisesta ja väliaikaisesta muuttamisesta
+
+Hallituksen esitys HE 83/2017 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 26. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja
+viestintävaliokuntaan.
+
+Keskustelu
+
+15.40 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa her-
+ra puhemies! Käsiteltävänä on hallituksen esitys eduskunnalle laiksi vahvasta sähköisestä
+tunnistamisesta ja sähköisistä luottamuspalveluista annetun lain muuttamisesta ja väliai-
+kaisesta muuttamisesta. Esityksessä ehdotetaan, että niin sanotun ensitunnistamistiedon
+ketjuttamiselle asetetaan enimmäishinta viiden vuoden määräajaksi. Ensitunnistamisella
+tarkoitetaan henkilöllisyyden luotettavaa tunnistusta silloin kun uudelle asiakkaalle myön-
+netään ensimmäistä kertaa vahva sähköinen tunnistamisväline, kuten verkkopankkitun-
+nukset tai mobiilivarmenne. Ensitunnistamistietojen välittämistä eli ketjuttamista tarvi-
+taan silloin kun olemassa olevan vahvan sähköisen tunnistusvälineen avulla haetaan säh-
+köisesti uutta vahvaa tunnistusvälinettä.
+
+Viime vuonna tunnistuslain edellisen muutoksen yhteydessä eduskunta hyväksyi lausu-
+man, jonka mukaan se edellytti, että valtioneuvosto seuraa sähköisen ensitunnistamisen
+toimivuutta ja kohtuuhintaisuutta erityisesti tunnistuspalveluiden markkinoiden liikkeel-
+lelähdön varmistamiseksi. Lausumassa edellytettiin myös, että valtioneuvosto ryhtyy tar-
+vittaessa tunnistuspalveluiden markkinoiden liikkeellelähdön edellyttämiin toimenpitei-
+siin ennen tunnistuslain mukaisen luottamusverkon käyttöönottoa.
+
+Liikenne- ja viestintäministeriö on seurannut sähköisen ensitunnistamisen markkinoi-
+den kehitystä ja todennut, että tällä hetkellä uusien vahvojen sähköisten tunnistusvälinei-
+den tarjonnan laajenemista hidastavat korkeat hinnat, joita peritään ensitunnistamistieto-
+jen välittämisestä. Hinnat ovat olleet jopa kymmeniä euroja tunnistustapahtumaa kohden.
+Saamiemme tietojen mukaan uusia tunnistusvälineitä ei tarjota ja markkinoida käyttäjille
+laajasti korkeiden hintojen vuoksi. 
+
+Nyt käsillä olevassa esityksessä ensitunnistamistietojen välittämiselle ehdotetaan vii-
+den vuoden ajaksi enimmäishintaa, joka olisi vähintään 0,35 euroa ja enintään 5 euroa.
+Tämä on kohtuulliseksi katsottu enimmäistason vaihteluväli, joka perustuu Suomessa toi-
+mivilta tunnistusvälineen tarjoajilta esityksen valmistelun aikana saatuihin tietoihin toteu-
+tuneista ensitunnistustietojen välittämisen hinnoista. Lisäksi korvauksen enimmäistason
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+tulisi laskea vuosittain 25 prosenttia. Näissä rajoissa Viestintävirasto määrittelisi enim-
+mäishinnan toteutuneiden markkinahintojen perusteella. Tunnistusvälineiden tarjoajien
+kannalta esitetty malli toisi sääntelyyn ennakoitavuutta ja varmistaisi samalla hintojen
+kohtuullisuuden suhteessa markkinahintoihin sekä sen, että hinnoittelu kehittyisi maltilli-
+sesti kohti tehokasta hintatasoa. 
+
+Esityksen tavoitteena on ennen kaikkea edistää digitaalisen liiketoiminnan kasvuympä-
+ristön luomista ja sähköisen tunnistamisen markkinoiden kehittymistä. Digitaalisten palve-
+luiden laaja-alainen käyttöönotto ja uusien liiketoimintamallien kehittyminen edellyttävät,
+että sähköisten palveluiden käyttäjät ja tarjoajat voivat luottaa toisiinsa sekä varmistua
+toistensa identiteetistä. Tunnistamismarkkinoiden nykyistä nopeampi kehittyminen on
+välttämätöntä digitaalisten palveluiden ja liiketoiminnan edistämiseksi.
+
+Lopuksi tuon esiin, että toisena asiana tässä samassa esityksessä ehdotetaan, että tunnis-
+tuslain mukaisia ilmoitusvelvoitteita ja viranomaismaksuja selvennetään toimijoiden yh-
+teenliittymien osalta. Kyseessä on selkeyttävä muutos, jolla estetään tahattomat moninker-
+taiset valvontamaksuvelvoitteet. — Kiitos. 
+
+15.43 Timo Heinonen kok: Arvoisa puhemies! Sähköinen tunnistaminen on tärkeää, ja
+on valitettavaa, että me olemme tässä asiassa kyllä jääneet pahasti jälkeen monista muista
+maista. Olen joskus aiemmin itse kannattanut sähköistä äänestämistäkin, mutta en enää
+tänä päivänä sitä kannata — en mene niihin yksityiskohtiin. Mutta nyt haluan antaa minis-
+teri Bernerille ja hallitukselle kiitosta siitä, että tässä sähköisen tunnistamisen asiassa ote-
+taan nyt askelia eteenpäin niin, että me saisimme tätä entistä paremmin toimimaan.
+
+Eduskunnassa esimerkiksi lopulta voidaan nyt allekirjoittaa erilaisia asiakirjoja, vaikka-
+pa aloitteita, sähköisesti. Se on yksi askel. Ja jos tämä talo siihen pystyy nyt vasta, niin as-
+keleita on vielä runsaasti lisääkin otettava.
+
+Pidän myönteisenä myös sitä, että tämän hallituksen aikana on saatu maksuhäiriöisille
+oikeus verkkopankkitunnuksiin. Siinä oli iso epäkohta, jota aiemmin ei ollut korjattu, mut-
+ta tämä nykyinen hallitus sen korjasi. Talousvaliokunnasta edustaja Turusen johdolla asia
+saatiin hetki sitten päätökseen, ja näin myös maksuhäiriöisille on saatu oikeus verkkopank-
+kitunnuksiin, ja se on yksi osa tässä tunnistautumisessa. Se on maksutilidirektiivin toteut-
+tamista, ja hyvä, että se on lopulta toimeenpantu.
+
+15.45 Maria Tolppanen sd (vastauspuheenvuoro): Arvoisa puhemies! Hyvä, että tässä
+tuli nämä maksuhäiriöiset esille. Vaikka nyt on mahdollista, että he saavat kortin, niin nyt
+on niin, että pankeilla ei ole velvollisuutta antaa tätä korttia, että voi tunnistautua, ja se on
+edelleenkin ongelma. Me annoimme luvan, mutta me emme voi velvoittaa kaikkia pank-
+keja antamaan näitä tunnuksia — tämä on valitettavasti tänä päivänä tosiasia. Tämä on se
+asia, mihin pitäisi puuttua.
+
+Tuossa laskin äskettäin, että jos se vitosen maksaa, niin se on noin 2 miljoonaa yhteensä
+— meillä on liki 400 000 maksuhäiriöistä ihmistä — niin että jotakin pitäisi tehdä, jotta
+voisimme taata sitten näille maksuhäiriöisille, kun kerta lupa nytten on antaa verkkotun-
+nukset, se että he myöskin saisivat ne. Ja siihen tarvittaisiin ehkä valtion apua.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Puhujalistaan. Edustaja Wallinheimo
+— edustaja Wallinheimo on poissa. Edustaja Päivi Räsänen — on poissa. Edustaja Tolp-
+panen, teillä puheenvuoro.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+15.46 Maria Tolppanen sd: Arvoisa puhemies! Jatkan samasta aiheesta. Eli tämän vuo-
+den alkupuoliskolla, tammi—kesäkuussa, näitä maksuhäiriöisiä ihmisiä oli Suomessa
+100 000 enemmän kuin viime vuonna, 12 prosenttia enemmän kuin aikaisemmin — näin
+on laskettu. Sähköinen tunnistautuminen on ehdottomasti hyvä asia, ja se on varma asia,
+mutta huoli on vain siitä, voivatko kaikki kansalaiset käyttää sitä. Ministerin äskeisestä pu-
+heesta kävi selvästi selville se, minkä takia luottolaitokset eivät halua antaa näitä tunnis-
+tautumiskeinoja: se maksaa, se on heille kallista. Tämä on varmasti erittäin hyvä asia, että
+nytten tulee jonkinnäköinen katto siihen. Toivottavasti sitä 5:tä euroa nyt ei mene, koska se
+on se 2 miljoonaa kuitenkin, ja sitten kun me pelaamme rahamarkkinoilla, niin 2 miljoonaa
+on iso raha, ja onhan se kyllä aina iso raha.
+
+Mutta mikä olisi keino siihen, että jokainen kansalainen saisi sähköisen mahdollisuuden
+tunnistautua? Siihen täytyisi löytää joku keino. Itse en keksi sitä ykskaks, koska eduskun-
+nalla ei liene valtaa kaupallisiin laitoksiin määrätä, mitä heidän on tehtävä, mitä heidän on
+ostettava tai annettava. Meidän täytyy saada se julkinen debatti asiasta niin vahvaksi, että
+on pakko tavallaan myöntää nämä tunnukset ihmisille.
+
+15.48 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa puhemies! Tuossa kiitin edus-
+taja Turusta ja talousvaliokuntaa hetki sitten siitä, että nämä verkkopankkitunnukset on nyt
+tehty jokaisen oikeudeksi. Kun salin vasemmalta laidalta nyt väitetään, että ne eivät ole jo-
+kaisen oikeus, niin voisitteko te, talousvaliokunnan puheenjohtaja, edustaja Turunen, nyt
+vahvistaa ja korjata sen väärän tiedon eli eikö näin ole, että peruspankkipalveluihin on nyt
+pankki velvoitettu antamaan myös verkkopankkitunnukset? Jos pankki näin ei toimi vaan
+niin kuin edustaja Tolppanen väittää, niin silloin ymmärtääkseni tämä pankki rikkoo lakia.
+Ja valiokunnan puheenjohtaja Turunen voi kertoa varmaan myös sen, mitä silloin voidaan
+tehdä, jos pankki ei tätä lakia noudata.
+
+15.49 Kaj Turunen si (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Heinonen on
+aivan oikeassa siinä. Tämä ei ole ihan kansallistakaan juttua, vaan kyllä tämä tulee EU:sta
+direktiivin kautta siitä, että peruspankkipalvelut ovat kaikille kansalaisille. Kyllä talousva-
+liokunnassa tämä homma hoidettiin sitten kansalliseen lainsäädäntöön, ja nämä peruspank-
+kipalvelut ja pankkitunnukset ovat kaikille kansalaisille saatavilla — tai pitäisi olla. [Ma-
+ria Tolppasen välihuuto]
+
+Mutta tähän Heinosen toiseen puoleen sitten, jos näin ei ole, minulla ei riitä kapasiteetti,
+kertomaan sitä nyt tässä yhteydessä. Voin selvittää sen kyllä ja vastata sitten tarkemmin,
+miten — en muista sitä ulkoa — sitä oli sanktioitu, jos ei näin ole. Mutta peruspankkipal-
+velut ovat kaikkien kansalaisten käytettävissä. Näin pitäisi olla. [Timo Heinonen: Kyllä!]
+
+15.50 Mikko Alatalo kesk: Arvoisa puhemies! Terveiset Edinburghista! Siellä pubissa
+täytyy maksaa käteisellä. He eivät ota mielellään kortilla, koska se hidastaa palvelua siellä,
+niin että kyllä minä väittäisin, että me Suomessa olemme aika pitkällä tässä digitalisaatios-
+sa — emme välttämättä ehkä niin pitkällä kuin mitä Björn Ulvaeus Tukholmassa esittää,
+että kokonaan luovutaan normaalirahasta.
+
+Mutta mitä tulee tähän itse lainmuutokseen, niin nämä ensitunnistustietojen välittämi-
+sestä perittävät korkeat hinnat ovat vaikeuttaneet olemassa olevien tunnistusvälineiden
+hyödyntämistä ja uusien hankkimista ja korkeat hinnat vaikeuttavat kilpailun toimivuutta
+ja jatkossa myös toimijoiden välisen luottamusverkon kehittymistä. Tämä laki on hyvin ai-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+heellinen, ja siinä mielessä ollaan oikeilla jäljillä, ja hallitus on tässä tehnyt ihan hyvää työ-
+tä.
+
+Mitä tulee tuohon maksuhäiriöisten asiaan, niin se on tosiaan ihan aiheellista, että tämä
+kysymys tuotiin täällä esille. Tiedän monia yrittäjiä, itsekin olen yrittänyt, joskus on ollut
+verorästejä ja näin, ja jos näin kävisi, että ei enää saisi tosiaan pankkitunnuksia, niin sehän
+olisi loppu koko yritystoiminnalle. Elikkä tässä mielessä talousvaliokunta on tehnyt hyvää
+työtä. Jos näin on, niin kuin edustaja Tolppanen sanoi, että kaikki pankit eivät tätä noudata,
+niin silloinhan meidän täytyy pystyä sanktioimaan sitten pankkeja. Se on kansalaisoikeus,
+että voit tosiaan myös toimia näissä pankeissa, vaikka jotkut pankit väittävät, että me ta-
+valliset asiakkaat tuomme vain hiekkaa sinne lattioille. Mutta joka tapauksessa jotakin täy-
+tyy tälle sitten tehdä, tätä täytyy seurata. Se ei ole välttämättä itsestäänselvä asia. Mutta
+joka tapauksessa sanoisin, että monet hyvin kunniallisetkin yrittäjät saattavat jossain vai-
+heessa olla semmoisessa tilanteessa, että on esimerkiksi maksuvaikeuksia ja rahavaikeuk-
+sia, likviditeettiongelmaa. Kun asiakkaiden kierto, rahan kierto hidastuu, niin silloin täy-
+tyy kuitenkin tämän pankkitoiminnan toimia. 
+
+Kaiken kaikkiaan tämä sähköisen tunnistamisen lakimuutos on tärkeä asia.
+
+15.52 Matti Torvinen si: Arvoisa puhemies! Tuo sähköinen tunnistaminen todellakin nä-
+kemykseni mukaan on Suomessa aika etunenässä Euroopassa. Tuohon ottaisin Alatalolta
+kopin ja toteaisin, että kun tuolla Itävallassa paljon käyn alppiurheiluporukoiden mukana,
+niin siellä pankkikortti ei ole ollenkaan tätä päivää, siellä saa jopa käteismaksuista alen-
+nuksen.
+
+Mutta todellakin meillä Suomessa on hyvä, että eduskunta nyt vihdoinkin lähtee edel-
+leenkehittämään tätä sähköistä tunnistamista, kun tuo pankkikorttioikeuskin tuli tässä sel-
+västi epäselväksi nyt sitten, että onko sitä sanktiota vai ei. Itse olen liike-elämän edustajana
+sitä mieltä, että markkinat sen myös tulevat tulevaisuudessa ratkaisemaan. Uskon näin, että
+vapaa kilpailu senkin ratkaisee.
+
+Itse olen tuolla tuomioistuinpuolella paljon työskennellyt ja teen niin sanotun kenttäju-
+ristin työtä. Täytyy sanoa, että tuo sähköinen tunnistaminen on siellä tätä päivää, varsinkin
+meillä asianajo- ja lakiasiaintoimistoissa se on jatkuvaa toimintaa. Mutta tietenkin on hy-
+vä, että kansalaisten mahdollisuudet käyttää niitä omien pankkipalveluidensa kautta kehit-
+tyvät.
+
+Tietysti, jos ajatellaan, että tämä rekisteröintimaksu ja valvontamaksu tulevat käyttöön,
+ne ovat hyvä tapa, ja ne tavallaan myöskin ohjaavat sitten, että nuo todelliset uudet toimijat
+ovat tosissaan tulossa markkinoille. Tuommoinen hintakattojärjestelmä on hyvä järjestel-
+mä, ja olen sitä mieltä, että se määräaikaisena on toimiva. Siinä määräajassa pystytään rat-
+kaisemaan ja selvittämään sitten, onko se ollut kohtuullinen, ja markkinat sitten palvelun-
+tarjoajien määrän myötä ryhtyvät asiaa viemään eteenpäin. Minun mielestäni tämä on hyvä
+lakiesitys ja tällaisenaan erittäin kannatettava.
+
+15.54 Kaj Turunen si: Arvoisa puhemies! Tässä on otettu esille nämä maksuhäiriöiset ja
+heidän tilanteensa, ja minun mielestäni on aika tärkeä asia, että näin on tehty. Tässä viime
+päivien uutisten mukaan Suomessa on noin 10 prosentilla kansalaisista maksuhäiriöitä.
+Käytännössä se tarkoittaa puolta miljoonaa ihmistä, ja se on hyvin merkityksellistä.
+
+Meillähän on ollut sellainen tilanne tosiaankin vähän aikaa sitten, niin kuin edustaja Ala-
+talokin täällä mainitsi, että varsinkin yrittäjille se on ollut ongelma, jos on maksuhäiriömer-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+kintöjä, ja ihan tavalliselle kansalaiselle se on käytännössä tarkoittanut sitä, ettei saa pank-
+kitiliä auki. Sitten meillä on voimassa laki, että palkka pitää maksaa pankkitilille, että kä-
+teisellä palkkaa ei saa maksaa. Nyt tämmöinen maksuhäiriöongelmainen ihminen on vai-
+keassa tilanteessa, jos pankki ei suostu aukaisemaan pankkitiliä ja toisaalta on kuitenkin
+onnistunut saamaan töitä ja palkanmaksajan pitäisi maksaa pankkiin tili. Tietenkin nämä
+maksuhäiriömerkinnät — sen lisäksi, että ei ole saanut tiliäkään auki pankissa, puhumat-
+takaan pankkikortista tai verkkopankkitunnuksista — kyllä silloin kaiken muun päälle
+käytännössä tarkoittavat vielä sitä, että et saa puhelinliittymää, et vuokra-asuntoa, et mi-
+tään.
+
+Tietysti aika paljon näitä ongelmia on jäänyt vielä ja on edelleen voimassa, mutta pank-
+kipalvelujen osalta kuitenkin nämä peruspankkipalvelut on nyt turvattu kaikille kansalai-
+sille. Myös heille, jotka ovat maksuhäiriömerkinnän saaneet, nämä ovat käytettävissä.
+Tämä ei ole kovin uusi laki, nyt en ihan tarkkaan muista, käsiteltiinkö tämä asia viime syk-
+synä vai nyt tämän vuoden keväällä, mutta tämä on suhteellisen tuore laki.
+
+Mitä tulee sitten siihen, noudattavatko pankit sitten tätä lainsäädäntöä tältä osin eli pe-
+ruspankkitoimintojen osalta, niin kyllä ainakin minun näkemykseni mukaan pankit nou-
+dattavat aika tarkasti lakia Suomenmaassa, niin että tuskinpa tämmöistä ongelmaa on, kos-
+ka ei ainakaan minun korviini sellaista ole tullut.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan.
+5
+
+

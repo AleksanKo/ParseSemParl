@@ -1,0 +1,380 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM85ED.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 3/2017 vp
+
+Täysistunto
+
+Keskiviikko 8.2.2017 klo 13.59—20.24
+
+13. Hallituksen esitys eduskunnalle laajakaistarakentamisen tukea haja-asutusalueilla kos-
+kevan lainsäädännön muuttamisesta
+
+Hallituksen esitys HE 2/2017 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Arto Satonen: Lähetekeskustelua varten esitellään päiväjärjestyk-
+sen 13. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävalio-
+kuntaan.
+
+Keskustelu
+
+18.59 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa pu-
+hemies! Hallituksen esityksessä 2/2017 esitetään laajakaistarakentamisen tukea haja-asu-
+tusalueilla koskevan lainsäädännön muuttamista. Muutoksen tavoitteena on edistää tuettu-
+jen laajakaistaverkkojen rakentamista lisäämällä julkisen tuen osuutta hankkeiden koko-
+naiskustannuksista. Käytännössä muutos tarkoittaa sitä, että tuen saajan maksettavaksi jää-
+vät rakentamiskustannukset alenevat. Tämä mahdollistaa edullisemmat liityntämaksut liit-
+tymien tilaajille ja siten lisää liittymien kysyntää. Lisääntynyt kysyntä tietää suurempaa
+maksavien asiakkaiden määrää ja siten parantaa hankkeiden kannattavuutta.
+
+Edelleen muutoksella sallitaan entistä useammalle laajakaistahankkeelle kunnan ja mui-
+den julkisten tahojen lisätukia esimerkiksi takausten ja edullisten lainaehtojen muodossa.
+Tämä helpottaa tuettujen laajakaistahankkeiden rahoitusta, ja siten sen odotetaan lisäävän
+teleyritysten kiinnostusta osallistua laajakaistahankkeisiin. Esitetyt muutokset tukevat
+myös hallituksen kärkihankkeita, sillä ne vähentävät kaikkien tukiprosessiin osallistuvien
+tahojen, erityisesti tuen hakijoiden ja Viestintäviraston, hallinnollista taakkaa sujuvoitta-
+malla säädöksiä. 
+
+Lisäksi muutokset edistävät digitaalisten julkisten palveluiden käyttöä ja saatavuutta eli
+niin sanottua Digi1-kärkihanketta sekä digitaalisen liiketoiminnan kasvuympäristön kehit-
+tymistä eli Digi2-kärkihaketta. Lisäksi lainsäädännön muuttamisessa huomioidaan maa-
+kuntien liittojen lakkauttaminen maakuntauudistuksen yhteydessä. Muutokset toteutetaan
+tekemällä seuraavat muutokset lainsäädäntöön:
+
+Tähän asti tukea on voinut saada vain alueilla, joilla on asunut vähemmän kuin 5,4 pro-
+senttia Manner-Suomen väestöstä. Tämän lain voimaantulon jälkeen kilpailutettavilta
+hankkeilta poistuu tuen sitominen väestötiheyteen eli myös nämä niin sanotut punaiset
+alueet tulevat tuen piiriin. Tukea ei kuitenkaan edelleenkään voida myöntää markkinaeh-
+toisille alueille.
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Maakuntauudistuksen on määrä tulla voimaan 1.1.2019. Tämän johdosta maakuntien
+liitot lakkautetaan 31.12.2018 ja laissa olevat maakuntien liittojen tehtävät muutetaan mää-
+räaikaisiksi ja ne ovat voimassa vuoden 18 loppuun asti.
+
+Samoin tukihakemus Viestintävirastolle on tehtävä 31.12.2018 mennessä. Maakuntien
+liittojen tehtävät ajoittuvat hankealueiden määrittelyyn sekä hankkeen toteuttajan kilpai-
+luttamiseen ja valintaan ennen Viestintävirastolle tehtävää tukihakemusta.
+
+Tähän asti tilaajajohdon tukikelvoton osuus on ollut kaksi kilometriä. Esityksessä tuki-
+kelvoton osuus lyhennetään 100 metriin, ja siihen liittymän tilaajalla on mahdollisuus ha-
+kea kotitalousvähennystä työn osalta.
+
+Euroopan komission notifiointiprosessissa hyväksymä laajakaistahankkeen päättymi-
+sen määräaika on 31.12.2019. Tämän johdosta lakiin esitetään lisättäväksi, että maksatus-
+hakemus Viestintävirastolle on tehtävä 30.6.2019 mennessä. Tällöin Viestintävirasto ehtii
+käsitellä ja maksaa tuet vuoden 2019 loppuun mennessä.
+
+Erilaisten julkista tukea sisältävien rahoitusinstrumenttien käyttöä on voitu soveltaa tä-
+hän asti vain ennen 12.11.2012 kilpailutettuihin hankkeisiin. Esityksen mukaan jatkossa
+näitä instrumentteja voidaan soveltaa kaikkiin hankkeisiin, joihin Viestintävirasto ei ole
+vielä maksanut tukea. Korotettua 90 prosentin tuki-intensiteettiä on voitu soveltaa vain
+näihin 2012 kilpailutettuihin hankkeisiin. Esityksen mukaan korotettua tuki-intensiteettiä
+voidaan soveltaa kaikkiin hankkeisiin, joihin Viestintävirasto ei ole vielä maksanut tukea.
+
+Esitetyt lainsäädäntömuutokset eivät edellytä muutosta eduskunnan Viestintävirastolle
+myöntämään valtiontuen myöntämisvaltuuteen. — Kiitoksia.
+
+19.04 Kari Kulmala ps: Arvoisa puhemies, arvoisa ministeri! Esityksessä ehdotetaan laa-
+jakaistan rakentamisen tuesta haja-asutusalueella annettua lakia muutettavaksi siten, että
+tuen myöntämistä ei tulevissa hankkeissa rajattaisi ainoastaan niille alueille, jotka ovat
+väestötiheydeltään sellaisia, että enintään 5,4 prosenttia asuu yhtä harvaan tai harvemmin
+asutulla alueella. Tämä esitys on enemmän kuin tervetullut erityisesti tuonne maaseudulle.
+
+Nopea laajakaista -hanke käynnistyi hallituksen periaatepäätöksellä jo vuonna 2008. Tä-
+män hankkeen tarkoituksena oli varmistaa valtion tuen avulla nopeiden laajakaistaverkko-
+jen rakentaminen alueille, joille kaupalliset operaattorit eivät tulisi kiinteää laajakaistaa
+koskaan rakentamaan. Hankkeen päämääränä oli, että vuoden 2015 loppuun mennessä yli
+99 prosentilla käyttäjistä olisi saatavilla 100 megan laajakaistayhteys enintään kahden ki-
+lometrin etäisyydellä vakituisesta asuinpaikasta tai yrityksen toimipisteestä. Tästä hallituk-
+sen tavoitteesta ollaan tällä hetkellä pahasti myöhässä.
+
+On olemassa hyväuskoisia kuntia, jotka luottivat hallituksen esityksen kannustamina
+pioneerityöhön, ja laajakaistaverkkojen rakentaminen alkoi useilla alueilla, muun muassa
+Rääkkylässä. Kunnassamme nähtiin välttämättömänä kunnan koosta ja talouden resurs-
+seista huolimatta huolehtia siitä, että kuntalaisemme saisivat tietoliikenneyhteydet osana
+infran peruspalveluja. Lisämotivaationa kiinteän laajakaistan rakentamiselle oli myös di-
+gitaalisten palveluiden muodostaminen muun muassa sosiaali- ja terveydenhuollossa sekä
+sähköisen asioinnin kehittäminen.
+
+Laajakaistaverkosta pitää ymmärtää, että se on perusinfraa kuten tiestömme. Kiinteä
+laajakaistaverkko on elintärkeä haja-asutusalueella jo kansalaisten yhdenvertaisuutta aja-
+tellessa, eikä tietoverkkojen rakentamisen tule kuulua kuntien tehtäviin vaan valtion, ku-
+ten vuoden 2008 periaatepäätöksessä mainitaan. Maan hallituksen kärkihanke, digitalisaa-
+tio ja sähköisten palveluiden kehittäminen, ei ilman kiinteää laajakaistaa ole mahdollinen
+2
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+haja-asutusalueilla, kun siellä eivät edes matkapuhelimet aina toimi. Onkin syytä, että val-
+tioneuvosto tekee nykyiseen rahoitusjärjestelmään sellaisia muutoksia, että kuntien ja tie-
+toverkkoyhtiöiden talousvastuita helpotetaan. Toivottavasti tämä hallituksen esitys tuo li-
+sävaloa tähänkin asiaan.
+
+19.07 Mirja Vehkaperä kesk: Arvoisa herra puhemies! Suomeen on rakennettu laaja-
+kaistaa kuin Iisakinkirkkoa. Laajakaista kaikille -hanke on lanseerattu, voi sanoa, melkein
+vuosikymmen sitten, ja Nopea laajakaista -hanke on nyt juuri käynnissä. Meneillään on
+erilaisia hankkeita. Laajakaistahankkeita toteutetaan osuuskuntamuotoisina, kunnan omi-
+na, maakunnan omina, seudun omina, yksityisinä yrityksinä ja niin edelleen. Siis tämä kir-
+jo on valtava, ja joskus on palautetta ollut siitäkin, olisiko valtion tai julkisen sektorin pi-
+tänyt ottaa vähän isompi koppi ehkä tästä, että koko Suomen laajakaistahankkeet olisi ve-
+detty hieman valtiovetoisemmin. Mutta toisaalta kirjo on antanut sen, että erilaisiin aluei-
+siin, erilaisiin tarpeisiin on pystytty räätälöimään sitä laajakaistahanketta parhaalla mah-
+dollisella tavalla. 
+
+Mutta kaikkein tärkein asia on se, että julkista rahaa käytetään näiden hankkeiden tuke-
+miseen ja käytetään nyt sitten entistä joustavammin. Julkinen hankkeen tuki on ohjattu
+alueille, joilla ei ole markkinaehtoisesti kannattavaa investoida kiinteän verkon rakentami-
+seen esimerkiksi alhaisten tilaajamäärien ja pitkien etäisyyksien vuoksi.
+
+No, meiltä monesti kysytään, kannattaako tukea mobiilia vai valokuitua, ja vastaus on
+varmasti pitkien etäisyyksien ja harvan asutuksen alueilla ja Suomessa se, että tarvitsem-
+me molempia. Valokuituyhteyksiä tarvitaan etenkin toimintavarmuutta ja huippunopeutta
+vaativiin palveluihin. Kun haluamme edistää esimerkiksi etätyömahdollisuuksia, maatalo-
+usyrittäjyyttä laajasti, biotaloutta ja uusia liiketoimintamahdollisuuksia eri puolilla Suo-
+mea — siis työllisyyttä — niin me tarvitsemme moitteettomasti toimivia ja kattavia tieto-
+liikenneyhteyksiä. 
+
+Tähän asti ohjelman etenemistä ovat hidastaneet liian tiukat ehdot tuen hyödyntämises-
+sä. Lisäksi rahoja on jäänyt käyttämättä joka vuosi. Nyt siis ehtoja väljennetään, jotta laa-
+jakaistojen rakentamiseen tulee vauhtia ja yhä useampi suomalainen saa toimivan verkko-
+yhteyden. Esteitä on poistettu siis ennenkin näiden hankkeiden aikana. Esimerkiksi etukä-
+teismaksatus on tullut näille hankkeille — ihan viime vaalikauden loppupuolella teimme
+tämän muutoksen.
+
+Nyt käsillä oleva lakimuutos siis tuo parannusta siihen, että aiemmin viimeiset 2 kilo-
+metriä sitä valokuitukaapelin rakentamista eivät ole olleet tukikelpoisia. Jatkossa tämä
+omavastuumatka on vain 100 metriä, eli tuen hyödyntäminen helpottuu merkittävästi ja
+kynnys tarttua tukeen madaltuu. Ja bonuksena sitten vielä kaiken päälle on se, että kotita-
+lousvähennyksen hyödyntäminen sen työn osalta on mahdollista. Lisäksi julkisen tuen
+osuutta hankkeiden kokonaiskustannuksista lisätään ja entistä useammalle laajakaista-
+hankkeelle sallitaan lisätukea muun muassa takausten ja edullisten lainaehtojen muodossa.
+
+No, lisäksi olen saanut palautetta siitä, että saavatko nyt, näiden tukiehtojen helpottues-
+sa, meneillään olevat hankkeet, tai hankkeet, jotka on jätetty, tukea, vai mitä näille oikein
+tapahtuu. Mutta ministeri tuossa kertoi, että tukea, näitä helpotuksia, voivat nyt saada ne
+hankkeet, joille ei tukea vielä ole maksettu. Se on ilmeisesti se tulkinta, jota näissä käyte-
+tään. Siis varmasti hankkeet, jotka ovat nyt vireillä, voivat ajatella hyötyvänsä tästä uudes-
+ta laista — ne, joille ei todellakaan ole maksettu vielä tätä julkista tukea. Vanhojen hank-
+keiden toimintaedellytyksiä puolestaan parannettaisiin esimerkiksi tuki-intensiteettiä ko-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+rottamalla. Ja tukea saa jatkossa myös vähemmän harvaan asutuille alueille, kun alueen
+väestötiheyden perusteella ei enää rajoiteta tuen saantia.
+
+On siis huomattava, että meneillään on paljon uudistuksia, jotka tarvitsevat laajakaista-
+yhteyksiä. Otan esimerkiksi nämä sähköiset postilaatikot, joista puhuimme äskettäin, tai
+liikennepalvelut tai jopa peruskoulun digiloikan mahdollistamisen uusien oppimisympä-
+ristöjen, sisältöjen ja pedagogiikan muodossa.
+
+19.13 Timo Heinonen kok: Arvoisa herra puhemies! Oikeastaan edellinen edustaja Veh-
+kaperä tuossa aivan lopussa otti esille sen, mistä itse ajattelin puhua. Se on tämä kouluissa
+tapahtuva digiloikka, ja itse asiassa tällä on erittäin iso merkitys juuri näihin. Nyt meillä
+ovat monet koulut edelleen sellaisien yhteyksien päässä, että tämä digiloikka on kiinni ei
+enää oppimateriaaleista eikä osaamisesta — lapsethan osaavat jo kaiken ja opettajatkin
+kiihtyvällä tahdilla — vaan se on kiinni siitä, että tekniikka ei toimi. Silloin pidän erittäin
+myönteisenä, että näitä elävän maaseudunkin kouluja saadaan kuituyhteyden päähän, ja
+itse asiassa eivät edes kaikissa taajamakouluissakaan nämä yhteydet ole sellaisella tasolla.
+Olen saanut itse entisenä opettajana yhteydenottoja esimerkiksi huolestuneilta abiturien-
+teilta sähköisiä ylioppilaskirjoituksia ajatellen, miten nämä yhteydet toimivat, kun kevääl-
+lä on aika kirjoittaa — ja hetken päästä jo kaikki kirjoitukset — sähköisesti.
+
+Tämä on kallis urakka, mutta kun tuossa edellisessä kohdassa puhuttiin postinjakelusta,
+niin pidän kyllä paljon myönteisempänä sitä, että me laitamme niitä kymmeniä miljoonia
+mieluummin tähän, että rakennamme toimivat sähköiset verkot, kerran täällä on se tulevai-
+suus, haluamme tai emme. Silloin on hyvä, että etätyö toimii ja digipalvelut saadaan toimi-
+maan. Meillä on erilaisia suunnitelmia myös kuljetukseen ja liikenteeseen. Eli digiloikka
+pitää nyt oikeasti Suomessa ottaa sillä tavalla kuin ministeri Berner, joka on siinä ottanut
+hyvän otteen. Tämä työhän on aloitettu jo aikanaan — itse asiassa taisi olla silloin minis-
+terinä Suvi Lindén, kun tätä laitettiin liikkeelle — ja askelia on otettu, mutta ei tarvitse
+mennä kovinkaan syrjään, kun meillä on edelleen luvattoman heikkoja nettiyhteyksiä, [Pu-
+hemies koputtaa] ja hyvä, että tähän nyt tehdään parannusta.
+
+19.15 Jukka Kopra kok: Arvoisa puhemies! Esitys laajakaistarakentamisen tukea haja-
+asutusalueella koskevan lain muuttamisesta on varsin hyvä. Näitä kuituyhteyksiä on yritet-
+ty nyt vetää eri puolille Suomea jo monta vuotta, ja monessa tapauksessa rakentamisen es-
+teeksi on muodostunut tiukka tukikriteeristö. Rahaakin on jäänyt käyttämättä, kun tukikel-
+poisia hankkeita ei ole ollut varatun summan edestä. 
+
+Laajakaistarakentamisen näkökulmasta Suomi on harmillisen harvaan asuttu maa. Suu-
+reen osaan Suomea ei mitenkään saada rakennettua nykyaikaisia kuituyhteyksiä liiketalo-
+udellisesti kannattavasti ilman tukea. Laajakaistatuki on siis perusteltu.
+
+Pari ajatusta toivon tämän sinänsä hyvän ja kannatettavan esityksen jatkojalostajille har-
+kittavaksi. Voisivatko vapaa-ajan asuntojen valokuituyhteydet myöskin kuulua tuen pii-
+riin? EU-maaseuturahaston tukiehdoissa ovat myös vapaa-ajan asuntojen valokuituverk-
+koyhteydet tukikelpoisia. Nyt ja tulevaisuuden maaseudulla vapaa-ajan asunnon tai niin
+sanotun kakkosasunnon merkitys kasvaa kotitalouden toisena kotina ja pienyrityksen työ-
+paikkana. Julkisuudessa on paljon ollut myös keskustelua kaksoispaikkakuntalaisuudesta. 
+
+Olisi varmasti myös hyvä, jos tukiehdot olisivat samanlaisia vapaa-ajan asuntojen suh-
+teen laajakaistalaissa ja EU-maaseuturahaston tukiehdoissa. Vapaa-ajan asunnot saataisiin
+uudessa laajakaistalaissa tukikelpoisiksi esimerkiksi siten, että hyväksyttäisiin ne kustan-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+nukset, jotka kohdistuvat tilaajayhteyden osalle, joka ulottuu enintään 100 metrin päähän
+käyttäjän vakinaisesta tai vapaa-ajan asuin- tai sijaintipaikasta. Tämän lisäyksen vaikutta-
+vuus maaseudun elinvoimaisuuteen voisi olla erittäin suuri.
+
+Edelleen tukikelvottomien niin sanottujen mustien ympyröiden poistoa maaseudulta tu-
+lisi harkita ja mahdollisesti saattaa nämäkin alueet tuen piiriin. Hallituksen esityksen mu-
+kaan tukikelpoisia eivät ole sellaiset kustannukset, jotka ovat alueella, joka ulottuu kahden
+kilometrin päähän sellaisesta liityntäpisteestä, josta voidaan tarjota edistyksellisiä viestin-
+täverkkoja. Tässä yhteydessä kahden kilometrin etäisyydellä tarkoitetaan käytännössä
+Viestintäviraston merkitsemiä niin sanottuja mustia ympyröitä. Maininta on oikea silloin,
+kun kysymyksessä on kaupunkitaajama, jolla on aito mahdollisuus saada markkinaehtoi-
+sesti laajakaista- tai valokuituyhteys. Kuitenkin, jos tämä niin sanottu musta ympyrä on si-
+joitettu kunnan kirkonkylään tai muulle maaseutualueelle, niin pääsääntöisesti edellä mai-
+nittu edistyksellisten viestintäverkkojen tarjonta ei toteudu, ja voi kysyä, pitääkö teleope-
+raattorin ilmoitus valokuituverkkojen saatavuudesta paikkansa. On riski, että teleoperaat-
+tori näennäisellä ilmoituksella edistyksellisten viestintäverkkojen saatavuudesta Viestintä-
+virastolle vain suojaakin omaa kupari- ja mobiililaajakaistan liiketoimintaa. Voi olla niin-
+kin, että Viestintäviraston merkkaamien mustien ympyröiden alueella maaseudulla ei
+käytännössä ole markkinaehtoista valokuituyhteyksien tarjontaa, koska isot teleoperaatto-
+rit eivät halua investoida valokuituverkkoihin maaseudulle. Tästä on viitteitä eri puolilta
+Suomea.
+
+Toivon, että lakiesitystä tarkasteltaisiin valiokuntakäsittelyssä edellä esittämäni näkö-
+kohdat huomioiden.
+
+19.18 Eeva-Maria Maijala kesk: Arvoisa puhemies! Laajakaista olisi jo alun perin Suo-
+messa pitänyt rakentaa enemmän valtiovetoisesti, sillä onhan kyse liikenneväylästä. Teillä
+kulkeminenkin on Suomessa kaikille mahdollista. Minkä takia meidän laajakaistaverkko-
+jemme käyttäminen on vain tiettyjen henkilöitten etuoikeus? 
+
+Ongelmaksi on koettu nyt semmoinenkin asia, että on rakennettu paljon pieniä laajakais-
+taverkkoja kyliin. Niitä on hallinnollisesti erittäin hankala pyörittää, onhan kyse osuuskun-
+nista monestikin, jotka niitä pyörittävät, ja meidän täytyy nyt miettiä jatkossa, millä tavalla
+pystyisimme yhdistämään näitä osuuskuntia ja rakentamaan laajempia kokonaisuuksia
+näistä. Esimerkiksi kunta olisi riittävän iso, jopa maakuntatasolla voitaisiin ihan tämmöi-
+siä asioita pyörittää. On todella tarpeetonta hallinnon ja byrokratian rakentamista, että on
+tehty näitä pieniä toimijoita. 
+
+Sain Lapista äsken erittäin hyvä viestin henkilöltä, joka vastaa Lapissa laajakaistahan-
+ketyöstä. Hän kirjoitti: "Olen tänään käynyt kierroksilla koululaisten liikenneturvallisuu-
+desta ja digitalisaation laajentamisesta ja siitä, miten kunnat pitää sitouttaa ohjelmaan ja
+valvomaan kokonaisetua toiminnallisesti. Avoin verkko on päivän sana." Avoin verkko on
+päivän sana. Jatkammeko me sitä hommaa, että rakennamme suljettuja verkkoja? Eikö
+Suomessa olisi aika lähteä rakentamaan kuitenkin jo avointa verkkoa?
+
+19.20 Ari Torniainen kesk: Arvoisa herra puhemies! Tämä hallituksen esitys on todella-
+kin kannatettava. Toimivat ja mielellään myös vakaat ja nopeat sähköiset palvelut on saa-
+tava kaikkien suomalaisten saataville asuinpaikkaan katsomatta. Laajakaista onkin tuota-
+va kaikkien suomalaisten ulottuville, ja tämä hallituksen esitys laajentaa laajakaistayhte-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+yksien tuettua rakentamista ja samalla myös helpottaa laajakaistan leviämistä koko Suo-
+meen. 
+
+Nyt tukea on jäänyt jopa käyttämättä, koska ehdot tuen saamiseksi ovat olleet aivan liian
+tiukat. Aiemmin viimeiset 2 kilometriä laajakaistakaapelia eivät ole olleet tukikelpoisia.
+Jatkossa omavastuumatka lyhenee 100 metriin, ja uusi esitys helpottaa erityisesti harvaan
+asutuilla alueilla tuen hyödyntämistä. Samalla myös erikokoiset laajakaistaa tarjoavat yh-
+teisöt ja yritykset voivat toimia nykyistä joustavammin. Esitys on merkittävä parannus ny-
+kyiseen laajakaistatukeen ja helpottaa laajakaistan leviämistä. Tällaisia toimia tarvitaan,
+jotta koko Suomeen saadaan toimivat palvelut. 
+
+Sitten toisena asiana haluan ottaa vielä esille edustaja Kopran esille tuomat kaksi tär-
+keää asiaa. Toivon, että niitä asioita voidaan viedä eteenpäin myös tuolla valiokuntakäsit-
+telyssä, sillä tosiasia on, että esimerkiksi vapaa-ajan asuntojen valokuituyhteydet tulisi saa-
+da myöskin tuen piiriin, koska ne ovat myös siellä EU:n maaseuturahaston tukiehdoissa
+mahdollisia. Pitää muistaa, että meillä myös tuolla maankäyttö- ja rakennuslain uudistuk-
+sessa pyritään viemään niitä asioita eteenpäin, että vapaa-ajan asuntojen muuttamista py-
+syvään asumiseen joustavoitetaan. Se olisi todella tärkeä, tämä asia, ja toinen on niin sa-
+nottujen tukikelvottomien mustien ympyröiden poistaminen maaseudulta. Toivottavasti
+tämä myöskin huomioidaan. 
+
+19.22 Suna Kymäläinen sd: Arvoisa herra puhemies! Olemme tänään tässä salissa puhu-
+neet paljon yhdenvertaisuudesta ja työllisyydestä, ja näen tämän laajakaistarakentamista li-
+säämään tarkoitetun lain muun muassa näiden asioiden toteutumisen kannalta hyvin kan-
+natettavana esityksenä. Uskon, että tällä esityksellä voidaan lisätä laajakaistan leviämistä
+koko Suomeen. On harmillista, että nykyinen lainsäädäntö on aiheuttanut tilanteen, jossa
+tukea on jäänyt jopa käyttämättä liian tiukkojen ehtojen vuoksi. Uskon, että tämä hyödyt-
+tää erityisesti harvaan asuttuja seutuja.
+
+Tavoite saada koko Suomeen toimivat laajakaistat on yhteinen, ja sen tavoittamiseksi
+tarvitaan toki monia keinoja, ja tämä on yksi toivottava sellainen. Tärkeää on kuitenkin
+kiinnittää huomiota siihen, että hakemusten fokus on kaikkein eniten tukea tarvitsevissa
+alueissa, ja tämän varmasti huomioimme valiokuntakäsittelyssä. Myös itse kannatan edus-
+taja Kopran ja edustaja Torniaisen tässä jo esille ottamia seikkoja valiokuntakäsittelyssä
+esille otettaviksi.
+
+19.24 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Arvoisat edus-
+tajat! Kiitoksia näistä palautteista ja näkökulmista. Haluan vielä tuoda esille, että hallitus
+on toivonut, että valiokunta ja eduskunta käsittelisivät tämän esityksen kiireellisenä, ja
+odotan myöskin hyvää vuorovaikutusta ja myönteistä suhtautumista tämän esityksen
+eteenpäin viemiseksi. — Kiitos. 
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan.
+6
+
+

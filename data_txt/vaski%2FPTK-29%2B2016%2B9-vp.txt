@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM76E2.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 29/2016 vp
+
+Täysistunto
+
+Keskiviikko 30.3.2016 klo 14.01—16.13
+
+9. Hallituksen esitys eduskunnalle verotusmenettelyn ja veronkannon uudistamista koske-
+vaksi lainsäädännöksi
+
+Hallituksen esitys HE 29/2016 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 9. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään valtiovarainvaliokuntaan.
+
+Asian esittelee ministeri Stubb, olkaa hyvä.
+
+Keskustelu
+
+15.17 Valtiovarainministeri  Alexander Stubb (esittelypuheenvuoro):  Arvoisa rouva
+puhemies! Hallituksen esitys verotusmenettelyn ja veronkannon uudistamista koskevaksi
+lainsäädännöksi on erittäin laaja paketti ja toivottavasti myös saa tässä salissa myönteisen
+vastaanoton. Nyt käsissämme oleva hallituksen esitys on osa laajaa hallitusohjelmaan pe-
+rustuvaa verotusmenettelyä ja veronkantoa koskevaa uudistusta, niin sanottua Valmis-han-
+ketta. Osana Valmis-hanketta Verohallinto saa uuden tietojärjestelmän ja nykyiset yli 70
+erilaista verojärjestelmää korvataan yhdellä selkeämmällä ja modernimmalla kokonaisuu-
+della.
+
+Uudistuksen tavoitteena on viisi asiaa:
+1) yhtenäistää Verohallinnon kantamien verojen verotusmenettelyä,
+2) selkeyttää ja sujuvoittaa sääntelyä,
+3) vähentää verovelvollisen hallinnollista taakkaa ja parantaa oikeusturvaa,
+4) parantaa Verohallinnon toiminnan tehokkuutta ja mahdollistaa resurssien tarkoituk-
+
+senmukainen kohdentaminen,
+5) edistää sähköistä asiointia Verohallinnossa.
+Kyse on siis laajasta verotuksen normipurkuhakkeesta, joka on yksi valtiovarainminis-
+
+teriön tämän kauden tärkeimmistä toimenpiteistä hallituksen paremman sääntelyn ja nor-
+mipurun kärkihakkeissa. Uudistuksen tavoitteena on paitsi verotuksen selkeyttäminen ve-
+rovelvollisille myös hallinnon tehostaminen. Uudistuksen myötä Verohallinnosta säästyy
+noin 100 henkilötyövuoden suuruinen työpanos.
+
+Arvoisa puhemies! Nyt käsissämme oleva esitys sisältää uuden lain oma-aloitteisten ve-
+rojen verotusmenettelystä. Se yhtenäistää verotusmenettelyjä ja selkeyttää sääntelyä ko-
+koamalla yhteen kaikkien Verohallinnon kantamien oma-aloitteisten verojen yhteiset me-
+nettelyn säännökset. Nyt jokaisessa verolajissa on omat säännöksensä ja menettelynsä, jo-
+ten jatkossa tilanne olisi verovelvollisen kannalta huomattavasti selkeämpi, kun verojen ja
+maksujen maksamisessa, kannossa ja perinnässä sovellettavasta menettelystä säädettäisiin
+yhdessä laissa.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+Tässä vaiheessa Valmis-hanketta uuteen yhtenäiseen järjestelmään siirtyvät siis oma-
+aloitteiset verot, kuten arvonlisävero. Uutta ja yhtenäistä kantomenettelyä sovellettaisiin
+jatkossa kaikkiin Verohallinnon veroihin sitä mukaa kuin verolajit ovat siirtyneet Verohal-
+linnon uuteen tietojärjestelmään. Kokonaisuutena Valmis-hanke kestää koko hallituskau-
+den ajan.
+
+Lisäksi esitys sisältää kaksi muuta uutta lakia: uuden apteekkiverolain sekä uuden lain
+työnantajan sairasvakuutusmaksusta. Menettelysäännösten yhdenmukaistamisen ja sään-
+telyrakenteen uudistamisen johdosta tehdään lisäksi muutokset 36 muuhun verolakiin.
+Kyse on siis valtavan suuresta paketista ja silti vain osasta koko hallituskauden kestävää
+Valmis-uudistusta.
+
+Arvoisa puhemies! Muutama sana nyt käsittelyssä olevan esityksen yksityiskohdista.
+Ensin totean, että verotusta koskeva lainsäädäntö on aina runsaasti tunteita ja intohimo-
+
+ja herättävää. Neljän erillisen salkun haltijana pitää myöntää, että kaikista eniten palautetta
+kaikista asioista tulee aina veroista, ja jokaisella on oma mielipide verotusjärjestelmästä ja
+sen yksityiskohdista. Varmasti tämänkin asian käsittelyn osalta valtiovarainvaliokunta jou-
+tuu paneutumaan asiantuntijakuulemiseen toden teolla. Valtiovarainministeriössä esitystä
+on valmisteltu huolellisesti jo pitkään. Työ on aloitettu jo edellisen hallituskauden aikana.
+
+Millaisia konkreettisia muutoksia sitten tämä iso uudistus tuo tullessaan?
+Esitys sisältää esimerkiksi toimia, joilla pienyrittäjän hallinnollista taakkaa kevenne-
+
+tään. Yhä useampi yritys voi jatkossa antaa kausiveroilmoituksen neljännesvuosittain tai
+jopa kerran vuodessa kuukausittaisen veroilmoitusrumban sijaan. Tämä hyvä ja monelle
+yrittäjälle tärkeä muutos toteutetaan suurentamalla pidennettyjen verokausien soveltamis-
+alaan pääsevien yritysten kokorajoja. Konkreettisesti muutos tuo noin 73 000 uutta suoma-
+laisyritystä pidennettyjen verokausien piiriin. Myös verokauden muuttaminen mahdollis-
+tetaan yrityksille jatkossa vähemmällä byrokratialla.
+
+Merkittävä yksittäinen uudistus on myös se, että viranomaisten oikaisuaikaa verotukses-
+sa lyhennetään nykyisestä viidestä vuodesta pääsääntöisesti kolmeen vuoteen. Tämä lisää
+verovelvollisten oikeusturvaa ja parantaa verotuksen ennakoitavuutta. Oikaisuajan lyhen-
+täminen tarkoittaa sitä, että verotuksen lopputulos valmistuu nykyistä huomattavasti aikai-
+semmin. Tämä on yritysten ja muiden verovelvollisten kannalta positiivinen muutos.
+
+Kuten todettu, kaikissa verolajeissa olisi jatkossa yhtenäinen muutoksenhakujärjestel-
+mä. Se selkeyttää verovelvollisten sääntelyä. Myös arvonlisäverotuksessa ja varainsiirto-
+verotuksessa otettaisiin käyttöön oikaisuvaatimusmenettely, jossa muutosta haettaisiin en-
+sivaiheessa verotuksen oikaisulautakunnalta. Samoin ennakkopäätösvalitus tulisi mahdol-
+liseksi kaikkiin veroihin.
+
+Verotilin myöhästymismaksun osalta toteutetaan esityksellä odotettu uudistus, jolla seu-
+raamuksen tasoa ja rakennetta tarkastetaan. Tavoitteena on, että järjestelmä ei rankaisisi
+virheistä kohtuuttomasti, vaan pikemminkin kannustaisi antamaan verotiedot oikein ja
+ajallaan. Merkittävä uudistus on, että virheiden korjaaminen ilman myöhästymismaksua
+on jatkossa mahdollista nykyistä laajemmin. Tämä alentaa verovelvollisen kustannuksia,
+mutta samalla ilmoitusten oikeellisuus paranee.
+
+Myös oma-aloitteisten verojen veronkorotuksia koskevat säännökset yhtenäistetään.
+Sääntelyn uudistamisella rajataan veronkorotukseen liittyvää viranomaisharkintaa, mikä
+mahdollistaa yhtenäisemmän soveltamiskäytännön Verohallinnossa ja tuomioistuimessa.
+Tämänkin uudistuksen tavoitteena on lisätä päätösten ennakoitavuutta verovelvollisen
+suuntaan ja lisätä verotuksen oikeusvarmuutta.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+Tämän laajan paketin sisältämät uudistukset on tarkoitus saattaa eduskuntakäsittelyn
+jälkeen voimaan vuoden 2017 alusta. Kuten totesin, Valmis-hanke on monivaiheinen ja
+jatkoa seuraa heti loppuvuodesta seuraavalle eduskunnalle annettavalla Valmis-paketilla.
+Täsmäkohteina seuraavissa vaiheissa ovat erityisesti verotuksen reaaliaikaisuuden paran-
+taminen, sähköisen ilmoittamisen edistäminen ja veronkorotussääntelyn uudistaminen tu-
+loverotuksessa.
+
+Arvoisa puhemies! Koko Valmis-hankkeen tavoitteena on, että saamme aikaan kokonai-
+suudessaan nykyistä laadukkaamman, modernimman, tehokkaamman ja varmemmin to-
+teutetun sekä verovelvollisen kannalta ennustettavamman, kannustettavamman ja johdon-
+mukaisemman verotuksen. 
+
+15.25 Esko Kiviranta kesk:  Arvoisa puhemies! Hallituksen esitys verotusmenettelyn ja
+veronkannon uudistamisesta on laaja 558-sivuinen asiakirja. Siinä menee meiltä edustajil-
+ta tovi, kun luemme sen huolellisesti. Esitys on virkamiesportaan vuosikausien valmiste-
+lun hedelmä. Se on valtaosin tekninen ja vailla suurta poliittista mielenkiintoa. Esitys mer-
+kitsee veronoikaisumääräaikojen yhtenäistämistä eri verolajeissa. Yleinen määräaika olisi
+kolme vuotta. Määräajan laskemisen alkamisajankohta muuttuisi tuloverotuksessa siten,
+että se alkaisi jo verovuotta seuraavan vuoden alusta, kun se nykylain mukaan alkaa vero-
+velvollisen verotuksen päättymistä seuraavan vuoden alusta, siis vuotta myöhemmin.
+
+Oikaisuajan muutos koskisi ensimmäisen kerran verovuodelta 2017 toimitettavaa tulo-
+verotusta. Oikaisuaika olisi esityksen mukaan kolme vuotta verovuoden päättymisestä.
+Toisin sanoen se alkaisi 1.1.2018, siis tuosta verovuoden 2017 verotuksesta, ja päättyisi
+31.12.2020. Käytännössä oikaisuaika alkaisi siis jo ennen tuloveroilmoituksen jättä-
+misajan päättymistä. Nykylain mukaan verovuoden 2017 verotuksen oikaisuaika olisi viisi
+vuotta verotuksen päättymistä seuraavan vuoden alusta. Verovuoden 2017 verotus päättyi-
+si voimassa olevan lain mukaan 31.10.2018. Oikaisuaika alkaisi 1.1.2019 ja päättyisi
+31.12.2023. Käytännössä verovelvollisen oikaisuaika tuloverotuksessa siis lyhenisi esityk-
+sen toteuduttua kolmella vuodella.
+
+Neljäsosa oikaisuvaatimuksista on tullut vireille muutoksenhakuajan kolmen viimeisen
+vuoden aikana. Erityisesti korkeimman hallinto-oikeuden yrittäjälle myönteiset ennakko-
+päätökset ovat aika ajoin poikineet runsaasti oikaisuvaatimuksia. Nimenomaan yritysmaa-
+ilmalle on tärkeää tuo pitkä oikaisuaika. Niin sanotut tavalliset palkansaajat ovat yritys-
+maailmaa harvemmin tarvinneet pitkän oikaisuajan suomaa keinoa.
+
+Valtaosassa tapauksista myös veronsaajaa koskisi kolmen vuoden enimmäisoikaisuaika
+verovuoden päättymisestä. Lakiesitykseen sisältyy kuitenkin tietty tuloverotuksen oikai-
+suaikojen epäsymmetria veronsaajan hyväksi, mitä nykylaki ei sisällä. Verohallinto voisi
+jatkaa omaa oikaisuaikaansa eräillä laissa säädettävillä perusteilla yhdellä vuodella, siis
+neljään vuoteen verovuoden päättymisestä. Tämän lisäksi esitetään säädettäväksi perus-
+teista, joilla veronsaajan oikaisuaika pitenisi kolmella vuodella, siis kuuteen vuoteen vero-
+vuoden päättymisestä. Näissä tapauksissa veronsaajan oikaisuaika ei lyhenisi nykyises-
+tään laisinkaan. Olisi toivottavaa, että eduskuntakäsittelyssä oikaisuaikojen epäsymmet-
+riaa voitaisiin tarkastella ja korjata niin, että verovelvollisen oikeusturva ei nykytasoltaan
+vähentyisi.
+
+Tässä esityksessä on paljon hyvää. Tässä esityksessä on paljon hyvää Verohallinnon
+kannalta, mutta myös tietenkin verovelvollisen kannalta. Erityisen myönteistä veronmak-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+sajien kannalta on se, että Verohallinnon kustannukset aikaa myöten tämän esityksen ja
+koko esityspaketin toteuduttua voisivat alentua.
+
+15.30 Eero Lehti kok:  Arvoisa rouva puhemies! Yhdyn täysin siihen, mitä edellinen
+edustaja puhui, mutta puutun erääseen yksityiskohtaan, jolla on sinänsä merkitystä.
+
+Verohallinnolta voi pyytää ennakkopäätöksen. Luottamusperiaatteen mukaan normaali
+päätöksensaaja tyytyy siihen, varsinkin jos se on myönteinen, ryhtyy investoimaan tai toi-
+mimaan haluamallaan tavalla. Suomen verolainsäädännössä kuitenkin on omituisuus: Ve-
+ronsaajan oikeutta valvoo niin sanottu Vova, jossa on noin 40 Verohallinnon alaista viran-
+haltijaa, jotka ovat korkean tason veroeksperttejä. Heillä on oikeus poiketa tästä ennakko-
+päätöksestä, joka tekee kansainvälisten yritysten kannalta Suomen oikeuskäytännön aivan
+omituisen näköiseksi. Ei poikkea paljon Venäjän oikeuskäytännöstä. Ruotsissa näitä 40:tä
+henkilöä vastaa vain yksi. Ja kun tällä Vovalla on vielä tulostavoite, niin siellä on ollut ai-
+komus varsin pienistä asioista, mutta joita lukumääräisesti on paljon, ryhtyä käymään tätä
+neuvottelua. Esimerkkinä mainitsen tähän lopuksi korkeimman hallinto-oikeuden päätök-
+sen agility-koirajuoksuttamisesta, josta todettiin, että se juoksuttaminen ei koske ihmistä,
+jolloin arvonlisä määräytettiin 24 prosentin tasolle ja yritystoiminta loppui, kun se minun
+käsitykseni mukaan koskee myös sitä juoksuttavaa, jolloin sen olisi pitänyt mennä 14 pro-
+sentin mukaan. Ja päätös tehtiin 3—2-enemmistöllä.
+
+Tämä on muistoa siltä ajalta, kun oli veroasiamies. Toivon, että ministerillä olisi joskus
+aikaa paneutua ja korjata tämä. Nimenomaan kansainvälisiä tilintarkastustoimistoja ärsyt-
+tää, koska he toteavat, että nämä kustannukset ovat merkittäviä yrityksille eikä niitä, vaik-
+ka valtio olisi sinänsä velvollinen maksamaan, käytännössä makseta. — Kiitoksia.
+
+15.32 Pauli Kiuru kok (vastauspuheenvuoro):  Arvoisa rouva puhemies! Hyvä huomio
+tästä ennakkopäätösasiasta edustaja Lehdeltä. Itse törmäsin tähän asiaan 90-luvun alussa,
+ja hämmästykseni oli suuri, kun totesin, että ennakkopäätös maksaa mutta ennakkopäätös
+ei sido verottajaa, ja koin hieman ongelmallisena sen, että näin voi olla. Ja jos tilanne on
+edelleen tämä, niin se on varmasti asia, josta kannattaa tai pitääkin ottaa tarkempi selvyys,
+miten se tilanne menee, koska siinä nyt on vähän tällainen periaate, että kun palvelusta
+maksaa jotakin, niin silloin pitäisi saada sitä, mitä tilaa, ja verotettavan täytyy pystyä luot-
+tamaan viranomaisen päätöksiin, että sitten myös ne toimet, mitä hän sen päätöksen perus-
+teella tekee, ovat pysyviä ja pitäviä.
+
+15.33 Maria Tolppanen ps: Arvoisa rouva puhemies! Kaikenlainen normin ja byrokra-
+tian purku on tietenkin aina kannatettavaa jo yksistään sen takia, että tarkoituksena on su-
+juvoittaa erilaisia asioita. 
+
+Nyt käsittelyssä oleva asia, verouudistus, on ehdottomasti hyvä asia, jos kansalaiset,
+yrittäjät ja ennen kaikkea yksinyrittäjät ja mikroyrittäjät — joita muuten ihan sivumennen
+sanoen on aika paljon naispuolisissa henkilöissä — tuntevat verolain ja tuntevat verolain
+kiemurat. Jos asiat siirtyvät nettiin, niin se tietysti sujuvoittaa asioita mutta edellyttää, että
+henkilöt hallitsevat lainsäädännön. Henkilöitä tullaan aina tarvitsemaan, ja toivon, että hei-
+tä on myöskin käytettävissä tämänkin uudistuksen jälkeen pelkästään sen takia, että vero-
+lainsäädäntö tässä maassa on aika monimutkainen jo tälläkin hetkellä. Vaikka sitä nyt yri-
+tetään tässä saada sujuvammaksi, niin monimutkaiseksi se jää. 
+4
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+Se, mitä pelkään, arvoisa valtiovarainministeri, on se, että jos asiat hoidetaan netissä,
+niin miten käy kansalaisten, mikroyrittäjien, pienyrittäjien, yksinyrittäjien, itsensätyöllis-
+täjien oikeusturvan ja verotusoikeusturvan, mikäli he eivät tunne lain kirjainta. Tietenkin
+kansalaisten pitäisi se tuntea, mutta toki tiedämme, että kansalaiset eivät ole advokaatteja
+eivätkä ole tuomareita eivätkä varatuomareita, he eivät välttämättä tunne lakia juuri niin
+kuin se on eivätkä varsinkaan verolakia. Miten käy heidän oikeusturvansa, mistä he saavat
+sitä tämän uudistuksen jälkeen?
+
+Sitten toinen asia, mikä tässä on: jäin vähän pohtimaan sitä, millä tavalla oikeusturva li-
+sääntyy, jos valitusaika lyhenee. Varsinkin jos nyt käytetään pitempiä kausia ja silloin tämä
+valitusaika lyhenee, niin se kyllä saattaa osoittautua käytännössä huonoksi asiaksi kansa-
+laisen oikeusturvan ja verovelvollisen oikeusturvan kannalta sekä yritysten oikeusturvan
+kannalta muun muassa alvipalautusten osalta, jotka ovat aika pitkällisiä jo tällä hetkellä.
+
+Sitten yksi semmoinen ihan pieni vinkki, jota kannattaisi ehkä Verohallinnossa harkita:
+Vanhat, entiset verotarkastajat kysyvät, miksi heidän työpanostaan ei enää tarvita. Veroih-
+miset sanovat, että yksi verotarkastaja tienaa vuodessa noin kymmenkertaisesti oman palk-
+kansa. Eli verotarkastajia kannattaisi pitää Verohallinnossa edelleenkin, se olisi se yksi tie,
+millä saataisiin erilaisia veronkiertosysteemeitä, erilaisia liiallisia harkintasysteemeitä hie-
+man kurottua kasaan ja saataisiin asialliset verot perittyä sieltä, mistä ne pitääkin periä.
+
+15.36 Kari Uotila vas: Arvoisa rouva puhemies! Kun verojaoston pöydälle jaettiin tämä
+noin 600-sivuinen paketti, niin tietysti muistui mieleen, että verojaoston valiokuntaneuvos
+aiemmin totesi, että tällä vaalikaudella on kaksi tärkeää asiaa, jotka erityisesti verojaostos-
+sa täytyy muistaa, ja ne ovat Valmis-hanke ja BEPS. BEPSillä tarkoitetaan tätä kansainvä-
+listä toimintaa, joka täällä aiemmin oli esillä, elikkä veronkiertoa, verovälttelyä, sekä
+OECD:n että EU-tasolla tapahtuvaa toimintaa, joka on eduskunnan käsittelyssä. Toinen on
+tämä Valmis-hanke. Kun muistetaan, että tämä järkäle, joka 558-sivuisena nyt jaettiin, on
+vain ensimmäinen osa tätä Valmis-hanketta, niin kyllä tässä todella verojaostolla ja valtio-
+varainvaliokunnalla töitä tulee riittämään siitä huolimatta, että tämä on suurelta osin tek-
+nistä, nimenomaan verotusmenettelyyn liittyvää, eikä sinällään sisällä todennäköisesti ko-
+vin paljon mitään poliittisia jännitteitä. 
+
+Silti tämä on aika haastava mutta tärkeä työ. On ehdottomasti järkevää, että pystytään
+sujuvoittamaan, parantamaan veronmaksajan oikeusturvaa ja keventämään byrokratiaa, te-
+kemään asioista yksinkertaisempia, se on tosi tärkeää. Mitä tulee sitten näihin yksityiskoh-
+tiin, mitä täällä on muun muassa edustaja Kiviranta todennut oikaisuaikojen epäsymmetri-
+syydestä, niin varmaan niihin palataan, samoin kuin edustaja Lehden tuomaan ennakko-
+päätösproblematiikkaan. 
+
+Tuosta agility-päätöksestä, mihin edustaja Lehti viittasi: sitä myöskin opetus- ja kulttuu-
+riministeriö yritti käyttää perusteena, että tätä harrastusta ei laitettaisi valtion avustuskel-
+poiseksi liikuntajärjestöksi, mutta valtion liikuntaneuvosto oli kyllä viisaudessaan toista
+mieltä ja totesi, että vaikka verotuspäätös on ollut aikoinaan tällainen, niin siitä huolimatta
+agility on arvokasta liikuntatoimintaa siinä missä moni muukin laji.
+
+15.39 Timo Harakka sd: Arvoisa puhemies! On ilo toteuttaa ministeri Stubbin toive sii-
+tä, että suhtaudumme myötämielellä tähän lakipakettiin, ja samalla tuottaa myös pieni pet-
+tymys siinä, että tämä tuskin — kuten edustaja Uotila, kohtalotoverini verojaostosta, totesi
+— herättää leiskuvia intohimoja poliittisesti. Kaikki näemme tämän, että tässä on paljon
+5
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+äärimmäisen tervetullutta sääntelyn trimmausta erityisesti pienyritysten kannalta. Jatko-
+työn kannalta, jota siis on luvassa tuleviksikin vuosiksi, voisi kiinnittää huomiota ennak-
+koveroon, joka on monen pienyrityksen suuri murhe, onko mahdollista muuttaa se tulope-
+rusteiseksi jatkossa.
+
+Tämä Valmis-hanke edesauttaa sitä, että Verohallinto voisi olla paljon nykyistä parem-
+pi kilpailuetu Suomelle, kun houkutellaan ulkomaisia sijoittajia. Ennen kaikkea on tärkeää
+lisätä verotuksen ennakoitavuutta. Ennakkopäätösten saaminen Suomen verottajalta kes-
+tää aivan turhan kauan. Lisäksi niihin liittyy edustajien Lehti ja Kiuru osoittamia oikeus-
+varmuusongelmia. Tässä olisi paljon parannettavaa. Toinen tärkeä parannus verotuksen
+kilpailukyvyn kannalta olisi se, että Suomi liittyisi kansainväliseen veroriitojen ratkaisu-
+menettelyyn. Se on tällä hetkellä naapurimaamme Ruotsin valtti ulkomaisten investointien
+suhteen. Tämä valtiovarainministerille tuliaisiksi tästä ehkä muutoin hivenen raskaasta
+päivästä.
+
+15.41 Esko Kiviranta kesk: Arvoisa puhemies! Edustaja Lehti otti ansiokkaasti esille ve-
+rotuksen ennakkopäätösmenettelyjen kehittämisen. Se olisi tärkeää. Tehokkain ja paras-
+kaan ennakkopäätösmenettely ei kuitenkaan korvaa oikaisuaikojen lyhentämistä. Se palve-
+lee eri tarkoituksia ja on lisäksi Suomessa hyvin kallis tapa hoitaa asiaa. Meillähän on hyvä
+ennakkopäätöselin, Ruotsista kopioitu keskusverolautakunta, joka on toiminut 1960-lu-
+vun alusta saakka. Tunnen sen hyvin, koska olin pitkään sen jäsenenä. Sieltä saa ammatti-
+mainen toimija hyviä yritysmaailman ja muitakin ennakkoratkaisuja, kun vain kysyy, mut-
+ta se tosiaan maksaa. Sieltä pääsee myös hyvin nopeasti korkeimpaan hallinto-oikeuteen ja
+saa sitten lopullisen ratkaisun asiaan. Sekä veronsaajapuoli että verovelvollinen, siis en-
+nakkoratkaisun hakijaosapuoli, voivat tietenkin valittaa.
+
+Mutta ihan niin kuin edustaja Lehti sanoi, normaalin tuloverotuksen yhteydessä toimiva
+Verohallinnon ennakkoratkaisumenettely ei toimi, koska käytännössä se ennakkoratkaisu
+käy tyhjäksi, jos Veronsaajien oikeudenvalvontayksikkö siitä valittaa. Siinä tavallaan me-
+netetään se tilanne, mihin sitä ennakkoratkaisua haetaan, eli sen vuoden verosuunnittelu-
+mahdollisuus, eli se ei käytännössä oikein vain toimi.
+
+15.42 Maria Tolppanen ps: Arvoisa rouva puhemies! Kysyisin vielä arvoisalta ministe-
+riltä: onko mahdollista jossakin vaiheessa mennä tuohon alvin alarajan nostamiseen? Se on
+oikeasti semmoinen asia, joka on itsensä työllistäjille, mikroyrittäjille, erittäin kova pala.
+Me emme ehkä täällä huomaa aina tämän graniittitalon sisällä — tai tämä ei ehkä ole gra-
+niittia, mutta kuitenkin — sitä, että on yrittäjiä, joiden liikevaihto on vuodessa 24 000—
+30 000, kokonaisliikevaihto. Ne ovat hyvin usein esimerkiksi hierojia — naispuolisia —
+jalkojenhoitajia, kynsienhoitajia, joilla ei ole hirveän paljon alvivähennyksiä, mutta silti
+kuitenkin alvia pitää maksaa, ja sieltä ei jää sitä, mikä olisi elämisen ehto ihmiselle. Se al-
+vin alaraja pitäisi saada sille tasolle, edes sille tasolle, että katsottaisiin, että jää sen verran,
+mikä on tässä maassa semmoinen alin mahdollinen palkkataso, millä voidaan olettaa, että
+ihminen tulee ilman tukiaisia toimeen. Jos se saataisiin alvin alarajaksi, niin silloin voisim-
+me kenties päästä siihen, että näitä yksinyrittäjiä olisi meillä edelleenkin, pienyrittäjiä oli-
+si, ja kivijalkaliikkeet eivät myisi tyhjyyttä tai myisi vanhoja vaatteita, niin kuin nyt aina-
+kin tuolla periferiassa tapahtuu hyvin paljon.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 29/2016 vp
+15.44 Ville Skinnari sd: Arvoisa puhemies! Verotuksen jaksottaminen ja sitä kautta pien-
+yritysten toiminnan helpottaminen on hieno asia, ja on hienoa, että se etenee. Mutta minä
+haluaisin tässä nostaa esille oikeastaan sen asian, mikä tässä tuli jo yhdessä puheenvuoros-
+sa, eli sen, miten me voisimme helpottaa henkilöyhtiöiden eli yleensä hyvin pienten yritys-
+ten ennakkoverotusta. Tämä on iso ongelma monelle ja jopa kynnys lähteä omalla toimi-
+nimellä tai muulla henkilöyhtiöllä liikkeelle, koska yleensä joutuu aina maksamaan näitä
+ennakoita. Ja tähän liittyen toivoisinkin, että arvoisa ministeri vakavasti pohtisi sitä, että
+me voisimme samalla tavalla kuin palkansaajaakin kohdella tätä henkilöyrittäjää. Eli sit-
+ten verokauden lopussa tasattaisiin tämä vero, ja se maksuosuus, jos sellaista on, tulisi jäl-
+kikäteen. Tämä itse asiassa, uskon, helpottaisi sitä, että uskallettaisiin lähteä yrittäjäksi, ja
+sitä kautta luotaisiin myös työpaikkoja.
+
+15.45 Kari Uotila vas: Arvoisa puhemies! Kuten täällä on todettu, tämä koskee nyt vero-
+tusmenettelyä ja veronkantoa ja sinällään ei ota kantaa verotusmuotoihin, verotustasoihin
+eikä näihin muutoksiin, mihin edustaja Tolppasen kysymys viittasi. Mutta kun tästä asian-
+tuntijakuuleminen verojaostossa alkoi, niin tästä keskusteltiin, että kun selkiytetään, yksin-
+kertaistetaan, johdonmukaistetaan tätä verotusmenettelyä ja veronkantolainsäädäntöä, niin
+sitten, mikäli poliittista tahtoa löytyy ja on haluja tehdä sitten rakenteellisia uudistuksia —
+koskevat sitten ne verotustasoja, verotusmuotoja, niiden keskinäisiä suhteita, eri veromuo-
+tojen yhdistämistä ja niin edelleen — tämä luo paremman perustan ja yksinkertaistaa
+myöskin sitten tarvittaessa tällaisten muiden verotukseen liittyvien ratkaisujen tekemistä.
+Siinäkin mielessä tämä on positiivinen hanke, vaikka ei sisälläkään tällä hetkellä tähän ve-
+rotukseen rakenteeseen eikä tasoihin liittyviä kysymyksiä.
+
+Keskustelu päättyi.
+
+Asia lähetettiin valtiovarainvaliokuntaan.
+7
+
+

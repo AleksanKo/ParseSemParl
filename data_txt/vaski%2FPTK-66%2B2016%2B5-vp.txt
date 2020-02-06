@@ -1,0 +1,975 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM1C2.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 66/2016 vp
+
+Täysistunto
+
+Keskiviikko 8.6.2016 klo 14.07—15.50
+
+5. Eduskunnan oikeusasiamiehen kertomus vuodelta 2015 
+Kertomus K 11/2016 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 5. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään perustuslakiva-
+liokuntaan.
+
+Keskustelu
+
+14.12 Eduskunnan oikeusasiamies Petri Jääskeläinen  (esittelypuheenvuoro):  Arvoi-
+sa herra puhemies! (Hälinää — Puhemies koputtaa) Arvoisat kansanedustajat! Minulla on
+ilo ja kunnia esitellä teille eduskunnan oikeusasiamiehen toimintakertomus vuodelta 2015.
+Se on nyt 96. tämän maailman toiseksi vanhimman oikeusasiamiesinstituution vuosittai-
+nen kertomus.
+
+Sisällöllisesti tässä kertomuksessa näkyy aikaisempaa korostuneemmin kaksi oikeus-
+asiamiehen erityistehtävää, jotka perustuvat kansallisen lainsäädännön lisäksi kansainväli-
+siin sopimuksiin. Nämä ovat ensinnäkin vapautensa menettäneiden henkilöiden oikeuk-
+sien valvonta ja toiseksi vammaisten henkilöiden oikeuksien valvonta. Määrällisestä suh-
+teesta voin todeta, että kertomusvuonna tehtiin ennätysmäärä tarkastuksia. Kanteluiden
+määrä nousi hieman, mutta niiden käsittelyajat lyhenivät entisestään. Rakenteeltaan kerto-
+mus on pääosin edellisten vuosien kaltainen. Kertomuksen alussa on aikaisempien vuo-
+sien tapaan oikeusasiamiehen ja apulaisoikeusasiamiesten puheenvuorot kunkin itse valit-
+semasta aiheesta.
+
+Omassa puheenvuorossani käsittelen YK:n vammaisten henkilöiden oikeuksista tehtyä
+yleissopimusta, joka tulee Suomessa voimaan 10.6. eli ylihuomenna. Sopimuksen voi-
+maansaattaminen kesti Suomessa lähes 10 vuotta. Pidän valitettavana sitä, että kansainvä-
+listen ihmisoikeussopimusten ratifiointiprosessien hitaus on Suomessa pikemmin sääntö
+kuin poikkeus. Tämän vammaisyleissopimuksen ratifioinnissa Suomi jäi kolmen viimei-
+simmän EU-maan joukkoon.
+
+Sopimuksen ratifioinnin myötä vammaisten henkilöiden oikeuksien valvonnasta tulee
+uusi oikeusasiamiehen erityistehtävä. Kun tämä uuden tehtävän tuleminen on jo pitkään ol-
+lut tiedossa, tähän tehtävään on etukäteen valmistauduttu monin tavoin. Ensinnäkin vam-
+maisten henkilöiden oikeuksiin liittyvistä asioista on muodostettu oma, uusi asiaryhmän-
+sä, kun aikaisemmin ne sisältyivät useisiin eri asiaryhmiin, kuten sosiaalihuoltoon, sosiaa-
+livakuutukseen tai opetukseen. Oma asiaryhmä mahdollistaa vammaisten henkilöiden oi-
+keuksiin liittyvien asioiden paremman seurannan, kokonaiskuvan saamisen ja raportoin-
+nin. Toiseksi, vammaisten henkilöiden oikeuksien toteutuminen valittiin kanslian niin sa-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+notuksi perus- ja ihmisoikeusteemaksi jo vuonna 2014 ja teemaa jatkettiin kertomusvuon-
+na. Tätä teemaa pidetään silmällä ja siihen liittyviä kysymyksiä otetaan esille muun muas-
+sa jokaisella oikeusasiamiehen tarkastuskäynnillä. Kolmanneksi, uusi tehtävä on otettu
+huomioon suuntaamalla aikaisempaa enemmän tarkastuksia vammaisten henkilöiden asu-
+misyksiköihin. Tarkastuksia on tehty erityisesti kehitysvammaisten asiakkaiden yksiköi-
+hin, joista osa kuuluu myös oikeusasiamiehen toisen erityistehtävän eli vapautensa menet-
+täneiden henkilöiden oikeuksien valvonnan piiriin. Kanteluiden tutkinnassa ja tarkastuk-
+silla tehtyjen havaintojen perusteella vammaisten henkilöiden oikeuksien toteutumisessa
+on monia ongelmia. Ongelmia on havaittu esimerkiksi vammaispalvelujen järjestämises-
+sä, toimitilojen esteettömyydessä, asioinnin saavutettavuudessa sekä kehitysvammaisten
+henkilöiden itsemääräämisoikeuden rajoittamisessa.
+
+Apulaisoikeusasiamies Jussi Pajuoja kysyi puheenvuorossaan, miten järjestetään hyvää
+varhaiskasvatusta. Varhaiskasvatus tarkoittaa päiväkotia tai perhepäivähoitoa. Parhaillaan
+Opetushallitus laatii uusia valtakunnallisia varhaiskasvatussuunnitelmien perusteita. Nii-
+den pohjalta tehdään paikalliset suunnitelmat, jotka tulee ottaa käyttöön viimeistään elo-
+kuussa 2017. Päiväkodissa ja perhepäivähoidossa jokaiselle lapselle laaditaan henkilökoh-
+tainen suunnitelma. Haasteena on, että suunnitelmia toteutetaan tilanteessa, jossa kuntien
+resurssit eroavat merkittävästi toisistaan. Elokuun alussa tulee voimaan varhaiskasvatus-
+lain ja päivähoitoasetuksen muutos. Vähimmillään ne tarkoittavat, että kunta tarjoaa lap-
+selle 20 viikkotuntia hoitoa ryhmässä, jossa yhtä aikuista kohti on kahdeksan lasta. Ope-
+tushallitus kantaa huolta siitä, että tarjonnan määrällinen minimi merkitsee myös sisällöl-
+listä minimiä. Jos kunnalla on niukasti resursseja, esimerkiksi tieto- ja viestintäteknolo-
+giaan ei voida panostaa. Tämä herättää edelleen kysymyksiä siitä, milloin tullaan kriitti-
+seen pisteeseen, jossa valtakunnalliset perusteet eivät enää yhdenvertaisesti toteudu eri
+paikkakunnilla tai yksittäisen lapsen kohdalla.
+
+Apulaisoikeusasiamies Maija Sakslin käsittelee puheenvuorossaan perusoikeuksia ja
+julkisen talouden säästöjä. Julkisen talouden tasapainottamiseksi on tehty lähes kaikkiin
+perusoikeuksiin kohdistuvia leikkauksia. Leikkaukset ovat erityisen kohtalokkaita silloin,
+kun ne kohdistuvat kaikkein haavoittuvimmassa asemassa olevien henkilöiden oikeuksiin,
+yhdenvertaiseen kohteluun ja oikeusturvaan. Taloudellinen epävarmuus rapauttaa luotta-
+musta yhteiskunnan kykyyn turvata perusoikeudet. Kielteinen kehitys on mahdollista kat-
+kaista ylläpitämällä vahvaa ja avointa demokratiaa. Perusoikeuksille ja ihmisoikeuksille
+rakentuva demokratia luo turvallisuutta ja luottamusta yhteiskuntaan.
+
+Perus- ja ihmisoikeuksien kansainvälisessä valvontakäytännössä on vakiintumassa usei-
+ta edellytyksiä taloudellisiin syihin perustuville oikeuksien heikennyksille. Oikeuksien ra-
+joitusten ja niitä heikentävien säästötoimenpiteiden toteuttaminen edellyttää huolellista
+vaihtoehtojen selvittämistä. Säästötoimenpiteiden tulee olla välttämättömiä ja suhteelli-
+suusperiaatteen mukaisia, eivätkä ne saa olla syrjiviä. Säästötoimiin tulee lisäksi aina liit-
+tyä samanaikaisia toimenpiteitä, jotka kohtuullistavat ja lieventävät niiden vaikutuksia kai-
+kista haavoittuvimmassa asemassa oleviin ihmisiin.
+
+Oikeusasiamiehellä on keskeinen rooli perusoikeuksien noudattamisen valvonnassa ja
+säästöjen vaikutusten seuraamisessa haasteellisessa taloustilanteessa. Kantelujen ja tarkas-
+tusten perusteella on ilmeistä, että lainvastaisen toiminnan ja perusoikeuksien loukkausten
+taustalla on usein taloudellisia syitä. Usein riittämättömistä taloudellisista resursseista seu-
+raa merkittäviä puutteita oikeuksien toteutumiseen.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+Oikeusasiamiehen puoleen kääntyminen on helppoa ja maksutonta. Apua pyydetäänkin
+aiempaa useammin oikeusasiamieheltä. Sakslin toteaa, että valitettavasti juuri silloin, kun
+perusoikeuksien toteutumisen valvonnan tarve on suuri, kohdistuu myös laillisuusvalvo-
+jien voimavaroihin säästöpaineita sen sijaan, että niitä vahvistettaisiin perusoikeuksien tur-
+vaamiseksi myös julkisen talouden kriisin aikana.
+
+Arvoisa herra puhemies! Näiden puheenvuorojen jälkeen kertomuksessa on katsaus oi-
+keusasiamiesinstituution toimintaan vuonna 2015. Siellä on muun muassa asiamääriä ja
+toimenpiteitä sekä erilaisia kotimaisia ja kansainvälisiä tapahtumia koskevia tietoja. Vuon-
+na 2015 kanteluita saapui lähes 4 800. Luku on kaikkien aikojen toiseksi suurin ja noin 150
+suurempi kuin vuonna 2014. Kanteluita kuitenkin ratkaistiin vähän enemmän kuin niitä
+saapui. Vuodenvaihteessa vireillä ei ollut yli vuoden vanhoja kanteluasioita. Olen hyvin
+tyytyväinen siitä, että tämä kanteluiden käsittelyn yhden vuoden enimmäiskäsittelyaikata-
+voite saavutettiin nyt jo kolmannen kerran peräkkäin ja kantelujen keskimääräinen käsitte-
+lyaika oli vain 3,2 kuukautta. Kaikista kanteluista ja omista aloitteista yli 800 eli yli 17 pro-
+senttia johti johonkin oikeusasiamiehen toimenpiteeseen. Vuoden 2015 aikana tehtiin tar-
+kastuksia 152 kohteeseen. Luku on kaikkien aikojen suurin ja lähes 37 prosenttia suurempi
+kuin edellisenä vuonna. Pyrkimyksemme lisätä kanteluiden määrää liittyy osaltaan juuri
+näihin oikeusasiamiehen erityistehtäviin vapautensa menettäneiden henkilöiden ja vam-
+maisten henkilöiden oikeuksien valvojana.
+
+Kertomuksen seuraava laaja pääjakso, numero 3, käsittelee perus- ja ihmisoikeuksia.
+Tällainen jakso on kertomuksessa ollut jo perusoikeusuudistuksen voimaantulosta 1995
+lähtien perustuslakivaliokunnan toivomuksen mukaisesti. Tämä jakso on vähitellen kehit-
+tynyt yhä laajemmaksi, mikä ilmentää hyvin oikeusasiamiehen toiminnan painopisteen
+muutosta viranomaisten velvollisuuksien valvonnasta ihmisten oikeuksien edistämisen
+suuntaan. Tässä jaksossa merkille pantavaa on muun muassa se, että oikeusasiamiehen toi-
+minnasta YK:n kidutuksen vastaisen yleissopimuksen valinnaisen pöytäkirjan mukaisena
+kansallisena valvontaelimenä on laadittu jakso — se on tuo jakso 3.3. Kertomusvuosi oli
+ensimmäinen täysi vuosi, kun oikeusasiamiehellä on ollut tämä niin sanottu OPCAT-teh-
+tävä, josta oikeusasiamiehen on raportoitava myös kansainvälisille valvontaelimille. Tämä
+kertomuksen jakso muodostaa samalla kansallisen valvontaelimen vuosikertomuksen,
+joka tullaan julkaisemaan myös erikseen. Tässä kansallisen valvontaelimen tehtävässähän
+on kysymys tarkastusten tekemisestä paikkoihin, joissa pidetään vapautensa menettäneitä
+henkilöitä. Korostan, että kysymys ei ole vain vangeista tai poliisin säilytystiloissa olevista
+henkilöistä vaan myös esimerkiksi vanhuksista, lapsista, psykiatrisista potilaista ja kehitys-
+vammaisista henkilöistä eli juuri kaikkein haavoittuvimmassa asemassa olevista henkilöis-
+tä, jotka eivät yleensä itse kykene huolehtimaan oikeuksistaan ja kohtelustaan. Edellisten
+vuosien tapaan tässä perus- ja ihmisoikeusjaksossa on kerrottu myös oikeusasiamiehen pe-
+rus- ja ihmisoikeusmandaatista ja Ihmisoikeuskeskuksesta ja sen toiminnasta. Ihmisoi-
+keuskeskushan antaa oman kertomuksensa, mutta se ei ole valtiopäiväasiakirja eikä sitä kä-
+sitellä eduskunnassa samalla tavalla kuin oikeusasiamiehen kertomusta.
+
+Edelleen tässä jaksossa on kerrottu puutteista ja parannuksista perus- ja ihmisoikeuk-
+sien toteutumisessa — tuo jakso 3.4., tämä on perustuslakivaliokunnan toivoma kertomuk-
+seen jo vakiintunut jakso — sekä oikeusasiamiehen hyvitysesityksistä ja sovinnolliseen
+ratkaisuun johtaneista asioista. Nämä hyvitysasiat ja sovinnolliseen ratkaisuun johtaneet
+asiat ilmentävät oikeusasiamiehen kansliassa omaksuttuja uusia toimintatapoja, joilla ih-
+misiä voidaan auttaa pääsemään oikeuksiinsa. Jaksossa käsitellään myös vuoden perus- ja
+3
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+ihmisoikeusteemaa, joka siis kertomusvuonna oli vammaisten henkilöiden oikeuksien to-
+teutuminen. Edelleen jaksoon sisältyy perusoikeuksittain systematisoitu katsaus oikeus-
+asiamiehen havaintoihin ja kannanottoihin, jotka perustuvat kertomusvuonna ratkaistuihin
+kanteluihin ja omiin aloitteisiin. Lopuksi jaksossa on käsitelty kaikki kertomusvuoden va-
+litukset Suomea vastaan Euroopan ihmisoikeustuomioistuimessa.
+
+Neljäntenä jaksona on kaikkein laajin hallinnonalakohtainen tai asiaryhmittäinen jakso
+laillisuusvalvonnassa tehdyistä havainnoista. Kunkin asiaryhmän yhteyteen on sisällytetty
+kuviot kunkin asiaryhmän kantelujen määrän kehityksestä ja toimenpideprosentista niissä. 
+
+Kertomuksen lopussa on vielä liiteosa, jossa on oikeusasiamiestä koskevat perustuslain
+ja lain säännökset sekä eräitä tilasto- ynnä muita tietoja.
+
+Oikeusasiamiehen kertomus on tietenkin julkaistu suomeksi ja ruotsiksi, mutta vakiin-
+tuneen toimintatavan mukaisesti siitä julkaistaan myöhemmin myös englanninkielinen ly-
+hennelmä, ja nämä kaikki julkaistaan myös sähköisessä muodossa oikeusasiamiehen verk-
+kosivuilla.
+
+Arvoisa herra puhemies! Tässä oli esittelypuheenvuoroni. Toivon, että tämä kertomus
+antaa eduskunnalle mahdollisuuden arvioida paitsi oikeusasiamiehen toimintaa, myös lain-
+säädännön ja julkisen hallinnon tilaa sekä perus- ja ihmisoikeuksien toteutumista. — Kii-
+tos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Arvoisat edustajat, ajatus on, että
+käymme tässä hetken keskustelua pyydettyjen puheenvuorojen mukaisessa järjestyksessä
+ja jossakin vaiheessa myöhemmin oikeusasiamies kooten esille nousevia kysymyksiä ja
+kommentteja vastaa sitten edustajien käyttämiin puheenvuoroihin.
+
+14.27 Timo Heinonen kok: Arvoisa herra puhemies! Hyvä oikeusasiamies ja hyvät edus-
+tajakollegat! Kiitos hyvästä ja perusteellisesta esittelystä ja myös erinomaisesta kirjasta,
+joka antaa hyvän kuvan siitä, mitä päättyneenä vuonna on tapahtunut.
+
+Perus- ja ihmisoikeudet: Puutteita ja parannuksia -kohdassa nostetaan hyvällä tavalla
+esille perusopetuksen oppimisympäristöjen puutteita kirjassa sivulla 100. Pidän erittäin
+hyvänä sitä, että koulukiusaaminen nousee myös täällä esille ja todetaan, että koulukiusaa-
+miseen puuttuminen on riittämätöntä ja että kouluilla ei ole riittäviä keinoja havaita koulu-
+kiusaamista ja puuttua siihen. Tämä on viesti, joka kyllä pitää ottaa vakavasti kaikilla ta-
+soilla, niin täällä eduskunnassa, ministeriössä, Opetushallituksessa kuin ennen muuta kai-
+kissa kunnissa ja kaikissa kouluissa. Esille nostetaan myös koulujen jatkuvasti esille tule-
+vat sisäilmaongelmat ja kuntakohtaiset erot, jotka ovat suuria. Muun muassa oppilashuol-
+lon, kuntoutuksen ja muun koulunkäynnin ja oppimisen tuen saatavuus riippuu lapsen
+asuinpaikasta ja kotikunnan taloustilanteesta. Tämä on asia, mikä pitää vakavasti ottaa
+huomioon ja panna merkille. 
+
+Samassa kohdassa esille nostetaan myös oikeusprosessien pitkät käsittelyajat ja tuomio-
+istuinten rakenteellisen riippumattomuuden puutteet. Tästä olemme myös eduskunnassa
+usein keskustelleet. Oikeudenkäyntien viivästyminen on pitkään ollut ongelma, todetaan
+tässä kertomuksessa. Tämä on tullut esille niin kansallisessa laillisuusvalvonnassa kuin
+Euroopan ihmisoikeustuomioistuimen oikeuskäytännössä. Eräistä tilannetta parantaneista
+lakiuudistuksista huolimatta oikeudenkäynnit voivat edelleen kestää kohtuuttoman kauan.
+Itse haluan nostaa tähän erityisesti esille uhrin aseman näissä oikeudenkäyntiprosesseissa
+mutta myös erityisesti raiskausten ja erilaisten seksuaalirikosten uhrit, niin aikuiset kuin
+4
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+ennen muuta lapset. Niissä oikeudenkäyntiprosesseissa olisi kyllä Suomessa paljon paran-
+nettavaa, että ne olisivat näiden uhrien kannalta mahdollisimman hienotunteisia ja sellai-
+sia, että ei useita kertoja pitkienkin odotusaikojen jälkeen enää niitä haavoja uudelleen re-
+vittäisi auki vaan pystyttäisiin tekemään oikeudenkäyntiprosessit uhrien näkökulmasta en-
+tistä inhimillisemmiksi.
+
+Yksi asia, joka tässä usein on puhuttanut — ei enää onneksi puhuta — on suvivirsi, josta
+on tässäkin salissa useita kertoja puhuttu. Kansanedustaja Sari Sarkomaa nosti asian aika-
+naan esille, ja hänestä tehtiin kantelu silloin oikeusasiamiehelle. Apulaisoikeusasiamies
+Jussi Pajuoja oli samoilla linjoilla omassa päätöksessään edustaja Sarkomaan kanssa. Hä-
+nen mukaansa suvivirren sanoitus ei ole korostuneen uskonnollinen, sillä Jumala maini-
+taan vain kerran, ja apulaisoikeusasiamies totesi, että suvivirsi on osa suomalaista kevät-
+juhlaperinnettä eikä koulun kevätjuhla sinänsä ole uskonnollinen juhla. Itse nautin kyllä
+kovasti, kun sain olla niin pienten koululaisten kevätjuhlassa kuin ylioppilasjuhlassakin, ja
+jälleen muutamien vuosien tauon jälkeen suvivirsi siellä kaikui ja raikasi ja lapset pääsivät
+viettämään kaunista kesää sitten tämän perinteisen laulunkin siivittämänä. (Jari Myllykos-
+ki: Edustaja on varmaan myös sääennustaja!)
+
+Lääkärihelikopterien jakautuminen epätasaisesti on noussut myös esille. Eduskunnan
+oikeusasiamies Petri Jääskeläinen on pitänyt ongelmaisena Kaakkois-Suomen ja Pohjan-
+maan lääkärihelikopteritilannetta. Itse olen tästä saanut joitain yhteydenottoja liittyen ni-
+menomaan sosiaali- ja terveysuudistuksen vaikutuksiin näihin kysymyksiin. Nyt kun hal-
+litus on linjannut, että tietyntasoiset sairaalat vähenevät, niin tämäntyyppiselle palvelulle
+on kasvava tarve ja ensihoidon tarve täytyy mitoittaa uudelleen. Lääkärihelikoptereiden
+tarve tulee siis lisääntymään. Näillä kahdella alueella, Kaakkois-Suomessa ja Etelä-Poh-
+janmaalla, ensihoitolääkäri ei ehdi potilaan luo vaaditussa ajassa, alle puolessa tunnissa,
+tällä hetkellä.
+
+Mielenkiintoinen esille noussut asia oli myös tuo koululaissukupolvien kirjainasia, joka
+nyt elokuussa tulee korjatuksi. Mielenkiinnolla luin myös tuon päätöksen, missä käytiin lä-
+pi, että näille koululaisille, jotka ovat vuodesta 2004 tähän päivään asti käyneet peruskou-
+lua, on syntymässä tiettyjä ongelmia heidän oikeuksiensa toteutumisessa nimenomaan sen
+takia, että tietyt kirjaimet ja numerot ovat heillä pahasti sekoittumisvaarassa. Toivottavasti
+senkin kanssa selvitään.
+
+Arvoisa puhemies! Loppuun haluan nostaa esille vankeuslain, jota on nytkin aivan vii-
+me vuosina muutettu ja korjattu. Vankeuslaissa on tällä hetkellä 22 lukua, 230 pykälää ja
+noin 500 momenttia. Edustaja Zyskowicz viime vuonna nosti esille tätä samaa asiaa. Sa-
+maan aikaan, kun me sääntelyä puramme, me kirjaamme koko ajan kaikki erilaiset mah-
+dolliset asiat lakiin ja kaikki perusoikeusrajoitukset on nykyisen tulkinnan mukaan säädet-
+tävä lain tasoisesti. Esimerkiksi tuossa vankeuslaissa todetaan näin, että vangilta, joka on
+päihtynyt tai joka häiritsee kirjastossa käyntiä taikka vaarantaa vankilan järjestystä tai tur-
+vallisuutta, voidaan evätä oikeus päästä vankilan kirjastoon. Yritin etsiä sitten, mitä sano-
+taan kirjastolaissa. Ei siellä ole tällaista kirjausta lainkaan, eli ei ole tarvinnut kirjata sitä,
+voinko minä mennä päihtyneenä kirjastoon. Sitä ei ole lakiin kirjattu, mutta tämä on täyty-
+nyt kirjata lakiin, että päihtynyt vanki voidaan poistaa kirjastosta ja rajata häneltä osallis-
+tumista siihen. Toisena on se, että vielä hetki sitten meillä oli tilanne tarkkailuhaalareiden
+suhteen, jonka hallitus on korjannut, että tarkkailuhaalareita voidaan käyttää vankiloissa, ja
+myös se, että tietyissä tarkastuksissa voidaan pyytää vankia avaamaan suu. Sekin on nyt
+kirjattu sitten tarkemmin, ettei sitä ongelmaa enää ole.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+Yksi, mikä myös keskustelussa viime kerralla oli esillä, on tämä kirjoituskoneen käyttä-
+minen. Turun lääninvankilassa oli vanki, joka teki siellä kirjoituskoneella rikoksia, ja tä-
+hän vankila halusi puuttua. Hän lähetti petoskirjeitä ja teki rekisterimerkintärikoksia il-
+moittamalla esimerkiksi kaupparekisteriin valheellisia nimiä. Vankilan johto tähän puuttui
+ja poisti tämän rikoksentekovälineen, mutta laista ei löytynytkään kohtaa, että kirjoitusko-
+neen voi vangilta ottaa pois, vaikka hän toimi tällä tavalla, ja sekin täytyi lisätä tuohon van-
+keuslain 9 lukuun 1 §:ään, 1 momenttiin. Sinne lisättiin uusi kohta, että vanki saa vankilas-
+sa pitää hallussaan kohtuullisen määrän henkilökohtaista omaisuutta. Esineen tai aineen
+hallussapito voidaan evätä, jos esinettä tai ainetta käytetään tai on perusteltua syytä epäil-
+lä, että sitä tullaan käyttämään rikoksentekovälineenä.
+
+Hieman tuntuu siltä, että nyt kun olemme 500 momentissa, niin kuinka paljon näitä mo-
+mentteja pikkuhiljaa tulee, kun kaikkea ei vielä varmasti ole sinne osattu kirjata. Haluan
+kyllä kiittää edustajakollega Zyskowiczia siitä, että hän on näitä myös esille nostanut, voi-
+ko tilanne Suomessa olla sellainen, että kaiken pitää olla lakikirjaan kirjattu. Ei tämä pel-
+kästään vankiloiden tilanne ole, vaan hieman samanlaisia tilanteita on kouluissa nähtävis-
+sä, eli tällainen maalaisjärjen käyttäminenkin on tänä päivänä suurin piirtein kielletty. Olen
+joskus itse sanonut, että pitäisikö lakikirjaan kirjata myös pykälä, että maalaisjärjen käyt-
+tökin on sallittua.
+
+14.36 Anna Kontula vas: Arvoisa puhemies! Jatkan edustaja Heinosen esittämästä kysy-
+myksestä, pitääkö kaikki kirjata lakiin. Minä taas kysyn, olisiko jotain, mitä pitäisi kirjata
+lakiin, mitä sieltä vielä ei löydy. Minä kiinnitän huomiota erityisesti käsittelyssä olevan
+kertomuksen puutelistaan ja sivulla 99 esille nousevaan kysymykseen paperittomien pe-
+rustarpeista erityisesti sosiaali- ja terveyspalveluissa. Kertomus toteaa, että tässä esiintyy
+Suomessa tällä hetkellä merkittävästi puutteita ja epäselvyyksiä. Puutteita ja epäselvyyk-
+siä.
+
+Paperiton henkilö tässä yhteydessä voi tarkoittaa ihmistä, jolla ei ole Suomessa oleske-
+lulupaa. Tällainen henkilö ei aina ole maassa luvatta siinä mielessä, että hänellä saattaa olla
+oikeus esimerkiksi odottaa oleskelulupaansa Suomessa. Näin on esimerkiksi silloin, jos
+hän on mennyt naimisiin suomalaisen henkilön kanssa ja odottelee avioliiton perusteella
+tulevaa oleskelulupaansa, tai jos kysymys on henkilöstä, jota ei voida palauttaa kotimaa-
+hansa siitä huolimatta, että hänellä ei katsota olevan oikeutta mihinkään oleskelulupakate-
+goriaan. (Ben Zyskowicz: Miksei voida palauttaa?) Toisaalta paperiton voi tässä yhteydes-
+sä tarkoittaa myös henkilöä, jolla oleskelulupa on mutta jokin muu lupakategoria tai asia-
+kirja puuttuu, esimerkiksi kotikuntaoikeus. Tällainen henkilö voi periaatteessa olla myös
+suomalainen, esimerkiksi pitkään jossakin kolmannessa maassa asunut Suomen kansalai-
+nen, joka on palannut Suomeen, menettänyt jo mahdollisesti työhön liittyvän terveysva-
+kuutuksensa tässä toisessa maassa mutta ei ole vielä astunut suomalaisen kotikuntaoikeu-
+den piiriin. Tällaisena henkilönä voidaan tietyin varauksin pitää myös syntymätöntä lasta,
+jonka isä on Suomen kansalainen mutta äiti ei, jolloinka lapsella ei välttämättä ole niitä ter-
+veysoikeuksia, joita hän syntymänsä jälkeen saattaa kansalaisuuden kautta saada.
+
+No niin, nämä puutteet ja epäselvyydet eivät esiinny pelkästään suomalaisessa yhteis-
+kunnassa vaan useimmissa länsimaisissa yhteiskunnissa. Mutta aika monessa muussa
+maassa se ei ole niin suuri ongelma sen takia, että kulttuuri ei nojaa niin paljon säädöksiin
+ja asioiden formalisointiin. Jos ihmisellä ei ole terveysvakuutusta, asia hoidetaan sillä, että
+hän menee lääkäriin jonkun sellaisen Kela-kortilla, jolla terveysvakuutus on, ja sillä sipuli,
+6
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+tai perustetaan oma epävirallinen sairaala tai käydään jollakin puoskarilla, jolla ei ole vi-
+rallisia toimintavaltuuksia. Suomalaisessa kulttuurissa tällaisia toimintamenetelmiä perin-
+teisesti ei ole pidetty toivottuina, vaan sen sijaan on pyritty jokaiseen tilanteeseen luomaan
+säädöspohja tai vaihtoehtoisesti tai lisäksi sellainen viranomaiskäytäntö, joka vastaa tä-
+män ryhmän tarpeisiin ja tilanteeseen. Näin ei ole toimittu paperittomien kohdalla johtuen
+siitä, että Suomessa tämä ryhmä tai nämä ryhmät on tunnistettu varsin vastikään. Tämä on
+meille uusi kysymyksenasettelu, ja me emme ole ihan vielä kärryillä siitä, mitä pitäisi teh-
+dä, kenelle ja kenen. 
+
+Mutta tällaisena tilanne ei voi jatkua. Kysymys on kuitenkin hyvin perustavanlaatuisista
+oikeuksista silloin, kun puhutaan sosiaali- ja terveyspalveluista, pääsystä peruskouluun.
+Meillä on kaksi tietä: joko me luomme säätelyperustan näille ihmisille tai sitten me hyväk-
+symme sen, että suomalainen kulttuuri muuttuu vähitellen tällaisen junailun, trokaamisen
+ja virallisen järjestelmän ohittamisen suuntaan, koska selvää on, että nämä ihmiset eivät
+katoa meidän maastamme ja me emme voi ratkaista tätä pelkästään sillä, että oletetaan, että
+kaikki pysyy ennallaan, kunhan me emme puhu asiasta.
+
+Loppuun muutama huomio vielä siitä, mitä tässä kertomuksessa ei ole ja mitkä minun
+mielestäni ovat ihmisoikeusnäkökulmasta keskeisiä tässä kulttuurissa. Toinen on kysymys
+siitä, mitä tapahtuu palautetuille turvapaikanhakijoille, jotka ovat saaneet kielteisen pää-
+töksen. Meillä ei ole käytännössä mitään informaatiota tästä, ja minun nähdäkseni me
+emme voi arvioida meidän järjestelmämme toimivuutta niin kauan kuin me emme tiedä,
+kuinka pahasti arviot kenties ovat menneet pieleen tai kuinka hyvin ne osuvat kohdalleen.
+Toinen iso ihmisoikeuskysymys on lähisuhdeväkivalta, joka ei näy tässä asiakirjassa käy-
+tännössä millään lailla, vaikka kysymys on merkittävästä ja perustavasta ihmisoikeuson-
+gelmasta meidän yhteiskunnassamme.
+
+Nämä ovat molemmat kysymyksiä, jotka koskevat verrattain isoja ryhmiä, verrattain va-
+kavia asioita mutta jotka eivät saa sellaista valituksen muotoa tai paikannu sellaiseen ins-
+tituutioon, että ne luonnollisesti tulisivat esille oikeusasiamiehen toiminnassa. Kuitenkin
+esittäisin pohdittavaksi, onko joitakin väyliä tai keinoja, joilla myös tällaisia kysymyksiä
+olisi mahdollista oikeusasiamiehenkin käsitellä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Mäkisalo-Ropponen vielä, ja
+sen jälkeen käydään pieni keskustelu niin, että siinä oikeusasiamies ensiksi antaa omat
+kommenttinsa käydyssä keskustelussa esille tulleisiin asioihin ja sitten jatketaan muuta-
+malla kommenttipuheenvuorolla.
+
+14.42 Merja Mäkisalo-Ropponen sd:  Arvoisa puhemies! Eduskunnan oikeusasiamie-
+hen kertomus vuodelta 2015 on mielenkiintoista luettavaa, ja aion tutustua siihen perus-
+teellisesti, mutta tässä puheenvuorossani puutun vain yhteen ajankohtaiseen asiaan, johon
+myöskin oikeusasiamies kertomuksessaan puuttuu, eli ikäihmisten ja vammaisten henki-
+löiden kaltoinkohteluun. Valitettavasti tämä ilmiö on todellisuutta tämän päivän hoito- ja
+hoivatyössä. Viime viikolla ilmestyneen Valviran tekemän selvityksen mukaan 93 pro-
+senttia sosiaalihuollon ympärivuorokautisissa hoitoyhteisöissä työskentelevistä työnteki-
+jöistä oli havainnut asukkaiden kaltoinkohtelua työyhteisössään. Ilmiön pois kitkemiseksi
+on tehtävä kaikki voitava. Jotta päästään oikeisiin toimenpiteisiin, on löydettävä syyt, mis-
+tä tämä ilmiö johtuu.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+Kaltoinkohtelu on toimintaa, jossa toiselle ihmiselle aiheutetaan fyysistä, psyykkistä tai
+sosiaalista kärsimystä tai pahaa oloa. Kaltoinkohtelua on esimerkiksi potilaan suojaamatta
+jättäminen, ylilääkitseminen sekä epäasiallinen ja alentava käyttäytyminen ja puhuminen.
+Valviran tutkimuksen mukaan myös määräilyä, rankaisemista ja moittimista esiintyy
+usein. Myös hoidon laiminlyöminen, esimerkiksi wc:ssä käyttämättä jättäminen, on ylei-
+nen kaltoinkohtelun muoto. Myös itsemääräämisoikeuden loukkaaminen ja mitätöiminen
+ovat tässä oikeusasiamiehen kertomuksessa esiin tulevia kaltoinkohtelun muotoja. Myös
+ulkoilun mahdollistamisen laiminlyöminen kuuluu tämän saman ilmiön sisälle. Kaltoin-
+kohtelu on yleisempää haavoittuvassa asemassa olevien potilaiden kuten muistisairaiden,
+mielenterveyspotilaiden ja kehitysvammaisten hoitotyössä.
+
+Olen itse Muistiliiton puheenjohtaja ja siksi pohdin asiaa nyt tässä seuraavana tämän
+koko ajan kasvavan ihmisryhmän näkökulmasta. Mistä tällainen kaltoinkohtelu johtuu?
+Valviran selvityksessä mukana olleet työntekijät korostivat sitä, että kiire ja resurssipula li-
+säävät kaltoinkohteluriskiä. Uupuneet työntekijät eivät jaksa käyttäytyä asiallisesti. Uupu-
+minen toki voi johtua monista syistä, mutta varmuudella voidaan todeta, että liian vähäi-
+nen henkilökuntamäärä altistaa uupumiselle. Monelle hoitotyöntekijälle ammatti-identi-
+teetin ja todellisuuden välinen ristiriita aiheuttaa uupumusta. Suurin osa hoitotyöntekijöis-
+tä haluaisi tehdä työnsä hyvin, mutta olemassa olevilla resursseilla se ei ole mahdollista.
+
+Hallituksen päätös pienentää henkilöstömitoitusta yhteisökodeissa 0,4:ään on huono
+päätös, sillä se tarkoittaa käytännössä sitä, että esimerkiksi 15 asukkaan hoitoyhteisössä on
+väkisinkin aamu- tai iltavuorossa vain yksi hoitaja. Erityisesti muistisairautta sairastavan
+hoitotyössä tämä on ehdottomasti liian vähän, sillä läsnäolo on muistisairaiden hoidossa
+kaikkein tärkeimpiä ja tehokkaimpia haasteellisen käyttäytymisen hoitokeinoja.
+
+Muistisairaiden hoitotyössä tarvitaan hyvin koulutettua henkilökuntaa ja erityisosaamis-
+ta, sillä muistisairautta sairastavan kohtaamiseen tarvitaan erityistaitoja. Hyvin koulutettu
+työntekijä pystyy hoitamaan haasteelliset tilanteet ilman rauhoittavaa lääkitystä tai muuta
+kaltoinkohtelua. Onkin tärkeää varmistaa perus- ja täydennyskoulutuksen avulla muistisai-
+rautta sairastavien hoitotyössä työskenteleville riittävä ammattitaito ja osaaminen. Esimer-
+kiksi lääkkeettömien hoitokeinojen käytöstä haasteellisen käyttäytymisen kohtaamisessa
+on hoitoyhteisöissä yleensä ihan liian vähän tietoa, ja siksi ajaudutaan rauhoittavien lääk-
+keiden turhaan käyttöön, ja se voidaan sisällyttää kaltoinkohtelun sisälle. Tiedon ja taidon
+lisäksi tarvitaan oikeaa asennetta ja motivaatiota. Lisäksi hoitoyhteisöjen ilmapiirillä on
+suuri merkitys hoidon laadussa. Hyvä ilmapiiri helpottaa vaikeiden asioiden esille ottamis-
+ta ja eettistä keskustelua. Hoitoyhteisöissä tarvitaan yhteiset pelisäännöt, joiden toteutu-
+mista myös valvotaan. Lähijohtajan tehtävänä on varmistaa, että hoitoyhteisössä toimitaan
+sovittujen pelisääntöjen mukaisesti.
+
+Kaltoinkohtelu on todellinen ongelma. Siltä ei voi sulkea silmiään, ja sen kitkemiseksi
+meillä on riittävästi tietoa. Tiedon puutteesta ei ole nyt kysymys. Kysymys on siitä, aiom-
+meko yhteiskunnassa yhteisellä päätöksellä muuttaa tämän tiedon käytännöksi. Tämä edel-
+lyttää muutosta muun muassa asenteissa, myös resursseissa ja koulutuksessa. Toivottavas-
+ti oikeusasiamies tekee omalta osaltaan kaikkensa tämän ilmiön kitkemiseksi, ja tämä esil-
+lä oleva kertomus antaa erittäin hyviä lähtökohtia keskustelun jatkamiselle tästä tärkeästä
+asiasta.
+
+Lopuksi, arvoisa puhemies, Muistiliiton puheenjohtajana katson velvollisuudekseni ot-
+taa kantaa yhteen sanaan, jonka huomasin kertomusta lukiessani. Me emme saisi puhua
+enää tänä päivänä dementeistä emmekä dementtipaikoista. Nämä ovat ihmisarvoa alenta-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+via käsitteitä. Puhumme erilaisista muistisairauksista, joista osa voi johtaa dementoitumi-
+seen. Sellaista sairautta kuin dementia ei ole olemassakaan, mutta monet sairaudet voivat
+johtaa oireyhtymään, jonka nimi on dementia. Yleiskäsitteitä ovat kuitenkin aina muisti-
+sairaus ja muistisairautta sairastava ihminen. Olemme keskustelleet Muistiliitossa sairas-
+tuneiden kanssa tästä asiasta lukuisia kertoja, eivätkä he halua olla dementoituneita tai ai-
+nakaan dementtejä. He toivovat, että puhuttaisiin muistisairauksista.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja nyt oikeusasiamies, olkaa hyvä.
+— Josko 3 minuuttia tässä vaiheessa riittäisi, katsotaan.
+
+14.48 Eduskunnan oikeusasiamies Petri Jääskeläinen : Arvoisa herra puheenjohtaja!
+Kiitän näistä puheenvuoroista.
+
+Edustaja Heinonen nosti esille useita kohtia kertomuksesta ja muun muassa tuon van-
+keuslain. Näinhän se on kuin edustaja Heinonen toteaa, että meidän perusoikeusjärjestel-
+mässä kaikista perusoikeusrajoituksista on säädettävä laissa, ja tämä johtaa hyvin yksityis-
+kohtaiseen sääntelyyn, josta vankeuslaki on hyvä esimerkki. Toisaalta voin todeta, että
+vankilat ovat hyvä esimerkki siitä, että tuollaisessa suljetussakin laitoksessa näihin laitok-
+siin otetut eli vangit voivat Suomessa olla koko lailla turvallisin mielin sen suhteen, ettei-
+vät he joudu mielivallan kohteeksi. Tässä saavutuksessa kyllä tällä yksityiskohtaisella van-
+keuslailla on ymmärtääkseni oma merkityksensä. Epätyydyttävänä voidaan pitää sitä, että
+erilaisista vapautensa menettäneistä henkilöryhmistä juuri vankeja koskeva lainsäädäntö
+on selvästi parasta. Monissa muissa ryhmissä, vaikkapa nyt vanhusten osalta, lainsäädäntö
+puuttuu osittain kokonaan.
+
+Edustaja Kontula totesi aivan oikein, että kertomuksessa ei käsitellä sitä, mitä tapahtuu
+palautetuille turvapaikanhakijoille. Tämä on hyvä kysymys, ja meilläkin on ollut tästä kes-
+kustelua. Meidän henkilökuntaammehan kuuluu Jari Pirjola, joka on Euroopan neuvoston
+kidutuksen vastaisen komitean jäsen, ja hän muun muassa on nostanut esille tätä kysymys-
+tä, että siinä on sellainen tutkimuskohde. Tietenkään oikeusasiamies ei pysty siellä vieraas-
+sa valtiossa selvittelemään, mitä näille palautetuille turvapaikanhakijoille on tapahtunut.
+
+Niin ikään lähisuhdeväkivalta esiintyy kertomuksessa vain välillisesti viranomaisten
+kautta ja ehkä viranomaisyhteistyön kautta, mutta yksityiset henkilöthän eivät oikeusasia-
+miehen toimivaltaan kuulu.
+
+Edustaja Mäkisalo-Ropponen nosti esiin vanhusten kaltoinkohtelun. Se on tärkeä asia,
+ja tämä kaltoinkohtelun yleisyys on hätkähdyttävää tuon Valviran selvityksenkin mukaan.
+Me pyrimme tähän puuttumaan ja erityisesti näiden tarkastuskäyntien avulla. Se on nyt
+juuri yksi tehtävä, joka kuuluu kansallisen valvontaelimen tehtävien piiriin. Tämä tehtävä
+on monellakin tavalla kyllä hyvin haastava jo sen suhteen, kuinka saadaan esille sitä koh-
+telua, niitä tapahtumia, joita siellä hoitolaitoksissa tapahtuu, kun ne henkilöt useinkaan ei-
+vät itse pysty kantelemaan tai edes kertomaan niistä, mutta me olemme kehittämässä me-
+todeja tähän. Yksi tapa on se, että muun muassa kuullaan omaisia ja ehkä omaisten kautta
+saadaan tietoa. Jostain täytyy saada kaivettua niitä signaaleja, jotka kertovat, että kaikki
+asiat siellä eivät ole hyvin, jotta niihin päästään kiinni. Tarkastuksia ja näitä tarkastusme-
+todeja kehitetään. Ongelma on tietysti se, että on niin valtava määrä näitä erilaisia paikko-
+ja, joihin meidän tarkastuksia pitäisi tehdä. 152 tarkastusta on isoin määrä, mikä on tehty,
+ja näillä voimavaroilla se on suurin piirtein se taso, mitä me pystymme tekemään. Näitä
+9
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+kohteitahan, joissa näitä käyntejä pitäisi tehdä, on siis tuhansia tässä valtakunnassa. — Kii-
+tos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Muutama debatinomainen vastauspu-
+heenvuoro.
+
+14.52 Ben Zyskowicz kok (vastauspuheenvuoro):  Arvoisa herra puhemies! Herra edus-
+kunnan oikeusasiamies viittasi tähän doktriiniin, että perusoikeusrajoituksista on säädettä-
+vä lailla, ja vaikka hyväksyisi tämän doktriinin, niin kysymys siitä, mikä on perusoikeus-
+rajoitus, jää jäljelle. Onko se perusoikeusrajoitus, kun vangilta otetaan pois rikoksenteko-
+väline? Onko se perusoikeusrajoitus, kun Ateneumissa kielletään valokuvaaminen? Onko
+se perusoikeusrajoitus, kun oppilas laitetaan tupakoinnista kiinni jäätyään kirjoittamaan
+aine tupakoinnin haitoista? Nämä kaikki on laillisuusvalvonnassa nähty perusoikeusrajoi-
+tuksiksi. Itse olisin kyllä kovin harkitsevalla kannalla. Onko se perusoikeusrajoitus, että jos
+menen tuohon Töölön kirjastoon, kun se uudelleen avataan, ja rupean pitämään poliittista
+kiihkopuhetta kovaan ääneen lukusalissa, niin kirjastonhoitaja tulee varmasti ohjaamaan
+minut ystävällisesti sieltä kirjastosta ulos? Minun mielestäni se ei ole perusoikeusrajoitus,
+mutta näiden valvojien linjausten mukaisesti se ilmeisesti on perusoikeusrajoitus. Mutta
+sitä ei ole säädetty laissa, joten herra oikeusasiamies, älkää nyt vain tehkö esitystä, että pi-
+tää säätää laki siitä, että riehuva ihminen voidaan kirjastosta poistaa.
+
+14.53 Susanna Huovinen sd (vastauspuheenvuoro):  Arvoisa herra puhemies! On äärim-
+mäisen tärkeää, että tämä kertomus on täällä käsittelyssä, ja on hyvä, että saamme tietoa
+näistä epäkohdista, joita meillä vielä perusoikeuksien toteutumisessa Suomessa on. Ja pi-
+dän hyvänä — kun tässä puheenvuorossa Maija Sakslin toteaa, että taloudellinen epävar-
+muus rapauttaa luottamusta yhteiskunnan kykyyn turvata perusoikeudet ja ylläpitää hyvin-
+vointia ja turvallisuutta ja että tämän arvioidaan osaltaan luovan kasvualustaa niin nationa-
+lismille, muukalaisvihalle kuin pelon ilmapiirille — että laillisuusvalvojat kiinnittävät
+huomiota myös näihin asenteisiin, joita meillä vielä yhteiskunnassa on.
+
+Mutta, puhemies, haluan nostaa tässä esille sen asian, että kun nyt puhumme esimerkik-
+si vanhusten kohtelusta, josta edustaja Mäkisalo-Ropponen täällä hienosti jo käytti pu-
+heenvuoron, on tärkeää puhua osaamisesta, toimintakulttuureista ja asenteista, mutta aivan
+yhtä tärkeää on pitää huolta siitä, että tätä työtä tekeviä ihmisiä on riittävästi. Ja näin ollen
+pidän erittäin huonona ratkaisua, (Puhemies koputtaa) jossa nyt ollaan alentamassa hoita-
+jamitoitusta.
+
+14.55 Outi Mäkelä kok (vastauspuheenvuoro):  Arvoisa puhemies! Laillisuusvalvonnas-
+sa on kiinnitetty jälleen huomiota uskontoon ja uskonnonopetukseen kouluissa. Toinen rat-
+kaisu koskee tätä, että eri uskontoja ja elämänkatsomustietoa voidaan opettaa yhdessä, ja
+toinen sitten koskee tätä virsivisaa. Onko nyt niin, että näissä uskontoasioissa tarvittaisiin
+vielä jonkinlaista selventävää ohjeistusta kouluille, kun tuntuu, että nämä uskontoon liitty-
+vät kysymykset vuosittain nousevat esiin?
+
+14.55 Pia Viitanen sd (vastauspuheenvuoro):  Arvoisa herra puhemies! Minusta on hieno
+asia, että tämä vammaisten yleissopimus tulee voimaan ylihuomenna. Haluan myös omal-
+ta osaltani siitä iloni julki tuoda.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+Puhemies! Oikeusasiamies hyvin kuvasi tätä tämän päivän ongelmatiikkaa, että on teh-
+ty paljon leikkauspolitiikkaa, joka on erityisen kohtalokasta silloin, kun se kohdistuu haa-
+voittuvimpiin väestöryhmiin. Sitä kautta esimerkiksi vammaispuolella suurta huolta täällä
+eduskunnassa ja SDP:n keskuudessa ovat herättäneet esimerkiksi nämä aikeet rajata yli 75-
+vuotiaat vammaiset ihmiset vammaispalvelulain ulkopuolelle, ja sitä kautta moni on tullut
+kysymään, millä tällainen voi olla perusteltua. Ja minä toivoisin vakavat terveiset vielä täs-
+sä yhteydessä saada välittää hallituspuolueille: älkää tulko tekemään (Ben Zyskowicz: Ko-
+koomushan on jo tyrmännyt sen ehdotuksen!) tätä näin julmaa leikkausta.
+
+Toinen, minkä haluan sanoa, mihin edustaja Huovinen myös kiinnitti huomiota, (Puhe-
+mies koputtaa) on, että kyllä vanhustenpalvelun ja näiden hoitajamitoitusten täytyy pysyä
+nykytasolla ja niitä tulee pikemminkin (Puhemies koputtaa) parantaa kuin heikentää ja tätä
+kautta tehdä taas lyhytnäköisiä leikkauksia.
+
+14.57 Merja Mäkisalo-Ropponen sd (vastauspuheenvuoro): Arvoisa puhemies! Olen to-
+della pahoillani vanhustenhoidon resurssien vähentämisestä hoitoisuusmitoituksissa. Tätä
+asiaahan on käsitelty täälläkin useampaan kertaan, ja ministeri Rehula on sanonut, ettei mi-
+toitus ole ratkaisevaa, vaan ratkaisevaa on asiakkaan tarpeet. Valitettavasti olen kyllä mo-
+nessa kunnassa monen hoitajan kuullut sanovan, että eipä kukaan tullut kysymään asiak-
+kaiden tarpeita, vaan tuli ilmoitus siitä, että nyt vähennetään henkilökuntaa. Eivät tieto, tai-
+to, osaaminen eikä edes oikea asenne auta, jos työntekijöitä on liian vähän. Muistisairautta
+sairastavien hoidon asiantuntijana voin kyllä sanoa, että jos hoitoyhteisössä on 15 muisti-
+sairautta sairastavaa henkilöä ja heidän kanssaan on yksi ainoa hoitotyöntekijä, niin tämä
+yksi ainoa hoitotyöntekijä kyllä joutuu todennäköisesti turhaan lääkitsemään tai rajoitta-
+maan asiakkaita, ja se kyllä kuuluu sinne kaltoinkohtelun piiriin. Yksi hoitotyöntekijä ei
+voi hoitaa laadukkaasti 15:tä muistisairautta sairastavaa henkilöä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja viimeinen vastauspuheenvuoro. 
+
+14.58 Kimmo Kivelä ps (vastauspuheenvuoro): Puhemies! Tämä kertomus on jälleen va-
+kuuttavaa luettavaa. Erityisesti katsaukset ovat ajan valtimolla. Esittelypuheenvuorossa oi-
+keusasiamies kertoi, että kanteluitten käsittelyaikaa on saatu lyhennettyä. Hyvä niin —
+maailmahan on muuttunut olennaisesti internetin myötä. Kanteluiden määrä on suorastaan
+räjähtänyt. Monissa maissa tällaisia internetillä tehtyjä viranomaisasiakirjoja ei oteta käsit-
+telyyn. Itsekin suhtauduin aiemmin tähän epäilevästi, mutta näen hyväksi kansalaisten oi-
+keusturvan kannalta, että näin tapahtuu. Esimerkkinä muutama vuosi sitten oli, kun lapsi
+oli lastensuojelulaitoksesta tehnyt tämän asian. Tämä lapsi ei varmastikaan olisi osannut
+normaaleja postin kautta tapahtuvia viranomaisreittejä tätä ilmoitusta tehdä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Siirrymme puhujalistaan. 
+
+14.59 Ilmari Nurminen sd:  Arvoisa puhemies! Eduskunnan oikeusasiamiehen kerto-
+muksesta haluan nostaa edustaja Mäkisalo-Ropposen tavoin etenkin ympärivuorokautises-
+sa hoidossa olevien ihmisten aseman ja heidän perusoikeuksiensa toteutumisen. Meillä
+Suomessa merkittävä määrä, yli 50 000 ihmistä, asuu ympärivuorokautisessa hoidossa.
+Merkittävällä määrällä heistä on jonkinasteinen muistisairaus, ja heidän itsemääräämisoi-
+keutensa vahvistaminen on meidän keskeinen tavoitteemme tämänkin kertomuksen mu-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+kaan. Täällä on paljon keskusteltu muun muassa näitten perusoikeuksien toteutumisesta.
+Katsoin tuossa THL:n tutkimuksen, jonka mukaan puolet heistä ei ole päässyt edes viimei-
+seen kuukauteen ulos asuinrakennuksestaan, eli tarvetta perusoikeuksien vahvistamiselle
+on.
+
+Hallituksella on meneillään tällä hetkellä montakin kärkihanketta, jotka kohdistuvat
+ikäihmisten hyvinvointiin, mutta olen huolestunut siitä, että etenkin ympärivuorokautises-
+sa hoidossa olevat ihmiset uhkaavat jäädä vähemmälle huomiolle myös näissä painopis-
+teissä. On pitkään valmisteltu itsemääräämisoikeuslakia, joka olisi varsinkin näille ympä-
+rivuorokautisessa hoidossa oleville muistisairaille ihmisille erittäin tärkeä, nimenomaan
+heidän perusoikeuksiensa toteutumisen ja niiden rajoittamistoimenpiteiden oikeassa toimi-
+misessa eli käytännössä siinä, miten sitä ihmisarvoista kohtelua ja itsemääräämistä positii-
+visella tavalla sitten meillä Suomessa tuettaisiin.
+
+Täälläkin on tullut esille ikäihmisten erittäin valitettava kaltoinkohtelu, ja haluaisin it-
+sekin nostaa sen esille. Itsekin kiinnitin huomiota tähän Valviran kyselytutkimukseen, jon-
+ka mukaan peräti 93 prosenttia tästä ympärivuorokautisen hoidon henkilökunnasta oli ha-
+vainnut vanhusten kaltoinkohtelua. Nämä valvonnan keinot on myös aliresursoitu, eli to-
+siasiallisia keinoja on vähän aluehallintoviranomaisilla, kotihoidonpalveluista puhumatta-
+kaan, kuten täällä jo oikeusasiamies toikin esille.
+
+Itse tiedän myös monia esimerkkejä, joissa sitä, kun henkilökunta on nostanut näitä epä-
+kohtia esiin — heidän oikeuttaan kuitenkin lainsäädännöllä on viime kaudella vahvistettu
+— ei ole kuitenkaan katsottu hirveän hyvällä. Ja kun edustaja Huovinen toi esiin näitä ko-
+kemuksia ja henkilökunnan ammattitaidon parantamista, niin se on erittäin keskeistä tä-
+män kaltoinkohtelun ehkäisemissä. Tämä kaltoinkohtelu voi tarkoittaa kovakouraisuutta
+hoitotoimenpiteissä, karkeaa tai epäasiallista kieltä, määräilyä, rankaisemista, moittimista,
+eli puhutaan hyvin voimakkaista asioista niiden ihmisten kohdalla, jotka ovat täysin toisen
+ihmisen avun varassa, ja usein heidän toimintakykynsä on jo hyvin heikentynyt eivätkä he
+pysty puolustamaan omia oikeuksiaan. Mutta tässä samassa tutkimuksessa tuotiin kuiten-
+kin esille, että henkilökunnan määrällä on hyvinkin voimakasta vaikutusta tähän kaltoin-
+kohteluun, eli mikäli yksikössä koetaan kiirettä, niin tässä tapauksessa kaltoinkohtelua
+esiintyy selvästi enemmän. Tähän yhtälöön mielestäni sopii äärettömän huonosti muun
+muassa nämä hallituksen kaavaillut henkilöstömitoituksen laskut 0,4:ään.
+
+Tietysti tässä oikeusasiamiehen kertomuksessa nousevat esille vahvasti myös toimeen-
+tuloon ja sosiaaliturvaan liittyvät taloudelliset kysymykset ja etenkin nämä nykyiset pieni-
+tuloisiin kohdistuneet leikkaukset ja asiakasmaksujen korotukset, jotka täällä eduskunnas-
+sakin on hallituksen toimesta laitettu täytäntöön. Itse olen sitä mieltä, että nämä uhkaavat
+näiden ihmisten perusoikeuksia myös näiden palveluiden saatavuuden kautta.
+
+Arvoisa puhemies! Kysyisinkin vielä oikeusasiamieheltä, miten näette, että nämä lain-
+säädännön ja normien heikennykset — muun muassa mitoituksen lasku ja ylipäätänsä tämä
+leikkauspolitiikka, joka kohdistuu pitkälti tiettyihin ikäihmisiin ja samoihin väestöryhmiin
+ja haavoittuvampiin ihmisiin — vaikuttavat perusoikeuksiin. Tulevaa kertomusta tehtäes-
+sä näiden tulosten pitäisi olla kuitenkin paremmat. Onko tämä johdonmukaista politiikkaa
+tässä suhteessa?
+
+15.04 Satu Taavitsainen sd: Arvoisa puhemies! Hyvät edustajakollegat! Yhteiskuntam-
+me toiminnan eettisyys ja moraalisuus mitataan siinä, kuinka pidämme huolta heikoimmis-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+ta, kuten vammaisista, vanhuksista ja lapsista. Pohjoismaisen hyvinvointivaltion kantavia
+periaatteita on, että pidämme huolta kaikista yhteisvastuullisesti.
+
+Oikeusasiamiehen toimintakertomus on kattava ja puuttuu moniin tärkeisiin seikkoihin,
+joista me kansanedustajat myös olemme kuulleet suoraan kansalaisilta. On hyvä, että vii-
+me vuonna oikeusasiamiehen erityisteemana on ollut vammaisten henkilöiden oikeuksien
+toteutuminen. Eduskunta hyväksyi vammaisten henkilöiden oikeuksia koskevan YK:n
+yleissopimuksen demareiden hallituskaudella maaliskuussa 2015 ja edellytti, että ennen
+yleissopimuksen ratifioinnin loppuunsaattamista on varmistettava, että itsemääräämisoi-
+keuden rajoittamisesta säädetään ratifioinnin edellyttämällä tavalla. Yleissopimus on en-
+simmäinen vammaisten henkilöiden oikeuksia koskeva oikeudellisesti sitova kansainväli-
+nen asiakirja. Sopimuksella ei perusteta uusia oikeuksia vaan vahvistetaan jo olemassa ole-
+vat, muissa kansainvälisissä ihmisoikeussopimuksissa taatut oikeudet vammaisille henki-
+löille. Sopimus korostaa vammaisten henkilöiden oikeutta osallistua itseään koskevien
+asioiden valmisteluun ja päätöksentekoon. Vammaisyleissopimuksen ratifiointi on erittäin
+tärkeä ja odotettu vammaisten oikeuksien toteutumisen kannalta. Sopimus tulee voimaan
+kymmenen vuoden valmistelun jälkeen ylihuomenna perjantaina 10.6.2016.
+
+Arvoisa puhemies! Olen todella huolissani, että oikeusasiamiehen toimintakertomuk-
+sen mukaan vammaisten henkilöiden yhdenvertaiset osallistumismahdollisuudet eivät to-
+teudu. Puutteita on toimitilojen esteettömyydessä, asioinnin saavutettavuudessa, ja laitos-
+hoidossa itsemääräämisoikeuden rajoittamiskäytännöt vaihtelevat. Vammaisten lasten so-
+siaali- ja terveyspalvelut ovat riittämättömiä. Lainmukaisia palvelusuunnitelmia ja erityis-
+huolto-ohjelmia ei aina laadita, tai ne laaditaan puutteellisesti, tai niiden laatiminen viiväs-
+tyy aiheettomasti. Kuntien vammaispalveluja koskevat soveltamiskäytännöt ovat epäyhte-
+näisiä, ja soveltamisohjeet saattavat rajoittaa lakisääteisten palveluiden saamista. Vam-
+maisten henkilöiden työllistymistä ei tueta riittävästi. Monissa tapauksissa kehitysvammai-
+set henkilöt tekevät työtä esimerkiksi toimintakeskuksissa vähimmäispalkkaa pienemmäl-
+lä palkalla.
+
+Vammaiset henkilöt ja heidän läheisensä ovat kokeneet kilpailuttamismenettelyn sovel-
+tamisen sosiaali- ja terveyspalveluissa erittäin ongelmalliseksi monilla elämän osa-alueil-
+la, kuten asuminen, kuljetuspalvelut, apuvälineet, kuntoutus sekä puhe- ja viittomakielen
+tulkkaus. Näiden kokemusten perusteella käyttäjät ovat todenneet, että palvelujen järjestä-
+misvastuussa olevan tahon suorittama avoin kilpailutusmenettely on täysin sopimaton tapa
+vammaisten ihmisten välttämättömien elämän mittaisten palvelujen järjestämiseen. Sosi-
+aali- ja terveyspalveluita hankittaessa halpa hinta ei saa olla määrittävä tekijä, sillä se ei
+useinkaan ole toimiva ratkaisu laadun varmistamiseksi. EU:n hankintadirektiivi sallii teh-
+dä sosiaali- ja terveyspalveluiden hankintoja ottaen huomioon parhaan hinta—laatu-suh-
+teen. Uudessa hankintalaissa pelkän halvimman hinnan käyttäminen valintaperusteena tu-
+lisi poistaa. Vammaisilla ihmisillä ja heidän läheisillään on valtava määrä tyytymättömyy-
+den ja pettymyksen kokemuksia kilpailutusten seurauksena.
+
+Arvoisa puhemies! Miten hallitus laittaa nämä havaitut epäkohdat kuntoon, vammais-
+ten oikeuksien toteutuminen kun vaatii käytäntöjen parantumista siellä ruohonjuuritasolla.
+Monet kunnat leikkaavat rahaa vammaispalvelustaan, ja hallitus on tuonut valmisteluun
+omat säästötavoitteensa, mikä on johtanut suunnitelmaan rajata yli 75-vuotiaat vammaiset
+vammaispalvelujen piiristä pois. Jatkossa he saisivat palvelunsa sosiaalihuoltolain ja van-
+huspalvelulain perusteella, mikä tarkoittaa muun muassa palveluiden maksullisuutta. Täl-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+laista ikärajausta ei ole valmisteltu viime kaudella, vaikka ministeri Rehula on välillä niin
+antanutkin ymmärtää.
+
+Hallituksen normipurku uhkaa myös entisestään heikentää esteettömyyttä ja saavutetta-
+vuutta. Onkin tärkeää erottaa turha byrokratia niistä tärkeistä, kauan taistelluista normeis-
+ta, joilla suojellaan erityisryhmien mahdollisuutta tasavertaiseen elämään muiden kanssa.
+Hallituksen monet leikkaukset osuvat vammaisiin. Millä tavalla hallitus uskoo, että vam-
+maisten asemaa saadaan parannettua, kun lähtötilanne on tämä?
+
+Arvoisa puhemies! SDP on julkistanut tänä keväänä oman vammaispoliittisen ohjel-
+mansa, joka perustuu sosialidemokratian keskeisiin arvoihin: ihmisarvon ja vapauden kun-
+nioittamiseen, tasa-arvon toteuttamiseen, yhteisvastuuseen ja oikeudenmukaisuuteen. Oi-
+keus yhteiseen hyvään kuuluu kaikille. Arvostamme moninaisuutta ja ihmisten erilaisuutta
+ja haluamme rakentaa Suomea, jossa vammaiset henkilöt ovat aktiivinen ja yhdenvertai-
+nen osa yhteiskuntaa, eivät marginaalissa eivätkä yhteiskunnan reunoilla. Vammaisten
+henkilöiden yhdenvertainen osallisuus yhteiskunnassa tarkoittaa hyvää yhteiskuntaa kai-
+kille. Mikäli henkilöllä ei ole vapautta määritellä itse tarpeitaan tai toteuttaa itseään eikä
+liioin vapautta tehdä päätöksiä omista palveluistaan, ei voida puhua yhteiskunnallisesta
+osallisuudesta. Tähän on tehtävä muutos.
+
+Monesti esteettömyyden toteuttaminen ei vaadi suuria muutoksia: esimerkiksi kynnyk-
+set, luiskat, valaisu, induktiosilmukat, huomionauhat ynnä muut. On huomioitava myös,
+että esteettömästä ympäristöstä ja palvelusta hyötyvät kaikki. Jo nyt ja tulevaisuudessa yhä
+suurempi osa suomalaisista on ikääntynyttä ja kulkee erilaisten apuvälineiden kanssa ja on
+huonokuuloisia tai heikkonäköisiä. Esteettömyydestä ei ole kenellekään mitään haittaa.
+
+Arvoisa puhemies! Elämä on parasta kuntoutusta, ja vammaisten ja kaikkien muidenkin
+liikuntarajoitteisten ihmisten on päästävä kulkemaan ja liikkumaan. Arvoisa puhemies,
+kaikki päätöksenteko pohjautuu arvoihin. Meidän on kyseenalaistettava kaiken arvon mit-
+taaminen rahassa. Ensi vuosi on Suomen itsenäisyyden 100-vuotisjuhlavuosi. Vuoden tee-
+mana on Yhdessä. Toivon, että Yhdessä tarkoittaa aitoa yhdenvertaisuutta ja oikeusasia-
+miehen raportin epäkohdat saadaan ripeästi korjattua.
+
+15.13 Lea Mäkipää ps: Arvoisa puhemies! Vuosittain tulee keskustelua siitä, voiko suvi-
+virttä laulaa. Mielestäni on erittäin tärkeätä, että laulamme suvivirttä ja Maamme-laulua,
+on se sitten keväällä tai kesällä tai syksyllä, koska on tärkeätä, että noudatamme suoma-
+laista kulttuuria ja perinnettä ja myös suomalaisia kristillisiä arvoja, jotka kantavat niin yk-
+sityistä ihmistä kuin kansaa vaikeinakin aikoina.
+
+Mutta varsinaisesti tähän oikeusasiamiehen kertomukseen muutamia näkökohtia ly-
+hyesti.
+
+Vuonna 2015 oli tosiaan kanteluita vajaa 4 800, ja näitä tehdään nyt yleensä sähköpos-
+titse, jopa 65 prosenttia. Toimenpiteisiin johtavat ovat lukumäärältään suurimmaksi osaksi
+sosiaali- ja terveydenhuollon alalle, rikosseuraamusalalle sekä poliisiviranomaisiin koh-
+distuvia.
+
+On myös paljon puhuttu vanhuksista, ja on hyvä, että se asia nostetaan esille. Laitoshoi-
+dossa ja palveluasumisen yksiköissä asuu kymmeniätuhansia vanhusasiakkaita. Jatkuvasti
+tulee ilmi ravinnon, hygienian, vaippojen vaihdon, kuntoutuksen ja ulkoilun puutteita. On
+sanottu, että vangit saavat päivittäin jopa tunnin kävelysatsia mutta meidän vanhuksemme
+joutuvat olemaan sisätiloissa jopa monta päivää, ehkä viikkojakin ilman ulkoilumahdolli-
+suutta. Nämä puutteet voivat johtua henkilökunnan liian pienestä määrästä, ehkä henkilön
+14
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+motivaatiosta, työilmapiiristä, ja tämä taas puolestaan johtaa, niin kuin kirjassa on sanottu,
+liiallisen lääkityksen käyttöön.
+
+Sitten, perheiden avohuollon tukipalveluiden riittämättömyys ja viivästyminen aiheut-
+taa myöhemmin ongelmia tukea tarvitsevissa perheissä. Tämä johtaa lastensuojelun lisään-
+tyvään tarpeeseen ja näkyy myös lasten mielenterveysongelmissa. Olisi erittäin tärkeätä,
+että tähän ennaltaehkäisyyn satsattaisiin, annettaisiin sitä kotipalvelua neuvolasta lähtien
+perheille, niin ettei jouduttaisi niitä huostaanottoja tekemään. Viime vuonnakin oli kodin
+ulkopuolella huostaanotettuja lapsia, 0—17-vuotiaita, vajaa 15 000. Tästä puuttuvat
+THL:n mukaan vielä muutamien kuntien tulokset.
+
+Edelleen, koulukiusaamista ei ole saatu ratkaistua. Kouluilla ei ole riittäviä keinoja
+puuttua kiusaamiseen, mutta tämän pitäisi olla koulun ja kodin yhteinen murhe. Kodissa
+pitäisi vanhempien opettaa, kuinka lapsi kohtaa toisen, ja samoin koulussa pitäisi käydä
+avointa keskustelua siitä, että ketään ei saa kiusata, kaikkien lapsien pitäisi olla tasavertai-
+sia. Monet lapset joutuvat kärsimään näistä vuosikausia, joutuvat hylätyiksi ja eristetyiksi,
+ja myös monet ongelmat tulevat vuosien varsilla, ja nämä saattavat kestää monta vuotta,
+ehkä kymmeniä vuosia.
+
+Mutta varsinaisesti olen tyytyväinen, kun puhutaan sisäilmaongelmista. Olen sitä tutki-
+nut ja jättänyt myös toimenpidealoitteen ja tätä lyhyesti käsittelen. Sisäilmaongelmat ovat
+monissa maamme kouluissa yleisiä kuin myös päiväkodeissa ja julkisissa tiloissa. Suomes-
+sa altistuu päivittäin noin 800 000 ihmistä sisäilmaongelmille. Sisäilman eri altisteet voi-
+vat aiheuttaa monia sairauksia ja oireita. Kosteusvaurioihin liitettyjä sairauksia ja ongel-
+mia ovat hengitystiesairaudet, allergiat, pahoinvointi, oksennukset, päänsäryt, väsymykset
+ynnä muut. Näitä ei oteta vakavasti, vaan usein ne tilastoidaan vasten asianomaisen tahtoa
+psyykkisinä sairauksina mielenterveyspotilastilastoihin. Sairastumisen tunnistaminen
+mahdollisimman aikaisessa vaiheessa ja varhainen puuttuminen tilanteeseen ovat edelly-
+tyksiä sairauden pahenemisen ehkäisemiseksi. Esimerkiksi sairastuneen putoaminen työ-
+elämästä tai nuoren syrjäytyminen maksavat yhteiskunnalle valtavasti. Vuonna 2014 ym-
+päristöherkkyys lisättiin kansainväliseen ICD-10-tautiluokitukseen Suomessa nimikkeellä
+R68.81: Jatkuva tai toistuva poikkeuksellinen herkkyys ympäristön tavanomaisille teki-
+jöille. Kyseinen koodi ei kuvaa sairautta vaan oireita eikä täten oikeuta esimerkiksi sosiaa-
+livakuutusetuuksiin. Sosiaaliturva ei siis myöskään tunnista sisäilmasta sairastuneiden eri-
+tyistarpeita, kuten vähemmän oireilua aiheuttavaan asumistilaan muuttamisen synnyttä-
+miä ylimääräisiä kuluja.
+
+Koska aika rientää, niin yhteenvetona totean lopuksi, että olen jättänyt tästä toimenpi-
+dealoitteen ja toivoisin, että sitä käsiteltäisiin laajasti. Toivonkin, että hallitus ryhtyy toi-
+menpiteisiin ympäristöherkkyyden luokittelemiseksi oireilun sijasta sairaudeksi ja ympä-
+ristöherkkyyssairauksien sairauskoodien määrittelemiseksi sekä ryhtyy toimenpiteisiin li-
+sätäkseen terveydenhuollon ajanmukaista koulutusta ympäristöherkkyyksien hoitoon.
+Tämä lyhyesti.
+
+15.19 Kimmo Kivelä ps:  Puhemies! Voidaan sanoa, että oikeusasiamiesinstituutio on
+läntisen naapurimme lahja ihmiskunnalle ja maailmankaikkeudelle: anglosaksisessakin
+kielenkäytössä puhutaan ruotsinkielisellä sanalla "ombudsman". Se on levinnyt kaikkialle
+tuo termi. Paasikiven sanoin maantieteellemme emme mahda mitään, mutta ainakin tästä
+on seurannut se, että me olemme olleet ensimmäisten joukossa, joilla on tämä instituutio,
+joka on elimellinen osa toimivaa yhteiskuntaa, oikeusvaltiota, instituutio, joka todellakin
+15
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+valvoo, että perusoikeudet ja mahdollisuus ihmisarvoiseen, inhimilliseen elämään toteutu-
+vat.
+
+Arvoisa puhemies! Tässä eräät puhujat, edellinen puhuja ja edustaja Mäkelä, viittasivat
+uskonnonvapauslakiin. En nyt varsinaisesti halunnut siitä puhua, mutta muistan, kun edel-
+lisellä vaalikaudella perustuslakivaliokunnassa suvivirsiasiaa käsiteltiin, ja kyllä täytyy
+suoraan sanoa, että varsin kornilta se tuntui: eikö tärkeämpiä asioita olisi käsiteltävänä, kun
+asiantuntijat siitä taittoivat peistä ja kirjoittivat asiantuntijalausuntoja. Kyllä siinä hiljaa
+ajattelin, että kyllä oppineitten aika menee nyt hukkaan moisten kysymysten kanssa. Ih-
+mettelen tätä erityisesti sikäli, kun meillä kuitenkin on ollut pian 15 vuotta, muistaakseni
+vuodesta 2003 uskonnonvapauslaki, jonka henki on siis ollut tämmöinen positiivisuuden
+toteutuminen. Meillä on pitkään ollut tämmöinen legalistinen perinne, että se, mikä ei ole
+erikseen kielletty, (Puhemies koputtaa) on sallittua. Nimenomaanhan tämän (Puhemies ko-
+puttaa) lain henki on positiivinen.
+
+15.21 Anna Kontula vas: Arvoisa puhemies! Haluan tuoda esille vielä yhden ilmiön, jol-
+la nähdäkseni on lukuisiakin kytköksiä perusoikeuksiin. Kutsun sitä sosiaaliturvaan liitty-
+väksi byrokratiakitkaksi. Kotikaupungissani Tampereella yksinäisen henkilön normaali
+toimeentulotukihakemus, silloin kun et ole sairas, silloin kun et ole pätkätyöläinen tai
+muista syistä erikoistapaus, on lähes 40 sivua. Jos olet perheellinen, normaali hakemus hel-
+posti on 80 sivua. Tiedetään, että merkittävä osa toimeentulotukea hakevista henkilöistä on
+päihde- ja mielenterveysongelmaisia, vanhuksia, kouluttamattomia, maahanmuuttajia tai
+muulla tavoin sellaisia ihmisiä, joilla ei ole kovin korkea kyky käsitellä vaikeita, byrokraat-
+tisia kysymyksiä. Tiedetään myös, että arvioiden mukaan jopa 50 prosenttia heistä, jotka
+ovat oikeutettuja toimeentulotukeen, jättää sitä hakematta ja että byrokratia todennäköises-
+ti on yksi keskeisimpiä syitä siihen, miksi näin tehdään. Se tarkoittaa, että Suomessa on
+mahdollisesti jopa 200 000 sellaista ihmistä, jotka elävät alle 480 euron kuukausituloilla
+pelkästään sen takia, että eivät osaa heille tarkoitettua etuutta hakea — kykene, halua, jos-
+takin syystä.
+
+Tällä on minun mielestäni selkeä yhtymäkohta ainakin välttämättömään huolenpitoon,
+koska kysymys on viimesijaisesta etuudesta, jota on useaan kohtaan käsitelty erilaisissa
+perusoikeuspapereissa nimenomaan tässä yhteydessä. Kysymys on minun mielestäni
+myöskin yhdenvertaisuudesta, koska eri kunnissa vaadittujen liitteiden luettelot poikkea-
+vat merkittävästi toisistaan — toiset antavat toimeentulotukea huomattavasti liberaalim-
+min, ja toisissa taas liitelistat ovat pitkiä, niin kuin meillä Tampereella — ja myös sen
+vuoksi, että se tuki, jota sosiaalitoimet antavat näiden hakemusten tekemiseen, vaihtelee eri
+kunnissa merkittävästi. Minun nähdäkseni tällä on yhtymäkohtia myös hyvään hallintota-
+paan aivan ilmeisesti, koska kysymys on myös sellaisten liitteiden vaatimisesta, joita joko
+ei tarvita lainkaan tai joidenka sisältämät tiedot etuuskäsittelijä saa helpommin kysymällä
+suoraan asiakirjan laatijataholta.
+
+Minun mielestäni toimeentulotukibyrokratia vaikuttaa ihmisten perustoimeentuloon ja
+sen turvaan tällä hetkellä huomattavasti enemmän kuin esimerkiksi toimeentulotuen suu-
+ruus. Kysyisinkin oikeusasiamieheltä: mitä keinoja tämän ilmiön käsittelyyn tai siihen
+puuttumiseen ehkä eduskunnan oikeusasiamiehellä voisi olla?
+
+15.25 Satu Taavitsainen sd: Arvoisa puhemies! Suomalaiset — sekä päättäjät että kansa-
+laiset — ymmärtävät hyvin sen, että heikon taloustilanteen aikana on tehtävä toimia talou-
+16
+
+
+
+Pöytäkirjan asiakohta PTK 66/2016 vp
+den parantamiseksi. Tällä hallituskaudella talouden kohennustoimet ovat kuitenkin osu-
+neet heikoimpiin ihmisryhmiin, kuten lapsiin, vanhuksiin ja vammaisiin. Ne ovat puhu-
+neet karua kieltään, kun leikkauksia on tehty lähes kaikkiin perusoikeuksiin.
+
+Pidän vaarallisena sitä kehitystä, että leikkaukset kohdistuvat kaikkein haavoittuvim-
+massa asemassa oleviin ihmisiin. Tässä puheenvuorossa haluan keskittyä vanhuksiin, jot-
+ka nousivat oikeusasiamiehen toimintakertomuksessa esille. Ei ole ollenkaan reilua leikata
+jo ennestään pienituloisten vanhusten toimeentulosta ja palveluista. Hallituksen päättämät
+sosiaali- ja terveydenhuollon asiakasmaksujen korotukset ja lääkekulujen korvausten leik-
+kaukset osuvat todella pahasti monien vanhusten jokapäiväiseen elämään.
+
+Kaikkein ankein on kuitenkin yksin kotona asuvien ja laitoksissa vailla omaisten huo-
+lenpitoa elävien vanhusten kohtalo. Kotona asuvat kokevat turvattomuutta eivätkä pysty
+hoitamaan asioitaan, koska esimerkiksi kuljetus tai avustajapalvelut toimivat heikosti. Hoi-
+tolaitoksista tehdyt kantelut ja julkisuuteen nousseet kertomukset ovat paljastaneet vanhus-
+tenhoidossa järkyttäviä epäkohtia: liian vähäistä tai ravintoköyhää ruokaa, säästämistä vai-
+poissa, kuntoutuksessa ja ulkoilussa, jopa hiljaiseksi lääkitsemistä — yksinkertaisesti hy-
+vän hoidon ja kohtelun puutetta.
+
+Saatu viesti on otettava tosissaan ja epäkohdat on korjattava. Kysymys ei ole yksittäis-
+tapauksista ja vähäpätöisistä ongelmista, sillä laitoshoidossa ja palveluasumisen yksiköis-
+sä asuu kymmeniätuhansia vanhuksia. Usein vanhustenhoidon laiminlyönnit johtuvat liian
+vähäisestä henkilökunnasta. Pidän erittäin huonona sitä, että hallitus aikoo sallia henkilös-
+tömitoituksen alentamisen, kun on hyvin tiedossa, että hoitajien määrän vähentäminen li-
+sää vanhusten turvallisuusriskejä ja heikentää hoitajien mahdollisuutta tehdä hyvää hoiva-
+työtä. Silti hallitus aikoo säätää vanhusten tehostetussa palveluasumisessa ja vanhainko-
+deissa henkilöstömitoitukseksi vain 0,4 hoitajaa hoidettavaa kohti. Säästötoimi on erittäin
+kyseenalainen, eikä sillä todennäköisesti edes saavuteta 70 miljoonan euron tavoitetta, on-
+han muun muassa THL arvioinut säästön olevan enintään 20 miljoonaa euroa.
+
+Riittävä hoitohenkilömäärä on yksi askel parempaan. Kuntien on myös huolehdittava
+vanhuspalveluiden päätöksenteosta, ohjeistuksesta ja tiedottamisesta, järjestettävä myön-
+netyt palvelut viivytyksettä sekä — mikä tärkeintä — huolehdittava omavalvonnasta. Li-
+säksi tarvitaan riittävää aluehallintoviranomaisten valvontaa, ja niillä on oltava riittävät re-
+surssit valvoa ja puuttua sekä kodeissa että hoitolaitoksissa annettavan hoidon puutteisiin.
+
+Säästöjen sijasta vanhustenhoitotyö kaipaa kipeästi kehittämistä. On sekä inhimillisesti
+viisasta että taloudellisesti järkevää edistää ennalta ehkäiseviä palveluja ja kuntoutusta.
+Vanhukset itse kertovat, että eniten satuttavat välinpitämättömyys ja yksinäisyys. Kanna-
+tankin raskaan laitoshoidon ja yksin asumisen vaihtoehdoksi kevyempää yhteisöllisen asu-
+misen mallia, jossa toteutuvat arjen turva ja palvelut. Meidän tehtävämme on taata vanhuk-
+sille arvokas elämä, siihen liittyvä toimeentulo ja huolenpito. Tärkein arvo vanhustenhoi-
+dossa on edelleen ihmisarvon kunnioittaminen.
+
+Keskustelu päättyi.
+
+Asia lähetettiin perustuslakivaliokuntaan.
+17
+
+

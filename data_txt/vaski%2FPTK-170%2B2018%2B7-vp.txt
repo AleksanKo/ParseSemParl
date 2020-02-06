@@ -1,0 +1,657 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM9229.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 170/2018 vp
+
+Täysistunto
+
+Tiistai 5.3.2019 klo 14.11—18.22
+
+7. Hallituksen esitys eduskunnalle laiksi kaivoslain 32 ja 34 §:n muuttamisesta
+Hallituksen esitys HE 293/2018 vp
+Valiokunnan mietintö TaVM 40/2018 vp
+
+Ensimmäinen käsittely
+
+Puhemies Paula Risikko: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 7. asia.
+Käsittelyn pohjana on talousvaliokunnan mietintö TaVM 40/2018 vp. Nyt päätetään la-
+kiehdotuksen sisällöstä.
+
+Keskustelu
+
+17.10 Markus Lohi kesk: Arvoisa puhemies! Nyt käsittelyssä olevan kaivoslain muuta-
+mien pykälien muutoksen taustallahan on aikoinaan täällä eduskunnassa käsitelty hallituk-
+sen esitys kaivoslain muuttamiseksi, siis aiempi esitys 10/2017, jonka yhteydessä oli myös
+näitä nyt muutettavaksi esitettyjä pykäliä esitetty muutettavaksi, mutta samaan aikaan tääl-
+lä oli vireillä ympäristövaikutusten arviointimenettelystä annetun lain muuttaminen, ja tä-
+män johdosta päädyttiin siihen, että kun tämä prosessi oli kesken, niin tuossa vaiheessa ei
+muutettu näitä etusijaa koskevia pykäliä, vaan eduskunta antoi yksimielisen lausuman, että
+hallituksen on tuotava ne erikseen sitten tänne eduskuntaan muutettavaksi — haluan ko-
+rostaa: yksimielisen lausuman.
+
+Nyt tämän mukaan hallitus on toiminut ja on tuonut tämän esityksen, ja tätä on käsitelty
+talousvaliokunnassa, jolle ympäristövaliokunta on antanut lausunnon. Kun mietitään tä-
+män esityksen sisältöä, niin sitä ehkä kuvaa parhaiten tuon muutettavaksi esitetyn pykälän
+otsikko, eli 32 §, jossa otsikko sanoo, että ”etuoikeusjärjestys”. Tässä siis lähdetään teke-
+mään pieni muutos lähinnä siihen, missä vaiheessa malminetsintälupaan, kaivoslupaan tai
+kullanhuuhdontalupaan saadaan etuoikeus hakijalle, joka sitä lupaa hakee. Eli toimijoitten
+välisestä etuoikeudesta on nyt kysymys.
+
+Talousvaliokunta on kuullut tässä sen lisäksi, että on saanut ympäristövaliokunnan lau-
+sunnon, merkittävää määrää asiantuntijoita ja toteaa mietinnössään ehdotuksen vaikutuk-
+sista muun muassa seuraavaa: ”Talousvaliokunta painottaa, että ehdotuksen tavoitteena on
+ensisijaisesti toteuttaa eduskunnan edellä viitattua lausumaa”, johon äsken viittasin, ”ja si-
+ten mahdollistaa etuoikeuden syntyminen ennen täydellisen, ympäristövaikutusten arvi-
+ointiselostuksen ja yhteysviranomaisen perustellun päätelmän sisältävän hakemuksen jät-
+tämistä. Ehdotuksen on arvioitu sujuvoittavan ja nopeuttavan lupaprosesseja ja keventä-
+vän toiminnanharjoittajan hallinnollista taakkaa. Hallituksen esityksessä ehdotuksella ei
+ole arvioitu olevan negatiivisia vaikutuksia malminetsinnän, kaivostoiminnan tai kullan-
+huuhdonnan ympäristövaikutuksiin. Ehdotuksessa on kuitenkin arvioitu, että ehdotus mah-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+dollistaisi Natura 2000 -arvioinnin ja yva-selostuksen nykyistä joustavammalla aikataulul-
+la ja niiden toteuttamisen entistä laadukkaammin.”
+
+Arvoisa puhemies! Tässä oikeastaan tämä keskeinen viesti, mitä haluan tästä todeta. Eli
+pienillä muutoksilla ja aiheellisilla täsmennyksillä talousvaliokunta esittää tämän esityk-
+sen hyväksymistä ja on todella perehtynyt tähän. Vaikka tiedän, kun tästä lähetekeskuste-
+lua käytiin, että tämä herättää kovin paljon tunteita ja saattaa olla erilaisiakin käsityksiä sii-
+tä, mistä tässä on kysymys, niin tällaisen kuvan tästä talousvaliokunta laajan asiantuntija-
+kuulemisen jälkeen kyllä sai.
+
+17.14 Hanna Sarkkinen vas: Arvoisa puhemies! Hallituksen esitystä kaivoslain muutta-
+miseksi ei valmisteltu normaalien hyvien menettelytapojen mukaisesti. Ehdotuksen val-
+mistellut työ- ja elinkeinoministeriö ei pyytänyt asiasta lausuntoja, ja lausuntoa ei pyydet-
+ty edes ympäristöministeriöstä, vaikka tämä lakiesitys koskee Natura-lainsäädäntöä ja ym-
+päristövaikutusten arviointia koskevaa lainsäädäntöä ja menettelytapoja. Tässä tarkastel-
+laan hyvin suppeasti tätä kaivoslain muutosta vain kaivosyhtiöiden näkökulmasta. Ei ole
+juurikaan pohdittu asiaa ympäristön tai osallisuuden näkökulmasta eikä ole tehty vaikutus-
+arviointeja asiallisella tavalla. 
+
+Arvoisa puhemies! Esitystä on perusteltu sillä, että yhtiö, joka sijoittaa varoja tiettyyn
+alueeseen, saa pitää etuoikeutensa malmivaroihin, vaikka se ei ehtisikään määräaikaan
+mennessä valmistella malminetsintä-, kaivos- ja kullanhuuhdontaluvan edellyttämiä Natu-
+ra-arvioita ja ympäristövaikutusten arviointeja. Eli luodaan etuoikeus suhteessa kilpailevi-
+in yhtiöihin. Hallituksen esityksen puutteellisen valmistelun vuoksi on jäänyt epäselväksi,
+olisiko tämä tavoite etuoikeuden varmistamisesta voitu saavuttaa toisella tavalla, esimer-
+kiksi siten, että olisi voinut saada perustellusta syystä pidennyksen määräaikoihin, joiden
+kuluessa malminetsintälupaa tai varsinaista kaivoslupaa on haettava. Tätä emme valitetta-
+vasti tiedä, koska vaihtoehtoisia menetelmiä etuoikeuden varmistamiseksi ei ole kuvattu. 
+
+Eli, arvoisa puhemies, jatkossa kaivoslupaa voi siis hakea ennen kuin ympäristövaiku-
+tusten arviointi on tehty valmiiksi. Tämä on ongelma, sillä ympäristövaikutusten arviointi
+on ensimmäinen vaihe, jonka kautta alueen asukkaat saavat kaivoshankkeesta virallisesti
+tiedon ja voivat ottaa siihen kantaa. Lisäksi ympäristövaikutusten arvioinnin keskeinen
+piirre ja keskeinen tehtävä on hankkeen eri toteutusvaihtoehtojen tarkastelu ennen kuin
+lyödään lukkoon se varsinainen toteutumistapa, ja arvioinnin tuleekin tapahtua ajankohta-
+na, jolloin nämä vaihtoehdot ovat vielä aidosti avoinna. 
+
+Yvan ja Natura-selvitysten ja niistä annettujen lausuntojen tuloksia tulisi hyödyntää jo
+hankesuunnittelun aikana. Nyt tämän lakimuutoksen jälkeen, kun lupahakemus jätetään,
+on jo valittu yksi toteuttamisvaihtoehto ennen kuin vaihtoehtojen ympäristövaikutuksia on
+vertailtu ja eri tahoja kuultu. Tämä on se tämän lakimuutoksen keskeinen ongelma. Eli kes-
+keinen ongelma on se, että tämä hallituksen esityksessä esitetty lainmuutos uhkaa heiken-
+tää ympäristövaikutusten arvioinnin ohjausvaikutusta ja sen koko lain periaatteellista mer-
+kitystä, ja sitä kautta tietenkin uhkana on, että joissain tapauksissa tämä voi sitten heiken-
+tää ympäristönsuojelun tasoa ja paikallisten asukkaiden kuulemismahdollisuuksia. Sen ta-
+kia tätä lakiesitystä ei tulisi hyväksyä, vaan se tulisi hylätä. 
+
+Aivan kuten edustaja Lohi totesi, tässä taustalla on eduskunnan aiemmin antama yksi-
+mielinen ponsi, mutta siinä yhteydessä ei myöskään selvitetty näitä vaikutuksia eikä ehkä
+täysin ymmärretty tämän suhdetta yva-menettelyn ohjausvaikutukseen ja sen heikkenemi-
+seen, ja sen lisäksi sen ponnen antamisen jälkeen näitä ympäristövaikutusten arviointiin
+2
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+liittyviä lakeja on myös muutettu. Lausuma siis edellyttää hallitusta valmistelemaan laki-
+muutoksen, mutta eduskunnan ei tätä tarvitse hyväksyä, jos se ei näe sitä perustelluksi. Va-
+semmistoliiton eduskuntaryhmä ei näe perustelluksi hyväksyä tätä esitettyä lakimuutosta
+sen takia, että tämä valmisteluprosessi on ollut ongelmallinen, mutta myös sen takia, että
+tämä on ongelmallinen periaatteen tasolla ja heikentää ympäristövaikutusten arviointime-
+nettelyä ja on mahdollista, että joissain tapauksissa sillä voi olla sitten negatiivisia ympä-
+ristö- ja osallisuusvaikutuksia. 
+
+Arvoisa puhemies! Todella tämä nyt käsittelyssä oleva kaivoslain muutos on erittäin
+suppea. Tämä koskee tätä rajattua kysymystä, ja tätä on tietysti sellaisenaan käsiteltävä.
+Toki paljon on viime aikoina ollut keskustelua siitä, että tarvittaisiin laajempi kaivoslain
+uudistus, jolla vahvistettaisiin kaivosten ja kaivosyhtiöiden ympäristövastuuta ja varmis-
+tettaisiin yhteiskunnan verohyöty kaivostoiminnasta ja kansallisvarallisuutemme hyväksi-
+käytöstä ja hyödyntämisestä. Siihenhän myös eduskunta ponnessaan käsitellessään CETA-
+sopimusta hallitusta velvoitti, mutta valitettavasti eduskunnan velvoittamalla tavalla tätä
+kaivoslain tarkastelua ja esitystä sen uudistamiseksi ei ole eduskuntaan tuotu. Kenties sit-
+ten seuraava hallitus sen tekee. 
+
+17.20 Satu Hassi vihr: Arvoisa puhemies! Kuten edustaja Sarkkinen tuossa edellä totesi,
+eduskunta on hyväksynyt kaksi pontta kaivoslaista yksimielisesti. Toiselle ponnelle, joka
+on ulkoasiainvaliokunnan mietinnön pohjalta hyväksytty ja jossa todetaan, että kaivosla-
+kia on uudistettava ennen kuin EU:n ja Kanadan kauppasopimus eli CETA-sopimus astuu
+voimaan, työ- ja elinkeinoministeriö on lähinnä viitannut kintaalla. Sen sijaan siihen pon-
+teen, jolla tätä esitystä on nyt perusteltu, työ- ja elinkeinoministeriö on suhtautunut sillä ta-
+valla, että tästä esityksestä ei todellakaan ole pyydetty lausuntoja, ei miltään taholta, ei edes
+ympäristöministeriöltä, vaikka se, kuten tässä jo todettiin, koskee mitä suurimmassa mää-
+rin myöskin Natura-arviointia ja ympäristövaikutusten arviointia. 
+
+Ympäristövaliokunta on antanut tästä lakiesityksestä lausunnon, joka on valiokunnan
+tällä vaalikaudella hyväksymistä lausunnoista ja mietinnöistä ylivoimaisesti kriittisin. En
+tiedä, onko ylipäätänsä tällä vuosituhannella ympäristövaliokunnassa hyväksytty yhtä
+kriittistä lausuntoa kuin tästä hallituksen esityksestä. Eli valiokunta toteaa ensinnäkin, että
+tässä mennään eri suuntaan kuin uudistettaessa kaivoslakia vuonna 2011, jolloin tavoittee-
+na oli hakemusten laadun parantaminen ja se, että hakemukset jätettäisiin mahdollisim-
+man täydellisinä. Ympäristövaliokunta toteaa myös, että tämän hallituksen esityksen pe-
+rustelut ovat ristiriitaiset. Toisaalta se varsinainen pointti, miksi tämä lakiesitys on tehty,
+on se, että kaivosyhtiöllä, joka on harjoittanut malminetsintää jollain alueella, säilyisi kil-
+pailijoihinsa nähden etuoikeus sen alueen käyttöön, vaikka se ei ehtisi saada ympäristövai-
+kutusarviota nykyisen lain määräajassa valmiiksi, mutta tätä asiaa ei varsinaisesti esityk-
+sen perusteluissa ole tarkasteltu, vaan sen sijaan väitetään, että tämä muka parantaisi ym-
+päristövaikutusten arviointia. Ympäristövaliokunta toteaa, että nämä perustelut ovat risti-
+riitaiset, elleivät suorastaan virheelliset. 
+
+Valiokunta toteaa myös, että niiden perustelujen perusteella, mitä hallituksen esitykses-
+sä esitetään, on mahdotonta arvioida tämän esityksen tarpeellisuutta. Valiokunta toteaa
+myös sen, minkä edustaja Sarkkinen totesi edellä, että ympäristövaikutusarvio on ensim-
+mäinen virallinen asia, jonka kautta kaivoshankkeesta tai kullanhuuhdontahankkeesta saa-
+vat tietää alueen asukkaat ja ympäristöjärjestöt ynnä muut vastaavat tahot. Ympäristövai-
+kutusarvioinnin keskeinen ajatus on se, että tarkastellaan vaihtoehtoja. No, jos kaivosha-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+kemus jätetään, niin siinä vaiheessa on sitten yksi vaihtoehto jo valittu esimerkiksi siitä,
+minne pannaan läjitysalueet ja mistäpäin kaivaminen suunnataan ynnä muuta, kaikki nämä
+tällaiset ratkaisut, mitä kaivosta suunniteltaessa on tehtävä. Eli on vaarana, että ne vali-
+taan, kun vaihtoehtojen ympäristövaikutusten punninta on vielä kesken. 
+
+Ympäristövaliokunta toteaa myös, että tavallaan se varsinainen pihvi, jonka perusteella
+tätä esitetään, eli se, että kaivosyhtiöllä, joka on tehnyt tietyllä alueella töitä, säilyisi kilpai-
+lijoihinsa nähden etuoikeus hyödyntää sitä aluetta, voitaisiin kenties toteuttaa jollain muul-
+lakin tavalla, mutta näitä vaihtoehtoja sen varsinaisen tavoitteen toteuttamiseen ei ole tar-
+kasteltu. 
+
+Kaiken kukkuraksi ympäristövaliokunta toteaa, että lausuntokierroksen puuttumisen
+johdosta hallituksen esitys on myös jäänyt teknisesti viimeistelemättömäksi. Esitys sisäl-
+tää runsaasti kirjoitusvirheitä, viittaukset eduskunnan asiakirjoihin ovat teknisesti virheel-
+lisiä, rinnakkaisteksti on virheellinen, pykäliin sisältyy sekä asia- että teknisiä virheitä, ja
+perustelut ovat sisäisesti ristiriitaiset. Esimerkiksi ehdotuksen 34 §:n 2 momentin 2. virk-
+keestä puuttuu verbi. 
+
+Ympäristövaliokunta toteaa myös, että kaivoslain uudistustarpeita pitäisi tarkastella laa-
+jemmin.
+
+Ja, arvoisa puhemies, ellei tämä ympäristövaliokunnan lausunnon referaatti sitä riitä pe-
+rustelemaan, miksi tämä hallituksen esitys tulisi hylätä, niin edustaja Sarkkisen puheen-
+vuorossa ne loputkin perustelut sille tulivat jo esille. 
+
+17.26 Jani Mäkelä ps: Arvoisa puhemies! Kuten lähetekeskustelussa aikanaan totesin,
+tämä esitys kyllä jättää siinä mielessä vähän pahan maun, että tämä nyt ei ollut ihan sitä,
+mitä odotettiin. Odotettiin enemmänkin suurta tiukennusta, mutta nyt tuli pieni löysennys
+tähän kaivoslakiin ja sitten vielä lisänä nämä edustaja Hassin mainitsemat puutteet ja vir-
+heet lakiteknisessä ja kirjoitusasullisessa mielessä, jotka ovat itsellenikin valitettavan tut-
+tuja muun muassa liikenneministeriön valmisteluista. Näköjään niitä ilmenee muuallakin.
+
+Nostan mietinnöstä esiin erään seikan. Eli tässähän talousvaliokunta korostaa, että tässä
+esitetty säätely koskee kaivoslain uudistamista ainoastaan eduskunnan edellä viitatun lau-
+suman osalta, mutta tässä sanotaan, että siinä ei oteta arviointiin laajemmin kaivoslain uu-
+distamistarpeita. No, kuitenkin oma käsitykseni siitä lausumasta, joka CETA-sopimuksen
+hyväksymisen yhteydessä hyväksyttiin, on se, että siinä olisi tarkasteltu laajemmin näitä
+muutostarpeita. Hallituksen ja ministeri Lintilän tulkinnan mukaan näin ei olisi. Valiokun-
+ta toteaa nyt, että tämmöinen tarkastelu kuitenkin olisi tarpeen ylipäänsä, mutta sille ei olla
+kuitenkaan nyt tekemässä tässä yhtään mitään. Eli valiokunta ei kuitenkaan esitä lausu-
+maa, jossa velvoitettaisiin hallitusta tällainen valmistelu tekemään, eli kyllä tämä minun
+mielestäni kuulostaa enemmänkin aiheen välttelyltä ja suoranaiselta farssilta kuin miltään
+muulta.
+
+Siksi tuenkin vastalauseen näkemystä, että kaivoslakia olisi pitänyt tarkastella laajem-
+min ja tämä esitys tällaisenaan täytyy hylätä. Nyt on erikoista ja pelottavaa, että kansalli-
+somaisuutemme maaperän mineraaleissa ja ympäristömme ei ole paremmin suojattu kan-
+sainväliseltä voitontavoittelulta.
+
+17.27 Lauri Ihalainen sd: Arvoisa puhemies! Nyt käsitellään hallituksen esitystä ja ta-
+lousvaliokunnan siihen antamaa mietintöä kaivoslain osittaisuudistuksesta, ja on totta se,
+mitä edustaja Lohi sanoi siitä, että eduskuntahan aikoinaan edellytti, että tätä asiaa erik-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+seen käsitellään ikään kuin kapseloidussa mittakaavassa. Se on sinänsä totta, mutta kun ta-
+lousvaliokunta sai ympäristövaliokunnan lausunnon tästä asian valmistelutavasta ja pro-
+sessista, niin minullekin tuli vähän mieleen, että tämä oli huonosti lainsäädännöllisessä
+mielessä valmisteltu ja vailla sitä, että olisi pyydetty kaikilta tärkeiltä tahoilta lausuntoja.
+Paras tapahan olisi ollut palauttaa tämä uudelleen valmisteluun, mutta aikataulut — edus-
+kunnan istuntokausi huomioon ottaen — eivät tällaiseen menettelyyn antaneet mahdolli-
+suuksia, joten ne perustelut, joita täällä on nyt esitelty siitä, että tämä ei täytä hyvän lain-
+säädännön valmistelua ja ei ole pyydetty lausuntoja, ovat jo yksinomaan hyvä syy todeta,
+että tämä ei olisi nyt esittämiskelpoinen siinä muodossa kuin valiokunta on nyt sen tehnyt.
+
+Kiinnittäisin kuitenkin huomiota siihen, että itse en ajattele niin, etteikö kaivostoimin-
+nalla Suomessa ole tulevaisuutta. Se on yksi elinkeinopolitiikan osa ja osa meidän elinkei-
+noklusteria. Totta kai kaivostoiminnalla pitää olla vahvat ympäristönsuojeluun liittyvät,
+sosiaaliseen vastuuseen liittyvät asiat, mutta myös elinkeinopoliittinen näkökulma. Suo-
+men on mahdollista myös kestävästi pystyä hyödyntämään esimerkiksi akkumetallien kas-
+vavaan tarpeeseen ja jalostukseen liittyvää arvoketjua. Kaksi laitostahan Suomeen on nyt
+nousemassa, mutta Euroopassa on erittäin vähän akkutehtaita, Ruotsiin ollaan ensimmäis-
+tä rakentamassa. 80 prosenttia akuista tulee Aasiasta ja raaka-aineet muualta, joten siis täs-
+sä on myös liikenteen sähköistämisen kannalta, ympäristöpolitiikan kannalta hyviä mah-
+dollisuuksia, ja kaivostoiminnan jalostusarvoa Suomessa sillä tavalla voidaan tulevaisuu-
+dessa nostaa. Haluan tämän nyt tuoda esille, että kun nyt tätä esitystä ei ole järkevää mei-
+dänkään mielestämme viedä eteenpäin vaan se pitäisi hylätä, niin suhtautumista vastuulli-
+seen kaivostoimintaan, jossa on tämmöinen yhteiskunnallinen hyväksyttävyys ja alueelli-
+nenkin hyväksyttävyys, me Suomessa vastuullisella tavalla tarvitsemme. 
+
+Kiinnitän huomiota myös siihen, että tämän Kanadan ja EU:n vapaakauppasopimuksen
+yhteydessähän toukokuussa 2018 todella edellytettiin, että hallitus arvioi kaivoslain muu-
+tostarpeet, ja niin kuin täällä on käynyt ilmi, tätä esitystähän ei ole nyt tänne tuotu. Näin ol-
+len myöskin meidän ryhmämme yhtyy siihen, että tämä esitys olisi tässä muodossaan —
+huonosta valmistelusta johtuen — hylättävä, ja yhtyy myös siihen ajatukseen, että aikatau-
+lusyistäkin mahdolliset muutokset, esitykset tämmöiseen kaivoslain kokonaisarvioon ja
+uudistamiseen siirtyvät varmasti seuraavalle hallitukselle. Siihen liittyen haluaisin vain sa-
+noa, että totta kai tällaisen valmistelun kohdalla kaikki itseänsä kunnioittavat puolueet, jot-
+ka hallitukseen tähtäävät, ovat miettineet, mitä tässä pitäisi tehdä, ja paljon keskustellaan
+kaivostoiminnan toimintaedellytyksistä, kaivosverosta, kaivosrahastosta, maankäyttöön
+liittyvästä kaavoituksesta ja niin poispäin, ja ne ovat varmaan kaikki teemoja, joita tässä
+yhteydessä tullaan puntaroimaan.
+
+Vielä kiinnittäisin huomiota siihen, että meillähän on kaivostoiminta energiaverotukses-
+sa alennetussa verokannassa tämän hallituskauden aikana. Edellisellä hallituskaudella se
+oli yleisessä energiaverokannassa. Jos se olisi nyt yleisessä energiaverokannassa, niin sen
+tuotto olisi valtiolle.... Se menetys on nyt on noin 20 miljoonaa euroa. Siis tämäkin vaihto-
+ehto kaivosveroon olisi varmaan semmoinen, mitä pitäisi pohtia, mutta molempia ei var-
+maan ole järkevää toteuttaa yhtä aikaa. 
+
+Mutta tämä on, arvoisa puhemies, jo sitä pohdintaa, mitä varmaan kaikki muutkin puo-
+lueet tekevät uuden kaivoslain kehittämiseksi. — Kiitoksia.
+
+17.33 Hanna Halmeenpää vihr: Arvoisa rouva puhemies! Täytyy alkuun todeta, että kun
+kävimme tästä kaivoslain kahden pykälän muutoksesta lähetekeskustelun viime vuoden
+5
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+loppupuolella ja muistan tuon keskustelun sisällön ja sen hallituksen esityksen esiin noste-
+tut perustelut, niin suorastaan hämmästyin lukiessani ympäristövaliokunnan lausuntoa,
+jonka kaikki hallituspuolueiden edustajat ovat hyväksyneet sellaisenaan. Ote tuosta lau-
+sunnosta nimittäin kuuluu näin: ”Valiokunta pitää ehdotettua muutosta lähtökohtaisesti hy-
+väksyttävänä. Lakiehdotusta on kuitenkin korjattava siten kuin edempänä esitetään.” Ja sit-
+ten: ”Valiokunta katsoo, että kun hallituksen esityksen tavoitteena on vain etuoikeusjärjes-
+tyksen turvaaminen, ei ehdotettu sääntelytapa ole välttämättä paras mahdollinen. Etuoi-
+keuden saamisen merkitystä ja tarvetta ei ole hallituksen esityksessä ylipäänsä käsitelty.”
+Ja kun muistamme tuon lähetekeskustelun, niin siellähän puhuimme aivan muista peruste-
+luista kuin tästä etuoikeudesta, ja niinpä valiokunnan lausunnossa lukeekin: ”Sen sijaan
+esityksessä on pyritty perustelemaan, että muutoksen tarkoituksena on Natura-arvioinnilla
+ja yva-menettelyllä tavoiteltujen suojelu- ja muiden intressien yhteensovittamisnäkökoh-
+tien huomioiminen entistä paremmin ja laadukkaammin. Valiokunta pitää perusteluja tältä
+osin harhaanjohtavina ellei suorastaan virheellisinä, koska samalla korostetaan sitä, ettei
+esitys vaikuta mihinkään muuhun kuin etuoikeuden saamiseen.” Näin tässä lausunnossa
+lukee, ja tätä mieltä hallituspuolueiden edustajatkin ympäristövaliokunnassa ovat siis ol-
+leet, ja niin olen kyllä minäkin.
+
+Arvoisa puhemies! Tästä hallituksen esityksestä ei ole lausuntokierrosta tehty, mutta
+sentään valiokunnat ovat asiantuntijalausuntoja kuulleet. Kuntaliitto otti esiin tärkeän nä-
+kökulman, jonka itsekin haluan tässä esiin ottaa. 
+
+Kun kaivoslakia 2011 viimeksi säädettiin, lain keskeisenä tavoitteena oli kaivostoimin-
+nan ja malminetsinnän edellytysten turvaaminen yhteiskunnallisesti, taloudellisesti ja eko-
+logisesti kestävällä tavalla. Kuten edustaja Ihalainen äskeisessä puheenvuorossaan esiin
+otti, tämä yhteiskunta tarvitsee kaivostoimintaa, mutta näillä reunaehdoilla, taloudellisesti,
+ekologisesti ja yhteiskunnallisesti kestävällä tavalla kaivostoiminnan tulee toteutua. 2011
+tavoitteena oli myös turvata kuntien vaikutusmahdollisuudet, varmistaa oikeusturvan to-
+teutuminen sekä ottaa huomioon kansalaisvaikuttamista ja osallistumista koskevat vaati-
+mukset. No, nyt on kuitenkin niin, että paikallisyhteisön vaikuttamismahdollisuudet ovat
+nykylain puitteissakin osoittautuneet tai osoittautumassa kaivoslain systematiikassa hei-
+koiksi muun muassa kuntien osalta. Tämän 2011 säädetyn lain täytäntöönpanon aikana on
+esiintynyt ongelmia kuntien vaikuttamismahdollisuuksien turvaamisessa, ja myös kansa-
+laisvaikuttaminen ja osallistumista koskevat vaatimukset ovat saaneet kansalaisilta voima-
+kasta kritiikkiä.
+
+Nyt tämän hallituksen käsiteltävänä olevan kahden pykälän muutosesityksen mukaan
+kaivoslupahakemusta jätettäessä ei jatkossa tarvitsisi liitteenä olla seuraavia asiakirjoja ja
+tietoja, mikäli ne aiotaan myöhemmin sisällyttää ympäristövaikutusten arviointiselostuk-
+seen tai Natura-arviointiin. Seuraavia ei siis tarvitsisi olla: alueen kiinteistötiedot virallisi-
+na koordinaatteina ja digitaalisessa muodossa oleva kartta, johon on merkitty alueen sijain-
+ti ja rajat; toimintojen sijoittumistiedot kaivoslupa-alueella; kaivoksen vaikutusalueen
+kiinteistötiedot; selvitys luonnonsuojelulain, erämaalain ja muinaismuistolain nojalla
+aluetta koskevista rajoituksista; selvitys saamelaisten kotiseutualuetta ja erityistä poron-
+hoitoaluetta koskevien erityisehtojen huomioonottamisesta; Suomen talousvyöhykettä tai
+rajavyöhykettä koskevat erityisehdot; selvitys siitä, miten toiminnan lopettaminen ja jälki-
+toimenpiteet aiotaan toteuttaa.
+
+Arvoisa puhemies! Näitä tietoja siis jatkossa tämän hallituksen esityksen toteutuessa ei
+tarvitsisi sisällyttää kaivoslupahakemukseen.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+Arvoisa puhemies! Ympäristövaikutusten arviointimenettelyn osalta Kuntaliitto talous-
+valiokunnan asiantuntijakuulemisessa lausui: ”Hakemuksen laatimisen ja lupaviranomai-
+selle jättämisen jälkeen suoritettu arviointi ei mahdollista esimerkiksi sen arviointia, tulisi-
+ko kaivos toteuttaa avolouhoksena vai tunnelina. Ympäristövaikutusten arviointimenette-
+lyn tarkoitus on kuitenkin avoin ja ennakollinen vuorovaikutusmenettely, jossa on aidosti
+avoinna mahdolliset vaihtoehdot.” Kuten jo aiemmissa puheenvuoroissa kuulimme, tässä
+on olennainen ero nykytilaan: tuo ennakoitavuus, ennakollisuus, häipyisi. 
+
+Talousvaliokunta kuuli myös kaivoslakiin ja kaivoskysymyksiin perehtynyttä ympäris-
+töoikeuden professori Ismo Pölöstä, joka totesi heti alkuunsa ykskantaan: ”Hallituksen esi-
+tyksessä säännösmuutokset on esitelty lähinnä teknisinä muutoksina ja niiden ilmeiset hai-
+talliset vaikutukset ovat jääneet käsittelemättä. Ehdotettu sääntely heikentäisi olennaisesti
+Natura-arvioinnin ja ympäristövaikutusten arvioinnin toimivuutta.”
+
+Arvoisa puhemies! Itse jäin ihmettelemään sitä, millä perusteella ja mihin perustuen hal-
+lituksen esityksessä todettiin, että tällä ei mitään vaikutuksia, ainakaan haitallisia vaikutuk-
+sia, ympäristöasioihin olisikaan, kun ei kerta yhtään lausuntoakaan kuultu, ei edes ympä-
+ristöministeriöltä pyydetty lausuntoa.
+
+Arvoisa puhemies! Ympäristövaikutusten kannalta hallituksen esityksen erot kahden eri
+lakiesityksen osalta voidaan kiteyttää seuraavasti: Tässä talossa käsittelyssä ollut yhden
+luukun lainsäädäntö lähtee siitä, että hankkeesta vastaava laatii kaikissa tilanteissa ennen
+lupahakemuksen jättämistä ympäristövaikutusten arviointiselostuksen, jota voi siten hyö-
+dyntää hankesuunnittelun viimeistelyssä ja vaihtoehtojen valinnassa ympäristösuojelua
+edistävästi. Tässä hallituksen esityksessä kaivoslain 32 ja 34 §:n muutoksista tapahtuu juu-
+ri päinvastoin. Ehdotettu kaivoslain muutos poikkeaisi tästä lainsäädäntömallista ja mah-
+dollistaisi lupahakemuksen jättämisen jo ennen arviointiselostuksen valmistumista. Täl-
+löin ympäristövaikutukset eivät olisi kaikilta osin tiedossa. Tässä on aikamoinen ristiriita
+hallituksen kahden lakiesityksen välillä, ja kannatan lämpimästi sitä, että tämä lakiesitys
+kaivoslain kahden pykälän muutoksesta hylätään. Se on valmisteltu suorastaan ala-arvoi-
+sella tavalla.
+
+17.41 Krista Mikkonen vihr: Arvoisa puhemies! Tässä edellä on tullut hyvin esille niitä
+ongelmia, mitä tässä esityksessä on, niin tässä prosessissa, miten tämä on tehty, kun tämä
+on käsitelty vain ikään kuin teknisenä muutoksena, jota se ei todellakaan ole, eikä ole pyy-
+detty lausuntoja, kuin toisaalta sitten tässä sisällössä, missä on suuria ongelmia ja ristirii-
+taisuuksia liittyen esimerkiksi näihin hallituksen muihin hankkeisiin, kuten tähän yhden
+luukun periaatteeseen ja siihen liittyvään lainsäädäntöön. Ja se isoin ongelma tulee juuri
+siitä, että ympäristövaikutusten arviointihan on työkalu, jolla voidaan tehdä ja miettiä niitä
+valintoja, miten hanke toteutetaan, jotta ympäristövaikutukset olisivat mahdollisimman
+vähäiset. Ympäristövaikutusten arvioinnissahan tehdään erilaisia malleja ja sitten mieti-
+tään, mikä niistä valitaan ja lähdetään toteuttamaan niin, että ympäristövaikutukset eivät
+olisi kohtuuttoman suuret. Ja nyt jos tässä ajatellaan niin, että tämä vaikutusarviointi voi-
+daan tehdä vasta myöhemmin, kun on jo käytännössä tehty se valinta, niin se menettää täy-
+sin merkityksensä. Lisäksi ympäristövaikutusten arviointi on myös siinä mielessä tärkeä,
+että se tehdään jo siinä alkuvaiheessa, niin että niin alueen asukkaat kuin muut osalliset
+pystyvät vaikuttamaan siihen ja pääsevät mukaan siihen prosessiin. Tämä kaikki nyt ka-
+toaa, jos vaikutusarvioinnin voi tehdä vasta jälkikäteen siinä prosessin loppuvaiheessa.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+Toisekseen myös tästä Natura-arvioinnista: myös hakijan näkökulmasta on huono vaih-
+toehto se, että Natura-arviointi tehdään vasta myöhemmässä vaiheessa, koska se saattaa
+paljastaa tällaisia ehdottomia esteitä koko hankkeelle, ja tällöin hakija on ihan turhaan lait-
+tanut resursseja siihen, jos vasta sitten selviää, että tässä ei voi edetä, että Natura-lainsää-
+däntö estää koko hankkeen eteenpäinviemisen.
+
+Sikälikin on eriskummallista tuoda nyt nämä kaksi pykälää tänne erikseen, kun me tie-
+dämme, että me tarvitsemme kokonaisarvion kaivoslainsäädännöstä. Itse asiassa työ- ja
+elinkeinoministeriö on asettanut nyt selvityshenkilön, Pekka Vihervuoren, tekemään täm-
+möisen selvityksen, arvioimaan kaivoslain toimivuutta ja muuta kaivostoimintaan liitty-
+vää lainsäädäntöä, ja väliraportin on tarkoitus tulla jo 15.4. ja sitten lopullisen raportin 15.
+kesäkuuta. Elikkä silloin nämä kaikki asiat, jos on tarpeen — miettien sitä, että tätä kaivos-
+yhtiöiden etujärjestystäkin pitää jollain tavalla pohtia — voidaan sitten tehdä siinä vaihees-
+sa, kun koko lainsäädäntöä mietitään, mitä tarpeita siinä on. Me tiedämme, että kaivokset
+puhuttavat nyt paljon suomalaisia, siellä on paljon semmoisia kohtia, jotka ihmiset koke-
+vat epäoikeudenmukaisina, ja siksi olisi fiksuinta tehdä ne mahdolliset muutokset sitten
+yhdellä kertaa pohtien sitä, miten me varmistamme, [Puhemies koputtaa] että kaivostoi-
+minta on mahdollisimman ympäristöystävällistä ja vaikuttaa mahdollisimman vähän mei-
+dän luontoomme.
+
+17.44 Markus Lohi kesk: Arvoisa puhemies! On tosi, että tätä hallituksen esitystähän ei
+ole edeltänyt erillinen lausuntokierros, mutta rehellisyyden nimissä on todettava, kuten
+tuossa aikaisemmassa puheenvuorossa totesin, että tämä ihan samansisältöinen muutos-
+han sisältyi siihen aikaisempaan hallituksen esitykseen 10/2017 ja nimenomaan siinä ko-
+konaisuudessa nämäkin pykälät kävivät lausuntokierroksella. Kun niihin ei erityisesti kiin-
+nitetty huomiota silloin ja ne täällä eduskuntakäsittelyssä poistettiin siitä esityksestä ja sa-
+malla hyväksyttiin yksimielisesti ponsi, että ne on tuotava erikseen tänne, niin minä en itse
+lähtisi kyllä hallitusta syyttämään siitä, että se on tuonut nämä esitykset, jos kerta on edus-
+kunnan yksimielinen ponsi ja ne ovat käyneet erillisessä paketissa lausuntokierroksella.
+Ymmärrän, että tästä voi olla eri mieltä, ja kuulemiset ovat olleet kriittisiä, mutta ehkä tämä
+olisi pitänyt sitten eduskunnassa ratkaista toisella lailla, koska hallitushan on toiminut vain
+eduskunnan yksimielisen ponnen mukaisesti.
+
+Haluan kyllä todeta senkin, että kun puhutaan kaivostoimintaa koskevasta lainsäädän-
+nöstä, niin on täysin selvää, että seuraavalla vaalikaudella ja hallitusohjelmassa on varmas-
+ti tarvetta kirjata tähän kirjauksia ja muutostarpeita, mutta usein julkisessa keskustelussa ja
+kansalaistenkin kanssa osoitetaan ehkä väärin nimenomaan kaivoslakia, koska jos ajatel-
+laan itse kaivostoimintaa, niin sen päälaiksi on itse asiassa muodostunut ympäristönsuoje-
+lulaki. Sen takia onkin tärkeää, että kun mietitään tätä kaivostoimialaa koskevia lainsää-
+däntöuudistuksia, niin ei pelkästään kaivoslakia tarkastella, koska se on aika tuore ja siitä
+on vähän kokemuksia — yksi kaivos, joka ei vielä ole toiminnassa, on luvitettu tämän ny-
+kyisen lain mukaan — vaan katsotaan sitä kokonaisuutta. 
+
+Täällä on nostettu esiin myös mahdollinen kaivosvero. Itsekin kannatan sitä, mutta sen
+pitää kuitenkin tulla perusteellisen valmistelun jälkeen. Minusta edustaja Ihalainen totesi
+erittäin hyvin, että kun meillä oli tämä erillinen sähkövero kaivoksille — se on nyt poistu-
+nut — niin näitä ei päällekkäin kovin monta voi olla, koska meidän on tärkeää pitää huoli
+siitäkin, että silloin kun täytetään nämä täälläkin hyvin esiin tuodut ekologisesti, sosiaali-
+sesti ja taloudellisesti kestävät reunaehdot, Suomessa kannattaa harjoittaa kaivostoimintaa. 
+8
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+Me tiedämme nämä elektroniikkalaitteet, joita me itse käytämme, ja niihin tarvitaan
+muun muassa kobolttia. 60 prosenttia siitä louhitaan Kongosta tällä hetkellä maailmassa, ja
+on arvioitu, että siitä 60 prosentin määrästä jopa 20 prosenttia tulee tämmöisistä käsityö-
+kaivoksista, joissa on epäinhimilliset olosuhteet. On siis eettisesti oikein tukea suomalais-
+ta, nimenomaan kestävää kaivostoimintaa, ja sen takia ei ole viisasta panna erillistä sähkö-
+veroa sinne, koska se taas hidastaa näitten kaivosten muuttumista yhä enemmän hiilineut-
+raaleiksi, vaan mieluummin pannaan järkevän kokoinen vero, joka ohjataan sijaintikunnal-
+le ja joka perustuu esimerkiksi malmista saatuun nettotuottoon. Siihen on olemassa oma
+tunnuslukukin kaivosalalla, net smelter return, ja se voisi olla järkevä pohja, johon tämä
+ohjataan.
+
+17.48 Satu Hassi vihr: Arvoisa puhemies! Kun tämäntyyppinen esitys oli joitakin vuosia
+sitten valmisteilla ja ministeriöiden välisissä keskusteluissa, niin ympäristöministeriö kir-
+joitti siitä tyrmäävän kielteisen lausunnon. Minun on vaikea uskoa, että työ- ja elinkein-
+oministeriössä ei olisi tätä asiaa tiedetty, kun tätä nyt käsillä olevaa lakiesitystä on valmis-
+teltu. Voin myöskin kuvitella — tietysti tämä on ihan silkkaa arvausta — että silloin kun ta-
+lousvaliokunta kirjoitti sen ponnen, jolla tätä lakiesitystä on perusteltu, valiokunnan tie-
+dossa ei ehkä ollut ympäristöministeriön kirjoittama kielteinen lausunto.
+
+Lisäksi haluaisin kiinnittää huomiota asiaan, jonka toin viime viikolla täysistuntokes-
+kustelussa esille, kun käsittelimme niin sanottua yhden luukun lupamenettelypakettia ym-
+päristövaliokunnan mietinnön pohjalta. Siinä hallituksen esityksessä, joka on valmisteltu
+laajasti yhteistyössä erinäköisten sidosryhmien kanssa ja josta ei mitään suurempaa erimie-
+lisyyttä vallitse, on mahdollista yhdistää ympäristövaikutusarvio ja sitten se varsinainen lu-
+paprosessi sellaisissa tapauksissa, jolloin ympäristövaikutusarvioinnin vaihtoehtotarkaste-
+lu ei ole varteenotettava, eli tapauksissa, joissa käytännössä on vain yksi vaihtoehto, esi-
+merkiksi kun haetaan jatkolupaa jollekin toiminnalle, joka on jo olemassa. Mutta sen si-
+jaan tämä hallituksen esitys lähtee siitä, että sellaisissakin tapauksissa, joissa toiminnalle
+on useita eri vaihtoehtoja ja yvan tarkoitus on muun muassa selvittää näiden eri vaihtojen
+ympäristövaikutukset, jotta voidaan sitten valita se fiksuin, lupahakemus voidaan jättää,
+mikä tarkoittaa sitä, että yksi toimintavaihtoehto on jo valittu, ennen kuin tämä ympäristö-
+vaikutusarviointiin keskeisesti liittyvä vaihtoehtotarkastelu on tehty.
+
+Haluaisin vielä korostaa sitä, että sinänsä ympäristövaliokunnassakaan kukaan ei aset-
+tanut kyseenalaiseksi sitä, etteikö olisi perusteltua, että kaivosyhtiö voi jollain menettelyl-
+lä säilyttää etuoikeuden jonkun alueen hyödyntämiseen, vaikka ei ehtisi saada yvaa val-
+miiksi sen lupahakemuksen määräaikaan mennessä, mutta olisiko muita tapoja, esimerkik-
+si se, että perustellusta syystä voisi saada määräaikaan pidennyksen? Silloin ympäristöris-
+kit tällaisilla menettelyillä olisivat pienemmät. 
+
+17.51 Hanna Halmeenpää vihr: Arvoisa rouva puhemies! Ei tarkkaan ottaen aivan pidä
+paikkaansa, etteikö tämä 32 §:n ja 34 §:n muutosesitys olisi herättänyt keskustelua jo siel-
+lä edellisellä kierroksella vuonna 2017. Talousvaliokunta on maaliskuussa 2017, silloin
+edellisen esityksen aikaan, kuullut muun muassa Lapin ely-keskusta, joka jo silloin otti
+esille, että ehdotetun 34 §:n perustelut jättävät avoimeksi sen, miten säännös parantaisi lu-
+pakäsittelyä tai jouduttaisi lupa-asiaa, millä tätä lakiesitystä perusteltiin. Ja ely-keskus lau-
+sui lisäksi, että kun kaivoslain mukainen toiminta kohdistuu Natura 2000 -alueelle ja muil-
+le luonnonsuojelualueille, merkitsee se kaivoslain nojalla annettavassa lupaharkinnassa
+9
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+pakottavan luonnonsuojelusäädännön huomioon ottamista. Ja ely-keskus lisäksi huomaut-
+ti, että luonnonsuojelulain mukainen Natura 2000 -arviointi- ja lausuntomenettely voi pää-
+tyä myös johtopäätökseen, jonka mukaan kaivoslain mukainen hanke heikentää merkittä-
+västi Natura-alueen suojeluperusteena olevia luonnonarvoja, jolloin kaivoshanke voisi to-
+teutua vain poikkeuslupamenettelyn turvin. Kyllä nämä asiat nousivat esille jo silloin
+2017, sen edellisen lakiesityksen tässä ollessa.
+
+Toteaisin, arvoisa puhemies, että tässä on nyt kyse kaivoslain mukaisten menettelyjen
+joustavoittamisesta ympäristönsuojelun ja vaikutusalueen asukkaiden, yhteisöjen ja kunti-
+enkin vaikuttamismahdollisuuksien kustannuksella. Tämä lakiesitys on omiaan myös hei-
+kentämään yleistä luottamusta kaivostoimintaan ja siihen sovellettaviin ympäristömenet-
+telyihin. Ja luulisi, ettei tällainen ole kenenkään tavoitteena, jos halutaan kestävää kaivos-
+toimintaa tässä yhteiskunnassa ylläpitää. Siis mikäli kaivoslainsäädäntöön ei haluta tehdä
+heikennyksiä ympäristönsuojelun, kuntien, maanomistajien ja muiden asianosaisten sekä
+yhteisöjen aseman kannalta, niin tämä hallituksen esitys tulisi kokonaisuudessaan hylätä.
+
+17.53 Markus Lohi kesk: Arvoisa puhemies! On varmasti tosi, että tämä hallituksen esi-
+tys 10/2017, johon nämä pykälämuutokset alun perin sisältyivät, varmaan herätti keskus-
+telua. Mutta se pitää paikkansa, että yksimielisesti se ponsi kuitenkin hyväksyttiin, että tuo-
+kaa nämä kaksi pykälää tänne, ja sen takia en soimaisi, niin kuin edellä totesin, hallitusta
+siitä, että se toimii niin kuin eduskunta on velvoittanut. Päinvastoin, monestihan hallitusta
+voidaan arvostella siitä, että se ei tuo, vaikka eduskunta on edellyttänyt.
+
+Haluaisin kuitenkin jatkaa tuosta edustaja Hassin puheenvuorosta. Minusta siinä oli ihan
+hyvää ajatusta siitä, että tätä etuoikeutta voidaan turvata myös muulla tavalla. Nyt on il-
+meisen selvää, että seuraavissa hallitusneuvotteluissa näistä kysymyksistä keskustellaan ja
+varmasti jotain hallitusohjelmaan kirjataan. Jos tehdään muutoksia vaikkapa näihinkin py-
+käliin, niin yksi vaihtoehto olisi se — kun me tiedämme, että malminetsintä on paitsi erit-
+täin paljon pääomia vaativaa toimintaa myös hyvin paljon aikaa vievää toimintaa ja meillä
+on tällä hetkellä tilanne, että malminetsintälupa myönnetään tietyissä vuosijaksoissa, 4
+vuotta, 3 vuotta, 3 vuotta, 3 vuotta ja 2 vuotta, eli yhteensä siinä tulee 15 vuotta — että voi-
+si harkita sitäkin, onko kaikkien osapuolten kannalta järkevää, että malminetsintälupa oli-
+sikin jaksotettu vaikkapa 5, 5 ja 5, jolloin ei tarvitsisi asianomistajien jatkuvasti olla var-
+paillaan.
+
+Toisaalta sitten voitaisiin myöntää tavallaan harkinnan jälkeen perustellusta syystä
+myös jatkoaikaa, ja se voisi perustua esimerkiksi siihen, että ehditään tehdä valmiiksi nämä
+yva-prosessit ennen kuin tarvitsee jättää kaivoslupahakemus. Sillä tavalla malminetsijä,
+joka usein on käyttänyt siihen kenties kymmeniä miljoonia, säilyttäisi sen etuoikeuden
+muihin toimijoihin verrattuna tätä kautta. Eli minustakin tämmöinen muutos ihan hyvin
+voitaisiin tehdä ja saavuttaa sitä kautta myös saman tyyppinen tila, mitä tässä nyt tavoitel-
+laan.
+
+En lähtisi kuitenkaan liioittelemaan tämän esityksen ympäristövaikutuksia tai muita vai-
+kutuksia, vaikka kävisi niin, että hakemuksen yhteydessä jätetään, kuten edustaja Hassi to-
+tesi, tietyn mallin mukainen toteutustapa. Silloin kun yva saatetaan loppuun ja tulee eri
+vaihtoehtoja, niin kuulemisessa tuli hyvin selvästi esiin, myös ympäristöministeriön edus-
+tajat sen vahvistivat, että mikään ei tietenkään estä, että sitä hakemusta tältä osin täyden-
+netään tai muutetaan, jotta saadaan ne kaikista tuoreimmat yvaan ja kuulemiseenkin liitty-
+vät tiedot hyödynnettyä siinä hakemuksessa ja lopullisessa hakemuksessa. Ja sekin pitää
+10
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+muistaa, että ennen kuin mitään lupaa myönnetään, niin kaikki yva-prosessit, kuulemispro-
+sessit, kaikki pitää olla aivan asianmukaisesti käyty läpi, eikä tällä ole mitään vaikutusta si-
+nänsä niitten sisältöön.
+
+17.57 Hanna Halmeenpää vihr: Arvoisa puhemies! Tässähän kuulostaa siltä, että jos
+tämä hallituksen esitys vedettäisiin pois ja hylättäisiin, niin voitaisiin saada yhteistyössä
+semmoinen kompromissiesitys aikaan pyrkien samoihin tavoitteisiin mutta sellaisella hy-
+väksyttävällä tavalla ja eri tahoja etukäteen kuullen. 
+
+Merkittävä ero nyt tämän hallituksen esityksen ja yva-lain tavoitteiden suhteen liittyy
+tuohon yva-lain 15 §:ään, jossa todetaan, että keskeisenä tavoitteena on, että arviointime-
+nettely on toteutettava ”suunnittelun mahdollisimman varhaisessa vaiheessa” vaihtoehto-
+jen ollessa vielä avoinna. Sehän tässä nyt juuri muuttuisi. 
+
+Mitä tulee tähän eduskunnan yksimieliseen lausumaan, on aivan totta, että näin on ta-
+pahtunut. Minun mielestäni tässä keskustelussa kukaan ei ole sitä nyt kyseenalaistanut tai
+soimannut hallitusta siitä, että on toiminut sen eduskunnan lausuman mukaisesti, vaan on
+kritisoitu sitä, miten näitten kahden pykälän lakimuutosesitys on valmisteltu ja miten nii-
+den vaikutukset on otettu huomioon ja millä tavalla näitä lakimuutoksia on perusteltu, kun
+niissä kaikissa kohdissa on todettu asiantuntijalausunnoissakin olleen merkittäviä puuttei-
+ta.
+
+17.58 Markus Lohi kesk: Arvoisa puhemies! Varmasti on niin, että tästä voisi löytyä yh-
+teinenkin malli, mutta me olemme prosessin siinä vaiheessa, että hallitus on noudattanut
+eduskunnan tahtotilaa, yksimielistä tahtotilaa, tuonut juuri sen sisältöisenä ne pykälät, mitä
+eduskunta edellytti siinä ponnnessa. Ja jokainen ymmärtää, että tässä vaiheessahan ei tie-
+tenkään muutoksia voi tehdä, tämä on mennyt valiokuntaprosessin läpi. 
+
+Näen itse niin, että vaikka tämä hyväksyttäisiin — ja kun tämä tullaan hyväksymään täs-
+sä eduskunnassa mitä suurimmalla todennäköisyydellä — niin mitään ongelmaa ja vahin-
+koahan tästä ei aiheudu. Sitten kun tarkastellaan laajemmin muutosta kaivoksia koskevaan
+lainsäädäntöön — mukaan lukien se, että täsmäkorjauksia varmasti tullaan tekemään kai-
+voslakiin — niin tässä yhteydessä voi varmasti hyvinkin miettiä tätä, millä erilaisilla väli-
+neillä pystyttäisiin tämä järkevä tavoite eli nimenomaan tämän etuoikeiden saaminen tur-
+vaamaan ehkä paremmin, jos halutaan, että tämä, voi sanoa, luvan saaminen tai lupahake-
+muksen jättäminen ennen yva-prosessin loppuun saattamista poistetaan tästä. 
+
+Se on tunnustettava, että kyllähän tässä on se tietty ristiriita, kun meillä on täällä meneil-
+lään prosesseja, jotka tähtäävät tähän yhden luukun periaatteeseen ja näitten lupaproses-
+sien yhdistämiseen siten, että meillä pystyttäisiin tekemään yhdessä prosessissa esimerkik-
+si kaikkien sitä hanketta koskevien, laista tulevien kuulemisten suorittaminen. Ja tämähän
+olisi järkevää kaikkein kannalta, myös alueen asukkaiden kannalta, että heille tämä proses-
+si ei olisi liian monitahoinen ja monimutkainen ja että kaikki tietäisivät, että tässä vaihees-
+sa pystyy lausumaan kaikkiin näihin yhtä aikaa, eikä niin, että vaikkapa lähialueen asuk-
+kaat joutuvat jatkuvasti olemaan varpaillaan ja eri prosesseihin käyttämään aikaa. Näyttäi-
+si siltä, että voisi olla yhteinen tavoite, että tässäkin on hyvä edetä, ja tämän kanssa tässä
+kyllä on pieni ristiriita, ja tämä on tunnustettava.
+
+Yleiskeskustelu päättyi.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 170/2018 vp
+Eduskunta hyväksyi hallituksen esitykseen HE 293/2018 vp sisältyvän lakiehdotuksen si-
+sällön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+12
+
+

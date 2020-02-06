@@ -1,0 +1,1461 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMA5F1.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 57/2018 vp
+
+Täysistunto
+
+Tiistai 29.5.2018 klo 14.01—15.58
+
+3. Hallituksen esitys eduskunnalle laiksi kilpailulain muuttamisesta ja eräiksi siihen liitty-
+viksi laeiksi
+
+Hallituksen esitys HE 68/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 3. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokuntaan. — Ministeri Lind-
+ström, olkaa hyvä.
+
+Keskustelu
+
+14.03 Työministeri Jari Lindström  (esittelypuheenvuoro):  Arvoisa rouva puhemies!
+Työ- ja elinkeinoministeriö on valmistellut esityksen laiksi kilpailulain muuttamisesta ja
+eräiksi siihen liittyviksi laeiksi. Tämä esitys tehostaa kilpailurajoitusten ja kilpailuneutra-
+liteetin valvontaa. Tällä esityksellä turvataan siten osaltaan taloudellista toimintaa harjoit-
+tavien tahojen tasapuolisia toimintaedellytyksiä ja markkinoiden kilpailullisuutta.
+
+Esityksessä ehdotetaan muutettavaksi pääasiassa kilpailulakia. Muutokset tehostavat ja
+selventävät tiettyjä Kilpailu- ja kuluttajaviraston toimivaltaan, menettelyyn ja tiedonsaan-
+tiin liittyviä säännöksiä. Muutokset liittyvät muun muassa viraston tekemiin tarkastuksiin,
+eri tahojen tietojenantovelvollisuuteen virastolle ja tietojen vaihtoon viranomaisten välil-
+lä. Lisäksi kilpailulain neutraliteettisäännöksiin ehdotetaan lisättäväksi kirjanpidon eriyt-
+tämissäännös. Kirjanpidon eriyttämissäännöksen mukaan kunnan, kuntayhtymän, maa-
+kunnan, valtion tai niiden määräysvaltaan kuuluvan yksikön tulee pitää taloudellisesta toi-
+minnastaan erillistä kirjanpitoa. Säännöksen tarkoituksena on mahdollistaa Kilpailu- ja ku-
+luttajavirastolle tehokas markkinaperusteisen hinnoittelun valvonta tilanteessa, jossa julki-
+nen taho tai sen määräysvallassa oleva yksikkö harjoittaa sekä kilpailutilanteessa markki-
+noilla tapahtuvaa taloudellista toimintaa että muuta toimintaa. 
+
+Esityksessä ehdotetaan muutettavaksi myös yhtä harmaan talouden selvitysyksiköstä
+annetun lain säännöstä ja yhtä verotustietojen julkisuudesta ja salassapidosta annetun lain
+säännöstä siten, että Kilpailu- ja kuluttajaviraston tiedonsaanti toiselta viranomaiselta te-
+hostuisi. Lait on tarkoitettu tulemaan voimaan mahdollisimman pian, mutta kirjanpidon
+eriyttämisvelvollisuutta koskeva säännös ja tulevia maakuntia koskevat muutokset tulisi-
+vat voimaan vuoden 2020 alusta.
+
+14.05 Kari Kulmala sin: Arvoisa rouva puhemies! Kilpailulain ynnä muun muutosesitys
+perustuu kansalliseen muutostarpeeseen. Kilpailulakia muutetaan kahdessa vaiheessa. Nyt
+esitettävä muutos on niistä ensimmäinen.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+Hallituksen esityksessä ehdotetaan muutettavaksi pääasiassa kilpailulakia mutta myös
+Harmaan talouden selvitysyksiköstä annetun lain pykälää sekä verotustietojen julkisuudes-
+ta ja salassapidosta annetun lain pykälää, ja esityksen tarkoituksena on tehostaa kilpailun
+rajoitusten ja kilpailuneutraliteetin valvontaa. Tällöin turvataan osaltaan taloudellista toi-
+mintaa harjoittavien tahojen tasapuolisia toimintaedellytyksiä ja markkinoiden kilpailulli-
+suutta, kuten ministeri juuri totesi.
+
+Esityksen taloudelliset vaikutukset ovat pääosin välillisiä. Suorat sääntelykustannukset
+kohdistuvat lähinnä vain kilpailutilanteessa markkinoilla toimiviin julkisyhteisöjen yksi-
+köihin, joiden tulee eriyttää kirjanpitonsa. Kilpailulain aiheuttama sääntelytaakka on kui-
+tenkin lopulta pieni, kun kilpailulain voimaantulo synkronoidaan muun muassa maakunta-
+lakiesityksen ja tulevan kuntalain vastaavien säännösten voimaantulon kanssa. Kansanta-
+louden tehokkuuden näkökulmasta ehdotusten hyötyjen arvioidaan olevan selvästi suu-
+remmat kuin haitat. Pidän esitystä tarpeellisena.
+
+14.07 Sirpa Paatero sd: Arvoisa rouva puhemies! Kilpailulain muutos on varmasti perus-
+teltu joiltakin osin, mutta tässä yhteydessä ymmärtääkseni sen ainoa syy ovat tänne tulevat
+maakuntalainsäädäntöön vaikuttavat muutokset, ja aikataulun osalta on tässä yhä edelleen
+se ajatus, että maakunnat olisivat vuonna 2020 olemassa.
+
+Kun luki lauantaina Helsingin Sanomia, niin ehkä se linja on selvä, miksi tämä laki tar-
+vitaan. Kun on kerran oikeistolaisin hallitus pitkään aikaan, niin se näkyy ja tuntuu. Myös-
+kin markkinaehtoistetaan kaikki normaalit ihmisille kuuluvat palvelut. [Olavi Ala-Nissilä:
+Niinkö?] Muun muassa perustuslain 19 §:n mukaan kansalaisten perusoikeus on saada hoi-
+toa, turvaa sekä sosiaali- että terveydenhuollon puolelta ja on samalla myös edistettävä vä-
+estön terveyttä. Tämä on siis julkisen vallan tehtävä ja velvollisuus, ei markkinoiden vaan
+julkisen vallan tehtävä ja velvollisuus. [Markku Rossi: Siihen tarvitaankin sote-uudistus!]
+Siitä syystä en ymmärrä vieläkään, miksi on erotettava järjestäjä ja tuottaja. Ainoastaan
+ymmärrän sen syyn tähän markkinaehtoiseen mallin: jos halutaan luvata yrityksille se 5,3
+miljardia eroa, niin on tämä se keino saada se valinnanvapauden kautta tai henkilökohtai-
+sen budjetin tai asiakasseteleiden kautta. Ei ole mitään järkeä laittaa yrityksiä ja julkista
+puolta — joka tällä hetkellä on siis kuntien järjestämä sosiaali- ja terveydenhuolto — sa-
+malle viivalle, kun kuitenkin on julkisen vallan velvollisuus hoitaa sosiaali- ja terveyden-
+huollon palvelu kaikille tasa-arvoisesti, ne yritykset eivät missään tapauksessa hoida sitä
+tasa-arvoisesti.
+
+Sitten toinen näkökulma tähän on julkisen puolen asettaminen samalle viivalle ja tässä-
+kin tapauksessa tämä samanlainen raportointi. Raportointi voi kyllä toteutua, joskin se tuo
+tietenkin julkiselle puolelle lisää hallintoa ja lisää byrokratiaa. Mutta asetelma ei myös-
+kään ole kovin yksinkertainen. Me tiedämme, että kuntapuolella esimerkiksi eläkemaksut
+ovat jo tällä hetkellä aivan eri tasolla kuin yksityisellä puolella. Me tiedämme, että julki-
+sella puolella kiinteistöt ja ict muun muassa on sidottu aika pitkäksi aikaa, moniksi vuosik-
+si. Me tiedämme, että julkisella puolella on haluttu pitää kiinni henkilöstöstä ja sitä henki-
+löstöä on riittävästi verrattuna moniin yksityisiin puoliin. Tästä syystä asettaminen samal-
+le viivalle ei toteudu, ja sen takia tämä koko lähtökohta, minkä takia tämäkin kilpailulain
+uudistus tehdään, on aivan kiero — ei ole ollenkaan niin, että se palvelisi ihmisten parem-
+pia palveluita, vaan se palvelee yrityksiä. Ei ole kyse taloudellisesta toiminnasta, kun pu-
+hutaan ihmisten perusoikeuksista.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+Sitten tämä vetoaminen tässäkin lakiesityksessä siihen, että laatu paranee: On tullut väi-
+töskirjatuotos siitä, että Kelan maksamana on ollut palveluseteleiden päässä palveluita,
+joista ihmiset ovat siis valinneet — mielikuvien perusteella, niin kuin tässäkin lakiesityk-
+sessä tullaan tekemään — ja laatu on heikentynyt eikä parantunut näissä tapauksissa, jo-
+tenka kun on se versio siitä, että yksityistetään, markkinaehtoistetaan, luvataan yrityksille
+se yli 5,3 miljardia rahaa, niin siitäkin huolimatta meillä on riski, että rahat eivät riitä ja pal-
+veluiden laatu heikkenee.
+
+Missään tapauksessa tätä esitystä kokonaisuudessaan tämän soten osalta ei pidä hyväk-
+syä.
+
+14.11 Mika Kari sd: Arvoisa rouva puhemies! Tämän lähetekeskustelun yhteydessä kil-
+pailulain muuttamisesta kysyisin, kun ministerikin on itse paikalla: Nyt myllätään oikein
+isolla kädellä, edustaja Paateron hyvään puheenvuoroon viitaten, sosiaali- ja terveyspalve-
+luissa julkisen ja yksityisen rajapintaa ja kilpailulailla muutetaan rakenteita isolla tavalla.
+Tähän hallituksen esitykseen sisältyy myös arvioita näiden harmaan talouden torjuntaan
+liittyvien tavoitteiden saavuttamisesta. Miten ministeri näkee, missä asennossa tämä halli-
+tuksen esitys on niitä isoja tavoitteita saavuttaakseen, että harmaan talouden torjunnan
+osalta pystyttäisiin entistä enemmän torjumaan epätervettä kilpailua, epäreiluja tarjous- tai
+muita kilpailuita tai sitä kätkettyä taloutta, jotta erilaisten Panaman papereiden ja muiden
+osoittamalla tavalla veroparatiisiyhtiöiden kautta tapahtuva talouden kierrättäminen saatai-
+siin tässä yhteiskunnassa päättymään? Tietenkin tähän kysymykseen on piilotettu pieni
+huoli siitä, että nämä esitykset ja konkreettiset toimet harmaan talouden torjumiseksi jää-
+vät puuttumaan samaan aikaan kun hallitus esittää valtavan isoa uudistusta, jolla tätä kil-
+pailuympäristöä uudelleen rakennettaisiin. Miten ministeri näkee, meneekö hallitus tavoit-
+teitaan karkuun vai tavoitteitaan kohti?
+
+14.13 Maria Tolppanen sd: Arvoisa puhemies! Haluaisin muistuttaa ja nostattaa esille
+sen, että kyllä tässä tuntuu siltä, että yhtenä tarkoituksena on nimenomaisesti voiton mak-
+simointi ihmisen terveydellä taikka hoidon ja hoivan tarpeella. Ihan käytännön esimerkki-
+nä voin kertoa meiltä Vaasasta: Meillä on tämä tehostetun palvelun hoitajamitoitus. Meillä
+on tehostettua palvelua kaiken kaikkiaan 12 taloa, joista puolet ovat julkisen puolen taloja
+ja toinen puoli yksityisiä taloja. Julkisella puolella hoitajamitoitus on 0,65 hoitajaa, ja jul-
+kisella puolella sanotaan, että enemmän tarvittaisiin. Se johtuu siitä, että siellä on poissa-
+oloja, ja jos yksikin ihminen on pois, niin systeemi horjahtaa ja on vaikea saada ammatti-
+taitoista väkeä sitten nopeasti paikalle. Sen sijaan yksityisellä puolella hoitajamitoitus läh-
+tee, toki avin antamin luvin, 0,5:stä. Se on aikamoinen heikennys. Onko tämä nyt se, arvoi-
+sa ministeri, mitä me tulemme sitten odottamaan tulevaisuudessa, jos tällä tavalla jaetaan
+asiat yksityiselle puolelle ja julkiselle puolelle, että sitten palvelun laatua yksinkertaisesti
+lasketaan, koska saadaan parempi kate omalle toiminnalle? Tämä on se asia, josta kannan
+suurta huolta, ja haluaisin, että tämmöiset asiat pystyttäisiin estämään.
+
+14.14 Markku Pakkanen kesk: Arvoisa rouva puhemies! Kuuntelin herkällä korvalla
+edustaja Paateron hyvin asiantuntevaa puhetta siitä, kuinka julkinen terveydenhuolto ja yk-
+sityinen ovat tässä tapauksessa kilpailulainsäädännön alla ja hyvin tarkkaan verrattavissa.
+Tulee vaan mieleen, kuinka Kotkan kaupunki myi omistamansa työterveyshuollon yksityi-
+selle. Oliko siinäkin sama tilanne, että haluttiin huonontaa työterveyshuollon palveluja ja
+3
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+rahastaa Kotkan kaupungille merkittävä määrä tuloja kunnan taloutta paikkaamaan? Tämä
+oli mielenkiintoinen näkökulma, ja arvostan kovasti edustaja Paateron asiantuntemusta.
+
+14.15 Pia Viitanen sd: Arvoisa rouva puhemies! Tässä on käytetty hyviä puheenvuoroja,
+ja on esitetty muun muassa edustaja Paateron toimesta erittäin aiheellisia huolia ja tultu
+johtopäätökseen, että tätä ei tulisi tällaisena hyväksyä. Puhemies, kyllä tässä tilanteessa pi-
+tää nyt ihan aidosti avata silmät ja nähdä, missä tilanteessa tänä päivänä olemme ylipää-
+tään koko tämän sote-uudistuksen, sote-sopan, keskellä. Tämä tilanne horjuu koko ajan, ja
+oikeastaan jo viime viikolla käytännössä katsoen koko sotelta vedettiin matto alta, kun ker-
+ta kaikkiaan kävi ilmi se, että tarvittavat kustannukset eivät ole tiedossa, aiottu säästö voi
+olla yhtä lailla toisin päin, eli kustannukset saattavat nousta. Tässä on koko ajan ollut suuri
+epäilys tietynlaisesta kerman kuorinnan mahdollistamisesta ja tämän päivän teemasta eli
+siitä, että halutaan luoda firmoille mahdollisuus tuottaa voittoa, ja siinä kyllä sitten helpos-
+ti ihmisen terveys jää toissijaiseksi, mikä on täysin väärin.
+
+Minusta nyt kyllä voisi käydä tässäkin salissa hieman keskustelua tästä. Kansalaiset ovat
+todella ihmeissään tänä päivänä, missä soten kanssa mennään. Koko viikonloppu jälleen
+kerran käytiin spekulaatiota siitä, miten tämä kaikki tulee päättymään. Minä kyllä toivoi-
+sin, kun eduskunnan arvovallastakin puhutaan, että hallituspuolueet vielä kerran harkitsi-
+sivat, voidaanko tällainen uudistus viedä väen vängällä erilaisten menettelyjen kautta maa-
+liin tässä tilanteessa, kun tiedämme, että kustannukset nousevat, eriarvoistuminen lisään-
+tyy ja kaiken kaikkiaan meillä on valtavia riskejä ja harmaita pilviä taivaalla.
+
+14.17 Eero Heinäluoma sd: Arvoisa puhemies! Edustaja Paatero käytti hyvin painok-
+kaan ja huolellisen puheenvuoron, ja kyllä hänen sanomansa on syytä ottaa myös täällä va-
+kavasti. Ne ovat erittäin isoja asioita ja koskevat siis koko Suomen tulevaisuutta ja tuhan-
+sien ihmisten käytännön työtä. Tällä lainsäädännöllähän on yhteys eduskunnassa parhail-
+laan käsittelyssä olevaan sote-lainsäädäntöön, ja tämä ilmeisesti on ollut yksi tämän ehdo-
+tuksen antamisen lähtökohtakin, että siinä ennakoidaan tätä sote-lainsäädännön tulevai-
+suutta.
+
+Yhdyn tässä edustaja Viitasen huoleen siitä, että nyt on kyllä vaikea pysyä ihan kärryil-
+lä, mitä tässä sote-asiassa ollaan aidosti tekemässä. Viime päivien julkisten puheenvuoro-
+jen pohjalta kiinnitin huomiota siihen, että varapääministeri, valtiovarainministeri Orpo
+käytti lauantaina puheenvuoron, jossa hän sanoi, että ei olekaan selvää, että kokoomuksen
+eduskuntaryhmä tulee hyväksymään tätä sote-kokonaisuutta. On selvää, että jos näin vah-
+valta pallilta käytetään tämmöinen puheenvuoro, niin kyllä se nyt tietysti laittaa mietti-
+mään, että mitäs työtä täällä tehdään, jos toinen hallituspuolue on jo miettimässä koko sote-
+lainsäädännön eteenpäinviemistä. Se oli erittäin kova puheenvuoro, ja toivoisin, että halli-
+tus nopeasti nyt selkiinnyttäisi tämän sote-asian omalta osaltaan: viekö se tätä uudistusta
+eteenpäin, ja onko niin, että jos perustuslakivaliokunta edellyttää perustuslain pohjalta
+muutoksia, niin ne täällä tehdään, vai onko niin, että jos perustuslakia pitäisi täällä noudat-
+taa, niin sen tuloksena on, että tätä ei viedäkään sitten eteenpäin? On selkeyttävän puheen-
+vuoron aika, ja katson tässä nyt erityisesti läsnä olevia kokoomuslaisia, joilla odotan ole-
+van asiaan liittyvää sisäpiirin tietoutta. Toivon, että se jaettaisiin koko salille.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+14.19 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Kun aikanaan Suomi liittyi Eu-
+roopan unioniin, silloinhan me valitsimme tämän tien, että me elämme avoimessa yhteis-
+kunnassa ja myös tällaista kilpailua ja normaalia vapaata kauppaa tulee sallia ja edistää. 
+
+Edustaja Pakkanen käytti äsken vahvan puheenvuoron, jossa hän kertoi, että edustaja
+Paateron kotikaupunki on ulkoistanut tämän työterveyshuollon ja ilmeisesti havainnut tä-
+män asian hyväksi ja osallistunut tällä keinoin tähän vapaan maailman menoon. [Sirpa Paa-
+tero pyytää vastauspuheenvuoroa] Edustaja Paaterolla ilmeisesti on näkemys se, että maa-
+ilma ei mene eteenpäin, ja sitä, mitä ennen oli, ei välttämättä tänään enää ole. Mutta se on
+syytä muistaa kuitenkin sote-uudistuksessakin, muissakin uudistuksissa, että julkisella val-
+lallahan on velvoite, kun moni tässä oli huolissaan, miten terveyspalveluiden tässä maassa
+käy. Perustuslain 19 §:n 3 momentti sanoo edelleen — ja tämänkin istuntokauden jälkeen
+on voimassa edelleen se pykälä — että julkisen vallan on turvattava ne palvelut kaikille ja
+sillä sipuli. Se, että maailma kaatuisi päälle, ei pidä paikkaansa. 
+
+Jo tänä päivänä hyvin moni suomalainen käyttää totta kai julkisia palveluita mutta sitten
+sitä täydennetään yksityisiltä ostetuilla palveluilla, käy vaikka hammaslääkärissä taikka
+ortopedillä, tai jotain vastaavaa terveyspalvelua käytetään. Suurin osa suomalaisista työs-
+sä käyvistä käy työterveyshuollossa, joka järjestetään yksityisten yritysten kautta. Työnan-
+tajat ovat ostaneet näitä palveluita yksityisiltä työterveyspalveluja tarjoavilta yrityksiltä.
+Yli puolet tilastojen mukaan menee tätä kautta. Jos me tässä nyt rupeamme mörköjä pel-
+käämään, niin ei se mörkö tästä ainakaan löydy — kerran edustaja Paaterokaan ei sitä pel-
+kää, kun yksityistämistä on tehty sujuvasti. [Mika Kari: Kyllä Hoskosta tässä pelätään!]
+
+14.20 Peter Östman kd (vastauspuheenvuoro): Arvoisa puhemies! Kilpailuhan on hy-
+väksi kaikille, jos se toimii reilulla pohjalla ja hyvällä lainsäädännöllä. Mutta sikäli, kun tä-
+mäkin lainsäädäntö liittyy olennaisesti tähän sote- ja maakuntauudistukseen, haluaisin ky-
+syä ministeriltä: kun esimerkiksi omassa maakunnassani on alustavien laskelmien pohjalta
+luvassa 600 miljoonaa euroa ja kun sosiaali- ja terveyssektori vie 95 prosenttia budjettira-
+hoista, miten me kykenemme ylläpitämään kasvupalveluja sillä 5 prosentilla? Siis Pohjan-
+maan maakunta menettää muistaakseni 46 euroa per asukas, kun taas pieni Keski-Pohjan-
+maan maakunta menettää 230 euroa per asukas per vuosi. Eikös tämä tarkoita sitä, että pal-
+velut heikkenevät, ja kykenemmekö me oikeasti sitten näin niukilla varoilla ylläpitämään
+kasvupalveluja?
+
+14.21 Maria Guzenina sd: Arvoisa puhemies! Edustaja Hoskonen, kyllä tässä salissa
+meillä täytyy olla institutionaalista itsekunnioitusta siinä tavassa, jolla me puhuttelemme
+meidän kollegoitamme. Minun mielestä teidän tapanne viitata edustaja Paateroon oli hy-
+vin asiaton, ja toivoisi, että kun me olemme näin tärkeiden asioiden äärellä, niin pitäytyi-
+simme faktoissa emmekä tekisi sellaisia tulkintoja, joilla yritämme tahallisesti mustamaa-
+lata tai häpäistä täällä istuvia edustajia. Me olemme kaikki kansan tänne valitsemia, ja se,
+että täällä haukutaan toisia ja väärin tulkitaan sillä tavalla kuin te teitte, se on hyvin asia-
+tonta.
+
+Huoli siitä, riittävätkö rahat kasvupalveluihin, arvoisa puhemies, on täysin perusteltu.
+Nyt jos katsomme, mitä esimerkiksi soten puolella rahoitusmekanismit mahdollistavat,
+niin tämän päivän Helsingin Sanomissa oli hyvin kuvaava juttu, joka kertoi Eksoten tilan-
+teesta. Täällä Marja-Liisa Vesterinen, yksi Eksoten johtajista, toteaa, että Eksote eroaa hal-
+lituksen sote-mallista. Hän pelkää valinnanvapauden rapauttavan palveluketjun yhtenäi-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+syyttä ja pitää 0,9 prosentin menokehitystä myös Etelä-Karjalalle liian ankarana. Ja sitten
+se lopputulema — hän toteaa: ”Jos siihen mennään, edessä on väistämättä palveluverkos-
+ton karsiminen.”
+
+Me olemme todella tärkeiden asioiden äärellä täällä salissa, ja pyytäisin, että meidän ins-
+titutionaalinen itsekunnioituksemme vaatisi meitä kuuntelemaan asiantuntijoita ja teke-
+mään päätöksiä nimenomaan asiantuntijoiden näkemyksiin perustuen.
+
+14.23 Olavi Ala-Nissilä kesk: Arvoisa puhemies! Moni meistä varmaan kuunteli päämi-
+nisterin haastattelutuntia, jossa käsiteltiin sosiaali- ja terveyshuollon uudistusta, maakun-
+tahallinnon uudistusta. Siinä pääministeri minusta hyvin rauhallisesti ja asiallisesti selitti,
+mikä on uudistuksen tavoite, missä siinä mennään, miten saadaan tuloksia ja tuottavuutta
+aikaan. On tärkeätä, että Suomessa pystytään uudistamaan. Julkinen sektori tietenkin joh-
+taa, mutta yksityinen sektori voi olla palvelujen tuottamisessa mukana. 
+
+Kyllä minä, puhemies, näen tärkeänä, kun Suomi ei ole mikään Italia sentään, että meil-
+lä pystytään 10 vuodessa tekemään sellainen terveyden- ja sosiaalihuollon uudistus, niin
+kuin on tässä pitkään ponnisteltu, viemään tämä uudistus satamaan. Se on suuri riski ilman
+muuta, että me emme pysty etenemään tässä asiassa.
+
+14.24 Pia Viitanen sd: Arvoisa puhemies! Kyllä minä kunnioitan tietenkin sitä, että edus-
+taja Ala-Nissilä loputtomiin haluaa uskoa siihen, että sotesta vielä hyvä seuraa ja säästöjä
+syntyy. Valitettavasti vain on niin, että esimerkiksi valtiovarainvaliokunta omassa lausun-
+nossaan antoi murskatuomion käytännössä katsoen myös hallituspuolueiden allekirjoitta-
+mana sen suhteen, että nämä kustannukset ovat hyvin riskillä käsiin tulla, jos näin voi sa-
+noa.
+
+Mutta, puhemies, täällä haluaisin kiinnittää huomiota siihen, että aiemmassa puheen-
+vuorossaan edustaja Heinäluoma hyvin viittasi tähän viikonlopun puheenvuoroon, joka
+tuli valtiovarainministeri Orpolta ja sitä kautta kokoomuksesta ja joka todella hieman antoi
+vihjata sen suuntaisesti, että jotain epävarmuutta on ilmassa. Samoin kuin täällä moni muu
+kiinnostuin asiasta ja seurasin kyllä tarkkaan spekulointia ja muuta, mitä julkisuudessa
+asian suhteen oli. Kuuntelin myös pääministerin kyselytunnin, jossa hän hyvin verkkai-
+seen tahtiin kertoi, että ei mitään hätää ja nokosiakin ollaan otettu. Mutta käytännössä kat-
+soen minä itse tekisin sen tulkinnan, että tuskin kulissien takana kuitenkaan ihan näin rau-
+hallisissa tunnelmissa mennään, jos uskallan arvata.
+
+Haluan kiinnittää huomiota siihen, että kun täällä nyt sanottiin, että erityisesti kokoo-
+muslaiset voisivat vähän avata tätä tilannetta, että se tulisi tarpeeseen, niin näen täällä nyt
+täsmälleen saman ilmiön kuin viime viikolla, kun me käsittelimme soten vuoksi muutetta-
+vaa rikoslakia. Täällä oppositio käytti yli 20 puheenvuoroa vain opposition voimin, ja tääl-
+lä ei yksikään hallituspuolue halunnut vastata näihin kysymyksiin tai ottaa osaa keskuste-
+luun. Nyt täällä on todellakin sitten paikalla hallituspuolueiden edustaja ja myös kokoo-
+muksen edustaja, niin että toivoisin, että voisitte hieman selventää meille, missä tässä ky-
+symyksessä tänä päivänä mennään.
+
+14.26 Sirpa Paatero sd: Arvoisa rouva puhemies! Suoraan kilpailulakiin liittyen tämä
+liittyy myöskin tähän hankintalakiin, joka tulee aiheuttamaan niin työterveyshuollon kuin
+monien muidenkin tukipalveluiden osalta suuria ongelmia tässä sote-uudistuksessa siitä
+johtuen, kun se 5 prosentin raja ulosmyyntiin tulee rapauttamaan lähestulkoon kaikki kun-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+nalliset työterveyshuollot niin kuin monet muutkin näistä tukipalveluista, koska niitä ei sit-
+ten sieltä kunnilta voida myydä sille maakunnalle muun muassa eikä niille yrityksille eikä
+muille, jotka toteuttavat sitten näitä käsitteitä.
+
+Sen takia en yhtään ihmettele, että tässä tapahtuu näitten kiinteistöjen osalta tällä hetkel-
+lä ulkoistuksia, koska luottamus siihen hallitukseen, että tämä koko sote mitenkään turvai-
+si julkisia kiinteistöjä, on sellainen, että ei voida tällä hetkellä olla varmoja. Sen takia var-
+maan iso kysymys leijuu koko ajan tässä salissa, kun nyt tänäänkin tulee taas yksi uusi la-
+ki, joka suoraan koskettelee tämän julkisen puolen raportointivelvollisuutta uudella tavalla
+johtuen tästä maakunta- ja sote-uudistuksesta: kuinka uskotte, ministeri, vielä, että näitä la-
+keja kannattaa tuoda tänne, jos ei tämä koko sote tästä välttämättä enää etene?
+
+14.28 Eero Heinäluoma sd: Arvoisa puheenjohtaja! Todellakin tämä lakihan osaltaan pe-
+rustuu siihen oletukseen, että hallituksen sote-lainsäädäntö tulee eduskunnassa hyväksyt-
+tyä, ja ikään kuin tällä esityksellä hallitus ennakoi tätä sote-lainsäädännön mukanaan tuo-
+maa uutta tilannetta ja tätä valinnanvapauslainsäädäntöä. Nyt kuitenkin tiedetään, että täs-
+sä on aika huomattavia epävarmuustekijöitä olemassa, ja pitäisin suotavana, että eduskun-
+nalle kerrottaisiin, mikä on tämän ison sote-uudistuksen tilanne. 
+
+Vanhastaan tiedämme, että kun kokoomuksessa tulee vaikea paikka ja tulee hämmin-
+kiä, niin ainut, jolta asia selviää, on edustaja Zyskowicz, ja sen takia iloitsenkin, että hän
+tuli saliin. [Ben Zyskowicz: Turha provosoida!] Luotan siihen, että hän kertoo eduskunnal-
+le, mitä kokoomus aikoo tässä sote-asiassa tehdä. Onko kokoomus sitoutunut tämän sote-
+lainsäädännön eteenpäinvientiin samalla tavalla kuin pääministeri ilmoitti, että nämä pe-
+rustuslakivaliokunnan vaatimat muutokset tullaan täällä tekemään ja tämä uudistus vie-
+dään eteenpäin, vai onko tilanne niin kuin pääministerin sijainen, kokoomuksen puheen-
+johtaja, valtiovarainministeri Orpo sanoi, että kokoomuksen eduskuntaryhmä joutuu arvi-
+oimaan, täyttääkö tämä uudistus enää niitä tavoitteita, joita kokoomuksella on tälle uudis-
+tukselle ollut? Tämä kysymys on aika olennainen ja mielestäni kohtuullisen kohtuullinen.
+Kun lainsäädäntöä tehdään, olisi hyvä kertoa myös eduskunnalle, ovatko aikaisemmat si-
+toumukset voimassa. Nytkin katson lupaavasti edustaja Zyskowiczia, joka jo teroittaa ky-
+näänsä siellä, ja uskon, että sieltä tulee ymmärrettävä vastaus, niin kuin häneltä aina tulee.
+
+Puhemies Paula Risikko:  Tässä vaiheessa ministeri Lindströmin puheenvuoro, olkaa hy-
+vä, 3 minuuttia.
+
+14.29 Työministeri Jari Lindström: Arvoisa puhemies! Jos lähdetään nyt tästä vähän
+hämmentävästä keskustelusta siitä, miksi tuoda lakiesityksiä eduskuntaan näin epävarmas-
+sa tilanteessa: näitähän tuodaan tänne sen takia, että — ainakin minä uskon — sote menee
+maaliin. Jos me emme toisi, niin sittenpähän se vasta olisi kummallinen tilanne, me epäi-
+lisimme itse itseämme. Siitä lähdetään.
+
+Jos nyt ensinnäkin lähdetään tästä, minkä takia tämä kilpailulain muutosesitys on tänne
+tuotu, niin tämä perustuu kansalliseen muutostarpeeseen. Sen taustalla ovat Kilpailu- ja ku-
+luttajaviraston havainnot kilpailuvalvonnan tehostamis- ja selkeyttämistarpeesta sekä tä-
+män lisäksi kansallisen kilpailulakityöryhmän työ. Tämä on taustalla. No, näillä kilpailu-
+säännöillä on myös EU-taustaa, ja tällä kilpailulain muuttamisella on liityntää myös tuon-
+ne EU-lainsäädäntöön ja jäsenmaiden säännöksien yhteisiin suosituksiin, ja lakia muute-
+taan kahdessa vaiheessa. Tämä nyt esitettävä muutos on ensimmäinen näistä vaiheista.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+Toisessa vaiheessa kilpailulakia muutetaan kansallisten kilpailuviranomaisten täytäntöön-
+panoa, itsenäisyyttä ja resursseja koskevan direktiivin perusteella. No tämä on vielä trilo-
+givaiheessa ja se hyväksyttäneen ennen elokuuta. Siitä sitten varmaan myöhemmin lisää.
+
+Ne keskeisimmät muutosehdotukset: 
+Kilpailu- ja kuluttajaviraston tekemät tarkastukset, muun muassa niin sanottu jatkettu
+
+tarkastus väliaikaisiin kopioihin virastolla, ja tarkastusoikeuden riippumattomuus siitä, mi-
+hin tieto on tallennettu — näistä on kolmessa pykälässä kirjoitettu. 
+
+Tehokkaampi tietojenvaihto viranomaisten välillä: Silloin me tulemme tähän harmaan
+talouden kysymykseen, mistä edustaja Kari kyseli. Mielestäni hallitus on menossa nimen-
+omaan oikeaan suuntaan, koska tästä lähin KKV voisi luovuttaa tietoa useammille viran-
+omaisille ja Kilpailu- ja kuluttajaviraston oikeutta saada tietoja muilta viranomaisilta sel-
+vennetään. Minun mielestäni tämä on kyllä ihan oikeaan suuntaan menemistä. Sen lisäksi
+KKV:lle velvoitteidenhoitoselvitys Harmaan talouden selvitysyksiköltä ja verotustietoja
+Verohallinnolta. Nämä ovat mielestäni erittäin hyviä asioita. 
+
+Sitten on kilpailulain neutraliteettisäännöksiin uusi kirjanpidon eriyttämisvelvollisuutta
+koskeva säännös, jota tuossa esittelypuheenvuorossani sivusin, jonka mukaan kilpailuti-
+lanteessa markkinoilla tapahtuvaa taloudellista toimintaa harjoittavan kunnan, kuntayhty-
+män, maakunnan, valtion tai niiden määräysvaltaan kuuluvan yksikön tulee pitää erillistä
+kirjanpitoa taloudellisesta toiminnastaan. Tähän säännökseen sisältyy myös uhkasakko-
+mahdollisuus. Tämä eriyttämissäännös on esityksen merkityksellisin säännös.
+
+Jatketaan keskustelua, ja vastailen sitten kysymyksiin siltä osin kuin kilpailulakia sivu-
+taan.
+
+Puhemies Paula Risikko:  No niin, sitten mennään puhujalistalle.
+
+14.32 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Suuresti arvostamani edustaja
+Paatero, jos kerran on Kotkan kaupunki tällaisen päätöksen tehnyt, niin ei minulla ole mi-
+tään syytä epäillä, etteikö se olisi oikea päätös, saatika että siinä olisi jotain huonoa tai ne-
+gatiivista. Kuten edustaja Pakkanen kuvasi tapahtunutta: Minä kunnioitan kunnallisia pää-
+töksiä ja viisaita kunnan päättäjiä ja kaupungin päättäjiä, siinä ei ole mitään kummallista.
+Jos joku poliittinen toimija, vaikka nyt kaupunginhallitus, tekee päätöksen pitkän harkin-
+nan jälkeen, niin minä kunnioitan sellaista päätöstä aina, se on demokraattisessa järjestel-
+mässä syntynyt päätös. Ja kuten sanoin äsken, korkeasti arvostamani edustaja Paatero on
+asiantuntija erittäin monella alalla, enkä minä sitä varmasti epäile. Hän on huippuosaaja
+alalla, ja siitä ei ole sen enempää huomauttamista minulla.
+
+Kun nyt kerran kilpailutilanteessa elämme maailmassa, niin että palveluja tarjotaan, pal-
+veluja ostetaan, niin sosiaali- ja terveydenhuollon uudistuksessahan on idea kuitenkin kai-
+ken sen jälkeen, että julkinen valta on aina vastuussa, kaikille palvelut taataan. Ja sitten tä-
+näkin päivänä hyvin moni suomalainen sen yksityisen valinnan tekee — hyvä näin, jos ker-
+ran tekee. Tähän astihan tilanne on ollut se, että vain ne, joilla on ollut paksuin kukkaro,
+ovat saaneet valita melkeinpä vapaasti. Jos se sitten ulotetaan kaikkiin suomalaisiin tule-
+maan ja täydennetään palvelupalettia sillä, niin mitäs pahaa siinä on? Jos ihminen pääsee
+lääkäriin silloin, kun jalka on kipeä tai päätä särkee, [Antti Lindtmanin välihuuto] niin heti
+pääsee. Tietysti siinähän, jos on kova päänsärky ja jos on pitkä odotusaika, voi olla, että se
+tauti paranee ennen kuin lääkäriin pääsee, mutta se on sitten toinen tarina se. Mutta joka ta-
+pauksessa, kun me kilpailutilanteessa tässä maailmassa elämme, niin siihen pitää nyt vain
+8
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+tottua ja kunnioittaa niitä päätöksiä, mitä eri kunnissa tehdään ja mitä myös eduskunta te-
+kee. Tämähän on normaalia demokraattista päätöksentekoa, enkä minä näe siinä mitään
+mörköä millään lailla.
+
+14.34 Antti Lindtman sd: Arvoisa puhemies! Ministeri tuossa totesi, että hän osallistuu
+keskusteluun sikäli kuin se koskee tätä kyseistä lakiesitystä. Tässä lakiesityksessä nimen-
+omaan todetaan, että maakunnan liikelaitoksen on eriytettävä kirjanpidollisesti suoran va-
+linnan palvelut, ja sikäli tämä liittyy tähän. Tämä on aivan olennainen osa hallituksen sote-
+kokonaisuutta, ja kun tämän lain voimaanpanossa vielä esitetään niin, että tämä tulee ko-
+konaisuudessaan voimaan 1.1.2020, niin tämä lakiesitys, jonka hallitus on antanut, sisältää
+oletuksen siitä, että todella sote-uudistus tulee ja toteutuu vuonna 2020.
+
+Nyt tämän keskustelun aikana on käynyt kyllä selväksi, että ministeri Lindström ja sini-
+set ovat täällä, voi sanoa, polvia myöten sitoutuneet tähän sote-uudistukseen. [Eero Heinä-
+luoma: Täysin purjein!] — Täysin purjein. — Samaa on kuultu kyllä täältä keskustan pu-
+heenvuoroista. Siitä nostan hattua, että vaikka kaikki alkuperäiset tavoitteet ovat asiantun-
+tijoiden mukaan murentuneet ja murentumassa, niin siitä huolimatta keskustalle tämä maa-
+kuntaunelma on niin tärkeä, että siitä pidetään kiinni.
+
+Arvoisa puhemies! Olen toista kautta eduskunnassa ja yhden asian olen näiden seitse-
+män vuoden aikana oppinut, ja se on ollut se, että ei ole sellaista tilannetta tähän mennessä
+ollut, niin tiukkaa tilannetta, etteikö siihen konkariedustaja Zyskowicz osaisi antaa kokoo-
+muksen näkemystä ja kommenttia. Hänhän on kokoomuksen eduskuntaryhmän puheen-
+johtaja. [Ben Zyskowicz: Hyvä yritys! — Eero Heinäluoma: Varapuheenjohtaja!] — Va-
+rapuheenjohtaja.
+
+Nythän viime viikon jälkeen on tapahtunut todella paljon. Vielä viime viikolla valtiova-
+rainministeri Orpo vakuutti, että soten säästöt toteutuvat. Hän vakuutti, että tavoitteet to-
+teutuvat, soten säästöt toteutuvat, ja lauantaina hän totesi, että mikäli tämä ei vastaa tavoit-
+teita, niin silloin kokoomuksen eduskuntaryhmällä ei ole syytä tätä tukea. Jo sitä ennen hal-
+lituksen paatista irronnut tulppa sai jatkaa vuotoaan edustaja Kosken myötä. Aikaisemmin-
+han on lähtenyt Harkimo, Lepomäki, Väyrynen on tulossa. Aikooko hallitus viedä läpi pie-
+nimmällä mahdollisella enemmistöllä tämän, niin kuin se on itse sanonut, ”historiallisen
+suuren uudistuksen”, jonka pohjalta voi sanoa, että pohja on pettänyt?
+
+Edustaja Zyskowicz, onko nyt niin, että ensimmäistä kertaa on sellainen tilanne, jossa te
+ette pysty kertomaan kokoomuksen eduskuntaryhmän kantaa? Onko kokoomus sitoutunut
+tähän sote- ja maakuntauudistukseen vai ei? Olisi oikeutettua, olisi kansalaisten näkökul-
+masta oikein, että te kertoisitte teidän kantanne, mutta jos te ette sitä kerro, jos te ensim-
+mäisen kerran vaikenette, niin voimme vetää siitäkin johtopäätökset.
+
+14.37 Markku Eestilä kok: Arvoisa puhemies! Tietysti eduskunnassa voi olla semmoi-
+siakin eduskuntaryhmiä, että vaikka laki kuinka paljon muuttuu, niin päätös on ennalta lyö-
+ty kiinni, mutta minun mielestäni se ei vaikuta kovin järkevältä. [Sosiaalidemokraattien
+ryhmästä: Siinä se tuli!] Varmaankin jokainen eduskuntaryhmä tekee lopulliset päätökset
+sitten, kun näkee sosiaali- ja terveysvaliokunnan mietinnön. Ja mitä sitten tulee vaaleihin,
+niin oikeuskansleri viime torstaina kyselytunnin jälkeen täällä yksiselitteisesti ilmoitti, että
+vaalit pidetään vaalirahoituslainsäädännön näkökulmasta silloin, kun vähintään puoli vuot-
+ta on kulunut siitä, kun lait tulevat voimaan. Jos joku sitä vielä spekuloi, niin sitten täytyy
+9
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+varmaan käydä jo oikeuskanslerin kanssa kahden kesken juttelemassa, miltä tämä asia
+näyttää. [Sirpa Paatero: Saadaanks me kysyä pääministeriltä?]
+
+Mutta mitä tulee tähän kilpailuun, niin minä pidän itse hyvänä sellaista tilannetta, jossa
+julkinen ja yksityinen terveydenhuolto tai joku muu yksityinen ja julkinen kilpailevat ikään
+kuin keskenään. Monissa kunnissahan on varhaiskasvatus, päivähoito, järjestetty niin, että
+on julkista ja yksityistä päivähoitoa. Minun mielestäni tilanne, jossa molemmat ikään kuin
+ottavat esimerkkiä, hieman kilpailevat ja kuitenkin pitävät laadusta huolen, on ehkä paras
+mahdollinen tilanne.
+
+Tulin tänä aamuna lentokoneella Helsinkiin, ja siinä oli yritysmaailman kavereita, joh-
+tajia. He lukivat varmaan samaa lehtijuttua, mihin opposition edustajat äsken viittasivat,
+siitä, että meillä oli julkinen terveydenhuollon järjestö, joka sanoi, että jos rahaa ei tule li-
+sää, palveluita leikataan tai toimipisteitä lakkautetaan. Nämä yritysmaailman edustajat ky-
+syivät minulta, miten näin voi sanoa, kun heillä on joka päivä läsnä tämä kulurakenteen
+hallinta ja sen ikään kuin kiinni saaminen, ja jos ei mene hyvin, niin kuluja silloin pienen-
+netään ja toimintatapoja muutetaan. Onko tässä nyt semmoinen asenne, että ikään kuin ra-
+haa pitäisi aina vaan tulla lisää, ettei vaan tarvitse muuttaa mitään toimintatapoja eikä toi-
+mintamenoja? Minun mielestäni tämäkin pitäisi ottaa huomioon, että hyvällä johtamisella
+ja sitten sillä, että myös työntekijät lähtevät ajattelemaan uudella tavalla ja ottamaan uusia
+toimenpiteitä käyttöön, voidaan kulurakennetta jopa pienentää.
+
+14.39 Antti Lindtman sd (vastauspuheenvuoro): Arvoisa puhemies! Tähän loppuosaan
+voi yhtyä: juuri näin. Pitäisi antaa henkilökunnalle ja organisaatiolle mahdollisuus katsoa,
+miten on mahdollista tehdä sellaisia uudistuksia, jotka voivat tuoda paremmat palvelut ja
+enemmän säästöjä pitkällä tähtäimellä. Mutta nythän tämän hallituksen sote-uudistuksen
+ongelma on se, että sen sijaan, että tämä toisi elementtejä, joilla näitä kustannuksia voi vä-
+hentää, tämä tuo lisää kustannuksia, tuo lisää kertakustannuksia. Tämä valinnanvapaus, jo-
+hon liittyy myöskin tämä meillä pöydällä oleva esitys, tämä markkinamalli, tulee tuotta-
+maan lisää kustannuksia ja vie pois niitä työkaluja tehostaa toimintaa. Ja juuri siitä syystä,
+mikäli tämä esitys näine rahoitusleikkureineen menee eteenpäin, tämä tulee johtamaan his-
+toriallisen suuriin leikkauksiin kansalaisille tärkeistä sote-palveluista.
+
+Arvoisa puhemies! Tulkitsen edustaja Eestilän puheenvuoroa niin, että kokoomus ei
+enää täysin rinnoin ole tämän sote-uudistuksen takana. Edustaja Zyskowicz, vielä kerran
+kysyn: onko näin, vai tulkitsemmeko hiljaisuuden myöntyvyyden merkiksi?
+
+Puhemies Paula Risikko:  Jälleen puhujalistaan.
+
+14.40 Markku Rossi kesk: Arvoisa rouva puhemies! Sosiaalidemokraatit haluavat käydä
+tällaista pientä tarinatuokiota täällä sote-asian tiimoilta tietäen koko ajan, missä mennään,
+mutta poliittinen keskustelu kuuluu eduskuntaan, ilman muuta se on sallittua ja luvallista,
+joten mikäpä siinä. 
+
+Arvoisa puhemies! Ensinnäkin edustaja Viitanen tuossa aikaisemmin totesi, että valtio-
+varainvaliokunta antoi murskaavan [Pia Viitanen: Se oli murskaava!] tuomion sote-uudis-
+tukselle. No, valtiovarainvaliokunnan lausunto oli kaiken kaikkiaan hyvin kriittinen, eli
+katsottiin tarkasti niitä taloudellisia reunaehtoja, mahdollisuuksia, edellytyksiä, millä sote-
+uudistus toteutuu. Totta kai, voidaan sanoa, että vaikkapa kymmenen vuoden tähtäimellä
+on aina olemassa riskitekijöitä: kuinka paljon ict-puoli tuo todellisia säästöjä, maakunnilla
+10
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+ei ole verotusoikeutta, miten maakunnat pärjäävät, kuinka esimerkiksi yliopistosairaalat
+pärjäävät sitten kustannuskehityksessä ja rahan jaossa ja saannissa. Totta kai siellä on ky-
+symysmerkkejä. Suomalainen väestö vanhenee, ikääntyy, tarvitaan terveys- ja sosiaalipal-
+veluja entistä enemmän, eli kuka meistä osaa ennustaa edes uuden hallituskauden puolelle,
+mikä se sitten liekään, miten sitten mennään asioissa? Tässä suhteessa valtiovarainvalio-
+kunnan oma kanta oli hyvin kriittinen, kuulimme paljon asiantuntijoita, mutta ei se mis-
+sään tapauksessa ollut murskaava tälle sote-uudistukselle. 
+
+Mitä sitten tulee, arvoisa puhemies, maakuntaan ja maakuntavaaleihin, joita mielellään
+tässä yhteydessä aina pyöritetään, niin kyllähän se on selvä, että maakuntauudistus on yksi
+osa tätä kokonaisuutta. Minä ihmettelen myös, mikä pelko sosiaalidemokraateilla on siitä,
+että maakunnissa päätöksentekoa demokratisoidaan. Maakuntavaltuusto valitaan suorilla
+vaaleilla ja päättää sitten omalta osaltaan sekä koko maakunnan sote-palveluista että laa-
+jemmaltikin nykyisistä valtionhallinnon palveluista. Tässä mielessä kyllä tämä pitäisi näh-
+dä myönteisenä tekijänä kaiken kaikkiaan.
+
+Arvoisa puhemies! Vielä sitten tähän kysymykseen, mitä mieltä hallituspuolueet ovat si-
+toutumisesta sote-maakuntauudistukseen: Minulla on hyvin tarkkaa sisäpiirin tietoa. Puo-
+lueet ovat sitoutuneet hallituksen yhteiseen esitykseen, meidän trio elikkä hallituspuoluei-
+den johtajat ja myös eduskuntaryhmät toimivat aivan loistavasti tässä yhteydessä. On sel-
+vää, että jokaisessa ryhmässä on sisäistäkin keskustelua siitä, mikä uudistus on milläkin
+lailla parhaimmillaan ja niin edelleen, mutta se kuuluu demokratiaan. Sitä keskustelua pi-
+tää uskaltaa käydä. Ja oppositiosta, arvoisat edustajat, kyllä tekin voitte tulla tukemaan tätä
+esitystä sen sijaan että yritätte jarruttaa sitä kaikin keinoin. Nimittäin jos tämä jarrutus pys-
+tyisi jatkumaan ja tuottamaan tulosta, niin kyllä minä näen vielä vaarallisempana sen, että
+monissa kunnissa ollaan valmiita ulkoistamaan palveluita, kun odotetaan, tuleeko sieltä
+sote-uudistusta vai ei. Elikkä jos mennään sitä kuuluisaa karhua vastaan, tai oliko se sutta
+vastaan, niin se karhu voikin tulla sieltä.
+
+14.44 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Rossi
+puhui näistä tarinatuokioista. Nyt täytyy kuitenkin sanoa niin, että kyllä kai se nyt aika
+olennainen tieto on, onko hallitus sitoutunut tämän uudistuksen läpivientiin vai ei, mihin
+myös liittyy tämä lakiehdotus, joka täällä meillä on käsittelyssä ja jossa mennään vanhoilla
+laduilla, vanhoilla raiteilla olettaen, että uudistus on voimassa. Kun keskusta ja siniset ovat
+sanoneet, että kyllä, he ovat sitoutuneet, niin kokoomuksen suustahan sitä ei ole kuultu.
+Päinvastoin, nyt kuulimme, että edustaja Eestilä sanoi selvästi, että asia arvioidaan, kun
+lopputulos on tiedossa. Eivät semmoisia puheenvuoroja täällä yleensä hallituksen edusta-
+jat käytä — enpä nyt muista tältä kaudelta yhtään semmoista puheenvuoroa. Silloinhan ky-
+symys koskee sitä, olemmeko tässä keskustelemassa turhaan, ja sitä, onko niin, että tämä
+hallituksen isoimman hankkeen pohja on jo pettänyt, ja sitä, onko niin, että me käytämme
+täällä turhaa aikaa, koska tämä ei ole tulossa voimaan. Ja tähän liittyen on ihan relevantti se
+kysymys, mitä kokoomus tulee tekemään, koska hehän tämän ratkaisevat. Ja siihen on saa-
+tu nyt edustaja Eestilältä yksi vastaus, joka viittaa siihen, [Puhemies: Aika!] että asia ei ole
+ollenkaan selvä.
+
+Puhemies Paula Risikko:  Seuraava vastauspuheenvuoro, edustaja Guzenina, 1 minuutti.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+14.45 Maria Guzenina sd (vastauspuheenvuoro): Arvoisa puhemies! Olen nyt kolmatta
+kautta täällä eduskunnassa enkä ole koskaan — koskaan — kuullut vastaavaa mustan pu-
+humista valkoiseksi. Asiantuntijoiden näkemykset selitetään joksikin aivan muuksi kuin
+mitä ne paperilla ovat, ja jopa valtiovarainvaliokunnan arvovaltainen lausunto koetetaan
+puhua joksikin muuksi kuin mitä se on — se oli murskaava, arvoisa edustaja. Ja nyt pelo-
+tellaan yksityistämisbuumilla, mikäli tätä teidän epäkelpoa sote-pakettianne ei hyväksytä.
+Te pelottelette yksityistämisbuumilla — katsoitteko televisiota, jossa esimerkiksi HUSin
+sairaanhoitopiirin johtaja Aki Lindén totesi, että tämä on täyttä puppua? Siellä oli myös
+muita asiantuntijoita, jotka totesivat, että tämä on pelottelua ja täyttä puppua. Te ette luota
+siihen, että kunnissa on tehty hyvää työtä. Oletteko te perillä siitä, millä tavalla kunnissa on
+pystytty kehittämään näitä palveluita, esimerkiksi Eksotessa tai Uudellamaalla?
+
+Puhemies Paula Risikko:  Sitten oli vielä edustaja Tolppanen, vastauspuheenvuoro 1 mi-
+nuutti, ja sitten mennään puhujalistaan.
+
+14.46 Maria Tolppanen sd (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Hosko-
+nen, te sanoitte, että yksityiselle pääsevät vain rikkaat ja että köyhät joutuvat menemään
+terveyskeskuksiin. Ei se kyllä ihan näinkään ole. Mutta mikäli tämä sote menee eteenpäin,
+niin tiedättekö, miten siinä käy? Jos kaikki pääsevät jokaiseen paikkaan, niin siinä käy niin,
+että yksityisten hinta laskee teille ja minulle ja terveyskeskuksen hinta nousee teille ja mi-
+nulle, koska jossakin vaiheessa nämä kohtaavat toisensa. Me saamme hyvin toimeentule-
+valle väelle hyvän valtionavun sitä kautta. Ja jos sitten käy niin, että ihmiset eivät mene-
+kään enää sinne yksityiselle puolelle vaan menevät terveyskeskukseen, jossa on päivystys
+varmasti 24 tuntia vuorokaudessa, ja sinne päästään, niin mitä tapahtuu markkinapuolella?
+Markkinavetoinen puoli kuihtuu, se lähtee pois, jos ei ole tarpeeksi ihmisiä käymässä siel-
+lä. Näin siinä käy. Ja millä tavalla te takaatte tasa-arvon joka puolelle maata? Millä tavalla
+te takaatte, että Muoniossa on valittavana terveyskeskus tai julkinen puoli tai vaikka kolme
+eri julkista puolta, kun siellä ei ole yhtään tällä hetkellä? [Vastauspuheenvuoropyyntöjä]
+
+Puhemies Paula Risikko:  Sitten mennään puhujalistalle. Otetaan välillä aina debatteja,
+mutta nyt taas puhujalistalle hetkeksi.
+
+14.47 Hanna Sarkkinen vas: Arvoisa puhemies! Täällä on puhuttu laajasti ja sinänsä
+ihan ansiokkaasti sote- ja maakuntauudistuksesta. Itse tämän lakiesityksen yksityiskohtiin
+on tässä vaiheessa vielä vaikea ottaa kantaa, mutta asiantuntijakuulemisen aikana sitten
+varmasti yksityiskohdat selviävät.
+
+Edustaja Paatero otti täällä esille mielestäni olennaisen näkemyksen. On arvioitava, mi-
+ten tämä nyt esitetty kuntien ja muiden julkisten toimijoiden uusi ja lisätty toiminnan sään-
+tely vaikuttaa kuntien ja muiden julkisten toimijoiden kykyyn järjestää palveluita jousta-
+vasti esimerkiksi ateriapalveluissa, laboratoriopalveluissa tai muissa tukipalveluissa, jois-
+sa oma toiminta ja markkinatoiminta toteutetaan usein toiminnallisen sujuvuuden takia sa-
+moista yksiköistä.
+
+Tätä muutosta on nyt käsittelyn yhteydessä arvioitava suhteessa yhdessä jo aiemmin
+tehtyihin toiminnan rajoituksiin, erityisesti hankintalain ylitiukkaan sidosyksikkösäänte-
+lyyn, jonka hallitus ajoi tänne läpi EU-sääntelyä paljon tiukempana opposition vastustuk-
+sesta huolimatta, valitettavasti, sekä peilaten myös nyt esitetyn valinnanvapauslain muka-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+naan tuomiin hyvin tiukkoihin julkisen toiminnan rajoituksiin. Jos olen oikein ymmärtä-
+nyt, niin EU ei aseta suoraa velvoitetta nyt näihin tehtäviin esityksiin liittyen tähän kirjan-
+pidolliseen eriyttämiseen, mutta ehkä ministeri voi siihen vastata.
+
+Arvoisa puhemies! Tästä kokonaisuudestahan on jo muodostunut, ja kenties vielä lisää
+tämän esityksen myötä muodostuu, sellainen, että kunnissa ollaan jo helisemässä ylitiukan
+hankintalain kanssa ja pelätään, että soten myötä tulevat toiminnan rajoitukset johtavat li-
+sääntyvään byrokratiaan ja johtavat myös julkisten tukipalveluiden alasajoon, kun tällä hy-
+vin monimutkaisella ja tiukalla sääntelyllä tehdään erityisesti näiden tukipalveluiden tuot-
+taminen erittäin vaikeaksi. Nyt tämän lakiesityksen yhteydessä täytyy arvioida, että nyt ei
+ainakaan lisätä tätä hallinnollista taakkaa ja byrokratiaa ja vaikeuteta entisestään kuntien ja
+muiden julkisten organisaatioiden toimintaa.
+
+14.50 Johanna Karimäki vihr: Arvoisa puhemies! Hallitus on tuonut käsittelyyn kilpai-
+lulain muutoksen, joka hyvin ilmeisesti liittyy käsittelyssä olevaan sote-lainsäädäntöön.
+
+Pidän ongelmallisena sitä, että hallitus tuo kireässä aikataulussa lukuisia eri lakiesityk-
+siä, jotka liittyvät sote-esitykseen, johon monet asiantuntijat ovat esittäneet vakavaa kri-
+tiikkiä muun muassa saatavien hyötyjen suhteen. Nyt käsittelyssä oleva kilpailulaki ilmi-
+selvästi lisää julkisten toimijoiden byrokratiaa ja hallintomenoja, muun muassa kirjanpitoa
+tullaan vaatimaan lisää. Mietinkin sitä, että kun sote-lainsäädännön eteneminen on kuiten-
+kin epävarmoissa kantimissa, niin millä tavalla tämä lainsäädäntö sitten kuitenkin tulee li-
+säämään kuntien hallintobyrokratiaa, vaikka sote-lainsäädäntöä ei sitten loppujen lopuksi
+tulisikaan. Hallituksen markkinamallissahan ovat esimerkiksi neuvolapalvelut vaarantu-
+massa. Lakivaliokunta pohtii muun muassa asiakkaan oikeusturvan näkökulmasta tulevai-
+suutta.
+
+Nämä kaikki muutokset yhdessä ovat hyvin sekava kokonaisuus, ja toivoisin, että halli-
+tus paremmin selkiyttäisi omaa näkemystänsä ja antaisi eduskunnalle lisäaikaa kaikkien
+näiden lakiesitysten käsittelyyn. Monet asiantuntijat ovat todenneet, että hallituksen mark-
+kinamalli vaarantaa julkiset palvelut. Kun avataan näin massiivisesti palvelut yksityisille
+tuottajille ja monikansallisille yrityksille, niin siinä on myös riski esimerkiksi siihen, että
+julkinen valta joutuu myöhemmin korvausvelvollisuuteen, jos haluaisimme muuttaa jat-
+kossa tätä mallia. On erittäin paljon vakavia kysymyksiä, mitä tässä valtavassa kiireessä ja
+paineessa, millä hallituspuolueet ajavat käsittelyä, ei ehditä laadukkaasti käsittelemään.
+
+14.52 Markku Pakkanen kesk: Arvoisa rouva puhemies! Nykyinen lainsäädäntö mah-
+dollistaa jo julkisia palveluita siirrettävän markkinavoimille, ja näin tekevät monet kunnat.
+Sote-uudistuksen yhtenä tavoitteena on vahvistaa julkiset palvelut niin, että ne ovat kilpai-
+lukykyisiä näille yksityisille ja vältettäisiin tämä markkinavetoisen homman tulo.
+
+Täällä on myös esitetty kysymys, onko harkintaa käytetty liikaa. Ainakin itse tulkitsen
+näin, että täällä salissa ja tässä talossa on 14 vuotta jo harkittu tätä asiaa monella eri ko-
+koonpanolla ja viime viikkoina eri valiokunnat ovat tehneet hyvinkin perusteellista työtä,
+muun muassa valtiovarainvaliokunta. Siellä oli myös asiantuntijoita, jotka näkivät, että sii-
+nä on merkittäviä säästömahdollisuuksia. Kyllä niitäkin asiantuntija-arvioita pitää arvos-
+taa ja kunnioittaa, itse ainakin koen niin. 
+
+Täytyy aina muistaa, että tämän koko uudistuksen tarkoitus on kustannusten nousun kar-
+sinta ja sen hillitseminen, ja siinä mielessä tämän päivän lehtiuutinen, mikä kertoi Eksotes-
+ta ja 0,9 prosentin kustannusten nousun tavoitteesta, on minusta erittäin kunnianhimoinen.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+Ja miksei voisi olla kunnianhimoisia tavoitteita? Kaikilla alueilla ja kaikissa maakunnissa
+pitää pyrkiä kunnianhimoisiin tavoitteisiin — se vaan, että ratkaisu heillä oli, että toimi-
+paikkoja suljetaan, ellei näihin tavoitteisiin päästä. Edustaja Eestilä käytti hyvän puheen-
+vuoron. On paljon muitakin mahdollisuuksia kuin toimipaikkojen sulkeminen: tapa tehdä
+uudelleen ja tehokkaammin asioita, uudelleenjärjestelyjä. Kaikissa näissä asioissa on syy-
+tä kuunnella henkilökuntaa ja muistaa ne mahdollisuudet.
+
+Oikeutettua täällä on kysyä toisten puolueiden näkemyksiä tähän uudistukseen, mutta
+minun mielestäni yhtä lailla oikeutettua olisi kuulla myös opposition vaihtoehto sille, jos ei
+tämä uudistus toteudukaan. Itse ainakin olen sitoutunut tähän ja toivon, että täällä salissa
+jonkun ajan kuluttua päästään äänestämään tästä asiasta, koska maakunnissa tehdään hy-
+vää valmistelutyötä jo tällä hetkellä. Ainakin uskon, että se työ tulee tulevaisuudessa tuot-
+tamaan hedelmää, ja toivon, että se työ ei valu hukkaan.
+
+14.55 Pia Viitanen sd: Arvoisa puheenjohtaja! Ensin tuosta valtiovarainvaliokunnan lau-
+sunnosta: no, se kuvaa jo jotain, jos hallituspuolueen edustajakin myöntää, että se on hyvin
+kriittinen. Se on suomeksi sanottuna aivan sama kuin sinänsä murskaava. [Kari Kulmala:
+Kaukana siitä!] Se kannattaa lukea. Nimittäin siellä on siis hallituspuolueiden allekirjoit-
+tamaa kritiikkiä, että vaikutuksista ei ole arvioita, ei edes skenaariotasolla, rahoituksen riit-
+tävyydestä esitetään epäilyjä ja todetaan sen johtavan palveluiden leikkaukseen ja asiakas-
+maksujen nostoihin, kustannustenhillintätavoitteesta ei ole selkoa. Esimerkiksi tämän kes-
+kustelun näkökulmasta on aivan olennaista, että valiokunta pohtii myös sitä, että markki-
+noiden hallitsematon avaaminen voi johtaa julkisten palveluiden alasajoon ja hallitsemat-
+tomiin päällekkäisiin kustannuksiin.
+
+Kyllä tämä minusta nyt, arvoisat hallituspuolueet, aika kriittistä tekstiä teiltä on, ja si-
+nänsä kyllä en yhtään ihmettelekään sitä, että tässä viime aikoina on tullut tällaista liikeh-
+dintää ja näitä ilmoituksia sen suhteen, että emme ole varmoja kokoomuksen kannasta. Ja
+— nyt edustaja Zyskowicz lukuisista kysymyksistä huolimatta ei halua vastata tähän kysy-
+mykseen vaan parhaillaan poistuu salista — kyllä minusta, kun me kaikki ymmärrämme
+tietyt signaalit politiikassa, niin puhutut kuin puhumattomatkin — hiljaisuuskin on signaa-
+li — niin minun on nyt pakko, puhemies, tehdä vähän sellaisen suuntaisia johtopäätöksiä,
+että tämä on sinänsä aika iso uutinen. Me kysymme täällä oppositiosta, onko kokoomus si-
+toutunut soten läpiviemiseen, ja kokoomus ei vastaa, vaikka täällä on ryhmän varapuheen-
+johtaja paikalla. Ja edustaja Eestilä todellakin vastasi aivan toisin kuin aiemmin on kello
+ollut soittamassa, eli suurin piirtein, että katsellaan sitten kun kokonaisuus valmistuu. Että
+ei tämä puheenvuoro nyt mielestäni sitoutumista riemurinnoin todistanut, päinvastoin.
+Täällä on edustaja Rossi kertonut — hienoa niin — että hänellä on tietoa siitä, että hienosti
+menee ja kaikki yhdessä tähän ovat sitoutuneet, ja sinisiä edustava ministeri sanoi, että on
+sitoutunut tähän, mutta nyt se aivan olennainen kysymys on, onko kokoomus sitoutunut. 
+
+Nyt tämä tunnelma menee entistä hämmentävämmäksi. Se oli viikonloppuna jo outo —
+se oli jo viikonloppuna outo. Aina sanon, että tulee päivän sote, ja näköjään tämän päivän
+sote on löytynyt tästä salista tänään ja tästä keskustelusta.
+
+Puhemies! Olen ollut tässä talossa kauan, ja en ole juurikaan nähnyt tällaisia tilanteita,
+että puhumme aivan jättimäisestä uudistushankkeesta ja joka päivä spekuloidaan, miten
+sen kanssa käy, ja sitten täällä on sali, jossa kokoomuslaisia toki on läsnä mutta kukaan ei
+halua puhua, ja sitten varapuheenjohtajakin poistuu lopulta, kun asiaa häneltä kysymme.
+Eli nyt tässä on kyllä, uskoisin, puhemies, päivän sote.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+14.58 Maria Tolppanen sd: Arvoisa puhemies! Se minua häiritsee tässä koko keskuste-
+lussa, että tässä pidetään kynnyskysymyksenä ja tärkeimpänä kysymyksenä sitä, että kaik-
+ki pääsevät yksityiselle — aivan kuin meidän julkisella puolella ei olisi päteviä ja hyviä
+lääkäreitä. Siellä on. Meillä on esimerkiksi semmoinen tilanne, että meillä ihan sama lää-
+käri saattaa hoitaa ortopedin virkaa keskussairaalassa ja hänellä saattaa olla yksityisprak-
+tiikka. Myöskin urologi saattaa olla terveyskeskuksessa töissä, mutta silti on yksityisprak-
+tiikka. He ovat ihan samoja ihmisiä, saman koulutuksen saaneita ihmisiä, erikoistuneita ih-
+misiä. Minusta on erittäin loukkaavaa lääkärikunnalle, miten eduskunnassa heitä käsitel-
+lään.
+
+Mutta sitten, kun sanotaan, että kaikki pääsevät, voi valita juuri sen, meneekö sinisestä
+ovesta, punaisesta ovesta vai vihreästä ovesta, niin näinhän onkin, mutta mikä tulee silloin
+kysymykseen? Silloin tulee kysymykseen hinta, kun puhutaan valinnanvapaudesta. Silloin
+tulee kysymykseen hinta, mitä maksaa sininen ovi, mitä maksaa punainen ovi ja mitä mak-
+saa keltainen ovi. Se maksaa asiakkaalle saman, se on täysin selvä, mutta se välys kompen-
+soidaan valtion varoista eli verovaroista. Ja koska nyt on jo sanottu, että se, millä hintoja
+tullaan hillitsemään, on se, että ei anneta maakunnalle rahaa, ei anneta niin paljon rahaa, ei
+anneta veromarkkoja niin paljon, niin silloinhan se tarkoittaa sitä, että niitä hintoja on siel-
+lä nostettava tai siellä on toimintoja vähennettävä, jompikumpi. Tämäkö on se tarkoitus,
+mihin halutaan mennä?
+
+Ne kuuluisat säästöt vielä, otetaanpa kerran: Valtiovarainvaliokunnassa tosiaan ollaan
+luettu erittäin paljon erilaisia papereita ja kuultu jopa siitä, mistä säästöjä tulee. Oikeastaan
+sellainen paras kohta, mistä niitä säästöjä tulee, oli vanhustenhoidon digitalisaatio, koska
+siinä saadaan säästöjä muun muassa siten — yli 4 miljardia — että yksi perushoitaja tai lä-
+hihoitaja pystyy aamuvuoronsa aikana olemaan yhteydessä 20 vanhukseen digitaalisesti ja
+iltavuoron aikana hän pystyy olemaan yhteydessä 40 vanhukseen digitaalisesti. Minulta
+puuttuu kolme vuotta tästä kyseistä koulutuksesta ja sairaanhoitajan koulutuksesta vielä
+enemmän, mutta ihan noin talonpoikaisjärjellä voin sanoa, että onnea vaan. Onnea vaan
+siihen, että saadaan 40 vanhusta kuuden tunnin aikana toisessa päässä tulemaan läppärille
+tai tulemaan jollekin tietokoneelle, vaikka ensinnäkin muistamaan sen, että sinne pitää
+mennä, ja toisekseen, jos sieltä nurkasta kuuluu ”Marja hei, no niin, tulepas tänne, nyt kes-
+kustellaan” — mikä huutaa, kuka huutaa, täällä huutaa? Siis tämä on aivan käsittämätöntä.
+[Puhemies koputtaa] Nämä ovat pöyristyttäviä asioita.
+
+Puhemies Paula Risikko:  Erittäin hyviä puheenvuoroja, mutta aika kaukana ollaan tästä
+esityksestä, elikkä pyytäisin keskittymään esitykseen.
+
+15.01 Sirpa Paatero sd: Arvoisa rouva puhemies! Kilpailulaki on erittäin tarpeellinen sii-
+nä kohtaa, kun ollaan kilpailluilla markkinoilla ja kun erityisesti yritykset kilpailevat tois-
+tensa kanssa, ja ymmärrän sen myöskin vaikka kunnallisen energiayhtiön tapauksessa,
+joka kilpailee täysin kilpailuilla markkinoilla. Mutta en ymmärrä, miksi tämä hallitus ha-
+luaa monet niistä asioista, jotka tähän mennessä eivät ole olleet kilpailuilla markkinoilla,
+siirtää nyt kilpailluille markkinoille. Sen takia tämä sote elikkä kaikki sosiaali- ja tervey-
+denhuollon palvelut siirrettynä kilpailuille markkinoille, samalle viivalle, ei ole sen ideolo-
+gian mukaista, mitä minun mielestäni sosiaalidemokraatit haluavat nähdä tai mihinkä mei-
+dän perustuslakimme pääasiassa pohjautuu, että julkinen valta vastaa siitä, että ihmiset
+nämä palvelut saavat.
+15
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+Tämä samahan on toteutumassa myöskin työllisyyspalveluiden osalta, jolloinka halu-
+taan ajatella, että kilpaillut markkinat on ainoa keino, jolla sitten myöskin tämä nyt esitte-
+lyssä oleva lainsäädäntö toteutuu. Täällä on käyty keskustelua viime viikkoina myöskin jä-
+tehuollosta, jossa halutaan pois julkiselta puolelta, ja nuohouksesta, jossa vastuutakin ha-
+lutaan pois julkiselta puolelta. Elikkä kuntapuolelta on tämän hallituksen toimesta haluttu
+rajoittaa toimintamahdollisuuksia: sotea, työllisyydenhoitoa, nuohousta ja jätehuoltoa.
+Valtion puolella tämä sama malli on ollut, kun on keskitytty vaikkapa VR:ään, joka nyt ol-
+laan pilkkomassa ja halutaan markkinoille. Aloitettiin Metsähallituksesta, joka haluttiin
+markkinaehtoistaa.
+
+Kysymykseni nyt tässä kohtaa onkin, kun tämä kilpailulainsäädäntö on nyt se voima,
+joka vie tätä hallitusta eteenpäin, tämä markkinaehtoistaminen: ovatko seuraavaksi siis tu-
+lossa vankilat niin kuin USA:ssa, vai mitä markkinaehtoistetaan?
+
+15.03 Maria Guzenina sd: Arvoisa puhemies! Otin puheenvuoron edustaja Pakkasen pu-
+heenvuoron vuoksi, kun hän tuosta Eksotesta puhui. Eksote on todellakin trimmattu erit-
+täin kustannustehokkaaseen kuntoon. Mutta jos Eksoten kohdalla mietitään vertauksena
+vaikkapa appelsiinia ja siitä puristettavaa mehua, niin kuinka pitkään siitä appelsiinista sitä
+mehua hersyy? Jossain vaiheessa mehun tulo loppuu, kuoret jäävät vain jäljelle ja sieltä ei
+mehua enää saada, ja Eksoten tapauksessa tämä on se iso huoli.
+
+Tämä vaikuttaa myöskin kasvupalveluiden rahoitukseen. Kun tässä mietittiin tätä val-
+tiovarainvaliokunnan lausuntoa, niin siellähän todetaan, että tämä rahoituslakiehdotuksen
+6 §:n perustana oleva maakuntaindeksi ei ole perusteltu rahoituksen perusta sosiaali- ja ter-
+veyshuollon kustannuskehitykselle, koska se ei muodostu juuri ollenkaan sellaisista teki-
+jöistä, jotka kuvaisivat sote-menojen kehitystä. Ja tämän pitäisi olla meillä yhteinen tahto-
+tila täällä eduskunnassa, ei oppositio—hallituspuolue-jakokysymys, että me aidosti tur-
+vaamme sellaisen rahoitusjärjestelmän, jolla voidaan turvata sosiaali- ja terveyspalvelut ja
+nämä todella tärkeät kasvupalvelut, joista riippuu sitten myöskin tämä paikallistason elin-
+voima, jolla pystytään myöskin vähentämään niitä sosiaali- ja terveydenhuollon menoja.
+Eli tämä kaikki liittyy kaikkeen, ja sen vuoksi on erittäin tärkeää, että me realistisesti kat-
+somme tämän. 
+
+Nyt ihmettelen niin kuin monet muutkin täällä, että kokoomus lähti täältä paikalta ko-
+konaan pois, ei halua enää osallistua tähän keskusteluun. Onko tässä nyt niin, että sitten
+keskustapuolue on ainoa, joka realistiselta pohjalta tätä asiaa katsoo ja haluaa vielä käydä
+keskustelua?
+
+Otetaan nämä asiantuntijakuulemiset todesta. Katsotaan, millä tavalla voidaan saada
+tästä hyvä esitys, mutta se vaatii sen, että me katsomme todellisuutta silmiin, aidosti todel-
+lisuutta silmiin, ja teemme täällä eduskunnassa sellaisen kokonaispaketin, jonka kanssa ai-
+dosti voitaisiin elää. Ei niin, että siihen kytkeytyy jonkinnäköinen lehmänkauppa. Kyllä
+tämä työ pitää täällä saada tehtyä ihmisten eikä lehmänkauppojen hyväksi.
+
+15.05 Pia Viitanen sd: Arvoisa puhemies! Minusta täällä äsken edustaja Paatero käytti
+erinomaisen puheenvuoron, missä hän kokonaisvaltaisesti kuvasi sen, millä tämä hallitus
+nyt pistää Suomea kuntoon — Suomi myyntikuntoon, niinhän se menee. Eli tavallaan
+markkinaehtoistetaan sote, markkinaehtoistetaan työllisyyspalvelut, markkinaehtoistetaan
+nuohous, jätehuolto, valtion puolella lähdettiin sieltä metsäpuolelta, VR:ää ollaan markki-
+naehtoistamassa. Tämä edustaja Paateron yhteenveto tästä näkökulmasta oli erittäin hyvä,
+16
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+ja siksikin, puhemies, ainakin itse yhdistelen, kun aina mietin näitä politiikan kiemuroita,
+tämän markkinaehtoisuuden ja tämän kaiken hyvin vahvasti kokoomuksen ideologiaan.
+Minusta näyttää oudolta se tilanne, että täällä nyt keskustapuolueen edustajat — keskustan
+edustajat, kunnia teille — puolustatte hyvin voimakkaasti tätä markkinaehtoistamislogiik-
+kaa. Täällä sininen ministeri käy puhumassa markkinaehtoistamisen puolesta, ja olette sitä
+soteakin tässä pystyssä vielä pitämässä, sinisten ja keskustan voimin ainakin tänään täällä
+salissa.
+
+Mutta, ministeri, minä toivon, että te voisitte kuvata sitten, kun kokoomus ei halua pu-
+hua — kokoomus vaikenee, kokoomus kävelee ulos salista, kun kysytään, onko kokoomus
+sitoutunut — jonkinlaista sisäistä tilannetta siellä hallituksen sisällä, mitä keskusteluja nyt
+käydään tästä sotesta, koska ihan oikeasti, kun televisiotakin katsoo, lehtiä lukee, kuunte-
+lee lausuntoja, kyllähän siitä nyt voi nähdä, ettei tämä asia ihan niin yksinkertainen ole hal-
+lituksen sisällä. Minusta on hyvin outoa, että eduskunnalle ei voida antaa minkäänlaista
+selkeätä kuvaa, mitä tässä on tapahtumassa, varsinkin, kun tämäkin kyseinen laki liittyy
+kuitenkin tähän sote-kokonaisuuteen.
+
+15.07 Ari Torniainen kesk: Arvoisa rouva puhemies! On ollut erittäin mielenkiintoista
+kuunnella tätä keskustelua tästä hallituksen esityksestä. Välillä ollaan oltu hyvinkin lähel-
+lä tätä hallituksen esitystä, ja välillä hyvinkin kaukana tämä keskustelu on ollut itse tästä
+esityksen sisällöstä. Täällä on useassa puheenvuorossa viitattu Eksoteen, Etelä-Karjalan
+sosiaali- ja terveyspiiriin, ja niihin uutisiin, joita siitä on ollut viime päivinä lehdissä. Itse
+asiassa Eksote on toiminut, kun se on toiminut siellä vuodesta 2010 lähtien, erittäin hyvin.
+Se on hoidollisesti toiminut erittäin hyvin, parantanut koko ajan toimintaa. Se on taloudel-
+lisesti toiminut erittäin hyvin, tuotannollisesti erittäin hyvin.
+
+Se, miksi se on nyt ollut viime päivinä sitten tiedotusvälineissä, johtuu oikeastaan siitä,
+että Eksoten hallitus ja valtuusto ovat aikanaan tehneet tälle vuodelle erittäin hyvin oman
+budjettinsa ja sitoutuneet siihen budjettiin ja vielä Eksoten johdon tieto oli esimerkiksi
+Lappeenrannan kaupungille maaliskuussa, että Eksote kestää siinä budjetissa tälle vuodel-
+le, mutta kaksi kuukautta siitä eteenpäin toukokuussa Eksoten johdolta tuli tieto, että he ei-
+vät kestä siinä ja tarvitaan yli 10 miljoonaa euroa lisää euroja. Siitä syystä omasta mieles-
+täni myöskin tämä hallituksen esitys, mikä myöskin parantaa taloudellisesta toiminnasta
+erillistä kirjanpitoa, on hyvä ja se, että sitä kirjanpitoa seurataan myöskin. Toivon myöskin
+Eksotelta, että he sisällään tekevät ne toimenpiteet, joilla he itse katsovat, että he pystyvät
+parantamaan myöskin tätä taloudellista tilannetta, ja he ovat myöskin siihen itse sitoutu-
+neet, mutta se, ettei tulisi kuntataloudessa muutamassa tai kahdessa kuukaudessa isoja heit-
+toja, yli 10 miljoonan euron heittoja, olisi tärkeää.
+
+Myöskin Eksotessa on pidetty asiakasmaksut erittäin hyvällä tasolla. Niitä ei ole koro-
+tettu siellä. Se on ollut hyvä asia, ja myöskin palveluverkko on pyritty pitämään oikealla ta-
+solla, ja jokaisessa Etelä-Karjalan kunnassa palveluverkkoa on ollut saatavissa. Itse toi-
+von, että se toiminta voi jatkua myöskin hyvin suurin piirtein samanlaisena. Jos ja kun sote-
+uudistus saadaan maaliin, niin käytännössä Eksotesta tulee liikelaitos, joka sitten toimii
+Etelä-Karjalan maakunnan alaisuudessa, ja se toiminta ei suurestikaan siitä muutu. 
+
+Mutta itse tähän hallituksen esitykseen: kiitos ministeri Lindströmille siitä, että määrä-
+tietoisesti viedään niitäkin lakeja eteenpäin, jotka ovat liitännäisiä maakunta- ja sote-uu-
+distukseen.
+17
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+15.10 Eero Heinäluoma sd: Arvoisa puhemies! Kyllähän tämä on todella tarpeellinen
+keskustelu, koska tämä laki liittyy tähän maakunta- ja sote-uudistukseen, niin kuin tässä
+edellä todistettiin, ja nyt täytyy tietysti olla joku käsitys siitä, onko tämä koko uudistus enää
+elossa ja viedäänkö sitä eteenpäin. Jos se nimittäin ei ole elossa, sittenhän me keskustelem-
+me tältä osin ihan turhasta, ja tämä pitäisi palauttaa takaisin, tai tämä raukeaa. Ja kun tämä
+sote-uudistus on niin moneen muuhun tämän talon asiaan liittyvä, valtaisavaikutuksinen
+kokonaisuus, pitäisin suotavana, että tähän asiaan hallituspuolueilla olisi selkeä kanta.
+Muutenhan tässä eduskunnan aikaa ja myös kansalaisten aikaa käytetään ihan turhaan.
+
+Kun edustaja Zyskowicz poistui salista ja tuli takaisin, niin uskon, että hänellä on nyt
+viimeinen tieto siitä, mikä tämä kokoomuksen kanta on, ja saamme sen hetken kuluttua tie-
+tää.
+
+Sehän on käynyt selväksi, että siniset ja keskusta todellakin ovat tämän uudistuksen ta-
+kana ja vievät sitä täällä eteenpäin, ja pääministeri taisi sanoa, että perustuslakivaliokun-
+nan vaatimat muutokset tehdään. Se oli minusta sinällänsä ymmärrettävä ja oikea kanta
+pääministeriltä, että perustuslakivaliokuntaa tältä osin kunnioitetaan, [Markku Rossi: Tot-
+ta kai!] ja kun se kanta vielä toivottavasti koskee näitä aikataulukysymyksiä ja myös niissä
+toimitaan suomalaisen oikeusnormiston ja myös kansainvälisten demokratianormistojen
+mukaisesti, niin se selkiinnyttää asiaa.
+
+Mutta ratkaisevaa on tietysti nyt se, mitä kokoomus tekee, onko se sitoutunut tähän uu-
+distukseen, onko se viemässä sitä eteenpäin ja onko kokoomus valmis siihen, niin kuin
+pääministeri on sanonut, että perustuslakivaliokunnan vaatimat muutokset tehdään ja uu-
+distus viedään eteenpäin. Silloinhan tämänkin lain käsittelyllä on joku pohja, jos se on niin
+kuin pääministeri sanoi. Mutta toistaiseksi tätä kantaa kokoomuksesta ei ole kuultu. Päin-
+vastoin kuultiin edustaja Eestilää, joka sanoi, että tähän otetaan kantaa sitten kun sosiaali-
+ja terveysvaliokunnan mietintö on valmis. Tosin ihmettelen kyllä, mitä ne kokoomuslaiset
+siellä sosiaali- ja terveysvaliokunnassa tekevät mietintöä tehdessään, jos kanta otetaan vas-
+ta valiokunnan mietinnön jälkeen. Siinä tietysti voi mennä sitten hämmästyksen sormi ih-
+metyksen suuhun siellä valiokunnassa.
+
+Mutta rohkenen toivoa, että edustaja Zyskowicz, joka on tunnettu selkeäpuheisena kan-
+sanedustajana, kertoo tämän kokoomuksen kannan nyt meille seuraavaksi, ja jään odotta-
+maan mielenkiinnolla seuraavaa puheenvuoroa.
+
+15.13 Markku Pakkanen kesk: Arvoisa rouva puhemies! On käyty mielenkiintoista kes-
+kustelua täällä, ja itse voisinkin esittää toivomuksen, että kun sosiaalidemokraatit kovasti
+toivovat edustaja Zyskowiczin vastausta, niin voitaisiin joskus kuulla eduskunnassa oppo-
+sition kyselytunti edustaja Zyskowiczille. Se voisi olla mielenkiintoista kuultavaa. No,
+ehkä kevennyksenä tähän.
+
+Tämä itse hallituksen esitys on tärkeä. Tämä todellakin kuuluu tähän sote- ja maakunta-
+uudistukseen, ja pidän tärkeänä, että tämä keskustelu käydään tänään mutta asiaa viedään
+jämäkästi täällä eteenpäin. Ainakin keskustan ryhmä on vahvasti sitoutunut siihen, mitä
+pääministeri sunnuntaisella haastattelutunnillaan kertoi siihen rauhalliseen tyyliinsä, joka
+pääministeri Sipilällä on: asiaa viedään eteenpäin, ja valiokunnat tällä hetkellä vielä asiaa
+täällä talossa käsittelevät. 
+
+Tämä Eksoten tilanne: Todellakin, niin kuin täällä on kerrottu, Eksote on hyvässä trim-
+missä ja hyvässä kunnossa, ja nyt tässä edustaja Torniainen asiantuntevasti kertoi myös nii-
+tä syitä ja ongelmia, joiden kanssa tällä hetkellä painitaan. Mutta sen Eksotenkin tilanteen
+18
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+suhteen mielestäni tässä sote-uudistuksessa on tärkeä nähdä, että tapa tehdä jollain lailla
+uudella tavalla mahdollistaa tällaisen hyvinkin trimmatun järjestelmän paremman toimi-
+vuuden, eikä lähdetä sille linjalle, mitä lehdessä oli, että toimipaikkoja lähdetään heti en-
+simmäiseksi sulkemaan tai miettimään sitä asiaa. Elikkä tältä pohjalta.
+
+Mutta edustaja Paatero — joka nyt poistui salista — kertoi aivan oikein, kuinka paljon
+on yksityistetty hänen kotikaupungissaan nimenomaan työterveyshuoltoa, sähköyhtiöitä
+on myyty ja nostettu kuntataloutta sillä lailla. Hekin ovat tulleet siihen ratkaisuun, että se
+yksityinen on hyvä ratkaisu silloin kun kunnalta rahat loppuvat, tapa tehdä toisin ja uudis-
+tua. Kotkalaiset ovat juuri näin toimineet. Itse naapurikaupungissa emme ole ulkoistaneet
+tai yksityistäneet terveydenhuoltoa, vaan haluamme tämän maakuntauudistuksen ja sote-
+uudistuksen viedä eteenpäin ja sillä lailla turvata julkiset terveydenhuoltopalvelut kotikau-
+pungissamme ja sitä kautta myös kotimaakunnassamme.
+
+15.15 Ben Zyskowicz kok: Arvoisa rouva puhemies! Presidentti Koivisto sanoi aikoi-
+naan, että jos provosoidaan, ei pidä provosoitua. Mutta kun täällä keskustelussa lähinnä so-
+siaalidemokraattiset edustajat ovat niin sinnikkäästi ja ylisanoja lausuen imartelemalla pyr-
+kineet haastamaan minua mukaan keskusteluun ja kun en halua olla syventämässä edustaja
+Viitasen hämmennyksen tilaa, päätin muutaman sanan tässä lausua, vaikka koen, että nyt
+esillä oleva asia liittyy vain välillisesti sote- ja maakuntauudistukseen, mutta liittyy kuiten-
+kin. [Eero Heinäluoma: Alku hyvä!]
+
+Kun kysyttiin, ovatko hallituspuolueet kaikki viemässä uudistusta eteenpäin, niin vas-
+taus on: kyllä ovat. Tänäänkin useammassa eduskunnan valiokunnassa on tehty tuntikau-
+sia töitä, joilla on viety sote- ja maakuntauudistusta eteenpäin, ja tänään myöhemmin vielä
+puhemiesneuvosto on koolla, ja siellä varmasti käsitellään eduskunnan kevään aikataulua,
+joka myös liittyy tämän uudistuksen eteenpäinviemiseen. 
+
+Täällä on sanottu, että jos perustuslakivaliokunta edellyttää muutoksia, ovatko hallitus-
+puolueet valmiit niitä tekemään. Totta kai ovat. Meidän järjestelmämme on sellainen, että
+jos perustuslakivaliokunta katsoo jonkun tai joitakin kohtia perustuslain vastaisiksi, ne
+kohdat on muutettava, mikäli esitys aiotaan viedä eteenpäin.
+
+No, sitten on kysytty, että no, mitäs kokoomus. Tämä, mitä edellä sanoin eteenpäinvie-
+misestä ja perustuslakivaliokunnan edellyttämien muutosten tekemistä, koski tietysti myös
+kokoomusta. Mitä poliittiseen arvioon tulee, niin aivan kuten edustaja ja kokoomuksen pu-
+heenjohtaja Orpo lauantaina Ykkösaamussa totesi, meille keskeistä uudistuksessa on se,
+että pystytään parantamaan kansalaisten terveyspalveluja, pystytään parantamaan niiden
+saatavuutta, niiden yhdenvertaisuutta, niiden kustannustehokkuutta. Tähän valinnanva-
+paus perusterveydenhuollossa on tärkeä väline. 
+
+Toinen kokoomukselle todella tärkeä peruste koko sote- ja maakuntauudistukselle on se,
+että pystytään hillitsemään kustannusten kasvua. Puheenjohtaja Orpo sanoi lauantaiaamu-
+na, että mikäli näissä hyvin tärkeissä tavoitteissa, jotka liittyvät kansalaisten palvelujen tur-
+vaamiseen ja toisaalta kustannusten kasvun hillitsemiseen, edetään hallituksen toivomalla
+tavalla ja lähtökohdista, niin totta kai olemme tämän takana. Jos kävisi niin, että tältä osin
+täällä lähtisi uudistus kovin muuttumaan, totta kai me silloin arvioimme suhtautumista
+näin muuttuneeseen uudistukseen. 
+
+Ja lopuksi, mitä aikatauluihin tulee, niin jos joudutaan rukkaamaan sote-palveluiden ja
+valinnanvapauden voimaantulon aikataulua, niin on luonnollista, että se vaikuttaa silloin
+koko uudistuksen aikatauluun. 
+19
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+15.18 Eero Heinäluoma sd: Arvoisa puheenjohtaja! Huomaan todellakin, että taisin syyl-
+listyä ylisanoihin, kun sanoin, että edustaja Zyskowiczilta saa aina suorasukaisia vastauk-
+sia. Nimittäin tuon vastauksen jälkeen en kyllä nyt ymmärrä, mikä se kokoomuksen kanta
+on. Se tuntuu olevan sekä—että, eli siis kokoomus on sekä sitoutunut tähän uudistuksen
+eteenpäinvientiin että siihen, että sitä ei viedä eteenpäin, kun hän sanoo, että asiaa sitten ar-
+vioidaan näiden tavoitteiden toteutumisen kannalta.
+
+Ministeri Orpo taisi sanoa niin, että kokoomuksen eduskuntaryhmä ei voi tukea tätä esi-
+tystä, jos nämä hänen luettelemansa asiat eivät ole sisällä. No, kun hallituksella on kuiten-
+kin enemmistö, niin kysymys on kai silloin siitä, että kokoomus on tekemässä uutta arviota
+tämän kokonaisuuden hyödyllisyydestä — ilmeisestikin sen jälkeen, kun perustuslakiva-
+liokunnan mietintö on tiedossa.
+
+Eli ikävä kyllä, edustaja Zyskowicz, joudun siis tulkitsemaan teidän puheenvuoroanne
+niin, että te ette ole viemässä tätä uudistusta enää eteenpäin, ennen kuin näette, mikä on pe-
+rustuslakivaliokunnan mietinnön tulos. Te ette ole valmiita siihen, mitä pääministeri sa-
+noi, että perustuslakivaliokunnan vaatimat muutokset viedään lainsäädäntöön. Se oli sel-
+keä kanta, sen ymmärrän. Mutta te haluatte arvioida, suostutteko te viemään näitä perus-
+tuslakivaliokunnan vaatimia muutoksia lainsäädäntöön vai ettekö, ja se on kova kannanot-
+to uudistuksessa, joka on hallituksen suurin uudistushanke, jota on tehty todella pitkään ja
+perusteellisesti, jossa on tuhansia sivuja asiaa käsittelyssä. Ja parhaillaankin valiokunnat,
+siis tämänkin päivän aikana, ovat istuneet tämän asian päällä.
+
+Jos tämä on niin, että kokoomus miettii omaa kantaansa uusiksi, niin se on valtaisa juttu
+tämän uudistuksen kannalta ja se tekee myös tyhjäksi tähän nyt ministeri Lindströmin esit-
+telemään lakiin liittyvät toimeenpanosäännökset ja myös osan sisältöäkin, joten olisi aika
+toivottavaa, että kokoomuksen kanta selviäisi nopeasti, mitä he tulevat tekemään. Muutoin
+täällä tehdään turhaa työtä ja rakennetaan jotain semmoista, jolla ei ole pohjaa. Siis par-
+haimmillaankin on tiedossa, että ilmeisesti 101 edustajan enemmistöllä tätä viedään eteen-
+päin, mutta jos kokoomus ei ole mukana, niin sitten oletan, että sitä 101:täkään ei enää ole
+vaan ollaan siinä tilanteessa, että tämä ei mene eteenpäin.
+
+Joten, edustaja Zyskowicz, olen siinä tilanteessa, että tulkitsen teidän ilmoittaneen, että
+kokoomus ei ole enää sitoutunut uudistuksen läpivientiin eikä ole sitoutunut siihen, että pe-
+rustuslakivaliokunnan vaatimia muutoksia viedään lainsäädäntöön, vaan haluaa arvioida
+tukensa koko uudistukselle, ja se on Suomen politiikan isoja uutisia.
+
+15.21 Pia Viitanen sd: Arvoisa puhemies! Edustaja Zyskowicz, te aloititte puheenvuo-
+ronne sillä, että ette halua lisätä edustaja Viitasen hämmennystä, mutta kyllä tässä nyt pik-
+kusen tragikomiikan piirteitä on, nimittäin olen vielä enemmän hämmästynyt tämän Ben
+Zyskowiczin puheenvuoron jälkeen, koska ihan sama kuva minulle jäi kuin edellä puhu-
+neelle edustaja Heinäluomalle siitä, että ei tämä vastaus ollut sellainen vastaus, että me voi-
+simme tulkita niin, että kokoomus on ilman muuta tätä viemässä eteenpäin. Ei ollut, se oli
+sekä—että-vastaus: sanotaan, että tuetaan, mutta kuitenkaan samaan aikaan ei myönnetä
+sitä, että ollaan valmiita viemään sitten tarvittavia muutoksia eteenpäin, esimerkiksi sen
+perustuslakivaliokunnan tuloksen jälkeen. Eli ei tämä tulkinta, minkä edustaja Heinäluo-
+ma teki, arvoisa edustaja Zyskowicz, arvoisa hallituspuolue ja arvoisa ministeri, nyt kyllä
+kaukana ole siitä, että se varmasti oikea on. Me tulkitsemme nyt näin. Tämä on, kuten sa-
+nottu, päivän sote-uutinen, tämän puheenvuoron jälkeen sanoisin, että melkeinpä päivän
+jymy-sote-uutinen. [Välihuutoja] Eli kyllä tämä nyt todella hämmentävältä näyttää. Ja jos
+20
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+näin on, niin minä kyllä toivoisin myös sitä, että, ministeri, veisitte tästäkin keskustelusta
+terveiset ja hallitus, hyvin pian keskenänne keskustelisitte tästä asiasta. Nimittäin eihän
+tämä voi olla teidänkään kannaltanne edullista, että te täällä seisotte ja riemurinnoin puo-
+lustatte jotain uudistusta, joka on alun perin lähtenyt kokoomuksen halusta markkinaeh-
+toistaa kaikki, ja sitten kuitenkin voi olla, että tämä kaikki kaatuu, mikä tietenkin meidän
+näkökulmastamme olisi toivottavaa, koska sote-uudistusta sinänsä tarvitaan mutta ei mis-
+sään nimessä näillä malleilla, mitä nyt hallitus tarjoaa.
+
+15.23 Eero Heinäluoma sd: Arvoisa puhemies! Tässähän on selvästikin se tilanne, että
+kokoomus ei nyt kauhean mielellään halua tällä kertaa aiheesta keskustella, koska tässä sa-
+lissa on paikalla ainoana kokoomuslaisena edustaja Zyskowicz. Mutta onhan tämä nyt aika
+relevantti kysymys, onko hallituksen sote-uudistuksella kaikkien hallituspuolueiden tuki
+edelleenkin. Kun tuon ministeri Orpon puheenvuoron kuunteli lauantaina ja nyt sitten
+edustaja Eestilän ja edustaja Zyskowiczin puheenvuoron, niin kyllähän kaikki sanovat, että
+sitten tilannetta arvioidaan, vieläkö uudistusta tuetaan, eli koko tältä sote-hankkeelta on
+ehkä jo pudonnut pohja pois.
+
+Kun salissa on paikalla myös erittäin kokenut toinenkin poliitikko, varapuhemies Pek-
+karinen, niin rohkenen toivoa, että hän voisi arvioida tätä tilannetta oman kokemuksensa
+valossa: onko ennen tullut tällaista tilannetta, että olisi näin iso uudistus, joka on eduskun-
+nan käsittelyssä ja josta sitten kesken uudistuksen käsittelyn toinen johtava hallituspuolue
+ilmoittaisi, että se ei enää tiedäkään, tuleeko se tukemaan tämän uudistuksen läpivientiä, ja
+tulee arvioimaan asiaa ilmeisestikin uudelleen. Onko tällaista ollut sinä pitkänä aikana, ar-
+voisa edustaja Pekkarinen, kun olette ollut eduskunnassa, koskaan teidän edessänne? Mitä
+mieltä olette siitä, että kaikki hallituspuolueet eivät näytä sitoutuneen pääministerin ilmoi-
+tukseen siitä, että perustuslakivaliokunnan vaatimat muutokset lainsäädäntöön tullaan te-
+kemään? Siitähän tämä ongelma nyt tulee, että kaikki eivät selvästikään ole tähän sitoutu-
+neet.
+
+15.24 Maria Guzenina sd: Arvoisa puhemies! Onhan tämä tietenkin eduskunnalle pro-
+sessina hyvin raskas, mutta täytyy sanoa, että vaikka turha työ, näin sanotaan, on ihmiselle
+pahin rangaistus, niin jollain tavalla tämä prosessi on ollut kyllä hyödyllinen, koska — niin
+kuin tänään täällä keskustelu on ilmentänyt — kokoomuksella ei näytä olevan selkeää kan-
+taa enää. On tärkeää, että näistä asioista puhutaan myöskin julkisesti. Näyttää hyvin vah-
+vasti siltä, että siniset ja keskusta tukevat tätä uudistusta, haluavat, että perustuslakivalio-
+kunnan kannat, sitten kun sieltä tulee kannat, myöskin vaikuttavat siihen, millä tavalla tätä
+esitystä tullaan muokkaamaan.
+
+Aivan niin kuin edustaja Heinäluoma, minäkin kysyisin täällä eturivissä istuvalta hyvin
+arvostetulta parlamentaarikolta, entiseltä ministeriltä, varapuhemies Pekkariselta: Mikä
+teidän näkökulmanne tähän tilanteeseen on tällä hetkellä? Onko tämä eduskunnan arvoval-
+lan mukaista, että ikään kuin julkisuuden kautta joudutaan onkimaan niitä tietoja, vai pitäi-
+sikö täällä puhua rehellisemmin toinen toisillensa ja etenkin teillä hallituksen sisällä?
+
+15.26 Mauri Pekkarinen kesk: Arvoisa puhemies! Kuuntelen kiinnostuneena käytävää
+keskustelua mutta nyt minä joudun tässä kohdassa toteamaan, että varapuhemies ei — ko-
+rostan: tässä kohdassa — ole poliittinen henkilö. Siitä syystä en tietystikään kommentoi
+yhtään mitään muuta kuin kiitän tästä keskustelusta, mitä tässä käydään.
+21
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+15.26 Eero Heinäluoma sd: Arvoisa puhemies! Kyllä tätä vaatimattomuutta on nyt salis-
+sa oikein runsain mitoin liikkeellä. En kysynyt edustaja Pekkarisen arviota tästä sote-uu-
+distuksesta, vaan kysyin teidän arviotanne siitä, onko teille tullut koskaan aikaisemmin
+eteen sellaista tilannetta teidän pitkän parlamentaarisen uranne aikana — joka alkoi kai jo
+70-luvulla — jossa kesken hallituksen ison uudistushankkeen johtava hallituspuolue olisi
+ilmoittanut, että se ei enää seiso sen takana vaan arvioi, tukeeko se uudistusta. Onko täm-
+möistä koskaan aikaisemmin ollut? Rohkenen epäillä, että ei ole, että tilanne on ollut sel-
+lainen, että hallituspuolueet ovat sitoutuneet ohjelmaansa ja vieneet sitä eteenpäin. Kun
+pääministeriltä on tullut selkeä linjaus, että hän sanoo, että perustuslakivaliokunnan vaati-
+mat muutokset tullaan tekemään ja uudistus viedään eteenpäin, niin sehän on selkeä kanta.
+Se on ymmärrettävä kanta, ja se vastaa tietysti sitä, mihin hallitus omassa työssään on si-
+toutunut. Mutta jos toinen hallituspuolue sanoo, että tilannetta arvioidaan, ja sitten puheen-
+johtaja hallituspuolueesta menee vielä niin pitkälle, että sanoo, että ei kokoomuksen edus-
+kuntaryhmä tule tukemaan, jos sen tärkeinä pitämät tavoitteet eivät olekaan riittävällä tark-
+kuudella toteutumassa, niin sehän on ilmoitus, että tämä on hyllyvällä pohjalla.
+
+Minusta olisi ihan kohtuullista — ja uskon, että Suomen parlamentarismi sen kestää —
+että edustaja Pekkarinen tämän historian muiston kertoo. Sehän on eri asia, ja ymmärrän,
+että hän ei halua tähän kiistakysymykseen ottaa kantaa, ja siinä pidättyväisyys voi hyvin-
+kin olla paikallaan, mutta historiaa voi aina kertoa ilman, että siinä tulee kompromettoiduk-
+si millään tavalla.
+
+15.28 Toimi Kankaanniemi ps: Arvoisa rouva puhemies! Minulla ei ole lähellekään niin
+pitkä poliittinen ura täällä kuin on edustaja, varapuhemies Pekkarisella ja edustaja Zysko-
+wiczilla, mutta 87 aloitin eli 31 vuotta sitten, ja kyllä täytyy sanoa, että sinä aikana en ole
+tällaista edustaja Heinäluoman peräänkuuluttamaa taikka kyselemää tilannetta tavannut.
+Siitä ihan en tiedä, mitä tapahtui viime vaalikauden lopulla, jolloin edustaja Heinäluoma
+oli puhemiehenä, kun hallituspuolueet äänestivät omia esityksiään vastaan ja vain edustaja
+Sasi puolusti hallituksen linjaa, onko se tapahtuma verrattavissa tähän. Mutta siis aivan his-
+toriallinen asia varmastikin tämä on — onko ainutkertainen, sitä on siis vaikea sanoa — se,
+että heitetään ilmaan tällainen pallo, että ”emme ole tähän sitoutuneet tosiasiassa vaan kat-
+somme sitten”. 
+
+No, toisaalta meidän täytyy kunnioittaa eduskuntana perustuslakivaliokuntaa, antaa sil-
+le täysi työrauha, ja sitten kun se lausuntonsa antaa ja esittää siellä tiettyjä muutoksia —
+niitä nyt melko varmasti tulee näin isossa paketissa useampiakin — niin ne pitää toteuttaa,
+ei mitään muuta mahdollisuutta ole, tai todeta, että vaatimukset ovat niin kovia, että niitä ei
+joko teknisistä syistä, aikataulusyistä tai poliittisista syistä päästä toteuttamaan. Tämä ti-
+lanne on nyt edessä, mutta se nähdään ehkä viikon kuluessa, näinkö käy.
+
+Itse kokonaisuuteen täytyy sanoa: Tässä edustaja Ville Vähämäki valtiovarainvaliokun-
+nassa esitti hienon kolmion tämän uudistuksen osalta. Yhtenä tahona on hyvät palvelut,
+josta olemme kaikki tavoitteena yksimielisiä. Toinen on 3 miljardin kustannusten alene-
+man tavoite, joka on nyt sitten kirjoitettu tänne lainsäädäntöön budjettirajoittimella, ja se
+on hyvin ongelmallinen varmasti myös perustuslain kannalta, mutta en tulkitse sitä sen
+enempää. Kolmas taho on laaja valinnanvapaus, joka on kirjoitettu kokoomuksen vaati-
+muksesta tähän järjestelmään. On selvää, että nämä kaikki kolme, hyvät palvelut, isot sääs-
+töt ja laaja valinnanvapaus, eivät voi yhtä aikaa toteutua, ja ymmärrän, että puheenjohtaja,
+valtiovarainministeri Orpo otti tähän kantaa, että jos nämä kaikki eivät toteudu, niin kokoo-
+22
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+mus harkitsee, mitä tekee. Nyt tietysti ollaan siinä tilanteessa, että tämä harkinnan aika al-
+kaa olla, ja olisi tietysti eduskunnan työn kannalta mielenkiintoista, jos saataisiin se tulkin-
+ta nyt jo tänään eikä tehtäisi turhaa työtä.
+
+15.31 Pia Viitanen sd: Arvoisa rouva puhemies! Kyllä minä arvelen, että tämä on aika ai-
+nutkertainen tilanne eduskunnassa vuosien varrella, koska harvoin täällä tehdään näin iso-
+ja uudistuksia kuin tässä nyt pöydällä on ja kesken uudistuksen koko retoriikka johtavalla
+puolueella, kokoomuksella, muuttuu. Siis Petteri Orpo antoi ehdot soten toteutumiselle: jos
+yhtälö ei toimi, meillä ei ole syytä tätä tukea. Tällainen otsikko tuli lauantaina. Tämähän on
+aivan toisenvireinen sanoma kuin se, mikä kokoomuksella tähän asti on ollut, mikä halli-
+tuksella on tähän asti ollut. Näin se nyt vain on. Eli minun tulkintani on se, että ei tilanne
+ole ollut koskaan ennen tämänkaltainen, että elämme tässä ja nyt tilannetta, että me emme
+ollenkaan tiedä, mitä seuraavaksi tuleman pitää.
+
+Kaiken kaikkiaan, puhemies, jos nyt Orpo sanoo, että jos eivät tavoitteet toteudu, niin ei
+ole syytä tukea — niinpä. Ja kuten täällä äsken todettiin, niin hyvin todennäköistä on, että
+ne kokoomuksen asettamat tavoitteet eivät toteudu eivätkä ylipäätään hallituksen hyvältä
+kuulostavat tavoitteet siitä, että samaan aikaan joku hieno valinnanvapaus tulisi ja kustan-
+nuksia säästyisi ja menojen kasvua hillittäisiin. Aika moni asiantuntijalausunto nyt vahvas-
+ti sanoo, että näin ei tule käymään. [Maria Guzenina: Enemmistö!] — Selkeä enemmistö,
+ei niitä puolustajia kovin montaa ole löytynyt. [Maria Guzenina: Yksi löytyy!] — Yksi löy-
+tyy, edustaja Guzenina on yhden löytänyt.
+
+Mutta ihan oikeasti, puhemies, tässä mennään, ja tilanne on vakava. Siksikin, koska tätä
+päivää eletään nyt näissä merkeissä, että kokoomus näyttää irtisanoutuneen, olisi aika rei-
+lua, että tästä aika pian hallitus johtopäätöksensä tekisi ja myös informoisi eduskuntaa täs-
+tä asiasta.
+
+15.33 Markku Pakkanen kesk: Arvoisa rouva puhemies! Niin kuin tämä salikeskustelu
+hyvin osoittaa, niin tässähän pelataan selvästi vain aikaa ja pallotellaan tämän asian kanssa
+ja tulkitaan toistemme sanoja. Voin kuvitella, että jos tämä keskustelu tuolla valiokunnissa
+on tämäntyylistä, niin ei ihme, että tämän asian käsittely on pitkittynyt ja päätöksenteko
+vaikeutunut.
+
+Se, onko tässä asiantuntijakuulemisesta aina kysymys — jokainen voi siinä ainakin kat-
+soa itseään peiliin, onko tämäntyyppinen keskustelu edes tarkoituksenmukaista, jos me
+täällä nyt vuoron perään pyydämme puheenvuoroja, niin kuin tässä nyt itsekin sorrun sii-
+hen, että käytän puheenvuoron vain sen takia, että voin arvioida, onko tämä ajanpeluuta,
+pitkittämistä vai tällaista teatraalista hommaa, niin kuin ainakin itse tulkitsen. Arvostan ko-
+keneita politiikkoja. Täällä heitellään pallo ilmaan ja sitten katsotaan, otetaanko kiinni kuin
+jonglööri, ja tämäntyyppistä. 
+
+Toivottavasti siellä valiokunnissa, niin perustuslakivaliokunnassa kuin sosiaali- ja ter-
+veysvaliokunnassa, käydään vähän pohdiskelevampaa ja syvällisempää keskustelua ja vie-
+dään asiaa eteenpäin, jotta tästä asiasta sitten päästään täällä salissa aikanaan päättämään ja
+viedään sitten asia eteenpäin. Ymmärrän, että kaikki täällä salissa sen kyllä haluavat rat-
+kaista, mutta tapa, millä se ratkaistaan, nyt vielä pikkuisen on auki.
+
+15.34 Eero Heinäluoma sd: Arvoisa puhemies! Eihän täällä mitään palloa ole ilmaan hei-
+tetty, [Markku Rossi: Montakin!] vaan sen pallon heitti ilmaan kokoomuksen puheenjoh-
+23
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+taja, valtiovarainministeri Orpo, hallituksen varapääministeri, viime lauantaina. Hän sa-
+noi, että kokoomuksen eduskuntaryhmä tulee sitten arvioimaan, voiko se tukea tätä esitys-
+tä, ja ilmoitti, että ei voi tukea, elleivät nämä ja nämä asiat ole tässä mukana. Siinä on se
+pallo heitetty ilmaan. Sen jälkeen on auki, onko tällä meidän keskustelullamme näistä la-
+kiehdotuksista, jotka on soteen kytketty, enää mitään mieltä, koska tämä on kokoomuksen
+eduskuntaryhmän käsissä. Tähän olen perännyt täällä mielestäni aika oikeutetusti [Pia Vii-
+tanen: Aivan oikeutetusti, kyllä!] vastausta, mitä kokoomus tekee, tukeeko se tätä esitystä
+vai ei.
+
+Nyt olemme kuulleet, että edustaja Zyskowicz on kokoomuksen puheenjohtajan kanssa
+samoilla linjoilla eli tämä asia on auki. Kokoomus ei enää tue tämän läpivientiä tavalla,
+jonka pääministeri on kertonut, vaan kokoomus arvioi tilannetta jossain vaiheessa. Emme
+tiedä, koska se tapahtuu, sitä ei ole kerrottu, mutta jossain vaiheessa arvioi tilannetta. Jos
+tällaisesta asiasta eduskunta ei saa keskustella eikä keskustele, niin mistä me sitten keskus-
+telemme? Kaikkein tärkein uudistus, josta johtava hallituspuolue ilmoittaa, että se ei enää
+tue sen eteenpäinvientiä vaan arvioi tilannetta — [Keskustan ryhmästä: Ei johtava!] kyllä
+kai sellaisesta eduskunnan pitää keskustella. [Eduskunnasta: Mikäs on pääministeripuo-
+lue? — Välihuutoja] — Kyllä minä annan kokoomukselle erittäin korkean arvosanan ja pi-
+dän sitä johtavana hallituspuolueena. Nythän se tulee nähtäväksi, kuka tätä hallitusta joh-
+taa: onko se Orpo vai onko se Sipilä.
+
+15.36 Pia Viitanen sd: Arvoisa puhemies! Minä pyysin tämän puheenvuoron juuri siksi,
+että minäkin haluan kyllä nyt todeta sen, että tämä on täysin oikeutettua keskustelua — täy-
+sin oikeutettua keskustelua. Kyseessä on nimittäin ihan oikeasti yksi koko Suomen histo-
+rian suurimmista uudistuksista, johon liittyy poikkeuksellisen paljon riskejä, epävarmuut-
+ta. Asiantuntijat puhuvat kustannusten noususta, varoittavat eriarvoistumisesta, moni pel-
+kää. Täällä käytti hyvän puheenvuoron muun muassa edustaja Karimäki, joka puhui siitä,
+että jos nyt otetaan tämä askel, niin sitten on aika vaikea ehkä tulla takaisin ja perua. Tässä
+on niin fundamentaalisia ja perustavaa laatua olevia kysymyksiä pöydällä, jos eduskunnal-
+la ei ole mahdollisuutta tai ei pidetä asianmukaisena keskustella tästä asiasta tässä yhtey-
+dessä, kun meillä on vielä poliittisesti se outo tilanne, että valtiovarainministeri Orpo, joh-
+tavan hallituspuolueen valtiovarainministeri, kokoomuksen puheenjohtaja on antanut sel-
+keästi vähintään rivien välistä viestin, että kokoomuksen sitoutuminen ei ole enää yksise-
+litteistä.
+
+Jos miettii keskustelun sävyä kokoomuksen puolelta vielä muutama viikko takaperin,
+niin se oli aivan toisenmoinen, ja nyt ollaan sitten nähty nämä tiettyjen edustajien ilmoi-
+tukset siitä, että tätä uudistusta ei enää tueta. Puhutaan 101 edustajasta, joiden varassa hal-
+litus on nyt, puhumattakaan siitä, että yksi puolue saattaa kokonaan jättää tukensa antamat-
+ta. Onhan tässä nyt muuttunut tilanne aivan kohtalokkaalla tavalla. Siksi on oikeastaan
+erinomaisen hyvä, että me käymme tätä keskustelua täällä tänään. Mutta se, mikä on har-
+mi, on todellakin se, että hallitukselta kovin niukkoja vastauksia on tullut. Huomioin, että
+ministerikin lähti tuossa pois. Hän olisi voinut tietenkin ennen poistumistaan käyttää pu-
+heenvuoron siitä, mikä hallituksen näkökulma näihin viikonlopun tapahtumiin ja näihin
+yleisiin tunnelmiin nyt soten ympärillä on.
+
+15.38 Markku Pakkanen kesk: Rouva puhemies! Minusta ministeri teki varmaan ihan
+oikean ratkaisun, koska käsittelyssähän on tämä hallituksen esitys kilpailulain muuttami-
+24
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+sesta ja me keskustelemme täällä sote-asioista ja siitä, mikä puolue on eniten mukana.
+Minä tulkitsen näin, että ministerin siirtyminen ulos salista oli ihan oikein, koska me emme
+esittäneet hänelle asianmukaisia kysymyksiä, mihin hän olisi voinut käyttää sitten vastauk-
+sen. Me vaan puhumme täällä toisista asioista.
+
+Täällä puhutaan siitä, mikä on johtava hallituspuolue. Itse ainakin keskustalaisena pi-
+dän täysin selvänä, että jos meiltä on pääministeri ja me olemme suurin eduskuntaryhmä,
+niin me olemme myös johtava hallituspuolue. Toki tästä voidaan eri mieltä olla, ja arvos-
+tan edustaja Heinäluoman näkemystä siitä, miten hän arvioi, mikä on johtava puolue, mut-
+ta oma näkemykseni on kyllä, että kyllä keskustapuolue on johtava hallituspuolue. Meillä
+on hyvin rivit suorana, ja näin johdetaan hallitusta.
+
+15.39 Maria Guzenina sd: Arvoisa puhemies! Kyllä tämä keskustelu on relevanttia, ja
+kyllä ministeri olisi voinut ihan hyvin jäädä tänne keskustelemaan meidän kanssamme.
+Niin kuin täällä ovat useat todenneet — ja tässä ei ole siis hallitus—oppositio-rajaa — tämä
+maakunta-sote-uudistus on iso kokonaisuus, johon liittyy useampia erillisiä lakiesityksiä ja
+täydentäviä esityksiä, joten on täysin perusteltua, että me käsittelemme sitä täällä niin, että
+me näemme sen koko kokonaisuuden. Ei voi olla niin, että hallituspuolueiden edustajat
+pyrkivät rajoittamaan sitä keskustelua, jota täällä salissa käydään hyvin relevanteista näkö-
+kohdista, jotka liittyvät tähän kokonaisuuteen ja sitten siihen, millä tavalla tämä uudistus
+täällä eduskunnassa tulee etenemään — nyt kun tässä on nähtävillä aivan valtavasti erilai-
+sia ongelmakohtia, jotka ovat julkisuudessa asiantuntijat esittäneet.
+
+Itse perustuslakivaliokunnan jäsenenä en millään muotoa halua edes vihjata, minkälai-
+nen lausunto sieltä on tulossa, huolimatta siitä, että siitä näyttäisi olevan aika massiivinen
+vuoto. Kun julkisuudesta on lukenut, niin se on ollut hyvin valitettavaa, koska perustusla-
+kivaliokunta tarvitsee sen oman aikansa ja sen pitää se oma työrauhansa saada, jotta sieltä
+tulisi aidosti sellainen lausunto, joka hyödyttäisi myöskin sosiaali- ja terveysvaliokuntaa,
+ja kävisi niin kuin pääministeri on todennut, että sitten ne huomiot, näkökohdat otetaan
+huomioon siinä vaiheessa, kun se laki on vihdoinkin täällä salissa. Sehän menee faktuaali-
+sesti niin, että nyt perustuslakivaliokunta käsittelee asian, antaa oman lausuntonsa sosiaa-
+li- ja terveysvaliokunnalle ja sen jälkeen se sosiaali- ja terveysvaliokunnan mietintö tulee
+uudestaan perustuslakivaliokuntaan käsittelyyn. Tässä joudutaan monta kertaa vielä tä-
+män asian parissa käyttämään aikaa täällä eduskunnassa.
+
+Ja nyt se iso kysymys, mitä täällä edustaja Heinäluoma, edustaja Viitanen ja moni muu
+ovat esittäneet: tehdäänkö täällä turhaa työtä? Onko tässä käynyt niin, että hallituksen si-
+sällä tiedetään jo enemmän kuin meillä on mahdollisuus tietää? Kun se lehmänkauppa,
+joka tehtiin, on nyt purkautumassa — ja tässä en viittaa perustuslakivaliokunnan näkemyk-
+seen, vaan muihin, jo valmiisiin lausuntoihin — niin mitä tapahtuu silloin? Demokratian
+kannalta tämä on se olennainen kysymys. Meillähän on eduskunnassa paljon muitakin
+asioita, joita pitäisi pystyä käsittelemään, ja nyt valiokunnat tekevät työtään yliaikaan, il-
+taisin, maanantaisin, venyneinä tunteina, ja me emme tiedä, onko se työ hyödyllistä vai ei.
+Tästä nyt tässäkin keskustelussa on kysymys, kun kysytään, mitä hallituspuolueiden edus-
+tajat tietävät sellaista, mitä me emme täällä oppositiossa tiedä — ja tässä nyt katse kääntyy
+kokoomukseen.
+
+Keskustelu päättyi.
+25
+
+
+
+Pöytäkirjan asiakohta PTK 57/2018 vp
+Asia lähetettiin talousvaliokuntaan.
+26
+
+
+	3
+	14.03
+	14.05
+	14.07
+	14.11
+	14.13
+	14.14
+	14.15
+	14.17
+	14.19
+	14.20
+	14.21
+	14.23
+	14.24
+	14.26
+	14.28
+	14.29
+	14.32
+	14.34
+	14.37
+	14.39
+	14.40
+	14.44
+	14.45
+	14.46
+	14.47
+	14.50
+	14.52
+	14.55
+	14.58
+	15.01
+	15.03
+	15.05
+	15.07
+	15.10
+	15.13
+	15.15
+	15.18
+	15.21
+	15.23
+	15.24
+	15.26
+	15.26
+	15.28
+	15.31
+	15.33
+	15.34
+	15.36
+	15.38
+	15.39
+
+

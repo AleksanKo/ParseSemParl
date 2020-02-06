@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM83C0.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 29/2019 vp
+
+Täysistunto
+
+Keskiviikko 11.9.2019 klo 14.02—18.30
+
+4. Hallituksen esitys eduskunnalle laiksi varhaiskasvatuslain 70 ja 76 §:n muuttamisesta
+Hallituksen esitys HE 9/2019 vp
+
+Lähetekeskustelu
+
+Puhemies Matti Vanhanen: Lähetekeskustelua varten esitellään päiväjärjestyksen 4.
+asia. Puhemiesneuvosto ehdottaa, että asia lähetetään sivistysvaliokuntaan, jolle perustus-
+lakivaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+14.03 Opetusministeri Li Andersson (esittelypuheenvuoro): Arvoisa puhemies! Var-
+haiskasvatuksen kansallinen tietovaranto VARDA on otettu käyttöön vuoden 2019 alussa.
+Asiasta on säädetty varhaiskasvatuslaissa. VARDA-tietovaranto mahdollistaa eri toimi-
+joille kertyvän varhaiskasvatustiedon saatavuuden nykyistä laajemmin ja nykyistä tehok-
+kaammin. Sen ansiosta tieto on siis entistä eheämpää ja ajantasaista. Tietojen pohjalta edis-
+tetään varhaiskasvatuksen kehittämistä ja päätöksentekoa, tilastoidaan ja tutkitaan varhais-
+kasvatusta sekä hoidetaan viranomaistehtäviä. Varhaiskasvatuslaki velvoittaa kunnat ja
+kuntayhtymät sekä yksityiset varhaiskasvatuksen järjestäjät tietojen tallentamiseen. Tieto-
+varannon ylläpidosta vastaa Opetushallitus.
+
+Arvoisa puhemies! VARDAan on jo tallennettu tietoja varhaiskasvatustoimijoista, toi-
+mipaikoista ja varhaiskasvatuksessa olevista lapsista. Toiminta on siis lähtenyt hyvin
+käyntiin, ja tässä vaiheessa tähän tietovarantoon on tallennettu tiedot 290 järjestäjästä,
+6 222 toimipaikasta ja 232 000 lapsesta. VARDAan tallennetaan 1.9.2019 alkaen tiedot
+myös varhaiskasvatuksessa olevien lasten huoltajista.
+
+Tavoitteena oli, että myös kaikkien kuntien ja kuntayhtymien varhaiskasvatushenkilös-
+töä koskevat tiedot olisi tallennettu VARDAan tästä syystä. Tietovarannon käyttöönottoa
+ei kuitenkaan voida toteuttaa laissa säädetyssä aikataulussa varhaiskasvatuksen henkilös-
+tötietojen osalta. Henkilöstötietojen käyttöönoton toteutumiseen säädetyssä aikataulussa
+liittyy huomattavia tietoteknisiä haasteita. Tietovarantointegraatioiden tekemiseen, tes-
+taukseen ja tietosisältöjen yhteensopivuuden toteuttamiseen on kunnissa, kuntayhtymissä
+ja näiden järjestelmätoimittajilla tällä hetkellä liian vähän aikaa, ja tämä saattaa muodostaa
+riskin myös ihmisten ja varhaiskasvatuksen asiakkaiden ja toimijoiden tietosuojalle.
+
+Arvoisa puhemies! Tästä syystä tämän lakiesityksen tavoitteena on säätää, että kuntien
+ja kuntayhtymien henkilöstötietojen tiedonsiirrossa otetaan vuoden lisäaika tiedonsiirto-
+valmiuden takaamiseksi. Esitys siis antaisi kunnille riittävän ajan valmistautua huolella tie-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+tojärjestelmän käyttöönottoon ja helpottaisi kuntien vastuulla olevien tietojärjestelmäinte-
+graatioiden toteuttamista.
+
+Erityisen mittavan järjestelmän kokonaisuudessa satojen itsenäisten toimijoiden kym-
+menet erilaiset tietojärjestelmät pyritään saamaan toimittamaan yhdenmukaisen tietomal-
+lin mukaista tietoa, mikä edellyttää siis joustoa voimaantulosta säätämisessä. Toiminnan
+kannalta perusteltu ratkaisu olisi säätää VARDAan vielä sisältymättömien tietoryhmien
+käyttöönoton tarkemmasta aikataulusta valtioneuvoston asetuksella. Täydessä laajuudes-
+saan sekä kuntien että yksityisten palveluntuottajien osalta VARDA-tietojärjestelmän olisi
+kuitenkin tarkoitus olla alkuperäisessä aikataulussaan eli vuoden 2020 lopussa.
+
+14.07 Timo Heinonen kok: Arvoisa herra puhemies! Hyvä ministeri, hyvät edustajakol-
+legat ja muut paikallaolijat! Ministeri Andersson esitteli tämän tänään lähetekeskustelussa
+olevan hallituksen esityksen varhaiskasvatuslaista, joka on siis hyvin teknisluonteinen esi-
+tys, jossa ehdotetaan muutettavaksi varhaiskasvatuksen tietovarannon käyttöönottoa sääte-
+levää siirtymäsäännöstä ja muutamaa muuta pientä teknistä asiaa varhaiskasvatuksen osal-
+ta. 
+
+Työnsä aloittanut uusi hallitus on linjannut hyviä asioita varhaiskasvatuksen puolelle, ja
+kyllä varhaiskasvatus itse asiassa on se tehokkain keino vaikuttaa meidän lastemme opin-
+polkuun ja puuttua esimerkiksi havaittaviin ongelmiin jo heti siellä opinpolun alkupuolel-
+la. Ja pidän myönteisenä sitä, että hallitus on jatkamassa viime hallituskaudella aloitettua
+maksuttoman osa-aikaisen varhaiskasvatuksen työtä ja laajentamassa sitä eteenpäin. Pidän
+hyvänä myös sitä, että pilotoidaan kaksivuotista esikoulua. Sitä myös kokoomus on ollut
+eteenpäin viemässä. Ja oikeastaan kysyisin ministeriltä, millä aikataululla hallitus ryhtyy
+pilotoimaan tätä kaksivuotista esiopetusta, ja toisaalta, millainen määräraha hankkeelle on
+varattu, ja miten tuo pilotointi toteutetaan. 
+
+Mutta hyvää varhaiskasvatusta ei tehdä ilman osaavia varhaiskasvattajia. Meillä on hy-
+vät, pitkät perinteet siitä, että opettajat ovat korkeakoulutettuja myös varhaiskasvatukses-
+sa, ja pidän hyvänä sitä, että hallitus on kirjannut, että varhaiskasvatus turvataan koko
+maassa ja toisaalta vahvistetaan myös koulutusmäärää. Korkeakoulut ovat tuoneet esiin
+huolensa siitä, että hallitusohjelmassa esitetään lisättäväksi korkeakoulujen aloituspaikko-
+ja mutta toisaalta siihen ei ole kohdennettu lainkaan rahoitusta. Helsingin Sanomat totesi,
+että vielä isompi ero määrärahoissa koskee korkeakoulujen aloituspaikkojen lisäämistä ja
+että sitä varten opetusministeriö esitti jo ensi vuodelle yhteensä 40:tä miljoonaa euroa, kun
+valtiovarainministeriön esityksessä on pyöreä nolla. 
+
+Ja nyt, arvoisa puhemies, kysyisin, kun ministeri on paikalla, aikooko hallitus lisätä yli-
+opistotasoisia varhaiskasvatuksen opettajia seuraavalla rahoituskaudella ja kuinka paljon.
+Ja kysyisin myös, onko tähän rahaa, sillä tänäänhän pääministeri Rinne on todennut, että
+rahaa ei esimerkiksi sitovaan hoitajamitoitukseen ole, eli 0,7:n hoitajamitoitusta ei ole tällä
+kaudella tulossa, eikä kyse näytä olevankaan siitä, että ei olisi hoitajia sitä varten, vaan pää-
+ministeri Rinne on todennut, että nyt ne rahat ovat sitten loppu. Eli löytyykö, arvoisa ope-
+tusministeri, tähän varhaiskasvatuksen opettajien koulutuksen lisäämiseen määrärahoja ja
+kuinka paljon? [Paavo Arhinmäki pyytää vastauspuheenvuoroa]
+
+Puhemies Matti Vanhanen:  Pyydän puhujia kiinnittämään huomiota siihen, että kysy-
+mys on siirtymäsäännöksestä. Siihen, että lähetekeskustelussa muutama istunto sitten, kun
+2
+
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+otsikossa mainittiin Posti, sallin ajankohtaiskeskustelun aiheesta, oli omat syynsä, mutta
+tällä kerralla keskustellaan tästä hallituksen esityksestä. 
+
+14.10 Anna-Kaisa Ikonen kok: Arvoisa puhemies! Itse tämä esitys on teknisluonteinen,
+ja pieni siirtymä tässä käyttöönoton aikataulussa on esitetyistä syistä varmasti hyvinkin pe-
+rusteltu. Olennaista on pitää kiinni tavoitteesta, että yhteistä tietopohjaa saadaan vahvistet-
+tua. Ajattelen, että yksi lasten ja nuorten palveluiden keskeisistä asioista on juuri se, että on
+olemassa yhteinen tietopohja, jopa laajemmin kuin tässä palvelussa.
+
+Arvoisa puhemies, jos sallitte, olisin myöskin varhaiskasvatuksen osalta ihan pari yleis-
+luonteista kysymystä kysynyt: Edellisen hallituksen aloitteesta opetus- ja kulttuuriministe-
+ri käynnisti kokeilun tästä 5-vuotiaiden lasten maksuttomasta 20 viikkotunnin varhaiskas-
+vatuksesta, ja siihen osoitettiin 5 miljoonaa euroa vuosina 2018 ja 2019, ja keväällä 2018
+kehysneuvotteluissa tätä sovittiin jatkettavaksi 2019—2020 ja siihen osoitettiin myöskin 5
+miljoonaa, ja nyt syyskuussa Kansallinen koulutuksen arviointikeskus, Karvi, julkaisi täs-
+tä ensimmäisen vaiheen arvioinnin, että 5-vuotiaitten lasten osallistuminen lisääntyi kokei-
+lukunnissa enemmän kuin vertailukunnissa. Tästä on hallitusohjelmassa, kuten edellises-
+säkin puheenvuorossa todettiin, hyviä linjauksia: laajennetaan 5-vuotiaitten maksuttoman
+osa-aikaisen varhaiskasvatuksen kokeilua ja tavoitellaan pitkällä aikavälillä etenemistä
+kohti osa-aikaista maksutonta varhaiskasvatusta. Ja olisin ministeriltä tältä osalta kysynyt:
+mitä hallitus aikoo tehdä varhaiskasvatuksen osallistumisasteen nostamiseksi, millä tavoin
+ollaan jatkamassa tätä 5-vuotiaitten maksuttoman osa-aikaisen varhaiskasvatuksen kokei-
+lua ja miten ollaan toteuttamassa kaksivuotisen esiopetuksen pilotointi?
+
+Mutta, arvoisa puhemies, pidän kaiken kaikkiaan hyvänä, että hallitus edistää tavoitetta
+kaksivuotisesta esiopetuksesta, kuten kokoomuskin on aikaisemmin esittänyt. Esiopetus
+on tunnettu ja tehokkaaksi todettu tapa helpottaa lasten tietä koulun alkuun. Pidentämällä
+esiopetus kaksivuotiseksi lasten asema ja tasa-arvo parantuvat. — Kiitos.
+
+Puhemies Matti Vanhanen:  Ministeri saa kommentoida näitä aasinsiltojen kautta esitet-
+tyjä kysymyksiä myöhemmin.
+
+14.13 Pasi Kivisaari kesk: Arvoisa puhemies! Kuten täällä on puheenvuoroista käynyt il-
+mi, esityksessä siis ehdotetaan muutettavaksi varhaiskasvatuksen tietovarannon käyttöön-
+ottoa säätelevää siirtymäsäännöstä. Tietovarantoon tallennetaan varhaiskasvatuksen tuot-
+tajaa ja toimipaikkaa kuvaavia tietoja, varhaiskasvatuksen henkilöstöä koskevia tietoja
+sekä varhaiskasvatuksessa olevaa lasta ja lapsen huoltajaa koskevia tietoja. Varhaiskasva-
+tuksen tietovaranto on perustettu parantamaan siis rekisterinpitoa ja siihen liittyvää tieto-
+suojaa ja -turvaa, myös yhdenmukaistamaan tietojen keruuta, laatua ja tilastointia sekä vä-
+hentämään päällekkäistä hallinnollista työtä. Tietovarannon lähtökohta on siis varsin kan-
+natettava. Se kokoaa yhteen kovin hajanaisen tietojenkeruujärjestelmän. 
+
+Vuoden 19 alussa tehtiin käyttöönottoa koskeva riskiarvio. Riskiarvion mukaan henki-
+löstötietojen käyttöönoton toteutumiseen 1.9.2019 lukien liittyy huomattavia haasteita, siis
+tekemiseen, testaukseen ja sisältöjen toteuttamiseen on kunnissa, kuntayhtymissä ja näi-
+den järjestelmätoimittajilla liian vähän aikaa. Tähän arviointiin liittyy siis huomattavia ris-
+kejä. Tällöin on viisasta reagoida. Kuten ministeri Andersson totesi, ottaen siis huomioon
+tietovarannon ilmi käyneet epävarmuustekijät, kuten järjestelmäkannan monimuotoisuus,
+kuntien varhaiskasvatuksen henkilöstötietojen pirstaleisuus sekä tietojärjestelmien yhteen-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+sopivuusongelmat esitetään varsin perustellusti, että varhaiskasvatuksen valtakunnallista
+tietovarantoa koskevaa soveltamissäännöstä muutettaisiin siten, että tallentamisvastuun al-
+kamisesta säädettäisiin jatkossa valtioneuvoston asetuksella.
+
+Arvoisa puhemies! Asetus olisi eduskunnan säätämää lakia joustavampi tapa ottaa huo-
+mioon mahdolliset ennakoimattomissa olevat tekijät, jotka saattavat vaikuttaa tietojärjes-
+telmän ja sitä kautta koko tietovarannon toteuttamiseen. On oleellista huomata myös, että
+ehdotettu säännös on tarkkarajainen ja sisältää vain tallentamisvastuun alkamisen ajankoh-
+dasta säätämisen. Emme ole siis tässä yhteydessä tekemässä sisällöllisiä muutoksia. Hen-
+kilöstötietojen tallentamisen siirtäminen vuodella eteenpäin mahdollistaa varhaiskasvatuk-
+sen järjestäjien ja järjestelmätoimittajien paremman ohjauksen ja tietovarannon systemaat-
+tisemman valmistelun, testauksen ja toteuttamisen. Ei siis kannata kiireessä valmistella
+sutta ja sekundaa vaan mieluusti priimaa.
+
+Arvoisa puhemies! Oleellista tässäkin asiassa on — ja se jatkovalmisteluissa huomioi-
+takoon — että tietovarannon tulee olla alaa palveleva ja sen kuuluu olla toimijoiden hyö-
+dyksi, ei siis taakaksi. Kuntien ja kuntayhtymien osalta sen tulee palvella niin, että velvoit-
+teita sujuvoitetaan ja mieluusti lievennetään. Sen tulee olla myös sellainen, että se palvelee
+ruohonjuuritason toimijaa, siis varhaiskasvatuksen henkilöstöä, niin, että he voivat kaikel-
+la tarmollaan keskittyä perustyöhön, siis kohtaamaan lapset niin, että siihen on aikaa. Ruo-
+honjuuritaso ei kaipaa hallinnollista taakkaa vaan aikaa ydintyöhön. Tarvitaan siis kirkasta
+ajattelua sen suhteen, että toimimme tässäkin asiassa alan hyödyksi, emme haitaksi. Siitä
+tulokulmasta myös tietovarantoa koskevaa soveltamissäännöstä tulisi katsoa.
+
+14.18 Hilkka Kemppi kesk: Arvoisa puhemies! Tämä hallituksen esitys käsittelee minul-
+le kovin rakkaita teemoja, nimittäin varhaiskasvatusta, tiedolla johtamista ja ennen kaik-
+kea osallisuutta, jonka nostan tähän myös yhdeksi tiedon muodoksi, asiantuntijatiedoksi. 
+
+Esityksessä ehdotetaan muutettavaksi varhaiskasvatuksen tietovarannon käyttöönoton
+aikataulua. Kuten arvon ministeri totesi, käyttöönottoa ei voida varhaiskasvatuksen henki-
+löstötietojen osalta toteuttaa laissa säädetyssä aikataulussa. Tämä on valtava sääli tiedon
+keräämisen kannalta, mutta välttämättömyys tässä tilanteessa, jotta kunnat eivät kuormitu
+kohtuuttomaksi muutoksen keskellä. Tietojen tallentamisen siirtäminen vuodella eteen-
+päin vähentää nähdäkseni muutokseen liittyvää manuaalista tallentamista, siis aikaa ja kus-
+tannuksia tässä tapauksessa. Pidän tätä hallituksen esitystä erittäin kannatettavana. Kiireen
+keskellä nimittäin unohdetaan yleensä tiedolla johtamisen tärkein kulmakivi: tiedon laatu.
+Laadun varmistaminen vaatii aikaa ja yleisesti sovittua toimintakulttuurin muutosta, yhtei-
+siä pelisääntöjä. 
+
+Olisi hyvä, että me eduskunnassa kiinnittäisimme huomiota laajemminkin siihen, miten
+paljon tietojohtamisen murros teetättää töitä varhaiskasvattajille, opettajille, johtajille,
+osaajille, monenlaisille ammattilaisille. On oltava tarkkana siinä, että tiedon kerääminen ei
+muodostu päätyöksi ja lasten hyvinvoinnista huolehtiminen sivutyöksi. Mikä on välttämä-
+töntä tietoa? Missä menee ylimääräisen tiedon raja? Samoin unohdamme helposti tietoa
+kerätessämme itse lapset ja heidän tarpeensa. Lapsen oikeuksien sopimus alleviivaa lapsen
+oikeutta tulla kuulluksi ja aikuisten velvollisuutta huomioida lapsen näkökulma. Tämä on
+sitä tarpeellista tietoa, kun arvioimme esimerkiksi varhaiskasvatuksen laatua, niin kuin täs-
+säkin hallitusohjelmassa on määritelty arvioitavaksi. 
+
+Onko VARDA tulevaisuudessa järjestelmä, joka voi myös osaltaan olla avuksi laadulli-
+sen tiedon tallentamisessa? Lapsen näkemykset on otettava huomioon iästä ja kehitysta-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+sosta riippumatta. Lapsella on oikeus ilmaista vapaasti mielipiteensä siitä riippumatta,
+osaako hän käyttää tietokonetta tai onko kieltä tai kykyä puhua sitä ääneen. Myös sen
+vuoksi hallitusohjelmassa on linjattu, että hallitus selvittää varhaiskasvatuksen lainsäädän-
+nön päivitystarpeet muun muassa viittomakielilain ja YK:n vammaisoikeussopimuksen
+mukaiseksi. 
+
+Olen huolissani myös lapsia koskevan tiedon sirpaleisuudesta, ja siihen tämäkään halli-
+tuksen esitys ei vielä täydellistä ratkaisua tuo. Toivoisin, että arvon ministeri hiukan avai-
+si, millä tavalla tulevaisuudessa saisimme myös tämän tiedon liikkumaan tämän VAR-
+DAn avulla niin, että sosiaali-, terveys- ja koulutuspuoli sekä esimerkiksi työllistymistieto
+löytyisivät jollakin tavalla yhteisen rajapinnan takaa. Vain tällä tavalla voimme saada
+muun muassa viimeisen hallituskauden menestyksen, lapsi- ja perhepalveluiden muuto-
+sohjelman, jota nytkin jatketaan, kunnolla eteenpäin, jotta meillä on kokonaisvaltainen tie-
+to siitä, mitä meidän lapsille ja nuorille kuuluu. — Kiitoksia. 
+
+14.21 Sari Sarkomaa kok: Arvoisa puhemies! Varhaiskasvatuksen tietovarantoa koske-
+va lakiesitys on perusteiltaan kannatettava. On tärkeää, että sivistysvaliokunta käy sen —
+tietenkin — perusteellisesti läpi.
+
+Kun puhutaan varhaiskasvatuksesta, on kysymys ehkä yhdestä kansakunnan tärkeim-
+mistä investoinneista. Juuri on ilmestynyt Karvin, koulutuksen arviointikeskuksen, raport-
+ti, jossa osoitettiin viitteenä, että tämä krooninen, pitkäaikainen varhaiskasvatuksen opet-
+tajien pula näkyy jo varhaiskasvatuksen laadussa. Edellinen hallitus viisaasti investoi 28
+miljoonaa varhaiskasvatuksen opettajien aloituspaikkoihin. Eduskunta on sitä ennen use-
+asti lisännyt määrärahoja. Nyt kysymys kuuluu: mitä tekee hallitus, joka nyt kantaa vas-
+tuun varhaiskasvatuksen laadusta? Toivon todellakin, että opetusministeri vastaa: aiotteko
+te pistää kampoihin valtiovarainministerille, joka näytti täyttä nollaa varhaiskasvatuksen
+aloituspaikoille ja muille korkeakoulujen aloituspaikoille, vai sanotteko kuten pääministe-
+ri Rinne totesi, että ei ole lisää rahaa hoitajamitoitukseen eikä lääkäreille.
+
+Vielä kysyn: Meillä on opettajatiedonkeruu, jossa vielä ei ole ollut varhaiskasvatuksen
+opettajia. Aiotteko tehdä kartoituksen siitä, kuinka paljon meillä itse asiassa varhaiskasva-
+tuksen opettajia on, ja liittää varhaiskasvatuksen opettajat tähän jo voimassa olevaan opet-
+tajatiedonkeruuseen, jotta saisimme kattavan tiedon opettajien määrästä koko Suomessa?
+
+14.23 Paula Risikko kok: Arvoisa herra puhemies! Kiitoksia ministerille esittelystä.
+Varhaiskasvatuksen tietojen tallentamisestahan on jo aikaisemmin säädetty, ja tietojen
+
+tallentamiseen tarvitaan nyt kuitenkin vähän enemmän aikaa. Tämä esityshän on otettu hy-
+vin myönteisesti vastaan, koska, aivan niin kuin ministeri totesi, tässä on sekä tietoteknisiä
+että myöskin monia muita asioita, ja olen samaa mieltä täällä käytettyjen puheenvuorojen
+kanssa, että kannattaa tehdä tämä kunnolla.
+
+Mutta vaikka sanonkin, että tähän on kauhean myönteisiä huomioita tullut, niin kuiten-
+kin ongelmallisena pidetään tätä ehdotettua ratkaisua tässä esityksessä, että voimassa ole-
+van lain 76 §:n 2 momenttia muutettaisiin siten, että tallentamisvelvollisuuksista säädettäi-
+siin jatkossa valtioneuvoston asetuksella. Olen pohtinut sitä, onko tämä järkevää vai ei —
+siitä on vähän kahta mieltä — ja olenkin tyytyväinen, että puhemiesneuvosto äsken päätyi
+siihen, että tämä lähetetään myös perustuslakivaliokuntaan. Sanon tämän sivistysvaliokun-
+nan puheenjohtajana, että on hyvä käyttää se siellä perustuslakivaliokunnassa siltä kannal-
+ta, onko se perustuslain mukainen. Itse pidän sitä vähän ongelmallisena, että annetaan ase-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+tuksenanto-oikeus — mehän emme sitten tiedä, mitä kaikkea sillä asetuksella voidaan teh-
+dä. Siitä syystä toivon, että tämä asetuksenantovelvoite ja -oikeus otetaan sieltä pois.
+
+14.24 Sari Multala kok: Arvoisa puhemies! Todella, kuten täällä on moneen kertaan to-
+dettu, tämä siirtymäsäännöksen muuttaminen on täysin perusteltua ja kannatettavaa. Sinäl-
+lään on erittäin tärkeää, että varhaiskasvatuksen tietovarantoa jo viime kaudella tehdyn la-
+kimuutoksen myötä lähdetään entisestään kehittämään ja yhtenäistämään. Tämä on paitsi
+tiedolla johtamisen näkökulmasta myös ihan tutkimustiedon näkökulmasta erittäin perus-
+teltua, jotta me tiedämme enemmän siitä, mitä meidän varhaiskasvatuksessamme tapahtuu
+ja millä tavoin sitä laatua entisestään vahvistetaan.
+
+Täällä on jo kysytty varhaiskasvatuksen osallistumisasteen nostamisesta, ja toivottavas-
+ti ministerillä on siihen mahdollisuus vastata. 
+
+Todella tässä tosiaan paitsi muuttuu siirtymäsäännös, tässä myös asetuksenanto-oikeut-
+ta oltaisiin ehdotettu laajennettavaksi, ja vaikka muilta osin tämä lakimuutosehdotus on
+tekninen, niin tämän asiakohdan osalta kyse on siis siitä, voidaanko ikään kuin ohi edus-
+kunnan sitten tulevaisuudessa, jos tarpeen tulee, uudelleen siirtää lain voimassaoloa eli niin
+sanotusti pidentää siirtymäaikaa entisestään. On erittäin hyvä, että tässä valiokunnan pu-
+heenjohtaja otti esiin sen, että nyt tutkitaan perusteellisesti, onko tälle eduskunnan ohitta-
+miselle tässä perusteita vai ei, vai mennäänkö sen mukaisesti, että jos tällaiselle siirtymä-
+säännöksen muuttamiselle tulevaisuudessakin on tarvetta, niin se eduskunnan kautta sil-
+loin käytettäisiin.
+
+14.26 Jaana Pelkonen kok: Arvoisa puhemies! Lämmin kiitos myös ministerille esitte-
+lystä. Tämä esitys tulee todella tarpeeseen. 
+
+Monessa aikaisemmassa puheenvuorossa on viety jo sanat suusta, mutta varhaiskasva-
+tuksesta ei koskaan voi keskustella liikaa, ja täällä monessa puheenvuorossa on jo kehuttu
+suomalaista varhaiskasvatusta ja syystä. Suomalainen varhaiskasvatus on erittäin laadu-
+kasta, mutta huolimatta siitä suomalaiset lapset osallistuvat varhaiskasvatukseen huomat-
+tavasti vähemmän kuin muut pohjoismaiset lapset ja myös muita OECD-maita vähem-
+män. Täällä on jo nostettu esiin tämä kysymys, millaisia suunnitelmia hallituksella on var-
+haiskasvatusasteen nostamiseksi, ja tähän mielelläni itsekin kuulisin vastauksen.
+
+14.27 Sanni Grahn-Laasonen kok: Arvoisa puhemies! Tästä tietovaranto VARDAsta-
+han säädettiin jo viime kaudella uudessa varhaiskasvatuslaissa, ja haluankin ministeriä
+kiittää paitsi hyvästä yhteistyöstä myöskin siitä, että uusi hallitus on lähtenyt uutta lakia
+toimeenpanemaan ja viemään eteenpäin. Varmasti tämä tekninen siirtymäajan muutos on
+tarpeellinen, jotta VARDAn toimeenpanossa onnistutaan. 
+
+Sehän kerää meille tiedot varhaiskasvatuksessa olevista lapsista, toimipaikoista ja hen-
+kilöstöstä, ja näiden tietojen puute aiemmin on aiheuttanut ongelmia myös varhaiskasva-
+tuksen suunnittelussa ja kehittämisessä. Yksi näkökulma tähän on juurikin varhaiskasva-
+tuksen osallistumisaste, josta juuri saimme uutta tietoa OECD-vertailussa, jonka mukaan
+olemme tehneet siinä mielessä jo pitkäjänteisesti usean hallituskauden ajan hyvää työtä,
+että varhaiskasvatuksen osallistumisaste on Suomessa viime vuosina noussut. Kuitenkin
+olemme vielä ihan siellä pohjalla, jos voi sanoa näin, varhaiskasvatuksen osallistumisas-
+teessa, kun sitä verrataan muihin OECD-maihin ja esimerkiksi muihin Pohjoismaihin. Sen
+takia osallistumisasteen nostamisen täytyy olla yksi keskeinen prioriteetti, koska varhais-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+kasvatuksella on tutkitusti syrjäytymistä ehkäisevä vaikutus ja se vahvistaa koulutuksellis-
+ta tasa-arvoa ja on lapsen edun mukaista, kuten uusi varhaiskasvatuslakikin säätää. 
+
+Siitä syystä olisi kolme kysymystä uudelle hallitukselle:
+Ensimmäinen niistä liittyy 5-vuotiaiden maksuttoman varhaiskasvatuksen kokeiluun,
+
+johon osallistui viime vaiheessa jo lähes kolmannes kaikista 5-vuotiaista. Huolestuttaa se,
+että uudessa valtiovarainministeriön budjettiesityksessä tästä ei ole mainintaa eikä euroa-
+kaan varhaiskasvatuksen kokeilun jatkolle, ja näin ollen toivon, että tämä olisi sellainen
+asia, jonka hallitus voisi vielä budjettiriihessä korjata ja jatkaa varhaiskasvatuskokeilua 5-
+vuotiaille maksuttomana. Se on iso vastaantulo perheille ja tärkeä näkökulma. 
+
+Itse ajattelisin, että sitä kannattaisi kehittää siihen suuntaan, mihin kokeilu jo tänä vuon-
+na on vienyt, elikkä kohti kaksivuotista esiopetusta, ja se onkin toinen kysymys, joka mi-
+nulla olisi esittää. Eli minkä takia hallitus ei toteuta kaksivuotista esiopetusta? Siihen voisi
+löytyä rahoitus hallituksen ohjelmasta esimerkiksi toteuttamalla tämä kaksivuotinen esi-
+opetus oppivelvollisuuden pidentämisen sijaan, koska meillä on tutkimusnäyttöä, joka
+vahvasti osoittaa sen, että investoinnit varhaisiin vuosiin ovat ne kaikkein vahvimmat ja
+koulutuksellista tasa-arvoa eniten vahvistavat. Eli sopisiko hallitukselle harkita vielä ker-
+ran tämä asia ja sen sijaan, että pidennetään oppivelvollisuutta sieltä ylhäältä, toteuttaa
+kaksivuotinen esiopetus ja sitä kautta vahvistaa lasten tasa-arvoa pitkällä tähtäimellä?
+
+Kolmas näkökulma, johon VARDAkin totta kai myöskin tuottaa meille lisätietoa, on
+tämä henkilöstökysymys. Uusi varhaiskasvatuslakihan toi vahvat panostukset varhaiskas-
+vatuksen laatuun nimenomaan henkilöstön osaamiseen panostamalla, eli jatkossa meillä
+on kaksi kolmasosaa varhaiskasvatuksessa työskentelevistä aikuisista korkeasti koulutet-
+tuja. Millä tavalla hallitus aikoo turvata varhaiskasvatuksen opettajien määrän? Viime hal-
+lituskaudella nostimme koulutusmääriä ensin kolmanneksella pysyvästi sopimusneuvotte-
+luissa yliopistojen kanssa ja sen jälkeen vielä erillisrahoituksella, josta hallitus päätti. Hal-
+lituksen ohjelmasta en löydä kirjausta siitä, että olisi varattu euroja tähän laajentamiseen tai
+koulutusmäärien kasvattamiseen, mutta onko sellaista kenties suunnitteilla tai tulossa? Ja
+miten hallitus aikoo ensi keväällä yliopistojen kanssa käytävissä sopimusneuvotteluissa
+varmistaa sen, että varhaiskasvatuksen opettajia koulutetaan riittävästi, jotta laki voi toteu-
+tua ja koulutuksellinen tasa-arvo Suomessa vahvistua? — Kiitos. 
+
+Puhemies Matti Vanhanen: Myönnän vielä tämän puolen tunnin puitteissa puheenvuo-
+ron edustaja Räsäselle ja sen jälkeen ministerille.
+
+14.31 Päivi Räsänen kd: Kiitos, herra puhemies! Varhaiskasvatuksen henkilöstötietojen
+tallentamisen käyttöönottoa siis siirretään vuodella eteenpäin, ja tälle ministeri antoi hyvin
+ymmärrettävät perustelut. Pidän perusteltuna myös sitä seikkaa, jonka sivistysvaliokunnan
+puheenjohtaja nosti esiin, eli on todellakin hyvä, että tätä asetuksenantovaltuutta käsitel-
+lään perustuslakivaliokunnassa.
+
+Mutta täällä on, arvoisa puhemies, käyty keskustelua myös varhaiskasvattajien koulu-
+tusmääristä ja kaksivuotisesta esiopetuksesta, jotka molemmat ovat tärkeitä asioita. Mutta
+kyllä mielestäni suurin ongelma koko varhaiskasvatuskokonaisuudessa on juuri se, mitä
+viime hallituskaudella valitettavasti heikennettiin, eli varhaiskasvatuksen henkilöstömitoi-
+tus. Kun nyt ministeri täällä vastaa muihinkin kysymyksiin, niin kysyn: millä aikataululla
+nyt korjataan tätä henkilöstömitoitusta, ja onko se varmaa, että rahat siihen eivät ole loppu,
+niin kuin ovat tähän hoitajamitoitukseen?
+7
+
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+14.33 Opetusministeri Li Andersson: Kiitoksia paljon hyvistä kysymyksistä. On helppo
+yhtyä edustaja Pelkosen toteamukseen, että varhaiskasvatuksesta ei voi ikinä keskustella
+liikaa.
+
+Ensinnäkin tämä hallitus tulee jatkamaan ja tulee myöskin laajentamaan 5-vuotiaiden
+maksuttoman varhaiskasvatuksen kokeiluja sekä toteuttamaan kaksivuotisen esiopetuksen
+pilotoinnin. Näitä on tarkoitus toteuttaa varhaiskasvatuksen laadun ja tasa-arvon kehittä-
+mishankkeen puitteissa, joka käynnistyy ensi vuonna ja on kolmevuotinen. Rahoitus tä-
+män kehittämishankkeen osalta lyödään lukkoon budjettiriihessä, eli silloin tulevat myös-
+kin eurot näkyviin. Mutta tämä on siis suunnitteilla ja tulee tapahtumaan.
+
+Millä tavalla hallitus sitten muuten haluaa jatkaa sitä työtä, mitä Suomessa on tehty ja
+mitä Suomessa ehdottomasti pitää tehdä varhaiskasvatuksen osallistumisasteen nostami-
+seksi? Kuten on kuultu, se ei ole tärkeää ainoastaan yhteiskunnallisen tasa-arvon ja hyvin-
+voinnin näkökulmasta, vaan se myöskin luo pohjaa lasten myöhemmälle oppimiselle sit-
+ten, kun koulu alkaa. Ensimmäinen toimenpide on subjektiivisen päivähoito-oikeuden pa-
+lauttaminen sekä ryhmäkokojen muuttaminen niin, että palautetaan yhden kasvattajan suh-
+de seitsemään lapseen yli 3-vuotiaiden lasten osalta. Siellä tämä tavoiteltu aikataulu on sel-
+lainen, että nämä tulisivat voimaan ensi vuoden elokuun alusta alkaen, ja rahoituksen osal-
+ta on kaikki kunnossa.
+
+Sitten muuten osallistumisasteen nostamiseksi pitää myöskin jatkaa sitä työtä, mitä on
+tehty varhaiskasvatuksen laadun kehittämiseksi. Muun muassa koulutuksen arviointikes-
+kuksen uusissa selvityksissä on painotettu pedagogiikan kehittämispuolta. Eli samanaikai-
+sesti, kun panostetaan 5-vuotiaiden maksuttomaan varhaiskasvatukseen ja keskustellaan
+esiopetuksen laajentamisesta, pitää myöskin huolehtia siitä, että pedagogiset sisällöt ovat
+sillä tasolla kuin niiden pitäisi olla, jotta me voimme turvata laadukkaan varhaiskasvatuk-
+sen kaikille lapsille.
+
+Sitten mitä tulee esiopetuksen laajentamisen pysyvään muutokseen, hallitusneuvotte-
+luissa on sovittu siitä, että oppivelvollisuutta tullaan laajentamaan 18 ikävuoteen ja sitten
+kaksivuotisen esiopetuksen osalta tehdään pilotointi sekä laaja selvitystyö, jonka puitteis-
+sa käydään läpi, mitä se käytännössä edellyttäisi — siis esiopetuksen laajentaminen kaksi-
+vuotiseksi Suomen kaltaisessa maassa. Se tarkoittaisi kyllä muutoksia henkilöstötarpei-
+siin, tiloihin nähden, se vaikuttaisi kuntien talouteen ynnä muuta, joten ainakaan henkilö-
+kohtaisesti en näe, että se olisi muutos, joka olisi toteutettavissa kovin lyhyellä aikavälillä.
+Mutta se selvitystyö, minkä pitää olla valmiina, jotta päätökset siitä sitten joskus voidaan
+tehdä — jos halutaan tehdä — käynnistetään tämän vaalikauden aikana.
+
+Sitten mitä tulee aloituspaikkoihin, totean, että tämän hallituksen työnjaon mukaan aloi-
+tuspaikat ja tiedepolitiikka kuuluvat kollegalleni Hanna Kososelle, joka varmasti omalta
+osaltaan sitten palaa asiaan, mitä tulee aloituspaikkoihin ja lastentarhanopettajien koulut-
+tautumiseen.
+
+Edustaja Risikko nosti esille myös tämän asetuksenanto-oikeuden. Luotan itse siihen,
+että eduskunta omalta osaltaan sitä selvittää niin kuin asiaan kuuluu, ja mikäli on tarvetta,
+ministeriö on tietenkin valmis sitten yhteistyössä valiokunnan kanssa korjaamaan lakiesi-
+tystä.
+
+Puhemies Matti Vanhanen:  Kiitos. — Sillä, että puhemies muistuttaa siitä, että käytet-
+tävien puheenvuorojen tulee keskittyä itse asiasisältöön, tavoitellaan ensi sijassa sitä, että
+itse asia saa ansaitsemansa huomion. Siksi esimerkiksi edustaja Heinosen hyvän puheen-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 29/2019 vp
+vuoron jälkeen en sallinut vastauspuheenvuorokierrosta, koska puoli tuntia olisi mennyt
+silloin tähän yleiseen keskusteluun. Nyt keskusteltiin tästä siirtymäsäännöstä.
+
+Puhemies Matti Vanhanen: Keskustelu ja asian käsittely keskeytetään. Asian käsittelyä
+jatketaan tässä istunnossa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 14.37.
+
+————
+
+Keskustelua jatkettiin kello 18.27.
+
+Ensimmäinen varapuhemies Tuula Haatainen: Nyt jatketaan aiemmin tässä täysistun-
+nossa keskeytetyn asiakohdan 4 käsittelyä.
+
+Keskustelu ei jatkunut.
+
+Asia lähetettiin sivistysvaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+9
+
+
+	4
+	14.03
+	14.07
+	14.10
+	14.13
+	14.18
+	14.21
+	14.23
+	14.24
+	14.26
+	14.27
+	14.31
+	14.33
+
+

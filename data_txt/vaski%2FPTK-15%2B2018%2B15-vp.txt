@@ -1,0 +1,850 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMAC45.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 15/2018 vp
+
+Täysistunto
+
+Torstai 1.3.2018 klo 15.59—20.06
+
+15. Hallituksen esitys eduskunnalle laiksi Ruokavirastosta ja eräiksi siihen liittyviksi laeiksi
+Hallituksen esitys HE 8/2018 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 15. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään maa- ja metsä-
+talousvaliokuntaan.
+
+Keskustelu
+
+18.34 Maa- ja metsätalousministeri Jari Leppä  (esittelypuheenvuoro):  Herra puhe-
+mies! Tässä siis ehdotetaan perustettavaksi uutta Ruokavirastoa. Keskushallinnon raken-
+teen, virastorakenteen, kehittäminen kuuluu Sipilän hallituksen rakennepoliittisiin uudis-
+tuksiin. Samalla me haluamme myöskin uudistaa toimintatapoja valtionhallinnossa, ja sii-
+hen pohjautuu tämä ehdotus.
+
+Tässä siis yhdistettäisiin Elintarviketurvallisuusviraston, Eviran, ja Maaseutuviraston,
+Mavin, tehtävät sekä virastojen tietohallintopalvelujen tuottamiseen liittyvät tehtävät
+Maanmittauslaitoksesta. Virastoon siirrettäisiin lisäksi Turvallisuus- ja kemikaalivirastos-
+ta kasvinsuojeluaineiden käytön valvontaan liittyvät tehtävät. Viraston nimeksi esitetään
+tuota Ruokavirastoa, ja se aloittaisi toimintansa ensi vuoden elikkä vuoden 2019 alusta.
+
+Maa- ja metsätalousministeriö käynnisti virastojen yhdistämishankkeen helmikuussa
+2017. Hankkeen tavoitteena on yhtenäistää ja selkeyttää hallinnon rakenteita, tehostaa toi-
+mialan kokonaisohjausta sekä tukea tietohallinnon kehittämistä. Tavoitteena on myös, että
+elintarvikeketjun toimijoiden näkökulma — siis elintarvikeketjun toimijoiden näkökulma
+— tulisi nykyistä vahvemmin huomioiduksi viranomaistoiminnassa.
+
+Esityksen mukaan Ruokaviraston tehtävänä on edistää, valvoa ja tutkia elintarvikkeiden
+sekä maa- ja metsätalouden tuotantopanosten turvallisuutta ja laatua, eläinten terveyttä ja
+hyvinvointia sekä kasvien terveyttä. Lisäksi virasto vastaa Euroopan unionin maataloustu-
+kien ja maaseuturahaston varojen käytöstä Suomen maksajavirastona ja hallinnoi EU- ja
+kansallisia tukia. Yhä tärkeämpi tehtävä virastolla tulee olemaan myös viennin edistämi-
+nen ja siihen liittyvät viranomaistehtävät.
+
+Eduskunnalle tänään annettavassa esityksessä lakkautettavien virastojen sekä Maanmit-
+tauslaitoksen tietotekniikan palvelukeskuksen Ruokavirastoon siirrettävien osien henki-
+löstö siirtyisi uuteen virastoon ensi vuoden alusta. Yhteensä muutos koskee noin tuhatta,
+vähän vaille tuhatta, henkeä. Esityksessä säädetään, että maa- ja metsätalousministeriö voi-
+si perustaa ennen lain voimaantuloa uuden viraston pääjohtajan sekä hallintojohtajan virat.
+Näillä varmistetaan juoheva siirto nykyisistä, toimivista virastoista yhdistämisen yhteydes-
+sä.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+Viraston päätoimipaikka on Seinäjoki, ja henkilöstö jatkaa nykyisillä toimipaikoillaan
+ympäri Suomen. Noin kahdellakymmenellä paikkakunnalla on virastolla toimintaa ja tulee
+olemaan edelleenkin.
+
+Vielä kerran: lakien voimaantulon on tarkoitus olla kaikilta osin ensi vuoden alussa. —
+Kiitos.
+
+18.37 Susanna Koski kok: Arvoisa puhemies! Ruokavirastouudistuksen tavoitteeksi on
+muotoiltu ruoka-alan laaja-alaisen osaamisen kehittäminen, joka pitkällä aikavälillä paran-
+taa palvelukykyä ja alkutuotannon kehittämisen toimintaedellytyksiä. Parasta ruokaviras-
+touudistuksessa on sen sijaintipaikka, ja lakeuksilla toivotamme sen tervetulleeksi.
+
+Lakiluonnoksen lausunnoissakin korostuvat erilaisten hallinnollisten järjestelmien yh-
+distämiseen liittyvät haasteet, sähköisten palvelujen kehittämisen tarve sekä elintarvike-
+vientiin liittyvien tehtävien tärkeys ja niiden rahoitus. Ruokavirastouudistus on monella ta-
+holla odotettu uudistus, se on nimittäin mainio mittari osoittamaan, mitä hallitus ja hallinto
+ovat ottaneet onkeensa kahden vuoden takaisesta traktorimarssista. Ainakaan viljelijöiden
+keskuudessa ei ole unohtunut, miten viraston toimimattomat tietojärjestelmät koituivat
+monen viljelijän kohtaloksi taloudellisen ahdingon kurjistajana.
+
+Ruokavirastouudistuksessa ollaan yhdistämässä ainakin kahta toisistaan poikkeavaa or-
+ganisaatiokulttuuria. Kuten lausunnoissakin todetaan, virastojen tehtäviin liittyviä merkit-
+täviä synergiaetuja on vaikea hahmottaa. Eviran ja Mavin yhteyteen on tarkoitus liittää
+Maanmittauslaitoksesta entisen Tiken tietohallintopalvelut uuteen virastoon.
+
+Vaikka yhdistämiseen liittyy aivan oikea ja hyvää tarkoittava tavoite, ei yhdistäminen
+sellaisenaan tee uudesta virastorakenteesta asiakaslähtöisempää tai vähemmän byrokraat-
+tista. Kahden pääorganisaation, Eviran ja Mavin, toisistaan oleellisesti poikkeavat tavat
+esimerkiksi omien tietojärjestelmäpalveluidensa hallinnassa ja tuotannossa asettavat tieto-
+hallinnolle ja sen kehittämiselle ennennäkemättömät haasteet. Valtiovarainministeriö on-
+kin todennut, että esitystä täsmennetään virastojen viranomaisten yhdistämisestä saatavis-
+ta synergiaeduista, niiden perusteista, resurssisäästöistä ja niiden toteutumisen ajoittumi-
+sesta.
+
+Todellakin, traktorimarssiin kiteytyi viljelijöiden tyytymättömyys Mavin tietojärjestel-
+mien toimimattomuuteen ja siitä aiheutuviin haittoihin. Mavin toiminta laastaroitiin, ja sit-
+temmin Mavi on tehnyt jopa hyvää tulosta — ja hyvä niin. Ruokavirastouudistuksessa on
+vaarana tartuttaa tuo Mavin tauti myös muualle yhtenäistämällä hallinnonalan ict-arkkiteh-
+tuuri ottamalla käyttöön yhteinen tietohallintojärjestelmä siihen liittyvine palveluineen.
+Miten siis varmistetaan, että vanha toimintamalli ei siirry uuteen organisaatioon?
+
+Hallinnollisen taakan ja kustannusten kasvu on todennäköisempää, kun yhdistyvät tahot
+ottavat käyttöönsä yhtenäisen tietojärjestelmän. Uudistus ei näillä näkymin myöskään luo
+kannusteita trimmata tai tehostaa viraston omaa tietohallintopalvelujärjestelmää. Se ei vi-
+rastossa myöskään jousta toimintaympäristössä tapahtuvien väistämättömien muutosten
+myötä, ohjelmistopalveluiden ja niihin liittyvien ratkaisujen kilpailutus markkinoilla on ni-
+mittäin ainut keino suitsia kustannuksia ja saada käyttöönsä tarkoituksenmukaisesti toimi-
+via työkaluja. Sitä paitsi ydintehtäviin eli maksatustoimintaan liittyvä automatiikka on
+kiistatta lähitulevaisuudessa tekoälyn hommaa. Tarvitaanko tällöinkin tekoälynä tai osto-
+palveluina hankituille ratkaisuille niitä hallinnoiviin palveluihin toistasataa henkilöä?
+
+Huomionarvoista on, että laki ei kuitenkaan velvoita tietohallinnon palveluja ostaville
+muille virastoille asiakkuusvelvoitetta, vaan tuottavista palveluista sovittaisiin asiakkai-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+den kanssa tehtävissä palvelusopimuksissa. Entä jos ostajia ei ole? Entä jos potentiaaliset
+asiakkaat löytävät markkinoilta soveltuvammat ratkaisut kustannustehokkaampaan ja kil-
+pailukykyisempään hintaan? Mitä tälle hallinnoivalle palveluorganisaatiolle tapahtuu, jos
+asiakkaat löytävät nämä tarkoituksenmukaisemmat ratkaisunsa muualta?
+
+Arvoisa puhemies! Toinen puute liittyy viraston vientiasioiden hoitamiseen liittyvän
+vastuun kirjaamisesta lakiin. Kuten tiedämme, Eviran toimesta tehty viranomaistyö elin-
+tarvikeviennin saralla on maailmanmarkkinoilla luotettavaksi tunnettua ja arvostettua.
+Kyse on viranomaistoimintamme kruununjalokivestä. Vienninedistämiseen liittyvät tehtä-
+vät tulee kirjata lain tasolle ja pysyvinä tehtävinä, ja siten ne on myös huomioitava budjet-
+tirahoituksessa. Eduskunta on selkeästi ja ministeriä velvoittavasti ilmaissut kantansa
+muun muassa ruokapoliittisessa selonteossa ja sen toimeenpanosuunnitelmassa.
+
+Maatalouden kriisirahasto on toiminut vientitoimintojen rahoituslähteenä viimeisen kol-
+men vuoden aikana. Viimeistään nyt on selvää, että vientitoimintoja ei voi rahoittaa enää
+määräaikaisesti, vaan on pyrittävä kestävämpään ja pitkäjänteisempään ratkaisuun. Elin-
+tarvikekaupan kansainvälistymisen myötä kohdemaat tulevat asettamaan yhä enenevissä
+määrin uusia vaatimuksia, siis kaupan esteitä, ruuan liikkuvuudelle. Tulevaan kysyntään ei
+kyetä vastaamaan ilman nykyistä ja hyväksi todettua panostusta. Esimerkiksi yksittäisen
+tuotekategorian pääsy uusille markkinoille voi kestää vuosia. Kriisirahasto hoitaisi asian
+lyhyeksi ajaksi, ei pitkäjänteisesti. Vientityössä rakennetaan myös suhteita kohdemaitten
+viranomaisiin, ja näiden suhteitten avulla on mahdollista saada asioita tehokkaammin
+eteenpäin. Jos siis nykyiset panostukset häviävät, myös nykyiset suhteet häviävät.
+
+Arvoisa puhemies ja hyvä ministeri! Myöskin johtoon ja aikatauluun liittyy monia ky-
+symyksiä, joita nostan vielä myöhemmin esille. Olen itsekin hieman harmissani, ettei tässä
+vaiheessa asian käsittelyä ole perusteita tämän positiivisempaan puheenvuoroon. Toivon
+kuitenkin, että uudistuksen lopputulos on aikanaan sellainen, että tehdystä työstä voi antaa
+kiitosta.
+
+18.43 Antti Kurvinen kesk (vastauspuheenvuoro): Arvoisa puhemies! Itse en olisi yhtä
+kriittinen kuin suuresti arvostamani edustaja Koski, joka äsken käytti varsin kriittisen pu-
+heenvuoron nostaen kyllä hyviä näkökohtia esille. Uskon kuitenkin, että tämä uudistus,
+jossa yhdistetään Maaseutuvirasto, Evira ja heidän tietohallintotoimijansa, on sellainen,
+joka kuitenkin reipastaa ja keventää meidän maataloushallintoamme ja yksi luukku tulee
+vähemmän. Lisäksi en ihan hirveästi vähättelisi näissä yksiköissä toimivien osaajien työ-
+panosta. Pidän itse erittäin tärkeänä sitä, että tämä ratkaisu vahvistaa Seinäjoen asemaa
+ruuan osaamiskeskuksena, maataloushallinnon osaamisyksikkönä. Uskon edelleen siihen,
+että kyllä viljelijälle enemmän löytyy ymmärrystä ja luottamusta keskellä lakeutta kuin
+Etelä-Helsingissä, mitä jotkut ovat toivoneet.
+
+Haluan kiittää myös ministeri Leppää siitä ratkaisusta, että uskallettiin laittaa pääpaikka
+jonnekin muualle kuin Kehä kolmosen sisäpuolelle. Se oli kyllä näyttö keskustataustaisen
+ministerin rohkeudesta ja Sipilän hallituksen hyvästä työstä alueellistamisessakin.
+
+18.44 Sari Essayah kd (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Kosken pu-
+heenvuoro ehkä todellakin oli melkein paremmin tänne opposition suuhun sopiva. Kuiten-
+kin itsekin ajattelen näin, että tämä tavoite siitä, että keskushallinnon virastorakennetta ha-
+lutaan kehittää, on sinällänsä kyllä arvostettava. Mutta toisaalta ymmärrän kyllä: Edustaja
+Koski toi esille niitä huolia, jotka oikeastaan, voisi sanoa, viljelijäväestöllä tai tänä päivänä
+3
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+melkeinpä kenellä tahansa suomalaisella ovat. Kun kuulee sanan Maaseutuvirasto, niin en-
+simmäisenä tulee mieleen valtavat tietohallintosotkut ja ne maksatusten viivästykset, joi-
+hinka monet viljelijät sitten todellakin polttivat päreensä, ja traktorimarssi oli varsin ai-
+heellinen.
+
+Olisinkin nyt halunnut kysyä ministeriltä: Millä tavalla on varauduttu siihen, että näin
+massiivisia ja suuria tietojärjestelmiä lähdetään nyt ajamaan ikään kuin yhteen virastoon,
+jotta mitään vastaavan tyyppistä ei tule? Ja erityisesti, kun tässä mainitsitte, että siellä on
+todellakin nämä EU-tukien maksatukset edelleenkin, niin ne ovat asioita, joissa viivästyk-
+siä ei pystytä sallimaan. [Puhemies koputtaa] Ja toisaalta Eviralla on paljon sellaista raja-
+pintaa, muun muassa erilaisten yhdistysten ja vastaavien, [Puhemies koputtaa] ruokajako-
+yhdistysten kanssa ohjeistamista, että myöskin tämä asiakaskunta sitten säilyy.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Jaaha, edustaja Essayah, teille varattu
+aika on käytetty. Olen havainnut vastauspuheenvuorotarpeita vielä edustajilla Savola, Ees-
+tilä ja Koski, havaitsinko oikein, edustaja Pakkanen myöskin. — Vastauspuheenvuoro,
+edustaja Savola.
+
+18.46 Mikko Savola kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Kyllähän
+maatalousbyrokratian purku on ollut se yksi keskeinen tekijä, mitä on haluttu tällä hallituk-
+sella, tällä vaalikaudella viedä eteenpäin. Ja se, että nyt Ruokavirasto perustetaan ja siinä
+yhdistetään näitä keskeisiä virastoja, antaa myös mahdollisuuden tähän byrokratian keven-
+tämiseen. Kannustan kyllä myöskin siinä, että tätä asiaa tullaan seuraamaan ja että kiinni-
+tetään huomiota siihen, että tämä virasto alkaa hyvin toimia.
+
+Ensi vuoden alusta aloittava Ruokavirasto tulee kyllä aivan oikeaan paikkaan. Se tulee
+ruokamaakuntaan Seinäjoelle, Etelä-Pohjanmaalle, [Antti Kurvinen: Maailman parhaa-
+seen paikkaan!] missä elintarvikeklusteri on vahva. Siellä on osaamista koulutuksen suh-
+teen, siellä on jalostusta elintarviketeollisuuden suhteen, siellä on suuri osa alkutuottajista
+niin ikään. Siitä haluan kiittää ministeri Leppää. Tämä oli rohkea ja hyvä ratkaisu, että se
+tuli Etelä-Pohjanmaalle.
+
+18.47 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Kosken
+puheenvuoro oli sillä tavalla hyvä, että hän toi esille tiettyjä asioita, mitä tämmöisessä vi-
+rastouudistuksessa pitäisi oikeasti ottaa esille.
+
+Itse tunnustan kyllä, että en ole hallintouskovainen, olen enemmän toimintauskovainen.
+Nyt kun näitä tämmöisiä isoja virastoja perustetaan, niin se on hyvä, että se tulee Seinäjo-
+elle. Mutta kyllä se oikeasti taitaa niin olla, että kun erilaisia toimintoja ja virastoja yhdis-
+tetään, niin siinä saattaa mennä monta vuotta, ennen kuin ihmiset oppivat sen uuden toi-
+mintakulttuurin. Kun sinne tulee vielä tietohallinto sisälle, niin täytyy oikeasti katsoa, että
+viraston johto sitten huolehtii siitä, että sitä käytetään asianmukaisesti. Totta kai, kun uusi
+virasto perustetaan, pitää olla uudet toimintatavat, ja esimerkiksi tietohallinto minun käsit-
+tääkseni menee entistä enemmän siihen, että tilataan se suoraan markkinoilta. Eli se, kuin-
+ka paljon siinä tarvitaan omia erikoisihmisiä ja ikään kuin tämmöistä kolmatta pyörää, jää
+sitten johdon arvioitavaksi, että se ei ole sitten meidän tehtävä arvioida.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+18.48 Susanna Koski kok (vastauspuheenvuoro): Arvoisa puhemies! Toden totta pu-
+heenvuoroni oli kriittinen, mutta niin on myös huoleni täysin aito ja perusteltu siihen, että
+kun näin massiivista virastouudistusta tehdään, niin se on tehtävä harkiten ja huolella.
+
+Tässä vaiheessa haluaisin vielä nostaa ristiriitaisuuden koskien viraston toiminnan aloit-
+tamista. Maa- ja metsätalousministeriö itse vastusti valtion lupa- ja valvontaviraston Luo-
+van perustamista vuoteen 2019 vedoten riskeihin koskien maakuntauudistuksen ja siihen
+liittyvän virastouudistuksen eriaikaisuutta. Nyt Ruokaviraston osalta riskit liittyvät ensisi-
+jaisesti maksajaviraston akkreditointimenettelyyn, viljelijätukien maksuun liittyvien riski-
+en ja haittojen parempaan hallintaan. Valtiovarainministeriö on todennut, että Ruokaviras-
+to juuri maksajavirastotehtävien vuoksi on suurempi uudistus kuin tämä Luovan perusta-
+minen. Ei siis käy esityksestä ilmi, miten nämä mahdolliset riskit ja haitat ja lisäkustannuk-
+set on analysoitu, sillä tämä akkreditointimenettely joudutaan joka tapauksessa tekemään
+maakuntamallin yhteydessä uudestaan. Haluaisinkin nyt, että ministeri [Puhemies koput-
+taa] ottaa myös tähän asiaan kantaa, millä tavalla tämä säästää tätä hallinnon tärkeää uu-
+distusta.
+
+18.49 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Hiukan
+kriittisin korvin kuuntelen tätä kriittistä keskustelua tuolta alueelta, jolle Ruokavirasto on
+sijoittumassa ja jolla aloittaa toimintansa. En kiistä ollenkaan, sen sijoituspaikka on aivan
+oikea, ja varmaan maakunnasta löytyy osaamista, mutta sitä maaseudun ja elintarviketeol-
+lisuuden osaamista löytyy kyllä vahvasti myös omasta kotimaakunnastani Kymenlaaksos-
+ta. Toivoisinkin, että ministeri miettisi, koska tuntee Kymenlaaksonkin kovin hyvin, onko
+mitään muuta alueellistamista, mitä voisi Kymenlaaksoon tuoda. Meillä on siellä yksityis-
+tä meijeritoimintaa, on erittäin hyvin elintarviketeollisuutta. Kymenlaakso tunnetaan myös
+vahvana maaseutualueena. Kyllä siellä tätä osaamista ainakin maakunnasta löytyisi ja si-
+jainti on noin alta tunnin matkan päästä Helsingistä, niin että uskoisin, että myös pääkau-
+punkiseutu pääsisi nauttimaan siitä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Vielä viimeinen vastauspuheenvuo-
+ro, edustaja Kurvinen.
+
+18.50 Antti Kurvinen kesk (vastauspuheenvuoro): Herra puhemies! Kyllä minä nyt ru-
+pean vähän ihmettelemään jo noita edustaja Kosken puheita. Haluaisin nyt kuulla sen, olet-
+teko te, edustaja Koski, sitä mieltä, että on huono asia, että meillä vähennetään viljelijää,
+talonpoikaa, valvovia viranomaisia. Pitäisikö niitä virastoja olla edelleenkin enemmän eril-
+lään, ja onko se huono asia, että tämä uusi virasto sijoittuu, sen pääpaikka tulee Seinäjoelle
+meidän yhteiseen vaalipiiriimme? [Keskustan ryhmästä: Hyvä kysymys!] Ihmettelen nyt
+kyllä kovasti näitä tilastoja. Onko perustavoite näitten tilastojen läpi lukemisella se, että ei
+saisi tulla Ruokavirastoa Seinäjoelle? Ihmettelen.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Myönnän vielä vastauspuheenvuoron
+edustaja Koskelle. Periaatteessa tässä keskustelussa on pyydettyjä puheenvuoroja aika pal-
+jon tässä ja tämä ei ole pelkästään Kosken ja Kurvisen välistä keskustelua. Nyt vielä Kos-
+kelle, ja sen jälkeen palataan puhujalistaan.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+18.51 Susanna Koski kok (vastauspuheenvuoro): Kiitos, puhemies! Edustaja Kurviselle
+tiedoksi, että minä olen isänmaan tyttäriä. Ei se, että joku virasto sijoittuu kotivaalipiiriin,
+tarkoita sitä, ettei voisi ajatella koko isänmaan viljelijöitten ja hallinnonkin etua ja parasta.
+
+Kun otin tämän [Antti Kurvisen välihuuto] valvontatehtäviä suorittavien viranomaisten
+määrän vähentämisen, niin haluaisin lisäksi ministeriltä kysyä, miten tämän uuden perus-
+tettavan viraston johdon tehtävät nyt tarkemmin aiotaan määritellä, sillä pääjohtajalle on
+muotoiltu otto-oikeus. Tarkoittaako tämä nyt sitä, että tulevalla pääjohtajalla [Antti Kurvi-
+sen välihuuto] on mahdollisuus ottaa mikä tahansa asia, myös valvontoihin liittyvä, omaan
+käsittelyynsä?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Puhujalistaan.
+
+18.52 Pekka Puska kesk: Arvoisa puhemies! Esillä on hyvin järkevä hallinnollinen uu-
+distus. Esityksen perusteella hallinto tulee sujuvoitumaan. Samalla alalla toimivat Evira ja
+Maaseutuvirasto ja eräät muut osat pannaan yhteen.
+
+Mutta pyysin puheenvuoron asiasta, joka on aivan erilainen kuin mistä äsken keskustel-
+tiin ja ei varmaan tule kovin suurena yllätyksenä sen vuoksi, että ruualla ja elintarvikkeilla
+on erittäin tärkeä merkitys meidän ihmisten terveyden kannalta. Asiantuntijat ovat yleensä
+sitä mieltä, että ruoka kokonaisuutena on meidän fyysisen terveytemme kannalta tärkein
+asia, ja se koostuu elintarvikkeista. Evirahan on Elintarviketurvallisuusvirasto. Se on teh-
+nyt erittäin hyvää työtä elintarviketurvallisuusasioissa ja myöskin elintarvikelainsäädän-
+nön asioissa. Mutta ruoka ja terveys on muutakin kuin pelkkää elintarviketurvallisuutta.
+Elintarviketurvallisuus on tärkeää, ja siihen liittyy valtava julkinen huomio, mehän kaikki
+haluamme syödä turvallista ruokaa, mutta väestön terveyden kannalta se ei kyllä kuiten-
+kaan ole se tärkein asia, paljon isompi asia on ruokavalion koostumus, on kysymys esimer-
+kiksi suolasta, sokerista, kuidusta, rasvan laadusta, ja tämä jää hallintokuvioissa helposti
+vähemmälle. No, tässähän toki sosiaali- ja terveysministeriö on mukana ja maa- ja metsä-
+talousministeriön ja sosiaali- ja terveysministeriön yhteistyö on sinänsä hyvä, mutta ravin-
+to koostuu elintarvikkeista, jotka siis ovat Eviran ja uuden viraston toimialaa. Meillä on
+tässä yhteistyössä myöskin valtion ravitsemusneuvottelukunta, joka on historiallisesti teh-
+nyt paljon hyvää työtä. Takavuosina oli kysymys muun muassa erilaisten puutostautien
+torjunnasta mutta nykyään yhä enemmän ravinnon laadusta. Mutta se on vain neuvottelu-
+kunta.
+
+Nyt siis olemme perustamassa tätä Ruokavirastoa maataloushallinnon yhteyteen, kuten
+Evira on, ja tähän on paljon perusteluja. Kysymys on terveyden kannalta siitä, että voidaan
+edistää terveysnäkökohtia maataloustuotannossa ja ruokaketjussa. Olen kuullut, että pal-
+jon puhutaan siitä, että pellolta pöytään kaikki pelaa hyvin, ”from farm to fork” englannik-
+si, ja se on erittäin tärkeä asia. Mutta on muistettava myöskin mitalin toinen puoli, jota ter-
+veyspuoli korostaa, ja se on ”from fork to farm” elikkä se, että kyllä pitää myöskin muistaa
+se, minkälaisia toiveita tutkittu tieto, terveysnäkökohdat antavat tuotannolle. Elikkä myös-
+kin niinpäin, että maatalouspolitiikka ei suoraan saa jyrätä terveysnäkökohtia, joista tietys-
+ti on myöskin historiallisia kokemuksia. Suomihan on ymmärtääkseni kansainvälisesti
+aika ainutlaatuinen tai aika poikkeuksellinen maa siinä suhteessa, että elintarviketerveys-
+hallinto on maataloushallinnon alainen, ja se antaa suuren vastuun, niin kuin sanoin.
+
+Mitä tulee suomalaiseen ruokaan ja maatalouteen, niin varmaan kaikki yhdymme siihen
+toiveeseen, että suomalaisten ruoka olisi entistä enemmän kotimaista ja että sen tuotantoon
+6
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+olisi hyvät edellytykset, mistä äskeisessä asialistan kohdassa puhuttiin, ja myöskin — se,
+minkä joku mainitsi aiemmassa keskustelussa — että julkisissa hankinnoissa voitaisiin
+mahdollisimman paljon käyttää terveellisiä ja turvallisia kotimaisia elintarvikkeita. Ja tä-
+hän on siis kansantalouden ja työllisyyden lisäksi hyvin paljon perusteita myöskin tervey-
+dessä ja elintarvikkeiden turvallisuudessa. Suomalainen ruokahan on keskimääräisesti ot-
+taen selvästi puhtaampaa. Mutta on muistettava myöskin se ja rehellisesti sanottava, että on
+väärin sanottu, että kaikki kotimaiset elintarvikkeet olisivat automaattisesti terveellisiä.
+Kyllä me tarvitsemme hallinnolta ohjausta terveellisempään suuntaan ja terveelliseen ruo-
+kavalioon.
+
+Arvoisa puhemies! Pyysin tämän puheenvuoron esittääkseni toiveen, että uudessa Ruo-
+kavirastossa otettaisiin riittävästi ja itsenäisesti huomioon ruuan ja terveyden väliset yhte-
+ydet ja siihen liittyvät asiat ja laajemminkin kuin elintarvikkeiden turvallisuuden osalta. Ja
+toivon, että valtion ravitsemusneuvottelukunnan, jonka toimisto on siis Evirassa tällä het-
+kellä, asemaa ja toimintaedellytyksiä tuetaan ja että asiassa hyvä yhteistyö maa- ja metsä-
+talousministeriön ja sosiaali- ja terveysministeriön välillä jatkuisi ja vielä vahvistuisi.
+
+18.58 Esko Kiviranta kesk: Arvoisa puhemies! Minusta on erinomainen asia, että Maa-
+seutuvirasto ja Elintarviketurvallisuusvirasto yhdistetään. Tuo uusi nimi "Ruokavirasto"
+kuulostaa tällaisesta tavallisesta ihmisestä aika hyvältä ja luontevalta.
+
+Tärkeää on se, mikä on tässä hallituksen esityksessäkin todettu, että henkilöstön siirtä-
+mistä pakolla uudelle paikkakunnalle tultaisiin välttämään niin pitkälle kuin mahdollista.
+Silloin, kun Maaseutuvirasto perustettiin, oli vähän huonoja kokemuksia.
+
+Seinäjokihan on tietysti tavattoman viehättävä paikka minunkin mielestäni, mutta esi-
+merkiksi poikani pitää Seine-joen ympäristöä paljon viehättävämpänä. Kaikki eivät ehkä
+halua siirtyä Seinäjoelle. On hyvä toteuttaa joustavia järjestelmiä tässä suhteessa.
+
+Tämä virastojen yhdistäminen tarjoaa tietysti aikaa myöten nykyistä parempia valtion-
+talouden säästömahdollisuuksia. Voidaan vähentää virkamiehiä siitä päästä, joka ei ole ai-
+van kaikkein tarpeellisin, ja ehkä sama johto pystyy tekemään enemmän eli hoitamaan
+koko virastoa. Tämä on tietysti erittäin merkittävä mahdollisuus ja nimenomaan sillä taval-
+la, että eläkkeelle siirtymisiä käytetään hyväksi.
+
+Sitten vielä yksi asia. On tietysti erittäin tärkeää, että toimintojen joustava hoitaminen
+turvataan tässä muutostilanteessakin, ja huomaan, että siihenkin on hallituksen esityksessä
+kiinnitetty erityistä huomiota.
+
+19.00 Markku Eestilä kok: Arvoisa puhemies! Arvoisa ministeri! Tämä hallituksen esi-
+tys koskee Ruokavirastoa, ja tämä on hallinnollinen laki, eli perustetaan uusi virasto. Minä
+yritän pitäytyä puheenvuorossani siinä tai siihen rinnasteisissa asioissa.
+
+Tänä päivänä me paljon puhumme eduskunnassa ja sen ulkopuolella sotesta, ja jokainen
+on ilmeisesti asiantuntija sotessa. Hallintomalli on se kaikkein keskeisin, mistä jutellaan, ja
+niin se on tässäkin hallintomalli. Niin kuin äsken sanoin, itse en ole hallintouskovainen,
+olen toimintouskovainen, koska se perustuu omaan elämänkokemukseeni, jota itse työelä-
+mässä olen saanut ja joidenkin yhtiöiden hallituksissa.
+
+Kuten sotessa, niin myös tässäkin kaikkein tärkeintä tulee olemaan prosessien hallinta ja
+johtaminen. Ne ovat ne kaikkein tärkeimmät kysymykset, ei se, että perustetaan uusi viras-
+to ja pannaan yhteen eri näköisiä virastoja, joissa on oma kulttuuri toimia. Aina kun perus-
+tetaan uusi työyhteisö, johon pannaan eri osia eri paikoista, nämä kulttuurit väistämättä tör-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+määvät, ja ei se ole hetken asia, että ne asettuvat kohdalleen. Siinä saattaa mennä useita
+vuosia.
+
+Yritän pitää tämän puheenvuoron rakentavana, koska kokoomus kannattaa tätä Ruoka-
+virastoa ja on sen takana ja Seinäjoki on erinomainen sijaintipaikka, ei siinä mitään. Joskin
+Itä-Suomessa on hyvin paljon tilaa, niin että jos ministeri keksii vielä jonkun viraston tässä
+loppumatkalla, niin otamme mielellämme sen Itä-Suomeen vastaan — sovimme juuri näin
+edustaja Essayahin kanssa.
+
+Sen verran tähän johtamiseen, että minun mielestäni kaikkein tärkein tehtävä tulee ole-
+maan pääjohtajan ja, oliko tämä nyt, hallintojohtajan valinta. Ne ovat ne keskeiset asiat,
+jotka määrittelevät sen, miten tämän viraston toiminta tulee käytännössä sujumaan, miten
+siellä toteutuvat asiat ja kuinka nopeasti ne saadaan läpi virtaamaan. Ei tämä sen kummem-
+paa ole, mutta siinä se onkin, että mistä me löydämme varmasti semmoisen johtajan, joka
+kykenee sen muutoksen ja kulttuurin muutoksen viemään läpi. Sen takia tässä pääjohtajan
+ja hallintojohtajan valinnassa pitäisi kiinnittää erityisesti kyvykkyyteen huomiota, ei muu-
+hun.
+
+Mutta jos mennään hieman näihin asioihin, mitä tämä uusi Ruokavirasto pitää sisällään,
+niin kyllä minäkin olen sitä mieltä, minkä edustaja Koski täällä hyvin nosti esille, että kyl-
+lä tämä tietohallinnon nyt tavallaan mukaan tuominen tähän virastoon tekee tästä uudesta
+Ruokavirastosta — koska tämä henkilöstömäärä, mikä sinne siirtyy, on käsittääkseni sen
+verran suuri — osittain jo eräännäköisen tietohallintoviraston. Sen takia täytyy uuden joh-
+tajan arvioida, monen vuoden tähtäimellä tietenkin, millä tavalla tämä tietohallinto tule-
+vassa yhteiskunnassa hoidetaan ja minkä näköisiä reittejä myöten sitten tämä tilaus tulee
+tapahtumaan ja miten mennään markkinoille ja mikä on tekoälyn rooli. Emme me voi van-
+halla kulttuurilla viedä näitä virastoja eteenpäin. Kyllä keskushallinnonkin pitää pitää te-
+hokkuudesta ja tuottavuudesta huolta. Siinä mielessä edustaja Kosken esiin nostamat nä-
+kökulmat on ainakin tässä valmistelussa otettava vakavasti ja vahdittava koko ajan, millä
+tavalla tämä virasto sitten käytännön asioita hoitaa.
+
+Yksi semmoinen — olen siinäkin samaa mieltä kuin mitä edustaja Koski nosti esille —
+on Eviran vientitoimintojen jatko. Ainakin itse olen tullut siihen käsitykseen — ja minis-
+teri voi vielä sitten korjata, jos olen saanut väärän käsityksen — että tällä hallituskaudella
+olemme satsanneet juuri vientitoimintoihin. Tästä on hyvin monta kertaa ollut myös valio-
+kunnassa puhetta, että on tärkeätä, että suomalaisia elintarvikkeita viedään maailman
+markkinapaikoille. Sinne maailman markkinapaikoille mennään olemaan läsnä. Nyt täällä
+Evirassa on hyvä nyrkki, joka näitä vientitoimintoja tukee ja on mennyt neuvottelemaan
+näitten eri näköisten ja eri maitten edustajien kanssa. Olen siinä käsityksessä, että joillakin
+on semmoinen kuva, että tulevaisuudessa ei enää tarvita näitä toimintoja siinä määrin kuin
+nyt, koska ikään kuin jo saavutetaan jalansijaa. Oma käsitykseni on se, että sitä jalansijaa ei
+saavuteta ikinä. Se pitää joka kuukausi ja joka vuosi ansaita uudelleen. Se vaatii ihmissuh-
+dekontakteja, se vaatii sinne markkinapaikoille menemistä, ja sen takia näkisin, että jos se
+vain suinkin on mahdollista, niin minun mielestäni Eviran vientitoimintojen henkilöresurs-
+sien, jotka ehkä ovat jotakin vähän alle miljoona, tai mitä ne nyt mahtavat olla, 900 000, ra-
+hoituksen pitäisi olla pysyvää ja se pitäisi saada Suomen eduskunnan budjettiin ja sillä ta-
+valla turvata, jotta nämä henkilöt, jotka ovat kyvykkäitä, eivät sitten lähde muihin hom-
+miin eikä heitä osteta sieltä pois.
+
+Arvoisa puhemies! Tässä oli muutama asia, minkä halusin nostaa. Koska kysymyksessä
+on hallinnon uudistus ja uusi virasto, niin kyllä tässä salissa pitää kiinnittää huomiota ni-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+menomaan niihin tiettyihin kipukohtiin, jotka ovat elintarvikkeiden viennin kannalta tär-
+keitä ja elintarviketurvallisuuden kannalta tärkeitä. Ja nimenomaan on varmistettava, että
+tulee hyvät johtajat, jotka saavat tämän kulttuurien väistämättömän törmäyksen mahdolli-
+simman pian hoidettua, ja sillä tavalla viraston henkilökunta puhaltaa yhteen hiileen ja sii-
+hen toimintaan menee kaikki energia eikä siihen, mikä paikka ihmisellä on.
+
+19.05 Mikko Savola kesk: Arvoisa puhemies! Ruokaviraston perustaminen, merkityksel-
+linen asia. Se, että yhdistetään useampia virastoja, Elintarviketurvallisuusvirasto, Maaseu-
+tuvirasto, osa Maanmittauslaitoksen tietotekniikan palveluista sekä Turvallisuus- ja kemi-
+kaaliviraston palveluista osa, kasvinsuojeluaineiden käyttöön liittyvien tehtävien osalta ja
+niin edelleen yhteen virastoon. Tässä on erittäin hyvät mahdollisuudet saada tätä paljon
+parjattua byrokratiaa kuriin. Tietysti niissä kriittisissä puheenvuoroissakin, mitä täällä on
+käytetty, varmasti on huolessa aiheensa, ja niihin pitää kiinnittää huomiota. Uskon aina-
+kin, että se ei meidän osaavasta ministeristämme jää kiinni, etteikö sinne ohjausta sitten
+pystytä antamaan, ja kun näitä henkilöitä valitaan, niin sinne katsotaan sellaisia ihmisiä,
+jotka haluavat nimenomaan saada kitkettyä byrokratiaa pois ja keskittyä siihen ydintoimin-
+taan, mikä Ruokavirastolla tulee olemaan.
+
+Tässä kaikessa pitää muistaa pitää huolta nimenomaan asiakaspalvelutehtävästä, kuka
+se asiakas on, mikä on se keskeinen asiakas täällä taustalla. Se on tietysti viljelijä ja se, että
+viljelijän työhön ei tuoda ylimääräistä kuormaa byrokratian kautta. Sitä on aivan riittämiin
+kaikessa siinä paperityössä, minkä viljelijät joutuvat tekemään. Tietohallintoon liittyvissä
+tehtävissä tässä varmasti tulee kompastuskiviä, mutta ne ovat voitettavissa, kun ne hyvin
+suunnitellaan. Tässä on hyvin aikaa ensi vuoden alkuun, kun näitä virastoja yhdistetään.
+
+Haluan vielä todeta, että olen hyvin tyytyväinen tästä sijoituspaikasta, mikä tulee. Me
+Etelä-Pohjanmaalla kiitämme tästä asiasta. Elintarvikeklusteri on hyvin vahvaa Etelä-Poh-
+janmaalla Seinäjoen ympäristössä, koko maakunnassa. Siellä on koulutukseen panostettu,
+siellä on elintarvikejalostukseen panostettu. Siellä on hyvin paljon viljelijöitä, siellä on
+osaamista tämän asian ympärillä, ja uskon, että Ruokavirasto tulee saamaan parhaat mah-
+dolliset osaajat myös jatkossa, ja siihen myös maakunta kantaa oman panoksensa.
+
+19.07 Katri Kulmuni kesk: Arvoisa herra puhemies! Tämä Ruokaviraston perustaminen
+on erittäin merkittävä asia byrokratianpurkamisen kannalta ja viljelijöille parempien, toi-
+mivampien palveluiden kannalta. Erityisesti tietenkin haluan onnitella pohjalaisia kolle-
+goitani siitä, että tämän viraston päätoimipaikka tulee minunkin mielestäni lappilaisena
+kansanedustajana kyllä ihan oikeaan paikkaan, jos mietitään sitä, miten vahva ruuantuo-
+tannon maakunta on kyseessä. Toki niitä on monia Suomessa, mutta varmasti on tärkeää,
+että maakunnat profiloituvat aivan erityisesti, ja Etelä-Pohjanmaalla on tähän hyviä ele-
+menttejä.
+
+Oikeastaan tämä on myös se puheenvuoroni sisältö, mitä ajattelin hakea. Oli erittäin tär-
+keää, vaikkapa kun Metsähallitus-laki oli käsittelyssä — joka oli aika kontroverssikin mei-
+dän pohjoisten ihmisten kannalta — että kuitenkin sen Metsätalous Oy:n kotipaikka sijoi-
+tettiin Rovaniemelle, sinne missä ovat ne suurimmat Metsähallituksen luonnonvarat. Kyl-
+lä sillä on erittäin tärkeä symbolinen merkitys koko Suomelle ja niille alueille, joiden va-
+raan tämä maa on rakennettu, että ne voivat profiloitua omilla tyyleillään.
+
+Toivottavasti tämä alueellistaminen hallituksen toimesta jatkuu, ja kyllähän nyt näillä
+maakunnilla on kova paikka näyttää, mihin ne pystyvät erikoistumaan. Jos mietitään vaik-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+kapa tuomioistuinvirastoa, Rovaniemi tarjoaa sillekin erinomaiset sijoittautumispaikat. Ja
+kyllä minusta meidän kannattaa kansainvälisessä ja globaalissa maailmassa katsoa, mitä
+tapahtuu muissa maissa, ja onhan se aika poikkeuksellista, miten naapurimaat huomatta-
+vasti vahvemmin ovat lähteneet liikkeelle siitä, että aluekehityksen täytyy olla tasaista, ja
+ovat jopa alueellistamassa merkittäviä toimintoja — Ruotsissa, Norjassa, Tanskassa ja
+jopa eteläisessä naapurissamme Virossa. Nimenomaan näiden alueiden omien maakuntien
+ja voimavarojen varaan se täytyykin rakentaa, ja kyllä tuosta ruuan viennistä olen samaa
+mieltä, mitä täällä on aikaisemmin tullut puheenvuoroissa: Suomella on siinä vielä paljon
+tekemistä.
+
+19.09 Juha Pylväs kesk: Arvoisa puhemies! Hallituksen yhtenä keskeisenä tavoitteena
+on normien ja sääntelyn keventäminen. Tämä Eviran, Mavin ja joidenkin Maanmittauslai-
+toksen osien yhdistäminen yhdeksi Ruokavirastoksi tavoittelee myös tätä tavoitetta, kuten
+olemme täällä jo useasti kuulleet. Elintarvikesektori on tulevaisuudessa myös Suomelle
+entistä tärkeämpi. Siksi myös sektorin toimivuus ja viranomaistehtävien asiakkaita palve-
+leva asenne paranevat merkittävästi entisestään. Perinteisesti Suomessa alkutuotanto ja
+elintarviketalous on ollut viranomaisten tiukan ohjauksen ja pikkutarkan valvonnan koh-
+teena, jonka moni alan yrittäjä on kokenut suoranaisena kiusaamisena. On hyvä, että näillä
+merkittävillä organisaatioilla myös näihin tsaarin vallan aikaisiin hallintotapoihin haetaan
+merkittäviä muutoksia. Organisaation uudistaminen mahdollistaa myös palvelevan asiaka-
+sotteen lisääntymisen entisestään. Se, jos jokin, on koko alalle ja sillä toimiville hyvä mah-
+dollisuus.
+
+Arvoisa puhemies! Hyvänä tässä esityksessä on myös sijoituspaikka Seinäjoki. Monis-
+sa Pohjois-Euroopan maissa on lisätty merkittävästi alueellisten työpaikkojen lisääntymis-
+tä valtionhallinnon virastojen hajauttamisella. Vihdoin meilläkin on päästy naapurimaiden
+linjoille edes jossakin alueellistamisasiassa. Tämä Ruokavirasto on esimerkillinen alueel-
+listamiskohde, sillä ruoka, jos jokin, tuotetaan maakunnissa.
+
+19.11 Eerikki Viljanen kesk: Arvoisa puhemies! 10.3.2016 traktorit vyöryivät Helsin-
+kiin. Massiivisen mutta rauhallisen mielenilmauksen kylteistä kävi selväksi, että viljelijät
+eivät lähteneet liikkeelle huvikseen, traktorimarssille lähdettiin syvenevän ahdingon vuok-
+si. Yksi marssin keskeisimpiä viestejä oli, että viljelijöiden oikeusturvaa pitää vahvistaa.
+Syyttävä sormi osoitti silloin maataloushallintoon, etenkin Maaseutuvirastoon, virastoon,
+joka oli ilmoittanut lykkäyksistä maataloustukien maksatuksiin hallinnollisista ja teknisis-
+tä syistä. Jo tuolloin oli täysin selvää, että oikeusvaltiossa ei voida toimia niin, että viljeli-
+jät joutuvat sitoutumaan tukiehtoihin ja toteuttamaan ne pilkulleen ja ajallaan mutta hallin-
+toa tämä sama menettely ei sitoisi.
+
+Ymmärrän, että hallinnossa on haasteita etenkin EU-rahoituskausien taitekohdissa tai
+tietojärjestelmien muutostilanteissa, mutta tuolloin näytti myös melko lailla selvältä se, et-
+tei osittain päällekkäinen hallinto ollut kaikilta osin tehtäviensä tasalla. Maa- ja metsäta-
+lousministeri Tiilikainen tarttui tuolloin asiaan, ja nyt asia on ministeri Lepän toimesta
+edennyt tähän pisteeseen, jossa maataloushallintoa tehostetaan yhdistämällä Maaseutuvi-
+rasto ja Elintarviketurvallisuusvirasto lisättynä muutamilla Maanmittauslaitoksen toimin-
+noilla. Tämän hallinnon tiivistämisen tavoitteena on tehokkaampi ja nopeampi toiminta,
+joka osaltaan myös vahvistaa viljelijöiden oikeusturvaa. Tämä muutos on tervetullut muu-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+tos, jota on ehditty jo odottaa ja joka nyt pitää saada mahdollisimman nopeasti täytäntöön
+pantua tämän lain hyväksymisen jälkeen.
+
+Arvoisa puhemies! Hieman keventäen voin todeta, että jos uuden viraston perustaminen
+ja akkreditointi on niin vaikea prosessi Etelä-Pohjanmaalle kuin edustaja Koski täällä ker-
+toi, siis etenkin sen rytmittäminen yhteen maakuntahallintouudistuksen kanssa, jonka val-
+mistelut Etelä-Pohjanmaalla ovat jo pitkällä, niin voin antaa ministeri Lepälle ilmaisen
+vinkin, että meillä Uudellamaalla tätä rytmittämisongelmaa ei ole. Kiitos tästä kuuluu pää-
+kaupunkiseudun suurten kaupunkien muutamille keskeisille poliitikoille, jotka ovat vii-
+meiseen asti jarruttaneet maakunta- ja sote-uudistuksen valmistelua Uudellamaalla. Vaik-
+ka Etelä-Pohjanmaa on hyvä paikka viraston sijoituspaikaksi, niin jos tämä osoittautuu
+liian vaikeaksi, niin vaihtoehtoisia paikkoja varmaan löytyy, kuten täällä jo esimerkiksi
+edustajat Pakkanen ja Eestilä ovat todenneet.
+
+Mutta kiitos vielä entiselle maa- ja metsätalousministeri Tiilikaiselle, joka sysäsi muu-
+toksen liikkeelle, ja nyt ministeri Lepälle, joka on saanut sen tähän asti.
+
+19.14 Hannu Hoskonen kesk: Arvoisa herra puhemies! Hallituksen esitys Ruokaviras-
+ton perustamisesta on hyvä ja perusteltu. Tämä esityshän on ihan selkeästi Sipilän hallituk-
+sen linjauksen mukainen byrokratian purkamiseksi, ja byrokratian purkua pitää tietenkin
+aina tervehtiä suurella ilolla.
+
+Nyt kaksi virastoa, Elintarviketurvallisuusvirasto ja Maaseutuvirasto, laitetaan yhteen,
+jolloin syntyy tämä Ruokavirasto, ja tälle virastolle tulee sitten vielä tehtäviä, jotka liitty-
+vät tähän tietokonepuoleen elikkä tietohallinnon palvelujen tuottamiseen tälle perustetta-
+valle uudelle virastolle, ja sitten jonkun verran noita Turvallisuus- ja kemikaalivirastosta
+tulevia kasvinsuojeluaineiden käytön valvontaan liittyviä tehtäviä. Kaikki nämä olkoot yh-
+dessä virastossa nyt. Se on erittäin hyvä asia.
+
+Pidän kuitenkin erittäin tärkeänä sitä, että nyt kun uusi virasto perustetaan, niin pyritään
+tällä integraatiolla ihan oikeasti madaltamaan hallinnon kynnyksiä, niin etteivät toistu ne
+näytelmät, joita oli tässä taannoin, kuten edustaja Eerikki Viljanen puheenvuorossaan to-
+tesi, eli oli näitä päiviä, jolloin maanviljelijät tulivat traktorimarssilla tänne osoittamaan
+mieltään, ihan perustellusti, siitä, kun maataloustukien maksatukset viipyivät, viipyivät ja
+viipyivät, ja perusteena olivat tietokonevaikeudet — vai mitä oikeasti ne perusteet olivat-
+kaan, en jaksa kaikkia muistaa. Kuitenkin tällaisena aikana, kun Suomessa eletään nyt di-
+gitalisaation jonkunasteisessa luvatussa maassa, niin pitäisi nyt tällaisten perusasioiden
+edes olla kunnossa: että kun maksatuksia tulee, niin ne todella hoidetaan nopeasti. En us-
+ko, että tietoteknisiin vaikeuksiin tai ohjelmavaikeuksiin mikään maksatus jää. Kyllä täl-
+laiset asiat pitää hallita, ja jos ei joku tietokoneohjelmoija sitä osaa, niin pitää hankkia sel-
+lainen osaaja, joka laittaa sen maksatusohjelman kuntoon. Maatilojen ahdinko tänä päivä-
+nä on jo niin raju, että minkäännäköisiin maksuviivästyksiin ei ole varaa. Monelle tilalle
+ajoissa maksetut rahat ovat pelastus sille, että tila yleensä pystyy jatkamaan toimintaansa.
+
+Ja mitä tulee sitten vielä tähän byrokratiaan purkuun: Se on erittäin tärkeä asia, ja Sei-
+näjoki on tälle virastolle varmasti se ainoa ja oikea paikka. Se on maataloutemme keskipis-
+teessä, suurinta tuotantoaluetta aivan varmasti kaikilla mittareilla mitattuna. On meillä
+Suomessa totta kai monia, monia alueita, joilla tehokasta maataloutta harjoitetaan, se on
+totta. Sanotaan nyt vaikka, että Savosta löytyy, esimerkiksi jostakin Kiuruveden kunnasta,
+valtavan isoja maitotiloja. Se Maito-Suomi on siellä, ja monta muuta keskittymää löytyy
+tästä maasta. Mutta Seinäjoki periaatteessa on aivan varmasti paras vaihtoehto. Siellähän
+11
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+on jo perinteitäkin, tätä olemassa olevaa virastoa vahvistetaan, minkä takia se integraatio-
+hyöty minun mielestäni on tässä erittäin tärkeä ja huomionarvoinen seikka.
+
+Lopuksi, arvoisa puhemies: Mitä tulee näihin keskusteluihin hajasijoittamisen autuudes-
+ta tai heikkoudesta, niin totean vain sen, että minä olen hieman ihmetyksellä seurannut täs-
+sä vuosien saatossa sitä keskustelua, että ei voida Helsingin ulkopuolelle mitään yleensä
+viedä, kaikki pitäisi tuoda tänne. Otetaan nyt esimerkiksi vaikka Metsähallitus. Muutamia
+pikkutiloja lukuun ottamatta Metsähallituksella ei ole täällä mitään metsiä. Metsähallituk-
+sen eli valtion metsät alkavat suurin piirtein, kun karkeasti kuvataan, kotikuntani Ilomant-
+sin korkeudelta, itärajan pinnasta leviten kohti pohjoista niin, että ne ovat tuolla Lieksan
+korkeudella jo iso osa koko kunnan pinta-alasta. Ilomantsin pinta-alasta valtio omistaa yh-
+den kolmasosan, Lieksassa suurin piirtein samaa luokkaa, ja kun pohjoiseen mennään, niin
+lähes kaikki maat ovat sitten valtion maita. Siitä huolimatta keskusvirasto on Helsingissä.
+Sekään ei voi olla tänäpänä peruste, että asioita ei osata tai että tietotekniikka ei toimi. Esi-
+merkiksi kotikunnassani löytyy 100 megabittisekunnin valokuituyhteydet. Kotona istues-
+sani tietokoneen ääressä minulla on käytettävissäni ihan yhtä nopea, jopa nopeampi, valo-
+kuituyhteys kuin täällä eduskunnassa. Eli sekään ei ole enää mikään ongelma. Toivottavas-
+ti tässä hajasijoittamisessa ja alueellistamisessa, niin kuin nykyisin sanotaan, päästäisiin
+jonain päivänä aidosti eteenpäin, koska minä en jaksa uskoa sitä, että keskittämällä kos-
+kaan saavutetaan suurta hyötyä. Sitä paitsi, kun niitä kriisejä kuitenkin maailmassa silloin
+tällöin tulee, niin jos kaikki tärkeät toimipisteet pannaan samaan paikkaan, siinä otetaan
+valtava riski. Kaikki muistamme ne ajat, jolloin oli isoja kriisejä, sellaiset keskittävät rat-
+kaisut osoittautuivat silloin todella huonoiksi, kun otettiin valtavia riskejä pienellä alueella.
+
+19.19 Markku Pakkanen kesk: Arvoisa puhemies! Hallintouudistus on todellakin ky-
+seessä tässä esityksessä, ja Ruokaviraston sijoittuminen Seinäjoelle on tietenkin hyvä asia.
+Kriittinen keskustelu varmaan johtuu siitä, että salissa on eri puolilta Suomea paljon polii-
+tikkoja, jotka haluaisivat Ruokaviraston tai yleensäkin viraston omalle alueelleen. Siinä on
+monta perusteltua syytä. On toki se, että onko maakunta tai alue, mistä tulee, tyypillinen
+tässä tapauksessa ruuantuotantoalue, mutta siinä on myös tämä näkökulma, että aika pal-
+jon henkilöstöä yleensä siirtynee virastojen muutoksien mukana alueelle töihin. Itse aina-
+kin toivoisin, koska olemme muuttotappiomaakunta, että myös Kymenlaakso, Kaakkois-
+Suomi, saisi jotain tällaista alueellistamista. Sillä olisi aina alueen elinkeinon ja elinvoi-
+man kannalta myönteinen vaikutus.
+
+Tämä Eviran ja Maaseutuviraston yhdistyminen — ja sinne muutamia toimintoja Maan-
+mittauslaitokselta ja kemikaaliasioita — on tärkeä hallinnon uudistus maaseutuväestölle ja
+maatalouden parissa toimiville ihmisille. Siksi lämpimästi sitä kannatan, ja toki Seinäjoki
+on hyvä paikka sille virastolle. Voisikin sanoa, että ruokaa maakunnista tarkoittaisi myös,
+että virastoja maakuntiin, koska alueella, missä ruokaa tuotetaan, on myös vahvaa muuta
+elinvoimaa, on teollisuutta, joten voisi näitä virastojakin tässä alueellistamisen hengessä
+siirtää sinne maakuntiin. Toivonkin, että ministeri Leppä, vielä jos löytää, tässä vaalikau-
+den loppuvaiheessa saisi tuonne maakuntiin vielä jotakin toimintoja, ja toki Kymenlaakso
+siinä osoitteena on hyvä paikka.
+
+19.21 Katja Taimela sd: Arvoisa herra puhemies! Hyvät kollegat! Ruokavirasto Suo-
+meen — tekisi mieli ruokaihmisenä sanoa, että vau, vihdoinkin. Tämä esitys on kaiken
+kaikkiaan hyvin järjellinen ja kannatettava, koska tämän esityksen tavoitteenahan on yhte-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+näistää ja selkeyttää hallinnon rakenteita, tehostaa toimialan kokonaisohjausta sekä edis-
+tää toimintakulttuurin ja tietohallinnon kehittämistä ja elintarvikeketjun toimijoiden näkö-
+kulman vahvempaa huomioon ottamista viranomaistoiminnassa. Kaikki äärettömän hyviä
+ja kannatettavia asioita.
+
+On ajateltu, että virastojen yhdistäminen edistäisi sähköisten palvelujen kehittämistä ja
+yhden luukun palveluperiaatteen toteutumista. Uuden Ruokaviraston perustamisen arvioi-
+daan johtavan ylimmän johdon ja hallintotehtävien määrän vähenemiseen. Lisäksi virasto-
+uudistukseen liittyvät toiminnalliset muutokset oletettavasti poistavat päällekkäisyyksiä ja
+tehostavat tehtävien hoitamista. Nämäkin ovat kaikki sellaisia asioita, joista uskallan aja-
+tella, että tässä salissa niitä ei varmasti kukaan edustaja millään tavalla vastusta.
+
+Mutta sitten, mitä tulee tämän esityksen haasteisiin, esityksen lausuntokierroksella eräät
+lausunnonantajat ovat olleet huolissaan siitä, että maaseutupolitiikka ja taloudelliset näkö-
+kohdat voivat saada virastossa ylikorostuneen aseman suhteessa elintarviketurvallisuuteen
+ja eläinten hyvinvoinnin tavoitteisiin. Lisäksi toinen haaste on se, että lausuntokierroksella
+ihmeteltiin viraston perustamisen ajankohtaa vuoden 2019 alussa, vaikka sillä on merkit-
+täviä yhtymäkohtia perustettavien maakuntien kanssa. Muun muassa nämä huolenaiheet
+on tarkkaan selvitettävä valiokuntatyöskentelyssä, mutta muuten kaiken kaikkiaan tämä
+esitys on varsin kannatettava lajissaan.
+
+19.23 Sari Essayah kd: Arvoisa puhemies! Kiitoksia ministerille, että on jaksanut täällä
+olla pitkän illan ja kuunnella näitä puheenvuoroja.
+
+Debattipuheenvuorossani nostin esille sen keskeisen kysymyksen, mikä täällä aika mo-
+nien muittenkin kollegojen huolenaiheena on noussut esille, elikkä miten nyt tällaisessa
+isossa virastoremontissa ja yhdentymisessä voidaan huolehtia siitä, että nämä Maaseutuvi-
+raston tunnetut tietojärjestelmäongelmat eivät seuraa tuonne uuteen virastoon, ja erityises-
+ti, kun täällä vielä todetaan, että nimenomaan tietojärjestelmien kehittäminen paremmin
+kokonaisuutena on nyt tavoitteena, niin tässä on varmasti valtavasti haastetta.
+
+Täällä on monessa puheenvuorossa lobattu erilaisia virastoja omiin maakuntiin. Täytyy
+sanoa, että olen äärimmäisen tyytyväinen, että nimenomaan Maaseutuviraston, voisiko sa-
+noa, ikään kuin seurannaisena on päätetty pitää maakunnassa tämä tuleva Ruokavirasto. Ja
+ylipäätänsä jos katsotaan, niin kun meillä Suomessa välillä käydään semmoista hyvin kum-
+mallista, värittynyttä keskustelua siitä, että tämä alueellistaminen olisi jotenkin kamalaa, ja
+tämmöistä jonkinlaista siltarumpusävyä aina näissä puheissa käytetään, niin ihan vasta nyt
+oli pohjoismainen vertailu, jossa todettiin, että muissa Pohjoismaissa tehdään paljon enem-
+män tätä alueellistamista kyseisten valtiovaltojen toimesta kuin mitä meillä Suomessa. Ja
+siinä mielessä kyllä pidän tärkeänä, että meillä koko Suomi huomioidaan silloin, kun mie-
+titään näitä valtionvirastojen sijoituspaikkoja.
+
+Ihan debattipuheenvuoroni loppupuolella nostin huolena esille — ehkä saattoi jo mennä
+vähän yli ajankin siinä vaiheessa — Eviran roolin. Evira on tunnettu sellaisena virastona,
+joka nimenomaan palvelee aika paljon erilaisia järjestöjä, yhteisöjä, muun muassa ruoka-
+apua Suomessa tekeviä yhteisöjä. Se käsitys minulla on, mikä on tullut näitten järjestöjen
+kautta, että se on ollut hyvin palvelualtis virasto, ja toivon, että tämä henki, mikä Evirassa
+on, nyt leviäisi tähän uuteen virastoon [Puhemies koputtaa] ja tällä tavalla voitaisiin pitää
+huolta siitä, että asiakasrajapinta saa nämä tietonsa.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen: Keskustelu asiasta on... päättymäisil-
+lään, kunnes ministeri Leppä haluaa käyttää 2 minuuttia paikan päältä — tai puhujakorok-
+keelta, totta kai. [Jari Leppä: Komeampaa on!]
+
+19.25 Maa- ja metsätalousministeri Jari Leppä: Kiitoksia, herra puhemies! Kiitoksia
+hyvästä keskustelusta ja hyvistä evästyksistä ja hyvistä huomioista ja myöskin niistä kriit-
+tisistä äänenpainoista, mitkä ovat myöskin olleet koko ajan tämän Ruokavirastoa koske-
+van lain valmistelun yhteydessä esillä.
+
+On erittäin tärkeää, että eduskunta nyt valiokunnissa käy tämän lävitse huolella, jos siel-
+tä löytyy jotakin sellaista, mitä täytyy korjata, koska on se iso tavoite siitä, että meillä hal-
+linto helpottuu, yhtenäistyy, modernisoituu, uudistuu ja että se on entistä enemmän asia-
+kaslähtöistä, ja jos se ei jostain syystä toteutuisikaan, niin sellaisiin muutoksiin ilman muu-
+ta haluan jo nyt ilmoittautua, eli olen, totta kai, niihin aina valmis, se on ihan päivänselvä
+asia. Tämän pitää onnistua, se on myöskin yhtä päivänselvää. Ja yksi keskeinen viesti, joka
+itselläni oli tämän valmistelun yhteydessä, oli se, että maksatusviivästyksiä ei enää saa tul-
+la — on ihan totta, että niitä on ollut, ja ne on nyt saatu paremmalle tolalle varsinkin Maa-
+seutuviraston osalta — ja siksi on tärkeää, että on otettu opiksi, mitä aikaisemmin on ta-
+pahtunut.
+
+Eräs tärkeä asia on viennin edistäminen, jonka asian te monet otitte esille. Se on ilman
+muuta yksi päätehtäviä, yksi niistä lukuisista päätehtävistä, joita tällä tulevalla virastolla
+on, ja on aivan selvää, että sillä pitää olla pitkä sihti ja pitää olla pitkäjänteinen sekä hallin-
+non että rahoituksen osalta. Ja meillä vain on maailmalla markkinoita, joiden osalta me
+emme pääse sinne markkinoihin käsiksi ilman virastoja, ilman meidän hallinnollista avus-
+tusta ja hallinnollisia säädöksiä ja määräyksiä, jotka sitten joudutaan identifioimaan noille
+asiakkaille maailmalla. Se on todella tärkeää, että se tulee huomioiduksi.
+
+Ruokaturvasta ei tingitä. On ihan päivänselvää, että tasapainon Ruokaviraston eri tehtä-
+vien välillä, niin kuin täällä esille tuli, pitää olla hyvä ja sen pitää olla koko ajan hoidossa,
+se on päivänselvää. Viraston substanssi ei muutu nykyisestä, elikkä sen — näiden kolmen
+eri tahon, jotka tähän yhdistyvät — tehtävät säilyvät nykyisenlaisina, samanlaisena. Eli sii-
+hen ei tule muutosta.
+
+Mutta sen sijaan sen modernisoinnissa meillä on vielä paljon, paljon tehtävää. Ja kun
+täällä ollaan oltu huolissaan tietohallintojärjestelmistä, siitä on syytäkin olla huolissaan.
+Siinä otetaan ja on otettu koko ajan mukaan myös yksityisiä toimijoita, ja olen nyt jo ha-
+vainnut sen, että tietohallintoklusteri on selvästi maaseutuhallinnon eri alueilla kasvattanut
+myös yksityistä palvelutarjontaa, ja sehän on vain positiivinen asia. Sieltä tulee myöskin
+paljon sellaista uutta, mitä julkiseen hallintoon tarvitaan. Tämä ala on erittäin tietointensii-
+vinen ala, ja sille pitää antaa iso painoarvo.
+
+Puhemies! Ihan lopuksi. Tämä virasto tulee toimimaan jatkossakin 20:llä eri paikkakun-
+nalla. Se on merkittävästi toimiva ympäri Suomen. Se kuuluu tähän lajiin, että se toimii
+ympäri Suomen, se on järkevää myöskin. Mutta se koordinaatio, joka tulee uuden viraston
+myötä, on äärimmäisen tärkeää, ja siksi tässä laissa ehdotetaan, että nämä kaikki edellä
+mainitut asiat toteutuisivat, että me saamme valita sekä viraston pääjohtajan että hallinto-
+johtajan ennen kuin tämä laki astuu voimaan. Se on tärkeätä jatkuvuuden osalta, niin että se
+vaiheittainen uudistuminen yhdeksi virastoksi tapahtuu mahdollisimman juohevasti ja jou-
+hevasti.
+
+Kiitoksia keskustelusta!
+14
+
+
+
+Pöytäkirjan asiakohta PTK 15/2018 vp
+Keskustelu päättyi.
+
+Asia lähetettiin maa- ja metsätalousvaliokuntaan.
+15
+
+
+	15
+	18.34
+	18.37
+	18.43
+	18.44
+	18.46
+	18.47
+	18.48
+	18.49
+	18.50
+	18.51
+	18.52
+	18.58
+	19.00
+	19.05
+	19.07
+	19.09
+	19.11
+	19.14
+	19.19
+	19.21
+	19.23
+	19.25
+
+

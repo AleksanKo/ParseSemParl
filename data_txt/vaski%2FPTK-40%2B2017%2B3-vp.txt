@@ -1,0 +1,2184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMDDAA.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 40/2017 vp
+
+Täysistunto
+
+Torstai 20.4.2017 klo 16.00—19.45
+
+3. Valtioneuvoston selonteko sisäisestä turvallisuudesta
+Valtioneuvoston selonteko VNS 5/2016 vp
+Valiokunnan mietintö HaVM 5/2017 vp
+
+Ainoa käsittely
+
+Toinen varapuhemies Arto Satonen: Ainoaan käsittelyyn esitellään päiväjärjestyksen 3.
+asia. Nyt päätetään hallintovaliokunnan mietinnön HaVM 5/2017 vp pohjalta kannanotos-
+ta selonteon johdosta.
+
+Hallintovaliokunnan puheenjohtajan esittelypuheenvuoron jälkeen keskustelu käydään
+etukäteen pyydettyjen puheenvuorojen osalta nopeatahtisena. Ryhmäpuheenvuorokierros-
+ta ei ole. Etukäteen varattujen puheenvuorojen pituus on enintään 5 minuuttia. Puhemies-
+neuvosto suosittaa, että myös nopeatahtisen keskusteluosuuden jälkeen pidettävät puheen-
+vuorot kestävät enintään 5 minuuttia.
+
+Keskustelu alkaa. — Hallintovaliokunnan puheenjohtaja Eerola.
+
+Keskustelu
+
+17.00 Juho Eerola ps (esittelypuheenvuoro): Arvoisa herra puhemies! Eduskunnan käsi-
+teltävänä on kautta aikojen ensimmäinen sisäisen turvallisuuden selonteko ja ensimmäi-
+nen sisäisen turvallisuuden selontekomietintö. Aiemmin sisäinen turvallisuus on mainittu,
+tosin vain ohimennen, parissa edeltävässä UTP-selonteossa. Sen vuoksi eduskunta onkin,
+ottaen huomioon sisäisen turvallisuuden yhteiskunnan kokonaisturvallisuudessa, edellyt-
+tänyt vastauksessaan vuoden 2013 valtiopäivillä, että hallituksen tulee antaa eduskunnalle
+vuoden 2017 loppuun mennessä kokonaisvaltainen, seikkaperäinen selonteko 1) sisäisen
+turvallisuuden tilasta, 2) sisäisen turvallisuuden, viranomaisten ja muiden toimijoiden toi-
+minnan tuloksellisuudesta, 3) eri toimintojen kehittämistarpeista ja haasteista sekä 4) eri
+tehtävien edellyttämistä pidemmän tähtäimen taloudellisista voimavaroista ja resurssitar-
+peista.
+
+Eduskunnalle on meneillään olevalla vaalikaudella annettu myös kaksi muuta turvalli-
+suusselontekoa sisäisen turvallisuuden selonteon ohella: perinteinen UTP-selonteko ja par-
+haillaan puolustusvaliokunnassa käsiteltävänä oleva puolustusselonteko. On ollut tarkoi-
+tus, että nämä kolme selontekoa muodostavat yhteiskunnan kokonaisturvallisuuden kes-
+keisen viitekehyksen. Näiden kolmen selonteon uhkakuvat ovat monin osin varsin yhden-
+suuntaisia. Selontekojen erilaisista toimialakohtaisista lähtökohdista johtuen muuttuneen
+turvallisuusympäristön synnyttämät uhkakuvat eivät ole kuitenkaan täysin yhteneväisiä,
+vaan ne painottuvat toimialakohtaisesti tavoitteiden ja toimenpiteiden suhteen.
+
+Suomen sisäinen turvallisuus on sidoksissa Euroopan unionin jäsenvaltioiden ja muiden
+naapurivaltioidemme turvallisuustilanteisiin. Tilannekuva ja toimintaympäristö ovat no-
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+peasti muuttuneet. Epävakaassa turvallisuustilanteessa kehityksen ennustettavuus on hei-
+kentynyt merkittävästi, eikä muutosta parempaan ole näköpiirissä. Uusien uhkatekijöiden
+taustasyyt liittyvät kriiseihin muualla: terrorismiin, laajaan Eurooppaan suuntautuvaan
+maahanmuuttoon ja valtioiden välisiin konflikteihin meille Suomeen ulottuvine vaikutuk-
+sineen. Sisäinen ja ulkoinen turvallisuus ovat monin tavoin toisiinsa kietoutuneita. Sisäi-
+sen turvallisuuden osalta on lisäksi koko ajan muistettava, että niin sanotut perinteisen si-
+säisen turvallisuuden tehtävät ovat edelleen hoidettavina. Ne eivät ole kadonneet yhtään
+minnekään.
+
+Ei ole pelottelua sanoa, että Suomi ei enää ole mikään lintukoto, vaikka yleisellä tasolla
+muihin maihin verrattuna maamme on ainakin vielä suhteellisen rauhallinen maa. Silti
+vuositasolla kirjataan esimerkiksi noin miljoona rikosilmoitusta ja noin miljoona poliisin
+hälytystehtävää. Rikosilmoituksista noin puolet liittyy rikoslakirikoksiin ja hälytystehtä-
+vistä noin puolet kiireellisiin hälytystehtäviin. Päivää kohti tapahtumia riittää, ja kun men-
+nään avuntarvitsijan puolelta tarkastelemaan tilannetta, kuva ei olekaan enää niin positii-
+vinen kuin yleisellä tasolla ja etäältä papereista katsottuna saattaa joidenkin silmissä vielä
+näyttää.
+
+On syytä huomata, ettei sisäisen turvallisuuden selonteko, osana tätä kolmen selonteon
+kokonaisuutta, ole niin sanotun arjen turvallisuuden selonteko vaan sisäisen turvallisuu-
+den kovan ytimen selonteko, ja niin on ollut tarkoituskin. Mietinnössä toki tunnustetaan
+niitä tekijöitä, jotka vaikuttavat turvallisuuteen, kuten syrjäytyminen, tuloerot, työllisyys-
+tilanne, äsken mainittu alkoholi- ja päihdepolitiikka, taloustilanne ja yhdenvertaisuus. Ai-
+hepiiri ei kuitenkaan voi olla liian laaja, jotta hallittu ja vaikutuksellinen työskentely on
+mahdollista. Kuten mietinnöstä ilmenee, varsin laajasta ja monitahoisesta kokonaisuudes-
+ta on tässä nyt kysymys, kun puhutaan sisäisen turvallisuuden niin sanotusta kovasta yti-
+mestä.
+
+Arvoisa puhemies! Hallintovaliokunta on arvioinut mietinnössään ensimmäistä sisäisen
+turvallisuuden selontekoa ja sisäisen turvallisuuden tilaa noin 30 vuoden aikajänteellä, pai-
+nottaen analyysissaan 2000-luvulla tapahtunutta, viimeaikaista kehitystä. Valiokunnan
+suorittama tarkastelu on ollut faktaperusteinen ja kaunistelematon. 
+
+Sisäisen turvallisuuden selonteko alkaa silloisen sisäministerin esipuheella, jossa tun-
+nistetaan voimakas turvallisuusympäristön muutos ja sen myötä muun muassa tarve sisäi-
+sen turvallisuuden viranomaisten heikentyneen suorituskyvyn parantumiseen.
+
+Selonteon ensimmäisessä luvussa kuvataan muuttuvaa toimintaympäristöä sekä Suo-
+messa että Euroopassa. Lisäksi ensimmäisessä luvussa sisäministeriön hallinnonalan ope-
+ratiiviset sisäisen turvallisuuden viranomaiset esittävät näkemyksensä sisäisen turvallisuu-
+den tilasta ja tulevaisuudennäkymistä. Saadun selvityksen perusteella tarkastelu on kuiten-
+kin tehty tosiasiassa vain ministeriötasolla, eikä esimerkiksi Poliisihallitus ole ollut tässä
+työssä mukana.
+
+Selonteon toisessa luvussa edellä mainitut sisäasiainhallinnon viranomaiset kuvaavat
+niitä toimenpiteitä, joilla turvallisuusympäristön muutokseen ja ihmisten odotuksiin vas-
+tattaisiin. Tässä luvussa korostuu resurssien ja viranomaisiin kohdistuvien odotusten väli-
+nen epäsuhta. 
+
+Kolmannessa luvussa hallitus antaa oman vastauksensa edeltävien lukujen arviointeihin
+sisäisen turvallisuuden tilasta sekä esittää johtopäätöksensä selonteon jälkeen laadittavan
+sisäisen turvallisuuden strategian ja siihen liittyvän toimenpideohjelman pohjaksi. 
+2
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Arvoisa puhemies! Odotukset selonteon suhteen ovat olleet suuret. Kuten mietinnöstä
+ilmenee, selonteko on kuitenkin osoittautunut suureksi pettymykseksi. Tilanteessa, jossa
+sisäisen turvallisuuden tilannekuva on muuttunut olennaisesti haastavammaksi, sisäminis-
+teriössä laaditun selonteon kehittämisnäkökulma on poikkeuksellisen ohut ja yleinen. Se-
+lonteon vastaus on kiteytettynä, että toiminta on muuttuneessa turvallisuustilanteessakin
+sopeutettava valtiontalouden kehyksiin, mikä merkitsee väistämättä turvallisuuden heikke-
+nemistä. 
+
+Toki selonteossa on muutama kohta, joiden saatetaan tulkita tarkoittavan toimenpide-
+ehdotuksia:
+
+Yksi niistä on tehtävien priorisointi. Selonteko ei kuitenkaan sisällä eduskunnan arvioi-
+tavaksi ehdotuksia, millä perusteella ja mitkä lakisääteiset tehtävät jätettäisiin hoitamatta. 
+
+Toinen ehdotus on viranomaisten teknologinen edelläkävijyys. Selonteon mukaan sisäi-
+sen turvallisuuden viranomaisten on oltava uusien teknologioiden käytön edelläkävijöitä jo
+vuonna 2020. Selonteossa ei kuitenkaan kerrota, kuinka se tehdään. Uusien ja luotettavien
+viranomaisjärjestelmien kehittäminen kestää vuosia, ja se maksaa. Poliisin noin kymme-
+nen vuotta vireillä ollut ja yhä kesken oleva Vitja-hanke on esimerkki tietojärjestelmä-
+hankkeen vaativuudesta ja siitä, kuinka siinä voidaan epäonnistua. Toiseksi hankerahoitus-
+ta on kehyksissä leikattu, eikä uuden teknologian kehittämiseen ole siten rahaakaan.
+
+Kolmas selonteon ehdotus on, että sisäministeriön johdolla laaditaan sisäisen turvalli-
+suuden strategia ja toimenpideohjelma. Selonteossa eduskunnalle on siis annettu vastaus,
+että eduskunnan ulkopuolella laadittava ohjelma, jonka sisältöä eduskunta ei käsittele tai
+jonka sisällöstä eduskunta ei ole edes tietoinen, antaa suuntaviivat sisäisen turvallisuuden
+tulevaisuuden linjauksille. Näin asian laita ei mitenkään voi olla, vaan eduskunnan selon-
+teon johdosta selontekomietinnössä antamat linjaukset muodostavat sisäisen turvallisuu-
+den tulevaisuuden kehittämislinjaukset.
+
+Selonteko lienee laadittu sisäministeriössä suhteellisen suppeassa virkamiesvalmiste-
+lussa ilman parlamentaarista katetta. Esimerkiksi parlamentaarinen seurantaryhmä olisi
+mitä todennäköisimmin varmistanut, että selonteko olisi vastannut eduskunnan lausumaan
+ja tarkastelu olisi koskenut koko sisäisen turvallisuuden kovan ytimen eli niin sanotun se-
+curityn viranomaiskenttää. Ainakin Tulli, syyttäjälaitos, tuomioistuimet ja Rikosseuraa-
+muslaitos olisivat ilman muuta kuuluneet selonteon piiriin.
+
+Selonteon tekstit vaikuttavat ainakin osin keskenään yhteensovittamattomilta. Vakavin-
+ta on, että eduskunnan toimeksiantoa ei ole otettu huomioon vaan eduskunnan hyväksymä
+lausuma selonteon sisällöstä on sivuutettu. Selonteon laadun lisäksi myös sen aikajänne
+poikkeaa kahdesta muusta edellä mainitusta turvallisuusselonteosta, joissa katsotaan tule-
+vaisuuteen aina ensi vuosikymmenen puoliväliin saakka. Sisäisen turvallisuuden selon-
+teon aikajänne on jäljellä oleva vaalikausi. Hallintovaliokunta on kuitenkin ottanut mietin-
+töönsä saman ajallisen perspektiivin kuin UTP-selonteossa ja puolustusselonteossa eli
+tuonne ensi vuosikymmenen puoleenväliin saakka.
+
+Arvoisa puhemies! Eduskunnan hallitukselle lausuman muodossa antaman toimeksian-
+non tarkoituksena on ollut nimenomaan varmistaa, että turvataan keskeisten sisäisen tur-
+vallisuuden viranomaisten kyky ympärivuorokautisesti kaikkina vuoden päivinä hoitaa
+turvallisuusviranomaisten tehtävät asianmukaisesti. Kysymys ei ole viranomaisten vaan
+kansalaisten ja yhteiskunnan turvallisuustarpeista. Viranomaisten suorituskyky perustuu
+puolestaan aivan keskeisesti ihmisten työpanokseen lakisääteisten tehtävien hoitamisessa.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Mietinnössä arvioidaan poliisin tehtäviä ja edellytyksiä suojata ihmisten henkeä ja ter-
+veyttä vakavissa hälytystehtävissä sekä torjua ja selvittää rikoksia. Uusiin uhkiin varautu-
+minen vaatii lisäksi uudenlaista osaamista, kykyä ja lainsäädäntöä. Nykymenolla poliisi tu-
+lee avuksi yhä harvemmin ja yhä useampi rikos jää selvittämättä. Rajavartiolaitoksen tulee
+kyetä huolehtimaan itsenäisesti rajaturvallisuudesta, Hätäkeskuslaitoksen on kyettävä vä-
+littämään apua hädässä oleville, pelastuslaitoksen on puolestaan pystyttävä huolehtimaan
+omista pelastustehtävistään, ja niin edelleen.
+
+Selontekomietintö sisältää monipuolisen analyysin lisäksi johtopäätöksiä, joista keskei-
+nen koskee viranomaisten toimintakyvyn palauttamista asianmukaiselle tasolle muuttu-
+neessa turvallisuusympäristössä. Heikentynyt ja heikentyvä suorituskyky on pidemmän
+ajan jatkoa. Siitä ovat vastuussa monet hallitukset — ei pelkästään tämä hallitus, edustaja
+Adlercreutz. On selvää, ettei kenelläkään ole aihetta ihmetellä, miten tämä nyt sitten on
+mahdollista, jos ja kun todella vakavaa tapahtuu.
+
+Hallintovaliokunta on selonteon puutteiden vuoksi joutunut mietintöä laatiessaan teke-
+mään erittäin mittavan työn, jotta eduskunnan lausumassa mainitut yhteiskunnan turvalli-
+suuden kannalta olennaiset seikat eivät jäisi ilman analyyttista tarkastelua.
+
+Arvoisa puhemies! Sisäinen turvallisuus on suomalaisen yhteiskunnan kivijalka. Sen yl-
+läpitäminen on nimenomaan valtion vastuulle kuuluva tehtävä. Nyt kivijalka, jonka perus-
+teella maamme on ollut muun muassa ulkomaisille yrityksille turvallinen sijoittautumis-
+kohde, uhkaa murentua. Kerran menetettyä on vaikea saavuttaa uudelleen.
+
+Mietintö sisältää yleisen tilannekuvaa, selontekoa, turvallisuustilannetta ja kansalaisten
+turvallisuudentunnetta koskevan osion ohella poliisin, Rajavartiolaitoksen ja Hätäkeskus-
+laitoksen osalta viranomaiskohtaisen tarkastelun niiden suorituskyvystä kehityskulkui-
+neen, johtopäätökset kehitysnäkymistä sekä toimenpide-ehdotukset valtion keskeisiin teh-
+täviin kuuluvan sisäisen turvallisuuden asianmukaiseksi ylläpitämiseksi. Pelastustoimen
+osalta tarkempi analyysi tehdään maakuntauudistukseen liittyvän erillisen lakiehdotuksen
+valiokuntakäsittelyssä. Tältä osin asiantuntijakuuleminen on hallintovaliokunnassa jo
+käynnistetty. Puolustusvoimien rooli sisäisen turvallisuuden tärkeänä virka-apuviranomai-
+sena on saanut mietinnössä myös oman osionsa. Selonteon ulkopuolelle jääneitä Tullia,
+syyttäjälaitosta, tuomioistuimia ja Rikosseuraamuslaitosta on tarkasteltu tiivistetysti.
+
+Tämän lisäksi on teemoittain arvioitu etenkin uusia uhkia ja niiden torjuntaa. Näitä tee-
+moja ovat muun muassa laajamittainen maahanmuutto Eurooppaan ja siihen liittyvät uhat,
+terrorismi ja väkivaltaiset ääriliikkeet, järjestäytynyt rikollisuus ja sitten vielä hybridiuh-
+kien kokonaisuus, johon kuuluvat tässä yhteydessä hybridivaikuttaminen, kyberuhat ja in-
+formaatiovaikuttaminen.
+
+Arvoisa puhemies! Hallintovaliokunta toteaa loppuyhteenvedossaan, että sisäisen tur-
+vallisuuden viranomaisten toimintaedellytyksiin ja suorituskykyyn on monitahoisesti vai-
+kuttanut heikentävästi taloudellisesta tilanteesta johtunut, useiden vaalikausien aikana ta-
+pahtunut resurssien leikkaaminen. Sisäistä turvallisuutta ja sen tunnetta heikentävät perin-
+teisten uhkien lisäksi uudet uhkatekijät muuttuneessa maailmassa. Epäkohdat ovat korjat-
+tavissa määrätietoisin toimenpitein.
+
+Valiokunnan mietintöön sisältyy lausuman muotoon laadittu kannanottoehdotus kansa-
+laisten turvallisuuden ja turvallisuudentunteen ylläpitämiseksi sekä yhteiskunnan suojaa-
+miseksi. Tehtyjen toimenpiteiden välitarkastelun suorittamiseksi ennen seuraavaa selonte-
+kokierrosta 2020-luvulla tarvitaan hallitukselta kirjallinen selvitys tehdyistä toimenpiteis-
+tä vuoden 2020 loppuun mennessä.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Lopuksi: Suomalaisen yhteiskunnan kivijalan, sisäisen turvallisuuden, ylläpitämisessä
+on kysymys kaikkiaan varsin pienistä taloudellisista panostuksista: 1 000 poliisia maksaisi
+noin 60 miljoonaa. Sen lisäksi tulee huolehtia siitä, että lainsäädäntö on ajan tasalla, jotta
+sekä perinteisiin että uusiin uhkiin kyetään vastaamaan asianmukaisella tavalla. Lisäksi on
+olennaista, että henkilöstön ammattitaitoa kehitetään koulutuksella myös uusien vaatimus-
+ten edellyttämällä tavalla. Hallintovaliokunnan mietinnöstä ilmenevät kehittämistoimet
+ulottuvat pisimmillään aina ensi vuosikymmenen puoliväliin saakka, ja töihin on ryhdyttä-
+vä välittömästi.
+
+17.16 Sisäministeri Paula Risikko: Arvoisa puhemies! Maamme turvallisuusympäristö
+on muuttunut aiempaa huonommaksi. Kansainväliset konfliktit ja kriisit eri puolilla maa-
+ilmaa heijastuvat nopeasti kotimaamme turvallisuuteen. Vastakkainasettelut lisääntyvät ja
+väkivaltaiset ääriliikkeet voimistuvat. Turvallisuusympäristömme muutos on niin nopeaa,
+että vain vuosi sitten tehdyn sisäisen turvallisuuden selonteon jälkeenkin tilanne on heiken-
+tynyt. Tapahtumat naapurimaissamme koskettavat, emmekä voi ummistaa silmiämme. Jot-
+ta kansalaisten turvallisuus voidaan taata, viranomaisten on kyettävä vastaamaan sekä uu-
+siin että vanhoihin uhkiin.
+
+Suomen hallitus on tunnistanut tapahtuneen muutoksen. Ensi viikolla hallituskauden
+puolivälitarkastelussa käydään läpi hallitusohjelman toteutumista ja sovitaan tarvittavista
+lisätoimista. Turvallisuus on päätetty nostaa yhdeksi painopisteeksi. Turvallisuustilanne
+edellyttää meiltä monia toimia. Sekä viranomaisten toimivaltuuksiin liittyviä lainsäädän-
+tötoimia että turvallisuusviranomaisten suorituskykyä ja määrärahatasoa on tarkistettava
+vastaamaan muuttunutta turvallisuustilannetta. Muutokseen vastaaminen on omissa käsis-
+sämme — pelkästään puhumalla emme voi jatkaa.
+
+Sisäministeriössä valmistellaan useita toimia sisäisen turvallisuuden varmistamiseksi.
+Keväällä valmistuu laajassa yhteistyössä eri toimijoiden kanssa valmisteltu sisäisen turval-
+lisuuden strategia ja toimenpideohjelma. Tiedustelulainsäädännön mietinnöt ovat juuri
+valmistuneet ja lähtemässä lausunnoille, pelastustoimen uudistus ja maakuntien varautu-
+mistoiminnan kehittäminen etenevät, hybridiuhkiin vastataan entistä paremmin ja niin
+edelleen.
+
+Millaisia nämä uhkakuvat sitten ovat, mistä niitä turvallisuusuhkia kumpuaa? 
+Globaali turvallisuustilanne on heikentynyt, eikä se voi olla vaikuttamatta Suomeen Eu-
+
+roopan unionin itäisenä rajavaltiona. Lukuisat tutkijat ovat yhtä mieltä siitä, että monimuo-
+toinen polarisaatio on yhteiskuntamme kasvava ongelma. Varsinkin nuorten miesten syr-
+jäytyminen näyttää nopeasti yleistyvän, ja kehityksellä on varmasti myös turvallisuushei-
+jastuksia. Olenkin todennut monessa yhteydessä, että syrjäytyminen on tämän maan suu-
+rin sisäisen turvallisuuden uhka.
+
+Yhteiskuntamme sinänsä positiivinen moniarvoistumiskehitys tuottaa myös arvojen sir-
+paloitumista ja vastakkainasettelujen lisääntymistä. Maahanmuutto on ikääntyvälle Suo-
+melle tärkeä voimavarakysymys, mutta sillä on myös turvallisuusvaikutuksia. Kaupungis-
+tumisen myötä harvaan asuttujen alueiden väestö on yhä harvemmassa ja myös turvalli-
+suusviranomaisten palvelut kaukana.
+
+Teknologian kehitys on Suomen tulevaisuudelle keskeistä, mutta tälläkin sektorilla on
+kyettävä vastaamaan uusiin turvallisuustarpeisiin, nimittäin kyberrikollisuus ja merkittä-
+vältä osin sosiaalisen median kautta tapahtuva informaatiovaikuttaminen edellyttävät vi-
+ranomaisilta uutta suorituskykyä.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Terrori-iskun riski ei välttämättä ole Suomessa oleellisesti kasvanut, mutta sellaisen vai-
+kutus kansalaisten turvallisuudentunteeseen olisi järisyttävä. Siksi vahvistuvat ääriliikkeet
+ja ideologiat edellyttävät viranomaisilta intensiivistä seurantaa, jonka mahdollistamiseksi
+siviilitiedustelun toimivaltuudet ja voimavarat on varmistettava. Kaikki tämä on kyettävä
+toteuttamaan tilanteessa, jossa maamme julkisen talouden tilanne on edelleen haasteelli-
+nen.
+
+Arvoisa puhemies! Esitän kiitokseni hallintovaliokunnalle sen erittäin huolellisesti laa-
+ditusta ja perusteellisesta valtioneuvoston sisäisen turvallisuuden selontekoa koskevasta
+mietinnöstä. Kiitokset samalla kaikille asiasta lausuneille. Hallintovaliokunta näkee muut-
+tuneen tilanteen erittäin hyvin. Hallintovaliokunta on mietintöä valmistellessaan tarkastel-
+lut erittäin huolellisesti lukuisien sisäisen turvallisuuden mittarien ja indikaattorien viime-
+aikaista kehitystä. Hyvä niin. 
+
+Hallintovaliokunta ansaitsee erityisen kiitoksen siitä, että se kiinnittää voimakkaasti
+huomiota turvallisuusympäristömme laaja-alaiseen monimutkaistumiseen ja sisäisen ja ul-
+koisen turvallisuuden rajojen häviämiseen. Halu tuoda tämä seikka selvästi esiin on ohjan-
+nut myös selonteon laadintaa, ja siksi se nimenomaisesti toteaa: "Sisäisen turvallisuuden
+supistuvat resurssit ovat ristiriidassa turvallisuusviranomaisten lisääntyvien ja monimut-
+kaistuvien tehtävien, kansalaisten odotusten sekä toimintaympäristön nopean muutoksen
+kanssa."
+
+Arvoisa puhemies! Käynnistin viime vuoden elokuussa sisäisen turvallisuuden strate-
+gian ja toimenpideohjelman valmistelun. Asettamispäätöksessä todetaan, että strategian
+tulee perustua laajaan turvallisuusnäkökulmaan, ja siinä korostetaan sitä, että tulevaisuu-
+den sisäinen turvallisuus edellyttää syvää ja sitoutunutta yhteistyötä niin eri viranomaisten
+kuin kansalaisjärjestöjen, lähiyhteisöjen, elinkeinoelämän ja lukuisten muiden toimijoiden
+kesken. Juuri valmistumassa olevassa strategiassa näitä asioita siis käsitellään ja painote-
+taan yhteistyötä, ja siihen liittyvä toimenpideohjelma korostaa monialaisen yhteistyön tär-
+keyttä, mutta samalla ne tuovat esiin väistämättä sen tosiseikan, että turvallisuuden moni-
+muotoistuessa viranomaisilla on oltava tehtäviensä hoitamisen edellyttämät toimivaltuu-
+det, suorituskyvyt ja voimavarat.
+
+Arvoisa puhemies! Ihan lopuksi: Suomi on monella mittarilla mitattuna yksi maailman
+turvallisimmista maista. Meidän on pidettävä huoli siitä, että näin on myös jatkossa. Kai-
+killa, niin viranomaisilla kuin päättäjilläkin, on oltava yhteinen, realistinen käsitys muut-
+tuvasta turvallisuustilanteesta. Samalla on varmistettava viranomaisten toimivaltuudet ja
+suorituskyky sekä muut riittävät resurssit. Me täällä eduskunnassa tunnistamme aiempaa
+vaikeammaksi käyneen tilanteen, ja siksi onkin aika tehdä päätöksiä sen puolesta. — Kii-
+tos.
+
+Toinen varapuhemies Arto Satonen: Nyt on mahdollisuus pyytää vastauspuheenvuoroja
+V-painiketta painamalla.
+
+17.22 Timo V. Korhonen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Tämä hallin-
+tovaliokunnan mietintö on hyvin avoin arvio sisäisen turvallisuuden tilanteesta siitä syys-
+tä, että valiokunta on ollut jo pitkään hyvin huolissaan sisäisen turvallisuuden viranomais-
+ten toimintaedellytyksistä tässä hyvin muuttuvassa toimintaympäristössä. Tämä mietintö
+asettaa riman hyvin korkealle — toisaalta nyt ensi viikon puoliväliriiheen mutta ennen
+kaikkea sitten tätä selontekoa seuraavaan strategiatyöhön ja sitä seuraavaan toimeenpa-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+nosuunnitelmaan. Hallitus on vastaamassa näihin huoliin, mutta olennaista tietysti olisi pit-
+käjänteisyys yli vaalikausien niin tavoite-, toiminta- kuin resurssisuunnittelussa, ja oikeas-
+taan ministerin suuntaan tulee sitten kysymys tästä pitkäjänteisyydestä: miten näette, onko
+meillä mahdollisuus nyt lähteä resursoimaan sisäisen turvallisuuden viranomaisten toimin-
+ta ja [Puhemies koputtaa] yleensä toiminta yli vaalikausien?
+
+17.24 Mika Kari sd (vastauspuheenvuoro):  Arvoisa herra puhemies! Olen saanut istua
+hallintovaliokunnassa nyt jo kuuden vuoden ajan ja haluan heti tähän keskustelun alkuun
+kiittää hallituspuolueita ja muita oppositiopuolueita erittäin hyvästä työskentelyilmapiiris-
+tä. Meillä oli poikkeuksellisen hyvä työskentelyilmapiiri, joka näkyy myös tässä hallinto-
+valiokunnan mietinnössä rehellisyytenä, avoimuutena ja kykynä katsoa ongelmia suoraan
+silmiin. [Antero Laukkanen: Pitää paikkansa!] Tällaista parlamentarismia itsenäisyyden
+juhlavuotena kaipaa tietenkin muihinkin asioihin.
+
+Arvoisa ministeri, nyt on viime vuosina herätty näkemään tämä kokonaisturvallisuus
+kokonaisuutena, ei ainoastaan osina. Sisäinen turvallisuus ja ulkoinen turvallisuus muo-
+dostavat kaksi keskeistä turvallisuuden kenttää. Näiden väliin jää kuitenkin hybridin men-
+tävä aukko. Olen tästä asiasta puhunut jo useamman vuoden, koska olen saanut toimia
+myös kuuden vuoden ajan puolustusvaliokunnan jäsenenä ja varapuheenjohtajana. Tänään
+pyöräytin asiasta blogin, ja kysynkin ministeriltä: olisiko syytä rakentaa [Puhemies koput-
+taa] kokonaisturvallisuutta niin, että yhdistettäisiin poliisin, Tullin, Rajavartiolaitoksen ja
+Puolustusvoimien asiat kokonaisuudeksi?
+
+17.25 Kari Kulmala ps (vastauspuheenvuoro):  Arvoisa puhemies! Tullia ei mielletä
+yleensä sisäistä turvallisuutta tuottavaksi organisaatioksi, mutta sitä se on mitä suurimmas-
+sa määrin. Toiveenani onkin, että Tulli siirretään jatkossa sisäministeriön alaisuuteen mah-
+dollisimman pian. Esitutkintaviranomaisena Tulli on erikoistunut ja keskittynyt ulkomaan
+liikenteessä tapahtuvien rikosten estämiseen, paljastamiseen ja selvittämiseen. Nämä jos
+mitkä kuuluvat sisäiseen turvallisuuteen. Toimivat tulliselvitysjärjestelmät ovat perusedel-
+lytys jatkossa Tullin valvonnan ja rikostorjunnan toimintaedellytysten varmistamiseksi, ja
+toivottavasti tämä uudistus saadaan pikaisesti maaliin saakka. Tulli on joutunut sopeutta-
+maan toimintaansa jo pidemmän ajan, ja heiltä valtion tuottavuusohjelmien leikkaukset on
+laitettu toimeen jo etupainotteisesti. Tänä vuonna Tulli vähentää henkilöstöä noin 80 hen-
+kilöllä, mikä on erittäin huolestuttava suuntaus sisäisen turvallisuuden toimijalle. Kysyn-
+kin ministeri Risikolta: onko Tulli tulevaisuudessa sisäasiainministeriön alainen organi-
+saatio?
+
+17.26 Mari-Leena Talvitie kok (vastauspuheenvuoro):  Arvoisa puhemies! Tässä on
+hyvä yhtyä edustaja Karin puheenvuoroon hallintovaliokunnan hyvästä työskentelyhen-
+gestä — se on todellakin lähestulkoon kokonaisturvallisuutta edistävä — ja myöskin edus-
+taja Kulmalan puheenvuoroon Tullin tilanteesta.
+
+Puhumme paljon sisäisen turvallisuuden resursseista ja vajeesta, syystäkin. On tärkeää,
+että kokonaisturvallisuuden murroksessa pystymme turvaamaan riittävät viranomaisre-
+surssit, mutta se ei kuitenkaan riitä. Yhtä tärkeää on myös katsoa sitä, että pystymme vä-
+hentämään palvelutarvetta, ja sitä, miten kykenemme panostamaan näihin ennalta ehkäise-
+viin palveluihin. Kysyisinkin ministeriltä: kun sisäisen turvallisuuden strategiaa ollaan yh-
+teistyössä eri ministeriöiden kanssa viemässä eteenpäin, niin miten sisäministeriö tukee
+7
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+tätä työtä, että pystymme myös vähentämään poliisien palvelutarpeen jatkuvaa kasvua täs-
+sä kokonaisturvallisuuden murrostilanteessa?
+
+17.27 Olli-Poika Parviainen vihr (vastauspuheenvuoro):  Arvoisa herra puhemies! Kii-
+tos hallintovaliokunnan puheenjohtaja Eerolalle hyvästä alustuksesta ja sisäministeri Risi-
+kolle hyvästä puheenvuorosta.
+
+Nostaisin edelleen esiin sitä, että vaikka tämä selonteko itsessään on jo tehtävänannolla
+rajattu sisäministeriön toimialaan, niin meidän tarvitsisi löytää tässä salissa joitakin uusia
+keinoja edistää kokonaisturvallisuutta juurikin näiden niin sanottujen pehmeiden keinojen
+avulla näiden perinteisten turvallisuusnäkökulmien, kuten poliisin, lisäksi. Kysyisinkin si-
+säministeri Risikolta: Olisiko sisäministeriöllä mahdollisuutta miettiä joitain uusia väyliä
+tai kanavia siihen, miten me voisimme huomioida paremmin sellaiset turvallisuushaasteet,
+jotka eivät ole sitä niin sanottua kovaa turvallisuusuhkaa? Viittasitte itsekin syrjäytymisen
+olevan yksi pahimpia ongelmiamme. Voisiko sisäministeriöllä olla joitain uusia avauksia? 
+
+17.28 Matti Semi vas (vastauspuheenvuoro): Arvoisa puhemies! Ensinnäkin kiitoksia va-
+liokunnan jäsenille, kaikille, hyvästä yhteistyöstä. Tämä oli hyvä puristus meiltä kaikilta.
+
+Kiinnittäisin huomiota myös tähän verotuksen tulopuoleen, kun on paljon tullut viestiä,
+nimenomaan ammattiautoilijoilta, tämmöisestä laittomasta kabotaasiliikenteestä, mikä on
+lisääntymään päin ollut. Verotuloja menetetään, kuskit ajavat jopa 3 euron tuntipalkalla, tai
+heillä on isot polttoainetankit, mistä he myyvät polttoainetta täällä Suomessa ja huolehti-
+vat siitä, että se on heidän palkkansa. Me olemme jonkun verran ottaneet kantaa siihen ras-
+kaan liikenteen valvontaan. Kysynkin ministeriltä: onko tämmöistä suunnitelmaa, millä ta-
+valla tehostetaan tätä suomalaista raskaan liikenteen valvontaa tuolla maanteillä ja näin
+turvattaisiin nimenomaan suomalaisen työn ja suomalaisen liikenteenharjoittajan mahdol-
+lisuudet pärjätä kilpailussa kansainvälisten [Puhemies koputtaa] autojen kanssa?
+
+17.29 Päivi Räsänen kd (vastauspuheenvuoro): Herra puhemies! Tämän selonteon äärel-
+lä ja myös lähestyvän puoliväliriihen edellä joudumme pohtimaan sitä, minkä hintaiseksi
+arvioidaan suomalaisten turvallisuus. Ja huolestuttavaa on se, että tässä aivan viimeisen
+vuodenkin aikana tämä turvallisuudentunne on tutkitusti heikentynyt. Mietinnössä tode-
+taan, että 100 lisäpoliisia maksaisi 6 miljoonaa euroa, 1 000 lisäpoliisia 60 miljoonaa eu-
+roa. Kyse ei siis ole mistään suurista ja mahdottomista summista, että saadaan tämä polii-
+simäärä kohdalleen. Kun äskeisellä kyselytunnilla myönsitte sen, että alkoholilain muutos
+merkitsisi 300 lisäpoliisin palkkaamista, niin kysyn: Eikö tuo laki kannattaisi jättää säätä-
+mättä, jättää ne vahvat oluet ja siiderit sinne Alkon hyllyille? Aiotteko esittää tätä puolivä-
+liriihessä? Samoin kysyn teiltä: mikä on tuo [Puhemies koputtaa] lisäpoliisien määrä, jota
+aiotte esittää?
+
+17.30 Anders Adlercreutz r (vastauspuheenvuoro):  Värderade talman! Haluan osaltani
+myöskin kiittää hyvästä työstä tämän selonteon suhteen ja myöskin mietinnön osalta.
+
+Siinä mietinnössä puhutaan ja myöskin sisäisen turvallisuuden selonteossa puhutaan
+kohtalaisen paljon maahanmuutosta ja keskitytään tähän paperittomien kysymykseen. Tätä
+kysymystähän voi lähestyä monella tavalla, toisaalta pohtia sitä, miten kielteisen päätök-
+sen saaneet saadaan poistettua maasta, tai sitten pohtia sitä, miten yritetään pitää heidät yh-
+teiskunnan sisällä sillä aikaa, kun he maassa ovat. Edellinen hallitushan poisti tämän tila-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+päisen oleskeluluvan, ja siinä yhteydessä nähtiin selvänä riskinä se, että tämä mahdollises-
+ti kasvattaa harmaata taloutta ja ajaa nämä ikään kuin yhteiskunnan ulkopuolelle, ja nyt sel-
+västi on käynyt juuri näin. Oletteko, arvoisa ministeri, pohtinut sitä, tulisiko tätä ongelmaa
+lähestyä toiselta kantilta ja ottaa taas käyttöön tilapäiset oleskeluluvat ja [Puhemies koput-
+taa] sillä tavalla pitää heidät yhteiskunnan sisällä?
+
+17.32 Timo Heinonen kok (vastauspuheenvuoro):  Arvoisa herra puhemies! UTP-selon-
+teko, puolustusselonteko ja tämä sisäisen turvallisuuden selonteko — ehkä niiden yhtäai-
+kaisuutta kannattaa jatkossa miettiä, ne nivoutuvat niin vahvasti toisiinsa.
+
+Kiitosta hallitukselle ja ministerille pitää antaa siitä, että nopeasti muuttuneessa turval-
+lisuustilanteessa tehdään ratkaisujakin nopeasti. Hallitus on nostanut aivan oikein paino-
+pisteekseen turvallisuuden, niin sisäisen kuin ulkoisenkin turvallisuuden. Resurssit ovat
+tässä tärkeät, kun puhutaan poliisista, Rajasta, Puolustusvoimista, pelastuslaitoksesta ku-
+ten myös Tullistakin, mutta myös kannustan toimivaltuuksien ajantasaistamiseen niin tie-
+dustelulainsäädännön kuin päätöksentekoprosessienkin osalta.
+
+Olen tyytyväinen siihen, että ministeri nosti jälleen esille tuon syrjäytymisen ja eriar-
+voistumisen. On erittäin tärkeää, että jokainen suomalainen kokisi tämän maan puolusta-
+misen arvoiseksi mutta myös maaksi, joka pitää meistä jokaisesta huolta.
+
+17.33 Pekka Haavisto vihr (vastauspuheenvuoro):  Arvoisa puhemies! Hyvä, että sisäi-
+sestä turvallisuudesta keskustellaan. Olemme nähneet Euroopassa viime vuosina oikeisto-
+radikalismia, väkivaltaista sellaista, Suomessakin kouluampumisia ja sitten väkivaltaista
+jihadismia, jossa nämä taistelijat ovat sitten iskeneet. On Brysseliä, Pariisia, Nizzaa, Ber-
+liiniä, Lontoota, Tukholmaa, Pietaria — kaikissa iskut ovat suunnilleen kuin Isisin käsikir-
+jasta.
+
+Nyt kysymys on, miten ihmisiä tällaiseen rekrytoidaan, miten näitä vierastaistelijoita ja
+muita rekrytoidaan. Näyttäisi siltä, että tämä tulee kuin pisara kerrallaan. Se voi olla vie-
+raantumista, se voi olla väärää uskonnollista opetusta kellarimoskeijoissa, se voi olla eri-
+laista koulukiusaamista, se voi olla rasismin kokemista, syrjäytymisen kokemista, margi-
+nalisaatiota. Monenlaiset asiat voivat myöskin työntää ihmistä tällaiselle hyvin valitetta-
+valle uralle. Tässä minusta se ainoa vastaus on luottamusyhteiskunta, jossa kaikki otetaan
+mukaan, mutta myöskin sellainen luottamusyhteiskunta, jossa viranomaisten ja kansalais-
+ten keskustelu näistä asioista [Puhemies koputtaa] käy hyvin.
+
+17.34 Veera Ruoho ps (vastauspuheenvuoro): Arvoisa puhemies! Kiitän hallitusta siitä,
+että turvallisuus on nostettu tulevan puoliväliriihen kärkiteemoihin.
+
+Haluan kyllä kommentoida heti tuohon edustaja Adlercreutzin ehdotukseen, että kieltei-
+sen turvapaikkapäätöksen saaneelle annettaisiin tilapäinen oleskelulupa, että näen sen kyl-
+lä täysin vääränä signaalina ja jopa myös, että se romuttaa koko järjestelmää. [Anders Ad-
+lercreutz: Se oli käytäntö ennen!]
+
+Vuodesta toiseen poliisille annetaan alimitoitettu budjetti, jota korjaillaan juuri sen ver-
+ran, että irtisanomisiin ei tarvitsisi mennä. Olisi mielenkiintoista tietää, kuinka paljon mak-
+saa teettää virkamiehillä kaksi kertaa vuodessa viikkokaupalla laskelmia siitä, paljonko sil-
+lä hetkellä tarvitaan rahaa, että selvitään kyseinen toimintavuosi. Meidän poliisin toive on,
+että hallitus [Puhemies koputtaa] kykenisi vahvistamaan poliisille riittävän rahoituksen
+vaikkapa kolmeksi seuraavaksi vuodeksi.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+17.35 Sirpa Paatero sd (vastauspuheenvuoro): Arvoisa puhemies! Kun täällä lukee, että
+"sisäinen turvallisuus on demokratian ja hyvinvointiyhteiskunnan kivijalka", niin minä
+ajattelen tämän toisinpäin. Ajattelen niinpäin, että demokratia ja hyvinvointiyhteiskunta on
+meidän sisäisen turvallisuutemme kivijalka siitä syystä, että kun katsoo esimerkiksi MTS:n
+vuosittaista tutkimusta, jossa kysytään ihmisiltä, mikä heille aiheuttaa turvattomuutta, se
+on eriarvoistuminen ja työttömyys. [Eduskunnasta: Maahanmuutto!] Sen takia tämä kysy-
+mys ministereille: tietenkin sen lisäksi, että puhutaan kovan turvallisuuden resursseista,
+mitkä ovat ne keinot, jotta meidän eriarvoistuminen ei lisäänny ensi viikon kehysneuvot-
+teluissa?
+
+Toinen huoleni on se, että poliisi, Tulli ja Raja elikkä meidän PTR, hyvä, vahva yhteis-
+työ, joka on ollut Suomen maine ja jolla on selvitty monista hankalista tilanteista, kaikkien
+toimijoiden mukaan heikkenee näillä resursseilla. Olemmeko tuhoamassa hyvän mallin
+toimia Suomessa?
+
+17.36 Elsi Katainen kesk (vastauspuheenvuoro): Arvoisa puhemies! On todella arvokas
+asia, että sisäinen turvallisuus on vihdoin nostettu sille kuuluvaan paikkaansa tämän selon-
+teon muodossa, kun vihdoin viimein tämä laajan turvallisuuden käsite on totta ja tunnus-
+tettu myös täällä meillä.
+
+Sipilän hallitushan on antanut tällä vaalikaudella nämä kolme selontekoa turvallisuu-
+teen liittyen, ja nämä kaikki kolme yhdessä varmasti antavat vahvan selkänojan meidän yh-
+dessä tässä muuttuneessa tilanteessa vastata näihin kysymyksiin.
+
+Kuten edustaja Parviainen korosti, on muistettava, että sisäinen turvallisuus ei ole pel-
+kästään operatiivisten viranomaisten toimintaa. Tässä ovat nämä sosiaaliset asiat nousseet,
+syrjäytyminen muun muassa, monella tavalla jo esiin. Ja kysyisinkin ministeriltä: miten
+itse koette, onko yli sektorirajojen käyvä kanssakäynti riittävää, jotta se edistäisi meidän si-
+säistä turvallisuuttamme?
+
+17.37 Sari Essayah kd (vastauspuheenvuoro):  Arvoisa puhemies! Rajavartiolaitos on
+meillä erinomainen viranomaisresurssi siinäkin mielessä, että heillä on myös poliisin ja
+tarvittaessa sotilaan valtuuksia käytössään, ja Rajavartiolaitos hoitaa vuosittain noin 600
+poliisitehtävää, 1 300 etsintä- ja pelastustehtävää ja myöskin 600 ensihoitotehtävää. Elik-
+kä erityisesti, kun maamme on harvaan asuttu ja laaja, Rajavartiolaitoksen merkitys koros-
+tuu. Ja olisinkin kysynyt ministeriltä: Millä tavalla nyt tulevassa kehyksessä otetaan huo-
+mioon, että Rajavartiolaitoksen resurssit säilyvät? Ja kun tiedetään, että esimerkiksi raja-
+valvonnasta on vähennetty noin nelisenkymmentä prosenttia henkilöstöä, miten tässä huo-
+mioidaan tämä, että Rajavartiolaitoksella on myös näitä muita avustavia viranomaistehtä-
+viä ja että he muodostavat tällaisen täydentävän resurssin?
+
+17.38 Antti Häkkänen kok (vastauspuheenvuoro): Arvoisa puhemies! Ensinnäkin kiitos
+kaikille hallintovaliokunnassa edustettuina olleille puolueille. Tämä työ on ollut varmasti
+kansalaistenkin suuntaan luottamusta herättävä, koska turvallisuusasioissa — olkoot ne ul-
+koista, sisäistä tai vaikkapa hybridiä turvallisuutta — pitää antaa kansalaisille kristallinkir-
+kas, selkeä viesti siitä, että näissä asioissa politikointi on vähemmällä ja meillä on yhteinen
+näkemys siitä, miten asiat pitää hoitaa. Ja sen takia on tärkeää, että sisäisessä turvallisuu-
+dessa täällä menetellään samaa hyvää yhteistyöhenkeä noudattaen kuin myös ulko- ja tur-
+vallisuuspolitiikan selonteossa.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Kiitos myös Paula Risikolle, sisäministerille, joka on hallituksen sisällä saanut nostet-
+tua tämän nyt hallituksen yhdeksi kärkihankkeeksi. Haluaisin kysyä: Kuinka kansainvälis-
+tä yhteistyötä voitaisiin vielä vahvistaa, jotta kotimaan puolella sisäinen turvallisuus vah-
+vistuu? Eikö se ole päivä päivältä yhä tärkeämpi asia?
+
+17.39 Eva Biaudet r (vastauspuheenvuoro): Arvoisa puhemies! Kiitos myös ministeri Ri-
+sikolle, että hän otti esille tämän syrjäytymisen ja myöskin sen, miten tärkeätä on, että esi-
+merkiksi poliisiin rekrytoidaan monimuotoisesti eri etnisistä taustoista olevia ihmisiä. Ja
+tähän liittyen haluaisin yhtyä myös poliisiylijohtaja Kolehmaisen huoleen vihapuheen li-
+sääntymisestä. Ajattelen, että meillä olisi nyt tarvetta todellakin löytää tällaisia turvalli-
+suutta lisääviä ja luottamusta lisääviä toimia. Yksi olisi sellainen, että myöskin poliisiin
+voitaisiin rekrytoida enemmän eri etnisistä taustoista. Joskus nämä rekrytoinnin esteet ovat
+hyvinkin yksinkertaisia, mutta niitä pitää selvittää. Esimerkiksi Norjassa huomattiin, että
+useiden maahanmuuttotaustaisten henkilöiden este oli esimerkiksi uimataito, ja kun he
+ryhtyivät opettamaan uimataitoja poliisikoulussa, se avasi hyvin monelle naiselle ja mie-
+helle, joilla oli eri etniset taustat, sitten mahdollisuuden ryhtyä poliisiksi. [Puhemies koput-
+taa] Onko tällaista ajateltu, että selvitetään näitä esteitä rekrytoinnille?
+
+Toinen varapuhemies Arto Satonen: Myönnän vielä vastauspuheenvuorot edustajille
+Laukkanen, Raatikainen ja Tolvanen. Sen jälkeen ministerin vastauspuheenvuoro, ja sen
+jälkeen otamme toisen kierroksen.
+
+17.41 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa herra puhemies! Kun lukee
+tätä selontekoa, niin valiokuntien antamissa lausunnoissa kerta toisensa jälkeen todetaan,
+että tähän resurssivajeeseen, joka tässä tulee esiin, on puututtava. Kun nyt ymmärtää ja nä-
+kee sen, että hallituspuolueiden edustajat johtavat näitä valiokuntiakin, jotka tämän resurs-
+sivajeen toteavat, niin vilpitön kysymys ministeri Risikolle: mistä kenkä puristaa, kun hal-
+litus ei löydä näitä rahoja tähän, jota kansakunta kuitenkin pitää yhtenä tärkeimmistä ra-
+hoituksen kohteista?
+
+17.42 Mika Raatikainen ps (vastauspuheenvuoro):  Arvoisa herra puhemies! Kiitokset
+ministeri Risikolle, kun hän mainitsi, että poliisin rekrytoinnissa tullaan pitämään nämä
+vaatimukset samalla korkealla tasolla, missä ne ovat olleetkin. Toivottavasti myös kielitai-
+tovaatimukset tullaan pitämään sillä tasolla, missä ne ovat tällä hetkellä. [Eva Biaudet:
+Myös ruotsin kieli!] — Ilman muuta, också svenska. [Eva Biaudet: Ja, bra!]
+
+Yksi asia, mikä minua on ihmetyttänyt: Minä olen nyt yli 30 vuotta ollut poliisina mutta
+kolme vuotta ollut eduskunnassa, ja täällä nyt kolme vuotta on huudettu, että poliisille pi-
+tää antaa rahaa, pitää antaa lisää voimavaroja ja resursseja — aivan sama, onko kommu-
+nisti, oikeistolainen, vaalea, tumma, lyhyt vai pitkä. Ihmettelen vähän, mikä tämä eduskun-
+nan tehtävä on: jos täällä päätetään, että annetaan, täällä allokoidaan rahat ja varat, ja mi-
+tään ei tapahdu, niin missä ne oikeasti päätetään? Tämä on tämä kysymys. — Kiitoksia.
+[Eva Biaudet: Te olette hallituksessa!]
+
+17.42 Kari Tolvanen kok (vastauspuheenvuoro):  Arvoisa herra puhemies! Aluksi ha-
+luan kiittää hallintovaliokuntaa hyvästä mietinnöstä. Jaan täysin ne huolet, joita siinä on re-
+sursseista, ja poliisihan tarvitsisi esimerkiksi 50 miljoonaa heti hätäapua. Sitten haluan kiit-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+tää ministeriä hyvästä toiminnasta, kun hän nosti kärkihankkeeksi tämän sisäisen turvalli-
+suuden tai turvallisuusasiat yleensä.
+
+En kuitenkaan ihan halua moittia tätä selontekoa, koska se on kuitenkin aika historialli-
+nen. Se on puolustusselonteon kanssa yhdessä tehty, niissä on paljon yhtymäkohtia. Se on
+ihan perusteltu. Tehdään strategiaa ja toimeenpanosuunnitelmia, ja näin pitää olla. Me pää-
+semme tässä hyvin eteenpäin.
+
+Mutta tämähän juontaa juurensa jo viime kaudelle. Olin puheenjohtajana parlamentaa-
+risessa työryhmässä, jossa edustaja Kari oli varapuheenjohtajana. Me halusimme tämmöi-
+sen selonteon panna alulle, mutta halusimme myös, että rahoitus olisi pitkäjänteisempää
+kuin yhden vaalikauden, ja se ei nyt vielä toteudu. Haluaisin kysyä ministeriltä, kun tiedän,
+että te teette jopa ihmeitä: millä ihmeellä te saisitte nyt tehtyä niin, että tämä rahoitus olisi
+pidempi kuin kaksi vuotta, eli se jatkuisi seuraavalle vaalikaudelle ja kädestä suuhun elä-
+minen loppuisi?
+
+Toinen varapuhemies Arto Satonen:  Sitten ministeri Risikko, 5 minuuttia.
+
+17.44 Sisäministeri Paula Risikko: Arvoisa puhemies! Menen vähän suurin piirtein sii-
+nä järjestyksessä kuin näitä kysymyksiä tuli. Kiitoksia ensiksikin erinomaisen hyvistä ky-
+symyksistä. Ne olivat napakoita ja selkeitä, ja kyllä meillä yhteinen tahto näyttää olevan, ja
+minä olen sen kyllä jo aikaisemminkin vaistonnut, mutta minusta tuntuu, että täällä on tur-
+vallisuuspuolue nyt koolla. Ei ole mitään oppositio—hallitus-vastakkainasettelua, vaan
+yhdessä me teemme turvallista Suomea. Pitkäjänteisyys on yksi sellainen todella tärkeä
+asia, jota pitäisi saada eteenpäin. Olen samaa mieltä teidän kanssanne, että siihen meidän
+pitää satsata, että tämä tällainen saattaen vaihto seuraavalle hallitukselle on varmistettu.
+Sen eteen tehdään työtä. 
+
+Kokonaisturvallisuus-käsite nousi teillä monessakin yhteydessä, ja se on hyvä asia. Sa-
+noitte, että siinä on kuitenkin hybridin mentävä aukko. Se on totta. Viime aikoina on näistä
+hybridiuhkista alettu puhua, ja se on eräällä lailla tiedostettu, tunnustettu ja tunnistettu. Sen
+eteen ollaan tekemässä työtä. Esimerkiksi Rajavartiolaitos on tekemässä lainsäädäntöä ni-
+menomaan näitä hybridiuhkia varten. Me olemme saaneet myöskin monien eri maiden yh-
+teishankintana tällaisen hybridiosaamiskeskuksen, joka on perustettu Suomeen. Hieno
+asia. Siinä meillä on paljon osaamista. Olen samaa mieltä kanssanne, että poliisin, Rajan,
+Puolustusvoimien ja Tullin pitää yhdessä tehdä meidän kokonaisturvallisuuttamme ja ni-
+menomaan yhteen hiileen puhaltaen ja paljon paljon enemmänkin vielä voitaisiin sitä yh-
+teistyötä tehdä. Tulli nostettiin täällä yhdeksi turvallisuusviranomaiseksi, ja sitähän se to-
+den totta on. Olen kanssanne samaa mieltä siitä, että sen paikka mielestäni olisi sisäminis-
+teriön alaisena, mutta ymmärrän oikein hyvin sitten niitäkin näkökulmia, jotka ovat toista
+mieltä tästä asiasta, ja se keskustelu varmasti jatkunee, siitähän on selvityskin tehty. 
+
+No sitten täällä peräänkuulutettiin näihin turvallisuushaasteisiin hieman joitain uusiakin
+avauksia. Kyllähän meillä koko ajan tulee tällaisia uusia uhkia, ja niistä pitää sitten ottaa
+koppia ja ennakoida. Otetaan nyt esimerkiksi nämä hybridiuhat, eihän niistä puhunut vielä
+oikeastaan viisi vuotta tai kaksi vuotta sitten kukaan. Nythän vasta on alettu ymmärtää,
+mitä tämä tällainen monitahovaikuttaminen oikein onkaan, ja on herätty siihen. Se on sitä
+uutta, samoin kyberuhkat ja tällaisen väärän tiedon levittäminen. Ne ovat aivan jotain sel-
+laista merkillistä, johonka me olemme nyt törmänneet. 
+12
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Mutta sitten meillä on näitä tällaisia jo niin sanottuja vanhoja uhkia elikkä syrjäytymi-
+nen, joka teidänkin puheissanne oli hyvin pitkälle. Mitä syrjäytymiseen liittyviä uusia
+avauksia voisi tehdä, niin kyllä minä peräänkuuluttaisin tätä monisektoraalista yhteistyötä
+ja esimerkiksi sitä, että tieto välittyisi. Meillähän on jonkin verran tietosuojaongelmia sii-
+nä, että tieto ei välity riittävästi viranomaiselta toiselle. Ymmärrän senkin, miksi se ei vä-
+lity, koska on kysymys henkilökohtaisista tiedoista, mutta me emme välttämättä tiedä jos-
+tain henkilöstä, joka apua tarvitsisi. Erityisesti nuorten kohdalla meillä on se ongelma. Me
+olemme kehittäneet tätä Ankkuri-mallia sisäministeriössä, eli poliisi, nuorisotyöntekijä,
+psykiatrinen sairaanhoitaja ja sosiaalityöntekijä yhdessä ottavat nuorisorikollisia, jotka tar-
+vitsevat apua, lähtevät miettimään tällaista monisektoraalista auttamista. Siitä on hyviä ha-
+vaintoja, ja hyvästi sitä on nyt levitettykin eri puolille Suomea. Minä sanoisin, että uusien
+avauksien pitää liittyä nyt erityisesti syrjäytymiseen, koska meillä on sitä niin paljon, ja
+kun täällä puhuttiin vierastaistelijoista ja niitten rekrytoinneista, monta kertaa kyllä syrjäy-
+tyminen saattaa todella olla ensiaskel tähän vierastaistelutoimintaan. 
+
+Turvallisuuden tunnehan meillä todella on hyvä. Luottamus viranomaisiin on hyvä. Po-
+liisi on saanut 96 prosentilta kansalaisista tunnustusta, pelastuspuoli 98 prosentilta, niin
+että kyllä meillä viranomaisiin luotetaan. Mutta sitä työtä pitää koko ajan tehdä, jotta se
+saadaan pysymään, ja sitä kautta se turvallisuuden tunne tulee. Mutta kaikki tällaiset tapah-
+tumat, mitä meidän ympärillämmekin on tapahtunut, ovat vieneet turvallisuuden tunnetta. 
+
+Laittomasti maassa olevista totesitte tämän, että tilapäinen oleskelulupa on poistettu.
+Olen kyllä sitä mieltä, että kun se aikoinansa poistettiin, niin sille oli kyllä hyvä perustelu.
+Emme voi lähteä sillä tavalla, jos joku ei suostu lähtemään — jos on lainvoimainen päätös
+ja hän ei suostu lähtemään — että me hänelle antaisimme tällaisen tilapäisen oleskelulu-
+van. [Eva Biaudet: Ei aina ole kysymys siitä, että hän ei halua!] Ensiksikin se olisi tilanne,
+jollaista muissa maissa ei ole. Miksi Suomi pitäisi tällaista lupaa, koska jos meillä kuiten-
+kin terveydellisistä syistä tai muuten on joku kriittinen tilanne, ettei voi ihminen matkus-
+taa, niin silloinhan järjestetään niin, ettei hänen tarvitse lähteä sillä hetkellä juuri. Mutta ti-
+lapäinen oleskelulupa on poistettu, enkä kannata sen palauttamista. Suomi olisi ainoita
+maita, jossa tällainen olisi. [Eduskunnasta: Hyvä! — Puhemies koputtaa] 
+
+Sitten ihan lyhyesti vielä sanon Rajavartiolaitoksesta: Painopiste itärajaan. EU-velvoit-
+teet on pakko hoitaa. Resurssivaje on kova, ja yksin rahalla ei selvitä, pitää myöskin prio-
+risoida ja tehdä työnjakoa. Sitten kv-yhteistyö on erittäin tärkeä, hybridikeskuksessa sitä jo
+tehdään, EU-areenoilla tehdään. Siviilikriisinhallinnassa meillä olisi paljon annettavaa
+muille maille. — Kiitos.
+
+Toinen varapuhemies Arto Satonen: Sitten on mahdollisuus pyytää jälleen vastauspu-
+heenvuoroja, ja vastauspuheenvuorot aloittaa edustaja Zyskowicz. 
+
+17.50 Ben Zyskowicz kok (vastauspuheenvuoro):  Arvoisa herra puhemies! Suomi on
+maailman turvallisin maa, ja meidän pitää yhdessä toimia niin, että se on sitä jatkossakin,
+sillä ulkoisen ja sisäisen turvallisuuden takaaminen kansalaisille on valtiovallan yksi kaik-
+kein keskeisimmistä tehtävistä. On hieno asia, että hallitus on tässä puoliväliriiheen val-
+mistautuessaan ottanut turvallisuuden vahvistamisen yhdeksi kaikkein keskeisimmäksi ta-
+voitteeksi. Kokoomuksen eduskuntaryhmä antaa vahvan tukensa ministeri Risikolle, kun
+hän pyrkii puoliväliriihessä turvaamaan tämän sektorin voimavarat. Toisenlaisissa olosuh-
+teissa tehdyt liian tiukat budjettikehykset lähivuosille eivät saa olla esteenä tarpeellisten
+13
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+lisävoimavarojen päättämiselle. Voimavarojen lisäksi tarvitaan meidän turvallisuusviran-
+omaisillemme kaikki ne valtuudet, joita oikeusvaltioissa [Puhemies koputtaa] voidaan vi-
+ranomaisille antaa. 
+
+17.51 Arja Juvonen ps (vastauspuheenvuoro):  Arvoisa herra puhemies! Kyllä turvalli-
+suus on tärkeä teema, ja on hienoa, että myös arjen turvallisuus nousee täällä keskiöön. So-
+siaali- ja terveysvaliokunta antoi myös lausunnon tästä valtioneuvoston selonteosta, ja to-
+tesimme, että tämä on suppea, mutta näinhän tässä lausumassa esitettiin, että tällainen si-
+säministeriön alainen selvitys tehdään. 
+
+Haluaisin nostaa esille kyber- ja hyperturvallisuusasiat, erityisesti sairaalamaailman,
+joka on erittäin tärkeä asia, kun puhumme turvallisuudesta — että ihmiset voivat saada
+apua ja hoitoa ilman pelottavia uhkakuvia. Ajatelkaapa, millaista olisi, jos sairaalaan iske-
+tään tai sairaalat kaatuvat. 
+
+Haluaisin nostaa esille myös toimenpidealoitteen, jonka tein liittyen ikääntyneiden tur-
+vallisuuden parantamiseen. Nyt kun sisäisen turvallisuuden strategiaa päivitetään, niin mil-
+lä tavalla, hyvä ministeri, huomioitte esimerkiksi nämä juurikin arjen turvallisuuteen, syr-
+jäytymiseen liittyvät teemat, kuten ikääntyneiden ihmisten turvallisuuden parantamisen?
+Laittomasti maassa olevat [Puhemies koputtaa] voivat ruokkia turvattomuutta, ja heidät pi-
+tää palauttaa, poistaa maasta. 
+
+17.52 Mika Kari sd (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä kun on kehut-
+tu tätä selontekoa, niin minä kannustaisin siirtämään pitkät valot päällä katseen ja kehut tä-
+hän mietintöön, koska selonteko on virkamiestyöryhmän tekemä työ. Itse sain olla ulko- ja
+turvallisuuspoliittisen seurantaryhmän jäsen ja myös puolustuspoliittisen selonteon seu-
+rantaryhmän jäsenenä nyt jo kohta kahden vuoden ajan, mutta siinä työssä, jos missä, olisi
+tarvittu myös parlamentaarista näkyä tänne sisäisen turvallisuuden selonteon puolelle. En
+pelkästään toivo vaan oikeastaan suorastaan rohkenen jopa vaatia, että kun tulevaisuudes-
+sa tehdään uusi sisäisen turvallisuuden selonteko, niin tälle työlle perustetaan oma parla-
+mentaarinen seurantaryhmä, niin arvokkaassa asiassa tällä hetkellä olemme kiinni. 
+
+Tiedustelulakityöstä on annettu työryhmän esitys, jossa ehdotetaan tiedusteluvaliokun-
+nan perustamista. Kun mainitsin tämän oman blogini, niin [Puhemies koputtaa] rohkenen
+esittää ministerille toiveen vilkaista esitystäni myös tästä blogin puolelta edelliseen pu-
+heenvuoroon liittyen. 
+
+17.53 Timo V. Korhonen kesk (vastauspuheenvuoro): Arvoisa puhemies! Tartuin minis-
+terin kommenttiin siitä, että luottamus viranomaisiin Suomessa on edelleen hyvä. Tähän
+liittyen: Nämä kielteiset turvapaikkapäätöksethän ovat saaneet muun muassa kirkon liik-
+keelle ja jopa piispat ovat kritisoineet näitä kielteisiä turvapaikkapäätöksiä, on vaadittu vä-
+liaikaista oleskelulupaa ja niin edelleen, ajattelematta lainkaan sitä, että todennäköisesti vi-
+ranomaisilla on ollut erittäin hyvät ja perustellut syyt tehdä kielteinen turvapaikkapäätös.
+Eli kirkko jopa arkkipiispan johdolla on lähtenyt kritisoimaan ja jopa murentamaan luotta-
+musta virkamiesten ja viranomaisten päätöksentekokykyyn. Arvoisa ministeri, mitä mei-
+dän pitäisi tästä ajatella?
+
+17.54 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä ministe-
+rikin otti esiin nämä hybridiuhat, ja muutkin ovat niistä puhuneet, ja tuli mieleen, että kun
+14
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+hybridiuhan luonnehan on sellainen, että se on jotain uutta, sellaista, jota ei vielä välttämät-
+tä olla ennen koettu ja johon ei välttämättä olla osattu valmistautua, niin mahdollinen pa-
+hantahtoinen toimija varmasti osaa myöskin tutkia Suomen lainsäädäntöä ja selvittää, onko
+siellä esimerkiksi aukkoja viranomaisten välillä, siten että toimivaltuudet esimerkiksi ei-
+vät ole sellaisia, että ne siirtyvät saumattomasti viranomaiselta toiselle. Kysyisinkin: ote-
+taanhan tämä asia huomioon, kun lainsäädäntöä kehitetään, siis se, että esimerkiksi tehtä-
+vien siirto poliisilta Puolustusvoimille on jouhevaa, molempiin suuntiin? Myös Rajavar-
+tiosto tulee huomioida ja myös Tulli. Kuten on puhuttu täällä, että Tullin olisi syytä olla
+SM:n alaisuudessa, niin se olisi erittäin kannatettavaa tässä suhteessa, sillä mahdollisessa
+kriisitilanteessa olisi [Puhemies koputtaa] erittäin kiusallista, että ei tiedetä välttämättä, ke-
+nelle jonkin tehtävän ratkaisu kuuluu ja kuka niitä voimakeinoja käyttää.
+
+17.55 Päivi Räsänen kd (vastauspuheenvuoro):  Arvoisa herra puhemies! Haluan antaa
+ministerille ja hallitukselle tunnustuksen siitä tiedustelulainsäädäntöön liittyvästä paketis-
+ta, joka nyt lähetettiin lausuntokierrokselle. Toivon, että sitten aikanaan myös eduskunnas-
+sa tähän suhtauduttaisiin myönteisesti ja mielellään saataisiin ihan tällä vaalikaudella nämä
+lainsäädännöt hyväksyttyä.
+
+Rajat ylittävää tietoliikennetiedustelua tapahtuu maamme rajojen yli muiden maiden,
+kaikkien naapurimaittemme, viranomaisten toimesta. Sen vuoksi ajattelen, että miksi
+emme luottaisi oman maamme viranomaisiin: rajatusti ja harkitusti voisi suorittaa tiedus-
+telua silloin, kun kansallinen turvallisuus on uhattuna.
+
+Sen lisäksi, että viranomaiset tarvitsevat riittävät resurssit ja toimivaltuudet, tarvitaan
+myös sitä viranomaisten yhteistyötä, [Puhemies koputtaa] ja kannustan siirtämään Tullin
+sisäministeriön alaisuuteen.
+
+17.57 Juho Eerola ps (vastauspuheenvuoro): Arvoisa puhemies! Haluan omalta osaltani
+myöskin yhtyä niihin kiitoksiin, jotka koskettivat tätä valiokunnan hyvää henkeä. Yli op-
+positio- ja hallitusrajojen ollaan hyvässä yhteistyössä tehty tätä mietintöä. Kiitokset myös-
+kin ministerin suuntaan.
+
+Täällä RKP kahden edustajan voimin esittää, että poliisiksi tarvittaisiin eri etnisistä ryh-
+mistä olevia henkilöitä. Ihan varmasti näin on. Mutta tässä nimenomaan pitää huolehtia sii-
+tä, että tämä vaatimustaso ei saa olla yhtään helpompi sillä perusteella, että on naama eri-
+värinen tai jotain muuta, tulee eri kulttuurista. [Eva Biaudet: Syrjintä pitää poistaa!] Ei saa
+missään tapauksessa luistaa tai luoda minkäännäköisiä kiintiöitä. On totta, että maahan-
+muuttajataustaisilla henkilöillä on ongelmia poliisiammattiin rekrytoitaessa. Norjassa, ku-
+ten kuultiin, ongelma oli ollut uimataito. Suomessa se on monasti kielitaito. Kun vaaditaan
+kaksi kummallista kieltä, on suomen kieli ja ruotsin kieli, niin nämä tekevät jo tiukkaa ihan
+[Puhemies koputtaa] etnisesti suomalaisillakin päästä poliisiksi. Toivotaan, että tässä tulisi
+vähän helpotuksia. [Eva Biaudet: Ruotsinkieliset osaavat molempia!]
+
+17.58 Eva Biaudet r (vastauspuheenvuoro):  Arvoisa puhemies! Yritän olla provosoitu-
+matta, mutta kun puhutaan näistä paperittomista ihmisistä, niin toisin kuin täällä luullaan,
+itse asiassa se suurin turvallisuusuhkahan liittyy siihen rikollisuuteen, joka heihin kohdis-
+tuu. Me nytkin olemme saaneet raportteja, ihan samalla tavoin kuin kaikkialla muualla
+maailmassa jo tiedetään, että jos ihminen on tällaisessa toivottomassa tilanteessa, että hän
+ei voi saada apua viranomaisilta, niin rikolliset käyttävät häntä hyväksi työelämässä mutta
+15
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+myöskin prostituutiossa, seksiteollisuudessa. Kysyisin, koska monet heistä esimerkiksi
+voivat joutua ihmiskaupan uhriksi ja koko tämä naisiin kohdistuvan väkivallan kysymys ei
+ole tässä sisäisen turvallisuuden selvityksessä ollut esillä: onko se tässä tulossa? Siinä ni-
+menomaan olisi paljon tarvetta juuri ministeriöt ylittävään yhteistyöhön. Poliisi on aloitta-
+nut hyvin, mutta ehkä myöskin sinne sosiaali- ja terveysministeriöön päin olisi tärkeä saa-
+da aikaiseksi uutta vauhtia.
+
+17.59 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa puhemies! Sisäisen turvalli-
+suuden nykytila ja taloudelliset resurssit eivät ole lähimainkaan tasapainossa. Se on var-
+maan tämän keskustelun yhteinen loppupäätelmä. 
+
+Haluaisin kiinnittää yhteen yksityiskohtaan huomiota, ja tämä perustuu poliisien kanssa
+käytyyn keskusteluun. Poliisi on hyvin huolissaan, että raha ei riitä huumeiden vastaiseen
+työhön nimenomaan nuorison parissa, ja selvästikään raha ei riitä, että saataisiin näitä
+koukkuun joutuneita nuoria heti ohjattua hoitoon, eli ei ole hoitopaikkoja. Kun tänä päivä-
+nä pystytään aika tarkasti arvioimaan huumeidenkäyttöä jätevesistä tehtävistä analyyseis-
+ta, niin ihmettelin, voiko pitää paikkansa, että eräissä suurissa kaupungeissa vuoden aika-
+na metamfetamiinin käyttö on noussut 15—20-kertaiseksi. Se kertoo aika pitkälle, missä
+mennään ja mikä on ongelma, ja kun tiedetään syrjäytyminen ja polarisaatio, niin minun
+mielestäni tämä on oikeasti semmoinen kohde, johon pitää harkita poliisin sisällä — Tulli,
+Puolustusvoimat, kuka tahansa ja mikä viranomainen tahansa — [Puhemies koputtaa] että
+sinne kohdennetaan resursseja.
+
+18.00 Sirpa Paatero sd (vastauspuheenvuoro): Arvoisa puhemies! Tästä selonteosta vie-
+lä, että täällä lukee meidän yhteisesti kirjoittamana, että "selonteko ei vastaa eduskunnan
+toimeksiantoa sisäisen turvallisuuden selonteon laatimiseksi", siis sitä, mitä edellisen
+eduskunnan hallintovaliokunta on edellyttänyt. Toisena lukee: "Selonteko on sopeuttamis-
+suunnitelma, joka johtaa sisäisen turvallisuuden heikkenemiseen." Tämäkin on hallintova-
+liokunnan yhteinen lausunto. Nyt kysymys: kun tiedetään tämä valmistelu, joka on ollut
+siis vain sisäministeriön alaisten virkamiesten tekemä, niin nyt kun on tekeillä strategia si-
+säiseen turvallisuuteen, niin ministereiltä haluaisin vahvistuksen, että kai siihen työhön sit-
+ten otetaan huomattavasti laajemmin edes näitä muita viranomaisia? Ja sitten seuraavalla
+kerralla kun päästään tekemään sisäisen turvallisuuden selontekoa, siihen olisi otettava
+myöskin kansalaisyhteiskuntaa, järjestöjä ja jopa kansanedustajia, niin kuin muidenkin se-
+lontekojen valmisteluun, että saataisiin parlamentaarinen kate etukäteen eikä vasta jälkikä-
+teen.
+
+18.01 Teuvo Hakkarainen ps (vastauspuheenvuoro):  Arvoisa puhemies! Ministeri pu-
+hui syrjäytymisestä juuri äsken, ja kysyisinkin tämmöisestä tilanteesta: Suomessa oli vuon-
+na 2014 Tilastokeskuksen mukaan 155 kuntaa, joissa nuorten aikuisten sukupuolijakautu-
+ma oli vähintään yhtä epätasapainossa kuin Kiinassa — siellä muuten on ruvettu toimi-
+maan asian suhteen. Nyt kun vastakkainasettelua varmasti tulee, kun maahanmuuttajia tu-
+lee paljon ja suuri osa on miehiä, koska pakolaiset yleensä näissä maissa ovat miehiä, mi-
+tenkä ministeri taikka hallitus on tähän tilanteeseen reagoinut? Heitetäänkö sinne esimer-
+kiksi pumpattavia barbaroita niille, että ne miehet saavat ottaa, tai jotain muuta, ettei tule
+raiskauksia ja tämmöisiä? [Eva Biaudet: Joku raja!]
+16
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+18.02 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tullin ja esimer-
+kiksi Eviran toimintakyvyn säilyttäminen on tärkeätä. Lääkeväärennökset, ruokaväären-
+nökset, varaosaväärennökset ovat kansainvälistä rikollisuutta, ja Suomi ei ole niiltä turvas-
+sa. Näihin näkökulmiin tulee kiinnittää huomiota.
+
+Toinen asia, mihin haluan ottaa kantaa, on hieman tällainen hypetys, joka liittyy esinei-
+den internetiin ja kaikkien mahdollisten laitteiden viemiseen verkkoon. Toivon, että hybri-
+dikeskusta perustettaessa kiinnittäisimme tähän huomiota. Juuri Talouselämän sivuilta
+luin, että premium-luokan kuulokkeiden valmistajaa syytetään vakoilusta. Siis lähestul-
+koon laitteella kuin laitteella, joka on yhteydessä verkkoon, voidaan vakoilla ihmisiä ja
+mennä hyvinkin syvälle yksityisyyteen [Puhemies koputtaa] ja myös salaisiin tietoihin.
+
+18.03 Sari Essayah kd (vastauspuheenvuoro): Arvoisa puhemies! Nostaisin vielä esille
+alkoholipolitiikan, yhteiskunta ja ihmiselämä kun eivät mene ihan ministerisalkkujen ja
+hallinnonalojen karsinoitten mukaan. Vaikka ministeri tuossa totesi, että lausuntokierrok-
+sella olevan alkoholilain selvityksessä on todettu, että tullaan tarvitsemaan 300 poliisia li-
+sää, niin kuitenkin täytyy huomioida, että tätä työmäärää voitaisiin käyttää varmasti paljon
+viisaammin kuin lisääntyneitten alkoholihaittojen selvittämiseen, kun otetaan tämä koko-
+naisturvallisuuden kokonaisuus huomioon. Siinä mielessä toivoisin, että sisäisessä turval-
+lisuudessa myöskin ennalta ehkäistäisiin näitten muitten lainsäädäntöjen tuomat paineet si-
+säisen turvallisuuden resursseille. Toivonkin, että tässä hallitus nyt ymmärtäisi, miten va-
+kavaan resurssipulaan ja resurssitilanteeseen Suomen sisäinen turvallisuus ollaan viemäs-
+sä tällä alkoholilain uudistuksella. Pystyisikö ministeri vaikuttamaan hallituksen sisällä
+vielä tähän asiaan?
+
+18.05 Anders Adlercreutz r (vastauspuheenvuoro): Värderade talman! Tähän aikaisem-
+paan kysymykseeni tilapäisistä oleskeluluvista liittyen: Se lausuma, joka hyväksyttiin vii-
+me kaudella, oli tällainen: "Kiinnitetään erityistä huomiota siihen, millaisia vaikutuksia
+esityksellä on laittomasti maassa oleskelevien riskiin tulla hyväksikäytetyiksi esimerkiksi
+ihmiskaupassa tai harmaassa taloudessa taikka joutua elättämään itsensä kerjäämällä tai ri-
+kollisuudella." Tähän kysymykseenhän me tiedämme vastauksen tällä hetkellä, ja siksi oli-
+si ehkä hyvä reagoida siihen.
+
+Edustaja Korhonen puhui luottamuksesta. Sitä voi murentaa monella tavoin. Perussuo-
+malaisten ryhmäpuheenjohtaja Terho kirjoitti hiljattain, että perussuomalaisten vaatimuk-
+sesta kielteisten turvapaikkapäätösten määrä on lisääntynyt. Se viittaa suoraan poliittiseen
+vaikuttamiseen, ja tällä nimenomaan luottamusta viranomaisiin murennetaan. Miten te
+näette tämän asian, arvoisa ministeri? Miten näette poliitikkojen vastuun tässä asiassa?
+
+18.06 Arja Juvonen ps (vastauspuheenvuoro):  Arvoisa herra puhemies! Te, edustaja,
+nostitte ihan hyvän teeman esille: millä tavalla me voimme estää ihmiskauppaa, uhriksi
+joutumista, harmaata työllistymistä, harmaata taloutta ja sitä, että luvattomasti maassa ole-
+vat joutuvat vaikkapa juurikin sen ihmiskaupan uhriksi? Me voimme nähdä tämän huma-
+nitäärisen puolen tässä, ja juurikin sen takia laittomasti maassa oleville itselleenkin on pa-
+rempi, että heidät palautetaan mahdollisimman pian sinne lähtömaahan eikä anneta mah-
+dollisuutta jäädä tänne Suomeen. Kyllä se on myös niin, että heidän tilannettaan pitää aja-
+tella. On myös pieniä lapsia, emmekä tiedä ihmiskaupasta, kuinka paljon Suomeen tulleis-
+ta lapsista esimerkiksi on kadonnut. Tämä on myös tärkeä asia.
+17
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Edustaja Biaudet, nostitte esiin naisten kohtaaman väkivallan, ja sekin liittyy kyllä tä-
+hän. Poissa silmistä, poissa mielestä. Jos sinne kadulle jää laittomasti, niin emmehän me
+tiedä, mitä heille tapahtuu. Mahdollisimman pian palautus.
+
+Ja pisteitä Kuopion poliisille: onnistuitte estämään turvapaikanhakijoiden aikomat ri-
+kokset, meinasivat raiskata naisia.
+
+18.07 Kari Tolvanen kok (vastauspuheenvuoro):  Arvoisa herra puhemies! Minusta on
+kyllä perusteltua, että tämä selonteko keskittyy sisäministeriön toimialaan, koska jos tätä
+olisi laajennettu, sitä tehtäisiin vieläkin. Tosiasia on kuitenkin se, että maailma muuttuu
+paljon nopeammin kuin nämä selonteot valmistuvat. Vaikka teemme täällä mitä muistioi-
+ta, selontekoja, niin maailma muuttuu. Ja nythän tässä strategiassa ja toimeenpanossa laa-
+jennetaan tätä näkökulmaa hyvin paljon. Tässähän hallitus ja sisäministeri Risikko eivät
+ole jääneet tumput suorina odottamaan mitään selontekoja ja strategioita, vaan ministeri on
+pyrkinyt koko ajan menestyksellä sisäiseen turvallisuuteen lisäämään rahoja, tai perumaan
+leikkauksia, miten päin vain ajatellaan, mutta kuitenkin: Koulutukseen lisätään, vähintään
+400 poliisia vuodessa aloittaa koulutuksen, työttömiä poliiseja on nyt käytännössä noin 20.
+Määräaikaisia poliisinvirkoja on jatkettu ja analyysitoimintaan, supoon, annettu lisää re-
+sursseja. Tämä jatkuu tuolla riihessä.
+
+Mutta heitän tässä ajatuksen ilmaan: kun tulee tämmöinen tiedusteluvaliokunta tänne
+ehkä, niin pitäisikö meidän eduskunnassakin muuttaa työtapoja, [Puhemies koputtaa] pe-
+rustaa turvallisuusvaliokunta, joka voisi kokonaisvaltaisesti käsitellä turvallisuusasioita?
+
+18.08 Elsi Katainen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Hyvä sisäinen tur-
+vallisuus edellyttää ihan ilman muuta viranomaisten saumatonta, jatkuvaa yhteistyötä ja
+myöskin järjestöjen ja ihan kansalaisten mukaan ottamista tuohon työhön. Turvallisuutta ei
+missään nimessä voi ulkoistaa. Se on seurausta siitä, miten joka päivä eri tahot toimivat.
+
+Olisiko kuitenkin kehitettävää viranomaistoiminnassa, niitten rakenteissa, niin että esi-
+merkiksi PTR-yhteistyö olisi toisaalta saumatonta ja toisaalta päällekkäiset toiminnot voi-
+taisiin varmasti karsia, niin että nämä liian alhaiset henkilöresurssit eivät olisi niin vakava
+uhka meidän turvallisuudellemme? Elikkä miten muuten kuin henkilöresursseja lisäämäl-
+lä voisimme parantaa meidän turvallisuuttamme, arvoisa ministeri?
+
+18.09 Kari Kulmala ps (vastauspuheenvuoro): Arvoisa puhemies! Poliisin, Tullin ja Ra-
+javartioston yhteistoiminta, niin sanottu PTR-toiminta, on toiminut hyvin. Viranomaisten
+yhteistoimintaa on tehtävistä riippuen kyetty hyödyntämään erityisesti harvaan asutuilla
+alueilla, valtakunnan rajan pinnassa, lähimmän partion periaatteella. Vuosia jatkunut vi-
+ranomaisten voimavarojen leikkaaminen on johtamassa siihen, että kukin PTR-viranomai-
+nen joutuu keskittymään omiin ydintehtäviinsä. Pidän tätä suuntausta erittäin valitettava-
+na, sitä työtä itse tehneenä. Tulli on suorittanut valvonnassaan raskaan liikenteen kuljetta-
+jille myös Rajavartiolaitoksen vastuulle kuuluvan rajatarkastuksen, ja vastaavasti Rajavar-
+tiolaitos on suorittanut rajatarkastuksen yhteydessä Tullin vastuulle kuuluvia tehtäviä.
+Mielestäni tällainen toiminta on erittäin järkevää resurssien yhteiskäyttöä, ja olisi meidän
+kaikkien sekä sisäisen turvallisuuden etu, että tämä toiminta jatkuisi. Arvoisa ministeri,
+onko mitään toivoa siitä, että tähän PTR-toimintaan panostetaan jatkossa enemmän?
+18
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+18.10 Mari-Leena Talvitie kok (vastauspuheenvuoro): Arvoisa puhemies! Vuoden 2015
+tutkimuksen mukaan erityisesti kansainvälinen terrorismi, turvapaikkaa hakevien määrän
+kasvu, kehitys Venäjällä ja kyberuhkat aiheuttivat huolta sisäisen turvallisuuden alalla, sa-
+maten kuin myös luottamus viranomaisten kykyyn vastata näihin ongelmiin. Hallintova-
+liokunta nosti tässä mietinnössä esiin sen, että viranomaisten resurssit ovat sidottuja, ja
+vaikka perustehtävien huolehtimiseen pystytään, niin silti vasteajat ovat pidentyneet ja ri-
+kostenselvitysasteet laskevat ja ennaltaehkäisevä toiminta sekä varautuminen ovat kärsi-
+neet. Sisäministeri Risikko on ansiokkaasti nostanut tässäkin salissa aikaisemmin esiin si-
+tä, olisiko aika ja tarve esimerkiksi tämmöiselle poliisin palveluille asetettavalle palvelu-
+lupaukselle: minkä verran menee resursseja ja aikaa tiettyjen rikosten selvittämiseen ja tut-
+kintaan. Kysyisinkin ministeriltä: onko tämä asia etenemässä? Tästä yhtenä esimerkkinä
+voisivat olla [Puhemies koputtaa] epäilyt lapsiin kohdistuvista seksuaalirikoksista. On ym-
+märrettävää, ettei ole kenenkään etu, jos senkaltaiset prosessit pitkittyvät.
+
+18.12 Matti Semi vas (vastauspuheenvuoro): Arvoisa puhemies! Sisäisen turvallisuuden
+osalta ministeri otti hyvin kantaa siihen, kuinka tärkeätä syrjäytymisen estäminen on. Se on
+paras mahdollinen turvallisuuden tae, kun kasvatetaan ihmiset suvaitsemaan toisiaan. Mut-
+ta syrjäytymisen syyt ovat moninaiset, ja niihin vastaaminen vaatii monipuolista, moni-
+naista työntekoa ja yhteistyötä. 
+
+Palaan nyt ajatuksissa 50 vuotta taaksepäin. Kun itse kävin koulua, niin poliisi kävi vuo-
+sittain kertomassa oppilaitoksella, mikä on reilun pelin henki, miten pitää käyttäytyä, mi-
+ten vaarallisia huumeet ovat, mikä on hyvä tapa auttaa kaveria. Tämmöinen koulun ja po-
+liisin välinen yhteistyö minusta oli hyvä, kasvattava periaate. Kysynkin: onko mahdolli-
+suuksia näitä resursseja vielä lisätä sinne puolelle, että päästään ihan alusta lähtien vaikut-
+tamaan, että ihmiset eivät syrjäydy [Puhemies koputtaa] ja ovat yhteistyössä hyvin toisten-
+sa kanssa?
+
+18.13 Veera Ruoho ps (vastauspuheenvuoro): Arvoisa puhemies! Poliisia pidetään tiukil-
+la taloudellisesti. Senaatti, joka tulouttaa rahat VM:lle, nostaa poliisin vuokria siten, että
+2018 poliisin vuokrakustannukset nousevat 2,5 miljoonaa ja kehyskauden loppuun men-
+nessä 10 miljoonaa. Poliisin palveluverkkoon ei voi koskea, jotta saisi vuokria alennettua.
+Toivon, että hallitus pohtii tähän kehityskulkuun ratkaisuja, jotka eivät rasita poliisin bud-
+jettia.
+
+18.13 Antti Häkkänen kok (vastauspuheenvuoro): Arvoisa puhemies! Kiitän sisäminis-
+teriä erittäin jämäkistä ja kansalaisten suuntaan luottamusta herättävistä lausunnoista jul-
+kisuudessa. On tärkeää, että tällaisessa tilanteessa osoitetaan valtiojohdon suunnalta luot-
+tamusta herättävää ja selkeää viestintää.
+
+Turvallisuus- ja taloustilanne on mikä on. Me tiedämme ihan tarkkaan, että jokainen
+puolue on ollut valitettavasti välillä turvallisuusviranomaisten resursseja vähän säästämäs-
+säkin. Nyt meillä tuntuu olevan yhteinen tahtotila tässä salissa siihen, että määrärahoja täy-
+tyy lisätä. Nyt jo kiitos Paula Risikolle niistä pienistä määrärahoista, viime syksynä vähän
+isommistakin määrärahoista, joita on saatu lisää, mutta nyt kehysriihessä tarvitaan lisää.
+
+Yhden asian nostan vielä esiin tästä oikeusvaltion perusperiaatteesta. Olen kuullut vii-
+me viikkoina tiettyjen kansanedustajienkin puhuvan, että muun muassa maahanmuuttoon
+liittyvää lainsäädäntöä ei tarvitsisi noudattaa, jos se on moraalisesti heidän mielestään vää-
+19
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+rin, ja tämä on iso kysymys. Jos kansanedustaja, joka on ollut säätämässä lakia, [Puhemies
+koputtaa] vaikka olisi vastustanut sitä, kehottaa kansalaistottelemattomuuteen, tämä on
+valtavan vakava kysymys.
+
+Toinen varapuhemies Arto Satonen: Nyt on debattia pidetty jo varsin pitkään. Annan
+vielä debattipuheenvuorot edustajille Laukkanen, Kopra ja Biaudet. Sen jälkeen ministe-
+rin vastauspuheenvuoro, ja sen jälkeen sitten puhujalistaan.
+
+18.15 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa herra puhemies! Nostaisin
+vielä lakivaliokunnan lausunnosta erittäin merkittävän huomion: "lakivaliokunta kiinnit-
+tää huomiota selonteon ristiriitaisuuteen tavoitteiden ja todellisuuden välillä". Ja tässä pu-
+hutaan tästä koko toimintaketjusta, johon liittyy poliisi, syyttäjä, tuomioistuin ja vankein-
+hoito. Jos täällä yhdestäkin palikasta eli tässä kohtaa poliisin resursseista leikataan, niin ei
+synny sitä tilannetta, jossa poliisi tutkii, ja silloin tulee merkittävä aukko oikeusturvaan. Ei
+synny syytettävää, ei synny tuomittavaa, ja niin edelleen. Arvostan ministeri Risikon jä-
+mäkkiä puheenvuoroja, mutta yhtään euroja niillä ei ole vielä luvattu tänä iltana, joten jos
+pientä sellaista ojennusta nyt tässä illan aikana saisi, niin voisi sitten yönsä nukkua vähän
+turvallisemmin. 
+
+18.16 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tästä on kyllä
+hyvä jatkaa, ja kun olen keskustellut poliisien kanssa eri puolella Suomea, siis heidän kans-
+saan, jotka tekevät sitä rankkaa ja raakaa työtä siellä kentällä, vesisateessa, tuulessa ja tuis-
+kussa, niin sieltäkin se viesti kuuluu, että resurssit on kiristetty äärimmilleen eikä yhtään
+voi enää ottaa pois. Apua tarvitaan kentällä, lisää poliiseja töihin. Kun lukee mietintöä ja
+seuraa keskustelua täällä, niin tunnumme olevan varsin yksimielisiä siitä, että tämä olisi se
+suunta, johon meidän on mentävä.
+
+Nyt kun kuitenkin on puhuttu, että käytännössä kaikilla poliisihenkilöillä on jo töitä, niin
+mistä näitä uusia poliiseja sitten saadaan? Olemme jo sen positiivisen odotuksen vallassa,
+että puoliväliriihi mahdollisesti toisi lisäyksiä resursseihin ja poliisivirkoja saataisiin lisää,
+mutta mistä heitä saadaan, jos kaikki ovat jo töissä?
+
+18.17 Eva Biaudet r (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Häkkänen nyt
+valitettavasti lähti, mutta ehkä muidenkin on ihan hyvä tietää, että eduskunnan yhteydessä
+toimivalla Ihmisoikeuskeskuksella on hyvä kurssi ihmisoikeuksista, ja voi ihan netistä kat-
+soa perustiedot A:sta B:hen, mitkä ovat ihmisoikeudet ja että kaikilla ihmisillä on ihmisoi-
+keudet. 
+
+Mielestäni on kyllä aika surullista, että puhutaan, että olisi moraalitonta auttaa toista ih-
+mistä hädässä ja osoittaa toiselle myötätuntoa. En ole kyllä ikinä... Siis korvat tippuvat
+päästä, kun täällä puhutaan, että papit eivät saa auttaa ihmisiä. Onhan se hyvä, että yhteis-
+kunnassa on ihmisiä, jotka panevat itsensä likoon ja auttavat toista ihmistä hädässä. Hävet-
+kää!
+
+Toinen varapuhemies Arto Satonen:  Ministeri Risikko, 5 minuuttia, ja sen jälkeen pu-
+hujalistaan.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+18.18 Sisäministeri Paula Risikko: Arvoisa puhemies! Kiitoksia edelleen näistä hyvistä
+kommenteistanne.
+
+Täällä tuli selonteosta sinänsä vähän kritiikkiä, että se on ollut sopeuttamissuunnitelma
+ja siitä puuttuu tällainen monisektoraalisuus. Siitähän silloin aikoinansa, kun tätä on tehty,
+on tehty ihan selkeä linjaus, että nyt tehdään sisäasiainministeriön hallinnonalalle tämä se-
+lonteko, ja siinä ei ole otettu tällaista monisektoraalista näkökulmaa niinkään, mutta valin-
+ta on tehty silloin. Minä itse asiassa pidän sitä aika hyvänä valintana siihen tilanteeseen, ja
+nyt kun tiedettiin jo se, että strategia tehdään monisektoraalisena, niin se sitten eräällä lail-
+la täydentää sitä, mutta minä ymmärrän kuitenkin hallintovaliokunnankin näkökulman täs-
+tä asiasta, ehdottomasti. 
+
+Täällä tuotiin hyvä esimerkki meidän tulevaisuuden uhkistamme eräällä lailla tälle
+kyberturvallisuudelle: juuri terveystiedot ja sairaalojen toiminta. Se on sellainen asia, joka
+tietysti sattuneesta syystä myös itseäni mietityttää, miten paljon meillä onkaan sellaista tie-
+toa liikkeellä tietoverkoissa, joka on erittäin haavoittuvaista ja joka haavoittaa ihmistä hy-
+vin monelta näkökulmalta.
+
+Tiedustelulainsäädännöstä te totesitte, tästä tietoliikennetiedustelusta, ja kiitos siitä.
+Edustaja Räsänen, entinen sisäministeri, käytti erinomaisen hyvän puheenvuoron siitä, että
+tiedustelulainsäädäntö on nyt tarpeen, ja tietoliikennetiedustelu, joka tähän nyt lisättiin
+suomalaisesta näkökulmasta, on kyllä hyvä lisä siihen. Kaikissa maissa ei sitä ole, joskin
+tiedustelulainsäädäntö on lähes kaikissa meidän vertailumaissamme, mutta tämä tietolii-
+kennetiedustelu on muutamassa maassa ja nyt sitten myöskin Suomessa, ja monet muut
+sitä ovat rakentamassakin.
+
+Edustaja Biaudet käytti kyllä hyvän puheenvuoron ihmiskaupan uhrien auttamisesta.
+Olen kanssanne ihan samaa mieltä siitä, että he jos jotkut tarvitsevat monisektoraalista aut-
+tamista, ja siinä ei auta, että Maahanmuuttovirastossa mietitään sitä, vaan siinä tarvitaan ni-
+menomaan sote-asiantuntijuutta, siinä tarvitaan oikeusapua ja kaikenlaista. Sitten meillä-
+hän on ihan tällainen toimenpideohjelmakin heidän tuekseen, ja esimerkiksi tämä yksikkö,
+joka on erityisesti erikoistunut näitten henkilöitten auttamiseen, on kyllä saanut hyvin pal-
+jon myönteistä palautetta siitä. Se, mitä minä olen itse miettinyt paljon, on, miten me saam-
+me tietää niistä, jotka eniten apua tarvitsisivat, miten heidät saataisiin niin sanotusti autta-
+misen haravaan, että nyt nämä juuri tarvitsevat sitä. Siinä me tarvitsisimme tietojen vaih-
+toa. 
+
+Alkoholipolitiikka nousi myöskin täällä esille, ja vedottiin siihen. No, päätös on tehty,
+laki on ollut lausunnoilla. Katsotaan, mitä lausuntojen perusteella voidaan sitten tehdä,
+mutta sanon vielä edelleen: jos laki menee tuollaisena eteenpäin, tarvitaan poliiseja. Se
+vain on fakta juttu. Silloin kun tehdään joku laki, silloin vastataan seurauksista ja vaiku-
+tuksista, ja se pitää hallituksen huomioida.
+
+Sitten täällä kysyttiin yleensäkin poliitikkojen vastuusta sisäisestä turvallisuudesta. Kyl-
+lä, poliitikoilla ja meillä päättäjillä ja varsinkin täällä eduskunnassa meillä on erittäin suuri
+vastuu esimerkiksi siitä, miten toista ihmistä kohdellaan, minkälaisen kuvan me annamme
+siitä, miten me haluamme vaikuttaa syrjäytymiskehitykseen. Se ei ole ainoastaan määrära-
+hoja, se on paljon, paljon muuta. Se on sitä, että me luomme uusia rakenteita, me luomme
+mahdollisuuksia ja että me saamme ennalta ehkäisevästi tehtyä sitä työtä, että kukaan ei
+syrjäydy. Silloin, kun ihminen on syrjäytynyt, häntä on vaikea auttaa, ja ennaltaehkäisy oli-
+si kaikkein tärkeintä.
+21
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Sitten vihapuhe. Se on myöskin yksi sellainen asia, että sillä, miten me puhumme toinen
+toisille, on suuri merkitys, ja me olemme eräällä lailla esimerkkejä meidän nuorille ja lap-
+sille, jotka seuraavat meidän puheitamme.
+
+Täällä esitettiin turvallisuusvaliokuntaa, ja tämä oli kyllä aika mielenkiintoinen asia. En
+ota nyt kantaa valiokuntien nimiin, mutta kyllä minä olen sitä miettinyt tässä, että meillä-
+hän hallintovaliokunta käsittelee turvallisuutta, puolustusvaliokunta käsittelee, ulkoasiain-
+valiokunta käsittelee, sitten sosiaali- ja terveysvaliokunta käsittelee terveysturvallisuutta.
+Kyllä ainakin jossain vaiheessa pitäisi tämä turvallisuus nostaa, kun se on mitä suurimmas-
+sa määrin monisektoraalista. Pitäisi jollain lailla käydä se keskustelu. Itse olen peräänkuu-
+luttanut Suomeen myös tätä turvallisuuden tieteenalaa. Nyt me noukimme eri tieteenalois-
+ta tutkimustuloksia ja faktoja päätöksenteon perustaksi, mutta meidän pitäisi saada laaja-
+alaisia, monisektoraalisia monitieteenalatutkimusohjelmia, jos ei nyt omaa tieteenalaa tule.
+
+Työnjako ja tiedonkulku on erittäin tärkeää, ei raha pelkästänsä riitä. 
+PTR-toiminta — erittäin tärkeää panostaa siihen.
+Palvelulupausta ollaan tekemässä osana sisäisen turvallisuuden ohjelmaa. 
+Syrjäytyminen on siellä myöskin, ja ikäihmisten turvallisuus on myös luupin alla.
+Senaatti-kiinteistöt on valitettavasti murheenkryyni. En sano, että se organisaationa on
+
+murheenkryyni, vaan ne valitettavat kiinteistöt, joissa on paljon hometta — ja väistötilat
+maksavat. Olen kanssanne samaa mieltä, edustaja Ruoho, että meidän on mietittävä tätä ti-
+lannetta. [Puhemies koputtaa] 
+
+Ja ihan tähän lopuksi vain sanon, että kun edustaja Laukkanen sanoi, että rahaa pitäisi
+tulla, että turvallinen uni tulisi, niin olen samaa mieltä. Uni paras lääke on, sitä vaalikaam-
+me. Yritän ensi viikolla. — Kiitos.
+
+Toinen varapuhemies Arto Satonen:  Sitten menemme puhujalistaan.
+
+18.24 Päivi Räsänen kd: Arvoisa herra puhemies! Tämän jo käydyn keskustelun pohjalta
+odotukset ensi viikon puoliväliriihen suhteen ovat kyllä suuret, mutta onneksi tämä mietin-
+tö, jota nyt käsittelemme, antaa myös erittäin hyvän selustan ministeri Risikolle näihin neu-
+votteluihin, kun valiokunnan kannanottoehdotuksessa edellytetään, että keskeisten turval-
+lisuusviranomaisten, kuten poliisin, Rajavartiolaitoksen, pelastustoimen, Hätäkeskuslai-
+toksen, Tullin ja Maahanmuuttoviraston, suorituskyky turvataan vahvistamalla olennaises-
+ti näiden viranomaisten rahoituspohjaa — ja kiinnitän huomion sanaan olennaisesti. Eli nyt
+emme odota mitään pientä muutosta vaan olennaista vahvistamista näiden viranomaisten
+rahoituspohjaan.
+
+Poliisista on paljon täällä keskusteltu. Kaksi vuotta sitten poliisien määrä oli vielä 7 250.
+Nyt ollaan menossa jo kovaa vauhtia sinne alle 7 000 rajan. Tämä kehityskulku on kyllä
+kestämätöntä, kun ottaa huomioon haasteet nykyisessä turvallisuusympäristössä, puhu-
+mattakaan siitä, jos haluamme helpottaa poliisien työtilannetta. Vähentyvät resurssit pa-
+kottavat poliisin priorisoimaan kiireelliset hälytystehtävät ja ihmisten välittömän turvalli-
+suuden, eli miettimään, mitkä tehtävät hoidetaan ja mitkä jätetään hoitamatta, ja näin ollen
+jo tapahtuneiden rikosten selvittelyyn sekä rikostorjuntaan eivät välttämättä resurssit enää
+riitä.
+
+Mikä on myös huolestuttavaa, on se, että turvattomuuden tunne on lisääntynyt. Se oli
+selkein muutos edelliseen vuoteen, kun maanpuolustustiedotuksen suunnittelukunta teki
+loppuvuodesta 2015 haastattelututkimuksen suomalaisten asenteista ja kaksi kolmasosaa
+22
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+vastaajista koki tulevaisuuden nyt turvattomampana, mutta vuonna 2014 näin ajatteli hie-
+man yli puolet. Tietenkin huolta aiheuttavat myös rajojemme ulkopuolella tapahtuvat asiat,
+kuten kansainvälinen terrorismi, kehitys Venäjällä, kyberuhat, ja turvallisuuden tunteen
+kannalta on keskeistä, luottavatko kansalaiset viranomaisten kykyyn vastata näihin uusiin
+turvallisuushaasteisiin. Tarvitsemme siis sekä riittävät resurssit että myös sitten riittävät
+toimivaltuudet viranomaisille ja myös viranomaisten keskinäisen yhteistyön parantamista
+ja kehittämistä edelleen.
+
+Näistä poliisin resursseista on täällä jo paljon puhuttu, mutta haluan vielä mainita sen,
+että muut Pohjoismaat nostavat turvallisuusviranomaistensa määriä. Eli Ruotsissa on vii-
+me aikoina puhuttu jopa 10 000 uuden poliisin palkkaamisesta vuoteen 2025 mennessä.
+Nythän heillä on jo kolminkertainen määrä poliiseja Suomeen nähden. Sekin on totta, min-
+kä ministeri täällä totesi, että kyllähän suomalaisten luottamus poliisiin ja myös turvalli-
+suuden tunne on kansainvälisesti verraten edelleen korkealla tasolla, mutta tuo tilanne on
+valitettavasti muuttumassa, ja siihen olisi reagoitava. Kansalaisilla pitäisi olla myös luot-
+tamus siihen, että poliisi kykenee puuttumaan myös vähäisempiin rikoksiin, kuten pieniin
+omaisuusrikoksiin ja ilkivaltaan, koska nämä nimenomaan järkyttävät sitä tavallisten ih-
+misten turvallisuuden tunnetta, kun ne omalle kohdalle osuvat.
+
+Haluan, arvoisa puhemies, vielä palata tähän eri viranomaisten keskinäiseen yhteistyö-
+hön. Poliisin, Tullin ja Rajavartiolaitoksen yhteistyö rikostorjunnassa on ollut erittäin tär-
+keä voimavara erityisesti vakavan ja järjestäytyneen rikollisuuden selvittämisessä. Mutta
+tässä nimenomaan tuo yhteistyön syventäminen ja myös hallinnollinen uudistaminen esi-
+merkiksi niin, että Tulli siirrettäisiin sisäministeriön alaisuuteen, toisi kyllä synergiaa ja
+säästäisi myös kustannuksista, kun ei jouduttaisi tekemään päällekkäistä työtä. Rajavartio-
+laitoksen resurssit ovat erittäin tärkeät, ja niitä täytyy myös vahvistaa. Rajavartiolaitoksel-
+lahan on ainoana lainvalvontaviranomaisena toimivalta ja osaaminen vastata sekä sisäisen
+että ulkoisen turvallisuuden uhkiin.
+
+18.29 Kari Kulmala ps:  Arvoisa puhemies! Turvallisuutta tuottavia organisaatioita on
+useita, mutta keskityn tässä puheessa rajoitetun ajan vuoksi vain poliisiin. 
+
+Siitä lähtien kun nimismiespiirit lakkautettiin ja kihlakunnat perustettiin vuonna 1996,
+on alkanut poliisitoimen alasajo syrjäseudulla asuvien veronmaksajien näkökulmasta kat-
+sottuna. Taajamissa poliiseja on ollut vielä kohtuullisesti, mutta harvaan asutulla alueella
+ei poliisia ole juurikaan näkynyt kuin hälytystehtävissä ja juhlapuheissa. Tähän ei näillä
+näkymin ole edes tulossa mitään muutosta.
+
+On tärkeää säilyttää ihmisten luottamus viranomaisia kohtaan, sillä se vahvistaa sosiaa-
+lista yhteisyyttä, joka luo perustan turvallisuudelle, turvallisuudentunteelle sekä toimivalle
+yhteiskunnalle. Poliisi on yksi niistä viranomaisista. Poliisimiesten määrän kehitys on
+mennyt jo useiden vaalikausien ajan huolestuttavaan suuntaan, kuten olemme tänään use-
+ampaan kertaan kuulleet. Vielä vuonna 2010 poliisimiesten henkilötyövuosia oli 7 850,
+mutta sen jälkeen taso on laskenut, ja tämän vuoden lopussa poliisimiehiä pitäisi olla arvi-
+olta 7 050. 
+
+Selonteossa minimitasoksi on kirjattu 7 000 poliisimiestä, mutta nykyisten sopeutusten
+perusteella taso tulee olemaan 6 300 poliisia vuonna 2020. Mielestäni tämä on täysin koh-
+tuuton tilanne jo nyt, kun tuntee ja tietää poliisityön työnkuvan ja määrän. Poliisi kyllä pär-
+jää, mutta entäpä kansalainen, joka apua tarvitsee. Odottavan aika on joskus pitkä, varsin-
+kin silloin, kun joku on kirveen kanssa tulossa ulko-ovesta sisälle. 
+23
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Mainittakoon, että poliisin resurssivähennykset alkavat olla lakkautetun liikkuvan polii-
+sin henkilöstön kokonaisluokkaa, eli se siitäkin säästöstä. Poliisimiesten määrän vähene-
+minen näkyy erityisesti harvaan asuttujen alueiden toimintavalmiusaikojen pitenemisenä.
+Hälytystehtävien vuotuinen määrä on poliisilla noin miljoona tehtävää, joista satatuhatta
+tehtävää jää edelleen resurssivajeen vuoksi hoitamatta. Valvonta- ja hälytystoiminnassa re-
+surssien väheneminen näkyy suunnitelmallisen valvonnan sekä ennalta estävän valvonnan
+vähenemisenä. Henkilöstön väheneminen aiheuttaa sen, että jäljelle jäävien työajasta ku-
+luu entistä suurempi osa hälytystehtävien hoitamiseen ja valvonnan työaika vähenee enem-
+män suhteessa hälytystoimintaan. Lisäksi selvitettyjen rikosten määrä laskee ja entistä
+enemmän rikoksia jää kokonaan tutkimatta.
+
+Vuonna 2009 laaditun ja vuonna 2011 päivitetyn poliisin pitkän aikavälin henkilöstötar-
+peiden kehittämissuunnitelman mukaan vuonna 2020 poliisimiesten kokonaismäärän tar-
+peeksi on arvioitu 8 296 henkilötyövuotta, mihin lukuun ei sisälly kenttäjaksolla olevien
+määrä. Mielestäni tämä olisi sopiva poliisimäärä. Tämä luku on kuitenkin kaukana tuosta
+6 300:sta, joka näillä näkymin on todellisuutta vuonna 2020. Tällä hetkellä meillä on po-
+liiseja tuhatta asukasta kohden 1,31, mikä on ylivoimaisesti vähiten koko Pohjoismaissa. 
+
+Myös hallinto- ja lupapalveluissa toimii poliisissa jo suhteessa vähemmän henkilöitä
+kuin useimmissa muissa valtion virastoissa. Lisävähennykset johtaisivat siihen, että polii-
+simiehet hoitaisivat myös näitä tehtäviä. En näe mitään järkeä tällaisessa toiminnassa.
+Muissa Pohjoismaissa poliisien määrää ja rahoitusta lisätään. Esimerkiksi Ruotsissa osoi-
+tetaan poliisille tälle kehyskaudelle lisärahoitusta 2 miljardia kruunua. Pyrkimyksenä on
+2 000 poliisimiehen ja 1 300 muun työntekijän lisäys. Samaan aikaan me Suomessa eläm-
+me lintukodossa ja toivomme, ettei meitä kukaan huomaisi. Samalla haluamme olla osa
+Eurooppaa mutta emme kuitenkaan toimi kuten eurooppalaisten kuuluisi toimia. Pitäisi
+ymmärtää, että sisäinen turvallisuus on suomalaisen demokratian ja hyvinvointiyhteiskun-
+nan kivijalka. 
+
+Erittäin myönteinen asia on, että Poliisiammattikorkeakoulun sisäänottoa ollaan kasvat-
+tamassa tänä vuonna 400 opiskelijalla. Viime vuonna valmistui edellisen hallituksen huo-
+menlahjana vain 57 poliisimiestä, ja se ei riitä kattamaan eläköitymisvauhtia, joka on noin
+300 joka vuosi. Edellisellä vaalikaudella toteutetun Pora III:n tavoitteena oli liikenteenval-
+vonnan tason säilyttäminen vähintään sillä tasolla, jolla se on ollut liikkuvan poliisin aika-
+na. Raskaan liikenteen valvonta tulisi säilyttää vuoden 2012 tasolla. Jo nyt voidaan todeta,
+ettei tavoitteisiin ole päästy. Automaattisen liikennevalvonnan kuvitellaan hoitavan liiken-
+nevalvonnan samaan aikaan kun liikennevalvonnan resursseja kohdennetaan yleisen jär-
+jestyksen ja turvallisuuden ylläpitämiseen sekä rikostutkintaan. Sanon suoraan, että tämä
+on väärä suunta. Seurauksena on odotettavissa liikennesääntöjen noudattamisen heikkene-
+minen, mikä voi osaltaan lisätä liikenteessä loukkaantuneiden ja kuolleiden määrää.
+Myönteinen liikenneturvallisuuskehitys [Puhemies koputtaa] on vaarassa kääntyä takaisin
+huonompaan suuntaan.
+
+18.35 Olli-Poika Parviainen vihr: Arvoisa herra puhemies! Maailma muuttuu, ja mei-
+dän on tehtävä voitavamme, jotta niin koettu kuin tosiasiallinenkin turvallisuus pysyvät
+Suomessa hyvällä tolalla tulevaisuudessakin. Ihmisten kokemassa turvallisuudentunteessa
+sekä niin sisäisessä kuin kansainvälisessäkin turvallisuustilanteessa on tapahtunut muutok-
+sia. Lisäksi esimerkiksi tiedustelulakeja valmistellaan, jotta voisimme vastata muun muas-
+24
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+sa terrorismin ja hybridi- ja kyberuhkien tuomiin haasteisiin, jotka ovat todellisuutta Suo-
+messakin.
+
+Ihmisten luottamus toisiinsa ja viranomaisiin on se kivijalka, jonka päälle kansallinen
+turvallisuus ja kaikki muukin hyvinvointi rakentuu. Sen luominen ja ylläpitäminen vaatii
+työtä, mutta sen menettäminen on helppoa nopeastikin. Jokaisen pitää voida kokea olevan-
+sa Suomessa turvassa ja kokea voivansa saada apua niin omassa kodissaan, kadulla, kou-
+lussa kuin työpaikallakin. Tämä koskee meitä aivan jokaista.
+
+Selonteon mietinnössä me hallintovaliokunnassa kiinnitämmekin huomiota siihen, että
+pelkästään sisäministeriön virkatyönä tehty selonteko ei vastaa riittävästi kaikkiin niihin
+sisäisen kokonaisturvallisuuden kysymyksiin, jotka ihmisten arkea ja elämää koettelevat.
+Turvallisuus ei katso hallintorajoja. Myös viranomaisten välistä yhteistyötä tulee tukea ja
+kehittää joustavammaksi ja sujuvammaksi.
+
+Sisäisen turvallisuuden näkökulmaa kannattaakin huomioida osana muuta politiikkaa
+laajemmin, ei pelkästään perinteisen turvallisuusajattelun osana vaan myös niin sanottujen
+pehmeiden turvallisuuskeinojen puolelta. Esimerkiksi puhuimme syrjäytymisen ehkäise-
+misestä. Otetaan esimerkiksi vaikka yksinkertaisesti se, että sosiaalisia ongelmia lisäävä
+politiikka siis heikentää yleistä turvallisuutta, ja toisaalta ongelmia ennalta ehkäisevä poli-
+tiikka vuorostaan tuo vakautta, hyvinvointia ja turvallisuutta. Tästä aiheesta tarvittaisiin
+varmasti Suomessa myös perusteellisempaa tutkimusta, kuten sisäministeri Risikko pu-
+heessaan esitti. Kyse ei onneksi ole vain resursseista. Esimerkiksi perusopetuksen päät-
+tyessä pitäisi huolehtia, ettei kukaan todellakaan pääse putoamaan, ja armeijan kutsunta-
+vaiheessa pitäisi ottaa aidosti kaikista koppi.
+
+Suomeen on myös pesiytynyt erilaisia ääriliikkeitä sekä ääriajattelua harjoittavia toimi-
+joita. Nämä koettelevat vapaan ja avoimen yhteiskuntamme rajoja. Meidän on oltava valp-
+paina. Radikaalien ääriliikkeiden pesiytyminen Suomeen on torjuttava. Samalla meidän on
+kuitenkin muistettava, ettemme leimaa ihmisryhmiä tai lisää ääriajattelua omilla teoillam-
+me tai sanoillamme. Esimerkiksi viharikosten kasvanut määrä kertoo koventuneista asen-
+teista, jotka voivat muuttua myös teoiksi. On hienoa, että poliisi on kohdistanut lisää re-
+sursseja vihapuheen torjuntaan esimerkiksi verkossa, etenkin juuri nyt, kun poliisin resurs-
+sit ovat todella tiukilla.
+
+Kiinnitämme mietinnössä huomiota myös siihen, että poliisien määrän turvaaminen on
+enemmänkin laskennallinen temppu kuin tosiasia pitkällä tähtäimellä. Tässä kaikilla meil-
+lä tässä salissa on peiliin katsomisen paikka. Kyse ei ole nykyisestä hallituksesta, seuraa-
+vasta hallituksesta tai edellisestäkään pelkästään, vaan kyseessä on meidän yhteinen
+asiamme. Vaikka hallitus on tehnyt satsauksia, poliisien jo valmiiksi vähäinen määrä uh-
+kaa pudota entisestään lähivuosina ja seuraava hallitus löytää asian pöydältään. Me tarvit-
+semme riittävästi määrärahoja siihen, että poliisien määrää kenttätyössä ja tutkinnassa voi-
+daan jatkossa kasvattaa. Olisi myös hyvä saada poliiseiksi ihmisiä erilaisista etnisistä ja us-
+konnollisista taustoista, kuten kyselytunnilla totesin.
+
+Arvoisa puhemies! Ylikansalliset ongelmat vaativat myös ylikansallisia ratkaisuja. Suo-
+men on tärkeä olla mukana kansainvälisen turvallisuuden rakentamisessa. Esimerkiksi te-
+kemämme kriisinhallintatyö ja kehitysyhteistyö pyrkivät luomaan vakautta sinne, missä ti-
+lanteet ovat vaikeita. Konfliktien torjuntaan tähtäävä työ maailmalla hyödyttää myös mei-
+dän suomalaisten turvallisuutta. Konfliktit, ilmastonmuutos ja köyhyys ovat luoneet myös
+muuttoliikkeen, joka jatkuu esimerkiksi Välimerellä. Libyan kaltaisten, käytännössä ha-
+jonneiden valtioiden heikko tilanne luo kasvualaa kyyniselle ihmissalakuljetukselle ja
+25
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+muulle rikollisuudelle, josta eniten kärsivät he, jotka turvaa tai parempaa elämää hakevat.
+Nämä asiat vaikuttavat meidänkin tilanteeseemme paitsi EU:n tulevaisuuden myös oman
+turvapaikanhakijatilanteemme ja sen mukanaan tuomien ilmiöiden kautta. Suomessa tar-
+vitsemme inhimillistä turvapaikkapolitiikkaa ja hyvää kotouttamista. Räikeä epäkohta löy-
+tyy mielestäni esimerkiksi perheenyhdistämisten vaikeudesta, toimivat perhesuhteet kun
+ovat parasta yhteiskuntaan integroivaa toimintaa.
+
+Arvoisa puhemies! Hallintovaliokunta ja muut valiokunnat ovat tehneet suuren työn tä-
+män selonteon mietintöjen ja sen lausuntojen valmistelussa. Kiitän valiokuntakollegoita.
+Mietintö on mielestäni kattava ja kuvaa hyvin niitä olosuhteita, joissa elämme. Kiitän myös
+ministeriä perusteellisesta keskustelusta ja toivon, että pääsemme yhdessä jatkamaan hy-
+vää yhteistyötä asiassa.
+
+18.40 Antero Laukkanen kd: Arvoisa herra puhemies! Minäkin yhdyn näihin kiitoksiin
+tämän selonteon perusteellisuudesta ja myös tästä keskustelusta ja siitä, että ministeri Ri-
+sikko on täällä jaksanut istua ja kuunnella meidän puheitamme. Vilpittömästi uskon, että
+hän myös saa tästä, niin kuin edustaja Räsänen sanoi, hyvän selkänojan itselleen tuleviin
+neuvotteluihin.
+
+Ihan muutaman asian tässä nostan vielä esille hyvän keskustelun lisäksi:
+Täällä on mietinnössä sivulla 35 kohta 6.9 Tehtävien priorisointi: "Selonteon mukaan ta-
+
+loudellisten resurssien niukentuessa toimintaa on priorisoitava. Selonteossa ei kuitenkaan
+esitetä priorisoinnin tarkempia perusteita, vaikka selontekomenettelyn luonteeseen kuu-
+luu, että se sisältää tämän kaltaisissa linjauksissa myös riittävän konkreettiset linjaukset.
+Kysymys on viime kädessä siitä, mitkä lakisääteiset tehtävät jätetään tai jäävät resurssien
+puutteessa hoitamatta ja tekemättä." Tämä lausuma ja toteamus tässä puuttuu suoraan sii-
+hen oikeusperustaan, joka Suomessa on vankka. Täällä on puhuttu tänään paljon pilareista,
+niin kyllä tämä oikeusperusta on sellaisen yhteiskunnan, jota Suomi edustaa, keskeisiä
+asioita. Ja tämä varojen supistaminen käytännön tasolla tarkoittaa sitä, niin kuin eräs polii-
+sihallinnon edustaja sanoi, että nyt aletaan olla sellaisessa tilanteessa, että eduskunnan on
+nyt kerrottava, mitkä asiat poliisi hoitaa ja mitä asioita poliisi ei hoida, tai sitten eduskun-
+nan on lisättävä määrärahoja, koska poliisilla on se lähtökohta, että kun rikos tapahtuu, niin
+se pitäisi aina selvittää silloin kun kansalainen tulee sitä vaatimaan, ja nyt näin ei enää voi
+tapahtua.
+
+Lakivaliokunta on myös omassa lausunnossaan tästä asiasta lausunut ja todennut, että
+tämä tilanne on tällä hetkellä ihan mahdoton. Me emme voi lähteä siitä, että meillä on alu-
+eellinen eriarvoisuus siinä, mitkä tehtävät poliisi voi hoitaa. Pääkaupunkiseudulla vielä tie-
+tyt asiat hoidetaan, haja-asutusseudulla ei enää hoideta sitäkään, mikä pystytään hoita-
+maan pääkaupunkiseudulla tai suurissa kaupungeissa. Me olemme itse synnyttämässä täl-
+laista tilannetta, jossa tämä oikeusperusta murtuu. Ja kun puhun näin, niin ymmärrän täy-
+sin, että sisäministeri Risikko ymmärtää, missä mennään tässä näin. Jos me vapaaehtoises-
+ti teemme nyt tällaisen valinnan tässä talouden tilanteessa, joka Suomella on, että velalla
+eletään, niin sitten ne säästötoimet rankimmin kohdistuvat tänne poliisin puolelle. Se on
+huono valinta. Me olemme taas siinä tilassa, että käytännössä se synnyttää enemmän kulu-
+ja kuin tuo säästöjä, ja sen takia nämä pitäisi huolella arvioida.
+
+Poliisiasiain neuvottelukunnan varajäsenenä saan jatkuvasti heidän erittäin laadukasta
+materiaaliaan, minkä myös ministeri Risikko hyvin tuntee. He ovat mielestäni parhaita ar-
+26
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+vioimaan, mitkä ne todelliset tarpeet ovat. He tietävät ne ja seuraavat ja tutkivat ja ovat yrit-
+täneet sopeutua tähän tilanteeseen, mutta nyt tietty raja on saavutettu.
+
+Arvoisa puhemies! Oikeastaan tässä enää tähän hyvään keskusteluun tällainen painopis-
+te ja oikeastaan avaus sellaiselle keskustelulle, että mitä me haluamme, minkälainen oi-
+keusperusta Suomessa tulevaisuudessa on.
+
+18.44 Eva Biaudet r: Arvoisa puhemies! Hallitus on siis viime toukokuussa antanut edus-
+kunnalle valtioneuvoston selonteon sisäisestä turvallisuudesta, ja olemme tänään keskus-
+telleet siitä. Se on ensimmäinen laatuaan, ja sen takia varmasti on paikallaankin keskustel-
+la aika laajasti siitä, miten tämä työ jatkuu, koska tämähän on alkua.
+
+Lakivaliokunta on antanut lausunnon tästä ja kiinnittänyt huomiota siihen, että selon-
+teossa sisäinen turvallisuus on rajattu koskemaan ehkä ennen kaikkea sisäasiainhallinnon
+toimijoita. Itse ajattelen, että tämä on valitettavaa. Mutta tämä on hyvä alku. Selonteossa
+tuodaan esiin muina tärkeinä sisäisen turvallisuuden viranomaisina myös tuomioistuimet,
+syyttäjänvirastot, Rikosseuraamuslaitos, Tulli, sosiaali- ja terveystoimi, mutta muiden toi-
+mijoiden roolia ei kovin paljon käsitellä. Luottamus yhteiskuntaan, yhteiskunnan sosiaali-
+seen pääomaan — siis demokratiaan, turvaverkostoihin, koulutukseen — on mielestäni,
+niin kuin täällä on hyvin edustaja Paateron puheenvuorossa sanottu, tämän turvallisuuden
+kivijalka. 
+
+Inre säkerhet är så mycket mer än vad som står i regeringens utredning. Att förbättra den
+inre säkerheten i en allt mer komplicerad säkerhetsmiljö förutsätter förutom att myndighe-
+ters prestationsförmåga blir bättre, också ett brett samarbete mellan myndigheter, mellan
+internationella aktörer, medborgarorganisationer och företag. För att en fungerande rätts-
+vård och rättsskydd ska kunna fungera som grundpelare för samhällsfreden förutsätts det
+att alla aktörer i den här rättsprocessen fungerar och har balanserade, ändamålsenliga re-
+surser. Det gäller polisen, åklagarna och rättsväsendet som alla skapar den här säkerhets-
+och trygghetskedjan, till exempel i straffprocesser. Och resurserna måste fördelas mellan
+dem såsom ett fungerande rättsskydd förutsätter.
+
+Lagutskottet har uttryckligen poängterat att förtroende gentemot myndigheter är en vik-
+tig pelare, legalitetsprinciper, rättsstatsprinciper, förverkligandet av grundrättigheter och
+mänskliga rättigheter på ett effektivt sätt, att de ska kännas i människors vardag. De här är
+alla grunder för den inre säkerheten. 
+
+Liksom ingen människa är en ö så är inget land det heller, och brottslighet känner inga
+gränser. Även den inre säkerheten kan ibland ha internationella kontakter. Därför är det så
+viktigt att Finland också känner förtroende för ett samarbete med andra och bygger på ak-
+tivt samarbete med andra, och är med i internationellt samarbete i Norden, i Europa och
+globalt. I dagens läge är det en förutsättning för att varje land ska kunna vara tryggt, att var-
+je medborgare ska kunna känna sig trygg. Internationella institutioner såsom FN eller Osse
+har naturligtvis sina utmaningar, men de har byggts upp under många år och det är viktigt
+att vi inte försummar våra insatser och vårt ansvar i dessa organisationer. Det är de som
+bygger upp det här internationella normverket och det är lika viktigt att vi efterföljer den
+lagstiftning, de internationella regler — till exempel om skydd för flyktingar, internatio-
+nellt skydd för flyktingar — som vi har lovat resten av världen att göra.
+
+I jämförelse med andra EU-länder är kvinnovåldet i Finland synnerligen stort. Våld mot
+kvinnor är en kränkning av de mänskliga rättigheterna och det tillåter vi fortsätta på bred
+27
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+front i Finland. Nästan 25 procent av befolkningen har utsatts för psykiskt, fysiskt eller sex-
+uellt våld, men det verkar ändå inte finnas en tillräckligt stark politisk vilja för att stoppa
+det här våldet. Inte ens satsningarna på skyddshem är över huvud taget tillräckliga. Den här
+saken måste i kommande diskussioner kring den inre säkerheten ha ett större utrymme. 
+
+Jag funderade i dag på vad som ger ett tryggt och säkert samhälle när jag kom till jobbet.
+Orden från generalsekreteraren för Sveriges advokatsamfund Anne Ramberg har fastnat
+starkt i mitt minne. Hon säger att rädslan är en dålig lagstiftare. Också Pär Stenbäck, tidi-
+gare minister och riksdagsledamot skriver i Hufvudstadsbladet i dag om när fruktan tar
+över. Han säger: "Valet står inte mellan en brutal kapitalistisk marknadsekonomi och en
+traditionell social-liberal välfärdsstat, utan mellan en politik som stärker den sociala sam-
+manhållningen och en gemensam samhällssyn, och ett samhälle som hotar erodera när
+fruktan för framtiden genomsyrar det." 
+
+En stor del av ungdomarna tror inte på att Finland har en bättre framtid att gå till. Det här
+är en allvarlig signal om att vi måste jobba mera på att skapa mer trygghet och säkerhet, och
+ha mindre skrämsel, flyktingfientlighet och rasism i det här landet. — Tack.
+
+18.50 Mari-Leena Talvitie kok: Arvoisa puhemies! Yhteiskuntamme vakaudelle ja sisäi-
+selle turvallisuudelle luovat pohjan yhteiset arvot, hyvinvointi, demokratia, luotettava hal-
+linto, oikeusvaltio ja toimivat instituutiot. Käsiteltävänä oleva selonteko painottuu perus-
+tellusti niin sanottuun kovaan sisäiseen turvallisuuteen, vaikkei sisäinen turvallisuus kui-
+tenkaan ole, niin kuin selonteossa todetaankin, vain turvallisuusviranomaisten toimintaa. 
+
+Aloitimme laatuaan ensimmäisen sisäisen turvallisuuden selonteon eduskuntakäsittelyn
+hallintovaliokunnassa jo viime keväänä. Selonteko ja meneillään oleva sisäisen turvalli-
+suuden strategiatyö antavat meille tilannekuvan niin muuttuneesta turvallisuustilanteesta,
+viranomaisresursseista ja toimenpiteistä kuin maamme tulevaisuuden turvallisuusnäky-
+mistä. 
+
+Niukentuneet resurssit riittävät maamme ja kansalaisten turvallisuuden vaalimiseen ja
+ylläpitoon vain oikein kohdennettuina. Tämä tarkoittaa, että viranomaiset joutuvat teke-
+mään valintoja, miten resursseja käytetään jatkossa vaikuttavimmin. Oikea-aikaisilla, har-
+kituilla valinnoilla turvaamme toimivan palveluorganisaation. Meillä on siis oltava val-
+miutta keskustella ja priorisoida, voidaanko joidenkin rikosten selvittämistä painottaa re-
+sursoinnissa toisia tärkeämmäksi. 
+
+On tärkeää, että kokonaisturvallisuuden murroksessa pystymme turvaamaan riittävät vi-
+ranomaisresurssit, mutta yhtä tärkeää on vaikuttaa siihen, että palvelutarpeen kasvua kye-
+tään vähentämään, eli panostetaan ennaltaehkäiseviin palveluihin, estetään nuorten syrjäy-
+tymistä, työttömyyttä ja niin edelleen. Turvallisuusviranomaisten rinnalla on siis huomioi-
+tava ennaltaehkäisevän työn vaikutus. Mitä oikea-aikaisemmin pystymme tunnistamaan
+tekijät, jotka johtavat yhteiskunnan turvallisuutta erilailla vaarantaviin tekijöihin, sitä pa-
+rempi. Sitä vähemmän syntyy kokonaiskustannuksia ja inhimillistä kärsimystä. Tärkeää on
+siis, miten pystymme pureutumaan syihin emmekä hoida ainoastaan seurauksia.
+
+Suomalaisten luottamus turvallisuudesta vastaaviin viranomaisiin on korkea. Päättäjien
+ja vastuunkantajien katseet kääntyvät useimmiten niihin asioihin, mitä voidaan mitata. On
+siis kiinnitettävä huomiota myös siihen, millä aikataululla poliisi ja muut viranomaiset
+pystyvät kansalaisia palvelemaan. Ministeri Risikko on ansiokkaasti nostanut esiin, olisi-
+ko aika ja tarve esimerkiksi poliisin palveluihin asettaa tietynlainen palvelulupaus, jonka
+28
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+kautta pystyisimme läpinäkyvämmin ja oikea-aikaisesti osoittamaan resursseja yhteiskun-
+nallisesti.
+
+Arvoisa puhemies! Jokaisella turvallisuusviranomaisella on oma, keskeinen tehtävänsä.
+Hyvin toimiva poliisin, Tullin ja Rajavartiolaitoksen PTR-yhteistyö on oiva esimerkki vi-
+ranomaisyhteistyön vaikuttavuudesta. PTR-yhteistyö toimii ja tehostaa myös rikosten sel-
+vittämistä. On tärkeää, että PTR-viranomaisten johtamisvastuita selvennetään ja täsmen-
+netään sisäisen turvallisuuden strategiatyössä. Niistä viime kuukausina on valmistunut
+myös tämä selvitys Tullin roolista, vastuista ja paikasta. 
+
+Selonteossa linjattiin, että poliisien määrä vakiinnutetaan noin 7 000 poliisin tasolle tä-
+män vaalikauden aikana. Kokoomuksen ryhmälle tämä taso on ehdoton minimi, jonka alle
+ei voida mennä. Poliisien määrän riittävyyttä tulee säännöllisesti arvioida, ja siksi onkin
+tärkeää, että hallitus käsittelee ensi viikon kehysriihessä turvallisuutta yhtenä kärkiasiana.
+Myös hallituksen linjaus poliisien koulutusmäärien lisäämisestä on olennainen. 
+
+Sisäisen turvallisuuden strategiatyössä turvallisuus on ymmärretty laaja-alaisesti. Työ-
+hön on kutsuttu niin viranomaiset kuin kansalaisyhteiskunnan ja elinkeinoelämän toimijat.
+Meidän on kyettävä hyödyntämään kunkin osaamista ja resursseja yhteiskunnan kokonais-
+turvallisuutta vahvistavasti. On tärkeää myöskin, että eduskunta saa tietoa siitä, miten stra-
+tegiatyö etenee. Yhteinen tahtotila on kuitenkin se, että Suomi on tulevaisuudessakin maa,
+jossa on turvallista tehdä työtä, yrittää, opiskella ja elää. 
+
+Loppuun lyhyesti siitä nuorten tulevaisuudentekijöidemme näkemyksestä, että tutki-
+muksen mukaan nuoret pitävät Suomea yhä vahvana luottamusyhteiskuntana. Oleellista
+onkin kansalaisten, toimijoiden, viranomaisten, vastuunkantajien ja koko yhteiskuntamme
+kannalta, että keskitymme siihen, miten voimme edelleen vahvistaa sitä luottamusta ja kes-
+kitymme niihin asioihin, mitkä luottamusta edistävät. 
+
+Kiitokset lopuksi ministerille ja myöskin hallintovaliokunnan puheenjohtaja Eerolalle,
+varapuheenjohtaja Korhoselle ja koko valiokunnalle uskalluksesta tehdä kattava ja pidem-
+män aikavälin sisäisen turvallisuuden selonteon mietintö. 
+
+18.56 Matti Semi vas: Arvoisa puhemies! Pohdin tuossa valiokunnalle mietintöä tehdes-
+sä ja sisäisen turvallisuuden raporttia lukiessa, mitä se sisäinen turvallisuus oikein on. Mi-
+nusta se on sitä, että kasvatamme lapsemme suvaitsemaan ja auttamaan toinen toisiamme.
+Sieltä se lähtee kotoa. Mitä se vaatii siltä kodilta? Se vaatii sitä, että vanhemmilla on riit-
+tävä toimeentulo ja turva elämiseen ja lastensa kasvattamiseen, koulussa ei kiusata eivätkä
+ihmiset syrjäydy.
+
+Nämä ovat niitä sisäisen turvallisuuden perusrakenteita, mille on hyvä rakentaa turval-
+lista ympäristöä asukkaillemme. Kun tämä rakennelma murtuu, tarvitsemme viranomai-
+sia, joiden tehtävä on auttaa hädässä olevia ihmisiä selviämään elämän haasteista. Tässä
+muuttuvassa maailmassa uusien uhkakuvien ja yhä erilaisen rikollisuuden lisääntyessä
+olemme huomanneet myös Suomen sisäisen turvallisuuden rakenteiden natisevan liitoksis-
+saan. Se arvio, mitä hallituksen kehys sisältää valtion talouden tasapainotuksen ja säästö-
+jen aikaansaamiseksi, laittaa nämä turvallisuuden reuna-arvot liikkumaan yhä harmaam-
+paan suuntaan.
+
+Hallintovaliokunnan yksimielinen mietintö kertoo sen, että resurssien osalta on saavu-
+tettu ääripää. Monella sisäisen turvallisuuden osa-alueella se kertoo myös sen, kuinka sääs-
+täminen aiheuttaa myös maallemme taloudellisia menetyksiä. Arvioiden mukaan kysymys
+on useiden miljardien taloudellisesta menetyksestä. Harmaan talouden tutkinnan määrära-
+29
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+hojen vuosittainen näivettyminen tietää verotulojen menetyksiä. Onneksi niitä on jossain
+määrin pystytty aina budjetin käsittelyssä osittain palauttamaan, ja siitä kiitos kuuluu mi-
+nisterille. Hän on hyvin toiminut siltä osin. Mutta valitettavasti edelleenkin menetämme
+suuria määriä verotuloja harmaan talouden takia.
+
+Lisäksi raskaan liikenteen ammattimaisen valvonnan tehostaminen on tärkeä osa niin
+suomalaisille kuljetusyrittäjille kuin valtion sekä kuntien verotuloille ja ennen kaikkea lii-
+kenneturvallisuudelle. Tehokkaammalla ja ammattimaisella valvonnalla parannetaan lail-
+listen kuljetusliikkeitten kilpailukykyä ja suomalaisen yrittäjän asemaa. Nämä ovat myös
+niitä ratkaisuja, millä tuotetaan verovaroja muun sisäisen viranomaistoiminnan ylläpitämi-
+seen, sillä verovaroja tarvitaan niin pelastus- kuin hätäkeskuslaitoksen, poliisin ja Rajavar-
+tiolaitoksen toiminnan ylläpitämiseen. Myös näitä edellä mainittuja alan ammattilaisia tar-
+vitaan jatkossakin, siksi riittävään koulutukseen ja sen määrään ja tasoon on jatkossakin
+satsattava.
+
+Arvoisa puhemies! Tämä hallintovaliokunnan mietintö kuvaa hyvin ne tilanteet, miltä
+osin resurssien vähyydestä huolimatta hyvällä eri hallinnonalojen yhteistyöllä on onnistut-
+tu. On pystytty saavuttamaan PTR-yhteistyöllä merkittäviä synergiahyötyjä ja palvelujen
+tehostamista. Onnistuneita yhteistyötehtäviä on ollut muun muassa Puolustusvoimien ja
+eri järjestöjen kanssa. Tämä osaltaan kertoo sen tosiasian, että Suomessa osataan sopia
+asioita ja sopimalla saadaan aina enemmän aikaan.
+
+Valitettavasti mietinnön sisältö kertoo myös sen tosiasian, missä viranomaiset ovat jou-
+tuneet taipumaan. Siltä osin maamme asukkaat ovat joutuneet kärsimään, ja tämä johtuu
+pelkästään vähentyneistä resursseista. Tässä yhteydessä täytyy kiittää näitä viranomaisia
+hyvästä yhteistyöstä siinä, että ovat jaksaneet taipua tehtävien ja uusien haasteitten edessä.
+Mutta ikävä kyllä tähän jatkuvaan taipumiseen Suomen sisäisen turvallisuuden rakenteis-
+sa ei ole mielestäni enää varaa. Jatkuva taipuminen katkaisee jossakin vaiheessa sen selkä-
+rangan, ja silloin vahinkoa on vaikea korvata. Siksi tarvitaan rahallisia satsauksia sisäisen
+turvallisuuden toiminnan ylläpitämiseksi.
+
+Kiitos ministerille hyvin selkeistä vastauksista tänä päivänä ja kehittämishalusta sisäi-
+sen turvallisuuden osalta. — Kiitos.
+
+19.01 Veera Ruoho ps: Arvoisa puhemies! Tässä voimakkaassa turvallisuusympäristön
+muutoksessa, joka pahaenteisesti vaikuttaa myös Suomen turvallisuustilanteeseen, näen
+kestämättömänä kehityksenä ensinnäkin sen, että meillä on Suomessa jo lähtökohtaisesti
+vähiten poliiseja pohjoismaisessa vertailussa, ja toisekseen, että kehitys jatkuisi poliisi-
+määrän vähentymisenä entisestään. Esimerkiksi tällä hetkellä poliisin suorituskyky on vie-
+lä vajavainen täysin takaamaan massatapahtumien turvallisuuden, saati että meillä olisi
+riittävästi poliiseja ilman erityisempiä tapahtumia jalkautumaan kaduille, missä yhtä lailla
+on alttius myös väkivaltaisille iskuille — mitä naapurimaissa hiljattain saatiin todistaa,
+sekä tuolla Pietarissa että Tukholmassa. Pietarin isku ei jostain syystä saanut samanlaisia
+sympatian osoituksia kuin mitä Tukholman sai.
+
+Arvoisa puhemies! Nyt valtiovarainministeriön alustavan kehyksen mukaan vuoteen
+2020 mennessä, jos tämä kehys toteutuisi, poliisilta lähtisi se 850 henkilötyövuotta. Ja näin
+on, koska poliisin budjetista 70—80 prosenttia on henkilöstökuluja. Pitää muistaa, että po-
+liisisektorilla ainoa mahdollisuus sopeuttaa on laittaa väkeä pois. Tätä emme voi hyväk-
+syä, kuten te, arvon kansanedustajat, olette kaikki täällä yksimielisesti todenneet.
+30
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Meillä poliisi on yksi maailman parhaiten koulutetuista, oikeudenmukainen, tasapuoli-
+nen, korruptoitumaton ja rehellinen. Tuo valiojoukko tarvitsee riittävät toimintaedellytyk-
+set, jotta voimme taata kansalaisille sisäisen turvallisuuden. Uskon, että jokainen meistä
+ymmärtää turvallisuuden merkityksen niin yksilöiden kuin myös elinkeinoelämän kannal-
+ta. Poliisi, kuten muut turvallisuusalan toimijat, tulee riittävästi resursoida, ja lisäksi mei-
+dän tulee lainsäädännöllä mahdollistaa poliisille työkalut ylläpitää sisäistä turvallisuutta.
+
+Kiitän ministeri Risikkoa ja hallintoasiainvaliokuntaa sisäisen turvallisuuden selonteos-
+ta.
+
+19.04 Arja Juvonen ps: Arvoisa herra puhemies! Arvoisa ministeri, myös minä haluan
+kiittää tästä sisäisen turvallisuuden asiasta, mistä tänään täällä keskustelemme, erityisesti
+siitä, että strategiaa päivitetään myös tulevaisuudessa. Toki kiitos siitä myös, että olette
+täällä kuuntelemassa ja vastaamassa kysymyksiin.
+
+Sosiaali- ja terveysvaliokunta antoi myös tästä lausunnon, ja me nostimme esiin omassa
+lausunnossamme hyvinvoinnin ja turvallisuuden sekä pelastustoimi- ja ensihoitoteemat.
+On ollut hienoa kuulla, että täällä myös arjen turvallisuus on noussut paljon keskustelussa
+esille. Me nostimme syrjäytymisen, tuloerojen kasvun, päihteiden käytön, tarttuvat taudit
+ja yleisesti arjen turvallisuuteen vaikuttavat tekijät. 
+
+Pelastustoimesta ja ensihoidosta nostimme esille varautumisen ja onnettomuustilantei-
+den selvittämisen ja yhteiskunnan kriittisten toimintojen ylläpitämisen häiriötilanteissa.
+Nämähän ovat kaikki äärettömän tärkeitä ja koskettavia asioita, erityisesti sairaalamaail-
+ma ja turvallisuuden säilyminen siellä, jonka jo yhdessä puheenvuorossani nostin esille.
+On todella aika pelottavaa ajatella, mitä tapahtuisi, jos todellinen uhka sairaalaan saapuisi,
+on se sitten kyber- tai hyperuhkaa tai vaikkapa joku virus tai bakteeri, tulee se sitten työn-
+tekijöiden tai minkä ikinä mukana. Voimme maalata vaikka minkälaisia uhkakuvia. Tur-
+vallisuus on tunnetta, ja kyllä se turvallisuudentunne on Suomessa tällä hetkellä heikenty-
+nyt.
+
+Täytyy kiittää Kuopion poliisia siitä, että onnistui paljastamaan aiotun rikoksen, missä
+turvapaikanhakijoiden joukko meinasi tietäessään jo, että poistuvat maasta, vielä sortua ri-
+koksiin: oli luvassa näpistyksiä, varkauksia, jopa raiskauksia. Juuri tällaista ennaltaeh-
+käisyä me tarvitsemme ja poliiseille lisää resursseja toimia juuri näin, niin kuin esimerkik-
+si Kuopiossa tehtiin — toki myös hoitajien resursseja. Täytyy itse hoitajana aina nostaa
+esille hoitajien resurssit ja poliisien resurssit myös.
+
+Nostaisin esiin myös sen tulevaisuuden ajatuksen, että ikääntyneiden määrä lisääntyy.
+Meillä on vuonna 2060 yli 65-vuotiaita noin 1,79 miljoonaa. Se tarkoittaa sitä, että haurai-
+ta ja heikkoja ihmisiä on ympärillämme, ja meidän tulee tehdä kaikkemme, että pidämme
+myös heistä huolen. Oli hienoa kuulla, ministeri, kun mainitsitte, että myös ikääntyneiden
+turvallisuus tulee nousemaan esille strategian päivityksessä sitten, kun sitä tehdään. Niin
+tuleekin olla.
+
+Meillä tapahtui Espoossa joku vuosi sitten sellainen käsittämätön rikos, mitä ei ole vie-
+läkään saatu selvitettyä, vaikka poliisin valvontakameran kuvaa oli, että kehitysvammai-
+silta henkilöiltä tyhjennettiin pankkitilit heidän omilla pankkikorteillaan. Tämä on kyllä
+sarjassamme, että tarvittaisiin Hercule Poirot ratkaisemaan, kuka vei ja miksei saada raho-
+ja takaisin.
+
+Arvoisa puhemies! Laittomasti maassa olijoiden tilanne on myös noussut täällä keskus-
+teluun. Kyllä minä näen, että niille, jotka ovat laittomasti maassa, kyllä täytyy pikapalau-
+31
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+tus omaan lähtömaahansa saada aikaiseksi. Nykytilanne ei ole oikein heitä itseäänkään
+kohtaan. Siinäkin on tällaista humanitääristä ajatusta, mitä pitää ajatella, että joutuvatko ne
+ihmiset mahdollisesti rikoksen uhriksi itse, ihmiskaupan uhreiksi. Mikä heidän tilanteensa
+on täällä Suomessa, kun ei ole paikkaa minne mennä eikä sitä toimeentuloa, ja ruokkiiko se
+myös alustaa sille mahdolliselle rikollisuudelle, niin että juurikin ne heikoimmassa ase-
+massa olevat hauraat ihmiset, vaikkapa ikääntyneet, joutuvat kohtaamaan näitä taskuvar-
+kauksia. Mutta nämä ovat kaikki teemoja, jotka ovat keskustelussa jo nousseet esille.
+
+Hienoa, että sisäisen turvallisuuden strategiaa päivitetään. Hyvä, että siellä nousee arjen
+turvallisuus esille. Turvallisuus on tunnetta. Ministeri, sanoitte hienosti, että uni on sitä pa-
+rasta lääkettä. Minä nostaisin vanhasta lastenlaulusta myös sen maidon, sen lämpimän mai-
+don: "Maito tuore lämpöinen avun tuoda voisi, viljakorppu valkoinen" — jotenkin näin se
+menee — "ehkä turvan toisi." Me luotamme nyt ministeriin, että me voimme nukkua yöm-
+me hyvin, ja ihmeisiinhän te pystytte.
+
+19.08 Sirpa Paatero sd: Arvoisa herra puhemies! Sisäisen turvallisuuden selonteko on
+siis tehty ensimmäisen kerran, mikä on tietenkin hyvä asia. Meidän mietinnössämme, hal-
+lintovaliokunnan yksimielisessä sellaisessa, on kuitenkin esitetty kritiikkiä, joka on sinän-
+sä varmaankin ihan aiheellista, että se ei vastannut aivan sitä, mitä hallintovaliokunta on ai-
+kaisemmin toivonut ja tarvinnut, ja toisaalta, kun katsoo sekä hallintovaliokunnan käsitte-
+lyä että kaikkien muiden valiokuntien, jotka antoivat lausunnon, niin se kritiikki liittyi sii-
+hen, että tämä oli hyvin resurssipainotteinen. Ajatusta kokonaisturvallisuusnäkemyksestä
+ja koko yhteiskuntaan liittyvistä asioista ei käsitelty siinä laajuudessa kuin olisi ollut tarve
+vaan oli enemmän keskitytty siihen resurssipuoleen, mikä ei tietenkään ole vähäpätöistä.
+
+Tämä laajempi turvallisuusnäkemys näkyi, niin kuin jo sanoin, heti alkulauseissa, joissa
+todettiin, että sisäinen turvallisuus on demokratian ja hyvinvointiyhteiskunnan kivijalka.
+Minun mielestäni sen tulisi olla toisinpäin elikkä meillä sisäinen turvallisuus on sitä parem-
+pi, mitä paremmin meillä demokratia toimii ja miten paljon paremmin meillä hyvinvoin-
+tiyhteiskunta ja sen palvelut ovat toiminnassa. Tämähän oikeasti näkyy aina, kun ihmisiltä
+kysytään, mikä heidän turvattomuuttaan aiheuttaa. Suurimmalle osalle ihmisistä ne ovat
+työttömyys, osattomuus, eriarvoistuminen, syrjäytyminen. Siitä arjesta se ihmisten turvat-
+tomuus lähtee.
+
+Ei ollenkaan ole vähäpätöistä, että meillä turvallisuusympäristön sanotaan muuttuneen.
+Näin varmaan on, ja ihmisten medialukutaito on tietenkin yksi näkökulma, minkä kautta
+sitä tietoa enemmän ja enemmän tulee, ja sitten sen seulominen on aika hankalaakin. Kui-
+tenkin täytyy muistuttaa, että kun katsotaan maailmanlaajuisesti, niin kuolleiden ihmisten
+määrä sodissa, terrorismissa, väkivallassa on vähentynyt maailmanlaajuisesti, Euroopan
+laajuisesti ja Suomessa. Väkivaltaisten kuolemien määrä Suomessa on vähentynyt. Ryös-
+töjen määrä Suomessa on vähentynyt. Mutta se ei tarkoita sitä, että tehtävä olisi tehty, kos-
+ka niitä yhä edelleenkin on, mutta pitää muistaa, että vaikka joskus tuntuu, kun mediaa kat-
+soo ja kuulee, että tilanne olisi mennyt paljon pahempaan suuntaan, niin näin ei ole vaan
+Suomi on varsin turvallinen maa.
+
+Suomessa on yksi poikkeuksellinen näkökulma, kun katsoo vaikkapa muita Pohjoismai-
+ta. Meillä alkoholisidonnaiset rikokset ovat moninkertaiset liittyen sekä väkivaltaan että
+ryöstöihin ja muihin, ja ne näkyvät myöskin sitten siellä sosiaali- ja terveyspuolella. 70
+prosenttia niistä ihmisistä, jotka tulevat esimerkiksi poliisien viemänä ongelmatilanteissa
+päivystykseen, on päihtyneitä. Poliisien viikonloppu olisi aivan toisen näköinen, jos meil-
+32
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+lä olisi vähemmän viinanjuontia. Tästä syystä kysymys alkoholilain tulevasta muutoksesta
+on tietoinen riski siitä, että poliiseja tarvitaan lisää, niin kuin ministeri sanoi, mutta se tar-
+koittaa myöskin lisää väkivaltaa, se tarkoittaa lisää perheiden ongelmia, se tarkoittaa lisää
+yksinäisiä lapsia ilman ruokaa. Tämä on valitettavaa, ja tämän kertovat poliisit ennen kuin
+sosiaalityöntekijät.
+
+Näistä resurssihuolista, jotka ovat niin sanottua kovan turvallisuuden osuutta, on hallin-
+tovaliokunta yhteisesti näinä vuosina, kun olen pari vuotta saanut itse olla siellä mukana,
+ollut yhtä mieltä ja lausunut kaikkien, siis poliisien, Hätäkeskuksen, pelastuslaitoksen, Ra-
+jan ja Tullin, osalta resurssitarpeen muutoksista. Tähän liittyy se, että tämä kuuluisa PTR-
+yhteistyö, elikkä poliisin, Tullin ja Rajan, on nyt tullut siihen tiensä päähän näillä resurs-
+seilla, että tämä työmalli heikkenee, jollei resursseja saada lisättyä.
+
+Tähän on uutena otettu kolme asiaa, kun meillä on jonkun verran näissä yhteneväisyyt-
+tä, kun puhutaan kyberrikollisuudesta, kun puhutaan informaatiovaikuttamisesta, kun pu-
+hutaan hyperrikollisuudesta, elikkä kaikkea tätä sekaisin, mutta se on uusi ala, johonka
+ihan varmaan tarvitaan uutta lainsäädäntöä. Me joudumme itse sen vaikutuksen alaisiksi
+moneen kertaan varmaankin huomaamattamme, ja siihen liittyy tietysti myöskin tämä tie-
+dustelulainsäädäntökysymys — se varmaankin tarvitaan, mutta minkälaisilla pelisäännöil-
+lä, siihen joudutaan varmaan vielä palaamaan tässä.
+
+Sanon vielä viimeisenä asiana sen, että meillä on erilainen näkemys tässä salissa Tullin
+paikasta, sillä sosiaalidemokraattien näkemyksen mukaan Tulli on yhä edelleen ensisijai-
+sesti meidän ulkomaankauppaa hoitava viranomainen eikä ensisijaisesti rikoksentorjuntaa
+hoitava viranomainen. Tämä on kaikissa maailman maissa näin, kahta pientä, olivatko ne
+Oman ja Bahrain, lukuun ottamatta. Tulli ei ole pelkkä rikoksentorjuja vaan osa meidän ul-
+komaankauppaamme.
+
+19.14 Kari Tolvanen kok:  Arvoisa herra puhemies! Tämä kokonaisturvallisuushan on
+hyvin laaja-alainen käsite, ja voi sanoa, että siihen turvallisuuden tuottamiseen osallistuvat
+kaikki kansalaiset, yhdistykset, yritykset, totta kai myös viranomaiset. Joskus voisi sanoa,
+että toimiva sosiaalipolitiikka on parasta kriminaalipolitiikkaa — se kuvastaa hyvin, mikä
+on se turvallisuus laaja-alaisesti. Minun mielestäni sen takia on täysin perusteltua, että
+tämä selonteko, mikä nyt tehtiin, tehtiin tarkasti rajaten sisäministeriön alaisuuteen, koska
+muuten tätä selontekoa tehtäisiin vieläkin. Maailma muuttuu niin kovaa vauhtia, että se se-
+lonteko olisi historiaa jo valmistuessaan. On tärkeää, että tulevassa strategiassa ja siinä toi-
+meenpanossa käsitellään laajemmin asioita, niin kuin minun tietojeni mukaan nyt käsitel-
+läänkin. Se on todella tärkeätä. 
+
+Nyt kun tuossa puhuttiin resursseista: 
+Resurssien pitää olla kaikilla viranomaisilla — puhutaan sitten pelastusviranomaisista,
+
+Hätäkeskuksesta, Tullista, Rajasta, poliisista — sellaiset, että nämä viranomaiset pystyvät
+turvaamaan kansalaisten turvallisuuden. Turvallisuus ja oikeudenhoito on tämän yhteis-
+kunnan kivijalka, sanon sen näin päin. Se on meidän demokratiamme jalka, mutta se on
+myös ihan meidän maineemme tuolla maailmalla ja turismin ja yritystoiminnan kannalta
+erittäin tärkeä. Siksi — myös siksi — meidän on satsattava tähän sisäiseen turvallisuuteen,
+totta kai ensisijaisesti kansalaisten turvallisuuden kannalta. 
+
+Nyt ollaan kipurajalla selkeästi, sen takia, että tämä toimintaympäristö on muuttunut to-
+della paljon. Itse asiassa tutkimusten mukaan ihmiset pelkäävät entistä enemmän. Vielä
+viime vuoden loppuun asti kokonaisrikollisuuden määrä laski, toki oli nousua esimerkiksi
+33
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+seksuaalirikoksissa lähes 500 prosenttia ja maksuvälinerikoksissa tai petosrikoksissa hy-
+vin huomattavasti, mutta nyt on ikävä kyllä lähtenyt viimeisten tilastojen mukaan myös ko-
+konaisrikollisuuden määrä nousuun. Se on ikävä asia. Pelkotilat ja todellisuushan eivät
+aina kulje käsi kädessä, ja ihmiset todella pelkäävät tuoreiden tutkimusten mukaan, mutta
+turvallisuudentunnetta useimmiten lisää kuitenkin, että omat asiat ovat kunnossa, perheen
+asiat ovat kunnossa, työasiat ovat kunnossa. Mutta kyllä siellä sitten aika äkkiä tulee se pa-
+lomies, poliisi ja rajavartija — se, että heitä on riittävästi turvaamassa näitä tiukkoja paik-
+koja. Poliiseja tarvitaan lisää ihan senkin takia, että kun ihmisiltä viedään vaikka polkupyö-
+rä, niin poliisilla olisi aikaa tutkia se juttu. Jos näitä ei tutkita, semmoinen oikeudentunto
+murenee. Nämä ovat tärkeitä asioita.
+
+Sitten kun mennään tämmöiseen kovaan turvallisuuteen, niin totta kai siihenkin tarvi-
+taan resursseja, koska pahimmillaan — siis pahimmillaan, mitä ei todennäköisesti tule ta-
+pahtumaan — ensimmäinen tämmöisen vakavan hybridi-iskun vastaanottaja on poliisi tai
+rajavartija ja vasta sen jälkeen Puolustusvoimat, jos ne saadaan enää toimintakykyiseksi.
+Lainsäädännön pitää olla kohdallaan, että tämmöistä yllättävää iskua ei tapahdu. Siksi,
+vaikkakin perustuslakia nyt tässä testataan, tiedustelulainsäädäntö pitää saada mahdolli-
+simman nopeasti toimeen. Sen olisi pitänyt olla jo kymmenen vuotta sitten toiminnassa,
+kun tosiasia on, että meilläkin jonain päivänä joku vakava rikos jälleen tapahtuu. Meille on
+tullut kaikki paha maailmalta, myöhässä ja pienempimuotoisena. Se lähti aikoinaan huu-
+meista, sen jälkeen tulivat järjestäytynyt rikollisuus, rikollisjengit, kouluampumiset, kun-
+niaväkivalta ja erilaiset pommi-iskut, niin kuin Myyrmanni. Siksi pitää olla tämmöinen
+lainsäädäntö, että pystytään pelastamaan ihmishenkiä. Tosiasiahan on, että täällä viime
+vaalikaudella hyväksyttiin laki henkeen tai terveyteen kohdistuvan vakavan rikoksen val-
+mistelun kriminalisoinnista. Sitä vastustettiin aika ajoin hyvinkin kiivaasti, mutta osittain
+sen takia on pystytty pelastamaan ihmishenkiä: kouluampumisia on estetty ja sen lisäksi on
+myös Helsingin yliopistoon kohdistunut isku estetty. Tiedustelulainsäädännössä on ihan
+nämä samat elementit. 
+
+Viranomaiset pitää resursoida riittävästi, ja toiminnan pitää olla yhteensopivaa ja jouhe-
+vaa myös Tullin osalta — Tulli on tärkeä viranomainen monessa mielessä. Mutta kuten
+tuossa jo lyhyesti sanoin: pitäisikö meidänkin katsoa pikkasen peiliin? Ensinnäkään minis-
+teriörakennehan ei kokonaisturvallisuutta tue missään määrin, emmekä me eduskunnassa-
+kaan. Meillä on turvallisuusasiat hajautettu moniin eri valiokuntiin, että olisiko aihetta tääl-
+läkin se turvallisuusvaliokunta perustaa, ja se voisi miettiä kokonaisturvallisuutta?
+
+19.20 Teuvo Hakkarainen ps: Arvoisa puhemies! Tuosta vihapuheesta sen verran, että
+nykyään siitä hyvin herkästi saa lapun käteen. Mutta minäpä otan esimerkin: Niin sanottu-
+na suomettumisen aikana jos arvosteli Neuvostoliittoa, sai kimppuunsa toimittajat mutta ei
+oikeuslaitosta. Jos kertoi muun muassa desanttien tekemistä rikoksista, raiskauksista, mur-
+hista, media ainoastaan kertoi, että tämä ei pidä paikkaansa, vaikka kansalaiset tiesivät.
+Nykyään vastaavista saa tuomion kyllä — lappu käteen, että lätkähtää.
+
+Keskustelimme sisäisen turvallisuuden selonteosta myös viime toukokuussa. Lainaan
+otteita puheesta, jonka silloin pidin: "On selvää, että suurin uhka Suomen sisäiselle turval-
+lisuudelle on islamisaation eteneminen. Jokaisessa länsimaassa se on merkinnyt rikollisuu-
+den kasvua ja kantaväestön keskinäisen vastakkainasettelun lisääntymistä ja jyrkentymistä
+ja tietenkin yhä nousevia veroja ja maksuja siivestäjien elättämisen kattamiseksi. Suomes-
+34
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+sa on kateissa tuhansia turvapaikkaturisteja. Tulevaisuus tulee olemaan erittäin synkkä, jos
+tämä jatkuu. Rajat kiinni, ja paras eriste islamisaatiolle on piikkilanka." Näin totesin.
+
+Arvoisa puhemies! Surullisena totean, että tilanne ei ole tuosta melkein vuoden takaises-
+ta keskustelusta muuttunut kuin pahempaan suuntaan. Dublin-sopimusta ei edelleenkään
+noudateta, ja länsiraja vuotaa seulana, eikä laittomasti maassa notkuvia saada poistettua
+tarpeeksi nopeasti ja tehokkaasti. Monet EU-maat ovat ottaneet rajatarkastukset käyttöön,
+ainakin väliaikaisesti. Meidän länsirajallamme tulisi tehdä sama kiireellisesti, etenkin kun
+tähän aikaan vuodesta tulijavirta todennäköisesti kiihtyy kiihtymistään.
+
+Toissa päivänä Suomen Uutiset julkaisi artikkelin, jossa kerrottiin, että Ruotsin verovi-
+raston selvityksen mukaan jopa puolella turvapaikanhakijoista on useampi kuin yksi hen-
+kilöllisyys. Joissakin tapauksissa on kyse tarkoituksellisesta viranomaisen harhauttamises-
+ta. Kun ylimääräinen henkilöllisyys on syntynyt, sen olemassaolo vaikeuttaa viranomais-
+ten tehokasta toimintaa ja henkilöllisyyttä on mahdollista käyttää rikolliseen toimintaan.
+Jutussa todettiin, että turvapaikanhakijoiden useat henkilöllisyydet nousivat Ruotsissa kes-
+kustelun kohteeksi Tukholman terroriteon jälkeen. Iskusta epäillyllä Rahmat Akilovilla oli
+useita henkilöllisyyksiä, ja niiden avulla hänen onnistui vältellä maasta poistamisen toi-
+meenpanoa. Joku muu on myös tehnyt töitä Akilovin henkilöllisyydellä. Artikkelin mu-
+kaan tämä vihjaa siihen, että henkilöllisyydet ja niihin liittyvät työluvat ovat kauppatava-
+raa. Manner-Euroopassa on raportoitu tapauksista, joissa turvapaikanhakijalla on ollut jopa
+yhdeksän eri henkilöllisyyttä. On turhaa ja lapsellista kuvitella, että meille tulisi samoista
+lähtömaista jollakin tapaa rehellisempää ja kunnollisempaa väkeä kuin esimerkiksi Ruot-
+siin, Saksaan tai Ranskaan. Ei muuten tule.
+
+Arvoisa puhemies! Ei voi eikä saa olla niin, että kuka tahansa, mistä tahansa ja ties millä
+henkilöllisyydellä voi vain astua laivaan ja tulla tupsahtaa tänne. Meidän on opittava mui-
+den maiden virheistä ja suojeltava omaa kansaamme.
+
+19.25 Kari Kulmala ps: Arvoisa puhemies! Olisi tärkeää pitää sisäisen turvallisuuden
+ketjun ensimmäinen lenkki vahvana. Sisäisen turvallisuuden selonteossa todetaan: "Hätä-
+keskustoiminta on yksi tärkeimmistä toiminnoista, jotka vaikuttavat suoraan luottamuk-
+seen viranomaisia ja yhteiskuntaa kohtaan." Kun lukee tämän vuoden talousarvion lukuja
+ja Hätäkeskuksen niukkenevia resursseja, ei voi kuin ihmetellä tapaa, jolla Suomen valtio
+yrittää ylläpitää edellä mainittua luottamusta. Vastuu on meillä päättäjillä.
+
+Hätäkeskuslaitoksen henkilöstömäärä on vähentynyt vuosien 2011—2015 aikana 763
+henkilöstä noin 600:aan. Rahoituskehysten puitteissa henkilöstömäärä on jatkanut alene-
+mistaan. Hätäkeskuslaitos joutuu jatkamaan myös vuonna 2017 sopeutustoimia sekä lyk-
+käämään investointeja aiempien säästöpäätösten perusteella. Hätäkeskuslaitoksen Strate-
+gia 2016—2020:n tavoitteena on muodostaa Suomeen yksi virtuaalinen hätäkeskus, joka
+toimii useassa toimipisteessä. Tämä edellyttää toimivia tietojärjestelmiä. Myönteistä on-
+kin, että pitkään työn alla ollut hätäkeskusuudistus on loppusuoralla painopisteen ollessa
+tällä hetkellä hätäkeskustietojärjestelmä Erican käyttöönotossa. Hätäkeskusuudistuksen ja
+uuden verkottumaan kykenevän hätäkeskustietojärjestelmän myötä nykytasoinen hätäkes-
+kustoiminta edellyttää vähintään noin 600 henkilötyövuoden henkilöstötasoa. Tuleva mal-
+li tarkoittaa käytännössä sitä, että yksittäinen hätäkeskuspäivystäjä ottaa jatkossa vastaan
+puhelun mistä tahansa Suomesta. Tällaiseen toimintaan sisältyy totta kai mahdollisuuksia
+mutta myös uhkia. Yksittäisen hätäkeskuspäivystäjän kannalta katsottuna täytyy vain toi-
+voa, että vastuiden kohdentaminen on eri tilanteissa otettu huomioon. Vahingon sattuessa
+35
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+ei ole oikein, että hätäkeskuspäivystäjä on yksin vastaamassa syytöksiin. Odotukset suun-
+tautuvatkin erityisesti perustettavan johtokeskuksen suuntaan. Näyttäisi siltä, että Hätäkes-
+kuslaitos pystyy selviämään tästä vuodesta viime vuodelta siirtyvien säästöjen avulla. Mei-
+dän päättäjien tulee huolehtia jatkossa, että toiminta säilyy moitteettomana.
+
+Arvoisa puhemies! Vielä hieman poliisiasioita. Yhtenä poliisin painopisteenä on vuon-
+na 2017 väkivaltaisen radikalisoitumisen ja ekstremismin ehkäisyn liittäminen osaksi po-
+liisin ennalta estävää toimintaa. Keskeisenä huolenaiheena on erityisesti Syyrian konflik-
+tin vaikutusten ulottuminen maahamme. Suurimman uhkan muodostavat radikaalit isla-
+mistisesti motivoituneet yksittäiset toimijat ja pienryhmät, jotka ovat käyneet Syyrian tais-
+telualueilla. Terrorismille jollakin tavalla myötämielisten henkilöiden kokonaismäärä on
+noussut Suomessa jo noin 350 henkilöön. Suojelupoliisi on tällä hetkellä toimintaympäris-
+tön muutoksesta johtuen aliresursoitu. Mikäli halutaan, että suojelupoliisi kykenee suoriu-
+tumaan tehtävistään, tulee viraston resursseja pitkäjänteisesti parantaa. Toiminnalle on tär-
+keää, että tiedustelulainsäädäntö saadaan päivitettyä mahdollisimman pian. Arvoisa minis-
+teri: onko meillä toiveita, että tiedustelulainsäädäntö saadaan pikaisesti maaliin saakka?
+
+19.29 Sami Savio ps: Arvoisa puhemies! Vaikka valtioneuvoston selonteko sisäisestä tur-
+vallisuudesta on omalla tavallaan joiltain osin varsin karua luettavaa, se antaa kuitenkin
+hyvän katsauksen nykyisistä turvallisuusuhista. Laajamittainen maahantulo, kansainväli-
+nen terrorismi ja väkivaltaiset ääriliikkeet ovat nyt teemoina ajankohtaisempia kuin kos-
+kaan varsinkin naapurimaissamme tapahtuneiden erittäin ikävien terrori-iskujen jälkeen,
+joihin edustaja Ruoho edellä viittasi. On hyvä, että nämä mainitut uhat on sanottu ääneen
+selonteossa ja näin meillä on tilaisuus niiden torjumiseen.
+
+Poliisin ja Rajavartiolaitoksen resurssien jo kauan jatkunut väheneminen on vaikuttanut
+turvallisuusviranomaisten toimintaedellytyksiin. Korjaaviakin toimenpiteitä on onneksi
+saatu aikaiseksi, kuten poliisikoulutuksen määrän lisääminen. Niukat resurssit on tietysti
+käytettävä kustannustehokkaasti myös turvallisuuden saralla.
+
+Vastauksena lukuisiin sisäisen turvallisuuden uhkiin hallituksen turvapaikkapoliittinen
+toimenpideohjelma tulee toteuttaa täysimääräisesti ensi tilassa. Se tarkoittaa muun muassa
+palautuskeskusten perustamista kielteisen päätöksen saaneille turvapaikanhakijoille. Sa-
+moin tiedustelulainsäädäntöön kaavaillut muutokset tulee viedä kiireesti maaliin. 
+
+Arvoisa puhemies! Tiedustelulainsäädäntöhankkeiden taustalla ei ole halu rajoittaa kan-
+salaisten yksityisyyttä, vaikka näinkin on joissain yhteyksissä väitetty. Toteutuessaan tie-
+toliikennetiedusteluun on kuitenkin liitettävä riippumaton lupamenettely ja riippumaton
+valvontajärjestelmä oikeusturvan varmistamiseksi. 
+
+Arvoisa puhemies! Toivon lopuksi, että sisäisen turvallisuuden selonteossa mainittuihin
+uhkiin suhtaudutaan [Puhemies koputtaa] kaikissa eduskuntaryhmissä asiaan kuuluvalla
+vakavuudella.
+
+19.31 Teuvo Hakkarainen ps: Arvoisa puhemies! Hallitus tekee kaikkensa, jotta Suomi
+saataisiin taas kasvu-uralle, ja siitä onkin lupaavia merkkejä. Oppositiolle eivät tunnu mit-
+kään hallitukset toimet kelpaavan, mutta maahanmuuttoa halutaan lisää eikä edes laitto-
+masti eli rikollisesti täällä maleksivia saisi palauttaa. Haittamaahanmuuton negatiiviset
+seuraukset meillä ja muualla ovat kiistattomat. Kaikille sektoreille, kuten nyt puheena ole-
+vaan sisäiseen turvallisuuteen, se merkitsee yhä kasvavia kuluja. Koska opposition mieles-
+tä mistään ei sovi leikata, kysynkin sieltä vasemmalta laidalta nyt: mistä nuo rahat otetaan?
+36
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+Olen tätä useasti täällä kysynyt, koskaan en ole saanut vastausta. Eikä kyse ole pelkästään
+rahasta: Turvallisuutta ja turvallisuuden tunnetta ei voi ostaa. Kun ne järkkyvät, niitä on
+vaikea tai mahdoton palauttaa. 
+
+Hallitus julkaisi joulukuussa 2015 turvapaikkapoliittisen toimenpideohjelmansa. Ohjel-
+ma on pitkälti perussuomalaisten käsialaa. Siellä lukee muun muassa näin: "Mikäli Dublin-
+järjestelmän toimivuutta ei kyetä palauttamaan, hallitus valmistautuu poikkeuksellisiin
+kansallisiin toimiin vastaavien vaikutusten varmistamiseksi. Palautamme niin sanotut
+Dublin-tapaukset välittömästi. Perustamme tarvittaessa uusia järjestelykeskuksia sekä ma-
+joitamme turvapaikanhakijoita myös teltta- ja konttimajoitukseen. Järjestelykeskuksessa
+vietetystä ajasta ei makseta vastaanottorahaa eikä muita sosiaalietuuksia." Toimenpideoh-
+jelma on erittäin hyvä, mutta liikaa on tuhrattu aikaa sen toimeenpanemiseen. Nyt ohjel-
+maa on alettava noudattaa viimeistä kirjainta myöten. 
+
+Arvoisa puhemies! Meillä on huolestuttavan suuri joukko kantasuomalaisia, erityisesti
+nuoria miehiä, jotka ovat pudonneet yhteiskunnan normaalitoimintojen ulkopuolelle.
+Tämä kehitys on jatkunut jo pitkän aikaa, joten siitä on punavihreiden turha nykyhallitusta
+syyttää. Helsingin Sanomissa julkaistiin viime vuonna 15. toukokuuta artikkeli otsikolla
+Yksin jääneet. Siinä kerrottiin, että Suomessa oli vuonna 2014, eli jo ennen tätä massiivis-
+ta maahanmuuttovyöryä, Tilastokeskuksen mukaan 155 kuntaa, joissa nuorten aikuisten
+sukupuolijakautuma oli vähintään yhtä epätasapainossa kuin Kiinassa. Miltä mahtavat lu-
+vut näyttää nyt, kun tänne on tullut kymmeniätuhansia turvapaikkaturisteja, joista ylivoi-
+mainen enemmistö on nuoria miehiä? Lisäksi, jos työhaluttomille ja kielitaidottomille tur-
+vapaikkaturisteille avautuu ohituskaistoja esimerkiksi asuntojonoissa, vastakkainasettelu
+kasvaa ja kärjistyy. Sitä ei varmasti kukaan toivo. Suomalaisten asioita on hoidettava en-
+sin, ja maailmanparantamista voidaan harrastaa, jos jää aikaa ja rahaa. 
+
+19.36 Kari Kulmala ps: Arvoisa puhemies! Hieman tässä lopuksi vielä Rajavartiostosta:
+Valtiovallan ehdoton päätehtävä on huolehtia yhteiskunnan ja sen kaikkien jäsenten tur-
+
+vallisuudesta. Keskeinen tehtävä on rajavalvonta ja se, keitä maahan päästetään ja millä eh-
+doilla, ja myös se, miten kauan maassa voi olla laittomasti ja miten lainvoimaisen kieltei-
+sen turvapaikkapäätöksen saaneiden palautukset pystytään toteuttamaan.
+
+Rajavartiolaitoksen henkilöstöä on vähennetty 1990-luvun alusta noin neljännes. Tä-
+män johdosta toimintaa on kehitetty muun muassa hankkimalla valvontatekniikkaa, myy-
+mällä kiinteistöjä, lisäämällä liikkuvuutta sekä virtaviivaistamalla ja automatisoimalla ra-
+jatarkastusprosessia.
+
+Rajavartiolaitoksessa on yhä käynnissä edellisen hallituksen antama huomenlahja, ta-
+louden sopeuttamisohjelma, jolla toimeenpannaan vuosina 2011—2012 tehtyjä säästöpää-
+töksiä. Säästöpäätösten toimeenpanemiseksi laadittu vuoden 2012 sopeuttamisohjelma on
+suunniteltu suotuisamman turvallisuustilanteen vallitessa. Euroopan turvallisuustilanne ja
+Suomen rajaturvallisuustilanne ovat kuitenkin muuttuneet huonompaan suuntaan, eikä va-
+loa asian suhteen ole näkyvissä. Hallitusohjelmassa osoitettu laskennallinen sisäisen tur-
+vallisuuden lisämääräraha Rajavartiolaitokselle riittää kattamaan vain edellisen hallituk-
+sen vuoden 2014 aikana tehdyt lisäleikkaukset.
+
+Hallitus on linjannut sisäisen turvallisuuden selonteossa huolehtivansa itärajan perusta-
+son valvonnasta ja tämän tason saavuttamiseksi kohdentavansa itärajan valvontaan yhteen-
+sä 160 rajavartijan lisäyksen. Tämä määrä riittää kuitenkin vain perustason valvontaan. Se
+37
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+ei mahdollista reagointia pitkittyviin tai useilla toimintasuunnilla samanaikaisesti tapahtu-
+viin poikkeamiin.
+
+Säästöohjelman leikkaukset heikentävät oleellisesti myös Rajavartioston mahdollisuuk-
+sia hoitaa viranomaistehtäviä. He ovat hoitaneet vuosittain esimerkiksi noin 600 poliisiteh-
+tävää ja noin 1 300 etsintä- ja pelastustehtävää maa-alueilla. Suurin osa näistä tehtävistä jää
+vastaisuudessa muiden viranomaisten hoidettavaksi tai hoitamatta, ja se on erittäin valitet-
+tavaa. He joutuvat säästämään jatkossa myös työterveyshuollossa, mitä ratkaisua en pidä
+millään tavoin suotavana.
+
+Arvoisa puhemies! Ihan tähän lopuksi haluan kiittää, että tällainen selonteko Suomen si-
+säisestä turvallisuudesta on tehty. Tämä on ainutlaatuinen. Ja kiitän myös ministeriä siitä,
+että olette jaksanut olla täällä koko tämän iltapäivän meidän kanssamme.
+
+Toinen varapuhemies Arto Satonen: Ministeri Risikko, 5 minuuttia.
+
+19.39 Sisäministeri Paula Risikko: Arvoisa puhemies! Tämä on ollut todella hyvä kes-
+kustelu, mikä täällä tänään illalla on käyty. Kyllä turvallisuus on saanut täällä tukea, ja
+mikä ettei, sehän on meidän jokaisen perustarve. Voimme olla hyvin tyytyväisiä siihen,
+että Suomi on yksi maailman turvallisimmista maista, mutta samalla tämä keskustelu
+osoittaa sen huolen, että turvallisuusympäristö on muuttunut ja sisäinen ja ulkoinen turval-
+lisuus ovat limittyneet toisiinsa, ja meille ei ole mitenkään selkeää, mikä on sitä sisäistä tur-
+vallisuuden tekoa ja mikä on sitä ulkoista. Uhat erityisesti ovat sekoittuneet niin, että pal-
+jon tapahtuu täällä Suomen sisäpuolella mutta sillä on ulkomainen lähtökohta.
+
+Tärkeää on se, että meillä on yhteinen tilannekuva. Siitä puhutaan paljon, että päättäjillä
+pitää olla yhteinen tilannekuva, ja minä olen hyvin iloinen, että kun olen teitä kuunnellut,
+niin olen tullut vakuuttuneeksi siitä, että teillä ja meillä on yhteinen tilannekuva. Me hais-
+tamme ja näemme ne tulevaisuuden uhkat ja me näemme ne monipuoliset uhkat, mitä tällä
+hetkellä on.
+
+Tärkeä asia, mistä meidän pitää sitten pitää kiinni, on toimivaltuudet, eli toimivaltuudet
+siihen, että meillä on myös oikeus ja mahdollisuus toimia. Sitten toinen kehittämisen koh-
+de on suorituskyky. Elikkä kaikki ei riipu siitä, onko meillä kuinka paljon rahaa. Meillä pi-
+tää olla sitä suorituskykyä, sitä osaamista, ja siinä meidän pitää sitten koulutukseen ja täy-
+dennyskoulutukseen nimenomaan satsata. Toimivaltuuksista totean vain sen verran, että
+lainsäädäntötoimillahan ne tietysti aina hoidetaan. Sitten ovat tietysti nämä taloudelliset re-
+surssit, jotka ovat olleet hyvin tiukoilla kaikilla sektoreilla. Ja jälleen kerran käymme ensi
+viikolla niistä keskustelua.
+
+Me tarvitsemme rahan lisäksi todella osaamista, sitä resilienssiä, ja sen lisäksi me tarvit-
+semme hyvää yhteistyötä toimijoiden kanssa ja työnjakoa. Olen hyvin paljon käynyt kes-
+kustelua siitä, mitä esimerkiksi poliisien työhön kuuluu, kun puhutaan esimerkiksi juopu-
+neiden kuljetuksesta ja sitten myöskin säilöönotosta. Minä ymmärrän oikein hyvin sen,
+kun olen keskustellut meidän asiantuntijoidemme kanssa, että varmasti se kuljetus on sel-
+lainen asia, että kun se poliisi kuitenkin aina sinne hälytetään paikalle, niin samassa sitten
+kuljettaakin. Sitten tähän liittyy myöskin tällaisia oikeudellisia ulottuvuuksia, itsemäärää-
+misoikeuteen ja perustuslaillisiin oikeuksiin. Mutta entäs sitten se säilöönotto ja säilyttä-
+minen: onko oikeasti niin, että kaikki, jotka ovat niin sanotusti rauhallisesti juopuneita,
+kuuluvat todella sitten putkaan? Mielestäni eivät, ja nyt meidän pitääkin satsata nimen-
+omaan selviämisasemien perustamiseen, ja hallituskin on jo aikoja sitten katsonut, että ne
+38
+
+
+
+Pöytäkirjan asiakohta PTK 40/2017 vp
+olisivat tärkeitä. Ymmärrän senkin, että kunnissa ja maakunnissa tämä ei ole aivan kovin
+hyvin mennyt liikkeelle, mutta toivon, että kun tulevat maakunnat tulevat, niin me todella
+saamme näitä selviämisasemia sitten enemmän, koska se olisi se paras ratkaisu tässä.
+
+No, mitä me teemme tuolla sisäministeriössä? Meillä on paljon meneillänsä, vaikka tie-
+dänkin, että tämä on monisektoraalista ja yhteistyötä tehdään muitten ministeriöitten kans-
+sa. Meillä on puolustusministeriön ja ulkoministeriön kanssa erinomaisen hyvä yhteistyö,
+samoin sosiaali- ja terveysministeriön kanssa tämän terveysturvan suhteen, ja oikeusminis-
+teriötä toki tarvitaan siinä, että tämä lainsäädännöllinen puoli on hyvä. Mutta ihan sellaisia
+konkreettisia asioita: Me satsaamme tuohon ennaltaehkäisyyn, varhaiseen puuttumiseen,
+syrjäytymisen estämiseen, ja näitä esimerkiksi ovat Ankkuri-malli, mistä äsken tuossa pu-
+heessani puhuin, ja myöskin tämä Radinet-toiminta eli miten nämä radikalisoituneet ja
+nämä vierastaistelijat saadaan taas niin sanotusti yhteiskunnan jäseniksi. Siinä me teemme
+paljon työtä järjestöjen kanssa.
+
+Tiedustelulainsäädännössä, mikä täällä jo mainittiinkin, olen aivan samaa mieltä kom-
+mentoijien kanssa nopeutetusta etenemisestä, kannatan itsekin sitä. Ymmärrän sen, että sii-
+hen halutaan nyt tutustua, ja niin pitääkin, koska yksityiskohdat ratkaisevat. Nyt, kun lau-
+suntokierrokselta saadaan palautteet, niin korjauksia varmasti tehdään, mutta millaisia, sitä
+emme tiedä. Mitä kaikkia resursseja se sitten tarvitsee, riippuu siitä, kuinka paljon tiedus-
+telulainsäädäntöön jää toimia. Nämä kaikki katsotaan tässä vielä ennen kuin se tänne edus-
+kuntaan tulee.
+
+Pelastustoimen uudistus etenee. 
+Rajavartioston toimet: täällä puhuttiin siitä, että itäraja tarvitsee väkeä Rajaan.
+Sitten nämä EU-velvoitteet: No, poliisin toimintavaltuuksien lisääminen esimerkiksi
+
+huumetilanteissa, huumeiden etsinnässä, on tänään teille tänne eduskuntaan jo siirtynyt-
+kin. EU:n hallittua maahanmuuttopolitiikkaa peräänkuulutan, ja siitä Suomi monta kertaa
+tuolla EU:n areenoilla puhuukin, että nyt kaikkien maitten pitää hoitaa hommansa ja Tur-
+kin pitää pitää sopimuksensa, jotta me pystymme hallitsemaan tätä maahanmuuttotilannet-
+ta. — Kiitos.
+
+Keskustelu päättyi.
+
+Eduskunta hyväksyi valiokunnan ehdotuksen kannanotoksi valtioneuvoston selonteon
+VNS 5/2016 vp johdosta. Asian käsittely päättyi.
+39
+
+

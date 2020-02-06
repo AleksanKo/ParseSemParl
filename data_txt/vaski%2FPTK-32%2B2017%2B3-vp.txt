@@ -1,0 +1,747 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMF711.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 32/2017 vp
+
+Täysistunto
+
+Torstai 30.3.2017 klo 15.58—18.43
+
+3. Hallituksen esitys eduskunnalle laiksi liikenteessä käytettävien vaihtoehtoisten polttoai-
+neiden jakelusta
+
+Hallituksen esitys HE 25/2017 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Arto Satonen: Lähetekeskustelua varten esitellään päiväjärjestyk-
+sen 3. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja viestintävaliokun-
+taan, jolle talousvaliokunnan ja ympäristövaliokunnan on annettava lausunto.
+
+Keskustelu
+
+17.00 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro): Arvoisa her-
+ra puhemies! Käsiteltävänä on esitys laiksi liikenteessä käytettävien vaihtoehtoisten polt-
+toaineiden jakelusta. Ehdotetulla lailla pannaan osaltaan täytäntöön vaihtoehtoisten poltto-
+aineiden infrastruktuurin käyttöönottoa koskeva direktiivi. Direktiivi velvoitti jäsenmaita
+laatimaan myös kansallisen jakeluverkkosuunnitelman liikenteen eri käyttövoimien käy-
+tön edistämiseksi. Suomen suunnitelma hyväksyttiin valtioneuvoston istunnossa 2. päivä
+helmikuuta 2017. 
+
+Nyt annetulla esityksellä pyritään edistämään vaihtoehtoisten polttoaineiden käyttöä lii-
+kenteessä, jotta liikenteen riippuvuutta öljystä voidaan pienentää mahdollisimman paljon
+ja liikenteen haitallisia ympäristövaikutuksia voidaan lieventää. Esityksen tarkoituksena
+on varmistaa yhteiset tekniset vaatimukset vaihtoehtoisten polttoaineiden julkisille lataus-
+ja tankkauspisteille. Lisäksi tarkoituksena on asettaa kriteerit käyttäjille annettavista tie-
+doista, jotka koskevat vaihtoehtoisten polttoaineiden merkintöjä ja hintoja sekä lataus- ja
+tankkauspisteiden maantieteellistä sijaintia.
+
+Lakiehdotuksessa vaihtoehtoisilla polttoaineilla tarkoitetaan polttoaineita tai voiman-
+lähteitä, joilla korvataan ainakin osittain fossiilisen öljyn käyttöä liikenteen energialähtee-
+nä ja joilla on mahdollista parantaa liikenteen ympäristösuorituskykyä. Liikenteessä käy-
+tettäviä vaihtoehtoisia polttoaineita ovat esimerkiksi sähkö, vety, biopolttoaineet, biokaa-
+su, synteettiset ja parafiiniset polttoaineet, paineistettu maakaasu sekä nesteytetty maakaa-
+su ja nestekaasu.
+
+Lain soveltamisalaan kuuluvat julkiset tankkaus- ja latauspisteet. Julkisella tankkaus- ja
+latauspisteellä tarkoitetaan pistettä, johon kenellä tahansa käyttäjällä on vapaa pääsy ja jota
+tarjotaan käyttäjille kaupallisessa tarkoituksessa tai kaupallisen toiminnan yhteydessä.
+Tankkaus- ja latauspiste on julkinen myös, jos toiminnanharjoittaja itse on määritellyt sen
+julkiseksi. Julkisia kaupallisen toiminnan yhteydessä tarjottavia latauspisteitä ovat esimer-
+kiksi pysäköintipalvelun tai kauppakeskuksen pysäköinnin yhteydessä tarjottavat lataus-
+pisteet.
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+Lakiehdotus sisältää vaatimuksia käyttäjille annettavista tiedoista. Lakiehdotuksen mu-
+kaan ajoneuvon käyttäjillä tulee olla saatavilla merkitykselliset, johdonmukaiset ja selkeät
+tiedot siitä, mitä vaihtoehtoista polttoainetta ajoneuvoissa voi käyttää. Nämä tiedot on an-
+nettava moottoriajoneuvon ohjekirjassa, tankkaus- ja latauspisteissä, moottoriajoneuvois-
+sa ja moottoriajoneuvon edustusliikkeissä. Edellä tarkoitetuista tiedoista on käytävä ilmi,
+miten polttoaine tai, jos käytössä on sähköauto, lataustapa täyttää jakeluinfradirektiivin
+liitteen II mukaiset tekniset eritelmät. Lisäksi lainsäädäntöön viedään myös kriteerit vaih-
+toehtoisten polttoaineiden hintojen vertailulle sekä tankkaus- ja latauspisteen sijainnin il-
+moittamiselle.
+
+Pääministeri Juha Sipilän hallituksen hallitusohjelman mukaisesti lailla edistettäisiin
+hallitusohjelman biotaloutta ja puhtaita ratkaisuja koskevan hankkeen tavoitteiden toteutu-
+mista edistämällä uusiutuvan energian ja puhtaan teknologian käytön yleistymistä liiken-
+teen toimialalla.
+
+Arvoisa puhemies! Toivon, että hallituksen esitys saa myönteisen vastaanoton täällä
+eduskunnassa. — Kiitos.
+
+17.04 Hanna Sarkkinen vas: Arvoisa puhemies! Käsiteltävä asia on tärkeä. Ilmaston-
+muutoksen torjunnassa liikenteellä on aivan ensisijainen rooli. Suomen liikenteen pääs-
+töistä 90 prosenttia syntyy tieliikenteestä ja siitä yli puolet henkilöautoista, joten tässä on
+suuri potentiaali saada kasvihuonekaasupäästöt vähentymään. 
+
+Henkilöliikenteen sähköistäminen on väistämätön globaali trendi ja suuri mahdollisuus
+päästöjen vähentämiseen. Polttomoottori saa väistyä sähköautojen tieltä seuraavien vuosi-
+kymmenten kuluessa. Tämä tapahtuu Suomesta riippumatta. Suomessa ratkaistavana on
+nyt lähinnä se, kuinka nopeasti lähdemme kehitykseen mukaan ja otammeko muutoksesta
+irti kaiken mahdollisen hyödyn. Sähköautojen yleistyminen on suuri mahdollisuus myös
+koko energiajärjestelmän kannalta. Sähköautot tuovat mahdollisuuden koko Suomen säh-
+köjärjestelmän tehotasapainon vakauttamiseen. 
+
+Suomi satsaa nyt voimakkaasti liikenteen biopolttoaineisiin ja biopolttoaineisiin ylei-
+sesti. Ne ovat tärkeä siirtymävaihe ja osaratkaisu, mutta isossa mittakaavassa henkilöauto-
+liikenne tulee todennäköisesti sähköistymään. On lyhytnäköistä, jos Suomi laittaa kaikki
+munat samaan koriin ja laiminlyö sähköisen liikenteen kehittämisen eli jos panostetaan
+vain biopolttoaineisiin, kun globaali trendi kuitenkin vie toiseen suuntaan.
+
+Liikenteen sähköistyminen edellyttää toimivaa ja kattavaa latausverkostoa. Latausver-
+koston syntyminen on iso kysymys. Kyseessä on todellinen muna—kana-ongelma. Miksi
+yritys rakentaisi latauspisteen, jos ei ole asiakkaita? Toisaalta, miksi kuluttaja ostaisi säh-
+köauton, jos sitä ei voi ladata? On tärkeää, että maahan saataisiin synnytettyä kattava la-
+tausverkosto.
+
+Hallitus lähtee siitä, että liikenteen vaihtoehtoisia käyttövoimia edistetään markkinaeh-
+toisesti, siis ilman kummempia yhteiskunnan panostuksia. Kysymys kuuluu: Onnistuuko
+sähköautoliikenteen vaatima latausverkoston synnyttäminen alkuvaiheessa täysin markki-
+naehtoisesti, vai tarvitaanko siihen kannusteita? Rakentavatko markkinatoimijat latauspis-
+teitä ennen kuin sähköautoja on? Ja toisaalta, hankkivatko ihmiset sähköautoja ennen kuin
+latauspisteitä on kattavasti?
+
+EU:n direktiivi jakeluinfrastruktuurista ei ota kantaa siihen, mitä keinoja jäsenmailla on
+käytössä infrastruktuurin edistämiseksi. Monet kansalliset keinot ovat käsittääkseni mah-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+dollisia, esimerkiksi taloudelliset tuet, verohelpotukset tai latausinfrastruktuurin edistämi-
+nen julkisten hankintojen kautta.
+
+Ilmastonmuutoksen kannalta seuraavat vuodet ovat ratkaisevia. Siksi meillä ei ole varaa
+jäädä odottelemaan markkinoiden muna—kana-ongelman ratkeamista itsestään vaan val-
+tion tulee aktiivisesti edistää sähkö- ja kaasuautojen lataus- ja tankkauspisteiden rakentu-
+mista.
+
+Arvoisa puhemies! Tarvitsemme siis suuren muutoksen liikkumiskäyttäytymiseemme
+ja autokantaamme, ja siinä vaihtoehtoisten polttoaineiden jakelu on avainasemassa, kun-
+han jakeluverkoston rakentamista tarvittaessa vauhditetaan valtion toimesta. Haluaisinkin
+kysyä nyt, kun ministeri on paikalla, aiotaanko näin tehdä, ja mitä valtio voisi tehdä säh-
+köautojen latausinfrastruktuurin kehittymiseksi alkuvaiheessa, jotta päästäisiin eteenpäin
+tästä muna—kana-ongelmasta.
+
+17.08 Mirja Vehkaperä kesk: Arvoisa herra puhemies! Olemme pakotettuja säästämään
+tai vähentämään liikenteen päästöjä, ja tämä on yksi keino siihen, että vuoteen 2030 men-
+nessä jopa 50 prosenttia olemme vähentäneet liikennesektorilla päästöjä. Mutta päästöjä ei
+vähennetä vain ja ainoastaan tämän lain esityksen muodossa. Me tarvitsemme erilaisia toi-
+mia liikenteen päästöjen vähentämiseen. Polttoaineen sekoitusvelvollisuus bioraaka-ai-
+neen osalta on yksi, jota ollaan jo esitetty ja edistetty. Autokannan uusiminen on myöskin
+yksi osa kokonaisuutta. Julkisten liikennepalveluiden ja palveluverkoston ennen kaikkea
+kehittyminen on yksi asia ja nämä matkaketjut, joilla henkilö- ja tavaraliikennettä yhdiste-
+tään.
+
+Lataus- ja tankkauspisteiden merkitys on hyvin tärkeä, ja edellä edustaja Sarkkinen to-
+tesikin tämän muna—kana-ilmiön, että kumpaa edistämällä pääsemme nopeammin tähän
+päämäärään: silläkö, että jakeluinfraa kehitetään ensin, vai silläkö, että vaihtoehtoisia polt-
+toaineita käyttäviä ajoneuvoja olisi enemmän. Tarvitsemme varmasti rinnakkain molem-
+pia. Siksi oikeastaan voisin ministeri Berneriltä kysyä sitä, kun ministeriön työryhmähän
+jätti jonkunasteisen esityksen siitä, miten sekä valtio voisi julkisilla varoilla tukea sitä ja-
+keluinfran syntymistä että myöskin niin, että yksityiset ovat siinä mukana. Mutta mukaan
+pitää ottaa ehdottomasti myöskin kotitaloudet ja siellä tapahtuvan jakeluinfran kehittämi-
+nen.
+
+17.10 Markku Pakkanen kesk: Arvoisa herra puhemies! Hallituksen esityksessä todella-
+kin kiinnitetään erityistä huomiota polttoainejakeluun ja jakeluverkoston synnyttämiseen
+Suomeen. Vaihtoehtoisia polttoaineita on tällä hetkellä hyvin Suomessa tarjottu, ja tässä
+esityksessä on nostettu niistä muutamia. Itse haluaisin kiinnittää huomiota, niin kuin Sipi-
+län hallitus muutenkin, biopolttoaineitten käyttömahdollisuuksien lisäämiseen, koska sillä
+olisi erityisen hyvä vaikutus kotimaiseen työllisyyteen ja se tukisi hyvin hallitusohjelmaa
+monelta osin. Muita vaihtoehtoja, jo tällä hetkellä hyvin toimivia ratkaisuja, on muun
+muassa maakaasu, jonka jakeluverkkoa pitää myös Suomessa kehittää. Aivan uutena ja
+vielä kovin vähän käytössä olevana on myös vetyvaihtoehto, ja tässä asiassa toivoisin, että
+hallitus tekisi vielä enemmän sen suhteen, mitä vetyautoille tulevaisuudessa kuuluu.
+
+Aivan oleellinen tekstiosa on tässä hallituksen esityksessä sivulla 4, missä kerrotaan,
+että nopein keino liikenteen kasvihuonepäästöjen vähentämiseksi on liikenteen nykyisten
+polttoaineiden korvaaminen uusiutuvilla tai nykyistä vähäpäästöisemmillä polttoaineilla
+tai käyttövoimalla. Mielestäni tässä on tämän hallituksen yksi tärkeimpiä kohtia, ja toi-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+voisinkin, että kun asia valiokuntakäsittelyssä nousee esiin, tähän kiinnitettäisiin erityistä
+huomiota.
+
+17.11 Mikko Alatalo kesk: Arvoisa puhemies! Todellakin lähes 60 prosenttia liiken-
+nepäästöistä syntyy tieliikenteessä, tämä nimenomaan siis henkilöautoliikenteestä. Mutta
+todellakin, rekka-auto- ja rahtipuolella tämä muutoksenteko on haastavampaa. Henkilöau-
+tolla se on nopeampaa. Siellä se on mahdollista, kun päästöistä suurin osa tulee sieltä puo-
+lelta toisaalta — joten tämä on helpompaa. Täytyy olla tässä realisti, kun ajattelemme siir-
+tymistä kuorma-autoissa uusiutuviin polttoaineisiin. Täytyy muistaa Suomen pitkät etäi-
+syydet ja kovat talviolosuhteet. Ne asettavat haastetta myös sähköiselle liikenteelle ja ras-
+kaalle liikenteelle, mutta henkilöautojen osalta uskon, että se on helpompaa.
+
+Saksassa bundesrat on esittänyt, että bensa- ja dieselhenkilöautojen valmistus lopete-
+taan 2030 — maailmalla mennään tähän suuntaan. Siinä mielessä tämä jakeluinfra on tär-
+keää, että voidaan todellakin biopolttoaineita saada. Biopolttoaineet työllistävät todellakin
+myös Suomessa, ja toki täällä on sitten myös nämä maakaasut ja nestekaasut ja biokaasut,
+jotka ovat ehkä jääneet vähän varjoonkin tässä keskustelussa.
+
+Totta kai valtiolla täytyy myös olla mahdollisuutensa tässä, tämä ei ehkä ihan markki-
+naehtoisesti mene. Kiinnittäisin huomiota siihen, että viime kaudella talousvaliokunta pu-
+heenjohtaja Pekkarisen johdolla teki ihan hyvää työtä, siellä oli aika korkea kunnianhimo-
+taso tässä asiassa. 
+
+Tämähän on aika tekninen lakiesitys. Mutta hyvä sinänsä, että asia edistyisi ja ennen
+kaikkea suomalainen autokanta muuttuisi. Sen takia toivoisin myös, että autoverotus nyt-
+kähtäisi eteenpäin, vaikka nyt Liven osalta ei onnistunutkaan, ja että me saisimme meidän
+autokantamme myös todellakin käyttämään näitä vaihtoehtoisia polttoaineita.
+
+17.13 Harri Jaskari kok: Arvoisa puhemies! Tässä on todellakin kysymys sellaisesta uu-
+distuksesta, joka voi mullistaa suomalaista liikennettä ja kenties olla aito pilotti ihan maa-
+ilmanlaajuisessa näkökulmassa. Niin kuin on arvoisan ministerin kanssa keskusteltu, tietyt
+merkittävät autonvalmistajat etsivät pilottimaita eri puolilta maailmaa. 
+
+Tähän liittyykin oikeastaan kysymykseni: Miten arvoisa ministeri näkee, kun puhutaan
+tästä jakeluverkostosta, että pystymmekö löytämään markkinaehtoisen ratkaisun siihen,
+vai pitäisikö siinä olla jonkinlaisia tuettuja elementtejä — niin kuin edustaja Sarkkinen sa-
+noi, että on vähän tällainen muna—kana-reaktio, että kumpaa tulee ensin? Ja sitten, jos se
+ratkaisumalli onkin vaikka autot, sähköautot tai uusiutuvaa energiaa käyttävät, puhtaat au-
+tot, niin mitä keinoja sillä puolella löytyisi? Yhtenähän on keskustelussa otettu sellainen
+ajatusmalli, että vaikka työsuhde-etuna olisi sellainen, että työsuhde-edun hinta olisi huo-
+mattavasti pienempi tai palkan päällä oleva osuus olisi huomattavasti pienempi, kun puhu-
+taan vaikka sähköautoista. Tai sitten on näkymä siitä, että aidosti liikenne on tulevaisuu-
+dessa palvelua, ja sitä kautta ei ainakaan osalla ihmisistä olisi perinteisiä autoja vaan sa-
+malla voisi käyttää vaikka sähkövarastona tai muuna vastaavana taikka uudenmallisena
+jaettuna autona. Minkälaisia vaihtoehtoja ministeri näkee?
+
+17.15 Suna Kymäläinen sd: Arvoisa puhemies! Kysymyksessähän todellakin on luon-
+teeltaan varsin tekninen esitys, jossa tarkennetaan liikenteessä käytettävien polttoaineiden
+jakelun osalta muun muassa jakelun määritelmiä, käytettävyyttä, tietojen ilmoittamista ja
+tarkastusoikeutta. Tämä on varmasti tarpeen. Tiedämme paineet liikenteestä tulevien pääs-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+töjen vähentämiseen ja tarpeen siirtyä yhä vähemmän ympäristöä kuormittaviin polttoai-
+neisiin. Suomi on pitkien etäisyyksien maa, ja siksi on huolehdittava, että vaihtoehtoisilla
+polttoaineilla kulkevien autojen jakeluinfra on siltä osin kunnossa, että näitä autoja voi-
+daan käyttää myös muualla kuin Kehä kolmosen sisällä tai suuremmissa kaupungeissa.
+Siksi on tärkeää, että lainsäädännöllä mahdollistetaan ja edistetään vaihtoehtoisten poltto-
+aineiden saatavuutta. Tämä ei myöskään ole keltään mitään pois, ja esitys varmasti saa mi-
+nisterin toivomalla tavalla valiokunnassa ja täällä eduskunnassa kannustavan ja tarpeeksi
+laajan käsittelyn. 
+
+17.16 Markku Eestilä kok: Arvoisa puhemies! Lienee selviö, että sähköautot nyt alkavat
+tulla nopeasti. Se ei kyllä johdu Suomen lainsäädännöstä eikä suomalaisista pyrkimyksistä
+vaan autonvalmistajien suuresta innokkuudesta. Kysynkin ministeriltä: Missä mennään
+Pohjoismaissa nyt tämän latausverkoston suhteen? Kuinka kova kilpailu on latauspaikois-
+ta? Tiedän, että Fortum on ollut erittäin aktiivinen ja sillä on jo todella paljon näitä lataus-
+pisteitä ympäri Pohjoismaita. Millä tavalla — kysymys on sama kuin edustaja Jaskarilla —
+tämä latausverkosto toteutuu markkinaehtoisesti, ja millä tavalla valtio on mukana? Mitkä
+direktiivit Euroopan unionissa vaikuttavat siihen, että se on niin kattava, että maan eri alu-
+eilla kohtalaisen järkevästi voidaan sähköauto ostaa, koska tämä latausinfra on edellytys
+sille, että ihmiset voivat sitten joka puolella ajaa sähköautoja? Ja onhan nyt varmaa, että di-
+eselauton omistajat eivät joudu maksumiehiksi sitten siellä maaseudulla, missä niitä diese-
+lautoja nyt paljon on ja missä ajetaan paljon?
+
+17.17 Ari Torniainen kesk: Arvoisa herra puhemies! Tieliikenne on todellakin erittäin
+merkittävä kasvihuonekaasujen ja pienhiukkaspäästöjen tuottaja, sillä noin 90 prosenttia
+kotimaan liikenteen päästöistä syntyy tieliikenteestä, ja päästöjen vähentämiseksi liikenne-
+välineiden käyttövoimana tulee jatkossa nykyistä enemmän pyrkiä lisäämään vaihtoehtois-
+ten käyttövoimien osuutta fossiilista polttoainetta käyttävien ajoneuvojen rinnalla. Tavoit-
+teena on, että vuonna 2025 uusista henkilö- ja pakettiautoista 50 prosenttia voisi kulkea jol-
+lakin vaihtoehtoisella käyttövoimalla. 
+
+Kuten hallituksen esityksestä käy hyvin esille, nopein keino liikenteen kasvihuone-
+kaasupäästöjen vähentämiseksi on liikenteen nykyisten polttoaineiden korvaaminen uusiu-
+tuvilla tai nykyistä vähäpäästöisemmillä polttoaineilla tai käyttövoimilla. Aika paljon täs-
+sä viime aikoina on keskusteltu nimenomaan sähköautoista ja siitä, miten paljon sähköau-
+toja tulevaisuudessa on, ja painopiste on ollut hyvinkin paljon siellä, mutta itse kyllä pai-
+nottaisin näitä vaihtoehtoisia polttoaineita huomattavasti. 
+
+Arvoisa puhemies! Kuten eräät muutkin edustajat jo aiemmin, itsekin kyllä haluan kiin-
+nittää huomiota tähän jakeluverkkosuunnitelmaan: Minkälainen siitä sitten Suomessa
+muodostuu, miten jakeluverkosto rakentuu, ja rakentuuko se markkinaehtoisesti vai millä
+tavoin? Onko valtio ehkä siinä jollain tavoin mukana? Miten yksityiset ja miten myöskin
+asunto-osakeyhtiöt ovat tulevaisuudessa tätä jakeluverkostoa rakentamassa? 
+
+Toinen varapuhemies Arto Satonen: Edustaja Pekkarinen, ja sen jälkeen ministerin vas-
+tauksia. 
+
+17.19 Mauri Pekkarinen kesk: Arvoisa puhemies! Olin viime vaalikaudella puheenjoh-
+tajana talousvaliokunnassa, joka antoi lausunnon siitä direktiivistä, johonka tässä viita-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+taan. Sitä ennen kymmenkunta vuotta olin lähinnä ministerin tehtävissä eri kulmilta käsit-
+telemässä aihepiiriä, johonka nyt tässä käsittelyssä oleva hallituksen esitys liittyy. Tästä
+syystä puhemies sallinee, että sanon muutaman sanan.
+
+Ensinnäkin tämäkin esitys liittyy monella tavalla maailmanlaajuiseen ilmastokysymyk-
+seen — siihen, miten me Euroopan unionin alueella omalta osalta taklaamme tätä isoa
+haastetta. Meillä Suomessakin liikenteen päästöillä on erittäin suuri merkitys päästökau-
+pan ulkopuolisissa päästöissä. Päästökaupan ulkopuolella syntyy noin 30 miljoonaa CO2-
+tonnia vuodessa, hivenen vajaa, ja noin 12—13 tonnia eli lähes 40 prosenttia kaikista pääs-
+tökauppajärjestelmän ulkopuolisista päästöistä syntyy liikenteessä. Tästä syystä on tavat-
+toman tärkeää nimenomaan ilmastokysymyksen kannalta se, millä tavalla me hoidamme
+nämä päästöt alas. Vuoteen 2050 mennessä ei ole käytännössä enää mitään mahdollisuuk-
+sia liikenteessä aiheuttaa lainkaan päästöjä, ja oikeastaan reilusti sitä ennemmin jo Suo-
+men sitoumukset käytännössä edellyttävät sitä, että meidän pitää nimenomaan kevyessä
+liikenteessä — siis nyt tarkoitan henkilöliikenteessä, ehkä sitten jossakin muualla vielä vä-
+hän päästöjä voi syntyä 2030 jälkeen — ajaa nuo päästöt erittäin vahvasti alas jo 2030 men-
+nessä ja täysin alas, kun lähestytään 2050:tä. Suomi on ollut edelläkävijä monella tavalla
+tässä kysymyksessä koko Euroopan unionin laajuisesti. Me lähdimme hitaasti liikkeelle,
+mutta sen jälkeen, kun liikkeelle lähdimme, lähdimme aika nopeasti.
+
+Mitä tarkoitan, kun sanon, että lähdimme nopeasti liikkeelle? Kun halutaan liikenteessä
+päästöjä vähentää, ylivoimaisesti nopein tapa on tarttua niihin mahdollisuuksiin, jotka ovat
+jo olemassa. Autokanta on olemassa ja jakeluverkko on olemassa. Tällaisessa tilanteessa
+nimenomaan näiden drop-in-tuotteiden — niitä sanotaan drop-in-tuotteiksi, näitä sekoite-
+velvoitteen piirissä olevia tuotteita kutsutaan tällä tavalla — mahdollisimman nopea käyt-
+töönotto oli tapa, mihinkä Suomi tarttui ensimmäisenä ja voimakkaammin kuin yksikään
+toinen Euroopan unionin maa. Keksimme asettaa tavoitteeksi, että Suomessa niitä on 20
+prosenttia kaikesta liikenteessä olevasta polttoaineesta vuoteen 2020 mennessä, ja käytän-
+nössä nyt se, mitä Suomessa on jo tapahtumassa, on, että me menemme nopeammin, me
+olemme reilusti edellä siitä aikataulusta, mihinkä tuo laki meitä velvoittaa. Sen verran hyvä
+oli se päätös, mikä joitakin vuosia sitten, silloin noin kymmenkunta vuotta sitten, tehtiin.
+Yritän tällä sanoa, niin kuin edustaja Torniainen tässä ihan hyvin sanoi, että nopeimmin
+päästään eteenpäin nimenomaan drop-in-tuotteissa, koska ei tarvitse uusia autoja kehittää
+niitä varten — nykyiset autot pystyvät syömään nimenomaan sitä biodieseliä ja biobensaa
+— ja myöskin jakeluverkko on olemassa valmiina: ei tarvitse kumpaakaan, ei sitä kanaa
+eikä munaa, molemmat ovat olemassa drop-in-tuotteitten osalta.
+
+Mutta nämä drop-in-tuotteet eivät riitä koko liikenteen polttoainehuollon osalta. Me tar-
+vitsemme välttämättä myös muita päästöttömiä vaihtoehtoja, ja silloin sähkö ja biokaasu,
+tai kaasu ylipäänsä, tulevat ilman muuta vaihtoehdoiksi. Ja tämä hallituksen esitys nyt täs-
+sä suhteessa, nojautuen Euroopan unionin asianomaiseen direktiiviin, kertoo, millä tavalla
+tässä asiassa voitaisiin nyt mennä eteenpäin. Tämä hallituksen esitys on kyllä erittäin tek-
+ninen. Tämä ei sano tavoitteista kovin paljon mitään eikä piirrä sitä kuvaa, mikä ideaaliti-
+lanteessa esimerkiksi muutaman vuoden päästä tai kymmenen vuoden päästä Suomessa pi-
+täisi tässä suhteessa olla. Minä toivon, että ministeri vähän valottaisi sitä, mihinkä tässä
+näiltä osin pyritään. On alankin erittäin hyvä ja tärkeä tietää, mikä on se tavoite, mihinkä
+tällä fasilitoinnilla, johon laki tähtää, loppujen lopuksi pyritään. Ne vaihtoehdothan siis
+ovat kaasun ja sähkön käyttö, kaikki me tiedämme tämän. Autoja, sekä sähköautoja että
+kaasuautoja, on jo jonkun verran olemassa, mutta sitä tankkausinfraa ei ole olemassa, ei-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+vätkä nuo autot hinnallaankaan välttämättä kovin hyvin kilpaile. Minun mielestäni tarvi-
+taan nyt tässä asiassa molemmissa, sekä kanassa että munassa, vähän edistämistä.
+
+Tällä hetkellä vissi tuki liittyy sähköautojen ostamiseen. Biokaasuauton tai kaasuauton
+jos ostat, niin vaikka se käyttää biokaasua, maksat siitä normaalin auton veron, ja se on
+mielestäni väärin. Tässä yksi käytännön toimi, johonka pitäisi tarttua: Silloin kun biokaasu
+on se raaka-aine — ja siihen suuntaan mennään kaiken aikaa — myöskin autoon liittyvän
+verotuksen pitäisi reagoida siihen, kun se polttoaine, mitä näissä autoissa käytetään, kerran
+on puhdasta. Eli niiltä osin kuin se on puhdasta, niin vero siihen reagoisi.
+
+Myöskin tämän neutraliteetin kannalta, silloin kun tarkastellaan kaasuautojen ja sähkö-
+autojen välistä tilannetta, on tärkeää, että ne toimet, mihinkä valtio ryhtyy, ovat neutraaleja
+suhteessa kumpaankin vaihtoehtoon. Kaiken lisäksi kannattaa muistaa, että biokaasu on
+täysin päästötön mutta sähkö ei ole täysin päästötön vielä pitkään aikaan Suomessakaan.
+Tässä mielessä biokaasun jättäminen vähän sähköautojen jälkeen — pikkuisen olen näke-
+vinäni sitä piirrettä näissä toimissa, mitä tähän saakka on tapahtunut. Minä toivon, että niin
+ei ole vaan aito neutraliteetti voisi näissä asioissa toteutua.
+
+Arvoisa puhemies! Vielä totean, että Suomessa Gasum on lähtenyt hyvin liikkeelle bio-
+kaasun toimittajien ja tuottajien kanssa tässä. Mutta vielä palaan hivenen siihen, sanoisiko,
+yleispiirteisyyteen, mitä esitykseen liittyy. Olisi hyvä, jos hallitus vähän sitä tavoitetta kir-
+kastaisi, että millä aikataululla, minkälaista infraa ja mikä määrä puhtaita autoja liikentee-
+seen. Esimerkiksi direktiivin tausta lähti siitä, että korkeintaan 150 kilometriä on se etäi-
+syys latauspisteestä toisiin. Nyt tässä lakiesityksessä ei mainita siitä lainkaan yhtään mi-
+tään.
+
+Siis vielä kertaalleen: vähän valotusta siihen, mitä käytännössä se infra olisi ja miten nii-
+tä autoja siis saataisiin enemmän ja nopeammin markkinoille. Korostan vielä: drop-in-
+vaihtoehdot ovat tärkeitä ja välttämättömiä, mutta niiden rinnalle tarvitaan nyt tässä puhee-
+na olevia vaihtoehtoja.
+
+Toinen varapuhemies Arto Satonen: Ministeri Berner, 5 minuuttia.
+
+17.26 Liikenne- ja viestintäministeri Anne Berner: Arvoisa herra puhemies! Arvoisat
+edustajat, kiitoksia puheenvuoroistanne.
+
+On juuri niin, niin kuin varapuhemies Pekkarinen sanoo: meidän suurimmat päästöt ei-
+päästökauppasektorilta tulevat nimenomaan liikenteestä, ja suurin osa niistä liikenteestä
+tulevista päästöistä tulee henkilöautoliikenteen puolelta. Se, että me teemme toimenpitei-
+tä, jotka kohdistuvat nimenomaan henkilöautoliikenteeseen, on nytten täysin keskiössä.
+
+Meidän tavoite on se, että me vähennämme liikenteen päästöjä puolella vuoteen 2030 ja
+saamme ne nollaan vuoteen 2050 mennessä. Tämä edellyttää meiltä kaiken kaikkiaan vuo-
+teen 2030 mennessä sitä, että vähennämme kasvihuonekaasupäästöjä yhteensä 3,6 miljoo-
+naa tonnia. Me arvioimme, että liikenteen sähköistämisellä vuoteen 2030 mennessä pys-
+tymme vähentämään tästä noin 0,6 miljoonaa tonnia. 2 miljoonaa tonnia saavutamme hyö-
+dyntämällä vaihtoehtoisia polttoaineita ja sillä, että me pystymme edistämään niiden kaut-
+ta erityyppisiä ratkaisuja. Sitten loput tulevat nimenomaan siitä, että saamme aikaiseksi
+käyttäytymismuutoksia maankäytön ja liikennejärjestelmän yhdistämistä sekä joukkolii-
+kennettä tehostamalla. Tarvitaan siis kaikkia erilaisia ratkaisuja.
+
+Hallitus on energia- ja ilmastoselonteossa todennut, että me tavoittelemme 250 000:ta
+sähköautoa vuoteen 2030 mennessä ja 50 000:ta biokaasuautoa vuoteen 2030 mennessä.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+Nämä tavoitteet ovat sinänsä vaatimattomia, ja se tarkoittaa käytännössä sitä, että kun tällä
+hetkellä meidän autokantamme on Euroopan toiseksi vanhin — se on 11,7 vuotta vanha —
+niin me tarvitsisimme merkittävämpiä ja rakenteellisempia uudistuksia. Nyt kuitenkin
+olemme sidottuja toisaalta niihin ratkaisuihin, jotka olemme tehneet. 
+
+Tavoitteet meillä ovat selvät, ja nytten me olemme asettaneet itsellemme tavoitteeksi
+saavuttaa elokuuhun mennessä hyvässä yhteistyössä parlamentaarisen työryhmän kanssa
+sen, että löydämme ne keinot, joilla me näihin tavoitteisiin pääsemme. Työryhmä antaa
+tästä väliraportin elokuuhun mennessä. Energia- ja ilmastoselonteossa on laadittu tavoit-
+teet ja puitteet mutta ei ole määritelty keinoja. Keinot määritellään nyt sitten tässä yhteis-
+työssä, joka syntyy parlamentaarisen työn kautta.
+
+Tämän lisäksi teemme toki niitä toimenpiteitä, jotka me joudumme joka tapauksessa
+lainsäädännöllisesti tekemään. Tämä esitys, joka nyt on käsittelyssä, on nimenomaan hy-
+vin tekninen toimeenpano direktiivistä, mutta se ei ole poliittinen linjaus siitä, mitkä ovat
+ne keinot, joilla me pääsemme näihin tavoitteisiin. Tässä meidän on nytten odotettava par-
+lamentaarisen työryhmän työtä ja siihen liittyviä tuloksia.
+
+Mutta tässä kuitenkin tämän jakeluinfran osalta haluan muistuttaa teitä siitä, että työ- ja
+elinkeinoministeriö on tehnyt päätöksen tukea investointeja sähköautojen julkisiin lataus-
+pisteisiin vuosina 2017—2019 yhteensä 4,8 miljoonalla eurolla. Tavoitteena on sysätä liik-
+keelle noin 15 miljoonan euron investoinnit julkiseen lataukseen ja kolminkertaistaa ny-
+kyinen julkinen latausverkko kahden vuoden kuluessa. Samalla kuitenkin toteamme, että
+latausinfran tulee rakentua pääsääntöisesti markkinaehtoisesti, mutta emme poissulje sitä,
+että tarvitaan ja tullaan tarvitsemaan myös yhteiskunnan tukea.
+
+Kysymys meidän osaltamme on nyt sitten käytännössä se, mitkä ovat ne työkalut, joita
+olemme yhteisesti valmiita käyttämään: hankintatukijärjestelmiä liikenteen verotuksen
+suhteen, latausinfran tuen lisäämistä ja niin pois päin. Tätä työtä on nytten annettu parla-
+mentaariselle työryhmälle, joka näitä kysymyksiä valmistelee. Tavoitteet löytyvät ener-
+gia- ja ilmastoselonteosta. — Kiitos.
+
+17.31 Mari-Leena Talvitie kok: Arvoisa puhemies! Kiitos ministerille hyvästä puheen-
+vuorosta, tai pitäisikö sanoa ministerille ja edellisillekin ministereille, koska kuulimme
+myöskin varapuhemies, edustaja Pekkarisen puheenvuoron.
+
+Useasti pysähtyy miettimään ja pohtimaan, mikä on säätämämme lainsäädännön tarkoi-
+tus. Onko se antaa ohjeita ja luoda niitä suuntaviivoja yhteiskunnalliselle kehitykselle, mitä
+toivotaan tulevaisuudessa syntyvän? Insinöörinä ajattelee, että ihminen, tekniikka ja yh-
+teiskunta ovat yhä tiiviimmin kolmio, josta tarvitsemme kaikkia, jokaista kolmiosta. Ihmi-
+nen ei enää pärjää ilman tekniikkaa, ja yhteiskunta ei kehity ilman ihmistä ja tekniikkaa. 
+
+On tärkeää, että laki antaa nimenomaan niitä suuntaviivoja vaihtoehtoisten polttoainei-
+den jakelulle ja alalle kehittyville markkinoille. Sen takia on tärkeää, että kun tämä parla-
+mentaarinen työryhmä pohtii tavoitteisiin pääsyä ja sitä, millä sinne päästään, niin kannus-
+timet olisivat ennustettavia ja pitkäjänteisiä ja jos ja kun erityisesti uusien teknologioiden
+käyttöön ja innovaatioihin, siihen tuotekehittelyyn, annetaan ja laitetaan kannustimia, niin
+ne olisivat sen kaltaisia, että ne ottavat myöskin huomioon sen, että Suomi on hyvin erilai-
+nen ja pitkien etäisyyksien maa, jotta pystyisimme luomaan sellaista lainsäädäntöä, jossa ei
+olisi ainoastaan hetken huuma vaan näkisimme pitkäjänteisyyden ja ennustettavuuden ja
+kannustettavuuden oleellisena tekijänä.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+Meillähän on tältä alalta hyviä esimerkkejä, joita äskenkin jo tuotiin esiin, muun muassa
+Gasum ja Neste, jossa muutama [Puhemies koputtaa] viikko sitten itsekin vierailin.
+
+17.33 Katja Taimela sd: Arvoisa herra puhemies! Hyvät kollegat! Tämän lain pyrkimys
+edistää vaihtoehtoisten polttoaineiden käyttöä liikenteessä on tietysti varsin kannatettava.
+Minä koen, että kaikki teot, joilla pystytään pienentämään öljyn määrän käyttöä, ja teot,
+joilla liikenteen haitallisia ympäristövaikutuksia voidaan lieventää, on yksinkertaisesti teh-
+tävä, tai pitäisikö sanoa, että meillä ei ole varaa olla tekemättä niitä. Minä uskon, että me
+olemme tästä asiasta tässä salissa kaikki samaa mieltä.
+
+Tavoite, joka liikennesektorille on asetettu ilmasto- ja energiapolitiikan nimissä — li-
+sääntyvät sähköautot, vaihtoehtoiset polttoaineet — on haasteellinen tavoite, jonka eteen
+tietysti on tehtävä töitä täällä parlamenttitalossa kaikki se mahdollinen, mihin me pystym-
+me. Tämä liikennesektoriin kohdistuva 50 prosentin päästövähennys vuoteen 2030 men-
+nessä ja ne 250 000 uutta sähköautoa vaativat direktiivien lisäksi meiltä erilaisia toimenpi-
+teitä hyvässä yhteistyössä parlamentaarisesti täällä talossa.
+
+Mutta eniten tulee kansalaisilta palautetta siitä — täällä on sähköautoista käyty aika voi-
+makastakin keskustelua — että kansalaiset ovat jotenkin ymmällään tai tavallaan eivät tie-
+dä vielä sitä, miten esimerkiksi sähköautojen jakeluverkosto tullaan jatkossa hoitamaan ja
+onko siihen meillä edellytyksiä tässä pitkien välimatkojen ja etäisyyksien Suomessa. Ta-
+vallaan sitten, kun siitä tiedetään enemmän ja uskalletaan kertoa se totuus ja realismi, tällä
+talolla ja maan hallituksella ja tietysti liikenne- ja viestintäministeriössä on myös vastuu
+asian kertomisesta eteenpäin. Elikkä tämä on se asia, mistä kaikista eniten tulee nytten pa-
+lautetta liittyen näihin vaihtoehtoisiin polttoaineisiin.
+
+17.35 Matti Semi vas: Arvoisa puhemies! Päästöt ja ympäristön huolehtiminen ovat tär-
+keitä asioita ja autojen vähäpäästöisyys on vielä tärkeämpi asia hoitaa kuntoon. Sähköauto
+ja uudet autot ovat kalliita tavallisille ihmisille ruveta investoimaan ja ostamaan, mutta on-
+neksi on semmoinen laite kehitetty, millä pystyy dieselauton muuttamaan kaasuautoksi jäl-
+kiasennuksella. Se mahdollistaa sen, että siitä tulee vähäpäästöinen auto. Se vaatii muutos-
+katsastuksen, mutta siinä on verotusongelmia. Minulle on annettu ymmärtää, että siinä on
+hirveästi verotusongelmia, mitkä vaikuttavat sitten siihen, että tulee ylimääräistä veroa
+maksettavaksi. Toivoisin, että tämmöistä muutosmahdollisuutta käytäisiin enempi läpi ja
+mietittäisiin sitä, kuinka voidaan tukea tämmöistä, että vanhempiakin autoja pystytään
+muuttamaan vähäpäästöisiksi, niin että ne olisivat ympäristöystävällisiä ja että niistä ei tu-
+lisi ylimääräisiä kuluja näille muuttajille, jotka huolehtivat ympäristöstä.
+
+17.37 Markku Eestilä kok: Arvoisa puhemies! Arvoisa ministeri, ihan varsinaisesti tä-
+hän teknologianeutraliteettiin, joka tässä hallituksen esityksessä on otettu esille Parkkisäh-
+kö Oy:n lausunnossa. Vähän kyselisin ministeriltä sitä — jos ministeri joutaa vielä jossa-
+kin välissä vastaamaan — että kun tässä direktiivissä on säädetty tavallaan tietyt kriteerit,
+mitä pitää tehdä, ja mennään ihan sähköpistokkeitten tasolle, niin kuitenkin yleisesti ottaen
+pidetään hyvänä teknologianeutraliteettisääntöä, että millä tavalla tahansa. Täällä Park-
+kisähkö Oy ei tuo kylläkään esille, mitä he tarkoittavat, mutta luulisin, että kyseessä saat-
+taa olla induktiolataus, joka lienee se tulevaisuuden muoto. Nyt kun infraa viedään eteen-
+päin, niin se on äärimmäisen tärkeää, että meille tulee kohtalaisen nopeasti tieto, kuinka
+paljon missäkin maakunnassa tulee, ja ovatko maakunnalliset sähköyhtiöt mukana tässä
+9
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+infran kehittämisessä, kenties jonkun suuremman toimijan kanssa. Sitten kun tulee tieto,
+niin ihmiset heti tekevät niitä ostopäätöksiä. Kun on tieto siitä, että varmasti pääsee siellä
+maakunnan ja ehkä vähän laajemmallakin alueella liikkumaan sillä autolla ja nimenomaan
+pituus- ja itä-länsisuunnassa, niin sitten rupeaa tapahtumaan muutos, mikä todennäköisesti
+tulee olemaan kohtalaisen nopeaa. Tämän teknologianeutraliteettiasian haluan nostaa esil-
+le.
+
+Toinen asia sitten: Kun me menemme eteenpäin ja yritämme niitä päästöjä ja päästöta-
+voitteita saavuttaa, niin kuten täällä varapuhemies Pekkarinen mainitsi, kyllähän sekoite,
+biodiesel, on merkittävässä asemassa, ja kun me yritämme niitä päästötavoitteita saavut-
+taa, kyllähän meidän täytyy nyt huolehtia myös siitä, että puuta voidaan käyttää. Kyllä en-
+tistä tärkeämmäksi tulee se, että Suomen metsähakkuutavoitteet toteutuvat ja komissio
+myöntää sen, että täällä on olemassa nielut, ettei mennä tämmöiseen teoreettiseen tarkas-
+teluun, jossa me myös sekoitevelvoitteen kanssa olemme kohta vaikeuksissa, koska puuta
+pitää käyttää muuallakin kuin pelkästään biodieselin valmistuksessa ja ehkä sähkön ja läm-
+mön muodostukseen. Tämä on iso ongelma.
+
+Sitten minä nostan yhden asian esille: Kun mennään uuteen teknologiaan ja otetaan säh-
+köautoja käyttöön — minun mielestäni se on ilman muuta hyvä, että uudistuksia tapahtuu
+— niin sosioekonomisten vaikutusten pitää olla uudistuksia valmisteltaessa jo hyvin tie-
+dossa eli kehen ne tulevat vaikuttamaan. Jo ensimmäisessä puheenvuorossani nostin esille,
+että kun Suomessa on bensa- ja dieselautoja, niin näitä vanhoja dieselautoja, joita 2030 tu-
+lee olemaan varmuudella, ei kohtuuttomasti rangaistaisi, koska tulee sekoitevelvoite, ja me
+tiedämme, että kun biodieseliä pannaan tankkiin, se dieselin hinta nousee. Nämä pitää ot-
+taa huomioon, ettei käy niin, että meillä on tuet uuden sähköauton ostajalle, jotka sitä kaut-
+ta pystyvät nauttimaan tästä verkostosta ja ehkä halvemmasta polttoaineesta, ja sitten ta-
+vallaan nämä, jotka ajavat vanhoilla autoilla, joutuvat maksamaan.
+
+Toinen iso asia, ainakin itselleni tärkeä asia, on tämä: me tiedämme tasan tarkkaan,
+kuinka paljon liikenteeltä kerätään veroja, ja siitä on paljon keskusteltu viime aikoina —
+sieltähän on tällä vuosikymmenellä ruvettu keräämään vuoteen 2009 verrattuna 1,8 miljar-
+dia enemmän — ja joihinkin ihmisiinhän ja yrityksiinhän tietenkin tämä veronkanto koh-
+distuu. Minulla on kaksi tytärtä. Toinen asuu Helsingissä, ja hän liikkuu julkisilla, eikä hä-
+nellä ole autoa, häntä tukee valtio ja kaupunki. Toinen on Itä-Suomessa, missä on pakko
+olla auto, koska siellä julkinen liikenne ei toimi tai se toimii kohtalaisen huonosti. Häneltä
+valtio ottaa rahaa ja merkittävässä määrin ottaa. Minä olen vaatinut sitä, kun parlamentaa-
+rinen liikennetyöryhmä sitten työtään jatkaa, että meillä on selvä selvitys, kuinka paljon
+autoja ja ajokortteja ajetaan milläkin seudulla ja kuinka välttämätön auto on milläkin seu-
+dulla, jotta me tiedämme, keihin ihmisiin ja mihin yrityksiin veronkanto kohdistuu, koska
+kun se raha huomattavassa määrin sitten menee koulutukseen ja sosiaali- ja terveydenhuol-
+toon, niin tässä tulee veronkannon legitimiteetti otettavaksi huomioon. Sitten kun saadaan
+teoreettista tietoa, niin vasta sen jälkeen on mahdollisuus ottaa kantaa näihin uudistuksiin
+ja niihin sosioekonomisiin ja talousvaikutuksiin, joiden aina täytyy olla hallituksen esitys-
+ten pohjalla ja myös suunnittelun ja virkamiesvalmistelun pohjalla.
+
+17.41 Ville Skinnari sd: Arvoisa puhemies! Kiitos ministerille hyvästä valmistelusta ja
+hyvistä vastauksista kaiken kaikkiaan. Minusta liikennekaari, ja tämäkin keskustelu, sisäl-
+tää hyviä elementtejä. 
+10
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+Mutta kun katsomme kaiken kaikkiaan tätä sekoitusvelvoitetta, Suomen sitoumuksia,
+niin oma huoleni liittyy siihen, mitkä tulevat olemaan todelliset kustannukset niin valtiol-
+le, elinkeinoelämälle kuin sitten tavallisille kuluttajille. Tästä meillä ei ole kunnollista ana-
+lyysiä käytettävissä. Jotkut arviot nostavat tämän luvun jopa 1,4 miljardiin euroon kaiken
+kaikkiaan, ja bensatankille vaikutus olisi ehkä noin 10—30 senttiä per litra, puhumme siis
+isosta asiasta — tämä kaikki samaan aikaan, kun muu maailma menee sähköön, sähköau-
+toihin ja panostaa siihen liittyvään tutkimukseen ja kehitykseen.
+
+Energia- ja ilmastostrategia kaiken kaikkiaan, jos ja kun pelkkä bio on sen keskiössä, on
+riski Suomelle. Siihen sisältyy isoja poliittisia riskejä. Samaan aikaan, emme pelkästään
+Eurooppa-tasolla vaan myös Pohjoismaiden tasolla, odotamme kiivaasti Jorma Ollilan ra-
+porttia siitä, miltä pohjoismainen markkina näyttää: mitkä ovat Ruotsin, Norjan ja Tans-
+kan sitoumukset vastaavissa asioissa? Koordinaatio naapurimaiden kanssa jää tässä hyvin
+epäselväksi. Kysymys ei ole kansallisesta asiasta, tämä on nyt jo ylikansallinen asia.
+
+Taakanjakosektorin toimenpiteet, kuten olemme puhuneet, painottuvat liikenteeseen,
+mutta se jättää lähes kokonaan huomioimatta esimerkiksi öljylämmityksen, joka olisi tek-
+nologian näkökulmasta helpoin alue saavuttaa päästövähennyksiä. SDP:n talousvaliokun-
+taryhmä tulee olemaan hieman kriittinen tähän 30 prosentin tavoitteeseen. Se voisi olla esi-
+merkiksi 25 prosenttia, ja se 5 prosenttia voitaisiin hakea jostain muualta. Kuten sanottua,
+t&k-panostukset juuri nyt sähköautoihin, sähköiseen liikenteeseen ja kaasuun ja siihen liit-
+tyvään liikenteeseen olisivat meidän mielestämme niitä asioita, mitä ei pidä unohtaa.
+
+Kaiken kaikkiaan Suomi maksaa energiatukia tällä hetkellä noin 300 miljoonaa euroa
+vuodessa. Suurin osa tuista maksetaan tuulivoiman syöttötariffin muodossa. Energia-ala it-
+se, pois lukien tuulivoima-ala, suhtautuu uusiin tuotantotukiin varsin nihkeästi. Suhtautu-
+minen on tiukentunut, varsinkin kun on havaittu, että tuettu tuotanto sekoittaa sähkömark-
+kinoita ja pitää markkinahintoja ennätyksellisen alhaisella tasolla. Tämäkin asia ja kaiken
+kaikkiaan yritystuet ovat se asia, mikä vaikuttaa tähän kokonaisuuteen.
+
+17.45 Mauri Pekkarinen kesk: Arvoisa puhemies! Vielä siitä, mikä näkymä maailmassa
+on:
+
+Oli tilaisuus olla seuraamassa isoa seminaaria, jossa oli yksi suomalainen toimija muka-
+na valmistelemassa maailmanlaajuista arviota siitä, mitä ovat liikenteen tulevat polttoai-
+neet. Siellä olivat kaikkien keskeisten suurten autonvalmistajien edustajat mukana, maail-
+man tämän alan teknologian osaajista oli merkittävästi porukkaa mukana, ja kyllä sen jou-
+kon, sen raportin selvä prioriteetti 2030-luvulle asti oli se, että sinne saakka tulevat drop-
+in-tuotteet ensimmäisenä. Ne saadaan makrotaloudellisesti, maailman makrotalouden mi-
+tassa, nopeammin ja edullisemmin käyttöön. Sitten asteittain näistä päivistä lähtien ja jo
+taakse jääneistä ajoista lähtien tulevat nämä muut vaihtoehdot ja niin poispäin, ja sen jäl-
+keen joskus 30-luvulla ne ottavat sijansa. Elikkä tässä tarvitaan kyllä molempia ja nopeim-
+min päästään liikkeelle tällä tavalla.
+
+Mitä tulee vielä biopolttoaineiden liikenteen tukeen, niin ei niitä tueta tällä hetkellä mil-
+lään tavalla. Ei valtio osallistu sentilläkään niiden valmistamiseen, vaan kyllä se on ihan
+markkinaehtoista toimintaa se, miten niitä valmistetaan. Joskus aikaisemmin ne tuotanto-
+laitokset saivat investointitukea, mutta nyt uudet, silloin kun monistetaan vanhoja tuotan-
+tolaitoksia, esimerkiksi St1:n kohdalla, eivät saa enää uusiin investointeihin tukea. Ne ovat
+saaneet niihin ensimmäisiin mutta eivät enää sitten.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+Autojen verotuksen osalta minä vielä palaan uudestaan tähän neutraliteettiin, mistä
+edustaja Eestilä mielestäni puhui ihan hyvin. Minä en oikein jaa välttämättä sitä näkemys-
+tä, että tällä hetkellä neutraliteetti sähköautojen ja kaasuautojen välillä olisi ihan kohdal-
+laan. Minun mielestäni sähköautoja kohdellaan edullisemmin kuin kaasuautoja. Ja onko
+kaasuauto maailmalla nyt ihan outo ilmestys? Ei ollenkaan, Italiassa on yli 800 000
+kaasuautoa.
+
+17.47 Ville Skinnari sd: Arvoisa puhemies! Edustaja Pekkarinen on varmasti oikeassa
+siinä, että maailmalla tapahtuu paljon, mutta kyllähän me näemme sen tosiasian, mihin au-
+tonvalmistajat tällä hetkellä menevät ja sitoutuvat niin Euroopassa kuin Aasiassakin: käy-
+tännössä kaikki autonvalmistajat ovat sitoutuneet laajamittaiseen liikenteen sähköistämi-
+seen. Suomi ui tässä kehityksessä vastavirtaan, pois lukien se, että Uudenkaupungin auto-
+tehdas onneksi saa tehtäväkseen tehdä myös sähköautoja.
+
+Vielä näihin kustannuksiin yhteiskunnalle. Kun puhumme näistä tehdasinvestoinneista,
+niin väitättekö te nyt, edustaja Pekkarinen, että mikään näistä investoinneista ei saisi puu-
+pohjaisiin tuotantoprosesseihin tukea? Kyllähän meillä on Suomessa tulossa 1—3 sellaista
+investointia, joissa on erittäin suuri valtion panostus, ja niissä osaaminen tulee Kiinasta tai
+Suomen ulkopuolelta, eli se ei ole meidän omaa tutkimus- ja kehitysosaamistamme, usein
+myös laitteet tulevat Suomen ulkopuolelta. Onko tämä oikeaa elinkeinopolitiikkaa?
+
+Toinen varapuhemies Arto Satonen:  Vielä edustaja Pekkarinen, ja sen jälkeen ministe-
+rin puheenvuoro.
+
+17.49 Mauri Pekkarinen kesk: Arvoisa puhemies! Yritän nyt olla sotkeutumatta kovin
+tarkkaan tällaiseen poliittiseen debattiin. Minä äsken kerroin, että silloin, kun on uuden
+tyypin teknologiainvestointeja, niihin tulee tuki — on tullut tähän saakka, ja minä ymmär-
+rän, että tälläkin hetkellä tulee. Mutta otin toisen esimerkin: St1:n investoinnit, kun se in-
+vestoi uusiin biopolttoaineiden tuotantolaitoksiin. Jos se käyttää samoja teknologioita ja
+samantyyppisiä tehtaita, ei se saa joka kerta uutta investointitukea, ei saa, ja itse siihen
+tuotteeseen ei liity minkäänlaista tukea, se on verotonta. Joku voi sanoa, että se on verolli-
+sesti edullisemmassa asemassa, ja jos Skinnari näin olisi sanonut, niin tämäntapainen tuki
+siihen toki liittyy mutta ei muunmuotoista.
+
+Mitä vielä tulee ylipäänsä näihin tukiin, niin maailma muuttuu erittäin paljon uusiutu-
+van energian tuen suhteen. Saksa laittoi muutama vuosi sitten 30 miljardia euroa vuodessa,
+2016 ne laittoivat 22 miljardia euroa vuodessa ja niin poispäin. Kyllä meidänkin 300 mil-
+joonaa on aika iso tuki, ja tuulivoima vie siitä suurimman osan, se on ihan totta. Vielä edel-
+lisenkin hallituksen aikaan tehtiin päätös, että tuulivoimaa lisätään sillä vanhalla tukijärjes-
+telmällä, mikä oli päätetty 2010, ja otettiin käyttöön vielä offshore-tuki, joka toi vielä lisää.
+Mutta nyt jo tiedetään, että teknologia on mennyt eteenpäin niin nopeasti, että voidaan uu-
+distaa tukijärjestelmiä muun muassa tuulivoiman ja muidenkin uusiutuvien energialähteit-
+ten käytön osalta.
+
+Toinen varapuhemies Arto Satonen:  Ministeri Berner, 3 minuuttia.
+
+17.50 Liikenne- ja viestintäministeri Anne Berner: Arvoisa herra puhemies! Arvoisat
+edustajat! Tässä kohtaa hallituksen esitys on nimenomaan direktiivin toimeenpanoesitys,
+12
+
+
+
+Pöytäkirjan asiakohta PTK 32/2017 vp
+ja se on tässä lataustekniikan osalta teknologianeutraali mutta asettaa kyllä vähimmäisvaa-
+timuksen julkisten latauspisteiden osalta, niin että se toteuttaa nimenomaan suoraan direk-
+tiivin vaatimuksia. Sen sijaan ne tavoitteet, joita hallituksen energia- ja ilmastoselonteossa
+on asetettu, toki ovat sellaiset, että sähköautojen tavoitteeksi asetetaan 250 000 ja bio-
+kaasuautojen 50 000. Tämä enemmän ehkä lähtee siitä, miten uskomme markkinan lähte-
+vän liikkeelle, ja myöskin siitä, millä keinoilla meillä on kykyä tukea sitä muutosta, jota
+autokantaamme tarvitaan. 
+
+Sen sijaan pidän erittäin tärkeänä sitä, että biopolttoaineiden osalta teemme yhteistyötä
+Pohjoismaissa, ja tässä olemme itse asiassa Suomen kannalta hyvin aktiivisia. Meillä oli
+suunnilleen kaksi viikkoa sitten Pohjoismaiden liikenne- ja/tai energiaministereiden kans-
+sa tapaaminen täällä Suomessa ja kävimme läpi viittä kuutta eri kohtaa, missä me voimme
+tehdä yhteistyötä yhteisten markkinoiden luomiseksi ja yhteisten edellytysten luomiseksi,
+esimerkiksi löydämmekö sopimusta siitä, mikä sekoitevelvoitteen prosentti pitäisi Pohjois-
+maissa yhteisesti olla, ja sitä kautta tukisimme markkinoiden syntyä ja vähentäisimme tar-
+peita yhteiskunnan tuelle mahdollisille investoinneille luomalla aidosti mahdollisuuksia
+tarjonnalle. Tätä työtä meidän tulee jatkaa, ja nyt sitä tehdään virkamiesvalmisteluna
+eteenpäin. Tapaamme uudestaan toukokuussa, jolloin sitten pyritään katsomaan, millä ta-
+valla tässä voidaan edetä. 
+
+Tärkeintä on nyt myöskin se, että kukin teistä kuljettaa omaa viestiä parlamentaariseen
+ryhmään ja siellä tehtävään työhön, jotta me löytäisimme mahdollisimman hyvän ja laaja-
+pohjaisen ymmärryksen ja yhteistyön tukeman esityksen elokuulle, jolloin olisi sitten tar-
+koitus sopia yhteisesti niistä toimenpiteistä, joilla liikenteen päästöjä voidaan vähentää:
+mitä me olemme valmiita siihen investoimaan ja mitä me olemme valmiita sitten käyttä-
+mään erilaisina järjestelminä ja tukina, jotta voimme yhdessä kantaa vastuuta siitä, että lii-
+kenteen päästövähennykset toteutuvat sovitulla tavalla vuoteen 2030 mennessä? Sitä työtä
+tehdään nytten intensiivisesti ja aktiivisesti, joka toinen viikko tapaamme. — Kiitos.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan, jolle talousvaliokunnan ja ympäristöva-
+liokunnan on annettava lausunto.
+13
+
+

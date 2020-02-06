@@ -1,0 +1,1574 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM43B7.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 3/2017 vp
+
+Täysistunto
+
+Keskiviikko 8.2.2017 klo 13.59—20.24
+
+11. Hallituksen esitys eduskunnalle laiksi postilain muuttamisesta
+Hallituksen esitys HE 272/2016 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 11. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään liikenne- ja
+viestintävaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+
+Lähetekeskustelua tästä asiakohdasta käydään kello 19:ään saakka. Keskustelua jatke-
+taan tarvittaessa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi. Mikäli keskus-
+telu päättyy ennen kello 19:ää, siirrytään päiväjärjestyksen seuraavaan, 12. asiakohtaan.
+
+Keskustelu
+
+17.02 Liikenne- ja viestintäministeri Anne Berner (esittelypuheenvuoro):  Arvoisa pu-
+hemies! Käsiteltävänä on hallituksen esitys eduskunnalle laiksi postilain muuttamisesta.
+Hallituksen esityksessä keskeisin asia on yleispalveluvelvoitteiden sopeuttaminen nykyai-
+kaan synnyttäen samalla, hankintamenettelyä käyttämällä, uutta jakelutoimintaa erityises-
+ti haja-asutusalueille. Esitys mahdollistaa sen, että yleispalvelulähetyksiä eli yksityisten
+henkilöiden lähettämiä postimerkillisiä kirjeitä voitaisiin kaupunkialueilla jakaa kolmena
+päivänä viikossa. Kolmipäiväinen jakelu kaupungeissa postimerkillisten lähetysten osalta
+mahdollistetaan siksi, että kaupunkialueilla on yleispalvelun tarjoajan jakeluverkon lisäksi
+myös muita jakeluverkkoja, joita lehdistö, yritykset ja muut toimijat voivat hyödyntää toi-
+minnassaan. Näin ollen mahdollisuus jopa seitsemänpäiväiseen jakeluun on edelleen ole-
+massa. Niillä alueilla, joilla ei ole yleispalvelun tarjoajan jakeluverkolle vaihtoehtoista ja-
+keluverkkoa, taataan edelleen viisipäiväinen jakelu kuten nykyisinkin.
+
+Jakelu järjestetään hyödyntäen yleispalvelun järjestämää hankintamenettelyä, joka yh-
+dessä liikennekaaren kanssa mahdollistaa aidosti kuljetusten yhdistämisen esimerkiksi
+postin, lääkkeiden ja henkilöiden osalta. Uudistus myös luo uutta yrittäjyyttä jakelutoimin-
+nan osalta erityisesti haja-asutusalueille. On tärkeää huomata, että mahdollinen kolmipäi-
+väinen jakelu on mahdollista vain yleispalvelukirjeiden osalta. Sairaalakirjeiden, laskujen,
+sanomalehtien, pakettien, aikakauslehtien ja niin edelleen jakelusta sovitaan kahdenväli-
+sin kaupallisin sopimuksin, mikä mahdollistaa esimerkiksi joidenkin sanomalehtien seitse-
+mänpäiväisen jakelun.
+
+Esitys ei aseta kansalaisia eriarvoiseen asemaan, koska kaikilla kansalaisilla säilyy mah-
+dollisuus yhtäläiseen tiedonsaantiin sekä mahdollisuus saada jakelupalveluita jopa seitse-
+mänä päivänä viikossa. Yleispalveluvelvoitteita joustavoitetaan siksi, että yleispalvelun
+tarjoajan toiminta on mahdollista tilanteessa, jossa kirjeiden volyymit laskevat huimaa
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+vauhtia ja jaettavaa on vuosi vuodelta vähemmän. Esityksellä taataan se, että yleispalvelun
+tarjoaja voisi toimia myös ilman valtion tukea.
+
+Yleispalvelun tarkastelemisen lisäksi esityksessä avataan postinumero- ja osoiterekiste-
+ritietoja siten, että niitä hyödyntäen voidaan luoda uusia ja parempia palveluita postinsaa-
+jille ottaen huomioon yksityisyyden suojan ja tietosuojan vaatimukset. Samalla poistetaan
+myös mahdollisia kilpailun esteitä. Esityksessä myös mahdollistetaan jakelu kerrostalois-
+sa huoneistokohtaisen luukun lisäksi myös kerrostalokohtaiseen lokerikkoon. Esitys ei vel-
+voita käyttämään lokerikkoa, vaan sen käyttöönotto on jokaisen taloyhtiön päätettävissä,
+jos lokerikon asentaminen taloon on ylipäätänsä mahdollista.
+
+Posti ja sen työntekijät ansaitsevat tekemälleen työlle kaiken tuen. Posti on nyt ja tule-
+vaisuudessa tärkeä osa suomalaisen yhteiskunnan palveluja. Postipalveluiden sujuminen
+kohtuullisin kustannuksin on valtiovallan vastuulla. Kysymys on myös kansalaisten tasa-
+arvoisesta kohtelusta. Maailma kuitenkin muuttuu: digitalisaatio etenee vauhdilla ja läpäi-
+see kaikki yhteiskunnan toiminnot. Myös palveluiden käyttäjien tottumukset ja odotukset
+muuttuvat. Siksi hallitus on valinnut uudistamisen tien, ja tavoitteenamme on huolehtia
+mahdollistavasta lainsäädännöstä.
+
+Postilain uudistuksen tavoitteena on nimenomaan turvata postinjakelu ainakin viisipäi-
+väisenä koko maassa ottaen huomioon kansalaisten odotukset postipalveluilta. Postilain
+uudistuksen tarkoituksena on turvata postin jakelupalvelut koko maassa. Sen tarkoitukse-
+na ei ole lisätä työttömyyttä, päinvastoin: yhdessä liikennekaaren avaamien uusien mah-
+dollisuuksien kanssa tarkoituksena on saada jakelulle uusia työpaikkoja koko maahan.
+Postitoimialalla on jatkossakin tärkeää olla hyvä tulevaisuus ja näkymät. Liikennekaaren
+mahdollistamat monikuljetukset tekevät jakelutoiminnasta kannattavaa myös maaseudul-
+la ja harvan asutuksen alueella, missä ihmiset hankkivat muutenkin palveluita monesta eri
+lähteestä. Jakelupalveluja tarjoavat yritykset voivat tässä toimia eturintamassa, kehittää
+palveluita kansalaisille ja samalla taata tehokkaat ja turvalliset postipalvelut myös tulevai-
+suudessa.
+
+Laki on tarkoitettu tulemaan pääosin voimaan 1. päivänä kesäkuuta 2017. — Kiitos.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Asiasta käydään varmasti pieni debat-
+ti. Ensimmäisenä vastauspuheenvuoro, edustaja Heinonen.
+
+17.07 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa herra puhemies! Kokoomuk-
+selle on tärkeää, että myös haja-asutusalueella postinjakelu turvataan, ja kiitos siitä minis-
+terille, että tämä tässä hyvällä tavalla toteutuu.
+
+Itse olen aiemmin tuonut esille sitä, että kerrostalojen luukkujakelu on kyllä aika raskas
+järjestelmä, ja itse olisin kyllä sitä mieltä, että voitaisiin mennä ainakin uusien talojen koh-
+dalla siihen, että jakelu ei olisi jokaisella ovella vaan siellä rappukäytävän alapäässä.
+
+Sen sijaan olen ihmetellyt Postin toimia haja-asutusalueilla näiden postilaatikoiden ryh-
+mittelyssä. Siellä matkat ovat usein paljon pidempiä ja vaikeakulkuisempia, huonosti hoi-
+dettujen teidenkin varsilla, ja sen takia toivoisin, että näissä asioissa myös voitaisiin toimia.
+
+Arvoisa ministeri, meistä jokainen toivoisi, että saisimme joka päivä edes yhden posti-
+kortin, mutta näin ei enää tänä päivänä tapahdu, ja kysyisin teiltä, mitä näiden postikorttien
+jako tulee tulevaisuudessa maksamaan, jos ne tällä tahdilla vähenevät, [Puhemies koput-
+taa] mitä muutkin maat ovat osoittaneet.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+17.08 Johanna Ojala-Niemelä sd (vastauspuheenvuoro): Arvoisa herra puhemies! Lap-
+pia piinaavat postinjakelun viivästykset ovat saaneet monen ihmisen mitan läikkymään yli
+ja aiheuttaneet kohtuutonta haittaa ihmisten arjelle. Useita päiviä myöhässä olevat kutsut
+lääkäriin, vanhoina painoksina saapuneet lehdet ja tilaisuuksien peruuntuminen myöhässä
+tulleen kutsun vuoksi ovat aiheuttaneet mielipahan lisäksi myös kustannuksia. 
+
+Lappi on toiminutkin jo ennakkonäyttämönä tälle uudistukselle, kun posti on jaettu mi-
+ten sattuu, vaikka laki edellyttäisi viisipäiväistä jakelua. Postin omapäinen toiminta on an-
+tanut lappilaisille esimakua siitä, mitä tällainen kolmepäiväinen jakelu tarkoittaisi käytän-
+nössä. Ministeri Kiuru ei antanut Postin viime kaudella livetä tästä jakelusta. Kysynkin mi-
+nisteriltä, miten varmistatte postinjakelun jatkossa, ja nimenomaan tämän ihmisten tasa-ar-
+voisen kohtelun.
+
+17.10 Mirja Vehkaperä kesk (vastauspuheenvuoro): Arvoisa puhemies! Postin yleispal-
+veluvelvoite tällä hetkellä on liian raskas Posti Oy:n kannettavaksi. Siksi me tarvitsemme
+uudistusta, jotta ihmiset saavat sekä postikirjeet, sanomalehdet että paketit tarvittavassa
+ajassa. Yleispalveluvelvoitetta rahoittamaan ei edes viime tai edellisellä kaudella, kun
+SDP:llä oli viestintäministerin salkku tai omistajaohjaussalkku, oltu halukkaita laittamaan
+lisää verovaroja. Siksi me olemme uuden edessä, miettimässä, miten postipalvelut turva-
+taan Suomessa niin kaupungeissa kuin haja-asutusalueilla. Tosiasia on, että 10 prosentin
+vuosivauhdilla Postin kirjeposti vähenee, ja digitalisaatio vie myöskin aikakauslehdiltä
+markkinoita. [Puhemies koputtaa] Siksi on tarpeen miettiä, miten jakelu koko Suomessa
+toteutetaan, turvataan. Ja tässä on yksi esimerkki.
+
+17.11 Toimi Kankaanniemi ps (vastauspuheenvuoro): Herra puhemies! Ensiksi erityis-
+kiitos tästä näkövammaisia koskevasta uudesta 50 a §:stä, vai lieneekö se uusi, mutta kui-
+tenkin ihan hyvä laajennus ja palvelu heidän osaltaan.
+
+Tämä Postin kehitys on tietysti realiteetti ollut jo jonkin aikaa. Me tiedämme, että meille
+itse kullekin tulee postilaatikkoon tänä päivänä hyvin vähän muuta kuin mainoksia. Eli
+sähköinen puoli on edennyt pitkälle ja etenee vääjäämättömästi. Tähän on sopeuduttava, ja
+näin nyt tapahtuu. Eli pidän tätä lakiesitystä kannatettavana ja oikeastaan lähes ainoana
+mahdollisuutena. Onko se riittävä pitkällä tähtäyksellä, niin sitä voimme miettiä.
+
+Lähettäjien on varmasti tässä tilanteessa sitten otettava huomioon se, että se kirje saattaa
+olla vähän myöhemmin perillä. Esimerkiksi eräpäivä laskussa olisi syytä siirtää vähän
+edemmäksi ja sitten se lääkäriin kutsu lähettää päivää, paria, kolmea aikaisemmin kuin tä-
+hän asti.
+
+17.12 Jyrki Kasvi vihr (vastauspuheenvuoro): Arvoisa puhemies! Aivan aluksi edustaja
+Ojala-Niemelälle on valitettavasti kerrottava, etteivät Postin jakeluongelmat ole Lapin yk-
+sinoikeus. Viimeksi tässä pari päivää sitten tuli lokakuussa lähetetty lasku, josta on nyt sit-
+ten tullut myös karhut ja maksettu viivästyskorot. Mietin juuri, että kenelle Posti Oy:ssä lä-
+hetän laskun.
+
+Mutta sitten tähän itse esitykseen. Yhdenvertaisuuttahan on tässä salissa puolustettu
+usein, ja me olemme olleet valmiita investoimaan aika paljonkin esimerkiksi siihen, että
+joka puolella Suomea on tv-lähetykset katsottavissa, joka puolella Suomea toimii teleyh-
+teydet, mutta jostain syystä nyt tässä esityksessä ei ollakaan niin tiukkoja siitä yhdenver-
+taisuudesta. Vaikka kaikki saavat kyllä maksaa saman postimaksun, niin toiselle asiakkaal-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+le posti kannetaan kolme päivää viikossa ja toiselle asiakkaalle viisi päivää viikossa. Mitäs
+yhdenvertaisuutta se tämä on?
+
+17.13 Katja Hänninen vas (vastauspuheenvuoro): Arvoisa herra puhemies! Mikä on
+Postin tarkoitus? Onko se ruohonleikkuu tai hoivapalvelut? Ei, kyllä se on peruspalvelu,
+postin kuljettaminen. Postin pitää kulkea luotettavasti ja turvallisesti. Postilain uudistami-
+sen kytkeminen liikenteen palveluiden kokonaisuudistukseen herättää kysymyksiä. Mitä
+palveluita aiotaan yhdistää? Mistä säästöjä on tarkoitus hakea? Joku ne säästöt kuitenkin
+aina maksaa. 
+
+Ruohonleikkuussa, koulukuljetuksissa tai kotihoidossa on jokaisessa oma ammatillinen
+osaamisensa, eikä niitä voida noin vain yhdistää postin keräilyyn ja jakeluun. Pelkään, että
+säästöjä haetaan työntekijöiden selkänahasta heikentyvinä työehtoina ja madaltuvina päte-
+vyysvaatimuksina, suomalaisten taskuista nousevina postikuluina sekä heikentämällä mei-
+dän jokaisen peruspalvelua. "Pidetään koko maa asuttuna" on monen puolueen tavoiteoh-
+jelmassa, mutta miten lienee käytännössä? Arvoisa ministeri, kysyn teiltä: miten uudistuk-
+sessa turvataan [Puhemies koputtaa] oikeasti postipalveluiden kulkeminen koko Suomes-
+sa?
+
+17.14 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Postin ongelmat eivät
+ratkea sillä, ettei myönnetä, että ongelmia on. Minä olen tosi pahoillani siitä keskustelusta,
+mihin edustaja Vehkaperä meidät äsken johdatti. Posti ei ole koskaan pyytänyt pääomitta-
+maan Postia. Sen varmaan ministeri todistaa, hänelläkään tällaista pyyntöä ei ole. Aika iso
+kysymys olisi, jos tämä hallitus päättäisi toimia niin, kun edeltäväkään ei pystynyt siihen,
+koska Posti itse tätä ei päättänyt. 
+
+Nyt tänään ollaan kokoonnuttu tämän lakiesityksen äärelle kysymään, miten varmiste-
+taan postinjakelu koko Suomessa. Tässä on yksi malli esittelyssä. Minä itse en sitä kanna-
+ta, sanon sen rehellisesti tässä, koska vain historiankirjat tulevat todistamaan, että tällä
+mallilla tullaan todennäköisimmin olemaan siinä tilanteessa, että suomalainen sanomaleh-
+tijakelu loppuu. Posti tulee tekemään sen sen takia, että se ei ole yleispalvelutuote. Se tulee
+johtamaan siihen, että juuri näillä alueilla, joilla turvattaisiin viisipäiväisen jakelun kautta
+postinjakelu, näin ei tule tapahtumaan sanomalehtien osalta. [Puhemies koputtaa] Ja tämä
+voidaan sitten todistaa myöhemmin vääräksi, mutta kysyn ministeriltä... [Puhemies kes-
+keytti puheenvuoron puheajan ylityttyä.]
+
+17.15 Mats Löfström r (vastauspuheenvuoro): Värderade herr talman! Tack för minis-
+terns presentation. Digitaliseringen innebär stora möjligheter men också stora utmaningar i
+synnerhet för traditionell postverksamhet. Postvolymerna och omsättningen har sjunkit
+snabbt. Lagförslaget adresserar den här verkligheten och jag stöder förslaget till flera de-
+lar. Det är dock några delar jag upplever som problematiska och som jag vill lyfta upp.
+
+Lagförslaget kommer i praktiken att innebära en stor försämring av utdelningen i skär-
+gården. Det oroar mig mycket, och jag undrar om ministeriet sett på alternativa utdelnings-
+möjligheter som att exempelvis använda drönare för transport av post till öar i skärgården. 
+
+Avslutningsvis tidningsutdelningen. En fungerande tidningsdistribution är i grund och
+botten en demokratifråga, men många tidningshus brottas med snabbt ökande distribu-
+tionskostnader. Därför anser svenska riksdagsgruppen att tidningsutdelningen borde tryg-
+gas genom att omfattas av postlagens samhällsomfattande tjänster. Det har ett pris, men jag
+4
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+tror att det också skulle vara samhällsekonomiskt lönsamt att samköra postutdelningen
+med tidningsutdelning på morgnarna.
+
+17.17 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Postilakiesitys
+on oikean suuntainen, kuten tässä puheenvuoroissa on jo tullut ilmi, muun muassa edustaja
+Löfströmin puheenvuorossa: digitalisaation sun muun seurauksena kannettavan postin
+määrä on vähentynyt dramaattisesti ja sen voidaan ennustaa vähenevän edelleen. Tämä on
+kehityskulku, johon emme voi vaikuttaa, ja näin ollen se postin kantaminen sitten sinne eri
+perukoille ympäri Suomenmaan ei enää ole niin kannattavaa kuin ennen, ja ollaan siis ti-
+lanteessa, että pakko on keksiä uusia keinoja, jotta saadaan vietyä perille edes se posti,
+mikä kulloinkin kuuluu.
+
+Tässä on hyviä piirteitä: esitys lisää kilpailua, maaseudulla voidaan tehdä uusia innovaa-
+tioita, voi olla eri tapoja viedä postia ja muita tavaroita. Tietenkin pitää varmistaa se, että
+sanomalehdet pääsevät vähintään viisi päivää viikossa perille ja niin edelleen. Minusta
+tämä ajatus siitä, että esimerkiksi kerrostaloissa voitaisiin posti jakaa rappukäytävän ala-
+osassa oleviin laatikoihin, on hyvä ja kehityskelpoinen.
+
+17.18 Lea Mäkipää ps (vastauspuheenvuoro): Arvoisa puhemies! On myönnettävä, että
+näitä lehtiä luetaan sähköisessä muodossa ja kirjeposti on vähentynyt, ehkä ystävänpäivä-
+kortteja nyt saadaan.
+
+Mutta sitten, kun nyt toistaiseksi tulee viitenä päivänä posti tuonne maaseudun korpeen,
+jossa minäkin asun, ja kun tämä ei kuulu yleispalveluun, niin se voidaan sitten kaupallisel-
+ta pohjalta jakaa myöhemmin, ja tämä ei sitten taas kuulemma oikein kuulu postilain pii-
+riin. Kysyisinkin — siinä on yksi mahdollisuus, että valtio voisi sitten tukea näitä harvaan
+asuttujakin seutuja — mitenkä tämä käytännössä tapahtuu, koska minä en tätä lakiesitystä
+lukiessani päässyt ollenkaan viisaammaksi, että mikä on sitten näitten tulevaisuudenkuva.
+Siitä haluaisin jotain selvyyttä. — Kiitos.
+
+17.19 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Postin toi-
+mintaympäristön raju muutos ei johdu lainsäädännöstä, vanhasta, nykyisestä tai uudesta
+laista. Se johtuu pikemminkin siitä, että kirjeiden määrä on vuosien saatossa vähentynyt
+huomattavasti. Ja pitää muistaa, mikä on postin yleispalveluvelvoite tällä hetkellä: se ei
+koske lehtiä, sanomalehtiä, se koskee nimenomaan kirjeitä, joiden määrä on rajusti vähen-
+tynyt. Nyt tämän hallituksen esityksen, tämän postilain kakkosvaiheen, tavoitteena on ni-
+menomaan turvata postinjakelu ainakin viisipäiväisenä koko maassa huomioon ottaen kan-
+salaisten odotukset postipalveluilta. Asia on erittäin tärkeä: huomioidaan, että koko maas-
+sa ovat myöskin nämä palvelut saatavissa. Kilpailuttaminen ei saa kuitenkaan johtaa sii-
+hen, että asiakkaiden jakelukustannukset [Puhemies koputtaa] haja-asutusalueilla nouse-
+vat, ja tämä tulee ottaa myöskin jatkossa huomioon.
+
+17.20 Katja Taimela sd (vastauspuheenvuoro): Arvoisa puhemies! Itse koen, että nyt on
+pitkälti kysymys siitä, näkeekö maamme hallitus postinkulun peruspalveluna vai bisnekse-
+nä. On kummallista, että postin perustoiminnan punainen lanka tuntuu olevan palveluiden
+heikentäminen. Mikään yritys ei voi pärjätä tällaisella taktiikalla, oli markkinatilanne sit-
+ten vapaa tai monopoli.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Arvoisa hallitus, kyse on valtion kokonaan omistamasta Postista. Sen lisäksi, että posti
+tulee jatkossa harvemmin, syötte omaa työllisyystavoitettanne postilaisten kanssa, jatkos-
+sa tuhannet postilaiset kun ovat ilman työtä. Esityksessänne hankintamenettely pitää sisäl-
+lään myös pakkokilpailuttamisen. Ministeri Berner, onko Postin yleispalvelutuotteiden
+pakkokilpailutuksella tarkoitus tarjota jonkinlainen varma bisnes maaseudun yhteisjakelu-
+yrityksille valtionyhtiön kukkarosta? En näe mitään muuta järkeä tälle pakolle, koska lii-
+ketalouden ja toiminnan kannalta perustellut ulkoistukset onnistuvat varmasti Postilta il-
+man [Puhemies koputtaa] pakkoakin.
+
+17.22 Paavo Arhinmäki vas (vastauspuheenvuoro):  Arvoisa herra puhemies! Edustaja
+Vehkaperä ihmetteli, miksi aikaisemmat viestintäministerit eivät pääomittaneet Postia.
+Postihan on voitollinen yritys. Mitä pääomitusta se olisi tarvinnut? Itse asiassa edelleen
+tämä perinteinen postinjakelu on kannattavaa toimintaa. [Sosiaalidemokraattien ryhmästä:
+Kyllä!] Postin taloudelliset ongelmathan johtuvat Venäjän-seikkailuista ja muista.
+
+Mutta mitä nyt tapahtuu, kun tätä postilakia uudistetaan? Niillä alueilla, joilla Posti te-
+kee voittoa, jakelu vähennetään kolmeen päivään viikossa, ja niillä alueilla, joiden jakelu
+on tuottanut mittavaa tappiota, joka on katettu tällä voitolla — eli haja-asutusalueilla —
+jatkuu viisipäiväinen jakelu.
+
+Minä olen aina puolustanut sitä, että palveluita pitää tasa-arvoisesti kaikkialla Suomes-
+sa tuottaa, ja haja-asutusalueiden postinjakelu on hoidettu sillä, että muilla alueilla on teh-
+ty voittoa. Nyt näitä kohdellaan huonommin ja samaan aikaan viedään tuhansilta postilai-
+silta työpaikat. Ei tässä ole, arvoisat kansanedustajat ja arvoisa ministeri, mitään järkeä.
+Puolustetaan työpaikkoja.
+
+17.23 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa puhemies! Minusta tässä hal-
+lituksen esityksessä on paljonkin järkeä. Ainakin itse minä kiitän ministeriä [Hälinää —
+Puhemies koputtaa] ja koko hallitusta siitä, että tämmöinen lakiesitys on tuotu eduskun-
+taan, ja itse ajattelen journalismia ja erityisesti luotettavaa journalismia. Kun edustaja Kas-
+vi kyseli, onko se yhdenvertaista, että jollakin alueella jaetaan kolmena päivänä ja jollakin
+viitenä päivänä, niin minun mielestäni vielä suurempi yhdenvertaisuuskysymys on se, että
+ihmiset saavat luotettavaa tiedonvälitystä myös haja-asutusalueilla eli joka puolella Suo-
+mea. 
+
+Tästä luotettavasta tiedonvälityksestä kannattaa joku sana vaihtaa. Nimittäin tänä päivä-
+nä sitä saa ruveta jo etsimään, koska nämä monet otsikot ovat niin viritettyjä ja yksioikoi-
+sia, että minusta olisi jopa eduskunnasta hyvä lähteä sellainen vaatimus, että kun me pi-
+dämme nyt journalismin puolta, niin journalismi pyrkisi tiedonvälityksessä siihen, että se
+jakaa neutraalia tietoa ja syventää vähän tietoa, mitä se jakaa, eikä mennä pinnallisen po-
+pulismin [Puhemies koputtaa] mukana.
+
+17.24 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Me kaikki
+tiedämme, että postinjakelussa on tällä hetkellä enemmän ja enemmän vaikeuksia, ja jota-
+kin on pakko alkaa tekemään. Mistä Postin kannattavuus tällä hetkellä tulee — kyllä se tu-
+lee siitä moninaisesta ajan hetkessä elämisestä, jolla on saatu Posti pyörimään, sillä valtio
+ei tällä hetkellä tue eikä sen ole tarkoitus tukea jatkossakaan Postin toimintaa, joten on teh-
+tävä muutoksia lainsäädäntöön. [Välihuutoja vasemmalta] Nyt sitten tilanne on se, että
+mitä tapahtuu, jos tätä muutosta ei nyt tehdä. Ministeri Berner: Missä me olemme, jos me
+6
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+emme äkkiä tartu tähän tilanteeseen? On todella vastuullista, että me hallituksena tartum-
+me nyt tähän asiaan ja saamme postinjakelun turvattua koko maassa myös jatkossa. Tämä
+on todella tärkeä asia. Se on meidän peruspalvelu, jonka me olemme hoitaneet ja me vas-
+tuullisena toimijana haluamme hoitaa, niin että jatkossakin se pelittää ja toimii koko maas-
+sa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Myönnän vielä vastauspuheenvuorot
+edustajille Kymäläinen ja Hoskonen ja sen jälkeen ministerille noin 3 minuuttia. 
+
+17.25 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa puhemies! Huolestuttaa kyl-
+lä kuunnella täällä keskustan ja hallituspuolueen edustajien kehua tästä postilain esitykses-
+tä, että tämä olisi jonkinsorttinen ratkaisu. 
+
+Kädessäni on lainsäädännön arviointineuvoston lausunto tästä postilaista, ja täällä aivan
+selvästi sanotaan, että puute on, että keskeisten ehdotusten olennaisimmat hyödyt ja kus-
+tannukset eivät hahmotu luonnoksesta. Luonnosesityksestä ei saa käsitystä keskeisten eh-
+dotusten euromääräisistä odotetuista vaikutuksista yrityksiin, kotitalouksiin, julkiseen ta-
+louteen tai viranomaisiin. Esitysluonnoksen taloudellisista vaikutusarvioista ei käy ilmi,
+ylittävätkö lainmuutoksella tavoiteltavat, odotetut yhteenlasketut hyödyt yhteenlasketut
+kustannukset. On aika huolestuttavaa, että siitä huolimatta, että arviointineuvosto esittää,
+että nämä puutteet ja nämä epäkohdat korjattaisiin ennen esityksen tuontia, te tuotte tämän
+eduskuntaan käsittelyyn.
+
+17.26 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Todella-
+kin aika muuttuu, ja lakien on elettävä sen ajan mukana, missä elämme. Postilaitos on tie-
+tenkin meille kaikille tärkeä. On tärkeää, että kun kirje lähtee Rovaniemeltä — tai lähteepä
+se Utsjoelta taikka Helsingistä — se menee aina perille ja luotettavasti. Siitähän tässä pi-
+detään kiinni. 
+
+Maailma on rajusti muuttunut. Muistan ajan, kun postitoimistoja lakkasi paljon. Ilo-
+mantsistakin varsinainen postitoimisto lakkasi aikanaan, ja hirmuinen huuto oli silloin, että
+nyt palvelut heikkenevät. [Välihuuto] Miten kävi? Se meni paikalliseen kauppaan, ja nyt se
+postitoimisto on auki seitsemänä päivänä viikossa aamuyhdeksästä iltayhdeksään, joka
+päivä, kaikkina päivinä [Suna Kymäläisen välihuuto] viikon aikana. Elikkä silloin palvelu
+parani paljon. 
+
+On tärkeää pitää huoli siitä, että koko maassa postia jaetaan ja niin, että posti menee luo-
+tettavasti perille. Ajan haasteet ovat ankarat — ei kai sitä kukaan kiellä — mutta pakko kai
+näiden mukana on elää. Postin määrä, jaettavien kirjeiden määrä vähenee valtavasti, digi-
+talisaatio jyrää, pakko siihen on reagoida.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt ministerille 3 minuuttia ja minis-
+terin jälkeen puheenvuoro ainakin edustajille Koski, Taavitsainen ja Arhinmäki. 
+
+17.27 Liikenne- ja viestintäministeri Anne Berner:  Arvoisa herra puhemies! Postin
+yleispalveluvelvoitteen piirissä ovat todellakin vain kansalaisten toisilleen lähettämät kir-
+jeet. Digitalisaation seuraamuksena kuitenkin postin jaettavat määrät ovat laskeneet mer-
+kittävästi ja Postin jakelusta saamat tulot ovat laskeneet 50—70 miljoonaa per vuosi. Kyllä
+7
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+sillä on merkitystä, ja se on näkynyt myöskin Postin toiminnassa heidän viimeaikaisissa yt-
+menettelyissään.
+
+Nykyinen yleispalveluvelvoite on Postille raskas. Digitalisaatio on tehnyt sen, että kir-
+jeitä lähetetään vähemmän ja suurin osa, kolmasosa, niistä kirjeistä, jotka lähetetään, lähe-
+tetään lyhyenä aikana joulun ympäristössä. Se tarkoittaa myöskin sitä, että kun meillä on
+mahdollisuus helpottaa Postin toimintaa ja keventää tätä yleispalveluvelvoitetta näiden kir-
+jeiden osalta, joihin siis eivät kuulu laskut, eivät kuulu sanomalehdet, eivät kuulu mainok-
+set, niin silloin meidän on myöskin syytä huolehtia, että me pääsemme taas askeleen eteen-
+päin.
+
+Kaupungeissa meillä on tänä päivänä keskimäärin 14 reittiä per luukku ja viikko. Elikkä
+jokaisella luukulla käydään keskimäärin kaksi kertaa vuorokaudessa. Ei kaikki Postin toi-
+mesta, vaan siellä on myös merkittävä määrä muita jakelijoita, jotka jakavat tavaraa jokai-
+seen luukkuun keskimäärin kaksi kertaa per päivä, jolloin meillä on mahdollisuus helpot-
+taa Postin velvoitetta — jakelua syntyy kuitenkin niin, että käytännössä jokaisessa luukus-
+sa käydään seitsemänä päivänä viikossa.
+
+Sen sijaan maaseudulla on keskimäärin viisi reittiä per viikko. Käydään arkisin kerran
+päivässä. Ja se tarkoittaa sitä, että silloin me emme voi maaseudulta keventää sitä velvoi-
+tetta, jotta syntyisi tasa-arvoinen lähtökohta ihmisille, vaan maaseudulla lähdetään siitä,
+että pyritään — yhdistämällä palveluita ja velvoittamalla kilpailuttamaan se jakelu — syn-
+nyttämään yrittäjyyttä ja tukemaan haja-asutusalueiden mahdollisuuksia saada sitä palve-
+lua nimenomaan niin, että se kilpailuttaminen yhdistetään varhaisjakeluun. Silloin mahdol-
+listetaan se, että sanomalehdille löytyy nimenomaan mahdollisuus saada, jokaiselle, var-
+haisjakelu edes kerran arkipäivässä.
+
+Tämä on tämän harjoituksen tavoite, ja sen takia on äärimmäisen tärkeätä, että me yri-
+tämme aidosti katsoa, miten me ratkomme pragmaattisesti tämän kokonaisuuden. Arvioin-
+tineuvoston lausunto tuli lausuntokierroksen aikana. Jos olette tarkistaneet, niin meidän
+esitystämme on täydennetty tältä osin arviointineuvoston lausunnon jälkeen, saatuamme
+Postin positiiviset ja negatiiviset vaikutteet ja saatuamme Sanomalehtien Liiton positiivi-
+set ja negatiiviset vaikutteet. Ne näkyvät siellä.
+
+17.31 Susanna Koski kok (vastauspuheenvuoro): Arvoisa puhemies! Mielestäni posti-
+lain uudistus on erittäin tervetullut, ja varmasti tässäkin salissa olemme yhtä mieltä siitä,
+että jotain uudistusta — ja hallittua uudistusta — tarvitaan, jotta postinjakelu tässä maassa
+voi kohentua.
+
+Tässä salissa on käytetty useita puheenvuoroja, joissa on kannettu järjestään huolta haja-
+asutusalueista. On kiistelty postilaatikoista ja postilokerikoista. Nämä huolet ovat tietysti
+ihan todellisia ja olemassa olevia, mutta jotenkin ne saavat minut ajattelemaan, että onko
+näiden argumenttien valossa Suomi kuitenkaan valmis niin mittaviin uudistuksiin kuin sen
+pitäisi olla. Jos katsotaan kansainvälistä kehitystä, muissa Pohjoismaissa on erittäin toimi-
+vat digitaaliset postinjakelujärjestelmät, joista Suomen pikemminkin pitäisi ottaa mallia,
+jotta myöskin postinjakelu voi uudistua siinä määrin, että myös uudet sukupolvet saavat
+sellaiset palvelut, jotka he kokevat lähinnä itselleen [Puhemies koputtaa] omiksi.
+
+17.32 Satu Taavitsainen sd (vastauspuheenvuoro): Arvoisa puhemies! Hyvä ministeri,
+jos tämän lain perimmäinen tarkoitus oli turvata sanomalehtien jakelu, niin kävikö teillä
+8
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+lainkaan mielessä, että yksi keino olisi ollut määritellä sanomalehdet yleispalveluvelvoit-
+teen piiriin, jolloin se olisi hoitunut myös tasa-arvoisemmin kuin tässä esityksessä?
+
+Perustuslakivaliokunta on joutunut tällä kaudella huomauttamaan hyvin monista halli-
+tuksen lakiesityksistä. Viimeksi tänään olin sekä puolustusvaliokunnassa että liikenneva-
+liokunnassa, joissa käsittelimme perustuslakivaliokunnan huomautuksia. Miten, ministeri,
+aiotte reagoida siinä tilanteessa, kun tällainen jakeluyritys kaupunkialueella lopettaa toi-
+mintansa ja sitten ihmiset eivät enää kuulu tälle alueelle? [Puhemies koputtaa] Miten toi-
+mitte siinä tilanteessa?
+
+17.33 Paavo Arhinmäki vas (vastauspuheenvuoro): Arvoisa herra puhemies! Postinjake-
+lussa on ollut suuria ongelmia, on ollut Lapissa, on ollut Espoossa, ja niin on ollut myös
+Helsingissä. Yksi keskeinen syy tähän on se, että kun postin määrä väheni — mikä on fak-
+ta, jonka kai kaikki nyt sentään täällä allekirjoittavat — niin Posti reagoi siihen sillä, että ir-
+tisanoi postinjakajia ja laajensi postinjakelualueita, ja vaikka laskennallisesti jossain pää-
+konttorissa ajateltiin, että isompi määrä luukkuja voidaan jakaa, niin fyysisesti, kun matka
+pitenee, se ei ole mahdollista. Tästä johtuen meidän postinjakelu on tökkinyt — ja kuiten-
+kin se on ollut kannattavaa toimintaa. Pitkään, jopa vuosikymmeniä, Postin palveluista ir-
+tisanottiin, ja sitten otettiin myöhemmin pätkätöihin takaisin. Ja nyt tämän seurauksena on
+se, että meidän postin kulku hidastuu taajama-alueilla mutta myös haja-asutusalueilla, ja
+tämän seuraus on myös se, että meillä työllisyys heikkenee [Puhemies koputtaa] postinja-
+kelupuolella. Paljon on ollut työllistettynä esimerkiksi osatyökykyisiä. [Keskustan ryh-
+mästä: Jotakin on tehtävä!]
+
+17.34 Mirja Vehkaperä kesk (vastauspuheenvuoro): Arvoisa puhemies! Sanomalehdet
+ovat jo tänä päivänä kilpailuttaneet oman sanomalehtijakelunsa, siis joko jakavat sitä itse
+tai sitten ostavat sen muualta. Samoin Posti Oy kilpailee jo nyt sellaisilla markkinoilla, jot-
+ka avautuvat tässä laissa vielä paremmin kaikkien yritysten ja kaikkien toimijoiden käyt-
+töön. Mutta olen edustaja Arhinmäen kanssa samaa mieltä siitä, että nykyisen Posti Oy:n
+yt-neuvottelut eivät voi jatkua samalla tavalla tästä eteenpäin. Tämä on kestämätön tilanne
+Posti Oy:n työntekijöille: ollaan jatkuvassa epävarmuudessa, jatkuvassa laskukierteessä
+siinä, että kun kirjepostin määrä ja sanomalehtien määrä koko ajan laskevat, niin mitä nii-
+den tilalle. Uusi liiketoimintamahdollisuus esimerkiksi liikennekaaren kautta mahdollistaa
+sen, että haja-asutusalueella esimerkiksi postin mukana kuljetetaan muuta: ostoskasseja,
+lääkkeitä, [Puhemies koputtaa] paketteja ja niin edelleen — monenlaista muotoa.
+
+17.35 Harry Wallin sd (vastauspuheenvuoro): Herra puhemies! Kun edustaja Vehkaperä
+väitti, että Posti tarvitsee valtion tukea, niin se ei tosiaankaan pidä paikkaansa. [Välihuuto-
+ja] 18 miljoonaa euroa Posti tuloutti viimeksi valtiolle, ja se johtuu siitä, että aikaisemmat
+postilakiuudistukset ovat perustuneet siihen, että ei ole hyväksytty kermankuorintaa, vaan
+niillä, jotka tulevat jakamaan, on samat velvoitteet kuin Postilla.
+
+Tässä hallituksen esityksessä jää vain ihmettelemään tätä pakkokilpailutusta haja-asu-
+tusalueilla: kun se pitää ulkopuolisen toimijan toimesta toteuttaa, niin miksi tässä ei anneta
+myöskin Postille mahdollisuutta jakaa, ja sitten jos ei Posti halua jakaa, niin sen jälkeen sit-
+ten kilpailutetaan. Mutta tässä lakiesityksessä — jos ymmärrän väärin, niin ministeri var-
+maan sitten korjaa — tämä on pakko kilpailuttaa, eikä Posti voi sitä itse toimittaa.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Sitten, kuten edustaja Kasvi totesi, kyllä tämä tietysti vähän hämmästyttää, että yleispal-
+veluvelvoite, 3/5 päivää, on kaupungeissa eri kuin haja-asutusalueilla. Aikaisemmin [Pu-
+hemies koputtaa] pidettiin yleispalveluvelvoite samana koko Suomessa.
+
+17.37 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa herra puhemies! Oikeastaan
+jatkaisin siitä, että kun nyt oppositio antaa ymmärtää, että mitään ei tarvitsisi tehdä, niin
+meillä kuitenkin totuus on se, että kirjepostivolyymi on laskenut vuodesta 2009 erittäin jyr-
+kästi, viime vuosina 100 miljoonalla per vuosi eli 900 miljoonasta 800 miljoonaan ja niin
+poispäin. Tämä tarkoittaa noin 60—70 miljoonan liikevaihdon vähennystä per vuosi. Ky-
+syisin arvoisalta ministeriltä — itse en sitä tässä osannut laskea, sen voi vaikka jälkikäteen
+toimittaa — mitä tällä laskulla vuonna 2020 kirje maksaa, jos se pitää toimittaa nykyisellä
+henkilöstöllä eli ketään ei saa irtisanoa — sehän on tietysti aina ikävää, jos irtisanotaan —
+ja kaikki viedään ja pidetään kiinni tästä? Mitä se kirjeen jako maksaa, kun kerran tässä
+tuntuu nyt, että annetaan täysin vääränlainen kuva tästä muutoksesta, [Puhemies koputtaa]
+joka ei ole vain yksin Suomessa. Me siirrymme digitaaliseen jakeluun kovaa vauhtia.
+
+17.38 Johanna Ojala-Niemelä sd (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä
+kilpailun avaaminen ei tule kyllä hyödyttämään maakunnassa asuvia, koska uudet toimijat
+keskittyvät kannattavan yrityspostin tiheimmille jakelualueille. En kyllä ymmärrä tätä: me
+tunnustamme sen, että jotain on tehtävä, mutta ei voi olla niin, että se, mitä tehdään, on pal-
+velutason heikentäminen, että minä saan Rovaniemellä postin kolmena päivänä viikossa
+mutta Eeva-Maria Maijala saa Savukoskella viitenä päivänä viikossa. Eihän voi olla näin,
+että ihmiset pannaan kahden kerroksen väeksi jatkossa. 
+
+Sanon, että vanha sananlasku [Paavo Arhinmäen välihuuto] "kyllä posti kulkee, kun
+Kusti polkee" ei vastaa enää tätä päivää, ja nyt hallituksen on kyllä pantava parastaan, että
+saadaan taas Kusti polkemaan.
+
+17.39 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä salis-
+sa, tässä keskustelussa olen ymmärtänyt, että joka puolella Suomea, siis joka puolella Suo-
+mea, Postilla on ollut toiminnassa ongelmia ja hidasteita, ja etenkin postinjakelussa niitä
+ongelmia on ollut. Voin todeta, että kyllä itsekin olen saanut yli puoli vuotta aikaisemmin
+lähetetyn kirjeen kotiin, niin että kyllä näitä on ihan joka puolella.
+
+Mutta ihmetyttää opposition puolelta se, että mitään ei saa tehdä. Kuitenkin kaikki tun-
+nustamme sen, että ongelmia on. Yleispalveluvelvoitteen piirissä olevien kirjeiden määrä
+vähenee joka vuosi, ja kohta niitä ei enää ole. Digitalisaatio tulee Suomen valtaamaan, ja
+jotain meidän täytyy tehdä. Omasta mielestäni tämä hallituksen esitys postilaista on siten
+hyvä asia eteenpäin vietäväksi. Ja tässä on myös hyviä asioita, nimenomaan, että nyt tur-
+vataan viisipäiväinen jakelu koko Suomessa. [Suna Kymäläinen: Eikä turvata!] — Kyllä se
+myöskin kaupungeissa turvataan, [Puhemies koputtaa] se on nyt kolmipäiväisenä, mutta
+sinne tulee paljon muutakin jakelua, [Puhemies koputtaa] että se tulee viisipäiväiseksi.
+
+17.40 Toimi Kankaanniemi ps (vastauspuheenvuoro): Herra puhemies! Opposition lo-
+giikka vähän hämmästyttää. [Harry Wallin: Ai vähän!] Nyt on Posti Oy:n kannattavuus ja
+tuotto turvattu sillä, että on väkeä, työntekijöitä, vähennetty ja alueita laajennettu, mutta me
+kaikki ymmärrämme, että ei tällä tiellä voida jatkaa loputtomiin, koska posti on kuitenkin
+jaettava. Näin ollen tarvitaan muita, nimenomaan rakenteellisia uudistuksia, ja tässä nyt
+10
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+niitä tehdään. Me kaikki ymmärtääkseni kannatamme tätä digitalisaatiota, jota hallitus vie
+ansiokkaasti eteenpäin, ja erityisesti ministeri Berner. Digitalisaatio on vastaus moniin on-
+gelmiin ja se tuo tehoa ja parannuksia meidän palveluihin, mutta pihtiputaan mummo ei
+välttämättä sitä pysty hyödyntämään ja posti hänellekin on toimitettava. Silloin on luotava
+nämä mahdollisuudet, ja se kolme päivää riittää varmasti siellä taajama-alueilla, ja näin
+päästään eteenpäin. Että oppositiolta vähän realistisempi vaihtoehto pitäisi nyt kyllä kuul-
+la tähän malliin.
+
+17.41 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Kyllä realismi puuttuu
+tästä esityksestä, mikä tänään on salissa, logiikka puuttuu. Joku varmasti voi ihmetellä, että
+jos tosiasiallisesti EU:n piirissä on keskusteltu siitä, voidaanko poiketa koko maan katta-
+vasta viisipäiväisestä jakelusta, niin tässä poiketaan siitä kahdella tavalla. 
+
+Yleensä normaalisti ajattelisi, että kuten EU-maissa käytäisiin keskustelua siitä, että
+joko otetaan käyttöön — joissakin kokeilumaissa on otettu käyttöön siis — se jakelu, jossa
+ei jaeta viitenä päivänä. Nyt tässä esitetään kolmipäiväistä jakelua kuitenkin sallittavaksi.
+Sen lisäksi tässä esitetään, että kirjenopeudesta tingitään, ja sitä on tehty näissä maissa,
+joissa ei ole päädytty luopumaan viisipäiväisestä jakelusta. Tässä siis tehdään kaksi toi-
+mea, joissa lähdetään sallimaan se, että kirje voi matkalla viipyä viisi päivää, mikä tarkoit-
+taa viikonlopun yli mennessä sitä, että se voi kestää käytännössä viikon. Siis tämä hallitus
+esittää, [Puhemies koputtaa] että postin jakelua voisi Suomessa näin digitaalisena aikana
+hidastaa viikkoon! Minä kysyn vain: onko tässä mitään järkeä? [Puhemies koputtaa] Ja
+avataan markkinat niin, että Postilta viedään nämä postin hommat, ja pyydetään, että Posti
+tekee vaikka ruohonleikkuuta tai hoitopalveluita jatkossa. [Puhemies koputtaa] Ei mitään
+järkeä!
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, nyt jos kaksi ker-
+taa samalla edustajalla kovin paljon menee yli minuutin, niin toivon, että edustaja katsoo
+sitten seuraavalla kertaa, että edes likimain pysyttäisiin sen minuutin puitteissa.
+
+17.43 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Maaseudun
+palvelut ovat tällä hetkellä Postille kannattamattomia. Sen me kaikki tiedämme. Minkä ta-
+kia oppositio nyt sitten vastustaa sitä, että me voisimme saada maaseudulle kannattavam-
+maksi sen toiminnan? [Välihuutoja sosiaalidemokraattien ryhmästä] Miksi oppositio vas-
+tustaa sitä, niin että maaseudun palveluita ei voida kehittää? Nyt meillä on sekä liikenne-
+kaari että tämä postilaki työn alla, ja niistä on muodostettavissa todella hieno kokonaisuus
+sillä tavalla että maaseudulla voidaan kannattavammin tuottaa monenlaisia maaseudun
+palveluita. Esimerkiksi samalla kun postia kuljetetaan, voidaan kuljettaa ihmisiä, voidaan
+lämmittää vaikka pirttiä, katsoa onko se mummo hengissä, kuljettaa tavaroita ja tehdä kaik-
+kia tämmöisiä asioita sillä samalla reissulla. Ja onko se aina välttämättä se postialan hen-
+kilö, joka näitä tekee? Voihan se olla myöskin hoitoalan ammattilainen, joka kuljettaa sen
+postin ja tekee näitä palveluita samalla kokonaisuudella. Oletteko te oppositiossa valmiita
+[Puhemies koputtaa] siihen kehitykseen?
+
+17.44 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa puhemies! Kyllä täytyy ih-
+metellä, miten kilpailu takaisi sen palvelun kannattamattomille alueille, haja-asutusalueil-
+le, jos ei se nytten onnistu jo 600 vuotta toimineelta Postilta, joka on kattanut noiden haja-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+asutusalueiden postipalveluiden toimimisen niillä taajamien massapostitusten tuottamilla
+tuloilla. Miten kilpailu takaisi tämän palvelun? Täytyy ihmetellä. 
+
+Ja kyllä huolestuttaa myöskin yksityisten ihmisten tietoturvan taso, kun asiakas ei tiedä,
+kuka sitä postia jakaa, onko se Posti Oy vai joku yksityinen toimija, ja mihin häviävät ne
+sähkölaskut tai terveystiedot tai lääkäriin kutsunta-ajat tai työhaastatteluun kutsuajat. Mis-
+tä ihmiset tietävät, keneltä niitä peräävät, jos kentällä on monia yksityisiä toimijoita?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Havaintojeni mukaan pyydetyistä pu-
+heenvuoroista on käyttämättä vielä edustaja Taimelan. Myönnän hänelle ja sen jälkeen mi-
+nisterille puheenvuoron, 3 minuuttia. Jos aivan tulenpalavaa ministerin jälkeen vielä on,
+niin pari kolme puheenvuoroa, ja sitten listaan.
+
+17.45 Katja Taimela sd (vastauspuheenvuoro): Arvoisa puhemies! Aivan aluksi tässä
+kohtaa tätä keskustelua on sanottava, että kansalaisten yhdenvertaiset palvelut postipalve-
+luiden osalta eivät voi riippua yksityisten toimijoiden liiketoiminnallisista päätöksistä.
+Toivottavasti kaikki ymmärtävät tämän tässä keskustelussa.
+
+Sitten kun puhutaan tästä valtion kokonaan omistamasta Postista, niin kyllä minua itseä-
+ni ihmetyttää myös se, että Postille tulee nyt tämän hallituksen esityksen mukaan muun
+muassa sellainen vaade kuin luovuttaa osoiterekisteri muille operaattoreille. Täytyy kui-
+tenkin muistaa, että tämä koko järjestelmä, mikä meillä on Postilla olemassa, on vuosien
+saatossa maksanut kymmeniä ja kymmeniä miljoonia. Se vaade, että muut mahdolliset
+operaattorit nyt saavat nämä osoiterekisterit niin sanotusti suoraan syliinsä, on melkoinen
+tuki näille uusille postiyrityksille, ja kun puhutaan todellakin valtio-omisteisesta Postista,
+joka tulouttaa myös omistajalleen euroja, niin tämä kuulostaa jotenkin täysin ennenkuulu-
+mattomalta, [Puhemies koputtaa] ja voin kuvitella, että kansalaisten on hirvittävän vaikea
+ymmärtää tätä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt ministeri Berner, 3 minuuttia.
+
+17.46 Liikenne- ja viestintäministeri Anne Berner: Arvoisat edustajat, vielä kerran:
+Yleispalvelun jakelun ja keräilyn osalta sallitaan poikkeaminen viisipäiväisestä jakelusta,
+jos jaettavia yleispalvelukirjeitä ei ole, eli helpotetaan Postin yleispalveluvelvoitetta. Li-
+säksi joustavuutta tuo viittaus laatustandardiin ja sähköisiin palveluihin, tämä on pääsään-
+tö. Samalla me esitämme kulkunopeusstandardiin joustavoittamista ja sitä, että jakelussa
+voidaan käyttää sähköisiä kanavia. Tämä on siis se pääsääntö. Se tarkoittaa käytännössä si-
+tä, että jokaiselle jaetaan yleispalveluvelvoitteisiin kuuluvat kirjeet, jotka ovat kansalais-
+ten toisilleen lähettämiä kirjeitä — tähän eivät kuulu laskut, eivät kuulu virkakirjeet, eivät
+kuulu lääkärin kutsut, mitkään tämmöiset eivät ole tämän piirissä. Nämä jaetaan siis vähin-
+tään kolmena päivänä viikossa.
+
+Mutta samalla on kuitenkin realiteetti, että kaupungeissa on muitakin jakelijoita. Jo nyt
+on muita jakelijoita postille, ja Posti kilpailuttaa jo nyt alihankkijoillaan palveluita. Ja kos-
+ka kaupungissa me jaamme käytännössä 7 päivänä viikossa jotakin, 14 reittiä viikossa, niin
+me lisäämme uuden momentin, jolla me huolehdimme siitä, että vähintään, edes 5 kertaa
+viikossa, jaetaan niillä alueilla, joissa ei ole varhaisjakelua tällä hetkellä.
+
+Miksi se kilpailuttaminen? Siksi, että se mahdollistaa palveluiden yhdistämistä, että voi-
+daan kuljettaa muita asioita samassa kuljetuksessa. Voidaan tehdä se vähän kannattavam-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+min. Jos ei siellä synny sitä, niin Postilla on edelleen velvoite, tai mahdollisuus, jos se ha-
+lutaan katsoa niin päin, itse huolehtia siitä toimittamisesta. [Eduskunnasta: Millä rahalla?]
+Tämä huolehtii kuitenkin siitä, että meillä syntyy kaupallisia sopimuksia, ja ne kaupalliset
+sopimukset ovat se perusta, jolla jaetaan tällä hetkellä ne lääkärin kirjeet, ne laskut, ne sa-
+nomalehdet joka tapauksessa. Posti on monissa näissä jo nyt se sopimuksen tekijä, mutta
+jatkossa me huolehtisimme siitä, että myöskin siellä haja-asutusalueilla mahdollistetaan tä-
+män tekeminen. 
+
+Kysymys tässä on ensinnäkin siitä, että pyritään luomaan jakelupalvelutoiminnalle lisää
+työllisyyttä ja lisää yrittäjyyttä. Toiseksi, huolehditaan siitä, että haja-asutusalueilla syntyy
+toimintaa, joka myöskin mahdollistaa siellä paremman resurssien käytön digitalisaation ai-
+kana. Nytkin me olemme tämän asian äärellä. Yhdenvertaisuudesta pidetään juuri tätä
+kautta kiinni. Meillä ei ole muita keinoja tulla Postia vastaan ja samanaikaisesti kuitenkin
+turvata jakelu koko maassa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Siirrymme puhujalistaan. Ehkä sitten-
+kin tehdään niin, että myönnetään vastauspuheenvuoro edustaja Wallinille, ja sitten sen jäl-
+keen puhujalistaan. — Edustaja Wallin.
+
+17.49 Harry Wallin sd (vastauspuheenvuoro): Kiitos, arvoisa puhemies! Lyhyt kysymys
+vain: Jos tämä laki nyt tulee voimaan, niin kuin hallitus todennäköisesti sen ajaa, niin mi-
+ten sitten valvotaan jatkossa tämän lain määräyksiä, kun Viestintävirastohan on se, jonka
+pitää valvoa? Ja nyt kun on näitä ongelmia sitten maassa nykyisenkin postilain toimesta,
+niin takaatteko te sen, että Viestintävirastolla on riittävät resurssit? Ja ehkä sellainen lain-
+säädännön muutos, että se tiukemmin valvoo jatkossa, että tätä yleispalveluvelvoitetta tul-
+laan jatkossa toteuttamaan, eikä niin kuin nyt, että se vain on sinnepäin.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Jaha, mennään puhujalistaan. — Kat-
+son, että haluaako ministeri sanoa "jaa" tai "ei", mutta hän varmaan sanoo myöhemmässä
+vaiheessa sitten vastauksen tuohon kysymykseen. [Anne Berner: Kyllä!]
+
+17.50 Katja Hänninen vas: Arvoisa herra puhemies! Arvoisa ministeri! Meillä tuolla
+pohjoisessa on todella suuri huoli postista. Monissa tilaisuuksissa, joissa olen ollut, ihmi-
+set ovat tulleet kysymään, voiko tulevaisuudessa enää luottaa siihen, että tieto lääkäriajasta
+tulee ajoissa.
+
+Tämä on ihan todellinen huoli. Me emme saa unohtaa ikääntyviä suomalaisia; jokaisella
+ei ole sujuvaa digitaalista osaamista. Tässä esityksessä heikennetään meidän jokaisen pe-
+ruspalvelua ja asetetaan valitettavasti ihmiset eriarvoiseen asemaan. Kirje saa viipyä mat-
+kalla nykyistä pidempään. Ensilukemalta vaikuttaa siltä, että harvaan asutulla alueella ti-
+lanne olisi parempi, kun viisipäiväinen jakelu säilyy, mutta kun pykälät kertovat toista.
+Onko niin, että päivän lehti tuleekin perille vasta ylihuomenna, jos kirjepostia ei ole? Tä-
+mäkin lakimuutos taitaa lopulta iskeä kovimmin syrjäseutujen ihmisiin. Postitoiminnan
+kilpailutus sanomalehtien varhaisjakelun ulkopuolella ei kuulosta kovin järkevältä. Se vain
+lisää byrokratiaa ja kuluja ja kurittaa työntekijöitä. Kuluttajien postimaksut todennäköises-
+ti nousevat. Hallitus perustelee tätä uudistusta norminpurkutalkoillaan. Oikeasti tämä esi-
+tys heikentää suomalaisten palveluita ja päinvastoin lisää byrokratiaa.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Arvoisa puhemies! Erityistä huolta kannan työntekijöistä. Valtion on oltava vastuulli-
+nen omistaja ja työnantaja. Nyt hallitus aikoo pakottaa Postin luovuttamaan osoiterekiste-
+rinsä kilpailijoille, ja samalla suomalaisten yksityisyydensuoja voi olla uhattuna. Kilpailu-
+tuksen seurauksena työntekijöiden tilanne muuttuu entistä epävarmemmaksi. Oma työ on
+vaakalaudalla jokaisen kilpailutuksen kohdalla. Me emme voi rakentaa peruspalvelua täl-
+laisen työntekijöiden kyykytyksen varaan.
+
+Tästä esityksestä on vaikea löytää kiitettävää. Tulemme käymään tämän huolella läpi
+valiokunnassa. Eikö olisi jo aika kehittää postipalveluita eikä heikentää niitä? Eikö meidän
+olisi jo aika antaa postilaisille heidän ansaitsemansa arvostus?
+
+17.53 Jyrki Kasvi vihr: Arvoisa puhemies! Postiala on suuressa murroksessa. Digitali-
+saatio syrjäyttää kirjeet ja lehdet yhtä varmasti kuin sähköposti syrjäytti sähkeet ja faksit.
+Vastaavasti verkkokauppa lisää pakettilähetysten määrää. Viimeksi viime yönä ostin ver-
+kosta kaksi tuotetta Postin pakettiautomaattiin. Esimerkiksi Tanskassa, joka on meitä pari
+vuotta edellä digitalisaatiossa, laskut ja sanomalehdet ovat jo siirtyneet verkkoon ja viran-
+omaisten kanssa asioidaan vain sähköisesti. Posti jaetaankin Tanskassa enää kahtena päi-
+vänä viikossa.
+
+Tämä postilain muutos on vain välivaihe lähilogistiikan rakennemuutoksessa. Toivotta-
+vasti Posti käyttää tämän siirtymäajan hyväkseen. Tämä esitys ei kuitenkaan lupaa Postille
+hyvää. Palvelun laadun laskeminen ei taatusti paranna Postin kilpailukykyä suhteessa kil-
+pailijoihin. Käytännössä nyt esitetty laatutaso tarkoittaisi sitä, että Postin palveluita ei voi-
+si enää käyttää esimerkiksi viranomaisasiointiin tai laskujen lähettämiseen. Vaikka viran-
+omaiskirjeet eivät kuulu yleispalveluvelvoitteen piiriin, kyllä postinjakelun hidastuminen
+vaikuttaa vääjäämättä myös viranomaiskirjeiden jakeluun. Ei aikakriittisiä kirjeitä voi lä-
+hettää, jos merkittävä osa niistä toimitetaan vasta viidentenä arkipäivänä, siis viikon kulut-
+tua lähettämisestä.
+
+Lisäksi on syytä huomata 17 §:n yksityiskohtaisissa perusteluissa oleva lause, jonka mu-
+kaan jakelun laatua arvioitaessa riittävänä laatuna pidetään vähintään 96 prosentin toteutu-
+maa jaettavista lähetyksistä. Siis joka 25. lähetys voi viipyä matkalla yli viisi arkipäivää.
+Miten silloin käy esimerkiksi työttömälle, jolle TE-keskus on lähettänyt tiedon avoimesta
+työpaikasta? Kun hän ei hae työpaikkaa ajoissa, hän joutuu karenssiin ja menettää työttö-
+myyspäivärahansa. Tällaisia tapauksia on jo nyt aivan liikaa, jo nykyisen lain puitteissa.
+
+Joka tapauksessa kirjepostissa lähetettyjen laskujen eräpäiviä joudutaan myöhentämään
+ainakin viikolla. Eikä viikko aina riitä, sain tosiaan pari päivää sitten postilaatikkooni las-
+kun, joka oli lähetetty lokakuussa. Karhut ja viivästyskorot on maksettu, ei Postin vaan
+omasta pussistani. On merkille pantavaa, että esitetyn lain laatustandardipykälässä ei kiin-
+nitetä huomiota toimitusvarmuuteen, vain aikaan. Postilaki lähtee olettamuksesta, että
+kaikki lähetykset jaetaan oikeaan osoitteeseen, kuten ilmoitus poikani palvelukseenastu-
+mismääräyksestä, joka kannettiin naapuritaloon. Sekä kentältä tullut palaute että oma ko-
+kemukseni kertovat, että jakeluvirheet ovat valitettavan yleisiä. Itseltäni on jäänyt esimer-
+kiksi kaksi lääkäriaikaa käyttämättä, koska kutsukirjeet eivät tulleet koskaan perille.
+
+Arvoisa puhemies! Hyvä lakiesitys on selkeä ja yksinkertainen. Tämä ei sitä valitetta-
+vasti ole. Esimerkiksi 17 §:ssä sanotaan selkeästi, että yleispalveluun kuuluvat kirjelähe-
+tykset on keräiltävä ja jaettava viitenä arkipäivänä viikossa arkipyhiä lukuun ottamatta
+noudattaen 19 §:ssä säädettyä yleispalvelun laatustandardia. Ja 19 §:ssä todetaan, että lä-
+hetyksistä vähintään 50 prosenttia on perillä viimeistään neljäntenä arkipäivänä ja vähin-
+14
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+tään 97 prosenttia viimeistään viidentenä arkipäivänä jättöpäivästä. Vasta, kun lukija pe-
+rehtyy 19 §:n yksityiskohtaisiin perusteluihin, hän huomaa, että viisi arkipäivää viikossa
+tarkoittaakin tässä laissa kolmea arkipäivää viikossa. Ei lain lukeminen saa olla salatiedet-
+tä. Kyllä pykälästä on käytävä suoraan selville, kannattaako postilaatikolle mennä tiistaina
+vai torstaina.
+
+Arvoisa puhemies! Kansalaisten yhdenvertaisuuden kannalta olisi vähintään kyseen-
+alaista, että posti jaettaisiin eri paikkakunnilla eri tavalla. Kaikki kuitenkin maksavat lähe-
+tyksistään saman hinnan siitä riippumatta, jaetaanko ne jokaisena arkipäivänä vai ei. Kaik-
+kein tasa-arvoisimpia olisivat kuitenkin muiden EU-maiden kansalaiset, joiden lähetykset
+jaettaisiin Suomeen kaikkein nopeimmin, siis nopeammin kuin Suomesta Suomeen lähe-
+tetyt. Tätä en tältä perussuomalaisten hallitukselta olisi osannut odottaa.
+
+Ymmärrän hallituksen huolen maakuntalehtien kohtalosta, mutta eikö tämä mene jo vä-
+hän liian pitkälle? Ensin Yleisradion maakuntatoimitukset piti piilottaa Ylen nettisivuilta,
+jotta ne eivät kilpailisi maakuntalehtien kanssa. Nyt hallitus yrittää turvata maakuntaleh-
+tien viisipäiväisen jakelun taajamien postinjakelua harventamalla. Ehkä hyvä maakunta-
+lehdille, mutta parantaako tämä Postin kilpailukykyä? Hallitus tietää kyllä vastauksen: ei
+paranna.
+
+17.58 Kari Kulmala ps: Arvoisa puhemies! Hallituksen esityksessä ehdotetaan muutetta-
+vaksi postilakia. Hyvä niin, koska nyt on sen aika. Esityksessä ehdotetaan, että yleispalve-
+lukirjeiden jakelu jatkuisi viitenä päivänä viikossa niillä alueilla, joilla ei ole sanomaleh-
+tien ylläpitämää jakeluverkkoa eli lehtien varhaisjakelua. Pohjois-Suomessa tämä tarkoit-
+taa edelleen sitä, että niin sanottu aamuposti tulee kello 18. Mikään ei siis tältä osin muutu
+— toivottavasti muuttuu eli olen väärässä.
+
+Sanomalehden mielestäni pitää tulla aamuisin, koska muutenhan ne eivät ole mitään uu-
+tisia. Tällöin kannattaa miettiä myös, onko mitään syytä hankkia esimerkiksi maakuntaleh-
+tiä, jos ne tulevat illalla kello 18, koska sen saman lehden voi lukea jo netistäkin. Mutta jos
+ei nettikään toimi, jäänee ainoaksi vaihtoehdoksi odottaa iltapostia ja iltauutisia televisios-
+ta tai radiosta.
+
+Kuten jo mainitsinkin, postinjakelu jatkuisi lakiuudistuksen myötä viitenä päivänä vii-
+kossa niillä alueilla, joilla ei ole sanomalehtien ylläpitämää jakeluverkkoa eli lehtien var-
+haisjakelua. Tämä mahdollistaa sanomalehtien viisipäiväisen jakelun nykyiseen tapaan
+myös haja-asutusalueilla. Tämä on tärkeä periaate, ja tästä on pidettävä ehdottomasti kiin-
+ni. Osaltaan tällä tavoin saamme pidettyä koko maan asuttuna, myös maaseudun. Tervetu-
+loa maaseudulle asumaan.
+
+Harvaan asutuilla alueilla jakelu ehdotetaan esityksessä toteutettavaksi yleispalvelun
+tarjoajan järjestämän hankintamenettelyn kautta. Tämä tulee nähdä mahdollisuutena eikä
+uhkana. Toki uhkana tätä ei voi pitää, mikäli itse asuu kaupungissa. Pidän myös tärkeänä,
+että harvaan asutulla alueella asuvat saavat postinsa jatkossakin paperisena versiona, mi-
+käli niin itse haluavat, vaikka sähköinen viestintä voimakkaasti lisääntyisikin.
+
+Tässä esityksessä on paljon hyvää, ja joka tapauksessa [Puhemies koputtaa] postilakia
+tulee uudistaa. 
+
+18.00 Satu Taavitsainen sd: Arvoisa puhemies! Hallituksen sielu ilmentyy tässä posti-
+laissa. Vähät välitetään ihmisistä, tasa-arvosta, perustuslaista ja yhteiskunnan peruspalve-
+luista. Pakottaminen on ilmeisesti hallituksen motto. Hallituksen toiminnan kehityskulku
+15
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+alkoi pakkolaeista, eteni soten pakkoyhtiöittämiseen ja suomalaisten sotilaiden pakkolä-
+hettämiseen ulkomaille ja tiivistyy nyt pakkohankkimiseen.
+
+Postin olisi pakko kilpailuttaa ja hankkia jakelunsa maaseudulla yrityksiltä. Tällä taval-
+la hallitus on luomassa tehottoman, byrokraattisen järjestelmän, jossa autot ajaisivat peräk-
+käin niin, että yritykset jakavat yleispalveluvelvoitteen alaisia kirjeitä ja posti perässä ja-
+kaa muita kirjeitä ja paketteja, sillä miksi Posti luovuttaisi tekemänsä sopimukset esimer-
+kiksi vakuutusyhtiöiden kirjeiden jakamisesta sille maaseudun yrittäjälle? Ei kuulosta jär-
+kevältä, tehokkaalta ja laadukkaalta toiminnalta. Yritykset voivat myös lopettaa toimintan-
+sa hyvin nopealla varoitusajalla, ja tällöin jakaminen sekä maaseudulla että kaupunkialu-
+eilla on heti aivan sekaisin.
+
+Perustuslakivaliokunta on joutunut useasti huomauttamaan hallituksen lakiesityksistä.
+Viimeksi tänään sekä puolustusvaliokunnassa että liikennevaliokunnassa oltiin sen tilan-
+teen edessä, että ministeriön esitys sisälsi perustuslain vastaisia ehdotuksia. Nyt käsiimme
+annetaan taas yksi tällainen lakiesitys. Puuttuuko hallitukselta kunnioitus suomalaisia ih-
+misiä ja oikeusvaltiota kohtaan?
+
+Kaupunkialueilla elävät suomalaiset aiotaan siis asettaa eriarvoiseen asemaan maaseu-
+dun asukkaisiin nähden. Jaon perusteena on jakeluyritysten toiminta-alueen raja. Kukaan
+ei kuitenkaan tiedä, missä ne rajat menevät. Eipä sitä ollut lain perusteluissakaan liitteenä,
+ja entäpä kun yritys muuttaa tuota jakelualuetta — samalla muuttuu myös ihmisten oikeus
+saada postia suuntaan tai toiseen. Lehtiä jakavien varhaisjakelufirmojen reittirajathan
+muuttuvat sen mukaisesti, miten ihmiset lehtiä tilaavat.
+
+Postia jaettaisiin eri perusteilla asuinpaikan mukaan: toisille nopeammin ja toisille hi-
+taammin, kaupunkilaisille jopa vasta viikon päästä. Ministeriö siis vähät välittää siitä, että
+ihmisten jaottelu asuinpaikan mukaan tuntuu olevan perustuslain 6 §:n yhdenvertaisuus-
+sääntelyn vastaista. Lain omassa tekstissäkin kerrotaan lain tarkoituksena olevan postipal-
+veluiden turvaaminen tasapuolisin ehdoin koko maassa. Näin ei kuitenkaan ole esityksen
+sisällössä. Vastaako ihmisten jaottelu sen perusteella, asuvatko he jonkun yrityksen jake-
+lualueella vai eivät, kuvaanne hyvästä lainsäädännöstä?
+
+Kaupungeissa siis postinkulku hidastuisi juuri, kun uhkasakon voimalla ollaan saatu
+postin jakeluhäiriöt kuriin. Viimeisen kahden viikon aikana ei ole ollut kuin vähän jakelu-
+häiriöitä siitä syystä, että Postin johdon on ollut välttämätöntä palkata riittävästi työnteki-
+jöitä tai alkaa maksaa sakkoja. Postihan on vältellyt työntekijöiden palkkaamista kuin rut-
+toa, ja hallitus — tällä esityksellään — tukisi tätä Postin johdon linjaa ja käytännössä tekisi
+2 500—3 000 ihmistä työttömiksi. Näyttääkin siltä, että Sipilä ei ohjaa valtionyhtiötä vaan
+Posti ohjaa pääministeri Sipilää ja ministeri Berneriä.
+
+Postinkulku on peruspalvelu, sillä emme ole niin digitaalinen yhteiskunta, että posti oli-
+si tarpeeton. Yli 2 miljardia lähetystä kulkee vielä vuosittain postin kautta. Tämän esityk-
+sen myötä kannattaa Haaparannassa asuvien käydä postittamassa kirjeensä Ruotsin puolel-
+ta, sillä EU:n sääntely takaa sen, että ulkomaan posti on jaettava nopeammin kuin tämän
+esityksen myötä.
+
+Arvoisa puhemies! Postin jakaminen on ollut se osa Postin toimintaa, joka on tuottanut
+rahallista tulosta kymmeniä miljoonia euroja vuodessa, ja osinkoa valtiolle esimerkiksi vii-
+me vuonna kertyi 18 miljoonaa. Sen sijaan, että Posti olisi keskittynyt perustehtäväänsä, on
+se tuhlannut satoja miljoonia euroja rahaa ostamalla kuljetusyrityksiä ja -kalustoa muun
+muassa elintarvikkeiden kuljettamiseen. Tämä syö suomalaisten kuljetusyrittäjien leipää.
+Ja ihmettelen, siunaako pääministeri omistajaohjauksesta vastaavana yhtiökokouksessa
+16
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Postin hallituksen toiminnan. Eikö pitäisi vaatia jo erityistilintarkastusta ja vaihtaa halli-
+tuksen jäseniä, jotta saadaan Posti ohjattua perustehtävänsä pariin ja lopettamaan rahojen-
+sa tuhlaaminen ja kitinä postin jakelukustannuksista?
+
+Tässä laissa on sellainenkin pakko, että posti pakotetaan antamaan muille jakeluyhtiöil-
+le osoitetietonsa, myös niiden henkilöiden, joilla on osoitteenluovutuskielto. Erityisesti
+joidenkin ammattikuntien edustajille, kuten poliiseille ja sotilaille, on ongelmallista, jos
+osoitteet ovat kaikkien saatavilla. Meillä on lukuisia kansalaisia, joiden osoitetiedot eivät
+ole julkisia. Perustuslain 10 §:n mukaan jokaisen yksityiselämä, kunnia ja kotirauha on tur-
+vattu ja kirjeen, puhelun sekä muun luottamuksellisen viestin salaisuus on loukkaamaton.
+Pykälä turvaa jokaiselle oikeuden luottamukselliseen viestintään. Nyt, kun postitoiminnan
+laatua tällä esityksellä lasketaan, häviää luottamus toimintaan ja viestintäsalaisuuteen.
+
+Arvoisa puhemies! Tämä postilaki pitää mielestäni kokonaan hylätä, koska tällaista la-
+kia emme yksinkertaisesti tarvitse. Sen sijaan meidän tulee vastata kansalaisten ja yritys-
+ten toiveeseen siitä, että posti kulkisi nykyään voimassa olevan lain aikarajojen mukaisesti.
+
+18.08 Eeva-Maria Maijala kesk: Arvoisa puhemies! On hyvä, että saan pitää puheen-
+vuoroni edustaja Taavitsaisen jälkeen, sillä edellinen puheenvuoro sisälsi paljon sellaisia
+asioita, jotka vahvistavat käsitykseni, että olen todella onnellinen siitä, että me keskusta-
+laiset olemme nyt hallitusvastuussa hoitamassa näitä asioita ja voimme hoitaa asiat sillä
+tyylillä, että pystymme palvelemaan suomalaisia, voimme huolehtia nykyajan tilanteesta,
+nykyisestä kehityksestä, nykyisestä digitalisaation kehittymisestä, emmekä tuota samanai-
+kaisesti valtiolle valtavia lisävelkoja. 
+
+Eli tämän mukaan me menemme eteenpäin, ja tällä viestintäpuolella ja liikennepuolella
+olemme saaneet aikaiseksi hyvin paljon esityksiä — tämä postilaki on yksi palanen tätä
+isoa kokonaisuutta, liikennekaaripuolella on muita — ja itse syrjäisimmän maaseudun
+asukkaana olen todella tyytyväinen, onnellinen siitä, että meidän ongelmatilanteemme on
+otettu nyt huomioon nykyajan kehityksessä. Tämä kehityskulku, missä me nyt olemme
+mukana, ja olemme työstämässä lakia sen mukaan, vastaa siihen, että maaseudulla ja koko
+Suomessa, myös kaupungeissa, pystyy elämään tasapuolisesti jatkossakin. 
+
+Postinjakelussa on ollut viime aikoina todella paljon vaikeuksia. Me kaikki tiedostam-
+me ja tiedämme tämän tilanteen. Tiedämme myöskin sen, että nämä vaikeudet ovat lähte-
+neet siitä, että Postilla on lakisääteisiä yleispalveluvelvoitteita, ja samanaikaisesti, kun
+olemme EU:n jäsen, olemme sitoutuneet monenlaiseen kilpailuttamiseen. Nyt meidän on
+pitänyt avata postitoimintojen kilpailuttaminen avoimille markkinoille, minkä jälkeen kil-
+pailevat toimijat voivat kuoria kerman päältä, mutta Postille jää myöskin velvoitteet hoi-
+dettavaksi. Meidän on tiedostettava tämä ja sen mukaan toimittava ja vietävä asioita eteen-
+päin.
+
+Elämme tällä hetkellä isojen muutosten aikaa, murrosten aikaa. Yksi asia on se, että di-
+gitalisaatio on kehittynyt valtavaa vauhtia. Myös meillä siellä Savukoskella, minun koti-
+kylässäni, 30 kilometriä Savukosken kirkolta eteenpäin, reilu 210 kilometriä Rovaniemel-
+tä Itä-Lappiin, on sama tilanne. Laajakaistarakentaminen on erittäin tärkeä asia. Tänään
+tässä salissa käymme vielä keskustelua laajakaistarakentamisen tukemisen kehittämisestä.
+Tässä on yksi merkki siitä, millä tavalla olemme hallitusvastuullisena toimijana ottaneet
+koko Suomen kehittämisen työn alle. 2018 tai 2019 myös valtion eri virastot siirtyvät sii-
+hen, että kirjeposteista siirrytään sähköiseen palveluun. Tämä on hyvä. Muun muassa Ke-
+lalta tulee valtava määrä ihan turhaakin postia, joka on tällä hetkellä jaettavissa sähköises-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+ti. Tässä on taas monta kirjettä pois postinjakelusta. Me olemme valmiita ottamaan nämä
+sähköisessä muodossa vastaan, mutta on hyvä, että siinä vaiheessa myös paperiversioita on
+tarkoitus olla saatavilla niille henkilöille, jotka postin paperimuodossa tarvitsevat. Sen ta-
+kia me tarvitsemme jatkossakin postilainsäädännön, joka varmistaa sen, että kaikkialla
+Suomessa on olemassa joku, jolla on yleispalveluvelvoite ja joka hoitaa ne paperillisetkin
+versiot perille. 
+
+Nykymuodossa, nykytilanteessa meillä ei ole eteenpäin menoa. Meidän on tehtävä muu-
+tos. Postilaki tarvitsee muutoksen. Kuuntelen todella kauhuissani sitä, miten oppositio täl-
+lä hetkellä sanoo, että pannaan romukoppaan koko esitys. Ettekö te halua kantaa vastuuta
+siitä, että koko Suomessa posti jaetaan asianmukaisesti? Ettekö te ole säikähtäneet sitä ti-
+lannetta, mikä meillä tällä hetkellä on olemassa postien kanssa, kun Posti ei ole toiminut
+niin kuin pitää toimia? Meidän on tehtävä muutosta. Meidän on oltava valmiit siihen, että
+me saamme varmistettua kaikille asianmukaiset palvelut jatkossakin. Meillä on erittäin hy-
+viä esityksiä, mutta on myös hyvä, että opposition puolelta saamme joitakin, muutamia
+konkreettisia esityksiä, miten näitä asioita viedään eteenpäin, mutta pelkällä haukkumisel-
+la me emme pääse eteenpäin. Me kaikki tiedostamme, että tämä on erittäin vaikea koko-
+naisuus. Minä toivon, että te kannatte myöskin osaltanne vastuun ja teette esityksiä raken-
+tavastikin siitä, miten me näitä ongelmakohtia ratkaisisimme. Ongelmia tässä riittää. Tämä
+lakiesitys on nytten hyvä pohja, ei varmastikaan valmis.
+
+Aika menee kovaa vauhtia eteenpäin. Toivon, että saisimme tästä nyt rakennettua jo la-
+kikokonaisuuden, millä päästään iso askel eteenpäin. 
+
+18.13 Katja Taimela sd: Arvoisa herra puhemies! Hyvät kollegat! Hallituksen lakiesityk-
+sen ensimmäisen lauseen mukaan "esitys edistää pääministeri Juha Sipilän hallituksen hal-
+litusohjelmassa keskeiseksi tavoitteeksi nostettua digitalisaatiota sekä normien purkua."
+Digitalisaatiota esitys edistää heikentämällä fyysisiä postipalveluita. Haluan muistuttaa
+meitä kaikkia siitä, että sähköinen asiointi ei voi olla ainoa vaihtoehto, ainakaan vielä.
+Kaikki meistä eivät vauhtisokeudessaan huomaa sitä, että meillä on keskuudessamme edel-
+leen muun muassa ikäihmisiä ja erityisryhmiä, jotka eivät pysty, eivät halua tai joilla yk-
+sinkertaisesti ei ole varaa pelkkiin sähköisiin palveluihin.
+
+Lähden alkuun siitä, jonka jo debatissakin totesin, että kansalaisten yhdenvertaiset pal-
+velut postipalveluiden osalta eivät voi riippua yksityisten toimijoiden liiketoiminnallisista
+päätöksistä. Koen lainsäädännöllisesti kovin vaikeaksi ehdotuksen siitä, että yleispalvelu-
+velvoitteeseen kuulumaton sanomalehtijakelu määrittelisi yleispalvelun tason. Perustusla-
+kivaliokunnan on aikanaan annettava lausunto siitä, voidaanko kansalaisten julkisten pal-
+velujen tasoa määritellä sen mukaan, onko alueella itsenäistä kaupallista toimintaa. Kau-
+pallinen toimija voi kuitenkin muuttaa ja lopettaa toimintansa vapaasti, kun lakiesityksen
+mukaan Postin jakeluvelvoitteet tarkistetaan vuosittain.
+
+Arvoisa puhemies! Ristiriitainen on hallituksen perustelu siitä, että esityksellä varmis-
+tettaisiin postijärjestelmän kestävyys postin määrän vähentyessä. Kuluttajien lähettämässä
+kirjeessä riittäisi, että 97 prosenttia lähetyksistä on jaettuna viidentenä arkipäivänä lähettä-
+misestä. Nykyinen raja on 95 prosenttia kahden arkipäivän sisällä. Kirjeen voisi luottaa
+olevan perillä siis vasta viikon päästä, jos silloinkaan, kun tunnemme käytännön tilanteen.
+
+Lakiesitykseen sisältyvä lisäys kohtuullisesta katteesta yleispalveluvelvoitteiden hin-
+noittelussa merkitsee käytännössä lupaa hinnankorotuksille. Postijärjestelmämme kannat-
+tavuus on riippuvainen riittävistä lähetysmääristä kiinteiden kustannusten kattamiseksi.
+18
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Kun palveluiden laatua heikennetään ja hinnat nousevat, niin sehän tulee vain entisestään
+kiihdyttämään postilähetysten vähenemistä, jos palvelua ei koeta kilpailukykyisenä vaih-
+toehtona. Tämähän on ihan selvä. Tällöin vaarassa on myös muu Postin varassa tapahtuva
+jakelu, kuten sanomalehtien jakelu, kun yksikkökustannukset tulevat nousemaan. Täytyy
+muistaa, että peruspostin jakelu on, niin Postin toimesta kuin toimialana laajemminkin,
+kannattavaa liiketoimintaa. Tämä on syytä todeta ääneen, jotta kaikki meistä sen muistavat.
+
+Arvoisa puhemies! Totesin debatissa, että nyt kysymys on pitkälti siitä, näkeekö maan
+hallitus Postin kuuluvan peruspalveluun vai bisnekseen. On kovin kummallista, että Postin
+perustoiminnan punainen lanka tuntuu olevan palvelun heikentäminen. Postin kulkuno-
+peuden, tai realistisesti sanottuna -hitauden, lisäksi yksi käsittämätön linjaus hallituksen
+esityksessä on ehdotus hankintamenettelystä. Sitähän voi pitää suoraan pakkokilpailutta-
+misena. Kun Postille on tarkoitus jättää joka tapauksessa velvoite lakisääteisten postipal-
+veluiden hoitamisesta, niin olisi vähintäänkin kohtuullista, että se voisi itse päättää, miten
+ja kuka jakelutyön tulee hoitamaan.
+
+Arvoisa hallitus, kun puhutaan valtion kokonaan omistamasta Postista, niin edelleen
+jaksan ihmetellä sitä, miten voi olla mahdollista, että Postille tulee hallituksen esityksen
+mukaan nyt muun muassa tämä vaade luovuttaa osoiterekisteri muille operaattoreille.
+Tämä kaikki on maksanut vuosien saatossa kymmeniä miljoonia, ja tämä vaade on myös
+nyt sitten melkoinen tuki uusille postiyrityksille.
+
+Kädessäni on Postin palveluesite. Selailin tätä tänään miettiessäni, mitä tänään puhuisin
+ja miten tähän postilain lähetekeskusteluun lähtisin. Tässä tekstiosa alkaa niin, että "tavoit-
+teenamme on sujuvampi arki". Jotenkin koen, että hallitus ottaa nyt melkoisen vastuun sii-
+tä, jääkö tuo tavoitteeksi vai tuleeko se joskus toteutumaan. Muutoksia ei vastusta edes op-
+positio, jos ne ovat yhdenvertaisia, kestävät perustuslailliset näkökulmat ja, mikä tärkein-
+tä, parantavat ihmisten luottamusta peruspalveluihimme, joihin ainakin itse Postin luen.
+
+18.18 Mirja Vehkaperä kesk: Arvoisa herra puhemies! Käsittelyssä olevaa hallituksen
+esitystä postilaista ei ole tehty suoraan Posti Oy:lle, kuten tästä salin keskustelusta voisi
+tulla ilmi. Kyseessä on postilaki, jolla turvaamme kirjepostin yleispalveluvelvoitteen mi-
+nimitason, siis minimitason, kun puhumme näistä 3 ja 5 päivän yleispalveluvelvoitteista.
+
+Minun mielestäni posti on suomalaisten perusoikeus. Siitä lähtökohdasta itse tarkaste-
+len tätä lakia. Postin vaikeuksien syynä on osaltaan digitalisaatio, joka on muokannut pe-
+rusteellisesti ihmisten käyttäytymistä sekä vaatimuksia ja odotuksia postipalveluista. Toi-
+mintaympäristö on rajussa muutoksessa, ja se ei johdu lainsäädännöstä, vanhasta tai nykyi-
+sestä tai tulevasta, vaan kansalaisten toimintatapojen muuttumisista. Kirjeiden sijasta vies-
+titellään sähköisesti, ja lehdet luetaan netistä. Tulevaisuudessa, lähivuosina, viranomais-
+kirjeet tullaan saamaan sähköiseen postilaatikkoon, ja mitä kaikkea tekniikka tuokaan tul-
+lessaan, sen saamme nähdä.
+
+Kesällä uutisoitiin joka puolella Suomea, että päivän posti ei tullut lainkaan tai se tulee
+muutenkin vasta iltahämärällä. Marraskuussa 2016 Postille todellakin langetettiin 100 000
+euron uhkasakko yleispalveluvelvoitteen rikkomisesta. Olemme siis siinä tilanteessa, että
+voi kysyä, täytämmekö tälläkään hetkellä tätä yleispalveluvelvoitetta. 
+
+Salissa puhuttiin aikaisemmin siitä, miten tällä hetkellä postinkanto, nimenomaan yleis-
+palveluvelvoitteen toteutuminen, pystytään rahoittamaan tai toteuttamaan. En itsekään ole
+sitä mieltä, että Posti Oy:tä pitäisi pääomittaa tai että julkisin verovaroin pitäisi maksaa
+postinkulkua. Posti Oy on liikelaitos, ja se toimii markkinoilla, joista sen pitäisi pystyä oma
+19
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+tulovirtansa tekemään itse. Enkä usko, että kukaan muukaan on sitä mieltä poliitikkona,
+että me julkisin varoin lähtisimme pumppaamaan postipalveluiden turvaamista.
+
+Olemme siis tilanteessa, että myöskin Kilpailu- ja kuluttajavirasto sekä EU:n komissio
+ovat ottaneet usein kantaa keinotekoisten alalle tulon esteiden poistamiseksi Suomessa, ja
+on todettu, että toimilupamenettely ei saa aiheuttaa tarpeetonta hallinnollista taakkaa alalla
+toimiville yrityksille tai muodostaa alalle tulon esteitä. Näitä esteitä olemme juuri nyt pois-
+tamassa sekä mahdollistamassa sen, että niillä kumipyörillä ja käsissä kulkee muutakin
+kuin vain kirjepostia ja sanomalehtiä. Todellakin esimerkiksi maaseudulla henkilöliiken-
+nettä, postipaketteja, ruokahuoltoa, koululaiskuljetuksia ja niin edelleen voidaan tulevai-
+suudessa yhdistää, jotta kuljettamisesta, logistiikasta tulee pitkien etäisyyksien Suomessa
+kannattavaa.
+
+Arvoisa puhemies! Hallitus vastaa ihmisten toiveisiin postipalveluista. Kun on järjestet-
+ty ensimmäinen lausuntokierros postipalveluiden kehittämisestä, niin yksiselitteisesti vas-
+taus on ollut se, että sanomalehtien jakaminen pitää turvata ainakin 5 päivänä viikossa mut-
+ta kirjepostin, tuon perinteisen, kohdalla oltaisiin valmiita vähän harventamaan sitä väliä.
+Siis tämä on kansalaisten suoraa palautetta, ja tähän vastataan yleispalveluvelvoitteella
+niin, että sitä kevennetään kirjepostin osalta 3 päivään viikossa mutta niin, että se tarkoit-
+taa sitä, että varhaisjakelun piirissä olevilla alueilla postia voitaisiin jakaa 3 päivänä viikos-
+sa — paino sanalla "voitaisiin". Käytännössä jakelu tapahtuisi kuitenkin viikon jokaisena
+päivänä, koska kaupungeissa posteja ja paketteja jaetaan muidenkin kuin Postin toimesta.
+Mutta viisipäiväisen jakelun turvaaminen koko maassa on erittäin tärkeää, ja maaseudulla
+me jaamme kirjepostin sitten viitenä päivänä viikossa, ja tämä on äärettömän tärkeä asia.
+
+18.23 Timo Heinonen kok: Arvoisa herra puhemies! Hyvä ministeri ja edustajakollegat!
+Postilain uudistus keventää Postin yleispalveluvelvoitetta. Yleispalvelukirjeiden jakelu
+siis voi harventua kolmipäiväiseksi kaupungeissa ja taajamissa, kun taas maaseudulla pos-
+tia jaetaan jatkossakin viitenä päivänä viikossa. Tämä jakelu siis tapahtuisi viitenä päivänä
+viikossa vähintään niillä alueilla, joilla ei ole sanomalehtien ylläpitämää varhaisjakelu-
+verkkoa, ja viestintäministeriö määrittäisi alueiden rajat vuosittain. Tämä on hyvin selkeä
+kokonaisuus.
+
+Yleispalvelukirjeitä itse asiassa jaetaan tänä päivänä keskimäärin 40 kappaletta vuodes-
+sa kotitaloutta kohden, ja näistä kolmannes on joulukortteja. Postialalla digitalisaation ai-
+heuttama myllerrys tulee jatkumaan rajuna lähivuosina, sillä jaettavan postin määrä vähe-
+nee edelleen. Täällä on käytetty vahvoja puheenvuoroja siitä, että posti on peruspalvelu, ja
+jopa puheenvuoroja, että jokaisen pitää saada näitä kirjeitä. En tiedä sitten, miten sen me
+kansanedustajat varmistamme, että jokainen tällaisen kirjeen saa, sillä se vaatii, että joku
+sen myös lähettää. Tämähän ei siis koske verottajaa taikka muita, vaan niitä kirjeitä, mitä
+itse kukin, vaikkapa edustaja Kaikkonen, lähettää, ja hän onkin ahkera lähettäjä ja tietysti
+omalta osaltaan on hyvin pitänyt tätä palvelua yllä.
+
+Muutos on väistämätön. Olen melkein vakuuttunut, että hallitus tekisi tämän, olisivat
+siellä mitkä puolueet tahansa. Ymmärrän myös sen, että salin vihervasemmistosta tätä ra-
+justi arvostellaan ja osittain keskustaan lyödään näitä kirveeniskuja, että tässä keskittämi-
+sestä on kyse, ja ymmärrän sen, että voisi olla, että jos toisenlainen hallituspohja tämän te-
+kisi, ääni salin keskeltä olisi hivenen erilainen, mutta itse olen vakuuttunut siitä, että halli-
+tuspohjasta riippumatta tämä uudistus jouduttaisiin tekemään.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Kirjelähetysten määrä itse asiassa lähti jyrkkään laskuun vuonna 2009, jolloin vuosittai-
+nen kirjevolyymi pieneni noin 2 prosenttia. Vuonna 2012 osoitteellinen kirjeposti väheni
+jo 4 prosenttia, 2013 pudotus oli 10 prosenttia, ja tämä on jatkunut. Kirjepostin volyymit
+ovat laskeneet Suomessa kuitenkin ehkä hivenen hitaammin kuin muissa Euroopan mais-
+sa. Esimerkiksi jos vertaamme Pohjoismaihin, Saksaan, Britanniaan ja Hollantiin, niin
+osoitteellista kirjepostia lähetetään Suomessa paljon. Tähän ehkä syynä on se, että meillä
+on hitaammin siirrytty ennen muuta sähköiseen laskutukseen. Laskutuksen sähköistymi-
+sen läpimurto tapahtui Suomessa vasta muutama vuosi sitten, 2013, ja Postin arvion mu-
+kaan vuonna 2020 sähköisten kuluttajalaskujen osuus olisi jo 75 prosenttia kaikista las-
+kuista.
+
+Yksi valopilkku Postin sektorille on tietysti ollut lisääntyvä postimyynti. Se on näkynyt
+verkkokaupan kasvun myötä. Toisaalta se on tuonut omia haasteita sitten taas kivijalkakau-
+poille, mutta ehkä turvannut postipalveluita kuitenkin monin paikoin.
+
+Postin viimeiset luvut näyttävät suuntaa. Osoitteellisten kirjeiden määrä laski vuonna
+2014 sadalla miljoonalla kappaleella. Eli kun 2013 jaettiin vielä 900 miljoonaa kirjettä,
+niin vuotta myöhemmin määrä oli pudonnut 800 miljoonaan. En löytänyt sen tuoreempia
+tilastoja, mutta Postin arvioiden mukaan lasku on jatkunut ollen noin 10 prosentin luok-
+kaa. Tämä tarkoittaa, että vuosittain Suomessa jaetaan yhä vähempi kirjeitä. Arvio on, että
+jaettava määrä hupenee nykyään 10 prosentin vuosivauhtia, ja tästä on Postille väistämättä
+tulossa kannattavuusongelmia. Postin arvioiden mukaan, jos lasku jatkuu samantahtisena,
+supistuu yhtiön liikevaihto vuosittain 60—70 miljoonaa euroa, mikä täällä on esille tullut.
+
+Nyt kun on annettu ymmärtää, että mitään ei Postissa pitäisi tehdä, eli kaikille pitäisi taa-
+ta jatkossakin työpaikat, vaikka kirjepostin määrä vähenee, niin itse mielelläni ottaisin sel-
+laisen tilaston taikka laskelman, missä katsottaisiin, mitä vuonna 2020 sen kirjeen lähettä-
+miseen menee. Kun edustaja Kaikkonen laittaa niitä eteenpäin, ja jos hänellä tänä päivänä
+menee tietty summa niiden lähettämiseen, niin mitä menee vuonna 2020? Täällä kuitenkin
+aika yleisesti on ollut käsitys, että tätä ei haluta — ei salin vasemmalta eikä keskeltä eikä
+oikealta laidalta — verovaroin olla tukemassa, jolloin se tarkoittaa sitä, että sen yhden kir-
+jeen hinta nousee merkittävästi, jos sama henkilöstö ja sama jakeluvelvoite pidetään koko
+maassa vaikka postin määrä vähenee. Tämä olisi hyvin oleellinen tieto ja mielenkiintoista
+kertoa, niin että pääsisimme tältäkin osin faktoihin ja tosiasioihin perustuvan keskustelun
+piiriin eikä oltaisi pelkästään tunteisiin vetoavien ajatusten parissa.
+
+18.30 Hannu Hoskonen kesk: Arvoisa herra puhemies! Nyt lähetekeskustelussa oleva
+hallituksen esitys postilain muuttamisesta on ehdottomasti tämän ajan henkeen sopiva la-
+kiesitys. Tällainen esitys on pakko tehdä. Ministeri Anne Berneriä on tästä syytetty, ja pi-
+dän niitä syytöksiä täysin kohtuuttomina ja erittäin väärinä. Ministeri Berner on tässä asias-
+sa tehnyt erinomaisen hyvää työtä. Ja tähän jos joku meinaa vielä syyllisiä etsiä vaikka al-
+lekirjoittaneesta — edustaja Hoskonen, joka ei ole tähän syyllinen — niin maailma on vain
+muuttunut ja muutosvauhti kiihtyy. Jos joku vihervasemmisto-oppositiosta kuvittelee, että
+koskaan et muuttua saa, niin 70-luvulla oli aikoinaan hitti, muuan Jouko ja Kosti esittivät
+kappaleen Koskaan et muuttua saa, ja teille on tainnut jäädä korvamadoksi se kyseinen
+kappale. Mutta maailma vain muuttuu, ja sille me emme mahda mitään.
+
+Uusi postilakiesitys vastaa siihen muutokseen, joka on käynnissä tällä hetkellä tässä
+maassa, ja sitä ei vain kukaan pysäytä. Yleispalveluvelvoite säilyy, ja nyt se kirjataan la-
+kiin, että maaseudulla jaetaan postia viitenä päivänä viikossa. Jos sitä jaettavaa jonakin päi-
+21
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+vänä ei jostain syystä ole, tämän yleispalveluvelvoitteen piirissä olevaa postia, elikkä ette
+ole kirjoittaneet niitä postimerkillisiä kirjeitä, niin sitten sitä voidaan jakaa vaikka vähän
+vähempinä päivinä, kun ei niitä ole, mutta viitenä päivänä kuitenkin lehdet tulevat ja postia
+jaetaan. Järjen käyttö tässäkään asiassa ei ole kielletty, ja tämä laki sallii sen järjen käytön.
+
+Edustaja Heinonen äsken todisti vahvasti, miten valtavasti tähän yleispalveluvelvoittee-
+seen kuuluvien kirjeiden määrä on vähentynyt, ja sillekään me emme mahda mitään. Tä-
+män päivän päiväjärjestyksessä hetken kuluttua alkaa käsittely laajakaistan rakentamisesta
+yhä tehokkaammin tähän maahan. Sehän syö nimenomaan postin jakelumääriä, kun raken-
+namme laajakaistaverkkoa. Onko sekään kenenkään syy? Se on nykyaikaa, mutta tämä
+uusi postilakiesitys varautuu juuri siihen, että laajakaistaverkko laajenee ja digitalisaatio
+etenee. Se ei ole ministeri Bernerin syy, vaan ministeri Berner aivan oikein reagoi tähän ti-
+lanteeseen, mikä tässä maassa ja maailmassa on. Se ei ole kenenkään syy, se on vain tämän
+hetken aikaa ja kehitystä.
+
+Yleispalveluvelvoitteen luonne on tietenkin muuttunut vuosien saatossa rajusti, ja pos-
+titoimistojakin, kuten kaikki tiedämme, on maaseutukyliltä ja kuntakeskuksista hävinnyt
+valtavasti. Esimerkiksi Ilomantsista kun tässä aikanaan hävisi se postitoimisto, mistä sen
+turvallisen postilähetyksen voi käydä hakemassa, niin kaikki olivat kauhuissaan, että nyt
+postipalvelut heikkenevät. Niin ei suinkaan käynyt. Kun se meni paikalliseen isoon kaup-
+paan, niin nyt se on seitsemän päivää viikossa auki aamuseitsemästä iltayhdeksään. Posti-
+palvelujen laatu meidän osaltamme parani sata prosenttia ja enemmänkin. Todella hyvää
+palvelua saa ja normaaleina kaupan aukioloaikoina seitsemänä päivänä viikossa. Jos joku
+siitä valittaa, niin kyllä nirppanokan nimen on silloin ansainnut.
+
+Postin tulot vähenevät vuosittain nykyisellä menolla, kun näiden kirjeiden määrä vähe-
+nee sen 50—70 miljoonaa euroa per vuosi. Tähänkin meidän on reagoitava, ja opposition-
+kin on syytä tunnustaa, että tämä realiteetti on olemassa eikä se sillä muutu miksikään, jos
+me sen kiellämme. Se on vain asia, jonka kanssa meidän pitää elää. Postin jakelu on tänä
+päivänä vapaata tässä maassa. Kilpailu on vapaata Euroopassa ja maailmassa. Minkä me
+sille voimme? Postin osoitteisto on vapaasti kaikkien saatavilla, aivan kuten puhelinnume-
+rotkin, ellei niitä joku halua välttämättä jostain erikoisesta syystä salata. Se on ihan vapaas-
+ti saatavaa tietokantaa, ja sillekään ei mahda mitään. Se on Suomen laissa, ja sen kieltämi-
+nen on itsensä pettämistä. Näin se vain on. Minä tietenkin haluaisin, että maailma olisi jol-
+lakin impivaaralaisella tasolla, vaan sitä se vain ei enää ole. Ja ei pidä ihmisiä hämätä sillä,
+että maailma on täksi mennyt. Se on vain mennyt tällaiseksi, ja vauhti tuntuu kiihtyvän.
+Joka tapauksessa osoitteet ovat vapaasti saatavaa aineistoa kelle tahansa, ja sen kanssa
+meidän on vain elettävä.
+
+Yleispalveluvelvoite on joka tapauksessa tällä uudella lakiesityksellä lakiin kirjattu, ja
+sillä turvataan maaseudulle se viiden päivän jakelu. Ja sitten viikonloppuna kyllä Posti on
+sopinut muilla menettelyillä muun muassa sanomalehtien jakelun. Elikkä minunkin koti-
+kunnassani Karjalainen, se maakunnan päälehti, jaetaan jokaiseen kotiin tai niihin postilaa-
+tikoihin viikonloppunakin. Ei se maailma ole muuttunut miksikään, eikä tule muuttumaan.
+
+Sitten, arvoisa puhemies, vielä lopuksi se, että kun nyt postilaissa sallitaan Postille mah-
+dollisuus jaella muutakin kuin sitä postia, niin sehän on hieno asia. Me vastaamme siihen
+palvelutarpeeseen, mikä haja-asutusalueilla on. Jaetaanko silloin mahdollisesti asiakkaan
+tilaamia ja kunnan valmistamia ruoka-annoksia taikka jotakin muuta, lääkkeitä, joitakin
+tiettyjä palveluita — tämä lakihan mahdollistaa sen. En minä näe siinä mitään uhkaa. Kun
+kerran postin määrä vähenee, niin jos se postinjakaja tuo sinne kotiin vaikka sen lääkepur-
+22
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+kin sieltä apteekista tai terveyskeskuksesta tai jonkun ruokapaketin, minkä asiakas on ti-
+lannut ja mistä hän pikkuisen maksaa, niin mitä pahaa siinä on?
+
+Kaupungeissa ja taajama-alueillahan postin jakelu tapahtuu aivan varmasti yhtä hyvin
+kuin ennenkin, ihan varmasti. Siellä Posti jakaa niitä. 
+
+Ja meillä on toistakymmentä yritystä tässä maassa, jotka postia jakavat koko ajan, ja jos
+joku teidän postitoimituksenne, joku kirje tai joku frankeerattu kirje — joka ei muuten kuu-
+lu sen jakeluvelvoitteen piiriin — menee väärään osoitteeseen tai tulee myöhässä, niin äl-
+kää syyttäkö siitä Postia. Saattaa hyvin olla, että sen on jakanut joku yhtiö, joka on saanut
+sen osoitteiston haltuunsa ja toimii bisnesperiaatteella. Ei siitä pidä Postia syyttää. Aivan
+kuin sekään, jos joku ajaa ylinopeutta, ei ole poliisin vika, vaan ehkä se vika on jossakin
+muualla.
+
+Että kannattaa pikkuisen oppositionkin miettiä, mitä te sanotte, koska totuus on kuiten-
+kin se totuus, joka ei pala, ja sen kanssa meidän on elettävä. Ja tämä uusi lakiesitys vastaa
+siihen, mihin maailma on muuttunut, ja se ei ole ministeri Bernerin vika eikä allekirjoitta-
+neen vika, vaan se on tähän maailmaan sopeutumista. Siihen tämä hallituksen esitys, mi-
+nisteri Bernerin valmistelema esitys, on erittäin hyvä.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Kymäläinen. [Katja Taimela
+pyytää vastauspuheenvuoroa] — Annetaan vastauspuheenvuoro edustaja Taimelalle.
+
+18.36 Katja Taimela sd (vastauspuheenvuoro): Arvoisa puhemies! Kiitos tästä vastaus-
+puheenvuorosta. — Harvoin teen näin, mutta muistelen viime viikkoa, kun eduskunnan
+puhemies käytti hyvän puheenvuoron, eikä toki ensimmäistä, vaan hän on joutunut pitä-
+mään aika montakin puheenvuoroa siitä, minkälaista kieltä me käytämme toinen toisiam-
+me kohtaan täällä salissa ja muutenkin. Tietysti tänä vuonna vielä, kun juhlitaan Suomen
+satavuotisjuhlavuotta, kokisi, että edustajat erityisesti miettisivät, että pysyttäisiin asiassa
+eikä lähdettäisi sille tielle, jolle esimerkiksi edustaja Hoskonen nyt omassa puheenvuoros-
+saan lähti. Elikkä minä olen tällä hetkellä karvakorva, minä olen vihervasemmisto, minä
+olen nirppanokka ja minä olen impivaaralainen.
+
+Mutta tähän itse asiaan mennäkseni: Edelleen minä sanon, että on ihan normaalia, että
+oppositio voi olla asioista eri mieltä. Niin kuin omassa puheenvuorossani sanoin, oppositio
+kannattaa hyviä ajatuksia. Me arvostelemme tätä vain tästä yhdenvertaisuusnäkökulmasta.
+Jos on otettu huomioon kestävät perustuslailliset näkökulmat ja parannetaan ihmisten luot-
+tamusta peruspalveluihin, [Puhemies koputtaa] joihin esimerkiksi Postin itse koen kuulu-
+van, niin tottahan me kannatamme tällaisia esityksiä.
+
+Mutta toivoisi, [Puhemies koputtaa] että tämä keskustelu olisi asiallista.
+
+18.37 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Edustaja
+Taimela on mielensä pahoittanut siitä, että puhuin oppositiosta vihervasemmistona, mutta
+sitähän se on: se on vasemmistopuolueet plus vihreät, joista yleiskielessä on käytetty äsken
+käyttämääni termiä "vihervasemmisto". Jos edustaja Taimela on siitä loukkaantunut, pa-
+hoittelen asiaa suuresti, mutta se on yleinen kielikuva siitä, mistä oppositio tällä hetkellä
+muodostuu tässä talossa. Onko se paha asia, sitä pitää kysyä äänestäjiltä, ei allekirjoitta-
+neelta.
+23
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+Toinen asia, impivaaralaisuus: Impivaaralaiseksi on meitä maaseudun ihmisiä aika
+usein moitittu — ensimmäistä kertaa kuulen, että kaupungin asukas moittii maaseudun
+poikaa siitä, että häntä on sanottu impivaaralaiseksi. Minä näen sen ihan hyvänä asiana.
+
+Alkuperäisissä asioissa kannattaa kuitenkin pysyä. Pahoittelen, jos olen sanonut väärin,
+mutta missään nimessä en pahaa asiaa tarkoittanut.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, yritin kuunnella
+aika tarkkaan, mitä edustaja Hoskonen sanoi. Silloin, jos nuo äsken sanotut käsitteet olisi
+heitetty jotakuta yksittäistä edustajaa kohtaan, se olisi ollut minunkin mielestäni huomaut-
+tamisen paikka. En tunnistanut kuitenkaan sellaista, vaan edustaja Hoskonen arvioi joiden-
+kin poliittisten ryhmien näkemyksiä esimerkiksi sanalla "vihervasemmistolaisuus". Onko
+se ikävä käsite, sellainen haukkumakäsite, jota ei pitäisi käyttää? Minun tulkintani oli, että
+se ei ole sellainen haukkumakäsite, jota ei tulisi käyttää. Kuitenkin yhdyn edustaja Taime-
+lan asialliseen vetoomukseen siitä, että yritetään käyttää täällä ei vain toisistamme vaan
+myöskin mahdollisimman pitkälle muista puolueista puhuessamme mahdollisimman asi-
+allista ja korrektia kieltä. — Edustaja Kymäläinen.
+
+18.39 Suna Kymäläinen sd: Arvoisa herra puhemies! Tässä puhuttiin yleissanoista tai
+-puheista, mutta mietin tässä nirppanokkana ja tahmakorvana, [Välihuuto] miten itse aloi-
+tan oman puheenvuoroni.
+
+Arvoisa puhemies ja arvoisa ministeri! Viestit kansalaisilta ja uutiset julkisuudessa ovat
+kertoneet hälyttävää viestiä postinjakelun ongelmista niin kaupungeissa kuin harvaan asu-
+tuilla alueilla. Postinkulun toimivuus on mitä ilmeisimmin vaakalaudalla ja viestien perus-
+tuslaillinen salaisuus uhattuna. Mitä useampi toimija, sitä epävarmemmaksi asia asiak-
+kaan kannalta jää. Kuka on vastuussa, kun syöpäseulontojen kutsut eivät ole menneet lain-
+kaan perille? Hoitajat odottavat asiakkaita, ihmettelevät, ettei ketään kuulu: Kuka maksaa?
+Siirtyykö joltain elintärkeä tutkimus? 
+
+Yleispalveluvelvoite on taannut myös muiden postien jakelun. Kuka korvaa — Posti,
+hallitus, yrittäjä — kun lasku jää saamatta ja karhulaskut tulevat? Tai työhaastatteluun jää
+menemättä ja sanktiot purevat? Tai yrittäjä ei saa maksetuksi toiselle yrittäjälle laskujaan,
+kun ne eivät koskaan saapuneet? 
+
+Eduskunta ei voi olla reagoimatta ihmisten jatkuviin, toistuviin viesteihin, ettei posti tu-
+le. Keskusta kysyy, eikö mitään saisi tehdä. Kerrotte, että teidän suuntanne on eteenpäin,
+kerrotte, ettei uudistaminen ole aina mukavaa mutta tekemättäkään ei voi jättää. Eihän uu-
+distusten tekemisessä ole järkeä, jos ne tehdään vain itse uudistuksen vuoksi. Uudistuksen
+tulisi parantaa ihmisten palveluja, ei heikentää niitä. Tämän vuoksi emme voi hyväksyä la-
+kiesitystä, joka heikentää ihmisten yhdenvertaisuutta. Lakiesityksen esittelytekstissä
+myönnetään, että on alueita, joilla palvelu heikkenee. Teidän "kulkunopeuden joustami-
+nen" tarkoittaa kulkunopeuden hidastumisen sallimista. 
+
+Tänään sanoitte tässä salissa, ettei keskusta hyväksy eriarvoistamista. Toivoisin, ettette
+sitten esittäisi eriarvoistamista, kuten tällä esityksellä teette. Sen sijaan, että hallitus vah-
+vistaisi otettaan Postin omistajaohjauksessa, se tuo eduskuntaan Postin toimintavarmuutta
+heikentävän esityksen. Täällä te lupaatte, että tämä esitys turvaa postinkulun tulevaisuu-
+den ja että kannatte vastuuta. Olen aivan varma, että ihmiset, joilla jo tällä hetkellä on ikä-
+viä kokemuksia postinjakelun toimimattomuudesta, todella toivovat näin olevan. Harmit-
+24
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+taa jo valmiiksi näiden ihmisten puolesta, kun he huomaavat, ettei näin tapahdukaan. Nyt
+voitte näin vakuutella, mutta edestänne te sen löydätte.
+
+Edellä kuvatut esimerkit kuvaavat postinjakelun tilaa Suomessa ja heittävät raskaan var-
+jon Postin kykyyn selvitä sille lakisääteisesti kuuluvista tehtävistä moitteetta. Lisäksi ne
+ovat selvästi vaarantaneet kirjesalaisuutta. Ministeri kertoo tämän tuovan työpaikkoja ja
+yrittäjyyttä. Onko tästä pitävää arviointia, vai onko kyseessä kaunis toive? Posti Oy on toi-
+minut 600 vuotta, ja nyt kilpailuttamisen avaaminen uhkaa sen taloudellisia toimintamah-
+dollisuuksia. Posti on kulkenut haja-asutusalueilla kaupunkien voitoilla. Posti Oy:n työn-
+tekijät eivät ole saaneet nauttia työrauhasta, eikä tämä esitys tilannetta ainakaan rauhoita.
+Postialan työntekijät arvioivat, että esitys vähentää työpaikkoja 2 500—3 000 kappaletta.
+Aika paljon pitää syntyä kannattamattomille alueille yrittäjyyttä tuon kattamiseksi. Kilpai-
+luttamisen avaaminen heikentää Posti Oy:n toimivuutta. Miksi hallitus heikentää valtio-
+omisteisen yhtiön toimivuutta? Vuonna 2015 valtio sai Postilta tuloutettuna optioita 18
+miljoonaa. Miksi sahata omaa jalkaa?
+
+18.44 Sinuhe Wallinheimo kok: Arvoisa herra puhemies! Käsittelyssä oleva hallituksen
+esitys postilain uudistamisesta on jälleen yksi esimerkki nykyisen hallituksen tahtotilasta
+uudistaa Suomea tämän ajan vaatimuksiin sopivaksi. Globalisaatio, teknologinen kehitys
+ja erityisesti digitalisaatio ovat haastaneet erityisesti posti- ja media-alan. Näiden alojen
+perinteiset toimintamallit ovat nopeasti korvautuneet uusilla digitaalisilla malleilla. Perin-
+teisen kirjeiden ja sanomalehtien jakamisen sijasta asiakkaiden kysyntä on lisääntynyt ne-
+tistä tehtävien ostosten kotiinkuljetuksissa ja logistiikassa. Lainsäädännön saattaminen uu-
+den todellisuuden kanssa paremmin toimivaksi on sen sijaan yleensä ollut kovin hidasta
+tässä maassa. Siksi hallitus ja ministeri Berner ansaitsevat kiitokset rohkeudesta ja tämän
+posti- ja muun muassa sanomalehtialalle elintärkeän lain päivittämisestä nopeasti.
+
+Itse lakiesityksen sisältöön, arvoisa puhemies, voi olla tyytyväinen. Esitys on tasapai-
+noinen kokonaisuus, jossa on huomioitu niin kuluttajien, Postia käyttävien toimijoiden, ku-
+ten sanomalehtien, sekä Postin itsensä toiveet. Yleispalveluvelvoitteen joustavoittaminen
+kaupunkiseuduilla sekä sähköisten palveluiden käyttö yleispalvelulähetysten keräilyssä ja
+jakelussa ovat järkeviä uudistuksia. Toisaalta uudistus turvaa postipalveluiden säilymisen
+koko maassa. Haja-asutusalueiden jakelu jatkuu jatkossakin viitenä päivänä viikossa.
+Tämä toteutetaan kilpailuttamalla toiminta.
+
+Täällä käydyssä keskustelussa kilpailutuksesta on tehty kummallinen mörkö. Itse en sii-
+hen usko. Oikein toteutettuna tämä palveluiden kilpailuttaminen voi tuoda merkittäviä
+hyötyjä ja parantaa erityisesti haja-asutusalueiden palveluita. Se voi myös lisätä yritystoi-
+mintaa ja työllisyyttä. Tämä tosin edellyttää sitä, että kilpailun pohjana oleva hankintame-
+nettelyn säätely on riittävän tarkkaa. Onko näin tämän esityksen osalta? Uskon, että valio-
+kunnassa tämäkin asia selvitetään riittävällä tarkkuudella. 
+
+18.46 Ari Torniainen kesk: Arvoisa puhemies! Tällä postilain uudistuksella reagoidaan
+nykyhetkeen, postinjakeluun ja Posti Oyj:n toimintaan. Eli kun tässä on keskustelua käyty,
+niin on jäänyt vähän epäselvä kuva siitä, että monissa puheenvuoroissa postinjakelu ja Pos-
+ti Oyj:n toiminta yhdistetään tässä hyvinkin paljon. 
+
+Postin kulkeminen ja tilanne puhuttaa todellakin ja huolestuttaa kansalaisia hyvinkin
+paljon. Siksi onkin syytä tarkkaan miettiä Posti Oyj:n velvoitteet ja miten postinjakelu hoi-
+detaan koko Suomessa. Kirjepostin määrä on vähentynyt 10 prosentin vuosivauhtia jo
+25
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+useita vuosia, ja suunta on edelleen vähenevä. Tähän ei näköpiirissä ole suinkaan paran-
+nusta, koska sähköinen liikenne korvaa jatkossa kirjepostia yhä enemmän. Myöskin verk-
+kokauppa on lisääntynyt sekä Suomessa että maailmanlaajuisesti voimakkaasti, ja tämä
+suuntaus varmaan jatkuu koko ajan.
+
+Postilain uudistuksen tarkoituksena on turvata Postin jakelupalvelut koko maassa. Sen
+tarkoituksena ei ole lisätä työttömyyttä, niin kuin täällä on useissa puheenvuoroissa tullut
+jo esille. Päinvastoin yhdessä liikennekaaren avaamien uusien mahdollisuuksien kanssa tä-
+män hallituksen esityksen tarkoituksena on saada jakelualalle uusia työpaikkoja koko maa-
+han. Posti Oyj:n työntekijöitä varmaankin joudutaan vähentämään, mutta myöskin uusia
+toimijoita tulee tuonne jakelualalle, uskon niin.
+
+Tosiasia on, että sanomalehtien jakelu on tökkinyt pahastikin viime aikoina, ja joinakin
+päivinä lehdet tulevat illalla tai vasta seuraavana päivänä. Näin ei voi jatkua. Se on ehdot-
+tomasti liian myöhään, koska uutiset vanhenevat hyvinkin nopeasti. Postipalvelu on perus-
+palvelua, ja on tärkeätä, että tähän heikentyneeseen tilanteeseen [Puhemies koputtaa] rea-
+goidaan tällä hallituksen esityksellä.
+
+18.49 Eeva-Maria Maijala kesk: Arvoisa herra puhemies! Uudistukset — meillä tavoit-
+teena tietenkin on, että aina niiden tulisi parantaa palveluita, mutta aina me emme siihen
+pysty. Tärkeintä tässä kuitenkin on varmaan meille kaikille se, että nyt ensimmäiseksi me
+saisimme pysäytettyä palveluiden heikentymisen. Postipalveluiden heikentyminen on saa-
+tava pysähtymään heti. Jos me saamme myöskin parannettua palveluita, se on vain ekstraa.
+Tavoitteemmehan tässä koko liikennekaaressa plus sitten tämän postipalvelulain kokonai-
+suudistuksessa on saada parannettua palveluita myöskin enemmän kuin tällä hetkellä tilan-
+ne on. Muutoksia nykytilaan tulee varmasti, toivottavasti, ja me pyrimme siihen, että se on-
+nistuisi. 
+
+Minua loukkaa se, että tässä keskustelussa on hyvin paljon tuotu esille sitä, että kaupun-
+kilaiset maksavat maaseudun palvelut. Mutta Suomi on iso maa, ja me tarvitsemme toi-
+siamme. Me todellakin elämme yhdessä samasta kukkarosta. Lainsäädäntömme tehtävänä
+— täällä meidän yhteisenä tehtävänämme — on turvata se, että saamme tasattua nämä toi-
+minnot kaikissa asioissa. Maaseutu toimittaa ruokaa, raaka-aineita, työpaikkoja, toiminto-
+ja kaupungille, että kaupungit taasen voivat hoitaa hallinnollisia palveluita. Yhdessä me
+muodostamme ison, laajan kokonaisuuden. On minun mielestäni loukkaavaa sanoa, että
+kaupunkilaiset elättävät meidät. Minä toivon, että voisitte miettiä asiaa kokonaisuutena
+eteenpäin, että mikä on. Jos mietimme pelkkää postipalvelua, voi olla ja on ehkä niin, että
+tietyt toiminnot tämän korvaavat, maksavat, mutta nämä asiat ovat myöskin toisinpäin.
+Posti on peruspalvelu, ja sen vastuu on yhtenä peruspalvelutoimijoista vastata koko Suo-
+men palveluiden hoitamisesta. 
+
+18.51 Hannu Hoskonen kesk: Arvoisa herra puhemies! Tällä uudella lakiesityksellä to-
+dellakin kaupungeissa postinjakelu 7 päivänä viikossa jatkuu, maaseudulla 5 päivänä vii-
+kossa taataan se postinjakelu ja viikonloput on sitten hoidettu muilla sopimuksilla. Eli
+maailma ei loppujen lopuksi muutu tämän lakiesityksen myötä juurikaan miksikään. Sitä,
+että tämä kilpailukenttä on muuttunut rajusti, ei kukaan tässä salissa oleva pysty pysäyttä-
+mään.
+
+Soitin tästä asiasta edustaja Rossille, joka on Postin hallintoneuvoston puheenjohtaja, ja
+hän kertoi minulle näitä tietoja tarkemmin, kun hän Postin tarkkaan tuntee, noin yritykse-
+26
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+nä. Postin hallintoneuvoston puheenjohtajan velvollisuuksiin kuuluu tuntea oma yrityksen-
+sä. Hän kertoi tämän tarinan minulle, ja minä ymmärrän, että kun tämä kilpailutilanne on
+muuttunut ja osoitteet ovat vapautuneet ja niin edelleen, niin kilpailu on tullut näillekin
+markkinoille. Jos me nyt siihen jäämme itkemään, että me emme tämän asian tiimoilta tee
+postilaille mitään, ja sitten voivottelemme 10 vuoden päästä, minkä vahingon me teimme,
+niin siinä ei enää silloin auta mikään sanaselittely siitä, sanoiko edustaja Hoskonen jonkun
+opposition nimikkeen ehkä väärin tai jotain muuta. Kyllä meidän pitää tilanteen mukaan
+elää ja todella viilata lakimme tähän päivään sopivaksi. Kohta käsittelemme laajakaistala-
+kia, joka pitää saada kaikkiin kotitalouksiin Suomessa ulotettua. 
+
+Edustaja Maijala sanoi aivan oikein, että hänen mielestään on loukkaavaa käyttää ter-
+miä, että kaupunkilaiset elättävät maaseudun. Lapin ihmiset ovat joutuneet luopumaan
+koskistaan siitä hyvästä, että sinne on tehty valtavat määrät voimalaitoksia ja sähkö on tul-
+lut tänne muualle Suomeen. Joku voisi silläkin viisastella, että elättääkö joku jotakin. Sel-
+lainen ajattelu ei minun mielestäni sovi tähän maahan. Posti on kokonaisuus, postinjakelu
+on kokonaisuus, sellaisena se tulee pitää ja sen pitää toimia koko maassa. Suomi on yksi
+yhteinen alue. Meidän on yhdessä pidettävä se kunnossa. Ja jos joku siitäkin loukkaantuu,
+esimerkiksi edustaja Kymäläinen — äsken joku käytti termiä, että jonkun alueen Posti
+tuottaa voittoa ja sillä maksetaan sitten muuta. Siinä on hieman tämmöistä mieltä, että [Pu-
+hemies koputtaa] kaupungissa tällainen ilmiö on olemassa. 
+
+18.53 Satu Taavitsainen sd: Arvoisa puhemies! Varmasti tuolla valiokuntakäsittelyssä
+vielä tarkasti luetaan tätä lain tekstiä ja niitä pykäliä, mutta kysymys tässä hallituspuolueit-
+ten edustajille ja ministerille: Kun tuo esittelyteksti tuossa laissa on vähän semmoinen se-
+kava, niin sen perusteella, kun sitä tarkasti lukee, saa sellaisen kuvan, että tämä jakelu siel-
+lä maaseudulla on kilpailutettava viisipäiväisenä mutta jakelun suorittava osapuoli voi ot-
+taa yleispalvelun laatustandardin joustot käyttöön ja vähentää jakelupäiviä kolmeen päi-
+vään viikossa. Elikkä kun täällä on nyt hehkutettu sitä, että maaseudulla säilyisi tämä vii-
+sipäiväinen jakelu, niin tämän tekstin perusteella, kun tarkkaan lukee, ymmärtää, että tämä
+ei sitten pitäisikään paikkaansa. Onko näin?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt myönnän vielä ministeri Berneril-
+le ehkä 3 minuuttia. Sitten tuleekin tähän keskusteluun varattu aikaikkuna käytetyksi. —
+Ministeri Berner, olkaa hyvä. Kiitos ministerille, että koko kaksituntisen olitte paikalla.
+
+18.54 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Kiitoksia, kol-
+legat, arvoisat edustajat, tästä keskustelusta, evästyksestä ja palautteesta.
+
+Olen myöskin kuunnellut, edustaja Taavitsainen, teidän näkökulmanne omistajaohjauk-
+sesta, ja haluan myöskin tässä yhteydessä muistuttaa teitä siitä, että olette Postin hallinto-
+neuvoston jäsen, ja hallintoneuvoston tehtävä on Posti Oy:n sivujen mukaan ja myöskin
+osakeyhtiölain ja yhtiöjärjestyksen mukaan "valvoa hallituksen ja toimitusjohtajan vas-
+tuulla olevaa yhtiön hallintoa ja että yhtiön asioita hoidetaan terveitä liikeperiaatteita ja
+kannattavuutta silmällä pitäen sekä lain, yhtiöjärjestyksen ja yhtiökokousten päätösten mu-
+kaan". Vastuumme on siis yhteinen tässä asiassa.
+
+Toimintaympäristön raju muutos on ollut väistämätön, ja se ei johdu lainsäädännöstä,
+vanhasta tai nyt säädettävästä, vaan kansalaisten toimintatapojen muuttumisesta. Nyt mei-
+dän tehtävämme on katsoa eteenpäin ja myöskin katsoa postin jakeluketjun päässä olevien
+27
+
+
+
+Pöytäkirjan asiakohta PTK 3/2017 vp
+kansalaisten odotukset ja tarpeet, joihin me yhdessä vastaamme. Tämä vaatiikin meiltä jos-
+kus myös poikkeuksellisia ratkaisuja ja sellaisia ratkaisuja, joissa pyrimme arvioimaan,
+tarvitaanko poikkeuksellisia tiloja, kun meillä on maa, joka on pitkä, harvaan asuttu ja jos-
+sa meillä on myöskin pitkiä etäisyyksiä.
+
+Juuri tämän vuoksi, että postilaki ei ole yksinkertainen kokonaisuus, on valmistelu tehty
+kahdessa vaiheessa. Ensin on ollut arviomuistio lausuntokierroksella, jolla olemme hake-
+neet laajaa palautetta kansalaisilta, elinkeinoelämältä, sanomalehdiltä, yrityksiltä, jakelu-
+yrityksiltä ja toki myös Postilta. Sen jälkeen on rakennettu, tämän palautteen pohjalta, hal-
+lituksen esitys, joka on ollut uudelleen lausuntokierroksella, johon on saatu myös lainsää-
+dännön arviointineuvoston lausunto ja jossa me olemme katsoneet, että olemme hakeneet
+mahdollisimman kokonaisvaltaisen ratkaisun, jolla pyritään huolehtimaan siitä, että Suo-
+messa säilyy koko maassa viisipäiväinen jakelu.
+
+Mutta sen viisipäiväisen jakelun turvaamiseksi meillä ei ole yhtäläisiä lähtökohtia.
+Meillä on ne yritykset, jotka — käyttääkseni ehkä sitä sanontaa, mikä usein täällä salissa
+kuuluu, "kermankuorinta" — ovat rakentaneet kaupunkeihin rakenteita, joissa palvelua
+pystytään turvaamaan osin seitsemänä päivänä mutta vähintään viitenä päivänä viikossa,
+osin kaksi kertaa päivässä. Haja-asutusalueilla näin ei ole, ja siksi joudumme poikkeuspy-
+kälin yleissääntelystä turvaamaan, että tämä jakelu siellä myös varmasti on. Näin edistäm-
+me tasa-arvoa ja huolehdimme siitä, että eriarvoisuutta ei synny, vaikka taistelemme digi-
+talisaatiosta johtuen postiliikenteen harvenemista ja vähenemistä vastaan.
+
+Posti on valtion omistama yhtiö, ja me yhdessä vastaamme Postin toiminnasta, myös
+hallintoneuvoston jäsenet. Mutta tässä ei ole kysymys nyt Posti Oy:stä, vaan tässä on ky-
+symys postilainsäädännöstä, ja se postilainsäädäntö rakennetaan kaikille niille toimijoille
+ja etenkin kansalaisten turvaksi ja postinjakelua mahdollistavaksi kokonaisuudeksi. Ja siel-
+lä edelleen huolehditaan siitä, että meillä säilyy viestisalaisuus, että meillä säilyvät yleis-
+palveluvelvoitteen tuomat yleiset periaatteet ja että siellä edelleen säilyy Viestintäviraston
+vastuu.
+
+Näin ollen meidän tehtävämme on pyrkiä huolehtimaan siitä, että ne kaikki lainsäädän-
+nöt, joita me teemme myös muilla alueilla, kuten tässä tapauksessa esimerkiksi liikenne-
+kaaren kautta, yhdessä tukevat sitä, että meille syntyy kannattavaa jakelua koko maassa.
+Sitä kautta turvataan yrittäjyyttä, palveluiden syntymistä ja työllisyyttä, ja se on meidän
+yhteistä tavoitettamme ja meidän yhteistä vastuutamme. — Kiitos.
+
+Keskustelu päättyi.
+
+Asia lähetettiin liikenne- ja viestintävaliokuntaan, jolle perustuslakivaliokunnan on annet-
+tava lausunto.
+28
+
+

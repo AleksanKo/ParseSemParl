@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMB043.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 17/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 17/2017 vp
+
+Täysistunto
+
+Perjantai 3.3.2017 klo 13.00—13.27
+
+8. Lakialoite laiksi sähkömarkkinalain muuttamisesta
+Lakialoite LA 4/2017 vp Johanna Karimäki vihr ym.
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 8. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokun-
+taan.
+
+Keskustelu
+
+13.11 Johanna Karimäki vihr (esittelypuheenvuoro):  Arvoisa puhemies! Aloitteessa
+esitetään, että otetaan käyttöön piensähkön nettolaskutus. Aloitteen perusteluissa ajanjak-
+soksi määritellään tunti, jolloin netotus tapahtuu sähkön markkinahinnan mukaisesti. Net-
+tolaskutuksessa sähkön käyttäjä maksaa sähkömyyntiyhtiölle kulutetun ja tuotetun sähkön
+erotuksen jollain määritetyllä aikavälillä. Pientuottaja maksaa tällöin sähkölaskulla ainoas-
+taan ostetun ja myydyn sähkön arvon välisen erotuksen.
+
+Järjestelmä kannustaa yksityishenkilöitä investoimaan esimerkiksi aurinkovoimaan,
+koska aurinkosähkön tuotantohuippu on keskellä päivää mutta kulutus painottuu aamuun
+ja iltaan. Pienessä mittakaavassa hajautetusti kulutuspisteessä tuotetun sähkön kilpailuky-
+kyä parantaa sähkön siirtomaksujen ja energiaverojen puuttuminen, mikä tekee siitä edul-
+lista tavallisille kuluttajille. Käytettävä energianlähde ei aina kata koko kiinteistön ener-
+giantarvetta, joten osaksi sähkö otetaan tavalliseen tapaan verkosta. Toisina aikoina talo on
+kuitenkin yliomavarainen sähkön suhteen, jolloin luontevaa on, että ylijäämäsähkö syöte-
+tään verkkoon. Sähköverkon haltijan on velvollisuus ottaa tuotanto verkkoonsa, mutta ny-
+kyisin siitä ei tarvitse maksaa käypää korvausta. Tilanne voi siis olla pahimmillaan se, että
+talo tuottaa enemmän sähköä verkkoon kuin sieltä ottaa mutta joutuu silti maksamaan ver-
+kosta ottamansa sähkön. Tämä epätasapaino on oikeustajun vastaista ja jarruttaa hyvää ke-
+hitystä.
+
+Ilmastonmuutoksen torjunnan näkökulmasta tarvitsemme myös pienistä yksiköistä saa-
+tavaa uusiutuvaa energiaa perinteisen suuriin yksiköihin perustuvan energiantuotannon
+rinnalle. Sähkön pientuotanto sekä siihen liittyvä palvelu-, asennus- ja huoltoliiketoiminta
+mahdollistavat myös uusien työpaikkojen synnyn. Esimerkiksi 10 000 uuden aurinkosäh-
+köjärjestelmän asennus toisi Suomeen työtä 60—90 miljoonan euron arvosta.
+
+Erityisesti aurinkosähkössä nähdään paljon potentiaalia. Kevättalvellakin auringosta
+saadaan irti paljon, sillä piipaneelien hyötysuhde on kylmässä parempi kuin kesähelteellä.
+Saksassa tuotettiin vuonna 2012 aurinkoenergialla sähköä 27 gigawattia, mikä vastaa nel-
+jän ydinvoimalan vuosituotantoa. Ilmatieteen laitos on tehnyt aurinkosähkötutkimukses-
+saan vertailun Helsingin ja Rostockin välillä. Koko vuoden aurinkoenergian kertymä on
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 17/2017 vp
+Rostockissa vain noin 5 prosenttia parempi kuin Helsingissä. Vertailu Saksaan on miele-
+kästä siksi, että maa on kotitalouksien tuottaman aurinkosähkön kärkimaita.
+
+Nettolaskutuksen mekanismin on syytä olla yksinkertainen, jotta vältytään sähköyhtiöi-
+den ja kuluttajien väliseltä neuvottelubyrokratialta, kirjavilta käytännöiltä ja oikeusriidoil-
+ta. Sähkön pientuotannon verkkoon liitännän tulee tapahtua yksinkertaisena ja automaatti-
+sena ilmoitusasiana lyhyen aikaikkunan rajoissa. Suomessa on jo nyt laajasti käytössä
+älykkäitä etäluettavia sähkömittareita. Nettolaskutus parantaa kuluttajalähtöisen sähkön
+pientuotannon taloudellista kannattavuutta, mitä tässä aloitteessa esitetään. Taloyhtiöiden,
+esimerkiksi kerrostalojen, osalta taas takamittaroinnin käyttöönotto olisi edistysaskel yh-
+teisten aurinkopaneelien hankintaan.
+
+Tämä kyseinen aloite on vain yksi toimi lukuisten tarvittavien toimien joukossa, ja toi-
+von, että valiokunta pohtii aloitteen käsittelyn yhteydessä kaikkia niitä toimia, joita tarvi-
+taan hajautetun uusiutuvan pienenergian edistämiseksi.
+
+Lähienergian edistäminen parantaa myös koko maan huoltovarmuutta, sillä tuotannon
+hajautuminen verkkoon vähentää suurten sähköhäiriöiden vaaraa. Tunnin sisäisen sähkön-
+kulutuksen ja tuotannon netotuksen käyttöönotolla varmistetaan uusiutuvaa sähköä tuotta-
+vien kuluttajien tasa-arvoinen asema sähkömarkkinoilla. Nyt verkkoyhtiöiden keskenään
+erilaiset älykkäät sähkömittarit mittaavat kiinteistön omaa sähköntuotantoa eri tavoin. Nyt
+kuluttajien tismalleen samanlaisesta aurinkosähköjärjestelmästä saama taloudellinen hyö-
+ty vaihtelee verkkoyhtiöittäin. Kuluttajien tasapuolinen kohtelu, järjestelmien kannatta-
+vuuden koheneminen ja sähkökaupan läpinäkyvyyden parantuminen voidaan taata otta-
+malla käyttöön tunnin sisäinen laskennallinen nettomittaus.
+
+Arvoisa puhemies! Lakialoitteen pykäläesityksessä esitetään: "Tariffin hinnoittelupe-
+rusteena käytettävän ajanjakson ylitse lasketaan vain nettomääräisesti siirtyvän sähkön
+määrä sähkön sen hetkisen markkinahinnan mukaan. Pientuottajan verkkoon syöttämä
+sähkö hyvitetään pientuottajalle mukaan lukien sähkön siirtokustannukset ja verot."
+
+Ja lopuksi kiitokset kaikille, jotka allekirjoititte aloitteen ja osoititte näin tukeanne lähi-
+energian edistämiseen.
+
+13.16 Jari Myllykoski vas: Arvoisa herra puhemies! Ensinnäkin kiitoksia edustaja Kari-
+mäelle tästä hyvästä aloitteesta. Tämä vaatii pitkäjänteisyyttä, ja on tärkeää, että eduskunta
+koettaa ministeriön päitä kääntää, niin että myös pienissä on voimaa. Meillä on liian hal-
+litseva käsitys siitä, että vain isoissa on energiaa. Nythän eduskunnassa on käsittelyssä il-
+masto- ja energiapoliittinen selonteko, jossa tuotiin esimerkiksi esille se, että ilmalämpö-
+pumppujen osalta sieltä vuoteen 2030 puuttuu 10 terawattitunnin todellinen potentiaali,
+jota nyt tällä vauhdilla saavutetaan. On aivan selvää, että nimenomaan aurinkosähkön
+avulla voidaan näitä hybridejä hyödyntää vieläkin tehokkaammin niin, että itse asiassa se
+tarvittavan sähkön määrä esimerkiksi maalämmössä on erittäin minimaalinen, jolloin on
+tärkeätä, että tämän päivän teknologialla jo esimerkiksi maalämpö- ja aurinkoenergiajär-
+jestelmillä jää ylimääräistä sähköä, ja siinä vaiheessa tämä nettomittarointi on erityisen tär-
+keätä. Minun mielestäni edustaja Karimäki toi erityisen hyvin esille sen, että meidän pitää
+luoda näitä mahdollisuuksia asunto-osakeyhtiöissä ja isommissakin asumislähiöissä tehdä
+niin, että siellä voisi olla omia aurinkovoimaloita ilman että se tarkoittaa, että tarvitsee olla
+siirtomaksuja. Eli pitäisi ulottaa niin, että pienissä asuntoalueitten osuuskunnissa olisi
+mahdollisuus myös välttyä siirtomaksuilta, jolloin tämä varmasti toisi tehokkuutta suoma-
+laiseen pienenergian käyttöön ja kehittämiseen.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 17/2017 vp
+13.18 Markku Eestilä kok: Arvoisa puhemies! Edustaja Karimäen esitys on sillä tavalla
+hyvä, että me pääsemme tässä salissa keskustelemaan. Sähköntuotannon tulevaisuus on
+hyvinkin erilainen kuin mitä se tänä päivänä on. Näyttää siltä, että tämmöinen paikallinen
+sähköntuotanto lisääntyy, ja kun älykkäät sähköverkot saadaan sitten toden teolla älyk-
+käiksi, niin me pystymme myös säätämään sähkönkulutusta tunneittain. Se on hyvin tär-
+keätä, että me saamme sähkönkulutuskäyrän tasaisemmaksi.
+
+Oma käsitykseni on kuitenkin se, jota tässä nyt kannattaa rakentavasti pohtia, että jos yh-
+dessä pisteessä jonkun omaa sähköntuotantoa harjoittavan kiinteistön siirtohinnat pienene-
+vät, niin se väistämättä johtaa siihen, että muut tässä sähköverkon piirissä olevat maksavat
+enemmän siirtohintaa, ja silloin se ei välttämättä enää ole oikeudenmukaista. Ja kun aika-
+naan Energiavirasto muutti tätä kohtuullisen tuoton määritelmää niin, että nyt voidaan ot-
+taa sähköverkon nykykäyttöarvolle 5,92 prosenttia tuottoa, niin se johtaa siihen, että siir-
+tohinnat entisestään nousevat. Ja jos tämä edustaja Karimäen hyvä aloite toteutuisi puh-
+taasti niillä yksityiskohdilla, mitä te esititte, se johtaisi siihen, että pk-yrityksillä ja yksit-
+täisillä kuluttajilla entistä enemmän nousisivat sähkönsiirtomaksut. Minusta se kehitys
+välttämättä ei tue sitä Suomen vientiä ja pk-yritysten toimintaa.
+
+Nämä ovat aika monimutkaisia asioita, mutta lähtökohta teidän aloitteessanne, edustaja
+Karimäki, on erinomainen, koska nyt eduskunnan pitää tulevassa ilmasto- ja energiastrate-
+giassa tunnustaa se, että sähköntuotanto muuttuu oleellisesti ja on ilmeistä, että rakennuk-
+set tulevaisuudessa itsessään tuottavat sähköenergiaa ja sitä kautta tämä peruskuorma
+muuttuu oleellisesti, ja mitä pitemmälle tämä etenee — esimerkiksi se, että aurinkopanee-
+leja myydään tänä päivänä avaimet käteen -periaatteella — sitä vähemmän me tarvitsem-
+me sitten tätä yhteistuotantoa. Kiitoksia tästä aloitteesta.
+
+13.20 Eero Suutari kok: Arvoisa herra puhemies! Suomi on kehittynyt nimenomaan sii-
+nä, mitenkä mittarit toimivat ja mitenkä automaattisesti voi liittyä verkkoon eli sekä kulut-
+taa että myös luovuttaa sitä sähköä. Siitä näkökulmasta ehdotus on tietysti hyvä. Meillä on
+myös mahdollisuus esimerkiksi sähköautoja lisäämällä radikaalisti siihen — nythän on tu-
+lossa sen tyyppistä kehitystä — että voidaan autoa ladata yöaikana ja ottaa käyttöön sitä
+sähköä ja, jos autonomistaja niin haluaa, myös luovuttaa silloin, kun on huippukuormituk-
+sia olemassa. Silloin se tarve on varmasti sen tyyppistä, että siitä voi jo reilummin maksaa.
+Mutta jos työnnetään hyvänä aikana omaa sähköä ulos eikä sitä kukaan kuluta, niin tässä
+varmasti on oltava joitakin järjestelmiä, jossa se välittäjä ja justiinsa se, joka siirtää säh-
+köä, saa omansa pois.
+
+13.21 Jari Myllykoski vas:  Arvoisa herra puhemies! Edustaja Eestilä otti olennaisen
+asian esille. Omassa puheenvuorossani halusin kiinnittää lähinnä siihen huomiota, että jos
+pientaloasukas saa naapuritontin teollisuushallin katolle laittaa ne aurinkopaneelit, niin on
+jotenkin järjetöntä, että siitä sähköntuotannosta joutuu maksamaan siirtoveroja. Näitä es-
+teitä pitää pienlaitosten osalta tai, sanotaanko, sähköntuotannon osalta murtaa ja lähteä rat-
+sastamaan sillä, että me pystymme luomaan tätä ihmisten omaa. Minusta tässä on erityisen
+tärkeätä, että me mahdollistamme sitä, että todellakin sähkönkulutuksen ja sähkön varas-
+toinnin kehittyminen muodossa ja toisessa akkuteknologian osalta tulee kehittymään val-
+tavia harppauksia aivan lähivuosina — me voimme aurinkosähköä ja aurinkoenergiaa va-
+rastoida jo tälläkin hetkellä, ja maalämmön kautta, koko vuorokauden kestävään lämmön-
+vesivaraajaan, niin että siellä käyttö- ja lämmitysvesi huolehditaan sen päivän aikana, ehkä
+3
+
+
+
+Pöytäkirjan asiakohta PTK 17/2017 vp
+talvella parina kuukautena sitten tarvitaan ulkopuolista sähköä. Ja huomattavaa on se, että
+kun edustaja Karimäki otti esille tämän Saksan-mallin, niin oli viikkoja, että sähkönkulut-
+tajat saivat rahaa, kun he kuluttivat sähköä. Oli niin paljon ylikapasiteettia, että hyvin tasa-
+painoisesti pitää olla. Mutta en minä tietysti ole murheissani siitä, jos minun sähkölaskuni
+on negatiivinen. Että tervetuloa tämmöinenkin tilanne.
+
+13.23 Johanna Karimäki vihr: Arvoisa puhemies! Eduskunta käsittelee todellakin ener-
+gia- ja ilmastostrategiaa parastaikaa, ja siinä on kohdistuttu lähinnä sähkön suurtuotannon
+kysymyksiin. On todella tarpeellista, että pohdimme myös, miten edistää hajautettua pie-
+nimuotoista energiaa. Esimerkiksi edustaja Myllykoski puhui erittäin järkevästi sähkö-
+hybrideistä ja varastoinnista, mikä on todellakin tulevaisuutta. Meillä on ollut hyvä kehitys
+siinä, että jo vuodesta 2009 lähtien nämä etäluettavat sähkömittarit ovat kehittyneet. Se,
+että sähköjärjestelmämme saadaan älykkäiksi ja moneen suuntaan toimiviksi, on erittäin
+tärkeä tavoite.
+
+Kun valiokunta aloitteen käsittelyn yhteydessä pohtii eri näkökulmia, myös niitä, mitä
+edustaja Eestilä ihan perustellustikin nosti esille, niin on varmaan viisasta, että haetaan sel-
+laisia ratkaisuja, jotka ovat sähkön pientuotannon kehittymisen kannalta ja pk-yritysten lii-
+ketoimintamahdollisuuksien edistymisen kannalta kaikkein parhaimmat ratkaisut koko
+Suomen kannalta.
+
+13.24 Markku Eestilä kok: Arvoisa puhemies! Viime aikoina on paljon puhuttu älylii-
+kenteestä ja ikään kuin keskitytään nyt autoihin, mutta itse asiassa tämä sama logiikkahan,
+mikä älyliikenteessä on nyt keskustelun alla, pätee myös esineisiin, asumiseen, taloihin ja
+joka paikkaan. Tänä päivänä uudet autot, ihan tavalliset autot, kun niitä ostetaan, ovat in-
+ternetissä, niitten toimintoja voidaan kännykällä säätää. Ja kun nämä älykkäät sähköver-
+kot, se kapasiteetti ja äly niissä, saadaan käyttöön, niin sehän tarkoittaa sitä, että kun siellä
+on vesivaraaja, lattialämmitys ja kaikki, niitä voidaan kaukaa säädellä ja automaattisesti tai
+sitten jopa manuaalisesti kännykän avulla, ja kun ne ovat pitkässä sarjassa, niin silloin voi-
+daan merkittävässä määrin juuri näitä piikkejä, jotka ovat kuluttajalle kalliita ja tuottavat
+vaikeuksia nimenomaan säätövoiman näkökulmasta, saada ratkaistua.
+
+Itse asiassa näyttää siltä, että markkinat menevät auttamatta omaa latuaan ja tämä pieni-
+muotoinen tuotanto paikallisesti lisääntyy riippumatta siitä, millä tavalla säätely toimii.
+Mutta jos lainsäätäjä pysyy mukana tässä kehityksessä, niin se luo puitteet sille, että me
+edistämme yksittäisiä investointeja niin paljon, että näitä suurtuotantoinvestointeja ei tar-
+vitse enää siinä mittakaavassa tehdä. Ja tulevaisuudentutkijat arvioivat, että nämä suuret
+voimalat, jotka tänä päivänä jossain määrin myös saastuttavat ilmastoa ja ympäristöä, ovat
+mennyttä aikaa ja tulevaisuuden tehtaitten lähellä on omat voimalaitoksensa. Eli sielläkin
+se voimantuotto on pistemäistä.
+
+Siinä mielessä edustaja Karimäen aloite on hyvä, että me pääsemme pikkuhiljaa keskus-
+telemaan niistä muutoksista, mitkä me väistämättä tulemme kohtaamaan. Ja vielä kun näis-
+tä älyverkoista puhutaan, niin kyllä älyliikenteen lisäksi kannattaa tämä älyasuminen nos-
+taa nyt keskustelunaiheeksi, koska on puute selvästi, että siellä ei integroida kaikkia näitä
+energiaa vieviä toimintoja keskenään ja rakennuksista puuttuu äly-yksiköitä. Älyautoilu,
+älyliikenne ja älyasuminen pitää yhdistää ja panna samaan pakettiin.
+
+Keskustelu päättyi.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 17/2017 vp
+Asia lähetettiin talousvaliokuntaan.
+5
+
+

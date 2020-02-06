@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM5F07.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 109/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 109/2018 vp
+
+Täysistunto
+
+Tiistai 6.11.2018 klo 14.00—17.11
+
+8. Hallituksen esitys eduskunnalle laiksi henkilötietojen käsittelystä rikosasioissa ja kansal-
+lisen turvallisuuden ylläpitämisen yhteydessä sekä eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 31/2018 vp
+Valiokunnan mietintö HaVM 14/2018 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Tuula Haatainen: Ensimmäiseen käsittelyyn esitellään päiväjär-
+jestyksen 8. asia. Käsittelyn pohjana on hallintovaliokunnan mietintö HaVM 14/2018 vp.
+Nyt päätetään lakiehdotusten sisällöstä.
+
+Valiokunnan puheenjohtaja Eerola, esittelypuheenvuoro, olkaa hyvä.
+
+Keskustelu
+
+16.47 Juho Eerola ps (esittelypuheenvuoro): Arvoisa rouva puhemies! Hallintovaliokun-
+nan mietinnössä ehdotetaan hyväksyttäväksi laki henkilötietojen käsittelystä rikosasioissa
+ja kansallisen turvallisuuden ylläpitämisen yhteydessä. Ehdotetulla lainsäädännöllä pan-
+naan kansallisesti täytäntöön niin sanottu rikosasioiden tietosuojadirektiivi.
+
+Tätä ehdotettua lakia soveltavat poliisi, syyttäjät, yleiset tuomioistuimet, Rikosseuraa-
+muslaitos, Tulli, Rajavartiolaitos ja monet muut toimivaltaiset viranomaiset. Lakia sovel-
+letaan henkilötietojen käsittelyyn silloin, kun kyse on rikoksen ennalta estämisestä, paljas-
+tamisesta, selvittämisestä tahi sitten syyteharkintaan saattamisesta. Lakia sovelletaan
+myöskin silloin, kun kyse on rikokseen liittyvästä syyttäjän toiminnasta, rikosasiain käsit-
+telemisestä tuomioistuimessa, rikosoikeudellisen seuraamuksen täytäntöönpanemisesta
+taikka yleiseen turvallisuuteen kohdistuvilta uhkilta suojelemisesta tai sitten tällaisten uh-
+kien ehkäisemisestä.
+
+Lakia sovelletaan myöskin Puolustusvoimien, poliisin ja Rajavartiolaitoksen käsitelles-
+sä henkilötietoja kansallisen turvallisuuden ylläpitämisen yhteydessä. Tämä säännös ei
+pohjaudu direktiiviin, vaan tältä osin kyse on meidän kansallisesta, ihan omasta ratkaisus-
+ta.
+
+Tämä ehdotettu rikosasioiden tietosuojalaki on luonteeltaan yleislaki, eli sitä sovelle-
+taan, jollei muualla lainsäädännössä säädetä jollakin toisella tapaa. Lakia soveltavilla vi-
+ranomaisilla on myös hallinnonalakohtaista erikoissääntelyä.
+
+Rikosasioiden tietosuojalaissa säädetään henkilötietojen käsittelyn yleisistä periaatteis-
+ta, kuten käsittelyn lainmukaisuudesta, käyttötarkoitussidonnaisuudesta, tarpeellisuudesta
+ja virheettömyydestä. Laissa on myöskin erityissäännöksiä esimerkiksi jollain tavalla ar-
+kaluonteisiksi tiedoiksi katsottavien tietojen käsittelystä. Lisäksi laissa säädetään rekiste-
+rinpitäjän ja henkilötietojen käsittelijän vastuusta, rekisteröidyn oikeuksista, tietoturvalli-
+suudesta, tietosuojavastaavasta, vaatimuksista, joita tulee noudattaa, kun henkilötietoja
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 109/2018 vp
+siirretään kolmansiin maihin, edelleen lain noudattamisen valvonnasta ja oikeussuojakei-
+noista ja seuraamuksista. Lain noudattamista valvoo tietosuojavaltuutettu.
+
+Samanaikaisesti tämän direktiivin kanssa on annettu EU:n yleinen tietosuoja-asetus, jo-
+hon liittyy toinen hallituksen esitys, jota itse asiassa käsitellään ihan tässä kohta. Rikos-
+asioiden tietosuojalaissa tarkoitetut viranomaiset soveltavat tätä tietosuoja-asetusta ja sitä
+täydentävää kansallista lainsäädäntöä silloin, kun on kyse muusta kuin tämän direktiivin
+alaan kuuluvasta henkilötietojen käsittelystä.
+
+Rikosasioiden tietosuojalakiehdotuksen käsittelyn yhteydessä meillä tuli esille useita,
+esimerkiksi rekisteröidyn oikeussuojakeinoihin liittyviä kysymyksiä, jotka tulivat esille
+myös tämän kohta seuraavan hallituksen esityksen numero 9 yhteydessä. Hallintovalio-
+kunta pitää lainsäädännön selkeyden ja johdonmukaisuuden vuoksi perusteltuna, että kan-
+salliset lainsäädäntöratkaisut ovat näiden kysymysten osalta mahdollisimman yhtenäisiä.
+
+Mainittujen esitysten välillä on myös perusteltujakin eroavaisuuksia. Merkitystä on
+muun muassa sillä, että toisin kuin tätä tietosuoja-asetusta ja sitä täydentävää kansallista
+lainsäädäntöä, mihinkä viittasin äsken, joita sovelletaan sekä julkisella että yksityisellä
+sektorilla, tätä ehdotettua rikosasioiden tietosuojalakia soveltavat lähtökohtaisesti vain ja
+ainoastaan siihen valitut viranomaiset.
+
+Perustuslakivaliokunnan lausunnon mukaisesti nämä lakiehdotukset voidaan käsitellä
+tavallisen lain säätämisjärjestyksessä, tämä 1. lakiehdotus kuitenkin vain, mikäli valiokun-
+nan 48 ja 61 §:stä tekemät valtiosääntöoikeudelliset huomautukset otetaan asianmukaises-
+ti huomioon.
+
+Lisäksi myös lakivaliokunta on antanut esityksestä lausunnon.
+Hallintovaliokunta puoltaa, arvoisa puhemies, hallituksen esitykseen sisältyvien lakieh-
+
+dotusten hyväksymistä valiokunnan mietinnöstä ilmenevin huomautuksin ja muutosehdo-
+tuksin. — Kiitos.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 31/2018 vp sisältyvien 1.—6. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+2
+
+

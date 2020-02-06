@@ -1,0 +1,342 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMD6D4.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 58/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 58/2019 vp
+
+Täysistunto
+
+Tiistai 5.11.2019 klo 14.00—19.35
+
+14. Hallituksen esitys eduskunnalle kuntien taloustietojen tuottamista ja  raportointia kos-
+kevaksi lainsäädännöksi 
+
+Hallituksen esitys HE 60/2019 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Juho Eerola: Lähetekeskustelua varten esitellään päiväjärjestyk-
+sen 14. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokuntaan, jolle
+perustuslakivaliokunnan on annettava lausunto.
+
+Tätäkin varten lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä
+noudatetaan aikataulutettujen asioiden osalta ennalta sovittuja menettelytapoja.
+
+Keskustelu
+
+17.56 Kunta- ja omistajaohjausministeri Sirpa Paatero (esittelypuheenvuoro): Arvoi-
+sa herra puhemies! Kuntien taloustietojen tuottaminen ja raportointia koskeva lainsäädän-
+tö tulee helpottamaan kaikkien kuntien tilannetta — ja mahdollisesti sitten tulevaisuudessa
+tämä malli siirtyy sote-maakuntien käyttöön — siltä osin, että kun tällä hetkellä tilanne on,
+monet teistä, meistä kuntapäättäjänä tietää, että kuntien on raportoitava hyvin erilaisia ja
+eri tavoin kerättyjä tietoja myöskin omasta taloudestaan. Nyt on tarkoituksenmukaista yh-
+tenäistää tätä, ja sen takia ajatus on, että jotta valtion tasolla olisi vertailukelpoiset tiedot ja
+myöskin kunnille omaan päätöksentekoon vertailukelpoisia tietoja toisten kuntien tilan-
+teista, on hyvä, että meillä on yksi paikka, josta nämä kaikki tiedot voidaan saada.
+
+Tämä automatisointi helpottaa myöskin sitä, että niitä niin sanotusti käsin tehtyjä rapor-
+tointeja voidaan vähentää. Useammasta eri raportointikanavasta päästään nyt yhteen kana-
+vaan. Tämä on se koko asian varsinainen ajatus. 
+
+Kun tämä tulee digitaalisesti tehtäväksi, niin on olemassa myöskin se kysymys, kuinka
+paljon tämä vaatii kunnilta satsauksia. Tähän osittain on pystytty ja haluttu vastata myös-
+kin niin, että tämä 30 miljoonan euron digituki, joka on nyt ollut haussa, voidaan, jos kun-
+nat niin haluavat, osittain käyttää juuri tähän tarkoitukseen, siihen että kuntien raportointi-
+mahdollisuudet voidaan digitalisoida, minkä jälkeen raportointi sujuisi huomattavasti hel-
+pommin. Nämä rahoitukset ovat juuri käsittelyssä, ja katsotaan, mitenkä paljon — ainakin
+alustavasti, kun katsoin, niissä jonkun verran on juuri tähän ajateltuna.
+
+Tähän samaan liittyy se, että tämä raportointi tulee tulevaisuudessa Valtiokonttorille. Ja
+sen takia Valtiokonttorille on ajateltu tässä siirrettäväksi se vastuu ja myöskin rahoitus sii-
+tä, että se pystytään sieltä kautta hoitamaan. 
+
+Sitten on kysymys siitä, onko tämä uusi vai laajeneva tehtävä. Me olemme Kuntaliiton
+kanssa päätyneet yhteiseen ajatukseen, että tämä ei ole uusi eikä laajeneva tehtävä, vaan
+tämä on itse asiassa vähenevä tehtävä, kun monesta raportoinnista päästään yhteen rapor-
+ Tarkistettu
+3.1
+
+
+
+Pöytäkirjan asiakohta PTK 58/2019 vp
+tointikanavaan. Sen takia tässä ei ole näitä vaikutuksia, kun hallitusohjelmassa on luvattu,
+että kompensoidaan. Tässä on ajatuksena, että tulevilta vuosilta muutamia satoja tuhansia
+euroja valtionosuuksista voidaan vähentää, kun kunnilta vähenee tätä työtä sen osalta, että
+näitä raportointeja tapahtuu vain yksi ja sekin suoraan, niin että se voidaan digitaalisesti,
+automaattisesti ohjata sinne Valtiokonttoriin, jotenka sitä työtaakkaa kunnilta tässä tapauk-
+sessa vähenee pois.
+
+Toivottavasti tämä saadaan nopeasti eteenpäin, koska tavoitteena olisi myöskin edetä
+nopeasti. — Kiitoksia.
+
+Toinen varapuhemies Juho Eerola: Näin, ja sitten keskustelua.
+
+18.00 Lulu Ranne ps: Arvoisa puhemies! Kuntien taloustietolaki on kannatettava uudis-
+tus, jolla tavoiteltavat edut kaikki jo varmaan tuntevat. Kiitos tästä esittelystä ministeri
+Paaterolle. 
+
+Perusteluissa ja valmistelussa on kuitenkin useita kuntien ja kuntakonsernien todellisuu-
+delle vieraita elementtejä, jotka aiheuttavat uudistukselle ja sen kohteena oleville yhteisöil-
+le merkittäviä riskejä.
+
+Tämän uudistuksen onnistumisen kannalta pääkysymys ei ole se, miten tiedot saadaan
+kuntien ja kuntayhtymien järjestelmistä ulos, vaan se, miten tiedot saadaan niihin sisään.
+Uudistuksessa yhdenmukaistetaan ja automatisoidaan tietoja ja raportointia eteenpäin ja
+tämän automatisoinnin ajatellaan mahdollistavan säästöjä. Kuntien ja kuntayhtymien tie-
+tojärjestelmistä ei kuitenkaan lähde mitään eteenpäin, ei manuaalisesti, saati sitten auto-
+maattisesti, ennen kuin tarvittavat tiedot on saatu niihin sisään oikeina ja oikea-aikaisina. 
+
+Uudistus muuttaa lukuisten kohdeyhteisöjen talouden ja toiminnan ohjauksen yksityis-
+kohtaisuutta, sisältöä, volyymia ja rytmitystä pysyvästi ja siten myös kustannuksia pysy-
+västi korkeammiksi. Sekä omat että palveluiden hankintakustannukset tulevat nousemaan. 
+
+Arvoisa puhemies! Vaikka ontuen voitaisiin perustella, ettei kyse ole uudesta kuntien la-
+kisääteisestä velvoitteesta, näyttää vahvasti siltä, että ainakin pienemmät kunnat sekä kun-
+takonsernien yhtiöt tulevat olemaan uudistuksen ja sen kustannusten kanssa helisemässä. 
+
+Lisäksi esityksen vaatimus siitä, että kuntien ja kuntayhtymien on velvoitettava ostopal-
+veluita tuottavat yritykset erittelemään laskunsa taloustietojen raportointivaatimusten mu-
+kaisesti, on joltain toiselta planeetalta. Miten yritykset voisivat tietää kuntien, liikelaitos-
+ten, kuntakonsernien, yhtiöiden ja kuntayhtymien laskentakohteet ja kustannusten kohdis-
+tusperiaatteet, elleivät nämä tiedot selviä yksikäsitteisesti tilauksista. Tällä hetkellähän
+kuntien ostaminen on ehkä euromääräisesti pääosin hallittua, mutta tositemäärillä mitattu-
+na täyttä sirkusta.
+
+Arvoisa puhemies! Keskeiset uudistuksen toiminnalliset ja taloudelliset riskit piilevät
+sen aikataulussa. Käyttöönottoajankohdan päättämisellä tilanteessa, jossa sisältöä ei ole
+vielä määritelty, suorastaan kerjätään katastrofia tapahtuvaksi. Kun sopassa on näin paljon
+kokkeja, suunnitteluun tulee kulumaan kaikki aika, niin ettei toteutukseen, testaukseen ja
+käyttöönottoon tule jäämään tarpeeksi aikaa.
+
+Suurin osa kohdeyhteisöistä nojaa ulkopuolisiin taloushallinnon, raportointipalvelujen
+ja konsultoinnin tarjoajiin. Vaikka tavoitetila on kaikille yhteinen, lähtötilanne on jokaisel-
+la kohdeyhteisöllä erilainen, ja siten uudistuksen käyttöönottoprojektit ovat kaikki erilai-
+sia.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 58/2019 vp
+Kuluva vuosi tulee olemaan kunnille taloudellisesti historiallisen heikko, kaikkien aiko-
+jen heikoin. Uudistuksen taloudellinen ja toiminnallinen kuorma osuu esitetyssä muodos-
+sa erittäin huonoon saumaan. Uudistuksen jatkovalmistelu tuleekin uudelleenajoittaa si-
+ten, että käyttöönottoaikataulusta päätetään vasta sitten, kun määrittelyt on tehty ja osapuo-
+lilla on ollut mahdollisuus arvioida realistiset kustannukset sekä toteutus- ja käyttöönotto-
+aikataulut ja lausua niistä.
+
+Tuolloin tulee myös varmistua siitä, että kunnat saavat riittävän taloudellisen korvauk-
+sen uudistuksen investointi- ja käyttökustannuksista eivätkä joudu epätasa-arvoiseen ase-
+maan. 
+
+Ei sössitä tätä tärkeää uudistusta kiireellä. — Kiitos.
+
+18.04 Heikki Autto kok: Arvoisa herra puhemies! Suomalaiset kunnat ovat suorastaan
+hämmästyttävä menestystarina sieltä 150 vuoden takaa, 1860-luvun kuntauudistuksesta
+lähtien. Kunnissa ja kaupungeissa ympäri maata on pystytty käytännössä toteuttamaan se,
+mitä ymmärrämme pohjoismaisena hyvinvointiyhteiskuntana. Tässä ajassa kuntien talout-
+ta haastetaan monella tavalla, ja kun katsomme kuntatalouden tulevaisuutta, on selvää, että
+mitään ylimääräisiä taakkoja ei pitäisi kuntien harteilla olla, jotta siellä kyetään nimen-
+omaan tästä hyvinvointitehtävästä suoriutumaan. Tässä mielessä tämä hallituksen esitys on
+tervetullut, että pyritään tätä raportointivelvoitetta, joka monin tavoin on kunnille aika ras-
+kas taakka, yksinkertaistamaan ja selkiyttämään.
+
+Arvoisa puhemies! Ehkä tähän liittyen kysyn, että kun nimenomaan tietojärjestelmät
+ovat se keskeinen pullonkaula siinä, että oikeaa tietoa on käytettävässä muodossa oikeassa
+paikassa oikeaan aikaan, niin miten ministeri Paatero arvioi sitä, että kun nyt on varattu
+tämä 30 miljoonaa euroa tähän digitukiohjelmaan — riittääkö se siihen työhön, mitä kun-
+nissa oikeasti pitää tehdä, kun kysymys pelkästään uusissa ict-hankinnoissa vuositasolla-
+kin on miljardiluokkaa? Että saataisiin sillä tavoin yhtenäiset järjestelmät Suomeen, että ne
+todella palvelevat paitsi näitä tiedon tuottamisen tarpeita niin esimerkiksi ihan konkreetti-
+sesti vaikkapa sote-alalla sitä, että työntekijöillä on käsitys siitä, että tietojärjestelmät ovat
+niin yhteensopivia, että vaikkapa työntekijöiden liikkuvuus on mahdollista.
+
+Tiedän esimerkiksi jo vähän ikääntyneempien työntekijöitten kertomusten pohjalta, että
+on hankalaa siirtyä vaikkapa terveyskeskuksesta toiseen, jos niissä on täysin erilaiset käyt-
+töjärjestelmät. Ne ovat kuitenkin niitä arjen työskentelyssä kaikkein tärkeimpiä työkaluja.
+Joten tässä mielessä kysyn ministeriltä sitä, miten nyt aiotaan koordinoida sitä, toisaalta tu-
+kea mutta oikeasti myös ohjausta kunnille, niin että nämä digipuolen, ict-puolen asiat saa-
+daan viimein oikeasti täysin palvelemaan niin kuntia kuin kaikkia meitä kuntalaisia?
+
+18.06 Minna Reijonen ps: Arvoisa herra puhemies! Kunnissa on vähän kummallisuuksia
+raportointijutuissa. Esimerkiksi valtio laittoi omaishoitoon satoja miljoonia viime vuosina,
+siis satoja miljoonia. No, omaishoitajat olivat tyytyväisiä, kuntalaiset olivat tyytyväisiä,
+kuntapäättäjät olivat tyytyväisiä. Mutta mitä sitten tapahtuikaan? Mitenkä niille rahoille
+kävikään?
+
+Jos valtio laittaa rahaa omaishoitoon, se raha ei välttämättä mene siihen, mikä on aika
+erikoista — se korvamerkitään johonkin, mutta se ei kuitenkaan mene perille asti. Ihmet-
+telen sitä kovasti. Kunnilla on aika iso itsemääräämisoikeus, ja se johtuu ihan siitä. Elikkä
+raha voitiin käyttää ihan johonkin muuhun tarkoitukseen.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 58/2019 vp
+THL:hän tätä kyseli ja sai vastauksen, että ne rahat eivät aina menneet siihen tarkoituk-
+seen. Elikkä olisi seurattava, menevätkö ne rahat siihen omaishoitoon vai eivät. Se on vä-
+hän sama asia kuin jos minut laitetaan ostamaan kaupasta ruokaa ja minä ostan sieltä leluja
+ja karkkia ja tulen takaisin oikein tyytyväisenä ja minua ei nuhdellakaan siitä — eihän se
+nyt näin voi kuntien kohdalla olla. Ilman muuta seurantaa tarvitaan, näissä pitää olla hyvin
+tarkkana. Jatkossa seuranta pitäisi olla parempaa.
+
+18.08 Tiina Elo vihr: Arvoisa puhemies! Tämän lakiesityksen tavoite on hyvä ja perustel-
+tu, niin kuin täällä on todettu. Kuntien taloustilanteen ollessa nyt varsin haasteellinen on
+erityisen tärkeää, että me saamme kuntien taloustiedoista vertailukelpoista tietoa. Me tar-
+vitsemme luotettavaa, ajantasaista ja vertailukelpoista tietoa kuntien ja valtion päätöksen-
+teon pohjaksi, jotta me voimme tehdä niitä tärkeitä päätöksiä, joilla varmistetaan, että kun-
+tien talous saadaan terveemmälle pohjalle.
+
+On tärkeätä yksinkertaistaa menettelytapoja ja vähentää raportoinnista aiheutuvia kus-
+tannuksia. Tämän esityksen tavoitteenahan on, että taloustiedot kerättäisiin tilivuodesta
+2021 alkaen Valtiokonttorin yhdenmukaisen systeemin mukaisesti ja että ne olisivat avoi-
+men datan periaatteen mukaan helposti saatavilla. Tätä pidän myös tärkeänä elementtinä
+tässä uudistuksessa. Nykyäänhän taloustietojen raportointi perustuu suosituksiin ja esimer-
+kiksi vertailukelpoisuudessa on isoja ongelmia. 
+
+Varmasti on niin, että tämä on sen verran mittava muutos, että muutoskustannuksia tu-
+lee, kun kunnat opettelevat uuden systeemin käyttöä, mutta pidemmällä aikavälillä tavoit-
+teena tietysti tulee olla, että saadaan aikaan säästöjä, kun meillä on selkeä ja yhdenmukai-
+nen systeemi. Kuntatalouden seuraaminen ja vertailtavuus paranee, mikä helpottaa sekä
+valtion että kuntien omaa talousohjausta. 
+
+Arvoisa puhemies! Tämä esitys tavoitteineen on tosiaan kannatettava, ja lähtökohtana
+tulee olla, että tämä on tärkeä digiaskel, joka helpottaa kuntien talousvastaavien elämää ja
+täällä myös meidän elämäämme, kun kuntien taloutta koskevia päätöksiä teemme. Mutta
+on tärkeätä, että tämä uudistus valmistellaan nyt huolella ja että muutosvaiheeseen on
+myös osoitettavissa riittävä tuki. — Kiitos.
+
+18.10 Kimmo Kiljunen sd: Arvoisa puhemies! Tässä oli tärkeä puheenvuoro koskien tätä
+kuntien palvelujen digitalisointia, mikä on luonnollisesti tärkeä asia meille, kehittää yhteis-
+kuntaa myöskin tähän digisuuntaan. Mutta haluaisin muistuttaa, kun yhteiskunnassa on
+myöskin jonkinlainen hype tämän digitalisoitumisen osalta, että meillä on merkittävä jouk-
+ko kansalaisia, jotka ovat automaattisesti näiden digipalvelujen ulkopuolella. Tässä ta-
+pauksessa viittaan ennen kaikkea seniorikansalaisiin, ikäihmisiin. On hyvä muistaa, että yli
+75-vuotiaista 80 prosentilla ei ole tietokonetta käytössään, ja kun mennään yli 85-vuotiai-
+siin, niin siellä on jopa kolmasosa ihmisiä, joilla ei ole edes matkapuhelinta käytettävis-
+sään. Meillä on Suomessa noin 300 000 seniorikansalaista, jotka ovat kyvyttömiä käyttä-
+mään näitä digipalveluita, ja se ei auta, että me lähdemme liikkeelle siitä, että koulutetaan,
+koulutetaan, koulutetaan käyttämään niitä digipalveluita. Se on vähän sama kuin kehottai-
+simme vammaista juoksemaan. Se ei vain onnistu, koska he elävät toisessa yhteiskuntato-
+dellisuudessa. 
+
+Sen takia minä haluaisin vedota voimakkaasti hallitukseen ja myöskin kuntapäättäjiin ja
+kuntiin, että älkää menkö liian pitkälle näiden digipalvelujen kautta tapahtuvassa julkises-
+sa palvelutarjonnassa, koska me viemme ihmiset täysin kohtuuttomaan tilanteeseen ja
+4
+
+
+
+Pöytäkirjan asiakohta PTK 58/2019 vp
+meillä syrjäytyy merkittävä osa kansalaisia ulos jopa peruspalveluista. Meillä jopa verotus
+siirretään kohta kokonaan digimuotoihin, joka on tämmöisiä aivan perustavia palveluja.
+Osa ihmisistä kokee itsensä ulkopuolisiksi kansalaisiksi, ja tästä halusin varoittaa.
+
+18.11 Kunta- ja omistajaohjausministeri Sirpa Paatero: Arvoisa herra puhemies! Hy-
+viä huomiota, hyviä kommentteja. 
+
+Tähän aikatauluun olisinkin voinut kyllä jo alun perin sanoa, että ajatus on, että — voi
+olla, että on silti haastavaa — ensi vuosi, vuosi 20, olisi tämän käyttöönottoa, mutta varsi-
+nainen raportointi lakisääteisesti olisi sitten vuoden 21 alusta, elikkä ensi vuodesta laki kyl-
+lä voimaan, mutta se ensi vuosi olisi sitten myöskin tätä koulutusta siellä alueilla, näitten
+yhtenäisten, ei kriteerien vaan raportoitavien asioiden määrittelemistä ja muuta, plus sitten
+sen kysymistä, että mitenkä siellä kunnissa siihen järjestelmään päästään. Siihen liittyy
+myöskin kysymys siitä, riittääkö tämä 30 miljoonaa — ensi vuodelle on muistaakseni 40
+miljoonaa. Ei missään tapauksessa. Siis kunnathan ovat monet tehneet jo satojen miljoo-
+nien eurojen satsauksia erilaisiin digitalisointijärjestelmiin, jotka liittyvät ihan työntekijöi-
+den työvälineisiin ja osittain, niin kuin tässä tuli huomio, myöskin kansalaisiin ja asiakkai-
+siin, kuntalaisiin liittyviin palveluihin.
+
+Meillä on toinen keino, joka on tulossa tähän soten puolelle. Elikkä kun sote-rakennetta
+ruvetaan siellä alueella miettimään, niin siellähän on tällä hetkellä jo ollut meneillään näitä
+digitalisointi- ja potilastietojärjestelmien ja muiden kehittämistä. Ja on myöskin tämän
+vuoden lopulla tulossa mahdollisuus hakea rahoitusta koko tämän sote-rakenteen muok-
+kaamiseen, joka osittain tarkoittaa myöskin tätä sote-puolen digitalisointia. Samoin meillä
+sinne kehittämispuolelle on päätetty yhdistää se Vimana ja SoteDigi yhdeksi yhtiöksi ni-
+meltään SoteDigi, joka sitten tulee siihen tueksi.
+
+Hyvä huomio näiden hankintojen ja ostojen osalta tähän: Samanaikaisesti on meneil-
+lään niin sanotun Hilma-järjestelmän, mitä kautta julkisia hankintoja tehdään, kehittämis-
+työ, jossa tietenkin pitää samalla mallilla sitten ottaa siihen järjestelmään kaikki ne palve-
+luiden tuottajat ja tavaroiden tuottajat eli pitää nämä laskujärjestelmät yhtenäistää. Ja sit-
+ten samalla pitää muistaa ja huomata ja tietää se, että meillä kaikilla on viime talven aika-
+nakin täällä päätettynä esityksenä ainakin olemassa tiedonhallintaan toimeenpanolaki, joka
+pitää ottaa huomioon. Sitten meillä on EU:n kautta tullut myöskin erilaisia velvoitteita,
+sähköisistä laskuista ja kaikista muista, jotenka meillä on jo niitä asioita, jotka kunnissa on
+tälläkin hetkellä otettava huomioon jo ensi vuoden alusta. Ja siihen tämä yhtenä. Mutta on
+todella tärkeätä, että sitten samalla pystytään katsomaan ne kohdat, joiden pitää olla samal-
+la tavalla raportoituna, että ne järjestelmät tietenkin sitten toimivat.
+
+Sitten tämä erillinen huomio tähän kansalaisten näkökulmaan: Kyllä joillakin alueilla on
+jo tehty hyvää työtä, ja tuolla JulkICT:n puolella on koko ajan meneillään hanke — se on
+hankerahoituksella tällä hetkellä tämmöisestä digituesta elikkä siitä, miten ne muutama sa-
+tatuhatta ihmistä, jotka eivät halua, eivät pysty, eivät kykene, joilla ei ole laitteita, pysyvät
+mukana näissä järjestelmissä — niin että he voivat saada ihan henkilökohtaista tukea sitten
+näitten palveluiden tuottamiseen tai jonkun muun vaihtoehtoisen mallin sitten hoitaa ne
+asiat, kun ei itse sitä digitaalista mallia pysty käyttämään. — Kiitoksia.
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+5
+
+
+	14
+	17.56
+	18.00
+	18.04
+	18.06
+	18.08
+	18.10
+	18.11
+
+

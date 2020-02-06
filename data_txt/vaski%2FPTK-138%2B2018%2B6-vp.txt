@@ -1,0 +1,1395 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM13F.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 138/2018 vp
+
+Täysistunto
+
+Keskiviikko 9.1.2019 klo 14.06—19.54
+
+6. Hallituksen esitys eduskunnalle laiksi sosiaali- ja terveyspalvelujen asiakasmaksuista
+Hallituksen esitys HE 310/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 6. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään sosiaali- ja terveysvaliokuntaan, jolle pe-
+rustuslakivaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja.
+
+Keskustelu
+
+15.45 Perhe- ja peruspalveluministeri Annika Saarikko (esittelypuheenvuoro): Arvoi-
+sa puhemies! Esiteltävänäni on tänään ehdotus laiksi sosiaali- ja terveyspalveluiden asia-
+kasmaksuista.
+
+Nykyinen asiaa koskeva lainsäädäntö on vuodelta 92, ja se on monilta osin vanhentunut-
+ta. Lainsäädännön uudistamisen tarve on itse asiassa ollut esillä usealla hallituskaudella, ja
+uudistuksia on myös yritetty tehdä useaan otteeseen. Itse asiassa viime hallituskaudella
+asetettiin jo työryhmä valmistelemaan kunnallisen palveluasumisen asiakasmaksuja ja nii-
+tä koskevia uudistusehdotuksia, mutta tuolloin hallituksen esitystä ei annettu. Kokonaisuu-
+distuksen tarvetta ovat tuoneet esiin oikeutetusti muun muassa eduskunnan oikeusasia-
+mies, oikeuskansleri ja myös valvontaviranomainen, kunnat ja lukuisat kansalaiset.
+
+Nykyisen lainsäädännön vanhentuneet säännökset ja siitä kokonaan puuttuvat säännök-
+set aiheuttavat kentällä valtavasti tulkintaongelmia ja suuria eroja asiakasmaksuissa eri
+alueiden ja ihmisten välillä. Myös lainsäädännön rakenne on itsessään vanhentunut, ja ase-
+tuksessa on säännöksiä, joiden tulisi perustuslain mukaisesti sijaita itse asiassa lain tasolla.
+Asiakkaiden oikeusturva ei ole toteutunut tarkoituksenmukaisesti, sillä lainsäädännöllä ei
+ole riittävällä tavalla varmistettu asiakasmaksujen alentamisen tai poistamisen ensisijai-
+suutta suhteessa toimeentuloturvaan ja myöskään asiakasmaksujen muutoksenhakua kos-
+keva ohjaus ei ole ollut riittävää. Epäoikeudenmukaista on ollut myös se, että asiakasmak-
+sulainsäädännöstä ovat puuttuneet kokonaan säännökset palveluasumisen maksuista eikä
+lainsäädäntö myöskään mitenkään tunne ja tunnista uusia palvelumuotoja tai digitaalisia
+ratkaisuja.
+
+Arvoisa puhemies! Suomessa sosiaali- ja terveydenhuoltoa rahoitetaan nykyisin pää-
+asiassa verotuloilla, lakisääteisillä ja vapaaehtoisilla vakuutuksilla sekä työnantaja- ja asia-
+kasmaksuilla. Asiakasmaksujen rooli vuonna 2017 tästä isosta rahapotista oli, että sillä ka-
+tettiin kustannuksista 7 prosenttia. Sosiaali- ja terveydenhuollon asiakasmaksut koskevat
+suurta osaa suomalaisista, sillä lähes puolet kansastamme maksaa vuosittain joitakin soten
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+asiakasmaksuja. Maksujen kohdentumisen osalta on kuitenkin merkittäviä väestöryhmä-
+kohtaisia eroja. Tässä tietysti näkyy myös työterveyshuollon rooli. Valtioneuvoston kans-
+lian tähän uudistustyöhön liittyen huhtikuussa 2018 julkaiseman tutkimusraportin mukaan
+suurin osa maksuista kasautuu maksettavaksi pienelle osalle väestöstä. Kymmenesosa asi-
+akkaista maksaa lähes puolet kaikista tasasuuruisista asiakasmaksuista. Tulosidonnaisissa
+maksuissa vastaava luku oli 44 prosenttia ja suun terveydenhuollossa 30 prosenttia.
+
+Arvoisa puhemies! Perustuslain 19 §:n kolmannessa momentissa on julkiselle vallalle
+säädetty velvoite turvata jokaiselle riittävät sosiaali- ja terveyspalvelut ja edistää väestön
+terveyttä. Keskeisenä periaatteena on lisäksi, että henkilön oikeus saada tarvitsemiaan pal-
+veluita ei saisi olla riippuvainen hänen maksukyvystään. Palvelut on turvattava myös niil-
+le, joiden maksukyky on heikentynyt. Tähän on perustuslakivaliokunta useasti kiinnittänyt
+huomiota.
+
+Tänään esittelyssä olevassa hallituksen ehdotuksessa ehdotetaan siis säädettäväksi ko-
+konaisuudessaan uusi laki tämän ison asiakasmaksukokonaisuuden äärellä. Tässä otetaan
+huomioon muutokset toimintaympäristössä palvelujärjestelmän osalta, mutta myös muu-
+tokset rakenteessa, siis uusi maakuntapohjainen sosiaali- ja terveydenhuollon uudistus.
+
+Ehdotetussa laissa säädettäisiin maakunnan järjestämisvastuulle kuuluvien palveluiden
+maksuista, myös siitä, miten maksut määrätään ja niitä peritään, sekä asiakkaalle maksut-
+tomista palveluista. Asiakasmaksut kerää aina maakunta, ei palveluntuottaja. Lisäksi esi-
+tyksessä säädettäisiin maksujen perimistä rajoittavasta maksukatosta, maksujen alentami-
+sesta ja perimättä jättämisestä sekä tarkennetaan maksujen muutoksenhakua koskevaa
+sääntelyä. Tähän sisällytettäisiin myös säännökset nykyisestä lainsäädännöstä puuttuvista
+asiakasmaksuista, kuten palveluasumisen ja etäpalvelujen maksuista.
+
+Oleellinen muutos on siis myös se, että asiakasmaksuista säädettäisiin jatkossa kokonai-
+suudessaan lain tasolla. Tämä vahvistaa ihmisten yhdenvertaisuutta ja asiakokonaisuuden
+selkeyttä. Nykyisen lainsäädännön nojalla kunnat itse asiassa voivat periä maksuja kaikis-
+ta sote-palveluista, ellei maksuttomuudesta ole erikseen säädetty laissa. Toisin kuin ny-
+kyään, tässä uudessa ehdotetussa laissa maksun saisi periä vain sellaisista sote-palveluista,
+joiden maksuista säädetään ehdotetussa laissa. Tämä selkiyttää, yhdenmukaistaa ja lisää
+asiakkaan aseman parantamista.
+
+Asiakas maksaisi maakunnan järjestämisvastuulle kuuluvasta palvelusta yhtäläiset mak-
+sut riippumatta siitä, miten palvelu on tuotettu tai järjestetty. Asiakas maksaisi näin ollen
+asiakasmaksulain mukaisen maksun myös silloin, kun käyttää asiakasseteliä tai henkilö-
+kohtaisella budjetilla toteutunutta palvelua. Ainoastaan käyttämättä tai peruuttamatta jäte-
+tystä palvelusta maksun voisi periä palveluntuottaja itse, muutoin maksut kerää maakunta,
+kuten, arvoisa puhemies, jo aiemmin painotin. Maakunnille jäisi itsehallintoonsa perus-
+tuen edelleen oikeus periä asiakasmaksulainsäädännön mukaisia maksuja pienempiä mak-
+suja tai olla perimättä maksuja lainkaan. Joka tapauksessa maakunnilla on siis paljon pää-
+täntävaltaa, ja esityksen lähtökohtana on, että maksut olisivat kohtuullisia eivätkä estäisi
+tarpeellisten palveluiden käyttöä. Tähän esitykseen ei sisälly erillisiä tasokorotuksia mak-
+suihin.
+
+Maksuttomia palveluja koskevat säännökset säilytettäisiin jatkossakin laissa ja niiden
+perusteita tarkennetaan. Merkittävin maksuttomuuden laajennus esityksessä on se, että sai-
+raanhoidon palvelut säädetään alaikäisille kokonaan maksuttomiksi. [Sari Sarkomaa: Vih-
+doin, hieno uudistus!] Perustason ja erikoistason palveluiden asiakasmaksujen periaatetta
+yhdenmukaistetaan. Perustason palveluissa lääkärikäyntien maksujen perimistä rajoittava
+2
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+niin sanottu välikatto, joka rajoittaa maksun perimisen enintään kolmeen käyntikertaan
+vuodessa, poistettaisiin uudessa laissa. Ehdotetussa laissa myös käyntimaksulle vaihtoeh-
+toinen vuosimaksu poistetaan. Ehdotetun lain mukaan asiakkaalta voisi jatkossa periä
+maksun jokaiselta lääkärikäynniltä sote-keskuksessa. Maksun ilman välikattoa voisi jat-
+kossa periä myös hoitajakäynneistä sekä terapia- ja sarjahoidon käynneistä, [Li Anders-
+son: Satoja euroja lisää vuodessa!] mutta ennalta ehkäisevät käynnit olisivat jatkossakin
+pääosin maksuttomia.
+
+Tällä esityksellä, arvoisa puhemies, ei ole tarkoitus kasvattaa maakuntien rahavirtoja tai
+valtion kassaa. Esitys on siltä osin kustannusneutraali, että se vastaa jotakuinkin saman
+suuruista summaa, mitä asiakasmaksuja on tähän asti kerätty. Maksukaton taso säilytetään
+ennallaan, mutta maksukaton alaa laajennetaan muun muassa suun terveydenhuollon mak-
+suihin. Tämä on erittäin tärkeä parannus pienituloisten näkökulmasta. Maksukaton kerty-
+misen ja täyttymisen seuranta siirtyy asiakkaalta maakunnalle, tämäkin merkittävä käden-
+ojennus pienituloisten arjen hallinnan näkökulmasta. Ja, arvoisa puhemies, pitkäaikaishoi-
+don asiakasmaksut määräytyisivät jatkossakin asiakkaan maksukyvyn mukaan tuloperus-
+taisesti. Kotipalvelun ja kotisairaanhoidon sekä sosiaalihuoltolain nojalla järjestettävien
+asumispalveluiden asiakasmaksut määräytyisivät yhdenmukaisin perustein ympärivuoro-
+kautista palveluasumista lukuun ottamatta.
+
+Arvoisa puhemies! Vielä lopuksi totean, että oleellista on se, että jatkossa koko maakun-
+nan alueella peritään yhtä suuret asetetut asiakasmaksut toisin kuin nyt yksittäisissä kun-
+nissa toimitaan. Isoin epäkohta on liittynyt palveluasumisen maksuihin, joissa tilanne vaih-
+telee nykyisin suuresti kuntien välillä. Näin ollen eri kunnissa tämä uudistus voi näyttäytyä
+erilaisena riippuen siitä, millaiset maksut kunnan alueella on nykyisin ja millainen maa-
+kunnan asettama maksujen taso tulee olemaan.
+
+Tavoitteena on, että uusi laki, eduskunnan sen hyväksyessä, astuisi voimaan 1. päivänä
+tammikuuta 2021 maakuntien aloittaessa.
+
+Puhemies Paula Risikko: Otetaan tähän nyt reipas debatti. Koska meillä on nyt vain 30
+minuuttia tähän aiheeseen, niin minä luulen, että käytetään se koko aika tähän debattikes-
+kusteluun. Pyydän varaamaan puheenvuoroja. — Ensimmäisenä valiokunnan puheenjoh-
+taja edustaja Kiuru, olkaa hyvä.
+
+15.54 Krista Kiuru sd (vastauspuheenvuoro): Arvoisa puhemies! Ministeri totesi tässä
+ihan hyvin, että Suomessa yhdenvertaisuus ei toteudu asiakasmaksujen suhteen niin hyvin
+kuin sen pitäisi. Siltä osin uudistusta on kaivattu. [Sari Sarkomaa: Kolme vaalikautta odo-
+tettu!] Ja toisaalta on myös myönnettävä, että kuntien välillä on isoja eroja asiakasmaksu-
+jen suhteen ja tätä kautta erityisesti vanhukset ja vammaiset ovat olleet hyvin eriarvoisessa
+asemassa riippuen kunnasta, missä eletään.
+
+Mutta minusta näin lyhyessä keskustelussa kuin mikä meillä on mahdollisuus käydä on
+kiinnitettävä erityisesti huomiota siihen, että ihmiset, jotka sairastavat paljon, joutuvat tä-
+män esityksen myötä kyllä nyt erityisen hankalaan asemaan. Suomessa jokainen suomalai-
+nen on oppinut ja tietää, kun yöllä herätetään, että kun kolme kertaa käyt lääkärissä, niin
+siinä ne vuoden maksut olivat. Nyt kun on tämä tosiasiassa sinänsä kuitenkin reilu systee-
+missä, että maksut voidaan rajata reiluun 60 euroon keskimääräisesti kunnissa, [Puhemies
+koputtaa] niin se tulee nousemaan jopa yli 600 euron. Tämä on se iso kompastuskivi, joka
+nyt on luotu. 
+3
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Puhemies Paula Risikko:  Pysytään minuutissa, niin saa mahdollisimman moni tilaisuu-
+den.
+
+15.55 Martti Talja kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Tässä laissa-
+han ei todeta eikä myöskään ministeri todennut sillä tavalla, että se on pakko toteuttaa ni-
+menomaan niin, että välikatto pitää poistaa perusterveydenhuollon maksujen osalta, vaan
+maakunta voi ratkaista itse, miten kerää maksut. Nämä ovat maksimimaksuja, ja näen itse,
+että on hyvä, että tässä on nyt siirrytty systemaattiseen käytäntöön, koko maassa samankal-
+taiseen käytäntöön niin yhtenäisten maksujen osalta kuin sitten tulosidonnaisten maksujen
+osalta.
+
+Se, mikä tässä on nyt todella hieno asia, on se, että terveyden edistäminen on maksuton-
+ta, sitten rokotukset ovat maksuttomia, alaikäisten terveyspalvelut ovat maksuttomia, en-
+naltaehkäisevät palvelut, niin kuin äsken totesin, ja myös mielenterveys- ja päihdeongel-
+miin liittyvät palvelut ovat maksuttomia. 
+
+Tällä hetkellä kunnissa on erittäin suurta vaihtelua siinä, mikä on laitoshoitoa, mikä on
+palveluasumista. Tämä yhdenmukaistaa [Puhemies koputtaa] tämän käytänteen samoin
+kuin kotona ja laitoksessa asumisen osalta.
+
+15.57 Sari Sarkomaa kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Todella mai-
+niota, että tämä lakiesitys on vihdoin saatu eduskuntaan. Ikäihmisten palvelumaksujen vii-
+dakkoa nyt selkeytetään. Lain piti tulla jo vanhuspalvelulain yhteydessä, mutta sosiaalide-
+mokraattinen ministeri ei sitä saanut. Nyt vihdoin säädetään käyttövarasta myöskin palve-
+luasumisessa, mikä on tervetullutta. Iloitsen siitä, että vihdoinkin lasten terveydenhuolto
+tehdään maksuttomaksi. Tämä on mittava kansanterveysteko. 
+
+Mittava uudistus on myöskin se, että maksukattoon sisällytetään suun terveydenhuollon
+maksut. Heikko suun terveys on ollut keskeinen terveyserojen aiheuttaja, ja nyt nuo mak-
+sut voidaan sisällyttää maksukattoon. Tämä on loistava uudistus. Ja on todella hyvä, että
+laissa säädetään ne asiat, mistä voidaan maksu säätää. Näin eivät tulevat sote-alueet ja
+maakunnat voi itse keksiä maksuja, ja näin myöskin kumotaan se väite, mitä oppositio on
+nostanut, että sote-uudistus rahoitettaisiin asiakasmaksuilla. Näin ei todellakaan tulla teke-
+mään. Mutta maksut ovat pohjoismaisittain korkeat, ja toivon, että seuraavalla eduskunta-
+kaudella, [Puhemies koputtaa] seuraavissa hallitusneuvotteluissa otetaan askelia siihen,
+että kolme eri maksukattoa voitaisiin nivoa yhteen. [Puhemies: Aika!] Mielestäni se pitää
+asettaa tavoitteeksi.
+
+15.58 Leena Meri ps (vastauspuheenvuoro): Arvoisa puhemies! Olemme perustuslakiva-
+liokunnassa käsitelleet monta kertaa näitä asioita, ja perustuslaki todellakin edellyttää, että
+jokaiselle taataan riittävät sosiaali- ja terveyspalvelut. Rahoitus jää kyllä nyt mietityttä-
+mään. Mietin sitä, että joillekin ihmisille kasaantuu näitä maksuja, kuten tässä aikaisem-
+missa puheenvuoroissa tuli esille, ja maakunta saa vain tietyn rahoituksen valtiolta. Nyt
+tässä edustaja Sarkomaa sanoi, että asiakasmaksuilla tätä ei paikata. Epäilen, että kuiten-
+kin näin kikkaillaan. Mutta sitten kysynkin, mistä se sitten otetaan. Maakunta ei voi verot-
+taa, sitä ei teidän näkemyksenne mukaan tehdä asiakasmaksuilla. Onko se sitten palvelun
+laatu tai saatavuus? Maakunta ei voi tuottaa niitä palveluita, jos ei sillä ole riittävästi rahaa.
+Ja kun katson sosiaali- ja terveysvaliokunnan mietinnön pykäliä, niin kyllä siihen jää vielä
+katvetilanteita kunnille. Mutta en voi enempää ottaa kantaa, kun se on meillä perustuslaki-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+valiokunnassa kesken, mutta kyllä olen [Puhemies: Aika!] todella huolestunut maakunnan
+rahoituksesta.
+
+15.59 Touko Aalto vihr (vastauspuheenvuoro): Arvoisa puhemies! Esitän näkemyksenä-
+ni, että maakuntien laajemmat väestöpohjat mahdollistavat sekä terveyskeskusmaksujen
+poistamisen että maksukattojen yhdistämisen, jos valtio ei aja maakuntia rahoituskriisiin.
+Toivotan tervetulleiksi ehdotukset maksukaton piirin laajentamisesta sekä ennen kaikkea
+sairaanhoidon palveluiden maksuttomuudesta alle 18-vuotiaille. Olen kuitenkin sitä miel-
+tä, että on kansanterveyden ja kansantalouden kannalta väärin periä jokaisesta terveyskes-
+kuksen lääkäri- ja sairaanhoitajakäynnistä maksuja. Jos paljon sairastavat ikäihmiset sekä
+työterveyshuollon ulkopuolella olevat pienituloiset joutuvat maksamaan jokaisesta ter-
+veyskeskuksen lääkäri- tai sairaanhoitajakäynnistä aina 683 euron maksukattoon asti, mi-
+ten terveys- ja hyvinvointierojen kaventaminen onnistuu ja miten maksujen kohtuullisuu-
+den tavoite toteutuu?
+
+16.00 Li Andersson vas (vastauspuheenvuoro): Arvoisa puhemies! Tämän lakiesityksen
+keskeinen ongelma on se, että ne parannukset, mitä tehdään, rahoitetaan käytännössä pe-
+rusterveydenhuollon käyntimaksujen määrää kasvattamalla. Terveyskeskusmaksujen väli-
+katon poisto tulee kasvattamaan paljon sairastavien pienituloisten suomalaisten vuosittai-
+sia menoja jopa sadoilla euroilla. Kun suurimmassa osassa Suomen kunnista tällä hetkellä
+terveyskeskuspalveluiden käyttö on ollut maksutonta kolmen käyntikerran jälkeen, eli on
+maksettu yhteensä 61,80 euroa, niin jatkossa se on maksutonta vasta siinä vaiheessa, kun
+koko tämä vuosittainen maksukatto on täynnä eli 683 euron jälkeen. Tämä ei ole se suunta,
+mihin perusterveydenhuollon maksukäytäntöjä pitäisi Suomessa kehittää. Vasemmistolii-
+ton vaatimus on jo pitkään ollut, että terveyskeskusmaksuista tulisi sen sijaan luopua koko
+maassa pienituloisten hoitoonpääsyn helpottamiseksi.
+
+16.01 Veronica Rehn-Kivi r (vastauspuheenvuoro): Arvoisa puhemies, värderade tal-
+man! Nu föreslår regeringen att man ska slopa årsavgiften vid hälsocentralerna och i stället
+bara ta i bruk avgift för engångsbesök.
+
+Miten tämä tulee vaikuttamaan just pienituloisten ihmisten mahdollisuuksiin saada hoitoa
+— ikäihmiset, lapsiperheet ynnä muut? Eikö olisi parempi, että olisi myöskin olemassa täl-
+lainen vuosimaksu niin kuin tällä hetkellä? Sitten kun näitä maksukattoja on tehty, niin oli-
+sikos hyvä kuitenkin, että olisi — niin kuin RKP on aikaisemmin ehdottanut — yhteinen
+maksukatto terveyskeskusmaksuille ja matkoille ja lääkkeille?
+
+16.02 Sari Tanus kd (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä esitys asia-
+kasmaksuista on iso kokonaisuus, ja on tietysti hyvä, että sinne on tullut se, että alaikäisten
+sairaanhoidon palvelut ja ennalta ehkäisevät palvelut ovat maksuttomia, samoin kuin se,
+että asiakasmaksujen alentamismahdollisuus ja perimättäjättämismahdollisuus nostetaan
+enemmän esiin, ja sitä tulee priorisoida jatkossa.
+
+Mutta näen erittäin ongelmalliseksi sen, että terveyskeskusmaksuissa mahdollisuus vä-
+likaton poistamiseen tulee. Kyllä nämä terveyskeskusmaksut tulevat ongelmiksi monille
+varsinkin paljon palveluita tarvitseville ja vähävaraisimmille. Olisin kysynyt tästä maksu-
+katosta ja maksukattojen yhdistämisestä: eikö siitä ollut puhetta? Myös se, että kaikki oma-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+vastuut keskittyvät sinne alkuvuoteen, on erittäin haasteellista, ja edelleen kysyisin: Kun
+osa maksuista määräytyy maksukyvyn perusteella, esimerkiksi palveluasumisessa, ja ny-
+kyisin tuntuu, että erittäin iso osa tuloista menee näihin maksuihin, [Puhemies koputtaa]
+niin onko muutosta tähän harkittu?
+
+16.03 Hanna-Leena Mattila kesk (vastauspuheenvuoro): Arvoisa puhemies! Nämä ter-
+veyskeskusmaksut ovat tosiaan selvästi saaneet ihmiset liikkeelle, nimittäin minuunkin on
+otettu yhteyttä tosi monta kertaa tämän päivän aikana. Kysyisinkin vastuuministeriltä:
+Mitä te vastaisitte näille huolestuneille kyselijöille? Kasvattaako tämä laki voimaan tulles-
+saan asiakasmaksuja, ja miten tulevat paljon sairastavat pärjäämään, jos maksukatto on
+683 euroa? Ja vielä viimeiseksi: joutuvatko paljon sairastavat ja heidän perheensä taloudel-
+liseen ahdinkoon, jos tämä lakiesitys menee läpi?
+
+16.04 Maria Guzenina sd (vastauspuheenvuoro): Arvoisa puhemies! Soten aikataulun
+ollessa tällä hetkellä jo hyvin kriittinen hallitus tuo taas uusia sote-lakeja tänne eduskun-
+nan käsittelyyn — eikä mitä tahansa sote-lakeja, vaan sellaisia, jotka täytyy arvioida myös-
+kin perustuslakivaliokunnassa. Tämä on ollut hyvin leimaavaa tälle hallitukselle. Tipoit-
+tain tuodaan esityksiä, kokonaisuutta on vaikea arvioida, ja tätä mieltä ovat muuten myös
+perustuslakivaliokunnan asiantuntijat. [Sari Sarkomaa: Tämä asia on jo käsitelty perustus-
+lakivaliokunnassa!] Nyt näyttäisi siltä, että soten käsittely tulee venymään, ja se ei kyllä ole
+opposition syy, vaan se on ihan hallituksen oma syy.
+
+Mutta tähän esitykseen liittyen maksukattouudistusta ei edelleenkään toteuteta: Sosiaa-
+li- ja terveydenhuollon asiakasmaksuissa, lääkkeissä ja matkoissa on tässä hallituksen esi-
+tyksessä, kaikissa, omat erilliset maksukatot, ja täytyy siis käyttää 1 600 euroa ennen kuin
+kaikki katot täyttyvät ja maksuihin saa helpotusta — 1 600 euroa. Ministeri on itsekin kat-
+sonut aikoinaan, että nämä maksukatot täytyy yhdistää. [Puhemies koputtaa] Miksi näin ei
+ole tehty?
+
+16.05 Jaana Laitinen-Pesola kok (vastauspuheenvuoro): Arvoisa puhemies! On todella-
+kin tärkeää, että tämä asiakasmaksulaki uudistetaan. Täytyy tunnustaa, että terveydenhuol-
+lon ammattilaisenakin olen joskus hieman sekaisin siitä, millä perusteella ja minkälaisia
+maksuja meillä peritään. Uskon, että kun jatkossa kokonaisuudessaan lain tasolla sääde-
+tään siitä, mistä maksut peritään, se selkeyttää toimintaa.
+
+Toinen semmoinen asia, joka varmasti selkeyttää, on se, että asiakasmaksua perivä taho
+olisi asiakkaan oma maakunta. Näin maksuperusteet pysyvät yhtenäisinä ja seuranta mah-
+dollistuu. Näenkin tärkeänä, että asiakasmaksujen vaikutusta palveluiden käyttöön, mak-
+surasitteen keskittymiseen sekä sosiaali- ja terveyspalveluiden toimivuuteen jatkossa voi-
+taisiin arvioida entistä paremmin, ja uskon, että tällä lainsäädännön uudistuksella se on
+mahdollista.
+
+16.06 Matti Torvinen sin (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä asiakas-
+maksulain uudistaminen on ollut ja on erittäin tärkeä uudistus. 
+
+Kun puhutaan sitten köyhistä ja vähävaraisista, esimerkiksi asiakasmaksujen alentami-
+nen ja perimättä jättäminen saa nykyistä huomattavasti vahvemman roolin. Toki se on ny-
+kylainsäädännön mukaankin ollut mahdollista, mutta eipähän tuota ole käytetty. Nyt sitten
+on mahdollisuus käyttää ja tullaankin käyttämään. Erityisen tärkeää on se, että myöskin
+6
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+nuoret huomioidaan, siis sillä muodoin, että alaikäiset eivät tule maksun piiriin. Ja nuo en-
+nalta ehkäisevät palvelut ovat myös maksuttomia, se on tärkeää. 
+
+Asiakkaan tilanne selkiytyy monilta osin myös asumispalvelumaksujen määräytymisen
+suhteen. Nyt nekin maksut ovat olleet niin sanottu villi pelikenttä maamme kunnille. 
+
+Onneksi tämä esitys saatiin eduskuntaan, vaikka se nyt sitten opposition mielestä on
+liian myöhään, minun mielestäni ei. Se selkiyttää ja ajanmukaistaa monta asiaa. Se on esi-
+merkki tämän hallituksen toimintakyvystä ja yhteiskunnan muutoksen huomioimisesta.
+[Puhemies koputtaa] Esimerkiksi digitalisaation myötä syntyneet etäpalvelut tulevat nyt
+huomioiduiksi.
+
+16.08 Riitta Mäkinen sd (vastauspuheenvuoro): Puhemies! Arvoisa ministeri! Todella
+tämä maksujen yhdenmukaistamisen pyrkimys on erittäin toivottu, kiitokset siitä.
+
+Todellakin tämä välimaksukaton poistaminen niin lääkäri- kuin hoitajakäynneistä on
+erittäin räikeä kipukohta ja iskee nimenomaan tuonne ikäihmisiin. Pelkästään viime vuon-
+na yli 65-vuotiaiden maksuhäiriömerkinnät kasvoivat, ja taustalla ovat juuri nämä asiakas-
+maksut.
+
+Me tiedämme, että eläkeläisköyhyys on tällä hetkellä räikeä ongelma, ja me puhumme
+ennaltaehkäisystä. Kysyn nyt ministeriltä, kuinka hän tältä osin perustelee tätä esitystä, ja
+toisaalta kysyn myös sen, mitenkä nämä tavalliset terveydenhoitajakäynnit ovat erotetta-
+vissa näistä niin sanotuista ennalta ehkäisevistä käynneistä.
+
+16.08 Toimi Kankaanniemi ps (vastauspuheenvuoro): Arvoisa herra puhemies! Valtio-
+varainvaliokunta viime toukokuussa antamassaan lausunnossa sote-uudistuksesta oli täy-
+sin yksimielinen siitä, että tämä rahoitus, mikä valtiolta on tulossa, ei tule riittämään, esi-
+merkiksi Uudellamaalla alkuvaiheessa on 300 miljoonan aukko. Ja kun nyt ajatellaan tätä
+tilannetta, niin maakunnat joutuvat käyttämään kaikki mahdollisuudet muitten tulojen
+hankkimiseksi, ja näin ollen nämä maksuhelpotukset ja perimättä jättämiset ovat täysin
+pelkkää puhetta tässä vaiheessa.
+
+Tänään tuli tieto, että yli 65-vuotiaiden maksuhäiriöt kasvoivat viime vuonna 9 prosen-
+tilla. Nyt hallitus on tehnyt tämän mallin tämän välitason poistamisesta, mikä merkitsee si-
+tä, että juuri nämä yli 65-vuotiaat, paljon sairastavat, joutuvat maksajiksi. Eikö tämä ole
+täysin kohtuutonta teidän mielestänne? Miksi ajatte tällaista politiikkaa, että nämä, meidän
+isämme ja äitimme, jotka paljon tarvitsevat palveluja, kärsivät?
+
+16.10 Simon Elo sin (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Kankaanniemi
+kiinnittää sinänsä tärkeään asiaan huomiota, ja huoli on varmasti aito ja aiheellinen, mutta
+jos ajatellaan julkisuudessakin paljon puheissa ollutta asiakasmaksujen perimistä ulosoton
+kautta, niin siinähän suurin ryhmä on nimenomaan sairaala- ja laitoshoitomaksut tällä het-
+kellä. Juuri tässä lakiesityksessä tavoitteena on vahvistaa sitä maakuntien velvoittavuutta
+alentaa maksuja tai jättää ne perimättä. On totta, niin kuin edustaja Torvinen sanoi, että tätä
+velvoitetta on ollut tälläkin hetkellä, mutta kyllä se tämän lainsäädäntöuudistuksen myötä
+vahvistuu.
+
+Toinen tärkeä kysymys, mistä tässä salissa on paljon puhuttu ja oltu hyvin yksimielisiä,
+on veteraanien aseman parantaminen. Tämän esityksen myötä tulosidonnaisten maksujen
+perusteena olevista tuloista poistettaisiin ylimääräinen rintamalisä ja veteraanilisä, eli ve-
+teraanienkin [Puhemies koputtaa] asema tältä osin paranee.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Täällä puhuttiin siitä, miten on nähty nämä kustannukset. Lähtökohtahan oli, että tästä
+tulisi kustannusneutraali, mutta on aivan totta, että paineita asiakasmaksujen osalta on yli-
+päätään ollut koko ajan. Tämä esitys ei sitä painetta [Puhemies koputtaa] sinänsä muuta.
+Lähtökohtana olisi kustannusneutraalius.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Pyydän vastauspuheenvuoroja nyt
+juuri tällä kertaa edustaja Kankaanniemen käyttämän puheenvuoron johdosta. Muut vas-
+tauspuheenvuorot tulevat sitten aikanaan omassa järjestyksessään. — Edustaja Talja pyysi
+vastauspuheenvuoron jo edustaja Kankaanniemen puheenvuoron aikana.
+
+16.11 Martti Talja kesk (vastauspuheenvuoro): Kiitos, arvoisa puhemies! Olisin kiinnit-
+tänyt huomiota juuri tähän samaan asiaan, johon edustaja Elo kiinnitti huomiota, että mak-
+sujen alentamista ja perimättä jättämistä koskevaa säännöstä on selkeästi vahvistettu. Itse
+asiassa tässä asiakkaalle on kerrottava mahdollisuudesta hakea maksuun huojennusta ja
+maksun huojentaminen olisi ensisijaista toimeentulotukeen nähden. Elikkä tällä hyvin suu-
+rilta osin maakunta ottaa vastuun, huolehtii siitä maksukaton kertymisen seurannasta, joka
+on ollut tällä hetkellä asiakkaan vastuulla, ja itse asiassa ottaa vastuun myös siitä, että asi-
+akkaalle on kerrottava siitä, että huojennusta voidaan myöntää perusterveydenhuollon
+maksuihin. Tästä muodostuisi sitten niitä käytänteitä, joita käytännössä vuonna 21 alettai-
+siin toteuttaa.
+
+16.12 Kristiina Salonen sd (vastauspuheenvuoro): Arvoisa puhemies! Ensiksi ministeriä
+on kiitettävä palveluasumismaksujen yhdenmukaistamisesta ja siitä, että alle 18-vuotiaille
+säädetään maksuton terveyspalvelu. 
+
+Mutta siihen, mitä edustaja Talja totesi, että maksimimaksuista voidaan päättää sitten
+maakunnissa, on sanottava, että kyllä se niin on, että maksimimaksuista tulee uusi normaa-
+li. Se on pakko sanoa ääneen. Suomessa 1,9 miljoonaa työikäistä sairastaa jotain pitkäai-
+kaissairautta tai vammaa. Joka kymmenes pitkäaikaissairas on joutunut jättämään lääk-
+keensä ostamatta sen takia, että rahaa ei ole ollut. Nyt me olemme juuri heitä ja esimerkiksi
+paljon sairastavia vanhuksia rasittamassa sillä, että tästä välikatosta luovutaan. 1 miljoo-
+naa käyntiä ylitti kolmen kerran käynnit vuodessa, siis yli 1 miljoonaa käyntiä. Näiden ih-
+misten maksut tulevat nousemaan, ja se on kyllä virhe.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Myönnän debatin tässä vaiheessa vie-
+lä vastauspuheenvuorot edustajille Alanko-Kahiluoto, Mustajärvi ja Laiho. Näiden pu-
+heenvuorojen jälkeen myönnän sitten ministerille 3 minuutin vastauspuheenvuoron.
+
+16.13 Outi Alanko-Kahiluoto vihr (vastauspuheenvuoro): Arvoisa puhemies! Totuus on
+se, että tämä esitys yhdessä hallituksen sote-esityksen kanssa tulee heikentämään helsinki-
+läisen pienituloisen asemaa. Meillä ei Helsingissä ole tällä hetkellä terveyskeskusmaksuja
+ollenkaan käytössä, koska tiedämme, että niiden periminen on byrokraattista ja luo kor-
+kean kynnyksen pienituloiselle, köyhälle, paljon sairastavalle hakeutua ajoissa hoitoon.
+
+Nyt sote-esitys, joka on alusta lähtien aliresursoitu, niin kuin edustaja Kankaanniemi hy-
+vin toi esille, tulee pakottamaan Helsingin muiden kuntien muassa ottamaan käyttöön asia-
+kasmaksut, joita meillä nyt ei ole, sen vuoksi, että hallitus on kirjoittanut sote-esitykseen,
+että asiakasmaksut pitää maakunnan alueella yhtenäistää. Ja kun sote on alun alkaen alire-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+sursoitu — hallitus leikkaa sieltä niin paljon lähtökohtaisesti, ja valtiolta tulee rahoitus ali-
+mitoitettuna — eikä verotusoikeutta maakunnilla ole, se tarkoittaa sitä, että maakunnat pa-
+kotetaan nostamaan asiakasmaksuja, [Puhemies koputtaa] ottamaan ne käyttöön tai sitten
+leikkaamaan palveluista. Ja tämä on tosiasia.
+
+16.14 Markus Mustajärvi vas (vastauspuheenvuoro): Arvoisa puhemies! Jos laskee yh-
+teen näiden eri omavastuiden yhteisvaikutuksen, hieman alle 1 600 euroa, ja suhteuttaa sen
+sitten siihen, mitä ovat esimerkiksi eläkeläisten tulot, niin sehän on kahden kuukauden ta-
+kuueläke tai yhden kuukauden keskimääräinen työeläke. Onhan se aika huima tilanne, jos
+omavastuuseen menee henkilön vuosituloista kuudesosa.
+
+Mutta ministeri Saarikko, miten tämä maksuvapautus maakuntatasolla käytännössä me-
+nee? Miten tunnistetaan sen asiakkaan tarpeet ja se, että hän oikeutettu saamaan näihin
+maksuvapautuksen, kun sen arviointi kuntatasollakin on jo nytten vaikeaa?
+
+16.15 Mia Laiho kok (vastauspuheenvuoro): Arvoisa puhemies! Tämä asiakasmaksula-
+kiuudistus tulee todella tarpeeseen. Tällä hetkellä esimerkiksi palveluasumisessa on todel-
+la viidakko. Omaiset ja asukkaat eivät itse tiedä, mitä he joutuvat maksamaan, kun siirty-
+vät palveluasumisen piiriin. Samoin siellä myöskin käyttövara vaihtelee. Kyllä ihmisellä
+pitää olla mahdollisuus johonkin omaan myöskin silloin, kun hän on ympärivuorokautises-
+sa hoivassa, esimerkiksi käydä jalkahoidossa tai käydä joskus teatterissa tai ostaa jotain
+vaatetta. Tällä hetkellä se on viety hyvin minimiin.
+
+Toinen tärkeä asia on maksukaton laajeneminen suun terveydenhuollon piiriin. Tällä
+saadaan eriarvoisuutta vähennettyä. Suun terveys on osa muuta terveyttä, merkittävä osa
+sitä, ja se vaikuttaa myös sosiaalisuuteen, siihen, miten saadaan työtä, miten saadaan seu-
+rustelusuhteita — jos hampaat ovat huonossa kunnossa, se vaikuttaa välillisesti myöskin
+siihen. 
+
+Maksukaton seurannan siirtyminen maakunnalle on myöskin semmoinen oikeudenmu-
+kaisuuskysymys, jolloinka ei jää yksilön vastuulle itse seurata sitä. 
+
+Lasten terveydenhuollon maksuttomuuden laajentuminen on erittäin tärkeää. Lapset
+ovat tasa-arvoisessa asemassa riippumatta siitä, mitä on vanhempien tulotaso.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ministeri, 3 minuuttia.
+
+16.16 Perhe- ja peruspalveluministeri Annika Saarikko: Kiitos, arvoisa puhemies!
+Minusta tämä salidebatti osoittaa, että tämä lakiuudistus on kokonaisuus. Siitä on löydet-
+tävissä yksityiskohtia, joista voi sanoa, että tämä kohta huononee, ja yksityiskohtia, joista
+voi sanoa, että tässä jonkun asema paranee. Tämä saattaa olla, hyvät kollegat, se syy, miksi
+tätä esitystä ei koskaan aikaisemmin ole tuotu.
+
+Minusta tuntuu, edustaja Guzenina, hiukan epäreilulta, että te sanotte nyt, että ”tuotte
+tällaisen esityksen” ja ”näin viime tinkaan” ja ”tuotte kamalasti työtä perustuslakivalio-
+kunnalle”. Kohta 1, kollega: teidän aikananne tätä esitystä ei tuotu; kohta 2: minusta on
+erittäin oikein, että tämä käsitellään perustuslainmukaisuuden hengessä ottaen huomioon,
+että puhumme palveluista, jotka ovat ihmisten perusoikeuksia. 
+
+Edustaja Aalto, te pohdiskelitte sitä, miksi hallitus ei tuo näitä peruspalveluita maksujen
+osalta ihmisille maksuttomiksi. En ole aivan varma, mitä tarkkaan ottaen tarkoititte tuolla,
+mutta käsitykseni mukaan ehdotuksenne euromääräinen mittahaarukka on jotakin 100:n ja
+9
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+noin 400 miljoonan euron välillä. Miten rahoittaisitte tuon, ottaen huomioon, edustaja
+Alanko-Kahiluoto, että eivät Helsingiltä tai Uudeltamaalta maakuntamallissakaan sote-ra-
+hat vähene? Soteen tulemme käyttämään tässä maassa jatkossa yhä enemmän yhteisiä va-
+roja, koska palveluita tarvitaan yhä enemmän. Ja on totta, että jatkossa Helsinki, Espoo,
+Vantaa ja koko Uusimaa ovat yhdenvertaisessa asemassa, mikä voi tarkoittaa yksittäisen
+kuntalaisen näkökulmasta muutosta parempaan tai huonompaan, mutta sitä kutsutaan yh-
+denvertaisuudeksi. Muutosvaihe on varmasti aina kipeä.
+
+Arvoisa puhemies! Ilahduin siitä, että te jotkut edustajat nostitte esiin vanhuspalvelui-
+den osuuden tästä. Se on osa-alue, josta on tullut palautetta ja johon myös ministeriön on
+ollut vaikea aina ottaa kantaa, koska kuntien käytännöt ovat olleet niin eriarvoistavia. Nyt
+tilannetta selkiytetään ja vältetään myöskin sitä osittain tapahtunutta ehkä jossain määrin
+kikkailevaa toimintaa siinä, miten se, minkälainen kyltti katolla on, vaikuttaa ihmisten
+maksuihin. Pidän tätä myöskin oikeudenmukaisena sisältömuutoksena vanhuspalveluihin. 
+
+Täällä on aivan oikeutetusti nostettu esiin pienituloisten asema. Voitte olla vakuuttunei-
+ta siitä, että tätä olen miettinyt hyvin paljon esityksen valmistelua johtaessani. Oleellisinta
+on nyt huomioida se, että tällä esityksellä ei ole tavoitteena kerätä yhteiseen kassaan lisää
+varoja kansalaisten palvelumaksuina. Oleellista on myös havaita, että toisin kuin tänä päi-
+vänä, tämä velvoittaa palvelun järjestäjää eli jatkossa maakuntaa entistä selkeämmin ker-
+tomaan ihmiselle oikeutuksestaan maksuhuojennukseen tai maksuvapautukseen, ettei
+edettäisi niin, että toimeentulotukeen siirrettäisiin näitä maksuja, joista ihminen oikeasti
+olisi pienituloisuutensa vuoksi saanut huojennuksen. Oleellinen osa pienituloisen näkökul-
+masta on huomioida myös se, että ne palveluiden osa-alueet laajenevat, mukaan lukien
+suun terveydenhuolto, jotka lasketaan tuon maksukaton piiriin kuuluviksi. Olen edelleen
+samaa mieltä, että maksukattojen yhdistäminen on varteenotettava ja harkinnan arvoinen
+asia, mutta tässä on esityksen kokonaisuudistus, kaikki se, mitä tähän mennessä saatiin ai-
+kaiseksi.
+
+Arvoisa puhemies! Kysyttiin vielä, mitä tarkoittaa ennaltaehkäisevä maksuton palvelu
+verrattuna maksulliseen terveyskeskusasiakaskäyntiin: maksuton palvelu on vaikkapa neu-
+vola, [Puhemies koputtaa] mielenterveyspalvelu tai terveystarkastus.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Arvoisat edustajat, tämän asian käsit-
+telyyn tässä yhteydessä varattu aikaikkuna on käytetty loppuun. Huomaan kuitenkin, että
+sosiaali- ja terveysvaliokunnan jäsenistä edustaja Pekonen ei saanut äsken vielä puheen-
+vuoroa, mistä syystä myönnän vielä hänelle puheenvuoron, [Vastauspuheenvuoropyyntö-
+jä — Maria Guzenina: Arvoisa puhemies, nimi mainittiin!] ja sen jälkeen siirrytään eteen-
+päin. Meillä on mahdollisuus keskustella tarvittaessa tuntikausia tästä asiasta tuonnempa-
+na. — Edustaja Pekonen, teillä vastauspuheenvuoro. 
+
+16.20 Aino-Kaisa Pekonen vas (vastauspuheenvuoro): Kiitos, puhemies! Kyllähän tätä
+esitystä on tänne eduskuntaan odotettu ja odotettu erityisesti siitä syystä, että — myös mi-
+nun mielestäni — tätä esitystä olisi pitänyt käsitellä yhdessä mittavan sote-uudistuksen yh-
+teydessä, kun nimenomaan käytiin näitä kustannuksia läpi. Nyt tämä esitys tulee meille täs-
+sä vaiheessa, kun sote-uudistus on jo valiokunnasta ensimmäisen vaiheen ohittanut. 
+
+Tässä esityksessä on hyviä asioita, mitä tässä salissa on tänään nostettu esiin, mutta kyl-
+lä tässä esityksessä suurin pommi on tämä välikaton poistaminen. Nyt todella pienituloiset
+ihmiset, jotka maksavat tällä hetkellä vuosimaksuna noin 60 euroa, joutuvat maksamaan
+10
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+jokaisesta käyntikerrastaan reilut 20 euroa siihen saakka, kunnes sitten tämä 683 euron kat-
+to on täyttynyt, ja tämä on täysin kohtuutonta. Lisäksi jos verrataan naapurimaihin Ruot-
+siin ja Norjaan, niin jos Suomessa tällä hetkellä tämä enimmäismäärä, omavastuukatto, on
+noin 1 600 euroa, niin naapurissa Ruotsissa [Puhemies koputtaa] maksetaan noin 370 eu-
+roa ja Norjassa noin 265 euroa. Kyllä aika kohtuuttomat ovat nämä Suomen maksut. 
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, totean vielä, että
+äskeisen ministeripuheenvuoron jälkeen täällä nousi teistä arvon edustajista aika moni ylös
+ja muutaman edustajan nimi sanottiinkin, ja jos kaikille teille annetaan tässä vaiheessa pu-
+heenvuoro, aikaikkuna, joka oli tähän tässä vaiheessa varattu, ylittyy oikein reilusti, josta
+syystä keskustelu ja asian käsittely tässä vaiheessa keskeytetään. Asian käsittelyä jatke-
+taan tässä istunnossa päiväjärjestyksen muiden asiakohtien tultua käsitellyiksi.
+
+Keskustelu keskeytettiin kello 16.22.
+
+————
+
+Keskustelua jatkettiin kello 17.46.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt jatketaan aikaisemmin tässä täys-
+istunnossa keskeytetyn asiakohdan 6 käsittelyä.
+
+17.47 Li Andersson vas: Arvoisa puhemies! Ylisuuret sosiaali- ja terveydenhuollon asia-
+kasmaksut ovat keskeinen eriarvoisuutta ylläpitävä tekijä Suomessa. Siksi vasemmistoliit-
+to on pitkään tehnyt töitä sosiaali- ja terveydenhuollon asiakasmaksujen alentamisen puo-
+lesta, maksukattojen yhdistämisen ja alentamisen puolesta sekä terveyskeskusmaksujen
+poistamisen puolesta koko maassa, ja siksi olemme myös toistuvasti varoittaneet hallituk-
+sen suunnitelmista kaupallistaa sosiaali- ja terveydenhuollon palveluita. Kun kustannukset
+markkinaehtoistamisen seurauksena nousevat ja maakunnilla ei ole verotusoikeutta, tulee
+paine korottaa asiakasmaksuja olemaan erittäin kova.
+
+Tässä suuressa sote-epävarmuuden tilassa hallitus on nyt päättänyt uudistaa sosiaali- ja
+terveydenhuollon asiakasmaksulainsäädäntöä. Lakimuutokseen sisältyy niin parannuksia
+kuin selkeitä heikennyksiä. Parannuksiksi voi laskea muun muassa seuraavat muutokset:
+Suun terveydenhuollon palvelut lasketaan mukaan maksukattoon ja vastuu maksukaton
+seurannasta siirretään maakunnalle. Tehostetun palveluasumisen ja pitkäaikaisen laitos-
+hoidon maksuja yhdenmukaistetaan ja maksujen perimättä jättämisen velvoitetta tiukenne-
+taan. Tämän lisäksi sairaanhoidon palvelut säädetään alaikäisille kokonaan maksuttomiksi.
+
+Aikaisemmin lähetekeskustelun yhteydessä useammat hallituspuolueiden edustajat pu-
+huivat siitä, kuinka tämä uudistus on kustannusneutraali. Se on siis kustannusneutraali val-
+tiontalouden näkökulmasta, mikä tarkoittaa sitä, että hallitus ei ole valmis panostamaan li-
+sää rahaa sosiaali- ja terveydenhuollon asiakasmaksujen alentamiseksi. Se tarkoittaa
+myöskin sitä, että kun tehdään hyviä muutoksia, jotka nostavat kustannuksia, kuten ala-
+ikäisten sairaanhoidon palvelujen säätäminen maksuttomiksi, niin tätä pitää tietenkin ra-
+hoittaa tämän järjestelmän sisältä. Tämän lakiesityksen keskeisin ongelma on, että iso osa
+tästä lisärahoituksesta, mitä nyt kerätään näiden hyvien uudistusten kustannusten kattami-
+seksi, kerätään jatkossa perusterveydenhuollon käyntimaksujen määrää kasvattamalla.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Tällä hetkellä siis terveyskeskuksen lääkäripalveluista peritään suurimmassa osassa
+kunnista enintään 20,6 euron käyntimaksu, ja näille on säädetty välikatto, eli käyntimak-
+sua saa periä ainoastaan kolmelta ensimmäiseltä käynniltä samassa terveyskeskuksessa ka-
+lenterivuoden aikana. Se tarkoittaa, että asiakas on maksanut korkeintaan 61,8 euroa vuo-
+dessa terveyskeskusmaksuja, ennen kuin palveluiden käyttö on maksutonta. Näin on siis
+tehty, koska on haluttu varmistaa, että nämä maksut eivät muodostu liian suuriksi kenelle-
+kään. Mutta tästä huolimatta tiedämme, että Suomen nykyisen maksukäytännön arvioi-
+daan olevan yksi selittävä tekijä sille, että sosioekonomiset terveyserot tässä maassa ovat
+kansainvälisesti verrattuna korkeat. Eli jo tässä vaiheessa ne muodostavat kynnyksen pie-
+nituloisille hakeutua hoitoon.
+
+Nyt tästä välikatosta siis luovutaan ja sen lisäksi myös perusterveydenhuollon hoitaja-,
+terapia- ja sarjahoitomaksuja muutetaan niin, että näistäkin palveluista voidaan jatkossa
+periä maksu jokaiselta käyntikerralta. Tämä tarkoittaa siis vääjäämättä sitä, että paljon pal-
+veluja käyttävien pienituloisten maksurasitus tulee kasvamaan luultavasti sadoilla euroilla
+vuodessa. 
+
+Hallituksen esityksen vastaus tähän on viitata vuosittaiseen maksukattoon ikään kuin sa-
+nomalla, että tämä on se keino, jolla turvataan pienituloisia ylisuurelta maksurasitteelta.
+Vuosittaisen maksukaton täyttyessä siis ihminen voi käyttää palveluita maksutta. Maksu-
+katto on kuitenkin Suomessa kestämättömän korkea pienituloisille. Vuosittainen maksu-
+katto on tällä hetkellä siis 683 euroa, ja jatkossa sitten terveyskeskuslääkärillä käynti on
+maksutonta vasta siinä vaiheessa, kun koko tämä 683 euron vuosittainen maksukatto on
+täyttynyt. Enimmäiskustannus toisin sanoen kymmenkertaistuu tämän muutoksen myötä. 
+
+Tämä on täysin päinvastainen suunta kuin mihin pitäisi edetä sosiaali- ja terveyspolitii-
+kassa. Tavoitteeksi pitäisi ottaa terveyskeskusmaksujen poistaminen koko maassa — uu-
+distus, joka meidän tietojemme mukaan maksaisi noin 67 miljoonaa, se ei ole mikään mah-
+doton summa, mikäli ollaan valmiita tekemään panostuksia pienituloisten hoitoonpääsyn
+helpottamiseksi — ja sen lisäksi siis näiden maksujen alentaminen kautta linjan. On kestä-
+mätön tämä tilanne, jossa asiakasmaksujen rahoitusosuus Suomessa on Pohjoismaiden
+korkein.
+
+17.52 Krista Kiuru sd: Arvoisa puhemies! Käsittelyssä on erittäin tärkeä palanen koski-
+en myös tulevaa sote-uudistusta, nimittäin yksi rahoituksen lähde ovat tietenkin asiakas-
+maksut. Hyvää uudistuksessa on se, että kun varsin repaleisella kentällä eri kuntien asia-
+kasmaksut ovat vaihdelleet, niin tältä osin yhdenvertaisuutta lisää se, että asiakasmaksu-
+laissa haetaan lisää samankaltaisuutta ja pidetään huolta siitä, että maksut voisivat olla
+kohtuullisia eri puolella Suomea. 
+
+Lisäksi erityisesti vammaisten ja vanhusten osalta on tärkeää, että näihin vaikeaselkoi-
+siin ja tulkinnanvaraisiinkin maksuperusteisiin tulee nyt muutoksia. Siltä osin voi sanoa,
+että nykyinen järjestelmä on varsin sekava: Osa maksuista on asetuksissa, osasta ei ole mi-
+tään säädöksiä. Voi myös sanoa, että palveluasumisen osalta säädöksiä tai edes yhteisiä
+käytäntöjä ei kaikissa asioissa ole. Palvelupakettien hinnoittelu vaihtelee, samoin myös si-
+sältö, ja asiakkaan kannalta lopputulos voi myös monesti olla kohtuuton. Kustannusten
+vertailtavuus on erittäin hankalaa. Tältä osin on tärkeää kiinnittää huomiota siihen, että ih-
+misten yhdenvertaisuutta ja oikeusturvaa tässä esityksessä halutaan edistää. 
+
+Hyviä puolia ovat suun terveydenhuollon maksujen kerryttäminen maksukatossa ja
+maksukaton seuranta niin, että se siirtyy asiakkaalta järjestäjän vastuulle. Tältä osin nämä
+12
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+ovat tervetulleita muutoksia, samoin myös muutos siitä, että alle 18-vuotiaat olisivat kaik-
+kien terveyspalveluiden osalta maksuttomuuden piirissä. Hyviä näkökulmia ovat myös
+muutokset kohtuullistamiseen maksujen osalta. 
+
+Mutta, hyvä puhemies, on myös miinuksia, ja sääli on se, että kun sotessa tosiasiassa 3
+miljardia euroa on tarkoitus hallituksella säästää, niin samaan aikaan lisätään valinnanva-
+pauslain kautta merkittävästi kustannuksia yksityisen sektorin päästessä tekemään ihmis-
+ten terveydellä myös voittoa. Tässä suhteessa olisi voinut kyllä hennosti ajatella, että muu-
+tama kymmenen miljoonaa olisi voitu käyttää tässä lainsäädännön osassa parannuksiinkin.
+Näin ei kuitenkaan ole. Jotta parannuksia on voitu tehdä eli maksukertymää on voitu alen-
+taa joidenkin osalta, on maksukertymää myöskin sitten jouduttu kasvattamaan, ja tässä pii-
+levät ne tämän esityksen ikävimmät puolet. Uskon, että salissa kyllä on halua käyttää tuo
+70 miljoonaa näihin hallituspuolueiden asettamiin painopisteisiin, ei siinä mitään, mutta
+ikävää on se, että se tehdään ottaen erityisesti niiden selkänahasta, jotka ovat erityisen sai-
+raita. 
+
+Tilastot kertovat karua kieltä siitä, että jos lähes 5 miljoonaa terveyskeskuskäyntiä pe-
+rusterveydenhuollossa meillä on, niin siitä miljoona käyntiä tulee olemaan jatkossa erityi-
+sen kalliita. Siinä missä miljoonan käynnin maksut olisivat reilusti noin 62 euroa maksa-
+neet yhteensä, ne tulevat jatkossa maksukaton nousun takia olemaan tuon 683 euroa. Kyllä
+tätä voi pitää erittäin vaikeana valuvikana, joka tässä esityksessä on, mutta sille on käytän-
+nössä arvioitu maksukertymää kasvattava vaikutus hallituksen esityksessä niin, että sieltä
+perustason lääkärin vastaanottomaksun myötä saadaan 27 miljoonaa euroa lisää. Ja tässä-
+hän nyt on selitys sille, millä tavalla täysin nollabudjetilla tehdään joitakin hyviä parannuk-
+sia mutta vaarannetaan erityisesti monien erittäin sairaiden ihmisten pääsy hoitoon.
+
+Ja toinen valuvika on eittämättä se, että hoitajan vastaanottomaksu otetaan koko maassa
+käyttöön. Jos ajattelemme niin, että tämä ei tulisi koskemaan mahdollisessa tulevassa sote-
+uudistuksessa kuitenkaan laajoja joukkoja, niin päinvastoin, tämähän tulee nimenomaan
+koskemaan kaikkia suomalaisia, jotka tulevat käymään maakunnan asiakkaina tai maakun-
+nan ohjaaman valinnanvapauden piirissä myös yksityisillä toimijoilla. Tämähän tarkoit-
+taa, että jostakinhan ne maksut on kerrytettävä, kun jokaisella maakunnalla tulee olemaan
+tiukkaa. Esimerkiksi Satakunnan osalta 15 prosenttia on hallituksen aikomuksena säästää.
+Totta kai silloin asiakasmaksuilla on saatava myöskin tähän katetta. Eli ei ole ennustetta-
+vissa, että maakunnat päättäisivät, että he voisivat luopua asiakasmaksuista, koska sen lop-
+putuloksena on laina, ja jos maakuntana lainaa otat tulevassa sote-uudistuksessa, se johtaa
+sitten hyvin nopeasti arviointimenettelyyn. Ja tältä osin on epäiltävissä, että tämä asiakas-
+maksulaki tulee heikentämään kaikkien suomalaisten saamaa hoitoa juuri siksi, että terve-
+yskeskusmaksut niin hoitajan kuin lääkärin vastaanoton osalta kasvavat.
+
+Mitä tulee sitten vielä pieneen yksityiskohtaan, joka ei olekaan niin pieni, niin eduskun-
+nassa on ollut tarkoituksena myös asiakasmaksulakia parantaa muutamilta osin. Yksi erit-
+täin tärkeä avaus on ollut se, mikä on ollut sekä vasemmistoliitolla että sosiaalidemokraa-
+teilla vaihtoehtobudjeteissa, että perustason vastaanottotoiminta olisi jatkossa ilmaista. So-
+siaalidemokraatit ovat esitelleet oman vaihtoehtobudjettinsa, jossa meillä on ollut varaa
+järjestää julkisen talouden liikkumavara ensi vuonna niin, että se sisältäisi maksuttoman
+hoitaja- ja maksuttoman lääkärikäynnin ympäri vuoden. Siinä minusta olisi ollut oppia ja
+suuntaa tälle uudistukselle, mutta tässä nimenomaan halutaan tehdä tämä kustannusneut-
+raalisti. Eli sotessa riittää valinnanvapauden edistämiseen jopa miljardin euron kustannuk-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+set ja säästöihin 3 miljardin kustannukset, mutta samaan aikaan muutamaa kymmentä mil-
+joonaa ei riitä siihen, että asiakasmaksulaissa olisi saatu kohtuullinen tulos aikaan.
+
+Myös maksukatosta on käyty keskustelua, ja tässä valitettava johtopäätös tulee olemaan
+se, että erityisesti niillä ihmisillä, jotka ovat useiden sosiaali- ja terveydenhuollon asiakas-
+maksujen, lääkkeiden ja matkojen käytön piirissä, on erilliset maksukatot. Jos näitä kaik-
+kia edellä mainittuja kuluja on, maksuja kertyy yhteensä noin 1 600 euroa ennen kuin kaik-
+ki katot täyttyvät ja maksuihin saa helpotusta. Kyllä nämä ovat erityisesti pienituloisten
+kannalta sellaisia sydäntä särkeviä asioita, johon olisi pitänyt puuttua.
+
+Ja lopuksi, arvoisa puhemies, on pakko todeta, että kun köyhyystutkimuksia tehdään ja
+niihin otetaan asiakasmaksuvaikutukset mukaan, niin ne lisäävät merkittävästi erityisesti
+yli 65-vuotiaiden köyhyysastetta, jopa 0,7—1,9 prosenttiyksikköä. Siksi tämä on vakavaa
+puhetta.
+
+18.01 Kristiina Salonen sd: Arvoisa puhemies! Viime viikolla alkoi tulla viestejä vam-
+maisten lasten vanhemmilta. Luen pätkän eräästä kirjeestä, jonka sain: ”Minun tekisi mieli
+kysyä lain valmistelijoilta ja esityksen eduskuntaan tuoneelta ministeriltä: Jos lapsenne
+asumisesta kodin ulkopuolella ei perittäisi mitään, toimisiko se teille kannustimena sijoit-
+taa lapsenne kodin ulkopuolelle? Jos vastaus on ei, miten heille on tullut mieleen, että se
+ylipäätään voisi olla kannustin vammaisen lasten vanhemmille?” Tässä viitataan hallituk-
+sen esityksen sivuun 99, jossa vammaispalvelulain mukaisia tilanteita käydään läpi asia-
+kasmaksujen näkökulmasta ja siitä näkökulmasta, että vanhempien elatusvastuu säilyisi
+myöskin niitten lasten osalta, jotka sijoitetaan kodin ulkopuolelle. On kuitenkin huomatta-
+va, että tämä kirjaus, joka tänne sivulle 99 on tehty, ei ole osuva, ja se onkin ollut loukkaa-
+va monien vammaisten lasten vanhempien mielestä. He kokevat, että se, että vammainen
+lapsi joutuu lähtemään pois kotoa tilanteessa, jossa vanhemmat eivät enää pysty lasta ko-
+tona hoitamaan, on monelle aina suuren luopumisen ja tuskan paikka. Osa kokee jopa epä-
+onnistuneensa niissä tilanteissa, joissa on antanut itselleen, perheelleen ja vammaiselle lap-
+selleen lupauksen, että lapsi voi asua mahdollisimman pitkään kotona. Haluan tämän nos-
+taa esille sen takia, että olkoon tämä muistutuksena meille kaikille siitä, miten lakitekstissä
+ja lain perusteluissa tulee olla tarkka. Jos tätä tosiasiallisesti ei ole tarkoitettu tässä halli-
+tuksen esityksessä, voisi olla hyvä pyytää anteeksi näiltä vammaisten lasten vanhemmilta.
+
+Mitä tulee tähän esitykseen muuten, niin on hyvä, että uudistus tehdään. Nykyinen jär-
+jestelmä on sekava, ja erityisesti palveluasumisen kohdalla moni vanhus ja heidän omai-
+sensa ovat olleet aikamoisen viidakon keskellä miettien, mistä maksut koostuvat ja miten
+varat ja rahat niihin riittävät. Tämä uudistus nyt sitten parantaa nimenomaan palvelumak-
+sujen yhdenmukaistamista.
+
+Myöskin alle 18-vuotiaiden osalta se, että kaikki terveyspalvelut säädetään maksutto-
+miksi, on iso kiitoksen paikka. Toki sosiaalidemokraatit ovat esittäneet maksuttomuutta
+muutenkin, ja tärkeää tietenkin olisi, että kun tämän esityksen jälkeen nähdään vaikutus
+alle 18-vuotiaiden osalta, Suomessa uskallettaisiin ottaa askel kohti oikeasti maksuttomia
+terveyspalveluita laajemminkin.
+
+Se, mistä kuitenkin kannan suurta huolta, on maksujen välikatosta luopuminen. Itse
+asiassa meidän olisi tullut tehdä toimia, joilla nämä maksukatot olisi yhdistetty ja joilla to-
+siasiallisesti olisi helpotettu paljon sairastavien, pitkäaikaissairaiden, vammaisten ja van-
+husten, asemaa. He sitä todella olisivat kaivanneet. Suomessa yli 1,9 miljoonaa työikäistä
+sairastaa jotain pitkäaikaissairautta tai vammaa, ja he ovat niitä, jotka tarvitsevat lääkkeitä
+14
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+mutta myöskin paljon palveluita. Se, että ensin saadaan diagnoosi, vaatii lääkärikäynnin.
+Sen jälkeen ehkä, kun diagnoosi on loppuviimein löydetty ja tehty, tarvitsee miettiä lääki-
+tystä. Lääkitystä joudutaan ehkä useamman kerran hakemaan, ennen kuin löydetään oikea
+lääkitys. Sen jälkeen seurannassa on tehtävä ja tarkistettava hoitotasapainoa säännöllisesti.
+Ja ei se ole heidän eikä näiden ihmisten vika, että he joutuvat käyttämään palveluita useam-
+min ja enemmän kuin esimerkiksi nykyisellään nämä kolme kertaa, joiden jälkeen sitten ei
+ole enää pitänyt maksaa näistä. Tämä välikatto on sen turvannut. Nyt heille ei tällaista tur-
+vaa suoda, ja se on kyllä virhe, totean sen edelleen.
+
+Miljoona käyntiä ylitti vuonna 2015 tämän kolmen käyntikerran THL:n tilastojen mu-
+kaan, ja me emme siis puhu pienestä määrästä. Noin 3,9 miljoonaa käyntiä oli käyntejä,
+joissa käyntimäärä ei ylittänyt tätä kolmen käyntikerran kattoa, mutta miljoona käyntiä siis
+tämän ylitti. Jos voidaan sanoa, että kaikista terveyskeskuslääkärikäynneistä asiakkaan
+neljänsiä tai tämän jälkeisiä käyntejä oli viidennes kaikista käynneistä, puhumme isosta
+asiasta, joka pitäisi pystyä ottamaan nyt sitten huomioon vielä tässä lakiesityksessä.
+
+Näiden monta kertaa vuodessa lääkäripalveluja käyttävien, esimerkiksi pienituloisten
+vanhusten, maksurasitus tulee jatkossa kasvamaan. Esimerkiksi kymmenen käyntikertaa
+lääkärissä kalenterivuoden aikana merkitsisi asiakasmaksuksi jo 206 euroa, ja tämä on kyl-
+lä merkittävä lisäys nykyisen 61 euron 80 sentin tai vuosimaksun, 41 euron 20 sentin, jäl-
+keen. Nämä ihmiset ovat usein vielä niitä, jotka käyttävät myöskin paljon lääkkeitä ja joil-
+la jo nykyisellään on ollut vaikeuksia miettiä, mistä rahat sitten lääkkeisiin otetaan.
+
+Kiitokset siis kaikesta siitä hyvästä, mitä tässä esityksessä myös on, mutta huomio pitää
+ehdottomasti kiinnittää nyt näihin paljon sairastaviin, pitkäaikaissairaisiin, joiden kustan-
+nukset tämän esityksen myötä kasvavat. Se ei ole oikein.
+
+18.08 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Nykyinen asiakasmaksujärjes-
+telmä on niin sekava, että lakiuudistus on kyllä tarpeellinen. Osa maksuista on tällä hetkel-
+lä määritelty asetuksissa ja osasta ei ole mitään säädöksiä. Tämä näkyy erityisesti vanhus-
+ten ja vammaisten palveluissa, joissa maksut vaihtelevat huomattavasti kunnittain. Palve-
+luasumisen osalta säädöksiä tai edes yhtenäisiä käytäntöjä ei ole. Palvelupakettien hinnoit-
+telu ja sisältö vaihtelevat lähes mielivaltaisesti. Näihin ongelmiin tämä lakiesitys tuo rat-
+kaisuja, ja se parantaa ihmisten yhdenvertaisuutta ja oikeusturvaa. Toisaalta palveluasumi-
+sen maksujen suuruus on edelleenkin huolestuttava asia, ja se ei tässä lakiesityksessä
+korjaannu.
+
+Positiivista on se, että maksujen alentaminen ja perimättä jättäminen on selkeämmin ja
+vahvemmin ilmaistu tässä lakiesityksessä. Nytkin se on kyllä mahdollista, mutta tätä mah-
+dollisuutta on käytetty aivan liian vähän. Tässä asiassa on syytä lisätä ohjauksen ja neuvon-
+nan velvoittavuutta, jotta asia siirtyisi käytännön tasolle osaksi palvelusuunnitelman teke-
+mistä, ja tähän asiaan toivon valiokunnassa kiinnitettävän huomiota. Muita myönteisiä
+asioita ovat sairaalamaksupäivien sisällyttäminen maksukattoon ja katon laajentaminen
+hammashoidon palveluihin. 
+
+Kuitenkin lakiesitys sisältää vakavia puutteita ja heikennyksiäkin. Etenkin terveyskes-
+kusmaksujen nousu on merkittävä heikennys. Jo tällä hetkellä Suomessa on korkeat asia-
+kasmaksut, ja hallitus korotti asiakasmaksujen enimmäismäärää vuosina 2015 ja 2016. Jat-
+kossa terveyskeskuksessa lääkärissä käynnistä maksetaan maksukaton täyttymiseen saak-
+ka, kun aiemmin välikatto rajoitti maksun perinnän joko kolmeen käyntikertaan vuodessa
+15
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+tai noin 41 euron vuosimaksuun. Käytännössä tämä tarkoittaa, että lääkäripalveluja monta
+kertaa vuodessa käyttävien maksurasitus tulee kasvamaan.
+
+THL:n tuoreen tutkimuksen mukaan terveydenhuollon korkeat asiakasmaksut kasvatta-
+vat köyhyyttä. Eniten terveydenhuollon palveluja käyttävät ja asiakasmaksuja maksavat
+pienituloiset eläkeläiset, ja siksi onkin käsittämätöntä, että heidän tilannettaan taas heiken-
+netään. Helsingin kaupungin kokemukset terveysmaksujen poistamisesta ovat käsittääkse-
+ni myönteisiä, ja siihen suuntaan tulisi pyrkiä koko maassa. Maksuista luopuminen kaven-
+taisi hyvinvointi- ja terveyseroja ja toisi pitkällä aikavälillä säästöjä raskaampien ja kal-
+liimpien palvelujen käytön vähentyessä.
+
+Myös sairaanhoitajakäyntien maksut määritellään jatkossa laissa, ja onkin oletettavaa,
+että yhä useampi kunta ryhtyy laskuttamaan myös näistä käynneistä. Tällä hetkellä väestö-
+osuudella mitattuna 40 prosenttia kunnista perii hoitajakäynneistä maksun, ja esimerkiksi
+monet vähävaraiset diabeetikot ovat kertoneet, että he käyvät sairaanhoitajan vastaanotol-
+la maksun takia harvemmin. Tämä on huonoa kehitystä, sillä diabeteshoitajien säännölli-
+set tarkastukset ovat osoittautuneet erittäin tehokkaaksi keinoksi vähentää kalliita kompli-
+kaatioita ja lisäsairauksia.
+
+Etäpalveluista perittävä hinta on mielestäni myöskin kyseenalainen asia. En ole lain-
+kaan vakuuttunut siitä, että etäpalveluiden rinnastaminen vastaanotolla käyntiin maksu-
+asioissa on järkevää. Etäpalveluiden tulisi pysyä pääsääntöisesti maksuttomina, eikä nii-
+den käyttöön voi velvoittaa, vaan niitä tulee käyttää ainoastaan henkilön suostumuksella.
+En myöskään usko, että maksu kannustaa lisäämään etäpalveluiden käyttöä, vaikka se
+muuten olisikin toivottavaa.
+
+Ja lopuksi, arvoisa puhemies, tukipalveluiden maksujen kirjaus on aivan liian epämää-
+räinen. Lakiin jäisi kirjaus kohtuullisista maksuista, ja jään kyllä kysymään, mitähän tämä
+tarkoittaa. Kenen mielestä kohtuulliset maksut? Tämä on semmoinen asia, jota toivon to-
+della valiokunnassa myöskin mietittävän. Laissa olisi syytä olla kirjattuna, että asiakas-
+maksusuunnitelman tekemisen yhteydessä asiakkaiden kokonaistilanne arvioidaan, ja kei-
+novalikoimassa tulee olla mahdollisuus maksujen alentamiseen tai perimättä jättämiseen,
+siis myöskin tukipalveluissa. Tällä hetkellä tukipalveluista, kuten ateriapalveluista, vaate-
+huollosta, kauppa- ja muista asiointipalveluista, turvapalveluista ja niin edelleen perittävät
+maksut vaihtelevat paljon kuntien välillä. Tiedän tilanteita, joissa maksujen suuruuden ta-
+kia palveluita ei oteta vastaan tai tingitään sitten jostain muusta välttämättömästä, kuten
+esimerkiksi lääkkeistä. On väärin, että ikäihminen joutuu valitsemaan kahden tärkeän
+asian väliltä, koska rahat eivät riitä kaikkeen. Tukipalveluista kieltäytyminen taloudellisis-
+ta syistä voi heikentää ikääntyneen selviytymistä kotona, jolloin tarve pitkäaikaiseen te-
+hostettuun palveluasumiseen ja laitoshoitoon voi lisääntyä. Tässä lakiesityksessä mainittu
+kohtuullinen maksujen kerääminen ei selkeytä tätä tilannetta.
+
+18.13 Hanna Sarkkinen vas: Arvoisa puhemies! Asiakasmaksulain muutos sisältää sekä
+hyviä että huonoja puolia. Hyvä puoli on se, että suun terveydenhuollon asiakasmaksut si-
+sällytetään nyt terveydenhuollon maksukattoon. Olen esittänyt asiaa noin vuosi sitten la-
+kialoitteella, ja nyt asia näyttää toteutuvan. Kyseessä on erittäin merkittävä asia, sillä suun
+terveydenhuollon kustannukset ovat vähävaraisille ihmisille merkittävä rasite ja este tar-
+peellisten palveluiden käytölle. Olen iloinen, että asia nyt etenee ja terveydellinen tasa-
+arvo näiltä osin etenee.
+16
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Suun terveys vaikuttaa muuhunkin yleisterveyteen, joten on tärkeää, että suun tervey-
+destä pidetään huolta. Suun terveyden eriarvoisuus on Suomessa tällä hetkellä suurta. Pie-
+nituloisimmilla ihmisillä olisi suurempi tarve suun terveydenhuollon palveluille, mutta he
+käyttävät palveluita vähemmän kuin suurituloiset ihmiset, ja tähän merkittävänä syynä
+ovat suun terveydenhuollon korkeat asiakasmaksut. Näiltä osin asiaan tulee ainakin osit-
+tain korjausta, kun tämä maksukatto laajenee suun terveydenhuollon puolelle. 
+
+Kuitenkin olennaista suun terveyden tasa-arvon kannalta on myös se, että julkinen suun
+terveydenhuollon tarjonta on riittävää, sillä yksi merkittävä epätasa-arvoa aiheuttava asia
+ovat myös pitkät hoitojonot julkisessa suun terveydenhuollossa. Eli jos tämä maksukatto-
+laajennus lisää julkisen suun terveydenhuollon kysyntää, niin on tärkeää varmistaa, että
+hoitoon myös pääsee ja resursseja myös hoidon tarjontaan lisätään, niin etteivät jonot kas-
+va, ja se taas puolestaan lisää epätasa-arvoa palveluiden saannissa. 
+
+Toinen hyvä asia uudessa asiakasmaksulaissa on vanhustenhoidon tehostetun palve-
+luasumisen maksuviidakon selkeytyminen. Nykyisen tehostetun palveluasumisen mak-
+suista ei ota selvää erkkikään eikä varsinkaan pihtiputaan mummo. Nyt tehostetun palve-
+luasumisen maksut yhdenmukaistetaan laitoshoidon maksujen kanssa ja niille asetetaan
+selvät rajat. Myös alaikäisten terveydenhuollon maksujen poistuminen, joka lakiin sisäl-
+tyy, on hyvä asia. 
+
+Ongelma on kuitenkin se, että hyvät asiat rahoitetaan heikentämällä paljon palveluita
+tarvitsevien asemaa. Tämä tapahtuu, kuten täällä on jo moneen kertaan todettu, niin, että
+poistetaan nykyiset maksujen välikatot terveyskeskusmaksuista, mikä tarkoittaa, että asia-
+kasmaksut nousevat huomattavasti palveluita paljon käyttävien ihmisten osalta. Esitykses-
+sä luovutaan terveyskeskusmaksujen vuosimaksusta, ja jatkossa maksun voisi periä jokai-
+selta käynniltä. Tämä kohdistuu tietysti niihin, jotka siellä terveyskeskuksessa joutuvat
+paljon käymään, ja erityisesti ikäihmisiin. 
+
+Jo nykytilanteessa yli 300 000 sosiaali- ja terveydenhuollon asiakasmaksua päätyy ulos-
+ottoon. Vuonna 2015 reilulla 55 000 suomalaisella asiakasmaksuihin, lääkkeisiin ja mat-
+koihin meni yli 40 prosenttia käytettävissä olevista tuloista. Se on aivan valtava määrä, var-
+sinkin, kun kyse on vähävaraisista ihmisistä. On myös huomattava uusimmat uutiset siitä,
+että ikääntyneiden maksuhäiriömerkinnät ovat lisääntyneet, ja maksuhäiriömerkintöjen
+taustalla on varmaan ainakin jossain määrin näiden terveydenhuollon asiakasmaksujen
+maksamatta jääminen vähävaraisuuden vuoksi. Kysymys on siis merkittävästä asiasta.
+
+Asiakasmaksuja maksaa lähinnä puolet kansasta, ja se puolikas, joka niitä maksaa, ei ole
+se paremmin toimeentuleva puoli. Terveyskeskuksen asiakkaista valtaosa kuuluu alimpiin
+tuloluokkiin hyväosaisten ollessa työterveyshuollon tai yksityisen vakuutuksen piirissä.
+Asiakasmaksut kasautuvat ja iskevät kovimmin vanhuksiin ja eniten hoitoa tarvitseviin.
+Terveydellisen tasa-arvon turvaamiseksi tulisikin paljon palveluita tarvitsevien vähäva-
+raisten maksutaakkaa keventää yhdistämällä kolme erillistä maksukattoa. Kolmen erilli-
+sen maksukaton, yhteensä noin 1 600 euroa, sijasta tulisi säätää yksi yhtenäinen alennettu
+maksukatto hoidolle, lääkkeelle ja matkoille. 
+
+Hyvää tässä esityksessä on maksukattojen osalta kuitenkin se, että maksukattojen seu-
+ranta siirtyy asiakkaan itsensä harteilta maakunnalle. Se on hyvä asia, sillä voi olla, että ny-
+kyisellään ihmiset eivät aina huomaa sitä, että maksukatto on täyttynyt ja heidän ei enää
+tarvitsisi maksaa asiakasmaksuja. 
+17
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+18.19 Kari Kulmala sin: Arvoisa rouva puhemies! Esityksessä ehdotetaan säädettäväksi
+uusi laki sosiaali- ja terveyspalveluiden asiakasmaksuista. Tämän tavoitteena on asiakas-
+maksulainsäädännön ajantasaistaminen nykyisten palveluiden ja toimintaympäristön vaa-
+timalle tasolle. Huomion arvoista on miettiä, miten asiakkaan tilanne paranee vai paranee-
+ko se.
+
+Esityksen mukaan asiakkaan maksurasituksen kohtuullisuus turvattaisiin laissa sääde-
+tyillä kohtuullisilla enimmäismaksuilla sekä lisäksi maksukatolla, joka voimassa olevan
+sääntelyn tavoin estäisi maksurasituksen nousemisen kohtuuttoman korkeaksi. Samalla
+esityksessä vahvistettaisiin maksujen alentamista ja perimättä jättämistä koskevaa pykä-
+lää. Tällä hetkellä maksuja alennetaan tai jätetään perimättä verrattain vähän.
+
+Julkisuudessa on keskusteluttanut myös paljon asiakasmaksujen periminen ulosoton
+kautta. Suurin ryhmä näistä asiakasmaksujen ulosottomaksuista ovat sairaala- ja laitoshoi-
+tomaksut. Nyt ehdotetun lain tavoitteena on vahvistaa maakuntien velvoittavuutta alentaa
+maksuja tai jättää ne perimättä, jos ne vaarantavat asiakkaan toimeentulon. Jos asiakkaalla
+ei ole varaa maksaa lääkärikäyntiä, on maakunnan ensisijaisesti alennettava asiakasmak-
+sua eikä ohjattava asiakasta hakemaan toimeentulotukea. Mielestäni tämä tuntuu myös oi-
+kealta päätökseltä, ja tätä mahdollisuutta on myös käytettävä.
+
+Ennalta ehkäisevät palvelut olisivat jatkossakin maksuttomia. Maksuttomuutta laajen-
+netaan osin päihde- ja mielenterveyspalveluihin. Alaikäisten palvelut säädettäisiin myös
+maksuttomiksi. Muutos laajentaisi maksuttomuuden koskemaan myös terveydenhuollon
+laitoshoitoa ja erikoissairaanhoitoa. Maksuttomuus parantaisi etenkin heikossa taloudelli-
+sessa tilanteessa olevien perheiden asemaa, kun lapsen sairastamisesta aiheutuva maksu-
+taakka pienenisi. En pidä näitäkään uudistuksia huonoina.
+
+Myös arvostamieni veteraanien asemaa parannetaan. Tulosidonnaisten maksujen perus-
+tana olevista tuloista poistettaisiin ylimääräinen rintamalisä ja veteraanilisä, jolloin niitä ei
+enää laskettaisi mukaan tuloihin asiakasmaksua määrättäessä. Veteraanien julkisen suun
+terveydenhuollon maksuttomuus laajenisi kaikkiin suun terveydenhuollon palveluihin,
+mukaan lukien hammasproteettiseen hoitoon liittyvät tekniset kustannukset. Maakunnan
+järjestämisvastuulla oleva suun terveydenhuolto olisi jatkossa kokonaan maksutonta vete-
+raaneille. Mielestäni tämä on osa meidän kunniavelkaamme heitä kohtaan, ja nyt se uudis-
+tuksen mukaisesti tulee voimaan. Voi tietenkin ihmetellä, miksi vasta nyt.
+
+Esityksen myötä perustason lääkärikäyntien käyntimaksujen perimistä rajoittava niin
+sanottu välikatto poistettaisiin. Välikaton poistaminen lisää paljon palveluita käyttävien
+asiakkaiden maksurasitusta. Esityksessä perustellaan, että välikatto poistetaan, koska esi-
+tyksestä pyritään tekemään kustannusneutraali. Näin varmasti onkin, mutta tämä on koh-
+tuuton paljon sairastavia kohtaan. Tähän tulisi löytää jokin muu ratkaisu. Toivottavasti vii-
+sas valiokunta tarkastelee huolella tämän asian, kuten tänään paljon puheissa olleet sairaa-
+loiden sijaintipaikatkin.
+
+18.22 Riitta Mäkinen sd: Arvoisa rouva puhemies! Hallituksen esitys sosiaali- ja tervey-
+denhuollon asiakasmaksujen yhdenmukaistamiseksi valtakunnallisesti on erittäin tervetul-
+lut, ja lämpimät kiitokset siitä, että esitys on nyt tässä käsiteltävänä. Nykyisellään maksu-
+käytännöt poikkeavat maakunnittain merkittävästi ja kuntien väliset erot ovat suuria. Sa-
+malla ohjeistus on ollut epäselvää ja potilaan vaikeasti hahmotettavissa. 
+
+Esitykseen liittyy kuitenkin yksi merkittävä, räikeä epäkohta nimenomaan asiakasmak-
+suissa. Aikaisemmin perusterveydenhuollon lääkärikäyntimaksuissa on ollut käytössä niin
+18
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+sanottu välimaksukatto. Se on kohtuullistanut maksuja paljon palveluja käyttävillä ja pie-
+nituloisilla ihmisillä. Lääkärikäyntien osalta maksukatto on täyttynyt, kun käyntikertoja on
+ollut kolme vuodessa. Seuraavat käynnit ovat olleet ilmaisia. Lain voimaan tultua hoitoa
+tarvitsevat maksavat käynneistään aina 380 euroon saakka. Terveydenhoitajakäynnit ovat
+aikaisemmin olleet maksuttomia, mutta lakiuudistuksen myötä noin 40 prosenttia kunnista
+on tästä käytännöstä luopunut. Välimaksukatto ollaan poistamassa myös hoitajakäynneis-
+tä. Jo nyt on näyttöä siitä, että pienituloiset jättävät käyntejä väliin maksujen takia. Häly-
+tyskellojen pitäisi soida, mutta silti maksukattouudistus antaa odottaa itseään.
+
+Saimme tänään lukea uutisista, että viime vuonna maksuhäiriömerkinnät lisääntyivät
+jopa yli 9 prosenttia yli 65-vuotiailla. Samalla tiedämme, että taustalla vaikuttavat nimen-
+omaan asiakasmaksujen korotukset. Eläkeläisten ja pienituloisten perusturvaa on leikattu
+samalla, kun peruselämiseen liittyvät kustannukset ovat jatkuvasti kasvaneet. Tilanne on
+järkyttävä, sillä me tiedämme, että terveydenhuollon palveluja käyttävät paljon juuri van-
+hukset. Heillä käyntejä on huomattavasti enemmän kuin kolme kertaa vuodessa. Välimak-
+sukattojen poistaminen lyö siis kipeimmin nimenomaan ikäihmisiä, pienituloisia ja muita
+paljon palveluja tarvitsevia.
+
+Pelkästään viime vuonna yli miljoonalla suomalaisella oli yli kolme lääkärikäyntiä vuo-
+dessa. Viime vuonna ulosotossa oli yli 355 000 sosiaali- ja terveyspalvelumaksua. Minis-
+teri Saarikko toteaa, että jatkossa hyödynnetään entistä vahvemmin maksujen kohtuullis-
+tamista ja niistä kokonaan vapauttamista. Käytäntö on voimassa jo nyt, mutta kokemukset
+siitä, kuinka sitä hyödynnetään käytännössä, eivät ole vain positiivisia. Monet pienituloi-
+set joutuvat turvautumaan lopulta toimeentulotukeen, ja kunnat tietävät tämän. Sen sijaan,
+että maksuja alennettaisiin, annetaan menojen valua sinne, mistä Kela maksaa puolet. Lail-
+listahan tämä toki ei ole.
+
+On myös esitetty vetoomus viimesijaiseen turvaan, ja se kertoo itsessään siitä, ettei to-
+della ymmärretä raakaa tosielämän faktaa. Ihmisellä tulee olla likipitäen olemattomat tu-
+lot, jotta on ylipäätään oikeutettu toimeentulotukeen. Sen sijaan on valtavasti niitä pienitu-
+loisia eläkeläisiä ja lapsiperheitä, joille maksut muodostuvat todelliseksi hoitoon hakeutu-
+misen esteeksi, koska he eivät ole vielä niin köyhiä, että viimesijaista tukea saisivat. Näi-
+den väliinputoajien joukko on suuri, mutta heistä harvemmin kuulee puhuttavan.
+
+Eläkeläisköyhyys on räikeä yhteiskunnallinen ongelma. Samaan aikaan me puhumme
+kiivaasti terveyden ja hyvinvoinnin edistämisestä ja ennalta ehkäisevistä palveluista. Mi-
+nisteri Saarikko viisasteli tässä salissa aikaisemmin, että maksut eivät ulotu ennalta eh-
+käiseviin palveluihin. En saanut vastausta kysymykseeni, eivätkö perusterveydenhuollon
+terveydenhoitajakäynnit ole juuri näitä ja kuulu tähän kategoriaan.
+
+Se, mitä me tarvitsisimme, on vahva panostus perusterveydenhuoltoon. SDP on esittä-
+nyt kuntien sosiaali- ja terveydenhuollon valtionosuuksien lisäämistä, jotta kunnat voisi-
+vat palkata lisää hoitajia ja lääkäreitä sekä alentaa ja poistaa kerättäviä maksuja. Tämän
+esityksen hallitus on kiivaasti tyrmännyt todetessaan sen liian kalliiksi — sivuuttaen ne ta-
+loudelliset hyödyt, joita sairauksien ajoissa hoitamisesta tulisi sinänsä jo itsessään. Samal-
+la hallitus on valmis luomaan lainsäädännöllä yksityiselle sektorille täysin vapaat kädet
+kääriä kermat päältä, kun julkinen leikkaustoiminta ajetaan alas. Tämä merkitsee yli 5 mil-
+jardin euron tulonsiirtoa markkinoille, ja laskun tästä maksavat tavalliset kansalaiset. Mie-
+lestäni tämä politiikka on sekä kansantaloudellisesti että myös kansanterveyden edistämi-
+sen näkökulmasta vastuutonta.
+19
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+18.28 Satu Taavitsainen sd: Arvoisa puhemies! Hyvät kollegat! Eduskunnan viime vuo-
+den viimeisellä suullisella kyselytunnilla keskustelimme köyhyydestä ja eriarvoisuuden
+kasvusta. Suomessa on tällä hallituskaudella lähdetty kulkemaan todella huolestuttavaa
+polkua. Tilastokeskuksen juuri julkaistun tulonjakotilaston mukaan suomalaisten eriarvoi-
+suus on kasvavien tuloerojen myötä kasvussa. Pienituloisiin kotitalouksiin kuuluvia hen-
+kilöitä oli 654 000 vuonna 2017. Pienituloisten osuus kotitalousväestöstä oli 12,1 prosent-
+tia, ja köyhyys on vieläkin yleisempää, kun kotitalouksien terveydenhuollon asiakasmak-
+sut huomioidaan. Kun asiakasmaksut vähennetään ihmisten käytettävissä olevista tuloista,
+köyhien osuus väestöstä kasvaa tuhansilla ihmisillä. Tyypillinen terveydenhuollon asia-
+kasmaksu on terveyskeskuksen lääkärikäynnistä perittävä maksu. Esimerkiksi yli 65-vuoti-
+aiden köyhyysaste kasvaa lähes 2 prosenttiyksikköä, kun asiakasmaksut otetaan huo-
+mioon.
+
+Arvoisa puhemies! Korkeat maksut ovat este palveluiden käyttämiselle ja erityisesti juu-
+ri heille, jotka eniten niitä tarvitsisivat, eli vanhuksilla, vammaisilla, mielenterveys- ja
+päihdeongelmista kärsivillä, pitkäaikaissairailla, työttömillä ja ulosottoon joutuneilla. Nyt
+hallitus tällä esityksellään heikentää heidän tilannettaan entisestään. Terveyskeskusmak-
+sussa on ollut kolmen kerran sääntö, ja nyt tämä poistetaan ja maksun joutuu jatkossa, jos
+tämä hallituksen esitys menee läpi, maksamaan joka kerta. Eli tilanne pahenee sellaisten
+ihmisten kohdalla, joilla on useita sairauksia ja paljon käyntejä perusterveydenhuollossa.
+Nyt voimassa olevan lain mukaan he ovat maksaneet vuodessa korkeintaan noin 60 euroa
+— ja esimerkiksi täällä Helsingissä 0 euroa, koska täällä ei ole ollenkaan terveyskeskus-
+maksua. Koska hallitus nyt esittää tätä välikattoa poistettavaksi, se laittaa ihmiset käytän-
+nössä maksamaan jopa 683 euroa vuodessa. Tämä on minusta aivan järkyttävä esitys.
+
+Tutkimusten mukaan eniten asiakasmaksuja maksavat pienituloiset ja eläkeläiset. Toi-
+saalta siksi, että heillä on enemmän palvelujen tarvetta, ja toisaalta siksi, että heillä ei ole
+turvanaan vapaaehtoisia sairausvakuutuksia tai työterveyshuoltoa. Kun rahat eivät enää
+yksinkertaisesti riitä, he säästävät lääkärikäynneistä ja ruoasta. Tämä on arkipäivää kym-
+menesosalle vanhuksistamme. Lisäksi 30 prosenttia pitkäaikaissairaista lykkää lääkkeen
+ostamista tai vaihtaa sen halvempaan. Tämä on minusta hyvinvointivaltiolta erittäin huo-
+noa sosiaalipolitiikkaa.
+
+Ei ole sattuma sekään, että viime vuonna ulosottoon päätyi noin 320 000 julkisen puo-
+len sosiaali- ja terveydenhuollon asiakasmaksua. Nämä olivat aivan tavallisia hammashoi-
+don, terveyskeskuksen, sairaalan tai laitos- ja kotipalvelujen ynnä muiden julkisten sote-
+palvelujen maksuja, eivät siis mitään luksuskuluja. Vaikka asiakasmaksut ovat olleet jo en-
+nestään Suomessa kansainvälisesti vertailtuna korkeita, niitä on tämän nykyhallituksen toi-
+mesta korotettu lähes 30 prosenttia. Näin on lisätty ihmisten köyhyyttä ja ulosottoon jou-
+tumista.
+
+Arvoisa puhemies! Suomi ei tarvitse mitään massiivista Sipilän sote-uudistusta maakun-
+tiin, vaan tarvitsemme perinpohjaisen sosiaali- ja terveydenhuollon asiakasmaksu-uudis-
+tuksen. Siksi pidän tätä asiakasmaksulakia kaikista tärkeimpänä sote-uudistuksena, mutta
+tämä esitys on valitettavan kunnianhimoton ja vailla täyttä ymmärrystä ihmisten arjesta.
+Useimmissa Euroopan maissa sosiaali- ja terveydenhuollon palvelut ja reseptilääkkeet
+ovat maksuttomia tai asiakasmaksut ovat hyvin pienet. Toisin on Suomessa. Meillähän
+asiakasmaksut ja lääkkeiden hinnat ovat kansainvälisesti korkeat siitä huolimatta, että ne
+ovat huono keino kerätä rahaa.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Terveyskeskusmaksu pitäisi siis poistaa kokonaan. Tätä SDP on esittänyt vaihtoehto-
+budjetissaan, mutta sitähän hallitus ei tässä lakiesityksessään tee. Terveyskeskusmaksun
+poistaminen auttaisi heti pienituloisia eläkeläisiä ja perheitä, joissa on työttömyyttä. Lisäk-
+si sosiaali- ja terveydenhuollon asiakasmaksujen laittaminen kansainvälisten riistoperintä-
+yhtiöiden käsiin on moraalitonta. Odotin ministerin puuttuvan tähän esityksessään, vaan
+eipä ministeriä kiinnostanut tämä ongelma siitä huolimatta, että tilastot puhuvat jo kriisis-
+tä. Yli puoli miljoonaa suomalaista on ulosotossa, ja 400 000:lla on maksuhäiriömerkintä.
+Juuri tänään julkaistun uutisen mukaan maksuhäiriömerkinnän saaneiden eläkeläisten
+joukko kasvoi vuodessa 9 prosentilla — siis vuodessa 9 prosentilla. Näistä ulosottoon jou-
+tuneista ja maksuhäiriömerkinnän saaneista moni on päätynyt vaikeuksiin juuri sosiaali- ja
+terveydenhuollon maksujen ja laskujen vuoksi. — Kiitos, arvoisa puhemies. Jatkan toises-
+sa puheenvuorossa.
+
+18.35 Outi Alanko-Kahiluoto vihr: Arvoisa puhemies! Haluan kiittää edustaja Taavit-
+saista erinomaisesta puheenvuorosta, jota kuuntelin mielelläni. Siinä tuli hyvin esille se,
+miten asiakasmaksut ovat köyhyyden torjunnassa erittäin tärkeä asia ja tärkeässä roolissa.
+Siinä suhteessa tämä hallituksen esitys on iso pettymys, vaikka täytyy sanoa, että tässä on
+hyviäkin asioita. Niihin Helsingin kaupungin lausunnossa on kiinnitetty huomiota.
+
+Me kaikki tiedämme, että pienituloiset jäävät tässä nykytilanteessa liian usein ilman tar-
+vitsemiaan palveluita sen vuoksi, että asiakasmaksut ovat pienituloisille raskaita. Nykyti-
+lassa asiakasmaksuja koskevat käytännöt myös vaihtelevat kuntien välillä, mikä asettaa
+kansalaiset epätasa-arvoiseen asemaan. Esimerkiksi omassa kotikaupungissani Helsingis-
+sä me olemme luopuneet terveyskeskusmaksuista, koska olemme nähneet, että ne ovat
+liian monelle pienituloiselle korkea kynnys, joka estää käytännössä hoitoon hakeutumi-
+sen. Mutta Sipilän hallitus on korottanut asiakasmaksuja useana kertana tämän kauden ai-
+kana, ja Sipilän hallituksen kaudella korotukset ovat lisäksi olleet suuria. Vuonna 2015
+asiakasmaksujen enimmäismääriä korotettiin 9,4 prosenttia ja vuonna 2016 lähes 30 pro-
+senttia kerralla — siis 30 prosenttia kerralla. Myös lääkkeiden ja matkakustannusten oma-
+vastuuosuuksia on nostettu samaan aikaan.
+
+Vuonna 2016 ulosottoon päätyi lähes 400 000 sosiaali- ja terveydenhuollon asiakasmak-
+sua. Ja todellakin, jos katsotaan syitä myös pikavippeihin, niin niitähän ovat ihan tavalliset
+arjen menot, kuten nimenomaan asiakasmaksut, lääkemaksut, myöskin vuokrat pienituloi-
+silla.
+
+Pienituloiset jäävät nykytilanteessa liian usein ilman tarvitsemiaan palveluita näiden
+maksujen suuruuden vuoksi, ja sen vuoksi itse odotin, että hallituksen asiakasmaksulaki-
+esityskokonaisuuteen, tähän pakettiin, olisi sisältynyt se, että vuosittaiset maksukatot olisi
+yhdistetty eli olisi yhdistetty asiakasmaksut ja lääke- ja matkakustannukset, jolloin paljon
+sairastavien pienituloisten tilanne olisi helpottunut. Tällä hetkellähän paljon sairastavien
+pienituloisten tilanne on kohtuuton, kun erilaiset maksukatot tulevat vastaan yksi kerral-
+laan, ja erityisesti alkuvuosi on pienituloisille hyvin vaikea, hyvin raskas. 
+
+Mutta sen sijaan, että hallitus olisi luonut yhtenäisen maksukaton, mitä hallitus tekee?
+Hallitus poistaa maksujen välikaton, mikä tarkoittaa näille pienituloisille paljon sairasta-
+ville ihmisille jopa satojen eurojen lisäkuluja vuodessa. Eli nimenomaan näitä henkilöitä,
+jotka olisivat tarvinneet kädenojennusta, rangaistaan nyt tämän lakiesityksen läpiviemisel-
+lä kaikkein rankimmin. Pienituloisilla paljon sairastavilla eli heillä, jotka käyvät useam-
+man kerran vuodessa terveysasemalla, todellakin maksut nousisivat, ja käytännössä siis
+21
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+maksut uhkaavat nousta erityisesti pienituloisilla vanhuksilla, koska he käyttävät eniten
+näitä lähiterveysasemia ja niiden terveyskeskuspalveluita. Eihän tätä voi pitää millään lail-
+la perusteltuna. Ainakin omalla kohdallani on hyvin vaikea ymmärtää, että tällainen esitys
+on tänne tuotu. Esimerkiksi tällä hetkellä asiakas on maksanut lääkärikäynneistä enintään
+61 euroa 80 senttiä vuodessa, mutta jatkossa, kun välikatto poistuu, maksuja pitää maksaa
+maksukaton täyttymiseen saakka elikkä 683 euroon vuodessa. Onhan tämä aika järkyttä-
+vää.
+
+Lisäksi, vaikka tämä asiakasmaksuesitys tuodaan nyt tänne itsenäisenä lakiesityksenä,
+minun mielestäni tämän esityksen pitäisi olla osa sote-esitystä. Me tiedämme, että sote-uu-
+distus toteutuessaan — mikäli se toteutuu — kasvattaa paineita nostaa sosiaali- ja terveys-
+palveluiden asiakasmaksuja, sillä maakunnille on tulossa jo alun alkaen liian pienet resurs-
+sit sote-palveluiden hoitoon, ja kun maakunnilla ei ole esimerkiksi verotusoikeutta, jonka
+ansiosta ne voisivat tilannetta tasapainottaa, niiden on joko haettava säästöjä näistä sote-
+palveluista, jotka erityisesti pienituloisille ovat elintärkeitä ja monille jopa tärkeämpiä kuin
+sosiaalietuudet, tai sitten on korotettava asiakasmaksuja. Todennäköistä on, että nämä mo-
+lemmat tulevat tapahtumaan, juuri siitä syystä, että maakunnilla on liian alhainen budjetti
+ja niillä ei ole itsenäistä mahdollisuutta kerätä määrärahoja sote-kuluihin, kun verotusoi-
+keutta ei ole. Ainoa jäljelle jäävä on tämä asiakasmaksujen nostaminen.
+
+Tätä nyt ei voi tietenkään pitää kestävänä tapana, jos ajatellaan, mikä oli sote-uudistuk-
+sen tavoite. Sen tavoite oli nimenomaan eriarvoisuuden pienentäminen terveydenhuollos-
+sa elikkä terveyserojen kaventaminen, mutta jos hetkenkin pysähtyy ajattelemaan tämän-
+kin esityksen vaikutuksia, tämä iskee todellakin pahiten niihin ihmisiin, jotka sairastavat
+eniten, ja heidän asemansa tulee tulevaisuudessa siis vaikeutumaan entuudestaan.
+
+No, tähän lakiesitykseen sisältyy minun mielestäni sinänsä hyvä pykälä siitä, että on pie-
+nituloisilta mahdollisuus jättää perimättä asiakasmaksut, [Puhemies koputtaa] jos ne vaa-
+rantavat toimeentulon, mutta jäin kaipaamaan tästä laista kirjausta siitä, kuinka se käytän-
+nössä tehdään. Mehän tiedämme, että toimeentulotuen perusosa ei ole enää kunnilla vaan
+se on Kelassa. Kuinka tämä yhteistyö Kelan kanssa toteutetaan, [Puhemies koputtaa] ja
+kuinka sitten valvotaan ja vahditaan, että kunnissa todellakin jätetään asiakasmaksut peri-
+mättä?
+
+Pitkään voisin vielä jatkaa, mutta, no, tämä lakiesitys tulee meille sosiaali- ja terveysva-
+liokuntaan, ja tästä käydään varmasti vielä julkista keskustelua. Eli jatkan sitten toisen ker-
+ran.
+
+18.43 Johanna Ojala-Niemelä sd: Arvoisa rouva puhemies! Tuosta edustaja Alanko-Ka-
+hiluodon puheenvuorosta on hyvä jatkaa. Se on juurikin näin, ja kun näitä painelaskelmia
+on tehty eri maakuntien osalta, niin myös Lappi on siinä asemassa, että meiltä ollaan leik-
+kaamassa 33 miljoonaa euroa sosiaali- ja terveydenhuollon kulurakennetta, ja me olemme
+kyllä ihan kestämättömässä tilanteessa jo heti lähtöasetelmissa. Tämä johtaa nimenomai-
+sesti siihen, että niille päättäjille, jotka valitaan sinne tulevaan maakuntahallintoon, ei jää
+muuta vaihtoehtoa kuin asiakasmaksujen ja taksojen korotus tai palvelujen leikkaaminen.
+Pelkään sitä, että silloin tämä maksujen alentaminen tai perimättä jättäminen, joka on kir-
+jattu kyllä tähän lakiin, jää kuitenkin käytännössä kuolleeksi kirjaimeksi eli taloudelliset
+resurssit eivät anna mahdollisuutta siihen puuttua.
+
+Muutoin tämä asiakasmaksulaki on vanhentunut ja puutteellinen, ja on hyvä, että siitä
+tehdään selkeä ja kansalaisille ymmärrettävä. Se koskettaa lähestulkoon meitä kaikkia, niin
+22
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+että on tärkeää, että tiedetään, mitä siinä tapahtuu. On hyvä, että asiakkaiden oikeusturva
+toteutuu ja sitä parannetaan.
+
+Mutta sitten minulla on kyllä huoli myös pienituloisten osalta. Nämä kohoavat maksut
+eivät saa aiheuttaa köyhyyttä ja häpeää ja estää ylipäänsä palveluiden käyttöä, eli on otet-
+tava myös huomioon se, että nämä asiakasmaksut kohdistuvat monesti ihmisiin, jotka ei-
+vät välttämättä kykene ajamaan omaa asiaansa. Edustaja Taavitsainen toi ansiokkaasti
+omassa puheenvuorossaan esille nämä ulosotossa olevat. Vuonna 2016 oli 387 000 kappa-
+letta erilaisia asiakasmaksuja ulosotossa, muun muassa sairaala- ja laitoshoitomaksuja,
+hammashoito- tai terveyskeskusmaksuja. Tältä osin kyllä pienituloisten osalta täytyy yh-
+tyä siihen toiveeseen, että terveyskeskusmaksut poistettaisiin pienituloisilta.
+
+18.46 Sami Savio ps: Arvoisa puhemies! Eduskunnan käsittelyyn on tosiaan lopulta, vih-
+doin ja viimein, saatu kauan odotettu sosiaali- ja terveyspalveluiden asiakasmaksuja kos-
+keva lakiesitys, ja se on erittäin olennainen osa tätä koko sote- ja maakuntauudistuksen pa-
+kettia ja kokonaisuutta. Siltä osin onkin erittäin ongelmallista, että näinkin merkittävä ja
+isoja kysymyksiä aivan aiheellisesti herättänyt sote-palapelin palanen on tuotu tänne edus-
+kuntaan vasta aivan vaalikauden loppumetreillä, varsin kauan sen jälkeen, kun useimmat
+muut sosiaali- ja terveydenhuollon uudistukseen liittyvät esitykset on tänne tuotu. 
+
+Arvoisa puhemies! Kuten täällä on käynyt esiin, niin tässä esityksessä on kyllä hyviäkin
+piirteitä, muun muassa se, että asiakasmaksuista säädetään jatkossa lain tasolla. Tämä la-
+kiesitys selkeyttää nykytilaa siltä osin, että asiakasmaksuja voidaan jatkossa periä vain
+niistä palveluista, jotka on asiakasmaksulaissa erikseen määritelty, ja myös alaikäisten sai-
+raanhoitopalvelut ovat maksuttomia.
+
+Mutta tämä esitys ei ole lainkaan ongelmaton, kuten tässä keskustelussa on varsin hyvin
+jo tuotu esille. Lainsäädäntöön jää yhä erilliset maksukatot varsinaisille asiakasmaksuille,
+matkakustannuksille ja lääkekuluille, ja olisikin ollut erityisesti pienituloisen paljon sote-
+palveluita käyttävän kansanosan kannalta tarpeellista, että hallitus olisi tässä esityksessään
+yhdistänyt nämä erilliset maksukatot, kun tätä isoa uudistusta nyt tehdään. 
+
+Arvoisa puhemies! Vielä tätäkin suurempi uuden lakiesityksen myötä ja lain myötä, mi-
+käli se toteutuu, syntyvä ongelma on niin sanottu terveyskeskusmaksujen välikaton pois-
+taminen. Käytännössä tämä voi tarkoittaa pienituloiselle paljon terveyskeskuspalveluita
+käyttävälle kansanosalle pahimmillaan peräti 11-kertaisia kuluja nykyiseen verrattuna, ja
+tämä on kyllä todella raju muutos, johon täytyy suhtautua erittäin suurella vakavuudella.
+Vaikka ministerin esittelypuheenvuorossa todettiin, että asiakasmaksut eivät lakimuutok-
+sen varjolla nouse, niin kuitenkin myös hallituksen esityksen perusteluissa todetaan, että
+paljon perusterveydenhuollon palveluita käyttävien sote-menot tulevat kasvamaan huo-
+mattavasti. 
+
+Onkin erittäin epäoikeudenmukaista, jos tämän hallituksen, voi sanoa, lehmänkauppo-
+jen, maksumiehiksi joutuvat pienituloiset ihmiset. Johtaako tämä kaikki esimerkiksi toi-
+meentulomenojen kasvuun, se jää nähtäväksi. Mutta onneksi tämä esitys menee myös pe-
+rustuslakivaliokunnan tarkasteluun, ja perustuslakivaliokunta onkin nyt paljon vartijana,
+jotta sote-uudistuksen alkuperäiset tavoitteet hoidon yhdenvertaisuudesta toteutuvat ny-
+kyistä paremmin. Nyt uhkaa valitettavasti käydä aivan toisin.
+
+18.49 Satu Taavitsainen sd: Arvoisa puhemies! Jokaiselle, jolla on, annetaan, ja hän on
+saava yltä kyllin, mutta siltä, jolla ei ole, otetaan pois sekin, mitä hänellä on. Tätä Matteuk-
+23
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+sen evankeliumin jaetta voi verrata Sipilän porvarihallituksen politiikkaan. Matteus-vaiku-
+tus tarkoittaa etujen kasautumista niille, joilla niitä on jo ennestään. Tämän huomaa selväs-
+ti tässäkin hallituksen esityksessä laiksi asiakasmaksuista. Miksi hallitus ei käyttänyt mah-
+dollisuuttaan alentaa maksuja ja poistaa kokonaan terveyskeskusmaksu ja tuoda näin elä-
+keläisten ja työttömien elämää lähemmäs maksuttoman työterveyshuollon piirissä olevia
+kansalaisia niin kuin esimerkiksi meitä kansanedustajia, joilla on maksuton työterveys-
+huolto eikä tule terveyskeskusmaksuja?
+
+Sipilän hallituksen toiminta on monilta osin heikentänyt ihmisten toimeentuloa ja hyvin-
+vointia. Pienituloiset eläkkeensaajat maamme joka kolkassa kärsivät samoista vaikeuksis-
+ta. Rahat eivät riitä asumiseen, ruokaan, lääkkeisiin ja sosiaali- ja terveydenhuollon asia-
+kasmaksuihin. Eläkeläisten köyhyys estää sosiaali- ja terveyspalvelujen käyttämisen, ja
+sairastuminen, korkeat asiakasmaksut ja lääkkeiden omavastuut ajavat ihmisiä köyhyy-
+teen. 
+
+Arvoisa puhemies! Soten asiakasmaksuihin liittyy tärkeitä oikeudenmukaisuuskysy-
+myksiä. Vanhimmista, yli 85-vuotiaista eläkeläisistä 32 prosenttia kuuluu pienituloisim-
+paan ja vain 9 prosenttia rikkaimpaan tuloviidennekseen. Hyvin vanhoilla eläkeläisillä on
+paljon hoivatarvetta, mutta heillä ei ole rahaa maksaa palveluista. Korkeat maksut ovat es-
+teenä palveluiden saannille, ja eniten ilman riittävää apua olevia on pienituloisissa — eli yli
+85-vuotiaista 32 prosenttia kuuluu pienituloisimpaan tuloviidennekseen. Pienituloiset elä-
+keläiset käyttävät julkisia sosiaali- ja terveyspalveluja enemmän kuin suurituloiset. Yksi-
+tyisiä sote-palveluja, joihin on haettu Kela-korvauksia, on käyttänyt hieman yli puolet elä-
+keläisistä, mutta heistä 71 prosenttia on ylimmästä tuloluokasta. Kela-korvauksesta huoli-
+matta monella pienituloisella ei ole varaa yksityisten sote-palveluiden tai palvelusetelien
+käyttöön. Kela-korvausjärjestelmä ja palvelusetelit hyödyttävätkin näin eniten suurituloi-
+sia. Nyt hallitus tässä esityksessään poistaa tämän terveyskeskusmaksun välikaton, ja näin
+se on ehdottomasti selkeä kohdistus pienituloisiin ja erityisesti eläkkeensaajiin — heille
+selkeä heikennys. 
+
+Kotihoidon palveluja on saanut noin joka seitsemäs eläkeläinen, mutta osuus on huo-
+mattavasti suurempi vanhemmissa ikäryhmissä, erityisesti yli 85-vuotiailla, joista lähes
+puolet on käyttänyt kotihoidon palveluita. Ero pienituloisten ja suurituloisten välillä on iso
+kotihoidon käytössä. Alimpaan tuloviidennekseen kuuluvista yli 85-vuotiaista puolet on
+saanut kotihoitoa. Hyvätuloisemmat eläkeläiset eivät ole käyttäneet kotihoidon palveluita
+näin laajasti. Tämä on yhteydessä yksin asumisen yleisyyteen erityisesti alimmassa tulo-
+luokassa ja heikompaan terveydentilaan ja vähäisempään yksityisten palveluiden käyt-
+töön. En kuitenkaan huomannut minkäänlaista maksujen alentamista kotona annettavien
+palvelujen taulukossa hallituksen esityksen sivulla 232. Moni vanhus jättää kotipalvelut ot-
+tamatta, koska hänellä ei ole rahaa maksaa niistä. Tässä esityksessä olisi ehdottomasti pi-
+tänyt alentaa noita taulukossa olevia summia. 
+
+Eläkeläisille kasautuu paljon myös lääkkeiden omavastuita, mutta pienituloiset maksa-
+vat lääkkeistään suhteellisesti enemmän. Lääkkeitä paljon tarvitsevista merkittävä osa on
+vanhuksia, ja lähes kaikilla on krooninen tauti ja useita samanaikaisia lääkityksiä. Etenkin
+pienituloiset ja pitkäaikaissairaat ihmiset jättävät kustannussyistä lääkkeitä ostamatta tai
+puolittavat annoksia. Sen vuoksi olisin odottanut hallituksen yhdistävän lääkkeiden ja pal-
+veluiden ja kuljetuspalveluiden maksukatot yhdeksi maksukatoksi. Nyt ne ovat yhteensä
+noin 1 600 euroa vuodessa. Mielestäni kohtuullinen summa lääkkeistä, palveluista ja kul-
+jetuksista olisi noin 400 euroa vuodessa. 
+24
+
+
+
+Pöytäkirjan asiakohta PTK 138/2018 vp
+Arvoisa puhemies! Suomen pitää palauttaa arvopohjamme solidaarisuuden periaatteel-
+le. Kaikille ihmisille pitää turvata pääsy laadukkaiden julkisten sosiaali- ja terveyspalve-
+luiden piiriin maksukyvystä ja yhteiskunnallisesta asemasta riippumatta. Pienituloisilla ei
+ole nyt eikä hallituksen asiakasmaksulain voimaantulon jälkeen Suomessa varaa sairastua
+eikä hoitaa itseään. Ihmettelen, miksi hallitus ei ottanut mallia Ruotsista tässä asiassa, vaik-
+ka se kopioi Ruotsia valinnanvapausesityksessään. Ruotsissa nimittäin alle 20-vuotiailta ei
+peritä lainkaan asiakasmaksuja perusterveydenhuollosta, erikoislääkärillä käynnistä, fy-
+sioterapiasta, reseptilääkkeistä ja hammashuollosta. Tämä olisi ollut sellainen esitys, joka
+olisi saanut tukeni. Ruotsissa asiakasmaksut ovat käytössä vain hyvin pienimuotoisesti.
+Siellä julkisen verorahoituksen osuus sote-kustannuksista on 84 prosenttia, Suomessa vain
+75 prosenttia, eli Suomessa ihmisiltä kerätään asiakasmaksuja huomattavasti enemmän.
+Myös Englannissa julkisen rahoituksen osuus on 83 prosenttia ja terveydenhuoltopalvelut
+pääosin ilmaisia ihmisille.
+
+Keskustelu päättyi.
+
+Asia lähetettiin sosiaali- ja terveysvaliokuntaan, jolle perustuslakivaliokunnan on annetta-
+va lausunto.
+25
+
+

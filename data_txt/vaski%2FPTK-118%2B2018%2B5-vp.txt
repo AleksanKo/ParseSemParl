@@ -1,0 +1,812 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM45C2.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 118/2018 vp
+
+Täysistunto
+
+Keskiviikko 21.11.2018 klo 14.01—17.54
+
+5. Hallituksen esitys eduskunnalle kuluttajaluottosopimuksia ja eräitä muita kuluttajasopi-
+muksia koskevien säännösten muuttamisesta
+
+Hallituksen esitys HE 230/2018 vp
+
+Lähetekeskustelu
+
+Toinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päiväjär-
+jestyksen 5. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokuntaan, jol-
+le lakivaliokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan enintään 45 minuuttia. Asian käsittelyssä noudatetaan ai-
+kataulutettujen asioiden osalta sovittuja menettelytapoja. 
+
+Keskustelu
+
+14.50 Oikeusministeri Antti Häkkänen (esittelypuheenvuoro): Arvoisa puhemies, ära-
+de talman! Liian moni ihminen kärsii velkaongelmista nykyään. Ulosottovelallisia oli vuo-
+den 2017 lopussa jo noin 246 000, ja Asiakastieto Oy:n tilastojen perusteella myös maksu-
+häiriöisten henkilöiden määrä on kasvanut nopeammin kuin moneen vuoteen. Maksuhäiri-
+öisiä henkilöitä on jo yli 380 000.
+
+Velkaantumisen taustalla on lukuisia erilaisia syitä, eikä ongelmaan ole helppoja lääk-
+keitä. Tarvitsemme lääkkeeksi laajasti erilaisia keinoja: ylivelkaantumisen ennaltaehkäise-
+mistä esimerkiksi taloustaitoja parantamalla, vastuullisten luottomarkkinoiden tukemista
+ja velkaongelmissa olevien auttamista.
+
+Olen oikeusministerinä edistänyt ongelmaan puuttumista laaja-alaisella keinovalikoi-
+malla, velantorjunnan ohjelmalla. Esimerkiksi talous- ja velkaneuvonnan resursseja on jo
+lisätty, ulosottovelallisen työllistymisen kannusteita on parannettu ja positiivisen luottotie-
+torekisterin perustamista on selvitetty.
+
+Nyt käsiteltävä esitys on yksi osa tätä ylivelkaantumiseen puuttumista. Esityksellä pyri-
+tään vähentämään kalleimpien kuluttajaluottojen aiheuttamia velkaongelmia. Kuluttaja-
+luottoihin liittyvät velkomusasiat muodostavat tuomioistuimissa käsitellyistä velkomus-
+asioista merkittävän osan. Oikeusministeriön tilastojen mukaan vuonna 2017 käräjäoi-
+keuksissa ratkaistiin noin 376 000 summaarista riita-asiaa. Suomen Asiakastieto Oy:n ti-
+lastojen mukaan 293 000 kappaletta, eli valtaosa asioista, oli henkilöihin kohdistuvia vel-
+komustuomioita. Näistä noin 64 prosenttia koski Asiakastiedon mukaan tili- ja kertaluot-
+toja. Ryhmään kuuluvat pikaluottojen ohella perinteiset luottokorttiluotot, osamaksuluotot
+ja vakuudelliset kuluttajaluotot mutta eivät esimerkiksi asuntoluotot.
+
+Nyt käsittelyssä olevan esityksen tarkoituksena on kohtuullistaa ja selkeyttää kuluttaja-
+luottojen hinnoittelua. Korkokattoa esitetään laajennettavaksi ja kiristettäväksi. Pyrimme
+ Hyväksytty
+1.0
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+ehdotuksella tukemaan vastuullisten luottomarkkinoiden toimintaa ja auttamaan ihmisiä
+välttämään velkakierrettä.
+
+Arvoisa puhemies! Voimassa olevan lainsäädännön mukaan kuluttajaluottojen korko-
+katto koskee vain alle 2 000 euron luottoja. Todellinen vuosikorko tällaisella luotolla saa
+olla enintään 50 prosenttia. Tällä lakiehdotuksella korkokatto laajennettaisiin koskemaan
+kaikkia muita kuluttajaluottoja paitsi esinevakuudellisia asuntoluottoja. Korkokaton pii-
+riin tulisivat näin myös yli 2 000 euron suuruiset luotot ja kaikki hyödykesidonnaiset luo-
+tot. Korkokatto määriteltäisiin nykyisestä, luoton todelliseen vuosikorkoon pohjautuvasta
+korkokatosta poikkeavasti siten, että laissa asetettaisiin yläraja nostetusta luotosta perittä-
+välle korolle. Yläraja ehdotetaan asetettavaksi 30 prosenttiin. Korkokattomallin muutok-
+sella pyritään siihen, että sääntely olisi nykyistä tehokkaampaa ja sen noudattaminen ja
+valvonta yksinkertaisempaa. Ehdotettu raja on arvioitu sellaiseksi, että se vaikuttaa kal-
+leimpien kuluttajaluottojen hintoihin niitä alentavasti ilman, että se estää kannattavan luo-
+tonantotoiminnan harjoittamisen tulevaisuudessa. Markkinoilla on nykyisin tarjolla esi-
+merkiksi luottoja, joiden vuotuinen korko on yli 100 prosenttia ja todellinen vuosikorko
+jopa useita satoja prosentteja. Korkokattoa asetettaessa on haettu tasapainoa lainamääril-
+tään ja laina-ajoiltaan erilaisten luottotuotteiden välillä ja samanaikaisesti pyritty pitämään
+sääntely riittävän yksinkertaisena ja selkeänä.
+
+Esityksellä rajoitettaisiin myös oikeutta periä kuluttajalta muita luottokustannuksia.
+Näitä ovat esimerkiksi nostopalkkiot ja kuukausi- tai vuosimaksut. Niin ikään rajoitettai-
+siin oikeutta periä kuluttajalta kuluja maksuajan pidentämisestä.
+
+Näiden sääntöjen rikkomisesta asetettaisiin ankara seuraamus. Jos korko- tai luottokus-
+tannuskattoa rikottaisiin, kuluttajalta ei saisi periä korkoa tai muita luottokustannuksia
+lainkaan. Tällä muutoksella pyritään tehostamaan sääntelyn noudattamista luottomarkki-
+natoimijoiden osalta.
+
+Arvoisa puhemies! Uudistuksen oletetaan yleisesti ottaen kohtuullistavan luottojen hin-
+toja. Koska hintasääntely rajoittaa luotonantajien mahdollisuuksia periä kuluttajilta koh-
+tuuttomia luottokustannuksia, rajoittaa se siten myös mahdollisuuksia harjoittaa luotonan-
+toa nykyisenkaltaisella luottoriskitasolla. Uudistus onkin omiaan vähentämään luottojen
+myöntämistä sellaisille kuluttajille, joilla on korkea luottoriski.
+
+On selvää, että nyt ehdotettu sääntely ei yksin tule ratkaisemaan suomalaisten ylivel-
+kaantumista. Useita erilaisia toimia on jo tehty, ja hankkeita on vireillä. Tämä on laaja ko-
+konaisuus, jossa ensisijaista on aina kansalaisen oma vastuu omasta taloudenhoidostaan.
+Pidän nyt käsiteltävää esitystä, jolla pyritään puuttumaan nimenomaan kohtuuttomiin kor-
+koihin, tärkeänä osana ylivelkaantumisen hoidon kokonaisuutta. — Kiitos.
+
+14.56 Kristiina Salonen sd: Arvoisa puhemies! Koronkiskonta on Suomessa kiellettyä.
+Siksi on vaikea ymmärtää pikavippiyritysten korjaamia tuottoja, jotka liikkuvat minusta jo
+harmaalla alueella. En ole koskaan ymmärtänyt sitä, että jo pahasti ahdingossa olevien ih-
+misten tilannetta saa lain suojissa pahentaa vielä entisestään. Erityisen ongelmallisia pika-
+vipeistä tekee se, että asiakas harvoin tietää, mikä hänen nostamansa luoton todellinen kus-
+tannus lopulta on. Usein käykin niin, että pientä tarvetta varten nostettu laina pitää maksaa
+takaisin uudella pikavipillä. Tämän jälkeen kierre on valmis. 
+
+Ikävä kyllä pikavippejä nostavista ihmisistä moni ei saisi normaalia lainaa pankista, jo-
+ten heidän kykynsä suoriutua velvollisuuksistaan on lähtökohtaisesti heikompi kuin pan-
+kista lainaa saavilla ihmisillä. Pikavipit ovat ajaneet useat ihmiset maksuvaikeuksiin ja
+2
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+ajan myötä monilla ovat menneet myös luottotiedot. Tämä taas voi tarkoittaa esimerkiksi
+sitä, että asunnon vuokraaminen on vaikeaa tai kotivakuutuksen saaminen, jota monet
+vuokranantajat edellyttävät, on mahdotonta. Jokaisen on helppo ymmärtää, että ongelmat
+alkavat tässä kohdin jo olla merkittäviä.
+
+Katseet olisi käännettävä myös syihin. Meidän tulisi alkaa miettiä erilaisia sosiaalisen
+luototuksen mahdollisuuksia, koska sosiaalisen luototuksen avulla voisimme tarjota vähä-
+varaisille pieniä sekä edullisia lainoja. Tämä auttaisi varmasti hyvin monia elämän pienis-
+sä tarpeissa, kuten esimerkiksi uusimaan rikki menneen pesukoneen, sillä juuri tällaisten
+vuoksi pikavippejä nyt paljon otetaan. Hyvin suunniteltu, organisoitu ja säännelty sosiaa-
+linen luototus voisi ehkäistä myös monia muita ongelmia. Yhtä lailla ihmisten toimeentu-
+lon parantaminen auttaisi ja vähentäisi tarvetta pikavippeihin.
+
+Hyvä olisi miettiä myös sitä, pitäisikö meidän opettaa nykyistä paremmin nuorille talou-
+denhallintaa kouluissa. Nyt näyttää siltä, että monilla nuorilla aikuisilla ongelmat syntyvät
+juuri siitä, että oma taloudenhallinta ei ole kunnossa. Sen parantamiseksi kouluissakin olisi
+syytä pyrkiä antamaan lisää panosta. Me emme tarvitse uusia oppiaineita — riittäisi, että
+nykyisiä oppiaineiden sisältöjä katsottaisiin uudella tavalla siten, että huomioitaisiin myös
+elämänhallinta ja talous. Myöskin matematiikantunnilla olisi hyvä laskea korkolaskujen
+yhteydessä, mitä esimerkiksi 50 euron pikavippi todellisuudessa maksaa. Uskon, että se
+olisi monelle nuorelle silmiä avaava kokemus.
+
+Arvoisa puhemies! Lopuksi totean, että minä kannattaisin pikavippien kieltämistä koko-
+naan. Sen vuoksi toivonkin, että kun lainsäädäntöä on hallitus toisensa jälkeen aina kiris-
+tetty ja kiristetty, mutta ongelmat eivät ole silti kadonneet, uskaltaisimme katsoa totuutta
+silmiin ja todeta, että pikavippi sellaisenaan nykyisellään ei ole ihmisten edun mukainen ja
+sen voisi kieltää kokonaan.
+
+15.00 Antero Laukkanen kd: Arvoisa rouva puhemies! Tämä lakiesitys on erittäin terve-
+tullut, erityisesti siitä syystä, että monen ihmisen oman talouden hallinta on näiden help-
+pojen pikavippien, pikaluottojen ansiosta ajautunut täysin mahdottomaan tilanteeseen. Sen
+lisäksi, että näihin asioihin pyritään puuttumaan ohjeistuksella ja opastuksella ja sosiaali-
+silla luototuksilla, tarvitaan myös näitä toimenpiteitä, joista lakiesityksessä on kysymys.
+
+On aina niin, että kun henkilö ajautuu tällaiseen pikavippikierteeseen tai pahempaankin
+velkaongelmaan, joka tapauksessa siitä syntyy yhteiskunnalle merkittäviä kuluja, joten on
+ilman muuta järkevämpää, että otetaan tämä lainsäädäntö sillä tavalla haltuun, että luoto-
+nantajan vastuu alkaa korostua. Esitys tuo uudet mahdollisuudet, selkeät, tarkkarajaisem-
+mat vastuut. Ne jakautuvat nyt sekä ottajalle että antajalle ja tuovat niitä työvälineitä, joita
+tarvitaan.
+
+Arvoisa puhemies! Korkokatto laajennetaan tässä nyt koskemaan kaikkia kuluttajasuo-
+jalain kuluttajaluottoja, mikä on erinomainen asia. Myös korkokatto olisi voinut olla sel-
+keästi paljon matalampi. Olisi voitu suoraan mennä sellaisiin lukuihin, jotka eivät tekisi
+näistä luotoista täysin mahdottomia maksaa takaisin.
+
+Täällä nostettiin velkaneuvonta ja taloudenhallinnon opetus. Minustakin se on aivan
+keskeinen osa koko tätä ongelmavyyhtiä, kun puhutaan varsinkin alle 30-vuotiaista vel-
+kaantuneista. Toisessa päässä ovat yli 60-vuotiaat vanhemmat miehet. Tuntuu siltä, että
+näissä molemmissa päissä se talouden hallinta on jotenkin kadoksissa. [Pertti Salolainen:
+Kyllä me pärjätään!] — Edustaja Salolainen varmasti pärjää. Minä voin auttaa, jos ei pär-
+jää. — [Pertti Salolainen: Kyllä minä pärjään!]
+3
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+Erityisesti nuorten kohdalla Espoossa on käynyt ilmi, että suurin syy velkaantumiskier-
+teeseen on ollut oman talouden hallinnan puute, siis kertakaikkinen osaamattomuus. Toi-
+voisin, että kun nyt velkaneuvonta siirtyy oikeusaputoimistoihin, niin kunta ottaisi nuo-
+risotyönsä kylkeen tämän nuorten velkaneuvonnan ja talouden hallinnan. Sitten toisena, ai-
+van niin kuin täällä esitettiin, selkeästi meidän opetussuunnitelman perusteisiin voisi tulla
+talouden hallinta, koska se on nyt niin keskeistä ja jokaisella nuorella on yhdessä hetkessä
+mahdollisuus velkaantua tuhansia euroja, vaikka illan aikana hakea luottoa kymmeneltä eri
+yhtiöltä, ja saa myös ne velat hetkessä. Näihin olisi hyvä nyt tarttua. Tämä laki antaa siihen
+mahdollisuuden. 
+
+Haluan kyllä ihan erityisesti oikeusministeri Häkkästä, vaikkei hän enää ole paikalla,
+kiittää siitä, että hän aika nopeaan tempoon nyt tuo näitä ylivelkatilanteeseen liittyviä ja
+sitä parantavia lakiesityksiä. Kiitos siitä. [Sinuhe Wallinheimo: Aikaansaava ministeri!] —
+Kyllä!
+
+15.05 Johanna Karimäki vihr: Arvoisa puhemies! Lähetekeskustelussa on hallituksen
+esitys kuluttajaluottosopimuksia koskevien säännösten muuttamisesta. Se liittyy pikavip-
+pien sääntelyn kiristämiseen ja on hyvin kannatettava. 
+
+Verkossa ja tekstiviestein haettaviin pikaluottoihin on liittynyt ongelmia siitä asti, kun
+ne tulivat markkinoille vuonna 2005. Ongelmiin on puututtu useilla asteittain koventuneil-
+la lainmuutoksilla. Vaikutuksiltaan merkittävin on vuonna 2013 asetettu korkokatto alle
+2 000 euron suuruisille luotoille, mutta on keskeistä, että työtä pikavippien haittojen vä-
+hentämiseksi jatketaan määrätietoisesti. Lainsäädäntöön on jäänyt useita porsaanreikiä, ja
+nytten tämä hallituksen esitys korjaa niistä yhden. 
+
+Korkokattosääntelyn voimaantulon jälkeen myönnettyjen pikaluottojen määrät väheni-
+vät, mutta melko pian pikaluottoyritykset siirtyivät myöntämään korkokaton ulkopuolelle
+jääviä suurempia luottoja, joissa todellinen vuosikorko on yleisesti yli 100 prosenttia tai
+jopa huomattavasti korkeampi. Työtä ylivelkaantumisen ennaltaehkäisemiseksi siis tarvi-
+taan vielä. 
+
+Suomalaisten kotitalouksien velkaantuminen kulutusluotoilla on kasvussa. Kotitalouk-
+sien yhteenlaskettu kulutusluottokanta on lähes 19 miljardia euroa. Vaikka myönnettyjen
+pikaluottojen kappalemäärät ovat vähentyneet vuosikymmenen alusta, lainamäärät ovat
+tuntuvasti suurentuneet. Maksuhäiriöisten henkilöiden määrä on korkea, ja se on ollut jat-
+kuvasti nousussa. Vuonna 2017 se oli noin 373 000 henkilöä. 
+
+Esityksen tavoitteet ovat tärkeät. Sen pääasiallisena tavoitteena on vähentää kalleim-
+pien kuluttajaluottojen aiheuttamia velkaongelmia. Korkokatto ehdotetaan laajennettavak-
+si koskemaan kaikkia kuluttajaluottoja velkaongelmien ja kohtuuttoman kalliiden luotto-
+jen tarjonnan vähentämiseksi sekä sääntelyn kiertämisen estämiseksi. Korkokatto määri-
+teltäisiin siten, että laissa asetettaisiin yläraja nostetulle luotolle perittävälle korolle. Ylä-
+raja asetettaisiin 30 prosenttiin. Tämän lisäksi rajattaisiin oikeutta periä kuluttajalta muita
+luottokustannuksia. 
+
+Tämä ehdotettu sääntely ei tule yksinomaisena toimenpiteenä ratkaisemaan kuluttajien
+velkaantumiseen liittyvää ongelmaa, vaan myös muita toimia tarvitaan. Yksi keskeinen
+keino on myös oikeusministeri Häkkäsen puheessaan mainitsema positiivisen luottorekis-
+terin perustaminen. Asiaa on selvitetty. Olisi tärkeää viedä tämäkin esitys toteutukseen.
+
+Sosiaalinen luototus, josta edustaja Salonen järkevästi puhui, on hyvin kannatettava. Es-
+poossa on positiivisia kokemuksia sosiaalisesta luototuksesta, niin että kunnan toimesta
+4
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+autetaan perheitä, vähävaraisia perheitä, tilanteissa, joissa tarvitaan yllättäen rahaa. Kun
+esimerkiksi pesukone voi hajota yllättäen tai voi tulla lapselle tärkeitä harrastusmenoja tai
+mitä tahansa keskeistä, niin ilman mitään suuria velkakorkoja kunta voi tarjota perheelle
+auttavan käden näissä tilanteissa. Toivoisin, että tämä malli otettaisiin hyvin laajasti koko
+Suomessa käyttöön. 
+
+15.09 Jari Myllykoski vas: Arvoisa rouva puhemies! Olen ihan varma, että tästä salista ei
+tule yhtään sellaista puheenvuoroa, joka arvostelisi ministeri Häkkäsen valmistelemaa esi-
+tystä, mitä me nyt käsittelemme täällä. Täytyy tyytyväisyydellä todeta, että tässä hallituk-
+sessa tapahtuu tällä rintamalla erittäin positiivisia asioita ja toimenpiteitä ylivelkaantumi-
+seen ja luototukseen liittyvissä asioissa. On erinomaista, että puutumme tällä tavoin näihin
+seikkoihin. Olemme jo viime vaalikaudella ja sitä edelliselläkin pyrkineet suitsimaan pika-
+vippien ylisuuria korkoja, ja saimmekin jotakin aikaiseksi. Oliko kansanedustaja Katainen
+ja Toivakka, joidenka esityksestä saimme tämän 50 prosentin korkokaton, mutta niinhän
+siinä sitten kävi, että pikavippifirmat rupesivat myöntämään 2 000 euron limiittejä. Vaik-
+ka luotonhakija käytti siitä vain 300 euroa, niin hänelle ei annettu sitä 300:aa euroa, vaan
+hänelle myönnettiin 2 000 euron limiitti, jonka perusteella sitten tämä korkokatto ei enää
+toiminutkaan. 
+
+Tässä esityksessä on juuri se paras juttu, että nyt tullaan niin kuin iholle niin, että tällais-
+ta kiertomahdollisuutta toivottavasti ei ole. Mutta katsotaan, mitä jatkossa tapahtuu, sillä
+raha luo ajatuksia ja uusia innovaatioita lainoittajien puolelta. Erityisen tärkeätä tässä on
+juuri se, että voimme pyrkiä yhteiskunnallisesti vaikuttamaan siihen, että emme saata ke-
+tään tietoisesti siihen tilanteeseen, että talous kurjistuu ehkä mielijohteesta tehdyn lainoi-
+tuksen avulla. Ja täällä käytetyissä puheenvuoroissa oli esillä juuri se, kuinka nopeasti voi-
+daan yhden illan aikana velkaantua, kun otetaan pikavippejä monilta yhtiöiltä. 
+
+Pakko tässä kohdin myös tuoda esille eduskuntaan jo tullut edustajakollegan aloite. Kun
+Satonen esitti, että aggressiivinen ja yleensä markkinointi kiellettäisiin näiden pikavippien
+osalta, niin tervehdin kyllä sitä todella ilolla. 
+
+Tärkeätä olisi, että me voisimme ehkä sote- tai maakuntauudistuksen yhteydessä sopia
+siitä, että kun muistini mukaan meillä on Suomessa 33 kuntaa, ja Espoo on yksi niistä, jot-
+ka ovat ottaneet sosiaalisen luototuksen käyttöön, niin meillä Satakunnassa on vain kolme
+kuntaa, joissa tätä on toteutettu. Oma kotikuntani jää odottelemaan sote-uudistusta, jos sit-
+ten maakunnallisesti otettaisiin sosiaalisen luototuksen mahdollisuus pikavippien sijaan
+mahdolliseksi, koska on todella tärkeätä — minäkin olen kirjoittanut edustaja Salosen pu-
+heenvuorosta nimenomaan tämän pesukoneen tänne — että jos perheessä tai yksinasujalla
+tulee sellainen hetki, että se oma tulo, rahoitus ei riitä jonkin normaaliin elämiseen liitty-
+vän tuotteen hankintaan, on se sitten talvirenkaat tai pesukone, niin pitäisi olla mahdolli-
+suus saada maltillinen korkosidonnainen lainoitus sille, eikä niin, että joudutaan ottamaan
+pikavippi. Tämä olisi erittäin tärkeä uudistus siinä mielessä, että tällä me voisimme pää-
+töksentekijöinä vahvistaa sitä, että olemme ehkäisemässä sitä, että markkinavoimille alis-
+tamme ja pakotamme perheitä tai yksittäisiä ihmisiä.
+
+On pakko tässä yhteydessä vielä kertoa siitä, että me olemme eduskunnassa 136 kansan-
+edustajan osalta tähän asiaan liittyen tehneet lakialoitteen maksuhäiriömerkintöjen poista-
+misesta nopeammin kuin tässä hetkessä, ja, arvoisa puhemies, pakko lukea tänään viimek-
+si saapunut tekstiviesti, jossa kiitetään meitä kansanedustajia, joita edustuksellisesti tämän
+lakialoitteen takana on yli 870 000 kansalaista, niin että ministeri ottaisi vielä tämänkin
+5
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+mukaansa, sillä kansalainen kirjoittaa: ”Kiitos, kun ajatte tätä asiaa luottotietojen palautta-
+misesta nopeammin. Itselläni tilanne on, että avioeron ja yritystoiminnan vuoksi raha-asiat
+menivät solmuun ja tuli maksuhäiriömerkintä. Vuosi sitten jo maksoin kaikki velkani, mut-
+ta kokonaan puhtaat luottotiedot saan vasta kesällä 2021. Mielestäni hirveän pitkä aika,
+kun olen jo vuoden ajan hoitanut kaikki asiani moitteettomasti.”
+
+Me tarvitsemme näkemyksiä siihen, että pikavippien ja maksuhäiriömerkintöjen osalta
+voisimme tuottaa ihmiselle sen oikeudenmukaisuuden, että ei olisi mahdollista, että jo tuo-
+mionsa kärsinyt henkilö joutuisi vielä olemaan ehdonalaisuudessa sen jälkeen, kun tuomio
+on kärsitty. 
+
+Mutta vielä kiitoksia ministerille. Jos niin olisi, että minä olisin tällaisen lakiesityksen
+ministerinä tuonut, olisin kyllä jäänyt kuuntelemaan sitä kehumista ja suitsutusta, mikä on,
+mutta oletettavasti ministeri tekee edelleen ponnekkaasti töitä pikavippien kanssa ja ihmis-
+ten asioiden hyväksi.
+
+15.16 Maria Tolppanen sd: Arvoisa puhemies! Pikavipit johtavat vääjäämättä myös
+voutiin, eli ihmiset joutuvat ulosottoon, ja senpä takia haluan kertoa muutaman luvun tästä
+näin: Tänä vuonna lokakuun loppuun mennessä tässä maassa 462 000 ihmistä joutui niin
+sanotusti voudin toimien kohteeksi, kasvua edellisvuoteen 20 000. Miksi nämä ihmiset
+joutuivat sinne? Minäpä kerron. Sairaala- ja muut laitoshoitomaksut, hammashoitomak-
+sut, terveyskeskusmaksut, sosiaali- ja terveyspalvelumaksut, lasten päivähoitomaksut,
+muut sosiaali- ja terveysmaksut sekä kotipalvelumaksut — nämä tekevät lähemmäs
+400 000. Nämä yksistään tekevät lähemmäs 400 000. Meillä on puoli miljoonaa ihmistä
+tällä hetkellä ulosotossa.
+
+Ja nyt, jos sanotaan, että nämä ihmiset ovat joutuneet ulosottoon sen takia, että he ovat
+kykenemättömiä tai taitamattomia hoitamaan asioitaan, minä sanon, että ei se asia, kuul-
+kaa, näin ole. Pikavippikierteessä olevista ihmisistä osa on varmasti niitä, jotka eivät ole
+osanneet hoitaa taitavasti asioitaan, mutta osa on niitä, joiden on ollut pakko turvautua pi-
+kavippiin, koska leipääkin on pöytään saatava, lasten täytyy olla päivähoidossa, hampaat
+täytyy hoitaa, terveyskeskuksessa täytyy käydä ja ne maksavat. Ja ne aiheuttavat sen, että
+ihminen ajautuu yksinkertaisesti siihen kierteeseen, että on pakko turvautua näihin hyvin
+ikäviin muotoihin.
+
+Jos puhumme taitamattomuudesta tässä kohdassa, niin siinä menköön jokainen poliitik-
+ko itseensä. Me olemme taitamattomia. Me olemme antaneet tämän tilanteen syntyä tähän
+maahan. Me olemme vaikuttamassa paitsi Suomen eduskunnassa myös kuntien valtuus-
+toissa. Me voisimme tehdä näille asioille jotakin. Meidän on katsottava itseämme myös
+tässä asiassa peilistä.
+
+Se, että tämä on nyt nostettu esille niin, että korkokantaa pienennetään, on tietysti hyvä
+asia, mutta nyt tulee se edustaja Myllykosken kaipaama vähän poikkipuolinenkin sana tä-
+hän. Minun mielestäni se, jos korkokanta pistetään 30 prosenttiin, on farisealaista toimin-
+taa. [Sinuhe Wallinheimon välihuuto] 30 prosenttia niiltä ihmisiltä, joilla mitään ei ole, on
+liikaa silloin, kun kansanedustaja kävelee pankkiin ja saa sieltä lainaa 1,5 prosentilla — sii-
+nä on huima ero, siinä on huima ero — tai korkeintaan 3 prosenttia maksaa lainakorkoa. 30
+prosenttia on koronkiskontaa, ja se on laillista koronkiskontaa tässä maassa.
+
+Meillä oli aikoinaan semmoinen kuin vekseli. Sitä pidettiin kalliina luototuksena. Sen
+korko oli 16 prosenttia. Se oli kolme kuukautta kerrallaan voimassa, ja korko oli vain 16
+6
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+prosenttia. Se oli halpa. Eikö olisi kohtuullista, että edes tuonne vekselikorkoon tämä las-
+kettaisiin?
+
+Ja sitten vielä se, että kyllä luotonantajallakin täytyy vastuunsa olla. Jos luotonantaja an-
+taa luottoa, niin kyllä hänen täytyy jollakin tavalla varmistaa se, että hän saa siltä luotote-
+tulta aivan normaalikeinoin nämä luottonsa takaisin ja pienellä korolla. Ja jos näin ei ole,
+mikäli minkäänlaista vastuuta ei luotonantajalla ole, niin olen sitä mieltä, että pikavippitoi-
+minta on syytä lopettaa tästä maasta tyystin, keskustella asioista vakiintuneitten rahoitus-
+laitosten, pankkien kanssa, mitä voitaisiin tehdä, ja sen lisäksi harkita vakavasti sosiaalista
+luototusta, halpakorkoista lainaa, millä ihmiset voisivat maksaa omat velkansa pois. Nimit-
+täin suomalainen maksaa velkansa. Suomalainen haluaa maksaa sen, minkä on lainannut.
+Mutta jos tilanne riistäytyy käsistä niin, että korot ja kulut ovat niin suuret, että pääoma ei
+pienene koskaan, ja jos me siunaamme sen, niin minä en oikein tiedä, mitä tähän pitäisi sa-
+noa. Olen varsin surullinen.
+
+Kyllä meidän on kannettava vastuumme. Me olemme tulleet tänne edustamaan tätä kan-
+saa. Meidän täytyy myöskin ajaa sellaisia asioita, jotka auttavat tämän kansan ahdingosta
+— varsinkin, kun otetaan huomioon se, että suurin osa näistä ihmisistä, jotka tässä kiertees-
+sä ovat, eivät todellakaan ole itse itseään siihen saaneet, saattaneet eivätkä ajaneet.
+
+15.21 Sinuhe Wallinheimo kok: Arvoisa puhemies! Heti alkuun on paikallaan antaa kii-
+tos oikeusministeri Häkkäselle siitä, että tämä tärkeä esitys pikavippien korkokattosäänte-
+lystä on saatu näin nopeasti tänne eduskunnan käsittelyyn. Ehkä edelliselle puhujalle,
+edustaja Tolppaselle, [Maria Tolppanen pyytää vastauspuheenvuoroa] voisi muistuttaa sii-
+tä, että te olitte samassa puolueessa pitkään edellisen oikeusministerin kanssa ja hän ei tätä
+tuonut mutta oikeusministeri Häkkänen tämän toi. 
+
+Perusteet tähän esitykseen on kerrottu hyvin aiemmissa puheenvuoroissa. Vuonna 2013
+toteutetusta lainmuutoksesta huolimatta, jolla asetettiin korkokatto lähes kaikille alle 2 000
+euron suuruisille kuluttajaluotoille, pikavippien merkitys suomalaisten vuosi vuodelta pa-
+hentuvassa ylivelkaantumisongelmassa on edelleen merkittävä, ellei jopa ratkaiseva. Pa-
+rinkympin tai satasen pikavippejä hurjalla korolla korvaamaan on pikavippifirmoissa luo-
+tu yli 2 000 euron limiittiluotot, joiden korot huitelevat yhtä lailla kymmenissä, ellei jopa
+sadoissa, prosenteissa. 
+
+Tällä esityksellä, jos nyt ei pysäytetä, niin ainakin merkittävästi rajoitetaan tätä epäter-
+vettä ja epäreilua pikavippitoimintaa. Erityisen hyvä oppi on vuodelta 2013 muun muassa
+se, että tällä kertaa 30 prosentin korkokaton soveltamiseen ei aseteta ylärajaa. Siten se
+myös on hyvä työkalu taistelussa suomalaisten ylivelkaantumista vastaan, vaikka aukoton
+tämäkään järjestely ei toki ole.
+
+On myös päivänselvää, kuten monissa aiemmissakin puheenvuoroissa on todettu, että
+paljon muitakin toimia tarvitaan ylivelkaantuneiden suomalaisten auttamiseksi. Tarvitaan
+keinoja, joilla ennaltaehkäistään ylivelkaantumista. Käytännössä kyse on tällöin lasten ja
+nuorten taloudenhallinnan osaamisen parantamisesta — ja hyvä, että opetusministeri on
+täällä kuuntelemassa, koska tätä todellakin tarvitaan. Toisaalta tarvitaan ylivelkaantuneille
+lisää tukea selvitä vaikeista tilanteistaan eli tietoa siitä, mistä omaan tilanteeseen saa apua
+ja aivan konkreettista tukea, vaikkapa Takuusäätiön kaltaisen toiminnan muodossa. Ja kai-
+kille näille toimijoille tarvitaan lisää ajankohtaista tietoa siitä, mikä on meidän suomalais-
+ten velkaantumistilanne. Tässä mielessä paljon odotuksia on laitettava ministerinkin mai-
+nitsemalle positiivisen luottorekisterin jatkovalmistelulle.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+15.23 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Tärkeää, että olemme saa-
+neet tänne jälleen yhden askeleen pikavippien suitsimiseksi. Uskon tosiaan, että täältä sa-
+lista löytyy varmasti enemmistö kannattamaan näitä uudistuksia.
+
+Toivoisin, että nyt esitettävien pienten askelten lisäksi pääsisimme nopeasti keskustele-
+maan myös pikavippeihin liittyvän markkinoinnin rajoittamisesta laajemmin kuin nyt teh-
+dään, sillä se on todella aggressiivista parhaaseen katseluaikaan. Jos avaat suomalaisen te-
+levisiokanavan, niin on hyvin todennäköistä, että tunnissa saatat nähdä useita pikavippi-
+mainoksia, jotka suunnataan vielä sellaisille yleisöille, jotka ehkä harkitsevat sellaista ku-
+lutusta, jolla ei ole mitään todellista merkitystä arjen hyvinvoinnille tai millekään muulle-
+kaan. Eli tällaisen ylikulutuksen ehkäisemisenkin kannalta pikavippien markkinoinnin ra-
+joittaminen voisi olla perusteltua.
+
+Nostaisin esiin myös positiivisen luottorekisterin merkityksen. Asiaa on onneksi selvi-
+tetty. Toivottavasti näemme askelia tähän suuntaan pian.
+
+Sosiaalisen luototuksen näkökulmasta meidän kannattaisi edelleen laajentaa sen tunnet-
+tavuutta ja ylipäätään ihmisten keinoja päästä tarvittaessa sosiaalisen luototuksen piiriin, ja
+tarjota sosiaalista luototusta ja velkaneuvontaa laajemmin aitoina vaihtoehtoina niille tilan-
+teille, joita esimerkiksi edustaja Tolppanen kuvaili puheessaan hyvin, että ihmiset saatta-
+vat ajautua pikavippikierteeseen.
+
+Olen hieman huolissani siitä, riittääkö tämä toimenpide, jota me nyt teemme, siihen, että
+me aidosti pystymme suitsimaan tätä varsin holtitonta markkinaa. Koska tähän asti pika-
+vippimarkkinat ovat kyllä keksineet keinot kiertää eduskunnan asettamaa sääntelyä, ja tätä
+on harjoitettu jo vuosien ajan. Sikäli toivoisin, että jatkoseurantaa tämän nyt esitettävän
+esityksen voimaantulon jälkeen jatkettaisiin.
+
+Vielä viimeisenä nostaisin esiin arjen talouden hallinnan, lasten ja nuorten talouskasva-
+tuksen ja oppimisen, josta on paljon puhetta myös opettajakentällä tällä hetkellä. Talous-
+taitoja kannattaa lähteä opettamaan jo varhaiskasvatuksesta lähtien niin, että ihmisillä on
+parhaat mahdolliset edellytykset pärjätä myöskin tällaisessa maailmassa, jossa houkutuk-
+sia on varsin paljon saatavilla.
+
+Loppuun todettakoon, kun nyt Suomessakin Black Friday -päivä on jo laajentunut Black
+Friday -viikoksi, se on tällä hetkelläkin juuri päällä, ja meille taas tarjotaan hyvin monen-
+laisia keinoja hankkia nopeaa mielihyvää ostamalla jotakin, niin yleisesti toivon, että tässä
+talossa myös rakennamme sellaista yhteiskuntaa, jossa ihmisten ei tarvitse täyttää henkisiä
+kysymyksiä pelkästään kulutuksella.
+
+15.26 Anneli Kiljunen sd: Arvoisa rouva puhemies! Täällä on käytetty erittäin hyviä pu-
+heenvuoroja tämän lainsäädännön osalta, ja siinä mielessä näihin puheenvuoroihin on kyl-
+lä hyvä yhtyä riippumatta siitä, mistä suunnasta nämä puheenvuorot ovat tulleet.
+
+Kuten täällä on todettu, niin näitten pikavippien osalta suurin syy pikavippien ottoon on
+ollut joko heikko taloudenhallinta tai taustalla voi olla myös elämäntilanteeseen liittyviä
+vaikeita kriisitilanteita, jotka ovat sinällään synnyttäneet ihmisille vaikeita tilanteita ja ta-
+loudellisia ongelmia. Eri asiat ovat kasautuneet esimerkiksi työttömyyden tai psyykkisten
+ongelmien, masentuneisuuden takia, opiskelijat ovat saattaneet menettää opintotukensa ja
+sitä kautta elämänhallinta on vaikeutunut, velkaantuminen, peliongelmat ja monet muut
+asiat ovat aiheuttaneet sen, että ihminen ajautuu sitten ottamaan pikavippiä.
+
+Ja kuten täällä on todettu, niin yksi suuri ongelma nimenomaan näitten pikavippien osal-
+ta on pikavippikierre ja siitä syntyvä ongelmien entistä suurempi vaikeutuminen. On todet-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+tu, että pikavippikierre on pikavippien ongelmista se suurin ja pahin. Se kuvaa tilannetta,
+missä henkilö hakee yhä uusia lainoja, jotta hän pystyisi maksamaan takaisin edellisiä ot-
+tamiaan vippejä. Usein tätä voi jatkua niin kauan kuin ongelman purkautumista voi salata
+ja pitkittää. Silloin tilanne on todella jo paljon pahempi kuin se olisi ollut, jos ongelmaa oli-
+si lähdetty kunnolla purkamaan ja korjaamaan heti alusta alkaen. Tässä esimerkiksi oh-
+jauksen, neuvonnan ja matalan kynnyksen palveluiden mahdollisimman helppo saatavuus
+olisi äärettömän tärkeää, jotta ihmisillä olisi rohkeutta ja uskallusta hakea itselleen tukea ja
+apua.
+
+Esimerkiksi tämmöinen 500 euron velkarästi on saattanut kasvaa jopa kymmenientu-
+hansien velkarästeiksi, ja sitä kautta tämä tilanne on vaikeutunut entisestään ja tilanteet ja
+ongelmat ovat kasautuneet.
+
+Siinä mielessä tuen lämpimästi sitä ajattelua, mitä edustaja Kristiina Salonen toi tänään
+täällä, jossa hänen mielestään pikavipit tulisi kieltää. En tiedä, mitenkä se on mahdollista,
+mutta ne pitäisi tehdä niin vaikeaksi ja hankalaksi, että niitä eivät ihmiset hakisi näihin pal-
+veluihin.
+
+Mutta aivan kuten täällä on myös todettu puheenvuoroissa, niin meidän pitäisi pikem-
+minkin pyrkiä myös hakemaan niitä taustoja, minkä takia ihmiset hakeutuvat hakemaan pi-
+kavippejä, ja hakemaan ratkaisua siihen. Tässä esimerkiksi pikavippien markkinointi on
+yksi asia, joka täällä on tänään tullut esille. En tiedä, onko muille kollegoille tullut, mutta
+minulle on ainakin tullut sähköpostiviestejä, mainosmarkkinointia pikavippien käytöstä
+aina ajoittain. Se jostakin syystä tulee aina joinakin ajanjaksoina, mutta sitten ne häviävät
+taas. Elikkä se näkyy, ei ainoastaan televisiossa tai lehdistössä, vaan sitä tuodaan suoraan
+myös meidän sähköposteihimme.
+
+Tätä lainoitusmahdollisuutta tulisi kehittää sillä tavalla, aivan kuten täällä on tuotu esil-
+le, että mahdollistetaan halpakorkoisten lainojen saanti, sekä sosiaalista luototusta pitäisi
+kehittää. Valitettavasti sosiaalista luototusta ei käytetä riittävästi, ja useimmiten siellä on
+taustalla se, että siihen ei ole myöskään riittävästi rahoitusta ja niitten saatavuuskriteerit
+ovat monta kertaa hyvin vaikeat. Sen takia myös tämän sosiaalisen luototuksen monipuo-
+listaminen ja kehittäminen olisivat äärettömän tärkeitä.
+
+Sitten yksi asia, joka minua on häirinnyt monella tapaa, joka on näkynyt näitten pikavip-
+pien sekä myös maksuongelmaisten, sairaiden ja pienituloisten ihmisten osalta, on ollut se,
+että meidän sosiaali- ja terveydenhuollon asiakasmaksut ovat pienituloisille ja sairaille mo-
+nesti kohtuuttoman korkeita, ja he ovat ajautuneet sitä kautta maksuongelmiin ja ulosottoi-
+hin. Kuten täällä muun muassa edustaja Tolppanen toi esille tätä ongelmatiikkaa, niin mei-
+dän pitäisi kehittää nimenomaan näissä tilanteissa, joissa ihmiset sairastavat paljon ja ovat
+pienituloisia, näitten asiakasmaksujen kohtuullistamista, että se on aito, todellinen vaihto-
+ehto, että ihmiset eivät ajaudu sairautensa takia maksuongelmiin ja sitä kautta hakemaan
+esimerkiksi pikavippiä tai sitten joudu ulosottoon, ja sitä kautta heidän elämäntilanteensa
+ja jopa terveydenhoitonsa ja sairaudenhoitonsakin voi vaikeutua. Tästä syystä minä toivoi-
+sin, että me voisimme jatkaa tätä kehittämistyötä myös näitten asiakasmaksujen kohtuul-
+listamiseksi sillä tavalla, että ihmisillä sairaudesta riippumatta ja pienituloisuudesta huoli-
+matta olisi yhtenäiset oikeudet ja mahdollisuudet saada terveydenhuoltoa eivätkä nämä
+asiakasmaksut tulisi esteeksi oman itsensä terveyden hoitamiselle.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+15.32 Jari Myllykoski vas: Arvoisa rouva puhemies! Ajattelin, että 3 minuuttia paikalta
+olisi riittänyt, mutta tässä tulee niin hyviä puheenvuoroja, että on parempi varata aikaa, et-
+tei tarvitse juosta sitten kesken puheenvuoron tänne pönttöön.
+
+Tämä meidän järjestelmämme, jota me arvioimme ja myös arvostelemme, on tämä mei-
+dän voutijärjestelmämme, jossa nyt käsitykseni mukaan ollaan uudistamassa tulospalkki-
+ojärjestelmää. Haluaisin tuoda esille, että nyt olisi mahdollisuus pohtia myös sitä, että vel-
+kaneuvonta siirrettäisiin osaksi voutijärjestelmän tulospalkkiojärjestelmää, eikä niin, että
+tämä ketju voi vain kasvaa koko ajan ja maksusuoritusten määrä tulee olemaan korkea, sil-
+lä tälläkin hetkellä tiedämme, että kun on ajautunut pikavippiongelmiin ja sitä kautta tullut
+maksuhäiriömerkinnän piiriin ja kun sitten mennään oikeuteen, niin siellä näistä ylisuuris-
+ta perintäkustannuksista voidaan päästä eroon sillä, että laitetaan pieni ruutupaperi sinne
+käräjäoikeuteen, että ei hyväksy näitä ylisuuria perintäkustannuksia. Mutta jos siihen ei ole
+enää siinä hetkessä voimavaroja, niin meidän olisi ehkä hyvä pohtia sitä, kuinka me estäm-
+me ketjun kasvamisen. Kun meillä on selkeästi yhteys pikavippiyritysten ja perintätoimis-
+tojen yhteistyössä, monesti samat omistajat siellä taustalla, niin meidän pitäisi pystyä tä-
+hän puuttumaan niin, että myös tämä meidän voutijärjestelmämme uudistuisi niin, että se
+olisi myös yksi osa neuvontapalvelua näille ylivelkaantuneille ihmisille.
+
+Noh, voidaan keskustella siitä, voiko markkinataloudessa poistaa pikavipit ja pikavip-
+piyritysten toiminnan. Siihen minä en usko. Ja osaltaan katson, että on hyvä, että äkillises-
+sä rahoitustarpeessa perhetaloudella tai yksityisellä ihmisellä on mahdollisuus lainoittaa
+omaa hetkellistä rahan puutettaan nopeasti. Siihen, minkälaisin ehdoin niitä sitten saa, me
+ehkä täällä pystymme sitten korkomäärittelyillä ja muilla vaikuttamaan. Tässä tulee poh-
+dittua, onko se Y-tunnuksella toimiva liikeyritys vai liivijengi, joka sen rahan lainaa. Tässä
+on edustaja Myllykosken pohdinta siitä, poistammeko tällaisen liiketoiminnan kokonai-
+suudessaan ja annamme sen sitten verotuksen ja lainsäädännön ulkopuolella oleville toimi-
+joille, jotka sitten lainaavat rahaa joillakin tavoin ja myös perivät sen ehkä hieman eri ta-
+voin, johonka lainsäädäntö ei pysty puuttumaan. Siinä mielessä pitäisin sen rajankäynnin
+terveenä, mitä on yritystoiminta myös lainoituksessa, on se pankkisektorilla tai yrityksillä.
+
+Joka tapauksessa näissä perintäkustannuksissa meidän pitäisi jollakin tavalla uskaltaa
+puuttua siihen, että lainanantajalla on vastuu siitä, kenelle hän antaa lainaa. Eli lainoittajan
+vastuuta siihen. Tämä positiivinen luottotietorekisteri antaa siihen toki tulevaisuudessa
+mahdollisuuden, mutta tänäkin päivänä pitäisi olla enemmän mahdollisuutta siihen, että
+me edellytämme lainoittajalta omaa riskiä siihen, mitkä ovat ne mahdolliset perintäkustan-
+nukset, jos lainanottaja ei maksa omia velvoitteitaan. Me totta kai haluamme, että jokainen
+velkansa maksaa, ettei se jää toisten maksettavaksi.
+
+Arvoisa rouva puhemies! Tältä erää näin.
+
+15.37 Eero Lehti kok: Arvoisa rouva puhemies! Tätä asiaa on muistini mukaan 11 vuotta
+käsitelty talousvaliokunnassa moneen kertaan, ja moneen kertaan on luultu, että on löydet-
+ty sellaisia säännöksiä, jotka käytännössä riittävästi estäisivät pikavippitoimintaa. Joka
+kerta on käynyt niin, että markkinoijat ja alan yritykset ovat olleet ovelampia, keksineet
+jonkun porsaanreiän. Ja kun katsoo näitä pikavippiyritysten tuloslaskelmia, niin harvassa
+liiketoiminnassa pystytään niin vähällä vaivalla saamaan niin hyvää nettotulosta. Alalle on
+syntynyt lähes sata yritystä, joista muutamat ovat merkittäviä.
+
+Tässä lainsäädännössä on monta kertaa todettu, että tämä ei kuulu pankkilain piiriin,
+koska tässä ei oteta talletuksia vastaan. Käytännössä kuitenkin maassa on olemassa ylei-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+nen yliaikakorko, joka tällä hetkellä taitaa olla 13 prosentin luokkaa, jonka ylittävää kor-
+koa ei voi velalliselta periä. 
+
+Olin kerran puhumassa tilaisuudessa, jossa oli toistasataa velkaneuvojaa, ja kysyttiin,
+kuinka moni suosii pikavippijärjestelmää, sitä, että se ylipäätänsä on olemassa, tai kuinka
+monta on sitä vastaan — fifty-fifty-tulos, puolet suosi, puolet ei. Miksi? Sen takia, että sii-
+nä nopeasti ratkaistaan lyhyellä tähtäimellä asiakkaan ongelma. 
+
+Jos katsoo asiakkaan tilannetta, niin siellä taustalla voi olla aitoja syitä, joiden johdosta
+voi sanoa, että velallisella tai velalliseksi ryhtyvällä ei ole enää muuta vaihtoehtoa. 
+
+Jos ajatellaan pankkien toimintaa, niin siellä yleensä ilman vakuutta olevalle luoton-
+myöntäjä edellyttää takaajia. Tämä takaajien puuttuminen tässä pikavippitoiminnassa tar-
+koittaa käytännössä sitä, että yksi ihminen voi aika, sanoisinko, kontrolloimattomasti aja-
+tella, että hänen omaa etuaan ei kukaan muu aja, minkä jälkeen tilanne saattaa sitten eska-
+loitua, koska pikavipin päälle otetaan toinen pikavippi ja ehkä jopa kymmenes, minkä jäl-
+keen tilanne on karannut asianosaisen käsistä. Tämä takaajien vaatimus voisi olla yksi, jol-
+la tätä tilannetta helpotettaisiin, tai ainakin, jos laina ylittää esimerkiksi 500, niin sen jäl-
+keen vaaditaan takaajaa, jolloin myös luottoriski ja harkinta siinä tilanteessa
+monipuolistuisi. Takaaja joutuisi miettimään, että hän joutuu ehkä tämän maksamaan.
+
+Tämä asetelma on monelle myös sen verran uusi, etteivät he ymmärrä esimerkiksi käyt-
+tää panttilainakonttoria tai vastaavaa, jolloin omaisuus annetaan vakuutena lainasta, ja sil-
+loin jos se menetetään, niin se menetetään. Siihen se sitten jo loppuukin, jolloin ei synny
+tällaista riippuvuutta tähän lainoittajaan.
+
+Tämä asetelma on kyllä niin hankala nuorille ihmisille, jotka eivät ole tottuneet käsitte-
+lemään rahaa. Joku sanoi, että niistä peruskoulun päättävistä, jotka eivät jatka myöhemmin
+opintojaan, 10 prosenttia ei osaa edes laskea prosentteja — se luku voi olla suurempikin —
+minkä johdosta hän ei pysty niissä tilanteissa, joissa hän ajautuu tilanteeseen, jossa ei ole
+hänen mielestään muita vaihtoehtoja kuin pikavipin ottaminen, myöntämään itselleen,
+kuinka suuren ja hankalan tilanteen hän aiheuttaa, jos hän ei pysty sitä maksamaan.
+
+Näiden pikavippiyhtiöiden laillisuus ja kohtuuttomuus: Mielestäni kohtuuttomuus olisi
+se, jolla voisi lainsäätäjä sanoa, että tämä yliaikakorko on korkein mahdollinen korko, jol-
+loin näitä pikavippiyrityksiä ei voitaisi pyörittää samalla periaatteella kuin tällä hetkellä
+vaan todennäköisesti luottotappioriskin pienentämiseksi sinne tulisi käytännössä vaade sii-
+tä, että siellä on joku takaaja tai kaksi, jolloin koron ei sen takia tarvitsisi olla niin korkea
+kuin se tällä hetkellä näiden luottotappioiden johdosta on. 
+
+Jos luottoyhtiö antaa 1 000 euron lainan asiakkaalle — ja se takaisinmaksuosuus saattaa
+nousta 3 000:een kahden vuoden kuluessa — niin se luottotappio lasketaan siitä 1 000:sta
+plus normaalikorosta, koska luottotappioyhtiöt rahoittavat omaa toimintaansa pankkilai-
+noilla, joiden korkotaso on tällaisessa ehkä 5—8 prosenttia. 
+
+Kaiken kaikkiaan tämä on erittäin epäoikeudenmukainen liiketoiminnan ala, ja sen ta-
+kia, että täällä ei ole takauksia, niin esimerkiksi peliriippuvaisuudesta kärsivät ottavat hel-
+posti näitä pikavippejä eivätkä kehtaa edes selostaa sitä syytä. Toinen vaihtoehto: se, että
+sana ”pika” muutettaisiin 48 tunnin lainaksi, niin että sitä saisi käyttää vasta kahden vuo-
+rokauden kuluttua, saattaisi lisätä tähän ottoon liittyvää tarvittavaa harkintaa.
+
+15.42 Maria Tolppanen sd: Arvoisa puhemies! Halusin ihan välttämättä ottaa tämän pu-
+heenvuoron, jotta kirjoihin ja kansiin ei jää väärää kuvaa siitä, mitä mieltä olen. Ehdotto-
+masti kannatan tietysti tätä ministeri Häkkäsen tänne tuomaa esitystä, ja olen muuten sitä
+11
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+mieltä, että ministeri Häkkänen tulee jäämään historiaan hyvin joviaalina ministerinä. Hän
+on nostanut esille paljon asioita: lasten asioita, perheiden asioita, lasten hyväksikäyttö-
+asioita, köyhien ihmisten asioita. Hän on uskaltanut tuoda niitä esille ja saanut niitä sitten
+jopa läpi, ensin tietenkin siellä omassa ryhmässään ja sitten tuolla hallituskuvioissa. Että
+erittäin paljon kiitoksia siitä.
+
+Mutta juuri tätä asiaa, mistä edustaja Lehtikin äskettäin puhui, että aina siellä on se por-
+saanreikä, mistä mennään ja pystytään korkoja sitten kiskomaan, tätä tarkoitin sillä taita-
+mattomuudella, jossa meidän on syytä katsoa peiliin. Silloin kun me säädämme lakeja,
+meidän pitäisi pystyä porsaanreiät panemaan kiinni. Pitäisi ainakin uskaltaa panna niin
+monta porsaanreikää kiinni kuin on mahdollista. Näinhän se on, ja toivottavasti korjataan
+sitten taas, jos täytyy korjata.
+
+Edustaja Kiljunenkin otti ihan oikein äskettäin mielestäni esille tuon asiakasmaksulain
+ja sen, mitä sen kanssa tehdään. Siinä on myös semmoinen kohta, missä meidän poliitik-
+kojen pitää katsoa itseämme, koska meistä hyvin usea istuu myöskin kunnanvaltuustossa.
+Nyt on näin, että lain 11 §:n mukaan asiakasmaksuja voi alentaa tai jättää jopa kokonaan
+perimättä, mikäli asiakkaalla ei ole varaa maksaa. Täytyy tietysti selvittää silloin, mikä se
+tilanne on. Tässä kohdassa haluan lukea sitaatin Kelan tutkijalta Vappu Verroselta. Hän sa-
+noo näin: ”Olisi kai järkevämpää jättää maksuja perimättä kuin ohjata ihmiset hakemaan
+toimeentulotukea tai ulosottoon? Herää kysymys: olisiko syytä velvoittaa viranomainen
+tarkistamaan ennen perintätoimia ja ulosottoa, onko lainmukaisia perusteita jättää maksu
+perimättä tai alentaa sitä?” Tämä on se kohta, mihin vaaditaan poliittista päätöstä. Sitä vaa-
+ditaan meiltä valtakunnan tasolla ja sitä vaaditaan meiltä myös kunnallisella tasolla. 
+
+Kaikkinensa tämä laki, jota juuri nyt tässä salissa käsitellään, on erittäin toivottava. Se
+voisi olla parempi sikäli, että 30 prosenttia on minusta edelleenkin koronkiskontaa, mutta
+on hyvä, että edes tullaan jollakin tavalla alaspäin. Tässäkin olisi voinut kyllä laskea sitä
+lähtökorkoa jo sinänsä. Sehän on sitten yrittäjän asia päättää, onko toiminta enää kannatta-
+vaa vai eikö se ole kannattavaa. Ehkä sieltä on jäänyt jonkin verran taskunpohjalle näitten
+yli kymmenen vuoden aikana, mitä niitä on ollut. Toivottavasti saamme tämän vietyä
+eteenpäin.
+
+Sitten yksi asia, mistä meidän pitäisi keskustella, kun puhutaan siitä, että lapsia pitää
+opettaa rahan käsittelyssä ja ymmärtämään rahan arvo: Selittäkääpä minulle, miten kuusi-
+vuotiaalle opetetaan, että ei sillä Visa-kortilla voi mitä tahansa ostaa. Me haluamme viedä
+käteisen pois tästä maasta ja tehdä pelkästään korttikauppaa. Lähetämmekö me tästä läh-
+tien lapset ja lastenlapset kioskille hakemaan hyvin ansaittua tikkaria Visa-kortti kouras-
+sa? Sitä sietää harkita.
+
+Toinen varapuhemies Tuula Haatainen: Rajaan puheenvuorot tässä vaiheessa nyt ruu-
+dussa näkyviin kolmeen puheenvuoroon, ja sitten keskeytämme tämän asian käsittelyn,
+koska aika on kulunut umpeen.
+
+15.46 Simon Elo sin: Arvoisa rouva puhemies! Tämä pikavippikysymys, kuluttajaluotot,
+on asia, josta sekä omaisilta — niiltä, joilla elämä on mennyt pilalle pikavippikierteen
+kautta — että sitten jopa niiltä ihmisiltä, jotka ovat sen omakohtaisesti kokeneet, tulee hy-
+vin paljon palautetta. Pääasiallinen palaute liittyy juuri siihen, mihin tällä lakiesityksellä
+pyritään puuttumaan, eli siihen, että vuoden 2013 jälkeen todelliset vuosikorot suuremmis-
+sa luotoissa ovat nousseet jopa satoihin prosentteihin. Sitä ei millään järjellä, ei maalais-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+eikä kaupunkijärjellä, voi pitää kohtuullisena. Niin kuin edustaja Lehti tässä toi esille, kyl-
+lä on hyvät tuottoprosentit nimenomaan näillä yrityksillä, joita lähes sata on ja joista muu-
+tama sitten on suurempia toimijoita tällä alalla.
+
+Eli tämä korkokatto yli 2 000 euron suuruisille luotoille on erittäin kannatettava esitys.
+Lisäksi myös tämä 30 prosentin yläraja korolle on sellainen, jota on toivottu jo pidemmän
+aikaa — jonkinlainen katto tälle korolle — näissä kommenteissa ja palautteissa, mitä olen
+edustajana saanut, ja uskon, että tässä salissa moni edustaja on saanut.
+
+Hyvin merkittävää on myös se, että jos luotonantaja tai -välittäjä rikkoo korko- tai luot-
+tokustannuskattoa koskevaa sääntelyä, niin silloin tältä kuluttajalta ei peritä korkoa tai
+muita luottokustannuksia lainkaan. Tällä merkittävällä tavalla tehostetaan sitä vaikutusta,
+mikä tällä lainsäädännöllä tulee olemaan, ja pidetään nähdäkseni hyvin pitkälti ja vahvasti
+kiinni kuluttajan oikeussuojasta tässä suhteessa.
+
+Eli kannatan lämpimästi tätä hallituksen esitystä. Tätä on toivottu pitkään, ja nyt tähän
+merkittävään ongelmaan puututaan. Tässä nostettiin ministeri Häkkänen, oikeusministeri,
+esille. Hän on totta kai tehnyt hyvää työtä. Mutta täytyy muistuttaa, niin kuin oppositio
+muistuttaa aina hallituksen esitysten osalta noin yleisesti, että tämä on koko hallituksen yh-
+teinen esitys, jota yksi ministeri sitten esittää — ja esittää tietysti hyvällä tavalla.
+
+Porsaanreiät pitää aina pystyä tukkimaan, edustaja Tolppanen. Mutta toisaalta ei koko
+”porsaanreikä”-käsitettä olisi, jos porsaanreiät aina pystyttäisiin tukkimaan. Eli parhaam-
+me teemme tämänkin esityksen myötä, mutta epäilen, että jotain sellaista jälleen löytyy,
+jota pitää myöhemmälläkin lainsäädännöllä pystyä sitten tilkitsemään. Mutta tämä puuttuu
+nyt juuri niihin kysymyksiin, mitkä palautteenkin perusteella ovat olleet suurimpia ongel-
+mia.
+
+15.49 Antero Laukkanen kd: Arvoisa rouva puhemies! Lyhyesti vielä, kun täällä on
+noussut tämä positiivinen luottorekisteri esiin, niin haluaisin sen verran mainita, että posi-
+tiivinen luottorekisteri ei ole niin positiivinen, kuin on haluttu ymmärtää. Siitä tulisi jäl-
+leen yksi laki, joka merkittävästi nakertaisi yksityisyyttä. Siinä rahalaitoksille annettaisiin
+lähes rajaton mahdollisuus saada tietää meidän rahakäyttäytymisemme, mihin olemme lai-
+namme hakeneet, mihin niitä käytämme ja niin edelleen ilman, että rahalaitos joutuu anta-
+maan minkäänlaista selvitystä siitä, miten he näitä meidän tietojamme käyttävät. Se antaa
+mahdollisuuden synnyttää monen kerroksen lainaväkeä, jos pankki ja rahalaitokset voivat
+sisäisesti määritellä, minkälaiselle porukalle tässä maassa enää voi luottoa antaa, ja syntyy
+todella monen kerroksen väkeä lainamarkkinoille. En pitäisi tätä niin hirveän positiivisena
+asiana enkä edes ratkaisuna tähän, mitä tällä hetkellä velkaongelmana pidetään.
+
+Jokainen vastuullinen luotonantaja jo nyt kerää kaikki tiedot luotonsaajasta, mitä on tar-
+peellista sen luoton antamisen ehdoksi. Yksikään vastuullinen luotonantaja ei anna luottoa
+takaajien kustannuksella, se on jo pankkilaissakin kielletty. Tietysti menee monta monta
+vuotta ennen kuin tämä positiivinen luottorekisteri mahdollisesti tulee, mutta nämä asiat
+pitäisi kyllä huolella ottaa huomioon.
+
+15.50 Anneli Kiljunen sd: Arvoisa puhemies! Pyysin puheenvuoron edustaja Lehden pu-
+heenvuoron jälkeen, olisin halunnut tukea häntä hänen hyvässä puheenvuorossaan. Aivan
+kuten edustaja Lehti totesi, pikavippilainsäädäntöä on kehitetty ja käsitelty talousvaliokun-
+nassa jopa 11 vuotta, ja hän totesi, että aina ovat kuitenkin pikavippiyhtiöt löytäneet uusia
+keinoja kiertää tämän lainsäädännön, elikkä erilaisia porsaanreikiä on sitten löytynyt mat-
+13
+
+
+
+Pöytäkirjan asiakohta PTK 118/2018 vp
+kan varrella. Hän esitti myös sitä yhtenä vaihtoehtona, että olisi tämmöinen takaajavaati-
+mus, ja sitäkin asiallisesti minä tuen lämpimästi. Mutta jäin vain miettimään sitä, että kun
+näitä pikavippejä on mahdollisuus ottaa useilta eri yhtiöiltä, niin mitenkä tämä takaajamah-
+dollisuus pystytään sitten turvaamaan, että se tieto kulkisi. Jos ottaa pikavippinä 300 josta-
+kin, 300 toisesta ja 400 kolmannesta, niin se 500 euroa on hyvin nopeasti tullut, elikkä sil-
+loin käytännössä se tarkoittaa sitä, miten tämä takaajamahdollisuus voitaisiin sitten mah-
+dollistaa. Mutta se on asia, jota varmasti pitää kehittää, miettiä.
+
+Sitten toisaalta myös se, voitaisiinko tälle vipille asettaa myös aikaraja, kuten esimerkik-
+si 48 tunnin aikaraja tai joku muu vastaava, että sitä ei saa esimerkiksi keskellä yötä, kun
+elämäntilanne on hallitsemattomassa tilassa ja sitten otetaan pikavippi parantamaan sitä ti-
+lannetta. Tämä on nimenomaan suuri ongelma peliongelmaisille, mutta myös muille, jotka
+sitten, voisiko sanoa, harkitsemattomasti ottavat itselleen pikalainaa ja luulevat, että sillä
+parantavat oman elämäntilanteensa, kun tilanne voikin kääntyä päinvastoin, että tämä pi-
+kavipin ottaminen voikin entisestään heikentää ja pahentaa sitä elämäntilannetta.
+
+Tästä syystä halusin pyytää puheenvuoron ja tukea edustaja Lehden tekemää pohdintaa,
+miten tätä asiaa voitaisiin jatkossa kehittää.
+
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan, jolle lakivaliokunnan on annettava lausunto.
+14
+
+

@@ -1,0 +1,718 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM5573.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 35/2017 vp
+
+Täysistunto
+
+Keskiviikko 5.4.2017 klo 14.00—15.42
+
+4. Hallituksen esitys eduskunnalle laiksi julkisen hallinnon yhteispalvelusta annetun lain 
+muuttamisesta
+
+Hallituksen esitys HE 188/2016 vp
+Valiokunnan mietintö HaVM 4/2017 vp
+
+Ensimmäinen käsittely
+
+Puhemies Maria Lohela: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 4. asia.
+Käsittelyn pohjana on hallintovaliokunnan mietintö HaVM 4/2017 vp. Nyt päätetään la-
+kiehdotuksen sisällöstä.
+
+Keskustelu
+
+14.04 Juho Eerola ps (esittelypuheenvuoro): Arvoisa puhemies! Tämän hallituksen esi-
+tyksen tavoitteena on edistää julkisen hallinnon viranomaisten asiakaspalvelun saatavuut-
+ta yhdenvertaisesti koko maassa ja parantaa viranomaisten toiminnan tehokkuutta. Esityk-
+sellä pyritään tukemaan digitalisaatiokehitystä ja mahdollistamaan riittävän suurten asioin-
+tiverkostojen kustannustehokas ylläpitäminen luomalla puitteet valtion ja kuntien asiakas-
+palvelutehtävien hoitamiseksi yhteispalveluna. Erityisesti näillä yhteispalvelujärjestel-
+mään ehdotetuilla muutoksilla voidaan osaltaan turvata sellaisten henkilöiden asiointitar-
+peet, jotka eivät osaa tai joilla ei ole vielä teknisiä mahdollisuuksia hoitaa asiointiaan
+sähköisten palveluiden avulla.
+
+Laissa ei ehdoteta säänneltävän sitovasti siitä, mitä viranomaisten palveluja yhteispal-
+velupisteen palveluvalikoimaan täytyisi sisältyä, vaan tämä ehdotus perustuu nykyisen
+kaltaiselle viranomaisten sopimusperusteiselle yhteistyölle, jossa myös palveluvalikoima
+määräytyy sopimuskohtaisesti. Malli mahdollistaa palvelujen tarjoamisen joustavalla ta-
+valla asiakkaiden tarpeista lähtien ja paikalliset olosuhteet joka kerta huomioon ottaen.
+
+Valiokunta näkee tärkeänä, että viranomaisten tulee suunnitellessaan asiakaspalvelun
+järjestämistä ja palveluverkkoaan kehittäessään ottaa huomioon hallintolaissa säädetyt hy-
+vän hallinnon takeet sekä eduskunnan apulaisoikeusasiamiehen ratkaisukäytännöstä ilme-
+nevät oikeusohjeet. Valiokunta toteaa, että yhteispalvelu voi olla tästä näkökulmasta eräs
+keskeinen palvelukeinovaihtoehto. Lisäksi on huomioitava, että palveluneuvojien osaami-
+nen vastaa yhteispalvelussa tarjottavan asiakaspalvelun kulloisiakin vaatimuksia.
+
+Ja sitten, tämä mietintö on herättänyt tietysti kritiikkiä, tämä ei ollut ihan täysin yksimie-
+linen, oppositio teki tähän mietinnön hylkäysesityksen sisältävän vastalauseen, ja se poh-
+jautui lähinnä siihen, kuinka lyhyeksi aikaa tämä tullaan säätämään, mutta siitä varmaan
+opposition edustajat itse kohta kertovat lisää. Valiokunnan enemmistö kuitenkin katsoi,
+että tämän asian suhteen ei ole syytä vitkastella.
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+14.06 Antero Laukkanen kd: Arvoisa rouva puhemies! Tämä hallinnon uudistus on erit-
+täin tervetullut, ja siinä on monta hyvää kohtaa. Halusin tulla erityisesti nostamaan esiin
+sellaisen näkökulman, että seuraava merkittävä syrjäytyneiden joukko tulee olemaan niin
+sanotut digisyrjäytyneet: monet sellaiset ikääntyneet ihmiset, jotka eivät enää pysty hoita-
+maan asioitaan, koska heidän digitaaliset taitonsa eivät ole sellaisia, että he pystyisivät so-
+peutumaan tähän yhteiskunnan nopeaan muutokseen. Sen tähden onkin tärkeätä, niin kuin
+täällä todetaan, että erityisesti kiinnitetään huomiota näihin henkilöihin, jotka eivät pysty
+sähköisesti asioitaan hoitamaan.
+
+Tämä tulee olemaan kasvava joukko, ja sen takia halusin tulla tänne mainitsemaan, että
+samalla kun kaikki ymmärrämme digitaalisuuden merkityksen ja kasvamisen, on kohtuu-
+tonta, että tämä ikääntyneiden joukko, joka ei hallitse älypuhelimien käyttöä, ei pysty hoi-
+tamaan asioita vaikka haluaisi. Toimintakykyä on, mutta tavallaan se muoto, jonka yhteis-
+kunta tarjoaa tälle hoitotieksi, on heille täysin mahdoton: soittaa puhelimella johonkin pal-
+velunumeroon, josta sitten sanotaan, että "hyvää päivää, jos asianne koskee tätä, valitkaa 1;
+jos asianne koskee tätä, valitkaa numero 9". Se edellyttäisi jo älypuhelimen käytön hallin-
+taa ja sen ymmärtämistä, mistä sieltä pitää ne erilaiset valikot ja tehtävät sitten hakea. On
+siis pidettävä huolta siitä, että kun näitä hallinnon uudistuksia tehdään, niissä myös tode-
+taan selkeästi, että kunnan ja kaupungin tehtävä on järjestää sellainen puhelinnumero, jos-
+sa ihminen vastaa ja opastaa sitä henkilöä henkilökohtaisesti, ikään kuin ihminen on tavat-
+tavissa ihmiselle.
+
+Tämä digisyrjäytyneiden joukko tulee kasvamaan. Suomi on Euroopan nopeimmin van-
+heneva kansa, joten jokaisessa yhteiskunnallisessa palvelussa, jota me odotamme ihmisten
+nyt itsenäisesti hoitavan, on myös huomioitava se, että meillä on kasvava joukko ihmisiä,
+jotka eivät pysty olemaan digitaalisten palveluiden varassa.
+
+14.10 Timo Heinonen kok: Arvoisa rouva puhemies! Hallinnon yhteispalveluajattelu on
+hyvä asia, ja on arvokasta, että sitä viedään eteenpäin eikä jäädä odottamaan muita uudis-
+tuksia, jotka ovat tekeillä.
+
+Tässä edellä edustaja Laukkanen puhui digisyrjäytyneistä ja niistä henkilöistä, jotka ei-
+vät pysty digitalisaatioon tai sähköisten palveluiden käyttämiseen, ja nimenomaan siihen
+tällä halutaan vastata, että on mahdollisuus toimia myös toisella tavalla. Täällä tulee kou-
+lutusvelvollisuutta ja tämäntyyppistä. Edustaja Laukkanen puhui kuitenkin käytännössä
+vain ikääntyneistä ihmisistä, joilla näitä vaikeuksia olisi digitalisaation kanssa, ja itse
+asiassa näin se ei pelkästään ole, vaan meillä on yhä kasvava joukko sellaisia ihmisiä, joilta
+syystä tai toisesta digitaalisten palveluiden käyttäminen ei onnistu. Sen takia, kun luin tätä
+mietintöä, hivenen hämmästyin sitä, että kun tässä kuitenkin puhutaan digitalisaatiosta ja
+sähköisistä palveluista, niin verkkoesteettömyyteen tässä ei millään tavalla kiinnitetä huo-
+miota, siihen että niiden palveluiden, joita tässäkin osittain haetaan sähköisten järjestelmi-
+en kautta, pitäisi olla yksinkertaisempia. Verkkoesteettömyys tarkoittaa nimenomaan sitä,
+että siellä pystyvät näkövammaiset, heikkonäköiset, toimimaan, mutta myös sitä, että ne
+polut olisivat yksinkertaisia, mitä mennään. Jokainen, joka on esimerkiksi veropalvelua
+käyttänyt, tietää, että se ei ole kovinkaan esteetön edes meille, jotka käytämme paljon säh-
+köisiä palveluita. Kysyisinkin valiokunnan puheenjohtajalta, edustaja Eerolalta: herättikö
+tämä verkkopalveluiden esteettömyys tässä yhteydessä minkäänlaista keskustelua — se,
+että myös siihen pitäisi panoksia laittaa?
+2
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+14.12 Juho Eerola ps (vastauspuheenvuoro): Arvoisa rouva puhemies! Tämäntapaisesta
+esteettömyydestä ei hirvittävän paljon kyllä keskusteltu, ja se jäi aika vähälle huomiolle.
+Sinänsä oli erittäin arvokas puheenvuoro nyt, kun toitte esiin tämän esteettömyyden myös
+näissä verkkopalveluissa, joista osa on erittäin hankalia. Otitte esille veropalvelun sivut.
+Viime viikolla itse kävin siellä, ja ei meinannut tulla yhtään mitään, kun en meinannut löy-
+tää sitä, mitä sieltä hain.
+
+14.12 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa rouva puhemies! Halusin
+oikeastaan ihan lyhyesti ja keskitetysti puheenvuorossani keskittyä vain ikääntyneisiin —
+tietysti luotin siihen, että edustaja Heinonen nostaa tämän älykkäänä miehenä esille ja laa-
+jentaa keskustelua, niin kuin hän aina tekee. Mutta nämä ikääntyneet ihmiset ovat tällä het-
+kellä niin suuri joukko, joka oikeasti yrittää pysyä mukana, on hyväkykyisiä, toimintaky-
+kyisiä, jotka asuvat yksin mutta joilta nämä digitaaliset taidot eivät vain onnistu, niin että
+sen takia tämä on erittäin tärkeä asia nostaa keskusteluun.
+
+14.13 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Kiitos valio-
+kunnan puheenjohtajalle, että hän vastasi ja itse asiassa vähän otti koppia tästä asiasta. Itse
+toivon, että me ottaisimme kaiken kaikkiaan kaikissa näissä uudistuksissa, missä digitali-
+saatioon nyt laitetaan panoksia, tämän verkkoesteettömyyden aivan uudella tavalla esille.
+Ja kun eduskunnassa olemme ja meidänkin verkkosivuillamme paljon ihmisiä käy ja kun
+sieltä löytyy kyllä eri kieliversiot, niin voisiko sieltä löytyä jatkossa myös sellainen estee-
+tön, helppo, yksinkertainen tie — se ei välttämättä tarkoita siis selkokieltä, mutta se voi
+olla myös siihen suuntaan menevä, mutta ennen muuta sellainen yksinkertainen tie — löy-
+tää ne tärkeimmät asiat? Eduskunta voisi Suomi 100 -juhlavuonna olla tässä myös suun-
+nannäyttäjä kaikille muille, Kelalle, verotoimistolle ja muille, jotka toimivat verkossa: oli-
+simme niin kuin tiennäyttäjiä siinä, että verkkokin voi olla esteetön, ja tämä siis tarkoittaa
+kaikkia netinkäyttäjiä. Meillä monet palvelut ovat monin verroin liian hankalia.
+
+14.14 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Edustaja Heino-
+nen ja edustajakollega Laukkanen puhuivat verkkoesteettömyydestä. Näin sen pitää olla,
+että viranomaisten kanssa asioidessa kynnyksen pitää olla mahdollisimman alhaalla.
+
+Toinen näkökulma, mikä jatkuvasti nousee esiin, on puheluiden maksullisuus, kun soi-
+tetaan viranomaisille. Ja nimenomaan sellaiset tilanteet ovat kohtuuttomia, joissa asiakas
+joutuu jonottamaan kymmeniä minuutteja, joissain tapauksissa toista tuntia, ja jonotusaika
+on maksullista. Ymmärtääkseni myös oikeusasiamies on ottanut tähän kantaa, että näin ei
+pitäisi olla, ja tähän haluan kiinnittää tässäkin yhteydessä huomiota.
+
+14.15 Sirkka-Liisa Anttila kesk (vastauspuheenvuoro): Arvoisa puhemies! Täällä on jo
+useammassa puheenvuorossa ihan oikein peräänkuulutettu sitä, että pitää ottaa huomioon
+myöskin se useamman sadantuhannen ihmisen joukko, jolla ei ole itsellään suoraa valmiut-
+ta käyttää verkkopalveluja. Ja silloin pitää ottaa huomioon myöskin se, että kirjastojenkin
+kautta voidaan tarjota, koska tärkeintähän tässä on se, että löytyy järjestelmä, joka toimii
+jokaisessa kunnassa, jotta jokaisella olisi mahdollisuus se palvelu sieltä saada ja mielel-
+lään sitten opastusta ja ohjeistusta sen palvelun käyttöön.
+
+Sitten kysymys näiden erilaisten palvelujen maksullisuudesta. Tämä on asia, joka pitäi-
+si kattavasti nyt sen takia selvittää, että me olemme menossa enenevästi tilanteeseen, jossa
+3
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+ihmiset joutuvat jonottamaan. Kela-taksi on yksi hyvä esimerkki: kun sitä useamman ker-
+ran joutuu soittamaan, niin hyvin helposti puhutaan lähes 10 euron maksuista. Eli pitäisi
+tehdä kattava selvitys, ettei käytetä väärin tätä palvelujen maksullisuutta, varsinkin sen ta-
+kia, että siellä joutuu odottamaan sitä palvelua ja jonottamaan ja silloin se maksaa enem-
+män.
+
+14.16 Eero Heinäluoma sd (vastauspuheenvuoro): Arvoisa puhemies! Yhdyn kokeneen
+edustaja Anttilan huoleen tästä yksinomaan nettipalveluihin satsaamisesta. Meillä on mon-
+ta esimerkkiä siitä, että nämä nettipalvelut eivät ole vielä kaikkien jokapäiväistä elämää.
+Otan yhden esimerkin Helsingistä: Helsingin Vuosaaren terveyskeskus vaihtoi puhelinpal-
+veluista kertaheitolla nettiasiointiin. Seurauksena oli, että järjestelmät eivät toimineet. Oli
+monta viikkoa tilanne, että tavalliset ihmiset eivät saaneet normaalilla tavalla yhteyttä lää-
+käriin, suurta huolta siitä, miten terveysasiat hoituvat, eikä se ole vieläkään kokonaan kun-
+nossa, vaikka korjausliikkeitä on monta kuukautta tehty.
+
+Me tiedämme, että näitä suunnitelmia on muitakin. Myös työvoimapalveluja, työllisyys-
+palveluja ollaan siirtämässä nettiin. Jopa sanktiotoiminta aiotaan siirtää nettiin niin, että
+automaattisesti koneet määrittävät sanktion, ellet ole nettiin täyttänyt ja kertonut joka päi-
+vä, mitä olet tehnyt.
+
+Netti on ilman muuta osa palvelua, mutta yksin sen varaan ei pidä rakentaa.
+
+14.17 Mikko Kärnä kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Tässä ovat
+edustajakollegat käyttäneet kyllä erinomaisia puheenvuoroja, ja nimenomaan tämä verkon
+esteettömyys on todella tärkeä asia, joka täytyy ottaa huomioon kaikessa toiminnassa, kun
+suunnitellaan viranomaisten järjestelmiä.
+
+Haluan kuitenkin nostaa vielä esille erään näkökulman, noin tuolta lappilaisesta pers-
+pektiivistä. Meillä mennään ja viedään vahvasti palveluita verkkoon, mutta siltikin meillä
+on vielä tässä maassa alueita, joissa ei ole riittävän kattavia tietoliikenneyhteyksiä raken-
+nettu. Eli siinä vastaavasti, kun kehitetään esteettömyyttä, täytyy varmistaa se, että saa-
+daan myös tähän laajakaistarakentamiseen vauhtia. Ja olisi kyllä hieno juttu, jos näin sata-
+vuotiaan Suomen kunniaksi voidaan sitoutua siihen, että jossakin tietyssä aikamääreessä
+kaikille suomalaisille tarjotaan kotiin se kattava laajakaistayhteys, että se on mahdollista
+hankkia kohtuuhintaan.
+
+14.18 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Aivan
+erinomaista keskustelua. Kun nettipalveluita lisätään, se johtaa vääjäämättä siihen, että jot-
+kut siitä hyötyvät paljon elikkä ne, joilla on nopeat laajakaistayhteydet käytössä, ja sitten
+armotta ne, joilla ei tätä mahdollisuutta ole, tippuvat pois. Olin tuossa aamupäivällä yhtey-
+dessä erään asian tiimoilta, jossa olisi pitänyt nimenomaan olla nettiyhteys, ja yritin puhe-
+limella saada ihmistä kiinni. Nettiyhteys totta kai oli olemassa, mutta puhelimella ei ihmis-
+tä saanut millään kiinni. Elikkä me olemme siinä tilanteessa jo aika pitkälti Suomessa tänä
+päivänä, että nettipalvelut hallitsevat markkinoita ja sen aidon, palvelevan ihmisen löytä-
+minen sieltä toisesta päästä on äärimmäisen vaikeaa.
+
+Tämän takia eduskunnan pitää ottaa tämä vakavasti ja vaikka nyt jo näissä neuvotteluis-
+sa, mitä parhaillaan käydään, puolivälineuvotteluissa, pyrkiä siihen, että Suomen eduskun-
+ta antaa selkeät määrärahat nopeiden laajakaistayhteyksien rakentamiseksi koko Suo-
+meen. Tästä on monia hyviä asiakirjoja tässä talossa tehty, mutta sitä isoa läpimurtoa ei
+4
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+vielä ole saatu aikaiseksi, että kaikkialle aidosti ruvetaan laajakaistayhteyksiä rakenta-
+maan valokuitutekniikkaan perustuen.
+
+14.19 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa rouva puhemies! Mielestäni
+on hyvä, että tätä keskustelua on laajennettu myös puhelinpalveluiden osalle. Kyllä tämä
+aika karmea esimerkki on siitä, että tämmöisessä tilanteessa meillä Kela ei ole pystynyt
+reagoimaan siten, että puhelinjonottaminen näiden palveluiden saamiseksi ei olisi maksul-
+lista. Tämä tuntuu härskille, että tämä meidän oma kansallinen päätöksenteko, josta vähä-
+varaisten ihmisten tuet ovat kiinni, tällä hetkellä rahastaa niitä, jotka kaikkein eniten ovat
+tukien tarpeessa.
+
+Toki meillä on vähän muutakin jälkeenjääneisyyttä. Lainsäädäntö on tullut nyt velvoit-
+tavaksi niin, että pankkien on annettava pankkitunnukset. Mutta tällä kertaa esimerkiksi
+meidän kotimainen Osuuspankki-konserni ei vieläkään pysty toimittamaan maksuhäiriö-
+merkintäisille ihmisille pankkitunnuksia, kun järjestelmä ei jollakin lailla ole kunnossa.
+Vaikka meillä on ollut tiedossa, että tämä lainsäädäntö tulee velvoittamaan pankkeja, niin
+edelleen meillä on satojatuhansia ihmisiä, joilla ei ole pankkitunnuksia, jotta he voisivat
+asioida nettiyhteyksien kautta.
+
+14.20 Harri Jaskari kok (vastauspuheenvuoro): Arvoisa puhemies! Olisin vain toisen-
+kin puolen halunnut tähän tuoda esille: Totta kai on nämä ongelmat, että kaikkien pitäisi
+päästä näihin palveluihin, ja palvelut täytyy tarjota, mutta meidän täytyy nähdä myöskin ne
+mahdollisuudet. Nyt esimerkiksi joissain rakennusluvissa tai vastaavissa tämä homma voi
+nopeutua huomattavasti, kun päästään sähköisiin lupakäytäntöihin ja vastaaviin. Myöskin
+työvoimapalveluissa osa porukoista varmaan pystyy näkemään, että suunnilleen näkyy ko-
+keiluna ja karttapuolella, mistä työpaikkoja löytää. Eli kannattaa käyttää myöskin nämä
+hyvät puolet, mitä sieltä on löydettävissä. Mutta tietenkään se ei voi olla ainoa palvelu nii-
+den osalta, jotka eivät pysty sitä käyttämään. Siihenkin liittyy sekä infrarakentamista että
+koulutusta, että pystyisi entistä helpommin tekemään. Siihen liittyy myöskin tietoyhteis-
+kunta-ammattilaisten näkökulma, että pitäisi tehdä sellaiset käyttöliittymät, joita on todel-
+la helppoa käyttää eikä monimutkaista.
+
+Puhemies Maria Lohela:  Vielä vastauspuheenvuoro, edustaja Heinonen, ja sitten men-
+nään puhujalistaan.
+
+14.21 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Tästä kes-
+kustelusta nyt ehkä sai vähän sen kuvan, että tässä edistettäisiin pelkästään tätä digitaalista
+puolta. Itse halusin sen nostaa sen takia esille, että olen huolissani siitä verkkoesteettö-
+myysasiasta. Mutta tässä hallituksen esityksessähän nimenomaan nyt halutaan vastata nii-
+hin ongelmiin, mitkä edustaja Heinäluomakin esille nosti, että kaikilla ei ole niitä yhteyk-
+siä ja mahdollisuuksia, eli halutaan turvata niiden henkilöiden asiointitarpeet, jotka eivät
+osaa tai joilla ei ole teknisiä mahdollisuuksia hoitaa asiointiaan yksinomaan sähköisten
+palveluiden avulla. Eli nimenomaan halutaan vastata siihen. Mutta kun ne sähköiset palve-
+lut ovat osana siinä — ja olen edustaja Jaskarin kanssa täysin samaa mieltä, että ne ovat ter-
+vetulleita vaikkapa erilaisiin rakennuslupiin ja muihin — niin pitää niidenkin olla yksin-
+kertaisia ja sielläkin tämä verkkoesteettömyys ottaa esille.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+Puhemies Maria Lohela:  Ja vielä edustaja Katainen, vastauspuheenvuoro.
+
+14.22 Elsi Katainen kesk (vastauspuheenvuoro): Arvoisa puhemies! Tässä kollegat ovat
+käyttäneet ihan ansiokkaita puheenvuoroja koskien laajemmin sitä palveluitten kirjoa, tai
+sen puutetta, mitä erityisesti harvaan asutuilla seuduilla on. Nythän on kyse nimenomaan
+yhteispalvelupisteistä tällä kohtaa elikkä siitä verkostosta, minkä toivotaan laajenevan sil-
+lä tavalla, että myöskin maaseudulla olisi mahdollisuus päästä samojen palveluitten äärel-
+le kuin muuallakin. Tällä hetkellähän tuo palveluitten verkosto on harmillisen harvaa. On
+maakuntia, joissa vain yhdessä kunnassa esimerkiksi on yhteispalvelupiste. Toki tämä äs-
+ken keskusteltu asia laajentaa, mutta esimerkiksi puutteelliset laajakaistayhteydet ovat
+vain yksi syy, miksi se on mahdotonta ihmisten saavutettavuuden näkökulmasta.
+
+Puhemies Maria Lohela:  Sitten listalla vähän eteenpäin.
+
+14.23 Kari Kulmala ps: Arvoisa rouva puhemies! Hallituksen esityksessä ehdotetaan
+muutettavaksi julkisen hallinnon yhteispalvelusta annettua lakia. Tämä esitys perustuu ny-
+kyisen kaltaiselle viranomaisten sopimusperusteiselle yhteistyölle. Esityksellä on erin-
+omaiset tavoitteet, ja toivonkin, että ne toteutuvat mahdollisimman pian. Esityksen tavoit-
+teena on nimittäin edistää julkisen hallinnon viranomaisten asiakaspalvelun saatavuutta
+yhdenvertaisesti koko maassa sekä parantaa viranomaisten toiminnan tehokkuutta. Tässä
+on hallitukselle haastetta riittämiin, mutta uskon, että se siinä lopulta onnistuu.
+
+Esityksessä ehdotetulla lailla julkisen hallinnon yhteispalvelusta annetun lain muuttami-
+sesta on tarkoitus päivittää yhteispalvelujärjestelmää, niin että sen avulla voitaisiin edistää
+nykyistä paremmin viranomaisten asiakaspalvelujen saatavuutta koko maassa. Viran-
+omaisten omat toimipisteverkot ovat parin viimeisen vuosikymmenen aikana harventu-
+neet merkittävästi, ja viranomaisilla on edelleen taloudellisuuden ja tuottavuuden vaati-
+musten kasvaessa tarpeita verkostojensa supistamiseen. Minulle viimeisimpänä uutisena
+on tullut, että Outokummun pieni poliisiasema Pohjois-Karjalassa tyhjenee poliiseista
+1.9.2017 alkaen. Onneksi lupapalvelut sinne jäävät, mutta seuraavaksi on lakkautuslistalla
+Ilomantsi. Nämä päätökset vievät osaltaan eteenpäin poliisipäällikön pitkäaikaista tavoitet-
+ta, että Itä-Suomen poliisilaitoksen alueella olisi vain kolme poliisiasemaa: Mikkeli, Kuo-
+pio ja Joensuu. Tämä varmasti kohta toteutuu, vaikka se on törkeää alueella asuvien aliar-
+vioimista. Joka tapauksessa on erittäin tärkeää pitää yhteispalvelu täydentävänä kanavana,
+tarjota viranomaisten asiakaspalvelut myös tulevaisuudessa yhdenvertaisesti koko maas-
+sa, myös Ilomantsissa.
+
+Tällä esityksellä pyritään tukemaan hallitusohjelman mukaista digitalisaatiokehitystä ja
+mahdollistamaan riittävän asiointipisteverkon kustannustehokas ylläpitäminen luomalla
+puitteet valtion ja kuntien asiakaspalvelutehtävien hoitamiseksi yhteispalveluna. Pidän hy-
+vänä, että erityisesti yhteispalvelujärjestelmään ehdotetuilla muutoksilla voidaan osaltaan
+turvata niiden henkilöiden asiointitarpeet, jotka eivät osaa tai joilla ei ole teknisiä mahdol-
+lisuuksia hoitaa asiointiaan yksinomaan sähköisten palvelujen avulla.
+
+Arvoisa rouva puhemies! Tällä hetkellä voimassa olevaa sääntelyä ehdotetaan täsmen-
+nettäväksi siten, että voitaisiin nykyistä paremmin varmistaa omakustannusperiaatteen to-
+teutuminen yhteispalvelun järjestämisestä aiheutuvien kustannusten jaossa toimintaan
+osallistuvien viranomaisten kesken. Ehdotetulla lailla kehitetään ja monipuolistetaan lu-
+pausten mukaan yhteispalvelun toimintatapoja ja palvelukeinoja. Laissa ei kuitenkaan eh-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+doteta säänneltävän sitovasti siitä, mitä viranomaisten palveluja yhteispalvelupisteen pal-
+veluvalikoimaan sisältyy. Ehdotus perustuu nykyisen kaltaiselle viranomaisten sopimus-
+perusteiselle yhteistyölle, jossa myös palveluvalikoima määräytyy sopimuskohtaisesti.
+Esityksen mukainen malli mahdollistaisi palvelujen tarjoamisen joustavalla tavalla asiak-
+kaiden tarpeista lähtien ja paikalliset olosuhteet huomioon ottaen. Erityisesti tämä kohta on
+parasta, mitä tässä esityksessä on. Toiminnan tulee olla tulevaisuudessa joustavaa ja asiak-
+kaiden tarpeista lähtöisin, ei viranomaisten. Pidän myös hyvänä, että esityksen mukaisten
+säännösehdotusten hyväksyminen ja täytäntöönpano voidaan toteuttaa itsenäisesti eikä
+niillä ole välitöntä riippuvuussuhdetta tulevaan maakuntauudistukseen.
+
+14.28 Anne Kalmari kesk: Arvoisa rouva puhemies! Palvelujen saavutettavuus on yksi
+keskeisiä palvelun suhteen määriteltäviä asioita. Jos palvelu on liian kaukana, se ei oikeas-
+ti ole palvelu, jota voidaan käyttää. Siksi on hyvä, että yhteispalvelupisteet voivat tuoda
+parhaimmillaan jo karanneitakin palveluita lähelle ihmistä.
+
+Meillä kotipitäjässäni Kivijärvellä oli yhteispalvelujen etäpalvelukokeilu, jossa niin Ke-
+lan, verottajan, työvoimahallinnon kuin poliisin lupapalveluita sai etäpisteestä. Jo muuta-
+man viikon jaksossa huomattiin, että kymmenientuhansien kilometrien ajot asiakkailta vä-
+henivät, eli se oli myös asiakkaan säästö ja ilmaston kannalta erittäin positiivinen asia. Kui-
+tenkin näissä lupapalvelupisteissä on noussut vähän ongelmaksi se, että kunnat ovat koke-
+neet, että he joutuvat omalla kontollaan hoitamaan asiakkaitten asioita, koska jonkunhan
+siellä päässäkin täytyy olla neuvomassa. Toki oli tässäkin videoyhteysmahdollisuuksia, ja
+joskus voi viranomainen tulla aivan paikan päällekin, kuten esimerkiksi poliisipalveluissa
+Pihtiputaalla on tehty.
+
+Mutta kustannusten jako ei ole ollut erityisen selvää, ja siksi mielestäni on hyvä, että tätä
+nyt selvennetään ja kunnat eivät joudu niin paljon vastaamaan tulevaisuudessa sitten etä-
+palvelupisteitten säilyttämisestä.
+
+14.30 Elsi Katainen kesk: Arvoisa rouva puhemies! On hyvä, että tämä jo pitkään val-
+mistelussa ollut esitys tällä tavalla taas hieman saa potkua eteenpäin. Pidän hyvin tärkeä-
+nä, että näitä yhteispalvelupisteitä kehitetään niin, että kaikilla suomalaisilla on yhtäläiset
+mahdollisuudet saada palveluita ihan aidosti.
+
+Pelkkä yhteispalvelupisteen nopea nettiyhteys ei kuitenkaan riitä, vaan tarvitaan erittäin
+paljon sähköisten palveluiden käytön neuvontaa ja tukea, ja siihen on myös panostettava.
+Myös palveluneuvojien osaamista ja näitä teknisiä järjestelmiäkin on kehitettävä. Tällai-
+nen kohtuullinen saavutettavuus pystyttäisiin näin takaamaan, ja siksi olisikin erittäin tär-
+keää, että kaikki viranomaistahot myöskin sitoutuisivat tähän hankkeeseen ja palveluitten
+tuomiseen yhteispalvelupisteisiin. Huomiota on tietysti kiinnitettävä erityisesti ikäihmi-
+siin, syrjäisiin seutuihin ja myöskin henkilökohtaiseen neuvontaan.
+
+Valiokunnassa oppositio on erityisesti kantanut huolta siitä, miten tämä hanke suhtau-
+tuu maakuntauudistukseen. Nyt on kuitenkin hyvä huomioida se, että tätä lakia ja näitä jär-
+jestelmiä on kehitetty sillä tavalla, että ne ovat aivan kelpoja myöskin tämän maakuntauu-
+distuksen jälkeen, joten uskon, että tämä on hyvä hanke viedä eteenpäin esitetyllä tavalla.
+
+14.31 Sirpa Paatero sd: Arvoisa rouva puhemies! Yhteispalvelupisteajattelu ja se lähtö-
+kohta ja se, mitä on vuosia tehty, ovat erittäin hyviä asioita. Me olemme monella paikka-
+kunnalla nähneet sen tarpeeksi, että kuntien ja valtion palveluita on saatavilla samasta pai-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+kasta, ja ihan ehdottomasti olen samaa mieltä, että niitten palveluiden järjestämisessä on
+kehitettävää, jotta ne palvelisivat yhä paremmin.
+
+Täällä mietinnössä on lause, jossa lukee, että "yhteispalvelulla pyritään tukemaan digi-
+talisaatiokehitystä ja mahdollistamaan tehokas ja kattava asiointipisteverkosto luomalla
+puitteet valtion ja kuntien asiakaspalvelutehtävien hoitamiseksi yhteispalvelun asiakaspis-
+teissä". Kyllä, tästä olemme samaa mieltä. Mutta kun katsoo vaikkapa Kuntaliiton lausun-
+toa, niin siellä aika suorasanaisesti kerrotaan, että tämä esitys ei vastaa nykytilan haastei-
+siin eikä esityksen tavoitteisiin siitä syystä, että tässä ei kerrota mitään siitä, miten luodaan
+palveluiden tasa-arvoinen saatavuus koko maahan — siihen ei tule muutosta — tai miten
+huolehditaan valtion palveluiden saamisesta lähelle tilanteissa, joissa kunta ei perusta sitä
+asiointipistettä. Tämä oli siis Kuntaliiton lausunnosta, mikä meidän mielestämme oli aika
+merkittävä. Jos me ajattelemme, että palveluja parannetaan, niin tällä lailla ei kuitenkaan
+paranneta siltä osin, että ne tasa-arvoisesti tulisivat paremmiksi ympäri Suomea, vaan pa-
+rannetaan niillä alueilla, joilla ne yhteispalvelupisteet sattuvat nyt sitten — ehkä jonkun
+kunnan aktiivisuudesta johtuen — olemaan, vaikka tietenkin on hyvä, että ne paranevat sil-
+lä osuudella.
+
+Me olemme tähän vastalauseeseen, joka siis esittää hylkyä, lähteneet siitä syystä, että
+vaikka tässä on kyse sisällöstä eikä niinkään sen toiminnan organisoinnista, niin järjestään
+kaikki ne asiantuntijat, jotka meillä olivat kuultavina valiokunnassa, jotka toimivat ja työs-
+kentelevät yhteispalvelupisteissä ja pitävät niitä käynnissä — olivat he siten avien,
+maistraattien, maakuntaliittojen, kaupunkien, TE-keskusten tai muiden työntekijöitä —
+olivat sitä mieltä, että tämä on kohtuuton hallinnollinen lisärasite, siksi että he kuitenkin
+koko ajan miettivät, mitenkä sen maakuntahallinnon aikana tätä asiaa pitäisi hoitaa. Elikkä
+nyt tehtäisiin lainsäädäntö, joka olisi sitten voimassa 22 kuukautta, ja koko sen ajan tämä
+sama porukka jo miettisi, mitenkä siinä maakuntahallinnon aikana tätä järjestetään, koska
+silloin tämäntyyppisiä yhteispalvelupisteitä, mitä nykyisin on, ei enää samalla tavalla jär-
+jestetä. Tästä syystä meidän mielestämme ei ole kohtuullista, että se porukka, joka nyt pal-
+velee niitä ihmisiä ja tekee maakuntauudistusta, vielä muuttaisi toimintatapaansa tämän 22
+kuukauden aikana uudella tavalla.
+
+Elikkä tämän Kuntaliiton lausunnon perusteella, että tasa-arvoiset palvelut eivät lisään-
+ny, ja siksi, että henkilökunta joutuu näitten yhteispalvelupisteiden sisällä kohtuuttomaan
+työrasitukseen, hallintoa, hallinnollista taakkaa tulee lisää, olemme joutuneet tekemään
+tämä hylkäysesityksen.
+
+Kehittämistä siis on, ja esimerkiksi Mikkelin kunnan — muistaakseni Mikkelin — puo-
+lelta tuli esitys, mitenkä tätä voitaisiin kehittää. Nyt jos nämä maakunnat tulevat, niin meil-
+lä pitäisi sitten olla samanlainen palveluarkkitehtuuri kunnan, maakunnan ja valtion puo-
+lella, jotta meidän järjestelmät olisivat yhteensopivia, jotta se käyttäminen olisi helpom-
+paa. Ja tätä pitäisi kehittää, ei niinkään pelkästään miettiä sitä, tässä kohtaa, miten ne digi-
+taaliset palvelut sitten ihmisille saadaan. Se on tärkeätä, kyllä, mutta tämä arkkitehtuuri ei
+tällä hetkellä palvele oikeasti sitä tavoitetta, kun tämä kokonaisuus on levällään.
+
+Tämä siis esittelynä tälle vastalauseelle.
+
+14.36 Lasse Hautala kesk: Arvoisa rouva puhemies! Koko 2000-luku on kehitetty yhteis-
+palvelupisteitä ja niiden palveluvalikoimaa ja niin tehdään tässäkin lakiehdotuksessa. Tuo
+meidän edustaja Paatero tuossa hylkäysesityksessään kiinnitti huomiota Kuntaliiton lau-
+suntoon, jossa epäillään sitä, että tasa-arvoiset palvelut eivät lisäänny. Riippuu nimen-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+omaan siitä, jos kunta ei perusta yhteispalvelupisteitä, ja näkisin, että on kuntien velvolli-
+suus huolehtia kuntalaisten tasavertaisista palveluista ja perustaa niitä pisteitä. Siitä on ky-
+symys, eli tarvitaan huolenpitoa ihmisten palvelujen saatavuudesta. Yhteispalvelulain kes-
+keisimpänä tavoitteena on turvata kansalaisten asiointipalvelut koko maassa ja tarjota näi-
+tä julkisen hallinnon viranomaispalveluja keskitetysti yhdestä paikasta. Niitä on perustettu
+moniin, moniin kuntiin, ja ne ovat toimineet tavattoman hyvin, niin että myöskin pienem-
+millä paikkakunnilla on ollut mahdollisuus näitä palveluja saada.
+
+On selvää, että maakuntauudistuksen myötä tarve näille yhteispalvelupisteille tulee kas-
+vamaan ja niihin palkattavien henkilöiden osaamiseen tulee kiinnittää erityisen suurta huo-
+miota niin, että he kykenevät sitten ihmisiä näissä asioissa auttamaan. Tämän lakiesityksen
+sisältöön liittyy aivan uusi toimintamalli, jossa sähköiset palvelut on haettavissa asiakas-
+päätteellä, etäpalvelut kuvayhteyden avulla eri viranomaisiin, ja sitten on myös tämä pal-
+veluneuvojan kanssa tapahtuva asiointi ja myös se, että paikan päälle tulee viranomaisia
+hoitamaan näitä asioita. Mutta erityisen tärkeää on se, että ihmisten, palvelupisteiden vetä-
+jien, osaamiseen kiinnitetään huomiota. Se on ihan ratkaisevaa yhteispalvelupisteiden toi-
+minnan kannalta.
+
+14.38 Mikko Kärnä kesk: Arvoisa rouva puhemies! On selvää, että tässä esityksessä pa-
+rannetaan tätä nykytilaa merkittävällä tavalla. Erityisen iloinen olen siitä, että nyt tähän oi-
+keudenmukaiseen kustannustenjakoon on kiinnitetty huomiota. Se on ollut monessa kun-
+nassa vakava ongelma. Esitys täsmentää nyt tätä asiaa. En nyt myöskään jaa edustaja Paa-
+teron näkemystä siitä, etteikö tämä laki lisäisi näitten palveluiden saatavuutta ja myös sitä
+joustavuutta niiden järjestämiseen. On aivan selvää, että tämä asia on hyvin pitkälti kunti-
+en aktiivisuuden varassa, mutta itse näen niin, että emme voi myöskään kunnille alkaa sää-
+tämään uusia velvoitteita tässä taloudellisessa tilanteessa, vaan sen täytyykin olla kuntien
+omalla vastuulla, millä tavalla tätä yhteispalvelua järjestetään. Kuten vanha suomalainen
+sananlaskukin sanoo: askel askeleelta portaita kiivetään. Itse näen niin, että emme voi nyt
+jättää tätä lakia hyväksymättä ja järjestää sitä kautta jotakin 22 kuukauden taukoa, jolloin
+meillä ei olisi mitään pohjaa sille kehittämiselle. Tämän lain myötä luodaan pohja myös
+sille, miten aikanaan maakuntauudistuksessa yhteispalvelua siellä alueella järjestetään.
+
+14.39 Sari Essayah kd: Arvoisa rouva puhemies! Kun kristillisdemokraateilla ei ole hal-
+lintovaliokunnassa jäsentä, niin olen yrittänyt tässä tämän mietinnön ja myöskin vastalau-
+seen kautta päästä sisälle siihen, millä tavoin tässä nyt sitten todellisuudessa tätä yhteispal-
+velupistetoimintaa parannetaan. Ilmeisesti tämä omakustannusperiaate nyt tässä parem-
+min toteutuu, elikkä kuntien tulisi sitten saada korvauksensa siitä, mitä tällä hetkellä jär-
+jestävät, mutta jos ymmärsin edustaja Paateroa oikein, niin kuitenkaan kunnille ei sinällän-
+sä tule mitään uutta velvoitetta järjestää näitä yhteispalvelupisteitä, jos ne eivät niitä tähän-
+kään asti ole laittaneet kuntoon.
+
+Toisena olisin halunnut tiedustella mahdollisilta valiokunnan jäseniltä, joita ehkä vielä
+on täällä salissa, tätä "esteettömyys"-käsitettä. Me olemme puhuneet nyt täällä näistä digi-
+natiiveista ja niistä, jotka ovat digisyrjäytyneitä. Mutta millä tavalla on sitten vammaisten,
+esimerkiksi näkövammaisten, kannalta saavutettavuus näissä palveluissa? Nousiko se esil-
+le näissä kuulemisissa millään tavalla? Onko mahdollisuus saada esimerkiksi puhuttuna
+näitä ohjeita, mitä sitten löytyy eri viranomaisten verkkosivuilta?
+9
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+Kolmantena olisin vielä sitten kiinnittänyt huomiota tähän, kun täällä sanotaan, että laki
+mahdollistaa myös esimerkiksi asiakaslähtöiset, ajanvarauksella tehtävät kotikäynnit.
+Kuinka realistista on todellisuudessa odottaa, kun nyt on hyvä jos yhteispalvelupisteeseen
+saadaan kaikki viranomaiset jonkun tietokonepäätteen taakse, että sitten sieltä voidaan ti-
+lata kotikäyntejä esimerkiksi jonnekin syrjäseudulle? Jos tämä on todellisuutta — se tuli
+joissakin kuulemisissa esille, että tällaisia esimerkkejä on — niin sehän tietysti kuulostaa
+hyvältä, mutta tätä ehkä niin sanotusti soppii eppäillä.
+
+Sitten tämä maakuntalakiin kytkeminen. Täällä nyt kovasti todistellaan sitten tässä mie-
+tinnössä, että tämä on itsenäinen esitys, joka ei sinällänsä ole riippuvuussuhteessa maakun-
+tauudistukseen. Jos näin on, niin ilmeisesti tämä voidaan hyväksyä ihan tällaisenaan il-
+man, että tarvitsee sitten odotella niitä maakuntalakiuudistuksia. Mielellään tästäkin olisi
+kuullut lisää valiokunnan jäsenten kuulemisessa kuulemia näkökantoja.
+
+14.41 Jari Myllykoski vas: Arvoisa rouva puhemies! Ensin pikkusen politiikkaa. Oudol-
+ta kuulostaa, että keskustassa voidaan olla niin paljon eri mieltä: toisaalta edustaja Hautala
+sanoo, että kuntia tämä velvoittaa, ja toisaalta taas sitten edustaja Kärnä sanoo, että toivot-
+tavasti tämä ei velvoita, että ei nyt voida antaa uusia tehtäviä kunnille. Tosiasiassa tällä ny-
+kylainsäädännöllä, jos olen oikein ymmärtänyt, voidaan tätä jatkaa.
+
+Mielestäni tässä kohtaa olisi ollut tärkeämpää valmistautua maakuntauudistukseen ja
+viedä tätä siinä rinnalla ja sen henkilöstön, jota näissä on, voimavarat kohdentaa siihen uu-
+den, tulevan suunnitteluun niin, että se olisi tehty myös valtiovallan kanssa yhdessä. Kyllä
+minulla on henkilökohtaisesti semmoinen unelma, että me olisimme voineet postitoimipis-
+teet liittää tähän niin, että ne olisivat erittäin merkittävä osa yhteispalvelupisteitä, jolloin
+me olisimme pystyneet turvaamaan nyt lakkautuksen uhan alla olevia asiamiesposteja ja
+postipisteitä — jotka on monellakin haja-asutusalueella jo lakkautettu — sillä Posti on kui-
+tenkin tärkeä osa haja-asutusalueitten toiminnallista kokonaisuutta. Sinne oltaisiin voitu
+keskittää lupapalveluita. Nyt meillä tavallaan yhteiskunnasta virtaa rahaa eräälle yksittäi-
+selle norjalaiselle yritykselle, joka toimittaa meidän lupia verovaroin.
+
+Meidän pitäisi tavallaan ottaa haltuun tämä, että yhteiskunnan raha virtaa yhteiskunnan
+omissa kanavissa, kun meillä näitä yhteispalvelupisteitä on, ja kun tämä on hallituksessa ja
+edellisessä hallituksessa hyväksi nähty, että näin edetään, niin nyt oltaisiin vahvistettu pos-
+tien asemaa ja todellakin tuotettu meidän ajokortit ja niin edelleen valtion organisaatiossa
+toimien ja oltaisiin tuettu yhteispisteitten rakennetta myös rahallisesti.
+
+14.43 Markku Pakkanen kesk: Arvoisa rouva puhemies! Yhteispalvelupisteitten kehit-
+täminen on tärkeä asia, ja itse ainakin olin kuuntelevinani edustaja Hautalan puheenvuo-
+ron sillä silmällä, että ei se kunnille lisätehtävävaatimuksena ollut, mutta kunnathan näitä
+yhteispalvelupisteitä järjestävät. Tulevana viikonloppuna on vaalit, tulee uusia valtuutettu-
+ja — onko heillä ajatuksia yhteispalvelupisteitten kehittämisestä? Kyllä minusta tämä on
+asia, minkä pitää koko ajan olla työn alla, eikä tässä kannata varrota tulevaa maakuntaa.
+Sitten se aikanaan siirtyy maakuntaan, ja kunnat ovat edelleenkin silloin vielä yhteispalve-
+lupisteissä järjestäjinä.
+
+Sähköinen palvelu ja laajakaistojen toimiminen koko Suomessa ovat aivan välttämättö-
+miä edellytyksiä sille, että nämä yhteispalvelupisteetkin tulevat siihen tarkoitukseen, mi-
+hin ne on suunniteltu. Niiden saavutettavuus, mikä on täällä monessa puheenvuorossa jo
+tullut esille, vaatii välttämättä hyviä sähköisiä yhteyksiä, ja toivon, että laajakaista-asia
+10
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+Suomessa etenee tässä 100-vuotisessa hengessä, niin kuin täällä on muutamissa puheen-
+vuoroissa toivottu, ja ainakin se laajakaista jokaisesta talosta sen 100 metrin päähän saa-
+daan, niin kuin on ajatuksena.
+
+Ikäihmisten ja vammaisten huomioiminen tässä yhteispalvelupisteitten toiminnassa on
+erittäin tärkeää, ja esteettömyyden määritelmä, on sitten kysymys näkövammaisesta tai lii-
+kuntavammaisesta, on tärkeä asia, ja se tulee huomioida.
+
+Yhtenä asiana, mitä täällä ei ole vielä nostettu keskusteluun, toivoisin, että myös liikku-
+vat yhteispalvelut olisivat asia, mitä voitaisiin kehittää. Kotikaupungissani Kouvolassa
+myös päiväkodit ovat jo liikkuva palvelumuoto. Tulevaisuudessa tämä voisi olla yhteispal-
+velupisteissäkin yhtenä vaihtoehtona, että liikkuvia palveluja kehitettäisiin lisää.
+
+14.45 Lea Mäkipää ps: Arvoisa puhemies! Tässä ei ole kovin suuresta esityksestä kysy-
+mys, ja tämä perustuu nykyisenkaltaiseen viranomaisten sopimusperusteiseen yhteistyö-
+hön.
+
+Tästähän on annettu aikanaan yli sata lausuntoa, ja lausunnonantajat ovat lähes kaikki
+suhtautuneet pääsääntöisesti myönteisesti, mutta sopimusperusteisuuden suurimmiksi on-
+gelmiksi koettiin palveluvalikoiman kirjavuus eri asiointipisteissä ja kustannusten alueel-
+liset ja paikalliset erot. On myös tärkeätä, ettei näitä palvelupisteitä enää vähennetä ja ettei
+niissä käyvien matkat tulisi kohtuuttoman pitkiksi. Ja niin kuin täällä edellinenkin edustaja
+sanoi, tässä ei nyt ehdoteta sitovasti niitä säännöksiä, mitä viranomaisten palveluja yhteis-
+palvelupisteen palveluvalikoimaan sisältyy.
+
+Mielestäni tämä nyt on kaikesta suppeudestaan huolimatta ihan hyvä esitys. Jos tässä sit-
+ten on seurantaa ja jotain puutteita tulee, niin ainahan mahdollisuus on korjata esitystä.
+
+14.46 Sirpa Paatero sd: Puhemies! Edustaja Essayah’lle: koska nyt näyttää, että hallitus-
+puolueet eivät vastaa kysymyksiin, vaikka he tätä tukevat, niin yritän täältä opposition
+edustajana vastata, vaikka vastustan tätä lakiesitystä.
+
+Tähän käytettävyyteen: Meillä ei tämän yhteydessä tullut esiin, mutta meillä on ollut
+hallintovaliokunnassa yleisesti viranomaisten kaiken nettikäytettävyyden osalta EU-lain-
+säädäntö, joka on tulossa ja jonka kautta se tulee, mutta niin kuin tässä äsken esittelin vas-
+talausetta, siellä on tarvetta tähän palveluarkkitehtuuriin saada jotain tolkullista yhtenäi-
+syyttä, jotta meillä ei olisi nämä tulevan maakunnan, kunnan ja valtion arkkitehtuurit kai-
+kissa verkkojärjestelmissä erilaiset ja ihmisten ihan sen takiakin, ihan ilman mitään handi-
+capejakin todella hankala käyttää niitä.
+
+Tässä ei todellakaan tule yhteispalvelupisteitä lisää, ja edustaja Mäkipään esille nosta-
+ma palveluverkkojen moninaisuus ei muutu yhtään mihinkään. Tällä ei vaikuteta mihin-
+kään verkkoihin yhtään mitään. Yhteispalvelupisteet ovat olleet hyvä käytäntö, tuen sitä
+täysin, mutta nyt tässä aikataulussa tällainen muutos ei palvele sitä tavoitetta, mikä tälle on
+asetettu.
+
+Kotikäynteihin ei ollut minkäänlaista esimerkkiä, että semmoista olisi missään tehty.
+Hauska ajatus, koska voisihan se olla, että kun nyt työntekijät muun muassa TE-keskuksis-
+ta ja muista ensin hajotetaan 18 maakuntaan, minkä jälkeen heidän työpanoksensa on jol-
+lekin maakunnalle nolla pilkku jotakin ja he toimivat siellä yhteispalvelupisteessä, niin sit-
+ten joku ihminen ajanvarauksella varaisi semmoisen ihmisen käymään kotonaan, ihana
+ajatus. Kyllä minä tuen siinä kohtaa hallitusta, jos niin tehdään.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+14.48 Ville Vähämäki ps: Puhemies! Hankalia kysymyksiä toki nämä käytettävyysasiat,
+ja pohdinkin tässä sitä, että itse asiassa tämä lakiesityshän toteuttaa Sipilän hallituksen di-
+gitalisaatio-ohjelmaa ja on hyvä esitys sinänsä. No sitten, kun ajattelee näitä sähköisiä pal-
+veluita ja yhteispalvelupisteitä, niin siellä tämä käyttöneuvonta, mitä yhteispalvelupisteis-
+sä voidaan antaa myöskin digipalveluitten osalta, on hyvä asia, ja ehkä tämä vie oikeaan
+suuntaan. Mutta sitten kun katsotaan sitä, minkälaisia mahdollisuuksia meillä on käyttää
+näitä digipalveluita, niin meillähän on kännykkä, iPadit, kannettavat ja tietokoneet ja kai-
+kissa on vähän omat käyttöliittymähaasteensa ihmisille, joten ehkä sinne pitää vielä tehdä
+niitä uudistuksia.
+
+Kokonaisuudessaan sitten, jos ajatellaan niitä kustannuksia, mitä tästä tulee, täytyisi kat-
+soa kokonaisuutena ne koko julkishallinnon kustannukset. Minä luulen, että säästöjä tällä-
+kin tullaan sitten saavuttamaan, kun saadaan ihmiset käyttämään enemmän digitaalisia pal-
+veluita ja myöskin saamaan sitä etäneuvontaa, kuinka näitä palveluita voidaan käyttää.
+
+14.50 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Tässä hallituksen esityksessä ja
+mietinnössä on erittäin paljon hyviä aineita siihen, että siirrymme aidosti ja oikeasti toimi-
+vaan nettipalvelusysteemiin tässä maassa. Tämä digiloikka ei tapahdu tietenkään itsestään-
+selvästi, vaan tämä tarkoittaa sitä — aivan niin kuin täällä valiokunnan mietinnössä lukee-
+kin — että viranomaisen on myös neuvottava näitä ihmisiä. Ei voi olla niin, että ihminen,
+joka ottaa tämmöiset digitaaliset palvelut käyttöön, heti olisi asiantuntija. Omasta koke-
+muksestani voin kertoa, että kun ensimmäisiä kertoja tein metsäveroilmoitusta ja alvi-il-
+moitusta netissä, niin eihän se nyt ihan helppoa ollut, mutta kolmannen kerran jälkeen, kun
+siihen on nyt tottunut, sehän menee ihan helposti.
+
+Mutta varsinkin iäkkäämmälle väestölle tämä on ihan varmasti semmoinen asia, jossa
+tarvitaan neuvontaa ja ennen kaikkea sitä, että valtio kantaa tässä vastuunsa. Valtiohan on
+tässä purkanut. Mehän olemme eduskunnassa tähän asiaan syyllisiä sen takia, että olemme
+purkaneet valtion palvelupisteitä eri puolilta Suomea. Kotikunnastani on lähtenyt Kansan-
+eläkelaitoksen toimisto, työvoimatoimisto, ja sitten vielä verotoimistokin on siellä hyvin
+hyvin typistetysti, ei juuri ollenkaan.
+
+Elikkä valtio on itse aiheuttanut ongelman. Siksi meidän valtion pitää se myös hoitaa,
+antaa riittävät määrärahat, että digitaaliset palvelut ovat tulevaisuutta ja digitalisaatio ete-
+nee, sillehän me emme voi enää mitään, mutta valtion on kannettava vastuu, ja se tulee ni-
+menomaan laajakaistaverkkojen rakentamisen kautta. Muutenhan tämä homma ei onnistu,
+jos ei nopeita laajakaistoja saada syntymään tähän maahan kaikkialle. Tässä meillä on val-
+tiolla vastuu, ja sen takia eduskunnan pitää tämä asia ottaa vakavasti. Seuraavia budjetteja
+tehtäessä toivoisin esimerkiksi EAKR:n rahoja, näitä Euroopan unionista tulevia rakenne-
+rahastojen rahoja, joita on siellä miljoonia kuitenkin. Sen parempaa rakennerahastohanket-
+ta kuin laittaa laajakaistaverkot kuntoon tässä maassa ei ole. Se on kilpailuneutraali kaikil-
+le ihmisille, kaikille yrityksille ja ennen kaikkea pitkäaikainen investointi.
+
+14.52 Ville Vähämäki ps: Puhemies! Vielä ihan lyhyesti kaksi epäkohtaa. Niistä toinen
+tulikin tässä mainittua.
+
+Kelan puhelinpalvelun jonotuksen maksullisuus: Kyllähän tämä on kohtuuton tilanne,
+että sinne joutuvat jotkut henkilöt soittamaan useasti, jonottamaan ja maksamaan siitä, kun
+kysymys on siitä, että pitäisi etuisuuksia ja tietoja sieltä kysellä ja omaa asiaansa edesaut-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 35/2017 vp
+taa, ja sitten joudutaan vielä ostamaan puheaikaa kännykkään, että voidaan nämä asiat hoi-
+taa. Taisi olla edustaja Myllykoski, joka tämän epäkohdan aika hyvin toi esille.
+
+Sitten nostan vielä tällaisen asian kuin alvin maksujen tilityksen ja sen ongelmallisuu-
+den. Monella pienellä toiminimellä on ollut haasteita siinä, kuinka sen tilityksen oikein
+osaa hoitaa ja kuinka ne maksut saadaan sieltä kotikoneelta lähtemään. Kenties näihinkin
+voitaisiin saada joitain apuja.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 188/2016 vp sisältyvän lakiehdotuksen si-
+sällön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+13
+
+

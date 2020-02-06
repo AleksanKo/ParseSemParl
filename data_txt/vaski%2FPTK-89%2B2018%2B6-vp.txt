@@ -1,0 +1,175 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMA2D8.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 89/2018 vp
+
+Täysistunto
+
+Tiistai 25.9.2018 klo 14.00—17.09
+
+6. Hallituksen esitys eduskunnalle laiksi sähkömarkkinalain muuttamisesta ja eräiksi sii-
+hen liittyviksi laeiksi
+
+Hallituksen esitys HE 144/2018 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 6. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään talousvaliokun-
+taan.
+
+Lähetekeskustelua varten varataan enintään 45 minuuttia. Mikäli puhujalistaa ei ehditä
+annetussa ajassa käydä loppuun, asian käsittely keskeytetään ja sitä jatketaan tämän päi-
+vän istunnossa muiden asiakohtien tultua käsitellyiksi. Jos keskustelu asiasta puolestaan
+päättyy ennen sille varatun määräajan päättymistä, siirrytään päiväjärjestyksen seuraa-
+vaan, 7. asiakohtaan.
+
+Keskustelu
+
+16.41 Arto Pirttilahti kesk: Arvoisa puhemies! Käsittelyssä oleva hallituksen esitys kos-
+kee sähkömarkkinalain muuttamista ja eräitä siihen liittyviä lakeja. Tämä lakiesitys luo pe-
+rustan tälle sähkökaupan niin sanotulle datahubille ja sen perustamiselle. Datahubin tarkoi-
+tuksena on olla noin 3,5:tä miljoonaa sähkönkäyttäjää koskeva keskitetty tietovarasto, jon-
+ka kautta sähkön vähittäismarkkinat tulevat toimimaan näillä näkymin vuoden 2021 ke-
+väästä alkaen. Pohjaa tälle datahubille on valmisteltu jo vuodesta 2014 lähtien. Silloin Fin-
+grid yhdessä TEMin kanssa on lähtenyt tätä valmistelemaan, ja sitten on päädytty tähän toi-
+mintamalliin.
+
+Suomihan on ollut edelläkävijä sähkön markkinakilpailutuksessa. Muistaakseni jo
+vuonna 95 sähkömarkkinat avattiin kilpailulle, ja sitten vuosina 96—98 Suomi mahdollisti
+ensimmäisten joukossa kilpailun. Sähkötoimitukset jakeluverkkoihin laajennettiin myös
+tiedonvaihdon mallin avulla, sekä Suomi otti yhtenä prioriteettina käyttöön etäluettavat ku-
+lutusmittarit vuosina 2009—2013. Ja tällä hetkellähän me olemme Suomessa maailman
+kärkeä juurikin näiden etäluettavien mittareiden osalta. Eli tämä on niin kuin hajautettua
+tiedonsiirtoa ollut sähkömarkkinatoimijalta toiselle, ja nyt tässä on tarkoitus keskittää
+nämä sitten Fingridin alaiseen toimintaan, jota tulisi sitten valvomaan myös Energiaviras-
+to. Eli tämä on nyt aikamoinen harppaus, teknologinen harppaus, sähkömarkkinoilla, eli
+ollaan siirtymässä yli 20 vuotta palvelleesta järjestelmästä tähän datahubiin.
+
+Sähkökaupan datahubia koskeva lainsäädäntöhanke on osa Sipilän hallituksen hallitus-
+ohjelman painopistealuetta Biotalous ja puhtaat ratkaisut. Hanke kuuluu hallituksen kärki-
+hankkeisiin eli tähän Hiilettömään, puhtaaseen, uusiutuvaan energiaan kustannustehok-
+kaasti -hankkeeseen, ja se on osa Sipilän hallituksen vuoteen 2030 tähtäävän energia- ja il-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+mastostrategian toimeenpanoa. Datahub-uudistus on hallituksen energia- ja ilmastostrate-
+gian toimeenpanoa, ja se tulee edistämään älyverkkoja ja sähkön kysyntäjoustojen kehittä-
+mistä, mikä parantaa palveluja sekä lisää kustannus- ja energiatehokkuutta. Kysymykses-
+sä on merkittävä teknologinen sähkömarkkinauudistus, jonka vaikutus ulottuu kaikkiin
+jakeluverkoissa toimiviin sähköntuottajiin ja vähittäismyyjiin ja kuluttaja-asiakkaisiin.
+
+Datahub tulee olemaan toiminnallisesti sähkön vähittäismarkkinoiden kannalta kriitti-
+nen palvelu, jossa myös säilytetään ja käsitellään suurta joukkoa asiakkaiden henkilötieto-
+ja, yritysten liikesalaisuuksia ja muuta kaupallisesti tärkeää tietoa. Datahubin tietoverkko-
+riskit on tiedostettu valmistelun alkuvaiheesta lähtien, ja niihin on varauduttu huolella jo
+tähänastisessa valmistelussa. Niihin tullaan panostamaan myös tietojärjestelmähankin-
+noissa.
+
+Jatkossa saamme omat kulutustietomme datahubin palvelun kautta, myös sähkölaskum-
+me tulevat perustumaan näihin selvitettyihin toimitustietoihin. Datahubia voi hyvällä syyl-
+lä kuvata kaikkien suomalaisten omaksi palveluyhtiöksi.
+
+Tuohon taustaluvuiksi: Meillä on tässä todellakin 3,5 miljoonaa asiakasta, sähkönosta-
+jia, sähkönkäyttäjiä. Meillä on noin 80 verkonhaltijaa ja noin 100 sähkönmyyjää. Eli jos ih-
+miset vielä muuttavat alueelta — noin miljoona ihmistä muuttaa vuosittain — niin siitä tu-
+lee muutoksia, plus sitten noin 200 000 henkilöä vuosittain vaihtaa sähköyhtiötä. Eli tämä
+kaikki informaatio tulee olemaan tämän datahubin taustalla. Tässä on taustalla myös se,
+että tässä tullaan sitten sosiaaliturvatunnuksen taakse menemään, niin että pystytään erot-
+tamaan, ja kuten tuossa äsken kerroin, yksi kriittinen tekijä on tämä tiedon kerääminen, ja
+tässä todellakin vakavalla mielellä tehdään tätä, ja on tehty, ja valmistellaan tätä turvajär-
+jestelmää tietoriskien osalta.
+
+Toivon tällä hankkeelle eri hyvää keskustelua meidän talousvaliokunnassa, ja siellä
+kuullaan sitten asiantuntijoita ja otetaan lisätietoja.
+
+16.46 Ville Skinnari sd: Arvoisa puhemies! Kiitos edustaja Pirttilahdelle hyvästä esitte-
+lystä. Valitettavasti ministeri ei itse ole paikalla. Mutta tosiaan talousvaliokunnassa tätä kä-
+sitellään, ja kuten edustaja totesi, tämä koskettaa miljoonia suomalaisia. Siinä mielessä,
+vaikka tämä nyt kuulostaa hyvin teknisluontoiselta, tällaiselta datahub-hankkeelta, kuiten-
+kin on kysymys sellaisen järjestelmän rakentamisesta, joka on hyvin oleellinen ihan samal-
+la tavalla kuin mikä tahansa tietojärjestelmähanke, jossa me suomalaiset emme välttämättä
+viime aikoina ole kovin hyvin onnistuneet.
+
+Mutta syy, miksi minä pyysin puheenvuoron, on lähinnä se, että kuten edustaja Pirttilah-
+tikin on tehnyt, me olemme molemmat Pohjoismaiden tasolla näissä samoissa sähkömark-
+kina-asioissa tehneet viime vuosina paljon töitä. Tietysti niin Ruotsi, Tanska kuin Norja-
+kin tekevät omia ratkaisujaan. Monessa maassa ollaan meitä edellä, ja Ruotsikin on tulossa
+sieltä mukaan. Käytännössä olisin toivonut ministeriltä — hän ei ole nyt tässä paikalla —
+sitä, että nyt kun näitä tietojärjestelmäratkaisuja tehdään, niin meiltä löytyisi myös koti-
+maisia toimittajia tähän tietojärjestelmäpuoleen, ettei meille ehkä kävisi niin vanhanaikai-
+sesti kuin esimerkiksi sote-puolella, jossa me olemme, voisi sanoa, amerikkalaisten softan-
+toimittajien, tietojärjestelmätoimittajien, armoilla ja lopputulokset eivät aina ole olleet ko-
+vin hyviä. Eli siinäkin mielessä toivon, että tämä on myös laaja elinkeinopoliittinen kysy-
+mys, miten näin monen miljoonan ihmisen tietojärjestelmäratkaisu, sähkömarkkinaratkai-
+su, datahub-ratkaisu, tehdään kotimaisin voimin.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 89/2018 vp
+Keskustelu päättyi.
+
+Asia lähetettiin talousvaliokuntaan.
+3
+
+
+	6
+	16.41
+	16.46
+
+

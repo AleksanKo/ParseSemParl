@@ -1,0 +1,583 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMC7D.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 94/2018 vp
+
+Täysistunto
+
+Keskiviikko 3.10.2018 klo 14.01—17.48
+
+11. Hallituksen esitys eduskunnalle korkovähennysrajoitusta koskevan sääntelyn muutta-
+misesta
+
+Hallituksen esitys HE 150/2018 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 11. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään valtiovarainva-
+liokuntaan.
+
+Lähetekeskusteluun varataan enintään 30 minuuttia. Mikäli puhujalistaa ei ehditä anne-
+tussa ajassa käydä loppuun, asiakohdan käsittely keskeytetään ja sitä jatketaan tämän päi-
+vän istunnossa muiden asiakohtien tultua käsitellyiksi. Jos keskustelu asiasta puolestaan
+päättyy ennen sille varatun määräajan päättymistä, siirrytään päiväjärjestyksen seuraa-
+vaan, 12. asiakohtaan.
+
+Keskustelu
+
+16.06 Valtiovarainministeri Petteri Orpo (esittelypuheenvuoro): Arvoisa herra puhe-
+mies! Esittelen eduskunnan käsiteltäväksi hallituksen esityksen korkovähennysrajoitusta
+koskevan sääntelyn muuttamisesta. Esityksen taustalla on komission veronkiertodirektii-
+vi, jota laitamme kansallisesti toimeen tällä esityksellä, ja tavoitteena on ehkäistä veron-
+kiertoa.
+
+Korkovähennysoikeuden rajoittamista koskevaa säännöstä muutettaisiin siten, että ra-
+joitus koskisi myös muille kuin konserniosapuolille suoritettuja korkomenoja. Rajoitusta
+sovellettaisiin myös muun toiminnan tulonlähteen ja maatalouden tulonlähteen verotuk-
+sessa. Korkomenot voisi vähentää täysimääräisesti korkotulojen määrää vastaavilta osin.
+Jos nettokorkomenot ovat verovuonna enintään 500 000 euroa, ne voitaisiin vähentää ko-
+konaan. Nettokorkomenojen ylittäessä mainitun määrän menot voitaisiin vähentää siltä
+osin kuin ne ovat enintään 25 prosenttia verovelvollisen oikaistusta elinkeinotoiminnan tu-
+loksesta. Tästä poiketen muille kuin konserniosapuolille maksettuja nettokorkomenoja
+voisi vähentää 3 miljoonaa euroa. 
+
+Kuten nykyisin, rajoitusta ei sovellettaisi, jos tilanteessa voidaan soveltaa niin sanottua
+tasevapautussäännöstä. Rajoitusta ei sovellettaisi itsenäisiin yrityksiin eikä direktiivissä
+mainittuihin rahoitusalan yrityksiin. Rajoitusta ei sovellettaisi myöskään korkomenoihin,
+jotka liittyvät sosiaaliseen asuntotuotantoon ja joihin voidaan soveltaa lakiin ehdotettua
+siirtymäsäännöstä. Siirtymäsäännöstä sovelletaan korkomenoihin, jotka kertyvät lainoista,
+jotka on otettu ennen 17. päivä kesäkuuta 2016 tai jotka on aktivoitu verotuksessa ennen 1.
+päivää tammikuuta 2019. Direktiivin sallima niin sanottu infrapoikkeus on tällä hetkellä
+valtiovarainministeriössä jatkovalmistelussa. Tämä herätti erittäin paljon kysymyksiä, ja
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+siksi näin, ja se tuodaan eduskunnan käsittelyyn komission kanssa käytyjen keskustelujen
+jälkeen.
+
+Muutosta sovellettaisiin ensimmäisen kerran vuodelta 19 toimitettavassa verotuksessa.
+Ehdotettujen muutosten arvioidaan lisäävän valtion verotuloja vuositasolla noin 10 miljoo-
+nalla eurolla. Tässä implementoinnissa on ollut erittäin tärkeää löytää balanssi korkorajoi-
+tuksen tuomisessa meidän lainsäädäntöön, mutta kuitenkin samaan aikaan toinen puoli on,
+että meidän pitää huolehtia yritysten rahoituksen saannista ja yritysten rahoituksen hinnas-
+ta. Tässä on mielestäni löydetty hyvä kokonaisuus, joka osana muita toimenpiteitä tehok-
+kaasti estää veronkiertoa mutta kuitenkaan ei nosta kohtuuttomasti yritysten rahoituksen
+hintaa.
+
+16.09 Esko Kiviranta kesk: Arvoisa puhemies! On tietysti aika kummallista, että direk-
+tiivillä rajoitetaan niin sanottujen ulkoisten korkojen vähennysoikeutta. Se direktiivi on
+muodossa tai toisessa pantava voimaan ensi vuoden alusta, ja siitä lainsäädännöstähän täs-
+sä nyt on kysymys.
+
+Kuitenkin minusta hallitus on tehnyt hyvää työtä siinä, että muille kuin konserniyhtey-
+dessä oleville osapuolille suoritettujen nettokorkomenojen euromääräinen raja tulee ole-
+maan 3 miljoonaa euroa, eli sen parempaa työtähän hallitus ei olisi voinut tässä asiassa teh-
+dä. Ja sitten tässä on otettu huomioon tuo tasevapautussäännös, se säilyy, ja sitten on van-
+hojen lainojen korkoja koskeva siirtymäsäännös. Eli nämä ovat hyviä asioita. Hallitus on
+tehnyt hyvää harkintaa näissäkin olosuhteissa, ja tietysti on hyvä, että nämä infrapoikkeus-
+asiat ja myös Mankala-yhtiöitä koskeva asia pohditaan tarkemmin, mutta kuitenkin on lu-
+vassa, että siltäkin osin asiat hoidetaan niin kuin ne Suomessa pitää hoitaa.
+
+16.10 Timo Harakka sd: Arvoisa puhemies! Kuten ministeri tuossa juuri äsken totesi,
+Euroopan unioni sääti kesällä 2016 veronkiertodirektiivin, ja nyt reilu kaksi vuotta myö-
+hemmin saamme ensimmäiset kansallisen toimeenpanon lakiesitykset eli esityksen korko-
+vähennysrajoituksen muutoksista. Tästäkin esityksestä tämän kaiken odottelun jälkeen
+puuttuu hyvin tärkeä osio eli juuri se, miten kohdellaan julkisten infrastruktuurihankkei-
+den vähennysoikeutta, ja ennen kaikkea, kuinka kohdellaan suurten voimalaitosten rahoit-
+tamiseksi perustettuja Mankala-yhtiöitä eli omakustannusperiaatteisia julkisinvestointien
+yhteenliittymiä. Nämä kohtalonkysymykset on syytä jokaisen edustajan nyt sisäistää ja toi-
+voa, että hallitus saa vielä kaudellansa puolustettua näitä kansallisesti tärkeitä tulevaisuu-
+sinvestointeja.
+
+Mutta keskitytään nyt siihen, mitä esityksessä on — tai mitä siihen pikemminkin on jää-
+nyt elinkeinoelämän eturyhmien ankaran painostuksen jäljiltä. Nimittäin aikaisempi laki-
+luonnos on vesittynyt monelta osin, ja se näkyy yksin jo veron tuottoarviossa. Lakiluon-
+noksessa yhteenlaskettu verotuoton lisäys oli reilu 100 miljoonaa euroa, tässä esityksessä
+enää alle 20 miljoonasta alle 50 miljoonaan euroon, siis maksettavaksi kuuluvaa veroa.
+
+Suomessahan säädettiin ensimmäistä kertaa korkovähennysrajoituksesta vuodesta 2014
+alkaen, jolloin valtiovarainministeri Jutta Urpilainen toi eduskuntaan esityksen, jolla saa-
+tiin suitsittua sisäisten konsernilainojen kikkailua ja samalla yksin Suomessa kymmeniin
+miljooniin ulottuvaa verovälttelyä. Erityisesti terveyspalveluyhtiöt Mehiläinen ja Attendo
+olivat herättäneet suurta suuttumusta näillä järjestelyillään, jotka näillä korkovähennysra-
+joituksilla saatiin loppumaan. Nykyään kumpikin yritys on näiltä osin aivan hyväksyttäväl-
+lä pohjalla.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+Mutta parannettavaa lakiin toki jäi, kuten silloisen oppositiopuolueen johtaja, keskustan
+johtaja, Juha Sipilä huomautti. Hänhän vaati veronkiertoa kiellettäväksi ja veroparatiiseja
+suljettavaksi, ja olipa jopa niin, että silloinen oppositiojohtaja Sipilä rahoitti koko varjo-
+budjettinsa vain harmaan talouden tuloilla, joita oli kertyvinään 600 miljoonaa euroa. On
+sanottava, että nykyinen oppositio ei ole lähellekään tällaisia tuottoja harmaan talouden si-
+nänsä tärkeistä ohjelmista toivonut, mutta oli toki sitä suurempi yllätys, että Sipilältä ja hal-
+lituskumppaneilta loppui täysin into veronkierron ja aggressiivisen verosuunnittelun suit-
+simiseen. Nopeasti todettuna harmaan talouden määrärahat ensin leikattiin mutta julkises-
+ta paineesta palautettiin, ja sitten oli koko hallintarekisterifarssi, johon on käytetty koko
+tämä eduskuntakausi, eikä vieläkään niitä viimeisimpiä siihen paikkaukseksi liimattuja la-
+keja ole saatu eduskuntaan. Näyttää siltä, että omistusten läpinäkyvyyttä edes hiukan pa-
+rantavat esitykset jäävät seuraavan hallituksen tehtäväksi.
+
+Ja nyt sitten, ikävä kyllä, tämä vesitetty lakiesitys täydentää tämän kehityksen. Keskityn
+nyt tässä vain tähän kaikkein olennaisimpaan vesitykseen, joka on juuri tämä tasevapau-
+tushuojennus, joka heikentää ja joka jo tässä nykyisessäkin esityksessä sivuilla 39—41 to-
+detusti vesittää koko korkorajoitussäännöksen vaikutusta huomattavasti.
+
+Vuonna 2015 noin kolmasosa muutoin vähennyskelvottomasta korkomenosta palautet-
+tiin hakemuksesta tasevapautuksen nojalla. Ja mistä tässä on kysymys? Noin 6—8 prosent-
+tia jää siis saavuttamatta sitä vähennyskelvotonta eli verotettavaa tuloa. Se johtuu siitä, että
+ennen kaikkea silloin, kun joku ulkomainen rahasto ottaa haltuunsa suomalaisen yhtiön ja
+sillä itsellään on mahtava velkavipu, jolla se toimii, niin kun verrataan sitä tytäryhtiön si-
+säistä velkavipua emon velkakäytäntöihin, niin näyttää siltä, että ne ovat samanlaisia yh-
+tiötä, vaikka tosiasiassa tässä on korkokikkailusta kysymys. Silloin ei ole mitään perusteita
+sille, että tämä tasevapautus — joka lakiluonnoksessa oli jo poistettu juuri siitä syystä, että
+se heikentää korkovähennysrajoitusten vaikutusta — tuotiin takaisin nyt tähän hallituksen
+esitykseen. Ja jostain syystä Ruotsi on kuitenkin todennut, että he pärjäävät ilman tällaista
+tasekikkailua.
+
+Palaan tähän aiheeseen vielä seuraavassa puheenvuorossa tarkemmin, mutta sitä ennen
+pyydän ministeri Orpoa yksityiskohtaisesti perustelemaan, mistä tämä muutos johtuu.
+
+16.16 Eero Lehti kok: Arvoisa puhemies! Jäin tänne ihan varta vasten kuuntelemaan
+edustaja Harakan veropohdintaa. Minun mielestäni hän tuntee tätä verotusta kohtuullisen
+hyvin, mutta hyvin valikoivin osin.
+
+Tämä ammattiyhdistysliikkeen sijoitustuottojen verovapaus on sellainen porsaanreikä,
+josta kyllä koko porsaskarsinan porsaat pystyvät menemään, eikä hän ole siitä ollenkaan
+kiinnostunut.
+
+16.16 Timo Harakka sd (vastauspuheenvuoro): Niin, en tiedä mistä syystä edustaja Leh-
+ti siirsi tämän keskustelun ehkä omasta mielestään kiusallisemmasta aiheesta eli siitä, että
+ehdoin tahdoin palautettiin tähän lakiesitykseen se kaikkein merkittävin aggressiivisen ve-
+rosuunnittelun väline, joka oli jo kesällä poistettu.
+
+Mutta mitä tulee ammattiliittojen nauttimaan osinkojen verovapauteen ja ennen kaikkea
+ulkomaisten rahastojen, jotka omistavat Helsingin pörssistä yli puolet, sekä erinäisten sää-
+tiöiden, sosiaalidemokraatit on tässä salissa ainoa puolue, joka on ehdottanut näille kaikil-
+le pientä, maltillista lähdeveroa. Haastan kokoomuksen samaan verotulojen lisäämiseen
+eikä tähän jatkuvaan verotulojen haaskaamiseen. Tällä meidän esityksellämme saataisiin
+3
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+250 miljoonaa euroa lisää verotuloa niiltä osingonsaajilta, jotka eivät nyt maksa lainkaan
+mitään veroa, mikä on epäreilu tilanne piensijoittajien kannalta, jotka maksavat aina vähin-
+tään 25,5 prosenttia, [Puhemies koputtaa] mukaan lukien siis ammattiyhdistysliike. [Eero
+Suutari pyytää vastauspuheenvuoroa]
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Suutari, pyydätte vastauspu-
+heenvuoroa, mutta teillä on myöskin seuraava varsinainen puheenvuoro. Muiden vastaus-
+puheenvuoropyyntöjä ei ole, joten listapuheenvuoro, edustaja Suutari, olkaa hyvä.
+
+16.18 Eero Suutari kok: Arvoisa puhemies! Tämä on kyllä siinä mielessä vastauspu-
+heenvuoro edustaja Harakalle, koska hän puhui paljon siitä, miten tasevertailun perusteel-
+la on jäänyt verotuloja saamatta. Jos ajatellaan, mitä se tasevapautus ja -vertailu tarkoittaa,
+se tarkoittaa sitä, että velallisella ja velan antajalla taseet ovat samanlaisia elikkä yhtä pal-
+jon on suhteessa omavaraisuutta ja yhtä paljon velkaa. Jos tästä olisi vedettävissä johtopää-
+tös, ainakin minusta omalla kokemuksellani on sellainen johtopäätös vedettävissä, että sil-
+loin toinen ei ole taseellisesti jotenkin ylivoimainen toiseen verrattuna eikä pidä toista ve-
+ronkiertomielessä toisenlaisessa asemassa, niin että ainakaan kaikki, ja suurin osakaan, täl-
+laisista lainoista ei ole tehty veronkiertoa tai aggressiivista verosuunnittelua tai muuta sen
+tyyppistä varten, vaan on aitoa liiketoimintaa.
+
+16.19 Timo Harakka sd: Arvoisa puhemies! On tietenkin selvää, että kaikissa tapauksis-
+sa, läheskään kaikissa tapauksissa, kyse ei ole mistään aggressiivisesta verosuunnittelusta,
+mutta tämä on kuitenkin työkalu aggressiiviseen verosuunnitteluun. Luetaanpa nyt tämän
+lakiesityksen perusteluista hiukan tasevapautushuojennuksesta: ”Sen on vaikutusarvioin-
+nissa havaittu supistavan korkorajoitussäännöksen vaikutusta merkittävästi. Verovuonna
+2015 tasevapautushuojennukseen perustuen rahoituksen piiristä vapautui 67 yritystä va-
+pautuneen korkomenomäärän ollessa yhteensä noin 280 miljoonaa euroa eli noin kolmas-
+osa muutoin vähennyskelvottoman korkomenon määrästä. Vaikutusarvioinneissa on las-
+kelmien perusteella arvioitu, että nykyisen tasevapautuksen säilyttäminen merkitsisi sitä,
+että noin 6—8 prosenttia kaikista yhteisöjen nettokorkomenoista vapautuisi rajoituksen
+piiristä. Tasevapautuksen merkitys voisi kuitenkin todennäköisesti muodostua arvioita
+suuremmaksi.” Eli tämä tarkoittaa sitä, että jos on monikansallinen, suuri rahasto, joka toi-
+mii isolla velkavivulla — jolla on siis huomattavan hyvä rahoitusasema — ja se ostaa vaik-
+kapa suomalaisen tytäryhtiön, jolla tällaista vastaavaa rahoitusasemaa ei ole, se luo keino-
+tekoisesti sille yhtä suuren velkakoukun kuin mistä se itse pääsee nauttimaan huomattavas-
+ti edullisemmalla korolla, kun taas tämä tytäryhtiö joutuu maksamaan huomattavasti kor-
+keampaa korkoa.
+
+Mutta se, mikä on poistettu viimeisestä lakiluonnoksesta eturyhmien, elinkeinoelämän,
+lobbauksen jälkeen, kuuluu seuraavasti — tätä ei enää ole lakiesityksessä: ”Säännöksen ta-
+voitteisiin nähden tasevapautussäännön nojalla rajoituksen ulkopuolelle jää huomattava
+määrä korkomenoja, jotka pääsäännön perusteella kuuluisivat rajoituksen piiriin. Huojen-
+nusta on joissakin tilanteissa voitu soveltaa korkomenoihin, jotka on synnytetty veropoh-
+jaa rapauttavalla verosuunnittelulla. Lisäksi säännös on osoittautunut verotuksen varmuut-
+ta ja verovelvollisten yhdenvertaisuutta heikentäväksi. Huojennuksen poistaminen on näis-
+tä syistä tarkoituksenmukaista ja yhdenmukainen toimi yritysveropohjan tiivistämistä kos-
+kevan hallitusohjelman kirjauksen kanssa.” Eli toisin sanoen nyt toimitaan hallitusohjel-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+man vastaisesti, nyt toimitaan Verohallinnon toivomusten ja linjan vastaisesti, nyt toimi-
+taan kestävän veropolitiikan ja aggressiivisen verosuunnittelun suitsimisen politiikan
+vastaisesti sillä perusteella, että tässä elinkeinoelämän etujärjestöt ja suomalaiset yritykset
+ovat ylipuhuneet hallituksen siihen, että ei tämä aggressiivisen verosuunnittelun vastainen
+työ olekaan niin tärkeää. Myöntäkää nyt edes tämä, niin sitten tiedetään, mikä on hallituk-
+sen pitkä linja aggressiivisen verosuunnittelun ja veronkierron vastaisessa toiminnassa. Se
+on nolla.
+
+16.22 Eero Lehti kok: Arvoisa puhemies! Harakka puuttui ihan oikeaan asiaan. Veropoh-
+jan heikentyminen heikentää uskoa siihen, että verotus on oikeudenmukainen. Ja mitään,
+sanoisinko, suurempaa epäoikeudenmukaisuutta minä en tiedä kuin se, että ammattiyhdis-
+tysliike sijoitustoiminnastaan ei maksa mitään veroja siltä osin kuin voittoa syntyy. Ne
+ovat samoilla markkinoilla. Vielä jotenkuten ymmärrän sen, että ammattiyhdistysliikkeen
+jäsenmaksut ovat verotuksesta vapaat, mutta sitä, että heidän sijoitustoimintansa on myös
+verotuksesta vapaa, minun on vaikea tasaveroisuuden periaatteen ja veropohjan kannalta
+ymmärtää.
+
+16.23 Timo Harakka sd (vastauspuheenvuoro): Arvoisa puhemies! Edellisessä vastaus-
+puheenvuorossani nimenomaan kutsuin edustaja Lehteä ja hänen puoluettaan yhtymään
+sosiaalidemokraattien aloitteeseen, joka tulee olemaan myös seuraavassa vaihtoehtobudje-
+tissa, eli pannaan kaikki tällä hetkellä nollaverotetut osingot maltilliselle lähdeverolle. Tätä
+esitti Evan raportissa apulaisprofessori Tomi Viitala, ja hän on esittänyt 250 miljoonan eu-
+ron tuottoarvion. 
+
+Kun saamme lisää verotuottoa, kun veropohja on tiivis, voimme alentaa verokantoja. Se
+on terveen veropolitiikan merkki, ja tätä suosittelen näitten jatkuvien veropohjan puhko-
+misten sijaan tietenkin myös ministeri Orpolle.
+
+Tervetuloa mukaan tähän aloitteeseen, jossa vihdoinkin saadaan verolle ne, jotka eivät
+veroa maksa, ja piensijoittajien suhteellinen asema huomattavasti paranee. Voimme jopa
+laskea osinkoverotusta myös piensijoittajilta. Miltäs tällainen ajatus kuulostaisi?
+
+16.24 Peter Östman kd (vastauspuheenvuoro): Arvoisa puhemies! Mielenkiintoinen kes-
+kustelu, kun lähdetään analysoimaan, mikä olisi oikeudenmukaista verotuspolitiikkaa.
+Kuulimme tässä, että ay-liikkeen ei tarvitse maksaa veroja samalla tavalla kuin muiden yh-
+teiskunnassa olevien toimijoiden. Kaiken lisäksi tällä hetkellä ay-jäsenyysmaksu on vero-
+vähennyskelpoinen, ja ellen muista ihan väärin, niin jos tämä verovähennysoikeus poistet-
+taisiin — mikä olisi minun mielestäni oikea ratkaisu oikeudenmukaisuusnäkökulmasta —
+se toisi valtion kassaan yli 200 miljoonaa euroa. Yli 200 miljoonaa euroa. Kysyisin Hara-
+kalta: oletko valmis myöskin tällaiseen? Nimittäin KD tulee esittämään omassa vaihtoeh-
+tobudjetissaan muutosta tähän nykytilanteeseen.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Nyt, arvoisat edustajat, vastauspu-
+heenvuoroa tähän äskeiseen pyysi edustaja Harakka, ja sen myös saa.
+
+16.25 Timo Harakka sd (vastauspuheenvuoro): Puhemies! Tämä ilmiö tunnetaan eng-
+lanninkielisellä termillä ”whataboutism”, ja se tarkoittaa sitä, että jos joku puhuja sanoo
+käsiteltävänä olevassa asiassa jonkin epäkohdan, niin siihen ei suinkaan vastata sillä, että
+5
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+keskusteltaisiin siitä epäkohdasta, joka tässä käsillä olevassa esityksessä olisi keskustelta-
+vissa, vaan otetaan esille joku toinen, ”entäs sitten tämä asia, mitä vastaatte tähän”, siis
+vaihdetaan puheenaihetta.
+
+Kuten nyt kolmannen kerran sanon, meidän puolueemme on ainoa puolue, joka on val-
+mis ammattiyhdistysliikkeen ja kaikkien muidenkin yleishyödyllisten yhtiöiden ja säätiöi-
+den ja ennen kaikkea ulkomaisten rahastojen osinkoverotukseen puuttumaan. Vastatkaa te
+ensin siihen, lähdettekö mukaan edes tähän ensimmäiseen askeleeseen. Jos teillä, edustaja
+Östman, on tulossa joitain esityksiä, niin kuuluuko tämäkin teidän esityksiinne, niin että
+Suomi saisi [Puhemies koputtaa] osinkoverotuloa niistä firmoista, joista osinkoa makse-
+taan ulkomaille?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, huomaan, että kes-
+kustelu laajenee siitä fokuksesta, mihin tämä hallituksen esitys tähtää. Tosin kaikissa näis-
+sä puheenvuoroissa kysymys on veropohjasta, mutta hivenen sivuraiteella on tämän kes-
+kustelun tuo osa, joka koskee näitä jäsenmaksuja.
+
+Sopii varmaan menettely, että antaisin nyt ministerille puheenvuoron. 3 minuuttia on
+toivomus, ja siihen myönnytään.
+
+16.27 Valtiovarainministeri Petteri Orpo: Arvoisa puhemies, kiitos! Ensin edustaja Ha-
+rakalle: Tiedätte, että hallitus panee toimeen kaikkia niitä veronkierron estämiseksi tehtä-
+viä toimenpiteitä, joita on sovittu OECD-tasolla, Euroopan unionin tasolla. Sen lisäksi
+meillä on kansallisia toimia, ja tässä kansalliset viranomaiset, kuten verottaja ja poliisivi-
+ranomaiset, oikeuslaitos, tekevät jatkuvasti työtä. Mielestäni Suomessa tehdään hyvää,
+määrätietoista työtä, se on hyvin pitkälle perua myöskin jo viime hallituksen ajalta, jolloin
+valtiovarainministeri Urpilainen teki useita hyviä esityksiä. Yksi niistä oli se, että korko-
+vähennysrajoituksesta voisi jatkossakin vapautua tai voi vapautua tasevertailun perusteel-
+la, ja tämä on siis nykyisessäkin esityksessä. [Timo Harakka pyytää vastauspuheenvuoroa]
+Eli esitykseen sisältyy tasetesti, joka on siis säädetty voimaan viime kaudella. Lisäksi kor-
+kein hallinto-oikeus on antanut viimeisen vuoden aikana ratkaisuja, jotka kiristävät tätä ta-
+setestin soveltamista. Eli ei se suinkaan ole mikään kiertotie veroista vapautumiseen.
+
+Mielestäni tämä direktiivi, jota nyt implementoidaan, tämä esitys, toimii veronkierron
+estämiseksi. Se on oleellista, että tämä estää veronkiertoa. Mutta meidän täytyy koko ajan
+pitää huolta siitä, mistä minusta tuntuu, että edustaja Harakka ei aina ole niin huolissaan,
+että vaikka me puutumme veronkierron ilmiöihin, niin meidän pitää huolehtia tavallisten
+suomalaisten työllistävien yritysten rahoituksesta. Siihen ei pidä puuttua yhtään enempää
+kuin meidän direktiivi määrää. Meillä on aivan oleellista se, että meidän pk-yritysten ja
+isompienkin rahoitus toimii ja sitä kautta tuetaan kasvua ja työllisyyttä.
+
+Sitten teillä oli sellainen virhe myöskin, että se luonnoksen verotuottomääräarvio oli
+semmoinen 46 miljoonaa, ei siis 100 miljoonaa, kuten te sanoitte. Nyt se on se reilu 10 mil-
+joonaa.
+
+Meillä on ne kaksi asiaa vielä, jotka ovat jatkoselvityksessä: tämä Mankala-yhtiöt ja inf-
+rapoikkeus. Ne ovat kieltämättä suuria kysymyksiä, mutta ne ovat myöskin kansallisia ky-
+symyksiä. Niihin täytyy etsiä huolellisesti ratkaisu.
+
+Ehkä, puhemies, tämä tässä vaiheessa.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+16.29 Timo Harakka sd (vastauspuheenvuoro): Kiitos ministerille vastauksista. Olen
+tyytyväinen siitä, että OECD:n ja EU:n veronkierron vastaiset toimet, jotka ovat siis lisään-
+tyneet voimakkaasti viime vuosina, eivät nyt ainakaan ole sellaisia, joita Suomen hallitus
+aktiivisesti pyrkisi jarruttamaan ja torppaamaan. Sen sijaan voin toivoa, että Suomen hal-
+litus olisi eturintamassa yllyttämässä Euroopan unionia tiukkoihin toimiin, kuten oli edel-
+lisellä hallituskaudella, jolloin toki kokoomuskin oli hallituksessa.
+
+Mutta nyt korjaan tämän teidän korjauksenne: 46 miljoonaa oli se välitön vaikutus sinä
+verovuonna, kun oli tarkoitus tämän luonnoksen mukaisen mallin tulla voimaan, mutta sen
+lisäksi siitä siirtyi seuraaville vuosille 60 miljoonaa. Eli yhteisvaikutus oli yli 100 miljoo-
+naa, ja vertasin näitä kahta verrannollista lukua keskenään.
+
+16.30 Eero Lehti kok: Arvoisa puheenjohtaja! Se, että edustaja Harakka on sitä mieltä,
+että nämä sijoitustuotot on pantava verolle, on merkittävä muutos sosiaalidemokraattien
+katsantokannassa. Mutta minä en ymmärrä, minkä takia niillä pitää olla erityiskategoria,
+kun kaikilla muilla on tuntuvasti, ehkä viisi kertaa korkeampi verokanta.
+
+16.31 Eero Suutari kok: Arvoisa puhemies! Tässä tasevertailussahan tietysti on olemas-
+sa joitakin sellaisia, jotka käyttävät sitä nimenomaan aggressiiviseen verosuunnitteluun
+sillä tavalla, että siellä alihankkijamaassa tai tytäryhtiömaassa ei syntyisi verotettavaa tu-
+loa. Mutta suurin osa siellä kuitenkin on sellaisia, jotka toimivat normaalisti liiketoimin-
+nan pelisääntöjen mukaisesti, eikä ole tarkoituskaan kiertää veroja, vaan se on normaalia
+lainaa, minkä sillä antaa. Ja sen takia, kun on tällainen jo olemassa, minun mielestäni on
+järkevää tästä sitten keskustella, että olisi joku muu työkalu niiden erottamiseen, joissa ni-
+menomaan kierretään veroja, kuin tällainen, joka rankaisee niitäkin, jotka eivät tosiasiassa
+joutuisi muutenkaan verotettaviksi.
+
+Ja sitten se, että minä olen aiemmin kyllä kuullut, että sosiaalidemokraattien esitys oli
+niin, että rajattaisiin nimenomaan ammattiyhdistysliike ulos tästä säätiöitten pienestä vero-
+pohjasta, mutta ilmeisesti olin väärässä.
+
+16.32 Peter Östman kd: Arvoisa puhemies! Jos sallitte, vastaan lyhyesti siihen Harakan
+esittämään kysymykseen, olisimmeko me mukana tällaisessa ensimmäisessä askeleessa.
+KD on mukana kaikissa sellaisissa hankkeissa, joissa me pystymme laajentamaan verotus-
+pohjaamme, mutta siten, että se tukee kasvua ja työllisyyttä ja on myöskin kaikista näkö-
+kulmista katsottuna oikeudenmukainen.
+
+16.32 Timo Harakka sd: Arvoisa puhemies! Tämä edustaja Östmanin vastaus oli kyllä
+ihan mallikelpoinen poliitikon vastaus.
+
+Minun on vaikea kuvitella, että nykyisin nollaverotettujen ulkomaalaisten säätiöiden
+maltillinen, enintään 5 prosentin lähdevero millään tavalla Suomen kasvua heikentäisi,
+saatikka sitten yleishyödyllisten yhteisöjen, joiden osa ammattiyhdistysliike on. Se ei siis
+nauti mitään erityiskohtelua, vaan se on yleishyödyllinen yhteisö. Ja todellakin, oikaisen
+edustaja Suutaria siltä osin, että nimenomaan ammattiliittoja ei ole tarkoitus vapauttaa sii-
+tä sen kummemmin kuin mitään muutakaan yleishyödyllistä yhteisöä. Eli tämä asia var-
+maankin tuli nyt selväksi.
+
+Mutta kun nyt vielä palataan itse pääasiaan, tähän pihviin, siis todellakin tähän taseva-
+pautussääntöön: ministeri Orpo vetosi siihen, että se on tässä nykyisinkin voimassa olevas-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+sa laissa. Mutta kun lakeja on aina tarkoitus parantaa ja selkeyttää, niin Verohallinnon toi-
+veesta, monien toimijoiden toiveesta ja kaikkien verosuunnittelun asiantuntijoiden havain-
+noista tähän oli tulossa parannus eli poistettaisiin tämä tasevertailu tarpeettomana, hanka-
+loittavana ja, kuten äsken siteerasin, veropohjaa rapauttavaa verosuunnittelua mahdollista-
+vana. Mutta nyt te tämän parannuksen kuitenkin peruutitte tullessanne toisiin ajatuksiin,
+kun elinkeinoelämä katsoi, että tätä ei haluta, jolloin, kun valittavana oli aggressiivisen ve-
+rosuunnittelun hillitseminen ja elinkeinoelämän edut, valitsitte jälkimmäisen.
+
+Tämähän nyt ei koske mitään pienyrityksiä, ei edes keskisuuria yrityksiä, kun nämä ra-
+jat ovat niin korkeita, ja sitä paitsi ei mikään yritys toivottavasti Suomessa tee liiketoimin-
+taa korkovähennysten toimialalla. Se on vain apukeino. Kaikki olemme samaa mieltä siitä,
+että yritysten toimintaedellytyksiä pitää parantaa, ja aggressiivisen verosuunnittelun suit-
+siminen nimenomaan parantaa kotimarkkinayritysten kilpailuasetelmaa kansainvälisiä
+konserneja vastaan. Siksi aggressiivisen verosuunnittelun suitsiminen on myös kilpailua
+edistävä, markkinataloutta edistävä ja kotimarkkinayritysten hyvinvointia edistävä toimi,
+ja se on se tärkein ja keskeisin syy, miksi sosiaalidemokraatit sitä myöskin ajavat.
+
+16.35 Eero Suutari kok (vastauspuheenvuoro): Arvoisa puhemies! Itse olin tietysti kuu-
+lemassa Verohallinnon edustajaa jaostossa, ja minä en kuullut muita argumentteja siitä ta-
+sevapautuksesta kuin sen, että se on hankala. Mutta kaikki nämä muut olivat kyllä jostakin
+muualta otettuja.
+
+16.35 Timo Harakka sd (vastauspuheenvuoro): Siteeraamatta nyt keskeneräistä asiaa
+jaostossa rohkenen olettaa, että ministeri Orpokin vahvistaa sen, että Verohallinto on kan-
+nattanut sitä, että tämä tasevapautus poistettaisiin. Se on ollut siinä laissa alun alkaenkin
+vain tällaisena varokeinona, kun on luotu aivan uutta lainsäädäntöä, kun tämmöistä korko-
+vähennysrajoitusta ei ollut, ja sitten siitä on ilmennyt, että sitä voidaan käyttää ja käyte-
+täänkin, varsinkin näissä kansainvälisissä rajat ylittävissä tilanteissa, täysin häikäilemättö-
+mään verosuunnitteluun. Silloin ollaan tultu tilanteeseen, että eräinä verovuosina jopa puo-
+let näistä vähennyskelvottomiksi katsotuista koroista on tällä nojalla voitu palauttaa haki-
+joille ja nyt viimeisimmässä esimerkissä peräti kolmannes. Puhutaan sadoista miljoonista
+euroista. Siksi olisi ollut tärkeää tehdä kuten Ruotsi. Jos Ruotsi pärjää ilman tätä tasever-
+tailua, niin miksei Suomi. Ei kai Ruotsi nyt ole yritystoiminnan kannalta mitenkään kau-
+hean epäedullinen maa?
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja vielä on ministerillä puheenvuoro.
+Tähän asiaan varattu aikaikkuna alkaa olla täyttynyt, ja sitten siirrytään seuraaviin asioi-
+hin, ellei tämä keskustelu pääty kohta ministerin puheenvuoron jälkeen. — Ministeri, 2 mi-
+nuuttia.
+
+16.37 Valtiovarainministeri Petteri Orpo: Arvoisa puhemies! Ruotsi ei todellakaan ole
+kovin yrittäjäepäystävällinen maa: Siellä on joustavat työmarkkinat ja monet asiat sujuvat.
+Kilpailukyky on parempaa. Siellä on muun muassa pitkään ollut käytössä hyvä sijoitus-
+säästötili. Siellä on tehty paljon viisaita asioita.
+
+Edelleen palaan tähän tasevapautukseen. Minusta on hieman epäreilua tavallaan leima-
+ta kaikki, jotka tätä käyttäisivät, että tavoitteena on heti veron kiertäminen. Tämä on totta,
+lausuntopalautteen perusteella tämä on erittäin tärkeä suomalaisille suuryrityksille. Suo-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+malaiset suuryritykset työllistävät kymmeniätuhansia jos ei satojatuhansia suomalaisia
+työntekijöitä, ja silloin on erittäin tärkeää, että heidän toimintaympäristönsä on kilpailuky-
+kyinen.
+
+Säännös on tarpeellinen esimerkiksi kotimaisille suuryrityksille, joilla koko konsernin
+rahoituksen hoitaminen on keskitetty Suomessa sijaitsevaan konsernin rahoitustoimin-
+toon, eli tälle löytyy sinänsä hyvät perustelut. Onneksi meillä on viisaan valtiovarainminis-
+terin Jutta Urpilaisen tekemä tasetesti. Kun meillä on vielä kaksi tuoretta keskusverolauta-
+kunnan päätöstä, jotka tiukentavat entisestään tämän testin sisältöä, niin mielestäni meillä
+on tässä nimenomaan veronkierron estämiseen luotu hyvä järjestelmä, mutta kuitenkin
+niin, että se tukee hyvää yritysrahoituksen hoitoa.
+
+Sitä voisin nyt kysyä, kun tässä keskustellaan, että onko vielä entisellään sosiaalidemo-
+kraattien esitys, jolla te olisitte kiristämässä näitä rajoja suhteessa hallituksen esitykseen,
+jolloin valtiovarainministeriön laskelman mukaan te olisitte kiristämässä suomalaisten yri-
+tysten verotusta 150 miljoonalla eurolla.
+
+16.39 Timo Harakka sd (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Tölli antoi
+Helsingin Sanomiin haastattelun, [Eero Lehti: Vastaa kysymykseen!] jota on paljolti sitee-
+rattu ja jossa hän pahoitteli tahallisen väärinymmärtämisen lisääntymistä tässäkin salissa.
+Minusta on aika erikoinen suoritus, että kun aloitin yhden puheenvuoroni sanomalla, että
+tätä tasevapautusta ei pääsääntöisesti, yleisesti ottaen, ole käytetty nimenomaan aggressii-
+visen verosuunnittelun välineenä mutta siihen työkaluksi se sopii erinomaisesti, niin mi-
+nisteri tällä tavalla pyrkii leimaamaan sanomisiani.
+
+Se, mitä SDP:n laajassa aggressiivisen verosuunnittelun vastaisessa ja harmaan talou-
+den torjumiseksi esitetyssä toimenpidekokonaisuudessa esitetään, tulee myöskin ministe-
+rin luettavaksi vaihtoehtobudjettimme osalta, jossa jälleen kerran osoitamme, miksi voim-
+me tehdä samaan aikaan sekä sosiaalisesti oikeudenmukaisempaa että valtiontaloudellises-
+ti vastuullisempaa linjaa kuin hallitus.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Myönnän vielä puheenvuoron edusta-
+ja Heinoselle ja hänen jälkeensä ministerille. Mikäli ministerin jälkeen vielä on puheen-
+vuorotarpeita, tämän asian käsittely siinä vaiheessa joka tapauksessa keskeytetään ja sitä
+jatketaan kaikkien muiden tämän päivän päiväjärjestyksen asioiden tultua käsitellyiksi.
+Mutta nyt vielä edustaja Heinonen ensin ja sitten ministeri.
+
+16.40 Timo Heinonen kok: Arvoisa herra puhemies! Oikeastaan kiinnitin huomiota mi-
+nisteri Orpon viime puheenvuorossaan esille nostamaan asiaan, että sosiaalidemokraatit
+olisivat esittäneet näitä euromäärärajoja huomattavan alas, 250 000 euroon. Voisitteko, ar-
+voisa ministeri, arvioida sitä, minkälainen vaikutus tällä olisi suomalaisten yritysten vero-
+tukseen ja sitä kautta mahdollisesti tähän hyvään työllisyyskehitykseen, mitä tällä hetkellä
+on saatu aikaiseksi, jos meidän yritysten verotusta edelleen kiristettäisiin tällä tavalla kuin
+esille tuli? [Timo Harakka: Ei se ole verotuksen kiristämistä!]
+
+Pidän hyvänä sitä, että veronkiertodirektiivi laitetaan toimeen ja teemme toimenpiteitä
+veronkierron suitsimiseksi. Nämä esitykset ovat hyviä ja kannatettavia.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ministeri, olkaa hyvä. — Mielellään
+minuutti.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 94/2018 vp
+16.41 Valtiovarainministeri Petteri Orpo (vastauspuheenvuoro): Arvoisa puhemies!
+Edustaja Heinosen kysymykseen: Kyllä se VM:n arvio oli 150 miljoonaa käytännössä yri-
+tysverotuksen kiristämistä. Me olemme arvioineet, että tällä esityksellä me puutumme ni-
+menomaan veronkiertoon ja aggressiiviseen verosuunnitteluun ja tämä on riittävä ilman,
+että me teemme tällaista kiristystä.
+
+Mutta, edustaja Harakka, pakko kommentoida tähän väärin ymmärtämiseen, että en tie-
+dä, oletteko te tahallanne ymmärtänyt väärin vai olenko ilmaissut — ja hallitus — jotenkin
+huonosti, kun te täällä kerta toisensa jälkeen toistatte sitä, että hallitus ei välitä, ei halua teh-
+dä toimia veronkierron estämiseksi, ei ole tosissaan, olemme ihan kuin me emme todella-
+kaan välittäisi siitä, että Suomessa maksetaan ne verot, mitkä Suomeen kuuluvat. Me olem-
+me jatkuvasti tehneet ja tuoneet lakiesityksiä tänne ja käsitelleet niitä muun muassa suu-
+ressa valiokunnassa, koska monet näistä asioista pyörivät EU-pöydissä. On täysin selvää,
+että me teemme kaikkemme, jotta Suomessa veronkiertoa, aggressiivista verosuunnittelua
+ei saa tehdä. [Puhemies koputtaa] Ja jos on laittomuuksia, niihin puututaan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Harakka, vastauspuheenvuo-
+ro, sitä ei voida kieltää. Muuten tämä keskustelu olisi jo päättynyt tältä erää.
+
+16.42 Timo Harakka sd (vastauspuheenvuoro): Sopii mielestäni päättää tähän, arvoisa
+puhemies, ellei jotain aivan välttämätöntä tule. — Oli kuitenkin ehkä vähän eri asia puhua
+suuresta poliittisesta linjaeroavaisuudesta, joka liittyy harmaan talouden ja aggressiivisen
+verosuunnittelun vastaisiin linjauksiin. Nyt näin lopuksi sanoisin, että se, että asetetaan
+korkovähennyksen rajat johonkin kohtaan, ei ole sama asia kuin veron kiristäminen. Sil-
+loinhan ainoastaan korkovähennyksen käyttöä rajoitetaan, niin kuin nyt tässäkin hetkessä
+rajoitetaan. Sen ei tule olla terveen liiketoiminnan ydin, ihan niin kuin ei aggressiivisen ve-
+rosuunnittelunkaan. Tässä oioitte hiukan mutkia.
+
+Mutta haluaisin lopettaa tämän tämmöiseen sovinnolliseen nuottiin. Nimittäin tämän
+kaiken moittimisen jälkeen — siis sen, että olen sitä mieltä, että hallituksen linja aggressii-
+visen verosuunnittelun suitsimisessa on käsittämättömän lepsu — olemme ehdottomasti
+olleet samaa mieltä Portugalin verosopimuksen peruuttamisen välttämättömyydestä, [Pu-
+hemies koputtaa] ja siitä kiitän ministeri Orpoa.
+
+Keskustelu päättyi.
+
+Asia lähetettiin valtiovarainvaliokuntaan.
+10
+
+

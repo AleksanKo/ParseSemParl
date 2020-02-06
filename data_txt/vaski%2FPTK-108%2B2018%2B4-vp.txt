@@ -1,0 +1,383 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM6EF6.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 108/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 108/2018 vp
+
+Täysistunto
+
+Perjantai 26.10.2018 klo 13.07—13.34
+
+4. Hallituksen esitys eduskunnalle laiksi puolustusvoimista annetun lain muuttamisesta
+Hallituksen esitys HE 72/2018 vp
+Valiokunnan mietintö PuVM 1/2018 vp
+
+Toinen käsittely
+
+Puhemies Paula Risikko: Toiseen käsittelyyn esitellään päiväjärjestyksen 4. asia. Nyt
+voidaan hyväksyä tai hylätä lakiehdotus, jonka sisällöstä päätettiin ensimmäisessä käsitte-
+lyssä.
+
+Keskustelu
+
+13.11 Timo Heinonen kok: Arvoisa rouva puhemies! Lennokkien ja miehittämättömien
+ilma-alusten määrä kasvaa kovaa vauhtia. Itse asiassa ammattimaisessa käytössä lennok-
+keja on noin 2 200, mutta arviot yksityisistä lennokinkäyttäjistä ovat niinkin isossa haaru-
+kassa kuin 50 000:sta 100 000:een, eli oikeastaan kenelläkään Suomessa ei ole tarkkaa kä-
+sitystä siitä, miten paljon näitä miehittämättömiä lennokkeja, droneja, on suomalaisten
+käytössä. Tämä on itse asiassa sellainen huoli, jota täytyisi Suomessa paremmin seurata ja
+jopa miettiä, pitäisikö näitä kirjata ja rekisteröidä jollain tavalla siinä vaiheessa kun han-
+kintoja tehdään. Määrä tulee hintojen pudotessa todennäköisesti tulevaisuudessa entises-
+tään kasvamaan.
+
+Puolustusvaliokunnassa tätä lainsäädäntöä käsittelimme ja totesimme, että näihin dro-
+neihin, miehittämättömiin lennokkeihin, sisältyy merkittävä kansallista turvallisuutta vaa-
+rantava näkökulma, ja sen takia nämä toimenpiteet, joita nyt esitetään, ovat välttämättö-
+miä. Meidän viranomaiset tarvitsevat lisää toimivaltuuksia, niin poliisin kuin Puolustus-
+voimienkin taholta. Meillä on alueita, jotka on merkitty jo tänä päivänä niin sanotuiksi no
+drone zone -alueiksi, ja sitten myös väliaikaisia rajoituksia on, mutta myös nopeampia toi-
+menpiteitä tarvitaan.
+
+Meillä tilanne itse asiassa on menossa siihen suuntaan, että ilmatilan loukkauksista tu-
+levaisuudessa yhä useampi osa saattaa tapahtua niin, että emme edes tiedä, kuka sen tosi-
+asiallisesti suorittaa tai mistä se suoritetaan. Tällaista lennokkia voidaan uudella teknolo-
+gialla ja 5G-aikakaudella lennättää toiselta puolelta maapalloa, ja kone saattaa tulla käy-
+mään Suomen puolella ja palata pois, ja silloin olemme aivan uudenlaisen tilanteen edessä.
+
+Toisaalta tämä lisää mahdollisuuksia salakuljetukseen, vakoiluun tai sitten ihan puhtaas-
+ti erilaisiin vaaratilanteisiin, kun esimerkiksi meidän Ilmavoimat harjoittelee tai meidän
+lentokoneet Helsinki-Vantaalla tai muilla lentokentillä ovat tai sitten kun on erilaisia ylei-
+sötapahtumia ja muita. Meidän viranomaisten pitää pystyä puuttumaan näihin paremmin,
+ja tässä lainsäädännössä nimenomaan vahvistetaan sitä puolta, että Puolustusvoimilla on
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 108/2018 vp
+paremmat mahdollisuudet elää ajassa ja puuttua tähän uuteen turvallisuusuhkaan. [Ben
+Zyskowicz: Olipa hyvä ja asiantunteva puheenvuoro!]
+
+13.14 Mika Kari sd: Arvoisa rouva puhemies! Puolustusvaliokunnan puolella, niin kuin
+edustaja Heinonenkin, tässä asiassa on työtä tehty, ja haluan tässä yhteydessä kiinnittää
+huomion yhteen keskeiseen asiaan, johon edustaja Heinonenkin viittasi.
+
+Kyseessä on kasvava teknologinen ala. Nyt keskustelu keskittyy lähinnä droneihin, len-
+nätettäviin järjestelmiin, joita voidaan tosiaan lennättää vaikka maapallon toiselta puolel-
+ta, mutta teknologia kehittyy edelleen niin, että erilaisia laitteiden ja sähköisen maailman
+rajapinnassa kulkevia välineitä nähdään ilmaliikenteen lisäksi tulevaisuudessa yhä enem-
+män vaikkapa vesiliikenteessä tai muualla. Sen kautta olisi oikein tarpeellista, että meillä
+eduskunnassa ja ministeriöissä olisi tämmöistä poikkihallinnollista otetta näihin droneihin
+ja dronejen tuomaan uhkaan. 
+
+Dronet ovat monelle harrastus, ja hyvä niin, varmaan ihan hyväkin harrastus, mutta täm-
+möinen aika lailla säätelemätön tilanne johtaa myös moniin turvallisuusuhkiin. Uhka len-
+toliikenteelle on ilmeinen silloin kun lennetään tuolla yli 500 jalan, 150 metrin korkeudes-
+sa, jossa lentoliikenne kulkee, mutta myös yleisötilaisuuksien yläpuolella lennättäminen
+on selkeä turvallisuusuhka yleisölle ja kansalliselle turvallisuudelle sitä kautta. Pelkkä len-
+nokin putoaminen aiheuttaa ihmiselle tietenkin monella tavalla korvaamatonta vahinkoa,
+mutta mitä siinä lennokin kyydissä silloin on, jos joku tarkoituksella yrittää tällaisen ylei-
+söjoukkoon pudottaa? Silloin voivat olla vahingot huomattavasti vielä suuremmat.
+
+Itse kannattaisin kyllä ajatusta siitä, että tämän puolustusvaliokunnan mietinnön henges-
+sä yleistoimivalta edelleenkin lennokkeihin kuuluu poliisille, mutta toivoisin, että yhteis-
+kunnassa mentäisiin siihen suuntaan, että tämmöinen teknologinen kehitys ja sen muka-
+naan tuomat riskit myös rekisteröitäisiin. Käyttäjät, jotka droneja käyttävät olisivat viran-
+omaisten rekisterissä, ja myös pelkästään lentolaite, jonka riskit tuossa äsken mainitsin,
+olisi sitä kautta paremmin viranomaisten tiedossa, mutta myös se tarkoitus, mihinkä näitä
+laitteita käytetään, pystyttäisiin rekisteröimään joko harrastekäyttöön, ammattikäyttöön tai
+johonkin muuhun käyttöön. — Kiitos.
+
+13.16 Kari Kulmala sin: Arvoisa rouva puhemies! Tässä hallituksen esityksessä ehdote-
+taan muutettavaksi Puolustusvoimista annettua lakia, eli lakiin lisättäisiin säännökset len-
+nokin ja miehittämättömän ilma-aluksen kulkuun puuttumisesta. Puolustusvoimien toimi-
+valtuudet olisivat niin rajatut, että niiden käyttäminen liittyisi aina Puolustusvoimien laki-
+sääteisten tehtävien toteuttamiseen. Poliisilla olisi jatkossakin yleistoimivalta yleisellä
+alueella, ja yhteistyöstä poliisin kanssa olisi laissa nimenomaiset säännökset.
+
+Lennokkien ja miehittämättömien ilma-alusten määrä Suomessa on kasvanut suuresti
+viime vuosina. Näyttäisi siltä, että erilaisten härpäkkeiden hankkiminen on nyt hieman
+muotia, ja sääntelyä niiden käyttämiseen tarvitaan. Esityksen mukaan yksityisiä käyttäjiä
+on Suomessa tällä hetkellä, kuten edustaja Heinonen kertoi, noin 50 000 tai jopa 100 000 ja
+ammattimaisia toimijoitakin on noin 2 200. Tämän lisäksi ulkomaisia toimijoita löytyy
+myös Suomesta. 
+
+Miehittämättömään ilmailuun sisältyy merkittäviä kansallista turvallisuutta vaarantavia
+näkökulmia. Tällainen uhkakuva vaatii turvallisuusviranomaisille uusia toimivaltuuksia,
+ja Puolustusvoimien kyky vastata miehittämättömän ilmailun aiheuttamaan turvalli-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 108/2018 vp
+suusuhkaan on jäänyt erityisesti toimivaltasäännösten puuttuessa tulkinnanvaraiseksi. Toi-
+mivaltasäännökset paranevat tämän hallituksen esityksen myötä. 
+
+Näiden toimivaltuuksien puute on vaikeuttanut merkittävästi myös poliisin, Rajavartio-
+laitoksen, Tullin ja Rikosseuraamuslaitoksen mahdollisuuksia puuttua lennokkien ja mie-
+hittämättömien ilma-alusten kulkuun. Ensimmäiset huume-erät on jo kuljetettu vankilan
+muurien yli tällaisilla lennokeilla. Tällainen lennokkihan on myös erinomainen laite sala-
+kuljettaa tavaraa tai valokuvata rajavyöhykkeellä maastoa. Laitteella on myös erittäin help-
+po kuvata naapurinrouvaa tämän ottaessa aurinkoa omalla pihamaallaan. [Jukka Gustafs-
+son: Ei kai?] Kaikki edellä mainitsemani kuvaukset on jo nyt laissa kielletty.
+
+Eduskunnan käsittelyssä onkin tämän esityksen lisäksi myös toinen hallituksen esitys,
+jolla lennokkien ja miehittämättömien ilma-alusten muodostamaan haasteeseen pyritään
+vastaamaan. On selvää, että jokaisella viranomaisella tulee olla selkeät toimivaltuudet
+puuttua laittomaan tekoon. Joka tapauksessa miehittämättömän ilmailun sääntelyssä on
+kansainväliselläkin tasolla menossa nopea kehitysvaihe. 
+
+Miehittämättömät lennokit ovat erinomaisia silloin, kun on kyseessä jokin Puolustusvoi-
+mien turvaamistehtävä, esimerkiksi erityistä suojelua tarvitsevien henkilöiden turvallisuu-
+den tai erityisen omaisuuden kuljetusten koskemattomuuden suojaamiseksi. Puolustusvoi-
+mat antaa virka-apua myös poliisille tietyin perustein, vaikka myös poliisilla on omia len-
+nokkeja sekä niiden käyttöön koulutettuja henkilöitä. Poliisilla lennokkeja käytetään on-
+nettomuuksien tutkimiseen sekä muuhun laissa säädeltyyn tarkoituksenmukaiseen toimin-
+taan. Lennokit helpottavat poliiseja myös näin syksyllä metsään kadonneiden henkilöiden
+etsinnässä.
+
+Arvoisa rouva puhemies! Miehittämättömät lennokit ovat tulleet jäädäkseen, myös yk-
+sityiseen käyttöön. Niiden käyttöön on oltava selvät säännökset, ja tämäkin hallituksen esi-
+tys on osa niitä, vaikka koskeekin lähinnä Puolustusvoimien toimintaa.
+
+13.20 Jaana Pelkonen kok: Arvoisa rouva puhemies! On korkea aika, että tämän asian
+vakavuus aletaan ymmärtää ja vihdoinkin ottaa myös tosissaan. Kuulimme puolustusvalio-
+kunnassa laajan kattauksen asiantuntijoita, ja kuten edustaja Heinonenkin omassa puheen-
+vuorossaan totesi, miehittämättömään ilmailuun sisältyy merkittäviä kansallista turvalli-
+suutta vaarantavia näkökulmia. 
+
+Erityisen huolestuttavaa on se, kuten useammassa puheenvuorossa on todettu, että ke-
+nelläkään Suomessa ei tunnu olevan tarkkaa käsitystä siitä, kuinka paljon näitä erilaisia
+vempaimia, jos näin voi asian myös ilmaista, käytössä on. Skaala vaihtelee todellakin noin
+50 000:sta 100 000:een, ja kyseessä on arvio, ja tässä arviossa on valtava heitto.
+
+Kiinnitimme valiokunnassa myös huomiota siihen, että jatkotyössä on tarkasteltava
+myös sitten muita kuin ilmassa liikkuvia kansallista turvallisuutta vaarantavia lennokkeja
+— tai siinä tapauksessa ne eivät ole lennokkeja, jos ne liikkuvat maalla tai merellä, mutta
+kansallista turvallisuutta voidaan vaarantaa myös muilla kauko-ohjattavilla laitteilla, liik-
+kuvat ne sitten merellä tai maalla. Eli työsarkaa tässä asiassa riittää vielä pitkälle tulevaan.
+
+13.21 Veera Ruoho kok: Arvoisa puhemies! Tämä hallituksen esitys laiksi Puolustusvoi-
+mista annetun lain muuttamisesta on hyvin kannatettava. Teknologian kehitys, paitsi että
+se on hyödyllistä, myös tuo mukanaan rikollisille työkaluja, kuten, arvoisat edustajat Hei-
+nonen ja Kulmala, olette täällä jo kertoneetkin. Tosiaan, edustaja Kulmala jo mainitsikin
+näistä, vankilan muurien sisäpuolelle on jo huume-eriä viety. Sitten kun ollaan näitä tie-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 108/2018 vp
+dustelulainsäädäntöpakettejakin täällä nytten säätämässä, meidän on hyvä muistaa se, että
+aina ne rikolliset ovat näillä omilla vehkeillään askeleen edelläpäin. Että dronen avulla voi-
+daan tosiaankin muun muassa tarkkailla semmoisistakin paikoista, mihin normaalisti ei
+päästä.
+
+13.22 Päivi Räsänen kd: Arvoisa rouva puhemies! Dronen lennätys on varmasti mielen-
+kiintoinen harrastus, ja todellakin niitä voidaan käyttää myös varsin hyödyllisiin tarkoituk-
+siin, esimerkiksi etsintätilanteisiin, mutta samalla on todettava, että myös vaaratilanteet li-
+sääntyvät. Äitienpäivänä Helsinki—Vantaalla sattui vakava vaaratilanne, kun dronea len-
+nätettiin kielletyllä alueella lentoaseman lähellä, ja täällä on kuvattu muitakin ongelmati-
+lanteita, muun muassa huumeiden kuljetusta vankiloihin.
+
+No, yleistoimivalta valvonnasta todellakin kuuluu poliisille, niin kuin tällä on todettu,
+mutta nyt käsittelemme tätä Puolustusvoimien lainsäädäntöä. Pitäisin kyllä tärkeänä myös,
+että saisimme tänne eduskuntaan sisäministeriöltä esityksen, jossa näitä poliisin toimival-
+tuuksia selkeytettäisiin, koska kyllä poliisin tulisi pystyä selvittämään, kenen ilma-alus
+siellä taivaalla lentää, ja tulisi olla myös hyvin selkeät pelisäännöt siihen, milloin lennokin
+kulkuun voidaan puuttua. Siinä mielessä kannatan tätä edustaja Mika Karin esiin ottamaa
+ajatusta rekisteröinnistä näissä tilanteissa, jotta pystytään sitten valvomaan mahdollisia
+vaaratilanteita ja ehkäisemään niitä.
+
+Puhemies Paula Risikko:  Meillä onkin tuolla lehterillä sisäministeriön väki, niin he sai-
+vat heti tietää, mitä toivotaan meidän aikaisemmalta sisäministeriltämme.
+
+13.24 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Tämä on tosiaan tarpeelli-
+nen laki, kuten täällä on todettu, ja sitä on hyvässä hengessä käsitelty. Lennokkiteknologia
+kehittyy koko ajan, ja sikälikin on erittäin hyvä, että laki on teknologianeutraaliksi raken-
+nettu. Lähtökohdanhan tulisi olla se, että kun syntyy jokin sellainen uusi innovaatio, jolla
+voidaan tehdä paljon hyvää mutta mahdollisesti myös ikäviä asioita, niin laki olisi proak-
+tiivisesti sellainen, ettei jokaisen teknologisen keksinnön kohdalla tarvitsisi erikseen lakia
+tarkistaa.
+
+Tässä mietinnössä erikseen todetaan myös se, että otetaan kantaa vain lentäviin laittei-
+siin, ja hallintovaliokunnassa kiinnitimme huomiota erityisesti siihen, että meidän tulisi
+tarkastella myös muita kauko-ohjattavia ja etenkin autonomisia laitteita. Tulevaisuudessa
+autonominen teknologia tulee lisääntymään hyvin monilla eri tavoilla, ja kysymyshän on
+ihan kansainvälisen tason kysymyksestä, koska esimerkiksi Yhdistyneissä kansakunnissa
+käydään tälläkin hetkellä jonkin verran keskustelua siitä, mitä autonomisille asejärjestel-
+mille pitäisi tehdä. Tämä on sen suuntaista keskustelua, jota meidän kannattaisi käydä tääl-
+lä Suomessakin, koska siinä ollaan hyvin perustavanlaatuisten eettisten kysymysten äärel-
+lä.
+
+No, lennokkien toiminnan rajaamisessa parhaaksi katsotuilla alueilla tai esimerkiksi ra-
+javyöhykkeellä ollaan tietenkin hieman kevyempien asioiden mutta yhtä tärkeiden asioi-
+den äärellä, ja uskon, että on myös harrastajien etu, että meillä on selkeä lainsäädäntö, joka
+on sikäli myös pysyvää, että tätä ei tarvitse jatkuvasti päivitellä.
+
+Mutta kiinnittäisin huomiota vielä kerran siihen, että sen lisäksi, että olemme kiinnittä-
+neet huomiota ilmassa liikkuviin laitteisiin, meidän tulisi tarkastella myös muilla tavoin
+liikkuvia laitteita ja käynnistää Suomessakin laajempi keskustelu siitä, mitä me haluamme
+4
+
+
+
+Pöytäkirjan asiakohta PTK 108/2018 vp
+autonomisilta järjestelmiltä jatkossa ja miten niitä olisi syytä säädellä niin siviilikäytössä
+kuin mahdollisesti sotilaskäytössäkin.
+
+Puhemies Paula Risikko: Nyt on tilanne se, että täällä on neljä puheenvuoropyyntöä.
+Meillä on tasan 4 minuuttia aikaa, me emme näitä kaikkia kerkiä ottaa, mutta tarjoan teille
+debatti- eli vastauspuheenvuoroa. Ketkä näistä henkilöistä haluavat käyttää vastauspu-
+heenvuoron?
+
+13.26 Markku Rossi kesk (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Heinonen
+aloitti hyvin tuon lakiesityksen purkamisen, ja tämä ”no drone zone” on kyllä paikallaan.
+Minulle tuli mieleen tästä myös sitten tämmöinen meidän kansalaiskäyttäytymiseemme
+liittyvä ”no phone zone”, eli voisiko olla myös niin, kun en usko, että se lainsäädännön
+kautta juurikaan auttaa? Puhelinten käyttö varsinkin onnettomuustilanteissa on aika häkel-
+lyttävää. Olen ollut yhden kerran kuolonkolaripaikalla auttamassa, ja suuri osa ihmisiä tuli
+siihen ensimmäisenä kuvaamaan ja todennäköisesti myymään niitä kuvia vielä ulospäin.
+Minusta se on siis moraalisesti niin tuomittava asia. Lainsäädännön kautta siihen varmaan
+on vaikeaa lähteä puuttumaan, mutta minä toivoisin kyllä, että tällainen kansalaiskeskus-
+telu siitä, viemmekö teknologiaa eteenpäin vai viekö teknologia meitä jollakin tavoin
+eteenpäin, olisi paikallaan.
+
+13.27 Mika Kari sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Olin myös itse joi-
+tain kuukausia sitten kuuntelemassa eduskunnan Pikkuparlamentissa englantilaista profes-
+soria, joka kertoi autonomisista asejärjestelmistä ja tästä teknologiaharppauksesta. Kyse ei
+siis ole hitaasta etenemisestä vaan todellisesta vallankumouksesta, joka meidän ovillamme
+kolkuttaa.
+
+Haluan kiittää edustaja Räsästä kannatuksesta ehdotukselleni, että dronet, miehittämät-
+tömät ilma-alukset, saataisiin rekisterin piiriin. [Timo Heinonen: Heinonen esitti jo!] Pitäi-
+sin sitä oikein tarpeellisena ja mielekkäänä. Samassa yhteydessä tästä aihepiiristä, kun
+edustaja Parviainen tuossa mainitsi, että tuolla hallintovaliokunnan puolella asiasta on kes-
+kusteltu pitkään, sielläkin olen pitänyt tätä samaa näkemystä esillä, että me tarvitsisimme
+rekisterin näille asioille.
+
+Luottamus harrastajiin on vahva, ja luottamus ammattilaisiin on vahva, mutta silloin,
+kun jotain tapahtuu näissä asioissa, kysytään tietenkin, mistä asiat johtuvat, ja siinä helpos-
+ti [Puhemies koputtaa] katseet kääntyvät tänne lainsäädännön piiriin.
+
+13.28 Arto Pirttilahti kesk (vastauspuheenvuoro): Arvoisa puhemies! Täällä on pidetty
+erinomaisia puheenvuoroja tämän Puolustusvoimista annetun lain korjaamiseksi ja teke-
+miseksi. Itse nostaisin sen, niin kuin tässä edustaja Parviainenkin otti esille, että meillä tek-
+nologia kehittyy koko ajan nopeammin ja muun muassa juuri dronejen kantokyky kasvaa.
+Tässä puhutaan, keskustellaan siitä, että näillä ruvetaan kuljettamaan ihmisiä. 
+
+Nämä dronet ovat hyvin laajassa käytössä, muun muassa maa- ja metsätalouspuolella,
+esimerkiksi viljelyn suunnitelmien laatimisessa, ja sitten juuri esimerkiksi metsätalouden
+osalta katsotaan myrskytuhoja mutta tehdään myös metsätaloussuunnitelmia dronejen
+avulla. Se on jokapäiväinen käyttöväline jo maa- ja metsätaloudenkin puolella.
+
+Mutta yhdyn näihin, että me saisimme tämän harmaan tai niin sanotusti rikollisenkin toi-
+minnan kuriin näitten laitteitten rekisteröinnillä.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 108/2018 vp
+13.29 Ville Vähämäki ps (vastauspuheenvuoro): Puhemies! Yhdyn siihen toteamukseen,
+että nämä lennokit pitää pystyä tunnistamaan ja sitten myöhemmässä vaiheessa myöskin
+suojatusti, hallitusti haltuunottamaan ja tipauttamaan taivaalta, jos jotakin uhkia havaitaan.
+
+Nostan esille myös sen tekijän, että nämä lennokit ovat ihan keskeinen osa meidän uutta
+logistiikkaamme ja myöskin logistiikan hiilijalanjäljen pienentämistä, koska näillä lenno-
+keilla voidaan kuljettaa pieniä lääkepaketteja tai sitten satoja kiloja painavia paketteja. 
+
+Näin ollen meillä on paljon säätelyä vielä tehtävänä lennokkien logististen jakelupisteit-
+ten osalta, niin että saataisiin niitä synnytettyä yhteiskuntaan. — Kiitos.
+
+13.30 Simon Elo sin (vastauspuheenvuoro): Arvoisa rouva puhemies! Suomessa nimen-
+omaan siviilikäytössä, pois lukien nyt tämä hallituksen esitys Puolustusvoimista, dronejen
+sääntely on ollut löyhää, ajatuksena se, että mahdollistetaan erilaisia ratkaisuja. Mutta mitä
+pidemmälle mennään, sitä enemmän varmaan pitää arvioida sitä, pitääkö sääntelyä tarken-
+taa joiltain osin. 
+
+Toisaalta tässä on tullut hyvin, esimerkiksi tässä Pirttilahden puheenvuorossa, se, kuin-
+ka paljon erilaisia käyttötarkoituksia näille miehittämättömille lennokeille on: voidaan tar-
+kastaa sähkölinjoja, tuulivoimaloita, siltoja, kattoja, eläinkantojen muutoksia, niin kuin
+tässä tuli esiin esimerkiksi maatalouteen liittyen. Mutta tämmöinen logistinen käyttö tällä
+hetkellä on ollut aika pientä. Posti on joitakin vuosia sitten kokeillut tätä, mutta ilmeisesti
+ei ole riittävästi sitten vielä ollut niin sanotusti kantokykyä ja myöskään taloudellista hyö-
+tyä siitä, että näitä olisi käytetty. 
+
+Mutta jos ajatellaan Suomea haja-asutuksen maana, pieni väestö isolla alueella, niin kyl-
+lähän kaiken maalaisjärjen mukaan tästä pitäisi olla Suomelle nimenomaan hyötyä. Ja toi-
+von, että näitten turvallisuusnäkökohtien lisäksi [Puhemies koputtaa] yhä enemmän tutkit-
+taisiin myös näitä siviilikäytön mahdollisuuksia.
+
+13.31 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Ensimmäi-
+nen puheenvuoroni meni varmaan osittain ohi. Se oli ihan kelpo puheenvuoro omasta mie-
+lestäni, vaikka valtaosa yleisöstä sen aikana lähtikin, ja siinä toin esille ajatuksen tästä re-
+kisteröinnistä, ja hyvä, että se on täällä laajemminkin esille noussut. Itse uskon samalla lail-
+la, että tämä on vasta alkusoittoa sille kaikelle, mitä robotiikka- ja automaatiopuolella tu-
+lee tapahtumaan, ja edustaja Parviainen piti erinomaisen hyvän puheenvuoron tästä isosta
+kokonaisuudesta.
+
+Tämä Airiston tapaus, jossa myös dronet olivat jollain tavalla uutisoinnissa mukana,
+myös herätteli siihen, että tänä päivänä on olemassa jo erilaista teknologiaa, millä koneita
+pudotetaan alas, ja ne saattavat jälleen aiheuttaa omanlaisiaan uhka- ja turvallisuuskysy-
+myksiä. Tämä kokonaisuus on kyllä valtavan suuri, ja nimenomaan ehkä on niin, että tässä
+pitää etsiä ratkaisuja, jotka ovat teknologianeutraaleja ja ennen muuta sellaisia, että näihin
+voidaan puuttua. [Puhemies koputtaa] Ajatellaanpa vaikka tilannetta, kun autot ryhtyvät
+kulkemaan ilman kuljettajia.
+
+Keskustelu päättyi.
+
+Eduskunta hyväksyi ensimmäisessä käsittelyssä sisällöltään päätetyn, hallituksen esityk-
+seen HE 72/2018 vp sisältyvän lakiehdotuksen. Lakiehdotuksen toinen käsittely päättyi.
+Eduskunta hyväksyi mietintöön sisältyvän lausumaehdotuksen. Asian käsittely päättyi.
+6
+
+

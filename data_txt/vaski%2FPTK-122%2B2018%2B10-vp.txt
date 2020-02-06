@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM8AED.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 122/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 122/2018 vp
+
+Täysistunto
+
+Keskiviikko 28.11.2018 klo 14.01—16.31
+
+10. Hallituksen esitys eduskunnalle laiksi henkilötietojen käsittelystä poliisitoimessa sekä 
+eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 242/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 10. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovaliokuntaan, jolle perustuslakiva-
+liokunnan on annettava lausunto.
+
+Lähetekeskusteluun varataan tässäkin enintään 30 minuuttia. Asian käsittelyssä nouda-
+tetaan aikataulutettujen asioiden osalta sovittuja menettelytapoja. 
+
+Keskustelu
+
+15.13 Sisäministeri Kai Mykkänen (esittelypuheenvuoro): Arvoisa puhemies! Esityk-
+sessä ehdotetaan annettavaksi uusi laki henkilötietojen käsittelystä poliisitoimessa, polii-
+sin henkilötietolaki, ja laki korvaisi voimassa olevan samannimisen lain. Lisäksi hallituk-
+sen esitys sisältää ehdotukset 25 muun lain muuttamiseksi. Näihin lakeihin ehdotetaan pää-
+osin lakiviittauksia koskevia teknisiä muutoksia.
+
+Esityksen tavoitteena on saattaa poliisin henkilötietojen käsittely EU:n uudistuneen tie-
+tosuojalainsäädännön mukaiseksi, ja kuten Rajavartiolaitoksen osaltakin, myös poliisin
+henkilötietolaki täydentää tietosuojan yleislainsäädäntöä. Voimassa olevassa laissa siis
+säädetään poliisin valtakunnallisista tietojärjestelmistä ja muista poliisin henkilötietorekis-
+tereistä. Kuten Rajavartiolaitoksen osaltakin, uusi laki ei olisi enää sidottu yksittäisiin re-
+kistereihin tai tietojärjestelmiin vaan niihin tarkoituksiin, joihin poliisi lakisääteisen toimi-
+valtansa puitteissa tietoja käyttää. Nämä tarkoitukset perustuisivat siis lakisääteisiin tehtä-
+viin, kuten rikosten ennaltaehkäisemiseen, paljastamiseen ja selvittämiseen sekä yleisen
+järjestyksen ja turvallisuuden ylläpitämiseen.
+
+Myös voimassa olevan lain yksityiskohtaisista ja vaikeasti ylläpidettävistä tietosisältö-
+luetteloista tässä yhteydessä luovuttaisiin. Poliisin tehtävissä tarpeellisten henkilötietojen
+sisältöä säänneltäisiin nykyistä yksinkertaisemmin ja aikaa kestävämmin.
+
+Laissa säädettäisiin käsittelytarkoitusten ja tietosisällön lisäksi poliisin kansallisesta ja
+kansainvälisestä tiedonvaihdosta, tietojen säilytysajoista, rekisteröidyn tarkastusoikeuden
+toteuttamisesta ja poliisin tehtävien kannalta välttämättömistä rajoituksista. Laissa säädet-
+täisiin edelleen myös suojelupoliisin henkilötietojen käsittelystä, mutta tämä suojelupolii-
+sia koskeva säännöskokonaisuus kootaan omaan erilliseen lukuunsa.
+
+Uusi poliisin henkilötietolaki ei sinänsä siis laajentaisi poliisin tiedonhankintaoikeuksia
+nykyisestä, vaan tiedonhankinta tapahtuisi nykyisten toimivaltuuksien puitteissa. Näistä
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 122/2018 vp
+toimivaltuuksista säädetään esitutkintalaissa, pakkokeinolaissa, poliisilaissa sekä muualla-
+kin poliisin tehtäviä koskevassa lainsäädännössä.
+
+Tällä lailla tehostettaisiin poliisin mahdollisuuksia käyttää olemassa olevilla toimival-
+tuuksilla saatuja henkilötietoja. Poliisi saisi esimerkiksi tallentaa toimivaltuuksillaan saa-
+miaan henkilötietoja enintään kuuden kuukauden ajaksi, jotta tietojen tarpeellisuus ja mer-
+kitys poliisin tehtävien kannalta voidaan arvioida ennen niiden käyttötarkoituksesta tehtä-
+vää johtopäätöstä. Erityisesti järjestäytyneeseen rikollisuuteen liittyviä tietoja voitaisiin
+hyödyntää tietyin rajoituksin myös aselupiin ja yksityisen turvallisuusalan lupiin liittyväs-
+sä harkinnassa sekä muiden esille tulevien rikosehkäisytarkoitusten toteuttamiseksi. Perus-
+teluna tälle lakiesitykselle näiltä osin on erityisesti terrorismin uhan kasvaminen ja rajat
+ylittävän järjestäytyneen rikollisuuden sekä tietoverkkorikollisuuden kasvu. Tällä siis pa-
+rannettaisiin erityisesti poliisin mahdollisuuksia käsitellä tietoja rikosten ennaltaehkäisy-
+tarkoituksessa.
+
+Puhemies Paula Risikko: Sitten puhujalistaan.
+
+15.16 Kari Kulmala sin: Arvoisa rouva puhemies! Tässä hallituksen esityksessä ehdote-
+taan säädettäväksi uusi laki henkilötietojen käsittelystä poliisitoimessa. Tämäkin esitys uu-
+distaa lain ja kumoaa samalla voimassa olevan samannimisen lain. Tältäkin osin esitys on
+kannatettava.
+
+Tässä esityksessä huomioidaan poliisin toimintaympäristössä tapahtuneet muutokset
+mielestäni hyvin sekä myös niistä aiheutuneet tiedonkäsittelytarpeet, jotka koskevat erityi-
+sesti henkilötietojen käsittelyä rikosten ennalta estämiseksi. Esityksen tavoitteena on lisäk-
+si selkeyttää ja yksinkertaistaa lain monimutkaiseksi muodostunut rakenne. Kun tämän esi-
+tyksen lukee kertaalleen, voi todeta, että mikäli tavoitteet onnistuvat, onnistuu myös lain
+uudistaminen.
+
+Toimiva tiedonkulku on verkostoituneen ja riskienhallintaan pyrkivän yhteiskunnan
+keskeisimpiä toimintaedellytyksiä. On selvää, että oikein kohdistetun viranomaistoimin-
+nan perustana on oikea ja mahdollisimman reaaliaikainen tieto. Jälkiviisas on aina helpom-
+pi olla kuin tuottaa tai saada tietoa etukäteen.
+
+Turvallisuusympäristömme muutoksiin reagointi vaatii viranomaisilta entistä parempaa
+ja ajankohtaisempaa tilannetietoisuutta, kuten myös ennakointikykyä ja tiiviimpää yhteis-
+työtä eri viranomaisten kanssa. Yhteiskuntamme jatkuvasti lisääntyvän häiriöherkkyyden
+vuoksi onkin erittäin tärkeää, että pystymme reagoimaan muutoksiin nopeasti ja myös vai-
+kuttavasti. Poliisiorganisaation osalta turvallisuusympäristön muutokset koskevat aina
+yleistä järjestystä ja turvallisuutta sekä niihin liittyvää rikollisuutta, rikosten ennalta estä-
+mistä, niiden selvittämistä ja syyteharkintaan saattamista.
+
+Hallintovaliokunta on todennut jo mietinnössään vuonna 2014, että kun henkilö syöte-
+tään epäiltyjen tietojärjestelmään, hänen tulee täyttää tietyt vaatimukset. Hänet voidaan re-
+kisteröidä vain epäiltynä tai myötävaikuttajana. Kun siis henkilöstä syötetään tietoja epäil-
+tyjen rekisteriin, tulee hänen osaltaan täyttyä perusteiden, joiden nojalla henkilön voidaan
+epäillä syyllistyvän tai syyllistyneen rikokseen taikka myötävaikuttavan tai myötävaikut-
+taneen rikokseen. Kynnys ”syytä epäillä” on sama kuin esitutkintalaissa säädetty rikoksen
+johdosta esitutkinnan toimittamisen kynnys. Epäilyn tulee tällöinkin perustua konkreetti-
+siin havaintoihin, joista voidaan päätellä henkilön tuleva käyttäytyminen, niin että ”syytä
+epäillä”-edellytys täyttyy hyväksyttävästi. Arvion tekeminen henkilön tulevasta käyttäyty-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 122/2018 vp
+misestä on sellaisen epävarman päättelyketjun varassa, että virhearvioinnin riski on varsin
+suuri.
+
+Arvoisa rouva puhemies! Tämä lakiesitys on kokonaisuutena hyvä ja uudistaa jo voi-
+massa olevaa lainsäädäntöä.
+
+15.19 Jani Mäkelä ps: Arvoisa puhemies! Lakiesitystä lukiessa heräsi mielenkiinto eri-
+tyisesti siihen kohtaan, mitkä ovat tämän lakiehdotuksen liittymäkohdat tiedustelulainsää-
+däntöön, joka parhaillaan on käsittelyssä eduskunnassa. Tiedusteluhan ei sinänsä ole var-
+sinaista rikosperusteista poliisitoimintaa, mutta rajapinta näiden asioiden välillä kylläkin
+on, ja viranomaiset, jotka niitä tekevät, ovat hyvin pitkälti samoja. Kuulisinkin mielelläni,
+miten tätä asiaa on mietitty tässä yhteydessä säädettävän. Tiedustelutietohan on tulossa
+moniinkin käytännön sovelluksiin yhteiskunnassa, ja on tärkeää, että sen käytöstä aina sää-
+dettäisiin lailla. Tätä sivutaan hieman esityksessä suojelupoliisia koskevassa osiossa, mut-
+ta onko tästä nyt tässä vaiheessa jo olemassa parempaa tietoa? Toivon valiokunnan joka ta-
+pauksessa huomioivan asian käsittelyssään tarvittavassa laajuudessa.
+
+15.20 Tytti Tuppurainen sd: Arvoisa rouva puhemies! Tämäkin lakiesitys on perusteltu,
+ja ministeri järkeili vastaansanomattomasti. Taustalla on EU:n tietosuoja-asetus, ja tältä
+osin esitystä on kaikilta osin mahdollista tukea.
+
+Mutta kiinnitän, puhemies, huomiota lausuntokierroksella annettuihin näkemyksiin. Ni-
+mittäin useissa lausunnoissa nostettiin esille henkilötietojen käsittelyä koskevan sisäisen ja
+ulkoisen valvonnan tarve sekä tarve tarkentaa käsittelyyn sisältyvien riskien arviointeja.
+Tämäntyyppisiä huomioita esittävät lausunnoissaan muun muassa oikeuskansleri, edus-
+kunnan apulaisoikeusasiamies ja Tietosuojavaltuutetun toimisto. Esitystä on tältä osin kor-
+jailtu, mutta siitä huolimatta huolta on esitetty.
+
+Samoin useissa lausunnoissa esitettiin huoli siitä, että nyt tämä kokonaisuus henkilötie-
+tojen käsittelystä saattaa muodostua EU:n tietosuoja-asetuksen — siis toisaalta EU:n joh-
+dosta tehtävän tietosuojauudistuksen ja toisaalta taas kansallisesti valittujen lainsäädäntö-
+ratkaisujen — seurauksena monimutkaiseksi. Kuka tätä kokonaisuutta hallitsee, ja kuinka
+voimme varmistaa, että yksityisyydensuoja ja henkilötietojen käsittely aina ja kaikissa ti-
+lanteissa tulevat asianmukaisesti huolehdittua?
+
+Varmasti on näin, että vähintään valiokuntakäsittelyssä on huolellisesti perehdyttävä sii-
+hen, että arkaluontoisten henkilötietojen käsittely ja viranomaisten toimivaltuudet tulevat
+riittävällä tavalla huomioitua.
+
+15.21 Matti Semi vas: Arvoisa rouva puhemies! Jäin miettimään tätä lakia ja sitä, kuinka
+paljon tämä vaikuttaa tavallisen ihmisen tietosuojaan ja näitten asioitten hoitamiseen.
+
+Huomasin tuon 51 §:n, Henkilötietojen luovuttaminen kansainvälisessä yhteistyössä,
+siellä on erittäin hyvin minun mielestäni otettu tämmöiset ihmisoikeusasiat esille. Aina pi-
+tää tarkastella myös sen vastaanottavan maan ja tietoja antavan maan ihmisoikeustilannet-
+ta, kuinka ne näihin tilanteisiin sopivat. On aika hyvin minun mielestäni viety eteenpäin
+tätä tilannetta niin, että tämä koko suojelupoliisia koskeva lainsäädäntö on kehittynyt pa-
+rempaan suuntaan siltä osin.
+
+15.22 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Jatkamme henkilötietojen
+parissa, ja kuten edustaja Mäkeläkin totesi, tässä on yhteys tiedustelulainsäädäntöön, kos-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 122/2018 vp
+ka olemme osittain samassa maastossa. Ja on oikeastaan hyvä, että samaan aikaan käydään
+nyt muutakin lainsäädäntöä läpi. Tavoitteena varmasti on sellainen lainsäädäntö, joka on
+johdonmukainen myöskin hallintorajat ylittäen. Esimerkiksi äsken käsittelimme rajaval-
+vontaa ja nyt olemme poliisissa.
+
+Näkisin, että tätä esitystä kannattaisi vielä valiokuntakäsittelyssä arvioida siitä näkökul-
+masta, ovatko esitetyt rajaukset riittävän yksityiskohtaisia. Eli ehdotettu sääntely mahdol-
+listaa henkilötietojen käsittelyn hyvin moninaisiin tehtäviin liittyen: esitutkintaan, poliisi-
+tutkintaan, muun rikoksen selvittämiseen, yleisen järjestyksen ja turvallisuuden ylläpitä-
+miseen ja muun poliisille säädetyn valvontatehtävän suorittamiseen. Eli ainakin näin maal-
+likolle tulee mieleen, olisiko meidän syytä tarkentaa sitä, miten muut tehtävät tässä yhtey-
+dessä määritellään, erityisesti kun olemme käyneet tiukkaakin keskustelua siitä, miten tur-
+vaamme kansalaisoikeudet tiedustelulakien voimaantulon myötä, ja varmasti kansalaiset
+ovat asiasta huolestuneita. Tietenkin yhtä lailla huolestuneisuutta on ilmassa siitä, että po-
+liisilla on oltava myös riittävät edellytykset ratkoa kysymyksiä. Eli tässä pitää tasapainoil-
+la poliisin oikeuksien ja toisaalta kansalaisvapauksien välimaastossa.
+
+Tässä esityksessä minäkin pidän erityisen hyvänä sitä, että supon kansainväliseen yh-
+teistyöhön on otettu ihmisoikeusmyönteinen kanta. Täällä todetaan, että päätettäessä tieto-
+jen luovuttamisesta on lisäksi otettava huomioon henkilötietoja vastaanottavan valtion ih-
+misoikeustilanne, luovutuksen merkitys Suomen kansainvälisille suhteille sekä Suomea si-
+tovat kansainväliset sopimukset ja muut velvoitteet. Lisäksi on otettava huomioon henki-
+lötietoja vastaanottavan valtion tietosuojan taso ja luovutuksen merkitys rekisteröidyn oi-
+keuksille. Tämä on erittäin tärkeää, ja kun tämä on ollut esillä myös tiedustelulakien yh-
+teydessä, niin Suomen kannattaa olla tässä asiassa esimerkillinen.
+
+15.24 Mika Kari sd: Arvoisa rouva puhemies! Tämä lakikohta liittyy nimenomaan tie-
+dustelulakeihin, ja hallintovaliokunnassa on odotettukin, missä vaiheessa eduskunta tä-
+män asian saa. Säätely tulee Euroopasta, mutta suorat vaikutukset ovat nimenomaan tie-
+dustelulakiin. Ja kun perustuslakivaliokunta antoi näihin substanssilakeihin, kotimaan tie-
+dusteluun ja ulkomaan tiedusteluun, lausunnon, jossa korosti, että ensiksi, ennen substans-
+silakien valmistumista, pitää valmistua näiden tiedusteluvalvontaan liittyvien lakien, niin
+olisin kysynyt ministeriltä, miten te näette, pitäisikö tätä henkilötietojen käsittelyä poliisi-
+toimessa, sen lakikokonaisuuden käsittelyä, jopa hieman jouduttaa, että ehtisimme käsitel-
+lä tämän henkilötietopuolen samassa aikataulussa kuin käsitellään tiedustelulakien sitä
+osaa, jossa käsitellään tiedusteluvaltuutettua ja ylipäätänsä tähän valvontaan liittyviä jär-
+jestelmiä.
+
+Itse kannan hieman huolta siitä, että jos tämän lakikokonaisuuden käsittely jää vasta sin-
+ne substanssilainsäädännön puolelle käsiteltäväksi, niin meillä voi tulla valvontaan sellai-
+sia aukkoja, jotka liittyvät nimenomaan tietojen jakamiseen poliisitoimen ja vaikkapa kan-
+sainvälisten toimijoiden välillä.
+
+15.26 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Hallituksen esitys sinällään on
+erittäin hyvä ja kannatettava. Nämä tietosuoja-asiat on pidettävä maassa hyvällä tasolla.
+Perustuslakivaliokunnassa parhaillaan käsiteltiin juuri nämä tiedustelulait, sekä sotilastie-
+dustelu- että siviilitiedustelulaki, ja annettiin lausunnot eteenpäin. Se on tässä maassa kui-
+tenkin niin, että meillä yksityisyydensuojaa ja ihmisten tietojen luotettavuutta varjellaan
+4
+
+
+
+Pöytäkirjan asiakohta PTK 122/2018 vp
+hyvin tarkasti lainsäädännöllä ja luotettavien viranomaisten toiminnalla, se on aina syytä
+muistaa.
+
+Mutta sekin meidän on pakko hyväksyä, että tämä ympäröivä maailma, missä elämme,
+ei aina ole kovin ruusuinen ja hyvä vaan monella toimijalla on niin sanotusti pahat mieles-
+sään, kun he esimerkiksi ylittävät valtioiden rajoja. Tämän takia meidän on pakko tehdä
+kansainvälistä yhteistyötä, vaihtaa tietoja naapureiden kanssa, esimerkiksi EU:n alueella
+kokonaisuudessaan. Jos poliisit joutuisivat yksin työnsä tekemään eivätkä saisi naapureilta
+tietoa esimerkiksi huumausainekauppaa tutkiessaan, niin kyllähän poliisi olisi aivan suu-
+rissa vaikeuksissa, koska kansainvälinen rikollisuus toimii yli maiden rajojen. Me tarvit-
+semme poliisienkin välille hyvää yhteistyötä, että pystymme tätä vakavaa rikollisuutta tor-
+jumaan. Totta kai yksityisyydensuojaa kunnioitetaan, mutta pitää muistaa se, että jos kaik-
+ki tiedot olisivat salattuja eikä niitä saisi käyttää viranomaistutkinnassa koskien vakavim-
+pia rikoksia, niin mihin me sitten joutuisimme — todennäköisesti rikosten aiheuttamat seu-
+raamukset ja vahingot olisivat valtavan paljon suuremmat. Tämän takia meillä tässä maas-
+sa on lainsäädäntö ajan tasalla, ja tiedustelulaki, joka nyt toivon mukaan hyvin nopeasti
+tässä salissa hyväksytään, tuo merkittävän lisän siihen, että pystymme yhä paremmin val-
+vomaan Suomen kansalaisten turvallisuutta, olkoon sitten kysymys sotilasasioista taikka
+esimerkiksi poliisin tai Rajavartioston toiminnasta, jotka takaavat sen, että tässä maassa on
+turvallista elää.
+
+Puhemies Paula Risikko:  Ja sitten ministeri, enintään 3 minuuttia. — Olkaa hyvä.
+
+15.28 Sisäministeri Kai Mykkänen: Arvoisa puhemies! Kiitos, edustajat, relevanteista
+huomioista.
+
+Siihen kysymykseen, missä määrin tämä liittyy tiedustelulainsäädäntöön ja sen säätämi-
+seen ja käsittelyjärjestykseen täällä salissa, mihin useat edustajat kiinnittivät huomiota,
+niin edustajat Mäkelä ja Kari kuin Parviainenkin osaltaan: tämä lainsäädäntö ei edellytä
+sitä perustuslain muutosta, joka on tehty, eikä sinänsä tiedustelulainsäädännön voimaantu-
+loa, ja ne toimivaltuudet, joista tässä ammennetaan, eivät nouse siis tiedustelulainsäädän-
+nön muutoksista, vaan nykyisestä, voimassa olevasta lainsäädännöstä, ja sikäli tällä ei ai-
+van suoraa yhteyttä ole.
+
+Myös mitä tulee tiedusteluvalvontavaltuutetun ja esimerkiksi eduskuntaan perustetta-
+van valiokunnan rooleihin, tämä lainsäädäntö lähtee EU:n tietosuoja-asetuksen soveltami-
+sen mukaisesti siitä, että tietosuojavaltuutettu on se ensisijainen viranomainen, joka, tietys-
+ti poliisin oman lainvalvontatyön ohella, valvoo ikään kuin kansalaisten oikeuksien toteu-
+tumista. Ja kansalainen voi aina vedota tietosuojavaltuutettuun, jotta tämä tarkistaa, miten
+poliisi käyttää rekistereissään häntä koskevia tietoja, ja hänellä on myös oikeus saada tie-
+tosuojavaltuutetulta siitä sitten tieto, onko oikeudenmukaisesti ja asianmukaisesti tietoja
+käytetty, vaikka ei itse pääsisikään suoraan niitä katsomaan, käsiksi niihin tietoihin. Tämä
+on sikäli ikään kuin eri reitti kuin sitten taas kansallista turvallisuutta koskevissa tieduste-
+lulainsäädännön alaisissa asioissa, joihin ollaan nyt sitten esittämässä aivan erityistä, omaa
+valvonta- ja seurantamenettelyä. Toki sitten eduskunnan kannattaa punnita ja valiokunnas-
+sa kannattaa miettiä, missä järjestyksessä kuulemisissa näitä voidaan käsitellä, mutta hal-
+lituksen kannalta tietysti oleellista on se, että kummatkin lakiesitykset asianmukaisesti ja
+jouhevasti etenevät, kuitenkin perusteellisen harkinnan kautta tietysti, mihin eduskunnalla
+on aina syytä olla oikeus.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 122/2018 vp
+Edustaja Tuppurainen viittasi valvonnan järjestämiseen ja siihen, miten tämä puoli toi-
+mii. Uskoisin, että yksi, mikä tässä on kehittynyt — jo sinänsä teknisistä syistäkin viime ai-
+koina, mutta myös tämä lakiesitys sen selkeämmin sääntelee — on nimenomaan lokitieto-
+jen tallentuminen siitä, kuka käyttää ja mitä tietoja ja minkä tähden, jolloin sinänsä kiusaus
+väärinkäyttävällä tavalla henkilötietoja seurata myöskin viranomaistoiminnassa nykyises-
+tä vähenee. Ja toki on tärkeää, että esimerkiksi poliisissa, kun tämä laki tulee voimaan, kat-
+sotaan vielä kerran, miten prosessit on järjestetty, niin että valvonta varmasti toimii, ja käy-
+dään se puoli myös oman lainvalvonnan kannalta läpi, niin ettei sitä varata sitten pelkäs-
+tään tietosuojavaltuutetun rooliin, joka toki on muutoin keskeinen.
+
+15.31 Mika Kari sd: Arvoisa rouva puhemies! Toivoisin ja uskonkin, että ministerikin
+tietää, että mainitsemanne lokitiedot tai poliisilain puolella olevat poliisin velvollisuudet ja
+vastuut erilaisten tietueiden ja tämmöisten järjestelmien käyttöön ja luovuttamiseen on
+kuitenkin säädelty niin tarkoiksi, ettei tiedustelulain yhteydessä tule sellaista ikään kuin
+tuplalainsäädäntöä, että tiedustelulailla säädetään asiaa toisella tavalla ja tällä poliisilain
+puolella taas toisella tavalla. 
+
+Suojelupoliisille, jolleka on suunniteltu tiedustelutoiminnassa keskeinen toimijan rooli,
+on jäämässä tiedustelutehtävien lisäksi myös poliisilain tehtäviä, ja näitä samoja poliisi-
+lain pykäliä näin ollen käytetään tässä tiedusteluympäristössä tapahtuvissa asioissa varsin-
+kin silloin, jos joku tutkittava asia käynnistyy poliisilain puolella ja siirtyykin sitten tiedus-
+telulain puolella samalle viranomaiselle, tässä tapauksessa siis suojelupoliisille.
+
+Haluan vaan aikakirjoihin merkitä sen, että tänä päivänä käytiin keskustelu siitä, onko
+tällä lainsäädännöllä liitännäisvaikutuksia ja suoria vaikutuksia tiedustelulakiin. Uskon,
+että me täällä paikalla olevat hallintovaliokunnan jäsenet — en nyt teidän puolestanne pu-
+hu, mutta haluan puhua myös teille — kampaamme tämän asian hyvin tarkasti hallintova-
+liokunnassa. Jos näin on, että vaikutuksia on, niin silloin olisi syytä käydä tämä kyseinen
+nyt käsittelyssä oleva asia läpi samaan aikaan, kun käydään läpi valvontaa tiedustelupuo-
+lella.
+
+15.33 Ben Zyskowicz kok: Arvoisa rouva puhemies! On tosi tärkeätä yksityisyydensuo-
+jan kannalta, että poliisin hallussa olevia tietoja vain hyvin asianmukaisesti käytetään. On
+kuitenkin tilanteita, joissa en itse ymmärrä, miksi olemassa olevia rekistereitä ei voi käyt-
+tää. Kerron tällaisen tilanteen.
+
+Jos meillä löytyy vaikkapa surmattu ja raiskattu nuori nainen Kaisaniemen puistosta ja
+tuon rikoksen tekopaikan osalta löytyy sormenjälkiä, niin poliisi saa katsoa omista rekiste-
+reistään tämän sormenjäljen omistajaa. Tietenkään se, että löytyy sormenjälki, ei itsessään
+ole mikään näyttö syyllisyydestä, vaan syyllisyyskysymys tietysti ratkaistaan ihan normaa-
+listi, mutta varmasti sormenjälki henkilöstä, jonka tiedetään olleen paikalla, ja sen henki-
+lön kuulusteleminen auttaisivat tämän kauhistuttavan rikoksen selvittämisessä.
+
+No, kaikkien ihmisten sormenjäljet eivät tietystikään ole poliisin rekisterissä, mutta
+meillä Suomessa on viime vuosina syntynyt ja täydentynyt passirekisteri, jonne pikkuhil-
+jaa tulee kaikkien sormenjäljet. Mutta kun poliisi löytää murhapaikalta tuntemattomat sor-
+menjäljet, joille ei löydy haltijaa poliisin omista rekistereistä, siis näistä rikollisuuden tii-
+moilta syntyneistä rekistereistä, niin poliisilla ei ole oikeutta katsoa passirekisteristä, jossa
+pikkuhiljaa on kaikki, kenen sormenjäljet ovat kyseessä.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 122/2018 vp
+Minulla on oikeastaan ministerille kysymys: onko teillä käsitystä siitä, miksi asia on
+näin? Ja ehkä vieläkin tärkeämpi kysymys: eikö olisi syytä tehdä jotain asiantilan korjaa-
+miseksi, jotta ainakin kaikkein törkeimmissä rikostutkinnoissa olisi oikeus katsoa tunte-
+mattomien sormenjälkien haltijaa sieltä passirekisteristä?
+
+Puhemies Paula Risikko:  Ministeri Mykkänen siitä paikalta, olkaa hyvä.
+
+15.35 Sisäministeri Kai Mykkänen: Arvoisa puhemies! Kiitos tarkasta kysymyksestä.
+Sinänsä lähtökohta on se, että itse asiassa EU:n tietosuojalainsäädäntö asettaa hyvin tarkat
+rajoitteet näiden biometristen tunnisteiden, niin kasvokuvien kuin sormenjälkien, käytölle.
+Sen takia tässäkin on päädytty tällaiseen ratkaisuun, jossa sinänsä on se logiikka, että sil-
+loin, kun on poliisin omassa rikostorjuntatyössä syntynyttä tietoa, vaikkapa kameravalvon-
+takuviakin, niitä voidaan verrata etsintäkuulutetusta oleviin tietoihin tai sormenjälkien
+osalta, mutta esimerkiksi passia tai muuta ikään kuin normaalissa toiminnassa viranomai-
+selle jäävää tietoa kansalainen ei luovuta sillä tavalla, että sitä voitaisiin sitten käyttää tässä
+suhteessa häntä vastaan.
+
+Mutta aivan oikea kysymys minusta on sinänsä miettiä sitä, onko tässä kohtaa sitten pää-
+dytty EU:n tietosuoja-asetuksessa ikään kuin maailman kannalta parhaaseen tulokseen vai
+ei. Tässä perustulkinta lähtee tuolta pohjalta. Sitäkin varmasti on valiokunnan mahdollista
+pohtia tarkemmin, onko tässä sitten aihetta myöhempään miettimiseen.
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan, jolle perustuslakivaliokunnan on annettava lausunto.
+7
+
+

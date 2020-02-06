@@ -1,0 +1,822 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM5FD3.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 53/2018 vp
+
+Täysistunto
+
+Tiistai 22.5.2018 klo 14.09—16.51
+
+6. Hallituksen esitys eduskunnalle laiksi rikoslain muuttamisesta
+Hallituksen esitys HE 65/2018 vp
+
+Lähetekeskustelu
+
+Puhemies Paula Risikko: Lähetekeskustelua varten esitellään päiväjärjestyksen 6. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään lakivaliokuntaan.
+
+Keskustelu
+
+15.08 Timo Harakka sd: Arvoisa puhemies! Tämä hallituksen esitys käsittelee rikoslain
+muutoksia, joita edellyttää esitetty maakuntien perustamista ja sosiaali- ja terveydenhuol-
+lon järjestämistä koskeva lakipaketti. Siinä otetaan kantaa vaalirikoksiin, huostaanottoi-
+hin, samoin rikoksiin julkista taloutta vastaan, jotka kaikki siis edellyttäisivät muutoksia.
+Hallituksen esitys on siis riippuvainen tästä muusta sote- ja maakuntalakipaketista, ja sil-
+loin on syytä katsoa tätä kokonaisuutta hiukan laajemmin eli sitä, millä perusteella tämä to-
+teutuu, ja myöskin sitä, milloin, jos milloinkaan.
+
+Tästä koko sotestahan on viime aikoina painavimman lausunnon antanut talouspolitii-
+kan arviointineuvosto, ihan tehtävänkuvansa mukaan, ja tyrmännyt ne hallituksen kaik-
+kein tärkeimmät perustelut. Se toteaa painokkaasti, että säästöihin ei voi enää vedota.
+Tämä on aika tärkeä havainto. Eli tämä väittämä 3 miljardin säästöistä on täysin murentu-
+nut. Nyt olemme tilanteessa, jossa kukaan ei usko tämän hallituksen säästöväitteeseen, ja
+nyt kysytään päinvastoin, montako miljardia lisäkustannukset ovat. Ja tähän on luonnolli-
+sestikin aivan välttämätöntä saada vastaus ennen kuin voidaan edetä tässä lainsäädännös-
+sä. Muussa tapauksessa eduskunnalta edellytetään avoimen vekselin allekirjoitusta, ja sii-
+hen emme suostu.
+
+Valtiovarainvaliokunta kokonaisuudessaan antoi erittäin kriittisen lausunnon — siis
+myös hallituspuolueet mukaan lukien — josta ei voi tulla muuhun johtopäätökseen kuin
+siihen, että tämä sote- ja maakuntauudistus on jätettävä tekemättä ja näin ollen tämäkin hal-
+lituksen esitys 65 olisi tarpeeton. Talouspolitiikan arviointineuvosto toteaa myös, että täs-
+sä arvioinnissa ovat menneet ”sekaisin tavoitteet ja arviot”, ja tämähän tässä on tämä pää-
+asiallinen syy. Eli kun ensiksi on tehty poliittinen ratkaisu siitä, että on perustettava maa-
+kunnat, ja samaan aikaan toinen hallitusosapuoli sanoo, että on saatava aikaan valinnanva-
+paus, niin silloin ei valtiovarainministeriön ole ollut mitään syytä tehdä vaikutusarvioita,
+koska ne vaikutusarviot eivät vaikuta tähän itse päätökseen, joka on lukittu miettimättä
+lainkaan, mitä se tulee maksamaan, ja nyt tässä vaiheessa, vasta tässä vaiheessa, hyvät kol-
+legat, tämä miljardien kraateri on ihmeteltävänä tässä edessämme.
+
+Arvoisa puhemies! Tämä hallituksen esitys tulisi voimaan ”mahdollisimman pian”, jot-
+ta maakuntavaalit voitaisiin pitää jo syksyllä. On täysin mahdotonta käsittää sitä vastuu-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+tonta kiirettä, joka näin valtavan uudistuksen tekemiseen on liitetty. Mistä tämä pakko-
+mielle syntyy? Mikä on asiallinen peruste sille? Miksi emme voi tehdä välttämättömiä sel-
+vityksiä vastuullisessa aikataulussa? Muuten käy niin — ja näin loppukevennyksenä tote-
+an — että meiltä edellytetään, tämän hallituksen esityksen rikoslain muuttamisen henges-
+sä, jos ei rikosta, niin ainakin rötöstä julkista taloutta vastaan.
+
+15.11 Antti Lindtman sd: Arvoisa puhemies! Tämä hallituksen esitys on osa hallituksen
+sote-pakettia. Tässä todella tehdään tekniset muutokset koskien esimerkiksi vaalirikoksia
+ja lasten huostaanottoon liittyviä kuulemismenettelyjä ja muita tarpeellisia muutoksia ri-
+koslakiin, mikäli käy niin, että hallituksen sote-uudistus hyväksytään.
+
+Nyt on kuitenkin, jotta voimme nähdä myöskin tämän esityksen yhteyden muuhun, tär-
+keää keskustella tästä hallituksen koko sote-uudistuksesta. Nimittäin voi sanoa yhteenve-
+tona, että viimeisen viikon aikana hallituksen sote-kulissit ovat kaatuneet. Saimme viime
+viikolla tietää, täällä eduskunnan edessä valtiovarainministeri Orpo myönsi, että valinnan-
+vapaus, jota aikaisemmin perusteltiin sillä, että se tuo säästöjä, ei tuo säästöjä vaan lisää
+kustannuksia, mutta emme tiedä, kuinka paljon se lisää kustannuksia. HUS on arvioinut
+viimeksi tuoreeltaan, että se tulee lisäämään kustannuksia miljardin euron verran. Kunta-
+ja uudistusministeri myönsi, että hallitus ei tiedä, miten valinnanvapauslainsäädännöstä pi-
+tää peruuttaa, jos siitä pitää peruuttaa. Kyseessä on siis täydellinen hyppy tuntemattomaan.
+Ja loppuviikosta saimme tämän Hetemäen muistion, josta talouspolitiikan arviointineuvos-
+to on todennut ehkä kaikkein tyrmäävimmän lausunnon, jonka se on ikinä antanut hallituk-
+sen esityksestä, mitä kuvaa myös se, että se on poikkeuksellisesti oma-aloitteisesti antanut
+tämän lausunnon, jossa se toteaa, että ”sote-uudistuksen lopullinen vaikutus kustannuksiin
+voi esitettyjen arvioiden perusteella olla yhtä hyvin positiivinen kuin negatiivinen” ja ”näi-
+tä kustannuksia ei pystytä arvioimaan” ja sen takia ”uudistuksen hyväksymisestä tai hyl-
+käämisestä pitää päättää muilla kriteereillä kuin uudistuksen mahdollisilla vaikutuksilla
+julkisen sektorin kustannuksiin”.
+
+No, nyt on hyvä nähdä ja tietysti jäimme odottamaan pitkään, mikä on hallituksen vas-
+taus. Se saatiin tänään, kun pääministeri Sipilä on todennut, että ”tämä on aivan hyödytön-
+tä keskustelua”. Tästä keskustelusta näistä kustannuksista hän on juuri antanut lausunnon
+ja todennut, että ”tämä on täysin hyödytöntä keskustelua”. Tämä on totaalisen tyrmäävä ja
+ylimielinen lausunto pääministeri Sipilältä. Ja miksi tämä keskustelu ei ole hyödytöntä?
+Sen vuoksi, että nyt kun on selvää, että nämä säästöt eivät tule toteutumaan ja kustannuk-
+sia tulee lisää, niin maakuntien rahoituslain 6 §:stä rahoitusleikkuri ei ole poistumassa mi-
+hinkään. Eli kustannuksia tulee lisää, säästöjä ei synny, ja jos tämä hallituksen esitys tällä
+tavalla menee läpi, niin kaikkein pahin pelko on käymässä toteen, eli nämä lisäkustannuk-
+set ja rahoitusleikkurin myötä tulevat leikkaukset tullaan toteuttamaan täysimääräisesti
+asiakasmaksuissa ja tulevina palvelujen leikkaamisina.
+
+Hallituksen sote-kulissit ovat kaatuneet, ja nyt on käynyt selväksi, että hallituksen sote-
+uudistus tulee johtamaan miljardien ja miljardien leikkaamiseen suomalaisille tärkeistä ter-
+veyspalveluista.
+
+15.15 Pia Viitanen sd: Arvoisa puhemies! Kuten sanottu, niin tämä rikoslain uudistami-
+nen, tämä tekninen esitys, tietenkin on riippuvainen koko sotesta, sen toteutumisesta ja ai-
+katauluista. Siksi myös minusta on hyvin tärkeää, että tässä yhteydessä nyt jälleen kerran
+puhutaan tästä kokonaisuudesta, ja, puhemies, täytyy sanoa, että erittäin tärkeän ja ison
+2
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+asian otti esille keskustelun avaaja Timo Harakka ja myös edustaja Lindtmanin puheen-
+vuoro oli painavaa sanaa. Tilanne on tällä hetkellä järkyttävä, ja aikamoinen kaaos meillä
+on täällä meneillään tähän soteen liittyen. Kuten sanottu, täysillä allekirjoitan sen näke-
+myksen, että nyt ovat viimeistään kulissit kaatuneet. 
+
+Valtiovarainvaliokunta, jossa itse istun, antoi tästä hyvin, hyvin kriittisen lausunnon,
+jonka myös hallituspuolueet ovat allekirjoittaneet. Todellakin kiinnitin huomiota myös sii-
+hen, että valtiontalouden arviointineuvostolta tuli käytännössä tyrmäys, käytännössä tyr-
+mäys sille, että ei ole olemassa uskottavia arvioita kustannuksista. Se on kovaa, kovaa kiel-
+tä, ja se tulee todellakin ottaa tosissaan. 
+
+Meillä on myös se tilanne parhaillaan meneillään, että me valtiovarainvaliokunnassa kä-
+sittelemme julkisen talouden kehystä, ja kuinka ollakaan, olemme siinä tilanteessa, että so-
+siaali- ja terveysvaliokunta on päättänyt, ettei se lausu julkisen talouden kehyksestä meille
+mitään, ei mitään tässä tilanteessa, jolloin juuri se on olennaista. Tietenkin tästä julkisen ta-
+louden kehyksen näkökulmasta ihmetyttää kovasti se, että jo nyt me tiedämme, että asian-
+tuntija-arviot kertovat, että tässä kehystasossa ei ole lainkaan sitä tasoa, mitä arvioidut kus-
+tannukset tulisivat tulevaisuudessa olemaan, ja siksi me olemme todella oudossa tilantees-
+sa.
+
+Puhemies! Me olemme todella hataralla pohjalla nyt, ja kyllä minua ainakin nyt häm-
+mästyttää kovasti, jos olemme kuulleet pääministeritasolta senkaltaisen puheenvuoron,
+että sanotaan, että tämä keskustelu on hyödytöntä. Mitä mahtaa ihan oikeasti ajatella se ih-
+minen Tammelantorilla tai siellä kaupan edessä, kun käydään juttelemassa? Kyllä ainakin
+itselleni kansalaiset tulevat entistä enemmän, entistä useammin ja koko ajan kysymään,
+että mikä ihme tämä tilanne on, hieman pelottaa, ja mitä siellä on meneillään. Ja tämä kes-
+kusteluko olisi hyödytöntä? Puhemies, ei, se ei todellakaan ole. Ja minä toivoisin, että kos-
+ka kysymys on näin isosta asiasta, kertakaikkisen isosta asiasta, joka vaikuttaa jokaisen
+kansalainen elämään, niin myös eduskunnan työtavat ja tavallaan tämä ajankäyttö ja kaik-
+ki sallisivat sen, että voisimme käydä täällä perusteellisen keskustelun. On aika hurjaa näh-
+dä, että tämän kaltaista ja tämän kokoista uudistusta rakennetaan suurin piirtein höyhen-
+saarilta peräisin oleville luvuille.
+
+15.18 Timo Harakka sd:  Arvoisa puhemies! On todella vähän outoa, että hallituksen
+edustajia ei täällä kovin paljon ole kertomassa, mikä sanelee tämän aikataulun, jolla tätä
+esitystä, joka nyt tässä on keskustelussa, tulisi käsitellä. Täydennän edustaja Lindtmanin
+äskeistä puheenvuoroa sikäli, että HUS on laskenut valinnanvapauden kustannukseksi mil-
+jardin, mutta kun siihen pannaan kaikkia muita kustannuksia päälle, niin luku on 2,5 mil-
+jardia. Valtiovarainvaliokunta on kuullut sataa asiantuntijaa, ja heistä valtaosa, ylivoimai-
+nen valtaosa, on kertonut, että tämä tuo miljardin kustannuksen, tässä on 2 miljardin riski,
+tässä on suuri riski. Ja olemme uudestaan ja uudestaan kysyneet valtiovarainvaliokunnas-
+sa, mikä on valtiovarainministeriön vastaus näihin esityksiin, emmekä sitä vastausta ole
+saaneet. Tai itse asiassa saimme tällaisen epämääräisen muistion, jossa oli esitelty säästö-
+potentiaaleja, mutta se oli koko valtiovarainvaliokunnan, siis mukaan lukien hallituspuo-
+lueiden itsensäkin mielestä niin syvältä stetsonista kaivettua, että sitä ei huolittu valtiova-
+rainvaliokunnan lausuntoon. Voitteko kuvitella, valmistelevan ministeriön korkeimman
+virkamiehen virkavastuulla esittämä arvio oli niin höttöinen, että se ei kelvannut sinne lau-
+suntoon? 
+3
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+Eli olemme edelleen sen kysymyksen äärellä — toivottavasti edustajat voivat täällä vas-
+tata — että kun tiedämme, että tulee lisäkustannuksia, joihin ei ole varauduttu riittävästi
+julkisen talouden suunnitelmassa lähivuosien budjeteissa, mikä itsessään on häpeällistä,
+niin kummasta leikataan: lisätäänkö asiakaspalveluita vai heikennetäänkö palveluiden ta-
+soa. Kummassakaan tapauksessa aito valinnanvapaus ei tule toteutumaan.
+
+Täytyy yhtyä tähän hämmästykseen pääministeri Sipilän ylimielisestä kommentista.
+Hän sanoo, että täytyy vain uskoa, että säästöjä toimeenpanovaiheessa tulee. Minkä takia
+sitten edellytetään miltään hallituksen esitykseltä tai miltään lakialoitteelta minkäänlaisia
+vaikutusarvioita, jos kerran kaikki ovat viime kädessä uskon asioita tässä kaikkein suurim-
+massa reformissa, mitä lähihistoriassa on edes tehty, saatikka sitten paljon pienemmissä
+kysymyksissä? Ja on aivan käsittämättömän ylimielistä sanoa, että keskustelu maakunta-
+vaalien ajankohdasta on hölynpölyä. Voin ymmärtää sen ainoastaan siten, että kun ei ole
+esitetty mitään asiallista syytä, miksi pitäisi kiirehtiä vastuuttomasti tätä valtavaa reformia,
+josta näemme, että sen kustannusvaikutuksia ei ole edes miljarditarkkuudella laskettu, niin
+se on totaalista hölynpölyä, että maakuntavaalit olisivat ensi syksynä.
+
+15.21 Antti Lindtman sd:  Arvoisa puhemies! Tämä keskustelu itse asiassa kuvaa aika
+hyvin tätä hallituksen sote-uudistuksen tilannetta. Päivä päivältä tulee uutta tietoa, kritiik-
+kiä, uutta tietoa siitä, että hallituksen aikaisemmat puheet ovat osoittautuneet joko täydel-
+liseksi hötöksi tai itse asiassa täysin päinvastaiseksi kuin mitä on aikaisemmin sanottu,
+mutta hallituspuolueet vaikenevat kahdella kielellä. Korviin huutaa se hiljaisuus, jossa täs-
+sä salissa ovat hallituspuolueen edustajat. Täällä on paikalla johtavia hallituspuolueiden
+[Arto Pirttilahden välihuuto] ihmisiä, jotka eivät suostu perustelemaan esimerkiksi tämän
+hallituksen sote-uudistukseen liittyvän lakiesityksen yhteydessä, eivät suostu käymään
+keskustelua, vaan lehtien palstoilla sanotaan, että keskustelu on hyödytöntä ja uudet vaka-
+vat tiedot esimerkiksi siitä, kun oikeuskansleri on todennut, että vaalien lainsäädännön ja
+vaalien järjestämisen välillä pitäisi olla vähintään puoli vuotta, ovat hölynpölyä. Täältä äs-
+ken käveli hallituspuolueen johtoon kuuluva edustaja Kulmuni pois. [Timo Harakka: Ja
+Kaikkonen!]
+
+Tähän mennessä kaikki ne huolet ja kritiikit, joita esimerkiksi pääkaupunkiseudun kun-
+nat ovat esittäneet aikaisemmissa vaiheissa, ovat käymässä toteen — eikä se vielä riitä,
+vaan ne ovat käymässä toteen pahemmin kuin mitä itse asiassa aikaisemmissa lausunnois-
+sa uskallettiin arvioida. Tästä hallituksen uudistuksesta on tulossa miljardien ja miljardien
+lisäkustannukset, jotka hallitus tulee tämän maakuntien rahoituslain 6 §:n nojalla leikkaa-
+maan pois ihmisten palveluista sikäli, kun niitä ei asiakasmaksuilla pystytä nostamaan.
+Kaikki ne huolet ja ennalta esitetyt muutostoiveet hallitus on sivuuttanut, ja viimeiseksi on
+jäänyt jäljelle vain peruste, että tämä uudistus pitää tehdä nyt, koska sitä on niin kauan val-
+misteltu. Tuhansien vuosien takaa löytyy viisaus tähän: kaikki tekevät virheitä, mutta vain
+hölmöt pitävät kiinni erehdyksestään.
+
+Arvoisat hallituspuolueiden edustajat, vielä ei ole myöhäistä ajatella asiaa uusiksi, vielä
+ehdimme välttää tämän katastrofin, mutta se edellyttää sitä, että kunnioitatte niitä asiantun-
+tija-arvioita, joita tästä on saatu. Tämä tulee olemaan valtava kokonaisuus, tämä tulee ole-
+maan valtava hyppy tuntemattomaan, josta kukaan ei tiedä, miten sieltä palataan takaisin.
+Ja ne hallituspuolueen ihmiset, jotka täällä ovat hiljaa mutta aikovat äänestää tämän puo-
+lesta, ottavat itselleen valtavan vastuun. Erityisesti täältä pääkaupunkiseudulta valittujen,
+4
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+erityisesti kokoomuslaisten äänestyskäyttäytyminen tämän uudistuksen yhteydessä tul-
+laan muistamaan pitkään.
+
+15.24 Pia Viitanen sd: Arvoisa puhemies! Siltähän tämä vaikuttaa, että kiire on siksi, että
+halutaan pitää maakuntavaalit ja halutaan myös tehdä tämä alkuperäinen lehmänkauppa to-
+deksi, mikä tehtiin aikanaan, minkä kaikki tietävät, että kokoomus sai haluamansa niin sa-
+notun valinnanvapauden eli tämän markkinamallin ja keskusta sai maakuntahallinnon.
+Tämä on jännä, koska tuntuu siltä, että kovinkaan moni ei pidä enää tänä päivänä viisaana
+eikä edes mahdollisena — huom. edes mahdollisena — sitä, että vaalit pidettäisiin syksyl-
+lä, ja silti kuitenkin täällä edelleen viittaillaan pääministeritasolta siihen, että olisi hölyn-
+pölyä näistä keskustella. 
+
+Puhemies! Kaiken kaikkiaan omalta osaltani toki kunnioitan niitä kaikkia hallituksen
+edustajia, ketkä nyt ovat täällä paikalla salissa. Se on ihan kunnioitettavaa. Mutta kuten
+täällä mainittiin aiemmin, niin kyllä tässä se, että hallituspuolueet eivät halua tästä keskus-
+tella, monet johtavat poliitikot lähtevät mielellään pois salista, kertoo myös sen rajun to-
+tuuden, minkä kanssa tällä hetkellä olemme tässä talossa tekemisissä. 
+
+Puhemies! Nyt olisi erittäin hyvä mahdollisuus todeta tässä yhdessä, että annetaan tälle
+käsittelylle se aika, minkä se vaatii. Eduskunnan arvovallankin kannalta olisi viisasta, että
+myös vaatisimme selkeämpiä kustannusarvioita, vaikuttavuusarvioita, kaikkea tätä. On ai-
+van mahdoton ajatella sitä, kun asiantuntijat kertovat, että tällä mallilla tämä tulee aiheut-
+tamaan sen, että koska kustannuksiin ei ole varauduttu riittävällä voimakkuudella, asiakas-
+maksut tulevat ennen pitkää nousemaan tai palveluja leikataan. Kukaan kansalainen ei var-
+masti sitä halua, varsinkin kun ajatellaan, että tätä perusteltiin aivan päinvastaisin perus-
+tein. Tämä on järkyttävää. Tässä tulee käymään, arvoisat hallituspuolueiden edustajat, täs-
+mälleen päinvastoin kuin alkuperäinen soten idea oli. Se oli se, että palvelut paranevat ja
+syntyy kustannussäästöä ja tehokkuutta, ja nyt näyttäisi käyvän täysin toisinpäin. Eriarvoi-
+suus tulee kasvamaan, maakuntien päättäjät joutuvat hyvin vaikeaan tilanteeseen, ja myös-
+kin kustannustaso tulee nousemaan. 
+
+Siksipä nyt tässä vielä kerran, puhemies, haluaisin todeta, että nyt olisi aika eduskunnas-
+sa palata normaaliin päiväjärjestykseen tämän suhteen ja unohtaa tällainen kiire sekä sitten
+myös hallituspuolueiden nähdä, että tätä uudistusta tällaisenaan ei voi viedä tässä aikatau-
+lussa eikä tämänsisältöisenä eteenpäin. 
+
+15.27 Anders Adlercreutz r: Ärade talman! Jotenkin sen sijaan, että hallituspuolueiden
+ryhmäpuheenjohtajat ulostuloillaan sanoivat, että eduskunta ei lähde kesätauolle ennen
+kuin tästä on tehty päätös, sen sijaan, että se pusketaan nyt väkisin läpi tällaisella lehmän-
+kauppakoplausenemmistöllä, toivoisin ehkä sellaista ulostuloa, että sotesta ei äänestetä en-
+nen kuin nämä taloudelliset arvioinnit on tehty, ennen kuin on todennettu, että tavoitteet
+täyttyvät, että hoiva paranee, että taloudelliset tavoitteet täyttyvät.
+
+Mehän saimme tästä nyt jonkinlaisen paperin tosiaan. Valinnanvapauden säästöpotenti-
+aali oli nolla. Jos jossain potentiaali on nolla, niin sehän tarkoittaa automaattisesti, että se
+kasvattaa kuluja. Tiedon ja teknologian käytössä oli säästöpotentiaalia 4 miljardia, mutta
+tässä mallissa ei ole mitään sellaista, joka helpottaisi tiedon ja teknologian käyttöä verrat-
+tuna nykytilanteeseen.
+
+Ministeri Sipilä vetosi taas tänään olemassa oleviin sote-malleihin, Eksoteen ja näihin.
+Nehän ovat itse asiassa tässä suhteessa paljon parempia kuin nyt esitetty.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+Se, että tilaaja ja tuottaja erotellaan, tekee mahdottomaksi esimerkiksi Apotin käyttöön-
+oton koko Uudenmaan laajuudessa. Apottia, johon nyt on kuitenkin upotettu joitakin sato-
+ja miljoonia ja joka olisi suunnattoman hyvä työkalu integraation toteuttamiseen, tiedon-
+kulun helpottamiseen, ei sitäkään tässä mallissa saada vietyä kokonaisuudessaan läpi.
+
+Professori Lavapuro totesi, että vaaleja ei voi pitää tässä aikataulussa. Oikeuskansleri to-
+tesi, että niitä ei voi pitää tässä aikataulussa. Jos tällaiset auktoriteetit eivät vakuuta, niin ih-
+mettelen. Tämä ei ole hölynpölyä, tämä ei ole turhaa puhetta. Ne ovat ihan relevantteja
+huolia, joilla on merkitystä silloin, kun tehdään Suomen historian suurinta uudistusta.
+
+15.29 Timo Harakka sd: Arvoisa puhemies! On todella merkitsevää siis se, mikä on se
+aikataulu, jolla näitä kiireellisiä rikoslain uudistuksia tässä hallituksen esityksessä tulee
+viedä eteenpäin. Ei edelleenkään ole olemassa minkäänlaista asiaperustetta sille, että tässä
+kiirehditään ilman mielekkäitä vaikutusarvioita, kuten edustaja Adlercreutz hyvin totesi.
+
+Hän antoi hyvän neuvon hallituspuolueiden eduskuntaryhmien puheenjohtajille. Tätä
+täydennän sillä, että aivan poikkeuksellisesti oppositiopuolueet olivat samaa mieltä, laidas-
+ta laitaan kaikki kuusi oppositiopuoluetta, joilla on varmastikin hyvin erinäköiset käsityk-
+set siitä, mikä sote-uudistuksen tai tulevan sosiaali- ja terveyspalvelu-uudistuksen sisällön
+tulisi olla. RKP:llä ja vasemmistoliitolla varmaankin on eri käsitys siitä, samoin perussuo-
+malaisilla ja vihreillä, mutta siitä olimme kaikki samaa mieltä ja teimme siitä yhteisen eriä-
+vän mielipiteen tähän jo valmiiksi äärimmäisen kriittiseen, suorastaan murskaavaan valtio-
+varainvaliokunnan lausuntoon, että on täysin vastuutonta edetä tässä asiassa. Mikä on sit-
+ten tästä vielä voimakkaampi ilmaus: on katastrofaalisen vastuutonta edetä tällaisella kii-
+reellä. Kuten on jo moni perustuslakiasiantuntija todennut, ei ole edellytyksiä pitää näitä
+vaaleja enää tänä syksynä, joten voitaisiinko nyt kunnioittaa eduskunnan arvovaltaa ja toi-
+mia mielekkäässä käsittelyjärjestelyssä? Muuten tämä koko hallituksen esitys ja se tapa,
+jolla tätä runnotaan täällä eduskunnassa, on täydellistä hölynpölyä.
+
+15.31 Antti Lindtman sd: Arvoisa puhemies! Jos jotenkin yrittää kiteyttää sen tilanteen,
+jossa nyt olemme, niin tilanne on se, että kun hallitus on itse sanonut, että hallituksen sote-
+ja maakuntauudistus on vuosisadan uudistus ja tämän hallituksen tärkein uudistus ja pää-
+ministeri on ilmoittanut omat valtaoikeutensa ylittäen, että jos se ei mene eteenpäin, tulee
+uudet vaalit — tästä voimme olla samaa mieltä, että mikäli tämä tällaisena menee läpi, ky-
+seessä on vuosisadan uudistus — niin nyt viimeisten päivien aikana, viimeisen viikon ai-
+kana, voi sanoa, ei enempää eikä vähempää, tältä uudistukselta on pudonnut pohja pois.
+[Pia Viitanen: Kerta kaikkiaan!] Hallituksen sote-uudistukselta on pudonnut pohja pois,
+kulissit ovat kaatuneet, säästöjä ei tule, lisäkustannuksia tulee mutta leikkurit pysyvät, ta-
+voitteet eivät toteudu, kustannuksia tulee lisää. Hallituksen uudistukselta on pudonnut poh-
+ja pois, mutta tänään täällä eduskunnassa, täällä kansanvallan tärkeimmässä salissa, käsit-
+telemme ihan muina miehinä ja naisina hallituksen sote-pakettiin liittyvää olennaista uu-
+distusta rikoslain muuttamisesta. Ja mitä tekevät hallituspuolueet ja niiden edustajat? Lois-
+tavat poissaolollaan, ja ne muutamat urhoollisetkaan, jotka uskaltavat olla paikalla, eivät
+käytä puheenvuoroa. 
+
+Siis tällä tavalla viedään vuosisadan uudistusta läpi. Kukaan ei ole perustelemassa, mik-
+si tämä keskustelu on hölynpölyä. Kun se keskeinen perustelu, jolla hallitus on tätä esitystä
+vienyt läpi, on se, että tästä syntyy 3 miljardia säästöjä, niin nyt kun tämä vappuilmapallo
+on puhjennut, hallitus vaikenee. Hallitus vaikenee, laittaa kädet silmille, korville ja suulle
+6
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+ja toivoo, että kukaan ei enää huomaa, ja tämä runtataan läpi täällä eduskunnassa ja vastoin
+oikeuskanslerin kantaa, vastoin keskeisten professorien kantaa yritetään saada maakunta-
+vaalit aikaiseksi aikataulussa, joka ei vastaa hyvän valmistelun periaatteita. 
+
+Onneksi meillä on tässä maassa kuitenkin vielä vastuullisia toimijoita, esimerkiksi Hel-
+singin ja Uudenmaan sairaanhoitopiiri, joka on tehnyt arvion, johon Adlercreutz täällä viit-
+tasi, tästä Hetemäen muistiosta. Siis siinä perusteena käytettiin nimenomaan Eksotessa
+saavutettua menojen kasvun alentamista. On todettu, että samankaltainen kehitys alentaisi
+52 suurimman kunnan tarvevakioituja sote-menoja 3 prosenttia, ja HUS toteaa, että on täy-
+sin erikoista, että nämä arviot perustuvat nykyiseen lainsäädäntöön, vaikka tässä hallituk-
+sen sote-uudistuksessa rikotaan sitä, mikä nykyisessä lainsäädännössä toimii. He käyttävät
+vertausta: ”Kyse on samasta, jos ensin kehuttaisiin tuulimyllyjen ympäristövaikutuksia ja
+perusteltaisiin sillä hiilivoimaloiden rakentamista, kun tuulimyllyt kielletään.” 
+
+Arvoisa puhemies! Onko todella niin, että Suomen demokratia ja kansanvalta on siinä ti-
+lassa, että kun hallituksen vuosisadan uudistukselta on tippunut pohja pois, niin todetaan,
+että vaietaan tämä keskustelu, [Puhemies koputtaa] ja korkeintaan pääministeri sanoo, [Pu-
+hemies: Aika!] että tämä on hölynpölyä, ja sitten vain viedä runtataan tämä läpi? Ei tämä
+näin voi mennä.
+
+15.35 Suna Kymäläinen sd: Arvoisa rouva puhemies! Todellakin, tämä hallituksen esi-
+tys 65 tuodaan tänne eduskuntaan käsittelyyn ikään kuin teknisenä muutoslakina, joka on
+liitännäislaki tähän isoon sote-pakettiin. Todellisuudessahan tämä lakiesitys, vaikka tämä
+on inhimillinen näiden sivujen lukumäärää laskien, kätkee sisälleen paljon sisältöä. Siinä
+esitetään merkittäviä muutoksia esimerkiksi nykyiseen lapsen omavaltaista huostaanottoa
+koskevaan syyteoikeus- ja kuulemissäännökseen. 
+
+Nykyään siis on kuultava sosiaalilautakuntaa ennen tämän päätöksen tekemistä. Nyt esi-
+tetään, että tämä kuuleminen siirrettäisiin maakuntien tehtäväksi ja ohjattaisiin siellä liike-
+laitoksen hallituksen tehtäväksi. Etukäteen ei tietenkään voi kyseenalaistaa liikelaitoksen
+hallituksen jäsenistön tai kokoonpanon ammattitaitoa, mutta on välttämätöntä kantaa huol-
+ta siitä, riittääkö referenssi liikelaitoksen hallituksessa tämänkaltaisen päätöksen tekemi-
+seen. Voiko käydä niin, että esimerkiksi kustannukset ohjaavat päätöksiä? Huostaanotto on
+aina raskas niin kustannuksiltaan kuin ennen kaikkea yksilövaikutuksiltaan. On tärkeää,
+että tässä laissa huomioidaan, miten on säädetty, onko yhteistyö näiden lastensuojelukysy-
+mysten osalta eri maakuntien liikelaitosten hallitusten kanssa mahdollista, kuinka hyvin on
+mahdollista tiedonvaihto, sillä on todennäköistä, että on lapsia, jotka ovat muuttaneet usei-
+ta kertoja, ja se paras asiantuntemus on sen toisen maakunnan sisällä. Tämä tulee muun
+muassa selvittää hyvin tarkasti, sillä on välttämätöntä säätää tarkasti, jottei lasten oikeus-
+turva vaarannu. 
+
+Ja yhtä lailla ovat tärkeitä kysymykset rikosoikeudellisen virkavastuun osalta. Nythän
+esitetään, että tätä rikosoikeudellista virkavastuuta laajennetaan yksityisiin toimijoihin.
+Sen sijaan julkisella puolella tätä laajennusta ei samassa määrin tapahdu. Tässä on selkeä
+epäjohdonmukaisuus, jolla on vaikutuksia ihmisten ja yksilöiden oikeusturvaan. Tämä liit-
+tyy olennaisesti kuluttajansuojaan liittyviin kysymyksiin. 
+
+Nämä isot muutokset liittyvät siis tähän isoon sote-pakettiin, jota on leimannut kiire. Me
+lakivaliokunnassa saimme hallituksen esitykset 15 ja 16 viime viikon tiistaina, ja valiokun-
+nan puheenjohtaja on luvannut, että niitä mahdollisesti jo tämän viikon aikana valiokun-
+nasta olisi käsittelystä tulossa ulos. Toivoisin, että tämä rikosoikeudellinen laki saisi perus-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+teellisen, kunnollisen käsittelyn, jota ei leimaa kiire, jotta valiokunnan jäsenillä on mahdol-
+lisuus kutsua paikalle henkilökohtaisesti kuultavaksi asiantuntijoita ja tehdä perusteellinen
+lainsäädäntö, kun näin isosta asiasta on kysymys. Nyt kiire on leimannut tätä liikaa.
+
+15.38 Mika Kari sd: Arvoisa rouva puhemies! Itse olen saanut istua hallintovaliokunnan
+jäsenenä, meidän kuntavaliokuntamme jäsenenä, jo vuodesta 2011 asti ja seurata edellisen
+hallituksen hyvää pyrkimystä saada Suomeen sosiaali- ja terveysuudistus ja sen yhteydes-
+sä myös maakuntauudistus ja nähdä myös sen, millä tavalla uudistus ei maaliin asti men-
+nyt vaan hyvistä yhteisistä ponnisteluistamme huolimatta kaatui loppumetreillä. Nyt halli-
+tus lähti uuteen yritykseen, ja, niin kuin tässä useammassa puheenvuorossa aiemmin on
+tuotu esiin, tämä vuosisadan uudistus näyttää pahasti vesittyvän jo tässä valmisteluvaihees-
+sa niihin tietoihin, että näitä miljardisäästöjä ei tule. Leikkurit huolehtivat kyllä palveluta-
+son laskusta ja mahdollisesti saatavuudenkin laskusta.
+
+Pidän kyllä itse todella huolestuttavana tilannetta, että hallintovaliokunnassa tälläkin
+hetkellä meidän pitää antaa lausuntoja sellaisella nopeudella, että hämäläistä hirvittää, var-
+sinkin, kun sisällöt eivät puhu hallituksen esityksen puolesta. Viimeksi käsittelimme lau-
+suntoa valinnanvapaudesta, ja asiantuntijakuulemisen yhteydessä kymmenistä kuulluista
+asiantuntijoista mieleen jäi yksi asiantuntija, joka oli hallituksen esityksen puolella. Tämä
+samainen asiantuntija oli yksi niistä asiantuntijoista, jotka ovat olleet esitystä kirjoittamas-
+sa. Jos tarkoituksena on tosiasiallisesti kuulla lain laatimisen yhteydessä eduskunnassa
+asiantuntijoita eduskuntatyön arvon mukaisesti, niin kuulemisen lisäksi tulisi kuunnella,
+niin että ne mielipiteet näkyisivät myös lausunnoissa ja mietinnöissä, joita valiokunnissa
+enemmistön voimilla eli hallituksen voimilla viedään läpi. Pidän tätä tilannetta kestämät-
+tömänä ja olen tässä samassa rivissä hallintovaliokunnan jäsenenä, kansanedustajana ja
+kuntapäättäjänä siinä, että näin asian kanssa ei voi edetä. Eduskunnalla pitää olla käytettä-
+vissä kaikki mahdollinen tieto oman päätöksensä tekemiseksi. Jos yksittäisten kansanedus-
+tajien oikeutta tehdä näissä asioissa omantunnon mukaan rajataan puoluepoliittisin syin,
+pidän tilannetta kestämättömänä.
+
+Pidän kestämättömänä myös sitä, että kuntaministeri Vehviläinen täällä kyselytunnilla
+kovaan ääneen sanoi, että maakuntauudistuksen muutosjohtajat ovat sanoneet, että ei muu-
+ta kuin viekää läpi — kaikki on hyvin, viekää läpi. Kysyin yhdeltä muutosjohtajalta: ei ai-
+nakaan hänen puoleltaan tällaista valtakirjaa ministerille ole annettu. Tietenkin voidaan
+käyttää poliittista retoriikkaa ja todeta, että jotkut muutosjohtajista ovat näin sanoneet,
+mutta minun mielestäni ei ole asianmukaista laittaa sanoja toisten suuhun myöskään tässä
+yhteydessä. Kun itse kysyin tältä muutosjohtajalta useamman läsnä ollessa, niin vastaus oli
+selkeä: ”En tällaista valtakirjaa ole oman maakuntamme puolelta antanut.”
+
+Tämä eduskunnan käsittely muistuttaa aktiivimallikäsittelyä — yhtä paljon on paikalla
+hallituspuolueiden edustajia.
+
+15.41 Pia Viitanen sd: Arvoisa puhemies! Oikeastaan tuossa äsken lakivaliokunnan jä-
+sen, edustaja Kymäläinen aika hyvin kuvasi myös tämän esityksen sisältöä. Tässä on aivan
+olennaisia asioita kuitenkin, ja on minun mielestäni jopa pähkähullua ajatella, että ennen
+kuin tiedämme, meneekö sote maaliin — toivottavasti ei menisi — tai koska tai muuta, niin
+sitten täällä vain vaivihkaa jo valmiiksi hyväksyttäisiin asioita, joita ei kerkeäisi ehkä kyl-
+liksi sisällöllisesti mieltämään. 
+8
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+Samoin viittaan tässä edustaja Mika Karin puheenvuoroon, jossa hän kuvaili taas tilan-
+netta hallintovaliokunnassa, jossa annetaan lausuntoja. Kun tässäkin miettii, että tämän
+lain sisällä on lasten huostaanottoon liittyviä muutoksia ja asioita, niin sehän edellyttää eri-
+tyisen tarkkaa kuulemista ja huolellista paneutumista ja varmasti olisi sellainen, että sosi-
+aali- ja terveysvaliokunnankin olisi hyvä tähän näkemyksensä sanoa. Mutta mikäpä tilan-
+ne siellä? Hallituspuolueiden toimesta sosiaali- ja terveysvaliokunta ei anna lausuntoa edes
+julkisen talouden kehyksestä, joka on aivan olennainen asia juuri tässä tilanteessa, kun suu-
+rin osa siitä kehyksestä muodostuu tästä sotesta tulevina vuosina. Siis tämä on aivan kes-
+tämätön tilanne eri valiokuntienkin näkökulmasta. Ja itse tietenkin katson tätä vahvasti
+sieltä valtiovarainvaliokunnan näkökulmasta. Kyllä merkille pantavaa on se, että en minä
+muista oman valtiovarainvaliokuntahistoriani ajalta noin kriittistä lausuntoa, minkä koko
+valiokunta tekee näistä kustannusvaikutuksista ja itse asiassa siitä, että niitä ei tiedetä tai ei
+tarkkaan arvioida, ja mikä pahinta, ne voivat etumerkiltään muuttua päinvastaisen suuntai-
+siksi. Tämäkin on jo sinänsä poikkeuksellista, että tämän sortin kovuus on lausunnossa,
+minkä myös hallituspuolueet ovat hyväksyneet.
+
+Eli, puhemies, näillä sanoin toivoisin, että tämän keskustelun ovat ainakin jossain päin
+taloa kuunnelleet myös hallituspuolueiden edustajat ja osaltaan sitten mietittäisiin myös
+tästä eteenpäin johtopäätöksiä.
+
+15.43 Suna Kymäläinen sd:  Arvoisa rouva puhemies! Vielä jatkaisin tuosta virkavas-
+tuun laajentamisesta yksityisen puolen toimijoiden osalle. Tässä erityinen huomio valio-
+kuntatyöskentelyssä täytyy myöskin osoittaa siihen, kuka valvoo virkavastuun toteutumis-
+ta tai sitä, ettei hoitovirheitä pääse tulemaan. Millainen rooli poliisilla on tässä, vai kuka on
+se valvova viranomainen? Ja kun tätä laajennetaan ja kun jonkun täytyy valvoa, niin kysy-
+mys siirtyy resursseihin: Onko tässä varauduttu riittävästi muiden kustannusten osalta, oli
+kyseessä sitten poliisi tai mikä? Kuinka resurssit on tässä huomioitu?
+
+Tämän harjoituksen osalta voi mennä paljon vikaan. Tämä on yksi osa sitä isoa koko-
+naisuutta. Tämän pienen osan moni asia liittyy olennaisesti niihin lakipykäliin, joita sieltä
+isoista tiiliskivistä sitten löytyy. Meillä ei ole lakivaliokunnassa resursseja ja mahdolli-
+suuksia perehtyä erikseen jokaiseen lastensuojeluun ja muuhun liittyvään asiaan, joka siel-
+lä 15:n ja 16:n sisällä ja muihin asiaan liittyvissä esityksissä on. Mutta toivoisin, että hyvä
+lainsäädäntö antaisi takuun siitä, että on joku, joka näihin pystyy perehtymään, että näissä
+ei tehdä virheitä, kuten edellä mainittiin tästä aktiivimallista. Siinä runnottiin malli väkisin
+läpi kiireellä ja luvattiin seurata, mutta jo tuo seurantajakson aika oli kohtalokas monelle,
+90 000 suomalaiselle itse asiassa. Ja kun nyt korjaustoimenpiteitä tehdään, on vaara, että
+yhä useammalle tämä on kohtalokasta ennen kuin lainsäädäntöä saadaan muutettua sen
+mukaisesti, että saadaan korjattua näitä räikeimpiä epäkohtia aktiivimallin osalta. 
+
+Mutta kun sotesta on kysymys, on kysymys hengestä ja elämästä. Sen vuoksi on tär-
+keää, että teemme tarkat rajapinnat lainsäädäntöön, teemme huolellisen valmistelun ja kan-
+namme sen vastuun, mikä meille on tässä parlamentissa toimiville annettu.
+
+15.46 Sami Savio ps: Arvoisa puhemies! On kyllä varsin helppoa yhtyä muun opposition
+riveistä tänään tulleeseen kritiikkiin maakunta- ja sote-uudistuksen toteuttamiseen liitty-
+vistä riskeistä, jotka myös virkamiehet ja muut asiantuntijat ovat toistuvasti tuoneet esille.
+Valitettavasti hallituspuolueet eivät näytä näitä asiantuntijalausuntoja pitävän juuri mi-
+nään. 
+9
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+Kaikkein pahinta on se kiire, jolla tätä uudistusta viedään nyt raa’an voiman turvin
+eteenpäin. Toisaalta tämä kyseenalainen etenemistapa on tässä viime viikkojen aikana joh-
+tanut muun muassa siihen, että hallituspuolueiden rivit ovat rakoilleet ja repeilleet. Saa
+nähdä, mitä jatkossa on tulossa. Lisäksi viime viikolla kyselytunnilla ministerin suusta
+kuulimme myös sen, ettei hallitus ole edes miettinyt sitä, miten uudistuksen mahdollisen
+voimaantulon jälkeen puututaan näihin epäkohtiin ja korjataan niitä, joita väistämättä aina
+näin isoissa uudistuksissa ilmenee. Onkin erittäin huolestuttavaa, ettei mitään varasuunni-
+telmaa ole olemassa. 
+
+Arvoisa puhemies! Viime viikolla julkistetun tuoreen virkamiesmuistion mukaan tä-
+män sote-uudistuksen suurin hyöty syntyisi digitalisaation hyödyntämisestä. Sen myötä
+saataisiin noin 4 miljardin euron säästöt, jotka edustaja Adlercreutzkin nosti tässä äskeises-
+sä puheenvuorossaan esille, mutta on tosiaan hyvin kyseenalaista, etteikö näitä säästöjä
+saataisi muutenkin, ilman tätä hyvin, hyvin monimutkaista uudistusta. Tekninen kehitys
+toki etenee joka tapauksessa. Se ei liity tähän hallituksen politiikkaan millään tavalla. Tääl-
+lä on myös viitattu valinnanvapauslainsäädännön säästöpotentiaaliin, joka myös on virka-
+miesmuistion mukaan korkeintaan nolla euroa. Todennäköisesti menokasvu siitä vain yl-
+tyy, suuruutta ei tiedä kukaan.
+
+Arvoisa puhemies! Oppositiopuolueet ovat tosiaan tehneet yhteistyötä muun muassa
+valtiovarainvaliokunnassa. Täällä sen lisäksi mainittiin, että eri oppositiopuolueiden näke-
+mykset ovat uudistuksen suhteen hieman erilaisia, poikkeavat väistämättä toisistaan puo-
+luekannasta riippumatta, mutta huoli on kuitenkin yhteinen: se, mihin hallitus on tällä ko-
+valla kiireellä Suomea ajamassa. Viekö se meidät uuteen taloudelliseen ahdinkoon, ja hei-
+kentääkö se terveyspalveluita niin paljon, että ne heikkenevät eikä niitä ole kaikissa Suo-
+men osissa enää saatavissa?
+
+Arvoisa puhemies! Valitettavasti näyttääkin vahvasti siltä, että tässä uudistuksessa on
+hyvin vahvasti kyse valtapolitiikasta, mikä on tosin itseään asiakeskeiseksi poliitikoksi pu-
+heissaan mainostavan pääministeri Sipilän lausunnoista käynyt jo aiemmin ilmi. Hän on
+toistuvasti uhannut hallituskumppaneitaan uusilla vaaleilla, [Puhemies koputtaa] ellei tätä
+uudistusta viedä eteenpäin. 
+
+15.49 Mika Kari sd: Arvoisa rouva puhemies! Kun tämänkin ison sosiaali- ja terveysuu-
+distuksen yhtä osaa nyt tänään eduskunnassa käsitellään, voi tuntua siltä, että puheet koko
+soten kaatumisesta ovat liian isoja tämän yksittäisen asian osalta. Mutta tämä iso sote koos-
+tuu yksittäisistä asioista, mihin edustaja Viitanenkin hyvin omassa puheenvuorossaan viit-
+tasi, ja tämä mittakaava tälle sosiaali- ja terveysuudistukselle tulee pääministeri Sipilän pu-
+heenvuoroista: vuosisadan uudistus. Itse olen useissa eri tilaisuuksissa verrannut tätä vuo-
+den 1863 Helsingin valtiopäiviin, jolloin kunta ja seurakunnat erotettiin toisistaan ja raken-
+nettiin pitkälti nykyisen kaltainen kuntademokratia, kunnallinen itsehallinto ja siihen liit-
+tyvät oikeudet mutta myös siihen liittyvät vastuut.
+
+Nyt tässä uudistuksessa runnotaan tällä toukokuun lämpöaallolla lakiuudistuksia edus-
+kunnan valiokunnissa sellaisella vauhdilla, johonka äsken viittasin, että tulee ihan sellai-
+nen tunne, että mätäkuu on siirtynyt heinäkuulta tänne toukokuun lämpöaaltoon ja saanut
+pilaantumaan tämän hallituksen esityksen. Siihen myös professorit ansiokkaasti ovat eri
+yhteyksissä viitanneet. Luvut puuttuvat — tai sen lisäksi, että niitä lukuja ei ole, niin kuin
+viittasin jo aikaisemmin, leikkurit syövät vielä kuntien resursseja entisestään.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+Mutta olen huolestunut myös tästä eduskunnan valiokuntatyöskentelystä. Ei tietenkään
+ole poikkeuksellista eikä ainutkertaista se, että valiokuntien työskentelymäärää on lisätty
+lisäämällä ylimääräisiä valiokuntia, mutta olen huolestunut siitä hengestä, jolla sitä teh-
+dään. Muun muassa yhdessä valiokunnassa, jossa itse olen, meille annettiin sellainen vink-
+ki, että eihän näihin valiokunnan kokouksiin ole pakko tulla, jos ne eivät aikatauluihin so-
+vi, täällä on vain kuulemisia paikalla. Ei tarvitse päättää mistään, on vain kuulemisia. Mi-
+nulle kuuleminen on kyllä henkilökohtaisesti valtiopäivätoimi siinä kuin asioista päättämi-
+nen ja yksi tärkeä osa sitä prosessia. Ei voi sanoa, että jos eduskunnan työjärjestykseen tai
+edustajien aikatauluihin valiokunta ei sovi, niin ei täällä ole pakko olla. Kyllä minun mie-
+lestäni on. 
+
+Halusin tämän kirjauttaa näihin valtiopäiväasiakirjoihin Herran vuonna 2018 ihan jät-
+tääkseni myös muistijäljen siitä, että tällä parlamentaarisella työllä on merkitystä. Vaikka
+puheenvuorot tyhjässä salissa eivät aina tunnu merkittäviltä, niin päätökset itse asiassa
+ovat merkittäviä. 
+
+Joulukuussa viime vuonna päätettiin tässä salissa aktiivimallista. Silloin aktiivimalli
+tuotiin eduskunnan käsittelyyn perjantaina ylimääräiseen istuntoon kello 16.30, ylimääräi-
+seen, niin ylimääräiseen, että paikalla ei ollut kuin 13 kansanedustajaa, ei ministereitä esit-
+telemässä, ei mediaa paikalla, hyvin kiireellisellä aikataululla. Tein silloin esityksen, että
+aktiivimalli jätetään pöydälle seuraavana maanantaina kokoontuvaan täysistuntoon. Sil-
+loin oli väkeä paikalla 150 kansanedustajaa, kaksi ministeriä ja koko Suomen media. Toi-
+von, että tämäkin keskustelu, joka tänään salissa käydään tästä asiasta, saa asian arvoisen
+huomion, koska kansa kyllä muistaa.
+
+15.52 Antti Lindtman sd: Arvoisa puhemies! Vielä tästä kokonaisuudesta ja vielä näistä
+säästöistä. Miksi se on niin olennainen asia? Sen vuoksi, että se on ollut oikeastaan viimei-
+nen asia, siis hallituksen viimeinen perustelu viedä tätä uudistusta eteenpäin, kun selvästi
+muut tavoitteet eivät toteudu. Tätähän perusteltiin sillä, että tämä parantaa hoitoon pääsyä.
+Nyt on käynyt selväksi, että näin ei tapahdu. Sitten sitä perusteltiin alun perin sillä, että se
+vähentää eriarvoisuutta. Nyt on käynyt selväksi, että tämä ei vähennä eriarvoisuutta tervey-
+dessä vaan lisää sitä. Ja lopuksi on sanottu, että tämä on pakko tehdä näiden säästöjen
+vuoksi. Vielä viimeksi pääministeri totesi Pääministerin haastattelutunnilla Yleisradiossa:
+”Nyt on esitetty kritiikkiä, että 3 miljardin tavoite ei täyttyisi. Rahoituslaissa on varmistet-
+tu, että säästöt toteutuvat.” Näin Sipilä totesi. 
+
+Mitä tämä tarkoittaa? No, tämähän tarkoittaa sitä, että nyt kun on selvää, että kaikissa ta-
+pauksissa tämän hallituksen vuosisadan uudistuksen etumerkki näissä säästöissä ei ole mii-
+nus- vaan plusmerkkinen, tulee lisää kustannuksia, ja tämä 3 miljardin säästö ei tule toteu-
+tumaan, eli nyt kun on nämä  lisäkustannukset, mitä ne ikinä  ovatkaan —  jos ne ovat
+HUSin arvion mukaan 2,5 miljardia, niin se 2,5 miljardia plus se tavoiteltu säästö, josta
+meillä ei ole minkäänlaista arviota, toteutuuko se vaiko ei, yhteensä yli 5 miljardia — ja nyt
+tämän pääministerin lausunnon mukaan, ja niin kuin se täällä hallituksen esityksessä on,
+tämä rahoituslain 6 § pitää huolen siitä, kuitenkin kustannuksia leikataan miinus 3 miljar-
+dia, niin tässä on maakunnilla edessä, jos tämä menee läpi, yli 5 miljardin leikkaukset, siis
+yli 5 miljardin leikkaukset sote-palveluista. Se on niin valtava määrä, että suomalainen ter-
+veydenhuolto ja suomalaisten asukkaiden ja potilaiden oikeudet eivät missään tapauksessa
+ole ennallaan. On viimeistään selvää, että uudistus tässä esitetyssä muodossa merkitsee
+11
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+niin paljon enemmän riskejä kuin se, että tämä ajateltaisiin uusiksi, että on täysin vastuu-
+tonta viedä tätä uudistusta tässä muodossa tällä aikataululla eteenpäin.
+
+15.55 Mika Kari sd: Arvoisa rouva puhemies! En omalta osaltani pitkitä tämän enempää,
+mutta kun viittasin siihen aktiivimallikeskusteluun, jossa paikalla oli hetkittäin yksi halli-
+tuspuolueen kansanedustaja — taisivat vaihtua kyllä puolueet välillä — niin nyt kun on
+kuitenkin kahden päähallituspuolueen kansanedustajia peräti neljä paikalla, olisin kysynyt
+tähän edustaja Lindtmanin hyvään puheenvuoroon viitaten: jos meille kuntapäättäjille on
+tästä sote-harjoituksesta tulossa miljardien leikkauslistat jatkossa, isot leikkaukset joka ta-
+pauksessa, niin toivottavasti tämä todellisuus on teille hallituspuolueiden kansanedustajil-
+le jo avattu, ja jos on, voisitteko te avata meille? Oppositiossa tätä tietoa ei kyllä vielä ole.
+Toivon, että tästä asiasta tullaan vielä kysymään, toivottavasti jo ensi torstaina viimeis-
+tään, mihin asentoon kunnat tällä sote-uudistuksella pakotetaan. Tähän asti kunnat ovat ol-
+leet palveluiden osalta suhteessa valtiovaltaan hieman alisteisessa roolissa, kun lainsää-
+däntö luonnollisesti täällä tehdään, mutta jos nyt sote-uudistuksen kautta kunnilta myös se
+viimeinenkin valta hoitaa tehtäviä viedään tänne valtion virastoihin, niin edessä on tämä
+lista leikkauksia, johonka Lindtman tuossa puheenvuorossaan viittasi.
+
+15.56 Pia Viitanen sd: Puhemies! Sehän tässä se iso juttu onkin, että käytännössä katsoen
+tulevaisuudessa, jos tämä toteutuisi näin, siinä kyllä kunta- ja maakuntapäättäjä on hyvin
+avuttomassa asemassa. Valtio määrittelee raamit ja sitä kautta sitten pakottaa leikkauksiin,
+palveluiden heikennyksiin, ja malli on siinäkin suhteessa hyvin nurinkurinen.
+
+Mutta, arvoisat hallituspuolueiden jäsenet, toivon todellakin nyt sitä, että jos ette tässä ja
+nyt halua tähän keskusteluun osallistua, niin ainakin harkitkaa ja miettikää tätä tahoillanne
+ja käykää vakavia keskusteluja omissa eduskuntaryhmissänne. Yleensähän käy niin, kun
+täällä oppositiossa alamme puhumaan, että tänne tulee sitten myös hallituspuolueista lisää
+väkeä. [Antti Lindtman: Tervetuloa!] Nyt ei tule, mikä mielestäni kuvaa juuri sitä, mitä oli-
+ko se edustaja Lindtman, joka tuossa aiemmin sanoi, että tämä nyt vaietaan kuoliaaksi, että
+kaikki kielet, mitä täällä nyt puhutaan, eli vaikenemisen kieli kertoo kyllä siitä, että tämä
+on hankala uudistus, ja uskoisin, että myös hallituspuolueista ainakin osa saattaa näin aja-
+tella. Viittaan nyt esimerkiksi näihin viimeaikaisiin päätöksiin, mitä pääkaupunkiseudulla
+tehtiin näissä kriisikokouksissa ja muissa — erittäin merkittävä viesti, erittäin merkittävä
+viesti siitä, että asiat eivät ole hyvin ja stoppi täytyy tulla, ja siellä olivat myös hallituspuo-
+lueet tässä rintamassa mukana. 
+
+Asia on vakava, asia on iso, ja siksi mielestäni myös tänään se ansaitsee tämän keskus-
+telun. Toivon, että tässä ihan oikeasti rupeaisi vähän omatunto kolkuttamaan, koska tässä
+tulee sellainen tunne, että tässä vain ikään kuin tietynlaisella voiman näyttämisellä, tietyn-
+laisilla tavoitteilla pakotetaan sitten eduskunta ja myös hallituspuolueet tietyssä aikataulus-
+sa etenemään ja tekemään huonoa lainsäädäntöä. Pelkään jopa, että tämä tulee jäämään
+kyllä historiaan sellaisiin kirjoihin, että en tiedä, kuinka moni haluaa joskus sitten tulevai-
+suudessa sanoa, että tässäpä olin riemurinnoin tätä hyväksymässä. 
+
+Kuten täällä on sanottu, tästä on pohja pudonnut pois. Kaikki asiantuntijalausunnot ovat
+jo pitkään olleet sellaisia — mutta erityisesti nyt viimeaikaisen keskustelun luulisi vievän
+ne viimeisetkin epäilyt — että tässä on suuri pelko tulevaisuudesta, suuri huoli siitä, miten
+tulee käymään. Ja kuten sanottu, suomalainen terveydenhuolto ja sosiaaliturvajärjestelmä
+ovat sinänsä varsin hyviä. Siellä on ongelmia, joihin kaivataan parannusta, ja siksi tarvi-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+taan sote-uudistusta. Ihmisten on saatava nopeasti hyviä terveyspalveluita ja näin pois-
+päin, mutta kun tässä nyt on käymässä ilmeisesti juuri toisinpäin, niin luulisi, että nyt jalka
+on jarrulla herkeässä ja että tästä voitaisiin vielä peruuttaa. 
+
+Tässä, puhemies! Toivon, että tämä keskustelu osaltaan johtaisi johonkin.
+
+15.59 Suna Kymäläinen sd:  Arvoisa rouva puhemies! Tosiaan tästä keskustelusta on
+hyvä jatkaa: kuka kantaa huolta lainsäädännön tilasta, tämän valmistelun tilasta tällä het-
+kellä? Ainakin itselläni on syvä huoli siitä, millaisen käsittelyn nämä tärkeät lakipykälät
+saavat valiokunnissa. Se, että lähtökohtaisesti aikaa on viikko tai jopa alle, automaattisesti
+vaikuttaa kuultavien määrään. Kun me oppositiossa viime viikolla lakivaliokunnassa esi-
+timme kuultavia, niin kaikki kävi mutta kaikki kävi vain kirjallisena. Meillä ei ollut mah-
+dollisuutta saada edes potilasasiamiestä tai sosiaaliasiamiestä paikalle kuultavaksi, vaikka
+puhutaan näin tärkeästä kysymyksestä, joka vaikuttaa ihmisten oikeusturvaan. Toivoisin,
+että hallituksen jäsenet ja hallitus kantaisivat huolta siitä, että saisimme vietyä läpi kunnol-
+lisen lainsäädännön ja kunnollisen valmistelun, jota ei leimaisi tämä armoton kiire ja aika-
+taulu.
+
+Mutta itse tämän lain spesifeihin vielä: Mietin, että valiokunnassa on tärkeää kiinnittää
+huomiota ihmisen oikeusturvaan sellaistenkin asioiden kohdalla kuin sen, että nyt tämä tu-
+leva sote-esitys pohjaa vahvasti asiakasseteleiden käyttöön. Niitä käyttöä laajennetaan. Jo
+nykyisellään palveluseteleitä tai asiakasseteleitä — mitä nimeä haluamme käyttää — on
+käytössä monissa sairaanhoitopiireissä, mutta jo nykyisin on huomattu epäkohtia, joissa
+yksilöitä on laskutettu jopa 500 euron edestä vielä ohi tuon asiakassetelin. Mietin, että kun
+tämä malli laajenee nyt tämän esityksen myötä, niin lisääntyy myöskin niiden mahdolli-
+suuksien määrä, että yksilöt, ihmiset, asiakkaat kokevat tämänkaltaisia epäkohtia. Sen ta-
+kia on tärkeää, että katsomme tuon lainsäädännön siltä osin, että toteutuuhan ihmisten oi-
+keusturva, sisältyväthän tähän rikoslain muuttamiseen tietyt pykälät, jos näitä tällaisia pe-
+tostunnusmerkistön täyttäviä asioita esiintyy.
+
+Haluan uskoa, että hallituksen jäsenilläkin on tahtotila saada tästä laista hyvä ja ihmisiä
+palveleva. Tämä on niin iso harjoitus, Suomen 100 vuoden historian isoin paketti. Olisi su-
+rullista, että muutaman vuoden päästä todettaisiin, että pieleen mentiin, aika moni putosi
+matkasta ja kyydistä, ja aloittaisimme uudelleen valtavan prosessin ja yrittäisimme muut-
+taa tätä suurta kuvaa, joka [Puhemies koputtaa] nyt tässä myllerretään.
+
+16.02 Ritva Elomaa ps: Arvoisa puhemies! Sote puhuttaa myös tuolla perussuomalaisten
+teltoilla turuilla ja toreilla, ja kansalaiset ovat huolestuneita. Kuten täällä ovat edustajat to-
+denneet, uudistus on valtava. Yhteinen käsitys on, että toimenpiteet on tehtävä, uudistus on
+tehtävä, jotta pystytään jatkuvasti lisääntyvien sosiaali- ja terveysmenojen kasvuun vaikut-
+tamaan. Mutta tekojen pitää olla hallittuja. Tämä mieletön kiire ja hoppu on huolestuttavaa. 
+
+Valiokunnat, sosiaali- ja terveysvaliokunta ja perustuslakivaliokunta, istuvat tällä het-
+kellä aamusta iltaan. Valmista pitäisi tulla kesäkuussa. Tämä on oikeastaan aika edesvas-
+tuutonta toimintaa, että mennään näin kiireellä. Toivonkin, hallitus: ottakaa nyt asiat niin
+tosissanne ja vastuullisesti ja jättäkää nämä puoluepoliittiset asiat vähän vähemmälle. Otat-
+te aikalisän, tehdään sote-uudistus asteittain, niin että on mahdollista se, että lopputulos on
+sitten joskus kohtuullinen.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 53/2018 vp
+16.04 Sami Savio ps: Arvoisa puhemies! Tutkin tässä tätä pidettyjen puheenvuorojen ti-
+lastoa ja havaitsin, että tämä on nyt jo 21. puheenvuoro, joka täällä tänään aiheesta pide-
+tään. Melko poikkeuksellista lienee se, että yksikään hallituspuolueiden edustaja ei ole pi-
+tänyt vielä ainoatakaan puheenvuoroa tämän erittäin merkittävän kokonaisuuden tiimoilta
+tänään tässä täysistunnossa. 
+
+Tilanne on kyllä erittäin, erittäin häkellyttävä, kun ottaa huomioon, että kyseessä on sen-
+tään historiallisen suuri yhteiskunnallinen uudistus, mullistus, ja toivottavasti ei kuiten-
+kaan mennä aivan niin huonoon suuntaan, että joutuisin käyttämään voimakkaampia ter-
+mejä tästä. Mutta en tietenkään toisaalta yhtään ihmettele sitäkään, että täällä paikalla ole-
+vat hallituspuolueiden edustajat eivät ole pitäneet puheenvuoroja. Tehtävä ei varmaan ole
+mitenkään helppo, niin paljon ongelmia tähän esitykseen liittyy, sote- ja maakuntauudis-
+tukseen kokonaisuudessaan. Hallituspuolueiden edustajia on sentään muutamia täällä pai-
+kalla edelleen, neljä kappaletta tällä hetkellä. [Pia Viitanen: Saisi olla kokoomuslaisia!] Se
+on moninkertainen määrä siihen verrattuna, mikä täällä oli esimerkiksi aktiivimallia käsi-
+teltäessä viime joulukuussa perjantai-illan pimeydessä. 
+
+Arvoisa puhemies! Täältä tuli välihuuto, että yhtään kokoomuslaista ei ole paikalla. Se
+on kyllä hyvin sääli. Aioin nimittäin omassa puheenvuorossani juurikin vedota kokoomuk-
+seen, joka tätä hallitusta näyttää johtavan. Nyt tulisi ottaa kokoomuksessa se kuuluisa ta-
+lousajattelu ja järki käteen ja tehdä siellä sitten kokoomuksen toimin hallituksen sisällä hy-
+vin selväksi, että hallituksen tehtävä on johtaa maata parempaan suuntaan, parempaan tu-
+levaisuuteen eikä koplata mitään näitä uudistuksia keskenään, kun tiedämme, että niistä on
+kansalaisille todennäköisesti vain haittaa ja kustannuksia.
+
+Arvoisa puhemies! Edustaja Elomaa totesi tässä myös, että monet kansalaiset ovat hy-
+vin huolestuneita siitä, kuinka heidän palveluilleen jatkossa käy, jos tämä uudistus menee
+läpi. Olen myös itse saanut tätä palautetta hyvin paljon Tammelantorilla, Hervannassa ja
+muuallakin, sekä Pirkanmaalla että yleisestikin ottaen kansalaispalautetta puhelimitse ja
+sähköpostitse. Viimeksi tänään juuri ennen täysistuntoa eräs herrasmies soitti minulle ja
+sanoi, että nyt täytyy saada jotain järkeä tähän uudistukseen.
+
+Arvoisa puhemies! Nämä esille nostetut ongelmat, joista kiire ei todellakaan ole mikään
+vähäisin, uhkaavat suuresti tämän uudistuksen järkevää läpivientiä. Myös minä vetoan nyt
+siihen, että hallituspuolueiden edustajat siellä omissa ryhmissään oikein kunnolla tuovat
+esille nämä esitetyt huolenaiheet ja vaativat, että asia saa arvoisensa käsittelyn. 
+
+Keskustelu päättyi.
+
+Asia lähetettiin lakivaliokuntaan.
+14
+
+
+	6
+	15.08
+	15.11
+	15.15
+	15.18
+	15.21
+	15.24
+	15.27
+	15.29
+	15.31
+	15.35
+	15.38
+	15.41
+	15.43
+	15.46
+	15.49
+	15.52
+	15.55
+	15.56
+	15.59
+	16.02
+	16.04
+
+

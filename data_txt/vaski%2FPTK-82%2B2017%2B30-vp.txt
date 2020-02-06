@@ -1,0 +1,646 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEME997.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 82/2017 vp
+
+Täysistunto
+
+Keskiviikko 6.9.2017 klo 14.03—16.53
+
+30. Hallituksen esitys eduskunnalle laiksi kiinteistöverolain 14 §:n muuttamisesta
+Hallituksen esitys HE 96/2017 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 30. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään valtiovarainvaliokuntaan.
+
+Keskustelu
+
+16.03 Kaj Turunen si: Arvoisa puhemies! Tässä hallituksen esityksessä ehdotetaan muu-
+tettavaksi kiinteistöverolain voimalaitokseen sekä ydinpolttoaineen loppusijoituslaitok-
+seen kuuluviin rakennuksiin ja rakennelmiin sovellettavaa kiinteistöveroprosenttia koske-
+vaa säännöstä. Pieneen vesi- ja tuulivoimalaitokseen, jonka nimellisteho on enintään 10
+megavolttiampeeria, sovelletaan yleistä kiinteistöveroprosenttia. Pienvoimaloita koske-
+vaa säännöstä muutettaisiin siten, että 10 megavolttiampeerin tehoraja laskettaisiin yhtei-
+sen — siis laskettaisiin yhteisen — liittymispisteen kautta sähköverkkoon kytkettyjen voi-
+malaitosten yhteenlasketun nimellistehon perusteella. Säännöstä sovellettaisiin kaikkiin
+voimalaitoksiin niiden sähköntuotantomuodosta riippumatta.
+
+Asia on lähtenyt 2016 budjettiriihestä liikkeelle, ja tuulivoiman kiinteistöverotus on saa-
+nut kritiikkiä siitä, että se on kevyempää kuin muun energian. Yleinen kiinteistöveropro-
+sentti on nykyisin 0,93—1,8 prosenttia, ja käytännössä on ollut sellainen tilanne, että tuu-
+livoima kaikkinensa Suomessa on ollut tämän yleisen kiinteistöveroprosentin piirissä. Täs-
+sä lakiesityksessä on kysymys siis laskentatavasta, joka on tehty vastaamaan todellisuutta. 
+
+Jatkossa tuulivoimalat tuulipuistoissa lasketaan yhteen, jos niillä on yksi liittymä. Näin
+laskien yli 10 megavolttiampeerin puistot kuuluisivat jatkossa korotetun kiinteistöveron
+piiriin, joka on maksimissaan 3,1 prosenttia, mikäli kunta on näin päättänyt. Tämä asettaa
+eri energiamuodot tasa-arvoiseen asemaan kiinteistöveron näkökulmasta katsottuna. Jos
+aiemmin on ollut puistossa esimerkiksi yksi 3 megavolttiampeerin tuulivoimalaitos, siihen
+on sovellettu tätä yleistä kiinteistöveroprosenttia, joka on siis maksimissaan ollut se 1,8
+prosenttia, ja tuulipuistossa vero on laskettu erikseen kaikille voimalaitoksille, joten koko
+puisto on ollut alhaisen verotuksen piirissä, siis alhaisemman verotuksen kuin mitä on tämä
+voimalaitoskiinteistövero. Lakiehdotuksen mukaan siis tämä 10 megavolttiampeerin raja
+lasketaan yhteisen liittymispisteen mukaan, toisin sanoen vaikkapa tämmöisessä puistos-
+sa, kun näitten tuulivoimaloitten kokonaismäärä ylittää tämän 10 megavolttiampeeria,
+nämä lasketaan yhteen silloin, kun niillä on yhteinen liittymä, ja silloin nämä ovat tämän
+korkeamman kiinteistöveron piirissä.
+
+Tällä hetkellä Verohallinnon rekisterissä on noin 450 tuulivoimalaa, jotka sijaitsevat 43
+eri kunnan alueella. Tuulivoimalaitosten yhteen laskettu verotusarvo vuonna 2017 on 320
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+miljoonaa euroa ja laskennallinen kiinteistövero 3,6 miljoonaa euroa. Käytännössä tämä
+lakimuutos tarkoittaa sitä, että kuntien verotuotto tältä osin kasvaa merkittävästi.
+
+Niin kuin sanoin, tämä lakiehdotus on lähtenyt liikkeelle 2016 riihestä, mutta tästä tuu-
+livoiman tuesta ylipäänsä haluaisin sen verran sanoa, että se on hyvin ylimitoitettua aikai-
+sempien päätösten vuoksi. 2015 hallitusneuvotteluissa lähtökohtana oli se, että haluttiin
+tätä tuulivoimatukea leikata. Aika nopeasti todettiin, että perustuslaillisten ongelmien
+vuoksi tuulivoimatukeen ei voitu puuttua, koska nämä olivat kuitenkin 12 vuoden sopi-
+muksia, mutta silloin käytännössä tehtiin päätös siitä, että tämä nykyinen tukijärjestelmä
+päätetään mahdollisimman nopeasti. Tämä loppuukin nytten: 1. marraskuuta 2017 tuen
+piiriin ei oteta enää yhtään voimalaitosta. Mutta käytännössä tämä tarkoittaa sitä, että esi-
+merkiksi ensi vuoden budjetissa tuulivoiman tukea maksetaan 250 miljoonaa euroa. Se on
+järkyttävän suuri summa yhdelle energiantuotantomuodolle, olkoonkin sitten uusiutuva.
+Tilanne ei parane lähivuosien aikana, vaan itse asiassa se heikkenee merkittävästi. Kor-
+keimmillaan meillä tulee olemaan tuulivoiman tukeminen 2023—2024, silloin puhutaan
+jostain 350 miljoonan euron tuesta. Tämän jälkeen se lähtee kyllä sitten laskemaan sen
+vuoksi, että uusia ei ole otettu mukaan, ja muistaakseni tämä nykyinen syöttötariffijärjes-
+telmä ja sen tukeminen päättyvät sitten kokonaan 2029.
+
+Mistä nyt tässä kiinteistöveron muutoksessa on kysymys? Silloin kun todettiin hallitus-
+neuvotteluissa 2015, että me emme pysty vain leikkaamaan tätä tukea sopimuksista, jotka
+on näitten yrityksien kanssa tehty, vaan perustuslain omaisuudensuojan vuoksi niistä jou-
+dutaan pitämään kiinni, niin silloin kyllä perattiin tämän tuulivoiman muut mahdolliset tu-
+kimuodot ja sitten huomattiin, että on tämä käytännössä alempi kiinteistövero tuulivoima-
+yhtiöille. Siksi tähän haluttiin silloin puuttua ja tuoda tämä tasa-arvoiseen asemaan muit-
+ten energiantuotantomallien ja niiden kiinteistöveron kanssa.
+
+16.10 Katri Kulmuni kesk: Arvoisa rouva puhemies! Tein elokuussa 2015 tätä asiaa kos-
+kevan kirjallisen kysymyksen siitä epäkohdasta, joka mielestäni nimenomaan kuntien nä-
+kökulmasta tuulivoiman verotukseen on liittynyt. Onkin hienoa, että tämä asia on edennyt
+tässä vaiheessa ja hallitus on antanut siitä esityksen. Nimittäin tuulivoima on uusiutuvaa,
+päästötöntä, kotimaista energiaa ja kuntia on kuitenkin pyritty jo vuosien ajan kannusta-
+maan tuulivoiman rakentamiseen. Kuitenkin, ehkä katsojan mielipiteistä riippuen, tuuli-
+voimaan sisältyy aina jonkinlaisia maisema- ja meluhaittoja ja ne jäävät sinne paikallises-
+ti, joten mielestäni on täysin kohtuullista, että tuulivoimaan investoineet kunnat saavat tuu-
+livoimasta kiinteistöveron muodossa kompensaatiota ja nyt hieman korkeampaa kompen-
+saatiota, kun tuulilaitos astuu voimalaitosverotuksen piiriin. [Kaj Turunen: Ei se ole kom-
+pensaatiota, se on kiinteistövero!] — Kompensaatiota siitä, että kuntaan rakennetaan tuu-
+livoimaa.
+
+Tähän asti laissa on ollut jossain määrin kuollut kirjain tuulivoimayksikön nimelliste-
+hon osalta 10 megavolttiampeerista. Sen kokoisia yksittäisiä myllyjähän ei ole käytännös-
+sä olemassa. Se ongelma tällä lakiesityksellä pystytään korjaamaan, kuten tuossa talousva-
+liokunnan puheenjohtaja mainitsi, niin, että yhden liityntäpisteen kautta useampi mylly
+pystytään laskemaan sen 10 megavolttiampeerin piiriin ja silloin se tulee ylittymään ja tuu-
+livoimaa pystytään verottamaan puistokohtaisesti. Tätä kautta kuntaan jää sitten enemmän
+veroeuroja kuntalaisten palveluiden parhaaksi.
+
+Arvoisa puhemies! On aivan selvää, että me tarvitsemme uusiutuvaa energiaa. Sitä tar-
+vitaan paljon lisää, ja Suomi astuu aikaan, jossa fossiilisista polttoaineista päästään irti.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+Hallitusohjelmassakin on yksi tavoite sen suhteen: Suomi saavuttaa vuoden 2020 ilmasto-
+tavoitteet jo vaalikauden aikana, ja fossiilista tuontienergiaa korvataan enenevässä määrin
+kotimaisella puhtaalla uusiutuvalla energialla. Kivihiilestä tehdään kielto, tuontiöljy puo-
+litetaan. Toivottavasti ajan saatossa päästään öljystä kokonaan irti.
+
+Mielestäni on oikeus ja kohtuus, että kunnat, jotka ovat kuitenkin aktiivisesti olleet kan-
+tamassa kortensa kekoon uusiutuvan energian saamiseksi, kaavoittaneet tuulivoima-aluei-
+ta, saavat siitä myös ansaitun korvauksen. Monille pienille kunnille, etenkin Pohjois-Poh-
+janmaalla, Lapissa, jossa on paljon tuulivoimaa, tällä on erittäin suuri merkitys. Omassa
+kotimaakunnassani suurimpien kuntien joukossa, joita tämä palvelee, ovat esimerkiksi sel-
+laiset kunnat kuin Simo, Kemi, Tornio, Sodankylä ja Tervola. On arveltu, että esimerkiksi
+Simon kohdalla yhden kunnallisveroprosenttiyksikön nosto tuo noin 450 000 euroa kun-
+nan kukkaroon. Tällä pystyisi tulemaan enemmän. Elikkä nämä ovat pienille kunnille erit-
+täin suuria asioita, joilla on suora heijastus kuntalaisten saamiin palveluihin, oli kysymys
+sitten kirjastoista tai peruskouluista tai hoitajien määrästä. Naapurimaakunnassakin esi-
+merkiksi Ii ja Kalajoki kyllä tulevat saamaan tästä varsin muhkeat hyödyt.
+
+Arvoisa puhemies! Viime viikolla huomasin, että Lappeenrannan teknillinen yliopisto
+oli julkaissut tutkimuksen, jossa tuulisähkö on halvin tapa tuottaa sähköä. Itse tuulimylly
+on kallis rakennelma, mutta se on kuitenkin varsin helppo pitää kunnossa. Ei ole mitään
+epäilystä siitä, mihin suuntaan maailman energiamarkkinat ja maailman sähkömarkkinat
+ovat menossa. Suomessa tuulivoiman osuus on erittäin pieni kansallisesti. Toivottavasti
+tämä rohkaisisi lisärakentamiseen. Myös varsin antelias syöttötariffi aikanaan tehtiin sil-
+loisen parhaan tiedon valossa, kun oletettiin, että sähkön hinta olisi korkeampi. Vastaavan-
+laisia mekanismeja on ollut käytössä myös muualla Euroopassa, jossa ylisuurta tukea on
+pystytty keräämään takaisin ja laittamaan se hyöty veronmaksajien palveluiden turvaami-
+seen. Niinpä mielestäni on erittäin hieno asia, että tällainen hallituksen esitys nyt on tullut,
+ja toivottavasti se etenee eduskunnassa. Kritiikkiä huomasin tuosta tulleen esimerkiksi
+Energiateollisuudelta ja Elinkeinoelämän keskusliitolta sen suhteen, että verotuksellisesti
+joudutaan nyt vaikeampaan asemaan, mutta minun mielestäni tämä kyllä ennen kaikkea tu-
+kee kuntia uusiutuvan energian rakentamisessa.
+
+16.15 Matti Semi vas: Arvoisa rouva puhemies! Pohdin tätä esitystä. Minusta tässä on hy-
+viä puolia se, että kunnille on mahdollisuus tulla lisää verotuloja, mutta toisaalta sitten yh-
+tiöitten käytäntö on ollut aina vähän semmoinen huono puoli, tuommoiset veronkorotuk-
+set tahtovat siirtyä laskuun. Tässä kesällä jouduin selvittämään erään vanhuksen sähkölas-
+kua, mitä se sisältää. Sen laskun suuruus oli 75 euroa. Siitä noin 7 euroa oli sähkönkulu-
+tusta. Kaikki muut ovat taksoja, siirtotaksoja ja verotusta, mitkä sisältyvät siihen laskuun.
+Siihen nähden jäin pohtimaan tätä tilannetta, mihinkä tässä ollaan ajautumassa. Kun tämä
+nostaa näitä kuluja tälle yhtiölle, joka tekee hirmu hyviä voittoja näistä verohelpotuksista
+johtuen, niin minä toivon hartaasti, että kun valiokunnassa mietitään tätä asiaa eteenpäin,
+löydettäisiin semmoinen keino, etteivät nämä ainakaan kuluttajahintaa nosta enää. [Väli-
+huutoja] — Niin. — Mutta kuitenkin, kun miettii tätä meidän sähkönhinnoittelurakennet-
+ta, minä toivoisin, että jossakin vaiheessa otettaisiin sekin käsittelyyn, että kun tämmöinen
+sähkön säästäminenhän on yksi meidän energiataloudessa tarvittavia toimenpiteitä, jotta
+kulutus ei kasvaisi, niin tämä nykyinen järjestelmä ei suosi sitä energian säästämistä, kos-
+ka sähkölaskun hinnassa se kulutus on niin pieni osa sitä laskua. Toivoisin, että tämmöis-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+täkin vaihtoehtoa siellä mietittäisiin ja vietäisiin eteenpäin niillä pohjilla, jotta tämä menisi
+eteenpäin.
+
+Sinänsä tuulivoima, aivan oikein, on puhdasta energiaa. Se parantaa meidän ilmastostra-
+tegiamme lähtökohtia erittäin hyvin, ja on siinä mielessä kannatettavaa, että käytettäisiin
+enemmän tuulivoimaa ja rakennettaisiin tuulivoimaa, mutta nämä ylimääräiset verohelpo-
+tukset voisivat joutaa pois.
+
+16.17 Olli-Poika Parviainen vihr: Arvoisa puhemies! Hallitus esittää siis kiinteistövero-
+lakiin muutosta, jolla tuulipuistot — tarkemmin sanottuna yhden liityntäpisteen kautta
+verkkoon liitetyt tuulimyllyt, joiden yhteisteho on yli 10 megavolttiampeeria — tulisivat
+voimalaitosten kiinteistöveron piiriin. [Olavi Ala-Nissilän välihuuto] Tämän kiinteistöve-
+ron maksimi on 3,1 prosenttia, kun yleinen kiinteistövero on noin 1,8 prosenttia maksimis-
+saan. 
+
+Tuulivoimaloiden kiinteistöverokohteluun on viime vuosina kohdistettu kritiikkiä useis-
+ta eri näkökulmista. Kunnille tuulivoimaloista kertyvän kiinteistöveron määrän kasvatta-
+mista on pidetty perusteltuna myös siitä näkökulmasta, että näin voitaisiin kannustaa kun-
+tia kaavoittamaan alueita tuulivoimarakentamiseen ja siten edistää tuulivoiman lisäraken-
+tamista. Toisaalta tuulivoiman kustannusten kasvattaminen heikentää tuulivoiman kannat-
+tavuutta ja saattaa hidastaa uuden tuotantokapasiteetin rakentamista sitä kautta. Syöttöta-
+riffin piirissä oleville voimaloille veronkorotus ei varmaan olisi paha. Voitot ja myös mak-
+settava yhteisövero tosin pienenisivät jonkin verran.
+
+Tätä esitystä perustellaan myös eri energiantuotantomuotojen saattamisella yhdenver-
+taiseen asemaan, samalle viivalle keskenään. Sehän on kaunis ajatus, mutta tämä esityshän
+ei asiaa vielä suoriltaan ratkaisisi, nimittäin Suomessa tuetaan esimerkiksi fossiilista ener-
+giaa varsin avokätisesti, joskin usein välillisesti. Jos tätä tavoitetta haluttaisiin siis tukea,
+pitäisi saastuttavien energiamuotojen välilliset tuet käydä läpi. Eri energiamuotojen saatta-
+minen samalle viivalle edellyttää siis paljon laajempia toimia, enkä itse aloittaisi suoril-
+taan tuulivoimasta vaan niistä fossiilisista. Jos uusiutuvat saataisiin samalle viivalle näi-
+den kanssa, olisi tilanne hyvin erilainen markkinoillakin.
+
+On myös todennäköistä, että jos ja kun jatkossa siirrytään uusiutuvan energian tarjous-
+kilpailumalliin, korotettu kiinteistövero vyörytettäisiin mahdollisesti tarjoushintoihin, jo-
+ten sen, minkä kunta voittaa, voisi valtio joutua maksamaan. Samalla tuulivoiman kilpai-
+lukyky verrattuna esimerkiksi CHP-laitoksissa tuotettavaan biosähköön heikkenisi. 
+
+Hallituksen esityksestä ovat kriittisesti lausuneet muun muassa TEM, EK, Energiateol-
+lisuus ja Tuulivoimayhdistys. Tämän esityksen kannattajia ovat muun muassa MTK, tuu-
+livoimakunnat, Kuntaliitto ja Veronmaksajain Keskusliitto. Vastustajien perusteissa mai-
+nitaan yllä mainittujen lisäksi se, että korotettu vero hidastaisi markkinaehtoisen tuulivoi-
+man lisääntymistä ja vaarantaisi sitä kautta ilmastotavoitteita, muun muassa uusiutuvan
+energian tavoitteitamme vuoteen 2030 mennessä. Lisäksi nostettu vero voisi kannustaa ra-
+kentamaan epätarkoituksenmukaisen pieniä tuulipuistoja, jotta ne jäisivät alle 10 MVA:n
+verorajan.
+
+Vaikka hallituksen esityksellä on siis ymmärrettäviä ja hyviäkin perusteita, on silti han-
+kalaa tukea sitä suoraan vielä tässä vaiheessa. Lopullisen kantamme muodostamme kuul-
+tuamme asiantuntijoita valiokunnissa. Tärkeintä on, että edistämme kestävää energiapoli-
+tiikkaa ja ilmastopolitiikkaa koko yhteiskunnassa. 
+4
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+16.21 Olavi Ala-Nissilä kesk: Arvoisa rouva puhemies! Verojaostossa tämän esityksen
+käsittely jo tänään ensi kuulemalla alkoikin. Siellä todella oli muun muassa Kuntaliitto asi-
+antuntijana, oli myöskin TEM asiantuntijana, ja tulin siihen käsitykseen kyllä, että TEM ei
+vastusta hallituksen esitystä. Voin lausua joitain kriittisiä havaintoja jossain vaiheessa.
+
+Kuntaliitto, muun muassa siis, ja paikalliset kunnat kannattavat tämän kiinteistövero-
+lain muuttamista siten, että vesivoimalaitoksen kiinteistöveroprosenttia sovelletaan sellai-
+seen voimalakokonaisuuteen, joka liittyy sähköverkkoon yhteisen liittymäpisteen kautta
+— puhutaan piuhamallista — ja tämän kokonaisuuden nimellisteho ylittää 10 megavolt-
+tiampeeria. Voidaan sanoa, että tämän muutoksen myötä eri sähköntuotantomuotojen ve-
+rokohtelu kiinteistöverotuksessa on neutraalimpaa ja voimalaitosten sijaintikunta saa, niin
+kuin täällä on todettu, oikeudenmukaisemman kompensaation voimalaitoksen haittavaiku-
+tuksista.
+
+Käytännössä muutos siis koskisi lähinnä tuulivoimapuistoja, jotka jatkossa katsottaisiin
+yhdeksi voimalaitoskokonaisuudeksi. Ja todella tämä kiinteistöverojen muutos kannustaa
+kuntia edistämään tuulivoiman hyväksyttävyyttä paikallisesti ja mahdollistaa sijaintikun-
+nalle vakaita kiinteistöverotuloja. Myöskin on huomattava, että tuulivoimalan alueelle tuo-
+mien verojen määrä on alhainen verrattuna muihin voimalaitoksiin, kiinteistöverotus kun
+ei koske rakennelman koneita ja kalustoa, jotka muodostavat merkittävän osan tuulivoi-
+man rakentamiskustannuksista.
+
+Tässä tämä määrittely liittymispisteen kautta on ehkä ainoa mahdollinen. Siinä mielessä
+tämä lakiteknisesti, arvoisa puhemies, on toimiva, ja todella myöskin Veronmaksajain
+Keskusliitto, maataloustuottajat ja eräät muut ovat esitystä kannattaneet, joskin se on saa-
+nut kriittisiäkin huomioita osakseen.
+
+16.23 Antti Kurvinen kesk: Rouva puhemies! Tämä käsittelyssä oleva hallituksen esitys
+on mielestäni sellainen, joka vastaa hyvin tavallisten ihmisten ja suomalaisten oikeuden-
+mukaisuuden tunnetta ja sopii siihen. Tässähän sinänsä, jos hallituksen esitystä lukee, hy-
+vin teknisessä lakiesityksessä on kysymys käytännössä siitä, että niille kunnille, joissa on
+energian tuotantoa, tällä kertaa tuulienergian, tuulivoiman, tuotantoa, näille tuottajakunnil-
+le, joissa ne eri vaikutukset ilmenevät, tulee vähän enemmän tuloja. Tämä on sellainen
+asia, mitä kunnissa, joihin on jo tullut paljon tuulivoimaloita tai on tulossa isoja tuulipuis-
+toja, odotetaan sekä kuntalaisten taholta että sitten itse kunnankin taholta.
+
+Arvoisa puhemies! Itse olen aina suhtautunut myönteisesti tuulivoimaan ja suhtaudun
+edelleenkin siihen myönteisesti. Kuitenkaan mikään energiantuotantomuoto ei ole täysin
+ongelmatonta. Näin ei koskaan ole, aina ilmenee erilaisia vaikutuksia ympäristölle ja myös
+ihmisyhteisölle. Näin on myöskin tuulivoimassa, tiettyjä maisema- ja äänivaikutuksia siitä
+seuraa. Viime vuosina tuulivoiman haitoista ja tuulivoiman uhista ihmisille ja myöskin ko-
+ti- ja tuotantoeläimille on puhuttu entistä enemmän. Siksi mielestäni on erittäin tärkeää,
+että ne alueet, missä tätä taakkaa ja näitä vaikutuksia tuulienergiasta tulee, saavat sitten
+myös taloudellista hyötyä ja taloudellista kompensaatiota suoraan näissä kunnissa ja näillä
+alueilla.
+
+Arvoisa puhemies! Kuitenkin energiaa täytyy tuottaa, ja varmasti kaikki toivomme tääl-
+lä eduskunnassa, että uusiutuvan energian tuotanto lisääntyy. Tilanne on vain se, että säh-
+kö ei tule pelkästään töpselistä vaan jossakin se täytyy myöskin tehdä.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+Haluan myös yhtyä edustaja Kulmunin ja edustaja Ala-Nissilän erittäin hyviin huomioi-
+hin, ja toivottavasti tämäkin esitys käsitellään sille kuuluvalla työllä ja arvokkuudella va-
+liokunnassa ja jaostossa.
+
+16.25 Hanna Sarkkinen vas: Arvoisa puhemies! Todellakin Lappeenrannan teknillisen
+yliopiston tuoreen tutkimuksen mukaan maatuulivoima on uusinvestoinneissa edullisin
+energiantuotantomuoto ilman tukiakin. Tuulivoiman kustannus on 41,40 euroa megawat-
+titunnilta. Seuraavaksi edullisin on uusi ydinvoima, jonka tuotantokustannus on 42,40—
+55,40 euroa megawattitunnilta.
+
+Vaikka tuulivoima onkin edullisin uusi tuotantomuoto, ei uusinvestointeja synny ilman
+tukea sähkön matalan hinnan ja ennustamattoman poliittisen ympäristön vuoksi. Vanha,
+nyt suljettava tuulivoimatuki on ollut yliantelias, eli sen päättäminen on perusteltua. Kui-
+tenkin uusi, parempi ja kohtuullisempi tuki tarvitaan, jotta investointeja ylipäätään syntyy.
+Ja uusinvestointeja päästöttömään energiaan on pakko tulla, jos haluamme saavuttaa pääs-
+tövähennystavoitteet ja Pariisin ilmastosopimuksen tavoitteet ja pysäyttää ilmastonmuu-
+toksen. Uutta tukea tarvitaan varsinkin sen takia, että päästökauppa ei tällä hetkellä toimi
+eikä riittävästi ohjaa investointeja päästöttömiin lähteisiin ja fossiilisia polttoaineita myös
+tuetaan Suomessa ja muualla Euroopassa runsaasti.
+
+Arvoisa puhemies! Tämä esitys on laskettu nyt suljettavan tuen perusteella. On kuiten-
+kin pidettävä huolta, ettei jatkossa nykyisen, ylikompensoivan tuen ulkopuolelle rakennet-
+tavien uusien tuulivoimaloiden rakentaminen tyssää verorasitukseen tai tule kannattamat-
+tomaksi, koska investointeja tarvitaan. Toisaalta tämä esitys voi lisätä tuulivoimatuotan-
+toa, jos se lisää tuulivoiman paikallista hyväksyttävyyttä ja sitä kautta lisää tuulivoimain-
+vestointeja. Toivon, että valiokuntakäsittelyssä pohditaan näitä molempia puolia — sekä
+mahdollista investointien vähenemistä verojen seurauksena että mahdollista investointien
+lisääntymistä verojen seurauksena — siitä näkökulmasta, että uusia päästöttömiä inves-
+tointeja Suomeen tarvitaan, ja toisaalta siitä näkökulmasta, että kunnat ovat niitä valmiita
+alueilleen ottamaan.
+
+16.27 Petri Honkonen kesk: Arvoisa rouva puhemies! Tämä hallituksen esitys ansaitsee
+kyllä kiitoksen. Mielestäni on erittäin hyvä asia, että tätä tuulivoimalaitosten kiinteistöve-
+roa tällä tavalla laajennetaan — ei pelkästään sen takia, että sillä ikään kuin tuodaan hyö-
+tyä niihin kuntiin ja niille alueille, missä se tuulivoima tiettyjä haittoja, maisema- ynnä
+muuta haittoja, aiheuttaa. Sen vuoksi on tärkeätä, että tämä luodaan, mutta myöskin sen ta-
+kia, että tuulivoimalaitosten rakentamisen halukkuutta ja halukkuutta kaavoittaa tuulivoi-
+mapuistoja lisätään eri puolilla Suomea ja Suomen kunnissa.
+
+Nyt sellaisissa maissa kuin vaikkapa Tanska, jossa on merkittävästi enemmän tuulivoi-
+makapasiteettia kuin Suomessa, lähdettiin aikanaan laajentamaan tätä tuulivoiman tuotan-
+toa julkisin toimenpitein. Siellä otettiin paremmin yhteisöt, kunnat, jopa kyläyhteisöt, mu-
+kaan näiden voimalaitosten rakentamiseen ja jakamaan myöskin sitä taloudellista hyötyä,
+mitä tästä energian tuottamisesta tulee. Mielestäni on tärkeää, että tällä tavalla puretaan nii-
+tä esteitä, niitä asenne-esteitä ja muita esteitä, mitä kunnissa on näiden tuulivoima-aluei-
+den rakentamiselle ja sopivien alueiden kaavoittamiselle.
+
+Mutta totean vielä myöskin sen, että on ihan oikein, että niille alueille, missä energiaa
+tietyillä muodoilla tuotetaan ja niitä tiettyjä haittoja niistä aiheutuu, myöskin jää osa siitä
+6
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+taloudellisesta hyödystä ja hyvästä, mitä tämä kyseinen energiantuotanto liiketoimintana
+tuottaa.
+
+16.29 Leena Meri ps: Arvoisa puhemies ja salissa vielä olevat! Perussuomalaiset katso-
+vat, että se, että nämä tuotantolaitokset saatetaan saman kiinteistöveron alaisuuteen, on
+hyvä asia.
+
+Tuossa keskustelussa keskustan edustaja Kurvinen, joka valitettavasti juuri poistui, otti
+esille sen, että tästä tulee hyötyä ja kompensaatiota kunnille, mikä on totta, mutta tässä kes-
+kustelussa unohtuu se, minkä kuitenkin jotkut nostivat esille: ympäristö ja infraäänivaiku-
+tukset ihmisille. Se, että kunnat saavat kompensaatiota tuulivoimasta, ei tietysti korvaa nii-
+tä ongelmia, joita joillekin ihmisille on aiheutunut terveysvaikutusten vuoksi. Itsekin ha-
+luan lisätä uusiutuvia energiamuotoja, mutta kaikessa uudessa pitää aina muistaa se, että
+meille voi tulla terveyshaittoja. Meillä on kuitenkin perustuslaissakin turvattu oikeus ter-
+veelliseen ympäristöön. Perussuomalaiset ottivat tämän asian vakavasti, ja viime syksynä
+itsekin henkilökohtaisesti tapasin tuulivoiman kanssa paljon tekemisissä olleita kansalai-
+sia, muun muassa Merikarvialta, ja kun lähdin siihen tilanteeseen, niin ensin ajattelin, että
+mistähän tässä nyt on oikein kysymys ja onko tämä tottakaan. Kuuntelin perheiden tarinoi-
+ta lasten sairastumisista, oudoista oireista ja siitä, että he olivat joutuneet muuttamaan pois
+kotoaan. Eräskin perhe Merikarvialta on tällä hetkellä sellaisessa tilanteessa, että heillä on
+uusi talo tyhjillään, ja jos he palaavat sinne lastensa kanssa, tämän tuulivoimapuiston lä-
+helle, niin koko perhe oireilee. On tietysti esitetty sitäkin, että kysymys on varmaan siitä,
+että nämä henkilöt kuvittelevat erilaisia sairauksia. Minusta se on aika tökeröä ja oikeas-
+taan törkeää mennä näin väittämään. Esimerkiksi heidän perheensä lapsi, joka oli vauva-
+ikäinen silloin, oireili, ja voisin väittää, että vauvojen on varmaan hirveän vaikea teesken-
+nellä oireita vanhempien käskystä.
+
+Haluaisin vielä herättää keskustelua tässä salissa ja julkisuudessa siitä, että perussuoma-
+laisten vaatimuksesta TEM teetti tutkimuksia näistä infraäänistä ja siellä oli tilanne se, että
+todettiin, että suoranaisista terveyshaitoista ei ole toistaiseksi tieteellistä näyttöä, mutta li-
+sätutkimusten tekemistä pitkäaikaisista terveysvaikutuksista perusteltiin, ja tietojeni mu-
+kaan pitäisi olla tulossa vielä jonkinlainen lisäselvitys. Kun täällä ei nyt ole hallituksen
+edustajia montaa, niin teiltä, edustaja Turunen, kysyisin, jos pystytte vastaamaan: onko
+teillä tietoa, onko hallitus viemässä eteenpäin tätä selvitystä? Tämä on todellinen huoli, ja
+me perussuomalaiset olemme ottaneet tämän vakavasti. Me olimme kesäkokouksessa Hy-
+vinkäällä, kotikaupungissani, ja siellä keskustelimme tästä paljon, ja samoin puoluekoko-
+uksessa meillä oli Tuulivoima-kansalaisyhdistyksestä ihmisiä, jotka kiittivät perussuoma-
+laisia siitä, että heidät on otettu vakavasti. Siksi toivon, että muutkin puolueet ottavat tä-
+män asian vakavasti. Tämä tuli julkisuuteen osittain myös siksi, että oli tutkittu eläimiä
+muualla maailmassa, muun muassa lepakoita, ja siitähän sitten tietysti tämä lepakkoasia
+nostettiin esille ja unohdettiin ne sairastuneet ja kärsivät ihmiset.Toivon eduskuntaryhmil-
+tä kiinnostusta tähän asiaan.
+
+Mutta tähän itse hallituksen esitykseen. Sinänsä on ihan hyvä, että kunnat saavat myös
+kompensaatiota, mutta se ei kyllä auta niitten yksittäisten ihmisten tilanteeseen mitään,
+koska tuulivoimapuistoja on paljon ja näiden vaikutusalueella on satojatuhansia ihmisiä.
+Se on sama kuin minkä tahansa altistumisen kanssa, että kaikki eivät oireile eivätkä altistu,
+mutta niillä, ketkä altistuvat, elämä on täydellinen katastrofi, koska omaisuus on ehkä siel-
+lä talossa, asutaan vuokralla ja on pysyviä terveyshaittoja, tai sitten on niin, että ne haitat
+7
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+kyllä poistuvat, jos poistut siltä vaikutusalueelta. Mutta jokainen ymmärtää, että jos se talo
+on siellä, sitä ei esimerkiksi tuulivoimayhtiö lunasta — mitä sitten teet? — niin kyllä se on
+hirveä tilanne. Kehotan teitä kaikkia tapaamaan näitä ihmisiä, se on vakava ongelma. —
+Kiitos. [Hanna Halmeenpää pyytää vastauspuheenvuoroa]
+
+Puhemies Maria Lohela: Tässä on niin vähän näitä puheenvuoroja listalla, että käydään
+keskustelua nyt niiden kautta.
+
+16.34 Kaj Turunen si: Arvoisa puhemies! Tulin tähän pönttöön kuitenkin. Voi olla, että 2
+minuuttia ei ihan riitä, mutta en ehkä 5:täkään kyllä puhu.
+
+Tässä nyt on käytetty monta kertaa sanaa "kompensaatio", mutta tässä pitää nyt muistaa,
+että tässä hallituksen esityksessä ei ole kysymys mistään kompensaatiosta eli siitä, että
+kunnat saisivat jotain kompensaatiota siitä, että tuulivoimaa rakennetaan kunnan alueelle,
+ei ei. Ei ollut kysymys kompensaatiosta, vaan kysymys on kiinteistöverosta — ihan arki-
+nen asia, kiinteistövero. Tässä hallituksen esityksessä nyt tuulivoimarakentaminen tulee
+normaalin voimalaitoskiinteistöveron piiriin, joka on korkeampi kuin tämä yleinen kiin-
+teistövero kunnissa. Kunnat itse päättävät kiinteistöveroprosentistaan, yleinen kiinteistö-
+vero on maksimissaan se 1,8 prosenttia, ja voimalaitoksille kiinteistövero on 3,1 maksimis-
+saan. Ja tämäkään ei tarkoita sitä, että kaikki tuulivoimamyllyt tulisivat tämän korkeam-
+man eli voimalaitoskiinteistöveron piiriin, vaan ainoastaan siinä tapauksessa, jos tämmöi-
+set yhteen kytketyt tuulivoimalat, joissa on yksi syöttöputki valtakunnan verkkoon, ylittä-
+vät sen 10 megavolttiampeeria. Kun käytännössä tällä hetkellä tuulivoimamyllyt ovat ol-
+leet tämän yleisen, alemman, prosentin piirissä, niin nyt nämä puistot, jotka ylittävät tämän
+rajan, 10 megavolttiampeeria, ja joilla on se yksi syöttökaapeli valtakunnan verkkoon, tu-
+levat tämän ylemmän kiinteistöveron piiriin. Minkäänlaisesta kompensaatiosta ei voi pu-
+hua. Kompensaatio on aina korvaus jostain haitasta, ja tässä ei ole kysymys kompensaa-
+tiosta. Tässä on kysymys — vielä kerran — yksinkertaisesti siitä, että tuulivoimalla tuote-
+tut energiat ja niihin liittyvät kiinteistöt tulevat voimalaitoskiinteistöveron piiriin, missä
+kaikki muulla tavalla tuotetut energiat ja niihin liittyvät kiinteistöt ovat olleet jo aikaisem-
+min. Eli ei ole kysymys myöskään mistään rangaistusverosta, vaan tässä minun mielestäni
+yksi tukimuoto poistetaan tuulivoimalta ja tuodaan tuulivoima tasavertaiseen asemaan
+muitten tuotantomuotojen kanssa.
+
+Sitten edustaja Parviainen sanoi tässä omassa puheenvuorossaan siitä, että tämä halli-
+tuksen esitys voi johtaa pienempien puistojen rakentamiseen, missä tämä 10 megavolt-
+tiampeeria ei ylity. Minun mielestäni se on erittäin hyvä juttu, jos tämä johtaa siihen, koska
+tämmöiset massiiviset, isot tuulivoimapuistot ovat paljon merkityksellisemmin pilaamas-
+sa maisemaa, tulee niitä äänihaittoja ja näinpäin pois. Eli jos pysytään tuon rajan alapuo-
+lella, se käytännössä tarkoittaa sitä, että siellä on 3—5 myllyä, ja kun ne on keskitetty puis-
+toksi, minun mielestäni sekin voi olla maisemahaitta.
+
+Toisaalta Parviainen omassa puheenvuorossaan sanoi sitten, että mitä jos se, kun uusiu-
+tuvan energian tukimuodot tulevat jatkossa tarjouskilpailun kautta, johtaa siihen, että sit-
+ten tämä tuulivoimalle tuleva tavallaan lisärasite, joka tästä nyt muodostuu aikaisempaan
+nähden, siirtyy tarjouskilpailussa hintoihin. Minun mielestäni sekin on hyvä juttu, ei se ai-
+nakaan huono juttu ole siinä mielessä, että silloin tarjouskilpailussa eri uusiutuvan energi-
+an tuotantomuodot ovat samalla viivalla, on tasa-arvoisempaa silloin olla tarjouskilpailus-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+sa mukana, kun ei ole piilotukia siellä mukana. Eli eivät nämä ole huonoja juttuja ollen-
+kaan, nämä ovat hyviä juttuja.
+
+Sitten edustaja Semi sanoi tästä, että miten nämä kulut sitten mahdollisesti, että mitä jos
+nämä siirtyvät kuluttajahintoihin. Tällaista vaaraa ei kuitenkaan ole. Tässä on kuitenkin
+energiantuottaja, joka myy valtakunnan verkkoon, se menee sähkömarkkinoitten määrää-
+millä hinnoilla, ja nehän luonnollisesti vaihtelevat. Tällä ei ole mitään sellaista merkitystä,
+että nämä menisivät suoraan kuluttajahintoihin.
+
+Ja sitten edustaja Meri kysyi tästä selvityksestä. Minulla ei ole tällä hetkellä nyt siihen
+vastausta, en osaa sanoa muuta kuin sen osalta, ollaanko tästä tekemässä lisäselvitystä, sitä
+tarkempaa selvitystä: jos hallitus on tämmöisen luvannut, niin silloinhan se kyllä tehdään.
+Mutta minä olen itse henkilökohtaisesti sitä mieltä, että minä kannatan uusiutuvan energi-
+an tuotantoa eri muodoissaan, myöskin tuulivoimaa, aurinkoenergiaa, mutta minä en pidä
+siitä, että yhteiskunnan verovaroilla massiivisesti tuetaan jotain tiettyä energiamuotoa. Ja
+sitten taas toisaalta en kiistä millään tavalla myöskään niitä ongelmia, mitkä liittyvät tuu-
+livoimaan, ja minun mielestäni on tärkeää selvittää ne, nimenomaan ääneen liittyviä asioi-
+ta. Meillähän on esimerkkejä, nyt viime päivien uutisista Kuubasta esimerkiksi, joissa
+semmoisella äänellä on ilmeisesti tehty kokeita tai tämmöisiä, jotka ovat sairastuttaneet ih-
+misiä ja joista ei ole mitään todisteita eikä muuta, mutta on oletusarvo siitä, että jollain täm-
+möisellä matalataajuisella äänellä nämä on tehty — uusi sodankäyntimuoto. En siis pidä
+yhtään mitenkään epärealistisena sitä, etteikö jostain tuulivoimatuotannosta, näistä siivis-
+tä, voisi aiheutua jotain semmoista ultraääntä, mistä me emme nyt pysty suoraan todenta-
+maan tai todistamaan, ettei sitä olisi olemassa, enkä väheksy millään tavalla näitten ihmis-
+ten oireita. Ja pidänkin tärkeänä sitä, vaikka sitä nyt ei pystytä todistamaan, että lisäselvi-
+tys tehtäisiin.
+
+16.41 Katri Kulmuni kesk: Arvoisa rouva puhemies! Kaikesta energian- ja sähköntuo-
+tannosta paikalliselle tasolle jää kuitenkin aina jonkinlainen haitta, oli se maisemallista tai
+mitä tahansa. Meillä on pitkä historia vesivoimasta ja siitä, miten tärkeää on se, että vesi-
+voimasta tulee kiinteistöveroa, voimalaitosveroa niille kunnille, joille se on aiheuttanut
+varsin massiivisia muutoksia vaikkapa viereiseen vesistöön, kalakantoihin ja vaelluskaloi-
+hin. Minusta on aivan kohtuullista, että myös tuulivoimasta tulee veroa: silloin on se mai-
+semahaitta, meluhaitta, mikä tahansa, mutta myös paikallisilla ihmisillä täytyy olla se
+"kompensaatiohyötynä" — minä käytän edelleenkin tätä sanaa — siitä, mitä sinne paikal-
+lisesti jää, vaikka kysymyksessä ei tietenkään olekaan mikään kompensaatiojärjestelmä
+vaan ihan normaali kiinteistöveropolitiikka.
+
+Myös monet tuulivoimayhtiöt ovat suhtautuneet tähän kiinteistöveromuutokseen aivan
+positiivisesti, kun olen heidän kanssaan keskustellut, koska myös he huomaavat sen, miten
+tärkeää on tuulivoiman yleisen hyväksyttävyyden kannalta paikallisesti, että tällainen ve-
+romuutos saataisiin aikaiseksi. Lisäksi haluan huomauttaa, että esimerkiksi Energiavirasto
+näkee, että sähköntuottajille tällä on vain vähäisiä kuluja olemassa, joten he kannattavat
+tätä veromuutosta. Ainoa, joka tätä vastustaa, on sitten suurpääoma. 
+
+Vielä ehkä kollegoille siellä vihreissä haluaisin huomauttaa, että ainakin puolueen pu-
+heenjohtajan suulla vielä viime kesänä ja syksyllä olitte tukemassa sitä, että tuulivoimasta
+pitäisi jäädä kiinteistöveroon suurempi osuus sinne paikallisesti. Toivon, että mahdollises-
+ti myös sitten valiokuntakäsittelyn jälkeen puolueen linja on edelleen samankaltainen kuin
+edellisen puheenjohtajan aikana tässä asiassa. 
+9
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+16.43 Sami Savio ps: Arvoisa puhemies! Käsittelyssä on siis hallituksen esitys, jossa eh-
+dotetaan pienten vesi- ja tuulivoimaloiden asettamista pienvoimaloita koskevan kiinteistö-
+verosäännöksen piiriin, jos niiden yhteisen liittymispisteen kautta sähköverkkoon kytket-
+tyjen voimalaitosten yhteenlaskettu nimellisteho olisi yli 10 megavolttiampeeria. Käytän-
+nössä tämän lakiesityksen myötä siis tulisivat tuulivoimapuistot voimalaitoksia koskevan
+kiinteistöveron piiriin. Niiden kiinteistöveroprosentti olisi enimmillään 3,1, ja se on mer-
+kittävästi yleistä kiinteistöveroprosenttia suurempi. Se toisi kunnille lisätuloja ja olisi oi-
+keudenmukainen ratkaisu sähköenergian eri tuotantomuotojen välillä, ja tällä poistettai-
+siin yksi verotuki.
+
+Arvoisa puhemies! Tuulivoiman syöttötariffi on nykyään 83,50 euroa megawattituntia
+kohti, mikä on erittäin antelias sähkön markkinahintaan verrattuna. Lappeenrannan teknil-
+lisen yliopiston tekemä tutkimus, johon täälläkin on viitattu, osoitti, että tuulivoiman avul-
+la tuotetun sähköenergian tuotantokustannukset ovat alentuneet varsin merkittävästi, hie-
+man yli 40 euroon per megawattitunti. Tämänkin tuloksen perusteella olisi erittäin hyvä
+päästä pikaisesti eroon veronmaksajille jo satoja miljoonia euroja maksaneesta tuulivoi-
+man syöttötariffista ja antaa tuulivoiman kilpailla markkinaehtoisesti muiden energiatuo-
+tantomuotojen kanssa.
+
+Arvoisa puhemies! Edustaja Meren esiinnostama ja perussuomalaisten vaatima tuulivoi-
+man terveyshaittoja koskeva riippumaton ja puolueeton lisäselvitys olisi myös erityisen
+tarpeellinen. Nimittäin monet ihmiset tuulivoimatuotantoalueiden läheisyydessä ovat ker-
+toneet kärsivänsä pahoista terveysongelmista, ja niiden voidaan perustellusti epäillä johtu-
+van tuulivoimaloiden infraäänestä. Heidän huolensa onkin otettava vakavasti myös halli-
+tuksen piirissä.
+
+16.45 Hanna Halmeenpää vihr: Arvoisa puhemies! Toki nyt tässä keskustelemme kiin-
+teistöverolain pykälämuutoksesta koskien tuulivoimaloita, mitä pidän erittäin runsaan tuu-
+livoimarakentamisen maakunnan Pohjois-Pohjanmaan ja erittäin runsaan tuulivoimara-
+kentamisen kunnankin edustajana tietysti erittäin tärkeänä.
+
+Kun edustaja Meri otti esille tuulivoimapaikkakuntien alueella asuvien ihmisten subjek-
+tiiviset kokemukset tuulivoimarakentamisesta ja niiden voimaloiden käytöstä ja pyysi täs-
+sä ryhmiltä vakavaa suhtautumista asiaan, haluan siihen kommentoida, että suhtaudun ja
+suhtaudumme vihreässä eduskuntaryhmässä aiheeseen vakavasti ja siinäkin mielessä
+asianmukaisesti, että haluamme yleisenä ja tätäkin asiaa koskevana periaatteena pidettä-
+vän päätöksenteon pohjaamista tieteelliseen ja tutkittuun tietoon, emmekä sillä tarkoita,
+että mitätöidään ihmisten omia kokemuksia. Mutta emme myöskään halua sivuuttaa sitä
+faktaa, että tässä hallituksen tilaamassa tuulivoiman terveyshaittojen tutkimuksessa Ter-
+veyden ja hyvinvoinnin laitoksen mukaan meillä ei tällä hetkellä ole olemassa tieteellistä
+näyttöä tällaisista terveyshaitoista, ja siksi jatkettakoon seurantaa, tarkempia selvityksiä.
+En kyllä sanoisi, etteivätkö jo nyt tehdyt selvitykset olisi riippumattoman ja luotettavan tie-
+teellisen tahon suorittamia. Mutta ennen kuin tehdään täällä tai muuallakaan ankkuroituja
+johtopäätöksiä aiheesta, niin odotettakoon tutkittua ja tieteellistä tietoa.
+
+16.47 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Vihreät tosiaan suhtautuvat
+tähän asiaan aivan avoimesti, ja me tosiaan teemme sitten lopullisen päätöksen ryhmänä
+siinä kohtaa, kun valiokuntakäsittely on asiantuntijoiden johdolla käyty. Tosiaan esimer-
+kiksi tuulivoimakunnillehan tämä uudistus on varsin tärkeä, mitä ei pidä lähteä kiistämään,
+10
+
+
+
+Pöytäkirjan asiakohta PTK 82/2017 vp
+ja me kaikki varmasti allekirjoitamme sen tavoitteen, että me haluamme, että Suomeen sai-
+si mahdollisimman ketterästi rakennettua uusiutuvia energiamuotoja siten, että ne olisivat
+myös niiden kuntien etu, jonne niitä rakennetaan — tai ainakin uskoisin, että suurin osa
+eduskunnasta ajattelee näin.
+
+Edustaja Turunen kommentoi — vaikka hän jo poistuikin, niin vastaan silti — minun
+kommentointiani pienemmistä tuulipuistoista, että johtaako tämä nyt siihen, että rakenne-
+taan sitten pienempiä yksiköitä. Sekin voi olla tietyllä tavalla positiivinen puoli, se voi
+mahdollistaa sen, että kunnat voivat ketterämmin sallia tuulivoiman rakentamisen. Mutta
+sitten toisaalta se tarkoittaa myös sitä, että tuulivoimaa on useammassa paikassa, ja siinä on
+sitten omat kysymyksensä. Kunhan tämä ei johtaisi epäterveeseen osaoptimointiin — se on
+se, mitä minä tässä takaa haen.
+
+Myöskin kun me puhumme välillisistä verotuista ja suoristakin verotuista ja niiden pur-
+kamisesta ja siitä, että saatamme eri energiamuotoja samalle viivalle keskenään, niin minä
+painotan siis sitä ja halusin korostaa puheenvuorossani sitä, että jos tällaista tarkastelua ha-
+lutaan tehdä, niin sen pitää koskea myös fossiilista energiaa ja sen välillisiä tukia. On aivan
+selvää, että energiamarkkinat toimivat paremmin silloin, kun kaikki ovat samalla viivalla,
+ja uskon, että myös kestävä kehitys hyötyy siitä, jos saamme eri energiamuodot samalle
+viivalle. Kuitenkin jos lähtökohdaksi otetaan se, että tuulivoimatukiin kajotaan ensin ja sit-
+ten ei anneta lupausta siitä, mitä tehdään fossiilisille, niin tässä kohtaa saattaa syntyä epä-
+suhtaa, joka ei johdakaan yhdenvertaisuuteen. Eli toivon, että uusiutuviin energiamuotoi-
+hin myönteisesti suhtautuvat hallituspuolueiden edustajat pitävät tätä asiaa esillä.
+
+16.49 Leena Meri ps: Arvoisa puhemies! Tosiaan tieteelliseen tutkimukseen tulee ja pi-
+tää voida perustaa asioita, mutta meiltä puuttuu selkeästi pitkävaikutteisten terveysvaiku-
+tusten selvittäminen infraäänestä. Ehkä kehotan myös erilaisia puolueita tutustumaan ja
+haastattelemaan näitä ihmisiä. Niin kuin tuossa esimerkissäni yritin kertoa, välttämättä ei
+ole mikään subjektiivinen kokemus se, että juuri kävelemään oppinut vauva kävelee tällä
+tavalla. [Puhuja pitelee korviaan] Hän ei varmaankaan ole matkinut sitä mistään, ja se ei
+ole varmaankaan mikään plasebovaikutus.
+
+Haluan muistuttaa jokaista siitä, että joitakin vuosia sitten Suomessa oli aika tuntema-
+ton sairaus tämä borrelioosi. Tunnen erään ihmisen, joka kärsi borrelioosin jälkioireista, ja
+ensin häntä luultiin luulotautiseksi, kunnes tiede kehittyi ja huomattiin se, että oli aiheutu-
+nut sellaisia hermostollisia vaurioita, jotka vaikuttivat hänen motoriikkaansa. Vaikka me
+emme aina tunne kaikkia syntymekanismeja, niin silti me emme voi välttämättä ajatella,
+että tämä on vain jonkinlainen kokemus, vaan me joudumme hakemaan tieteellistä tutki-
+musta ja syy-yhteyksiä, ja monesti joudumme havaitsemaan, että kysymyksessä onkin
+diagnoosi ja sairaus. Pidetään sen takia mielemme avoimina, koska nämä tarinat ovat to-
+della vakuuttavia ja syvällisiä, ja toivon, että jokainen ottaa haastateltavaksi muutaman täl-
+laisen ihmisen ja käy heidän kanssaan sitä perheen tilannetta läpi. Minäkin suhtauduin
+skeptisesti ennen kuin minä tapasin näitä ihmisiä enemmän, myönnän sen. Mutta en suh-
+taudu enää.
+
+Keskustelu päättyi.
+
+Asia lähetettiin valtiovarainvaliokuntaan.
+11
+
+

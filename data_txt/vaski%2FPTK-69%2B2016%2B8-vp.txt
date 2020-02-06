@@ -1,0 +1,1099 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM6E12.tmpSave.xml
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+Pöytäkirjan asiakohta 
+
+PTK 69/2016 vp
+
+Täysistunto
+
+Keskiviikko 15.6.2016 klo 13.59—21.01
+
+8. Hallituksen esitys eduskunnalle laiksi kaupallisista tavarankuljetuksista tiellä annetun 
+lain 6a §:n muuttamisesta
+
+Hallituksen esitys HE 143/2015 vp
+Valiokunnan mietintö LiVM 17/2016 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Paula Risikko: Ensimmäiseen käsittelyyn esitellään päiväjärjes-
+tyksen 8. asia. Käsittelyn pohjana on liikenne- ja viestintävaliokunnan mietintö LiVM 17/
+2016 vp. Nyt päätetään lakiehdotuksen sisällöstä.
+
+Keskustelu
+
+19.05 Ari Jalonen ps (esittelypuheenvuoro): Arvoisa puhemies! Ensimmäiseksi tarvitsee
+tämän asian pohjalle sanoa se, että tämä oli oikeastaan, voisiko käyttää termiä, epämiellyt-
+tävä asia käsitellä. Me, jotka olemme olleet jo viime kaudella tekemässä tätä Suomen lain-
+säädäntöä, tiedämme tämän kipeän syntyhistorian, ja tämän käsittely ei ollut kauhean miel-
+lyttävää. Mutta joka tapauksessa vastuu pitää kantaa ja Suomen etua ajaa aina sen parhaan
+mukaan, mitä kulloinkin on. Asian herkkyyden takia tästä käytiin varsin laaja ja perusteel-
+linen kuuleminen ja oikeastaan kaikki kivet ja kannot käännettiin ympäri.
+
+Pohdin, että en lähtisi lukemaan tätä lävitse, mutta tässä on niin paljon semmoista yksi-
+tyiskohtaa, että tämä on syytä tuoda suuremmallekin yleisölle nyt julki, jos ei tätä ole vielä
+lukenut.
+
+Valiokunnan perustelut
+Yleistä:
+Tavaraliikenteen kabotaasilla tarkoitetaan valtion sisäistä kuljetusta toisessa EU-maas-
+
+sa rekisteröidyllä ajoneuvolla. Kabotaasi on ollut jo pitkään mahdollista EU:n ja Eta-
+alueen liikenteenharjoittajille — eli pitkään ollut jo vallitseva tilanne. Valiokunta kiinnit-
+tää selkeyden vuoksi huomiota siihen, että käsittelyssä oleva esitys ja kabotaasia koskeva
+sääntely eivät muutoinkaan koske Suomen ja kolmansien maiden, kuten Venäjän, välistä
+rajat ylittävää liikennettä. Suomen ja Venäjän välisistä kuljetuksista säädellään edelleen
+maiden välisissä kansainvälisissä sopimuksissa. Eli moni ihminen, joka näkee venäläisen
+rekan, luulee, että se on kabotaasia, ja tämä ei ole lainkaan paikkansa pitävää. Eli tarvitsee
+ensimmäiseksi tietää, mitä se kabotaasi on.
+
+Kabotaasista on säädetty Euroopan parlamentin ja neuvoston asetuksessa, joka on päi-
+vätty vuodelle 2009, maanteiden kansainvälisen tavaraliikenteen markkinoille pääsyä kos-
+kevista yhteisistä säädöksistä. Eli tämä on EU:n tavaraliikennelupa-asetus, nimenomaan
+paino sanalla "asetus" — asetus ja direktiivi poikkeavat toisistaan varsin perusteellisesti.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+Kyseisen asetuksen taustalla on keskeisesti yksi EU:n perusperiaatteista eli ihmisten, tava-
+roiden ja palveluiden vapaa liikkuvuus EU:n sisämarkkinoilla.
+
+Hallituksen esityksessä ehdotetaan kaupallisista tavarankuljetuksista tiellä annettua la-
+kia — ja tämä on päivätty 2006 — muutettavaksi siten, että kabotaasikuljetuksia koskevat
+kansalliset 6 a §:n säädökset kumotaan ja pykälässä viitataan pelkästään EU:n tavaralii-
+kennelupa-asetuksen säädöksiin. Eli ainoastaan yksi pykälä kumotaan, ja nyt jo voimassa
+oleva EU:n tavaraliikennelupa-asetus on se, mikä ohjaa. Jatkossa Suomessa sovellettaisiin
+siten vain suoraan kansallisesti sovellettavan EU-asetuksen säädöksiä, kuten lähes kaikis-
+sa muissakin EU-maissa. Asiantuntijakuulemiset ovat olleet asian perusteellisen käsitte-
+lyn aikana ristiriitaisia, ja esityksen vaikutuksista ja merkittävyydestä on myös tuotu esille
+varsin erilaisia näkemyksiä. Saatavilla olevat tilastot on käsittelyn aikana riitautettu, mikä
+ei ole ollut omiaan helpottamaan tai nopeuttamaan asian käsittelyä ja päätöksentekoa.
+
+Tasapuoliset toimintaedellytykset:
+Kabotaasilla on arvioitu olevan positiivisia vaikutuksia muun muassa tyhjänä ajamisen
+
+välttämisen, kuljetuskustannusten optimoinnin ja päästöjen vähentämisen kannalta —
+tämä on siis EU-asetuksen lähtökohta. Lisäksi nämä kuljetukset tuovat suomalaisille kul-
+jetusyrityksille liiketoimintamahdollisuuksia muissa jäsenmaissa, mistä selkeänä osoituk-
+sena on, että virallisten tilastojen mukaan suomalaisten kuljetusyritysten ulkomailla har-
+joittaman kabotaasin määrä on moninkertainen verrattuna ulkomaalaisten kuljetusyritys-
+ten Suomessa harjoittamaan kabotaasiin. Tilastojen perusteella Suomi ja suomalaiset kul-
+jetusyritykset siis hyötyvät kabotaasista. Kabotaasin määrästä Suomessa on vaikea saada
+luotettavaa tietoa, ja asiantuntijakuulemisessakin tästä on esitetty selkeästi toisistaan poik-
+keavia näkemyksiä. Erityisen vaikeaa on saada tietoa laittoman kabotaasin todellisesta
+määrästä. Eli me myönnämme, että laitonta kabotaasia on, ja pitää myös tiedostaa, että lai-
+ton kabotaasi on laitonta kabotaasia nyt ja tämän muutoksen jälkeenkin, ja laittomaan ka-
+botaasiin tulee puuttua voimakkaalla kädellä. Asiantuntijakuulemisessa on tuotu laajasti
+esille erilaisia vakavia huolia muun muassa toimijoiden tasapuolisen kilpailun edellytyk-
+siin ja harmaan talouden lisääntymiseen liittyen, mikäli kabotaasikuljetusten määrä Suo-
+messa kasvaisi jatkossa.
+
+Valiokunta pitää asiantuntijakuulemisessa esille tuotuja huolia perusteltuina. Kaupalli-
+sista tavarankuljetuksista tiellä annetun lain 5 a §:ssä on säädetty tilaajalle selvitysvelvol-
+lisuus kuljetuksen laillisuudesta. Ennen kaikkea mahdollisten lieveilmiöiden torjuminen
+vaatii valvonnan tehokkuutta sääntelyn noudattamisen varmistamiseksi. — Hyppäsinkö-
+hän minä jonkun rivin yli? — No, joka tapauksessa tilaajan on siis selvitettävä, onko kyyti
+laillinen. Valvonnan tehottomuus ei saa johtaa epäterveeseen kilpailuun tai harmaan talou-
+den lisääntymiseen. Valiokunnan saaman selvityksen mukaan liikenteenharjoittajan tulee
+voida esittää kabotaasikuljetuksissa selvät todisteet saapuvasta kansainvälisestä kuljetuk-
+sesta sekä kustakin sitä seuraavasta kabotaasimatkasta. Käytännössä kaikissa kansainväli-
+sissä kuljetuksissa on oltava rahtikirja. Tässä on ollut epäselvyyttä matkan varrella siitä,
+onko rahtikirja oltava vai ei — kabotaasikuljetuksissa rahtikirja on oltava.
+
+Valiokunta edellyttää, että liikenne- ja viestintäministeriö ja sisäasiainministeriö var-
+mistavat yhteistyössä, että kabotaasikuljetuksia koskevan EU:n tavaraliikennelupa-asetuk-
+sen kabotaasikuljetuksia koskevien säännösten noudattaminen varmistetaan mahdollisim-
+man tehokkaasti ja kiinnitetään erityistä huomiota tien päällä tehtävään kabotaasikuljetus-
+ten rahtikirjoja koskevaan viranomaisvalvontaan. Valiokunta korostaa, että poliisi-, tulli-
+ja rajavartiomiehillä on oikeus myös pysäyttää ajoneuvot tarvittavien asiakirjojen tarkista-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+miseksi. Valiokunta pitää myös välttämättömänä, että mahdollisimman pikaisesti arvioi-
+daan sähköisen rahtikirjan tai muiden sähköisten menettelytapojen ja tekniikoiden käyt-
+töönoton mahdollisuudet sääntelyn noudattamisen varmistamiseksi. Lisäksi tulee arvioida
+muutoinkin kattavasti, miten kuljetusyritysten tasapuoliset kilpailun edellytykset voidaan
+turvata ja ehkäistä mahdolliset lieveilmiöt markkinoilla.
+
+Markkinoiden tasapuoliset kilpailun edellytykset vaativat välttämättä myös työsuhtei-
+siin liittyvien velvoitteiden tasapuolista noudattamista kuljetusyrityksissä. Valiokunnan
+saaman selvityksen mukaan myös kabotaasikuljetuksissa tulee noudattaa Suomen lainsää-
+dännön ja työehtosopimusten vaatimuksia soveltuvin osin, mutta näin ei käytännössä aina
+tapahdu. Valiokunta viittaa työ- ja tasa-arvovaliokunnan mietintöön, päivätty tälle vuodel-
+le, jossa tuotiin esille tarve seurata tarkasti uuden EU-sääntelyyn perustuvan työntekijöi-
+den lähettämisestä annetun lain vaikutuksia maantiekuljetuksiin. Mietinnön mukaan erityi-
+sesti kyseisen lain työskentelyä koskevat ja laissa säädettyjen ilmoitus- ynnä muiden vel-
+vollisuuksien edellytyksinä olevat vähimmäisaikarajat sopivat huonosti maantiekuljetuk-
+siin, ja seurannan pohjalta tulisi tarvittaessa ryhtyä toimenpiteisiin mainituilla lailla voi-
+maan saatettavan direktiivin täytäntöönpanon tehostamiseksi. Liikenne- ja viestintävalio-
+kunta kiinnittää huomiota myös siihen, että saadun selvityksen mukaan EU-tasolla
+komissio on alustavasti tuonut esille maantieliikenteen sääntelyä koskevien uusien ehdo-
+tusten yhteydessä, että lähetettyjen työntekijöiden sääntely maantiekuljetuksessa sisälly-
+tettäisiin tulevaisuudessa nimenomaan maantiekuljetuksia koskevaan sääntelyyn. Valio-
+kunta toivoo, että tätä kautta säännösten tasapuolisen noudattamisen ongelmiin saadaan
+jatkossa selkeitä parannuksia. Kyseisen sääntelyn valmisteluun tulee osallistua aktiivises-
+ti, mutta näihin kysymyksiin on joka tapauksessa etsittävä jo lyhyemmällä aikavälillä ko-
+konaan uusia ja toimivia ratkaisuja sekä kansallisesti että EU-tasolla.
+
+Valiokunta kiinnittää huomiota siihen, että EU:n tavaraliikennelupa-asetukseen liittyy
+keskeisesti kabotaasikuljetusten tilapäisyyttä koskeva vaatimus. Asetuksen mukaan kabo-
+taasiliikenteellä tarkoitetaan kansallista liikennettä, jota harjoitetaan tilapäisesti toisen lu-
+kuun vastaanottavassa jäsenvaltiossa kyseisen asetuksen mukaisesti. Valiokunta pitää sel-
+vänä, että asetuksessa säädetty tilapäisyyden vaatimus ei voi tarkoittaa muuta kuin että ky-
+seessä oleva toiminta ei voi olla jatkuvaa. Valiokunta pitääkin tärkeänä, että asetuksen sää-
+döksiä sovelletaan tasapuolisesti tästä asetuksen keskeisestä lähtökohdasta käsin. Valio-
+kunta toivoo, että tilapäisyys voitaisiin jatkossa määritellä tarkemmin EU-tasolla.
+
+Johtopäätökset: 
+Valiokunnan liikenne- ja viestintäministeriöstä saaman perusteellisen selvityksen poh-
+
+jalta valiokunta arvioi, että esityksen mukainen lainsäädännöllinen ratkaisu on käytännös-
+sä ainoa ja väistämätön vaihtoehto tämänhetkisessä tilanteessa. Tästä syystä valiokunta
+esittää lakiehdotuksen hyväksymistä muuttamattomana.
+
+Valiokunta edellyttää, että liikenne- ja viestintäministeriö arvioi kattavasti lakimuutok-
+sen käytännön vaikutuksia ja mahdollisia muutostarpeita. Lisäksi valiokunta korostaa, että
+valtioneuvoston tulee huolehtia valvontaviranomaisten toiminnan edellytyksistä EU:n ta-
+varaliikennelupa-asetuksen noudattamisen varmistamiseksi. Erityisen tärkeää on, että rah-
+tikirjaa koskevien säännösten noudattamista valvotaan tehokkaasti. EU-tason sääntelyn ai-
+heuttamien mahdollisten lieve-ilmiöiden ehkäisemiseksi on osallistuttava aktiivisesti
+myös asiaa koskevaan EU-tason jatkovalmisteluun ja tuotava valmistelussa voimakkaasti
+esille Suomen olosuhteisiin liittyvät erityispiirteet.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+Tässä on sitten myös kahden puolueen esittämä vastalause, mutta kuten kuulitte, asia on
+kohtalaisen monimutkainen ja kuulemisessa tuodut tiedot ja tilastot, lukemat, olivat omi-
+aan vielä sekoittamaan sitä, joten tämä on ollut hankala käsitellä. Mutta kuten tuossa joh-
+topäätöksessä todetaan, niin tämä on tässä tilanteessa ainoa ja väistämätön vaihtoehto.
+
+19.20 Suna Kymäläinen sd: Arvoisa rouva puheenjohtaja! Ensimmäistä kertaa viiteen
+vuoteen kuulin koko valiokunnan mietintöluonnoksen luettavan täällä eduskunnassa —
+mutta painavaa asiaa sinällään.
+
+Arvoisa puhemies! Kilpailu kuuluu liiketoimintaan, eivätkä suomalaiset kuljetusyrittä-
+jät tai heidän työntekijänsä rehtiä kilpailua pelkää. EU:n kabotaasilainsäädännön ongelma-
+na vain on määrittelemätön väliaikaisuus, joka tähän asti on tarkennettu kansallisessa lain-
+säädännössä. Kabotaasin ajatus sinällään on kannatettava: vähentää maahan tulleiden ul-
+komaisten rekkojen tyhjänä ajoa. EU:n määräysten mukaan toisen EU-maan sisäisissä
+ajoissa tulee noudattaa kyseisen maan työehtosopimuksia ja maksaa kuljettajille vähintään
+samaa palkkaa. Tämä ei ole ongelma myöskään suomalaisille kuljettajille, jotka ajavat ka-
+botaaseja muissa EU-maissa. 
+
+Huonosti määritelty EU-lainsäädäntö kuitenkin muuttaa kilpailutilannetta Suomessa,
+mikäli lainsäädännössä ei ole selkeitä valvottavia rajoja ja määräyksiä, joita viranomai-
+semme voisivat valvoa. Tässä tilanteessa valvonnan määrällä ei ole mitään vaikutusta. Ny-
+kyresursseillamme on jo vaikea valvoa kattavasti raskaan liikenteen ajoneuvojen teknistä
+kuntoa ja ajoaikoja. Millä resursseilla voimme valvoa käytännössä vapaata ulkomaisten
+rekkojen liikennettä ajo-oikeuden ja työehtojen kannalta?
+
+Valiokuntakuulemisessa, asiantuntijakuulemisessa, muun muassa aluehallintovirasto,
+joka vastaa tästä valvonnasta, toi meille tällaisen selkeän listan siitä, miten valvonta toimii
+perinteisestä näkökulmasta. Vastaus: Käytännössä ei valvota, koska työnantaja on ulko-
+maalainen ja toimii täällä vain hetkellisesti. Ulkomaalaisvalvonta — valvontaa ei tehdä,
+koska tietoa toimijoista ei ole. Tilaajavastuulaki — käytännössä sama haaste, ei tiedetä,
+missä toimijoita on, ja niin poispäin. Tämä on tätä jo nyt tällä hetkellä.
+
+Valiokunnan mietinnön mukainen esitys tulee antamaan matalamman kustannustason
+EU-maista tuleville rekoille epäreilun kilpailuedun kotimaisiin yrittäjiin nähden. Kuljetus-
+kustannukset laskevat vain, jos työehtosopimusten mukaista palkkaa ei makseta. Hallitus
+on ollut hyvin huolissaan työpaikoista ja yrittäjistä. Tällä esityksellä molemmat tulevat
+kärsimään. Kotimaiset pk-yrittäjät, jotka työllistävät suomalaisia, tulevat häviämään kil-
+pailussa monikansallisia jättejä ja toimintaansa Baltiaan tai Itä-Eurooppaan siirtäneitä vas-
+taan. Kilpailluilla kuljetusmarkkinoilla kannattavuus on jo nyt haastavaa, vaikka ala työl-
+listää 100 000 ja tuo verotuloja Suomeen 2,7 miljardin euron edestä. Siksi minun on pakko
+ihmetellä Suomen hallituksen kurssimuutosta asiassa, jossa aikaisemmat hallitukset ovat
+puolustaneet maamme kansallisia etuja. Koko kansallisen kabotaasilainsäädännön pois
+pyyhkiminen on ratkaisu, jota en ymmärrä.
+
+Olemme tämän kevään aikana keskustelleet tässä salissa monesti tästä asiasta, ja on yli
+puoluerajojen todettu, että EU:n tieliikennepaketti mahdollisine muutoksineen on tulossa.
+Samoin Tanska haastaa samoista syistä EU:ta edelleen. Mahdollisuuksia olisi ollut, jos oli-
+si löytynyt tahtoa. Tässä asiassa suomalainen kuljetusala voi katsoa hallituspuolueista eri-
+tyisesti vielä viime kaudella rehvakkaasti rekkamarsseihin osallistuneiden perussuomalais-
+ten suuntaan. Liikenneministeri Berneriltä kysyisin, jos hän olisi paikalla, missä ovat esi-
+tykset Suomen vastatoimista. Hallitus päätti jo vuosi sitten toimintalinjastaan, ja siitä asti
+4
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+ollaan puhuttu mahdollisista vinjeteistä, talvirengaspakosta, sähköisistä rahtikirjoista ja
+niin edelleen, joilla pyrittäisiin suojaamaan kotimaisia kuljetusyrityksiä. Odotatteko siihen
+asti, että on liian myöhäistä, vai jäävätkö nämä vastatoimet vain puheiksi?
+
+Edellinen, erittäin fiksu liikenneministeri Paula Risikko olisi vienyt asian EU-tuomiois-
+tuimeen eikä olisi lähtenyt hölläämään lakia, kuten Berner ja Soini nyt sulassa sovussa te-
+kevät. Eihän tilapäinen voi olla viikosta toiseen toistuvaa ja lain kiertämiseen perustuvaa
+toimintaa. Jo valvonnan kannalta ovat laissa määritellyt rajat tarpeen. Siksi Suomen kan-
+salliset säännökset kabotaasiliikenteen tilapäisyyden määrittelyn ja kabotaasikuljetuksen
+määritelmän osalta ovat perusteltuja eivätkä EU-asetuksen vastaisia. Suomessa, pitkien vä-
+limatkojen maassa, on näihin asioihin suhtauduttava herkästi. Suomi on riippuvainen ku-
+mipyöräkuljetuksista. Emmehän halua suomalaisen rekkakaluston ja työvoiman ulosliput-
+tamista. Mielestäni hallituksen tulisi olla vahva EU:n painostuksen alla, varsinkin kun sen
+toimet ovat täysin hallituspuolueiden vaalienaluspuheiden vastaisia. Voiko hallitus uhrata
+suomalaiset kuljettajat ja työpaikat jättämällä huomiotta suomalaisten kuljetusyrittäjien
+huolen?
+
+Olemme jättäneet valiokunnassa hylkäysesityksen ja tulemme sen tämänkin käsittelyn
+aikana täällä eduskunnassa tekemään.
+
+19.26 Jari Myllykoski vas: Arvoisa rouva puhemies! Arvostettu entinen liikenneministe-
+ri! On pakko todeta tässä yhteydessä se linja, mitä edellisten hallitusten aikana aloitettiin,
+jo silloin, kun ministeri Kyllönen oli liikenneministerinä: Suomi piti pintansa. Siinä samas-
+sa rintamassa oli liikennevaliokunnan nykyinen puheenjohtaja perussuomalaisesta puolu-
+eesta. Me olimme yhtä mieltä siitä, kuinka meidän pitää toimia. (Ari Jalonen: Kyllä!)
+Nämä faktat olivat jo silloin pöydässä, ja tästä tilapäisyydestä ei ollut ongelmaa. Oltiin
+kansallisesti suomalaisen yrittäjän ja suomalaisen kuljetusliikennetyössä olevan työnteki-
+jän puolella. (Ari Jalonen: Edelleen!)
+
+Tällä hetkellä hallitus noudattaa tätä toivotaan toivotaan -politiikkaa, niin kuin eilisessä
+välikysymyksessäkin voimme todeta. Hallitus suunnittelee, hallituksella on toimenpiteitä,
+mutta nykyhetkeen hallitus ei tartu. Hallitus karkaa aivan kuten aika monessakin asiassa,
+mutta eilinen juuri todisti sen, että nyt hetkeen tarttuminen olisi ollut se ainoa oikea vaih-
+toehto.
+
+Minä voisin allekirjoittaa tämän valiokunnan mietinnön, jos meillä samaan aikaan hal-
+litus olisi valmistellut ne toimenpiteet, joilla vastataan kansallisesti tähän kabotaasiliiken-
+teen vapauttamiseen, nyt tällä lainsäädännöllä: ne toimet, jotka olisivat olleet siellä talvi-
+rengaspakkojen ynnä muun kanssa. Miksi kiiruhtaa juuri nyt, kun hallituksessa varmasti
+tiedetään, että EU tulee uudistamaan tätä lainsäädäntöä? Me voimme nähdä Euroopan eri
+maista, kuinka tiukasti siellä katsotaan työaikadirektiivien puitteissa sitä, minkälaiset ovat
+lepoajat, kuinka siellä valvotaan kabotaasiliikennettä jo nyt tiukemmin. Siellä on lähdetty
+vastaamaan tähän tulevaan muutokseen, mutta mitä tekee Suomen hallitus? Suomen halli-
+tus ottaa rohkean etunojan tietämättä, mihinkä on nojaamassa. Tulee vapaa pudotus: kun
+30 metrin mäestä ollaan opittu hyppäämään, niin sitten mennäänkin isoon mäkeen ja hy-
+pätään säkki päässä tuntemattomaan. Tämä on sitä hallituksen politiikkaa tässä hetkessä ja
+nyt.
+
+On todella harmillista, että me joudumme käymään tämmöistä keskustelua tässä tilan-
+teessa, missä meillä on edellisen hallituskauden aikana tehdyt linjaukset, joissa perussuo-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+malaiset olivat täysin rinnoin mukana. Miksi nyt tulevat ne EU-pakotteet, kun me olisim-
+me voineet tehdä toisin?
+
+Arvoisa puhemies! Oikein kirjoitin tähän puheen, mutta pitkä esittely ja edustaja Kymä-
+läisen hyvin rakennettu puheenvuoro, joka oli erittäin perusteltu, antoivat minulle vapau-
+den puhua tästä ihan omasta päästäni. (Suna Kymäläinen: Sydämestä!) Uskon, että tämä on
+suomalaisten kuljetusalan yrittäjien ja suomalaisten ajoneuvokuljettajien sydämen ääni.
+Me puhumme heidän kanssaan samaa kieltä. Jo lähetettyjen työntekijöiden kohdalla halli-
+tus lähti lipsumaan siitä, mitä EU:ssa todella halutaan tehdä. Haluttiin turvata suomalais-
+ten työntekijöiden ja yrittäjien asema lähetettyjen työntekijöiden osalta. Se oli yksimieli-
+nen, kirjallinen lausunto, jonka esittivät liikennöitsijät ja kuljetustyöntekijät. On mahdo-
+tonta käsittää, miksi nyt olemme tekemässä oikein tämän asian kanssa, kun tilapäisyyteen,
+kun ei ole selkeätä tulkintaa, kaatuu tämä asia.
+
+Arvoisa rouva puhemies! Ugh, olen puhunut.
+
+19.30 Ulla Parviainen kesk: Arvoisa puhemies! Lähetekeskustelussa minä toivoin, että
+tämä lakiesitys viipyisi valiokunnassa riittävän pitkään, jotta me saisimme uutta tietoa siitä
+EU:n liikennepaketista. Puolustimme ja puolustamme edelleen sinnikkäästi suomalaisia
+kuljetusyrityksiä ja kuljetustyöpaikkoja. Valiokunta on mietinnön mukaan saanut hyvin
+laajan ja perusteellisen selvityksen ja toteaa, että tämä ratkaisu on ainoa ja väistämätön
+vaihtoehto tämänhetkisessä tilanteessa. Minä luotan tähän valiokunnan näkemykseen.
+
+EU:ssa pienten maiden viesti on ollut, että kabotaasia tulisi keventää, jotta nimenomaan
+pienten maiden kuljetukset saataisiin kilpailukykyisiksi myös ulkomailla. Suomalaiset kul-
+jetusyritykset näyttävät olevan enemmän Euroopan isojen maiden, Saksan ja Ranskan, lin-
+jalla ajamassa tiukempia kabotaasisääntöjä. Suurimmat huoleni liittyvät siihen, kyetäänkö
+kabotaasiliikennettä valvomaan tehokkaasti ja onko yrityksillä jatkossa tasapuoliset toi-
+mintaedellytykset. Valvonnan tehottomuus ei saa johtaa harmaan talouden lisääntymiseen
+ja kuljetusyritysten epäterveeseen keskinäiseen kilpailuun. Ehdotus siitä, että valvonta laa-
+jenisi, jolloin Tullilla ja poliisilla olisi mahdollisuus pysäyttää autoja tien päälle, ja siirtyi-
+simme sakosta hallinnollisiin seuraamuksiin, on mielestäni hyvä. Lisäksi meidän pitää
+huolehtia siitä, että maasta ei voi poistua ennen kuin hallinnollinen seuraamus on hoidettu.
+Tästä ehkä kuulemme jatkossa.
+
+Minä kannan erittäin paljon huolta liikenneturvallisuudesta. Minua kauhistuttaa tieto sii-
+tä, että Pohjois-Suomen talvisissa oloissa liikkuu raskaassa lastissa olevia ulkomaisia rek-
+koja, joilla ei ole nastarenkaita ja jotka eivät ole tottuneet talvikeleihin. Talvirengaspakko
+saataneen aikaan myös hyvin nopeasti. Minä toivon myös sitä, että hyvin pian pääsemme
+siihen ratkaisuun, että ulkomaiset rekat maksavat Suomen teiden käytöstä. 
+
+19.33 Markku Pakkanen kesk: Arvoisa rouva puhemies! Heti alkuun on todettava, että
+vastalauseen allekirjoittajat ovat ymmärtäneet hyvin, mikä kabotaasissa on se tärkeä asia:
+alun perin varsin järkevä esitys, ympäristöä säästävä, kuljetusyksiköiden tyhjänä ajoa pois-
+tava kabotaasikuljetus. Tästähän kabotaasissa on kyse. Kiitos siitä vastalauseen allekirjoit-
+tajille.
+
+Haluan kuitenkin korjata vastalauseessa yhden selkeän virheellisyyden. Siinä kerrottiin
+näistä harmaan talouden määrärahoista. Hallitus on vuoden 2016 alusta harmaan talouden
+torjuntaan osoittanut erityismäärärahan eikä poistanut, niin kuin tässä vastalauseessa an-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+nettiin ymmärtää, elikkä kyllä harmaata taloutta Suomessa edelleen torjutaan ja siihen on
+varattu määrärahoja.
+
+Täällä on kovasti, ehkä hieman jälkiviisaastikin, todettu, että nyt ollaan Suomessa muut-
+tamassa kabotaasin määritelmää. Se pitää paikkansa siltä osin kyllä, mutta se määritelmä,
+joka edellisellä hallituskaudella tuohon kabotaasikuljetukseen laitettiin, on se kiistanalai-
+nen kysymys, ja se nyt poistetaan, ja perustellusti vaadittaisiin uusia määritelmiä siihen.
+Nämä määritelmät olisi kuitenkin ollut tehtävä jo viime kaudella, jotta tältä kiusalliselta ti-
+lanteelta oltaisiin vältytty. Mutta viime hallituksessa siihen ei tartuttu, ei muun muassa lai-
+tettu talvirengasvaatimusta, jolla olisi pystytty säätelemään asiaa, ei vinjet-maksua. Nämä
+ovat vaikeita päätöksiä, ja ymmärrän, että ei se silloinkaan ollut helppoa niitä laittaa vaan
+mentiin tähän määritelmään, kuljetuksien purkumääritelmään, mikä nyt tässä on kiusallis-
+ta.
+
+Tässä vastalauseessa ja mediassa annetaan ymmärtää, että Suomi olisi avaamassa kai-
+ken kilpailun. Näinhän ei kuitenkaan ole, vaan kabotaasikuljetussäädäntö niin Suomessa
+kuin myös koko EU:n alueella on nyt samanlaista ja tasavertaista kaikissa maissa pois lu-
+kien sitten enää Tanska, mikä vielä on näillä omilla säädöksillään mukana. Pitää muistaa
+se, mikä jää jäljelle, elikkä kansainvälisiä tiekuljetuksia koskevan asetuksen nojalla kabo-
+taasi on rajattu kolmeen kuljetukseen seitsemän päivän sisällä ja sen jälkeen, kun ajoneuvo
+on kansainvälisessä kuljetuksessa saapunut Suomeen.
+
+Suomen nyt voimassa oleva lainsäädäntö poistaa sen määritelmän niiden ajojen tilapäi-
+syydestä, mutta meille jää edelleen se kabotaasisääntö voimaan, elikkä nyt toimitaan tasa-
+vertaisesti EU:n alueella kaikkien EU-maiden kesken. Suomalaiset yrittäjät ajavat kabo-
+taasia Euroopan maissa, ja eurooppalaiset yrittäjät saavat samoilla periaatteilla ajaa kabo-
+taasia Suomessa. Tämä on reilua kilpailupolitiikkaa, ja näin toimitaan. Reilua on myös
+maksaa kuljettajille asianmukainen palkka siinä maassa, kun se niille kuuluu. Tästähän täs-
+sä kabotaasissakin on kysymys. Nyt ollaan luopumassa kabotaasikuljetusten määritelmäs-
+tä ja tilapäisyyden vaatimuksesta, mikä viime hallituskaudella Suomeen on säädetty.
+
+Täällä on kiinnitetty huomio tähän valvonnan tehokkuuteen ja vaativuuteen. Se on totta,
+että on haasteellista se valvonta ja siihen poliisin, erityisesti liikkuvan poliisin, jatkuminen
+olisi ollut tärkeää. Mutta viime hallituskaudella siitä luovuttiin. Nyt se hankaluus on tässä
+realisoitumassa.
+
+Tärkeää on huomioida, että suomalainen kuljetusala on nostanut ne huolenaiheet, jotka
+tuossa valiokunnan mietinnössäkin on tuotu esille, elikkä huoltovarmuuden, liikenne- ja
+työturvallisuusasiat, sen, että ulkomaalaiset kuljettajat eivät usein tunne suomalaisia lii-
+kennesääntöjä ehkä riittävästi, kommunikoinnin, purkupaikoilla olevat ongelmat et cetera
+et cetera. Mutta nämä asiat on hyvin tuossa valiokunnan mietinnössä huomioitu.
+
+19.38 Mirja Vehkaperä kesk: Arvoisa rouva puhemies! Euroopan unionissa on ihmis-
+ten, tavaroiden, palveluiden vapaa liikkuvuus EU:n sisämarkkinoilla. Tätä periaatetta aja-
+tellen olemme tämänkin hallituksen esityksen lainsäädännön edessä.
+
+Suomi on pitkien etäisyyksien maa. Olemme saari muihin maihin verrattuna, mutta ku-
+mipyöräliikenne on eittämättä yksi tärkeimmistä tavaroiden liikkumismuodoista Suomes-
+sa. Kabotaasiliikenne on ollut mahdollista pitkään EU:n ja Eta-alueen sisällä. Tähän asti
+olemme itse asiassa pystyneet ehkä omalla tavallamme sitä Suomen etua ajamaan elikkä
+ottamaan rusinat pullasta. Kotimaassa on ajettu 86 tonnikilometriä kabotaasikuljetuksia,
+kun vastaavasti kotimaiset yrittäjämme ovat ajaneet 250 tonnikilometriä kabotaasikulje-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+tuksia ulkomailla. Siis moninkertaisesti meidän yrittäjämme ovat liikkuneet toisten mai-
+den teillä, ja tätä me haluamme edelleenkin entistä tiitterämmin edistää, että meidän yrit-
+täjämme mahdollisesti kuljettavat myöskin ulkomailla tavaroita.
+
+Valiokuntakuulemisessa asiantuntijat ovat olleet erimielisiä, kuten täällä on todistettu.
+Siksi asia on ollut hiukan hankala käsitellä. Tästä erimielisyydestä: ehkä tässäkin salissa
+olemme tästä kiistelleet.
+
+Tämän kabotaasikuljetuksen lainsäädännön edessä positiivinen vaikutus sen lisäksi, että
+kotimaiset yrittäjämme pääsevät vapaasti liikkumaan EU- ja Eta-alueella, on myöskin se,
+että tyhjänä ajamista haluamme välttää ja kitkeä ja kuljetuskustannusten optimoiminen oli-
+si päämäärämme. Päästöjä halutaan vähentää myös tästä liikenteestä.
+
+Kun kabotaasiliikennettä ajetaan, niin sitä ei tehdä jatkossakaan ihan villinä. Siinä on
+omat rajoitteensa, ja kun ajetaan kabotaasiliikennettä Suomessa, niin totta totisesti kulje-
+tuksissa pitää noudattaa Suomen lainsäädäntöä ja myös työehtosopimusten vaatimia sovel-
+lutuksia, eli mikään villi länsi tämäkään ala ei tule olemaan.
+
+Olemme tietysti useasta asiasta huolissamme tämän lainsäädännön edessä. Vaadimme
+sitä, että saapuvalla kansainvälisellä kuljetuksella on asianmukaiset paperit eli rahtikirjat
+olemassa. Vaadimme myös sitä, että tätä lainsäädäntöä tieliikenteessä noudatetaan. Tähän
+valvontaan, joka myöskin on tullut tässä hyvin esille, pitää kiinnittää entistä enemmän huo-
+miota. Myöskin harmaan talouden kitkemiseen hallitus on omat miljoonansa antanut, ja
+siihen haluamme laittaa rahaa.
+
+Tieliikennelain uudistaminen on parhaillaan menossa — kysyttiin, eikö mitään ole edis-
+tetty tällä vaalikaudella. Myöskin talvirengaspakkoa halutaan viedä eteenpäin. Samoin
+vinjettimaksujen mahdollistamista ulkomaalaiselle liikenteelle on edistettävä tämänkin
+vaalikauden aikana. Sitä ei ole vieläkään saatu voimaan, ja vastustajat lienevät jossakin
+muualla kuin tämän salin sisällä. Tavarakuljettamisten helpottamiseksi pitää lainsäädän-
+töä edelleenkin mahdollistaa eteenpäin.
+
+On siis tärkeää, että tulevaisuudessa valvontaa raskaalle liikenteelle ja tälle kabotaasilii-
+kenteelle tulee tien päälle entistä enemmän. Ja kun puhuttiin sitten myöskin siitä tilapäi-
+syydestä, joka tähän tavaraliikennelupa-asetuksen noudattamiseen tulee, niin meidän Eu-
+roopan parlamentin jäsenet toivottavasti sitä kansallista etuansa ajavat myöskin siellä unio-
+nin pöydissä sen määrittelemiseksi, mikä on tilapäistä tavaraliikennekuljetusta. Siihen toi-
+vottiin, niin kuin valiokunta halusikin, täsmennystä.
+
+19.44 Katja Taimela sd: Arvoisa rouva puhemies! Luin itse tässä salissa tämän käsitte-
+lyssä olevan asian lähetekeskustelun pöytäkirjaa päivältä 9. helmikuuta. Lisäksi muistelin
+AKT:n, SKALin ja ALT:n järjestämää tilaisuutta samaiselta helmikuulta. Näissä molem-
+missa tilaisuuksissa annettiin hallituspuolueiden jäsenten kasvoilla ymmärtää, että halli-
+tuksen esitys voi vielä monella tavalla muuttua, loiventua ja erilaisia työkaluja ja instru-
+mentteja on käytössä. Uskallan sanoa, että todellisuudessa niitä ei ollut. Me olemme Suo-
+messa jo vuosia taistelleet kotimaisen liikennetoimialan edellytysten puolesta ja EU:n ka-
+botaasisäädöksiä vastaan. Hallituksen linja kansallisesta lainsäädännöstä kokonaan luopu-
+misesta on mielestäni kestämätön, ja se on myös mielestäni huonoa edunvalvontaa.
+
+Tämä esitys tulee vaikeuttamaan — huom., ei "tullee" vaan "tulee" vaikeuttamaan —
+suomalaisten kuljetusyrittäjien kilpailukykyä ja lisää ihan varmasti myös harmaata talout-
+ta. Lisäksi se, että hallitus halusi viedä lain läpi tilanteessa, jossa komission valmistelema
+tieliikennepaketti on kesken, tuntuu vähintäänkin kummalliselta. Hallituksen mielestä yksi
+8
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+syy kiireeseen on kanteen nosto Suomelle. Eikö olisi voitu vedota komission suuntaan ja
+todeta, että miksi muuttaa kabotaasisäädöksiä tilanteessa, jossa tuo komission tieliikenne-
+paketti on antamassa samaan asiaan suuntaviivoja ja uudistuksia?
+
+Tämä käsissämme oleva kabotaasipäätös haastaa entistä tiukemmin meidän oman lii-
+kennevalvontamme, joka on jo ehkä entisestäänkin heikentynyt liikkuvan poliisin lakkaut-
+tamisen jälkeen. Toivottavasti olemme edes siitä kaikki samaa mieltä, että erityisesti ras-
+kaan liikenteen valvontaan on välttämätöntä panostaa jatkossa huomattavan paljon enem-
+män.
+
+Ja mitä tulee näihin poliisien resursseihin, niin viime vaalikaudella oltiin valmiita —
+ihan välikysymykseen asti — lisäämään poliisien määrää, jolloin heitä oli reilu 7 000. Nyt
+hallitus on valmis leikkaamaan poliisien kokonaismäärää 6 500:aan. Ja toisaalta, mitä tu-
+lee harmaaseen talouteen, niin viime vaalikaudella tämän asian parissa teki (Puhemies ko-
+puttaa) 300 lisäkäsiparia töitä. Koen itse, että (Puhemies koputtaa) nämä talvirengaspakot,
+vinjet-maksut ja todelliset sanktiot laittoman kabotaasin kuljettamisesta ovat selvittämisen
+arvoisia ja tutkimisen (Puhemies koputtaa) arvoisia, mutta on tosi surullista, että kabotaa-
+silainsäädännöstä haluttiin nämä kansalliset säädökset viedä pois.
+
+19.46 Johanna Ojala-Niemelä sd: Arvoisa rouva puhemies! Matti Eskon sanoin: viikko-
+ja tiellä saa rekkamies asvalttia niellä. Suomalainen kuljetusyrittäjä pitää talouden pyörät
+pyörimässä. Vaativa ja raskas kuljetusala kärsii jo tällä hetkellä valtavista kannattavuus-
+paineista. Hallitus aikoo tämän lisäksi vapauttaa ulkomaista rekkaliikennettä Suomessa.
+Esityksellä ehdotetaan purettavaksi kansallinen lainsäädäntö kabotaasikuljetuksissa. Ka-
+botaasilla tarkoitetaan maan sisäisiä, tilapäisiä kuljetuksia vieraan maan rekisterissä ole-
+valla ajoneuvolla.
+
+Yrittäjät ovat seuranneet huolestuneina hallituksen toimia, koska nyt ollaan vapautta-
+massa ulkomaisten rekkojen tulo Suomen teille. Tämä mullistaisi kilpailutilanteen ja avai-
+si laajat ovet harmaalle taloudelle sekä tulee haastamaan kuljetusalan työpaikkoja entises-
+tään. Kuljetusyrittäjät ovat tehneet paljon investointeja. Alalla on ollut koko ajan kannat-
+tavuuspulmia, ja rekkamiehet painavat todella pitkää päivää jo nytten.
+
+Kansallisen lainsäädännön määritelmien poistuminen lisäisi kabotaasiliikennettä Suo-
+messa. Uhkana on, että epäterve kilpailu ja harmaa talous lisääntyvät alalla merkittävästi.
+Tieliikenteen tavarakuljetusten liikevaihto on Suomessa noin 6 miljardia euroa ja työllis-
+tää pelkästään tavaraliikenteen kuljettajia noin 70 000. Nyt puhutaan toimialasta, joka
+maksaa noin 6 miljardin liikevaihdosta arviolta 2,7 miljardia eli lähes puolet veroina val-
+tiolle.
+
+Esityksen ongelmat tunnustettiin yleisesti eduskunnan lähetekeskustelussa. Puolestapu-
+hujia esitykselle ei salista löytynyt. Ihmetystä herätti myös esityksen ajankohta. EU:lta on
+tulossa ensi vuonna pitkään valmisteltu maantielakipaketti, jonka odotetaan selventävän
+unionin lainsäädäntöä myös kabotaasiasioissa. Esimerkiksi Tanska ei ole samassa tilan-
+teessa luopumassa omista kansallisista linjauksistaan. Ei voikaan kuin ihmetellä hallituk-
+sen valmiutta muuttaa nykyistä Suomen linjaa, varsinkin nyt, kun EU:n maantielakipaketti
+on odotettavissa ensi vuoden alkupuolella ja tuon paketin yhteydessä myös tämä kyseinen
+asia olisi tullut käsitellyksi.
+
+Jos tämä esitys viedään nyt läpi, on selvää, että siitä seuraa vaikeuksia. Viranomaisilla
+— työsuojeluviranomaisilla, Tullilla ja poliisilla — ei ole tällä hetkellä työkaluja eikä re-
+sursseja hoitaa valvontatehtäviä. Kuten edustaja Taimela edellä otti esiin, myös poliisien
+9
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+resursseja ollaan vähentämässä ja heidän määränsä vähenee tulevaisuudessa. Ja miten käy,
+kun nämä valvontatehtävät kasvavat? Tätä taustaa vasten ihmettelen kovasti, miksi halli-
+tus on lähtenyt juuri tässä asiassa tekemään Suomesta EU:n mallioppilasmaata.
+
+Hallituksen tehtävä on edistää suomalaista työtä. Tällä hallituksen ratkaisulla ajetaan
+päinvastoin suomalaista työtä alas. Rekkamiehiltä viedään elanto.
+
+19.50 Ari Jalonen ps: Arvoisa puhemies! Tästä asiasta on tosiaan ristiriitaisia tietoja, ja
+tästä asiasta on erittäin paljon väärää tietoa liikenteessä. Nyt esimerkiksi äskeisessä pu-
+heessa esille tulleet väitteet siitä, että — jos nyt muistan oikein — nyt tämä meidän mark-
+kina aukeaa ulkomaisille täysin, eivät tosiaankaan pidä paikkaansa. Toinen asia, mikä ei
+pidä paikkaansa, on se, että Tanska olisi samassa tilanteessa kuin me. Asiantuntijakuule-
+minen oli tosiaan varsin perusteellinen, ja siinä kuultiin paljon asioita, mitä ei kaikkia pys-
+tytty edes kirjoittamaan tuohon mietintöön. Tästä kokonaiskuvasta tuli tosiaan se johtopää-
+tös, että tämä on ainoa vaihtoehto tällä hetkellä tähän tilanteeseen.
+
+Siis tämä asetus, joka on ollut jo vuosia voimassa, on tämän kabotaasiliikenteen perusta,
+ja se tosiaan määrittelee, että siellä tarvitsee olla se saapuva kansainvälinen kuljetus ulko-
+mailta Suomeen, ja siitä pitää olla se rahtikirja esittää. Sen jälkeen saa ajaa kolme kuljetus-
+ta kulloisenkin EU-maan sisällä, tässä tapauksessa Suomessa, ja ne kolme kuljetusta saa
+ajaa seitsemän päivän aikana. Eli kolme kuljetusta seitsemän päivän aikana — se on ihan
+prikulleen se sama määritelmä, mikä on tälläkin hetkellä voimassa.
+
+Edustaja Kymäläinen esitti tuossa nuo perustelut siitä, että on erittäin hankalaa, lähes
+mahdotonta, seurata sen työntekijän, sen kuskin, palkkaa. Ne perustelut olivat nimen-
+omaan siis nykytilaan. Se on siis jo nykyään semmoinen, että ei pystytä valvomaan. Eli
+vaikka tällä lailla viime kaudella tarkoitettiin hyvää ja se tehtiin hyvässä tahdossa — tosin
+silloin jo tiedettiin, että kyseessä on EU-asetus, ja mentiin vähän niin kuin kepillä koetta-
+maan jäätä, että pystyykö tämän tekemään, koska asetuksen päälle ei saa tehdä kansallisia
+lakeja, se oli semmoinen tietoinen riski — niin nyt sitten tosiaan matkan varrella on osoit-
+tautunut, että tätä hyvää tarkoittavaa lakia ei ole pystytty valvomaan, joten nyt on siis ni-
+menomaan niin, että nyt pitää tähän valvontaan saada lisää keinoja. Tuossa väitettiin, että
+ei ole niitä keinoja. Kaikki valiokunnassa tietävät, että niitä keinoja on, ja niitä on pohdittu,
+mietitty, väännetty ja käännetty, ja ne tulevat esille sitten aikanaan, kun niitä on.
+
+Se, mitä on tähän kirjattu ylös, on tämä digitaalinen rahtikirja — siitäkin kuultiin varsin
+perusteellisesti — ja toinen on tämä poliisin ja muiden viranomaisten resurssit ja yleensä-
+kin toimintavaltuudet nostaa niitä esille.
+
+Joka tapauksessa minä ymmärrän myös oppositiota, joka on tehnyt tämän vastalauseen
+tässä, koska ne tiedot, mitä asiantuntijakuulemisessa ollaan saatu, ovat tosiaan ristiriitaisia
+ja niistä on tehtävissä vaikka minkämoisia johtopäätöksiä, mutta näitten ristiriitaisten tie-
+tojen kirjoittajilla ja antajilla ei ollut kuitenkaan sitä kokonaiskuvaa, joka valiokunnassa
+on. Tämän kokonaiskuvan seurauksena, kun ottaa ne kaikki asiat pohdintaan ja katsoo nii-
+tä, tässä ei ole tosiaan muuta vaihtoehtoa kuin tämä tilanne, mikä nyt on.
+
+Edelleen, korostan tässä nyt yhtä asiaa, mikä tuossa mietinnössä on. Eli tilaajalle on sää-
+detty selvitysvelvollisuus kuljetuksen laillisuudesta — tilaajalle on siis säädetty selvitys-
+velvollisuus. Jos tilaaja tilaa kuljetuksen ulkomaiselta rekalta, on hänen siis käytännössä
+selvitettävä, onko tämä oikeutettu maan sisäiseen kabotaasiliikenteeseen. Eli kuljetusyri-
+tyksen — tai käytännössä tämän rekan, mikä täällä on — on käytännössä esitettävä rahti-
+kirja siitä saapuvasta kansainvälisestä kuljetuksesta ja siitä, onko tällä vielä mahdollisuus
+10
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+ajaa ne kolme säädettyä kuljetusta kyseisten seitsemän päivän aikana, ja kaikista pitää olla
+rahtikirjat mukana. Tiedän, että tätä voi olla hankala valvoa, mutta tämä on sen tilaajan
+vastuulla. Ja jos tilaaja ei ole varma siitä, onko ulkomaalainen yritys oikeutettu kabotaasi-
+kuljetukseen, niin hänelle voi siitä koitua sitten tietysti sanktioita. Sillä pystytään ottamaan
+kontrolliin tämä kuvio, jos halutaan — muistetaan, että tilaaja on selvitysvelvollinen.
+
+Mutta tosiaan siis tämän kokonaiskuvan perusteella, mikä näistä monimutkaisista, risti-
+riitaisista ja osin jopa riitautetuista tiedoista on muodostettu, tämä on nyt sitten Suomen
+etujen perusteella se ainoa oikea vaihtoehto.
+
+19.58 Suna Kymäläinen sd: Arvoisa rouva puhemies! Tätä keskustelua, jota tässä salissa
+käydään, seurataan varmaan aika monen kuljetusalalta elantonsa suoraan tai välillisesti tie-
+naavan ihmisen ja heidän perheittensä joukossa, ja sikäli on kiintoisaa kuulla näitä mieli-
+piteitä.
+
+Kun lähetekeskustelussa keskusteltiin tästä samaisesta asiasta, niin tuolloin edustaja
+Pakkanen totesi: "Voisiko olla mahdollisuus siirtää tätä päätöksentekoa ja kuunnella se ko-
+mission linjaus ja edetä sitten sen mukaan? Ainakin itse olisin sitä mieltä, että puolustaisin
+suomalaista kuljetusyrittäjää ja kuljetustyöntekijää niin kauan kuin se on mahdollista lail-
+lisin keinoin. Ja edelleen painotan, että siinä jälleen kerran on sen valvonnan vaikeus. Mil-
+lä me takaamme, että nämä kuljettajat ovat sitten suomalaisen palkkatason mukaan? Kaik-
+ki varmaan rehellisesti voimme myöntää, ettei varmasti ole, silloin kun näin toimitaan. Sii-
+tähän siinä kysymys on, ja tämä on hyvin iso kysymys" — ja niin edelleen. Sikäli mielen-
+kiintoista, että kun tätä asiaa on käsitelty, niin nämä kysymykset ovat sitten painuneet,
+edustaja Pakkasen osalta ainakin, tämän päätöksen alle.
+
+Tuosta kansallisesta säädöksestä vielä toteaisin sen verran, että nythän meillä kansalli-
+nen säädös myöskin pitää sisällään sen, mikä lasketaan yhdeksi kabotaasikuljetukseksi:
+yksi purku on yksi kabotaasikuljetus. EU-lainsäädännössä ei ole ollenkaan tätä määritel-
+mää, mikä kabotaasikuljetukseksi lasketaan: voi purkaa samasta rekasta vaikka kymme-
+nen eri kertaa, tai vaikka enemmän, eikä pystytä valvomaan, pakataanko tuota rekkaa uu-
+delleen uusilla tavaroilla ja puretaanko niitä edelleen.
+
+Poliisista täällä todettiinkin. Liikkuvan poliisin lakkauttaminen oli virhe. Hallitus voi
+toki ottaa siitä kopin ja perustaa sellaisen uudelleen. Hallituksella on tähän valta, mutta va-
+litettavasti hallitus vähentää poliisien määrää ja resursseja edelleenkin.
+
+Kysyisin myös edustaja Pakkaselta, kun hän tässä totesi, että oli virheellistä sanoa, että
+tämä harmaan talouden torjuntaan tarkoitettu erityismääräraha poistui, onko aluehallinto-
+virasto meille antanut virheellistä tietoa tässä valiokuntakuulemisessa. He toteavat: "Vuo-
+den 2016 alusta harmaan talouden torjuntaan tarkoitettu erityismääräraha poistui, joten ul-
+komaalaisvalvonnan resursseja ainakin Itä-Suomessa on jouduttu sopeuttamaan määrära-
+hojen suuruuteen. Yhteenvetona voidaan siis todeta, että kabotaasia tekevien yritysten val-
+vontaa ei käytännössä tehdä Itä-Suomessa ollenkaan."
+
+Hallinnollinen seuraamusmaksu otettiin täällä esiin, ja hallinnollinen seuraamusmaksu
+ei saa syrjiä ketään EU- tai Eta-alueen tahoa. Suomessa hallinnollinen seuraamusmaksu on
+käytössä vain rajoitetusti pysäköintivirheen ja ylikuormamaksun osalta. Kun te puhutte
+hallinnollisesta seuraamusmaksusta, niin että rajalla tätä voitaisiin katsoa, niin se tarvitsee
+sitten kansallisen lakiesityksen, että tämä koskettaa myöskin suomalaisia samalla lailla.
+Tällä hetkellä se ei ole mahdollinen. Odotetaan innolla sitä lakiesitystä ja kannatetaan tääl-
+lä sitten tätä esitystä. (Ari Jalonen: Tuskin!)
+11
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+Vehkaperä totesi, että Suomi on ikään kuin saanut tässä poimia rusinoita pullasta. Meil-
+lä ei ole Suomessa kuitenkaan sanktioita, joita monissa muissa EU:n alueella olevissa val-
+tioissa on, jos näitä säädöksiä rikotaan. Tässä hallituksen esityksessä on ollut se puute, et-
+tei tällaista kansallista vertailua ole ollut ollenkaan.
+
+Tilaajavastuulaista totean edelleenkin sen, niin kuin edelläkin, että valitettavasti avi to-
+teaa, että sitä ei pystytä valvomaan käytännössä lainkaan tällä hetkellä, koska ei tiedetä,
+missä niitä toimijoita on. Mutta toki kaikki toimet, niin että pystytään valvontaa paranta-
+maan, ovat erityisesti tämän hallituksen esityksen, jos se toteutuu, jäljiltä äärimmäisen tär-
+keitä. Toki toivoisin, että tämä lainsäädännön muutos Suomessa tehtäisiin vasta sen jäl-
+keen, kun Suomi on valmis valvonnan tai muiden puitteidensa osalta vastaanottamaan tä-
+män lievennyksen.
+
+20.03 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Ky-
+mäläinen nosti esiin harmaan talouden torjunnan ja sen määrärahat. Tässä on kuitenkin kä-
+sittelyssä hallituksen esitys, ja hallitus on viime marraskuussa osoittanut harmaan talou-
+den torjuntaan 6,4 miljoonaa euroa, niin että kyllä minun mielestäni (Suna Kymäläisen vä-
+lihuuto) harmaata taloutta edelleen Suomessa torjutaan.
+
+Sitten täällä on nostettu keskustelussa myös tämä työvoiman ja palkanmaksun seuranta.
+Kuitenkin esityksessä on purkusäännöksistä kysymys, ja nämä purkusäännöt eivät ole mil-
+lään lailla auttaneet palkanmaksun seurantaa eivätkä tule auttamaan, eikä se asia tässä esi-
+tyksessä myöskään tule helpottumaan, koska muun muassa tämä palkanmaksu on ollut
+yksi haasteellinen asia tässä valvonnassa. Mutta eihän tässä ole nyt siitä kysymys, vaan
+nythän puretaan purkusääntöjä: lastin purkaminen, miten lasti määritellään. Ja kyllä lastin
+määrittelyssä on selkeä virhe. Jokainen kuljetusalalla oleva ihminen ymmärtää, että jos
+kuormasta osa puretaan, niin ei se kuorma siihen pääty vaan kyllä se jatkuu. Se kuorma on
+silloin vasta tyhjä, kun lavalla (Puhemies koputtaa) ei ole mitään tavaraa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Ja puhujalistaan.
+
+20.05 Hanna Kosonen kesk: Arvoisa herra puhemies! Kuljetusalalla esitetty huoli tästä
+lainsäädännön muutoksesta on ymmärrettävä, ja meidän tärkein tehtävämme onkin huo-
+lehtia siitä, että Suomessa syntyy tasavertainen kilpailu koko kuljetusalalle. Opposition pu-
+heet, joissa hallitusta syytetään toiminnasta suomalaista työtä ja yrittäjyyttä vastaan, var-
+masti tämän salin ulkopuolella oppositiossakin tunnistetaan paikkansapitämättömiksi.
+Keskustelu on osaltaan paisunut aivan suhteettomaksi. Muistetaan näitä lukuja, joita tässä
+keskustelussa nyt ei ole vielä niin mainittukaan: Tulli arvioi, että kabotaasin osuus kaikista
+kuljetuksista on arviolta 1 prosentin luokkaa, mistä neljännes on laitonta kabotaasia. Sitten
+Eurostat taas arvioi, että osuus on kaikista Suomen kuljetuksista 0,4 prosenttia. Muistetaan
+vielä, että uudistus koskee ainoastaan toisten EU-maiden kuskeja ja hekin voivat viikon si-
+sään hoitaa vain kolme kuljetusta, minkä jälkeen heidän on poistuttava maasta, mutta EU:n
+ulkopuoliset kuljettajat edelleenkään eivät näitä kuljetuksia voi hoitaa.
+
+Esityksessä on myös erinomaisia piirteitä. Esimerkiksi kuljetusten järkevämpi suunnit-
+telu helpottuu, mikä tarkoittaa kustannustehokkuutta ja alentaa hintoja, ja myös energiaa
+säästyy. Tämä lainsäädäntö toimii myös päinvastoin ja suomalaiselle kuljetusalalle hyvin
+toimiikin, niin kuin tänäänkin on jo aikaisemmin kuultu: suomalaiset kuskit kuljettavat tä-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+män ansiosta toisissa EU-maissa paljon enemmän kuin muiden maiden kuskit Suomessa.
+Onko tässä oppositiolla myös vastustettavaa?
+
+Kuten liikenne- ja viestintävaliokunnan mietinnössäkin lukee, niin perusteellisen selvi-
+tyksen pohjalta valiokunta arvioi, että esityksen mukainen lainsäädännöllinen ratkaisu on
+käytännössä ainoa ja väistämätön vaihtoehto tämänhetkisessä tilanteessa. Sen takia var-
+masti tässäkin salissa nyt puhutaan hieman eri näkökulmasta kuin silloin muutama kuukau-
+si sitten, ennen tätä perusteellista selvitystä. Kuten me kaikki tässä salissa hyvin tiedämme,
+asian hoitoa viime kaudella viivyteltiin ja komissio uhkasikin viime keväänä asian viemi-
+sellä tuomioistuimeen. Eli oppositiopuolueet olisivat vieneet tämän EU-tuomioistuimeen,
+jonka odotettavissa oleva päätös olisi pakottanut tämän saman lainsäädännön voimaan sit-
+ten kuitenkin.
+
+20.07 Mirja Vehkaperä kesk: Arvoisa herra puhemies! Vaikka salissa olevien opposi-
+tion kansanedustajien toimet viime vaalikaudella olivat sellaiset, että lakkautettiin liikku-
+va poliisi, niin silti valvontaa on pystytty tien päällä suorittamaan kasvavassa määrin. Lii-
+kenne- ja viestintäministeriöstä saadun selvityksen mukaan poliisin tekemät valvontasuo-
+ritteet ovat vuonna 2015 kasvaneet ja sitä mukaa myöskin epäiltyjen kiinniottojen määrä
+vuonna 2015 on kasvanut jopa 10 prosentilla. Silti on siis pystytty valvontaan satsaamaan,
+mutta toki huolenaihe tämä valvonta on.
+
+Sen lisäksi sanktiot: Liikenne- ja viestintäministeriö on tehnyt ehdotuksen, että voisim-
+me siirtyä sakoista hallinnollisiin seuraamuksiin, siis siihen, että Tullilla ja poliisilla on
+mahdollisuus pysäyttää auto tien päällä ja myöskin huolehtia siitä, että maasta ei voi pois-
+tua ennen kuin nämä hallinnolliset seuraukset on maksettu. Ja tähän kai meidän lainsäädän-
+töä pitäisi myöskin viedä, että nämä hallinnolliset seuraamukset maksetaan kyseisessä
+maassa ennen kuin pystytään poistumaan täältä lasti mukana.
+
+20.09 Markku Pakkanen kesk: Arvoisa puhemies! Edustaja Vehkaperä hyvin kuvasikin
+tätä poliisien valvonnan nykypäivän tilannetta, mihin ollaan kohtuullisen tyytyväisiä. Se
+on totta, että valvonta on ongelmallista tässä kabotaasiasiassa, jos mietitään esimerkiksi
+tuota palkanmaksun tilannetta.
+
+Mutta on kuitenkin hyvä, että täällä puheenvuoroissa annetaan oikeita tietoja, kun viita-
+taan muun muassa poliisien määrään. Tällä hetkellä Suomessa lienee noin 7 300 poliisia, ja
+ei ainakaan minun tietooni ole tullut, että hallitus olisi jyrkästi niiden määrää vähentämäs-
+sä, vaan tehdään kovasti töitä sen eteen, että poliisien määrärahoja pystytään kohentamaan
+ja pitämään poliisien määrä riittävän turvallisella tasolla. Täällä esitettiin aivan toisia luku-
+ja hallituksen esitykseksi poliisien määrästä.
+
+Toinen asia, minkä haluan tarkentaa, on, että kun puhutaan vieraan maan kuljetuksista,
+niin silloin ei puhuta tästä kabotaasiasiassa olevasta asiasta, vaan kabotaasi liittyy EU- ja
+Eta-maiden sisällä oleviin kuljetuksiin. Vieraan maan kuljetuksiin kuuluvat muun muassa
+venäläiset rekat, mitä Suomen valtateillä kuitenkin on selvästi suurin osa, kun ulkomaalai-
+sista rekoista on kyse. Pitää olla tarkka näissä säädöksissä, ja nyt ollaan puhumassa EU- ja
+Eta-maiden alueella liikkuvista ulkolaisista rekoista. Siihen tämä kabotaasisäädäntö liittyy.
+
+20.10 Katja Taimela sd: Arvoisa herra puhemies! Mielestäni tässä salissa meidän kaik-
+kien, ketkä keskustelevat tästä aiheesta, täytyy tietää se, että nyt luovutaan kabotaasin koh-
+dalla kansallisesta lainsäädännöstä. Kun kuunteli näitä hallituspuolueiden puheenvuoroja
+13
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+tässä, niin te osaatte jotenkin kauniisti ajatella, että tämä ei mahdollistaisi laajempaa rek-
+karallia Suomen teillä. Minä voin kertoa teille, että tämä ei ole mikään opposition näke-
+mys, vaan lukuisten kuljetusalan ihmisten näkemys on se, että he eivät usko tuohon kau-
+niiseen ajatukseen. Heiltä on tullut jopa hyvin suoraa viestiä siitä, että tästä asiasta pitää ha-
+kea EU-tuomioistuimelta erillinen päätös.
+
+Sitten valiokunnan puheenjohtaja totesi — muistaakseni toisessa, omassa puheenvuo-
+rossaan — että Tanska on erilaisessa tilanteessa kuin me suomalaiset. Minä itse ymmärrän
+sen niin, että he ovat erilaisessa tilanteessa, koska he ovat päättäneet katsoa tämän asian
+kanssa kortit loppuun, mutta minä toivon, että te, puheenjohtaja Jalonen, kerrotte, mitä te
+tarkoititte tuolla erilaisella tilanteella liittyen Tanskan tilanteeseen.
+
+Sitten täällä on tullut esiin tänään tässä keskustelussa myös se, että nyt jo olemassa ole-
+vaa lakia ei pystytä valvomaan kabotaasin suhteen. Minä en myöskään ole kohtuullisen
+tyytyväinen tähän valvontaan, niin kuin mielestäni jotenkin äsken edustaja Pakkanen oli.
+Jotenkin tulee semmoinen outo olotila, että onko se sitten, kun tälläkään hetkellä lakia ei
+pystytä valvomaan, ei ole riittävästi resursseja, vielä jonkunnäköinen syy mahdollistaa laa-
+jempi laiton kabotaasiliikenne meidän maahan. Vaikka minä en halua ymmärtää kenen-
+kään puheenvuoroa väärin, niin tässä on tullut myös tämmöinen olotila.
+
+Sitten toisaalta mitä tulee poliisien resursseihin, niin kyllä minä olen ymmärtänyt, että
+tämä hallitus on tekemässä päätöksillään — en tiedä, onko tämäkin vatuloitu ja muutettu
+(Puhemies koputtaa) — sellaisia päätöksiä, että jatkossa meillä on 6 500 poliisia.
+
+20.13 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa puhemies! Minun tietoo-
+ni ei ole tullut, että hallitus on poliisien määrän vähentämässä 6 500:aan.
+
+Täällä puhutaan laittomasta kabotaasista. Emmehän me ole hallituksen esityksessä mi-
+tään laittomasta liikenteestä puhuneet. Kaikki laiton liikenne tietenkin pitää kieltää, jos on
+jotain laitonta. Täällä muun muassa sanottiin, että jos jotain laittomuutta syntyy, niin Suo-
+messa ei rangaista. Totta kai Suomessa tieliikenteessä rangaistaan laittomasta ylinopeudes-
+ta, ja jos on kuormausvirheitä, jos on ajoaikaan velvoitteet, niin ainahan niistä rangaistaan
+Suomessa. (Suna Kymäläisen välihuuto) Täällä on erikoinen tilanne, että täällä yritetään
+vääristellä tällaista tilannetta, että Suomessa ei laittomuuksista rangaista — totta kai ran-
+gaistaan.
+
+Ja millään lailla tämä purkusäännös, mistä nyt on kysymys, ei anna mahdollisuutta laa-
+jempaan rekkaralliin. On erikoinen näkemys tuo.
+
+20.13 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa puhemies! Suomessa ei ole
+rangaistusta siihen, jos jää laittomasta kabotaasista kiinni. Meillä ei ole sellaista, vaikka
+tässä edustaja Pakkanen yrittää sitä kuinka kauniiksi sanoa. Ylinopeudet, pysäköintivir-
+heet, ylipainomaksut ovat täysin eri asia — silloin kun puhutaan sanktioista — kuin se, jos
+jää kiinni laittomasta kabotaasista.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Valiokunnan puheenjohtaja, vastaus-
+puheenvuoro.
+
+20.14 Ari Jalonen ps (vastauspuheenvuoro): Tässä vaiheessa haluaisin edustaja Kymäläi-
+seltä selvityksen, miten tämä suhtautuminen laittomaan kabotaasiliikenteeseen muuttuu
+tällä esityksellä.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Jaha, nyt on kuitenkin edustaja Myl-
+lykoskella puheenvuoro. Vastauspuheenvuoroja ei ole pyydetty.
+
+20.14 Jari Myllykoski vas: Arvoisa herra puhemies! Edustaja Jalosen ja edustaja Pakka-
+sen puheenvuorojen jälkeen tekisi mieli tästä paikalta olevasta 2 minuutin puheenvuoros-
+tani käyttää 1 minuutti hiljaiseen hetkeen, mutta en sitä tee, kun haluan puhua. On minun
+mielestäni lohdutonta, että halutaan tuoda sitä esille, mitä sitten voidaan tehdä, että asiat
+saadaan hallintaan. Minä olisin kyllä ollut todella tyytyväinen, että tämä periaatteessa mah-
+dollistaa ja turvaa suomalaiselle liikennöitsijälle mahdollisuudet niin, etteivät EU:n muut
+maat reagoi, jos Suomi on erilainen nuori. Mutta toisaalta nämä hallinnolliset maksut —
+miksi mentiin tämä kärki edellä, että ensin tehdään näin ja sitten tulee toivotaan toivotaan
+-lista? Kun EU on uudistamassa säännöksiään, niin miksi ihmeessä tarvitsee lähteä nyt höt-
+kyilemään tämän asian osalta?
+
+Kun edustaja Jalonen valiokunnan puheenjohtajana peräsi Kymäläiseltä vastausta jo-
+honkin, niin minäkin haluaisin nyt kysyä — kun kysyvä ei tieltä eksy ja asia on minulle sen
+verran vieras — valiokunnan puheenjohtajalta: kun sanoitte, että tilaajalla on se vastuu,
+niin mitkä ovat ne seuraamukset, jos tilaaja ei olekaan selvittänyt, onko tällä kuljetusyri-
+tyksellä oikeus kabotaasiliikenteeseen, mitkä ovat ne sanktiot? Tämä on ihan tämmöinen
+oikea kysymys nyt, jonka vastauksen haluan tavallaan itseäni sivistääkseni kuulla valio-
+kunnan puheenjohtajalta.
+
+20.16 Markku Pakkanen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Viime
+hallituskaudella Suomi teki tähän kabotaasisäädäntöön tämmöisiä purkurajoitteita, kun sil-
+loin olisi pitänyt puuttua talvirengasasiaan, rahtikirja-asiaan, vinjettimaksuihin. Ei viime
+kauden hallitus pystynyt siihen, ja nämä tulevat nytten ensi syksyn aikana käsittelyyn va-
+liokunnassa ja tehdään. Toivottavasti saadaan päätös aikaiseksi myös näistä. Minusta tuo
+on vähän niin kuin jälkiviisastelua: te olitte viime kaudella tekemässä tätä sinällänsä kan-
+sallispäätäntöä, mikä sillä hetkellä turvasi suomalaisia kuljetuksia, mutta eihän se ollut sel-
+lainen pitkäaikainen ratkaisu, kun te tiesitte jo, että tämä ei kelpaa EU:lle tulevaisuudessa
+vaan se päätös joudutaan aikaa myöten pyörtämään. Nyt ollaan sen pyörtämisen hetkellä. 
+
+20.17 Jari  Myllykoski  vas  (vastauspuheenvuoro):  Arvoisa puhemies! Ihan lyhyesti:
+Edellisten hallitusten tekemiset ovat edellisiä tekemisiä. Minä olen tunnustanut naapurille,
+että tuli joskus kivitettyä kasvihuoneesta ikkuna rikki, mutta se ei auta nyt siinä tilanteessa,
+kun halutaan suitsia tätä mahdollista, ehkäpä jopa räjähtävää asiaa, niin kuin alan toimijat
+ovat sanoneet. Ymmärrän sen, että kuljetusyritykset omissa lausunnoissaan haluavat tur-
+vata oman elinkeinonsa. Se on aivan luonnollista, ja näin totta kai tekevät myös työnteki-
+jät, mutta tässä yhteydessä on minun mielestäni turhauttavaa kuunnella sitä, että miksei sil-
+loin ja silloin tehty. Minä toivon, että minä en kovin usein tule sortumaan käyttämään tuota
+samaa fraasia, että mitä silloin tehtiin, kun Kekkonen oli presidentti.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Arvoisat edustajat, täällä on 4—5
+edustajaa, jotka pyytävät vastauspuheenvuoroja samaan aikaan, kun juuri samoilla henki-
+löillä on täällä varsinainen pyydetty puheenvuoro. Tästä syystä edetään nyt niin, että
+myönnän listan mukaisia varsinaisia puheenvuoroja. — Seuraavana edustaja Jalonen, va-
+liokunnan puheenjohtaja.
+15
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+20.18 Ari Jalonen ps: Arvoisa puhemies! Edustaja Myllykoskelle vastaus: Elikkä täällä
+mietinnössä lukee, että "kaupallisista tavarankuljetuksista tiellä annetun lain 5 a §:ssä on
+säädetty tilaajalle selvitysvelvollisuus kuljetuksen laillisuudesta". Tämä tuli asiantuntija-
+kuulemisissa esille, mutta varsinaisista sanktioista ei keskusteltu, siitä, mitä sille tilaajalle
+tulee, jos rikkoo tätä säädöstä — se ei ole tämän suhteen olennainen asia. Mutta tuolta löy-
+dätte vastauksen. (Jari Myllykoski: Sanktiota minä kysyinkin!)
+
+Tämä on tosiaan ollut vaikea asia. Tämä on ollut vaikea asia joka ikiselle meidän valio-
+kunnan jäsenelle, koska meillä on aito huoli siitä, mitä tässä tapahtuu. Tämä voi muuttaa
+asioita, mutta päinvastoin kuin nämä huhupuheet ja väärät tulkinnat antavat ymmärtää,
+tämä tilanne ei kyllä tosiaankaan räjähdä käsiin. Siis mitkään rajat eivät tule aukeamaan, ja
+edelleen se sama asetuksen säädös, mikä on nytkin voimassa, elikkä kolme kuljetusta seit-
+semän päivän aikana sen kansainvälisen kuljetuksen perään, on mahdollinen nytkin, ja se
+tulee olemaan tulevaisuudessakin. Ja edelleen korostan, että tämä ei koske niitä venäläisiä
+autoja, mitä tosiaan suuri osa on.
+
+Olen myös samaa mieltä, että lain pitää olla täsmällistä, ja jättäisin sen tulkinnan mah-
+dollisimman pieneen. Tämä on ikävää, että tästä nyt täsmällisestä Suomen lainsäädännöstä
+joudutaan EU:n (Puhemies koputtaa) pakottamana luopumaan.
+
+20.21 Johanna Ojala-Niemelä sd: Arvoisa herra puhemies! Pidän kyllä edustaja Jalosen
+ja Kososen väitteitä siitä, että opposition taholta olisi noissa asiantuntijakuulemisissa ikään
+kuin harjoitettu valikoivaa kuulemista, asiattomina ja että ikään kuin olisi poimittu vasta-
+lauseeseen paikkaansa pitämättömiä tietoja. Tämmöisiä väitteitä en ole ennen tässä salissa
+kuullut. Täytyy sanoa, että ikään kuin te sitten hallituksessa istuisitte nimenomaan tällai-
+sen viisasten kiven päällä ja olisitte ainoat kykenevät muodostamaan objektiivisen ja ai-
+noan oikean käsityksen tästä asiasta. Voi sanoa, että näin mustavalkoisia nämä kysymyk-
+set eivät ole. Alan toimijoitten mukaan tämä tulee tarkoittamaan tuhansien, jopa kymme-
+nientuhansien, työpaikkojen menetystä ja satojen miljoonien verotulojen menetystä. Sa-
+notteko myös, että nämä alan toimijat ovat väärässä ja valheellisia tässä asiassa? 
+
+Nyt puhutaan ulkomaalaisen rekkaliikenteen vapauttamisesta. Tulee kaksi muutosta,
+joilla heikennetään suomalaisten yritysten ja työntekijöitten asemaa: kabotaasi ja lähetet-
+tyjen työntekijöitten direktiiviä koskevat heikennykset. Tällä hallituksen ratkaisulla aje-
+taan suomalaista työtä alas. Ja kuten tuossa edustaja vieressä, Myllykoski, totesi, niin tämä
+on kyllä musta päivä rekkayrittäjille ja voisi olla myös hiljaisen hetken paikka.
+
+20.22 Suna Kymäläinen sd: Arvoisa herra puhemies! Myös minä yhtyisin tuohon kom-
+mentoimaan edustaja Kososelle, kun te toitte täällä esille näitä tilastoja ja puhuitte tästä pe-
+rusteellisesta selvityksestä ja siitä, kuinka sitten näitä tilastolukuja on saatu. Ihan tässä al-
+kuun luettiin tämä koko meidän valiokunnan mietintöluonnos täällä ääneenkin, ja täällä
+valiokunnan mietintöluonnoksessakin jo todetaan näin: "Kabotaasin määrästä Suomessa
+on vaikea saada luotettavaa tietoa, ja asiantuntijakuulemisissakin tästä on esitetty selkeästi
+toisistaan poikkeavia näkemyksiä. Erityisen vaikeaa on saada tietoa laittoman kabotaasin
+todellisesta määrästä." Tämä kommentiksi edustaja Kososelle — ei ole niin yksiselitteinen
+tämä tilasto.
+
+Edustaja Jalonen lähetti kyllä varsin vahvan viestin omasta mielestänikin sekä Suomen
+kuljetusalan yrittäjille että työntekijäjärjestöille: sekä SKAL että AKT ovat siis näiden hu-
+hupuheitten ja väärien tulkintojen puhujia tai viestinviejiä, koska nämä viestit, joita tässä
+16
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+on ollut, ovat olleet vahvasti nimenomaan sekä työnantajien että työntekijöiden yhteinen
+huoli. Totesitte, että tämä oli ainut keino, että lähdemme tässä olemaan rähmällään EU:hun
+päin ja lähdemme Suomessa valvonnaltaan tai muilta puitteiltaan keskeneräisessä tilan-
+teessa laajentamaan tätä kabotaasin määritelmää ja purkamaan kansalliset kriteerit.
+
+Tuolla lähetekeskustelussa ministeri Berner totesi: "Tämä on ollut EU-MINVAssa teh-
+ty linjaus, ja valmistelu on aina ulkoministeriön. Sektoriministerin tehtäväksi jää panna
+täytäntöön se EU-MINVAssa kesäkuussa tehty päätös. Omissa käsissäni ei ole se päätös
+pakittaa tästä, mutta eduskunnalla on oma vastuunsa ja oma mahdollisuutensa. Hallituksel-
+la on omia mahdollisuuksia, mutta niin on aina eduskunnallakin". Edelleen ministeri Ber-
+ner toteaa: "Ja tämä on toki ulkoministeriön linjausta, mitkä ovat ne riskit, mikä on se ske-
+naario, mikä on se EU-politiikan kokonaiskuva, jossa Suomen halutaan olevan, missä ha-
+lutaan olla tiukkana, missä halutaan olla vähemmän tiukka. Jokainen sektoriministeri pyr-
+kii puolustamaan omaansa viimeiseen saakka, mutta se viimekätinen linjaus Suomen kan-
+nasta tehdään ulkoministeriön ja suuren valiokunnan viimeisenä sanana". Aika selkeäsa-
+naista ministeri Berneriltä: hän tuossa toteaa, että meillä eduskunnassa on täysi
+mahdollisuus olla tekemättä. Ja kun tästä esityksestä, jota olette kovasti täällä puolusta-
+neet, nyt sitten täällä salissa tullaan äänestämään, niin vielä silloin, siinä vaiheessa kun ää-
+nestetään, teillä jokaisella on mahdollisuus miettiä, mitä olette tekemässä vai jätättekö sen
+tekemättä.
+
+20.26 Markku Pakkanen kesk: Arvoisa herra puhemies! Mielestäni tämä kabotaasimää-
+ritelmä kuitenkin selkeyttää sillä lailla tätä tilannetta, että suomalaiset kuljetusyrittäjät niin
+Suomessa kuin Euroopassakin ajaessaan ja päinvastoin eurooppalaiset Suomessa toimivat
+samoilla pelisäännöillä. Vielä haluan lukea tämän, mistä tässä on nimenomaan kyse, että
+kansainvälisiä tiekuljetuksia koskevan asetuksen nojalla kabotaasi, toisen valtion sisäinen
+ajo, on rajattu kolmeen kuljetukseen seitsemän päivän sisällä sen jälkeen, kun ajoneuvo on
+kansainvälisessä kuljetuksessa saapunut Suomeen. Minusta tämä on selkeä sääntö, ja tällä
+systeemillä kun suomalaiset yrittäjät menevät Saksaan ajamaan ja saksalaiset tulevat aja-
+maan Suomeen, niin silloin mennään reiluilla pelisäännöillä ja kilpailu toimii avoimesti,
+niin kuin EU:n työvoiman vapaaseen liikkumiseen kuuluu — vai haluaako oppositio tähän
+kyseiseen periaatekysymykseen isoa muutosta, ettei saisikaan vapaasti liikkua? Tässä nyt
+mennään samoilla pelisäännöillä, ja tämä on tätä EU:ta. On se sitten hyvä tai ei, mutta nyt
+ollaan siellä ja mennään niillä pelisäännöillä. En usko, että tässä mikään räjähdysmäinen
+harmaan talouden kuljetus taikka laiton kabotaasi lähtee liikkeelle tämän säännöksen voi-
+maantulon jälkeen.
+
+20.27 Jari Myllykoski vas: Arvoisa herra puhemies! Edustaja Pakkaselle täytyy sanoa,
+että oppositio ei varmasti halua sellaista sääntelyä, että täällä maksellaan minkälaisia palk-
+koja hyvänsä. On toki pakko palauttaa mieleen asia lähetettyjen työntekijöiden osalta, jon-
+ka hallitus juuri torppasi nimenomaan kuljetusalalta. (Markku Pakkasen välihuuto) — Kul-
+jetusalalta te torppasitte juuri sen, että tässä pystyttäisiin valvomaan lähetettyjen työnteki-
+jöitten palkka-asioita samalla tavoin kuin esimerkiksi muilla sektoreilla (Markku Pakka-
+sen välihuuto) olevia työntekijöitä. — Kun edustaja Pakkanen otti oikein pontevasti kan-
+taa tässä parissa puheenvuorossa justiin tähän palkkausasiaan, niin halusin nyt vain sanoa,
+että oppositio ei sitä halua vaan halusi olla edistämässä maantiekuljetusten osalta nimen-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+omaan sitä, että täällä ajetaan reiluilla pelisäännöillä, mutta se ei kelvannut hallitukselle.
+Nyt tämä tulee niin kuin jatkona vielä.
+
+Edustaja Jalonen, kiitos vastauksesta. Tuon asian minä kuulin teidän esittelyssänne, (Ari
+Jalonen: Hyvä!) ja myös jo aiemmin se on täällä toistettu. Nyt oli vain kysymys siitä, min-
+kälaisia sanktioita sitten tulee, jos tämmöistä säätelyä ei ole noudatettu, mikä sillä tilaajalla
+on. On helppo ymmärtää, mitä tilaajavastuulaki tarkoittaisi, jos hallitus olisi tuonut tähän
+rinnalle myös sen, että näissä tapauksissa, missä tilaaja ei ole noudattanut sitä, että on tar-
+kistanut, että on oikeus kabotaasiin, olisi ollut samanlainen seuraamus kuin tilaajavastuu-
+lain rikkomisesta. Silloin oltaisiin oltu taas vähän lähempänä sitä, että me voisimme olla
+yhtä mieltä. Mutta voitte olla hallituksessa hyvillä mielin siitä, että kun nämä hallinnolliset
+seuraamukset tulevat, niin oppositio painaa vihreää.
+
+20.29 Ari Jalonen ps: Arvoisa puhemies! Hienoa kuulla, että oppositiostakin löytyy tu-
+kea järkeville esityksille.
+
+Edustaja Ojala-Niemelä, te ette näköjään ole kuunnellut tätä keskustelua hirvittävän
+tarkkaan. Te sanoitte lähetetyistä työntekijöistä ja näistä kabotaasiasioista semmoisia
+asioita, mitkä on tässä kuultu jo useaan otteeseen ja mitkä ovat valiokunnan mietinnöstä
+selkeästi luettavissa. Kehotan tarkkaavuuteen.
+
+Ja anteeksi, edustaja Taimelalle ei tullut aikaisemmin vastattua tuosta Tanskan tilantees-
+ta. Valiokuntakuulemisessa ollaan kuultu, että Tanskan oikeudellinen tilanne, sen haas-
+teen etenemisaste, on erilainen kuin Suomella, ja nämä ovat kaikki tietysti siis tulleet asian-
+tuntijakuulemisessa esille. Eli kuten sanoin, kaikkia ei ole voitu kirjoittaa tuohon mietin-
+töön, ja se on kokonaiskuva.
+
+Ja kokonaiskuvasta, edustaja Kymäläinen: Te olette varmasti huomannut tämän kohdan
+tuosta mietinnöstä, jossa — luen sen uudelleen — lukee: "Johtopäätökset. Valiokunnan lii-
+kenne- ja viestintäministeriöstä saaman perusteellisen selvityksen pohjalta valiokunta ar-
+vioi, että esityksen mukainen lainsäädännöllinen ratkaisu on käytännössä ainoa ja väistä-
+mätön vaihtoehto tämänhetkisessä tilanteessa." — Kiitos.
+
+20.31 Mirja Vehkaperä kesk: Arvoisa puhemies! On mielenkiintoista kuulla, että oppo-
+sition edustajat ovat menossa vaikka Euroopan unionin tuomioistuimeen puolustamaan
+Suomen etuja tässä tilanteessa, josta me olemme saaneet korvapuustia jo monta vuotta sit-
+ten. Suomen lainsäädäntö on sääntöjen vastaista, ja meillä ei ole mahdollisuutta enää pot-
+kia tätä vastaan, (Jari Myllykosken välihuuto) vaan voimme tehdä kansallisia päätöksiä,
+joilla tätä kabotaasiliikennettä valvotaan paremmin, sanktioidaan paremmin ja tehdään
+muitakin parannuksia kotimaisen tavaraliikenteen edistämiseksi.
+
+Mutta se, että me ajaisimme suomalaista työtä alas, ei pidä kyllä paikkaansa. Ettekö te
+näe mahdollisuutta siinä, että suomalaiset kuljetusyrittäjät pääsevät myöskin EU- ja Eta-
+maiden alueelle entistä paremmin ajamaan kabotaasiliikennettä? Kun jo tällä hetkellä ko-
+timaisten kuljetusyrittäjien tonnikilometrit ovat kolminkertaiset siihen nähden, mitä meil-
+le tulee, niin kyllähän tässä on mahdollisuus suomalaiselle kuljetusyrittäjälle ansaita lei-
+pänsä entistä paremmin.
+
+20.33 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa puhemies! Pidän sen lyhyenä.
+— En oikein usko, että suomalainen liikenneyrittäjä suomalaisilla työehdoilla toimivan
+työntekijän kanssa kovin suuresti voi Puolan markkinoita vallata.
+18
+
+
+
+Pöytäkirjan asiakohta PTK 69/2016 vp
+20.33 Katja Taimela sd (vastauspuheenvuoro): Arvoisa herra puhemies! Edustajakolle-
+ga Vehkaperälle sen verran, että tämä viittaus tästä EU-tuomioistuimesta tuli varmasti mi-
+nun käyttämästäni puheenvuorosta. Puheenvuorossani esitin sen niin, että alan toimijoilta
+on jopa tullut suora viesti, että tästä asiasta pitää hakea EU-tuomioistuimelta päätös. Ja nyt
+sitten te käytitte puheenvuorossa ilmaisua, että voiko olla totta, että oppositio on tätä miel-
+tä. Me olimme jo hallituksessa tätä mieltä.
+
+20.34 Hanna Kosonen kesk: Arvoisa herra puhemies! Valitettavasti edustaja Ojala-Nie-
+melä ehti lähteä täältä salista, mutta hän todella voisi vaikka lukea minun puheeni sitten
+sieltä pöytäkirjasta, että mitä minä sanoinkaan — en lainkaan niitä asioita, mitä hän tuossa
+väitti.
+
+Edustaja Kymäläiselle: Todella minä käytin Tullin ja Eurostatin lukuja, ja teillä oli sit-
+ten eri lukuja, joita käytitte. Mutta sanoisin vielä tässä, että yksi tällainen varmasti tarkis-
+tettu luku on se, että vuonna 2015 Tulli teki yhteensä 86 000 liikenneturvallisuuteen koh-
+dennettua tarkastusta, joissa tarkistettiin myös liikenneluvat, ja tässä lukumäärässä oli yh-
+teensä 24 laittoman kabotaasin epäilyä — eli tässä ehkä jotakin mittasuhdetta sitten myös.
+
+Ja vielä edustaja Kymäläinen tosiaan vetosi tähän äänestykseen. Siinä toki jokainen voi
+sitten toimia haluamallaan tavalla tai mahdollisuuksilla, mitä on. Meillä todella on mah-
+dollisuus viedä tämä sinne EU-tuomioistuimeen, mitä oppositio tässä toivoo.
+
+Eli todella — jos vielä muistutan tästä — Euroopan komissio pitää näitä kansallisia EU-
+asetusta tiukentavia määräyksiä Euroopan unionin säännösten vastaisina ja sen vuoksi on
+haastamassa Suomen EU-tuomioistuimeen, jos emme poista näitä omia määritelmiä. Tämä
+on meidät ajanut todella tähän tilanteeseen, että aiomme toimia tämän vapaan kilpailun
+määritelmien mukaan, kuten EU:ssa on ajateltu toimittavan.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Vastauspuheenvuorolta näyttäisi
+edustaja Kymäläisen kohdalla.
+
+20.36 Suna Kymäläinen sd (vastauspuheenvuoro): Kiitos, arvoisa herra puhemies! To-
+dellakin, tässä kuulin, että edustaja Myllykoski totesi, että tämä on väärinkäsitysten maa-
+ilmanennätysilta tai väärin ymmärtämisen maailmanennätysilta. Näin varmaan siltä osin
+onkin, jos äsken ymmärsin tuon puheenvuoron oikein, että edustaja Kosonen totesi, että
+täällä salissa voimme vapaasti äänestää joko tämän hallituksen esityksen puolesta tai sitten
+vaihtoehtona Euroopan tuomioistuimeen viemisestä. Näin oppositio ei ole kyllä suinkaan
+esittänyt. (Ari Jalonen: Käytännössä!) Olemme kyllä todenneet sen, että meillä ei ole hätää
+tuon asian osalta, että olisimme vaikka valmiita menemään tuomioistuimeen, koska vaik-
+ka me olisimme siellä tuomioistuimessa, meillä ei olisi välitöntä korvausvelvollisuutta sen
+jäljiltäkään.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 143/2015 vp sisältyvän lakiehdotuksen si-
+sällön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+19
+
+

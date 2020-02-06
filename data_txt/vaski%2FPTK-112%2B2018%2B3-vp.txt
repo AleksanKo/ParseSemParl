@@ -1,0 +1,482 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM1A02.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 112/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 112/2018 vp
+
+Täysistunto
+
+Perjantai 9.11.2018 klo 13.00—13.34
+
+3. Hallituksen esitys eduskunnalle laiksi henkilötietojen käsittelystä rikosasioissa ja kansal-
+lisen turvallisuuden ylläpitämisen yhteydessä sekä eräiksi siihen liittyviksi laeiksi
+
+Hallituksen esitys HE 31/2018 vp
+Valiokunnan mietintö HaVM 14/2018 vp
+
+Toinen käsittely
+
+Puhemies Paula Risikko: Toiseen käsittelyyn esitellään päiväjärjestyksen 3. asia. Nyt
+voidaan hyväksyä tai hylätä lakiehdotukset, joiden sisällöstä päätettiin ensimmäisessä kä-
+sittelyssä.
+
+Keskustelu
+
+13.01 Päivi Räsänen kd: Arvoisa rouva puhemies! Tämä esitys on nyt jo toisessa käsitte-
+lyssä, ja siitä on yksimielinen, erittäin hyvä mietintö, johon itsekin yhdyn. Kiinnitin vain
+huomiota siihen, että mietinnössä [Hälinää — Puhemies koputtaa] erityisesti todetaan se
+perustuslakivaliokunnan lausunto, jossa todetaan, että poliisilaki on tyypillisesti sellainen
+säädös, joka voi herkästi joutua ristiriitaan kansalaisten perusoikeuksien, varsinkin vapaus-
+oikeuksien, kannalta. Ja vaikka tässä esityksessä on nyt osittain aika teknisluontoisestikin
+tätä direktiiviä pantu toimeen eikä tässä mielestäni ole mitään uusia kansalaisia huolestut-
+tavia avauksia, niin kyllähän nämä kysymykset ovat tavattoman paljon olleet nyt viime
+päivinä, viime kuukausina eduskunnan keskustelussa. Eli mistä löytyy se tasapaino, että
+toisaalta pystytään rikoksia tutkimaan ja ennalta ehkäisemään ja käyttämään henkilötieto-
+ja lähtien erilaisista tiedostoista, vaikkapa sormenjälkitiedoista, mutta sitten toisaalta voi-
+daan turvata kansalaisten yksityisyyttä ja perusoikeuksia ja heidän vapausoikeuksiaan. 
+
+Tietenkin eilen oli esimerkiksi helpottavaa, että todettiin, että meillä tällä hetkellä on ai-
+van riittävät säännökset näiden terveystietojen osalta, joihin poliisilla on pääsy ja tervey-
+denhuoltohenkilökunnalla sitten taas ilmoitusoikeus ja ilmoitusvelvollisuus muille viran-
+omaisille. Mutta näissä kysymyksissä tarvitsee olla herkkänä ja punnita erilaisia oikeuksia
+hyvällä tavalla, niin kuin perustuslakivaliokunta ja valiokunta tässä mietinnössä on jälleen
+tehnyt.
+
+13.03 Eero Heinäluoma sd: Arvoisa puhemies! Yhdyn edustaja Räsäsen huoleen siitä,
+miten tietosuoja tänä päivänä Suomessa toteutuu. [Hälinää — Puhemies koputtaa] Meillä
+on eduskunnassa käsittelyssä monenlaisia hankkeita ja tehtyjä päätöksiä, joissa kaikissa
+yhtenä seurauksena on, että kansalaisten tietoja käsitellään yhä enemmän myös viran-
+omaispuolella ja tietojen yhteenliitettävyyttä lisätään. Näille kaikille yksittäisille ehdotuk-
+sille on hyvät perusteet: rikosasioissa on syyllisten kiinnisaanti tosi tarpeellista, on uhrien
+suojelu, on kansallinen turvallisuus. Mutta samalla on kyllä aihetta, kun on hyviä perustei-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 112/2018 vp
+ta, pohtia myös sitä, millä tavalla pidämme siitä huolta, ettei synny uutta isoveli valvoo -
+yhteiskuntaa. 
+
+Kaikissa tiedoissa on myös väärinkäyttämisen mahdollisuus, niin kuin muun muassa po-
+liisirekisterien yhteydessä olemme nähneet. Sen takia toivoisin, että hallitus ottaisi — ny-
+kyinen niin kuin tulevakin — vakavasti myös tämän isoveliasian pohdittavaksi jokaisen
+tällaisen uudistuksen yhteydessä. Täytyy tehdä huolellinen punninta siitä, että emme huo-
+maamattamme luisu sellaiseen yhteiskuntaan, jossa kansalaiset voivat kokea olonsa aika
+turvattomaksi. Tämähän ei koske vain viranomaistietoa, vaan me tiedämme, että tämä
+sama ilmiö on yksityisellä puolella. On monenlaista arkistointia ja luottokortteihin, kaup-
+pojen asiakaskortteihin liittyvää tiedonkeruuta. Sitten me tiedämme sosiaalisen median
+valtaisan tiedon määrän ja sen tämän hetken tilanteen, että näitä tietoja yhteen liitetään, jos-
+sa ihmisen koko elämä voidaan läpivalaista, jos niitä tietoja väärinkäytetään. Pitäisin pe-
+rusteltuna, että yksin sosiaalisen median takia tehtäisiin oma erillinen selvitystyö siitä, mi-
+ten kansalaisten tietojen luottamuksellisuus ja heidän yksityiselämänsä voidaan suojata.
+
+13.06 Maria Tolppanen sd: Arvoisa puhemies! Tietosuoja on tietysti hyvä asia, ja se pi-
+tää olla ja sen pitääkin suojata tietoja siellä, missä se on tärkeää. On kuitenkin käynyt ilmi,
+että tällä lantilla on olemassa toinen puoli. Se toinen puoli on semmoisissa tapauksissa, kun
+on kysymyksessä esimerkiksi dementoitunut vanhus, jota hoidetaan sairaalassa, ja esimer-
+kiksi hänen tyttärensä haluaisi tietoa siitä, mitä siellä sairaalassa on tapahtunut jonkin ope-
+raation jälkeen, kun selkeästi näkee, että jotakin on tapahtunut. Hänpä ei saakaan tietoja
+isästään tai äidistään, jollei henkilö itse osaa pyytää niitä tietoja, eli jos dementoitunut tai
+muistisairas henkilö ei kykene siihen, omaiset eivät saa tietoja.
+
+Tämä on aikamoinen probleema varsinkin tapauksissa, joissa mahdollisesti on epäiltä-
+vissä hoitovirhettä. Siihen ei voida millään tavalla puuttua, jollei saada esimerkiksi leik-
+kauksen tietoja tai sen jatkohoidon tietoja, mitä sairaalassa on ollut. Tämä on semmoinen
+ongelma, josta minuun on otettu yhteyttä. Ihmiset kysyvät, mistä voi saada. Edunvalvojal-
+ta ei saa, koska edunvalvoja hoitaa raha-asioita. Tyttärelle ei voi antaa, koska isä kuitenkin
+hengittää ja on elossa, mutta on vaan jo niin sairas, ettei kykene itse niitä papereita sieltä ot-
+tamaan eikä tietoa hankkimaan, että sitä voitaisiin viedä eteenpäin.
+
+Toivoisin, että tähän asiaan jossakin kohdassa pystyttäisiin kiinnittämään myös meillä
+huomiota, myöntämään tämä asia, että se on näin, ja varomaan kuitenkin sitä, ettemme me
+suojelisi itseämme hengiltä, vaan että tarpeelliset tiedot saataisiin tarpeellisille ihmisille.
+
+13.08 Timo Heinonen kok: Arvoisa rouva puhemies! Tietosuoja ja toisaalta tiedonkulku,
+tiedonsaanti esimerkiksi rikosten selvittelyn, uhrien suojelun ja vastaavien asioiden yhtey-
+dessä on tarpeen, mutta tässä jo kaksi edellistä puheenvuoroa hyvin osoittivat sen, että täs-
+sä on puolensa ja puolensa. Niin kuin edustaja Heinäluoma esille toi, aina on mahdollisuus
+väärinkäytöksiin. Toisaalta väärinkäytöksiin minun mielestäni tulee puuttua ja olla keinot
+puuttua, mutta se, että joku voisi käyttää jotain väärin, eli tehdä rikkeen tai rikoksen, ei toi-
+saalta saa olla syy sitten siihen, ettei tehtäisi järjestelmiä, jotka pääsääntöisesti on tarkoi-
+tettu esimerkiksi rikosten selvittelyyn taikka uhrin suojeluun tai johonkin muuhun.
+
+Edustaja Tolppanen nosti yhden hyvän arjen esimerkin, sitten taas toisen näkökulman
+tähän asiaan. On hyvin mielenkiintoista, miten näillä on puolensa ja puolensa, ja pitää löy-
+tää tasapaino tiedonkulun, tiedonsaannin ja sitten toisaalta tietosuojan ja yksilön oikeuk-
+sien välillä.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 112/2018 vp
+13.09 Pekka Haavisto vihr: Arvoisa puhemies! Tämä on tärkeää keskustelua, vähän jat-
+koa eilisen kyselytunnin teemalle, missä määrin lääkärien on velvollisuus tai heidän halu-
+taan luovuttavan esimerkiksi viranomaisille tai poliisille tietoa, missä sitten nämä eettiset
+kysymykset tulevat myöskin lääkärin toiminnassa vastaan. Yhdyn edustaja Räsäsen ja
+edustaja Heinäluoman huoleen siitä, että tässä on aika lailla kulman takana semmoinen
+orwellilainen yhteiskunta, jossa, kun yhdistetään pankkitiedot, tilitiedot, sosiaaliviran-
+omaisen tiedot, lääkärien tiedot, saadaan kyllä aukoton järjestelmä, jossa meistä kaikki tie-
+detään, mutta myöskin mahdollisuus näiden tietojen väärinkäyttöön on hyvin suuri ja kas-
+vaa mielestäni tällaisessa tilanteessa.
+
+Erityisesti olen huolissani lapsia koskevista tiedoista, koska lapsi valmistautuu elämään
+ja olisi tärkeää, että kaikki sellainen tieto, joka häntä mustamaalaa tai voi häntä myöhem-
+min rasittaa, pysyisi hyvin harvoissa käsissä näissä tilanteissa. Samalla kun korostamme si-
+tä, että viranomaisten täytyy voida vaihtaa tietoja ja näin pois päin, minusta on pelottava
+sellainen ajatus, että ihminen leimautuu hänestä kerätyn tiedon perusteella tulevaisuudes-
+sa.
+
+Edustaja Heinäluoma otti hyvin tärkeän näkökulman vielä, tämän, että ihmiset vapaaeh-
+toisestikin sosiaalisen median puolelle syöttävät sellaista tietoa, jota saattavat myöhemmin
+katua. Se voi olla haitaksi työn hankinnassa tai muussa tällaisessa. Pitäisi myös olla sellai-
+nen oikeusturva, että voi kieltää tiettyjen tietojen julkaisemista ja peruuttaa itseä koskevat
+nettitiedot ja tämän tyyppiset, myöskin oikeusturva siltä kannalta, että ihminen voi itse hal-
+lita niitä aina senkin jälkeen, kun on jotakin sosiaalisen median puolella julkaissut.
+
+Mielestäni tämä on keskustelu, jota pitäisi käydä. Viranomaisetkaan eivät ole valitetta-
+vasti aukottomia, siellä tapahtuu tietovuotoja. Aina kun on annettu jotain uusia valtuuksia,
+on myöskin tullut vuotoja, ja siihenkin eduskunnan pitäisi kiinnittää huomiota.
+
+13.11 Ben Zyskowicz kok: Arvoisa rouva puhemies! Tässä on käyty hyvää ja rakentavaa
+keskustelua, ja todellakin, kuten edustaja Heinonen totesi, edustajien Heinäluoma ja Tolp-
+panen, molempien, puheenvuorot olivat hyviä. Edustaja Heinäluoma toi esiin asian toisen
+puolen ja edustaja Tolppanen taas kolikon toisen puolen.
+
+Itse olisin halunnut tuoda esiin esimerkkejä myös siitä, että tieto ei kulje ja tietoa ei saa
+luovuttaa tietyissä tilanteissa, joissa se taas olisi perusteltua. Esimerkiksi tällä hetkellä on
+sellainen tilanne, että, kuten tiedämme, Euroopan unionin kansalaiset eivät saa oleskella
+Suomessa, jos he turvautuvat toistuvasti toimeentulotukeen. Nyt on käytännössä sellainen
+tilanne, että esimerkiksi virolaiset, jotka ehkä ovat olleet täällä töissä, jäävät maahamme ja
+turvautuvat toistuvasti toimeentulotukeen, eli perusteet sille, että heidän oleskelunsa Suo-
+messa lopetettaisiin, ovat olemassa.
+
+Nämä sosiaalityöntekijät, jotka hoitavat heidän toimeentulotukeaan ja maksavat sitä —
+tai Kelan virkailijat — näkevät, voi sanoa, päivittäin tällaisia tilanteita, joissa käytetään
+väärin meidän systeemejä. Mutta näillä sosiaalipuolen viranomaisilla ei ole oikeutta il-
+moittaa maahanmuuttopuolen viranomaisille, esimerkiksi poliiseille, niistä tilanteista, jois-
+sa näkevät käytettävän väärin tätä oikeutta oleskella Suomessa ja nostaa toistuvasti toi-
+meentulotukea. Siis heillä ei ole oikeutta antaa tätä tietoa viranomaisille. [Eero Heinäluo-
+ma: Miksei sitä ole korjattu?] Sen sijaan, jos poliisi kysyy, että onko tämmöinen ja täm-
+möinen henkilö siellä jatkuvasti toimeentulotuen asiakkaana, heillä on oikeus sanoa, että
+kyllä on. Mutta heillä ei ole oma-aloitteista oikeutta ilmoittaa, jotta asianmukaisesti voitai-
+siin toimia tämän sosiaaliturvamme väärinkäytöksen estämiseksi. 
+3
+
+
+
+Pöytäkirjan asiakohta PTK 112/2018 vp
+Toinen esimerkki siitä, mitä tiedonkulkua ei hyväksytä. Jos meillä tapahtuu joku erittäin
+törkeä rikos, vaikka raiskaus ja murha, jossain tuolla puistossa nuori nainen raiskataan ja
+murhataan, ja sieltä löytyy sormenjälkiä, niin poliisin rekisteristä voidaan katsoa, löytyykö
+näille sormenjäljille omistaja, mutta passirekisteristä ei voida katsoa. Eli passirekisterissä
+meillä on pikkuhiljaa kaikkien suomalaisten sormenjäljet, ja vaikka sieltä rikospaikalta
+löytyisi sormenjäljet, jotka auttaisivat rikoksen selvittämisessä — eivät tietysti itsessään,
+yksinään, riitä asian todistamiseksi — niin viranomaiset eivät saa passirekisteristä katsoa
+tämän rikospaikalla olleen henkilön sormenjälkiä, vaikka sillä voisi olla aivan ratkaiseva
+merkitys tämän iljettävän murhan ja raiskauksen selvittämiseksi. Meidän lainsäädäntöm-
+me kieltää sormenjälkien hakemisen sieltä passirekisteristä. 
+
+Tässä pari esimerkkiä toiseen suuntaan. 
+
+13.14 Simon Elo sin: Arvoisa puhemies! Tämä kysymys henkilötietojen käsittelystä ja
+yksityisyydensuojasta ei ole millään tavalla yksiselitteinen ja helppo. Tämähän lähti erityi-
+sesti liikkeelle, liittyen esimerkiksi kansainväliseen terrorismiin ja rikollisuuteen, siitä, kun
+Yhdysvalloissa tapahtui nämä WTC-terroristi-iskut vuonna 2001. Sen jälkeen yhä enene-
+vissä määrin tämä on huolestuttanut kansalaisia. Erilaisia vuototapauksia on ollut, joissa
+yksittäinen henkilö on katsonut, että on yleisen edun mukaista, että hän vuotaa jotain tie-
+toja ulos, ja sitten taas valtiovalta on voinut katsoa, että se on jopa maanpetoksellista toi-
+mintaa. Eli tämä on vaikea kysymys myös kansainvälisesti.
+
+Edustaja Heinäluoma nosti esiin sen, että Suomessakin, niin kuin monessa länsimaassa,
+yhä enemmän on sääntelyä tähän kysymykseen liittyen. Se pitää toki paikkansa, mutta toi-
+saalta yhä enemmän rikollisuus tapahtuu nimenomaan tietoverkoissa, erityisesti tietysti
+kansainvälinen rikollisuus, ja siksi toki sitä sääntelyäkin on väistämättä tullut enemmän.
+
+Otan sellaisen asian esille, mikä liittyy kansallisen turvallisuuden ylläpitämiseen. On
+tietysti tämä kansainvälinen terrorismi, joka muun muassa maanpuolustustiedotuksen
+suunnittelukunnan vuosittaisissa kyselyissä nousee nykyään joka vuosi kolmen kärkeen
+siitä, mikä huolestuttaa kansalaisia turvallisuuden osalta. Esimerkiksi Saksassa eri osaval-
+tioilla tämän valtavan maan sisäisesti oli ongelmia siinä, miten vaihdetaan tietoja esimer-
+kiksi turvapaikanhakijoista, joiden epäiltiin jollain tavalla olevan taipuvaisia tai jopa jo liit-
+tyneen johonkin radikaaliin järjestöön. Eli tällaisia ongelmia myös tietojenvaihdossa on, ja
+niitä on jopa EU-maiden välillä. Parempaan suuntaan on koko ajan menty, kun tämä pa-
+remmin tiedostetaan, mutta tämä on jatkuva haaste sekä Suomelle että kaikille muillekin
+läntisille yhteiskunnille, miten tasapainotetaan se, että samaan aikaan pidetään kiinni mei-
+dän länsimaisesta oikeusvaltioistamme, joihin kuuluu tiettyjä periaatteita, mitä esimerkik-
+si nämä terroristit eivät varmasti kannata, mutta samaan aikaan puolustetaan läntistä oike-
+usvaltiota ja meidän kansalaistemme turvallisuutta. Se on ennen kaikkea tämän eduskun-
+nan vastuu pystyä tämä tasapaino yhdessä löytämään.
+
+13.16 Mika Kari sd: Arvoisa rouva puhemies! Tämä hallintovaliokunnan mietintö on
+hyvä ja perusteltu. Olen siinä itsekin yhtenä asian käsittelyyn osallistuneena. Haluan kui-
+tenkin yhtyä näihin hyviin mielipiteisiin, joita täällä on esitetty kansalaisten oikeusturvas-
+ta myös henkilötietojen käsittelyn yhteydessä. Viranomaiset tarvitsevat oman tehtävänsä
+hoitamiseen viranomaisyhteistyötä ja siihen liittyvää tietojenvaihtoa, mutta haluan tuoda
+yhden näkökulman tässä esiin, ja se on näiden tietojen käyttämisen valvonta. 
+4
+
+
+
+Pöytäkirjan asiakohta PTK 112/2018 vp
+Meillä on tietosuojavaltuutettu, joka keskeisenä toimijana näiden henkilötietorekisterei-
+den osalta toimii, mutta useammassa eri yhteydessä tietosuojavaltuutetun toimisto on tuo-
+nut esiin resurssien riittämättömyyden yhä laajentuvien rekistereiden valvontaan. Näin ol-
+len myös tietosuojavaltuutetun resurssit tulee jatkossa tiiviimmin ottaa huomioon silloin,
+kun asetetaan uusia rekistereitä, uusia rekisterijärjestelmiä ja niin edelleen. 
+
+Muutama vuosi sitten oli valtakunnan mediassa esillä epäiltyjä tietorekisterivuotoja. Tä-
+män johdosta muun muassa hallintovaliokunnassa käytiin pitkä keskustelu. Todettiin, että
+rekisterinpitäjänä toimii Poliisihallitus, mutta kun tällainen stipla tuolla poliisitoimessa kä-
+vi, että tietoja lähti vuotamaan, niin syylliseksi tästä nostettiin pari poliisimiestä sen sijaan,
+että rekisterinpitäjä, Poliisihallitus, olisi ollut ikään kuin tikun nokassa. 
+
+Eilen nähtiin tässä potilastietoasiassa mielenkiintoinen näytelmä eduskunnassa, kun mi-
+nisterit totesivat, etteivät olleet kovinkaan tietoisia siitä, mitä ministeriössä lainsäädännön
+puolella valmistellaan. Hyvin merkittävä hetki eduskunnan lainsäätämisjärjestyksessä oli
+joka tapauksessa kyseessä, koska ei näin laajaa viranomaisten toimivaltuuksien lisäämistä
+— ainakin toivon näin — tehdä ilman ministerien tietämystä. 
+
+13.18 Pia Viitanen sd: Arvoisa rouva puhemies! Tähän alkuun täytyy kyllä nyt vähän
+ikään kuin jatkoksi tuolle edelliselle puheenvuorolle todeta, että olipa kyllä hämmästyttä-
+vä tilanne sinänsä eilen kyselytunnilla, harvoinpa näkee sellaista tilannetta, että pykäliä on
+esitelty julkisuudessa ja kumpikaan ministeri, jolle asia kuuluu, ei ollut kyseisistä pykälis-
+tä tietoinen eikä niitä nähnytkään. Sinänsä oli hyvä, että saimme vastauksen varsinaiseen
+kysymykseemme, että tätä lakia sitten ei hallitus ole tässä muodossa eteenpäin viemässä-
+kään. Mutta lienee ymmärrettävää edustajien hämmennys siinä vaiheessa, kun pykälät ovat
+julkisuudessa ja ministerit eivät sitten kertoneet mitään asioista tietävänsä.
+
+Mutta, puhemies, ihan tähän asiaan. Täällä ovat erinomaisesti minunkin mielestäni tul-
+leet esille nämä kolikon kaksi puolta. On toisaalta ihan hyviä kysymyksiä, mitä edustaja
+Zyskowicz täällä esitti, ja olisi ollut ehkä hyvä — jopa niin voisin toivoa — että ministerit
+olisivat täällä olleet paikalla kenties niihin vastaamassa ja kertomassa myös siitä, aiotaan-
+ko nyt jollain tavalla puuttua näihin asioihin ja epäkohtiin, mitä tuossa tuotiin esiin. Ja toi-
+saalta on sitten se toinen puoli kolikosta, mikä on hyvin olennainen ja minkä hienosti edus-
+taja Heinäluoma tuossa omassa puheenvuorossaan avasi, tämä tietynlainen yksityisyyden-
+suoja tänä päivänä, koska näitä uudistuksia on valtavan paljon, missä enemmän ja enem-
+män, perustelluistakin syistä, yksittäisiin tietoihin pääsevät viranomaiset käsiksi. On aivan
+aiheellista aina välillä pysähtyä miettimään ja erikseen vielä arvioida kunkin näistä esityk-
+sistä vaikutus perinteiseen yksiytyisyydensuojaan. Täällä edustajat Heinäluoma ja Haavis-
+to, molemmat, mainitsivat orwellilaisen yhteiskunnan vaarat, ja varmasti jokaista meistä
+huolettaa, jos tässä emme mene kyllin määrätietoisesti eteenpäin.
+
+Puhemies! Minusta oli hyvin mielenkiintoista ajatella myös niin, että paitsi että näiden
+jokaisen esityksen yhteydessä tämä yksityisyydensuojakysymys erityisesti harkitaan, mie-
+titään, tutkitaan sen vaikutukset, niin on myös tämä näkemys siitä, että paitsi että on viran-
+omaispuolia, niin sitten on myös tämä yksityisyyspuoli, jossa on sitten nämä kaikki some-
+maailman ilmiöt. Jokainen meistä tietää, kuinka valtavasti tietoa meistä sitä kautta kerä-
+tään. Edustaja Heinäluoma tuossa aiemmin sanoi, että jo pelkästään tämä some-puoli an-
+saitsisi erityisen selvitystyön siitä, mitä kaikkea on meneillään, ja minä olen kyllä täsmäl-
+leen samaa mieltä. Minun mielestäni kannattaisi tehdä somesta mutta ehkä yleisemminkin
+jonkinlaista kartoitusta, lisäselvitystä kaiken kaikkiaan näistä valtavan isoista ilmiöistä,
+5
+
+
+
+Pöytäkirjan asiakohta PTK 112/2018 vp
+mitkä tähän liittyvät ja tänä päivänä ovat meillä aivan uudenlaisessa maailmassa tapetilla,
+kun siirrymme enemmän ja enemmän digitaaliseen aikaan ja kaikkeen tähän maailmaan,
+minkä erilaisuuden tiedämme siihen nähden, mitä maailma oli joskus muutama kymme-
+nen vuotta sitten. Ja siksi toivoisin, että hallitus ehkä ottaisi koppia tästäkin keskustelusta,
+mitä täällä tänään käydään.
+
+Puhemies Paula Risikko:  No niin, jatketaan vielä jonkin aikaa. Joudumme varmasti kes-
+keyttämään tämän asiakohdan käsittelyn, ja sen johdosta myöskin poistamme asiakohdan
+4. Mutta mennään jonkin aikaa.
+
+13.22 Leena Meri ps: Arvoisa puhemies! Hyviä puheenvuoroja. Tuosta oikeastaan täy-
+dentäisin, itse kun olen maistraatissa holhoustoimen edunvalvonta-asioita hoitanut vuosia,
+että edunvalvojan määräämisen voi laajentaa myös henkilöä koskeviin asioihin, eli jos täl-
+lainen tilanne on jollakin vireillä, niin ottakaa yhteys maistraattiin ja pyytäkää sitä mää-
+räyksen laajennusta. Silloin voi myös saada terveystiedot haltuunsa. Se määräyksen laajen-
+nus haetaan tuomioistuimesta.
+
+Huomaan, että monilla on jäänyt huomaamatta, että 1.1.2007 eli yli 10 vuotta sitten
+meillä tuli voimaan laki edunvalvontavaltuutuksesta, jolla voi etukäteen kukin itse määrä-
+tä terveydenhoidosta, kun oma toimintakyky menee, ja omaisuudenhoidosta ja jopa siitä,
+kuka näitä asioita hoitaa täysin laillisesti. Elikkä kaikille täälläkin salissa olijoille muistut-
+taisin, että siltä varalta, jos joutuu onnettomuuteen tai sairastuu, jokaisen olisi hyvä tehdä
+edunvalvontavaltuutus, mikäli haluaa itse jo hyvissä hengen ja ruumiin voimissa päättää,
+miten asioita hoidetaan ja kuka niitä hoitaa, eikä jättää sitä pelkästään viranomaisten pää-
+tettäväksi.
+
+Edustaja Zyskowicz otti esille sen, että viranomaisille ei ole oikeus luovuttaa tietoja
+eteenpäin liittyen täällä laillisesti tai laittomasti olevien henkilöiden mahdollisiin väärin-
+käytöksiin. Minun tietooni on tullut sellainen asia, josta muutama vuosi sitten mainitsin
+ministeri Mattilallekin, mutta asia ei ole mihinkään edennyt. Elikkä lastensuojelun yksi-
+köissä on henkilöitä, jotka ovat esittäytyneet täysi-ikäisiksi ja ovat siellä lastensuojelun
+hoidossa alaikäisten kanssa, ja lääkärin tietoon on tullut — he ovat halunneet tarkistaa
+asian — se, että henkilö onkin täysi-ikäinen. Tätä tietoa ei ole saanut luovuttaa eteenpäin,
+koska se on selvinnyt terveystarkastuksen yhteydessä.
+
+Minusta se olisi aika merkittävä tieto muun muassa Maahanmuuttovirastolle muidenkin
+lasten tulevaisuutta ajatellen, että esimerkiksi lastensuojeluyksiköissä voi olla alaikäisten
+seassa täysi-ikäisiä henkilöitä. Mietitään nyt monenlaisia tapauksia, joita tässä ei varmaan
+nyt tarvitse ääneen kerrata.
+
+Itse asiassa, kun tässä on niin paljon näitä asioita ja meillä on nyt perustuslakivaliokun-
+nassa sotilastiedustelua koskevat lait ja siviilitiedustelua koskeva lainsäädäntö sekä valio-
+kunnan perustaminen ja työjärjestyksen muutos ja monia muita lainsäädäntöjä, mitkä si-
+vuavat julkisuutta ja salaisuutta, kuten esimerkiksi ihan tämä julkisten työvoima- ja yritys-
+palveluiden siirtyminen yksityisille ja siellä tiedon liikkuminen, arkaluontoisen tiedon liik-
+kuminen, niin olisikohan meidän eduskunnassa nyt syytä pitää tietosuojaoikeuksia koske-
+va yleiskeskustelu? Tämä on niin valtavan laaja asia, että mielellään kävisi tästä keskuste-
+lua. Tämä on nyt niin pirstaloitunut.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 112/2018 vp
+13.25 Markku Rossi kesk: Arvoisa rouva puhemies! Jatkan tuosta edustaja Meren pu-
+heenvuorosta siltä osin, että tietyllä lailla tuohon ajatukseen voi yhtyä ja kannattaa sitä,
+mutta näkisin myös, että meillä kyllä pitäisi koko Suomessa järjestää kansalaisten tietosuo-
+jakurssi tai -koulutus, koska näyttää olevan niin, että tänä päivänä, kun tietoa kootaan ja ke-
+rätään, kansalaiset hyvin helposti sitä myös antavat. Huomaamatta eri kohteisiin laitetaan
+hyvinkin yksityiskohtaisia tietoja, joita voidaan sitten yhdistelemällä ehkä vähän väärin-
+kin käyttää. Joissakin tapauksissa myös rikolliset sitten pääsevät näihin helpommin mu-
+kaan. Täällä mainittu some- ja nettimaailma tekee juuri sen, että vastataan kaikenlaisiin ky-
+symyksiin eikä ajatella, mikä se lopputulema on. Eli tarvittaisiin sitten kyllä opastusta ihan
+kansalaisten perustaitoihin, varmaan itse kullekin meistä.
+
+Arvoisa puhemies! Tässä tietosuojakysymyksessä silloin, kun puhutaan rikosoikeudes-
+ta ja rikoksiin liittyvistä kysymyksistä, puhumattakaan kansalliseen turvallisuuteen liitty-
+vistä kysymyksistä, on aina oltava omat asteikkonsa, millä mennään eteenpäin. Mielestäni
+perustuslakivaliokunnan käsittely on sikäli tässä asiassa huojentava, että asia voidaan kä-
+sitellä tavallisen lain säätämisjärjestyksessä, mikä kertoo silloin jo suurin piirtein, ainakin
+meille lainsäätäjille, missä tämän asian kohdalla mennään.
+
+Tässä tietosuojassa on aina, kuten täälläkin on todettu jo, vähintään ne kaksi puolta. Hy-
+vin helposti käy myös niin, että kun yksityisyydestä — tai tietosuojasta paremmin sanottu-
+na — pidetään tarkasti huolta ja kiinni, niin se johtaa sitten myös ongelmiin. Enkä voi olla
+toistamatta ajatusta, näkökulmaa ja tietoa, jonka olen tässä salissa todennut aiemminkin ja
+joka liittyy niinkin yksinkertaiseen asiaan kuin veteraanien kotiin vietäviin kuntoutuspal-
+veluihin: Kela antaa tänä päivänä kunnille tiedot veteraanista nimeltä ja sosiaaliturvatun-
+nuksen osalta mutta ei osoitetietoa. Se on tämän tietosuojan takana jostakin syystä, jolloin
+byrokratia tavallaan vaikeuttaa tämän tietosuojan myötä näiden kotiin vietävien palvelu-
+jen todellista toteutumista. Tässä mielessä ainakin voi sanoa, että tässä kohtaa tietosuojas-
+sa ei ole niin sanottua kuuluisaa maalaisjärkeä noudatettu.
+
+Puhemies Paula Risikko: Koska aikataulupaineet ovat kovat, myönnän ainoastaan vas-
+tauspuheenvuorot näille neljälle henkilölle, jotka täällä ovat listalla. — Te voitte sitten jät-
+tää toki puheenvuoropyynnöt.
+
+13.27 Ritva Elomaa ps (vastauspuheenvuoro): Arvoisa puhemies! Täällä on ollut hyvää
+keskustelua tietojen suojasta ja luovuttamisesta, ja siinä on tosiaan ne kaksi puolta. Heinä-
+luoma ja Haavisto nostivat esiin somessa olevat tiedot, ja se on todella hankalaa, että niitä
+voidaan käyttää väärin. Kansainvälinen turvallisuus huolestuttaa, Meri ja Zyskowicz nos-
+tivat sen esille, ja samoin veteraanien tiedot, mitkä Rossi nosti äsken esille.
+
+Kaksi asiaa:
+Nimittäin jos suojataan liian paljon tietoa, niin se on todella hankalaa, ja siitä on hyvä
+
+esimerkki se, että äitini kuoli hoitovirheeseen 2004. Tyttärelle ei annettu seuraavana päi-
+vänä tietoa, onko tälle tehty määrätty toimenpide. Sitä tietoa en saanut edes hoitaja-ammat-
+tini puolesta enkä tyttärenä, ja se oli hankalaa. Olisi tarvinnut sitten vetää sairaala tai hoi-
+tavat henkilöt oikeuteen, ja se oli turhaa, eihän äitiä saa enää takaisin.
+
+Ja toinen on se, että maistraatin [Puhemies koputtaa] pitäisi esittää taloyhtiölle, ketkä
+asuvat esimerkiksi kerrostalossa, mitä porukkaa siellä asuu. [Puhemies koputtaa] Nyt on
+lakialoite tehty, perussuomalaiset ovat saaneet siitä paljon palautetta, ja sen lakialoitteen
+olen jo jättänyt käsiteltäväksi.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 112/2018 vp
+13.29 Jyrki Kasvi vihr (vastauspuheenvuoro): Arvoisa puhemies! Tietojenvaihtoanalyy-
+si avaa mahdollisuuden palveluiden kehittämiselle, jopa aivan uudentyyppisten palvelui-
+den luomiselle. Mutta me emme saa kuitenkaan unohtaa sitä, että samainen teknologia
+mahdollistaa myös aivan uudentyyppiset väärinkäytökset. Siksi tämän toiminnan valvon-
+ta, seuranta ja ohjeistus ovat niin tärkeitä. Hyvä esimerkki siitä, miten haastavaa se ohjeis-
+tus on, on se, että meillä on nyt ylintä poliisijohtoa oikeudessa siksi, että he eivät ole ym-
+märtäneet itse valmistelemaansa ohjeistusta ja lainsäädäntöä.
+
+Me emme saa myöskään unohtaa sitä, että turvallisuus ja yksityisyys ovat molemmat pe-
+rustuslaissa suojattuja perusoikeuksia. Ne eivät ole toinen toiselle alisteisia, vaan ne ovat
+molemmat yhtä tärkeitä, ja meidän on löydettävä se tasapaino.
+
+Ja lopuksi: tosiaankin edustaja Meren ehdotus ajankohtaiskeskustelusta on tosi hyvä,
+koska meiltä puuttuu kokonaistarkastelu siitä, minkälaisen kokonaisuuden yksittäiset laki-
+esitykset tästä asiasta muodostavat, esimerkiksi tilitietojen avaaminen viranomaiselle —
+eilen puhuttiin terveystiedoista ja niin edelleen — niin että kannatan tätä esitystä kyllä.
+
+13.30 Reijo Hongisto sin (vastauspuheenvuoro): Arvoisa puhemies! Tässä on käytetty
+hyviä puheenvuoroa ja puhuttu tiedon kohteen oikeusturvasta. Edustaja Zyskowicz käytti
+hyvän puheenvuoron kertoessaan näistä esimerkeistä, missä voi olla hyötyä viranomaisten
+tiedon vaihtamisesta. Yhdyn Zyskowiczin ajatukseen siinä, että mielestäni tätä lakia pitäi-
+si nähdä mahdollisuutena eikä uhkana, ja kun puhutaan kansalaisten oikeusturvasta, niin
+on aina syytä tarkastella nyt sitä, puhutaanko sen henkilön oikeusturvasta, jonka tiedoista
+puhutaan, vai puhutaanko sen henkilön oikeusturvasta, joka tätä tietoa välittämällä voitai-
+siin pelastaa. Kolikolla on, niin kuin on todettu, kaksi puolta. Minä tietysti viranomaistaus-
+taisena näen kyllä, että viranomaisten keskinäisen tiedon vaihtaminen ei ole ongelmana,
+vaan se on mahdollisuus ja se on rikkaus, se on mahdollisuus estää mahdollisia oikeuden-
+loukkauksia ja jopa terroritekoja. 
+
+Lopuksi vielä se, että tietovuotoa tapahtuu tässäkin talossa. Sitä tuskin koskaan voidaan
+estää tai välttää.
+
+13.31 Päivi Räsänen kd (vastauspuheenvuoro): Rouva puhemies! Edustaja Zyskowicz
+nosti kaksi esimerkkiä esiin, joista olen hänen kanssaan samaa mieltä. Haluan vain kertoa,
+että viime vaalikaudella yritin viedä eteenpäin sitä, että sormenjälkitietoja passirekisteris-
+sä olisi juuri vakavien rikosten tutkinnassa voitu hyödyntää, mutta se törmäsi yksinkertai-
+sesti perustuslakivaliokuntaan, joka katsoi, että näiden tietojen käyttäminen ei ole mahdol-
+lista vakavienkaan rikosten torjunnassa, koska se merkitsee puuttumista yksityiselämän ja
+henkilötietojen suojaan. Eli perustuslakivaliokunta on ottanut hyvin selkeän kannan tässä
+kysymyksessä. Tosin sormenjälkirekisteriä voidaan käyttää esimerkiksi vainajan tunnista-
+misessa, ja sitä on tehtykin, mutta itse kyllä ajattelen, että nimenomaan näissä vakavissa ri-
+koksissa, joita edustaja Zyskowicz kuvasi, pitäisi voida käyttää myös sormenjälkitietoja.
+
+Keskustelu ja asian käsittely keskeytettiin.
+8
+
+

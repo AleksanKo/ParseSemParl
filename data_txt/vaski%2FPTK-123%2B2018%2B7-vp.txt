@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEME26D.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 123/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 123/2018 vp
+
+Täysistunto
+
+Torstai 29.11.2018 klo 16.00—18.17
+
+7. Lakialoite laiksi luottotietolain 33 §:n muuttamisesta 
+Lakialoite LA 83/2018 vp Satu Taavitsainen sd ym.
+
+Lähetekeskustelu
+
+Toinen varapuhemies Tuula Haatainen: Lähetekeskustelua varten esitellään päiväjär-
+jestyksen 7. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään lakivaliokuntaan.
+
+Keskustelu
+
+17.56 Satu Taavitsainen sd (esittelypuheenvuoro): Arvoisa puhemies! Hyvät edustaja-
+kollegat! Tässä lakialoitteessani esitetään säädettäväksi julkiseksi tehtäväksi luottotietore-
+kisterin ylläpitäminen. Suomessa vallitsee iso ongelma maksuhäiriömerkintöjen oikeelli-
+suudesta, niiden hallinnoinnista, niiden tarkastamisesta ja rekisteristä poistamisesta.
+
+Jo lähes 400 000 suomalaista on saanut maksuhäiriömerkinnän. Määrä vastaa lähes
+10:tä prosenttia aikuisista kuluttajista. Maksuhäiriömerkinnän myötä ihmisen elämä han-
+kaloituu monella eri tavalla, koska maksuhäiriömerkintä vaikeuttaa tai estää kokonaan
+asunnon vuokraamisen tai ostamisen, kotivakuutuksen, sähkösopimuksen, osamaksusopi-
+muksen, puhelinliittymän ja muiden välttämättömyyshyödykkeiden sekä joskus myös työ-
+paikan saamisen. Velan maksaminen ei poista rekisterimerkintää, vaan maksuhäiriömer-
+kinnät säilyvät luottotietorekistereissä 2—4 vuotta. Erityisen ongelmallista on, että tällä
+hetkellä maksuhäiriörekisteri ei ole julkisen toimijan käsissä eikä julkinen palvelu, vaan
+sitä ylläpitää yksityinen yritys, Suomen Asiakastieto Oy, joka on pankkien omistama.
+
+Kansalaisilta on tullut palautetta aiheettomista maksuhäiriömerkinnöistä. Niitä on ta-
+pahtunut esimerkiksi ulosottomiehen virheen vuoksi. Virheellisiä merkintöjä ei ole kuiten-
+kaan kaikissa tapauksissa korjattu. Tällöin ihminen asetetaan 2—4 vuodeksi luottotiedot-
+tomaan tilaan täysin syyttä.
+
+Eduskunnan oikeusasiamies nosti vuoden 2017 kertomuksessaan esiin oikeusministeri-
+ön tietojärjestelmävirheestä aiheutuneet aiheettomat maksuhäiriömerkinnät. Esimerkiksi
+eräässä tapauksessa henkilö oli jättänyt ostamansa tuotteen maksamatta, koska se ei ollut
+hänen mielestään ollut luvatun mukainen. Velkomusoikeudenkäynnissä henkilö oli riitaut-
+tanut saatavan, mutta käräjäoikeus oli tuominnut hänet maksuvelvolliseksi. Tämän jälkeen
+henkilö oli maksanut laskun, mutta tuomio oli johtanut maksuhäiriömerkintään. Eduskun-
+nan oikeusasiamies otti tämän asian tutkittavaksi ja totesi, että tapauksessa ei täyty maksu-
+häiriömerkinnän tekemisen perusteena oleva luottotietolain edellytys siitä, että merkinnän
+on osoitettava henkilön maksukyvyttömyyttä tai maksuhaluttomuutta. Eduskunnan oike-
+usasiamiehen mukaan huomattava määrä velallisista oli saanut virheellisin perustein mak-
+suhäiriömerkinnän. Tämä siis vuoden 2017 kertomuksessa.
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 123/2018 vp
+Oikeusasiamies totesi, että oikeusministeriön tietojärjestelmästä ei tulisi luovuttaa täl-
+laisia luottotietolain ja henkilötietolain vastaisia tietoja luottotietoyhtiöille ja että velallis-
+ten oikeusturvan toteuttamiseksi on tärkeää, että tietojärjestelmän puutteellisesta toimin-
+nasta johtuneet virheelliset merkinnät poistetaan luottotietorekistereistä ja vastaisuudessa
+estetään tällaisten tietojen luovutus luottotietoyhtiöille. On tullut kuitenkin ilmi, että vir-
+heellisiä maksuhäiriömerkintöjä ei ole poistettu, vaikka oikeusministeriö ehdotti, että luot-
+totietorekisterin pitäjä poistaisi nämä virheelliset merkinnät rekisteristään. Näyttää sille,
+että merkintöjen tekemisessä ja hallinnoinnissa vallitsevat viidakon lait, ja koska maksu-
+häiriörekisterin ylläpitäminen ei ole julkinen tehtävä, virheellisiä merkintöjä ei saada kor-
+jattua. Ihmisten oikeusturva on näin ollen heikentynyt.
+
+Koska maksuhäiriörekisteri on yksityisen yrityksen käsissä, ei rekisterin oikeellisuuden
+valvonta kuulu nykyisin eduskunnan oikeusasiamiehen toimivaltaan. Kansalaisten oikeus-
+turvan toteutumisen ja luottotietojen menettämiseen liittyvien epäkohtien korjaamisen ta-
+kia luottotietotoiminta tulee säätää julkiseksi tehtäväksi. Tästä huolimatta yksityinen yri-
+tys voisi rekisteriä ylläpitää, mutta kun lakia muutettaisiin, niin se parantaisi luottotietojen
+asianmukaista ja yhdenvertaista käsittelyä sekä edistäisi virheiden korjaamista. Julkisen
+tehtävän valvonta kuuluu eduskunnan oikeusasiamiehen ja oikeuskanslerin valvonnan pii-
+riin.
+
+Arvoisa puhemies! Ehdotan siis, että lisätään luottotietolain 33 §:ään uusi 2 momentti,
+joka kuuluisi seuraavasti: ”Jos luottotietotoimintaa harjoittaessa käsitellään henkilöluotto-
+tietoja, on luottotietotoiminta perustuslain 108 ja 109 §:ssä tarkoitettua julkisen tehtävän
+hoitamista ja kuuluu myös siten valtioneuvoston oikeuskanslerin ja eduskunnan oikeus-
+asiamiehen valvontatehtävän piiriin.”
+
+Toivon, että tämä laki tulisi voimaan heti ensi vuoden alusta tai mahdollisimman pian.
+
+18.03 Katja Taimela sd: Arvoisa rouva puhemies! Pidän tätä edustaja Taavitsaisen lakia-
+loitetta luottotietolain 33 §:n muuttamisesta niin, että luottotietorekisterin pitäminen sää-
+dettäisiin julkiseksi tehtäväksi, erittäin tärkeänä ja kannatettavana lakialoitteena.
+
+Tiedämme, että tämän päivän Suomessa jo noin 400 000 kansalaisella on maksuhäiriö-
+merkintä. Tämä on väkilukuumme suhteutettuna huomattavan suuri joukko ihmisiä: ihmi-
+siä, jotka kärsivät työttömyydestä tai pitkäaikaissairaudesta, opiskelijoita, jotka sinnittele-
+vät opintorahalla, työssä käyviä pienituloisia lapsiperheiden vanhempia ja jo eläkkeellä
+olevia isovanhempia, naapureitamme ja ystäviämme, lähimmäisiämme, jotka ovat saaneet
+maksuhäiriömerkinnän esimerkiksi terveydenhuollon tai varhaiskasvatuksen asiakasmak-
+sun viivästymisen takia.
+
+Päivittäisessä talousahdingossa eläminen on erittäin kuluttavaa. Se verottaa aloitekykyä
+ja osallisuutta. Se myös vie voimavaroja opiskella, käydä töissä tai huolehtia perheestä.
+Huoli erääntyvistä maksuista ja tulevista laskuista vähentää kaikkien tiukassa taloustilan-
+teessa elävien hyvinvointia, mutta erityisen kipeästi se osuu lapsiperheisiin.
+
+Tiedämme useiden tutkimustenkin pohjalta ja perusteella sen, kuinka haitallisia ta-
+lousahdingon kokemukset ovat lapsiperheille. Mitä pienempiä lapset ovat, sitä vahingolli-
+sempia ovat perheen maksuhäiriömerkinnöistä seuraava ahdinko ja köyhyys. Tosiasia on,
+että lapsuudessa koettu köyhyys leimaa lasten elämää kokonaisvaltaisesti aiheuttaen pysy-
+viä syrjäytymisen kokemuksia. Vanhempien maksuhäiriömerkintöjen takia lapset jäävät
+sivuun lasten elämään kuuluvista tavallisista asioista: harrastuksista, kaveripiiristä ja mo-
+nista muista hyvinvointia edistävistä tekijöistä. Jokapäiväisessä painissa tulojen riittämi-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 123/2018 vp
+sessä laskuihin ja niiden perintäkuluihin vanhemmat uupuvat, eikä heiltä riitä voimavaroja
+lasten hyvään kasvuun, kasvatukseen ja opintojen tukemiseen. Tätä kautta oravanpyörä on
+valmis.
+
+Kohtuuttomalta ja oikeudenmukaisuuden periaatteen vastaiselta tuntuu erityisesti se,
+että vaikka maksuvaikeuksista kärsivät onnistuisivat säästämään ja maksamaan kaiken vel-
+kansa, niin maksuhäiriömerkintä ei poistu luottotietorekisteristä. Pahimmassa tapauksessa
+talousvaikeudet perheissä vain jatkuvat, koska maksuhäiriömerkintä säilyy rekisterissä pa-
+rista vuodesta jopa siihen edustajakollega Taavitsaisenkin mainitsemaan neljään vuoteen.
+— Siis neljä vuotta. Voimme hyvin kuvitella, miten epäoikeudenmukaiselta tämä velkan-
+sa maksaneesta tuntuu.
+
+Luottotietolain 33 §:n muuttaminen niin, että rekisterin pitäminen olisi julkinen tehtävä,
+korjaisi maksuhäiriömerkinnän saaneiden tilannetta, kun rekisterin oikeellisuutta valvoisi
+eduskunnan oikeusasiamies. Erityisesti se korjaisi niiden tilannetta, jotka ovat saaneet
+merkinnän virheellisesti eikä virhettä ole suostuttu pyynnöistä huolimatta korjaamaan. Oi-
+keusasiamiehen mukaan huomattava määrä velallisista on saanut virheellisin perustein
+maksuhäiriömerkinnän ja joutunut kärsimään sen seurauksista. Tämä on mielestäni varsin
+pöyristyttävä tieto.
+
+Arvoisa puhemies! Herää kysymys, miten voi olla mahdollista, että oikeusministeriön
+tietojärjestelmästä johtuen ihmiset ovat joutuneet aivan syyttä kärsimään.
+
+Kuten edustaja Taavitsainen äskettäin kertoi, niin maksuhäiriömerkintä hankaloittaa ih-
+misten elämää monin tavoin. Merkintä voi estää asunnon, kotivakuutuksen, sähkösopi-
+muksen ja puhelinliittymäsopimuksen saamisen ja jopa työllistymisen. Eräs nainen kertoi,
+että ei voi tulla pääkaupunkiseudulle töihin, koska ei saa asuntoa vuokrattua maksuhäiriö-
+merkinnän vuoksi, kun taas toinen palaute oli, ettei eräs henkilö pääse pois sisäilmaongel-
+maisesta asunnosta, koska ei saa uutta asuntoa vuokrattua maksuhäiriömerkinnän vuoksi.
+Maksuhäiriömerkinnän vuoksi ihmisiltä on evätty pankkikortteja, ja heidän elämänsä on
+vaikeutunut sen vuoksi kohtuuttomasti. On myös tullut sellainenkin yhteydenotto, että
+ulosottomies oli todennut tehneensä virheen mutta että ei voi korjata maksuhäiriömerkin-
+tää. Tällainen toiminta on heikentänyt ihmisten luottamusta Suomeen oikeusvaltiona, ja
+siihen on ihan syynsä.
+
+Tätä edustaja Taavitsaisen lakialoitetta on äärimmäisen helppo kannattaa.
+
+18.08 Tiina Elovaara sin: Arvoisa puhemies! Kiitos myös omasta puolestani edustaja
+Taavitsaiselle hyvästä aloitteesta. Täytyy sanoa, että olen alkanut hämmästellä yhä enem-
+män tätä luottotietoasioiden ympärillä olevaa kaikennäköistä viidakkoa. Tämä muutos oli-
+si positiivinen. Julkisen vallan alle tuotuna tämä on läpinäkyvämpi ja ehkä, toivottavasti,
+toimivampi. 
+
+Täytyy sanoa, että olen myös saanut suoraa viestiä henkilöiltä, joilla on luottotieto- tai
+maksuvaikeuksia, ja he ovat toivoneet myös kansallista rekisteriä omaan käyttöönsä, siis
+jonkinlaista rekisteriä, josta he itse näkisivät omat velkansa, joita valitettavasti monilla tu-
+lee eri perintäyhtiöiltä, eli se on tällainen viidakko, ja sitä on vaikea hallita. Tähän rekiste-
+riin pääsisi verkkopankkitunnuksilla, ja siellä voisi sitten myös maksaa pois — itse seurata
+velan kehittymistä ja maksaa sitä pois. Kaikkein hienointa olisi, jos sinne olisi tarvittaessa
+pääsy myös sellaisilla viranomaisilla, jotka ovat tekemisissä näiden henkilöiden kanssa. 
+
+Kysymys on siis tämän alueen digitalisoinnista sillä tavalla, että velallisten olisi itsekin
+helpompi hoitaa asioita, seurata omaa tilannettaan ja olla yhteydessä perintäyhtiöihin esi-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 123/2018 vp
+merkiksi viestipalvelun kautta tällaisessa rekisterissä. Tällä hetkellä he joutuvat soittele-
+maan pahimmillaan tunteja eri yhtiöitä läpi ja kokoamaan eri velkoja, ja haasteita riittää. 
+
+Kyllä meidän täytyy nyt kiinnittää huomiota tähän ryhmään ihmisiä, jotka ovat ajautu-
+neet hankalaan tilanteeseen, eikä kohtuuttomasti vaikeuttaa sitä kaiken maailman käytän-
+nön seikoilla. Tässä Taavitsainen hienosti toi esiin, minkätyyppisiä ongelmia ylipäätään tä-
+hän rekisterin ylläpitoon liittyy tällä hetkellä. Tiedän, että aiheesta on tehnyt myös muis-
+taakseni Satonen hyvän aloitteen, ja se taisi koskea nimenomaan sitä, että maksuhäiriömer-
+kintä sieltä poistuisi sitten kun velka on hoidettu, mielellään heti. Tämähän on ihan järje-
+töntä!
+
+18.10 Olli-Poika Parviainen vihr: Arvoisa rouva puhemies! Edustaja Taavitsaisen aloite
+on kannatettava. Uskon myös, jos mietimme esimerkiksi puheita julkisesta normien purus-
+ta, että siitä huolimatta se, että me toisimme tämän julkiseksi tehtäväksi ja sitä kautta huo-
+lehtisimme siitä, että maksuhäiriömerkintöjä valvottaisiin, itse asiassa varmasti vähentäisi
+byrokratiaa tässä maassa, koska poistuisi tarve selvitellä aiheettomia tapauksia, jotka ovat
+hyvinkin kuormittavia paitsi yksilölle todennäköisesti myös monille muille. 
+
+Mielestäni pitäisi olla vähintäänkin oletusarvo, että maksuhäiriömerkintöjä ei ensinnä-
+kään tietenkään aiheettomasti syntyisi, mutta jos niitä nyt jostain teknisestä viasta tai
+muusta johtuen syntyisi, pitäisi olla oletusarvo, että ne pystyttäisiin nopeasti korjaamaan,
+mielellään välittömästi, kun virhe paljastuu. On täysin kohtuutonta ajatella, että yksilö jou-
+tuu kärsimään jostakin tietokantavirheestä sillä tavalla, että hänen koko elämänsä saattaa
+olla vuosia pysähdyksissä tällaisen yksittäisen asian vuoksi. Se tuntuu suoraan sanoen, ar-
+voisa puhemies, poskettomalta ajatukselta, ja toivon sydämestäni, että saamme korjattua
+tämän asian. 
+
+Ajatus siitä, kuka toimii operaattorina tällaisessa rekisterissä, on ehkä toissijainen. Olen-
+naista on tosiaan se, että valvonta hoituu julkisen vallan kautta ja sitä kautta puuttumiskyn-
+nys on matalampi ja me pystymme tosiaan valvomaan asiaa. Ihan hyvin yksityinen yhtiö
+voi ylläpitää tällaista rekisteriä.
+
+Sitten vielä edustaja Elovaara mainitsi tämän ongelmatiikan, joka liittyy ihmisten vel-
+kojen kokonaissumman löytämiseen ja näkemiseen ja etsimiseen. Positiivinen luottorekis-
+teri on ollut tässäkin talossa monta kertaa esillä, ja se voisi olla ratkaisu tähän, jos sinne
+avattaisiin tällainen, sanotaan, yksilökäyttäjille tarkoitettu osa, jota kautta pystyy seuraa-
+maan omia tietojaan. Tällä hetkellä varmasti esimerkiksi velkaneuvonnat käyttävät paljon
+aikaa siihen, että velkaongelmiin ajautuneiden ihmisten, jotka usein ovat ottaneet useita eri
+velkoja eri luottoyhtiöiltä, velkoja selvitellään. Digitalisaatiolla olisi mahdollista saada täs-
+sä aikaan ratkaisu, joka olisi paitsi yksilön etu todennäköisesti myös rahoituslaitosten etu,
+koska ylivelkaantumista tuskin kukaan haluaa.
+
+Todetaan vielä loppuun, että tässä salissa on käyty hyvää keskustelua myös esimerkiksi
+pikaluottojen suitsimisesta, ja hallituskin on asiassa ollut aktiivinen. Mielestäni se on hyvä
+linja, joka kytkeytyy tähän keskusteluun. Eli vähennetään velkaongelmia paitsi teknisillä
+ratkaisuilla myös sillä, että huolehdimme, että asiat toimivat, ja myös juridisilla ratkaisuil-
+la, jotka estävät niin sanotun koronkiskonnan.
+
+18.13 Satu Taavitsainen sd: Arvoisa puhemies! Kiitos teille, arvoisat kollegat, että otitte
+osaa tähän keskusteluun.
+4
+
+
+
+Pöytäkirjan asiakohta PTK 123/2018 vp
+Aivan niin kuin edustaja Parviainen totesi, se tuntuu todella kummalliselta, että näitä
+virheellisiä merkintöjä, jotka ovat tulleet oikeusministeriön tietokoneohjelman virheestä,
+ei ole pystytty korjaamaan ja vaikka ministeriö on pyytänyt rekisterin ylläpitäjää korjaa-
+maan, niin niitä ei ole korjattu. Tässä tulee juuri se ongelmatiikka, että kun se ei ole julki-
+nen tehtävä, niin meidän kyntemme eivät yletä sinne. On kuitenkin kyse rekisteristä, jolla
+on todella vakavat seuraukset meidän kansalaisten ihan päivittäiseen arkeen, kuten tässä on
+mainittu: asunnon saaminen, kotivakuutuksen ja puhelinliittymän tai osamaksusopimus-
+ten saaminen vaikeutuu heti, jos on maksuhäiriömerkintä.
+
+Edustaja Elovaara otti laajemminkin esille liittyen perintäyrityksiin ja ulosottovelallis-
+ten arjen kipupisteisiin sen, miten koko alalla on tällä hetkellä viidakon lait ja valvonta ei
+toimi. En malta olla sanomatta sitä, miten paljon tulee kansalaisilta palautetta siitä, että pe-
+rintäyhtiöt perivät myöskin vanhentuneita velkoja ja sellaisia, joita ihmiset ovat jo maksa-
+neet. Tämä johtuu siitä, että perintäyhtiöthän ovat usein kansainvälisiä perintäyhtiöitä ja ne
+myyvät näitä ihmisten velkoja toisilleen. Jos esimerkiksi vanhuksella on jäänyt sosiaali- ja
+terveydenhuollon asiakasmaksu, vaikka 20 euroa, maksamatta ja se päätyy sitten kansain-
+väliselle perintäyhtiölle, joka myy sitä eteenpäin ja niin edelleen — se lasku kiertää ympä-
+ri maapalloa, ja sitten velkaa peritään, ja sehän kasvaa nopeasti korkoa ja kuluja siihen tu-
+lee, niin että onkin kyse sitten jo useiden satojen eurojen maksusta — niin näillä yhtiöillä ei
+olekaan sitä alkuperäistä laskua lainkaan, eli niillä ei ole mitään todistetta siitä, että henki-
+lö olisi velkaa. 
+
+Kaikki tämä valvonta, kuten myös maksuhäiriörekisterin valvonta, liittyy toisiinsa, ja
+jotenkin koen, että meidän pitää pala palalta parantaa valvontaa ja saada tiukennettua otet-
+ta, koska on kyse yli puolesta miljoonasta ihmisestä, jotka ovat tällä hetkellä joutuneet
+ulosottoon, ja näitä maksuhäiriömerkintöjäkin on melkein se 400 000, elikkä on kyse to-
+della isosta joukosta kansalaisiamme.
+
+Keskustelu päättyi.
+
+Asia lähetettiin lakivaliokuntaan.
+5
+
+

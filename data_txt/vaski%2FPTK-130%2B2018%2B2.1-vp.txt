@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMD7ED.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 130/2018 vp
+
+Täysistunto
+
+Torstai 13.12.2018 klo 16.01—20.35
+
+2.1. Suullinen kysymys Trafin ajokorttipalvelun tietosuojasta (Katja Taimela sd)
+Suullinen kysymys SKT 198/2018 vp
+
+Suullinen kyselytunti
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Taimela.
+
+Keskustelu
+
+16.02 Katja Taimela sd: Arvoisa puhemies! Kansalaiset ovat seuranneet tyrmistyneinä,
+kun on paljastunut, että Trafin rekisteristä on voinut kalastella kansalaisten henkilötietoja
+esteettä ja ilman valvontaa. Yksinkertaisilla hakuvaihtoehdoilla on ollut mahdollista saada
+tietoonsa ihmisen koko nimi ja syntymäaika. Arvailemalla on saanut selville jopa henkilö-
+tunnuksen loppuosan. Näin julkisesta ajokorttitiedosta on tullut työkalu henkilötietojen va-
+rastamiseen. Trafin tilastojen mukaan voimassa oleva ajokortti on 3,7 miljoonalla kansa-
+laisella, ja voidaan todeta, että ainakin heidän yksityisyydensuojansa on ollut loukattavis-
+sa.
+
+Liikenne- ja viestintäministeriö on painottanut viime vuosina voimakkaasti julkisten tie-
+tovarantojen hyödyntämisen mahdollisuuksia. Tämän kehityksen osana Trafin liikenne-
+asioiden rekisterikin on syntynyt. Kysyisinkin ministeriltä: miten arvioitte Trafin tapauk-
+sen vaikuttavan kansalaisten luottamukseen viranomaisten kykyyn käsitellä tietorekisterei-
+tä ja mitä aiotte tehdä [Puhemies koputtaa] luottamuksen palauttamiseksi?
+
+16.04 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa her-
+ra puhemies! Suomalaisten luottamus viranomaisiin on erityisen korkea, ja meidän tehtä-
+vämme on tietystikin vaalia sitä, että tämä luottamus voidaan säilyttää. Tullessani ministe-
+riksi liikenne- ja viestintäministeriöön sain paljon myönteistä palautetta siitä, että Trafin
+palvelut ovat entistä enemmän sähköisessä muodossa ja helposti saatavissa ja että Trafissa
+voidaan asioida mutkattomasti myös sähköisessä muodossa. Tämän takia on tietysti myös
+erityisen tärkeätä, että juuri tätä luottamusta voidaan säilyttää ja parantaa. Liikenne- ja
+viestintäministeriö on edellyttänyt, että Trafin järjestelmät auditoidaan. Näin on myöskin
+tehty, ja Viestintäviraston pääjohtaja onkin tänään todennut, että Trafin järjestelmät ovat
+tietoturvanäkökulmasta keskimääräistä parempia. Siitä huolimatta on myös tunnistettu
+haasteita. Näihin haasteisiin nyt tartutaan: jokainen järjestelmä käydään yksitellen läpi, ja
+sitä mukaa, kun niiden tietoturva voidaan varmistaa, ne palautetaan käyttöön.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Pyydän nyt niitä edustajia, jotka ha-
+luavat esittää lisäkysymyksen, nousemaan ylös ja painamaan V-painiketta.
+ Tarkistettu
+3.0
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+16.05 Katja Taimela sd (vastauspuheenvuoro): Arvoisa herra puhemies! Ongelmaa ei
+voi kaataa Trafin syliin, eikä Trafin pääjohtajan vaihtuminen korjaa tätä tilannetta.
+
+Tietosuojavaltuutettu Aarnio varoitteli yksityisyydensuojasta liikennepalvelulain osalta
+jo kesällä 2017. Nyt on paljastunut, että syksyn aikana varoittelijoita on ollut useita. Lii-
+kennepalvelulain toisen vaiheen käsittelyssä huomautuksia tietosuojasta tuli niin meiltä lii-
+kenne- ja viestintävaliokunnasta kuin perustuslakivaliokunnasta. Kyseessä on sama laki-
+esitys, jota perustuslakivaliokunta moitti rakenteeltaan käsittämättömäksi. Hallitusta on
+huomautettu kiirehditystä ja epätäsmällisestä lainvalmistelusta koko tämän vaalikauden
+ajan. Ministeri Berner, lainvalmistelu ja viraston valvonta ovat teidän vastuullanne. Voiko
+olla mahdollista, ettei ministeriönne oma virastokaan saanut enää selvää laista ja sen tar-
+koituksesta? Ja miten on mahdollista, että tietosuojavaltuutettu on pyytänyt selvityksen
+palvelusta elokuussa ja ministeriö herää virastonsa ongelmiin [Puhemies koputtaa] vasta
+lehtijuttujen myötä joulukuussa?
+
+16.06 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa her-
+ra puhemies! Lainsäädäntönäkökulmasta: Silloin kun laki liikenteen palveluista on ollut
+lausunnoilla, olemme saaneet siihen tietosuojavaltuutetun lausunnon. Tämä lausunto on
+kokonaisuudessaan huomioitu siinä laissa, joka eduskunnalle on annettu. Tämän lisäksi
+laki on käynyt perustuslaillisen arvion perustuslakivaliokunnassa, ja siitä on saatu myös-
+kin liikenne- ja viestintävaliokunnan mietintö. Näissä ei kuitenkaan ollut erityisiä huomi-
+oita nimenomaan tietoturvaan tai tietosuojaan liittyen. Kävin nämä itse asiassa juuri läpi ja
+myöskin katsoin teidän omat näkökulmannekin siihen. Päinvastoin, itse asiassa laki on saa-
+nut palautteen myöskin siitä, että se nimenomaan vastaa tietosuojalainsäädäntöä. Tämän li-
+säksi, kun lakia toimeenpannaan viranomaisen toimesta, niin viranomaisen velvollisuus on
+huolehtia paitsi laista liikenteen palveluista [Puhemies koputtaa] myöskin sen edellä käy-
+västä EU:n tietosuojalainsäädännöstä sekä myöskin henkilötietolainsäädännöstä. Nämä
+kaikki ovat osa kokonaisuutta. [Vasemmalta: Eli ei mitään ongelmaa!]
+
+16.08 Suna Kymäläinen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä eivät
+nyt oikein meidän näkökantamme tunnu kohtaavan, sillä olemme aivan koko vaalikauden
+ajan systemaattisesti arvostelleet tätä huonoa lainsäädäntöä, niin liikenne- ja viestintäva-
+liokunnassa kuin PeVin lausunnoissakin liikennepalvelulain kohdalla. 
+
+Tässä on nyt vakavasta asiasta kysymys. On kysymys kansalaisten luottamuksesta. Yk-
+silön tietosuojan kysymykset nousevat tässä digitalisoituvassa maailmassa ja kansainväli-
+sessä alustatalouksien maailmassa ihan perusoikeudeksi. Miten me voimme varmistaa
+sen?
+
+Te sanotte, että tieto on julkista, mutta se mahdollistaa tämänkaltaisten massavuotojen-
+kin mahdollisuuden. Tämä on oikeasti meille kaikille kansalaisille erittäin tärkeä kysy-
+mys, ja te olette hallituksessa ajaneet meidät tähän tilanteeseen. Mitä te teette, ettei tällais-
+ta enää tapahdu?
+
+16.09 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa her-
+ra puhemies! Ilman muuta ministeriö on suhtautunut tähän vakavasti, ja sen toivottavasti
+myös näkee niissä mittavissa auditoinneissa, jotka tällä hetkellä ovat menossa. Nämäkään
+auditoinnit eivät viittaa siihen, että kyse olisi lainsäädännön ongelmasta vaan enemmänkin
+siitä, miten lakia on toimeenpantu.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Nyt kysymys on siitä, millä tavalla tätä kohtaa voidaan parantaa ja myöskin huolehtia
+siitä, että osaaminen virastoissa on sillä tasolla, että toimeenpanoon voidaan luottaa. Ky-
+symys ei ole ainoastaan Trafista vaan laajasti koko meidän hallinto on entistä enemmän
+sähköisessä muodossa ja on ollut sitä jo aikaisemminkin.
+
+Kaiken kaikkiaan kuitenkin kansalaiset ja yritykset tarvitsevat sähköisiä palveluita, ja
+niiden osalta meidän tehtävämme on huolehtia siitä, että ne ovat saatavilla ja niitä voidaan
+mahdollistaa, mutta myöskin siitä, että ne ovat tietoturvallisia. Tämän osalta me olemme
+erittäin sitoutuneita tekemään myöskin siihen liittyvää työtä.
+
+16.10 Jari Myllykoski vas (vastauspuheenvuoro): Arvoisa herra puhemies! Vahinko on
+sattunut, ja sitä märehtimällä se asia ei muuksi muutu. Mutta ottaen huomioon sen, että
+Trafi on ollut eräs tietolähteistä, joka paljastaa ihmisen kotipaikkakunnan... Esimerkiksi ri-
+koksen uhria jos sitten rikollinen on halunnut selvittää, on riittänyt, että on laittanut Trafiin
+tiedon rekisterinumeron perusteella, ja niin on saanut tämän rikoksen uhrin kotipaikkakun-
+nan. Esimerkiksi kotipaikkani Nakkila ei nyt ole niin iso alue, etteikö siellä tämmöinen
+mahdollinen rikollinen, joka haluaa uhata toisen henkeä tai terveyttä, saisi sitä kotipaikkaa
+selville. Nyt kun tätä perkaamista teette pala palalta, ohjeistatteko Trafia niin, että näitä
+henkilötietoja turvapyynnön jälkeen ei enää tulisi antaa kenellekään niin, että kotipaikka-
+kaan selviää?
+
+16.11 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa her-
+ra puhemies! Kyllä käymme tällä hetkellä Trafin osalta niitä järjestelmiä läpi, jotka käsit-
+televät henkilötietoja ja kotipaikkatietoja. Ajokorttilainsäädännön osalta ja ajokorttitieto-
+jen osalta pyrimme katsomaan sitä, että näitä tietoja ei olisi ristiin käytettävissä ja että tie-
+tojen määrää, joka siellä on saatavilla, myöskin voidaan vähentää. Siitä huolimatta liiken-
+neturvallisuuden näkökulmasta kuuluu saada ja on aina ennenkin ollut mahdollista saada
+tieto siitä, onko tielläkulkijalla ajo-oikeutta, ja tämä ajo-oikeudesta tiedon saaminen tulee
+kansalaisilla jatkossakin olla. Nyt on oikeastaan kysymys siitä, miten tähän tietoon pääsee
+kiinni ja millä tavalla on mahdollista nykyisessä järjestelmässä, että näitä tietoja väärin yh-
+distetään. Tätä järjestelmää ilman muuta katsotaan läpi ja pyritään myöskin katsomaan,
+että se saadaan sellaiselle tasolle, että se on luotettava.
+
+16.12 Olli-Poika Parviainen vihr (vastauspuheenvuoro): Herra puhemies! Tämä tapaus
+on valitettava esimerkki siitä, että kun me suunnittelemme sinänsä tarpeellisia hyviä digi-
+talisaatiohankkeita, niihin saattaa liittyä sivuilmiöitä, joita emme tule ajatelleeksi ennen
+kuin tapahtuu jotakin, joka kiinnittää huomiomme, ja toivon, että otamme kaikki tästä osal-
+tamme opiksi. Tässä nimenomaisessa tapauksessa ongelmallista on ehkä ollut myös se, että
+vaikka Trafi reagoi asiaan nopeasti, niin palvelun sulkeminen uutisten jälkeen vei kuiten-
+kin varsin kauan ja siihen päästiin raportoidusti käsiksi jopa päiviä myöhemmin. Toivoi-
+sin, että hallitus voisi selvittää, että tällaisia tapauksia ei jatkossa tapahdu muiden sähköis-
+ten palvelujen osalta, ja ehkä osana auditointeja näin teettekin. Kysyisinkin hallitukselta,
+antaako tämä aihetta tarkastella Suomen muita digitalisaatiohankkeita tietoturva- ja yksi-
+lönsuojanäkökulmista.
+
+16.13 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa her-
+ra puhemies! Tässä samassa yhteydessä, kun nyt Trafin tietoturvanäkökulmasta järjestel-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+miä auditoidaan, on myöskin tiedossa se, että Viestintävirasto on laajasti käynyt läpi ja
+myöskin auditoi ylipäätään valtionhallinnon järjestelmiä. Tässä yhteydessä varmasti on
+hyvä katsoa, että se, mitä Trafin osalta opitaan, voidaan myöskin hyödyntää jatkossa. Jär-
+jestelmät ovat keskenään hyvin samankaltaisia, ja niiden osalta on myöskin hyvä arvioida,
+millä tavalla tietoturvallisuus toteutuu laajemmassa mittakaavassa. 
+
+Kaikesta huolimatta haluan edelleenkin todeta sen, että Viestintävirasto on todennut,
+että Trafin järjestelmät ovat keskimääräistä tietoturvallisemmassa kunnossa, mutta siitä
+huolimatta ne eivät ole täysin tyydyttäviä. Me näemme kuitenkin myöskin tästä Trafin ko-
+kemuksesta, kuinka keskeistä kansalaisille ja yrityksille on pääsy sähköisiin järjestelmiin
+ja palveluihin ja kuinka riippuvaisia yhteiskunta niistä on. Senkin takia on äärimmäisen
+tärkeää, että me teemme nyt huolellista työtä näiden äärellä, jotta yksi palvelu toisensa jäl-
+keen [Puhemies koputtaa] saamme niitä palautettua käyttöön.
+
+16.14 Jani Mäkelä ps (vastauspuheenvuoro): Arvoisa puhemies! Nyt kun ministeri äs-
+ken sanoi, että Trafin järjestelmät olivat paremmalla tasolla kuin muut valtion järjestelmät,
+niin itseäni ainakin hämmästyttää, pitäisikö tämän herättää lisää luottamusta tällaisen ka-
+tastrofin jälkeen vaiko vähentää luottamusta. On vakava asia, että järjestelmään jätetään al-
+kuperäisessä auditoinnissa tuollaisia tietoturva-aukkoja, mutta on erityisen vakava asia se,
+että ylläpidolla ei ole edes ammattitaitoa sulkea sieltä järjestelmästä osia, kun ongelmia ha-
+vaitaan. Ensin kestää päiviä, että järjestelmiä ylipäänsä pystytään sulkemaan, sitten sulje-
+taan yksi kieliversio, muut jätetään auki, ja sen jälkeen, kun ei muuta osata tehdä, pistetään
+koko järjestelmä kiinni päiväkausiksi. Älkää nyt väittäkö — ei tämä ole mahdollista mis-
+sään muualla kuin julkisen sektorin järjestelmissä. Oikeassa työelämässä tällainen järjes-
+telmätoimittaja olisi entinen järjestelmätoimittaja. Voivatko muut valtion tietojärjestelmät
+todella olla tällaisella tasolla ylläpitonsa suhteen? Mitä ministeri vastaa: Jos puutteita ha-
+vaitaan, niin mitä tehdään? [Puhemies koputtaa] Tarkastellaanko näiden järjestelmien yl-
+läpitosopimuksia jatkossa kriittisesti, ja mihin se johtaa?
+
+16.15 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa her-
+ra puhemies! Kyllä toivottavasti se johtaa siihen, että järjestelmiä ja järjestelmäsopimuk-
+sia tarkastellaan kriittisesti, niihin liittyviä ylläpitosopimuksia ja palvelusopimuksia. On
+ihan selvää, että yhteiskunta on erittäin riippuvainen siitä, että järjestelmät ovat paitsi toi-
+mivia myöskin luotettavia, ja sitä kautta myöskin on tärkeää, että me pystymme huolehti-
+maan siitä, että kansalaiset jatkossakin voivat hyvällä luottamuksella palveluita käyttää.
+Tätä työtä nyt parhaillaan tehdään Trafin osalta, ja toivottavasti siitä syntyy myöskin sel-
+laisia johtopäätöksiä ja oppeja, jotka ovat laajemminkin käytettävissä jatkossa valtionhal-
+linnon puolella. Viestintävirasto tekee tässä työtä ja käyttää siihen myöskin ulkopuolisia
+arvioitsijoita, jotta saadaan mahdollisimman kattava audiointi, siihen liittyvät raportti ja
+siihen liittyvät opit myös käyttöön.
+
+16.16 Kunta- ja uudistusministeri Anu Vehviläinen (vastauspuheenvuoro): Arvoisa
+puhemies! Täydennän tässä vielä ministeri Bernerin vastausta ehkä siltä osin, että kun tämä
+Trafin asia selvitetään kunnolla, niin se on ensinnäkin valtavan tärkeää, mutta sitten olen
+aivan vakuuttunut siitä, että myös koko julkinen hallinto kyllä tämmöisen asian takia herä-
+ytyy, jos ei ole aikaisemmin heräytynyt, ja tutkii omat tietonsa, mitä kansalaisista kaiken
+kaikkiaan on. 
+4
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+Minusta on tärkeää muistaa se, että vaikka välttämättä ei olisi lainvastaista — niin kuin
+tässä ilmeisesti ei ole ollut lainvastaista, että on näitä tietoja laajasti — niin meidän pitää
+käyttää tarkoituksenmukaisuusharkintaa siinä, mitä tietoja ihmisistä on siellä julkisissa re-
+kistereissä. Otan esimerkiksi vaikka verottajan. Meidän verotietommehan, kaikkien suo-
+malaisten verotiedot, ovat julkisia, mutta ei Verohallinto laita niitä kaikkien tietoja ulos,
+vaan ne ovat saatavilla, kun niitä kysytään. Ja tämä, mitä nyt on tässä tapahtunut — olen
+ihan varma, [Puhemies koputtaa] että tässä mennään eteenpäin ja käydään läpi [Puhemies
+koputtaa] muutkin virastot.
+
+16.17 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Kansalais-
+ten ja yksilöiden tietoturva-asia, tietosuoja-asia on äärettömän tärkeä asia, ja sitä on vaalit-
+tava kaikin keinoin. Avoimuutta ja tiedonsaantimahdollisuuksia on pyritty lisäämään, ja
+niitä on lisätty jatkuvasti viime vuosina. Nyt Trafi on noussut tavallaan niin sanotusti ke-
+pin nokkaan tässä asiassa. Arvoisa liikenneministeri, kiitos teille, että olette reagoinut no-
+peasti ja paneutunut asiaan huolella. Meistä kaikista suomalaisista on saatavissa paljon tie-
+toa erilaisista tietolähteistä, muistakin palveluista, ja sähköisiä palveluita on monilla aloil-
+la. Oikeastaan kääntäisin tämän arvoisalle oikeusministerille: miten te olette reagoinut ja
+reagoitte tähän tilanteeseen ja miten te näette yksilön ja kansalaisen tietoturva-asiat näissä
+julkisissa palveluissa?
+
+16.18 Oikeusministeri Antti Häkkänen (vastauspuheenvuoro): Arvoisa puhemies! Eu-
+roopan tasolla on juuri tullut voimaan uusi tietosuoja-asetus, joka koskee kaikkia maita. Ei
+tarvitse implementoida enää mitään kotimaista kansallista lainsäädäntöä, vaan tiukka tie-
+tosuojasääntely koskee kaikkia maita. Jos katsotaan isoa kuvaa yksityisyydensuojassa ja
+tietosuojassa: Aasiassa hyvin vapaat kädet, USA:ssa hyvin vapaat kädet, mutta Eurooppa
+on lähtenyt tiukkaan tietosuojasääntelyyn. Ja myös Suomessa kaikki lait pitää peilata tie-
+tosuojasääntelyn kautta. Jokainen ministeriö vastaa viime kädessä siitä, että omissa laki-
+hankkeissa toteutuu tämä maailmanlaajuisesti yksi tiukimmista tietosuojasääntelyistä. Ja
+itse asiassa Suomessa perustuslakivaliokunta on jopa ripauksen kiristänyt suomalaista tie-
+tosuojasääntelyä verrattuna eurooppalaiseen tietosuojasääntelyyn. Eli jos vain kaikissa la-
+kihankkeissa näitä noudatetaan, niin kyllä Suomessa on tiukka tietosuojasääntely.
+
+16.19 Katja Taimela sd (vastauspuheenvuoro): Arvoisa herra puhemies! Liikenne- ja
+viestintäministeriö on ilmoittanut selvittävänsä tätä Trafin sotkua, näitä Trafin palveluiden
+ongelmia, yhteistyössä Viestintäviraston ja tietoturvavaltuutetun kanssa. Trafin sähköiset
+palvelut pysyvät toistaiseksi kiinni, mikä on osaltaan jo vaikeuttanut autokauppaa. 
+
+Sattumoisin ministeriön hallinnonalan virastouudistus toteutuu parin viikon päästä, vuo-
+denvaihteessa, jolloin Trafi ja Viestintävirasto yhdistyvät uudeksi Liikenne- ja viestintävi-
+rastoksi. Käykö tässä lopulta nyt niin, että uusi virasto päätyy tutkimaan omia toimiaan?
+Kysyn ministeriltä: Näettekö tässä selvitystyössä mitään riippumattomuusongelmaa? Ja
+miten aiotte varmistaa selvitystyön uskottavuuden, jotta kansalaisten luottamus pystytään
+palauttamaan Trafin tarjoamiin sähköisiin palveluihin ja muutenkin meidän virkavaltaam-
+me?
+
+16.20 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa her-
+ra puhemies! Kyllä me olemme pyrkineet pitämään huolta siitä, että saisimme mahdolli-
+5
+
+
+
+Pöytäkirjan asiakohta PTK 130/2018 vp
+simman uskottavan, neutraalin analyysin ja auditoinnin näistä palveluista. Sen takia Vies-
+tintävirastoa on valtuutettu käyttämään ulkopuolisia toimijoita tämän selvityksen apuna.
+Näin on myöskin tehty, ja yhtiö nimeltä Nixu tekee tätä auditointia Viestintäviraston rin-
+nalla, jotta saisimme nimenomaan uskottavaa ja myöskin mahdollisimman läpinäkyvää ra-
+portointia ja auditointia, joka ei olisi pelkästään hallinnonalan sisäistä. 
+
+Tämän lisäksi on myöskin äärimmäisen tärkeä muistaa, että nykyinen palvelu on aikai-
+semminkin ollut saatavilla. Se on ollut saatavilla siten, että yksittäistietoluovutuksena sen
+on voinut kysyä puhelimitse tai sähköpostitse. Nyt sitten sitä voidaan katsoa verkosta.
+Tämä palvelu ei sinänsä ole lain edellyttämä vaan lain mahdollistama, jos viranomainen
+näin haluaa toimia. Ja tästäkin näkökulmasta [Puhemies koputtaa] on tärkeää, että me
+viemme palveluita [Puhemies koputtaa] eteenpäin ja kuitenkin pyrimme katsomaan, että
+tähän tietoturvaan voidaan kaikilta [Puhemies koputtaa] puolilta luottaa.
+
+Kysymyksen käsittely päättyi.
+6
+
+

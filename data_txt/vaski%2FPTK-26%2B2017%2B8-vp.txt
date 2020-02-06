@@ -1,0 +1,1461 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM852.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 26/2017 vp
+
+Täysistunto
+
+Tiistai 21.3.2017 klo 13.59—19.04
+
+8. Hallituksen esitys eduskunnalle laiksi maankäyttö- ja rakennuslain muuttamisesta
+Hallituksen esitys HE 251/2016 vp
+Valiokunnan mietintö YmVM 2/2017 vp
+
+Ensimmäinen käsittely
+
+Puhemies Maria Lohela: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 8. asia.
+Käsittelyn pohjana on ympäristövaliokunnan mietintö YmVM 2/2017 vp. Nyt päätetään
+lakiehdotuksen sisällöstä.
+
+Keskustelu
+
+15.01 Satu Hassi vihr (esittelypuheenvuoro): Arvoisa puhemies! Tämä on kuudes maan-
+käyttö- ja rakennuslain muutosesitys, jota tämä eduskunta käsittelee. Valiokunnan mietin-
+tö on erimielinen, mutta yksi asia, josta valiokunta on yksimielinen, on se, että tarvitaan
+maankäyttö- ja rakennuslain kokonaisuudistus.
+
+Tässä esityksessä puututaan moniin maankäyttö- ja rakennuslain yksityiskohtiin, joista
+merkittävimmäksi vaikutuksiltaan on arvioitu se, että vähittäiskaupan suuryksikön koko-
+rajaa esitetään nostettavaksi 2 000:sta 4 000 kerrosneliömetriin, sekä se, että poistetaan
+velvoite osoittaa maakuntakaavan keskustatoimintojen alueella vähittäiskaupan suuryksi-
+köiden enimmäismitoitus. Lisäksi luovutaan velvoitteesta ottaa huomioon kaupan laatu si-
+joitettaessa vähittäiskaupan suuryksikkö muualle kuin keskusta-alueelle.
+
+Toinen keskeinen muutos tässä on elinkeino-, liikenne- ja ympäristökeskusten eli ely-
+keskusten roolin muuttuminen. Se koskee sekä näiden neuvontatehtävää että valitusoi-
+keutta kaava-asioissa. Sekä neuvottelutehtävää että valitusoikeutta rajataan asioihin ja kaa-
+voihin, jotka koskevat vaikutuksiltaan valtakunnallisia tai merkittäviä maakunnallisia
+asioita tai liittyvät kyseisen valtion viranomaisen viranomaistehtävän toteutumiseen. Tämä
+vaikutus tulee kuitenkin olemaan lyhytaikainen, koska koko tämä aluehallintohan tullaan
+mylläämään sote-uudistukseen liittyvässä maakuntahallinnon perustamisessa.
+
+Muut, pienemmät muutokset liittyvät yleiskaavan merkitykseen, maaseuturakentami-
+seen, rantoihin sekä metsätalousalueihin ja vapaa-ajan asutukseen. Hallitus esittää, että sil-
+loin, kun yleiskaava on ilmeisen vanhentunut, asemakaavan voi perustellusta syystä laatia
+vastoin tätä yleiskaavaa. Valiokunta toteaa, että tällöin pitää kuitenkin huolehtia siitä, että
+asemakaava sopeutuu yleiskaavan kokonaisuuksiin ja otetaan huomioon se, mitä laki sa-
+noo yleiskaavan sisältövaatimuksista.
+
+Toisaalta yleiskaavan käyttöä rakennusluvan perusteena laajennetaan. Aikaisemmin se
+on ollut mahdollista ranta-alueilla sekä eräin edellytyksin suunnittelutarvealueilla. Nyt li-
+sätään yleiskaavan käyttöä rakennusluvan perusteena muunkin kuin enintään kaksiasuntoi-
+sen asuinrakennuksen rakennusluvan myöntämiselle. Valiokunta toteaa, että määräys ei
+ Tarkistettu
+4.2
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+voi koskea aluetta, jolla maankäytön ohjaustarve edellyttää asemakaavan laatimista. Kui-
+tenkin pykälästä poistuu nykyinen edellytys, jossa sanotaan, että rajaus voi koskea vain ky-
+läaluetta, johon ei kohdistu merkittävää rakennuspainetta.
+
+Edelleen tässä muutetaan vapaa-ajanasuntojen käyttötarkoituksen muuttamiseen liitty-
+viä säädöksiä eli mahdollistetaan se, että kunnan rakennusjärjestyksessä osoitetaan aluei-
+ta, joilla vapaa-ajanasunnon muuttaminen vakituiseksi asunnoksi voitaisiin ratkaista suo-
+raan rakennusluvalla. Valiokunta korostaa, että tällöin ei voi kuitenkaan tinkiä niistä tek-
+nisistä vaatimuksista, joita pysyvän asumisen rakennukselle asetetaan. Valiokunta myös
+muistuttaa siitä, että pysyvä asutus tarkoittaa kunnalle velvoitteita palveluiden järjestämi-
+seksi ja näin ollen myöskin suunnitelmallisuus on hyvä muistaa.
+
+Metsänhakkuisiin liittyvää maisematyölupaa koskevia säädöksiä muutetaan. Tällähän
+hetkellä ranta-asemakaava-alueilla maisematyölupavaatimus on voimassa ilman muuta.
+Sitä muutetaan niin, että maisematyölupavaatimus on voimassa ranta-asemakaava-alueilla
+vain, jos kaavassa niin määrätään. M-alkuisilla alueilla eli maa- ja metsätalousvaltaisilla
+alueilla, jotka ovat samalla ulkoilualueita, ja sitten ympäristössä, johon liittyy erityisiä ym-
+päristöarvoja, eli MU- ja MY-alueilla, ei enää kaavassa voida edellyttää tätä maisematyö-
+lupaa. Valiokunta kuitenkin toteaa, että edelleen yleiskaavassa on mahdollista asettaa suo-
+jelumääräyksellä metsänkäsittelyyn liittyviä rajoituksia, joilla kuitenkin pitää olla selkeä
+peruste, ja ne voivat koskea vain rajattuja, suhteellisen pienialaisia alueita.
+
+Aurinkopaneelien ja -keräimien asentamista koskevia lupavaatimuksia yhtenäistetään.
+Tätä ovat jotkut asiantuntijat lausunnoissaan vastustaneet lupavaatimusten lisäämisenä.
+Kuitenkin valiokunta näki, että tässä on kysymys yhtenäistämisestä, eli jatkossa tulee ole-
+maan niin, että tarvitaan toimenpidelupa aurinkopaneelin tai -keräimen asentamiseen sil-
+loin, kun on kyse kaupunkikuvaan tai ympäristöön merkittävästi vaikuttavan paneelin tai
+keräimen asentamisesta tai rakentamisesta.
+
+Arvoisa puhemies! Kuten mainitsin, tämä mietintö on erimielinen. Mietintöön sisältyy
+hylkäävä vastalause ja myöskin pykälävastalause, jonka olen itse allekirjoittanut, ja myö-
+hemmin pitämässäni puheenvuorossa selostan sille perustelut.
+
+15.08 Silvia Modig vas: Arvoisa puhemies! Hyvät kansanedustajat! Puheenjohtaja Hassi
+kävi ansiokkaasti läpi kyseisen lakimuutoksen.
+
+Käsittelyssä oleva maankäyttö- ja rakennuslain muutos on esimerkki siitä, miksi me tar-
+vitsemme kokonaisuudistuksen maankäyttö- ja rakennuslakiin. MRL on jo kohta 20 vuot-
+ta vanha, ja siihen on vuosien saatossa tehty lukuisia yksittäisiä muutoksia, pelkästään täl-
+lä kaudella kuusi. Siksi olemme ilolla tervehtineet tietoa ympäristöministeriöstä, että mi-
+nisteriö aloittaa kokonaisuudistuksen valmistelun. Tarkoitus on kerätä tietopohjaa, jonka
+pohjalta voidaan luoda periaatteet, minkä pohjalta maankäyttö- ja rakennuslakia tullaan
+uudistamaan. Itse näkisin, että periaatteisiin on kuuluttava se, että maankäyttö- ja raken-
+nuslain on vastattava nopeasti kasvavien kaupunkiseutujen tarpeisiin, mutta ehdottomasti
+periaatteisiin tulee kuulua se, että se tukee Suomen energia- ja ilmastopolitiikkaa, toisin
+kuin tämä tänään käsittelyssä oleva esitys tekee.
+
+Puhemies! Nostaisin esiin muutaman huomion ja huolen.
+Ensimmäisenä suuryksikkösääntelyn muutos. Tämä on merkittävin suuri muutos, mitä
+
+tämä esitys pitää sisällään, ja sen vaikutus yhdyskuntarakenteeseen on näkemykseni mu-
+kaan negatiivinen. Kun kaupan koko kasvaa ja laadullakaan ei ole enää merkitystä, niin
+tämä muutos kyllä heikentää kuntien mahdollisuutta ohjata järkevää kaupunkirakennetta.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+Se voi myös johtaa keskustojen näivettymiseen palveluiden karatessa suuryksiköiden mu-
+kana keskustojen ulkopuolelle. Jos kaupunkilaisena, helsinkiläisenä, katson kysymystä,
+niin näen, että sillä voi myös olla negatiivinen vaikutus lähiöiden palveluihin, kun myös ne
+karkaavat suuryksiköiden perässä ja täten lähiöiden palvelut heikentyvät. Tämä kaikki
+osaltaan lisää autoilun tarvetta, joka taas on meidän ilmasto- ja muiden ympäristötavoittei-
+demme vastaista. Näkisin, että kaupan alan kehitystä voidaan tukea ilman, että rikotaan yh-
+dyskuntarakennetta, ja ilman, että toimitaan Suomen ilmastotavoitteiden vastaisesti.
+
+Toinen huolenaihe on yleiskaava rakennusluvan perusteella. Se, että pelkän yleiskaavan
+pohjalta voitaisiin antaa rakennuslupa, tarkoittaa sitä, että meiltä jää yksi olennainen suun-
+nittelun vaihe väliin. Yleiskaava on nimensä mukainen yleinen kaava, ja monia asioita ei
+edes pyritä ratkaisemaan vielä yleiskaavassa, vaan se tehdään asemakaavavaiheessa. Nä-
+kisin, että tämä esitys voi osaltaan heikentää tasokasta alueiden suunnittelua. Perusteluna
+tälle muutokselle on esitetty kaavaprosessin nopeuttamista. Kaavaprosessin nopeuttami-
+sen pitää olla meidän yhteinen tavoitteemme, mutta mielestäni tässä kohtaa perustelu on-
+tuu, sillä tämä uusi tilanne, jossa siis yleiskaavan perusteella saa rakennusluvan, aivan var-
+masti johtaa tulkintaerimielisyyksiin ja siten valituksiin. Eli pahimmillaan lisääntyvät va-
+litukset voivat itse asiassa hidastaa kaavaprosessia, jolloin tämä muutos toimisi tavoitteen
+vastaisesti. [Susanna Huovinen: Näin tulee käymään!]
+
+Myöskään maisematyöluvan poistaminen ei nauti vasemmistoliiton kannatusta. Mikäli
+maisematyölupa poistettaisiin, lisääntyisivät metsien avohakkuut ja kuntalaiset menettäi-
+sivät mahdollisuuden vaikuttaa virkistysmetsien tulevaisuuteen. Maisematyölupa tuleekin
+säilyttää yleiskaavan M-alueella aivan kuten aiemmin ja aivan kuten vastalauseessa nume-
+ro 1 valiokunnassa on tehty.
+
+Arvoisa puhemies! Edellä puhumani perusteella sanoisin, että tätä esitystä ei voi hyväk-
+syä. Siihen voidaan tehdä parannuksia pykälämuutoksilla, ja siksi esittäisin käsittelyn poh-
+jaksi vastalauseen numero 2.
+
+15.12 Anne Kalmari kesk: Arvoisa rouva puhemies! Tässä näkee, että puolueilla on vah-
+voja eroja siinä, halutaanko antaa ihmisille asumisen vapaus myös maaseudulla vai eikö
+haluta. [Susanna Huovinen: Ei tässä siitä ole kyse!] Tässä salissa on paljon ihmisiä, jotka
+haluavat eheän yhdyskuntarakenteen nimissä keskittää väet suuriin keskuksiin. Viime hal-
+lituskaudella oli linjauksia, ettei annettu rakennuslupia yli 5 kilometrin päähän lähimmästä
+koulusta, koska ajateltiin, että siitä voisi vaikka tulla kustannuksia, vaikka koulukyyti me-
+nee vierestä. Minusta kunnat ovat juuri oikeita yksiköitä päättämään, mikä missäkin kun-
+nassa on järkevää rakentamista. Keskusta tekee sen, minkä lupasi: se purkaa normeja, mah-
+dollistaa lisärakentamisen maaseudulla entistä helpommin, mahdollistaa sen, että ne, jotka
+haluavat muuttaa vapaa-ajanasuntonsa pysyväksi asunnoksi, pystyvät tekemään sen entis-
+tä joustavammin, [Jari Myllykosken välihuuto — Mats Nylund: Oikein!] huolehtii siitä,
+että ylipäätään kaavoittaminen ja rakentaminen menevät lähemmäksi asiakasta.
+
+En ole ymmärtänyt koskaan sitä, että Suomen kaltaisessa maassa, missä meillä tilaa on,
+ajatellaan, että sen pitäisi olla tavoitetila, että väki pakataan suuriin keskuksiin. [Susanna
+Huovinen: Kuka täällä niin on sanonut?] — Tässä juuri edellisessä puheenvuorossakin to-
+dettiin se, että tämä vaurioittaa eheää yhdyskuntarakennetta. — Sillä ei ole minkäänlaista
+tieteellistä näyttöä, että tällainen tiivis ihmisten pakkaaminen veisi kasvihuonekaasupääs-
+töjä pienemmiksi. Itse asiassa Jukka Heinosen tutkimus Aalto-yliopistolta todistaa juuri
+päinvastoin: siellä, missä on vähän harvempia yksiköitä, sopivan kokoisia kyliä, pystytään
+3
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+esimerkiksi uusiutuvaa energiaa lämmittämiseen käyttämään paljon järkevämmin ja te-
+hokkaammin kuin keskitetyissä yksiköissä. Tiedän, että täällä on väkeä, joiden mielestä
+vain ratojen varteen tai raitiovaunujen viereen pitäisi ihmisten asuttautua, mutta mielestäni
+on loistavaa, että nyt tämä hallitusohjelma vie eteenpäin sitä mahdollisuutta, että jokaisella
+Suomen kansalaisella on entistä helpommin mahdollisuus elää ja yrittää siellä, missä ha-
+luaa.
+
+Myöskin tämä kaupan suuryksikön kokorajamuutos oli positiivinen. Muistatte, miten
+outoa oli viime hallituskaudella se — vaikkei se meidän maakuntaamme edes koskenut —
+että ajateltiin, että venäläisten turistien on pakko matkata tänne pääkaupunkiseudulle ku-
+luttamaan, eikä ollut mahdollisuutta pysähtyä tuohon välille, koska ympäristöministeriön
+silloiset virkamiehet näkivät, että tänne väki on tuotava. Siitä nousivatkin melkoiset myrs-
+kyt maakunnissa, ja nyt tämäkin asia tulee muuttumaan.
+
+Kyläkeskusten kyläkaavat saavat entistä suuremman merkityksen. Minusta on hienoa,
+että niitä tehdään. Minusta on hieno se asia, että turhista maisematyöluvista, jotka ovat vaa-
+tineet turhaa käsittelyä sekä asiakkaalta että hallinnossa ja maksaneet maltaita, joissakin ta-
+pauksissa luovutaan. 
+
+Kaiken kaikkiaan tämä esitys on loistava, [Susanna Huovinen: Ei todella ole loistava!] ja
+kiitän ministeriä siitä, että byrokratiaa oikeasti puretaan — vaikka koirat haukkuvat, niin
+karavaani onneksi kulkee. [Susanna Huovinen: Täällä ei onneksi ole koiria, täällä on kan-
+sanedustajia!]
+
+15.16 Silvia Modig vas (vastauspuheenvuoro):  Arvoisa puhemies! Edustaja Kalmari il-
+meisesti ymmärsi minua väärin. Hän sanoi puheenvuorossaan, että olisin vaatinut, että
+kaikkien pitää pakkautua muutamaan kaupunkiin elämään ahtaasti toistensa pakokaasuis-
+sa. En missään nimessä sitä esittänyt enkä sellaista vaadi. Minä kannatan ihmisten oikeutta
+vapaasti valita, missä he haluavat asua. Mutta tosiasia on se, että esimerkiksi meille Hel-
+sinkiin muuttaa valtavasti uutta väestöä ja loppua ei näy. Se tapahtuu monista syistä: tänne
+tullaan opiskelun perässä, tänne tullaan työn perässä, tänne tullaan rakkauden perässä. Ja
+helsinkiläisenä minä sanon teille uusille helsinkiläisille, että tervetuloa. Emme me voi vaa-
+tia ja pakottaa ihmisiä asumaan tietyssä paikassa. Kun me tiedämme, että pääkaupunkiseu-
+tu vastaa noin 25 prosentista koko maan bruttokansantuotteesta, sillä, mikä on tämän
+alueen työllisyys, mikä on tämän alueen talouden kunto, on merkitystä koko Suomelle. Ei
+meidän tarvitsisi asettaa tässä maaseutua ja kaupunkia vastakkain. On mielestäni täysin
+mahdollista uudistaa maankäyttö- ja rakennuslaki siten, että se palvelee näitä molempia
+kestävällä tavalla.
+
+Puhemies Maria Lohela: Tässä oli useampia vastauspuheenvuoron pyytäjiä. Sen painik-
+keen kautta voi nyt ilmoittautua. Pyydän tekemään niin, jolloin kaikki tulevat huomioi-
+duiksi.
+
+15.18 Ari Torniainen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Tämä halli-
+tuksen esitys todellakin sisältää useita erityyppisiä kaavoitukseen ja rakentamiseen liitty-
+viä sujuvoittamistoimenpiteitä. Ne ovat erittäin hyviä. Ne parantavat rakentamisen edelly-
+tyksiä niin maaseudulla, haja-asutusalueella kuin myöskin kaupungeissa. Kun asiantunti-
+joita ympäristövaliokunnassa kuultiin, niin täytyy todeta, että myöskin Helsingin kaupun-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+gin edustaja asiantuntijana totesi, että tämä lakiesitys, hallituksen esitys, on hyvä ja auttaa
+myöskin Helsinkiä kaavoituksessa.
+
+Kaiken kaikkiaan tämä on erittäin hyvä. Tämä antaa myöskin enemmän mahdollisuuk-
+sia kuntapäättäjille kunnissa tehdä niitä päätöksiä, mihin saa rakentaa ja millaisia raken-
+nuksia saa rakentaa. Kaiken kaikkiaan itse lämpimästi sitä kannatan. Tämä hallituksen esi-
+tys parantaa myöskin vapaa-ajanasuntojen käyttötarkoituksen muuttamista pysyvään asu-
+miseen. Se on erittäin hyvä. Myöskin aurinkopaneelien ja -keräimien asentaminen ja ra-
+kentaminen helpottuu tulevaisuudessa.
+
+15.19 Susanna Huovinen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Ensin täy-
+tyy todeta sama, minkä valiokunnan puheenjohtaja täällä aivan oikein mainitsi, että tämä
+on kuudes kerta, kun maankäyttö- ja rakennuslakia tällä eduskuntakaudella muutetaan. Va-
+liokunnassa kuulimme lukuisten asiantuntijoiden huolen paitsi näistä muutoksista, joita
+tässä esitetään, myös siitä, että tämä kokonaisuus menee sillä tavoin pirstaleiseksi, että täs-
+sä ei kohta pysy kukaan kyydissä. Olisi ollut järkevämpää tehdä kokonaisuudistusta, ryh-
+tyä valmistelemaan sitä, eikä lähteä jälleen kerran hosumaan, tekemään erilaisten normien
+purkua, joka on sitten vähän mitä sun sattuu. Meillä valiokunnassa on ihan vakavasti otet-
+tavia lausunnonantajia käynyt esittämässä huolensa, ja kun täällä edellinen puhuja sisäises-
+ti ristiriitaisessa puheenvuorossaan kertoi, että kyllä kunnille täytyy tulla lisää mahdolli-
+suuksia, niin meillä on Kuntaliiton lausunto, joka kertoo, että he vastustavat esimerkiksi
+tätä kaupan suuryksikköasiaa sen vuoksi, että kunnilta nimenomaan viedään ohjausmah-
+dollisuuksia. Koettakaa nyt päättää, minkälaista [Puhemies koputtaa] norminpurkua täällä
+tehdään.
+
+15.20 Pauli Kiuru kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Olen itse ollut
+kuntatyöntekijä. Luotan kunnan virkamiehiin ja heidän osaamiseensa. Yksi asia, joka tässä
+on noussut ja nousee keskusteluun ihan varmasti, on ely-keskusten valitusoikeus, joka on
+nyt rajattu valtakunnallisesti ja maakunnallisesti merkittäviin kohteisiin. Tavoitteena on
+sujuvoittaa. Tiedämme kyllä, että ely-keskusten valitukset ovat menestyneet hyvin eli ei-
+vät ole aiheetta valittaneet. [Susanna Huovinen: Aivan, ei todellakaan!] Toisaalta kyllä
+luotan, että kun vastuuta annetaan kuntiin lisää, niin kuntatyöntekijät tekevät vastuullisesti
+sitä työtä, mihin ovat koulutuksensa saaneet ja mistä vastuun virkamiesvastuulla kantavat.
+
+Tässä laissa on huomioitu myös maaseutuelinkeinot. Liitännäiselinkeino-sana lisättiin
+sinne, mikä oli hyvä täydennys. Maisematyölupa herätti intohimoja ainakin itselläni, ja se
+on nyt täällä [Puhemies koputtaa] mietinnössä hyvin huomioitu, että sitä voidaan edelleen
+ohjata.
+
+15.21 Eeva-Maria Maijala kesk (vastauspuheenvuoro): Arvoisa puhemies! Tämä kysei-
+nen maankäyttö- ja rakennuslain muutosesitys tuli todella tarpeeseen. Olen kiitollinen sii-
+tä, että tämä saatiin menemään nytten asianmukaisesti ja oikealla tavalla läpi. Se, että tämä
+on ollut monessa palasessa, ei ole haitaksi sille, vaan tarkoittaa sitä, että teemme suunni-
+telmallisesti tätä hallitusohjelman mukaista toimintaa. Hallitusohjelman mukaan on saatu
+purettua paljon byrokratiaa, on saatu käytännöllisesti asiat toimimaan eteenpäin.
+
+Esimerkiksi kyllähän tämä maaseudulla eläminen tehdään tämän avulla helpommaksi,
+koska aikaisemmin eduskunnassa on säädetty hyvin paljon erinäköisiä säädöksiä, jotka
+ovat tähdänneet siihen, että maaseudulla eläminen olisi vaikeampaa ja vaikeampaa. Nyt me
+5
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+luotamme entistä enemmän kuntien päätösvaltaan. Kunnat itse osaavat tehdä päätöksensä,
+millaista esimerkiksi siellä pienessä pitäjässä on eläminen ja mihinkä on järkevää rakentaa
+ja vaikuttaa asioissa.
+
+15.22 Satu Hassi vihr (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Huovinen jo
+totesi, että tämä esitys kaikkein merkittävimmässä asiassa eli tässä kaupan suuryksik-
+köasiassa vie kunnilta valtaa, vie kunnilta mahdollisuuden ohjata kaupan suuryksikköjen
+sijoittumista ja myöskin kaupan laatua. Suomen ympäristökeskus lausunnossaan toteaa
+sen, että tämä tulee todennäköisesti lisäämään ilmastopäästöjä, se vie palveluita entistä
+kauemmas sieltä, missä ihmiset asuvat, ja huonontaa siis lähipalveluita. On vaikea nähdä,
+millä tavalla tässä olisi kyse nimenomaan maaseudun ihmisten asian ajamisesta. Minusta
+vaikutus on aivan päinvastainen tällä hallituksen esityksellä.
+
+Vielä haluan tuoda esille sen, että korkein hallinto-oikeus omassa lausunnossaan totesi,
+että tämä esitys toteutuessaan tulee lisäämään [Puhemies koputtaa] sisällöltään lainvastai-
+sia kaavoja kunnissa.
+
+15.23 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Olen kyl-
+lä todella hämmästynyt, kun opposition puolelta esitetään sitä, että tässä nyt maailma on
+kaatumassa. Ja kaikkein eniten ihmettelen sitä, että kun tässä nyt maankäyttö- ja rakennus-
+lakia ollaan muuttamassa suuntaan, jossa maaseudun kuntien oma päätösvalta aidosti rat-
+kaisee, minne rakennetaan — niin että jos esimerkiksi poikkeuslupaa anotaan vaikkapa ke-
+sämökin muuttamisesta pysyväksi asumukseksi, niin sehän on erittäin hyvä asia: saadaan
+nopeasti ja turhia valituksia pois — niin demarit ja varsinkin vasemmistoliiton edustajat
+ovat tässä puolustamassa sitä, että keskitetään kaikki tänne Etelä-Suomeen. Tämähän on
+kaikista kallein vaihtoehto. [Susanna Huovinen: Kukaan ei ole täällä tällä lailla sanonut, te
+keksitte näitä!] Te olette puolustamassa muun muassa sitä menettelyä, että Helsingissä
+omistaa sen niminen ruotsalainen miljardööri kuin Erik Selin 4 000 asuntoa, kiskoo sillä
+valtavat vuokratuotot, ja me maksamme sitten valtion budjetin kautta kymmeniä miljoonia
+tälle ruotsalaiselle miljardöörille asumistukina. Tätäkö te haluatte? Kyllä minä olen vallan
+suuresti hämmästynyt, että esimerkiksi vasemmistoliitto ja demarit puolustavat miljardöö-
+rin oikeuksia kerätä rahaa valtion kustannuksella. Ihmettelen suuresti.
+
+15.24 Riitta Myller sd (vastauspuheenvuoro): Arvoisa puhemies! On hieman vaikea ym-
+märtää, miten tuo Hoskosen puheenvuoro liittyy tähän lainsäädäntöön. [Hannu Hoskonen:
+Minä kerron kohta, miten se on! — Susanna Huovinen: Ei liity!]
+
+Todellakin tarvitsemme kokonaisuudistusta maankäyttö- ja rakennuslakiin. Meillä on
+tulossa iso maakuntauudistus, ja tämä on se paikka, jossa myöskin näitä säädöksiä, joita
+tässä on käsitelty, olisi ollut järkevä käsitellä.
+
+Täällä sanottiin, että puretaan byrokratiaa. [Hannu Hoskonen: Näin tehdään!] Näinhän
+ei tapahdu. Päinvastoin, kun nämä säädökset ovat epämääräisiä, tulee tilanteita, jolloin tar-
+vitaan ja kuormitetaan oikeuslaitosta, ja tätä kautta byrokratia lisääntyy. Myöskään se, että
+tällä keskitettäisiin pääkaupunkiseudulle tai kasvukeskuksiin, ei pidä paikkaansa. Päinvas-
+toin ongelma on se, että tämä kaupan suuryksiköitten laajamittainen rakentaminen kaupun-
+kien ulkopuolelle tulee viemään palveluja myöskin sieltä [Puhemies koputtaa] haja-asutus-
+alueilta, ja tämä on todella valitettava asia.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+15.26 Markku Eestilä kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Pidän tätä
+hallituksen esitystä hyvänä ja erityisesti tätä kohtaa, jossa kunta saa päättää rakennusjär-
+jestyksessä niistä alueista, missä vapaa-ajanasunto voidaan sitten rakennusluvalla muuttaa
+ympärivuotiseen asumiseen kelpaavaksi, tietysti säännöksiä noudattaen.
+
+Mutta kun täällä on valiokunnan jäseniä ja puheenjohtaja ja yksi asia on itselleni hieman
+epäselvä, niin voitteko valistaa minua: kun rakennusjärjestys on käsittääkseni kaavalle
+alisteinen asiakirja, se ei voi mennä kaavan ohi eikä yli, niin jos tämä vapaa-ajanasunto si-
+jaitsee kaava-alueella, niin mitä tapahtuu kunnassa, onko edelleen oikeus rakennusjärjes-
+tyksen kautta sitten niille ihmisille suoda se mahdollisuus muuttaa tämä vapaa-ajanasunto
+ympärivuotiseen asumiseen kelpaavaksi? Tämä on hyvin yksinkertainen kysymys. Uskon,
+että saan siihen vastauksen.
+
+15.27 Anne Kalmari kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Erityisesti
+ely-keskusten roolin muuttuminen on yksi tärkeitä asioita tässä lainsäädäntömuutoksessa.
+Kuten jo totesin, kunta on paras yksikkö tietämään, mikä siellä kunnassa on edullista, min-
+ne kannattaa rakennuslupia myöntää ja missä esimerkiksi kunnallistekniikan järjestämi-
+nen olisi kohtuutonta, ellei asiakas itse sitä sitten pysty järjestämään. On tärkeää, että ely-
+keskusten rooli muuttuu konsultoivaksi ja ne eivät enää jatkossa ohjaa alueitten käyttöä ja
+rakennustoimien järjestämistä, ellei sitten ole kyseessä valtakunnallisesti tai maakunnalli-
+sesti merkittäviä kohteita. [Riitta Myller: Kuka sen määrittelee?] Eli kyllä jatkossakin pi-
+detään siitä huoli, että esimerkiksi inventoidut kohteet pysyvät viihtyisinä ja kauniina kat-
+sella, mutta täytyy myös muistaa ihan maisemankäytön kohdaltakin, että niitä kauniita
+maisema-alueita, kulttuurimaisemia, ei olisi tullut ilman ihmistä. Tällä hetkellä [Puhemies
+koputtaa] ajattelumaailma on ollut, edellisellä hallituskaudella, että niitä ihmisiä rangais-
+taan, jotka ovat maiseman tehneet.
+
+15.28 Anders Adlercreutz r (vastauspuheenvuoro):  Värderade talman! Edustaja Eestilä
+nosti esille hyvän asian: tämä on väärä paikka määritellä tämä poikkeama rakennusjärjes-
+tyksestä.
+
+Edustaja Hoskonen sanoi, että tämä karsii turhia valituksia. Itse asiassa asiantuntijakuu-
+lemisten pohjalta tilanne on juuri päinvastainen. [Sosiaalidemokraattien ryhmästä: Kyllä,
+just näin!] Tämä lisää huonojen valitusten määrää, tämä kuormittaa oikeusasteita.
+
+Mutta onhan tässä sinänsä hyviäkin asioita: on hyvä, että maaseutuelinkeinoon liittyvää
+rakentamista helpotetaan, ja on hyvä, että lisärakentamista helpotetaan, ja saattaa olla joku
+muukin hyvä asia.
+
+Kun valiokunnassa kysyin ministeriöiden edustajilta, onko kukaan sitä mieltä, että tämä
+vähentää laittomien rakentamispäätösten määrää, niin kukaan ei ollut sitä mieltä. Kun ky-
+syin, onko joku sitä mieltä, että tämä vie meitä lähemmäs Pariisin sopimuksen päämääriä,
+kukaan ei ollut sitä mieltä. [Susanna Huovinen: Juuri niin!]
+
+Tämä kaupan suuryksiköiden laadun poistaminen eli sen, että saisi määrittää, minkälais-
+ta kauppaa tulee, ei ole järkevää, kestävää yhteiskuntakehitystä, koska on eri asia, onko
+kauppa autokauppa, [Puhemies koputtaa] rautakauppa vai ruokakauppa. Sen lisäksi koko-
+yksikön poistaminen näivettää maaseutua, yksiselitteisesti.
+
+15.29 Markus Lohi kesk (vastauspuheenvuoro): Arvoisa puhemies! Minusta tämä edus-
+taja Kalmarin puheenvuoro oli oikein hyvä ja kertoi paljon siitä, mistä tässä on kysymys.
+7
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+Ymmärrän, että on erilaisia mielipiteitä, ja varmasti tässä on asioita, joista asiantuntijatkin
+voivat olla eri mieltä, mutta kaiken kaikkiaan se, että me vapautamme rakentamista ja li-
+särakentamista, on minusta järkevää ja myös se, että tässä tarkastellaan ely-keskuksen roo-
+lia.
+
+Kun täällä edustaja Modig nosti esille, että pääkaupunkiseudulla tuotetaan 25 prosenttia
+bkt:stä, niin pitää muistaa, että pitää katsoa vähän laajempaa aluetta. Jos me katsomme
+koko Uuttamaata, joka on sen työssäkäyntialueena, ja vähän kauemmaksikin, niin itse
+asiassa Uudenmaan alueella se bkt per asukas on sama kuin koko Suomessa keskimäärin.
+Meillä on paljon semmoisia alueita — vaikkapa Meri-Lapin alue, missä itse asiassa asuu
+noin 60 000 asukasta ja tuotetaan 7 prosenttia koko valtakunnan bkt:stä — eli tätä ei pidä
+näin yksisilmäisesti katsoa, mutta tässä ei pidä myöskään asettaa vastakkain kaupunkeja ja
+maaseutua, [Silvia Modig: Ei niin!] vaan pitää lähteä siitä, että ihmiset saavat valita, missä
+he haluavat asua.
+
+15.30 Silvia Modig vas (vastauspuheenvuoro):  Arvoisa puhemies! Olen edustaja Lohen
+kanssa aivan samaa mieltä siinä, että minä myös vastustan tätä vastakkainasettelua maa-
+seudun ja kaupungin välillä, joka yhä uudestaan keskustan toimesta tässä salissa nousee.
+
+Haluan oikaista edustaja Torniaisen puheenvuoroa siitä, kun hän sanoi Helsingin kan-
+nattaneen kokonaisuutena tätä muutosta. Kuten Helsingin lausunnosta on kaikkien luetta-
+vissa, kaupan suuryksikön muutos nähdään Helsingin näkökulmasta riskinä ja haitallisena
+yhdyskuntarakenteelle, koska se rikkoo järkevän yhdyskuntarakenteen, näivettää keskus-
+tan ja lisää autoilun tarvetta. Ei kasvavaa kaupunkia voi rakentaa kasvavan yksityisautoi-
+lun varaan. Jos me näin teemme, silloin edustaja Kalmarin aiemmin esittämä dystopia to-
+teutuu. Kohta me emme mitään muuta tee kuin olemme kuin sillit purkissa ja hengitämme
+toistemme pakokaasuja.
+
+Edustaja Hoskoselle haluan todeta, kun te puhuitte tästä minulle tuntemattomasta miljo-
+nääristä: teidän keskustalainen ministeri on juuri luonut kymmenen vuoden korkotuen,
+joka on lottovoitto näille miljonäärigryndereille, ja sen laskun maksaa tavallinen vuokra-
+lainen. Keskustalle kokonaisuudessaan haluan todeta: Maaseudun elinvoimaisuus ja se,
+että ihmiset voivat asua omilla paikkakunnillaan, koostuu varmasti monesta asiasta: onko
+siellä hyvät, laadukkaat palvelut saatavilla, [Puhemies koputtaa] onko opiskelupaikkoja.
+Toivottavasti kannatte tästä huolta myös muissa hallituksen esityksissä.
+
+15.31 Ari Torniainen kesk (vastauspuheenvuoro):  Arvoisa rouva puhemies! Maaseutua
+ja kaupunkiasutusta ei missään tapauksessa pidä asettaa vastakkain, vaan ne täydentävät
+toisiaan ja molempia tarvitaan. Se on tosiasia. [Välihuuto] — Se on tosiasia.
+
+Täällä on useissa puheenvuoroissa nostettu esille maankäyttö- ja rakennuslain kokonais-
+uudistus. Se on todellakin tarpeen, me kaikki tiedämme sen, ja täytyy sanoa, että ympäris-
+tövaliokunta oli täysin yksimielinen myöskin tästä asiasta, ja me tiedämme, että ministeri
+Tiilikainen on jo omalta osaltaan viemässä asiaa eteenpäin, että maankäyttö- ja rakennus-
+lain kokonaisuudistus saadaan käyntiin. Se on pitkä prosessi, ja siksi on hyvä, että tämä
+hallituksen esitys menee nytten eteenpäin. Tämä sujuvoittaa rakentamista. Kyllä valiokun-
+takäsittelyssä tuli selkeästi esille, että asiantuntijat olivat kuitenkin sitä mieltä, että vaikka
+tarvitaan maankäyttö- ja rakennuslain kokonaisuudistus, niin myöskin tämä parantaa ra-
+kentamista tulevaisuudessa.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+15.33 Mikko Alatalo kesk (vastauspuheenvuoro): Arvoisa puhemies! Minusta tämä eh-
+dotus on hyvä, ja tässä on nimenomaan idea se, että rakentaminen on vapaampaa ja todel-
+lakin maaseudulle on helpompaa rakentaa maatilan lisärakennuksia ja kesämökkejä, mutta
+tämähän koskettaa myös kaupungeissa tehtäviä kerrostalojen peruskorjauksia ja esteettö-
+myyshankkeita. Nyt tässä on tällainen mittakaavavirhe, että muutama prosenttihan on vain
+maaseudulle rakentamista ja suurin osa gryndaamisestahan tapahtuu täällä kaupungeissa,
+eli kun vapautetaan rakentamista maaseudulla, niin ei tämä nyt maailman ilmastoa kaada,
+elikkä kyllä siellä ihan hyvää rakentamista varmasti tehdään ja ekologista. [Satu Hassi: Ne
+kauppakeskukset!] Kesämökin taikka loma-asunnon kun laittaa kuntoon, se on monessa ta-
+pauksessa ihan energiatehokas ja näin. Että ei siinä mitään suurta vaaraa siinä mielessä tu-
+le.
+
+Hyvä, että lupa-asioissa siirrytään yhden luukun palvelumalliin. Se on myös loistava
+asia. Sitä paitsi, mitä tulee elyn tehtäviin, niin nehän jatkuvat maakunnissa, ja elyllä on pal-
+jon hyviäkin esityksiä. Muun muassa Tampereella, missä valtapoliitikot haluavat tuhota
+hienon Eteläpuiston ja rakentaa mustaa asfalttia ja betonilaatikoita sinne, elyhän on muis-
+tuttanut tämän tärkeän puiston [Puhemies koputtaa] historiallisista ja kulttuurisista arvois-
+ta. Siinä mielessä kyllä varmasti tulevaisuuden maakuntahallinnoillakin on merkitystä
+näissä asioissa. 
+
+15.34 Susanna Huovinen sd (vastauspuheenvuoro):  Arvoisa rouva puhemies! Puutun
+vielä tähän täällä keskustelussa esiin nousseeseen ely-keskusten rooliin ja siihen, että tämä
+esitys nyt käytännössä vie näitä edustaja Alatalonkin mainitsemia elyn mahdollisuuksia
+vaikuttaa käytännössä näihin asioihin. Kun täällä on niin hankalaa hallituspuolueitten
+edustajilla uskoa meitä opposition edustajia ja meidän huoliamme, niin minäpä nyt luen
+ihan suoran sitaatin yhdyskuntasuunnittelun professori Juho Rajaniemen lausunnosta. Hän
+sanoo: "Nämä ely-keskusten valitusoikeuden muutokset, joita hallitus esittää, ovat vastaus
+ongelmaan, jota ei ole olemassa." Näin hän kirjoittaa. Esimerkiksi kaavavalituksissa ely-
+keskusten osuus on vain 4 prosenttia, ja ely-keskusten valitukset menevät huomattavan
+usein, siis noin 80-prosenttisesti, läpi, eli ely-keskukset valittavat harvoin ja pääsääntöises-
+ti sellaisista päätöksistä, joista valittaminen on ollut hallinto-oikeuksien mielestä perustel-
+tua. Tämän mahdollisuuden ely-keskuksilta hallituksen esitys nyt vie.
+
+15.35 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa rouva puhemies! Koskien kau-
+pan suuryksiköiden sääntelyä keskustassa ja keskusta-alueiden ulkopuolella kiinnittäisin
+huomiota siihen, että Suomi on kuitenkin hyvin laaja maa ja meillä alueet ovat erilaisia. On
+pakko nostaa esiin kaakkoisen Suomen alue, missä rajakaupan merkitys on erittäin suuri ja
+jopa 4 000:kin neliömetriä, joka nyt myymälälle sallitaan, on siinä mittakaavassa pieni.
+Olisi tietysti hienoa, että nämä erityisolosuhteet eri puolilla Suomea huomioitaisiin laajas-
+ti, jotta voitaisiin tilanteen mukaan rakentaa myös isompia yksiköitä.
+
+On huomattava, että kun näitä suurempia yksiköitä mahdollisesti rakennetaan, niin ei-
+hän niitä yhteiskunnan varoilla tehdä vaan yleensä taustalla ovat sijoittajat, jotka omaa ra-
+haa laittavat näihin kiinni ja tavallaan kantavat riskiä ja omalla rahallaan vastaavat siitä,
+kannattaako toiminta vai ei.
+
+Totta kai on varmistettava myös se, että taajama-alueilla ja kaupunkilaisilla on mahdol-
+lisuudet käydä ostoksilla ilman ylenpalttista autoilua maaseudulla.
+9
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+15.36 Jani Mäkelä ps (vastauspuheenvuoro): Arvoisa puhemies! Asia on juuri näin kuin
+edustaja Kopra sanoi, että erityisolosuhteet eri paikoissa on huomioitava, ja se huomioimi-
+nen tapahtuu mielestäni parhaiten siten, että kunnille itselleen annetaan näissä asioissa pää-
+tösvaltaa. En nyt oikein ymmärrä opposition näkemyksiä siitä, että kunnat ikään kuin ta-
+hallaan kaavoittaisivat laittomia kaavoja tai veisivät tahallaan palveluita pois ihmisten luo-
+ta. Mihin nämä väitteet oikein perustuvat? Ovatko mielestänne kuntien valtuutetut ja vir-
+kamiehet nyt sitten yksinkertaisia vai pahantahtoisia? Onko tämä se viesti, minkä te haluat-
+te lähettää kuntavaaliehdokkaille tulevissa kuntavaaleissa, että heihin ei luoteta ja heidän
+osaamistaan, kompetenssiaan ja motiivejaan kyseenalaistetaan?
+
+15.37 Susanna Huovinen sd (vastauspuheenvuoro):  Arvoisa puhemies! Kun tätä väärin-
+ymmärryksen ilmapiiriä nyt halutaan tietoisesti tässä ylläpitää, niin totean vielä kerran, että
+esimerkiksi tästä kaupan suuryksikköasiasta, josta täällä on monta puheenvuoroa jo käy-
+tetty, totesin jo aikaisemmin: Kuntaliiton lausunnossa vastustetaan tätä, koska tämä muu-
+tos nimenomaan vie kunnilta mahdollisuuksia tehdä niitä ratkaisuja, joita te täällä perään-
+kuulutatte. Emme me ole täällä sanoneet, että kunnat eivät osaa tehdä päätöksiä, vaan me
+olemme vedonneet siihen, mitä Kuntaliitto — joka kai nyt edelleen edustaa kuntia — on
+todennut valiokunnan asiantuntijakuulemisessa. Näitä lappuja kannattaa lukea eikä esittää
+täällä näkemyksiä, jotka perustuvat puhtaalle uskomukselle jostakin.
+
+15.38 Jari Leppä kesk (vastauspuheenvuoro): Rouva puhemies! Tämä maankäyttö- ja ra-
+kennuslaki on hyvä ja tarpeellinen. Se myös tunnistaa sen, että meillä on erilaisia alueita,
+niillä on erilaisia tarpeita ja niillä on erilaisia vetovoimatekijöitä. Kaupungissa ne ovat ihan
+erilaisia kuin maaseudulla, ja molempia tarvitaan, molemmissa tarvitaan rakentamista.
+Molemmissa on ongelmia tällä hetkellä, ehkä vähän toisinpäin — ainakin jossakin määrin
+niin, että maaseudulla ei ainakaan liikaa rakenneta, vaan päinvastoin, aivan liian vähän. Me
+olemme kaikki olleet lukuisissa eri keskusteluissa tässäkin salissa sitä mieltä, että maaseu-
+dun elinvoimasta pitää pitää huolta. Rakentaminen on yksi kaikkein tärkeimpiä asioita, että
+siellä voi asua ja elää.
+
+Uskon myöskin kuntien haluun järjestää palveluita — en siihen, että nyt tämä jollain ta-
+valla heikentää sinne tulevien uusien asukkaiden palveluja, enkä myöskään siihen, että ke-
+säasuntoja muutetaan vakituisiksi, enkä myöskään siihen, että me tuprutamme toisemme
+hengiltä, niin kuin taisi joku kollega tässä todeta. Teknologia edistyy, meidän liikkumi-
+semme muoto tulee aivan totaalisesti muuttumaan seuraavien vuosikymmenien aikana.
+
+Nyt me valmistaudumme tällä rakentamisella siihen, että joka puolella Suomea myös-
+kin [Puhemies koputtaa] voi asua ja elää ja yrittää.
+
+Puhemies Maria Lohela: Edustaja Rehn-Kivi, ja sen jälkeen puhujalistaan.
+
+15.39 Veronica Rehn-Kivi r (vastauspuheenvuoro): Arvoisa puheenjohtaja! Tämän esi-
+tyksen mukaan elyn toimivaltaa rajoitetaan ja poistetaan valitusoikeus muissa kuin valta-
+kunnallisesti merkittävissä tai suojeluhankkeissa. Mielestäni on todella tärkeätä, että meil-
+lä on viranomaistaho, joka valvoo kuntien kaavoitustoimintaa ja myöskin sen lainmukai-
+suutta ja maakunnan tavoitteiden mukaisuutta. Valitettavasti kunnissa tehdään usein aika
+lyhytnäköisiä päätöksiä, kun on kiire saada joku toimija kuntaan, ja tämä ei auta siinä, mitä
+esimerkiksi isojen kauppakeskusten sijoittaminen keskusta-alueiden ulkopuolelle tulee ai-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+heuttamaan näille kylille. On tärkeätä, että meillä on tämä viranomaistaho, ja kun se nyt
+esityksen mukaan poistetaan elyltä, niin tämä valvonta jää sitten muille toimijoille, esimer-
+kiksi yksityishenkilöille. Mielestäni se ei ole oikein. [Susanna Huovinen: Ei olekaan!]
+
+Puhemies Maria Lohela: Ja listalle.
+
+15.40 Martti Mölsä ps: Arvoisa rouva puhemies! Todetaan nyt vielä kerran, että käsitte-
+lyssä ovat maankäyttö- ja rakennuslain muutos ja ympäristövaliokunnan antama mietintö.
+Muutoksella toteutetaan hallitusohjelman kaavoituksen ja rakentamisen lupien sujuvoitta-
+mista koskevia toimenpiteitä. Muutosten tavoitteena on vähentää kaavoitukseen ja raken-
+tamiseen liittyvää säätelyä, lisätä rakentamismahdollisuuksia sekä edistää elinkeinoelä-
+män toimintaedellytyksiä ja toimivan kilpailun kehittymistä. Tähän väliin on hyvä todeta
+hallitusneuvotteluissa kolmessakin työryhmässä olleena, että neuvottelujen tulokset alka-
+vat näkyä. Tulosta syntyy, Suomi nousee, kun maalla on toimiva hallitus. Toista oli viime
+kaudella.
+
+Otan esiin nyt tässä tärkeimpiä kohtia. Esityksen mukaan yleiskaavan käyttöä rakennus-
+luvan perusteena lisätään, samoin rakennusluvan erityisiä edellytyksiä suunnittelutarve-
+alueella koskevia säännöksiä täsmennetään. Edellä esitettyyn viitaten valiokunta ehdottaa
+137 §:n 2 momentin muuttamista siten, että siihen lisätään maa- ja metsätalouden harjoit-
+tamisen ohella viittaus sen liitännäiselinkeinoon. Liitännäiselinkeinolla tarkoitetaan maa-
+ja metsätalouden harjoittamisen ohella harjoitettavaa, siihen kiinteästi liittyvää sivuelin-
+keinoa, kuten maaseutumatkailuun, hevostalouteen tai kiertotalouteen liittyvää toimintaa.
+Lisäksi maa- ja metsätalouteen liittyvää rakentamista joustavoitetaan.
+
+Asemakaavoitusta helpotetaan ja joustavoitetaan. Asemakaavan hyväksyy yleensä kun-
+nanvaltuusto. Valtuuston päätösvaltaa voidaan kuitenkin siirtää johtosäännössä kunnan-
+hallitukselle tai lautakunnalle. Hallituksen esityksen 52 §:ssä tämä siirtomahdollisuus laa-
+jennetaan koskemaan myös vaikutukseltaan merkittäviä kaavoja. Valiokunta katsoo, että
+lähtökohtaisesti kuntien tulisi pyrkiä kaavoituksessa mahdollisimman suureen avoimuu-
+teen. Myös kunnan mahdollisuuksia päättää rakennusjärjestyksessä vapaa-ajanasuntojen
+käyttötarkoituksen muutosmahdollisuuksista lisätään — eli vapaa-ajanasuinrakennusten
+käyttötarkoituksen muuttamisesta pysyvään asumiseen. Samoin voidaan muuttaa raken-
+nusjärjestystä.
+
+Aurinkopaneelien ja -keräimien osalta toimenpidelupa tarvitaan lähtökohtaisesti vain
+silloin, kun kyse on kaupunkikuvaan tai ympäristöön merkittävästi vaikuttavan aurinkopa-
+neelin tai -keräimen asentamisesta tai rakentamisesta. Vastaavasti maalämpökaivojen po-
+raamisen siirtäminen ilmoitusmenettelyyn olisi suositeltavaa kaikilla alueilla, joilla toi-
+menpidelupa ei tuota mitään lisäarvoa.
+
+Arvoisa puhemies! Vähittäiskauppaa koskevan sääntelyn osalta hallitus on esitykses-
+sään ehdottanut vähittäiskaupan suuryksikön kokorajan nostamista 2 000:sta 4 000 kerros-
+neliömetriin. Maakuntakaavassa vähittäiskaupan enimmäismitoitus pitää jatkossa osoittaa
+vain keskusta-alueen ulkopuolelle. Elinkeino-, liikenne- ja ympäristökeskusten kuntien
+aluekäytön suunnittelu- ja rakennustoimen järjestämistä koskeva ohjaustehtävä ehdote-
+taan poistettavaksi ja valitusoikeus rajattavaksi vaikutuksiltaan valtakunnallisesti ja maa-
+kunnallisesti merkittäviin asioihin. Kaavoitusta koskevien viranomaisneuvottelujen mää-
+rää vähennettäisiin.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+Ympäristövaliokunta pitää muutosehdotuksia oikeansuuntaisina ja kannatettavina op-
+position valituksista huolimatta. Pääosa ehdotuksista on suhteellisen vähäisiä vaikutuksil-
+taan, mutta yhdessä ne kuitenkin toteuttavat tavoitetta lupamenettelyjen sujuvoittamisesta.
+Vähittäiskaupan suuryksikköjä koskevilla muutosehdotuksilla todetaan olevan selkeästi
+suurempi vaikutus. Hallituksen esityksen tavoitteena on, että ely-keskuksen rooli muuttuu
+ja painottuu valtakunnallisesti merkittäviin asioihin. Ne eivät jatkossa enää ohjaa kuntien
+alueidenkäyttöä ja rakennustoimen järjestämistä, kun lain 80 §:ssä ehdotetaan poistetta-
+vaksi ohjaustoimivalta.
+
+Tämä puheenvuoro oli helppo pitää, omatunto ei kolkuttanut. Ehkä oppositiolla saattaa
+kolkuttaa. [Välihuutoja vasemmalta]
+
+15.45 Eeva-Maria Maijala kesk:  Arvoisa puhemies! Meillä oli valiokunnassa tämän
+asian käsittelyn yhteydessä hyvin värikästä ja mielenkiintoista keskustelua. Nyt kun siellä
+olen kuullut asiantuntijat ja nyt kun tässä salissa olen kuullut tämän keskustelun, olen en-
+tistä enemmän vakuuttunut siitä, että oli erittäin hyvä, että tämä kyseisenlainen lakimuutos
+tehtiin — se oli todella tarpeellinen, ja siitä tuli ajan hengen mukaisesti oikeanlainen. Kyse
+on ennen kaikkea byrokratian purkamisesta, toimintojen sujuvoittamisesta ja hallitusohjel-
+man mukaisten ratkaisujen tekemisestä.
+
+Ensimmäinen asia, kun puhuttiin byrokratian purkamisesta, on maisematyölupa-asia.
+Aikaisemmin maisematyölupa on voitu määritellä yleiskaava-alueella myöskin M-alkui-
+sille alueille. Mutta mitä tämä maisematyölupa M-alkuisille alueille on tarkoittanut?
+Asiantuntijoitten mukaan ensimmäistäkään kielteistä ratkaisua ei ole maisematyöluvalle
+tullut näillä M-alkuisilla alueilla. Eli joka ikinen lupahakemus on käsitelty myönteisesti.
+Lupahakemus on maksanut kunnittain 100—1 000 euroa. Se on aiheuttanut valtavan mää-
+rän byrokratiaa, turhaa toimintaa — siitä on nytten päästy onneksi tämän avulla pois.
+
+Lisäksi tämä maisematyölupa on asettanut ihmisille ylimääräistä luuloa ja kuvitelmaa,
+että sillä olisi ollut merkitystä. Nyt kun tässä laissa selvästi sanotaan, että näille M-alkui-
+sille alueille ei maisematyölupa-asiaa tarvita, niin tässä toimitaan niin, että jo kaavanteko-
+vaiheessa huomioidaan nämä alueet, joihin kohdistuu erityisiä toiveita, niin että jos on esi-
+merkiksi tavoite, ettei siellä avohakkuita tehdä, niin se kirjataan jo silloin kaavantekovai-
+heessa. Lisäksi meillä on olemassa uusi metsälaki, jossa on selvästi sanottu monia asioita,
+ja se kyllä auttaa hyvinkin paljon maisema-alueitten hoitamisessa.
+
+Sitten muita asioita. Tämä toinen kohta, "Rakennusluvan erityiset edellytykset suunnit-
+telutarvealueella": tästä pykälästä minä olen erittäin tyytyväinen, sillä olen ollut puheissa
+useammankin henkilön kanssa eri puolilta Suomea, jotka ovat tuskastelleet tämän asian
+kohdalla, kun suunnittelutarvealueelle ei ole joillakin alueilla saanut rakentaa juuri mitään.
+Nyt onneksi tähän lakiin saatiin se, että "saa rakentaa jo olevaan asuntoon tai maatilaan
+kuuluvan talousrakennuksen sekä jo olevaan maaseutuyritykseen kuuluvan maa- ja metsä-
+talouden tai sen liitännäiselinkeinon harjoittamista varten tarpeellisen rakennuksen". Tämä
+teksti on todella tarpeellinen, tämä auttaa maaseudun monimuotoista yritystoimintaa. Siitä
+olen myöskin valiokunnan jäsenille erittäin kiitollinen, että me saimme laajennettua tämän
+pykälän myöskin sellaiseksi, että se mahdollistaa monipuolisen yrittämisen.
+
+Sitten tästä elyn valitusoikeusasiasta. Minusta on todella hyvä, että tämä rajaaminen teh-
+tiin hallituksen esityksen ja meidän valiokuntamme päätöksen mukaisesti. Tässä on paljon
+käyty keskustelua siitä, miten elyn valitusoikeusasialle käy. Nyt käsitykseni mukaan toi-
+mitaan niin, että jatkossa keskitytään enemmän sen varsinaisen päätöksen tekemiseen ker-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+ralla kunnolla sekä kuntatasolla tehdään päätökset huolellisesti loppuun asti, ja kun tiede-
+tään, että siellä ei ole takaporttina sitä, että elyltä voi saada kielteisen päätöksen, niin myös-
+kään kunnissa ei voida käyttää tätä väärin. Toinen on se, että elyn rooli on nyt, niin kauan
+kun ely vielä on olemassa, enemmänkin keskusteleva. Elikkä keskustellen käytetään voi-
+mavarat yhdessä, niin että saadaan kerralla kunnollinen ratkaisu ja päätös.
+
+Tämä koko uudistushan on askel kohti maakuntahallintouudistusasiaa. On kysytty, tar-
+vitaanko ja onko järkevää tehdä tätä päätöstä tässä vaiheessa. Mielestäni oli ehdottomasti
+hyvä, että se tehdään nytten, koska tässä maakuntahallintokokonaisuudessa on paljon
+asioita tulossa vielä eteenpäin. Että on kuitenkin selvästi hyväksytty asia tälle kokonaisuu-
+delle olemassa.
+
+Sitten vielä muutaman asian sanon vapaa-ajanasunnon muuttamisesta vakituiseksi asun-
+noksi. Tässä me emme välttämättä onnistuneet ihan niin hyvin kuin oli tavoitteena ja tar-
+koituksena, mutta askel tämäkin on kuitenkin eteenpäin, että pikkusen saimme helpotettua
+tätä asiaa. Vapaa-ajan asumisen osalta tavoitteena on ollut myöskin se, että jatkossa vapaa-
+ajanasujat voitaisiin enempi saada veronmaksajiksi kuntaan elikkä näille tulisi tämmöinen
+kaksoiskuntalaisuus. Miten tämä jatkossa saadaan tehtyä? Toivottavasti saamme maan-
+käyttö- ja rakennuslakia ja verotuslakiuudistuksia kehitettyä sillä tavalla, että myöskin
+loma-asunnossa asuvat maksaisivat esimerkiksi osalta vuotta verot siihen kuntaan, missä
+asuvat todellisuudessa sillä hetkellä.
+
+15.51 Antero Laukkanen kd: Arvoisa rouva puhemies! On ollut hyvä kuulla näitä pu-
+heenvuoroja, erityisesti valiokunnassa istuvien ihmisten puheenvuoroja ja eri näkemyksiä
+tästä. En ehkä ole paras asiantuntija lausumaan tästä, mutta on tullut istuttua tuolla Espoos-
+sa kuitenkin 14 vuotta valtuustossa, jossa näitä kaavoja todella paljon käsitellään ja jossa
+pohditaan sitä, miten tätä kaavoitusmenetelmää voitaisiin kehittää ja parantaa.
+
+En varmaan ole hirveän väärässä, jos totean, että ennen viime eduskuntavaaleja lähes
+kaikki ehdokkaat nostivat erilaisissa vaalikoneissa erityiseksi muutostarpeeksi kaavoituk-
+sen sujuvoittamisen, ja toinen asia oli valittamisoikeuden tarkastelu, jotta nämä valitukset
+vähenisivät. Tämä tuntui olevan sellainen yhteinen tahtotila siellä. Sen takia ehkä pikkasen
+ihmetyttää ja mietityttää se, että on niin kova vastustus tälle esitykselle, joka nyt on tuotu.
+Pidän itse hyvänä sitä, että tämä on tuotu, vaikka tämä olisi voitu tuoda jossain laajemmas-
+sa kokonaisuudessa ehkä vieläkin parempana ja toimivampana. Nostan muutaman asian
+tässä esille.
+
+Tämä kaavoituksen sujuvoittaminen on kokonaisuudessaan hyvä tavoite. Tässä tavoitel-
+laan asemakaavoituksen helpottamista erityisesti vaiheittaisen asemakaavan kautta, jossa
+voidaan selkeästi — kun nähdään, että joku alue asemakaavassa on semmoinen riitaherkkä
+alue — siinä suunnittelussa rajata se ulkopuolelle ja tuoda ne osat sitä asemakaavan muu-
+tostarvetta päätökseen, joissa se yksimielisyys siellä valtuustossa helpommin syntyisi ja
+niitä valituksia ei tulisi. Minusta tämä on hyvä muutos, koska se järkevöittää sitä kaavoi-
+tuksen tekemistä. Espoossa, ihan näin kuriositeettina, ei ole ollenkaan harvinaista, että yh-
+den kaavan läpivieminen siihen, että se rakentaminen lopulta alkaa, saattaa viedä viisi
+vuotta helposti. Kyllä se on kohtuutonta kaikille, jotka haluavat rakentaa ja olla investoi-
+massa varsinkin kasvaviin kaupunkeihin.
+
+Sitten käyttötarkoitusten muutosmahdollisuuksia lisätään. Myös se on tervetullut muu-
+tos. Maisematyöluvan soveltamisalaa rajataan, siihen tulee helpotuksia. Joskus on aivan
+käsittämättömiä näkemyseroja, jotka sitten viedään niin korkeisiin oikeusistuimiin kuin
+13
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+mahdollista, ja sillä tavalla 1,5—2 vuotta viivytetään jonkun muuten täysin selvän ja hy-
+vän kaavan toteutumista.
+
+Viranomaisneuvotteluja vähennetään. Tämäkin on ihan erinomainen muutos. Valitetta-
+vasti kotikaupunkini Espoo on huono esimerkki kaavoituksesta verrattuna esimerkiksi
+Vantaaseen ja Helsinkiin, joissa kaavoitus on paljon inhimillisempää ja joustavampaa.
+Eräs ystäväni osti talon, jossa oli kylpyhuone ilman mitään lupia muutettu asuinhuoneeksi,
+kun sitä ei enää tarvittu. Ostaja oli rehellistä tyyppiä oleva henkilö ja meni ja haki sitten ra-
+kennusluvan tälle muutokselle, jossa lähinnä palautettiin oikeaan käyttöön tämä kylpyhuo-
+ne. Espoo edellytti häneltä rakennustapaselostusta, arkkitehtipiirustuksia ja niin edelleen,
+ja lasku oli 5 000 euroa. On kyllä hyvä, että näihin asioihin tässä tuodaan jotain tolkkua.
+
+Kaiken kaikkiaan tämä lisää kunnan harkintavaltaa kaavoituksen periaatteita luotaessa,
+ja siihen tämä tuo hyvän mahdollisuuden. Heikkoutena tässä esityksessä tosiaan näen tä-
+män suuryksikkökaupan nostamisen 2 000 neliöstä 4 000 neliöön ja ylipäätään sen proses-
+sin, mihin näitä suuryksiköitä sijoitetaan ja minkälaisia ne ovat. Ikään kuin sen vallan vie-
+minen enemmän pois siltä valtuustolta — vaikka pelkästään sinne kunnanhallitukseen —
+on minusta huono muutos tässä. Muuten pidän tätä hyvin tervetulleena, ja varmaan tämä-
+kin tästä sitten vuosien saatossa vielä paranee. — Kiitoksia.
+
+15.56 Thomas Blomqvist r:  Värderade fru talman, arvoisa puhemies! Som helhet väl-
+komnar jag regeringens strävan att förenkla, tydligaregöra regleringen i anslutning till
+planläggning och byggande. Det är bra att förhållandet till det grundlagsenliga ansvaret för
+miljön, och samtidigt egendomsskyddet och frågor kring det kommunala självstyret har
+beaktats — tycker jag — i den här lagstiftningen, och också förbättrats. En gynsam lands-
+bygdsutveckling har positiva följder för miljön, för lantbruket som näring och för hela
+landsbygden. Jag stöder alltså en ökad kommunal bestämmanderätt i styrningen av områ-
+desanvändningen och den begränsning som det här innehåller för ntm-centralens besvärs-
+rätt. Det stärker kommunens och den lokala demokratins möjligheter att påverka samhälls-
+utvecklingen. Jag tycker att också de förändringar som gäller skogsbruket är välmotivera-
+de. Till exempel det som är innehållet här, att slopa kravet på tillstånd för miljöåtgärder, är
+motiverat och välkommet. 
+
+Jag är glad över att regeringen i den här frågan valt att decentralisera beslutsfattandet,
+när man annars i många andra frågor valt att centralisera. Bra så här, besluten ska fattas
+nära människan, ute i kommunerna.
+
+Arvoisa puhemies! Tähän liittyen on hyvä todeta, että maatalous on ahdingossa ja joka päi-
+vä suomalaisia tiloja lopettaa toimintansa kokonaan. Sen takia on äärimmäisen tärkeää,
+että maaseudulle ja maaseutuelinkeinoille tarjotaan mahdollisuuksia kehittyä. Kaavoituk-
+seen ja rakentamiseen liittyy aika paljon sellaista byrokratiaa, joka estää tai ainakin hidas-
+taa alueiden kehittymistä. Normien purku on siis minusta hyvä asia. Tämän lakiehdotuk-
+sen tarkoitus on vähentää kaavoitukseen ja rakentamiseen liittyvää sääntelyä keventämällä
+ja selkeyttämällä kaavoitusta ja rakentamista koskevia säännöksiä sekä lisätä rakentamis-
+mahdollisuuksia.
+
+Kokonaisuutena siis kannatan tätä pyrkimystä ja näen tämän ehdotuksen, mikä meillä on
+käsittelyssä, niin, että siihen sisältyvät pyrkimykset ovat myönteisiä sekä kaavoitusproses-
+sien sujuvoittamiseksi että alueiden kehittämisen esteiden purkamiseksi. Esitys sisältää
+muutosehdotuksia, joiden tavoitteena on juuri sujuvoittaa ja vähentää kaavoitukseen ja ra-
+14
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+kentamiseen liittyvää sääntelyä, ja se on hyvä asia. Minusta myös se, että kuntien itsemää-
+räämisoikeutta lisätään ja se vahvistuu, on hyvä asia. Päätökset pitää tehdä lähellä ihmistä
+ja demokraattisesti.
+
+Tässä on tietysti myös yksityiskohtia, esimerkkinä tämä suuryksikkökauppa, joka mi-
+nun mielestäni olisi voinut saada toisenlaisen muotoilun. Mutta kokonaisuutena pidän näi-
+tä muutosehdotuksia oikeansuuntaisia ja kannatettavina. — Kiitos.
+
+16.00 Ari Torniainen kesk: Arvoisa rouva puhemies! Hallituksen esitys, tämä uudistus,
+tuo menettelyllisiä ja sisällöllisiä helpotuksia maankäytön suunnitteluun Suomessa. Helpo-
+tukset nopeuttavat kaavaprosesseja ja edistävät asuntorakentamista koko Suomessa, niin
+kaupungeissa kuin myöskin maaseudulla. Se on hyvä asia.
+
+Muun muassa vapaa-ajanasuntojen käyttötarkoituksen muuttaminen pysyvään asumi-
+seen helpottuu, ja se on tämän jälkeen kuntien ja kuntapäättäjien päätettävissä. Hyvä asia
+on myöskin se, että aurinkopaneelien ja -keräimien asentaminen ja rakentaminen helpot-
+tuu. Tietysti kulttuurihistoriallisesti merkittävät alueet ja rakennukset tulee ottaa hyvin
+huomioon.
+
+Lähes turhaa byrokraattista maisematyölupamenettelyä muutetaan olennaisesti. Itse pi-
+dän sitä erittäin hyvänä, ja on hyvä myöskin se, että valiokunta omassa mietinnössään kir-
+jasi myöskin, mitä ovat vähäiset toimenpiteet esimerkiksi metsähakkuissa. Siellä todetaan,
+että "vähäisillä toimenpiteillä tarkoitetaan esimerkiksi taimikon hoitotoimenpiteitä, kasva-
+tushakkuita sekä myrsky- ja hyönteistuhojen korjaamista" elikkä ylipäänsä toimenpiteitä,
+joiden maisemalliset vaikutukset jäävät vähäisiksi. Tämä "vähäiset toimenpiteet" on ai-
+heuttanut paljon keskustelua nimenomaan siitä, mitä ne tarkoittavat silloin, kun kunnissa
+tehdään yleiskaavoja.
+
+Kaiken kaikkiaan hallituksen esitys on omasta mielestäni hyvä, ja kun täällä on jo aikai-
+semmin otettu tämä maankäyttö- ja rakennuslain kokonaisuudistus, niin itse vilpittömästi
+toivon, että sitä hanketta hallitus vie myöskin määrätietoisesti eteenpäin ja se toteutetaan.
+Tiedän, että se on pitkä prosessi: edellinen kokonaisuudistus taisi viedä 9 vuotta, mutta us-
+kon, että nyt toteutettava kokonaisuudistus voidaan viedä nopeammin.
+
+16.02 Susanna Huovinen sd: Arvoisa herra puhemies! Tässä on käyty jo keskustelua täs-
+tä esityksestä ja valiokunnan mietinnöstä. Itse toteaisin kuitenkin, että nyt norminpurkua ja
+lupa-asioiden sujuvoittamista, jolle on varmasti laaja tuki myös täällä eduskunnassa, teh-
+dään kyllä tässä esityksessä aika kyseenalaisin konstein ja valitettavasti lapsi menee tässä,
+ainakin muutamissa kohdissa, pesuveden mukana.
+
+Niin kuin tässä juuri edellinen puhuja totesi, maankäyttö- ja rakennuslaki todellakin tar-
+vitsisi tällaisen jatkuvan osauudistusten sarjan sijaan kokonaisuudistusta, koska tämä 20
+vuotta vanha laki ei kyllä vastaa nykypäivän alueidenkäytön suunnittelun tarpeita. Tässä
+on lukuisia ongelmia, keskeisimpinä ehkä kaavojen liian pitkät valmistumisajat, kaavapro-
+sessien jäykkyys, joustamattomuus ja myös kytkökset asuntotuotantoon, jotka ovat, niin
+kuin ymmärrämme täällä, hyvin merkittäviä.
+
+Puhemies! Puutun tässä vain kahteen keskeisimpään ongelmakohtaan eli tähän ely-kes-
+kusten valitusoikeuden poistamiseen ja sitten tähän vähittäiskauppakysymykseen.
+
+Niin kuin täällä jo totesin, meille on valiokunnassa vakuuttavalta taholta esitetty — yh-
+dyskuntasuunnittelun professori Juho Rajaniemi esittänyt — että nimenomaan tämä ely-
+keskusten valitusoikeuden rajaaminen on asia, jossa on kyse muutoksesta, joka on vastaus
+15
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+ongelmaan, jota ei ole olemassakaan. Esimerkiksi näissä kaavavalituksissa ely-keskusten
+osuus on vain noin 4 prosenttia, siis 4 prosenttia. Kun täällä hirviteltiin tätä valitusten mää-
+rää, niin voisi siis sanoa, että nämä ely-keskukset, joilta nyt viedään tämä valitusoikeus, ei-
+vät ole tämän ongelman ydin ja siksi tämä ratkaisu, mikä tässä esitetään, on väärä tähän
+asiaan. Ely-keskusten valitukset ovat myös, niin kuin todettiin, menneet huomattavan
+usein läpi. Ely-keskukset siis valittavat vain harvoin ja pääsääntöisesti päätöksistä, joista
+valittaminen on hallinto-oikeuksien mielestä ollutkin perusteltua. No, täällä on keskuste-
+lun kuluessa tästä asiasta todettu, että jatkossa elyn rooli olisi mieluumminkin tämmöinen
+keskusteleva, mutta meille ei ole kyllä käynyt selville, kuka sitten jatkossa hoitaa tätä nyt
+ely-keskuksilla olevaa merkittävää tehtävää, kun kerran hallinto-oikeudetkin ovat katso-
+neet, että nämä ely-keskusten valitukset ovat olleet aivan perusteltuja. Eli kuka jatkossa te-
+kee tätä työtä? Vastaus ilmeisesti on, että tämä jää jatkossa kuntalaisten ja erilaisten järjes-
+töjen varaan. Tällaista valtion laillisuusvalvonnan siirtoa ei voida katsoa kannatettavaksi.
+Lisäksi tähän liittyy kysymys siitä, että kun ely-keskuksilla on ollut mahdollisuus kuiten-
+kin arvioida sitä, millä tavalla taloudellisten tekijöiden ja ympäristön välillä tasapainotel-
+laan, mitä ely-keskuksissa tehdään, ja sitä on perustellusti tehty hyvin harkiten, niin kenel-
+le jää tämä jatkossa. Pelkään, että alueelliset erot ja oikeudelliset tulkinnat tulevat vain li-
+sääntymään ja vaikeuttamaankin osaltaan sitten tätä kokonaistyötä, jossa yhtenä osana tätä
+kokonaisuutta on nyt ollut keinovalikossa tämä ely-keskusten mahdollisuus puuttua räi-
+keimpiin tapauksiin.
+
+Puhemies! Sitten totean vielä vähittäiskaupan osalta todellakin sen, että kun täällä mie-
+lestäni sisäisesti ristiriitaisesti tästä samasta MRL:n muutoksesta puhuttaessa osa edusta-
+jista kovasti vaati tätä kuntien mahdollisuuksien lisäämistä, niin tässä asiassa kunnilta vie-
+dään vaikutusmahdollisuuksia. Ja niin kuin totesin jo aiemmin, Kuntaliitto siis vastustaa
+tämän 71 e §:n kumoamista, koska kunnat ovat nyt tämän voimassa olevan säännöksen
+mukaan voineet antaa kaavamääräyksiä vähittäiskaupan laadusta ja koosta, silloin kun se
+kaupan palvelujen saatavuuden kannalta on ollut tarpeen — tämäkin on hyvä muistaa: ei
+missä tahansa asiassa, vaan silloin kun se on kaupan saatavuuden kannalta ollut tarpeen —
+ja tämä on tehty paikallisesti kunnan maankäytön ohjaustarpeen mukaan ja nyt tämä ei ole
+enää jatkossa sitten mahdollista. Kuntaliitto aivan oikein mielestäni toteaa: "Tämä muutos
+heikentää kuntien mahdollisuutta ohjata tarvittaessa kaupallisten palveluiden sijoittumista
+yhdyskuntarakenteessa muun muassa suhteessa asumiseen ja liikenneyhteyksiin. Palvelu-
+verkon ja liikenteen suunnittelun edellytysten heikentyminen vähentää yhdyskuntien ke-
+hittämisen hallittavuutta ja voi aiheuttaa merkittäviä taloudellisia vaikutuksia kunnille,
+muun muassa ennakoimattomia liikenneverkon kehittämistarpeita ajatellen." Olisin tieten-
+kin toivonut, että kun näin painava sana Kuntaliitolta tulee, niin tätä olisi harkittu hieman
+pidempään, koska kaikki tiedämme, että meillä on melkoiset ilmastohaasteet sylissä ja täl-
+lä on valitettavasti kielteinen vaikutus myös näihin asioihin.
+
+16.08 Jukka Kopra kok: Arvoisa herra puhemies! Käsittelyssä oleva esitys maankäyttö-
+ja rakennuslain muuttamiseksi on kannatettava. Erityisesti Kaakkois-Suomen alueella on
+rajakauppa kärsinyt pitkään vähittäiskauppojen kauppakokoon liittyvistä rajoituksista. Nyt
+esityksessä kaupan suuryksiköiden sääntely kevenee merkittävästi muun muassa siten, että
+vähittäiskaupan suuryksikön kokoraja nostetaan 2 000 neliöstä 4 000 kerrosneliömetriin.
+Tämä on hyvä muutos, mutta on todettava, ettei se 4 000 kerrosneliömetriä kovinkaan pal-
+joa ole vaan vastaa kooltaan keskikokoista supermarkettia. On tärkeää, että sääntelyä ke-
+16
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+vennetään tältä osin, ja sitä voitaisiin keventää vieläkin enemmän. En tarkoita, että maa-
+seudulle tulisi rakentaa kauppakeskuksia joka paikkaan, mutta se tulisi kätevämmin sallia
+siellä, missä tarve ja asiakaspotentiaali ovat ilmeisiä. Erityisesti Kaakkois-Suomessa, jos-
+sa rajakaupan kasvun mahdollisuudet ovat suuret, tulisi voida vieläkin vapaammin raken-
+taa mahdollisuuksia kaupankäynnin kehittymiselle. Nykysäännöstö ei ole tässä suhteessa
+ollut hyvä kaupankäynnin kehittymisen kannalta.
+
+Ely-keskusten roolin muuttaminen konsultoivaksi on tervetullut muutos. Kun kunnan
+alueidenkäytön suunnittelua ja rakennustoimen järjestämistä koskeva ohjaustehtävä pois-
+tetaan, on odotettavissa, että hankkeiden laatu paranee ja aikataulut kehittämishankkeilla
+nopeutuvat. Aikomus rajata ely-keskusten valvontavaltaa ja valitusoikeutta siten, että ne
+valvovat kuntien alueidenkäyttöä ja rakentamista vain, jos ratkaisun vaikutukset ovat val-
+takunnallisia tai maakunnallisesti merkittäviä, on oikea. Valitusoikeuden rajaaminen jää
+mitä ilmeisimmin hyvin lyhyen ajan voimassa olevaksi sääntelyksi, sillä ely-keskukset la-
+kannevat maakuntauudistuksen myötä. Tämä vähentää muutoksen käytännön merkitystä.
+
+Yleiskaavan käytön laajentaminen on positiivista kehitystä. Rakentaminen haja-asutus-
+alueilla helpottuu, kun yleiskaavan perusteella voidaan rakentaa ilman erillistä suunnitte-
+lutarveratkaisua myös sellaisissa kylissä, joissa on merkittävää rakentamispainetta. Voi-
+massa oleva sääntely on johtanut siihen, että yleiskaavaa ei ole voitu käyttää rakentamisen
+suoraan ohjaamiseen sellaisilla kaupunkiseutuihin kuuluvilla asemakaavan ulkopuolisilla
+alueilla, joille ei kannata tai ole tarkoituksenmukaista laatia asemakaavaa. Tervetullut on
+myös muutos, jonka myötä vapaa-ajanasunnot voidaan helpommin muuttaa pysyvään asu-
+miseen. Jatkossa kunta voisi osoittaa rakennusjärjestyksessään sellaiset kaavoittamatto-
+mat alueet, joilla vapaa-ajanasunto voidaan muuttaa pysyvään asuinkäyttöön ilman, että
+tarvitaan poikkeamispäätöstä tai suunnittelutarveratkaisua. Tämä on oikea suunta.
+
+Arvoisa puhemies! Kaiken kaikkiaan nyt puheena oleva maankäyttö- ja rakennuslain
+muutos on oikeansuuntainen ja kannatettava.
+
+16.11 Eerikki Viljanen kesk:  Arvoisa puhemies! Olen erittäin tyytyväinen siitä, että
+tämä maankäyttö- ja rakennuslain uudistaminen on edennyt päätösvaiheeseen ja saadaan
+voimaan huhtikuun alussa. Pidän hyvänä, että yleiskaavan käyttömahdollisuutta rakennus-
+luvan perusteena lisätään ja tarvittaessa suunnittelutarveratkaisut voidaan tehdä jatkossa
+myös alueellisina. Tämä mahdollistaa nykyistä suunnitelmallisemman rakentumisen alu-
+eilla, joilla rakentamispaine ei ole niin merkittävää, jotta aluetta asemakaavoitettaisiin.
+Tämä kirjaus siis antaa mahdollisuuksia myös tietynlaiselle kyläkaavoitukselle eli suunni-
+telmalliselle mutta huomattavasti nykyistä vapaammalle rakentamiselle haja-asutusalueil-
+le. Tämä toki asettaa paineita yleiskaavoituksen kehittämiseen nykyistä vuorovaikuttei-
+semmaksi prosessiksi, jotta turhilta valituksilta kaavoitusprosessissa vältytään, mutta jotta
+tämä toteutuu, kussakin kunnassa ja kaupungissa pitää myös voimassa olevan rakennusjär-
+jestyksen tukea edellä mainitun kaltaista kehitystä. Esimerkiksi kotikunnassani teimme jo
+viime syksynä päätöksen koko kunnan kattavan yleiskaavan laatimisesta. Tämä oli hyvä
+päätös, mutta nyt tätä hyvää päätöstä yritetään vesittää rakennusjärjestyksen muutoksella,
+jolla koko kunta myös määriteltäisiin suunnittelutarvealueeksi, mikä todellakaan ei ole tar-
+koituksenmukaista.
+
+Arvoisa puhemies! Kerroin tämän valitettavan esimerkin siksi, että kun näillä useilla
+muutoksilla kuntien valtaa rakentamisen ja kaavoituksen asioissa lisätään, päätösvaltaa
+tuodaan lähemmäs niitä, joita päätökset koskevat, niin nyt jos koskaan on entistäkin tär-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+keämpää se, millaisia luottamushenkilöitä paikallisessa päätöksenteossa on mukana, jotta
+nämäkin hyvät lakimuutokset saadaan hyödynnettyä.
+
+16.13 Riitta Myller sd: Arvoisa puhemies! Tässä maankäyttö- ja rakennuslain muutosesi-
+tyksessä on kyse isosta joukosta hyvin erimittaisia esityksiä. Ei ole mitään ongelmaa hy-
+väksyä tällaista pienimuotoista lisärakentamista maaseudulla, mutta ongelman muodostaa
+se, että sitä ei ole juurikaan määritelty, mitä se pienimuotoinen rakentaminen on. Joka ta-
+pauksessa se ei ole ongelma, jos se pysyy pienimittaisena, ei myöskään se, että kesämök-
+kejä muutetaan vakituisiksi asunnoiksi — siitä päättää kunta, ja kunta vastaa kustannuksis-
+ta, jos niitä aiheutuu — ei myöskään se, että aurinkopaneeleja saadaan helpommin laitet-
+tua katoille. Kaikki nämä ovat ihan järkeviä muutoksia.
+
+Mutta tämä laki pitää sisällään myös todella isoja muutoksia, joista kyllä pidän erittäin
+hankalana yleiskaavan käyttöä rakennusluvan perusteena erityisesti silloin, jos sitä käyte-
+tään ja kun sitä käytetään sellaisilla kasvavilla kaupunkialueilla, joilla on erityistä rakenta-
+mispainetta. Kuitenkin asemakaavalla kyetään ottamaan paremmin huomioon asumiseen,
+asumisviihtyvyyteen liittyvät erilaiset tarpeet, myöskin se, miten palveluja sijoitetaan täl-
+laiselle kasvavalle alueelle. Eli yleiskaava ei toimi sellaisena välineenä, jolla kyetään eri-
+laisia, ehkä ongelmatilanteitakin yhteensovittamaan ja ratkaisemaan asukkaiden parhaaksi.
+
+Erittäin iso ongelma on ely-keskusten valvontatehtävien muuttaminen. Noissa lain pe-
+rusteluissahan sanotaan selkeästi, että kuntien kaavoituksen laillisuusvalvonta jää järjestö-
+jen ja kansalaisten tehtäväksi. On hyvin erilaisia kuntia ja hyvin erilaisia resursseja kansa-
+laisilla ja järjestöillä tehdä tätä työtä, eikä missään oikeusvaltiossa ole tällaista toimenpi-
+dettä esitetty. Kyllä hallinnolla pitää olla myös toimiva laillisuusvalvonta. Täällä on jo
+monta kertaa sanottu, että elyt ovat tehneet valituksia vain silloin, kun ne ovat osoittautu-
+neet tarpeellisiksi. Noin 4 prosenttia valituksista on ely-keskusten tekemiä, ja niistä noin 90
+prosenttia on menestynyt, eli tämä on ollut tärkeä reitti saada asianmukaista ja oikeuden-
+mukaista kaavoitusta aikaiseksi. Vielä on sitten se, että mehän emme todellakaan tiedä, mi-
+ten näitä asioita tulevassa maakuntauudistuksessa ratkaistaan, ja sen vuoksi tämä kokonai-
+suus olisi ollut järkevä jättää tuon uudistuksen yhteydessä tehtäväksi.
+
+Täällä on paljon puhuttu sujuvoittamisesta ja byrokratian purkamisesta. Nyt tuossa la-
+kiehdotuksessa, joka on täällä käsittelyssä, sanotaan, että ely voi tulevaisuudessakin valit-
+taa sellaisista kaavoista, joilla on valtakunnallista merkitystä, mutta sitäkään ei ole määri-
+telty millään tavalla, miten tämä valtakunnallisuus tulkitaan. Tämä on jo ensimmäinen vai-
+he, jossa sitten näitä oikeusasteita tarvitaan.
+
+Täällä on paljon puhuttu myöskin kaupan suuryksiköitten sijoittamisesta. Tämähän on
+semmoinen asia, mistä monissa vaaleissa on ollut paljon puhetta, siinä on annettu lupauk-
+sia sinne ja lupauksia tänne, ja ehkäpä niitä lupauksia on myöskin vaadittu. Saattaa olla, ja
+itse ajattelen näin, että tämä muutos tulee siinä mielessä myöhässä, että kansalaisten ostos-
+käyttäytyminen on sen verran muuttunut esimerkiksi digitaalisuuden ja verkkokaupan seu-
+rauksena, että välttämättä tällaisiin suuryksiköihin ei enää kuluttajilla ole tarvetta hakeutua
+niin suuressa määrin kuin arvioidaan. Vielä suurempi ongelma lyhyellä tähtäimellä, jos
+tätä mahdollisuutta lähdetään noudattamaan, on se, että se vie jostakin palveluja, ja se vie
+nimenomaan maaseudulta, haja-asutusalueelta, ja sitten vähentää siellä asuvien ihmisten
+mahdollisuutta saada lähipalveluja. Tämä on sellainen asia, mikä varmasti kannattaisi
+myöskin hallituspuolueitten kansanedustajien, jotka puhuvat maaseudun puolesta, ottaa
+huomioon.
+18
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+16.19 Jani Mäkelä ps: Arvoisa puhemies! On mukava havaita, että tämä tärkeä ja odotet-
+tu esitys on käsitelty valiokunnassa ytimeltään säilyneenä.
+
+Esitys on odotettu ja helpottaa monia asioita. Perussuomalaisille on tärkeää, että yritys-
+ten toimintaedellytykset paranevat. Se tuo suoraan työpaikkoja, ja rakentaminen vauhdit-
+tuu, ja ennen kaikkea kunnat voivat itse päättää paremmin asioistaan ja kehittää omia toi-
+mintojaan. Esimerkiksi kun äsken mainittiin, että jos suuryksiköille ei ole tarvetta, niin ei-
+hän niitä enää kaavoiteta kunnan toimesta, tai jos tarvitaan, niin kaavoitetaan. Kaavoitus on
+jatkossa entistä keskeisempi osa kunnille jäävää tehtäväkenttää maakuntauudistuksen
+myötä.
+
+Myöskin olennainen tehtäväkenttä kunnilla on elinkeinoelämän elinvoiman tukeminen
+ja mahdollistaminen, ja se tehdään osittain kaavoittamisen kautta. Ei ole suuri yllätys, että
+jälleen kerran sosiaalidemokraatit ja vasemmisto ovat tehneet vastalauseen esitykseen,
+joka lisäisi yritysten elinvoimaa ja maaseudun elinvoimaa ja antaisi kunnille mahdollisuu-
+den kehittää omaa aluettaan. Tällainen ei-puolue-toiminta on yhteiskunnan suuri jarruvoi-
+ma: kaikki yritetään vesittää vaatimalla kokonaisselvityksiä. Ei saa sammuttaa väärin —
+tämä on kai opposition keskeinen periaate. Kaikki lykättäisiin maakuntauudistuksen jäl-
+keen, maakuntauudistuksen, jota osa oppositiosta kuulostaa vastustavan.
+
+Vihreiden vastalause on ideologinen pohjaltaan. Kyse on pohjimmiltaan siitä, että halut-
+taisiin keskittää päätösvalta virastoihin ja että siellä asuisi suurempi viisaus kuin paikallis-
+tasolla. Erikoiseksi tämän tekee se, että vastalauseessa toinen viranomainen nostetaan toi-
+sen yläpuolelle, se mieluisampi viranomainen, jolta tulee ideologisesti sopivampia kannan-
+ottoja. Erikoista on myös vetoaminen Kuntaliiton melko ideologisen väritteiseen lausun-
+toon.
+
+16.21 Hannu Hoskonen kesk:  Arvoisa herra puhemies! Maankäyttö- ja rakennuslain
+muutos on mielestäni yksi hallituksen tärkeimpiä lakihankkeita, mitä tällä vaalikaudella
+viedään eteenpäin. On selvä asia, että jos me haluamme tästä laman suosta ulos ja ylös, niin
+se tarkoittaa sitä, että meidän on saatava viriämään lisää taloustoimintaa tähän maahan.
+Siksi tämä lakiesitys nyt mietinnön muodossa on tullut tänne eduskuntakäsittelyyn, ja siksi
+tämä päivä ja tämä hetki ovat tärkeitä.
+
+Kun Suomi on Euroopan unionin harvimmin asuttu maa, niin en jaksa kyllä millään ym-
+märtää näitä opposition puheenvuoroja siitä, miksi tänne ei saisi rakentaa enemmän. Jos
+me haluamme tähän maahan työtä ja toimeentuloa lisää, se armotta tarkoittaa sitä, että pi-
+tää pystyä rakentamaan uutta, koska siitä uuden luomisesta aina hyötyvät ensimmäisinä
+kunta ja valtio verotuloina. Miljoonan euron hankkeesta erilaiset verot ja maksut, jotka val-
+tiolle ja kunnille tulevat, ovat noin 50 prosenttia siitä summasta eli 500 000 euroa miljoo-
+nan euron hankkeessa. Eli minä en ymmärrä tätä sosiaalidemokraattien vastustusta. Tehän
+vastustatte tässä nyt valtion tulojen lisäämistä, mikä ymmärtääkseni teillä himoverottajana
+on suurin haave, saada lisää veroja valtiolle. Toinen on sitten se, että kun te olette aina puo-
+lustaneet sitä, että pitäisi saada ihmisille töitä, niin tässähän sitä nyt ollaan tekemässä, työt-
+tömyyttä torjumassa, [Riitta Myller: Niin kuin millä tavalla?] ja sitten teille se ei käy. Kä-
+sittämätöntä ajatuksenjuoksua, ja sitten te olette puolustamassa suurmiljardöörejä, jotka
+valtion budjetin kautta ottavat asumistukina rahaa, kun kaikki ihmiset halutaan keskittää
+tänne etelään. Päinvastainen liikenne ei teille sovi mitenkään. Missä on teidän logiikkan-
+ne, kysyn vain. Tämä hallitus purkaa byrokratiaa, ja se on ihan oikea ja kunnianhimoinen ja
+hyvä tavoite, sitä kannatan lämpimästi.
+19
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+Investointien liikkeelle saanti vaatii aina nimenomaan rakentamista. Meillä on tällä het-
+kellä investointeja niin sanotusti jonottamassa eri byrokratian rattaissa tuolla lupakäsitte-
+lyissä, arvoisat opposition kansanedustajat, noin 3 miljardin euron edestä. Kymmeniätu-
+hansia työpaikkoja odottaa siellä toteutumistaan, ja te puhutte täällä, että joku ely-keskus ja
+virkamiehen herkkä nahka ovat tälle esteenä. Voi hyvänen aika teidän kanssanne, sanoisin
+minä. Joka ainoa uusi työpaikka tarvitsee sen oman rakentamisensa, se on selvä asia. Kun
+yrittäjä rakentaa navettaa tai konehallia tai kauppaa tai mitä tahansa, jossa ihmiset tekevät
+töitään, niin harva ne taivasalla tekee, aina tarvitaan rakentamista. Toivon, että tämän huo-
+mioisitte.
+
+On selvä asia tämän päivän Suomessa, että asuminen muuttuu. Tämä on Euroopassa jo
+tapahtunut. Esimerkiksi Budapestin kaupunki Unkarissa on pienentynyt noin — jos oikein
+muistan sen luvun — 100 000 asukkaalla. He ovat muuttaneet siitä tunkkaisesta kaupun-
+gista maaseudulle ja rakentaneet sinne hienot talot ja asuvat siellä, käyvät töissä kaupun-
+gissa. Mitä tuomittavaa siinä on? En näe minä ainakaan mitään tuomittavaa. He ovat rat-
+kaisseet omat asiansa näin. Eläkäämme me Suomessa niin kuin me haluamme.
+
+Kun kunnat saavat nyt oikeutta päättää aidosti rakennusluvista, ely-keskusvalitusoi-
+keuksia vähennetään ja poistetaan kokonaan, äärimmäisen viisasta politiikkaa. Samoin
+kaavoitusta virtaviivaistetaan, erittäin viisasta politiikkaa. Kyllä kunnat osaavat ratkaista
+omat asiansa parhaiten, se paikallistuntemus on siellä. Mitä tekee Helsingissä joku ympä-
+ristöministeriön virkamies ilomantsilaisen omakotitalon rakentamisessa? Ei yhtään mi-
+tään, koskaan ei ole edes käynyt koko paikalla. Jos kysytään, missä tämä kyseinen raken-
+nus on, ei varmasti tiedä. Ja tällaiselle pitäisi teidän mielestänne antaa arvoa. Vaikea mi-
+nun on löytää sitä järkevää perustetta, mutta näköjään teillä on keskittämisen suuret kunin-
+kaat ja kuningattaret, teillä on tähän uskottavia selityksiä. Niitä ei minulle tarvitse selittää
+— selittäkää se maakunnissa, miksi te haluatte vastustaa suomalaisen yhteiskunnan kehit-
+tämistä. Kun kaavoitusta virtaviivaistetaan, se tarkoittaa sitä, että monen ihmisen unelma
+toteutuu, kun hän muuttaa sen kesäasuntonsa pysyväksi asumukseksi, omaksi omakotita-
+lokseen. Voisin luetella lukuisia esimerkkejä, jotka odottavat nimenomaan tätä pykälää.
+Nimenomaan tätä pykälää. Mitä pahaa siinä on? En minä jaksa ymmärtää, mitä pahaa siinä
+olisi.
+
+Rakentamisjärjestyksen merkitys kunnissa kasvaa, mutta siihenkin löytyy asiantunte-
+musta. Meillä on siellä kunnissa ne samat insinööritoimistot, Jaakko Pöyryä ja Rambollia
+ja montaa muuta insinööritoimistoa myöten, jotka suunnittelevat näitä asioita. Ei se maa-
+seutukuntiin tehty työ ole sen huonompilaatuista kuin tänne kaupunkeihinkaan. Suomi on
+ehjä kokonaisuus, ja minä haluan sitä puolustaa enkä asettaa niitä vastakkain. En jaksa ym-
+märtää, minkä tautta Ilomantsiin rakennettu omakotitalo on jollakin lailla paheksuttavam-
+pi tai huonompi kuin Helsinkiin tai Joensuuhun rakennettu. Minä en ymmärrä tällaista ajat-
+telua, mutta näköjään joku sen ymmärtää — mutta hän perustelkoon, minun sitä ei tarvitse
+perustella.
+
+Suomi on tuhansien järvien maa, ja meillä on nostettu keskusteluun poliittiselle kentälle
+tänä päivänä se, pitäisikö siirtyä sellaiseen veromalliin, jossa kesäasukas maksaa osan tu-
+loveroistaan kesäasumiskuntaansa. Esimerkiksi tiedän, että Saimaan ympäristössä on val-
+tava määrä kesäasumuksia. Jos tällaiseen menettelyyn mennään, niin sitä lämpimästi kan-
+natan. Tämä uudistus tuo menettelyllisiä ja sisällöllisiä helpotuksia maankäytön suunnitte-
+luun. "Helpotukset nopeuttavat kaavaprosesseja ja edistävät asuntorakentamista" — näin-
+hän on, ja tämän on sanonut Helsingin kaupungin kaupunkisuunnitteluviraston virasto-
+20
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+päällikkö. Kyseinen herra on tämän sanonut, ja sen asiantuntijalausunnon otsikkona on tä-
+mä, ja te vastustatte täällä Helsingin kaupungin erittäin korkean virkamiehen sanomista.
+Ihmettelen suuresti.
+
+Arvoisa herra puhemies! Lopuksi: On erittäin hyvä, että näin biotalouden luvattuna ai-
+kana, kun Suomi on muutakin kuin kaupunki, joka kehittyy — sitäkin pitää kehittää, sitä-
+kin lämpimästi kannatan — biotalous on meidän mahdollisuutemme, metsiä pitää hakata,
+peltoja pitää hoitaa, maaperästä pitää ottaa rikkauksia ja niin edelleen. Sillä luodaan suo-
+malaista kasvua. Kasvua ei ole se, että pelataan pörsseissä ja otetaan siellä oikein kunnolla
+takkiin ja sitten tullaan veronmaksajille laskua esittelemään, että teidän on maksettava tä-
+mä. Joka ainut euro on hankittava työllä, oikea kasvu syntyy vain lisäarvosta. Täällä va-
+semmisto vastustaa kynsin hampain sitä, että voisimme rakentaa muuallekin kuin suuriin
+kaupunkeihin. Jos ei ole elävää maaseutua, niin kohta ei ole eläviä kaupunkejakaan, näin se
+vain on.
+
+16.27 Riitta Myller sd (vastauspuheenvuoro):  Arvoisa puhemies! Ei täällä kyllä minun
+mielestäni ole mitään sellaista puhuttu, mitä tuossa äskeisessä puheenvuorossa kuultiin,
+mutta ehkä yritän ymmärtää, mitä siinä tarkoitettiin. Itse olen kritisoinut sitä, että elyjen va-
+litusoikeutta rajataan. Kysymyshän on siitä, että elyt ovat valittaneet kuntien kaavojen lain-
+mukaisuudesta — eivät sinällään siitä, onko joku rakennus jossakin paikassa vai ei, vaan
+lainmukaisuudesta. Nyt tämä jää kokonaan pois ja jää kansalaisten tehtäväksi valvoa tätä.
+Tätä ei voi pitää oikeana, ja tämä ei todellakaan ole ollut mikään ongelma kunnissa.
+
+Sitten toinen asia on se, että haluamme maankäytön kokonaisuusuudistuksen ja niin, että
+kyetään parantamaan kaavojen läpimenoa, parantamaan niitten laatua, mahdollistamaan
+parempi rakentaminen, mahdollistamaan parempi yhdyskuntasuunnittelu.
+
+16.28 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Olen kyl-
+lä todella hämmästynyt, suorastaan puulla päähän lyöty, edustaja Myllerin puheenvuorois-
+ta. Onhan aivan käsittämätöntä, että hän vetoaa siihen, että laki on voimassa, on luotu va-
+litusmahdollisuus. Nyt, kun tämä valitusmahdollisuus poistetaan, te kaipaatte takaisin la-
+kia, joka palauttaa sen valitusmahdollisuuden. Onko tarkoitus palata jopa 1800-luvulle, vai
+minne asti palataan vanhassa lainsäädännössä, että voitte valittaa riittävän paljon ja riittä-
+vän pahasti estää hankkeita?
+
+Kyllä minun mielestäni pitää tunnustaa tosiasiat ja antaa ihmisille mahdollisuus harjoit-
+taa elinkeinoja, luoda niitä työpaikkoja, joita sosiaalidemokraatit ymmärtääkseni aina ovat
+lämpimästi kaivanneet. Olen tulkinnut, että meillä on tässä asiassa täydellinen yksimieli-
+syys, että ihmisen pitää saada töitä. Vain työn kautta voimme luoda uutta kasvua ja uutta
+toimeentuloa tähän maahan. Ja te, arvoisa edustaja Myller, kannatatte kaikin käytettävissä
+olevin keinoin, että ylhäältä johdetun yhteiskunnan pitäisi kertoa suomalaisille ihmisille,
+mitä tässä maassa saa tehdä. Jos minulla olisi diktaattorivaltuudet, minä antaisin rakentaa
+vieläkin enemmän. Suomi on Euroopan harvimmin asuttu maa. Te haraatte vastaan, niin
+kuin entisaikana tehtiin, että kaiken pitää olla yhden päätösvallan alla ja yksi ihminen pai-
+naa nappia. Sitäkö te oikeasti haluatte?
+
+16.30 Satu Hassi vihr: Arvoisa puhemies! Kannatan edustaja Modigin ehdotusta, että kä-
+sittelyn pohjaksi otetaan vastalause 2. Siinä tapauksessa, jos tämä hyväksytään, pidettäi-
+siin nykyisellään ely-keskusten rooli, kaupan suuryksikköjä koskeva säätely, maisematyö-
+21
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+lupavaatimukset sekä se, että asemakaavat päättää kunnanvaltuusto, sitä ei voida delegoi-
+da kunnanhallitukselle.
+
+Sitten tarkemmin näistä tämän lakiesityksen keskeisimmistä asioista.
+Tässä keskustelussa joku on esittänyt, että nykyisessä laissa asetettu 2 000 neliömetrin
+
+raja kaupan suuryksikölle olisi jonkinnäköinen raja sille, minkä kokoisia kauppoja saa ra-
+kentaa — näinhän ei ole. Se ei ole kaupan koon yläraja, vaan kyse on siitä, minkä kokoista
+kauppaa tai mitä kokoa isompaa kauppaa koskee kaupan suuryksikkösäätely.
+
+Edustaja Adlercreutz toi jo aikaisemmin keskustelussa esille sen, että hän valiokunnas-
+sa kysyi asiantuntijoilta, katsooko joku asiantuntija, että tämä muutos edesauttaisi Pariisin
+ilmastosopimuksen tavoitteiden toteuttamista. Kukaan asiantuntija ei ilmoittautunut näin
+ajattelevaksi. Suomen ympäristökeskus onkin todennut, että se harventaisi palveluverkkoa
+entisestään, lisäisi pakkoa hoitaa arjen asioita autolla. 
+
+Suurten kaupunkiseutujen ulkopuolella rakennetaan Suomen ympäristökeskuksen mu-
+kaan hyvin vähän yli 4 000 neliömetrin kauppoja, käytännössä ei ollenkaan. Toisin sanoen
+tämä tarkoittaisi sitä, että suurimmasta osasta Suomea kunnat menettäisivät sen mahdolli-
+suuden ohjata maankäyttöä, joka tämänhetkisellä kaupan suuryksikkösäätelyllä kunnille
+on annettu, ja että tämä sijainninohjausmahdollisuus heikkenisi erityisesti maaseudulla.
+Toisin sanoen 2 000—4 000 neliömetrin kokoluokkaan asettuvat kaupat voisivat sijoittua
+ihmisten kannalta hankalammin saavutettaviksi keskustojen ulkopuolelle, mikä heikentäi-
+si keskustojen merkitystä edelleen.
+
+Yritys nimeltä Citycon on tuonut valiokunnalle sen näkökohdan, että iso kauppa on yk-
+sinkertaisesti halvempi rakentaa keskustojen ulkopuolelle. Sen takia kaupan keskusliik-
+keet mieluusti suosivat tätä tapaa. Mutta keskustojen ulkopuolella oleviin kauppoihin on
+käytännössä vaikeaa, usein mahdotonta päästä julkisilla kulkuneuvoilla. Myös Hartolan
+kunta on lausunnossaan tuonut esille sen, että tällä kaupan suuryksikkösäätelyn muutok-
+sella on kielteinen vaikutus pienten kuntien palvelujen säilymiseen.
+
+No, sitten toiseksi tästä ely-keskusten roolista. Monet kollegat ovat jo todenneet sen, että
+ely-keskukset ovat kaavavalituksista tehneet hyvin pienen osan, 4 prosenttia kaikista vali-
+tuksista. Ne ovat tehneet valituksia siis maltillisesti mutta aiheesta, koska 80 prosenttia nii-
+den valituksista on hyväksytty, eli hallinto-oikeus on todennut, että asiassa kunnan tekemä
+kaavapäätös ei sisällöltään vastaa lain vaatimuksia. Kuten edustaja Huovinen jo totesi,
+tämä hallituksen esityksen muutos tarkoittaa sitä, että kaavojen sisällön laillisuuden val-
+vonta käytännössä jää paljolti kansalaisille ja järjestöille.
+
+Korkein hallinto-oikeus on lisäksi tuonut esille sen, että kun ely-keskusten valitusoi-
+keutta rajataan maakunnallisesti merkittäviin ja valtakunnallisiin asioihin, niin syntyy epä-
+selvyys siitä, missä asioissa elyllä nyt sitten oikeasti on oikeus valittaa, jolloin valituskier-
+rokset saattavat pidentyä, kun ensin käydään mahdollisesti korkeinta hallinto-oikeutta
+myöten kiistaa siitä, oliko elyllä valitusoikeus, ja jos todetaan, että oli, niin sitten siitä var-
+sinaisesta sisältöasiasta käydään se toinen valituskierros. Esimerkiksi Lappeenrannan kau-
+punki on todennut, että ely-keskusten ohjaava rooli on ollut hyvä.
+
+Tässä keskustelussa edustaja Maijala totesi, että elyjen rooli tulisi keskustelevammaksi.
+Oikeastihan hallituksen esitys vähentää myöskin tätä ely-keskusten keskustelevaa roolia,
+kun niiden neuvotteluvelvoitetta kaavoista vähennetään aivan samalla tavalla kuin myös-
+kin niitten valitusoikeutta.
+
+Kolmanneksi maisematyöluvista hakkuissa. Maisematyölupavaatimusta on kritisoitu
+turhana byrokratiana, koska hakkuulupa on aina myönnetty. Maisematyölupien pointti ei
+22
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+olekaan ollut se, että maisematyölupavaatimuksella estettäisiin hakkuita, vaan maisema-
+työlupavaatimuksella on haluttu vaikuttaa siihen, millä tavalla hakkuita toteutetaan sellai-
+silla alueilla, jotka ovat lähistöllä asuvien ihmisten ulkoilu- ja virkistysmaastojen maise-
+mien kannalta tärkeitä.
+
+Asia, josta tässä keskustelussa en ainakaan ole huomannut, että olisi vielä mainittu, jota
+myöskin pidän huononnuksena hallituksen esityksessä, on se, että rannoille kaavoitettaes-
+sa ja rakennuslupia myönnettäessä ei laki enää vaatisi sitä, että turvataan riittävä yhtenäi-
+nen rakentamaton ranta kyläalueille. Myöskin tämä huonontaisi elinympäristön laatua
+maaseudulla.
+
+Tässä keskustelussa ei myöskään ole mainittu juurikaan sitä, että hallitus esittää aika
+merkittävää muutosta, jota esimerkiksi professori Juho Rajaniemi lausunnossaan ympäris-
+tövaliokunnalle on pitänyt periaatteellisesti hyvin merkittävänä, että kunta voi delegoida
+asemakaavapäätöksissä päätösvallan kunnanvaltuustolta kunnanhallitukselle. Professori
+Rajaniemi toteaa, että asemakaavojen keskimääräistä käsittelyaikaa tämä muutos voisi ly-
+hentää ehkä noin kaksi viikkoa mutta kunnallisen demokratian ja kaavajuridiikan periaat-
+teellisella tasolla muutoksen merkitys on erittäin suuri, varsinkin kun tätä ei rajata merki-
+tykseltään pieniin kaavoihin vaan tässä ei tavallaan aseteta mitään rajaa, miten isoja ase-
+makaavapäätöksiä voidaan delegoida kunnanhallitukselle. Myöskin Suomen Arkkitehti-
+liitto on kiinnittänyt tähän asiaan huomiota ja pitää sitä kunnallisen demokratian ja avoi-
+men päätöksenteon kannalta huononnuksena.
+
+Arvoisa puhemies! Ymmärrän kaikkia niitä, jotka haluavat maaseudulle lisää asukkaita
+ja lisää työpaikkoja ja elinkeinoja, mutta en mitenkään voi ymmärtää, että tämä tavoite to-
+teutuisi sillä, että palvelut viedään entistä kauemmaksi asutuksesta, kuntakeskusten palve-
+lutasoa ja asemaa heikennetään entisestään, helpotetaan sisällöltään lainvastaisten kaavo-
+jen voimaantuloa, sälytetään kaavojen sisällön laillisuusvalvonta käytännössä paljolti yk-
+sittäisille kansalaisille ja järjestöille, helpotetaan kansalaisille tärkeiden virkistysmaasto-
+jen vieressä olevien metsien avohakkuita ja mahdollistetaan se, että kylissä ei jatkossa ole
+lainkaan yhtenäisiä rakentamattomia ranta-alueita, jotka toimivat yhteisenä rantavirkistys-
+alueena, ja lisäksi mahdollistetaan se, että kunnissa kaavapäätökset tehdään paljon pienem-
+mässä piirissä kuin nykyisin. Kaiken kaikkiaan tämä kokonaisuus mielestäni on pikem-
+minkin omiaan heikentämään maaseudun elinvoimaa kuin parantamaan sitä.
+
+16.39 Eerikki Viljanen kesk: Arvoisa puhemies! Olen hyvin tyytyväinen tässä maan-
+käyttö- ja rakennuslain uudistuksessa toteutettavaan byrokratian karsimiseen. Jatkossa esi-
+merkiksi asuinrakennukselle asetetut tekniset vaatimukset täyttävän vapaa-ajanasunnon
+käyttötarkoituksen muuttaminen on mitä todennäköisimmin huomattavasti nykyistä hel-
+pompaa. Aurinkopaneelien ja aurinkokeräimien asentamisen sääntelyä helpotetaan ja joh-
+donmukaistetaan. Myös maalämpökaivojen poraamisen luvitusta järkeistetään ja byrokra-
+tiaa karsitaan tältäkin osalta. Se on hyvä ratkaisu.
+
+Olen tyytyväinen myös metsien hakkuiden maisematyölupaviidakon karsimiseen. Näin
+saamme karsittua ne ilmeisen turhat lupaprosessit pois. Aiheita tyytyväisyyteen on myös
+maa- ja metsätalouden sekä sen liitännäiselinkeinojen rakentamisen helpottamisesta.
+
+Arvoisa puhemies! Ely-keskusten roolista on täällä tänään puhuttu paljon. Minä pidän
+hyvänä ely-keskusten valitusoikeuden kaventamista koskemaan vain maakunnallisesti tai
+valtakunnallisesti merkittäviä kohteita. Kannatan siis sitä, että ely-keskuksilla on jatkossa
+23
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+konsultoiva, ei niin ohjaava rooli. Nyt päätöksentekovaltaa kaavoituksessa tuodaan lähem-
+mäs niitä, joita se koskee, ja hyvä niin.
+
+16.40 Ari Torniainen kesk:  Arvoisa herra puhemies! Täällä tänään tässä keskustelussa
+on käytetty useita puheenvuoroja ely-keskusten roolista ja sen muuttumisesta. Itse katsoi-
+sin asiaa pikemminkin siten, että ely-keskuksista tulee nytten neuvotteleva ja yhteistyö-
+kumppani nimenomaan kunnille — niin kauan kuin ely-keskukset ovat olemassa — elikkä
+ely-keskuksen rooli muuttuu valvojasta enemmän maankäytön suunnittelua edistäväksi
+yhteistyötahoksi.
+
+Itse vierastan sitä, että meillä on joku, joka suunnittelee, ja sitten on se, joka jälkeenpäin
+tulee siihen ja valvoo sitä. Tätä kautta nykyjärjestelmä meillä on sellainen, että hankkeet
+pitkittyvät aivan turhaan, ja se aiheuttaa myöskin lisäkustannuksia, ja monet isot hankkeet
+myöskin kariutuvat tämän kautta, eli on hyvä, että elyn valvonnan rajaaminen vähentää
+kuntien ja valtion päällekkäistä toimintaa ja edistää viranomaisten voimavarojen tarkoituk-
+senmukaista kohdentamista. Nyt tämän hallituksen esityksen kautta elystä tulee se yhteis-
+työkumppani nimenomaan kunnille, niin että jo aikaisessa vaiheessa katsotaan niitä asioi-
+ta, ja silloin myöskin ne vähäiset ely-keskusten tekemät valituksetkin voivat jäädä pois, ja
+itse toivon, että näin käy. Itse uskon ihan vilpittömästi siihen, että kyllä kunnissa halutaan
+kaavoittaa ja tehdä sellaista rakentamista, joka edistää nimenomaan kuntien elinvoimaa ja
+sitä, mitä niille tarvitaan siellä alueella.
+
+Paljon keskustelua on myöskin ollut tästä vähittäiskaupan suuryksikön koon nostami-
+sesta 2 000:sta 4 000 kerrosneliömetriin. Tästä asiasta varmaan voidaan olla monta mieltä,
+mutta Suomi on myöskin erilainen maa, ja kyllä tuolla Kaakkois-Suomessa tällaista asiaa
+kannatetaan. Nimenomaan siellä on itärajan takaa tullut paljon ostosmatkailijoita, ja on
+hyvä asia, [Puhemies koputtaa] että tämä nostetaan 2 000:sta 4 000 kerrosneliöön.
+
+16.43 Antero Laukkanen kd: Arvoisa herra puhemies! Tästä esityksestä kyllä yksi sem-
+moinen erityispiirre tulee selvästi esiin, ja se on se, että tämä on tehty hyvin pitkälle maa-
+seutujen näkökulmasta ennemminkin kuin suurten kasvavien kaupunkien näkökulmasta, ja
+se on ehkä sellainen selkeä puute tässä esityksessä.
+
+Hyvää on, että tämä tehdään nyt ennen kokonaisuudistuksen tekemistä, sillä kun sitten
+sitä aletaan tehdä, niin mahdolliset virheet, jotka tähän jäivät ja jotka osoittautuvat sitten
+käytännössä selkeästi huonoiksi vaihtoehdoiksi, voidaan siinä kokonaisuudistuksessa kor-
+jata.
+
+16.43 Eeva-Maria Maijala kesk: Arvoisa puhemies! Edustaja Hassi piti puheenvuoron
+tuossa viimeksi, ja täytyy sanoa, että kyllä me olemme hyvin monesta asiasta todella eri
+mieltä. Sen vuoksi olenkin todella tyytyväinen, että me saamme tämän maankäyttö- ja ra-
+kennuslain uudistuksen tehtyä nyt, kun meillä on tästä asiasta vastuu, ja me myöskin kan-
+namme vastuun tästä asiasta, miten me elämme tuolla maaseudulla jatkossakin.
+
+Edustaja Hassi oli peloissaan siitä, että kaikkia rantoja aletaan rakentamaan ja sinne ei
+jää enää virkistyskäyttöön alueita. Meillä on Suomessa vuosikymmenten mittaan ollut
+mahdollisuus rakentaa rannoille hyvinkin paljon, ja siitä huolimatta meillä on äärettömän
+vähän rannoilla rakennuskantaa. Siellä, missä on rakentamista tarve rajoittaa, on tehty jo
+rantakaavat, ja siellä on muitakin kaavaratkaisuja tehty näihin asioihin, niin että kyllä ne on
+näillä kaavoilla pystytty ja pystytään jatkossakin rajoittamaan, jos tarvetta on. Mutta suu-
+24
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+rimmassa osassa meidän ranta-alueistamme on aivan mahdollista ja järkevääkin, että siellä
+rakennustoimintaa tullaan harjoittamaan, jos joku sinne vain tuleepi rakentamaan jotakin.
+Sitten todellakin kunnilla on jatkossakin erittäin paljon ohjaamistoimenpiteitä ja mahdol-
+lisuuksia näitä asioita viedä eteenpäin.
+
+Oli hyvä, että tuli esille — tämä edustaja Torniaisen puolesta sanottuna — että ely on
+yhteistyökumppani, äärettömän hyvä sana: yhteistyökumppani. Me emme ole toinen tois-
+temme kyttääjiä ja peräänkatsojia, vaan tehdään yhdessä näitä asioita, yritämme yhdessä
+saada hyviä ratkaisuja aikaiseksi.
+
+Vielä lopuksi tästä maisematyölupa-asiasta. Se on todellakin ollut byrokratian kukka-
+nen, byrokratian kukkanen siksi, jos kerran yhtään metsänraivausta ei ole sillä estetty, että
+sitä ei ole tullut. Kyllä niiden menetelmien täytyy olla semmoiset, joilla on todellakin mer-
+kitystä ja vaikutusta. Tällä ei ole ollut mitään muuta kuin rahastamisen merkitys koko täm-
+möisellä M-alueella, tällä maisematyölupa-asialla.
+
+16.45 Satu Hassi vihr:  Arvoisa puhemies! Tästä ely-keskusten roolista vain, kun tässä
+useampikin edustaja on puhunut siitä, että niistä tulee yhteistyökumppaneita. Luen nyt yh-
+den kappaleen valiokunnan mietinnöstä: "Hallituksen esityksen tavoitteena on, että elin-
+keino-, liikenne- ja ympäristökeskusten rooli muuttuu ja painottuu valtakunnallisesti mer-
+kittäviin asioihin. Ne eivät jatkossa enää ohjaa kuntien alueidenkäyttöä ja rakennustoimen
+järjestämistä, kun lain 18 §:stä ehdotetaan poistettavaksi ohjaustoimivalta. Yleis- ja asema-
+kaavoja koskeva viranomaisneuvottelutehtävä rajataan siten, että se on pakollinen vain nii-
+den kaavojen osalta, jotka koskevat vaikutuksiltaan valtakunnallisia tai merkittäviä maa-
+kunnallisia asioita tai ovat valtion viranomaisen toteuttamisvelvollisuuden kannalta tärkei-
+tä. Samalla ely-keskusten valvontaoikeutta rajataan vastaavasti." Eli kyllä tämä elyjen oh-
+jaava ja keskusteleva rooli rajataan aivan vastaavalla tavalla kuin niiden valitusoikeus, eli
+se on kyllä ihan väärinkäsitys, että niistä tulisi enemmän tämmöisiä neuvottelukumppanei-
+ta — niiltä viedään myöskin tätä neuvottelumahdollisuutta pois.
+
+16.47 Riitta Myller sd: Arvoisa puhemies! Tässä juuri, mitä valiokunnan puheenjohtaja
+sanoi, on selkeästi nähtävissä se, minkä vuoksi on täältä meiltä päin edellytetty sitä, että
+ely-keskusten ohjausta ei tehtäisi erillisenä vaan osana tätä mahdollista tulevaa maakunta-
+uudistusta. Ymmärtääkseni nyt maakunnan tehtäväksi ollaan kuitenkin saamassa se, että
+maakunta edistää kestävää kehitystä omalla alueellaan. Sille ei anneta kuitenkaan mitään
+välineitä, koska ei tässä olla sitten niitä tehtäviä, joita tässä kerrotaan elylle jäävän, siirtä-
+mässä myöskään maakuntiin — näin ainakin minulle on kerrottu. Eli tällä puheella, kun
+täällä puhutaan yhteistyöstä, ei ole juurikaan merkitystä.
+
+Meidän on ymmärrettävä se, että kaavoituksessa ja maankäytössä on isot intressit, on
+olemassa yleinen intressi, on olemassa yksityinen intressi, ja nyt tässä ehdotuksessa men-
+nään hyvin pitkälle yksityisen intressin suuntaan ja heikennetään yleistä intressiä. Tässä
+mielessä juuri sillä, että kuntien päätöksissä ei ole laillisuusvalvontaa, on erittäin iso mer-
+kitys.
+
+Toisaalta myöskin ihmetyttää se asia, että tässä esitetään, että näistä asemakaavoista
+voidaan päättää kunnan työjärjestyksen mukaan [Puhemies koputtaa] sitten lautakunnissa
+tai hallituksissa, ja samaan aikaan asetetaan kuntalaisille velvoite valvoa tätä kuntien kaa-
+voitusta. Tässä on erittäin iso ristiriita. Kyllä ainakin pitää varmistaa se, että kaavoitus on
+25
+
+
+
+Pöytäkirjan asiakohta PTK 26/2017 vp
+mahdollisimman avointa, [Puhemies koputtaa] jotta voidaan lähteä siitä, että kuntalaiset
+voivat sitä myöskin valvoa.
+
+16.49 Markus Lohi kesk: Arvoisa puhemies! Tässä debatissa edustaja Eestilä otti aivan
+oikein esille sen, että kun puhutaan vapaa-ajan asunnon muuttamisesta vakituiseksi asun-
+noksi kaava-alueella, niin kyllähän tämä uudistus, vaikka tämä onkin erittäin hyvä ja erin-
+omainen, jäi tältä osin puolitiehen. Siellä, missä on kaavoitettu alue, ei yhtä lailla vapaasti
+pystytä näin tekemään. Tämä on erittäin iso ongelma minusta erityisesti meillä Lapissa,
+missä on paljon vapaa-ajanasuntoja. Ne ovat tunturikeskuksissa, jotka ovat kaavoitettuja
+alueita. Siellä on kunnallistekniikka. Ne ovat niin kuin pieniä kyliä tai kaupunkeja. Ja siel-
+lä jos jossakin pitäisi joustavasti pystyä muuttamaan nämä, mutta siihen tämä ei nyt tuo va-
+litettavasti helpotusta.
+
+Mutta minusta on erinomaista, että ministeri Vehviläinen on käynnistänyt nyt selvityk-
+sen kaksoiskuntalaisuudesta. Toivottavasti tämä etenee. Minusta se on erinomainen hanke.
+
+Sitten haluan vielä lopussa sanoa, että kun täällä on monessa puheenvuorossa kannettu
+huolta siitä, että kunnan ohjausvaikutus heikkenee, niin eihän tämä lakiesitys tule puuttu-
+maan kuntien kaavoitusmonopoliin. Kunnilla säilyy edelleen kaavoitusmonopoli. Kunta
+on taho, joka kaavoittaa kunnan alueella niin yleiskaavan kuin detaljikaavat, ja siinä mie-
+lessä kaavoituksen kautta kunta voi erittäin voimakkaasti ohjata jatkossakin sitä rakenta-
+mista siellä kunnan alueella — ja tällä kertaa nyt hieman vapaammin, kun siinä ei sitten ole
+niin tiivistä yhteyttä sinne ely-keskukseen.
+
+Olisiko tämän pitänyt odottaa nyt sitten maakuntauudistusta? Minusta on hyvä, että
+tämä tuodaan jo nytten. Maakuntauudistuksen kautta moni asia muuttuu ihan hyvään suun-
+taan, mutta kyllä se maakuntauudistuspaketti on jo nytten riittävän paksu, niin että ei sii-
+hen yhteyteen olisi pitänyt kaikkea maailman lainsäädäntöä liittää. Kyllä se 1 002 sivua on
+jo ihan nokko selvitäkseen täältä eduskuntakäsittelystä.
+
+Yleiskeskustelu päättyi ja asian käsittely keskeytettiin.
+26
+
+

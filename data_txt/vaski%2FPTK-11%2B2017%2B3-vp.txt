@@ -1,0 +1,2609 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM8430.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 11/2017 vp
+
+Täysistunto
+
+Keskiviikko 22.2.2017 klo 13.59—18.51
+
+3. Finavia ja valtionyhtiöiden riskienhallinta
+Valiokunnan oma asia O 72/2016 vp
+Valiokunnan mietintö TrVM 1/2017 vp
+
+Ainoa käsittely
+
+Toinen varapuhemies Arto Satonen: Ainoaan käsittelyyn esitellään päiväjärjestyksen 3.
+asia. Käsittelyn pohjana on tarkastusvaliokunnan mietintö TrVM 1/2017 vp. Keskustelu
+asiasta alkaa, tarkastusvaliokunnan puheenjohtaja, edustaja Heinäluoma.
+
+Keskustelu
+
+14.03 Eero Heinäluoma sd (esittelypuheenvuoro):  Arvoisa puhemies! Lähtökohdat tä-
+män tarkastusvaliokunnan mietinnön tekemiselle syntyivät sen jälkeen, kun Finaviassa oli
+tapahtunut johdannaissopimusten teon kautta huomattavaa vahinkoa tuottaneita päätöksiä
+yhtiölle ja sitä kautta valtiolle ja tämä asia oli tullut tarkastusviraston tarkistettavaksi. Tar-
+kastusvirasto teki kaksi tarkistusta: ensin itse johdannaiskauppoja ja riskienhallintaa kos-
+kevan tarkastuksen, joka valmistui 2013, ja myöhemmin erillisen laillisuustarkastuksen,
+joka valmistui 2016.
+
+Tarkastusvaliokunta totesi omalta osaltaan, että se ottaa tämän työlistalleen, käy huolel-
+la tapahtuneen lävitse sillä periaatteella, että ei ole mitään asioita, joita lakaistaisiin maton
+alle, vaan kaikki asiat selvitetään ja läpivalaistaan, jotta tulee varmuus siitä, että veronmak-
+sajien rahaa käytetään kontrolloidusti ja vastuullisella tavalla, ja toisaalta, jotta valtion
+omistamissa yhtiöissä vallitsee yhteisesti hyväksytty kulttuuri, minkä mukaisesti päätök-
+siä tehdään ja niitä valvotaan.
+
+Mitkä ovat tosiasiat tämän selvittelyn pohjalta? Selvää on, että Finaviassa on tehty vuo-
+sina 2009, 2010 ja 2011 kyseenalaisia johdannaissopimuksia. Näiden sopimusten alkupe-
+räisenä tarkoituksena ja hyväksyttävänä tarkoituksena on ollut suojata luottojen korkoris-
+kiä, mutta ne on tehty sillä tavalla, että sopimukset ovat olleet spekulatiivisia. Ne ovat pi-
+täneet sisällään myös tuoton mahdollisuuden ja sitä kautta myös huomattavan riskin
+epäedullisen korkokehityksen sattuessa. Sopimusten riskeistä ei raportoitu Finavian halli-
+tukselle eikä näistä riskeistä kerrottu myöskään Finavian tilinpäätöksissä. Talonpoikaises-
+tikin on kuitenkin selvää, että valtionyhtiöiden tehtävänä ei ole toimia spekulanttina mark-
+kinoilla, vaan valtionyhtiöiden tehtävä on huolehtia siitä asiasta, jota varten kukin yhtiö on
+perustettu. Voi siis sanoa, että johtamisjärjestelmä ja valvonta tältä osin on pettänyt.
+
+Tilintarkastuslautakunta on antanut oman ratkaisunsa asiassa. Lautakunta katsoi, että
+päävastuullinen tilintarkastaja on toiminut vuoden 2010 tilintarkastuksen osalta hyvän ti-
+lintarkastustavan vastaisesti, ja antoi tästä huomautuksen huomioituaan lieventävänä seik-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+kana tilintarkastussuunnitelmassa tehdyt rajaukset, ja tilikauden 2011 päävastuullinen ti-
+lintarkastaja sai puolestaan varoituksen.
+
+2012 tappiot tulivat näkyviin ja yhtiössä alkoi asian selvittäminen. Lopputuloksena on,
+että kun johdannaissopimukset katkaistiin, yhtiölle tuli tappioita 34 miljoonaa euroa.
+
+Tarkastusvaliokunta on käynyt lävitse yleisemmin riskienhallintaa myös muiden val-
+tionyhtiöiden osalta, ja myönteisenä seikkana on todettava, että valiokunnan saaman infor-
+maation mukaan muissa valtionyhtiöissä vastaavanlaista toimintaa ja siitä aiheutuneita ris-
+kejä ei ole.
+
+Seuraavaksi asian selvittelyyn.
+Kun tappiot ja johdannaissopimukset kävivät ilmi, yhtiö käynnisti asian selvittämisen.
+
+Tähän selvittelyyn kaikkine vaiheineen on mennyt erittäin kauan, ja sen seurauksena osa
+mahdollisuuksista hakea vahingonkorvauksia on vanhentunut. Johdannaissopimusten mo-
+nimutkaisuutta osoittaa osaltaan se, että yhtiöllä meni noin vuoden ajanjakso ennen kuin se
+oli ulkopuolisen konsultin avulla selvittänyt, mitä nämä sopimukset pitivät sisällään ja
+minkä tyyppisiä riskit asiassa olivat.
+
+Valtiontalouden tarkastusvirasto puolestaan teki oman selvityksensä, joka valmistui
+2013, ja virasto antoi tässä suosituksia, minkä mukaan omistajaohjauksessa ja yhtiössä pi-
+täisi toimia. Käytännön näkökohtien ohella tarkastusvirasto kirjasi näihin suosituksiin, että
+omistajaohjaustehtävästä vastaavan liikenne- ja viestintäministeriön tulee vastaavasti arvi-
+oida johdon ja tilintarkastajien toiminnan huolellisuutta.
+
+Tämän mukaisesti jatkoselvittelyä yhtiössä tehtiin. Vuonna 2015 nostettiin vahingon-
+korvauskanteita tilintarkastusyhteisö Deloittea vastaan, myös aiempaa hallitusta ja toimi-
+tusjohtajaa vastaan, ja lisäksi yhtiö tekee tutkintapyynnön poliisille varatoimitusjohtajan ja
+rahoituspäällikön toimista. Tutkintapyyntö tehdään kuitenkin sen jälkeen, kun vahingon-
+korvausaika on mennyt umpeen eli on kulut kaksi vuotta työsuhteen päättymisestä.
+
+Valiokunta on käynyt lävitse omistajaohjauksen toimintaa pidemmältä ajalta. Omistaja-
+ohjaus- ja vastuulliset ministerit ovat tukeneet asian selvittämistä, vahinkojen rajaamista ja
+myös linjausta hakea vahingonkorvausta asiaa koskevien juridisten selvitysten pohjalta.
+Tämä linja omistajaohjauksessa on jatkunut aina syksyyn 2015 saakka. Syksyllä 2015 lii-
+kenne- ja viestintäministeriön linja tältä osin muuttui. Tässä alkusyksyn tilanteessa valio-
+kunnan saaman informaation mukaan myös omistajaohjauksesta vastaava ministeriö on ol-
+lut sillä kannalla, että vahingonkorvauskanteessa on perusteltua edetä, ja samalla kannalla
+on ollut myös tarkastusvirasto alkusyksystä 2015 pidetyssä neuvottelussa.
+
+Tämän jälkeen asiakirjoista ja valiokunnan saamasta selvityksestä käy ilmi, että minis-
+teriössä on ilmeisesti päädytty toiseen arvioon, jonka sisältö on se, että vahingonkorvaus-
+kanteista tilintarkastusyhteisö Deloittea vastaan on perusteltua luopua ja yrittää hakea so-
+vintoratkaisua. Perusteet tähän on tuotu valiokunnan mietinnössä esille.
+
+Myös valtioneuvoston omistajaohjaus on ollut useampaan kertaan asian kanssa tekemi-
+sissä. Valtioneuvoston omistajaohjausyksikön kanta on sekin elänyt syksyn 2015 aikana,
+ja se tuli siihen lopputulokseen marraskuun 19. päivänä, että se antoi suosituksia ministe-
+riölle siitä, minkä mukaan kannattaisi asiassa toimia. Näihin suosituksiin kuuluu vahingon-
+korvauskanteessa eteneminen ja ylimääräisen yhtiökokouksen pitäminen.
+
+Miten kaikkea tapahtunutta pitää arvioida? Valiokunnan oma käsitys kaiken kuulemi-
+sen pohjalta on, että yhtiössä on ollut erityisesti rahoitusmarkkinoihin liittyen selvä osaa-
+misvaje. Tämä vaje on syntynyt tilanteessa, jossa vanha liikelaitos on muuttunut osakeyh-
+tiöksi ja ryhtynyt toimimaan suurempien riskien merkeissä. Valiokunnan käsitys on, ettei
+2
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+yhtiön riskinhallinnasta ja rahoituksesta vastanneiden henkilöiden osaaminen ja vastuun-
+jako ole ollut uudessa osakeyhtiömuotoisessa toimintaympäristössä riittävää. Tarkastusva-
+liokunta korostaakin, että asianmukaisen ohjeistuksen laatimisen ohella yhtiön johdon ja
+hallituksen vastuulla on myös varmistaa se, että laadittuja ohjeita noudatetaan ja että yhti-
+ön vastuullisella henkilökunnalla on tehtäviinsä nähden riittävä ammattitaito ja osaaminen.
+
+Valiokunnan saaman informaation pohjalta tulee johtopäätökseen, että yksi asioiden pit-
+kittymiseen vaikuttava tekijä on ollut pyrkimys yhtiössä välttää julkisuutta. Valiokunta
+katsoo, että yhtiön hallituksen pyrkimys välttää julkisuutta johdannaisongelman tultua ilmi
+vuonna 2012 on hidastanut yhtiön päätöksentekoa korvausprosesseihin ryhtymiseksi. Täl-
+lä on ollut vaikutusta siihen, että osa kanteista on päässyt vanhenemaan.
+
+Sitten ilmeistä on, että mielipiteet siitä, miten todennäköisesti kanteessa menestyminen
+voisi tapahtua, ovat eriytyneet varsinkin syksyn 2015 aikana. Omistajaohjausyksikön kan-
+ta on ollut, [Olavi Ala-Nissilä: Vaihteleva!] että kanteen menestymistä edistäisi, jos yhtiön
+entistä toimitusjohtajaa ja hallituksen jäseniä vastaan olisi vireillä vahingonkorvauskanne,
+koska tilintarkastajat ovat vastineessaan kanteeseen tilintarkastajia vastaan vedonneet yh-
+tiön johdon ensisijaiseen vastuuseen. Omistajaohjausosastolla valmisteltiin tämä lausunto,
+joka toimitettiin tuolloin marraskuussa myös liikenne- ja viestintäministeriön käyttöön.
+Liikenne- ja viestintäministeriön kansliapäällikkö antoi 14.10. Finavian hallituksen pu-
+heenjohtajalle toimintaohjeen. Tämän ohjeen mukaisesti kansliapäällikkö ilmoitti: "Minis-
+terin pyynnöstä ilmoitan, että Finavia pitää ylimääräisen yhtiökokouksen marraskuun puo-
+livälin tienoilla. Sitä ennen yhtiön ei tule edetä johdannaiskanneasiassa." Tämän kannan
+ministeriön omistajaohjauksesta vastaava virkamies uudisti 27. marraskuuta.
+
+Tarkastusvirasto on käynyt huolella lävitse tätä vuoden 2015 syksyä, niin kuin muuta-
+kin kokonaisuutta, ja virasto on päätynyt omassa raportissaan siihen, että ministeriö on
+puuttunut epätarkoituksenmukaiseksi tulkitulla tavalla Finavian omistajaohjauksen opera-
+tiiviseen toimintaan sovintoneuvotteluja aloitettaessa tilintarkastusyhteisön kanssa ja tästä
+sopimuksesta neuvoteltaessa.
+
+Valiokunta puolestaan kävi samaa asiaa lävitse ja päätyi siihen, että tässä asiassa ei ole
+toimittu perinteisen eikä vakiintuneen valtioneuvoston omistajaohjauksen mukaisesti. Va-
+liokunta omassa kannassaan toteaa, että syksyn 2015 aikana omistajaohjauksen ja yhtiön
+päätöksenteko ovat sekoittuneet toisiinsa ei-toivottavalla tavalla. Samaten valiokunnan
+johtopäätös kaikesta kuulemastaan on se, että ministeriön rooli sovintosopimusprosessissa
+näytti asiantuntijakuulemisten perusteella pikemminkin asioihin vaikuttamiselta kuin pel-
+kästään taustalla odottamiselta.
+
+Sitten valiokunta on tehnyt paljon työtä ja pohtinut vaikeita kysymyksiä koskien tietysti
+omistajaohjauksen ratkaistavana olevia asioita, muun muassa sitä, miten näissä vahingon-
+korvauskanteissa olisi tullut menetellä. Valiokunta on pohtinut yhtäältä yhtiön etua vahin-
+gonkorvauskanteiden nostamisessa ja niiden eteenpäinviennissä ja toisaalta sitten yleistä
+etua omistajaohjauksen näkökulmasta. Valiokunnan lopputulema tässä on, että yleinen etu
+vaatii luottamusta valtionyhtiöiden hyvään hallintoon ja veronmaksajien rahan käyttöön ja
+että nämä tekijät yleisesti puoltavat asioiden selvittämistä ja että tältä kannalta katsoen va-
+hingonkorvauskanteiden nostaminen asianmukaisten juridisten selvitysten jälkeen olisi ol-
+lut perusteltua.
+
+Sitten valiokunta on edelleen pohtinut myös kysymystä yhtiökokouksen järjestämises-
+tä, samaa kysymystä, jota ovat pohtineet tietysti tarkastusvirasto ja myös valtioneuvoston
+kanslian omistajaohjausyksikkö. Tässä valiokunta päätyi siihen, että olisi ollut suotavaa
+3
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+ratkaista asia yhtiökokouksessa, koska asiaan liittyy paljon yleisiä kannanottoja ja valtion
+yleistä intressiä ja tämä olisi pitänyt myös päätöksentekoprosessin selkeänä. Mutta tämän-
+kin edellytyksenä on, että asiaa koskevat juridiset selvitykset on asianmukaisesti tehty.
+
+Valiokunta päätyi lopuksi esittämään eduskunnalle kannanottoa, joka pitää sisällään
+kaksi ehdotusta:
+
+Ensimmäinen koskee riskienhallinnan ohjeistusta. Valiokunta ehdottaa, että eduskunta
+edellyttäisi, että hallitus ryhtyy toimenpiteisiin ja antaa riskienhallintaa koskevan yleisen
+ohjeistuksen valtio-omisteisille yhtiöille. Vaikka asiassa ei laajemmin ole tiettävästi ollut
+ongelmia, on kuitenkin jatkojohtopäätösten kannalta perusteltua, että asiasta ohjeistetaan
+kirjallisesti.
+
+Ja toinen valiokunnan kannanottoehdotus on, että eduskunta edellyttäisi, että hallitus
+tarkentaa valtion omistajaohjauksen toimintaperiaatteita erityisesti valtion kokonaan omis-
+tamissa yhtiöissä ja tämä tapahtuisi vuoden 2017 loppuun mennessä. 
+
+Yksi asia, jota valiokunta on pitkään käynyt lävitse, koskee sitä, missä määrin on erityi-
+siä näkökohtia juuri valtion kokonaan omistamissa yrityksissä omistajaohjauksessa ja
+ovatko kaikki valtioneuvoston yleiset omistajaohjausta koskevat periaatteet voimassa näis-
+sä sataprosenttisesti omistetuissa yhtiöissä. Asiassa on myös liikenne- ja viestintäministe-
+riö toimittanut hankkimiansa omia asiantuntijalausuntoja, joissa nähdään tämä valtion toi-
+mintamahdollisuus huomattavasti vapaammin kuin mitä se perinteisesti valtion omista-
+massa yhtiössä on omistajaohjauksessa ollut. Tämänkin takia valiokunta pitää välttämättö-
+mänä, että epäselvä tilanne ei jatku pitkään ja että asiaa koskeva ohjeistus tehdään niin, että
+kaikki asianosaiset tietävät, minkä sääntöjen mukaisesti menetellään.
+
+Lopuksi haluan kiittää valiokunnan jäseniä ja kaikkia tähän mietintöön myötävaikutta-
+neita: tarkastusvirastoa, liikenne- ja viestintäministeriötä, Finaviaa ja muita asiantuntijoi-
+ta. Kaikki asiantuntijat ovat olleet valmiita tähän työhön osallistumaan. Työ ei ole ollut
+helppo, siinä on ollut paljon myös hankalaa asioiden arviointia ja tietysti myös poliittista
+latausta ottaen huomioon, että omistajaohjauksesta on vastannut useampikin ministeri ja
+kaikilla heillä on jokin puoluekanta. Uskon kuitenkin, että tämä lopputulos suhteessa ob-
+jektiivisiin, selkeisiin tapahtumiin ja asian arviointiin on paikkansapitävä ja antaa edelly-
+tykset jatkossa omistajaohjauksen johdonmukaiseen eteenpäinvientiin.
+
+14.22 Pääministeri Juha Sipilä:  Arvoisa puhemies! Finavia Oyj:ssä on tehty vuosina
+2009—2011 johdannaissopimuksia, joiden tarkoituksenmukaisuus on valiokunnan mie-
+lestä jäänyt epäselväksi. Olen tästä täysin samaa mieltä. En todellakaan ymmärrä, mihin
+näitä on tarvittu. Sopimuksista aiheutui yhtiölle noin 34 miljoonan euron tappiot.
+
+Tarkastusvaliokunnan mietinnössä on kaksi viestiä valtionyhtiöiden omistajaohjauksel-
+le. Ensinnäkin valiokunta on pitänyt valtio-omisteisten yhtiöiden riskinhallinnan asianmu-
+kaista järjestämistä tärkeänä ja katsonut, että valtioneuvoston tulisi antaa asiaa koskeva oh-
+jeistus. Toiseksi tarkastusvaliokunta on pitänyt välttämättömänä, että hallitus tarkentaa
+valtion omistajaohjauksen toimintaperiaatteita valtion kokonaan omistamissa yhtiöissä,
+määrittelee sallitun ja epätarkoituksenmukaisen omistajaohjauksen rajat, tekee tarvittavat
+muutokset ja huolehtii niiden jalkauttamisesta.
+
+Arvoisa puhemies! Valtiolla on omistusta yhteensä 62 yhtiössä. Näistä 47 on listaamat-
+tomia, suorassa valtion omistuksessa olevia yhtiöitä. Valtion omistajaohjaus on jakaantu-
+nut kahdeksaan ministeriöön. Suurin osa omistuksista on keskitetty valtioneuvoston kans-
+liaan. Valtion omistajaohjauksen keskeiset periaatteet perustuvat lainsäädäntöön, valtio-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+neuvoston omistajapolitiikkaa koskeviin periaatepäätöksiin sekä Arvopaperiyhdistys ry:n
+laatimaan listayhtiöiden hallintokoodiin ja OECD:n corporate governance -suosituksiin.
+
+Ensimmäisen kerran valtion omistamille yhtiöille annettiin governance-suosituksia jo
+vuonna 2000. Jo silloin edellytettiin muun muassa riskinhallinnan järjestämistä yhtiöissä.
+Nykyinen koodisto, jota valtionyhtiöt soveltavat, edellyttää riskinhallinnan periaatteiden
+kuvaamista ja raportointia yhtiön toimintakertomuksessa. Yrityksissä riskienhallinta kuu-
+luu yrityksen hallituksen toimivaltaan ja tehtäviin. Yhtiön toimivan johdon tehtävänä on
+toimeenpanna yhtiön hallituksen riskinhallintapolitiikka ja raportoida toteutumasta yhtiön
+hallitukselle.
+
+Riskienhallinnan tulee säilyä yrityksen hallituksen työkaluna. Tämä on tärkeää myös
+hallituksen osakeyhtiölain mukaisen vastuun määrittämisen kannalta. Pidän itsestään sel-
+vänä, että jokaisen yhtiön hallitus käy säännöllisesti läpi vuosikellonsa mukaisesti riskien-
+hallinnan kokonaisuuden. Tästä ei saa olla mitään epäselvyyttä. Jos asiasta on pienikin
+epäilys, se tulee selvittää. Tämän vuoksi olen määrännyt valtioneuvoston kanslian omista-
+jaohjausosaston selvittämään kaikkien yhtiöiden vallitsevat käytännöt. Valtio-omistaja
+edellyttää yhtiöiltä, että niillä on ajantasainen riskienhallintapolitiikka ja että sitä käsitel-
+lään yhtiöiden hallituksissa säännöllisesti.
+
+Tarkastusvaliokunnan toinen esiin tuoma kehityskohde liittyy omistajan tekemiin pää-
+töksiin. Itse ajattelen, että omistajan ja yhtiön edut ovat ainakin pitkällä tähtäimellä aina sa-
+mat. Tämä tietysti edellyttää yhtiöltä korkeaa yhteiskuntavastuuta, mihin omistajana olem-
+me viime kevään periaatepäätöksessä yhtiöitä erityisesti velvoittaneet. Omistajapäätökset
+tulee valiokunnan huomion mukaisesti tehdä kirjallisesti, mutta esimerkiksi huolelliseen
+toimintaan hallitusta tulee ja pitää voida kannustaa päätöskokousten ulkopuolellakin.
+Tämä voi olla tarpeen esimerkiksi tilanteissa, missä hallitus ei kykene yksimielisesti teke-
+mään sille kuuluvia päätöksiä. Itse en muista kymmenien yhtiöiden hallitustyöskentelyssä
+mukana olleena 25 vuoden ajalta yhtään tilannetta, missä yhtiön hallituksessa olisi joudut-
+tu äänestämään. Se lienee erittäin harvinaista ja saa syystäkin omistajan varpeilleen. Niin
+oli tässäkin tapauksessa.
+
+Kuten tarkastusvaliokunta toteaa, omistajakäytäntöjen on syytä olla yhtenäisiä. Sen
+vuoksi olen pyytänyt VNK:n omistajaohjausosastoa arvioimaan ohjeistuksen tarpeen ja
+tarvittaessa uudelleen ohjeistamaan kaikki ministeriöt ja valtio-omisteiset yhtiöt valiokun-
+nan esiin tuomien huomioiden pohjalta. Molemmat edellä mainitut tarkastusvaliokunnan
+edellyttämät asiat käsitellään ja toimeenpannaan viimeistään syksyllä 2017.
+
+14.27 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Valtio-omistei-
+set yhtiöt ovat tärkeä osa Suomen taloutta. On hyväksyttävä, että taloudelliseen toimintaan
+liittyy aina riskejä, myös valtio-omisteisissa yhtiöissä. Erityisesti johdannaiskauppa on vii-
+me vuosina saanut julkisissa organisaatioissa aikaan tilanteita, joissa riskienhallinta on pet-
+tänyt ja vahinkoja on syntynyt. Osaamisen lisäksi ovat puuttuneet ohjeet ja niiden valvon-
+ta. Osasyynsä on voinut olla sillä, että rahoituslaitokset ovat tarjonneet varsin mutkikkaita
+johdannaistuotteita, joiden riskiarviointi on ollut hyvin haasteellista. Riskienhallinta vaatii
+osaamista. Esimerkiksi Finaviassa on aiempina vuosina ollut selvästi osaamisvajetta, min-
+kä tarkastusvaliokunnan raporttikin osoittaa. On tärkeätä, että valtio-omisteisten yhtiöiden
+riskienhallintaan annetaan ohjeet, niin kuin valiokunta esittää. Valtionyhtiöiden johto ja
+hallitus tulee vastuuttaa varmistamaan, että ohjeita noudatetaan.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Toinen valiokunnan kannanottoehdotus on, että hallituksen tulee tarkentaa valtion omis-
+tajaohjauksen toimintaperiaatteita erityisesti valtion kokonaan omistamissa yhtiöissä. Yh-
+tiö toimii yhtiölainsäädännön mukaisesti, mutta valtio-omistajalla on erityisiä periaatteita
+ja vaatimuksia, joiden vuoksi lakia on täydennettävä ohjeilla. Omistajapolitiikasta tehdys-
+tä yleisluonteisesta periaatepäätöksestä huolimatta käytännöt vaihtelevat.
+
+Valiokunnan käsittelemässä tapauksessa asiantuntijanäkemykset ovat poikenneet toisis-
+taan. Mietinnöstä käy myös ilmi, että sama toimija on voinut edustaa erilaista näkemystä
+prosessin eri vaiheissa. Nämä seikat osoittavat kiistatta ohjeiden tarkentamisen tarpeen.
+
+Yhtiö sopii myös julkisyhteisön tavaksi organisoida palveluita, jos julkisen vallan käy-
+tön lisävaatimukset otetaan huomioon yhtiön ja sen omistajaohjauksen toimintaperiaatteis-
+sa. Meneillään on uudistuksia, joissa julkisomisteisten yhtiöiden määrä lisääntyy. On tär-
+keätä keskustella julkisomisteisten yhtiöiden periaatteista. Tarkastelu voisi olla laajaakin
+ja koskea myös avoimuuden ja julkisuuden periaatteita. Voisi olla perusteltua soveltaa jul-
+kisuuslakia nykyistä laajemmin. Se lisäisi luottamusta yhtiöön julkisyhteisön tapana järjes-
+tää palveluita.
+
+Valiokunta katsoo, että valtionyhtiöissä yleisen edun merkitys korostuu oikeusprosesse-
+ja harkittaessa. Valtionyhtiöissäkään ei voi sivuuttaa huolellista oikeudellista arviointia
+kanteita nostettaessa, mitä ymmärtääkseni valiokuntakin on pitänyt tärkeänä. Valtionyhti-
+ön ei yleisen edun nimissäkään ole viisasta viedä jokaista riitaansa käräjille. Esimerkiksi
+Finavia ei ole menestynyt käynnistämissään prosesseissa, niin kuin valiokunta toteaa.
+
+Valiokunta suosittelee vastuukysymysten ratkaisemista valtionyhtiöiden yhtiökokouk-
+sessa. Se on usein perusteltua. On hyvä säilyttää roolit selkeinä niin, että yhtiön hallitus
+vastaa operatiivisista asioista tarkastellen asiaa vain yhtiön edun näkökulmasta, niin kuin
+osakeyhtiölaki edellyttää. Omistaja taas voi ottaa huomioon yleisen edun. Asia ei kuiten-
+kaan aina ole aivan ongelmaton. Yhtiön johdolla ja hallituksella täytyy olla täysi vastuu
+myös vastuukysymysten ratkaisemisesta yhtiön etua silmällä pitäen. Omistajalla on mie-
+lestäni syytä säilyttää oikeus vaatia nimittämältään hallitukselta, että se asiat huolellisesti
+selvitettyään päättää ja myös vastaa asioista, jotka sille kuuluvat.
+
+Valiokunta on käsitellyt tätä ainutlaatuista asiaa 33 kokouksessa. Omistajan toiminta on
+valiokunnan mukaan ollut poikkeuksellista, mutta sellainen on ollut asiakin. Omistaja on
+joutunut olemaan asiassa poikkeuksellisen aktiivinen, sillä eripuraisen hallituksen toimin-
+ta ei ollut vakuuttavaa. Vastuuntuntoisen omistajan tulikin vaatia yhtiöltä huolellisuutta.
+Omistajan aktiivisuus ei kuitenkaan tarkoita sitä, että yhtiön päätöksentekoon olisi mis-
+sään vaiheessa puututtu.
+
+Arvoisa puhemies! Voin täysin yhtyä valiokunnan päätösehdotukseen. Se antaa hyvän
+pohjan kehittää yhtiömallin käyttöä valtion organisoidessa palveluita ja yhtiöidensä omis-
+tajaohjausta. Omistajaohjauksen periaatteita kehitettäessä on mahdollista tarkastella myös
+valiokunnan mietinnössä esitettyjä ajatuksia valtionyhtiön vastuukysymysten käsittelemi-
+sestä aina yhtiökokouksessa sekä siitä, tulisiko valtionyhtiön aina ratkaista vastuukysy-
+mykset oikeusteitse.
+
+Finavia-konsernin liikevaihto ja kannattavuus vahvistuivat kaikkien aikojen ennätyk-
+seen vuonna 2016. [Oikealta: Hyvä!] Finavia on toteuttanut vuosina 2014—2016 noin 100
+miljoonan euron investointiohjelman alueellisilla lentoasemillaan. Lisäksi vuonna 2014
+käynnistetty Helsinki-Vantaan 900 miljoonan euron mittava kehitysohjelma on edennyt
+suunnitellusti. Suomeen syntyi uusia lentoreittejä, ja lentoasemien matkustajamäärät kas-
+voivat. Ydinliiketoiminnassaan Finavia on ollut onnistunut ja hyvin johdettu yhtiö.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Toinen varapuhemies Arto Satonen: Nyt on mahdollisuus esittää debattipuheenvuoroja,
+eli vastauspuheenvuoroja voi pyytää painamalla V-painiketta.
+
+14.33 Olavi Ala-Nissilä kesk (vastauspuheenvuoro):  Arvoisa herra puhemies! On hyvä
+todeta, että valiokunnan suositukset otetaan hallituksen taholta näin vastaan ja laitetaan
+asiat liikkeelle.
+
+Todellakin Finavia tällä hetkellä toimii hyvin, ja tämä vastuiden selvittäminen on nyt
+minusta syksystä 2015 lähtien ollut määrätietoista ja asiat on saatu hallintaan. Julkisuudes-
+sa on ehkä vähän tullut väärä käsitys, eli kanne tilintarkastusyhteisöä kohtaan ei ole 33 mil-
+joonaa, ei 30 miljoonaa, niin kuin edustaja Rinne tänään näkyi Ylellä toteavan, vaan se on
+300 000, eli se on prosentti siitä summasta, mikä tässä on kyseessä. Mielestäni on huomat-
+tava myöskin, että Finavia ei ole ollut menestyksellinen näissä kanteissa ja että Vantaan kä-
+räjäoikeuden päätös oli hyvin selkeä: rikosperusteissa on tuomioistuimessa käytetty eri pe-
+rusteita kuin VTV on käyttänyt näissä lausunnoissaan. Se, että tehdään tyhmiä päätöksiä,
+[Puhemies koputtaa] otetaan väärä korkonäkemys, ei vielä aiheuta vahingonkorvausvas-
+tuuta eikä rikosoikeusvastuuta.
+
+14.35 Antti Rinne sd (vastauspuheenvuoro):  Arvoisa puhemies! Kiitos pääministerille
+selkeästä ja hyvästä vastauksesta ja kannanotosta näihin tarkastusvaliokunnan mietinnössä
+esitettyihin toimenpidesuosituksiin. Sama koskee ministeri Berneriä omassa puheenvuo-
+rossaan.
+
+Mutta, arvoisa puhemies, tässä on aika merkittävästä kysymyksestä siinä mielessä kysy-
+mys, että ministeri Bernerin toiminta syksyn 2015 aikana ansaitsee nyt tulla läpivalaistuksi
+tässä tilanteessa. Minua ihmetyttää ensinnäkin se, miten on syntynyt tämä mielipiteen
+muodostuksen muutos syksyn 2015 aikana liittyen tähän tilintarkastusyhteisöön. Ja sitten
+kun ministeri Berner on useaan otteeseen todennut, että hän ei ole puuttunut yhtiön asioi-
+hin, niin kun sitten kuitenkin tämä tarkastusvaliokunnan selvitys ja tämä mietintö ja Val-
+tion tarkastusviraston raportti osoittavat, että te olette aktiivisesti toiminut tässä asiassa,
+niin miten tämä ristiriita [Puhemies koputtaa] on nyt selvitettävissä?
+
+14.36 Paavo Arhinmäki vas (vastauspuheenvuoro): Arvoisa herra puhemies! Me kaikki
+varmasti olemme sitä mieltä, että Finavian johdannaiskaupat olivat täysin sopimattomia
+valtionyhtiölle — on ainakin yksi asia, josta meillä täällä on yksimielisyys. Myös se toi-
+minta, miten näitä lähdettiin selvittämään, oli oikeansuuntaista: lähdettiin hakemaan niitä
+ratkaisuja, millä tätä voidaan korjata ja saada myös veronmaksajille valtionyhtiön mene-
+tyksistä korvauksia. Mutta se iso kysymys nyt tässä keskustelussa on se, että kun ministeri
+Berner tuli puikkoihin, niin meno muuttui. Siinä vaiheessa alettiin jarruttamaan sitä toi-
+mintaa, jota oli aikaisemmin tehty. Nyt tarvitaan selkeä vastaus siihen — ministerillä on
+tietenkin oikeus toimia sataprosenttisesti valtion omistamassa yhtiössä, mutta se pitää teh-
+dä avoimesti ja julkisesti — miksi te, ministeri Berner, kuitenkaan ette toiminut näin vaan
+painostitte yhtiön hallitusta. [Puhemies koputtaa] Te käytitte valtaanne, mutta te ette otta-
+nut julkisesti vastuuta siitä vallan käyttämisestä.
+
+14.37 Markku Eestilä kok (vastauspuheenvuoro):  Arvoisa puhemies! Kuten edellinen
+puhuja totesi, varmaan tässä salissa vallitsee yksimielisyys siitä, että riskijohdannaiset ei-
+vät missään tapauksessa kuulu julkisomisteisen osakeyhtiön varainhallintaan. Ja myös
+7
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+pääministeri totesi hyvin, että ei osakeyhtiöissä yleensä äänestetä, mutta sen verran lisäi-
+sin, että kyllä se käsitys, mikä itselläni on osakeyhtiöistä ja yleensä johtamisesta, on se, että
+ennemmin tai myöhemmin myös kaksipäinen johtajuus johtaa ongelmiin — se tulkoon
+mainituksi.
+
+Mutta minun täytyy kyllä kysyä — ennen kuin ruvetaan neljää ministeriä ja heidän te-
+kemisiään laajemmin tässä salissa arvioimaan — mikä, pääministeri, teidän mielestänne
+on kansliapäällikön rooli ja vastuu tässä asiassa. Kuitenkin vastuuministeriössä täytyy olla
+pitkä virkamiesnäkemys siitä, miten omistuksessa oleviin osakeyhtiöihin vaikutetaan ja
+mitkä mekanismit ovat sallittuja ja mitkä eivät. Toivoisin, että pohtisitte vähän kansliapääl-
+likön roolia.
+
+14.38 Esko Kiviranta kesk (vastauspuheenvuoro): Arvoisa puhemies! Minun arvioni on,
+että yhden yhtiön — olkoonkin, että valtionyhtiön — asioiden näin yksityiskohtainen pen-
+kominen vuosien ajalta ja takaa kovin huonosti sopii tänne eduskuntaan. Joku voisi jopa sa-
+noa, että kysymyksessä on ollut arvoton näytelmä. [Ville Niinistön välihuuto]
+
+Toivon, että tämä mietintö jää eduskunnan historiaan lajissaan ainoana. [Paavo Arhin-
+mäen välihuuto] Hyvää on se, että mietintö on yksimielinen, ja minusta nuo valiokunnan
+kannanottoehdotukset olisivat riittäneet, ja erittäin hyvä asia on, että hallitus on luvannut
+ottaa ne pikatahtia huomioon omissa päätöksissään.
+
+14.39 Peter Östman kd (vastauspuheenvuoro): Arvoisa puhemies! Tämä on asia, joka on
+herättänyt paljon keskustelua julkisuudessa. Siinä keskustelussa ollaan keskitytty niihin
+päätöksiin ja mahdollisiin virheisiin, joita on tehty vuosina 2015 ja 2016. Arhinmäki tässä
+sanoi, että me olemme varmasti yhtä mieltä siitä, että johdannaiskaupat eivät sovi valtion
+omistamalle yhtiölle. No, jos tämä on se oikea johtopäätös, niin silloin meidän pitäisi miet-
+tiä myöskin, [Paavo Arhinmäen välihuuto] milloin nämä suurimmat virheet ovat tapahtu-
+neet. Olen ymmärtänyt niin, että nämä johdannaiskaupat tehtiin pääosin vuosina 2009 ja
+2010, mutta siitä huolimatta tämä julkisuuskeskustelu, mitä olemme käyneet syksyn aika-
+na, on keskittynyt vuosiin 2015 ja 2016. Tässä mielessä on hyvä, että tarkastusvaliokunta
+on johtopäätöksissään edellyttänyt, että hallitus ryhtyy toimenpiteisiin ja antaa riskienhal-
+lintaa koskevan [Puhemies koputtaa] ohjeistuksen valtio-omisteisille yhtiöille. Silloin me
+olemme oikeilla jäljillä, jos korjataan myöskin se, ettei tulevaisuudessa synny näitä virhei-
+tä uudelleen.
+
+14.40 Johanna Ojala-Niemelä sd (vastauspuheenvuoro): Arvoisa herra puhemies! Kyllä
+tässä herää kysymys, miksi kanteita ei viety eteenpäin, jotta veronmaksajille syntynyttä ku-
+lua olisi saatu minimoitua. Ensin ministeriön taholta vedottiin yhtiökokouksen järjestämi-
+seen, jota ei tullut koskaan. Sittemmin annettiin suoranainen kielto edetä asiassa. Myöhem-
+min ilmeni, että Finavian silloisen hallituksen selän takana oli toimittu. Ministeri Berner on
+ilman Finavian hallituksen päätöstä tai tietoa neuvotellut sovintosopimuksen tilintarkas-
+tusyhteisön kanssa marraskuussa 2015. Kysyn teiltä, ministeri Berner: kun sanotte, ettette
+ole puuttunut hallituksen, yhtiön, toimintaan, niin eikö tämä mitä suurimmassa määrin ole
+juuri puuttumista tähän?
+
+14.41 Antti Kaikkonen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Taustalla ovat
+siis 2009—2011 tehdyt johdannaissopimukset, [Paavo Arhinmäen välihuuto] virheet on
+8
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+tehty aiemmilla vaalikausilla. Nyt meillä ministeri on näitä virheitä koettanut parhaansa
+mukaan selvittää. Tarkastusvaliokunnan yksimielisessä mietinnössä oli kaksi keskeistä
+johtopäätöstä: riskienhallintaa koskeva ohjeistus ja sitten tämä selkeyttäminen toimintape-
+riaatteitten suhteen omistajaohjauksessa. Hyvä, että hallitus näihin nyt tarttuu. Tälle asial-
+le voidaan näin ollen pikkuhiljaa laittaa kyllä pistettäkin, ja menemme kaikki hieman vii-
+saampina eteenpäin.
+
+14.42 Sirpa Paatero sd (vastauspuheenvuoro): Arvoisa herra puhemies! Tässä on poik-
+keuksellinen tietysti tämä johdannaiskauppa, mutta kyllähän tämä käsittely on hyvin poik-
+keuksellinen, minkä takia tämä velloo sekä täällä eduskunnassa että julkisuudessa. Kansa-
+laisten oikeustajuun ei millään meinaa mahtua, että noin 30 miljoonaa ovat nähtävästi ne
+tappiot, ne ovat valtion kassasta jääneet saamatta, ja sitten ei kukaan ota vastuuta. Itse
+asiassa, vaikka vastuuta on haluttu perätä, sitä ei saa perätä. Tämä ei millään meinaa men-
+nä ihmisten oikeustajuun eikä myöskään omaani. On toisaalta ihan kestämätöntä, jos meil-
+lä on valtionyhtiöitä ja ne eivät tottele eivätkä noudata niitä yhteisesti sovittuja ohjeistuk-
+sia ja jos meillä ministeriöissä, jokaisessa ministeriössä, on yhtiöitä, jotka toimisivat sitten
+yhden ministerin tai siellä johdossa olevien virkamiesten erillisillä toimintaohjeilla. Tässä
+oli omistajaohjausyksiköstä selkeät ohjeet, miten tuli edetä: ylimääräinen yhtiökokous ja
+kanteet [Puhemies koputtaa] voimaan.
+
+14.43 Kauko Juhantalo kesk (vastauspuheenvuoro): Herra puhemies! Minusta valiokun-
+ta on tehnyt hyvää työtä tässä selvityksessä, vaikka se kesti pitkään. Entisenä asianajajana
+tutustuin hyvin huolella siihen, ja siinä oli kyllä eri puolilta katsottu tilannetta, joka on syn-
+tynyt usean ministerin aikana vahingossa ja joka liikkui positiivisesta miinus 70 miljoo-
+naan, kun se päätettiin, että se oli se 34. Minusta on hyvä, että ministeri Bernerin toimesta
+tähän asiaan on kunnolla puututtu. Tämä täytyi selvittää. Arvostettujen asianajajakollego-
+jen mietintöjä katsoessa huomasin, että tämä on niin kuin riita-asia: samasta asiasta arvok-
+kaat asianajajat olivat niin kuin riita-asiassa eri mieltä, miten pitäisi toimia ja mikä vastuu
+on kullakin. Tämä osoittaa sitä, että silloin yhtiön oikeudellisella omistajalla on aina yhtiö-
+kokous taskussa, [Puhemies koputtaa] yhden miehen yhtiöllä, ja tässä on niin toimittu. Joh-
+topäätökset ovat oikeita.
+
+14.44 Timo Harakka sd (vastauspuheenvuoro): Arvoisa puhemies! Minulle soitti tänään
+erittäin arvostettu tilintarkastuksen ammattilainen. Hän korosti, että on täysin kestämätön-
+tä, jos tällaisesta menettelystä ei joudu minkäänlaiseen edesvastuuseen. Toisin kuin minis-
+teri Berner on väittänyt, hän on aktiivisesti puuttunut Finavian päätöksentekoon yhtiön ja
+mahdollisesti veronmaksajien vahingoksi. Pääministeri on omistusohjauksesta vastaava
+ministeri, joten on merkittävää, että hän puolustaa menettelyä. Linjaus on siis se, että mi-
+nisterin on sopivaa puuttua yhtiön hallituksen itsenäisiin päätöksiin, ja myös linjaus on se,
+että valtio ei pyri korvauksiin vahingoista, vaikka tästä kanteesta yhtiön hallitus oli yksi-
+mielinen, ei erimielinen. Tämä tilintarkastuksen ammattilainen totesi, että tämä ei vastaa
+kansalaisten oikeustajua: jokainen euro, joka vähävaraiselta voidaan leikata, kelpaa halli-
+tukselle, mutta kun yhtiöltä vaaditaan korvauksia, siitä luovutaan noin vain. En voi olla
+kuin samaa mieltä. Pääministeri Sipilä, ovatko nämä — tämä linjaus ja tämä toiminta — ol-
+leet mielestänne täysin moitteettomia ministeri Bernerin osalta?
+9
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+14.45 Ville Niinistö vihr (vastauspuheenvuoro): Arvoisa puhemies! Tässä on hyvin mit-
+tavasta ja periaatteellisesta kysymyksestä kyse, ja on hyvä, että tarkastusvaliokunta on teh-
+nyt hyvää työtä ja siihen hallitus on myös osaltaan hyvin vastannut: miten varmistetaan jat-
+kossa, että käytännöt ovat sellaisia, että ylipäätään tällaisia riskisijoituksia eivät valtionyh-
+tiöt tee, ja toisaalta käytännöt varmistavat sen, että tällaisia, näin isoja riskejä, ei myöskään
+pääse syntymään vahingossa.
+
+Mutta se, mitä nyt tässä keskustelussa pitää tarkemmin käydä läpi, on kuitenkin poliitti-
+nen vastuu syksyn 2015 osalta, ja haluaisin kuulla pääministerin näkemyksen sekä minis-
+teri Bernerin näkemyksen siitä, että jos omistajaohjauksen virkamiesnäkemys oli kuiten-
+kin se, että näitten kanteiden osalta pitäisi mennä eteenpäin ja yhtiökokous pitäisi järjestää,
+niin miksi päädyttiin toiseen lopputulokseen ja mikä siinä oli ministeri Bernerin rooli ja
+mikä siinä oli pääministeri Sipilän tietoisuus tästä, koska tekin olette kuitenkin omistaja-
+ohjauksesta vastaavana ministerinä tässä relevantti toimija.
+
+Toinen varapuhemies Arto Satonen: Myönnän vielä seuraavat vastauspuheenvuorot:
+edustajille Uotila ja Ala-Nissilä. Sen jälkeen ministerien vastaukset.
+
+14.46 Kari Uotila vas (vastauspuheenvuoro):  Arvoisa puhemies! Kummeksun kovasti
+sellaisia puheenvuoroja, ettei tällaisiin asioihin pitäisi puuttua, että tämä olisi jotain arvo-
+tonta näytelmää. Tarkastusvaliokunnan jäsenenä totean, että täällä eduskunnassa lakia sää-
+täessämme ja eduskunnan budjetista päättäessämme haluamme varmistaa, että kun teem-
+me lakeja ja budjettipäätöksiä, rahat menevät oikeaan tarkoitukseen, ja mietinnöt tukevat
+sitä käyttötarkoitusta, lausumista puhumattakaan. Tarkastusvaliokunnan tehtävänä on jäl-
+keenpäin katsoa, että on tapahtunut eduskunnan ja lainsäätäjän tahto ja yhteiset verorahat
+on käytetty tarkoituksenmukaisella tavalla. Ja on aivan luonnollista, että tämän suuruus-
+luokan keisseissä tällaisia prosesseja laitetaan liikkeelle ja veronmaksajan etua puoluste-
+taan myös tällaisella prosessilla. Ei tämä ole ainoa. Aika outo käänne tapahtui myöskin niin
+sanotussa asfalttikartellitapauksessa, kun yllättäen luovuttiinkin valittamasta korkeimpaan
+hallinto-oikeuteen, vaikka valitus oli jo [Puhemies koputtaa] sisään laitettu.
+
+14.47 Olavi Ala-Nissilä kesk (vastauspuheenvuoro):  Herra puhemies! Kyllähän tässä on
+tehty: tässä on ollut välimiesoikeusmenettely, tässä on ollut kantelu Finanssivalvonnalle,
+tässä on tehty rikosoikeudellinen selvitys, ja sillä perusteella on nostettu kaksi kannetta.
+Missään Finavia ei ole menestynyt. Näiden 33 miljoonan osalta on nostettu vahingonkor-
+vauskanne yhtiökokouksen päätöksellä, puheenjohtaja Sailaksen hallituksen erittäin huo-
+lellisen selvityksen pohjalta. Se tullaan näkemään, miten siinä käy. Tilintarkastajien osal-
+ta, tämän 33 miljoonan osalta, kanneasia on vielä auki. Siis kyllä tämä asia selvitetään yh-
+tiökokouksen päätöksin varsin perusteellisesti.
+
+Edustaja Harakalle sanon, että minäkin olen tämän alan agronomi. Kannattaa lukea Eero
+Prepulan lausunto, hän on ehkä paras Suomessa, koska hän on toiminut Keskuskauppaka-
+marissa toistakymmentä vuotta tällaisten asioiden selvittämisessä. Hänen mielipiteensä on
+täysin selvä: tässä ei ole oikeudellisia perusteita.
+
+Toinen varapuhemies Arto Satonen: Nyt ministerien vastauspuheenvuorot. Aloitetaan
+ministeri Berneristä, ja sen jälkeen pääministeri. — Ministeri Berner, 3 minuuttia.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+14.48 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Ymmärrän erit-
+täin hyvin, että tämä on monimutkainen ja haasteellinen kokonaisuus. Mutta kun tulin mi-
+nisteriksi kesällä 2015, mikä oli silloin Finavian johdannaistilanne? Silloin oli päätetty, et-
+tei nosteta kanteita edellisiä hallituksia vastaan, ja oli päätetty myöskin, että tehdään selvi-
+tyksiä, joita ei koskaan ollut toimeenpantu. [Eduskunnasta: Oho!] Oltiin käyty pankkien
+kanssa vastuista neuvotteluja, jotka eivät olleet vieneet eteenpäin, ja oltiin käyty Ifiä vas-
+taan välimiesmenettely, joka ei onnistunut.
+
+Sen sijaan kesällä 2015, kun astuin tähän tehtävääni, kysyin, oliko asiassa tehty poliisi-
+tutkinta. Ei ollut. Oliko tehty asiassa tehty selvityspyyntö Finanssivalvonnalle pankkien
+toiminnasta? Ei ollut. Oliko harkittu syy-yhteydet, elikkä oliko arvioitu sitä, millaiset va-
+hingot ovat syntyneet kenenkin päätöksen toimesta, kun 2009, 2010 ja 2011 on ollut erilai-
+sia päättäjiä, erilaisia hallituksen kokoonpanoja ja eri tilintarkastajat? Ei ollut. Silloin esi-
+tin hallitukselle, että olisi hyvä, että yhtiö tekisi näitä selvityksiä ja sitten ottaisi kantaa. Mi-
+nun aktiivisuuteni on ollut sitä, että olen pyytänyt ja vaatinut yhtiön hallitukselta, että se te-
+kee riittävän määrän selvityksiä. [Oikealta: Oikein!]
+
+Toinen aktiivisuuteni on ollut se, että olen pyytänyt neuvoa. Pyysin itse aktiivisesti neu-
+voa Valtion tarkastusvirastolta ja pyysin neuvoa valtion omistajaohjaukselta. Kutsuin hei-
+dät ministeriön palavereihin ja kokouksiin, ja he saivat olla kaikessa läsnä. Tämä on mi-
+nusta avoimuutta, mutta myöskin poikkihallinnollisuutta. Siitä kannan vastuuta varmasti,
+että sain ristiriitaiset ohjeet ja jouduin sitten itse arvioimaan, enkä ole missään vaiheessa
+väistänyt vastuutani.
+
+Mutta kaikesta tästä huolimatta en ole osallistunut yhtiön vastuulle kuuluvaan päätök-
+sentekoon vaan olen edellyttänyt, että yhtiö selvittää ja sen jälkeen tekee vastuulliset pää-
+tökset. [Johanna Ojala-Niemelän välihuuto] Ja nämä päätökset ja selvitykset on saatu pää-
+osin vasta keväällä ja kesällä 2016. Silloin kun poliisitutkinta on valmistunut, Finanssival-
+vonta on kantansa ottanut ja juridiset lisäselvitykset on tehty, valtio on pitänyt yhtiöko-
+kouksen ja silloin ottanut kantaa. Mutta ei ole ollut myöskään aina viisasta siirtää valtiolle
+vastuita ja menettää sitä kautta myös kanneoikeuksia ilman että on riittävästi selvityksiä ja
+taustatietoa.
+
+Poliisin teettämät selvitykset johtivat käräjäoikeuteen Finavian rahoitusjohtajaa ja vara-
+toimitusjohtajaa vastaan. Näistä tuli tammikuussa päätös, jossa Finavia hävisi tämän. Po-
+liisi ei nähnyt, että syytekynnys olisi ylittynyt hallituksen osalta. Deloitten osalta vastuut
+rajoittuivat 300 000—400 000 euroon, jolloin ehkä oli harkittava, onko hallitus varma
+omasta kannastaan. En pyytänyt sopimaan vaan pyysin arvioimaan ja huolehtimaan, että
+tehdyt päätökset ovat valtion kannalta viisaita. Kaikki päätökset, mitkä tähän saakka on li-
+sää tehty, ovat toistaiseksi johtaneet lisävastuisiin valtion kannalta. Myös viimeinen kärä-
+jäpäätös johti lisävastuisiin.
+
+Mutta vastuut eivät ole vielä loppuun käsiteltyjä. Meillä on edelleen menossa käräjäoi-
+keudessa kanne entistä toimitusjohtajaa vastaa. Tämän lisäksi vuoden 2011 tilintarkasta-
+jaa, joka on vastannut siitä lopusta ajasta, vastaan on kanneoikeus edelleen voimassa, siitä
+vielä tarvitaan harkintaa. Tämän lisäksi on avoimena, tarvitseeko kanteita nostaa myöhäi-
+sempiä hallituksia vastaan. Mennään päätös kerrallaan, huolellisesti harkiten ja viisautta
+käyttäen.
+
+14.53 Pääministeri Juha Sipilä: Arvoisa puhemies! Valtion omistajaohjauksen näkökul-
+masta tosiaan tässä on kaksi asiaa:
+11
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Ensinnäkin on tämä riskienhallinnan kysymys. Kun olen käynyt näitä ohjeistuksia läpi,
+se ohjeistus, että yhtiöiden hallituksia vaaditaan tekemään riskienarviointi, on ollut tosiaan
+hyvällä tasolla mielestäni jo sieltä vuodesta 2000 alkaen. Se, minkä nyt selvitämme, on se,
+ovatko nämä ohjeistukset jalkautuneet joka yhtiössä todellisuudeksi sillä tavalla, että joka
+vuosi tuo arviointi tehdään. Minusta se on itsestäänselvyys, että yhtiön hallitus, jonka toi-
+mivaltaan riskienhallinta ja riskienarviointi kuuluu, myöskin tekee sen.
+
+No, sitten tähän toiseen puoleen kysymyksistä. Se on päivänselvää sekä ministeri Ber-
+nerille että minulle että valtion omistajaohjausyksikölle, missä kulkee operatiivisen joh-
+don, missä hallituksen ja missä omistajan päätöksenteon vastuu. Mutta sitä mietin, onko-
+han se ihan selvää aina tässä salissa. Minä olen itse vastannut omistajaohjausministerinä
+kansanedustajien kirjallisiin kysymyksiin. Jos näitä kysymyksenasetteluja lukee, niin kyl-
+lä meitä siellä velvoitetaan ottamaan operatiivisiin asioihin kantaa. Esimerkiksi edustaja
+Skinnari kysyy, mitä aion tehdä omistajaohjausministerinä sille, että VR:n tytäryhtiö VR
+Track olisi osallistunut tiettyyn tarjouskilpailuun. Minusta tämä kuuluu operatiiviselle joh-
+dolle, ei välttämättä edes yrityksen hallitukselle, saati sitten omistajalle. Kyllä meillä nämä
+roolit menevät täällä keskustelussa jatkuvasti sekaisin.
+
+Jos omistajana puututaan sellaiseen tilanteeseen, jossa yhtiön hallitus on selvästi epävar-
+ma omasta päätöksestään, jopa äänestää ja muuttaa kantaansa, minusta silloin on ilman
+muuta oikeutettua, että omistajaohjauksesta vastaava ministeri menee ja kysyy ja vaatii
+huolellista toimintaa: arvioikaa nyt, mikä muutti kantaanne, mikä on syynä siihen, että hal-
+litus ei poikkeuksellisesti pääse yksimielisyyteen yhtiötä koskevassa tärkeässä asiassa.
+
+Sitten jälkikäteenhän näitä on helppo aina arvioida. Tämäkään todennäköisesti ei olisi
+pöydällä, jos tuosta olisi tullut voittoa. Täällä valiokunnan mietinnössä todetaan, että jos
+tämä olisi pysäytetty esimerkiksi jo helmikuussa 2013, tappio olisi ollut vain 7 miljoonaa,
+tai vuoden 2013 lopussa se olisi ollut 5 miljoonaa. Jos siihen olisi puututtu keväällä 2015,
+se olisi ollut 70 miljoonaa, kun se nyt on toteutumassa 34 miljoonana. Me näemme tästä,
+kuinka epävarma työkalu tämä oli. Tämä johdannaisen arvo vaihteli näin paljon, ja sillä
+ajoituksella, milloin se päätettiin, on aika iso taloudellinen merkitys.
+
+Toinen varapuhemies Arto Satonen: Sitten otamme seuraavan vastauspuheenvuorokier-
+roksen. Puheenvuoroja voi pyytää V-painikkeella.
+
+14.57 Antti Rinne sd (vastauspuheenvuoro): Arvoisa puhemies! Jos miettii ministeri Ber-
+nerin toimintaa, omia kertomuksiaan julkisuuteen siitä, että hän ei ole puuttunut millään ta-
+valla tämän yhtiön hallituksen toimintaan, ja sitten katsoo tätä tarkastusvaliokunnan mie-
+tintöä, niin käy täysin selväksi, että ministeri Berner on hallituksen tietämättä, hallituksen
+puheenjohtajan tietämättä neuvotellut sovintosopimuksesta Deloitten kanssa ja päätynyt
+sitten viemään asiaa eteenpäin niin, että itse asiassa yhtiön, Finavian, hallituksella ei ole ol-
+lut mitään muuta mahdollisuutta kuin hyväksyä tämä malli.
+
+Minusta tässä on selkeästi kysymys siitä, että ministeri Berner on aktiivisesti toiminut ja
+tällä toiminnallaan saattanut synnyttää vahinkoa myöskin valtiolle ja yhtiölle. Sen takia
+minusta tämä on äärettömän tärkeä asia nyt keskustella täällä. Minua ihmetyttää kovasti se,
+että kun oli tiedossa, että Keskuskauppakamarin tilintarkastuslautakunta tulee ottamaan
+kantaa tähän tilintarkastusyhtiön toimintaan kahta viikkoa myöhemmin kuin sitä ennen
+tehtiin päätös, [Puhemies koputtaa] minkä takia ministeri Berner ei voinut odottaa sitä ti-
+lintarkastuslautakunnan päätöstä.
+12
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+14.58 Antti Rantakangas kesk (vastauspuheenvuoro): Arvoisa puhemies! Ministeri Ber-
+ner on toiminut tässä osaavasti ja asiantuntevasti. Tämä Finavian ongelma tuli hänen sy-
+liinsä, ja myös kolme edellistä ministeriä olisivat voineet puuttua, niin kuin täällä päämi-
+nisteri totesi, tähän kysymykseen. On sinänsä harmillista, että täällä pyritään käymään jul-
+kisia käräjiä tilanteessa, jossa ministeri on aivan vakuuttavasti selvittänyt tämän tilanteen
+ja myöskin hallitus on hyvällä tavalla ottanut huomioon ne tarkastusvaliokunnan yksimie-
+liset esitykset tulevasta. Elikkä tämä arvoton näytelmä, mitä täällä vasemmalla laidalla teh-
+dään, ei palvele yhtiön etua, eikä se palvele suomalaisen demokratiankaan etua. Te välillä
+vaaditte, että ministerin pitää puuttua johonkin operatiiviseen valtionyhtiön toimintaan, ai-
+van kuten pääministeri kertoi, ja kysytte, miksi hallitus ei puutu, ja nyt te sanotte, että on
+puututtu sitten liikaakin. Elikkä voisi odottaa nyt ainakin hivenen johdonmukaisuutta, edes
+hivenen johdonmukaisuutta, siihen teidän toimintaanne. Mielestäni Bernerillä on täysi
+eduskuntaryhmän tuki, ja hän on erittäin asiantunteva, hyvä ministeri.
+
+15.00 Paavo Arhinmäki vas (vastauspuheenvuoro):  Arvoisa herra puhemies! Edustaja
+Kaikkonen täällä huutelee, että eiköhän tämä ole tässä ja laitetaan jo piste keskustelulle, ja
+sanoo, että tämähän tapahtui vuosina 2009—2010. En tiedä, haluaako Kaikkonen muistel-
+la, kuka silloin oli liikenneministerinä, tai onko siihen haluja aitiossa.
+
+Mutta kyllä tämä on iso kysymys, joka pitää kunnolla täällä käsitellä. Te yritätte nyt ma-
+ton alle siivota tätä sotkua. Iso kysymys on se, että Valtion tarkastusviraston mukaan mi-
+nisteriö suoritti sellaisia operatiivisiksi tulkittavia toimia, joista päättäminen ja joiden suo-
+rittaminen kuuluvat yhtiön ja sen johdon tehtäviin. Tämä siitä huolimatta, että ministeri
+Berner on antanut koko ajan ymmärtää, että ei hänellä ole isoa roolia. Kun katsoo tätä tar-
+kastusvaliokunnan tekemää mietintöä, niin se osoittaa hyvin selkeästi, että ministeri Ber-
+nerillä on ollut paljon isompi rooli kuin hän on julkisuudessa antanut ymmärtää. Ja kyllä se
+pitää täällä käydä läpi, miksi ministeri Berner yrittää toimia julkisuudelta piilossa [Puhe-
+mies koputtaa] ja kertoo aivan muuta kuin miten on toiminut.
+
+15.01 Harry Harkimo kok (vastauspuheenvuoro):  Arvoisa herra puhemies! Vuoden
+2009 jälkeen tehdyt johdannaiskaupat: Ministerinä vuosina 2011—2014 oli ministeri Kyl-
+lönen, niin kuin pääministeri sanoi. [Eduskunnasta: Mikä puolue?] Hän olisi voinut kat-
+kaista nämä johdannaiskaupan tappiot jo silloin, ja kaupan tappiot olisivat olleet vain joi-
+takin miljoonia. [Eduskunnasta: Ohhoh!] Eli nyt se ministeri, joka on joutunut selvittä-
+mään näitä asioita, joutuu tikun nokkaan. Onko tämä oikein? [Eduskunnasta: Ei ole!]
+
+15.01 Paavo Arhinmäki vas (vastauspuheenvuoro):  Arvoisa puhemies! Kuten edustaja
+Kaikkonen täällä halusi nyt tuoda ilmi, niin nämähän lähtivät liikkeelle ministeri Vehviläi-
+sen aikoina. Tässä ennen Berneriä on ollut kai kolme liikenneministeriä, ja kaikilla heillä
+on ollut selvä linja: pitää selvittää taustat, minimoida vahingot ja viedä asia oikeudellisesti
+eteenpäin, puuttua siihen toimintaan, jota Finavia on tehnyt ja joka ei ole hyväksyttävää.
+Tämä lähti liikkeelle, näin oltiin toimimassa ministeri Kyllösen ja kahden seuraavan lii-
+kenneministerin toimesta, mutta, ministeri Berner, te pysäytitte tämän toiminnan. Te olette
+antanut julkisuudessa ymmärtää, että teillä ei ole tässä roolia, mutta kun katsoo Valtionta-
+louden tarkastusviraston lausuntoja, kun katsoo tarkastusvaliokunnan mietintöä, niin niis-
+tä selvästi näkee, että teillä on ollut paljon suurempi rooli kuin annatte ymmärtää. Te olette
+käyttänyt valtaa, mutta te ette halunnut ottaa siihen valtaan liittyvää vastuuta.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+15.02 Antti Kaikkonen kesk (vastauspuheenvuoro): Arvoisa puhemies! Kun tässä nyt ar-
+keologiaa ryhdytään harrastamaan, niin käydään nyt sitten läpi tämä ministerilista, mikä se
+nyt oli siinä, jos näitä vastuunkantajia haetaan. Minustakin on aika käsittämätöntä, että kun
+tilanteet ovat tapahtuneet vuosia sitten, niin nyt sitten tämä henkilö halutaan laittaa nalk-
+kiin tästä kaikesta. [Paavo Arhinmäen välihuuto] Jatkan tätä listaa: Ministeri vuosina
+2011—2014 Kyllönen Vehviläisen jälkeen, sitten ministeri Virkkunen, ministeri Risikko
+sen jälkeen. Ja omistajaohjauspuolella, joka myöskin liittyy tähän näin, 2011—2013 mi-
+nisteri Hautala, sen jälkeen ministeri Haavisto, sen jälkeen ministeri Paatero. Nyt tätä vas-
+ta selvitetään. [Paavo Arhinmäen välihuuto] Mutta hyvä, että nyt selvitetään.
+
+15.03 Sirpa Paatero sd (vastauspuheenvuoro):  Arvoisa herra puhemies! On ihan totta,
+että jos katsoo tämän tarkastusvirastonkin huomiot, niin kaikki ovat näistä pelisäännöistä,
+kunnollisesta hallintotavasta ja governancesta samaa mieltä, niin kuin sekä pääministeri
+että liikenneministeri, mutta miksi sitten täällä lukee, että ministeriön toiminta tarkastusvi-
+raston näkemyksen mukaan edellä mainituilta osin on merkinnyt omistajaohjauksen ja yh-
+tiön operatiivisen päätöksenteon sekoittumista toisiinsa epätarkoituksenmukaisella taval-
+la? Kumpi on totta: se, mitä tarkastusvirasto on tänne kertonut, että nämä roolit ovat men-
+neet totaalisesti sekaisin, yhtiön operatiiviseen toimintaan on puututtu, vaiko se totuus,
+mikä on se tavoitetila, miten good governance oikeasti hoidetaan?
+
+15.04 Krista Mikkonen vihr (vastauspuheenvuoro):  Arvoisa puhemies! Niin kuin tässä
+on monessa puheenvuorossa tullut ilmi, omistajaohjaus valtionyhtiössä on varsin haasteel-
+lista. Toisaalta on paljon paineita siihen, että pitäisi puuttua operatiiviseen toimintaan,
+mutta se on kuitenkin lainsäädännöllisesti mahdotonta.
+
+Itse olen ollut tarkastusvaliokunnassa mukana tässä työssä, ja me olemme hyvin perus-
+teellisesti selvitelleet tätä koko tämän historian ajalta. Sinänsä minusta on oikein hyvä asia,
+että silloin syksyllä 2015 asiaan puututtiin tomerasti ja haluttiin vihdoin saada tämä joh-
+dannaissotku päätökseen. Mutta oleellista onkin, miten toimitaan. Tässä on toimittu taval-
+la, joka on hyvän hallinnon vastaista ja omistajaohjauksen linjauksen vastaista, ja tästä
+meidän täytyy keskustella. Eikä kyse ole siitä, että jos ei olisi tullut tappioita, niin tähän ei
+pitäisi puuttua. Totta kai tähän pitää puuttua silloin, kun ei noudateta ohjeita.
+
+15.05 Antero Laukkanen kd (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä tar-
+kastusvaliokunnan mietintö on harvinaisen huolellista työtä — olen erilaisissa tarkastus-
+tehtävissä ollut 16 vuotta — ja täällä mainittiin muun muassa Prepula, jota pidetään valta-
+kunnan ehdottomana ykkösmiehenä, hänen lausuntonsa on myös ollut merkittävä. Arvion
+on tehnyt erityisen vaikeaksi se, että neljän vuoden aikana on ollut neljä eri ministeriä, ja
+silloin joudutaan niitä pintoja tarkastelemaan, kenen vastuulla mikäkin asia on ollut. Tässä
+tarkastusvaliokunta on tehnyt aivan oikean johtopäätöksen, se on löytänyt monenlaisia
+puutteita siitä, miten hallintoa on kirjattu. Päätöksiä on jäänyt kirjaamatta, niitä pitäisi huo-
+lellisemmin kirjata. Ja valiokunnan päätösehdotus on aivan loistava: "Tämän vuoksi tar-
+kastusvaliokunta edellyttää, että hallitus tarkentaa valtion omistajaohjauksen toimintaperi-
+aatteita valtion kokonaan omistamissa yhtiöissä, määrittelee sallitun ja epätarkoituksenmu-
+kaisen [Puhemies koputtaa] omistajaohjauksen rajat." Ja niin edelleen. Olen täysin samaa
+mieltä, kun täällä on vaadittu, että ministerin pitää käyttää valtaa. Ja nyt [Puhemies koput-
+taa] sanotaan, että ei saa käyttää valtaa. Se on täysin epäjohdonmukaista.
+14
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Toinen varapuhemies Arto Satonen: Pidetään kiinni tästä minuutin ajasta, että useampi
+pääsee ääneen.
+
+15.07 Sirkka-Liisa Anttila kesk (vastauspuheenvuoro): Arvoisa puhemies! Pääministeri
+meille jo erittäin hyvin selvitti, mihin toimenpiteisiin hallituksen toimesta on ryhdytty tä-
+män tarkastusvaliokunnan yksimielisen mietinnön pohjalta. Samoin täällä on ministeri
+Berner hyvin seikkaperäisesti selvittänyt, mitä on käytännössä tapahtunut. Ja minä todella
+toivon, että me kuuntelemme paremmin toisiamme. Tässä keskustelussa on nyt semmoi-
+nen syyllistävä asenne ja lähtökohta, ja sille syyllistämiselle ei ole nyt olemassa minusta
+perusteita yksimielisen mietinnön pohjalta. Se on totta, että tarvitaan näitä ohjeita valtion-
+yhtiöiden omistajaohjausta varten, ja ne tehdään. Ja se huomautus, mikä nimenomaan va-
+liokunnalta tuli, on ihan aiheellinen. Mutta sen sijaan nämä ongelmathan kaatuivat minis-
+teri Bernerin syliin. Hän ei ole ollut millään lailla osallinen silloin näissä asioissa, kun näi-
+tä johdannaisia on tehty — se kannattaa pitää mielessä. Hänen tehtävänsä on ollut, ihan oi-
+kein, vaatia huolellinen selvitys, ja hallituksen tulee hoitaa ne tehtävät, jotka hallitukselle
+kuuluvat.
+
+15.08 Maarit Feldt-Ranta sd (vastauspuheenvuoro): Arvoisa puhemies! On tietysti sel-
+vä, että ministeri Bernerillä on intressi tässä asiassa, mutta meidän muiden täytyy kyllä
+pyrkiä tarkastelemaan tätä asiaa objektiivisesti, niin kuin olemme tarkastusvaliokunnassa
+tehneet. Ja taustallahan tässä on Valtiontalouden tarkastusviraston laillisuustarkastusra-
+portti, johon kaikki tämä työ pohjautuu. Ja tosiasia on kyllä se, että tämä Valtiontalouden
+tarkastusviraston raportti ja näkemys poikkeaa kovin paljon siitä, mitä ministeri täällä tä-
+nään eduskunnassa on sanonut, muun muassa Finavian johdon roolista. Kun ministeri äs-
+ken kyseenalaisti asioiden hoitamisen, niin tarkastusviraston kannanotto on kuitenkin, että
+Finavian johto on toiminut johdonmukaisesti ja tarkoituksenmukaisesti johdannaisvastui-
+den selvittämiseksi. Ja mitä tulee ministerin rooliin tässä, niin tarkastusvirasto toteaa, että
+liikenne- ja viestintäministeriö on sovinnaissopimuksesta neuvoteltaessa suorittanut sellai-
+sia operatiivisiksi tulkittavia toimia, joista päättäminen ja joiden suorittaminen luonteen-
+omaisesti kuuluvat yhtiön ja sen johdon tehtäviin, ja tarkastusvirasto on myös kyseenalais-
+tanut tämän.
+
+15.09 Antti Kurvinen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Tässähän on
+käynyt sillä tavalla, että valtionyhtiössä toimihenkilöt ja työntekijät ovat käyttäneet tällai-
+sia vaarallisia ja sopimattomia johdannaisinstrumentteja, ja se on johtanut tähän tilantee-
+seen, mitä on selvitetty. Lisäksi meille on selvinnyt myös se, mikä selviää myös täältä mie-
+tinnöstä sivulta 9, että jos vasemmistoliittolainen ministeri olisi reagoinut vuoden 2013 lo-
+pussa, niin vahingot olisivat olleet vain 5 miljoonaa. Nyt ne ovat sitten jotakin muuta. Kol-
+me ministeriä on sinipunahallitusten aikana vatuloinut tämän asian kanssa, ja nyt sitten mi-
+nisteri Anne Berner on pyrkinyt selvittämään asiaa ja laittamaan asiat siellä Finaviassa sii-
+hen kuntoon kuin ne pitää laittaa.
+
+Sen haluan tähän keskusteluun vielä ottaa esille, että ei monimutkaisia siviilioikeudelli-
+sia riitoja aina viedä käräjille miettimättä esimerkiksi kuluriskiä. Tässä asiassa, hyvät kol-
+legat, on ollut miljoonien eurojen kuluriski. Ei sitä lähdetä ihan kevytmielisesti viemään
+kanteita eteenpäin — kun liikejuridiikan ammattilaiset ovat liikkeellä, oikeudenkäyntiku-
+lut voivat tosiaan nousta jopa miljooniin — ja sekin on veronmaksajien intressi.
+15
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+15.10 Suna Kymäläinen sd (vastauspuheenvuoro):  Arvoisa puhemies! Ministeri ei voi
+valtionyhtiön suhteen toimia kuin yhtiön omistaja. Yhtiön omistavat suomalaiset. Ministe-
+rin tulisi edustaa heitä. 34 miljoonaa katosi tällä päätöksellä. [Välihuutoja] Omistajaoh-
+jauksesta vastaavan ministerin tulee noudattaa omistajaohjausta koskevia periaatteita. Ber-
+ner, kerroitte halunneenne lisäselvityksiä. Tarkastusvaliokunnan laajasta materiaalista ei
+käy ilmi, mitä nämä tarkoittamanne lisäselvitykset olisivat tai milloin ja missä niitä olisi
+pyydetty. VTV, omistajaohjaus ja ulkopuoliset asianajajat puolsivat kanteiden nostamista,
+mitä muuta te vielä tarvitsitte?
+
+15.11 Timo V. Korhonen kesk (vastauspuheenvuoro): Arvoisa puhemies! On erittäin hy-
+vä, että ministeri on hyvin määrätietoisesti lähtenyt poistamaan ja hoitamaan niitä ongel-
+mia, mitä Finavian myötä on syntynyt. On hyvä, että laajemminkin nyt selkeytetään sitten
+valtio-omisteisten yhtiöiden riskienhallinta. Minusta tässä on hyvin selvää myös se, että
+tällaista viime kauden kaltaista kyvyttömyyttä hoitaa tämäntyyppisiä ongelmia ei voi enää
+sallia. On aivan selvä asia, että minusta tuo viime kausi on menty aikamoisella tuuliajolla.
+Kun tätä keskustelua kuuntelee, niin voisi tietysti myös kysyä, laiminlöikö viime kauden
+hallitus valtion omistajaohjauksen, mutta enpä viitsi kysyä. [Timo Harakka: Hyvä, ettet
+kysynyt!]
+
+15.12 Outi Mäkelä kok (vastauspuheenvuoro): Arvoisa puhemies! Ketään syyllistämättä
+pidän erittäin tärkeänä, että näitä asioita on nyt selvitetty ja asioita voidaan arvioida avoi-
+mesti ja julkisesti. Ministerien toiminnan sekä valtionyhtiöiden toiminnan pitää kestää päi-
+vänvaloa, ja — mikä on erityisen tärkeää — pitää noudattaa toimintatapoja, jotka ovat yh-
+teisesti hyväksyttyjä. Ja kuten täällä on useaan kertaan todettu, tästä prosessista on otettava
+opiksi ja muodostettava yhteinen käsitys siitä, mikä on omistajaohjauksen toimintaperiaat-
+teiden mukaan hyväksyttävää, että ohjeistuksia noudatetaan, ne on jalkautettu ja että kai-
+killa toimijoilla on yhteinen käsitys siitä, miten toimitaan. Pidän myös järkevänä, että jul-
+kisuuslain noudattamista valtionyhtiöissä harkitaan.
+
+15.13 Maria Tolppanen sd (vastauspuheenvuoro):  Arvoisa puhemies! Tässä todellakin
+ihan hämmentyy, kun kuuntelee tätä keskustelua. Se, mikä tässä tuntuu oudolta, on, että
+tässä löytyy ainoastaan yksi asia, mistä ollaan täysin samaa mieltä, elikkä se, että te olette
+pyytänyt lausuntoja tuosta mainitusta sopimuksesta. Mutta nyt mietinnön mukaan on tul-
+lut myöskin toisilta asianajajilta lausuntoja mutta niitä ei olisi huomioitu sitten lainkaan yh-
+tiön kokouksissa. Tämä on minusta aika kummallista, ja vaikuttaa kyllä siltä, että siinä on
+silloin ollut kyllä ministeri mukana, että näitä muita lausuntoja ei ole huomioitu. Kysynkin
+teiltä: onko huomioitu vai eikö ole huomioitu? Kun on niin ristiriitaista tämä tieto, niin nyt
+on kysyttävä se ikävä kysymys, miten tässä nyt on, kumpiko ei pidä paikkaansa tai kumpi-
+ko käyttää vaihtoehtoista totuutta, mietinnön sanamuoto vai se, mitä ministeri on julkisuu-
+dessa lausunut.
+
+15.14 Jari Leppä kesk (vastauspuheenvuoro):  Herra puhemies! On päivänselvää, että
+omistajaohjauksessa tarvitaan ammattitaitoa ja pitkäjänteisyyttä. Sitä on tällä vaalikaudel-
+la pääministeri Sipilän ja ministeri Bernerin johdolla selvästi olemassa ja enemmän kuin
+aikaisemmin. [Paavo Arhinmäki: Siitä me ollaan vahvasti eri mieltä!] Viime kaudella mi-
+nistereitä tuli ja meni. Se ei voi olla vaikuttamatta omistajaohjaukseen, siellä tehtyihin toi-
+16
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+menpiteisiin, ja ei voi olla vaikuttamatta myöskään tähän yksittäiseen keissiin Finavian
+osalta. Näitä nyt selvitetään, näitä nyt on menestyksellisesti ministeri Berner selvittänyt.
+
+Mutta se on hyvä asia, niin kuin pääministerikin täällä totesi, että tarkastusvaliokunta on
+kaksi hyvää toimenpide-ehdotusta tehnyt. Niistä otetaan edelleenkin vaarin, jatketaan sitä
+kehittämistyötä omistajaohjauksessa, jota nyt on aloitettu, ja siihen tämä tarkastusvalio-
+kunnan mietintö on erinomainen työkalu.
+
+15.15 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa herra puhemies! Nythän puhutaan
+todella asiasta, missä on kysymys veronmaksajien rahoista ja kansalaisten luottamuksesta,
+ja siksi ihmisille ei voi tulla sitä käsitystä, että ongelmat lakaistaan maton alle tai kaveri
+päästetään pälkähästä. Mehän puhumme tästä syksyn 2015 kanteiden nostamatta jättämi-
+sestä, ja väkisinkin herää valitettavasti kysymys, onko tässä nyt ajettu veronmaksajien vai
+Deloitten etua.
+
+Puhemies! Mielestäni valiokunta päätyy aivan oikeaan johtopäätökseen todetessaan,
+että nimenomaan yleisen edun vuoksi olisi ollut viisasta ratkaista asiat oikeusteitse. Vali-
+tettavasti näin ei käynyt. Pyydän nyt kiinnittämään huomiota siihen, että kun lukee näitä
+valiokunnan mietinnön liitteenä olevia asiantuntijalausuntoja, niin käy varsin hyvin ilmi,
+että esimerkiksi Valtiontalouden tarkastusvirastolla, omistajaohjauksella on ollut täysin
+ristiriitaisia näkemyksiä siitä, miten olisi pitänyt [Puhemies koputtaa] menetellä ja mihin
+johtopäätökseen tulla.
+
+15.16 Lasse Hautala kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Kuten olem-
+me edustaja Heinäluoman puheenvuorosta täällä kuulleet ja voineet todeta, tarkastusvalio-
+kunta on tehnyt erittäin tarkkaa ja hyvää työtä. Siksi tuntuu jotenkin pahalta se, että nyt,
+edustaja Heinäluoma, teidän puoluetoverinne ja myös muu oppositio tuntuvat vetävän alas
+tätä teidän äärimmäisen hyvää työtänne. Tarkastuslautakunta on päätynyt hyviin johtopää-
+töksiin, ja niiden mukaan on hyvä elää.
+
+Tässä raportissa todetaan se, mikä täällä monissa puheenvuoroissa on tullut esille, että
+vuodet 2011 ja 2014 ovat olleet ongelmallisia nimenomaan siksi, että ministerit vaihtuivat.
+Ministerit Kyllönen, Virkkunen ja Risikko eivät omilla kausillaan näihin asioihin puuttu-
+neet lainkaan, mutta ministeri Berner on nyt ottanut kissan pöydälle ja hoitanut tämän asian
+kuntoon.
+
+Toinen varapuhemies Arto Satonen:  Nyt myönnän vielä vastauspuheenvuorot edusta-
+jille Rinne, Harkimo, Östman, Ala-Nissilä ja Heinäluoma, ja sen jälkeen ministerien vas-
+taukset.
+
+15.17 Antti Rinne sd (vastauspuheenvuoro): Arvoisa puhemies! Minusta tämän keskus-
+telun perusteella näyttää hyvin selvältä se, että tuohon syksyyn 2015 asti ollaan hyvin yk-
+simielisiä siitä, mitä on tapahtunut, ja täällä on varmaan hyvin kuvattu nyt sitä, mitä tässä
+on ministerien vaihtumisen ja kaiken tämän myötä tapahtunut. Mutta se erimielisyys, joka
+tässä salissa tällä hetkellä on, liittyy siihen, mitä tapahtui tuolloin syksyllä 2015. Siihen asti
+oli myös ministeri Berner sitä mieltä, että kanteet pitää nostaa myöskin tätä Deloittea koh-
+taan, mutta jotakin tapahtui silloin syksyllä, että ministeri päätyikin toisenlaiseen tapaan
+ratkaista asia, joka on johtanut siihen, että on toimittu hallituksen selän takana, ilman että
+hallitus on ollut tietoinen edes, että tämmöistä sovintoneuvottelua käydään, ja joka johti
+17
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+siihen, että syntyi sopimus, joka estää nyt sen, että Deloitten vastuuta voi selvittää. Tämä-
+hän on se todellinen riidan ydin nyt tässä kysymyksessä, ja tämä pitää selvittää. Tässä on
+vakavista menettelytapavirheistä kysymys.
+
+15.18 Harry Harkimo kok (vastauspuheenvuoro): Arvoisa herra puhemies! Koko tappio
+on yli 30 miljoonaa. Nyt me puhumme Deloitten vastuista, jotka ovat 400 000. [Eduskun-
+nasta: 300 000!] Ernst & Youngin aikana tuli 30 miljoonaa tappiota. Onko tämä ainoa asia,
+missä me saamme nyt ministerin kiinni siitä, että hän on tehnyt virheen, tämä 300 000:n rii-
+ta, jonka hallitus päätti ensin asettaa oikeuteen? Sen jälkeen he tekivät sovintoesityksen, ja
+se olisi ollut vastuun pakoilua, jos joku muu olisi tehnyt tämän päätöksen kuin hallitus itse.
+
+15.19 Peter Östman kd (vastauspuheenvuoro): Arvoisa puhemies! Kun tehdään johdan-
+naiskauppoja, tavoitellaan voittoja, mutta siihen liittyy myöskin riskejä. Jos valtio olisi teh-
+nyt voittoja, me emme ilmeisesti kävisi tätä keskustelua, mitä tänään käymme.
+
+Edustaja Korhonen kysyi, onko edellinen hallitus laiminlyönyt vastuunsa, kun asiaan ei
+ole puututtu. Vastaus on kyllä, ja näin on tehnyt myös sitä edellinen hallitus. Se on tosiasia.
+Joku oli laskenut, että nyt valtio on menettänyt yli 30 miljoonaa. Se ei pidä paikkaansa.
+Valtio on menettänyt itse asiassa 65 miljoonaa, koska jos tähän oltaisiin puututtu ajoissa,
+niin sitten me emme olisi hävinneet kuin 5 miljoonaa.
+
+15.20 Olavi Ala-Nissilä kesk (vastauspuheenvuoro): Arvoisa puhemies! Oleellista on se,
+onko yhtiössä noudatettu sen omia ohjeita. Valtiontalouden tarkastusvirasto on soveltanut
+vanhoja Ilmailulaitoksen ohjeita vuodelta 2001. Sen sijaan Prepula on todennut, että riip-
+pumaton käräjäoikeus on tehnyt päätöksensä vuosilta 2008—2010 olevien ohjeiden mu-
+kaan, joiden se katsoo olleen voimassa. Siis minusta tässä yksi oleellinen johtopäätös on
+myöskin, että — VTV tekee tarkastuksia, en kritisoi sitä — siellä pitäisi olla yhtiöoikeu-
+dellista asiantuntemusta ja mielestäni auktorisoituja tilintarkastajia, koska nämä ovat vä-
+hän vaikeita asioita. Me olemme nähneet tässä ongelmia. Mietinnössä ei todeta, että olisi
+toimittu hyvän hallintotavan vastaisesti, mutta ongelmia tässä prosessissa totta kai matkan
+varrella aina on.
+
+15.20 Eero Heinäluoma sd (vastauspuheenvuoro):  Arvoisa puhemies! Sallitaanko hiu-
+kan pidempi puheenvuoro tässä yhteydessä?
+
+Toinen varapuhemies Arto Satonen: Sallitaan nyt valiokunnan puheenjohtajalle 2 mi-
+nuuttia.
+
+Arvoisa puhemies! Muutama näkökohta on syytä todeta.
+Ensinnäkin liittyen tähän omistajaohjaukseen: Valiokuntahan haastatteli kaikki omista-
+
+jaohjauksesta tänä aikana vastanneet ministerit. Mielestäni ei ole perusteita syyttää minis-
+tereitä siitä, että he eivät olisi toimineet tai puuttuneet tähän asiaan. Selvityksessä kävi sel-
+västi ilmi, että kaikilla ministereillä oli sama kanta eli he ovat tukeneet yhtiön johdon toi-
+mintaa ja edellyttäneet, että vastuukysymykset selvitetään ja vahingonkorvauskanteita voi-
+daan nostaa. Tämä tuli useissa eri kuulemisissa esille, myös virkamieskuulemisessa. Tästä
+ei voi siis syyllistää edellisiä ministereitä. Tämä linja oli voimassa aina tuohon alkusyk-
+syyn 2015 saakka. Erimielisyys täällä koskee sitä, pitikö peruuttaa ne kanteet, joita yhtiön
+18
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+hallitus oli nostanut tilintarkastusyhteisö Deloittea vastaan vai ei. Siitä on ollut erimieli-
+syys sekä päätöksenteossa että täällä tänään.
+
+Toinen erimielisyys: oliko perusteet peruuttaa hallituksen jäseniä vastaan nostettu kan-
+ne, josta myös tehtiin päätökset joulukuussa? Sitä arvioidaan eri tavalla. Yleisesti tarkas-
+tusvaliokunta on todennut, että jos huomioidaan tämän asian merkitys kansalaisten luotta-
+mukselle, on perusteet, että nämä asiat olisi käsitelty oikeudellisesti ja saatu sitä kautta lä-
+pivalaisu ja ratkaisu. Valiokunnan keskustelussa lähtökohtana aika monessa tapauksessa
+oli, että täytyy hyväksyä se riski, joka tähän kuuluu, ja vaikka rahaa kuluu sitten asianajo-
+palkkioihin, sitä kautta tulee selko ja varmuus kansalaisille siitä, että ketään ei suojella, ke-
+tään ei pelasteta vaan asiat selvitetään, ja tällä luottamuksella on joku merkitys. Tältä poh-
+jalta valiokunnan yksimielinen kanta oli, että kanteiden nosto on perusteltua, sillä lisäyk-
+sellä, että se edellyttää tietysti oikeudellisten kysymysten selvittämistä. Siitä löytyy liiteai-
+neistossa asianajolausuntoja.
+
+Sitten tämä, missä päätös pitää tehdä: valiokunnan kannaksi tuli, että tällaisessa tapauk-
+sessa yhtiökokouspäätöksenteko olisi oikea ratkaisu, koska on monia näkökohtia ja kaikki
+ei liity yhtiön toimintaan vaan on myös yleinen etu, ja jotta on läpi nähtävissä, kuka päät-
+tää, mitä päättää, niin yhtiökokous olisi ollut oikea paikka.
+
+No, sitten tullaan tähän, miksi yhtiökokousta ei pidetty silloin syksyllä vaan miksi se
+lykkääntyi ja sitä ennen hallitus tuotiin tilanteeseen, että hallitus joutui peruuttamaan tä-
+män Deloitte-kanteen ja lisäksi peruuttamaan hallituskanteen. Tästä on esitetty erilaisia nä-
+kökohtia, ja valiokunta on kirjannut sen oman käsityksensä asiasta. Kun ministeriö käyn-
+nisti Deloitten kanssa neuvottelun kanteiden peruuttamiseksi, niin se näyttää epäsovinnai-
+selta eikä normaalikäytäntöjen mukaiselta, ja siitä valiokunta on tehnyt yksimielisen kir-
+jauksen.
+
+15.24 Liikenne- ja viestintäministeri Anne Berner:  Arvoisa herra puhemies! Kannan
+suurta vastuuta siitä, että toimisin omistajaohjauksesta vastaavana ministerinä Finavian
+osalta nimenomaan veronmaksajia kohtaan oikein.
+
+Vuonna 2013 Finavian hallituksen pöytäkirjaan on kirjattu, että käydyn keskustelun jäl-
+keen hallitus päätti asiantuntijalausuntojen perusteella valtuuttaa toimitusjohtajan ryhty-
+mään toimenpiteisiin entistä rahoitusjohtajaa ja entistä varatoimitusjohtajaa vastaan. Näitä
+toimenpiteitä ei kuitenkaan koskaan käynnistetty, ja silloin kun aloitin tässä tehtävässä,
+tämä pöytäkirjamerkintä oli mutta toimenpiteitä ei ollut.
+
+Tammikuussa 2015, jolloin en siis vielä ollut ministerinä, vaan tulin sitten vastuuseen
+vasta puoli vuotta myöhemmin, hallitus oli päättänyt, että Finavia Oy:n entisten hallitusten
+jäsenten ja toimitusjohtajan oikeudellinen vastuu on jo aiemmin huolellisesti arvioitu pe-
+rustuen useisiin yhtiön ulkopuolelta hankittuihin oikeudellisiin asiantuntijalausuntoihin.
+Hallituksen tietoon ei ole tullut seikkoja, joiden perusteella jo tehtyjä arvioita olisi syytä
+näiltä osin muuttaa eli nostaa kanteita, toisin kuin te, valiokunnan puheenjohtaja, totesitte.
+Eli tammikuulta oli päätös hallituksen pöytäkirjassa, joka minulla on tässä edessäni, että
+hallitus on aiemmin tehnyt sen selvityksen, ja tämä on ollut kaikkien ministereiden ja kaik-
+kien aikaisempien selvitysten johdonmukainen kanta, että hallituksen jäseniä kohtaan ei
+nosteta kanteita.
+
+Mikä muuttui syksyllä 2015? Tämä sama hallitus, joka oli tammikuussa, muistaakseni
+31. päivä, kirjannut tämän lauseen pöytäkirjaan, teki syyskuussa erimielisen päätöksen,
+jossa se päättikin nostaa kanteita, mutta hallituksen kolme juristia jättivät eriävän näkökul-
+19
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+man. Vasta tässä vaiheessa heräsi omistajaohjauksessa ministeri kysymään, mitä tämä tar-
+koittaa: Miksi on erimielinen hallituksen päätös? Miksi se poikkeaa saman hallituksen
+tammikuussa tekemästä päätöksestä? Mitä lisätietoa on saatu tässä välissä? Onko syntynyt
+lisäselvityksiä? — Ei ollut. Poliisiselvitys oli juuri käynnistetty, mutta siitä ei ollut tietoa.
+Finanssivalvonnalle ei ollut jätetty selvitystä. Ulkopuolista, riippumatonta uutta selvitystä
+ei ollut tehty. Mitään uutta tietoa ei ollut. Olisiko tässä vaiheessa ollut oikein olla välittä-
+mättä tästä muutoksesta? Tämä on se, joka muuttui syksyllä 2015. Hallitus teki itselleen
+ristiriitaisen päätöksen ja teki sen erimielisenä, ja hallituksen kolme juristia jättivät eriävän
+kannan, jossa he vaativat yhtiötä tekemään lisäselvityksiä.
+
+Omistajana ja omistajan edustajana en puuttunut siihen itse päätökseen, vaan totesin,
+että ennen kuin yhtiö toimeenpanee tämän tekemänsä päätöksen, jonka toki saa tehdä eri-
+mielisenä, sen tulee kuitenkin niiden eriävien juristien näkökulma huomioida ja tehdä ne
+selvitykset, joita hallituksen sisällä eriävän kannan jättäneet ovat vaatineet. Ja jos he sil-
+loin edelleen ovat samaa mieltä, niin omistaja ei puutu tähän päätökseen. [Suna Kymäläi-
+nen: Vaan neuvottelee sopimuksia!] — Ei, tässä ei ole kysymys nyt siitä. — Deloitten osal-
+ta samassa yhteydessä, kun tulivat nämä lisäselvitykset, joita eriävän kannan jättäneet hal-
+lituksen jäsenet vaativat, kävi myöskin ilmi, että hallituksella ei ollut tietoa, mitkä vahin-
+got ovat syntyneet, ja te juristit tiedätte erittäin hyvin, että syy-yhteyden tulee olla huolel-
+lisesti selvitetty. Tarkastusvaliokuntakin sanoo lausunnossaan, että oikeudelliset selvityk-
+set tulee kuitenkin huolellisesti tehdä. Deloitten osalta näin ei oltu toimittu, oikeudellisia
+selvityksiä ei tehty eikä syy-yhteyksiä oltu selvitetty. Ne selvisivät tammikuussa 2016, sitä
+ennen alkoi hahmottua, että ehkä ei ole kuitenkaan niin kuin on ajateltu tai hallitus ei ollut
+tehnyt sitä huolellista työtä, jota sen kuuluu tehdä.
+
+Minusta valtio-omistajan ja valtion omistaman yhtiön tulee toimia poikkeuksellisen
+huolellisesti, poikkeuksellisen huolellisesti, kun se lähtee nostamaan kanteita eri osapuolia
+kohtaan, etenkin kun se lähtee peräämään yksityishenkilöiden vastuuta. Kun käytännössä
+joudutaan pitkiin prosesseihin, niin valtion on oltava esimerkillinen. Sitä esimerkillisyyttä
+olen vaatinut ja sen vuoksi seison tänään täällä. Helpompaa olisi toki ollut olla välittämättä
+erimielisestä hallituksesta.
+
+Olen täysin sitä mieltä, että yhtiön tehtävä on huolehtia siitä, että se kantaa oman vas-
+tuun. Deloitten päätöstä ja sovintoesitystä käsiteltiin yhtiön hallituksessa. Yhtiön hallitus
+teki tässä asiassa päätöksen ryhtyä sovintoon, ja sovinto ei tarkoita sitä, että luovutaan,
+vaan sovinto tarkoittaa sitä, että sovitaan yhdessä, mitä jokin vastuu kustantaa molemmille
+osapuolille. Tässä hallituksen puheenjohtaja, joka jätti eriävän kannan sen sovinnon teke-
+miseen, kirjasi yhtiön hallituksen pöytäkirjaan: "Yhtiö ei ole myöskään saanut virallista
+omistajaohjausta liikenne- ja viestintäministeriöstä asiaan liittyen" [Paavo Arhinmäen vä-
+lihuuto] — ei ole saanut ohjausta eikä kirjausta siitä, miten tulisi toimia.
+
+En ole antanut yhtiön hallitukselle tai hallituksen puheenjohtajalle tai toimivalle johdol-
+le mitään muuta kuin vaatimuksen siitä, että se toimii esimerkillisesti, huolellisesti ja oi-
+keudelliset vastuut selvittäen, niin kuin valtion omistamalle yhtiölle kuuluu. Ja nimen-
+omaan poliisiselvitys, Finanssivalvonnan selvitys ovat juuri sellaisia selvityksiä, jotka tuo-
+vat asiat julkisuuteen ja myöskin tekevät niistä läpinäkyviä. Sekin on vastuun kantamista.
+
+Toinen varapuhemies Arto Satonen: Otetaan tässä vaiheessa vielä pääministerin pu-
+heenvuoro, sitten myönnän muutaman vastauspuheenvuoron, ja sen jälkeen menemme sit-
+ten puhujalistaan.
+20
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+15.32 Pääministeri Juha Sipilä: Arvoisa puhemies! Niin kuin kuulimme, ministeri Ber-
+ner on toiminut vastuullisesti ja huolellisesti. Se, että valtio-omistajan edustajana vaatii yh-
+tiön hallitusta toimimaan vastuullisesti ja huolellisesti ja tekemään ne päätökset perustuen
+selvityksiin ja huolellisuuteen, on juuri sitä, mitä vastuulliselta omistajalta odotetaan.
+
+Mitä tulee sitten tähän mietintöön ja mietinnön velvoitteisiin ja odotuksiin omistajaoh-
+jaukselta — tähän riskienhallinnan puoleen — riskienhallinta on yhtiön hallituksen vas-
+tuulla, operatiivisen johdon tehtävänä on toteuttaa hallituksen hyväksymää strategiaa ja
+toimintapolitiikkaa. Nyt kun tästä on epäilystä tullut tarkastusvaliokunnan mietinnön pe-
+rusteella, niin kaikkien yhtiöiden vallitsevat käytännöt selvitetään ja tulemme edellyttä-
+mään edelleenkin, että yhtiöillä on ajanmukainen, ajantasainen riskienhallintapolitiikka.
+Ohjeistukset ovat kunnossa, mutta nyt tarkastamme sen, että myöskin jalkautus on kaikis-
+sa yhtiöissä kunnossa.
+
+Sitten näitten omistajakäytäntöjen osalta: niitten totta kai pitää olla yhtenäisiä, ja olen
+pyytänyt valtioneuvoston kanslian omistajaohjausosastoa arvioimaan ohjeistuksen tar-
+peen ja tarvittaessa uudelleen ohjeistamaan kaikki ministeriöt ja valtio-omisteiset yhtiöt
+valiokunnan esiin nostamien huomioiden pohjalta.
+
+Ministeri Berner nauttii sataprosenttista luottamustani.
+
+15.34 Antti Rinne sd (vastauspuheenvuoro): Arvoisa puhemies! Kysyn ministeri Berne-
+riltä nyt sitä, kuka on neuvotellut tuon sovintosopimuksen Deloitten kanssa ja kenen oh-
+jeitten mukaan se on neuvoteltu. Onko se neuvoteltu Finavian hallituksen ohjeistuksen mu-
+kaan Finavian toimihenkilöitten toimesta, vai ovatko sen neuvotelleet liikenneministeriön
+virkamiehet ministeri Bernerin ohjeistuksen mukaan? Tämä on erittäin tärkeä kysymys, ja
+tähän pitää saada vastaus.
+
+Toinen varapuhemies Arto Satonen: Vastauspuheenvuoro, edustaja Heinäluoma, ja sen
+jälkeen ministeri vastaa.
+
+15.35 Eero Heinäluoma sd (vastauspuheenvuoro):  Arvoisa puhemies! Tarkastusvalio-
+kuntahan kävi huolella lävitse Finavian hallituksen pöytäkirjoja saadakseen kuvan, millai-
+nen logiikka yhtiön puolella oli, plus sitten tutustui asiantuntijalausuntojen kautta moniin
+eri käsityksiin, miten tätä asiaa olisi pitänyt hoitaa.
+
+Haluan nyt siteerata, vielä kertaalleen, tästä vahingonkorvauskanneasiasta, mitä marras-
+kuun 19. päivä 2015 valtioneuvoston kanslian omistajaohjausyksikkö lausuntonaan ja esi-
+tyksenään liikenne- ja viestintäministeriölle sanoi. He toimittivat silloin liikenne- ja vies-
+tintäministeriölle muistion, jossa oli toimenpidesuositukset. Tuon muistion mukaan: "Ti-
+lintarkastajia vastaan ajettavan kanteen menestymistä edistäisi, jos yhtiön entistä toimitus-
+johtajaa ja hallituksen jäseniä vastaan olisi vireillä vahingonkorvauskanne, koska tilintar-
+kastajat ovat vastineessaan vedonneet yhtiön johdon ensisijaiseen vastuuseen. Vastuuva-
+kuutukseen perustuva vaatimus vakuutusyhtiötä kohtaan edellyttää kanteen nostamista
+vähintään entistä toimitusjohtajaa vastaan." Tämä oli se muutos, joka oli tapahtunut alku-
+vuodesta 2015 loppuvuoteen 2015 tultaessa. Eli oli tullut välimiesoikeuden päätös vakuu-
+tusyhtiöasiassa, ja lisäksi tilintarkastajat olivat uhanneet vastakanteella, nimenomaan sen
+takia, että yhtiö ei ollut ryhtynyt toimenpiteisiin muuta johtoa vastaan. Nämä selittävät,
+nämä kaksi asiaa, valtioneuvoston kanslian omistajaohjausyksikön kannan ja myös yhtiön
+hallituksen asiassa syyskuussa tekemän kannan.
+21
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Toinen varapuhemies Arto Satonen: Vielä ministeri Berner, ja sen jälkeen puhujalis-
+taan.
+
+15.37 Liikenne- ja viestintäministeri Anne Berner (vastauspuheenvuoro): Arvoisa her-
+ra puhemies! Deloitten sopimuksesta neuvottelivat yhtiön toimitusjohtajat, ja siitä tekivät
+päätökset molempien yhtiöiden hallitukset. Liikenne- ja viestintäministeriön rooli tässä
+kohdassa on ollut saattaa osapuolet yhteen, samaan pöytään. Siinä on ollut sen rooli.
+
+Se, mitä liittyy sitten yhtiökokoukseen: Yhtiökokous pidettiin kesällä, ja se pidettiin juu-
+ri siksi, että siihen mennessä olivat valmistuneet ne selvitykset, joita tarvittiin. On myös
+huomioitava, että yhtiökokous silloin, kesällä 2016, nimenomaan edellytti yhtiön johdolta
+huolellista selvitystä siitä, voidaanko vuoden 2011 osalta kanteita viedä eteenpäin. Tämä
+oli vastoin yhtiön omaa, hallituksen päätöstä, ja tässä tapauksessa ja siinä kohtaa, kun aika
+oli riittävä ja selvitykset saatu, omistaja otti kantaa ja teki sen yhtiökokouksen kautta. Sil-
+loin yhtiö teki tämän selvityksen, käytti siihen syksyn 16 ja teki marraskuussa päätöksen
+nostaa kannetta entistä toimitusjohtajaa vastaan. Tämä kanne on edelleen vireillä.
+
+Toinen varapuhemies Arto Satonen: Sitten puhujalistaan.
+
+15.39 Johanna Ojala-Niemelä sd: Arvoisa herra puhemies! Meillä on parhaillaan käsi-
+teltävänä tämä tarkastusvaliokunnan mietintö koskien Finavian tilannetta. Pidän tärkeänä,
+että asia otettiin käsiteltäväksi, koska kyse on merkittävästä valtionyhtiöstä. Valiokunta on
+tehnyt hyvää työtä, ja asia on yhteiskunnallisesti merkittävä.
+
+Finavian silloinen hallitus käytti paljon aikaa johdannaisten vastuukysymysten selvittä-
+miseen. Tavoitteena oli selvittää asiat pääasiassa oikeusprosessien kautta ja saada johdan-
+naistappioista vastuussa olevat tahot ja johdon vastuuvakuutus vähintään osittain korvaa-
+maan yhtiön kärsimät tappiot. Näin toimisi jokainen huolellinen yhtiö.
+
+Finavian hallitus nosti korvauskanteen vuosien 2009—2010 tilintarkastusyhteisöä ja
+päätilintarkastajaa kohtaan. Finavia oli jo aiemmin nostanut kanteen If Vahinkovakuutus-
+yhtiötä kohtaan, mutta kyseinen kanne kuitenkin hylättiin. Korvausprosessia oli mahdol-
+lista jatkaa, mutta vain siten, että olisi nostettava kanteet myös entistä hallitusta ja toimi-
+tusjohtajaa kohtaan. Yhtiö konsultoi asiassa Valtiontalouden tarkastusvirastoa, joka tuki
+kanteiden nostamista.
+
+Näin ollen Finavian hallitus päätyi nostamaan kanteet yhtiön entistä toimitusjohtajaa ja
+hallitusta kohtaan sekä päätti panna vireille korvauskanteen välimiesoikeudessa Ifiä koh-
+taan. Tähän tilanteeseen oli tultu, koska muun muassa käräjäoikeusprosessissa oli ilmen-
+nyt seikkoja, jotka puolsivat väitettä entisen hallituksen ja toimitusjohtajan huolimatto-
+muudesta. Tähän pisteeseen prosessissa ei kuitenkaan koskaan päästy. Ministeri Berner
+puuttui epäsopivalla tavalla Finavian hallituksen työskentelyyn ja näin vaikutti Finavian
+hallituksen päätöksiin sopia ja perua johdannaiskanteet joulukuussa 2015. Ensin ministe-
+riön taholta vedottiin yhtiökokouksen järjestämiseen asiassa. Tätä yhtiökokousta ei kos-
+kaan tullut. Sittemmin annettiin suoranainen kielto edetä asiassa. Myöhemmin ilmeni, että
+silloisen Finavian hallituksen selän takana oli toimittu. Ministeri Berner on ilman Finavian
+hallituksen päätöstä tai tietoa neuvotellut sovintosopimuksen tilintarkastusyhteisön kanssa
+marraskuussa 2015. Berner on painostanut hallituksen puheenjohtajaa hyväksyttämään mi-
+nisteriön neuvottelema sovintosopimus Finavian hallituksessa. [Sirkka-Liisa Anttila: Ai-
+van uskomatonta tekstiä!]
+22
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Kaikki kovat keinot ovat olleet käytössä. Jotta sovintosopimus on saatu hyväksytettyä,
+hallitukselta on myös pimitetty tietoja. Finavian hallitukselle ei ole toimitettu tiedoksi ti-
+lintarkastajayhteisön sovintosopimuksen hyväksyntää vastustavia muistioita. Mitään ei ole
+haluttu jättää sattuman varaan, ja ministeriö on ohjannut hallitusta hankkimaan tilintarkas-
+tusyhteisön sovintosopimuksen hyväksyntää puoltavan lausunnon nimeämältään neuvon-
+antajalta. Hallituksen puheenjohtaja on saanut karvaasti kokea, kuinka räikeästi hallituk-
+sen objektiiviseen päätöksentekoon on vaikutettu.
+
+Ministeri Berner on esittänyt julkisuuteen ja Valtiontalouden tarkastusvirastolle, että
+olisi pyytänyt Finavian hallitusta selvittämään johdannaiskanneasioita huolellisesti uudel-
+leen hallituksen tehtyä syyskuussa 2015 kannepäätöksen yhtiön entistä johtoa kohtaan.
+Tämä ei silloisen hallituksen puheenjohtajan mukaan pidä paikkaansa, eikä ministeri ole li-
+säselvityksiä pyytänyt.
+
+Mikä sitten on tämän tarinan opetus? Kysyä sopii. Ministeriö on toiminnallaan negatii-
+visesti vaikuttanut Finavian mahdollisuuteen saada eri tahoilta korvausta johdannaistap-
+pioille. Mikä tämän keikauksen hinta sitten oli? Finavialle koitui johdannaisista kokonai-
+suudessaan yli 34 miljoonan euron tappio. Veronmaksajien rahoja menetettiin, koska kan-
+teita ei koskaan nostettu. Ensiksi, kyseessä on ollut poikkeuksellista omistajaohjausta, joka
+ei voi jatkua, eikä siitä saa tulla maan tapa. Toiseksi, kanteet olisi tullut nostaa veronmak-
+sajien rahojen menettämisen minimoimiseksi. Ja kolmanneksi, yhtiökokous olisi tullut kut-
+sua koolle ja päätökset olisi pitänyt tehdä siellä. Voikin perustellusti kysyä, kenen etua täs-
+sä asiassa on ajettu.
+
+Koska Bernerin selvitys ei vakuuttanut, SDP:n eduskuntaryhmä esittää epäluottamus-
+lauseen ministeri Bernerin toiminnasta. Epäluottamuslauseen sisältö kuuluu seuraavasti:
+"Eduskunta katsoo, että ministeri Berner on tosiasiallisesti ohjannut Finavia Oyj:tä luopu-
+maan vahingonkorvauskanteista tilintarkastajaa ja aikaisempaa hallitusta kohtaan ja näin
+estänyt valtion edun mukaisten korvausten saamista eikä siksi nauti eduskunnan luotta-
+musta."
+
+15.44 Paavo Arhinmäki vas:  Arvoisa herra puhemies! Kuten jo debatissa totesin, me
+kaikki olemme varmasti yhtä mieltä siitä, että Finavian johdannaiskaupat olivat täysin so-
+pimattomia valtionyhtiölle. Tässä pelattiin veronmaksajien rahoilla huikealla riskillä ja
+takkiin tuli 34 miljoonaa euroa. En syytä tästä silloista liikenneministeriä Vehviläistä, ni-
+mittäin tämä toiminta tehtiin, mistä tässä keskustelussa on kysymyskin, nimenomaan vas-
+toin sitä, minkä pitäisi olla valtionyhtiön toimintaa.
+
+Kun tämä tilanne paljastui yhtiölle ja omistajalle, päätettiin aivan oikein selvittää taus-
+tat, minimoida vahingot ja viedä asia oikeudellisesti eteenpäin. Kuten tarkastusvaliokun-
+nan puheenjohtaja Heinäluoma totesi, kaikkien ministereiden aikana on viety samaan
+suuntaan tätä: minimoidaan vahingot, viedään asia oikeudellisesti eteenpäin. Tarkoitukse-
+na oli saada vahingonkorvausten kautta takaisin edes osa menetetyistä veronmaksajien ra-
+hoista. Näin siis toimittiin edellisten ministereiden aikana.
+
+Kun ministeri Berner pääsi puikkoihin, meno muuttui. Tässä vaiheessa vahingonkor-
+vausasialla oli jo kiire, koska kanneoikeus oli vanhenemassa. Finavian hallitus kuitenkin
+yllättäen perui kanteen yhtiön entistä hallitusta, entistä toimitusjohtajaa ja tilintarkastusyh-
+tiötä vastaan ministeri Bernerin suorittaman omistajaohjauksen jälkeen, minkä hän tosin
+täällä puheenvuorossaan kiisti — kiisti, että liikenne- ja viestintäministeriö tai ministeri
+olisi antanut omistajaohjausta asiasta.
+23
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Valtiontalouden tarkastusviraston laillisuustarkastus sanoi aika suoraan, miten asia on:
+ministeriö suoritti sellaisia operatiivisiksi tulkittavia toimia, joista päättäminen ja joiden
+suorittaminen kuuluvat yhtiön ja sen johdon tehtäviin. Näin siis sanoo Valtiontalouden tar-
+kastusvirasto — täällä ministeri Berner sanoi, että minkäänlaista omistajaohjausta ei annet-
+tu. Ja jos katsoo nyt käsiteltävänä olevaa tarkastusvaliokunnan mietintöä, niin itse asiassa
+sekin kertoo tämän, tosin yhteisymmärryksessä ehkä vähän pehmeämmin. Ministeriön toi-
+minta ei ollut vakiintuneen omistajaohjauksen mukaista, todetaan mietinnössä.
+
+Arvoisa puhemies! Mietintö osoittaa, että ministerin rooli oli kanteiden perumiseen joh-
+taneen sovintosopimuksen osalta huomattavasti aktiivisempi kuin mitä itse ministeri on
+kertonut. Ja tämä on asia, joka tulee vastaan jatkuvasti, kun ihmisten kanssa keskustellaan.
+Ihmiset eivät luota, että siinä, mitä ministeri Berner on sanonut, olisi koko totuus. "Minis-
+teriön rooli sovintosopimusprosessissa näyttäytyy asiantuntijakuulemisen perusteella pi-
+kemminkin asioihin vaikuttamiselta kuin taustalla odottamiselta. Sovintosopimusproses-
+siin liittyy sellaisia toimintatapoja ja tilanteita, jotka ovat valiokunnan mielestä omiaan se-
+koittamaan omistajaohjauksen ja yhtiön päätöksenteon toisiinsa." Kun näin tarkastusvalio-
+kunta on yksimielisesti sanonut, niin pidän erikoisena sitä, että keskustan ryhmä ryhmäpu-
+heenjohtaja Kaikkosen johdolla pyrkii täällä huutamaan, että laitetaan piste keskustelulle,
+keskustelussa ei ole enää mitään selvitettävää, eiköhän tämä nyt ollut tässä. Toisaalta täy-
+tyy nostaa hattua keskustan eduskuntaryhmälle ja keskustan ministeriryhmälle. Täällä
+koko joukko on ollut puolustamassa omaa ministeriään. Itse asiassa eipä juuri muilta hal-
+lituspuolueilta puheenvuoroja tässä keskustelussa kuultukaan ministerin puolustamiseksi,
+lukuun ottamatta edustaja Harkimoa, joka antoi ministeri Bernerille taustatukea. Mutta
+kunnioitukseni keskustalle siitä, miten he suurella joukolla ovat täällä salissa hampaita ki-
+ristellenkin ministeriään puolustaneet. [Hannakaisa Heikkinen: Höpö höpö!]
+
+Arvoisa herra puhemies! Vasemmiston eduskuntaryhmä on valiokunnan kanssa samaa
+mieltä siitä, että omistajaohjauksen ohjeistusta ja toimintaperiaatteita on välttämätöntä tar-
+kentaa. Tällainen sekoilu ei saa toistua. Mielestämme riskienhallintaa koskevan ohjeistuk-
+sen tulee kattaa riskit laajasti. Taloudellisten riskien lisäksi on huolehdittava sosiaalisten ja
+ympäristöllisten riskien minimoimisesta. Omistajaohjauspolitiikan pitää olla korostetun
+avointa ja vastuullista. Tämä tarkoittaa avoimuutta myös tilinpidon osalta sekä vastuulli-
+suutta työnantajana.
+
+Aktiivista omistajaohjausta tarvitaan. Valtaa saa ja pitää käyttää. Tämä on kuitenkin teh-
+tävä läpinäkyvästi ja hyvän hallintotavan mukaisesti. Ministerillä on 100-prosenttisesti
+omistetussa valtionyhtiössä täysi oikeus ottaa asia hoitaakseen ja tehdä päätös yhtiöko-
+kouksen kautta läpinäkyvästi. Näin vastuu on siellä, missä on valtakin. Ministeri Berner ei
+kuitenkaan toiminut näin vaan painosti yhtiön hallituksen tekemään haluamansa päätök-
+sen. Valta kelpasi, mutta vastuu sysättiin muualle. Tarkastusvaliokunnan mietinnön ja sii-
+hen liittyvien asiantuntijalausuntojen pohjalta näyttää ilmeiseltä, että Finavian omistajaoh-
+jauksessa on toimittu hyvän hallintotavan ja valtioneuvoston omistajaohjauksen periaattei-
+den vastaisesti. On puututtu operatiiviseen toimintaan, on tartuttu rattiin pelkääjän paikal-
+ta.
+
+Arvoisa puhemies! Ministeri Berner kirjoittaa blogissaan, että "valiokunta aivan oikein
+toteaa, että sekä kanteiden nostamiselle että nostamatta jättämiselle on ollut perusteet".
+Mainitsematta ministeri Berneriltä jää kuitenkin, että tämän jälkeen valiokunta ottaa aivan
+yksiselitteisen kannan: "Finavian osalta valiokunta toteaa, että lopputuloksen epävarmuu-
+desta huolimatta olisi yleisen edun kannalta ollut perusteltua selvittää vastuukysymykset
+24
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+kokonaisuudessaan oikeusteitse." Ja valiokunta on myös todennut: "Myös kansalaisten
+luottamus siihen, että epäkohtiin puututaan, olisi osaltaan puoltanut asian selvittämistä oi-
+keusteitse."
+
+Nämä ovat juuri niitä asioita, jotka kansalaisten keskuudessa herättävät ihmetystä, he-
+rättävät epäluottamusta ministeri Berneriä kohtaan ja sitä kautta koko meidän poliittista
+päätöksentekoamme kohtaan — kerrotaan vain osatotuuksia. Kansalaisten on lupa odot-
+taa, että ministeri ajaa ensisijaisesti veronmaksajien etua. Spekulatiivisissa johdannaiskau-
+poissa hassatut 34 miljoonaa euroa ovat käsittämätön virhe. Sitä virhettä ei ole tehnyt mi-
+nisteri Berner eivätkä aikaisemmat ministerit. Nyt puhutaan siitä, miten tämä selvitetään.
+Kansalaisten luottamuksen pettäminen on kuitenkin vielä vakavampi virhe. Siksi vasem-
+miston eduskuntaryhmä kannattaa sosiaalidemokraattisen eduskuntaryhmän edustaja Oja-
+la-Niemelän tekemää epäluottamuslause-ehdotusta.
+
+15.52 Sirkka-Liisa Anttila kesk: Arvoisa puhemies! Finavia on yhtiönä ollut vuosikau-
+sia aikamoisessa turbulenssissa, mikä todetaan myöskin valiokunnan mietinnössä. Huo-
+mion kohteena on ollut se, pitääkö Finavian vaatia vahingonkorvausta ja keneltä. Tarkas-
+tusvaliokunnan näkemyksen mukaan perusteluja on sekä vahingonkorvauskanteiden nos-
+tamiselle että nostamatta jättämiselle. Oikeusvaltion periaatteisiin kuuluu kuitenkin se, et-
+tei kanteita nosteta varmuuden vuoksi tai kokeilumielessä. Tähän asti Finavian johdannais-
+asia ei ole rikosilmoituksen osalta menestynyt käräjäoikeudessa eikä myöskään välimies-
+oikeudessa eli molemmissa on tullut takkiin — syntynyt myöskin valtiolle kuluja.
+Tuomioistuimissa ratkaisujen perustelut ovat lähtökohdiltaan osin toiset kuin ne, joita Val-
+tiontalouden tarkastusvirasto on asiassa käyttänyt. Tämäkin on mielenkiintoinen havainto.
+Tämä käräjäoikeuden ratkaisuhan saatiin nyt tammikuussa.
+
+Nyt käsiteltävänä olevassa mietinnössä on kuitenkin kyse hallinnollisten käytäntöjen ar-
+vioimisesta eikä siitä, että olisi tehty jotain laitonta, vaikka täällä keskustelussa välillä saa
+sellaisen kuvan. Finaviassa ei ole ollut riittävästi osaamista johdannaiskauppojen hallin-
+nassa vuosina 2009—2011. Tästä me olemme täällä salissa varmaan kaikki olleet yhtä
+mieltä. Viime vaalikaudella Finavian omistajaohjaus ajelehti tuuliajolla. Nyt asiat on otet-
+tu hallintaan ja Finavia menestyy, ja sillä on tällä hetkellä hyvä johto.
+
+Ministeri Berner on toiminut etenkin nopeasti ja vastuullisesti hänen syliinsä yllättäen
+kaatuneen vaikean tilanteen edessä ja vaatinut huolellisuutta, mikä on ihan oikein. Minis-
+teri Bernerillä ei ole ollut mitään tekemistä tappiollisten johdannaiskauppojen tekemises-
+sä, vaikka tästäkin keskustelusta helposti vetää sen johtopäätöksen, kun liikutaan näissä
+korvausluvuissa eikä yksilöidä, mistä on kysymys. Näistä kaupoista ja tehdyistä virheistä
+johtuneet tappiot kuitenkin kaatuivat ministerin syliin. Tällä vaalikaudella ne on siis hänen
+toimestaan vihdoinkin selvitetty.
+
+Ja kun täällä on kovasti puhuttu näistä johdannaistappioiden määristä, siitä 34 miljoo-
+nasta, ja perätään vastuuta, niin eikö sitten olisi aika myöskin selvittää sitä, että olisi ollut
+erittäin hyvä, että nämä tappiot olisivat jääneet siihen 5 miljoonaan? Siitä vastuun kantaa
+edellinen hallitus, Kataisen—Stubbin hallitus, ja sitä taustaa vasten kannattaa miettiä
+myöskin, että siinä omassakin toiminnassa saattaisi olla jotakin korjattavaa. Eli vastuuta
+pitäisi ottaa heidänkin, jotka ovat olleet vaikuttamassa. Tappiot olisi voitu minimoida 5
+miljoonaan.
+
+Tarkastusvaliokunnan yksimielisen mietinnön mukaan valtio-omisteiselle yhtiölle on
+annettava tarkemmat riskienhallintaohjeet, joita myös valvotaan. Tämä on äärettömän tär-
+25
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+keä asia, koska sekään ei yksin riitä, että ne ohjeet ovat olemassa — täytyy olla myöskin
+selkeä valvonta, joka huolehtii siitä, että ne ovat hyvin toteutuneet. Finavian tappiolliset
+johdannaissopimukset olisi voinut jäädä tekemättä, jos hyvin valvotut ohjeet olisivat olleet
+olemassa jo silloin vuosina 2009—2012. Nämä ohjeet ovat tarpeen valtio-omisteiselle yh-
+tiölle yleisemminkin, ja niiden tekeminen kuuluu omistajaohjaukselle. Tänään olemme
+kuulleet täällä pääministerin suusta, miten nämä asiat ovat hoidossa ja asioihin on puutut-
+tu. Mietinnön mukaan omistajaohjauksen toimintaperiaatteita on kuitenkin tarkennettava
+nykyisestä.
+
+Ja aivan lopuksi vielä tästä Deloitten kanssa tehdystä sovintosopimuksesta. Siinähän oli
+kysymys vahingosta, jonka suuruus oli 317 000 euroa — tuolla julkisuudessa puhutaan
+34—35 miljoonasta eurosta. Olisi äärettömän tärkeää, että täällä puhuttaisiin niin kuin
+asiat todellisuudessa ovat. Se ei ole mikään pieni toivomus, vaan minusta se vaatii meiltä,
+jotka vastuuta kannamme, myöskin vastuullisuutta näiden lukujen heittelyssä.
+
+15.57 Olavi Ala-Nissilä kesk:  Arvoisa herra puheenjohtaja! Tässä on käyty hyvää kes-
+kustelua, kiitos sen hyvästä johtamisesta. Eduskunnan tarkastusvaliokuntahan käsittelee
+täällä eduskunnassa muun muassa eduskunnalle annettavat hallituksen vuosikertomuksen,
+Valtiontalouden tarkastusviraston vuosikertomuksen, puolue- ja vaalirahoituksen valvon-
+nasta annetut kertomukset sekä finanssipolitiikkaan ja tilintarkastukseen liittyviä asioita ja
+voi itsekin tehdä tutkimuksia. Nyt esillä oleva mietintö on lajissaan varsin erilainen. On
+huomattava, että valiokuntahan ei ole tuomioistuin. Ei meillä ole juristi-valiokuntaneuvok-
+sia eikä näyttökysymyksiin mahdollisuuksia mitenkään puuttua. Menettelytapoja tietenkin
+voidaan käsitellä.
+
+Käsillä olevassa mietinnössä käsitellään valtio-omisteisten yhtiöiden riskienhallintaa ja
+omistusohjausta. Valiokunta kävi läpi Valtiontalouden tarkastusviraston tarkastuskerto-
+muksiin liittyen valtionyhtiöiden riskienhallintaa ja toimintaa yleisesti ja kuunteli asian-
+tuntijoita. Lisäksi käsiteltiin Finavian johdannaiskaupoista vuosina 2009—2011 koitunei-
+ta tappioita, erityisesti 2011 koituneita tappioita, ja niiden selvittämistä. Valtion tarkastus-
+viraston laillisuuskertomus ja siten mietintö keskittyvät vuosiin 2009 ja 2010, jolloin nämä
+Finavian menetykset, niin kuin edustaja Anttila totesi, olivat siis tästä kokonaismenetyk-
+sestä prosentin. Tämähän on julkisuudessa paljon keskittynyt tähän prosenttikysymykseen
+ja syksyyn, ja sillä tavalla on tullut vähän vino tästä yleisestä kuvasta.
+
+Valtio-omisteiset yhtiöt ja muut julkisomisteiset yhtiöt lisääntyvät esimerkiksi maakun-
+tahallinnon ja sote-uudistuksen yhteydessä. Johtopäätös tästä on minusta se, että omistajan
+rooli on tärkeä. Lähtökohtaisesti sitä ei pidä heikentää vaan sitä pitää vahvistaa ja selkeyt-
+tää. Esimerkiksi sosiaali- ja terveydenhuollon uudistuksen myötä on syntymässä suuri
+määrä maakuntien omistamia yhtiöitä. Omistajaohjauksen toimivalta suhteessa yhtiön toi-
+mivaltaan vaatii selkeyttämistä omistusohjauksen linjakkuuden ja johdonmukaisuuden
+turvaamiseksi kaikissa tilanteissa, niin kuin valiokuntamme tuossa päätösosassa hyvin lau-
+suu. Eli minä yhdyn mietintöönkin ja näihin hyviin päätösesityksiin. On hyvä, että päämi-
+nisteri ne noin hyvin otti vastaan.
+
+Johdannaiskauppojen tekeminen olisi tietenkin pitänyt välttää Finaviassa. Tarkastusva-
+liokunnan näkemys on, että yhtiössä ei ollut riittävää osaamista koskien johdannaiskaup-
+pojen hallintaa eikä niiden selvittelyä. Riskejähän aina on. On tärkeää, että ne tunnistetaan,
+ja on tärkeää, että ne hallitaan. Johdannaiskauppojen suurin riski on väärä korkonäkemys,
+joka monelle tuli vuosikymmenen alussa. Sen tekeminen ei, siis väärän korkonäkemyksen
+26
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+tekeminen, kuten ei tyhmyys yleensäkään, ole peruste vahingonkorvaukselle eikä rikoksel-
+le. Tässähän oltaisiin ehkä vankilassa, jos tyhmyys olisi rikos. [Eero Heinäluoma: Vahin-
+gonkorvausperuste se voi olla!] Päätöksissä toimitaan myöskin aina senhetkisen tiedon
+mukaan.
+
+Minusta voi sanoa siis, että Finaviassa tämä tilanne tuli hyvin hallintaan 2015 osalta, ja
+on sanottava myöskin, että hallituksen puheenjohtajana nykyisin oleva Sailas on nyt erit-
+täin hyvin [Sirkka-Liisa Anttila: Harri Sailas! — Seppo Kääriäinen: Harri Sailas!] — Harri
+Sailas, ollaksemme tarkkoja — johtanut yhtiötä, ja viime vuonnahan oli paras tulos kautta
+aikojen Finavialla, miljardi-investoinnit tekeillä ja niin edelleen. Ehkä se kertoo myöskin
+omistusohjauksen onnistumisesta.
+
+Huomion kohteena on ollut, pitääkö yhtiön vaatia vahingonkorvausta ja keneltä. Tähän
+mennessä Finavia ei ole menestynyt välimiesoikeusmenettelyssä, ilmoituksessa Finanssi-
+valvonnalle eikä rikosilmoituksen perusteella tehdyissä kanteissa, jotka sitten selvitettiin.
+Siinähän selvitettiin useampienkin ihmisten rikosoikeudellista vastuuta, tämä koski lähin-
+nä luottamusaseman väärinkäyttöä. Siis niiden perusteella nostettiin kanne kahta henkilöä
+vastaan eli entistä yhtiön varatoimitusjohtajaa ja entistä rahoituspäällikköä vastaan. Tämä
+tuomio oli kokonaan vapauttava. On huomioitava myöskin, että julkisuuden mukaan syyt-
+täjä ilmoitti osaltaan, että ei jatka tätä prosessia vaan tyytyy päätökseen.
+
+Yhtiön hallitus päätyi siihen, että vuosien 2009—2010 tilintarkastajaa ja hallitusta vas-
+taan ei nostettu kannetta. Kanteella ei katsottu olevan menestymisen mahdollisuuksia. Täl-
+löin siis on kyse tästä 300 000:sta. Vuosien 2009—2010 tilintarkastaja sai lievimmän sank-
+tion eli huomautuksen tilintarkastuslautakunnalta. Siitä on valitettu hallinto-oikeuteen.
+Tämä huomautushan ei sinällään minusta vielä viittaa vahingonkorvauksen saamiseen.
+TILAn puheenjohtajan suullinen vastaus — lainaan nyt sitä — kun kysyttiin, mikä hänen
+näkemyksensä on siitä, miten pitäisi neuvoa: Hän sanoi, että sopikaa. Hän sanoi, että sopi-
+kaa. [Seppo Kääriäinen: Se on hyvä neuvo!]
+
+Asiassa on nyt tuore Vantaan käräjäoikeuden päätös. Riippumaton tuomioistuin, jollai-
+nen Vantaan käräjäoikeus on, totesi kokonaan rahoituspäällikön ja varatoimitusjohtajan
+vapauttavassa tuomiossaan 27. tammikuuta: "Rahoituspolitiikat vuosilta 2008 ja 2010, joi-
+den perusteella tuli suojata lainasalkkua kokonaisuutena, näyttäisivät siten tosiasiassa kor-
+vanneen aiemman ohjeen. Henkilötodistelukaan ei osoita varmuudella, että vuoden 2001
+ohje olisi ollut enää tekoaikaan voimassa." — Tässä lainaan siis valiokunnan mietintöä, jo-
+hon tätä päätöstä on lainattu. — "Myöskään sisäisen tarkastuksen tai VTV:n raportit eivät
+edellä sanotun perusteella riitä tässä näytöksi." VTV siis omissa tarkastuksissaan sovelsi
+tätä Ilmailulaitoksen ohjetta vuodelta 2001. Tuossa keskustelussa viittasin myöskin enti-
+sen Keskuskauppakamarin tilintarkastuslautakunnan johtajan Prepulan kannanottoon, ja
+hänen kannanottonsahan oli myöskin selkeä sen suhteen, että näitä vuoden 2001 ohjeita ei
+tule enää noudattaa. Käräjäoikeuden päätöksen mukaan voimassa olleiden ohjeiden mu-
+kaan, ei siis VTV:n käyttämien vuoden 2001 ohjeiden mukaan, voitiin tehdä lainasalkku-
+jen suojaus kokonaisuutena, ja siten on toimittu käräjäoikeuden päätöksen mukaan yhtiön
+sisäisten ohjeiden mukaisesti.
+
+Niin kuin tuossa viittasin, olen tämän alan agronomi. 36 vuotta olen ollut sivutoiminen
+auktorisoitu tilintarkastaja, viime vuoden loppuun saakka. Minä tekisin — nyt tulee henki-
+lökohtainen mielipide — kaksi johtopäätöstä tuon käräjäoikeuden päätöksen johdosta: En-
+sinnäkin päätös edelleen vahvistaa oikeaksi olla nostamatta oikeudenkäyntiä tilintarkasta-
+jayhteisöä vastaan. Näkemykseni on, että se ei olisi voinut menestyä. [Välihuuto] — Pu-
+27
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+hun nyt omasta kannastani, joka perustuu asiantuntijakuulemiseen myöskin. — Toiseksi
+Valtiontalouden tarkastusviraston osaamista on syytä vahvistaa yhtiöoikeudellisissa
+asioissa esimerkiksi käyttämällä tarkastuksen tekijöinä auktorisoituja yksityisten yhtiöi-
+den tilintarkastajia, joilla on kokemusta suurten yhtiöiden toiminnasta.
+
+Puhemies! Asiat on selvitetty — toki on vielä päättämättä siellä Finaviassa, mitä tekevät
+vuoden 2001 tilintarkastajan osalta, ja kanne entistä toimitusjohtajaa vastaan sitten käsitel-
+lään aikanaan, tänä vuonna varmaan, ja siitä sitten selviää, mitä sitten tapahtuu. Minulla on
+siitäkin mielipide, miten siinä käy, mutta en tässä siihen mene. Asia on siis selvitetty, on
+aika mennä eteenpäin. Finavia teki erinomaisen tuloksen viime vuodelta, menestyi hyvin.
+Hyvä, että asiat yhtiössä ovat nyt osaavissa käsissä.
+
+16.06 Sirpa Paatero sd:  Arvoisa rouva puhemies! On hyvin poikkeuksellinen prosessi,
+minkä keskustelussa tänään ollaan, ja prosessi on ollut hyvin pitkä. Kiitos tarkastusvalio-
+kunnalle pitkämielisyydestä ja varmaan myöskin puheenjohtajalle siitä, että asia on todel-
+la perusteellisesti käyty läpi, ja sen takia luotan kyllä niihin lausuntoihin, jotka valiokunta
+on saanut, ja siihen mietintöön, mikä on kirjoitettu. Jotenka niitä kannattaa sieltä lukea itse
+kunkin aika tiukasti.
+
+Tässä tilanteessa ja tässä tunnelmassahan ei täällä tänään, tässä salissa, oltaisi, jos toi-
+mintatapa ministerin puolelta olisi ollut toisenlainen, [Hannakaisa Heikkinen: Ai viime
+vaalikaudella?] jos ne kanteet olisi nostettu, niin kuin valtion omistajaohjausyksikkö esi-
+merkiksi on esittänyt tai niin kuin Finavian yhtiön hallitus oli päättänyt, mutta nyt päätet-
+tiin toimia toisin, ja siitä syystä tähän tuli tämmöinen asetelma. Minä olen pahoillani siitä,
+koska tämä ei tietenkään ole suomalaisten oikeustajun mukaan mitenkään hyvä asia, että
+me joudumme tällaisia prosesseja tässä salissa käymään läpi, mutta toisaalta eduskunta on
+se paikka, jossa nämä asiat on käytävä läpi, jos tällaisia tilanteita esille tulee.
+
+Pienellä kokemuksella sanon: Omistajaohjaus ei ole mikään helpoin tehtävä, se on var-
+sin haastava laji ja etenkin, kun kyseessä ovat veronmaksajien rahat, jotka ovat meidän yh-
+teisen päätöksenteon alla. Siitä syystä pitää olla vielä paljon tarkempi kuin itse omista-
+miensa yhtiöiden osalta siinä, miten niissä toimitaan, miten niissä good governance hoide-
+taan, mitenkä hyvät hallintotavat, mitenkä osakeyhtiölaki ja miten työnjako omistajan ja
+yhtiön toimivan hallituksen välillä rajataan. Tässä keskustelussa, äsken jo totesin, on hyvä
+tahto, kaikilla on se tieto, miten pitää olla, mutta miksi, jos tämä tieto on olemassa, yksi lau-
+sunnonantajista kirjoittaa muun muassa näin — suora lainaus: "Ministeri ja ministeriö
+puuttuivat epäsopivalla tavalla Finavian hallituksen työskentelyyn ja vaikuttivat Finavian
+hallituksen päätöksiin sopia ja perua johdannaiskanteet joulukuussa 2015. Ministeriö puut-
+tui yhtiön operatiiviseen toimintaan, painosti ja ohjaili hallitusta tekemään ministeriön tah-
+don mukaiset päätökset, pimitti hallitukselta kanteiden perumista vastustavat lausunnot ja
+päätti lopulta olla ottamatta vastuuta ajamistaan päätöksistä"? Todella kovaa tekstiä, mutta
+tämä on meidän kaikkien luettavissa, valiokunnalle annettuna lausuntona. [Olavi Ala-Nis-
+silän välihuuto — Hannakaisa Heikkisen välihuuto] — Tämä koskettaa sitä tilannetta, mi-
+ten tätä asiaa on käsitelty nyt syksyllä 2015. [Hannakaisa Heikkinen: Mutta mitäs sitä en-
+nen?] — Nyt puhutaan toimintatavasta. — Ihmisten oikeustajuun ei mahdu, että jos virhei-
+tä on tehty — ja ihan varmaan on tehty, monissa eri hallituksissa, eri ministereitten johdol-
+la — niin jätetään käymättä läpi, kenen tulee kantaa vastuuta, tai ei edes haluta selvittää si-
+tä, kenen se vastuu lopputuloksesta pitäisi kantaa. Vaikka ne vahingonkorvaukset olisivat
+ehkä kaatuneet, siitä huolimatta on se ajatus, että saadaan tietää, kuka on vastuussa.
+28
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Ja viitattuna siihen, pitääkö tehdä ja kenen ohjeita pitää noudattaa: Valiokunnan mietin-
+nössä on kaksi lausumaa, joista toisessa lukee, että valtioneuvoston kanslian omistajaoh-
+jausyksikön tulee tehdä uudet ohjeet. Kyllä, me olemme varmaan kaikki samaa mieltä, että
+— ohjeita on ollut tähänkin mennessä — niitä on aina hyvä tarkentaa, mutta en voi olla sa-
+nomatta, että mitä merkitystä on niillä ohjeilla, jos ei niitä noudateta. Tässäkin tapauksessa
+se samainen omistajaohjausyksikkö kirjallisella muistiolla kertoi, mitä heidän mielestään
+tässä tapauksessa tulee tehdä: järjestää yhtiökokous ja nostaa ne kanteet. Mikä oli toimin-
+tatapa? Ei pidetty yhtiökokousta eikä nostettu kanteita. Sen takia minun mielestäni on jo-
+tenkin hieman epärehellistä turvautua siihen ajatukseen, että tarkennetaan ohjeita, jos ei
+niitä edes yritetä noudattaa. Sen takia — minä tuen siis yhä edelleen sitä, että ohjeita pitää
+olla — kun tämä pääministerin vetämä omistajaohjauksen neuvottelukunta on päässyt
+työskentelyn alkuun — olemme siis kokoontuneet yhden kerran — siellä voisi myöskin tä-
+män asian ottaa esille, mitenkä näiden kaikkien yhtiöiden, jotka kaikki eivät siis ole siellä
+valtioneuvoston kanslian alla vaan kahdeksassa eri ministeriössä, asioita yhtenäisesti tar-
+kastellaan, jotta kaikilla olisi samanlaiset käsitykset siitä, mitenkä valtionyhtiöistä pitää
+huolehtia ja käyttää niitä keinoja, mitkä meillä on valtionyhtiöitten ohjaamiseen.
+
+Tämä täällä kerrottu ongelma siitä, että halutaan aina puuttua yksittäisten hallitusten toi-
+mintaan ja niiden yhtiöiden käytännön sisältöihin, on ollut aina ja tulee ihan varmasti ole-
+maan, ja juuri siitä syystä tämmöisessä kiistanalaisessa kohdassa tämä olisi pitänyt jättää
+tekemättä. Siitä syystä olemme joutuneet tekemään tämän epäluottamuslause-esityksen.
+
+16.13 Olli Immonen ps: Arvoisa rouva puhemies! Haluan aivan ensiksi tähän alkuun pe-
+russuomalaisten valiokuntavastaavan ominaisuudessa todeta koko valiokuntaryhmämme
+puolesta sen, että mielestämme oli tärkeää saada nostettua sekä Finaviaan että yleisesti val-
+tion omistajapoliittiseen päätöksentekoon ja valtionyhtiöiden riskienhallintaan liittyvät
+asiat perusteellisesti valiokunnan tarkasteltavaksi. Toiseksi haluan tuoda esiin sen, että
+olemme erittäin tyytyväisiä tämän yksimielisen mietinnön lopputulokseen, ja kiitos tästä
+koko valiokunnalle. 
+
+Kuten täällä aiemmista puheenvuoroista onkin jo käynyt ilmi, tarkastusvaliokunta siis
+käsitteli näitä julkisuudessakin paljon esillä olleita Finavian johdannaissopimuksia vuosil-
+ta 2009—2011 ja niihin liittyvää päätöksentekoa. Itse kannustaisin kiinnittämään huomio-
+ta erityisesti tähän mietinnön johtopäätösosioon, jossa on tiiviisti ja ytimekkäästi tuotu
+esiin omistajapoliittiseen päätöksentekoon ja valtionyhtiöiden riskienhallintaan liittyvät
+keskeiset havainnot, puutteet, epäkohdat ja ratkaisuehdotukset.
+
+Näistä edellä mainituista johdannaissopimuksista on siis aiheutunut huomattavaa vahin-
+koa valtiolle. Myös tähän havaittuun ongelmaan reagointi on ollut hidasta. Valiokunta nos-
+taakin mietinnössä keskeisenä ongelmana esille sen, ettei valtio-omisteisille yhtiöille ole
+tällä hetkellä erillistä ohjeistusta riskienhallinnasta. Valiokunta pitää tärkeänä sitä, että val-
+tio-omisteisten yhtiöiden riskienhallinta järjestetään jatkossa asianmukaisesti ja että valtio-
+neuvosto antaa asiaa koskevan ohjeistuksen. Tämän ohella yhtiön johdon ja hallituksen
+vastuulla on tietysti varmistaa se, että näitä laadittuja ohjeita noudatetaan.
+
+Tämän lisäksi valiokunta tuo mietinnössä esiin näitä täällä salissa tänään kovasti kes-
+kustelua herättäneitä erilaisia tilanteita ja toimijoiden toisistaan eriäviä käsityksiä siitä,
+mikä olisi ollut oikea toimintatapa omistajapoliittiselle päätöksenteolle ja kuuluiko jokin
+asia omistajan vai yhtiön itsensä päätettäväksi. Valiokunnan asiantuntijakuulemisissa eri
+tahojen näkemykset poikkesivat toisistaan esimerkiksi sen suhteen, puuttuiko liikenne- ja
+29
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+viestintäministeriö Finavian toimintaan epäsopivalla tavalla tilintarkastusyhteisö Deloit-
+ten ja Finavian kanssa solmitun sovintosopimuksen valmistelussa sekä aikaisempaan joh-
+toon kohdistuneen vahingonkorvausvaatimuksista luopumisen osalta. 
+
+Tarkastusvaliokunta toteaa mietinnössään, että se pitää syntynyttä tilannetta epätoivot-
+tuna ja haluaa välttää vastaavanlaisten tilanteiden syntymisen jatkossa. Valiokunnan mie-
+lestä on välttämätöntä, että eri toimijoilla vallitsee yhteinen käsitys hyväksytyistä toimin-
+tatavoista. Mietinnössä peräänkuulutetaankin sitä, että hallitus tarkentaa vielä tämän vuo-
+den loppuun mennessä valtion omistajaohjauksen toimintaperiaatteita erityisesti valtion
+kokonaan omistamissa yhtiöissä.
+
+Arvoisa puhemies! Valtion omistajaohjausta tulee vahvistaa ja selkeyttää. Myös avoi-
+muus ja läpinäkyvyys ovat tärkeä osa hyvää hallintotapaa. Täällä salissa tänään pidettyjen
+puheiden perusteella uskaltaisin väittää, että eduskunta kykenee yksimielisesti yhtymään
+valiokunnan näkemykseen siitä, että valtion omistajapoliittiseen päätöksentekoon ja val-
+tionyhtiöiden riskienhallintaan liittyvät epäselvyydet ja epäkohdat on saatettava kuntoon.
+Haluankin kiittää hallitusta nyt lopuksi vielä siitä, että se on ryhtynyt määrätietoisesti toi-
+miin asian kuntoonsaattamiseksi.
+
+16.18 Maarit Feldt-Ranta sd: Arvoisa puhemies, fru talman! Aina kun on kyseessä ve-
+ronmaksajien rahojen ja omaisuuden hoitaminen, on vaatimus hyvästä hallinnosta ja ohjei-
+den sekä sääntöjen noudattamisesta pidettävä korkealla.
+
+Kuten sekä Valtiontalouden tarkastusviraston laillisuustarkastuskertomuksesta että
+myös tarkastusvaliokunnan yksimielisestä mietinnöstä käy ilmi, Finavian johdannaisasian
+omistajaohjauksessa ei ole noudatettu hyvän hallinnon periaatteita eikä vakiintuneen käy-
+tännön mukaisia toimintatapoja, toisin kuin tästä keskustelusta tänään olisi voinut esimer-
+kiksi keskustan ryhmän osalta luulla.
+
+On hyvä, että eduskunta on käynyt ja käy tämän asian läpi huolella, sillä yksittäisen
+asian lisäksi tässä vedetään raja myös muiden asioiden osalta sille, miten yksittäiset valtio-
+neuvoston jäsenet voivat käyttää asemaansa ja miten omistajaohjaus toteutetaan niin, että
+se on veronmaksajien kannalta luotettavaa ja kestävää.
+
+Asian käsittelyn yhteydessä on selkeästi käynyt ilmi, että erityisesti syksyllä 2015 on
+käytetty poikkeuksellisia omistajaohjauksen keinoja. Tarkastusvaliokunnan mietinnöstä
+käy ilmi muun muassa se, että liikenne- ja viestintäministeriöstä on vastoin ministeriön
+omiakin hallinnointiohjeita puututtu aktiivisesti Finavian operatiiviseen toimintaan. Tääl-
+lä käytiin keskustelua siitä, onko ministeri toiminut aktiivisesti vai eikö ole toiminut aktii-
+visesti. Jos ja kun luette mietinnön, niin sieltä se käy aivan selkeästi ilmi — ja valiokun-
+nalla on ollut käytössä myös muita asiakirjoja, sekä Valtiontalouden tarkastusviraston lau-
+sunto että myös sähköpostiliikennettä liikenne- ja viestintäministeriöstä, josta tämä aktii-
+visuus käy ilmi. Sivulla 20 todetaan: "Ministeriön rooli sovintosopimusprosessissa näyt-
+täytyy asiantuntijakuulemisen perusteella pikemminkin asioihin vaikuttamiselta kuin taus-
+talla odottamiselta. Sovintosopimusprosessiin liittyy sellaisia toimintatapoja ja tilanteita,
+jotka ovat valiokunnan mielestä omiaan sekoittamaan omistajaohjauksen ja yhtiön päätök-
+senteon toisiinsa."
+
+Liikenne- ja viestintäministeriön käsitys siitä, mitä keinoja omistajaohjauksessa voi
+käyttää, poikkeaa valtioneuvoston kanslian omistajaohjausosaston ja tarkastusviraston kä-
+sityksestä olennaisesti. On kestämätöntä, että näin keskeisessä asiassa eri toimijoilla vallit-
+see erilainen käsitys hyväksyttävistä toimintatavoista. Niin ei tietenkään voi jatkua, ja siksi
+30
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+tarkastusvaliokunta edellyttääkin, että hallitus tarkentaa valtion omistajaohjauksen toimin-
+taperiaatteita erityisesti valtion kokonaan omistamissa yhtiöissä.
+
+Arvoisa puhemies! Yksi asiaan liittyvä suuri kysymys, jolla on laajaa yhteiskunnallista
+merkitystä, on vastuukysymysten selvittäminen oikeusteitse eli kanteiden nostaminen. Va-
+liokunnan yksimielinen kanta asiassa on selkeä. Valiokunta painottaa yleisen edun merki-
+tystä, kun oikeusprosesseja harkitaan valtionyhtiöissä. Tosin valiokunnan varapuheenjoh-
+taja Olavi Ala-Nissilä äskeisessä puheenvuorossaan irtisanoutui tästä valiokunnan yksi-
+mielisen mietinnön kannanotosta, mikä on tietysti kovin hämmentävää. [Pia Viitanen: Vä-
+hintään!]
+
+Finavian osalta valiokunta toteaa, että lopputuloksen epävarmuudesta huolimatta olisi
+yleisen edun kannalta ollut perusteltua selvittää vastuukysymykset kokonaisuudessaan oi-
+keusteitse. Kansalaisten pitää voida luottaa siihen, että valtionyhtiöissä ilmi käyneisiin
+epäkohtiin puututaan ja että vastuullisia vaaditaan oikeusteitse tilille, kun 34 miljoonaa eu-
+roa veronmaksajien rahaa on kateissa.
+
+Kolmas tärkeä seikka ja asiaan liittyvä näkökulma on päätöksenteko. Valtioneuvoston
+jäsenillä ei ole mitään yleisvaltuutta sekaantua mihin tahansa toimialansa asiaan, varsin-
+kaan kun asia on osakeyhtiössä käsittelyssä. Perustuslain 2 §:n 3 momentti sanoo: "Julki-
+sen vallan tulee perustua lakiin. Kaikessa julkisessa toiminnassa on tarkoin noudatettava
+lakia." Valtioneuvoston jäsenellä ei siis ole mitään yleisvaltuutta puuttua mihin tahansa
+asioihin ilman, että se perustuu johonkin toimivaltuuteen.
+
+Avoimuus, läpinäkyvyys ja hyvä hallinto edellyttävät sitä, että päätökset dokumentoi-
+daan. Julkisesti omistetussa yhtiössä täytyy jälkeenkinpäin, henkilöiden vaihduttua, olla
+todennettavissa tehdyt päätökset ja omistajan tahtotila. Tarkastusvaliokunta toteaa mietin-
+nössään myös sen, että se pitää suotavana, että vastuukysymysten ratkaiseminen olisi tehty
+yhtiökokouksessa.
+
+Lopuksi, arvoisa puhemies: Asian perusteellinen käsittely on ollut välttämätöntä, ja
+myös tarkastusviraston ja tarkastusvaliokunnan johtopäätökset on syytä ottaa vakavasti.
+Kansalaisten on kyettävä jatkossa luottamaan siihen, että yhteisiä verovaroja ja yhteistä
+omaisuutta hoitavat tahot tuntevat vastuunsa ja toimivat ennen kaikkea veronmaksajien
+edun suojelijoina. Päätösten on perustuttava yleiseen etuun, ja kaikkien julkista valtaa
+käyttävien toimijoiden tulee sitoutua yhteisiin sääntöihin, hallinnointiohjeisiin ja toiminta-
+tapoihin.
+
+16.24 Pia Viitanen sd: Arvoisa rouva puhemies! Minullakin on tarkastusvaliokunnan va-
+rajäsenenä ollut mahdollisuus ja kunnia osallistua tähän yhteisen mietinnön laatimiseen, ja
+täytyy tässä yhteydessä kyllä lausua myös omalta osaltani kiitokset siitä, että saimme ai-
+kaiseksi yksimielisen mietinnön, ja kiitos myös valiokunnan puheenjohtajalle monista kär-
+sivällisistä tunneista, mitä siellä valiokunnan puitteissa vietimme. [Eero Heinäluoma: Oli
+ikimuistoista!] — Se oli hyvin ikimuistoista. Olen ollut 22 vuotta eduskunnassa, ja harvoin
+on ihan tällaista valiokuntakäsittelyvaihetta saanut nähdä. [Hannakaisa Heikkinen: Hyvin
+järjestetty näytelmä!] — Ei, ei suinkaan. Mielestäni se on muuten vähän halventavaa, jos
+sanotaan, että "hyvin järjestetty näytelmä", niin kuin täällä tuli välihuutona, koska valio-
+kunta erittäin vakavaa työtä teki, paneutui erittäin moniin lausuntoihin, ja mielestäni ai-
+heesta, sillä, kuten sanottu, silloin kun puhe on valtionyhtiöstä, jossa on tehty virheitä, ja
+näistä virheistä on koitunut veronmaksajille selkeää haittaa, niin kyllä silloin kansalaisella
+31
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+on lupa olettaa, että se asia otetaan tosissaan ja perin juurin selvitetään. [Hannakaisa Heik-
+kinen: Miksi ei viime vaalikaudella?]
+
+On hyvä, että valiokunta on tullut kahteen johtopäätökseen, tai itse asiassa koko edus-
+kunnan päätökseksi kirjataan tämä valtion omistusohjauksen toimintaperiaatteiden täs-
+mentäminen sekä tietenkin luonnollisesti se, että riskienhallintaa koskevan ohjeistuksen
+valtio-omisteiselle yhtiölle on valmistuttava. Nämä ovat tärkeitä asioita.
+
+Kuten sanottu, kun kysymyksessä on valtio-omisteinen yhtiö, niin silloin on hyvin tär-
+keää, että nämä asiat selvitetään perin pohjin. [Hannakaisa Heikkisen välihuuto] Silloin
+puhutaan sellaisesta asiasta kuin kansalaisten luottamus, ja kyseessä on kaiken kaikkiaan
+veronmaksajien raha. Silloin ei saa yleisesti tulla sellaista kuvaa, että kappas vain, 34 mil-
+joonaa häviää eikä kenelläkään ole käsitystä, kuka siitä vastaa. Kun virheitä on tapahtunut
+ja merkittäviä tappioita on tullut, niin on hyvin tärkeää, että kansalaiset voivat luottaa sii-
+hen, että asiat selvitetään ja mitään ei lakaista maton alle. 
+
+Siksi on mielestäni hyvä nähdä, että valiokunta pohti tässä omassa mietinnössään tätä
+asiaa sekä yhtiön että yleisen edun kannalta ja totesi, että totta kai, jos ajatellaan yhtiön
+etua, sellaisella seikalla kuin mainehaitta tai lopputuloksen epävarmuus voi olla enemmän
+painoarvoa harkittaessa, mutta olen hyvin iloinen siitä, että valiokunta toden totta yksimie-
+lisesti tuli siihen tulokseen, että nimenomaan tässä tilanteessa, kun kysymyksessä on val-
+tionyhtiö ja yhteinen veronmaksajien raha, yleisen edun tulee silloin painaa, kansalaisten
+luottamuksen ja avoimuuden nimissä. Ja valiokunta toden totta yksimielisesti toteaa, että
+tässä suhteessa, nimenomaan yleisen edun kannalta, olisi ollut viisasta ja perusteltua kat-
+soa nämä vastuukysymykset oikeusteitse.
+
+Kun nyt puhutaan näistä syksyn 2015 tapahtumista — täällä on hyvin käynyt ilmi, että
+nimenomaan tästähän nyt on ollut kysymys näissä erimielisyyksissä siitä, että kannat ja ti-
+lanteet ovat muuttuneet — niin on hyvin tärkeää mielestäni nähdä se, että tämä asia, että
+kanteet pitäisi nostaa, on äärimmäisen tärkeä ja samoin se, että yhtiökokous olisi tullut pi-
+tää. Myös sen, puhemies, valiokunta toden totta toteaa, että yhtiökokous olisi ollut se suo-
+siteltava tapa kaiken kaikkiaan toimia. Näin ei valitettavasti nytten kuitenkaan käynyt. Me
+olemme täällä jo kuulleet aika monta puheenvuoroa tästä asiasta, ja se, mikä on käynyt täy-
+sin selväksi tietenkin, on se, että kaiken kaikkiaan tässä on auennut tapahtumasarja, jossa
+on käytetty normaalista omistajaohjauksesta poikkeavia menetelmiä.
+
+Täällä on muutaman kerran siteerattu valiokunnan yksimielisen mietinnön paria lauset-
+ta. Olen ne tähän noukkinut myös itselleni, koska minusta nämä ovat aika merkityksellisiä.
+Eli valiokunta toteaa, että "ministeriön rooli sovintosopimusprosessissa näyttäytyy asian-
+tuntijakuulemisten perusteella pikemminkin asioihin vaikuttamiselta kuin taustalla odotta-
+miselta". Ja silloin jos yksimielisesti tämä lause on voitu kirjata, niin silloin varmasti pik-
+kuisen avautuu se hämmennys, mikä tulee, kun kuuntelee toisaalta ministerin lausuntoja ja
+toisaalta lukee sitten näitä lukuisia asiantuntijakuulemisen dokumentteja, mitä myös sitten
+julkisuudessa ja netissä on saatavilla ja mitä valiokunta on käynyt läpi. Valiokunta toteaa,
+että "sovintosopimusprosessiin liittyy sellaisia toimintatapoja ja tilanteita, jotka ovat valio-
+kunnan mielestä omiaan sekoittamaan omistajaohjauksen ja yhtiön päätöksenteon toisiin-
+sa". Myös tämä on suora sitaatti valiokunnalta, ja minusta tämä kyllä vaikuttaa käytännös-
+sä samalta kuin VTV:n toteamus omassa kertomuksessaan, että hyvää hallintotapaa on ri-
+kottu. Mielestäni tämä on oikeastaan vähän sama asia hieman eri sanoin. Tietenkin silloin
+tulee sellainen tunne, että tässä nyt ilmiselvästi on käynyt ilmi, että tietynlaista aktiivisuut-
+32
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+ta, vaikuttamista ja ohjaamista, puuttumista asiaan on tapahtunut, ja tietenkin hyvä kysy-
+mys kuuluu, että miksi. Siihen me emme tiedä vastausta, mutta näin on näyttänyt käyvän.
+
+Ja kaiken kaikkiaan haluan sanoa sen saman, minkä sanoin tuossa debatissa, että vähän
+tuli sellainen tunne, kun mietin tätä asiaa, että ajettiinko tässä nyt lopulta sitten veronmak-
+sajien etua vai Deloitten etua. Näyttää vähän siltä, valitettavasti, että tämä sovintosopimus
+olisi eräänlainen Finavian ja valtion antautumisilmoitus Deloittelle. Minä en sinänsä ym-
+märrä, miksi, koska kuitenkin puhumme tilintarkastajien vastuusta, jota yleensä pidetään
+varsin vahvana. Ja tässä tapauksessa näin ei nyt näytä sitten käyneen.
+
+Puhemies! Tässä ihan kiteytetysti muutama mielestäni keskeinen ajatus, mitä tästä tar-
+kastusvaliokunnan mietinnöstä ja näistä lausunnoista on tullut ilmi. Ja kyllä tietenkin täy-
+tyy sanoa, että kun näihin lausuntoihin tutustuu vielä tätä hyvää mietintöä tarkemminkin,
+niin kyllä siellä monia kysymyksiä jää ilmaan.
+
+16.31 Hannakaisa Heikkinen kesk: Arvoisa rouva puhemies! Minä en ole tarkastusva-
+liokunnan jäsen, [Maarit Feldt-Rannan välihuuto] ja olen... [Eero Heinäluoma: Jatkakaa
+vain!] Mietin tuossa, käytänkö ollenkaan tätä puheenvuoroa, koska se aika, kun täällä käy-
+tiin debattia, niin... Lähetän täältä vielä jälkikäteen ministeri Bernerille suuret kiitokset sii-
+tä avoimuudesta, mitenkä hän pystyy yksityiskohtaisesti selvittämään myös meille maalli-
+koille sitä, mitä tässä on tapahtunut ja milloin. Siksi minusta on hyvin hämmentävää se,
+että viime hallituskaudella vastuussa olevia ministereitä on käynyt täällä osoittamassa sor-
+mella kollegaa, joka on vihdoin ottanut vastuuta tässä asiassa. Haluan myös ihmisille ker-
+rata tässä, ketkä ovat olleet tämän prosessin aikana vastuussa: Liikenneministerinä oli Kyl-
+lönen vuosina 2011—2014, Virkkunen vuonna 2014 ja Risikko 2014—2015. Omistajaoh-
+jausministerinä tämän prosessin aikana ovat olleet Hautala 2011—2013, Haavisto 2013—
+2014 ja edellä hieman aikaisemmin puheenvuoron käyttänyt Paatero 2014—2015. Kuten
+aikaisemmin debatissa jo kävi ilmi, jos näihin asioihin olisi puututtu viime hallituskaudel-
+la, nämä valtiolle aiheutuneet tappiot olisivat jääneet muutamaan miljoonaan euroon.
+[Sirkka-Liisa Anttila: Viiteen!] Kun tarkastusvaliokunta on mietinnössään ollut yksimieli-
+nen ja siinä on puheenjohtajana kuitenkin demareitten Heinäluoma, niin olisi voinut ajatel-
+la, näin maallikkona, että myös SDP olisi sitoutunut tähän muistioon. Siksi ihmettelen tätä
+epäluottamuslausetta ministeri Bernerille.
+
+Kiitän myös osaltani valiokuntaa erittäin hyvästä työstä ja niistä tehdyistä tarpeellisista
+ponsiehdotuksista, joilla pystytään toivottavasti tulevaisuudessa välttämään tällaiset vas-
+taavat tapaukset. Nämä kaksi ponsiehdotustahan ovat: "Eduskunta edellyttää, että hallitus"
+— nyt — "ryhtyy toimenpiteisiin ja antaa riskienhallintaa koskevan yleisen ohjeistuksen
+valtio-omisteisille yhtiöille" ja toisena "Eduskunta edellyttää, että hallitus tarkentaa val-
+tion omistajaohjauksen toimintaperiaatteita erityisesti valtion kokonaan omistamissa yhti-
+öissä vuoden 2017 loppuun mennessä."
+
+Arvoisa rouva puhemies! Ministeri Berner todella peri ongelman, joka oli kypsynyt nel-
+jän ministerin aikana. Ongelmiin tarttumista vältettiin turhan kauan. Haluan muistuttaa, jos
+se jollekin tätä katselevalle on jäänyt epäselväksi: Bernerillä ei ollut mitään tekemistä tap-
+piollisten johdannaiskauppojen kanssa, jotka siis tehtiin vuosina 2009—2011. Vasta mi-
+nisteri Bernerin aikana vahinkojen määrää ja seurauksia on selvitetty aktiivisesti, ja Berner
+on mielestämme toiminut osaavasti hankalassa tilanteessa.
+
+Arvoisa rouva puhemies! Edustaja Rinne on julkisuudessa väittänyt, että tilintarkastus-
+yhtiön vapauttaminen vastuusta johti siihen, että vastuukysymykset valtiolle koituneista
+33
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+yli 30 miljoonan euron vahingoista jäivät selvittämättä. Totuus kuitenkin on, että noin
+300 000 euroa on menetetty ja muita selvitetään, eli juristi Rinne on vääristellyt tätä asiaa.
+Olisin toivonut, että tämä asia olisi korjattu ja oikaistu täällä käydyssä debatissa, mutta
+mitä saimme? Vain epäluottamuslauseen ministeri Bernerille.
+
+Arvoisa rouva puhemies! Maakuntien lehdissä on tietynlainen vaalisensuuri ennen kun-
+tavaaleja. Ikävää, että sellaista vaalisensuuria emme täällä eduskunnassa voi ylläpitää. Tar-
+koitan tällä sitä, että pystyisimme jotenkin suodattamaan, minkälaisia vaalinäytelmiä tääl-
+lä, tässä arvokkaassa salissa, käydään. Jos te epäluottamuslauseen jättäjät, arvoisat sosiaa-
+lidemokraatit, olisitte hallitusvastuussa toimineet viime vaalikaudella, nuo tappiot todella
+olisivat jääneet siihen noin 5 miljoonaan euroon. Tämä jos joku minusta on hyvin järjes-
+tetty näytelmä.
+
+16.37 Timo Harakka sd: Arvoisa puhemies! En tiedä, onko edustaja Heikkinen kunnal-
+lisvaaliehdokkaana ja olisiko hänen tullut soveltaa tätä sensuuria nyt itseensä, mutta voin
+ehkä alkukevennyksenä sanoa, että itse en aio olla kuntavaaliehdokkaana, joten kaikki se,
+mitä täällä puhun, on objektiivista totuutta. En kyllä myöskään oikein hyväksy sitä vihjai-
+lua, että valiokunnan, joka on tehnyt vakavasti tärkeää työtään, työn tuloksia tällä tavalla
+epäillään poliittisesti värittyneiksi.
+
+Korjataan tässä nyt sitten vielä sekin asia, että mitä puheenjohtaja Rinne on julkisuudes-
+sa todennut — tämäkin tosin on toimittajan omaa tulkintaa puheenjohtaja Rinteen lausun-
+nosta: "Rinteen mukaan tilintarkastusyhteisön vapauttaminen vastuusta johti siihen, että
+vastuukysymykset valtiolle koituneesta yli 30 miljoonan euron vahingosta jäivät selvittä-
+mättä tilintarkastusyhtiön osalta." Vaikea nähdä, että tässä virkkeessä olisi mitään kyseen-
+alaista. Tämähän on kuvaus siitä, mitä on tapahtunut. Siinä ei itse asiassa edes osoiteta sor-
+mella yhtään ketään. Mutta kuten sanoin, objektiivisen totuuden kertominen on tässä nyt
+sitten jäänyt minun tehtäväkseni.
+
+Tässä Finavia-kohelluksessa on mennyt sekaisin moni asia. Oli siis välttämätöntä, että
+tarkastusvaliokunta pyrki saamaan tähän sekoiluun jotain selvyyttä, ja tämä työ on ollut
+erittäin tärkeää ja ansiokasta — kiitos myös omasta puolestani. Eräät keskustan edustajat-
+han olivat täällä sitä mieltä, että asioita ei olisi pitänyt selvittää lainkaan. En voi allekirjoit-
+taa tällaista näkemystä julkisten varojen hoidon vastuusta ja vastuullisuudesta, niin epä-
+miellyttävää kuin se joskus onkin. [Hannakaisa Heikkinen: Kuka näin sanoo?] — Näin sa-
+noi ainakin edustaja... [Vasemmalta: Kiviranta!] — Kiviranta, aivan oikein. Olisihan nyt
+pitänyt oman verojaoston kollegan nimi muistaa. En olisi halunnut häntä nyt tässä mainita
+lainkaan mutta pyynnöstä näin tein.
+
+Tässä keskustelussa oli sellainen mielenkiintoinen ristiriita, että pääministeri Sipilä pai-
+notti voimakkaasti sitä, että ministerin tuli puuttua Finavian toimintaan, kun taas ministeri
+Berner on tässä koko ajan, kuukausien ajan, korostanut, että hän ei ole puuttunut millään
+tavalla Finavian toimintaan. Että kumpikohan näistä näkemyksistä nyt sitten on totta?
+Ehkä kannattaisi sopia yhteinen tarina etukäteen.
+
+Pääministeri totesi täällä pöntössä, että omistajan ja operatiivisen johdon rajat ovat täy-
+sin selvät. Toisin lausuu siis Valtiontalouden tarkastusvirasto, joka nimenomaan on toden-
+nut, että nämä roolit ovat Finaviassa menneet sekaisin. Ja itse asiassa valiokuntakin tässä
+yksimielisessä mietinnössään toteaa, että Deloitte-kanteiden peruuttamisessa oli "toimin-
+tatapoja ja tilanteita, jotka ovat valiokunnan mielestä omiaan sekoittamaan omistajaoh-
+jauksen ja yhtiön päätöksenteon toisiinsa". Hallituspuolueiden edustajat valiokunnassa
+34
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+ovat todenneet, että tämä raja ylitettiin, mutta ministerit Sipilä ja Berner ovat uppiniskai-
+sesti eri mieltä — tosin sitten eri syistä, kuten alussa sanoin. Lisäksi ovat menneet sekaisin
+omistajaohjausministereiden ja valtioneuvoston omistajaohjausyksikön roolit, kun minis-
+teri vaati yhtiötä toimimaan toisin kuin omistajaohjausyksikkö oli ohjeistanut. 
+
+On siis tärkeää huomata se, että ministeriö tässä rikkoi hyvää hallintotapaa ja toimi oma-
+valtaisesti ja veronmaksajien kannalta vahingollisesti. Kerroin aikaisemmin, että eräs an-
+sioitunut tilintarkastuksen ammattilainen soitti päivällä ja korosti, että tämä tapaus ei saa
+mennä seuraamuksitta. Tämä on siis myöskin sellaisen asiantuntijan ja emerituksen näke-
+mys, jolla on huomattavasti enemmän vuosia tällä alalla kuin edes edustaja Ala-Nissilällä.
+
+Täälläkin keskustelussa roolit menivät sekaisin, kun edustaja Ala-Nissilä on moneen ot-
+teeseen todistellut, että vahingonkorvauskanteet eivät olisi menestyneet käräjillä. Arvos-
+tan hänen tilintarkastusosaamistaan, mutta en ole saanut syytä vakuuttua hänen juristinky-
+vyistään. Kyse on periaatteesta: jos valtiolle aiheutetaan vahinkoa, veronmaksajien etua on
+puolustettava oikeudessa. Tässähän mentiin 90-luvulla kohtuuttomuuksiinkin, kun maa-
+kuntapankkien isännistöä pantiin tilille aiheutetuista vahingoista. Useissa pankkioikeuden-
+käynneissä valtio myös hävisi tuntuvasti rahaa, mutta silloin se nähtiin yhteiskuntamoraa-
+lin kannalta välttämättömänä. Kansalaisille ei saa tulla kuvaa, että yhteiskunnassa on suo-
+jeltu eliitti, joka ei joudu vastuuseen teoistaan. Veronmaksuhalukkuuden kannalta on tu-
+hoisaa, jos julkisten varojen käytön valvonta on välinpitämätöntä. Valtion on siis puolus-
+tettava veronmaksajien rahoja, silloinkin kun menestyminen ei ole sataprosenttisen var-
+maa. Olen huolestunut siitä, että hallitus lipsuu tältä linjalta, hyvin huolestunut. Jos tämä
+tapauskohtainen puntarointi johtaa hyvin kirjavaan käytäntöön, on aivan selvää, että medi-
+alle ja kansalaisille tulee epäilys siitä, että joitakin tahoja suositaan ja suojellaan. Tämä kar-
+hu tulee varmasti vastaan, ja varoitan metsämiehiä vakavasti jo etukäteen.
+
+Meillä ei ole varaa rapauttaa demokratiaa eikä kansalaisten uskoa oikeusvaltioon ja ta-
+sapuolisuuteen. Siksi näin lopuksi siteeraan vielä valiokunnan kantaa, jotta kävisi ilmi se,
+että valiokunta ja siellä olevat hallituspuolueiden edustajat evästävät hallitusta kuitenkin
+huolehtimaan tästä julkisesta, yhteisestä moraalista tavalla, josta äsken puhuin: "Finavian
+osalta valiokunta toteaa, että lopputuloksen epävarmuudesta huolimatta olisi yleisen edun
+kannalta ollut perusteltua selvittää vastuukysymykset kokonaisuudessaan oikeusteitse.
+Tämä kuitenkin edellyttää vastuukysymysten oikeudellisen puolen huolellista ja monipuo-
+lista selvittämistä kaikissa vaiheissa. Tilintarkastajien osalta vahingonkorvausvastuu on
+nyt jäänyt selvittämättä, vaikka tilintarkastajan vastuuta pidetään yleisesti varsin ankara-
+na. Lisäksi asian saaman julkisuuden ja asiaan liittyvien monien osapuolien kannalta rat-
+kaisun saaminen oikeusteitse olisi voinut olla perusteltua, jotta vastuukysymykset eivät
+olisi jääneet pysyvästi epäselviksi." Meillä ei ole varaa siihen, että kansalaiset kokevat, että
+vääryyttä suojellaan. Eihän nyt toimita sillä tavalla, että vääryyttä on tehtävä, kun tekemät-
+täkään ei voi jättää?
+
+16.44 Krista Mikkonen vihr: Arvoisa puhemies! Valiokunta on tehnyt varsin perusteel-
+lista työtä tätä mietintöä tehdessään, ja hyvä niin, sillä asia on ollut varsin monimutkainen
+ja siinä on ollut varsin ristiriitaisia käsityksiä eri tahoilla niin tapahtumien kulusta kuin joh-
+topäätöksistäkin. Mielestäni on erittäin hyvä, että tämä mietintö on tuotu tähän koko edus-
+kunnan käsittelyyn, vaikka täälläkin on ollut joitain puheenvuoroja siitä, että näin ei olisi
+pitänyt tehdä. On aivan selvä asia, että kun on kyse taloudellisesti näin merkittävästä asias-
+ta, mihin tässä yritetään löytää selvyyttä ja etsiä syitä, miksi näin on päässyt käymään — ei
+35
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+vain siltä kannalta, mitkä tappiot ovat toteutuneet, vaan myös siltä kannalta, että tässä on
+ollut riski, että olisi syntynyt vielä suurempia tappioita — ja kun on kiistatonta se, että on
+toimittu vastoin ohjeistuksia, kun on ylipäätänsä otettu näitä johdannaissopimuksia, niin
+minusta on aivan perusteltua, että me täällä eduskunnassa tätä asiaa yhdessä käsittelemme,
+jotta osaamme myös ottaa opiksi siitä, miten jatkossa tulee toimia.
+
+Valtionyhtiöiden omistajaohjaushan on hankala rasti, sen ovat monet ministerit aiem-
+minkin saaneet huomata. Me tiedämme kaikki, että meillä edustajillakin on omia toiveita ja
+asetamme paljon paineita siihen, että jos valtion täysin omistamassa yhtiössä tapahtuu jo-
+takin, mikä mielestämme ei ole hyvä asia, niin painostamme usein ministereitä siihen, että
+niihin sisäisiin asioihin pitäisi puuttua, mutta sehän ei ole omistajaohjauksen tehtävä.
+Omistajan ei tule puuttua operatiiviseen toimintaan, vaikka yhtiö olisi täysin valtion omis-
+tama. Siksi onkin tärkeää, että tähän liittyen on selkeä ohjeistus, mutta kuten täällä on tul-
+lut aiemminkin esille, yhtä tärkeää on, että niitä ohjeita sitten myös noudatetaan. Ja tässä-
+kin tapauksessa nyt on sitten vähän epäselvyyksiä jäänyt tästä kohtaa.
+
+Tässä keskustelussa on aika voimakkaastikin joissain puheenvuoroissa tullut esille se,
+että aiemmin ei olisi tehty mitään ja vasta nyt ministeri Berner olisi ollut se henkilö, joka
+olisi ryhtynyt aktiivisesti toimiin selvittelemään tätä asiaa. Mutta kuten täällä on myös to-
+dettu ja kuten mietinnössä hyvin selvästi sanotaan, niin näinhän ei ole. Heti kun nämä joh-
+dannaissopimukset tulivat tietoon alkuvuonna 2012, niitä ryhdyttiin selvittämään yhtiön
+toimesta ja kaikki ministerit, jotka ovat siitä asti olleet vastuussa Finaviasta, ovat olleet ak-
+tiivisesti tukemassa sitä, että selvitystä tehdään. Toimintalinjana on ollut se, että ensin py-
+ritään minimoimaan lisätappiot ja sitten sen jälkeen vasta puututaan siihen, että kenen syy,
+ja tämä osittain myös siksi, että kun näissä oli erilaisia aikarajoja, niin haluttiin varmistaa,
+että lisävahinkoa ei synny.
+
+On toki hyvä, että myös ministeri Berner sitten jatkoi tätä samaa aktiivista toimintaa ja
+huolehti siitä, että tämä asia selvitetään loppuun asti. Mutta ongelmana tässä selvittelyssä
+ovat olleet ne toimintatavat, mitä on käytetty. Ne ovat olleet aivan selkeästi vastoin sitä,
+miten omistaja noin yleisesti voi puuttua yhtiön toimintaan. Täällä mietinnössä on aivan
+yksimielisesti todettu, että ministeri on toiminut nyt tavalla, joka on omiaan sekoittamaan
+omistajaohjauksen ja yhtiön päätöksentekoa toisiinsa. Nämä kysymyksethän ovat olleet
+siinä, että ministeri on ollut aktiivinen sovintosopimuksen neuvotteluissa, tai niiden aloit-
+tamisessa, ilman että hallitus on ollut siitä tietoinen, ohi hallituksen. Toisaalta ministeri on
+tehnyt paljon päätöksiä, joita ei ole dokumentoitu. Tämä on oikeastaan se iso ongelma täs-
+sä koko pitkässä prosessissa ja ylipäätänsä valtionyhtiöissä, jos ne ovat ministeriöiden alai-
+sia, koska siellä henkilöt vaihtuvat. Ja jos ei ole dokumentoitua päätöksentekoa, on hyvin
+vaikea jälkikäteen saada selville, kuka, miten, miksi ja milloin on jotakin päätöstä tehnyt,
+jos kerta näitä päätöksiä ei ole tuotu yhtiökokouksen tehtäväksi, mikä on se tapa, miten pi-
+täisi toimia.
+
+Kuten tässä on monta kertaa tullut esille, tämä kanteiden nosto on ollut ennen kaikkea se
+asia, missä näkemykset ovat hyvin suuresti vaihdelleet, ja siinä myös näkemykset ovat
+muuttuneet sitten ajan mittaan.
+
+Itse kyllä yhdyn tähän valiokunnan mietinnössä olevaan yksimieliseen kantaan: "Fin-
+avian osalta valiokunta toteaa, että lopputuloksen epävarmuudesta huolimatta olisi yleisen
+edun kannalta ollut perusteltua selvittää vastuukysymykset kokonaisuudessaan oikeusteit-
+se. Tämä kuitenkin edellyttää vastuukysymysten oikeudellisen puolen huolellista ja moni-
+36
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+puolista selvittämistä kaikissa vaiheissa". Näin näen, että kun puhutaan yhteisistä rahoista,
+niin vastuu on erityisen suuri, jotta me säilytämme kansalaisten luottamuksen.
+
+No, missään prosessin vaiheessahan ei ole tullut ilmi, että ministeri Berner olisi toimi-
+nut lainvastaisesti, mutta kuten mietinnössäkin todetaan, kuitenkin hyvän hallinnon ja
+omistajaohjauksen yleisten periaatteiden vastaisesti, tai vastoin niitä yleisiä käytänteitä, on
+toimittu. Me tiedämme kaikki, että juridisen vastuun ohellahan poliittisilla päättäjillä on
+myös poliittinen vastuu. Sinänsä tässä tapauksessa pidän hyvänä, että tämä poliittinen vas-
+tuukin tulee punnittavaksi ja arvioitavaksi tänne eduskuntaan, kun ministerin toiminta alis-
+tetaan luottamusäänestykseen. Vihreä ryhmä tulee omasta äänestyskäyttäytymisestään
+päättämään huomenna ryhmäkokouksessa, enkä tässä vaiheessa siitä sano sen enempää.
+
+16.52 Kauko Juhantalo kesk:  Arvoisa puhemies! Sinänsä mielenkiintoinen tapaus on
+tämä tällaisen sijoitustoiminnan tukeminen, joka tietääkseni voidaan tehdä vain suojaustar-
+koituksessa. Tässä on kyllä ollut enemmän kuin suojaustarkoitus, on ollut tarkoitus sillä
+ansaita, mikä tietysti on väärin, spekulatiivisella tavalla saada lisää valtion varoja. Sen on-
+nistuessa emme täällä tietenkään olisi vaan olisimme tyytyväisiä. Kun tämä tapahtumaket-
+ju on katkaistu eräässä kohdin, noin puolivälissä, mitä siitä olisi voinut syntyä ja oli synty-
+mässä, se olisi tietysti ollut johdonmukaista myös käsitellä nopeasti.
+
+Minusta ei riitä se, että monen ministerin voimin on lausuttu ja edellytetty, että tämä täy-
+tyy huolellisesti selvittää ja niin pitää tehdä kaikkialla ja sen jälkeen pestä kätensä, ja ei mi-
+nisterinä ole ollut sitten rohkeutta itse sitä tehdä, niin kuin ministeri Berner on nyt toimi-
+nut. On erittäin hyvä, että löytyy niin ponteva ja rohkea ministeri, joka itse tekee sitä työtä,
+mikä ministerille kuuluu, eikä yritä myöhemmin selviytyä sillä, että kyllä olen antanut
+määräyksen, että pitää hyvin tässä toimia. Sen vuoksi tämä itse oikeudellinen kysymys on
+muuttunut näköjään aivan poliittiseksi näytelmäksi.
+
+Minusta tässä selvityksessä ja valiokunnan mietintötyössä on useita sellaisia kohtia,
+joissa katsotaan kutakin asiallista asiaa toisaalta ja toisaalta, ja selviää se, että hyvin mo-
+nessa kohdin tämän yhtiön historiassa on kysytty eri asiantuntijalausuntoja runsaasti ja
+mistään ei ole saatu yksiselitteistä lausuntoa muun muassa vastuukysymyksistä ja siitä, mi-
+ten pitäisi toimia. Sinänsä tämä nyt esillä oleva valiokunnan työ on tehty huolellisesti, kyl-
+läkin aikaa käyttäen hyvin runsaasti, ja on päädytty johtopäätöksiin, jotka sinänsä ovat oi-
+keita. Mutta tässä pitää saada selkeä käytäntö, niin että tällaisia näytelmiä ei täällä enää
+näytellä.
+
+Mutta kun puhe on siitä, millä tavalla ministeri voi puuttua ministerin alaisuudessa ole-
+van yhtiön hallintoon ja sitä joko ohjata tai ohjeistaa, on aina tärkeätä muistaa, että minis-
+teri on itse kävelevä yhtiökokous. Millä tavalla sitä pitää selkeyttää? Siinä mielessä on tär-
+keä valiokunnan käsitys siitä, että muun muassa dokumentaation täytyy olla täsmällisem-
+pää ja tarkempaa, koska päätöksiä voidaan ministerin taholta kyllä antaa yhtiön hallituk-
+selle noudatettavaksi ja se on aina yhtiökokouksen päätös muodollisesti.
+
+Nimittäin se on tässä mielenkiintoista, että kun ministeriö tilasi asiantuntijalausunnon
+Valtiontalouden tarkastusviraston laillisuuskertomuksesta, ministeriö pyysi asiantuntijaa
+arvioimaan, oliko viraston ministeriöön kohdistama arvostelu yksityisoikeudellisesti pe-
+rusteltua, niin lausunnon mukaan yksimielisellä osakkeenomistajalla on osakeyhtiölain
+5 luvun 2 §:n 2 momentin perusteella oikeus ottaa käsiteltäväkseen hallituksen tai toimi-
+tusjohtajan yleistoimivaltaan kuuluva asia ja ministeriö on osakkeenomistajana tätä oikeut-
+ta käyttänyt. Tämä johtaa siihen, minkä valiokunta onkin tässä myöhemmin lausunut yksi-
+37
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+mielisesti, että Valtiontalouden tarkastusviraston mukaan yleinen lähtökohta yhtiökäytän-
+nöissä on se, että tämänkaltaiset päätökset tehdään kirjallisesti. Asiantuntijalausunnon mu-
+kaan puolestaan, koska Finavialla on vain yksi osakkeenomistaja, on yhden osakkeenomis-
+tajan yhtiössä samantekevää, onko se pitänyt erillisen yhtiökokouksen vai antanut samaa
+asiaa koskevan ohjeistuksen. Yhden omistajan yhtiössä yhtiökokous on koko ajan koolla ja
+omistajan näkemyksen esille tuominen hallitukselle on käytännössä sama kuin yhtiöko-
+kouksen päättäminen. Tämä on juridiikkaa, ja näin tässä on menetelty.
+
+Täysi kunnia ministeri Bernerille, hän on uskaltanut tämän asian rohkeasti selvittää ja
+tuoda esille, ja häntä lämpimästi kannatan tässä työssä.
+
+16.58 Arto Pirttilahti kesk:  Arvoisa rouva puhemies! Tässä on meillä hyvin iltapäivä
+taittunut tämän asian parissa. Täytyy ensin kiittää tarkastusvaliokuntaa siitä hyvästä työs-
+tä, mitä on tehty valiokunnan puheenjohtajan, SDP:n Eero Heinäluoman, johdolla, on teh-
+ty perusteellista työtä ja selvitetty asioita ja kuultu paljon asiantuntijoita. Todellakin tässä
+on aikaa käytetty, ja nämä loppulausumat ovat aivan mainioita, tämä riskienhallinnan oh-
+jeistus ja hallituksen tarkempi omistajaohjaukseen puuttuminen vielä. Ja pitäähän tässä
+vielä mainita, että tämän hallituksen aikanahan on nyt perustettu myös tämä parlamentaa-
+rinen omistajaohjausryhmä, missä varmaan tullaan myös parlamentaarisesti käsittelemään
+omistajaohjausta. Toinen asia vielä tähän liittyen on se, että Finavian omistajaohjaus on
+siirtymässä LVM:ltä tänne valtioneuvoston kanslian puolelle eli omistajaohjausyksik-
+köön. Nämä olivat hyviä. 
+
+Mutta sitten, mielenkiintoista kyllä, näinkin yksimielisen esityksen jälkeen me saamme
+sitten tänne epäluottamuslauseen vielä lisäksi. Ja mietin tätä objektiivista totuutta, kuten
+tässä edustaja Harakka kysyi se perään, että se on yksi asia, ja toinen on se, minkälaisen
+mielikuvan me annamme kansalle ja veronmaksajille tästä asiasta. Tätä on hyvin voimak-
+kaasti nyt tuotu SDP:n suunnalta esille.
+
+Nyt tämä mielikuva siitä, paljonko kansalle on tullut tästä tappiota, on totta. Eli sitähän
+on tullut noin 34 miljoonaa euroa kaikkinensa, ja se on tapahtunut vuosien 2009 ja 2011 vä-
+lissä. Mutta nyt tarjotaan sitä mielikuvaa tällä hetkellä SDP:n toimesta mutta myös Ylen
+toimesta, että Berner, meidän liikenne- ja viestintäministerimme, olisi vastuullinen tästä
+kaikesta 34 miljoonasta. Ihmettelen tätä, ja tämä on tullut todellakin Pia Viitasen ja myös
+Antti Rinteen ja myös Ojala-Niemelän toimesta tänäänkin esille, ja tätä huntua pidetään yl-
+lä, annetaan mielikuva kansalle, että näin on. Mutta jos tässä objektiivisen totuuden perään
+kysyy, niin johdannaistappiothan olivat sen 34 miljoonaa, se on totta, ja nyt keskusteluissa
+oleva Deloittella tehty sopimus koski vuosien 2009—2010 johdannaiskaupoista syntynei-
+tä vahinkoja, jotka ovat suuruudeltaan 317 000 euroa — siis 34 miljoonaa ja 317 000. Eli
+pääosa syntyneistä vahingoista, 33,9 miljoonaa euroa, syntyi vuonna 2011. Ja nämä vas-
+tuukysymykset selvitellään käräjillä tällä hetkellä.
+
+Sen eteen meidän Anne Berner, liikenne- ja viestintäministeri, on tehnyt ponnekkaasti
+töitä, että asiat ovat tähän malliin edenneet. Se, mitä sitten syksyllä on tapahtunut ja mitä ei
+ole tapahtunut, on mielenkiintoinen asia: jos on päätöksiä tehty eikä niitä ole toimeenpan-
+tu. Ja kun sitten liikenne- ja viestintäministeri ottaa tarmokkaasti kiinni asioista ja kysyy,
+onko näitä ja näitä selvityksiä tehty, onko poliisiselvityksiä ja näitä tehty, niin tästä sitten
+lähdetään nostamaan jopa sitten tänne eduskuntakyselyä.
+
+Mutta peruspohja on kuitenkin, kuten sanoin, tuossa hyvä, se, että saadaan parempi oh-
+jaus näihin asioihin. Toivottavasti siinä on nämä eri elementit, mitä meillä on käytettävis-
+38
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+sä, ja se, mitä pääministerikin sanoi, että nämä toimenpiteet menevät suoraan näitten mei-
+dän omien yhtiöittemme, valtionyhtiöitten, ohjaukseen, on erittäin hyvä.
+
+Ja kyllähän keskustelu mielestäni oli hyvä tänään debattiin asti, mutta sen jälkeen tässä
+on vähän toisenlaistakin informaatiota sitten ehkä tullut ja mieli on ehkä toisenlainenkin. 
+
+Mutta minä näen, että meillä on hyvä ministeri, joka on tarttunut kiinni asioihin ja läh-
+tenyt selvittämään niitä aikaisempia sotkuja suhteessa paremmin kuin muut ministerit,
+mitä tässä vitjassa aikaisemmin on ollut — olisi mahdollisuus ollut puuttuakin asiaan ai-
+kaisemmin. Villissä lännessäkin oli semmoinen sanonta, että ei kannata viestintuojaa eikä
+pianonsoittajaa ampua. Tässä nyt tuntuu siltä, että meillä on tämmöinen selvittäjä ja vies-
+tintuoja, joka on viestiä tuonut, ja että tätä nyt yritetään ampua tässä tilanteessa. Villissä
+lännessäkin on paremmat säännöt oikeastaan kuin tässä meidän omassa toiminnassa. Toi-
+von, että tälle tulee piste. Perjantaina äänestetään, ja sen jälkeen pulinat pois.
+
+17.03 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Kun katsoo tätä tarkastusvalio-
+kunnan mietintöä, joka on yksimielinen, ja kun on sitten kuunnellut tätä keskustelua, niin
+kyllä vähän menee ymmälleen, mikä tässä oikein homman nimi on. Pitää muistaa kuiten-
+kin, että tässä Finavia-asiassa 2009—2011 tapahtuneiden asioiden osalta se ratkaisevin
+vuosi oli se 2011. Jos viime vaalikauden ministerit olisivat hoitaneet omistajaohjausta ja
+velvollisuuttaan valtion omaisuuden hyvän hoidon eteenpäinviemiseksi, niin vahingothan
+olisivat olleet olennaisesti pienemmät. Olen jossakin nähnyt arvion, että vahingot olisivat
+silloin olleet korkeintaan noin 5 miljoonaa euroa. Tämä totuus ei valitettavasti tuolla julki-
+suudessa ole kovin paljoa ollut esillä. Pahoittelen sitä, että tätä eivät tiedotusvälineet ole
+jostain syystä halunneet tuoda esille.
+
+Vielä suuremmin ihmettelen sitä, että ministeri Berner on nostettu tikun nokkaan. Vuo-
+sina 2009—2011 hän oli yritysjohtaja, joka teki omassa yrityksessään ja omassa elämäs-
+sään vahvaa työtä suomalaisen yhteiskunnan hyväksi, ja nyt hänet nostetaan tikun nok-
+kaan syylliseksi. Tämä logiikka ei oikein minun päähäni istu, arvoisat demarikansanedus-
+tajat. Toivoisin kuitenkin, että tässä näille tosiasioillekin jonkunnäköinen arvo annettai-
+siin. Ministeri Berner on nyt omassa toiminnassaan jämäkästi puuttunut tähän asiaan, ja
+kuten pääministeri omassa puheenvuorossaan sanoi, tähän valtionyhtiöiden toimintaan,
+miten yhtiöt toimivat ja hoitavat tehtäviään ja valtion omaisuutta, ollaan ohjeistuksia nyt
+tarkentamassa koko ajan. Parlamentaarinen komitea istuu ja valvoo tätä asiaa, että saadaan
+hommat viimeisen päälle ajan tasalle. En näe siinä mitään moitittavaa.
+
+Minulle oli valtava yllätys, että yksimielisen mietinnön jälkeen tulee epäluottamuslause-
+esitys. No, voihan sillä totta kai politiikkaakin tehdä. Ymmärrän toki tämän ajan, kun kun-
+tavaaleihin on vain vähän aikaa — käyhän tämä tälläkin keinoin. Mutta soisin nyt olevan
+kuitenkin niin, että jos ollaan jostakin asiasta yhtä mieltä, niin ollaan sitten yhtä mieltä ja
+lopetetaan se turhanaikainen populismi. Mutta se nyt taitaa tähän aikaan kuulua. Toivon,
+että tällaisesta menettelystä ei tule yleinen käytäntö.
+
+17.06 Eero Heinäluoma sd: Arvoisa puhemies! Vaikka keskustelu on ollut vaikea, ehkä
+tämä kuitenkin on ollut luonteeltaan äärimmäisen tarpeellinen, ja tässähän on sitten se va-
+loisa puoli, että valtaosasta asioita, sekä tapahtumien kulusta että sitten vastuista ja myös
+tulevaisuudesta, ollaan samaa mieltä. Tässä ehkä eduskunnan työskentelytapa valiokunnis-
+sa, asioihin paneutuminen, asioiden selvittäminen ja johtopäätösten tekeminen, osoittau-
+tuu oikeaksi. Erimielisyydethän keskustelussa koskevat nimenomaisesti tätä vuoden 2015
+39
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+syksyä. Siitä, mitä sitä ennen tapahtui, ja myös, mitä sen jälkeen on tapahtunut, on suurin
+piirtein sama käsitys. Erimielisyydet keskittyvät sitten siihen, olisiko pitänyt pitää voimas-
+sa nämä yhtiön hallituksen nostamat vahingonkorvauskanteet tilintarkastusyhteisö Deloit-
+tea vastaan ja yhtiön aikaisempaa hallitusta vastaan vai ei.
+
+Valiokunnan saaman informaation pohjalta muutama kommentti käydyssä keskustelus-
+sa mainituista asioista:
+
+Ensinnäkin näiden vahinkojen määrään. Kysymys ei ole siitä, minä vuonna on syntynyt
+kuinka paljon vahinkoa, vaan asian voi ajatella niin kuin valiokunnalle asia on kerrottu,
+että jos vuoden 2009 tilintarkastaja olisi katsonut näiden johdannaissopimusten sisään ja
+kysynyt näiden riskien perään, niin vuosina 2010 ja 2011 ei olisi tehty johdannaissopimuk-
+sia tällä mainitulla tavalla. Eli ei voi ajatella niin, että tilintarkastaja vuosina 2009 ja 2010
+vastaa vain siitä vahingosta, joka sinä vuonna on syntynyt, vaan hänellä on tässä ajattelus-
+sa vastuu myös niistä myöhemmistä. Jos hän olisi tehnyt valvontatehtävänsä, näitä myö-
+hempiä sopimuksia ei olisi tehty.
+
+Sitten on ollut kysymys siitä, onko tämä normaalia vai epänormaalia toimintaa. Kaikki
+valiokunnan saama informaatio lähtee siitä, että ei valtionyhtiöiden tehtäviin kuulu speku-
+latiivinen kauppa rahoitusmarkkinoilla vaan Finavian tapauksessa tarkoituksena on toimia
+lentoliikennettä palvelevana yhtiönä, ja sitten kun rahoitusmarkkinoilla ollaan, niin hyväk-
+syttävää on vain suojata niitä otettuja luottoja mutta ei pyrkiä niillä tuottoihin. Valiokun-
+nalle on myös lausuttu, että tietenkin siinä vaiheessa, kun on tullut tuottoja, olisi pitänyt jo
+ymmärtää kysyä, että jos tulee tuottoja, tulevatko ne tuotot ilman mitään riskiä. Tämä ky-
+symys on tässäkin aiheellista todeta näiden johdannaissopimusten arvioinnin osalta ja sen
+arvioinnin osalta, miten yhtiön aiemmissa hallituksissa on toimittu, kun tilinpäätökset on
+aikoinaan hyväksytty.
+
+Sitten on puhuttu paljon myös tästä raastuvanoikeuden päätöksestä. On aihetta todeta,
+että raastuvanoikeudessa käsiteltiin luottamusaseman väärinkäyttöä sen jälkeen, kun va-
+hingonkorvausmahdollisuudet olivat menneet umpeen, eli kahden vuoden määräaika siitä,
+kun henkilö on lopettanut työsuhteensa, oli mennyt umpeen ja yhtiöllä ei ollut enää mah-
+dollisuutta vahingonkorvauksiin. Tämän jälkeen selvitettiin tätä luottamusaseman väärin-
+käyttöä. Tältä osin luottamusaseman väärinkäyttö ja sillä perusteella tuomitseminen edel-
+lyttäisi tahallisuutta, ja raastuvanoikeuden päätös lähtee siitä, että semmoista tahallisuutta
+ei voida osoittaa, että tämä olisi tehty tieten tahtoen vastoin ohjeita. Joten siitä raastuvan-
+oikeuden päätöksestä ei voi tehdä johtopäätöksiä siitä, mikä vahingonkorvausasiassa olisi
+tuomio ollut. 
+
+No sitten on ehkä erikseen syytä kuitenkin puuttua vielä yhteen asiaan, jota on hyvin
+ohimennen käsitelty. Se koskee tarkastusviraston tekemää työtä ja asemaa. On erittäin tär-
+keää, että meillä on riippumaton itsenäinen tarkastusvirasto, joka tarkastaa myös ministe-
+riöiden toimintaa, sekä ministeriöiden rahankäyttöä että myös ministeriöiden toimintaa eri
+tehtävissä, kuten omistajaohjauksessa. Valiokuntahan on käynyt myös lävitse tätä tarkas-
+tusviraston työtä. On aihetta nostaa hattua sille, että meillä on rohkea, itsenäinen, ammat-
+titaitoinen tarkastusvirasto, joka tekee oman työnsä, jotta eduskunnalla on kaikki käytettä-
+vissä oleva tieto valtion varainkäytöstä ja jotta eduskunnan päätösten mukaisesti valtion
+varainkäyttö tapahtuu ja jotta myös veronmaksajat voivat luottaa, että valtion varoja hoi-
+detaan viisaalla tavalla. Tämä koskee myös valtionyhtiöiden toimintaa. Tämä prosessi on
+kunniaksi tälle tarkastusviraston nykyiselle roolille, ja on tärkeätä, että virasto toimii edus-
+kunnan yhteydessä ja eduskunta on viime kädessä takeena sille, että virasto voi tehdä työn-
+40
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+sä aitojen omien havaintojensa mukaisesti ilman minkäänlaista painostusta tai pelkoa. Täl-
+lä on merkitystä siltäkin kannalta, että meidän eduskuntana pitää ottaa tämä riippumatto-
+muus vakavasti ja olla tyytyväisiä siitä, että he ovat Finavian tapauksesta nämä kaksi pe-
+rusteellista raporttia tehneet.
+
+Tarkastusvaliokuntahan kävi tätä lävitse paitsi yleiseltä kannalta myös erityiseltä kan-
+nalta ja antoi sitten myös tiettyjä suosituksia virastolle liittyen esimerkiksi siihen, millä ta-
+valla viraston työntekijät voivat sivutoimisuhteessa olla tilintarkastustehtävissä. Näihin
+suosituksiin kuuluu se, että ei ole suotavaa, että viraston työntekijät ovat sivutoimisesti tar-
+kastamassa niiden yhtiöiden tilejä, joiden valvonnasta tarkastusvirasto vastaa. Tällaista-
+han ei viime vuosina enää ole ollutkaan, mutta katsottiin aiheelliseksi kirjata myös tämä.
+Samaten tarkastusvaliokunta myös kiinnittää huomiota siihen, että on perusteltua, että vi-
+rasto noudattaa mahdollisimman avointa tiedotuspolitiikkaa. Sehän on valtionhallinnon
+yleisten tiedotusohjeiden mukaista ja on ollut myös viraston toiminnan lähtökohtana, ja
+yhtä tärkeätä on, että tässä avoimessa tiedotuspolitiikassa ei ennakoida millään tavoin
+käynnissä olevien selvitysten tai työn alla olevien raporttien lopputuloksia.
+
+Siltä varalta, että tämä keskustelu jossain vaiheessa tänään loppuu, pyydän valiokunnan
+puolesta saada kiittää kansanedustajia kuitenkin aika hyvästä ja enimmäkseen rakentavas-
+ta keskustelusta. Erimielisyyksiäkin on ollut, mutta se kai kuuluu tämän työn luonteeseen.
+Valiokunta on kovin iloinen siitä, että keskustelun kuluessa valiokunnan ehdottamat kan-
+nanotot ovat saaneet koko eduskunnan, kaikkien puheenvuoronkäyttäjien, tuen. Se osoit-
+taa, että valiokunta on tältä osin osannut puuttua olennaiseen ja löytää sen tahdon, joka vas-
+taa koko eduskunnan tahtoa.
+
+17.14 Satu Taavitsainen sd: Arvoisa puhemies! Tarkastusvaliokunta on tehnyt perusteel-
+lisen työn selvittääkseen tätä asiaa, kiitos siitä. Valiokunnan mietinnön lukemisen jälkeen
+ei ole epäselvää, etteikö valtion pidä parantaa omaa omistajaohjaustaan ja pitää parempaa
+huolta omaisuudestaan. Valtionyhtiöiden toiminnan on oltava avointa ja läpinäkyvää, ja
+niiden tulee suorittaa omaa perustehtäväänsä, sitä, mitä varten yhtiö on aikoinaan perustet-
+tu. Ongelmien tullessa ei pidä yrittää välttää julkisuutta ja salata tietoa.
+
+Nyt on tullut siis ilmi, että ministeri ja ministeriö puuttuivat epäsopivalla tavalla Fin-
+avian hallituksen työskentelyyn ja vaikuttivat Finavian hallituksen päätöksiin sopia ja pe-
+rua johdannaiskanteet joulukuussa 2015. Ministeri Bernerin johtama ministeriö siis puut-
+tui yhtiön operatiiviseen toimintaan, painosti ja ohjaili hallitusta tekemään ministeriön tah-
+don mukaiset päätökset, pimitti hallitukselta kanteiden perumista vastustavat lausunnot ja
+päätti lopulta olla ottamatta vastuuta ajamastaan päätöksestä.
+
+Arvoisa puhemies! Aina on laitettava etusijalle veronmaksajien yleinen etu. Valiokun-
+nan mietinnössä lukee: "Yleisen edun kannalta asian perusteellinen selvittäminen oikeus-
+teitse olisi voinut olla perusteltua monitahoisten vastuukysymysten ratkaisemiseksi. Lisäk-
+si asian saaman julkisuuden ja asiaan liittyvien moninaisten vastuukysymysten selvittämi-
+seksi olisi ollut perusteltua alusta lähtien selvittää ja saattaa asiat oikeusteitse ratkaistavik-
+si, jotta vastuukysymykset eivät olisi jääneet pysyvästi epäselviksi". 
+
+Finavian hallituksen puheenjohtajan vaihduttua tammikuussa 2015 oli silloin toimineen
+ministeri Risikon toive, että asiassa jatketaan hallituksen aiemmin päättämällä linjalla, sel-
+vitetään eri vaihtoehtoja, yritetään saada korvauksia sekä minimoidaan haitat. Nyt valio-
+kunnan mietinnöstä käy ilmi, ettei omistajalla ole ollut huomautettavaa yhtiön hallituksen
+41
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+tekemiin päätöksiin ja toimiin johdannaisasiassa ennen syyskuuta 2015. Valittu toiminta-
+linja muuttui Bernerin tullessa ministeriksi. Mysteeriksi meille jää, miksi.
+
+Arvoisa puhemies! Jo ministerin virkavalassakin vannotaan, että toimitaan lakien mu-
+kaisesti ja oikeudenmukaisesti ja puolueettomasti kansalaisten ja yhteiskunnan parhaaksi.
+Ministereiltä edellytetään rehellisyyttä. Kansalaisilla on oikeus odottaa nuhteettomuutta
+myös toiminnassa. Kansalaisten on voitava luottaa siihen, että epäkohtiin puututaan ja ke-
+tään ei suojella asemansa tai minkään muunkaan perusteella.
+
+Monet tavalliset ihmiset ovat menettäneet työpaikkansa virheiden vuoksi tai joutuvat oi-
+keuteen tai korvausvelvollisiksi. Näin sen kuuluu olla myös johtajien tasolla. Jokainen
+meistä on yhdenvertainen. Yhteiskuntarauhankin kannalta on tärkeää, ettei luottamus vir-
+kavaltaan ja päättäjiin hiivu. Ministeri Bernerin julkiset lausunnot hänen omasta toimin-
+nastaan ovat vähintäänkin harhaanjohtavia ja ristiriidassa toisten asianosaisten todistusten
+kanssa. Kansalaisille syntyy mielikuva, jossa ministerit ovat yhteisten sääntöjen yläpuolel-
+la. Olen sitä mieltä, että ministeri Bernerin jatko hallituksessa syö kansalaisluottamusta.
+
+17.18 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Vielä pari huomiota tästä tarkas-
+tusvaliokunnan mietinnöstä.
+
+Kun tuossa demarit esittivät nyt käydyn keskustelun aikana epäluottamusta hallituksel-
+le, niin voisi sanoa, kun luki tuon tarkastusvaliokunnan mietinnön ja se oli yksimielinen
+mietintö, että tässähän oikeastaan demarit esittivät epäluottamusta tarkastusvaliokunnan
+puheenjohtaja Eero Heinäluomalle ja koko valiokunnalle. Jos kerran on toimittu kelvotto-
+masti mutta siitä annetaan kuitenkin sitten positiivinen ja syyttämätön lausunto, niin ihmet-
+telen hieman tätä menettelytapaa. En ole moiseen vielä tässä talossa törmännyt, mutta nä-
+köjään, kun ikää tulee lisää, koko ajan tulee uusia kokemuksia — hyvä näin. Mutta toivoi-
+sin, niin kuin äsken sanoin tuossa edellisessä puheenvuorossani, että tällaisesta menettely-
+tavasta ei tulisi tämän maan tapa vaan oltaisiin reiluja ja sanottaisiin asiat niin kuin ne ovat,
+ja lopetettaisiin se turha politiikanteko. Toki sille tähän aikaan on varmaan aikamoinen ti-
+laus, kun vaalitkin lähestyvät.
+
+Toinen asia sitten, tämä sopimus, joka tehtiin tilintarkastusyhteisö Deloitten kanssa: Nyt
+demarit ovat antaneet ymmärtää julkisuuteen, että siinä olisi 34 miljoonan euron asiasta
+kysymys. Niinhän suinkaan ei ole, vaan kysymys on runsaasta 300 000 eurosta, elikkä sii-
+nä on tullut johtavalle oppositiopuolueelle pieni pilkkuvirhe. Tietenkään en usko, että tätä
+lähdetään enää missään oikaisemaan. Tiedotusvälineissä on annettu ymmärtää, että se on
+34 miljoonaa, vaikka oikeasti se on vain vähän yli 300 000. Toivon kuitenkin, että mate-
+matiikkaakin tässä harjoittaisivat ainakin oppositiopuolueiden edustajat, jotta nuo pilkku-
+virheet eivät olisi noin satakertaisia. [Välihuuto] Ymmärrän sen kyllä, että totuus kirpai-
+see, mutta minkäs minä sille mahdan, että numerot ovat näin. On parasta kuitenkin kertoa
+totuus, niin kuin se on totta. Kaikkia asioitahan voidaan vääristellä vaikka kuinka maail-
+man loppuun asti, mutta ei sillä totuutta koskaan kaiveta esille. Tärkeää on, että nyt on oh-
+jeistukset pantu kuntoon, kuten ministeri Berner ja pääministeri sanoivat.
+
+17.20 Pia Viitanen sd: Arvoisa rouva puhemies! Minusta kyllä tuo edellisen puhujan tul-
+kinta tästä luottamuksesta on hivenen outo, nimittäin mehän olemme tarkastusvaliokun-
+nassa noudattaneet sitä mielestäni arvokasta tapaa, että me olemme ensi sijassa halunneet
+pyrkiä [Hannu Hoskosen välihuuto] yksimieliseen mietintöön — puhemies, yksimieliseen
+mietintöön — ja kun kävimme tästä keskustelua, niin kaikki olimme sitä mieltä, että jos
+42
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+pystymme yhteisesti viestimään tiettyjä asioita, niin se on hyvin arvokasta ja tärkeää.
+Muun muassa tämän yksimielisyyden kautta löytyi johtopäätös siitä, että kanteet olisi ollut
+syytä nostaa yleisen edun nimissä. Yksimielisesti tulimme siihen johtopäätökseen, että yh-
+tiökokous [Hannakaisa Heikkinen: Miksi sitten epäluottamuslause?] olisi tullut pitää. Kyl-
+lä nämä, puhemies, sellaisia asioita ovat, että valiokunta tekee työnsä — se on tehnyt sen
+edustaja Heinäluoman johdolla mielestäni erittäin hyvin — siellä ovat ihmiset paneutu-
+neet, viettäneet tunteja aikaa, [Hannakaisa Heikkinen: Miksi siis epäluottamuslause?] ja
+sitten kun puhutaan ministerin luottamuksesta, niin eihän sitä tietenkään missään valiokun-
+nassa käsitellä, [Hannakaisa Heikkinen: Ai jaa!] se käsitellään tässä salissa ja edustajilla on
+täällä mahdollisuus tehdä johtopäätökset sitten sen mukaan, minkälaisia faktoja valiokun-
+nan kuulemisessa on selvinnyt, minkälaisia tausta-aineistoja on tullut julkiseksi. Kehotan
+muuten teitäkin tutustumaan niihin asiantuntijalausuntoihin, niin voisitte ehkä tulla toi-
+seen johtopäätökseen tässä omaa ministeriänne kohtaan esittämässänne luottamuksessa.
+En ota siihen nyt kantaa sen enempää, koska olen ollut muussa yhteydessä tekemässä tätä
+mietintöä.
+
+Mutta, puhemies, sen haluan kyllä sanoa, että korostan vielä, kun täällä puhutaan pilk-
+kuvirheistä ja muista, että kun esimerkiksi tämä tilintarkastajan vastuukysymys käytiin
+juuri läpi, niin se on aika merkittävä asia. Kun me nyt puhumme, että juuri siinä kohtaa on
+se piste, mistä täällä on keskusteltu, mistä ne erimieliset tulkinnat ovat, niin mikäli silloin
+aikanaan tilintarkastaja olisi hoitanut tilintarkastajavastuunsa, siitähän tietenkin olisi seu-
+rannut se, että seuraavina vuosina näitä tappiollisia johdannaissopimuksia ei oltaisi enää
+tehty. Tätä kautta nämä kokonaisvaltaiset tulkinnat ovat hyvin tärkeitä ja osuvat aivan oi-
+keaan.
+
+17.23 Johanna Ojala-Niemelä sd:  Arvoisa puheenjohtaja! Täytyy ottaa tähän edustaja
+Hoskosen väitteeseen kantaa. Siis näistä aineistoistahan käy selväksi, kun ne lukee, että
+Finavialle koitui johdannaisista kokonaisuudessaan yli 34 miljoonan euron tappio. Ei tässä
+ole puhuttu Deloitten osuudesta pelkästään vaan kokonaisuudesta. Tämä on täältä luetta-
+vissa. Kyllä tässä on tullut selville, että tässä on poikkeuksellista omistajaohjausta, ei hy-
+vän hallintotavan mukaista eikä vakiintuneitten periaatteiden mukaista. Eli kanteet olisi
+tullut nostaa veronmaksajien rahojen menettämisen minimoimiseksi, [Anne Kalmarin vä-
+lihuuto] mutta nyt Berner käytännössä esti tällä toiminnallaan nämä kanteiden nostamiset
+ja sen selvittämisen, kuka viime kädessä oli johdannaiskaupoista vastuussa.
+
+17.23 Hannu Hoskonen kesk:  Arvoisa rouva puhemies! Niinpä niin, Ilmari-ihminen,
+kuuluu joku sanonta. Jos silloin aikanaan viime vaalikaudella ministeriö olisi valvonut ja
+toiminut, omistajaohjausta valvonut niin kuin pitää, niin tätä ongelmaahan ei olisi, siellä ei
+olisi mitään tämmöistä ongelmaa. [Timo Harakka: 2009!] Mutta kun mitään ei tehty, niin
+nyt sitten ollaan tässä ja se ministeri, joka tekee työtä ansiokkaasti, nostetaan tikun nok-
+kaan ja osoitetaan, että "se on teidän vikanne".
+
+Suomalaiseen tiedotukseen näköjään kuuluu tämä normaali menettely, että syytön etsi-
+tään, sitten syyllisiä palkitaan ja sitten muuten ollaan ja hymyillään. Ei se vain näin saa
+mennä. Jos me poliitikot haluamme arvovaltaamme nostaa ihmisten silmissä, niin kyllä-
+hän meidän pitää olla rehellisiä ulospäin ja sanoa asiat niin kuin ne ovat. Sehän on lähtö-
+kohta kaikelle toiminnalle, aivan kuten tässä tarkastusvaliokunnan menettelyssä, että va-
+liokunta antaa yksimielisen mietinnön, jossa aivan oikein on kaksi pontta — joita lämpi-
+43
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+mästi itsekin kannatan, ne ovat järkeviä ponsia, ehdottomasti kannatettavia — ja sitten yht-
+äkkiä, kun tullaan tänne saliin... Minä olen tottunut tässä talossa, että yksimielisiä mietin-
+töjä ja lausuntoja koko valiokunta puolustaa, ja se on ihan arvokas perintö, sitä kannattaa
+vaalia, mutta nyt sitten huomaan, että kun tullaan saliin, niin täällä yhtäkkiä tarkastusva-
+liokunnan puheenjohtajakin, Eero Heinäluoma, saa epäluottamuslauseen omalta porukal-
+taan, esitetään epäluottamusta. Ihmettelen menettelyä. Saattaa johtua tämä minun ihmette-
+lyni siitä, että minulla on vähäinen kokemus tässä asiassa, mutta todella oudoksun tätä.
+Niin kuin Pekkarisen Mauri joskus on hyvin sanonut: oudoksun suuresti tätä menettelyä.
+— Ei muuta.
+
+17.25 Arto Pirttilahti kesk: Arvoisa puhemies! Todellakin nämä tappiot tulivat 2009—
+2011 ja ne huomattiin vuonna 2012, sehän tulee ilmi näistä asiakirjoista. Jo silloinhan mi-
+nisterillä olisi ollut mahdollisuus rajoittaa niitten tappioitten muodostumista. [Timo Harak-
+ka: Eikö sitä Vehviläinen huomannut?] — Vuonna 2012 ei ollut Vehviläinen ministerinä.
+[Välihuutoja] — Ei ollut. Mutta silloin kun tämä asia vuonna 2012 huomattiin, nostettiin ti-
+kun nokkaan, se olisi ollut aivan selvä; siellä olisi ollut kolme omistajaohjausministeriä ja
+kolme liikenneministeriä vielä senkin jälkeen tekemässä jotain tälle asialle. Eli tupsahti
+suoranaisesti ministeri Anne Bernerin syliin tämä asia.
+
+Mutta toinen kysymys oikeastaan edustaja Ojala-Niemelälle: oletteko te nyt aivan sitä
+mieltä, että tämä kaikki 34 miljoonaa on nyt sitten ministeri Bernerin vikaa ja syytä, että
+tässä ei ole oikein toimittu? Ehkä jollain tavalla, kun edustaja Heinäluoman logiikkaa mie-
+tin, voi olla näin, mutta siinä voi olla toisinkinpäin. Kuuliko edustaja Ojala-Niemelä kysy-
+mystä? Onko todellakin niin, että ministeri Bernerillä on syy tästä kaikesta 34 miljoonasta?
+
+17.26 Johanna Ojala-Niemelä sd:  Arvoisa puhemies! Täytyy edustaja Heinäluoman
+kunniaksi todeta se, että hän on kyllä tässä kunniakkaasti menetellyt ja hänellä on täysi ryh-
+män tuki tässä asiassa. [Hannu Hoskonen: Miksi annoit sitten epäluottamuksen?] — Epä-
+luottamuslause pohjautuu sitten täysin eri asioihin. Jos kuuntelitte ryhmäpuheenvuoron,
+[Hannu Hoskonen: Totta kai!] niin kyllä tässä on monia käsittämättömiä menettelyjä.
+
+Ensinnäkin ministeri on toiminut selän takana, meni sopimaan tämän sovintosopimuk-
+sen ilman Finavian hallituksen tietoa tästä asiasta, ilman hallituksen toimitusjohtaja Tiu-
+raniemen tietoa tästä. Hän oli puhtaasti tietämätön tästä asiasta, että näin menetellään selän
+takana. Tämä jos mikä oli puuttumista [Hannakaisa Heikkinen: No miksi mietintö sitten on
+tuon sisältöinen? — Välihuutoja] hallituksen operatiiviseen toimintaan.
+
+Tässä on sitten käytetty myös muunneltua totuutta — voi sanoa tässä salissa näin — eli
+ministeri on julkisuuteen sanonut, että hän on hankkinut lisää selvitystä, mutta missään ei
+ole dokumentoitu, kenelle hän on tehnyt tämän esityksen lisäselvityksen pyytämiseksi.
+[Anne Kalmari: Miksi se ei ole mietinnössä?] Kertokaa minulle, keneltä hän pyysi sitä li-
+säselvitystä.
+
+17.28 Hannakaisa Heikkinen kesk:  Arvoisa rouva puhemies! Kun täällä käytetään il-
+maisua, että ministeri on puhunut muunneltua totuutta, niin minä olen ihan ihmeissäni, mi-
+ten me olemme sitten kuitenkin saaneet tarkastusvaliokunnassa aikaan yksimielisen mie-
+tinnön ja nytten pohjataan tätä epäluottamuslauseen esittämistä opposition suunnasta Ber-
+nerille ja sanotaan, että ministeri on puhunut muunneltua totuutta. Olen ihmeissäni.
+44
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+Mutta, edustaja Heinäluoma, minä haluan osaltani kiittää arvokkaasta käyttäytymisestä
+ja tämän asian läpiviemisestä täällä salissa. Kun äsken puhuitte siitä, että täällä on ollut
+myös hyvää keskustelua, te olette osallinen siihen, että se on ollut osaltanne ja osan oppo-
+sition osalta oikein hyvää. Kiitos siitä.
+
+Täällä edustaja Taavitsainen peräänkuulutti yhteiskuntarauhaa ja sitä, että siihen vedo-
+ten ministerille voisi tätä epäluottamuslausetta osoittaa. Mitenkä koette, onko tällainen me-
+nettely, mitä minä osaltani poliittiseksi näytelmäksi sanon, tukemassa yhteiskuntarauhaa?
+En todellakaan tarkoita tällä valiokunnan mietintöä ja työtä, se on ollut hyvää, ja nämä pon-
+net, mitkä valiokunta esittää, ovat tarpeellisia, ja niitä on täällä joka rintamalta kiitelty,
+vaan kaikkinensa sitä, että syytämme ministeriä, joka on saanut käsiinsä ongelman, joka on
+kypsynyt neljän ministerin aikana. Hän on pontevasti tähän työhön tarttunut ja selvittänyt
+ne kuviot, mitä tässä on hänen kaudellaan ollut, ja nyt täällä kerrotaan, että hän puhuu
+muunneltua totuutta. Siitä huolimatta, että on annettu mietintö, joka on yksimielinen, saa-
+daan epäluottamuslause. Tämä on ihmeellinen näytelmä.
+
+17.30 Johanna Ojala-Niemelä sd: Arvoisa puhemies! Ministeri Berner on sanonut, että
+hän ei ole puuttunut yhtiön hallituksen toimintaan, mutta voin kysyä kyllä, mitä muuta kuin
+puuttumista tämä on, jos selän takana puuhataan tällaista sovintosopimusta muitten tietä-
+mättä. Lisäksi ministeri Berner on esittänyt julkisuuteen ja Valtiontalouden tarkastusviras-
+tolle, että olisi pyytänyt Finavian hallitusta selvittämään johdannaiskanneasioita uudelleen
+huolellisesti hallituksen tehtyä syyskuussa 2015 kannepäätöksen yhtiön entistä johtoa koh-
+taan. Sanon Tiuraniemen, silloisen toimitusjohtajan, sanoin: tämä ei pidä paikkaansa, eikä
+ministeri ole lisäselvityksiä pyytänyt. Eli tässä voidaan sanoa, että tässä kysymyksessä on
+sana sanaa vastaan.
+
+17.30 Pia Viitanen sd: Arvoisa puhemies! Selvyyden vuoksi minä nyt vielä kerran luen
+tästä yksimielisestä mietinnöstä pari lausetta. Valiokunta toteaa, että "ministeriön rooli so-
+vintosopimusprosessissa näyttää asiantuntijakuulemisen perusteella pikemminkin asioi-
+hin vaikuttamiselta kuin taustalla odottamiselta". Eli koko valiokunta myöntää, että näyt-
+tää siltä, että asioihin on vaikutettu, toisin kuin on ehkä julkisuudessa annettu ymmärtää.
+[Hannakaisa Heikkinen: Olisiko pitänyt vaikuttaa aikaisemmin?] Valiokunta toteaa, että
+"sovintoprosessiin liittyy sellaisia toimintatapoja ja tilanteita, jotka ovat valiokunnan mie-
+lestä omiaan sekoittamaan omistajaohjauksen ja yhtiön päätöksenteon toisiinsa", mikä tar-
+koittaa siis käytännössä eri sanoin ilmaistuna oikeastaan ihan samaa mielestäni kuin mitä
+tarkoittaa VTV kertomuksessaan, kun se toteaa, että hyvää hallintotapaa tässä on rikottu.
+Kun tällaisiin johtopäätöksiin ja näihin lauseisiin ja niiden kirjaamiseen valiokunta on yk-
+simielisesti päätynyt, minun mielestäni silloin kuuluu jokaisen eduskuntaryhmän oikeu-
+teen siinä vaiheessa, kun tämä asia tulee saliin eduskunnan käsittelyyn, tehdä johtopäätök-
+sensä, miten katsovat tätä asiaa kokonaisuutena. 
+
+Siitä kiitän valiokuntaa — olen saanut siellä tosiaan asian käsittelyssä olla myös muka-
+na — ja mielestäni oli myös merkittävää, että valiokunnan mietinnössä lukee, että yleisen
+edun kannalta näiden asioiden ratkaiseminen oikeusteitse olisi ollut perusteltua.
+
+Minusta nämä kaikki ovat sellaisia näkökulmia, joidenka perusteella hyvin ymmärrän
+sitä keskustelua, mitä esimerkiksi omassa eduskuntaryhmässä olemme tämän mietinnön
+valmistuttua käyneet ja miten asioita olemme analysoineet.
+45
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+17.32 Suna Kymäläinen sd: Arvoisa rouva puhemies! Keskustelussa tuntuu edetyn tässä
+sillä aikaa, kun olin itse tuolla estyneenä ja en päässyt täällä keskustelussa mukana ole-
+maan.
+
+Siitä, mitä tästä edeltävästä keskustelusta olen poiminut, täytyy todeta, että keskustan
+osalta kovasti painotetaan tätä valiokunnan mietintöä, ja kyllä siellä hyvin raskauttavia lau-
+seita valiokunnan osalta on ministerin toiminnasta ja hyvän hallintotavan rikkomisesta
+myös lausuttu. Ihan sitaatti: "Finavian osalta valiokunta toteaa, että lopputuloksen epävar-
+muudesta huolimatta olisi yleisen edun kannalta ollut perusteltua selvittää vastuukysymyk-
+set kokonaisuudessaan oikeusteitse." Tämä on aivan selkeä viesti, ja on ymmärrettävää,
+että siihen myös reagoidaan täällä eduskuntasalissa. "Myös kansalaisten luottamus siihen,
+että epäkohtiin puututaan, olisi osaltaan puoltanut asian selvittämistä oikeusteitse." Myös
+näin tässä teidän yksimielisessä lausuntoluonnoksessanne todetaan.
+
+17.34 Jari Leppä kesk: Arvoisa rouva puhemies! Myös minä painotan sitä, että tarkastus-
+valiokunta on tehnyt yksimielisen mietinnön. Mitä sellaisia asioita on tullut tällä välillä
+esille, jotka aiheuttaisivat jotakin muutosta siihen? Pitää pakosti kysyä, kuinka monilla sii-
+villä SDP nyt yrittää lentää, kun se yhtyy ensin tarkastusvaliokunnan yksimieliseen mie-
+tintöön ja täällä operoi sitten omalla tavallaan ihan toiseen suuntaan. Pakosti on useammat
+poliittiset siivet nyt tässä mukana.
+
+Jos olisi tapahtunut joitakin muutoksia matkan varrella, tarkastusvaliokuntahan voi aina
+palata näihin asioihin. Se ei ole palannut. Ja nyt te esitätte täällä tällaisia uusia operaatioita.
+Tämä on aika erikoista toimintaa, mutta tietysti te olette halunneet välttämättä tämän poli-
+tisoida — tilanteen, jossa nyt nykyinen ministeri, Berner, on selvittänyt kuuden eri minis-
+terin entisiä sotkuja, sekamelskaa, jota oli viime kaudella kaiken muun sekamelskan lisäk-
+si, myös ministerit vaihtuivat tuhkatiheään. Tämä kaikki on vaikuttanut ihan varmasti sii-
+hen, millä tavalla valtion omistajaohjausta on käsitelty, ja myöskin siihen, miten Finaviaa
+on käsitelty. Nyt kun ministeri sitä sitten selvittää, mitä tapahtuu? Ensin ajetaan yksimie-
+lisellä mietinnöllä, sitten täällä operoidaan asialla. Mutta politiikka voi olla myöskin täl-
+laista.
+
+Tämmöinen jos mikä varmasti myöskin hämmentää kuulijoita ja äänestäjiä: ei tiedä, mi-
+hinkä enää tässä luottaa, kun kuitenkin arvostettu valiokunta on yksimielisesti jotakin päät-
+tänyt ja nyt sitten se ei olekaan täällä enää teidän mielestänne relevanttia. Useammat siivet
+eivät nyt vain sovi politiikkaan, vaan nyt pitää yksillä siivillä mennä.
+
+17.36 Hannu Hoskonen kesk: Arvoisa rouva puhemies! Todellakin, kun tätä yksimielis-
+tä mietintöä illalla katselin, olin tavallaan tyytyväinen siihen, että tämäkin asia on saanut
+eduskuntapuolueissa ja eduskuntaryhmissä yksimielisen linjauksen siitä, miten näiden
+asioiden kanssa tulee toimia. Kyllä aidosti koen sen, että kun suuresti kunnioittamani edus-
+taja Eero Heinäluoma saa sitten yhtäkkiä täällä salissa epäluottamuslausetta, vaikka on kui-
+tenkin yksimielinen mietintö, se oli minulle henkilökohtaisesti suorastaan suuri järkytys,
+miten näin voi menetellä. No, varmaan siinä on omat syynsä, kun katsoo noita kalentereita
+hieman, mitä tänä keväänä tapahtuu.
+
+Mutta se toinen asia, mikä on tässä myös huomattava, on se, että niin kuin edustaja Jari
+Leppä äsken sanoi, kuuden ministerin näpin alla nämä asiat olivat edellisen hallituksen ai-
+kana ja siltikään ei tehty mitään. Jos silloin olisi toimittu, niin tuli olisi rajoitettu paljon vä-
+häisempään, vahinkoa olisi syntynyt todella vähän. Mutta miksi ei toimittu? Ja sitten kun
+46
+
+
+
+Pöytäkirjan asiakohta PTK 11/2017 vp
+uusia systeemejä luodaan, tarkastetaan ohjeet ja selvitetään sotkut, niin syytetään näitä sot-
+kun selvittäjiä. Onhan se aika kummallista menettelyä.
+
+Kun tässä demarikansanedustajat peräänkuuluttavat sitä, miten ihmiset tämän toimin-
+nan näkevät, niin kyllä varmaan joku ihminen ajattelee sitäkin, mikseivät ne ministerit sil-
+loin aikanaan toimineet. Kyllä suomalainen ihminen ymmärtää ihan järkipuhetta ja ym-
+märtää asiat oikeassa valossa. Ja jos ne ihmiset, jotka tätäkin keskustelua seuraavat, pane-
+vat sen merkille, että todellakaan silloin viime vaalikaudella mitään ei tämän asian hyväksi
+tehty, niin nyt sitten tuntuu, että kun ministeri Bernerin, joka on varmasti syytön ministeri
+tässä asiassa, kimppuun käydään kuin hyeenalauma, ei se ole reilua menettelyä. Kyllä ih-
+miset sen tietävät.
+
+Mutta minä henkilökohtaisesti pidän suurimpana ihmeenä tässä tätä valiokunnan pu-
+heenjohtajan kimppuun hyökkäämistä. Se tuntuu aika pahalta, kun Eero Heinäluoman
+kanssa on monessa asiassa tullut neuvoteltua — monessa asiassa on oltu eri mieltäkin, her-
+rasmiesmäisesti, mutta on oltu yhtä mieltä suurimmasta osasta asioita — ja näin sitten käy.
+Se ei tuntunut hyvältä.
+
+17.38 Arto Pirttilahti kesk: Arvoisa rouva puhemies! Tänään on varmaan käsitelty jo se,
+kuinka voimakkaasti ohjausministeri voi puuttua yhtiön asioihin ja millä tavalla, ja var-
+maan tämä sävy tässä, onko vaikuttanut suoraan operatiiviseen vai ei. Mutta kuten minis-
+teri Berner itse sanoi, oli paljon tehty päätöksiä, niitä ei ollut toimeenpantu ja hän sitten ky-
+seenalaisti ja ohjasi yhtiötä tekemään erilaisia selvityksiä. Se oli yksi asia.
+
+Toinen asia on tietenkin se, mikä se sana sanaa vastaan on sitten, kun kuitenkin tästä ti-
+lintarkastusyhtiön sovintosopimuksestahan Finavian hallitus on itse päättänyt. Ainakaan
+siinä mielessä ministerillä ei ole tässä päätöksenteossa mitään roolia ollut.
+
+Eli näillä mennään, ja toivon vielä, että kun tulee täältä jatkossa nämä ohjeistukset, niin
+nämä otetaan hyvin käyttöön meidän kaikissa valtionyhtiöissä. Tarkastusvaliokunnan vies-
+ti oli ihan selkeä. Otetaan ne käytäntöön, jotta tätä keskustelua ei tarvitse enää täällä uu-
+destaan käydä.
+
+Keskustelu päättyi ja asian käsittely keskeytettiin.
+47
+
+

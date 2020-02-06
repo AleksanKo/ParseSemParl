@@ -1,0 +1,180 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMB01.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 119/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 119/2017 vp
+
+Täysistunto
+
+Torstai 16.11.2017 klo 15.59—18.49
+
+5. Hallituksen esitys eduskunnalle laiksi valtakunnallisista opinto- ja tutkintorekistereistä
+Hallituksen esitys HE 72/2017 vp
+Valiokunnan mietintö SiVM 9/2017 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Arto Satonen: Ensimmäiseen käsittelyyn esitellään päiväjärjes-
+tyksen 5. asia. Käsittelyn pohjana on sivistysvaliokunnan mietintö SiVM 9/2017 vp. Nyt
+päätetään lakiehdotuksen sisällöstä.
+
+Keskustelu
+
+17.48 Jani Mäkelä ps: Arvoisa puhemies! Tässä hallituksen esityksessä säädetään lakia
+valtakunnallisesta opinto- ja tutkintorekisteristä, joka korvaisi eräitä muita lakeja rekiste-
+reistä tiivistäen rekistereitä, mikä on periaatteessa hyvä ja kannatettava tavoite. Tiedonku-
+lun kannalta pienempi määrä rekistereitä on hyvä asia mutta tietysti asettaa paineita rekis-
+terin tietoturvan ja kyberturvallisuuden kannalta.
+
+Nyt kuitenkin huomioin tässä valiokunnan mietinnössä sen, että valiokuntahan on pe-
+rehtynyt perusteellisesti tähän hallituksen esitykseen, sen kipukohtiin, ja esittänyt lukuisia
+muutoksia. Mietinnössä on hyvin paljon keltaisella korostettua, ja se herättää ihmetystä ja
+kysymyksen hallituksen lainvalmistelun tasosta, erityisesti kun tähänkin esitykseen on pe-
+rustuslakivaliokunnalla ollut huomauttamista. Olisikin mielenkiintoista kuulla valiokun-
+nan jäseniltä, onko tämä tulkinta, näin paperilta tehtynä, oikea: oliko huono valmistelu täs-
+sä perusteena näille runsaille muutoksille ja korjauksille?
+
+17.49 Kimmo Kivelä sin: Puhemies! Tämä lakiesitys on todellakin mitä kannatettavin.
+Tämä sujuvoittaa, tämä on rationalisointia, uuden teknologian tehokkaampaa hyödyntä-
+mistä ja panee kysymään, miksi vasta nyt tämä. Tällainen olisi voitu toteuttaa jo aiemmin. 
+
+Se, mihin edellinen puhuja viittasi: Todellakin perustuslakivaliokunta joutui puuttu-
+maan tähän tietoturvaan ja rekisterissä olevien tietojen eräisiin aikamääreisiin ja pysyvyy-
+teen. En nyt vielä sanoisi, että tässä on mitään erityisen dramaattista. Kyllä perustuslakiva-
+liokunta on niin tällä vaalikaudella, viime vaalikaudella kuin aiemminkin laittanut tiettyjä
+asioita aina välillä ponnen taakse, ja ne on toki huomioitu. Mutta edellinen oikeuskansle-
+rihan kiinnitti huomiota siihen, että lainvalmistelussa on puutteita ja asioita, joihin pitää
+kiinnittää huomiota, mutta se ei ole vain tämän hallituksen aikainen vaan pitkäaikaisempi
+yhteiskunnallinen kysymys.
+
+17.51 Ritva Elomaa ps: Arvoisa puhemies! Perusopetuksen, lukiokoulutuksen ja amma-
+tillisen koulutuksen yhteinen tietovaranto on järkevä uudistus. Opintosuoritusten ja tutkin-
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 119/2017 vp
+totietojen keskitetty sähköinen kokoaminen mahdollistaa tietojen hyödyntämisen entistä
+jouhevammin esimerkiksi koulutukseen hakemisen tai aiemmin opitun tunnistamisessa ja
+tunnustamisessa.
+
+Tiedonkulun tehostaminen eri toimijoiden välillä on yksi esityksen keskeisimpiä etuja.
+Kaiken kaikkiaan tämä on julkista viranomaistoimintaa parantava uudistus ja järkevää di-
+giajan mahdollisuuksien hyödyntämistä.
+
+Yksi olennainen uudistuksen hyöty on mahdollisuus luovuttaa tietoja kolmansille osa-
+puolille. Tämä avaa mahdollisuuden luoda opiskelijoille yksilöllisesti räätälöityjä palvelui-
+ta, kuten esimerkiksi opiskelija-alennusten tarjoamisen ja jatko-opintoihin hakeutumisen
+sekä opintojen edistymisen seurannan entistä tehokkaammin.
+
+Mutta edustaja Mäkelän huomio on kyllä aiheellinen, ja kuitenkin on tärkeää ja huomi-
+oitavaa, että opiskelijoiden oikeus- ja tietoturvasta tulee huolehtia. Se on erityisen tärkeää.
+Järjestelmän ja yksilön tietoturvan tulee olla hyvällä tasolla, ja tähän pitää kiinnittää eri-
+tyistä huomiota järjestelmää luodessa.
+
+Myös opiskelijan suostumus tulee aina kysyä tiedon keräämisen ja käytön yhteydessä.
+Valtakunnallisten opinto- ja tutkintorekisterien uudistaminen on näin oppositiostakin kat-
+sottuna kuitenkin hyvä uudistus.
+
+17.52 Marisanna Jarva kesk: Arvoisa puhemies! Käsillä on tosiaan esitys, jota voi pitää
+kannatettavana. On tärkeää, että me saamme myös koulutuspuolella enemmän ja enem-
+män digitalisoitua tietoja, ja on erittäin hyvä, että meillä on sitten peruskoulutukseen ja toi-
+sen asteen koulutukseen liittyen myös olemassa jatkossa suomalaisten ja muiden, ketkä
+näitä tietoja pystyvät hyödyntämään, tiedot, mitä on opiskeltu aikoinaan. Tässä on myös-
+kin sitten valiokunta kiinnittänyt huomiota siihen, että myös sellaiset, jotka ovat opiskel-
+leet jo aiemmin, ennen kuin tämä muutos tehdään, voisivat saada nämä oppijanumerot eli
+heidänkin tietonsa tallennettaisiin tänne. On hyvä, että nämä erinäiset paperit ja tutkintoto-
+distukset ja muut, jotka ovat olleet kirjallisessa muodossa ja ehkä myös helposti hävitettä-
+vissä, ovat sitten jatkossa varmassa tallessa, löydettävissä.
+
+Tietysti jatkossa tämän kehityksen kannalta, kun meillä on olemassa muitakin koulutuk-
+seen liittyviä tietoja kuin pelkästään ihan näitä tutkintotietoja, esimerkiksi ammatilliseen
+koulutukseen liittyvät lupakortit — tämä lupakorttiviidakko, mistä puhutaan — ja kun näi-
+tä lupiakin hyvin hajanaisesti nyt myönnetään eri koulutuksenjärjestäjien kautta ja nämä
+ovat hyvin manuaalisessa muodossa nykyään, olisi hyvä, että tämmöiset erilaisiin ammat-
+teihin liittyvät lupakortit pystyttäisiin myös digitalisoimaan ja ne olisivat myös esimerkik-
+si tämmöisten tutkintorekistereitten yhteydessä saatavissa. Tätä on syytä kehittää, ja tätä
+työtä ollaan tekemässä ja selvittämässä.
+
+17.54 Jari Myllykoski vas: Arvoisa herra puhemies! Edustaja Elomaa nosti hyvän asian
+esille ja kertoi, kuinka hyvä on, että tämmöinen rekisteri on olemassa. Toki on pidettävä
+huoli siitä, että on yksityisyydensuoja ja henkilön suostumus tarvitaan siihen, jos tällaises-
+ta rekisteristä luovutetaan tietoja kolmannelle osapuolelle. Sen pitää olla ehdottomasti sul-
+jettu niin, että henkilö voi antaa vain itse sellaisen luvan, että tällaista markkinointia hänen
+kohdallaan voidaan koulutustarjonnan tai jonkun muun osalta tehdä, koska näinhän meillä
+lainsäädäntö edellyttää tälläkin hetkellä. Rekisteritietojen osalta henkilöstörekisterilaki
+kyllä määrittelee, minkälaista rekisteriä voidaan pitää, ja laki määrittelee sen, mitä tietoja
+siellä voi olla, mutta tietojen luovuttaminen sitten on toinen asia.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 119/2017 vp
+On hyvä, että tutkintotietoja voidaan kerätä, mutta haluaisin nyt tässä vähän sympata
+kyllä hallituksen linjausta yleensä toisen asteen ammatillisesta koulutuksesta ja koko tästä
+asiasta, että ollaan siirtymässä oikein osaamisperustaiseen suomalaiseen koulutusjärjestel-
+mään erityisesti toisen asteen opinnoissa ja kuinka nyt nämä vanhat suoritetut tutkinnot ei-
+vät vielä kuitenkaan välttämättä tarkoita sitä, että henkilön osaaminen olisi sillä tasolla.
+Meillä tällä hetkellä se on hyvinkin jatkokoulutuskelpoisuusperusteista, ei niinkään siihen
+ammattiin liittyvän osaamisen perusteista, ja siinä mielessä, kun näitä tietoja sitten tallen-
+netaan, on hirveän tärkeää huomioida se, arvostammeko siellä edelleen vain tutkintoja vai
+olemmeko nykyajassa ja arvostamme osaamista.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 72/2017 vp sisältyvän lakiehdotuksen sisäl-
+lön mietinnön mukaisena. Lakiehdotuksen ensimmäinen käsittely päättyi.
+3
+
+

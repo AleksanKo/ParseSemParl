@@ -1,0 +1,917 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM6309.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+Pöytäkirjan asiakohta 
+
+PTK 17/2018 vp
+
+Täysistunto
+
+Tiistai 6.3.2018 klo 14.02—16.37
+
+8. Hallituksen esitys eduskunnalle EU:n yleistä tietosuoja-asetusta täydentäväksi lainsää-
+dännöksi
+
+Hallituksen esitys HE 9/2018 vp
+
+Lähetekeskustelu
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Lähetekeskustelua varten esitellään
+päiväjärjestyksen 8. asia. Puhemiesneuvosto ehdottaa, että asia lähetetään hallintovalio-
+kuntaan, jolle perustuslakivaliokunnan ja lakivaliokunnan on annettava lausunto.
+
+Keskustelu
+
+14.06 Oikeusministeri Antti Häkkänen (esittelypuheenvuoro): Arvoisa puhemies, ära-
+de talman! Eduskunta on nyt saanut käsiteltäväkseen EU:n yleistä tietosuojalainsäädäntöä
+täydentävän esityksen. Unionin yleinen tietosuoja-asetus on jo voimassa, ja sen soveltami-
+nen alkaa tämän vuoden toukokuussa 25. päivänä. Käsiteltävänä on nyt yleistä tietosuoja-
+asetusta täydentävä ja täsmentävä esitys.
+
+Henkilötietojen käyttöä koskevan sääntelyn rooli yhteiskunnassa on koko ajan kasvus-
+sa. Tämä liittyy toisaalta henkilötiedon käsittelyyn viranomaistoiminnassa ja liiketoimin-
+nassa. Viranomaisilla on eri rekistereissä yhä suurempia määriä tietoa, jonka käyttöä tulee
+oikeusturvankin vuoksi säännellä yhä tarkemmin. Toisaalta digitalisaation täysimääräinen
+hyödyntäminen lisää jatkuvasti uudenlaisia liiketoimintamahdollisuuksia, joihin on myös
+suomalaisen yhteiskunnan syytä tarttua. Merkittävään määrään näitä palveluita liittyy ta-
+valla tai toisella erilaisen datan, erityisesti henkilötietodatan, käyttö. Tietosuojalainsäädän-
+nön tarkoituksena on määritellä näitä henkilötietojen käytön pelisääntöjä. Henkilötietojen
+joustavan käytön ja jokaisen henkilötietojen suojan välillä tulee olla lainsäädännössä tasa-
+paino. Meidän tulee pyrkiä luomaan mahdollisimman hyvä toimintaympäristö henkilötie-
+tojen käytölle esimerkiksi liiketoiminnan ja tutkimuksen tekemisen kannalta.
+
+Tietosuojauudistuksen yhtenä tavoitteena on korostaa yksilön omaa oikeutta päättää
+omien henkilötietojensa käytöstä. Uudistuksen tarkoituksena on yhtenäistää henkilötieto-
+jen käyttöä koskevaa sääntelyä unionin alueella. Nykyajan digitaalisessa yhteiskunnassa
+on toisaalta tärkeätä, että viranomaistoiminnassa henkilötietojen sääntely EU-alueella on
+yhtenäistä, toisaalta on myös tärkeää, että sisämarkkina-alueella tällaisen sektorin sääntely
+on yhtenevää kaikissa jäsenmaissa.
+
+Henkilötietojen käytön sääntely on merkittäviltä osin myös elinkeinoelämän toiminta-
+mahdollisuuksien sääntelyä. Monien uudenlaisten palveluliikeideoiden keskiössä on hen-
+kilötiedoiksi luokiteltavan tiedon käyttäminen uudenlaisella tavalla. Merkittävä osa digi-
+taalisen ympäristön alustoille rakentuvasta liiketoiminnasta on tavalla tai toisella kytkök-
+sissä henkilötietojen käyttämiseen ja hyödyntämiseen liiketoiminnassa. Esimerkiksi mo-
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+net liikkumisen palvelut vaativat taustalleen henkilötietorekisterin asiakkaan tavoista käyt-
+tää palveluja, ja sen päälle palvelu kokonaisuudessaan rakentuu. Lainsäädännöllä tulee
+pyrkiä mahdollistamaan uudenlaisten palveluiden syntyä pitäen kuitenkin samanaikaisesti
+tarkasti huolta perusoikeuksien turvaamisesta. Erityisesti tärkeätä on katsoa, miten rekis-
+terinpitäjä saa käyttää kerättyä tietoa.
+
+Arvoisa puhemies! Ehdotettu tietosuojalaki muodostaisi henkilötietojen suojaa koske-
+van säätelykokonaisuuden yhdessä yleisen tietosuoja-asetuksen kanssa. Sääntelyn aineel-
+linen sisältö tulee pääasiassa yleisestä tietosuoja-asetuksesta. Tietosuojalaissa puolestaan
+säädettäisiin yhtäältä sellaisista asiakokonaisuuksista, joista asetus nimenomaisesti edel-
+lyttää säädettävän kansallisesti, ja toisaalta eräistä asioista, joiden osalta asetus jättää har-
+kintamarginaalia jäsenvaltioille.
+
+Henkilötietojen käsittelyn perusperiaatteet pysyvät ennallaan. Yleisestä tietosuoja-ase-
+tuksesta seuraa joitain muutoksia esimerkiksi rekisterinpitäjän velvollisuuksiin ja valvon-
+taviranomaisen toimivaltuuksiin. Tietosuojalailla puolestaan pyritään nykytilan säilyttä-
+miseen niissä tilanteissa, joissa se on tarkoituksenmukaista asetuksen salliman kansallisen
+liikkumavaran puitteissa.
+
+Tietosuojalailla säädettäisiin myös valvontaviranomaisesta. Tietosuojavaltuutettu toi-
+misi asetuksessa tarkoitettuna valvontaviranomaisena. Tietosuojavaltuutetun toimistoon
+perustettaisiin myös yksi tai useampi apulaisvaltuutetun virka. Tämä olisi tarpeellista kas-
+vaneiden tehtävä- ja asiamäärien johdosta.
+
+Tietosuojalautakunta lakkautettaisiin, sillä sen keskeinen tehtävä lupia myöntävänä vi-
+ranomaisena ei ole enää yleisen tietosuoja-asetuksen soveltamisen alkaessa mahdollinen.
+Tietosuojavaltuutetun toimistossa toimisi sen sijaan asiantuntijalautakunta, joka antaisi
+lausuntoja tietosuojavaltuutetun pyynnöstä henkilötietojen suojaa koskevan lainsäädän-
+nön soveltamiseen liittyvistä merkittävimmistä kysymyksistä. Valvontaviranomaisen toi-
+mivaltuudet ja tehtävä tulevat pääosin suoraan tietosuoja-asetuksesta. Yleisestä tietosuoja-
+asetuksesta seuraa muun muassa valvontaviranomaisen toimivalta määrätä hallinnollisia
+seuraamusmaksuja asetuksen rikkomisesta. Liikkumavaraa asetus jättää sen osalta, voi-
+daanko seuraamusmaksua määrätä viranomaisille ja julkishallinnon elimille. Tätä liikku-
+mavaraa käytettäisiin, ja viranomaistoiminta rajattaisiin hallinnollisen seuraamusmaksun
+ulkopuolelle. Tätä on pidetty tässä vaiheessa perusteltuna, sillä viranomaisten ja yksityi-
+sen sektorin toiminnassa on eroja. Viranomaisia sitoo hallinnon lainmukaisuusvaatimus, ja
+viranomaisen on noudatettava hallinnon yleislakeja. Hallinnollista seuraamusmaksua kos-
+kevaa sääntelyratkaisua arvioidaan kuitenkin tarpeen mukaan uudelleen kertyneen seuran-
+tatiedon valossa tulevina vuosina.
+
+Arvoisa puhemies! Kansallista liikkumavaraa käytettäisiin lisäksi siten, että säilytettäi-
+siin nykyisen kaltainen sääntely henkilötunnuksen käsittelyn osalta. Lisäksi kansallista
+liikkumavaraa käytettäisiin siten, että tietoyhteiskunnan palvelujen tarjoaminen suoraan
+lapselle edellyttäisi, että lapsi on vähintään 13-vuotias. Tätä nuoremmalla lapsella olisi ol-
+tava vanhempien suostumus tai valtuutus esimerkiksi sosiaalisen median käyttämiseen.
+Rekisterinpitäjän vastuulla olisi tarkistaa, että suostumus on olemassa.
+
+Lisäksi tieteelliselle tutkimukselle, tilastoinnille ja henkilötietojen käsittelylle yleisen
+edun mukaisessa arkistointitarkoituksessa on pyritty varmistamaan asianmukaiset toimin-
+taedellytykset. Tietosuojalailla selkiytettäisiin oikeutta käsitellä henkilötietoja kyseisiin
+tarkoituksiin, säädettäisiin nimenomaisesta käsittelyperusteesta ja mahdollisuudesta käsi-
+tellä myös erityisiin henkilötietoryhmiin kuuluvia tietoja näihin tarkoituksiin. Lisäksi
+2
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+eräistä rekisteröidyn oikeuksista voitaisiin tietosuojalain nojalla poiketa, jos poikkeami-
+nen olisi tarpeellista tieteellisessä tutkimuksessa. Samanaikaisesti lakiehdotuksessa on py-
+ritty huolehtimaan siitä, että rekisteröidyn oikeudet on tasapainoisesti ja asianmukaisesti
+huomioitu. Sen vuoksi poikkeaminen olisi mahdollista ainoastaan niissä tilanteissa, joissa
+se on tarpeellista, ja kun rekisterinpitäjä toteuttaa tietosuojalaissa säädetyt suojatoimet, joi-
+ta edellytetään, kun rekisteröidyn oikeuksista poiketaan. Rekisteröidyn oikeuksista voitai-
+siin poiketa myös yleisen edun mukaisen arkistointitarkoituksen toteuttamiseksi.
+
+Asetuksen antama kansallinen liikkumavara otettaisiin siten täysimääräisesti käyttöön
+asianmukaisten toimintaedellytysten luomiseksi tieteelliselle tutkimukselle, tilastoinnille
+ja yleisen edun mukaiselle arkistoinnille. Sananvapauden ja tiedonvälityksen vapauden
+turvaamiseksi rekisteröidyn oikeuksista säädettäisiin poikkeuksia, kun henkilötietoja käsi-
+tellään journalistisia tarkoituksia sekä akateemisen, taiteellisen ja kirjallisen ilmaisun tar-
+koituksia varten. Tietojen suojaamista ja tietoturvallisuutta koskevat säännökset tulisivat
+kuitenkin normaaliin tapaan sovellettavaksi, kun henkilötietoja käsitellään näissä tarkoi-
+tuksissa.
+
+Rakenteeltaan ratkaisu noudattelisi nykykäytäntöä. Tietoruvallisuutta koskevat sään-
+nökset tulisivat sovellettavaksi ja niiden merkitys korostuu, kun rekisteröidyn oikeuksista
+poiketaan. Lisäksi rikosoikeudellista sääntelyä muutettaisiin siitä lähtökohdasta käsin, että
+seuraamusjärjestelmä painottuu vastaisuudessa vahvasti hallinnollisiin seuraamusmaksui-
+hin. Hallinnolliset seuraamusmaksut eivät kuitenkaan voi tulla kyseeseen esimerkiksi ur-
+kintatapauksissa, ja tältä osin rikoslaissa säädettäisiinkin tietosuojarikoksesta.
+
+Arvoisa puhemies! Nyt käsiteltävänä olevan esityksen lisäksi tuon lähiaikoina eduskun-
+nan käsiteltäväksi esityksen tietosuojadirektiivin täytäntöönpanosta. Näiden esitysten li-
+säksi lähes jokainen ministeriö tulee tekemään omat esityksensä hallinnonalakohtaisten
+erityisvaatimusten muuttamiseksi osaltaan tietosuoja-asetuksen vaatimusten mukaisiksi.
+Eduskunta pääsee käymään osaltaan keskustelun siitä, mikä on henkilötietojen käyttöä
+koskevan sääntelyn kokonaisuus tulevaisuudessa.
+
+14.16 Päivi Räsänen kd: Arvoisa puhemies! EU:n tietosuoja-asetus on tietosuojalainsää-
+dännön suurin uudistus 20 vuoteen Euroopan unionissa ja siten myös Suomessakin. Ky-
+seessä on tärkeä ja laaja uudistus, ja tämä käsiteltävä lakikokonaisuus ja siihen liittyvä ase-
+tus sisältävät tavattoman paljon ulottuvuuksia, jotka edellyttäisivät huolellista pohdintaa. 
+
+Henkilötietoja kerätään yhä enemmän teknologisen kehityksen ja globalisoitumisen
+myötä. Korkeatasoisella tietosuojalla voidaan myös parantaa luottamusta verkossa tarjot-
+taviin palveluihin ja hyödyntää digitaalitalouden antamia mahdollisuuksia. Tässä asetuk-
+sessa on harvinaisen paljon jätetty liikkumavaraa kansalliselle, täydentävälle ja täsmentä-
+välle lainsäädännölle.
+
+Antamissaan lausunnoissa tästä hallituksen esityksestä esimerkiksi Viestintävirasto ja
+lainsäädännön arviointineuvosto ovat nostaneet esitysluonnoksen keskeisimmiksi puut-
+teiksi muun muassa sen, että esitys on vaikealukuinen. Koska Euroopan unionin tietosuoja-
+asetuksen soveltajakunta on hyvin laaja ja lakia soveltavat pääosin muut kuin asiantuntijat,
+tulisi täytäntöönpanoa koskevan lain olla hyvin selkeä. Mielestäni olisi tarpeellista, että
+hallitus avaisi sitä, mitä kaikkea tarkalleen ottaen tarkoitetaan keskeisellä käsitteellä, tieto-
+yhteiskunnan palveluilla.
+
+Tietosuojaa koskeva säätely koskettaa syvästi kansalaisia yhteiskunnassa, jossa infor-
+maatioteknologia kehittyy nopeasti. Joudutaan punnitsemaan keskenään erilaisia arvoja,
+3
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+punnitsemaan henkilötietojen suojan ja yksityisyyden suhdetta muun muassa sananvapau-
+teen ja median toimintaan, toisaalta myös tarpeeseen vaihtaa tietoja eri viranomaisten kes-
+ken. Muutama vuosi sitten järkytystä herätti Eerika-tytön surullinen kohtalo, ja tieto lap-
+sen kaltoinkohtelun epäilystä ei kulkenut viranomaiselta toiselle, muun muassa koulusta
+poliisille, osittain juuri tiukkojen henkilötietojen salassapitosäännösten vuoksi.
+
+Tietosuoja-asetuksen toimeenpanossa tulee löytää tasapaino myös lapsen suojelun ja
+lapsen osallistumisoikeuden välillä. Sehän on tässä yksi konkreettinen asia, minkä minis-
+terikin toi esiin. Yhtenä tietosuoja-asetuksen tavoitteena on ollut parantaa lapsen suojaa
+henkilötietojen käsittelyssä. Lastensuojelun Keskusliitto on lausunnossaan nähnyt ongel-
+mallisena sen, että vaikka tietosuoja-asetus ja tietosuojalaki liittyvät keskeisesti lasten oi-
+keuksiin, ei kokonaisvaltaista viitekehystä ja toimintastrategiaa lapsen oikeuksiin liittyen
+ole uudistuksen yhteydessä pohdittu.
+
+Kuinka paljon hallituksessa on mietitty sitä, minkälaisia vaikutuksia lasten ja huoltajien
+asemaan on ikärajan asettamisella 13 vuoteen? Tämän esityksen mukaan tietoyhteiskun-
+nan palvelujen tarjoaminen suoraan lapselle edellyttäisi, että lapsi on vähintään 13-vuoti-
+as. Melko alhainen ikäraja tukee toisaalta lapsen oikeutta ilmaista mielipiteensä, mutta toi-
+saalta verkkoympäristössä on riskejä, joille erityisesti lapset ja nuoret ovat alttiita. Esimer-
+kiksi Lastensuojelun Keskusliiton kyselyssä 13—17-vuotaille lapsille tuli esille se, että
+nuoret olivat joutuneet sosiaalisessa mediassa tilanteisiin, joissa heidän kuviaan oli väärin-
+käytetty. Lisäksi lapsen oikeuksien komitea on useissa eri yhteyksissä nostanut esille verk-
+kopalveluiden sisältämiin mainoksiin liittyvät ongelmat ja haitat lasten ja nuorten osalta.
+Toisaalta, mikäli huoltajien lupaa koskeva ikäraja taas sitten asetettaisiin kovin korkealle,
+uhkana olisi, että se vaikuttaisi kielteisesti lasten ja nuorten yksityisyyteen ja osallistumi-
+sen oikeuteen.
+
+Olisi toki tärkeää, että myös muut lapsiin liittyvät näkökulmat kuin vain tähän ikärajan
+asettamiseen liittyvät kysymykset nousevat tästä laista keskusteltaessa esiin. Lapsijärjes-
+töt ovat tuoneet esille huolensa, että useiden verkkopalveluiden ehdot ovat lapsen näkökul-
+masta vaikeaselkoisia.
+
+Pidän erityisen tärkeänä, että tietosuoja-asetuksen ja tietosuojalain voimaantulon jäl-
+keen seurataan lain vaikutuksia niin ikärajan asettamisen kuin muiden lasten oikeuksiin
+verkkomaailmassa liittyvien ratkaisujen suhteen. Mielestäni on asianmukaista edellyttää,
+että laista myös tehdään perusteellinen lapsivaikutusten arviointi, ja tätä ovat esittäneet
+muun muassa Suomen Nuorisoyhteistyö — Allianssi, Ehkäisevä päihdetyö EHYT, Lasten-
+suojelun Keskusliitto, Mannerheimin Lastensuojeluliitto, Mediakasvatusseura, Pelastakaa
+Lapset ja Suomen Unicef, siis hyvin laajalla kirjolla. Lapsivaikutusten arviointi mahdollis-
+taisi sen, että lapsen oikeuksia verkkomaailmassa voidaan tarkastella kokonaisvaltaisesti
+sekä ottaa etukäteen huomioon toimeenpanon kannalta olennaiset asiat.
+
+Ja yksi käytännön elämässä eteen tuleva ongelma on se, että eteen voi tulla tilanne, jossa
+lapsen vanhemmat asuvat erillään mutta ovat molemmat huoltajia ja sitten toisaalta erimie-
+lisiä lapsensa verkkopalvelunkäytön suhteen. Riittääkö yhden huoltajan suostumus, ja jos
+riittää, kumpi heistä päättää?
+
+Arvoisa puhemies! On hyvä, että siltä osin kuin tietosuoja-asetus sisältää kansallista
+liikkumavaraa, esityksessä pyritään säilyttämään nykyistä oikeustilaa mahdollisimman
+pitkälle. On tärkeää huomata se, että tietosuoja-asetus lisää myös yritysten oikeudellista
+epävarmuutta ja sääntelytaakkaa. Tietosuojalaissa säädettäisiin, että henkilötietojen suo-
+jaa koskevaa lainsäädäntöä valvoisi jatkossa tietosuojavaltuutettu. Nykyisin tärkeintä pää-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+tösvaltaa käyttää tietosuojalautakunta, joka nyt lakkautettaisiin. Tämä tarkoittaa, että tieto-
+suojavaltuutetulla olisi tietosuoja-asetuksen mukainen tutkintatoimivalta, ja hän päättäisi
+mahdollisista korjaavista toimenpiteistä, kuten käsittelykielloista, ja myös määräisi mah-
+dollisen hallinnollisen sakon. Tätä esimerkiksi tuossa EK:n lausunnossa on arvosteltu sen
+takia, että tässä tulisi sakon määrääminen tietosuojavaltuutetulle tuomioistuimen sijaan.
+Yritysten näkökulmasta on tärkeää, että paitsi tietosuojalain myös tarkistetun erityislain-
+säädännön sisältö on selvillä mahdollisimman pian. Tällä hetkellä yritykset joutuvat val-
+mistautumaan tietosuoja-asetukseen siten, että asetusta täydentävän kansallisen lainsää-
+dännön sisältöä ja tulkintaa ei ole vielä täysin pystytty hahmottamaan.
+
+14.25 Markus Mustajärvi vas (vastauspuheenvuoro): Arvoisa puhemies! Edustaja Päivi
+Räsänen otti esille tämän Eerika-tytön tapauksen, joka oli äärimmäisen surullinen juttu.
+Luin koko sen esitutkinta-aineiston heti, kun se tuli julkiseksi, ja eipä ole ollut toista yhtä
+raskasta lukukokemusta. Tiedonkulussa tuon tapauksen kehittymisen yhteydessä oli ongel-
+mia mutta suurin ongelma oli kuitenkin se, että se viimeinen puuttuminen jäi jokaiselta te-
+kemättä. Tästä pitkäkestoisesta lapsen kiduttamisesta, joka sitten lopulta johti lapsen me-
+nehtymiseen, oli tietoa naapureilla, koulussa, sosiaaliviranomaisilla, muillakin viranomai-
+silla, mutta se viimeinen väliintulo jäi tekemättä jokaiselta taholta. Ja oleellista tuossa ta-
+pauksessa oli sekin, että toimivaltarajat ja velvollisuus puuttua eivät olleet niin selviä kuin
+niiden olisi pitänyt olla.
+
+14.26 Maria Tolppanen sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä yhteydessä
+toivoisin myös, että me ottaisimme käsittelyyn ja huomioisimme sen, että meillä on sen-
+kaltaisia rekistereitä, jotka estävät ihmisiä palaamasta yhteiskunnan ulkopuolelta takaisin
+yhteiskuntaan tai jotka estävät ihmisiä saamasta esimerkiksi vuokra-asuntoa sen takia, että
+vakuutusyhtiöiden ei tarvitse antaa kotivakuutusta henkilölle, joka on menettänyt luotto-
+tietonsa ja joka on luottotietorekisterissä. Tämä on kohtuutonta, koska hän ei saa sitä edes
+siinä tapauksessa, että sen maksaisi joku muu kuin hän itse. Me emme saa päästää tilannet-
+ta siihen pisteeseen, että erilaiset rekisterit ovat niin negatiivisia, että ne estävät ihmisiltä
+ihmisarvoisen elämän ja ennen kaikkea palaamisen ihmisarvoiseen elämään. Toivoisin,
+että arvoisa ministeri kiinnittäisi tähän asiaan huomiota.
+
+14.27 Päivi Räsänen kd (vastauspuheenvuoro): Arvoisa herra puhemies! Edustaja Mus-
+tajärvi oli aivan oikeassa tuossa arviossaan. Todellakin tuon Eerika-tytön kohdalla onne-
+tonta oli se, että tieto ei kulkenut missään vaiheessa poliisille ennen tuota hänen surmaa-
+mistaan. 
+
+Tuon tapahtuman jälkeen käynnistyi kyllä aika laaja selvitysprosessi. Itse olin silloin si-
+säisen turvallisuuden ministeriryhmän puheenjohtajana, ja otimme sen agendalle, ja sen
+jälkeenhän tehtiin useita muutoksia sekä lainsäädäntöön että ohjeistukseen, joilla nimen-
+omaan tätä tiedonkulkua parannettiin näissä tilanteissa, kun on lastensuojelusta ja lasten-
+suojelutarpeesta kyse. 
+
+Mutta todellakin tämä liittyy hyvin ytimekkäästi ja oleellisesti tähän nyt käsiteltävään
+esitykseen, [Puhemies koputtaa] jossa on todellakin monia puolia.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Puhujalistaan.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+14.28 Timo Heinonen kok: Arvoisa herra puhemies! Hyvä ministeri! Hyvät edustajakol-
+legat ja muut paikallaolijat! Ministeri Häkkänen kävi laajasti läpi tätä tietosuoja-asetuksen
+esitystä. Tämä on merkittävä, suuri kokonaisuus, joka itse asiassa tulee tärkeään paikkaan.
+Meillä on sähköinen maailma, digitaalisuus, näiden 20 vuoden aikana mennyt merkittäväl-
+lä tavalla eteenpäin, ja on hyvä, että lainsäädäntöä myös tästä tulokulmasta tarkastellaan,
+tiedonsaannin näkökulmasta mutta myös tiedon antamisen näkökulmasta.
+
+Edustaja Räsänen nosti esille tämän Eerikan tapauksen ja siihen liittyneet tiedonkulun
+ongelmat. Nostan itse toisen esimerkkitapauksen esille: Joitain vuosia sitten meillä syntyi
+kunnissa halu tukea yksin asuvia veteraaneja. Kunnat halusivat auttaa omassa kunnassa
+asuvia veteraaneja, jotka asuvat yksin. Heillä ei ollut tietoa näistä veteraaneista — tieto
+löytyi Kelalta, mutta Kela ei saanutkaan antaa kunnille tietoa, jotta kunta olisi voinut pitää
+parempaa huolta omista asukkaistaan, kunniakansalaisista, veteraaneista. Eli kyse oli siitä,
+että toinen vaitiolovelvollinen ei voinut antaa tietoa toiselle vaitiolovelvolliselle. Meidän
+piti muuttaa lakia, lakimuutos tehtiin nykyisen puhemies Risikon ministeriaikana, eli tar-
+vittiin lainmuutos siihen, että kunta pystyi pitämään omista asukkaistaan parempaa huolta.
+Silloin tietysti täytyy kysyä, onko tietosuoja viety jo äärimmäisyyksiin ja liian pitkälle. Mi-
+nun mielestäni on.
+
+Suomessa tietosuoja näyttää menevän tietyissä tilanteissa yli maalaisjärjen, ja tässä kes-
+kustelussa on esillä ollut jo se, että tämä tietosuoja-asetus antaa mahdollisuuden poikkea-
+miseen ja kansalliseen liikkumavaraan. Kysyisin ministeri Häkkäseltä, että onko tämän-
+tyyppisiä tilanteita nyt käyty, vaikkapa poikkihallinnollisesti, läpi, että enää ei syntyisi täl-
+laisia älyttömiä tilanteita, että meidän on tarpeen korjata lakia, jotta kunnat voivat auttaa
+omia asukkaitaan, ovat ne sitten veteraaneja, kunniakansalaisia tai vaikkapa sitten lapsia,
+joilla saattaa olla tarve saada apua yhteiskunnaltakin erilaisiin ongelmiin — niitäkin ongel-
+makohtia meiltä löytyy lukuisia. Eli minä haluaisin ministeriltä pienen katsauksen siihen,
+löytyykö tällaisia Eerikan tapauksen tyyppisiä tai sitten veteraanien auttamiseen liittyviä
+tietosuojan, tiedonsaannin, tiedon antamisen ongelmakohtia meiltä vielä tänä päivänä.
+
+14.31 Ben Zyskowicz kok: Arvoisa herra puhemies! Arvoisat kansanedustajat! Henkilö-
+tietojen suoja on erittäin tärkeää, ja varsinkin arkaluontoisten, esimerkiksi terveystietojen,
+suoja on ymmärrettävästi tärkeä asia. Kuitenkin kiinnitän samaan asiaan huomiota kuin
+mihin edustaja Heinonen edellä ja mihin osin tässä Eerika-keskustelussakin kiinnitettiin
+huomiota: onko meillä tämän tietosuojan merkeissä lainsäädännössä joiltakin osin ammut-
+tu yli, kun vaitiolovelvolliset viranomaiset eivät voi toisille vaitiolovelvollisille viranomai-
+sille antaa sellaista tietoa, jonka olisi tärkeätä olla käytössä, jotta ihmistä voidaan auttaa?
+Voi olla, että tässä Eerikan traagisessa tapauksessa ei suoranaisesti ollut kyse siitä, ettei tie-
+toa saanut luovuttaa, mutta se käsitys minulle on syntynyt julkisen keskustelun perusteella
+aikanaan, että tiukat tietosuojasäädökset olivat aiheuttaneet sellaista arkuutta näiden eri vi-
+ranomaisten toimissa, että he eivät edes niissä tilanteissa, missä ilmeisesti olisi ollut oikeus
+ilmoittaa tilanteesta toiselle viranomaiselle, sitä kuitenkaan katsoneet voivansa tehdä. 
+
+Edustaja Heinonen mainitsi aivan erinomaisen esimerkin. Olin itsekin täällä eduskun-
+nassa säätämässä lakia, muuttamassa lakia, jotta Kansaneläkelaitoksen vaitiolovelvolliset
+viranomaiset saattoivat kuntien vaitiolovelvollisille sosiaaliviranomaisille antaa tietoa
+kunnissa olevista veteraaneista, jotta kunnat voisivat näitä veteraaneja auttaa. Siis meidän
+vallitseva lainsäädäntömme esti tällaisen. [Timo Heinonen: Aivan järjetöntä!] Kun tällai-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+siin tilanteisiin on törmännyt, on tullut mieleen, että jonkinlaiset tietosuojatalebanit ovat
+olleet näitä lakeja tekemässä.
+
+Otan toisen esimerkin ihan elävästä elämästä. Oulussa oli henkilö uhkaillut koulutove-
+reitaan väkivallalla. Tämä uhkaus saatettiin koulun johdon, rehtorin ja varmasti kouluter-
+veydenhuollon henkilöstön tietoon. En tiedä, mitä olisivat käytännössä voineet ehkä teh-
+dä, mutta katsottiin kuitenkin tarpeelliseksi ja aiheelliseksi, että nämä koulun vaitiolovel-
+volliset viranomaiset tiesivät tästä uhkaavasta käyttäytymisestä. Tämän jälkeen tämä opis-
+kelija vaihtoi koulua, ja tuossa koulussa hän puukotti koulutoveriaan. Kävi ilmi, että edel-
+lisen koulun vaitiolovelvolliset viranomaiset eivät olleet saaneet kertoa uuden koulun vai-
+tiolovelvollisille viranomaisille tähän oppilaaseen liittyvistä riskeistä. Laki kielsi sen. Mitä
+järkeä on tällaisissa laeissa? Ketä varten ne on säädetty, kun tarkoituksena on auttaa ihmis-
+tä, auttaa siinä, että hän ei vahingoita itseään, ja auttaa siinä, että hän ei vahingoita muita? 
+
+Tälläkin hetkellä puhutaan paljon kouluissa turvallisuudesta, puhutaan huumeongel-
+masta, enkä ole ollenkaan varma, että tällä hetkellä on olemassa riittävät mahdollisuudet
+koulun viranomaisilla olla yhteydessä poliisiin tai poliisin viranomaisilla olla yhteydessä
+kouluun. 
+
+Kerron lopuksi vielä yhden elävän esimerkin tietosuojatalebanien tulkinnoista. 
+Muutama vuosi sitten Varsinais-Suomen aluehallintovirasto tulkitsi, että lääkärin vas-
+
+taanotolla lääkäri ei saa kutsua odotushuoneessa olevaa potilasta nimellä. Tähän tulkintaan
+päädyttiin, koska lain mukaan jo se, että joku on jonkun lääkärin potilaana, on salassa pi-
+dettävää tietoa. Varsinais-Suomen aluehallintovirasto siis katsoi, että tämän ihmisen tieto-
+suoja kärsii, kun lääkäri ovelta huikkaa häntä nimeltä. No, jos tällä tiellä pidemmälle läh-
+detään, niin eikö näiden ihmisten tietosuoja kärsi jo siitä, että he omilla kasvoillaan ja oma-
+na itsenään istuvat siellä odotushuoneessa odottamassa lääkärille pääsyä? Eikö paljon pa-
+hempi ole se, että joku naapuri näkee, että ai, sinäkin olet täällä, kuin se, että naapuri kuu-
+lee jonkun tuntemattoman nimen ja näkee, kun joku tuntematon ihminen astuu lääkärin
+ovesta sisään? 
+
+Jos tällä tiellä edelleen jatketaan, niin miten sitten esimerkiksi vierailukäynnit sairaalas-
+sa? Kun on vierailuaika ja ihmiset tulevat omaistaan katsomaan, niin onko tarkoitus, että
+soitetaan jotain kelloa ja kaikki muut potilaat menevät kaappeihin piiloon, jotta tämä hei-
+dän olemisensa sairaalassa potilaina ja siihen liittyvä terveystietojen suoja ei mitenkään va-
+hingoittuisi? Onko niin, että jatkossa siellä lääkärin vastaanotolla istutaan paperipussi
+päässä, jotta kukaan ei tunnista, että siellä ollaan?
+
+Tämä Varsinais-Suomen aluehallintoviraston aloite minun tietääkseni ei johtanut sii-
+hen, että muissa aluehallintovirastoissa olisi tulkittu samalla tavalla, ja ymmärsin, että tänä
+päivänä edes Varsinais-Suomen aluehallintovirastossa ei tällä tavoin toimita. 
+
+Summa summarum, haluan sanoa, että jos tämä tietosuoja vedetään aivan absurdiuteen
+saakka, niin luullaan, että tehdään jotain hyvää, mutta tosiasiassa vaikeutetaan viranomais-
+ten mahdollisuuksia auttaa ihmisiä silloin, kun ihmisen auttamisen tarve on käsillä. Toi-
+von, että eduskuntakäsittelyssä tämän valtavan kokonaisuuden tiimoilta pyritään huolehti-
+maan siitä, että tällaisia naurettavuuksia lakiin ei tulisi. 
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Edustaja Tolppanen. — Vastauspu-
+heenvuoro, edustaja Kasvi, sillä aikaa, kun Tolppanen lähestyy. 
+7
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+14.38 Jyrki Kasvi vihr (vastauspuheenvuoro): Arvoisa puhemies! Tosiaan edustaja Zys-
+kowicz on aivan oikeassa siinä, että hyvin usein nämä tietosuojasäännökset johtavat kum-
+mallisiin tilanteisiin. Aina ei ole kyse edes siitä, että tietoa ei saisi luovuttaa, vaan voi olla
+kyse siitä, että viranomaisilla ei ole yhteistä tietoturvallista tapaa välittää tietoa. Esimerkik-
+si kun kunnan sosiaalitoimisto tarvitsee poliisilta tietoa siitä, onko toimeentulotuen haki-
+jalla oikeus olla maassa, niin ainoa hyväksytty väline tämän tiedon välittämiseen on tele-
+faksi, koska ei ole yhteensopivaa tietoturvallista sähköpostijärjestelmää. Kaikkihan me tie-
+dämme, miten turvallinen telefaksi itse asiassa on, mutta kun se on joskus hyväksytty tur-
+valliseksi, niin se on ainoa, jota saa käyttää. Voitte kuvitella, kuinka paljon ylimääräistä
+työtä tämä aiheuttaa.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ja vielä vastauspuheenvuoro edustaja
+Zyskowiczille ensin ja sitten edustaja Heinoselle. 
+
+14.39 Ben Zyskowicz kok (vastauspuheenvuoro): Arvoisa herra puhemies! Tämä esi-
+merkki, minkä edustaja Kasvi toi esiin, on varmaan todellinen, ja hän tuntee tämän asian,
+kun siitä puhui. Minä kerron, miten asia on lainsäädännön valossa tänä päivänä. 
+
+Kun ihminen Suomessa, EU-kansalainen, toistuvasti turvautuu toimeentulotukeen, niin
+se on peruste käännyttää hänet maasta. Kuitenkin tilanne on se, että kun tällainen Suomes-
+sa oleva, vaikkapa virolainen, jatkuvasti turvautuu Suomessa toimeentulotukeen ja toi-
+meentulotukiviranomaiset sen näkevät ja tietävät, että se olisi peruste käännyttää hänet
+maasta, niin he eivät saa nykyisten säädösten mukaan ilmoittaa ulkomaalaisviranomaisil-
+le, että tämä tyyppi täällä jatkuvasti hakee toimeentulotukea ja se olisi peruste hänen kään-
+nyttämiseensä. He eivät saa sitä ilmoittaa. Sen sijaan, jos poliisi kysyy, käykö tämä tyyppi
+toistuvasti hakemassa toimeentulotukea, niin silloin he saavat sanoa, että kyllä käy.
+
+14.40 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa puhemies! Meillä oli jokin
+aika sitten vielä runsaasti lasten opinpolulla näitä kohtia, missä tiedonsaanti katkesi. Sitä
+korjattiin ministeri Virkkusen ja ministeri Sarkomaan aikana niin, että tieto siirtyi varhais-
+kasvatuksesta peruskouluun ja peruskoulussa alakoulusta yläkouluun ja niin poispäin,
+mutta edelleen meillä on kuitenkin niitä tilanteita, että tiedonsaanti voidaankin estää myös
+vanhempien toimesta. Silloin tietysti herää sekin kysymys, kenen etua se palvelee, että ei
+halutakaan antaa tietoa eteenpäin. Ymmärrän tietyllä tavalla sen ajatuksen, että joskus niin
+sanotusti tyhjältä pöydältä aloittaminen voi olla lapselle tai nuorelle hyväksi, mutta silloin,
+jos on kyse esimerkiksi lapsen terveystiedoista ja siitä, mikä olisi oleellista tietää myös uu-
+dessa koulussa, tällainen koulun vaihtaminen asioiden piilossa pitämiseksi pitäisi myös
+pystyä jollain estämään.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Puhujalistaan.
+
+14.41 Maria Tolppanen sd: Arvoisa puhemies! Erilaiset henkilötietorekisterit, kuten
+luottotietorekisteri, olisi myös syytä ottaa käsittelyyn. Juuri tämä luottotietorekisteri, nega-
+tiivinen rekisteri, estää tällä hetkellä ahdingossa olevia ihmisiä kohentamasta omaa ase-
+maansa. Esimerkiksi jos henkilö saa työpaikan ja asunnon, tulee esteeksi se, että hän ei saa
+kotivakuutusta. Ja kun ei saa kotivakuutusta, menee asunto, ja jos ei ole asuntoa, niin me-
+8
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+nee hyvin helposti työ, eli pysytään siellä yhteiskunnan ulkopuolella, eletään rajamaastos-
+sa. Tämä on asia, joka tässä yhteiskunnassa pitäisi ottaa huomioon.
+
+Meillä on tiedossa se, että henkilö, jolla ei ole luottotietoja, elää aika lailla hankalassa
+maailmassa, nimittäin ainoa vakuutus, mikä hänelle on pakko antaa, on pakollinen liiken-
+nevakuutus. Tämä on paradoksi sen takia, että hän ei saa sitä autolainaa tai mopolainaa tai
+moottoripyörälainaa, mihinkä tätä pakollista liikennevakuutusta tarvittaisiin, koska hänel-
+lä ei ole luottotietoja. Mutta se on siis vakuutus, joka on pakko antaa. Mutta eikö tästä yh-
+teiskunnasta löydy sen vertaa inhimillisyyttä, että ihmiselle, joka saa asunnon, olisi pakko
+antaa myöskin kotivakuutus? Tällä hetkellä tilanne on jopa niin hankala, että vaikka kol-
+mas osapuoli sitoutuisi maksamaan tämän vakuutusmaksun, niin silloinkaan ei ole pakko
+antaa kotivakuutusta. Se on aika karseaa semmoisessa maassa, jossa lämpötilan vaihtelut
+voivat olla, kuten tänä vuonna olemme jälleen saaneet huomata, jopa 70 astetta vuodessa.
+Talvella pakkasella on oltava katto pään päällä, on oltava koti. On kohtuutonta, että yllä-
+pidämme rekisteriä, joka estää todellakin ihmisiä pääsemästä takaisin yhteiskuntaan. Se on
+sellainen asia, johon meidän on kiinnitettävä huomiota.
+
+Kun me puhumme tietosuojasta ja sen käytöstä, olisi tärkeää, että tarkasteltaisiin tarkas-
+ti, mitä erilaiset rekisterit ja niiden käyttö merkitsevät yhteiskunnassa, mitä ne merkitsevät
+kansalaisille ja mitä ne merkitsevät liike-elämälle. Nämä kaikkihan ovat tietenkin tärkeitä
+asioita. Inhimillisyyden kannalta meidän on syytä muistaa, että jos henkilö joutuu luotto-
+tietorekisteriin, hän ei välttämättä ole pelkästään hurvitellut asioitaan huonoon kuntoon,
+voi olla, että on tullut semmoinen ikävä asia kuin aviopuolison kuolema, vakava sairastu-
+minen perheessä, avioero tai joku muu vastaava tragedia, joka on kohdannut perhettä ja
+joka on ajanut perheen taloudelliseen ahdinkoon. Tällä hetkellä me kyllä tätä rekisteriä
+jaamme auliisti kaikille, jotka siitä haluavat tietää, ja tässä negatiivisessa rekisterissä hen-
+kilö pysyy vielä kaksi vuotta sen jälkeen, kun on saanut tavalla tai toisella velkansa mak-
+settua. En edes halua alkaa keskustella siitä, mitkä ovat tapoja maksaa ne velat, koska siinä
+voimme vähän miettiä asioita: jos me emme anna mitään mahdollisuuksia, niin ihminen on
+kekseliäs ja keksii keinoja.
+
+Sinänsä paradoksaalista on myöskin se, että me kyllä myönnämme pikavippejä ihmisil-
+le, joilla ei ole luottotietoja. Sen tämä sali sallii. Mutta se ei salli sitä, että ihminen saa pitää
+kotinsa ja sitä kautta työnsä, koska me annamme asian toteutua niin, että kotivakuutusta ei
+niille ihmisille anneta, jotka ovat luottotietorekisterissä. Se on henkilörekisteri, siinä on
+varmasti hyötynsä, miksi sitä käytetään, mutta pyydän, arvoisa ministeri, että myös tämä
+negatiivinen puoli otetaan tässä asiassa huomioon.
+
+14.45 Arja Juvonen ps: Arvoisa herra puhemies! Hyvä ministeri! Hyvät kansanedusta-
+jat! Henkilötietojen käsittelyssä on oltava tarkkana. On noudatettava lakia, käyttäydyttävä
+lainmukaisesti, asianmukaisesti, luottamuksellisesti, turvallisesti, ja henkilötietoja tulee
+myös päivittää, jotta tiedot pysyvät ajan tasalla. Tiedonkulku on tärkeää. Mutta aivan ku-
+ten, edustaja Ben Zyskowicz, hienosti täällä kysyitte: onko tietosuojassa ammuttu välillä
+yli? Kyllä myös minä olen sitä mieltä, että välillä tuntuu, että näin asianlaita on. Ja kerroit-
+te täällä, kuten myös edustaja Timo... [Ben Zyskowicz: Heinonen!] — Heinonen, kiitok-
+sia! — muutaman esimerkkitapauksen, missä erityisesti, ihan pienissä käytännön asioissa,
+huomaa, että tietosuoja on vedetty hyvin tiukaksi.
+
+Nostan itse, arvoisa herra puhemies, yhden tapauksen, mikä liittyy myös ikääntyneisiin
+veteraani-ihmisiin. Sain puhelinsoiton henkilöltä, joka tiedusteli, kun hänen ystävänsä
+9
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+vuosikausien takaa on siirtynyt ympärivuorokautiseen hoivalaitokseen hoitoon, mutta hän
+ei löydä tätä ihmistä mistään. Ja hän oli tehnyt ison työn, soittanut eri puolille ja kysellyt,
+missä hänen vanha kaverinsa mahtaa olla, ja kukaan ei tätä tietoa hänelle voinut antaa, kos-
+ka se on salassa pidettävää. Elikkä jossakin hoivalaitoksessa joku ihminen viettää yksinäi-
+syyttään, ja hänellä olisi ystävä, joka haluaisi tulla katsomaan, mutta tämä ei sinne pääse,
+koska kukaan ei kerro, kun kyseessä ei ole omainen, missä tämä henkilö mahtaa olla. Ja
+hän ei varmasti ole ainoa tapaus. Näitä tapauksia on kyllä paljon Suomessa.
+
+Arvoisa puhemies! Tämän lakiesityksen tarkoituksena on parantaa henkilötietojen suo-
+jaa. Se yhtenäistää tietosuojasääntelyä kaikissa EU-maissa. Tietosuoja on hyvin tiukka, ja
+Eerikan tapaus nousi täällä esille. Olisi toivottavaa, että tulevaisuudessa tällaista ei enää
+koskaan voi tapahtua, että tärkeä tieto ei päädy niille, jotka sitä tarvitsevat.
+
+Täällä monet lausunnonantajat ovat todenneet erilaisia näkemyksiä. Esimerkiksi sosiaa-
+li- ja terveysministeriön mielestä olisi perusteltua laajentaa tietosuojalain erityisiä henkilö-
+tietoryhmiä koskevaa sääntelyä sosiaali- ja terveydenhuollossa tapahtuvaan käsittelyyn, ja
+kysyisinkin teiltä, ministeri, mitenkä olette huomioineet tässä laissa nyt sitten esimerkiksi
+nämä ministeriön ajatukset.
+
+Terveystiedot ovat salassa pidettäviä, ja täällä nousi esille esimerkiksi sairaala. No, kyl-
+lähän me kaikki tiedämme, jotka sairaalassa olemme käyneet, että siinä samassa potilas-
+huoneessa niin ne vieraat kuin ne potilaatkin tietävät, mikä siellä vieruskaveria vaivaa.
+Elikkä asia liikkuu eteenpäin. Mutta vastaavaa on toki myös apteekeissa. Elikkä siellä on
+hyvin helppo kuulla, mitä lääkkeitä itse kukin sieltä hakee, ja siellä ei ole sitä suojaa. On
+myös niitä apteekkeja, joissa se ei ole mahdollista, mutta edelleen on tämmöisiä pieniä
+konttoreita.
+
+Nostaisin esiin tässä keskustelussa sen, että toisaalta, kun meillä on hyvin tiukka tieto-
+suoja ja henkilötietoja ei kerrota, meillä on myös tilanteita, joissa henkilötietoja ei ollen-
+kaan halutakaan tietää, ja nostan tässä esille esimerkiksi paperittomat tällä hetkellä Suo-
+messa. Meillähän on sosiaalihuoltolakiin tullut nyt muutos, että kunnat korvaavat heistä ai-
+heutuneet kustannukset. Siihen liittyy majoitus, ruoka ja pakolliset lääkkeet, ja valtion
+budjetissa tähän kohdennettu resurssi on 5,3 miljoonaa. Nostin perussuomalaisena sosiaa-
+li- ja terveysvaliokunnassa yhtenä ideana sen, olisiko mahdollista näitä henkilöitä, joiden
+henkilöllisyyttä me emme tiedä ja jotka oleskelevat maassamme laittomasti, esimerkiksi
+rekisteröidä, voisiko heidät rekisteröidä, ja tämä oli myös äänestyksessä täällä salissa, ja se
+sai kannatusta joiltakin eduskuntaryhmiltä. Muun muassa vihreissä oli asian kannattajia.
+Kysynkin teiltä, hyvä ministeri: olisiko mahdollista, että henkilöt, joista emme tiedä, keitä
+he ovat ja ketkä hakevat mahdollisesti näitä sosiaalihuoltolain antamia palveluja, jollakin
+tavalla rekisteröitäisiin, ja me tietäisimme, keitä täällä Suomessa sitten on ja ketkä palve-
+lua haluavat ja tarvitsevat?
+
+14.50 Jukka Kopra kok: Arvoisa herra puhemies! Tätä esitystä on EU:ssa ja sittemmin
+Suomessa hallituksen toimesta pitkään valmisteltu, ja hyvä, että se on nyt täällä eduskun-
+nassa käsiteltävänä. Olemme tässä keskustelun kuluessa saaneet kuulla lukuisia murheel-
+lisia esimerkkejä siitä, kuinka huonosti voi käydä silloin kun tieto ei kulje esimerkiksi vi-
+ranomaisten välillä. Mielestäni nämä näkökulmat on tässä eduskuntakäsittelyssä kyllä pe-
+rattava huolellisesti ja otettava huomioon, kun asiaa täällä eduskunnassa käsitellään. 
+
+Kolikolla on sitten toinenkin puoli, yksityisten henkilöiden tietojen suoja ja niiden tie-
+tojen pysyminenkin yksityisinä. Tämän päivän digitaalisessa maailmassa tietojen varasta-
+10
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+minen massiivisissa määrin saattaa helposti tapahtua, jos ollaan huolimattomia, ja tämä on
+tavallaan se toinen näkökulma, mikä tässä pitää myöskin huomioida: että riittävällä pietee-
+tillä varmistetaan se, että yritykset ja viranomaiset myös varjelevat niitä ihmisten henkilö-
+tietoja siltä osin kuin ne digitaalisessa muodossa ovat alttiita mahdollisille verkkovarkauk-
+sille.
+
+Tämä lakiesitys ei ole vaikutuksiltaan mitenkään vähäinen. Jo pelkästään se, että Tieto-
+suojavaltuutetun toimistoon perustetaan peräti 16 henkilötyövuotta lisää resurssia, on osoi-
+tus siitä, että tämä on iso juttu, ja myöskin nämä hallinnolliset sanktiot, joiden on kaavailtu
+seuraavan rikkomuksista — 10 miljoonan euron, 20 miljoonan euron sanktiot — ovat mer-
+kittäviä asioita. 
+
+Vähän ihmetyttää se, että tässä yhteydessä sitten viranomaistahot päästetään kuitenkin
+pälkähästä näitten hallinnollisten sanktioiden suhteen. Tulisiko myös heitä sittenkin kui-
+tenkin koskea nämä samat rahalliset sanktiot siitä, jos virhe tapahtuu ja kansalaisten tietoja
+pääsee rikollisten käsiin huolimattomuuden seurauksena? Minusta tämä olisi sellainen oh-
+jaava tekijä, joka auttaisi myös viranomaista pitämään hanat tiukalla, [Puhemies koputtaa]
+jotta tieto säilyy yksityisenä.
+
+14.52 Ville Skinnari sd: Arvoisa puhemies! Tämä on jo asiakokonaisuutena, hyvin voi
+sanoa, megaluokan kokonaisuus niin EU-tasolla kuin meillä Suomessa, ja siinä mielessä
+meidän eduskunnassa tulee ja pitää suhtautua tähän suurella vakavuudella. Mutta kuten
+tässä on hyvin kuultu aikaisemmissa puheenvuoroissa, tämä on kaiken kaikkiaan tasapai-
+non hakemista, tasapainon löytämistä. 
+
+Tähän liittyen tietysti nostaisin esille, nyt kun ministeri on paikalla, sen asian, että me
+olemme paljon puhuneet ylivelkaantumisesta, ulosottojen määrän kasvusta, ja te olette pu-
+hunut tästä positiivisesta luottorekisteristä, joka nyt toivottavasti etenee. Miten te näette tä-
+män hankkeen, kuinka se nyt Suomessa etenee, ja saatteko te sen valmiiksi vielä tällä hal-
+lituskaudella? 
+
+Toinen asia, mikä tässä nousi esille, on se, että yritysten näkökulma tähän uuteen maa-
+ilmaan on hyvin haastava. Tässä on paljon puhuttu sisäisestä tiedonkulusta ja sen ongel-
+mista, mutta jos ajatellaan suomalaista pientä yritystä, pk-yrittäjää, niin tämän koko ase-
+tuksen ymmärtäminen, puhumattakaan sen toteuttamisesta oman yrityksen sopimusmaail-
+maan, on mieletön teema, ja toinen kysymykseni on: Oletteko te, ministeri, hallituksessa
+harkinneet tähän liittyvää koulutusta? On ihan selvää, että tässä on mieletön osaamisvaje
+tulossa, joten miten tämän lain kanssa käytännössä toimitaan? 
+
+Kolmas asia: Edustaja Kopra nosti hyvin esille ne ongelmat, mitä syntyy, kun rikollista
+toimintaa tehdään ihmisten identiteeteillä, jopa identiteettivarkaudet. Ja kun me olemme
+viime aikoina joutuneet voimakkaiden kyberhyökkäyksien kohteeksi niin valtiollisesti
+kuin kunnissa ja sairaanhoitopiireissä, niin oletteko te hallituksessa miettineet sitä, että kai-
+ken kaikkiaan tämä kyberosaaminen pitäisi nostaa koko Suomen strategiseen keskiöön
+koko julkisella sektorilla ja myös koulutuksessa?
+
+14.54 Päivi Räsänen kd:  Arvoisa puhemies! Tässä esityksessä ja koko tässä kokonaisuu-
+dessa on todellakin hyvin monta ulottuvuutta, joista haluan vielä yhden asian nostaa esiin,
+jota tässä ei ole käsitelty. Ministerihän nosti esiin sen seikan, että tässä säätelyssä halutaan
+turvata tieteellisen tutkimuksen oikeus käsitellä henkilötietoja, mikä on tietenkin tärkeä ja
+hyvä asia, mutta siihenkin liittyy omia ongelmiaan varsinkin silloin kun puhutaan herkistä
+11
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+ja arkaluonteisista tiedoista. Tällä hetkellä sosiaali- ja terveysvaliokunnassahan on käsitel-
+tävänä hallituksen esitys sosiaali- ja terveystietojen toissijaista käyttöä koskevasta lainsää-
+dännöstä, ja tässä varmistetaan se, että voitaisiin luovuttaa henkilötietoja, potilastietoja tut-
+kimuksen ja yritysten käyttöön, muun muassa lääketeollisuuden käyttöön.
+
+Helsingin yliopiston terveysoikeuden professori Lasse Lehtonen on todennut ja kerto-
+nut sen, että Yhdysvaltain länsirannikon sairaaloiden nimetyn henkilön potilaskertomuk-
+sen tiedot voi anonyymisti toimivassa Tor-verkossa ostaa noin 20 000 dollarilla, ja hän ar-
+vioi, että vastaavalla laskentatavalla Helsingin yliopistollisen sairaalan tietojärjestelmien
+noin miljoonan hengen potilastietojen myyntiarvo olisi 20 miljardia dollaria. Eli tämä ku-
+vaa sitä, minkälaista taloudellista arvoa näillä arkaluonteisilla tiedoilla on. Yrityksillä on
+erityisesti halu käyttää potilas- ja geenitietoja henkilöiden profiloinnissa, [Puhemies ko-
+puttaa] ja nyt on erittäin tärkeää, että huolehditaan siitä, että nämä tiedot eivät kulkeudu
+vääriin käsiin.
+
+14.56 Sinuhe Wallinheimo kok: Arvoisa puhemies! Mielestäni on hyvä, että tästä koko-
+naisuudesta täällä keskustellaan rakentavaan ja kehittävään sävyyn. 
+
+Monet edustajat ovat kuvanneet hyvin tietosuojan ja salassapidon vaikeuksia. Se, että
+suojaa on, on äärimmäisen tärkeää, mutta se ei saa vaikeuttaa olemassa olevaa tai kehitty-
+vää toimintaympäristöä, joten se on todella hankala yhtälö. Sama pätee mielestäni myös
+tietosuojavaltuutetun ja tietosuojalautakunnan työhön: kehitytäänkö teknologian myötä
+vai suojellaanko olemassa olevaa? Se on hyvä kysymys. Tähän oikeastaan voisi ottaa esi-
+merkin 90-luvulta, kun tietosuojavaltuutettu piti sitä erikoisena, että yhtäkkiä kännyköissä
+rupeaa näkymään vastaanottajan numero. Näin jälkeenpäin naureskelemme asialle, mutta
+silloin se oli äärimmäisen suuri kysymys.
+
+Samaa tendenssiä mielestäni näkyy nyt nykyisessäkin, olemassa olevassa teknologiake-
+hityksessä. Muun muassa positiivinen luottorekisteri, josta edustaja Skinnari täällä mainit-
+si, tuntuu olevan aikamoinen peikko tietosuojavaltuutetulle. Tämä nimenomaan olisi työ-
+kalu ylivelkaantumisen estämiseen, ja tämä toimii muun muassa Ruotsissa hyvin, joten
+miksi se ei toimisi myös Suomessa. 
+
+Oikeastaan kysymykseni ministerille olisi nyt tässä: poistaako tämä esitteillä oleva tie-
+tosuoja-asetus nyt näitä esteitä sekä teknologiselta kehitykseltä että aidon tiedon vaihdol-
+ta?
+
+14.58 Hannu Hoskonen kesk: Arvoisa puhemies! Tämä hallituksen esitys, joka tuo käy-
+täntöön meillä Euroopan unionin tietosuoja-asetuksen, on äärimmäisen tärkeä lakiesitys,
+koska tällähän me luomme ne raamit, joilla tietoja saa antaa toiselle viranomaiselle ja niin
+edelleen. Pitää muistaa, että yksityisen ihmisen tiedot on suojattu, että niitä ei saa levitellä
+pitkin tantereita kenelle tahansa vaan ne ovat suojattua tietoa kaikki. Mutta nyt äsken kuu-
+lemamme kaksi esimerkkiä ovat sellaisia ääriesimerkkejä tapauksista, joita ei saa sattua:
+pieni tyttö menetti henkensä sen takia, että viranomaisilla oli kyllä tietoja mutta ne eivät
+menneet koskaan oikeaan osoitteeseen, taikka väkivaltaisen oppilaan käytös, joka taval-
+laan haudattiin byrokratian rattaisiin, siinä viaton ihminen menetti henkensä. Kuten halli-
+tuksen esityksessä sanotaan tästä tietosuoja-asetuksesta, jota Euroopan unioni tässä vie
+käytäntöön, ”kansallista liikkumavaraa on mahdollista käyttää myös myöhemmin esimer-
+kiksi annettaessa erityislainsäädäntöä”. 
+12
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+Vaikka tämä EU-asetus onkin tietenkin sovellettavaa oikeutta sellaisenaan, niin kysyn-
+kin ministeri Häkkäseltä, kun hän on paikalla, millä tavalla oikeusministeriö nyt valvoo
+näitä asioita. Kun kuitenkaan me Euroopan kansakunnat emme tietenkään ole samanlaisia
+ja se, mikä Suomessa on perinnettä ja mahdollista, ei välttämättä tule kysymykseen esimer-
+kiksi Italiassa, niin miten tässä asiassa nyt aiotaan toimia, niin että tällaiset onnettomat ta-
+paukset, mitä tässäkin keskustelussa on moneen kertaan mainittu, pystyttäisiin estämään
+sillä, että viranomaisten välillä tieto liikkuisi — esimerkiksi väkivaltaisten henkilöiden
+kohdalla, sanotaan nyt vaikka tarinassa, joka johti, tässä koulutapauksessa, toisen ihmisen
+kuolemaan. Eikö tällaisia asioita pystytä todellakaan karsimaan? On aivan onnetonta, että
+meillä tässä maassa on valtava määrä tietoa ihmisistä, on tietokoneita, hienoja linkkiyhte-
+yksiä mutta siitä huolimatta tieto ei kulje ja tapahtuu tämmöisiä karmeita murhenäytelmiä.
+Onko näihin mahdollisuus tarttua tämmöisellä kansallisella sovelluksella?
+
+15.00 Maria Tolppanen sd (vastauspuheenvuoro): Arvoisa puhemies! Tässä kohdassa
+haluaisin muistuttaa kyllä siitä, että ei meillä yksityisen henkilön tietoja ole suojattu. Niitä
+saa suhteellisen helposti, ja se paikka, mistä niitä saa, on luottotietorekisteri. Sieltä tiedon
+saa vakuutusyhtiö, kauppias, pankinjohtaja tai muu luottolaitos. Niitä ei ole suojattu mil-
+lään tavalla. Myös viranomainen saa tietoonsa sen, onko henkilö luottotietorekisterissä vai
+ei. Ja jos meillä on yksi tällainen rekisteri, joka vuotaa siten, että se tekee ihmisen elämästä
+mahdotonta, tekee mahdotonta selvitä päivästä päivään eteenpäin, niin tässä kohdassa olisi
+hyvä, jos me voisimme kansallisella tasolla puuttua tähän asiaan. En tiedä, onko se mah-
+dollista, vai onko erikseen tehtävä laki siihen, mutta todellakin, tämä asia meidän on otet-
+tava esille, ja meidän on autettava ihmisiä myöskin takaisin yhteiskuntaan ja yhteiskunnal-
+liseen elämään.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen: Puhujalistaan.
+
+15.01 Olli-Poika Parviainen vihr: Arvoisa herra puhemies! Kiitos hyvästä keskustelusta
+kollegoille. Varmaankin tämän lainsäädännön voimaantulon myötä meillä menee jonkin
+aikaa tulkintaepäselvyyksien maailmassa ennen kuin oikeuskäytäntö vakiintuu ja saamme
+Suomeen yksiselitteisesti käytännöt siihen, miten nyt sitten toteutamme tätä uutta säännös-
+telyä. Esimerkiksi pääministeri Sipilä on esittänyt täällä eduskunnan salissa, että meidän
+omadataamme voisi olla hallinnoimassa jonkinlainen valtiollinen yhtiö, joka sitten huoleh-
+tisi myös siitä, että omadatan yhdistelyä esimerkiksi tutkimustietoon tai sen kaupalliseen
+käyttöön, kuten vaikkapa edustaja Räsänen viittasi, hoidettaisiin mahdollisimman järke-
+västi kansalaisten edun kannalta ja tietenkin myös valtion edun kannalta.
+
+Kiinnittäisin huomiota sellaiseen asiaan, että meillä on parhaillaan valmistelussa myös
+tiedustelulait, jotka puhuttavat hyvin paljon. Tiedustelulait kytkeytyvät tietenkin myös
+Tietosuojavaltuutetun toimistoon, jonka resursseja tässä tämänkin lakimuutoksen myötä
+vahvistetaan aika paljon. Kysyisin ministeriltä: Pidättekö te tällä hetkellä tätä resursointia,
+jota Tietosuojavaltuutetun toimistolle ollaan tämän lain myötä antamassa, riittävänä suh-
+teessa siihen, että tietosuojavaltuutetulle tulee todennäköisesti lähivuosina myös merkittä-
+viä uusia velvoitteita? Ja näettekö, että EU:n tietosuojalainsäädännössä on jotain sellaista,
+mitä meidän pitäisi erityisesti tiedustelulain näkökulmasta huomioida?
+13
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+15.02 Päivi Räsänen kd: Arvoisa puhemies! Minäkin haluaisin ministeriltä vielä kysyä
+tietosuojavaltuutetun uudesta toimenkuvasta. Toivon, että, ministeri, kommentoisitte EK:n
+kannanottoa, jossa he ovat huolestuneita yritysten oikeusturvasta ja kokevat ongelmallise-
+na sen, että enimmäismäärältään varsin ankarienkin sakkojen määräämisestä päättäisi tuo-
+mioistuimen sijaan yksi henkilö, tietosuojavaltuutettu. Sieltä johtaja Hannu Rautiainen on
+todennut näin, että Suomen oikeudenkäytössä on pääsääntöisesti katsottu, että tietosuoja-
+asetuksessa säädetyn kaltaisen, hyvin ankaran hallinnollisen sakon voi määrätä vain tuo-
+mioistuin. Vähintään on pyritty huolehtimaan, että päätöksen voi tehdä vain kollegiaalinen
+elin, kuten on Finanssivalvonnassa. Nythän tämä kollegiaalinen elin lakkautetaan ja tieto-
+suojavaltuutettu yksin näistä päättää. Miten kommentoitte tätä EK:n huolta?
+
+15.04 Arja Juvonen ps: Arvoisa herra puhemies! Piti edellisessä puheenvuorossani vielä
+nostaa esiin organisaatiot ja niiden valmistautuminen tähän tietosuoja-asetukseen. Eli ky-
+syisin ministeriltä vielä sitä, millä tavalla tähän tietosuoja-asetukseen valmistaudutaan
+Suomessa ja organisaatioissa ja tuleeko tarpeeksi tietoa. Täällä jo edustaja nosti esille
+muun muassa koulutuksen, sekin on erittäin hyvä asia. 
+
+Kysyn myös tietosuojavastaavan roolista: näettekö, että yhä useammassa organisaatios-
+sa ja työpaikoilla tulisi olla myös tietosuojavastaava, kuten siellä on myös luottamusmie-
+het ja työturvallisuudesta vastaavat henkilöt?
+
+Siten kysyn vielä näistä tietosuojarikkomuksista, tai millä nimellä niitä nyt kutsutaan-
+kaan, kun aina väärinkäytöksiäkin tapahtuu meidän yhteiskunnassa. Niitä tapahtuu tervey-
+denhuoltoalalla, myös esimerkiksi poliisissa on ollut joitakin kertoja näitä epäilyjä, että
+mennään tutkimaan tarpeettomasti toisen henkilön tietoja. Toki siinä on uteliaisuuskin ta-
+kana varsinkin terveydenhuollossa, hyvin epämukavia ja inhottavia tapauksia. Mitenkä
+nämä voitaisiin estää, ja onko teillä tietoa, kuinka paljon näitä Suomessa loppujen lopuksi
+tapahtuu? Luvatta tai aiheetta, jos ei ole syytä epäillä rikoksesta — tai terveydenhuollossa
+ei ole edes omaisesta, potilaasta tai asiakkaasta kysymys — tällaisiin tietoihin ei pitäisi olla
+pääsyä, tai sinne pitäisi jäädä niin suuri sormenjälki, että nämä tapaukset saadaan ilmi ja
+julki ja niistä myös mahdollisesti rikosoikeudelliseen vastuuseen.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Vielä edustaja Krista Kiuru, ja sen jäl-
+keen on ministerillä puheenvuoro.
+
+15.05 Krista Kiuru sd: Arvoisa puhemies! Tähän kokonaisuuteen liittyy erityisesti tällai-
+sessa tietointensiivisessä yhteiskunnassa se, millä tavalla myöskin monenlaisia toissijaisia
+tietoja voidaan yhteiskunnassa käyttää. Tällä hetkellä sosiaali- ja terveysvaliokunnassa on
+käsittelyssä terveystietojen toissijainen käyttö, joka tuli jo ennen kuin tämä teidän esityk-
+senne saapui eduskuntaan, ja näistä hankalista aikataulusyistä olemme jo käyneet tuon esi-
+tyksen kanssa myöskin perustuslakivaliokunnassa. Näyttäisi siltä, että esimerkiksi terveys-
+tietojen tai oikeastaan yhteiskunnan minkä tahansa toissijaisten tietojen käyttö riittävästi
+anonymisoidun tiedon tasolla voisi olla tieteellisen tiedon lisäksi mahdollisesti hyödynnet-
+tävissä esimerkiksi kehittämis- ja innovaatiotoiminnassa. Ongelma lienee se, että tämän
+päivän yhteiskunnassa enää yhä vähemmän on sellaista tietoa, joka voitaisiin anonymisoi-
+da, minkä perustuslakivaliokunta näyttää asettavan näissä tapauksissa ehdoksi. Ja kun näin
+on, niin kysymys liittyy siihen, miten, ministeri, te koette, millä tavalla tämä toissijaisen
+tiedon käyttö tulisi nyt huomioida, varsinkin tilanteessa, jossa tällainen anonymisointi tänä
+14
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+päivänä ei enää riitä siihen, että välttämättä tietosuoja taattaisiin, koska mahdollisuus big
+dataan ja isojen bottien käyttöön tiedonlouhinnassa voi antaa mahdollisuuden siihen, että
+anonymisoitu tieto ei tosiasiassa enää anonymisoitua ole. Siltä osin iso kysymykseni liit-
+tyy siihen, oletteko tietoinen siitä, että näitä toissijaisia tietoja olisi hyvä käyttää, ja mihin
+ne rajat asetetaan, niin kuin perustuslakivaliokunta on nyt sosiaali- ja terveysvaliokuntaa
+neuvonut tekemään.
+
+Ensimmäinen varapuhemies Mauri Pekkarinen:  Ministeri Häkkänen, josko 3 minuut-
+tia voisi riittää.
+
+15.08 Oikeusministeri Antti Häkkänen: Arvoisa puhemies! Kiitoksia hyvästä keskuste-
+lusta. Niin kuin tästäkin huomataan, ne näkökulmat, joita liittyy tietosuojaan, ovat hyvin
+monipuoliset. Tätä ei tule missään tapauksessa tarkastella aina vain yhdestä kulmasta, vaan
+tässä on hyvin paljon myös ihan perustuslaillisia oikeuksia ristikkäin, joita täytyy yhteen-
+sovittaa. Vielä kun tämä on EU-tason sääntelyä asetustasoisesti eli pääosa tästä on suoraan
+sovellettavaa oikeutta, jossa meillä ei ole tässä talossa harkinnanvaraa, niin se tekee tästä
+sääntelykokonaisuudesta entistä haasteellisemman. 
+
+Mutta samaan aikaan täytyy todeta se, että kun maailma muuttuu yhä enemmän riippu-
+vaiseksi tiedosta ja tiedonhallinnasta, niin palvelujen parantaminen, yritystoiminta, tule-
+vaisuuden työpaikat kuin myös sitten turvallisuus ja kansalaisten arjen liikkuvuus, palve-
+lujen saatavuus, muut kaikki liittyvät jatkossa yhä enemmän siihen — niin hyvässä kuin
+huonossakin — miten tieto liikkuu, miten sitä saa hyödyntää ja käyttää. Tämänkin takia
+tämä uudistuskokonaisuus, joka on nyt EU-tasolta pääosin suoraan sovellettavaa oikeutta
+ja jossa on ripauksen verran nyt meidän parlamenttimme kansallista harkinnanvaraa, on ää-
+rimmäisen suuri ja iso kysymys.
+
+Tämän takia korostan sitä, että tämä on vaikealukuinen kokonaisuus, jonka kanssa —
+kun sovelletaan vaikkapa yrityksissä tätä — yhdessä täytyy lukea samaan aikaan siis suo-
+raa EU:n tietosuoja-asetusta, jonka soveltamiskäytännöstä ja tulkintakäytännöstä viime kä-
+dessä linjaukset tekee EU-tuomioistuin. Siihen ei ole kansallisilla parlamenteilla käytän-
+nössä oikeutta ryhtyä sanomaan, että tuo epäselvä kohta tarkoittaa tuota tai tuota. Se liik-
+kumavara, joka meille taas on jätetty, on tässä lakipaketissa, ja se on täysimääräisesti käy-
+tetty hyväksi. 
+
+Lapsen ikärajassa oli liikkumavaraa myös, mutta halusin sen pudottaa 13 vuoteen sen ta-
+kia, että yhä useampi nuori kasvaa digitaaliseen ympäristöön ja haluaa osallistua yhteis-
+kuntaan, kaveripiireihinsä ja muihin käyttämällä hyväkseen digitaalisia palveluja. Tätä
+suosittivat myös Mannerheimin Lastensuojeluliitto, Lastensuojelun Keskusliitto ja muut
+lapsioikeudelliset järjestöt. 
+
+Tietojenvaihtokysymys: Siihen liittyy turvallisuuskysymys, joka on ministeriöitten sek-
+torilainsäädännössä ratkaistava. Tämä on yleislainsäädäntö, jossa ei ratkaista näitä tieto-
+jenvaihdon ongelmia. Painetta on näihin, ja tästä on käyty keskustelua nyt sosiaali- ja ter-
+veysministeriön ja sisäministeriön kanssa, että tässä on päästävä eteenpäin. Näitä Eerika-
+tapauksia ja monia muita ei jatkossa enää saisi tapahtua. 
+
+Viranomaisille sanktioita samalla tapaa kuin yksityiselle sektorille: tulevina vuosina
+täytyy katsoa, onko myös viranomaispuolelle säädettävä, mutta tällä hetkellä minä kat-
+soin, että viranomaisille ovat riittävät normaali lainnoudattamisvelvoite ja virkavastuuvel-
+voite näissä toimenpiteissä. 
+15
+
+
+
+Pöytäkirjan asiakohta PTK 17/2018 vp
+Positiivinen luottorekisteri: selvityshenkilöt on asetettu, ja alkukesästä saadaan selvitys
+valmiiksi, minkä johdosta on tarkoitus mahdollisimman nopeasti sitten edetä vielä tällä
+vaalikaudella jossain määrin.
+
+Seuraamusmaksuja, joita tietosuojavaltuutettu voi yrityksille asettaa: Tämä tulee suo-
+raan asetuksesta. Tässä ei ole kansallista harkinnanvaraa, mutta korostan sitä, että näitä
+seuraamusmaksuja jo nykyään voi Finanssivalvonta määrittää ja erilaiset muut viranomai-
+set eli meillä nykyään on jo sellaista käytäntöä, että voidaan antaa seuraamusmaksuja.
+
+Kyberosaamiseen panostaminen yleisesti, mitä edustaja Skinnari täällä painotti: siihen
+täytyy tulevina vuosina jättisatsauksia pistää Suomessa. — Kiitos. 
+
+Keskustelu päättyi.
+
+Asia lähetettiin hallintovaliokuntaan, jolle perustuslakivaliokunnan ja lakivaliokunnan on
+annettava lausunto.
+16
+
+
+	8
+	14.06
+	14.16
+	14.25
+	14.26
+	14.27
+	14.28
+	14.31
+	14.38
+	14.39
+	14.40
+	14.41
+	14.45
+	14.50
+	14.52
+	14.54
+	14.56
+	14.58
+	15.00
+	15.01
+	15.02
+	15.04
+	15.05
+	15.08
+
+

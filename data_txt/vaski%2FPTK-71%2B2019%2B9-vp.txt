@@ -1,0 +1,643 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM726F.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 71/2019 vp
+
+Täysistunto
+
+Keskiviikko 27.11.2019 klo 14.01—20.47
+
+9. Hallituksen esitys eduskunnalle työeläkelainsäädännön ja sairausvakuutuslain muutta-
+miseksi
+
+Hallituksen esitys HE 64/2019 vp
+Valiokunnan mietintö StVM 12/2019 vp
+
+Ensimmäinen käsittely
+
+Puhemies Matti Vanhanen: Ensimmäiseen käsittelyyn esitellään päiväjärjestyksen 9.
+asia. Käsittelyn pohjana on sosiaali- ja terveysvaliokunnan mietintö StVM 12/2019 vp. Nyt
+päätetään lakiehdotusten sisällöstä.
+
+Keskustelu
+
+15.06 Anu Vehviläinen kesk (esittelypuheenvuoro): Arvoisa puhemies! Sosiaali- ja ter-
+veysvaliokunnan mietintö 12/2019 valtiopäivät käsittelee hallituksen esitystä 64/2019 val-
+tiopäivät. Esityksessä ehdotetaan useita toisiinsa liittymättömiä työeläkelainsäädännön
+muutoksia, jotka täydentävät ja täsmentävät vuoden 2017 alusta voimaan tullutta työeläke-
+uudistukseen liittyvää lainsäädäntöä. Esityksessä ehdotetut muutokset liittyvät sairausva-
+kuutuslain työtulouudistukseen, viimeisen eläkelaitoksen määräytymiseen, työkyvyttö-
+myyseläkeratkaisun neuvottelumenettelyyn, työeläkevakuuttamisen laiminlyöntiin ja
+eläkkeeseen oikeuttaviin työansioihin, työeläkelakien mukaiseen takautumisoikeuteen rai-
+deliikennevastuulain mukaiselta toimijalta, terveydentilatietojen saamiseen eläkeasian kä-
+sittelyä varten sekä Eläketurvakeskuksen kustannusosuuksien määräytymiseen. Ehdotetut
+muutokset ovat pääosin toimeenpanoa selkeyttäviä.
+
+Esityksessä ehdotetaan muutettavaksi työeläkelakien säännöksiä siitä, miten oikeus
+eläkkeeseen lasketaan palkattomilta jaksoilta, joiden aikana henkilö on saanut sairaus- tai
+vanhempainpäivärahaa tai Kansaneläkelaitoksen maksamaa kuntoutusrahaa. Muutosten
+taustalla on vuoden 2020 alusta voimaan tuleva sairausvakuutuslain työtulouudistus. Sen
+myötä nykyinen työtulon käsite poistuu ja päivärahaetuus perustuu jatkossa hakijan vuosi-
+tuloon. Voimassa olevan työeläkelainsäädännön mukaan eläke karttuu sen työtulon perus-
+teella, joka on ollut päivärahaetuuden perusteena. Työtulouudistus vaikuttaa tulevan ajan
+eläkkeen perusteena oleviin tuloihin sekä siihen, miten eläkettä karttuu palkattomilta ajoil-
+ta. Esityksen mukaan oikeus eläkkeeseen näiden etuuksien ajalta lasketaan sairausvakuu-
+tuslain mukaisen vuositulon perusteella. Oikeus eläkkeeseen edellyttää, että vuosituloon
+sisältyy vähintään työntekijän eläkelain vakuuttamisvelvollisuuden alarajan verran palkka-
+tuloa tai yrittäjätuloa. Jotta muutos ei lisäisi työeläkemenoja, muutetaan samalla kertoi-
+mia, joiden avulla määritetään vuositulon painoarvo eläkkeen laskennassa. Työeläkelakei-
+hin tehtävät muutokset nostavat hieman keskimääräisiä eläkekarttumia pienimpiä päivära-
+ Tarkistettu
+3.1
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+hoja saavilla ja laskevat eläkekarttumia hieman suurempia päivärahoja saavilla nykylain
+mukaan laskettuun eläkekarttumaan verrattuna.
+
+Valiokunta pitää hyvänä, että työntekijän eläkelakiin ehdotetaan lisättäväksi säännös,
+jonka perusteella työntekijälle ei kartu eläkettä sellaisissa tilanteissa, joissa työnantaja on
+järjestelmällisesti laiminlyönyt velvollisuutensa ottaa työntekijälleen eläkevakuutus ja
+työntekijä on tiennyt laiminlyönnistä ja omalla toiminnallaan mahdollistanut laiminlyön-
+nin. Työntekijä on näissä tilanteissa myös itse välttänyt työntekijän työeläkevakuutusmak-
+sun maksamisen. Säännöksen tavoitteena on torjua harmaata taloutta.
+
+Työntekijän eläkelakeja ehdotetaan muutettavaksi siten, että osakkaalle maksettava työ-
+panokseen perustuva osinko luetaan vuodesta 2021 lähtien eläkkeen perusteena olevaan
+työansioon. Säännös tuo eläkkeen perusteeksi sellaisen osakeyhtiön ja osuuskunnan osak-
+keille tai osuuksille jakaman osingon ja ylijäämän, johon sovelletaan tuloverolain säännök-
+siä. Muun kuin osakkaan työpanokseen perustuva osinko katsotaan jo nykyisinkin työnte-
+kijän eläkelakia sovellettaessa sen henkilön eläkkeen perusteena olevaksi työansioksi, jon-
+ka työpanoksesta on kysymys. Vastaava muutos ehdotetaan tehtäväksi myös sairausvakuu-
+tuslakiin.
+
+Valiokunta pitää ehdotettua muutosta perusteltuna. Muutoksen jälkeen työpanososinko-
+ja käsiteltäisiin nykyistä yhdenmukaisemmin, koska niitä kohdeltaisiin samalla tavalla ve-
+rotuksessa sekä työeläkelainsäädännön ja sairausvakuutuslain soveltamisessa. Valiokunta
+toteaa, että työeläkelakien mukaan vakuutetaan työntekoa ja työstä saatu ansiota. Lähtö-
+kohtaisesti kaikki työnteon perusteella maksettavat vastikkeet otetaan eläkkeen perusteena
+huomioon. Työpanososinko perustuu työntekoon, eli se on työstä maksettavaan vastikkee-
+seen verrattava suoritus, joka maksetaan osingon muodossa. Valiokunta katsoo, ettei ole
+perusteita sille, että tietty yksittäinen työntekoon perustuva suoritus jää työeläkevakuutta-
+misen ulkopuolelle.
+
+Hallituksen esityksen vaikutusarviointien mukaan työpanokseen perustuvien osinkojen
+katsominen vastikkeeksi työstä ja lukeminen mukaan eläkkeen perusteena olevaan työan-
+sioon laajentaa työeläkelakien piiriin kuuluvien suoritusten alaa nykyisestä ja kasvattaa va-
+kuutettavaa palkkasumma.
+
+Valiokunta korostaa, että työntekijän eläkelakeihin ehdotettu säännös työpanososingon
+lukemisesta eläkkeen perusteena olevaan työansioon koskee vain henkilöitä, jotka kuulu-
+vat kyseisten lakien soveltamisalaan. Yrittäjän eläkelain soveltamisalan piirissä olevalle
+yrittäjälle maksettu työpanokseen perustuva osinko ei ole jatkossakaan työntekijän eläke-
+lain mukaista ansiota. Yrittäjällä tarkoitetaan YELin mukaan henkilöä, joka tekee ansio-
+työtä olematta työsuhteessa tai virka- tai muussa julkisoikeudellisessa suhteessa. Työelä-
+kelainsäädännön näkökulmasta henkilö tekee aina työtä joko yrittäjänä tai palkansaajana.
+Ehdotetuilla muutoksilla ei ole vaikutusta YELin soveltamisalaan kuuluvalle yrittäjälle
+maksettavan työpanososinkoon.
+
+Valiokunta pitää tarkoituksenmukaisena, että esityksessä ehdotetaan täsmennettäväksi
+työeläkelakien säännöksiä, jotka koskevat eläkelaitoksen oikeutta saada terveydentilaa
+koskevia tietoja eläkeasian ratkaisemista varten. Pääsääntönä on kuitenkin jatkossakin, että
+hakija toimittaa ensisijaisesti itse terveydentilaansa koskevat tiedot. Työeläkelakeihin eh-
+dotetaan myös lisättäväksi säännökset tietojen luovuttamisesta eläkelaitoksen ja raidelii-
+kennevastuulain mukaisen korvausvelvollisen välillä.
+
+Esityksessä ehdotetaan myös täsmennettäväksi työeläkelakien säännöksiä eläkkeen ha-
+kemisesta siten, että eläkettä on haettava eläkelaitokselta hakemuksella, jossa on Eläketur-
+2
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+vakeskuksen vahvistama eläkeasian ratkaisemisen kannalta tarvittava tietosisältö. Valio-
+kunta toteaa, että jos eläkehakemuksissa on tarkoitus ilmoittaa tietoja, joiden voidaan kat-
+soa olevan perustuslakivaliokunnan tarkoittamalla tavalla arkaluonteisia, on perustuslaki-
+valiokunta kiinnittänyt erityistä huomiota siihen, että arkaluonteisten tietojen käsittely on
+syytä rajata täsmällisillä ja tarkkarajaisilla säännöksillä vain välttämättömään.
+
+Valiokunta ehdottaa, että 1. lakiehdotuksen 101 §:ää, 2. lakiehdotuksen 91 §:ää, 3. la-
+kiehdotuksen 86 §:ää, 4. lakiehdotuksen 103 §:ää ja 5. lakiehdotuksen 106 §:ää muutetaan
+niin, että hakemuksen tietosisältö rajataan eläkehakemuksen ratkaisemisen kannalta vält-
+tämättömiin tietoihin. Valiokunnan mietintö on yksimielinen.
+
+15.13 Kimmo Kiljunen sd: Arvoisa puhemies! Sosiaali- ja terveysvaliokunnan puheen-
+johtaja edustaja Vehviläinen kattavasti esitteli sekä tämän hallituksen esityksen että myös-
+kin valiokunnan kannan koskien näitä työeläkelakien yksityiskohtia. 
+
+Arvoisa puhemies! Minulla ei ole suoranaista huomautettavaa itse näihin yksityiskoh-
+tiin. Yhdyn myöskin omalta puoleltani noihin valiokunnan kannanmuodostuksiin.
+
+Sen sijaan voin varmaan ilahtuneena todeta sen, että nyt valiokunnalla on mahdollisuus
+ja aikaa tarttua toiseen kysymykseen, josta on myöskin lakialoite olemassa siellä valiokun-
+nan pöydällä: kymmenen kansanedustajan allekirjoittama lakialoite koskien työeläkein-
+deksien muuttamista. Tässä suhteessa haluaisin todeta sen seikan, kun käsittelemme työ-
+eläkejärjestelmää, eli sitä, mistä edustaja Vehviläinen juuri esitteli valiokunnan kannan,
+että työeläke on Suomessa — ja se täytyy nyt tunnistaa — ainoa lakisääteinen vanhuuselä-
+ke. Meillä usein on harhainen keskustelu, kun me täällä salissa käymme keskustelua, nyt-
+kin esimerkiksi kansaneläkkeen ja takuueläkkeen korottamisesta ja nostamisesta. Siihen
+on paine, se täytyy tehdä, hienoa, se on hallitusohjelmassakin ja myöskin näissä budjetti-
+esityksissä mukana, mutta kansaneläke ja takuueläke eivät ole vanhuuseläkkeitä Suomes-
+sa vaan perusturvaa. 80 prosenttia täyttä kansaneläkettä saavista ihmisistä on alle 65-vuo-
+tiaita. 98 prosenttia yli 65-vuotiaista suomalaisista saa työeläkettä — se on siis se lakisää-
+teinen vanhuuseläke.
+
+Arvoisa puhemies! Olen iloinen, että valiokunta tulee toivottavasti ottamaan tämän la-
+kialoitteen käsittelyyn, mutta ongelma on siinä se, että eläkkeensaajat, eli yli 65-vuotiaat
+ihmiset, ovat Suomessa ainoa tulonsaajaryhmä, siis ainoa tulonsaajaryhmä, jonka tulotaso
+lakisääteisesti laskee suhteessa mediaanituloon ja joka köyhtyy. Tästä kiitos vuonna 95 hy-
+väksytylle taitetulle indeksille. Siinä suhteessa toivon, että valiokunta paneutuu tähän
+asiaan huolella. 
+
+Siinä lakialoitteessa on ehdotus puoliväli-indeksistä, ja sen toteuttamisesta kymmenen
+vuoden määräajalla. Kymmenen vuoden päästä sen hintavaikutus meidän eläkejärjestel-
+määmme on 1 miljardi euroa Eläketurvakeskuksen laskelmien mukaan. Niistä me näemme
+sen, että se itse asiassa ei olennaisesti vaikuta niihin kertymiin, miten eläkerahastot kasva-
+vat. Ne kasvavat keskimäärin 8 miljardia euroa vuodessa, ovat sen tehneet 25 vuotta, eli
+siinä mielessä kasvu olisi 7 miljardia. 
+
+Meillä on voimavaroja auttaa näitä työeläkeläisiä, lopettaa tämä kierre, missä he ovat, eli
+se, että heidän tulotasonsa lakisääteisesti laskee. Toivon, että sosiaali- ja terveysvaliokunta
+pääsee nyt paneutumaan tähän kulmaan työeläkejärjestelmässämme.
+
+15.16 Timo Heinonen kok: Arvoisa herra puhemies! Itse esitys on laajasti kannatettu,
+niin kuin valiokunnan puheenjohtaja esitteli sen tuossa edellä. Mutta kun edustaja Kilju-
+3
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+nen laajensi tätä kaiken kaikkiaan nyt koskemaan työeläkettä saavia eläkeläisiä, niin tietys-
+ti ei voi olla palaamatta siihen vapun puheeseen, jossa nykyinen pääministeri Rinne lupasi
+ihan jokaiselle suomalaiselle, alle 1 400 euroa eläkettä saavalle 100 euroa puhtaana kä-
+teen. Ja aika moni eläkeläinen muuten uskoi tämän lupauksen ja meni vielä äänestämään
+sosiaalidemokraatteja ja takaamaan sen, että Rinteestä tuli pääministeri. Mutta kuinkas sit-
+ten kävikään? Rinteen hallitus on antamassa eläkeläisille kymppejä, jos sitäkään.
+
+Kokoomus kannattaa takuueläkkeen korotuksen jatkamista, niin kuin teimme viime
+kaudellakin keskustan kanssa hallituksessa, useamman kerran korotimme takuueläkettä. Ja
+on oikein, että sitä korotetaan myös tällä hallituskaudella. Ja kansaneläkkeeseen tehdään
+nyt pieni 34 euron korotus. Mutta ne ovat toki, puhemies, kaukana siitä Rinteen lupaamas-
+ta 100 eurosta.
+
+Meillä on sitten näiden eläkkeiden, isompaa eläkettä saavia, eli näitä 1 000:n ja 1 400
+euron eläkettä saavia, Suomessa kaiken kaikkiaan noin 400 000. Ja heistä osa saa vielä
+häntiä tästä korotuksesta, mutta ne ovat enää euroja, eivät kymmeniä, eivätkä lähelläkään
+sataa euroa. Ja sitten tulemme tähän ryhmään, joka on 1 300—1 400 euroa eläkettä saavat,
+joille Rinne siis lupasi myös tuon 100 euroa rahaa. He eivät, arvoisa puhemies, saa tuosta
+luvatusta vappusatasesta, ei euron euroa, ei sentin senttiä, ja näitä petettyjä eläkeläisiä on
+90 000, liki 90 000. Ja ymmärrän heidän pettymyksensä tähän tilanteeseen. 
+
+Ja nyt sitten pääministeri Rinne on vielä esittänyt, että voisi leikata muiden eläkkeensaa-
+jien eläkkeitä korjatakseen tätä hänen, tai täyttääkseen tätä hänen vappulupaustaan, että
+työeläkejärjestelmän sisältä irrotettaisiin jopa 300 miljoonaa. Ei siellä ole sellaista rahaa,
+sen ovat todenneet monet asiantuntijat. Ei itse asiassa yhtään asiantuntijaa ole löytynyt,
+joka olisi tullut sanomaan, että kyllä sieltä voidaan tällainen raha irrottaa pääministeri Rin-
+teen vaalilupauksen rahoittamiseen. Ei muuten ole, ja jos se sieltä irrotetaan, niin se tar-
+koittaa meidän lapsillemme ja tällä hetkellä työssä oleville huonompia eläkkeitä ja he jou-
+tuvat maksajiksi. Toivon siis jatkossa [Puhemies koputtaa] vastuullisuutta näissä vaalipu-
+heissakin. 
+
+Puhemies Matti Vanhanen: Edellisessä puheenvuorossa sentään puhuttiin aluksi tästä
+nyt käsittelyssä olevasta asiasta. Äskeisessä [Timo Heinonen: Minäkin aloitin!] ei puhuttu
+lainkaan. Olen pitkämielinen, ymmärrän tarpeen keskustella laajemmin eläkepolitiikasta,
+mutta hillitkää itseänne. 
+
+15.20 Kimmo Kiljunen sd: Arvoisa puhemies! Kuten totesin, edustaja Vehviläisen esitte-
+lemä asia koskien työeläkejärjestelmän detaljiuudistuksia on hyvä, ja kannatan sitä vahvas-
+ti. 
+
+Mutta edustaja Heinosen puheenvuoro oli kiintoisa, ja olen todella ilahtunut, että edus-
+taja Heinonen on ottanut vakavasti tämän vappusatasasian, kutsutte sitä vappusataseksi.
+Kysymys oli siis 100 euron korotuksista alle 1 400 euron eläkkeisiin. Hienoa, että te kan-
+natatte sitä, olette sen takana vakavasti. Ja hienoa, että te myöskin ymmärrätte sen ongel-
+man, mikä tässä on, että kansaneläkkeen ja takuueläkkeen korotuksilla ei koskaan saavu-
+teta sitä 100 euron tavoitetta. [Timo Heinonen: Se luvattiin!] Teidän kannattaa nyt lukea
+huolella hallitusohjelmaa.
+
+Hallitusohjelmassa on myöskin kirjaus, että pienimpiin työeläkkeisiin käydään keskus-
+telu kolmikannassa, että työeläkejärjestelmästä, eli eläkejärjestelmästä — siitä, mistä me
+juuri nyt puhumme, mistä nämäkin rahat maksetaan, mitä valiokunnan puheenjohtaja äs-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+ken esitteli — siitä järjestelmästä joudutaan ottamaan, ja pitääkin ottaa, rahaa näihin pie-
+nimpiin eläkkeisiin. Pitääkin ottaa automaattisesti. Ne rahat on kerätty Suomen lakien mu-
+kaan, tietysti vuodesta 95 asti, erittäin kiihtyvästi eläkkeisiin. Ne ovat eläkevarantoa, ne
+ovat ne rahat, joita käytetään eläkkeisiin. Miksi me säilömme tämmöisen kultamunan jon-
+nekin ulkomaille? Valtaosa rahoista, 211 miljardia, on siirretty ulkomaille — käytännössä
+lähes 80 prosenttia, 75 prosenttia, siirretty ulkomaille. Kuivatetaan Suomen kansantalous
+näihin rahastoihin, kun me voisimme hieman ottaa niistä eläkkeisiin.
+
+Te sanoitte, että 300 miljoonaa — mikä tässä Rinteen viimeisimmässä esityksessä on
+muka hintalappu sille, että ne naiset, jotka eivät pystyneet hyötymään perhevapaista ennen
+2005 vuotta, että sitä voitaisi hieman subventoida — te sanotte, että tätä rahaa ei ole ole-
+massa. Pelkät asiakashyvitykset eläkeyhtiöistä — jotka Finanssivalvonnan mukaan itse
+asiassa, ei nyt laitonta toimintaa, mutta eivät vastaa sitä tarkoitusta, mikä eläkerahoilla on
+— ovat 200-300 miljoonaa euroa joka vuosi. Te sanotte, että ei ole euron euroa rahaa siel-
+lä. 1,4 miljardia euroa käytetään parhaillaan joka vuosi sijoitusrahastoihin, kun tämä voi-
+taisi käyttää suoraan indeksirahastoon, ei tarvitse sijoitusneuvontaa ollenkaan. Tuhlataan
+eläkerahoja 1,4 miljardia. Hallintokulut meidän eläkejärjestelmässä ovat 500 miljoonaa
+euroa tarpeetonta. Maailmassa ei ole kuin yksi ainoa maa, jossa on useita lakisääteistä teh-
+tävää hoitavia työeläkerahastoja. Tämä on tuhlaava järjestelmä, enkä puhu johdon palkki-
+oista tässä yhteydessä ollenkaan, senkin te tiedätte. Järjestelmä on tuhlaava, ja siinä on val-
+tavat voimavarat, jossa eläkkeensaajien rahoja eli eläkerahoja käytetään hukkaan. Puhu-
+mattakaan se olennaisin seikka: nämä rahastot ovat kasvaneet 36 miljardista eurosta vuon-
+na 95 tämän vuoden 211 miljardiin euroon. Ne jatkavat räjähdysmäistä kasvuaan, kuiva-
+tamme kansantalouden ulkomaille. Parasta, halvinta ja elvyttävää politiikkaa, edustaja
+Heinonen, on eläkkeiden nosto. Kiitos, että te kannatatte sitä.
+
+15.23 Arja Juvonen ps: Arvoisa herra puhemies! Sosiaali- ja terveysvaliokunnan pu-
+heenjohtaja Vehviläinen esitteli hyvin tämän meidän valiokuntamme mietinnön. Tässä esi-
+tyksessähän ehdotetaan muutettavaksi työntekijän eläkelakia, yrittäjän eläkelakia, maata-
+lousyrittäjän eläkelakia, merimieseläkelakia, julkisten alojen eläkelakia, Eläketurvakes-
+kuksesta annettua lakia, työeläkeasioiden muutoksenhakulautakunnasta annettua lakia ja
+sairausvakuutuslakia. Muun muassa työeläkelakeihin ehdotetaan tehtäväksi vuoden 2017
+eläkeuudistukseen liittyviä teknisluonteisia täsmennyksiä. Täällä aloitettiin hyvä keskuste-
+lu ylipäänsä eläkkeistä ja pieneläkeläisten asemasta, ja kyllä perussuomalaiset myös muis-
+tuttavat tästä Rinteen vappusatasesta. [Kimmo Kiljunen: Hienoa!] Me toivomme todella-
+kin, että te käynnistätte tämän teidän hallituskirjauksenne mukaisen työn pieniin työeläk-
+keisiin puuttumisesta ja katsomisesta — nythän te ette anna mitään alle 1 400 euron eläk-
+keille — ja että nämä korotukset, mitä kansaneläkkeeseen ja takuueläkkeeseen tulee, kos-
+kettavat 1 200—1 300 euron eläkkeitä.
+
+Mutta tähän edustaja Kiljusen kertomaan lakialoitteeseen — olette tehnyt eläkkeisiin
+liittyvän lakialoitteen, ja jos oikein kuulin, 10 allekirjoitusta [Kimmo Kiljunen: Kyllä!] sii-
+nä on. On hieno asia, että kansanedustajat tekevät täällä lakialoitteita. Toivoitte, että se ote-
+taan sosiaali- ja terveysvaliokuntaan. Olisi toivottavaa ja hieno asia, jos lakialoitteeseen
+saisi aina sen yli 100 kansanedustajan allekirjoitusta, koska silloin lakialoite lähtee minis-
+teriöön lausunnolle ja ministeriö antaa myös siihen kantansa. Eli näitä vähemmän allekir-
+joitettuja lakialoitteita harvemmin sellaisinaan siellä valiokunnassa käsitellään — tai toki
+niitä voi sitten tuoda ja vaikkapa äänestyksen kautta yrittää saada sinne. Minun mielestäni
+5
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+lakialoitteet tulisi käsitellä. Nythän meillä on tilanne, että esimerkiksi kansalaisaloitteet
+pääsevät pääsääntöisesti aina valiokuntien käsittelyyn, ja taitavat päästäkin kaikki, mutta
+kansanedustajan lakialoite ei välttämättä saa sitä käsittelyä ennen kuin siinä on se yli 100
+kansanedustajan allekirjoitus. Toki se on iso työ saada, ja saada enemmistö aloitteen kan-
+nalle, mutta silloin, kun on aihe hyvä, yleensä kansanedustajat myös sen täällä allekirjoit-
+tavat, tai kuka sitten mistäkin tahdosta.
+
+Mutta eläkeläisten asia on meille kaikille yhteinen, ja on tärkeää, että me katsomme puo-
+lueesta riippumatta pieneläkeläisten etua. Erityisesti haluan nostaa esiin kyllä ne pienitu-
+loiset, pientä työeläkettä saavat naiset, ikääntyneet ihmiset, ja sen tilanteen, mikä siellä ko-
+dissa on, jos esimerkiksi puoliso kuolee ja tulee tilanne, että ykskaks onkin leski tai että
+puoliso joutuu vaikkapa hoivakotiin hoidettavaksi, jolloin hän ei ole enää siellä kotona ar-
+jen toimeentuloa avustamassa vaan että kaikki hänen eläkkeensä menee omaan hoivamak-
+suun. Silloin pienituloinen eläkeläisnainen on todella isossa pulassa.
+
+15.26 Anu Vehviläinen kesk: Arvoisa puheenjohtaja! Esittelin tuon mietinnön äsken erit-
+täin tarkasti myös sen takia, että silloin, kun tämä asia oli lähetekeskustelussa, täällä minis-
+teri Pekonen sai moitteita siitä, että hän ei ollut esittelemässä tätä asiaa ja käytiin vähän —
+voisinko sanoa — pikkuisen ehkä sekavahkokin keskustelu, että mistä tässä asiassa on ky-
+symys. Niin sanon sen, että siksi niin perusteellisesti äsken sen tein.
+
+Mutta sitten menen kahteen kohtaan vielä, jos puhemies sallii. Ensinnäkin totean, että
+täällä on tänä syksynä todellakin sosiaali- ja terveysvaliokunta käsitellyt tämän takuu- ja
+kansaneläkkeiden nostamisen ja se koskettaa eläkkeitä sinne aina 1 300 euroon asti. 
+
+Kuten hyvin eläkeasioista perillä oleva edustaja Kiljunen toi esille, meillä todellakin on
+kaksi erillistä järjestelmää tai oikeastaan kolme: kansaneläkejärjestelmä, takuueläkejärjes-
+telmä ja työeläkkeet. Ja kysymys on se, että miten me pystyisimme katsomaan myös niitä
+pienimpiä työeläkkeitä. Koska me hyvin ymmärrämme sen, että myös ne ovat pieniä. On
+niin kohtuuttomia maksuja myös, palveluitten osalta varsinkin, jos on paljon sairastava.
+Sen takia ainakin henkilökohtaisesti ja me keskustassa ymmärrämme tämän keskustelun
+myös näitten pienten työeläkkeitten osalta.
+
+Haluan myös todeta sen, että hallitusohjelmaan on tehty kyllä hyvin selkeä kirjaus, ja jos
+sopii, niin siteeraan sitä nopeasti tässä. Eli siellä lukee näin: ”Käynnistetään kolmikantai-
+nen selvitys siitä, miten työeläkejärjestelmän sisällä voitaisiin parantaa pienimmillä työ-
+eläkkeillä olevien asemaa. Osana tätä selvitystä selvitetään keinoja, joiden avulla voitai-
+siin nostaa alle 1 400 euron työeläkkeitä nettomääräisesti 100 eurolla työeläkemaksuja
+nostamatta.” Nyt haluan keskustan kantana tuoda esille, että minusta olisi hyvä, kun tässä
+on käyty myös julkisesti aika ristiriitaista keskustelua tästä tematiikasta, että tämä selvitys
+tehtäisiin aika tavalla nopeasti, jotta me tietäisimme, onko tämä mahdollista vai eikö tämä
+ole mahdollista.
+
+Sitten haluan todeta myös sen, että totta kai hallituksella itsellään on myös keinoja, joil-
+la voidaan näitten pieneläkeläisten, työeläkeläistenkin tilannetta helpottaa. Otan tässä jäl-
+leen esille tämän asiakasmaksulain, joka on monenkin hallituksen osalta jäänyt antamatta.
+Se olisi minusta semmoinen konkreettinen teko, joka pitäisi tänne äkkiä saada ja jolla koh-
+tuullistettaisiin näitä asiakasmaksuja. Muutakin voidaan tehdä, mutta sen otan tässä esi-
+merkkinä.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+15.28 Vilhelm Junnila ps: Arvoisa herra puhemies! Arvostamani edustaja Kiljunen tun-
+tee eläkejärjestelmän todella hyvin ja välillä on hyvinkin syvällisesti perehtynyt siihen.
+Hän saattaa olla jopa puolueensa johtavia eläkeasiantuntijoita. [Kimmo Kiljunen: Kaksi
+kirjaa olen kirjoittanut asiasta!] Siinä mielessä edustaja Heinosenkin on välillä ehkä syytä
+kuunnella edustaja Kiljusta. 
+
+Esimerkiksi äsken edustaja Kiljunen totesi tästä vappusatasesta, että sitä ei ole mahdol-
+listakaan toteuttaa, että sitä ei olekaan tulossa. Ihmettelen siinä mielessä, että kun katso-
+taan tätä teidän sosiaalidemokraattista korporatiivista puolueapparaattia, niin se vaaleissa
+lupasi, että vappusatanen tulee, ja ihmiset uskoivat tähän. Minä uskon Kimmo Kiljuseen,
+kun hän tuossa totesi, että sitä ei nyt olekaan tulossa. Haluaisin tähän selvityksen, että mis-
+tä se sitten kiikastaa: Miksi tätä vappusatasta ei anneta, miksi ihmisten luottamus tältä osin
+petetään? Haluaisin tästä semmoisen pitkällisen selvityksen ja uskon edustaja Kiljusen am-
+mattitaitoon tässä asiassa. [Kimmo Kiljunen: Kiitokset!] Hän varmasti pystyy kyllä kuvaa-
+maan omalta kantiltaan tämän. Miksi sosiaalidemokraattinen puolue ei tätä asiaa aja? Onko
+eläkeläiset unohdettu? Onko ne ihmiset unohdettu, ketkä luottivat teihin hyvin vahvasti
+viime eduskuntavaaleissa? Tämä vappusatanen oli kuitenkin aivan keskeinen osa teidän
+vaaliohjelmaanne. Nyt sitä ei ole tulossa, kuten edustaja Kiljunen sanoi.
+
+Puhemies Matti Vanhanen: Kun keskustelu menee koko ajan ohi tämän käsittelyssä ole-
+van asian, niin toivon, että selvitykset eivät ole pitkällisiä.
+
+15.30 Timo Heinonen kok: Arvoisa puhemies! Pidän tätä puheenjohtaja Vehviläisen
+esittelyä hyvänä, mutta kun tässä nyt on keskusteltu hivenen laajemminkin nimenomaan
+näistä pienistä työeläkkeistä ja niissä olevista ongelmista, niin olen vakuuttunut siitä, että
+edustaja Kiljunen olisi ne jo hoitanut. Tuntuu, että edustaja Kiljunen on väärässä puoluees-
+sa, kun hänen puolueensa ei näytä näitä korotuksia kannattavan, niin kuin viime kaudella
+näimme. Kun tuo taitettu indeksi oli käsittelyssä eduskunnassa, niin eivät sosiaalidemo-
+kraatit sitä silloin kannattaneet. Mutta minä olen vakuuttunut siitä, että jos edustaja Kilju-
+nen saisi päättää, niin meillä olisi nämä pienet työeläkkeet parempia. 
+
+Me olemme myös huolissamme siitä, että meillä on hyvin pienellä toimeentulevia elä-
+keläisiä, ja nimenomaan nämä työeläkkeet naisten kohdalla, niissä vaiheissa, kun meillä oli
+naisia, jotka eivät sen aikaisessa järjestelmässä vanhempainvapaalla eläkettä kerryttäneet,
+ovat nyt poikkeuksellisen heikossa tilanteessa.
+
+Järjestelmän sisältä on kyllä vaikea sitä rahaa ottaa, ja vaikka edustaja Kiljunen toi esil-
+le, että hallitus sen sieltä vähän niin kuin vaikka mahtikäskyllä tulee ottamaan, niin kyllä
+tästä tämän järjestelmän asiantuntijat ovat ilmaisseet huolensa, että silloin avattaisiin se
+järjestelmä myös tulevien Rinteen tyyppisten lupausten rahoittamiseen, ja silloin maksaja-
+na olisivat kyllä tämän päivän nuoret ja tämän päivän työntekijät. Ja kun meidän eläkejär-
+jestelmämme on kuitenkin perustunut sukupolvien väliseen luottamukseen ja tasa-arvoon
+ja siihen, että se, mikä on tienattu eläkkeelle, niin se myös myöhemmin saadaan, niin tämä
+vaarantuisi.
+
+Vasemmistoliiton entinen puheenjohtaja, Työeläkevakuuttajien Suvi-Anne Siimes on
+muun muassa todennut, että ei tämä Rinteen mallilla tule onnistumaan. Sen takia itse kyllä
+olisin mieluumminkin nähnyt, kun olen ymmärtänyt, että Rinne on tämän ehkä Saksan so-
+siaalidemokraateilta yrittänyt kopioida, että hän olisi sitten ollut uskollinen sille [Vilhelm
+Junnilan välihuuto] Saksan sosiaalidemokraattien mallille. Saksan hallituksessahan sosiaa-
+7
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+lidemokraatit lähtivät siitä, että pitkän työuran tehneille pienipalkkaisille naisille pitää pys-
+tyä tarjoamaan korkeampi eläke kuin niille, jotka eivät ole olleet töissä. Mutta Saksassa,
+edustaja Kiljunen, sosiaalidemokraatit tekivät tämän niin, että rahoitus otettiin suoraan val-
+tion varoista, ei siis eläkejärjestelmän sisältä tai sieltä perittävistä maksuista. Ja kun Rinne
+on nyt sanonut, että rahaa on, niin nyt on tietysti kysymys, että onko näille pienintä työelä-
+kettä saaville naisille ja miehille sitä rahaa olemassa ja tuleeko tätä esitystä eduskuntaan. Ja
+yksi, kun tässä näitä esimerkkejä on nostettu myös aiemmin esille, [Puhemies koputtaa] on
+esimerkiksi tämä kotitalousvähennyksen leikkaus, joka tulee vaikeuttamaan entisestään
+meidän eläkeläisten tilannetta.
+
+15.34 Kimmo Kiljunen sd: Arvoisa puhemies! Edustaja Vehviläinen valitettavasti pois-
+tui tästä, nimittäin edustaja Juvosen huomio siitä, että 100 allekirjoitusta lakialoitteessa
+johtaa valiokunnassa asian käsittelyyn, on tietysti faktuaalisesti totta, mutta valiokunnan
+puheenjohtaja oli tässä paikalla, niin myöskin hänen aloitteestaan lakialoite voidaan ottaa
+käsittelyyn, jos se halutaan, vaikka siinä on vähemmän allekirjoituksia kuin se 100. Vali-
+tettavasti hän ei ole nyt tässä paikalla reagoimassa.
+
+Minun täytyy ihailla edustajien Junnila ja Heinonen retorista kyvykkyyttä. Harvinaisen
+lahjakkaita kansanedustajia — puhemieskin on varmasti huomannut heidän taitavuutensa.
+Erityisen taidokasta retorista valmiutta osoittaa se, että ylistämällä alistetaan. Edustaja Jun-
+nila oli taidokas tässä asiassa. Ihailen sitä. Minä sanoin, että se teidän kutsumanne vappu-
+satanen on mahdotonta toteuttaa, [Vilhelm Junnila: Te sanoitte!] mutta te ette kuunnellut,
+mitä minä sanoin perään. Se on mahdotonta toteuttaa kansaneläkettä ja takuueläkettä ko-
+rottamalla, [Timo Heinonen: Miksei Saksan mallilla?] ja sen takia juuri hallitusohjelmassa
+on myöskin se kohta, minkä edustaja Vehviläinen täällä siteerasi, että eläkejärjestelmästä
+tietenkin otetaan se raha, joka tarvitaan näihin pienimpiin työeläkkeisiin. [Vilhelm Junni-
+la: Milloin?] — Sehän neuvotellaan kolmikannassa ja ne käynnistetään ne neuvottelut. —
+Edustaja Heinonen kuitenkin kommentoi tätä sanomalla, että tämähän on ryöstö, että nyt
+ruvetaan ryöstämään toisilta eläkkeensaajilta toisille eläkkeensaajille. [Timo Heinonen:
+Onko se oikein?] Eli työeläkerahastoista otetaan rahaa, eli työeläkeläisiltä ryöstetään kan-
+saneläkkeisiin, näihin pienimpiin eläkkeisiin. Arvoisa edustaja Heinonen, kysymys on siis
+1 000—1 400 euroa saavista eläkkeensaajista. Joka ikinen 1 000—1 400 euroa saava elä-
+keläinen on työeläkeläinen. Ei kukaan ryöstä keneltäkään. [Timo Heinonen: Toisilta työ-
+eläkeläisiltä!] Siinä vain oikaistaan sitä, että nyt hitunen työeläkevarojen kasvusta otetaan
+tähän tarkoitukseen.
+
+Te totesitte myöskin selvästi, että järjestelmän asiantuntijat selkeästi ilmaisevat, että ra-
+haa ei ole. Ei olekaan siitä lähtökohdasta, että he pyrkivät maksimoimaan eläkerahastojen
+koon. Suomen rahastojen koonhan piti alun pitäen, kun se perustettiin, olla kahden vuoden
+eläkemenojen verran. Se on noin 60 miljardia euroa. Se oli Teivo Pentikäisen suunnitelma
+alun pitäen, kun eläkejärjestelmä luotiin 60-luvulla, ja sitten 90-luvulla vielä vahvistettiin
+tämä. Teivo Pentikäinen suhtautui kriittisesti taitetun indeksin ottamiseen, hän oli palk-
+kaindeksin kannalla — se henkilö, joka on koko järjestelmän perustanut. Ja tässä suhteessa
+60 miljardia on riittävä. Meillä on ylirahastoiva järjestelmä, ja eläkeyhtiöt kasvattavat itse-
+tarkoituksellisesti näitä rahoja ylitse sen. 65 prosenttia niistä eläkerahastojen varoista, 211
+miljardista eurosta, on nykyisten eläkkeensaajien tai juuri eläkkeelle siirtyvien varoja Te-
+lan laskelmien mukaan, eli te ette voi sanoa — kun puhutaan sukupolvien välisistä sopi-
+muksista, [Puhemies koputtaa] se perustuu siihen, että me maksamme työeläkemaksua ja
+8
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+me saamme aikanaan ansiosidonnaisen eläke-etuuden, jonka tason ei pitäisi laskea. Edus-
+taja Heinonen, tämä on se peruslähtökohta. Sosiaalidemokraattinen puolue on ainoa oikea
+puolue, koska meillä on selkein eläkepoliittinen köyhyysohjelma. [Vilhelm Junnila: Lu-
+paus!] [Perussuomalaisten ryhmästä: Onneksi ei ole ainoa lupaus!]
+
+15.37 Johannes Koskinen sd: Herra puhemies! Selvää historiattomuutta tässä keskuste-
+lussa on ollut jo kuukausien ajan. Edustaja Kiljunen viittasi Teivo Pentikäiseen. Kun Suo-
+men työeläkejärjestelmä käynnistettiin, sitä sosiaalidemokraattien ajamaa ideaa oli muu-
+ten kokoomus hyväksymässä, ja siihen saatiin sitten ikään kuin työntekijä- ja työnantaja-
+puoli yhdessä käynnistämään se. Vuosikymmeniä myöhemmin kuin useimmissa verrokki-
+maissa, Pohjoismaissa ansioeläkkeiden karttuma käynnistyi. Siinä alkutilanteessa tehtiin
+valtavasti, kymmeniä kertoja, isompi siirtymä sellaisille tuleville eläkkeensaajille, jotka ei-
+vät olleet ehtineet kartuttaa eläketurvaansa, kuin tämä, mitä nyt esitetään, pientä paikkaus-
+ta, korjausta näihin alle 1 400 euron eläkkeisiin. Silloin nämä jo varttuneessa iässä olleet
+henkilöt, jotka pääsivät uuden eläkejärjestelmän piiriin, saivat eläkettä täytettyään 65 vuo-
+den ikärajan, kun tavoitetaso kaikille oli sitten myöhemmin, että kun eläkettä ehtii karttua
+60 prosentin verran, he olisivat saaneet ehkä vain 10—15 prosentin eläkkeen. Sinne mak-
+settiin tuntuvaa tukea, maksettiin ehkäpä jopa 10—15 prosenttia enemmän eläkettä kuin
+mitä he ehtivät sen voimaantulovuoden jälkeen kartuttaa. 
+
+Elikkä kun tässä nyt eläkejärjestelmän puoleltakin tulee näitä puheenvuoroja, niin unoh-
+detaan kokonaan tämän ikään kuin perusta, että alun alkaen lähdettiin siitä, että jos on täm-
+möisiä aukkoja eläketurvassa, niitä pitää pystyä myös eläkejärjestelmän sisältä karttuvasta
+eläkerahastosta paikkaamaan. Tämän linjan mukaista on se, mitä nyt hallitus tavoittelee, ja
+toivottavasti sen valmistelu saadaan pikaisesti liikkeelle ja myös sellainen ratkaisu, joka
+sopii tähän suomalaisen ansioeläkejärjestelmän ansiokkaaseen historiaan. 
+
+15.39 Timo Heinonen kok: Arvoisa herra puhemies! Pieniä eläkkeitä ja myös pienimpiä
+työeläkkeitä pitää voida korottaa. Kyllä siitä on ihan yhteinen näkemys, että ne ovat pie-
+niä. Ja kun takuueläkettä on korotettu useita kertoja, niin meillä on syntymässä tämä tilan-
+ne, mikä Saksassakin oli, ja siellä nyt ratkaisu on se, että ei oteta muilta eläkkeensaajilta eli
+ei sieltä rahaston sisältä, vaan Saksassa sosiaalidemokraatit tekivät tämän korjauksen pie-
+nipalkkaisille, pitkän työuran tehneille naisille, että he saisivat ansaitsemansa hieman pa-
+remman eläkkeen, mutta, edustaja Kiljunen, he tekivät sen valtion kassasta, valtion budje-
+tista ja päättivät, että he ansaitsevat sen. Tähän pääministeri Rinteellä ja Rinteen hallituk-
+sella on täysi valta. Sen he voivat tehdä, mutta nyt on kyllä vähän edelleen eläkeläisten su-
+muttamista se, että annetaan täällä ymmärtää, että he ovat saamassa, kun tiukasti ne, jotka
+näitä eläkerahastoja hallitsevat, ovat ilmaisseet, että he eivät tule sitä hyväksymään sen ta-
+kia, että se leikkaisi toisten työeläkkeitä toisten työeläkkeiden turvaksi. Sen takia kysyn
+teiltä, edustaja Kiljunen: Miksi Suomen sosiaalidemokraatit vastustavat tätä Saksassa käy-
+tettyä mallia, jossa valtion budjettiin hallituksen päätöksellä osoitettiin tuo määräraha ja
+saatiin muuten yhdellä kertaa korjattua ne pienimmät naisten työeläkkeet sille tasolle, mitä
+täällä nyt yhdessä olemme esillä pitäneet? Miksi tämä hallitus ei käytä sitä keinoa, mikä on
+hallituksen keinovalikoimassa, vaikka huomenna tehdä täydentävänä esityksenä jo ensi
+vuoden budjettiin?
+9
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+15.41 Mari Rantanen ps: Arvoisa puhemies! Täällä aina sali innostuu tästä eläkeläis-
+asiasta puhumaan milloin miltäkin kulmalta. Mutta tässä jotenkin tuntuu, että kovasti pu-
+hutaan, mutta tässä kokonaisuudessa unohtuu se asia, että se on ihan sama — tai ei se nyt
+sama ole — minkä verran korotetaan, kun se korotus tuntuu olevan vaikeaa. Minkä takia
+hallitus ei sitten, jos te haluatte todella eläkeläisten asemaan puuttua, alenna asiakasmak-
+suja, alenna verotusta ja alenna elämisen kustannuksia? Ne ovat sellaisia asioita, joita hal-
+litus voi tehdä. Ei tarvitse odotella mitään kolmikantaa, jos te haluatte todella siis eläke-
+läisten asemaa parantaa. [Perussuomalaisten ryhmästä: Paljon on keinoja kyllä!]
+
+15.41 Kimmo Kiljunen sd: Arvoisa puhemies! Tähän viimeiseen voisi huomauttaa tällä
+tavalla, että sehän tarkoittaisi samaa kuin pitäisi pidättäytyä palkankorotuksista, kun vain
+luotetaan siihen, että sitten asiakasmaksuja, palvelumaksuja ja verotusta lievennetään.
+Osin kyllä tehdäänkin, tulopoliittisissa sopimuksissa on verohelpotuksia, eikä nosteta palk-
+koja. Mutta tämähän se toinen tie on. Kyllä, totta kai elinkustannuksiin jos voidaan vaikut-
+taa, se vaikuttaa ihmisten toimeentuloon. Mutta nyt me puhumme, arvoisa puhemies, em-
+mekö puhu työeläkkeistä, työeläkejärjestelmästä. Tämä on tämä teema, jolloin me puhum-
+me eläketurvasta. 
+
+Edustaja Heinonen, miksi SDP ei käytä Saksan mallia, käytä valtion budjettirahoitusta
+näihin eläkkeisiin, vaan haluaa ottaa eläkejärjestelmästä? Arvatkaa, edustaja Heinonen,
+miksi. Siksi, että Suomessa on kerätty lähes jo 50 vuotta eläkerahastoihin varoja, vuodesta
+95 alkaen kiihtyvästi. Meillä on valtavat rahastot, jotka ovat käytännössä olleet koskemat-
+tomia vuoteen 2015 asti. Siellä ei edes korkotuottoja käytetty eläkkeisiin, koska työeläke-
+maksut olivat suuremmat kuin maksetut eläkkeet. Sen jälkeen muutamia satoja miljoonia
+on käytetty. Kasvu on tuhansia miljoonia, 8 miljardia euroa joka vuosi. Siellä on kasvatet-
+tu eläkerahastoja sitä varten, että niitä rahoja käytetään joskus eläkkeisiin. Se raha on ole-
+massa. Miksi Saksassa ei käytetty eläkerahastoja? Edustaja Heinonen, Saksassa ei ole ole-
+massa eläkerahastoja. Ei Ranskassa ole olemassa eläkerahastoja. Täällä puhutaan siitä, että
+me syömme tulevien sukupolvien eläkkeet, jos me käytämme korkoja, tuottoja suomalais-
+ten eläkerahastoista. Emme siis pura niitä — vaikka ne pitikin purkaa, kun suuret ikäluokat
+siirtyvät eläkkeelle, taitetun indeksin tavoitteena oli, että sitten niitä puretaan. Niitä ei pu-
+reta, niiden korkoja käytetään. Mutta puhutaan nyt sitten, että lähdetään syömään niitä tu-
+levia eläkkeitä. Saksassa ja Ranskassa on täsmälleen nolla euroa eläkerahastoissa, siis jul-
+kisissa eläkerahastoissa. Ei ole euron euroa. Eivät he voi tehdä korotuksia sieltä, kun ei voi
+ottaa siitä eläkejärjestelmästä, sitä ei ole olemassa. Meillä se on olemassa, ja Rinteen hal-
+litus on aivan oikein käynnistämässä neuvottelut siitä, pienimpiin työeläkkeisiin ensin ja
+siellä on isossa päässä se taitetun indeksin purkaminen. Tämä indeksijärjestelmä täytyy
+korjata. Me emme voi lakisääteisesti köyhdyttää eläkeläisiä. [Timo Heinonen: Koska se
+puretaan? Koska puretaan?] — Te tulette siihen mukaan, edustaja Heinonen. Lähdetään te-
+kemää yhdessä sitä. [Jussi Halla-aho: Olisivatpa demarit hallituksessa!]
+
+15.44 Arja Juvonen ps: Arvoisa herra puhemies! Jos puhemies sallii, niin olisin halunnut
+sosiaali- ja terveysvaliokunnan puheenjohtaja Vehviläisen puheenvuoroa hieman tässä
+kompata.
+
+Hän nosti puheenvuorossaan esille asiakasmaksukaton ja asiakasmaksut ylipäänsä. Kun
+valiokunnassa käsiteltiin näitä pieniä eläkkeitä, niin myös silloin meille asiantuntijoiden
+toimesta tuotiin huolia ja ajatuksia siitä, että todellakin asiakasmaksukatoissa on paljon
+10
+
+
+
+Pöytäkirjan asiakohta PTK 71/2019 vp
+tehtävää. On toivottavaa, että hallitus kiirehtii asiakasmaksukaton uudistuksen kanssa
+mahdollisesti eteenpäin. Se järjestelmähän on todella sekava. Esimerkiksi ikäihmiselle on
+kolme erilaista asiakasmaksukattoa — on hoivasta, on lääkkeistä ja on matkakuluista. Se
+on noin 1 500 euroa, vähän päälle, kaiken kaikkiaan se kolme.
+
+Kun esimerkiksi ikäihmiselle tulee tämä asiakasmaksukatto täyteen, niin hän ei välttä-
+mättä sitä edes itse tiedä. Eli ihmisen pitäisi itse olla kartalla ja kärryillä siitä, millainen hä-
+nen asiakasmaksukattotilanteensa on. Olisikin syytä todella panostaa tähän asiaan ja miet-
+tiä, millä tavalla me voimme sitä helpottaa, koska kyllä tämä yhteiskunta on muuttunut
+erittäin voimakkaasti digiyhteiskunnaksi. Kaikki tapahtuu sähköisesti, ja kaikkea pitäisi
+pystyä seuraamaan, mutta ikäihmiselle nämä asiat eivät ole helppoja. Joskaan kyllä asia-
+kasmaksukattoa ei pysty ymmärtääkseni digitaalisesti, sähköisesti, edes seuraamaan, vaan
+on itse muistettava sanoa palveluihin mennessään, että hei, minulla on nyt asiakasmaksu-
+katto täynnä.
+
+Elikkä tämä on erittäin tärkeä asia niin kuin myös nämä asiakasmaksut tulevaisuudessa.
+Ja jos puhemies sallii, niin eläkkeisiin liittyy myös se, että on tulossa sote-uudistus, ja se,
+millä tavalla pieneläkeläinen pärjää sote-uudistuksen maailmassa ja pystyy ne asiakasmak-
+sut maksamaan. Pidetään huoli siitä, että tulevaisuuden sote-uudistuksessa — mistä toi-
+vomme esityksiä kovasti, että hallitus kerrotte, mitä olette tuomassa, ja haluaisimme olla
+siinä parlamentaarisessa työryhmässä mukana, elikkä terveisiä pääministeri Rinteelle: toi-
+vomme pääsevämme siihen — asiakasmaksut eivät nouse. Se olisi kohtuutonta, eikä sillä
+saa tehdä säästöjä tulevaisuuden yhteiskunnassa. 
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 64/2019 vp sisältyvien 1.—12. lakiehdo-
+tuksen sisällön mietinnön mukaisena. Lakiehdotusten ensimmäinen käsittely päättyi.
+11
+
+
+	9
+	15.06
+	15.13
+	15.16
+	15.20
+	15.23
+	15.26
+	15.28
+	15.30
+	15.34
+	15.37
+	15.39
+	15.41
+	15.41
+	15.44
+
+

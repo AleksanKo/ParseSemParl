@@ -1,0 +1,814 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEMF470.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+Pöytäkirjan asiakohta 
+
+PTK 59/2019 vp
+
+Täysistunto
+
+Keskiviikko 6.11.2019 klo 14.01—19.16
+
+13. Hallituksen esitys eduskunnalle Digi- ja väestötietoviraston toimialaa koskevien lakien 
+muuttamiseksi
+
+Hallituksen esitys HE 10/2019 vp
+Valiokunnan mietintö HaVM 3/2019 vp
+
+Ensimmäinen käsittely
+
+Toinen varapuhemies Juho Eerola: Ensimmäiseen käsittelyyn esitellään päiväjärjestyk-
+sen 13. asia. Käsittelyn pohjana on hallintovaliokunnan mietintö HaVM 3/2019 vp. Nyt
+päätetään lakiehdotusten sisällöstä. — Hallintovaliokunnan puheenjohtaja edustaja Purra.
+
+Keskustelu
+
+16.19 Riikka Purra ps (esittelypuheenvuoro): Arvoisa puhemies! Eduskunta on helmi-
+kuussa 2019 hyväksynyt lainsäädännön, joka mahdollistaa nykyisten Väestörekisterikes-
+kuksen, maistraattien ja Itä-Suomen aluehallintovirastossa toimivan maistraattien ohjaus-
+ja kehittämisyksikön tehtävien yhdistämisen uudeksi kokonaisuudeksi perustettavaan Di-
+gi- ja väestötietovirastoon. Muutokset tulevat voimaan vuoden 2020 alussa, jolloin uusi vi-
+rasto myös aloittaa toimintansa.
+
+Käsiteltävänä olevassa hallituksen esityksessä ehdotetaan tehtäväksi mainitusta organi-
+saatiouudistuksesta johtuvat pääosin tekniset muutokset niihin lakeihin, joissa säädetään
+yhdistettävien viranomaisten tehtävistä, virastojen välisestä toimivallanjaosta tai joissa
+muutoin viitataan näihin toimijoihin. Lisäksi ehdotetaan poistettavaksi tarpeettomia alu-
+eellisia toimivaltasäännöksiä, koska Digi- ja väestötietoviraston toimialue on valtakunnal-
+linen.
+
+Digi- ja väestötietoviraston toimialue kattaa myös Ahvenanmaan maakunnan, jossa
+maistraateille säädettyjä tehtäviä, kuten holhousviranomaisen tehtävät, avioliittoon vihki-
+miset ja julkisen notaarin tehtävät, hoitaa Ahvenanmaan valtionvirasto. Ahvenanmaan val-
+tionviraston rooli ja toimivalta säilyvät muutoksen yhteydessä ennallaan. 
+
+Hallituksen esitykseen sisältyy saamen kielilain muutos, jolla kielilain soveltamisala
+laajennetaan koskemaan koko valtakunnallista Digi- ja väestötietovirastoa. Muutos paran-
+taa saamelaisten kielellisiä oikeuksia. Valiokunta pitää tärkeänä, että muutoksen toteutta-
+miseen varataan riittävät resurssit. 
+
+Ehdotetulla lainsäädännöllä keskitetään maistraattien, Väestörekisterikeskuksen ja Ah-
+venanmaan valtionviraston ylläpitämiä henkilörekistereitä koskeva sääntely väestötieto-
+järjestelmää lukuun ottamatta uuteen lakiin Digi- ja väestötietoviraston eräistä henkilöre-
+kistereistä. Mainitut viranomaiset ylläpitävät nykyisin yhteensä kuutta lakisääteistä rekis-
+teriä, joista säädetään eri laeissa. Valiokunta pitää sääntelyn yhdistämistä ehdotetulla ta-
+valla perusteltuna, koska sillä lisätään tietojenkäsittelyn yhdenmukaisuutta ja selkeytetään
+ Tarkistettu
+4.0
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+sääntelyä. Muutoksilla myös päivitetään henkilörekistereitä koskeva sääntely uudistuneen
+tietosuojalainsäädännön mukaiseksi.
+
+Maistraateilla on nykyisin 36 ja Väestörekisterikeskuksella 3 toimipaikkaa tai työsken-
+telypistettä eri puolilla Suomea. Muutoksella ei valiokunnan saaman selvityksen perusteel-
+la ole välittömiä vaikutuksia yhdistyvien toimintojen nykyisten toimipisteiden määrään ja
+sijaintiin. Valtioneuvoston asetuksella säädettävän toimipaikkaverkoston ulkopuolelle jää-
+vät paikkakunnat, joilla virastolla on toimintaa, on tarkoitus sisällyttää viraston toimipis-
+teiksi viraston työjärjestyksellä. 
+
+Hallintovaliokunta on tähdentänyt, että lisääntyvästä sähköisestä asioinnista huolimatta
+osa viraston tehtävistä ja palveluista edellyttää luonteensa vuoksi käyntiasiointia. Tällaista
+henkilökohtaista asiointia edellyttäviä palveluja ovat esimerkiksi siviilivihkimiset, julki-
+sen notaarin todistuspalvelut, ulkomaalaisten rekisteröinti ja kaupanvahvistukset. Kaikilla
+ei myöskään ole tietotekniikkaa käytössään tai kykyä käyttää sitä. Valiokunta painottaa,
+että virastojen palvelujen saatavuus tulee varmistaa niin, että käyntiasiointia vaativat pal-
+velut ovat kohtuullisen matkustusajan päässä. Tämän vuoksi on tärkeää, että myös uuden
+viraston toimipaikkaverkosto on riittävän kattava.
+
+Hallintovaliokunta pitää välttämättömänä, että Digi- ja väestötietoviraston palvelut ovat
+kattavasti saatavilla koko Suomessa. Valiokunta ehdottaa palvelujen saatavuuden varmis-
+tamiseksi eduskunnan hyväksyttäväksi lausumaa: ”Eduskunta edellyttää hallituksen huo-
+lehtivan Digi- ja väestötietoviraston laadukkaiden palvelujen saatavuuden turvaamisesta
+koko maassa ottaen huomioon muun muassa käyntiasioinnin tarpeet, tietoteknisen laitteis-
+ton tai käyttäjäosaamisen puutteet osalla väestöä, ikääntymisestä ja sairauksista johtuva vi-
+ranomaisasioinnin vaatiman toimintakyvyn aleneminen sekä kielellisten palvelujen saata-
+vuuden tarpeet molemmilla kansalliskielillä ja saamen kielellä.” 
+
+Valiokunta tähdentää, että Digi- ja väestötietoviraston tehtäväkohtaista lainsäädäntöä
+tulee jatkossa tarkastella huolellisesti ja tarvittaessa muuttaa niin, ettei lainsäädännöllä tar-
+peettomasti estetä viraston toiminnan ja palvelujen kehittämistä digitalisaation keinoin.
+Valiokunta toteaa kuitenkin, että tällaiset muutokset on hyvän lainvalmistelutavan vuoksi
+perusteltua arvioida erikseen. 
+
+Valiokunta pitää myönteisenä, että valtiovarainministeriössä arvioidaan parhaillaan, mi-
+ten uuden viraston toiminnassa hyödynnetään maistraatin tunnettuutta perinteisenä insti-
+tuutiona. Valiokunnan käsityksen mukaan maistraatti-brändiä voidaan ja sitä tulee hyö-
+dyntää ainakin osin uuden viraston palveluissa ja viestinnässä. 
+
+Arvoisa puhemies! Valiokunta puoltaa hallituksen esitykseen sisältyvien lakiehdotus-
+ten hyväksymistä pääosin muuttamattomina mutta ehdottaa eräitä lakiteknisiä muutoksia
+viiteen lakiehdotukseen sekä kahden uuden lakiehdotuksen hyväksymistä aiemmin hyväk-
+syttyjen lakimuutosten huomioonottamiseksi. Valiokunnan mietintö on yksimielinen. 
+
+16.25 Hanna Huttunen kesk: Arvoisa puhemies! Kuluvan syksyn aikana on käyty vään-
+töä maistraattien palvelu- ja toimipaikkaverkostosta tilanteessa, jossa nykyisen Väestöre-
+kisterikeskuksen ja maistraatin toiminnot yhdistetään uuteen Digi- ja väestötietovirastoon
+1.1.2020 alkaen. Maistraattien toimipisteitä eri puolilla Suomea on tällä hetkellä yhteensä
+38. Valtiovarainministeriön virkamiesesitykseen oli kuitenkin kirjattu, että niistä vain 18
+toimipaikan jatkuminen olisi kirjattu valtioneuvoston asetukseen. Loppujen 20 toimipai-
+kan osalta päätösvalta niiden kohtalosta olisi ollut uuden viraston omassa päätösvallassa il-
+man, että niihin olisi voitu poliittisesti vaikuttaa. Eli suomeksi sanottuna valtioneuvoston
+2
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+asetuksessa toimipisteet olisivat olleet turvassa vain 18 kaupungissa. Loppujen kohdalla
+oli ilmeinen riski niiden lakkauttamisesta virkamiespäätöksenä. Tämä olisi tarkoittanut jäl-
+leen lisää palvelujen keskittämistä. 
+
+Me keskustapuolueena haluamme turvata laadukkaat palvelut joka puolella maata. Täs-
+tä syystä esityksestämme mietintöön lisättiinkin lause: ”Eduskunta edellyttää hallituksen
+huolehtivan Digi- ja väestötietoviraston laadukkaiden palveluiden saatavuuden turvaami-
+sesta koko maassa ottaen huomioon muun muassa käyntiasioinnin tarpeet, tietoteknisen
+laitteiston tai käyttäjäosaamisen puutteet osalla väestöä, ikääntymisestä tai sairauksista
+johtuva viranomaisasioinnin vaatiman toimintakyvyn aleneminen sekä kielellisten palve-
+luiden saatavuuden tarpeet molemmilla kansalliskielillä ja saamen kielellä.” Kuten jo äs-
+ken todettiin, valiokuntamme oli tästä täysin yksimielinen.
+
+On kansalaisten yhdenvertaisuuden kannalta erittäin tärkeää, että kaikkialla Suomessa
+on palveluja kohtalaisen etäisyyden päässä myös jatkossa. Mielestäni kaikista tai ainakin
+suurimmasta osasta toimipaikkaverkostoihin liittyvistä päätöksistä olisi jatkossa järkevää
+päättää valtioneuvoston asetuksissa koko hallituksen yhteisellä päätöksellä.
+
+Arvoisa puhemies! Vielä lopuksi haluan sanoa, että Digi- ja väestötietoviraston nimeksi
+kannattaisi laittaa edelleen maistraatti. Kömpelöt sanahirviöt eivät ole omiaan lähentä-
+mään kansalaisia ja valtionhallintoa. Vai miltä tuntuisi mennä vaikka naimisiin paikassa,
+jonka nimi on rennosti Digi- ja väestötietovirasto?
+
+16.28 Pekka Aittakumpu kesk: Arvoisa puhemies! Haluan omalta osaltani kiittää valio-
+kuntaa siitä, että se, aivan kuten juuri kuulimme edustajan kautta, edellyttää hallituksen
+huolehtivan maistraattipalveluiden eli Digi- ja väestötietoviraston palvelujen saatavuuden
+turvaamisesta koko maassa. Nyt maistraattipalveluita tulee jatkossakin olemaan saatavilla
+myös seutukaupungeissa ja maaseudulla.
+
+Erityisen merkittävä on myös valiokunnan kannanotto siitä, että on otettava huomioon
+se, että kaikki eivät voi asioida diginä verkossa vaan tarvitsemme myös henkilökohtaista
+käyntimahdollisuutta maistraatissa. Vaikka nykyään palveluita saa ja täytyykin saada hoi-
+taa internetin kautta, on kuitenkin palveluja lähellä tarjoavien toimipaikkojen merkitys
+edelleen erittäin tärkeä. Kaikilla ei ole ensinnäkään osaamista tai toisaalta mahdollisuutta
+käyttää tietokonetta, eikä henkilökohtaista neuvontaa pysty aina korvaamaan myöskään
+puhelinpalvelulla. Laaja toimipaikkaverkosto ja sen turvaaminen palvelevat asukkaita,
+mutta on huomioitava myös se, että se myös työllistää alueella, kun valtion paikallishallin-
+non tiheä palveluverkosto on läsnä alueella, ja se antaa myös sille alueelle viestin, että val-
+tionhallinto on läsnä ja että meistä halutaan pitää huolta. Nämä ovat juuri sitä pienestä ih-
+misestä huolehtimista, jota me tässä maassa kaikkialla tarvitsemme.
+
+16.30 Mari-Leena Talvitie kok: Arvoisa puhemies! Käsittelyssämme on siis hallituksen
+esitys, joka sisältää lainsäädäntömuutoksia, jotka koskevat Väestörekisterikeskukseen,
+maistraattiin ja Itä-Suomen aluehallintovirastoon liittyviä asioita. Tämä varsinainen paket-
+ti hyväksyttiin jo viime kaudella, ja nyt sitten on tarkentava hallituksen esitys. Hallintova-
+liokunnassa tätä olemme käsitelleet, ja kuten meidän puheenjohtajamme, edustaja Purra,
+tässä äsken toi esiin valiokunnan kantaa, joka yksimielisesti siellä hyväksyttiin, niin on tie-
+tenkin tärkeää, että tämä hallituksen esitys parantaa näitten sähköisten palvelujen saata-
+vuutta ja myöskin yhdenmukaistaa käytäntöjä ja prosesseja.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+Keskustelimme valiokunnassa aika paljon myöskin maistraateista ja Digi- ja väestötie-
+toviraston nimestä. Mutta kun sitä käsiteltiin ja siitä keskusteltiin myöskin jo viime kau-
+della, todettiin, että ei se mikään paras mahdollinen ole, mutta kun taustalla on myöskin ni-
+mikilpailua ja niin edelleen, niin tällä nyt kuitenkin mennään. Valiokunta kuitenkin toi täs-
+sä mietinnössään esiin tähän nimeen liittyen sen, että me pidämme myönteisenä, että val-
+tiovarainministeriössä parhaillaan arvioidaan, miten uuden viraston toiminnassa voitaisiin
+hyödyntää jatkossakin maistraatin tunnettuutta perinteisenä instituutiona. Valiokunnan kä-
+sityksen mukaan tätä maistraatti-nimeä voidaan ja tuleekin hyödyntää ainakin osin uuden
+viraston palveluissa ja asiakasviestinnässä.
+
+Yksi asia myöskin, mistä valiokunta keskusteli aika paljon, oli nämä erilaiset ikärajat,
+jotka liittyvät digiasioihin tai sähköisiin palveluihin ja erityisesti siihen, minkä ikäiset lap-
+set ja nuoret pystyvät käyttämään sähköisiä palveluita ja minkä ikäisten lasten ja nuorten
+vanhemmat ja huoltajat myöskin pystyvät sitten näkemään lapseen liittyviä asioita. Ja va-
+liokunta haluaa kiinnittää huomiota ”lainsäädännön kehittämisen näkökulmasta myös ala-
+ikäisen lapsen ja tämän huoltajan asiointiin erilaisissa digitaalisissa kanavissa, joissa käy-
+tetään palvelusta riippuen erilaisia ikärajoja”. ”Tietosuoja-asetuksen 8 artiklan 1 kohdan
+mukaan henkilötietojen käsittelyn perustuessa suostumukseen ja kun kyseessä on tietoyh-
+teiskunnan palvelujen tarjoaminen suoraan lapselle, niin lapsen henkilötietojen käsittely
+on lainmukaista, jos lapsi on vähintään 16-vuotias.” Jäsenvaltiot voivat säätää tätä tarkoi-
+tusta koskevasta alemmasta ikärajasta, ja kun viime kaudella tehtiin tätä tietosuoja-asetus-
+ta, niin silloin käytiin aika suurta keskustelua, onko se 13, 14 vai 15, ja päädyttiin sitten tä-
+hän 13 vuoteen. Ja valiokunta on silloin sen tietosuojalain säätämisen yhteydessä toden-
+nut, että ikärajojen asettaminen sinänsä on jo lähtökohtaisesti varsin haastavaa lasten ja
+nuorten yksilöllisen kehittymisen kannalta. Tärkeänä nähdään, että lapsen huoltajan tie-
+donsaanti turvataan asianmukaisesti, mutta sitten myöskin lapsen ja nuoren oikeus hyö-
+dyntää tietoyhteiskunnan palveluita ja osallistua digitaaliseen kulttuuriin ja sähköisten pal-
+veluiden käyttämiseen pitää tietenkin mahdollistaa eikä sitä voi tarpeettomasti rajata.
+
+Arvoisa puhemies! Mitä sitten tulee tähän keskusteluun meidän valiokunnan yksimieli-
+sesti hyväksymästä lausumaehdotuksesta, niin koska tässä kokonaisuus tulee valtakunnal-
+liseksi ja nyt sitten tulevaisuudessa Digi- ja väestötietovirastossa voidaan alueellisten pal-
+veluiden painetta myöskin jakaa sillä tavalla, että jos jollain toisella alueella on paljon pal-
+veluita tarvitsevia ja toisessa osassa ei taas sitten sillä hetkellä ole, niin — tämähän mah-
+dollistaa sen — palveluita pystytään myöskin paikasta ja ajasta riippumatta tarjoamaan ja
+käyttämään, niin valiokunta näki tarpeelliseksi tämän saatavuuden varmistamiseksi esittää
+lausumaa eduskunnalle: "Eduskunta edellyttää hallituksen huolehtivan Digi- ja väestötie-
+toviraston laadukkaiden palvelujen saatavuuden turvaamisesta koko maassa ottaen huo-
+mioon muun muassa käyntiasioinnin tarpeet, tietoteknisen laitteiston tai käyttäjäosaami-
+sen puutteet osalla väestöä, ikääntymisestä ja sairauksista johtuva viranomaisasioinnin
+vaatiman toimintakyvyn aleneminen sekä kielellisten palvelujen saatavuuden tarpeet mo-
+lemmilla kansalliskielillä ja saamen kielellä."
+
+Arvoisa puhemies! Vaikka edustaja Huttunen tuossa toi äsken puheensa alkupuolella
+esiin, että on koko syksyn ollut vääntöä näistä maistraattien toimipaikoista, niin täytyy sa-
+noa, että valiokunnassa ei ole ollut kyllä minkäänlaista vääntöä liittyen tähän asiaan. Me
+olemme kaikki olleet tässä asiassa täysin yksimielisiä. Pyysimme asetusluonnosta valtio-
+varainministeriöstä ja yksimielisesti keskustelimme tästä palveluiden saatavuudesta ja yk-
+simielisesti totesimme, että olisiko tässä lausuman paikka, ja sekin hyväksyttiin yksimieli-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+sesti. Että en valiokunnan varapuheenjohtajana mitenkään tunnistanut tätä edustaja Huttu-
+sen ”koko syksyn ajan ollutta vääntöä”.
+
+16.36 Anu Vehviläinen kesk: Arvoisa puhemies! Olin viime vaalikaudella vastuuminis-
+teri, joka esitteli täällä salissa lain, joka hyväksyttiin helmikuussa 2019, jossa siis tosiaan-
+kin maistraatit ja Väestörekisterikeskus laitettiin yhteen. 
+
+Ensinnäkin totean tästä nimiasiasta, että aina silloin, kun laitetaan uusia kokonaisuuksia
+yhteen, on vaikea löytää hyvää ytimekästä suomenkielistä nimeä, niistä helpolla tulee sa-
+nahirviöitä. Tätäkin valmistelimme muun muassa niin, että pyysimme Kotukselta eli Ko-
+timaisten kielten keskukselta tästä lausuntoa, mutta ei sieltäkään kovin yksinkertaisia ni-
+miehdotuksia tullut, ja tämä sitten ministeriössä muotoiltiin Digi- ja väestötietovirastoksi.
+Jaan sen käsityksen, mitä täällä puheenvuoroissa on tullut, siitä, että maistraatti on nimenä
+tämmöinen historiallinen ja perinteinen nimi, enkä pitäisi ollenkaan huonona, jos sitä jat-
+kossa, kun nämä nyt todellakin yhdistyvät, voitaisiin käyttää myös tavallaan "aputoimini-
+menä" osoittamaan, missä näitä maistraattien palveluksia kaiken kaikkiaan on.
+
+Olen iloinen siitä, että valiokunta on tehnyt tämän yksimielisen lausuman, jossa kerro-
+taan minun mielestäni hyvällä tavalla, että halutaan turvata koko laajassa Suomessa val-
+tionhallinnon palveluita eli tässä kohtaa erityisesti maistraatteja. Kiinnitin huomiota myös
+tähän edustaja Talvitien esille ottamaan asiaan siitä, mitenkä tämä uusi virasto on valtakun-
+nallinen. Se antaa sillä tavalla tietysti mahdollisuuksia, että jos jossain päin maistraatin toi-
+mipaikassa on ruuhkaa, niin sinne voidaan antaa myös apua näissä asioissa. Se on hyvä
+asia, mutta se ei sulje pois laisinkaan sitä, etteikö meillä pitäisi olla kohtuullisen tiheä toi-
+mipaikkaverkko näissä asioissa, ja sen takia pidän hyvänä, että tämä lausuma todellakin on
+tähän laitettu.
+
+Sitten haluan todeta yleisemmällä tasolla sen, että kun me tiedämme, että itse asiassa jo
+pidemmän aikaa on meidän valtionhallinnon verkostoa paikallisesti tai alueellisesti pie-
+nennetty, niin ymmärrän erittäin hyvin, että kansalaisten luottamus sekä valtioon että myös
+poliittiseen päätöksentekoon horjuu tällaisten päätösten myötä eli tulee kokemus siitä, että
+palvelut karkaavat yhä etemmäksi. Kaikilla ei tosiaankaan ole mahdollisuutta niitä hoitaa
+digin kautta, ja sen takia on tärkeätä, että on myös fyysistä asiointia.
+
+Itse asiassa tämä kehitys, missä nytten ollaan, on tapahtunut useiden oikeastaan vuosi-
+kymmenten ja useiden hallitusten aikana. Viime vaalikaudella alueellistamisen koordinaa-
+tiotyöryhmä teki selvityksen valtionhallinnon paikallistoimipisteiden kehityksestä useam-
+man hallituskauden ajalta. Se kertoi karusti sen, että niitä toimipaikkoja ei ole vähennetty
+yleensä koskaan maakuntakeskuksista, kaupungeista vaan toimipaikkojen vähentäminen
+on yleensä tapahtunut maakuntien toiseksi, kolmanneksi ja neljänneksi suurimmista kau-
+pungeista tai seutukeskuksista. Sen me kaikki tiedämme täällä kansanedustajina, että tästä
+tulee erittäin paljon palautetta.
+
+Sen haluan todeta, että vielä muutama kymmenen vuotta sitten aika monessa kohtaa lais-
+sa säädettiin siitä, missä ne toimipaikat on. Sitten mentiin yhä enemmän siihen, että ruvet-
+tiin säätämään valtioneuvoston asetuksissa, ja sitten mentiin myös siihen, että on ministe-
+riöitten asetuksia, ja sitten edelleen, että on viraston omia työjärjestyksiä, joissa näistä toi-
+mipaikoista säädetään. Näissä edellisissä puheenvuoroissa on jo tullut esille, että tässä on
+tietynlainen ongelma. Minä otan esimerkin. On ihan mikä tahansa valtion virastoa koskeva
+päätös, niin me täällä säädämme lain, sitten me yleensä siinä lain säätämisen yhteydessä
+annamme asetuksenantovaltuutuksen ja emme välttämättä aina tiedä, mihinkä se johtaa.
+5
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+Meillähän pitäisi täällä aina lain yhteydessä olla käsittelyssä sitä koskeva asetus, mistä me
+annamme sen asetuksenantovaltuuden. Aina näin ei ole. Pidän hyvänä sitä, että hallintova-
+liokunta on tässä kohtaa myös itse halunnut katsoa sitä asetusluonnosta, joka tehdään vasta
+sen lain hyväksymisen ja vahvistamisen jälkeen. 
+
+Tämä kehitys on mennyt siihen, että me kansanedustajina tavallaan kannamme kyllä sen
+poliittisen vastuun siitä, jos on etäännytetty ja laitettu alemmille säädöstasoille se toimipai-
+koista säätäminen. Eli käytännössähän, jos se ei ole siellä valtioneuvoston asetuksessa,
+joka hyväksytään valtioneuvoston yleisistunnossa, sitten se voi olla siellä viraston työjär-
+jestyksessä ja yksittäinen virkamies, yleensä sen viraston johtaja, päällikkö, voi tehdä sit-
+ten sen mukaisesti niitä toimipaikkaratkaisuja. Hän ei kyllä koskaan tule siitä julkisuudes-
+sa niin sanotusti takkiinsa ottamaan, vaan siitä ottaa takkiinsa edustaja Talvitie tai kuka
+aina milloinkin, kenen alueelle näitä päätöksiä tulee. Sen takia minusta on erittäin tärkeää
+ja toivoisin, että eduskunnan kaikissa valiokunnissa, koska tämä koskee kaikkia — hallin-
+tovaliokunnassa on totta kai paljon valtionhallintoon liittyvää päätöksentekoa, mutta mo-
+nissa muissakin valiokunnissa on asioita, joissa käsitellään toimipisteverkkoja — edusta-
+jat ovat hereillä näissä kysymyksissä ja me ymmärrämme, mitä tarkoittaa se, kun annetaan
+asetuksenantovaltuus, ja sitten hallituksen piirissä entistä enemmän ymmärretään, kun teh-
+dään valtioneuvoston asetuksia tai sitten tehdään ministeriöitten asetuksia, että siellä hy-
+vin harkiten, hyvin vähäisesti annetaan toimipaikoista mahdollisuutta päättää työjärjestyk-
+sessä.
+
+16.42 Pasi Kivisaari kesk: Arvoisa herra puhemies! Suuri kiitos kaikille edustajille, hal-
+lintovaliokunnan jäsenille asian kirkkaasta ja hyvästä esittelystä. 
+
+Valtion paikallishallintoon kuuluvat poliisilaitokset, maistraatit, ulosottovirastot, syyt-
+täjävirastot, työ- ja elinkeinotoimistot, verotoimistot, Tulli ja oikeusaputoimistot. Vaikka
+nykyisin palveluita saa ja asioita voi aina hoitaa internetin kautta, on palveluita lähellä tar-
+joavien toimipaikkojen merkitys edelleen tärkeä. Kaikilla ei ole välttämättä osaamista tai
+edes mahdollisuutta käyttää tietokonetta, eikä henkilökohtaista neuvontaa korvaa puhelin-
+palvelukaan. Paitsi että laaja toimipaikkaverkosto palvelee alueen asukkaita ja työllistää,
+niin valtion paikallishallinnon tiheä palveluverkosto myös antaa alueille viestin, että valtio
+on läsnä ja valtio välittää. 
+
+Toimipaikkaverkostosta päättämisessä on olemassa jonkinlainen valuvika, aivan kuten
+edustaja Vehviläinen ansiokkaasti totesi. Siis valtion paikallishallinnon toimipaikkaver-
+kosto määritellään nykyisin joko valtioneuvoston asetuksessa, ministeriön asetuksessa tai
+viraston omana päätöksenä. Käytännössä siis vaikkapa sisäministerin päätöksillä on voitu
+sulkea poliisiasemia, oikeusministerin päätöksillä on voitu päättää uusi merkittävä viras-
+ton toimipaikka tai puheena olevassa tapauksessa viraston pääjohtaja olisi voinut sulkea
+toimipaikkoja. Siksi olisi järkevää, että kaikki toimipaikkaverkostot päätettäisiin jatkossa
+valtioneuvoston asetuksessa, siis koko hallituksen päätöksellä.
+
+16.45 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Digitaalisten palveluiden ke-
+hittäminen on tärkeä asia, mutta on hyvä muistaa, että meillä on tälläkin hetkellä lähes mil-
+joona kansalaista, jotka eivät voi, pysty tai osaa käyttää digitaalisia palveluita, ja siksi di-
+gipalveluiden kehittämisen rinnalla on pidettävä huolta myös puhelimitse ja kasvotusten
+annettavista palveluista ja myös niiden laadusta. Tämän varmistamiseksi tämä valiokun-
+nan lausumaehdotus on erittäin kannatettavaa. Meillä on ollut välillä sellainen, miten sa-
+6
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+noisin, digihypetyksen vaihe, jossa rinnakkaisten palvelujen kehittäminen on jäänyt liian
+vähäiseksi, kun on siirrytty näihin digipalveluihin suoraan. Samoin on erittäin tärkeää, että
+myös tämä palvelujen turvaaminen joka puolella Suomea on kirjattu tuohon lausumaan.
+
+Näistä digipalveluista vielä sen verran, että toivottavasti niiden kehittämisessä otetaan
+nykyistä enemmän myös saavutettavuus huomioon, sillä digipalveluitakin voidaan kehit-
+tää joko helpommin tai vaikeammin käytettäviksi. Olen kyllä valitettavasti huomannut,
+että usein digipalveluita kehitettäessä saavutettavuus edelleen unohtuu, eli niitä kehitetään
+jotenkin insinöörien näkökulmasta käsin, ja se käyttäjän näkökulma liian usein unohtuu, ja
+tähän pitäisi nyt kiinnittää erityistä huomiota.
+
+Lopuksi, arvoisa puhemies: Kyllä minäkin toivon, että voisimme edelleen jatkossakin
+puhua maistraateista. Se on erittäin perinteinen ja tunnettu nimi, ja kansalaiset tietävät ja
+tunnistavat hyvin maistraatit, ja on surullista, jos jatkossa tämä arvokas nimi poistuu käy-
+töstä.
+
+16.47 Kimmo Kiljunen sd: Arvoisa puhemies! Suoraa jatkoa edustaja Mäkisalo-Roppo-
+sen puheenvuorolle: yhdyn kaikkiin näihin, mukaan lukien siihen, että miksi tämmöinen
+digi- ja väestöpalveluvirasto — sekö tämä oli nimeltään, vai mistä kammottavasta nimestä
+olikaan kysymys, ja se tietysti lyhennetään sitten jossain vaiheessa etukirjaimilla ja tulee
+yksi lyhenne lisää — kun meillä on klassinen maistraatti olemassa. Olen hyvin vahvasti
+tässä nimikysymyksessä tätä mieltä.
+
+Mutta minun varsinainen puheenvuoroni liittyy samaan aiheeseen, mistä täällä on
+useampikin puheenvuoro jo käytetty, eli tähän digisyrjäytymiseen. Suomalainen yhteis-
+kunta nyt on ikään kuin lähtenyt mittautumaan sillä, että me olemme kehityksen kärjessä
+näiden digipalvelujen kehittämisessä. Kaikki siirretään digitaaliseen formaattiin. Systeemi
+on läpitunkeva koko yhteiskunnan. En voi sinänsä sitä arvostella, koska se on varmaankin
+tulevaisuutta jossakin muodossa joka tapauksessa, että yhä enemmän tämä verkkojen kaut-
+ta toimiminen tulee osaksi meidän elämänmuotoamme. Mutta ainakin tässä siirtymävai-
+heessa täytyy huomioida se, että meillä on väestössä iso ryhmä, joka ei kykene näitä pal-
+veluja käyttämään. Heitä on myöskin tulevaisuudessa, silloin me puhumme mahdollisesti
+ihmisistä, joilla on fyysisiä ongelmia tämä tehdä, mutta tällä hetkellä meillä on ihan yksin-
+kertaisesti ikääntymiseen liittyvä todellisuus siinä, että ihmiset elävät toisenlaisessa todel-
+lisuudessa kuin mikä tämä maailma tällä hetkellä on.
+
+Minulla on tässä Tilastokeskuksesta aivan tuore tilasto, joka koskee yli 65-vuotiaiden
+väestönosaa ja sitä, missä määrin heillä on matkapuhelimia ja tietokoneita käytettävissään.
+Aloitetaan yli 75-vuotiaista: yli 75-vuotiaista lähes 80 prosentilla — 77 prosentilla yli 75-
+vuotiaista Suomen kansalaisista — ei ole tietokonetta. 88 prosentilla ei ole tablettia, eli 90
+prosentilla ei ole tablettiakaan. Ja on jopa niin, että kaikista yli 75-vuotiaista16 prosentilla
+ei ole edes matkapuhelinta, eli he ovat tällä tavalla syrjäytyneet tästä modernista tekniikas-
+ta aivan aidosti. 65—75 vuoden välissä olevista ihmisistä 40 prosentilla ei ole tietokonetta.
+Meillä on tällä hetkellä 300 000 yli 65-vuotiasta ihmistä, joilla ei ole tietokoneita eikä tie-
+tokoneen käyttöön liittyviä valmiuksia olemassa. Jos me siirrämme peruspalvelut nyt tie-
+tokonepohjaisiksi digimaailmaan, meillä on iso joukko ihmisiä, jotka pudotetaan kyydistä
+pois. Tämä on aitoa ikäsyrjintää, arvoisa puhemies, aitoa ikäsyrjintää. Ja tässä suhteessa
+meidän täytyy eduskunnassa olla erittäin tarkkoja, että tämä digihypetys, niin kuin tätä ter-
+miä käytettiin ihan oikein, saadaan sillä tavalla pysähtymään, että kunnioitamme ihmisten
+kykyä olla kehityksessä mukana. Heillä on oikeus tiettyihin peruspalveluihin, ja ne täytyy
+7
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+kaikille ihmisille pystyä takaamaan luonnollisella tavalla, eikä voi mennä digimaailman
+ehdoilla, teknologian ehdoilla, vaan on mentävä ihmisten ehdoilla. Arvoisa puhemies, al-
+leviivaan tätä.
+
+16.50 Arja Juvonen ps: Arvoisa herra puhemies! Myös perussuomalaiset ovat sitä miel-
+tä, että ihmisen ehdoilla on mentävä eteenpäin näissä digiasioissa. [Kimmo Kiljunen: Liit-
+tykää demareihin! Täällä on ilman muuta tämä henki!] — Ei tarvitse liittyä mihinkään
+muualle, kun me tiedämme sen ja näemme sen ja koemme tuolla kentällä. — Elikkä perus-
+suomalaiset ovat sitä mieltä, että virastokielen ja digikielen tulee säilyä sellaisina, että me
+kaikki voimme niitä ymmärtää.
+
+Arvoisa puhemies! Tämä valiokunnan lausumaesitys on hyvä: ”Eduskunta edellyttää
+hallituksen huolehtivan Digi- ja väestötietoviraston laadukkaiden palvelujen saatavuuden
+turvaamisesta koko maassa ottaen huomioon muun muassa käyntiasioinnin tarpeet, tieto-
+teknisen laitteiston tai käyttäjäosaamisen puutteet osalla väestöä, ikääntymisestä tai sai-
+rauksista johtuva viranomaisasioinnin vaatiman toimintakyvyn aleneminen sekä kielellis-
+ten palvelujen saatavuuden tarpeet molemmilla kansalliskielillä ja saamen kielellä.” Erityi-
+sesti ikääntyneet ovat täällä nousseet monessa puheenvuorossa esille. 
+
+On mainittu myös selkokieli, joka aina silloin tällöin nousee esille keskusteluissa. Min-
+kä takia virastokieli ei voisi olla myös selkokieltä? Miksi digikieli ei voisi olla selkokieltä?
+Miksi me täällä eduskunnassa emme voisi puhua selkokielellä? Noin 650 000 ihmistä, eli
+liki miljoona, tarvitsee Suomessa selkokieltä. Selkokieltä tarvitsee enemmän ihmisiä kuin
+Helsingissä on asukkaita. Tämä tieto tuli esille Ylen uutisissa. Meillä on ikääntyneitä, lu-
+kihäiriöisiä, on afaatikkoja, ADHD:stä kärsiviä ihmisiä, on autismin kirjosta kärsiviä hen-
+kilöitä, jotka tarvitsevat selkokieltä, ja erityisesti näissä digipalveluissa asiat voivat olla hy-
+vin vaikeita.
+
+Se, että palvelut säilyvät helposti tavoitettavina eivätkä vaadi kaikki tietokonetta tai säh-
+köistä maailmaa, on erittäin tärkeää. Ikääntyneiden kohdalla oli hämmästyttävää kuulla
+näitä edustaja Kiljusen kertomia lukuja, mitkä olivat todella tärkeitä, ja siinä mielessä on
+erittäin hyvä, että nostitte ne esille: 300 000 ihmistä, [Kimmo Kiljunen: Aikuisia ihmisiä!]
+joilla ei ole tietokonetta eikä välttämättä edes tätä kännykkää, ja nämä ovat myös hanka-
+lasti käytettäviä. Kyllä meidän täytyy eduskunnassa tehdä kaikkemme sen eteen, että ikä-
+väestön ääni kuuluu ja puhumme myös täällä selkokielellä. Muistan ensimmäisen täysis-
+tuntopuheenvuoroni täällä tällä kaudella, kun myös kerroin, että olin selkokielisessä pa-
+neelissa eduskuntavaalien alla, ensimmäisessä kautta aikain Ylellä järjestetyssä. Oli aika
+mielenkiintoista huomata, miten vaikeaa se selkokieli oikeasti on puhua. Siellä oli kuunte-
+lijoina henkilöitä, jotka sitten näyttivät punaisella lapulla tai vihreällä lapulla, onnistuiko
+siinä selkokielisyydessä. 
+
+Joskus olen ajatellut, että voi kun täällä eduskunnassakin voisi selkokieltä käyttäessään
+käyttää 2 minuutin mittaisen puheenvuoron sen 1 minuutin sijaan, koska silloin varmasti
+puhuisi rauhallisesti ja hitaasti niin, että kaikki kuulijat [Kimmo Kiljunen: Aikuisia ihmi-
+siä!] siellä ruutujen tai television ääressä ymmärtäisivät, mitä me täällä puhumme. Olenkin
+jättämässä tästä selkokielisyyteen liittyvästä asiasta kirjallisen kysymyksen ministerille
+tiedustellakseni, miten voimme edistää selkokielisyyttä niin virastokielessä kuin näissä di-
+gipalveluissa kautta Suomen. 
+
+Selkokielisyyteen liittyy muuten myös se, että puheenvuoro ei olisi liian pitkä, niin lo-
+petan tämän puheenvuoroni siis tähän. — Kiitos.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+16.54 Mari-Leena Talvitie kok: Arvoisa puhemies! Palaan vielä tuohon palveluiden saa-
+tavuuteen paristakin näkökulmasta. 
+
+Ensinnäkin olemme aika paljon puhuneet hallintovaliokunnassa viime kaudella tästä
+palveluiden esteettömyydestä. Silloin, kun asiat ovat yksinkertaisia ja yleisiä ja noudatta-
+vat niin sanottua normaalipolkua, sähköinen asiointi on nopeaa, sujuvaa, käyttäjäystäväl-
+listä ja helppoa ja niin edelleen, mutta aina sen sähköisen asioinnin tueksi tarvitaan myös
+puhelinpalvelua, henkilökohtaista neuvontaa, mahdollisuutta asioida fyysisesti. Me emme
+koskaan pääse semmoiseen Suomeen — vaikka itsekin diplomi-insinööri olen ja näiden
+asioiden kanssa ollut tekemisissä — jossa kaikki asiointi olisi meidän Digi- ja väestötieto-
+virastossamme pelkästään sähköistä asiointia.
+
+Sitten tuosta viime kauden digi- ja kuntaministeri Vehviläisen esiin ottamasta asiasta,
+nimittäin tästä asetuksenantovaltuudesta, mikä eduskunnalla on toimipisteiden osalta: Se
+on iso valtuutus, ja monessa kohdassa olen nyt huomannut, että asetusta ei olekaan siellä
+hallituksen esityksessä, ja se on nimenomaan sellainen asia, johon meidän kaikkien kan-
+sanedustajien on valiokuntatyössä tärkeätä puuttua. Meillä on kuitenkin oikeus kysyä siel-
+tä ministeriöstä, minkälainen asetus on tulossa, ja siinä mielessä on sitten myöskin se vas-
+tuu, koska tiedetään, että toimipisteissä ihmisillä on erilaisia taustoja, ja kun itse tulen Ou-
+lusta, niin tiedän myöskin sen, että kauas on pitkä matka, mutta lähelle on joskus vielä pi-
+dempi matka. Elikkä kun sanotaan, että joku on jossain kaukana, niin se tuntuu mielikuvis-
+sa olevan kaukana. Olen kuullut, että esimerkiksi Helsingissä virastossa työskentelevät ih-
+miset pitävät Pasilaa kovin kaukaisena, jos toimipiste on Pasilassa tai jos Helsingistä pitää
+mennä Pasilaan tai jos Helsingistä pitää mennä Espooseen, mutta monesti oululaisille, jot-
+ka tulevat kokouksiin ja muihin Helsinkiin, se matka on ihan suhtkoht lyhyt. Elikkä poliit-
+tisesta vallasta ja vastuusta, joka meillä täällä eduskunnassa on, siihen asetuksenantoval-
+tuuteen liittyen: niin kuin Vehviläinen toi esiin, poliittinen vastuu on meillä.
+
+Sitten vielä ihan loppuun lyhyesti: Helpotan edustaja Mäkisalo-Ropposen ja myöskin
+Kiljusen esille nostamaa huolta tästä maistraattien nimestä. Valiokunta tosiaan yksimieli-
+sesti totesi, että me kannustamme siihen, että maistraatit voivat ja että niiden tuleekin hyö-
+dyntää, ainakin osin, uuden viraston palveluissa tai asiakasviestinnässä maistraatti-nimeä
+ja nimenomaan tätä perinteistä tunnetta uutena [Puhemies koputtaa] instituutiona.
+
+16.57 Hanna Holopainen vihr: Arvoisa puhemies! Nyt on käyty hyvää keskustelua sekä
+tässä salissa että tuolla hallintovaliokunnassa tästä Digi- ja väestötietovirasto -asiasta, ja on
+ollut tosi hienoa huomata, kuinka tämmöinen asiakaslähtöisyys on ollut lähtökohta meille
+kaikille. Useasti, kun kehitetään toimintaa, sitten vauhdissa meinaa se asiakasnäkökulma
+hävitä, ja kuitenkin se tärkein syy, miksi nämä palvelut ovat olemassa, on nimenomaan asi-
+akkaat ja se, että asiointi sujuu.
+
+Kiitos edustaja Kiljuselle hyvästä muistutuksesta siitä, että kaikki eivät vielä ole digina-
+tiiveja Suomessakaan ja meidän pitää huolehtia siitä, että kaikille julkiset palvelut ovat
+yhtä lailla saavutettavissa. Tätä muistutusta varmaan tarvitaan jatkossakin monessa eri yh-
+teydessä. 
+
+Kun nyt tätä asiaa on tässä käsitelty ja tähän perehtyy, niin tässä hyvin huomataan se,
+että tässä pyritään sekä siihen, että toimintatapoja ja prosesseja voidaan kehittää ja yhden-
+mukaistaa, että sitten samalla siihen, että ei tingitä siitä, että palvelut ovat edelleenkin saa-
+vutettavissa ja että niiden täytyy olla esteettömästi käytettävissä ja myös tämmöinen alu-
+9
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+eellinen yhdenvertaisuus toteutuu. Se oli valiokunnassa, kuten tässä on aiemmin jo kuultu,
+ihan keskeinen lähtökohta, ja yksimielisesti siellä tätä nostimme esiin. 
+
+On tärkeää, että tässä nyt digitaalisuuden myötä pystytään totta kai näitä prosesseja ke-
+hittämään ja tulee tämmöinen valtakunnallinen toimialue, joka mahdollistaa sitten muun
+muassa henkilöstön paremman erikoistumisen ja sen, että henkilöstöresurssi on tehok-
+kaammassa käytössä. Mutta se ei mitenkään poissulje sitä mahdollisuutta, että kuitenkin
+pidettäisiin kiinni asiointipisteistä, tästä toimipaikkaverkosta. Jää nyt nähtäväksi, kuinka
+hyvin se sitten tulee käytännössä toteutumaan ja nämä resurssit siihen riittävät, mutta aina-
+kin itse toivoisin, että tämä olisi nyt esimerkki, että jatkossakin tätä työtä edelleenkin to-
+teutettaisiin tällä samalla tavalla, kun valtion palveluita kehitetään, ja ehkä yhä enemmän
+pystyttäisiin miettimään myös semmoisia yhteispalvelupisteitä, joissa sitten erilaiset val-
+tion virastojen palvelut voisivat toimia samassa pisteessä, jotta edelleenkin pystytään huo-
+mioimaan se, että hyvin usein ihmiset tarvitsevat myös sitä ihmiskontaktia, eivätkä pelkäs-
+tään sähköiset välineet ole siinä riittäviä.
+
+Paljon tosiaan tämä nimi on herättänyt keskustelua. Sen lisäksi, että se tuntuu hyvin
+kömpelöltä ja kankealta ja näin, kyllähän se on myös osa esteettömyyttä. Kun miettii sitä,
+kuinka helposti ihmiset mieltävät, mistä virastosta mitäkin palvelua saa, niin kyllä se nimi
+on siltäkin osin ihan keskeinen eikä pelkästään siinä, että tämä on erittäin kömpelön kuu-
+loinen ja kielellisesti kankea nimi. Kyllä tässä nyt sitten toiveissa on, että jatkossa kuiten-
+kin maistraatti brändinimenä pystyisi edelleenkin säilymään. Kiitos edustaja Vehviläiselle
+taustoituksesta, että mikä tässä on takana, koska tosiaan valiokunnassakin paljon tästä kes-
+kusteltiin ja ihmeteltiin kovasti, että tämmöiseen nimeen ollaan päädytty. Vähän siellä sit-
+ten huvittikin se, kun saatiin selvennys siitä, että tässä on ollut nimikilpailu takana, ja mie-
+tittiin, kuinka huonoja ne muut ehdotukset, jotka tässä ovat hävinneet, ovat mahtaneet olla,
+kun tämä on ollut sitten se paras. Mutta toki tässä on varmasti ihan paljon työtä tehty ja
+näin, mutta toivotaan, että maistraatti-nimi jatkossa löytyy edelleen. — Kiitos. 
+
+17.01 Merja Mäkisalo-Ropponen sd: Arvoisa puhemies! Kiitos edustaja Juvoselle siitä,
+että otitte tämän selkokielen vielä ihan erikseen esille. Selkokielihän on osa sitä esteettö-
+myyttä ja saavutettavuutta, mutta siitä vielä toistaiseksi vähemmän puhutaan, koska esteet-
+tömyys ymmärretään liian usein edelleenkin vain pelkästään liikuntaesteettömyytenä,
+vaikka se on kaikkien aistien huomioimista. Selkokieli on erittäin oleellinen osa tätä koko-
+naisesteettömyyttä. Meillähän arvioidaan olevan jopa 700 000 ihmistä, jotka hyötyisivät
+selkokielestä. Tähän ryhmäänhän kuuluu hyvin monenlaisia ihmisiä, muun muassa muis-
+tisairaita, vammaisia, mutta myöskin maahanmuuttajia. Eli tämän käyttö olisi todella mo-
+nelle ihmiselle hyödyksi.
+
+Onneksi meillä on ollut pari semmoista hyvää esimerkkiorganisaatiota, jotka ovat tä-
+män haasteen ottaneet itselleen. Esimerkiksi Kelahan pyrkii nyt tekemään ohjeistukset ja
+lomakkeistot selkokielelle jatkossa. Ja jos en nyt aivan väärin muista, niin esimerkiksi Sa-
+takunnan keskussairaala on myöskin päättänyt, että heidän ohjeistuksensa jatkossa ovat
+kaikki selkokielisiä. On varmasti myöskin niiden ohjeiden luettavuuden ja ymmärrettävyy-
+den kannalta kaikille potilaille ja asiakkaille hyvä uutinen, että ne ovat selkokieltä. 
+
+Ja kyllä minä nyt todella toivon, että me ottaisimme laajemminkin tämän haasteen vas-
+taan yhteiskunnan eri organisaatioissa ja tahoilla, koska se olisi sitä yhdenvertaisuutta, että
+se viestintä, mikä tulee mistäkin, olisi kaikkien ymmärrettävissä.
+10
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+17.03 Kimmo Kiljunen sd: Arvoisa puhemies! Minä olisin myöskin vielä palannut het-
+keksi tähän nimikysymykseen, kun se kuitenkin arkikäytössä tulee niin vahvasti esille. Ha-
+luaisin ilmoittautua tässä yhteydessä tämmöiseksi kulttuurikonservatiiviksi, vaikka kuvit-
+telenkin olevani radikaali. Meillä pitäisi pystyä arvostamaan sitä mennyttä historiaa. Me
+liian usein yritämme nimitysten kautta ja antamalla uuden nimen ikään kuin häivyttää sitä
+todellisuutta, mikä on taustalla. Siivoojista tulee laitoshuoltajia ja niin edelleen, näitä esi-
+merkkejä meillä on vaikka kuinka paljon. 
+
+Mutta jos mietin vain ihan arkista tapahtumaa, kun niin moni menee maistraattiin vaik-
+ka vihille, niin menevätkö he jatkossa sitten vihille Digi- ja väestötietovirastoon vai mene-
+vätkö he vihille DVTV:hen vai mihin? Miksi me hankaloitamme ihmisten elämää, assosi-
+aatioita, kulttuuriamme? Kunnioitetaan mennyttä, annetaan sille tilaa, uudistetaan yhteis-
+kuntaa, mutta ei meidän tarvitse kaikkea muuttaa väen väkisin.
+
+17.04 Arja Juvonen ps: Arvoisa herra puhemies! Kiitos edustaja Mäkisalo-Ropposelle
+hyvästä puheenvuorosta. Selkokieli on siinä mielessä myös tärkeää meille kaikille, että sii-
+nä vaiheessa, kun se oma kovalevy tuolla aivoissa alkaa olla täynnä tavaraa ja tekstiä ja esi-
+tyksiä, niin on aina helpompi ymmärtää, kun asia puhutaan selkokielellä. Sen takia on tär-
+keää, että myös täällä eduskunnassa käyttäisimme aina silloin tällöin sitä selkokieltä.
+
+Haluaisin nostaa esille vielä tämän digisyrjäytymisen liittyen ikääntyneisiin ja erityises-
+ti liittyen pankkipalveluihin. Pankkipalveluissahan joutuu tänään käyttämään sitä tietoko-
+netta ja maksamaan pankkitunnuksilla niitä laskujaan, mutta kaikilla ikääntyneillä ei ole
+sitä mahdollisuutta, ja silloin pankki hoitaa näitä asioita. Totta kai se laskun maksu mak-
+saa, on se sitten maksupalvelu tai tekee sen sitten siellä automaatilla, jos jossakin pankissa
+vielä sellainen on. Olisi erittäin tärkeää, että pankkipalveluissa ikäihmiset tulisi kohdattua
+hyvin ja että pankit ohjaisivat, neuvoisivat ikääntyneitä pankkipalveluissa ja kehitettäisiin
+vaikkapa joku sellainen pohja tai malli, jonka kautta voisi opetella sitä laskujen maksamis-
+ta. Toisaalta sitten, jos ei ole sitä tietokonetta, sekään ei onnistu. 
+
+Tämä koskee erityisesti ikääntyneitä, jotka vaikkapa joutuvat hoitoon, sairaalahoitoon,
+eivätkä pysty maksamaan sitä laskuaan. Siinä tapauksessa voi joutua vaikka ulosottoon
+elikkä tulee maksuongelmia, koska ei pysty laskuja hoitamaan, ja ehkä kukaan ei ole sitä
+edes viemässä eteenpäin siellä.
+
+Tärkeitä asioita. Täällä on puhuttu paljon ja syvästi tästä esityksestä. Nämä olivat ne
+kommentit, mitä itselläni oli nyt tähän asiaan — huomioidaan ikääntyneet tulevaisuudessa
+tässä digitaalisuuden sähköisessä verkossa ja maailmassa ja muistetaan pitää heidän asiois-
+taan myös huolta.
+
+17.06 Mats Löfström r: Ärade herr talman, arvoisa herra puhemies! Digi- ja väestötieto-
+viraston toimialue kattaa myös Ahvenanmaan maakunnan, jossa maistraateille säädettyjä
+tehtäviä — kuten holhousviranomaisen tehtävät, avioliittoon vihkimiset ja julkisen notaa-
+rin tehtävät — hoitaa rekisterihallintolain 3 § 2 momentin mukaan Ahvenanmaan valtion-
+virasto. Ahvenanmaan valtionviraston rooli ja toimivalta säilyvät muutoksen yhteydessä
+ennallaan. Ahvenanmaan valtionviraston toimivallasta tulee kuitenkin säätää erityislain-
+säädännössä, koska mainittu rekisterihallintolaki kumoutuu Digi- ja väestötietovirastosta
+annetun lain tullessa voimaan. Digi- ja väestötietovirasto ja Ahvenanmaan valtionvirasto
+toimivat jatkossa väestötietojärjestelmän, holhousasioiden rekisterin, vihkimisoikeusre-
+11
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+kisterin, avioehtoasioiden rekisterin, avioliittoasioiden rekisterin ja lahjoitusasioiden re-
+kisterin EU:n tietosuoja-asetuksen 26 artiklassa tarkoitettuina yhteisrekisterinpitäjinä.
+
+Valiokunta pitää valittua ratkaisua perusteltuna ja toteaa, että yhteisrekisterinpitäjän teh-
+tävät, vastuut ja velvoitteet on ehdotetuissa säännöksissä kuvattu asianmukaisesti.
+
+Ärade herr talman! Den nya Myndigheten för digitalisering och befolkningsdatas ansvars-
+område täcker också in landskapet Åland där statens ämbetsverk på Åland sköter magis-
+traternas lagstadgade uppgifter, bland annat att vara förmyndarmyndighet, förrätta vigslar
+och att sköta uppdraget som notarius publicus. Statens ämbetsverk på Åland kommer att ha
+oförändrad roll och behörighet. Förvaltningsutskottet har också hört ämbetsverket i sak-
+kunnighörandena, och ämbetsverket har inte haft några invändningar mot lagförslaget.
+
+Ärade talman! Förvaltningsutskottet föreslår att riksdagen godkänner ett uttalande som
+bland annat poängterar den språkliga servicen i den nya myndigheten. Förslaget till utta-
+lande är följande: ”Riksdagen förutsätter att regeringen ser till att Myndigheten för digita-
+lisering och befolkningsdata kan tillhandahålla tjänster av hög kvalitet i hela landet med
+hänsyn till bland annat behoven av personliga besök på myndigheten, bristande tillgång till
+it-utrustning och brister i it-kunskaperna hos en del av befolkningen, nedsatt funktionsför-
+måga till följd av hög ålder eller sjukdom, vilket försvårar kontakterna med myndigheten,
+och tillgången till språktjänster på båda nationalspråken och på samiska samt anknytande
+behov.” Det här är ett mycket viktigt uttalande, för gällande den språkliga servicen är det
+helt avgörande att den fungerar även då statliga myndigheters tjänster digitaliseras.
+
+I innehållsproduktionen av sådana tjänster märks tyvärr redan i dag att svenskan inte rik-
+tigt hänger med. Ett konkret exempel som också berör förvaltningsutskottets område är
+Migrationsverkets hemsida. Det finns en chatbot man kan ställa frågor till. Om man frågar
+den om man kan ställa frågor på svenska får man svaret: "At the moment I only speak
+Finnish and English." Genast efteråt svarar chatbotten bestämt: "Men jag ska lära mig
+svenska." Det här duger inte, och det här och liknande fall visar att det finns en risk att
+svenskspråkig service blir sämre digitalt än via traditionella kanaler, vilket skulle vara full-
+ständigt oacceptabelt. Tvärtom borde digitaliseringen ge möjlighet att stärka den svensk-
+språkiga servicen, vilket skulle vara enkelt bara myndigheter kommer ihåg det från början
+då nya tjänster utvecklas. Det måste man göra.
+
+Då staten digitaliseras måste den göra det också på svenska, vilket inte bara gäller för
+kunder utan också för svenskspråkiga anställda i myndigheterna, inte minst på Åland. Re-
+geringsprogrammet slår fast att svenskan ska tillgodoses då stora digitaliseringsprojekt
+görs, och i det hänseendet upplever jag också att språklagen borde moderniseras. Förslaget
+till uttalande i det här betänkandet är i det här hänseendet mycket viktigt.
+
+17.11 Anu Vehviläinen kesk: Arvoisa puhemies! Palaan vielä tähän nimikysymykseen.
+Kuten itse sanoin tuossa noin, niin minä ymmärrän sen, että tätä maistraatti-nimikettä tuli-
+si pystyä myös jatkossa käyttämään kertomassa siitä, mistä niitä palveluita näiltä osin saa.
+Tämä tausta todellakin liittyy siihen, että meillä on tällä hetkellä Väestörekisterikeskus,
+joka tunnetaan lyhenteenä VRK, ja sitten meillä on maistraatit, ja tässä yhteydessä, kun
+tämä laki hyväksyttiin helmikuussa 2019, me kokosimme valtion digitalisaation toiminnal-
+liset kehittämistehtävät yhteen, koska ne olivat hyvin hajanaisesti eri puolilla. Tiedetään,
+että esimerkiksi sellainen tehtävä kuin sähköinen tunnistautuminen on monimutkainen
+asia, sitä on nytkin tässä vähän muuteltu eri tavalla, ja ehkä tulevaisuudessa ne pankkitun-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+nuslistat, mitä me nyt käytämme, poistuvat kokonaan meidän käsistämme ja me tarvitsem-
+me mahdollisesti jopa valtiollisen tunnistautumisratkaisun. Eli siellä niin sanotussa uudes-
+sa virastossa tehdään myös tällaisia asioita. Siksi sen nimike ei voi olla maistraatti. Ei voi-
+da laittaa maistraattia nimeksi ja sen alle Väestörekisterikeskuksen tehtäviä. 
+
+Väestörekisterikeskus on Trafin ohella yksi Suomen suurimpia rekistereitä kaiken kaik-
+kiaan. Minä tässä vähän maalailin, että jos me olisimme vain laittaneet nämä kaikki nimek-
+keet yhteen, niin meillä olisi todennäköisesti Väestörekisterikeskus, maistraatti ja digivi-
+rasto, ja en tiedä, olisiko sekään sitten ihan hyvä. On todella hankala löytää hyvää nimeä
+silloin, kun laitetaan tämmöisiä tärkeitä, isoja toimintoja yhteen, mutta kuten sanoin, mi-
+nulla ei ole kyllä mitään sitä vastaan, jos tätä maistraatti-nimeä käytetään niissä, missä on
+maistraatin palvelupiste, niin että se näkyy siinä esillä ja otetaan sinne mukaan.
+
+Toinen varapuhemies Juho Eerola: Edustaja Kinnunen. [Kimmo Kiljunen: Arvoisa pu-
+hemies!] — Edustaja Kiljunen, odottakaa. [Kimmo Kiljunen: Ei ollutkaan Kiljunen vaan
+Kinnunen!] Teillä on viimeinen puheenvuoro.
+
+17.12 Mikko Kinnunen kesk: Arvoisa herra puhemies! Nimen tulee olla selkeä. 
+
+Toinen varapuhemies Juho Eerola: Kinnunen ja Kiljunen, ne ovat selkeitä.
+
+Siksi kannatankin tämän maistraatti-nimen käyttöä. 
+Kiitos edustajille Juvonen ja Mäkisalo-Ropponen tästä selkokieliasian käsittelystä. Itse
+
+pidin ensimmäisen puheenvuoroni selkokielestä selkokielellä täällä muutama viikko sit-
+ten. Se jännitti niin paljon, että sanoin, että 150 000 tarvitsee selkokieltä, ja täälläkin on pu-
+huttu erisuuruisista summista riippuen lähteestä. Selkokeskuksen mukaan heitä olisi jopa
+750 000, joka tapauksessa paljon, ja siksi selkokielestä tulisi tehdä kansalaistaito ja myös-
+kin selkeä sanoittaminen tulee ottaa käyttöön niin lakien säätämisessä, valmistelussa kuin
+niiden toteuttamisessa, myöskin tämän tärkeän lain kohdalla.
+
+17.14 Kimmo Kiljunen sd: Arvoisa puhemies! Uudemman kerran.
+Kiitokset edustaja Vehviläiselle tästä selventävästä puheenvuorosta. Se auttaa niitä, jot-
+
+ka eivät ole tätä prosessia olleet tarkemmin seuraamassa, ymmärtämään, mitä haetaan. Toi-
+saalta on kai niinkin päin — jos tuohon asiaan vielä kiinnittäisi huomiota — että on ole-
+massa joku käsite, jonka alla sitten on erilaisia toimintoja. Jos on ”Senaatti-kiinteistöt”, ei
+se nimi suoraan kerro, mitä Senaatti-kiinteistöt tekee. Jos meillä on nimi ”maistraatti”, niin
+tulevaisuudessa me vain ymmärrämme, että sinne kuuluvat myöskin väestörekisteriasiat ja
+mahdollisesti digipalveluasiat. Sen toimiala ikään kuin laajenee, mutta kyllä minä tunnis-
+tan tuon tarpeen, mikä tässä tuotiin esille, että silloin täytyy ehkä miettiä, olisiko sille joku
+muu nimi sitten: ”maistraatti ja digivirasto” tai jotain vastaavaa. En rupea niitä keksimään
+tässä, kun niitä nimiä on tässä haettu. Jollain tavalla haluaisi kunnioittaa sitä maistraatti-ni-
+mitystä, se on jo niin vanha, ja siitä on niin selkeä kuva.
+
+Sen sijaan minä halusin käyttää puheenvuoron — edustaja Juvonen lähti jo pois — kun
+hän otti esille tämän digitaalisten pankkipalvelujen luonteen, ja kun äsken siteerasin Tilas-
+tokeskuksen tilastoja, niin luen tämänkin tilaston, joka koskee ikäihmiset verkkopankissa
+-tilannetta. On hyödyllistä meidän kaikkien saada nämä viimeiset, vuoden 2018 luvut. Eli
+tässähän on kyse ihan selkeästi siitä, että mitä vanhemmasta ihmisestä on kysymys, sen
+13
+
+
+
+Pöytäkirjan asiakohta PTK 59/2019 vp
+heikommin hän on tällaisten digipalvelujen piirissä. Se jakaantuu kahteen osaan, eli on
+65—75 vuoden ikäiset ihmiset — minä kuulun siihen ikäryhmään — ja näistä verkkopank-
+kipalveluja käyttää 66 prosenttia, eli kolmasosa 65—75 vuoden ikäisistä ihmisistä ei käytä
+verkkopankkipalveluita, ja kun otetaan tarkasteluun lomakkeet, joita täytetään verkkopan-
+kissa, niin lomakkeita täyttää 65—75-vuotiaista 30 prosenttia, eli 70 prosenttia ei täytä lo-
+makkeita sitä kautta. Ja kun mennään vanhempiin ikäluokkiin, 75-vuotiaisiin ja siitä ylös,
+niin vain 30 prosenttia yli 75-vuotiaista käyttää verkkopankkipalveluja, 70 prosenttia ei
+käytä. He eivät käytä niitä, jolloin juuri he ovat jonottamassa siellä pankkien palvelutiski-
+en ulkopuolella ja maksavat kovia laskuja siitä, että he käyttävät sitä vanhaa tyyliä. Ja lo-
+makkeiden täytöstä luvut ovat vielä karmeammat: vain 10 prosenttia yli 75-vuotiaista täyt-
+tää lomakkeita verkkojen kautta, eli 90 prosenttia ei täytä. Nämä ovat lukuja, jotka tulevat
+Tilastokeskuksesta nyt meille tähän nähtäväksi. Me näemme, että tämä on aito, iso ongel-
+ma nyt merkittävälle osalle suomalaisia ihmisiä, ja kyllä meidän täytyy tähän osata kiinnit-
+tää oikein huomiota.
+
+Yleiskeskustelu päättyi.
+
+Eduskunta hyväksyi hallituksen esitykseen HE 10/2019 vp sisältyvien 1.-79. lakiehdotuk-
+sen sisällön mietinnön mukaisena. Eduskunta hyväksyi valiokunnan mietinnössä ehdote-
+tun uuden, 80. ja 81. lakiehdotuksen sisällön mietinnön mukaisena. Lakiehdotusten ensim-
+mäinen käsittely päättyi.
+14
+
+
+	13
+	16.19
+	16.25
+	16.28
+	16.30
+	16.36
+	16.42
+	16.45
+	16.47
+	16.50
+	16.54
+	16.57
+	17.01
+	17.03
+	17.04
+	17.06
+	17.11
+	17.12
+	17.14
+
+

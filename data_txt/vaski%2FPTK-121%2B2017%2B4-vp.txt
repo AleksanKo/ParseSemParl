@@ -1,0 +1,1605 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEM222E.tmp.xml
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+Pöytäkirjan asiakohta 
+
+PTK 121/2017 vp
+
+Täysistunto
+
+Tiistai 21.11.2017 klo 14.00—18.00
+
+4. Hallituksen esitys eduskunnalle vuoden 2018 talousarvioesityksen (HE 106/2017 vp) täy-
+dentämisestä
+
+Hallituksen esitys HE 176/2017 vp
+
+Lähetekeskustelu
+
+Puhemies Maria Lohela: Lähetekeskustelua varten esitellään päiväjärjestyksen 4. asia.
+Puhemiesneuvosto ehdottaa, että asia lähetetään valtiovarainvaliokuntaan.
+
+Keskustelu
+
+14.35 Valtiovarainministeri Petteri Orpo (esittelypuheenvuoro):  Arvoisa rouva puhe-
+mies! Tänään saimme jälleen kerran hyviä uutisia Suomen talouden ja työllisyyden kehi-
+tyksestä. Viimeisten lukujen mukaan työllisyysaste on noussut 69,7:ään. Vielä toinen iloi-
+nen uutinen on se, että pitkäaikaistyöttömyys on laskenut ensimmäisen kerran pitkiin, pit-
+kiin aikoihin alle 100 000:n ollen nyt 95 000. Vielä kolmas nosto täältä työllisyysluvuista
+on se, että piilotyöttömyys vähenee nyt tällä hetkellä nopeaa vauhtia. Se kertoo siitä, että
+työvoimalle on kysyntää, työmarkkinoilla on avoimia työpaikkoja ja nekin, jotka ovat
+syystä tai toisesta olleet työvoiman ulkopuolella tai eivät aktiivisia työnhakijoita, ovat ha-
+keutuneet takaisin työvoiman piiriin. Kaikki nämä kertovat hyviä asioita siitä, että Suomen
+taloustilanne edelleen jatkaa paranemistaan.
+
+Toinen hyvä uutinen parin päivän takaa on se, että uusimmatkin talousennusteet valtio-
+varainministeriön ulkopuolelta ovat ennustaneet tämän vuoden kasvuksi jo yli 3 prosentin
+kasvua ja tulevalle vuodelle 18 reilusti yli 2 prosentin kasvua, jopa 3 prosenttiin meneviä
+kasvulukuja. VM tulee tekemään oman ennusteensa myöhemmin, mutta nämä ovat kuiten-
+kin varmasti suuntaa antavia. Niissä minusta oleellista on se, että kasvu ei todellakaan näy-
+tä enää pyrähdykseltä vaan myöskin vuosien 18 ja 19 kasvu näinkin korkealla tasolla ker-
+too siitä, että kasvu on todella vakaalla ja kestävällä pohjalla, mikä antaa edelleen uskoa
+siihen, että talouspolitiikan linja on oikea ja se tuottaa tulosta. Meidän kannattaa olla ylpei-
+tä siitä, että pitkäjänteisellä työllä ja määrätietoisilla toimilla tätä kasvua on pystytty vah-
+vistamaan ja yhä useampi suomalainen saa mahdollisuuden päästä työelämään ja kanta-
+maan huolta itsestään ja läheisistään. [Susanna Huovisen välihuuto]
+
+Tästä huolimatta, että talous kasvaa ja työllisyys paranee, ennustamme, että tänä vuonna
+velkaa joudutaan ottamaan yli 4 miljardia euroa, ja ensi vuodenkin budjetti rakennetaan 3
+miljardin velanotolle — tämä siis tilanteessa, jossa talous kasvaa näin voimakkaasti. Tässä
+yhteydessä jälleen kerran on syytä muistuttaa siitä, että meillä ei ole minkäänlaista jakova-
+raa, ei minkäänlaista jakovaraa, ei mahdollisuuksia lisätä pysyviä menoja — ei mahdolli-
+suuksia lisätä pysyviä menoja, vaikka kuinka mieli tekisi — koska ei ole vielä sellaista kas-
+vua, joka olisi kääntänyt julkisen talouden plussan puolelle. Tämä on syytä pitää tarkasti
+ Tarkistettu
+4.1
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+mielessä. Pitää pitää kiinni tehdyistä säästöpäätöksistä, ja vaikka julkisuudessakin esite-
+tään näkemyksiä siitä, että hallituksen talouskuri olisi lipsumassa, niin haluan sen täältä sa-
+noa, että ei ole. Me pidämme kiinni siitä 4 miljardin säästöohjelmasta, jonka olemme teh-
+neet, sen yksityiskohdista. Jos joku keinoista ei toimi tai toteudu, niin haemme korvaavaa
+tilalle.
+
+Sama koskee myöskin tulopuolta eli veroja. Täällä on nostettu useissa keskusteluissa
+esimerkiksi kiinteistöveron alarajan korotuksen peruminen. Tämä oli mahdollista tehdä,
+koska kiinteistöverojen tuotot olivat kehittyneet niin positiivisesti, että meidän ei tarvinnut
+sitä tehdä. Ja on loogista hallituksen talous- ja veropoliittiselle linjalle, että yhtään ylimää-
+räistä veronkorotusta me emme tee, koska olemme päässeet samaan tulokseen muutenkin.
+
+Arvoisat edustajat, täydentävään esitykseen: Se lisää valtion velanottoa 62 miljoonalla
+eurolla mutta pysyy tiukasti menokehyksen puitteissa. Edelleen hallitus tekee tämän esi-
+tyksensä niin, että eduskunnalle jää niin sanottua jakamatonta varausta käytettäväksi 40
+miljoonaa euroa tärkeisiin budjetin täydentäviin esityksiinsä.
+
+Ehkä suurimmista yksittäisistä menokohteista voisin käydä läpi muutamia: 5,4 miljoo-
+naa euroa kriisinhallinnan menoihin eli UNIFIL-operaation jatkoon ja laajentamiseen Li-
+banonissa — on tärkeää, että me pidämme Suomen osallistumista ja sen määrää kansain-
+välisessä rauhanturvatoiminnassa yllä. Sisäiseen turvallisuuteen ja sen vahvistamiseen ker-
+taluontoisena 5 miljoonaa euroa, joka kohdistetaan terrorismin torjuntaan tarvittaviin in-
+vestointeihin, siviilitiedustelun vahvistamiseen ja turvapaikkapalautusten nopeuttami-
+seen. Rajavartiolaitokselle esitetään oikeutta käynnistää kilpailutus ja tehdä sopimus seit-
+semän meriveneen hankinnasta. Tähän hankintaan osallistuu Euroopan unioni omalla
+rahoituspäätöksellään.
+
+Suuri muutos alkuperäiseen budjettiesitykseen on 118 miljoonan euron lisäys kuntien
+peruspalveluiden valtionosuuksiin. Tämä suuri muutos syntyy siitä, että kun on tehty tar-
+kastuslaskennat kuntien valtionosuuksista, niin tämä raha kuuluu kunnille, ja hallitus ha-
+luaa sen tehdä, koska olemme päättäneet jo hallitusohjelmassa linjaksi sen, että valtio ei
+omilla toimillaan heikennä kuntien taloudellista asemaa. Tämä olisi ollut hankalampi tilan-
+ne, mutta koska EU-jäsenmaksut laskevat arviomme mukaan nettomääräisesti noin 103
+miljoonaa euroa, se antoi liikkumavaraa tämän ratkaisun tekemiseen. Eli hieman yksinker-
+taistettuna voisi sanoa, että kuntien peruspalveluita turvataan alennetuilla ja laskevilla EU-
+jäsenmaksutuloilla.
+
+Täällä on paljon muita, pienempiä merkittäviä asioita, osin teknisiä. Vielä viimeisenä
+nostaisin esille infrahankkeet: 2 miljoonaa euroa tasoristeysten korjaamiseen starttina ja
+nopeutuksena tärkeälle työlle. Mutta sitten ehkä iso yksittäinen asia, 6 miljoonan panostus
+Kirri—Tikkakoski-moottoritien rakentamiseen lähtölaukauksena ensi vuodelle. Tämä teh-
+dään siksi, että kun me katsomme meidän liikennehankkeitamme, niin tämä Kirri—Tikka-
+koski-tie on tärkeysjärjestyksessä ensimmäinen. Se tuli todettua jo liikennepoliittisessa se-
+lonteossa, joka tehtiin viime kaudella, ja sen edeltä hankkeet on käytännössä toteutettu.
+Kirri—Tikkakoskea puoltavat myöskin iso biolaitosinvestointi Äänekoskelle ja paljon
+kasvavat liikennemäärät.
+
+Haluan huomauttaa kuitenkin sen, kun tämä kaiken kaikkiaan on noin 150 miljoonan
+hanke ja tulee jakautumaan useille vuosille, että jatkovuosien 19, 20, 21 osalta tehdään ra-
+hoituspäätökset tarkemmin ensin kehysriihessä noudattaen tarkasti kehystä ja kehyssään-
+töä niin, että me emme myöskään tämän ylimääräisen infrahankkeen myötä ylitä meidän
+kehystämme ja sitä myötä lipsu millään tavalla tiukasta taloudenpidosta.
+2
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+Arvoisa puhemies! Positiivisella mielellä esittelen tämän täydentävän esityksen edus-
+kunnalle. Työllisyys paranee, talous kasvaa. Hallituksen hyvä talous- ja työllisyyspolitiik-
+ka tuottaa tulosta. [Vastauspuheenvuoropyyntöjä]
+
+Puhemies Maria Lohela: Tähän päätän antaa ensin ministereille puheenvuorot ennen de-
+battia. Ministeri Vehviläinen aloittaa, enintään 5 minuuttia.
+
+14.43 Kunta- ja uudistusministeri Anu Vehviläinen:  Arvoisa puhemies! Palaan tuo-
+hon, mitä jo valtiovarainministeri Orpo otti esille, eli tämä 118 miljoonaa euroa lisää kun-
+tien valtionosuuksiin. Kerron vähän taustaa tarkemmin, mistä tässä on kysymys:
+
+Tästä 118 miljoonasta eurosta 109 miljoonaa euroa johtuu valtion ja kuntien välisen kus-
+tannustenjaon tarkistuksen korjauksesta. Taustaksi todettakoon, että nykyään valtion ja
+kuntien kustannustenjaon tarkistus tehdään vuosittain, eikä enää joka neljäs vuosi kuten
+aiemmin. Ensi vuotta koskeva kustannustarkistus perustuu siis kolmen vuoden takaisiin eli
+vuonna 2015 kunnille maksettuihin valtionosuuksiin.
+
+Viime vuosina tarkistus on yleensä tuonut kunnille hieman lisää valtionosuutta. Nyt kui-
+tenkin elokuussa budjettiriihen alla ainakin minua ja käsittääkseni myös virkamiehiä häm-
+mästytti, että kustannustenjaon tarkistus olisi pienentämässä kuntien valtionosuuksia ensi
+vuonna lähes 180 miljoonalla eurolla. Summa tuntui meistä kaikista suurelta. Muutama
+viikko sitten tuli ilmi, että alkuperäisestä tarkistuslaskelmasta puuttui merkittävästi huo-
+mioon otettavia kustannuksia. Taustalla on kuntien taloustilastoinnissa ilmi tullut virhe.
+Konkreettiseksi syyksi ilmeni, että vuoden 2015 käyttötaloustiedon keruussa HUS oli jät-
+tänyt kirjaamatta kustannuksia 430 miljoonan euron edestä, ja näin Tilastokeskukselle ei
+tullut oikeita tietoja eikä tieto ongelmasta välittynyt valtiovarainministeriöön. Virhe pal-
+jastui vasta Kuntaliiton alettua vertailla eri vuosien kustannuksia. Mittaluokaltaan näin
+suuria virheitä ei saa tapahtua jatkossa. Jokainen varmasti on tästä samaa mieltä.
+
+Valtiovarainministeriö ja Tilastokeskus käyvät nyt virheen syntymisen tarkasti läpi ja
+varmistavat, että vastaavaa ei pääse tapahtumaan uudelleen. Tilanteen odotetaan huomat-
+tavasti parantuvan taloustietojen raportoinnin automatisoituessa ja otettaessa käyttöön
+kuntatieto- ja maakuntatieto-ohjelmat. Kuntatieto-ohjelma tullaan ottamaan käyttöön vuo-
+desta 2019 alkaen.
+
+Mutta ei siis niin huonoa, ettei jotain hyvääkin: edellä kerrotun myötä kuntien val-
+tionosuudet kasvavat, siis ensi vuonna keskimäärin noin 20 eurolla asukasta kohden, ja li-
+säys painottuu erityisesti ikääntyneemmille ja sairastavammille kunnille.
+
+Kuntien ensi vuoden valtionosuuksista voi kuitenkin todeta muutaman seikan: Vajaalla
+sadalla kunnalla valtionosuuksien arvioidaan kasvavan tästä vuodesta, ja noin 200 kunnal-
+la valtionosuudet vähenevät. 64 kunnalla vähenemä on yli 100 euroa asukasta kohden. Val-
+tionosuuksia vähentää useimmiten asukasmäärän pienentyminen, koska se vähentää suo-
+raan laskennallisia kustannuksia ja niiden perusteella maksettavia valtionosuuksia. Useilla
+kunnilla vähenee myös niiden saama verotulotasaus, mikä puolestaan perustuu muuta maa-
+ta myönteisempään verotulokehitykseen vuonna 2016. Myös vuoden 2015 valtionosuus-
+uudistuksen siirtymätasauksen vähenemä vaikuttaa joissain kunnissa paljonkin tulevan
+vuoden valtionosuuksien määrään.
+
+Arvoisat edustajat! Kokonaisuutena kuntatalouden kehitys on ollut viime aikoina myön-
+teistä: Ehkä viimeisimpänä tietona viime viikolta Kuntaliiton tilastointi siitä, että kuntien
+keskimääräinen kunnallisveroprosentti on alenemassa ensimmäistä kertaa 20 vuoteen.
+3
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+Tämä on hieno asia. Mutta samalla rehellisyyden nimessä on hyvä ymmärtää ja tiedostaa
+se, että kuntien taloudellinen kehitys on eriytymässä ja meillä on joukko kuntia, joiden ta-
+loudellinen liikkumavara on pieni ja joissa huoli kunnan rahoituspohjan kestävyydestä on
+aidosti aiheellinen.
+
+Puhemies Maria Lohela:  Ministeri Berner, enintään 5 minuuttia.
+
+14.47 Liikenne- ja viestintäministeri Anne Berner:  Arvoisa puhemies! Haluan kiittää
+tästä mahdollisuudesta käyttää puheenvuoro tässä yhteydessä. Ja haluan myöskin kiittää
+valtiovarainministeriötä ja -ministeriä siitä, että olemme saaneet lisäystä tasoristeysten
+korjaamiseksi 2 miljoonaa euroa ensi vuodelle. Aiemmin varattujen 2,7 miljoonan euron
+lisäksi meillä on siis yhteensä 4,7 miljoonaa euroa käytettävissä. Liikenne- ja viestintämi-
+nisteriö on tehnyt suunnitelman siitä, miten tasoristeysten osalta tulisi toimia. Meillä on ra-
+taverkolla 2 800 tasoristeystä, joista noin 5 prosenttia elikkä noin 140 kappaletta kuuluu
+olosuhteiltaan heikoimpaan luokkaan.
+
+Nyt käynnistetään ja toteutetaan, ensi vuodesta alkaen, tasoristeysten sulkeminen ja
+mahdollisesti tarvittavien korvaavien tiejärjestelyjen sekä varoituslaitosten toteutus aloit-
+taen turvallisuuskriittisimmistä, luokan 7 tasoristeyksistä. Tavoitteena on päästä seuraa-
+van viiden vuoden aikana toteuttamaan mahdollisimman laajasti nämä kaikista kriittisim-
+mät näkökulmat ja huolehtia näiden poistamisesta. Liikennevirasto suunnittelee, valmiste-
+lee ja toteuttaa valtion rataverkoilla kevyisiin varoituslaitteisiin perustuvan järjestelmän
+uudelle rataosalle Lahti—Heinola-välillä, ja tämä toteutetaan vuonna 2018. Liikenteen tur-
+vallisuusvirasto Trafi määrittelee kriteerit tasoristeyksille, joissa stop-merkin käytöllä voi-
+daan tehokkaammin vähentää onnettomuusastetta — inventointi ja toteutus tehdään vuon-
+na 2018. Liikennevirasto selvittää satelliittinavigointiin perustuvan junien paikannuksen
+hyödyntämistä reaaliaikaisissa junissa varoittamassa tasoristeyksissä LVM:n satelliittina-
+vigointijärjestelmän ohjelman osana. Ja tämän lisäksi selvitetään myöskin paikkatiedon
+saatavuutta ja hyödyntämismahdollisuuksia liikenneturvallisuuden edistämiseksi. Kaiken
+kaikkiaan myöskin kiinnitetään huomiota verkon kokonaisturvallisuustasoon ja otetaan
+myöskin huomioon Onnettomuustutkintakeskuksen suositukset suunnitellessamme, ra-
+kentaessamme ja ylläpitäessämme rataverkkoa tulevaisuudessa.
+
+Tämä kaiken kaikkiaan on tärkeä kokonaisuus, ja nyt tehdyt toimenpiteet ovat vasta al-
+kua. Ja toivon myöskin, että tämä ohjelma saadaan sitten vietyä loppuun seuraavan viiden
+vuoden aikana. — Kiitos.
+
+Puhemies Maria Lohela:  Ja nyt on mahdollista käydä debattia tästä aiheesta. Pyydän sii-
+hen osallistuvia ilmoittautumaan.
+
+14.50 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa rouva puhemies! On mukava
+saada mukaviakin papereita välillä saliin ja mukavia tilastoja. Tänäänhän esimerkiksi OP-
+ryhmä on nostanut omia kasvuennusteitaan, nyt jo yli 3 prosentin, ja he ennustavat myös,
+että ensi vuonna kasvu jatkuisi näin vahvana. Muutos taloudessa on ollut tämän hallituk-
+sen aikana merkittävä, ja on ollut myös mukava huomata, että salin vasemmaltakaan lai-
+dalta ei enää ole vaadittu täyskäännöstä, sillä tämä talouspolitiikka näyttää toimivan. Nyt
+näissä tuoreissa tilastoissa nuorisotyöttömyys, pitkäaikaistyöttömyys, työttömyys yleensä,
+on vähentynyt, ja silloin kasvusta ovat päässeet nauttimaan nämä ihmiset itse asiassa eni-
+4
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+ten. Ja niin kuin täällä salissa on usein sanottu, että kasvun pitää kuulua kaikille, niin on
+hienoa, että tällä tavalla se nyt näkyy monen pitkään työttömänä olleen arjessa.
+
+14.51 Antti Rinne sd (vastauspuheenvuoro):  Arvoisa puhemies! On hienoa, että talous
+kasvaa ja työllisyystilanne paranee, työttömyys vähenee, mutta kyllä tästä talousarvion
+täydennyksestä jäi puuttumaan sydäntä. Se sydän puuttuu opiskelijoiden kohdalta, se puut-
+tuu eläkeläisten kohdalta, he eivät pysty työllisyyden parantamisen kautta omaa tilannet-
+taan parantamaan, eikä täällä löydy mitään näitten ihmisten tilanteen parantamiselle. Ta-
+louskasvu ei siis näytä kuuluvan eläkeläisille tai lapsiperheille ja opiskelijoille.
+
+Ihmettelette ja puhutte siitä, että velkaantuminen lisääntyy, vaikka talous kasvaa näin
+vahvasti. Ei sitä tarvitse ihmetellä, kun katsoo teidän, hallituksen, talouspolitiikkanne lin-
+jaa. Se on, että leikataan menoja sieltä, missä ihmisillä on heikoin tilanne, ja annetaan ve-
+ronkevennyksiä tämän valtakunnan varakkaimmille ja isompituloisille ihmisille. Se johtaa
+siihen, että rakenteellinen alijäämä kasvaa. Se johtaa siihen, että velkaantuminen pysyy
+korkealla tasolla.
+
+Arvoisa puhemies! Kysyn vielä valtiovarainministeriltä: oletteko kiinnittänyt huomiota
+näihin digitalisaatiohankkeisiin, siihen, että valtiolla on miljardin euron hankkeet vuosit-
+tain — sen selvititte valtiovarainministerinä — eli 700 miljoonan euron [Puhemies koput-
+taa] kustannukset ja nyt täällä on monta, monta, monituista yksittäistä juttua lisää digitali-
+saatioon?
+
+14.53 Esko Kiviranta kesk (vastauspuheenvuoro): Arvoisa puheenjohtaja! Edustaja Hei-
+nonen oli ehkä vähän vaatimatonkin: tänä vuonna ilmeisesti talouskasvu nousee jopa 4 pro-
+senttiin ja ensi vuonna sitten ehkä siihen 3—4 prosenttiin ainakin.
+
+Tässä täydennysesityksessä on hyviä kohtia. On erittäin tärkeää, että näitten tasoristeyk-
+sien parantamiseen tulee lisärahaa. On erittäin tärkeää, että Raaseporin onnettomuuden
+kaltaiset tapahtumat vältetään jatkossa. Varoitusvaloja ja -puomeja on saatava lisää, ja niit-
+ten rakentamista on toteutettava määrätietoisesti. Erittäin tärkeä on myös tämä Kirri—Tik-
+kakoski-tieosuus. On monia tärkeitä syitä tehdä se, muun muassa Metsä Groupin biotuote-
+tehtaan tuotteitten kuljetuksen varmistaminen ja myös raaka-aineen kuljetuksen varmista-
+minen.
+
+Monelle pienelle kunnalle, minun kotikunnallenikin, on tärkeää, että tulee tuo pienoi-
+nen lisäys ensi vuoden valtionosuuteen, [Puhemies koputtaa] joka tosin johtuu valtion ja
+kuntien välisistä kustannuksista ja on tarkistuslaskelman virheen korjaamista.
+
+14.54 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa rouva puhemies! Toden totta, kas-
+vun tulisi nyt kuulua kaikille. Olin, puhemies, hieman toiveikas, kun huomasin, että tässä
+täydentävässä lisätalousarviossa hallitus olisi tullut tässä suhteessa järkiinsä ja ajatellut,
+että näin todella on, se on reilua ja oikeudenmukaista, ja katselin, että siellä sitten tässä
+kuntien ja valtion välisessä kustannusten jaossa kuntien rahoitus lisääntyy. Pettymys oli se,
+kun siinä ei ollutkaan kysymys — arvaatte ministeri Orpo, mitä tarkoitan — siitä, että pa-
+lauttaisitte nämä ansaitut lomarahat ahkerille hoitajille, siivoojille, opettajille ja kuntien
+työntekijöille ensi vuonna. Siinä olisi ollut hyvä paikka, ja mielestäni, puhemies, voisin oi-
+keastaan tässä yhteydessä jälleen kerran toistaa sen vetoomuksen, minkä olemme, minis-
+teri Orpo, teille tehneet: Voisitteko harkita sitä, että reiluuden ja sen nimissä, että kasvu
+kuuluu kaikille, voisitte tulevan vuoden talousarvion osalta peruuttaa nämä lomarahojen
+5
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+leikkaukset? Ne te leikkasitte, konkreettisesti. Voisiko esimerkiksi tässä yhteydessä, [Pu-
+hemies koputtaa] täydentävässä lisätalousarviossa, olla sen paikka?
+
+14.55 Simon Elo sin (vastauspuheenvuoro):  Arvoisa puhemies! Arvoisat sosiaalidemo-
+kraatit, kyllä kasvu kuuluu kaikille. Kannattaa mennä sinne työpaikoille, siellähän tämä
+työllisyysasteen kasvu näkyy, eli ihmiset, duunarit, keskustelevat siellä keskenään ja ovat
+monet kuulleet siitä, että työpaikkoja syntyy: kasvu kuuluu kaikille.
+
+Mitä tulee turvallisuuteen, on erittäin hienoa, että tässä tilanteessa hallitus satsaa miljoo-
+nittain rahaa nimenomaan sisäiseen turvallisuuteen, poliisille, suojelupoliisille ja Rajavar-
+tiolaitokselle erityisesti terrorismin torjuntaan. Uskon, että tämä saa kansalta täyden tuen.
+Lisäksi joudutaan käyttämään 3,8 miljoonaa euroa vähemmän valtion korvauksiin kotout-
+tamisessa, koska nämä turvapaikkamäärät ovat pienempiä kuin mitä olisi odotettu, ja tie-
+tysti hienoa on se, niin kuin yhteisesti eduskunnassa olemme kaikki nähneet, että rintama-
+veteraanien kuntoutukseen laitetaan lisää rahaa.
+
+Kysyisin arvoisalta ministeriltä, kun nyt tiedämme, että EU:n sijaan voimme antaa suo-
+malaisille kunnille reippaasti yli 100 miljoonaa euroa: mihin suuntaan tässä suhteessa men-
+nään seuraavina vuosina EU:n jäsenmaksun suuruuden osalta?
+
+14.56 Ville Vähämäki ps (vastauspuheenvuoro):  Kunnioitettu puhemies! Todellakin,
+meidän taloutemme kasvunäkymät ovat tällä hetkellä hyvät, ja itse asiassa luulen, että tämä
+ensi vuoden budjetti ja täydentävä esitys on tehty hiukan liian maltillisille kasvulukemille,
+eli siis luulen todellakin, että Osuuspankinkin ennuste on lähempänä oikeaa kuin tämä
+VM:n 2,1, mille tämä pohjautuu.
+
+Mutta sitten on taas toisaalta kolikon kääntöpuoli: tämäkin täydentävä esitys lisää val-
+tion velanottoa 67 miljoonaa, [Timo Harakka: Siis lisää?] ja itse asiassa valtion taseasema
+on heikentynyt huomattavasti tänäkin vuonna. Eli siis lisääntyvä velanotto heikentää val-
+tion taseasemaa. Nyt pitäisi alkaa pikkuhiljaa vahvistamaan valtion tasetta.
+
+No, on täällä hyviä asioita, niin kuin tämä Hailuodon silta, 116 miljoonan hanke, 20 vuo-
+den sopimuskausi, ja sitten tuonne Nivalaan, nikkelikaivoksen siistimistöihin, laitetaan 1,3
+miljoonaa ensi vuonna lisää, tänä vuonna laitettiin jo 5 miljoonaa. [Puhemies koputtaa]
+Tämä alue pitää saada kuntoon.
+
+14.57 Li Andersson vas (vastauspuheenvuoro): Arvoisa puhemies! Täytyy edustaja Elol-
+le todeta, että kyllä siellä työpaikoillakin duunarit ihmettelevät, että kuuluuko kasvu kai-
+kille. Eli siellä edelleen puhututtaa tämä tehty kilpailukykysopimus aika paljon, ja siellä-
+kin ihmetellään edelleen sitä, että hallituksella ei ole halukkuutta oikaista tätä epäoikeu-
+denmukaista päätöstä, mitä tulee julkisen sektorin työntekijöiden lomarahojen leikkauk-
+siin.
+
+Kun tässä on keskusteltu hallituksen talouspolitiikan isosta linjasta, niin kiinnitin huo-
+miota siihen, että valtiovarainministeri Orpo taas kerran sanoi, että jakovaraa ei ole. Tämä-
+hän antaa syvästi harhaanjohtavan kuvan siitä politiikasta, mitä tämä hallitus on harjoitta-
+nut. Jakovaraa on kyllä ollut 1,5 miljardin ansiotuloveron kevennyksiin, jotka ovat suosi-
+neet suurituloisia suomalaisia kaikista eniten, ja yhtä lailla on ollut jakovaraa kilpailuky-
+kysopimuksen kustannusten kattamiseen, jonka julkistaloutta heikentävä vaikutus on lä-
+hes miljardin verran. Ainoita, joille tätä jakovaraa ei ole riittänyt, ovat suomalaiset pieni-
+tuloiset.
+6
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+14.58 Anne Kalmari kesk (vastauspuheenvuoro): Arvoisa rouva puhemies! Olen erittäin
+kiitollinen siitä, että Kirri—Tikkakoski sai viimeinkin sille kuuluvan rahoituksen. Sanon
+"sille kuuluvan", koska liikennemäärät ovat lähellä 20 000:ta ajoneuvoa vuorokaudessa ja
+Metsä Groupin investoinnin myötä tuo liikenne vielä kasvaa. Siellä olivat turvallisuusnä-
+kökohdat jo erittäin järkyttäviä ja liikenteen sujuvuutta haittaava ohitusmahdollisuuksien
+puute oli ilmeinen. Vilpittömän kiitoksen tästä päätöksestä sekä pääministerille että liiken-
+ne- ja viestintäministerille ja valtiovarainministerille haluan antaa, mutta sen lisäksi pie-
+nemmän näkökohdan: Kunnille jaettiin tässä talousarviossa vielä lisää rahaa, mutta ihan
+kaikkia kuntia se ei auttanut. Omalla kohdallamme on [Puhemies koputtaa] 370 euron vä-
+hennys per asukas, yli 8 prosenttia. [Puhemies koputtaa] Pyytäisin siihen huojennusta.
+
+15.00 Jukka Kopra kok (vastauspuheenvuoro): Arvoisa herra puhemies! Kun kuuntelee
+tätä keskustelua, niin tuntuu siltä, että hyvin moni täällä salissa unohtaa sen, että edelleen
+ensi vuonna otetaan miljarditolkulla velkaa tämän maan menojen kattamiseen. [Välihuu-
+toja vasemmalta] Se tarkoittaa sitä, että sitä jakovaraa ei todellakaan ole. Hallitus tekee täy-
+sin oikeita toimia siinä, että se purkaa sääntelyä, yritystoiminnan edellytyksiä kasvattaa,
+parantaa palkansaajien työssä käymistä ja niin edelleen, jotta me saamme tämän kakun
+kasvamaan, jotta meille sitten kertyy enemmän verotuloja, jotta me voimme maksaa niille,
+jotka tienaavat vähemmän tai tarvitsevat sitä apuamme.
+
+Maailmantalous on kasvanut jo pitkään, Suomen talous on päässyt nyt vihdoin tähän
+imuun mukaan. Mutta meidän rakenteemme ovat edelleen liian raskaita, meillä on edel-
+leen liian raskasta sääntelyä, jota pitää purkaa, ja se on tehtävä ennen kuin maailmantalou-
+den suhdanne kääntyy jälleen laskuun. Silloin me romahdamme tosi pahasti, jos emme saa
+tätä hommaa kuntoon sitä ennen.
+
+15.01 Anna-Maja Henriksson r (vastauspuheenvuoro): Värderade talman, arvoisa puhe-
+mies! On hienoa, että Suomen talous on lähtenyt kasvuun. Siitä saamme kaikki olla iloisia.
+Kuitenkin myös minä ihmettelen tässä, kun valtiovarainministeri sanoo, että ei ole min-
+käänlaista jakovaraa ja hallitus itse nyt tässä täydentävässä esittää, että otetaan lisää lainaa
+67 miljoonaa euroa. Missä on johdonmukaisuus, haluaisin tietää, kun sanotte, että ei ole ja-
+kovaraa ja otetaan lisää rahaa. Se ei ole oikein johdonmukaista politiikkaa, arvoisa hallitus.
+
+Mutta sitten kun tätä selailee, huomaa, että tässä on kyllä aivan turhiakin menoeriä. Esi-
+merkki siitä on tämä kielikokeilu, johonka osoitetaan nyt 2,3 miljoonaa euroa. Se ei tule
+tuomaan meille yhtään uutta työpaikkaa, päinvastoin siinä uhkaa eriarvoistuminen. Haluai-
+sin kysyä hallitukselta: Ettekö löydä mitään parempaa kohdetta tälle rahalle? Niitä kyllä
+löytyisi, esimerkiksi lastensuojelu olisi sellainen.
+
+15.02 Lauri Ihalainen sd (vastauspuheenvuoro):  Arvoisa puhemies! Kiinnittäisin huo-
+miota siihen, että vaikka meillä kasvu on nyt varsin ravakkaa historiaamme nähden, niin
+olisin kuitenkin vähän huolissani pidemmän aikavälin kasvun edellytyksistä ja sen varmis-
+tamisesta Suomessa. Se ei ole itsestään selvää, samoin kuin meidän hyvä viennin veto.
+
+Mutta myös haluaisin kiinnittää huomiota tähän varsinaiseen täydentävään talousarvi-
+oon: Pitkän odotuksen jälkeen oli tosi hieno asia, että Kirri—Tikkakosken Nelostien kor-
+jausrakentamiseen liikeni nyt rahoitusta, se on tosi tärkeä hanke. Kaikki Keski-Suomen
+kansanedustajat ovat tehneet paljon sen eteen töitä, ja olemme yhdessä olleet siitä myöskin
+täällä paljon puhumassa. Se on liikkeellelähtöraha tärkeälle hankkeelle, ja se on oikeastaan
+7
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+jatkumoa sille, mitä viime vaalikaudella tehtiin Nelostien korjaamiseksi Äänekosken pääs-
+sä ja radan sähköistämiseksi, jotta sellu tulee tänne Vuosaaren satamaan hyvällä tavalla.
+Nämä kaikki ovat tärkeitä elinkeinoelämälle mutta myöskin yhteiskunnalle ylimalkaan.
+
+Lopuksi haluaisin kiinnittää huomion yhteen [Puhemies koputtaa] tähän lisätalousarvi-
+oon liittyvään asiaan: Mikä on tämä 2 miljoonaa euroa, joka on varattu kai henkilöliiken-
+teen kilpailuttamisen edellytysten rakentamiseen? Mihin tarkoitukseen se raha on tarkoi-
+tettu kesken sen valmistelun?
+
+15.03 Toimi Kankaanniemi ps (vastauspuheenvuoro): Arvoisa puhemies! Työllisyys pa-
+ranee, ja se on tietysti äärettömän tärkeä asia. Syitä ja ansioita siitä voi jakaa aika monel-
+lekin taholle, eikä hallituskaan ansioton ole. On tärkeää kuitenkin muistaa se, että meillä on
+miljoona ihmistä, jotka eivät ole työelämässä ja ovat varsin pienituloisia — enemmänkin
+tietysti on kaiken kaikkiaan — ja heille täytyy hoitaa siitä budjetin kautta se kohtuullinen,
+oikeudenmukainen osuus, ja siinä on meillä puutteita.
+
+Arvoisa puhemies! Minäkin yhdyn näihin Kirri—Tikkakoski-moottoritien rakentami-
+sen valtuuksiin. Kiitän erittäin lämpimästi, että näin on tapahtunut. Se on todella tällä het-
+kellä Suomen vilkkaimmin liikennöity kaksikaistainen tie, vaarallinen, mäkinen, ja liiken-
+nemäärät jatkuvassa kasvussa muun muassa Äänekosken takia. Myös Puolustusvoimille ja
+Ilmavoimille se on tärkeä ja Jyväskylän kaupungille ja koko valtakunnalle, koska se on val-
+takunnan ylivoimainen pääväylä.
+
+15.04 Sinuhe Wallinheimo kok (vastauspuheenvuoro): Arvoisa puhemies! Minäkin yh-
+dyn kiitoksiin hallitukselle ja paikalla oleville ministereille Orpo ja Berner tästä Kirri—
+Tikkakoskesta. On hienoa, että tämä pullonkaula on nyt Nelostieltä saatu pois.
+
+Mutta minua huolettaa yleisesti tämä TEN-T-verkon kohtalo. 2030 mennessä tämän pi-
+täisi olla moottoritie aina Ouluun tai Kemiin saakka, ja rahaa tähän ei ole. Että tätäkin Kes-
+ki-Suomen hanketta lähes 30 vuotta metsästettiin. Kuinka jatkossa sitten aiotaan tämä yh-
+tälö ratkaista? Olemmeko me katsoneet loppuun esimerkiksi tuon Euroopan CEF-rahoitus-
+instrumentin, että voisiko sieltä mahdollisesti tulla jatkossa rahaa? Koska tämä on kestä-
+mätön tie, että näitä  odotetaan ja odotetaan, ja kuitenkin Euroopan unioni vaatii tätä
+TEN-T-verkkoa kuntoon 2030 mennessä.
+
+15.05 Mikko Alatalo kesk (vastauspuheenvuoro):  Arvoisa puhemies! Todellakin päära-
+dan kehittämiseen on tulossa rahaa Pasila—Riihimäki-välille, ja se on tärkeää meille myös
+siellä pohjoisemmassa asuville ihmisille. Totta kai tämä Raaseporin tasoristeysonnetto-
+muus kyllä herätti paljon myös kansalaisilta yhteydenottoja, ja on hyvä, että siihenkin on
+puututtu — vaikka kovin isoa rahaa ei ole, kuitenkin tasoristeyksien turvallisuutta voidaan
+parantaa.
+
+Mitä tulee tähän Kirri—Tikkakoskeen, niin täytyy tietysti ymmärtää, että Äänekosken
+biojalostustehdashan on valtakunnallinen hanke ja varmasti tarvitaan tätä väylää. Olen sa-
+maa mieltä kyllä, että Nelostie on meidän pääteitä. Toisaalta sitten taas toisen tien varrelta,
+tuolta Kolmostieltä katsoen voisin sanoa, että kyllä sielläkin on isot liikennemäärät, toista-
+kymmentätuhatta autoa todellakin, ja se tarvitsisi myös rahaa. Se on ollut myös liikenne-
+selonteossa aikaisemmin. Mutta onneksi kuitenkin Tampereelle tulee nyt sitten rahaa ni-
+menomaan tuohon areenahankkeeseen, [Puhemies koputtaa] joka minusta on hyvin tärkeä
+asia.
+8
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+15.06 Ari Jalonen sin (vastauspuheenvuoro): Arvoisa puhemies! Tässä on monia hyviä
+kohtia, mutta nostan yhden asian esille. Edustaja Elo nosti tämän sisäisen turvallisuuden, ja
+noihin turvallisuusviranomaisiin lisäisin pelastusviranomaisen. Pelastusviranomaisena tie-
+dän, kuinka pahaa jälkeä tulee, kun tasoristeyksessä auto ja juna kolaroivat. Näitä vaaral-
+lisia risteyksiä on poistettu ja niihin on kiinnitetty huomiota, mutta tämä 2 miljoonan lisäys
+siihen on erinomainen lisäys. Sillä saadaan vähän vauhtia siihen, koska joka ikinen kolari
+tasoristeyksessä on liikaa. Tätä rahoitustahan tarvitsisi lisätä, koska jos me otamme vartioi-
+mattoman tasoristeyksen pois, niin se vaatii kokoajatien radan sille puolelle saattamaan sen
+liikenteen turvallisempaan kohtaan ja siellä eritason. Lisää kaivataan tähän tärkeään [Pu-
+hemies koputtaa] hankkeeseen.
+
+15.08 Harry Wallin sd (vastauspuheenvuoro): On hyvä, että hallitus on reagoinut näihin
+tasoristeysonnettomuuksiin ja niitten turvallisuuteen 2 miljoonaa euroa lisää, kiitos siitä.
+Tämän vuoden määrärahan kanssa se on 4,7 miljoonaa, niin kuin ministeri kertoi. Se tar-
+koittaa sitä, että tällä nopeudella tai tällä tasolla meidän tasoylikäytävämme poistuvat 68
+vuodessa. 2085 poistuu viimeinen, eli kyllä siihen varmaan tarvitaan tiukempi ja parempi
+ote. Olen vuosikymmenet katsonut veturin keulalta näitä tasoristeyksiä ja nähnyt niitä lä-
+heltä piti -tilanteita ja sanoisin, että tämä stop-merkki ei sitä tilannetta muuta juurikaan
+vaan puolipuomilaitos, joka maksaa 100 000 euroa. Me saamme tällä 4,8 miljoonalla eu-
+rolla 47 puolipuomilaitosta, ja sillä on suuri merkitys. Sen ihmiset huomaavat, kun ne puo-
+mit laskevat ja valot vilkkuvat, mutta se stop-merkki on vain yksi liikennemerkki muitten
+joukossa, ja silloin se vaara jatkuu edelleen.
+
+15.09 Ozan Yanar vihr (vastauspuheenvuoro):  Arvoisa puhemies! Valtiovarainministe-
+ri, joka nyt ilmeisesti lähti paikaltaan [Petteri Orpo nostaa kättään salissa] — aa, hän on
+täällä — sanoi, että hallituksella ei ole jakovaraa. Jostain ihmeen syystä jakovaraa löytyy
+muun muassa tehottomiin yritystukiin. Tämä on kokoomuslaista talouspolitiikkaa. Täy-
+dentävän budjettiesityksen mukaan bkt kasvaa mutta työttömien määrä vähenee hitaasti.
+Hallituksen kunnianhimoiset uudistushankkeet etenevät hitaasti, jos ollenkaan. Perheva-
+paauudistus, tehottomien yritystukien karsinta ovat olleet hitaita prosesseja, kuten olemme
+tämän hallituksen kohdalla joutuneet tottumaan. Arvoisa valtiovarainministeri, milloin
+hallitus tulee tekemään aidosti kunnianhimoista työllisyyspolitiikkaa, jolla uudistetaan ta-
+loutta ja saadaan lisää työpaikkoja?
+
+15.10 Kari Uotila vas (vastauspuheenvuoro): Arvoisa puhemies! Vasemmistoliitto on ai-
+kaisemmissa vaihtoehtobudjeteissaan silloin, kun talous ei ole kasvanut, pyrkinyt vauhdit-
+tamaan taloutta ja työllisyyttä elvyttävällä politiikalla ja jopa lainanottoa lisäämällä. Nyt
+kun talous kasvaa, meidän vaihtoehtobudjettimme on tasapainossa eikä ota velkaa sen
+enempää kuin hallituskaan. Nyt tulikin yllätyksenä, että tämä tilanne muuttuu. Hallitus ot-
+taa ensi vuoden budjetissa enemmän velkaa kuin vasemmistoliiton vaihtoehtobudjetti. Me
+olemme arvostelleet veroelvytystä tässä tilanteessa, kun talous kasvaa, ja jatkamme sen ar-
+vostelua edelleen. Tänne tuli toki tärkeitä kohteita ja tuo Kirri—Tikkakoski ihan keskeise-
+nä. Toinen kohde, joka on iso liikennehanke, on kaikkiaan 117 miljoonan hanke elikkä
+Hailuodon tieyhteys. Se on tarkoitus tehdä PPP-hankkeena, jolloin aikana, jolloin valtio
+saa velkaa nollakorolla, me laitamme veronmaksajina siihen rahoituskustannuksiin ehkä
+kymmeniä miljoonia. Se ei ole perusteltua. Miksi tähän on päädytty [Puhemies koputtaa]
+9
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+tällaisessa tilanteessa, kun ministeri Bernerin vetämä rahoitusvaihtoehtoja pohtiva työryh-
+mä on koolla?
+
+15.11 Timo Heinonen kok (vastauspuheenvuoro): Arvoisa herra puhemies! Haluan vielä
+palata tähän esitykseen ja sen hyviin ratkaisuihin.
+
+Oli mukava kuunnella ammattimies, edustaja Wallinin puhetta tasoristeyksistä, ja juuri
+tällaista, ehkä pitkän linjan ajattelua me tarvitsemme, yhteisen ohjelman siitä, että jokai-
+nen vartioimaton tasoristeys saadaan nyt kuntoon. Yksikin onnettomuus niissä on liikaa, ja
+viimeinen on liiankin tuoreessa muistissa.
+
+Myös tässä täydentävässä on hyvä, että edelleen turvallisuuteen panostetaan, poliisin ja
+suojelupoliisin toimintaan, ja myös veteraanirahoja edelleen nostetaan tämän juhlapäätök-
+sen mukaisesti.
+
+Mutta loppuun vielä kiitos näistä liikennehankkeista. On hienoa, että Kirri—Tikkakos-
+ki- valtatie 4 on nyt etenemässä, mutta myös se, että päärata, joka on koko Suomen keskei-
+sin väylä, nyt saa lisäraideparia ja liikennöinti etelästä pohjoiseen ja toisinpäin paranee.
+[Puhemies koputtaa] Kiitos tästä ministeri Bernerille ja Orpolle.
+
+15.12 Ari Torniainen kesk (vastauspuheenvuoro):  Arvoisa puhemies! Ensinnäkin kiitos
+ministereille tämän lisätalousarvion esittelystä. Kaikki hankkeet ovat erittäin hyviä. Ha-
+luaisin kiinnittää muutamaan asiaan huomiota.
+
+Etenkin kuntien valtionosuuksien lisämäärärahat tulevat todella tarpeeseen. Kaikki kun-
+nat ovat tällä hetkellä tekemässä talousarvioitaan, ja uskon, että siellä ollaan tyytyväisiä tä-
+hän asiaan, että nyt siellä pienet virheet tulee korjattua, ja toivottavasti niitä jatkossa saa-
+daan paremmin vietyä eteenpäin.
+
+Toinen asia, mihin haluan kiinnittää huomiota, on liikennehankkeet. Kirri—Tikkakoski
+tulee varmasti tarpeeseen, se on koko valtakuntaa palveleva hanke. Mutta erityisesti nämä
+lisämäärärahat tasoristeyksien korjauksiin tulevat todella tarpeeseen. Monia tasoristeyksiä
+on myöskin kuntien keskuksissa, kaupunkien kaava-alueilla, ne tulee saada korjattua.
+
+Mutta viimeiseksi haluan sanoa, että rintamaveteraanien palvelut turvataan. Se on tär-
+keä asia [Puhemies koputtaa] itsenäisessä, 100-vuotiaassa Suomessa.
+
+Toinen varapuhemies Arto Satonen:  Ja tähän vaiheeseen debattia myönnän vielä seu-
+raavat vastauspuheenvuorot: edustajille Meri, Harakka, Zyskowicz ja Kalli. Sen jälkeen
+otetaan ministerien vastauspuheenvuorot, ja sen jälkeen jatkamme debattia.
+
+15.13 Leena Meri ps (vastauspuheenvuoro): Kiitos, arvoisa puhemies! Täällä on nyt kor-
+jattu arviota turvapaikanhakijoista. Onko ministeriaitiossa huomioitu tänään, mitä Helsin-
+gin kaupunginhallitus on eilen esittänyt? Elikkä he laajentavat ja esittävät valtuustolle so-
+siaali- ja terveyspalvelujen laajentamista mittavasti laittomasti maassa oleville. Olen kysy-
+nyt tästä ministeri Saarikolta elokuussa, kun tätä käsiteltiin sosiaali- ja terveyslautakunnas-
+sa, ja silloin todettiin vain, että kunnilla on itsehallinto. Mutta jään miettimään, minkälai-
+nen vetovoimatekijä tämä on ja miten me voimme olla varmoja, että tämä turvapaikkati-
+lanne rauhoittuu, jos meillä alkaa olla tuhansia laittomia maassa oleskelijoita, joille
+annetaan kaikki ilmaiset palvelut. Me voimme siis lakkauttaa koko turvapaikkajärjestel-
+män, koska kaikkihan saavat sitten jäädä. Tässä ovat olleet mukana erityisesti vasemmisto
+ja vihreät. Kokoomus, perussuomalaiset ja yksi SDP:n jäsen ovat kaupunginhallituksessa
+10
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+vastustaneet. Miten tähän on nyt varauduttu? Tämähän on uusi vetovoimatekijä. Kesä on
+tulossa.
+
+15.15 Timo Harakka sd (vastauspuheenvuoro): Arvoisa puhemies! Näin äänekoskelaise-
+na mielelläni myöskin yhdyn kiitoksiin Kirri—Tikkakoski-tiestä.
+
+Mutta kuten, ministeri Orpo, sanoitte, kasvu ei ole jäämässä pyrähdykseksi. Hyvä niin,
+joten sitä suuremmalla syyllä on vaadittava vastuullista valtiontaloutta. Tässäkin lisäbud-
+jetissa velkaantuminen lisääntyy, ei vähene. Se, että hyvä suhdanne johtaa lisääntyvään
+velkaan, kertoo huonosta talouspolitiikasta. Olette saanut aikaan sen, että julkinen talous
+heikkenee. Rakenteellinen alijäämä jää vuonna 19 sen 2 miljardia pahemmaksi, jonka olet-
+te omille kavereille veronalennuksena jakaneet — 2 miljardia pakkasella, kun se teidän al-
+kuvaiheessanne oli kunnossa. Ministeri Orpo, kyllä teitä on nyt sanottava tuhlaajapojaksi.
+On uskomaton suoritus lisätä sekä eriarvoisuutta että kestävyysvajetta. On uskomaton suo-
+ritus, että kovan talouskasvun aikana on vaara, että EU-komissio ottaa teidät luokalle. Ja-
+kovaraa pysyviin menoihin ei ole, mutta lienette nyt varustautunut siihen, että tämä EU-jä-
+senmaksun väliaikainen [Puhemies koputtaa] supistuminen on vain hetkellistä ja bkt-kas-
+vun ja brexitin myötä se kuitenkin jatkossa kasvaa.
+
+15.16 Ben Zyskowicz kok (vastauspuheenvuoro):  Arvoisa herra puhemies! Vasemmisto
+on kehunut tai moittinut hallituksen talouspolitiikkaa kokoomuslaiseksi, ja otamme nämä
+moitteet tai kehut mielellämme vastaan, sillä tämä ministeri Orpon johtama työn linja, hal-
+lituksen talouspolitiikka toimii ja tulokset puhuvat puolestaan. [Timo Heinonen: Kasvu
+kuuluu kaikille!]
+
+Edustaja Rinne täällä oli pahoillaan siitä, että opiskelijoita, lapsiperheitä ja eläkeläisiä ei
+huomioida vaan puhutaan vain työllisyyden parantumisesta. Kyllä kai edustaja Rinnekin
+on samaa mieltä siitä, että kun talous kasvaa, työllisyys paranee ja työttömyys vähenee,
+niin se tuo suomalaiseen yhteiskuntaan sellaista yleistä hyvinvointia, joka hyödyttää niin
+opiskelijoita, lapsiperheitä kuin eläkeläisiäkin pitkän päälle. Kun demarit ja muu vasem-
+misto vaatii säästöjen perumista, niin kannattaa nyt muistaa, että tänäkin vuonna, jolloin
+kasvu on ehkä jopa yli 3 prosenttia, me velkaannumme useamman miljardin euron.
+
+15.17 Timo Kalli kesk (vastauspuheenvuoro):  Arvoisa puhemies! Minusta täällä salissa
+on kaksi koulukuntaa. Toiset ovat sitä mieltä, että nyt tätä vireätä kasvua, joka on käynnis-
+sä, pitäisi lähteä jakamaan, ja toiset ovat sitä mieltä, että mitenkä varmistaa pidemmän ai-
+kavälin kasvu niin, että seuraavinakin vuosina olisi edellytyksiä kasvulle. Ja kun tiedämme
+varsin hyvin, että teollisuuden kapasiteetti on tällä hetkellä jo varsin täydessä käytössä, tar-
+vitaan tulevan kasvun varmistamiseksi investointeja, ja siksi meidän pitäisi luoda enem-
+män ennustettavuutta niihin yrityksiin ja niihin toimijoihin, jotka harkitsevat investointi-
+päätöksiä. [Lauri Ihalainen: Tästä juuri puhuin äsken!] Sen tähden hallituksen politiikkaa
+on kiitettävä, että olemme kyenneet luomaan ennustettavuutta tulevaisuuteen. Kysynkin
+valtiovarainministeriltä: uskotteko te, että tällä täydennyksellä ja ensi vuoden budjetilla
+kyetään tätä ennustettavuutta lisäämään edelleen niin, että investointeja syntyy ja työlli-
+syys kasvaa ja kasvun edellytykset ovat varmistettuja?
+
+Toinen varapuhemies Arto Satonen: Nyt otamme ministerien puheenvuoroja. Ensin mi-
+nisteri Orpo, 5 minuuttia.
+11
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+15.18 Valtiovarainministeri Petteri Orpo: Arvoisa puhemies! Edustaja Harakka, on hy-
+vä, että olette huolissanne taloudenpidon puolesta, mutta kyllä minä luulen, että te olette to-
+della huolissanne, jos te tutustutte SDP:n vaihtoehtobudjettiin. Teidän on pakko olla siis ai-
+van järkyttynyt siitä, miten se veisi meidät jonnekin suuren epävarmuuden varaan: 1,8 mil-
+jardia pysyviä menoja, tulopuoli täysin epävarmuuden päällä. Teidän on pakko olla todella
+huolissanne.
+
+Mielelläni jatkan kyllä keskustelua tästä hallituksen esityksestä, koska se on vastuulli-
+nen. Kun täällä kaikki oikeasti tietävät sen, että kun me teemme joka vuosi syksyllä varsi-
+naisen budjettiesityksen, tehdään varaus sekä täydentävää budjettiesitystä varten että edus-
+kunnan lisäyksiä varten, ja tämä 100 miljoonaa. Se on kerrottu tiedotteissa. En minä tiedä,
+onko vasemmistoliitto esimerkiksi jättänyt tämän eduskunnan varauksen omasta vaihtoeh-
+dostaan pois, en tiedä, mutta tämä on siis aivan normaali käytäntö. Myöskin edustaja Hen-
+riksson tietää sen pitkäaikaisena ministerinä aivan takuuvarmasti.
+
+Minä toivoisin, ettei anneta väärää kuvaa. Velkaantuminen laskee merkittävällä tavalla,
+miljardikaupalla, ja se on tämän käänteen ansiota, että talous on lähtenyt näin kovaan kas-
+vuun. Miljardikaupalla otamme velkaa vähemmän kuin me luulimme ja pelkäsimme vuosi
+sitten. Se on kiistaton totuus. Tällä 100 miljoonalla eurolla, joka liittyy varsinaisen budje-
+tin ja täydentävän ja eduskunnan lisäysten väliseen eroon, kikkailu on minusta kohtuuton-
+ta.
+
+Mutta mitä tulee sitten tähän työllisyyden paranemiseen: Edustaja Yanar ei ollut ilmei-
+sesti huomannut sitä, että tänäänkin kerrottiin työllisyyden merkittävästä paranemisesta.
+Työllisyysaste on noussut 69,7:ään, nopeammin kuin vielä viimeksi ennustettiin. Jos me
+pystymme tukemaan tätä kasvua muun muassa järkevällä veropolitiikalla, mitä tehdään,
+joka kannustaa tekemään työtä ja yrittämään, ottamaan työtä vastaan, niin me voimme saa-
+vuttaa jopa sen 72 prosentin tavoitteen, jonka me olemme asettaneet. Tämä parantunut suh-
+danne johtaa siihen, että hallituksen tavoitteet ovat yksi kerrallaan toteutumassa. Vielä täs-
+sä on tehtävää, olen sanonut sen monta kertaa, samoin siinä, että velkaantuminen pysäyte-
+tään, mutta tämä on aivan oikeaa politiikkaa. Tämä on aivan oikeaa politiikkaa. Te ette ha-
+lua nähdä sen tuloksia. Te haluatte vain kikkailla 100 miljoonalla ja sanoa, että velkaantu-
+minen lisääntyy verrattuna edelliseen. Te ette halua myöntää, arvoisa oppositio, sitä, että
+työllisyys paranee: alle 100 000 pitkäaikaistyötöntä ensimmäisen kerran. Piilotyöttömyys
+vähenee merkittävällä tavalla. [Timo Heinonen: Iloitkaa siitä!] Nuorisotyöttömyys vähe-
+nee merkittävällä tavalla, kuten edustaja Heinonenkin täällä kävi näitä asioita läpi. [Edus-
+kunnasta: Rakenteellinen alijäämä!]
+
+Mutta mitä tulee rakenteelliseen alijäämään: Myönnän sen, että työn verotuksen kiristy-
+misen estämisellä ja puolen miljardin panoksella pieni- ja keskituloisten työn verotuksen
+keventämiseen on merkityksensä rakenteelliselle alijäämälle keskipitkällä aikavälillä.
+Mutta nyt jo nähdään se, että työn linja tuottaa tulosta ja työllisyys paranee. Ja se on paljon
+arvokkaampi, sillä vain korkealla työllisyysasteella me pystymme kokonaan pysäyttä-
+mään velkaantumisen ja saamaan taloutemme kestävälle pohjalle. Minusta tämä on perus-
+teltua.
+
+Ja mitä tulee edelleen rakenteelliseen alijäämään, sen keskeinen syy on se, että meidän
+työllisyysaste on liian alhainen, ja toisaalta se, että meidän väestö ikääntyy. Se ikääntymi-
+sen haaste on meidän jokaisen edessä. Se on tämän hallituskauden aikana realisoitunut, ja
+se tulee olemaan 0,3 prosenttia bkt:stä, suhteessa bruttokansantuotteeseen, joka vuosi, se
+lisähaaste, mitä meillä rakenteellisen alijäämän osalta on. Siksi me tarvitsemme niitä ra-
+12
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+kenteellisia toimia edelleen. Siksi me tarvitsemme työmarkkinoille lisää joustoja. Siksi me
+tarvitsemme uudistuksia koulutusjärjestelmään, niin kuin me teemme. Siksi me tarvitsem-
+me sitä, että veroastetta edelleen pyritään laskemaan. Nyt se on laskemassa näillä päätök-
+sillä sieltä maailmanennätysluokasta 44 prosentista 42 prosenttiin, siis laskee useamman
+prosenttiyksikön. Näillä päätöksillä on merkitystä sille, että talous kasvaa ja saadaan se
+kasvu kuulumaan kaikille, koska vain korkealla työllisyysasteella, vain terveellä julkisella
+taloudella me pystymme huolehtimaan heikommassa asemassa olevista. Ei ole mitään
+muuta tietä.
+
+Vasemmistoliiton puheenjohtaja on ollut kyllä kieltämättä hyvin määrätietoinen ja
+konkreettinen siinä, että vastustaa kilpailukykysopimusta, vastustaa ansiotuloverotuksen
+keventämistä. Se on selvä linja. Olen täysin eri mieltä. Ja onneksi hallituksen linjan puo-
+lesta puhuvat tulokset. En haluaisi kokeilla sitä toista tietä.
+
+Toinen varapuhemies Arto Satonen: Ja vielä ministeri Berner, 3 minuuttia.
+
+15.23 Liikenne- ja viestintäministeri Anne Berner: Arvoisa puhemies! Ihan ensimmäi-
+seksi haluaisin vastata edustaja Ihalaisen esittämään kysymykseen siitä, kun tämän talous-
+arvion täydennyksen yhteydessä on perustettu uusi momentti, jolle on siirretty 2 miljoonaa
+euroa. Kysymyksessä on siirtyvä saldo, josta otetaan 2 miljoonaa euroa, jolla mahdolliste-
+taan uuden momentin perustaminen. Tämä momentti ja määräraha tulevat siihen tarpee-
+seen, että voidaan tehdä omistus- ja yhtiöjärjestelyjä. Määrärahan voi käyttää liikennevi-
+raston liikenteenohjaustoimintojen yhtiöittämisestä ja rautateiden henkilöliikenteen kilpai-
+lulle avaamisesta johtuviin omistusjärjestelyihin sekä liikenne- ja viestintäministeriön
+omistajaohjauksessa olevien yhtiöiden omistajaohjaukseen liittyen. Tässä on kysymykses-
+sä esimerkiksi merkintähintojen maksaminen, yhtenä esimerkkinä.
+
+Toinen kokonaisuus liittyy sitten edustaja Wallinheimon kysymykseen. Olen tavannut
+tänään komissaari Bulcin, ja siinä yhtenä asiakohtana on ollut TEN-T-verkko ja CEF-ra-
+hoituksen käyttö. TEN-T-verkon osalta kysymys on siitä, että me haluamme saavuttaa sen,
+että TEN-T-verkko ulottuisi Suomessa ensin Tornioon ja sitten aina Pohjoiselle jäämerelle
+saakka. Tässä haluamme myöskin katsoa, että CEF-rahastoa voisi käyttää monipuolisem-
+min ja että sen kriteerit voitaisiin uudistaa. Komissaarin vieraillessa tänään Suomessa olen
+myöskin jättänyt hänelle käteen kirjeen, jossa on Suomen aloite tähän liittyen, ja toivom-
+me myöskin komission ottavan tämän käsittelyyn, jotta saamme myöskin paremmin käyt-
+töön EU:n mahdollistamia rahoitusinstrumentteja. Samoin tulemme käsittelemään tätä ko-
+konaisuutta ja keskustelemaan siitä myös osana parlamentaarisen työryhmän työtä, jossa
+pohditaan sitä, miten voidaan paremmin hyödyntää erilaisten rahoitusinstrumenttien käyt-
+töä tulevaan infrainvestointien kehittämiseen.
+
+Toinen varapuhemies Arto Satonen: No niin, nyt on mahdollisuus pyytää jälleen vas-
+tauspuheenvuoroja, ja ne aloittaa edustaja Hautala.
+
+15.25 Lasse Hautala kesk (vastauspuheenvuoro): Arvoisa herra puhemies! Kiitokset hal-
+litukselle tästä ensi vuoden budjettiesitystä täydentävästä talousarviosta. Tämä selkeästi
+osoittaa sen, että kasvua on: lähes 70 prosentin työllisyysaste ja 56 400 työtöntä vähem-
+män kuin vuosi sitten. Nämä tulokset on saavutettu viime vuoden ja tämän vuoden talous-
+arvioilla ja hallituksen tekemillä toimenpiteillä.
+13
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+Kiitokset hallitukselle siitä, että poliisi ja suojelupoliisi saavat kalusto- ja laitehankintoi-
+hin lisää varoja. Ja kyllä erityisen merkityksellistä on myös se, että kuntien peruspalvelu-
+jen valtionosuus nousee. Siellä on selkeää tarvetta. Ja kaikki muutkin ovat täällä kiitelleet
+veteraanien saamaa lisärahoitusta. Se on positiivinen asia.
+
+Vaasan vaalipiirin osalta on tärkeää, että Vaasan lentorahtiaseman rakentamisessa pääs-
+tään liikkeelle ja myöskin Seinäjoen lentoasema saa pienen stipendin.
+
+Ja tärkeää on tasoristeysten suojaaminen.
+
+15.27 Kristiina Salonen sd (vastauspuheenvuoro): Arvoisa puhemies! Olen edelleen vä-
+hän hämmentynyt siitä, että ensi vuoden budjetin täydentäminen pitää sisällään myöskin
+toiminnallisia muutoksia. Etenkin VTS-toimintojen eli meriliikenteen alusliikennepalve-
+luiden yhtiöittäminen herättää isoja kysymyksiä. Suhtaudun suurella varauksella liiken-
+teenohjaustoimintojen yhtiöittämiseen. Yhtiöittämisen myötä meriliikenneohjaus menet-
+tää viranomaisstatuksensa. Uhan alla on esimerkiksi oikeus käyttää Puolustusvoimien tut-
+kaverkkoa.
+
+VTS-toiminta on täyttä viranomaistoimintaa. Yritin jo muutama viikko sitten nostaa
+asiaa keskusteluun. Haluaisinkin nyt uudelleen kuulla ministeri Berneriltä, kuinka viran-
+omaisten joustava yhteistyö on ajateltu turvata jatkossa ja mihin tätä yhtiöittämistä nyt tar-
+vitaan. Ei kai onnettomuuksia ehkäisevällä toiminnalla ole tarkoitus alkaa kilpailla?
+
+15.28 Lea Mäkipää sin (vastauspuheenvuoro): Arvoisa puhemies! Niin kuin täällä on kii-
+telty, on hyvä, että talous kasvaa ja työllisyystilanne parantuu. Sitä myötä saamme verotu-
+loja. Ja kertaan myös, että täällä on tullut Rajavartioston merivenehankkeeseen, samoin so-
+tilaalliseen kriisinhallintaan ja mikä tärkeintä myös tähän rintamaveteraanien kuntoutuk-
+seen, että jokainen veteraani voi saada kuntoutusta elämän lopputaipaleella.
+
+Mutta sitten lueskelin tätä valtiovarainministeriön erästä tiedonantoa, ja tietysti on aina
+hyvä antaa risujakin hallitukselle: Täällä sanotaan, että ensi vuonna, sitten kun on näitä
+seurattu, kaikista pienituloisimmille tulee runsaat 30 euroa vähemmän. Sitähän se tarkoit-
+taa, kun tulevat nämä indeksijäädytykset ja sitten tupakkaveron korotukset — ja myös mai-
+nitaan, että köyhemmät vetävät enempi tupakkaa — ja samoin asumistukileikkaukset. Kyl-
+lä meidän on varmaan hallituspuolueissakin syytä miettiä, mitenkä voisimme auttaa keliaa-
+kikkoja, [Puhemies koputtaa] ja voitaisiin näitä omavastuita hieman pienentää.
+
+Mutta kaiken kaikkiaan tämä on hyvä suunta, että työtä syntyy.
+
+15.29 Veera Ruoho kok (vastauspuheenvuoro): Arvoisa puhemies! Hallitus tosiaan eh-
+dottaa 5,4 miljoonaa lisää kriisinhallinnan menoihin, jolla Suomi osallistuu sitten Libano-
+nin operaatioon suuremmalla joukolla kuin aiemmin on päätetty. Jos joskus on ihmetelty,
+mitä hyötyä on lähettää niitä suomalaisia sinne kriisinhallintatehtäviin, niin luulisi, että
+tänä päivänä se yhä paremmin ymmärretään, että vakautetaan niitä maita, joista ihmisten
+on tarve lähteä hakemaan turvapaikkaa. Nähdään siis oikeutus sille ja että on tärkeätä, että
+suomalaiset osallistuvat kriisinhallintaan, niin sotilaalliseen kuin siviilikriisinhallintaan.
+
+15.30 Hannu Hoskonen kesk (vastauspuheenvuoro): Arvoisa herra puhemies! On aivan
+äärimmäisen tärkeää huomata se, että valtiontalous on saatu nyt hyvälle kasvu-uralle, ja pi-
+tää muistaa sekin, että tämäkään tapahtuma ei ole tapahtunut itsestään vaan sen eteen on
+tehty päätöksiä ja pidetty se linja, joka on valittu. Monessa opposition puheenvuorossa on
+14
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+puhuttu siitä, onko tämä linja peräti tuhoisa tai turmiollinen, mutta pikkusen jos katsoo tuo-
+ta poliittista historiaa, niin kyllä meillä oli viimeiset hetket tässä maassa päästä taloudessa
+sellaiselle kasvavalle ja kestävälle uralle, jolla nyt olemme.
+
+On syytä muistaa, että meillä on kuitenkin 100 miljardia euroa kokonaisvelka ja 3 mil-
+jardia vielä ensi vuonnakin velanotto. Esimerkiksi tänä päivänä kun katsoo Suomen kan-
+santaloutta, eri taloudenaloja — vaikka metsäteollisuutta, kemianteollisuutta, metalliteol-
+lisuutta ja niin edelleen — kaikilla näillä talouden aloilla on vahvaa kasvua. Ja kuten kuu-
+limme Osuuspankin uudesta ennusteesta, ne ennusteet ovat mairittelevia. Mutta sekin ti-
+lanne, että meillä menee hyvin, pitää taas ansaita joka päivä uudestaan. Ei ole mihinkään
+lepsuiluun varaa, [Puhemies koputtaa] vaan työ on kaikkien meidän paras kaveri.
+
+15.31 Rami Lehto ps (vastauspuheenvuoro): Arvoisa herra puhemies! Talousarvioon eh-
+dotetaan valtuutta tehdä tarjouskilpailun perusteella sitoumuksia uusiutuvan energian tuo-
+tantotuesta. Kalliiksi tullutta tuulivoimaa on tuettu Suomessa jopa sadoilla miljoonilla eu-
+roilla vuodessa, ja kokonaissumma kasvaa miljardeihin tulevina vuosina. Nyt kuitenkin
+kun sijoittajalle tuottoisaa syöttötariffijärjestelmää ollaan viimein pitkällä aikavälillä aja-
+massa alas, niin hallitus on jo luomassa uutta, niin sanottua teknologianeutraalia uusiutu-
+van energian tuotantotukea, joka pääasiassa kuitenkin ohjautuu — jälleen — tuulivoima-
+yhtiöille. Iso osa vireillä olevista tuulivoimahankkeista on ulkomaalaisessa omistuksessa,
+ja monet ulkomaalaiset tuulivoimayhtiöt odottavatkin jo uutta tuotantotukea vesi kielellä,
+jotta saisivat entistä enemmän nyhdettyä euroja suomalaisilta veronmaksajilta tuottoisalla
+bisneksellään. Kysynkin ministeriltä: eikö uusiutuvien tukien tulisi kohdistua ennemmin-
+kin kotimaisen uusiutuvan [Puhemies koputtaa] energiantuotannon kehittämiseen ja sa-
+malla luoda uusia suomalaisia työpaikkoja?
+
+15.32 Pia Viitanen sd (vastauspuheenvuoro): Arvoisa puhemies! Ministeri Orpo, on tie-
+tenkin ihan myönteistä, että olette tutustunut tähän SDP:n vaihtoehtobudjettiin, mutta se
+antaakin kyllä sitten sijaa seuraavalle kysymykselle: Jos näin on, miksi ihmeessä te olette
+niin valtavan huolissanne tästä? Miksi te, ministeri Orpo, olette huolissanne siitä, että pie-
+ni- ja keskituloisten palkansaajien ja eläkkeensaajien verotus kevenisi enemmän kuin tei-
+dän esityksessänne, tai miksi te olette huolissanne siitä, että lapsiperheiden verotusta ei ki-
+ristettäisi? Eivätkö nämä ole sinänsä hyviä ehdotuksia, varsinkin, kun sama yhtälö on saa-
+vutettavissa niin, että SDP ottaisi vähemmän velkaa kuin hallitus? En kyllä oikein ymmär-
+rä tätä teidän suurta huoltanne tämänkaltaisista esityksistä, puhemies, mutta toistan sen sa-
+man: minä kannan huolta ja me kannamme huolta hallituksen siitä varsin historiallisesta
+yhtälöstä, että samaan aikaan te pystytte lisäämään eriarvoisuutta [Puhemies koputtaa]
+mutta myös heikentämään valtiontaloutta siten, että jälleen kerran [Puhemies koputtaa]
+tässä esityksessä otatte lisää velkaa.
+
+15.33 Kari Uotila vas (vastauspuheenvuoro): Arvoisa puhemies! Emme me mitään sai-
+vartele sadoilla miljoonilla, me luemme tätä täydentävää lisätalousarviota, ja siellä lukee,
+että tämä lisää velanottoa 67 miljoonaa. Se on fakta, koska se on tänne kirjoitettu. Ja se on
+ihan käsittämätöntä, että kun nyt me olemme huolissamme, että näin korkean noususuh-
+danteen aikana jatketaan edelleen velkaantumista ja täydentävällä otetaan vielä lisää vel-
+kaa, niin siitäkin tulee nyt joku pilkan aihe meitä kohtaan, kun tähän asti täällä ovat kaikki
+kollegat olleet lähes sitä mieltä lähes kyynel silmissä, että joka ainoa euro on laitettava ve-
+15
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+lan maksamiseen, ettei se jää lapsille ja lapsenlapsille, heidän taakakseen. Aivan outoa, että
+tämäkin, että me nyt varoittelemme tästä velkaantumisesta, on huono asia.
+
+Minäpä sanon syyn, minkä takia se 67 miljoonaa nyt otetaan: se otetaan sen takia, että oli
+pakko löytää ratkaisuja hallituksen poliittisen liiman lisäämiseksi näinä vaikeina aikoina,
+jotta poliittinen yhteisymmärrys jatkuu ja hallitus pysyy kasassa — sinällään hyviä kohtei-
+ta, tärkeitä kohteita, mutta todellinen syy oli kyllä tämä.
+
+15.34 Simon Elo sin (vastauspuheenvuoro):  Arvoisa puhemies! Hallituksella, edustaja
+Viitanen, ei ole käytössään sosiaalidemokraattien jokavuotista silmänkääntötemppua eli
+Suomen itsenäisyyden juhlarahaston ryöväämistä. Kyllä sillä tavalla varmasti saa [Timo
+Heinosen välihuuto] mieleisensä budjetin, mutta meillä ei tällaiseen varaa ole. [Pia Viita-
+sen välihuuto]
+
+Edustaja Henriksson otti aikaisemmin esiin hallituksen vapaan kielivalinnan kokeilun.
+Se on totta, siihen laitetaan 2,3 miljoonaa euroa. Siinä on jo 2,3 miljoonaa syytä sille, miksi
+on hyvä, että siniset ovat hallituksessa eikä RKP. Suurin osa suomalaisista kannattaa va-
+paata kielivalintaa, joten on täysin perusteltua, että sitä nyt kokeillaan. Perustuslakivalio-
+kuntahan antoi tästä lausuntonsa, ei tässä perustuslain kanssa nyt mitään ristiriitaa ole.
+Meillä on kaksi kansalliskieltä, sitä kunnioitetaan, mutta nyt kokeillaan tätä, sitä, että sai-
+simmeko sellaisia tuloksia, mitä me uskomme, että voisimme saada, eli laajempaa kieliva-
+rantoa ja sitä kautta myös työpaikoille laajempaa kieliosaamista. Tämä täydentävä budjetti
+mahdollistaa kunnille ja kouluille sen, ettei niiden tarvitse huolehtia siitä rahoituksesta,
+valtio huolehtii siitä.
+
+15.36 Ozan Yanar vihr (vastauspuheenvuoro):  Arvoisa puhemies! Kiitos valtiovarain-
+ministerille hyvistä vastauksista.
+
+Toki pitää todeta, että on hienoa, että Suomi on päässyt muun maailman talouskasvun
+piiriin, mutta me olemme huolissamme siitä, että hallitus ei tee tarpeeksi. Esimerkiksi per-
+hevapaauudistuksessa tai tehottomien yritystukien karsinnassa on näkynyt hyvin vähän
+kunnianhimoa. Seuraamme, mitä tulevaisuudessa näille asioille tapahtuu. [Timo Heinosen
+välihuuto]
+
+Itse asiassa nostaisin yhden asian esille — ministeri puhui vanhenevasta väestöstä, kun
+puhuttiin kestävyysvajeesta, joka on tosi iso asia: Miten hallitus on varautunut näinkin suu-
+reen asiaan pitkän ajan perspektiivin kautta? Tämä hallitus on tehnyt Suomen varmaan
+epäinhimillisintä maahanmuuttopolitiikkaa viime vuosien osalta katsottuna — onko esi-
+merkiksi työperäinen maahanmuutto teidän näkökulmastanne asia, jota ottaisitte tarkastuk-
+seen?
+
+15.37 Juhana Vartiainen kok (vastauspuheenvuoro): Arvoisa puhemies! Täällä on kriti-
+soitu tai puolustettu yksittäisiä menoja mutta täällä puhuttiin pitkästä aikavälistä. Muistu-
+tetaanpa nyt itsellemme mieliin se, joka viimeisessä Kansantaloudellisessa aikakauskirjas-
+sa myös hyvin kuvataan. Siinä on artikkeli, jossa kerrotaan kestävyysvajeen laskemisesta,
+hyvin selväpiirteinen pedagoginen artikkeli, ja siinä päädytään valtiovarainministeriön las-
+kelmissa arvioon, jonka mukaan meidän kestävyysvajeemme eli kattamaton alijäämämme
+tulevista ikääntymismenoista on 3 prosenttia bruttokansantuotteesta eli 6 miljardia osapuil-
+leen. Se on siis suunnilleen se niin sanottu jakovara, joka täällä on, jos sellaista sanaa ha-
+lutaan käyttää, ja sen edessä on tukeva miinusmerkki. Se kannattaa jokaisen, joka täällä
+16
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+näitä asioita miettii, pitää mielessään. Jos tulevissa hallituksissa on, niin tämä on sen kai-
+ken politiikan lähtökohta pitkällä aikavälillä, [Puhemies koputtaa] niin kuin täällä on sa-
+nottukin.
+
+15.38 Arto Pirttilahti kesk (vastauspuheenvuoro):  Arvoisa puhemies! Todellakin hyviä
+talouslukuja on tullut, ja tästä nähdään, että meidän hallitus tekee hyvää politiikkaa ja että
+me saamme luottamusta. Varmaan olisi aiemminkin jo tämä Suomen kasvu ollut, jos edel-
+liset hallitukset olisivat tehneet semmoista politiikkaa, mikä aiheuttaa luottamusta. Luotta-
+mus luo kasvua.
+
+Nämä hankkeet, mitä nyt tulee:
+Kirri—Tikkakoski-tie on erinomainen juttu. Siinä on metsäteollisuuden tarpeita vastaa-
+
+vat ja myös siirtymätarpeita vastaavat mietitty hyvin. Mutta täytyy myös mainita se, että
+myös korjausvelkaa tämä hallitus on melkein miljardilla ottanut kiinni ja ne asfalttikoneet
+ovat olleet lämpöisinä koko kesän.
+
+Raiteitten osalta on hieno hanke, että välityskyky Pasila—Riihimäki-välillä korjaantuu.
+Toivotaan myös Tampereen suunnassa, että kolmosraide tavoittaisi sitten Tampereenkin.
+Sitä kautta sellu kulkisi nopeammin vielä Äänekoskelta tänne Helsinkiin.
+
+Tärkeä asia on veteraanien tukeminen ja siihen satsaaminen. He ovat meidän tämän su-
+kupolven kasvun luoneet ja sen pohjan sille.
+
+Nuorten työttömyys on pudonnut 5 prosentilla, [Puhemies koputtaa] ja tämä on oivalli-
+nen asia, ja toivotaan, että tämä suunta jatkuu.
+
+15.39 Timo Harakka sd (vastauspuheenvuoro): Arvoisa puhemies! Ministeri Orpo, kyl-
+lä minä todella mielelläni puhun SDP:n vaihtoehtobudjetista. Sehän on siinä mielessä päin-
+vastainen kuin tämän hallituksen linja, että se huomioi suhdanteet taloudessa. Meillä on nyt
+pikkuisen kireämpi linja ja kertainvestointien jälkeen selkeämmin kiristävä, ihan oikeas-
+taan peruskeynesiläistä suhdannelinjaa. Voitte kyllä nimitellä ja kylvää epäluuloa mutta
+tätä pyrkimystämme te ette voi kiistää, jos olette yhtään rakentavampi kuin edeltäjänne vi-
+rassanne.
+
+Yksityiset yritykset eivät tarvitse enää enempää verokarkkia tässä suhdanteessa. Raken-
+teelliset uudistukset ja pitkän kantaman kasvun lujittaminen ovat yhteisiä päämääriämme.
+Mutta eikö niin, ministeri Orpo, että niinhän ei saa käydä, että rakenteelliset uudistukset
+jäävät seuraavalle hallitukselle ja että myöskin velan kasvun lyhentäminen jää vasta seu-
+raavalle hallitukselle?
+
+15.40 Sami Savio ps (vastauspuheenvuoro): Arvoisa puhemies! Maahanmuuton aiheutta-
+mat kustannukset ovat hyvin merkittävä osa valtion budjettia. Niitä näyttää toki olevan hy-
+vin vaikea arvioida, ainakaan sitä maahanmuuton kustannusselvitystä ei ole vielä hallitus
+saanut aikaan. Sisäministeriön tämänhetkisen arvion mukaan turvapaikanhakijoiden mää-
+rä on jäämässä aiemmin arvioitua alhaisemmaksi. Tässä täydentävässä talousarviossa on
+mainittu 4 000 henkilöä, mikä on pienempi kuin aiempina vuosina ja vähentänee siten
+omalta osaltaan maahanmuuton kustannuksia.
+
+Mutta edustaja Meri otti äsken esille sen, että Helsingin kaupunginhallitus teki eilen pää-
+töksen tarjota laittomasti maassa oleskeleville henkilöille laajaa kattausta palveluita, jotka
+jäävät sitten viime kädessä tietenkin veronmaksajien maksettavaksi. Haluaisin myös itse
+tiedustella valtiovarainministeri Orpolta, en kuullut teidän äsken vastaavan edustaja Me-
+17
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+relle: Olette myös entinen sisäministeri turvapaikkakriisin pahimmalta ajalta vuodelta
+2015. Miten te suhtaudutte Helsingin kaupunginhallituksen suunnitelmiin, jotka tuskin
+helpottavat viranomaisten työtä poistaa laittomasti maassa oleskelevat henkilöt maasta, ja
+miten tämä kaikki vaikuttaa veronmaksajille [Puhemies koputtaa] aiheutuviin kustannuk-
+siin?
+
+Toinen varapuhemies Arto Satonen:  Myönnän vielä vastauspuheenvuoron edustaja
+Rantakankaalle, ja sen jälkeen ministerin vastaus.
+
+15.41 Antti Rantakangas kesk (vastauspuheenvuoro): Arvoisa puhemies! Kyllähän täs-
+sä talouspolitiikan ja talouden linja on muuttunut. Edellisellä vaalikaudella Suomeen syn-
+tyi 100 000 työtöntä, [Vasemmalta: Lama! Lama!] kasvu oli miinusmerkkistä ja kaikella
+tavalla kilpailukyky oli menetetty ja hyvin heikko. Nyt meillä on tilanne se, että talouskas-
+vu jatkuu vahvana ja paranee koko ajan, kiitos hallituksen hyvien päätösten ja hyvän yh-
+teistyön työmarkkinajärjestöjen kanssa. Työllisyys paranee, meillä on nyt yli 50 000 työ-
+töntä vähemmän, mikä on hieno asia, ja velkaantuminen hidastuu, vaikka edelleenkin jat-
+kuu, mutta hidastuu kuitenkin [Pia Viitanen: Tehän otatte juuri lisää tällaisia!] merkittäväl-
+lä tavalla. Hallituksen budjettitäydennyksessä esitetään hyviä hankkeita, esimerkiksi vt 4
+Kirri—Tikkakoski, se on tärkeä hanke myöskin koko Pohjois-Suomen kannalta ja tuo
+myös työtä rakentamisvaiheessa ja niin edelleen, ja sitten Hailuodon kiinteä tieyhteys on
+ollut varmaan 40 vuotta vireillä, ja nyt tämä hallitus pistää sen pakettiin ja ottaa huomioon
+alueen ihmisten toiveet.
+
+Mitä tulee energiapolitiikkaan, niin tämä teknologianeutraali tuotantotuki on kuitenkin
+paljon parempi kuin tämä syöttötariffijärjestelmä, mikä aikaisemmin oli, ja tästäkin plus-
+merkkinen kommentti [Puhemies koputtaa] valtiovarainministerille ja koko hallitukselle.
+
+Toinen varapuhemies Arto Satonen:  Ja nyt, ministeri Orpo, 5 minuuttia, ja sen jälkeen
+puhujalistaan.
+
+15.43 Valtiovarainministeri Petteri Orpo: Arvoisa puhemies! Kiitos mahdollisuudesta,
+jäi paljon kysymyksiä vastaamatta, mutta aloitan rakentavalla linjalla. Siis, edustaja Uoti-
+la, kyllä minusta se on hienoa, että me olemme kaikki huolissamme velkaantumisesta ja
+haluamme, että se taittuu. Se tavoite meillä on yhteinen, ja minä iloitsen siitä, että me
+voimme tehdä nyt tämän budjettitäydennyksen lisäyksestä huolimatta merkittävästi pie-
+nemmällä velkaantumisella kuin mitä vielä vuosi sitten ajateltiin, ja se johtuu siitä, että
+työllisyys- ja taloustilanne on parempi.
+
+Edustaja Harakka, kyllä me teemme kaikkemme, että velkaantuminen saadaan myös py-
+sähtymään tavoitellussa aikataulussa, jotta seuraavan hallituksen ei tarvitsisi jatkaa enää
+sitä työtä vaan se pystyisi vahvempana ja vahvemmalla julkisella taloudella kohtaamaan
+20-luvulla koittavat isot haasteet, jotka tulevat velkaantumisesta. Edustaja Harakka, jos
+tarkoititte lievällä kiristymisellä tässä suhdanteessa sitä, että viittaatte sillä esimerkiksi yri-
+tysverotuksen kiristämiseen, niin minä olen siitä vaan eri mieltä. En sitä sen enempää ha-
+lua irvistellä enkä arvostella, mutta totean vain olevani eri mieltä, koska pk-yritykset ovat
+nimenomaan se paikka, jonne me odotamme nyt kaikki, kansakunta odottaa, että ne uudet
+työpaikat syntyvät, [Keskeltä: Juuri näin!] ja silloin on aivan väärä ajatus, että me tässä ti-
+lanteessa, kun se kasvu on lähtenyt liikkeelle, [Timo Heinosen välihuuto] kiristäisimme
+18
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+listaamattomien eli pk-yritysten verotusta, [Pia Viitasen välihuuto] ja minusta tässä teh-
+dään ihan järkevää politiikkaa. [Kari Uotilan välihuuto]
+
+Sitten muutamia muita. [Välihuuto] Ennusteista: Valtiovarainministeriö tulee taas oman
+ennusteensa päivittämään. Se tehdään silloisten parhaiden tietojen perusteella. Nyt me
+näemme muiden ennustuslaitosten tekemiä, mutta valtiovarainministeriö perustaa oman
+politiikan ja päätöksenteon vain siihen viimeiseen omaan ennusteeseensa, mutta voihan
+näistä tietenkin katsoa suuntaa. Uskaltaisin sen verran sanoa, että jos ja kun nämä suuntaa
+näyttävät eli talouskasvu on vielä vahvempaa kuin nyt, se tulee olemaan luultavasti ilah-
+duttavaa, eli tilinpäätöksessä tämän vuoden velkaantumisen määrä tulee varmaan merkit-
+tävästikin vielä laskemaan siitä nyt arvioidusta 4,5 miljardista. Eli huolenne on toivottavas-
+ti hieman pienempi ja kevyempi kuin ennen tätä puheenvuoroa.
+
+No sitten muita, EU-jäsenmaksut: [Olavi Ala-Nissilän välihuuto] Kyllä, kertaluontoi-
+nen, lisätalousarvioista johtuva jäsenmaksujen alentuma ensi vuodelle on arviolta 103 mil-
+joonaa euroa. Seuraavana vuonna nousupaineita on, ja silloin meidän täytyy taas toimia ke-
+hyksen puitteissa. Me saamme tarkan arvion siitä, mikä EU-jäsenmaksuosuutemme tulee
+olemaan, ja sen me viemme sitten taas vuoden 19 budjettiin. Mutta huolissaan pitää olla sii-
+tä, miten käy rahoituskehykselle Britannian brexitin toteutuessa, millaiseen tasoon EU-jä-
+senmaksuissa sitten päädytään. Meidän tavoitteemme on tietenkin minimoida maksut ja
+maksimoida saannot, sekä taloudelliset että sitten aineelliset ja henkiset saannot, Euroopan
+unionista, ja tämä prosessihan meillä on kesken, mutta siitä on mahdollisuus keskustella
+muun muassa huomenna.
+
+Infrarahoituksesta nousi aika useissa puheenvuoroissa esille huoli tulevien investoin-
+tien rahoituksesta. Tässä arvostan ministeri Bernerin sinnikästä työtä sen eteen, että hän et-
+sii ratkaisuja sille, millä me rahoitamme tulevat suuret infrainvestoinnit. Meillä tulee ole-
+maan todella suuria vaikeuksia 20-luvulla pystyä rahoittamaan normaalibudjettirahoituk-
+sella niitä suuria tarpeita, mitä meillä on, [Olavi Ala-Nissilä: Tarvitaan siihen valtiota!] on
+sitten kyse joko pääradasta tai vaikkapa tunnin junayhteydestä tai muista meidän keskei-
+seen tie- ja rataverkkoon kuuluvista hankkeista. Tässä tarvitaan sekä liikenneministeriötä
+että valtiovarainministeriötä, ennen kaikkea näitä kahta, me tarvitsemme yhteistyötä, ja nyt
+olen iloinen siitä hyvästä hengestä, jossa tässä on nyt lähdetty liikkeelle vielä katsomaan
+näitä, ja samaa työtä tehdään parlamentaarisesti.
+
+Nämä laittomasti maassa oleskelevat: Ensin paksu alleviivaus sanalle ”laittomasti”.
+[Leena Meri: Nimenomaan!] Laittomasti maassa oleskelevien osalta tavoite tulee olla se,
+että heidät tehokkaasti palautetaan lähtömaihinsa, ja tätä työtä muun muassa nyt lisäresur-
+soidaan tällä täydentävällä esityksellä. Helsingin kaupunki tekee omat päätöksensä, omaa
+politiikkaansa. He ovat luultavasti arvioineet niin, että koska määrä on kasvussa, niin saat-
+taisi syntyä suurempia ongelmia, mikäli tätä ei jotenkin hallitusti hoideta. Minä en tunne
+heidän päätöksentekonsa perusteita, mutta meidän tehtävämme, [Leena Meri: Se on vaka-
+va asia!] valtion tehtävä, on nyt hoitaa tämä palautuspolitiikka ja antaa sille riittävät resurs-
+sit.
+
+Digihankkeista [Puhemies koputtaa] edustaja Rinne aikaisemmin kysyi täällä. Joka ai-
+nut digihanke, joka täällä on, tehdään tarkan suunnitelman mukaisesti, resursoidaan siellä,
+missä ne keskeisimmät pullonkaulat ovat, jotta me voimme edetä tai tärkeimmät digitali-
+sointihankkeet etenevät.
+
+Arvoisa puhemies! Vieläkin olisi ollut paljon hyviä kysymyksiä, mutta aikani on jo yli-
+tetty.
+19
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+15.48 Timo Heinonen kok: Arvoisa puhemies! Aloitetaan tuosta, kun edustaja Rinne ar-
+vosteli tässä kovasti, että tämä ei nyt näy millään tavalla lapsiperheissä: ajattelin, että kun
+tätä lähetystä eduskunnasta seuraavat kuitenkin monet suomalaiset, jotka eivät välttämättä
+ole keskustelua alusta asti seuranneet, niin tässähän on kyse vain täydentävästä esitykses-
+tä, ja tuossa varsinaisessa esityksessähän on itse asiassa paljon arvokkaita, hyviä panostuk-
+sia lapsiperheille. Niistä haluan mainita esimerkiksi tämän varhaiskasvatusmaksujen alen-
+tamisen ensi vuonna 70 miljoonalla eurolla. Maksuttoman varhaiskasvatuksen piiriin tulee
+ihan tavallisia suomalaisia perheitä 6 700, ja tavallisen suomalaisen keskituloisen perheen
+varhaiskasvatusmaksut alenevat tämän myötä ensi vuonna yli 1 200 eurolla. Myös lasten-
+tarhanopettajien koulutusta lisätään, peruskoulun tasa-arvoisuutta vahvistetaan tasa-arvo-
+rahaa korottamalla [Pia Viitasen välihuuto] ja niin pois päin. Eli täällä on erittäin paljon nyt
+hyviä panostuksia lapsiperheille. [Timo Harakan välihuuto]
+
+Tässä keskustelussa, kun täydentävästä esityksestä on kyse, tietysti on oleellista se, mitä
+taloudessa on tapahtunut. Tuossa debatissa jo itse, monen kollegan kanssa, toin esille sitä,
+että onneksi talous nyt kasvaa. Kymmenen vaikeaa vuotta oli, ja nyt talous kasvaa, työttö-
+myys vähenee ja työllisyys paranee. Kun tässä esityksessä puhutaan vielä ei näin korkeista
+kasvuluvuista ja sanotaan, että ensi vuonna kasvu hidastuisi 2,1 prosenttiin, niin tänään
+saimme jo tietoa, että esimerkiksi OP-ryhmän ennusteet on laitettu uusiksi: he ennustavat
+tälle vuodelle 3,2 prosentin kasvua ja ensi vuodellekin noin 3 prosentin kasvua. Salissa
+olemme kuulleet puheenvuoroja myös siitä, että mahdollisesti näistäkin parempiin lukui-
+hin vielä päästään. Ja tämä näkyy nimenomaan siinä, että meillä työllisyys paranee ja työt-
+tömyys vähenee.
+
+Tuoreet työllisyystilastot tältä viikolta kertovat, että työttömyys helpottaa ennätystahtia
+ja myös pitkäaikaistyöttömien määrä on vähentynyt vuodessa lähes neljänneksellä. Pitkä-
+aikaistyöttömien määrä saatiin näin painettua nyt ensimmäistä kertaa pitkään aikaan alle
+100 000:n ja yhä useampi yli vuoden työttömänä ollut on päässyt takaisin työn syrjään
+kiinni ja töihin. Vuodessa pitkäaikaistyöttömien määrä väheni lähes 30 000 hengellä, ja
+ensi vuonna odotetaan samanlaista parannusta työttömyyteen. Myös nuorisotyöttömyys on
+vähentynyt merkittävästi: viime kuussa 15—24-vuotiaista oli työtä vailla 12,3 prosenttia
+eli miltei 5 prosenttiyksikköä vähemmän kuin vuotta aiemmin. Tästä kyllä iso kiitos kuu-
+luu maamme hallitukselle ja työministeri Lindströmille.
+
+Tästä täydentävästä esityksestä muutama huomio:
+Debatissa esille toin kiitokset poliisin ja suojelupoliisin määrärahojen ja varusteiden pa-
+
+rantamisesta, kuten myös veteraanirahoista, mutta haluan vielä nostaa esille myös tämän
+Tampereen monitoimiareenan, jolle hallitus osoittaa nyt rahaa. Olen aivan varma, että
+myös edustaja Viitanen on tästä iloisen hämmentynyt, [Naurua — Pia Viitanen: Iloinen!]
+kun näin odotettu hanke saa rahoitusta ja saamme arvokkaan urheilu- mutta myös kulttuu-
+rikeskuksen Suomeen.
+
+Myös liikenneverkkoon tässä panostetaan. Edustaja Wallin toi hyvin esille tätä tasoris-
+teysten parantamisasiaa ja sen, että jos tällä tahdilla jatkamme, meillä menee 68 vuotta.
+Mielestäni tähän kannattaa kyllä tarttua ja tehdä tästä sellainen yhteinen eduskunnan pää-
+tös, että nyt me panostamme siihen ja huolehdimme siitä, että nämä tiet ovat turvallisia. Ne
+ovat varusmiesten käyttämiä teitä, ne ovat monien koululaisten käyttämiä teitä ja monen
+muun. On hyvä, että ne saataisiin nyt nopeammin kuntoon.
+
+Arvoisa puhemies! Liikennehankkeista valtatie 4, Kirri—Tikkakoski, on odotettu han-
+ke. Siitä kiitos kyllä kuuluu isolta osin keskisuomalaisille kansanedustajille, edustaja Wal-
+20
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+linheimon johdolla tämä hanke saadaan nyt lopulta eteenpäin. Lahti—Heinola-hanke on
+myös toteutumassa. Ja itse iloitsen erityisesti pääradan kakkosvaiheen hankkeen etenemi-
+sestä, siis saadaan pääradalle lisää raidekapasiteettia.
+
+Arvoisa puhemies! Aivan lopuksi haluan täältä oman jaostoni puolelta eli asunto- ja ym-
+päristöjaoston puolelta, jonka puheenjohtajana toimin, nostaa esille tämän Hituran kaivok-
+sen, ja tulen pitämään tätä asiaa niin kauan esillä, että siihen oikeasti puututaan. Täällä
+osoitetaan nyt lisää rahaa, mikä sinne tarvitaan, mutta meidän pitää etsiä — niin kuin edus-
+kunta yksimielisesti päätti hetki sitten esityksestämme — malli, jossa tällaiset kaivosyh-
+tiöt, jotka usein ovat ulkomaalaisia, maksavat säännöllisesti jonkinlaisella, vaikkapa öljy-
+suojarahastotyyppisellä, mallilla rahaa pankkiin, ja sieltä pystytään sitten huolehtimaan
+näistä konkurssiin ajautuneista kaivoksista, joista Hituraan esimerkiksi noin 15 miljoonaa
+kaiken kaikkiaan on menossa. Ympäristöjaostolle: myös merentutkimusalus Aranda on
+täällä, joka saa tuon tarvitsemansa lisän. Ja myös Valtion asuntorahastosta myönnettävien
+omistusasuntolainojen valtiontakauksen enimmäismäärää nostetaan 100 miljoonaan.
+
+Arvoisa puhemies! Tämä on hyvä täydennys jo sinänsä hyvälle pohjaesitykselle. Hie-
+noa, että kasvu kuuluu koko ajan yhä useammalle, nyt lukuisille työttömille, jotka ovat saa-
+neet muun muassa työtä.
+
+Toinen varapuhemies Arto Satonen: Nyt otamme muutaman varsinaisen puheenvuoron
+ennen kuin käynnistämme uudestaan debattia.
+
+15.55 Sinuhe Wallinheimo kok:  [Timo Harakka: Johtaja puhuu!] Arvoisa puhemies!
+"Vihdoinkin" — se oli yleisin sana Keski-Suomessa viime torstaina, kun tämän ensi vuo-
+den talousarviota täydentävän esityksen sisältö paljastui. Vihdoinkin Keski-Suomen ikui-
+suustiehankkeeksikin mainittu Kirri—Tikkakoski-moottoritiehanke saatiin liikkeelle. Nyt
+tehtävän budjettitäydennyksen myötä sille varattiin noin 6 miljoonan euron käynnistysra-
+ha. Loppurahoitus kaikkinensa 139 miljoonan hankkeelle varmistetaan vaalikauden aika-
+na.
+
+Moottoritien toteuttaminen on välttämätöntä ensinnäkin liikenneturvallisuuden kannal-
+ta. Tällä hetkellä valtatie 4 Jyväskylästä pohjoiseen on valtakunnan vilkkaimmin liikennöi-
+ty kaksikaistainen valtatie, ja reitillä on valitettavasti sattunut tasaiseen tahtiin onnetto-
+muuksia. Lisäksi esimerkiksi monet lapset joutuvat tämän tien ylittämään matkalla kou-
+luun ja harrastuksiin. Päivittäin tiellä kulkee 15 000—20 000 ajoneuvoa. On hyvä, että jat-
+kossa tätä liikenteen painetta voidaan purkaa paremmin vetävällä moottoritiellä.
+
+Toiseksi, moottoritie on välttämätön Jyväskylän pohjoispuolisen aluetalouden kehitty-
+misen kannalta. Nykyinen huono tieyhteys on ollut tulppa erityisesti Äänesseudun ja Jy-
+väskylän välisen työssäkäyntialueen kehittämiseksi. Tästä näkökulmasta tämä tiehanke on
+nykyiseltä hallitukselta hyvä investointi. Aluetalouden asiantuntijoiden mukaan yhteis-
+kunta saa kasvavien verotulojen ja työpaikkojen myötä puolitoistakertaisesti takaisin sen,
+minkä se nyt Kirri—Tikkakoskeen panostaa. Omasta mielestäni hallitus antaakin ison luot-
+tamuslauseen koko maakunnan tekemisille. Äänekosken biotuotetehtaan rakentamisesta
+liikkeelle lähtenyt kasvun kierre jatkuu tämän hankkeen turvin pitkälle ensi vuosikymme-
+nelle saakka. Nöyrä kiitos tästä kuuluu siis koko hallitukselle.
+
+Arvoisa puhemies! Kiitos kiitoksista, edustaja Heinonen, mutta totuus niin tämän Kir-
+ri—Tikkakosken kuin edellisellä vaalikaudella Keski-Suomeen saatujen historiallisten,
+isojen liikenne- ja infrapäätösten takana on maakunnan kaikkien puolueiden ja kansan-
+21
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+edustajien saumaton yhteistyö. Esimerkiksi viime vaalikaudella edustaja Ihalaisen — sil-
+loisen ministeri Ihalaisen — panos oli keskeinen hankkeiden saattamiseksi liikkeelle ja
+maaliin. Ei siis turhaan politisoida näitä meille tärkeitä hankkeita. Sen sijaan ollaan iloisia
+siitä, että myös meille keskisuomalaisille tärkeät hankkeet etenevät täällä Arkadianmäellä.
+[Timo Heinonen: Vähän turhan vaatimaton!]
+
+15.58 Pia Viitanen sd: Arvoisa puhemies! Tästä ehkä heti alkuun jatkan, että toden totta
+myös Pirkanmaalla ollaan totuttu tekemään hyvää yhteistyötä eri puolueiden edustajien
+kanssa ja siksi, edustaja Heinonen, todellakin minä iloitsen siitä, että Tampereen areena-
+hanke saa nyt nämä rahansa, joiden puolesta on töitä tehty. Erityisen mukavaa on se, että
+paitsi että tämä itse areenahanke on tärkeä, niin sen lisäksi Tampereellahan tapahtuu pal-
+jon ja on se nykyinen Hakametsän halli ja sinne Hakametsään tulee sitten tällaista moni-
+puolista urheilu-, liikunta-, harrastustoimintamahdollisuutta, muun muassa esimerkiksi
+tyttöjen taitoluistelua ja kaikkea tällaista — tai miksei poikienkin taitoluistelua. Kaikkea
+tätä voidaan, puhemies, viedä eteenpäin. Sillä tavalla tämä on varsin myönteinen kokonai-
+suus, ja aina tulee tukea liikuntaa ja urheilua ja lasten ja nuorten ja aikuisten ja ikäihmisten,
+kaikkien ihmisten, harrastusmahdollisuuksia kaikkinensa.
+
+Puhemies! Mutta tässä nyt todellakin on kysymys ensi vuoden talousarvion täydentäväs-
+tä ehdotuksesta, ja tässä, jos missä, olisi ollut hallituksen nyt hyvä tarttua siihen tosiasiaan,
+kun monesti sanotaan, myös hallituspuolueiden toimesta, että kasvu kuuluu kaikille, tässä
+olisi voinut nyt ryhtyä niihin tekoihin. Me puhumme tänään, puhemies, myöhemmin täällä
+veroista. En tässä yhteydessä käy läpi sitä, että hallituksella tuntuu riittävän rahaa hyvä-
+osaisten veronkevennyksiin mutta samaan aikaan sitten kaikkein pieniosaisimmat jäävät
+tästä kaikesta kasvusta paitsi, päinvastoin joutuvat leikkausten kohteeksi.
+
+Ajattelinkin nyt esittää myös sitä, että kun hallitus kuitenkin ensi vuodelle teki yhden
+viisaan ratkaisun, tai hallituspuolueet tässä syksyn aikana, eli he peruivat aikomansa pak-
+kokorotuksen kiinteistöveroon, niin nythän voisi tehdä tämän saman eleen myös lapsiper-
+heille, joiden verotusta nyt kiristetään: nyt voisi perua tämän lapsiperheiden veronkiristyk-
+sen. Edustaja Heinonen täällä kertoi, että on tulossa hyvää, muun muassa tämä päivähoito-
+maksujen alentaminen. Olen samaa mieltä, että se on hyvä asia. Tästäkin hallitushan oli
+alun perin sitä mieltä, että päinvastoin näitä päivähoitomaksuja tulisi korottaa, mutta on-
+neksi tässäkin kuitenkin se viisaus voitti ja hallitus peruutti ne aikeensa ja meni sitten myös
+opposition ja SDP:n toivomaan suuntaan eli alentamaan päivähoitomaksuja. Mutta toden
+totta, puhemies, minusta vain ei ole reilua, että hallitus sanoo, että ei kenenkään verotus ki-
+risty. Kyllä kiristyy, lapsiperheiden verotus kiristyy, ja se on fakta, jonka nyt voisi perua.
+
+Samoin otin debatin yhteydessä esiin sen, että kun täällä nyt kuitenkin käsitellään
+menoeriä liittyen kuntatalouteen, niin olisi ollut hyvin viisasta tässä yhteydessä jo osoittaa
+sitä tiettyä arvostusta, mitä toivoisin tunnettavan julkisen sektorin ahkeria työntekijöitä
+kohtaan. Kun nyt kerran kasvua on, niin olisi viisasta perua nämä ensi vuodellekin iskevät
+lomarahaleikkaukset. Siitä moni perhe olisi iloinen. Se olisi tervetullut lisä monen arjen
+ahertajan, ahkeran siivoojan, ahkeran hoitajan, opettajan, lastentarhanopettajan, laitosapu-
+laisten, kirjastonhoitajien ja kaikkien näiden arkeen, ja varmasti taloudellisestikin olisi vii-
+sasta, että ostovoima tätä kautta näillä ihmisillä paranisi.
+
+Haluan myös mainita eläkkeensaajat erikseen. Kävi niin, että kesän aikana toivoni herä-
+si, kun keskustan eduskuntaryhmän puheenjohtaja käytti puheenvuoron, jossa hän vaati
+kehysriihessä selkeitä toimia eläkeläisköyhyyden vähentämiseksi ja tuntuvia korotuksia
+22
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+takuueläkkeisiin. Jäin odottamaan näitä esityksiä, valitettavasti niitä ei tullut, ja siksi en
+lakkaa puhumasta tästä asiasta ennen kuin näen hallitukselta jonkinlaisia toimenpidekoko-
+naisuuksia, joilla kaikkein pienituloisimpien eläkkeensaajien tilannetta helpotetaan. Ei ole
+helppoa, kun kaikki lääkekorvausten leikkaukset ja muut iskevät samaan aikaan päälle. Ti-
+lanne on silloin kyllä monen ihmisen osalta hyvin hyvin vakava.
+
+Puhemies! Ihan lyhyesti sanon loppuun — uskon, että siihen muut puhujat palaavat
+meillä myöhemmin — että kyllä mekin demareissa tunsimme kovaa hämmennystä siitä,
+että tässä täydentävän esityksen yhteydessä yhtäkkiä löytyy 2 miljoonaa liikenne- ja vies-
+tintäministeriölle ikään kuin tämän raideliikenteen kilpailun avaamiseen ja liikenneohjaus-
+toimintojen yhtiöittämiseen, ja heräsi kyllä kysymys, onko tässä tietynlaista ujuttamista il-
+massa, sen vuoksi että eduskunnalle ei anneta laajempaa mahdollisuutta tässä yhteydessä
+koko uudistusta, missä mennään, arvioida ja tehdä linjanvetoja sen suhteen. Yhtäkkiä tulee
+rahaerä liittyen siihen hyvin hatarin, pienin perustein, ja tämä on varmasti asia, minkä pui-
+minen eduskunnassa jatkuu.
+
+Sen sijaan haluan myös omalta osaltani, puhemies, tähän loppuun sanoa, että minusta-
+kin oli tärkeää ja hyvä, että esimerkiksi näitä tasoristeysten rahoja tässä lisätään, vaikkakin
+kyllä edustaja Wallin edellä kertoi aika kuvaavasti sen, kuinka paljon vielä enemmän itse
+asiassa näihinkin turvallisuustoimiin tarvitsisimme. — Kiitos.
+
+16.04 Timo Harakka sd: Arvoisa puhemies! Täydentävä talousarvio lisää valtion meno-
+ja lähes 100 miljoonaa euroa. Sen myötä valtion velanotto ylittää ensi vuonna 3 miljardin
+euron rajan.
+
+Esitin asian samalla tavalla kuin valtiovarainministeri ja hänen esimerkkiään seuraten
+kokoomuksen kansanedustajat puhuessaan SDP:n vaihtoehtobudjetin vero-osuudesta.
+Luettelin pelkästään lisäykset enkä vähennyksiä. He esittivät bruttolukuja, eivät nettoluku-
+ja. Mutta vasta kun plussat ja miinukset lasketaan yhteen, saadaan rehellinen kokonaisku-
+va. Eli se, että SDP:n vaihtoehtobudjetissa pieni- ja keskituloisten palkansaajien ja eläke-
+läisten verotus kevenisi merkittävästi verrattuna hallituksen esitykseen. Kyse on siis vain
+siitä, verotetaanko työssä käyvän lapsiperheen arjessa pärjäämistä vai verotetaanko omis-
+tamisen iloa.
+
+No itse en tietenkään vastaavaan epärehellisyyteen sortuisi, joten totean, että täydentä-
+vään sisältyy noin kolmasosan verran tulonlisäyksiäkin ja että nettovelanotto lisääntyy
+vain — vain ja vain — 67 miljoonaa euroa. Täydentävä esitys ei siis kuitenkaan näytä
+suuntaa velkaantumisen vähentämiseen hallituksen omin toimin, vaan sitä kannattaa suh-
+danne. Suhdanne kantaa yhtä hyvin hyvää kuin huonoakin hallitusta. Se, että talous kasvaa
+ja velkaa otetaan lisää, on merkki huonosta talouspolitiikasta.
+
+Puhemies! Täydentävä talousarvio koostuu hyvin pienistä eristä, joilla on silti suuri mer-
+kitys. Nostan esille kolme hyvässä ja pahassa merkittävää teemaa, ja kaikki liittyvät liiken-
+neasioihin.
+
+Ensiksi: Meitä lienee tässä jo useita kymmeniä, jotka ovat kiittäneet sitä, että kotikau-
+punkini Äänekosken biotuotetehtaan liikennejärjestelyt paranevat, kun vihdoin viimein
+Kirrin ja Tikkakosken välinen moottoritieosuus pannaan rakenteille. Koko valtuus on noin
+140 miljoonaa, joista ensi vuodelle osoitetaan vasta 6 miljoonaa. Tässä vaiheessa monin
+verroin suurempi merkitys on edellisen hallituksen ja ennen kaikkea silloisten ministerei-
+den Ihalainen ja Vapaavuori huolehtimilla tieinvestoinneilla. Ja Tikkakosken ja Hirvas-
+kankaan väli jää vielä seuraavan hallituksen levennettäväksi.
+23
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+Toiseksi myönnetään määrärahat VR:n pilkkomiseen ja Liikenneviraston eri liikenteen-
+ohjaustoimintojen yhtiöittämiseen. Molempien hankkeiden valmistelu on vielä pahasti
+kesken, eikä asioita ole tuotu tämän talon käsittelyyn. Kun uusia omistusjärjestelyitä jo val-
+mistellaan näin konkreettisesti, ei hallitus eikä edes muka puolueeton valtiovarainministe-
+riö voi väittää, etteikö päätöstä runnottaisi haluttuun lopputulokseen täysin tosiasioista ja
+asiantuntijoista välittämättä. Myöntämällä tähän tarkoitukseen määrärahan, vaikkakin tuon
+vaatimattoman, eduskunta tulee hyväksyneeksi tarkoituksen. Saamme täällä eduskunnas-
+sa todistaa aitopaikalta, kuinka eduskunnan arvovaltaa halvennetaan.
+
+Kolmas havainto liittyy mielekkääseen päätöksentekoon ja verotuloennusteisiin: Auto-
+veroa ennakoidaan kertyväksi ensi vuonna 15 miljoonaa euroa budjetoitua enemmän, kos-
+ka romutuspalkkio ja sähköautojen hankintatuki siirtävät uusien autojen ostopäätöksiä täl-
+tä vuodelta. Vastaavaa vähennystä ei kuitenkaan ole merkitty mihinkään tämän vuoden li-
+säbudjetteihin, ja miksi olisikaan: kyseessähän on noin prosentti koko verosaannista, eikä
+tällä tarkkuudella ole mahdollista ennustaa verotuloja. Kyse onkin siis pelkästä kosmetii-
+kasta, jotta tulopuoli näyttäisi paremmalta, sillä tämä täysin epävarma saatava, jota vastaa-
+vaa menoa ei siis ole huomioitu, muodostaa puolet tuloista. Siinäkin mielessä eduskunnan
+arvovaltaa halvennetaan, että edes viitsitään hyväksyttää näin epävarmoja ja epätodellisia
+numeroita täällä ministerin täydellä arvovallalla.
+
+Kuten tuossa aikaisemmin sanoin, hallitus on valinnut tuhlaajapojan tien. Sillä tuhlaaja-
+pojan polulla tämä pikkuisen velkaa lisäävä ja hataria tuloja toivova asiakirja on pieni har-
+haretki lillukanvarsien hetteisessä maastossa.
+
+16.08 Toimi Kankaanniemi ps: Arvoisa herra puhemies! Perussuomalaiset laativat vaih-
+toehtobudjettinsa sillä periaatteella, että emme kiristä kokonaisveroastetta emmekä ota
+velkaa enempää kuin hallitus, itse asiassa hieman vähemmän. Tämä merkitsi sitä, että läh-
+dimme rakentamaan budjettiesitystämme kohdennusten kautta eli sillä tavalla, että sekä
+menojen että verotuksen kohdentuminen muuttuu oikeudenmukaiseksi — eli sillä vanhal-
+la periaatteella, että verotus kohtelee maksukyvyn mukaan ihmisiä ja yrityksiä, ja toisaalta
+sillä periaatteella, että verotetaan enemmän sitä, mikä ei ole hyödyllistä tai on haitaksi yk-
+silölle ja yhteiskunnalle, ja vähemmän sitä, mikä on hyödyksi ihmisille, yrityksille ja yh-
+teiskunnalle. Ja tiedämme, että hyöty tulee ennen kaikkea siitä, että työ, yrittäminen, asu-
+minen ja liikenne voivat hyvin. Ne ovat perusasioita, ja haluamme, että näiden verotusta ei
+kiristetä, mieluummin kevennetään. Ja sitten toisaalta taas niin sanottuja haittaveroja nos-
+tetaan ja varakkaiden verotukseen tehdään kiristyksiä, koska siellä on maksukykyä kaik-
+kein eniten.
+
+Tämä oli se lähtökohta. Menopuolella tämä mahdollistaa uudelleenkohdentamisia, ja
+niitä olemme tehneet mittavan määrän. Tästä käytiin jo aikaisemmin keskustelua, mutta
+nyt halusin tämän kerrata.
+
+Arvoisa puhemies! Meillä on käsittelyssä ensi vuoden budjettiesityksen täydennys, aika
+mittava täydennys onkin. Se sisältää pienehköjä summia moneen eri tarkoitukseen. Se
+viesti, minkä esimerkiksi johtamani kunta- ja terveysjaosto on saanut asiantuntijakuulemi-
+sessa, ei näytä menneen hallitukselle tämän kahden kuukauden aikana, kun noita asiantun-
+tijoita olemme siellä kuulleet. Nimittäin on tullut hyvin vahvasti esille se, että esimerkiksi
+lasten ja nuorten mielenterveysongelmat ovat hyvin vakava asia tänä päivänä ja paheneva
+ongelma. Kaiken tämän, tietyllä tavalla, hyvinvoinnin keskellä lasten ja nuorten tilanne ei
+ole hyvä. Sinne tarvitaan lisää panostuksia — niitä ei valitettavasti ole.
+24
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+Toinen on samaan kohderyhmään eli lastensuojeluun. Sillä puolella on vakavia puuttei-
+ta ja ongelmia. Eilen niistä kuultiin kansainvälisenä lasten päivänä sosiaalityöntekijöiden
+ja lastensuojeluviranomaisten vakavat vetoomukset. Näihin pitää paneutua hyvin voimak-
+kaasti. Valitettavasti hallitus on nämä ohittanut eikä ole niihin tarttunut sillä tavalla, mikä
+olisi tarpeen.
+
+Vielä mainitsen, että lääkekustannusten rajut omavastuiden korotukset ovat osoittautu-
+neet aivan liian koviksi. Meillä on ihmisiä, jotka joutuvat valitsemaan, ostavatko lääkkeet
+vai ruokaa päivittäin, ja kysymys on kuitenkin pääosin niistä ihmisistä, vanhoista ihmisis-
+tä, jotka ovat rakentaneet tämän hyvinvoinnin meille. Tähän odottaisin kyllä parannusta,
+mutta tässä täydentävässä esityksessä sellaista ei ole näkyvissä.
+
+Arvoisa puhemies! Täällä on puhuttu velkaantumisesta hyvin paljon. Totean, että jos
+valtio investoi pitkäaikaisiin kohteisiin, niin velanotto ei ole mikään huono asia. Nyt korot
+ovat matalalla, mutta valitettavasti viime vaalikaudella ja osin tämänkin vaalikauden alus-
+sa velkaantumisvauhti oli niin kova, että investoinnit eivät olleet lähelläkään vastaavaa, eli
+valtio käytti kulutusmenoihin velanottoa. Se tie on saatava loppumaan, ja näin on käymäs-
+sä vähin erin — hyvä näin.
+
+Arvoisa puhemies! Kirri—Tikkakoski-tiestä on täällä paljon puhuttu. Totean vielä, että
+se palvelee myös muun muassa Ilmavoimia ja sinne on tulossa varalaskeutumisalue, joka
+on tavattoman tärkeä. Se on TEN-verkkoa todellakin, niin kuin on todettu, ja meidän pitäi-
+si päästä siihen, mistä ministeri Bernerkin totesi, että EU-rahoitusta näihin isoihin TEN-
+hankkeisiin alettaisiin saada. Nyt Suomi ei ole sitä saanut, ja hanke Tikkakoskelta Ääne-
+koskelle ja edelleen pohjoiseen olisi sellainen valtakunnan tärkeimmän tien korjaushanke,
+johon kannattaisi tätä pyrkiä saamaan.
+
+16.14 Veera Ruoho kok: Arvoisa puhemies! Muutama kommentti tuohon edustaja Kan-
+kaanniemen puheeseen. Hän nosti esille tärkeän seikan näistä lastensuojeluasioista. Meillä
+Espoossakin on lastensuojelutapausten määrä huolestuttavalla tavalla noussut, ja on todet-
+tu, että yksi suurimmista yksittäisistä syistä siihen on vanhempien päihde- ja mielenter-
+veysongelmat.
+
+Mitä tulee perussuomalaisten varjobudjettiin, siinä on varmasti ansionsa juurikin näit-
+ten nuorten ja lasten huomioon ottamisessa. Se vain kiinnitti silloin huomiota — taisi olla
+edustaja Arhinmäki, joka puhui opposition vastuullisesta varjobudjetoinnista — että en ole
+ihan varma, oliko perussuomalaisten varjobudjetissa tehty eduskunnan tietopalvelun kaut-
+ta tällaisia vaikutusarviointeja näistä toimenpiteistä.
+
+Arvoisa puhemies! Tämä hallituksen esitys talousarvioesityksen täydentämisestä on to-
+dellakin kannatettava. Edustaja Heinonen puheessaan kävi hyvin kattavasti sitä esityksen
+sisältöä läpi, ja itse keskityn lähinnä turvallisuuteen.
+
+Yhteensä 3 miljoonaa euroa kertaluontoista lisärahoitusta ehdotetaan poliisin terroris-
+min torjuntaan tarvittaviin kalusto- ja laiteinvestointeihin sekä poliisin turvapaikkapalau-
+tusten tehostamiseen. Nämä turvapaikkapalautukset ovat siis näitä kielteisen lainvoimai-
+sen turvapaikkapäätöksen saaneiden käännytyspäätösten täytäntöön panemista.
+
+Edelleen kertaluonteista 2 miljoonan euron lisärahaa ehdotetaan suojelupoliisille terro-
+rismin torjuntaan tarvittavaan laitteistoon ja muuhun välineistöön sekä siviilitiedustelutoi-
+minnan kohentamiseen. Lisäksi Rajavartiolaitokselle ehdotetaan lisättäväksi se 3,3 miljoo-
+naa euroa merivene MIV 15 -hankinnasta syntyviin kustannuksiin.
+25
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+Arvoisa puhemies! Sisäministeriön tämänhetkisen arvion mukaan turvapaikanhakijoi-
+den määrä jäänee tosiaan sitä aiemmin arvioitua 7 000:tta pienemmäksi eli noin 4 000:een
+hakijaan, ja sitten se tulee tosiaan vähentämään heillä tätä kotouttamisen määrärahan tar-
+vetta 3,8 miljoonalla eurolla sekä perusopetukseen valmistavan koulutuksen ja aikuisten
+perusopetuksen määrärahan tarvetta 3,4 miljoonalla eurolla.
+
+Nämähän ovat taas semmoisia asioita, nämä turvapaikanhakijoitten määrät, että niihin
+on pakko vastata. Emme me voi lähteä Suomen valtiona yhtäkkiä rikkomaan kansainväli-
+siä sopimuksia ja estämään ihmisten tuloa. Tässä tulee oleellisen tärkeäksi se työ, mitä hal-
+lituskin tällä hetkellä tekee yhteistyössä tuolla EU:ssa, se kansainvälinen yhteistyö, missä
+yritetään saada näitä käytäntöjä ja järjestelmää yhtenäiseksi, ettei tule sitä ilmiötä, mikä nyt
+on todennettukin, että turvapaikanhakijoissa on ihmisiä, joilla ei sitä varsinaista Geneven
+pakolaissopimuksen määrittelemää tarvetta turvapaikalle ole, vaan siellä on taustalla ihan
+tämmöisiä taloudellisia syitä, ja sitä kautta sitten haetaan houkuttelevinta maata, missä sit-
+ten nähdään, että se elo olisi mielekkäintä. Mutta yhtä kaikki korostan sitä, että meidän on
+tärkeää EU-tasolla olla tekemässä niitä sopimuksia niin, että se on Suomellekin niin talou-
+dellisesti kuin myös sitten turvallisuuden kannalta edullisinta.
+
+Arvoisa puhemies! Vielä lyhyesti haluaisin sanoa sen, mitä meillä valtiovarainministeri
+Orpokin korosti, eli miten tärkeää meillä on kuitenkin se talouskuri. Tiukalla talouskurilla
+me turvaamme peruspalvelut ihmisille.
+
+16.19 Lasse Hautala kesk: Arvoisa herra puhemies! Käsittelyssämme on nyt ensi vuo-
+den talousarviota täydentävä hallituksen esitys. Ensinnäkin aluksi voi hyvinkin todeta sen,
+että tämä täydentävä talousarvioesitys tukee ensi vuoden varsinaista talousarviota. Tällä
+hetkellä voimme olla tyytyväisiä siihen, että kuluvan vuoden talousarvio ja edellisen vuo-
+den talousarvio ovat tukeneet vahvaa taloutemme kasvua. Olemme kuluvana vuonna ol-
+leet Euroopan eniten kasvava kansantalous. Työllisyys on parantunut: tällä hetkellä meillä
+on 56 400 työtöntä vähempi kuin vuosi sitten. Ja jos avaamme tätä 56 400:aa, niin voimme
+sen osalta todeta, että sen luvun takana on paljon perheitä, jotka ovat päässeet taloudessaan
+vakaammalle pohjalle. Tällä hetkellä työllisyysasteemme on 69,7 prosenttia, ja nyt arvio
+on, että pääsemme ensi vuonna yli 70 prosentin työllisyysasteeseen. Eli ollaan jo hyvin lä-
+hellä sitä hallituksen asettamaa tavoitetta 72 prosentin työllisyysasteesta.
+
+Herra puhemies! Tämä täydentävä talousarvioesitys sisältää useita, sanotaanko näin,
+pieniä korjauksia, joilla kuitenkin on rahasummaa olennaisesti suurempi merkitys:
+
+Äskeinen puheenvuoron pitäjä, edustaja Ruoho, nosti esille nämä poliisin ja suojelupo-
+liisin kalusto- ja laitehankintojen määrärahakorotukset. Vaikka siinä yhteensä lisätään vain
+5 miljoonaa, niin se tulee äärimmäisen tarpeelliseen kohtaan.
+
+Sitten kuntien peruspalvelujen valtionosuutta lisätään lähes 124 miljoonaa euroa, ja sen
+osalta voi todeta myös, että se tulee tukemaan merkittävällä tavalla ensi vuonna kuntien pe-
+ruspalvelujen toteutusta.
+
+Ammatilliseen koulutukseen, arvonlisäveron korvauksiin, annetaan lähes 6 miljoonaa
+euroa.
+
+Tämä täydentävä talousarvioesitys sisältää useita liikennettä koskevia hankkeita. Useat
+edustajat ovat kiitelleet tätä Kirri—Tikkakoski-tiehanketta, 139 miljoonaa euroa siihen. Se
+tulee merkittävästi parantamaan myöskin Äänekosken sellutehtaan liikennettä. Ja kuten
+edustaja Kankaanniemi täällä aikaisemmin totesi, tiellä on erittäin merkittävä rooli myös-
+26
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+kin Ilmavoimien tarpeita silmällä pitäen ja nimenomaan tämän varalaskupaikan saannin
+myötä.
+
+Yksi liikennettä koskevista hankkeista on tämä tasoristeysten poistaminen: nyt tällä esi-
+tyksellä niitä poistetaan 2 miljoonalla eurolla. Ja kuten edustaja Wallin täällä aikaisemmin
+totesi, hyvin pitkä tie on näiden kaikkien vaarallisten tasoristeysten poistamisessa, mikäli
+summat ovat tätä luokkaa. Mutta tämä on hyvä alku, ja toivottavasti vuoden päästä pääs-
+tään sitten korottamaan myöskin näitä tasoristeysten rakentamiseen liittyviä määrärahoja.
+
+Vaasan lentokentän lentorahtiasematason rakentamiseen tuleva 1,3 miljoonaa tulee tar-
+peeseen, koska Vaasa on kehittynyt ja kasvanut ja siellä on kasvavaa tarvetta lentorahdin
+käsittelyyn. Tämä hallin rakentaminen on siinä mielessä äärimmäisen tärkeää.
+
+Herra puhemies! Eduskunnalle niin sanottua jakamatonta osuutta tässä tulee noin 40
+miljoonaa euroa, ja kuluvalla viikolla tietysti hallituspuolueiden edustajat jaostoissa poh-
+tivat sitä, mihin kohteisiin tätä rahaa käytetään. Vaikka kysymyksessä ei ole tämän suu-
+rempi rahasumma, uskon, että sillä kuitenkin kyetään monia pieniä korjauksia tekemään ja
+tarpeita tyydyttämään, mitä niin edustajille kuin sitten eri yhteyksissä eduskunnalle on esi-
+tetty.
+
+Arvoisa puhemies! Tämä on äärimmäisen hyvä ja kannatettava täydentävä talousarvio,
+joka tulee sisällön mukaisena hyväksyä.
+
+16.24 Hannu Hoskonen kesk: Arvoisa herra puhemies! Hallituksen esitys täydentävästä
+budjetista ensi vuoden talousarviota koskien on erittäin hyvä ja perusteltu ja kuvaa hyvin
+sitä, mikä on Suomen talouden tilanne tällä hetkellä. Talous kasvaa, ja kuten olemme kuul-
+leet noista eri taloustutkimuslaitosten ja pankkien ennusteista ensi vuodelle ja seuraavalle
+vuodelle ja voin sanoa ihan puhtaalla omallatunnolla, tilanne on aivan toinen kuin se oli
+esimerkiksi neljä vuotta sitten. Talous kasvaa, ja kuten Erkki Liikanen, Suomen Pankin
+pääjohtaja, on monessa yhteydessä todennut taloustutkimuslaitosten johtajien kera, par-
+haillaan kasvu on kaikilla talouden pääalueilla erittäin voimakasta ja investointeja teh-
+dään. Se on tärkeää, että investoinnit ovat lähteneet liikkeelle.
+
+Metsäteollisuus on tässä asiassa näyttänyt tietä investoinneille. Tämä Äänekosken mo-
+nipuolisen sellutehtaan, biotehtaan rakentaminen oli eräänlainen henkinen voitto siinä, että
+tähänkin maahan vielä investoidaan. Kannattaa panna merkille se, minkä varassa Suomen
+kansantalous tällä hetkellä edelleen seisoo. Se on hyvin pitkälti metsien tuotteet. Metsäta-
+lous ja metsäteollisuus, sieltä se tämän maan kasvu tulee, ja tähän hetkeen sopii erinomai-
+sesti se sanoma, että meidän on pidettävä huoli siitä, että Suomen metsiä pystytään myös
+tulevaisuudessa hyödyntämään.
+
+Olen lievästi järkyttyneenä seurannut keskustelua tästä LULUCF-asetuksesta ja samoin
+RED II -direktiivistä, elikkä uusiutuvan energian kestävyyskriteereistä, joita parhaillaan
+EU:ssa viilataan loppuasentoon. Olen aivan järkyttyneenä seurannut niitä puheenvuoroja,
+mitä Suomestakin kuulee, että me emme saisi omia metsiämme hakata, ja samaan aikaan
+esimerkiksi Ruotsi hakkaa 80 prosenttia metsiensä kasvusta, ja se ei tässä talossa haittaa
+opposition kansanedustajia, varsinkaan vihreitä, yhtään ollenkaan. Mutta kun Suomessa
+ollaan noin 65 prosentin tasolla tällä hetkellä ja oltaisiin nostamassa hakkuumäärä noin 80
+prosenttiin vuotuisesta kasvusta, se on sitten valtava ongelma. Ilmastopolitiikasta kun pu-
+hutaan, niin luulisi nyt hyvänen aika sentään olevan kuitenkin ihan se ja sama, kun naapu-
+rukset pääsisivät samalle tasolle ja hoitaisivat metsänsä hyvin. Sitenhän tehdään hyvää il-
+27
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+mastopolitiikkaa, joka vaikuttaisi meidän talousarvioon ja toisi liikkumavaraa kansanta-
+louteen, ja ennen kaikkea työllisyys paranisi.
+
+Tämän lisätalousarvion numeroista käy ilmi, että työllisyys on parantunut. Työllisyys-
+aste on tällä hetkellä 69,7 prosenttia. Päästäänkö 72 prosenttiin tämän vaalikauden aikana,
+mikä oli tavoite? Se on edelleen mahdollista saavuttaa, mutta se tarkoittaa sitä, että talous-
+kurin on pidettävä. Meidän on pystyttävä antamaan itsestämme ulospäin kuva, että me
+olemme luotettava yhteistyökumppani kaikille kauppakumppaneille ja kaikille yrityksille
+ja myös niille ihmisille, jotka työtä tekevät, koska pitkäjänteisyydellä ja uskottavuudella ja
+luotettavuudella luomme sitä kasvua, joka kantaa sitten pitkälle. Jos talouden kasvun puo-
+lella lähdetään hakemaan pikavoittoja tai peräti tekemään lisävelkaa sillä perusteella, että
+tällä se maailma paranee silmänräpäyksessä, kun otetaan muutama miljardi velkaa ja ruve-
+taan tekemään joitakin hurjia juttuja... Se ei pidä paikkaansa.
+
+Suomi on elvyttänyt, ottanut velkaa yli 100 miljardia euroa jo tähän päivään asti. Ensi
+vuoden talousarviossa on 3 miljardin euron velanotto edelleen. Sitä kuuluisaa jakovaraa ei
+kerta kaikkiaan ole. Tämän takia on aivan välttämätöntä, että jatketaan samalla linjalla, ja
+olen hieman ihmeissäni siitä, että oppositio on puheenvuoroissaan moittinut tätä kilpailu-
+kykysopimusta. Lähinnä vasemmistoliiton riveistä on näitä kriittisiä puheenvuoroja tullut,
+mutta hieman demareistakin siitä on kaikuja kuullut. Se oli kuitenkin työmarkkinajärjestö-
+jen tekemä oma sopimus ja se oli aivan hyvä sellainen. Pitää muistaa — monelta arvoste-
+lijalta unohtui se sanoa — että näiden kilpailukykysopimukseen liittyvien leikkausten
+kompensoiminen verotuksen kautta on jo tehty. Verotusta on kevennetty sillä keinoin, että
+tutkimuslaitosten puolueettomien tutkimusten mukaan kompensaatio on hieman plussalla,
+muutaman euron plussalla. Ihan tarkkoja lukuja en muista, mutta noin 3—4 euroa se on
+plussalla kuitenkin. Elikkä on tehty leikkauksia, jotka on pakko kuitenkin ollut tehdä, että
+valtiontalous saadaan kuntoon. Se vanha kansanviisaus, että hyvä ja toimiva ja kunnossa
+oleva valtiontalous on meidän kaikkien paras ystävä, koskee myös vähäosaisimpia ja kaik-
+kein eniten apua tarvitsevia ihmisiä, sairaita, vanhuksia. Heidänkin kannaltaan vahva jul-
+kinen talous on aina paras ystävä.
+
+Arvoisa puhemies! Lopuksi vielä: Se, että kun nyt työllisyys on parantunut olennaisesti
+ja työpaikkoja syntyy ja ennen kaikkea pitkäaikaistyöttömyydessäkin on päästy alle
+100 000:n, on aivan valtavan hieno saavutus, koska sen ihmisen kannalta työpaikan saami-
+nen, olkoon se sitten vaikka hieman eri alalta kuin millä hän on tottunut työtä tekemään, on
+äärimmäisen arvokasta.
+
+Se julkisen talouden osa, joka on äärimmäisen tärkeä tavalliselle ihmiselle, on kuntata-
+lous, ja kuntatalous on parantunut viime vuosien aikana hurjaa vauhtia ja on tällä hetkellä
+reilusti plussalla, kun se viime vaalikaudella oli koko ajan miinuksella, rajusti miinuksella,
+kun kunnilta leikattiin ihan valtavia summia pois. Näin ollen me kannamme suurta huolta
+ja vastuuta siitä, että julkinen talous tervehtyy ja myös kuntatalous pysyy kunnossa, ja sit-
+ten näiden kasvun hedelmien jakaminen yhä suuremmalle alueelle tähän maahan ja meille
+kaikille on äärimmäisen tärkeää. Siksi biotalouden harjoittaminen ja työpaikkojen synty-
+minen metsäpuolelle on äärimmäisen tärkeää, ettemme tästä talosta rakenna esteitä met-
+sien käytölle, puutuotteiden myynnille ja niille erittäin arvokkaille työpaikoille, jotka tuon-
+ne joka puolelle Suomea syntyvät metsätalouden myötä. Tämä on meidän yhteinen tehtä-
+vämme.
+
+Keskustelu päättyi.
+28
+
+
+
+Pöytäkirjan asiakohta PTK 121/2017 vp
+Asia lähetettiin valtiovarainvaliokuntaan.
+29
+
+
