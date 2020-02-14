@@ -48,7 +48,6 @@ for xml in json1:
     for i in xml['rowData']:
         l2 = i[1]
         soup = BeautifulSoup(l2)
-        #t = str(l2)
         #if 'Alkoholijuomien anniskelu sallitaan' in t:
         #    print('wow this string is in xml')
         print(soup.prettify())
