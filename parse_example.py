@@ -5,7 +5,6 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from os import listdir
 from os.path import isfile, join
-from tika import parser
 from requests.exceptions import InvalidSchema, ChunkedEncodingError
 """
 A script for extracting relevant data, namely date, time, a speaker, a speaker's party and a speech.
@@ -76,9 +75,6 @@ def download_from_jsons():
             pass
     print('Wrote all files to pdf')
 
-#пишем их в файл csv, в котором есть только хедеры
-#надо зафигачить функцию для обработки каждого документа и потом вызывать ее для списка документов
-
 def extracting_data_from_doc(link):
 
     text_of_the_document = ''
@@ -116,8 +112,8 @@ def extracting_data_from_doc(link):
                 all_speeches = all_speeches.replace('\n'," ")
                 all_speeches = all_speeches.replace('\r\n'," ")
                 all_speeches = all_speeches.replace('  '," ")
-                with open('C:/Users/konovale/Parsing//t1.txt','w') as f:
-                    f.write(all_speeches)
+                # with open('C:/Users/konovale/Parsing//t1.txt','w') as f:
+                #     f.write(all_speeches)
 
                     #gathering data about speakers in format
                     #"Time + Title (optional) + Name+Surname + Party (optional) + Reply (optional)"
@@ -153,12 +149,6 @@ def extracting_data_from_doc(link):
 
                     #checking that all lists have the same length
                 print(len(all_dates), len(all_times), len(all_persons), len(all_texts), len(all_parties))
-                    # print(all_dates[0])
-                    # print(all_times[0])
-                    # print(all_persons[0])
-                    #print(all_texts[0])
-                    # print(all_parties[0])
-                    #написать Exception?
 
                     #writing all data to a dictionary and then to dataframe
                 all_data = {'Date':all_dates, 'Time': all_times, 'Speaker':all_persons, 'Party':all_parties, 'Speech':all_texts}
@@ -168,7 +158,6 @@ def extracting_data_from_doc(link):
                     #print(df.shape[0])
 
                     #writing a dataframe to csv
-                #df.to_excel('C:/Users/konovale/Parsing/speeches_1.xlsx',encoding='utf-8')
                 df.to_csv('C:/Users/konovale/Parsing/speeches_2end.csv', encoding='utf-8', sep='\t', mode='a', header=False)
             except ValueError:
                 print('No discussion found in: {}'.format(link))
@@ -176,10 +165,9 @@ def extracting_data_from_doc(link):
     except AttributeError:
         print('Some problems with date in {}'.format(link))
         error_files.append(link)
-        print(len(error_files))
-        with open('C:/Users/konovale/Parsing/errors.txt', 'w',encoding='utf-8') as f:
-            for i in error_files:
-                f.write(i)
+        # with open('C:/Users/konovale/Parsing/errors.txt', 'w',encoding='utf-8') as f:
+        #     for i in error_files:
+        #         f.write(i)
         pass
 #create a function
 #def func():
@@ -208,3 +196,11 @@ def func1():
         with open(i,'r', encoding='utf-8') as f:
             texts = f.read()
             extracting_data_from_doc(i)
+
+mypath = 'C:/Users/konovale/Parsing/data_txt/'
+onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+texts = []
+
+for i in onlyfiles:
+    with open(mypath+i,'r', encoding='utf-8') as f:
+        extracting_data_from_doc(mypath+i)

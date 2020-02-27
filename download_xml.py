@@ -9,29 +9,36 @@ import pandas as pd
 jsons = []
 
 def download_jsons(mode):
+
     if mode == 'input':
         id_doc = input('Enter a document ID: ',)
-        response = requests.get(
-            'https://avoindata.eduskunta.fi/api/v1/tables/VaskiData/rows?perPage=10&page=0&columnName=Eduskuntatunnus&columnValue={}'.format(
-                id_doc))
+        parameters = {'perPage': 10, 'page': 0, 'columnName': 'Eduskuntatunnus', 'columnValue': id_doc}
+        response = requests.get('https://avoindata.eduskunta.fi/api/v1/tables/VaskiData/rows',params=parameters)
         json_data = json.loads(response.content)
         jsons.append(json_data)
+
     elif mode == 'folder':
-        link = 'C:/Users/konovale/Parsing/data_txt/'
+        link = input('Enter a folder with documents: ',)
         onlyfiles = [f for f in listdir(link) if isfile(join(link, f))]
         id_search = re.compile('PTK\s\d{1,4}\/\d{4}\svp')
+
         ids = []
         texts = []
+
         for i in onlyfiles:
             with open(link + i, 'r', encoding='utf-8') as f:
                 text_of_the_document = f.read()
                 texts.append(text_of_the_document)
+
         for text in texts:
             id_doc = id_search.search(text).group()
             ids.append(id_doc)
+
         ids = list(set(ids))
+
         for id_doc in ids:
-            response = requests.get('https://avoindata.eduskunta.fi/api/v1/tables/VaskiData/rows?perPage=10&page=0&columnName=Eduskuntatunnus&columnValue={}'.format(id_doc))
+            parameters = {'perPage': 10, 'page': 0, 'columnName': 'Eduskuntatunnus', 'columnValue': id_doc}
+            response = requests.get('https://avoindata.eduskunta.fi/api/v1/tables/VaskiData/rows',params=parameters)
             json_data = json.loads(response.content)
             jsons.append(json_data)
         print('{} JSONs gathered'.format(len(jsons)))
@@ -45,6 +52,7 @@ def parsing_xml():
         for i in xml['rowData']:
             l2 = i[1]
             soup = BeautifulSoup(l2)
+
             #finding all speeches by tag
             items = soup.find_all("vsk:puheenvuorotoimenpide")
 
@@ -54,8 +62,9 @@ def parsing_xml():
             all_parties = []
             all_texts = []
 
-            for i in range(0,len(items)):
+            for i in range(len(items)):
                 data_list = []
+
                 #searching for attribute containing time of the beginning of the speech in format e.g. '2017-09-19T14:15:46'
                 day = items[i]['vsk1:puheenvuoroaloitushetki']
                 data_list.append(day)
@@ -80,7 +89,8 @@ def parsing_xml():
         else:
             all_persons.append(data_list[2] + ' ' + data_list[3])
             all_parties.append(data_list[4])
-        #we don't need the data about whether the speech is a response or some other type of speech, so we don't append it
+
+        #the data about whether the speech is a response or some other type of speech is not appended
         if 'puheenvuoro)' in data_list[5]:
             all_texts.append(' '.join(data_list[6:]))
         else:

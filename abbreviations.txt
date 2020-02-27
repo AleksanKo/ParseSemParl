@@ -1,0 +1,23 @@
+#from http://www.kielitoimistonohjepankki.fi/ohje/262
+abbreviations = {
+     'Eläinoikeuspuolue':'eop',
+     'Feministinen puolue':'fp',
+     'Itsenäisyyspuolue':'ipu',
+     'Kansalaispuolue':'kp',
+     'Kansallinen Kokoomus':'kok',
+     'Liberaalipuolue - Vapaus valita':'lib',
+     'Liike Nyt': 'liik',
+     'Perussuomalaiset':'ps',
+     'Piraattipuolue':'pp',
+     'Seitsemän tähden liike':'tl',
+     'Sininen tulevaisuus':'sin',
+     'Suomen Kansa Ensin':'ske',
+     'Suomen Keskusta':'kesk',
+     'Suomen Kristillisdemokraatit (KD)':'kd',
+     'Suomen ruotsalainen kansanpuolue':'r',
+     'Suomen Sosialidemokraattinen Puolue':'sd',
+     'Vasemmistoliitto':'vas',
+     'Vihreä liitto':'vihr',
+     'Kommunistinen Työväenpuolue – Rauhan ja Sosialismin puolesta':'ktp',
+     'Suomen Kommunistinen Puolue':'komm',
+     'Reformi':'ref'}
