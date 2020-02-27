@@ -9,8 +9,6 @@ for i in onlyfiles:
     with open(mypath+i,'r', encoding='utf-8') as f:
         extracting_data_from_doc(mypath+i)
 
-#разобраться с этими прекрасными министрами - вроде done
-#снова пофиксить регулярку для людей
 #скопипастить отсюда http://www.kielitoimistonohjepankki.fi/ohje/262 список сокращений и отчипывать их от имени
 #или просто искать сразу же 
 # abbreviations = {

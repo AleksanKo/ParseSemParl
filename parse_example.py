@@ -208,5 +208,3 @@ def func1():
         with open(i,'r', encoding='utf-8') as f:
             texts = f.read()
             extracting_data_from_doc(i)
-
-#extracting_data_from_doc('Z:/Documents/New project/data_tpp/vaski%2FPTK-70%2B2018-vp.txt')
