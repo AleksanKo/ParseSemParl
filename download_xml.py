@@ -1,24 +1,38 @@
 from os import listdir
 from os.path import isfile, join
+import argparse
 import json
 import re
 import requests
 from bs4 import BeautifulSoup, Tag, NavigableString
 import pandas as pd
 
+parser = argparse.ArgumentParser(description='Downloading and parsing data')
+group = parser.add_mutually_exclusive_group(required=True)
+
+group.add_argument('--id', action='store_true',type=str, help='download one protocol')
+group.add_argument('--folder', action='store_true',type=str, help='download from files from the folder')
+
+parser.add_argument('--csv', type=str, help='a path to the CSV file where to save the data')
+args = parser.parse_args()
+
+mode_id = args.id
+mode_folder = args.folder
+csv_link = args.csv
+
+#add option for a list of ids (in txt or in list format?)
 jsons = []
+def download_jsons(mode='folder'):
 
-def download_jsons(mode):
-
-    if mode == 'input':
-        id_doc = input('Enter a document ID: ',)
+    if mode_id:
+        id_doc = mode_id
         parameters = {'perPage': 10, 'page': 0, 'columnName': 'Eduskuntatunnus', 'columnValue': id_doc}
         response = requests.get('https://avoindata.eduskunta.fi/api/v1/tables/VaskiData/rows',params=parameters)
         json_data = json.loads(response.content)
         jsons.append(json_data)
 
-    elif mode == 'folder':
-        link = input('Enter a folder with documents: ',)
+    elif mode_folder:
+        link = mode_folder
         onlyfiles = [f for f in listdir(link) if isfile(join(link, f))]
         id_search = re.compile('PTK\s\d{1,4}\/\d{4}\svp')
 
@@ -45,7 +59,7 @@ def download_jsons(mode):
     return jsons
 
 def parsing_xml():
-    json1 = download_jsons('folder')
+    json1 = download_jsons()
     overall_data = []
 
     for xml in json1:
@@ -101,5 +115,5 @@ def parsing_xml():
     return df
 
 final_df = parsing_xml()
-path = input('Enter a path to the CSV file where to save the data: ', )
-final_df.to_csv(path, encoding='utf-8', sep='\t', mode='a', header=False)
+
+final_df.to_csv(csv_link, encoding='utf-8', sep='\t', mode='a', header=False)
